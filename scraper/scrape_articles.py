@@ -2,7 +2,7 @@ import requests
 from requests.adapters import HTTPAdapter, Retry
 from bs4 import BeautifulSoup
 import feedparser
-import trafilatura
+import newspaper
 import json
 import os
 import time
@@ -23,6 +23,8 @@ USER_AGENTS = [
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/121.0',
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/121.0'
 ]
+
+sleep_time = 0.3
 
 def create_session():
     session = requests.Session()
@@ -167,7 +169,7 @@ def find_article_links(website, session, analyst_name):
     # Fallback: HTML scraping
     try:
         # Add a small delay to be respectful
-        time.sleep(random.uniform(2, 5))
+        time.sleep(random.uniform(2*sleep_time, 5*sleep_time))
         
         # Add site-specific headers
         site_headers = get_site_specific_headers(website)
@@ -204,49 +206,71 @@ def find_article_links(website, session, analyst_name):
 def extract_content(url, session):
     try:
         # Add a small delay between requests
-        time.sleep(random.uniform(2, 4))
+        time.sleep(random.uniform(2*sleep_time, 4*sleep_time))
         
         # Add site-specific headers for the article URL
         site_headers = get_site_specific_headers(url)
         if site_headers:
             session.headers.update(site_headers)
         
+        # Use newspaper3k for article extraction
+        try:
+            # Create article object
+            article = newspaper.Article(url)
+            
+            # Set the HTML content from our session
+            resp = session.get(url, timeout=25)
+            if resp.status_code != 200:
+                print(f"HTTP {resp.status_code} for {url}")
+                return None
+            
+            article.download(input_html=resp.text)
+            article.parse()
+            
+            # Get the text content
+            text = article.text
+            
+            if text and len(text) > 100:  # Minimum viable content
+                print(f"Newspaper3k extracted {len(text)} characters from {url}")
+                return text
+            else:
+                print(f"Newspaper3k failed for {url}, trying BeautifulSoup fallback...")
+                
+        except Exception as e:
+            print(f"Newspaper3k failed for {url}: {e}, trying BeautifulSoup fallback...")
+        
+        # BeautifulSoup fallback
         resp = session.get(url, timeout=25)
         if resp.status_code != 200:
             print(f"HTTP {resp.status_code} for {url}")
             return None
             
-        # Try trafilatura first
-        text = trafilatura.extract(resp.text, url=url, include_comments=False, include_tables=False)
+        soup = BeautifulSoup(resp.text, 'html.parser')
         
-        # If trafilatura fails, try BeautifulSoup as fallback
-        if not text:
-            print(f"Trafilatura failed for {url}, trying BeautifulSoup fallback...")
-            soup = BeautifulSoup(resp.text, 'html.parser')
-            
-            # Remove script and style elements
-            for script in soup(["script", "style"]):
-                script.decompose()
-            
-            # Try to find main content areas
-            content_selectors = [
-                'article', 'main', '.content', '.post-content', '.entry-content',
-                '.article-content', '.story-content', '.post-body', '.entry-body'
-            ]
-            
-            for selector in content_selectors:
-                content = soup.select_one(selector)
-                if content:
-                    text = content.get_text(separator=' ', strip=True)
-                    if len(text) > 500:  # Minimum content length
-                        break
-            
-            # If still no content, get all text
-            if not text or len(text) < 500:
-                text = soup.get_text(separator=' ', strip=True)
+        # Remove script and style elements
+        for script in soup(["script", "style"]):
+            script.decompose()
+        
+        # Try to find main content areas
+        content_selectors = [
+            'article', 'main', '.content', '.post-content', '.entry-content',
+            '.article-content', '.story-content', '.post-body', '.entry-body'
+        ]
+        
+        text = None
+        for selector in content_selectors:
+            content = soup.select_one(selector)
+            if content:
+                text = content.get_text(separator=' ', strip=True)
+                if len(text) > 500:  # Minimum content length
+                    break
+        
+        # If still no content, get all text
+        if not text or len(text) < 500:
+            text = soup.get_text(separator=' ', strip=True)
         
         if text and len(text) > 100:  # Minimum viable content
-            print(f"Extracted {len(text)} characters from {url}")
+            print(f"BeautifulSoup extracted {len(text)} characters from {url}")
             return text
         else:
             print(f"No usable content extracted from {url}")

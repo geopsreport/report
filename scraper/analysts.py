@@ -25,11 +25,6 @@ analysts = [
         "description": "Former CIA case/military intel officer; now security consultant and columnist; directs Council for the National Interest; anti-interventionist realism."
     },
     {
-        "name": "Douglas Macgregor",
-        "website": "https://www.douglasmacgregor.com",
-        "description": "Retired US Army Colonel, former Trump advisor, defense consultant and author; outspoken realist critic of NATO & permanent wars."
-    },
-    {
         "name": "Danny Sjursen",
         "website": "https://antisocialmedia.com",
         "description": "Retired US Army Major (Iraq/Afghan vet); writes as 'The Skeptical Vet' on Antiwar.com; historian and harsh critic of US militarism."
