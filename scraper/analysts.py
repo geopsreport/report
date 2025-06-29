@@ -66,7 +66,7 @@ analysts = [
     },
     {
         "name": "Glenn Diesen",
-        "website": "https://glendiesen.substack.com",
+        "website": "https://glenndiesen.substack.com",
         "description": "Norwegian political scientist, pro-multipolar realism; focuses on Russia, geoeconomics and critiques Western-led order."
     },
     {
@@ -101,7 +101,7 @@ analysts = [
     },
     {
         "name": "Elijah J. Magnier",
-        "website": "https://ejmalrai.com",
+        "website": "https://ejmagnier.com",
         "description": "Veteran Middle East war correspondent; provides first-hand analysis of Syria, Iraq, Gaza; writes for The Cradle and personal blog."
     },
     {

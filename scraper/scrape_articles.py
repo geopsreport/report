@@ -5,19 +5,61 @@ import feedparser
 import trafilatura
 import json
 import os
+import time
+import random
 from openai import OpenAI
 from analysts import analysts
-from datetime import datetime
+from datetime import datetime, timezone
 
 client = OpenAI()
 
 DATA_FILE = 'data/articles.json'
 
+# Rotating User Agents to avoid detection
+USER_AGENTS = [
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/121.0',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/121.0'
+]
+
 def create_session():
     session = requests.Session()
-    retries = Retry(total=3, backoff_factor=1, status_forcelist=[500,502,503,504], allowed_methods=["GET"])
+    
+    # Randomly select a user agent
+    user_agent = random.choice(USER_AGENTS)
+    
+    # Set up headers to mimic a real browser
+    session.headers.update({
+        'User-Agent': user_agent,
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'DNT': '1',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+        'Sec-Fetch-Dest': 'document',
+        'Sec-Fetch-Mode': 'navigate',
+        'Sec-Fetch-Site': 'none',
+        'Sec-Fetch-User': '?1',
+        'Cache-Control': 'max-age=0',
+        'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'Referer': 'https://www.google.com/'
+    })
+    
+    # Configure retries with exponential backoff
+    retries = Retry(
+        total=5,
+        backoff_factor=3,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["GET", "HEAD"]
+    )
     session.mount('https://', HTTPAdapter(max_retries=retries))
     session.mount('http://', HTTPAdapter(max_retries=retries))
+    
     return session
 
 def load_existing_articles(filepath=DATA_FILE):
@@ -29,22 +71,110 @@ def load_existing_articles(filepath=DATA_FILE):
 def get_existing_urls(existing_articles):
     return {article["url"] for analyst in existing_articles for article in analyst["articles"]}
 
-def find_article_links(website, session):
+def get_site_specific_headers(website):
+    """Get site-specific headers for problematic sites"""
+    if 'unz.com' in website:
+        return {
+            'Referer': 'https://www.unz.com/',
+            'Origin': 'https://www.unz.com'
+        }
+    elif 'sonar21.com' in website:
+        return {
+            'Referer': 'https://sonar21.com/',
+            'Origin': 'https://sonar21.com'
+        }
+    return {}
+
+def filter_links_with_llm(links, analyst_name, website):
+    """Use LLM to filter links and keep only relevant article/blog post links"""
+    if not links:
+        return []
+    
+    # Prepare the list of links for the LLM
+    link_list = "\n".join([f"- {link['title']} ({link['url']})" for link in links])
+    
+    prompt = f"""You are analyzing links from {analyst_name}'s website ({website}).
+
+Here are the links found:
+{link_list}
+
+Please identify which links are actual articles, blog posts, or opinion pieces that contain substantial written content. 
+
+EXCLUDE:
+- Contact pages, about pages, bio pages
+- Social media links (Twitter, Facebook, YouTube, etc.)
+- E-commerce pages (Amazon, book sales, etc.)
+- Navigation/menu pages
+- Service pages (consulting, speaking, etc.)
+- External links that leave the main site
+- Pages that are clearly not content articles
+
+INCLUDE:
+- Blog posts, articles, opinion pieces
+- News analysis pieces
+- Substantial written content
+- Posts with dates (if visible in title)
+
+Respond with ONLY the titles of the links to keep, one per line. If none are relevant, respond with "NONE".
+
+Example response:
+Article Title 1
+Article Title 2
+Article Title 3"""
+
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[{"role": "user", "content": prompt}],
+            max_tokens=500,
+            temperature=0.1,
+        )
+        
+        selected_titles = response.choices[0].message.content.strip().split('\n')
+        selected_titles = [title.strip() for title in selected_titles if title.strip() and title.strip() != "NONE"]
+        
+        # Filter the original links based on selected titles
+        filtered_links = []
+        for link in links:
+            if link['title'] in selected_titles:
+                filtered_links.append(link)
+        
+        print(f"LLM filtered {len(links)} links down to {len(filtered_links)} relevant articles for {analyst_name}")
+        return filtered_links
+        
+    except Exception as e:
+        print(f"LLM filtering failed for {analyst_name}: {e}")
+        # Fallback: return all links if LLM fails
+        return links
+
+def find_article_links(website, session, analyst_name):
     """Very basic: ideally, customize for each site or use RSS."""
+    num_articles = 30
+    
     # Try RSS first
     feeds = [website.rstrip('/') + '/feed', website.rstrip('/') + '/rss']
     for feed_url in feeds:
         try:
             feed = feedparser.parse(feed_url)
             if feed.entries:
-                return [{"title": e.title, "url": e.link} for e in feed.entries[:10]]
+                links = [{"title": e.title, "url": e.link} for e in feed.entries[:num_articles]]
+                # Filter RSS links with LLM
+                return filter_links_with_llm(links, analyst_name, website)
         except Exception as e:
             print(f"RSS feed failed for {feed_url}: {e}")
             continue
     
     # Fallback: HTML scraping
     try:
-        resp = session.get(website, timeout=10)
+        # Add a small delay to be respectful
+        time.sleep(random.uniform(2, 5))
+        
+        # Add site-specific headers
+        site_headers = get_site_specific_headers(website)
+        if site_headers:
+            session.headers.update(site_headers)
+        
+        resp = session.get(website, timeout=20)
         if resp.status_code != 200:
             print(f"HTTP {resp.status_code} for {website}")
             return []
@@ -57,7 +187,10 @@ def find_article_links(website, session):
             if href.startswith('/'): href = website.rstrip('/') + href
             if href.startswith('http'):
                 links.append({"title": title, "url": href})
-        return links[:10]
+        
+        # Filter HTML links with LLM
+        return filter_links_with_llm(links[:num_articles], analyst_name, website)
+        
     except requests.exceptions.ConnectionError as e:
         print(f"Connection error for {website}: {e}")
         return []
@@ -70,11 +203,55 @@ def find_article_links(website, session):
 
 def extract_content(url, session):
     try:
-        resp = session.get(url, timeout=15)
+        # Add a small delay between requests
+        time.sleep(random.uniform(2, 4))
+        
+        # Add site-specific headers for the article URL
+        site_headers = get_site_specific_headers(url)
+        if site_headers:
+            session.headers.update(site_headers)
+        
+        resp = session.get(url, timeout=25)
         if resp.status_code != 200:
+            print(f"HTTP {resp.status_code} for {url}")
             return None
+            
+        # Try trafilatura first
         text = trafilatura.extract(resp.text, url=url, include_comments=False, include_tables=False)
-        return text
+        
+        # If trafilatura fails, try BeautifulSoup as fallback
+        if not text:
+            print(f"Trafilatura failed for {url}, trying BeautifulSoup fallback...")
+            soup = BeautifulSoup(resp.text, 'html.parser')
+            
+            # Remove script and style elements
+            for script in soup(["script", "style"]):
+                script.decompose()
+            
+            # Try to find main content areas
+            content_selectors = [
+                'article', 'main', '.content', '.post-content', '.entry-content',
+                '.article-content', '.story-content', '.post-body', '.entry-body'
+            ]
+            
+            for selector in content_selectors:
+                content = soup.select_one(selector)
+                if content:
+                    text = content.get_text(separator=' ', strip=True)
+                    if len(text) > 500:  # Minimum content length
+                        break
+            
+            # If still no content, get all text
+            if not text or len(text) < 500:
+                text = soup.get_text(separator=' ', strip=True)
+        
+        if text and len(text) > 100:  # Minimum viable content
+            print(f"Extracted {len(text)} characters from {url}")
+            return text
+        else:
+            print(f"No usable content extracted from {url}")
+            return None
+            
     except Exception as e:
         print(f"Content extraction failed for {url}: {e}")
         return None
@@ -111,10 +288,11 @@ def main():
     for analyst in analysts:
         print(f"Checking {analyst['name']}")
         try:
-            links = find_article_links(analyst['website'], session)
+            links = find_article_links(analyst['website'], session, analyst['name'])
             if not links:
-                print(f"No links found for {analyst['name']}, skipping...")
+                print(f"No relevant links found for {analyst['name']}, skipping...")
                 continue
+            print(f"Found {len(links)} relevant links for {analyst['name']}")
                 
             new_articles = []
             for art in links:
@@ -140,12 +318,12 @@ def main():
 
             if analyst['name'] in analyst_dict:
                 analyst_dict[analyst['name']]['articles'].extend(new_articles)
-                analyst_dict[analyst['name']]['timestamp'] = datetime.utcnow().isoformat()
+                analyst_dict[analyst['name']]['timestamp'] = datetime.now(timezone.utc).isoformat()
             else:
                 existing_articles.append({
                     "analyst": analyst["name"],
                     "website": analyst["website"],
-                    "timestamp": datetime.utcnow().isoformat(),
+                    "timestamp": datetime.now(timezone.utc).isoformat(),
                     "articles": new_articles
                 })
             print(f"Added {len(new_articles)} new articles from {analyst['name']}.")
