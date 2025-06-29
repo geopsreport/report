@@ -1,0 +1,51 @@
+name: Scrape, Analyze and Publish
+
+on:
+  schedule:
+    - cron: '0 6,18 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape-and-analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 feedparser trafilatura openai
+
+      - name: Scrape and save articles
+        run: python scraper/scrape_articles.py
+
+      - name: Summarize context
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python analysis/summarize_context.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/ site/_posts/
+          git commit -m "Auto: Update articles and summary $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
+          git push
+
+  publish-site:
+    needs: scrape-and-analyze
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./site
+          destination: ./_site
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4 
