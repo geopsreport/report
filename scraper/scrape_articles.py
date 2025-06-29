@@ -34,21 +34,39 @@ def find_article_links(website, session):
     # Try RSS first
     feeds = [website.rstrip('/') + '/feed', website.rstrip('/') + '/rss']
     for feed_url in feeds:
-        feed = feedparser.parse(feed_url)
-        if feed.entries:
-            return [{"title": e.title, "url": e.link} for e in feed.entries[:10]]
+        try:
+            feed = feedparser.parse(feed_url)
+            if feed.entries:
+                return [{"title": e.title, "url": e.link} for e in feed.entries[:10]]
+        except Exception as e:
+            print(f"RSS feed failed for {feed_url}: {e}")
+            continue
+    
     # Fallback: HTML scraping
-    resp = session.get(website, timeout=10)
-    soup = BeautifulSoup(resp.text, 'html.parser')
-    links = []
-    for link in soup.find_all('a', href=True):
-        title = link.get_text().strip()
-        href = link['href']
-        if not title or len(title) < 5: continue
-        if href.startswith('/'): href = website.rstrip('/') + href
-        if href.startswith('http'):
-            links.append({"title": title, "url": href})
-    return links[:10]
+    try:
+        resp = session.get(website, timeout=10)
+        if resp.status_code != 200:
+            print(f"HTTP {resp.status_code} for {website}")
+            return []
+        soup = BeautifulSoup(resp.text, 'html.parser')
+        links = []
+        for link in soup.find_all('a', href=True):
+            title = link.get_text().strip()
+            href = link['href']
+            if not title or len(title) < 5: continue
+            if href.startswith('/'): href = website.rstrip('/') + href
+            if href.startswith('http'):
+                links.append({"title": title, "url": href})
+        return links[:10]
+    except requests.exceptions.ConnectionError as e:
+        print(f"Connection error for {website}: {e}")
+        return []
+    except requests.exceptions.Timeout as e:
+        print(f"Timeout error for {website}: {e}")
+        return []
+    except Exception as e:
+        print(f"Error scraping {website}: {e}")
+        return []
 
 def extract_content(url, session):
     try:
@@ -92,39 +110,49 @@ def main():
 
     for analyst in analysts:
         print(f"Checking {analyst['name']}")
-        links = find_article_links(analyst['website'], session)
-        new_articles = []
-        for art in links:
-            if art['url'] in existing_urls:
-                continue  # Skip known
-            content = extract_content(art['url'], session)
-            if not content or len(content) < 300:
+        try:
+            links = find_article_links(analyst['website'], session)
+            if not links:
+                print(f"No links found for {analyst['name']}, skipping...")
                 continue
-            sent_sum = summarize(content[:1200], 'sentence')
-            para_sum = summarize(content[:2000], 'paragraph')
-            new_articles.append({
-                "title": art['title'],
-                "url": art['url'],
-                "text": content,
-                "one_sentence_summary": sent_sum,
-                "paragraph_summary": para_sum
-            })
-            existing_urls.add(art['url'])  # Prevent repeats in same run
+                
+            new_articles = []
+            for art in links:
+                if art['url'] in existing_urls:
+                    continue  # Skip known
+                content = extract_content(art['url'], session)
+                if not content or len(content) < 300:
+                    continue
+                sent_sum = summarize(content[:1200], 'sentence')
+                para_sum = summarize(content[:2000], 'paragraph')
+                new_articles.append({
+                    "title": art['title'],
+                    "url": art['url'],
+                    "text": content,
+                    "one_sentence_summary": sent_sum,
+                    "paragraph_summary": para_sum
+                })
+                existing_urls.add(art['url'])  # Prevent repeats in same run
 
-        if not new_articles:
+            if not new_articles:
+                print(f"No new articles found for {analyst['name']}")
+                continue
+
+            if analyst['name'] in analyst_dict:
+                analyst_dict[analyst['name']]['articles'].extend(new_articles)
+                analyst_dict[analyst['name']]['timestamp'] = datetime.utcnow().isoformat()
+            else:
+                existing_articles.append({
+                    "analyst": analyst["name"],
+                    "website": analyst["website"],
+                    "timestamp": datetime.utcnow().isoformat(),
+                    "articles": new_articles
+                })
+            print(f"Added {len(new_articles)} new articles from {analyst['name']}.")
+            
+        except Exception as e:
+            print(f"Error processing {analyst['name']}: {e}")
             continue
-
-        if analyst['name'] in analyst_dict:
-            analyst_dict[analyst['name']]['articles'].extend(new_articles)
-            analyst_dict[analyst['name']]['timestamp'] = datetime.utcnow().isoformat()
-        else:
-            existing_articles.append({
-                "analyst": analyst["name"],
-                "website": analyst["website"],
-                "timestamp": datetime.utcnow().isoformat(),
-                "articles": new_articles
-            })
-        print(f"Added {len(new_articles)} new articles from {analyst['name']}.")
 
     save_articles(existing_articles)
 

@@ -21,7 +21,7 @@ analysts = [
     },
     {
         "name": "Philip Giraldi",
-        "website": "https://unzcircle.com",
+        "website": "https://www.unz.com/author/philip-giraldi/",
         "description": "Former CIA case/military intel officer; now security consultant and columnist; directs Council for the National Interest; anti-interventionist realism."
     },
     {
