@@ -1,7 +1,9 @@
-import json, openai, os
+import json
+from openai import OpenAI
+import os
 from datetime import datetime, timedelta
 
-openai.api_key = os.getenv('OPENAI_API_KEY')
+client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 DATA_FILE = 'data/articles.json'
 
 def load_articles():
@@ -23,7 +25,7 @@ def make_context_summary(recent):
     for analyst, title, para_sum in recent:
         prompt += f"\n- [{analyst}] {title}: {para_sum}"
     prompt += "\n\nHighlight the main events, trends, and context."
-    response = openai.ChatCompletion.create(
+    response = client.chat.completions.create(
         model="gpt-4o",
         messages=[{"role": "user", "content": prompt}],
         max_tokens=500,

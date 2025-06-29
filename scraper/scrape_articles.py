@@ -5,11 +5,11 @@ import feedparser
 import trafilatura
 import json
 import os
-import openai
+from openai import OpenAI
 from analysts import analysts
 from datetime import datetime
 
-openai.api_key = os.getenv('OPENAI_API_KEY')
+client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 DATA_FILE = 'data/articles.json'
 
@@ -87,7 +87,7 @@ def summarize(text, mode='sentence'):
         "paragraph": "Summarize the following article in one paragraph:\n" + text,
     }[mode]
     try:
-        response = openai.ChatCompletion.create(
+        response = client.chat.completions.create(
             model="gpt-4o",
             messages=[{"role": "user", "content": prompt}],
             max_tokens=100 if mode == 'sentence' else 250,
