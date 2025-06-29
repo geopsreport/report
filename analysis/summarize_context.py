@@ -3,7 +3,7 @@ from openai import OpenAI
 import os
 from datetime import datetime, timedelta
 
-client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+client = OpenAI()
 DATA_FILE = 'data/articles.json'
 
 def load_articles():

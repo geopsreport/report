@@ -9,7 +9,7 @@ from openai import OpenAI
 from analysts import analysts
 from datetime import datetime
 
-client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+client = OpenAI()
 
 DATA_FILE = 'data/articles.json'
 
