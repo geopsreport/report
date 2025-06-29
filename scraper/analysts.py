@@ -37,7 +37,7 @@ analysts = [
     {
         "name": "Andrei Martyanov",
         "website": "https://turcopolier.typepad.com",
-        "description": "Former Soviet naval officer and military analyst; runs "Reminiscence of the Future" blog, focusing on Russian vs US military-industrial realities."
+        "description": "Former Soviet naval officer and military analyst; runs 'Reminiscence of the Future' blog, focusing on Russian vs US military-industrial realities."
     },
     {
         "name": "Chas W. Freeman Jr.",
@@ -72,7 +72,7 @@ analysts = [
     {
         "name": "Mark Sleboda",
         "website": "https://marksleboda.substack.com",
-        "description": "US Navy vet based in Moscow; hosts "The Real Politick"; realist analysis of Russia–US tensions, often dismantling Western narratives."
+        "description": "US Navy vet based in Moscow; hosts 'The Real Politick'; realist analysis of Russia–US tensions, often dismantling Western narratives."
     },
     {
         "name": "Chris Hedges",
@@ -148,5 +148,5 @@ analysts = [
         "name": "Rana Abou Rjeily",
         "website": "https://ranahabib.substack.com",
         "description": "Lebanese writer and typographer based in Beirut; Substack offers cultural/political reflections from Middle East intersectional angle."
-    },
+    }
 ]
