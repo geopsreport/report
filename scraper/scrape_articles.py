@@ -7,6 +7,7 @@ import json
 import os
 import time
 import random
+from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 from openai import OpenAI
 from analysts import analysts
 from datetime import datetime, timezone
@@ -25,6 +26,49 @@ USER_AGENTS = [
 ]
 
 sleep_time = 0.3
+
+def clean_url(url):
+    """Remove UTM parameters and other tracking parameters from URLs"""
+    try:
+        parsed = urlparse(url)
+        query_params = parse_qs(parsed.query)
+        
+        # Remove tracking parameters
+        tracking_params = [
+            'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content',
+            'fbclid', 'gclid', 'msclkid', 'ref', 'source', 'campaign', 'medium',
+            'term', 'content', 'mc_cid', 'mc_eid', 'mc_cid', 'mc_eid'
+        ]
+        
+        # Remove tracking parameters
+        for param in tracking_params:
+            query_params.pop(param, None)
+        
+        # Rebuild URL without tracking parameters
+        if query_params:
+            new_query = urlencode(query_params, doseq=True)
+            cleaned_url = urlunparse((
+                parsed.scheme,
+                parsed.netloc,
+                parsed.path,
+                parsed.params,
+                new_query,
+                parsed.fragment
+            ))
+        else:
+            cleaned_url = urlunparse((
+                parsed.scheme,
+                parsed.netloc,
+                parsed.path,
+                parsed.params,
+                '',
+                parsed.fragment
+            ))
+        
+        return cleaned_url
+    except Exception as e:
+        print(f"Error cleaning URL {url}: {e}")
+        return url
 
 def create_session():
     session = requests.Session()
@@ -91,6 +135,10 @@ def filter_links_with_llm(links, analyst_name, website):
     """Use LLM to filter links and keep only relevant article/blog post links"""
     if not links:
         return []
+    
+    # Clean URLs before sending to LLM
+    for link in links:
+        link['url'] = clean_url(link['url'])
     
     # Prepare the list of links for the LLM
     link_list = "\n".join([f"- {link['title']} ({link['url']})" for link in links])
@@ -205,23 +253,26 @@ def find_article_links(website, session, analyst_name):
 
 def extract_content(url, session):
     try:
+        # Clean the URL before processing
+        clean_url_str = clean_url(url)
+        
         # Add a small delay between requests
         time.sleep(random.uniform(2*sleep_time, 4*sleep_time))
         
         # Add site-specific headers for the article URL
-        site_headers = get_site_specific_headers(url)
+        site_headers = get_site_specific_headers(clean_url_str)
         if site_headers:
             session.headers.update(site_headers)
         
         # Use newspaper3k for article extraction
         try:
             # Create article object
-            article = newspaper.Article(url)
+            article = newspaper.Article(clean_url_str)
             
             # Set the HTML content from our session
-            resp = session.get(url, timeout=25)
+            resp = session.get(clean_url_str, timeout=25)
             if resp.status_code != 200:
-                print(f"HTTP {resp.status_code} for {url}")
+                print(f"HTTP {resp.status_code} for {clean_url_str}")
                 return None
             
             article.download(input_html=resp.text)
@@ -231,18 +282,18 @@ def extract_content(url, session):
             text = article.text
             
             if text and len(text) > 100:  # Minimum viable content
-                print(f"Newspaper3k extracted {len(text)} characters from {url}")
+                print(f"Newspaper3k extracted {len(text)} characters from {clean_url_str}")
                 return text
             else:
-                print(f"Newspaper3k failed for {url}, trying BeautifulSoup fallback...")
+                print(f"Newspaper3k failed for {clean_url_str}, trying BeautifulSoup fallback...")
                 
         except Exception as e:
-            print(f"Newspaper3k failed for {url}: {e}, trying BeautifulSoup fallback...")
+            print(f"Newspaper3k failed for {clean_url_str}: {e}, trying BeautifulSoup fallback...")
         
         # BeautifulSoup fallback
-        resp = session.get(url, timeout=25)
+        resp = session.get(clean_url_str, timeout=25)
         if resp.status_code != 200:
-            print(f"HTTP {resp.status_code} for {url}")
+            print(f"HTTP {resp.status_code} for {clean_url_str}")
             return None
             
         soup = BeautifulSoup(resp.text, 'html.parser')
@@ -270,10 +321,10 @@ def extract_content(url, session):
             text = soup.get_text(separator=' ', strip=True)
         
         if text and len(text) > 100:  # Minimum viable content
-            print(f"BeautifulSoup extracted {len(text)} characters from {url}")
+            print(f"BeautifulSoup extracted {len(text)} characters from {clean_url_str}")
             return text
         else:
-            print(f"No usable content extracted from {url}")
+            print(f"No usable content extracted from {clean_url_str}")
             return None
             
     except Exception as e:
@@ -320,7 +371,9 @@ def main():
                 
             new_articles = []
             for art in links:
-                if art['url'] in existing_urls:
+                # Clean the URL for duplicate checking
+                clean_url_str = clean_url(art['url'])
+                if clean_url_str in existing_urls:
                     continue  # Skip known
                 content = extract_content(art['url'], session)
                 if not content or len(content) < 300:
@@ -329,12 +382,12 @@ def main():
                 para_sum = summarize(content[:2000], 'paragraph')
                 new_articles.append({
                     "title": art['title'],
-                    "url": art['url'],
+                    "url": clean_url_str,  # Store cleaned URL
                     "text": content,
                     "one_sentence_summary": sent_sum,
                     "paragraph_summary": para_sum
                 })
-                existing_urls.add(art['url'])  # Prevent repeats in same run
+                existing_urls.add(clean_url_str)  # Prevent repeats in same run
 
             if not new_articles:
                 print(f"No new articles found for {analyst['name']}")
