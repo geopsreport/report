@@ -17,7 +17,10 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 feedparser newspaper3k openai
+        run: |
+          pip install requests beautifulsoup4 feedparser openai
+          pip install "lxml[html_clean]"
+          pip install newspaper3k
 
       - name: Scrape and save articles
         env:
