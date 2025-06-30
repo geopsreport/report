@@ -11,6 +11,7 @@ from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 from openai import OpenAI
 from analysts import analysts
 from datetime import datetime, timezone
+import string
 
 client = OpenAI()
 
@@ -25,7 +26,7 @@ USER_AGENTS = [
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/121.0'
 ]
 
-sleep_time = 0.3
+sleep_time = 0.1
 
 def clean_url(url):
     """Remove UTM parameters and other tracking parameters from URLs"""
@@ -81,7 +82,7 @@ def create_session():
         'User-Agent': user_agent,
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
         'Accept-Language': 'en-US,en;q=0.9',
-        'Accept-Encoding': 'gzip, deflate, br',
+        'Accept-Encoding': 'gzip, deflate',  # Let requests handle gzip/deflate, not brotli
         'DNT': '1',
         'Connection': 'keep-alive',
         'Upgrade-Insecure-Requests': '1',
@@ -251,6 +252,13 @@ def find_article_links(website, session, analyst_name):
         print(f"Error scraping {website}: {e}")
         return []
 
+def is_mostly_printable(text, threshold=0.95):
+    if not text:
+        return False
+    printable = set(string.printable)
+    count = sum(1 for c in text if c in printable)
+    return (count / len(text)) >= threshold
+
 def extract_content(url, session):
     try:
         # Clean the URL before processing
@@ -266,67 +274,60 @@ def extract_content(url, session):
         
         # Use newspaper3k for article extraction
         try:
-            # Create article object
             article = newspaper.Article(clean_url_str)
-            
-            # Set the HTML content from our session
             resp = session.get(clean_url_str, timeout=25)
             if resp.status_code != 200:
                 print(f"HTTP {resp.status_code} for {clean_url_str}")
                 return None
-            
-            article.download(input_html=resp.text)
+            # Check content-type
+            ctype = resp.headers.get('Content-Type', '')
+            if not ctype.startswith('text/html'):
+                print(f"Skipping non-HTML content: {ctype} for {clean_url_str}")
+                return None
+            # Always decode as utf-8, ignore errors
+            html = resp.content.decode('utf-8', errors='ignore')
+            article.download(input_html=html)
             article.parse()
-            
-            # Get the text content
             text = article.text
-            
-            if text and len(text) > 100:  # Minimum viable content
+            if text and len(text) > 100 and is_mostly_printable(text):
                 print(f"Newspaper3k extracted {len(text)} characters from {clean_url_str}")
                 return text
             else:
                 print(f"Newspaper3k failed for {clean_url_str}, trying BeautifulSoup fallback...")
-                
         except Exception as e:
             print(f"Newspaper3k failed for {clean_url_str}: {e}, trying BeautifulSoup fallback...")
-        
         # BeautifulSoup fallback
         resp = session.get(clean_url_str, timeout=25)
         if resp.status_code != 200:
             print(f"HTTP {resp.status_code} for {clean_url_str}")
             return None
-            
-        soup = BeautifulSoup(resp.text, 'html.parser')
-        
-        # Remove script and style elements
+        ctype = resp.headers.get('Content-Type', '')
+        if not ctype.startswith('text/html'):
+            print(f"Skipping non-HTML content: {ctype} for {clean_url_str}")
+            return None
+        html = resp.content.decode('utf-8', errors='ignore')
+        soup = BeautifulSoup(html, 'html.parser')
         for script in soup(["script", "style"]):
             script.decompose()
-        
-        # Try to find main content areas
         content_selectors = [
             'article', 'main', '.content', '.post-content', '.entry-content',
             '.article-content', '.story-content', '.post-body', '.entry-body'
         ]
-        
         text = None
         for selector in content_selectors:
             content = soup.select_one(selector)
             if content:
                 text = content.get_text(separator=' ', strip=True)
-                if len(text) > 500:  # Minimum content length
+                if len(text) > 500:
                     break
-        
-        # If still no content, get all text
         if not text or len(text) < 500:
             text = soup.get_text(separator=' ', strip=True)
-        
-        if text and len(text) > 100:  # Minimum viable content
+        if text and len(text) > 100 and is_mostly_printable(text):
             print(f"BeautifulSoup extracted {len(text)} characters from {clean_url_str}")
             return text
         else:
             print(f"No usable content extracted from {clean_url_str}")
             return None
-            
     except Exception as e:
         print(f"Content extraction failed for {url}: {e}")
         return None
@@ -379,6 +380,7 @@ def main():
                 if not content or len(content) < 300:
                     continue
                 sent_sum = summarize(content[:1200], 'sentence')
+                print(f"Sent_sum: {sent_sum}")
                 para_sum = summarize(content[:2000], 'paragraph')
                 new_articles.append({
                     "title": art['title'],
