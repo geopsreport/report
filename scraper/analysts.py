@@ -5,11 +5,6 @@ analysts = [
         "description": "Former CIA analyst & State Dept counterterrorism official; runs Sonar21 blog covering national security and global affairs from a skeptical, realist viewpoint."
     },
     {
-        "name": "Scott Ritter",
-        "website": "https://realscottritter.substack.com",
-        "description": "Ex-Marine intelligence officer and UN weapons inspector; Substack newsletter offering blunt critiques of US foreign policy and war narratives."
-    },
-    {
         "name": "Daniel L. Davis",
         "website": "https://19fortyfive.com",
         "description": "Retired US Army Lt. Colonel and defense fellow; contributes critical analysis on US military strategy, especially regarding Ukraine and budget."

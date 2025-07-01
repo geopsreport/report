@@ -18,7 +18,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 feedparser openai
+          pip install requests beautifulsoup4 feedparser openai tenacity
           pip install "lxml[html_clean]"
           pip install newspaper3k
 
