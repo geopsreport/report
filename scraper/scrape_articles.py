@@ -14,6 +14,8 @@ from datetime import datetime, timezone
 import string
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
 import openai
+import traceback
+from dateutil import parser as date_parser
 
 client = OpenAI()
 
@@ -120,20 +122,6 @@ def load_existing_articles(filepath=DATA_FILE):
 def get_existing_urls(existing_articles):
     return {article["url"] for analyst in existing_articles for article in analyst["articles"]}
 
-def get_site_specific_headers(website):
-    """Get site-specific headers for problematic sites"""
-    if 'unz.com' in website:
-        return {
-            'Referer': 'https://www.unz.com/',
-            'Origin': 'https://www.unz.com'
-        }
-    elif 'sonar21.com' in website:
-        return {
-            'Referer': 'https://sonar21.com/',
-            'Origin': 'https://sonar21.com'
-        }
-    return {}
-
 def is_mostly_printable(text, threshold=0.95):
     if not text:
         return False
@@ -155,6 +143,22 @@ def call_openai_api(messages, max_tokens, temperature=0.3, timeout=30):
         temperature=temperature,
         timeout=timeout
     )
+
+def test_openai_api():
+    print("Testing OpenAI API connectivity...")
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[{"role": "user", "content": "Say hello."}],
+            max_tokens=10,
+            temperature=0.0,
+            timeout=20
+        )
+        print("OpenAI API test succeeded. Response:", response.choices[0].message.content.strip())
+    except Exception as e:
+        print("OpenAI API connectivity test failed:")
+        traceback.print_exc()
+        raise SystemExit("Exiting: OpenAI API is not reachable from this environment.")
 
 def filter_links_with_llm(links, analyst_name, website):
     """Use LLM to filter links and keep only relevant article/blog post links"""
@@ -219,8 +223,35 @@ Article Title 3"""
         
     except Exception as e:
         print(f"LLM filtering failed for {analyst_name}: {e}")
+        traceback.print_exc()
         # Fallback: return all links if LLM fails
         return links
+
+def extract_pub_date(art, feed_entry=None, soup=None):
+    # Try RSS feed date
+    if feed_entry and hasattr(feed_entry, 'published'):
+        try:
+            return date_parser.parse(feed_entry.published).isoformat()
+        except Exception:
+            pass
+    # Try meta tags in HTML
+    if soup:
+        for meta in soup.find_all('meta'):
+            if meta.get('property') in ['article:published_time', 'og:published_time', 'datePublished'] or meta.get('name') in ['pubdate', 'publishdate', 'date', 'dc.date', 'datePublished']:
+                try:
+                    return date_parser.parse(meta['content']).isoformat()
+                except Exception:
+                    pass
+    # Fallback to now
+    return datetime.now(timezone.utc).isoformat()
+
+def set_referer_origin(session, url):
+    parsed = urlparse(url)
+    site = f"{parsed.scheme}://{parsed.netloc}/"
+    session.headers.update({
+        'Referer': site,
+        'Origin': site.rstrip('/')
+    })
 
 def find_article_links(website, session, analyst_name):
     """Very basic: ideally, customize for each site or use RSS."""
@@ -232,7 +263,7 @@ def find_article_links(website, session, analyst_name):
         try:
             feed = feedparser.parse(feed_url)
             if feed.entries:
-                links = [{"title": e.title, "url": e.link} for e in feed.entries[:num_articles]]
+                links = [{"title": e.title, "url": e.link, "published": e.published if hasattr(e, 'published') else None} for e in feed.entries[:num_articles]]
                 # Filter RSS links with LLM
                 return filter_links_with_llm(links, analyst_name, website)
         except Exception as e:
@@ -245,9 +276,7 @@ def find_article_links(website, session, analyst_name):
         time.sleep(random.uniform(2*sleep_time, 5*sleep_time))
         
         # Add site-specific headers
-        site_headers = get_site_specific_headers(website)
-        if site_headers:
-            session.headers.update(site_headers)
+        set_referer_origin(session, website)
         
         resp = session.get(website, timeout=20)
         if resp.status_code != 200:
@@ -285,9 +314,7 @@ def extract_content(url, session):
         time.sleep(random.uniform(2*sleep_time, 4*sleep_time))
         
         # Add site-specific headers for the article URL
-        site_headers = get_site_specific_headers(clean_url_str)
-        if site_headers:
-            session.headers.update(site_headers)
+        set_referer_origin(session, clean_url_str)
         
         # Use newspaper3k for article extraction
         try:
@@ -368,6 +395,7 @@ def summarize(text, mode='sentence'):
         return response.choices[0].message.content.strip()
     except Exception as e:
         print(f"Summarization failed: {e}")
+        traceback.print_exc()
         return ""
 
 def save_articles(articles, filepath=DATA_FILE):
@@ -375,6 +403,7 @@ def save_articles(articles, filepath=DATA_FILE):
         json.dump(articles, f, indent=2)
 
 def main():
+    test_openai_api()  # Fail early if OpenAI API is not reachable
     session = create_session()
     existing_articles = load_existing_articles()
     existing_urls = get_existing_urls(existing_articles)
@@ -398,15 +427,16 @@ def main():
                 content = extract_content(art['url'], session)
                 if not content or len(content) < 300:
                     continue
-                sent_sum = summarize(content[:1200], 'sentence')
+                sent_sum = summarize(content[:10000], 'sentence')
                 print(f"Sent_sum: {sent_sum}")
-                para_sum = summarize(content[:2000], 'paragraph')
+                para_sum = summarize(content[:20000], 'paragraph')
                 new_articles.append({
                     "title": art['title'],
                     "url": clean_url_str,  # Store cleaned URL
                     "text": content,
                     "one_sentence_summary": sent_sum,
-                    "paragraph_summary": para_sum
+                    "paragraph_summary": para_sum,
+                    "published": extract_pub_date(art, soup=None)
                 })
                 existing_urls.add(clean_url_str)  # Prevent repeats in same run
 
