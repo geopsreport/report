@@ -12,6 +12,8 @@ from openai import OpenAI
 from analysts import analysts
 from datetime import datetime, timezone
 import string
+from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
+import openai
 
 client = OpenAI()
 
@@ -132,6 +134,28 @@ def get_site_specific_headers(website):
         }
     return {}
 
+def is_mostly_printable(text, threshold=0.95):
+    if not text:
+        return False
+    printable = set(string.printable)
+    count = sum(1 for c in text if c in printable)
+    return (count / len(text)) >= threshold
+
+@retry(
+    stop=stop_after_attempt(3),
+    wait=wait_exponential(multiplier=1, min=2, max=10),
+    retry=retry_if_exception_type((openai.APIConnectionError, openai.APITimeoutError, openai.RateLimitError))
+)
+def call_openai_api(messages, max_tokens, temperature=0.3, timeout=30):
+    """Centralized OpenAI API call with retry logic"""
+    return client.chat.completions.create(
+        model="gpt-4o",
+        messages=messages,
+        max_tokens=max_tokens,
+        temperature=temperature,
+        timeout=timeout
+    )
+
 def filter_links_with_llm(links, analyst_name, website):
     """Use LLM to filter links and keep only relevant article/blog post links"""
     if not links:
@@ -174,11 +198,11 @@ Article Title 2
 Article Title 3"""
 
     try:
-        response = client.chat.completions.create(
-            model="gpt-4o",
+        response = call_openai_api(
             messages=[{"role": "user", "content": prompt}],
             max_tokens=500,
             temperature=0.1,
+            timeout=60
         )
         
         selected_titles = response.choices[0].message.content.strip().split('\n')
@@ -251,13 +275,6 @@ def find_article_links(website, session, analyst_name):
     except Exception as e:
         print(f"Error scraping {website}: {e}")
         return []
-
-def is_mostly_printable(text, threshold=0.95):
-    if not text:
-        return False
-    printable = set(string.printable)
-    count = sum(1 for c in text if c in printable)
-    return (count / len(text)) >= threshold
 
 def extract_content(url, session):
     try:
@@ -335,16 +352,18 @@ def extract_content(url, session):
 def summarize(text, mode='sentence'):
     if not text:
         return ""
+    
     prompt = {
         "sentence": "Summarize the following article in one sentence:\n" + text,
         "paragraph": "Summarize the following article in one paragraph:\n" + text,
     }[mode]
+    
     try:
-        response = client.chat.completions.create(
-            model="gpt-4o",
+        response = call_openai_api(
             messages=[{"role": "user", "content": prompt}],
             max_tokens=100 if mode == 'sentence' else 250,
             temperature=0.3,
+            timeout=30
         )
         return response.choices[0].message.content.strip()
     except Exception as e:
