@@ -60,7 +60,7 @@ def save_site_post(summary):
     filename = f"site/_posts/{date_str}-{hour_str}-geops-report.md"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, 'w') as f:
-        f.write(f"---\ntitle: \"Geops Report {date_str} {hour_str}\"\ndate: {date_str} {now.strftime('%H')}:00 UTC\n---\n\n{summary}\n")
+        f.write(f"---\ntitle: \"Geops Report {date_str} {hour_str.capitalize()}\"\ndate: {date_str} {now.strftime('%H')}:00 UTC\n---\n\n{summary}\n")
 
 def main():
     articles = load_articles()

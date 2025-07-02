@@ -1,5 +1,5 @@
 ---
-title: "Geops Report 2025-07-02 morning"
+title: "Geops Report 2025-07-02 Morning"
 date: 2025-07-02 10:00 UTC
 ---
 

@@ -91,6 +91,9 @@
     <h1><a href="{{ site.baseurl }}">Geops Report</a></h1>
   </header>
   <main>
+    {% if page.title %}
+      <h1 style="font-size:2rem;font-weight:700;margin-top:0;margin-bottom:1.2rem;color:#1a2233;">{{ page.title }}</h1>
+    {% endif %}
     {{ content }}
   </main>
 </body>
