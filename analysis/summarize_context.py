@@ -12,7 +12,7 @@ def load_articles():
         return json.load(f)
 
 def recent_articles(articles, hours=12):
-    cutoff = datetime.datetime.now(datetime.timezone.UTC) - datetime.timedelta(hours=hours)
+    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=hours)
     recents = []
     # if num articles is less than 10 return full text
     if len(articles) < 10:
@@ -28,15 +28,22 @@ def recent_articles(articles, hours=12):
     return recents
 
 def make_context_summary(recent, input_context=None):
-    prompt = """Write a journalistic article summarizing the geopolitical situation based on the following publications from the independent analysts.
-The news site called Geops Report published an updated report of the most current situation and developments every 12 hours.
-Keep the same professional tone and style as the source articles. When quoting a source on an opinion, use the quote and the source's name.
+    prompt = """
+You are a journalist and intelligence analyst assistant AI writing for the geopolitics news publication Geops Report.
+You must write a journalistic article summarizing the geopolitical situation based on the following publications from selected independent analysts.
+
+A new report is published every 12 hours, so:
+- Focus on **new developments** or information instead of repeating previous reports.
+- Keep it **short**, don't deal with more than 4 subjects at the time.
+- When quoting a source on an opinion, use the **quote and the source**'s name.
+- Keep the same **professional** tone and style as the source articles.
+
 """
     if input_context:
         prompt += f"\n\n{input_context}"
     for analyst, title, para_sum in recent:
         prompt += f"\n- [{analyst}] {title}: {para_sum}"
-    prompt += "\n\nHighlight the main events, context, trends and expected outcomes."
+    prompt += "\n\nWrite a summary report for the main events, context, trends and expected outcomes."
     print("len(summary context):", len(prompt))
     response = client.chat.completions.create(
         model="gpt-4o",
@@ -47,7 +54,7 @@ Keep the same professional tone and style as the source articles. When quoting a
     return response.choices[0].message.content.strip()
 
 def save_site_post(summary):
-    now = datetime.datetime.now(datetime.timezone.UTC)
+    now = datetime.datetime.now(datetime.timezone.utc)
     date_str = now.strftime('%Y-%m-%d')
     hour_str = "morning" if now.hour < 12 else "afternoon"
     filename = f"site/_posts/{date_str}-{hour_str}-geops-report.md"

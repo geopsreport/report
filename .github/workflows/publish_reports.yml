@@ -1,12 +1,12 @@
-name: Scrape, Analyze and Publish
+name: Publish Reports
 
 on:
   schedule:
-    - cron: '0 6,18 * * *'
+    - cron: '0 6,18 * * *'  # 6 AM and 6 PM UTC
   workflow_dispatch:
 
 jobs:
-  scrape-and-analyze:
+  publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,11 +22,6 @@ jobs:
           pip install "lxml[html_clean]"
           pip install newspaper3k
 
-      - name: Scrape and save articles
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python scraper/scrape_articles.py
-
       - name: Summarize context
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -36,12 +31,12 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/ site/_posts/
-          git commit -m "Auto: Update articles and summary $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
+          git add site/_posts/
+          git commit -m "Auto: Publish new report $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
           git push
 
   publish-site:
-    needs: scrape-and-analyze
+    needs: publish
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

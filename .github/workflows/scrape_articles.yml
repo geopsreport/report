@@ -1,0 +1,36 @@
+name: Scrape Articles
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # Every 2 hours
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 feedparser openai tenacity
+          pip install "lxml[html_clean]"
+          pip install newspaper3k
+
+      - name: Scrape and save articles
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scraper/scrape_articles.py
+
+      - name: Commit and push articles
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/
+          git commit -m "Auto: Update articles $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
+          git push 
