@@ -47,6 +47,8 @@ jobs:
         with:
           source: ./site
           destination: ./_site
+        env:
+          JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
