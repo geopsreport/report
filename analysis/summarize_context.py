@@ -12,7 +12,7 @@ def load_articles():
         return json.load(f)
 
 def recent_articles(articles, hours=12):
-    cutoff = datetime.datetime.now(datetime.UTC) - datetime.timedelta(hours=hours)
+    cutoff = datetime.datetime.now(datetime.timezone.UTC) - datetime.timedelta(hours=hours)
     recents = []
     # if num articles is less than 10 return full text
     if len(articles) < 10:
@@ -47,7 +47,7 @@ Keep the same professional tone and style as the source articles. When quoting a
     return response.choices[0].message.content.strip()
 
 def save_site_post(summary):
-    now = datetime.datetime.now(datetime.UTC)
+    now = datetime.datetime.now(datetime.timezone.UTC)
     date_str = now.strftime('%Y-%m-%d')
     hour_str = "morning" if now.hour < 12 else "afternoon"
     filename = f"site/_posts/{date_str}-{hour_str}-geops-report.md"
