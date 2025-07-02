@@ -4,8 +4,95 @@
   <meta charset="UTF-8">
   <title>{{ page.title | default: site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
+      background: #f7f9fa;
+      margin: 0;
+      color: #222;
+    }
+    header {
+      background: #1a2233;
+      color: #fff;
+      padding: 2rem 0 1rem 0;
+      text-align: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+      letter-spacing: 2px;
+      font-weight: 700;
+    }
+    nav {
+      margin-top: 1rem;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 1.2rem;
+      font-weight: 500;
+      font-size: 1.1rem;
+      transition: color 0.2s;
+    }
+    nav a:hover {
+      color: #ffb347;
+    }
+    main {
+      max-width: 800px;
+      margin: 2.5rem auto;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 16px rgba(0,0,0,0.07);
+      padding: 2.5rem 2rem;
+    }
+    .article-list {
+      list-style: none;
+      padding: 0;
+      margin: 2rem 0 0 0;
+    }
+    .article-list li {
+      margin-bottom: 2.2rem;
+      padding-bottom: 1.2rem;
+      border-bottom: 1px solid #e3e7ed;
+    }
+    .article-list li:last-child {
+      border-bottom: none;
+    }
+    .article-title {
+      font-size: 1.35rem;
+      font-weight: 600;
+      margin: 0 0 0.2rem 0;
+      color: #1a2233;
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+    .article-title:hover {
+      color: #ffb347;
+    }
+    .article-date {
+      font-size: 0.98rem;
+      color: #888;
+      margin-bottom: 0.5rem;
+      display: block;
+    }
+    @media (max-width: 600px) {
+      main {
+        padding: 1.2rem 0.5rem;
+      }
+      header h1 {
+        font-size: 1.5rem;
+      }
+    }
+  </style>
 </head>
 <body>
+  <header>
+    <h1>Geops Report</h1>
+    <nav>
+      <a href="/">Home</a>
+    </nav>
+  </header>
   <main>
     {{ content }}
   </main>
