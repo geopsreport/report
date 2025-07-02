@@ -1,3 +1,29 @@
+import re
+
+class Analyst:
+    def __init__(self, name, website, description):
+        self.name = name
+        self.website = website
+        self.description = description
+
+    @property
+    def analyst_id(self):
+        # Deterministically generate an ID from the name (lowercase, dashes, no punctuation)
+        id_ = self.name.lower()
+        id_ = re.sub(r'[^a-z0-9]+', '-', id_)
+        id_ = id_.strip('-')
+        return id_
+
+    def analyst_url(self, baseurl=""):
+        return f"{baseurl}/analyst/{self.analyst_id}/"
+    
+    @classmethod
+    def find_analyst(name):
+        for a in analysts:
+            if a.get("name") == name:
+                return Analyst(a.get("name"), a.get("website"), a.get("description"))
+        return None
+
 analysts = [
     {
         "name": "Larry C. Johnson",
@@ -72,17 +98,17 @@ analysts = [
     {
         "name": "Pepe Escobar",
         "website": "https://pepeescobar.substack.com",
-        "description": "Brazilian Eurasia-focused journalist; covers multipolar world, China, BRICS; independent reporting blending on‑the‑ground insights."
+        "description": "Brazilian Eurasia-focused journalist; covers multipolar world, China, BRICS; independent reporting blending on-the-ground insights."
     },
     {
         "name": "Patrick Lawrence",
         "website": "https://thefloutist.substack.com",
-        "description": "Veteran foreign‑affairs journalist; first to contest Russiagate; writes longform critique of US media, war policy, and establishment narratives."
+        "description": "Veteran foreign–affairs journalist; first to contest Russiagate; writes longform critique of US media, war policy, and establishment narratives."
     },
     {
         "name": "Caitlin Johnstone",
         "website": "https://caitlinjohnstone.substack.com",
-        "description": "Australian satirical anti‑war journalist; reader‑funded Substack; challenges media propaganda and US/NATO interventions daily."
+        "description": "Australian satirical anti–war journalist; reader–funded Substack; challenges media propaganda and US/NATO interventions daily."
     },
     {
         "name": "Thierry Meyssan",
@@ -97,17 +123,17 @@ analysts = [
     {
         "name": "Jan Oberg",
         "website": "https://transnational.org",
-        "description": "Swedish peace researcher and co‑founder of Transnational Foundation; independent thought leadership on conflict resolution and non‑violence."
+        "description": "Swedish peace researcher and co–founder of Transnational Foundation; independent thought leadership on conflict resolution and non–violence."
     },
     {
         "name": "Moon of Alabama (Bernhard)",
         "website": "https://moonofalabama.org",
-        "description": "Anonymous German blogger; daily open‑source intelligence deep‑dives, critical of NATO/Western media, widely followed by OSINT community."
+        "description": "Anonymous German blogger; daily open–source intelligence deep–dives, critical of NATO/Western media, widely followed by OSINT community."
     },
     {
         "name": "Boris Rozhin (Colonel Cassad)",
         "website": "https://colonelcassad.live",
-        "description": "Russian military-history analyst; Crimea‑based; provides minute‑by‑minute OSINT on Ukraine from pro‑resistance, anti‑NATO viewpoint."
+        "description": "Russian military-history analyst; Crimea–based; provides minute–by–minute OSINT on Ukraine from pro–resistance, anti–NATO viewpoint."
     },
     {
         "name": "Jeffrey Sachs",
@@ -117,7 +143,7 @@ analysts = [
     {
         "name": "Glenn Greenwald",
         "website": "https://greenwald.substack.com",
-        "description": "Pulitzer-winner, ex–Intercept co‑founder; focuses on surveillance, civil liberties, media critique and relentless foreign‑policy skepticism."
+        "description": "Pulitzer-winner, ex–Intercept co–founder; focuses on surveillance, civil liberties, media critique and relentless foreign–policy skepticism."
     },
     {
         "name": "Max Blumenthal",
@@ -132,7 +158,7 @@ analysts = [
     {
         "name": "Binoy Kampmark",
         "website": "https://counterpunch.org/author/jete6/",
-        "description": "Cambridge‑educated researcher at RMIT; writes widely on imperialism, international law, Australia's role; publishes at CounterPunch, ZNetwork, The Mandarin."
+        "description": "Cambridge–educated researcher at RMIT; writes widely on imperialism, international law, Australia's role; publishes at CounterPunch, ZNetwork, The Mandarin."
     },
     {
         "name": "Rana Abou Rjeily",
@@ -140,3 +166,6 @@ analysts = [
         "description": "Lebanese writer and typographer based in Beirut; Substack offers cultural/political reflections from Middle East intersectional angle."
     }
 ]
+
+def get_analyst_objects():
+    return [Analyst(a["name"], a["website"], a["description"]) for a in analysts]

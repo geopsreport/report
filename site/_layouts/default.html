@@ -95,6 +95,12 @@
       <h1 style="font-size:2rem;font-weight:700;margin-top:0;margin-bottom:1.2rem;color:#1a2233;">{{ page.title }}</h1>
     {% endif %}
     {{ content }}
+    {% if page.analysts %}
+    Sources
+    {% for analyst in page.analysts %}
+      <a href="{{ site.baseurl }}/analyst/{{ analyst | slugify }}/" style="color:#1a2233;text-decoration:underline;font-weight:500;">{{ analyst }}</a>,
+    {% endfor %}
+    {% endif %}
   </main>
 </body>
 </html> 

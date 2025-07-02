@@ -1,1 +1,6 @@
-plugins: [] 
+plugins: []
+
+collections:
+  analysts:
+    output: true
+    permalink: /analyst/:name/ 

@@ -227,11 +227,15 @@ Article Title 3"""
         # Fallback: return all links if LLM fails
         return links
 
-def extract_pub_date(art, feed_entry=None, soup=None):
+def extract_pub_date(feed_entry=None, soup=None):
     # Try RSS feed date
-    if feed_entry and hasattr(feed_entry, 'published'):
+    if feed_entry:
         try:
-            return date_parser.parse(feed_entry.published).isoformat()
+            if hasattr(feed_entry, 'published'):
+                return date_parser.parse(feed_entry.published).isoformat()
+            if hasattr(feed_entry, 'pubDate'):
+                return date_parser.parse(feed_entry.pubDate).isoformat()
+            return None
         except Exception:
             pass
     # Try meta tags in HTML
@@ -242,6 +246,13 @@ def extract_pub_date(art, feed_entry=None, soup=None):
                     return date_parser.parse(meta['content']).isoformat()
                 except Exception:
                     pass
+        for tag in soup.find_all("time"):
+            if meta.get("itemprop") in ['datePublished']:
+                try:
+                    return date_parser.parse(tag.get("datetime")).isoformat()
+                except Exception:
+                    pass
+    print("extract_pub_date failed")
     # Fallback to now
     return datetime.now(timezone.utc).isoformat()
 
@@ -263,7 +274,7 @@ def find_article_links(website, session, analyst_name):
         try:
             feed = feedparser.parse(feed_url)
             if feed.entries:
-                links = [{"title": e.title, "url": e.link, "published": e.published if hasattr(e, 'published') else None} for e in feed.entries[:num_articles]]
+                links = [{"title": e.title, "url": e.link, "published": extract_pub_date(feed_entry=e)} for e in feed.entries[:num_articles]]
                 # Filter RSS links with LLM
                 return filter_links_with_llm(links, analyst_name, website)
         except Exception as e:
@@ -305,51 +316,38 @@ def find_article_links(website, session, analyst_name):
         print(f"Error scraping {website}: {e}")
         return []
 
-def extract_content(url, session):
+def download(url, session):
+    # Add a small delay between requests
+    time.sleep(random.uniform(2*sleep_time, 4*sleep_time))    
+    set_referer_origin(session, url)
+    resp = session.get(url, timeout=25)
+    if resp.status_code != 200:
+        print(f"HTTP {resp.status_code} for {clean_url_str}")
+        return None
+    # Check content-type
+    ctype = resp.headers.get('Content-Type', '')
+    if not ctype.startswith('text/html'):
+        print(f"Skipping non-HTML content: {ctype} for {clean_url_str}")
+        return None
+    # Always decode as utf-8, ignore errors
+    return resp.content.decode('utf-8', errors='ignore')
+
+def extract_content(html, url, session):
     try:
-        # Clean the URL before processing
-        clean_url_str = clean_url(url)
-        
-        # Add a small delay between requests
-        time.sleep(random.uniform(2*sleep_time, 4*sleep_time))
-        
-        # Add site-specific headers for the article URL
-        set_referer_origin(session, clean_url_str)
-        
         # Use newspaper3k for article extraction
         try:
-            article = newspaper.Article(clean_url_str)
-            resp = session.get(clean_url_str, timeout=25)
-            if resp.status_code != 200:
-                print(f"HTTP {resp.status_code} for {clean_url_str}")
-                return None
-            # Check content-type
-            ctype = resp.headers.get('Content-Type', '')
-            if not ctype.startswith('text/html'):
-                print(f"Skipping non-HTML content: {ctype} for {clean_url_str}")
-                return None
-            # Always decode as utf-8, ignore errors
-            html = resp.content.decode('utf-8', errors='ignore')
+            article = newspaper.Article(url)            
             article.download(input_html=html)
             article.parse()
             text = article.text
             if text and len(text) > 100 and is_mostly_printable(text):
-                print(f"Newspaper3k extracted {len(text)} characters from {clean_url_str}")
+                print(f"Newspaper3k extracted {len(text)} characters from {url}")
                 return text
             else:
-                print(f"Newspaper3k failed for {clean_url_str}, trying BeautifulSoup fallback...")
+                print(f"Newspaper3k failed for {url}, trying BeautifulSoup fallback...")
         except Exception as e:
-            print(f"Newspaper3k failed for {clean_url_str}: {e}, trying BeautifulSoup fallback...")
+            print(f"Newspaper3k failed for {url}: {e}, trying BeautifulSoup fallback...")
         # BeautifulSoup fallback
-        resp = session.get(clean_url_str, timeout=25)
-        if resp.status_code != 200:
-            print(f"HTTP {resp.status_code} for {clean_url_str}")
-            return None
-        ctype = resp.headers.get('Content-Type', '')
-        if not ctype.startswith('text/html'):
-            print(f"Skipping non-HTML content: {ctype} for {clean_url_str}")
-            return None
-        html = resp.content.decode('utf-8', errors='ignore')
         soup = BeautifulSoup(html, 'html.parser')
         for script in soup(["script", "style"]):
             script.decompose()
@@ -424,7 +422,8 @@ def main():
                 clean_url_str = clean_url(art['url'])
                 if clean_url_str in existing_urls:
                     continue  # Skip known
-                content = extract_content(art['url'], session)
+                html = download(clean_url_str, session)
+                content = extract_content(html, clean_url_str, session)
                 if not content or len(content) < 300:
                     continue
                 sent_sum = summarize(content[:10000], 'sentence')
@@ -436,7 +435,7 @@ def main():
                     "text": content,
                     "one_sentence_summary": sent_sum,
                     "paragraph_summary": para_sum,
-                    "published": extract_pub_date(art, soup=None)
+                    "published": art.get("published", extract_pub_date(soup=BeautifulSoup(html, 'html.parser')))
                 })
                 existing_urls.add(clean_url_str)  # Prevent repeats in same run
 

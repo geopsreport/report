@@ -3,29 +3,73 @@ from openai import OpenAI
 import os
 import datetime
 import glob
+from ..scraper.analysts import Analyst
 
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 DATA_FILE = 'data/articles.json'
 
-def load_articles():
-    with open(DATA_FILE) as f:
-        return json.load(f)
+class Article:
+    def __init__(self, title, url, text, one_sentence_summary, paragraph_summary, published, analyst):
+        self.title = title
+        self.url = url
+        self.text = text
+        self.one_sentence_summary = one_sentence_summary
+        self.paragraph_summary = paragraph_summary
+        self.published = published
+        self.analyst = analyst
+
+    def to_dict(self):
+        return {
+            "title": self.title,
+            "url": self.url,
+            "text": self.text,
+            "one_sentence_summary": self.one_sentence_summary,
+            "paragraph_summary": self.paragraph_summary,
+            "published": self.published,
+            "analyst": self.analyst,
+        }
+
+    @staticmethod
+    def load_from_file(filepath=DATA_FILE):
+        with open(filepath, 'r') as f:
+            data = json.load(f)
+        articles = []
+        for analyst in data:
+            for art in analyst.get('articles', []):
+                article_obj = Article(
+                    title=art.get('title'),
+                    url=art.get('url'),
+                    text=art.get('text'),
+                    one_sentence_summary=art.get('one_sentence_summary'),
+                    paragraph_summary=art.get('paragraph_summary'),
+                    published=art.get('published'),
+                    analyst=analyst.get('analyst')
+                )
+                articles.append(article_obj)
+        return articles
+
+    @staticmethod
+    def filter_recent(articles, hours=12):
+        cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=hours)
+        filtered = []
+        for article in articles:
+            try:
+                pub_dt = datetime.datetime.fromisoformat(article.published)
+            except Exception:
+                continue
+            if pub_dt >= cutoff:
+                filtered.append(article)
+        return filtered
 
 def recent_articles(articles, hours=12):
-    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=hours)
-    recents = []
-    # if num articles is less than 10 return full text
-    if len(articles) < 10:
-        article_format = "text"
-    elif len(articles) < 30:
-        article_format = "paragraph_summary"
-    else:
-        article_format = "one_sentence_summary"
+    # Use Article.filter_recent to get recent Article objects
+    recents = Article.filter_recent(articles, hours)
 
-    for analyst in articles:
-        for art in analyst['articles']:
-            recents.append((analyst['analyst'], art['title'], art[article_format]))
-    return recents
+    # Prepare tuples: (analyst, title, summary)
+    result = []
+    for art in recents:
+        result.append(art)
+    return result
 
 def make_context_summary(recent, input_context=None):
     prompt = """
@@ -40,11 +84,27 @@ A new report is published every 12 hours, so:
 
 """
     if input_context:
-        prompt += f"\n\n{input_context}"
-    for analyst, title, para_sum in recent:
-        prompt += f"\n- [{analyst}] {title}: {para_sum}"
-    prompt += "\n\nWrite a summary report for the main events, context, trends and expected outcomes."
-    print("len(summary context):", len(prompt))
+        prompt += f"\n\n<context>{input_context}</context>"
+    if len(recent) < 10:
+        summary_field = "text"
+    elif len(recent) < 20:
+        summary_field = "paragraph_summary"
+    else:
+        summary_field = "one_sentence_summary"
+
+    prompt += "<sources>"
+    for article in recent:
+        # Format the published date to a more readable format
+        try:
+            pub_dt = datetime.datetime.fromisoformat(article.published)
+            readable_date = pub_dt.strftime("%B %d, %Y %H:%M")
+        except Exception:
+            readable_date = article.published
+        prompt += f"\n### {article.title} by {article.analyst} ({readable_date})\n" + getattr(article, summary_field, '') + "\n"
+    prompt += "\n</sources>\n"
+
+    prompt += "\nWrite a summary report for the main events, context, trends and expected outcomes. First give a bit of context, go in detail on the most recent events or key issues and conclude with the trends and expected outcomes."
+    print("len(summary context):", len(prompt), prompt)
     response = client.chat.completions.create(
         model="gpt-4o",
         messages=[{"role": "user", "content": prompt}],
@@ -53,17 +113,18 @@ A new report is published every 12 hours, so:
     )
     return response.choices[0].message.content.strip()
 
-def save_site_post(summary):
+def save_site_post(summary, sources):
+    sources = "analysts:\n  - "+"\n  - ".join(sources)
     now = datetime.datetime.now(datetime.timezone.utc)
     date_str = now.strftime('%Y-%m-%d')
     hour_str = "morning" if now.hour < 12 else "afternoon"
     filename = f"site/_posts/{date_str}-{hour_str}-geops-report.md"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, 'w') as f:
-        f.write(f"---\ntitle: \"Geops Report {date_str} {hour_str.capitalize()}\"\ndate: {date_str} {now.strftime('%H')}:00 UTC\n---\n\n{summary}\n")
+        f.write(f"---\ntitle: \"Geops Report {date_str} {hour_str.capitalize()}\"\ndate: {date_str} {now.strftime('%H')}:00 UTC\n{sources}\n---\n\n{summary}\n")
 
 def main():
-    articles = load_articles()
+    articles = Article.load_from_file()
     monthly_summary = make_context_summary(recent_articles(articles, hours=24*30))
     context = f"This month:\n{monthly_summary}\n\n"
     weekly_summary = make_context_summary(recent_articles(articles, hours=24*7), context)
@@ -82,9 +143,12 @@ def main():
     
     context += "Last 2 reports:\n" + "\n".join(last_summaries) + "\n"
 
-    summary = make_context_summary(recent_articles(articles, hours=12), context)
-    
-    save_site_post(summary)
+    this_edition_articles = recent_articles(articles, hours=36)
+    summary = make_context_summary(this_edition_articles, context)
+    sources = list(set([a.analyst for a in articles]))
+    sources = [Analyst.find_analyst(a.analyst) for a in sources]
+
+    save_site_post(summary, sources)
 
 if __name__ == "__main__":
     main() 
