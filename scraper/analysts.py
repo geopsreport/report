@@ -111,7 +111,7 @@ analysts = [
     },
     {
         "name": "Jeffrey Sachs",
-        "website": "https://jeffsachs.org",
+        "website": "https://www.commondreams.org/author/jeffrey-d-sachs",
         "description": "Columbia economist and former UN advisor; writes on global development, sustainable multipolarity; frequently published via Project Syndicate & Consortium News."
     },
     {
