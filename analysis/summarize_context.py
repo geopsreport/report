@@ -3,7 +3,9 @@ from openai import OpenAI
 import os
 import datetime
 import glob
-from ..scraper.analysts import Analyst
+import sys
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../scraper')))
+from analysts import Analyst
 
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 DATA_FILE = 'data/articles.json'
