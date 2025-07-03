@@ -30,6 +30,31 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python scraper/scrape_articles.py
 
+      - name: Commit and push articles
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/
+          git commit -m "Auto: Update articles $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
+          git push 
+
+  generate-analysts-and-publish:
+    runs-on: ubuntu-latest
+    needs: scrape
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 feedparser openai tenacity
+          pip install "lxml[html_clean]"
+          pip install newspaper3k
+
       - name: Generate analyst pages
         run: python analysis/generate_analyst_pages.py
 
@@ -46,11 +71,10 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-      - name: Commit and push articles
+      - name: Commit and push analyst pages
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/
           git add site/analysts/
-          git commit -m "Auto: Update articles $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
+          git commit -m "Auto: Update analyst pages $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
           git push 
