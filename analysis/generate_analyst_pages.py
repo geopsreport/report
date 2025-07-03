@@ -2,8 +2,10 @@ import os
 import json
 import sys
 from datetime import datetime
+
+# Add the scraper directory to sys.path for direct import
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../scraper')))
-from ..scraper.analysts import analysts, Analyst
+from analysts import analysts, Analyst
 
 DATA_FILE = os.path.abspath(os.path.join(os.path.dirname(__file__), '../data/articles.json'))
 ANALYST_PAGES_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '../site/analysts'))
