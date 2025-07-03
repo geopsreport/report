@@ -403,6 +403,7 @@ def summarize(text, mode='sentence'):
         return ""
 
 def save_articles(articles, filepath=DATA_FILE):
+    os.makedirs(os.path.dirname(filepath), exist_ok=True)
     with open(filepath, 'w') as f:
         json.dump(articles, f, indent=2)
 
