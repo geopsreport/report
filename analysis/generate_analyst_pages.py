@@ -8,7 +8,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../s
 from analysts import analysts, Analyst
 
 DATA_FILE = os.path.abspath(os.path.join(os.path.dirname(__file__), '../data/articles.json'))
-ANALYST_PAGES_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '../site/analysts'))
+ANALYST_PAGES_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '../_analysts'))
 
 os.makedirs(ANALYST_PAGES_DIR, exist_ok=True)
 
