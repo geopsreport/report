@@ -250,7 +250,7 @@ def extract_pub_date(feed_entry=None, soup=None):
         for tag in soup.find_all("span"):
             if "entry-date" in tag.get("class"):
                 try:
-                    return date_parser.parse(tag['content']).isoformat()
+                    return date_parser.parse(tag.get_text()).isoformat()
                 except Exception:
                     pass
     print("extract_pub_date failed")
