@@ -266,17 +266,14 @@ def set_referer_origin(session, url):
     })
 
 def find_article_links(website, session, analyst_name):
-    """Very basic: ideally, customize for each site or use RSS."""
     num_articles = 30
-    
-    # Try RSS first
     feeds = [website.rstrip('/') + '/feed', website.rstrip('/') + '/rss']
     for feed_url in feeds:
         try:
             feed = feedparser.parse(feed_url)
             if feed.entries:
                 links = [{"title": e.title, "url": e.link, "published": extract_pub_date(feed_entry=e)} for e in feed.entries[:num_articles]]
-                # Filter RSS links with LLM
+                links = [l for l in links if not l["published"] or (date_parser.parse(l["published"]).year > 2020)]
                 return filter_links_with_llm(links, analyst_name, website)
         except Exception as e:
             print(f"RSS feed failed for {feed_url}: {e}")
@@ -431,15 +428,18 @@ def main():
                 sent_sum = summarize(content[:10000], 'sentence')
                 print(f"Sent_sum: {sent_sum}")
                 para_sum = summarize(content[:20000], 'paragraph')
-                new_articles.append({
+                new_art = {
                     "title": art['title'],
                     "url": clean_url_str,  # Store cleaned URL
                     "text": content,
                     "one_sentence_summary": sent_sum,
                     "paragraph_summary": para_sum,
                     "published": art.get("published", extract_pub_date(soup=BeautifulSoup(html, 'html.parser')))
-                })
-                existing_urls.add(clean_url_str)  # Prevent repeats in same run
+                }
+                pub_year = date_parser.parse(new_art["published"]).year if new_art["published"] else None
+                if not pub_year or pub_year > 2020:
+                    new_articles.append(new_art)
+                    existing_urls.add(clean_url_str)  # Prevent repeats in same run
 
             if not new_articles:
                 print(f"No new articles found for {analyst['name']}")
