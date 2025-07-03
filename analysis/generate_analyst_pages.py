@@ -46,7 +46,7 @@ articles:
             date_str = pub_dt.strftime('%Y-%m-%d %H:%M')
         except Exception:
             date_str = art.get('published', '')
-        front_matter += f"  - title: \"{art.get('title', '').replace('"', '\\\"')}\"\n"
+        front_matter += "  - title: \"" + art.get('title', '').replace('"', '\\"') + "\"\n"
         front_matter += f"    url: {art.get('url', '')}\n"
         front_matter += f"    date: {date_str}\n"
         front_matter += f"    summary: \"{art.get('paragraph_summary', '').replace('"', '\"')}\"\n"
