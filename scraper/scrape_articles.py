@@ -328,17 +328,17 @@ def download(url, session):
     set_referer_origin(session, url)
     resp = session.get(url, timeout=25)
     if resp.status_code != 200:
-        print(f"HTTP {resp.status_code} for {clean_url_str}")
+        print(f"HTTP {resp.status_code} for {url}")
         return None
     # Check content-type
     ctype = resp.headers.get('Content-Type', '')
     if not ctype.startswith('text/html'):
-        print(f"Skipping non-HTML content: {ctype} for {clean_url_str}")
+        print(f"Skipping non-HTML content: {ctype} for {url}")
         return None
     # Always decode as utf-8, ignore errors
     return resp.content.decode('utf-8', errors='ignore')
 
-def extract_content(html, url, session):
+def extract_content(html, url):
     try:
         # Use newspaper3k for article extraction
         try:
@@ -371,10 +371,10 @@ def extract_content(html, url, session):
         if not text or len(text) < 500:
             text = soup.get_text(separator=' ', strip=True)
         if text and len(text) > 100 and is_mostly_printable(text):
-            print(f"BeautifulSoup extracted {len(text)} characters from {clean_url_str}")
+            print(f"BeautifulSoup extracted {len(text)} characters from {url}")
             return text
         else:
-            print(f"No usable content extracted from {clean_url_str}")
+            print(f"No usable content extracted from {url}")
             return None
     except Exception as e:
         print(f"Content extraction failed for {url}: {e}")
@@ -429,7 +429,7 @@ def main():
                 if clean_url_str in existing_urls:
                     continue  # Skip known
                 html = download(clean_url_str, session)
-                content = extract_content(html, clean_url_str, session)
+                content = extract_content(html, clean_url_str)
                 if not content or len(content) < 300:
                     continue
                 sent_sum = summarize(content[:10000], 'sentence')
