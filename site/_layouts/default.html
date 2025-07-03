@@ -95,12 +95,15 @@
       <h1 style="font-size:2rem;font-weight:700;margin-top:0;margin-bottom:1.2rem;color:#1a2233;">{{ page.title }}</h1>
     {% endif %}
     {{ content }}
-    {% if page.analysts %}
-    Sources
-    {% for analyst in page.analysts %}
-      <a href="{{ site.baseurl }}/analyst/{{ analyst | slugify }}/" style="color:#1a2233;text-decoration:underline;font-weight:500;">{{ analyst }}</a>,
-    {% endfor %}
-    {% endif %}
+    <div style="margin-top:0.5rem;font-size:0.98rem;color:#555;">
+      {% if page.analysts %}
+        Contributions by 
+        {% for analyst in page.analysts %}
+          {% assign analyst_id = analyst | downcase | replace: '.', '' | replace: ',', '' | replace_regex: '[^a-z0-9]', '-' %}
+          <a href="{{ site.baseurl }}/analyst/{{ analyst_id }}/" style="color:#1a2233;text-decoration:underline;">{{ analyst }}</a>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      {% endif %}
+    </div>
   </main>
 </body>
 </html> 
