@@ -37,6 +37,8 @@ for name, analyst_obj in analyst_objs.items():
     front_matter = f"""---
 layout: analyst
 title: {analyst_obj.name}
+name: {analyst_obj.name}
+analyst_id: {analyst_obj.analyst_id}
 description: "{analyst_obj.description}"
 website: {analyst_obj.website}
 articles:

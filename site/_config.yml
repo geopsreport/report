@@ -3,4 +3,4 @@ plugins: []
 collections:
   analysts:
     output: true
-    permalink: /analyst/:name/ 
+    permalink: /analyst/:analyst_id/ 
