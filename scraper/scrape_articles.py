@@ -137,7 +137,8 @@ def is_mostly_printable(text, threshold=0.95):
 def call_openai_api(messages, max_tokens, temperature=0.3, timeout=30):
     """Centralized OpenAI API call with retry logic"""
     return client.chat.completions.create(
-        model="gpt-4o",
+        #model="gpt-4o",
+        model="gpt-4o-mini",
         messages=messages,
         max_tokens=max_tokens,
         temperature=temperature,
@@ -147,13 +148,7 @@ def call_openai_api(messages, max_tokens, temperature=0.3, timeout=30):
 def test_openai_api():
     print("Testing OpenAI API connectivity...")
     try:
-        response = client.chat.completions.create(
-            model="gpt-4o",
-            messages=[{"role": "user", "content": "Say hello."}],
-            max_tokens=10,
-            temperature=0.0,
-            timeout=20
-        )
+        response = call_openai_api([{"role": "user", "content": "Say hello."}], 10)
         print("OpenAI API test succeeded. Response:", response.choices[0].message.content.strip())
     except Exception as e:
         print("OpenAI API connectivity test failed:")

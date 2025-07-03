@@ -106,9 +106,10 @@ A new report is published every 12 hours, so:
     prompt += "\nWrite a summary report for the main events, context, trends and expected outcomes. First give a bit of context, go in detail on the most recent events or key issues and conclude with the trends and expected outcomes."
     print("len(summary context):", len(prompt), prompt)
     response = client.chat.completions.create(
+        #model="gpt-4o",
         model="gpt-4o",
         messages=[{"role": "user", "content": prompt}],
-        max_tokens=10000,
+        max_tokens=4000,
         temperature=0.3,
     )
     return response.choices[0].message.content.strip()
