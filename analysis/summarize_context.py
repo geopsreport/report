@@ -80,13 +80,14 @@ You must write a journalistic article summarizing the geopolitical situation bas
 
 A new report is published every 12 hours, so:
 - Focus on **new developments** or information instead of repeating previous reports.
-- Keep it **short**, don't deal with more than 4 subjects at the time.
-- When quoting a source on an opinion, use the **quote and the source**'s name.
+- Keep it **short**, not more than 3 or 4 subjects at the time.
+- If you already addressed the issue in the previous summaries, and there is no new information, try other subject or go deeper into other issues.
+- When quoting a source on an opinion, use the **quote and the source**'s name and bold the source name.
 - Keep the same **professional** tone and style as the source articles.
 
 """
     if input_context:
-        prompt += f"\n\n<context>{input_context}</context>"
+        prompt += f"\n\n<context>\n{input_context}\n</context>"
     if len(recent) < 10:
         summary_field = "text"
     elif len(recent) < 20:
@@ -145,7 +146,7 @@ def main():
         with open(fname) as f:
             last_summaries.append(f.read())
     
-    context += "Last 2 reports:\n" + "\n".join(last_summaries) + "\n"
+    context += "<previous summaries>\n" + "\n".join(last_summaries) + "\n</previous summaries>\n"
 
     this_edition_articles = recent_articles(articles, hours=36)
     summary = make_context_summary(this_edition_articles, context)
