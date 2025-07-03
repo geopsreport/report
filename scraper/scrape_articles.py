@@ -266,7 +266,7 @@ def set_referer_origin(session, url):
     })
 
 def find_article_links(website, session, analyst_name):
-    num_articles = 30
+    num_articles = 80
     feeds = [website.rstrip('/') + '/feed', website.rstrip('/') + '/rss']
     for feed_url in feeds:
         try:

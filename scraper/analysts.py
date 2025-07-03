@@ -46,11 +46,6 @@ analysts = [
         "description": "Former CIA case/military intel officer; now security consultant and columnist; directs Council for the National Interest; anti-interventionist realism."
     },
     {
-        "name": "Danny Sjursen",
-        "website": "https://antisocialmedia.com",
-        "description": "Retired US Army Major (Iraq/Afghan vet); writes as 'The Skeptical Vet' on Antiwar.com; historian and harsh critic of US militarism."
-    },
-    {
         "name": "Andrei Martyanov",
         "website": "https://turcopolier.typepad.com",
         "description": "Former Soviet naval officer and military analyst; runs 'Reminiscence of the Future' blog, focusing on Russian vs US military-industrial realities."
@@ -62,7 +57,7 @@ analysts = [
     },
     {
         "name": "Alastair Crooke",
-        "website": "https://conflictsforum.org",
+        "website": "https://www.eurasiareview.com/author/alastair-crooke/",
         "description": "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes deep Middle East and great-power essays independent of Western institutional frames."
     },
     {
