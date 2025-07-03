@@ -17,7 +17,7 @@ class Analyst:
     def analyst_url(self, baseurl=""):
         return f"{baseurl}/analyst/{self.analyst_id}/"
     
-    @classmethod
+    @staticmethod
     def find_analyst(name):
         for a in analysts:
             if a.get("name") == name:
