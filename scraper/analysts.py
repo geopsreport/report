@@ -67,7 +67,7 @@ analysts = [
     },
     {
         "name": "Patrick Armstrong",
-        "website": "https://russiaobserver.com",
+        "website": "https://patrickarmstrong.ca/",
         "description": "Former Canadian diplomat in Moscow; independent analyst of Russia–West relations with realist, multipolar perspective."
     },
     {
