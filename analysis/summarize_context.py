@@ -148,8 +148,14 @@ def main():
 
     this_edition_articles = recent_articles(articles, hours=36)
     summary = make_context_summary(this_edition_articles, context)
-    sources = list(set([a.analyst for a in articles]))
-    sources = [Analyst.find_analyst(a.analyst) for a in sources]
+    sources = list(set([a.analyst for a i
+Run python analysis/summarize_context.py
+Traceback (most recent call last):
+  File "/home/runner/work/report/report/analysis/summarize_context.py", line 6, in <module>
+    from ..scraper.analysts import Analyst
+ImportError: attempted relative import with no known parent package
+Error: Process completed with exit code 1.n articles]))
+    sources = [Analyst.find_analyst(a) for a in sources]
 
     save_site_post(summary, sources)
 
