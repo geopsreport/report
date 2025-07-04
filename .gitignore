@@ -6,6 +6,14 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
+# Ignore bundler config.
+site/.bundle/
+site/vendor/bundle/*
+
+# Ignore all environment files.
+.env
+.env.*
+
 # Python
 __pycache__/
 *.py[cod]
@@ -30,3 +38,4 @@ pip-wheel-metadata/
 # OS files
 .DS_Store
 Thumbs.db
+ 

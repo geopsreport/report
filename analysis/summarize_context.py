@@ -83,11 +83,14 @@ A new report is published every 12 hours, so:
 - Keep it **short**, not more than 3 or 4 subjects at the time.
 - If you already addressed the issue in the previous summaries, and there is no new information, try other subject or go deeper into other issues.
 - When quoting a source on an opinion, use the **quote and the source**'s name and bold the source name.
+- Try not to quote always the same analyst as previous summaries and never repeat the same quote.
 - Keep the same **professional** tone and style as the source articles.
+
 
 """
     if input_context:
-        prompt += f"\n\n<context>\n{input_context}\n</context>"
+        today_str = datetime.datetime.now(datetime.timezone.utc).strftime("%A, %B %d, %Y")
+        prompt += f"\n\n<context>\nToday is {today_str}\n{input_context}\n</context>"
     if len(recent) < 10:
         summary_field = "text"
     elif len(recent) < 20:
