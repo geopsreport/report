@@ -3,19 +3,19 @@ title: "Geops Report 2025-07-04 Afternoon"
 date: 2025-07-04 18:00 UTC
 analysts:
   - Chris Hedges
-  - Binoy Kampmark
-  - Max Blumenthal
-  - Patrick Armstrong
   - Ray McGovern
   - Elijah J. Magnier
-  - Daniel L. Davis
-  - Chas W. Freeman Jr.
   - M. K. Bhadrakumar
+  - Chas W. Freeman Jr.
+  - Binoy Kampmark
+  - Patrick Armstrong
+  - Max Blumenthal
+  - Daniel L. Davis
 ---
 
 ---
 
-### Geops Report 2025-07-04 Evening
+### Geops Report 2025-07-05 Morning
 
 As the geopolitical landscape continues to evolve, recent developments in the Middle East, U.S. domestic politics, and European defense strategies are shaping the global stage. The ongoing tensions between Israel and Iran, significant shifts in U.S. political dynamics, and NATO's defense spending commitments remain at the forefront of international discourse.
 
