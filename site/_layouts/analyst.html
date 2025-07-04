@@ -216,9 +216,23 @@
       {% endif %}
     </div>
 
+    {% if page.articles and page.articles.size > 0 %}
+    <h2 class="section-title">Articles by {{ page.title }}</h2>
+      <ul class="article-list">
+        {% for article in page.articles %}
+          <li>
+            <a class="article-title" href="{{ article.url }}" target="_blank">{{ article.title }}</a>
+            {% if article.text %}
+              <p class="article-summary">{{ article.text | strip_html | truncate: 200 }}</p>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
     {% assign analyst_posts = site.posts | where_exp: "post", "post.analysts contains page.title" %}
     {% if analyst_posts.size > 0 %}
-      <h2 class="section-title">Articles by {{ page.title }} <span class="contributions-count">{{ analyst_posts.size }} contributions</span></h2>
+      <h2 class="section-title">Contributions in <span class="contributions-count">{{ analyst_posts.size }} reports</span></h2>
       <ul class="article-list">
         {% for post in analyst_posts %}
           <li>

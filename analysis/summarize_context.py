@@ -89,8 +89,10 @@ A new report is published every 12 hours, so:
 
 """
     if input_context:
-        today_str = datetime.datetime.now(datetime.timezone.utc).strftime("%A, %B %d, %Y")
-        prompt += f"\n\n<context>\nToday is {today_str}\n{input_context}\n</context>"
+        now = datetime.datetime.now(datetime.timezone.utc)
+        today_str = now.strftime("%A, %B %d, %Y")
+        time_str = now.strftime("%H:%M UTC")
+        prompt += f"\n\n<context>\nToday is {today_str}, {time_str}\n{input_context}\n</context>"
     if len(recent) < 10:
         summary_field = "text"
     elif len(recent) < 20:
