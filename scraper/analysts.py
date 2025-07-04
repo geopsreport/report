@@ -15,7 +15,7 @@ class Analyst:
         return id_
 
     def analyst_url(self, baseurl=""):
-        return f"{baseurl}/analyst/{self.analyst_id}/"
+        return f"{baseurl}/analysts/{self.analyst_id}/"
     
     @staticmethod
     def find_analyst(name):
