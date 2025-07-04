@@ -52,7 +52,7 @@ articles:
             date_str = art.get('published', '')
         front_matter += "  - title: \"" + art.get('title', '').replace('"', '\\"') + "\"\n"
         front_matter += f"    url: {art.get('url', '')}\n"
-        front_matter += f"    date: {date_str}\n"
+        front_matter += f"    date: \"{date_str}\"\n"
         front_matter += f"    summary: \"" + art.get('paragraph_summary', '').replace('"', '\"') + "\"\n"
     front_matter += '---\n\n'
     # Write the file
