@@ -5,47 +5,237 @@
   <title>{{ page.title | default: site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
-    body { font-family: 'Segoe UI', 'Roboto', Arial, sans-serif; background: #f7f9fa; margin: 0; color: #222; }
-    header { background: #1a2233; color: #fff; padding: 2rem 0 1rem 0; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.04); }
-    header h1 { margin: 0; font-size: 2.5rem; letter-spacing: 2px; font-weight: 700; }
-    main { max-width: 800px; margin: 2.5rem auto; background: #fff; border-radius: 10px; box-shadow: 0 2px 16px rgba(0,0,0,0.07); padding: 2.5rem 2rem; }
-    .article-list { list-style: none; padding: 0; margin: 2rem 0 0 0; }
-    .article-list li { margin-bottom: 2.2rem; padding-bottom: 1.2rem; border-bottom: 1px solid #e3e7ed; }
-    .article-list li:last-child { border-bottom: none; }
-    .article-title { font-size: 1.35rem; font-weight: 600; margin: 0 0 0.2rem 0; color: #1a2233; text-decoration: none; transition: color 0.2s; }
-    .article-title:hover { color: #ffb347; }
-    .article-date { font-size: 0.98rem; color: #888; margin-bottom: 0.5rem; display: block; }
-    @media (max-width: 600px) { main { padding: 1.2rem 0.5rem; } header h1 { font-size: 1.5rem; } }
+    body {
+      font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
+      background: linear-gradient(135deg, #f7f9fa 0%, #e8ecf1 100%);
+      margin: 0;
+      color: #222;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(135deg, #1a2233 0%, #2c3e50 100%);
+      color: #fff;
+      padding: 2.5rem 0 1.5rem 0;
+      text-align: center;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      position: relative;
+    }
+    header::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, #ffb347, #ff6b6b, #4ecdc4);
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.8rem;
+      letter-spacing: 2px;
+      font-weight: 700;
+      text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    }
+    header h1 a {
+      color: #fff;
+      text-decoration: none;
+      transition: all 0.3s ease;
+    }
+    header h1 a:hover {
+      color: #ffb347;
+      transform: translateY(-2px);
+    }
+    nav {
+      margin-top: 1.5rem;
+    }
+    header a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 1.5rem;
+      font-weight: 500;
+      font-size: 1.1rem;
+      transition: all 0.3s ease;
+      padding: 0.5rem 1rem;
+      border-radius: 25px;
+      position: relative;
+    }
+    header a:hover {
+      color: #ffb347;
+      background: rgba(255,255,255,0.1);
+      transform: translateY(-1px);
+    }
+    main {
+      max-width: 900px;
+      margin: 3rem auto;
+      background: #fff;
+      border-radius: 15px;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+      padding: 3rem 2.5rem;
+      position: relative;
+      overflow: hidden;
+    }
+    main::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 4px;
+      background: linear-gradient(90deg, #ffb347, #ff6b6b, #4ecdc4);
+    }
+    .analyst-header {
+      background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+      border-radius: 12px;
+      padding: 2rem;
+      margin-bottom: 2.5rem;
+      border-left: 4px solid #ffb347;
+      text-align: center;
+    }
+    .analyst-header h1 {
+      margin: 0 0 1rem 0;
+      color: #1a2233;
+      font-size: 2.5rem;
+      font-weight: 700;
+    }
+    .analyst-description {
+      font-size: 1.1rem;
+      color: #666;
+      margin: 0;
+      line-height: 1.6;
+    }
+    .analyst-website {
+      margin-top: 1rem;
+    }
+    .analyst-website a {
+      color: #ffb347;
+      text-decoration: none;
+      font-weight: 500;
+      padding: 0.5rem 1rem;
+      border: 2px solid #ffb347;
+      border-radius: 25px;
+      transition: all 0.3s ease;
+      display: inline-block;
+    }
+    .analyst-website a:hover {
+      background: #ffb347;
+      color: #fff;
+      transform: translateY(-2px);
+    }
+    .article-list {
+      list-style: none;
+      padding: 0;
+      margin: 2.5rem 0 0 0;
+    }
+    .article-list li {
+      margin-bottom: 2.5rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 2px solid #f0f2f5;
+      transition: all 0.3s ease;
+    }
+    .article-list li:hover {
+      border-bottom-color: #ffb347;
+      transform: translateX(5px);
+    }
+    .article-list li:last-child {
+      border-bottom: none;
+    }
+    .article-title {
+      font-size: 1.4rem;
+      font-weight: 600;
+      margin: 0 0 0.3rem 0;
+      color: #1a2233;
+      text-decoration: none;
+      transition: all 0.3s ease;
+      display: inline-block;
+    }
+    .article-title:hover {
+      color: #ffb347;
+      transform: translateY(-2px);
+    }
+    .article-date {
+      font-size: 1rem;
+      color: #666;
+      margin-bottom: 0.8rem;
+      display: block;
+      font-weight: 500;
+    }
+    .article-summary {
+      color: #555;
+      line-height: 1.6;
+      margin: 0.5rem 0 0 0;
+    }
+    .section-title {
+      font-size: 1.8rem;
+      font-weight: 700;
+      margin: 2.5rem 0 1.5rem 0;
+      color: #1a2233;
+      border-bottom: 3px solid #ffb347;
+      padding-bottom: 0.5rem;
+    }
+    .contributions-count {
+      background: linear-gradient(135deg, #ffb347, #ff6b6b);
+      color: #fff;
+      padding: 0.5rem 1rem;
+      border-radius: 20px;
+      font-weight: 600;
+      display: inline-block;
+      margin-top: 1rem;
+    }
+    @media (max-width: 768px) {
+      main {
+        margin: 2rem 1rem;
+        padding: 2rem 1.5rem;
+      }
+      header h1 {
+        font-size: 2rem;
+      }
+      .analyst-header h1 {
+        font-size: 2rem;
+      }
+    }
   </style>
 </head>
 <body>
   <header>
-    <h1><a href="{{ site.baseurl }}" style="color:#fff;text-decoration:none;">Geops Report</a></h1>
+    <h1><a href="{{ site.baseurl }}/">Geops Report</a></h1>
+    <nav>
+      <a href="{{ site.baseurl }}/">Home</a>
+      <a href="{{ site.baseurl }}/analysts">Analysts</a>
+    </nav>
   </header>
   <main>
-    <h1>{{ page.title }}</h1>
-    <p>{{ page.summary }}</p>
-    <ul>
-    {% for post in page.articles %}
-        <li>
-            <a class="article-title" href="{{ post.url }}">{{ post.title }}</a>
-            <span class="article-date">{{ post.published | date: "%B %d, %Y %H:%M" }}</span>
-            <p>{{ post.summary }}</p>
-        </li>
-    {% endfor %}
-    </ul>
-    <h2>Mentions of {{ page.title }}</h2>
-    <ul class="article-list">
-      {% for post in site.posts %}
-        {% if post.analysts contains page.title %}
+    <div class="analyst-header">
+      <h1>{{ page.title }}</h1>
+      {% if page.description %}
+        <p class="analyst-description">{{ page.description }}</p>
+      {% endif %}
+      {% if page.website %}
+        <div class="analyst-website">
+          <a href="{{ page.website }}" target="_blank">Visit Website</a>
+        </div>
+      {% endif %}
+    </div>
+
+    {% assign analyst_posts = site.posts | where_exp: "post", "post.analysts contains page.title" %}
+    {% if analyst_posts.size > 0 %}
+      <h2 class="section-title">Articles by {{ page.title }} <span class="contributions-count">{{ analyst_posts.size }} contributions</span></h2>
+      <ul class="article-list">
+        {% for post in analyst_posts %}
           <li>
             <a class="article-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-            <span class="article-date">{{ post.date | date: "%B %d, %Y %H:%M" }}</span>
-            <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
+            <span class="article-date">{{ post.date | date: "%B %d, %Y" }}</span>
+            {% if post.excerpt %}
+              <p class="article-summary">{{ post.excerpt | strip_html | truncate: 200 }}</p>
+            {% endif %}
           </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <div style="text-align: center; padding: 3rem; color: #666;">
+        <h3>No articles found for {{ page.title }}</h3>
+        <p>Check back later for contributions from this analyst.</p>
+      </div>
+    {% endif %}
   </main>
 </body>
 </html> 
