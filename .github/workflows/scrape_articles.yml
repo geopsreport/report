@@ -79,7 +79,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add _analysts/
+          git add site/_analysts/
           git commit -m "Auto: Update analyst pages $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
           git pull --rebase origin main || (echo "Rebase failed, aborting rebase and skipping push"; git rebase --abort; exit 0)
           git push || echo "Push failed, probably due to race condition" 
