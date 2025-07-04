@@ -2,6 +2,7 @@ import os
 import json
 import sys
 from datetime import datetime
+import yaml
 
 # Add the scraper directory to sys.path for direct import
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../scraper')))
@@ -43,17 +44,14 @@ description: "{analyst_obj.description}"
 website: {analyst_obj.website}
 articles:
 """
-    for art in articles:
-        # Format date
-        try:
-            pub_dt = datetime.fromisoformat(art.get('published'))
-            date_str = pub_dt.strftime('%Y-%m-%d %H:%M')
-        except Exception:
-            date_str = art.get('published', '')
-        front_matter += "  - title: \"" + art.get('title', '').replace('"', '\\"') + "\"\n"
-        front_matter += f"    url: {art.get('url', '')}\n"
-        front_matter += f"    date: \"{date_str}\"\n"
-        front_matter += f"    summary: \"" + art.get('paragraph_summary', '').replace('"', '\"') + "\"\n"
+    if articles:
+        # Use PyYAML to dump the articles list, indented
+        articles_yaml = yaml.safe_dump(articles, allow_unicode=True, default_flow_style=False, sort_keys=False)
+        # Indent each line by 2 spaces
+        articles_yaml = ''.join(['  ' + line if line.strip() else line for line in articles_yaml.splitlines(True)])
+        front_matter += articles_yaml
+    else:
+        front_matter += "  []\n"
     front_matter += '---\n\n'
     # Write the file
     filename = os.path.join(ANALYST_PAGES_DIR, safe_filename(name))
