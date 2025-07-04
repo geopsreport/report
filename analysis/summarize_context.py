@@ -122,7 +122,31 @@ A new report is published every 12 hours, so:
     )
     return response.choices[0].message.content.strip()
 
-def save_site_post(summary, sources):
+def generate_lead(summary):
+    """Generate a concise lead paragraph from the summary"""
+    prompt = f"""
+You are a journalist writing for Geops Report. Based on the following summary, write a compelling 1-2 sentence lead paragraph that captures the most important geopolitical development or trend.
+
+The lead should:
+- Be concise and engaging
+- Highlight the most significant development
+- Set the tone for the rest of the report
+- Be suitable as an opening paragraph
+
+Summary:
+{summary}
+
+Write only the lead paragraph, nothing else:"""
+
+    response = client.chat.completions.create(
+        model="gpt-4o",
+        messages=[{"role": "user", "content": prompt}],
+        max_tokens=200,
+        temperature=0.3,
+    )
+    return response.choices[0].message.content.strip()
+
+def save_site_post(summary, lead, sources):
     sources = [s.name for s in sources]
     sources = "analysts:\n  - "+"\n  - ".join(sources)
     now = datetime.datetime.now(datetime.timezone.utc)
@@ -131,7 +155,7 @@ def save_site_post(summary, sources):
     filename = f"site/_posts/{date_str}-{hour_str}-geops-report.md"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, 'w') as f:
-        f.write(f"---\ntitle: \"Geops Report {date_str} {hour_str.capitalize()}\"\ndate: {date_str} {now.strftime('%H')}:00 UTC\n{sources}\n---\n\n{summary}\n")
+        f.write(f"---\ntitle: \"Geops Report {date_str} {hour_str.capitalize()}\"\ndate: {date_str} {now.strftime('%H')}:00 UTC\nlead: \"{lead}\"\n{sources}\n---\n\n{summary}\n")
 
 def main():
     articles = Article.load_from_file()
@@ -157,8 +181,9 @@ def main():
     summary = make_context_summary(this_edition_articles, context)
     sources = list(set([a.analyst for a in articles]))
     sources = [Analyst.find_analyst(a) for a in sources]
+    lead = generate_lead(summary)
 
-    save_site_post(summary, sources)
+    save_site_post(summary, lead, sources)
 
 if __name__ == "__main__":
     main() 
