@@ -13,12 +13,15 @@
       line-height: 1.6;
     }
     header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
       background: linear-gradient(135deg, #1a2233 0%, #2c3e50 100%);
       color: #fff;
-      padding: 2.5rem 0 1.5rem 0;
-      text-align: center;
+      padding: 0.7rem 2.2rem 0.7rem 2.2rem;
       box-shadow: 0 4px 20px rgba(0,0,0,0.1);
       position: relative;
+      min-height: 64px;
     }
     header::before {
       content: '';
@@ -29,48 +32,46 @@
       height: 3px;
       background: linear-gradient(90deg, #ffb347, #ff6b6b, #4ecdc4);
     }
-    header h1 {
+    .logo {
+      font-size: 2.1rem;
+      font-weight: 800;
+      letter-spacing: 1.5px;
       margin: 0;
-      font-size: 2.8rem;
-      letter-spacing: 2px;
-      font-weight: 700;
-      text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+      text-shadow: 0 2px 4px rgba(0,0,0,0.18);
+      z-index: 1;
     }
-    header h1 a {
+    .logo a {
       color: #fff;
       text-decoration: none;
-      transition: all 0.3s ease;
+      transition: color 0.2s;
     }
-    header h1 a:hover {
+    .logo a:hover {
       color: #ffb347;
-      transform: translateY(-2px);
     }
     nav {
-      margin-top: 1.5rem;
+      z-index: 1;
     }
-    header a {
+    nav a {
       color: #fff;
       text-decoration: none;
-      margin: 0 1.5rem;
       font-weight: 500;
       font-size: 1.1rem;
-      transition: all 0.3s ease;
-      padding: 0.5rem 1rem;
-      border-radius: 25px;
-      position: relative;
+      transition: color 0.2s, background 0.2s;
+      padding: 0.4rem 1.1rem;
+      border-radius: 20px;
+      margin-left: 1.2rem;
     }
-    header a:hover {
+    nav a:hover {
       color: #ffb347;
-      background: rgba(255,255,255,0.1);
-      transform: translateY(-1px);
+      background: rgba(255,255,255,0.08);
     }
     main {
       max-width: 900px;
-      margin: 3rem auto;
+      margin: 2rem auto;
       background: #fff;
-      border-radius: 15px;
-      box-shadow: 0 8px 32px rgba(0,0,0,0.1);
-      padding: 3rem 2.5rem;
+      border-radius: 13px;
+      box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+      padding: 1.5rem 1.2rem 2rem 1.2rem;
       position: relative;
       overflow: hidden;
     }
@@ -85,26 +86,26 @@
     }
     .analyst-header {
       background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-      border-radius: 12px;
-      padding: 2rem;
-      margin-bottom: 2.5rem;
+      border-radius: 10px;
+      padding: 1.1rem 1.2rem 1.1rem 1.2rem;
+      margin-bottom: 1.5rem;
       border-left: 4px solid #ffb347;
       text-align: center;
     }
     .analyst-header h1 {
-      margin: 0 0 1rem 0;
+      margin: 0 0 0.7rem 0;
       color: #1a2233;
-      font-size: 2.5rem;
+      font-size: 2rem;
       font-weight: 700;
     }
     .analyst-description {
-      font-size: 1.1rem;
+      font-size: 1rem;
       color: #666;
       margin: 0;
-      line-height: 1.6;
+      line-height: 1.5;
     }
     .analyst-website {
-      margin-top: 1rem;
+      margin-top: 0.7rem;
     }
     .analyst-website a {
       color: #ffb347;
@@ -124,12 +125,12 @@
     .article-list {
       list-style: none;
       padding: 0;
-      margin: 2.5rem 0 0 0;
+      margin: 1.2rem 0 0 0;
     }
     .article-list li {
-      margin-bottom: 2.5rem;
-      padding-bottom: 1.5rem;
-      border-bottom: 2px solid #f0f2f5;
+      margin-bottom: 1.1rem;
+      padding-bottom: 0.7rem;
+      border-bottom: 1px solid #f0f2f5;
       transition: all 0.3s ease;
     }
     .article-list li:hover {
@@ -140,9 +141,9 @@
       border-bottom: none;
     }
     .article-title {
-      font-size: 1.4rem;
+      font-size: 1.1rem;
       font-weight: 600;
-      margin: 0 0 0.3rem 0;
+      margin: 0 0 0.2rem 0;
       color: #1a2233;
       text-decoration: none;
       transition: all 0.3s ease;
@@ -153,24 +154,24 @@
       transform: translateY(-2px);
     }
     .article-date {
-      font-size: 1rem;
+      font-size: 0.95rem;
       color: #666;
-      margin-bottom: 0.8rem;
+      margin-bottom: 0.4rem;
       display: block;
       font-weight: 500;
     }
     .article-summary {
       color: #555;
-      line-height: 1.6;
-      margin: 0.5rem 0 0 0;
+      line-height: 1.4;
+      margin: 0.2rem 0 0 0;
     }
     .section-title {
-      font-size: 1.8rem;
+      font-size: 1.2rem;
       font-weight: 700;
-      margin: 2.5rem 0 1.5rem 0;
+      margin: 1.7rem 0 0.7rem 0;
       color: #1a2233;
-      border-bottom: 3px solid #ffb347;
-      padding-bottom: 0.5rem;
+      border-bottom: 2px solid #ffb347;
+      padding-bottom: 0.2rem;
     }
     .contributions-count {
       background: linear-gradient(135deg, #ffb347, #ff6b6b);
@@ -179,27 +180,26 @@
       border-radius: 20px;
       font-weight: 600;
       display: inline-block;
-      margin-top: 1rem;
+      margin-top: 0.3rem;
     }
     @media (max-width: 768px) {
       main {
-        margin: 2rem 1rem;
-        padding: 2rem 1.5rem;
+        margin: 1rem 0.3rem;
+        padding: 1rem 0.5rem 1.2rem 0.5rem;
       }
-      header h1 {
-        font-size: 2rem;
+      .logo {
+        font-size: 1.2rem;
       }
       .analyst-header h1 {
-        font-size: 2rem;
+        font-size: 1.2rem;
       }
     }
   </style>
 </head>
 <body>
   <header>
-    <h1><a href="{{ site.baseurl }}/">Geops Report</a></h1>
+    <div class="logo"><a href="{{ site.baseurl }}/">{{ page.title }}</a></div>
     <nav>
-      <a href="{{ site.baseurl }}/">Home</a>
       <a href="{{ site.baseurl }}/analysts">Analysts</a>
     </nav>
   </header>
