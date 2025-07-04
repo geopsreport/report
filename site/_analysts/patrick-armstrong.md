@@ -8,39 +8,39 @@ website: https://patrickarmstrong.ca/
 articles:
   - title: "TRUMPERY: MAKING SOMETHING OUT OF HOT AIR AND PRESTIDIGITATION."
     url: https://patrickarmstrong.ca/2025/06/24/trumpery-making-something-out-of-hot-air-and-prestidigitation/
-    date: 2025-06-24 06:14
+    date: "2025-06-24 06:14"
     summary: "The article reflects on the recent developments in the Israel-Iran conflict, suggesting that the situation has been shaped by theatrical displays from both sides, particularly highlighting Donald Trump's involvement in negotiating a temporary halt to hostilities while downplaying Iran's nuclear capabilities. Analysts express skepticism about the effectiveness of military actions taken by both the U.S. and Iran, noting that Iran has demonstrated greater military strength than previously believed, particularly through the use of drones and hypersonic missiles. The piece raises critical questions about Israel's security, the effectiveness of its intelligence, and the implications for NATO cohesion, while predicting that the damage in Israel will be more significant than reported and that the West's historical confidence in its military superiority is increasingly being challenged."
   - title: "HISTORY IN NATOLAND"
     url: https://patrickarmstrong.ca/2025/06/04/history-in-natoland/
-    date: 2025-06-04 21:13
+    date: "2025-06-04 21:13"
     summary: "In a recent statement, NATO's Secretary General made a controversial claim about the organization's defensive stance, prompting skepticism regarding historical comparisons to the Roman Empire and Napoleon's decisions. The article critiques the GenSek's remarks, suggesting that they evoke unfavorable historical parallels, particularly regarding the fall of empires and military miscalculations. It humorously questions the competence of those advising him, implying that a more informed approach to historical analogies is needed, especially when advocating for increased funding."
   - title: "ANTI-RUSSIA THROUGH THE YEARS"
     url: https://patrickarmstrong.ca/2025/05/20/anti-russia-through-the-years/
-    date: 2025-05-20 16:24
+    date: "2025-05-20 16:24"
     summary: "The article explores the long-standing perception among Russians that the West, particularly Britain, has historically harbored animosity towards Russia, often masking this hostility with temporary alliances based on shifting interests. The author reflects on Orlando Figes' book about the Crimean War, which reveals that many of the anti-Russian sentiments prevalent during that time echo those seen today, portraying Russia as a barbaric and expansionist threat while justifying Western intervention as a moral crusade. The piece highlights how British leaders, like Lord Palmerston, manipulated public sentiment to support anti-Russian policies, framing the conflict as a defense of civilization against a degenerate foe. Despite the changing political landscape in Russia—from autocracy to socialism and back again—the West's narrative remains largely unchanged, suggesting a persistent bias that may indeed validate Russian claims of enduring Western hostility."
   - title: "VICTORY DAY 80"
     url: https://patrickarmstrong.ca/2025/05/08/victory-day-80/
-    date: 2025-05-08 23:29
+    date: "2025-05-08 23:29"
     summary: "The article discusses a contentious debate on social media regarding the impact of US lend-lease aid to the USSR during World War II, highlighting the ignorance and strong opinions on both sides. The author suggests that while lend-lease aid, particularly in food and trucks, did make a difference, the Soviets likely would have defeated the Nazis eventually, albeit at a higher cost. The piece emphasizes the significant suffering of the Soviets and the critical victories on the Eastern Front, while critiquing the Western misunderstanding of the scale of the conflict and the Soviets' military capabilities. It also addresses misconceptions about the timing of D-Day and the historical context of various events, noting a shift in public perception over time regarding the contributions of the USSR versus the US. The author reflects on the changing narratives and the importance of historical accuracy, particularly in light of contemporary political discourse."
   - title: "THE NEWS THAT WAS FIT TO PRINT YESTERDAY DOESN’T FIT TODAY"
     url: https://patrickarmstrong.ca/2025/04/04/the-news-that-was-fit-to-print-yesterday-doesnt-fit-today/
-    date: 2025-04-05 00:00
+    date: "2025-04-05 00:00"
     summary: "The article critiques the evolving narrative surrounding NATO's involvement in the Ukraine conflict, highlighting a shift from official statements denying any direct engagement with Russia to revelations of deeper U.S. military ties with Ukraine, as reported by The New York Times. It suggests that this change in messaging serves to deflect blame for Ukraine's struggles onto its military leadership, implying that the war could have been won had they adhered to U.S. guidance. The author argues that this reflects a broader pattern of Western overconfidence and misunderstanding of Russia, reminiscent of past conflicts like Vietnam and Iraq, where failure is often attributed to external factors rather than strategic miscalculations. The piece warns that as the situation in Ukraine deteriorates, the narrative will continue to shift, with past claims being reinterpreted as new information, ultimately leading to a deeper entrenchment in the conflict without learning from historical lessons."
   - title: "GROK IS PRETTY IMPRESSIVE"
     url: https://patrickarmstrong.ca/2025/03/12/grok-is-pretty-impressive/
-    date: 2025-03-12 22:49
+    date: "2025-03-12 22:49"
     summary: "The author reflects on the distinctions between Russian and European civilizations, particularly in the context of royal titles and identity, noting that while European monarchs refer to themselves as kings of a people, Russians have a broader concept of "Russian Land." They pose historical questions to an AI tool, Grok, regarding when English and French kings transitioned from being called "Rex Anglorum" and "Rex Francorum" to "Rex Angliae" and "Rex Franciae," respectively, with Grok providing detailed answers. The author appreciates Grok's efficiency compared to traditional research methods, while also emphasizing the importance of having foundational knowledge to critically evaluate information. Ultimately, they acknowledge that Grok enables quicker writing, contrasting it with the more extensive efforts required in previous research methods."
   - title: "AN IDIOT’S GUIDE TO WAR"
     url: https://patrickarmstrong.ca/2025/03/03/an-idiots-guide-to-war/
-    date: 2025-03-04 00:43
+    date: "2025-03-04 00:43"
     summary: "The article emphasizes the critical importance of logistics in warfare, arguing that while discussions often center on weapons and tactics, the true challenge lies in ensuring that military forces have the necessary supplies and support to operate effectively. It highlights the ongoing conflict in Ukraine as an example of industrial warfare, where the side with the stronger manufacturing base is likely to prevail. The author critiques NATO's focus on financial contributions rather than addressing the fundamental need for increased production capacity, pointing out that Russia's industrial output significantly outpaces that of NATO countries. The piece concludes by stressing that without a robust industrial foundation and a skilled workforce, the West may struggle to meet the demands of modern warfare, ultimately suggesting that discussions about military strategy should prioritize logistics over monetary considerations."
   - title: "COMMENTS FROM THE LOCKED WARD"
     url: https://patrickarmstrong.ca/2025/03/01/comments-from-the-locked-ward-29/
-    date: 2025-03-01 15:45
+    date: "2025-03-01 15:45"
     summary: "The article presents a collection of anonymous comments reflecting extreme hostility towards Russia and a lack of understanding of the current geopolitical situation. One notable comment urges European nations to begin enriching uranium and developing nuclear weapons immediately, warning that Russia, led by Putin, would respond with nuclear strikes if they detect such activities. This sentiment is echoed by a pro-Ukraine account on X, which claims that Russia has already lost the war in Ukraine and that Putin is aware of his impending doom. The juxtaposition of advocating for nuclear armament while simultaneously asserting that Russia is on the brink of defeat highlights a paradoxical and alarmist perspective on European security in relation to Russia."
   - title: "ANOTHER ONE THAT’S APPROPRIATE"
     url: https://patrickarmstrong.ca/2025/02/18/another-one-thats-appropriate/
-    date: 2025-02-18 22:57
+    date: "2025-02-18 22:57"
     summary: "The article discusses NATO's perceived ineffectiveness and vulnerability, describing it as a "dangerous paper tiger" that has struggled to maintain its military capabilities, particularly in light of the ongoing conflict in Ukraine, where it has lost significant resources. The author suggests that NATO's reliance on outdated strategies and the influence of the "Blob" (establishment foreign policy advisors) has hindered its effectiveness. In contrast, the author expresses optimism about the potential for a new direction under a future Trump administration, suggesting that advisors with more relevant experience could lead to a more strategic approach. The piece concludes with a reflection on the current political landscape and the shifting dynamics of decision-making within the Trump team."
 ---
 
