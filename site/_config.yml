@@ -1,5 +1,5 @@
 plugins: []
-
+theme: minima
 collections:
   analysts:
     output: true
