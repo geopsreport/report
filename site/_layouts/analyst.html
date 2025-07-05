@@ -219,7 +219,7 @@
     {% if page.articles and page.articles.size > 0 %}
     <h2 class="section-title">Articles by {{ page.title }}</h2>
       <ul class="article-list">
-        {% for article in page.articles %}
+        {% for article in page.articles limit:10 %}
           <li>
             <a class="article-title" href="{{ article.url }}" target="_blank">{{ article.title }}</a>
             {% if article.text %}
@@ -234,7 +234,7 @@
     {% if analyst_posts.size > 0 %}
       <h2 class="section-title">Contributions in <span class="contributions-count">{{ analyst_posts.size }} reports</span></h2>
       <ul class="article-list">
-        {% for post in analyst_posts %}
+        {% for post in analyst_posts limit:10 %}
           <li>
             <a class="article-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             <span class="article-date">{{ post.date | date: "%B %d, %Y" }}</span>

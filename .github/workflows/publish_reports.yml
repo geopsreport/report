@@ -40,19 +40,22 @@ jobs:
           git commit -m "Auto: Publish new report $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
           git push
 
-  publish-site:
+  deploy-site:
     needs: publish
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/jekyll-build-pages@v1
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
         with:
           source: ./site
           destination: ./_site
-        env:
-          JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: actions/upload-pages-artifact@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4 
