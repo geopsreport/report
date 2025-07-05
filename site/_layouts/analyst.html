@@ -239,7 +239,7 @@
             <a class="article-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             <span class="article-date">{{ post.date | date: "%B %d, %Y" }}</span>
             {% if post.excerpt %}
-              <p class="article-summary">{{ post.excerpt | strip_html | truncate: 200 }}</p>
+              <p class="article-summary">{{ post.excerpt | strip_html | truncate: 400 }}</p>
             {% endif %}
           </li>
         {% endfor %}

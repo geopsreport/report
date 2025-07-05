@@ -1,7 +1,7 @@
 ---
 title: "Geops Report 2025-07-05 Morning"
 date: 2025-07-05 06:00 UTC
-lead: "In a world teetering on the edge of heightened conflict, the escalating tensions between Israel and Iran, compounded by significant shifts in U.S. foreign policy under President Trump, are reshaping the geopolitical landscape, as missile strikes expose vulnerabilities and diplomatic efforts hang in the balance, threatening to ignite further regional instability."
+excerpt: "In a world teetering on the edge of heightened conflict, the escalating tensions between Israel and Iran, compounded by significant shifts in U.S. foreign policy under President Trump, are reshaping the geopolitical landscape, as missile strikes expose vulnerabilities and diplomatic efforts hang in the balance, threatening to ignite further regional instability."
 analysts:
   - Daniel L. Davis
   - Binoy Kampmark

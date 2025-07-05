@@ -155,7 +155,7 @@ def save_site_post(summary, lead, sources):
     filename = f"site/_posts/{date_str}-{hour_str}-geops-report.md"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, 'w') as f:
-        f.write(f"---\ntitle: \"Geops Report {date_str} {hour_str.capitalize()}\"\ndate: {date_str} {now.strftime('%H')}:00 UTC\nlead: \"{lead}\"\n{sources}\n---\n\n{summary}\n")
+        f.write(f"---\ntitle: \"Geops Report {date_str} {hour_str.capitalize()}\"\ndate: {date_str} {now.strftime('%H')}:00 UTC\nexcerpt: \"{lead}\"\n{sources}\n---\n\n{summary}\n")
 
 def main():
     articles = Article.load_from_file()

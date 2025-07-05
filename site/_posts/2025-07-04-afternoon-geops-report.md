@@ -1,7 +1,7 @@
 ---
 title: "Geops Report 2025-07-04 Afternoon"
 date: 2025-07-04 22:00 UTC
-lead: "As the Middle East teeters on the brink of further conflict with escalating tensions between Israel and Iran, the global geopolitical landscape is witnessing a profound shift, marked by the United States grappling with internal political polarization and Europe ramping up defense spending at the expense of social programs to appease NATO demands, setting the stage for a complex interplay of power dynamics and strategic realignments."
+excerpt: "As the Middle East teeters on the brink of further conflict with escalating tensions between Israel and Iran, the global geopolitical landscape is witnessing a profound shift, marked by the United States grappling with internal political polarization and Europe ramping up defense spending at the expense of social programs to appease NATO demands, setting the stage for a complex interplay of power dynamics and strategic realignments."
 analysts:
   - Binoy Kampmark
   - Ray McGovern

@@ -9,7 +9,12 @@ title: Geops Report
   <li>
     <a class="article-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     <span class="article-date">{{ post.date | date: "%B %d, %Y %H:%M" }}</span>
-    <p>{{ post.lead | strip_html }} <a class="read-more" title="{{ post.title }}" href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
+    <p>lead
+      {% if post.excerpt %}
+        {{ post.excerpt | strip_html | truncate: 400 }}
+      {% endif %}
+      <a class="read-more" title="{{ post.title }}" href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+    </p>
   </li>
 {% endfor %}
 </ul>
