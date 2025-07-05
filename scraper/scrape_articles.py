@@ -216,7 +216,8 @@ def extract_pub_date(feed_entry=None, soup=None):
                 except Exception:
                     pass
         for tag in soup.find_all("span"):
-            if "entry-date" in tag.get("class"):
+            tag_class = tag.get("class")
+            if tag_class and "entry-date" in tag_class:
                 try:
                     return date_parser.parse(tag.get_text()).isoformat()
                 except Exception:
