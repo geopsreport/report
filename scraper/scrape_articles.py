@@ -16,10 +16,12 @@ from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_excep
 import openai
 import traceback
 from dateutil import parser as date_parser
+import cloudscraper
 
 client = OpenAI()
 
 DATA_FILE = 'data/articles.json'
+sleep_time = 0.5
 
 # Rotating User Agents to avoid detection
 USER_AGENTS = [
@@ -29,8 +31,6 @@ USER_AGENTS = [
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/121.0',
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/121.0'
 ]
-
-sleep_time = 0.1
 
 def clean_url(url):
     """Remove UTM parameters and other tracking parameters from URLs"""
@@ -76,42 +76,10 @@ def clean_url(url):
         return url
 
 def create_session():
-    session = requests.Session()
-    
-    # Randomly select a user agent
-    user_agent = random.choice(USER_AGENTS)
-    
-    # Set up headers to mimic a real browser
-    session.headers.update({
-        'User-Agent': user_agent,
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Accept-Encoding': 'gzip, deflate',  # Let requests handle gzip/deflate, not brotli
-        'DNT': '1',
-        'Connection': 'keep-alive',
-        'Upgrade-Insecure-Requests': '1',
-        'Sec-Fetch-Dest': 'document',
-        'Sec-Fetch-Mode': 'navigate',
-        'Sec-Fetch-Site': 'none',
-        'Sec-Fetch-User': '?1',
-        'Cache-Control': 'max-age=0',
-        'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
-        'sec-ch-ua-mobile': '?0',
-        'sec-ch-ua-platform': '"Windows"',
-        'Referer': 'https://www.google.com/'
-    })
-    
-    # Configure retries with exponential backoff
-    retries = Retry(
-        total=5,
-        backoff_factor=3,
-        status_forcelist=[429, 500, 502, 503, 504],
-        allowed_methods=["GET", "HEAD"]
+    """Create a cloudscraper session for better anti-bot protection"""
+    return cloudscraper.create_scraper(
+        browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False}
     )
-    session.mount('https://', HTTPAdapter(max_retries=retries))
-    session.mount('http://', HTTPAdapter(max_retries=retries))
-    
-    return session
 
 def load_existing_articles(filepath=DATA_FILE):
     if os.path.exists(filepath):
@@ -257,6 +225,67 @@ def extract_pub_date(feed_entry=None, soup=None):
     # Fallback to now
     return datetime.now(timezone.utc).isoformat()
 
+def extract_content_from_rss(entry):
+    """Extract content from RSS feed entry"""
+    try:
+        if 'content' in entry and entry.content:
+            html = entry.content[0].value
+        elif 'summary' in entry:
+            html = entry.summary
+        else:
+            return None
+        soup = BeautifulSoup(html, 'html.parser')
+        text = soup.get_text(separator=' ', strip=True)
+        return text if text and len(text) > 100 and is_mostly_printable(text) else None
+    except Exception as e:
+        print(f"RSS content extraction failed: {e}")
+        return None
+
+def is_root_url(url):
+    """Check if URL is a root URL"""
+    parsed = urlparse(url)
+    return parsed.path in ('', '/')
+
+def try_rss_endpoints(website):
+    """Try to find a working RSS feed for the website"""
+    if not is_root_url(website):
+        return None  # Skip non-root URLs
+
+    for rss_path in ['/feed', '/data/rss', '/rss']:
+        candidate = website.rstrip('/') + rss_path
+        try:
+            feed = feedparser.parse(candidate)
+            if feed.bozo == 0 and len(feed.entries) > 0:
+                print(f"✓ Found valid RSS feed: {candidate}")
+                return candidate
+        except Exception as e:
+            print(f"RSS check failed for {candidate}: {e}")
+    print(f"No valid RSS feed found for {website}")
+    return None
+
+def fetch_articles_from_rss(rss_url, analyst_name, website):
+    """Fetch articles from RSS feed"""
+    print(f"Fetching RSS for {analyst_name} from {rss_url}")
+    feed = feedparser.parse(rss_url)
+    results = []
+    for entry in feed.entries[:10]:
+        url = clean_url(entry.link)
+        title = entry.title
+        published = extract_pub_date(feed_entry=entry)
+        content = extract_content_from_rss(entry)
+        if content and len(content) > 200:
+            sent_sum = summarize(content[:1000], 'sentence')
+            para_sum = summarize(content[:2000], 'paragraph')
+            results.append({
+                "title": title,
+                "url": url,
+                "text": content,
+                "one_sentence_summary": sent_sum,
+                "paragraph_summary": para_sum,
+                "published": published
+            })
+    return results
+
 def set_referer_origin(session, url):
     parsed = urlparse(url)
     site = f"{parsed.scheme}://{parsed.netloc}/"
@@ -266,6 +295,7 @@ def set_referer_origin(session, url):
     })
 
 def find_article_links(website, session, analyst_name):
+    """Find article links using RSS feeds or HTML scraping as fallback"""
     num_articles = 80
     feeds = [website.rstrip('/') + '/feed', website.rstrip('/') + '/rss']
     for feed_url in feeds:
@@ -407,15 +437,43 @@ def main():
     analyst_dict = {a['analyst']: a for a in existing_articles}
 
     for analyst in analysts:
-        print(f"Checking {analyst['name']}")
+        print(f"\nChecking {analyst['name']}")
         try:
-            links = find_article_links(analyst['website'], session, analyst['name'])
+            website = analyst['website']
+            new_articles = []
+            
+            # Try RSS first (new approach)
+            rss_url = try_rss_endpoints(website)
+            if rss_url:
+                fetched = fetch_articles_from_rss(rss_url, analyst['name'], website)
+                for art in fetched:
+                    if art['url'] in existing_urls:
+                        continue
+                    new_articles.append(art)
+                    existing_urls.add(art['url'])
+                
+                if new_articles:
+                    if analyst['name'] in analyst_dict:
+                        analyst_dict[analyst['name']]['articles'].extend(new_articles)
+                        analyst_dict[analyst['name']]['timestamp'] = datetime.now(timezone.utc).isoformat()
+                    else:
+                        existing_articles.append({
+                            "analyst": analyst["name"],
+                            "website": analyst["website"],
+                            "timestamp": datetime.now(timezone.utc).isoformat(),
+                            "articles": new_articles
+                        })
+                    print(f"✅ Added {len(new_articles)} new articles from {analyst['name']} via RSS.")
+                    continue
+            
+            # Fallback to original HTML scraping approach
+            print(f"RSS not available for {analyst['name']}, trying HTML scraping...")
+            links = find_article_links(website, session, analyst['name'])
             if not links:
                 print(f"No relevant links found for {analyst['name']}, skipping...")
                 continue
             print(f"Found {len(links)} relevant links for {analyst['name']}")
                 
-            new_articles = []
             for art in links:
                 # Clean the URL for duplicate checking
                 clean_url_str = clean_url(art['url'])
@@ -455,10 +513,11 @@ def main():
                     "timestamp": datetime.now(timezone.utc).isoformat(),
                     "articles": new_articles
                 })
-            print(f"Added {len(new_articles)} new articles from {analyst['name']}.")
+            print(f"Added {len(new_articles)} new articles from {analyst['name']} via HTML scraping.")
             
         except Exception as e:
-            print(f"Error processing {analyst['name']}: {e}")
+            print(f"⚠️ Error processing {analyst['name']}: {e}")
+            traceback.print_exc()
             continue
 
     save_articles(existing_articles)
