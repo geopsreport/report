@@ -6,6 +6,1233 @@ analyst_id: chris-hedges
 description: "Pulitzer-winning journalist, ex–NYT war correspondent; radical realist and moral critique of empire; writes weekly and hosts Substack."
 website: https://scheerpost.com
 articles:
+  - title: Austerity Linked to Over 1 Million Preventable Deaths in EU
+    url: https://scheerpost.com/2025/07/05/austerity-linked-to-over-1-million-preventable-deaths-in-eu/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation.
+
+
+      By Peoples Health Dispatch / Peoples Dispatch
+
+
+      More than 1 million people in the European Union died from avoidable causes in
+      2022, according to new data from a Eurostats report. Of these, over 386,000 deaths
+      were attributed to diseases treatable with quality healthcare, while at least
+      725,000 could have been prevented through effective public health interventions.
+
+
+      The conditions cited include heart disease, COVID-19, and several cancers – such
+      as colon, breast, and lung cancer – that experts have long said could be more
+      effectively addressed with proper investment in screening and treatment. Despite
+      these warnings, European authorities continue to slash funding for health and
+      care services while committing record sums to military spending.
+
+
+      Eurostat’s report indicates that Eastern European countries are disproportionately
+      affected. Latvia had the highest rate, with 543 preventable deaths per 100,000
+      people, followed by Romania, Hungary, and Lithuania: countries where public health
+      systems have been severely weakened by fiscal constraints and transition to profit-oriented
+      services. In comparison, Sweden and Luxembourg recorded 169 and 180 preventable
+      deaths per 100,000, respectively.
+
+
+      “It is shocking and unacceptable that more than a million people are losing their
+      lives every year in the EU to avoidable conditions because our healthcare services
+      are not properly funded,” said Esther Lynch, General Secretary of the European
+      Trade Union Confederation (ETUC). “It also shows there is absolutely no room to
+      reallocate resources from social spending to defense.”
+
+
+      In response, trade unions have renewed their call to end austerity and ensure
+      that the wealthiest contribute fairly to the functioning of public services. “The
+      resources exist: even a modest 1% tax on extreme wealth would be sufficient to
+      cover staff shortages in health,” stated Jan Willem Goudriaan of the European
+      Federation of Public Service Unions (EPSU). “Our public services need more investment
+      and the wealthiest should pay their fair share in the wake of record corporate
+      profits and dividend payouts,” added Lynch.
+
+
+      A key trade union demand is increased funding for the training and hiring of healthcare
+      workers. OECD data shows a current shortage of at least 1.2 million healthcare
+      workers in Europe: this figure is likely underestimated, as it is based on minimum
+      Universal Health Coverage (UHC) thresholds rather than the actual requirements
+      for universal care.
+
+
+      The staffing crisis is taking a serious toll on both workers and patients, with
+      widespread reports of burnout and unsafe conditions, including overcrowded corridors
+      and inadequate staffing ratios. “Commercialization and privatization do not solve
+      these issues,” Goudriaan said. “We urgently need more public funding to address
+      this. ‘Austerity kills’ is not just a slogan – it’s the reality faced daily by
+      patients and health professionals.”
+
+
+      Editor’s Note: At a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check
+
+
+      You can also make a donation to our PayPal or subscribe to our Patreon.
+
+
+      People’s Health Dispatch People’s Health Dispatch is a fortnightly bulletin published
+      by the People’s Health Movement and Peoples Dispatch. For more articles and subscriptions
+      to People’s Health Dispatch, click here. Author Site
+
+
+      Please share this story and help us grow our network!'
+    one_sentence_summary: A Eurostat report reveals that over 1 million people in the
+      EU died from avoidable causes in 2022, largely due to inadequate healthcare funding
+      and public health interventions, particularly in Eastern European countries, prompting
+      calls from trade unions for increased investment in healthcare and fair taxation
+      of the wealthy.
+    paragraph_summary: A Eurostat report reveals that over 1 million people in the European
+      Union died from avoidable causes in 2022, with more than 386,000 deaths linked
+      to treatable diseases and at least 725,000 preventable through effective public
+      health measures. The report highlights a significant disparity in preventable
+      deaths across Eastern European countries, particularly Latvia, which had the highest
+      rate. Despite the urgent need for improved healthcare funding, European authorities
+      continue to cut health budgets while increasing military spending. Trade unions
+      are advocating for an end to austerity measures and a fair contribution from the
+      wealthy to bolster public services, emphasizing the critical shortage of healthcare
+      workers and the detrimental effects of underfunding on both patients and healthcare
+      professionals.
+    published: '2025-07-05T09:30:00+00:00'
+  - title: 'The IAEA’s MOSAIC Weapon: Predictive Espionage and the War on Iran'
+    url: https://scheerpost.com/2025/07/05/the-iaeas-mosaic-weapon-predictive-espionage-and-the-war-on-iran/
+    text: 'Photo Credit: The Cradle
+
+
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation.
+
+
+      By Kit Klarenberg / The Cradle
+
+
+      Ever since Israel launched its illegal war of aggression against Iran on 13 June,
+      speculation has swirled around the role played by MOSAIC – a tool created by shadowy
+      spy-tech firm Palantir.
+
+
+      This software has been deeply embedded within the International Atomic Energy
+      Agency’s (IAEA) operations, particularly its “safeguarding” mission: inspections
+      and monitoring state compliance with non-proliferation agreements.
+
+
+      MOSAIC has been central to this work for a decade and was quietly integrated by
+      former US president Barack Obama’s administration into the July 2015 Joint Comprehensive
+      Plan of Action (JCPOA) nuclear deal with Iran.
+
+
+      Espionage disguised as oversight
+
+
+      The deal granted IAEA inspectors unfettered access to Iran’s nuclear facilities
+      to confirm the absence of a nuclear weapons program. In the process, the agency
+      accumulated an immense trove of data: surveillance imagery, sensor measurements,
+      facility documents – all of which were fed into MOSAIC’s predictive system.
+
+
+      Yet the software’s pivotal role in the deal remained concealed until a Bloomberg
+      exposé in May 2018, just days before US President Donald Trump, during his first
+      term, unilaterally tore up the agreement and launched Washington’s so-called “maximum
+      pressure” campaign against Tehran.
+
+
+      Despite Trump tearing up the deal, inspections of Iranian nuclear facilities continued,
+      as did MOSAIC’s monitoring of Tehran’s nuclear program. As Bloomberg noted, Palantir’s
+      technology helped the IAEA scrutinize vast swaths of information from disparate
+      sources, including 400 million “digital objects” globally, such as “social media
+      feeds and satellite photographs inside Iran” – a capability that “raised concern
+      the IAEA may overstep the boundary between nuclear monitoring and intelligence-gathering.”
+
+
+      The Bloomberg piece also provided fodder for an oft-stated Iranian concern that
+      Mosaic was helping Israelis track Iranian scientists for assassination:
+
+
+      “The tool is at the analytical core of the agency’s new $50 million MOSAIC platform,
+      turning databases of classified information into maps that help inspectors visualize
+      ties between the people, places and material involved in nuclear activities, IAEA
+      documents show.”
+
+
+      Bloomberg quoted the head of a British company that “advises governments on verification
+      issues” on the hazards of false data being fed into MOSAIC, “either by accident
+      or design”:
+
+
+      “You will generate a false return if you add a false assumption into the system
+      without making the appropriate qualifier …You’ll end up convincing yourself that
+      shadows are real.”
+
+
+      The underlying and ongoing concern for Tehran is that MOSAIC is heavily influenced
+      by Palantir’s “predictive-policing software.” Employed by many law enforcement
+      agencies across the western world at enormous expense, this technology is highly
+      controversial and has been found to exhibit dangerous, misleading biases, leading
+      to erroneous “pre-crime” interventions.
+
+
+      Indeed, MIT Technology Review has flat-out called for the dismantlement of predictive
+      tech in a report that looks at how dangerous the technology has been in analyzing
+      even domestic criminal data:
+
+
+      “Lack of transparency and biased training data mean these tools are not fit for
+      purpose. If we can’t fix them, we should ditch them.”
+
+
+      Given the inclusion of dubious intelligence – such as the Mossad-stolen Iranian
+      nuclear archive, openly celebrated by the Israeli agency for its deception – it
+      is highly probable that such corrupted data triggered unjustified inspections.
+      Bloomberg quoted a negotiator who helped craft the 2015 deal, expressing concern
+      over how “dirty or unstructured data” could lead to “a flurry of unnecessary snap
+      inspections.”
+
+
+      Palantir’s software specifically helped the IAEA “plan and justify unscheduled
+      probes” – at least 60 of these conducted until US-Israeli strikes put an end to
+      inspections.
+
+
+      Data as a weapon
+
+
+      On 31 May, the IAEA released a report suggesting Iran may still be developing
+      nuclear weapons. Although it presented no new evidence, its dubious charges related
+      “to activities dating back decades” at three sites where, purportedly, until the
+      early 2000s, “undeclared nuclear material” was handled.
+
+
+      Its findings prompted the UN nuclear watchdog’s Board of Governors to charge Iran
+      as “in breach of its non-proliferation obligations” on 12 June, providing Tel
+      Aviv with a propaganda pretext for its illegal attack the next day.
+
+
+      On 17 June, IAEA chief Rafael Grossi conceded that the agency had “no proof of
+      a systematic effort to move into a nuclear weapon” by Tehran. Still, the damage
+      was done. Iranian lawmakers, citing the IAEA’s secret sharing of sensitive data
+      with Tel Aviv and Grossi’s covert collusion with Israeli officials, suspended
+      all cooperation with the agency.
+
+
+      This may be the wisest course for other states under IAEA scrutiny. MOSAIC is
+      now so entwined with the agency’s daily function that any country targeted for
+      regime change could find itself accused of nuclear ambitions based on manufactured
+      evidence.
+
+
+      A 2017 IAEA document reveals MOSAIC is comprised of “over 20 different software
+      development projects.” Launched in May 2015, it was hoped to revolutionize “safeguarding”
+      the world over.
+
+
+      The report described MOSAIC as providing inspectors with “a suite of tools with
+      which to face the challenges of tomorrow.” For instance, the Electronic Verification
+      Package (EVP) enables field data – including planning, reporting, and review –
+      to be automatically collected and processed. When inspectors visit a facility,
+      they record vast amounts of information – instantly analyzed at headquarters via
+      EVP.
+
+
+      Elsewhere, the Collaborative Analysis Platform (CAP) enables deep cross-referencing
+      of internal and open-source data, including overhead imagery. It supports the
+      IAEA’s core safeguarding processes: “planning, information collection and analysis,
+      verification, and evaluation.”
+
+
+      CAP gives the IAEA “the capability to search, collect, and integrate multiple
+      data and information sources to enable comprehensive analysis.” An IAEA official
+      quoted in the document declared the platform represented “a major leap forward
+      in analytics” and “a game changer”, allowing the IAEA to collect “a much greater
+      amount of information, and also analyze that information in greater depth than
+      before.”
+
+
+      Such analytical capacity grants inspectors “the ability to establish relationships
+      between information from multiple sources, across time,” and “make sense out of
+      huge amounts of data.”
+
+
+      CAP also assists in the collection and evaluation of open-source information.
+      The document noted the platform could “process much more open-source information
+      than the Department currently has capacity for,” and lets staff “search information
+      across the entire repository; carefully cross-check different types of information;
+      and utilize information in visual formats,” such as “overhead imagery.”
+
+
+      ‘Extra-budgetary contributions’ from the US government
+
+
+      All of this intelligence is highly sensitive and would be a treasure trove for
+      states intent on military action against nations in the IAEA’s crosshairs. According
+      to the 2017 report, inspectors spent 13,248 days in the field in 2015 and inspected
+      709 nuclear facilities. Those figures have since grown. All the while, MOSAIC
+      – a little-known tool for the “early detection of the misuse of nuclear material
+      or technology” – has remained operational.
+
+
+      The report noted that MOSAIC was financed through the IAEA’s regular budget, the
+      Major Capital Investment Fund, and “extra-budgetary contributions.” Its cost at
+      the time was around €41 million (approximately $44.15 million) – almost 10 percent
+      of the agency’s total annual budget. The source and size of those extra-budgetary
+      contributions remain vague, perhaps deliberately, but a Congressional Research
+      Service briefing note indicates Washington formally funds the IAEA to the tune
+      of over $100 million annually.
+
+
+      Moreover, the US consistently provides in excess of $90 million in extra-budgetary
+      contributions every year. In other words, almost half of the IAEA’s budget flows
+      from Stateside, suggesting MOSAIC was created wholly on Washington’s dime.
+
+
+      The timing of its rollout – two months prior to the Obama administration’s nuclear
+      deal being agreed – could further indicate it was explicitly funded with Iran
+      in mind. As then-IAEA director general Yukiya Amano revealed in March 2018, the
+      association’s penetration of Tehran was unprecedented.
+
+
+      At a press conference, Amano referred to the IAEA’s nuclear “verification regime”
+      in Iran as “the world’s most robust.” The organization’s inspectors spent “3,000
+      calendar days per year on the ground” in the country, capturing “hundreds of thousands
+      of images captured daily by our sophisticated surveillance cameras,” which was
+      “about half of the total number of such images that we collect throughout the
+      world.”
+
+
+      In all, “over one million pieces of open source information” were collected by
+      the IAEA monthly.
+
+
+      The IAEA’s fixation on Iran, coupled with suspicions that it provided the names
+      of nuclear scientists – later assassinated by Israel – raises the question: Was
+      the 2015 deal always an industrial-scale espionage operation designed to prepare
+      for war?
+
+
+      A wave of assassinations of nuclear scientists and IRGC commanders in the early
+      stages of Tel Aviv’s failed war on Iran appears to support that conclusion.
+
+
+      Iranian officials not only suspended cooperation with the IAEA and ordered the
+      dismantlement of inspection cameras, but also rejected Grossi’s request to visit
+      bombed nuclear sites. Foreign Minister Abbas Araghchi branded the IAEA chief’s
+      insistence on visiting under the pretext of safeguards “meaningless and possibly
+      even malign in intent.”
+
+
+      What is clear is that any state still cooperating with the IAEA must now reckon
+      with the possibility that it is not being monitored – it is being mapped for war.
+
+
+      Editor’s Note: At a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check
+
+
+      You can also make a donation to our PayPal or subscribe to our Patreon.
+
+
+      Kit Klarenberg Kit Klarenberg is an investigative journalist and MintPress News
+      contributor exploring the role of intelligence services in shaping politics and
+      perceptions. His work has previously appeared in The Cradle, Declassified UK,
+      and Grayzone. Follow him on Twitter @KitKlarenberg. Author Site
+
+
+      Please share this story and help us grow our network!'
+    one_sentence_summary: The article discusses the controversial role of the MOSAIC
+      software, developed by Palantir and integrated into the IAEA's operations, in
+      monitoring Iran's nuclear program, raising concerns about its potential use for
+      espionage and the implications of biased data influencing inspections and international
+      relations.
+    paragraph_summary: The article discusses the controversial role of MOSAIC, a software
+      developed by Palantir, in the International Atomic Energy Agency's (IAEA) monitoring
+      of Iran's nuclear program, particularly following Israel's military actions against
+      Iran. Initially integrated into the 2015 nuclear deal under the Obama administration,
+      MOSAIC has been used to analyze vast amounts of data, including surveillance imagery
+      and social media, raising concerns about its potential misuse for espionage rather
+      than purely for oversight. Critics argue that the software could lead to unjustified
+      inspections and has been implicated in facilitating the tracking of Iranian scientists
+      for assassination. The IAEA's reliance on MOSAIC, funded significantly by the
+      U.S., has led to fears that its operations may serve as a pretext for military
+      action against Iran, prompting Iranian officials to suspend cooperation with the
+      agency. The article highlights the implications of using such technology in international
+      relations, suggesting that countries under IAEA scrutiny could be at risk of being
+      mapped for potential military intervention rather than being monitored for compliance.
+    published: '2025-07-05T09:25:00+00:00'
+  - title: Can We Build Robust Public Administration Institutions in the Global South?
+    url: https://scheerpost.com/2025/07/05/can-we-build-robust-public-administration-institutions-in-the-global-south/
+    text: 'Dalton Paula (Brazil), Reisado, 2009.
+
+
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation.
+
+
+      By Vijay Prashad / Tricontinental: Institute for Social Research
+
+
+      A decade ago, I was a fly on the wall during a trade negotiation between the United
+      States and a small country in Southeast Asia. What interested me was not the substance
+      of the negotiation, the deliberations around an issue of minor concern to world
+      affairs but of great concern to this one country, but the disproportionality between
+      the personnel at the negotiating table.
+
+
+      The delegation from the United States that arrived at this nondescript office
+      in Geneva, Switzerland, was considerable in two respects: first, it had an overabundance
+      of lawyers and associates, and second, they came armed with a large number of
+      binders that had all the paperwork for their case, replete with labelled page-holders
+      so that they could dive directly into the points they needed to make in the discussion.
+      The contingent from the Asian country, on the other hand, was sparse: it was made
+      up of a lone representative from its United Nations office in Geneva who was neither
+      a trade specialist nor a lawyer and who came armed only with a manila folder holding
+      a few sheets of paper. The negotiations reflected this unevenness, with the US
+      trade representatives running circles around the junior Asian bureaucrat. I went
+      to have a coffee with this bureaucrat afterwards. He was rattled. He felt robbed.
+
+
+      A few years ago, a mid-level official from an East African country told me that
+      he had signed a loan agreement with an Asian bank without having the skills to
+      understand the loan document or the time to read it from start to finish. Around
+      the same time, an official from a ministry in Latin America told me that they
+      outsource their analysis of trade documents to a foundation linked to a non-profit
+      organisation from the United States. In other words, their negotiations are based
+      on the briefs provided by this foundation and not their own analysis and assessment.
+      These examples could easily be multiplied, the stories recounted vaguely so as
+      not to embarrass colleagues and countries that have been put in very difficult
+      circumstances by neocolonial structures.
+
+
+      It is hard to quantify the impact of such institutional imbalances, largely because
+      there is no international agency that collects data on government officials in
+      general or on negotiators in particular. Among the sparse data that exists in
+      this arena is the World Bank’s Worldwide Bureaucracy Indicators Dashboard, which
+      shows that roughly 18.6% of the total working population in the Global North is
+      employed by the government, while in the Global South that number is closer to
+      10%. An International Labour Organisation study on Africa shows us that the numbers
+      are much lower in many countries, below 3% in African countries such as Chad,
+      Côte d’Ivoire, Madagascar, Mali, and Tanzania. While there is no granular data
+      on the number of trade negotiators or trade lawyers in the government, for instance,
+      the above is a reasonable picture of the general disparity between the state capacity
+      in the North and South.
+
+
+      The scale of this disparity is incredible (the exceptions are socialist state
+      projects, such as China and Vietnam, where government officials remain well trained
+      and in larger numbers – making up about a fifth of the workforce in China). Many
+      of the reasons for this inequality are obvious, but they are worth listing at
+      any rate:
+
+
+      Most public administration schools in the Global South have seen enormous budget
+      cuts induced by the International Monetary Fund’s debt-austerity policies, impacting,
+      for instance, the ability to train teachers and create syllabi that are both up
+      to date and relevant to the specific national conditions in which these future
+      public servants will have to operate. Alongside the austerity measures imposed
+      on public administration schools, there has also been a steady closure or contraction
+      of state planning commissions and research departments. These are the institutions
+      that would normally provide government cadres with an intellectual orientation
+      toward their country’s position in the international economy and the immediate
+      tasks for a national development programme. The lack of such institutions leaves
+      cadres without a clear mandate or direction. There has been an attrition of general
+      patriotic and anti-colonial sentiment among government employees who are underpaid
+      and undertrained. This psychological warfare brought about by neoliberalism and
+      cultural imperialism means that newer generations of public servants are both
+      unable to argue the case for the well-being of their people and are prone to inducements
+      of different kinds (including corruption). An increased sense of individualism
+      among the population has also led to careerism and the accumulation of personal
+      wealth and privileges at the expense of national interest. As state-run institutions
+      have been closed or shrunk, Western-funded non-governmental organisations have
+      emerged to provide ‘technical assistance’. These programmes are often staffed
+      by people who are trained in foreign universities, have a class background that
+      is not necessarily aligned with the vast majority of the population, and have
+      a limited understanding of the historical and sociological developments in their
+      country. Moreover, the agendas of these institutions are designed by their foreign
+      benefactors who are often driven by their own self-interest.
+
+
+      The attrition of public administration schools, combined with the lack of political
+      will within governments to assert the sovereignty of their societies, has allowed
+      the ambitions of multinational corporations and international financial institutions
+      to set the direction of these countries. This lack of capacity and political clarity
+      has meant that states in the Global South routinely surrender to the well-developed
+      agendas of foreign institutions that are often much clearer about what they want.
+      The need to build administrative capacities in the Global South goes hand in hand
+      with the broader need for a new development theory for the South so that we may
+      be able to define our own agenda, against that of the neocolonial interlopers.
+
+
+      Sitting in that meeting in Geneva some years ago, watching the US officials and
+      their lawyers walk circles around the junior Southeast Asian official, I thought
+      of Nizar Qabbani’s 1967 poem ‘Footnotes to the Book of the Setback’, written shortly
+      after the Palestinians’ defeat in the Six-Day War. The poem, published in Damascus,
+      Syria, was subsequently banned and smuggled into countries across the Arab world.
+      Two lines from the poem ricocheted around my mind:
+
+
+      Our enemies did not cross our borders.
+
+
+      They crept through our weaknesses like ants.
+
+
+      We must strengthen our weaknesses.
+
+
+      Editor’s Note: At a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check
+
+
+      You can also make a donation to our PayPal or subscribe to our Patreon.
+
+
+      Please share this story and help us grow our network!'
+    one_sentence_summary: The article discusses the significant disparities in negotiating
+      power and institutional capacity between the Global North and South, highlighting
+      how these imbalances hinder effective representation and decision-making for countries
+      in the Global South during international trade negotiations.
+    paragraph_summary: In his article, Vijay Prashad highlights the significant disparities
+      in negotiating power between representatives from the Global North and Global
+      South, illustrated through personal anecdotes from trade negotiations and loan
+      agreements. He emphasizes the institutional weaknesses faced by countries in the
+      Global South, stemming from budget cuts to public administration schools and the
+      contraction of state planning commissions due to austerity measures imposed by
+      international financial institutions. This has resulted in a lack of trained personnel
+      capable of effectively representing their nations' interests in international
+      negotiations, leading to a reliance on foreign NGOs for technical assistance,
+      which often do not align with local needs. Prashad argues that the erosion of
+      national sovereignty and capacity allows multinational corporations and foreign
+      institutions to dictate terms, underscoring the urgent need for the Global South
+      to build administrative capacities and develop a new framework for self-determined
+      progress against neocolonial influences.
+    published: '2025-07-05T09:15:00+00:00'
+  - title: Blinken Ordered the Hit. Big Tech Carried It Out. African Stream Is Dead
+    url: https://scheerpost.com/2025/07/05/blinken-ordered-the-hit-big-tech-carried-it-out-african-stream-is-dead/
+    text: 'Feature photo | Illustration by MintPress News
+
+
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation.
+
+
+      By Alan MacLeod / MintPress News
+
+
+      On Tuesday, July 1, 2025, African Stream published its final video, a defiant
+      farewell message. With that, the once-thriving pan-African media outlet confirmed
+      it was shutting down for good. Not because it broke the law. Not because it spread
+      disinformation or incited violence. But because it told the wrong story, one that
+      challenged U.S. power in Africa and resonated too deeply with Black audiences
+      around the world. When Secretary of State Antony Blinken accused it of being a
+      Kremlin front, Big Tech didn’t hesitate, and within hours, the platform was erased
+      from nearly every major social media site.
+
+
+      In September, U.S. Secretary of State Antony Blinken made the call and announced
+      an all-out war against the organization, claiming, without evidence, that it was
+      a Russian front group. “Russian state-funded media outlet RT secretly runs the
+      online platform, African Stream, across a wide range of social media platforms,”
+      he said, adding:
+
+
+      According to the outlet’s website, ‘African Stream is’ – and I quote ‘a pan-African
+      digital media organization based exclusively on social media platforms, focused
+      on giving a voice to all Africans, both at home and abroad.’ In reality, the only
+      voice it gives is to Kremlin propagandists.”
+
+
+      Within hours, big social media platforms jumped into action. Google, YouTube,
+      Facebook, Instagram, and TikTok all deleted African Stream’s accounts, while Twitter
+      demonetized the organization.
+
+
+      AFRICAN STREAM IS CLOSING DOWN
+
+
+
+
+      This is, sadly, a farewell to you, our loyal followers and supporters. Under relentless
+      attack, we’ve made the painful decision to shut down African Stream—a platform
+      that many of you’ve come to trust and love. This decision was not made lightly.…
+      pic.twitter.com/LNRbT00Lkv — African Stream (@african_stream) June 22, 2025
+
+
+      African Stream attempted to continue, but it finally ceased operations this week.
+      MintPress News spoke with the company’s founder and CEO, Ahmed Kaballo, who told
+      us that, with just one statement, Washington was able to destroy their entire
+      operation, stating:
+
+
+      We are shutting down because the business has become untenable. After we got attacked
+      by Antony Blinken, we really tried to continue, but without a platform on YouTube,
+      Instagram, TikTok, and being demonetized on X, it just meant the ability to generate
+      income became damn near impossible.”
+
+
+      The news has disappointed the Nairobi, Kenya-based outlet’s large and rapidly
+      growing follower base. At the time of the coordinated operation against it, the
+      account boasted almost one million followers on TikTok, almost 880,000 on Instagram,
+      and almost half a million on YouTube, reaching 30-40 million people per month.
+      Growing from nothing in 2022, it expanded rapidly, offering a pan-African perspective
+      on global events, and worked to expose the role of imperialism on the continent.
+
+
+      African Stream cultivated a large and committed audience among African Americans,
+      with celebrities, rappers, and NBA basketball stars regularly sharing their content.
+      It was this combination of anti-imperialist messaging and influence with Black
+      America that Kaballo believes triggered the State Department smears, explaining
+      that:
+
+
+      We criticized the Republicans and the Democrats. We followed the pan-African tradition
+      of Malcolm X, who said that there is no difference between the fox and the wolf,
+      you get bitten either way. And because we had so much influence on the Black community
+      in the U.S., we were seen to be a threat to the Democratic Party. That’s why we
+      feel like it was a partisan attack.”
+
+
+      Blinken’s attack was not the first African Stream had received. Last June, NBC
+      News claimed (without providing examples) that African Stream sought to undermine
+      the 2024 elections by spreading disinformation. Then, in August, U.S. government-funded
+      media outlet Voice of America wrote that Kaballo’s organization “distorts the
+      U.S. military’s mission in Somalia,” insisting that the U.S. is bombing one of
+      the continent’s poorest countries to “protect civilians.” Leaked documents also
+      show that the British Foreign Office plotted to run a smear campaign against them.
+
+
+      Kaballo told MintPress that he expected the attacks. “It’s no real surprise,”
+      he said. “The surprise was that big tech, with no evidence whatsoever, decided
+      to take us down.”
+
+
+      However, given the extremely close ties between Silicon Valley and the U.S. national
+      security state – something that MintPress has consistently reported on – Kaballo
+      should perhaps have been more prepared for this outcome.
+
+
+      Google’s Director of Security and Public Trust, Ben Randa, for example, was formerly
+      NATO’s Strategic Planning and Information Officer. Meanwhile, Facebook’s Senior
+      Misinformation Policy Manager, Aaron Berman, the individual most responsible for
+      determining the platform’s political direction, is a former high-ranking CIA agent.
+      Like other platforms, TikTok has also hired dozens of former officials from the
+      FBI, CIA, and State Department to oversee its most sensitive internal affairs.
+
+
+      If Blinken genuinely wanted to unearth a government-sponsored influence operation,
+      he would not have to look far. Earlier this year, a funding freeze at the U.S.
+      government agency USAID exposed a global network of supposedly “independent” media
+      outlets that Washington secretly bankrolled. The scale of this operation was vast:
+      more than 6,200 journalists at nearly 1,000 organizations across five continents
+      had their salaries secretly paid in whole or in part by the U.S. government.
+
+
+      While the outlooks of these media groups differed, they all shared one similarity:
+      an unwavering commitment to promoting Washington’s interests.
+
+
+      The pause in funding was keenly felt in Ukraine. Oksana Romanyuk, the director
+      of the country’s Institute for Mass Information, lamented that almost 90% of local
+      media outlets were funded by USAID, including many with no other source of income.
+
+
+      In neighboring Belarus, a survey of 20 leading outlets found that 60% of their
+      budgets came directly from Washington.
+
+
+      Following the freeze, anti-government Cuban media were plunged into an existential
+      crisis. Miami-based CubaNet, for instance, published an editorial soliciting donations
+      from its readers. “We are facing an unexpected challenge: the suspension of key
+      funding that sustained part of our work,” they wrote; “If you value our work and
+      believe in keeping the truth alive, we ask for your support.”
+
+
+      In 2024, CubaNet received around half a million dollars from USAID alone. U.S.-backed
+      Iranian media, meanwhile, resorted to mass layoffs of their staff.
+
+
+      The African Stream story highlights the sorry state of global communications,
+      where the United States has the power to choke, and even simply delete, media
+      outlets that stand for an alternative vision of the world. Washington both funds
+      thousands of journalists around the planet to produce pro-U.S. propaganda, and,
+      through its close connections to Silicon Valley, has the power to destroy those
+      that do not toe the line.
+
+
+      African Stream is far from the first independent, anti-imperialist news organization
+      to have been targeted by Washington. MintPress itself has been repeatedly attacked
+      and smeared as a secret Iranian, Chinese, Russian, Syrian, or even Venezuelan
+      operation. Our reach on social media has been throttled, and we have been debanked
+      by PayPal. Other leading alternative media outlets tell a similar story.
+
+
+      It is a similar story in Europe, where the region’s support for Israeli actions
+      in Palestine has sparked a crackdown on independent journalism. British journalists
+      Richard Medhurst and Asa Winstanley have had their homes raided by police, while
+      the European Union has sanctioned Hüseyin Dogru for his coverage of pro-Palestine
+      protests.
+
+
+      In what may prove to be their final post, on Tuesday, July 1, African Stream released
+      a video of their staff dancing, accompanied by the words:
+
+
+      It’s tough to accept that we had to shut down over baseless accusations by the
+      U.S. government. But instead of bowing out in silence, the team chose to resist,
+      just as our ancestors often did, through dance. You can deplatform us. You can
+      smear us. But you can’t stop us dancing.”
+
+
+      On the surface, the overt censorship of a Kenyan media outlet by the U.S. government
+      may be a depressing story. Yet Kaballo remained upbeat about the situation, noting
+      that the state of radical African media has drastically improved since 2022, with
+      many channels taking up a pan-African, anti-imperialist message. “In the next
+      few years, hopefully there will be 20 or 30 different versions of African Stream,
+      hitting people with high-quality content,” he said.
+
+
+      Editor’s Note: At a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check
+
+
+      You can also make a donation to our PayPal or subscribe to our Patreon.
+
+
+      Please share this story and help us grow our network!'
+    one_sentence_summary: African Stream, a pan-African media outlet, was forced to
+      shut down after being labeled a Kremlin front by U.S. Secretary of State Antony
+      Blinken, leading to its swift removal from major social media platforms, highlighting
+      the challenges faced by independent media that oppose U.S. narratives.
+    paragraph_summary: African Stream, a pan-African media outlet, announced its closure
+      on July 1, 2025, after being targeted by U.S. Secretary of State Antony Blinken,
+      who labeled it a Kremlin front without evidence. This led to a swift removal of
+      its accounts from major social media platforms, crippling its ability to operate
+      and generate income. Founded in 2022, African Stream had rapidly gained a significant
+      following by offering an anti-imperialist perspective and resonating with Black
+      audiences globally. The organization's founder, Ahmed Kaballo, attributed the
+      attack to its influence in the Black community and its criticism of U.S. policies,
+      highlighting the close ties between Silicon Valley and U.S. national security
+      interests. Despite the setback, Kaballo expressed hope for the future of radical
+      African media, envisioning the emergence of new platforms that continue the anti-imperialist
+      message.
+    published: '2025-07-05T09:10:00+00:00'
+  - title: 'BRICS Expands to 56% of World Population, 44% of Global GDP: Vietnam Joins
+      as Partner Country'
+    url: https://scheerpost.com/2025/07/05/brics-expands-to-56-of-world-population-44-of-global-gdp-vietnam-joins-as-partner-country/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation.
+
+
+      By Ben Norton / Geopolitical Economy Report
+
+
+      The Global South-led organization BRICS continues to expand.
+
+
+      While the United States and Israel were busy waging war on Iran in June, BRICS
+      quietly announced that Vietnam had accepted the group’s invitation to join as
+      a partner country.
+
+
+      With the addition of Vietnam, the extended BRICS+ has 20 members and partners,
+      as of July 2025.
+
+
+      The 10 BRICS members are Brazil, Russia, India, China, South Africa, Egypt, Ethiopia,
+      Indonesia, Iran, and the United Arab Emirates.
+
+
+      The 10 BRICS partners are Belarus, Bolivia, Cuba, Kazakhstan, Malaysia, Nigeria,
+      Thailand, Uganda, Uzbekistan, and Vietnam.
+
+
+      Together, the BRICS 20 make up 43.93% of the global economy, when their combined
+      GDP is measured at purchasing power parity (PPP), according to IMF data.
+
+
+      The BRICS 20 have a combined population of 4.45 billion, out of a global population
+      of 8.01 billion in 2025, based on IMF data.
+
+
+      This means that BRICS+ represents 55.61% of the world population.
+
+
+      BRICS was initially founded as BRIC – by Brazil, Russia, India, and China – in
+      2009. South Africa joined in 2010, and it became BRICS.
+
+
+      The Global South-led organization first expanded at the BRICS summit in Johannesburg,
+      South Africa in 2023, adding new members.
+
+
+      At its 2024 summit in Kazan, Russia, BRICS invited a dozen more countries to join
+      as “partner states”.
+
+
+      Since it has expanded, the group has frequently been referred to as BRICS+, although
+      there is not a fixed definition of this term, and both names are used.
+
+
+      Vietnam had been invited to become a BRICS partner at the summit in October 2024,
+      but it waited to accept the invitation until June 2025.
+
+
+      USA fails to divide China and Vietnam: Hanoi maintains non-alignment
+
+
+      Vietnam’s decision to join BRICS is deeply symbolic, because it reaffirms the
+      country’s independent foreign policy and strategic non-alignment.
+
+
+      BRICS itself shares many commonalities with the Non-Aligned Movement, which was
+      founded by anti-colonial Global South leaders who refused to participate in the
+      First Cold War.
+
+
+      In the 21st century, the United States has sought to divide Vietnam from China,
+      as part of the Second Cold War that Washington is waging against Beijing.
+
+
+      The US government plans to reroute supply chains through Vietnam to exclude China,
+      in an example of what has been dubbed “friendshoring”.
+
+
+      Washington has pressured US companies to technologically “decouple” from China,
+      to pull their investments out of the country, and to instead relocate to Vietnam.
+
+
+      This divide-and-conquer policy has been pursued by both the Donald Trump and Joe
+      Biden administrations.
+
+
+      US Treasury Secretary Scott Bessent, a billionaire hedge fund manager from Wall
+      Street, sought to recruit Vietnam, Japan, South Korea, and India to isolate China
+      in what Bloomberg described as a “grand encirclement” strategy.
+
+
+      Vietnam, however, has adamantly resisted US efforts to sabotage its relations
+      with China.
+
+
+      In fact, relations between Hanoi and Beijing have improved in recent years, following
+      the tumultuous decades of the First Cold War and the Sino-Soviet split, when Vietnam
+      had leaned much closer to the USSR.
+
+
+      China is Vietnam’s largest trading partner. The US is the second-biggest.
+
+
+      Donald Trump’s threat to impose high tariffs on Vietnam, whose economy depends
+      a lot on exports to the US market, has only encouraged Hanoi and Beijing to move
+      closer together.
+
+
+      Today, Vietnam promotes non-alignment, based on the policy of the “Four Nos”,
+      which the Vietnamese government has defined as follows:
+
+
+      no partaking in military alliances,
+
+
+      no siding with one country to act against another,
+
+
+      no foreign military bases in the Vietnamese territory or using Viet Nam as leverage
+      to counteract other countries, and
+
+
+      no using force or threatening to use force in international relations.
+
+
+      Despite their geopolitical differences after the Sino-Soviet split, the People’s
+      Republic of China and Socialist Republic of Vietnam have very similar political
+      and economic systems, especially after both carried out a market reform process.
+
+
+      China describes its system as a socialist market economy. Vietnam calls its system
+      a socialist-oriented market economy.
+
+
+      The market-socialist models in China and Vietnam have been remarkably successful
+      in economically developing, reducing poverty, raising incomes of the working class,
+      and moving up the global value chain of industrial manufacturing.
+
+
+      Editor’s Note: At a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check
+
+
+      You can also make a donation to our PayPal or subscribe to our Patreon.
+
+
+      Ben Norton Ben Norton is a journalist, writer, and filmmaker. He is the founder
+      and editor of Geopolitical Economy Report, and is based in China. Author Site
+
+
+      Please share this story and help us grow our network!'
+    one_sentence_summary: BRICS has expanded to include Vietnam as a partner, bringing
+      its total membership to 20, which collectively represents a significant portion
+      of the global economy and population, while Vietnam's participation underscores
+      its commitment to a non-aligned foreign policy amidst U.S. efforts to isolate
+      China.
+    paragraph_summary: The BRICS organization, which includes Brazil, Russia, India,
+      China, South Africa, and several partner nations, has expanded to 20 members with
+      the recent addition of Vietnam, reflecting a significant shift in global economic
+      dynamics. As of July 2025, the BRICS+ group represents nearly 44% of the global
+      economy and over 55% of the world’s population. Vietnam's acceptance of BRICS
+      membership is emblematic of its independent foreign policy and strategic non-alignment,
+      particularly in the context of U.S. efforts to isolate China. Despite U.S. pressure
+      to sever ties with Beijing, Vietnam has maintained and even strengthened its relationship
+      with China, emphasizing its commitment to a non-aligned stance in international
+      relations. The article highlights the growing influence of BRICS as a counterbalance
+      to Western hegemony and the importance of independent journalism in covering these
+      developments.
+    published: '2025-07-05T09:05:00+00:00'
+  - title: '‘Empire of AI’: Karen Hao on How AI Is Threatening Democracy & Creating
+      a New Colonial World'
+    url: https://scheerpost.com/2025/07/05/empire-of-ai-karen-hao-on-how-ai-is-threatening-democracy-creating-a-new-colonial-world/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation.
+
+
+      By DemocracyNow!
+
+
+      In our July Fourth special broadcast, we revisit our interview with longtime technology
+      reporter Karen Hao, author of the new book Empire of AI, which unveils the accruing
+      political and economic power of AI companies — especially Sam Altman’s OpenAI.
+      Her reporting uncovered the exploitation of workers in Kenya, attempts to take
+      massive amounts of freshwater from communities in Chile, along with numerous accounts
+      of the technology’s detrimental impact on the environment. “This is an extraordinary
+      type of AI development that is causing a lot of social, labor and environmental
+      harms,” says Hao, in an extended interview.
+
+
+      Transcript
+
+
+      This is a rush transcript. Copy may not be in its final form.
+
+
+      AMY GOODMAN: This is Democracy Now!, democracynow.org, The War and Peace Report.
+      I’m Amy Goodman.
+
+
+      We turn now to the Empire of AI. That’s the name of a new book by the journalist
+      Karen Hao, who’s closely reported on the rise of the artificial intelligence industry
+      with a focus on Sam Altman’s OpenAI. That’s the company behind ChatGPT. Karen
+      Hao compares the actions of the AI industry to those of colonial powers in the
+      past. She writes, quote, “The empires of AI are not engaged in the same overt
+      violence and brutality that marked this history. But they, too, seize and extract
+      precious resources to feed their vision of artificial intelligence: the work of
+      artists and writers; the data of countless individuals posting about their experiences
+      and observations online; the land, energy, and water required to house and run
+      massive data centers and supercomputers,” she writes.
+
+
+      Karen Hao is a former reporter at The Wall Street Journal and MIT Technology Review,
+      where she became the first journalist to profile OpenAI. Democracy Now!’s Juan
+      González and I spoke to her in May. I began by asking her to explain what artificial
+      intelligence is.
+
+
+      KAREN HAO: So, AI is a collection of many different technologies, but most people
+      were introduced to it through ChatGPT. And what I argue in the book, and what
+      the title refers to, Empire of AI, it’s actually a critique of the specific trajectory
+      of AI development that led us to ChatGPT and has continued since ChatGPT. And
+      that is specifically Silicon Valley’s scale-at-all-costs approach to AI development.
+
+
+      AI models in modern day, they are trained on data. They need computers to train
+      them on that data. But what Silicon Valley did, and what OpenAI did in the last
+      few years, is they started blowing up the amount of data and the size of the computers
+      that need to do this training. So, we are talking about the full English-language
+      internet being fed into these models — books, scientific articles, all of the
+      intellectual property that has been created — and also massive supercomputers
+      that run tens of thousands, even hundreds of thousands, of computer chips that
+      are the size of dozens, maybe hundreds, of football fields and use practically
+      the entire energy demands of cities now. So, this is an extraordinary type of
+      AI development that is causing a lot of social, labor and environmental harms.
+      And that is ultimately why I evoke this analogy to empire.
+
+
+      JUAN GONZÁLEZ: And, Karen, could you talk some more about not only the energy
+      requirements, but the water requirements of these huge data centers that are,
+      in essence, the backbone of this widening industry?
+
+
+      KAREN HAO: Absolutely. I’ll give you two stats on both the energy and the water.
+      When talking about the energy demand, McKinsey recently came out with a report
+      that said in the next five years, based on the current pace of AI computational
+      infrastructure expansion, we would need to put as much energy on the global grid
+      as what is consumed by two to six times the energy consumed annually by the state
+      of California, and that will mostly be serviced by fossil fuels. We’re already
+      seeing reporting of coal plants with their lives being extended. They were supposed
+      to retire, but now they cannot, to support this data center development. We are
+      seeing methane gas turbines, unlicensed ones, being popped up to service these
+      data centers, as well.
+
+
+      From a freshwater perspective, these data centers need to be trained on freshwater.
+      They cannot be trained on any other type of water, because it can corrode the
+      equipment, it can lead to bacterial growth. And most of the time, it actually
+      taps directly into a public drinking water supply, because that is the infrastructure
+      that has been laid to deliver this clean freshwater to different businesses, to
+      different homes. And Bloomberg recently had an analysis where they looked at the
+      expansion of these data centers around the world, and two-thirds of them are being
+      placed in water-scarce areas. So they’re being placed in communities that do not
+      have access to freshwater. So, it’s not just the total amount of freshwater that
+      we need to be concerned about, but actually the distribution of this infrastructure
+      around the world.
+
+
+      JUAN GONZÁLEZ: And most people are familiar with ChatGPT, the consumer aspect
+      of AI, but what about the military aspect of AI, where, in essence, we’re finding
+      Silicon Valley companies becoming the next generation of defense contractors?
+
+
+      KAREN HAO: One of the reasons why OpenAI and many other companies are turning
+      to the defense industry is because they have spent an extraordinary amount of
+      money in developing these technologies. They’re spending hundreds of billions
+      to train these models. And they need to recoup those costs. And there are only
+      so many industries and so many places that have that size of a paycheck to pay.
+      And so, that’s why we’re seeing a cozying up to the defense industry. We’re also
+      seeing Silicon Valley use the U.S. government in their empire-building ambitions.
+      You could argue that the U.S. government is also trying to use Silicon Valley,
+      vice versa, in their empire-building ambitions.
+
+
+      But certainly, these technologies are not — they are not designed to be used in
+      a sensitive military context. And so, the aggressive push of these companies to
+      try and get those defense contracts and integrate their technologies more and
+      more into the infrastructure of the military is really alarming.
+
+
+      AMY GOODMAN: I wanted to go to the countries you went to, or the stories you covered,
+      because, I mean, this is amazing, the depth of your reporting, from Kenya to Uruguay
+      to Chile. You were talking about the use of water. And I also want to ask you
+      about nuclear power.
+
+
+      KAREN HAO: Yeah.
+
+
+      AMY GOODMAN: But in Chile, what is happening there around these data centers and
+      the water they would use and the resistance to that?
+
+
+      KAREN HAO: Yeah. So, Chile has an interesting history in that it’s been under
+      — it was under a dictatorship for a very long time. And so, during that time,
+      most public resources were privatized, including water. But because of an anomaly,
+      there’s one community in the greater Santiago metropolitan region that actually
+      still has access to a public freshwater resource that services both that community,
+      as well as the rest of the country in emergency situations. That is the exact
+      community that Google chose to try to put a data center in. And they proposed
+      for their data center to use a thousand times more freshwater than that community
+      used annually.
+
+
+      AMY GOODMAN: And it would be free.
+
+
+      KAREN HAO: And it — you know, I have no idea. That is a great question. But what
+      the community told me was they weren’t even paying taxes for this, because they
+      believed, based on reading the documentation, that the taxes that Google was paying
+      was, in fact, to where they had registered their offices, their administrative
+      offices, not where they were putting down the data center. So they were not seeing
+      any benefit from this data center directly to that community, and they were seeing
+      no checks placed on the freshwater that this data center would have been allowed
+      to extract.
+
+
+      And so, these activists said, “Wait a minute. Absolutely not. We’re not going
+      to allow this data center to come in, unless they give us a legitimate reason
+      for why it benefits us.” And so, they started doing boots-on-the-ground activism,
+      pushing back, knocking on every single one of their neighbors’ doors, handing
+      out flyers to the community, telling them, “This company is taking our freshwater
+      resources without giving us anything in return.”
+
+
+      And so, they escalated so dramatically that it escalated to Google Chile. It escalated
+      to Google Mountain View, which, by the way, then sent representatives to Chile
+      that only spoke English. But then, it eventually escalated to the Chilean government.
+      And the Chilean government now has roundtables where they ask these community
+      residents and the company representatives and representatives from the government
+      to come together to actually discuss how to make data center development more
+      beneficial to the community.
+
+
+      The activists say the fight is not over. Just because they’ve been invited to
+      the table doesn’t mean that everything is suddenly better. They need to stay vigilant.
+      They need to continue scrutinizing these projects. But thus far, they’ve been
+      able to block this project for four to five years and have gained that seat at
+      the table.
+
+
+      JUAN GONZÁLEZ: And how is it that these Western companies, in essence, are exploiting
+      labor in the Global South? You go into something called data annotation firms.
+      What are those?
+
+
+      KAREN HAO: Yeah, so, because AI, modern-day AI systems are trained on massive
+      amounts of data, and they’re scraped — that’s scraped from the internet, you can’t
+      actually pump that data directly into your AI model, because there are a lot of
+      things within that data. It’s heavily polluted. It needs to be cleaned. It needs
+      to be annotated. So, this is where data annotation firms come in. These are middle-man
+      firms that hire contract labor to provide to these AI companies to do that kind
+      of data preparation.
+
+
+      And OpenAI, when it was starting to think about commercializing its products and
+      thinking about, “Let’s put text-generation machines that can spew any kind of
+      text into the hands of millions of users,” they realized they needed to have some
+      kind of content moderation. They needed to develop a filter that would wrap around
+      these models and prevent these models from actually spewing racist, hateful and
+      harmful speech to users. That would not make a very good, commercially viable
+      product.
+
+
+      And so, they contracted these middle-man firms in Kenya, where the Kenyan workers
+      had to read through reams of the worst text on the internet, as well as AI-generated
+      text, where OpenAI was prompting its own AI models to imagine the worst text on
+      the internet and then telling these Kenyan workers to detail — to categorize them
+      in detailed taxonomies of “Is this sexual content? Is this violent content? How
+      graphic is that violent content?” in order to teach its filter all the different
+      categories of content it had to block.
+
+
+      And this is an incredibly uncommon form of labor. There are lots of other different
+      types of contract labor that they use. But these workers, they’re paid a few bucks
+      an hour, if at all. And just like the era of social media, these content moderators
+      are left very deeply psychologically traumatized. And ultimately, there is no
+      real philosophy behind why these workers are paid a couple bucks an hour and have
+      their lives destroyed, and why AI researchers who also contribute to these models
+      are paid million-dollar compensation packages simply because they sit in Silicon
+      Valley, in OpenAI’s offices. That is the logic of empire, and that harkens back
+      to my title, Empire of AI.
+
+
+      AMY GOODMAN: So, let’s go back to your title, Empire of AI, the subtitle, Dreams
+      and Nightmares in Sam Altman’s OpenAI. So, tell us the story of Sam Altman and
+      what OpenAI is all about, right through to the deal he just made in the Gulf,
+      when President Trump, Sam Altman and Elon Musk were there.
+
+
+      KAREN HAO: Altman is very much a product of Silicon Valley. His career was first
+      as a founder of a startup, and then as the president of Y Combinator, which is
+      one of the most famous startup accelerators in Silicon Valley, and then the CEO
+      of OpenAI. And there’s no coincidence that OpenAI ended up introducing the world
+      to the scale-at-all-costs approach to AI development, because that is the way
+      that Silicon Valley has operated in the entire time that Altman came up in it.
+
+
+      And so, he is a very strategic person. He is incredibly good at telling stories
+      about the future and painting these sweeping visions that investors and employees
+      want to be a part of. And so, early on at YC, he identified that AI would be one
+      of the trends that could take off. And he was trying to build a portfolio of different
+      investments and different initiatives to place himself in the center of various
+      different trends, depending on which one took off. He was investing in quantum
+      computing, he was investing in nuclear fusion, he was investing in self-driving
+      cars, and he was developing a fundamental AI research lab. Ultimately, the AI
+      research lab was the ones that started accelerating really quickly, so he makes
+      himself the CEO of that company.
+
+
+      And originally, he started it as a nonprofit to try and position it as a counter
+      to for-profit-driven incentives in Silicon Valley. But within one-and-a-half years,
+      OpenAI’s executives identified that if they wanted to be the lead in this space,
+      they “had to” go for this scale-at-all-costs approach — and “had to” should be
+      in quotes. They thought that they had to do this. There are actually many other
+      ways to develop AI and to have progress in AI that does not take this approach.
+
+
+      But once they decided that, they realized the bottleneck was capital. It just
+      so happened Sam Altman is a once-in-a-generation fundraising talent. He created
+      this new structure, nesting a for-profit arm within the nonprofit, to become this
+      fundraising vehicle for the tens of billions, and ultimately hundreds of billions,
+      that they needed to pursue the approach that they decided on. And that is how
+      we ultimately get to present-day OpenAI, which is one of the most capitalistic
+      companies in the history of Silicon Valley, continuing to raise hundreds of billions,
+      and, Altman has joked, even trillions, to produce a technology that ultimately
+      has a middling economic impact thus far.
+
+
+      AMY GOODMAN: We’ll return to our conversation in a minute with Karen Hao, author
+      of the new book, Empire of AI: Dreams and Nightmares in Sam Altman’s OpenAI. Stay
+      with us.
+
+
+      Editor’s Note: At a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check
+
+
+      You can also make a donation to our PayPal or subscribe to our Patreon.
+
+
+      DemocracyNow! Democracy Now! produces a daily, global, independent news hour hosted
+      by award-winning journalists Amy Goodman and Juan González. Our reporting includes
+      breaking daily news headlines and in-depth interviews with people on the front
+      lines of the world’s most pressing issues. On Democracy Now!, you’ll hear a diversity
+      of voices speaking for themselves, providing a unique and sometimes provocative
+      perspective on global events. Author Site
+
+
+      Please share this story and help us grow our network!'
+    one_sentence_summary: In her book "Empire of AI," journalist Karen Hao critiques
+      the artificial intelligence industry's exploitative practices, particularly focusing
+      on OpenAI and its environmental and social impacts, including the extraction of
+      resources and labor exploitation in the Global South, while drawing parallels
+      to historical colonialism.
+    paragraph_summary: In a recent interview with Democracy Now!, journalist Karen Hao
+      discusses her book, *Empire of AI*, which critiques the political and economic
+      power of AI companies, particularly OpenAI, led by Sam Altman. Hao draws parallels
+      between the AI industry and historical colonialism, highlighting how these companies
+      extract resources—such as labor, data, and freshwater—from vulnerable communities,
+      often causing social and environmental harm. She details the exploitation of workers
+      in Kenya who are paid meager wages to moderate harmful content for AI systems,
+      and the alarming energy and water demands of massive data centers, particularly
+      in water-scarce regions like Chile. Hao emphasizes the need for accountability
+      and community engagement in AI development, as well as the troubling trend of
+      AI companies aligning with the defense industry to recoup their substantial investments.
+      Overall, her work sheds light on the darker implications of unchecked AI expansion
+      and the urgent need for ethical considerations in its development.
+    published: '2025-07-05T09:00:00+00:00'
   - title: Happy Birthday, America!
     url: https://scheerpost.com/2025/07/04/happy-birthday-america-2/
     text: At a moment when the once vaunted model of responsible journalism is overwhelmingly
