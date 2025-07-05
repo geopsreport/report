@@ -47,7 +47,7 @@ analysts = [
     },
     {
         "name": "Andrei Martyanov",
-        "website": "https://turcopolier.typepad.com",
+        "website": "https://smoothiex12.blogspot.com/",
         "description": "Former Soviet naval officer and military analyst; runs 'Reminiscence of the Future' blog, focusing on Russian vs US military-industrial realities."
     },
     {
@@ -102,7 +102,7 @@ analysts = [
     },
     {
         "name": "Caitlin Johnstone",
-        "website": "https://caitlinjohnstone.substack.com",
+        "website": "https://www.caitlinjohnst.one/",
         "description": "Australian satirical anti–war journalist; reader–funded Substack; challenges media propaganda and US/NATO interventions daily."
     },
     {
@@ -117,7 +117,7 @@ analysts = [
     },
     {
         "name": "Jan Oberg",
-        "website": "https://transnational.org",
+        "website": "https://transnational.live/",
         "description": "Swedish peace researcher and co–founder of Transnational Foundation; independent thought leadership on conflict resolution and non–violence."
     },
     {
@@ -127,7 +127,7 @@ analysts = [
     },
     {
         "name": "Boris Rozhin (Colonel Cassad)",
-        "website": "https://colonelcassad.live",
+        "website": "https://colonelcassad.livejournal.com/",
         "description": "Russian military-history analyst; Crimea–based; provides minute–by–minute OSINT on Ukraine from pro–resistance, anti–NATO viewpoint."
     },
     {
@@ -159,6 +159,15 @@ analysts = [
         "name": "Rana Abou Rjeily",
         "website": "https://ranahabib.substack.com",
         "description": "Lebanese writer and typographer based in Beirut; Substack offers cultural/political reflections from Middle East intersectional angle."
+    },
+    {
+        "name": "Nicolai N. Petro",
+        "website": "https://www.npetro.net/8.html",
+        "description": "Nicolai N. Petro is a Professor of Political Science specializing in Russian and Eurasian politics, known for his critical analysis of East-West relations and advocacy for diplomatic engagement.",
+        "urls": [
+            "https://www.npetro.net/7.html",
+            "https://www.npetro.net/4.html"
+        ]
     }
 ]
 
