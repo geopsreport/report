@@ -38,7 +38,8 @@ jobs:
           git config user.email "github-actions@github.com"
           git add data/
           git commit -m "Auto: Update articles $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
-          git push 
+          git pull --rebase origin main || (echo "Rebase failed, aborting rebase and skipping push"; git rebase --abort; exit 0)
+          git push || echo "Push failed, probably due to race condition"
 
   generate-analysts-and-publish:
     runs-on: ubuntu-latest
