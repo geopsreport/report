@@ -174,7 +174,9 @@ def main():
     last_summaries = []
     for fname in post_files[:2]:
         with open(fname) as f:
-            last_summaries.append("\n<report>\n" + f.read() + "\n</report>\n")
+            summary_content = f.read()
+            summary_content = "---".join(summary_content.split("---")[2:]) # remove md header
+            last_summaries.append("\n<report>\n" + summary_content + "\n</report>\n")
     
     context += "<previous reports>\n" + "\n".join(last_summaries) + "\n</previous reports>\n"
 
