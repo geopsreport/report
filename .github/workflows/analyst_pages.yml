@@ -1,8 +1,8 @@
-name: Scrape Articles
+name: Generate Analyst Pages
 
 on:
   schedule:
-    - cron: '0 6 * * 3'  # 6 AM UTC every Wednesday
+    - cron: '30 6 * * 3'  # 6:30 AM UTC every Wednesday
   workflow_dispatch:
 
 permissions:
