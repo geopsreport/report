@@ -264,12 +264,14 @@ def try_rss_endpoints(website):
     print(f"No valid RSS feed found for {website}")
     return None
 
+FOLLOW_LINKS_N = 100
+
 def fetch_articles_from_rss(rss_url, analyst_name, website):
     """Fetch articles from RSS feed"""
     print(f"Fetching RSS for {analyst_name} from {rss_url}")
     feed = feedparser.parse(rss_url)
     results = []
-    for entry in feed.entries[:10]:
+    for entry in feed.entries[:FOLLOW_LINKS_N]:
         url = clean_url(entry.link)
         title = entry.title
         published = extract_pub_date(feed_entry=entry)
@@ -297,13 +299,12 @@ def set_referer_origin(session, url):
 
 def find_article_links(website, session, analyst_name):
     """Find article links using RSS feeds or HTML scraping as fallback"""
-    num_articles = 80
     feeds = [website.rstrip('/') + '/feed', website.rstrip('/') + '/rss']
     for feed_url in feeds:
         try:
             feed = feedparser.parse(feed_url)
             if feed.entries:
-                links = [{"title": e.title, "url": e.link, "published": extract_pub_date(feed_entry=e)} for e in feed.entries[:num_articles]]
+                links = [{"title": e.title, "url": e.link, "published": extract_pub_date(feed_entry=e)} for e in feed.entries[:FOLLOW_LINKS_N]]
                 links = [l for l in links if not l["published"] or (date_parser.parse(l["published"]).year > 2020)]
                 return filter_links_with_llm(links, analyst_name, website)
         except Exception as e:

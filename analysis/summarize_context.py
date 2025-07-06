@@ -180,7 +180,7 @@ def main():
     
     context += "<previous reports>\n" + "\n".join(last_summaries) + "\n</previous reports>\n"
 
-    this_edition_articles = recent_articles(articles, hours=36)
+    this_edition_articles = recent_articles(articles, hours=24)
     summary = make_context_summary(this_edition_articles, context)
     sources = list(set([a.analyst for a in articles]))
     sources = [Analyst.find_analyst(a) for a in sources]
