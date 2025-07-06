@@ -74,20 +74,21 @@ def recent_articles(articles, hours=12):
     return result
 
 def make_context_summary(recent, input_context=None):
-    prompt = """
+    base_prompt = """
 You are a journalist and intelligence analyst assistant AI writing for the geopolitics news publication Geops Report.
 You must write a journalistic article summarizing the geopolitical situation based on the following publications from selected independent analysts.
 
 A new report is published every 12 hours, so:
-- Focus on **new developments** or information instead of repeating previous reports.
-- Keep it **short**, not more than 3 or 4 subjects at the time.
-- If you already addressed the issue in the previous summaries, and there is no new information, try other subject or go deeper into other issues.
-- When quoting a source on an opinion, use the **quote and the source**'s name and bold the source name.
-- Try not to quote always the same analyst as previous summaries and never repeat the same quote.
-- Keep the same **professional** tone and style as the source articles.
-
+- Focus on **new information and developments** not covered by previous summary reports
+- Keep it **short**, no more than 3 or 4 subjects per report
+- If there is no new information about an issue, try a different one
+- When quoting a source, mention their name in bold
+- Quote different sources and never repeat the same quote from previous reports
+- Favor majority opinions across sources
+- Keep the same **professional** tone and style as the source articles
 
 """
+    prompt = base_prompt
     if input_context:
         now = datetime.datetime.now(datetime.timezone.utc)
         today_str = now.strftime("%A, %B %d, %Y")
@@ -110,12 +111,12 @@ A new report is published every 12 hours, so:
             readable_date = article.published
         prompt += f"\n### {article.title} by {article.analyst} ({readable_date})\n" + getattr(article, summary_field, '') + "\n"
     prompt += "\n</sources>\n"
-
+    prompt += base_prompt
     prompt += "\nWrite a summary report for the main events, context, trends and expected outcomes. First give a bit of context, go in detail on the most recent events or key issues and conclude with the trends and expected outcomes."
     print("len(summary context):", len(prompt), prompt)
     response = client.chat.completions.create(
         #model="gpt-4o",
-        model="gpt-4o",
+        model="gpt-4.1",
         messages=[{"role": "user", "content": prompt}],
         max_tokens=4000,
         temperature=0.3,
@@ -173,9 +174,9 @@ def main():
     last_summaries = []
     for fname in post_files[:2]:
         with open(fname) as f:
-            last_summaries.append(f.read())
+            last_summaries.append("\n<report>\n" + f.read() + "\n</report>\n")
     
-    context += "<previous summaries>\n" + "\n".join(last_summaries) + "\n</previous summaries>\n"
+    context += "<previous reports>\n" + "\n".join(last_summaries) + "\n</previous reports>\n"
 
     this_edition_articles = recent_articles(articles, hours=36)
     summary = make_context_summary(this_edition_articles, context)
