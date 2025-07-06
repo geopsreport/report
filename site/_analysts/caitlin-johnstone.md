@@ -6,6 +6,93 @@ analyst_id: caitlin-johnstone
 description: "Australian satirical anti–war journalist; reader–funded Substack; challenges media propaganda and US/NATO interventions daily."
 website: https://www.caitlinjohnst.one/
 articles:
+  - title: Anti-Genocide Activism Is Terrorism In The Empire Of Lies
+    url: https://www.caitlinjohnst.one/p/anti-genocide-activism-is-terrorism
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now British police have been arresting anti-genocide
+      protesters for holding signs expressing support for activist group Palestine Action,
+      which London has now officially designated a terrorist group for putting red paint
+      on war planes that were being used in the Gaza holocaust. That’s right, welcome
+      to the empire, where peace activists are called terrorists, where hospitals are
+      called military bases, where facts are called blood libel, where people opposing
+      genocide are called hateful Nazis, where genocidal soldiers are a protected group
+      and chanting for their death is a hate crime. ❖ Israeli outlet Haaretz has published
+      an article titled “ Now I Understand Why Israel Is Denying Journalists Access
+      to the Appalling Scene in Gaza ” by a French historian named Jean-Pierre Filiu,
+      who spent a month in the killing fields of the ruined Palestinian territory after
+      entering with a busload of French physicians. Israel has banned journalists from
+      Gaza in order to hide its war crimes, making doctors and other specialists the
+      de facto western reporters on the ground. And they’re all reporting the same thing
+      about what they are seeing. ❖ https://x.com/caitoz/status/1941166811120345523
+      ❖ Part of the problem is how normies who don’t follow this stuff closely cannot
+      believe Israel could be as evil as we’re saying it is. They’re often like “Oh
+      yeah right, they’re just killing civilians because they’re evil and want Palestinians
+      to die.” Which would make sense as an objection if you hadn’t been following Israel’s
+      pattern of behavior from day to day and weren’t familiar with the way Israelis
+      talk about Palestinians whenever they’re speaking to each other in Hebrew instead
+      of addressing the western press. Israel’s public image is somewhat protected by
+      the fact that its behavior is so profoundly evil that simply talking about it
+      strains credulity among the uninformed, in the same way you sound like a crazy
+      conspiracy theorist if you talk about some of the things the CIA has openly admitted
+      to doing in the past. Many people literally cannot believe anyone could be as
+      evil as Israel is, so the true extent of their crimes go unseen. ❖ I’ve decided
+      I’m never going to click on another Piers Morgan Uncensored video. He’s just a
+      shitty western empire stooge playing Jerry Springer with people’s outrage over
+      the worst things in the world and pretending to be impartial while generating
+      viral online video clips fueled by rage and partisan echo chamber amplification.
+      It occasionally looks edifying, but it’s really a symptom of some of the most
+      diseased aspects of this civilization, like Mr Beast. The man is a parasite feasting
+      on the vitriolic energy of these dark and troubling times, directly profiting
+      from the immense suffering caused by the empire he serves. ❖ The western public
+      has stopped viewing Palestine as an intimidating issue to speak out about, and
+      it’s causing a major problem for the Israel PR machine. One of the biggest obstacles
+      for the pro-Palestine movement used to be the way Israel-Palestine was incorrectly
+      regarded as a super complex issue that the average busy member of the public can’t
+      hope to understand. That’s changing now because a live-streamed genocide is straightforward
+      enough to override the “No you don’t understand what’s happening because words,
+      words, words” schtick that Israel apologists always use to shut people down, but
+      for a long time the hasbarists were able to intimidate people into silence just
+      by knowing a bunch of clever talking points that the average casual observer would
+      struggle to come up with answers for. https://x.com/FarOutMag/status/1938999362912129329
+      One of my favorite clips from the Glastonbury Festival came from Australian band
+      Amyl and the Sniffers, whose vocalist Amy Taylor gave an off-the-cuff speech about
+      Palestine and colonialism and the parallels between what white colonizers did
+      to Indigenous Australians and what’s happening to the Palestinians today. It wasn’t
+      a perfect or super eloquent speech by Taylor’s own admission, but it was passionate
+      and it got the point across. At the end she said, “That’s the truth and I thought
+      I’d share that today. It was gonna be something way more poetic but that’s just
+      what I said; it’s not perfect but I think it’s better to say anything than to
+      say nothing at all right now.” More and more people are seeing this when it comes
+      to Gaza — that it’s better to say anything than to say nothing at all right now.
+      You don’t have to be an expert. You don’t have to know everything there is to
+      know about about the apartheid state of Israel and the history of the Zionist
+      project. You know what you’re seeing and you know it’s wrong, and that’s enough.
+      Don’t let anyone intimidate you into being silent on the defining issue of our
+      times. _________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      My work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. Click here
+      for links for my mailing list, social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Featured image by Jason Ilagan ( CC BY-ND 2.0 )'
+    one_sentence_summary: British police are arresting anti-genocide protesters supporting
+      Palestine Action, now labeled a terrorist group for their activism, highlighting
+      a troubling narrative where peace advocates are criminalized while those perpetrating
+      violence are protected.
+    paragraph_summary: The article discusses the recent arrests of anti-genocide protesters
+      in Britain for supporting Palestine Action, which has been labeled a terrorist
+      group by the UK for its actions against military planes involved in the Gaza conflict.
+      It highlights the troubling narrative where peace activists are branded as terrorists,
+      while those committing violence are protected. The piece references a Haaretz
+      article by historian Jean-Pierre Filiu, who, after witnessing the devastation
+      in Gaza with a group of French doctors, underscores the Israeli government's efforts
+      to restrict journalist access to conceal its alleged war crimes. The author argues
+      that many people struggle to accept the severity of Israel's actions due to a
+      lack of awareness about the ongoing situation and the stark contrast between the
+      reality on the ground and the narratives presented in the media.
+    published: '2025-07-06T00:21:07+00:00'
   - title: 'The New Issue Of JOHNSTONE: This Is Israel'
     url: https://www.caitlinjohnst.one/p/the-new-issue-of-johnstone-this-is
     text: 'Subscribe now I publish my work in print form every month in a collection

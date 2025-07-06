@@ -6,6 +6,125 @@ analyst_id: larry-c-johnson
 description: "Former CIA analyst & State Dept counterterrorism official; runs Sonar21 blog covering national security and global affairs from a skeptical, realist viewpoint."
 website: https://sonar21.com
 articles:
+  - title: Why Most of the World’s Population Don’t Have a Clue About Zionism
+    url: https://sonar21.com/why-most-of-the-worlds-population-dont-have-a-clue-about-zionism/
+    text: 'Sometimes we are captive to our own cultural prejudices and assume the rest
+      of the world understands or perceives an issue in the same way that we do. I started
+      thinking about this after my conversation on Friday with Jyotishman … I realized
+      that I had assumed that most people are familiar with the eschatological beliefs
+      of Jews, and Christians, which is the foundation of Zionism. The truth of the
+      matter is otherwise… The majority of the world’s population doesn’t have a clue
+      about how the current support for Israel in the United States rests on a foundation
+      of religious beliefs about the end of the world and the return of the Messiah.
+      Let’s start with some facts (courtesy of Perplexity AI ): About 59% of the world’s
+      population lives in Asia, including India. As of 2025, approximately 35.4% of
+      the world’s population lives in China and India combined. Specifically, about
+      17.5% live in China and 17.9% live in India. About 2.3% of India’s population
+      is Christian, while the Jewish population is extremely small—less than 0.01%.
+      Christians make up about 2–5% of China’s population, while Jews represent less
+      than 0.01%. While I am sure that university educated people in Asia have some
+      superficial familiarity with Jewish/Christian eschatology, most are not steeped
+      in the details and do not understand how emotionally charged the issue is if someone,
+      me in this case, dares to challenge the narrative that the Jews are God’s chosen
+      people and have a divine right to inhabit the portion of the Levant known as Israel,
+      Gaza and the West Bank. Here are just two examples of comments made in response
+      to my chat with Jyotishman: While the CREATOR did Choose for HIMSELF a Covenant
+      People, HE also embraces all People who take hold of HIS Covenant (Isaiah 56:6-8).
+      Moreover, it is impossible for these Ashkenazi Europeans to be of the seed of
+      Abraham, Isaac, and Jacob. GOD called Abraham from out of “Ur of the CHALDEES”
+      a place where once Black People lived. Therefore, these so-called White Jews are
+      IMPOSTORS! Do the research! Johnson, just like “Zionist Christians,” are [sic]
+      not interested in the truth: “IF ONLY YOU FULLY OBEY THE LORD YOUR GOD and are
+      careful to follow all these commands I am giving you today. For the Lord your
+      God will bless you as he has promised, and you will lend to many nations but will
+      borrow from none. You will rule over many nations but none will rule over you.”
+      Deuteronomy 15:5 No Matter, Larry Johnson, as well as Satanic Zionist Jews, will
+      continue to lie about the Word of God, because it suits them to do so……the time
+      is short. Most Christians and religious Jews accept the Old Testament/Torah as
+      the divine word of God, even though it was written by Jewish scholars in the 6th
+      Century BCE. I don’t. Turning to Perplexity AI again, I asked: When was the Torah
+      written: The Torah —the foundational text of Judaism, comprising the first five
+      books of the Hebrew Bible (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)—was
+      written over a long period, and its exact date of composition is a subject of
+      both religious tradition and scholarly debate. Traditional Jewish View • Traditional
+      belief: The Torah was written by Moses around the 13th century BCE (approximately
+      1200–1300 BCE), during the Israelites’ journey from Egypt to the Promised Land.
+      Scholarly (Academic) View • Modern scholarship: Most historians and biblical scholars
+      believe the Torah was composed and compiled over several centuries. • Estimated
+      timeline: • Earliest sources: Some material may date back to the 10th–9th centuries
+      BCE. • Main composition and compilation: Most scholars suggest the Torah reached
+      its near-final form between the 7th and 5th centuries BCE (c. 700–400 BCE), during
+      and after the Babylonian Exile. • Final editing: The text was likely finalized
+      in the 5th century BCE. This was a book compiled by Jewish scholars primarily
+      during their captivity in Babylon, under the rule of King Nebuchadnezzar II. It
+      is a story told initially, drawing on oral traditions, by Jewish scholars who
+      assembled a narrative that put Judaism at the center of their religious world.
+      While Jewish longing for a return to Zion (Jerusalem and the Land of Israel) has
+      existed for centuries, modern Zionism arose in Europe in response to rising antisemitism
+      and nationalist movements. The movement was most notably organized by Theodor
+      Herzl, an Austro-Hungarian journalist and political activist. Here’s the irony…
+      Theodor Herzl was not a religious Jew in the traditional sense. He was born into
+      a secular, assimilated Jewish family in Budapest and later lived in Vienna. Herzl’s
+      upbringing and personal beliefs were shaped by the secular, intellectual culture
+      of 19th-century Central Europe. So here is a guy who does not believe that the
+      promises contained in the Torah were written by Moses as dictated to him by a
+      divine being. I have deliberately declined to discuss the Islamic eschatology,
+      because that opens a whole new can of worms . I will simply note that religious
+      Muslims deeply revere Jerusalem and the Holy Land for their association with the
+      Prophet Muhammad’s Night Journey, their mention as a blessed land in the Qur’an,
+      and their connection to many prophets. The Al-Aqsa Mosque in Jerusalem is the
+      third holiest site in Islam, and the city holds great spiritual, historical, and
+      religious significance for Muslims worldwide. I am not suggesting that other factors,
+      such as the control of oil resources in the region and historical grievances,
+      play no role in the genocidal war being waged against the Palestinian people.
+      However, the religious foundations of this struggle should not be ignored. Here’s
+      another twist. Tel Aviv University linguist, Paul Wexler, has written two books
+      that offer an alternative narrative: i.e., The Non-Jewish Origins of the Sephardic
+      Jews and The Ashkenazic Jews: A Slavo-Turkic People in Search of a Jewish Identity
+      . Using linguistic analysis, Wexler concludes that neither of the main branches
+      of modern Judaism can claim they are the descendants from the Jewish tribes of
+      biblical times. Rather, they descend from disparate populations that converted
+      during a vigorous proselytizing campaign traditional Judaism undertook around
+      the Mediterranean to counter the rise of Christianity. That sort of worked for
+      a while until Islam swamped them both across MENA and, finally, even Spain. Of
+      the Ashkenazim, who make up the vast bulk of today’s Jewry and led the Jewish
+      takeover of Palestine, he writes: “… contemporary Judaism is best defined not
+      as the continuation of the Judaism which served as an antecedent of Christianity
+      and Islam, but as a newly Judaized variant of European (mainly Slavic) paganism
+      and Christianity…most of the features of Old Palestinian Judaism and Semitic Hebrew
+      to be found in Ashkenazic ‘Judaism’ and Medieval Ashkenazic/Modern Israeli ‘Hebrew’
+      were latter borrowings rather than original inheritance.” Martin Cohen (Jewish
+      Institute of Religion, NYC) wrote in the American Historical Review (Feb. 1999):
+      “Wexler’s insights…may possibly startle some readers but in my opinion, they are
+      soundly and irrefutably presented”. The upshot of Wexler’s and others’ work, including
+      reams of genetic studies, is that there was no Diaspora . The Jews of Palestine,
+      for the most part, stayed where they were, mixing with others as empires rose
+      and fell and eventually converted to Islam. Today’s Palestinians may be the best
+      candidate population of any size to claim an ethnic heritage from the biblical
+      Israelites. Don’t get mad at me for suggesting that the narrative spun among the
+      Christian West about the righteousness of the Zionist cause may be a fraud. Just
+      putting it out there for you to discuss. Let the battle begin. I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article discusses how cultural biases can lead to assumptions
+      about global understanding of issues, particularly highlighting that many people,
+      especially outside the U.S., are unaware that American support for Israel is deeply
+      rooted in specific religious beliefs about eschatology.
+    paragraph_summary: The article discusses the author's realization of the cultural
+      biases that shape perceptions of global issues, particularly regarding the eschatological
+      beliefs of Jews and Christians that underpin Zionism and the U.S. support for
+      Israel. The author notes that a significant portion of the world's population,
+      especially in Asia, lacks a deep understanding of these religious narratives,
+      which can lead to misunderstandings about the emotional weight of discussions
+      surrounding Israel's legitimacy. Highlighting demographic facts, the author emphasizes
+      that the majority of people in countries like India and China are not familiar
+      with the intricacies of Jewish and Christian eschatology, which complicates dialogues
+      about Israel's divine right to the land. The article concludes with examples of
+      comments reflecting a lack of awareness about these beliefs and the complexities
+      of identity related to the Jewish population.
+    published: '2025-07-06T03:07:25+00:00'
   - title: Findings on an Illegal War that the West Enthusiastically Waged and Lost
     url: https://sonar21.com/findings-on-an-illegal-war-that-the-west-enthusiastically-waged-and-lost/
     text: 'International law has been abolished and never before have events been so

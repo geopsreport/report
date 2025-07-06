@@ -6,6 +6,25 @@ analyst_id: ray-mcgovern
 description: "27-year CIA analyst turned independent; co-founder of Veteran Intelligence Professionals for Sanity; writes critical open-source intel assessments."
 website: https://consortiumnews.com
 articles:
+  - title: 'VIPS: Data Collection Can Be Effective AND Legal'
+    url: https://consortiumnews.com/2025/07/05/data-collection-can-be-effective-and-legal/
+    text: Surveillance with AI, robotics and drones threatens privacy and democracy.
+      An independent technical group is needed to monitor U.S. government agencies,
+      enforcing compliance with the Constitution and ending hidden, illegal programs.
+      July 5, 2025 MEMORANDUM FOR: The President FROM: Veteran Intelligence Professionals…
+      Read more →
+    one_sentence_summary: The article argues that the use of AI, robotics, and drones
+      for surveillance poses risks to privacy and democracy, and calls for an independent
+      technical group to oversee U.S. government agencies to ensure constitutional compliance
+      and eliminate clandestine programs.
+    paragraph_summary: The article discusses concerns about the use of AI, robotics,
+      and drones in surveillance by U.S. government agencies, highlighting the potential
+      threats these technologies pose to privacy and democracy. It calls for the establishment
+      of an independent technical group to oversee and monitor these agencies, ensuring
+      they comply with constitutional standards and putting an end to clandestine and
+      potentially illegal surveillance programs. The memorandum emphasizes the need
+      for accountability and transparency in government surveillance practices.
+    published: '2025-07-06T00:06:36+00:00'
   - title: A Different Revolution
     url: https://consortiumnews.com/2025/07/04/a-different-revolution/
     text: 'Shares
