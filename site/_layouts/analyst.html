@@ -209,9 +209,11 @@
       {% if page.description %}
         <p class="analyst-description">{{ page.description }}</p>
       {% endif %}
-      {% if page.website %}
+      {% if page.websites %}
         <div class="analyst-website">
-          <a href="{{ page.website }}" target="_blank">Visit Website</a>
+          {% for website in page.websites %}
+            <a href="{{ website }}" target="_blank">{{ website | replace: 'https://', '' | replace: 'http://', '' | truncate 42 }}</a>
+          {% endfor %}
         </div>
       {% endif %}
     </div>

@@ -440,87 +440,79 @@ def main():
     for analyst in analysts:
         print(f"\nChecking {analyst['name']}")
         try:
-            website = analyst['website']
+            websites = analyst['websites']
             new_articles = []
-            
-            # Try RSS first (new approach)
-            rss_url = try_rss_endpoints(website)
-            if rss_url:
-                fetched = fetch_articles_from_rss(rss_url, analyst['name'], website)
-                for art in fetched:
-                    if art['url'] in existing_urls:
+            for website in websites:
+                # Try RSS first (new approach)
+                rss_url = try_rss_endpoints(website)
+                if rss_url:
+                    fetched = fetch_articles_from_rss(rss_url, analyst['name'], website)
+                    for art in fetched:
+                        if art['url'] in existing_urls:
+                            continue
+                        new_articles.append(art)
+                        existing_urls.add(art['url'])
+                    if new_articles:
+                        if analyst['name'] in analyst_dict:
+                            analyst_dict[analyst['name']]['articles'].extend(new_articles)
+                            analyst_dict[analyst['name']]['timestamp'] = datetime.now(timezone.utc).isoformat()
+                        else:
+                            existing_articles.append({
+                                "analyst": analyst["name"],
+                                "websites": analyst["websites"],
+                                "timestamp": datetime.now(timezone.utc).isoformat(),
+                                "articles": new_articles
+                            })
+                        print(f"✅ Added {len(new_articles)} new articles from {analyst['name']} via RSS.")
+                        break  # If we found articles via RSS, skip to next analyst
+                # Fallback to original HTML scraping approach
+                print(f"RSS not available for {analyst['name']} at {website}, trying HTML scraping...")
+                links = find_article_links(website, session, analyst['name'])
+                if not links:
+                    print(f"No relevant links found for {analyst['name']} at {website}, skipping...")
+                    continue
+                print(f"Found {len(links)} relevant links for {analyst['name']} at {website}")
+                for art in links:
+                    clean_url_str = clean_url(art['url'])
+                    if clean_url_str in existing_urls:
+                        continue  # Skip known
+                    html = download(clean_url_str, session)
+                    content = extract_content(html, clean_url_str)
+                    if not content or len(content) < 300:
                         continue
-                    new_articles.append(art)
-                    existing_urls.add(art['url'])
-                
-                if new_articles:
-                    if analyst['name'] in analyst_dict:
-                        analyst_dict[analyst['name']]['articles'].extend(new_articles)
-                        analyst_dict[analyst['name']]['timestamp'] = datetime.now(timezone.utc).isoformat()
-                    else:
-                        existing_articles.append({
-                            "analyst": analyst["name"],
-                            "website": analyst["website"],
-                            "timestamp": datetime.now(timezone.utc).isoformat(),
-                            "articles": new_articles
-                        })
-                    print(f"✅ Added {len(new_articles)} new articles from {analyst['name']} via RSS.")
-                    continue
-            
-            # Fallback to original HTML scraping approach
-            print(f"RSS not available for {analyst['name']}, trying HTML scraping...")
-            links = find_article_links(website, session, analyst['name'])
-            if not links:
-                print(f"No relevant links found for {analyst['name']}, skipping...")
-                continue
-            print(f"Found {len(links)} relevant links for {analyst['name']}")
-                
-            for art in links:
-                # Clean the URL for duplicate checking
-                clean_url_str = clean_url(art['url'])
-                if clean_url_str in existing_urls:
-                    continue  # Skip known
-                html = download(clean_url_str, session)
-                content = extract_content(html, clean_url_str)
-                if not content or len(content) < 300:
-                    continue
-                sent_sum = summarize(content[:10000], 'sentence')
-                print(f"Sent_sum: {sent_sum}")
-                para_sum = summarize(content[:20000], 'paragraph')
-                new_art = {
-                    "title": art['title'],
-                    "url": clean_url_str,  # Store cleaned URL
-                    "text": content,
-                    "one_sentence_summary": sent_sum,
-                    "paragraph_summary": para_sum,
-                    "published": art.get("published", extract_pub_date(soup=BeautifulSoup(html, 'html.parser')))
-                }
-                pub_year = date_parser.parse(new_art["published"]).year if new_art["published"] else None
-                if not pub_year or pub_year > 2020:
-                    new_articles.append(new_art)
-                    existing_urls.add(clean_url_str)  # Prevent repeats in same run
-
+                    sent_sum = summarize(content[:10000], 'sentence')
+                    print(f"Sent_sum: {sent_sum}")
+                    para_sum = summarize(content[:20000], 'paragraph')
+                    new_art = {
+                        "title": art['title'],
+                        "url": clean_url_str,  # Store cleaned URL
+                        "text": content,
+                        "one_sentence_summary": sent_sum,
+                        "paragraph_summary": para_sum,
+                        "published": art.get("published", extract_pub_date(soup=BeautifulSoup(html, 'html.parser')))
+                    }
+                    pub_year = date_parser.parse(new_art["published"]).year if new_art["published"] else None
+                    if not pub_year or pub_year > 2020:
+                        new_articles.append(new_art)
+                        existing_urls.add(clean_url_str)  # Prevent repeats in same run
             if not new_articles:
                 print(f"No new articles found for {analyst['name']}")
                 continue
-
             if analyst['name'] in analyst_dict:
                 analyst_dict[analyst['name']]['articles'].extend(new_articles)
                 analyst_dict[analyst['name']]['timestamp'] = datetime.now(timezone.utc).isoformat()
             else:
                 existing_articles.append({
                     "analyst": analyst["name"],
-                    "website": analyst["website"],
+                    "websites": analyst["websites"],
                     "timestamp": datetime.now(timezone.utc).isoformat(),
                     "articles": new_articles
                 })
             print(f"Added {len(new_articles)} new articles from {analyst['name']} via HTML scraping.")
-            
         except Exception as e:
             print(f"⚠️ Error processing {analyst['name']}: {e}")
             traceback.print_exc()
             continue
-
     save_articles(existing_articles)
 
 if __name__ == "__main__":
