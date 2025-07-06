@@ -6,6 +6,169 @@ analyst_id: elijah-j-magnier
 description: "Veteran Middle East war correspondent; provides first-hand analysis of Syria, Iraq, Gaza; writes for The Cradle and personal blog."
 website: https://ejmagnier.com
 articles:
+  - title: Hezbollah to Reject US Disarmament Proposal: Strategic Gaps, Sovereignty
+      Violations, and Community Marginalisation
+    url: https://ejmagnier.com/2025/07/05/hezbollah-to-reject-us-disarmament-proposal-strategic-gaps-sovereignty-violations-and-community-marginalisation/
+    text: Tweet By Elijah J. Magnier – Sources close to decision-makers have confirmed
+      that Hezbollah will reject the latest US proposal presented by envoy Thomas Barrack,
+      which demands the disarmament of the resistance movement in exchange for a phased
+      Israeli withdrawal and conditional financial aid to Lebanon. While Washington
+      portrays the six-page roadmap as a diplomatic solution, it is riddled with asymmetries,
+      vague guarantees, and precedents that render it untenable in the eyes of Hezbollah
+      and other regional actors. Hezbollah argues that Lebanon has already complied
+      with UN Security Council Resolution 1701 , and insists that Israel must now fulfil
+      its obligations under that agreement. Any move toward a new agreement is untrustworthy,
+      especially when the original deal has not been enforced. Hezbollah further asserts
+      that the United States and France, who acted as guarantors of 1701, have failed
+      to uphold their responsibilities and have no interest in bothering Israel. The
+      ceasefire has been violated over 3,700 times , with no accountability imposed
+      on Israel. According to sources, the current US proposal merely reflects long-standing
+      Israeli demands that Tel Aviv failed to achieve by military force. “How can such
+      demands be granted through negotiations with the United States, which is entirely
+      biased toward the enemy?” a source aligned with the party noted. Hezbollah stresses
+      that once Israel fully complies with the original agreement, Lebanese factions—including
+      Hezbollah—are ready to engage in dialogue that serves the country’s national interest.
+      This pattern mirrors what happened in Gaza, where US envoy Steve Witkoff helped
+      broker what it initially looked like a lasting ceasefire at the start. Forty-two
+      days later, he reversed course and demanded the release of all Israeli prisoners. That
+      reversal enabled Israel to launch its “Chariots of Gideon” operation, leading
+      to the occupation of much of Gaza. Hezbollah sees the current U.S. approach—led
+      by Thomas Barrack—as a replication of that tactic, applied in a different theatre
+      but by the same players. Key Gaps and Structural Flaws in the US Proposal Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Hezbollah has confirmed its rejection of a US proposal for
+      disarmament in exchange for Israeli withdrawal and financial aid, deeming it untrustworthy
+      and asserting that Lebanon has already complied with UN Security Council Resolution
+      1701, while accusing the US and France of failing to uphold their responsibilities
+      as guarantors.
+    paragraph_summary: Hezbollah has firmly rejected the latest U.S. proposal, presented
+      by envoy Thomas Barrack, which calls for the disarmament of the resistance movement
+      in exchange for a phased Israeli withdrawal and conditional financial aid to Lebanon.
+      Sources indicate that Hezbollah views the proposal as untrustworthy and biased,
+      arguing that Lebanon has already fulfilled its obligations under UN Security Council
+      Resolution 1701, while Israel has not. They criticize the U.S. and France for
+      failing to enforce the resolution and holding Israel accountable for over 3,700
+      ceasefire violations. Hezbollah contends that the U.S. proposal reflects longstanding
+      Israeli demands that were not achieved through military means, and insists that
+      dialogue can only occur once Israel complies with the original agreement. This
+      situation is compared to previous U.S. negotiations in Gaza, which ultimately
+      led to further conflict.
+    published: '2025-07-05T16:55:28+00:00'
+  - title: 'Hezbollah rejettera la proposition américaine de désarmement : lacunes stratégiques,
+      atteintes à la souveraineté et marginalisation communautaire'
+    url: https://ejmagnier.com/2025/07/05/hezbollah-rejettera-la-proposition-americaine-de-desarmement-lacunes-strategiques-atteintes-a-la-souverainete-et-marginalisation-communautaire/
+    text: Tweet Par Elijah J. Magnier Des sources proches des décideurs ont confirmé
+      que le Hezbollah rejettera la dernière proposition américaine présentée par l’envoyé
+      Thomas Barrack, qui exige le désarmement du mouvement de résistance en échange
+      d’un retrait israélien progressif et d’une aide financière conditionnelle au Liban.
+      Alors que Washington présente cette feuille de route de six pages comme une solution
+      diplomatique, elle est entachée d’asymétries, de garanties vagues et de précédents
+      qui la rendent intenable aux yeux du Hezbollah et d’autres acteurs régionaux.
+      Le Hezbollah soutient que le Liban s’est déjà conformé à la résolution 1701 du
+      Conseil de sécurité de l’ONU et insiste pour qu’Israël respecte désormais ses
+      obligations au titre de cet accord. Toute démarche visant un nouvel accord est
+      jugée peu fiable, d’autant que le texte initial n’a pas été respecté. Le Hezbollah
+      affirme également que les États-Unis et la France, qui agissaient en tant que
+      garants de la résolution 1701, n’ont pas assumé leurs responsabilités et ne cherchent
+      pas à sanctionner Israël. Le cessez-le-feu a été violé plus de 3 700 fois, sans
+      aucune mise en cause d’Israël. Selon ces sources, la proposition américaine actuelle
+      ne fait que refléter des revendications israéliennes de longue date que Tel-Aviv
+      n’a jamais pu imposer par la force militaire. « Comment des exigences de ce type
+      peuvent-elles être satisfaites par des négociations avec les États-Unis, qui sont
+      totalement biaisés en faveur de l’ennemi ? », note un responsable aligné avec
+      le parti. Le Hezbollah souligne qu’une fois qu’Israël aura pleinement respecté
+      l’accord initial, les factions libanaises – y compris le Hezbollah – sont prêtes
+      à engager un dialogue pour servir l’intérêt national. Ce schéma rappelle ce qui
+      s’est produit à Gaza, où l’envoyé américain Steve Witkoff a contribué à instaurer
+      un cessez-le-feu qui semblait durable. Quarante-deux jours plus tard, il a exigé
+      la libération de tous les prisonniers israéliens. Ce revirement a permis à Israël
+      de lancer l’opération baptisée « Chariots of Gideon », conduisant à l’occupation
+      d’une grande partie de Gaza. Le Hezbollah perçoit l’approche américaine actuelle
+      – menée par Thomas Barrack – comme une répétition de cette tactique, appliquée
+      dans un autre théâtre par les mêmes protagonistes. Principales lacunes et failles
+      structurelles du plan américain Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet
+    one_sentence_summary: Hezbollah has rejected the latest American proposal for disarmament
+      in exchange for a gradual Israeli withdrawal and conditional financial aid to
+      Lebanon, deeming it untrustworthy due to past violations and vague guarantees.
+    paragraph_summary: Hezbollah has rejected the latest American proposal presented
+      by envoy Thomas Barrack, which demands the disarmament of the resistance movement
+      in exchange for a gradual Israeli withdrawal and conditional financial aid to
+      Lebanon. The six-page roadmap, portrayed by Washington as a diplomatic solution,
+      is seen by Hezbollah and other regional actors as flawed due to its asymmetries,
+      vague guarantees, and historical precedents that undermine its credibility. Hezbollah
+      asserts that Lebanon has already complied with UN Security Council Resolution
+      1701 and insists that Israel must fulfill its obligations under the agreement,
+      noting that the ceasefire has been violated over 3,700 times without repercussions
+      for Israel. The group views the current U.S. proposal as a reflection of long-standing
+      Israeli demands that have not been enforced militarily, questioning how negotiations
+      with a biased U.S. could yield satisfactory outcomes. Hezbollah states that it
+      is open to dialogue with Lebanese factions only after Israel fully adheres to
+      the original agreement, drawing parallels to past situations in Gaza where U.S.
+      mediation led to unmet expectations.
+    published: '2025-07-05T16:54:20+00:00'
+  - title: 'Hisbollah lehnt US-Entwaffnungsvorschlag ab: Strategische Lücken, Souveränitätsverletzungen
+      und Marginalisierung der Gemeinschaft'
+    url: https://ejmagnier.com/2025/07/05/hisbollah-lehnt-us-entwaffnungsvorschlag-ab-strategische-lucken-souveranitatsverletzungen-und-marginalisierung-der-gemeinschaft/
+    text: Tweet Von Elijah J. Magnier – Quellen aus dem Umfeld der Entscheidungsträger
+      haben bestätigt, dass die Hisbollah den jüngsten Vorschlag der USA, der von Gesandtem
+      Thomas Barrack vorgelegt wurde, ablehnen wird. Dieser sieht die Entwaffnung der
+      Widerstandsbewegung im Austausch für einen schrittweisen Rückzug Israels und bedingte
+      Finanzhilfen für den Libanon vor. Während Washington den sechsseitigen Fahrplan
+      als diplomatische Lösung darstellt, ist er voller Ungleichgewichte, vager Garantien
+      und Präzedenzfälle, die ihn in den Augen der Hisbollah und anderer regionaler
+      Akteure unhaltbar machen. Die Hisbollah argumentiert, dass der Libanon die Resolution
+      1701 des UN-Sicherheitsrats bereits erfüllt habe, und besteht darauf, dass Israel
+      nun seine Verpflichtungen aus diesem Abkommen erfüllen müsse. Jeder Schritt in
+      Richtung eines neuen Abkommens sei nicht vertrauenswürdig, insbesondere da das
+      ursprüngliche Abkommen nicht umgesetzt worden sei. Die Hisbollah behauptet ferner,
+      dass die Vereinigten Staaten und Frankreich, die als Garanten der Resolution 1701
+      fungierten, ihrer Verantwortung nicht nachgekommen sind. Der Waffenstillstand
+      wurde über 3.700 Mal verletzt, ohne dass Israel zur Rechenschaft gezogen wurde.
+      Nach Ansicht der Hisbollah spiegelt der aktuelle Vorschlag der USA lediglich die
+      langjährigen Forderungen Israels wider, die Tel Aviv mit Gewalt nicht durchsetzen
+      konnte. „Wie können solche Forderungen durch Verhandlungen mit den Vereinigten
+      Staaten erfüllt werden, die völlig voreingenommen gegenüber dem Feind sind?“,
+      fragte eine mit der Partei verbundene Quelle. Die Hisbollah betont, dass die libanesischen
+      Fraktionen – einschließlich der Hisbollah – zu einem Dialog bereit sind, der den
+      nationalen Interessen des Landes dient, sobald Israel die ursprüngliche Vereinbarung
+      vollständig einhält. Dieses Muster spiegelt die Ereignisse in Gaza wider, wo der
+      US-Gesandte Steve Witkoff zu Beginn eine zunächst dauerhaft erscheinende Waffenruhe
+      vermittelt hatte. Zweiundvierzig Tage später machte er einen Rückzieher und forderte
+      die Freilassung aller israelischen Gefangenen. Dieser Kurswechsel ermöglichte
+      es Israel, seine Operation „Chariots of Gideon“ zu starten, die zur Besetzung
+      eines Großteils des Gazastreifens führte. Die Hisbollah sieht in der aktuellen
+      Vorgehensweise der USA unter der Führung von Thomas Barrack eine Wiederholung
+      dieser Taktik, die zwar in einem anderen Schauplatz, aber von denselben Akteuren
+      angewendet wird. Wesentliche Lücken und strukturelle Mängel des US-Vorschlags
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet
+    one_sentence_summary: Die Hisbollah hat den jüngsten US-Vorschlag zur Entwaffnung
+      im Austausch für einen schrittweisen Rückzug Israels und Finanzhilfen für den
+      Libanon abgelehnt, da sie ihn als unausgewogen und unhaltbar empfindet und darauf
+      besteht, dass Israel zuerst seine Verpflichtungen aus der UN-Resolution 1701 erfüllen
+      muss.
+    paragraph_summary: Elijah J. Magnier berichtet, dass die Hisbollah den jüngsten
+      US-Vorschlag zur Entwaffnung der Gruppe im Austausch für einen schrittweisen Rückzug
+      Israels und finanzielle Hilfen für den Libanon ablehnen wird. Die Hisbollah sieht
+      den Plan, der von Gesandtem Thomas Barrack vorgelegt wurde, als unausgewogen und
+      unhaltbar an, da er vage Garantien enthält und die Verpflichtungen Israels aus
+      der UN-Resolution 1701 ignoriert. Die Gruppe argumentiert, dass der Libanon bereits
+      seinen Teil der Vereinbarung erfüllt hat und fordert Israel auf, ebenfalls zu
+      handeln. Sie kritisieren die USA und Frankreich für ihre mangelnde Verantwortung
+      als Garanten der Resolution und betonen, dass sie zu einem Dialog bereit sind,
+      der den nationalen Interessen des Libanon dient, sobald Israel die ursprünglichen
+      Vereinbarungen einhält.
+    published: '2025-07-05T16:52:52+00:00'
   - title: 'Trump as Netanyahu’s Spokesman: U.S. Policy in Gaza Mirrors Israeli Ambitions'
     url: https://ejmagnier.com/2025/07/03/trump-as-netanyahus-spokesman-u-s-policy-in-gaza-mirrors-israeli-ambitions/
     text: 'By Elijah J. Magnier
@@ -128,6 +291,57 @@ articles:
       The agreement emphasizes a general cessation of hostilities in Gaza without any
       commitment to a permanent end to the war.
     published: '2025-07-03T18:16:24+00:00'
+  - title: Trump als woordvoerder van Netanyahu: het Amerikaans beleid in Gaza weerspiegelt deIsraëlische
+      ambities
+    url: https://ejmagnier.com/2025/07/03/trump-als-woordvoerder-van-netanyahu-het-amerikaans-beleid-in-gaza-weerspiegelt-deisraelische-ambities/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. In een
+      opvallende verschuiving in de diplomatie hebben de Verenigde Staten hun traditionele
+      rol als neutrale bemiddelaar opgegeven en zich gepositioneerd als een de facto
+      gevolmachtigde van Israël in de onderhandelingen met Hamas. In plaats van te bemiddelen
+      in een evenwichtige oplossing, bevordert Washington een voorstel voor een staakt-het-vuren
+      dat in de eerste plaats bedoeld is om de Israëlische premier Benjamin Netanyahu
+      te ontlasten van de toenemende binnenlandse druk – onder het mom van humanitaire
+      bezorgdheid en de vrijlating van Israëlische gevangenen. De kern van het plan,
+      gepromoot door president Donald Trump en zijn politieke bondgenoten, is een voorgestelde
+      wapenstilstand van 60 dagen. Maar dit is geen oprechte poging om de oorlog te
+      beëindigen. Het is eerder een berekende pauze, bedoeld om Israël de tijd te geven
+      zich te herorganiseren, zijn militaire en politieke positie te verstevigen en
+      zijn offensief met hernieuwde intensiteit te hervatten. Trump heeft het over “het
+      staken van de strijd”, niet over het beëindigen van de oorlog – een opzettelijke
+      dubbelzinnigheid die Netanyahu groen licht geeft om de militaire operaties naar
+      believen voort te zetten. De taalkeuze is geen toeval. Het stelt Israël in staat
+      om het initiatief te behouden en tegelijkertijd het plan te presenteren als een
+      humanitair gebaar naar de internationale gemeenschap. De tekst van de overeenkomst
+      verwijst naar een “algemene staking van de vijandelijkheden” in de Gazastrook,
+      waarbij bewust elke verwijzing naar een permanente oorlogsonderbreking wordt weggelaten.
+      Het is een diplomatieke goocheltruc, ontworpen om de illusie van vooruitgang te
+      creëren en tegelijkertijd de status quo te verankeren. Er is geen eis voor een
+      volledige Israëlische terugtrekking, noch een bindend mechanisme om de consistente
+      en onbeperkte levering van humanitaire hulp te garanderen. In plaats daarvan maakt
+      het voorstel vage gebaren over beperkte herschikkingen en kleine verbeteringen
+      in de distributie van hulp. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet
+    one_sentence_summary: De Verenigde Staten hebben hun rol als neutrale bemiddelaar
+      opgegeven en fungeren nu als een gevolmachtigde van Israël in de onderhandelingen
+      met Hamas, waarbij ze een staakt-het-vuren voorstellen dat vooral bedoeld is om
+      de Israëlische premier Netanyahu te ontlasten van binnenlandse druk, in plaats
+      van een oprechte poging om de oorlog te beëindigen.
+    paragraph_summary: In een recente ontwikkeling hebben de Verenigde Staten hun rol
+      als neutrale bemiddelaar in de onderhandelingen tussen Israël en Hamas opgegeven
+      en zich gepositioneerd als een vertegenwoordiger van Israël. Dit blijkt uit een
+      voorstel voor een 60-dagen durende wapenstilstand, gepromoot door president Donald
+      Trump, dat voornamelijk bedoeld is om de Israëlische premier Benjamin Netanyahu
+      te ontlasten van binnenlandse druk, terwijl het de schijn van humanitaire bezorgdheid
+      oproept. Het plan biedt echter geen oprechte oplossing voor het conflict, maar
+      eerder een strategische pauze voor Israël om zich te herorganiseren en zijn militaire
+      offensief voort te zetten. De formulering van het voorstel, dat spreekt van een
+      "algemene staking van de vijandelijkheden" zonder te verwijzen naar een permanente
+      beëindiging van de oorlog, versterkt de status quo en biedt geen garanties voor
+      humanitaire hulp of volledige terugtrekking van Israëlische troepen.
+    published: '2025-07-03T18:14:51+00:00'
   - title: 'Trump, porte-parole de Netanyahu : la politique américaine à Gaza reflète
       les ambitions israéliennes'
     url: https://ejmagnier.com/2025/07/03/trump-porte-parole-de-netanyahu-la-politique-americaine-a-gaza-reflete-les-ambitions-israeliennes/

@@ -783,6 +783,46 @@ articles:
       under international nuclear oversight, arguing that the current approach is unsustainable
       and morally indefensible.
     published: '2025-06-17T23:14:12+00:00'
+  - title: ✅ TFF Share Blog, News & Notes from 2021 till today
+    url: https://transnational.live/2025/06/13/%f0%9f%94%97-tff-in-the-news-notes-2021/
+    text: Below are TFF-related media mentions, comments, videos and social media posts
+      published elsewhere but not on this homepage. We happen to catch and list only
+      a fraction. Regarding video comments and debates, we recommend that you go to
+      the TFF Video Channel on Substack where many of them are reproduced. Jan Oberg
+      is a contributor […] The post ✅ TFF Share Blog, News & Notes from 2021 till today
+      appeared first on The Transnational .
+    one_sentence_summary: The article provides a summary of various media mentions,
+      comments, videos, and social media posts related to TFF, highlighting that only
+      a fraction is listed and recommending the TFF Video Channel on Substack for further
+      content.
+    paragraph_summary: The article highlights various media mentions, comments, videos,
+      and social media posts related to TFF that have been published outside of its
+      homepage, noting that only a small portion is captured. It encourages readers
+      to visit the TFF Video Channel on Substack for a broader range of video comments
+      and discussions. Additionally, Jan Oberg is acknowledged as a contributor. The
+      post serves as a compilation of news and notes from 2021 to the present, showcasing
+      the ongoing engagement with TFF's content.
+    published: '2025-06-13T15:20:00+00:00'
+  - title: 'Our Orwellian World: The anniversary of the publication of 1984'
+    url: https://transnational.live/2025/06/11/our-orwellian-world-the-anniversary-of-the-publication-of-1984/
+    text: 'With a few words about the US’ domestic authoritarianism and NATO’s reckless
+      expansion and re-armament where everything else but that is needed. Farhang Jahanpour
+      * June 11, 2025 George Orwell’s prophetic book, 1984, was written in 1948 and
+      was published on 9 June 1949. So, today is the 76th anniversary of the publication
+      of that important […] The post Our Orwellian World: The anniversary of the publication
+      of 1984 appeared first on The Transnational .'
+    one_sentence_summary: The article reflects on the 76th anniversary of George Orwell's
+      "1984," drawing parallels between its themes of domestic authoritarianism and
+      the reckless expansion and re-armament of NATO, suggesting that these issues overshadow
+      more pressing needs.
+    paragraph_summary: In an article commemorating the 76th anniversary of George Orwell's
+      "1984," Farhang Jahanpour reflects on the themes of domestic authoritarianism
+      in the United States and NATO's aggressive expansion and rearmament, suggesting
+      that these actions detract from addressing more pressing global issues. He draws
+      parallels between Orwell's dystopian vision and contemporary political realities,
+      highlighting the dangers of unchecked power and the need for a more responsible
+      approach to international relations.
+    published: '2025-06-11T10:34:07+00:00'
   - title: The West’s Self-Destructive Peace and Conflict Illiteracy
     url: https://transnational.live/2025/06/03/the-wests-self-destructive-peace-and-conflict-illiteracy/
     text: 'War-preparation and militarism are now the main factors that keep the West
@@ -1267,6 +1307,23 @@ articles:
       strategies that engage all parties and prioritize long-term solutions over immediate
       military responses.
     published: '2025-06-03T10:40:27+00:00'
+  - title: TFF Associate – Pascal Lottaz
+    url: https://transnational.live/2025/05/27/tff-associate-pascal-lottaz/
+    text: Background and CV May 27, 2025 Dr Pascal Lottaz joined TFF as an Associate
+      in May 2025. Very short bio Dr. Pascal Lottaz is an Associate Professor at Kyoto
+      University’s Graduate School of Law and Hakubi Center (Japan). He researches neutrality
+      in international relations and directs the network neutralitystudies.com. Short
+      bio Dr. Pascal Lottaz is […] The post TFF Associate – Pascal Lottaz appeared first
+      on The Transnational .
+    one_sentence_summary: Dr. Pascal Lottaz, an Associate Professor at Kyoto University
+      specializing in neutrality in international relations, joined TFF as an Associate
+      in May 2025.
+    paragraph_summary: Dr. Pascal Lottaz joined TFF as an Associate in May 2025. He
+      is an Associate Professor at Kyoto University's Graduate School of Law and the
+      Hakubi Center in Japan, where he focuses on researching neutrality in international
+      relations. Additionally, he directs the network neutralitystudies.com, contributing
+      to the discourse on this important topic.
+    published: '2025-05-27T14:26:56+00:00'
   - title: 'Before We Think: Culturally Encoded'
     url: https://transnational.live/2025/05/26/before-we-think-culturally-encoded/
     text: 'On the invisible codes of culture that shape our worldviews long before memory

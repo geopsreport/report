@@ -781,5 +781,21 @@ articles:
       approach. The piece concludes with a reflection on the current political landscape
       and the shifting dynamics of decision-making within the Trump team.
     published: '2025-02-18T22:57:41+00:00'
+  - title: SOMETHING FROM THE PAST
+    url: https://patrickarmstrong.ca/2025/02/18/something-from-the-past/
+    text: Just re-read this piece that I wrote on 13 April 2016. Seems appropriate today,
+      doncha think? Worthless Values. Our triumphant “values” have morphed into hybris
+      , the genitor of koros and today ate rules us. Then comes nemesis to execute vengeance
+      and restore balance.
+    one_sentence_summary: The author reflects on their 2016 piece about how society's
+      once-proud values have devolved into hubris, leading to inevitable consequences
+      and a call for balance through nemesis.
+    paragraph_summary: The article reflects on the author's earlier piece from April
+      2016, which critiques the evolution of societal values into hubris, leading to
+      a state of chaos (koros) that currently dominates. The author suggests that this
+      imbalance will ultimately invite nemesis, a force of retribution that will restore
+      equilibrium. The commentary implies a cyclical nature of values and consequences,
+      highlighting the need for reflection on current societal norms.
+    published: '2025-02-18T22:00:41+00:00'
 ---
 
