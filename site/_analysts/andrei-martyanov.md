@@ -4,7 +4,30 @@ title: Andrei Martyanov
 name: Andrei Martyanov
 analyst_id: andrei-martyanov
 description: "Former Soviet naval officer and military analyst; runs 'Reminiscence of the Future' blog, focusing on Russian vs US military-industrial realities."
-website: https://smoothiex12.blogspot.com/
+websites:
+  - https://smoothiex12.blogspot.com/
+summary: |
+  **Geops Report – July 5, 2025 (Evening Edition)**
+  
+  **Context:**  
+  Recent developments in air defense performance, strategic arms negotiations, and the aftermath of regional conflicts are reshaping the global security landscape. Independent analysts are highlighting critical shortcomings in widely marketed defense systems and questioning official narratives regarding recent military engagements.
+  
+  **Key Developments:**
+  
+  **1. Chinese HQ-9B Air Defense System Underperforms in Combat**  
+  A detailed analysis by **Andrei Martyanov** reveals significant dissatisfaction within the Pakistani military regarding the Chinese HQ-9B air defense system, acquired in 2021. Despite being marketed as a rival to Russia’s S-400, the HQ-9B failed to intercept Russian-Indian BrahMos missiles during the recent Indo-Pakistani conflict, resulting in substantial damage to Pakistani airfields. Pakistani military forums cite the system’s vulnerability to electronic warfare and its reliance on constant target illumination, which made it susceptible to Indian anti-radar missiles. As a result, Pakistan has discreetly requested more advanced HQ-19 systems from China, signaling a lack of confidence in the HQ-9B’s advertised capabilities.
+  
+  **2. Israeli Air Defense Effectiveness Questioned After Iranian Strikes**  
+  Newly surfaced satellite radar data, cited by **Andrei Martyanov** and attributed to Oregon State University researchers, suggest that Israeli military censorship concealed the true extent of damage from Iranian missile strikes during the recent 12-day war. According to the report, at least six Iranian missiles hit five key Israeli military sites, including a major air base and intelligence center. While official sources claim an 84% interception rate, Martyanov and other independent voices argue that this figure is exaggerated and masks the “devastating effect” of the Iranian strikes. The rising penetration rate of Iranian missiles—up to 16% by the seventh day—raises questions about the sustainability and effectiveness of Israeli and US-supplied air defense systems under sustained attack.
+  
+  **3. Strategic Arms Talks: Russia Sees No Basis for START Negotiations**  
+  On the strategic front, **Andrei Martyanov** asserts that the United States has lost credibility in the context of the START (Strategic Arms Reduction Treaty) framework. He argues that the current state of US strategic forces leaves “nothing to discuss” with Russia regarding arms control, reflecting a broader trend of deteriorating US-Russia dialogue on nuclear stability.
+  
+  **Trends and Expected Outcomes:**  
+  The recurring theme across independent analysis is the growing skepticism toward the effectiveness of both Western and Chinese air defense systems when exposed to advanced missile threats and electronic warfare. This has direct implications for arms procurement decisions in the Global South and may accelerate demand for more robust, battle-proven solutions. Meanwhile, the lack of progress in strategic arms negotiations signals a prolonged period of uncertainty and heightened risk in US-Russia relations. As regional conflicts continue to expose the limits of current defense technologies, expect further scrutiny of official military claims and a shift in global defense procurement patterns.
+  
+  **Conclusion:**  
+  The latest reports underscore a critical reassessment of air defense capabilities and strategic stability. As battlefield realities challenge marketing narratives and official statistics, the geopolitical balance may tilt toward those able to field and prove genuinely advanced military technologies, while diplomatic avenues for arms control remain stalled.
 articles:
   - title: Larch Dug Up An Interesting Piece ...
     url: https://smoothiex12.blogspot.com/2025/07/larch-dug-up-interesting-piece.html

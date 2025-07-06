@@ -4,8 +4,438 @@ title: Chris Hedges
 name: Chris Hedges
 analyst_id: chris-hedges
 description: "Pulitzer-winning journalist, ex–NYT war correspondent; radical realist and moral critique of empire; writes weekly and hosts Substack."
-website: https://scheerpost.com
+websites:
+  - https://scheerpost.com
+summary: |
+  **Geops Report – July 6, 2025 (PM Edition)**
+  
+  As geopolitical tensions continue to escalate across the Middle East and beyond, recent developments signal a deepening of entrenched policies and alliances, with significant implications for regional stability, global power dynamics, and the future of independent journalism.
+  
+  **Trump-Netanyahu Summit: A New Middle East Order?**
+  
+  President Trump is set to host Israeli Prime Minister Netanyahu at the White House next week, with the stated goal of forging a “new Middle East” order. According to **Chris Hedges**, Trump’s focus has shifted from direct confrontation with Iran to consolidating an Israel-centric regional alliance. The summit reportedly aims to further isolate Iran and Hezbollah, while accelerating normalization between Israel and Arab states. However, this approach is being pursued “with little regard for Palestinian aspirations,” raising concerns about the prospects for a just peace and the potential for renewed conflict.
+  
+  **Escalation in Gaza and Syria**
+  
+  On the ground, Israeli military operations continue to draw international scrutiny. **Juan Cole**, cited by Hedges, reports ongoing “military aggression by the Netanyahu government against Gaza civilians,” with the UN Human Rights office documenting severe violations of international law and a worsening humanitarian crisis, particularly in the al-Mawasi region. Simultaneously, Israeli special forces launched a major raid near Damascus on July 3, targeting a site linked to Syria’s Republican Guard. The operation, involving helicopters and armored vehicles, underscores Israel’s willingness to project force beyond its borders and raises the risk of broader regional escalation.
+  
+  **Independent Journalism Under Threat**
+  
+  The role of independent media remains critical amid these developments. **Glenn Greenwald** highlights the mounting financial and political pressures facing alternative outlets like ScheerPost, warning that “corporate influence in media” threatens the survival of dissenting voices. This concern is echoed by **Francesca Albanese**, who argues that economic interests in war and crisis are a key reason why UN member states have failed to intervene effectively in Gaza, further underscoring the importance of independent reporting in holding power to account.
+  
+  **Trends and Outlook**
+  
+  The convergence of U.S.-Israeli strategic planning, intensifying military operations in Gaza and Syria, and the suppression of independent journalism points to a period of heightened instability and diminished prospects for diplomatic solutions. The majority of analysts warn that the sidelining of Palestinian rights and the normalization of military aggression risk entrenching cycles of violence and undermining international law. As the Trump administration doubles down on its regional alliances, the space for critical journalism and genuine multilateral engagement appears increasingly constrained, with significant consequences for both regional populations and global governance.
 articles:
+  - title: Next Week, Trump and Netanyahu Will Meet at the White House to Plan Their
+      ‘New Middle East’
+    url: https://scheerpost.com/2025/07/06/next-week-trump-and-netanyahu-will-meet-at-the-white-house-to-plan-their-new-middle-east/
+    text: 'Trump at NATO Summit | Source: X In one of the scariest moments in modern
+      history, we''re doing our best at ScheerPost to pierce the fog of lies that conceal
+      it but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Mitchell Plitnick / Mondoweiss U.S. President Donald Trump seems
+      to have largely moved on from Iran and is now setting his sights on instituting
+      a broader new order in the Middle East. Trump’s vision consists of an Israel-centric
+      regional order that sees Iran and Hezbollah defeated and normalization with Israel
+      spreading across the region, from Lebanon and Syria to Oman and Saudi Arabia.
+      Joining him in creating this vision is Israeli Prime Minister Benjamin Netanyahu,
+      who is slated to visit the White House on Monday. While there are potentially
+      many obstacles to enacting this U.S./Israeli plan, it is clear that one focus
+      is to quash any Palestinian aspirations for freedom. The aftermath of the attack
+      on Iran Trump had little to say about Iran’s decision to suspend its cooperation
+      with the International Atomic Energy Agency (IAEA), contenting himself with a
+      State Department statement calling the decision “unacceptable.” For his own part,
+      Trump has downplayed any continuing negotiations with Iran, claiming they would
+      serve no purpose, given that he claims ( inaccurately ) that American strikes
+      have “obliterated” Iran’s nuclear program. Meanwhile, Trump has been pressing
+      Israeli Prime Minister Benjamin Netanyahu to find an off-ramp in Gaza. He claims
+      that Israel has accepted an American proposal for a 60-day ceasefire that would
+      see the return of ten living Israeli hostages and an additional 15 bodies of hostages
+      who died or were killed while in captivity. Israel has yet to confirm, despite
+      misleading reports to the contrary. Whether there is a path toward Hamas accepting
+      such a proposal is unclear, given that Hamas has insisted that they will only
+      agree to a deal if it means freeing all the hostages in exchange for a permanent
+      end to Israel’s genocide in Gaza. Ha’aretz reported on Thursday that Hamas “was
+      satisfied” with the terms of the American proposal, but their source for this
+      news, the New York Times, contained no mention of such satisfaction. Yet the Trump
+      administration is clearly trying to get a ceasefire, and there is good reason
+      to believe they do want to end the genocide. How far they will go to achieve that
+      goal is an open question, but there is also the possibility that Netanyahu might
+      be more amenable than he has been in the past. The reason for all of this has
+      nothing to do with the Palestinians, but rather the region at large and domestic
+      Israeli politics. Netanyahu’s strengthened position In the wake of the strikes
+      on Iran, Netanyahu is in a stronger position politically than he has been in a
+      long time. Polls suggest that neither he nor the opposition can cobble together
+      a coalition if elections were held today. That’s familiar territory for Netanyahu.
+      The problem he still faces is the corruption charges for which his trial is never-ending.
+      Trump’s intervention, calling for the charges against Netanyahu to be dropped
+      , is telling in this regard. While it is unlikely that Trump’s call will move
+      the attorney general (whom Netanyahu is trying to fire) to drop the charges or
+      for the President, Isaac Herzog, to pardon Netanyahu (something it is not clear
+      he can do without Netanyahu being convicted first), it does indicate that Trump
+      recognizes the need to remove this trial from Netanyahu’s path. Trump has certainly
+      heard from Netanyahu that he cannot end the genocide in Gaza — because if he does,
+      this trial will swallow him up and end his premiership in Israel. That is the
+      sort of self-interest that Trump understands. But he also knows that the ambition
+      he has for the region, which centers on a massive expansion of the Abraham Accords
+      and widespread normalization between key Arab states and Israel, cannot move forward
+      while the genocide continues. If Netanyahu’s government lasts until the next elections,
+      which are scheduled for the end of October 2026, it is possible he could postpone
+      them if he can make the case that the “security situation” demands it. But, given
+      the diminished capacities of Iran and Hezbollah, the fall of Bashar al-Assad,
+      and the fact that Hamas and other Palestinian groups are both diminished in terms
+      of arms and too busy getting bombed and starving to pose much of a threat to Israeli
+      citizens, that would be a difficult case to make. So, for Netanyahu, everything
+      hinges on the corruption trial disappearing. It’s less crucial for Trump, as his
+      plans would probably be supported by anyone who could defeat Netanyahu, be that
+      former Prime Minister Naftali Bennett, or opposition leaders Yair Lapid or Gadi
+      Eizenkot (Benny Gantz, who last opposed Netanyahu, has faded badly). But the coalition
+      they would form would be less militant, as it would not feature extreme ideologues
+      like Bezalel Smotrich and Itamar Ben-Gvir or supportive religious parties such
+      as Shas and United Torah Judaism. It would still have plenty of right-wing figures,
+      like Bennett and Avigdor Liberman, but it would be a coalition that was at once
+      a bit more pragmatic than Netanyahu’s and a bit less in tune with Trump’s brand
+      of right-wing populism. On top of all of that, the moment of triumphalism over
+      the strikes on Iran is now. Already, more and more people are becoming aware of
+      the fact that the operations against Iran, though devastating in many ways, did
+      not “obliterate” Iran’s nuclear program . But they did change a lot of minds in
+      Iran that had been reluctant to pursue a nuclear weapon. Although Iran is sticking
+      with the Nuclear Non-Proliferation Treaty for the moment, its decision to quit
+      cooperating with the IAEA opens the door for leaving the NPT. The attacks on Iran
+      have convinced many Iranians that only a nuclear deterrent will stop future attacks
+      by Israel and the U.S. What does Trump want? In the wake of the American attack
+      on Iranian nuclear facilities, Donald Trump’s key mediator, Steve Witkoff, teased
+      that there were potentially several new and surprising countries that might soon
+      join the Abraham Accords. One can only guess at what countries Witkoff was referring
+      to, but some Israeli and Arab diplomats suggested that Saudi Arabia might be willing
+      to at least resume discussions on normalization and that Oman might be willing
+      to entertain normalization talks. Both would only happen if the genocide in Gaza
+      stops. There is also Syria. Ahmad al-Sharaa, the country’s new leader, has made
+      no secret of his willingness to find an accommodation with Israel. For Trump,
+      this means normalization. But the situation there is far more fraught than Trump
+      might think. There are major obstacles to normalization with Israel. Beyond the
+      ongoing genocide in Gaza, there is the outstanding issue of the Golan Heights.
+      Trump may have recognized Israel’s sovereignty over the portion of the Golan that
+      Israel captured before the armistice with Syria in 1974, but the rest of the world,
+      and certainly the Syrian people across the ethnic and political spectrum, have
+      not. Al-Sharaa is not in a very secure position in Syria, to say the least. Skepticism
+      about his rule remains in the country as well as in the wider Arab world and the
+      West. Years ago, there were various scenarios about compromise on the Golan, mostly
+      pursued under the rule of Hafez al-Assad. But it’s been many years since any substantive
+      discussions took place. They were controversial in Syria then, and they would
+      be even more so now. A deal with Israel and the American support it would bring
+      would be a huge boon to the shattered Syrian economy, which gives al-Sharaa some
+      room to maneuver. Syria has been said to have proposed two scenarios in which
+      it would get back part of the Golan that Israel seized prior to the armistice
+      between the two states in 1974. Israel would have to be willing, however, to make
+      that compromise and withdraw from all of the territory it invaded after Bashar
+      al-Assad’s fall and, obviously, cease all its attacks in Syria. Whether Israel
+      would be willing to do that is very much open to question. More than that, al-Sharaa
+      has to consider the response to compromising any part of the Golan domestically.
+      If he gets a significant part of the Golan back, it might be enough, given the
+      dire need in Syria and the potential for a deal to address that need. But Israeli
+      Foreign Minister Gideon Sa’ar said recently that, “Israel applied its laws to
+      the Golan Heights over 40 years ago, and in any peace agreement, the Golan will
+      remain an inseparable part of the State of Israel.” Lebanon has also attracted
+      Trump’s attention. It is doubtful that even in his most wide-eyed moments, Trump
+      believes the shaky Lebanese government could agree to relations with Israel, even
+      if Israel withdrew from the areas of southern Lebanon it still occupies and stopped
+      its ongoing (though rarely reported very widely) attacks in Lebanon. Instead,
+      Trump wants to see Hezbollah fully disarmed, a goal shared by Lebanon’s new President,
+      Joseph Aoun. But where Aoun wants to do this gradually, through dialogue as a
+      path to Lebanese unity, Trump wants it done quickly and in a way that visibly
+      diminishes Hezbollah — not only as a military force but as a political power.
+      U.S. envoy Tom Barrack has been pushing the government to quickly move to disarm
+      Hezbollah. That indicates a reckless impatience on the part of the Trump administration
+      that threatens to undermine the efforts by the Lebanese government under Aoun
+      to negotiate Hezbollah’s disarmament and establish the Lebanese Armed Forces as
+      the sole defender of Lebanon. Hezbollah has already stated its refusal to the
+      American plan. It has indicated its willingness to engage in dialogue with Aoun,
+      but its position is that it will not disarm. Aoun would have to negotiate a deal
+      to change their minds. He has also demanded that progress on disarming Hezbollah
+      be met with steps by Israel to back out of its ongoing occupation of Lebanese
+      territory and its routine attacks. Israel, for its part, is not showing much flexibility,
+      demanding that Hezbollah be disarmed immediately, that its forces be moved even
+      farther north than they’ve already gone, and indicating it will not give up its
+      positions in southern Lebanon, offering to abandon only one of the five sites
+      it occupies. The vision for Netanyahu’s visit What emerges from all of this is
+      that Trump envisions Syria joining Jordan and Egypt as neighbors that make peace
+      with Israel, with Lebanon joining that group sometime in the future. If Oman can
+      be persuaded to join the Abraham Accords alongside Gulf Arab states Bahrain and
+      the UAE, this would pave the way for Saudi Arabia to join as well. With what Trump
+      sees as a chastened Iran forced to watch from the sidelines, that would create
+      a Middle East whose center is in an exclusively Israeli Jerusalem. Iran, Iraq,
+      and even Yemen would be forced to reckon with a playing field that forefronts
+      Israel, relegates the Palestinians to an afterthought, and strongly incentivizes
+      states that haven’t normalized with Israel to find an accommodation with Israel
+      and its Arab partners. In Trump’s view, this could all be accomplished merely
+      by ending the genocide in Gaza, not requiring an actual Palestinian state or any
+      other measure of freedom for the Palestinian people. Is that realistic? Certainly
+      not within the kind of timeframe Trump envisions. The Saudis would, if the genocide
+      ended and a number of other states normalized relations with Israel, find a reason
+      to join, given the right amount of bribes from Washington, probably including
+      help on a Saudi nuclear program and significantly upgraded weapon sales. They
+      would likely go back to demanding some vague roadmap to a Palestinian state, but
+      would not demand a more solid commitment to a process as they are doing now. But
+      in Syria and Lebanon, the opposition would be tremendous, and it would very likely
+      be supported by many voices in Jordan and Egypt, and obviously, in Iran, Iraq,
+      and Yemen. The repression against such solidarity would need to be draconian,
+      and it’s not at all clear that Syria or Lebanon has either the security capacity
+      or the political space to do that. Indeed, abandoning the Palestinians to that
+      degree, while perhaps not unprecedented for Arab leaders, would spark considerable
+      outrage in both Jordan and Egypt as well and, at least in Jordan, could very well
+      be fatally destabilizing. Netanyahu might be willing to embrace this as a long-term
+      vision as he sits with Trump in Washington next week. But he knows it can’t be
+      achieved in the short term. Instead, he is going to move forward with the genocide
+      in Gaza until Trump makes him stop. Meanwhile, pressure from Netanyahu’s Likud
+      party to annex the West Bank is growing, with some ultra-nationalists also calling
+      to annex Gaza . Netanyahu is not likely to approve such moves as long as Trump’s
+      efforts to expand normalization keep moving forward. If and when they fail, however,
+      Netanyahu will be ready with annexation. This is likely a tool Trump will use
+      in pressing Arab leaders to normalize relations with Israel. In all of it, whichever
+      direction events move, the Palestinians are, once again, being set up for abandonment.
+      The question is how long Arab leaders can keep a lid on the outrage throughout
+      the region and how long Western leaders will continue to ignore and repress the
+      growing anger over the support Israel is getting from our governments. Please
+      share this story and help us grow our network! Editor’s Note : A t a moment when
+      the once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Mitchell Plitnick
+      Mitchell Plitnick is the president of ReThinking Foreign Policy. He is the co-author,
+      with Marc Lamont Hill, of Except for Palestine: The Limits of Progressive Politics
+      . Mitchell’s previous positions include vice president at the Foundation for Middle
+      East Peace, Director of the US Office of B’Tselem, and Co-Director of Jewish Voice
+      for Peace. You can find him on Twitter @MJPlitnick . Author Site'
+    one_sentence_summary: President Trump is shifting his focus from Iran to establishing
+      an Israel-centric order in the Middle East, aiming to defeat Iran and Hezbollah
+      while promoting normalization with Israel, with the support of Israeli Prime Minister
+      Netanyahu, despite potential challenges and a disregard for Palestinian aspirations.
+    paragraph_summary: In a recent article by Mitchell Plitnick, it is reported that
+      President Donald Trump is shifting his focus from Iran to establishing a new Israel-centric
+      order in the Middle East, aiming for the defeat of Iran and Hezbollah while promoting
+      normalization with Israel across the region. This vision is being developed in
+      collaboration with Israeli Prime Minister Benjamin Netanyahu, who is set to visit
+      the White House. Trump appears to be sidelining Palestinian aspirations for freedom
+      and has downplayed ongoing negotiations with Iran, labeling their recent actions
+      regarding nuclear cooperation as "unacceptable." Additionally, Trump is advocating
+      for a ceasefire in Gaza, proposing a 60-day truce that would involve the return
+      of Israeli hostages, though the feasibility of such an agreement with Hamas remains
+      uncertain.
+    published: '2025-07-06T10:58:25+00:00'
+  - title: Israel Continues to Starve, Target Gaza Civilians in Ongoing Genocide
+    url: https://scheerpost.com/2025/07/06/israel-continues-to-starve-target-gaza-civilians-in-ongoing-genocide/
+    text: 'Juan Cole, Gaza Yet Stands . Kindle Direct. Click here to Buy (Proceeds go
+      to UNICEF in Gaza). In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Juan Cole / Informed Comment Ann Arbor (Informed Comment) – The fascist government
+      of Prime Minister Benjamin Netanyahu continues to wage war on Gaza civilians,
+      in the longest and most intense violation of the Geneva Conventions, the Rome
+      Statute and other elements of International Humanitarian Law in this century.
+      The United Nations Human Rights office in the Occupied Palestinian territories
+      recently revealed that the Israeli military continues to subject the al-Mawasi
+      region in western Khan Younis to military strikes, which for the most part “appear
+      to target directly makeshift tents” and so manage to wipe out entire families.
+      The UN says, “Between 18 March and 16 June 2025, OHCHR recorded 112 attacks on
+      Al Mawasi, killing 380 people, including at least 158 women and children.” At
+      the same time, sadistic commanders are ordering Palestinian civilians from other
+      parts of Gaza to go to “known shelters” in that very Al Mawasi area where such
+      shelters are being bombarded. Since last March when Israel violated the ceasefire
+      negotiated by the Trump administration, its minions have forced over 300,000 people
+      into Al Mawasi, an area of about 3.5 square miles. There are now 425,000 people
+      huddling there, mostly in so-called “tents” — really just odd bits of plastic
+      and cloth. And they are sometimes being shot at like fish in a barrel, even as
+      Israel’s military attacks in Rafah and Khan Younis have become more intense. At
+      the same time, Israeli commanders continue deliberately to starve the civilian
+      population, continuing in some form a blockade on staples they began on March
+      2, when they began violating the ceasefire arranged by President Trump, according
+      to Amnesty International. The blockade on food and other aid has been only slightly
+      adjusted in recent weeks, leaving many people hungry — including children. That’s
+      right, Israel is deliberately starving children. The UN Office for the Coordination
+      of Humanitarian Affairs (OCHA) estimated in mid-June that 18,741 children have
+      been hospitalized for acute malnutrition since the beginning of the year. And
+      mind you, few hospitals are functioning even at a basic level in Gaza, because
+      Israeli troops have deliberately destroyed them. The harried doctors and nurses
+      who haven’t been assassinated by the Israeli army are trying to deal with those
+      injured in the war, and you wonder if they can do much for children with stick-like
+      arms and distended bellies. They don’t have food aid to give out, and what food
+      there is has become extremely expensive. That is, by the way, typical of famine
+      situations, which usually develop not because there is no food at all but because
+      people cannot afford what little there is. That is how a million Irish died during
+      the Potato Famine in the mid-nineteenth century, when British landlords continued
+      to export food from the country. Amnesty quotes Susan Maarouf of the Benevolent
+      Friend Patient Hospital in Gaza City: “But this year for us the situation began
+      to drastically get worse again in April. Since then, out of approximately 200-250
+      children we have screened daily for malnutrition. Nearly 15% showed signs associated
+      with severe or moderate malnutrition.” They exhibited signs such as “pale skin,
+      falling hair and nails, and alarming weight loss.” There are a million minors
+      in Gaza, so we could be talking about 150,000 children with malnutrition, if Maarouf’s
+      sample is representative. Please share this story and help us grow our network!
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Juan Cole Juan Cole, a TomDispatch regular , is the Richard P. Mitchell
+      collegiate professor of history at the University of Michigan. He is the author
+      of The Rubaiyat of Omar Khayyam: A New Translation From the Persian and Muhammad:
+      Prophet of Peace Amid the Clash of Empires . His latest book is Peace Movements
+      in Islam . His award-winning blog is Informed Comment . He is also a non-resident
+      Fellow of the Center for Conflict and Humanitarian Studies in Doha and of Democracy
+      for the Arab World Now (DAWN). Author Site'
+    one_sentence_summary: Juan Cole's article highlights the ongoing military aggression
+      by the Netanyahu government against Gaza civilians, emphasizing violations of
+      international law and the devastating impact on families in the al-Mawasi region,
+      as reported by the UN Human Rights office.
+    paragraph_summary: In his article "Gaza Yet Stands," Juan Cole critiques the actions
+      of Prime Minister Benjamin Netanyahu's government, describing its military operations
+      in Gaza as a severe violation of international humanitarian law. He highlights
+      the ongoing attacks in the al-Mawasi region, where the Israeli military has targeted
+      makeshift shelters, resulting in significant civilian casualties, including many
+      women and children. The United Nations reports that between March and June 2025,
+      there were 112 attacks in this area, killing 380 people. Cole notes that over
+      300,000 displaced individuals have been forced into this densely populated region,
+      where they face bombardment and starvation due to a blockade on essential supplies.
+      He emphasizes the dire humanitarian crisis and calls for awareness and support
+      for the affected civilians.
+    published: '2025-07-06T10:50:07+00:00'
+  - title: Big Tech Execs Commissioned Into the Army
+    url: https://scheerpost.com/2025/07/06/big-tech-execs-commissioned-into-the-army/
+    text: 'By Glenn Greenwald / System Update In one of the scariest moments in modern
+      history, we''re doing our best at ScheerPost to pierce the fog of lies that conceal
+      it but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . Please share this story and help us grow our network! Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Glenn Greenwald
+      Glenn Greenwald is a journalist, constitutional lawyer, and author of four New
+      York Times best-selling books on politics and law. He broke the Snowden leaks
+      in 2013. Greenwald currently hosts a political commentary show for Rumble called
+      “System Update.” Author Site'
+    one_sentence_summary: The article by Glenn Greenwald emphasizes the urgent need
+      for financial support to sustain independent journalism at ScheerPost, highlighting
+      the challenges posed by corporate influence in media and the importance of alternative
+      news sources.
+    paragraph_summary: In a call to action, Glenn Greenwald emphasizes the urgent need
+      for independent journalism amid a landscape dominated by corporate interests and
+      billionaires, highlighting ScheerPost as a vital alternative. He urges readers
+      to support their efforts through donations to sustain their team and continue
+      delivering essential news. Greenwald, a prominent journalist known for his work
+      on the Snowden leaks and his current role hosting "System Update" on Rumble, underscores
+      the importance of integrity in journalism and invites contributions via various
+      platforms to help maintain their mission.
+    published: '2025-07-06T10:47:24+00:00'
+  - title: The Real Reason the Genocide Hasn’t Been Stopped (w/ Francesca Albanese)
+    url: https://scheerpost.com/2025/07/06/the-real-reason-the-genocide-hasnt-been-stopped-w-francesca-albanese/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Chris
+      Hedges / The Chris Hedges Report Francesca Albanese describes the dark, self-serving
+      reason that no UN member states have stopped the genocide in Gaza — namely, the
+      economy of war, crisis and genocide that fuels the slaughter and fills the pockets
+      of craven private actors. Please share this story and help us grow our network!
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Chris Hedges Chris Hedges is a Pulitzer Prize–winning journalist
+      who was a foreign correspondent for fifteen years for The New York Times, where
+      he served as the Middle East Bureau Chief and Balkan Bureau Chief for the paper.
+      He previously worked overseas for The Dallas Morning News , The Christian Science
+      Monitor , and NPR. He is the host of show The Chris Hedges Report. He was a member
+      of the team that won the 2002 Pulitzer Prize for Explanatory Reporting for The
+      New York Times coverage of global terrorism, and he received the 2002 Amnesty
+      International Global Award for Human Rights Journalism. Hedges, who holds a Master
+      of Divinity from Harvard Divinity School, is the author of the bestsellers American
+      Fascists: The Christian Right and the War on America , Empire of Illusion: The
+      End of Literacy and the Triumph of Spectacle and was a National Book Critics Circle
+      finalist for his book War Is a Force That Gives Us Meaning . He writes an online
+      column for the website ScheerPost . He has taught at Columbia University, New
+      York University, Princeton University and the University of Toronto. Author Site'
+    one_sentence_summary: ScheerPost highlights the urgent need for financial support
+      to sustain independent journalism amid the ongoing genocide in Gaza, as described
+      by Francesca Albanese, who argues that the economic interests of war and crisis
+      prevent UN member states from intervening.
+    paragraph_summary: In a recent article by Chris Hedges on ScheerPost, Francesca
+      Albanese highlights the troubling economic motivations behind the ongoing genocide
+      in Gaza, pointing out that the war economy benefits private actors while UN member
+      states fail to intervene. Hedges calls for support of independent journalism as
+      a necessary alternative to the corporate media landscape, urging readers to contribute
+      to ScheerPost to help sustain their efforts in delivering vital news. He emphasizes
+      the importance of integrity in journalism, especially during such critical times,
+      and shares his background as a Pulitzer Prize-winning journalist to bolster the
+      credibility of the call for donations.
+    published: '2025-07-06T10:44:36+00:00'
+  - title: Israeli Special Forces Launch Massive Raid In Southern Syria
+    url: https://scheerpost.com/2025/07/06/israeli-special-forces-launch-massive-raid-in-southern-syria/
+    text: '(Photo credit: Israeli army) In one of the scariest moments in modern history,
+      we''re doing our best at ScheerPost to pierce the fog of lies that conceal it
+      but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By The Cradle Israeli occupation forces carried out a large-scale raid
+      near the Syrian capital Damascus late on 3 July, lasting several hours and involving
+      the use of helicopters and armored vehicles. With three helicopters, Israeli special
+      forces carried out a landing operation in the Yaafour area located around 10 kilometers
+      from Damascus, local sources told Al Mayadeen . The troops raided a site belonging
+      to the Republican Guard of Syria’s former military. “The search operation lasted
+      for five hours before the force departed via helicopter,” Al Mayadeen ’s sources
+      added. “Another Israeli force entered the village of Saysoun in the Yarmouk Basin
+      area of ​​the western Deraa countryside, with six military vehicles,” the sources
+      went on to say. Simultaneously, Israeli troops launched ground incursions into
+      Rakhlah in the western Damascus countryside. Additional forces reportedly entered
+      Ayn Dhakar in the Yarmouk Basin area. “This was the first incursion of its kind
+      into the area,” Al Mayadeen ’s sources noted. Since the fall of former Syrian
+      president Bashar al-Assad’s government last year, Israeli forces have established
+      a widespread occupation across southern Syria. Israeli troops have set up a new
+      base on Eastern al-Ahmar hill in Quneitra governorate in southern Syria, local
+      sources told Al-Akhbar newspaper on 1 July. The hill lies adjacent to a nearby
+      Israeli base established months earlier on the western side of the same ridge.
+      Israeli forces are “rapidly working to turn it into a key operational hub,” the
+      sources said. Israel’s continued expansion in Syria comes amid negotiations between
+      Tel Aviv and Damascus, and talk of a potential normalization agreement between
+      them. The Syrian government claims the negotiations are indirect. However, Israeli
+      National Security Advisor Tzachi Hanegbi confirmed on 24 June that Israel is engaged
+      in direct, daily communication with Syria’s interim authorities, with the aim
+      of exploring normalization. Speaking to Israel Hayom , Hanegbi said he personally
+      leads the talks “at all levels” with political officials in Damascus. According
+      to Israeli media reports, a potential meeting between Syrian interim President
+      Ahmad al-Sharaa and Israeli Prime Minister Benjamin Netanyahu is being considered
+      for the upcoming UN General Assembly meeting in New York. Please share this story
+      and help us grow our network! Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . The Cradle The Cradle is an online
+      news magazine covering West Asian geopolitics from within. Author Site'
+    one_sentence_summary: Israeli occupation forces conducted a significant raid near
+      Damascus on July 3, utilizing helicopters and armored vehicles to target a site
+      associated with Syria's Republican Guard, with the operation lasting several hours.
+    paragraph_summary: On July 3, Israeli occupation forces conducted a significant
+      raid near Damascus, Syria, involving helicopters and armored vehicles, targeting
+      a site linked to the Syrian Republican Guard. The operation, which lasted about
+      five hours, included incursions into multiple areas, marking a notable escalation
+      in Israeli military activity in southern Syria since the fall of Bashar al-Assad's
+      government. Reports indicate that Israeli forces have established a new base in
+      the Quneitra governorate, aiming to enhance their operational capabilities in
+      the region. This military expansion occurs amid ongoing negotiations between Israel
+      and Syria regarding potential normalization, despite the Syrian government's claims
+      of the talks.
+    published: '2025-07-06T10:42:09+00:00'
   - title: Austerity Linked to Over 1 Million Preventable Deaths in EU
     url: https://scheerpost.com/2025/07/05/austerity-linked-to-over-1-million-preventable-deaths-in-eu/
     text: 'In one of the scariest moments in modern history, we''re doing our best at

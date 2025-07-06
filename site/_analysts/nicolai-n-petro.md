@@ -4,7 +4,29 @@ title: Nicolai N. Petro
 name: Nicolai N. Petro
 analyst_id: nicolai-n-petro
 description: "Nicolai N. Petro is a Professor of Political Science specializing in Russian and Eurasian politics, known for his critical analysis of East-West relations and advocacy for diplomatic engagement."
-website: https://www.npetro.net/8.html
+websites:
+  - https://www.npetro.net/8.html
+  - https://www.npetro.net/7.html
+  - https://www.npetro.net/4.html
+summary: |
+  **Geops Report – December 4, 2024**
+  
+  **Context:**  
+  Since Russia’s full-scale invasion of Ukraine in February 2022, President Volodymyr Zelensky has consistently vowed to reclaim all Ukrainian territory, including Crimea and the Donbas, lost since 2014. However, recent Russian advances and mounting pressure on Ukraine’s defenses have begun to shift the tone in Kyiv, with new diplomatic nuances emerging in Zelensky’s public statements.
+  
+  **Key Developments:**  
+  A notable change in rhetoric was observed during a recent Fox News interview, where Zelensky, when pressed about the possibility of ceding territory for peace, emphasized that Ukraine “cannot legally acknowledge any occupied territory of Ukraine as Russian.” However, he also stated, “we are ready to bring Crimea back diplomatically,” signaling a departure from previous insistence on military solutions. As **Nicolai N. Petro** notes, this reflects a growing recognition in Kyiv of the improbability of retaking Crimea by force, with Zelensky explicitly saying, “We cannot spend dozens of thousands of our people so that they perish for the sake of Crimea coming back.”
+  
+  Further, Zelensky’s comments to Sky News suggest openness to a ceasefire that would see Ukraine’s current territory brought under a NATO security umbrella, with hopes of reclaiming lost regions through diplomatic means. This approach, while not formally endorsed by NATO, hints at a possible pathway to a frozen conflict or armistice, akin to the situations in Korea or Cyprus, where territorial disputes persist without ongoing large-scale hostilities.
+  
+  The idea of a de facto but not de jure acceptance of Russian control over occupied territories is reportedly under discussion in Kyiv, as reported by the Financial Times. This aligns with recent statements by Russian President Vladimir Putin, who has demanded Ukrainian troop withdrawal from annexed territories but has not insisted on formal Ukrainian recognition of Russia’s sovereignty over them.
+  
+  Meanwhile, diplomatic efforts are reportedly underway in Berlin, with German Chancellor Olaf Scholz considering a “Finlandization” model—neutrality for Ukraine—and the formation of a contact group with China, India, and Brazil to seek a negotiated end to the war.
+  
+  **Trends and Expected Outcomes:**  
+  The majority of analysts now see a shift toward pragmatic diplomacy in Kyiv, with growing acceptance that a military victory to restore all pre-2014 borders is unlikely. As **Nicolai N. Petro** observes, the willingness to distinguish between legal claims and practical control could open the door to a ceasefire, potentially leading to a long-term armistice without formal territorial concessions.
+  
+  While a comprehensive peace settlement remains distant, these developments suggest that Ukraine’s leadership is increasingly open to negotiations that could halt the fighting and prevent further territorial losses, even if the underlying disputes remain unresolved. The coming weeks may see intensified diplomatic activity, with international actors exploring frameworks for a sustainable ceasefire and the possibility of a frozen conflict.
 articles:
   - title: Is Zelensky softening his tone on territorial concessions?
     url: https://responsiblestatecraft.org/ukraine-concessions/

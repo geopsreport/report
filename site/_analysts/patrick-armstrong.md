@@ -4,7 +4,30 @@ title: Patrick Armstrong
 name: Patrick Armstrong
 analyst_id: patrick-armstrong
 description: "Former Canadian diplomat in Moscow; independent analyst of Russia–West relations with realist, multipolar perspective."
-website: https://patrickarmstrong.ca/
+websites:
+  - https://patrickarmstrong.ca/
+summary: |
+  **Geops Report – June 24, 2025, Morning Edition**
+  
+  **Context:**  
+  Recent weeks have seen heightened tensions in the Middle East, persistent instability in Ukraine, and renewed scrutiny of NATO’s strategic posture. Independent analysts continue to question Western narratives and highlight shifting balances of power, both militarily and diplomatically.
+  
+  **Key Developments:**
+  
+  **1. Israel-Iran Conflict: Theatrics and Shifting Military Perceptions**  
+  The latest escalation between Israel and Iran has been marked by what **Patrick Armstrong** describes as “theatrical displays” from both sides, with former U.S. President Donald Trump playing a central role in brokering a temporary halt to hostilities. Armstrong notes that Trump’s efforts have focused on downplaying Iran’s nuclear capabilities, while the actual military exchanges have revealed a significant shift in perceived power. Notably, Iran’s deployment of advanced drones and hypersonic missiles has demonstrated capabilities that surpass previous Western assessments. Armstrong warns that “the damage in Israel will be more significant than reported,” raising questions about Israeli intelligence and the broader implications for NATO’s cohesion and credibility.
+  
+  **2. NATO’s Historical Analogies and Strategic Messaging**  
+  In a recent address, NATO’s Secretary General drew controversial historical comparisons, likening the alliance’s defensive posture to that of the Roman Empire and Napoleon. **Patrick Armstrong** critiques this rhetoric, suggesting it reflects a lack of historical understanding and risks evoking unfavorable parallels with the decline of past empires. The use of such analogies, Armstrong argues, may undermine confidence in NATO’s leadership at a time when calls for increased funding and unity are intensifying.
+  
+  **3. Enduring Patterns in Western-Russian Relations**  
+  Analysis of Western attitudes toward Russia reveals a persistent pattern of hostility, often masked by shifting alliances and moral justifications. Drawing on historical parallels from the Crimean War, Armstrong highlights how narratives portraying Russia as a “barbaric and expansionist threat” have remained largely unchanged for over a century. This continuity, he suggests, lends credence to Russian claims of enduring Western antagonism and complicates prospects for genuine diplomatic engagement.
+  
+  **Trends and Expected Outcomes:**  
+  The recent demonstration of Iranian military capabilities is likely to prompt reassessments of regional security dynamics and Western military planning. NATO’s reliance on historical analogies and shifting narratives may further erode internal cohesion and public trust, particularly as military and industrial challenges persist. Meanwhile, entrenched perceptions of Russia as a perennial adversary continue to shape Western policy, suggesting that the cycle of confrontation and mistrust is set to continue absent a major strategic realignment.
+  
+  **Conclusion:**  
+  The evolving geopolitical landscape is characterized by increasing skepticism toward Western narratives, growing recognition of adversaries’ military advancements, and persistent historical biases. As the balance of power continues to shift, both in the Middle East and in Europe, analysts caution that failure to adapt strategies and narratives may undermine Western interests and stability in the months ahead.
 articles:
   - title: 'TRUMPERY: MAKING SOMETHING OUT OF HOT AIR AND PRESTIDIGITATION.'
     url: https://patrickarmstrong.ca/2025/06/24/trumpery-making-something-out-of-hot-air-and-prestidigitation/

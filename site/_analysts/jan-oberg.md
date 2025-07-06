@@ -4,7 +4,24 @@ title: Jan Oberg
 name: Jan Oberg
 analyst_id: jan-oberg
 description: "Swedish peace researcher and co–founder of Transnational Foundation; independent thought leadership on conflict resolution and non–violence."
-website: https://transnational.live/
+websites:
+  - https://transnational.live/
+summary: |
+  **Geops Report – June 27, 2025**
+  
+  **Context:**  
+  Recent weeks have seen mounting scrutiny of Western policies on civil liberties, Middle East conflicts, and the international response to peace advocacy. Independent analysts highlight a growing climate of repression and militarism, with implications for global stability and the credibility of Western democracies.
+  
+  **U.S. Financial Repression Linked to Cuba Policy**  
+  A notable development comes from the United States, where **David Swanson** of World BEYOND War reported the abrupt closure of his organization’s bank accounts by First Citizens Bank following his legal visit to Cuba for peace conferences. Swanson interprets this as symptomatic of a "broader climate of fear and repression in the U.S., reminiscent of McCarthyism." He argues that such actions are not isolated but reflect systemic hostility toward peace advocacy, especially when it intersects with contentious foreign policy areas like Cuba. Swanson urges transparency and collective action to challenge these trends, warning that silence only perpetuates injustice.
+  
+  **Grassroots Mobilization for Gaza at the Sarajevo Tribunal**  
+  Meanwhile, the inaugural Gaza People’s Tribunal in Sarajevo concluded with a Declaration calling for justice and self-determination for Palestinians. **Richard Falk**, Professor emeritus of international law, has encouraged global endorsement of the Sarajevo Declaration, emphasizing the need for solidarity at a "pivotal moment." The Tribunal’s initiative signals a rising tide of civil society engagement in international justice, seeking to fill perceived gaps left by official diplomatic channels.
+  
+  **Trends and Expected Outcomes:**  
+  The convergence of domestic repression in the U.S. and growing grassroots activism abroad points to a widening disconnect between official Western policy and public sentiment, particularly on issues of peace and human rights. Analysts suggest that unless Western governments address these internal contradictions—balancing security with civil liberties and responding credibly to international justice movements—they risk further erosion of moral authority and increased polarization at home and abroad.
+  
+  Looking ahead, the expectation is for continued civil society mobilization, especially around Middle East conflicts, and heightened scrutiny of Western institutions’ alignment with their professed values. The ongoing debate over U.S. policy toward Cuba and the international response to the Gaza crisis will likely serve as key indicators of broader geopolitical trends in the months to come.
 articles:
   - title: A U.S. Bank Closed Our Accounts Because I’d Visited Cuba Six Months Ago
     url: https://transnational.live/2025/06/27/a-u-s-bank-closed-our-accounts-because-id-visited-cuba-six-months-ago/

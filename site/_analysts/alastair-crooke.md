@@ -4,7 +4,25 @@ title: Alastair Crooke
 name: Alastair Crooke
 analyst_id: alastair-crooke
 description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes deep Middle East and great-power essays independent of Western institutional frames."
-website: https://www.eurasiareview.com/author/alastair-crooke/
+websites:
+  - https://www.eurasiareview.com/author/alastair-crooke/
+summary: |
+  **Geops Report – July 2, 2025**
+  
+  **Context:**  
+  The geopolitical landscape continues to be shaped by the aftermath of the recent U.S.-Israel strikes on Iran, ongoing instability in U.S. domestic politics, and the shifting global economic order. Tensions remain high across the Middle East and Eurasia, while the West grapples with internal divisions and the erosion of traditional power structures.
+  
+  **Iran Emerges Stronger After U.S. Strikes**  
+  The most recent analysis by **Alastair Crooke** highlights a significant development in the Iran-U.S. confrontation. Despite suffering some military damage from coordinated U.S. strikes, Iran appears to have emerged politically stronger and more unified. Crooke argues that the attacks, which did not significantly impact Iran’s nuclear capabilities, have failed to achieve the U.S. and Israel’s strategic objectives of regime change or meaningful deterrence. Instead, the strikes may have inadvertently consolidated Iran’s internal cohesion and regional standing.
+  
+  **Algorithmic Intelligence and the Path to War**  
+  Further scrutiny of the lead-up to the June 13 Israeli attack on Iran reveals the controversial role of algorithmic intelligence in shaping threat perceptions. As **Alastair Crooke** details, the key nuclear allegation that justified the attack stemmed from a Palantir counter-intelligence algorithm, rather than concrete evidence. This was later contradicted by IAEA Chief Grossi, who denied that Iran was actively pursuing nuclear weapons. The episode underscores the risks of relying on artificial intelligence-driven analysis for critical geopolitical decisions, raising questions about the integrity of intelligence assessments and the potential for miscalculation.
+  
+  **Fractures Within the MAGA Coalition**  
+  Domestically, the U.S. faces increasing instability within the ruling MAGA coalition. **Alastair Crooke** points to the escalating conflict between Elon Musk and Donald Trump as emblematic of deeper contradictions between the populist base and tech oligarchs. This internal rift threatens the coherence of Trump’s political project and could undermine his administration’s ability to manage both domestic and foreign policy challenges.
+  
+  **Trends and Expected Outcomes:**  
+  The majority of independent analysis suggests that the U.S. and its allies are struggling to achieve their strategic objectives in the Middle East, while the reliance on algorithmic intelligence may be exacerbating the risk of conflict escalation based on questionable premises. Meanwhile, domestic political divisions in the U.S. are likely to further weaken the administration’s ability to respond effectively to global crises. Looking ahead, the consolidation of Iranian power and the fragmentation of Western political coalitions point to a period of heightened uncertainty and the potential for further geopolitical realignment.
 articles:
   - title: What Means ‘Winning’? – OpEd
     url: https://www.eurasiareview.com/02072025-what-means-winning-oped/

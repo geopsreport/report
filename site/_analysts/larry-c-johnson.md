@@ -4,8 +4,241 @@ title: Larry C. Johnson
 name: Larry C. Johnson
 analyst_id: larry-c-johnson
 description: "Former CIA analyst & State Dept counterterrorism official; runs Sonar21 blog covering national security and global affairs from a skeptical, realist viewpoint."
-website: https://sonar21.com
+websites:
+  - https://sonar21.com
+summary: |
+  **Geops Report – July 6, 2025, Evening Edition**
+  
+  **Context:**  
+  The geopolitical landscape remains volatile across the Southern Caucasus, the Middle East, and the broader Eurasian region. Recent developments highlight the shifting allegiances, diplomatic challenges, and the enduring impact of Western interventions.
+  
+  **Armenia’s Diplomatic Isolation Deepens**  
+  Armenian Prime Minister Nikol Pashinyan’s recent admission of territorial loss marks a significant shift in Yerevan’s political narrative. Speaking at Yerevan State University, Pashinyan acknowledged the loss of part of Armenia’s homeland but asserted the survival of Armenian statehood. According to **Larry C. Johnson**, Pashinyan’s rise was facilitated by a Western-backed movement intended to reduce Russian influence in the region. However, the anticipated Western support has not materialized, leaving Armenia “diplomatically isolated and pressured to make concessions regarding Nagorno-Karabakh.” This has resulted in a weakened and demoralized Armenia, facing internal discontent and external threats, with no clear path to recovery.
+  
+  **Global Misunderstandings Over Zionism and Israel**  
+  A new analysis by **Larry C. Johnson** underscores the profound cultural and religious disconnect shaping global perceptions of Zionism and U.S. support for Israel. The article notes that the majority of the world’s population, particularly in Asia, lacks familiarity with the eschatological beliefs that underpin Western narratives about Israel’s legitimacy. This ignorance complicates international dialogue and fuels misunderstandings, as “most of the world’s population don’t have a clue about Zionism,” especially in populous nations like India and China. The piece suggests that this disconnect is a major barrier to consensus on Middle Eastern issues at the global level.
+  
+  **Trends and Expected Outcomes:**  
+  - Armenia’s continued diplomatic isolation is likely to exacerbate internal instability and may prompt further concessions in the face of external pressure, particularly over Nagorno-Karabakh.
+  - The lack of global understanding regarding the religious and ideological foundations of Zionism will persist, complicating efforts to build international consensus on the Israeli-Palestinian conflict.
+  - The broader trend remains one of shifting alliances and growing skepticism toward Western interventionism, as regional actors reassess their strategies amid uncertain support from traditional partners.
+  
+  As the situation evolves, the Southern Caucasus and Middle East will remain flashpoints, with local actors increasingly forced to navigate a complex and often unsupportive international environment.
 articles:
+  - title: Armenia’s Prime Minister is Trapped
+    url: https://sonar21.com/armenias-prime-minister-is-trapped/
+    text: 'On June 4, 2025, Armenian Prime Minister Nikol Pashinyan stated , in response
+      to a wide-ranging student question during a talk given at Yerevan State University,
+      “We have lost part of our homeland, but we have gained a state.” We must assume
+      that before having “lost part of our homeland,” Armenia wasn’t a state. Armenia
+      was more of a sovereign entity before Pashinyan was ushered into power in 2018,
+      and today, Armenia is caught in a diplomatic trap. Why is this? Critical analysts
+      generate hypotheses in pursuing explanations for political events based on unbiased
+      evaluation of available evidence. Looking back at events that may not initially
+      appear significant sometimes creates the basis for hypotheses when viewed across
+      a longer timeline. Hypotheses are required because most observers and analysts
+      cannot access privileged information. A contemporary example of this might be
+      whether US President Trump is kept in the dark about clandestine events he should
+      know about or does not care about significant events. Few know the real explanation;
+      the rest suggest hypotheses. The leading hypothesis to be examined here is: Pashinyan’s
+      ascent to power was a light-color revolution encouraged by the West to reduce
+      Russia’s footprint in the Southern Caucasus. The suggested quid pro quo was the
+      West would support a Pashinyan ascendancy to power, replacing pro-Russia incumbents,
+      but the piper must be paid. Once Russian influence was reduced, any promises or
+      assurances given Armenia never materialized, leaving diplomatically-challenged
+      Armenia to fend for itself. Armenians were told by Western states and their own
+      ‘analysts’ that Armenia would have to make concessions on Nagorno-Karabakh to
+      achieve peace with its neighbors. No Armenian government could unilaterally concede
+      Nagorno-Karabakh and survive. However, with targeted framing that persists to
+      this day, Armenians fought, were defeated, and emerged in a significantly weakened
+      and demoralized state, with more than four thousand young soldiers dead. Armenia
+      participated in an engineered defeat of Nagorno-Karabakh in 2020, followed by
+      the 2023 Azerbaijani ethnic cleansing of the Armenians of Nagorno-Karabakh, negating
+      the mandate of a Russian peace-keeping contingent in the region. Armenian Nagorno-Karabakh
+      ceased to exist as an entity. While peace remains elusive, the Armenian regime
+      is doing its best not to appear patriotic, attacking national symbols, including
+      the Armenian church, and kowtowing to the dictates of Baku in their never-ending
+      cascade of concessions, all intended to reduce Armenian sovereignty. Direct proof
+      doesn’t exist to prove or contradict this hypothesis. However, the US Deep State
+      is demonstrably in pursuit of the dismemberment of Russia via proxies. Pashinyan
+      was convicted of political libel in 1999. He was fined and given a one-year suspended
+      sentence. In 2008, he was sentenced to seven years in prison for his role in the
+      2008 post-election violence. He was released in May 2011 as part of a general
+      amnesty. Both of these events took place under the leadership of pro-Russian governments.
+      Pashinyan was a classic candidate for fulfilling a Western anti-Russian agenda
+      in Armenia. The West’s Deep State Ukrainian proxy war against Russia has not resulted
+      in a Russian disintegration but rather quite the opposite. Subsequently, Armenia
+      painted itself into a corner; it neither has peace nor is the absence of war the
+      equivalent of peace. Turkey and Azerbaijan, especially the latter, after the successful
+      conquest of Nagorno-Karabakh, are attempting to reduce Armenian sovereignty incrementally.
+      Currently, the Azerbaijani military units occupy about two hundred fifteen sq
+      km of Armenia’s internationally recognized territory, and over thirty Armenian
+      villages are now abandoned. Rather than for Armenia to plan for the worst, it
+      hoped for the best, and hope doesn’t spring eternal in geopolitics. The West using
+      Minsk I and II agreements to further arm Ukraine as a proxy fighting Russia should
+      have been a hint. However, for this and other events to be recognized for what
+      they represent, such as Georgia’s Saakashvili hoping for NATO intervention in
+      the 2008 Georgian-Russian war, these lessons should have encouraged Armenia to
+      develop strategic goals rather than being reduced to transactional processes that
+      serve the interests of others while keeping the Pashinyan regime in power. Much
+      of the US Deep State’s activities serve the disintegration of Russia. Thus, anything
+      that supports that policy would be under active consideration. This includes opening
+      more than just a Ukrainian front against Russian interests. One need only read
+      the Rand Corporation’s recommendations in Extending Russia and note on page 117
+      how “the United States could try to induce Armenia to break with Russia” and on
+      118, “While the principal aim of these policies would be to extend Russia, closer
+      relationships with Georgia, Azerbaijan, or Armenia might yield important secondary
+      benefits for the United States.” The following is a sampling of the evidence that
+      supports the stated hypothesis. As seen on Wikileaks, US diplomatic cables suggest
+      a consistent, strategic push from Washington for Armenia to prepare public opinion
+      to accept compromises on Nagorno-Karabakh, including territorial concessions,
+      to reach peace. There is a recurring, subtly but firmly framed message that peace
+      cannot come without concessions on Nagorno-Karabakh’s status. The number of current
+      Non-Governmental Organizations (NGOs) registered in Armenia remains elusive. While
+      Armenia’s official count as of 2019 stood at 4,222 NGOs and 1,120 foundations,
+      a claim made by Russian sources in the fall of 2023 estimated the number of NGOs
+      in Armenia to be around 9,000. This number of NGOs is considered excessive in
+      a country of about three million people. The role of Western-sponsored NGOs in
+      color revolutions is widely recognized. Nikol Pashinyan stated that his ascendancy
+      was on the backs of NGOs, a classic method used in all Western-inspired color
+      revolutions. In 2017, Nikol Pashinyan’s party proposed Armenia’s exit from the
+      Eurasian Economic Union (EEU) to the Armenian Parliament, signaling a shift away
+      from closer integration with Russia. Since assuming power in 2018, Pashinyan has
+      had five Directors of the National Security Service, and six state officials have
+      died under circumstances deemed suspicious. Additionally, four different Ministers
+      of Defense have served under Pashinyan since 2018. Such frequent changes in key
+      ministries hinder coherent policy implementation. In July 2018, shortly after
+      his election, Pashinyan charged Yuri Khachaturov, who served as the head of the
+      Russia-led Collective Security Treaty Organization (CSTO), with “subverting public
+      order” in 2008. In the months leading up to the 2020 war, Pashinyan appointed
+      individuals known for their loyalty to his administration to key positions within
+      the Armenian Constitutional Court. These appointments were seen as a move to consolidate
+      power and influence within the judiciary, particularly given Pashinyan’s assumption
+      of extraordinary powers during and immediately after the 2020 Karabakh War. Approximately
+      10,000 diasporan Armenians volunteered as soldiers in the 2020 Karabakh War, despite
+      many being informed that their assistance on the battlefield was not required.
+      Following a series of phone conversations between Pashinyan and Russian President
+      Putin and between Azerbaijani President Aliyev and Putin in mid-October 2020 ,
+      a proposal was made to end the fighting. The proposal involved Armenians maintaining
+      control over much of the Nagorno-Karabakh Autonomous Region from the Soviet era,
+      along with bordering regions. It included the deployment of Russian peacekeepers
+      to Nagorno-Karabakh. However, Pashinyan refused the proposal, arguing it would
+      amount to surrender. An engineered defeat of this 2020 war was the goal; such
+      a rejection would be necessary. On February 25, 2021, Armenia’s general staff
+      demanded Pashinyan’s resignation, citing indecisiveness during and after the 2020
+      Karabakh War. In retaliation, Pashinyan dismissed the Chief of the General Staff
+      and his first deputy. He also dismissed or arrested several combat generals from
+      Armenia and Karabakh. Aired on December 19, 2023, on Armenian TV 1 , Pashinyan
+      claimed that the resources meant to strengthen Armenia were always diverted to
+      support the Nagorno-Karabakh Republic. He also stated that he was elected prime
+      minister of Armenia, not Nagorno-Karabakh. The interview implied that the burden
+      of Armenian Nagorno-Karabakh was lifted, bringing economic benefits to Armenia.
+      A quick review can be read here . On February 1, 2024, Armenia’s ratification
+      of the Rome Statute of the International Criminal Court came into effect. This
+      ratification means that Armenia has agreed to abide by the jurisdiction of the
+      International Criminal Court, potentially allowing for the prosecution of individuals
+      accused of committing international crimes, including heads of state. Under the
+      Rome Statute, the ICC claims jurisdiction over genocide, crimes against humanity,
+      war crimes, and the crime of aggression. As a result, there is the possibility
+      that Russian President Putin could face arrest if he enters Armenia and is accused
+      of committing such crimes. By the end of February 2024, Armenia had frozen its
+      membership in the CSTO, signaling a significant shift in its foreign policy or
+      security strategy. This decision raised questions about Armenia’s relationship
+      with other CSTO member states and its broader geopolitical stance. In a March
+      8, 2024 interview , Armenian Foreign Minister Mirzoyan stated that Armenia is
+      actively discussing the possibility of joining the EU. On March 18, 2024, “NATO
+      Secretary General Jens Stoltenberg reportedly praised on Monday Azerbaijan’s close
+      military ties with NATO member Turkey, which helped it to win the 2020 war in
+      Nagorno-Karabakh.” Pashinyan explicitly stated , on September 18, 2024, that (1)
+      others wrote Armenian history, and (2) Patriotism is destructive and does not
+      envision a ‘real’ homeland. On June 18, 2025, Russian-Armenian businessman and
+      philanthropist Samvel Karapetyan was charged with making public calls to seize
+      state power . The legal action against Karapetyan only began after he publicly
+      denounced the government, accusing Pashinyan of orchestrating a targeted campaign
+      against the Armenian Church. Just hours after Karapetyan’s remarks, Pashinyan
+      publicly floated the confiscation of the Electric Networks of Armenia (ENA), the
+      country’s main power distribution company, owned by Karapetyan’s Tashir Group.
+      The Public Services Regulatory Commission has fined Electric Networks of Armenia
+      $25,000 for documented technical and commercial violations. The government is
+      conducting inspections at thirty public dining establishments owned by Pizza Tashir.
+      Armen Abazyan, the director of Armenia’s National Security Service, was dismissed
+      the day after his officers failed to arrest Samvel Karapetyan swiftly. The 1648
+      Westphalian definition of a state is rooted in the principle of sovereignty, where
+      each state has exclusive control over its territory and domestic affairs without
+      external interference. The following elements define a sovereign state under international
+      law and were outlined in frameworks such as the 1933 Montevideo Convention on
+      the Rights and Duties of States. First, a sovereign state must possess a clearly
+      defined territory. This includes a specific geographical area with recognized
+      borders over which the state exercises exclusive control, including land, airspace,
+      and natural resources. Second, a permanent population is necessary. This refers
+      to a group of people who reside within the state’s territory, regardless of whether
+      they are citizens or non-citizens, as long as the population is stable and identifiable.
+      Third, the presence of an organized government is essential. The government is
+      the central authority that creates and enforces laws, maintains order, manages
+      public affairs, and represents the state internally and externally. Fourth, the
+      state must have independence or autonomy. This means it can make its laws, policies,
+      and decisions without interference from external powers, affirming its self-governing
+      status. Fifth, recognition by other states and international organizations. Recognition
+      can be formal or practical, allowing the state to participate in the global community
+      as a legitimate and equal actor. Lastly, a sovereign state must have the capacity
+      to enter into relations with other states. This involves engaging in diplomacy,
+      signing treaties, forming alliances, and participating in global institutions
+      and negotiations. Together, these elements form the foundation of what constitutes
+      a sovereign state under international law. Not only has Pashinyan succumbed to
+      the suggested quid pro quo on Nagorno-Karabakh, but since Azerbaijan’s conquest
+      of Nagorno-Karabakh, Pashinyan has engaged in reducing Armenia’s sovereignty even
+      further by insulting the Armenian Church and its leadership , amending Armenia’s
+      constitution, challenging Armenian symbols that contain Mt Ararat , etc., items
+      demanded by Baku and a lesser extent Turkey as preconditions for a treaty with
+      Armenia. There is no indication that Baku will not demand more concessions from
+      Armenia if all the current demands are met. Not only has the Pashinyan regime
+      served the anti-Russia interests of the collective West, it has been forced to
+      serve the interests of both Turkey and Azerbaijan in reducing Armenia’s identity
+      and sovereignty. There are no genuine friends in international relations, only
+      shifting alliances based on mutual interests. The regional players include Russia,
+      Iran, and the Azerbaijan-Turkey “one nation, two states.” Blaming Russia for the
+      loss of Nagorno-Karabakh and subsequently cooling relations is a diplomatic loss
+      for Armenia. Iran should be a natural ally of Armenia, especially technologically
+      and militarily. Of all three regional powers, only Iran has demanded that Armenian
+      sovereignty not be interfered with . Surely, this policy is in their interest,
+      as is Armenia’s. The collective West (the US and the EU) is a player, but at a
+      distance, as is China, yet the latter has a place. These regional and global powers
+      have parochial interests, which Armenia should understand and deal with. Armenia
+      must establish strategic goals and methods to achieve them. What will Armenia
+      do with no hard allies if the current Israeli-Iranian war spills over into Armenia?
+      Would the US or EU send troops into Armenia? No. Armenian officials’ eyes are
+      dazzled when invited to EU events. Yet neither the EU nor the US will come to
+      Armenia’s defense, nor will Armenia ever enter the EU, considering after almost
+      two decades, Georgia, to the north of Armenia, gave up its ascension activities.
+      As a result of the 2018 light color regime change, Armenia has trapped itself
+      in a conundrum of its creation. It has strained relations with Russia and stagnated
+      closer ties with Iran, as closer relations would horrify the West. It is being
+      cornered by never-ending demands by Azerbaijan and, to a lesser extent, Turkey.
+      Jumping on the illusionary Western bandwagon is not a strategic goal; its operational
+      definition is the Pashinyan trap. Like a small kid in a schoolyard not wanting
+      to cross a bully, Pashinyan’s government is engaging in national self-deprecation.
+      This sorry state of affairs began in May of 2018 as Pashinyan came to power in
+      a light-colored revolution only to see its sovereignty degenerate to a point where
+      Pashinyan and supporters equate losing 11,500 sq km of “Armenian homeland” with
+      gaining a state. Yerevan, Armenia David Davidian is a Lecturer at the American
+      University of Armenia. He has spent over a decade in technical intelligence analysis
+      at major high-technology firms. He resides in Yerevan, Armenia. A compendium of
+      his articles can be seen on shadowdiplomat.com'
+    one_sentence_summary: Armenian Prime Minister Nikol Pashinyan acknowledged the loss
+      of territory while asserting that Armenia has gained statehood, reflecting the
+      complex diplomatic challenges the country faces since his rise to power in 2018.
+    paragraph_summary: On June 4, 2025, Armenian Prime Minister Nikol Pashinyan acknowledged
+      the loss of part of Armenia's homeland while asserting the country's statehood
+      during a talk at Yerevan State University, indicating a shift in Armenia's status
+      since his rise to power in 2018. Analysts suggest that Pashinyan's ascent was
+      part of a Western-backed "light-color revolution" aimed at diminishing Russian
+      influence in the Southern Caucasus, with the expectation of Western support for
+      Armenia. However, this support failed to materialize, leaving Armenia diplomatically
+      isolated and pressured to make concessions regarding Nagorno-Karabakh, a sensitive
+      issue that no Armenian government could afford to concede without risking its
+      survival. The result has been a weakened and demoralized Armenia, facing significant
+      challenges in the aftermath of conflict and territorial loss.
+    published: '2025-07-06T12:48:51+00:00'
   - title: Why Most of the World’s Population Don’t Have a Clue About Zionism
     url: https://sonar21.com/why-most-of-the-worlds-population-dont-have-a-clue-about-zionism/
     text: 'Sometimes we are captive to our own cultural prejudices and assume the rest

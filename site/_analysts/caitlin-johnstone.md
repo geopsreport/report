@@ -4,7 +4,25 @@ title: Caitlin Johnstone
 name: Caitlin Johnstone
 analyst_id: caitlin-johnstone
 description: "Australian satirical anti–war journalist; reader–funded Substack; challenges media propaganda and US/NATO interventions daily."
-website: https://www.caitlinjohnst.one/
+websites:
+  - https://www.caitlinjohnst.one/
+summary: |
+  **Geops Report – July 6, 2025, Morning Edition**
+  
+  **Context:**  
+  The ongoing conflict in Gaza and the West Bank continues to dominate geopolitical discourse, with increasing scrutiny on Western governments' responses and the narratives shaping public perception. Recent developments in the UK and broader Western societies highlight a growing divide between official policy and grassroots activism, as well as intensifying debates over free speech, protest, and the labeling of dissent.
+  
+  **Criminalization of Anti-Genocide Activism in the UK**  
+  In a significant escalation, British authorities have arrested anti-genocide protesters associated with Palestine Action, now officially designated a terrorist group due to its actions targeting military equipment linked to the Gaza conflict. **Caitlin Johnstone** reports that this move reflects a troubling trend: "peace activists are branded as terrorists, while those committing violence are protected." The crackdown is seen as part of a broader effort to suppress dissent and control the narrative around Western support for Israel, particularly as allegations of war crimes in Gaza mount.
+  
+  **Media Access and Information Control in Gaza**  
+  The challenge of independent reporting from Gaza remains acute. Citing historian Jean-Pierre Filiu’s account in Haaretz, **Johnstone** notes that Israeli authorities are actively restricting journalist access to the region, allegedly to conceal evidence of war crimes. This information blackout, combined with the criminalization of protest in the West, contributes to widespread public ignorance about the severity of the humanitarian crisis, further entrenching official narratives.
+  
+  **Resurgence of Counterculture and Political Expression**  
+  Meanwhile, a notable shift is occurring within Western popular culture. The recent Glastonbury Festival saw unprecedented public displays of solidarity with Palestine, including mass chants against the Israeli Defense Forces and widespread flag-waving. **Johnstone** interprets this as a "meaningful change in how artists and their audiences engage with political issues," reminiscent of the anti-establishment movements of the Vietnam War era. This resurgence of counterculture is seen as a direct response to perceived establishment complicity in the Gaza conflict and the suppression of dissent.
+  
+  **Trends and Expected Outcomes**  
+  The convergence of state-led repression of activism, restricted media access, and a revitalized countercultural movement signals a deepening polarization in Western societies. As governments double down on criminalizing protest and controlling information, grassroots movements are likely to intensify, potentially leading to greater public pressure for policy change. However, without increased transparency and open debate, the risk of further alienation and radicalization remains high. The situation in Gaza, and the West’s response to it, will continue to serve as a litmus test for the health of democratic discourse and civil liberties in the months ahead.
 articles:
   - title: Anti-Genocide Activism Is Terrorism In The Empire Of Lies
     url: https://www.caitlinjohnst.one/p/anti-genocide-activism-is-terrorism

@@ -4,7 +4,25 @@ title: Chas W. Freeman Jr.
 name: Chas W. Freeman Jr.
 analyst_id: chas-w-freeman-jr
 description: "Retired US diplomat and China/Middle East expert; realist voice on geopolitics; archives speeches/articles critical of US policy."
-website: https://chasfreeman.net
+websites:
+  - https://chasfreeman.net
+summary: |
+  **Geops Report – Morning Brief, May 29, 2025**
+  
+  **Context:**  
+  Geopolitical tensions remain high across Eurasia, with the Ukraine conflict, U.S.-China rivalry, and shifting global alliances dominating the strategic landscape. Recent independent analysis highlights the urgent need for diplomatic recalibration as traditional Western dominance faces new challenges.
+  
+  **AI as a Flashpoint and Opportunity in U.S.-China Relations**  
+  At a recent Committee for the Republic salon, Ambassador **Chas W. Freeman, Jr.** spotlighted the growing significance of artificial intelligence in Sino-American relations. Introducing AI expert Alvin Graylin, Freeman underscored the dual-edged nature of AI—its potential to transform economies and warfare, but also to exacerbate ethical dilemmas and job displacement. He emphasized that “cooperation between the U.S. and China is essential to harness AI’s benefits while mitigating its risks,” urging both powers to move beyond rivalry and pursue joint frameworks for responsible AI development.
+  
+  **Stalemate and Strategic Drift in Ukraine**  
+  On the European front, Freeman’s recent conference remarks paint a bleak picture of the Ukraine war’s trajectory. He argues that Western strategies have failed to weaken Russia or achieve the integration of Ukraine into Western alliances. Instead, Ukraine faces devastation and the risk of territorial dismemberment. Freeman warns that “without a realistic plan for peace, which acknowledges the realities on the ground and addresses Russia’s concerns, the situation will remain dire.” He calls for a fundamental reassessment of Western policy, advocating for a peace framework that includes Russia and fosters pan-European cooperation.
+  
+  **Persistent Misperceptions Fueling U.S.-China Tensions**  
+  Freeman also critiques the ideological bias shaping American perceptions of China, noting that entrenched misconceptions and lack of dialogue are deepening mistrust. He highlights that U.S. policy is often driven by “unfounded beliefs” about China’s intentions, while China’s own diplomatic missteps have compounded the problem. Freeman stresses that America’s challenges are largely internal and warns that continued antagonism will only “deepen misunderstandings and conflict.”
+  
+  **Trends and Expected Outcomes:**  
+  The majority view across these analyses is that current Western strategies—whether in Ukraine or in managing relations with China—are proving counterproductive. There is a growing consensus that without a pivot toward diplomacy, dialogue, and realistic engagement with adversaries’ security concerns, the risks of prolonged conflict and global instability will intensify. The coming months are likely to see increased calls for multilateral negotiations, particularly in Europe and the Asia-Pacific, as policymakers confront the limits of military and economic coercion in a rapidly evolving world order.
 articles:
   - title: Artificial Intelligence in Sino-American Relations
     url: https://chasfreeman.net/artificial-intelligence-in-sino-american-relations/

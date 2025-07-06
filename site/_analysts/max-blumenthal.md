@@ -4,7 +4,24 @@ title: Max Blumenthal
 name: Max Blumenthal
 analyst_id: max-blumenthal
 description: "Investigative journalist and filmmaker; founder of The Grayzone; covers Middle East, media bias, imperialism and regime-change narratives."
-website: https://thegrayzone.com
+websites:
+  - https://thegrayzone.com
+summary: |
+  **Geops Report – July 3, 2025**
+  
+  **Context:**  
+  Geopolitical tensions continue to mount across multiple fronts, with new revelations highlighting the deep entanglement of intelligence agencies, tech industries, and state actors in global conflicts. Recent independent investigations shed light on covert operations, digital influence, and the ethical implications of technology in warfare and surveillance.
+  
+  **Israeli Tech Sector’s Global Reach and Ethical Concerns**  
+  A new exposé by **Max Blumenthal** reveals that many top-grossing apps on Apple and Google platforms are developed by former Israeli intelligence and military personnel. Companies such as ZipoApps, Supersonic, and Playtika are cited for their opaque ownership structures and significant revenues, which, according to the report, contribute to Israel’s economy and its ongoing policies towards Palestinians. The article raises alarms about privacy and the ethical ramifications of unwittingly supporting products linked to a regime accused of systemic oppression. The report calls for heightened consumer awareness and action from the boycott, divestment, and sanctions movement to address these concerns.
+  
+  **MI6 Infiltration of the IAEA and Fallout with Iran**  
+  Leaked documents have confirmed that **Nicholas Langman**, a veteran MI6 agent, infiltrated the International Atomic Energy Agency (IAEA), orchestrating sanctions against Iran and reinforcing Tehran’s longstanding allegations of Western collusion. According to **Blumenthal**, Langman’s tenure coincided with a period of intensified sanctions and controversial intelligence sharing, including information that may have facilitated the assassination of Iranian nuclear scientists. The fallout has deepened mistrust between Iran and the IAEA, with recent actions under Secretary General Rafael Grossi further straining relations and undermining prospects for diplomatic engagement.
+  
+  **Ongoing Trends and Expected Outcomes**  
+  These developments underscore a growing trend of intelligence agency involvement in both digital and traditional spheres of conflict, blurring the lines between civilian and military domains. The revelations about Israeli-linked tech products are likely to fuel further calls for transparency and ethical scrutiny in the global app market. Meanwhile, the exposure of covert operations within international regulatory bodies like the IAEA is expected to exacerbate geopolitical rifts, particularly between Iran and Western powers, complicating future negotiations on nuclear and security issues.
+  
+  As intelligence-driven strategies become increasingly central to statecraft, the intersection of technology, surveillance, and foreign policy will remain a focal point for both activists and policymakers. The coming months are expected to see intensified debates over digital sovereignty, ethical technology use, and the legitimacy of international institutions in mediating global crises.
 articles:
   - title: Best-selling apps made by Israeli spies revealed
     url: https://thegrayzone.com/2025/07/02/best-selling-apps-made-by-israeli-spies-revealed/

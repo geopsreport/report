@@ -4,8 +4,131 @@ title: Elijah J. Magnier
 name: Elijah J. Magnier
 analyst_id: elijah-j-magnier
 description: "Veteran Middle East war correspondent; provides first-hand analysis of Syria, Iraq, Gaza; writes for The Cradle and personal blog."
-website: https://ejmagnier.com
+websites:
+  - https://ejmagnier.com
+summary: |
+  **Geops Report – July 6, 2025, Evening Edition**
+  
+  **Context:**  
+  The Middle East remains in a state of heightened volatility following the June 2025 Israeli-American strikes on Iran’s nuclear infrastructure and the subsequent, unresolved ceasefire between Israel and Iran. The region’s fragile balance is further strained by ongoing tensions along the Lebanon-Israel border and shifting diplomatic alignments.
+  
+  **Hezbollah Rejects US Disarmament Proposal, Escalating Risks in Lebanon**  
+  The most significant development in the past 12 hours is Hezbollah’s formal rejection of the latest US proposal for disarmament in exchange for a phased Israeli withdrawal and conditional financial aid to Lebanon. According to **Elijah J. Magnier**, Hezbollah considers the proposal “untenable” due to Israel’s repeated non-compliance with previous agreements and the lack of credible guarantees from Western guarantors. The group also frames the proposal as a violation of Lebanese sovereignty and a threat to the political and social standing of its community. This decision signals a hardening stance and raises the risk of direct confrontation, with **Magnier** warning that “Hezbollah’s rejection... signifies a critical shift towards confrontation in Lebanon, potentially escalating regional tensions and reshaping the geopolitical landscape.”
+  
+  **US Policy in Gaza: From Mediator to Proxy**  
+  On the diplomatic front, the United States’ approach to the Gaza conflict continues to draw scrutiny. Recent analyses highlight a marked shift: Washington has abandoned its traditional mediator role, instead acting as a de facto representative of Israeli interests in negotiations with Hamas. **Elijah J. Magnier** notes that the US-backed ceasefire proposal is primarily designed to relieve domestic pressure on Israeli Prime Minister Netanyahu, rather than to achieve a genuine resolution to the conflict. This approach allows Israel to regroup and potentially resume military operations, further undermining prospects for a lasting peace.
+  
+  **Trends and Expected Outcomes**  
+  The rejection of the US proposal by Hezbollah is likely to intensify tensions along the Lebanon-Israel border, with the potential for escalation into broader conflict. The persistent lack of trust in Western guarantees, coupled with the US’s perceived alignment with Israeli objectives, is deepening regional polarization. Meanwhile, the unresolved status of Iran’s nuclear program and the absence of a comprehensive agreement leave the door open to renewed hostilities. The majority of independent analysts anticipate a period of heightened instability, with the risk of localized flare-ups and a continued erosion of diplomatic avenues for de-escalation.
+  
+  **Conclusion:**  
+  The Middle East faces a critical juncture as diplomatic efforts falter and armed actors entrench their positions. The coming weeks are expected to test the resilience of regional actors and the international community’s capacity to prevent a wider conflagration.
 articles:
+  - title: The Consequences Lebanon and Hezbollah May Face Following the rejection of
+      the US-IsraeliSurrender Proposal
+    url: https://ejmagnier.com/2025/07/06/the-consequences-lebanon-and-hezbollah-may-face-following-the-rejection-of-the-us-israelisurrender-proposal/
+    text: 'Tweet By Elijah J. Magnier Hezbollah’s rejection of the US-proposed disarmament
+      plan is far more than a diplomatic stance; it marks a pivotal moment that propels
+      Lebanon into a new phase of confrontation. Sources familiar with Hezbollah’s decision
+      have described the proposal as “strategically flawed, politically biased, and
+      tantamount to a surrender.” Its refusal may now open the door to escalation on
+      multiple fronts. The aftershocks of the Al-Aqsa Flood operation continue to reshape
+      strategic calculations across the region, with far-reaching and devastating consequences
+      for the Resistance. The full impact of these events is still unfolding, as the
+      geopolitical map of the Middle East is being redrawn in real time—and the worst
+      may still lie ahead. Yet, the will of the people—in Palestine, Lebanon, and Iran—remains
+      steadfast in the face of mounting threats. Those who seek dominance through genocide,
+      war crimes, and military coercion will, in the long run, fall by the same means
+      they use to enforce their rule. The US–Israeli slogan of “peace through force”
+      is no solution; it is a blueprint for prolonged war in the Middle East. Hezbollah
+      now faces a monumental task: preparing its community—especially its support base—for
+      a potential conflict looming at Lebanon’s doorstep. The focus lies on strengthening
+      resilience, raising awareness, and ensuring readiness. Civil resilience is not
+      only about military preparedness; it also requires cultivating unity and self-reliance
+      among civilians, so they can endure the uncertainties and pressures of war. The
+      dilemma between disarmament and remain armed presents significant challenges.
+      According to sources familiar with Hezbollah’s inner thinking, disarmament would
+      lead to political marginalisation, strategic vulnerability, and known consequences—leaving
+      its community exposed to internal and external threats that could ultimately dismantle
+      the organisation. On the other hand, maintaining its arsenal and confronting an
+      emboldened, war-hungry Israel—intent on redrawing the region’s map—carries the
+      risk of severe losses for its civilian base and an uncertain, potentially catastrophic
+      future. Navigating this landscape demands careful evaluation of the risks, gains,
+      and potential costs of each path, a task now squarely on the shoulders of Hezbollah’s
+      leadership. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Hezbollah's rejection of the US disarmament plan signifies
+      a critical shift towards confrontation in Lebanon, potentially escalating regional
+      tensions and reshaping the geopolitical landscape, while the resolve of the people
+      in Palestine, Lebanon, and Iran remains strong against oppressive forces.
+    paragraph_summary: Hezbollah's rejection of the US disarmament proposal signifies
+      a critical turning point for Lebanon, indicating a potential escalation of conflict
+      in the region. The group views the proposal as strategically flawed and a form
+      of surrender, which could lead to heightened tensions following the Al-Aqsa Flood
+      operation. As the geopolitical landscape of the Middle East shifts, Hezbollah
+      is tasked with preparing its community for possible conflict, emphasizing the
+      importance of civil resilience, unity, and self-reliance among civilians. The
+      dilemma of disarmament versus maintaining an armed presence poses significant
+      challenges, as disarmament could lead to political marginalization and vulnerability,
+      while retaining its arsenal may provoke further aggression from adversaries.
+    published: '2025-07-06T17:10:22+00:00'
+  - title: 'Hezbollah verwerpt Amerikaans voorstel tot ontwapening: strategische hiaten,
+      schendingen van soevereiniteit en marginalisering van de gemeenschap'
+    url: https://ejmagnier.com/2025/07/06/hezbollah-verwerpt-amerikaans-voorstel-tot-ontwapening-strategische-hiaten-schendingen-van-soevereiniteit-en-marginalisering-van-de-gemeenschap/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Bronnen
+      dicht bij de besluitvormers hebben bevestigd dat Hezbollah het laatste Amerikaanse
+      voorstel van gezant Thomas Barrack zal verwerpen, waarin de ontwapening van de
+      verzetsbeweging wordt geëist in ruil voor een gefaseerde terugtrekking van Israël
+      en voorwaardelijke financiële steun aan Libanon. Hoewel Washington de zes pagina’s
+      tellende routekaart als een diplomatieke oplossing voorstelt, zit deze vol met
+      asymmetrieën, vage garanties en precedenten die hem in de ogen van Hezbollah en
+      andere regionale actoren onhoudbaar maken. Hezbollah stelt dat Libanon al heeft
+      voldaan aan resolutie 1701 van de VN-Veiligheidsraad en dringt erop aan dat Israël
+      nu zijn verplichtingen uit hoofde van die overeenkomst nakomt. Elke stap in de
+      richting van een nieuwe overeenkomst is onbetrouwbaar, vooral omdat de oorspronkelijke
+      overeenkomst niet is nageleefd. Hezbollah beweert verder dat de Verenigde Staten
+      en Frankrijk, die als garant voor resolutie 1701 optraden, hun verantwoordelijkheden
+      niet zijn nagekomen. Het staakt-het-vuren is meer dan 3700 keer geschonden, zonder
+      dat Israël ter verantwoording is geroepen. Volgens Hezbollah weerspiegelt het
+      huidige voorstel van de VS slechts de al lang bestaande eisen van Israël, die
+      Tel Aviv met geweld niet heeft kunnen afdwingen. “Hoe kunnen dergelijke eisen
+      worden ingewilligd via onderhandelingen met de VS, die volledig partijdig is ten
+      gunste van de vijand?”, aldus een bron die dicht bij de partij staat. Hezbollah
+      benadrukt dat zodra Israël zich volledig aan de oorspronkelijke overeenkomst houdt,
+      de Libanese facties – waaronder Hezbollah – bereid zijn tot een dialoog die het
+      nationale belang van het land dient. Dit patroon weerspiegelt wat er in Gaza is
+      gebeurd, waar de Amerikaanse gezant Steve Witkoff hielp bij het tot stand brengen
+      van wat aanvankelijk een duurzaam staakt-het-vuren leek. Tweeënveertig dagen later
+      kwam hij op zijn besluit terug en eiste hij de vrijlating van alle Israëlische
+      gevangenen in één keer. Door die ommezwaai kon Israël zijn operatie “Chariots
+      of Gideon” lanceren, die leidde tot de bezetting van een groot deel van Gaza.
+      Hezbollah ziet de huidige aanpak van de VS – onder leiding van Thomas Barrack
+      – als een herhaling van die tactiek, toegepast in een ander theater maar door
+      dezelfde spelers. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet
+    one_sentence_summary: Hezbollah heeft bevestigd dat het het laatste Amerikaanse
+      voorstel van gezant Thomas Barrack zal afwijzen, omdat het voorstel voor ontwapening
+      in ruil voor een gefaseerde terugtrekking van Israël en financiële steun voor
+      Libanon als onhoudbaar wordt beschouwd, gezien de niet-naleving van eerdere overeenkomsten
+      door Israël.
+    paragraph_summary: Hezbollah heeft bevestigd dat het het laatste Amerikaanse voorstel
+      van gezant Thomas Barrack zal afwijzen, waarin de ontwapening van de beweging
+      wordt geëist in ruil voor een gefaseerde terugtrekking van Israël en financiële
+      steun aan Libanon. De zes pagina's tellende routekaart wordt door Hezbollah als
+      onhoudbaar beschouwd vanwege asymmetrieën en vage garanties, en zij benadrukken
+      dat Libanon al heeft voldaan aan VN-resolutie 1701, terwijl Israël zijn verplichtingen
+      niet is nagekomen. Hezbollah stelt dat de VS en Frankrijk, die als garant voor
+      deze resolutie optraden, hun verantwoordelijkheden hebben verzaakt, en dat het
+      huidige voorstel slechts de eisen van Israël weerspiegelt. De beweging is bereid
+      tot dialoog met andere Libanese facties, maar alleen als Israël zich houdt aan
+      de oorspronkelijke overeenkomst.
+    published: '2025-07-06T11:24:29+00:00'
   - title: Hezbollah to Reject US Disarmament Proposal: Strategic Gaps, Sovereignty
       Violations, and Community Marginalisation
     url: https://ejmagnier.com/2025/07/05/hezbollah-to-reject-us-disarmament-proposal-strategic-gaps-sovereignty-violations-and-community-marginalisation/
