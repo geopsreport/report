@@ -334,7 +334,7 @@ def find_article_links(website, session, analyst_name):
                 links.append({"title": title, "url": href})
         
         # Filter HTML links with LLM
-        return filter_links_with_llm(links[:num_articles], analyst_name, website)
+        return filter_links_with_llm(links[:FOLLOW_LINKS_N], analyst_name, website)
         
     except requests.exceptions.ConnectionError as e:
         print(f"Connection error for {website}: {e}")

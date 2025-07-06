@@ -14,8 +14,12 @@ class Analyst:
         id_ = id_.strip('-')
         return id_
 
+    @property
+    def filename(self):
+        return self.analyst_id + '.md'
+
     def analyst_url(self, baseurl=""):
-        return f"{baseurl}/analysts/{self.analyst_id}/"
+        return f"{baseurl}/analysts/{self.analyst_id}"
     
     @staticmethod
     def find_analyst(name):

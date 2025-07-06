@@ -8,6 +8,10 @@ import yaml
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../scraper')))
 from analysts import analysts, Analyst
 
+# Import the summary function
+sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
+from summarize_context import make_context_summary
+
 DATA_FILE = os.path.abspath(os.path.join(os.path.dirname(__file__), '../data/articles.json'))
 ANALYST_PAGES_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '../site/_analysts'))
 
@@ -25,15 +29,44 @@ for analyst_entry in data:
     analyst_articles[name] = articles
 
 # Helper to get Analyst object from name
-analyst_objs = {a['name']: Analyst(a['name'], a['website'], a['description']) for a in analysts}
+analyst_objs = {a['name']: Analyst(a['name'], a['websites'], a['description']) for a in analysts}
 
-def safe_filename(name):
-    return Analyst(name, '', '').analyst_id + '.md'
+def create_article_objects(articles, analyst_name):
+    """Convert article dicts to Article objects for summary generation"""
+    from summarize_context import Article
+    article_objects = []
+    for art in articles:
+        article_obj = Article(
+            title=art.get('title'),
+            url=art.get('url'),
+            text=art.get('text'),
+            one_sentence_summary=art.get('one_sentence_summary'),
+            paragraph_summary=art.get('paragraph_summary'),
+            published=art.get('published'),
+            analyst=analyst_name
+        )
+        article_objects.append(article_obj)
+    return article_objects
 
 for name, analyst_obj in analyst_objs.items():
     articles = analyst_articles.get(name, [])
     # Sort articles by published date, newest first
     articles = sorted(articles, key=lambda a: a.get('published', ''), reverse=True)
+    
+    # Generate summary for this analyst's articles
+    summary = ""
+    if articles:
+        # Convert to Article objects for summary generation
+        article_objects = create_article_objects(articles, name)
+        # Take the most recent articles (up to 20) for summary
+        recent_articles = article_objects[:20]
+        if recent_articles:
+            try:
+                summary = make_context_summary(recent_articles)
+            except Exception as e:
+                print(f"Error generating summary for {name}: {e}")
+                summary = f"Analysis of recent articles by {name}."
+    
     # Compose YAML front matter
     front_matter = f"""---
 layout: analyst
@@ -41,7 +74,14 @@ title: {analyst_obj.name}
 name: {analyst_obj.name}
 analyst_id: {analyst_obj.analyst_id}
 description: "{analyst_obj.description}"
-website: {analyst_obj.website}
+websites:
+"""
+    # Add websites as a list
+    for website in analyst_obj.websites:
+        front_matter += f"  - {website}\n"
+    
+    front_matter += f"summary: |
+  {summary.replace(chr(10), chr(10) + '  ')}
 articles:
 """
     if articles:
@@ -54,6 +94,6 @@ articles:
         front_matter += "  []\n"
     front_matter += '---\n\n'
     # Write the file
-    filename = os.path.join(ANALYST_PAGES_DIR, safe_filename(name))
+    filename = os.path.join(ANALYST_PAGES_DIR, analyst_obj.filename)
     with open(filename, 'w') as f:
         f.write(front_matter) 
