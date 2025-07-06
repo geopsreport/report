@@ -80,7 +80,7 @@ websites:
     for website in analyst_obj.websites:
         front_matter += f"  - {website}\n"
     
-    front_matter += f"summary: |
+    front_matter += f"""summary: |
   {summary.replace(chr(10), chr(10) + '  ')}
 articles:
 """
