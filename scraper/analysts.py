@@ -172,6 +172,13 @@ analysts = [
             "https://www.npetro.net/4.html"
         ],
         "description": "Nicolai N. Petro is a Professor of Political Science specializing in Russian and Eurasian politics, known for his critical analysis of East-West relations and advocacy for diplomatic engagement."
+    },
+    {
+        "name": "Richard Falk",
+        "websites": [
+            "https://richardfalk.org/"
+        ],
+        "description": "Richard Falk is an international law and international relations scholar who taught at Princeton University for forty years. Since 2002 he has lived in Santa Barbara, California, and taught at the local campus of the University of California in Global and International Studies and since 2005 chaired the Board of the Nuclear Age Peace Foundation. He initiated this blog partly in celebration of his 80th birthday."
     }
 ]
 

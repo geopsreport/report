@@ -86,6 +86,8 @@ A new report is published every 12 hours, so:
 - Quote different sources and never repeat the same quote from previous reports
 - Favor majority opinions across sources
 - Keep the same **professional** tone and style as the source articles
+- First give a bit of context. Go in detail on the most recent news. Conclude with the trends and predictions
+- Can use markdown but no title, go straight to the lead.
 
 """
     prompt = base_prompt
@@ -112,7 +114,7 @@ A new report is published every 12 hours, so:
         prompt += f"\n### {article.title} by {article.analyst} ({readable_date})\n" + getattr(article, summary_field, '') + "\n"
     prompt += "\n</sources>\n"
     prompt += base_prompt
-    prompt += "\nWrite a summary report for the main events, context, trends and expected outcomes. First give a bit of context, go in detail on the most recent events or key issues and conclude with the trends and expected outcomes."
+    prompt += "\nWrite a summary report for the main events, context, trends and expected outcomes."
     print("len(summary context):", len(prompt), prompt)
     response = client.chat.completions.create(
         #model="gpt-4o",

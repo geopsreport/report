@@ -62,7 +62,8 @@ for name, analyst_obj in analyst_objs.items():
         recent_articles = article_objects[:20]
         if recent_articles:
             try:
-                summary = make_context_summary(recent_articles)
+                context = f"""We are writing the context summary as {name} based on their articles.\nInclude any and all predictions with the confidence level. High confidence "I guarantee", "most definetly". Medium confidence "there is high chance", "quite likely".\n"""
+                summary = make_context_summary(recent_articles, context)
             except Exception as e:
                 print(f"Error generating summary for {name}: {e}")
                 summary = f"Analysis of recent articles by {name}."
