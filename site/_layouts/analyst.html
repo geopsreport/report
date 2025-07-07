@@ -227,7 +227,7 @@
       {% if page.websites %}
         <div class="analyst-website">
           {% for website in page.websites %}
-            <a href="{{ website }}" target="_blank">{{ website | replace: 'https://', '' | replace: 'http://', '' | truncate 42 }}</a>
+            <a href="{{ website }}" target="_blank">{{ website | remove: 'https://' | remove: 'http://' | remove: 'www.' | truncate 42 }}</a>
           {% endfor %}
         </div>
       {% endif %}
