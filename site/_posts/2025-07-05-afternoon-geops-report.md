@@ -20,9 +20,6 @@ analysts:
   - Patrick Armstrong
 ---
 
-### Geopolitical Summary: July 5, 2025
-
-#### Context
 The geopolitical landscape in July 2025 is marked by significant tensions and strategic shifts, particularly in the Middle East and among global power structures. The ongoing conflict between Israel and Iran remains a central issue, with both military and diplomatic maneuvers influencing regional stability. Meanwhile, the United States, under President Donald Trump, continues to exhibit unpredictable foreign policy shifts, and the expansion of the BRICS alliance signals a shift in global economic power dynamics.
 
 #### Recent Developments

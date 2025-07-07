@@ -13,8 +13,6 @@ analysts:
   - M. K. Bhadrakumar
 ---
 
-**Geopolitical Summary: July 5, 2025**
-
 The geopolitical landscape continues to be shaped by significant tensions and strategic realignments, with recent developments in the Middle East, U.S. domestic and foreign policy, and European defense dynamics taking center stage.
 
 **Middle East Tensions and Iran's Nuclear Ambitions**

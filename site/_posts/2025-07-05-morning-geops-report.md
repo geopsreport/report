@@ -14,9 +14,6 @@ analysts:
   - Patrick Armstrong
 ---
 
-### Geopolitical Summary: July 5, 2025
-
-#### Context
 The global geopolitical landscape is currently characterized by escalating tensions and strategic realignments, particularly in the Middle East and Europe. The ongoing conflict between Israel and Iran, coupled with significant shifts in U.S. foreign policy under President Trump, continues to shape regional and international dynamics. Additionally, internal political developments in the U.S. and Europe are influencing both domestic and international priorities, with a notable focus on defense spending and military alliances.
 
 #### Recent Developments

@@ -20,9 +20,6 @@ analysts:
   - Ray McGovern
 ---
 
-### Geopolitical Summary: July 6, 2025
-
-#### Context
 The geopolitical landscape remains fraught with tension and strategic shifts, particularly in the Middle East, Europe, and the United States. The ongoing conflict between Israel and Iran continues to dominate regional dynamics, while the U.S. grapples with internal political changes and Europe faces economic adjustments due to increased defense spending.
 
 #### Recent Developments

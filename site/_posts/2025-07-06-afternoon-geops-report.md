@@ -20,9 +20,6 @@ analysts:
   - Binoy Kampmark
 ---
 
-**Geops Report – July 6, 2025, Evening Edition**
-
-**Context:**  
 The Middle East remains at the epicenter of global geopolitical tensions, with the aftermath of the Israel-Iran conflict continuing to reverberate across the region. As diplomatic efforts falter, new military and political maneuvers are reshaping alliances, while Western democracies face mounting internal and external pressures.
 
 **1. Hezbollah’s Rejection of US Disarmament Plan Signals Escalation**

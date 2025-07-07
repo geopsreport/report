@@ -20,9 +20,6 @@ analysts:
   - Max Blumenthal
 ---
 
-**Geops Report – July 7, 2025, Evening Edition**
-
-**Context:**  
 As the Middle East remains on a knife’s edge following the collapse of US-led diplomatic efforts, global power structures continue to shift. The rapid expansion of BRICS and the West’s increasingly aggressive countermeasures are reshaping the international order, while Europe grapples with the domestic fallout of unprecedented defense spending.
 
 **Hezbollah’s Defiance Signals Escalation in Lebanon**
