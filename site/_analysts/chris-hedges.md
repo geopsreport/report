@@ -7,25 +7,18 @@ description: "Pulitzer-winning journalist, ex–NYT war correspondent; radical r
 websites:
   - https://scheerpost.com
 summary: |
-  **Geops Report – July 6, 2025 (PM Edition)**
+  As the geopolitical landscape continues to shift rapidly, the past 24 hours have seen several significant developments, particularly in the Middle East and Europe, with broader implications for global power dynamics.
   
-  As geopolitical tensions continue to escalate across the Middle East and beyond, recent developments signal a deepening of entrenched policies and alliances, with significant implications for regional stability, global power dynamics, and the future of independent journalism.
+  The most notable upcoming event is the planned meeting between President Trump and Israeli Prime Minister Netanyahu at the White House next week. According to **Chris Hedges**, this summit marks a decisive pivot in U.S. Middle East policy, with Trump now prioritizing the establishment of an “Israel-centric order.” The administration’s strategy aims to isolate and defeat Iran and Hezbollah, while accelerating normalization efforts between Israel and Arab states. However, Hedges notes that this approach is being pursued “with little regard for Palestinian aspirations,” raising concerns about the potential for further destabilization and humanitarian fallout in the region.
   
-  **Trump-Netanyahu Summit: A New Middle East Order?**
+  On the ground, Israeli military operations continue to intensify. **Juan Cole** reports that the Netanyahu government is escalating its campaign in Gaza, with ongoing attacks targeting civilians and widespread violations of international law. The UN Human Rights office has documented severe impacts on families in the al-Mawasi region, underscoring the deepening humanitarian crisis. These developments coincide with a recent Israeli special forces raid near Damascus, as detailed by **Chris Hedges**, which targeted a site associated with Syria’s Republican Guard and lasted several hours. This operation signals Israel’s willingness to expand its military reach beyond Gaza and Lebanon, keeping the Syrian front active.
   
-  President Trump is set to host Israeli Prime Minister Netanyahu at the White House next week, with the stated goal of forging a “new Middle East” order. According to **Chris Hedges**, Trump’s focus has shifted from direct confrontation with Iran to consolidating an Israel-centric regional alliance. The summit reportedly aims to further isolate Iran and Hezbollah, while accelerating normalization between Israel and Arab states. However, this approach is being pursued “with little regard for Palestinian aspirations,” raising concerns about the prospects for a just peace and the potential for renewed conflict.
+  Meanwhile, the economic and social impact of austerity in Europe is becoming clearer. A new Eurostat report cited by **Chris Hedges** reveals that over 1 million preventable deaths occurred in the EU in 2022, largely attributed to underfunded healthcare systems and austerity-driven policies, especially in Eastern Europe. Trade unions are now calling for increased investment in public health and fairer taxation of the wealthy, as social spending faces further cuts to meet NATO military commitments demanded by the U.S.
   
-  **Escalation in Gaza and Syria**
+  **Trends and Predictions:**  
+  The convergence of U.S. and Israeli interests is set to further marginalize Palestinian rights and escalate tensions with Iran and its allies. There is a high chance that the Trump-Netanyahu summit will result in new diplomatic and military initiatives targeting Iran and Hezbollah, with “most definitely” increased pressure on Arab states to normalize relations with Israel. The humanitarian situation in Gaza is expected to deteriorate further, with little prospect for international intervention, as economic and strategic interests continue to override calls for accountability. In Europe, austerity measures are likely to persist, fueling public discontent and social instability as governments prioritize defense spending over welfare.
   
-  On the ground, Israeli military operations continue to draw international scrutiny. **Juan Cole**, cited by Hedges, reports ongoing “military aggression by the Netanyahu government against Gaza civilians,” with the UN Human Rights office documenting severe violations of international law and a worsening humanitarian crisis, particularly in the al-Mawasi region. Simultaneously, Israeli special forces launched a major raid near Damascus on July 3, targeting a site linked to Syria’s Republican Guard. The operation, involving helicopters and armored vehicles, underscores Israel’s willingness to project force beyond its borders and raises the risk of broader regional escalation.
-  
-  **Independent Journalism Under Threat**
-  
-  The role of independent media remains critical amid these developments. **Glenn Greenwald** highlights the mounting financial and political pressures facing alternative outlets like ScheerPost, warning that “corporate influence in media” threatens the survival of dissenting voices. This concern is echoed by **Francesca Albanese**, who argues that economic interests in war and crisis are a key reason why UN member states have failed to intervene effectively in Gaza, further underscoring the importance of independent reporting in holding power to account.
-  
-  **Trends and Outlook**
-  
-  The convergence of U.S.-Israeli strategic planning, intensifying military operations in Gaza and Syria, and the suppression of independent journalism points to a period of heightened instability and diminished prospects for diplomatic solutions. The majority of analysts warn that the sidelining of Palestinian rights and the normalization of military aggression risk entrenching cycles of violence and undermining international law. As the Trump administration doubles down on its regional alliances, the space for critical journalism and genuine multilateral engagement appears increasingly constrained, with significant consequences for both regional populations and global governance.
+  The trajectory points to a period of heightened confrontation in the Middle East and growing domestic unrest in Europe, with independent journalism playing a critical role in documenting these unfolding crises.
 articles:
   - title: Next Week, Trump and Netanyahu Will Meet at the White House to Plan Their
       ‘New Middle East’
@@ -2661,6 +2654,594 @@ articles:
       tax law, is expected to pass despite significant opposition, highlighted by House
       Minority Leader Hakeem Jeffries' lengthy speech against it.
     published: '2025-07-04T09:05:00+00:00'
+  - title: 'EXCLUSIVE: Mahmoud Khalil, Palestinian Activist Jailed by ICE for 104 Days,
+      in First Live Interview'
+    url: https://scheerpost.com/2025/07/04/exclusive-mahmoud-khalil-palestinian-activist-jailed-by-ice-for-104-days-in-first-live-interview/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By DemocracyNow!
+      In his first live broadcast interview since being released from ICE detention,
+      Palestinian activist Mahmoud Khalil tells Democracy Now! about his experience
+      behind bars, the ongoing threat of deportation that hangs over him and why he
+      continues to speak out against the U.S.-backed Israeli war on Gaza. The Columbia
+      University graduate was the first pro-Palestinian campus protester to be jailed
+      by the Trump administration. Khalil is now reunited with his wife Noor and newborn
+      son Deen, after he was released on bail last month by a federal judge. Khalil
+      says the Trump administration’s attempts to silence him are “a distraction from
+      the genocide in Palestine.” Transcript This is a rush transcript. Copy may not
+      be in its final form. AMY GOODMAN: This is Democracy Now! , democracynow.org,
+      The War and Peace Report . I’m Amy Goodman. Officials in Gaza say Israeli attacks
+      have killed over 300 Palestinians over the past 48 hours. One strike on the home
+      of the renowned cardiologist Marwan al-Sultan at Indonesian Hospital killed the
+      doctor, along with his mother, sister and aunt. He’s at least the 70th healthcare
+      worker killed by Israel in the past 50 days. This comes as Palestinians say at
+      least 33 people were slaughtered today as they lined up for aid at militarized
+      aid distribution sites run by the U.S.- and Israeli-backed so-called Gaza Humanitarian
+      Foundation. The reportedly unprovoked killings came as the Associated Press published
+      recent video showing U.S. contractors at GHF sites firing live ammunition and
+      stun grenades at starving Palestinians as they scrambled for food. The AP says
+      it received the footage from two U.S. contractors who wish to remain anonymous
+      in order to blow the whistle on abuses. The contractors report security staffers
+      were often unqualified, unvetted, heavily armed, and seemed to have an open license
+      to do whatever they wished. In this clip published by the AP, contractors erupt
+      in cheers as shots ring out. JULIA FRANKEL: At that moment, bursts of gunfire
+      erupt close by, at least 15 shots. U.S. CONTRACTOR 1: I think you hit one. U.S. CONTRACTOR 1:
+      Hell, yeah, boy! AMY GOODMAN: This comes as the Trump administration continues
+      its crackdown on pro-Palestinian demonstrators, especially at universities across
+      the United States. In a moment, we’ll be joined by the first pro-Palestinian campus
+      protester to be jailed by the Trump administration: Columbia University graduate
+      and Palestinian student protest leader Mahmoud Khalil. Video shows his arrest
+      on March 8th, when he was detained by plainclothes officers who did not identify
+      themselves. The video was filmed by his eight-month-pregnant wife, Noor Abdalla,
+      whose voice you’re hearing in this clip. DR. NOOR ABDALLA: Can you — can you please
+      specify what agency is taking him, please? Excuse me. They’re — nobody — they’re
+      not talking to me. I don’t know. Excuse me, the lawyer would like to speak to
+      somebody. Oh my god, they’re literally running away from me. AMY GOODMAN: That
+      was March. Mahmoud Khalil has now reunited with his wife and newborn son, after
+      he was released on bail less than two weeks ago by a federal judge following over
+      100 days in a Louisiana ICE jail. Khalil spoke outside the jail in Jena, Louisiana,
+      when he was freed. MAHMOUD KHALIL: No one is illegal. No human is illegal. That’s
+      the message. The message is: Justice will prevail, no matter what this administration
+      may try to portray. AMY GOODMAN: Two weeks ago, on Saturday, Democracy Now! was
+      at Newark Airport when Mahmoud Khalil was reunited with his wife and his son.
+      MAHMOUD KHALIL: I just want to go back and just continue the work that I was already
+      doing, advocating for Palestinian rights, a speech that should actually be celebrated
+      rather than punished, as this administration wants to do. AMY GOODMAN: Mahmoud
+      Khalil was standing next to the New York Congressmember Alexandria Ocasio-Cortez.
+      On Sunday, the following day, the Palestinian student leader, now graduate of
+      Columbia University, stood next to his wife, Noor Abdalla, and addressed over
+      a thousand supporters, as well as the press, on the Upper West Side outside the
+      Cathedral of St. John the Divine here in Manhattan, blocks from his campus of
+      Columbia University. MAHMOUD KHALIL: I would like to salute the courage of all
+      the students at Columbia and across the nation, these students who continue to
+      protest. I want to honor especially my friends at Columbia University, especially
+      those who are currently battling expulsion and suspension for their consciousness
+      stand. AMY GOODMAN: Mahmoud Khalil is lawful permanent resident green card holder
+      who has not been charged with any crimes, yet he was held in a Jena, Louisiana, ICE jail
+      for 104 days. This all comes amidst growing calls for Israel to be held accountable
+      for alleged war crimes in Gaza, including attacks on hospitals. Mahmoud Khalil
+      joins us now for his first live global broadcast since his release. Mahmoud, welcome
+      to Democracy Now! MAHMOUD KHALIL: Thanks, Amy. Thanks for having me. AMY GOODMAN:
+      So, I want to start with the same question I asked you at the airport: How does
+      it feel to be free? MAHMOUD KHALIL: I mean, absolutely, it goes without saying,
+      it feels — it feels good just to be reunited with the family and with my baby
+      son. But at the same time, it feels difficult watching the Palestinian people,
+      like, massacred, being massacred right now in Gaza. And this really adds more
+      responsibility on me to continue advocating for the rights of the Palestinians.
+      And this is what we should focus on right now, because my freedom is nothing compared
+      to the suffering that the Palestinian people are going through right now in Palestine.
+      And this is what the message should be, that whether it’s my arrest, whether the
+      focus right now on immigration, it’s just like a distraction of what’s really
+      happening in Palestine, that this administration is investing and funding war
+      crimes in Gaza, that this administration is unconditionally supporting Israel,
+      whether politically or militarily. This is what we should focus on rather than
+      individual cases, I believe. AMY GOODMAN: Mahmoud, I’m wondering if you can take
+      us back to March 8th, that day when you were taken by Homeland Security or federal
+      agents. I don’t even know — at this point, do you know who it is that you were
+      taken by? And what happened on that day, where you were? MAHMOUD KHALIL: Yeah,
+      so, the Trump administration basically illegally ripped me away from my family,
+      because they are simply trying to silence anyone speaking out against Israel atrocities
+      against the Palestinians. The officers or the agents who kidnapped me did not
+      introduce themselves. They said at first it’s police, then DHS, without giving
+      any details, without even presenting an arrest warrant, which is the most basic
+      thing that any law enforcement — any law enforcement should do in a country that
+      proclaims justice and due process, which unfortunately did not happen. So, they
+      basically kidnapped me and, for more than 30 hours, kept moving me from one place
+      to another, literally moving me more than 1,400 miles across the country. AMY GOODMAN:
+      Can I ask you something? One of the men who abducted you in your Columbia University
+      housing, is it true that he was the Homeland Security agent who was honored by
+      President Trump in his first term in office, Elvin Hernandez? MAHMOUD KHALIL:
+      To be honest, I don’t have concrete information about that. It has been only two
+      weeks since my release. I — AMY GOODMAN: And you didn’t know at the time who he
+      — MAHMOUD KHALIL: Inside, I didn’t have access to internet. AMY GOODMAN: You didn’t
+      know at the time who these men were. MAHMOUD KHALIL: I didn’t. AMY GOODMAN: So,
+      I mean — MAHMOUD KHALIL: No, no, I didn’t. Like, to be honest, the story that
+      the government presented was once over — one time over another changed to sort
+      of serve their part of the story. At the beginning, they said, “Well, we had an
+      arrest warrant, and we arrested Mahmoud outside of Columbia, of his Columbia residence.”
+      But then, when we presented the video evidence, they said, “Oh, he tried to flee.”
+      So, these agents are trained to lie, are trained to just instigate violence with
+      those who they are seeking to detain. AMY GOODMAN: So, we have played over and
+      over the video of your wife, Dr. Noor Abdalla, on the phone with the lawyer, desperately
+      trying to figure out what was happening and where you were being taken. In fact,
+      can you talk about when you had emailed the president of Columbia University,
+      Dr. Armstrong at the time, because you were so concerned about what was happening
+      to you? You wanted some kind of protection. MAHMOUD KHALIL: Yeah. I mean, ICE, ICE acts
+      as Trump’s militia arm. That’s the way that now they are functioning. And we can
+      see this evident not only in my case, in just like cases across the country. In
+      the weeks leading up to my arrest, I noticed a more vicious, coordinated smear
+      campaign against me online, the same — the same accounts mentioning Rubio, the
+      White House, mentioning also, like, just baseless claims about Mahmoud Khalil,
+      who he is, like an international student, a Hamas agent and all these labels.
+      So, I felt that since I didn’t have any legal, at that point, representation,
+      I wanted, like, Columbia first to protect me, because these actors are Columbia
+      students and faculty, the ones who were waging this smear campaign against me
+      online and calling for the administration to deport me. So, this is the minimum
+      that Columbia should have done, is to protect the students against these hostile
+      actors. So, and that was not — I mean, I sent the email the morning of my arrest,
+      I believe. And this was not the first email that we sent to Columbia and no answer.
+      Unfortunately, Columbia did not and does not, until now, treat all students as
+      equal. What they care about is basically money and protecting their brand, rather
+      than going and listening to their students, protecting their students with their
+      legitimate concerns, not to have any special treatment for the Palestinian or
+      the students supporting Palestine on campus. AMY GOODMAN: I’m wondering if Columbia
+      — MAHMOUD KHALIL: But Columbia failed to do that. AMY GOODMAN: Did Columbia University
+      support you in any way? I remember in the case of Rümeysa Öztürk, who is the Tufts
+      Fulbright scholar and graduate student also abducted by federal agents, Tufts
+      wrote a statement of support. And then Suri Khan, the Dr. Suri Khan at Georgetown,
+      Georgetown also spoke out. What about Columbia University on your behalf? MAHMOUD KHALIL:
+      Columbia did not offer any sort of support when it comes to the legal case. And
+      this is shameful on a university that claims to support international students
+      and to support the right of freedom of speech. But this was not surprising. Columbia
+      has capitulated to the Trump administration, but before then, they capitulated
+      to the Zionist donors and politicians in this country. So, to see them not offer
+      this kind of support absolutely was not surprising, unfortunately. AMY GOODMAN:
+      Can you talk about your time in the Jena ICE jail? You were held for over a hundred
+      days there. Can you talk about the other prisoners, the conditions under which
+      you were held? And then I want to get to the day your baby, your baby Deen, was
+      born without you there. But talk about the jail until that point. MAHMOUD KHALIL:
+      So, in jail, you spend 24/7 with the same people. So, one of the things that we
+      do is to just share stories from people from around the ward. And every day it’s
+      just a more heartbreaking story than another, with people being snatched off the
+      street or during their court hearings or ICE check-ins, where these people, like,
+      they were trying to fix their documentation. They committed no crimes whatsoever.
+      So, you have this shock with everyone who’s coming in around why they are there.
+      I shared a dorm with over 70 men, and the stories are really heartbreaking, Amy,
+      with people leaving their family outside without any kind of support, people who
+      don’t have their rights — don’t know their rights, don’t know if they have any
+      rights, in fact. And with ICE, who basically don’t tell anyone what their rights
+      are and just deport people, I’ve seen people who unknowingly sign their deportation
+      documents because ICE agents tricked them into doing so, which is a blatant violation
+      of any rule of law or due process. And just, like, to say that, like, the conditions
+      inside were horrible. The food was horrible, the sleep quality equally bad, and
+      just the atmosphere, where you are inside, you don’t know what’s happening, and
+      you’re just expecting to follow orders and wait for an ICE officer to come and
+      update you on your case. Unfortunately, a lot of these detainees don’t have legal
+      representation. And I was very privileged to have an amazing legal team fighting
+      on my behalf. And that took us three months for me to be released, despite me
+      being a legal resident in the United States. So, imagine for a lot of these individuals
+      who don’t have this kind of representation and who have, like, more complications
+      in their documentation. AMY GOODMAN: Mahmoud, can you talk about the day of Deen’s
+      birth, your firstborn son? How did you learn that Noor had given birth? MAHMOUD KHALIL:
+      That days was absolutely one of the most difficult days that I had to endure in
+      my life, being away from my wife and not having the opportunity to support her
+      during this moment. And I was over the phone, so I would call every hour just
+      to see, like, if Noor is in labor, yeah or no. And the moment of the delivery,
+      I spent like over three hours over the phone, from 1:00 — I think 1:30 in the
+      morning until 4:00 or 4:30, just, like, trying to support Noor as much as I could,
+      because I did not want to miss that moment at all. And what made it very difficult
+      is because, like, this could have been easily avoided, were the Trump administration
+      to follow the law, or at least, like, to offer me furlough, like, to go and be
+      with my family for a few hours. But they refused that, because this administration
+      thrives on cruelty and thrives on separation and family separation. So that was
+      not surprising. AMY GOODMAN: And can you talk about the moment when you met Deen
+      for the first time? I mean, as you describe it now, you really were with Noor
+      then. Of course, you were separate, but you were there. Over the phone, you heard
+      his first cries. But talk about holding him for the first time. I remember — I
+      mean, it was just weeks ago. Why it was that your lawyers had to fight, a battery
+      of lawyers, for so many hours for Noor and Deen, for you to be able to have a
+      contact visit? I mean, you have not been charged with a crime. But in the jail
+      — is that right — where it was, in Jena, Louisiana? MAHMOUD KHALIL: Yeah. As you
+      said, I mean, it shouldn’t take an army of lawyers to get a one-hour contact visit
+      to let me hold my son. The first time I saw my son was, in fact, through glass.
+      So, he was literally in front of me, but separated by glass. I couldn’t hold him
+      during the first time I saw him, which made me very, very angry about, like, a
+      one-centimeter or one-inch glass separating me from holding my son. And this is
+      all by design, the cruelty of this administration, because their goal is to punish
+      me as much as they could and in any way that they find, because what they want
+      is they want to break me. They want to make an example out of me. So, the first
+      time when we managed to get a court order, in fact — imagine getting a court order
+      to force ICE to let me hold my son. And we had it for literally an hour, 7:00
+      in the morning. So, even when they agreed to do that — or, not agreed — even when
+      they were forced to allow me to hold my son, they chose to make it at 7:00 in
+      the morning in detention. So, I mean, the feeling, I don’t think I can describe
+      it. I was both very happy, but at the same time very angry and sad that it took
+      us all this effort to have this one hour in detention. And basically, I was really
+      anxious. I was just looking at the clock, when this hour would end. I just didn’t
+      want this hour to end. And the hour was the fastest hour in my life, just like
+      — you know, like, it went like this. AMY GOODMAN: And so — MAHMOUD KHALIL: Yeah,
+      Amy. AMY GOODMAN: You were released less than two weeks ago, and now you are living
+      at home with your wife and your infant son. Do you feel safe? MAHMOUD KHALIL:
+      I don’t fully feel safe, to be honest, Amy. We all know the rhetoric that’s currently
+      going around in this country, the Islamophobia, the anti-Palestinian bigotry and
+      racism, and this violence that was exported by Israel to this country. I’m being
+      targeted by Israeli government-affiliated groups here in the U.S. who are very
+      dangerous, who would do anything to silence Palestinians, because, for them, silencing
+      is much more easier than dealing with the argument, because they have no argument
+      about what they are doing in Palestine. And this is why they want to shut off
+      the — shut down the conversation any way they can do, even if this would mean
+      hurting or harming me and my family. And it’s a huge concern. But it’s a price
+      that I need to accept for advocating for the rights of the Palestinian people,
+      because, once again, this is all just a distraction from the genocide in Palestine.
+      And these attempts to silence me are just one way for them to attack us and to
+      cut — just not to let the public know about what Israel is doing and how the U.S.
+      is complicit in this genocide. AMY GOODMAN: Mahmoud Khalil, you led a march from
+      the steps of St. John the Divine up to Columbia University, wearing a Palestinian
+      flag as a kind of cape, with a thousand supporters there, and you were one of
+      the leaders of the encampment at Columbia that led to so many protests and encampments
+      around the country on university campuses. Many of the protesters were Jewish.
+      Many of the supporters for you who would march when you were detained were Jewish.
+      I was wondering: What did that level of Jewish support mean to you here in the
+      United States? MAHMOUD KHALIL: First of all, just a correction: The student movement
+      at Columbia doesn’t have leaders. I believe all the students equally contribute
+      to the movement. And it’s being mobilized by a large number of students, hundreds
+      of students at Columbia University. But going back to your question, Amy, I mean,
+      Jewish students are an integral part of the student movement, whether at Columbia
+      or in the United States. And this is very, very important, because these Jewish
+      students, they show the world that what Israel is doing is not in their name,
+      is not in the name of Jewish safety, which is very important. And these, also,
+      Jewish students are acting upon their values, of protecting the — protecting the
+      weak or supporting justice. So, it’s really — to us, it’s very important. This
+      shows that the Palestinian cause goes beyond Palestinians, Arabs or Muslims. It’s
+      a universal cause for justice, for freedom and for human rights. AMY GOODMAN:
+      And finally, Mahmoud, as you are free now here in New York, you still face deportation?
+      MAHMOUD KHALIL: I do. I mean, now I’m out on bail, which means that the court
+      proceedings can continue while I am out. So, I’m still facing deportation. However,
+      a judge, a federal judge, ruled that the Rubio determination on what Rubio did
+      to me is likely unconstitutional, and that’s why he ordered my release on bail.
+      So I’m confident that we will prevail in court, that this administration attempts
+      to silence us wouldn’t succeed, and now that I will seek accountability. I will
+      seek accountability from this administration, from the individuals and actors
+      who contributed to my arrest, and now exploring these options with my lawyer,
+      because in the first place, what I was protesting, I was protesting for accountability,
+      to hold Columbia and the U.S. government accountable for their complicity in war
+      crimes and genocide against the Palestinians. And I will continue to do so, because
+      what happened to me shouldn’t have happened in the first place. I shouldn’t have
+      been prosecuted simply for my freedom of speech, simply for speaking up for Palestinian
+      rights. And those who have contributed to that in any way should be held accountable.
+      AMY GOODMAN: Mahmoud Khalil, thanks so much for joining us, Columbia University
+      graduate, Palestinian student activist, detained by ICE March 8th and held for
+      104 days at the ICE jail in Jena, Louisiana. During that time, his wife, Dr. Noor
+      Abdalla, gave birth to their first child, Deen. Mahmoud was released June 20th.
+      You can see him coming to Newark Airport and the next day’s event in front of
+      St. John the Divine with a thousand people greeting him at democracynow.org ,
+      as well as our interview with Mohsen Mahdawi, who also graduated from Columbia
+      University after being jailed in Vermont for several weeks. You can go to democracynow.org.
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . DemocracyNow! Democracy Now! produces a daily, global, independent
+      news hour hosted by award-winning journalists Amy Goodman and Juan González. Our
+      reporting includes breaking daily news headlines and in-depth interviews with
+      people on the front lines of the world’s most pressing issues. On Democracy Now!,
+      you’ll hear a diversity of voices speaking for themselves, providing a unique
+      and sometimes provocative perspective on global events. Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: Palestinian activist Mahmoud Khalil, recently released from
+      ICE detention, discusses his experiences and the ongoing threat of deportation
+      while advocating against the U.S.-backed Israeli war on Gaza in his first live
+      interview since his release.
+    paragraph_summary: In a recent interview with Democracy Now!, Palestinian activist
+      Mahmoud Khalil, who was released from ICE detention, shared his harrowing experiences
+      behind bars and the ongoing threat of deportation he faces. Khalil, a Columbia
+      University graduate and the first pro-Palestinian campus protester jailed under
+      the Trump administration, emphasized his commitment to speaking out against the
+      U.S.-backed Israeli war on Gaza, which he believes is being obscured by attempts
+      to silence him. Meanwhile, the situation in Gaza remains dire, with officials
+      reporting over 300 Palestinian deaths due to Israeli attacks in just 48 hours,
+      including the killing of healthcare workers and civilians seeking aid. Recent
+      footage has emerged showing U.S. contractors at aid distribution sites using live
+      ammunition against desperate Palestinians, highlighting the severe humanitarian
+      crisis exacerbated by the conflict.
+    published: '2025-07-04T09:00:00+00:00'
+  - title: 'EXCLUSIVE: Mahmoud Khalil, Palestinian Activist Jailed by ICE for 104 Days,
+      in First Live Interview'
+    url: https://scheerpost.com/2025/07/04/exclusive-mahmoud-khalil-palestinian-activist-jailed-by-ice-for-104-days-in-first-live-interview/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By DemocracyNow!
+      In his first live broadcast interview since being released from ICE detention,
+      Palestinian activist Mahmoud Khalil tells Democracy Now! about his experience
+      behind bars, the ongoing threat of deportation that hangs over him and why he
+      continues to speak out against the U.S.-backed Israeli war on Gaza. The Columbia
+      University graduate was the first pro-Palestinian campus protester to be jailed
+      by the Trump administration. Khalil is now reunited with his wife Noor and newborn
+      son Deen, after he was released on bail last month by a federal judge. Khalil
+      says the Trump administration’s attempts to silence him are “a distraction from
+      the genocide in Palestine.” Transcript This is a rush transcript. Copy may not
+      be in its final form. AMY GOODMAN: This is Democracy Now! , democracynow.org,
+      The War and Peace Report . I’m Amy Goodman. Officials in Gaza say Israeli attacks
+      have killed over 300 Palestinians over the past 48 hours. One strike on the home
+      of the renowned cardiologist Marwan al-Sultan at Indonesian Hospital killed the
+      doctor, along with his mother, sister and aunt. He’s at least the 70th healthcare
+      worker killed by Israel in the past 50 days. This comes as Palestinians say at
+      least 33 people were slaughtered today as they lined up for aid at militarized
+      aid distribution sites run by the U.S.- and Israeli-backed so-called Gaza Humanitarian
+      Foundation. The reportedly unprovoked killings came as the Associated Press published
+      recent video showing U.S. contractors at GHF sites firing live ammunition and
+      stun grenades at starving Palestinians as they scrambled for food. The AP says
+      it received the footage from two U.S. contractors who wish to remain anonymous
+      in order to blow the whistle on abuses. The contractors report security staffers
+      were often unqualified, unvetted, heavily armed, and seemed to have an open license
+      to do whatever they wished. In this clip published by the AP, contractors erupt
+      in cheers as shots ring out. JULIA FRANKEL: At that moment, bursts of gunfire
+      erupt close by, at least 15 shots. U.S. CONTRACTOR 1: I think you hit one. U.S. CONTRACTOR 1:
+      Hell, yeah, boy! AMY GOODMAN: This comes as the Trump administration continues
+      its crackdown on pro-Palestinian demonstrators, especially at universities across
+      the United States. In a moment, we’ll be joined by the first pro-Palestinian campus
+      protester to be jailed by the Trump administration: Columbia University graduate
+      and Palestinian student protest leader Mahmoud Khalil. Video shows his arrest
+      on March 8th, when he was detained by plainclothes officers who did not identify
+      themselves. The video was filmed by his eight-month-pregnant wife, Noor Abdalla,
+      whose voice you’re hearing in this clip. DR. NOOR ABDALLA: Can you — can you please
+      specify what agency is taking him, please? Excuse me. They’re — nobody — they’re
+      not talking to me. I don’t know. Excuse me, the lawyer would like to speak to
+      somebody. Oh my god, they’re literally running away from me. AMY GOODMAN: That
+      was March. Mahmoud Khalil has now reunited with his wife and newborn son, after
+      he was released on bail less than two weeks ago by a federal judge following over
+      100 days in a Louisiana ICE jail. Khalil spoke outside the jail in Jena, Louisiana,
+      when he was freed. MAHMOUD KHALIL: No one is illegal. No human is illegal. That’s
+      the message. The message is: Justice will prevail, no matter what this administration
+      may try to portray. AMY GOODMAN: Two weeks ago, on Saturday, Democracy Now! was
+      at Newark Airport when Mahmoud Khalil was reunited with his wife and his son.
+      MAHMOUD KHALIL: I just want to go back and just continue the work that I was already
+      doing, advocating for Palestinian rights, a speech that should actually be celebrated
+      rather than punished, as this administration wants to do. AMY GOODMAN: Mahmoud
+      Khalil was standing next to the New York Congressmember Alexandria Ocasio-Cortez.
+      On Sunday, the following day, the Palestinian student leader, now graduate of
+      Columbia University, stood next to his wife, Noor Abdalla, and addressed over
+      a thousand supporters, as well as the press, on the Upper West Side outside the
+      Cathedral of St. John the Divine here in Manhattan, blocks from his campus of
+      Columbia University. MAHMOUD KHALIL: I would like to salute the courage of all
+      the students at Columbia and across the nation, these students who continue to
+      protest. I want to honor especially my friends at Columbia University, especially
+      those who are currently battling expulsion and suspension for their consciousness
+      stand. AMY GOODMAN: Mahmoud Khalil is lawful permanent resident green card holder
+      who has not been charged with any crimes, yet he was held in a Jena, Louisiana, ICE jail
+      for 104 days. This all comes amidst growing calls for Israel to be held accountable
+      for alleged war crimes in Gaza, including attacks on hospitals. Mahmoud Khalil
+      joins us now for his first live global broadcast since his release. Mahmoud, welcome
+      to Democracy Now! MAHMOUD KHALIL: Thanks, Amy. Thanks for having me. AMY GOODMAN:
+      So, I want to start with the same question I asked you at the airport: How does
+      it feel to be free? MAHMOUD KHALIL: I mean, absolutely, it goes without saying,
+      it feels — it feels good just to be reunited with the family and with my baby
+      son. But at the same time, it feels difficult watching the Palestinian people,
+      like, massacred, being massacred right now in Gaza. And this really adds more
+      responsibility on me to continue advocating for the rights of the Palestinians.
+      And this is what we should focus on right now, because my freedom is nothing compared
+      to the suffering that the Palestinian people are going through right now in Palestine.
+      And this is what the message should be, that whether it’s my arrest, whether the
+      focus right now on immigration, it’s just like a distraction of what’s really
+      happening in Palestine, that this administration is investing and funding war
+      crimes in Gaza, that this administration is unconditionally supporting Israel,
+      whether politically or militarily. This is what we should focus on rather than
+      individual cases, I believe. AMY GOODMAN: Mahmoud, I’m wondering if you can take
+      us back to March 8th, that day when you were taken by Homeland Security or federal
+      agents. I don’t even know — at this point, do you know who it is that you were
+      taken by? And what happened on that day, where you were? MAHMOUD KHALIL: Yeah,
+      so, the Trump administration basically illegally ripped me away from my family,
+      because they are simply trying to silence anyone speaking out against Israel atrocities
+      against the Palestinians. The officers or the agents who kidnapped me did not
+      introduce themselves. They said at first it’s police, then DHS, without giving
+      any details, without even presenting an arrest warrant, which is the most basic
+      thing that any law enforcement — any law enforcement should do in a country that
+      proclaims justice and due process, which unfortunately did not happen. So, they
+      basically kidnapped me and, for more than 30 hours, kept moving me from one place
+      to another, literally moving me more than 1,400 miles across the country. AMY GOODMAN:
+      Can I ask you something? One of the men who abducted you in your Columbia University
+      housing, is it true that he was the Homeland Security agent who was honored by
+      President Trump in his first term in office, Elvin Hernandez? MAHMOUD KHALIL:
+      To be honest, I don’t have concrete information about that. It has been only two
+      weeks since my release. I — AMY GOODMAN: And you didn’t know at the time who he
+      — MAHMOUD KHALIL: Inside, I didn’t have access to internet. AMY GOODMAN: You didn’t
+      know at the time who these men were. MAHMOUD KHALIL: I didn’t. AMY GOODMAN: So,
+      I mean — MAHMOUD KHALIL: No, no, I didn’t. Like, to be honest, the story that
+      the government presented was once over — one time over another changed to sort
+      of serve their part of the story. At the beginning, they said, “Well, we had an
+      arrest warrant, and we arrested Mahmoud outside of Columbia, of his Columbia residence.”
+      But then, when we presented the video evidence, they said, “Oh, he tried to flee.”
+      So, these agents are trained to lie, are trained to just instigate violence with
+      those who they are seeking to detain. AMY GOODMAN: So, we have played over and
+      over the video of your wife, Dr. Noor Abdalla, on the phone with the lawyer, desperately
+      trying to figure out what was happening and where you were being taken. In fact,
+      can you talk about when you had emailed the president of Columbia University,
+      Dr. Armstrong at the time, because you were so concerned about what was happening
+      to you? You wanted some kind of protection. MAHMOUD KHALIL: Yeah. I mean, ICE, ICE acts
+      as Trump’s militia arm. That’s the way that now they are functioning. And we can
+      see this evident not only in my case, in just like cases across the country. In
+      the weeks leading up to my arrest, I noticed a more vicious, coordinated smear
+      campaign against me online, the same — the same accounts mentioning Rubio, the
+      White House, mentioning also, like, just baseless claims about Mahmoud Khalil,
+      who he is, like an international student, a Hamas agent and all these labels.
+      So, I felt that since I didn’t have any legal, at that point, representation,
+      I wanted, like, Columbia first to protect me, because these actors are Columbia
+      students and faculty, the ones who were waging this smear campaign against me
+      online and calling for the administration to deport me. So, this is the minimum
+      that Columbia should have done, is to protect the students against these hostile
+      actors. So, and that was not — I mean, I sent the email the morning of my arrest,
+      I believe. And this was not the first email that we sent to Columbia and no answer.
+      Unfortunately, Columbia did not and does not, until now, treat all students as
+      equal. What they care about is basically money and protecting their brand, rather
+      than going and listening to their students, protecting their students with their
+      legitimate concerns, not to have any special treatment for the Palestinian or
+      the students supporting Palestine on campus. AMY GOODMAN: I’m wondering if Columbia
+      — MAHMOUD KHALIL: But Columbia failed to do that. AMY GOODMAN: Did Columbia University
+      support you in any way? I remember in the case of Rümeysa Öztürk, who is the Tufts
+      Fulbright scholar and graduate student also abducted by federal agents, Tufts
+      wrote a statement of support. And then Suri Khan, the Dr. Suri Khan at Georgetown,
+      Georgetown also spoke out. What about Columbia University on your behalf? MAHMOUD KHALIL:
+      Columbia did not offer any sort of support when it comes to the legal case. And
+      this is shameful on a university that claims to support international students
+      and to support the right of freedom of speech. But this was not surprising. Columbia
+      has capitulated to the Trump administration, but before then, they capitulated
+      to the Zionist donors and politicians in this country. So, to see them not offer
+      this kind of support absolutely was not surprising, unfortunately. AMY GOODMAN:
+      Can you talk about your time in the Jena ICE jail? You were held for over a hundred
+      days there. Can you talk about the other prisoners, the conditions under which
+      you were held? And then I want to get to the day your baby, your baby Deen, was
+      born without you there. But talk about the jail until that point. MAHMOUD KHALIL:
+      So, in jail, you spend 24/7 with the same people. So, one of the things that we
+      do is to just share stories from people from around the ward. And every day it’s
+      just a more heartbreaking story than another, with people being snatched off the
+      street or during their court hearings or ICE check-ins, where these people, like,
+      they were trying to fix their documentation. They committed no crimes whatsoever.
+      So, you have this shock with everyone who’s coming in around why they are there.
+      I shared a dorm with over 70 men, and the stories are really heartbreaking, Amy,
+      with people leaving their family outside without any kind of support, people who
+      don’t have their rights — don’t know their rights, don’t know if they have any
+      rights, in fact. And with ICE, who basically don’t tell anyone what their rights
+      are and just deport people, I’ve seen people who unknowingly sign their deportation
+      documents because ICE agents tricked them into doing so, which is a blatant violation
+      of any rule of law or due process. And just, like, to say that, like, the conditions
+      inside were horrible. The food was horrible, the sleep quality equally bad, and
+      just the atmosphere, where you are inside, you don’t know what’s happening, and
+      you’re just expecting to follow orders and wait for an ICE officer to come and
+      update you on your case. Unfortunately, a lot of these detainees don’t have legal
+      representation. And I was very privileged to have an amazing legal team fighting
+      on my behalf. And that took us three months for me to be released, despite me
+      being a legal resident in the United States. So, imagine for a lot of these individuals
+      who don’t have this kind of representation and who have, like, more complications
+      in their documentation. AMY GOODMAN: Mahmoud, can you talk about the day of Deen’s
+      birth, your firstborn son? How did you learn that Noor had given birth? MAHMOUD KHALIL:
+      That days was absolutely one of the most difficult days that I had to endure in
+      my life, being away from my wife and not having the opportunity to support her
+      during this moment. And I was over the phone, so I would call every hour just
+      to see, like, if Noor is in labor, yeah or no. And the moment of the delivery,
+      I spent like over three hours over the phone, from 1:00 — I think 1:30 in the
+      morning until 4:00 or 4:30, just, like, trying to support Noor as much as I could,
+      because I did not want to miss that moment at all. And what made it very difficult
+      is because, like, this could have been easily avoided, were the Trump administration
+      to follow the law, or at least, like, to offer me furlough, like, to go and be
+      with my family for a few hours. But they refused that, because this administration
+      thrives on cruelty and thrives on separation and family separation. So that was
+      not surprising. AMY GOODMAN: And can you talk about the moment when you met Deen
+      for the first time? I mean, as you describe it now, you really were with Noor
+      then. Of course, you were separate, but you were there. Over the phone, you heard
+      his first cries. But talk about holding him for the first time. I remember — I
+      mean, it was just weeks ago. Why it was that your lawyers had to fight, a battery
+      of lawyers, for so many hours for Noor and Deen, for you to be able to have a
+      contact visit? I mean, you have not been charged with a crime. But in the jail
+      — is that right — where it was, in Jena, Louisiana? MAHMOUD KHALIL: Yeah. As you
+      said, I mean, it shouldn’t take an army of lawyers to get a one-hour contact visit
+      to let me hold my son. The first time I saw my son was, in fact, through glass.
+      So, he was literally in front of me, but separated by glass. I couldn’t hold him
+      during the first time I saw him, which made me very, very angry about, like, a
+      one-centimeter or one-inch glass separating me from holding my son. And this is
+      all by design, the cruelty of this administration, because their goal is to punish
+      me as much as they could and in any way that they find, because what they want
+      is they want to break me. They want to make an example out of me. So, the first
+      time when we managed to get a court order, in fact — imagine getting a court order
+      to force ICE to let me hold my son. And we had it for literally an hour, 7:00
+      in the morning. So, even when they agreed to do that — or, not agreed — even when
+      they were forced to allow me to hold my son, they chose to make it at 7:00 in
+      the morning in detention. So, I mean, the feeling, I don’t think I can describe
+      it. I was both very happy, but at the same time very angry and sad that it took
+      us all this effort to have this one hour in detention. And basically, I was really
+      anxious. I was just looking at the clock, when this hour would end. I just didn’t
+      want this hour to end. And the hour was the fastest hour in my life, just like
+      — you know, like, it went like this. AMY GOODMAN: And so — MAHMOUD KHALIL: Yeah,
+      Amy. AMY GOODMAN: You were released less than two weeks ago, and now you are living
+      at home with your wife and your infant son. Do you feel safe? MAHMOUD KHALIL:
+      I don’t fully feel safe, to be honest, Amy. We all know the rhetoric that’s currently
+      going around in this country, the Islamophobia, the anti-Palestinian bigotry and
+      racism, and this violence that was exported by Israel to this country. I’m being
+      targeted by Israeli government-affiliated groups here in the U.S. who are very
+      dangerous, who would do anything to silence Palestinians, because, for them, silencing
+      is much more easier than dealing with the argument, because they have no argument
+      about what they are doing in Palestine. And this is why they want to shut off
+      the — shut down the conversation any way they can do, even if this would mean
+      hurting or harming me and my family. And it’s a huge concern. But it’s a price
+      that I need to accept for advocating for the rights of the Palestinian people,
+      because, once again, this is all just a distraction from the genocide in Palestine.
+      And these attempts to silence me are just one way for them to attack us and to
+      cut — just not to let the public know about what Israel is doing and how the U.S.
+      is complicit in this genocide. AMY GOODMAN: Mahmoud Khalil, you led a march from
+      the steps of St. John the Divine up to Columbia University, wearing a Palestinian
+      flag as a kind of cape, with a thousand supporters there, and you were one of
+      the leaders of the encampment at Columbia that led to so many protests and encampments
+      around the country on university campuses. Many of the protesters were Jewish.
+      Many of the supporters for you who would march when you were detained were Jewish.
+      I was wondering: What did that level of Jewish support mean to you here in the
+      United States? MAHMOUD KHALIL: First of all, just a correction: The student movement
+      at Columbia doesn’t have leaders. I believe all the students equally contribute
+      to the movement. And it’s being mobilized by a large number of students, hundreds
+      of students at Columbia University. But going back to your question, Amy, I mean,
+      Jewish students are an integral part of the student movement, whether at Columbia
+      or in the United States. And this is very, very important, because these Jewish
+      students, they show the world that what Israel is doing is not in their name,
+      is not in the name of Jewish safety, which is very important. And these, also,
+      Jewish students are acting upon their values, of protecting the — protecting the
+      weak or supporting justice. So, it’s really — to us, it’s very important. This
+      shows that the Palestinian cause goes beyond Palestinians, Arabs or Muslims. It’s
+      a universal cause for justice, for freedom and for human rights. AMY GOODMAN:
+      And finally, Mahmoud, as you are free now here in New York, you still face deportation?
+      MAHMOUD KHALIL: I do. I mean, now I’m out on bail, which means that the court
+      proceedings can continue while I am out. So, I’m still facing deportation. However,
+      a judge, a federal judge, ruled that the Rubio determination on what Rubio did
+      to me is likely unconstitutional, and that’s why he ordered my release on bail.
+      So I’m confident that we will prevail in court, that this administration attempts
+      to silence us wouldn’t succeed, and now that I will seek accountability. I will
+      seek accountability from this administration, from the individuals and actors
+      who contributed to my arrest, and now exploring these options with my lawyer,
+      because in the first place, what I was protesting, I was protesting for accountability,
+      to hold Columbia and the U.S. government accountable for their complicity in war
+      crimes and genocide against the Palestinians. And I will continue to do so, because
+      what happened to me shouldn’t have happened in the first place. I shouldn’t have
+      been prosecuted simply for my freedom of speech, simply for speaking up for Palestinian
+      rights. And those who have contributed to that in any way should be held accountable.
+      AMY GOODMAN: Mahmoud Khalil, thanks so much for joining us, Columbia University
+      graduate, Palestinian student activist, detained by ICE March 8th and held for
+      104 days at the ICE jail in Jena, Louisiana. During that time, his wife, Dr. Noor
+      Abdalla, gave birth to their first child, Deen. Mahmoud was released June 20th.
+      You can see him coming to Newark Airport and the next day’s event in front of
+      St. John the Divine with a thousand people greeting him at democracynow.org ,
+      as well as our interview with Mohsen Mahdawi, who also graduated from Columbia
+      University after being jailed in Vermont for several weeks. You can go to democracynow.org.
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . DemocracyNow! Democracy Now! produces a daily, global, independent
+      news hour hosted by award-winning journalists Amy Goodman and Juan González. Our
+      reporting includes breaking daily news headlines and in-depth interviews with
+      people on the front lines of the world’s most pressing issues. On Democracy Now!,
+      you’ll hear a diversity of voices speaking for themselves, providing a unique
+      and sometimes provocative perspective on global events. Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: Palestinian activist Mahmoud Khalil, recently released from
+      ICE detention, discusses his experiences and the ongoing threat of deportation
+      while advocating against the U.S.-backed Israeli war on Gaza in his first live
+      interview since his release.
+    paragraph_summary: In a recent interview with Democracy Now!, Palestinian activist
+      Mahmoud Khalil, who was released from ICE detention, shared his harrowing experiences
+      behind bars and the ongoing threat of deportation he faces. Khalil, a Columbia
+      University graduate and the first pro-Palestinian campus protester jailed under
+      the Trump administration, emphasized his commitment to speaking out against the
+      U.S.-backed Israeli war on Gaza, which he believes is being obscured by attempts
+      to silence him. Meanwhile, the situation in Gaza remains dire, with officials
+      reporting over 300 Palestinian deaths due to Israeli attacks in just 48 hours,
+      including the killing of healthcare workers and civilians seeking aid. Recent
+      footage has emerged showing U.S. contractors at aid distribution sites using live
+      ammunition against desperate Palestinians, highlighting the severe humanitarian
+      crisis exacerbated by the conflict.
+    published: '2025-07-04T09:00:00+00:00'
   - title: 'Spying on Iran: How MI6 Infiltrated the IAEA'
     url: https://scheerpost.com/2025/07/03/spying-on-iran-how-mi6-infiltrated-the-iaea/
     text: 'Design by The Grayzone.

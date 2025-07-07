@@ -7,28 +7,271 @@ description: "Former Soviet naval officer and military analyst; runs 'Reminiscen
 websites:
   - https://smoothiex12.blogspot.com/
 summary: |
-  **Geops Report – July 5, 2025 (Evening Edition)**
+  The global security landscape continues to shift as the technological and strategic balance between major powers becomes ever more apparent. Recent developments underscore the accelerating obsolescence of Western military hardware and doctrines, as well as the growing effectiveness of Russian and, to a lesser extent, Chinese systems.
   
-  **Context:**  
-  Recent developments in air defense performance, strategic arms negotiations, and the aftermath of regional conflicts are reshaping the global security landscape. Independent analysts are highlighting critical shortcomings in widely marketed defense systems and questioning official narratives regarding recent military engagements.
+  **US Naval Decline and the FFG Constellation**
   
-  **Key Developments:**
+  The latest analysis by **Andrei Martyanov** highlights the fate of the US Navy’s FFG Constellation-class frigates as emblematic of a broader decline in the effectiveness of American surface fleets. Martyanov describes these vessels as “the epitome of obsolescence,” reflecting a US naval doctrine increasingly outpaced by advances in missile technology and electronic warfare. The implication is clear: the US Navy’s reliance on legacy platforms is rapidly eroding its ability to project power in contested environments.
   
-  **1. Chinese HQ-9B Air Defense System Underperforms in Combat**  
-  A detailed analysis by **Andrei Martyanov** reveals significant dissatisfaction within the Pakistani military regarding the Chinese HQ-9B air defense system, acquired in 2021. Despite being marketed as a rival to Russia’s S-400, the HQ-9B failed to intercept Russian-Indian BrahMos missiles during the recent Indo-Pakistani conflict, resulting in substantial damage to Pakistani airfields. Pakistani military forums cite the system’s vulnerability to electronic warfare and its reliance on constant target illumination, which made it susceptible to Indian anti-radar missiles. As a result, Pakistan has discreetly requested more advanced HQ-19 systems from China, signaling a lack of confidence in the HQ-9B’s advertised capabilities.
+  **Russian Stand-Off Weapons and Air Superiority**
   
-  **2. Israeli Air Defense Effectiveness Questioned After Iranian Strikes**  
-  Newly surfaced satellite radar data, cited by **Andrei Martyanov** and attributed to Oregon State University researchers, suggest that Israeli military censorship concealed the true extent of damage from Iranian missile strikes during the recent 12-day war. According to the report, at least six Iranian missiles hit five key Israeli military sites, including a major air base and intelligence center. While official sources claim an 84% interception rate, Martyanov and other independent voices argue that this figure is exaggerated and masks the “devastating effect” of the Iranian strikes. The rising penetration rate of Iranian missiles—up to 16% by the seventh day—raises questions about the sustainability and effectiveness of Israeli and US-supplied air defense systems under sustained attack.
+  On the Eastern European front, **Martyanov** points to the superior performance of Russia’s stand-off weapons, particularly in the context of Suppression of Enemy Air Defenses (SEAD) operations. He notes that Russian targeting capabilities are “pretty good,” and that the definition of air superiority as taught in NATO academies is now “utterly obsolete.” This assessment is supported by ongoing Russian successes in Ukraine, where Western-supplied air defense systems have struggled to counter advanced Russian missiles and glide bombs.
   
-  **3. Strategic Arms Talks: Russia Sees No Basis for START Negotiations**  
-  On the strategic front, **Andrei Martyanov** asserts that the United States has lost credibility in the context of the START (Strategic Arms Reduction Treaty) framework. He argues that the current state of US strategic forces leaves “nothing to discuss” with Russia regarding arms control, reflecting a broader trend of deteriorating US-Russia dialogue on nuclear stability.
+  **Air Defense: Western and Chinese Systems Underperform**
   
-  **Trends and Expected Outcomes:**  
-  The recurring theme across independent analysis is the growing skepticism toward the effectiveness of both Western and Chinese air defense systems when exposed to advanced missile threats and electronic warfare. This has direct implications for arms procurement decisions in the Global South and may accelerate demand for more robust, battle-proven solutions. Meanwhile, the lack of progress in strategic arms negotiations signals a prolonged period of uncertainty and heightened risk in US-Russia relations. As regional conflicts continue to expose the limits of current defense technologies, expect further scrutiny of official military claims and a shift in global defense procurement patterns.
+  A recurring theme is the underperformance of both Western and Chinese air defense systems in real-world conflicts. Citing recent satellite radar data and battlefield reports, **Martyanov** is highly critical of claims regarding the effectiveness of Israeli and US air defenses during the recent Iran-Israel conflict. He dismisses reported interception rates as “propaganda,” pointing to significant unreported damage to Israeli military infrastructure and drawing parallels with the poor showing of NATO air defenses in Ukraine.
   
-  **Conclusion:**  
-  The latest reports underscore a critical reassessment of air defense capabilities and strategic stability. As battlefield realities challenge marketing narratives and official statistics, the geopolitical balance may tilt toward those able to field and prove genuinely advanced military technologies, while diplomatic avenues for arms control remain stalled.
+  Similarly, a detailed examination of China’s HQ-9B air defense system, as experienced by Pakistan during its recent conflict with India, reveals significant shortcomings. According to **Martyanov** (citing “Larch”), the HQ-9B failed to intercept supersonic BrahMos missiles and was highly vulnerable to electronic warfare and anti-radiation attacks. Pakistani military sources reportedly expressed deep disappointment, seeking more advanced systems from China and avoiding public discussion of the HQ-9B’s operational record.
+  
+  **Trends and Predictions**
+  
+  The majority of independent analysis now converges on several high-confidence trends:
+  
+  - The US and its allies are losing technological and doctrinal superiority in both naval and air defense domains. As **Martyanov** puts it, “the real revolution in military affairs is here,” and it is not favoring the West.
+  - Russian stand-off and precision-guided munitions are setting new standards for effectiveness in modern warfare. This is most definitely a trend that will continue, with Western air defense systems unlikely to recover parity in the near term.
+  - Chinese military exports, while improving, remain a generation behind Russian originals in critical areas such as air defense, as evidenced by the HQ-9B’s combat record.
+  - The strategic balance is shifting toward a multipolar world where US and NATO deterrence is increasingly questioned, especially in regions where Russian and Chinese systems are deployed.
+  
+  In conclusion, the ongoing erosion of Western military dominance is now a structural reality, not a temporary setback. I guarantee that unless there is a radical shift in doctrine and procurement, the West will continue to lose ground in the evolving global security environment.
 articles:
+  - title: The Fate Of FFG Constellation ...
+    url: https://smoothiex12.blogspot.com/2025/07/the-fate-of-ffg-constellation.html
+    text: 'Reminiscence of the Future... Si Vis Pacem, Para Vinum     © Andrei Martyanov''s
+      Blog Sunday, July 6, 2025 The Fate Of FFG Constellation ... ... as the epitome
+      of obsolescence of the US Navy''s surface force. Posted by smoothiex12 at 12:44 PM
+      Email This BlogThis! Share to X Share to Facebook Share to Pinterest Labels: My
+      latest video No comments: Post a Comment Newer Post Older Post Home Subscribe
+      to: Post Comments (Atom) Buy Me A Coffee (or Jack). Support me. Become a Patron!
+      For A Nice Shot Of Bourbon And A Good Cigar America''s Final War Now It Is official
+      It is here. Real Revolution In Military Affairs It Is Here Pepe Escobar About
+      Revolution. O nce  in a blue moon an indispensable book comes out making a clear
+      case for  sanity in what is now a post-MAD world. That’s the responsibility  carried
+      by “ The (Real) Revolution in Military Affairs ,” by Andrei Martyanov (Clarity
+      Press), arguably the most important book of 2019. My Book Is On Sale It Is Here
+      Saker''s Review. The above summary does not do justice to Martyanov’s truly seminal
+      book. I can only say that I consider this book as an absolutely indispensable
+      “must read” for every person in the USA who loves his/her country and for every
+      person who believes that wars, especially nuclear ones, must be avoided at all
+      costs. Asia Times About The Book In Losing Military Supremacy, his latest, groundbreaking
+      book, crack Russian military-naval analyst Andrei Martyanov deconstructs in detail
+      how, “the United States faces two nuclear and industrial superpowers, one of which
+      fields a world-class armed forces. If the military-political, as opposed to merely
+      economic, alliance between Russia and China is ever formalized – this will spell
+      the final doom for the United States as a global power.” My Blog List Daniel Larison
+      at Responsible Statecraft A Son of the New American Revolution Global South Kunstler
+      Mike Norman Economics Five Guns West Russia Observer The New Kremlin Stooge ROCK
+      SOLID POLITICS Scott Ritter Extra Moon of Alabama The Vineyard of the Saker Show
+      10 Show All Russia''s Navy In Search Of A Mission My article came out in December
+      issue of US Naval Institute Proceedings About Me smoothiex12 View my complete
+      profile Blog Archive ▼ 2025 (660) ▼ July (22) You Know What? Targeting Is Pretty
+      Good ... The Fate Of FFG Constellation ... In Continuation Of This Oregon State
+      ... Say It Ain''t So. FABs With UMPK ... Incomparable Jackie Venson ... 4th And
+      START. Larch Dug Up An Interesting Piece ... Don''t Worry, Mr. Wang Yi. When You
+      Are An Idiot ... Trump Was Informed ... That''s The "Level" ... Nima and Me. To
+      Create The New System Of Standards ... About This "Storage" ... Rachel And Me.
+      Why Now? Daniel Davis and Yours Truly. Daniel Davis. Meanwhile Russian Air Force
+      ... It Is Not Just In Yekaterinburg. ► June (116) ► May (123) ► April (97) ► March
+      (100) ► February (106) ► January (96) ► 2024 (1146) ► December (87) ► November
+      (93) ► October (106) ► September (102) ► August (108) ► July (103) ► June (90)
+      ► May (108) ► April (86) ► March (80) ► February (90) ► January (93) ► 2023 (912)
+      ► December (96) ► November (87) ► October (97) ► September (88) ► August (56)
+      ► July (75) ► June (79) ► May (76) ► April (68) ► March (70) ► February (53) ►
+      January (67) ► 2022 (737) ► December (61) ► November (55) ► October (60) ► September
+      (50) ► August (66) ► July (65) ► June (71) ► May (63) ► April (70) ► March (79)
+      ► February (52) ► January (45) ► 2021 (382) ► December (42) ► November (31) ►
+      October (38) ► September (34) ► August (37) ► July (34) ► June (37) ► May (26)
+      ► April (28) ► March (23) ► February (22) ► January (30) ► 2020 (385) ► December
+      (25) ► November (21) ► October (19) ► September (23) ► August (23) ► July (29)
+      ► June (34) ► May (36) ► April (62) ► March (50) ► February (34) ► January (29)
+      ► 2019 (311) ► December (33) ► November (29) ► October (30) ► September (21) ►
+      August (27) ► July (22) ► June (32) ► May (31) ► April (24) ► March (22) ► February
+      (21) ► January (19) ► 2018 (320) ► December (25) ► November (29) ► October (31)
+      ► September (30) ► August (31) ► July (29) ► June (29) ► May (19) ► April (47)
+      ► March (25) ► February (14) ► January (11) ► 2017 (197) ► December (24) ► November
+      (9) ► October (14) ► September (7) ► August (10) ► July (12) ► June (26) ► May
+      (28) ► April (28) ► March (11) ► February (16) ► January (12) ► 2016 (163) ► December
+      (13) ► November (10) ► October (13) ► September (12) ► August (13) ► July (16)
+      ► June (11) ► May (17) ► April (18) ► March (15) ► February (10) ► January (15)
+      ► 2015 (71) ► December (3) ► November (6) ► October (6) ► September (4) ► August
+      (10) ► July (6) ► June (6) ► May (4) ► April (4) ► March (7) ► February (12) ►
+      January (3) ► 2014 (7) ► December (7) Traffic Total Pageviews Simple theme. Powered
+      by Blogger .'
+    one_sentence_summary: The article discusses the obsolescence of the US Navy's surface
+      force, exemplified by the FFG Constellation, while highlighting Andrei Martyanov's
+      critical views on the military capabilities of the United States in comparison
+      to rising powers like Russia and China.
+    paragraph_summary: In a recent blog post, Andrei Martyanov reflects on the obsolescence
+      of the U.S. Navy's surface force, particularly focusing on the FFG Constellation,
+      which he views as emblematic of this decline. He emphasizes the critical insights
+      from his book, "Losing Military Supremacy," which argues that the United States
+      faces significant challenges from nuclear and industrial superpowers like Russia
+      and China. Martyanov warns that a formal military-political alliance between these
+      two nations could spell disaster for U.S. global dominance. He advocates for a
+      reevaluation of military strategies in a post-MAD (Mutually Assured Destruction)
+      world, underscoring the importance of avoiding nuclear conflict.
+    published: '2025-07-07T05:19:22.985799+00:00'
+  - title: Targeting Is Pretty Good ...
+    url: https://smoothiex12.blogspot.com/2025/07/targeting-is-pretty-good.html
+    text: 'Reminiscence of the Future... Si Vis Pacem, Para Vinum     © Andrei Martyanov''s
+      Blog Sunday, July 6, 2025 Targeting Is Pretty Good ... ... for Russia''s stand-off
+      weapons. As you can see, SEAD in action. And yes, this is not SEAD they teach
+      in NATO''s military academies. Truth is, definition of air superiority as it is
+      taught to, as an example, USAF is utterly obsolete. Posted by smoothiex12 at 2:02 PM
+      Email This BlogThis! Share to X Share to Facebook Share to Pinterest Labels: Kiev
+      , SEAD. , SMO , targeting No comments: Post a Comment Newer Post Older Post Home
+      Subscribe to: Post Comments (Atom) Buy Me A Coffee (or Jack). Support me. Become
+      a Patron! For A Nice Shot Of Bourbon And A Good Cigar America''s Final War Now
+      It Is official It is here. Real Revolution In Military Affairs It Is Here Pepe
+      Escobar About Revolution. O nce  in a blue moon an indispensable book comes out
+      making a clear case for  sanity in what is now a post-MAD world. That’s the responsibility  carried
+      by “ The (Real) Revolution in Military Affairs ,” by Andrei Martyanov (Clarity
+      Press), arguably the most important book of 2019. My Book Is On Sale It Is Here
+      Saker''s Review. The above summary does not do justice to Martyanov’s truly seminal
+      book. I can only say that I consider this book as an absolutely indispensable
+      “must read” for every person in the USA who loves his/her country and for every
+      person who believes that wars, especially nuclear ones, must be avoided at all
+      costs. Asia Times About The Book In Losing Military Supremacy, his latest, groundbreaking
+      book, crack Russian military-naval analyst Andrei Martyanov deconstructs in detail
+      how, “the United States faces two nuclear and industrial superpowers, one of which
+      fields a world-class armed forces. If the military-political, as opposed to merely
+      economic, alliance between Russia and China is ever formalized – this will spell
+      the final doom for the United States as a global power.” My Blog List Daniel Larison
+      at Responsible Statecraft A Son of the New American Revolution Global South Kunstler
+      Mike Norman Economics Five Guns West Russia Observer The New Kremlin Stooge ROCK
+      SOLID POLITICS Scott Ritter Extra Moon of Alabama The Vineyard of the Saker Show
+      10 Show All Russia''s Navy In Search Of A Mission My article came out in December
+      issue of US Naval Institute Proceedings About Me smoothiex12 View my complete
+      profile Blog Archive ▼ 2025 (660) ▼ July (22) You Know What? Targeting Is Pretty
+      Good ... The Fate Of FFG Constellation ... In Continuation Of This Oregon State
+      ... Say It Ain''t So. FABs With UMPK ... Incomparable Jackie Venson ... 4th And
+      START. Larch Dug Up An Interesting Piece ... Don''t Worry, Mr. Wang Yi. When You
+      Are An Idiot ... Trump Was Informed ... That''s The "Level" ... Nima and Me. To
+      Create The New System Of Standards ... About This "Storage" ... Rachel And Me.
+      Why Now? Daniel Davis and Yours Truly. Daniel Davis. Meanwhile Russian Air Force
+      ... It Is Not Just In Yekaterinburg. ► June (116) ► May (123) ► April (97) ► March
+      (100) ► February (106) ► January (96) ► 2024 (1146) ► December (87) ► November
+      (93) ► October (106) ► September (102) ► August (108) ► July (103) ► June (90)
+      ► May (108) ► April (86) ► March (80) ► February (90) ► January (93) ► 2023 (912)
+      ► December (96) ► November (87) ► October (97) ► September (88) ► August (56)
+      ► July (75) ► June (79) ► May (76) ► April (68) ► March (70) ► February (53) ►
+      January (67) ► 2022 (737) ► December (61) ► November (55) ► October (60) ► September
+      (50) ► August (66) ► July (65) ► June (71) ► May (63) ► April (70) ► March (79)
+      ► February (52) ► January (45) ► 2021 (382) ► December (42) ► November (31) ►
+      October (38) ► September (34) ► August (37) ► July (34) ► June (37) ► May (26)
+      ► April (28) ► March (23) ► February (22) ► January (30) ► 2020 (385) ► December
+      (25) ► November (21) ► October (19) ► September (23) ► August (23) ► July (29)
+      ► June (34) ► May (36) ► April (62) ► March (50) ► February (34) ► January (29)
+      ► 2019 (311) ► December (33) ► November (29) ► October (30) ► September (21) ►
+      August (27) ► July (22) ► June (32) ► May (31) ► April (24) ► March (22) ► February
+      (21) ► January (19) ► 2018 (320) ► December (25) ► November (29) ► October (31)
+      ► September (30) ► August (31) ► July (29) ► June (29) ► May (19) ► April (47)
+      ► March (25) ► February (14) ► January (11) ► 2017 (197) ► December (24) ► November
+      (9) ► October (14) ► September (7) ► August (10) ► July (12) ► June (26) ► May
+      (28) ► April (28) ► March (11) ► February (16) ► January (12) ► 2016 (163) ► December
+      (13) ► November (10) ► October (13) ► September (12) ► August (13) ► July (16)
+      ► June (11) ► May (17) ► April (18) ► March (15) ► February (10) ► January (15)
+      ► 2015 (71) ► December (3) ► November (6) ► October (6) ► September (4) ► August
+      (10) ► July (6) ► June (6) ► May (4) ► April (4) ► March (7) ► February (12) ►
+      January (3) ► 2014 (7) ► December (7) Traffic Total Pageviews Simple theme. Powered
+      by Blogger .'
+    one_sentence_summary: The article discusses the effectiveness of Russia's stand-off
+      weapons and critiques the outdated concepts of air superiority taught in NATO
+      military academies, while also highlighting the importance of Andrei Martyanov's
+      book on military affairs in understanding the evolving global power dynamics between
+      the U.S., Russia, and China.
+    paragraph_summary: In a recent blog post, Andrei Martyanov discusses the effectiveness
+      of Russia's stand-off weapons and critiques NATO's outdated definitions of air
+      superiority, particularly in the context of Suppression of Enemy Air Defenses
+      (SEAD). He emphasizes that current military strategies taught in Western academies
+      are no longer applicable, highlighting a shift in military dynamics that favors
+      Russia. Martyanov also references his influential book, "The (Real) Revolution
+      in Military Affairs," which argues that the U.S. faces significant challenges
+      from nuclear and industrial superpowers like Russia and China, suggesting that
+      a formal alliance between the two could spell the end of U.S. global dominance.
+      The article reflects on the evolving nature of warfare and the urgent need for
+      a reevaluation of military strategies in a post-MAD (Mutually Assured Destruction)
+      world.
+    published: '2025-07-07T05:19:16.827515+00:00'
+  - title: You Know What?
+    url: https://smoothiex12.blogspot.com/2025/07/you-know-what.html
+    text: 'Reminiscence of the Future... Si Vis Pacem, Para Vinum     © Andrei Martyanov''s
+      Blog Sunday, July 6, 2025 You Know What? This brought a tear to my eye. This is
+      how legends depart. And, please, spare me this BS about Ozzy and him urinating
+      at and on Alamo (well and snorting ants, LOL)). Black Sabbath and Ozzy defined,
+      together with Deep Purple and Rainbow the heavy music. Not even Led Zeppelin for
+      all Zeps'' importance. It is the end of an era! Here how we woke up to Ozzy and
+      late genius Randy. Sabbath and Ozzy''s contribution to modern music is immense.
+      Have a nice retirement, Ozzy. Posted by smoothiex12 at 9:58 PM Email This BlogThis!
+      Share to X Share to Facebook Share to Pinterest Labels: Black Sabbath. , Ozzy
+      No comments: Post a Comment Older Post Home Subscribe to: Post Comments (Atom)
+      Buy Me A Coffee (or Jack). Support me. Become a Patron! For A Nice Shot Of Bourbon
+      And A Good Cigar America''s Final War Now It Is official It is here. Real Revolution
+      In Military Affairs It Is Here Pepe Escobar About Revolution. O nce  in a blue
+      moon an indispensable book comes out making a clear case for  sanity in what is
+      now a post-MAD world. That’s the responsibility  carried by “ The (Real) Revolution
+      in Military Affairs ,” by Andrei Martyanov (Clarity Press), arguably the most
+      important book of 2019. My Book Is On Sale It Is Here Saker''s Review. The above
+      summary does not do justice to Martyanov’s truly seminal book. I can only say
+      that I consider this book as an absolutely indispensable “must read” for every
+      person in the USA who loves his/her country and for every person who believes
+      that wars, especially nuclear ones, must be avoided at all costs. Asia Times About
+      The Book In Losing Military Supremacy, his latest, groundbreaking book, crack
+      Russian military-naval analyst Andrei Martyanov deconstructs in detail how, “the
+      United States faces two nuclear and industrial superpowers, one of which fields
+      a world-class armed forces. If the military-political, as opposed to merely economic,
+      alliance between Russia and China is ever formalized – this will spell the final
+      doom for the United States as a global power.” My Blog List Daniel Larison at
+      Responsible Statecraft A Son of the New American Revolution Global South Kunstler
+      Mike Norman Economics Five Guns West Russia Observer The New Kremlin Stooge ROCK
+      SOLID POLITICS Scott Ritter Extra Moon of Alabama The Vineyard of the Saker Show
+      10 Show All Russia''s Navy In Search Of A Mission My article came out in December
+      issue of US Naval Institute Proceedings About Me smoothiex12 View my complete
+      profile Blog Archive ▼ 2025 (660) ▼ July (22) You Know What? Targeting Is Pretty
+      Good ... The Fate Of FFG Constellation ... In Continuation Of This Oregon State
+      ... Say It Ain''t So. FABs With UMPK ... Incomparable Jackie Venson ... 4th And
+      START. Larch Dug Up An Interesting Piece ... Don''t Worry, Mr. Wang Yi. When You
+      Are An Idiot ... Trump Was Informed ... That''s The "Level" ... Nima and Me. To
+      Create The New System Of Standards ... About This "Storage" ... Rachel And Me.
+      Why Now? Daniel Davis and Yours Truly. Daniel Davis. Meanwhile Russian Air Force
+      ... It Is Not Just In Yekaterinburg. ► June (116) ► May (123) ► April (97) ► March
+      (100) ► February (106) ► January (96) ► 2024 (1146) ► December (87) ► November
+      (93) ► October (106) ► September (102) ► August (108) ► July (103) ► June (90)
+      ► May (108) ► April (86) ► March (80) ► February (90) ► January (93) ► 2023 (912)
+      ► December (96) ► November (87) ► October (97) ► September (88) ► August (56)
+      ► July (75) ► June (79) ► May (76) ► April (68) ► March (70) ► February (53) ►
+      January (67) ► 2022 (737) ► December (61) ► November (55) ► October (60) ► September
+      (50) ► August (66) ► July (65) ► June (71) ► May (63) ► April (70) ► March (79)
+      ► February (52) ► January (45) ► 2021 (382) ► December (42) ► November (31) ►
+      October (38) ► September (34) ► August (37) ► July (34) ► June (37) ► May (26)
+      ► April (28) ► March (23) ► February (22) ► January (30) ► 2020 (385) ► December
+      (25) ► November (21) ► October (19) ► September (23) ► August (23) ► July (29)
+      ► June (34) ► May (36) ► April (62) ► March (50) ► February (34) ► January (29)
+      ► 2019 (311) ► December (33) ► November (29) ► October (30) ► September (21) ►
+      August (27) ► July (22) ► June (32) ► May (31) ► April (24) ► March (22) ► February
+      (21) ► January (19) ► 2018 (320) ► December (25) ► November (29) ► October (31)
+      ► September (30) ► August (31) ► July (29) ► June (29) ► May (19) ► April (47)
+      ► March (25) ► February (14) ► January (11) ► 2017 (197) ► December (24) ► November
+      (9) ► October (14) ► September (7) ► August (10) ► July (12) ► June (26) ► May
+      (28) ► April (28) ► March (11) ► February (16) ► January (12) ► 2016 (163) ► December
+      (13) ► November (10) ► October (13) ► September (12) ► August (13) ► July (16)
+      ► June (11) ► May (17) ► April (18) ► March (15) ► February (10) ► January (15)
+      ► 2015 (71) ► December (3) ► November (6) ► October (6) ► September (4) ► August
+      (10) ► July (6) ► June (6) ► May (4) ► April (4) ► March (7) ► February (12) ►
+      January (3) ► 2014 (7) ► December (7) Traffic Total Pageviews Simple theme. Powered
+      by Blogger .'
+    one_sentence_summary: The article reflects on the significant impact of Ozzy Osbourne
+      and Black Sabbath on heavy music, marking the end of an era with Ozzy's retirement,
+      while also touching on broader themes of military analysis and geopolitical dynamics
+      in the context of modern warfare.
+    paragraph_summary: In a heartfelt tribute, Andrei Martyanov reflects on the legacy
+      of Ozzy Osbourne and Black Sabbath, marking the end of an era in heavy music that
+      has profoundly influenced modern music alongside bands like Deep Purple and Rainbow.
+      Martyanov expresses nostalgia for the impact these artists had on his generation,
+      emphasizing their significance over even iconic groups like Led Zeppelin. He bids
+      Ozzy a warm farewell as he enters retirement, while also touching on the broader
+      themes of military and geopolitical analysis in his writings, particularly regarding
+      the shifting power dynamics between the United States, Russia, and China.
+    published: '2025-07-07T05:19:09.396631+00:00'
   - title: Larch Dug Up An Interesting Piece ...
     url: https://smoothiex12.blogspot.com/2025/07/larch-dug-up-interesting-piece.html
     text: 'Reminiscence of the Future... Si Vis Pacem, Para Vinum     © Andrei Martyanov''s

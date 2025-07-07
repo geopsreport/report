@@ -7,27 +7,53 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  **Geops Report — July 6, 2025**
+  As of July 7, 2025, global geopolitical tensions remain high, with new developments highlighting the persistent divides between the Global North and South, the ongoing crisis in Gaza, and growing concerns over surveillance and civil liberties in the United States.
   
-  **Context:**  
-  As the United States marks its Independence Day amid rising domestic and international tensions, recent independent analyses highlight growing concerns over the erosion of civil liberties, the unchecked expansion of executive power, and the global ramifications of U.S. and allied policies. These issues intersect with ongoing debates about surveillance, historical narratives, and the future of democracy both at home and abroad.
+  A major focus in recent analysis is the economic stranglehold the Global North maintains over the Global South through intellectual property regimes. **Vijay Prashad** argues that patent and licensing fees imposed by wealthier nations are draining resources from developing countries, perpetuating a cycle of dependency and underdevelopment. He calls for a fundamental reevaluation of the current intellectual property framework to allow for more equitable access to technology and innovation. This issue is gaining traction among analysts as a key obstacle to sustainable development and South-South cooperation.
   
-  **Surveillance, Privacy, and Democracy Under Threat**  
-  A new memorandum from the Veteran Intelligence Professionals for Sanity (VIPS), summarized by **Ray McGovern**, warns of the increasing use of AI, robotics, and drones in U.S. government surveillance. The report underscores the dual-edged nature of these technologies: while they can be effective, their deployment without robust oversight threatens privacy and democratic norms. VIPS calls for the creation of an independent technical oversight group to ensure surveillance programs comply with constitutional standards and to end clandestine, potentially illegal operations. The memorandum stresses, “Accountability and transparency must be restored to government surveillance practices.”
+  Meanwhile, the humanitarian disaster in Gaza continues to draw international scrutiny. According to **Francesca Albanese**, over 1,000 corporations—including major U.S. tech and defense firms—are complicit in war crimes by profiting from Israel’s military operations in the occupied Palestinian territories. Albanese’s report, which calls for corporate divestment or accountability, has prompted a backlash from the U.S. government, which accuses her of promoting antisemitism and undermining economic interests. The majority of independent analysts agree that the situation in Gaza constitutes a grave violation of human rights, with multinational complicity deepening the crisis.
   
-  **Reassessing America’s Founding and Its Legacy**  
-  In a critical historical analysis, **Ace Thelin** challenges the traditional narrative of the American Revolution, arguing that the Founding Fathers’ motivations were deeply intertwined with the defense of slavery and the oppression of Indigenous peoples. Thelin contends that the U.S. Constitution was crafted to institutionalize slavery and benefit Southern elites, perpetuating racial inequality. He calls for a more honest reckoning with these foundational injustices, stating, “We must acknowledge these realities rather than romanticize the nation’s origins.” This perspective is gaining traction among historians and activists seeking to reframe the understanding of American history.
+  On the domestic front, concerns about surveillance and the erosion of civil liberties in the United States are mounting. A recent memorandum from the Veteran Intelligence Professionals for Sanity (VIPS), summarized by **Ray McGovern**, highlights the unchecked use of AI, robotics, and drones by government agencies for surveillance purposes. VIPS calls for the creation of an independent technical oversight group to ensure constitutional compliance and transparency, warning that clandestine surveillance programs threaten both privacy and democracy.
   
-  **Executive Power and the Erosion of Checks and Balances**  
-  Recent Supreme Court decisions and executive actions have intensified debates about the balance of power in the U.S. government. **Dennis Kucinich** draws parallels between President Trump’s leadership and the grievances listed against King George III, warning that unilateral decisions and disregard for constitutional checks threaten the rule of law. The majority of analysts agree that the preservation of democracy relies on an engaged and vigilant citizenry, especially as judicial oversight is curtailed and executive authority expands.
+  **Trends and Predictions:**  
+  The divide between the Global North and South over economic and technological access is likely to intensify, with calls for reform gaining momentum—there is a high chance that this will become a central issue in upcoming international forums. The crisis in Gaza is expected to persist, with most analysts predicting continued corporate and governmental resistance to accountability measures, but also growing international pressure for divestment and sanctions. In the U.S., surveillance practices are set to face increasing legal and public scrutiny, and there is a high chance that demands for oversight and reform will become a significant part of the domestic political debate.
   
-  **Trends and Expected Outcomes:**  
-  - **Domestic Surveillance:** Without independent oversight, the expansion of surveillance technology is likely to continue, raising the risk of further infringements on civil liberties and public trust in government institutions.
-  - **Historical Reckoning:** Calls for a reassessment of America’s founding are expected to fuel ongoing debates over education, public memory, and policy reforms addressing racial injustice.
-  - **Checks on Executive Power:** The Supreme Court’s recent rulings suggest a trend toward greater executive autonomy, which could undermine judicial and legislative checks, with potential long-term consequences for constitutional governance.
-  
-  As the U.S. navigates these challenges, the central question remains whether its institutions and citizenry can rise to defend the principles of transparency, accountability, and justice that underpin a functioning democracy.
+  Overall, the majority view among independent analysts is that unless there are substantial policy changes, the current trends—economic dependency, humanitarian crises, and threats to civil liberties—will most definitely continue, shaping the geopolitical landscape in the months ahead.
 articles:
+  - title: 'Vijay Prashad: Patents of a Parasitical North'
+    url: https://consortiumnews.com/2025/07/07/vijay-prashad-patents-of-a-parasitical-north/
+    text: 'Global South countries are trapped in Global North-dominated patents and
+      licensing fees that are stripping them of wealth and stunting their development.
+      By Vijay Prashad Tricontinental: Institute for Social Research  The number in
+      the graph above, based on data from the… Read more →'
+    one_sentence_summary: Global South countries are hindered in their development and
+      wealth accumulation due to the dominance of Global North patents and licensing
+      fees.
+    paragraph_summary: The article by Vijay Prashad highlights how countries in the
+      Global South are constrained by patent and licensing fees imposed by the Global
+      North, which are draining their resources and hindering their economic development.
+      This dynamic creates a cycle of dependency and underdevelopment, as these nations
+      struggle to access essential technologies and innovations that are often monopolized
+      by wealthier countries. The author argues for a reevaluation of the current intellectual
+      property framework to foster equitable growth and development in the Global South.
+    published: '2025-07-07T05:03:26+00:00'
+  - title: 'Vijay Prashad: Patents of a Parasitical North'
+    url: https://consortiumnews.com/2025/07/07/vijay-prashad-patents-of-a-parasitical-north/
+    text: 'Global South countries are trapped in Global North-dominated patents and
+      licensing fees that are stripping them of wealth and stunting their development.
+      By Vijay Prashad Tricontinental: Institute for Social Research  The number in
+      the graph above, based on data from the… Read more →'
+    one_sentence_summary: Global South countries are hindered in their development and
+      wealth accumulation due to the dominance of Global North patents and licensing
+      fees.
+    paragraph_summary: The article by Vijay Prashad highlights how countries in the
+      Global South are constrained by patent and licensing fees imposed by the Global
+      North, which are draining their resources and hindering their economic development.
+      This dynamic creates a cycle of dependency and underdevelopment, as these nations
+      struggle to access essential technologies and innovations that are often monopolized
+      by wealthier countries. The author argues for a reevaluation of the current intellectual
+      property framework to foster equitable growth and development in the Global South.
+    published: '2025-07-07T05:03:26+00:00'
   - title: 'VIPS: Data Collection Can Be Effective AND Legal'
     url: https://consortiumnews.com/2025/07/05/data-collection-can-be-effective-and-legal/
     text: Surveillance with AI, robotics and drones threatens privacy and democracy.

@@ -7,24 +7,163 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  **Geops Report – July 6, 2025, Evening Edition**
+  The ongoing contest between the BRICS coalition and Western powers continues to shape global geopolitics, with recent developments highlighting both the resilience of BRICS and the intensifying efforts by the West to undermine its influence. As **Larry C. Johnson** reports, the 2025 BRICS conference in Rio de Janeiro reaffirmed the bloc’s commitment to expansion, economic integration, and reducing dependence on the US dollar. Despite limited mainstream media coverage in the United States, Western intelligence and financial actors are acutely aware of BRICS’ challenge to the established financial order. According to Johnson, there is “active work to create unrest” in strategically significant countries—Armenia, Azerbaijan, Georgia, Iran, India, and Pakistan—aimed at disrupting BRICS’ momentum.
   
-  **Context:**  
-  The geopolitical landscape remains volatile across the Southern Caucasus, the Middle East, and the broader Eurasian region. Recent developments highlight the shifting allegiances, diplomatic challenges, and the enduring impact of Western interventions.
+  Armenia stands out as a focal point in this strategy. Prime Minister Nikol Pashinyan’s recent admission of territorial loss and the country’s diplomatic isolation underscore the consequences of Western-backed political shifts. Johnson notes that Armenia’s expectation of robust Western support, following what he describes as a “light-color revolution” to reduce Russian influence, has not materialized. Instead, Armenia finds itself weakened, forced into concessions over Nagorno-Karabakh, and facing a demoralized domestic landscape.
   
-  **Armenia’s Diplomatic Isolation Deepens**  
-  Armenian Prime Minister Nikol Pashinyan’s recent admission of territorial loss marks a significant shift in Yerevan’s political narrative. Speaking at Yerevan State University, Pashinyan acknowledged the loss of part of Armenia’s homeland but asserted the survival of Armenian statehood. According to **Larry C. Johnson**, Pashinyan’s rise was facilitated by a Western-backed movement intended to reduce Russian influence in the region. However, the anticipated Western support has not materialized, leaving Armenia “diplomatically isolated and pressured to make concessions regarding Nagorno-Karabakh.” This has resulted in a weakened and demoralized Armenia, facing internal discontent and external threats, with no clear path to recovery.
+  Meanwhile, the broader information environment remains clouded by cultural and religious misunderstandings, particularly regarding the Israeli-Palestinian conflict and the role of Zionism. Johnson points out that the majority of the world’s population, especially in Asia, lacks familiarity with the eschatological narratives that drive Western and Israeli policy, complicating international discourse and limiting global engagement on these issues.
   
-  **Global Misunderstandings Over Zionism and Israel**  
-  A new analysis by **Larry C. Johnson** underscores the profound cultural and religious disconnect shaping global perceptions of Zionism and U.S. support for Israel. The article notes that the majority of the world’s population, particularly in Asia, lacks familiarity with the eschatological beliefs that underpin Western narratives about Israel’s legitimacy. This ignorance complicates international dialogue and fuels misunderstandings, as “most of the world’s population don’t have a clue about Zionism,” especially in populous nations like India and China. The piece suggests that this disconnect is a major barrier to consensus on Middle Eastern issues at the global level.
-  
-  **Trends and Expected Outcomes:**  
-  - Armenia’s continued diplomatic isolation is likely to exacerbate internal instability and may prompt further concessions in the face of external pressure, particularly over Nagorno-Karabakh.
-  - The lack of global understanding regarding the religious and ideological foundations of Zionism will persist, complicating efforts to build international consensus on the Israeli-Palestinian conflict.
-  - The broader trend remains one of shifting alliances and growing skepticism toward Western interventionism, as regional actors reassess their strategies amid uncertain support from traditional partners.
-  
-  As the situation evolves, the Southern Caucasus and Middle East will remain flashpoints, with local actors increasingly forced to navigate a complex and often unsupportive international environment.
+  **Trends and Predictions:**  
+  The majority of independent analysis suggests that the BRICS coalition is most definitely on track to expand its influence, with high confidence that efforts to reduce reliance on the US dollar will accelerate. However, Western attempts to destabilize key BRICS-aligned regions are likely to persist, especially in the Southern Caucasus and Central Asia. Armenia’s precarious position is expected to continue, with a high chance of further internal instability and diplomatic isolation unless there is a significant shift in external support or domestic policy. The information gap between Western and non-Western populations regarding the Middle East is likely to persist, ensuring that misunderstandings and divergent narratives will remain a feature of global debate for the foreseeable future.
 articles:
+  - title: An Update on BRICS in Light of the US War on BRICS
+    url: https://sonar21.com/an-update-on-brics-in-light-of-the-us-war-on-brics/
+    text: 'At the end of this essay, I have posted my latest interview with Alex Krainer,
+      where we discuss the West’s current offensive to derail BRICS . While the Western
+      media, especially the establishment media in the United States, continue to ignore
+      BRICS and pretend that nothing important is happening, I believe that the financial
+      leaders privately recognize that BRICS presents a potentially formidable threat
+      to a Western-dominated financial system. Furthermore, I believe that the Western
+      intelligence agencies are working feverishly to sow unrest in Armenia, Azerbaijan,
+      Georgia, Iran, India and Pakistan in order to throw a monkey wrench into BRICS
+      , as it works to develop an alternative to being held hostage to the US dollar.
+      I have some surprising statistics for you, but you’ll have to read further to
+      find out. Let’s start with a summary of the key results from the 2025 BRICS conference
+      in Rio de Janeiro: Expansion and Membership • The BRICS group reaffirmed its commitment
+      to expansion, welcoming new members and discussing further enlargement. • There
+      was consensus on deepening cooperation with recently admitted countries and evaluating
+      applications from additional interested nations. Economic Cooperation • BRICS
+      leaders agreed to strengthen trade and investment ties among member states, with
+      a focus on reducing reliance on the US dollar in cross-border transactions. •
+      The summit advanced discussions on creating a common payment system and expanding
+      the use of local currencies for trade within the bloc. Development Initiatives
+      • The New Development Bank (NDB) announced new funding for infrastructure and
+      green-energy projects across member countries. • Special emphasis was placed on
+      supporting sustainable development and climate resilience in the Global South.
+      Geopolitical Stance • The BRICS nations issued a joint statement calling for a
+      multipolar world order, emphasizing respect for international law and the sovereignty
+      of nations. • The group expressed concern over ongoing global conflicts and called
+      for peaceful resolutions through dialogue. Technology and Innovation • The summit
+      launched new initiatives for cooperation in digital infrastructure, artificial
+      intelligence, and cybersecurity. • Plans were made to establish a BRICS technology
+      forum to share expertise and foster innovation. Global Governance Reform • BRICS
+      leaders reiterated calls for reform of major international institutions, including
+      the United Nations Security Council and the International Monetary Fund, to better
+      reflect the interests of emerging economies. As a reminder, the BRICS group includes
+      the following member countries at the start of the conference: 1. Brazil 2. Russia
+      3. India 4. China 5. South Africa 6. Egypt 7. Ethiopia 8. Iran 9. Saudi Arabia
+      10. United Arab Emirates (UAE) As of Sunday, the BRICS Rio de Janeiro Declaration
+      announced that 10 new countries from various regions around the world have joined
+      BRICS as official partner countries . They are: Belarus The Plurinational State
+      of Bolivia Kazakhstan Cuba Indonesia Nigeria Malaysia Thailand Vietnam Uganda
+      Uzbekistan All of these countries combined represent 55% of the world’s population.
+      Although these 21 countries account for only 30% of the world’s nominal GDP, they
+      represent approximately 45% of the world’s GDP, as measured by purchasing power
+      parity (PPP) as of 2025. Why is PPP important? PPP GDP is a crucial measure for
+      comparing the real economic health, living standards, and domestic market size
+      of countries, because it adjusts for differences in local prices and cost of living.
+      It also provides a more accurate picture of how much people can actually buy with
+      their income in their own country. By way of comparison, the G7 countries represent
+      approximately 31% of the world’s PPP GDP as of 2025. BRICS is not done growing.
+      Other countries, such as Pakistan, Sri Lanka, and. Bahrain have expressed interest
+      in joining. Donald Trump’s use of tariffs, as well as the threat of international
+      sanctions, may very well inspire other countries to join BRICS as a reaction to
+      US financial bullying. Maybe it is true… Size does matter. Here is my conversation
+      with Alex Krainer: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses an interview with Alex Krainer about
+      the West's efforts to undermine BRICS, highlighting the potential threat BRICS
+      poses to the Western financial system and suggesting that Western intelligence
+      agencies are attempting to create unrest in various countries to disrupt BRICS'
+      development as an alternative to the US dollar.
+    paragraph_summary: In a recent interview with Alex Krainer, the article discusses
+      the West's efforts to undermine BRICS, a coalition seen as a significant challenge
+      to the Western-dominated financial system. While mainstream U.S. media largely
+      ignores BRICS, the article suggests that Western financial leaders and intelligence
+      agencies are aware of its potential threat and are actively working to create
+      unrest in countries like Armenia, Azerbaijan, Georgia, Iran, India, and Pakistan
+      to disrupt BRICS' initiatives. The 2025 BRICS conference in Rio de Janeiro highlighted
+      the group's commitment to expansion, strengthening economic ties, reducing reliance
+      on the US dollar, and supporting sustainable development through the New Development
+      Bank. Additionally, BRICS leaders called for a multipolar world order that respects
+      international law and national sovereignty.
+    published: '2025-07-07T02:56:45+00:00'
+  - title: An Update on BRICS in Light of the US War on BRICS
+    url: https://sonar21.com/an-update-on-brics-in-light-of-the-us-war-on-brics/
+    text: 'At the end of this essay, I have posted my latest interview with Alex Krainer,
+      where we discuss the West’s current offensive to derail BRICS . While the Western
+      media, especially the establishment media in the United States, continue to ignore
+      BRICS and pretend that nothing important is happening, I believe that the financial
+      leaders privately recognize that BRICS presents a potentially formidable threat
+      to a Western-dominated financial system. Furthermore, I believe that the Western
+      intelligence agencies are working feverishly to sow unrest in Armenia, Azerbaijan,
+      Georgia, Iran, India and Pakistan in order to throw a monkey wrench into BRICS
+      , as it works to develop an alternative to being held hostage to the US dollar.
+      I have some surprising statistics for you, but you’ll have to read further to
+      find out. Let’s start with a summary of the key results from the 2025 BRICS conference
+      in Rio de Janeiro: Expansion and Membership • The BRICS group reaffirmed its commitment
+      to expansion, welcoming new members and discussing further enlargement. • There
+      was consensus on deepening cooperation with recently admitted countries and evaluating
+      applications from additional interested nations. Economic Cooperation • BRICS
+      leaders agreed to strengthen trade and investment ties among member states, with
+      a focus on reducing reliance on the US dollar in cross-border transactions. •
+      The summit advanced discussions on creating a common payment system and expanding
+      the use of local currencies for trade within the bloc. Development Initiatives
+      • The New Development Bank (NDB) announced new funding for infrastructure and
+      green-energy projects across member countries. • Special emphasis was placed on
+      supporting sustainable development and climate resilience in the Global South.
+      Geopolitical Stance • The BRICS nations issued a joint statement calling for a
+      multipolar world order, emphasizing respect for international law and the sovereignty
+      of nations. • The group expressed concern over ongoing global conflicts and called
+      for peaceful resolutions through dialogue. Technology and Innovation • The summit
+      launched new initiatives for cooperation in digital infrastructure, artificial
+      intelligence, and cybersecurity. • Plans were made to establish a BRICS technology
+      forum to share expertise and foster innovation. Global Governance Reform • BRICS
+      leaders reiterated calls for reform of major international institutions, including
+      the United Nations Security Council and the International Monetary Fund, to better
+      reflect the interests of emerging economies. As a reminder, the BRICS group includes
+      the following member countries at the start of the conference: 1. Brazil 2. Russia
+      3. India 4. China 5. South Africa 6. Egypt 7. Ethiopia 8. Iran 9. Saudi Arabia
+      10. United Arab Emirates (UAE) As of Sunday, the BRICS Rio de Janeiro Declaration
+      announced that 10 new countries from various regions around the world have joined
+      BRICS as official partner countries . They are: Belarus The Plurinational State
+      of Bolivia Kazakhstan Cuba Indonesia Nigeria Malaysia Thailand Vietnam Uganda
+      Uzbekistan All of these countries combined represent 55% of the world’s population.
+      Although these 21 countries account for only 30% of the world’s nominal GDP, they
+      represent approximately 45% of the world’s GDP, as measured by purchasing power
+      parity (PPP) as of 2025. Why is PPP important? PPP GDP is a crucial measure for
+      comparing the real economic health, living standards, and domestic market size
+      of countries, because it adjusts for differences in local prices and cost of living.
+      It also provides a more accurate picture of how much people can actually buy with
+      their income in their own country. By way of comparison, the G7 countries represent
+      approximately 31% of the world’s PPP GDP as of 2025. BRICS is not done growing.
+      Other countries, such as Pakistan, Sri Lanka, and. Bahrain have expressed interest
+      in joining. Donald Trump’s use of tariffs, as well as the threat of international
+      sanctions, may very well inspire other countries to join BRICS as a reaction to
+      US financial bullying. Maybe it is true… Size does matter. Here is my conversation
+      with Alex Krainer: I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses an interview with Alex Krainer about
+      the West's efforts to undermine BRICS, highlighting the potential threat BRICS
+      poses to the Western financial system and suggesting that Western intelligence
+      agencies are attempting to create unrest in various countries to disrupt BRICS'
+      development as an alternative to the US dollar.
+    paragraph_summary: In a recent interview with Alex Krainer, the article discusses
+      the West's efforts to undermine BRICS, a coalition seen as a significant challenge
+      to the Western-dominated financial system. While mainstream U.S. media largely
+      ignores BRICS, the article suggests that Western financial leaders and intelligence
+      agencies are aware of its potential threat and are actively working to create
+      unrest in countries like Armenia, Azerbaijan, Georgia, Iran, India, and Pakistan
+      to disrupt BRICS' initiatives. The 2025 BRICS conference in Rio de Janeiro highlighted
+      the group's commitment to expansion, strengthening economic ties, reducing reliance
+      on the US dollar, and supporting sustainable development through the New Development
+      Bank. Additionally, BRICS leaders called for a multipolar world order that respects
+      international law and national sovereignty.
+    published: '2025-07-07T02:56:45+00:00'
   - title: Armenia’s Prime Minister is Trapped
     url: https://sonar21.com/armenias-prime-minister-is-trapped/
     text: 'On June 4, 2025, Armenian Prime Minister Nikol Pashinyan stated , in response

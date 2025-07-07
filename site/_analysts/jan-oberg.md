@@ -7,21 +7,18 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  **Geops Report – June 27, 2025**
+  The current geopolitical landscape continues to be shaped by escalating tensions in the Middle East, persistent Western militarism, and growing challenges to civil liberties in the U.S. and Europe. Recent independent analyses highlight several key developments:
   
-  **Context:**  
-  Recent weeks have seen mounting scrutiny of Western policies on civil liberties, Middle East conflicts, and the international response to peace advocacy. Independent analysts highlight a growing climate of repression and militarism, with implications for global stability and the credibility of Western democracies.
+  A notable incident underscoring the climate of repression in the United States involves the closure of bank accounts belonging to World BEYOND War, following a member’s legal visit to Cuba. **David Swanson** describes this as “reminiscent of McCarthyism,” arguing that such actions reflect a broader crackdown on peace activism and dissent. He urges transparency and collective resistance to what he sees as systemic injustices, warning that the chilling effect on advocacy is intensifying.
   
-  **U.S. Financial Repression Linked to Cuba Policy**  
-  A notable development comes from the United States, where **David Swanson** of World BEYOND War reported the abrupt closure of his organization’s bank accounts by First Citizens Bank following his legal visit to Cuba for peace conferences. Swanson interprets this as symptomatic of a "broader climate of fear and repression in the U.S., reminiscent of McCarthyism." He argues that such actions are not isolated but reflect systemic hostility toward peace advocacy, especially when it intersects with contentious foreign policy areas like Cuba. Swanson urges transparency and collective action to challenge these trends, warning that silence only perpetuates injustice.
+  Meanwhile, the aftermath of Israel’s attack on Iran continues to reverberate in diplomatic circles. **Jan Oberg** sharply criticized Denmark’s UN Ambassador, Christina Markus Lassen, for what he called a “morally unacceptable” speech that omitted Israel’s aggression and focused solely on Iran’s alleged nuclear threat. Oberg contends that this narrative, prevalent among Western diplomats, distorts reality and fuels a cycle of interventionism and militarism, undermining international law and ethical standards.
   
-  **Grassroots Mobilization for Gaza at the Sarajevo Tribunal**  
-  Meanwhile, the inaugural Gaza People’s Tribunal in Sarajevo concluded with a Declaration calling for justice and self-determination for Palestinians. **Richard Falk**, Professor emeritus of international law, has encouraged global endorsement of the Sarajevo Declaration, emphasizing the need for solidarity at a "pivotal moment." The Tribunal’s initiative signals a rising tide of civil society engagement in international justice, seeking to fill perceived gaps left by official diplomatic channels.
+  On the grassroots front, the Gaza People’s Tribunal has issued the Sarajevo Declaration, calling for renewed commitment to Palestinian self-determination and justice. **Richard Falk** encourages widespread endorsement of the declaration, emphasizing the importance of international solidarity at this “pivotal moment.”
   
-  **Trends and Expected Outcomes:**  
-  The convergence of domestic repression in the U.S. and growing grassroots activism abroad points to a widening disconnect between official Western policy and public sentiment, particularly on issues of peace and human rights. Analysts suggest that unless Western governments address these internal contradictions—balancing security with civil liberties and responding credibly to international justice movements—they risk further erosion of moral authority and increased polarization at home and abroad.
+  **Trends and Predictions:**  
+  The dominant trend remains a hardening of Western policies—both domestically, through increased surveillance and repression of dissent, and internationally, via one-sided diplomatic stances and continued militarization. The majority of analysts, including Oberg, warn that these approaches are unsustainable and risk further escalation, particularly in the Middle East. Based on current trajectories, there is a *high chance* that Western governments will continue prioritizing security narratives over genuine conflict resolution, with Oberg stating it is “quite likely” that tensions with Iran will be used to justify further military interventions. Domestically, the climate of fear and repression is expected to persist, unless challenged by coordinated civil society efforts.
   
-  Looking ahead, the expectation is for continued civil society mobilization, especially around Middle East conflicts, and heightened scrutiny of Western institutions’ alignment with their professed values. The ongoing debate over U.S. policy toward Cuba and the international response to the Gaza crisis will likely serve as key indicators of broader geopolitical trends in the months to come.
+  In summary, the latest developments point to a deepening crisis of trust in Western institutions, both at home and abroad, with independent voices calling for greater accountability, transparency, and a renewed focus on peace-building and justice.
 articles:
   - title: A U.S. Bank Closed Our Accounts Because I’d Visited Cuba Six Months Ago
     url: https://transnational.live/2025/06/27/a-u-s-bank-closed-our-accounts-because-id-visited-cuba-six-months-ago/
