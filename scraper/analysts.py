@@ -136,7 +136,7 @@ analysts = [
     },
     {
         "name": "Jeffrey Sachs",
-        "websites": ["https://www.commondreams.org/author/jeffrey-d-sachs"],
+        "websites": ["https://www.commondreams.org/author/jeffrey-d-sachs","https://www.jeffsachs.org/newspaper-articles"],
         "description": "Columbia economist and former UN advisor; writes on global development, sustainable multipolarity; frequently published via Project Syndicate & Consortium News."
     },
     {
@@ -179,6 +179,36 @@ analysts = [
             "https://richardfalk.org/"
         ],
         "description": "Richard Falk is an international law and international relations scholar who taught at Princeton University for forty years. Since 2002 he has lived in Santa Barbara, California, and taught at the local campus of the University of California in Global and International Studies and since 2005 chaired the Board of the Nuclear Age Peace Foundation. He initiated this blog partly in celebration of his 80th birthday."
+    },
+    {
+        "name": "Ben Norton",
+        "websites": [
+            "https://therealnews.com/author/ben-norton"
+        ],
+        "description": "Benjamin (Ben) Norton is an investigative journalist and analyst. Ben is the founder and editor of Geopolitical Economy Report. He lived in and reported from Latin America for several years, and is now based in Beijing, China."
+    },
+    {
+        "name": "Yanis Varoufakis",
+        "websites": [
+            "https://www.yanisvaroufakis.eu/",
+            "https://www.project-syndicate.org/columnist/yanis-varoufakis"
+        ]
+        "description": "Greek economist, academic, and former finance minister; founder of DiEM25; writes on global capitalism, European politics, and economic crises with a focus on democracy and social justice."
+    },
+    {
+        "name": "Aaron Maté",
+        "websites": [
+            "https://www.aaronmate.net/"
+        ],
+        "description": "Journalist and producer; covers US foreign policy, Russiagate, and Middle East conflicts; contributor to The Grayzone and host of Pushback."
+    },
+    {
+        "name": "Anatol Lieven",
+        "websites": [
+            "https://responsiblestatecraft.org/author/alieven/",
+            "https://quincyinst.org/author/anatol-lieven/"
+        ],
+        "description": "Anatol Lieven is a British author, journalist, and policy analyst specializing in international relations, security, and the geopolitics of Russia, Eurasia, and South Asia. He is a senior research fellow at the Quincy Institute for Responsible Statecraft and a former correspondent for The Times in the former Soviet Union, Eastern Europe, and South Asia. Lieven is known for his in-depth analysis of global security, conflict resolution, and the complexities of nationalism and geopolitics."
     }
 ]
 
