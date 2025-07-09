@@ -209,6 +209,15 @@ analysts = [
             "https://quincyinst.org/author/anatol-lieven/"
         ],
         "description": "Anatol Lieven is a British author, journalist, and policy analyst specializing in international relations, security, and the geopolitics of Russia, Eurasia, and South Asia. He is a senior research fellow at the Quincy Institute for Responsible Statecraft and a former correspondent for The Times in the former Soviet Union, Eastern Europe, and South Asia. Lieven is known for his in-depth analysis of global security, conflict resolution, and the complexities of nationalism and geopolitics."
+    },
+    {
+        "name": "Richard D. Wolff",
+        "websites": [
+            "https://www.rdwolff.com/",
+            "https://www.counterpunch.org/author/rwolff0998/",
+            "https://www.laprogressive.com/author/richard-d-wolff"
+        ],
+        "description": "Richard D. Wolff is an American Marxian economist, professor emeritus at the University of Massachusetts Amherst, and a leading voice on economic democracy, worker cooperatives, and critiques of capitalism. He regularly contributes to CounterPunch and other independent media."
     }
 ]
 
