@@ -155,7 +155,7 @@ INCLUDE:
 - Blog posts, articles, opinion pieces
 - News analysis pieces
 - Substantial written content
-- Posts with dates (if visible in title)
+- Posts with dates (if visible in title or url)
 
 Respond with ONLY the titles of the links to keep, one per line. If none are relevant, respond with "NONE".
 
@@ -252,11 +252,12 @@ def try_rss_endpoints(website):
     if not is_root_url(website):
         return None  # Skip non-root URLs
 
+    # Try common RSS endpoints
     for rss_path in ['/feed', '/data/rss', '/rss']:
         candidate = website.rstrip('/') + rss_path
         try:
             feed = feedparser.parse(candidate)
-            if feed.bozo == 0 and len(feed.entries) > 0:
+            if len(feed.entries) > 0:
                 print(f"✓ Found valid RSS feed: {candidate}")
                 return candidate
         except Exception as e:
@@ -267,15 +268,56 @@ def try_rss_endpoints(website):
 FOLLOW_LINKS_N = 100
 
 def fetch_articles_from_rss(rss_url, analyst_name, website):
-    """Fetch articles from RSS feed"""
+    """Fetch articles from RSS feed, handling RSS 2.0 and Substack quirks"""
     print(f"Fetching RSS for {analyst_name} from {rss_url}")
     feed = feedparser.parse(rss_url)
     results = []
     for entry in feed.entries[:FOLLOW_LINKS_N]:
-        url = clean_url(entry.link)
-        title = entry.title
+        # RSS 2.0 sometimes puts link in different places or as a list
+        url = None
+        if hasattr(entry, 'link'):
+            url = clean_url(entry.link)
+        elif 'links' in entry and entry.links:
+            url = clean_url(entry.links[0].href)
+        elif 'id' in entry:
+            url = clean_url(entry.id)
+        else:
+            url = None
+
+        # Title can sometimes be a list or have extra whitespace
+        title = getattr(entry, 'title', None)
+        if isinstance(title, list):
+            title = title[0] if title else None
+        if title:
+            title = title.strip()
+
+        # Published date: try multiple fields
         published = extract_pub_date(feed_entry=entry)
-        content = extract_content_from_rss(entry)
+
+        # Substack and some RSS 2.0 feeds use 'content:encoded' or 'content' or 'summary'
+        content = None
+        if hasattr(entry, 'content') and entry.content:
+            # Sometimes content is a list of dicts with 'value'
+            if isinstance(entry.content, list) and hasattr(entry.content[0], 'value'):
+                content = entry.content[0].value
+            elif isinstance(entry.content, list) and isinstance(entry.content[0], dict) and 'value' in entry.content[0]:
+                content = entry.content[0]['value']
+            elif isinstance(entry.content, str):
+                content = entry.content
+        elif hasattr(entry, 'summary'):
+            content = entry.summary
+        elif hasattr(entry, 'description'):
+            content = entry.description
+
+        # Fallback: use extract_content_from_rss for further cleaning
+        if content:
+            from bs4 import BeautifulSoup
+            soup = BeautifulSoup(content, 'html.parser')
+            text = soup.get_text(separator=' ', strip=True)
+            content = text if text and len(text) > 100 and is_mostly_printable(text) else None
+        else:
+            content = extract_content_from_rss(entry)
+
         if content and len(content) > 200:
             sent_sum = summarize(content[:1000], 'sentence')
             para_sum = summarize(content[:2000], 'paragraph')
