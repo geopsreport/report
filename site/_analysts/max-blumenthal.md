@@ -7,17 +7,65 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  The past days have seen a series of revelations deepening concerns over Western intelligence operations, Israeli influence in tech and policy, and the militarization of technology sectors. These developments highlight the increasingly blurred lines between state power, private enterprise, and covert influence in global affairs.
+  The past week has seen mounting scrutiny of Western and Israeli covert operations in the Middle East, with new revelations deepening existing controversies around the conduct of mercenary groups, intelligence agencies, and tech-military collaboration.
   
-  A major new disclosure, reported by **Max Blumenthal**, details how numerous best-selling apps on Apple and Google platforms are developed by former Israeli military and intelligence personnel. Companies like ZipoApps, Supersonic, and Playtika are cited as key contributors to Israel’s economy, which is described as being intertwined with systemic oppression of Palestinians. The opaque ownership structures of these apps obscure their origins, raising ethical and privacy concerns for users worldwide. **Blumenthal** calls for heightened awareness and action within the boycott, divestment, and sanctions movement, arguing that unwitting support of these products indirectly funds a regime accused of apartheid and genocide.
+  The most recent development centers on the Gaza Humanitarian Foundation (GHF), a U.S.-linked mercenary and aid organization operating in southern Gaza. Following an Associated Press exposé alleging that American mercenaries fired on Palestinians seeking aid in May, the GHF released new footage in an attempt to counter the allegations. However, as **Max Blumenthal** reports, the video has only “deepened the controversy,” failing to exonerate the firm and instead intensifying scrutiny of its operations. The footage appears to corroborate claims of violence against civilians, further undermining the GHF’s credibility and raising questions about the militarization of aid distribution in Gaza. This comes amid broader accusations that the GHF is a front for Israeli intelligence operations, with Mossad reportedly involved in its funding and strategic direction.
   
-  In a separate but related intelligence sphere, leaked documents have confirmed that British MI6 agent Nicholas Langman infiltrated the International Atomic Energy Agency (IAEA), as reported by **Blumenthal**. Langman’s covert role is now linked to orchestrating sanctions against Iran and allegedly facilitating intelligence transfers that contributed to the assassination of Iranian nuclear scientists. These revelations validate long-standing Iranian suspicions of Western collusion within the IAEA and have led to a further breakdown in Iran-IAEA relations. The fallout is likely to intensify Iranian resistance to international oversight, with a high chance of escalating diplomatic standoffs.
+  In parallel, attention has turned to the role of Israeli-linked tech companies in the global app market. **Blumenthal** highlights how a significant number of best-selling apps on Apple and Google platforms are developed by former Israeli military and intelligence personnel. These companies, including ZipoApps and Playtika, generate substantial revenue for Israel’s economy and are often shrouded in opaque ownership, making it difficult for users to discern their origins. The report raises ethical concerns about the indirect support of Israeli state policy through consumer tech, calling for increased vigilance from the boycott, divestment, and sanctions (BDS) movement.
   
-  Meanwhile, the intersection of Silicon Valley and the U.S. military has reached new heights. Four senior executives from Palantir, Meta, and OpenAI have been appointed as lieutenant colonels in the US Army’s new "Executive Innovation Corps." This initiative, announced on June 13, aims to inject advanced tech expertise directly into military operations. **Blumenthal** notes that this move reflects the military’s urgent adaptation to technological warfare and signals a deepening alliance between tech giants and defense institutions. The trend is expected to continue, with a high probability that tech-sector influence over military strategy and recruitment will expand further.
+  Meanwhile, the fallout from intelligence operations targeting Iran continues to reverberate. Leaked documents have confirmed that British MI6 agent Nicholas Langman infiltrated the International Atomic Energy Agency (IAEA), orchestrating sanctions against Iran and fueling Iranian suspicions of Western collusion. This revelation has led to a further breakdown in trust between Tehran and the IAEA, with Iranian officials now more convinced than ever of a coordinated campaign to undermine their sovereignty.
   
   **Trends and Predictions:**  
-  The convergence of intelligence, tech, and military sectors is accelerating, with high confidence that Western governments will continue to leverage private sector innovation for strategic advantage. Israeli influence—both direct and indirect—remains a significant factor in shaping Western policy and technology markets, especially regarding surveillance and security. The exposure of covert operations within international agencies like the IAEA is likely to fuel further distrust and resistance from targeted states, particularly Iran. Looking ahead, expect increased scrutiny of tech products’ origins and growing calls for transparency and accountability in both the public and private sectors.
+  The majority of independent analysts agree that the convergence of military, intelligence, and tech sector interests is accelerating, particularly in conflict zones like Gaza and in the surveillance of adversarial states such as Iran. The deepening scandal around the GHF is likely to prompt further investigations and could lead to increased scrutiny of private military contractors operating under humanitarian cover. The exposure of Israeli influence in both tech and intelligence spheres is expected to fuel calls for greater transparency and accountability, especially among activists and civil society groups. Given the current trajectory, I guarantee that tensions between Iran and Western institutions like the IAEA will intensify, with diplomatic engagement becoming increasingly fraught. The use of tech platforms as instruments of state policy is also most definitely set to expand, raising new challenges for privacy and international law.
 articles:
+  - title: New footage exposes ragtag US mercenaries firing toward Gaza aid seekers
+    url: https://thegrayzone.com/2025/07/07/new-footage-us-mercenaries-firing-gaza-aid/
+    text: Following an AP investigation accusing a US mercenary firm of firing on desperate
+      Gaza aid seekers, the company has released extensive new footage in an attempt
+      at damage control. But the video only further implicates the scandal-plagued operation.
+      On July 2, the Associated Press released an exposé containing short videos which
+      appeared to show American mercenaries associated with the Gaza Humanitarian Foundation
+      (GHF) opening fire on aid-seekers in Gaza during an incident in southern Gaza
+      this May. The footage was […] The post New footage exposes ragtag US mercenaries
+      firing toward Gaza aid seekers first appeared on The Grayzone . The post New footage
+      exposes ragtag US mercenaries firing toward Gaza aid seekers appeared first on
+      The Grayzone .
+    one_sentence_summary: A US mercenary firm, accused by an AP investigation of firing
+      on aid seekers in Gaza, attempted damage control by releasing new footage that
+      ultimately further implicates them in the incident.
+    paragraph_summary: Following an Associated Press investigation that accused a US
+      mercenary firm of shooting at aid seekers in Gaza, the company attempted to mitigate
+      the fallout by releasing new footage. However, this video only deepened the controversy
+      surrounding the operation. The AP's exposé, published on July 2, included clips
+      that seemingly depict American mercenaries linked to the Gaza Humanitarian Foundation
+      (GHF) firing on individuals seeking aid in southern Gaza during an incident in
+      May. The new footage has not cleared the firm of allegations but rather added
+      to the scrutiny of their actions.
+    published: '2025-07-07T07:16:46+00:00'
+  - title: New footage exposes ragtag US mercenaries firing toward Gaza aid seekers
+    url: https://thegrayzone.com/2025/07/07/new-footage-us-mercenaries-firing-gaza-aid/
+    text: Following an AP investigation accusing a US mercenary firm of firing on desperate
+      Gaza aid seekers, the company has released extensive new footage in an attempt
+      at damage control. But the video only further implicates the scandal-plagued operation.
+      On July 2, the Associated Press released an exposé containing short videos which
+      appeared to show American mercenaries associated with the Gaza Humanitarian Foundation
+      (GHF) opening fire on aid-seekers in Gaza during an incident in southern Gaza
+      this May. The footage was […] The post New footage exposes ragtag US mercenaries
+      firing toward Gaza aid seekers first appeared on The Grayzone . The post New footage
+      exposes ragtag US mercenaries firing toward Gaza aid seekers appeared first on
+      The Grayzone .
+    one_sentence_summary: A US mercenary firm, accused by an AP investigation of firing
+      on aid seekers in Gaza, attempted damage control by releasing new footage that
+      ultimately further implicates them in the incident.
+    paragraph_summary: Following an Associated Press investigation that accused a US
+      mercenary firm of shooting at aid seekers in Gaza, the company attempted to mitigate
+      the fallout by releasing new footage. However, this video only deepened the controversy
+      surrounding the operation. The AP's exposé, published on July 2, included clips
+      that seemingly depict American mercenaries linked to the Gaza Humanitarian Foundation
+      (GHF) firing on individuals seeking aid in southern Gaza during an incident in
+      May. The new footage has not cleared the firm of allegations but rather added
+      to the scrutiny of their actions.
+    published: '2025-07-07T07:16:46+00:00'
   - title: Best-selling apps made by Israeli spies revealed
     url: https://thegrayzone.com/2025/07/02/best-selling-apps-made-by-israeli-spies-revealed/
     text: 'Some of the most frequently downloaded Apple and Google apps were developed

@@ -7,14 +7,211 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  The past weeks have seen a dramatic escalation in U.S.-Iran tensions, with the June 13 Israeli strike on Iran—justified by a controversial IAEA resolution—serving as a flashpoint for broader regional and global realignments. As **Alastair Crooke** notes, the nuclear allegation that triggered the conflict was largely shaped by algorithmic intelligence, raising questions about the reliability of the threat assessments that underpinned the decision for military action. Despite initial appearances of Iranian vulnerability, Crooke argues that Iran has emerged from the crisis more unified and resilient, as the strikes failed to significantly damage its nuclear infrastructure and may have even been anticipated by Tehran.
+  The geopolitical landscape remains volatile in the wake of the U.S. and Israeli strikes on Iran’s nuclear facilities, with the latest analyses highlighting deepening uncertainty and the risk of further escalation. Recent developments underscore the performative nature of U.S. policy under President Trump, whose approach appears driven more by headline-grabbing actions than by coherent long-term strategy.
   
-  Meanwhile, the U.S. administration under President Trump faces mounting internal contradictions. The ongoing rift between the MAGA populist base and tech oligarchs, exemplified by the Musk-Trump feud, is threatening the cohesion of Trump’s political project. Crooke highlights that this internal discord could undermine the administration’s ability to formulate coherent foreign and domestic policies, particularly as economic anxieties intensify and the dollar’s global dominance is increasingly challenged by China’s financial maneuvers.
+  **Alastair Crooke** notes that the recent U.S. bombing campaign against Iran, while intended as a decisive show of force, failed to achieve its strategic objectives. Instead, it has left the region on edge, with Iran emerging more unified and resilient. Crooke emphasizes that the Israeli attack, rather than resolving tensions, has likely set the stage for continued conflict: “The Israeli attack did not achieve its intended strategic objectives and may lead to further escalation rather than resolution.”
   
-  On the European front, leaders remain largely reactive, struggling to adapt to the shifting U.S. posture on Ukraine and Russia. The recent Ukrainian attacks on Russian territory, described by Crooke as “PR stunts,” have failed to alter the strategic balance and instead underscore the West’s lack of a unified or effective strategy. Trump’s attempts to broker a ceasefire or reset relations with Russia are complicated by both European hesitancy and his own administration’s internal divisions.
+  The origins of the current crisis can be traced to a controversial IAEA resolution, which was heavily influenced by algorithmic intelligence assessments rather than clear evidence. As Crooke previously reported, the key nuclear allegation that justified the Israeli strike was “coaxed from a Palantir counter-intelligence algorithm,” raising questions about the reliability of the intelligence underpinning such consequential decisions.
   
-  Looking ahead, the majority view across sources suggests that Iran will continue to consolidate its regional position, having weathered the latest round of U.S.-Israeli pressure with minimal strategic loss. The U.S., meanwhile, is quite likely to face further difficulties in maintaining a coherent foreign policy as domestic political fractures deepen. In Europe, the inability to adapt to the new multipolar reality will most definitely exacerbate internal divisions and accelerate the continent’s relative decline. As Crooke concludes, the old order is unraveling, and the transition to a new global paradigm is now unavoidable—with high confidence that further instability and realignment will define the coming months.
+  Meanwhile, the Trump administration faces growing internal contradictions. The MAGA coalition’s unity is under strain, particularly as the interests of the populist base diverge from those of the tech elite. This internal discord, highlighted by the ongoing conflict between Elon Musk and Donald Trump, threatens to undermine the administration’s ability to manage both domestic and foreign policy crises.
+  
+  Looking ahead, the majority of analysts agree that the U.S. and Israel’s recent actions have not brought the desired resolution to the Iranian nuclear issue. Instead, there is a high chance of further escalation in the region, with Iran likely to strengthen its deterrence posture. The Trump administration’s reliance on spectacle over substance is expected to continue generating instability, both at home and abroad. As Crooke concludes, the failure to achieve strategic objectives in Iran “most definitely” signals a period of protracted uncertainty and potential for wider conflict.
 articles:
+  - title: '‘The Land Of Performance’: Trump Wanted A Perfect War, A Headline Showstopper
+      – OpEd'
+    url: https://www.eurasiareview.com/09072025-the-land-of-performance-trump-wanted-a-perfect-war-a-headline-showstopper-oped/
+    text: 'By Alastair Crooke
+
+
+      “Depending on who you ask, the U.S. bombing of Iran’s nuclear facilities in Fordow,
+      Natanz and Isfahan was either a smashing success that severely crippled Tehran’s
+      nuclear programme, or a flashy show whose results were less than advertised …
+      In the grand scheme of things, all of this is just drama”.
+
+
+      The big issue – second only to ‘what next in Iran’ and how they might respond
+      – says Michael Wolff (who has written four books on Trump), is “how the MAGA is
+      going to respond”:
+
+
+      “And I think he [Trump] is genuinely worried, [Wolff emphasises]. And I think
+      he should be worried. There are two fundamental things to this coalition – Immigration
+      and War. Everything else is fungible and can be compromised. It’s not sure those
+      two elements can be compromised”.
+
+
+      The signal from Hegseth (‘we are not at war with the Iranian people – just its
+      nuclear programme’) clearly reflects a message being ‘walked back’ in the face
+      of MAGA pushback: ‘Pay no attention. We’re not really doing war’ is what Hegseth
+      was trying to say.
+
+
+      So, what’s next? There are basically four things that can happen: First, the Iranians
+      can say ‘okay, we surrender’, but that’s just not going to happen; the second
+      option is protracted war between Iran and Israel with Israel continuing to be
+      attacked in a way that it has never been attacked before. And thirdly there is
+      attempted regime change – although this has never been successfully achieved by
+      air assault alone. Historically, America’s regime changes have been accompanied
+      by mass slaughter, years of instability, terrorism and chaos.
+
+
+      Lastly, there are those who warn that nuclear Armageddon is on the table with
+      the aim of destroying Iran. But that would be a case of self-harm, since it likely
+      would be Trump’s Armageddon too – at the midterm elections.
+
+
+      “Let me explain”, says Wolff;
+
+
+      “I have been making lots of calls – so I think I have a sense of the arc that
+      got Trump to where we are [with the strikes on Iran]. Calls are one of the main
+      ways I track what he is thinking (I use the word ‘thinking’ loosely)”. “I talk
+      to people whom Trump has been speaking with on the phone. I mean all of Trump’s
+      internal thinking is external; and it’s done in a series of his constant calls.
+      And it’s pretty easy to follow – because he says the same thing to everybody.
+      So, it’s this constant round of repetition …”. “So, basically, when the Israelis
+      attacked Iran, he got very excited about this – and his calls were all repetitions
+      of one theme: Were they going to win? Is this a winner? Is this game-over? They
+      [the Israelis] are so good! This really is a showstopper”. “So again, we’re in
+      the land of performance. This is a stage and the day before we attacked Iran,
+      his calls were constantly repeating: If we do this, it needs to be perfect. It
+      needs to be a win. It has to look perfect. Nobody dies”.
+
+
+      Trump keeps saying to interlocutors: “We go ‘in-boom-out’: Big Day. We want a
+      big day. We want (wait for it, Wolff says) a perfect war”. And then, out of the
+      blue, Trump announced a ceasefire, which Wolff suggests was ‘Trump concluding
+      his perfect war’.
+
+
+      And so, suddenly – with both Israel and Iran apparently co-operating with the
+      staging of this ‘perfect war headline’ – “he gets annoyed that it doesn’t run
+      perfectly”.
+
+
+      Wolff continues:
+
+
+      “Trump, by then, had already stepped into the role that ‘this was his war’. His
+      perfect war. Television drama at the highest level: War to create a headline.
+      And the headline is ‘WE WON’. I’m in charge now and everybody is going to do what
+      I tell them. What we saw subsequently was his frustration at the spoiling of an
+      outstanding headline: They’re not doing what he tells them”.
+
+
+      What is the broader ramification to this mico-episode? Well, Wolff for one believes
+      Trump is unlikely to get sucked into a long complex war. Why? “Because Trump simply
+      does not have the attention span for it. This is it. He’s done: In-boom-out”.
+
+
+      There is one fundamental point to be understood in Wolff’s analysis for its wider
+      strategic import: Trump craves attention. He thinks in terms of generating headlines
+      – each day, every day, but not necessarily the policies that flow from that headline.
+      He seeks daily headline dominance, and for that he wants to define the headlines
+      via a rhetorical posture – moulding ‘reality’ to give his own showstopping Trumpian
+      ‘take’.
+
+
+      Headlines then become, as it were, a sort of political dominance which can subsequently
+      metamorphose into policy – or not.
+
+
+      Nonetheless, it will not be quite as easy as Wolff suggests for Trump to simply
+      ‘move the spotlight on’ from Iran – although Trump is a master at finding a new
+      point of contention. For fundamentally, Trump has committed himself to the ancillary
+      headline of ‘Iran will never have a bomb’. Note that he does not define that in
+      policy terms, but gives himself wiggle-room for a possible later victory claim.
+
+
+      Yet, there is another fundamental point here: The Israeli attack on Iran on 13
+      June was supposed to collapse Iran like a house-of-cards. That is what Israel
+      expected – and what Trump clearly expected too: “[Trump’s phone calls on the eve
+      of the Israeli surprise attack] were all repetitions of one theme: Were they going
+      to win? Is this a winner? Is this game-over? [The Israelis] are so good! This
+      is really a show–stopper”. Trump foresaw the possible collapse of the Iranian
+      State.
+
+
+      Well … it wasn’t ‘game over’. Israelis may be hugging themselves in excitement
+      at the Mossad pièce de théâtre on 13 June; at the ‘professionalism’ of Mossad-led
+      decapitations; the assassinations of scientists, the cyber and the sabotage attacks.
+      Mossad is acclaimed by many in Israel – yet all were tactical achievements.
+
+
+      The s trategic objective – the ‘be all’ and ‘end all’ of it – was a bust: The
+      ‘House-of-Cards’ did not implode. Rather, it powerfully rebounded. Instead of
+      Iran being rendered weaker, the attack succeeded in firing-up Shia and Iranian
+      national identities. It has ignited a largely dormant national fervour and passion.
+      Iran will be the more resolute in the future.
+
+
+      So, if the Israeli 13 June assault didn’t succeed, why would the plan go any better
+      second time around and with Iran fully prepared? A long attritional war with Iran
+      may be Netanyahu’s preference to fuel his own hoped-for ‘Great Victory’ headline.
+      But Netanyahu cannot now pursue such delusions (neither can Israel survive an
+      attritional war) – without substantive American help (which might not be forthcoming).
+
+
+      Though Trump’s very evident queasiness (as painted by Wolff’s interlocutors) over
+      whether the Israeli sneak attack would prove to be a quick win or not, is suggestive
+      of Trump’s inner temper: “Is this a winner? Is this game-over? It needs to be
+      a win: It has to look perfect: In-boom-out”.
+
+
+      These repetitive enquiries to those around him spell more a lack of self-confidence,
+      rather than suggest that he wants – or has the attention span – for a long-drawn
+      out slug-match, bereft of a clear ‘game over’ moment.
+
+
+      Too, he will be rightly fearful of the effect on his MAGA base of a long war,
+      as well as on young Trump voters (who are already beginning to drift away from
+      Trump – as focus group polls suggest). Trump’s majorities in both Houses are incredibly
+      precarious. $300m could tip them either way.
+
+
+      Recall too, the second fundamentally important point is that Israel was attacked
+      in a way that it has never been attacked before. Israel still hides the extent
+      of the damage inflicted by Iranian missiles; but even senior Israeli security
+      watchers – as they digest the incrementally exposed extent of damage done to Israel
+      – are drawing the bitter lesson that the Iranian ‘programme’ may not be able to
+      be destroyed by military means. But only through a diplomatic agreement of some
+      sort – if at all.
+
+
+      Regime Change also has been revealed as a chimaera. Iran has never been as united
+      and as steadfast as it is now. The threat to kill the Supreme Leader also completely
+      backfired. Four Shia leading religious authorities (Marja’iyya), including the
+      celebrated Grand Ayatollah Sistani in Iraq, have issued rulings that any attack
+      on the Supreme Leader would trigger a jihad fatwa obligating all of the Ummah
+      (community) to join with religious war on America and Israel.
+
+
+      Negotiations between the U.S. and Iran reaching an agreed outcome seem far off.
+      The IAEA has made itself a major part to the problem, rather than forming any
+      part of a solution. Trump’s attention span on the Ukraine ‘ceasefire’ ploy seems
+      to be ebbing – and this possibly might be the eventual outcome with Iran too.
+      Long negotiations leading nowhere, as Iran quietly re-starts its enrichment programme.
+      And presumably Israel launching further assaults on Iran, leading to Iran’s inevitable
+      response – and escalation.'
+    one_sentence_summary: The article discusses the mixed perceptions of the U.S. bombing
+      of Iran's nuclear facilities, highlighting Trump's focus on generating headlines
+      and quick victories rather than engaging in prolonged conflict, while emphasizing
+      that the Israeli attack did not achieve its intended strategic objectives and
+      may lead to further escalation rather than resolution.
+    paragraph_summary: 'The article by Alastair Crooke discusses the implications of
+      recent U.S. bombings of Iranian nuclear facilities, highlighting the contrasting
+      views on their effectiveness and the potential responses from Iran and the U.S.
+      under Trump. Michael Wolff suggests that Trump is primarily concerned with the
+      perception of success, seeking a "perfect war" that generates headlines rather
+      than a long-term strategy. The article outlines four possible outcomes: Iranian
+      surrender (unlikely), a protracted war with Israel, attempts at regime change,
+      or a catastrophic escalation leading to nuclear conflict. It notes that the Israeli
+      attack on Iran did not achieve its intended strategic objectives, instead unifying
+      and energizing Iranian nationalism. The piece concludes that negotiations between
+      the U.S. and Iran appear distant, with ongoing military actions likely to provoke
+      further escalation, while Trump''s focus remains on short-term victories and media
+      narratives rather than sustainable policy.'
+    published: '2025-07-08T23:01:18+00:00'
   - title: What Means ‘Winning’? – OpEd
     url: https://www.eurasiareview.com/02072025-what-means-winning-oped/
     text: 'By Alastair Crooke

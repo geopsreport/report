@@ -7,19 +7,58 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  The current geopolitical landscape continues to be shaped by escalating tensions in the Middle East, persistent Western militarism, and growing challenges to civil liberties in the U.S. and Europe. Recent independent analyses highlight several key developments:
+  As of July 9, 2025, the international landscape remains marked by escalating tensions, persistent narratives, and calls for deeper understanding across geopolitical divides. Recent independent analyses highlight three key developments: Western perceptions of China, ongoing U.S. policy towards Cuba and peace activism, and the aftermath of the Gaza People’s Tribunal.
   
-  A notable incident underscoring the climate of repression in the United States involves the closure of bank accounts belonging to World BEYOND War, following a member’s legal visit to Cuba. **David Swanson** describes this as “reminiscent of McCarthyism,” arguing that such actions reflect a broader crackdown on peace activism and dissent. He urges transparency and collective resistance to what he sees as systemic injustices, warning that the chilling effect on advocacy is intensifying.
+  The forthcoming anthology "If You Want To Understand China," announced by the Transnational Foundation in Sweden, seeks to challenge the entrenched negative portrayals of China in Western political, economic, and media discourse. **Jan Oberg** underscores the anthology’s aim to foster a more nuanced understanding, warning that current one-sided narratives carry "critical and potentially dangerous implications." This initiative reflects a broader trend among independent scholars to question mainstream Western framing of China, advocating for dialogue over confrontation.
   
-  Meanwhile, the aftermath of Israel’s attack on Iran continues to reverberate in diplomatic circles. **Jan Oberg** sharply criticized Denmark’s UN Ambassador, Christina Markus Lassen, for what he called a “morally unacceptable” speech that omitted Israel’s aggression and focused solely on Iran’s alleged nuclear threat. Oberg contends that this narrative, prevalent among Western diplomats, distorts reality and fuels a cycle of interventionism and militarism, undermining international law and ethical standards.
+  Meanwhile, the climate for peace activists in the United States has come under scrutiny following the closure of World BEYOND War’s bank accounts after its member, David Swanson, attended a peace conference in Cuba. **Swanson** describes the incident as symptomatic of a "broader climate of fear and repression," likening it to a new era of McCarthyism. He calls for transparency and collective action against such measures, which he argues are rooted in longstanding U.S. hostility toward Cuba and serve to stifle dissent and peace advocacy.
   
-  On the grassroots front, the Gaza People’s Tribunal has issued the Sarajevo Declaration, calling for renewed commitment to Palestinian self-determination and justice. **Richard Falk** encourages widespread endorsement of the declaration, emphasizing the importance of international solidarity at this “pivotal moment.”
+  In the Middle East, the Gaza People’s Tribunal has issued the Sarajevo Declaration, emphasizing the Palestinian right to self-determination and calling for international solidarity. **Richard Falk**, a TFF Associate, urges widespread endorsement of the declaration, framing it as a pivotal step in the pursuit of justice and peace for Palestinians. This initiative signals a growing civil society movement seeking to influence international discourse and policy on the Israeli-Palestinian conflict.
   
-  **Trends and Predictions:**  
-  The dominant trend remains a hardening of Western policies—both domestically, through increased surveillance and repression of dissent, and internationally, via one-sided diplomatic stances and continued militarization. The majority of analysts, including Oberg, warn that these approaches are unsustainable and risk further escalation, particularly in the Middle East. Based on current trajectories, there is a *high chance* that Western governments will continue prioritizing security narratives over genuine conflict resolution, with Oberg stating it is “quite likely” that tensions with Iran will be used to justify further military interventions. Domestically, the climate of fear and repression is expected to persist, unless challenged by coordinated civil society efforts.
+  Looking ahead, the prevailing trends suggest a continued polarization in Western narratives about China, with independent voices pushing for greater balance and understanding. The repression of peace activism in the U.S. is likely to persist, given the entrenched security mindset and political sensitivities around Cuba. Civil society efforts, such as the Gaza People’s Tribunal, are expected to gain traction, but their impact on official policy remains uncertain.
   
-  In summary, the latest developments point to a deepening crisis of trust in Western institutions, both at home and abroad, with independent voices calling for greater accountability, transparency, and a renewed focus on peace-building and justice.
+  Based on the current trajectory, I, **Jan Oberg**, assess with high confidence that unless there is a fundamental shift in Western approaches—particularly regarding China and the Middle East—tensions and misunderstandings will most definitely persist, with civil society initiatives playing a critical but limited role in shaping outcomes.
 articles:
+  - title: “If You Want To Understand China” – Foreword, Intro and Content of a TFF
+      anthology.
+    url: https://transnational.live/2025/07/06/if-you-want-to-understand-china-foreword-to-a-tff-anthology-in-the-making/
+    text: 'Foreword August 25, 2024 – July 7, 2025 The Board of The Transnational Foundation
+      in Sweden has decided to publish an easy-to-read, scholarly anthology that addresses
+      one of the most important – and potentially dangerous – issues of our time: Why
+      are the political, economic, and medialised Western images of China so consistently
+      negative – […] The post “If You Want To Understand China” – Foreword, Intro and
+      Content of a TFF anthology. appeared first on The Transnational .'
+    one_sentence_summary: The Transnational Foundation in Sweden is set to publish an
+      accessible scholarly anthology exploring the consistently negative Western perceptions
+      of China, highlighting its significance and potential dangers.
+    paragraph_summary: The Transnational Foundation in Sweden is set to publish a scholarly
+      anthology titled "If You Want To Understand China," which aims to explore the
+      consistently negative political, economic, and media portrayals of China in the
+      West. Scheduled for release between August 25, 2024, and July 7, 2025, the anthology
+      seeks to address the critical and potentially dangerous implications of these
+      perceptions, encouraging a deeper understanding of China beyond the prevailing
+      narratives.
+    published: '2025-07-06T15:12:48+00:00'
+  - title: “If You Want To Understand China” – Foreword, Intro and Content of a TFF
+      anthology.
+    url: https://transnational.live/2025/07/06/if-you-want-to-understand-china-foreword-to-a-tff-anthology-in-the-making/
+    text: 'Foreword August 25, 2024 – July 7, 2025 The Board of The Transnational Foundation
+      in Sweden has decided to publish an easy-to-read, scholarly anthology that addresses
+      one of the most important – and potentially dangerous – issues of our time: Why
+      are the political, economic, and medialised Western images of China so consistently
+      negative – […] The post “If You Want To Understand China” – Foreword, Intro and
+      Content of a TFF anthology. appeared first on The Transnational .'
+    one_sentence_summary: The Transnational Foundation in Sweden is set to publish an
+      accessible scholarly anthology exploring the consistently negative Western perceptions
+      of China, highlighting its significance and potential dangers.
+    paragraph_summary: The Transnational Foundation in Sweden is set to publish a scholarly
+      anthology titled "If You Want To Understand China," which aims to explore the
+      consistently negative political, economic, and media portrayals of China in the
+      West. Scheduled for release between August 25, 2024, and July 7, 2025, the anthology
+      seeks to address the critical and potentially dangerous implications of these
+      perceptions, encouraging a deeper understanding of China beyond the prevailing
+      narratives.
+    published: '2025-07-06T15:12:48+00:00'
   - title: A U.S. Bank Closed Our Accounts Because I’d Visited Cuba Six Months Ago
     url: https://transnational.live/2025/06/27/a-u-s-bank-closed-our-accounts-because-id-visited-cuba-six-months-ago/
     text: 'David Swanson

@@ -7,15 +7,924 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  The ongoing contest between the BRICS coalition and Western powers continues to shape global geopolitics, with recent developments highlighting both the resilience of BRICS and the intensifying efforts by the West to undermine its influence. As **Larry C. Johnson** reports, the 2025 BRICS conference in Rio de Janeiro reaffirmed the bloc’s commitment to expansion, economic integration, and reducing dependence on the US dollar. Despite limited mainstream media coverage in the United States, Western intelligence and financial actors are acutely aware of BRICS’ challenge to the established financial order. According to Johnson, there is “active work to create unrest” in strategically significant countries—Armenia, Azerbaijan, Georgia, Iran, India, and Pakistan—aimed at disrupting BRICS’ momentum.
+  The past 24 hours have seen further turbulence in US foreign policy, particularly regarding the ongoing conflict in Ukraine. President Trump’s abrupt halt and subsequent reversal of the ban on weapons shipments to Ukraine has drawn sharp criticism and renewed questions about Washington’s strategic consistency. As **Larry C. Johnson** notes, this erratic approach has not only prompted condemnation from figures such as former Russian President Medvedev but also raised serious concerns about the reliability of US commitments to Kyiv’s defense. Johnson highlights that Trump’s decision to resume military aid closely mirrors the previous Biden administration’s stance, despite earlier warnings about depleted US stockpiles.
   
-  Armenia stands out as a focal point in this strategy. Prime Minister Nikol Pashinyan’s recent admission of territorial loss and the country’s diplomatic isolation underscore the consequences of Western-backed political shifts. Johnson notes that Armenia’s expectation of robust Western support, following what he describes as a “light-color revolution” to reduce Russian influence, has not materialized. Instead, Armenia finds itself weakened, forced into concessions over Nagorno-Karabakh, and facing a demoralized domestic landscape.
+  This lack of clear direction is not isolated. Johnson points out that Trump’s foreign policy, especially on issues involving Russia and Israel, continues to be marked by unpredictability and mixed messaging. The pattern of abrupt policy shifts is seen as undermining US credibility with both allies and adversaries, with Johnson warning that “the US lacks strategic depth” in its current posture.
   
-  Meanwhile, the broader information environment remains clouded by cultural and religious misunderstandings, particularly regarding the Israeli-Palestinian conflict and the role of Zionism. Johnson points out that the majority of the world’s population, especially in Asia, lacks familiarity with the eschatological narratives that drive Western and Israeli policy, complicating international discourse and limiting global engagement on these issues.
+  On the information front, Johnson’s recent analysis underscores the persistent use of language as a tool for shaping public perception and justifying military action. Drawing parallels to the 2003 Iraq War, he argues that Western leaders continue to manipulate narratives to sustain support for controversial interventions, a trend that remains relevant in the context of the Ukraine conflict.
   
-  **Trends and Predictions:**  
-  The majority of independent analysis suggests that the BRICS coalition is most definitely on track to expand its influence, with high confidence that efforts to reduce reliance on the US dollar will accelerate. However, Western attempts to destabilize key BRICS-aligned regions are likely to persist, especially in the Southern Caucasus and Central Asia. Armenia’s precarious position is expected to continue, with a high chance of further internal instability and diplomatic isolation unless there is a significant shift in external support or domestic policy. The information gap between Western and non-Western populations regarding the Middle East is likely to persist, ensuring that misunderstandings and divergent narratives will remain a feature of global debate for the foreseeable future.
+  Looking ahead, the prevailing view among analysts is that the US will continue to struggle with maintaining a coherent strategy in Ukraine. Johnson asserts with high confidence that further policy reversals are “most definitely” likely, given the administration’s track record. This instability is expected to embolden Russia’s negotiating position and complicate efforts to reach a durable settlement. The broader trend points toward increasing skepticism among US allies about Washington’s reliability, with potential ripple effects across other geopolitical flashpoints.
 articles:
+  - title: Trump’s Schizophrenia Cannot Hide the US Lack of Strategic Depth
+    url: https://sonar21.com/trumps-schizophrenia-cannot-hide-the-us-lack-of-strategic-depth/
+    text: 'Patriot Missile Launcher Sometime in the next decade, I think the publishers
+      of Roget’s Thesaurus will include, “Trump” as a new synonym for erratic . Trump
+      executed another of his signature volte face during a meeting with his cabinet.
+      According to The Economist : A MERICA ALARMED Ukraine, and European allies, when
+      it abruptly halted weapons shipments to Ukraine earlier this month (July 3rd).
+      Just as suddenly, President Donald Trump countermanded the order on July 7th.
+      “We are going to send some more weapons. We have to. They have to be able to defend
+      themselves. They’re getting hit very hard now.” Within hours, the Pentagon confirmed
+      it would send “additional defensive weapons”. Former Russian President Medvedev,
+      wasted no time skewering Trump with this post: Looks like the Russians are not
+      impressed with Trump’s fickle behavior and will continue to pulverize the Ukrainians.
+      Although Trump’s decision to send Ukraine some more weapons for defense was interpreted
+      as something that will happen quickly, Sean Parnell, the spokesman for DOD Secretary
+      Hegseth : insists that the process to “evaluate military shipments across the
+      globe remains in effect and is integral to our America First defence priorities”.
+      This implies that some weapons could still be held back from Ukraine. What Trump
+      does not understand is that the ability of the US to supply a variety of weapon
+      systems — both offensive and defensive — is constrained by a lack of supplies
+      and a weak industrial capability to ramp up production. Let’s take a look at some
+      of the systems: PATRIOT MISSILES : Start with the understanding that at least
+      two Patriot missiles are fired at an inbound missile. During the last three days,
+      Russia has launched more than 1300 missiles and drones at Ukraine. The annual
+      US production of Patriot missiles—specifically the PAC-3 MSE variant—is currently
+      about 500 missiles per year . Production is contractually obligated to increase
+      to 550 per year by mid-2025 and is expected to reach 650 per year by mid-2027.
+      When including both PAC-2 and PAC-3 variants (produced by Lockheed Martin and
+      Raytheon), the total US production is projected at around 740 Patriot missiles
+      per year in 2025, with plans to ramp up to approximately 1,100 per year by 2027.
+      In other words, if Ukraine tried to shoot down each of the 1300 missiles and drones
+      launched this week by Russia, that volley would have consumed more than three
+      years of current Patriot production. At what cost? The cost of a Patriot missile
+      depends on the variant: • PAC-2 GEM-T missile: Approximately $4 million per missile.
+      • PAC-3 MSE (Missile Segment Enhancement) missile: Approximately $7 million per
+      missile. M1 ABRAMS TANK : In 2024, the United States produced approximately 30
+      M1 Abrams tanks. This figure reflects a reduction from previous years and aligns
+      with the US Army’s FY2024 budget plans, which projected the production of 30 tanks
+      for that year. Most of these are not brand-new builds from scratch but rather
+      upgraded or rebuilt tanks—primarily conversions of older M1 variants to the latest
+      configurations (such as the M1A2 SEPv3). The production is handled by General
+      Dynamics Land Systems at the Joint Systems Manufacturing Center in Lima, Ohio.
+      Russia, by contrast, is producing 10 times the number. In 2024, Russia produced
+      an estimated 280 to 300 T-90M tanks. This figure is supported by multiple defense
+      analysis sources, including the Conflict Intelligence Team (CIT), Army Recognition,
+      and Military Watch Magazine, all of which report a significant surge in production
+      compared to prewar levels. The increase is attributed to expanded operations at
+      the Uralvagonzavod plant, which shifted to a 24-hour, three-shift schedule to
+      meet wartime demand. TERMINAL HIGH ALTITUDE AREA DEFENSE MISSILES (THAAD) : Industry
+      analysis and government reporting suggest the U.S. produces approximately 60–80
+      THAAD interceptors per year. This estimate is based on historical production rates
+      and recent increases in demand due to deployments in the Middle East and new orders
+      from allies. Israel reportedly launched over 90 THAADs against Iranian ballistic
+      missiles during the 12 day war. Each missile costs $13 million, which means $1.2
+      billion worth of THAADs were expended in a fruitless effort to thwart the Iranian
+      attacks. HIMARS MISSILES : In 2024, the United States produced approximately 14,000
+      HIMARS missiles—specifically, Guided Multiple- Launch Rocket System (GMLRS) rockets,
+      which are the primary munitions used by the M142 HIMARS launcher. • Monthly production:
+      As of September 2024, the U.S. was producing about 1,167 GMLRS rockets per month,
+      a 40% increase from 2022 levels. • Annual production: At this rate, annual output
+      is approximately 14,000 GMLRS rockets (1,167 × 12). The cost of an exported HIMARS
+      missile is approximately $220,000. BRADLEY FIGHTING VEHICLES : In 2024, the United
+      States contracted BAE Systems to produce more than 200 new modernized Bradley
+      Fighting Vehicles, specifically the A4 variants (M2A4 and M7A4). This production
+      surge is in response to the need to replenish vehicles sent to Ukraine and to
+      modernize the Army’s fleet. These vehicles are primarily modernized/upgraded from
+      older variants rather than entirely new-builds, reflecting current US Army procurement
+      and modernization strategies. The modernized M2A4 Bradley currently costs about
+      $4.35 million per vehicle as of recent US Army procurement in the mid-2020s. As
+      of early July 2025, Russia has destroyed, damaged, abandoned, or captured at least
+      140 Bradley Fighting Vehicles (BFVs) supplied to Ukraine since February 2022,
+      according to the open-source intelligence group Oryx and multiple defense analysis
+      reports. This figure includes vehicles that are visually confirmed as destroyed,
+      damaged, abandoned, or captured in combat. That is $609 million dollars lost in
+      Ukraine. STINGER MISSILES : The United States currently produces about 40 Stinger
+      missiles per month, with plans to increase production to 60 per month by 2025—a
+      50% increase from the current rate. This means the annual production rate in 2024
+      is approximately 480 Stinger missiles, with a target of 720 missiles per year
+      once the ramp-up is complete. 155 MM ARTILLERY SHELLS : In 2024, the United States
+      produced approximately 400,000 to 480,000 155 mm artillery shells. The cost of
+      a 155 mm artillery shell depends on the type: • Standard (unguided) 155 mm shell:
+      • Current market price is approximately €3,300–€4,000 per shell (about $3,600–$4,400
+      USD as of 2024). • US Army procurement data for the XM1113 round lists a unit
+      cost of about $13,656 per shell, and the XM1113 Extended Range round at $14,484.
+      These figures may include additional costs related to U.S. military procurement.
+      • Precision-guided 155 mm shell (e.g., M982 Excalibur): • Costs over $110,000
+      per shell. 155 MM HOWITZERS : In 2024, the United States produced approximately
+      200–250 new 155 mm howitzers. The US Army’s primary 155 mm howitzers are the M777
+      (towed) and the M109A7 Paladin (self-propelled). Russian drone manufacturer ZALA
+      claims that nearly 200 American-made M777 howitzers supplied to Ukraine have been
+      destroyed by Russian Lancet drones since February 2022. In 2024, the United States
+      produced fewer than 30 replacement barrels per month for the M777 howitzer, totaling
+      fewer than 360 barrels for the year. The sole US production facility, Watervliet
+      Arsenal, was unable to meet the “unprecedented demand” created by Ukraine’s high
+      rate of artillery fire, which led to rapid barrel wear and an urgent need for
+      replacements. The cost of a replacement barrel (M776 cannon tube) for the M777
+      howitzer is approximately $690,000 USD. This figure is based on Canada’s June
+      2022 contract to provide 10 replacement barrels to Ukraine for a total of $6.9
+      million. As you can see, the US production of these weapons systems is anemic
+      and expensive. Moreover, the demand for these systems is not confined to Ukraine…
+      Israel, Taiwan and other US allies also need these weapons, as well as the US
+      providing supplies for its own forces. Uncle Sam has become Old Mother Hubbard
+      … The cupboard is bare. Danny Davis and I had an interesting chat today about
+      Trump’s erratic behavior: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: President Trump exhibited erratic decision-making by abruptly
+      halting and then reversing a ban on weapons shipments to Ukraine, prompting criticism
+      from former Russian President Medvedev and raising concerns about the implications
+      for Ukraine's defense.
+    paragraph_summary: The article discusses President Donald Trump's erratic decision-making
+      regarding military support for Ukraine, highlighting a recent instance where he
+      abruptly halted and then reversed a decision to stop weapons shipments to the
+      country. Following his reversal, the Pentagon confirmed the dispatch of additional
+      defensive weapons, although concerns were raised about the U.S.'s ability to supply
+      these due to limited production capabilities. The article emphasizes the challenges
+      faced in ramping up the production of critical systems like Patriot missiles,
+      which are essential for Ukraine's defense against Russian attacks, particularly
+      given the high volume of missiles and drones launched by Russia. Overall, the
+      piece critiques Trump's inconsistent approach and the implications for U.S. military
+      support amidst ongoing conflict.
+    published: '2025-07-09T04:05:46+00:00'
+  - title: Trump’s Schizophrenia Cannot Hide the US Lack of Strategic Depth
+    url: https://sonar21.com/trumps-schizophrenia-cannot-hide-the-us-lack-of-strategic-depth/
+    text: 'Patriot Missile Launcher Sometime in the next decade, I think the publishers
+      of Roget’s Thesaurus will include, “Trump” as a new synonym for erratic . Trump
+      executed another of his signature volte face during a meeting with his cabinet.
+      According to The Economist : A MERICA ALARMED Ukraine, and European allies, when
+      it abruptly halted weapons shipments to Ukraine earlier this month (July 3rd).
+      Just as suddenly, President Donald Trump countermanded the order on July 7th.
+      “We are going to send some more weapons. We have to. They have to be able to defend
+      themselves. They’re getting hit very hard now.” Within hours, the Pentagon confirmed
+      it would send “additional defensive weapons”. Former Russian President Medvedev,
+      wasted no time skewering Trump with this post: Looks like the Russians are not
+      impressed with Trump’s fickle behavior and will continue to pulverize the Ukrainians.
+      Although Trump’s decision to send Ukraine some more weapons for defense was interpreted
+      as something that will happen quickly, Sean Parnell, the spokesman for DOD Secretary
+      Hegseth : insists that the process to “evaluate military shipments across the
+      globe remains in effect and is integral to our America First defence priorities”.
+      This implies that some weapons could still be held back from Ukraine. What Trump
+      does not understand is that the ability of the US to supply a variety of weapon
+      systems — both offensive and defensive — is constrained by a lack of supplies
+      and a weak industrial capability to ramp up production. Let’s take a look at some
+      of the systems: PATRIOT MISSILES : Start with the understanding that at least
+      two Patriot missiles are fired at an inbound missile. During the last three days,
+      Russia has launched more than 1300 missiles and drones at Ukraine. The annual
+      US production of Patriot missiles—specifically the PAC-3 MSE variant—is currently
+      about 500 missiles per year . Production is contractually obligated to increase
+      to 550 per year by mid-2025 and is expected to reach 650 per year by mid-2027.
+      When including both PAC-2 and PAC-3 variants (produced by Lockheed Martin and
+      Raytheon), the total US production is projected at around 740 Patriot missiles
+      per year in 2025, with plans to ramp up to approximately 1,100 per year by 2027.
+      In other words, if Ukraine tried to shoot down each of the 1300 missiles and drones
+      launched this week by Russia, that volley would have consumed more than three
+      years of current Patriot production. At what cost? The cost of a Patriot missile
+      depends on the variant: • PAC-2 GEM-T missile: Approximately $4 million per missile.
+      • PAC-3 MSE (Missile Segment Enhancement) missile: Approximately $7 million per
+      missile. M1 ABRAMS TANK : In 2024, the United States produced approximately 30
+      M1 Abrams tanks. This figure reflects a reduction from previous years and aligns
+      with the US Army’s FY2024 budget plans, which projected the production of 30 tanks
+      for that year. Most of these are not brand-new builds from scratch but rather
+      upgraded or rebuilt tanks—primarily conversions of older M1 variants to the latest
+      configurations (such as the M1A2 SEPv3). The production is handled by General
+      Dynamics Land Systems at the Joint Systems Manufacturing Center in Lima, Ohio.
+      Russia, by contrast, is producing 10 times the number. In 2024, Russia produced
+      an estimated 280 to 300 T-90M tanks. This figure is supported by multiple defense
+      analysis sources, including the Conflict Intelligence Team (CIT), Army Recognition,
+      and Military Watch Magazine, all of which report a significant surge in production
+      compared to prewar levels. The increase is attributed to expanded operations at
+      the Uralvagonzavod plant, which shifted to a 24-hour, three-shift schedule to
+      meet wartime demand. TERMINAL HIGH ALTITUDE AREA DEFENSE MISSILES (THAAD) : Industry
+      analysis and government reporting suggest the U.S. produces approximately 60–80
+      THAAD interceptors per year. This estimate is based on historical production rates
+      and recent increases in demand due to deployments in the Middle East and new orders
+      from allies. Israel reportedly launched over 90 THAADs against Iranian ballistic
+      missiles during the 12 day war. Each missile costs $13 million, which means $1.2
+      billion worth of THAADs were expended in a fruitless effort to thwart the Iranian
+      attacks. HIMARS MISSILES : In 2024, the United States produced approximately 14,000
+      HIMARS missiles—specifically, Guided Multiple- Launch Rocket System (GMLRS) rockets,
+      which are the primary munitions used by the M142 HIMARS launcher. • Monthly production:
+      As of September 2024, the U.S. was producing about 1,167 GMLRS rockets per month,
+      a 40% increase from 2022 levels. • Annual production: At this rate, annual output
+      is approximately 14,000 GMLRS rockets (1,167 × 12). The cost of an exported HIMARS
+      missile is approximately $220,000. BRADLEY FIGHTING VEHICLES : In 2024, the United
+      States contracted BAE Systems to produce more than 200 new modernized Bradley
+      Fighting Vehicles, specifically the A4 variants (M2A4 and M7A4). This production
+      surge is in response to the need to replenish vehicles sent to Ukraine and to
+      modernize the Army’s fleet. These vehicles are primarily modernized/upgraded from
+      older variants rather than entirely new-builds, reflecting current US Army procurement
+      and modernization strategies. The modernized M2A4 Bradley currently costs about
+      $4.35 million per vehicle as of recent US Army procurement in the mid-2020s. As
+      of early July 2025, Russia has destroyed, damaged, abandoned, or captured at least
+      140 Bradley Fighting Vehicles (BFVs) supplied to Ukraine since February 2022,
+      according to the open-source intelligence group Oryx and multiple defense analysis
+      reports. This figure includes vehicles that are visually confirmed as destroyed,
+      damaged, abandoned, or captured in combat. That is $609 million dollars lost in
+      Ukraine. STINGER MISSILES : The United States currently produces about 40 Stinger
+      missiles per month, with plans to increase production to 60 per month by 2025—a
+      50% increase from the current rate. This means the annual production rate in 2024
+      is approximately 480 Stinger missiles, with a target of 720 missiles per year
+      once the ramp-up is complete. 155 MM ARTILLERY SHELLS : In 2024, the United States
+      produced approximately 400,000 to 480,000 155 mm artillery shells. The cost of
+      a 155 mm artillery shell depends on the type: • Standard (unguided) 155 mm shell:
+      • Current market price is approximately €3,300–€4,000 per shell (about $3,600–$4,400
+      USD as of 2024). • US Army procurement data for the XM1113 round lists a unit
+      cost of about $13,656 per shell, and the XM1113 Extended Range round at $14,484.
+      These figures may include additional costs related to U.S. military procurement.
+      • Precision-guided 155 mm shell (e.g., M982 Excalibur): • Costs over $110,000
+      per shell. 155 MM HOWITZERS : In 2024, the United States produced approximately
+      200–250 new 155 mm howitzers. The US Army’s primary 155 mm howitzers are the M777
+      (towed) and the M109A7 Paladin (self-propelled). Russian drone manufacturer ZALA
+      claims that nearly 200 American-made M777 howitzers supplied to Ukraine have been
+      destroyed by Russian Lancet drones since February 2022. In 2024, the United States
+      produced fewer than 30 replacement barrels per month for the M777 howitzer, totaling
+      fewer than 360 barrels for the year. The sole US production facility, Watervliet
+      Arsenal, was unable to meet the “unprecedented demand” created by Ukraine’s high
+      rate of artillery fire, which led to rapid barrel wear and an urgent need for
+      replacements. The cost of a replacement barrel (M776 cannon tube) for the M777
+      howitzer is approximately $690,000 USD. This figure is based on Canada’s June
+      2022 contract to provide 10 replacement barrels to Ukraine for a total of $6.9
+      million. As you can see, the US production of these weapons systems is anemic
+      and expensive. Moreover, the demand for these systems is not confined to Ukraine…
+      Israel, Taiwan and other US allies also need these weapons, as well as the US
+      providing supplies for its own forces. Uncle Sam has become Old Mother Hubbard
+      … The cupboard is bare. Danny Davis and I had an interesting chat today about
+      Trump’s erratic behavior: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: President Trump exhibited erratic decision-making by abruptly
+      halting and then reversing a ban on weapons shipments to Ukraine, prompting criticism
+      from former Russian President Medvedev and raising concerns about the implications
+      for Ukraine's defense.
+    paragraph_summary: The article discusses President Donald Trump's erratic decision-making
+      regarding military support for Ukraine, highlighting a recent instance where he
+      abruptly halted and then reversed a decision to stop weapons shipments to the
+      country. Following his reversal, the Pentagon confirmed the dispatch of additional
+      defensive weapons, although concerns were raised about the U.S.'s ability to supply
+      these due to limited production capabilities. The article emphasizes the challenges
+      faced in ramping up the production of critical systems like Patriot missiles,
+      which are essential for Ukraine's defense against Russian attacks, particularly
+      given the high volume of missiles and drones launched by Russia. Overall, the
+      piece critiques Trump's inconsistent approach and the implications for U.S. military
+      support amidst ongoing conflict.
+    published: '2025-07-09T04:05:46+00:00'
+  - title: 'The War on Truth: How Our Leaders Lie While Pretending Not to'
+    url: https://sonar21.com/the-war-on-truth-how-our-leaders-lie-while-pretending-not-to/
+    text: '“Upon their strings, the papers dance, Ink-stained puppets, in dark romance,
+      With sharpened quills, they pen their lies, To fan the flames, and stoke the cries.
+      For war and ruin, they conspire, To set the world’s stage afire, With whispered
+      words and twisted truth, They prey on minds, both old and youth.” “Freedom” —
+      The Frontier Man When Language Becomes a Weapon On February 5, 2003, U.S. Secretary
+      of State Colin Powell stood before the United Nations Security Council, holding
+      up a small vial of white powder. “Less than a teaspoon of dry anthrax,” he warned,
+      “shut down the United States Senate in the fall of 2001.” Then, looking around
+      the chamber with solemn authority, he declared: “There can be no doubt that Saddam
+      Hussein has biological weapons and the capability to rapidly produce more, many
+      more.” The room was silent. Powell was composed, deliberate, and gravely persuasive.
+      He spoke of intercepted communications, decontamination trucks, and “mobile biological
+      weapons factories.” At one point, he looked directly into the cameras and said:
+      “Every statement I make today is backed up by sources, solid sources. These are
+      not assertions. What we’re giving you are facts and conclusions based on solid
+      intelligence.” The speech was a masterclass in performed sincerity: measured tone,
+      scientific language, visual aids, and emotional appeals to fear and responsibility.
+      And yet, the weapons were never found. The intelligence was deeply flawed. Years
+      later, Powell called the speech a “painful” and “permanent blot” on his record.
+      But by then, the damage was done. Believing his words, the United States hurtled
+      toward an 8-year war that would cost hundreds of thousands of lives and trillions
+      of dollars, destabilize an entire region, and erode trust in Western institutions
+      for a generation. This moment was not just a policy failure—it was a linguistic
+      deception event. It revealed how language, delivered with sincerity and confidence,
+      can be used not just to mislead, but to fabricate consent for war. Powell did
+      not scream. He did not lie in the crude, cartoonish fashion of a propagandist.
+      He lied in the way that matters most today: with calm authority, persuasive language,
+      and all the trappings of truth. Language is not just how we speak—it’s how we
+      make sense of the world. We use words to describe reality, to build trust, to
+      create laws, and to express values. But words can also be used to manipulate,
+      to hide the truth, and to control how people think and feel. Today, many leaders
+      lie—often not by making obvious false statements, but by bending language in subtle,
+      clever ways. They say things that sound honest while hiding dishonesty beneath
+      the surface. This essay explores how this form of deception works, why it’s so
+      dangerous, and how we can learn to recognize it. As George Orwell wrote in his
+      seminal 1946 essay Politics and the English Language , political language “is
+      designed to make lies sound truthful and murder respectable, and to give an appearance
+      of solidity to pure wind.” The philosopher Hannah Arendt warned that the destruction
+      of truth is central to authoritarian rule. In her 1971 essay “Lying in Politics,”
+      she argued that when facts become unstable, people become more susceptible to
+      propaganda and demagogues. This essay follows their insights by examining how
+      modern leaders cloak deception in respectable forms—and how language itself can
+      become corrupted in the process. Here are some examples of how language is used
+      to deceive: Empty Assurance: Saying Something Without Meaning Anything Sometimes
+      leaders say things that seem reassuring, but don’t actually commit to any action.
+      For example: “We take these concerns very seriously.” This sounds like a promise
+      to act, but it’s often just a polite way to avoid doing anything concrete. It’s
+      a way of pretending to care without taking responsibility. Passive Voice: Hiding
+      Who’s Responsible In grammar, the passive voice is when something is done, but
+      the person doing it isn’t named. Compare: Active voice : “We made mistakes.” Passive
+      voice : “Mistakes were made.” Politicians and officials often use passive voice
+      to avoid taking blame. If no one is named, no one can be held accountable. An
+      example from real life: During the U.S. military prison scandal in Abu Ghraib
+      (2004), officials used phrases like “abuses occurred” instead of “we committed
+      abuses” —shifting attention away from the perpetrators. Euphemisms: Soft Words
+      for Harsh Realities A euphemism is a mild or vague word used to replace one that
+      might be upsetting or offensive. Leaders use euphemisms to make unpleasant truths
+      sound acceptable. Examples: “Collateral damage” instead of killing civilians during
+      a military strike. “Enhanced interrogation” instead of torture . “Restructuring”
+      or “rightsizing” instead of laying people off . Euphemisms are used not just to
+      protect feelings, but to control how people interpret events. They hide the emotional
+      or moral weight of what’s really happening. Framing: Shaping How We See the World
+      Framing means choosing words or phrases that guide people toward a specific interpretation,
+      even if the facts don’t change. It’s like putting a photo in a red frame versus
+      a black one—the image stays the same, but the mood changes. Examples: A protest
+      can be framed as a “riot” (dangerous and chaotic) or a “movement for justice”
+      (noble and necessary). A tax cut might be called “relief” (implying suffering)
+      or “a handout to the rich” (implying unfairness). Framing is powerful because
+      it affects how we emotionally and morally respond to events. Leaders and media
+      often use framing to sway public opinion without changing the actual facts. Vagueness:
+      Speaking Without Saying Anything Vague language allows leaders to appear like
+      they are taking action or making promises, while avoiding specifics that could
+      hold them accountable. For example: “We will explore all options.” This statement
+      sounds responsible, but it doesn’t mean anything concrete. It creates the illusion
+      of leadership without committing to a path. Similarly, companies say things like:
+      “We are committed to sustainability.” What does “committed” mean here? Are there
+      goals? Deadlines? Actions? Often, no. It’s a public relations move that sounds
+      good but says little. Performed Sincerity: Acting Honest Without Being Honest
+      Sometimes, deception doesn’t happen in the words themselves, but in how those
+      words are delivered. Politicians often use body language, tone of voice, or emotional
+      stories to appear sincere. Examples of performed sincerity : Speaking in a casual
+      or emotional tone: “Look, folks… I understand.” Sharing personal stories: “As
+      a mother/father, I know how hard this is.” Making eye contact, lowering the voice,
+      or even crying. These cues signal honesty—but they can be faked. A speaker can
+      appear heartfelt while saying something misleading or false. This is a kind of
+      performance , and it’s powerful because humans are wired to trust people who seem
+      sincere, even when we should be skeptical. Understanding Why Deceptive Language
+      Works To resist manipulative language, we must also understand why it so often
+      succeeds. Human cognition is not wired for constant vigilance. Psychologists have
+      shown that we rely on mental shortcuts— heuristics —to process complex information
+      quickly. When a speaker appears calm, authoritative, or emotionally in tune with
+      our values, our brains often substitute these cues for critical scrutiny. This
+      is known as the affect heuristic : we tend to judge statements as true if they
+      are spoken with alleged authority, make us feel good, or align with our group
+      identity. Moreover, confirmation bias leads people to accept claims that reinforce
+      what they already believe, while discounting facts that challenge their worldview.
+      Motivated reasoning —our tendency to reason toward a desired conclusion rather
+      than truth—further compounds the problem. In this environment, performed sincerity
+      becomes a powerful weapon. It doesn’t just bypass reason—it co-opts it. When paired
+      with emotionally charged framing or repetition, such language can implant durable
+      falsehoods in the public mind, even after the original claims are debunked. This
+      is why political deception isn’t merely a moral failure—it is a psychological
+      deception strategy. And countering it requires not just moral will, but also cognitive
+      awareness. Why This Matters: The Collapse of Shared Truth When leaders constantly
+      manipulate language, people stop trusting not just politicians—but words themselves.
+      Eventually, facts become meaningless. People stop asking “Is this true?” and start
+      asking “Is this what my side believes?” Philosopher Harry Frankfurt, in his essay
+      On Bullshit , draws a crucial distinction: a liar knows the truth and hides it;
+      a bullshitter is indifferent to whether what he says is true or false. Today’s
+      crisis is not just the result of lies—it is a culture of indifference to truth
+      itself. In such a world, language becomes noise, facts become partisan tokens,
+      and public debate descends into meaningless spectacle. If words no longer connect
+      us to reality, then democratic deliberation becomes impossible. This creates division,
+      confusion, and cynicism. If everyone is lying, who can you believe? When words
+      no longer describe reality, we can no longer solve real problems together. Society
+      breaks down. What We Can Do: Becoming Language-Aware Citizens To fight back, we
+      don’t need more shouting—we need better listening and sharper thinking. Everyone
+      should learn how to spot dishonest language. Here’s how: Question euphemisms :
+      What’s the real thing being described? Ask who’s responsible : Is the speaker
+      avoiding blame? Look for specifics : Are they telling you what they’ll actually
+      do? Watch for performance : Do they sound honest—or are they being honest? Compare
+      frames : Are you being nudged toward one moral viewpoint without being shown the
+      full picture? Being alert to these tricks doesn’t make us cynical—it makes us
+      better citizens. We can demand clarity. We can call out manipulation. We can protect
+      the connection between words and truth. A Way Forward: Concrete Steps for Rebuilding
+      a Truthful Society Recognizing the problem is the first step. Acting on it is
+      the next. Rebuilding a culture that values truth in public language requires specific,
+      systemic interventions. These steps—especially in education, media, governance,
+      and technology—can begin to reverse the damage caused by manipulative speech.
+      Language and Media Literacy Education in Schools We must teach students not only
+      what to think but how to think critically about language. Curriculum on rhetoric
+      and propaganda should begin by middle school. Students should learn to identify
+      propaganda, euphemisms, spin, framing, passive constructions, and emotional manipulation
+      in advertising, political speech, and media. Classroom news analysis can train
+      students to compare headlines and coverage across ideological outlets, helping
+      them spot biases and distortion. Practical exercises should include rewriting
+      euphemistic or vague statements in plain, honest language and exploring how wording
+      changes perception. By making this a core part of education, we will empower future
+      generations to resist manipulation and demand integrity from their leaders. Adult
+      Education and Public Campaigns Not everyone went to school in the age of digital
+      misinformation. We need public-facing efforts to raise linguistic awareness among
+      adults: Community workshops in libraries, unions, and civic centers can offer
+      training on spotting deceptive language in news and politics. Public service announcements
+      and social media campaigns can highlight common tricks of misleading language
+      (e.g., “What does ‘mistakes were made’ really mean?”). Nonprofit alliances can
+      produce open-source toolkits for media consumers and educators to analyze public
+      speech. This is civic hygiene: just as we teach people to recognize fraud in finance,
+      we should teach them to recognize fraud in language. Transparency Standards for
+      Political Communication Laws cannot—and should not—ban free speech. Censorship
+      is not the answer—we must cherish and enforce the precious First Amendment. As
+      history tells us, any attempt to ban “wrong” speech results in necessarily appointing
+      an “arbiter of truth” who becomes a totalitarian censor. The answer to deceptive
+      or misleading speech is not censorship but more truthful speech and more transparency.
+      But we can push for transparency in how public messaging is produced and labeled:
+      Plain language laws can require that laws, regulations, government forms, and
+      official statements be written in clear, accessible, jargon-free language. Full
+      disclosure of conflicts of interest : Just as we require financial disclosures
+      in advertising, all public officials and public campaigns should disclose who
+      funds them. Independent fact-checking bodies , protected from political control,
+      should have a visible role in live broadcasts, debates, and digital content—flagging
+      vague or misleading claims in real time. Linguistic Integrity in Journalism and
+      Media Media organizations must take responsibility for the language they amplify.
+      Editorial guidelines for clarity and accountability must be introduced which should
+      discourage the use of untruthful and misleading language. Headlines and soundbites
+      should be held to high standards of factual accuracy and linguistic honesty. Media
+      watchdogs must be strengthened and made more visible to the public. We need to
+      praise not just good reporting—but good language use in reporting. Precision must
+      be seen as a journalistic virtue. Tech Solutions with Human Oversight Social media
+      platforms shape much of our public discourse. Their algorithms reward emotional,
+      simplistic, or manipulative language. Algorithmic transparency laws should require
+      platforms to reveal how engagement is promoted and whether misleading content
+      is being amplified. Linguistic flagging tools : AI-based browser extensions and
+      apps can highlight vague, passive, or euphemistic language in real time—offering
+      users plain-language summaries or counterpoints. Tech should help us think more
+      clearly, not manipulate us more efficiently. Living in Truth: A Cultural Shift
+      Toward Courageous Speech Václav Havel, the dissident playwright who became president
+      of a free Czechoslovakia, believed that “even a single act of truth can shatter
+      the lie.” In The Power of the Powerless , he described “living in truth” not as
+      heroism, but as the quiet refusal to speak what one does not believe. In an age
+      of linguistic distortion, this refusal becomes a revolutionary act. We need to
+      demand a new cultural norm—one that prizes clarity over spin, truth over polish,
+      and moral courage over rhetorical manipulation. Beyond policy and education, this
+      crisis is ultimately moral. We must reward those who speak clearly and truthfully—even
+      when their message is uncomfortable. Celebrate plainspoken truth-tellers in journalism,
+      media, literature, and public service. Ensure strong whistleblower protections
+      for those who take risks to tell the truth to the public. Create cultural norms
+      where untruthful, misleading, and manipulative speech is seen as cowardly, unacceptable,
+      and disqualifying from public service, not clever. Call out deceptive speech not
+      just as partisan error, but as a civic betrayal. Truth must become our core value
+      again—not through nostalgia, but through example, courage, and clarity. Reclaiming
+      the Moral Power of Language In our time, speaking clearly and truthfully—refusing
+      euphemisms, spin, and pretense—is an act of civic duty. Language must again become
+      a vessel for truth and conscience. Words are not decorations. They are tools of
+      meaning, tools of truth—or tools of deception. When leaders lie while pretending
+      not to, they unravel the thread of truth that ties language to reality. That thread
+      of truth must be rebuilt—not just by linguists or educators, but by all of us.
+      To restore truth in society, we must start with language. That means valuing honesty
+      over smooth talk, substance over style, and integrity over performance. It means
+      reclaiming our right to words that mean what they say. Because when we lose that,
+      we don’t just lose trust—we lose our grip on reality. We can no longer understand
+      what is happening and have a truthful debate about our most important issues.
+      And without that debate, democracy cannot stand. Education is our foundation.
+      Vigilance is our duty. Clarity is our weapon. To speak truthfully is to act morally.
+      To teach truthfulness is to defend democracy. And to demand truth from power is
+      not just our right—it is our responsibility. “Reclaim the right to think and live,
+      by values that we choose, And to ourselves our essence give, no longer to abuse.
+      A revolution of the mind, rebellion of the soul. In every heart, a spark we’ll
+      find, to make the broken whole. A sovereign people, wild and free, we rise to
+      break the chain. And in our freedom, we shall see, our true selves once again.”
+      “Rebellion of the Soul” — The Frontier Man The Frontier Man is an American poet,
+      writer, musician, and visual artist. He publishes his work under a pen name to
+      maintain focus on his ideas and art rather than his identity. You can follow The
+      Frontier Man on his Substack, Verses & Visions ; on X at @FrontierArt1 ; and on
+      Telegram at @VersesVisions . Artwork Rebellion of the Soul The Frontier Man August
+      2024 Recommended Literature List Foundational Works on Propaganda and Language
+      Manipulation Edward S. Herman & Noam Chomsky. (1988). Manufacturing Consent: The
+      Political Economy of the Mass Media. Pantheon Books. Describes structural biases
+      in mass media and how they serve power elites. Introduces the “propaganda model”
+      and shows how language and framing are used to manufacture public consent. Edward
+      Bernays. (1928). Propaganda. Horace Liveright. Outlines early 20th-century public
+      relations and psychological manipulation. Shows how emotionally charged language
+      can shape public opinion, authored by the so-called “father of PR.” George Orwell.
+      (1946). Politics and the English Language. Horizon , April issue. Explores how
+      vague, euphemistic, and inflated political language conceals truth and enables
+      the justification of unethical policies. Drew Westen. (2007). The Political Brain:
+      The Role of Emotion in Deciding the Fate of the Nation. PublicAffairs. Uses neuroscience
+      to show how emotional—not rational—appeals drive political persuasion, illustrating
+      how language exploits moral-emotional circuits to influence and polarize. Modern
+      Studies in Political Language George Lakoff. (2004). Don’t Think of an Elephant!:
+      Know Your Values and Frame the Debate. Chelsea Green Publishing. Explains how
+      conservatives and liberals use different cognitive frames and metaphors to influence
+      opinion, highlighting the power of values-based language over facts. Michiko Kakutani.
+      (2018). The Death of Truth: Notes on Falsehood in the Age of Trump. Tim Duggan
+      Books. Analyzes the erosion of shared reality through relativism, media fragmentation,
+      and propaganda, focusing on the linguistic tactics of post-truth politics. Linguistic
+      and Psychological Tools of Deception Adrian Beard. (2000). The Language of Politics.
+      Routledge. Dissects how political language employs rhetorical strategies—such
+      as metaphor, modality, and presupposition—to construct authority, obscure intent,
+      and shape belief. Daniel J. Levitin. (2016). Weaponized Lies: How to Think Critically
+      in the Post-Truth Era. Dutton. *(Originally published as A Field Guide to Lies
+      ) Provides tools for identifying misleading statistics, charts, and linguistic
+      framing, empowering readers to critically evaluate media and political claims.
+      Ryan Holiday. (2012). Trust Me, I’m Lying: Confessions of a Media Manipulator.
+      Portfolio. An insider exposé on how digital media ecosystems amplify outrage and
+      misinformation for profit, showing how blogs and social media distort truth. Classic
+      Literary and Philosophical Works George Orwell. (1949). Nineteen Eighty-Four.
+      Secker & Warburg. Depicts totalitarian control through language, most famously
+      through “Newspeak,” demonstrating how restricted vocabulary limits thought and
+      enforces ideology. Harry G. Frankfurt. (2005). On Bullshit. Princeton University
+      Press. Makes a philosophical distinction between lying and bullshitting, arguing
+      that the latter—marked by disregard for truth—is more corrosive to discourse.'
+    one_sentence_summary: The article discusses how language can be manipulated as a
+      weapon to incite war and spread misinformation, exemplified by Colin Powell's
+      persuasive yet misleading presentation to the UN about Iraq's alleged biological
+      weapons in 2003.
+    paragraph_summary: The article discusses the powerful role of language as a weapon,
+      particularly in the context of U.S. Secretary of State Colin Powell's infamous
+      speech to the United Nations on February 5, 2003, where he presented flawed intelligence
+      to justify the invasion of Iraq. Using persuasive rhetoric and emotional appeals,
+      Powell asserted that Saddam Hussein possessed biological weapons, a claim that
+      ultimately proved false, leading to a devastating war that caused immense loss
+      of life and destabilization in the region. The article highlights how language,
+      when wielded with authority and conviction, can manipulate public perception and
+      drive significant political actions, illustrating the dangerous potential of linguistic
+      deception in shaping history.
+    published: '2025-07-08T15:00:31+00:00'
+  - title: 'The War on Truth: How Our Leaders Lie While Pretending Not to'
+    url: https://sonar21.com/the-war-on-truth-how-our-leaders-lie-while-pretending-not-to/
+    text: '“Upon their strings, the papers dance, Ink-stained puppets, in dark romance,
+      With sharpened quills, they pen their lies, To fan the flames, and stoke the cries.
+      For war and ruin, they conspire, To set the world’s stage afire, With whispered
+      words and twisted truth, They prey on minds, both old and youth.” “Freedom” —
+      The Frontier Man When Language Becomes a Weapon On February 5, 2003, U.S. Secretary
+      of State Colin Powell stood before the United Nations Security Council, holding
+      up a small vial of white powder. “Less than a teaspoon of dry anthrax,” he warned,
+      “shut down the United States Senate in the fall of 2001.” Then, looking around
+      the chamber with solemn authority, he declared: “There can be no doubt that Saddam
+      Hussein has biological weapons and the capability to rapidly produce more, many
+      more.” The room was silent. Powell was composed, deliberate, and gravely persuasive.
+      He spoke of intercepted communications, decontamination trucks, and “mobile biological
+      weapons factories.” At one point, he looked directly into the cameras and said:
+      “Every statement I make today is backed up by sources, solid sources. These are
+      not assertions. What we’re giving you are facts and conclusions based on solid
+      intelligence.” The speech was a masterclass in performed sincerity: measured tone,
+      scientific language, visual aids, and emotional appeals to fear and responsibility.
+      And yet, the weapons were never found. The intelligence was deeply flawed. Years
+      later, Powell called the speech a “painful” and “permanent blot” on his record.
+      But by then, the damage was done. Believing his words, the United States hurtled
+      toward an 8-year war that would cost hundreds of thousands of lives and trillions
+      of dollars, destabilize an entire region, and erode trust in Western institutions
+      for a generation. This moment was not just a policy failure—it was a linguistic
+      deception event. It revealed how language, delivered with sincerity and confidence,
+      can be used not just to mislead, but to fabricate consent for war. Powell did
+      not scream. He did not lie in the crude, cartoonish fashion of a propagandist.
+      He lied in the way that matters most today: with calm authority, persuasive language,
+      and all the trappings of truth. Language is not just how we speak—it’s how we
+      make sense of the world. We use words to describe reality, to build trust, to
+      create laws, and to express values. But words can also be used to manipulate,
+      to hide the truth, and to control how people think and feel. Today, many leaders
+      lie—often not by making obvious false statements, but by bending language in subtle,
+      clever ways. They say things that sound honest while hiding dishonesty beneath
+      the surface. This essay explores how this form of deception works, why it’s so
+      dangerous, and how we can learn to recognize it. As George Orwell wrote in his
+      seminal 1946 essay Politics and the English Language , political language “is
+      designed to make lies sound truthful and murder respectable, and to give an appearance
+      of solidity to pure wind.” The philosopher Hannah Arendt warned that the destruction
+      of truth is central to authoritarian rule. In her 1971 essay “Lying in Politics,”
+      she argued that when facts become unstable, people become more susceptible to
+      propaganda and demagogues. This essay follows their insights by examining how
+      modern leaders cloak deception in respectable forms—and how language itself can
+      become corrupted in the process. Here are some examples of how language is used
+      to deceive: Empty Assurance: Saying Something Without Meaning Anything Sometimes
+      leaders say things that seem reassuring, but don’t actually commit to any action.
+      For example: “We take these concerns very seriously.” This sounds like a promise
+      to act, but it’s often just a polite way to avoid doing anything concrete. It’s
+      a way of pretending to care without taking responsibility. Passive Voice: Hiding
+      Who’s Responsible In grammar, the passive voice is when something is done, but
+      the person doing it isn’t named. Compare: Active voice : “We made mistakes.” Passive
+      voice : “Mistakes were made.” Politicians and officials often use passive voice
+      to avoid taking blame. If no one is named, no one can be held accountable. An
+      example from real life: During the U.S. military prison scandal in Abu Ghraib
+      (2004), officials used phrases like “abuses occurred” instead of “we committed
+      abuses” —shifting attention away from the perpetrators. Euphemisms: Soft Words
+      for Harsh Realities A euphemism is a mild or vague word used to replace one that
+      might be upsetting or offensive. Leaders use euphemisms to make unpleasant truths
+      sound acceptable. Examples: “Collateral damage” instead of killing civilians during
+      a military strike. “Enhanced interrogation” instead of torture . “Restructuring”
+      or “rightsizing” instead of laying people off . Euphemisms are used not just to
+      protect feelings, but to control how people interpret events. They hide the emotional
+      or moral weight of what’s really happening. Framing: Shaping How We See the World
+      Framing means choosing words or phrases that guide people toward a specific interpretation,
+      even if the facts don’t change. It’s like putting a photo in a red frame versus
+      a black one—the image stays the same, but the mood changes. Examples: A protest
+      can be framed as a “riot” (dangerous and chaotic) or a “movement for justice”
+      (noble and necessary). A tax cut might be called “relief” (implying suffering)
+      or “a handout to the rich” (implying unfairness). Framing is powerful because
+      it affects how we emotionally and morally respond to events. Leaders and media
+      often use framing to sway public opinion without changing the actual facts. Vagueness:
+      Speaking Without Saying Anything Vague language allows leaders to appear like
+      they are taking action or making promises, while avoiding specifics that could
+      hold them accountable. For example: “We will explore all options.” This statement
+      sounds responsible, but it doesn’t mean anything concrete. It creates the illusion
+      of leadership without committing to a path. Similarly, companies say things like:
+      “We are committed to sustainability.” What does “committed” mean here? Are there
+      goals? Deadlines? Actions? Often, no. It’s a public relations move that sounds
+      good but says little. Performed Sincerity: Acting Honest Without Being Honest
+      Sometimes, deception doesn’t happen in the words themselves, but in how those
+      words are delivered. Politicians often use body language, tone of voice, or emotional
+      stories to appear sincere. Examples of performed sincerity : Speaking in a casual
+      or emotional tone: “Look, folks… I understand.” Sharing personal stories: “As
+      a mother/father, I know how hard this is.” Making eye contact, lowering the voice,
+      or even crying. These cues signal honesty—but they can be faked. A speaker can
+      appear heartfelt while saying something misleading or false. This is a kind of
+      performance , and it’s powerful because humans are wired to trust people who seem
+      sincere, even when we should be skeptical. Understanding Why Deceptive Language
+      Works To resist manipulative language, we must also understand why it so often
+      succeeds. Human cognition is not wired for constant vigilance. Psychologists have
+      shown that we rely on mental shortcuts— heuristics —to process complex information
+      quickly. When a speaker appears calm, authoritative, or emotionally in tune with
+      our values, our brains often substitute these cues for critical scrutiny. This
+      is known as the affect heuristic : we tend to judge statements as true if they
+      are spoken with alleged authority, make us feel good, or align with our group
+      identity. Moreover, confirmation bias leads people to accept claims that reinforce
+      what they already believe, while discounting facts that challenge their worldview.
+      Motivated reasoning —our tendency to reason toward a desired conclusion rather
+      than truth—further compounds the problem. In this environment, performed sincerity
+      becomes a powerful weapon. It doesn’t just bypass reason—it co-opts it. When paired
+      with emotionally charged framing or repetition, such language can implant durable
+      falsehoods in the public mind, even after the original claims are debunked. This
+      is why political deception isn’t merely a moral failure—it is a psychological
+      deception strategy. And countering it requires not just moral will, but also cognitive
+      awareness. Why This Matters: The Collapse of Shared Truth When leaders constantly
+      manipulate language, people stop trusting not just politicians—but words themselves.
+      Eventually, facts become meaningless. People stop asking “Is this true?” and start
+      asking “Is this what my side believes?” Philosopher Harry Frankfurt, in his essay
+      On Bullshit , draws a crucial distinction: a liar knows the truth and hides it;
+      a bullshitter is indifferent to whether what he says is true or false. Today’s
+      crisis is not just the result of lies—it is a culture of indifference to truth
+      itself. In such a world, language becomes noise, facts become partisan tokens,
+      and public debate descends into meaningless spectacle. If words no longer connect
+      us to reality, then democratic deliberation becomes impossible. This creates division,
+      confusion, and cynicism. If everyone is lying, who can you believe? When words
+      no longer describe reality, we can no longer solve real problems together. Society
+      breaks down. What We Can Do: Becoming Language-Aware Citizens To fight back, we
+      don’t need more shouting—we need better listening and sharper thinking. Everyone
+      should learn how to spot dishonest language. Here’s how: Question euphemisms :
+      What’s the real thing being described? Ask who’s responsible : Is the speaker
+      avoiding blame? Look for specifics : Are they telling you what they’ll actually
+      do? Watch for performance : Do they sound honest—or are they being honest? Compare
+      frames : Are you being nudged toward one moral viewpoint without being shown the
+      full picture? Being alert to these tricks doesn’t make us cynical—it makes us
+      better citizens. We can demand clarity. We can call out manipulation. We can protect
+      the connection between words and truth. A Way Forward: Concrete Steps for Rebuilding
+      a Truthful Society Recognizing the problem is the first step. Acting on it is
+      the next. Rebuilding a culture that values truth in public language requires specific,
+      systemic interventions. These steps—especially in education, media, governance,
+      and technology—can begin to reverse the damage caused by manipulative speech.
+      Language and Media Literacy Education in Schools We must teach students not only
+      what to think but how to think critically about language. Curriculum on rhetoric
+      and propaganda should begin by middle school. Students should learn to identify
+      propaganda, euphemisms, spin, framing, passive constructions, and emotional manipulation
+      in advertising, political speech, and media. Classroom news analysis can train
+      students to compare headlines and coverage across ideological outlets, helping
+      them spot biases and distortion. Practical exercises should include rewriting
+      euphemistic or vague statements in plain, honest language and exploring how wording
+      changes perception. By making this a core part of education, we will empower future
+      generations to resist manipulation and demand integrity from their leaders. Adult
+      Education and Public Campaigns Not everyone went to school in the age of digital
+      misinformation. We need public-facing efforts to raise linguistic awareness among
+      adults: Community workshops in libraries, unions, and civic centers can offer
+      training on spotting deceptive language in news and politics. Public service announcements
+      and social media campaigns can highlight common tricks of misleading language
+      (e.g., “What does ‘mistakes were made’ really mean?”). Nonprofit alliances can
+      produce open-source toolkits for media consumers and educators to analyze public
+      speech. This is civic hygiene: just as we teach people to recognize fraud in finance,
+      we should teach them to recognize fraud in language. Transparency Standards for
+      Political Communication Laws cannot—and should not—ban free speech. Censorship
+      is not the answer—we must cherish and enforce the precious First Amendment. As
+      history tells us, any attempt to ban “wrong” speech results in necessarily appointing
+      an “arbiter of truth” who becomes a totalitarian censor. The answer to deceptive
+      or misleading speech is not censorship but more truthful speech and more transparency.
+      But we can push for transparency in how public messaging is produced and labeled:
+      Plain language laws can require that laws, regulations, government forms, and
+      official statements be written in clear, accessible, jargon-free language. Full
+      disclosure of conflicts of interest : Just as we require financial disclosures
+      in advertising, all public officials and public campaigns should disclose who
+      funds them. Independent fact-checking bodies , protected from political control,
+      should have a visible role in live broadcasts, debates, and digital content—flagging
+      vague or misleading claims in real time. Linguistic Integrity in Journalism and
+      Media Media organizations must take responsibility for the language they amplify.
+      Editorial guidelines for clarity and accountability must be introduced which should
+      discourage the use of untruthful and misleading language. Headlines and soundbites
+      should be held to high standards of factual accuracy and linguistic honesty. Media
+      watchdogs must be strengthened and made more visible to the public. We need to
+      praise not just good reporting—but good language use in reporting. Precision must
+      be seen as a journalistic virtue. Tech Solutions with Human Oversight Social media
+      platforms shape much of our public discourse. Their algorithms reward emotional,
+      simplistic, or manipulative language. Algorithmic transparency laws should require
+      platforms to reveal how engagement is promoted and whether misleading content
+      is being amplified. Linguistic flagging tools : AI-based browser extensions and
+      apps can highlight vague, passive, or euphemistic language in real time—offering
+      users plain-language summaries or counterpoints. Tech should help us think more
+      clearly, not manipulate us more efficiently. Living in Truth: A Cultural Shift
+      Toward Courageous Speech Václav Havel, the dissident playwright who became president
+      of a free Czechoslovakia, believed that “even a single act of truth can shatter
+      the lie.” In The Power of the Powerless , he described “living in truth” not as
+      heroism, but as the quiet refusal to speak what one does not believe. In an age
+      of linguistic distortion, this refusal becomes a revolutionary act. We need to
+      demand a new cultural norm—one that prizes clarity over spin, truth over polish,
+      and moral courage over rhetorical manipulation. Beyond policy and education, this
+      crisis is ultimately moral. We must reward those who speak clearly and truthfully—even
+      when their message is uncomfortable. Celebrate plainspoken truth-tellers in journalism,
+      media, literature, and public service. Ensure strong whistleblower protections
+      for those who take risks to tell the truth to the public. Create cultural norms
+      where untruthful, misleading, and manipulative speech is seen as cowardly, unacceptable,
+      and disqualifying from public service, not clever. Call out deceptive speech not
+      just as partisan error, but as a civic betrayal. Truth must become our core value
+      again—not through nostalgia, but through example, courage, and clarity. Reclaiming
+      the Moral Power of Language In our time, speaking clearly and truthfully—refusing
+      euphemisms, spin, and pretense—is an act of civic duty. Language must again become
+      a vessel for truth and conscience. Words are not decorations. They are tools of
+      meaning, tools of truth—or tools of deception. When leaders lie while pretending
+      not to, they unravel the thread of truth that ties language to reality. That thread
+      of truth must be rebuilt—not just by linguists or educators, but by all of us.
+      To restore truth in society, we must start with language. That means valuing honesty
+      over smooth talk, substance over style, and integrity over performance. It means
+      reclaiming our right to words that mean what they say. Because when we lose that,
+      we don’t just lose trust—we lose our grip on reality. We can no longer understand
+      what is happening and have a truthful debate about our most important issues.
+      And without that debate, democracy cannot stand. Education is our foundation.
+      Vigilance is our duty. Clarity is our weapon. To speak truthfully is to act morally.
+      To teach truthfulness is to defend democracy. And to demand truth from power is
+      not just our right—it is our responsibility. “Reclaim the right to think and live,
+      by values that we choose, And to ourselves our essence give, no longer to abuse.
+      A revolution of the mind, rebellion of the soul. In every heart, a spark we’ll
+      find, to make the broken whole. A sovereign people, wild and free, we rise to
+      break the chain. And in our freedom, we shall see, our true selves once again.”
+      “Rebellion of the Soul” — The Frontier Man The Frontier Man is an American poet,
+      writer, musician, and visual artist. He publishes his work under a pen name to
+      maintain focus on his ideas and art rather than his identity. You can follow The
+      Frontier Man on his Substack, Verses & Visions ; on X at @FrontierArt1 ; and on
+      Telegram at @VersesVisions . Artwork Rebellion of the Soul The Frontier Man August
+      2024 Recommended Literature List Foundational Works on Propaganda and Language
+      Manipulation Edward S. Herman & Noam Chomsky. (1988). Manufacturing Consent: The
+      Political Economy of the Mass Media. Pantheon Books. Describes structural biases
+      in mass media and how they serve power elites. Introduces the “propaganda model”
+      and shows how language and framing are used to manufacture public consent. Edward
+      Bernays. (1928). Propaganda. Horace Liveright. Outlines early 20th-century public
+      relations and psychological manipulation. Shows how emotionally charged language
+      can shape public opinion, authored by the so-called “father of PR.” George Orwell.
+      (1946). Politics and the English Language. Horizon , April issue. Explores how
+      vague, euphemistic, and inflated political language conceals truth and enables
+      the justification of unethical policies. Drew Westen. (2007). The Political Brain:
+      The Role of Emotion in Deciding the Fate of the Nation. PublicAffairs. Uses neuroscience
+      to show how emotional—not rational—appeals drive political persuasion, illustrating
+      how language exploits moral-emotional circuits to influence and polarize. Modern
+      Studies in Political Language George Lakoff. (2004). Don’t Think of an Elephant!:
+      Know Your Values and Frame the Debate. Chelsea Green Publishing. Explains how
+      conservatives and liberals use different cognitive frames and metaphors to influence
+      opinion, highlighting the power of values-based language over facts. Michiko Kakutani.
+      (2018). The Death of Truth: Notes on Falsehood in the Age of Trump. Tim Duggan
+      Books. Analyzes the erosion of shared reality through relativism, media fragmentation,
+      and propaganda, focusing on the linguistic tactics of post-truth politics. Linguistic
+      and Psychological Tools of Deception Adrian Beard. (2000). The Language of Politics.
+      Routledge. Dissects how political language employs rhetorical strategies—such
+      as metaphor, modality, and presupposition—to construct authority, obscure intent,
+      and shape belief. Daniel J. Levitin. (2016). Weaponized Lies: How to Think Critically
+      in the Post-Truth Era. Dutton. *(Originally published as A Field Guide to Lies
+      ) Provides tools for identifying misleading statistics, charts, and linguistic
+      framing, empowering readers to critically evaluate media and political claims.
+      Ryan Holiday. (2012). Trust Me, I’m Lying: Confessions of a Media Manipulator.
+      Portfolio. An insider exposé on how digital media ecosystems amplify outrage and
+      misinformation for profit, showing how blogs and social media distort truth. Classic
+      Literary and Philosophical Works George Orwell. (1949). Nineteen Eighty-Four.
+      Secker & Warburg. Depicts totalitarian control through language, most famously
+      through “Newspeak,” demonstrating how restricted vocabulary limits thought and
+      enforces ideology. Harry G. Frankfurt. (2005). On Bullshit. Princeton University
+      Press. Makes a philosophical distinction between lying and bullshitting, arguing
+      that the latter—marked by disregard for truth—is more corrosive to discourse.'
+    one_sentence_summary: The article discusses how language can be manipulated as a
+      weapon to incite war and spread misinformation, exemplified by Colin Powell's
+      persuasive yet misleading presentation to the UN about Iraq's alleged biological
+      weapons in 2003.
+    paragraph_summary: The article discusses the powerful role of language as a weapon,
+      particularly in the context of U.S. Secretary of State Colin Powell's infamous
+      speech to the United Nations on February 5, 2003, where he presented flawed intelligence
+      to justify the invasion of Iraq. Using persuasive rhetoric and emotional appeals,
+      Powell asserted that Saddam Hussein possessed biological weapons, a claim that
+      ultimately proved false, leading to a devastating war that caused immense loss
+      of life and destabilization in the region. The article highlights how language,
+      when wielded with authority and conviction, can manipulate public perception and
+      drive significant political actions, illustrating the dangerous potential of linguistic
+      deception in shaping history.
+    published: '2025-07-08T15:00:31+00:00'
+  - title: Russia’s Demands for Ending the War in Ukraine
+    url: https://sonar21.com/russias-demands-for-ending-the-war-in-ukraine/
+    text: 'Screen grab of BORZZIKMAN’s Latest Video Donald Trump still has not learned
+      a thing from his conversations with Vladimir Putin. Instead of ending all US military
+      and intelligence assistance given to Ukraine, Trump is now doing a Joe Biden impersonation
+      by announcing that he is going to send more weapons to Ukraine. During a public
+      portion of his meeting with Israel’s Bibi Netanyahu on July 7, Trump said the
+      following about Ukraine: We’re going to send some more weapons. We have to. They
+      have to be able to defend themselves. They’re getting hit very hard now.” This
+      announcement came just days after his administration had paused certain weapons
+      shipments to Ukraine, citing concerns about US military stockpiles. This is crazy.
+      The problem with shortages of US stockpiles has not gone away. Trump has a habit
+      of saying things for public consumption, but then never following through. Remember
+      when he threatened to hit BRICS countries with 100% tariffs? If the photo at the
+      top of this piece is accurate, then Ukraine’s demise could come more quickly than
+      many in the West anticipate. If you are still struggling to understand what Russia’s
+      position is with respect to ending the war, please read the following remarks
+      of  Russian Foreign Minister Sergey Lavrov, made during an interview with the
+      Hungarian media outlet, Magyar Nemzet . Lavrov said: A sustainable settlement
+      is impossible without addressing the root causes of the conflict. Above all, the
+      security threats posed by NATO expansion and Ukraine’s potential accession to
+      the Alliance must be eliminated, as they directly affect Russia. It is equally
+      important to ensure respect for human rights in territories still under the control
+      of the Kiev regime, where everything linked to Russia, Russians, and Russian-speaking
+      people has been systematically destroyed since 2014 — the Russian language, culture,
+      traditions, canonical Orthodoxy, and Russian-language media. There must be international
+      legal recognition of the new territorial realities formed following the accession
+      of Crimea, Sevastopol, the Donetsk and Lugansk People’s Republics, as well as
+      the Zaporizhzhia and Kherson regions into the Russian Federation. On the agenda
+      are the demilitarization and denazification of Ukraine, lifting of anti-Russian
+      sanctions, withdrawal of lawsuits against Russia, and return of illegally frozen
+      assets in the West. All these provisions must be enshrined in a legally binding
+      peace agreement. Ukraine must return to the foundations of its statehood and adhere
+      to the spirit and letter of the documents that underpin its legitimacy. Let me
+      remind you that Ukraine declared a neutral, non-aligned, and non-nuclear status
+      in its 1990 Declaration of State Sovereignty. In August 1991, the Supreme Soviet
+      passed the law on the declaration of independence, reaffirming the principles
+      of that declaration. The Declaration of Independence is cited in the preamble
+      of Ukraine’s current Constitution.” Russia will not entertain a ceasefire until
+      all of the conditions outlined above are in place or firmly guaranteed. But I
+      continue to believe that this issue will be settled militarily, with Russia prevailing.
+      I encourage you to listen to Danny Davis’ interview of Doug MacGregor . Doug provides
+      a great analysis of why Russia is likely to bring the war in Ukraine to a quick
+      end because of the Western-fomented unrest on Russia’s southern front. Today’s
+      chats with Nima and the Judge focused primarily on the issue of Zionism and BRICS
+      : I thank you for your invaluable support by taking time to read or comment. I
+      do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Donald Trump, despite previously pausing weapons shipments
+      to Ukraine due to stockpile concerns, announced he would send more military aid,
+      mirroring President Biden's approach, while critics question his reliability in
+      following through on such commitments.
+    paragraph_summary: The article discusses Donald Trump's recent announcement to send
+      more weapons to Ukraine during a meeting with Israeli Prime Minister Bibi Netanyahu,
+      despite previously pausing certain shipments due to concerns about U.S. military
+      stockpiles. This move is seen as inconsistent with Trump's past behavior of making
+      bold statements without follow-through. The article also highlights Russian Foreign
+      Minister Sergey Lavrov's remarks on the conflict, emphasizing that a sustainable
+      resolution requires addressing NATO's expansion and the rights of Russian-speaking
+      individuals in Ukraine. Overall, the piece suggests that the situation in Ukraine
+      remains precarious, with potential implications for the West's understanding of
+      Russia's position in the ongoing war.
+    published: '2025-07-08T02:55:40+00:00'
+  - title: Russia’s Demands for Ending the War in Ukraine
+    url: https://sonar21.com/russias-demands-for-ending-the-war-in-ukraine/
+    text: 'Screen grab of BORZZIKMAN’s Latest Video Donald Trump still has not learned
+      a thing from his conversations with Vladimir Putin. Instead of ending all US military
+      and intelligence assistance given to Ukraine, Trump is now doing a Joe Biden impersonation
+      by announcing that he is going to send more weapons to Ukraine. During a public
+      portion of his meeting with Israel’s Bibi Netanyahu on July 7, Trump said the
+      following about Ukraine: We’re going to send some more weapons. We have to. They
+      have to be able to defend themselves. They’re getting hit very hard now.” This
+      announcement came just days after his administration had paused certain weapons
+      shipments to Ukraine, citing concerns about US military stockpiles. This is crazy.
+      The problem with shortages of US stockpiles has not gone away. Trump has a habit
+      of saying things for public consumption, but then never following through. Remember
+      when he threatened to hit BRICS countries with 100% tariffs? If the photo at the
+      top of this piece is accurate, then Ukraine’s demise could come more quickly than
+      many in the West anticipate. If you are still struggling to understand what Russia’s
+      position is with respect to ending the war, please read the following remarks
+      of  Russian Foreign Minister Sergey Lavrov, made during an interview with the
+      Hungarian media outlet, Magyar Nemzet . Lavrov said: A sustainable settlement
+      is impossible without addressing the root causes of the conflict. Above all, the
+      security threats posed by NATO expansion and Ukraine’s potential accession to
+      the Alliance must be eliminated, as they directly affect Russia. It is equally
+      important to ensure respect for human rights in territories still under the control
+      of the Kiev regime, where everything linked to Russia, Russians, and Russian-speaking
+      people has been systematically destroyed since 2014 — the Russian language, culture,
+      traditions, canonical Orthodoxy, and Russian-language media. There must be international
+      legal recognition of the new territorial realities formed following the accession
+      of Crimea, Sevastopol, the Donetsk and Lugansk People’s Republics, as well as
+      the Zaporizhzhia and Kherson regions into the Russian Federation. On the agenda
+      are the demilitarization and denazification of Ukraine, lifting of anti-Russian
+      sanctions, withdrawal of lawsuits against Russia, and return of illegally frozen
+      assets in the West. All these provisions must be enshrined in a legally binding
+      peace agreement. Ukraine must return to the foundations of its statehood and adhere
+      to the spirit and letter of the documents that underpin its legitimacy. Let me
+      remind you that Ukraine declared a neutral, non-aligned, and non-nuclear status
+      in its 1990 Declaration of State Sovereignty. In August 1991, the Supreme Soviet
+      passed the law on the declaration of independence, reaffirming the principles
+      of that declaration. The Declaration of Independence is cited in the preamble
+      of Ukraine’s current Constitution.” Russia will not entertain a ceasefire until
+      all of the conditions outlined above are in place or firmly guaranteed. But I
+      continue to believe that this issue will be settled militarily, with Russia prevailing.
+      I encourage you to listen to Danny Davis’ interview of Doug MacGregor . Doug provides
+      a great analysis of why Russia is likely to bring the war in Ukraine to a quick
+      end because of the Western-fomented unrest on Russia’s southern front. Today’s
+      chats with Nima and the Judge focused primarily on the issue of Zionism and BRICS
+      : I thank you for your invaluable support by taking time to read or comment. I
+      do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Donald Trump, despite previously pausing weapons shipments
+      to Ukraine due to stockpile concerns, announced he would send more military aid,
+      mirroring President Biden's approach, while critics question his reliability in
+      following through on such commitments.
+    paragraph_summary: The article discusses Donald Trump's recent announcement to send
+      more weapons to Ukraine during a meeting with Israeli Prime Minister Bibi Netanyahu,
+      despite previously pausing certain shipments due to concerns about U.S. military
+      stockpiles. This move is seen as inconsistent with Trump's past behavior of making
+      bold statements without follow-through. The article also highlights Russian Foreign
+      Minister Sergey Lavrov's remarks on the conflict, emphasizing that a sustainable
+      resolution requires addressing NATO's expansion and the rights of Russian-speaking
+      individuals in Ukraine. Overall, the piece suggests that the situation in Ukraine
+      remains precarious, with potential implications for the West's understanding of
+      Russia's position in the ongoing war.
+    published: '2025-07-08T02:55:40+00:00'
   - title: An Update on BRICS in Light of the US War on BRICS
     url: https://sonar21.com/an-update-on-brics-in-light-of-the-us-war-on-brics/
     text: 'At the end of this essay, I have posted my latest interview with Alex Krainer,

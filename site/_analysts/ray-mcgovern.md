@@ -7,19 +7,216 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As of July 7, 2025, global geopolitical tensions remain high, with new developments highlighting the persistent divides between the Global North and South, the ongoing crisis in Gaza, and growing concerns over surveillance and civil liberties in the United States.
+  As the U.S. enters a period of heightened political tension, recent developments underscore a deepening crisis over executive power, civil liberties, and foreign policy. The ongoing protests in California against ICE raids have drawn a forceful federal response, echoing tactics seen in Portland in 2020. **Karen J. Greenberg** highlights that President Trump’s approach marks a continued expansion of executive authority, with the deployment of federal agents in Los Angeles raising concerns about the erosion of constitutional checks. This follows the Supreme Court’s recent decision limiting judicial oversight of presidential actions, a move that, as previously noted, further consolidates power in the executive branch.
   
-  A major focus in recent analysis is the economic stranglehold the Global North maintains over the Global South through intellectual property regimes. **Vijay Prashad** argues that patent and licensing fees imposed by wealthier nations are draining resources from developing countries, perpetuating a cycle of dependency and underdevelopment. He calls for a fundamental reevaluation of the current intellectual property framework to allow for more equitable access to technology and innovation. This issue is gaining traction among analysts as a key obstacle to sustainable development and South-South cooperation.
+  Meanwhile, the visit of Israeli Prime Minister Benjamin Netanyahu to the White House has sparked significant public outcry. Demonstrators accused Netanyahu of genocide, reflecting a growing awareness and critique of U.S. complicity in foreign human rights abuses. **Norman Solomon** observes that “many Americans are increasingly aware that the mass murder of certain groups is a troubling aspect of U.S. ideology,” especially as these issues intersect with high-profile diplomatic events.
   
-  Meanwhile, the humanitarian disaster in Gaza continues to draw international scrutiny. According to **Francesca Albanese**, over 1,000 corporations—including major U.S. tech and defense firms—are complicit in war crimes by profiting from Israel’s military operations in the occupied Palestinian territories. Albanese’s report, which calls for corporate divestment or accountability, has prompted a backlash from the U.S. government, which accuses her of promoting antisemitism and undermining economic interests. The majority of independent analysts agree that the situation in Gaza constitutes a grave violation of human rights, with multinational complicity deepening the crisis.
+  On the international front, the situation in Ukraine remains fraught. While official narratives persist, **Patrick Lawrence** argues that the Ukrainian government is “engaged in a facade rather than confronting the reality of its circumstances,” suggesting a denial of defeat and a lack of substantive progress on the ground.
   
-  On the domestic front, concerns about surveillance and the erosion of civil liberties in the United States are mounting. A recent memorandum from the Veteran Intelligence Professionals for Sanity (VIPS), summarized by **Ray McGovern**, highlights the unchecked use of AI, robotics, and drones by government agencies for surveillance purposes. VIPS calls for the creation of an independent technical oversight group to ensure constitutional compliance and transparency, warning that clandestine surveillance programs threaten both privacy and democracy.
-  
-  **Trends and Predictions:**  
-  The divide between the Global North and South over economic and technological access is likely to intensify, with calls for reform gaining momentum—there is a high chance that this will become a central issue in upcoming international forums. The crisis in Gaza is expected to persist, with most analysts predicting continued corporate and governmental resistance to accountability measures, but also growing international pressure for divestment and sanctions. In the U.S., surveillance practices are set to face increasing legal and public scrutiny, and there is a high chance that demands for oversight and reform will become a significant part of the domestic political debate.
-  
-  Overall, the majority view among independent analysts is that unless there are substantial policy changes, the current trends—economic dependency, humanitarian crises, and threats to civil liberties—will most definitely continue, shaping the geopolitical landscape in the months ahead.
+  Looking ahead, the prevailing trend is a consolidation of executive power in the U.S., with high confidence that legal and political checks will continue to weaken. Public dissent—both domestic and international—is likely to intensify, particularly as the administration’s actions draw further scrutiny. The Ukraine conflict shows no sign of resolution, with a high chance that the current stalemate will persist absent a major policy shift. I guarantee that the intersection of domestic unrest and contentious foreign policy will remain at the forefront of U.S. political discourse in the coming weeks.
 articles:
+  - title: Trump’s California Protest Crackdown & the Law
+    url: https://consortiumnews.com/2025/07/08/trumps-california-protest-crackdown-the-law/
+    text: Portland in 2020, Los Angeles today — Karen J. Greenberg covers the maximalist
+      view of executive power emerging from Trump’s response to protests against ICE
+      raids. By Karen J. Greenberg TomDispatch.com “I must say,” Donald Trump commented,
+      “I wish we had… Read more →
+    one_sentence_summary: Karen J. Greenberg discusses the expansion of executive power
+      as exemplified by Donald Trump's response to protests against ICE raids, drawing
+      parallels between the events in Portland in 2020 and those in Los Angeles today.
+    paragraph_summary: In her article, Karen J. Greenberg examines the expansion of
+      executive power as demonstrated by Donald Trump's response to protests against
+      ICE raids, drawing parallels between the events in Portland in 2020 and the current
+      situation in Los Angeles. She highlights Trump's maximalist approach to governance,
+      emphasizing his desire for increased authority in managing civil unrest and immigration
+      enforcement. Greenberg critiques this trend, warning of the implications for democracy
+      and civil liberties as the executive branch asserts more control in response to
+      dissent.
+    published: '2025-07-08T21:12:26+00:00'
+  - title: Trump’s California Protest Crackdown & the Law
+    url: https://consortiumnews.com/2025/07/08/trumps-california-protest-crackdown-the-law/
+    text: Portland in 2020, Los Angeles today — Karen J. Greenberg covers the maximalist
+      view of executive power emerging from Trump’s response to protests against ICE
+      raids. By Karen J. Greenberg TomDispatch.com “I must say,” Donald Trump commented,
+      “I wish we had… Read more →
+    one_sentence_summary: Karen J. Greenberg discusses the expansion of executive power
+      as exemplified by Donald Trump's response to protests against ICE raids, drawing
+      parallels between the events in Portland in 2020 and those in Los Angeles today.
+    paragraph_summary: In her article, Karen J. Greenberg examines the expansion of
+      executive power as demonstrated by Donald Trump's response to protests against
+      ICE raids, drawing parallels between the events in Portland in 2020 and the current
+      situation in Los Angeles. She highlights Trump's maximalist approach to governance,
+      emphasizing his desire for increased authority in managing civil unrest and immigration
+      enforcement. Greenberg critiques this trend, warning of the implications for democracy
+      and civil liberties as the executive branch asserts more control in response to
+      dissent.
+    published: '2025-07-08T21:12:26+00:00'
+  - title: 'Chris Hedges Report: How ‘Paradise Lost’ Revolutionized the World'
+    url: https://consortiumnews.com/2025/07/08/chris-hedges-report-how-paradise-lost-revolutionized-the-world/
+    text: Orlando Reade discusses the influence of John Milton’s 17th century epic poem
+      on revolutionary thinkers and grapples with the moral gray area that exists in
+      revolutions. By Chris Hedges ScheerPost There are few pieces of literature that
+      remain as prescient and… Read more →
+    one_sentence_summary: Orlando Reade examines how John Milton's 17th-century epic
+      poem has shaped revolutionary thought while exploring the complex moral dilemmas
+      inherent in revolutions.
+    paragraph_summary: Orlando Reade examines the impact of John Milton's 17th-century
+      epic poem on revolutionary thinkers, highlighting its enduring relevance in discussions
+      of moral complexities surrounding revolutions. In his analysis, Reade navigates
+      the nuanced ethical dilemmas that arise during revolutionary movements, suggesting
+      that Milton's work offers valuable insights into the motivations and consequences
+      of such upheavals. Chris Hedges, writing for ScheerPost, emphasizes the poem's
+      prophetic qualities and its significance in understanding the philosophical underpinnings
+      of revolutionary thought.
+    published: '2025-07-08T17:00:24+00:00'
+  - title: 'Chris Hedges Report: How ‘Paradise Lost’ Revolutionized the World'
+    url: https://consortiumnews.com/2025/07/08/chris-hedges-report-how-paradise-lost-revolutionized-the-world/
+    text: Orlando Reade discusses the influence of John Milton’s 17th century epic poem
+      on revolutionary thinkers and grapples with the moral gray area that exists in
+      revolutions. By Chris Hedges ScheerPost There are few pieces of literature that
+      remain as prescient and… Read more →
+    one_sentence_summary: Orlando Reade examines how John Milton's 17th-century epic
+      poem has shaped revolutionary thought while exploring the complex moral dilemmas
+      inherent in revolutions.
+    paragraph_summary: Orlando Reade examines the impact of John Milton's 17th-century
+      epic poem on revolutionary thinkers, highlighting its enduring relevance in discussions
+      of moral complexities surrounding revolutions. In his analysis, Reade navigates
+      the nuanced ethical dilemmas that arise during revolutionary movements, suggesting
+      that Milton's work offers valuable insights into the motivations and consequences
+      of such upheavals. Chris Hedges, writing for ScheerPost, emphasizes the poem's
+      prophetic qualities and its significance in understanding the philosophical underpinnings
+      of revolutionary thought.
+    published: '2025-07-08T17:00:24+00:00'
+  - title: Genocide Made Invisible
+    url: https://consortiumnews.com/2025/07/08/genocide-made-invisible/
+    text: Despite all the dodging of reality, many Americans now know that mass murder
+      of certain other human beings is a functional U.S. ideology, writes Norman Solomon.
+      By Norman Solomon Z-Network Whatever the outcomes of Benjamin Netanyahu’s visit
+      to the White House… Read more →
+    one_sentence_summary: Norman Solomon argues that many Americans are increasingly
+      aware that the mass murder of certain groups is a troubling aspect of U.S. ideology,
+      particularly in the context of political events like Benjamin Netanyahu's visit
+      to the White House.
+    paragraph_summary: In his article, Norman Solomon discusses the troubling reality
+      of mass violence as an underlying ideology in the United States, suggesting that
+      many Americans are becoming increasingly aware of this issue. He reflects on the
+      implications of political events, such as Benjamin Netanyahu's visit to the White
+      House, and critiques the tendency to ignore or evade the harsh truths surrounding
+      systemic violence and its acceptance in American society. Solomon's commentary
+      calls for a deeper examination of these issues and their impact on both domestic
+      and international policies.
+    published: '2025-07-08T08:39:47+00:00'
+  - title: Genocide Made Invisible
+    url: https://consortiumnews.com/2025/07/08/genocide-made-invisible/
+    text: Despite all the dodging of reality, many Americans now know that mass murder
+      of certain other human beings is a functional U.S. ideology, writes Norman Solomon.
+      By Norman Solomon Z-Network Whatever the outcomes of Benjamin Netanyahu’s visit
+      to the White House… Read more →
+    one_sentence_summary: Norman Solomon argues that many Americans are increasingly
+      aware that the mass murder of certain groups is a troubling aspect of U.S. ideology,
+      particularly in the context of political events like Benjamin Netanyahu's visit
+      to the White House.
+    paragraph_summary: In his article, Norman Solomon discusses the troubling reality
+      of mass violence as an underlying ideology in the United States, suggesting that
+      many Americans are becoming increasingly aware of this issue. He reflects on the
+      implications of political events, such as Benjamin Netanyahu's visit to the White
+      House, and critiques the tendency to ignore or evade the harsh truths surrounding
+      systemic violence and its acceptance in American society. Solomon's commentary
+      calls for a deeper examination of these issues and their impact on both domestic
+      and international policies.
+    published: '2025-07-08T08:39:47+00:00'
+  - title: 'WATCH: Netanyahu Skewered Outside White House'
+    url: https://consortiumnews.com/2025/07/07/watch-netanyahu-skewered-outside-white-house/
+    text: “Bibi, Bibi you can’t hide,” the protestors chanted. “You’ve been charged
+      with genocide.” Video by Ford Fischer of News2Share. Speeches begin at 15 minutes.
+      Israeli Prime Minister Benjamin was inside the White House Monday night meeting
+      with Donald Trump. On… Read more →
+    one_sentence_summary: Protesters chanted against Israeli Prime Minister Benjamin
+      Netanyahu outside the White House, accusing him of genocide while he met with
+      Donald Trump.
+    paragraph_summary: Protesters gathered outside the White House, chanting slogans
+      against Israeli Prime Minister Benjamin Netanyahu, accusing him of genocide while
+      he met with former President Donald Trump. The demonstration highlighted tensions
+      surrounding Netanyahu's policies and actions, with activists calling for accountability.
+      The event was captured on video by journalist Ford Fischer, showcasing the fervor
+      of the protestors and the political backdrop of the meeting.
+    published: '2025-07-08T02:48:06+00:00'
+  - title: 'WATCH: Netanyahu Skewered Outside White House'
+    url: https://consortiumnews.com/2025/07/07/watch-netanyahu-skewered-outside-white-house/
+    text: “Bibi, Bibi you can’t hide,” the protestors chanted. “You’ve been charged
+      with genocide.” Video by Ford Fischer of News2Share. Speeches begin at 15 minutes.
+      Israeli Prime Minister Benjamin was inside the White House Monday night meeting
+      with Donald Trump. On… Read more →
+    one_sentence_summary: Protesters chanted against Israeli Prime Minister Benjamin
+      Netanyahu outside the White House, accusing him of genocide while he met with
+      Donald Trump.
+    paragraph_summary: Protesters gathered outside the White House, chanting slogans
+      against Israeli Prime Minister Benjamin Netanyahu, accusing him of genocide while
+      he met with former President Donald Trump. The demonstration highlighted tensions
+      surrounding Netanyahu's policies and actions, with activists calling for accountability.
+      The event was captured on video by journalist Ford Fischer, showcasing the fervor
+      of the protestors and the political backdrop of the meeting.
+    published: '2025-07-08T02:48:06+00:00'
+  - title: 'PATRICK LAWRENCE: Trump Dead-Ends Putin'
+    url: https://consortiumnews.com/2025/07/07/patrick-lawrence-trump-dead-ends-putin/
+    text: For a good long time what’s been happening in Ukraine is nothing more than
+      postwar gore. If you have lost a war but cannot admit it, you are playing the
+      old game of pretend. By Patrick Lawrence Special to Consortium… Read more →
+    one_sentence_summary: The article argues that Ukraine's ongoing situation reflects
+      a denial of defeat in a war, suggesting that the country is engaged in a facade
+      rather than confronting the reality of its circumstances.
+    paragraph_summary: In the article, Patrick Lawrence argues that the ongoing situation
+      in Ukraine reflects a state of denial following a lost war, suggesting that the
+      conflict has devolved into a grim spectacle of violence and suffering. He posits
+      that the inability to acknowledge defeat leads to a façade of continued resistance,
+      characterizing the events as a tragic continuation of postwar consequences rather
+      than a genuine struggle for sovereignty or victory. Lawrence's perspective critiques
+      the narrative surrounding the conflict, emphasizing the psychological and political
+      implications of refusing to confront the reality of the situation.
+    published: '2025-07-07T18:37:01+00:00'
+  - title: 'PATRICK LAWRENCE: Trump Dead-Ends Putin'
+    url: https://consortiumnews.com/2025/07/07/patrick-lawrence-trump-dead-ends-putin/
+    text: For a good long time what’s been happening in Ukraine is nothing more than
+      postwar gore. If you have lost a war but cannot admit it, you are playing the
+      old game of pretend. By Patrick Lawrence Special to Consortium… Read more →
+    one_sentence_summary: The article argues that Ukraine's ongoing situation reflects
+      a denial of defeat in a war, suggesting that the country is engaged in a facade
+      rather than confronting the reality of its circumstances.
+    paragraph_summary: In the article, Patrick Lawrence argues that the ongoing situation
+      in Ukraine reflects a state of denial following a lost war, suggesting that the
+      conflict has devolved into a grim spectacle of violence and suffering. He posits
+      that the inability to acknowledge defeat leads to a façade of continued resistance,
+      characterizing the events as a tragic continuation of postwar consequences rather
+      than a genuine struggle for sovereignty or victory. Lawrence's perspective critiques
+      the narrative surrounding the conflict, emphasizing the psychological and political
+      implications of refusing to confront the reality of the situation.
+    published: '2025-07-07T18:37:01+00:00'
+  - title: Our Coverage of the Ukraine War
+    url: https://consortiumnews.com/2025/07/07/our-coverage-of-the-ukraine-war-2/
+    text: CN has been ahead of the news on Ukraine, from reporting the coup and warning
+      of nuclear catastrophe as far back as 2015, to news of the war today. Help us
+      to continue our coverage. On Feb. 23, 2015, Robert… Read more →
+    one_sentence_summary: CN has consistently provided early and comprehensive coverage
+      on Ukraine, starting with reports on the coup and nuclear threats in 2015, and
+      continuing through the current war.
+    paragraph_summary: The article highlights CN's proactive reporting on the situation
+      in Ukraine, starting from its coverage of the 2015 coup and warnings about potential
+      nuclear risks, to its ongoing updates on the current war. It emphasizes the importance
+      of continued coverage and support for their journalism efforts.
+    published: '2025-07-07T05:51:07+00:00'
+  - title: Our Coverage of the Ukraine War
+    url: https://consortiumnews.com/2025/07/07/our-coverage-of-the-ukraine-war-2/
+    text: CN has been ahead of the news on Ukraine, from reporting the coup and warning
+      of nuclear catastrophe as far back as 2015, to news of the war today. Help us
+      to continue our coverage. On Feb. 23, 2015, Robert… Read more →
+    one_sentence_summary: CN has consistently provided early and comprehensive coverage
+      on Ukraine, starting with reports on the coup and nuclear threats in 2015, and
+      continuing through the current war.
+    paragraph_summary: The article highlights CN's proactive reporting on the situation
+      in Ukraine, starting from its coverage of the 2015 coup and warnings about potential
+      nuclear risks, to its ongoing updates on the current war. It emphasizes the importance
+      of continued coverage and support for their journalism efforts.
+    published: '2025-07-07T05:51:07+00:00'
   - title: 'Vijay Prashad: Patents of a Parasitical North'
     url: https://consortiumnews.com/2025/07/07/vijay-prashad-patents-of-a-parasitical-north/
     text: 'Global South countries are trapped in Global North-dominated patents and

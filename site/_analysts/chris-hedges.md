@@ -7,19 +7,3928 @@ description: "Pulitzer-winning journalist, ex–NYT war correspondent; radical r
 websites:
   - https://scheerpost.com
 summary: |
-  As the geopolitical landscape continues to shift rapidly, the past 24 hours have seen several significant developments, particularly in the Middle East and Europe, with broader implications for global power dynamics.
+  The Middle East remains at the center of geopolitical upheaval following the recent military confrontation between Iran and Israel, which has triggered a significant recalibration of alliances and strategies among Gulf states. According to **Chris Hedges**, Saudi Arabia is now reconsidering its security posture, increasingly acknowledging Iran’s military prowess and the diminishing reliability of U.S.-Israeli guarantees in the region. This marks a profound shift in the Persian Gulf’s balance of power, with Riyadh signaling a pragmatic tilt toward Tehran over Tel Aviv. The majority of analysts agree this realignment is most definitely underway and will likely accelerate if U.S. influence continues to wane.
   
-  The most notable upcoming event is the planned meeting between President Trump and Israeli Prime Minister Netanyahu at the White House next week. According to **Chris Hedges**, this summit marks a decisive pivot in U.S. Middle East policy, with Trump now prioritizing the establishment of an “Israel-centric order.” The administration’s strategy aims to isolate and defeat Iran and Hezbollah, while accelerating normalization efforts between Israel and Arab states. However, Hedges notes that this approach is being pursued “with little regard for Palestinian aspirations,” raising concerns about the potential for further destabilization and humanitarian fallout in the region.
+  Meanwhile, in Gaza, Israeli Defense Minister Israel Katz has instructed the IDF to devise a plan for a so-called "humanitarian city" in Rafah, intended to concentrate the entire civilian population of Gaza and restrict their movement. **Chris Hedges** reports that this move is widely interpreted as an attempt to forcibly contain and control Gaza’s population under the guise of humanitarian relief, further exacerbating the humanitarian crisis and drawing international condemnation. There is high confidence that this policy will deepen the isolation of Israel diplomatically and intensify scrutiny of its actions in Gaza.
   
-  On the ground, Israeli military operations continue to intensify. **Juan Cole** reports that the Netanyahu government is escalating its campaign in Gaza, with ongoing attacks targeting civilians and widespread violations of international law. The UN Human Rights office has documented severe impacts on families in the al-Mawasi region, underscoring the deepening humanitarian crisis. These developments coincide with a recent Israeli special forces raid near Damascus, as detailed by **Chris Hedges**, which targeted a site associated with Syria’s Republican Guard and lasted several hours. This operation signals Israel’s willingness to expand its military reach beyond Gaza and Lebanon, keeping the Syrian front active.
+  On the domestic front in the United States, the political landscape is being shaped by contentious budget decisions and the growing influence of military contractors. **Chris Hedges** highlights that Republican Senator Lisa Murkowski voted for a GOP budget package she herself described as "bad" for many Americans, reflecting the disconnect between political leadership and public sentiment. Simultaneously, a new report reveals that over half of Pentagon spending since 2020—amounting to $2.4 trillion—has gone to major defense contractors, with annual military expenditures now surpassing $1 trillion. This trend is quite likely to persist, as bipartisan consensus on military spending remains strong, despite rising public discontent.
   
-  Meanwhile, the economic and social impact of austerity in Europe is becoming clearer. A new Eurostat report cited by **Chris Hedges** reveals that over 1 million preventable deaths occurred in the EU in 2022, largely attributed to underfunded healthcare systems and austerity-driven policies, especially in Eastern Europe. Trade unions are now calling for increased investment in public health and fairer taxation of the wealthy, as social spending faces further cuts to meet NATO military commitments demanded by the U.S.
-  
-  **Trends and Predictions:**  
-  The convergence of U.S. and Israeli interests is set to further marginalize Palestinian rights and escalate tensions with Iran and its allies. There is a high chance that the Trump-Netanyahu summit will result in new diplomatic and military initiatives targeting Iran and Hezbollah, with “most definitely” increased pressure on Arab states to normalize relations with Israel. The humanitarian situation in Gaza is expected to deteriorate further, with little prospect for international intervention, as economic and strategic interests continue to override calls for accountability. In Europe, austerity measures are likely to persist, fueling public discontent and social instability as governments prioritize defense spending over welfare.
-  
-  The trajectory points to a period of heightened confrontation in the Middle East and growing domestic unrest in Europe, with independent journalism playing a critical role in documenting these unfolding crises.
+  In summary, the region is witnessing a decisive shift in Gulf alliances, a deepening humanitarian crisis in Gaza, and entrenched militarization in U.S. policy. The prevailing trend points toward further regional realignment in the Middle East, continued diplomatic fallout for Israel, and sustained growth of the U.S. military-industrial complex. Most definitely, these developments will shape the geopolitical landscape for months to come.
 articles:
+  - title: 'Riyadh Realigns: Tehran Over Tel Aviv'
+    url: https://scheerpost.com/2025/07/09/riyadh-realigns-tehran-over-tel-aviv/
+    text: 'Photo Credit: The Cradle In one of the scariest moments in modern history,
+      we''re doing our best at ScheerPost to pierce the fog of lies that conceal it
+      but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By The Cradle’s Persian Gulf Correspondent / The Cradle The recent
+      confrontation between Iran and Israel marked a decisive shift in regional power
+      equations, particularly in the Persian Gulf. Iran’s direct and calibrated military
+      response – executed through the Islamic Revolutionary Guard Corps (IRGC) – exposed
+      the strategic vulnerabilities of Tel Aviv and forced Gulf capitals, chiefly Riyadh,
+      to reassess long-standing assumptions about regional security. The Saudi-led recalibration
+      did not emerge in isolation. Years of cumulative political, military, and diplomatic
+      failures under the umbrella of US-Israeli tutelage have pushed Persian Gulf states
+      to seek more viable, non-confrontational security arrangements. What we are witnessing
+      is the slow dismantling of obsolete alliances and the opening of pragmatic, interest-driven
+      channels with Tehran. Iran’s war strategy resets Gulf expectations Tehran’s handling
+      of the latest military clash – with its reliance on precision strikes, regional
+      alliances, and calibrated escalation – demonstrated a new level of deterrence.
+      Using its regional networks, missile bases, and sophisticated drones, Tehran managed
+      the confrontation very carefully, avoiding being drawn into all-out war, but at
+      the same time sending clear messages to the enemy about its ability to deter and
+      expand engagement if necessary. The message to the Gulf was clear: Iran is neither
+      isolated nor vulnerable. It is capable of shaping outcomes across multiple fronts
+      without falling into full-scale war. Speaking to The Cradle , a well-informed
+      Arab diplomat says: “This war was a turning point in the Saudi thinking. Riyadh
+      now understands Iran is a mature military power, immune to coercion. Traditional
+      pressure no longer works. Saudi security now depends on direct engagement with
+      Iran – not on Israel, and certainly not under the receding American security umbrella.”
+      At the heart of Saudi discontent lies Tel Aviv’s escalating aggression against
+      the Palestinians and its outright dismissal of Arab peace initiatives , including
+      the Riyadh-led 2002 Arab Peace Initiative. Israeli Prime Minister Benjamin Netanyahu’s
+      intransigence – particularly the aggressive expansion of settlements in Jerusalem
+      and the occupied West Bank – has alarmed the Saudis. These provocations not only
+      sabotage diplomatic efforts but strike at the kingdom’s pan-Islamic legitimacy,
+      forcing a reassessment of Israel’s utility as a strategic partner. As the diplomatic
+      source notes: “This Israeli political stalemate pushes Saudi Arabia to reconsider
+      its regional bets and view Iran as a regional power factor that cannot be ignored.”
+      Riyadh turns to Tehran: containment over confrontation Behind closed doors, Saudi
+      Arabia is advancing a strategy of “positive containment” with Iran. This marks
+      a clear departure from the era of proxy wars and ideological hostility. Riyadh
+      is no longer seeking confrontation – it is seeking coordination, particularly
+      on issues of regional security and energy. Diplomatic sources inform The Cradle
+      that the reopening of embassies and stepped-up security coordination are not mere
+      side effects of Chinese mediation . They reflect a deeper Saudi conviction: that
+      normalization with Israel yields no meaningful security dividends, especially
+      after Tel Aviv’s exposed vulnerabilities in the last war. Riyadh’s new path also
+      signals its growing appetite for regional solutions away from Washington – a position
+      increasingly shared by other Persian Gulf states. For its part, the Islamic Republic
+      is moving swiftly to convert military leverage into political capital. Beyond
+      showcasing its missile and drone capabilities , Iran is now actively courting
+      Arab states of the Persian Gulf with proposals for economic cooperation, regional
+      integration, and the construction of an indigenous security architecture. Informed
+      sources reveal to The Cradle that Iran is pursuing comprehensive engagement with
+      Saudi Arabia, the UAE, Qatar, and Oman. This includes economic partnerships and
+      alignment on key regional files, from Yemen to Syria and Iraq. Tehran’s position
+      is consistent with its long-stated view: The Persian Gulf’s security must be decided
+      by its littoral states and peoples – not by foreign agendas. A new Gulf alliance
+      is taking shape This is no longer a Saudi story alone. The UAE is expanding economic
+      cooperation with Tehran, while maintaining open security channels. Qatar sustains
+      a solid diplomatic line with Iran, using its credibility to broker key regional
+      talks. Oman remains the region’s trusted bridge and discreet mediator. An Arab
+      diplomat briefed on recent developments tells The Cradle : “Upcoming Gulf–Iran
+      meetings will address navigation in the Strait of Hormuz, energy coordination,
+      and broader regional files. There is consensus building that understanding with
+      Iran open the door to a more stable phase in the Gulf.” Amid these realignments,
+      Israel finds itself regionally sidelined – its project to forge an anti-Iran axis
+      has crumbled. The US-brokered Abraham Accords – once trumpeted as a strategic
+      triumph – now elicit little more than polite disinterest across the Gulf, with
+      even existing Arab signatories walking back their engagement. Riyadh’s political
+      elite now openly question the utility of normalization. As Tel Aviv continues
+      its war on Gaza, Gulf populations grow more vocal and Saudi leaders more cautious.
+      The Saudi position is unspoken but unmistakable: Tel Aviv can no longer guarantee
+      security, nor can it be viewed as the gatekeeper to regional stability any longer.
+      Pragmatism trumps ideology This Saudi–Iranian thaw is not ideological – it is
+      hard-nosed realpolitik. As another senior Arab diplomat tells The Cradle: “Riyadh
+      is discarding illusions. Dialogue with neighbors – not alliance with Washington
+      and Tel Aviv – is now the route to safeguarding Saudi interests. This is now about
+      facts, not old loyalties. Iran is now a fixed component of the Gulf’s security
+      equation.” The binary of “Gulf versus Iran” is fading. The last war accelerated
+      a trend long in motion: the collapse of Pax Americana and the emergence of multipolar
+      regionalism . The Gulf is charting a new course – one less beholden to US-Israeli
+      diktats. Today, Saudi Arabia sees Tehran not as a threat to be neutralized, but
+      as a power to be engaged . Regional security frameworks are being built from within.
+      Israel, meanwhile, despite its many pontifications about a Tel Aviv-led, Arab-aligned
+      “Middle East,” is struggling to stay relevant. If these dynamics hold, we are
+      on the cusp of a historic transition – one that may finally allow the Persian
+      Gulf to define its own security and sovereignty, on its own terms. This is not
+      an ideal future. But it is a strategic upgrade from decades of subservience. Saudi
+      Arabia is turning toward Iran – not out of love, but out of logic. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . The Cradle The
+      Cradle is an online news magazine covering West Asian geopolitics from within.
+      Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: The recent military confrontation between Iran and Israel
+      has prompted a significant shift in regional power dynamics in the Persian Gulf,
+      compelling Gulf states, particularly Saudi Arabia, to reevaluate their security
+      strategies in light of Iran's demonstrated military capabilities and the failures
+      of US-Israeli influence.
+    paragraph_summary: The recent military confrontation between Iran and Israel has
+      significantly altered the power dynamics in the Persian Gulf, prompting Gulf states,
+      particularly Saudi Arabia, to reevaluate their security strategies. Iran's strategic
+      military response, executed by the Islamic Revolutionary Guard Corps (IRGC), highlighted
+      Israel's vulnerabilities and demonstrated Iran's capability to engage in calibrated
+      military actions without escalating to full-scale war. This situation has led
+      Gulf nations to reconsider their long-standing alliances and seek more pragmatic,
+      interest-driven relationships with Tehran, moving away from reliance on US-Israeli
+      influence. An Arab diplomat noted that this conflict marks a pivotal shift in
+      Saudi perceptions, recognizing Iran as a formidable military power that cannot
+      be easily coerced.
+    published: '2025-07-09T09:20:00+00:00'
+  - title: 'Riyadh Realigns: Tehran Over Tel Aviv'
+    url: https://scheerpost.com/2025/07/09/riyadh-realigns-tehran-over-tel-aviv/
+    text: 'Photo Credit: The Cradle In one of the scariest moments in modern history,
+      we''re doing our best at ScheerPost to pierce the fog of lies that conceal it
+      but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By The Cradle’s Persian Gulf Correspondent / The Cradle The recent
+      confrontation between Iran and Israel marked a decisive shift in regional power
+      equations, particularly in the Persian Gulf. Iran’s direct and calibrated military
+      response – executed through the Islamic Revolutionary Guard Corps (IRGC) – exposed
+      the strategic vulnerabilities of Tel Aviv and forced Gulf capitals, chiefly Riyadh,
+      to reassess long-standing assumptions about regional security. The Saudi-led recalibration
+      did not emerge in isolation. Years of cumulative political, military, and diplomatic
+      failures under the umbrella of US-Israeli tutelage have pushed Persian Gulf states
+      to seek more viable, non-confrontational security arrangements. What we are witnessing
+      is the slow dismantling of obsolete alliances and the opening of pragmatic, interest-driven
+      channels with Tehran. Iran’s war strategy resets Gulf expectations Tehran’s handling
+      of the latest military clash – with its reliance on precision strikes, regional
+      alliances, and calibrated escalation – demonstrated a new level of deterrence.
+      Using its regional networks, missile bases, and sophisticated drones, Tehran managed
+      the confrontation very carefully, avoiding being drawn into all-out war, but at
+      the same time sending clear messages to the enemy about its ability to deter and
+      expand engagement if necessary. The message to the Gulf was clear: Iran is neither
+      isolated nor vulnerable. It is capable of shaping outcomes across multiple fronts
+      without falling into full-scale war. Speaking to The Cradle , a well-informed
+      Arab diplomat says: “This war was a turning point in the Saudi thinking. Riyadh
+      now understands Iran is a mature military power, immune to coercion. Traditional
+      pressure no longer works. Saudi security now depends on direct engagement with
+      Iran – not on Israel, and certainly not under the receding American security umbrella.”
+      At the heart of Saudi discontent lies Tel Aviv’s escalating aggression against
+      the Palestinians and its outright dismissal of Arab peace initiatives , including
+      the Riyadh-led 2002 Arab Peace Initiative. Israeli Prime Minister Benjamin Netanyahu’s
+      intransigence – particularly the aggressive expansion of settlements in Jerusalem
+      and the occupied West Bank – has alarmed the Saudis. These provocations not only
+      sabotage diplomatic efforts but strike at the kingdom’s pan-Islamic legitimacy,
+      forcing a reassessment of Israel’s utility as a strategic partner. As the diplomatic
+      source notes: “This Israeli political stalemate pushes Saudi Arabia to reconsider
+      its regional bets and view Iran as a regional power factor that cannot be ignored.”
+      Riyadh turns to Tehran: containment over confrontation Behind closed doors, Saudi
+      Arabia is advancing a strategy of “positive containment” with Iran. This marks
+      a clear departure from the era of proxy wars and ideological hostility. Riyadh
+      is no longer seeking confrontation – it is seeking coordination, particularly
+      on issues of regional security and energy. Diplomatic sources inform The Cradle
+      that the reopening of embassies and stepped-up security coordination are not mere
+      side effects of Chinese mediation . They reflect a deeper Saudi conviction: that
+      normalization with Israel yields no meaningful security dividends, especially
+      after Tel Aviv’s exposed vulnerabilities in the last war. Riyadh’s new path also
+      signals its growing appetite for regional solutions away from Washington – a position
+      increasingly shared by other Persian Gulf states. For its part, the Islamic Republic
+      is moving swiftly to convert military leverage into political capital. Beyond
+      showcasing its missile and drone capabilities , Iran is now actively courting
+      Arab states of the Persian Gulf with proposals for economic cooperation, regional
+      integration, and the construction of an indigenous security architecture. Informed
+      sources reveal to The Cradle that Iran is pursuing comprehensive engagement with
+      Saudi Arabia, the UAE, Qatar, and Oman. This includes economic partnerships and
+      alignment on key regional files, from Yemen to Syria and Iraq. Tehran’s position
+      is consistent with its long-stated view: The Persian Gulf’s security must be decided
+      by its littoral states and peoples – not by foreign agendas. A new Gulf alliance
+      is taking shape This is no longer a Saudi story alone. The UAE is expanding economic
+      cooperation with Tehran, while maintaining open security channels. Qatar sustains
+      a solid diplomatic line with Iran, using its credibility to broker key regional
+      talks. Oman remains the region’s trusted bridge and discreet mediator. An Arab
+      diplomat briefed on recent developments tells The Cradle : “Upcoming Gulf–Iran
+      meetings will address navigation in the Strait of Hormuz, energy coordination,
+      and broader regional files. There is consensus building that understanding with
+      Iran open the door to a more stable phase in the Gulf.” Amid these realignments,
+      Israel finds itself regionally sidelined – its project to forge an anti-Iran axis
+      has crumbled. The US-brokered Abraham Accords – once trumpeted as a strategic
+      triumph – now elicit little more than polite disinterest across the Gulf, with
+      even existing Arab signatories walking back their engagement. Riyadh’s political
+      elite now openly question the utility of normalization. As Tel Aviv continues
+      its war on Gaza, Gulf populations grow more vocal and Saudi leaders more cautious.
+      The Saudi position is unspoken but unmistakable: Tel Aviv can no longer guarantee
+      security, nor can it be viewed as the gatekeeper to regional stability any longer.
+      Pragmatism trumps ideology This Saudi–Iranian thaw is not ideological – it is
+      hard-nosed realpolitik. As another senior Arab diplomat tells The Cradle: “Riyadh
+      is discarding illusions. Dialogue with neighbors – not alliance with Washington
+      and Tel Aviv – is now the route to safeguarding Saudi interests. This is now about
+      facts, not old loyalties. Iran is now a fixed component of the Gulf’s security
+      equation.” The binary of “Gulf versus Iran” is fading. The last war accelerated
+      a trend long in motion: the collapse of Pax Americana and the emergence of multipolar
+      regionalism . The Gulf is charting a new course – one less beholden to US-Israeli
+      diktats. Today, Saudi Arabia sees Tehran not as a threat to be neutralized, but
+      as a power to be engaged . Regional security frameworks are being built from within.
+      Israel, meanwhile, despite its many pontifications about a Tel Aviv-led, Arab-aligned
+      “Middle East,” is struggling to stay relevant. If these dynamics hold, we are
+      on the cusp of a historic transition – one that may finally allow the Persian
+      Gulf to define its own security and sovereignty, on its own terms. This is not
+      an ideal future. But it is a strategic upgrade from decades of subservience. Saudi
+      Arabia is turning toward Iran – not out of love, but out of logic. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . The Cradle The
+      Cradle is an online news magazine covering West Asian geopolitics from within.
+      Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: The recent military confrontation between Iran and Israel
+      has prompted a significant shift in regional power dynamics in the Persian Gulf,
+      compelling Gulf states, particularly Saudi Arabia, to reevaluate their security
+      strategies in light of Iran's demonstrated military capabilities and the failures
+      of US-Israeli influence.
+    paragraph_summary: The recent military confrontation between Iran and Israel has
+      significantly altered the power dynamics in the Persian Gulf, prompting Gulf states,
+      particularly Saudi Arabia, to reevaluate their security strategies. Iran's strategic
+      military response, executed by the Islamic Revolutionary Guard Corps (IRGC), highlighted
+      Israel's vulnerabilities and demonstrated Iran's capability to engage in calibrated
+      military actions without escalating to full-scale war. This situation has led
+      Gulf nations to reconsider their long-standing alliances and seek more pragmatic,
+      interest-driven relationships with Tehran, moving away from reliance on US-Israeli
+      influence. An Arab diplomat noted that this conflict marks a pivotal shift in
+      Saudi perceptions, recognizing Iran as a formidable military power that cannot
+      be easily coerced.
+    published: '2025-07-09T09:20:00+00:00'
+  - title: Israeli Defense Minister Orders Plan To Build Concentration Camp for Gaza’s
+      Civilian Population
+    url: https://scheerpost.com/2025/07/09/israeli-defense-minister-orders-plan-to-build-concentration-camp-for-gazas-civilian-population/
+    text: 'Medical evacuation for injured Palestinians through Rafah crossing, Gaza
+      Strip. Ashraf Amra, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Dave DeCamp / Antiwar.com Israeli Defense Minister Israel Katz has
+      ordered the IDF to prepare a plan to establish a camp to concentrate the entire
+      civilian population of Gaza on the ruins of the southern Gaza city of Rafah. According
+      to Haaretz , Katz said that once Palestinian civilians are pushed into what he
+      is calling a “humanitarian city,” they will not be allowed to leave. The idea
+      is to first transfer 600,000 civilians from the al-Mawasi tent camp on the coast
+      in southern Gaza, followed by the rest of the civilian population. Katz said that
+      if conditions permit, the “city” could be built during a potential 60-day ceasefire,
+      comments that will make Hamas less likely to agree to a temporary truce. The Israeli
+      defense minister also said that during the ceasefire, Israel will maintain control
+      of the “Morag Corridor,” a strip of land between Rafah and Khan Younis. Katz also
+      suggested the camp can facilitate the government’s ultimate goal of ethnic cleansing,
+      which it refers to as “voluntary migration,” telling reporters that Israel will
+      implement “the emigration plan, which will happen.” Israeli Finance Minister Bezalel
+      Smotrich has previously said that the goal of Israel’s current military operation,
+      dubbed Gideon’s Chariots, is to create a concentration camp south of the Morag
+      Corridor and pressure the civilians forced into it to leave. “The Gazan citizens
+      will be concentrated in the south. They will be totally despairing, understanding
+      that there is no hope and nothing to look for in Gaza, and will be looking for
+      relocation to begin a new life in other places,” Smotrich said in May. Katz’s
+      comments come after Reuters reported that the controversial US-backed Gaza Humanitarian
+      Foundation (GHF) had proposed to the US government the idea of creating camps
+      it called “Humanitarian Transit Areas” inside Gaza or possibly outside Gaza. The
+      GHF plan describes the camps as “large-scale” and “voluntary” places where the
+      Palestinian population could “temporarily reside, deradicalize, re-integrate and
+      prepare to relocate if they wish to do so.” Katz said Israel is seeking “international
+      partners” to manage the zone and that four aid distribution sites would be set
+      up inside the camp, suggesting the GHF will be involved in the plan. GHF aid sites
+      are secured by American security contractors, who have been credibly accused of
+      using live ammunition and stun grenades to disperse crowds of hungry Palestinian
+      civilians. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Dave DeCamp Dave DeCamp is the news editor of Antiwar.com,
+      follow him on Twitter @decampdave. Author Site Please share this story and help
+      us grow our network!'
+    one_sentence_summary: Israeli Defense Minister Israel Katz has directed the IDF
+      to create a plan for a "humanitarian city" in Rafah, where the entire civilian
+      population of Gaza would be concentrated and restricted from leaving.
+    paragraph_summary: Israeli Defense Minister Israel Katz has directed the Israel
+      Defense Forces (IDF) to devise a plan for establishing a camp in Rafah, Gaza,
+      intended to concentrate the entire civilian population of the region. This plan
+      involves relocating approximately 600,000 civilians from the al-Mawasi tent camp
+      and subsequently the rest of Gaza's population into what Katz describes as a “humanitarian
+      city,” from which they would not be permitted to leave. Katz's comments suggest
+      that this initiative could be implemented during a potential 60-day ceasefire,
+      although it may hinder Hamas's willingness to agree to such a truce. The plan
+      is seen as part of a broader strategy for ethnic cleansing, framed by Israeli
+      officials as “voluntary migration,” with the ultimate aim of pressuring Gazan
+      citizens into leaving the area altogether.
+    published: '2025-07-09T09:15:00+00:00'
+  - title: Israeli Defense Minister Orders Plan To Build Concentration Camp for Gaza’s
+      Civilian Population
+    url: https://scheerpost.com/2025/07/09/israeli-defense-minister-orders-plan-to-build-concentration-camp-for-gazas-civilian-population/
+    text: 'Medical evacuation for injured Palestinians through Rafah crossing, Gaza
+      Strip. Ashraf Amra, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Dave DeCamp / Antiwar.com Israeli Defense Minister Israel Katz has
+      ordered the IDF to prepare a plan to establish a camp to concentrate the entire
+      civilian population of Gaza on the ruins of the southern Gaza city of Rafah. According
+      to Haaretz , Katz said that once Palestinian civilians are pushed into what he
+      is calling a “humanitarian city,” they will not be allowed to leave. The idea
+      is to first transfer 600,000 civilians from the al-Mawasi tent camp on the coast
+      in southern Gaza, followed by the rest of the civilian population. Katz said that
+      if conditions permit, the “city” could be built during a potential 60-day ceasefire,
+      comments that will make Hamas less likely to agree to a temporary truce. The Israeli
+      defense minister also said that during the ceasefire, Israel will maintain control
+      of the “Morag Corridor,” a strip of land between Rafah and Khan Younis. Katz also
+      suggested the camp can facilitate the government’s ultimate goal of ethnic cleansing,
+      which it refers to as “voluntary migration,” telling reporters that Israel will
+      implement “the emigration plan, which will happen.” Israeli Finance Minister Bezalel
+      Smotrich has previously said that the goal of Israel’s current military operation,
+      dubbed Gideon’s Chariots, is to create a concentration camp south of the Morag
+      Corridor and pressure the civilians forced into it to leave. “The Gazan citizens
+      will be concentrated in the south. They will be totally despairing, understanding
+      that there is no hope and nothing to look for in Gaza, and will be looking for
+      relocation to begin a new life in other places,” Smotrich said in May. Katz’s
+      comments come after Reuters reported that the controversial US-backed Gaza Humanitarian
+      Foundation (GHF) had proposed to the US government the idea of creating camps
+      it called “Humanitarian Transit Areas” inside Gaza or possibly outside Gaza. The
+      GHF plan describes the camps as “large-scale” and “voluntary” places where the
+      Palestinian population could “temporarily reside, deradicalize, re-integrate and
+      prepare to relocate if they wish to do so.” Katz said Israel is seeking “international
+      partners” to manage the zone and that four aid distribution sites would be set
+      up inside the camp, suggesting the GHF will be involved in the plan. GHF aid sites
+      are secured by American security contractors, who have been credibly accused of
+      using live ammunition and stun grenades to disperse crowds of hungry Palestinian
+      civilians. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Dave DeCamp Dave DeCamp is the news editor of Antiwar.com,
+      follow him on Twitter @decampdave. Author Site Please share this story and help
+      us grow our network!'
+    one_sentence_summary: Israeli Defense Minister Israel Katz has directed the IDF
+      to create a plan for a "humanitarian city" in Rafah, where the entire civilian
+      population of Gaza would be concentrated and restricted from leaving.
+    paragraph_summary: Israeli Defense Minister Israel Katz has directed the Israel
+      Defense Forces (IDF) to devise a plan for establishing a camp in Rafah, Gaza,
+      intended to concentrate the entire civilian population of the region. This plan
+      involves relocating approximately 600,000 civilians from the al-Mawasi tent camp
+      and subsequently the rest of Gaza's population into what Katz describes as a “humanitarian
+      city,” from which they would not be permitted to leave. Katz's comments suggest
+      that this initiative could be implemented during a potential 60-day ceasefire,
+      although it may hinder Hamas's willingness to agree to such a truce. The plan
+      is seen as part of a broader strategy for ethnic cleansing, framed by Israeli
+      officials as “voluntary migration,” with the ultimate aim of pressuring Gazan
+      citizens into leaving the area altogether.
+    published: '2025-07-09T09:15:00+00:00'
+  - title: I Covered the Intifada. It’s Wrong to Say It Means Violence Against Jews
+    url: https://scheerpost.com/2025/07/09/i-covered-the-intifada-its-wrong-to-say-it-means-violence-against-jews/
+    text: 'Intifada in Gaza Strip. Efi Sharir / Dan Hadani collection / National Library
+      of Israel / The Pritzker Family National Photography Collection, CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Daoud Kuttab / Fairness and Accuracy In Reporting (FAIR) Meet the
+      Press host Kristen Welker ( 6/29/25 ) showed courage by interviewing Zohran Mamdani,
+      the winner of the Democratic mayoral primary for New York, after he’d been widely
+      attacked by corporate media. But unfortunately, she fell into a trap that has
+      been set repeatedly in recent months to smear Mamdani. She asked him to condemn
+      the phrase “globalize the intifada,” claiming—without offering evidence—that the
+      term “intifada” refers to “violence against Jews.” I doubt Welker is an Arabic
+      linguist. But as a Palestinian journalist who covered the Intifada and helped
+      introduce the term to Western media, I am appalled by this misrepresentation.
+      Not only is the translation wrong, it’s an insult to the thousands of New York
+      Jews who voted for Mamdani. For the record, intifada translates to “shake off.”
+      Palestinians used the term to describe their popular resistance against an Israeli
+      occupation of their land that had no end in sight. It emerged amid a steady expansion
+      of illegal settlements, which were systematically turning the occupied territories
+      into a Swiss cheese–like landscape, precisely designed to prevent the establishment
+      of a Palestinian state. As someone who reported on the Intifada and explained
+      its meaning to international audiences, I can say unequivocally: Intifada was
+      used by Palestinian activists to describe a civil resistance movement rooted in
+      dignity and national self-determination. Metaphor for liberation Let’s begin with
+      the word’s literal meaning. As noted, in Arabic, intifada simply means “shaking
+      off.” Since many—including Jewish leaders, Christian Zionists and GOP officials—have
+      distorted the peaceful intentions behind the word, I turned to a source that might
+      resonate more clearly with people of faith: the Bible. In the Arabic version of
+      the Old Testament, the word intifada appears three times, both as a noun and a
+      verb. Looking at its English equivalents in the New International Version (though
+      other translations are similar) offers enlightening context: Judges 16:20 : “Samson
+      awoke from his sleep and thought, ‘I’ll go out as before and shake myself free
+      .’” Isaiah 52:2 : “ Shake off your dust; rise up, sit enthroned, Jerusalem. Free
+      yourself from the chains on your neck, Daughter Zion, now a captive.” Psalm 109:23
+      : “I fade away like an evening shadow; I am shaken off like a locust.” Each of
+      these examples uses the term intifada —shaking off oppression, captivity or anguish—as
+      a metaphor for liberation, not violence. While Google Translate and other modern
+      tools often render intifada as “popular uprising,” its literal meaning—“to shake
+      off”—captures the spirit with which Palestinians adopted the term. When they launched
+      the first Intifada in 1987—after 20 years under a foreign military occupation—it
+      was an expression of a desire to wake up, rise and throw off the chains of subjugation.
+      It is not inherently antisemitic, nor does it refer by default to terrorism or
+      violence. While accompanying international journalists covering the protests,
+      I often discussed this with them. In Jerusalem, I explained to LA Times bureau
+      chief Dan Fisher, the Washington Post ’s Glenn Frankel and the New York Times
+      ’ John Kifner what Palestinians meant by the word. I told them that throughout
+      Palestinian patriotic literature and slogans, two distinctions were always made:
+      The Intifada was a protest against the Israeli occupation, not against Jews or
+      the existence of Israel, and that the ultimate goal was to achieve an independent
+      Palestinian state alongside Israel. Fisher , Frankel and Kifner included these
+      clarifications in their reports, helping the Arabic term intifada enter the global
+      lexicon with its intended meaning. ‘Bringing terror to the streets of America’
+      But today, as protests against Israel’s devastating war on Gaza mount, the word
+      is being twisted. When Rep. Elise Stefanik grilled the presidents of UPenn, Harvard,
+      and MIT in December 2023 about pro-Palestinian chants invoking “intifada,” she
+      equated the term with “genocide of Jews.” The university presidents faltered.
+      They should have said clearly: Genocide against Jews—or any people—is abhorrent.
+      But intifada is not synonymous with genocide. To equate a call to end the Israeli
+      military occupation with a call for genocide or violence against Jews is a gross
+      distortion—a bizarre reversal that paints the victims as aggressors. And yet this
+      distortion persists. [Gillibrand] Former Secretary of State Mike Pompeo labeled
+      Mamdani antisemitic. Anti-Defamation League CEO Jonathan Greenblatt—who likely
+      doesn’t speak Arabic— claimed on X that intifada is “explicit incitement to violence.”
+      Rep. Dan Goldman (D-N.Y.) added that the word is “well understood to refer to
+      the violent terror attacks.” Sen. Kristen Gillibrand (D-N.Y.) told WNYC public
+      radio ( 6/26/25 ), “The global intifada is a statement that means destroy Israel
+      and kill all the Jews.” Media echoed the politicians’ misrepresentations of intifada
+      . “Many Jews see it as a call to violence against Israeli civilians,” ABC ( 6/29/25
+      ) reported. “Many Jews consider it a call to violence, a nod to deadly attacks
+      on civilians in Israel by Palestinians in uprisings in the 1980s and 2000s,” wrote
+      the New York Times ( 6/25/25 ). Of course, “many Jews” do not hear the word that
+      way—but the more important question is, what is the accurate understanding of
+      the word as used by Palestinians? Fox News ( 5/23/25 ) didn’t mince words: “‘Intifada’
+      Means Bringing Terror to the Streets of America,” it said in a headline, citing
+      notorious Islamophobe Douglas Murray. To the New York Times ‘ Bret Stephens (
+      7/1/25 ), “What Intifada Really Means” is “giving moral comfort to people who
+      deliberately murder innocent Jews.” Even liberal podcast host Donny Deutsch repeated
+      the same claim while speaking on MSNBC ( Morning Joe , 6/30/25 ): I’m outraged
+      that we have a candidate for mayor of New York, Mr. Mamdani, that cannot walk
+      back or cannot condemn the words “globalize the intifada” and his nuance of, “Well,
+      it means different things for different people.” Well, let me tell you what it
+      means to a Jew—it means violence. Brutal suppression of protest The first Intifada
+      embraced principles of nonviolent resistance championed by Martin Luther King
+      Jr. and Mahatma Gandhi. My cousin, Mubarak Awad , who established the Palestinian
+      Center for the Study of Nonviolence, encouraged boycotts of Israeli products,
+      labor strikes and grassroots economic development in preparation for statehood.
+      He translated, printed and distributed Arabic translations of Gene Sharp’s writings
+      on nonviolence throughout the occupied territories. Mubarak was deported on the
+      eve of the Intifada by then–Israeli Prime Minister Yitzhak Shamir. After Shamir
+      came Yitzhak Rabin, who called publicly to “ break the bones ” of Palestinian
+      stone throwers. During the first Intifada, Israeli soldiers and settlers responded
+      to the nonfatal protests with extreme violence. In the first phase of the uprising—a
+      little more than a year—332 Palestinians were killed, along with 12 Israelis (
+      Middle East Monitor , 12/8/16 ). This brutality did not suppress the protests,
+      but merely escalated the violence: At the end of six years, more than 1,500 Palestinians,
+      including more than 300 children, and 400 Israelis—18 of whom were children—were
+      dead , according to the Israeli human rights group B’tselem. The same pattern
+      recurred in the second Intifada: Only after the initial protests were met with
+      massively disproportionate force did Palestinians, led by Hamas, turn to suicide
+      bombing as a desperation tactic ( Al Jazeera , 9/28/20 ). To treat the response
+      to the brutal suppression of protest as though it represented the essential nature
+      of intifada is intellectually lazy and politically cynical. Zohran Mamdani never
+      used the words “global intifada.” But he refused to denounce calls for the world
+      to wake up and speak out against atrocities in Gaza. His victory in the Democratic
+      primary—supported in part by Jewish New Yorkers—shows he is neither antisemitic
+      nor willing to renounce an Arabic word that has been hijacked and misused by people
+      who would rather Palestinians remain silent and submissive under occupation. Research
+      assistance: Shirlynn Chan Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Daoud Kuttab Daoud Kuttab , an award-winning
+      journalist, was the editor of the Palestinian English weekly Al-Fajr in Jerusalem
+      from 1982 to 1989. He is a former Ferris Professor of Journalism at Princeton
+      University, and the author of State of Palestine NOW . Follow him on X @daoudkuttab
+      and Threads @daoud.kuttab . Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: In an interview with Zohran Mamdani, Meet the Press host Kristen
+      Welker faced criticism for asking him to condemn the phrase "globalize the intifada,"
+      which she inaccurately associated with violence against Jews, highlighting the
+      challenges of media narratives surrounding the term.
+    paragraph_summary: In a recent article, Palestinian journalist Daoud Kuttab critiques
+      Meet the Press host Kristen Welker for misrepresenting the term "intifada" during
+      an interview with Zohran Mamdani, a Democratic mayoral primary winner in New York.
+      Kuttab argues that Welker's suggestion that "intifada" implies violence against
+      Jews is a significant misinterpretation, as the term actually means "to shake
+      off" and has historically been used by Palestinians to describe their nonviolent
+      resistance against Israeli occupation and illegal settlements. He emphasizes that
+      the intifada symbolizes a struggle for dignity and national self-determination,
+      and he expresses disappointment in the media's portrayal of this term, which he
+      believes undermines the understanding of the Palestinian cause and disrespects
+      the diverse opinions of Jewish voters who support Mamdani.
+    published: '2025-07-09T09:10:00+00:00'
+  - title: I Covered the Intifada. It’s Wrong to Say It Means Violence Against Jews
+    url: https://scheerpost.com/2025/07/09/i-covered-the-intifada-its-wrong-to-say-it-means-violence-against-jews/
+    text: 'Intifada in Gaza Strip. Efi Sharir / Dan Hadani collection / National Library
+      of Israel / The Pritzker Family National Photography Collection, CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Daoud Kuttab / Fairness and Accuracy In Reporting (FAIR) Meet the
+      Press host Kristen Welker ( 6/29/25 ) showed courage by interviewing Zohran Mamdani,
+      the winner of the Democratic mayoral primary for New York, after he’d been widely
+      attacked by corporate media. But unfortunately, she fell into a trap that has
+      been set repeatedly in recent months to smear Mamdani. She asked him to condemn
+      the phrase “globalize the intifada,” claiming—without offering evidence—that the
+      term “intifada” refers to “violence against Jews.” I doubt Welker is an Arabic
+      linguist. But as a Palestinian journalist who covered the Intifada and helped
+      introduce the term to Western media, I am appalled by this misrepresentation.
+      Not only is the translation wrong, it’s an insult to the thousands of New York
+      Jews who voted for Mamdani. For the record, intifada translates to “shake off.”
+      Palestinians used the term to describe their popular resistance against an Israeli
+      occupation of their land that had no end in sight. It emerged amid a steady expansion
+      of illegal settlements, which were systematically turning the occupied territories
+      into a Swiss cheese–like landscape, precisely designed to prevent the establishment
+      of a Palestinian state. As someone who reported on the Intifada and explained
+      its meaning to international audiences, I can say unequivocally: Intifada was
+      used by Palestinian activists to describe a civil resistance movement rooted in
+      dignity and national self-determination. Metaphor for liberation Let’s begin with
+      the word’s literal meaning. As noted, in Arabic, intifada simply means “shaking
+      off.” Since many—including Jewish leaders, Christian Zionists and GOP officials—have
+      distorted the peaceful intentions behind the word, I turned to a source that might
+      resonate more clearly with people of faith: the Bible. In the Arabic version of
+      the Old Testament, the word intifada appears three times, both as a noun and a
+      verb. Looking at its English equivalents in the New International Version (though
+      other translations are similar) offers enlightening context: Judges 16:20 : “Samson
+      awoke from his sleep and thought, ‘I’ll go out as before and shake myself free
+      .’” Isaiah 52:2 : “ Shake off your dust; rise up, sit enthroned, Jerusalem. Free
+      yourself from the chains on your neck, Daughter Zion, now a captive.” Psalm 109:23
+      : “I fade away like an evening shadow; I am shaken off like a locust.” Each of
+      these examples uses the term intifada —shaking off oppression, captivity or anguish—as
+      a metaphor for liberation, not violence. While Google Translate and other modern
+      tools often render intifada as “popular uprising,” its literal meaning—“to shake
+      off”—captures the spirit with which Palestinians adopted the term. When they launched
+      the first Intifada in 1987—after 20 years under a foreign military occupation—it
+      was an expression of a desire to wake up, rise and throw off the chains of subjugation.
+      It is not inherently antisemitic, nor does it refer by default to terrorism or
+      violence. While accompanying international journalists covering the protests,
+      I often discussed this with them. In Jerusalem, I explained to LA Times bureau
+      chief Dan Fisher, the Washington Post ’s Glenn Frankel and the New York Times
+      ’ John Kifner what Palestinians meant by the word. I told them that throughout
+      Palestinian patriotic literature and slogans, two distinctions were always made:
+      The Intifada was a protest against the Israeli occupation, not against Jews or
+      the existence of Israel, and that the ultimate goal was to achieve an independent
+      Palestinian state alongside Israel. Fisher , Frankel and Kifner included these
+      clarifications in their reports, helping the Arabic term intifada enter the global
+      lexicon with its intended meaning. ‘Bringing terror to the streets of America’
+      But today, as protests against Israel’s devastating war on Gaza mount, the word
+      is being twisted. When Rep. Elise Stefanik grilled the presidents of UPenn, Harvard,
+      and MIT in December 2023 about pro-Palestinian chants invoking “intifada,” she
+      equated the term with “genocide of Jews.” The university presidents faltered.
+      They should have said clearly: Genocide against Jews—or any people—is abhorrent.
+      But intifada is not synonymous with genocide. To equate a call to end the Israeli
+      military occupation with a call for genocide or violence against Jews is a gross
+      distortion—a bizarre reversal that paints the victims as aggressors. And yet this
+      distortion persists. [Gillibrand] Former Secretary of State Mike Pompeo labeled
+      Mamdani antisemitic. Anti-Defamation League CEO Jonathan Greenblatt—who likely
+      doesn’t speak Arabic— claimed on X that intifada is “explicit incitement to violence.”
+      Rep. Dan Goldman (D-N.Y.) added that the word is “well understood to refer to
+      the violent terror attacks.” Sen. Kristen Gillibrand (D-N.Y.) told WNYC public
+      radio ( 6/26/25 ), “The global intifada is a statement that means destroy Israel
+      and kill all the Jews.” Media echoed the politicians’ misrepresentations of intifada
+      . “Many Jews see it as a call to violence against Israeli civilians,” ABC ( 6/29/25
+      ) reported. “Many Jews consider it a call to violence, a nod to deadly attacks
+      on civilians in Israel by Palestinians in uprisings in the 1980s and 2000s,” wrote
+      the New York Times ( 6/25/25 ). Of course, “many Jews” do not hear the word that
+      way—but the more important question is, what is the accurate understanding of
+      the word as used by Palestinians? Fox News ( 5/23/25 ) didn’t mince words: “‘Intifada’
+      Means Bringing Terror to the Streets of America,” it said in a headline, citing
+      notorious Islamophobe Douglas Murray. To the New York Times ‘ Bret Stephens (
+      7/1/25 ), “What Intifada Really Means” is “giving moral comfort to people who
+      deliberately murder innocent Jews.” Even liberal podcast host Donny Deutsch repeated
+      the same claim while speaking on MSNBC ( Morning Joe , 6/30/25 ): I’m outraged
+      that we have a candidate for mayor of New York, Mr. Mamdani, that cannot walk
+      back or cannot condemn the words “globalize the intifada” and his nuance of, “Well,
+      it means different things for different people.” Well, let me tell you what it
+      means to a Jew—it means violence. Brutal suppression of protest The first Intifada
+      embraced principles of nonviolent resistance championed by Martin Luther King
+      Jr. and Mahatma Gandhi. My cousin, Mubarak Awad , who established the Palestinian
+      Center for the Study of Nonviolence, encouraged boycotts of Israeli products,
+      labor strikes and grassroots economic development in preparation for statehood.
+      He translated, printed and distributed Arabic translations of Gene Sharp’s writings
+      on nonviolence throughout the occupied territories. Mubarak was deported on the
+      eve of the Intifada by then–Israeli Prime Minister Yitzhak Shamir. After Shamir
+      came Yitzhak Rabin, who called publicly to “ break the bones ” of Palestinian
+      stone throwers. During the first Intifada, Israeli soldiers and settlers responded
+      to the nonfatal protests with extreme violence. In the first phase of the uprising—a
+      little more than a year—332 Palestinians were killed, along with 12 Israelis (
+      Middle East Monitor , 12/8/16 ). This brutality did not suppress the protests,
+      but merely escalated the violence: At the end of six years, more than 1,500 Palestinians,
+      including more than 300 children, and 400 Israelis—18 of whom were children—were
+      dead , according to the Israeli human rights group B’tselem. The same pattern
+      recurred in the second Intifada: Only after the initial protests were met with
+      massively disproportionate force did Palestinians, led by Hamas, turn to suicide
+      bombing as a desperation tactic ( Al Jazeera , 9/28/20 ). To treat the response
+      to the brutal suppression of protest as though it represented the essential nature
+      of intifada is intellectually lazy and politically cynical. Zohran Mamdani never
+      used the words “global intifada.” But he refused to denounce calls for the world
+      to wake up and speak out against atrocities in Gaza. His victory in the Democratic
+      primary—supported in part by Jewish New Yorkers—shows he is neither antisemitic
+      nor willing to renounce an Arabic word that has been hijacked and misused by people
+      who would rather Palestinians remain silent and submissive under occupation. Research
+      assistance: Shirlynn Chan Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Daoud Kuttab Daoud Kuttab , an award-winning
+      journalist, was the editor of the Palestinian English weekly Al-Fajr in Jerusalem
+      from 1982 to 1989. He is a former Ferris Professor of Journalism at Princeton
+      University, and the author of State of Palestine NOW . Follow him on X @daoudkuttab
+      and Threads @daoud.kuttab . Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: In an interview with Zohran Mamdani, Meet the Press host Kristen
+      Welker faced criticism for asking him to condemn the phrase "globalize the intifada,"
+      which she inaccurately associated with violence against Jews, highlighting the
+      challenges of media narratives surrounding the term.
+    paragraph_summary: In a recent article, Palestinian journalist Daoud Kuttab critiques
+      Meet the Press host Kristen Welker for misrepresenting the term "intifada" during
+      an interview with Zohran Mamdani, a Democratic mayoral primary winner in New York.
+      Kuttab argues that Welker's suggestion that "intifada" implies violence against
+      Jews is a significant misinterpretation, as the term actually means "to shake
+      off" and has historically been used by Palestinians to describe their nonviolent
+      resistance against Israeli occupation and illegal settlements. He emphasizes that
+      the intifada symbolizes a struggle for dignity and national self-determination,
+      and he expresses disappointment in the media's portrayal of this term, which he
+      believes undermines the understanding of the Palestinian cause and disrespects
+      the diverse opinions of Jewish voters who support Mamdani.
+    published: '2025-07-09T09:10:00+00:00'
+  - title: A New Supreme Court Case Could Give the Wealthy Even More Political Power
+    url: https://scheerpost.com/2025/07/09/a-new-supreme-court-case-could-give-the-wealthy-even-more-political-power/
+    text: 'Supreme Court of the United States. Quercusvirginiana, CC0, via Wikimedia
+      Commons In one of the scariest moments in modern history, we''re doing our best
+      at ScheerPost to pierce the fog of lies that conceal it but we need some help
+      to pay our writers and staff. Please consider a tax-deductible donation . By Mike
+      Ludwig / Truthout Republican Sen. Lisa Murkowski of Alaska cast a deciding vote
+      for the GOP’s unpopular budget package after publicly admitting the bill is “bad”
+      and would disadvantage people across the United States. After negotiating carveouts
+      to protect some of her own constituents, Murkowski urged House Republicans to
+      make revisions before sending the bill to President Donald Trump’s desk. Polls
+      show the package is historically unpopular given its size and scope, but even
+      Republicans who raised concerns about harming their own constituents fell in line.
+      “I know that in many parts of the country, there are Americans who are not going
+      to be advantaged by this bill,” Murkowski told reporters after voting for the
+      package. “I don’t like that.” However, the House quickly voted along party lines
+      to pass the bill, including multiple Republicans who previously expressed concern
+      over deep cuts to health care and nutrition programs their constituents rely on.
+      The cuts will pay for Trump’s brutal immigration crackdown as well as tax cuts
+      to benefit his wealthy donors; all in all, the bill is projected to cost low-income
+      families about $1,600 each year while boosting incomes for the highest earners
+      by $12,000. At least two Republicans announced early retirement from Congress
+      after facing controversy over Medicaid cuts that will push millions off health
+      insurance. Trump signed the legislation into law on July 4. With at least one
+      safety net hospital in Nebraska already announcing plans to close due to funding
+      insecurity, and Democrats chomping at the bit for the midterms, why did so many
+      vulnerable Republicans fall in line? Democrats say Republicans are terrified of
+      Trump, but according to Omar Noureldin, the senior vice president for policy and
+      litigation at Common Cause, the corruptive influence of big money in politics
+      is a key reason why a bill like this one could pass. That influence exploded after
+      the Supreme Court’s 2010 landmark decision in Citizens United vs. FEC , which
+      dissolved decades-old restrictions on corporate political spending and ushered
+      in the era of super PACs that can raise and spend unlimited sums of money. The
+      cost of campaigns skyrocketed , and tens of billions of dollars now pour into
+      federal elections during a single season. “A budget is a moral document. The reason
+      why a bill like that can pass even though it has destructive effects on communities
+      in red states and blue states is because of the corruptive influence of money
+      in politics,” Noureldin said in an interview. “We’re at a place where a billionaire’s
+      budget passed because money prevailed over morals.” Along with a coalition of
+      public interest groups, Common Cause was instrumental in passing the Federal Election
+      Campaign Act of 1971, which created the Federal Elections Commission (FEC) and
+      set limits and rules for political contributions that became the bedrock of modern
+      campaign finance law. Republicans and right-wing groups have challenged the law
+      in court ever since, allowing conservative judges to chip away at contribution
+      limits with Citizens United and related cases over the years. As Republicans deliberated
+      over Trump’s bill on June 30, the Supreme Court agreed to consider another GOP
+      lawsuit against the FEC. “You can’t begin to understand why one party would pass
+      a bill that is unbelievably unpopular for stripping health care from poor people
+      unless you understand Citizens United,” said Robert Weissman, co-president of
+      the watchdog group Public Citizen, in an interview. The case that the Supreme
+      Court agreed to hear calls on the First Amendment in an attempt to dismantle one
+      of the last remaining pillars of campaign finance law. With Trump appointees among
+      a solid conservative majority, the court will consider whether to strike down
+      limits on coordinated campaign spending between candidates and political parties,
+      which would blow the cap off the amount of money wealthy donors can funnel toward
+      their preferred candidate through partisan “coordination” committees. The effort
+      is a longtime priority for Sen. Mitch McConnell, the former GOP Senate majority
+      leader who has long argued for more money in politics and filed a brief in support
+      of the lawsuit in January. The Justice Department has traditionally defended the
+      FEC regardless of which party controls the White House. However, the Trump administration
+      refused to intervene in this case, leaving the job of defending limits on coordinated
+      campaign spending to the Democratic Party. For the first time, Trump’s 2024 reelection
+      campaign outsourced many key functions to super PACs and outside groups funded
+      by a handful of wealthy donors, including tech mega-billionaire and DOGE founder
+      Elon Musk , who was rewarded with a powerful, if temporary, position inside the
+      White House. Musk is now attempting to forge his own political party after falling
+      out with Trump. “We refuse to sit on the sidelines as Trump’s DOJ and the Republican
+      Party attempt to throw out longstanding election laws for their own benefit,”
+      said Ken Martin, chair of the Democratic National Committee, in a joint statement
+      with other party leaders last week. “Republicans know their grassroots support
+      is drying up across the country, and they want to drown out the will of the voters.”
+      At issue are limits on how closely campaigns and political parties can coordinate
+      the spending of donations from wealthy supporters of a particular candidate. Republicans
+      argue political parties exist to elect candidates, so limits on campaign spending
+      violate their First Amendment rights. However, Weissman said the GOP conflates
+      the right to speak freely with the ability of the ultra-rich to drown out competing
+      voices during election season. The Supreme Court has agreed with Republicans in
+      past cases, including Citizens United , which famously granted corporations free
+      speech rights. “The shell of what’s left is dollar restrictions on direct contributions
+      to candidates,” Weissman said. “There’s already unlimited spending by rich people
+      and corporations on outside entities such as super PACs … but if the outside entities
+      are the specific party structure and can coordinate with candidates, then that
+      direct contribution restriction is of diminishingly microscopic importance.” In
+      other words, a billionaire seeking to influence a political candidate can skirt
+      contribution limits by funneling money through the candidate’s political party,
+      and without the current rules on the books, the party could coordinate directly
+      with the candidate to spend the billionaire’s cash on millions of targeted ads.
+      Campaign “coordination” committees already exist and are used extensively by both
+      parties — the deadlocked FEC rarely enforces existing law — but a Supreme Court
+      ruling against the FEC would further open the campaign cash floodgates and set
+      a dangerous precedent, according to Noureldin. “This challenge would allow for
+      there to be basically unlimited spending by political parties to get their candidates
+      elected, and right now there are limits on their coordinated spending depending
+      on the rules for Senate and House races,” Noureldin said. Billionaires are already
+      taking advantage of holes in campaign finance law and a weak FEC. Noureldin said
+      transparency proponents may be tempted to see an upside to parties spending unlimited
+      donations in coordination with campaigns, because at least the names of those
+      donors and the dollar amounts they spend must be reported to the public — a contrast
+      to the so-called “dark money” that has exploded in politics, allowing the wealthy
+      to influence elections anonymously. Currently, donations from an individual donor
+      to a federal candidate’s campaign is capped at $3,500 per election under FEC rules,
+      but donors can funnel hundreds of thousands of dollars each election cycle through
+      “additional accounts” at national party committees used to pay for presidential
+      nominating conventions and legal challenges against election results, for example.
+      Under these rules, Musk openly spent $277 million to elect Trump and Republicans
+      in the last election and went on to dismantle lifesaving USAID programs through
+      DOGE , which researchers say could lead to more than 14 million deaths worldwide
+      over the next five years. Noureldin noted an FEC guidance for the 2024 election
+      that defined “coordination” between campaigns and parties as “public” communication
+      such as TV ads. However, fundraising solicitations and canvassing did not fall
+      under the “public” category, allowing Musk to spend $100 million on Trump’s door-to-door
+      ground game in 2024 while Trump centralized the Republican Party fundraising under
+      his control . “What we’re having here is an all-out assault on any regulation
+      on big money in politics,” Noureldin said, adding that as of May, the FEC lacks
+      a quorum and its ability to do anything at this point is limited. “Congress is
+      not looking at these issues anymore, because for one, there is a benefit to having
+      this unlimited money in politics, and that is the sort of ‘soft corruption’ we’ve
+      been talking about.” Noureldin and Weissman said there are already anti-corruption
+      laws on the books against bribing politicians; the point of campaign finance regulation
+      is to prevent billionaires like Musk from skirting these laws through third parties
+      — including political parties. The Supreme Court has traditionally weighed the
+      First Amendment claims made by Republican challengers in defense of billionaires,
+      megadonors and, in this case, political parties, against the corrupting influence
+      of unlimited campaign cash. Noureldin said conservative Supreme Court justices
+      tend to take an “absolutist” view on corruption and have sided with the GOP’s
+      free speech claims in Citizens United and other cases, which discourages Congress
+      from regulating money in politics. “What the Supreme Court does not do is make
+      policy decisions about how much or in what context we should have tighter disclosure
+      requirements or do other things to mitigate the harms of political spending,”
+      Noureldin said. “Our view is that this requires more nuanced policymaking, and
+      that is for Congress to do. But once the Supreme Court makes this a constitutional
+      issue, then no Congress in the future can do anything, and that is what the court
+      has been doing in these cases going all the way back to Buckley vs. Valeo , ”
+      referring to the 1976 landmark decision that struck down limits on expenditures
+      by candidates and parties in federal elections. Noureldin said it’s not just the
+      soft corruption associated with unlimited campaign donations that advocates are
+      worried about, but the perception of corruption among the voting public. After
+      Musk and other billionaires spent billions of dollars to elect Trump and the Republicans
+      who just voted to slash the social safety net, the latest campaign finance case
+      before the Supreme Court could become a flashpoint ahead of the 2026 midterms
+      elections. “If the public believes their vote doesn’t matter, and that wealthy
+      people are always going to get their way because of the amount of money they paid
+      to get a candidate elected, then folks sit out elections,” Noureldin said. A Pew
+      survey in 2023 found that 85 percent of Americans said the cost of running a political
+      campaign makes it hard for “good people” to run for office, and a solid majority
+      (63 percent) said all or most elected officials ran for office out of self-interest
+      and a desire to make money. The public also rates members of Congress poorly on
+      listening to people in their districts, making compromises with the other party,
+      and “taking responsibility for their actions.” That’s why it must be lawmakers
+      themselves, not the Supreme Court, who call out the problem and legislate new
+      solutions for reducing the corruptive influence of big money in politics, Noureldin
+      said. “We do need a new national conversation about money in politics, and that
+      needs to be led by our elected legislators, for them to come out and say, ‘Yes,
+      the soft corruption and corrosive influence is real. I’m a member of Congress,
+      and I am telling you.’” Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Mike Ludwig Mike Ludwig is a staff reporter
+      at Truthout based in New Orleans. He is also the writer and host of “ Climate
+      Front Lines ,” a podcast about the people, places and ecosystems on the front
+      lines of the climate crisis. Follow him on Twitter: @ludwig_mike . Author Site
+      Please share this story and help us grow our network!'
+    one_sentence_summary: Republican Senator Lisa Murkowski of Alaska voted for a controversial
+      GOP budget package that she acknowledged was "bad" for many Americans, despite
+      its unpopularity and her concerns about its impact on her constituents.
+    paragraph_summary: In a controversial move, Republican Senator Lisa Murkowski of
+      Alaska voted in favor of a budget package that she publicly criticized as "bad"
+      and detrimental to many Americans. Despite acknowledging the bill's unpopularity
+      and its potential negative impact on her constituents, Murkowski negotiated specific
+      protections for them and urged House Republicans to revise the legislation before
+      it reached President Trump's desk. The House passed the bill along party lines,
+      with several Republicans who had previously expressed concerns about cuts to essential
+      health care and nutrition programs ultimately supporting it. The legislation,
+      which aims to fund Trump's immigration policies and tax cuts for the wealthy,
+      is expected to cost low-income families approximately $1,600 annually while providing
+      significant financial benefits to high earners. Following backlash over the Medicaid
+      cuts, which threaten millions of health insurance recipients, some Republicans
+      announced their retirement. The bill was signed into law on July 4, raising questions
+      about the motivations behind the party's unity in the face of potential electoral
+      repercussions.
+    published: '2025-07-09T09:05:00+00:00'
+  - title: A New Supreme Court Case Could Give the Wealthy Even More Political Power
+    url: https://scheerpost.com/2025/07/09/a-new-supreme-court-case-could-give-the-wealthy-even-more-political-power/
+    text: 'Supreme Court of the United States. Quercusvirginiana, CC0, via Wikimedia
+      Commons In one of the scariest moments in modern history, we''re doing our best
+      at ScheerPost to pierce the fog of lies that conceal it but we need some help
+      to pay our writers and staff. Please consider a tax-deductible donation . By Mike
+      Ludwig / Truthout Republican Sen. Lisa Murkowski of Alaska cast a deciding vote
+      for the GOP’s unpopular budget package after publicly admitting the bill is “bad”
+      and would disadvantage people across the United States. After negotiating carveouts
+      to protect some of her own constituents, Murkowski urged House Republicans to
+      make revisions before sending the bill to President Donald Trump’s desk. Polls
+      show the package is historically unpopular given its size and scope, but even
+      Republicans who raised concerns about harming their own constituents fell in line.
+      “I know that in many parts of the country, there are Americans who are not going
+      to be advantaged by this bill,” Murkowski told reporters after voting for the
+      package. “I don’t like that.” However, the House quickly voted along party lines
+      to pass the bill, including multiple Republicans who previously expressed concern
+      over deep cuts to health care and nutrition programs their constituents rely on.
+      The cuts will pay for Trump’s brutal immigration crackdown as well as tax cuts
+      to benefit his wealthy donors; all in all, the bill is projected to cost low-income
+      families about $1,600 each year while boosting incomes for the highest earners
+      by $12,000. At least two Republicans announced early retirement from Congress
+      after facing controversy over Medicaid cuts that will push millions off health
+      insurance. Trump signed the legislation into law on July 4. With at least one
+      safety net hospital in Nebraska already announcing plans to close due to funding
+      insecurity, and Democrats chomping at the bit for the midterms, why did so many
+      vulnerable Republicans fall in line? Democrats say Republicans are terrified of
+      Trump, but according to Omar Noureldin, the senior vice president for policy and
+      litigation at Common Cause, the corruptive influence of big money in politics
+      is a key reason why a bill like this one could pass. That influence exploded after
+      the Supreme Court’s 2010 landmark decision in Citizens United vs. FEC , which
+      dissolved decades-old restrictions on corporate political spending and ushered
+      in the era of super PACs that can raise and spend unlimited sums of money. The
+      cost of campaigns skyrocketed , and tens of billions of dollars now pour into
+      federal elections during a single season. “A budget is a moral document. The reason
+      why a bill like that can pass even though it has destructive effects on communities
+      in red states and blue states is because of the corruptive influence of money
+      in politics,” Noureldin said in an interview. “We’re at a place where a billionaire’s
+      budget passed because money prevailed over morals.” Along with a coalition of
+      public interest groups, Common Cause was instrumental in passing the Federal Election
+      Campaign Act of 1971, which created the Federal Elections Commission (FEC) and
+      set limits and rules for political contributions that became the bedrock of modern
+      campaign finance law. Republicans and right-wing groups have challenged the law
+      in court ever since, allowing conservative judges to chip away at contribution
+      limits with Citizens United and related cases over the years. As Republicans deliberated
+      over Trump’s bill on June 30, the Supreme Court agreed to consider another GOP
+      lawsuit against the FEC. “You can’t begin to understand why one party would pass
+      a bill that is unbelievably unpopular for stripping health care from poor people
+      unless you understand Citizens United,” said Robert Weissman, co-president of
+      the watchdog group Public Citizen, in an interview. The case that the Supreme
+      Court agreed to hear calls on the First Amendment in an attempt to dismantle one
+      of the last remaining pillars of campaign finance law. With Trump appointees among
+      a solid conservative majority, the court will consider whether to strike down
+      limits on coordinated campaign spending between candidates and political parties,
+      which would blow the cap off the amount of money wealthy donors can funnel toward
+      their preferred candidate through partisan “coordination” committees. The effort
+      is a longtime priority for Sen. Mitch McConnell, the former GOP Senate majority
+      leader who has long argued for more money in politics and filed a brief in support
+      of the lawsuit in January. The Justice Department has traditionally defended the
+      FEC regardless of which party controls the White House. However, the Trump administration
+      refused to intervene in this case, leaving the job of defending limits on coordinated
+      campaign spending to the Democratic Party. For the first time, Trump’s 2024 reelection
+      campaign outsourced many key functions to super PACs and outside groups funded
+      by a handful of wealthy donors, including tech mega-billionaire and DOGE founder
+      Elon Musk , who was rewarded with a powerful, if temporary, position inside the
+      White House. Musk is now attempting to forge his own political party after falling
+      out with Trump. “We refuse to sit on the sidelines as Trump’s DOJ and the Republican
+      Party attempt to throw out longstanding election laws for their own benefit,”
+      said Ken Martin, chair of the Democratic National Committee, in a joint statement
+      with other party leaders last week. “Republicans know their grassroots support
+      is drying up across the country, and they want to drown out the will of the voters.”
+      At issue are limits on how closely campaigns and political parties can coordinate
+      the spending of donations from wealthy supporters of a particular candidate. Republicans
+      argue political parties exist to elect candidates, so limits on campaign spending
+      violate their First Amendment rights. However, Weissman said the GOP conflates
+      the right to speak freely with the ability of the ultra-rich to drown out competing
+      voices during election season. The Supreme Court has agreed with Republicans in
+      past cases, including Citizens United , which famously granted corporations free
+      speech rights. “The shell of what’s left is dollar restrictions on direct contributions
+      to candidates,” Weissman said. “There’s already unlimited spending by rich people
+      and corporations on outside entities such as super PACs … but if the outside entities
+      are the specific party structure and can coordinate with candidates, then that
+      direct contribution restriction is of diminishingly microscopic importance.” In
+      other words, a billionaire seeking to influence a political candidate can skirt
+      contribution limits by funneling money through the candidate’s political party,
+      and without the current rules on the books, the party could coordinate directly
+      with the candidate to spend the billionaire’s cash on millions of targeted ads.
+      Campaign “coordination” committees already exist and are used extensively by both
+      parties — the deadlocked FEC rarely enforces existing law — but a Supreme Court
+      ruling against the FEC would further open the campaign cash floodgates and set
+      a dangerous precedent, according to Noureldin. “This challenge would allow for
+      there to be basically unlimited spending by political parties to get their candidates
+      elected, and right now there are limits on their coordinated spending depending
+      on the rules for Senate and House races,” Noureldin said. Billionaires are already
+      taking advantage of holes in campaign finance law and a weak FEC. Noureldin said
+      transparency proponents may be tempted to see an upside to parties spending unlimited
+      donations in coordination with campaigns, because at least the names of those
+      donors and the dollar amounts they spend must be reported to the public — a contrast
+      to the so-called “dark money” that has exploded in politics, allowing the wealthy
+      to influence elections anonymously. Currently, donations from an individual donor
+      to a federal candidate’s campaign is capped at $3,500 per election under FEC rules,
+      but donors can funnel hundreds of thousands of dollars each election cycle through
+      “additional accounts” at national party committees used to pay for presidential
+      nominating conventions and legal challenges against election results, for example.
+      Under these rules, Musk openly spent $277 million to elect Trump and Republicans
+      in the last election and went on to dismantle lifesaving USAID programs through
+      DOGE , which researchers say could lead to more than 14 million deaths worldwide
+      over the next five years. Noureldin noted an FEC guidance for the 2024 election
+      that defined “coordination” between campaigns and parties as “public” communication
+      such as TV ads. However, fundraising solicitations and canvassing did not fall
+      under the “public” category, allowing Musk to spend $100 million on Trump’s door-to-door
+      ground game in 2024 while Trump centralized the Republican Party fundraising under
+      his control . “What we’re having here is an all-out assault on any regulation
+      on big money in politics,” Noureldin said, adding that as of May, the FEC lacks
+      a quorum and its ability to do anything at this point is limited. “Congress is
+      not looking at these issues anymore, because for one, there is a benefit to having
+      this unlimited money in politics, and that is the sort of ‘soft corruption’ we’ve
+      been talking about.” Noureldin and Weissman said there are already anti-corruption
+      laws on the books against bribing politicians; the point of campaign finance regulation
+      is to prevent billionaires like Musk from skirting these laws through third parties
+      — including political parties. The Supreme Court has traditionally weighed the
+      First Amendment claims made by Republican challengers in defense of billionaires,
+      megadonors and, in this case, political parties, against the corrupting influence
+      of unlimited campaign cash. Noureldin said conservative Supreme Court justices
+      tend to take an “absolutist” view on corruption and have sided with the GOP’s
+      free speech claims in Citizens United and other cases, which discourages Congress
+      from regulating money in politics. “What the Supreme Court does not do is make
+      policy decisions about how much or in what context we should have tighter disclosure
+      requirements or do other things to mitigate the harms of political spending,”
+      Noureldin said. “Our view is that this requires more nuanced policymaking, and
+      that is for Congress to do. But once the Supreme Court makes this a constitutional
+      issue, then no Congress in the future can do anything, and that is what the court
+      has been doing in these cases going all the way back to Buckley vs. Valeo , ”
+      referring to the 1976 landmark decision that struck down limits on expenditures
+      by candidates and parties in federal elections. Noureldin said it’s not just the
+      soft corruption associated with unlimited campaign donations that advocates are
+      worried about, but the perception of corruption among the voting public. After
+      Musk and other billionaires spent billions of dollars to elect Trump and the Republicans
+      who just voted to slash the social safety net, the latest campaign finance case
+      before the Supreme Court could become a flashpoint ahead of the 2026 midterms
+      elections. “If the public believes their vote doesn’t matter, and that wealthy
+      people are always going to get their way because of the amount of money they paid
+      to get a candidate elected, then folks sit out elections,” Noureldin said. A Pew
+      survey in 2023 found that 85 percent of Americans said the cost of running a political
+      campaign makes it hard for “good people” to run for office, and a solid majority
+      (63 percent) said all or most elected officials ran for office out of self-interest
+      and a desire to make money. The public also rates members of Congress poorly on
+      listening to people in their districts, making compromises with the other party,
+      and “taking responsibility for their actions.” That’s why it must be lawmakers
+      themselves, not the Supreme Court, who call out the problem and legislate new
+      solutions for reducing the corruptive influence of big money in politics, Noureldin
+      said. “We do need a new national conversation about money in politics, and that
+      needs to be led by our elected legislators, for them to come out and say, ‘Yes,
+      the soft corruption and corrosive influence is real. I’m a member of Congress,
+      and I am telling you.’” Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Mike Ludwig Mike Ludwig is a staff reporter
+      at Truthout based in New Orleans. He is also the writer and host of “ Climate
+      Front Lines ,” a podcast about the people, places and ecosystems on the front
+      lines of the climate crisis. Follow him on Twitter: @ludwig_mike . Author Site
+      Please share this story and help us grow our network!'
+    one_sentence_summary: Republican Senator Lisa Murkowski of Alaska voted for a controversial
+      GOP budget package that she acknowledged was "bad" for many Americans, despite
+      its unpopularity and her concerns about its impact on her constituents.
+    paragraph_summary: In a controversial move, Republican Senator Lisa Murkowski of
+      Alaska voted in favor of a budget package that she publicly criticized as "bad"
+      and detrimental to many Americans. Despite acknowledging the bill's unpopularity
+      and its potential negative impact on her constituents, Murkowski negotiated specific
+      protections for them and urged House Republicans to revise the legislation before
+      it reached President Trump's desk. The House passed the bill along party lines,
+      with several Republicans who had previously expressed concerns about cuts to essential
+      health care and nutrition programs ultimately supporting it. The legislation,
+      which aims to fund Trump's immigration policies and tax cuts for the wealthy,
+      is expected to cost low-income families approximately $1,600 annually while providing
+      significant financial benefits to high earners. Following backlash over the Medicaid
+      cuts, which threaten millions of health insurance recipients, some Republicans
+      announced their retirement. The bill was signed into law on July 4, raising questions
+      about the motivations behind the party's unity in the face of potential electoral
+      repercussions.
+    published: '2025-07-09T09:05:00+00:00'
+  - title: '‘An Arsenal of Profiteering’: Military Contractors Have Gotten Over Half
+      of Pentagon Spending Since 2020'
+    url: https://scheerpost.com/2025/07/09/an-arsenal-of-profiteering-military-contractors-have-gotten-over-half-of-pentagon-spending-since-2020/
+    text: 'President Donald Trump holds a Cabinet meeting, Wednesday, April 30, 2025,
+      in the Cabinet Room. (Official White House Photo by Molly Riley) In one of the
+      scariest moments in modern history, we''re doing our best at ScheerPost to pierce
+      the fog of lies that conceal it but we need some help to pay our writers and staff.
+      Please consider a tax-deductible donation . By Jessica Corbett / Common Dreams
+      Less than a week after U.S. President Donald Trump signed a budget package that
+      pushes annual military spending past $1 trillion, researchers on Tuesday published
+      a report detailing how much major Pentagon contractors have raked in since 2020.
+      Sharing The Guardian ‘s exclusive coverage of the paper on social media, U.K.-based
+      climate scientist Bill McGuire wrote : “Are you a U.S. taxpayer? I am sure you
+      will be delighted to know where $2.4 TRILLION of your money has gone.” The report
+      from the Costs of War Project at Brown University’s Watson School of International
+      and Public Affairs and the Quincy Institute for Responsible Statecraft shows that
+      from 2020-24 private firms received $2.4 trillion in Department of Defense contracts,
+      or roughly 54% of DOD’s $4.4 trillion in discretionary spending for that five-year
+      period. The publication highlights that “during those five years, $771 billion
+      in Pentagon contracts went to just five firms: Lockheed Martin ($313 billion),
+      RTX (formerly Raytheon, $145 billion), Boeing ($115 billion), General Dynamics
+      ($116 billion), and Northrop Grumman ($81 billion).” In a statement about the
+      findings, Stephanie Savell, director of the Costs of War Project, said that “these
+      figures represent a continuing and massive transfer of wealth from taxpayers to
+      fund war and weapons manufacturing.” “This is not an arsenal of democracy—it’s
+      an arsenal of profiteering,” Savell added. “We should keep the enormous and growing
+      power of the arms industry in mind as we assess the rise of authoritarianism in
+      the U.S. and globally.” Between 2020 and 2024, $771 billion in Pentagon contracts
+      went to just five firms: Lockheed Martin, RTX, Boeing, General Dynamics, and Northrop
+      Grumman. By comparison, the total diplomacy, development, and humanitarian aid
+      budget, excluding military aid, was $356 billion. [5/12] [image or embed] — The
+      Costs of War Project ( @costsofwar.bsky.social ) July 8, 2025 at 2:43 PM The paper
+      points out that “by comparison, the total diplomacy, development, and humanitarian
+      aid budget, excluding military aid, was $356 billion. In other words, the U.S.
+      government invested over twice as much money in five weapons companies as in diplomacy
+      and international assistance.” “Record arms transfers have further boosted the
+      bottom lines of weapons firms,” the document details. “These companies have benefited
+      from tens of billions of dollars in military aid to Israel and Ukraine, paid for
+      by U.S. taxpayers. U.S. military aid to Israel was over $18 billion in just the
+      first year following October 2023; military aid to Ukraine totals $65 billion
+      since the Russian invasion in 2022 through 2025.” “Additionally, a surge in foreign-funded
+      arms sales to European allies, paid for by the recipient nations—over $170 billion
+      in 2023 and 2024 alone—have provided additional revenue to arms contractors over
+      and above the funds they receive directly from the Pentagon,” the paper adds.
+      The 23-page report stresses that “annual U.S. military spending has grown significantly
+      this century,” as presidents from both major parties have waged a so-called Global
+      War on Terror and the DOD has continuously failed to pass an audit. Specifically,
+      according to the paper, “the Pentagon’s discretionary budget—the annual funding
+      approved by Congress and the large majority of its overall budget—rose from $507
+      billion in 2000 to $843 billion in 2025 (in constant 2025 dollars), a 66% increase.
+      Including military spending outside the Pentagon—primarily nuclear weapons programs
+      at the Department of Energy, counterterrorism operations at the Federal Bureau
+      of Investigation (FBI), and other military activities officially classified under
+      ‘Budget Function 050’— total military spending grew from $531 billion in 2000
+      to $899 billion in 2025, a 69% increase.” Republicans’ One Big Beautiful Bill
+      Act passed earlier this month “adds $156 billion to this year’s total, pushing
+      the 2025 military budget to $1.06 trillion,” the document notes. “After taking
+      into account this supplemental funding, the U.S. military budget has nearly doubled
+      this century, increasing 99% since 2000.” Noting that “taxpayers are expected
+      to fund a $1 trillion Pentagon budget,” Security Policy Reform Institute co-founder
+      Stephen Semler said the paper, which he co-authored, “illustrates what they’ll
+      be paying for: a historic redistribution of wealth from the public to private
+      industry.” Semler produced the report with William Hartung, senior research fellow
+      at the Quincy Institute. Hartung said that “high Pentagon budgets are often justified
+      because the funds are ‘for the troops.''” “But as this paper shows, the majority
+      of the department’s budget goes to corporations, money that has as much to do
+      with special interest lobbying as it does with any rational defense planning,”
+      he continued. “Much of this funding has been wasted on dysfunctional or overpriced
+      weapons systems and extravagant compensation packages.” The arms industry has
+      used an array of tools of influence to create an atmosphere where a Pentagon budget
+      that is $1 trillion per year is deemed “not enough” by some members of Congress.
+      [9/12] [image or embed] — The Costs of War Project ( @costsofwar.bsky.social )
+      July 8, 2025 at 2:43 PM In addition to spotlighting how U.S. military budgets
+      funnel billions of dollars to contractors each year, the report shines a light
+      on the various ways the industry influences politics. “The ongoing influence of
+      the arms industry over Congress operates through tens of millions in campaign
+      contributions and the employment of 950 lobbyists, as of 2024,” the publication
+      explains. “Military contractors also shape military policy and lobby to increase
+      military spending by funding think tanks and serving on government commissions.”
+      “Senior officials in government often go easy on major weapons companies so as
+      not to ruin their chances of getting lucrative positions with them upon leaving
+      government service,” the report notes. “For its part, the emerging military tech
+      sector has opened a new version of the revolving door—the movement of ex-military
+      officers and senior Pentagon officials, not to arms companies per se, but to the
+      venture capital firms that invest in Silicon Valley arms industry startups.” The
+      paper concludes by arguing that “the U.S. needs stronger congressional and public
+      scrutiny of both current and emerging weapons contractors to avoid wasteful spending
+      and reckless decision-making on issues of war and peace. Profits should not drive
+      policy.” “In particular,” it adds, “the role of Silicon Valley startups and the
+      venture capital firms that support them needs to be better understood and debated
+      as the U.S. crafts a new foreign policy strategy that avoids unnecessary wars
+      and prioritizes cooperation over confrontation.” Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Jessica Corbett
+      Jessica Corbett is a staff writer for Common Dreams. Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: A recent report reveals that major Pentagon contractors have
+      received $2.4 trillion since 2020, coinciding with President Trump's signing of
+      a budget package that increases annual military spending to over $1 trillion.
+    paragraph_summary: A recent report from the Costs of War Project and the Quincy
+      Institute reveals that from 2020 to 2024, U.S. taxpayers funded $2.4 trillion
+      in Department of Defense contracts, with a significant portion going to major
+      defense contractors. This figure represents approximately 54% of the Department
+      of Defense's discretionary spending during that period. Notably, five firms—Lockheed
+      Martin, RTX, Boeing, General Dynamics, and Northrop Grumman—accounted for $771
+      billion of these contracts. Stephanie Savell, director of the Costs of War Project,
+      criticized this trend as a "massive transfer of wealth" from taxpayers to the
+      arms industry, emphasizing the implications for rising authoritarianism both in
+      the U.S. and globally.
+    published: '2025-07-09T09:00:00+00:00'
+  - title: '‘An Arsenal of Profiteering’: Military Contractors Have Gotten Over Half
+      of Pentagon Spending Since 2020'
+    url: https://scheerpost.com/2025/07/09/an-arsenal-of-profiteering-military-contractors-have-gotten-over-half-of-pentagon-spending-since-2020/
+    text: 'President Donald Trump holds a Cabinet meeting, Wednesday, April 30, 2025,
+      in the Cabinet Room. (Official White House Photo by Molly Riley) In one of the
+      scariest moments in modern history, we''re doing our best at ScheerPost to pierce
+      the fog of lies that conceal it but we need some help to pay our writers and staff.
+      Please consider a tax-deductible donation . By Jessica Corbett / Common Dreams
+      Less than a week after U.S. President Donald Trump signed a budget package that
+      pushes annual military spending past $1 trillion, researchers on Tuesday published
+      a report detailing how much major Pentagon contractors have raked in since 2020.
+      Sharing The Guardian ‘s exclusive coverage of the paper on social media, U.K.-based
+      climate scientist Bill McGuire wrote : “Are you a U.S. taxpayer? I am sure you
+      will be delighted to know where $2.4 TRILLION of your money has gone.” The report
+      from the Costs of War Project at Brown University’s Watson School of International
+      and Public Affairs and the Quincy Institute for Responsible Statecraft shows that
+      from 2020-24 private firms received $2.4 trillion in Department of Defense contracts,
+      or roughly 54% of DOD’s $4.4 trillion in discretionary spending for that five-year
+      period. The publication highlights that “during those five years, $771 billion
+      in Pentagon contracts went to just five firms: Lockheed Martin ($313 billion),
+      RTX (formerly Raytheon, $145 billion), Boeing ($115 billion), General Dynamics
+      ($116 billion), and Northrop Grumman ($81 billion).” In a statement about the
+      findings, Stephanie Savell, director of the Costs of War Project, said that “these
+      figures represent a continuing and massive transfer of wealth from taxpayers to
+      fund war and weapons manufacturing.” “This is not an arsenal of democracy—it’s
+      an arsenal of profiteering,” Savell added. “We should keep the enormous and growing
+      power of the arms industry in mind as we assess the rise of authoritarianism in
+      the U.S. and globally.” Between 2020 and 2024, $771 billion in Pentagon contracts
+      went to just five firms: Lockheed Martin, RTX, Boeing, General Dynamics, and Northrop
+      Grumman. By comparison, the total diplomacy, development, and humanitarian aid
+      budget, excluding military aid, was $356 billion. [5/12] [image or embed] — The
+      Costs of War Project ( @costsofwar.bsky.social ) July 8, 2025 at 2:43 PM The paper
+      points out that “by comparison, the total diplomacy, development, and humanitarian
+      aid budget, excluding military aid, was $356 billion. In other words, the U.S.
+      government invested over twice as much money in five weapons companies as in diplomacy
+      and international assistance.” “Record arms transfers have further boosted the
+      bottom lines of weapons firms,” the document details. “These companies have benefited
+      from tens of billions of dollars in military aid to Israel and Ukraine, paid for
+      by U.S. taxpayers. U.S. military aid to Israel was over $18 billion in just the
+      first year following October 2023; military aid to Ukraine totals $65 billion
+      since the Russian invasion in 2022 through 2025.” “Additionally, a surge in foreign-funded
+      arms sales to European allies, paid for by the recipient nations—over $170 billion
+      in 2023 and 2024 alone—have provided additional revenue to arms contractors over
+      and above the funds they receive directly from the Pentagon,” the paper adds.
+      The 23-page report stresses that “annual U.S. military spending has grown significantly
+      this century,” as presidents from both major parties have waged a so-called Global
+      War on Terror and the DOD has continuously failed to pass an audit. Specifically,
+      according to the paper, “the Pentagon’s discretionary budget—the annual funding
+      approved by Congress and the large majority of its overall budget—rose from $507
+      billion in 2000 to $843 billion in 2025 (in constant 2025 dollars), a 66% increase.
+      Including military spending outside the Pentagon—primarily nuclear weapons programs
+      at the Department of Energy, counterterrorism operations at the Federal Bureau
+      of Investigation (FBI), and other military activities officially classified under
+      ‘Budget Function 050’— total military spending grew from $531 billion in 2000
+      to $899 billion in 2025, a 69% increase.” Republicans’ One Big Beautiful Bill
+      Act passed earlier this month “adds $156 billion to this year’s total, pushing
+      the 2025 military budget to $1.06 trillion,” the document notes. “After taking
+      into account this supplemental funding, the U.S. military budget has nearly doubled
+      this century, increasing 99% since 2000.” Noting that “taxpayers are expected
+      to fund a $1 trillion Pentagon budget,” Security Policy Reform Institute co-founder
+      Stephen Semler said the paper, which he co-authored, “illustrates what they’ll
+      be paying for: a historic redistribution of wealth from the public to private
+      industry.” Semler produced the report with William Hartung, senior research fellow
+      at the Quincy Institute. Hartung said that “high Pentagon budgets are often justified
+      because the funds are ‘for the troops.''” “But as this paper shows, the majority
+      of the department’s budget goes to corporations, money that has as much to do
+      with special interest lobbying as it does with any rational defense planning,”
+      he continued. “Much of this funding has been wasted on dysfunctional or overpriced
+      weapons systems and extravagant compensation packages.” The arms industry has
+      used an array of tools of influence to create an atmosphere where a Pentagon budget
+      that is $1 trillion per year is deemed “not enough” by some members of Congress.
+      [9/12] [image or embed] — The Costs of War Project ( @costsofwar.bsky.social )
+      July 8, 2025 at 2:43 PM In addition to spotlighting how U.S. military budgets
+      funnel billions of dollars to contractors each year, the report shines a light
+      on the various ways the industry influences politics. “The ongoing influence of
+      the arms industry over Congress operates through tens of millions in campaign
+      contributions and the employment of 950 lobbyists, as of 2024,” the publication
+      explains. “Military contractors also shape military policy and lobby to increase
+      military spending by funding think tanks and serving on government commissions.”
+      “Senior officials in government often go easy on major weapons companies so as
+      not to ruin their chances of getting lucrative positions with them upon leaving
+      government service,” the report notes. “For its part, the emerging military tech
+      sector has opened a new version of the revolving door—the movement of ex-military
+      officers and senior Pentagon officials, not to arms companies per se, but to the
+      venture capital firms that invest in Silicon Valley arms industry startups.” The
+      paper concludes by arguing that “the U.S. needs stronger congressional and public
+      scrutiny of both current and emerging weapons contractors to avoid wasteful spending
+      and reckless decision-making on issues of war and peace. Profits should not drive
+      policy.” “In particular,” it adds, “the role of Silicon Valley startups and the
+      venture capital firms that support them needs to be better understood and debated
+      as the U.S. crafts a new foreign policy strategy that avoids unnecessary wars
+      and prioritizes cooperation over confrontation.” Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Jessica Corbett
+      Jessica Corbett is a staff writer for Common Dreams. Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: A recent report reveals that major Pentagon contractors have
+      received $2.4 trillion since 2020, coinciding with President Trump's signing of
+      a budget package that increases annual military spending to over $1 trillion.
+    paragraph_summary: A recent report from the Costs of War Project and the Quincy
+      Institute reveals that from 2020 to 2024, U.S. taxpayers funded $2.4 trillion
+      in Department of Defense contracts, with a significant portion going to major
+      defense contractors. This figure represents approximately 54% of the Department
+      of Defense's discretionary spending during that period. Notably, five firms—Lockheed
+      Martin, RTX, Boeing, General Dynamics, and Northrop Grumman—accounted for $771
+      billion of these contracts. Stephanie Savell, director of the Costs of War Project,
+      criticized this trend as a "massive transfer of wealth" from taxpayers to the
+      arms industry, emphasizing the implications for rising authoritarianism both in
+      the U.S. and globally.
+    published: '2025-07-09T09:00:00+00:00'
+  - title: Why Progressive Democrats Should Welcome, Not Fear, an Independent Populist
+      Party
+    url: https://scheerpost.com/2025/07/08/why-progressive-democrats-should-welcome-not-fear-an-independent-populist-party/
+    text: 'Cornell University 2024 UAW Rally. DanielGoldhorn, CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Les Leopold / Substack Many moons ago, the late Sam Myers, UAW 259
+      president, asked me to run a workshop for auto mechanics in the New York area.
+      Sam, an old-time socialist who somehow survived the McCarthy era labor purges,
+      was eager to expose his workers to our new political economy courses. At the end
+      of the first workshop, I slipped in one final question on politics: “Should labor
+      support the Democrats, the Republicans, or a new party of working people?” Nearly
+      everyone’s hand shot up for the prospect of a new labor party. Sam shot up too
+      and said, “You can’t do that! We need to support the Democrats, no matter what.”
+      And that was the end of the conversation. For many labor leaders today not much
+      has changed. They are still all in for the Democrats, even though more of their
+      rank-and-file members are not. Many have drifted to the Republicans. Others have
+      stopped voting. And nearly all feel that the Democrats have let them down. No
+      amount of cajoling will bring these disappointed workers back to the Dems. Yet
+      many union leaders continue the ritual, pushing union voters toward the Democrats
+      while praying that nearly half their members who vote the other way won’t rebel.
+      It isn’t working. It’s time to build a political home for these disaffected working
+      people, not only those who have given up on the Democrats, but also those who
+      have been attracted to the Republicans’ rhetorical turn to populism. That’s certainly
+      what workers say they want, according to the recent YouGov survey we conducted
+      of 3,000 voters in Pennsylvania, Ohio, Michigan, and Wisconsin. (See here and
+      here .) Our survey shows that 57 percent of the Rust Belt voters support the following
+      statement. Note especially the first two policy proposals: Would you support a
+      new organization, the Independent Workers Political Association, that would support
+      working-class issues independent of both the Democratic and Republican parties.
+      It would run and support independent political candidates committed to a platform
+      that included Stop big companies that receive tax dollars from laying off workers
+      who pay taxes. Guarantee everyone who wants to work has a decent-paying job, and
+      if the private sector can’t provide it, the government will Raise the minimum
+      wage so every family can lead a decent life Stop drug company price-gouging and
+      put price controls on food cartels Every demographic group supported these proposals,
+      led by 71 percent of Rust Belt voters under 30 years of age, and 74 percent of
+      those who feel very insecure about losing their job. Again, please look at those
+      first two policy planks. No national Democrat in memory, except for the independent
+      Bernie, has said anything like that in their campaigns. And yet 57 percent of
+      the voters in these Rust Belt states said they supported these radical policies,
+      with only 19 percent opposed. Most labor leaders and Democratic party strategists,
+      however, don’t want to hear it, no matter what our polling shows and no matter
+      what their own constituents say they really want. While some unions are willing
+      to flirt with fusion efforts, like the Working Families Party, they know that
+      in the end fusion parties will support the Democrats. It’s understandable that
+      labor leaders are gun shy about building a new political formation. They just
+      don’t have the bandwidth while trying to keep their unions afloat, given incessant
+      assaults by corporate forces and anti-labor politicians. They are backed into
+      a corner. What they’re missing is the potential power that would flow from a new
+      entity of disgruntled working people, totally independent of the two parties.
+      A new independent party could help unions organize new members while also building
+      stronger connections with and among their membership. Instead of dividing their
+      members by pushing the tarnished Democratic brand, a new worker political formation
+      could build solidarity around the issues that affect workers most. How a new party
+      of working people helps progressive Democrats Imagine that a new Independent workers
+      political association (maybe call it Workers USA?) formed to run more labor candidates
+      in one-party races – that is in any of the 132 congressional districts and 20
+      senatorial races in which the Republicans won by 25 or more percent. Doing so
+      would not split the Democratic vote because that vote evaporated long ago. Dan
+      Osborn, a former local union president in Nebraska, is a good example of a working-class
+      candidate who nearly took down three-term Senator Deb Fischer by running on a
+      strong anti-corporate populist program as an independent in 2024. The Democrats
+      didn’t even bother to field a candidate. So, Osborn filled the breach, forced
+      Fischer and her party to spend millions of dollars they didn’t plan on, and came
+      within seven percent of Fischer in Nebraska, a state Kamala Harris lost by 20
+      percent to Trump. Osborn ran unabashedly on an anti-corporate populist program
+      and proved it could gain traction in a deep red state. He believes he is opening
+      the working-class door to more such races: “(Our effort is) going to tell people
+      all around the country that you don’t have to be a self-funding crypto billionaire
+      to run for office. So, nurses, teachers, plumbers, carpenters, mechanics, they
+      can all now know that they can do the same thing.” If more and more working-class
+      candidates entered these one-party races and showed promise running on a strong
+      populist economic platform, their successes would support those within the Democratic
+      Party who want to move the party more in a progressive populist direction, and
+      away from the corporatist path it has traveling since the days of Bill Clinton.
+      If these ideas gain traction in traditionally red districts, offered by independent
+      working-class campaigns, the Democratic Party might have no choice but to bend
+      in this direction. Osborn-like political competition would breathe some new life
+      into the currently gasping Democrats. And by running in one-party districts, there
+      is no obvious “spoiler” downside for the Democrats who have long ago abandoned
+      those races. They should be cheering on more and more independent working-class
+      candidates like Osborn. What does the Labor movement gain through a new political
+      formation? For more than a generation, organizing new members has been and continues
+      to be an existential problem for all labor unions. Labor law is so stacked against
+      union organizing that it takes nearly miraculous efforts just to maintain the
+      current paltry union density of six percent in the private sector and barely 10
+      percent overall. Organizing shop by shop is a Sisyphean task. Winning an election
+      is extremely difficult against corporations and their high-powered and expensive
+      anti-union consultants who are more than willing to break the law by firing organizers,
+      threatening layoffs, and building campaigns based on lies about the union. And
+      even if the union wins, it’s even harder still to secure a first contract. For
+      more than 50 years, labor has struggled to level the playing field through national
+      labor law reforms enacted by the Democratic Party. That strategy has utterly failed.
+      Some argue that the real problem is that unions are not putting enough resources
+      into organizing. They should be raiding their war chests and mortgaging their
+      union hall properties to create a ten-fold increase in organizing funds. Then,
+      they say, we would see a rebirth of the labor movement. I disagree. Even a ten-fold
+      increase in organizing funds is likely, at best, to have marginally better results.
+      Labor law is just too stacked against organizing. And those laws will only change
+      when national politics changes. The first step to remold the political terrain
+      is to invest a small amount of money in building a new Independent workers political
+      formation that allows unions to mobilize working-class people outside of collective
+      bargaining . There are no laws that interfere with people joining a new political
+      organization that fights for working-class candidates and promotes ballot initiatives
+      and new policies to enhance the well-being of working people. That field is wide
+      open, and I believe that workers and those friendly to working-class issues, if
+      given the chance, will come running. Imagine millions of workers, some in unions,
+      many not, banding together to advocate and vote for candidates and issues of importance
+      to them and their families. Working together on political initiatives would also
+      turn up new contacts for workplace organizing and increase pressure on the companies
+      they negotiate with. A popular workers’ movement certainly could spark more interest
+      in labor unions, especially if unions took the lead on building this new political
+      organization. What could a party of working people do? Not only could working-class
+      candidates be fielded in one-party districts, but the new formation could run
+      ballot initiatives that give working people an opportunity to set policy. For
+      example, our polling shows that there is very strong support for a ballot initiative
+      that would prohibit large corporations that receive taxpayer money from conducting
+      compulsory layoffs. Instead, all layoffs in those contracting corporations would
+      be voluntary based on buyouts like those corporate executives usually receive.
+      No one would be forced out of their job. Our Rust Belt research suggests that
+      such an initiative would be well-received and could mobilize millions of voters.
+      It is even more popular than raising the minimum wage to $15 per hour. Why not
+      give it a try in Michigan, for example, which permits ballot initiatives? Musk
+      picks up the scent Thirty years ago, the late Tony Mazzocchi, a radical leader
+      of the Oil, Chemical and Atomic Workers union, said that if labor doesn’t build
+      a new political formation, some right-wing racist charlatan will fill the breach.
+      Oh, was he right. Now, we see another charlatan sense that people are sick and
+      tired of a failed two-party system that delivers for the super-rich and their
+      political hacks, and no one else. Elon Musk has such a large following and war
+      chest that he could convincingly claim that his third party is the answer to the
+      woes of workers, even though it would really give us a third party dominated by
+      billionaires. Musk’s grandstanding proves the point I’ve been trying to make for
+      the last several years: Building something new is in the air. Or as my astute
+      colleague put it, “any argument for a progressive third party, including how to
+      build it, has to acknowledge the ugly creatures already crawling into the void.”
+      To fill that void, voters in key Rust Belt swing states want a new political formation,
+      and they want one that fights for radical economic populism, not billionaire rip-offs.
+      Let a thousand Osborns bloom! Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Les Leopold After graduating from
+      Oberlin College and Princeton University’s School of Public and International
+      Affairs, Les Leopold co-founded the Labor Institute in 1976, a nonprofit organization
+      that designs research and educational programs on occupational safety and health,
+      the environment, and economics for unions, worker centers, and community organizations.
+      He continues to serve as executive director of the Labor Institute and is currently
+      working to build a national economic educational train-the-trainer program with
+      unions and community groups. Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: In a reflection on labor politics, Les Leopold recounts a
+      workshop led by UAW 259 president Sam Myers, where participants overwhelmingly
+      favored the idea of a new labor party, but Myers insisted on the necessity of
+      supporting the Democrats.
+    paragraph_summary: In a reflective piece, Les Leopold discusses the disconnect between
+      labor leaders and their rank-and-file members regarding political support, particularly
+      for the Democratic Party. He recounts a past experience with UAW 259 president
+      Sam Myers, who insisted on unwavering support for Democrats despite a growing
+      sentiment among workers for a new labor party or even support for Republicans.
+      Leopold highlights a recent YouGov survey indicating that many workers feel abandoned
+      by the Democrats and are seeking a political home that better represents their
+      interests. He argues that it is crucial to acknowledge and address the desires
+      of disaffected workers rather than continuing the traditional push towards Democratic
+      support, which is increasingly ineffective.
+    published: '2025-07-08T12:57:20+00:00'
+  - title: Why Progressive Democrats Should Welcome, Not Fear, an Independent Populist
+      Party
+    url: https://scheerpost.com/2025/07/08/why-progressive-democrats-should-welcome-not-fear-an-independent-populist-party/
+    text: 'Cornell University 2024 UAW Rally. DanielGoldhorn, CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Les Leopold / Substack Many moons ago, the late Sam Myers, UAW 259
+      president, asked me to run a workshop for auto mechanics in the New York area.
+      Sam, an old-time socialist who somehow survived the McCarthy era labor purges,
+      was eager to expose his workers to our new political economy courses. At the end
+      of the first workshop, I slipped in one final question on politics: “Should labor
+      support the Democrats, the Republicans, or a new party of working people?” Nearly
+      everyone’s hand shot up for the prospect of a new labor party. Sam shot up too
+      and said, “You can’t do that! We need to support the Democrats, no matter what.”
+      And that was the end of the conversation. For many labor leaders today not much
+      has changed. They are still all in for the Democrats, even though more of their
+      rank-and-file members are not. Many have drifted to the Republicans. Others have
+      stopped voting. And nearly all feel that the Democrats have let them down. No
+      amount of cajoling will bring these disappointed workers back to the Dems. Yet
+      many union leaders continue the ritual, pushing union voters toward the Democrats
+      while praying that nearly half their members who vote the other way won’t rebel.
+      It isn’t working. It’s time to build a political home for these disaffected working
+      people, not only those who have given up on the Democrats, but also those who
+      have been attracted to the Republicans’ rhetorical turn to populism. That’s certainly
+      what workers say they want, according to the recent YouGov survey we conducted
+      of 3,000 voters in Pennsylvania, Ohio, Michigan, and Wisconsin. (See here and
+      here .) Our survey shows that 57 percent of the Rust Belt voters support the following
+      statement. Note especially the first two policy proposals: Would you support a
+      new organization, the Independent Workers Political Association, that would support
+      working-class issues independent of both the Democratic and Republican parties.
+      It would run and support independent political candidates committed to a platform
+      that included Stop big companies that receive tax dollars from laying off workers
+      who pay taxes. Guarantee everyone who wants to work has a decent-paying job, and
+      if the private sector can’t provide it, the government will Raise the minimum
+      wage so every family can lead a decent life Stop drug company price-gouging and
+      put price controls on food cartels Every demographic group supported these proposals,
+      led by 71 percent of Rust Belt voters under 30 years of age, and 74 percent of
+      those who feel very insecure about losing their job. Again, please look at those
+      first two policy planks. No national Democrat in memory, except for the independent
+      Bernie, has said anything like that in their campaigns. And yet 57 percent of
+      the voters in these Rust Belt states said they supported these radical policies,
+      with only 19 percent opposed. Most labor leaders and Democratic party strategists,
+      however, don’t want to hear it, no matter what our polling shows and no matter
+      what their own constituents say they really want. While some unions are willing
+      to flirt with fusion efforts, like the Working Families Party, they know that
+      in the end fusion parties will support the Democrats. It’s understandable that
+      labor leaders are gun shy about building a new political formation. They just
+      don’t have the bandwidth while trying to keep their unions afloat, given incessant
+      assaults by corporate forces and anti-labor politicians. They are backed into
+      a corner. What they’re missing is the potential power that would flow from a new
+      entity of disgruntled working people, totally independent of the two parties.
+      A new independent party could help unions organize new members while also building
+      stronger connections with and among their membership. Instead of dividing their
+      members by pushing the tarnished Democratic brand, a new worker political formation
+      could build solidarity around the issues that affect workers most. How a new party
+      of working people helps progressive Democrats Imagine that a new Independent workers
+      political association (maybe call it Workers USA?) formed to run more labor candidates
+      in one-party races – that is in any of the 132 congressional districts and 20
+      senatorial races in which the Republicans won by 25 or more percent. Doing so
+      would not split the Democratic vote because that vote evaporated long ago. Dan
+      Osborn, a former local union president in Nebraska, is a good example of a working-class
+      candidate who nearly took down three-term Senator Deb Fischer by running on a
+      strong anti-corporate populist program as an independent in 2024. The Democrats
+      didn’t even bother to field a candidate. So, Osborn filled the breach, forced
+      Fischer and her party to spend millions of dollars they didn’t plan on, and came
+      within seven percent of Fischer in Nebraska, a state Kamala Harris lost by 20
+      percent to Trump. Osborn ran unabashedly on an anti-corporate populist program
+      and proved it could gain traction in a deep red state. He believes he is opening
+      the working-class door to more such races: “(Our effort is) going to tell people
+      all around the country that you don’t have to be a self-funding crypto billionaire
+      to run for office. So, nurses, teachers, plumbers, carpenters, mechanics, they
+      can all now know that they can do the same thing.” If more and more working-class
+      candidates entered these one-party races and showed promise running on a strong
+      populist economic platform, their successes would support those within the Democratic
+      Party who want to move the party more in a progressive populist direction, and
+      away from the corporatist path it has traveling since the days of Bill Clinton.
+      If these ideas gain traction in traditionally red districts, offered by independent
+      working-class campaigns, the Democratic Party might have no choice but to bend
+      in this direction. Osborn-like political competition would breathe some new life
+      into the currently gasping Democrats. And by running in one-party districts, there
+      is no obvious “spoiler” downside for the Democrats who have long ago abandoned
+      those races. They should be cheering on more and more independent working-class
+      candidates like Osborn. What does the Labor movement gain through a new political
+      formation? For more than a generation, organizing new members has been and continues
+      to be an existential problem for all labor unions. Labor law is so stacked against
+      union organizing that it takes nearly miraculous efforts just to maintain the
+      current paltry union density of six percent in the private sector and barely 10
+      percent overall. Organizing shop by shop is a Sisyphean task. Winning an election
+      is extremely difficult against corporations and their high-powered and expensive
+      anti-union consultants who are more than willing to break the law by firing organizers,
+      threatening layoffs, and building campaigns based on lies about the union. And
+      even if the union wins, it’s even harder still to secure a first contract. For
+      more than 50 years, labor has struggled to level the playing field through national
+      labor law reforms enacted by the Democratic Party. That strategy has utterly failed.
+      Some argue that the real problem is that unions are not putting enough resources
+      into organizing. They should be raiding their war chests and mortgaging their
+      union hall properties to create a ten-fold increase in organizing funds. Then,
+      they say, we would see a rebirth of the labor movement. I disagree. Even a ten-fold
+      increase in organizing funds is likely, at best, to have marginally better results.
+      Labor law is just too stacked against organizing. And those laws will only change
+      when national politics changes. The first step to remold the political terrain
+      is to invest a small amount of money in building a new Independent workers political
+      formation that allows unions to mobilize working-class people outside of collective
+      bargaining . There are no laws that interfere with people joining a new political
+      organization that fights for working-class candidates and promotes ballot initiatives
+      and new policies to enhance the well-being of working people. That field is wide
+      open, and I believe that workers and those friendly to working-class issues, if
+      given the chance, will come running. Imagine millions of workers, some in unions,
+      many not, banding together to advocate and vote for candidates and issues of importance
+      to them and their families. Working together on political initiatives would also
+      turn up new contacts for workplace organizing and increase pressure on the companies
+      they negotiate with. A popular workers’ movement certainly could spark more interest
+      in labor unions, especially if unions took the lead on building this new political
+      organization. What could a party of working people do? Not only could working-class
+      candidates be fielded in one-party districts, but the new formation could run
+      ballot initiatives that give working people an opportunity to set policy. For
+      example, our polling shows that there is very strong support for a ballot initiative
+      that would prohibit large corporations that receive taxpayer money from conducting
+      compulsory layoffs. Instead, all layoffs in those contracting corporations would
+      be voluntary based on buyouts like those corporate executives usually receive.
+      No one would be forced out of their job. Our Rust Belt research suggests that
+      such an initiative would be well-received and could mobilize millions of voters.
+      It is even more popular than raising the minimum wage to $15 per hour. Why not
+      give it a try in Michigan, for example, which permits ballot initiatives? Musk
+      picks up the scent Thirty years ago, the late Tony Mazzocchi, a radical leader
+      of the Oil, Chemical and Atomic Workers union, said that if labor doesn’t build
+      a new political formation, some right-wing racist charlatan will fill the breach.
+      Oh, was he right. Now, we see another charlatan sense that people are sick and
+      tired of a failed two-party system that delivers for the super-rich and their
+      political hacks, and no one else. Elon Musk has such a large following and war
+      chest that he could convincingly claim that his third party is the answer to the
+      woes of workers, even though it would really give us a third party dominated by
+      billionaires. Musk’s grandstanding proves the point I’ve been trying to make for
+      the last several years: Building something new is in the air. Or as my astute
+      colleague put it, “any argument for a progressive third party, including how to
+      build it, has to acknowledge the ugly creatures already crawling into the void.”
+      To fill that void, voters in key Rust Belt swing states want a new political formation,
+      and they want one that fights for radical economic populism, not billionaire rip-offs.
+      Let a thousand Osborns bloom! Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Les Leopold After graduating from
+      Oberlin College and Princeton University’s School of Public and International
+      Affairs, Les Leopold co-founded the Labor Institute in 1976, a nonprofit organization
+      that designs research and educational programs on occupational safety and health,
+      the environment, and economics for unions, worker centers, and community organizations.
+      He continues to serve as executive director of the Labor Institute and is currently
+      working to build a national economic educational train-the-trainer program with
+      unions and community groups. Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: In a reflection on labor politics, Les Leopold recounts a
+      workshop led by UAW 259 president Sam Myers, where participants overwhelmingly
+      favored the idea of a new labor party, but Myers insisted on the necessity of
+      supporting the Democrats.
+    paragraph_summary: In a reflective piece, Les Leopold discusses the disconnect between
+      labor leaders and their rank-and-file members regarding political support, particularly
+      for the Democratic Party. He recounts a past experience with UAW 259 president
+      Sam Myers, who insisted on unwavering support for Democrats despite a growing
+      sentiment among workers for a new labor party or even support for Republicans.
+      Leopold highlights a recent YouGov survey indicating that many workers feel abandoned
+      by the Democrats and are seeking a political home that better represents their
+      interests. He argues that it is crucial to acknowledge and address the desires
+      of disaffected workers rather than continuing the traditional push towards Democratic
+      support, which is increasingly ineffective.
+    published: '2025-07-08T12:57:20+00:00'
+  - title: LA Residents Hurl Profane Insults at Border Patrol After Agents Sweep Local
+      Park
+    url: https://scheerpost.com/2025/07/08/la-residents-hurl-profane-insults-at-border-patrol-after-agents-sweep-local-park/
+    text: 'U.S. Border Patrol Chevrolet. Noah Wulf, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Brad Reed / Common Dreams Los Angeles residents lobbed profane insults
+      at U.S. Customs and Border Protection agents on Monday after they swept through
+      the city’s MacArthur Park. Los Angeles-based news station KTLA reports that masked,
+      heavily-armed federal agents were in the park as “part of an apparent immigration
+      raid” although exact details about the operation are not known as of this writing.
+      A video taken on the scene by Mel Buer , an independent labor journalist in the
+      California city and posted on social media website Bluesky showed many agents
+      riding through the park on horseback. Border patrol walking McArthur park here
+      in LA [image or embed] — Mel Buer ( @melbuer.bsky.social ) July 7, 2025 at 1:49
+      PM Los Angeles Mayor Karen Bass (D) reacted angrily after seeing reports of the
+      agents—some of whom had visible Border Protection patches—in the park and she
+      went to the area to tell them to cease their operations. “Minutes before, there
+      were more than 20 kids playing—then, the MILITARY comes through,” Bass wrote in
+      a post on the social media website X. “The SECOND I heard about this, I went to
+      the park to speak to the person in charge to tell them it needed to end NOW. Absolutely
+      outrageous.” Additional videos posted on Bluesky by Buer showed angry Los Angeles
+      residents following the agents as they drove slowly down the street away from
+      the park while pelting them with verbal abuse. “Get the fuck out of here!” one
+      male resident can be heard shouting at the agents. “You guys are a bunch of pussies!”
+      yelled another. Shortly after this, a woman can be heard scolding the agents:
+      “You are not helping by snatching people!” After Bass spoke with what I assume
+      is a DHS rep, they packed shit up and headed out. The whole neighborhood turned
+      out to chase them out of the park. Some fruit was thrown, alot of yelling [image
+      or embed] — Mel Buer ( @melbuer.bsky.social ) July 7, 2025 at 2:29 PM California
+      Attorney General Rob Bonta, a Democrat, condemned the federal operations in Los
+      Angeles shortly after they occurred. “The actions of [Immigration and Customs
+      Enforcement] and CBP during the raids in Los Angeles are not about safety or justice—they’re
+      about meeting enforcement quotas and striking fear in communities,” he wrote on
+      Bluesky. “We’ve filed a brief supporting a challenge to ICE and CBP’s unlawful
+      practices. We won’t back down and we won’t be silent.” Los Angeles has become
+      a focal point in the Trump administration’s mass deportation operations. President
+      Donald Trump last month deployed the National Guard to the city after some protests
+      against ICE operations there turned violent. Editor’s Note : A t a moment when
+      the once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Brad Reed Brad Reed
+      is a staff writer for Common Dreams. Author Site Please share this story and help
+      us grow our network!'
+    one_sentence_summary: Los Angeles residents reacted with anger and insults towards
+      heavily-armed U.S. Customs and Border Protection agents conducting an immigration
+      raid in MacArthur Park, as captured in social media footage.
+    paragraph_summary: In a recent incident in Los Angeles' MacArthur Park, U.S. Customs
+      and Border Protection agents conducted an immigration raid, prompting outrage
+      from local residents who confronted the heavily-armed agents with insults and
+      protests. Videos shared on social media depicted the agents on horseback, leading
+      to a swift response from Los Angeles Mayor Karen Bass, who condemned the operation
+      and called for it to cease immediately, expressing her concern for the safety
+      of children in the park at the time. The situation escalated as residents expressed
+      their anger, with shouts directed at the agents criticizing their presence and
+      actions in the community.
+    published: '2025-07-08T12:49:51+00:00'
+  - title: LA Residents Hurl Profane Insults at Border Patrol After Agents Sweep Local
+      Park
+    url: https://scheerpost.com/2025/07/08/la-residents-hurl-profane-insults-at-border-patrol-after-agents-sweep-local-park/
+    text: 'U.S. Border Patrol Chevrolet. Noah Wulf, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Brad Reed / Common Dreams Los Angeles residents lobbed profane insults
+      at U.S. Customs and Border Protection agents on Monday after they swept through
+      the city’s MacArthur Park. Los Angeles-based news station KTLA reports that masked,
+      heavily-armed federal agents were in the park as “part of an apparent immigration
+      raid” although exact details about the operation are not known as of this writing.
+      A video taken on the scene by Mel Buer , an independent labor journalist in the
+      California city and posted on social media website Bluesky showed many agents
+      riding through the park on horseback. Border patrol walking McArthur park here
+      in LA [image or embed] — Mel Buer ( @melbuer.bsky.social ) July 7, 2025 at 1:49
+      PM Los Angeles Mayor Karen Bass (D) reacted angrily after seeing reports of the
+      agents—some of whom had visible Border Protection patches—in the park and she
+      went to the area to tell them to cease their operations. “Minutes before, there
+      were more than 20 kids playing—then, the MILITARY comes through,” Bass wrote in
+      a post on the social media website X. “The SECOND I heard about this, I went to
+      the park to speak to the person in charge to tell them it needed to end NOW. Absolutely
+      outrageous.” Additional videos posted on Bluesky by Buer showed angry Los Angeles
+      residents following the agents as they drove slowly down the street away from
+      the park while pelting them with verbal abuse. “Get the fuck out of here!” one
+      male resident can be heard shouting at the agents. “You guys are a bunch of pussies!”
+      yelled another. Shortly after this, a woman can be heard scolding the agents:
+      “You are not helping by snatching people!” After Bass spoke with what I assume
+      is a DHS rep, they packed shit up and headed out. The whole neighborhood turned
+      out to chase them out of the park. Some fruit was thrown, alot of yelling [image
+      or embed] — Mel Buer ( @melbuer.bsky.social ) July 7, 2025 at 2:29 PM California
+      Attorney General Rob Bonta, a Democrat, condemned the federal operations in Los
+      Angeles shortly after they occurred. “The actions of [Immigration and Customs
+      Enforcement] and CBP during the raids in Los Angeles are not about safety or justice—they’re
+      about meeting enforcement quotas and striking fear in communities,” he wrote on
+      Bluesky. “We’ve filed a brief supporting a challenge to ICE and CBP’s unlawful
+      practices. We won’t back down and we won’t be silent.” Los Angeles has become
+      a focal point in the Trump administration’s mass deportation operations. President
+      Donald Trump last month deployed the National Guard to the city after some protests
+      against ICE operations there turned violent. Editor’s Note : A t a moment when
+      the once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Brad Reed Brad Reed
+      is a staff writer for Common Dreams. Author Site Please share this story and help
+      us grow our network!'
+    one_sentence_summary: Los Angeles residents reacted with anger and insults towards
+      heavily-armed U.S. Customs and Border Protection agents conducting an immigration
+      raid in MacArthur Park, as captured in social media footage.
+    paragraph_summary: In a recent incident in Los Angeles' MacArthur Park, U.S. Customs
+      and Border Protection agents conducted an immigration raid, prompting outrage
+      from local residents who confronted the heavily-armed agents with insults and
+      protests. Videos shared on social media depicted the agents on horseback, leading
+      to a swift response from Los Angeles Mayor Karen Bass, who condemned the operation
+      and called for it to cease immediately, expressing her concern for the safety
+      of children in the park at the time. The situation escalated as residents expressed
+      their anger, with shouts directed at the agents criticizing their presence and
+      actions in the community.
+    published: '2025-07-08T12:49:51+00:00'
+  - title: In 17th BRICS Summit, Members Reiterate Commitments to Multilateralism and
+      International Law
+    url: https://scheerpost.com/2025/07/08/in-17th-brics-summit-members-reiterate-commitments-to-multilateralism-and-international-law/
+    text: 'Country leaders at the 17th BRICS Summit in Rio de Janeiro on Sunday. (Prime
+      Minister’s Office /Wikimedia Commons/GODL-India) In one of the scariest moments
+      in modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . By Abdul Rahman / Peoples Dispatch Heads of state
+      from the BRICS countries gathered in Rio de Janeiro, Brazil, from July 6-7 for
+      their 17th summit. At the summit, BRICS countries denounced the attempts by the
+      United States to undermine global trade by waging a tariff war. They called for
+      strengthening multilateral forums and international laws to create a more equitable
+      global order, in a joint declaration adopted during the summit. The joint declaration
+      titled “Strengthening Global South Cooperation for Inclusive and Sustainable Governance”
+      was adopted on Sunday, July 6, calling for increased cooperation among BRICS members
+      in areas such as politics and security, economy and finance, and culture and people
+      to people contacts. Brazilian President Luiz Inácio Lula da Silva led the proceedings
+      of the two day summit, which began on Sunday. The summit was attended by Chinese
+      Premier Li Qiang, Indian Prime Minister Narendra Modi, South African President
+      Cyril Ramaphosa, and several heads of other member states and their representatives.
+      Russian President Vladimir Putin addressed the summit through a video conference.
+      This is the first summit attended by Indonesia, which became the 11th full member
+      of BRICS in January this year. During his inaugural speech, Lula called BRICS
+      a successor of the Non-Aligned Movement (NAM). He claimed that since there are
+      growing attacks on multilateralism and international laws and the world is witnessing
+      “unprecedented” conflict since World War II, it is necessary for “BRICS to contribute”
+      to bring peace and development in the world through strengthening multilateral
+      forums. Lula reiterated BRICS’ resolve to work for comprehensive reforms in the
+      existing multilateral forums such as the UN, including its Security Council, the
+      International Monetary Fund (IMF), the World Bank, and others to “increase their
+      legitimacy, representativeness, effectiveness and democratic character.” Several
+      other leaders, including Chinese premier Li Qiang talked about BRICS playing a
+      more concrete role in international politics at a time when “unilateralism and
+      protectionism” are on the rise and the principles of UN and other multilateral
+      forums such as WTO are under attack. The joint declaration mentions 126 commitments
+      made by the leaders of BRICS, including their resolve to enhance mutual trade,
+      cooperation in science and technology, climate cooperation and so on. Multipolarity
+      and representation In the joint declaration, BRICS nations agreed to enhance their
+      strategic partnership for “promoting peace, a fairer and more representative international
+      order, a revitalized and reformed multilateral system, sustainable development
+      and inclusive growth.” BRICS believes that “multipolarity can create opportunities
+      for developing countries and emerging markets” and reiterated the need for comprehensive
+      reforms in the UN, including in the Security Council as stated by its Johannesburg
+      summit declaration in 2023. Affirming that the Global South is “a driver of positive
+      change” in the world, the BRICS countries voiced “serious concerns about the rise
+      of unilateral tariff and non-tariff measures which distort trade and are inconsistent
+      with WTO rules.” They reiterated their collective opposition to “unilateral coercive
+      measures” or sanctions, calling them contrary to international law. These unilateral
+      measures violate the basic human rights of the people in the targeted countries
+      and deny them the opportunity to develop and particularly affect the most vulnerable
+      and poor sections of the population, BRICS members noted. The joint declaration
+      announced that BRICS members “do not impose or support non-UN Security Council
+      authorized sanctions.” BRICS also agreed to work on an increased quota at the
+      IMF and the World Bank for emerging and developing countries. Demanding that these
+      quotas should reflect the “relative positions of countries in the global economy”
+      and must not favor the developed west as it does now. The Rio declaration also
+      called for cooperation in “global AI governance” claiming any such move “must
+      mitigate potential risks and meet the needs of all countries, including those
+      in the Global South.” Making it one of the top priorities of the Brazilian presidency,
+      the BRICS declaration called for global health governance by enhancing international
+      cooperation and solidarity for the elimination of socially-determined diseases.
+      It identifies hunger and poverty as the root of these diseases and vows for enhanced
+      cooperation for their elimination. Global conflicts and wars BRICS nations unanimously
+      condemned the Israeli and US military strikes inside Iran last month, calling
+      them “a violation of international law and charter of the United Nations.” They
+      pointed out that the attacks on Iran’s nuclear facilities were in violation of
+      the relevant resolutions of the International Atomic Energy Agency (IAEA) and
+      demanded that “nuclear safeguards, safety, and security must always be upheld,
+      including in armed conflicts, to protect people and the environment from harm.”
+      Speaking during the summit, Iran’s Foreign Minister, Abbas Araghchi, demanded
+      that the attacks which targeted his country’s civilian infrastructure, innocent
+      citizens, and protected nuclear facilities must be condemned by the global community
+      as their effects are not limited to Iran and will be felt by “the whole region
+      and beyond.” BRICS nations also condemned Israel’s continued war and aggression
+      against Palestinians in Gaza. “We condemn all violations of international humanitarian
+      law (IHL), including the use of starvation as a method of warfare,” the joint
+      declaration said, also condemning Israel’s attempts to “politicize or militarize
+      humanitarian assistance”. The BRICS joint declaration also demanded that Israel
+      must stop its repeated violations of the ceasefire agreements with Lebanon and
+      withdraw all its “occupying forces from all of the Lebanese territories”. It also
+      expressed support for peace efforts in Syria, Sudan, and other parts of the world,
+      emphasizing the need for local and domestic initiatives. President Lula, during
+      his inaugural speech, mentioned how NATO’s recent decision to increase the defense
+      expenditure to 5% of their GDP demonstrates the misplaced priorities of the global
+      north. He noted that they have money for war but no money for climate action or
+      helping poorer countries achieve their sustainable development goals. “It is easier
+      [for NATO members] to designate 5% of the GDP to military spending than to allocate
+      the 0.7% that has been promised for Official Development Assistance [for poorer
+      countries].” Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Abdul Rahman Abdul Rahman is a staff writer for Peoples
+      Dispatch. Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: At the 17th BRICS Summit in Rio de Janeiro, leaders from BRICS
+      nations condemned U.S. trade policies and emphasized the need for enhanced cooperation
+      and multilateralism to foster a fairer global order.
+    paragraph_summary: The 17th BRICS Summit took place in Rio de Janeiro, Brazil, from
+      July 6-7, where leaders from member countries, including Brazil, China, India,
+      South Africa, and Russia, convened to address global trade challenges, particularly
+      the tariff wars initiated by the United States. In a joint declaration titled
+      “Strengthening Global South Cooperation for Inclusive and Sustainable Governance,”
+      the leaders emphasized the need for enhanced cooperation in various sectors such
+      as politics, economy, and culture to foster a more equitable global order. Brazilian
+      President Luiz Inácio Lula da Silva, who presided over the summit, highlighted
+      BRICS' role as a successor to the Non-Aligned Movement and stressed the importance
+      of multilateralism in addressing contemporary global conflicts and promoting peace
+      and development. This summit also marked the participation of Indonesia as the
+      newest full member of BRICS.
+    published: '2025-07-08T12:45:18+00:00'
+  - title: In 17th BRICS Summit, Members Reiterate Commitments to Multilateralism and
+      International Law
+    url: https://scheerpost.com/2025/07/08/in-17th-brics-summit-members-reiterate-commitments-to-multilateralism-and-international-law/
+    text: 'Country leaders at the 17th BRICS Summit in Rio de Janeiro on Sunday. (Prime
+      Minister’s Office /Wikimedia Commons/GODL-India) In one of the scariest moments
+      in modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . By Abdul Rahman / Peoples Dispatch Heads of state
+      from the BRICS countries gathered in Rio de Janeiro, Brazil, from July 6-7 for
+      their 17th summit. At the summit, BRICS countries denounced the attempts by the
+      United States to undermine global trade by waging a tariff war. They called for
+      strengthening multilateral forums and international laws to create a more equitable
+      global order, in a joint declaration adopted during the summit. The joint declaration
+      titled “Strengthening Global South Cooperation for Inclusive and Sustainable Governance”
+      was adopted on Sunday, July 6, calling for increased cooperation among BRICS members
+      in areas such as politics and security, economy and finance, and culture and people
+      to people contacts. Brazilian President Luiz Inácio Lula da Silva led the proceedings
+      of the two day summit, which began on Sunday. The summit was attended by Chinese
+      Premier Li Qiang, Indian Prime Minister Narendra Modi, South African President
+      Cyril Ramaphosa, and several heads of other member states and their representatives.
+      Russian President Vladimir Putin addressed the summit through a video conference.
+      This is the first summit attended by Indonesia, which became the 11th full member
+      of BRICS in January this year. During his inaugural speech, Lula called BRICS
+      a successor of the Non-Aligned Movement (NAM). He claimed that since there are
+      growing attacks on multilateralism and international laws and the world is witnessing
+      “unprecedented” conflict since World War II, it is necessary for “BRICS to contribute”
+      to bring peace and development in the world through strengthening multilateral
+      forums. Lula reiterated BRICS’ resolve to work for comprehensive reforms in the
+      existing multilateral forums such as the UN, including its Security Council, the
+      International Monetary Fund (IMF), the World Bank, and others to “increase their
+      legitimacy, representativeness, effectiveness and democratic character.” Several
+      other leaders, including Chinese premier Li Qiang talked about BRICS playing a
+      more concrete role in international politics at a time when “unilateralism and
+      protectionism” are on the rise and the principles of UN and other multilateral
+      forums such as WTO are under attack. The joint declaration mentions 126 commitments
+      made by the leaders of BRICS, including their resolve to enhance mutual trade,
+      cooperation in science and technology, climate cooperation and so on. Multipolarity
+      and representation In the joint declaration, BRICS nations agreed to enhance their
+      strategic partnership for “promoting peace, a fairer and more representative international
+      order, a revitalized and reformed multilateral system, sustainable development
+      and inclusive growth.” BRICS believes that “multipolarity can create opportunities
+      for developing countries and emerging markets” and reiterated the need for comprehensive
+      reforms in the UN, including in the Security Council as stated by its Johannesburg
+      summit declaration in 2023. Affirming that the Global South is “a driver of positive
+      change” in the world, the BRICS countries voiced “serious concerns about the rise
+      of unilateral tariff and non-tariff measures which distort trade and are inconsistent
+      with WTO rules.” They reiterated their collective opposition to “unilateral coercive
+      measures” or sanctions, calling them contrary to international law. These unilateral
+      measures violate the basic human rights of the people in the targeted countries
+      and deny them the opportunity to develop and particularly affect the most vulnerable
+      and poor sections of the population, BRICS members noted. The joint declaration
+      announced that BRICS members “do not impose or support non-UN Security Council
+      authorized sanctions.” BRICS also agreed to work on an increased quota at the
+      IMF and the World Bank for emerging and developing countries. Demanding that these
+      quotas should reflect the “relative positions of countries in the global economy”
+      and must not favor the developed west as it does now. The Rio declaration also
+      called for cooperation in “global AI governance” claiming any such move “must
+      mitigate potential risks and meet the needs of all countries, including those
+      in the Global South.” Making it one of the top priorities of the Brazilian presidency,
+      the BRICS declaration called for global health governance by enhancing international
+      cooperation and solidarity for the elimination of socially-determined diseases.
+      It identifies hunger and poverty as the root of these diseases and vows for enhanced
+      cooperation for their elimination. Global conflicts and wars BRICS nations unanimously
+      condemned the Israeli and US military strikes inside Iran last month, calling
+      them “a violation of international law and charter of the United Nations.” They
+      pointed out that the attacks on Iran’s nuclear facilities were in violation of
+      the relevant resolutions of the International Atomic Energy Agency (IAEA) and
+      demanded that “nuclear safeguards, safety, and security must always be upheld,
+      including in armed conflicts, to protect people and the environment from harm.”
+      Speaking during the summit, Iran’s Foreign Minister, Abbas Araghchi, demanded
+      that the attacks which targeted his country’s civilian infrastructure, innocent
+      citizens, and protected nuclear facilities must be condemned by the global community
+      as their effects are not limited to Iran and will be felt by “the whole region
+      and beyond.” BRICS nations also condemned Israel’s continued war and aggression
+      against Palestinians in Gaza. “We condemn all violations of international humanitarian
+      law (IHL), including the use of starvation as a method of warfare,” the joint
+      declaration said, also condemning Israel’s attempts to “politicize or militarize
+      humanitarian assistance”. The BRICS joint declaration also demanded that Israel
+      must stop its repeated violations of the ceasefire agreements with Lebanon and
+      withdraw all its “occupying forces from all of the Lebanese territories”. It also
+      expressed support for peace efforts in Syria, Sudan, and other parts of the world,
+      emphasizing the need for local and domestic initiatives. President Lula, during
+      his inaugural speech, mentioned how NATO’s recent decision to increase the defense
+      expenditure to 5% of their GDP demonstrates the misplaced priorities of the global
+      north. He noted that they have money for war but no money for climate action or
+      helping poorer countries achieve their sustainable development goals. “It is easier
+      [for NATO members] to designate 5% of the GDP to military spending than to allocate
+      the 0.7% that has been promised for Official Development Assistance [for poorer
+      countries].” Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Abdul Rahman Abdul Rahman is a staff writer for Peoples
+      Dispatch. Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: At the 17th BRICS Summit in Rio de Janeiro, leaders from BRICS
+      nations condemned U.S. trade policies and emphasized the need for enhanced cooperation
+      and multilateralism to foster a fairer global order.
+    paragraph_summary: The 17th BRICS Summit took place in Rio de Janeiro, Brazil, from
+      July 6-7, where leaders from member countries, including Brazil, China, India,
+      South Africa, and Russia, convened to address global trade challenges, particularly
+      the tariff wars initiated by the United States. In a joint declaration titled
+      “Strengthening Global South Cooperation for Inclusive and Sustainable Governance,”
+      the leaders emphasized the need for enhanced cooperation in various sectors such
+      as politics, economy, and culture to foster a more equitable global order. Brazilian
+      President Luiz Inácio Lula da Silva, who presided over the summit, highlighted
+      BRICS' role as a successor to the Non-Aligned Movement and stressed the importance
+      of multilateralism in addressing contemporary global conflicts and promoting peace
+      and development. This summit also marked the participation of Indonesia as the
+      newest full member of BRICS.
+    published: '2025-07-08T12:45:18+00:00'
+  - title: 'Patrick Lawrence: Trump Dead-Ends Putin'
+    url: https://scheerpost.com/2025/07/08/patrick-lawrence-trump-dead-ends-putin/
+    text: 'President Donald Trump at a Salute to America celebration at the Iowa State
+      Fairgrounds in Des Moines on July 3. (White House /Daniel Torok) In one of the
+      scariest moments in modern history, we''re doing our best at ScheerPost to pierce
+      the fog of lies that conceal it but we need some help to pay our writers and staff.
+      Please consider a tax-deductible donation . By Patrick Lawrence / Consortium News
+      P residents Donald Trump and Vladimir Putin have spoken by telephone numerous
+      times since the former reassumed office seven months ago. Not much appears to
+      have been  accomplished by way of these exchanges, some of which have been lengthy,
+      according to the accounts Washington and Moscow have provided afterward. No progress
+      toward a durable settlement to end the war in Ukraine. Talk and desultory diplomatic
+      contacts with a view to repairing the profligate damage successive American administrations
+      have done to U.S.–Russian relations, but no substantive advances. O.K., it is
+      what it is, as we say. But there was something singularly conclusive about the telephone
+      conversation the U.S. and Russian leaders had last Thursday. I detect that a dead
+      end has been reached. Trump was trying once again to get Putin to agree to an
+      “immediate and unconditional ceasefire” in Ukraine — “the quick end to the military
+      action,” as Yuri Ushakov, the Kremlin’s senior foreign policy adviser, put it.
+      Putin was trying once again to explain that the time has come to structure an
+      enduring settlement by addressing — the Kremlin’s favored phrase these days —
+      the “root causes” of the conflict. Maybe it is the barrage of drones and missiles
+      with which the Russians bombarded Kiev and other Ukrainian cities within a few
+      hours of the Trump–Putin exchange that prompts me to think the two leaders or
+      their diplomats are unlikely ever to get anywhere on the telephone or at the mahogany
+      table. The Ukrainians, for what their word is worth, counted 539 drones and 11
+      missiles, including a hard-to-intercept, high-velocity (Mach 10 hypersonic) projectile
+      called the Kinzhal. This was the largest aerial attack so far in the war, by the
+      Ukrainians’ reckoning, and it left Kiev smoldering last Friday morning. It is
+      hard to avoid concluding the Kremlin had a point to make after the failure of
+      the phone call. Trump Has Nothing to Propose Or maybe it is Trump’s remarks after
+      the call that makes me think a diplomatic settlement seems simply beyond reach
+      — this at least until the Ukrainian military is decisively smashed, and very possibly
+      not even then. “I was very unhappy with my call with President Putin,” Trump told
+      reporters aboard Air Force One afterward. “I didn’t make any progress with him
+      at all. He wants to go all the way, just keep killing people, it’s no good.” You
+      cannot be surprised at this current state of affairs. Trump made no progress with
+      the Russian leader because he has nothing to propose that would make progress
+      possible. Social media messages demanding a ceasefire, replete with capital letters
+      and exclamation points, do not count and do not work as statecraft; they betoken
+      nothing so much as Trump’s — read, the West’s — un-seriousness. The fundamental
+      problem here is that Kiev and its sponsors are unable to accept defeat. I concluded
+      more than a year ago that Ukraine and its Western powers had lost the war — “effectively
+      lost,” I thought for a time, but then I dropped “effectively.” For a good long time
+      now what we’ve watched is nothing more than postwar gore. If you have lost a war
+      but cannot admit you have lost because the West must never lose anything, you
+      are down to the old game of pretend. And so long as the U.S. and its European
+      clients insist that they deserve any consequential say in the terms of negotiation —
+      as if they can assert the authority of a victor — it amounts to the pointlessness
+      of pretending. It is as if the Germans, if you do not mind the comparison, insisted
+      they set the terms of surrender in May 1945, or had a say in the settlement concluded
+      at Versailles in 1919. When a settlement is finally reached it will not be termed
+      a surrender — you can count on this — but this is what it will come to. And Russia,
+      to turn this question another way, will have a responsibility to avoid turning
+      a finally achieved peace into another Versailles disaster — where the victors
+      planted the seeds for a renewal of conflict — by asking too much. I am confident
+      Moscow will hold to its currently expressed demands, which I consider eminently
+      just and not at all excessive: A new security architecture in Europe; no NATO membership
+      for a neutral Ukraine that must be demilitarized and de-Nazified; and recognition
+      of the four oblasts that voted to join Russia. Ressentiment But I am not confident
+      Ukraine and the neo–Nazis who control the military and the civilian administration
+      — yes, both — will ever accept any kind of coexistence with the Russian Federation.
+      The hatred is too visceral, too irrational, too atavistic, too pathological. This
+      is why de–Nazification was and remains a Russian objective. The neo–Nazi beast,
+      never far below the surface in post–1945 Ukraine, was sprung into the open air
+      with the U.S.–cultivated coup in 2014. Washington and its clients in Kiev needed the
+      neo–Nazis, especially but not only the armed militias, because they could be relied upon
+      to fight the Russians with the sort of visceral animus the occasion required.
+      I do not know what a de–Nazification operation would look like, given the phenomenon’s above-noted
+      characteristics, but something will have to be done to rid the Ukrainian consciousness
+      of this deformity. What we will see in Ukraine otherwise will prove an horrific
+      case of ressentiment — enduring and poisonous. Ressentiment is a term the Germans, Friedrich Nietzsche
+      among them, borrowed from the French in the 19th century because they had no term
+      for the phenomenon. It denotes the hostility and anger within a group arising
+      from a shared sense of inferiority in the face of another — this other becoming
+      a kind of scapegoat for a society’s frustrations and complexes. Max Scheler, the
+      19th and early 20th century phenomenologist, explored all this in Ressentiment
+      , a brief but pithy book he published in 1912 (in English, Marquette Univ. Press,
+      1994). As Scheler explained in interesting detail, a socially accepted set of
+      values arises from this complex of feelings. Ressentiment is a potentially dangerous
+      sentiment when it animates a society that feels itself wounded over a sustained
+      period of time. We need look no further than the extreme Russophobia evident today
+      among some segments of the Ukrainian population for a case in point. Against this
+      historical and social backdrop, I do not see the Ukrainians as capable of reaching
+      a settlement to end the war that has already torn apart the nation and its people.
+      I do not see that they can achieve peace, either with others or among themselves,
+      because they do not know peace and they are not capable of it. A Rockface of History
+      But I see another reason peace in Ukraine will prove elusive, if not impossible,
+      even as the Russians achieve it on the battlefield. (And I tend toward the latter
+      probability.) This judgment arises when we put the Ukraine crisis in a larger,
+      global context. I think of Ukraine as resembling the rock face in a mine, or a
+      front line in a global conflict: It is where the non–West is most urgently chiseling
+      a new world order into being. It is a site of insistence, let us say. And it is
+      where the West proposes to stop this world-historical turn of history’s wheel
+      — a turn that simply cannot be stopped. Think of Putin’s demands. Apart from de–Nazification
+      — an objective that, to me, reflects considerable insight on Moscow’s part — there
+      are the more encompassing “root causes.” I gather Putin used this phrase yet again
+      in his call with Trump. [See: Rootin g Out the Root Causes in Ukraine ] Putin,
+      Sergei Lavrov, his foreign minister, and other senior Russian officials have been clear
+      on this point at least since Moscow sent those two draft treaties Westward in December
+      2021 as the proposed basis of negotiations that would lead to an encompassing new
+      security structure between Russia and the West. This framework would relieve the
+      decades of tension along Russia’s western flank and Europe’s east and would be
+      of benefit to both sides. This was and remains Moscow’s intent. Settlements that
+      address the concerns of all sides, as against one side’s at the expense of another,
+      is the very essence of sound statecraft. But any such settlement would stand as
+      an expression of parity between West and non–West. As I have argued severally
+      over the years, parity between these two spheres is a 21st century imperative.
+      There will be no world order without it — only more of the disorder the Western
+      powers call, altogether absurdly, “the rules-based order.” But it is precisely
+      even the thought of parity that the United States and its trans–Atlantic allies
+      refuse to accept. It would bring to an end the half-millennium of dominance the
+      West cannot release from its grasp even as it will eventually have to do so. “It
+      is no good,” Trump said after his latest telephone talk with Putin. No, and I
+      do not see how it can be. Trump has nothing to offer the Russians that would amount
+      to a serious address of what is genuinely at issue between America and Russia
+      — between the West and non–West. I leave it to readers to conclude where this
+      leaves the Ukraine conflict and the larger question of Russo–American relations. It
+      is, once again, what it is — or what it is at the moment. In another column I
+      will revisit this question of parity as it applies in West Asia. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Patrick Lawrence
+      Patrick Lawrence , a correspondent abroad for many years, chiefly for the International
+      Herald Tribune , is a media critic, essayist, author and lecturer. His new book,
+      Journalists and Their Shadows , is out now from Clarity Press . His website is
+      Patrick Lawrence . Support his work via his Patreon site . Author Site Please
+      share this story and help us grow our network!'
+    one_sentence_summary: Despite multiple lengthy phone conversations between President
+      Trump and President Putin since Trump's return to office, there has been little
+      progress in resolving the Ukraine conflict or improving U.S.-Russian relations.
+    paragraph_summary: In a recent article, Patrick Lawrence discusses the ongoing telephone
+      conversations between President Donald Trump and Russian President Vladimir Putin
+      since Trump took office again, noting that these discussions have yielded little
+      progress towards resolving the Ukraine conflict or improving U.S.-Russian relations.
+      Despite attempts by Trump to persuade Putin to agree to an immediate ceasefire,
+      the Kremlin has emphasized the need to address the "root causes" of the war. The
+      situation appears stagnant, especially in light of recent Russian military actions
+      against Ukraine, suggesting that meaningful diplomatic progress is unlikely. Lawrence
+      concludes that the exchanges between the two leaders may have reached a dead end,
+      highlighting the challenges in achieving a resolution.
+    published: '2025-07-08T12:42:41+00:00'
+  - title: 'Patrick Lawrence: Trump Dead-Ends Putin'
+    url: https://scheerpost.com/2025/07/08/patrick-lawrence-trump-dead-ends-putin/
+    text: 'President Donald Trump at a Salute to America celebration at the Iowa State
+      Fairgrounds in Des Moines on July 3. (White House /Daniel Torok) In one of the
+      scariest moments in modern history, we''re doing our best at ScheerPost to pierce
+      the fog of lies that conceal it but we need some help to pay our writers and staff.
+      Please consider a tax-deductible donation . By Patrick Lawrence / Consortium News
+      P residents Donald Trump and Vladimir Putin have spoken by telephone numerous
+      times since the former reassumed office seven months ago. Not much appears to
+      have been  accomplished by way of these exchanges, some of which have been lengthy,
+      according to the accounts Washington and Moscow have provided afterward. No progress
+      toward a durable settlement to end the war in Ukraine. Talk and desultory diplomatic
+      contacts with a view to repairing the profligate damage successive American administrations
+      have done to U.S.–Russian relations, but no substantive advances. O.K., it is
+      what it is, as we say. But there was something singularly conclusive about the telephone
+      conversation the U.S. and Russian leaders had last Thursday. I detect that a dead
+      end has been reached. Trump was trying once again to get Putin to agree to an
+      “immediate and unconditional ceasefire” in Ukraine — “the quick end to the military
+      action,” as Yuri Ushakov, the Kremlin’s senior foreign policy adviser, put it.
+      Putin was trying once again to explain that the time has come to structure an
+      enduring settlement by addressing — the Kremlin’s favored phrase these days —
+      the “root causes” of the conflict. Maybe it is the barrage of drones and missiles
+      with which the Russians bombarded Kiev and other Ukrainian cities within a few
+      hours of the Trump–Putin exchange that prompts me to think the two leaders or
+      their diplomats are unlikely ever to get anywhere on the telephone or at the mahogany
+      table. The Ukrainians, for what their word is worth, counted 539 drones and 11
+      missiles, including a hard-to-intercept, high-velocity (Mach 10 hypersonic) projectile
+      called the Kinzhal. This was the largest aerial attack so far in the war, by the
+      Ukrainians’ reckoning, and it left Kiev smoldering last Friday morning. It is
+      hard to avoid concluding the Kremlin had a point to make after the failure of
+      the phone call. Trump Has Nothing to Propose Or maybe it is Trump’s remarks after
+      the call that makes me think a diplomatic settlement seems simply beyond reach
+      — this at least until the Ukrainian military is decisively smashed, and very possibly
+      not even then. “I was very unhappy with my call with President Putin,” Trump told
+      reporters aboard Air Force One afterward. “I didn’t make any progress with him
+      at all. He wants to go all the way, just keep killing people, it’s no good.” You
+      cannot be surprised at this current state of affairs. Trump made no progress with
+      the Russian leader because he has nothing to propose that would make progress
+      possible. Social media messages demanding a ceasefire, replete with capital letters
+      and exclamation points, do not count and do not work as statecraft; they betoken
+      nothing so much as Trump’s — read, the West’s — un-seriousness. The fundamental
+      problem here is that Kiev and its sponsors are unable to accept defeat. I concluded
+      more than a year ago that Ukraine and its Western powers had lost the war — “effectively
+      lost,” I thought for a time, but then I dropped “effectively.” For a good long time
+      now what we’ve watched is nothing more than postwar gore. If you have lost a war
+      but cannot admit you have lost because the West must never lose anything, you
+      are down to the old game of pretend. And so long as the U.S. and its European
+      clients insist that they deserve any consequential say in the terms of negotiation —
+      as if they can assert the authority of a victor — it amounts to the pointlessness
+      of pretending. It is as if the Germans, if you do not mind the comparison, insisted
+      they set the terms of surrender in May 1945, or had a say in the settlement concluded
+      at Versailles in 1919. When a settlement is finally reached it will not be termed
+      a surrender — you can count on this — but this is what it will come to. And Russia,
+      to turn this question another way, will have a responsibility to avoid turning
+      a finally achieved peace into another Versailles disaster — where the victors
+      planted the seeds for a renewal of conflict — by asking too much. I am confident
+      Moscow will hold to its currently expressed demands, which I consider eminently
+      just and not at all excessive: A new security architecture in Europe; no NATO membership
+      for a neutral Ukraine that must be demilitarized and de-Nazified; and recognition
+      of the four oblasts that voted to join Russia. Ressentiment But I am not confident
+      Ukraine and the neo–Nazis who control the military and the civilian administration
+      — yes, both — will ever accept any kind of coexistence with the Russian Federation.
+      The hatred is too visceral, too irrational, too atavistic, too pathological. This
+      is why de–Nazification was and remains a Russian objective. The neo–Nazi beast,
+      never far below the surface in post–1945 Ukraine, was sprung into the open air
+      with the U.S.–cultivated coup in 2014. Washington and its clients in Kiev needed the
+      neo–Nazis, especially but not only the armed militias, because they could be relied upon
+      to fight the Russians with the sort of visceral animus the occasion required.
+      I do not know what a de–Nazification operation would look like, given the phenomenon’s above-noted
+      characteristics, but something will have to be done to rid the Ukrainian consciousness
+      of this deformity. What we will see in Ukraine otherwise will prove an horrific
+      case of ressentiment — enduring and poisonous. Ressentiment is a term the Germans, Friedrich Nietzsche
+      among them, borrowed from the French in the 19th century because they had no term
+      for the phenomenon. It denotes the hostility and anger within a group arising
+      from a shared sense of inferiority in the face of another — this other becoming
+      a kind of scapegoat for a society’s frustrations and complexes. Max Scheler, the
+      19th and early 20th century phenomenologist, explored all this in Ressentiment
+      , a brief but pithy book he published in 1912 (in English, Marquette Univ. Press,
+      1994). As Scheler explained in interesting detail, a socially accepted set of
+      values arises from this complex of feelings. Ressentiment is a potentially dangerous
+      sentiment when it animates a society that feels itself wounded over a sustained
+      period of time. We need look no further than the extreme Russophobia evident today
+      among some segments of the Ukrainian population for a case in point. Against this
+      historical and social backdrop, I do not see the Ukrainians as capable of reaching
+      a settlement to end the war that has already torn apart the nation and its people.
+      I do not see that they can achieve peace, either with others or among themselves,
+      because they do not know peace and they are not capable of it. A Rockface of History
+      But I see another reason peace in Ukraine will prove elusive, if not impossible,
+      even as the Russians achieve it on the battlefield. (And I tend toward the latter
+      probability.) This judgment arises when we put the Ukraine crisis in a larger,
+      global context. I think of Ukraine as resembling the rock face in a mine, or a
+      front line in a global conflict: It is where the non–West is most urgently chiseling
+      a new world order into being. It is a site of insistence, let us say. And it is
+      where the West proposes to stop this world-historical turn of history’s wheel
+      — a turn that simply cannot be stopped. Think of Putin’s demands. Apart from de–Nazification
+      — an objective that, to me, reflects considerable insight on Moscow’s part — there
+      are the more encompassing “root causes.” I gather Putin used this phrase yet again
+      in his call with Trump. [See: Rootin g Out the Root Causes in Ukraine ] Putin,
+      Sergei Lavrov, his foreign minister, and other senior Russian officials have been clear
+      on this point at least since Moscow sent those two draft treaties Westward in December
+      2021 as the proposed basis of negotiations that would lead to an encompassing new
+      security structure between Russia and the West. This framework would relieve the
+      decades of tension along Russia’s western flank and Europe’s east and would be
+      of benefit to both sides. This was and remains Moscow’s intent. Settlements that
+      address the concerns of all sides, as against one side’s at the expense of another,
+      is the very essence of sound statecraft. But any such settlement would stand as
+      an expression of parity between West and non–West. As I have argued severally
+      over the years, parity between these two spheres is a 21st century imperative.
+      There will be no world order without it — only more of the disorder the Western
+      powers call, altogether absurdly, “the rules-based order.” But it is precisely
+      even the thought of parity that the United States and its trans–Atlantic allies
+      refuse to accept. It would bring to an end the half-millennium of dominance the
+      West cannot release from its grasp even as it will eventually have to do so. “It
+      is no good,” Trump said after his latest telephone talk with Putin. No, and I
+      do not see how it can be. Trump has nothing to offer the Russians that would amount
+      to a serious address of what is genuinely at issue between America and Russia
+      — between the West and non–West. I leave it to readers to conclude where this
+      leaves the Ukraine conflict and the larger question of Russo–American relations. It
+      is, once again, what it is — or what it is at the moment. In another column I
+      will revisit this question of parity as it applies in West Asia. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Patrick Lawrence
+      Patrick Lawrence , a correspondent abroad for many years, chiefly for the International
+      Herald Tribune , is a media critic, essayist, author and lecturer. His new book,
+      Journalists and Their Shadows , is out now from Clarity Press . His website is
+      Patrick Lawrence . Support his work via his Patreon site . Author Site Please
+      share this story and help us grow our network!'
+    one_sentence_summary: Despite multiple lengthy phone conversations between President
+      Trump and President Putin since Trump's return to office, there has been little
+      progress in resolving the Ukraine conflict or improving U.S.-Russian relations.
+    paragraph_summary: In a recent article, Patrick Lawrence discusses the ongoing telephone
+      conversations between President Donald Trump and Russian President Vladimir Putin
+      since Trump took office again, noting that these discussions have yielded little
+      progress towards resolving the Ukraine conflict or improving U.S.-Russian relations.
+      Despite attempts by Trump to persuade Putin to agree to an immediate ceasefire,
+      the Kremlin has emphasized the need to address the "root causes" of the war. The
+      situation appears stagnant, especially in light of recent Russian military actions
+      against Ukraine, suggesting that meaningful diplomatic progress is unlikely. Lawrence
+      concludes that the exchanges between the two leaders may have reached a dead end,
+      highlighting the challenges in achieving a resolution.
+    published: '2025-07-08T12:42:41+00:00'
+  - title: 'Norman Solomon: Genocide Made Invisible'
+    url: https://scheerpost.com/2025/07/08/norman-solomon-genocide-made-invisible/
+    text: 'Aerial view of destruction in Beach refugee camp, Gaza Strip. Abedallah Alhaj,
+      CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0 , via Wikimedia Commons
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Norman Solomon Whatever
+      the outcomes of Benjamin Netanyahu’s visit to the White House on Monday and the
+      latest scenario for a ceasefire in Gaza, a bilateral policy of genocide has united
+      the Israeli and U.S. governments in a pact of literally breath-taking cruelty.
+      That pact and its horrific consequences for Palestinian people either continue
+      to shock Americans or gradually normalize indifference toward ongoing atrocities
+      on a massive scale. Recent news reporting that President Trump has pushed for
+      a ceasefire in Gaza is an echo of a familiar refrain about peace-seeking efforts
+      from the Biden and Trump administrations. The spin remained in sync with the killing
+      – not only with American bombs and bullets but also with Israel’s refusal to allow
+      more than a pittance of food and other essentials into Gaza. Last year began with
+      a United Nations statement that “Gazans now make up 80 per cent of all people
+      facing famine or catastrophic hunger worldwide, marking an unparalleled humanitarian
+      crisis in the Gaza Strip amid Israel’s continued bombardment and siege.” The UN
+      quoted experts who said: “Currently every single person in Gaza is hungry, a quarter
+      of the population are starving and struggling to find food and drinkable water,
+      and famine is imminent.” In late February 2024, President Biden talked to journalists
+      about prospects for a “ceasefire” (which did not take place) while holding a vanilla
+      ice cream cone. “My national security adviser tells me that we’re close, we’re
+      close, we’re not done yet,” Biden said , before sauntering off. He spoke during
+      a photo op at an ice cream parlor in Manhattan, while the UN was sounding an alarm
+      that “very little humanitarian aid has entered besieged Gaza this month.” During
+      the 16 months since then, variants of facile verbiage from top U.S. government
+      officials have repeated endlessly, while normalizing genocide with a steep race
+      to the ethical bottom, so that – in Orwellian terms, much like “war is peace,
+      freedom is slavery, ignorance is strength” – genocide is not genocide. Refusal
+      to acknowledge the complicity and impunity is most of all maintained by avoidance
+      and silence. The process makes a terrible truth inadmissible rather than admittable.
+      All the doublethink and newspeak must detour around the reality that the U.S.-supported
+      Israeli siege of Gaza is genocide, which the international Genocide Convention
+      defines as “acts committed with intent to destroy, in whole or in part, a national,
+      ethnical, racial or religious group” – with such actions as “deliberately inflicting
+      on the group conditions of life calculated to bring about its physical destruction
+      in whole or in part.” Israel’s actions in Gaza clearly meet that definition, as
+      Amnesty International and Human Rights Watch have unequivocally concluded with
+      exhaustive reports. But under the cloaks of the Israeli and American flags, the
+      official stories insist that the unconscionable should be invisible. Liberal Zionist
+      groups in the United States are part of the process. Here’s what I wrote in an
+      article for The Nation early this year after examining public statements by the
+      “pro-Israel, pro-peace” group J Street: “Routinely, while calling for the release
+      of the Israeli hostages, the organization also expressed concern about the deaths
+      and suffering of Palestinian civilians in Gaza. But none of J Street’s 132 news
+      releases between October 7 and the start of the [temporary] ceasefire in late
+      January 2025 called for an end to shipments of the U.S. bombs and weapons that
+      were killing those civilians while enforcing Israel’s policy of using starvation
+      as a weapon of war – a glaring omission for a group that declares itself to be
+      ‘pro-peace.’ It was as if J Street thought that vague humanistic pleas could paper
+      over these gaping cracks in its stance. “However, J Street felt comfortable taking
+      a firm line on the question of whether Israel was committing genocide in Gaza.
+      Here, it aligned itself completely with the position of the U.S. and Israeli governments.
+      In mid-January 2024, when oral arguments ended at the International Court of Justice
+      in the case brought by South Africa that charged the Israeli government with violating
+      the Genocide Convention in Gaza, a news release declared that ‘J Street rejects
+      the allegation of genocide against the State of Israel.’ Four months later, on
+      May 24, J Street responded quickly when the ICJ ordered Israel to ‘immediately
+      halt its military offensive’ in Rafah. ‘J Street continues to reject the allegation
+      of genocide in this case,’ a news release said.” Likewise, with rare exceptions,
+      U.S. news media and members of Congress dodge the reality of genocide against
+      Palestinians in Gaza. Meanwhile, the events in Gaza and the evasions in the United
+      States have been enormously instructive, shattering illusions along the way. Many
+      Americans, especially young people, know much more about their country and its
+      government than they did just two years ago. What has come to light includes mass
+      murder of certain other human beings as de facto policy and functional ideology.
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Norman Solomon Norman Solomon is the national director of RootsAction.org
+      and executive director of the Institute for Public Accuracy. The paperback edition
+      of his latest book, War Made Invisible: How America Hides the Human Toll of Its
+      Military Machine , includes an afterword about the Gaza war. Author Site Please
+      share this story and help us grow our network!'
+    one_sentence_summary: The article critiques the U.S. and Israeli governments' complicity
+      in the ongoing violence and humanitarian crisis in Gaza, highlighting the need
+      for awareness and support for independent journalism amidst the normalization
+      of indifference toward these atrocities.
+    paragraph_summary: The article by Norman Solomon highlights the dire humanitarian
+      crisis in Gaza, exacerbated by the ongoing conflict and the complicity of both
+      the Israeli and U.S. governments in what he describes as a "bilateral policy of
+      genocide." Despite recent discussions about a ceasefire, the situation remains
+      grim, with the United Nations reporting that 80% of Gazans face famine or catastrophic
+      hunger, and every individual in the region is experiencing hunger. Solomon criticizes
+      the normalization of indifference among Americans towards the atrocities occurring
+      in Gaza and points out the stark contrast between President Biden's casual remarks
+      about a ceasefire and the severe suffering of the Palestinian people, emphasizing
+      the urgent need for awareness and action.
+    published: '2025-07-08T12:35:39+00:00'
+  - title: 'Norman Solomon: Genocide Made Invisible'
+    url: https://scheerpost.com/2025/07/08/norman-solomon-genocide-made-invisible/
+    text: 'Aerial view of destruction in Beach refugee camp, Gaza Strip. Abedallah Alhaj,
+      CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0 , via Wikimedia Commons
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Norman Solomon Whatever
+      the outcomes of Benjamin Netanyahu’s visit to the White House on Monday and the
+      latest scenario for a ceasefire in Gaza, a bilateral policy of genocide has united
+      the Israeli and U.S. governments in a pact of literally breath-taking cruelty.
+      That pact and its horrific consequences for Palestinian people either continue
+      to shock Americans or gradually normalize indifference toward ongoing atrocities
+      on a massive scale. Recent news reporting that President Trump has pushed for
+      a ceasefire in Gaza is an echo of a familiar refrain about peace-seeking efforts
+      from the Biden and Trump administrations. The spin remained in sync with the killing
+      – not only with American bombs and bullets but also with Israel’s refusal to allow
+      more than a pittance of food and other essentials into Gaza. Last year began with
+      a United Nations statement that “Gazans now make up 80 per cent of all people
+      facing famine or catastrophic hunger worldwide, marking an unparalleled humanitarian
+      crisis in the Gaza Strip amid Israel’s continued bombardment and siege.” The UN
+      quoted experts who said: “Currently every single person in Gaza is hungry, a quarter
+      of the population are starving and struggling to find food and drinkable water,
+      and famine is imminent.” In late February 2024, President Biden talked to journalists
+      about prospects for a “ceasefire” (which did not take place) while holding a vanilla
+      ice cream cone. “My national security adviser tells me that we’re close, we’re
+      close, we’re not done yet,” Biden said , before sauntering off. He spoke during
+      a photo op at an ice cream parlor in Manhattan, while the UN was sounding an alarm
+      that “very little humanitarian aid has entered besieged Gaza this month.” During
+      the 16 months since then, variants of facile verbiage from top U.S. government
+      officials have repeated endlessly, while normalizing genocide with a steep race
+      to the ethical bottom, so that – in Orwellian terms, much like “war is peace,
+      freedom is slavery, ignorance is strength” – genocide is not genocide. Refusal
+      to acknowledge the complicity and impunity is most of all maintained by avoidance
+      and silence. The process makes a terrible truth inadmissible rather than admittable.
+      All the doublethink and newspeak must detour around the reality that the U.S.-supported
+      Israeli siege of Gaza is genocide, which the international Genocide Convention
+      defines as “acts committed with intent to destroy, in whole or in part, a national,
+      ethnical, racial or religious group” – with such actions as “deliberately inflicting
+      on the group conditions of life calculated to bring about its physical destruction
+      in whole or in part.” Israel’s actions in Gaza clearly meet that definition, as
+      Amnesty International and Human Rights Watch have unequivocally concluded with
+      exhaustive reports. But under the cloaks of the Israeli and American flags, the
+      official stories insist that the unconscionable should be invisible. Liberal Zionist
+      groups in the United States are part of the process. Here’s what I wrote in an
+      article for The Nation early this year after examining public statements by the
+      “pro-Israel, pro-peace” group J Street: “Routinely, while calling for the release
+      of the Israeli hostages, the organization also expressed concern about the deaths
+      and suffering of Palestinian civilians in Gaza. But none of J Street’s 132 news
+      releases between October 7 and the start of the [temporary] ceasefire in late
+      January 2025 called for an end to shipments of the U.S. bombs and weapons that
+      were killing those civilians while enforcing Israel’s policy of using starvation
+      as a weapon of war – a glaring omission for a group that declares itself to be
+      ‘pro-peace.’ It was as if J Street thought that vague humanistic pleas could paper
+      over these gaping cracks in its stance. “However, J Street felt comfortable taking
+      a firm line on the question of whether Israel was committing genocide in Gaza.
+      Here, it aligned itself completely with the position of the U.S. and Israeli governments.
+      In mid-January 2024, when oral arguments ended at the International Court of Justice
+      in the case brought by South Africa that charged the Israeli government with violating
+      the Genocide Convention in Gaza, a news release declared that ‘J Street rejects
+      the allegation of genocide against the State of Israel.’ Four months later, on
+      May 24, J Street responded quickly when the ICJ ordered Israel to ‘immediately
+      halt its military offensive’ in Rafah. ‘J Street continues to reject the allegation
+      of genocide in this case,’ a news release said.” Likewise, with rare exceptions,
+      U.S. news media and members of Congress dodge the reality of genocide against
+      Palestinians in Gaza. Meanwhile, the events in Gaza and the evasions in the United
+      States have been enormously instructive, shattering illusions along the way. Many
+      Americans, especially young people, know much more about their country and its
+      government than they did just two years ago. What has come to light includes mass
+      murder of certain other human beings as de facto policy and functional ideology.
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Norman Solomon Norman Solomon is the national director of RootsAction.org
+      and executive director of the Institute for Public Accuracy. The paperback edition
+      of his latest book, War Made Invisible: How America Hides the Human Toll of Its
+      Military Machine , includes an afterword about the Gaza war. Author Site Please
+      share this story and help us grow our network!'
+    one_sentence_summary: The article critiques the U.S. and Israeli governments' complicity
+      in the ongoing violence and humanitarian crisis in Gaza, highlighting the need
+      for awareness and support for independent journalism amidst the normalization
+      of indifference toward these atrocities.
+    paragraph_summary: The article by Norman Solomon highlights the dire humanitarian
+      crisis in Gaza, exacerbated by the ongoing conflict and the complicity of both
+      the Israeli and U.S. governments in what he describes as a "bilateral policy of
+      genocide." Despite recent discussions about a ceasefire, the situation remains
+      grim, with the United Nations reporting that 80% of Gazans face famine or catastrophic
+      hunger, and every individual in the region is experiencing hunger. Solomon criticizes
+      the normalization of indifference among Americans towards the atrocities occurring
+      in Gaza and points out the stark contrast between President Biden's casual remarks
+      about a ceasefire and the severe suffering of the Palestinian people, emphasizing
+      the urgent need for awareness and action.
+    published: '2025-07-08T12:35:39+00:00'
+  - title: ‘New York Times’ Mamdani Smear Shows How out of Touch the Paper Is With Progressives,
+      Especially on Palestine
+    url: https://scheerpost.com/2025/07/08/new-york-times-mamdani-smear-shows-how-out-of-touch-the-paper-is-with-progressives-especially-on-palestine/
+    text: 'Zohran Mamdani seen on stage at a campaign event. (Photo: Zohran Mamdani
+      campaign) In one of the scariest moments in modern history, we''re doing our best
+      at ScheerPost to pierce the fog of lies that conceal it but we need some help
+      to pay our writers and staff. Please consider a tax-deductible donation . By Philip
+      Weiss / Mondoweiss In a clear sign that it intends to batter Zohran Mamdani, the
+      Democratic nominee for mayor, and disrespect the voters who have generated the
+      leftwinger’s spectacular rise, the New York Times last week published a lengthy
+      investigation of Mamdani’s statement about his racial identity as a college applicant
+      in 2009 as if it had found a smoking gun. The ensuing controversy has done nothing
+      to hurt Mamdani politically but engulfed the Times, further damaging the paper’s
+      credibility. The July 3 article, titled “ Mamdani Identified as Asian and African
+      American on College Application ” was based on a hack of Columbia University admissions
+      records by a right-wing white nationalist and suggested that at 18, Mamdani lied
+      about his identity in his 2009 application to Columbia by checking boxes stating
+      that he was “Asian” and “Black or African-American.” Mamdani didn’t get in. As
+      the Times noted in gotcha style, Mamdani says on the campaign trail that he is
+      Muslim of South Asian heritage but “claimed another label” when he was a teenager.
+      “Most college applications don’t have a box for Indian-Ugandans, so I checked
+      multiple boxes trying to capture the fullness of my background,” Mamdani explained
+      to the Times . Mamdani was born in 1991 in Uganda, where his father’s Gujarati
+      family had lived for 100 years. The budding pol spent his first 7 years in Uganda
+      and has expressed pride in his African roots. The article’s gravity and length
+      and very-thin accusation have been condemned by Mamdani supporters as a smear
+      and a weak one, but have already predictably been picked up by pro-Israel groups
+      that hate Mamdani and his movement. The charge’s weakness was clear when House
+      minority leader Hakeem Jeffries, who still has not endorsed Mamdani, was asked
+      about it on MSNBC and changed the subject. He knows this is a foolish claim. Meanwhile,
+      the outrage over the article has again put the Times on the defensive over its
+      dismissive coverage of Mamdani. The paper is obviously at war with itself. Editors
+      have sought to justify the investigation, not very convincingly, and Times columnist
+      Jamelle Bouie posted, “i think you should tell readers if your source is a nazi.”
+      He then deleted the post. But later posted, “NYT & many of its elite white readers
+      are still obsessed with race-conscious college admissions,” according to Semafor
+      . The investigation is absurd and malignant for several reasons. Even if you buy
+      the premise that Mamdani stretched his identity at 18 to try and get into Columbia,
+      the story is laughable. We all know kids who have played up one part or another
+      of their identity. Big deal. And anyway, the evidence is not convincing. Mamdani’s
+      father was a professor of political science at Columbia at the time, so the admissions
+      office likely knew who he was. Mahmood Mamdani had lately published a book, “Good
+      Muslim, Bad Muslim,” in which he identified himself as a “third generation East
+      African of Indian descent” who “grew up in Kampala, Uganda.” But no one should
+      buy the premise here, because it is so ugly. That premise is that people have
+      fixed racial identities, and these categories are strict. The most disturbing
+      line in the article is this righteous bit—“asked if any of his family had intermarried
+      while in East Africa, he said in the interview on Thursday, ‘They’re all of Indian
+      origin, from Gujarat.’” As if Mamdani would be a legitimate “African” if his South
+      Asian family had mixed its blood with blacks? You’d think that pseudo-race science
+      would have no place in our best newspaper. Countless Americans today have fluid
+      identities, and we should respect their choices about what is important to them
+      in their own backgrounds. Barack Obama made such a choice, and it was honored.
+      It is hard to believe the NYT could possibly think this is a story. So yes, the
+      motivation is clear, they were trying to make it a scandal: all you have to do
+      is throw this out there and conservatives all over Twitter are saying he is a
+      commie Muslim liar… That’s another reason the investigation is absurd. This is
+      all they could come up with? The story doesn’t hurt Mamdani politically. His base
+      is appalled by it, and Democratic voters don’t care, as Hakeem Jeffries has indicated.
+      Jeffries is aware of the profound shifts taking place in the Democratic base that
+      Michael Arria and Peter Feld have documented here . Jeffries knows that when Mamdani
+      refused to apologize for defending the phrase “globalize the intifada,” the story
+      disappeared, but that when Senator Kirsten Gillibrand revived that line of attack
+      on WNYC by claiming that Mamdani supports jihad, she was forced to apologize for
+      Islamophobia. Young Democrats are aware and somewhat radicalized, and Jeffries
+      needs them if he is going to counter Trumpism. The Times is out of step with that
+      base. Of course, a newspaper gets to choose what it believes in. But the Times
+      is the most important newspaper in the country and a generally liberal voice,
+      and it is making grievous political and ethical errors in its coverage of a young
+      politician who excites a wide coalition for idealistic reasons. Because he is
+      optimistic and energetic and inclusive and offers a stirring vision for the future.
+      Some day the Times is sure to reflect this American political movement. But now
+      it is stuck by its own choice in the worst muck of the Israel lobby. The core
+      issue here is Israel. The young are mobilized by the horror of the Gaza genocide.
+      The Democratic base demands that its leaders express their outrage at Israel’s
+      rolling massacres and stop sending arms to war criminals. The Times has pointedly
+      refused to honor that point of view. The Times ’s acceptance of the genocide is
+      best captured by a piece by Nicholas Kristof, a liberal columnist at the paper,
+      when he wrote in April, “the Netanyahu government is now again escalating in Gaza.
+      Is this really the best use of American weaponry?” Is this really the best use
+      of American weaponry? This is a morally idiotic question. We know the answer,
+      have known it for years, and we want our journals, intellectuals, and leaders
+      to say emphatically: No. Thanks to Donald Johnson Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Philip Weiss
+      Philip Weiss is senior editor of Mondoweiss.net and founded the site in 2005-06.
+      Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: The New York Times faced backlash for publishing a controversial
+      investigation into Zohran Mamdani's racial identity on a college application,
+      which has not harmed his political standing but has further damaged the paper's
+      credibility.
+    paragraph_summary: The New York Times recently published a controversial article
+      scrutinizing Zohran Mamdani, the Democratic nominee for mayor, regarding his racial
+      identity on a college application from 2009, suggesting he misrepresented himself
+      by identifying as both "Asian" and "Black or African-American." This investigation,
+      stemming from a hack of Columbia University admissions records, has been criticized
+      as a smear by Mamdani's supporters, who argue it disrespects the voters who have
+      propelled his political rise. Mamdani clarified that he checked multiple boxes
+      to reflect his diverse heritage, as there was no specific option for his Indian-Ugandan
+      background. Despite the article's intent to undermine him, it has not negatively
+      impacted Mamdani's campaign and has instead drawn attention to the Times' credibility,
+      while also being seized upon by pro-Israel groups opposed to his political stance.
+    published: '2025-07-08T12:31:27+00:00'
+  - title: ‘New York Times’ Mamdani Smear Shows How out of Touch the Paper Is With Progressives,
+      Especially on Palestine
+    url: https://scheerpost.com/2025/07/08/new-york-times-mamdani-smear-shows-how-out-of-touch-the-paper-is-with-progressives-especially-on-palestine/
+    text: 'Zohran Mamdani seen on stage at a campaign event. (Photo: Zohran Mamdani
+      campaign) In one of the scariest moments in modern history, we''re doing our best
+      at ScheerPost to pierce the fog of lies that conceal it but we need some help
+      to pay our writers and staff. Please consider a tax-deductible donation . By Philip
+      Weiss / Mondoweiss In a clear sign that it intends to batter Zohran Mamdani, the
+      Democratic nominee for mayor, and disrespect the voters who have generated the
+      leftwinger’s spectacular rise, the New York Times last week published a lengthy
+      investigation of Mamdani’s statement about his racial identity as a college applicant
+      in 2009 as if it had found a smoking gun. The ensuing controversy has done nothing
+      to hurt Mamdani politically but engulfed the Times, further damaging the paper’s
+      credibility. The July 3 article, titled “ Mamdani Identified as Asian and African
+      American on College Application ” was based on a hack of Columbia University admissions
+      records by a right-wing white nationalist and suggested that at 18, Mamdani lied
+      about his identity in his 2009 application to Columbia by checking boxes stating
+      that he was “Asian” and “Black or African-American.” Mamdani didn’t get in. As
+      the Times noted in gotcha style, Mamdani says on the campaign trail that he is
+      Muslim of South Asian heritage but “claimed another label” when he was a teenager.
+      “Most college applications don’t have a box for Indian-Ugandans, so I checked
+      multiple boxes trying to capture the fullness of my background,” Mamdani explained
+      to the Times . Mamdani was born in 1991 in Uganda, where his father’s Gujarati
+      family had lived for 100 years. The budding pol spent his first 7 years in Uganda
+      and has expressed pride in his African roots. The article’s gravity and length
+      and very-thin accusation have been condemned by Mamdani supporters as a smear
+      and a weak one, but have already predictably been picked up by pro-Israel groups
+      that hate Mamdani and his movement. The charge’s weakness was clear when House
+      minority leader Hakeem Jeffries, who still has not endorsed Mamdani, was asked
+      about it on MSNBC and changed the subject. He knows this is a foolish claim. Meanwhile,
+      the outrage over the article has again put the Times on the defensive over its
+      dismissive coverage of Mamdani. The paper is obviously at war with itself. Editors
+      have sought to justify the investigation, not very convincingly, and Times columnist
+      Jamelle Bouie posted, “i think you should tell readers if your source is a nazi.”
+      He then deleted the post. But later posted, “NYT & many of its elite white readers
+      are still obsessed with race-conscious college admissions,” according to Semafor
+      . The investigation is absurd and malignant for several reasons. Even if you buy
+      the premise that Mamdani stretched his identity at 18 to try and get into Columbia,
+      the story is laughable. We all know kids who have played up one part or another
+      of their identity. Big deal. And anyway, the evidence is not convincing. Mamdani’s
+      father was a professor of political science at Columbia at the time, so the admissions
+      office likely knew who he was. Mahmood Mamdani had lately published a book, “Good
+      Muslim, Bad Muslim,” in which he identified himself as a “third generation East
+      African of Indian descent” who “grew up in Kampala, Uganda.” But no one should
+      buy the premise here, because it is so ugly. That premise is that people have
+      fixed racial identities, and these categories are strict. The most disturbing
+      line in the article is this righteous bit—“asked if any of his family had intermarried
+      while in East Africa, he said in the interview on Thursday, ‘They’re all of Indian
+      origin, from Gujarat.’” As if Mamdani would be a legitimate “African” if his South
+      Asian family had mixed its blood with blacks? You’d think that pseudo-race science
+      would have no place in our best newspaper. Countless Americans today have fluid
+      identities, and we should respect their choices about what is important to them
+      in their own backgrounds. Barack Obama made such a choice, and it was honored.
+      It is hard to believe the NYT could possibly think this is a story. So yes, the
+      motivation is clear, they were trying to make it a scandal: all you have to do
+      is throw this out there and conservatives all over Twitter are saying he is a
+      commie Muslim liar… That’s another reason the investigation is absurd. This is
+      all they could come up with? The story doesn’t hurt Mamdani politically. His base
+      is appalled by it, and Democratic voters don’t care, as Hakeem Jeffries has indicated.
+      Jeffries is aware of the profound shifts taking place in the Democratic base that
+      Michael Arria and Peter Feld have documented here . Jeffries knows that when Mamdani
+      refused to apologize for defending the phrase “globalize the intifada,” the story
+      disappeared, but that when Senator Kirsten Gillibrand revived that line of attack
+      on WNYC by claiming that Mamdani supports jihad, she was forced to apologize for
+      Islamophobia. Young Democrats are aware and somewhat radicalized, and Jeffries
+      needs them if he is going to counter Trumpism. The Times is out of step with that
+      base. Of course, a newspaper gets to choose what it believes in. But the Times
+      is the most important newspaper in the country and a generally liberal voice,
+      and it is making grievous political and ethical errors in its coverage of a young
+      politician who excites a wide coalition for idealistic reasons. Because he is
+      optimistic and energetic and inclusive and offers a stirring vision for the future.
+      Some day the Times is sure to reflect this American political movement. But now
+      it is stuck by its own choice in the worst muck of the Israel lobby. The core
+      issue here is Israel. The young are mobilized by the horror of the Gaza genocide.
+      The Democratic base demands that its leaders express their outrage at Israel’s
+      rolling massacres and stop sending arms to war criminals. The Times has pointedly
+      refused to honor that point of view. The Times ’s acceptance of the genocide is
+      best captured by a piece by Nicholas Kristof, a liberal columnist at the paper,
+      when he wrote in April, “the Netanyahu government is now again escalating in Gaza.
+      Is this really the best use of American weaponry?” Is this really the best use
+      of American weaponry? This is a morally idiotic question. We know the answer,
+      have known it for years, and we want our journals, intellectuals, and leaders
+      to say emphatically: No. Thanks to Donald Johnson Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Philip Weiss
+      Philip Weiss is senior editor of Mondoweiss.net and founded the site in 2005-06.
+      Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: The New York Times faced backlash for publishing a controversial
+      investigation into Zohran Mamdani's racial identity on a college application,
+      which has not harmed his political standing but has further damaged the paper's
+      credibility.
+    paragraph_summary: The New York Times recently published a controversial article
+      scrutinizing Zohran Mamdani, the Democratic nominee for mayor, regarding his racial
+      identity on a college application from 2009, suggesting he misrepresented himself
+      by identifying as both "Asian" and "Black or African-American." This investigation,
+      stemming from a hack of Columbia University admissions records, has been criticized
+      as a smear by Mamdani's supporters, who argue it disrespects the voters who have
+      propelled his political rise. Mamdani clarified that he checked multiple boxes
+      to reflect his diverse heritage, as there was no specific option for his Indian-Ugandan
+      background. Despite the article's intent to undermine him, it has not negatively
+      impacted Mamdani's campaign and has instead drawn attention to the Times' credibility,
+      while also being seized upon by pro-Israel groups opposed to his political stance.
+    published: '2025-07-08T12:31:27+00:00'
+  - title: 'VIPS: Data Collection Can Be Effective AND Legal'
+    url: https://scheerpost.com/2025/07/07/vips-data-collection-can-be-effective-and-legal/
+    text: 'The National Security Agency, 2013. (Trevor Paglen, Commissioned by Creative
+      Time Reports/Wikimedia Common/Creative Commons CC0 1.0) In one of the scariest
+      moments in modern history, we''re doing our best at ScheerPost to pierce the fog
+      of lies that conceal it but we need some help to pay our writers and staff. Please
+      consider a tax-deductible donation . By Veteran Intelligence Professionals for
+      Sanity (VIPS) / Consortium News July 5, 2025 MEMORANDUM FOR: The President FROM:
+      Veteran Intelligence Professionals for Sanity (VIPS) SUBJECT: Data Collection
+      Can Be Effective and Legal Introduction It’s an Artificial Conundrum I t is not
+      necessary to make an end-run around the U.S. Constitution to thwart terrorism
+      and other crimes. Those claiming otherwise have been far from candid – especially
+      since June 2013, when Edward Snowden revealed gross violations of the Fourth Amendment
+      by NSA’s bulk electronic collection. U.S. citizens have been widely misled into
+      believing that their Constitutional right to privacy had to yield to a superseding
+      need to combat terrorism. The choice was presented as an Either-Or conundrum.
+      In what follows, we will show that this is a false choice. Rather, the “choice”
+      can be a Both-And . In sum, all that is needed is to place advanced technology
+      that has been already demonstrated into the hands of officials not driven by lust
+      for a cushy retirement. Sophisticated collection and processing technology that
+      also protects the right to privacy has been available for decades, enabling highly
+      efficient and discriminating collection. Despite that, top officials have opted
+      for quasi-legal, cumbersome, ineffective – and wildly expensive – technology that
+      has done little more than line the pockets of contractors and “old-friend” retirees.
+      U.S. officials have been caught lying under oath – with impunity – with false
+      claims about the effectiveness of the intrusive, high price-tag technology they
+      procured and implemented. In the Annex to this Memo we briefly portray the illustrative
+      behavior of one such senior official. We do so in the belief that a short case
+      study may shed light on the apparent motivation of many senior officials who seem
+      to take far too lightly their oath to defend and protect the Constitution of the
+      United States. We took the same oath. It has no expiration date. Security and
+      Privacy: NOT Incompatible Technology already available – and already demonstrated
+      to be effective – makes it possible for law-abiding officials, together with experienced
+      technical people to create a highly efficient system in which both security and
+      privacy can be assured. Again, the basic problems are corruption in government
+      and the prevailing incestuous relationships with contractors. Advanced technology
+      can pinpoint and thwart corruption in the intelligence, military, and civilian
+      domain. At its core, this requires automated analysis of attributes and transactional
+      relationships among individuals. The large data sets in government files already
+      contain the needed data. And proven methodologies can automatically isolate activity
+      of interest and equate this activity to profiles of interest, with inference to
+      intentions and capabilities. To implement this approach requires assigning trustworthy
+      people with deep knowledge of relevant activities in government agencies. This
+      is a monumental task as these government agencies have been evolving and operating
+      in their own way for decades and cloning their work force to perpetually operate
+      in that way. So, the real problem goes beyond top management. Sweeping changes
+      are required at all levels of management. Managing Intelligence Databases On the
+      Intelligence Community side, there are ways to purge databases of irrelevant data
+      and deny government officials the ability to spy on anyone they want. These methodologies
+      protect the privacy of innocent people, while enhancing the ability to discover
+      criminal threats. This process creates a rich but scaled-down environment to focus
+      analysts for optimum success. If this method had been in place in 2016, it would
+      have been impossible to spy on the president. In addition, this approach would
+      provide a basis to monitor other government activities – like use or testing of
+      biological or Directed Energy Weapons inside the U.S. – or other kinds of illegal
+      activity by any government agency. It also means honest expert input is available
+      to make sure the intelligence community does not deprive the White House of what
+      it needs to know about the collection systems of NSA and others – like those exposed
+      by Edward Snowden. This acquisition system can collect and store virtually all
+      data passed on the worldwide web and the public switched telephone network. Legal
+      Compliance In order to ensure continuous legal compliance with these changes,
+      it is necessary to establish a central technical group or organization to continuously
+      monitor and validate compliance with the Constitution and U.S. law. Such a group
+      would need to have the highest-level access to all agencies to ensure compliance
+      behind the classification doors. It must be able to go into any agency to inspect
+      its activity at any time. In addition, whenever possible, it would be best to
+      make government financial and operational transactions open to the public for
+      review as a means of assuring the public that government agencies are doing their
+      job properly. This new organization would be responsible for verifying that all
+      government agencies are continuing to play by the rules, thus validating compliance
+      with the law. Last, but hardly least, unbiased monitors must be in place to ensure
+      funds are invested on the basis of merit not on the age-old practice of “who you
+      know.” Potential For Abuse All the above-mentioned areas, and still more (e.g.,
+      import and export smuggling) can be exposed using these automated analytic processes.
+      But we need to emphasize that this could become a double-edged sword. These techniques
+      can be used against innocent people. Actually, data from NSA’s mass collection
+      is currently used by DOJ, F.B.I., DEA and DHS to target U.S. citizens, most of
+      them innocent. If automated analytic technology was added to the current state
+      of surveillance and combined with AI, robotics and drone technology, the result
+      would be devastating to privacy and to democracy. This is precisely why it is
+      absolutely critical to create a separate, independent, highly technical group
+      to inspect government agency activities at all classification levels and to give
+      that group the power to terminate special access programs that happen to be illegal,
+      but kept hidden. In addition, this group should also be given authority to perform
+      automated analysis of all government network logs. This, too, is key: a fail-safe
+      method to detect any attempt to hide activity from oversight and inspection. To
+      make this group or organization fully acceptable, it’s charter would probably
+      require it to report to all three branches of government. Such an organization
+      would go a long way toward making government truly transparent to the public in
+      these areas. Moreover, automated analysis of network logs could also make intrusion
+      detection easier to detect and thus improve cyber security. This would make it
+      possible to stop intruders before they do damage – no matter the nature of the
+      attack. Techniques That Are Both Legal and Effective In the above context, we
+      suggest the following techniques for the Intelligence Community and broader government
+      to manage mass surveillance data in a way that protects privacy, while maximizing
+      the probability of threat detection. (Again, what we propose has been tested.
+      In sum, it amounts to proof positive that it is unnecessary to sacrifice the right
+      to privacy for some perceived measure of enhanced security.) First, do a focused
+      professional study based on attributes and transactions that form the basis of
+      probable cause. These techniques could also be used to purge current data bases
+      of irrelevant data and enhance smart data collection. The following analytic techniques
+      would protect privacy, detect impending threats, and optimize productivity of
+      analysis: Focus on entities within two degrees of separation in communications
+      or transactional relationships. Here, the second degree must not go through a
+      commercial or government entity as this would pull in large numbers of irrelevant
+      entities and bury analysts in too much information making them dysfunctional.
+      This approach lets analysts focus on known targets and the ability to monitor
+      new or expanding elements of these threats. Target surveillance on entities that
+      have attributes like: frequent use of satellite phones in areas of the world where
+      terrorists, drug smugglers, or other criminal activities are prevalent; target
+      entities that frequently visit Internet sites that advocate violence, bomb making,
+      pedophilia, and other types of criminality; target entities based on asset or
+      informant information. Based on metadata, examine first degree networks in the
+      communications or transactional relationships that cluster in areas where criminal
+      activity is prevalent. This enables discovery of targets of interest previously
+      unknown. Created, Tested, Proven In-House: Then Thwarted By early 1998, our NSA
+      team in the SIGINT Automation Research Center (SARC) developed the ability to
+      reconstruct files at fiber optic rates in the worldwide Internet. This meant NSA
+      no longer had to select only a small percentage of internet data to process, but
+      could get all data. Now, the only limitation was available power and space for
+      equipment to process information. In August 1998, we gave a copy of this code
+      to an NSA station in Bad Aibling, Bavaria, Germany to test and critique. The specialists
+      at Bad Aibling found our method so superior to what they were using at the time
+      that they installed it across the entire site late on a Friday night. However,
+      they did not adopt our smart selection approach and continued to use the existing
+      selection system. This meant, when our system reconstructed virtually everything
+      on the lines, their existing selection system forwarded almost all of it. Consequently,
+      eight to twelve hours later the NSA data storage system was about to crash. We
+      were called in to shut down the input and prevent the impending crash. This event
+      made it clear to NSA management not only the magnitude of the data explosion in
+      the internet, but also that there were smart ways to address that data. That methodology
+      had been created in-house and were dirt cheap. Creation of Google In his book,
+      Pay Any Price (page 237), James Risen noted that at the time of the Bad Aibling
+      event, there was a near simultaneous development in the ultimate creation of what
+      became Google. It became clear several years later that both NSA and C.I.A. solicited
+      and funded efforts to develop Google in September 1998 just one month after the
+      Bad Aibling demonstration. So, in effect, the distributed data storage, metadata
+      indexed, content management, profile development system we had operating at NSA’s
+      SARC, and had been tested at Bad Aibling, was out-sourced to two beneficiaries
+      at Stanford (Larry Page and Sergey Brin). With still more government funding (as
+      well as access to SARC’s ingenuity and creative in-house system) Page and Brin
+      went on to develop Google. What followed inside NSA after the Bad Aibling event
+      was an effort to stop development of our in-house system – the one that had been
+      proven to work, but had now been given to Page and Brin. NSA management officially
+      shut SARC down in August 2001. Corruption The only fault in the unprecedentedly
+      efficient system we had created was not a technical flaw, but a matter of cost,
+      but it is not what you may be thinking. The system worked so well that it simply
+      cost too little. The contractor systems NSA ended up buying were much less efficient
+      but had the “advantage” of costing a lot more. Opting for outside systems required
+      a much bigger budget and more staff to manage and perform related functions for
+      the IC agencies involved. In addition, the mass data collection systems chosen
+      lacked privacy protections and gave government agencies information on virtually
+      everyone on the planet. (So much for the Fourth Amendment!) In sum, for the government
+      and for Silicon Valley, there were huge financial and bureaucratic motives to
+      stop us. For example, to develop our system to full capability in the NSA system
+      would have cost about 3.2 million dollars. In contrast, the development of other
+      privatized systems has cost the government 10’s of billions of dollars since 2001.
+      A good deal of that cost went to formulating an effective process to analyze data.
+      This effort was being done by contractors with expertise in classical technical
+      skills like computer programming. The basic skills required to resolve such issues,
+      however, are experience in intelligence analysis and in applying mathematics to
+      organizations. Annex: A Case Study In spring 2013, after Edward Snowden exposed
+      NSA abuses, U.S. intelligence directors misled Congress. In retrospect, it seems
+      clear they wanted to avoid being held accountable long enough to retire and cash
+      in (literally) on their experience managing technology centers and hiring contractors.
+      One example may suffice. Alexander the Great (Prevaricator) For one such official
+      this gambit worked like a charm. In 2013, NSA Director Gen. Keith Alexander went
+      on the offensive, accusing Edward Snowden of breaking the law and endangering
+      Americans. The supreme irony is that the lawbreaker was not Snowden. Rather, those
+      breaking the law were NSA directors like Alexander playing fast and loose with
+      the Fourth Amendment, and then claiming success in thwarting terrorism. After
+      9/11 it was child’s play to manipulate members of Congress to take liberties with
+      the Constitution and approve methods of dubious legality ostensibly to apprehend
+      terrorists. Few in Congress would risk voting against legislation that officials
+      like Gen. Alexander could later claim “might have prevented” an act of terrorism.
+      As explained above, the technical collection methods they chose were not only,
+      arguably, illegal. They were also so inefficient as to hinder, rather than help,
+      intelligence efforts to thwart terrorist attacks. Not to worry: the contractors
+      who introduced those systems profiteered grandly. So did the senior government
+      officials who awarded multiple contracts and then slipped into highly comfortable
+      retirement. Mr. Alexander is but one example. The public record shows that Alexander
+      lied repeatedly in sworn testimony to members of Congress, who were intimidated
+      into going along with his disingenuousness. After the Snowden disclosures, Alexander
+      testified under oath that 54 terrorist plots had been foiled by the bulk collection
+      in NSA’s vast phone records database. Under follow-up congressional questioning,
+      Alexander admitted that only 13 of those 54 cases had any connection to the U.S.
+      and that in only one, or perhaps two, of the 13 cases had a crime been foiled.
+      At a hearing on Oct. 7, 2013, Senate Judiciary chair Patrick Leahy (D, VT) corrected
+      Alexander’s prior testimony: “ There is no evidence that [bulk] phone records
+      collection helped to thwart dozens or even several terrorist plots. These weren’t
+      all plots and they weren’t foiled.” Lucrative Retirement When Gen. Alexander retired
+      in early 2014, he landed a multi-million-dollar technical consulting job. Members
+      of Congress accused him of profiteering by trading secrets for cash. Rep. Alan
+      Grayson (D-FL), for example, charged him with disclosing “classified information
+      to bank trade groups for monthly fees of up to $1,000,000.” In May 2014 Alexander
+      founded IronNet Cybersecurity. He made about $5 million in early stock sales and
+      bought a Florida mansion worth the same amount. Listed on the NYSE in 2021, IronNet
+      Cybersecurity was delisted in August 2023, leaving investors with worthless shares.
+      Principal author : William Binney, a former technical director at NSA, in collaboration
+      with Kirk Wiebe, a former senior analyst in NSA’s SIGINT Automation Research Center
+      (SARC). NOTE: In December 2016, Binney, in collaboration with Wiebe and other
+      VIPS members, drafted VIPS Memorandum, Allegations of Hacking Election Are Baseless
+      , which proved, on technical grounds, that the cornerstone of “Russiagate” was
+      a fraud. The (unintentionally hilarious) eight-page Tradecraft Review just issued
+      by CIA’s Director of Analysis (on June 26, 2025 ) conveniently avoids any mention
+      of “Russian hacking the DNC.” For more on Binney and his colleague NSA alumni,
+      see Friedrich Moser’s film A Good American (2015). Prepared under the auspices
+      of the Steering Group, Veteran Intelligence Professionals for Sanity (VIPS) William
+      Binney , former Technical Director, World Geopolitical & Military Analysis, NSA;
+      co-founder, SIGINT Automation Research Center (ret.) Marshall Carter-Tripp , Foreign
+      Service Officer (ret.) and   Division Director, State Department Bureau of Intelligence
+      and   Research Bogdan Dzakovic , former Team Leader of Federal Air Marshals and
+      Red Team, FAA Security, (ret.) (associate VIPS) Philip Girald i, C.I.A., Operations
+      Officer (ret.) Matthew Hoh , former Capt., USMC, Iraq and Foreign Service Officer,
+      Afghanistan (associate VIPS) Larry C. Johnson , former C.I.A. and State Department
+      Counter Terrorism officer John Kiriakou , former C.I.A. Counterterrorism Officer
+      and former senior investigator, Senate Foreign Relations Committee Karen Kwiatkowski
+      , former Lt. Col., U.S. Air Force (ret.), at Office of Secretary of Defense watching
+      the manufacture of lies on Iraq, 2001-2003 Ray McGovern , former U.S. Army infantry/intelligence
+      officer & C.I.A. analyst; C.I.A. Presidential briefer (ret.) Elizabeth Murray,
+      former Deputy National Intelligence Officer for the Near East, National Intelligence
+      Council & C.I.A. political analyst (ret.) Pedro Israel Orta, former C.I.A. and
+      Intelligence Community (Inspector General) officer Scott Ritter , former MAJ,
+      USMC; former U.N. Weapons Inspector, Iraq Kirk Wiebe , former Senior Analyst,
+      SIGINT Automation Research Center, NSA Sarah G. Wilton , CDR, USNR, (ret.); Defense
+      Intelligence Agency (ret.) Robert Wing , former Foreign Service Officer (associate
+      VIPS) Ann Wright , retired U.S. Army reserve colonel and former U.S. diplomat
+      who resigned in 2003 in opposition to the Iraq War Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Please share
+      this story and help us grow our network!'
+    one_sentence_summary: The Veteran Intelligence Professionals for Sanity (VIPS) argue
+      in a memorandum that effective and legal data collection methods exist to combat
+      terrorism without violating the Fourth Amendment, countering claims made since
+      Edward Snowden's revelations about NSA's bulk surveillance practices.
+    paragraph_summary: The Veteran Intelligence Professionals for Sanity (VIPS) issued
+      a memorandum to the President arguing that effective data collection to combat
+      terrorism and crime does not require violating the U.S. Constitution, particularly
+      the Fourth Amendment, as revealed by Edward Snowden in 2013. They contend that
+      the narrative suggesting a trade-off between national security and privacy rights
+      is misleading, advocating instead for a "Both-And" approach that utilizes existing
+      advanced technology to ensure both security and privacy. The memo criticizes government
+      officials for opting for expensive and ineffective surveillance methods that benefit
+      contractors rather than the public, highlighting a pattern of dishonesty regarding
+      the effectiveness of these intrusive technologies.
+    published: '2025-07-07T15:43:45+00:00'
+  - title: 'VIPS: Data Collection Can Be Effective AND Legal'
+    url: https://scheerpost.com/2025/07/07/vips-data-collection-can-be-effective-and-legal/
+    text: 'The National Security Agency, 2013. (Trevor Paglen, Commissioned by Creative
+      Time Reports/Wikimedia Common/Creative Commons CC0 1.0) In one of the scariest
+      moments in modern history, we''re doing our best at ScheerPost to pierce the fog
+      of lies that conceal it but we need some help to pay our writers and staff. Please
+      consider a tax-deductible donation . By Veteran Intelligence Professionals for
+      Sanity (VIPS) / Consortium News July 5, 2025 MEMORANDUM FOR: The President FROM:
+      Veteran Intelligence Professionals for Sanity (VIPS) SUBJECT: Data Collection
+      Can Be Effective and Legal Introduction It’s an Artificial Conundrum I t is not
+      necessary to make an end-run around the U.S. Constitution to thwart terrorism
+      and other crimes. Those claiming otherwise have been far from candid – especially
+      since June 2013, when Edward Snowden revealed gross violations of the Fourth Amendment
+      by NSA’s bulk electronic collection. U.S. citizens have been widely misled into
+      believing that their Constitutional right to privacy had to yield to a superseding
+      need to combat terrorism. The choice was presented as an Either-Or conundrum.
+      In what follows, we will show that this is a false choice. Rather, the “choice”
+      can be a Both-And . In sum, all that is needed is to place advanced technology
+      that has been already demonstrated into the hands of officials not driven by lust
+      for a cushy retirement. Sophisticated collection and processing technology that
+      also protects the right to privacy has been available for decades, enabling highly
+      efficient and discriminating collection. Despite that, top officials have opted
+      for quasi-legal, cumbersome, ineffective – and wildly expensive – technology that
+      has done little more than line the pockets of contractors and “old-friend” retirees.
+      U.S. officials have been caught lying under oath – with impunity – with false
+      claims about the effectiveness of the intrusive, high price-tag technology they
+      procured and implemented. In the Annex to this Memo we briefly portray the illustrative
+      behavior of one such senior official. We do so in the belief that a short case
+      study may shed light on the apparent motivation of many senior officials who seem
+      to take far too lightly their oath to defend and protect the Constitution of the
+      United States. We took the same oath. It has no expiration date. Security and
+      Privacy: NOT Incompatible Technology already available – and already demonstrated
+      to be effective – makes it possible for law-abiding officials, together with experienced
+      technical people to create a highly efficient system in which both security and
+      privacy can be assured. Again, the basic problems are corruption in government
+      and the prevailing incestuous relationships with contractors. Advanced technology
+      can pinpoint and thwart corruption in the intelligence, military, and civilian
+      domain. At its core, this requires automated analysis of attributes and transactional
+      relationships among individuals. The large data sets in government files already
+      contain the needed data. And proven methodologies can automatically isolate activity
+      of interest and equate this activity to profiles of interest, with inference to
+      intentions and capabilities. To implement this approach requires assigning trustworthy
+      people with deep knowledge of relevant activities in government agencies. This
+      is a monumental task as these government agencies have been evolving and operating
+      in their own way for decades and cloning their work force to perpetually operate
+      in that way. So, the real problem goes beyond top management. Sweeping changes
+      are required at all levels of management. Managing Intelligence Databases On the
+      Intelligence Community side, there are ways to purge databases of irrelevant data
+      and deny government officials the ability to spy on anyone they want. These methodologies
+      protect the privacy of innocent people, while enhancing the ability to discover
+      criminal threats. This process creates a rich but scaled-down environment to focus
+      analysts for optimum success. If this method had been in place in 2016, it would
+      have been impossible to spy on the president. In addition, this approach would
+      provide a basis to monitor other government activities – like use or testing of
+      biological or Directed Energy Weapons inside the U.S. – or other kinds of illegal
+      activity by any government agency. It also means honest expert input is available
+      to make sure the intelligence community does not deprive the White House of what
+      it needs to know about the collection systems of NSA and others – like those exposed
+      by Edward Snowden. This acquisition system can collect and store virtually all
+      data passed on the worldwide web and the public switched telephone network. Legal
+      Compliance In order to ensure continuous legal compliance with these changes,
+      it is necessary to establish a central technical group or organization to continuously
+      monitor and validate compliance with the Constitution and U.S. law. Such a group
+      would need to have the highest-level access to all agencies to ensure compliance
+      behind the classification doors. It must be able to go into any agency to inspect
+      its activity at any time. In addition, whenever possible, it would be best to
+      make government financial and operational transactions open to the public for
+      review as a means of assuring the public that government agencies are doing their
+      job properly. This new organization would be responsible for verifying that all
+      government agencies are continuing to play by the rules, thus validating compliance
+      with the law. Last, but hardly least, unbiased monitors must be in place to ensure
+      funds are invested on the basis of merit not on the age-old practice of “who you
+      know.” Potential For Abuse All the above-mentioned areas, and still more (e.g.,
+      import and export smuggling) can be exposed using these automated analytic processes.
+      But we need to emphasize that this could become a double-edged sword. These techniques
+      can be used against innocent people. Actually, data from NSA’s mass collection
+      is currently used by DOJ, F.B.I., DEA and DHS to target U.S. citizens, most of
+      them innocent. If automated analytic technology was added to the current state
+      of surveillance and combined with AI, robotics and drone technology, the result
+      would be devastating to privacy and to democracy. This is precisely why it is
+      absolutely critical to create a separate, independent, highly technical group
+      to inspect government agency activities at all classification levels and to give
+      that group the power to terminate special access programs that happen to be illegal,
+      but kept hidden. In addition, this group should also be given authority to perform
+      automated analysis of all government network logs. This, too, is key: a fail-safe
+      method to detect any attempt to hide activity from oversight and inspection. To
+      make this group or organization fully acceptable, it’s charter would probably
+      require it to report to all three branches of government. Such an organization
+      would go a long way toward making government truly transparent to the public in
+      these areas. Moreover, automated analysis of network logs could also make intrusion
+      detection easier to detect and thus improve cyber security. This would make it
+      possible to stop intruders before they do damage – no matter the nature of the
+      attack. Techniques That Are Both Legal and Effective In the above context, we
+      suggest the following techniques for the Intelligence Community and broader government
+      to manage mass surveillance data in a way that protects privacy, while maximizing
+      the probability of threat detection. (Again, what we propose has been tested.
+      In sum, it amounts to proof positive that it is unnecessary to sacrifice the right
+      to privacy for some perceived measure of enhanced security.) First, do a focused
+      professional study based on attributes and transactions that form the basis of
+      probable cause. These techniques could also be used to purge current data bases
+      of irrelevant data and enhance smart data collection. The following analytic techniques
+      would protect privacy, detect impending threats, and optimize productivity of
+      analysis: Focus on entities within two degrees of separation in communications
+      or transactional relationships. Here, the second degree must not go through a
+      commercial or government entity as this would pull in large numbers of irrelevant
+      entities and bury analysts in too much information making them dysfunctional.
+      This approach lets analysts focus on known targets and the ability to monitor
+      new or expanding elements of these threats. Target surveillance on entities that
+      have attributes like: frequent use of satellite phones in areas of the world where
+      terrorists, drug smugglers, or other criminal activities are prevalent; target
+      entities that frequently visit Internet sites that advocate violence, bomb making,
+      pedophilia, and other types of criminality; target entities based on asset or
+      informant information. Based on metadata, examine first degree networks in the
+      communications or transactional relationships that cluster in areas where criminal
+      activity is prevalent. This enables discovery of targets of interest previously
+      unknown. Created, Tested, Proven In-House: Then Thwarted By early 1998, our NSA
+      team in the SIGINT Automation Research Center (SARC) developed the ability to
+      reconstruct files at fiber optic rates in the worldwide Internet. This meant NSA
+      no longer had to select only a small percentage of internet data to process, but
+      could get all data. Now, the only limitation was available power and space for
+      equipment to process information. In August 1998, we gave a copy of this code
+      to an NSA station in Bad Aibling, Bavaria, Germany to test and critique. The specialists
+      at Bad Aibling found our method so superior to what they were using at the time
+      that they installed it across the entire site late on a Friday night. However,
+      they did not adopt our smart selection approach and continued to use the existing
+      selection system. This meant, when our system reconstructed virtually everything
+      on the lines, their existing selection system forwarded almost all of it. Consequently,
+      eight to twelve hours later the NSA data storage system was about to crash. We
+      were called in to shut down the input and prevent the impending crash. This event
+      made it clear to NSA management not only the magnitude of the data explosion in
+      the internet, but also that there were smart ways to address that data. That methodology
+      had been created in-house and were dirt cheap. Creation of Google In his book,
+      Pay Any Price (page 237), James Risen noted that at the time of the Bad Aibling
+      event, there was a near simultaneous development in the ultimate creation of what
+      became Google. It became clear several years later that both NSA and C.I.A. solicited
+      and funded efforts to develop Google in September 1998 just one month after the
+      Bad Aibling demonstration. So, in effect, the distributed data storage, metadata
+      indexed, content management, profile development system we had operating at NSA’s
+      SARC, and had been tested at Bad Aibling, was out-sourced to two beneficiaries
+      at Stanford (Larry Page and Sergey Brin). With still more government funding (as
+      well as access to SARC’s ingenuity and creative in-house system) Page and Brin
+      went on to develop Google. What followed inside NSA after the Bad Aibling event
+      was an effort to stop development of our in-house system – the one that had been
+      proven to work, but had now been given to Page and Brin. NSA management officially
+      shut SARC down in August 2001. Corruption The only fault in the unprecedentedly
+      efficient system we had created was not a technical flaw, but a matter of cost,
+      but it is not what you may be thinking. The system worked so well that it simply
+      cost too little. The contractor systems NSA ended up buying were much less efficient
+      but had the “advantage” of costing a lot more. Opting for outside systems required
+      a much bigger budget and more staff to manage and perform related functions for
+      the IC agencies involved. In addition, the mass data collection systems chosen
+      lacked privacy protections and gave government agencies information on virtually
+      everyone on the planet. (So much for the Fourth Amendment!) In sum, for the government
+      and for Silicon Valley, there were huge financial and bureaucratic motives to
+      stop us. For example, to develop our system to full capability in the NSA system
+      would have cost about 3.2 million dollars. In contrast, the development of other
+      privatized systems has cost the government 10’s of billions of dollars since 2001.
+      A good deal of that cost went to formulating an effective process to analyze data.
+      This effort was being done by contractors with expertise in classical technical
+      skills like computer programming. The basic skills required to resolve such issues,
+      however, are experience in intelligence analysis and in applying mathematics to
+      organizations. Annex: A Case Study In spring 2013, after Edward Snowden exposed
+      NSA abuses, U.S. intelligence directors misled Congress. In retrospect, it seems
+      clear they wanted to avoid being held accountable long enough to retire and cash
+      in (literally) on their experience managing technology centers and hiring contractors.
+      One example may suffice. Alexander the Great (Prevaricator) For one such official
+      this gambit worked like a charm. In 2013, NSA Director Gen. Keith Alexander went
+      on the offensive, accusing Edward Snowden of breaking the law and endangering
+      Americans. The supreme irony is that the lawbreaker was not Snowden. Rather, those
+      breaking the law were NSA directors like Alexander playing fast and loose with
+      the Fourth Amendment, and then claiming success in thwarting terrorism. After
+      9/11 it was child’s play to manipulate members of Congress to take liberties with
+      the Constitution and approve methods of dubious legality ostensibly to apprehend
+      terrorists. Few in Congress would risk voting against legislation that officials
+      like Gen. Alexander could later claim “might have prevented” an act of terrorism.
+      As explained above, the technical collection methods they chose were not only,
+      arguably, illegal. They were also so inefficient as to hinder, rather than help,
+      intelligence efforts to thwart terrorist attacks. Not to worry: the contractors
+      who introduced those systems profiteered grandly. So did the senior government
+      officials who awarded multiple contracts and then slipped into highly comfortable
+      retirement. Mr. Alexander is but one example. The public record shows that Alexander
+      lied repeatedly in sworn testimony to members of Congress, who were intimidated
+      into going along with his disingenuousness. After the Snowden disclosures, Alexander
+      testified under oath that 54 terrorist plots had been foiled by the bulk collection
+      in NSA’s vast phone records database. Under follow-up congressional questioning,
+      Alexander admitted that only 13 of those 54 cases had any connection to the U.S.
+      and that in only one, or perhaps two, of the 13 cases had a crime been foiled.
+      At a hearing on Oct. 7, 2013, Senate Judiciary chair Patrick Leahy (D, VT) corrected
+      Alexander’s prior testimony: “ There is no evidence that [bulk] phone records
+      collection helped to thwart dozens or even several terrorist plots. These weren’t
+      all plots and they weren’t foiled.” Lucrative Retirement When Gen. Alexander retired
+      in early 2014, he landed a multi-million-dollar technical consulting job. Members
+      of Congress accused him of profiteering by trading secrets for cash. Rep. Alan
+      Grayson (D-FL), for example, charged him with disclosing “classified information
+      to bank trade groups for monthly fees of up to $1,000,000.” In May 2014 Alexander
+      founded IronNet Cybersecurity. He made about $5 million in early stock sales and
+      bought a Florida mansion worth the same amount. Listed on the NYSE in 2021, IronNet
+      Cybersecurity was delisted in August 2023, leaving investors with worthless shares.
+      Principal author : William Binney, a former technical director at NSA, in collaboration
+      with Kirk Wiebe, a former senior analyst in NSA’s SIGINT Automation Research Center
+      (SARC). NOTE: In December 2016, Binney, in collaboration with Wiebe and other
+      VIPS members, drafted VIPS Memorandum, Allegations of Hacking Election Are Baseless
+      , which proved, on technical grounds, that the cornerstone of “Russiagate” was
+      a fraud. The (unintentionally hilarious) eight-page Tradecraft Review just issued
+      by CIA’s Director of Analysis (on June 26, 2025 ) conveniently avoids any mention
+      of “Russian hacking the DNC.” For more on Binney and his colleague NSA alumni,
+      see Friedrich Moser’s film A Good American (2015). Prepared under the auspices
+      of the Steering Group, Veteran Intelligence Professionals for Sanity (VIPS) William
+      Binney , former Technical Director, World Geopolitical & Military Analysis, NSA;
+      co-founder, SIGINT Automation Research Center (ret.) Marshall Carter-Tripp , Foreign
+      Service Officer (ret.) and   Division Director, State Department Bureau of Intelligence
+      and   Research Bogdan Dzakovic , former Team Leader of Federal Air Marshals and
+      Red Team, FAA Security, (ret.) (associate VIPS) Philip Girald i, C.I.A., Operations
+      Officer (ret.) Matthew Hoh , former Capt., USMC, Iraq and Foreign Service Officer,
+      Afghanistan (associate VIPS) Larry C. Johnson , former C.I.A. and State Department
+      Counter Terrorism officer John Kiriakou , former C.I.A. Counterterrorism Officer
+      and former senior investigator, Senate Foreign Relations Committee Karen Kwiatkowski
+      , former Lt. Col., U.S. Air Force (ret.), at Office of Secretary of Defense watching
+      the manufacture of lies on Iraq, 2001-2003 Ray McGovern , former U.S. Army infantry/intelligence
+      officer & C.I.A. analyst; C.I.A. Presidential briefer (ret.) Elizabeth Murray,
+      former Deputy National Intelligence Officer for the Near East, National Intelligence
+      Council & C.I.A. political analyst (ret.) Pedro Israel Orta, former C.I.A. and
+      Intelligence Community (Inspector General) officer Scott Ritter , former MAJ,
+      USMC; former U.N. Weapons Inspector, Iraq Kirk Wiebe , former Senior Analyst,
+      SIGINT Automation Research Center, NSA Sarah G. Wilton , CDR, USNR, (ret.); Defense
+      Intelligence Agency (ret.) Robert Wing , former Foreign Service Officer (associate
+      VIPS) Ann Wright , retired U.S. Army reserve colonel and former U.S. diplomat
+      who resigned in 2003 in opposition to the Iraq War Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Please share
+      this story and help us grow our network!'
+    one_sentence_summary: The Veteran Intelligence Professionals for Sanity (VIPS) argue
+      in a memorandum that effective and legal data collection methods exist to combat
+      terrorism without violating the Fourth Amendment, countering claims made since
+      Edward Snowden's revelations about NSA's bulk surveillance practices.
+    paragraph_summary: The Veteran Intelligence Professionals for Sanity (VIPS) issued
+      a memorandum to the President arguing that effective data collection to combat
+      terrorism and crime does not require violating the U.S. Constitution, particularly
+      the Fourth Amendment, as revealed by Edward Snowden in 2013. They contend that
+      the narrative suggesting a trade-off between national security and privacy rights
+      is misleading, advocating instead for a "Both-And" approach that utilizes existing
+      advanced technology to ensure both security and privacy. The memo criticizes government
+      officials for opting for expensive and ineffective surveillance methods that benefit
+      contractors rather than the public, highlighting a pattern of dishonesty regarding
+      the effectiveness of these intrusive technologies.
+    published: '2025-07-07T15:43:45+00:00'
+  - title: New Footage Exposes Ragtag US Mercenaries Firing Toward Gaza Aid Seekers
+    url: https://scheerpost.com/2025/07/07/new-footage-exposes-ragtag-us-mercenaries-firing-toward-gaza-aid-seekers/
+    text: 'Golani Brigade soldier in Gaza. מעיין כהן 04, CC0, via Wikimedia Commons
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Max Blumenthal and Wyatt
+      Reed / The Grayzone On July 2, the Associated Press released an exposé containing
+      short videos which appeared to show American mercenaries associated with the Gaza
+      Humanitarian Foundation (GHF) opening fire on aid-seekers in Gaza during an incident
+      in southern Gaza this May. The footage was supplied by a former employee of UG
+      Solutions, a firm charged with securing GHF distribution sites. “I think you hit
+      one,” one soldier of fortune says to another following a loud burst of gunfire.
+      “Hell yeah, boy!” another exclaims. In an apparent attempt to control the damage
+      from the AP investigation, UG Solutions has distributed a pair of videos comprising
+      over seven minutes of footage to the press. The newly released footage offers
+      an unprecedented glimpse of the disturbing interactions between the starving population
+      of Gaza and well-armed, clearly unprepared Americans hired to provide security
+      for GHF’s chaotic aid operations. Filmed by one of its own employee, the recordings
+      were seemingly distributed in an effort to show UG Solutions’ agents have not
+      fired live bullets on unarmed crowds of Palestinians. According to a UG Solutions
+      statement, the videos “not only clarify what happened, but provide critical context,
+      which contradicts that [sic] AP’s reporting and shows that the accusations are
+      unfounded.” However, a closer examination by The Grayzone demonstrates that the
+      video was anything but exculpatory. In one video, a ragtag group of mercenaries
+      can be seen firing what they called “warning shots” toward a crowd of Palestinian
+      civilians, whom they acknowledged to be non-threatening, before radioing the notoriously
+      trigger-happy Israeli military for backup. Following a series of nearby gunshots,
+      a UG Solutions mercenary can be heard radioing the IDF to inform them, “We are
+      firing warning shots. Warning shots – that’s from us,” he says. Like all others
+      heard in the video, he speaks in an American accent. Seconds before the gunshots
+      ring out, a UG Solutions agent can be seen in the lower left hand corner of the
+      screen aiming his rifle in the direction of a crowd of aid seekers. These crucial
+      pieces of evidence undermine claims by a UG Solutions spokesman, who told the
+      AP he was “unaware of video showing gunfire from someone believed to be a UG Solutions
+      contractor.” While eroding the mercenary firm’s defense, the UG Solutions video
+      also underscores the shambolic state of GHF’s supposedly humanitarian operations.
+      Mercenary candid camera exposes “amateur hour” In the footage, the mercenary filming
+      acknowledges that he and his fellow guns for hire are unable to exchange even
+      basic Arabic phrases with the starving crowds. “Think I’m gonna write down some…
+      Arabic words,” he says, before rattling off a series of expressions that reflected
+      his team’s lack of training and utter inability to communicate: “Tomorrow. Back.
+      Go home. Stop.” The mercenary tacitly acknowledges that in the absence of translation
+      help, he and his team have been forced to rely on English speaking Gazan aid seekers.
+      “There were a couple [Palestinians] that, like you said, spoke decent English,
+      that were pretty helpful.” “I think for the most part they don’t have any mal
+      intent, because they’re desperate,” the American continues, noting the absence
+      of genuine security threats. A nearby mercenary chimes in, “They’re desperate
+      as fuck.” Later, the cameraman complains that refugees hauled off a light pole
+      and a nearby tree — presumably for firewood — before grumbling that the desperate
+      crowds took GHF’s distribution tables from the site as well. The unsettling video
+      seems to corroborate a high ranking UG Solutions contractor’s characterization
+      of the firm’s Gaza operations as “amateur hour.” US spooks and ISIS affiliates
+      team up with Israel. What could go wrong? UG Solutions splits armed operations
+      in the besieged Gaza Strip with another US private mercenary firm, Safe Reach
+      Solutions, which was founded by former CIA operative Philip Reilly. Both operate
+      under the auspices of the Trump-aligned Gaza Humanitarian Foundation, which received
+      an initial investment from McNally Capital, a private equity firm founded by mapping
+      heir Ward McNally. The Grayzone has reported that GHF also appears to have received
+      substantial funding from Israel’s Mossad and Ministry of Defense. The US Department
+      of State has since pledged $30 million dollars to keep the scandal-stained GHF
+      operations afloat. As of July 6, 2025, over 700 people had been killed at the
+      hands of the only armed factions operating in the so-called “humanitarian zones”:
+      the GHF, Israel, and the formerly ISIS-aligned clan of Bedouin gang leader Yasser
+      Abu Shabab , who was recently deputized as Israel’s local enforcers. Several Israeli
+      soldiers have told Haaretz that they received orders to fire at aid seekers drawn
+      to GHF distribution hubs, causing high numbers of deaths and injuries. “Where
+      I was stationed, between one and five people were killed every day,” one soldier
+      told the Israeli paper. “They’re treated like a hostile force – no crowd-control
+      measures, no tear gas – just live fire with everything imaginable: heavy machine
+      guns, grenade launchers, mortars.” Editor’s Note : A t a moment when the once
+      vaunted model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Max Blumenthal The editor-in-chief
+      of The Grayzone, Max Blumenthal is an award-winning journalist and the author
+      of several books, including best-selling Republican Gomorrah , Goliath , The Fifty
+      One Day War , and The Management of Savagery . He has produced print articles
+      for an array of publications, many video reports, and several documentaries, including
+      Killing Gaza . Blumenthal founded The Grayzone in 2015 to shine a journalistic
+      light on America’s state of perpetual war and its dangerous domestic repercussions.
+      Author Site Wyatt Reed Wyatt Reed is a correspondent and managing editor of The
+      Grayzone. Follow him on Twitter at @wyattreed13. Author Site Please share this
+      story and help us grow our network!'
+    one_sentence_summary: An exposé by the Associated Press reveals footage of American
+      mercenaries allegedly shooting at aid-seekers in Gaza, prompting UG Solutions
+      to release counter-videos in an attempt to mitigate the fallout from the investigation.
+    paragraph_summary: An exposé by the Associated Press revealed disturbing footage
+      of American mercenaries linked to the Gaza Humanitarian Foundation (GHF) opening
+      fire on aid-seekers in Gaza, raising serious concerns about the conduct of these
+      hired security personnel. The videos, provided by a former employee of UG Solutions,
+      show mercenaries celebrating after gunfire and attempting to control the narrative
+      by releasing additional footage to counter the AP's claims. Despite UG Solutions'
+      assertion that their videos clarify the situation and refute accusations of misconduct,
+      an analysis by The Grayzone suggests that the footage actually highlights the
+      mercenaries' reckless behavior, including firing "warning shots" at non-threatening
+      Palestinian civilians before calling in the Israeli military for support.
+    published: '2025-07-07T15:38:55+00:00'
+  - title: New Footage Exposes Ragtag US Mercenaries Firing Toward Gaza Aid Seekers
+    url: https://scheerpost.com/2025/07/07/new-footage-exposes-ragtag-us-mercenaries-firing-toward-gaza-aid-seekers/
+    text: 'Golani Brigade soldier in Gaza. מעיין כהן 04, CC0, via Wikimedia Commons
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Max Blumenthal and Wyatt
+      Reed / The Grayzone On July 2, the Associated Press released an exposé containing
+      short videos which appeared to show American mercenaries associated with the Gaza
+      Humanitarian Foundation (GHF) opening fire on aid-seekers in Gaza during an incident
+      in southern Gaza this May. The footage was supplied by a former employee of UG
+      Solutions, a firm charged with securing GHF distribution sites. “I think you hit
+      one,” one soldier of fortune says to another following a loud burst of gunfire.
+      “Hell yeah, boy!” another exclaims. In an apparent attempt to control the damage
+      from the AP investigation, UG Solutions has distributed a pair of videos comprising
+      over seven minutes of footage to the press. The newly released footage offers
+      an unprecedented glimpse of the disturbing interactions between the starving population
+      of Gaza and well-armed, clearly unprepared Americans hired to provide security
+      for GHF’s chaotic aid operations. Filmed by one of its own employee, the recordings
+      were seemingly distributed in an effort to show UG Solutions’ agents have not
+      fired live bullets on unarmed crowds of Palestinians. According to a UG Solutions
+      statement, the videos “not only clarify what happened, but provide critical context,
+      which contradicts that [sic] AP’s reporting and shows that the accusations are
+      unfounded.” However, a closer examination by The Grayzone demonstrates that the
+      video was anything but exculpatory. In one video, a ragtag group of mercenaries
+      can be seen firing what they called “warning shots” toward a crowd of Palestinian
+      civilians, whom they acknowledged to be non-threatening, before radioing the notoriously
+      trigger-happy Israeli military for backup. Following a series of nearby gunshots,
+      a UG Solutions mercenary can be heard radioing the IDF to inform them, “We are
+      firing warning shots. Warning shots – that’s from us,” he says. Like all others
+      heard in the video, he speaks in an American accent. Seconds before the gunshots
+      ring out, a UG Solutions agent can be seen in the lower left hand corner of the
+      screen aiming his rifle in the direction of a crowd of aid seekers. These crucial
+      pieces of evidence undermine claims by a UG Solutions spokesman, who told the
+      AP he was “unaware of video showing gunfire from someone believed to be a UG Solutions
+      contractor.” While eroding the mercenary firm’s defense, the UG Solutions video
+      also underscores the shambolic state of GHF’s supposedly humanitarian operations.
+      Mercenary candid camera exposes “amateur hour” In the footage, the mercenary filming
+      acknowledges that he and his fellow guns for hire are unable to exchange even
+      basic Arabic phrases with the starving crowds. “Think I’m gonna write down some…
+      Arabic words,” he says, before rattling off a series of expressions that reflected
+      his team’s lack of training and utter inability to communicate: “Tomorrow. Back.
+      Go home. Stop.” The mercenary tacitly acknowledges that in the absence of translation
+      help, he and his team have been forced to rely on English speaking Gazan aid seekers.
+      “There were a couple [Palestinians] that, like you said, spoke decent English,
+      that were pretty helpful.” “I think for the most part they don’t have any mal
+      intent, because they’re desperate,” the American continues, noting the absence
+      of genuine security threats. A nearby mercenary chimes in, “They’re desperate
+      as fuck.” Later, the cameraman complains that refugees hauled off a light pole
+      and a nearby tree — presumably for firewood — before grumbling that the desperate
+      crowds took GHF’s distribution tables from the site as well. The unsettling video
+      seems to corroborate a high ranking UG Solutions contractor’s characterization
+      of the firm’s Gaza operations as “amateur hour.” US spooks and ISIS affiliates
+      team up with Israel. What could go wrong? UG Solutions splits armed operations
+      in the besieged Gaza Strip with another US private mercenary firm, Safe Reach
+      Solutions, which was founded by former CIA operative Philip Reilly. Both operate
+      under the auspices of the Trump-aligned Gaza Humanitarian Foundation, which received
+      an initial investment from McNally Capital, a private equity firm founded by mapping
+      heir Ward McNally. The Grayzone has reported that GHF also appears to have received
+      substantial funding from Israel’s Mossad and Ministry of Defense. The US Department
+      of State has since pledged $30 million dollars to keep the scandal-stained GHF
+      operations afloat. As of July 6, 2025, over 700 people had been killed at the
+      hands of the only armed factions operating in the so-called “humanitarian zones”:
+      the GHF, Israel, and the formerly ISIS-aligned clan of Bedouin gang leader Yasser
+      Abu Shabab , who was recently deputized as Israel’s local enforcers. Several Israeli
+      soldiers have told Haaretz that they received orders to fire at aid seekers drawn
+      to GHF distribution hubs, causing high numbers of deaths and injuries. “Where
+      I was stationed, between one and five people were killed every day,” one soldier
+      told the Israeli paper. “They’re treated like a hostile force – no crowd-control
+      measures, no tear gas – just live fire with everything imaginable: heavy machine
+      guns, grenade launchers, mortars.” Editor’s Note : A t a moment when the once
+      vaunted model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Max Blumenthal The editor-in-chief
+      of The Grayzone, Max Blumenthal is an award-winning journalist and the author
+      of several books, including best-selling Republican Gomorrah , Goliath , The Fifty
+      One Day War , and The Management of Savagery . He has produced print articles
+      for an array of publications, many video reports, and several documentaries, including
+      Killing Gaza . Blumenthal founded The Grayzone in 2015 to shine a journalistic
+      light on America’s state of perpetual war and its dangerous domestic repercussions.
+      Author Site Wyatt Reed Wyatt Reed is a correspondent and managing editor of The
+      Grayzone. Follow him on Twitter at @wyattreed13. Author Site Please share this
+      story and help us grow our network!'
+    one_sentence_summary: An exposé by the Associated Press reveals footage of American
+      mercenaries allegedly shooting at aid-seekers in Gaza, prompting UG Solutions
+      to release counter-videos in an attempt to mitigate the fallout from the investigation.
+    paragraph_summary: An exposé by the Associated Press revealed disturbing footage
+      of American mercenaries linked to the Gaza Humanitarian Foundation (GHF) opening
+      fire on aid-seekers in Gaza, raising serious concerns about the conduct of these
+      hired security personnel. The videos, provided by a former employee of UG Solutions,
+      show mercenaries celebrating after gunfire and attempting to control the narrative
+      by releasing additional footage to counter the AP's claims. Despite UG Solutions'
+      assertion that their videos clarify the situation and refute accusations of misconduct,
+      an analysis by The Grayzone suggests that the footage actually highlights the
+      mercenaries' reckless behavior, including firing "warning shots" at non-threatening
+      Palestinian civilians before calling in the Israeli military for support.
+    published: '2025-07-07T15:38:55+00:00'
+  - title: FDA Layoffs Could Compromise Safety of Medications Made at Foreign Factories,
+      Inspectors Say
+    url: https://scheerpost.com/2025/07/07/fda-layoffs-could-compromise-safety-of-medications-made-at-foreign-factories-inspectors-say/
+    text: 'Photo by Roberto Sorin on Unsplash In one of the scariest moments in modern
+      history, we''re doing our best at ScheerPost to pierce the fog of lies that conceal
+      it but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Victoria Malis, Katherine Dailey and Sadie Leite, Medill Investigative
+      Lab, and Debbie Cenziper and Megan Rose, ProPublica Inspectors charged with safeguarding
+      America’s drug supply say they are reeling from deep cuts at the Food and Drug
+      Administration despite promises by the Trump administration to preserve the work
+      of the agency’s investigative force. Dozens of people who help coordinate travel
+      for complex inspections of foreign drug-making factories have been let go, and
+      though some have since been rehired, inspectors said the ongoing strain of policing
+      an industry spread across more than 90 countries has exhausted staff and could
+      compromise the safety of medications used by millions of people. For years, inspectors
+      have uncovered dirty equipment, contaminated supplies and fraudulent testing records
+      in some overseas factories — serious safety and quality breaches that can sicken
+      or kill consumers. Last month, ProPublica reported that a generic immunosuppression
+      drug for transplant patients could dissolve too quickly when ingested, increasing
+      the risk of kidney failure. The drug was made at an Indian factory with a history
+      of quality violations that was banned from the U.S. market. The company previously
+      told ProPublica it believes the medication is safe. In April, more than 3,500
+      FDA employees were laid off under U.S. Department and Health and Human Services
+      Secretary Robert F. Kennedy Jr., a roughly 15% reduction in force. “We aren’t
+      just reducing bureaucratic sprawl. We are realigning the organization with its
+      core mission and our new priorities in reversing the chronic disease epidemic,”
+      Kennedy said . At the time, the agency said the reductions would not impact inspectors.
+      Kennedy has since announced that HHS would reverse 20% of the cuts across the
+      agency. Amid news reports describing the layoffs at the FDA, Kennedy did not specify
+      how many people would be reinstated. ProPublica spoke to 10 current and former
+      FDA staff members and leaders in recent weeks, including inspectors who said that
+      the loss of support staff has slowed critical investigations and that little relief
+      has materialized. Most declined to be named because they were not authorized to
+      speak publicly or feared backlash within the industry as they search for new jobs.
+      One veteran drug inspector said nearly 70 people who helped arrange travel, budgets,
+      translators and contingency plans for investigations were laid off. Only about
+      one-third have been brought back, forcing a handful of busy managers to coordinate
+      travel clearances and visas for inspections that can span weeks and include stops
+      in multiple countries. “It’s difficult to get inspections done,” the investigator
+      said. “The pace has slowed down. You can’t inspect as many sites.” In an email,
+      an HHS spokesperson said inspections have not been affected by downsizing. The
+      agency did not address questions about how many people have been let go or reinstated
+      or whether additional help will be brought on. “To be clear, FDA inspectors were
+      not impacted, and this critical work continues,” the agency said. Two former FDA
+      commissioners and the agency’s longtime head of drug safety, however, said that
+      the loss of support staff has undermined one of the FDA’s most essential missions
+      at a time when Americans get most of their generic drugs from overseas manufacturers.
+      That includes chemotherapy treatments, sedatives, antibiotics and medications
+      on hospital crash carts. “It’s like saying, ‘Oh we didn’t fire any of the doctors
+      or nurses at the hospital, but we fired all the lab techs, all the orderlies,
+      all the phlebotomists … oh, but the doctors and nurses are still left so it’s
+      fine,’” said Janet Woodcock, who ran the agency’s Center for Drug Evaluation and
+      Research for more than two decades and retired in 2004. “A lot of the connective
+      tissue that deals with drug safety and similar things are going to be missing.”
+      Beyond the staff cuts, the departures of some longtime investigators and leaders
+      in recent months have left less experienced people tasked with rooting out dangerous
+      and sometimes deceptive manufacturing practices. The investigative unit, which
+      looks into potential safety issues with drugs, vaccines, medical devices and other
+      products, has had a retention problem for years. Inspectors leave so often that
+      even with hiring blitzes, the FDA has been unable to get ahead. Between 2022 and
+      2024, the agency hired 105 inspectors but about the same number left, leaving
+      the inspection pool with about 230 people, according to the Government Accountability
+      Office , the watchdog arm of Congress. About one-third did not have the experience
+      to conduct independent foreign inspections, the GAO found. Two FDA inspectors
+      said the agency needs an additional 100 to 200 experienced investigators to do
+      the work. The job can be grueling. Some inspectors who travel to overseas drug-making
+      factories can be away for as long as 15 weeks a year. Some have described threats
+      of violence by company managers, days on planes and trains in oppressive heat
+      and long nights preparing inspection reports before they head to the next stop.
+      The loss of experienced investigators and cuts to support staff have also hamstrung
+      other inspectors. “I am in utter shock that they don’t support and promote those
+      of us who can do a decent inspection,” said one investigator who scrutinizes factories
+      that produce vaccines, cell therapies and other biological products. “You’re adding
+      to the chaos.” Dozens of employees who handled technology support, facilities,
+      supplies and equipment were dismissed as well, snarling some day-to-day operations
+      at the agency. One current employee recalled how a colleague couldn’t find replacement
+      batteries for a computer mouse and how another locked herself out of her office
+      and couldn’t get back in because there was no one to open the door. Even before
+      the layoffs, the FDA’s investigative force struggled to monitor drug-making factories
+      in countries that include India and China, particularly during the COVID-19 pandemic,
+      raising alarms in Congress that serious manufacturing lapses may have gone unchecked.
+      The FDA received more than 1 million reports from doctors, patients and others
+      in 2023 about product quality issues or consumers who had adverse reactions to
+      drugs, FDA data shows. “Things will be missed,” former FDA inspector Patrick Stone
+      said about the layoffs. “We are going to have a lot less safe drugs.” The Trump
+      administration has said little about the layoffs in recent weeks, though Kennedy
+      told Congress late last month that more than 900 employees at the Centers for
+      Disease Control and Prevention and the National Institutes of Health had been
+      reinstated. The FDA announced in May that it would expand the use of unannounced
+      inspections at overseas factories, a move that some members of Congress have been
+      pushing for years. And FDA Commissioner Marty Makary announced that a new AI tool
+      known as Elsa would help identify inspection targets. Current and former employees
+      others say that won’t make up for the losses. “You can’t just expect the inspector
+      to take care of all the complexities of organizing their trips overseas,” said
+      former FDA Commissioner Margaret Hamburg, who served under the Obama administration.
+      “Even though it might be said we’ve kept the inspectors, that doesn’t mean that
+      they’ve kept the infrastructure … that actually supports safe and meaningful inspections.”
+      Brandon Roberts contributed data analysis. Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Please share this
+      story and help us grow our network!'
+    one_sentence_summary: Inspectors responsible for ensuring the safety of America's
+      drug supply are facing severe staffing cuts at the FDA, which could jeopardize
+      medication safety for millions, despite previous assurances from the Trump administration
+      to protect the agency's investigative capabilities.
+    paragraph_summary: Inspectors responsible for ensuring the safety of America's drug
+      supply are facing significant challenges due to deep cuts at the Food and Drug
+      Administration (FDA), despite prior assurances from the Trump administration that
+      their work would be preserved. The layoffs, which included the loss of personnel
+      coordinating inspections of foreign drug manufacturing facilities, have left remaining
+      staff overwhelmed and concerned about the potential compromise of medication safety
+      for millions. Investigations have revealed serious violations in overseas factories,
+      including contaminated supplies and fraudulent testing records, raising alarms
+      about the quality of drugs like a generic immunosuppression medication linked
+      to kidney failure risks. The FDA's workforce reduction, which amounted to about
+      15%, was implemented under Health and Human Services Secretary Robert F. Kennedy
+      Jr., who claimed it was part of a realignment of the agency's priorities, despite
+      earlier assurances that inspection capabilities would remain intact.
+    published: '2025-07-07T15:31:42+00:00'
+  - title: FDA Layoffs Could Compromise Safety of Medications Made at Foreign Factories,
+      Inspectors Say
+    url: https://scheerpost.com/2025/07/07/fda-layoffs-could-compromise-safety-of-medications-made-at-foreign-factories-inspectors-say/
+    text: 'Photo by Roberto Sorin on Unsplash In one of the scariest moments in modern
+      history, we''re doing our best at ScheerPost to pierce the fog of lies that conceal
+      it but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Victoria Malis, Katherine Dailey and Sadie Leite, Medill Investigative
+      Lab, and Debbie Cenziper and Megan Rose, ProPublica Inspectors charged with safeguarding
+      America’s drug supply say they are reeling from deep cuts at the Food and Drug
+      Administration despite promises by the Trump administration to preserve the work
+      of the agency’s investigative force. Dozens of people who help coordinate travel
+      for complex inspections of foreign drug-making factories have been let go, and
+      though some have since been rehired, inspectors said the ongoing strain of policing
+      an industry spread across more than 90 countries has exhausted staff and could
+      compromise the safety of medications used by millions of people. For years, inspectors
+      have uncovered dirty equipment, contaminated supplies and fraudulent testing records
+      in some overseas factories — serious safety and quality breaches that can sicken
+      or kill consumers. Last month, ProPublica reported that a generic immunosuppression
+      drug for transplant patients could dissolve too quickly when ingested, increasing
+      the risk of kidney failure. The drug was made at an Indian factory with a history
+      of quality violations that was banned from the U.S. market. The company previously
+      told ProPublica it believes the medication is safe. In April, more than 3,500
+      FDA employees were laid off under U.S. Department and Health and Human Services
+      Secretary Robert F. Kennedy Jr., a roughly 15% reduction in force. “We aren’t
+      just reducing bureaucratic sprawl. We are realigning the organization with its
+      core mission and our new priorities in reversing the chronic disease epidemic,”
+      Kennedy said . At the time, the agency said the reductions would not impact inspectors.
+      Kennedy has since announced that HHS would reverse 20% of the cuts across the
+      agency. Amid news reports describing the layoffs at the FDA, Kennedy did not specify
+      how many people would be reinstated. ProPublica spoke to 10 current and former
+      FDA staff members and leaders in recent weeks, including inspectors who said that
+      the loss of support staff has slowed critical investigations and that little relief
+      has materialized. Most declined to be named because they were not authorized to
+      speak publicly or feared backlash within the industry as they search for new jobs.
+      One veteran drug inspector said nearly 70 people who helped arrange travel, budgets,
+      translators and contingency plans for investigations were laid off. Only about
+      one-third have been brought back, forcing a handful of busy managers to coordinate
+      travel clearances and visas for inspections that can span weeks and include stops
+      in multiple countries. “It’s difficult to get inspections done,” the investigator
+      said. “The pace has slowed down. You can’t inspect as many sites.” In an email,
+      an HHS spokesperson said inspections have not been affected by downsizing. The
+      agency did not address questions about how many people have been let go or reinstated
+      or whether additional help will be brought on. “To be clear, FDA inspectors were
+      not impacted, and this critical work continues,” the agency said. Two former FDA
+      commissioners and the agency’s longtime head of drug safety, however, said that
+      the loss of support staff has undermined one of the FDA’s most essential missions
+      at a time when Americans get most of their generic drugs from overseas manufacturers.
+      That includes chemotherapy treatments, sedatives, antibiotics and medications
+      on hospital crash carts. “It’s like saying, ‘Oh we didn’t fire any of the doctors
+      or nurses at the hospital, but we fired all the lab techs, all the orderlies,
+      all the phlebotomists … oh, but the doctors and nurses are still left so it’s
+      fine,’” said Janet Woodcock, who ran the agency’s Center for Drug Evaluation and
+      Research for more than two decades and retired in 2004. “A lot of the connective
+      tissue that deals with drug safety and similar things are going to be missing.”
+      Beyond the staff cuts, the departures of some longtime investigators and leaders
+      in recent months have left less experienced people tasked with rooting out dangerous
+      and sometimes deceptive manufacturing practices. The investigative unit, which
+      looks into potential safety issues with drugs, vaccines, medical devices and other
+      products, has had a retention problem for years. Inspectors leave so often that
+      even with hiring blitzes, the FDA has been unable to get ahead. Between 2022 and
+      2024, the agency hired 105 inspectors but about the same number left, leaving
+      the inspection pool with about 230 people, according to the Government Accountability
+      Office , the watchdog arm of Congress. About one-third did not have the experience
+      to conduct independent foreign inspections, the GAO found. Two FDA inspectors
+      said the agency needs an additional 100 to 200 experienced investigators to do
+      the work. The job can be grueling. Some inspectors who travel to overseas drug-making
+      factories can be away for as long as 15 weeks a year. Some have described threats
+      of violence by company managers, days on planes and trains in oppressive heat
+      and long nights preparing inspection reports before they head to the next stop.
+      The loss of experienced investigators and cuts to support staff have also hamstrung
+      other inspectors. “I am in utter shock that they don’t support and promote those
+      of us who can do a decent inspection,” said one investigator who scrutinizes factories
+      that produce vaccines, cell therapies and other biological products. “You’re adding
+      to the chaos.” Dozens of employees who handled technology support, facilities,
+      supplies and equipment were dismissed as well, snarling some day-to-day operations
+      at the agency. One current employee recalled how a colleague couldn’t find replacement
+      batteries for a computer mouse and how another locked herself out of her office
+      and couldn’t get back in because there was no one to open the door. Even before
+      the layoffs, the FDA’s investigative force struggled to monitor drug-making factories
+      in countries that include India and China, particularly during the COVID-19 pandemic,
+      raising alarms in Congress that serious manufacturing lapses may have gone unchecked.
+      The FDA received more than 1 million reports from doctors, patients and others
+      in 2023 about product quality issues or consumers who had adverse reactions to
+      drugs, FDA data shows. “Things will be missed,” former FDA inspector Patrick Stone
+      said about the layoffs. “We are going to have a lot less safe drugs.” The Trump
+      administration has said little about the layoffs in recent weeks, though Kennedy
+      told Congress late last month that more than 900 employees at the Centers for
+      Disease Control and Prevention and the National Institutes of Health had been
+      reinstated. The FDA announced in May that it would expand the use of unannounced
+      inspections at overseas factories, a move that some members of Congress have been
+      pushing for years. And FDA Commissioner Marty Makary announced that a new AI tool
+      known as Elsa would help identify inspection targets. Current and former employees
+      others say that won’t make up for the losses. “You can’t just expect the inspector
+      to take care of all the complexities of organizing their trips overseas,” said
+      former FDA Commissioner Margaret Hamburg, who served under the Obama administration.
+      “Even though it might be said we’ve kept the inspectors, that doesn’t mean that
+      they’ve kept the infrastructure … that actually supports safe and meaningful inspections.”
+      Brandon Roberts contributed data analysis. Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Please share this
+      story and help us grow our network!'
+    one_sentence_summary: Inspectors responsible for ensuring the safety of America's
+      drug supply are facing severe staffing cuts at the FDA, which could jeopardize
+      medication safety for millions, despite previous assurances from the Trump administration
+      to protect the agency's investigative capabilities.
+    paragraph_summary: Inspectors responsible for ensuring the safety of America's drug
+      supply are facing significant challenges due to deep cuts at the Food and Drug
+      Administration (FDA), despite prior assurances from the Trump administration that
+      their work would be preserved. The layoffs, which included the loss of personnel
+      coordinating inspections of foreign drug manufacturing facilities, have left remaining
+      staff overwhelmed and concerned about the potential compromise of medication safety
+      for millions. Investigations have revealed serious violations in overseas factories,
+      including contaminated supplies and fraudulent testing records, raising alarms
+      about the quality of drugs like a generic immunosuppression medication linked
+      to kidney failure risks. The FDA's workforce reduction, which amounted to about
+      15%, was implemented under Health and Human Services Secretary Robert F. Kennedy
+      Jr., who claimed it was part of a realignment of the agency's priorities, despite
+      earlier assurances that inspection capabilities would remain intact.
+    published: '2025-07-07T15:31:42+00:00'
+  - title: Texas Flood Kills 82+, Including 28 Kids, Amid Drought, Trump Cuts to Weather
+      Service, NOAA & FEMA
+    url: https://scheerpost.com/2025/07/07/texas-flood-kills-82-including-28-kids-amid-drought-trump-cuts-to-weather-service-noaa-fema/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By DemocracyNow!
+      At least 82 people have died and dozens are still unaccounted for after flash
+      flooding in central Texas over the weekend, when the Guadalupe River rose about
+      26 feet in less than an hour on Friday amid torrential downpours. At least 10
+      girls who attended Camp Mystic, a girls’ summer camp located on the banks of the
+      river, are among the missing. In Kerr County, the most devastated area, at least
+      40 adults and 28 children have died. The speed and scale of the natural disaster
+      has raised questions about why officials weren’t better prepared, and whether
+      the Trump administration’s cuts to scientific positions exacerbated the situation.
+      “The National Weather Service, like a lot of federal agencies, went through significant
+      loss of staff back in the spring,” says retired NOAA meteorologist Alan Gerard,
+      now the CEO of Balanced Weather, which provides critical weather and climate alerts.
+      Gerard says that while it appears there was appropriate staffing ahead of the
+      Texas flood, the impact of current budget cuts and even deeper reductions being
+      considered by the administration are a cause for concern. “We still have all of
+      hurricane season to deal with,” he says. Transcript This is a rush transcript.
+      Copy may not be in its final form. AMY GOODMAN: The death toll from the catastrophic
+      flooding in central Texas has reached 82 people. Dozens are still unaccounted
+      for following flash flooding over the weekend. The Guadalupe River rose some 26
+      feet in less than an hour Friday amidst torrential downpours. The rain followed
+      a long drought in the region that left the soil bone dry and increased the potential
+      for flooding. Among the missing are at least 10 girls who attended Camp Mystic,
+      located on the banks of the river. In Kerr County, the most devastated area, at
+      least 40 adults and 28 children have died. This is Kerrville resident Scott Walden
+      describing the terrifying moments before he was swept almost 200 feet by raging
+      floodwaters. SCOTT WALDEN: About 6:30 in the morning or 6:00 in the morning, we
+      heard some thumps. I had a shed around the corner, and the shed started banging
+      against the house. And my wife jumped up, and she looked out the back, and she
+      said, “There’s a river back there.” And so we ran to the front. And by the time
+      we grabbed two dogs and a set of keys, the water had risen, covered four motorcycles
+      and flooded a jeep and then flooded a big truck. AMY GOODMAN: Rescue workers and
+      volunteers are continuing their search for the fourth day. Questions and anger
+      are mounting over local authorities’ preparedness warnings ahead of the disaster,
+      as well as the current and future role of federal authorities. Experts say staff
+      shortages at local offices of the National Weather Service and the lack of a local
+      severe weather warning system, which the state wouldn’t fund, may have been part
+      of the problem. President Trump has said he plans to phase out FEMA by the end
+      of this year’s hurricane season and shift those responsibilities to states. A
+      reporter asked Trump about his plans for FEMA Sunday. REPORTER: Are you still
+      planning to phase out FEMA? PRESIDENT DONALD TRUMP: Well, FEMA is something we
+      can talk about later, but right now they’re busy working, so we’ll leave it at
+      that. AMY GOODMAN: Trump was also asked if the federal government should hire
+      back any of the meteorologists that have been fired in recent months, to which
+      President Trump said, quote, “I wouldn’t know that, and I would think not,” unquote.
+      Meanwhile, the Trump administration’s 2026 budget promises to dismantle critical
+      scientific research programs that could improve early warning capabilities and
+      upgrade technology. That’s according to our next guest, who knows these programs
+      extremely well. Dr. Alan Gerard is the CEO of Balanced Weather and a retired NOAA meteorologist
+      with more than three decades of experience. He’s the former head of the Warning
+      Research and Development Division of the NOAA National Severe Storms Laboratory.
+      He’s been following the flooding closely on his Substack , Balanced Weather .
+      Welcome to Democracy Now! , Alan Gerard. Thank you so much for being with us.
+      This is absolutely devastating. It looks like well over a hundred people have
+      died. About a quarter of them are children. We just heard Trump’s response, both
+      on not hiring meteorologists that have been fired and not clear whether FEMA will
+      continue, yet we hear local officials saying how desperate they are to continue
+      to work with the National Weather Service. Can you talk about what took place
+      and the fact that part of the severe flash flooding was caused by a drought? ALAN GERARD:
+      Yeah. So, we’ll start with the flash flood. That area of the country is very vulnerable
+      to flash flooding due to a number of factors, partially just due to the proximity
+      of the Gulf and the moisture that can come up from there. And then also, that
+      soil in central Texas, which is also very hilly, when there’s a prolonged drought,
+      becomes almost like concrete, so the heavy rainfall just runs off into these river
+      basins that, you know, runs through the Hill Country and can create these massive
+      flood waves, like what we saw, unfortunately, on the south fork of the Guadalupe.
+      AMY GOODMAN: And can you talk about the National Weather Service — in a moment,
+      we’re going to talk about the new law, the budget law that went into effect — but
+      the National Weather Service and the depletion of jobs and what is missing, what
+      — most importantly, as we look forward, what is needed? ALAN GERARD: Yeah, so,
+      the National Weather Service, you know, like a lot of federal agencies, went through
+      significant loss of staff back in the spring with federal buyouts under the plans
+      of DOGE and the Office of Personnel Management, and a number of experienced staff
+      were lost. The office in Austin/San Antonio, which is the office that was responsible
+      the flash flood warnings in this case, have lost two of their most senior staff
+      as part of that: their warning coordination meteorologist, who’s responsible for
+      the outreach to emergency management, and the science and operations officer,
+      who oversees the operations and training of the meteorology staff. So, obviously,
+      those are critical positions. I will say that it does appear like, overall, for
+      the actual event, when it occurred, the warnings went out as they should have,
+      that the office was staffed appropriately. But it is definitely a concern overall,
+      you know, how well the staff, overall, would have been prepared, given those losses,
+      and how well they’ll be prepared going forward, as we still have all of hurricane
+      season to deal with. And then, kind of from a longer-term perspective, as you
+      mentioned, the 2026 presidential budget proposal would make significant cuts to NOAA,
+      including completely eliminating NOAA’s research line office, the Office of Oceanic
+      and Atmospheric Research. And obviously, if that were to happen, all of this research
+      that’s being done to try to improve warnings for events like this would be terminated.
+      AMY GOODMAN: In fact, isn’t this weather research lab in Norman, where you are,
+      Norman, Oklahoma, in the crosshairs of the cuts at the federal level, where you
+      worked as you were former head of the warning research unit there? ALAN GERARD:
+      Yes, the division that I was in charge of actually does a lot of research to improve
+      flash flood warnings. The system that the National Weather Service uses to, in
+      real time, estimate the probability of flash flooding and help issue their warnings
+      was developed here in our division at the National Severe Storms Lab. And under
+      the current presidential budget, it would be closed along with all of the other NOAA weather
+      and climate labs. AMY GOODMAN: I mean, from the heat dome that we’re seeing in
+      this country and in Europe — I was just in Geneva; it’s just scalding — in Spain,
+      the fires outside Barcelona, can you end by talking about how serious the threat
+      of climate change is right now to the planet, beginning right there in Texas,
+      in this horrific flash flooding event that has killed, it looks like, well, over
+      80, probably over a hundred, half — a quarter of them children? ALAN GERARD: Yeah,
+      as someone that’s been doing this for 35 years, I’ll admit that early in my career
+      I was a little skeptical about how much climate change would actually impact the
+      weather events that I would see in my career. But after doing it for three decades
+      and seeing the research and actually watching the weather every single day and
+      seeing the increased frequency of these type of events, it’s a huge concern for
+      me. And, you know, that’s part of the reason why, even in retirement, I’m doing
+      the Substack, trying to speak out about this, because I’m extremely concerned
+      about the threat of climate change and having more increased flash floods, wildfires,
+      heat waves. And regardless of the politics of it, we need to be prepared. And
+      really, my focus is just trying to improve our resilience and our ability to be
+      prepared for these kind of events. And obviously, I strongly believe that having
+      a robust NOAA and a robust National Weather Service, a robust research program
+      from NOAA, is an important part of all of that, of keeping us as safe as we can
+      be as the climate continues to change. AMY GOODMAN: This final point, Alan Gerard,
+      Elon Musk’s own AI bot Grok also blamed the rising death toll in Texas on cuts
+      made by the Trump administration and DOGE — right, Doge that was run by Elon Musk
+      — saying, “While absolute proof of counterfactuals is impossible, evidence strongly
+      suggests yes: Pre-cut NWS” — National Weather Service — “models accurately predicted
+      similar floods (e.g. Vermont 2023). 2025 cuts reduced staff and balloon launches
+      by 25%, leading to underestimated rainfall forecasts for Kerr County. Experts,
+      including ex-NOAA heads, say this delayed warnings, preventing Camp Mystic evacuation
+      and contributing to the 24 deaths. Sources: PBS, NPR, Guardian .” Your final 30
+      seconds. Alan Gerard, on Democracy Now! today. ALAN GERARD: Not to contradict
+      Grok, but I will say that this event did have quite a bit different than, like,
+      the Vermont event that it cited. This was a very small-scale event that was very
+      difficult for the computer models and for humans to really forecast, you know,
+      very far in advance. Having said that, there is no question that the Weather Service
+      is being left in a more vulnerable state. And whether it was this event or whether
+      it’s going to be with future hurricane flood events like this, we’re needlessly
+      putting ourselves into increased danger by these cuts to NOAA and the Weather
+      Service and NOAA Research. And hopefully, you know, this is a horrible tragedy
+      that, you know, is really unspeakable, but if anything positive could come out
+      of it, maybe it will be a reconsideration of some of these cuts. AMY GOODMAN:
+      Well, I want to thank you so much for being with us from Norman, Oklahoma, Alan
+      Gerard, retired NOAA — that’s National Oceanic and Atmospheric Administration
+      — meteorologist, former head of the Warning Research and Development Division
+      of the NOAA National Severe Storms Laboratory, runs the Substack Balanced Weather
+      . Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . DemocracyNow! Democracy Now! produces a daily, global, independent
+      news hour hosted by award-winning journalists Amy Goodman and Juan González. Our
+      reporting includes breaking daily news headlines and in-depth interviews with
+      people on the front lines of the world’s most pressing issues. On Democracy Now!,
+      you’ll hear a diversity of voices speaking for themselves, providing a unique
+      and sometimes provocative perspective on global events. Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: Flash flooding in central Texas has resulted in at least 82
+      deaths and many missing, raising concerns about emergency preparedness and the
+      impact of federal staffing cuts on disaster response.
+    paragraph_summary: At least 82 people have died and many remain unaccounted for
+      following catastrophic flash flooding in central Texas, where the Guadalupe River
+      surged 26 feet in under an hour due to torrential rains. The flooding has particularly
+      devastated Kerr County, resulting in the deaths of 40 adults and 28 children,
+      including at least 10 missing girls from Camp Mystic, a summer camp situated along
+      the river. The rapid onset of the disaster has raised concerns about the preparedness
+      of local officials, especially in light of staffing cuts to the National Weather
+      Service attributed to the Trump administration. Experts warn that ongoing budget
+      reductions could hinder effective responses to future weather events, particularly
+      with hurricane season still ahead.
+    published: '2025-07-07T15:27:16+00:00'
+  - title: Texas Flood Kills 82+, Including 28 Kids, Amid Drought, Trump Cuts to Weather
+      Service, NOAA & FEMA
+    url: https://scheerpost.com/2025/07/07/texas-flood-kills-82-including-28-kids-amid-drought-trump-cuts-to-weather-service-noaa-fema/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By DemocracyNow!
+      At least 82 people have died and dozens are still unaccounted for after flash
+      flooding in central Texas over the weekend, when the Guadalupe River rose about
+      26 feet in less than an hour on Friday amid torrential downpours. At least 10
+      girls who attended Camp Mystic, a girls’ summer camp located on the banks of the
+      river, are among the missing. In Kerr County, the most devastated area, at least
+      40 adults and 28 children have died. The speed and scale of the natural disaster
+      has raised questions about why officials weren’t better prepared, and whether
+      the Trump administration’s cuts to scientific positions exacerbated the situation.
+      “The National Weather Service, like a lot of federal agencies, went through significant
+      loss of staff back in the spring,” says retired NOAA meteorologist Alan Gerard,
+      now the CEO of Balanced Weather, which provides critical weather and climate alerts.
+      Gerard says that while it appears there was appropriate staffing ahead of the
+      Texas flood, the impact of current budget cuts and even deeper reductions being
+      considered by the administration are a cause for concern. “We still have all of
+      hurricane season to deal with,” he says. Transcript This is a rush transcript.
+      Copy may not be in its final form. AMY GOODMAN: The death toll from the catastrophic
+      flooding in central Texas has reached 82 people. Dozens are still unaccounted
+      for following flash flooding over the weekend. The Guadalupe River rose some 26
+      feet in less than an hour Friday amidst torrential downpours. The rain followed
+      a long drought in the region that left the soil bone dry and increased the potential
+      for flooding. Among the missing are at least 10 girls who attended Camp Mystic,
+      located on the banks of the river. In Kerr County, the most devastated area, at
+      least 40 adults and 28 children have died. This is Kerrville resident Scott Walden
+      describing the terrifying moments before he was swept almost 200 feet by raging
+      floodwaters. SCOTT WALDEN: About 6:30 in the morning or 6:00 in the morning, we
+      heard some thumps. I had a shed around the corner, and the shed started banging
+      against the house. And my wife jumped up, and she looked out the back, and she
+      said, “There’s a river back there.” And so we ran to the front. And by the time
+      we grabbed two dogs and a set of keys, the water had risen, covered four motorcycles
+      and flooded a jeep and then flooded a big truck. AMY GOODMAN: Rescue workers and
+      volunteers are continuing their search for the fourth day. Questions and anger
+      are mounting over local authorities’ preparedness warnings ahead of the disaster,
+      as well as the current and future role of federal authorities. Experts say staff
+      shortages at local offices of the National Weather Service and the lack of a local
+      severe weather warning system, which the state wouldn’t fund, may have been part
+      of the problem. President Trump has said he plans to phase out FEMA by the end
+      of this year’s hurricane season and shift those responsibilities to states. A
+      reporter asked Trump about his plans for FEMA Sunday. REPORTER: Are you still
+      planning to phase out FEMA? PRESIDENT DONALD TRUMP: Well, FEMA is something we
+      can talk about later, but right now they’re busy working, so we’ll leave it at
+      that. AMY GOODMAN: Trump was also asked if the federal government should hire
+      back any of the meteorologists that have been fired in recent months, to which
+      President Trump said, quote, “I wouldn’t know that, and I would think not,” unquote.
+      Meanwhile, the Trump administration’s 2026 budget promises to dismantle critical
+      scientific research programs that could improve early warning capabilities and
+      upgrade technology. That’s according to our next guest, who knows these programs
+      extremely well. Dr. Alan Gerard is the CEO of Balanced Weather and a retired NOAA meteorologist
+      with more than three decades of experience. He’s the former head of the Warning
+      Research and Development Division of the NOAA National Severe Storms Laboratory.
+      He’s been following the flooding closely on his Substack , Balanced Weather .
+      Welcome to Democracy Now! , Alan Gerard. Thank you so much for being with us.
+      This is absolutely devastating. It looks like well over a hundred people have
+      died. About a quarter of them are children. We just heard Trump’s response, both
+      on not hiring meteorologists that have been fired and not clear whether FEMA will
+      continue, yet we hear local officials saying how desperate they are to continue
+      to work with the National Weather Service. Can you talk about what took place
+      and the fact that part of the severe flash flooding was caused by a drought? ALAN GERARD:
+      Yeah. So, we’ll start with the flash flood. That area of the country is very vulnerable
+      to flash flooding due to a number of factors, partially just due to the proximity
+      of the Gulf and the moisture that can come up from there. And then also, that
+      soil in central Texas, which is also very hilly, when there’s a prolonged drought,
+      becomes almost like concrete, so the heavy rainfall just runs off into these river
+      basins that, you know, runs through the Hill Country and can create these massive
+      flood waves, like what we saw, unfortunately, on the south fork of the Guadalupe.
+      AMY GOODMAN: And can you talk about the National Weather Service — in a moment,
+      we’re going to talk about the new law, the budget law that went into effect — but
+      the National Weather Service and the depletion of jobs and what is missing, what
+      — most importantly, as we look forward, what is needed? ALAN GERARD: Yeah, so,
+      the National Weather Service, you know, like a lot of federal agencies, went through
+      significant loss of staff back in the spring with federal buyouts under the plans
+      of DOGE and the Office of Personnel Management, and a number of experienced staff
+      were lost. The office in Austin/San Antonio, which is the office that was responsible
+      the flash flood warnings in this case, have lost two of their most senior staff
+      as part of that: their warning coordination meteorologist, who’s responsible for
+      the outreach to emergency management, and the science and operations officer,
+      who oversees the operations and training of the meteorology staff. So, obviously,
+      those are critical positions. I will say that it does appear like, overall, for
+      the actual event, when it occurred, the warnings went out as they should have,
+      that the office was staffed appropriately. But it is definitely a concern overall,
+      you know, how well the staff, overall, would have been prepared, given those losses,
+      and how well they’ll be prepared going forward, as we still have all of hurricane
+      season to deal with. And then, kind of from a longer-term perspective, as you
+      mentioned, the 2026 presidential budget proposal would make significant cuts to NOAA,
+      including completely eliminating NOAA’s research line office, the Office of Oceanic
+      and Atmospheric Research. And obviously, if that were to happen, all of this research
+      that’s being done to try to improve warnings for events like this would be terminated.
+      AMY GOODMAN: In fact, isn’t this weather research lab in Norman, where you are,
+      Norman, Oklahoma, in the crosshairs of the cuts at the federal level, where you
+      worked as you were former head of the warning research unit there? ALAN GERARD:
+      Yes, the division that I was in charge of actually does a lot of research to improve
+      flash flood warnings. The system that the National Weather Service uses to, in
+      real time, estimate the probability of flash flooding and help issue their warnings
+      was developed here in our division at the National Severe Storms Lab. And under
+      the current presidential budget, it would be closed along with all of the other NOAA weather
+      and climate labs. AMY GOODMAN: I mean, from the heat dome that we’re seeing in
+      this country and in Europe — I was just in Geneva; it’s just scalding — in Spain,
+      the fires outside Barcelona, can you end by talking about how serious the threat
+      of climate change is right now to the planet, beginning right there in Texas,
+      in this horrific flash flooding event that has killed, it looks like, well, over
+      80, probably over a hundred, half — a quarter of them children? ALAN GERARD: Yeah,
+      as someone that’s been doing this for 35 years, I’ll admit that early in my career
+      I was a little skeptical about how much climate change would actually impact the
+      weather events that I would see in my career. But after doing it for three decades
+      and seeing the research and actually watching the weather every single day and
+      seeing the increased frequency of these type of events, it’s a huge concern for
+      me. And, you know, that’s part of the reason why, even in retirement, I’m doing
+      the Substack, trying to speak out about this, because I’m extremely concerned
+      about the threat of climate change and having more increased flash floods, wildfires,
+      heat waves. And regardless of the politics of it, we need to be prepared. And
+      really, my focus is just trying to improve our resilience and our ability to be
+      prepared for these kind of events. And obviously, I strongly believe that having
+      a robust NOAA and a robust National Weather Service, a robust research program
+      from NOAA, is an important part of all of that, of keeping us as safe as we can
+      be as the climate continues to change. AMY GOODMAN: This final point, Alan Gerard,
+      Elon Musk’s own AI bot Grok also blamed the rising death toll in Texas on cuts
+      made by the Trump administration and DOGE — right, Doge that was run by Elon Musk
+      — saying, “While absolute proof of counterfactuals is impossible, evidence strongly
+      suggests yes: Pre-cut NWS” — National Weather Service — “models accurately predicted
+      similar floods (e.g. Vermont 2023). 2025 cuts reduced staff and balloon launches
+      by 25%, leading to underestimated rainfall forecasts for Kerr County. Experts,
+      including ex-NOAA heads, say this delayed warnings, preventing Camp Mystic evacuation
+      and contributing to the 24 deaths. Sources: PBS, NPR, Guardian .” Your final 30
+      seconds. Alan Gerard, on Democracy Now! today. ALAN GERARD: Not to contradict
+      Grok, but I will say that this event did have quite a bit different than, like,
+      the Vermont event that it cited. This was a very small-scale event that was very
+      difficult for the computer models and for humans to really forecast, you know,
+      very far in advance. Having said that, there is no question that the Weather Service
+      is being left in a more vulnerable state. And whether it was this event or whether
+      it’s going to be with future hurricane flood events like this, we’re needlessly
+      putting ourselves into increased danger by these cuts to NOAA and the Weather
+      Service and NOAA Research. And hopefully, you know, this is a horrible tragedy
+      that, you know, is really unspeakable, but if anything positive could come out
+      of it, maybe it will be a reconsideration of some of these cuts. AMY GOODMAN:
+      Well, I want to thank you so much for being with us from Norman, Oklahoma, Alan
+      Gerard, retired NOAA — that’s National Oceanic and Atmospheric Administration
+      — meteorologist, former head of the Warning Research and Development Division
+      of the NOAA National Severe Storms Laboratory, runs the Substack Balanced Weather
+      . Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . DemocracyNow! Democracy Now! produces a daily, global, independent
+      news hour hosted by award-winning journalists Amy Goodman and Juan González. Our
+      reporting includes breaking daily news headlines and in-depth interviews with
+      people on the front lines of the world’s most pressing issues. On Democracy Now!,
+      you’ll hear a diversity of voices speaking for themselves, providing a unique
+      and sometimes provocative perspective on global events. Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: Flash flooding in central Texas has resulted in at least 82
+      deaths and many missing, raising concerns about emergency preparedness and the
+      impact of federal staffing cuts on disaster response.
+    paragraph_summary: At least 82 people have died and many remain unaccounted for
+      following catastrophic flash flooding in central Texas, where the Guadalupe River
+      surged 26 feet in under an hour due to torrential rains. The flooding has particularly
+      devastated Kerr County, resulting in the deaths of 40 adults and 28 children,
+      including at least 10 missing girls from Camp Mystic, a summer camp situated along
+      the river. The rapid onset of the disaster has raised concerns about the preparedness
+      of local officials, especially in light of staffing cuts to the National Weather
+      Service attributed to the Trump administration. Experts warn that ongoing budget
+      reductions could hinder effective responses to future weather events, particularly
+      with hurricane season still ahead.
+    published: '2025-07-07T15:27:16+00:00'
   - title: Next Week, Trump and Netanyahu Will Meet at the White House to Plan Their
       ‘New Middle East’
     url: https://scheerpost.com/2025/07/06/next-week-trump-and-netanyahu-will-meet-at-the-white-house-to-plan-their-new-middle-east/

@@ -7,14 +7,303 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The past days have seen a sharpening of global tensions, with Western democracies confronting internal and external challenges to press freedoms, military alliances, and the rule of law. The conviction of Julian Assange and the subsequent rhetoric from U.S. President Donald Trump have placed the future of investigative journalism under renewed threat. According to **Binoy Kampmark**, Trump’s willingness to invoke the Espionage Act against journalists “raises concerns about the implications for future press prosecutions,” signaling a chilling precedent that could embolden further crackdowns on media worldwide.
+  Geopolitical tensions continue to intensify across several regions, with recent independent analyses highlighting the deepening crisis in the Israeli-occupied West Bank, ongoing debates over the role of corporate complicity in conflict, and the shifting landscape of press freedom in the United States.
   
-  Meanwhile, NATO’s internal cohesion is under strain. Trump’s recent visit to The Hague saw him demand significant increases in defense spending from European allies, a move that has prompted both skepticism and accelerated militarization across the continent. As **Kampmark** observes, “European nations, driven by uncertainty about U.S. reliability, are already planning substantial military investments,” reflecting a complex dynamic of dependency and mistrust within the alliance. The EU’s approval of a €150 billion defense loan fund further underscores the bloc’s pivot toward rearmament, reminiscent of pre-World War II anxieties.
+  The latest focus has been on the West Bank, where **Binoy Kampmark** draws attention to the normalization of extremist settler ideologies and the increasing violence against Palestinians, as exposed in Louis Theroux's documentary "The Settlers." The documentary underscores not only the religiously motivated expansionism but also the growing support from both the Israeli government and private sector for these actions. According to **Kampmark**, this signals a "troublingly normalized colonial project" that is further entrenching systemic oppression and making prospects for a peaceful resolution increasingly remote.
   
-  In the Asia-Pacific, Australia’s opposition is pressing for greater transparency regarding the expanding U.S. military presence on its soil. **Kampmark** highlights Andrew Hastie’s call for “a more mature discussion about Australia’s military relationship with the United States,” pointing to unresolved questions about sovereignty and democratic oversight as Canberra deepens its strategic commitments.
+  On the international legal and economic front, a new UN Human Rights Council report by Francesca Albanese, discussed by **Kampmark**, accuses a range of corporate entities of profiting from what is described as Israel's "economy of genocide." The report alleges that companies across various sectors are facilitating occupation and human rights violations, a claim that has been met with strong denials from Israeli and US officials. The backlash illustrates the entrenched divisions over accountability and the role of economic interests in perpetuating conflict.
   
-  Looking ahead, the majority of analysts cited by **Kampmark** predict with high confidence that the erosion of press freedoms in the U.S. will embolden other governments to adopt similar measures, while the militarization trend in Europe is “most definitely” set to continue as long as uncertainty over U.S. commitments persists. In Australia, there is a high chance that domestic debate over sovereignty and alliance obligations will intensify, especially as U.S.-China rivalry deepens in the region. The prevailing trajectory is one of heightened securitization and democratic backsliding, with few signs of imminent reversal.
+  Meanwhile, in the United States, the precedent set by Julian Assange's recent conviction is reverberating through the political and media landscape. **Kampmark** notes that former President Donald Trump, who once championed WikiLeaks, is now considering the use of the Espionage Act against journalists. This shift raises significant concerns about the future of press freedom, with the potential for expanded prosecutions under national security pretexts.
+  
+  Looking ahead, the majority of analysts, including **Kampmark**, predict with high confidence that the situation in the West Bank will deteriorate further as settler violence becomes more institutionalized and international accountability remains elusive. The debate over corporate complicity in conflict is expected to intensify, particularly as more evidence emerges and as global economic actors face mounting scrutiny. In the US, there is a high chance that the legal environment for journalists will become more restrictive, setting a precedent that could influence other democracies.
+  
+  Overall, the prevailing trend is one of escalating confrontation—whether on the ground in occupied territories, in international legal forums, or in the battle over information and accountability.
 articles:
+  - title: 'The Fanatic’s Gaze: Louis Theroux and the West Bank Settlers'
+    url: https://www.counterpunch.org/2025/07/08/the-fanatics-gaze-louis-theroux-and-the-west-bank-settlers/
+    text: 'He has made it his bread and butter for years: finding society’s kooky representatives,
+      the marginal, the crazed and the touched. But what makes Louis Theroux’s The Settlers
+      troubling is its examination of a seemingly inexorable process in the West Bank,
+      one that has, at its core, a religious, nationalist goal of cleansing and violent
+      purification. The documentary captures Israel’s modern colonial project in real
+      time, and it is one most ugly.
+
+
+      The target of the cleansing and eradication – the Palestinians in the West Bank
+      – is awesomely horrific, rationalised by suffocating checkpoints, brooding military
+      posts and endless harassing points of invigilation. Having already made The Ultra
+      Zionists, a documentary on the same subject in 2011, Theroux finds, notably after
+      the attacks by Hamas on Israel on October 7, 2023, a missionary project of hardened
+      purpose. The edge on the “ultra” has been taken off. The fringe has moved to the
+      centre.
+
+
+      Sanitised areas (the language of ethnic scrubbing) pullulate with armed settlers
+      holding forth with pious defiance in outposts of a land seen as promised to them.
+      One figure interviewed, the gun-toting Texas-born settler Ari Abramowitz, sees
+      the Bible as supplying Jews “a land deed to the West Bank.” Palestinian shopfronts
+      remain closed for security reasons, and Palestinians barred from visiting designated
+      areas without appropriate approval. Theroux’s guide and local peace activist Issa
+      Amro is unable to accompany him to areas in Hebron where settlers are offered
+      continuous military protection.
+
+
+      When Theroux and his guides visit a ruined Palestinian home in Tuwuni in the night,
+      an IDF patrol with laser sights is not far behind. At one checkpoint, Theroux
+      is accosted by a balaclava-wearing Israeli soldier, provoking him to bark “Don’t
+      touch me”. They are solid reminders to Palestinians living in the West Bank that
+      they are living on borrowed time, a measure that diminishes with each day.
+
+
+      Daniella Weiss emerges as a central character, a figure who has led the Israeli
+      settler movement for half a century. She reveals being clandestinely escorted
+      by the sympathetic soldiers of the Israeli Defense Forces into Gaza to scout for
+      possible future settlements. (800 families, goes the proud claim, await moving
+      into them.) She grins, mocks and scorns, but does, at some point, demonstrate
+      to Theroux her view about settler violence. For her, it does not exist. In that
+      familiar pattern, even if it did exist, it would be justifiable because of Palestinian
+      violence. When Theroux says he had seen a video of a Palestinian being shot, Weiss
+      retorts that the Israel shooter was merely retaliating. She proceeds to shove
+      him, hoping he returns the serve. He considers the display sociopathic. Yet sociopathy
+      and the limitless well of self-defence are firm friends for Weiss and any number
+      of IDF personnel and lawyers who see their cause as worthy. All are incapable
+      of violence, incapable of genocide.
+
+
+      Critics have taken issue with the lens of the documentary, suggesting that the
+      camera can deceive because of its sharp focus. The sampling of settlers shows
+      them as almost comically villainous, their fanaticism icy and cruelty assured.
+      The British-Palestinian writer and activist John Aziz was frustrated by the “selection
+      of nasty extremists who lurched between denying the existence of Palestinians
+      and expressing the desire to conquer more land and drive out the Arab inhabitants.”
+      He even takes issue with the keen interest in Weiss, curious given that any program
+      about Israeli settlements would look bare without her starring role.
+
+
+      Aziz misses the point in his demand for an elusive nuance. People once seen as
+      marginalised pioneers seeking land in the West Bank have become the spear of the
+      government of Prime Minister Benjamin Netanyahu. After October 7, 2023, it has
+      become modish to entertain notions of expulsion, dispossession and seizure, to
+      finally bury Palestinian notions of self-determination. National security minister
+      Itamar Ben-Gvir, leader of the far-right Otzma Yehudit party and follower of the
+      teachings of Meir Kahane, a Brooklyn rabbi who, after moving to Israel, declared
+      “the idea of a democratic Jewish state [a] nonsense”, is symptomatic of this shift.
+      Convicted on eight charges, among them supporting a terrorist organisation and
+      incitement to racism, Ben-Gvir regularly advocates ethnic cleansing of both the
+      West Bank and Gaza.
+
+
+      In May this year, the Israeli Security Cabinet initiated the land registration
+      process in Area C in the West Bank, a process which determines final ownership
+      of land and extinguishes other claims. The Ministry of Defense was unequivocal
+      about the goal of this move in a statement: “to strengthen, consolidate, and expand
+      Jewish settlement in Judea and Samaria.”
+
+
+      While the Israeli settlers seem to fail to see the Palestinians as human beings
+      with valid territorial claims, international law has little time for the legality
+      of the settlements. They are structures of a colonising project, and one regarded
+      as unlawful. In its advisory opinion from July 2024, the International Court of
+      Justice found that Israel’s continued presence in the Occupied Palestinian Territory
+      was “a wrongful act of a continuing character which has been brought about by
+      Israel’s violations, through its policies and practices, of the prohibition on
+      the acquisition of territory by force and the right to self-determination of the
+      Palestinian people.”
+
+
+      The settler project can also count on abundant support from the private sector.
+      In her report to the UN Human Rights Council From economy of occupation to economy
+      of genocide Francesca Albanese, the Special Rapporteur on the situation of human
+      rights in the Palestinian territories occupied since 1967, lashes “corporate entities”
+      international and local who have been enriched by “the Israeli economy of illegal
+      occupation, apartheid and now genocide.” This includes heavy investments in the
+      West Bank colonising enterprise, be it through supplying logistics, construction
+      equipment and building materials. With the Israeli settlers being the shock troops
+      of the Israeli State, Weiss’s boast captured by Theroux is being realised: “We
+      do for governments what they can’t do for themselves.”'
+    one_sentence_summary: Louis Theroux's documentary "The Settlers" troublingly exposes
+      the violent and religiously motivated colonial project in the West Bank, highlighting
+      the normalization of extremist settler ideologies and the systemic oppression
+      of Palestinians, amidst a backdrop of increasing support from the Israeli government
+      and private sector for these actions.
+    paragraph_summary: Louis Theroux's documentary "The Settlers" delves into the troubling
+      realities of Israel's colonial project in the West Bank, highlighting the religious
+      and nationalist motivations behind the ongoing displacement and oppression of
+      Palestinians. Through interviews with settlers, including prominent figures like
+      Daniella Weiss, the film reveals a stark shift in Israeli society where extremist
+      views have moved from the fringe to the mainstream, particularly following the
+      Hamas attacks on October 7, 2023. The documentary captures the harsh conditions
+      faced by Palestinians, including military checkpoints and violence, while settlers
+      justify their actions through a distorted interpretation of biblical entitlement.
+      Critics argue that the film's portrayal of settlers lacks nuance, yet it underscores
+      a broader trend of state-supported ethnic cleansing and the complicity of corporate
+      interests in the occupation. The International Court of Justice has deemed these
+      settlements unlawful, yet the Israeli government continues to expand its presence
+      in the region, reflecting a grim reality for Palestinian self-determination.
+    published: '2025-07-08T05:55:53+00:00'
+  - title: 'An Economy of Genocide: Israel and the Albanese Report'
+    url: https://www.counterpunch.org/2025/07/07/an-economy-of-genocide-israel-and-the-albanese-report/
+    text: 'It makes for stark and dark reading. The report for the UN Human Rights Council
+      titled From economy of occupation to economy of genocide makes mention of “corporate
+      entities” who have been enriched by “the Israeli economy of illegal occupation,
+      apartheid and now genocide.” Authored by the relentless Francesca Albanese, the
+      Special Rapporteur on the situation of human rights in the Palestinian territories
+      occupied since 1967, it is unflinching in its assessments and warnings to companies
+      doing business with Israel.
+
+
+      What makes the investigative undertaking by Albanese useful is its examination
+      of the corporate world and its links to the colonial, settler program of removing
+      and displacing a pre-existing population. The machinery of conquest of any state
+      necessarily involves not only the desk job occupants in civilian bureaucracies
+      and high-ranking military commanders, but those in the corporate sector, eager
+      to make a profit. “Colonial endeavours and associated genocides,” writes Albanese,
+      “have historically been driven and enabled by the corporate sector. Commercial
+      interests have contributed to the dispossession of Indigenous peoples of their
+      lands – a mode of domination known as ‘colonial racial capitalism’.”
+
+
+      Eight private sectors come in for scrutiny: arms manufacturers, tech firms, building
+      and construction entities, those industries concerned with extraction and services,
+      banks, pension funds, insurers, universities and charities. “These entities enable
+      the denial of self-determination and other structural violations in the occupied
+      Palestinian territory, including occupation, annexation and crimes of apartheid
+      and genocide, as well as a long list of ancillary crimes and human rights violations,
+      from discrimination, wanton destruction, forced displacement and pillage to extrajudicial
+      killing and starvation.”
+
+
+      Central to the multifaceted economy of genocide, the report charges, is the military-industrial
+      complex that forms “the economic backbone of the State.” Albanese cites a stellar
+      example: the F-35 fighter jet, developed by US-based Lockheed Martin, in collaboration
+      with hundreds of other companies “including Italian manufacturer Leonardo S.p.A,
+      and eight States.”
+
+
+      Since October 2023, the process of colonisation and displacement has assumed an
+      air of urgency, aided by the private sector. In 2024, US$200 million was advanced
+      for “colony construction”. Between November 2023 and October 2024, 57 new colonies
+      and outposts were established “with Israeli and international companies supplying
+      machinery, raw materials and logistical support.” Examples include the maintenance
+      and expansion of the Jerusalem Light Rail Red Line, the construction of the new
+      Green Line, encompassing 27 kilometres of new tracks and 50 stations in the West
+      Bank. The infrastructure has proven to be invaluable in linking the colonial project
+      to West Jerusalem. Despite some companies withdrawing from the project “owing
+      to international pressure”, an entity such as the Spanish/Basque Construcciones
+      y Auxiliar de Ferrocarriles has been a keen participant, along with suppliers
+      of excavating machinery (South Korea’s Doosan and Sweden’s Volvo Group), and providers
+      of materials for the light-rail bridge (Germany’s Heidelberg Materials AG).
+
+
+      Beyond the structural and physical program of construction and displacement, all
+      designed to extinguish any semblance of self-determination on the part of the
+      Palestinians, come other features of the colonial project. A prominent feature
+      of this, Albanese notes, is that of “surveillance and carcerality”. Repressing
+      Palestinians has become a “progressively automated” affair, with tech companies
+      feeding Israel’s voracious security appetite with “unparalleled developments in
+      carceral and surveillance devices”, some of which include closed-circuit television
+      networks, biometric surveillance, advanced tech checkpoint networks, drone surveillance
+      and cloud computing.
+
+
+      Palantir Technologies Inc., a specialist in software platforms, comes in for a
+      special mention. “There are reasonable grounds to believe Palantir has provided
+      automatic predictive policing technology, core defence infrastructure for rapid
+      and scale-up construction and deployment of military software, and its Artificial
+      Intelligence Platform, which allows real-time battlefield data integration for
+      automated decision making.”
+
+
+      Middle East Eye that foreign military sales were not their preserve as far as
+      accountability or cause of concern was, a lofty, business-like attitude unshackled
+      from a moral compass. Such sales took place between governments, meaning that
+      the US government would be best placed to answer any questions. Hand washing and
+      deferrals of guilt is a private sector speciality after all. With the report released,
+      the dance of dissimulation began. Lockheed Martin told thethat foreign military
+      sales were not their preserve as far as accountability or cause of concern was,
+      a lofty, business-like attitude unshackled from a moral compass. Such sales took
+      place between governments, meaning that the US government would be best placed
+      to answer any questions. Hand washing and deferrals of guilt is a private sector
+      speciality after all.
+
+
+      In a more direct fashion, both Israel and the United States have continued their
+      “Hate Albanese” campaign, boringly reiterating old accusations while adopting
+      novel interpretations of international law. Given the obvious loathing of international
+      human rights conventions by Israeli officials and their US backers, this is decidedly
+      rich, even more so given such jurisprudence as that of the International Court
+      of Justice’s Advisory Opinion of July 2024, and the International Criminal Court
+      arrest warrants for Israeli officials, including Prime Minister Benjamin Netanyahu.
+      (These developments figure prominently in Albanese’s assessment.)
+
+
+      According to the ICJ, all States were under an obligation to “cooperate with the
+      United Nations” on ensuring “an end to Israel’s illegal presence in the Occupied
+      Territory and the full realization of the right of the Palestinian people to self-determination”.
+      Israel’s continued presence in the OPT was illegal. “It is a wrongful act of a
+      continuing character which has been brought about by Israel’s violations, through
+      its policies and practices, of the prohibition on the acquisition of territory
+      by force and the right to self-determination of the Palestinian people.”
+
+
+      The Washington Free Beacon took issue with Albanese’s supposed record of “virulent
+      antisemitism and support for terrorism”, bitchily sniping at her legal qualifications.
+      Little is actually mentioned of international law in the bilious missive by US
+      Ambassador Dorothy C. Shea, acting representative to the UN, other than a snotty
+      dismissal of UN General Assembly resolutions and advisory opinions by the International
+      Court of Justice as lacking any binding force “on either States or private actors”.
+      From Israel came the view that the report was “legally groundless, defamatory
+      and a flagrant abuse of [Albanese’s] office.” A June 20 letter to UN Secretary-General
+      António Guterres from the Trump administration obtained bytook issue with Albanese’s
+      supposed record of “virulent antisemitism and support for terrorism”, bitchily
+      sniping at her legal qualifications. Little is actually mentioned of international
+      law in the bilious missive by US Ambassador Dorothy C. Shea, acting representative
+      to the UN, other than a snotty dismissal of UN General Assembly resolutions and
+      advisory opinions by the International Court of Justice as lacking any binding
+      force “on either States or private actors”.
+
+
+      Shea claims Albanese “misrepresented her qualifications for the role by claiming
+      to be an international lawyer despite admitting publicly that she has not passed
+      a legal bar examination or been licensed to practice law.” A fabulous accusation,
+      given the surfeit of allegedly qualified legal members working in the Israeli
+      Defense Forces and other offices executing their program of displacement, starvation
+      and killing.
+
+
+      The accusations against various corporate entities, notably over 20 US entities,
+      were “riddled with inflammatory rhetoric and false accusations”, making such daring
+      claims of “gross human rights violations”, “apartheid” and “genocide”. These charges,
+      ventured through letters of accusation, constituted “an unacceptable campaign
+      of political and economic warfare against the American and worldwide economy.”
+
+
+      It comes as little surprise that the security rationale – one that says nothing
+      of the Palestinian right to self-determination, let alone rights to life and necessaries
+      – marks the entire complaint against Albanese’s apparent lack of impartiality.
+      “Business activities specifically targeted by Ms. Albanese contribute to and help
+      strengthen national security, economic prosperity, and human welfare across the
+      Middle East, North Africa, and Europe.” Just don’t mention the Palestinians.'
+    one_sentence_summary: A UN Human Rights Council report by Francesca Albanese accuses
+      corporate entities of profiting from Israel's "economy of genocide" against Palestinians,
+      highlighting their roles in facilitating occupation and human rights violations
+      through various sectors, while facing backlash from Israeli and US officials who
+      dismiss the report's claims as unfounded.
+    paragraph_summary: The UN Human Rights Council report titled "From economy of occupation
+      to economy of genocide," authored by Francesca Albanese, critiques the involvement
+      of corporate entities in the Israeli occupation and alleged genocide against Palestinians.
+      Albanese highlights how various sectors, including arms manufacturers, tech companies,
+      and construction firms, profit from and contribute to the ongoing displacement
+      and human rights violations in the occupied territories. The report emphasizes
+      the role of the military-industrial complex, citing examples like the F-35 fighter
+      jet, and details how companies are complicit in infrastructure projects that facilitate
+      colonization. Despite some companies withdrawing due to international pressure,
+      many continue to support these operations, while tech firms provide advanced surveillance
+      tools to repress Palestinian populations. The report has drawn backlash from Israel
+      and the US, with accusations of bias against Albanese and dismissals of her legal
+      qualifications, reflecting a broader tension over accountability and the interpretation
+      of international law regarding the Israeli-Palestinian conflict.
+    published: '2025-07-07T05:55:37+00:00'
   - title: 'Trump, Leakers and Journalists: The Assange Precedent and Revisiting the
       Espionage Act'
     url: https://www.counterpunch.org/2025/07/03/trump-leakers-and-journalists-the-assange-precedent-and-revisiting-the-espionage-act/
