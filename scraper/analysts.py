@@ -192,7 +192,7 @@ analysts = [
         "websites": [
             "https://www.yanisvaroufakis.eu/",
             "https://www.project-syndicate.org/columnist/yanis-varoufakis"
-        ]
+        ],
         "description": "Greek economist, academic, and former finance minister; founder of DiEM25; writes on global capitalism, European politics, and economic crises with a focus on democracy and social justice."
     },
     {
