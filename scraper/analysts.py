@@ -218,6 +218,13 @@ analysts = [
             "https://www.laprogressive.com/author/richard-d-wolff"
         ],
         "description": "Richard D. Wolff is an American Marxian economist, professor emeritus at the University of Massachusetts Amherst, and a leading voice on economic democracy, worker cooperatives, and critiques of capitalism. He regularly contributes to CounterPunch and other independent media."
+    },
+    {
+        "name": "Seymour Hersh",
+        "websites": [
+            "https://seymourhersh.substack.com"
+        ],
+        "description": "Seymour Hersh is a Pulitzer Prize-winning investigative journalist renowned for exposing major stories such as the My Lai Massacre and Watergate abuses. He continues to publish independent reporting on US foreign policy, intelligence, and national security."
     }
 ]
 
