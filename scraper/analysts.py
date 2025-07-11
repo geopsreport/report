@@ -225,6 +225,13 @@ analysts = [
             "https://seymourhersh.substack.com"
         ],
         "description": "Seymour Hersh is a Pulitzer Prize-winning investigative journalist renowned for exposing major stories such as the My Lai Massacre and Watergate abuses. He continues to publish independent reporting on US foreign policy, intelligence, and national security."
+    },
+    {
+        "name": "Gilbert Doctorow",
+        "websites": [
+            "https://gilbertdoctorow.com/"
+        ],
+        "description": "Gilbert Doctorow is a Brussels-based independent political analyst and historian specializing in Russia and international affairs. He provides in-depth commentary on East-West relations, Russian politics, and global security, often challenging mainstream Western narratives."
     }
 ]
 
