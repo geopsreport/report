@@ -246,6 +246,11 @@
         {% for article in page.articles limit:10 %}
           <li>
             <a class="article-title" href="{{ article.url }}" target="_blank">{{ article.title }}</a>
+            {% if article.published %}
+              <span class="article-date" style="display:block; color:#888; font-size:0.95em; margin-bottom:0.2em;">
+                {{ article.published | date: "%B %d, %Y" }}
+              </span>
+            {% endif %}
             {% if article.text %}
               <p class="article-summary">{{ article.text | strip_html | truncate: 200 }}</p>
             {% endif %}
