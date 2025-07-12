@@ -232,6 +232,14 @@ analysts = [
             "https://gilbertdoctorow.com/"
         ],
         "description": "Gilbert Doctorow is a Brussels-based independent political analyst and historian specializing in Russia and international affairs. He provides in-depth commentary on East-West relations, Russian politics, and global security, often challenging mainstream Western narratives."
+    },
+    {
+        "name": "Michael Hudson",
+        "websites": [
+            "https://michael-hudson.com/",
+            "https://geopoliticaleconomy.com/author/michael-hudson/"
+        ],
+        "description": "Michael Hudson is a distinguished American economist, professor, and author specializing in finance, debt, and economic history. He is known for his critical analysis of global financial systems, US economic policy, and the geopolitics of debt. Hudson regularly publishes independent research and commentary on his website and at Geopolitical Economy."
     }
 ]
 
