@@ -150,7 +150,7 @@ Write only the lead paragraph, nothing else:"""
     return response.choices[0].message.content.strip()
 
 def save_site_post(summary, lead, sources):
-    sources = [s.name for s in sources]
+    sources = [s.name for s in sources if s]
     sources = "analysts:\n  - "+"\n  - ".join(sources)
     now = datetime.datetime.now(datetime.timezone.utc)
     date_str = now.strftime('%Y-%m-%d')
