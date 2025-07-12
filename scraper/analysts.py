@@ -50,11 +50,6 @@ analysts = [
         "description": "Former CIA case/military intel officer; now security consultant and columnist; directs Council for the National Interest; anti-interventionist realism."
     },
     {
-        "name": "Andrei Martyanov",
-        "websites": ["https://smoothiex12.blogspot.com/"],
-        "description": "Former Soviet naval officer and military analyst; runs 'Reminiscence of the Future' blog, focusing on Russian vs US military-industrial realities."
-    },
-    {
         "name": "Chas W. Freeman Jr.",
         "websites": ["https://chasfreeman.net"],
         "description": "Retired US diplomat and China/Middle East expert; realist voice on geopolitics; archives speeches/articles critical of US policy."
@@ -110,11 +105,6 @@ analysts = [
         "description": "Australian satirical anti–war journalist; reader–funded Substack; challenges media propaganda and US/NATO interventions daily."
     },
     {
-        "name": "Thierry Meyssan",
-        "websites": ["https://voltairenet.org"],
-        "description": "French activist-journalist; founder of Voltaire Network; writes in French/English challenging Western media on war, disinformation, geopolitics."
-    },
-    {
         "name": "Elijah J. Magnier",
         "websites": ["https://ejmagnier.com"],
         "description": "Veteran Middle East war correspondent; provides first-hand analysis of Syria, Iraq, Gaza; writes for The Cradle and personal blog."
@@ -128,11 +118,6 @@ analysts = [
         "name": "Moon of Alabama (Bernhard)",
         "websites": ["https://moonofalabama.org"],
         "description": "Anonymous German blogger; daily open–source intelligence deep–dives, critical of NATO/Western media, widely followed by OSINT community."
-    },
-    {
-        "name": "Boris Rozhin (Colonel Cassad)",
-        "websites": ["https://colonelcassad.livejournal.com/"],
-        "description": "Russian military-history analyst; Crimea–based; provides minute–by–minute OSINT on Ukraine from pro–resistance, anti–NATO viewpoint."
     },
     {
         "name": "Jeffrey Sachs",
