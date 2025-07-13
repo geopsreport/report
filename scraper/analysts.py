@@ -225,6 +225,13 @@ analysts = [
             "https://geopoliticaleconomy.com/author/michael-hudson/"
         ],
         "description": "Michael Hudson is a distinguished American economist, professor, and author specializing in finance, debt, and economic history. He is known for his critical analysis of global financial systems, US economic policy, and the geopolitics of debt. Hudson regularly publishes independent research and commentary on his website and at Geopolitical Economy."
+    },
+    {
+        "name": "Jack Rasmus",
+        "websites": [
+            "https://jackrasmus.com/"
+        ],
+        "description": "Jack Rasmus is an American economist, author, and radio show host focusing on US and global political economy, financial crises, and labor issues. He regularly publishes analysis on his website and is known for his critical perspectives on economic policy and capitalism."
     }
 ]
 
