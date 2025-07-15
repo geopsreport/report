@@ -2,7 +2,7 @@ name: Scrape Articles
 
 on:
   schedule:
-    - cron: '0 5,17 * * *'  # 5 AM and 5 PM UTC
+    - cron: '0 5 * * *'  # 5 AM UTC
   workflow_dispatch:
 
 permissions:

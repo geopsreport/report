@@ -2,7 +2,7 @@ name: Publish Reports
 
 on:
   schedule:
-    - cron: '0 6,18 * * *'  # 6 AM and 6 PM UTC
+    - cron: '0 6 * * *'  # 6 AM UTC
   workflow_dispatch:
 
 permissions:
