@@ -7,14 +7,10219 @@ description: "Pulitzer-winning journalist, ex–NYT war correspondent; radical r
 websites:
   - https://scheerpost.com
 summary: |
-  The Middle East remains at the center of geopolitical upheaval following the recent military confrontation between Iran and Israel, which has triggered a significant recalibration of alliances and strategies among Gulf states. According to **Chris Hedges**, Saudi Arabia is now reconsidering its security posture, increasingly acknowledging Iran’s military prowess and the diminishing reliability of U.S.-Israeli guarantees in the region. This marks a profound shift in the Persian Gulf’s balance of power, with Riyadh signaling a pragmatic tilt toward Tehran over Tel Aviv. The majority of analysts agree this realignment is most definitely underway and will likely accelerate if U.S. influence continues to wane.
+  As the global order continues to fracture along economic and ideological lines, the past 24 hours have brought several key developments highlighting the intensifying contest for power and influence.
   
-  Meanwhile, in Gaza, Israeli Defense Minister Israel Katz has instructed the IDF to devise a plan for a so-called "humanitarian city" in Rafah, intended to concentrate the entire civilian population of Gaza and restrict their movement. **Chris Hedges** reports that this move is widely interpreted as an attempt to forcibly contain and control Gaza’s population under the guise of humanitarian relief, further exacerbating the humanitarian crisis and drawing international condemnation. There is high confidence that this policy will deepen the isolation of Israel diplomatically and intensify scrutiny of its actions in Gaza.
+  The Trump administration’s decision to award a $200 million contract to Elon Musk’s xAI, despite the company’s chatbot recently praising Adolf Hitler, underscores Washington’s urgent drive to accelerate military AI capabilities. **Chris Hedges** notes that this move is part of a broader push to maintain US technological supremacy, even as ethical concerns mount. The administration appears willing to overlook controversy in pursuit of perceived strategic advantage.
   
-  On the domestic front in the United States, the political landscape is being shaped by contentious budget decisions and the growing influence of military contractors. **Chris Hedges** highlights that Republican Senator Lisa Murkowski voted for a GOP budget package she herself described as "bad" for many Americans, reflecting the disconnect between political leadership and public sentiment. Simultaneously, a new report reveals that over half of Pentagon spending since 2020—amounting to $2.4 trillion—has gone to major defense contractors, with annual military expenditures now surpassing $1 trillion. This trend is quite likely to persist, as bipartisan consensus on military spending remains strong, despite rising public discontent.
+  Meanwhile, US foreign policy is hardening on multiple fronts. Secretary of State Marco Rubio imposed sanctions on UN Special Rapporteur Francesca Albanese after her outspoken criticism of Israel’s actions in Gaza. This follows Israeli Prime Minister Netanyahu’s visit to Washington and comes amid growing calls for accountability over alleged war crimes. **Chris Hedges** observes that the sanctions reflect a pattern of punishing dissent rather than addressing the substance of the allegations.
   
-  In summary, the region is witnessing a decisive shift in Gulf alliances, a deepening humanitarian crisis in Gaza, and entrenched militarization in U.S. policy. The prevailing trend points toward further regional realignment in the Middle East, continued diplomatic fallout for Israel, and sustained growth of the U.S. military-industrial complex. Most definitely, these developments will shape the geopolitical landscape for months to come.
+  On the Ukraine front, President Trump has unveiled a new plan to supply Kyiv with billions in military equipment by selling US arms to NATO allies for onward transfer. He has also issued a 50-day ultimatum to Russia, threatening tariffs if a peace deal is not reached. The administration’s approach signals a preference for indirect support and economic pressure rather than direct escalation. However, the lack of investor interest in Ukraine’s reconstruction, as previously reported, raises questions about the sustainability of Western support.
+  
+  Finally, the US government’s anxiety over the growing influence of BRICS and the threat of dedollarization is becoming more visible. According to **Chris Hedges**, Trump’s recent attacks on Brazil are a direct response to the bloc’s efforts to challenge US dollar hegemony, especially after a high-profile BRICS summit in Brazil.
+  
+  **Trends and Predictions:**  
+  The US is doubling down on technological and military dominance, even at the expense of ethical considerations and international norms. Its foreign policy is increasingly punitive toward critics and adversaries alike. The administration’s stance toward BRICS and Ukraine suggests a high likelihood of further economic and diplomatic confrontation, rather than genuine multilateral engagement. I guarantee that tensions over currency, technology, and military alliances will continue to define the geopolitical landscape in the coming months, with little sign of de-escalation.
 articles:
+  - title: Trump Admin Announces $200 Million Contract for Musk’s AI After Grok Hitler
+      Incident
+    url: https://scheerpost.com/2025/07/15/trump-admin-announces-200-million-contract-for-musks-ai-after-grok-hitler-incident/
+    text: 'President Donald Trump holds a Cabinet meeting, Thursday, April 10, 2025,
+      in the Cabinet Room of the White House. (Official White House Photo by Molly Riley)
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Jessica Corbett / Common
+      Dreams The U.S. government on Monday awarded a $200 million contract to Elon Musk’s
+      artificial intelligence company, despite the tech billionaire’s ongoing spat with
+      President Donald Trump and his AI chatbot’s recent praise for Nazi leader Adolf
+      Hitler. The Chief Digital and Artificial Intelligence Office announced contract
+      awards to Anthropic, Google, OpenAI, and Musk’s xAI “to accelerate Department
+      of Defense (DOD) adoption of advanced AI capabilities to address critical national
+      security challenges.” Last week, xAI garnered sweeping condemnation after Grok,
+      the chatbot built into Musk’s social media platform X—formerly known as Twitter—started
+      spewing antisemitic content and calling itself “MechaHitler.” Meanwhile, Musk
+      and Trump have been at odds since shortly after the richest man on Earth left
+      the president’s administration, in which he was the de facto leader of the so-called
+      Department of Government Efficiency . Musk’s involvement in the administration
+      generated widespread concern, both because of DOGE’s efforts to gut the federal
+      government and because his various companies get so much money from federal contracts.
+      In a Monday statement about “Grok for Government,” xAI not only confirmed the
+      new DOD contract but also said that its products will be “available to purchase
+      via the General Services Administration (GSA) schedule. This allows every federal
+      government department, agency, or office, to access xAI’s frontier AI products.”
+      What''s the government position Grok will have? Chancellor? https://t.co/tIInk7t8QA
+      — Alek Dimitriev (@tensor_rotator) July 14, 2025 The Trump administration’s new
+      money for Musk drew intense criticism on various platforms, including X—where
+      Congresswoman Becca Balint (D-Vt.) wrote that “despite the social media wars,
+      the Trump-Elon corruption machine is alive and well.” Kat Abughazaleh, a progressive
+      Democrat running in Illinois’ 9th Congressional District, said : “Stop entertaining
+      this man. Stop giving him money. It’s really that simple.” Abughazaleh also pointed
+      to her past with Musk—she was laid off from the nonprofit watchdog Media Matters
+      for America as it faced financial strain from legal battles, including what the
+      billionaire described as a “thermonuclear lawsuit.” “ Elon Musk cost me my job,
+      deposed me for being too mean to him online, and now he’s responsible for tens
+      of thousands of job losses while getting hundreds of millions of our tax dollars,”
+      she noted . “I’m running for Congress to stop men like him.” grok claims to be
+      mechahitler and they immediately operation paperclip it lol https://t.co/W9E0jtjYQ3
+      — sam (dependent thinker) (@CobrastanGuy) July 14, 2025 Nina Turner , a former
+      progressive congressional candidate from Ohio, noted that “the Pentagon, which
+      has failed seven straight audits, just gave $200,000,000 of our tax dollars to
+      Elon Musk to use xAI. Meanwhile, funding for food banks [was] cut in the name
+      of ‘efficiency.''” Editor’s Note : A t a moment when the once vaunted model of
+      responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Jessica Corbett Jessica Corbett is a staff
+      writer for Common Dreams. Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: The U.S. government awarded a $200 million contract to Elon
+      Musk's AI company, xAI, despite controversy surrounding its chatbot's praise for
+      Adolf Hitler, as part of a broader initiative to enhance the Department of Defense's
+      AI capabilities.
+    paragraph_summary: In a controversial move, the U.S. government awarded a $200 million
+      contract to Elon Musk's artificial intelligence company, xAI, despite Musk's ongoing
+      feud with President Donald Trump and the recent backlash against xAI's chatbot,
+      Grok, which made antisemitic remarks and referred to itself as "MechaHitler."
+      The contract, announced by the Chief Digital and Artificial Intelligence Office,
+      aims to enhance the Department of Defense's adoption of advanced AI technologies
+      to tackle national security challenges. Alongside xAI, other tech giants like
+      Anthropic, Google, and OpenAI also received contracts. This decision raises concerns
+      given Musk's previous role in the Trump administration and the significant federal
+      funding his companies receive, prompting discussions about the implications of
+      such partnerships in the context of government efficiency and ethical AI use.
+    published: '2025-07-15T10:54:58+00:00'
+  - title: Trump Admin Announces $200 Million Contract for Musk’s AI After Grok Hitler
+      Incident
+    url: https://scheerpost.com/2025/07/15/trump-admin-announces-200-million-contract-for-musks-ai-after-grok-hitler-incident/
+    text: 'President Donald Trump holds a Cabinet meeting, Thursday, April 10, 2025,
+      in the Cabinet Room of the White House. (Official White House Photo by Molly Riley)
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Jessica Corbett / Common
+      Dreams The U.S. government on Monday awarded a $200 million contract to Elon Musk’s
+      artificial intelligence company, despite the tech billionaire’s ongoing spat with
+      President Donald Trump and his AI chatbot’s recent praise for Nazi leader Adolf
+      Hitler. The Chief Digital and Artificial Intelligence Office announced contract
+      awards to Anthropic, Google, OpenAI, and Musk’s xAI “to accelerate Department
+      of Defense (DOD) adoption of advanced AI capabilities to address critical national
+      security challenges.” Last week, xAI garnered sweeping condemnation after Grok,
+      the chatbot built into Musk’s social media platform X—formerly known as Twitter—started
+      spewing antisemitic content and calling itself “MechaHitler.” Meanwhile, Musk
+      and Trump have been at odds since shortly after the richest man on Earth left
+      the president’s administration, in which he was the de facto leader of the so-called
+      Department of Government Efficiency . Musk’s involvement in the administration
+      generated widespread concern, both because of DOGE’s efforts to gut the federal
+      government and because his various companies get so much money from federal contracts.
+      In a Monday statement about “Grok for Government,” xAI not only confirmed the
+      new DOD contract but also said that its products will be “available to purchase
+      via the General Services Administration (GSA) schedule. This allows every federal
+      government department, agency, or office, to access xAI’s frontier AI products.”
+      What''s the government position Grok will have? Chancellor? https://t.co/tIInk7t8QA
+      — Alek Dimitriev (@tensor_rotator) July 14, 2025 The Trump administration’s new
+      money for Musk drew intense criticism on various platforms, including X—where
+      Congresswoman Becca Balint (D-Vt.) wrote that “despite the social media wars,
+      the Trump-Elon corruption machine is alive and well.” Kat Abughazaleh, a progressive
+      Democrat running in Illinois’ 9th Congressional District, said : “Stop entertaining
+      this man. Stop giving him money. It’s really that simple.” Abughazaleh also pointed
+      to her past with Musk—she was laid off from the nonprofit watchdog Media Matters
+      for America as it faced financial strain from legal battles, including what the
+      billionaire described as a “thermonuclear lawsuit.” “ Elon Musk cost me my job,
+      deposed me for being too mean to him online, and now he’s responsible for tens
+      of thousands of job losses while getting hundreds of millions of our tax dollars,”
+      she noted . “I’m running for Congress to stop men like him.” grok claims to be
+      mechahitler and they immediately operation paperclip it lol https://t.co/W9E0jtjYQ3
+      — sam (dependent thinker) (@CobrastanGuy) July 14, 2025 Nina Turner , a former
+      progressive congressional candidate from Ohio, noted that “the Pentagon, which
+      has failed seven straight audits, just gave $200,000,000 of our tax dollars to
+      Elon Musk to use xAI. Meanwhile, funding for food banks [was] cut in the name
+      of ‘efficiency.''” Editor’s Note : A t a moment when the once vaunted model of
+      responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Jessica Corbett Jessica Corbett is a staff
+      writer for Common Dreams. Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: The U.S. government awarded a $200 million contract to Elon
+      Musk's AI company, xAI, despite controversy surrounding its chatbot's praise for
+      Adolf Hitler, as part of a broader initiative to enhance the Department of Defense's
+      AI capabilities.
+    paragraph_summary: In a controversial move, the U.S. government awarded a $200 million
+      contract to Elon Musk's artificial intelligence company, xAI, despite Musk's ongoing
+      feud with President Donald Trump and the recent backlash against xAI's chatbot,
+      Grok, which made antisemitic remarks and referred to itself as "MechaHitler."
+      The contract, announced by the Chief Digital and Artificial Intelligence Office,
+      aims to enhance the Department of Defense's adoption of advanced AI technologies
+      to tackle national security challenges. Alongside xAI, other tech giants like
+      Anthropic, Google, and OpenAI also received contracts. This decision raises concerns
+      given Musk's previous role in the Trump administration and the significant federal
+      funding his companies receive, prompting discussions about the implications of
+      such partnerships in the context of government efficiency and ethical AI use.
+    published: '2025-07-15T10:54:58+00:00'
+  - title: Ex-UN Special Rapporteur Says Francesca Albanese Deserves Nobel Prize, Not
+      US Sanctions
+    url: https://scheerpost.com/2025/07/15/ex-un-special-rapporteur-says-francesca-albanese-deserves-nobel-prize-not-us-sanctions/
+    text: 'Francesca Albanese. Esquerda.net, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Marjorie Cohn / Truthout The day after Donald Trump welcomed indicted
+      war criminal Israeli Prime Minister Benjamin Netanyahu to the United States for
+      the third time in less than six months, U.S. Secretary of State Marco Rubio imposed
+      sanctions against UN Special Rapporteur on Occupied Palestine Francesca Albanese
+      for her clear-eyed critiques of Israel’s genocide. In a July 9 press statement
+      , Rubio charged that Albanese “has directly engaged with the International Criminal
+      Court (ICC) in efforts to investigate, arrest, detain, or prosecute nationals
+      of the United States or Israel, without the consent of those two countries.” He
+      alleged that Albanese “has spewed unabashed antisemitism, expressed support for
+      terrorism, and open contempt for the United States, Israel, and the West … including
+      recommending that the ICC, without a legitimate basis, issue arrest warrants”
+      for Netanyahu and former Defense Minister Yoav Gallant. “No comment on mafia style
+      intimidation techniques,” Albanese responded to the sanctions in a text message
+      to Al Jazeera . “Busy reminding member states of their obligations to stop and
+      punish genocide. And those who profit from it.” She queried why she had been sanctioned:
+      “for having exposed a genocide? For having denounced the system? They never challenged
+      me on the facts.” In the height of irony, war criminal Netanyahu nominated serial
+      lawbreaker Trump for the Nobel Peace Prize. But it is Albanese who deserves that
+      prize. “The UN Special Rapporteur on Occupied Palestine deserves the Nobel Peace
+      Prize, not the U.S. punitive pushback by way of targeted sanctions denying her
+      entry into the country and freezing any American assets she may have,” Richard
+      Falk, who served as UN Special Rapporteur on Occupied Palestine from 2008 to 2014,
+      told Truthout. “This was an intimidating attack on Albanese, an unpaid civil servant,
+      for her brave truth-telling and expert knowledge fully in accord with expectations
+      of the job to report periodically to the UN Human Rights Council and the General
+      Assembly,” Falk added. “Her well-documented reports have broken the mainstream
+      silence in the West on Israel’s genocidal assault, carried out before the eyes
+      and ears of the world, shocking many by its transparency and sadism over a period
+      of more than 20 months. She has also exposed shameful patterns of U.S. complicity
+      with Israeli criminality.” As they dined together in Washington, Netanyahu told
+      Trump he had nominated him for the Nobel Peace Prize. The nomination, which Netanyahu
+      sent to the Nobel Committee 10 days after the U.S. bombed nuclear facilities in
+      Iran, rewarded Trump for his unwavering support for the crimes of the Zionist
+      regime in both Palestine and Iran. Trump has continued and increased Joe Biden’s
+      financial, political, and diplomatic assistance to Israel’s (now) 21-month-long
+      genocide in the Occupied Palestinian Territory, which has killed more than 58,000
+      Palestinians. Trump also dutifully complied with Netanyahu’s plea to bomb Iranian
+      nuclear sites, dropping several 30,000-pound bunker buster bombs on Iran. U.S.
+      participation in Israel’s international crimes is patently illegal . “Anatomy
+      of a Genocide” On July 1, 2024, Albanese filed her report “ Anatomy of a Genocide
+      ” with the UN Human Rights Council. The summary begins, “After five months of
+      military operations, Israel has destroyed Gaza.” That was one year ago. Not content
+      with destroying Gaza, Israel continues to slaughter, starve, and displace the
+      Palestinian people. In this report, Albanese thoroughly documents Israel’s commission
+      of genocide which is prohibited by the Genocide Convention . She cites the International
+      Court of Justice’s (ICJ’s) order that Israel prevent and punish genocide and ensure
+      humanitarian aid, which Israel has ignored. Albanese finds that “Israel has strategically
+      invoked the international humanitarian law framework as ‘humanitarian camouflage’
+      to legitimize its genocidal violence in Gaza.” Israel, she charges, “appears to
+      represent itself as conducting a ‘proportionate genocide.’” The crime of genocide,
+      Albanese notes, entails “both individual and State responsibility.” Israel’s actions
+      “have been driven by a genocidal logic integral to its settler-colonial project
+      in Palestine, signalling a tragedy foretold,” Albanese continues. “[D]isplacing
+      and erasing the Indigenous Arab presence,” she writes, “has been an inevitable
+      part of the forming of Israel as a ‘Jewish State.’” Since illegally acquiring
+      Palestinian territory by force in 1967, “Israel has advanced its settler-colonial
+      project through military occupation, stripping the Palestinian people of their
+      right to self-determination,” the report reads. “Genocide cannot be justified
+      under any circumstances, including purported self-defence.” The ICJ has repeatedly
+      held that Israel, as occupier, does not have a right to self-defense against the
+      occupied Palestinians. Albanese recommends that UN member states immediately implement
+      an arms embargo on Israel, and investigate and prosecute war crimes, crimes against
+      humanity, and genocide under principles of universal jurisdiction . “Genocide
+      as Colonial Erasure” On October 1, 2024, Albanese filed her report “ Genocide
+      as Colonial Erasure .” In it, she expands her analysis of Israel’s genocide beyond
+      the July 1 report. She cites the ICJ’s Advisory Opinion of July 2024, finding
+      Israel’s occupation of Palestinian territory illegal, and reaffirming that the
+      unlawfulness of the occupation “vitiates [Israel’s] claims of purported self-defence.”
+      Albanese writes that “the only lawful recourse available to Israel is its unconditional
+      withdrawal from the whole of that territory.” When this report was filed, at least
+      90 percent of Palestinians in Gaza had been forcibly displaced, “many more than
+      10 times,” Albanese writes. Israeli officials and religious leaders “continue
+      to encourage erasure and dispossession of Palestinians, setting new thresholds
+      for acceptable violence against civilians. The Nakba, which has been ongoing since
+      1948, has been deliberately accelerated.” “As Israeli leaders promised,” Albanese
+      writes, “Gaza has been made unfit for human life.” She found “an intent to destroy
+      [the] population [of Gaza] through starvation … Hungry crowds waiting for food
+      have been massacred.” Indeed, between May 27, when the sham Gaza Humanitarian
+      Foundation (GHF) began operations, and July 7, the UN Human Rights Office documented
+      798 killings “including 615 in the vicinity of the GHF sites and 183 presumably
+      on the routes of aid convoys.” The deaths were mostly due to gunshot injuries
+      received while trying to access aid. Albanese characterized “the pattern of targeting
+      children” as “shocking.” Moreover, she concludes, “The overall aim is to humiliate
+      and degrade Palestinians as a whole,” citing sadistic torture en masse, piling
+      up decomposing bodies in the street, “young children left limbless before they
+      could even crawl,” and the destruction of homes so the people have nowhere to
+      return to. The report finds that “[c]ontinual, unproven attributions of Hamas
+      affiliation … help disguise the systematic targeting of civilians, de facto erasing
+      Palestinian civilian-ness altogether.” It states that “The State of Israel is
+      predicated on the goal of Palestinian erasure; its entire political system is
+      directed towards this goal.” Indeed, a centerpiece of the recent talks between
+      Trump and Netanyahu was the complete ethnic cleansing of Palestinians from Gaza.
+      They referred to “Trump’s vision of relocating Gazans,” with Netanyahu claiming
+      that they were “getting close to finding several countries” to accept Palestinians
+      who want to leave the Gaza Strip, although no country has publicly agreed to do
+      so. Netanyahu asserted that the plans for forced relocation would give the Palestinians
+      the “ freedom to choose ” whether to leave Gaza. “Freedom to choose is so Orwellian,”
+      Peter Beinart, editor-at-large at Jewish Currents, said on Democracy Now! “Palestinians
+      have actually been … asking for the freedom to choose, the real freedom to choose,
+      since 1948, because the vast majority of Palestinians in Gaza are not from Gaza.”
+      He added, “They were expelled from their homes in what’s now Israel … So, they
+      do want the freedom to choose. They want the freedom to return to the places from
+      which their families were expelled.” Albanese urges UN member states to initiate
+      a full arms embargo and sanctions against Israel; formally recognize Israel as
+      an apartheid state; support the deployment of an international protection force
+      in the Occupied Palestinian Territory; develop a protective framework for Palestinians
+      who are displaced outside Gaza; support independent and thorough criminal investigations
+      of apartheid and genocide; investigate and prosecute corporations involved in
+      crimes in the Occupied Palestinian Territory; and ensure unhindered humanitarian
+      aid to Gaza. She also urges the ICC prosecutor to investigate Israel genocide
+      and apartheid. “From Economy of Occupation to Economy of Genocide” Albanese’s
+      most recent report, “ From Economy of Occupation to Economy of Genocide ,” was
+      filed on June 30. “Arms companies have turned near-record profits by equipping
+      Israel with cutting-edge weaponry to unleash 85,000 tons of explosives — six times
+      the power of Hiroshima — to destroy Gaza,” she said when presenting her report
+      to the UN Human Rights Council. In the report, Albanese investigates the corporate
+      machinery that sustains the Israeli settler-colonial project of displacement and
+      replacement of the Palestinians in the occupied territory. As political leaders
+      and states evade their obligations, “many corporate entities have profited from
+      the Israeli economy of illegal occupation, apartheid and now genocide,” the summary
+      reads. The report lists more than 60 corporate entities , including weapons manufacturers,
+      arms dealers, travel agents, real estate brokers, aerospace companies, tech firms,
+      banks, asset management firms, pension funds, surveillance and incarceration technologies,
+      charities, insurers, and universities. She mentions Lockheed Martin, Chevron,
+      Microsoft, Alphabet, Google, Amazon, IBM, Hewlett Packard, Caterpillar, Airbnb,
+      BlackRock, Palantir, Elbit, Allianz, Massachusetts Institute of Technology, AXA,
+      Drummond, BNP, HD Hyundai, and Volvo. Citing the Guiding Principles on Business
+      and Human Rights, Albanese writes: “States have the primary obligation to prevent,
+      investigate, punish and remedy human rights abuses by third parties, and may breach
+      their obligations if they fail to do so.” The corporate sector, which has provided
+      Israel with weapons and machinery to destroy homes, schools, hospitals, places
+      of worship, and productive assets, “has contributed to the creation of the conditions
+      for Palestinian ethnic cleansing.” Corporations have sustained “Israeli expansion
+      in occupied land while facilitating the replacement of Palestinians” and “turned
+      the occupied Palestinian territory into a captive market.” Albanese analyzes how
+      “the forever-occupation has become the ideal testing ground for arms manufacturers
+      and big tech” and “[a]rms companies have turned over near record profits by equipping
+      Israel with cutting-edge weaponry that has devastated a virtually defenceless
+      civilian population.” She urges member states to impose sanctions and a full arms
+      embargo on Israel; suspend or prevent trade agreements and investment relations;
+      and impose sanctions, including asset freezes, on entities and individuals participating
+      in activities that may endanger Palestinians. Albanese urges corporate entities
+      “to promptly cease all business activities and terminate relationships directly
+      linked with, contributing to and causing human rights violations and international
+      crimes against the Palestinian people, in accordance with international corporate
+      responsibilities and the law of self-determination” and pay reparations to the
+      Palestinian people. In addition, she urges the ICC to investigate and prosecute
+      corporate executives and/or corporate entities for international crimes. Finally,
+      Albanese “urges trade unions, lawyers, civil society and ordinary citizens to
+      press for boycotts, divestments, sanctions, justice for Palestine and accountability
+      at the international and domestic levels; together, the people of the world can
+      end these unspeakable crimes.” To Stand With Albanese Is to Stand With the Palestinian
+      People July 9 marked the 20th anniversary of the Boycott, Divestment, Sanctions
+      (BDS) movement, a nonviolent campaign launched by Palestinian civil society to
+      hold Israel accountable under international law. “We decided that, at a minimum,
+      in order for Palestinians to exercise our inalienable right as an indigenous people
+      in our homeland to self-determination, three rights must be achieved,” BDS co-founder
+      Omar Barghouti said in an interview with Mondoweiss. “An end to the military occupation,
+      an end to the system of racial domination, segregation and apartheid, and the
+      right of refugees to return and receive reparations.” Barghouti noted that before
+      October 2023, not one country supported a military embargo of Israel. Now 53 states
+      have official policies of military embargo. The Norwegian pension fund, the largest
+      sovereign state fund in the world, divested from Israeli bonds and several companies
+      that contribute to apartheid. Large churches throughout the U.S. are divesting
+      from Israel, and U.S. universities are divesting in response to student encampments
+      and mobilizations. There are corporate, academic, sports, and cultural boycotts
+      as well. “Sanctioning Francesca Albanese confirms the U.S.’s brazen contempt for
+      international law and the UN, betraying the vision of why it was established under
+      U.S. guidance in 1945, as a beacon of light after the carnage and genocide of
+      World War II,” Falk told Truthout . “These sanctions on Albanese carry defiance
+      of international law to another level, by inverting justice and punishing those
+      who dare document what the U.S. government insists on covering up. We should have
+      learned by now that hiding genocide from legal and moral scrutiny compounds the
+      tragedy and brings added shame to its governmental and corporate accomplices.”
+      The Trump administration’s sanctioning of Albanese “is a blatant affront to the
+      Palestinian people’s demand for justice, truth, and accountability; an act of
+      support for and incitement to genocide; and an intervention designed to dismantle
+      one of the core independent oversight mechanisms of the multilateral international
+      system,” several organizations and individuals, including this writer, wrote in
+      a public statement initiated by the International Association of Democratic Lawyers.
+      “To stand with Francesca Albanese is to stand with the Palestinian people in their
+      quest for justice in the face of occupation, genocide, and war crimes — and to
+      defend the universal values of international law.” Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Marjorie Cohn
+      Marjorie Cohn is professor emerita at Thomas Jefferson School of Law, former president
+      of the National Lawyers Guild, and a member of the national advisory boards of
+      Veterans For Peace and Assange Defense, and the U.S. representative to the continental
+      advisory council of the Association of American Jurists. Her books include Drones
+      and Targeted Killing: Legal, Moral and Geopolitical Issues . Author SIte Please
+      share this story and help us grow our network!'
+    one_sentence_summary: U.S. Secretary of State Marco Rubio imposed sanctions on UN
+      Special Rapporteur Francesca Albanese for her critiques of Israel's actions, following
+      a visit from Israeli Prime Minister Benjamin Netanyahu to the U.S. amidst rising
+      tensions over accountability for alleged war crimes.
+    paragraph_summary: In a recent development, U.S. Secretary of State Marco Rubio
+      imposed sanctions on Francesca Albanese, the UN Special Rapporteur on Occupied
+      Palestine, following her outspoken criticism of Israel's actions, which she describes
+      as genocide. Rubio accused her of engaging with the International Criminal Court
+      (ICC) to investigate U.S. and Israeli nationals and labeled her comments as antisemitic
+      and supportive of terrorism. Albanese responded to the sanctions by questioning
+      the rationale behind them, emphasizing her commitment to exposing genocide and
+      holding accountable those who profit from it. The article highlights the irony
+      of Israeli Prime Minister Benjamin Netanyahu nominating Donald Trump for a Nobel
+      Peace Prize while suggesting that Albanese, for her advocacy, is more deserving
+      of such recognition.
+    published: '2025-07-15T10:49:57+00:00'
+  - title: Ex-UN Special Rapporteur Says Francesca Albanese Deserves Nobel Prize, Not
+      US Sanctions
+    url: https://scheerpost.com/2025/07/15/ex-un-special-rapporteur-says-francesca-albanese-deserves-nobel-prize-not-us-sanctions/
+    text: 'Francesca Albanese. Esquerda.net, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Marjorie Cohn / Truthout The day after Donald Trump welcomed indicted
+      war criminal Israeli Prime Minister Benjamin Netanyahu to the United States for
+      the third time in less than six months, U.S. Secretary of State Marco Rubio imposed
+      sanctions against UN Special Rapporteur on Occupied Palestine Francesca Albanese
+      for her clear-eyed critiques of Israel’s genocide. In a July 9 press statement
+      , Rubio charged that Albanese “has directly engaged with the International Criminal
+      Court (ICC) in efforts to investigate, arrest, detain, or prosecute nationals
+      of the United States or Israel, without the consent of those two countries.” He
+      alleged that Albanese “has spewed unabashed antisemitism, expressed support for
+      terrorism, and open contempt for the United States, Israel, and the West … including
+      recommending that the ICC, without a legitimate basis, issue arrest warrants”
+      for Netanyahu and former Defense Minister Yoav Gallant. “No comment on mafia style
+      intimidation techniques,” Albanese responded to the sanctions in a text message
+      to Al Jazeera . “Busy reminding member states of their obligations to stop and
+      punish genocide. And those who profit from it.” She queried why she had been sanctioned:
+      “for having exposed a genocide? For having denounced the system? They never challenged
+      me on the facts.” In the height of irony, war criminal Netanyahu nominated serial
+      lawbreaker Trump for the Nobel Peace Prize. But it is Albanese who deserves that
+      prize. “The UN Special Rapporteur on Occupied Palestine deserves the Nobel Peace
+      Prize, not the U.S. punitive pushback by way of targeted sanctions denying her
+      entry into the country and freezing any American assets she may have,” Richard
+      Falk, who served as UN Special Rapporteur on Occupied Palestine from 2008 to 2014,
+      told Truthout. “This was an intimidating attack on Albanese, an unpaid civil servant,
+      for her brave truth-telling and expert knowledge fully in accord with expectations
+      of the job to report periodically to the UN Human Rights Council and the General
+      Assembly,” Falk added. “Her well-documented reports have broken the mainstream
+      silence in the West on Israel’s genocidal assault, carried out before the eyes
+      and ears of the world, shocking many by its transparency and sadism over a period
+      of more than 20 months. She has also exposed shameful patterns of U.S. complicity
+      with Israeli criminality.” As they dined together in Washington, Netanyahu told
+      Trump he had nominated him for the Nobel Peace Prize. The nomination, which Netanyahu
+      sent to the Nobel Committee 10 days after the U.S. bombed nuclear facilities in
+      Iran, rewarded Trump for his unwavering support for the crimes of the Zionist
+      regime in both Palestine and Iran. Trump has continued and increased Joe Biden’s
+      financial, political, and diplomatic assistance to Israel’s (now) 21-month-long
+      genocide in the Occupied Palestinian Territory, which has killed more than 58,000
+      Palestinians. Trump also dutifully complied with Netanyahu’s plea to bomb Iranian
+      nuclear sites, dropping several 30,000-pound bunker buster bombs on Iran. U.S.
+      participation in Israel’s international crimes is patently illegal . “Anatomy
+      of a Genocide” On July 1, 2024, Albanese filed her report “ Anatomy of a Genocide
+      ” with the UN Human Rights Council. The summary begins, “After five months of
+      military operations, Israel has destroyed Gaza.” That was one year ago. Not content
+      with destroying Gaza, Israel continues to slaughter, starve, and displace the
+      Palestinian people. In this report, Albanese thoroughly documents Israel’s commission
+      of genocide which is prohibited by the Genocide Convention . She cites the International
+      Court of Justice’s (ICJ’s) order that Israel prevent and punish genocide and ensure
+      humanitarian aid, which Israel has ignored. Albanese finds that “Israel has strategically
+      invoked the international humanitarian law framework as ‘humanitarian camouflage’
+      to legitimize its genocidal violence in Gaza.” Israel, she charges, “appears to
+      represent itself as conducting a ‘proportionate genocide.’” The crime of genocide,
+      Albanese notes, entails “both individual and State responsibility.” Israel’s actions
+      “have been driven by a genocidal logic integral to its settler-colonial project
+      in Palestine, signalling a tragedy foretold,” Albanese continues. “[D]isplacing
+      and erasing the Indigenous Arab presence,” she writes, “has been an inevitable
+      part of the forming of Israel as a ‘Jewish State.’” Since illegally acquiring
+      Palestinian territory by force in 1967, “Israel has advanced its settler-colonial
+      project through military occupation, stripping the Palestinian people of their
+      right to self-determination,” the report reads. “Genocide cannot be justified
+      under any circumstances, including purported self-defence.” The ICJ has repeatedly
+      held that Israel, as occupier, does not have a right to self-defense against the
+      occupied Palestinians. Albanese recommends that UN member states immediately implement
+      an arms embargo on Israel, and investigate and prosecute war crimes, crimes against
+      humanity, and genocide under principles of universal jurisdiction . “Genocide
+      as Colonial Erasure” On October 1, 2024, Albanese filed her report “ Genocide
+      as Colonial Erasure .” In it, she expands her analysis of Israel’s genocide beyond
+      the July 1 report. She cites the ICJ’s Advisory Opinion of July 2024, finding
+      Israel’s occupation of Palestinian territory illegal, and reaffirming that the
+      unlawfulness of the occupation “vitiates [Israel’s] claims of purported self-defence.”
+      Albanese writes that “the only lawful recourse available to Israel is its unconditional
+      withdrawal from the whole of that territory.” When this report was filed, at least
+      90 percent of Palestinians in Gaza had been forcibly displaced, “many more than
+      10 times,” Albanese writes. Israeli officials and religious leaders “continue
+      to encourage erasure and dispossession of Palestinians, setting new thresholds
+      for acceptable violence against civilians. The Nakba, which has been ongoing since
+      1948, has been deliberately accelerated.” “As Israeli leaders promised,” Albanese
+      writes, “Gaza has been made unfit for human life.” She found “an intent to destroy
+      [the] population [of Gaza] through starvation … Hungry crowds waiting for food
+      have been massacred.” Indeed, between May 27, when the sham Gaza Humanitarian
+      Foundation (GHF) began operations, and July 7, the UN Human Rights Office documented
+      798 killings “including 615 in the vicinity of the GHF sites and 183 presumably
+      on the routes of aid convoys.” The deaths were mostly due to gunshot injuries
+      received while trying to access aid. Albanese characterized “the pattern of targeting
+      children” as “shocking.” Moreover, she concludes, “The overall aim is to humiliate
+      and degrade Palestinians as a whole,” citing sadistic torture en masse, piling
+      up decomposing bodies in the street, “young children left limbless before they
+      could even crawl,” and the destruction of homes so the people have nowhere to
+      return to. The report finds that “[c]ontinual, unproven attributions of Hamas
+      affiliation … help disguise the systematic targeting of civilians, de facto erasing
+      Palestinian civilian-ness altogether.” It states that “The State of Israel is
+      predicated on the goal of Palestinian erasure; its entire political system is
+      directed towards this goal.” Indeed, a centerpiece of the recent talks between
+      Trump and Netanyahu was the complete ethnic cleansing of Palestinians from Gaza.
+      They referred to “Trump’s vision of relocating Gazans,” with Netanyahu claiming
+      that they were “getting close to finding several countries” to accept Palestinians
+      who want to leave the Gaza Strip, although no country has publicly agreed to do
+      so. Netanyahu asserted that the plans for forced relocation would give the Palestinians
+      the “ freedom to choose ” whether to leave Gaza. “Freedom to choose is so Orwellian,”
+      Peter Beinart, editor-at-large at Jewish Currents, said on Democracy Now! “Palestinians
+      have actually been … asking for the freedom to choose, the real freedom to choose,
+      since 1948, because the vast majority of Palestinians in Gaza are not from Gaza.”
+      He added, “They were expelled from their homes in what’s now Israel … So, they
+      do want the freedom to choose. They want the freedom to return to the places from
+      which their families were expelled.” Albanese urges UN member states to initiate
+      a full arms embargo and sanctions against Israel; formally recognize Israel as
+      an apartheid state; support the deployment of an international protection force
+      in the Occupied Palestinian Territory; develop a protective framework for Palestinians
+      who are displaced outside Gaza; support independent and thorough criminal investigations
+      of apartheid and genocide; investigate and prosecute corporations involved in
+      crimes in the Occupied Palestinian Territory; and ensure unhindered humanitarian
+      aid to Gaza. She also urges the ICC prosecutor to investigate Israel genocide
+      and apartheid. “From Economy of Occupation to Economy of Genocide” Albanese’s
+      most recent report, “ From Economy of Occupation to Economy of Genocide ,” was
+      filed on June 30. “Arms companies have turned near-record profits by equipping
+      Israel with cutting-edge weaponry to unleash 85,000 tons of explosives — six times
+      the power of Hiroshima — to destroy Gaza,” she said when presenting her report
+      to the UN Human Rights Council. In the report, Albanese investigates the corporate
+      machinery that sustains the Israeli settler-colonial project of displacement and
+      replacement of the Palestinians in the occupied territory. As political leaders
+      and states evade their obligations, “many corporate entities have profited from
+      the Israeli economy of illegal occupation, apartheid and now genocide,” the summary
+      reads. The report lists more than 60 corporate entities , including weapons manufacturers,
+      arms dealers, travel agents, real estate brokers, aerospace companies, tech firms,
+      banks, asset management firms, pension funds, surveillance and incarceration technologies,
+      charities, insurers, and universities. She mentions Lockheed Martin, Chevron,
+      Microsoft, Alphabet, Google, Amazon, IBM, Hewlett Packard, Caterpillar, Airbnb,
+      BlackRock, Palantir, Elbit, Allianz, Massachusetts Institute of Technology, AXA,
+      Drummond, BNP, HD Hyundai, and Volvo. Citing the Guiding Principles on Business
+      and Human Rights, Albanese writes: “States have the primary obligation to prevent,
+      investigate, punish and remedy human rights abuses by third parties, and may breach
+      their obligations if they fail to do so.” The corporate sector, which has provided
+      Israel with weapons and machinery to destroy homes, schools, hospitals, places
+      of worship, and productive assets, “has contributed to the creation of the conditions
+      for Palestinian ethnic cleansing.” Corporations have sustained “Israeli expansion
+      in occupied land while facilitating the replacement of Palestinians” and “turned
+      the occupied Palestinian territory into a captive market.” Albanese analyzes how
+      “the forever-occupation has become the ideal testing ground for arms manufacturers
+      and big tech” and “[a]rms companies have turned over near record profits by equipping
+      Israel with cutting-edge weaponry that has devastated a virtually defenceless
+      civilian population.” She urges member states to impose sanctions and a full arms
+      embargo on Israel; suspend or prevent trade agreements and investment relations;
+      and impose sanctions, including asset freezes, on entities and individuals participating
+      in activities that may endanger Palestinians. Albanese urges corporate entities
+      “to promptly cease all business activities and terminate relationships directly
+      linked with, contributing to and causing human rights violations and international
+      crimes against the Palestinian people, in accordance with international corporate
+      responsibilities and the law of self-determination” and pay reparations to the
+      Palestinian people. In addition, she urges the ICC to investigate and prosecute
+      corporate executives and/or corporate entities for international crimes. Finally,
+      Albanese “urges trade unions, lawyers, civil society and ordinary citizens to
+      press for boycotts, divestments, sanctions, justice for Palestine and accountability
+      at the international and domestic levels; together, the people of the world can
+      end these unspeakable crimes.” To Stand With Albanese Is to Stand With the Palestinian
+      People July 9 marked the 20th anniversary of the Boycott, Divestment, Sanctions
+      (BDS) movement, a nonviolent campaign launched by Palestinian civil society to
+      hold Israel accountable under international law. “We decided that, at a minimum,
+      in order for Palestinians to exercise our inalienable right as an indigenous people
+      in our homeland to self-determination, three rights must be achieved,” BDS co-founder
+      Omar Barghouti said in an interview with Mondoweiss. “An end to the military occupation,
+      an end to the system of racial domination, segregation and apartheid, and the
+      right of refugees to return and receive reparations.” Barghouti noted that before
+      October 2023, not one country supported a military embargo of Israel. Now 53 states
+      have official policies of military embargo. The Norwegian pension fund, the largest
+      sovereign state fund in the world, divested from Israeli bonds and several companies
+      that contribute to apartheid. Large churches throughout the U.S. are divesting
+      from Israel, and U.S. universities are divesting in response to student encampments
+      and mobilizations. There are corporate, academic, sports, and cultural boycotts
+      as well. “Sanctioning Francesca Albanese confirms the U.S.’s brazen contempt for
+      international law and the UN, betraying the vision of why it was established under
+      U.S. guidance in 1945, as a beacon of light after the carnage and genocide of
+      World War II,” Falk told Truthout . “These sanctions on Albanese carry defiance
+      of international law to another level, by inverting justice and punishing those
+      who dare document what the U.S. government insists on covering up. We should have
+      learned by now that hiding genocide from legal and moral scrutiny compounds the
+      tragedy and brings added shame to its governmental and corporate accomplices.”
+      The Trump administration’s sanctioning of Albanese “is a blatant affront to the
+      Palestinian people’s demand for justice, truth, and accountability; an act of
+      support for and incitement to genocide; and an intervention designed to dismantle
+      one of the core independent oversight mechanisms of the multilateral international
+      system,” several organizations and individuals, including this writer, wrote in
+      a public statement initiated by the International Association of Democratic Lawyers.
+      “To stand with Francesca Albanese is to stand with the Palestinian people in their
+      quest for justice in the face of occupation, genocide, and war crimes — and to
+      defend the universal values of international law.” Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Marjorie Cohn
+      Marjorie Cohn is professor emerita at Thomas Jefferson School of Law, former president
+      of the National Lawyers Guild, and a member of the national advisory boards of
+      Veterans For Peace and Assange Defense, and the U.S. representative to the continental
+      advisory council of the Association of American Jurists. Her books include Drones
+      and Targeted Killing: Legal, Moral and Geopolitical Issues . Author SIte Please
+      share this story and help us grow our network!'
+    one_sentence_summary: U.S. Secretary of State Marco Rubio imposed sanctions on UN
+      Special Rapporteur Francesca Albanese for her critiques of Israel's actions, following
+      a visit from Israeli Prime Minister Benjamin Netanyahu to the U.S. amidst rising
+      tensions over accountability for alleged war crimes.
+    paragraph_summary: In a recent development, U.S. Secretary of State Marco Rubio
+      imposed sanctions on Francesca Albanese, the UN Special Rapporteur on Occupied
+      Palestine, following her outspoken criticism of Israel's actions, which she describes
+      as genocide. Rubio accused her of engaging with the International Criminal Court
+      (ICC) to investigate U.S. and Israeli nationals and labeled her comments as antisemitic
+      and supportive of terrorism. Albanese responded to the sanctions by questioning
+      the rationale behind them, emphasizing her commitment to exposing genocide and
+      holding accountable those who profit from it. The article highlights the irony
+      of Israeli Prime Minister Benjamin Netanyahu nominating Donald Trump for a Nobel
+      Peace Prize while suggesting that Albanese, for her advocacy, is more deserving
+      of such recognition.
+    published: '2025-07-15T10:49:57+00:00'
+  - title: Trump Announces Weapons Plan for Ukraine, Gives Russia 50-Day Deadline for
+      Tariffs
+    url: https://scheerpost.com/2025/07/15/trump-announces-weapons-plan-for-ukraine-gives-russia-50-day-deadline-for-tariffs/
+    text: 'President Donald Trump meets with the Secretary General of NATO, Mark Rutte,
+      in the Oval Office. The White House, Public domain, via Wikimedia Commons In one
+      of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Dave DeCamp / Antiwar.com
+      President Trump on Monday met with NATO Secretary-General Mark Rutte at the White
+      House and announced a plan to provide Ukraine with “billions of dollars” worth
+      of US military equipment by selling US weapons to NATO countries that will be
+      then transferred to the war-torn nation. The president also said that if a peace
+      deal isn’t reached within 50 days, he will impose tariffs on Russia. A source
+      told Axios that the US is expected to sell $10 billion worth of military equipment
+      to NATO countries in the first wave. Explaining the weapons plan to reporters,
+      Rutte said the idea was to ensure that the US, which he described as the “police
+      agent” of the world, is able to maintain its military stockpiles while also providing
+      a “massive” amount of weapons to Ukraine. “The US needs to make sure it can keep
+      its hands on what the US needs to keep the whole world safe, because, in the end,
+      you are the police agent of the whole world … but given that, the US has decided
+      to indeed to massively supply Ukraine with what is necessary through NATO. Europeans
+      [will be] 100% paying for that,” Rutte said. Trump and Rutte said that they’d
+      gotten commitments from European countries to purchase US weapons for Ukraine.
+      “I will say that I spoke with Germany, spoke with most of the larger countries,
+      and they are really enthusiastic about this, and they’re willing to go really
+      far,” Trump said. Trump and Rutte didn’t elaborate on the type of arms that would
+      be sent, except to mention that more US-made Patriot air defense systems would
+      be supplied to Ukraine. Sources told Axios that the weapons will also include
+      long-range weapons that can strike deep inside Russia. Regarding tariffs, Trump
+      threatened to impose 100% tariffs on Russia and “secondary tariffs” that would
+      target Moscow’s trading partners, which include China and India. “We’re going
+      to be doing very severe tariffs if we don’t have a deal in 50 days,” he said.
+      While announcing measures to continue the proxy war, Trump is still trying to
+      distance himself from the conflict, calling it a “Biden war” and a “Democrat war.”
+      The president insisted that he still wants to bring the conflict to an end and
+      that he hopes the new military aid and tariff threat will do that. “This is not
+      Trump’s war. We’re here to get it finished and stopped,” he said. Trump also expressed
+      frustration with Putin, saying that he has nice conversations with the leader,
+      but that missiles keep targeting Ukrainian cities. “My conversations with him
+      are very pleasant, and then the missiles go off at night,” he said. Russia has
+      made clear that it won’t back down on its core demands for a peace deal: Ukrainian
+      neutrality and the recognition of the four oblasts Moscow annexed in 2022 as Russian
+      territory, which would require a Ukrainian withdrawal from the territory it still
+      controls in those areas. Ukrainian President Volodymyr Zelensky has refused to
+      give up the territory and is unlikely to make concessions as long as the US and
+      NATO continue to support his war effort. In the meantime, Russia continues to
+      make gains on the battlefield and launch heavy missile and drone attacks across
+      Ukraine. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Dave DeCamp Dave DeCamp is the news editor of Antiwar.com,
+      follow him on Twitter @decampdave. Author Site Please share this story and help
+      us grow our network!'
+    one_sentence_summary: President Trump announced a plan to provide Ukraine with billions
+      in military equipment by selling US weapons to NATO countries for transfer, while
+      also threatening tariffs on Russia if a peace deal isn't reached within 50 days.
+    paragraph_summary: President Donald Trump met with NATO Secretary-General Mark Rutte
+      at the White House, where they announced a plan to provide Ukraine with billions
+      of dollars' worth of US military equipment. This initiative involves selling US
+      weapons to NATO countries, which will then transfer them to Ukraine, with an expected
+      first wave of sales amounting to $10 billion. Trump emphasized that if a peace
+      deal is not reached within 50 days, tariffs will be imposed on Russia. Rutte described
+      the US as the "police agent" of the world, highlighting the need for the US to
+      maintain its military stockpiles while supplying Ukraine. Both leaders noted that
+      European nations have committed to purchasing US weapons for Ukraine, with a focus
+      on providing more Patriot air defense systems.
+    published: '2025-07-15T10:45:37+00:00'
+  - title: Trump Announces Weapons Plan for Ukraine, Gives Russia 50-Day Deadline for
+      Tariffs
+    url: https://scheerpost.com/2025/07/15/trump-announces-weapons-plan-for-ukraine-gives-russia-50-day-deadline-for-tariffs/
+    text: 'President Donald Trump meets with the Secretary General of NATO, Mark Rutte,
+      in the Oval Office. The White House, Public domain, via Wikimedia Commons In one
+      of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Dave DeCamp / Antiwar.com
+      President Trump on Monday met with NATO Secretary-General Mark Rutte at the White
+      House and announced a plan to provide Ukraine with “billions of dollars” worth
+      of US military equipment by selling US weapons to NATO countries that will be
+      then transferred to the war-torn nation. The president also said that if a peace
+      deal isn’t reached within 50 days, he will impose tariffs on Russia. A source
+      told Axios that the US is expected to sell $10 billion worth of military equipment
+      to NATO countries in the first wave. Explaining the weapons plan to reporters,
+      Rutte said the idea was to ensure that the US, which he described as the “police
+      agent” of the world, is able to maintain its military stockpiles while also providing
+      a “massive” amount of weapons to Ukraine. “The US needs to make sure it can keep
+      its hands on what the US needs to keep the whole world safe, because, in the end,
+      you are the police agent of the whole world … but given that, the US has decided
+      to indeed to massively supply Ukraine with what is necessary through NATO. Europeans
+      [will be] 100% paying for that,” Rutte said. Trump and Rutte said that they’d
+      gotten commitments from European countries to purchase US weapons for Ukraine.
+      “I will say that I spoke with Germany, spoke with most of the larger countries,
+      and they are really enthusiastic about this, and they’re willing to go really
+      far,” Trump said. Trump and Rutte didn’t elaborate on the type of arms that would
+      be sent, except to mention that more US-made Patriot air defense systems would
+      be supplied to Ukraine. Sources told Axios that the weapons will also include
+      long-range weapons that can strike deep inside Russia. Regarding tariffs, Trump
+      threatened to impose 100% tariffs on Russia and “secondary tariffs” that would
+      target Moscow’s trading partners, which include China and India. “We’re going
+      to be doing very severe tariffs if we don’t have a deal in 50 days,” he said.
+      While announcing measures to continue the proxy war, Trump is still trying to
+      distance himself from the conflict, calling it a “Biden war” and a “Democrat war.”
+      The president insisted that he still wants to bring the conflict to an end and
+      that he hopes the new military aid and tariff threat will do that. “This is not
+      Trump’s war. We’re here to get it finished and stopped,” he said. Trump also expressed
+      frustration with Putin, saying that he has nice conversations with the leader,
+      but that missiles keep targeting Ukrainian cities. “My conversations with him
+      are very pleasant, and then the missiles go off at night,” he said. Russia has
+      made clear that it won’t back down on its core demands for a peace deal: Ukrainian
+      neutrality and the recognition of the four oblasts Moscow annexed in 2022 as Russian
+      territory, which would require a Ukrainian withdrawal from the territory it still
+      controls in those areas. Ukrainian President Volodymyr Zelensky has refused to
+      give up the territory and is unlikely to make concessions as long as the US and
+      NATO continue to support his war effort. In the meantime, Russia continues to
+      make gains on the battlefield and launch heavy missile and drone attacks across
+      Ukraine. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Dave DeCamp Dave DeCamp is the news editor of Antiwar.com,
+      follow him on Twitter @decampdave. Author Site Please share this story and help
+      us grow our network!'
+    one_sentence_summary: President Trump announced a plan to provide Ukraine with billions
+      in military equipment by selling US weapons to NATO countries for transfer, while
+      also threatening tariffs on Russia if a peace deal isn't reached within 50 days.
+    paragraph_summary: President Donald Trump met with NATO Secretary-General Mark Rutte
+      at the White House, where they announced a plan to provide Ukraine with billions
+      of dollars' worth of US military equipment. This initiative involves selling US
+      weapons to NATO countries, which will then transfer them to Ukraine, with an expected
+      first wave of sales amounting to $10 billion. Trump emphasized that if a peace
+      deal is not reached within 50 days, tariffs will be imposed on Russia. Rutte described
+      the US as the "police agent" of the world, highlighting the need for the US to
+      maintain its military stockpiles while supplying Ukraine. Both leaders noted that
+      European nations have committed to purchasing US weapons for Ukraine, with a focus
+      on providing more Patriot air defense systems.
+    published: '2025-07-15T10:45:37+00:00'
+  - title: US Gov’t Is Very Afraid of BRICS and Dedollarization, Trump Insiders Reveal.
+      That’s Why He’s Attacking Brazil
+    url: https://scheerpost.com/2025/07/15/us-govt-is-very-afraid-of-brics-and-dedollarization-trump-insiders-reveal-thats-why-hes-attacking-brazil/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Ben
+      Norton / Geopolitical Economy Report Western corporate media coverage of the Global
+      South-led organization BRICS is frequently dismissive and condescending. Bloomberg
+      published an article claiming that BRICS is “little more than a meaningless acronym”.
+      It appears that a lot of this criticism, nevertheless, is actually a coping mechanism,
+      because evidence is piling up showing that the US government is very afraid of
+      the rapid growth of BRICS . Donald Trump, in particular, is terrified of the possibility
+      of BRICS challenging the global dominance of the US dollar. BRICS held a successful
+      summit in Brazil in July, featuring for the first time the participation of 10
+      members and 10 partner countries. Trump responded with furious denunciation, threatening
+      to hit all BRICS countries with 10% tariffs . Trump then delivered an angry rant
+      against BRICS at the White House, in a meeting with his cabinet on 8 July. What
+      the US president said was deeply contradictory. It was like Schrödinger’s BRICS:
+      the organization is not a threat, but also the biggest threat in the world, according
+      to Trump. Trump simultaneously claimed that BRICS is “not a serious threat”, but
+      also that it is trying to “destroy the dollar”, and that, if the United States
+      lost the exorbitant privilege it receives as the issuer of the global reserve
+      currency, it “would be like losing a war, a major world war; we would not be the
+      same country any longer”. “The dollar is king, and we’re going to keep it that
+      way!” Trump declared. These were Trump’s indignant remarks (emphasis added): They
+      have to pay 10% if they’re in BRICS . Because BRICS was set up to hurt us. BRICS
+      was set up to degenerate our dollar, and take our dollar as the standard, take
+      it off as the standard. And that’s okay if they want to play that game, but I
+      can play that game, too. So anybody that’s in BRICs is getting a 10% charge. …
+      If they’re a member of BRICS, they’re going to have to pay a 10% tariff, just
+      for that one thing. And they won’t be a member long. I thought BRICS was — you
+      know, I said this about a year ago, and it largely broke up. But, you know, there
+      are a couple of them hanging around, but I thought it largely broke up. BRICS
+      is not, in my opinion, not a serious threat. But what they’re trying to do is
+      destroy the dollar , so that another country can take over and be the standard.
+      And we’re not going to lose the standard, at any time. If you have a smart president,
+      you will never lose the standard. If you have a stupid president, like the last
+      one, you would lose the standard. You wouldn’t have the dollar as [the standard].
+      And if we lost the world standard dollar, that would be like losing a war, a major
+      world war; we would not be the same country any longer. We’re not going to let
+      that happen. The dollar — you never hear the expression “the dollar is king”?
+      The dollar is king, and we’re going to keep it that way , ok? Trump is extremely
+      “pissed” at BRICS and dedollarization Politico published an article, citing sources
+      very close to the US president, that revealed that Trump is enraged about the
+      expansion of BRICS and its push for global dedollarization. “You can tell the
+      president is pissed every time he looks at the BRICS de-dollarization effort”,
+      former top Trump aide Steve Bannon told Politico. The success of the BRICS summit
+      in “Rio didn’t help”, Bannon added. Bannon served as CEO of Trump’s presidential
+      campaign in 2016, and was the White House chief strategist in 2017. Bannon, who
+      previously worked at major Wall Street investment bank Goldman Sachs, is a far-right
+      demagogue who proudly stated in 2018, “We’re at war with China” . Similar comments
+      were made by a former State Department official, Leland Lazarus, who served as
+      a special assistant to the commander of Southern Command, which oversees the US
+      military’s operations in Latin America. Lazarus told Politico that Trump is using
+      tariffs threats on BRICS countries “to try to peel off new members like Egypt,
+      Ethiopia, and Indonesia”. Lazarus emphasized that Brazil’s closer relations with
+      China, and their mutual moves to dedollarize and trade in their local currencies,
+      “may be triggering alarms within Trump’s circle, especially among advisers who
+      view global dollar supremacy as a pillar of U.S. power”. Another Trump ally, Mauricio
+      Claver-Carone, who served as the Republican president’s special envoy to Latin
+      America during his first term, told Politico that Trump had already been livid
+      at Brazil’s left-wing President Lula da Silva, but “BRICS tipped the scale”. Trump
+      attacks Brazil, a key player in the new multipolar world order The prominent role
+      of Brazil in BRICS, as a major player in the new multipolar global order, has
+      made it a target of US aggression. Following the Rio de Janeiro summit in July,
+      Trump threatened to impose massive tariffs of 50% on Brazil . The US president
+      is trying to make an example out of the Latin American nation, to punish Lula
+      for challenging US global hegemony, moving closer to China, challenging the dollar,
+      and promoting BRICS as a multipolar vanguard. Lula was one of the co-founders
+      of BRICS in 2009 (back when it was BRIC). The Brazilian leftist leader has long
+      advocated for the Global South-led organization to play a more important role
+      in international affairs. The Brazilian president has strongly supported dedollarization
+      , and has repeatedly called for the creation of a new global reserve currency,
+      to replace the US dollar. Trump (and Elon Musk) blatantly meddles in Brazil’s
+      internal affairs Trump is using tariffs as a weapon of economic warfare to meddle
+      in Brazil’s internal political affairs. The US president’s goal is also to help
+      Brazil’s far-right former president, Jair Bolsonaro, who is a loyal Trump ally.
+      Trump hopes his tariffs will hurt the Brazilian economy and damage Lula’s image,
+      to tip the scale in support of the Bolsonarista right as the 2026 election approaches.
+      To justify this blatant US meddling in Brazil’s internal affairs, Trump absurdly
+      claimed that there is a legal “witch hunt” against Bolsonaro. In reality, Bolsonaro
+      is facing legal consequences because, after he lost the 2022 election, he tried
+      to carry out a military coup in early 2023, to prevent the democratically elected
+      Lula from assuming the presidency. Bolsonaro admitted in court that he met with
+      Brazilian military leaders and discussed ways to hold on to power, even after
+      the majority of the people of his country voted against him. Far-right political
+      figures in the West have thrown their weight behind Bolsonaro. Another Bolsonaro
+      ally is the world’s richest centibillionaire oligarch, Elon Musk. Musk despises
+      Lula, not only because the Brazilian president is left wing and wants to significantly
+      increase taxes on the ultra-rich and crack down on tax avoidance, but also because
+      Lula has challenged Musk’s business interests in the massive South American nation.
+      Musk has used the social media platform Twitter, which is his personal property,
+      to promote anti-Lula and pro-Bolsonaro propaganda. Both Trump and Musk falsely
+      allege that Lula and the Brazilian government are violating free speech, to justify
+      their political meddling in the Latin American country’s internal affairs, and
+      to support the far-right failed coup leader. This issue, however, has nothing
+      to do with “free speech”. It is about the Brazilian government’s right to defend
+      its sovereignty and resist flagrant interventionism by the US empire. US empire
+      violates sovereignty of Brazil (and Latin America as a whole) There is a very
+      long history of the US government supporting far-right coups d’etat against democratically
+      elected left-wing leaders in Latin America — including Guatemala in 1954, Chile
+      in 1973, Argentina in 1976, Haiti in 1991 and 2004, Honduras in 2009, Venezuela
+      in 2002, 2014, 2017, and 2019, and many, many more. Following a US-backed far-right
+      coup against Bolivia’s democratically elected socialist President Evo Morales
+      in 2019, Musk declared on Twitter, “We will coup whoever we want! Deal with it”.
+      The US government has also been involved in numerous putsches in Brazil, going
+      back to an infamous military coup in 1964. In 2016 and 2018, the US government
+      backed two soft coups , or judicial coups, against Brazil’s President Dilma Rousseff
+      and Lula, both from the left-wing Workers’ Party. Dilma was impeached on false
+      accusations of “corruption” in a 2016 regime-change operation. As Brazil’s leader,
+      Dilma had strongly advocated for BRICS, Global South empowerment, good relations
+      with China, and multipolarity — which made her the target of Washington’s wrath.
+      Today, Dilma is president of the BRICS bank, the New Development Bank, where she
+      has likewise advocated for dedollarization. In the lead-up to Brazil’s presidential
+      election in 2018, Lula was leading in the polls , but he was imprisoned on fake
+      accusations of “corruption”, by US-backed right-wing judges, who essentially installed
+      Bolsonaro as president. In 2021, the Brazilian supreme court annulled the fake,
+      politically motivated charges of “corruption” against Lula. The United Nations
+      Human Rights Committee conducted an investigation into the situation in Brazil,
+      led by experts on international law, and concluded in 2022 that the show trial
+      against Lula had been illegitimate and violated his civil rights and due process.
+      The US government was deeply involved in both of these right-wing political coups
+      in Brazil, in 2016 and 2018. They constitute a textbook case of “lawfare”, or
+      judicial warfare. This is why Lula himself said, “Everything that is happening
+      has the hand of the United States on it”. He underscored that “the US created
+      the Lava Jato investigation”, in reference to the supposed “anti-corruption” scheme,
+      known as Operation Car Wash, that was cynically used as cover to carry out the
+      coups. This is also why, in 2025, Lula is pushing back against Donald Trump’s
+      heavy-handed meddling in Brazil’s internal affairs. In response to Trump’s tariff
+      threats and false accusations that the Brazilian government is carrying out a
+      “witch hunt” against Bolsonaro, Lula stated : Brazil is a sovereign nation with
+      independent institutions and will not accept any form of tutelage. The judicial
+      proceedings against those responsible for planning the coup d’état fall exclusively
+      under the jurisdiction of Brazil´s Judicial Branch and, as such, are not subject
+      to any interference or threats that could compromise the independence of national
+      institutions. Lula likewise pledged to hit back against Trump’s unilateral announcement
+      of 50% tariffs on Brazilian goods with Brazil’s own retaliatory tariffs of 50%
+      on US goods. “We’re going to have to look for other partners to buy our products.
+      Brazil’s trade with the US represents 1.7% of its GDP”, Lula explained. “ It’s
+      not like we can’t survive without the US ”. The Brazilian president noted that
+      the successful BRICS summit “likely worried Trump”, according to a report in Bloomberg. Lula
+      then doubled down on his calls for dedollarization. “We are interested in creating
+      a trade currency among other countries”, the Brazilian leader stressed. “I’m not
+      obligated to buy dollars to conduct trade with Venezuela, Bolivia, Chile, Sweden,
+      the European Union, or China. We can trade in our own currencies”. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Ben Norton Ben
+      Norton is a journalist, writer, and filmmaker. He is the founder and editor of
+      Geopolitical Economy Report, and is based in China. Author Site Please share this
+      story and help us grow our network!'
+    one_sentence_summary: The article discusses how Western corporate media often belittles
+      the BRICS organization, reflecting a deeper fear within the US government, particularly
+      from Donald Trump, about BRICS' potential to challenge US dollar dominance, especially
+      following a significant summit in Brazil.
+    paragraph_summary: The article discusses the dismissive attitude of Western corporate
+      media towards BRICS, a coalition of countries from the Global South, highlighting
+      a recent Bloomberg article that trivializes the organization. Despite this criticism,
+      the article argues that the U.S. government, particularly Donald Trump, is increasingly
+      alarmed by BRICS' growth and its potential to challenge the dominance of the U.S.
+      dollar. Following a successful BRICS summit in Brazil, Trump expressed contradictory
+      views, labeling BRICS as both a negligible threat and a significant danger to
+      U.S. economic supremacy. He threatened tariffs on BRICS nations and emphasized
+      the importance of maintaining the dollar's status as the global reserve currency,
+      suggesting that losing this status would equate to a major defeat for the United
+      States.
+    published: '2025-07-15T10:41:20+00:00'
+  - title: US Gov’t Is Very Afraid of BRICS and Dedollarization, Trump Insiders Reveal.
+      That’s Why He’s Attacking Brazil
+    url: https://scheerpost.com/2025/07/15/us-govt-is-very-afraid-of-brics-and-dedollarization-trump-insiders-reveal-thats-why-hes-attacking-brazil/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Ben
+      Norton / Geopolitical Economy Report Western corporate media coverage of the Global
+      South-led organization BRICS is frequently dismissive and condescending. Bloomberg
+      published an article claiming that BRICS is “little more than a meaningless acronym”.
+      It appears that a lot of this criticism, nevertheless, is actually a coping mechanism,
+      because evidence is piling up showing that the US government is very afraid of
+      the rapid growth of BRICS . Donald Trump, in particular, is terrified of the possibility
+      of BRICS challenging the global dominance of the US dollar. BRICS held a successful
+      summit in Brazil in July, featuring for the first time the participation of 10
+      members and 10 partner countries. Trump responded with furious denunciation, threatening
+      to hit all BRICS countries with 10% tariffs . Trump then delivered an angry rant
+      against BRICS at the White House, in a meeting with his cabinet on 8 July. What
+      the US president said was deeply contradictory. It was like Schrödinger’s BRICS:
+      the organization is not a threat, but also the biggest threat in the world, according
+      to Trump. Trump simultaneously claimed that BRICS is “not a serious threat”, but
+      also that it is trying to “destroy the dollar”, and that, if the United States
+      lost the exorbitant privilege it receives as the issuer of the global reserve
+      currency, it “would be like losing a war, a major world war; we would not be the
+      same country any longer”. “The dollar is king, and we’re going to keep it that
+      way!” Trump declared. These were Trump’s indignant remarks (emphasis added): They
+      have to pay 10% if they’re in BRICS . Because BRICS was set up to hurt us. BRICS
+      was set up to degenerate our dollar, and take our dollar as the standard, take
+      it off as the standard. And that’s okay if they want to play that game, but I
+      can play that game, too. So anybody that’s in BRICs is getting a 10% charge. …
+      If they’re a member of BRICS, they’re going to have to pay a 10% tariff, just
+      for that one thing. And they won’t be a member long. I thought BRICS was — you
+      know, I said this about a year ago, and it largely broke up. But, you know, there
+      are a couple of them hanging around, but I thought it largely broke up. BRICS
+      is not, in my opinion, not a serious threat. But what they’re trying to do is
+      destroy the dollar , so that another country can take over and be the standard.
+      And we’re not going to lose the standard, at any time. If you have a smart president,
+      you will never lose the standard. If you have a stupid president, like the last
+      one, you would lose the standard. You wouldn’t have the dollar as [the standard].
+      And if we lost the world standard dollar, that would be like losing a war, a major
+      world war; we would not be the same country any longer. We’re not going to let
+      that happen. The dollar — you never hear the expression “the dollar is king”?
+      The dollar is king, and we’re going to keep it that way , ok? Trump is extremely
+      “pissed” at BRICS and dedollarization Politico published an article, citing sources
+      very close to the US president, that revealed that Trump is enraged about the
+      expansion of BRICS and its push for global dedollarization. “You can tell the
+      president is pissed every time he looks at the BRICS de-dollarization effort”,
+      former top Trump aide Steve Bannon told Politico. The success of the BRICS summit
+      in “Rio didn’t help”, Bannon added. Bannon served as CEO of Trump’s presidential
+      campaign in 2016, and was the White House chief strategist in 2017. Bannon, who
+      previously worked at major Wall Street investment bank Goldman Sachs, is a far-right
+      demagogue who proudly stated in 2018, “We’re at war with China” . Similar comments
+      were made by a former State Department official, Leland Lazarus, who served as
+      a special assistant to the commander of Southern Command, which oversees the US
+      military’s operations in Latin America. Lazarus told Politico that Trump is using
+      tariffs threats on BRICS countries “to try to peel off new members like Egypt,
+      Ethiopia, and Indonesia”. Lazarus emphasized that Brazil’s closer relations with
+      China, and their mutual moves to dedollarize and trade in their local currencies,
+      “may be triggering alarms within Trump’s circle, especially among advisers who
+      view global dollar supremacy as a pillar of U.S. power”. Another Trump ally, Mauricio
+      Claver-Carone, who served as the Republican president’s special envoy to Latin
+      America during his first term, told Politico that Trump had already been livid
+      at Brazil’s left-wing President Lula da Silva, but “BRICS tipped the scale”. Trump
+      attacks Brazil, a key player in the new multipolar world order The prominent role
+      of Brazil in BRICS, as a major player in the new multipolar global order, has
+      made it a target of US aggression. Following the Rio de Janeiro summit in July,
+      Trump threatened to impose massive tariffs of 50% on Brazil . The US president
+      is trying to make an example out of the Latin American nation, to punish Lula
+      for challenging US global hegemony, moving closer to China, challenging the dollar,
+      and promoting BRICS as a multipolar vanguard. Lula was one of the co-founders
+      of BRICS in 2009 (back when it was BRIC). The Brazilian leftist leader has long
+      advocated for the Global South-led organization to play a more important role
+      in international affairs. The Brazilian president has strongly supported dedollarization
+      , and has repeatedly called for the creation of a new global reserve currency,
+      to replace the US dollar. Trump (and Elon Musk) blatantly meddles in Brazil’s
+      internal affairs Trump is using tariffs as a weapon of economic warfare to meddle
+      in Brazil’s internal political affairs. The US president’s goal is also to help
+      Brazil’s far-right former president, Jair Bolsonaro, who is a loyal Trump ally.
+      Trump hopes his tariffs will hurt the Brazilian economy and damage Lula’s image,
+      to tip the scale in support of the Bolsonarista right as the 2026 election approaches.
+      To justify this blatant US meddling in Brazil’s internal affairs, Trump absurdly
+      claimed that there is a legal “witch hunt” against Bolsonaro. In reality, Bolsonaro
+      is facing legal consequences because, after he lost the 2022 election, he tried
+      to carry out a military coup in early 2023, to prevent the democratically elected
+      Lula from assuming the presidency. Bolsonaro admitted in court that he met with
+      Brazilian military leaders and discussed ways to hold on to power, even after
+      the majority of the people of his country voted against him. Far-right political
+      figures in the West have thrown their weight behind Bolsonaro. Another Bolsonaro
+      ally is the world’s richest centibillionaire oligarch, Elon Musk. Musk despises
+      Lula, not only because the Brazilian president is left wing and wants to significantly
+      increase taxes on the ultra-rich and crack down on tax avoidance, but also because
+      Lula has challenged Musk’s business interests in the massive South American nation.
+      Musk has used the social media platform Twitter, which is his personal property,
+      to promote anti-Lula and pro-Bolsonaro propaganda. Both Trump and Musk falsely
+      allege that Lula and the Brazilian government are violating free speech, to justify
+      their political meddling in the Latin American country’s internal affairs, and
+      to support the far-right failed coup leader. This issue, however, has nothing
+      to do with “free speech”. It is about the Brazilian government’s right to defend
+      its sovereignty and resist flagrant interventionism by the US empire. US empire
+      violates sovereignty of Brazil (and Latin America as a whole) There is a very
+      long history of the US government supporting far-right coups d’etat against democratically
+      elected left-wing leaders in Latin America — including Guatemala in 1954, Chile
+      in 1973, Argentina in 1976, Haiti in 1991 and 2004, Honduras in 2009, Venezuela
+      in 2002, 2014, 2017, and 2019, and many, many more. Following a US-backed far-right
+      coup against Bolivia’s democratically elected socialist President Evo Morales
+      in 2019, Musk declared on Twitter, “We will coup whoever we want! Deal with it”.
+      The US government has also been involved in numerous putsches in Brazil, going
+      back to an infamous military coup in 1964. In 2016 and 2018, the US government
+      backed two soft coups , or judicial coups, against Brazil’s President Dilma Rousseff
+      and Lula, both from the left-wing Workers’ Party. Dilma was impeached on false
+      accusations of “corruption” in a 2016 regime-change operation. As Brazil’s leader,
+      Dilma had strongly advocated for BRICS, Global South empowerment, good relations
+      with China, and multipolarity — which made her the target of Washington’s wrath.
+      Today, Dilma is president of the BRICS bank, the New Development Bank, where she
+      has likewise advocated for dedollarization. In the lead-up to Brazil’s presidential
+      election in 2018, Lula was leading in the polls , but he was imprisoned on fake
+      accusations of “corruption”, by US-backed right-wing judges, who essentially installed
+      Bolsonaro as president. In 2021, the Brazilian supreme court annulled the fake,
+      politically motivated charges of “corruption” against Lula. The United Nations
+      Human Rights Committee conducted an investigation into the situation in Brazil,
+      led by experts on international law, and concluded in 2022 that the show trial
+      against Lula had been illegitimate and violated his civil rights and due process.
+      The US government was deeply involved in both of these right-wing political coups
+      in Brazil, in 2016 and 2018. They constitute a textbook case of “lawfare”, or
+      judicial warfare. This is why Lula himself said, “Everything that is happening
+      has the hand of the United States on it”. He underscored that “the US created
+      the Lava Jato investigation”, in reference to the supposed “anti-corruption” scheme,
+      known as Operation Car Wash, that was cynically used as cover to carry out the
+      coups. This is also why, in 2025, Lula is pushing back against Donald Trump’s
+      heavy-handed meddling in Brazil’s internal affairs. In response to Trump’s tariff
+      threats and false accusations that the Brazilian government is carrying out a
+      “witch hunt” against Bolsonaro, Lula stated : Brazil is a sovereign nation with
+      independent institutions and will not accept any form of tutelage. The judicial
+      proceedings against those responsible for planning the coup d’état fall exclusively
+      under the jurisdiction of Brazil´s Judicial Branch and, as such, are not subject
+      to any interference or threats that could compromise the independence of national
+      institutions. Lula likewise pledged to hit back against Trump’s unilateral announcement
+      of 50% tariffs on Brazilian goods with Brazil’s own retaliatory tariffs of 50%
+      on US goods. “We’re going to have to look for other partners to buy our products.
+      Brazil’s trade with the US represents 1.7% of its GDP”, Lula explained. “ It’s
+      not like we can’t survive without the US ”. The Brazilian president noted that
+      the successful BRICS summit “likely worried Trump”, according to a report in Bloomberg. Lula
+      then doubled down on his calls for dedollarization. “We are interested in creating
+      a trade currency among other countries”, the Brazilian leader stressed. “I’m not
+      obligated to buy dollars to conduct trade with Venezuela, Bolivia, Chile, Sweden,
+      the European Union, or China. We can trade in our own currencies”. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Ben Norton Ben
+      Norton is a journalist, writer, and filmmaker. He is the founder and editor of
+      Geopolitical Economy Report, and is based in China. Author Site Please share this
+      story and help us grow our network!'
+    one_sentence_summary: The article discusses how Western corporate media often belittles
+      the BRICS organization, reflecting a deeper fear within the US government, particularly
+      from Donald Trump, about BRICS' potential to challenge US dollar dominance, especially
+      following a significant summit in Brazil.
+    paragraph_summary: The article discusses the dismissive attitude of Western corporate
+      media towards BRICS, a coalition of countries from the Global South, highlighting
+      a recent Bloomberg article that trivializes the organization. Despite this criticism,
+      the article argues that the U.S. government, particularly Donald Trump, is increasingly
+      alarmed by BRICS' growth and its potential to challenge the dominance of the U.S.
+      dollar. Following a successful BRICS summit in Brazil, Trump expressed contradictory
+      views, labeling BRICS as both a negligible threat and a significant danger to
+      U.S. economic supremacy. He threatened tariffs on BRICS nations and emphasized
+      the importance of maintaining the dollar's status as the global reserve currency,
+      suggesting that losing this status would equate to a major defeat for the United
+      States.
+    published: '2025-07-15T10:41:20+00:00'
+  - title: '‘This Is an Internment Camp’: Lawmakers Horrified by Inhumane Conditions
+      in ‘Alligator Alcatraz’'
+    url: https://scheerpost.com/2025/07/14/this-is-an-internment-camp-lawmakers-horrified-by-inhumane-conditions-in-alligator-alcatraz/
+    text: 'President Donald Trump is joined by Department of Homeland Security (DHS)
+      Secretary Kristi Noem, Florida Governor Ron DeSantis, Acting Director of Immigration
+      and Customs Enforcement Todd M. Lyons and Executive Director of Florida Division
+      of Emergency Management Kevin Guthrie for a facility tour of “Alligator Alcatraz”
+      and roundtable at the site of the Dade-Collier Training and Transition Airport
+      in Ochopee, July 1, 2025. (DHS photo by Tia Dufour) In one of the scariest moments
+      in modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . By Stephen Prager / Common Dreams For the first time,
+      Democratic lawmakers were allowed to tour U.S. President Donald Trump’s sprawling
+      Everglades immigrant detention center on Saturday. They said what they witnessed
+      was “disturbing” and “disgusting.” After Democrats were previously denied entry
+      to the facility known as “Alligator Alcatraz,” three Democratic congresspeople
+      from Florida—Reps. Debbie Wasserman-Schultz, Jared Moskowitz, and Maxwell Frost—journeyed
+      to the remote compound along with another group of Republicans as part of a state-arranged
+      tour. “Alligator Alcatraz” was erected within a matter of weeks and now contains
+      approximately 900 people who have been rounded up as part of Trump’s “mass deportation”
+      crusade, which a court determined was rife with illegal racial profiling. The
+      administration said they hope to fill the camp with as many as 5,000 people at
+      a time. Detainees have previously described heinous conditions to their attorneys,
+      including worm and maggot-infested food, sweltering heat, and the denial of medication
+      and showers for days at a time. Though the Democrats who visited the facility
+      were not allowed to speak with detainees or see their conditions up close, their
+      descriptions of the facilities at a press conference following the visit paint
+      an appalling picture. Wasserman-Schultz described it as an “internment camp” where
+      detainees are “essentially packed into cages.” “Wall-to-wall humans. 32 detainees
+      per cage,” she said. This, she noted, is unusual for immigration facilities, like
+      the nearby Krome detention center in Miami-Dade County, where detainees are allowed
+      to roam freely between buildings. “The only thing inside those cages are their
+      bunk beds,” she said. She later noted that in the unused dorm they toured there
+      were already “bugs all over the mattresses that had not yet been used.” “There
+      are three tiny toilet units that have a sink attached to it,” she said. “They
+      get their drinking water, and they brush their teeth where they poop, in the same
+      unit,” she continued. Frost said the lawmakers asked to view the toilets currently
+      in use by detainees, but were denied and instead showed ones in a currently unused
+      part of the facility. He brought up prior complaints made by prisoners of the
+      camp about the sanitation. “Some of the biggest complaints we’ve heard is, yes,
+      there’s three toilets, but a lot of the time, only one is working,” he said. “They
+      get backed up: Feces being spread everywhere.” Wasserman-Schultz said they also
+      viewed a meal-prep area. While employees of the facility were given large, hearty
+      portions, she says prisoners were fed a “small…gray turkey and cheese sandwich,
+      an apple, and chips” that she said was far too small to sustain a fully-grown
+      man. Wasserman-Schultz also said she brought a thermostat to measure the temperature
+      within the facility, which the Department of Homeland Security has claimed was
+      “air conditioned.” She said that the area just outside the tents that housed the
+      detainees was 83°F and said it was likely much hotter inside due to the body heat.
+      Moskowitz said there was “evidence of flooding” and “floors that are only about
+      eight inches above the ground,” while other lawmakers noted that a hurricane or
+      even a lighter tropical storm could prove catastrophic. Last week, videos circulated
+      on social media of the facility already beginning to flood due to a minor storm:
+      Alligator Alcatraz cost $450M and flooded in a day. It’s been raining nonstop
+      in SoFlo this week, now imagine during a hurricane. Don’t call yourself a Christian
+      while cheering on a cage built to dehumanize. Jesus fed the hungry; he didn’t
+      drown them. pic.twitter.com/sgVwIJNYfm — Natasha ❀ (@ndelriego) July 4, 2025 Moskowitz
+      also noted the extraordinary cost to assemble and run the makeshift facility,
+      which is estimated to cost $450 million per year according to one U.S. official
+      who spoke to The Associated Press. “Why are they spending all this money for this?”
+      he asked. “One can’t help but understand and conclude that this is a total cruel
+      political stunt meant to have a spectacle of political theater.” The Trump administration
+      has described the facility as a holding tank for “the worst of the worst” criminals
+      as they await deportation. But according to reporting by the Miami Herald and
+      Tampa Bay Times on Sunday, only a third of the people in the facility have criminal
+      convictions, which range from crimes like attempted murder to traffic violations.
+      More than 250 of the people in the facility have not been convicted of or even
+      charged with a crime. No outside journalists have been allowed to tour the facility,
+      and there are no photos or videos available publicly beyond what has been released
+      by the Trump government. The congresspeople on the tour were told they were not
+      allowed to take any photos or videos inside or meet with any of the detainees.
+      Instead of being shown the conditions in which detainees were currently being
+      housed, they were shown facilities that had not yet been filled. They were still
+      denied access to some, including medical facilities. Last week a group of Democrats
+      in Florida’s state legislature were turned away when they attempted to tour the
+      camp, with Gov. Ron DeSantis (R) saying they could not show up unannounced to
+      perform oversight over a federal facility. Frost said that there has been “ambiguity”
+      about who has authority over the prison, but it was made abundantly clear during
+      the visit that every decision being made was directed by the federal government.
+      “What we heard very clear is that ICE is giving them the directions from A to
+      Z,” he said. “Which means members of Congress are able to come here unannounced.
+      And we will come here unannounced.” “Even with this invitation, so much was kept
+      from us,” Frost said. In a video filmed while riding back from the camp, Frost
+      spoke even more candidly about what he saw and how much it disturbed him. Rep.
+      Maxwell Frost describes the inhumane situation at Alligator Alcatraz following
+      his visit: "What I saw made my heart sink. I saw 32 people per cage– about 6 cages
+      in one tent. People were yelling ''help me help me''. Someone said I''m a US citizen…
+      The drinking water comes… pic.twitter.com/gnnGJCBcka — Ron Smith (@Ronxyz00) July
+      12, 2025 Though the congresspeople were not given access to the detainees and
+      “pushed back” by security guards, Frost said, “We could see in, and we could hear
+      everybody.” “When those doors opened, what I saw made my heart sink,” he said.
+      “I saw a lot of people, young men, who looked like me.” “People were yelling,
+      ‘Help me, help me!’ I heard in the back someone say, ‘I’m a U.S. citizen,''” he
+      continued. “And as we were walking away, they started chanting ‘Libertad! Libertad!
+      Libertad!’… ‘Freedom.''” Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Stephen Prager Stephen Prager is a staff
+      writer for Common Dreams. Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: Democratic lawmakers described their first tour of President
+      Trump's Everglades immigrant detention center as "disturbing" and "disgusting,"
+      following previous denials of access to the facility.
+    paragraph_summary: On July 1, 2025, Democratic lawmakers, including Reps. Debbie
+      Wasserman-Schultz, Jared Moskowitz, and Maxwell Frost, were finally permitted
+      to tour President Donald Trump's controversial immigrant detention center, known
+      as "Alligator Alcatraz," located at the Dade-Collier Training and Transition Airport
+      in Ochopee, Florida. The facility, which was rapidly constructed to accommodate
+      up to 5,000 detainees as part of Trump's mass deportation efforts, currently houses
+      around 900 individuals. The lawmakers described the conditions as "disturbing"
+      and "disgusting," citing reports from detainees of inhumane treatment, including
+      infested food, extreme heat, and lack of basic necessities like medication and
+      showers. Although the visitors were restricted from directly interacting with
+      detainees, their press conference following the tour highlighted the appalling
+      realities within the facility.
+    published: '2025-07-14T12:47:53+00:00'
+  - title: '‘This Is an Internment Camp’: Lawmakers Horrified by Inhumane Conditions
+      in ‘Alligator Alcatraz’'
+    url: https://scheerpost.com/2025/07/14/this-is-an-internment-camp-lawmakers-horrified-by-inhumane-conditions-in-alligator-alcatraz/
+    text: 'President Donald Trump is joined by Department of Homeland Security (DHS)
+      Secretary Kristi Noem, Florida Governor Ron DeSantis, Acting Director of Immigration
+      and Customs Enforcement Todd M. Lyons and Executive Director of Florida Division
+      of Emergency Management Kevin Guthrie for a facility tour of “Alligator Alcatraz”
+      and roundtable at the site of the Dade-Collier Training and Transition Airport
+      in Ochopee, July 1, 2025. (DHS photo by Tia Dufour) In one of the scariest moments
+      in modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . By Stephen Prager / Common Dreams For the first time,
+      Democratic lawmakers were allowed to tour U.S. President Donald Trump’s sprawling
+      Everglades immigrant detention center on Saturday. They said what they witnessed
+      was “disturbing” and “disgusting.” After Democrats were previously denied entry
+      to the facility known as “Alligator Alcatraz,” three Democratic congresspeople
+      from Florida—Reps. Debbie Wasserman-Schultz, Jared Moskowitz, and Maxwell Frost—journeyed
+      to the remote compound along with another group of Republicans as part of a state-arranged
+      tour. “Alligator Alcatraz” was erected within a matter of weeks and now contains
+      approximately 900 people who have been rounded up as part of Trump’s “mass deportation”
+      crusade, which a court determined was rife with illegal racial profiling. The
+      administration said they hope to fill the camp with as many as 5,000 people at
+      a time. Detainees have previously described heinous conditions to their attorneys,
+      including worm and maggot-infested food, sweltering heat, and the denial of medication
+      and showers for days at a time. Though the Democrats who visited the facility
+      were not allowed to speak with detainees or see their conditions up close, their
+      descriptions of the facilities at a press conference following the visit paint
+      an appalling picture. Wasserman-Schultz described it as an “internment camp” where
+      detainees are “essentially packed into cages.” “Wall-to-wall humans. 32 detainees
+      per cage,” she said. This, she noted, is unusual for immigration facilities, like
+      the nearby Krome detention center in Miami-Dade County, where detainees are allowed
+      to roam freely between buildings. “The only thing inside those cages are their
+      bunk beds,” she said. She later noted that in the unused dorm they toured there
+      were already “bugs all over the mattresses that had not yet been used.” “There
+      are three tiny toilet units that have a sink attached to it,” she said. “They
+      get their drinking water, and they brush their teeth where they poop, in the same
+      unit,” she continued. Frost said the lawmakers asked to view the toilets currently
+      in use by detainees, but were denied and instead showed ones in a currently unused
+      part of the facility. He brought up prior complaints made by prisoners of the
+      camp about the sanitation. “Some of the biggest complaints we’ve heard is, yes,
+      there’s three toilets, but a lot of the time, only one is working,” he said. “They
+      get backed up: Feces being spread everywhere.” Wasserman-Schultz said they also
+      viewed a meal-prep area. While employees of the facility were given large, hearty
+      portions, she says prisoners were fed a “small…gray turkey and cheese sandwich,
+      an apple, and chips” that she said was far too small to sustain a fully-grown
+      man. Wasserman-Schultz also said she brought a thermostat to measure the temperature
+      within the facility, which the Department of Homeland Security has claimed was
+      “air conditioned.” She said that the area just outside the tents that housed the
+      detainees was 83°F and said it was likely much hotter inside due to the body heat.
+      Moskowitz said there was “evidence of flooding” and “floors that are only about
+      eight inches above the ground,” while other lawmakers noted that a hurricane or
+      even a lighter tropical storm could prove catastrophic. Last week, videos circulated
+      on social media of the facility already beginning to flood due to a minor storm:
+      Alligator Alcatraz cost $450M and flooded in a day. It’s been raining nonstop
+      in SoFlo this week, now imagine during a hurricane. Don’t call yourself a Christian
+      while cheering on a cage built to dehumanize. Jesus fed the hungry; he didn’t
+      drown them. pic.twitter.com/sgVwIJNYfm — Natasha ❀ (@ndelriego) July 4, 2025 Moskowitz
+      also noted the extraordinary cost to assemble and run the makeshift facility,
+      which is estimated to cost $450 million per year according to one U.S. official
+      who spoke to The Associated Press. “Why are they spending all this money for this?”
+      he asked. “One can’t help but understand and conclude that this is a total cruel
+      political stunt meant to have a spectacle of political theater.” The Trump administration
+      has described the facility as a holding tank for “the worst of the worst” criminals
+      as they await deportation. But according to reporting by the Miami Herald and
+      Tampa Bay Times on Sunday, only a third of the people in the facility have criminal
+      convictions, which range from crimes like attempted murder to traffic violations.
+      More than 250 of the people in the facility have not been convicted of or even
+      charged with a crime. No outside journalists have been allowed to tour the facility,
+      and there are no photos or videos available publicly beyond what has been released
+      by the Trump government. The congresspeople on the tour were told they were not
+      allowed to take any photos or videos inside or meet with any of the detainees.
+      Instead of being shown the conditions in which detainees were currently being
+      housed, they were shown facilities that had not yet been filled. They were still
+      denied access to some, including medical facilities. Last week a group of Democrats
+      in Florida’s state legislature were turned away when they attempted to tour the
+      camp, with Gov. Ron DeSantis (R) saying they could not show up unannounced to
+      perform oversight over a federal facility. Frost said that there has been “ambiguity”
+      about who has authority over the prison, but it was made abundantly clear during
+      the visit that every decision being made was directed by the federal government.
+      “What we heard very clear is that ICE is giving them the directions from A to
+      Z,” he said. “Which means members of Congress are able to come here unannounced.
+      And we will come here unannounced.” “Even with this invitation, so much was kept
+      from us,” Frost said. In a video filmed while riding back from the camp, Frost
+      spoke even more candidly about what he saw and how much it disturbed him. Rep.
+      Maxwell Frost describes the inhumane situation at Alligator Alcatraz following
+      his visit: "What I saw made my heart sink. I saw 32 people per cage– about 6 cages
+      in one tent. People were yelling ''help me help me''. Someone said I''m a US citizen…
+      The drinking water comes… pic.twitter.com/gnnGJCBcka — Ron Smith (@Ronxyz00) July
+      12, 2025 Though the congresspeople were not given access to the detainees and
+      “pushed back” by security guards, Frost said, “We could see in, and we could hear
+      everybody.” “When those doors opened, what I saw made my heart sink,” he said.
+      “I saw a lot of people, young men, who looked like me.” “People were yelling,
+      ‘Help me, help me!’ I heard in the back someone say, ‘I’m a U.S. citizen,''” he
+      continued. “And as we were walking away, they started chanting ‘Libertad! Libertad!
+      Libertad!’… ‘Freedom.''” Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Stephen Prager Stephen Prager is a staff
+      writer for Common Dreams. Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: Democratic lawmakers described their first tour of President
+      Trump's Everglades immigrant detention center as "disturbing" and "disgusting,"
+      following previous denials of access to the facility.
+    paragraph_summary: On July 1, 2025, Democratic lawmakers, including Reps. Debbie
+      Wasserman-Schultz, Jared Moskowitz, and Maxwell Frost, were finally permitted
+      to tour President Donald Trump's controversial immigrant detention center, known
+      as "Alligator Alcatraz," located at the Dade-Collier Training and Transition Airport
+      in Ochopee, Florida. The facility, which was rapidly constructed to accommodate
+      up to 5,000 detainees as part of Trump's mass deportation efforts, currently houses
+      around 900 individuals. The lawmakers described the conditions as "disturbing"
+      and "disgusting," citing reports from detainees of inhumane treatment, including
+      infested food, extreme heat, and lack of basic necessities like medication and
+      showers. Although the visitors were restricted from directly interacting with
+      detainees, their press conference following the tour highlighted the appalling
+      realities within the facility.
+    published: '2025-07-14T12:47:53+00:00'
+  - title: Decades of Neoliberalism Entrenched US Inequality. Trump’s Budget Made It
+      Worse
+    url: https://scheerpost.com/2025/07/14/decades-of-neoliberalism-entrenched-us-inequality-trumps-budget-made-it-worse/
+    text: 'Donald Trump Signs One Big Beautiful Bill into Law. White House, Public domain,
+      via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By C.J. Polychroniou / Truthout Donald Trump’s so-called “Big, Beautiful
+      Bill,” which was signed into law last week, has been described as a monstrous
+      piece of legislation. In this exclusive interview for Truthout , world-renowned
+      progressive economist Robert Pollin provides an overview of this “disgraceful”
+      federal budget bill. Pollin is distinguished professor of economics and co-director
+      of the Political Economy Research Institute at the University of Massachusetts
+      Amherst. The interview that follows has been lightly edited for clarity and length.
+      CJ Polychroniou: Trump’s so-called “Big, Beautiful Bill” has now become law, achieving
+      what ultra-conservatives have been fighting for decades, which are huge tax breaks
+      and major cuts to social safety net programs. Of course, there is a lot more reactionary
+      stuff included in this megabill, such as hundreds of billions of dollars devoted
+      to Trump’s anti-immigration agenda and derailing the green transition by taking
+      an axe to clean energy and boosting, in turn, fossil fuel production. In sum,
+      I think Ed Kilgore’s claim that this 940-page bill “ is, in fact, the single most
+      sweeping piece of legislation in American history ” is quite accurate, although
+      some of its effects won’t be felt for some time. Can you discuss specifically
+      the economic and social repercussions of Trump’s megabill, especially in light
+      of the view that the U.S. is the most unequal high-income country in the world?
+      Robert Pollin: Trump’s federal budget bill is disgraceful along multiple dimensions.
+      We can start with its egregious distributional impacts. The bill will make the
+      rich still richer through tax cuts while attacking the living standards, including
+      the health and food security, of working people and the poor. Trump and company
+      claim that people at all income levels will benefit from the bill’s tax cuts.
+      There is a tiny sliver of truth in this. According to the Institute on Taxation
+      and Economic Policy (ITEP), the Trump tax provisions will deliver an average of
+      $40 in savings to the lowest 20 percent of income earners in 2026. Meanwhile,
+      the richest 1 percent will end up $66,000 richer. This recalls the famous observation
+      by Anatole France in 1894 that, “The law, in its majestic equality, forbids rich
+      and poor alike to sleep under bridges, to beg in the streets, and to steal their
+      bread.” But even these figures do not conclude the story. ITEP also notes that,
+      once we also account for the impact of Trump’s tariffs — with these tariffs being
+      a tax on imported products — those in the lowest 20 percent income bracket will
+      not keep their $40 in benefits, but rather end up worse off by about $300. Meanwhile,
+      the richest 1 percent are still better off by about $58,000. Much more punishing
+      still for lower-income people are the spending cuts to Medicaid, the health insurance
+      program that now covers 85 million low-income and disabled people, along with
+      other health funding cuts. The Congressional Budget Office (CBO) estimates that,
+      through the Trump measure, at least 17 million people will lose their coverage
+      by 2034. In addition, cuts to the federal food security program (SNAP), on which
+      42 million people now depend, could eliminate this support for up to 5 million
+      people. Moreover, this purposeful Trump project to shower money on the rich while
+      depriving lower-income people of health care and food arrives after nearly 50
+      years of neoliberal policy dominance had already skewed income and wealth inequality
+      to extreme levels. For example, the average wage for non-supervisory workers as
+      of 2023 was roughly equal, at about $28 an hour, to where it was in 1972 (controlling
+      for inflation), even though average worker productivity had increased two-and-a-half-fold
+      over this period. Meanwhile, the average CEO’s pay was 30 times higher than the
+      average worker in 1972, but exploded to 290 times higher by 2023. In other words,
+      the average worker’s annual income remained roughly constant at around $50,000
+      per year over this 50-year span, while the average CEO’s pay skyrocketed from
+      $1.5 million to nearly $15 million. Under Joe Biden’s four years in office, some
+      modest progress was made toward countering this rising inequality trend, including
+      through Biden’s support for union organizing drives and through enforcing existing
+      (but long-neglected) anti-monopoly laws. Trump and company are now committed to
+      wiping out these small gains. This is while Trump stridently proclaims his commitment
+      to working people and while, to date, large segments of the working class have
+      been willing to give Trump the benefit of the doubt. Of course, one centerpiece
+      of Trump’s appeal to the U.S. working class has been his brutal attacks on immigrants,
+      including those with legal status as well as undocumented people. To support this
+      program, the bill allocates an average of more than $20 billion per year through
+      2029 to build new immigrant detention centers and expand Immigration and Customs
+      Enforcement (ICE) operations. This funding more than doubles the current ICE budget.
+      Trump and company claim that undocumented immigrants have flooded into the country,
+      that most of them are criminals, that they are stealing jobs from U.S.-born workers,
+      and that they are draining the public schools, hospitals and other programs of
+      resources without paying taxes to support these public programs. None of these
+      claims are remotely true. In fact, according to the best available evidence ,
+      the population of undocumented immigrants in the U.S. has not changed significantly
+      since 2005, varying between about 11–12 million people overall. Moreover, all
+      immigrants, including undocumented immigrants, are less likely to commit crimes
+      than the U.S.-born, including both violent and nonviolent crimes. In terms of
+      taxes and financing public programs, as of the most recent 2022 data, undocumented
+      immigrants paid nearly $100 billion in federal, state, and local taxes, amounting
+      to an average of nearly $9,000 per undocumented immigrant . Furthermore, more
+      than one-third of all taxes contributed by undocumented immigrants are funding
+      programs that they are unable to access. That is, they are paying into Social
+      Security, Medicare, and unemployment insurance, but are receiving no benefits
+      in return. This is also while, in 2023, the official unemployment rate for U.S.-born
+      workers was 3.6 percent , the lowest figure on record. What about the environmental
+      repercussions? How does Trump’s “Big, Beautiful Bill” impact U.S. climate policy,
+      and what does it mean for global climate change? Trump’s bill is one more weapon
+      amid his relentless wave of attacks against any and all efforts to avert the mounting
+      climate catastrophes. Even prior to the bill’s passage, the Trump administration
+      had already introduced, according to Columbia University’s Climate Backtracker,
+      more than 200 measures to “scale back or wholly eliminate climate mitigation and
+      adaptation measures.” Trump has also fired hundreds of government scientists and
+      installed climate change deniers into critical government positions. The Trump
+      bill itself repeals or phases out the tax credits for solar and wind energy investments,
+      electric vehicle purchases, and making home energy-efficiency improvements that
+      were important features of the Biden Inflation Reduction Act (IRA). The impact
+      of the overall Trump program on the climate will be severe, as intended. U.S.
+      carbon dioxide (CO 2 ) emissions — the main cause of global heating — have fallen
+      by roughly 20 percent over the past 20 years. Biden’s policies did contribute
+      to this downward trend, even while the rate of emissions reductions remained insufficient
+      relative to the global climate stabilization goal of net zero emissions by 2050.
+      Trump’s policies will stop even these modest gains over the short term. If Trump’s
+      program is allowed to remain in place, the likelihood for achieving zero emissions
+      by 2050 becomes nil. How can we fight back effectively? For starters, we need
+      to proclaim loudly the reality that clean energy investments are delivering money
+      and jobs in all regions of the U.S., including in red states. Thus, w ind power
+      is thriving in Texas, Iowa, Oklahoma, and Kansas. Moreover, at the end of Biden’s
+      presidency, West Virginia had received about $5 billion and Pennsylvania about
+      $9 billion in new clean energy investment commitments tied to Biden’s IRA. It
+      is hard to believe that working people in these and other states will be okay
+      with these projects folding, and the jobs generated by them foregone, all thanks
+      to Trump. Still more: Investments in clean renewable energy and high efficiency
+      are now, by far, the cheapest ways to deliver energy to consumers. Even Trump’s
+      own Energy Department’s most current report on comparative electricity costs confirms
+      this. It estimates that electricity generated by onshore wind and solar projects
+      that begin operating in 2030 will cost between 3–3.2 cents per kilowatt hour.
+      The natural gas price will be more than twice as high, at 6.5 cents. We have opportunities
+      right now for major climate policy victories at the state and local levels, even
+      in the face of Trump. One important example was the passage of the Climate Change
+      Superfund law in New York State last December, right before Trump took office.
+      Under this measure, oil and gas companies will pay an average of $3 billion a
+      year for the next 25 years for climate adaptation and resilience measures throughout
+      the state. This victory in New York followed from the successful campaign to enact
+      a similar measure in Vermont earlier in 2024. Comparable bills are now advancing
+      in Massachusetts, California, and Maryland. This federal budget bill is projected
+      to add trillions of dollars to the nation’s debt load and widen deficits. Is the
+      U.S. in the “fast lane” to what Elon Musk calls “ debt slavery ?” Elon Musk and
+      his late, unlamented leadership of the so-called Department of Government Efficiency
+      (DOGE), demonstrated both unbridled malice and a buffoonish level of ignorance
+      regarding the operations of the federal government. Moving on to at least minimally
+      serious analysts, the CBO estimates that the tax cuts in Trump’s bill will generate
+      an average of $450 billion per year in government revenue loss over the next 10
+      years . Increased spending on attacking and deporting immigrants as well as increased
+      military spending will cost the government another roughly $30 billion per year.
+      This brings the total average costs of Trump’s bill to nearly $500 billion per
+      year. Meanwhile, according to the CBO, the spending cuts for health care, food
+      security, and clean energy will together amount to an average total of about $170
+      billion per year. Overall then, the CBO estimates that Trump’s bill will expand
+      the federal deficit by about $330 billion per year over the next decade (i.e.,
+      $500 billion in tax cuts and spending increases minus $170 billion in spending
+      cuts). This will be on top of the government’s 2024 budget deficit of nearly $1.9
+      trillion. The 2024 federal deficit was equal to about 6.3 percent of last year’s
+      U.S. gross domestic product (GDP). This 6.3 percent of GDP budget deficit is larger
+      than at any other non-recession period since World War II. The government did
+      run much larger deficits to counteract the 2008-09 Great Recession and the 2020-2021
+      COVID lockdown. But we are not now experiencing any kind of comparable economic
+      crisis. As of 2024, the government’s accumulated debt was also at a peacetime
+      high of 97 percent of GDP. This is nearly three times higher than the 2007 pre-Great
+      Recession figure, which was 35 percent of GDP. The most critical point is that
+      the current deficits are not serving to prevent an economic collapse. They are
+      rather simply helping rich people get richer, while attacking the living standards
+      of working people and the poor, as well as continuing to lavish exorbitant funds
+      on the military. Is the government about to go broke as a result? The most important
+      indicator here is how much we have to pay to cover these debts — i.e., the interest
+      that the government pays on the U.S. Treasury bonds. In 2024, the government paid
+      nearly $900 billion in interest to its creditors, equal to 3.8 percent of GDP.
+      That is below the 4.9 percent of GDP that the government paid during the Ronald
+      Reagan/George H.W. Bush presidential era. We did not hear Reagan, Bush, or any
+      other Republican politician of that era scream then that the sky was falling.
+      Nor did the sky fall. Still, the government’s $900 billion in 2024 interest payments
+      totaled more than it spent on education, scientific research, public infrastructure,
+      environmental protection, and global humanitarian aid combined. Moreover, government
+      interest payments were at $350 billion as of 2021, 1.5 percent of GDP. Thus, the
+      2024 interest payments were nearly three times larger than only three years prior.
+      This huge spike in interest payments was caused both by the ballooning of government
+      debt obligations, but even more so, by the sharp rise in interest rates that the
+      government now has to pay its creditors. The average interest rate on five-year
+      U.S. government bonds rose from 0.9 percent in 2021 to 4.1 percent in 2024. Interest
+      rates on government debt are likely to stay high now under Trump, as the budget
+      deficit expands and the value of the U.S. dollar falls relative to other major
+      currencies ( the dollar’s value has fallen by more than 10 percent relative to
+      other major currencies since Trump returned to office ). The government’s creditors
+      are mainly rich individuals and foreign governments. The government does have
+      the wherewithal to keep forking over these interest payments to its creditors.
+      Yet, by running large fiscal deficits now, when we are not fighting a recession
+      or a world war, the government is effectively paying rich people to lend it money
+      rather than making them pay minimally decent shares of their income and wealth
+      in taxes. Correspondingly, the government’s interest payments that are now lining
+      rich people’s pockets — and will flow into these pockets even more abundantly
+      thanks to Trump’s bill — also represent hundreds of billions of dollars that could
+      otherwise be devoted to public health, public education, food security, and building
+      a green economy. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . C.J. Polychroniou C.J. Polychroniou is a political
+      economist/political scientist who has taught and worked in numerous universities
+      and research centers in Europe and the United States. His latest books are The
+      Precipice: Neoliberalism, the Pandemic and the Urgent Need for Social Change (A
+      collection of interviews with Noam Chomsky; Haymarket Books, 2021), and Economics
+      and the Left: Interviews with Progressive Economists (Verso, 2021). Author Site
+      Please share this story and help us grow our network!'
+    one_sentence_summary: In an interview, economist Robert Pollin critiques Donald
+      Trump's recently signed "Big, Beautiful Bill," labeling it a "monstrous" and "disgraceful"
+      federal budget legislation that reflects ultra-conservative priorities.
+    paragraph_summary: Donald Trump's recently signed "Big, Beautiful Bill" has been
+      criticized as a significant and troubling piece of legislation that primarily
+      benefits the wealthy through substantial tax breaks and cuts to social safety
+      net programs. In an interview with economist Robert Pollin, he highlights the
+      bill's sweeping implications, which include funding for Trump's anti-immigration
+      initiatives and detrimental impacts on clean energy efforts, favoring fossil fuel
+      production instead. Pollin describes the bill as disgraceful due to its exacerbation
+      of economic inequality in the U.S., which is already the most unequal high-income
+      country, suggesting that while some effects may take time to manifest, the legislation
+      represents a major shift in American policy that aligns with ultra-conservative
+      agendas.
+    published: '2025-07-14T12:41:46+00:00'
+  - title: Decades of Neoliberalism Entrenched US Inequality. Trump’s Budget Made It
+      Worse
+    url: https://scheerpost.com/2025/07/14/decades-of-neoliberalism-entrenched-us-inequality-trumps-budget-made-it-worse/
+    text: 'Donald Trump Signs One Big Beautiful Bill into Law. White House, Public domain,
+      via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By C.J. Polychroniou / Truthout Donald Trump’s so-called “Big, Beautiful
+      Bill,” which was signed into law last week, has been described as a monstrous
+      piece of legislation. In this exclusive interview for Truthout , world-renowned
+      progressive economist Robert Pollin provides an overview of this “disgraceful”
+      federal budget bill. Pollin is distinguished professor of economics and co-director
+      of the Political Economy Research Institute at the University of Massachusetts
+      Amherst. The interview that follows has been lightly edited for clarity and length.
+      CJ Polychroniou: Trump’s so-called “Big, Beautiful Bill” has now become law, achieving
+      what ultra-conservatives have been fighting for decades, which are huge tax breaks
+      and major cuts to social safety net programs. Of course, there is a lot more reactionary
+      stuff included in this megabill, such as hundreds of billions of dollars devoted
+      to Trump’s anti-immigration agenda and derailing the green transition by taking
+      an axe to clean energy and boosting, in turn, fossil fuel production. In sum,
+      I think Ed Kilgore’s claim that this 940-page bill “ is, in fact, the single most
+      sweeping piece of legislation in American history ” is quite accurate, although
+      some of its effects won’t be felt for some time. Can you discuss specifically
+      the economic and social repercussions of Trump’s megabill, especially in light
+      of the view that the U.S. is the most unequal high-income country in the world?
+      Robert Pollin: Trump’s federal budget bill is disgraceful along multiple dimensions.
+      We can start with its egregious distributional impacts. The bill will make the
+      rich still richer through tax cuts while attacking the living standards, including
+      the health and food security, of working people and the poor. Trump and company
+      claim that people at all income levels will benefit from the bill’s tax cuts.
+      There is a tiny sliver of truth in this. According to the Institute on Taxation
+      and Economic Policy (ITEP), the Trump tax provisions will deliver an average of
+      $40 in savings to the lowest 20 percent of income earners in 2026. Meanwhile,
+      the richest 1 percent will end up $66,000 richer. This recalls the famous observation
+      by Anatole France in 1894 that, “The law, in its majestic equality, forbids rich
+      and poor alike to sleep under bridges, to beg in the streets, and to steal their
+      bread.” But even these figures do not conclude the story. ITEP also notes that,
+      once we also account for the impact of Trump’s tariffs — with these tariffs being
+      a tax on imported products — those in the lowest 20 percent income bracket will
+      not keep their $40 in benefits, but rather end up worse off by about $300. Meanwhile,
+      the richest 1 percent are still better off by about $58,000. Much more punishing
+      still for lower-income people are the spending cuts to Medicaid, the health insurance
+      program that now covers 85 million low-income and disabled people, along with
+      other health funding cuts. The Congressional Budget Office (CBO) estimates that,
+      through the Trump measure, at least 17 million people will lose their coverage
+      by 2034. In addition, cuts to the federal food security program (SNAP), on which
+      42 million people now depend, could eliminate this support for up to 5 million
+      people. Moreover, this purposeful Trump project to shower money on the rich while
+      depriving lower-income people of health care and food arrives after nearly 50
+      years of neoliberal policy dominance had already skewed income and wealth inequality
+      to extreme levels. For example, the average wage for non-supervisory workers as
+      of 2023 was roughly equal, at about $28 an hour, to where it was in 1972 (controlling
+      for inflation), even though average worker productivity had increased two-and-a-half-fold
+      over this period. Meanwhile, the average CEO’s pay was 30 times higher than the
+      average worker in 1972, but exploded to 290 times higher by 2023. In other words,
+      the average worker’s annual income remained roughly constant at around $50,000
+      per year over this 50-year span, while the average CEO’s pay skyrocketed from
+      $1.5 million to nearly $15 million. Under Joe Biden’s four years in office, some
+      modest progress was made toward countering this rising inequality trend, including
+      through Biden’s support for union organizing drives and through enforcing existing
+      (but long-neglected) anti-monopoly laws. Trump and company are now committed to
+      wiping out these small gains. This is while Trump stridently proclaims his commitment
+      to working people and while, to date, large segments of the working class have
+      been willing to give Trump the benefit of the doubt. Of course, one centerpiece
+      of Trump’s appeal to the U.S. working class has been his brutal attacks on immigrants,
+      including those with legal status as well as undocumented people. To support this
+      program, the bill allocates an average of more than $20 billion per year through
+      2029 to build new immigrant detention centers and expand Immigration and Customs
+      Enforcement (ICE) operations. This funding more than doubles the current ICE budget.
+      Trump and company claim that undocumented immigrants have flooded into the country,
+      that most of them are criminals, that they are stealing jobs from U.S.-born workers,
+      and that they are draining the public schools, hospitals and other programs of
+      resources without paying taxes to support these public programs. None of these
+      claims are remotely true. In fact, according to the best available evidence ,
+      the population of undocumented immigrants in the U.S. has not changed significantly
+      since 2005, varying between about 11–12 million people overall. Moreover, all
+      immigrants, including undocumented immigrants, are less likely to commit crimes
+      than the U.S.-born, including both violent and nonviolent crimes. In terms of
+      taxes and financing public programs, as of the most recent 2022 data, undocumented
+      immigrants paid nearly $100 billion in federal, state, and local taxes, amounting
+      to an average of nearly $9,000 per undocumented immigrant . Furthermore, more
+      than one-third of all taxes contributed by undocumented immigrants are funding
+      programs that they are unable to access. That is, they are paying into Social
+      Security, Medicare, and unemployment insurance, but are receiving no benefits
+      in return. This is also while, in 2023, the official unemployment rate for U.S.-born
+      workers was 3.6 percent , the lowest figure on record. What about the environmental
+      repercussions? How does Trump’s “Big, Beautiful Bill” impact U.S. climate policy,
+      and what does it mean for global climate change? Trump’s bill is one more weapon
+      amid his relentless wave of attacks against any and all efforts to avert the mounting
+      climate catastrophes. Even prior to the bill’s passage, the Trump administration
+      had already introduced, according to Columbia University’s Climate Backtracker,
+      more than 200 measures to “scale back or wholly eliminate climate mitigation and
+      adaptation measures.” Trump has also fired hundreds of government scientists and
+      installed climate change deniers into critical government positions. The Trump
+      bill itself repeals or phases out the tax credits for solar and wind energy investments,
+      electric vehicle purchases, and making home energy-efficiency improvements that
+      were important features of the Biden Inflation Reduction Act (IRA). The impact
+      of the overall Trump program on the climate will be severe, as intended. U.S.
+      carbon dioxide (CO 2 ) emissions — the main cause of global heating — have fallen
+      by roughly 20 percent over the past 20 years. Biden’s policies did contribute
+      to this downward trend, even while the rate of emissions reductions remained insufficient
+      relative to the global climate stabilization goal of net zero emissions by 2050.
+      Trump’s policies will stop even these modest gains over the short term. If Trump’s
+      program is allowed to remain in place, the likelihood for achieving zero emissions
+      by 2050 becomes nil. How can we fight back effectively? For starters, we need
+      to proclaim loudly the reality that clean energy investments are delivering money
+      and jobs in all regions of the U.S., including in red states. Thus, w ind power
+      is thriving in Texas, Iowa, Oklahoma, and Kansas. Moreover, at the end of Biden’s
+      presidency, West Virginia had received about $5 billion and Pennsylvania about
+      $9 billion in new clean energy investment commitments tied to Biden’s IRA. It
+      is hard to believe that working people in these and other states will be okay
+      with these projects folding, and the jobs generated by them foregone, all thanks
+      to Trump. Still more: Investments in clean renewable energy and high efficiency
+      are now, by far, the cheapest ways to deliver energy to consumers. Even Trump’s
+      own Energy Department’s most current report on comparative electricity costs confirms
+      this. It estimates that electricity generated by onshore wind and solar projects
+      that begin operating in 2030 will cost between 3–3.2 cents per kilowatt hour.
+      The natural gas price will be more than twice as high, at 6.5 cents. We have opportunities
+      right now for major climate policy victories at the state and local levels, even
+      in the face of Trump. One important example was the passage of the Climate Change
+      Superfund law in New York State last December, right before Trump took office.
+      Under this measure, oil and gas companies will pay an average of $3 billion a
+      year for the next 25 years for climate adaptation and resilience measures throughout
+      the state. This victory in New York followed from the successful campaign to enact
+      a similar measure in Vermont earlier in 2024. Comparable bills are now advancing
+      in Massachusetts, California, and Maryland. This federal budget bill is projected
+      to add trillions of dollars to the nation’s debt load and widen deficits. Is the
+      U.S. in the “fast lane” to what Elon Musk calls “ debt slavery ?” Elon Musk and
+      his late, unlamented leadership of the so-called Department of Government Efficiency
+      (DOGE), demonstrated both unbridled malice and a buffoonish level of ignorance
+      regarding the operations of the federal government. Moving on to at least minimally
+      serious analysts, the CBO estimates that the tax cuts in Trump’s bill will generate
+      an average of $450 billion per year in government revenue loss over the next 10
+      years . Increased spending on attacking and deporting immigrants as well as increased
+      military spending will cost the government another roughly $30 billion per year.
+      This brings the total average costs of Trump’s bill to nearly $500 billion per
+      year. Meanwhile, according to the CBO, the spending cuts for health care, food
+      security, and clean energy will together amount to an average total of about $170
+      billion per year. Overall then, the CBO estimates that Trump’s bill will expand
+      the federal deficit by about $330 billion per year over the next decade (i.e.,
+      $500 billion in tax cuts and spending increases minus $170 billion in spending
+      cuts). This will be on top of the government’s 2024 budget deficit of nearly $1.9
+      trillion. The 2024 federal deficit was equal to about 6.3 percent of last year’s
+      U.S. gross domestic product (GDP). This 6.3 percent of GDP budget deficit is larger
+      than at any other non-recession period since World War II. The government did
+      run much larger deficits to counteract the 2008-09 Great Recession and the 2020-2021
+      COVID lockdown. But we are not now experiencing any kind of comparable economic
+      crisis. As of 2024, the government’s accumulated debt was also at a peacetime
+      high of 97 percent of GDP. This is nearly three times higher than the 2007 pre-Great
+      Recession figure, which was 35 percent of GDP. The most critical point is that
+      the current deficits are not serving to prevent an economic collapse. They are
+      rather simply helping rich people get richer, while attacking the living standards
+      of working people and the poor, as well as continuing to lavish exorbitant funds
+      on the military. Is the government about to go broke as a result? The most important
+      indicator here is how much we have to pay to cover these debts — i.e., the interest
+      that the government pays on the U.S. Treasury bonds. In 2024, the government paid
+      nearly $900 billion in interest to its creditors, equal to 3.8 percent of GDP.
+      That is below the 4.9 percent of GDP that the government paid during the Ronald
+      Reagan/George H.W. Bush presidential era. We did not hear Reagan, Bush, or any
+      other Republican politician of that era scream then that the sky was falling.
+      Nor did the sky fall. Still, the government’s $900 billion in 2024 interest payments
+      totaled more than it spent on education, scientific research, public infrastructure,
+      environmental protection, and global humanitarian aid combined. Moreover, government
+      interest payments were at $350 billion as of 2021, 1.5 percent of GDP. Thus, the
+      2024 interest payments were nearly three times larger than only three years prior.
+      This huge spike in interest payments was caused both by the ballooning of government
+      debt obligations, but even more so, by the sharp rise in interest rates that the
+      government now has to pay its creditors. The average interest rate on five-year
+      U.S. government bonds rose from 0.9 percent in 2021 to 4.1 percent in 2024. Interest
+      rates on government debt are likely to stay high now under Trump, as the budget
+      deficit expands and the value of the U.S. dollar falls relative to other major
+      currencies ( the dollar’s value has fallen by more than 10 percent relative to
+      other major currencies since Trump returned to office ). The government’s creditors
+      are mainly rich individuals and foreign governments. The government does have
+      the wherewithal to keep forking over these interest payments to its creditors.
+      Yet, by running large fiscal deficits now, when we are not fighting a recession
+      or a world war, the government is effectively paying rich people to lend it money
+      rather than making them pay minimally decent shares of their income and wealth
+      in taxes. Correspondingly, the government’s interest payments that are now lining
+      rich people’s pockets — and will flow into these pockets even more abundantly
+      thanks to Trump’s bill — also represent hundreds of billions of dollars that could
+      otherwise be devoted to public health, public education, food security, and building
+      a green economy. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . C.J. Polychroniou C.J. Polychroniou is a political
+      economist/political scientist who has taught and worked in numerous universities
+      and research centers in Europe and the United States. His latest books are The
+      Precipice: Neoliberalism, the Pandemic and the Urgent Need for Social Change (A
+      collection of interviews with Noam Chomsky; Haymarket Books, 2021), and Economics
+      and the Left: Interviews with Progressive Economists (Verso, 2021). Author Site
+      Please share this story and help us grow our network!'
+    one_sentence_summary: In an interview, economist Robert Pollin critiques Donald
+      Trump's recently signed "Big, Beautiful Bill," labeling it a "monstrous" and "disgraceful"
+      federal budget legislation that reflects ultra-conservative priorities.
+    paragraph_summary: Donald Trump's recently signed "Big, Beautiful Bill" has been
+      criticized as a significant and troubling piece of legislation that primarily
+      benefits the wealthy through substantial tax breaks and cuts to social safety
+      net programs. In an interview with economist Robert Pollin, he highlights the
+      bill's sweeping implications, which include funding for Trump's anti-immigration
+      initiatives and detrimental impacts on clean energy efforts, favoring fossil fuel
+      production instead. Pollin describes the bill as disgraceful due to its exacerbation
+      of economic inequality in the U.S., which is already the most unequal high-income
+      country, suggesting that while some effects may take time to manifest, the legislation
+      represents a major shift in American policy that aligns with ultra-conservative
+      agendas.
+    published: '2025-07-14T12:41:46+00:00'
+  - title: 'Craig Murray: UK Attempt to Name Non-Violent, Anti-Genocide Group as ‘Terrorist’
+      Is Challenged in Court'
+    url: https://scheerpost.com/2025/07/14/craig-murray-uk-attempt-to-name-non-violent-anti-genocide-group-as-terrorist-is-challenged-in-court/
+    text: 'Royal Courts of Justice in London. (Joe Lauria) In one of the scariest moments
+      in modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . The activist group Palestine Action was designated
+      a terrorist organization by the British government last month after it splashed
+      red paint on a British war plane in protest of it assisting Israel’s genocide
+      in Gaza. The non-violent group is in court challenging its designation by a violent
+      government. The author, a former British diplomat, has been in the courthouse
+      and filed this report. This is the first installment of his two-part article.
+      By Craig Murray / Consortium News I headed to the Royal Courts of Justice in London
+      on July 4 for the hearing brought by Huda Ammori, a co-founder of Palestine Action,
+      on an application for relief from the government’s proscription order against
+      the group as a terrorist organisation. Huda had applied for judicial review of
+      the legality of this order. There is to be a hearing on whether a judicial review
+      will be granted in the week beginning July 21. What the July 4 hearing was about,
+      was whether the proscription should be suspended until that hearing on whether
+      permission will be given for judicial review. This is called interim relief. The
+      legal precedents on interim relief are that this question should depend on three
+      points: — The first is the probability that a full judicial review might ultimately
+      succeed, in other words a preliminary assessment of the merits of the case. —
+      The second is whether irremediable damage will be done to anyone in the meantime
+      if the order is not suspended, should the result of the process eventually be
+      a successful judicial review. — If those two hurdles are passed, the third is
+      whether on a “balance of convenience” the irremediable harm that might be done
+      if the order is not suspended but ultimately is set aside on review, is worse
+      than the irremediable harm that the public might suffer from losing the benefit
+      the government intends by the order in the interim, should the judicial review
+      be denied or eventually confirm the legality of the order. At this stage I presume
+      you are deciding whether to bother to read that six times until it makes some
+      sort of sense, or whether this is going to be an impenetrably dull article full
+      of arcane legal nonsense and you would rather browse something else. I do sympathise.
+      I had spent the train journey down from Edinburgh trying to get my head round
+      all this; at one stage I had a lovely tourist couple from Hungary, who had the
+      bad luck to share the train table with me, each kindly holding sheaves of documents
+      and using their thumbs as placeholders. I rose at 6 a.m. on the day of the hearing
+      to ensure I would get into the courtroom. I was anticipating that, as with the
+      Julian Assange hearings or the International Court of Justice hearings on genocide,
+      there may be a long queue waiting to enter. In fact there was nobody at all at
+      7 a.m. except a great many policemen and me. I had a coffee opposite the court
+      building, and a constant stream of policemen came into the coffee shop to buy
+      coffee and doughnuts. By 07.45 there was not a doughnut left within a mile of
+      the Strand. Anthropologists should study this. British policemen have no history
+      with doughnuts. They never occupied any place in Metropolitan Police culture.
+      However a continual barrage of American films and television programmes portray
+      policemen as doughnut-eating; so presumably British police think this makes them
+      cool. In fact it makes them fat. I shall not be paranoid about the fact the police
+      kept photographing me as I hung round waiting for something to happen. They had
+      nobody else to photograph. I tried to think of things I might do that look suspicious,
+      to make their morning more interesting, but I don’t think my imagination had managed
+      enough sleep. I am not going to sugar coat this. I kept going to the cafe loo
+      to vomit. In fact I kept having to go and order coffees in various establishments
+      to have somewhere to vomit. I had been up most of the night being sick. I hadn’t
+      eaten anything suspect, and I assume it was a virus. This continued into the afternoon,
+      and once court proceedings started I would race away at less charged moments to
+      be sick. Fleet of Police Vans At 8.30 a.m. I went down the Strand to Boots to
+      buy some medicine. On my return 10 minutes later, I saw an entire fleet of police
+      vans arrive and park up around Arundel Street, about 150 metres from the court
+      but out of sight. I counted 16 vans and 11 cars. The vans appeared to have 12-to-15
+      policemen in each. That was only around one side of the court. It was a stern
+      reminder of the issues at stake, and that proscription as a terrorist group gives
+      colossal police-state powers. There are penalties of 14 years in prison should
+      you merely “appear to” support a proscribed group, or be “reckless” as to whether
+      you say something that may cause someone else to support it. This is the Terrorism
+      Act 2000 as originally passed, by the horrible combination of Jack Straw and Tony
+      Blair. It has since been amended to be even worse and make plain that no intent
+      is required — if you “appear” to support, “recklessly” a proscribed organisation,
+      you can be liable for 14 years imprisonment. For some reason the amended version
+      is not available on the official government website. At 9 a.m. I entered the the
+      Royal Courts of Justice. I have spent many more days here than I would wish, and
+      have described the place before : “The architecture of the Royal Courts of Justice
+      was the great last gasp of the Gothic revival; having exhausted the exuberance
+      that gave us the beauty of St Pancras Station and the Palace of Westminster, the
+      movement played out its dreary last efforts at whimsy in shades of grey and brown,
+      valuing scale over proportion and mistaking massive for medieval. As intended,
+      the buildings are a manifestation of the power of the state; as not intended,
+      they are also an indication of the stupidity of large scale power.” Well, here
+      I was again. Previously I had only been in the more prestigious courtrooms, off
+      the main hall, courts 1 to 15. This case was to be heard in court 73. It was in
+      the East Wing. This required an extremely complex feat of navigation through endless
+      corridors where your footsteps echoed from the vaulted stone ceilings, through
+      uncountable pointed arches, passing open courtyards and cloisters, up stairs and
+      then down. With every stage the arches got lower, the architraves shallower, the
+      corridors narrower, as you receded from the show of pomp to the mundane exercise
+      of power. By the time you were in the cramped L-shaped corridor outside court
+      73, you might have mistaken it for a 1950s unemployment benefit office in Solihull.
+      I was first there but other people started to arrive for the hearing and the corridor
+      became crowded and uncomfortably hot — it was one of the hottest days of the summer.
+      At one point I felt about to faint, and Deepa Driver came to my rescue with a
+      bottle of water. We were told the court would open at 10.15 am. In the ensuing
+      hour I twice lost my place in the queue as I had to leave to go vomit. This did
+      enable me to have a quick chat on the stairway with [the attorney] Gareth Peirce
+      about the prospects for the case. I managed to get back towards the front of the
+      queue each time, either because of immense personal charm or because people got
+      out of the way as I smelt faintly of sick, you decide. But in the end it availed
+      nothing as only accredited media were allowed into the courtroom. I am famously
+      not a journalist in the U.K., as ruled by Lady Dorrian in the High Court of Scotland
+      — it’s a long story — so I was not admitted. I was sent instead to an overflow
+      room in court 76 on the floor above, where proceedings could be watched on live
+      screens. So for this section of proceedings I was not in court. While sound and
+      picture quality were excellent, this was not the same as being in the court itself
+      in terms of picking up the atmosphere and all the little things which the camera
+      does not show. It has never happened to me before in all my reporting. Martin
+      Chamberlain The hearing was before Justice Martin Chamberlain. He has a liberal
+      reputation. In a case earlier this year, he stated that he had no confidence in
+      statements by MI5 [Britain’s domestic intelligence service.] In cases involving
+      secret intelligence, British “justice” has an extraordinary procedure whereby
+      the defendant is not allowed to know the evidence against him, but can be defended
+      on that point in a closed court, without the defendant, by a court-appointed barrister
+      known as a “special advocate.” Martin Chamberlain was such an advocate for 10
+      years, and it is impossible for anybody with a slightest modicum of honesty to
+      view a large quantity of intelligence reports without understanding that a high
+      proportion of it is simply inaccurate. I speak as someone who read an average
+      of perhaps 12 secret intelligence reports every day over a 22-year career. This
+      is hopeful because the secretary of state had indicated that in the substantive
+      hearing, there will be intelligence reports on which the government will rely
+      in its evidence against Palestine Action. It has been widely leaked to the press
+      that this includes intelligence reports that Palestine Action receives funding
+      and backing from foreign states – which really is nonsense. Justice Chamberlain
+      also ruled against the legality of certain British arms exports to Saudi Arabia
+      if they would be used against the civilian population in Yemen. He has argued
+      for the strengthening of the freedom of speech provisions of the European Convention
+      of Human Rights (ECHR). It was therefore not a shock that he was prepared to annoy
+      the legal Establishment by agreeing at least to hear the case as to whether there
+      should be a judicial review of the proscription. He might be the only High Court
+      judge who would have agreed. Proscribing Palestine Action had been an extremely
+      high profile action by Prime Minister Keir Starmer and Home Secretary Yvette Cooper
+      in facing down mounting public anger at the Gaza genocide, and seeking to restore
+      the Zionist narrative that Palestinians and supporters of Palestine are terrorist.
+      For the court to prevent the proscription from taking effect subject to legal
+      proceedings, would be massive news and a further blow to Starmer’s authority.
+      So the stakes were very high. Chamberlain gave no indication of this. He appeared
+      enthusiastic to engage intellectually with the subject. He was eager and inclined
+      to muse aloud in his discussions with the lawyers, interrupting sometimes almost
+      out of excitement. He was like a slightly less annoying version of Robert Peston
+      . Raza Husain Raza Husain KC opened the case for the claimant, Huda Ammori, in
+      the standard form by introducing both teams of bewigged barristers. This took
+      some time as the teams were large – six barristers on each side, while Huda had
+      in addition two firms of solicitors. It was one of the few immediate indicators
+      of the gravity and import of what was happening. But another was the demeanour
+      of Raza Husain. Normally the smoothest of operators, he rather stuttered into
+      his opening. This struck me throughout the case: Huda’s lawyers sounded slightly
+      detached, not because they did not believe what they were saying, but because
+      they could not believe that we were in a situation that required them to stand
+      there and say it. Husain opened by stating that civil disobedience has a long
+      and honourable history in the U.K. Very often people who had broken the law had
+      been vindicated by history, such as the suffragettes. This was the first time
+      in that long history that a civil disobedience group not advocating violence had
+      ever been branded in law as terrorist. Five U.N. special rapporteurs had written
+      to oppose the proscription of Palestine Action, including Professor Ben Saul,
+      the United Nations special rapporteur on the promotion and protection of human
+      rights and fundamental freedoms while countering terrorism, who had asked to intervene
+      in the case. I am honoured to be appointed by the member countries of the United
+      Nations to work with them, civil society, and victims of terrorism and excessive
+      counter-terrorism to ensure human rights are fully protected in all counter-terrorism
+      efforts https://t.co/WvWEUtJJrF — Prof Ben Saul – UN SR Human Rights & Counterterror
+      (@profbensaul) October 13, 2023 The special rapporteurs identified three fundamental
+      flaws in the U.K. legislation. There was an overbroad definition of terrorism,
+      an overbroad definition of a terrorist organisation and an overbroad definition
+      of what constituted support for a terrorist organisation. The overall effect of
+      deprivation of liberty was characteristic of an authoritarian state. Husain referred
+      to the evidence of Andrew Feinstein. He had experience of the liberation struggle
+      in Southern Africa and had become an ANC MP. Feinstein testified that Nelson Mandela
+      himself had been designated a terrorist by the British state for decades, and
+      that the anti-apartheid movement used all of the direct action methods used by
+      Palestine Action. Husain then turned to the evidence of Huda Ammori, who stated
+      that in founding Palestine Action she had been directly inspired by the long history
+      of civil disobedience movements in Britain and the many instances where courts
+      had found such methods, including direct action against the arms industry, to
+      be lawful. Palestine Action had never included or targeted any violence or injury
+      to persons. Their actions were focused on Elbit, an Israeli state-owned enterprise
+      which was fundamental to the Israeli military system. Elbit themselves referred
+      to their staff as “civilian soldiers.” Husain continued that the proscription
+      of Palestine Action was ill-considered, discriminatory, authoritarian law. It
+      was contrary to both the common law and the Human Rights Act. For 20 months the
+      Israeli military had been committing acts which most genocide scholars and experts
+      consider to be genocide. The population was now being starved, and the very distribution
+      of humanitarian aid had been turned into a killing field, according to the U.N.
+      Relief and Works Agency (UNRWA). To say that Palestine Action were committing
+      terrorism was the precise opposite of what they were doing. They were rather seeking
+      to prevent terror and genocide. At this stage Judge Chamberlain interposed what
+      appeared something of a non sequitur. He asserted that he would have the power
+      to create an order suspending the operation of the proscription to a later date,
+      and that this was accepted by the secretary of state. Chamberlain continued that
+      this could be done one of two ways. He could issue a statutory injunction, or
+      the secretary of state could submit a fresh order to Parliament. The proscription
+      order also proscribed two other organisations, including the Maniac Murder Cult,
+      so the suspension would need to be crafted to benefit only Palestine Action. Judge
+      Chamberlain stated that the need was to do justice or to cause the least injustice
+      to persons affected in the interim should the case be decided the other way. The
+      secretary of state had not evidenced a national security reason for the proscription
+      to be introduced immediately. After this apparently heartening judicial intervention,
+      Husain continued that the definition of Terrorism in the Act referred to serious
+      damage to property. “Serious” in this case must be read, as argued by Professor
+      Saul, in relation to international law standards. That was not a measure of financial
+      loss, but damage that threatened further consequences such as to nuclear facilities
+      or civilian aircraft. The powers of the secretary of state must be exercised proportionately
+      within the ECHR rights, such as freedom of speech and freedom of assembly. Therefore
+      it could be that even if an organisation fell within the overbroad definitions
+      of the act, it still could not be proscribed. Judge Chamberlain countered this
+      by citing a Supreme Court ruling in another case (Gould) that overbreadth in legislation
+      can be mitigated by prosecutorial discretion. (To translate this into plain English,
+      this means that because a law gives the state far too broad a power, it does not
+      mean that the state will choose to exercise that power in all cases. Which gives
+      of course power to the state selectively to prosecute only its chosen “enemies”
+      using overbroad legislation.) Husain countered that when the legislation was passed
+      through parliament, the then secretary of state had given a categorical assurance
+      that the power of proscription would never be used against domestic direct action
+      groups. Yet here we are. Judge Chamberlain responded that to reverse the proscription
+      on the grounds Husain proposed, he would have to demonstrate that it led to an
+      absurdity, citing another case (Hunt). Husain replied, “It is absurd. It is absurd
+      to pronounce a non-violent group terrorist.” Judge Chamberlain said that what
+      counted was whether if fitted the statutory definition of terrorism, not “some
+      colloquial definition of terrorism”. Husain said the statute specified that terrorism
+      was designed to induce a climate of fear, influence the government or intimidate
+      the public. None of these applied to Palestine Action. Judge Chamberlain asked
+      what was the purpose of the attack on RAF Brize Norton if not to influence the
+      government? Palestine Action’s own submissions claim that Brize Norton supplies
+      RAF Akrotiri which is supporting the Genocide. Husain said that one isolated or
+      sporadic incident did not define the purpose of the organisation, which was to
+      disrupt Elbit and the arms industry. Palestine Action has a non-hierarchical nature.
+      Ascribing responsibility for individual actions was complex. Judge Chamberlain
+      stated that in December 2024 the U.K. government had suspended arms licenses to
+      Israel. Could it not be inferred that Palestine Action was attempting to attain
+      this end? Hussain replied that was not the design of the organisation. It is designed
+      to disrupt the arms supply chain. He then attempted to make further ground with
+      his next point: documents showed that the government had engaged both the Israeli
+      government and Elbit Systems in the decision making process to proscribe Palestine
+      Action. Judge Chamberlain noted that some of these documents were heavily redacted.
+      It was not plain what some of them meant. Raza Husain referred to a document which
+      involved the phrase “act of vandalism” and reference to “a certain person” intervening.
+      It appeared this process had taken place in March. The decision had therefore
+      been taken before the Brize Norton incident. Judge Chamberlain asked why it would
+      be unlawful to take into account the views of the state of Israel? At this point
+      Raza Husain dropped his papers and stared at Judge Chamberlain in incredulity.
+      “Israel to interfere? In our criminal law? In our domestic process?” Chamberlain
+      responded that the government took a range of views into account. Why should it
+      be unlawful to listen to Israel? Husain replied that interference by another state
+      in domestic criminal matters was unconstitutional. Chamberlain stated that there
+      was nothing in the legislation that precludes taking Israel’s views into account.
+      Husain again asked incredulously, “To decide if it is terrorism?” Chamberlain
+      responded, “They are the victims. They suffered criminal damage.” Husain said
+      that does not go to the definition of terrorism. Chamberlain countered they could
+      evidence the seriousness of the damage. Husain said he returned to the international
+      definition underlined by Ben Saul. The damage to property had to go to the level
+      of endangering nuclear installations or civil aviation. We were not in that territory.
+      Husain continued that while both Israel and Elbit were consulted on the decision
+      to proscribe, no pro-Palestinian group had been consulted. Judge Chamberlain replied
+      that the statutory basis may preclude any common-law right to due process. The
+      secretary of state had stated that pro-Palestinian groups could not be consulted,
+      because in effect that would give Palestine Action 21 days’ notice of proscription,
+      in which period it might take pre-emptive action. Husain responded that may be
+      a claimed reason, but how does it apply the law? Blinne Ní Ghrálaigh Chamberlain
+      had rather destroyed the flow of Raza Husain’s argument. He now handed over to
+      his colleague Blinne Ní Ghrálaigh KC. Readers of my blog last encountered Blinne
+      when she held spellbound the International Court of Justice in the Hague, speaking
+      for South Africa in the Genocide case against Israel. There the world stopped
+      and held its breath, and the dramatic architecture of the great hall of the Palace
+      of Justice matched the occasion. Here Blinne stood in the much more modest circumstances
+      of court 73. A plain, three-tier dais of utilitarian wood occupied one long side
+      for the judge and clerks. It is the kind of unnatural wood finish that you get
+      on steel-legged stacking tables, a peculiarly dark reddish brown with unbroken
+      black lines of grain running straight across. The bench seats for the lawyers
+      were in the well of the court, four rows of those, and then there was a small
+      platform at the back for the public gallery, containing fourteen seats — occupied
+      by the press, as was the jury box. Everything was the same kind of wood or veneer.
+      Fitted bookshelves covered the walls around the court, and a very few contained
+      cloth-bound tomes of law, but it appears that someone had forgotten to buy any
+      books for most of them. Judge Chamberlain was perched on the top dais of the bench,
+      in a rather austere black gown with a neat pressed linen collar known as “court
+      bands” around his neck, which featured two long tabs of about six inches hanging
+      down in parallel at the front. He rather resembled a Danish Lutheran preacher.
+      I was in court 76 watching the large screens, as though in the world’s dullest
+      sports bar. The construction was identical to court 73, of the same wood, only
+      the entire thing was three times the size. We observers occupied the well of the
+      court. There was a public gallery of 48 seats which was almost entirely empty.
+      Had the hearing been held in court 76, everybody could have been in the actual
+      courtroom itself. Why the large courtroom was the overspill court and the proceedings
+      were in the tiny courtroom is an interesting question in itself. The result was
+      that no members of the public were in the actual court, despite their right in
+      law to attend. I raced out to be sick again before Blinne started, so for her
+      first three minutes I am grateful to the whispered advice of my neighbours. Blinne
+      was addressing the irreparable harm that would be caused in the next two weeks
+      were the proscription not to be set aside pending the next hearing. She said that
+      the context of the situation in Gaza was that the Palestinian people there faced
+      annihilation and genocide. The U.N. secretary general himself had described what
+      was happening as “A stain on our common humanity”. The explosive force that had
+      been landed on the tiny area of Gaza was the equivalent of six Hiroshimas. There
+      was firm evidence that Israel was now conducting daily massacres of those Palestinians
+      attempting to obtain food for their families. Judge Chamberlain interposed that,
+      since December 2024, it is not permissible for the U.K. to provide any arms to
+      Israel save for F-35 parts. Blinne replied: “That’s a big ‘save’ when people are
+      being massacred.” There was much evidence of continuing arms supply and other
+      forms of military support. This massacre is what Palestine Action have been attempting
+      to disrupt and prevent. If the proscription goes through, how will you differentiate
+      between Palestine Action supporters and other people who hold similar views and
+      take similar actions? Irreparable harm will be done to protestors. Some will carefully
+      follow the law. Some will attempt to walk the invisible tightrope on what expressions
+      of support for Palestine are permitted and what expressions are not, and will
+      fall off. Some will openly defy the proscription as an act of civil disobedience
+      — and some, such as Sally Rooney , [the Irish novelist] live in other jurisdictions.
+      This was all the unprecedented impact of the unique proscription of a grassroots
+      protest group. Three key offences would be created immediately upon the order
+      coming into effect. It would be an offence to belong, or profess to belong, to
+      Palestine Action. It would be an offence to invite, or to recklessly encourage,
+      support for Palestine Action. It would be an offence to arrange a meeting to support
+      Palestine Action or to hear from a member of Palestine Action. All of these carry
+      a sentence of up to 14 years in prison. Wearing clothing or a badge associated
+      with the organisation were offences of strict liability, bringing a six-month
+      prison sentence. Any person convicted would be branded a “terrorist”. A policeman
+      could arrest at any time on suspicion of these offences. They could stop and search.
+      They could enter and search people’s homes and remove property. All of these without
+      a warrant from a court. Any refugee convicted of any of these offences is deemed
+      a danger to the community, justifying expulsion from the U.K. All of this will
+      chill free speech. Those who have supported Palestine Action in the past will
+      fall under suspicion for actions which were perfectly lawful at the time. Judge
+      Chamberlain interrupted to say that this would not happen; the general principle
+      of non-retrospectivity would apply. Blinne said that Palestine Action was a non-formalised
+      body. How did you become a member, and how do you stop being a member? How can
+      you prevent being suspected of being a member if you take direct action on behalf
+      of Palestine without any connection to Palestine Action? Direct action and civil
+      disobedience were not necessarily against U.K. law. A great many of those charged
+      for direct action by Palestine Action had in fact been acquitted by the courts,
+      and therefore their actions had been perfectly legal. There had been few actual
+      convictions. The basic activity was not illegal. Any organisation, for example
+      one called “Yvette Cooper”, could be “suspected” by the police of being Palestine
+      Action. (A new pro-Palestine direct action group has been announced named ironically
+      after the secretary of state.) How would the police decide what symbols showed
+      support for Palestine Action? Were red boiler suits now banned? Judge Chamberlain
+      attempted to pooh-pooh these questions, and Blinne retorted that people had already
+      been arrested for carrying Palestinian flags and wearing keffiyehs. There had
+      been an actual trial for carrying a banner showing a palm tree and two coconuts.
+      What about republishing? What of those who had Facebook photos wearing a Palestine
+      Action T-shirt that might still be seen? How could you argue for de-proscription
+      of the organisation if any mention were likely to bring you under “reasonable
+      suspicion” of support? Judge Chamberlain replied that in due course he would like
+      to hear the government KC, Mr. Ben Watson, address the question of the legality
+      of arguing for deproscription. Blinne said that the harm caused during proscription
+      would be irreparable. Palestinians will continue to be killed while the efforts
+      to disrupt the arms supply to kill them would be banned. The chilling effect on
+      free speech would be extreme. There were hundreds of thousands of supporters of
+      Palestine Action on Twitter and other platforms. There would be mass mobilisation.
+      Over 40 organisations opposed the proscription, including Liberty and Amnesty
+      International (both had representatives in court). This was a fundamental attack
+      on free speech. Judge Chamberlain responded that they would be able lawfully to
+      advocate for deproscription. Blinne replied that they would not, because this
+      would give rise to the offence of appearing to give support. Judge Chamberlain
+      asked her to specify which offence was that? Blinne replied that under Section
+      12, giving intellectual support to the organisation and appearing to support the
+      organisation were both covered. Judge Chamberlain persisted, asking how arguing
+      for deproscription can be confused with this? Blinne responded that the answer
+      is that nobody knows how it will be applied, and therefore it will chill free
+      speech. The definition of support for terrorism is really widely drawn. It is
+      therefore certainly capable of being interpreted in that way. What would be the
+      consequences of simply saying, “I think Palestine Action did the right thing in
+      protesting the Genocide?” The consequences of straying the wrong side of the invisible
+      line were potentially extreme. Furthermore what would be the position of lawyers
+      acting for Palestine Action in future? Would they be permitted to take instruction?
+      How could they be paid? In addition to violating Article X of the ECHR on freedom
+      of speech, there was a clear violation of Article XIV on non-discrimination due
+      to the discrimination in selecting a pro-Palestinian direct action group for proscription,
+      when similar direct action groups concerned with other subjects of protest, such
+      as climate change, had not been proscribed. According to the Human Rights Act
+      it was unlawful in domestic law to violate the c. Articles X, XI and XIV were
+      all engaged. (Freedom of Speech; Freedom of Assembly; Non-Discrimination.) There
+      was clear Strasbourg case law that neither violence nor financial loss can abnegate
+      Article X and XI rights. Judge Chamberlain replied that the secretary of state
+      stated that there was “significant damage to key national infrastructure” affecting
+      “components that supply U.K. and allied forces” and “damage that amounts to hundreds
+      of millions of pounds.” We broke for lunch, and I reacquainted myself with the
+      bathroom. The sound of my dry retching reverberated around the vast, unflinching
+      stone vaults and halls of the Royal Courts. I trust it was not taken as an expression
+      of support for Palestine Action. I emerged into the sunlight, and for the first
+      time I saw the large demonstration outside. I did a number of interviews for media
+      all around the world. Was at Pal Action protest at the Royal Courts of Justice,
+      and surprise surprise who comes out? @craigmurray pic.twitter.com/j4gcAvO8o9 —
+      Matt Ó Branáin #PardonAssange (@MattOBranain) July 5, 2025 I had intended to give
+      a quick speech to the crowd explaining what was happening inside, but the protest
+      was extremely lively and involved bare-chested young men rapping and a great deal
+      of dancing, so I figured nobody would want to hear from a fat old man in a suit.
+      There was a massive police presence, and I witnessed two instances of young men
+      being dragged from the fringes of the crowd by the police and searched – for no
+      reason I could discern, other than an attempt by the police to provoke a violent
+      reaction that would discredit the protest. This is the first of a two-part article.
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Craig Murray Craig Murray is an author, broadcaster and human rights
+      activist. He was British ambassador to Uzbekistan from August 2002 to October
+      2004 and rector of the University of Dundee from 2007 to 2010. His coverage is
+      entirely dependent on reader support. Subscriptions to keep this blog going are
+      gratefully received . Author Site Please share this story and help us grow our
+      network!'
+    one_sentence_summary: Palestine Action, designated a terrorist organization by the
+      British government for its protests against military support for Israel, is challenging
+      this designation in court, as reported by former diplomat Craig Murray.
+    paragraph_summary: Palestine Action, an activist group recently designated as a
+      terrorist organization by the British government for its protests against military
+      support for Israel, is challenging this designation in court. The group, co-founded
+      by Huda Ammori, is seeking judicial review of the government's proscription order,
+      with a hearing scheduled for July 21 to determine if the order should be suspended
+      until the review takes place. The initial hearing on July 4 focused on whether
+      interim relief should be granted, which hinges on the likelihood of success in
+      the judicial review, the potential for irremediable harm if the order is not suspended,
+      and the balance of convenience regarding the situation. The author, a former British
+      diplomat, reports from the Royal Courts of Justice on this significant legal battle.
+    published: '2025-07-14T12:35:13+00:00'
+  - title: 'Craig Murray: UK Attempt to Name Non-Violent, Anti-Genocide Group as ‘Terrorist’
+      Is Challenged in Court'
+    url: https://scheerpost.com/2025/07/14/craig-murray-uk-attempt-to-name-non-violent-anti-genocide-group-as-terrorist-is-challenged-in-court/
+    text: 'Royal Courts of Justice in London. (Joe Lauria) In one of the scariest moments
+      in modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . The activist group Palestine Action was designated
+      a terrorist organization by the British government last month after it splashed
+      red paint on a British war plane in protest of it assisting Israel’s genocide
+      in Gaza. The non-violent group is in court challenging its designation by a violent
+      government. The author, a former British diplomat, has been in the courthouse
+      and filed this report. This is the first installment of his two-part article.
+      By Craig Murray / Consortium News I headed to the Royal Courts of Justice in London
+      on July 4 for the hearing brought by Huda Ammori, a co-founder of Palestine Action,
+      on an application for relief from the government’s proscription order against
+      the group as a terrorist organisation. Huda had applied for judicial review of
+      the legality of this order. There is to be a hearing on whether a judicial review
+      will be granted in the week beginning July 21. What the July 4 hearing was about,
+      was whether the proscription should be suspended until that hearing on whether
+      permission will be given for judicial review. This is called interim relief. The
+      legal precedents on interim relief are that this question should depend on three
+      points: — The first is the probability that a full judicial review might ultimately
+      succeed, in other words a preliminary assessment of the merits of the case. —
+      The second is whether irremediable damage will be done to anyone in the meantime
+      if the order is not suspended, should the result of the process eventually be
+      a successful judicial review. — If those two hurdles are passed, the third is
+      whether on a “balance of convenience” the irremediable harm that might be done
+      if the order is not suspended but ultimately is set aside on review, is worse
+      than the irremediable harm that the public might suffer from losing the benefit
+      the government intends by the order in the interim, should the judicial review
+      be denied or eventually confirm the legality of the order. At this stage I presume
+      you are deciding whether to bother to read that six times until it makes some
+      sort of sense, or whether this is going to be an impenetrably dull article full
+      of arcane legal nonsense and you would rather browse something else. I do sympathise.
+      I had spent the train journey down from Edinburgh trying to get my head round
+      all this; at one stage I had a lovely tourist couple from Hungary, who had the
+      bad luck to share the train table with me, each kindly holding sheaves of documents
+      and using their thumbs as placeholders. I rose at 6 a.m. on the day of the hearing
+      to ensure I would get into the courtroom. I was anticipating that, as with the
+      Julian Assange hearings or the International Court of Justice hearings on genocide,
+      there may be a long queue waiting to enter. In fact there was nobody at all at
+      7 a.m. except a great many policemen and me. I had a coffee opposite the court
+      building, and a constant stream of policemen came into the coffee shop to buy
+      coffee and doughnuts. By 07.45 there was not a doughnut left within a mile of
+      the Strand. Anthropologists should study this. British policemen have no history
+      with doughnuts. They never occupied any place in Metropolitan Police culture.
+      However a continual barrage of American films and television programmes portray
+      policemen as doughnut-eating; so presumably British police think this makes them
+      cool. In fact it makes them fat. I shall not be paranoid about the fact the police
+      kept photographing me as I hung round waiting for something to happen. They had
+      nobody else to photograph. I tried to think of things I might do that look suspicious,
+      to make their morning more interesting, but I don’t think my imagination had managed
+      enough sleep. I am not going to sugar coat this. I kept going to the cafe loo
+      to vomit. In fact I kept having to go and order coffees in various establishments
+      to have somewhere to vomit. I had been up most of the night being sick. I hadn’t
+      eaten anything suspect, and I assume it was a virus. This continued into the afternoon,
+      and once court proceedings started I would race away at less charged moments to
+      be sick. Fleet of Police Vans At 8.30 a.m. I went down the Strand to Boots to
+      buy some medicine. On my return 10 minutes later, I saw an entire fleet of police
+      vans arrive and park up around Arundel Street, about 150 metres from the court
+      but out of sight. I counted 16 vans and 11 cars. The vans appeared to have 12-to-15
+      policemen in each. That was only around one side of the court. It was a stern
+      reminder of the issues at stake, and that proscription as a terrorist group gives
+      colossal police-state powers. There are penalties of 14 years in prison should
+      you merely “appear to” support a proscribed group, or be “reckless” as to whether
+      you say something that may cause someone else to support it. This is the Terrorism
+      Act 2000 as originally passed, by the horrible combination of Jack Straw and Tony
+      Blair. It has since been amended to be even worse and make plain that no intent
+      is required — if you “appear” to support, “recklessly” a proscribed organisation,
+      you can be liable for 14 years imprisonment. For some reason the amended version
+      is not available on the official government website. At 9 a.m. I entered the the
+      Royal Courts of Justice. I have spent many more days here than I would wish, and
+      have described the place before : “The architecture of the Royal Courts of Justice
+      was the great last gasp of the Gothic revival; having exhausted the exuberance
+      that gave us the beauty of St Pancras Station and the Palace of Westminster, the
+      movement played out its dreary last efforts at whimsy in shades of grey and brown,
+      valuing scale over proportion and mistaking massive for medieval. As intended,
+      the buildings are a manifestation of the power of the state; as not intended,
+      they are also an indication of the stupidity of large scale power.” Well, here
+      I was again. Previously I had only been in the more prestigious courtrooms, off
+      the main hall, courts 1 to 15. This case was to be heard in court 73. It was in
+      the East Wing. This required an extremely complex feat of navigation through endless
+      corridors where your footsteps echoed from the vaulted stone ceilings, through
+      uncountable pointed arches, passing open courtyards and cloisters, up stairs and
+      then down. With every stage the arches got lower, the architraves shallower, the
+      corridors narrower, as you receded from the show of pomp to the mundane exercise
+      of power. By the time you were in the cramped L-shaped corridor outside court
+      73, you might have mistaken it for a 1950s unemployment benefit office in Solihull.
+      I was first there but other people started to arrive for the hearing and the corridor
+      became crowded and uncomfortably hot — it was one of the hottest days of the summer.
+      At one point I felt about to faint, and Deepa Driver came to my rescue with a
+      bottle of water. We were told the court would open at 10.15 am. In the ensuing
+      hour I twice lost my place in the queue as I had to leave to go vomit. This did
+      enable me to have a quick chat on the stairway with [the attorney] Gareth Peirce
+      about the prospects for the case. I managed to get back towards the front of the
+      queue each time, either because of immense personal charm or because people got
+      out of the way as I smelt faintly of sick, you decide. But in the end it availed
+      nothing as only accredited media were allowed into the courtroom. I am famously
+      not a journalist in the U.K., as ruled by Lady Dorrian in the High Court of Scotland
+      — it’s a long story — so I was not admitted. I was sent instead to an overflow
+      room in court 76 on the floor above, where proceedings could be watched on live
+      screens. So for this section of proceedings I was not in court. While sound and
+      picture quality were excellent, this was not the same as being in the court itself
+      in terms of picking up the atmosphere and all the little things which the camera
+      does not show. It has never happened to me before in all my reporting. Martin
+      Chamberlain The hearing was before Justice Martin Chamberlain. He has a liberal
+      reputation. In a case earlier this year, he stated that he had no confidence in
+      statements by MI5 [Britain’s domestic intelligence service.] In cases involving
+      secret intelligence, British “justice” has an extraordinary procedure whereby
+      the defendant is not allowed to know the evidence against him, but can be defended
+      on that point in a closed court, without the defendant, by a court-appointed barrister
+      known as a “special advocate.” Martin Chamberlain was such an advocate for 10
+      years, and it is impossible for anybody with a slightest modicum of honesty to
+      view a large quantity of intelligence reports without understanding that a high
+      proportion of it is simply inaccurate. I speak as someone who read an average
+      of perhaps 12 secret intelligence reports every day over a 22-year career. This
+      is hopeful because the secretary of state had indicated that in the substantive
+      hearing, there will be intelligence reports on which the government will rely
+      in its evidence against Palestine Action. It has been widely leaked to the press
+      that this includes intelligence reports that Palestine Action receives funding
+      and backing from foreign states – which really is nonsense. Justice Chamberlain
+      also ruled against the legality of certain British arms exports to Saudi Arabia
+      if they would be used against the civilian population in Yemen. He has argued
+      for the strengthening of the freedom of speech provisions of the European Convention
+      of Human Rights (ECHR). It was therefore not a shock that he was prepared to annoy
+      the legal Establishment by agreeing at least to hear the case as to whether there
+      should be a judicial review of the proscription. He might be the only High Court
+      judge who would have agreed. Proscribing Palestine Action had been an extremely
+      high profile action by Prime Minister Keir Starmer and Home Secretary Yvette Cooper
+      in facing down mounting public anger at the Gaza genocide, and seeking to restore
+      the Zionist narrative that Palestinians and supporters of Palestine are terrorist.
+      For the court to prevent the proscription from taking effect subject to legal
+      proceedings, would be massive news and a further blow to Starmer’s authority.
+      So the stakes were very high. Chamberlain gave no indication of this. He appeared
+      enthusiastic to engage intellectually with the subject. He was eager and inclined
+      to muse aloud in his discussions with the lawyers, interrupting sometimes almost
+      out of excitement. He was like a slightly less annoying version of Robert Peston
+      . Raza Husain Raza Husain KC opened the case for the claimant, Huda Ammori, in
+      the standard form by introducing both teams of bewigged barristers. This took
+      some time as the teams were large – six barristers on each side, while Huda had
+      in addition two firms of solicitors. It was one of the few immediate indicators
+      of the gravity and import of what was happening. But another was the demeanour
+      of Raza Husain. Normally the smoothest of operators, he rather stuttered into
+      his opening. This struck me throughout the case: Huda’s lawyers sounded slightly
+      detached, not because they did not believe what they were saying, but because
+      they could not believe that we were in a situation that required them to stand
+      there and say it. Husain opened by stating that civil disobedience has a long
+      and honourable history in the U.K. Very often people who had broken the law had
+      been vindicated by history, such as the suffragettes. This was the first time
+      in that long history that a civil disobedience group not advocating violence had
+      ever been branded in law as terrorist. Five U.N. special rapporteurs had written
+      to oppose the proscription of Palestine Action, including Professor Ben Saul,
+      the United Nations special rapporteur on the promotion and protection of human
+      rights and fundamental freedoms while countering terrorism, who had asked to intervene
+      in the case. I am honoured to be appointed by the member countries of the United
+      Nations to work with them, civil society, and victims of terrorism and excessive
+      counter-terrorism to ensure human rights are fully protected in all counter-terrorism
+      efforts https://t.co/WvWEUtJJrF — Prof Ben Saul – UN SR Human Rights & Counterterror
+      (@profbensaul) October 13, 2023 The special rapporteurs identified three fundamental
+      flaws in the U.K. legislation. There was an overbroad definition of terrorism,
+      an overbroad definition of a terrorist organisation and an overbroad definition
+      of what constituted support for a terrorist organisation. The overall effect of
+      deprivation of liberty was characteristic of an authoritarian state. Husain referred
+      to the evidence of Andrew Feinstein. He had experience of the liberation struggle
+      in Southern Africa and had become an ANC MP. Feinstein testified that Nelson Mandela
+      himself had been designated a terrorist by the British state for decades, and
+      that the anti-apartheid movement used all of the direct action methods used by
+      Palestine Action. Husain then turned to the evidence of Huda Ammori, who stated
+      that in founding Palestine Action she had been directly inspired by the long history
+      of civil disobedience movements in Britain and the many instances where courts
+      had found such methods, including direct action against the arms industry, to
+      be lawful. Palestine Action had never included or targeted any violence or injury
+      to persons. Their actions were focused on Elbit, an Israeli state-owned enterprise
+      which was fundamental to the Israeli military system. Elbit themselves referred
+      to their staff as “civilian soldiers.” Husain continued that the proscription
+      of Palestine Action was ill-considered, discriminatory, authoritarian law. It
+      was contrary to both the common law and the Human Rights Act. For 20 months the
+      Israeli military had been committing acts which most genocide scholars and experts
+      consider to be genocide. The population was now being starved, and the very distribution
+      of humanitarian aid had been turned into a killing field, according to the U.N.
+      Relief and Works Agency (UNRWA). To say that Palestine Action were committing
+      terrorism was the precise opposite of what they were doing. They were rather seeking
+      to prevent terror and genocide. At this stage Judge Chamberlain interposed what
+      appeared something of a non sequitur. He asserted that he would have the power
+      to create an order suspending the operation of the proscription to a later date,
+      and that this was accepted by the secretary of state. Chamberlain continued that
+      this could be done one of two ways. He could issue a statutory injunction, or
+      the secretary of state could submit a fresh order to Parliament. The proscription
+      order also proscribed two other organisations, including the Maniac Murder Cult,
+      so the suspension would need to be crafted to benefit only Palestine Action. Judge
+      Chamberlain stated that the need was to do justice or to cause the least injustice
+      to persons affected in the interim should the case be decided the other way. The
+      secretary of state had not evidenced a national security reason for the proscription
+      to be introduced immediately. After this apparently heartening judicial intervention,
+      Husain continued that the definition of Terrorism in the Act referred to serious
+      damage to property. “Serious” in this case must be read, as argued by Professor
+      Saul, in relation to international law standards. That was not a measure of financial
+      loss, but damage that threatened further consequences such as to nuclear facilities
+      or civilian aircraft. The powers of the secretary of state must be exercised proportionately
+      within the ECHR rights, such as freedom of speech and freedom of assembly. Therefore
+      it could be that even if an organisation fell within the overbroad definitions
+      of the act, it still could not be proscribed. Judge Chamberlain countered this
+      by citing a Supreme Court ruling in another case (Gould) that overbreadth in legislation
+      can be mitigated by prosecutorial discretion. (To translate this into plain English,
+      this means that because a law gives the state far too broad a power, it does not
+      mean that the state will choose to exercise that power in all cases. Which gives
+      of course power to the state selectively to prosecute only its chosen “enemies”
+      using overbroad legislation.) Husain countered that when the legislation was passed
+      through parliament, the then secretary of state had given a categorical assurance
+      that the power of proscription would never be used against domestic direct action
+      groups. Yet here we are. Judge Chamberlain responded that to reverse the proscription
+      on the grounds Husain proposed, he would have to demonstrate that it led to an
+      absurdity, citing another case (Hunt). Husain replied, “It is absurd. It is absurd
+      to pronounce a non-violent group terrorist.” Judge Chamberlain said that what
+      counted was whether if fitted the statutory definition of terrorism, not “some
+      colloquial definition of terrorism”. Husain said the statute specified that terrorism
+      was designed to induce a climate of fear, influence the government or intimidate
+      the public. None of these applied to Palestine Action. Judge Chamberlain asked
+      what was the purpose of the attack on RAF Brize Norton if not to influence the
+      government? Palestine Action’s own submissions claim that Brize Norton supplies
+      RAF Akrotiri which is supporting the Genocide. Husain said that one isolated or
+      sporadic incident did not define the purpose of the organisation, which was to
+      disrupt Elbit and the arms industry. Palestine Action has a non-hierarchical nature.
+      Ascribing responsibility for individual actions was complex. Judge Chamberlain
+      stated that in December 2024 the U.K. government had suspended arms licenses to
+      Israel. Could it not be inferred that Palestine Action was attempting to attain
+      this end? Hussain replied that was not the design of the organisation. It is designed
+      to disrupt the arms supply chain. He then attempted to make further ground with
+      his next point: documents showed that the government had engaged both the Israeli
+      government and Elbit Systems in the decision making process to proscribe Palestine
+      Action. Judge Chamberlain noted that some of these documents were heavily redacted.
+      It was not plain what some of them meant. Raza Husain referred to a document which
+      involved the phrase “act of vandalism” and reference to “a certain person” intervening.
+      It appeared this process had taken place in March. The decision had therefore
+      been taken before the Brize Norton incident. Judge Chamberlain asked why it would
+      be unlawful to take into account the views of the state of Israel? At this point
+      Raza Husain dropped his papers and stared at Judge Chamberlain in incredulity.
+      “Israel to interfere? In our criminal law? In our domestic process?” Chamberlain
+      responded that the government took a range of views into account. Why should it
+      be unlawful to listen to Israel? Husain replied that interference by another state
+      in domestic criminal matters was unconstitutional. Chamberlain stated that there
+      was nothing in the legislation that precludes taking Israel’s views into account.
+      Husain again asked incredulously, “To decide if it is terrorism?” Chamberlain
+      responded, “They are the victims. They suffered criminal damage.” Husain said
+      that does not go to the definition of terrorism. Chamberlain countered they could
+      evidence the seriousness of the damage. Husain said he returned to the international
+      definition underlined by Ben Saul. The damage to property had to go to the level
+      of endangering nuclear installations or civil aviation. We were not in that territory.
+      Husain continued that while both Israel and Elbit were consulted on the decision
+      to proscribe, no pro-Palestinian group had been consulted. Judge Chamberlain replied
+      that the statutory basis may preclude any common-law right to due process. The
+      secretary of state had stated that pro-Palestinian groups could not be consulted,
+      because in effect that would give Palestine Action 21 days’ notice of proscription,
+      in which period it might take pre-emptive action. Husain responded that may be
+      a claimed reason, but how does it apply the law? Blinne Ní Ghrálaigh Chamberlain
+      had rather destroyed the flow of Raza Husain’s argument. He now handed over to
+      his colleague Blinne Ní Ghrálaigh KC. Readers of my blog last encountered Blinne
+      when she held spellbound the International Court of Justice in the Hague, speaking
+      for South Africa in the Genocide case against Israel. There the world stopped
+      and held its breath, and the dramatic architecture of the great hall of the Palace
+      of Justice matched the occasion. Here Blinne stood in the much more modest circumstances
+      of court 73. A plain, three-tier dais of utilitarian wood occupied one long side
+      for the judge and clerks. It is the kind of unnatural wood finish that you get
+      on steel-legged stacking tables, a peculiarly dark reddish brown with unbroken
+      black lines of grain running straight across. The bench seats for the lawyers
+      were in the well of the court, four rows of those, and then there was a small
+      platform at the back for the public gallery, containing fourteen seats — occupied
+      by the press, as was the jury box. Everything was the same kind of wood or veneer.
+      Fitted bookshelves covered the walls around the court, and a very few contained
+      cloth-bound tomes of law, but it appears that someone had forgotten to buy any
+      books for most of them. Judge Chamberlain was perched on the top dais of the bench,
+      in a rather austere black gown with a neat pressed linen collar known as “court
+      bands” around his neck, which featured two long tabs of about six inches hanging
+      down in parallel at the front. He rather resembled a Danish Lutheran preacher.
+      I was in court 76 watching the large screens, as though in the world’s dullest
+      sports bar. The construction was identical to court 73, of the same wood, only
+      the entire thing was three times the size. We observers occupied the well of the
+      court. There was a public gallery of 48 seats which was almost entirely empty.
+      Had the hearing been held in court 76, everybody could have been in the actual
+      courtroom itself. Why the large courtroom was the overspill court and the proceedings
+      were in the tiny courtroom is an interesting question in itself. The result was
+      that no members of the public were in the actual court, despite their right in
+      law to attend. I raced out to be sick again before Blinne started, so for her
+      first three minutes I am grateful to the whispered advice of my neighbours. Blinne
+      was addressing the irreparable harm that would be caused in the next two weeks
+      were the proscription not to be set aside pending the next hearing. She said that
+      the context of the situation in Gaza was that the Palestinian people there faced
+      annihilation and genocide. The U.N. secretary general himself had described what
+      was happening as “A stain on our common humanity”. The explosive force that had
+      been landed on the tiny area of Gaza was the equivalent of six Hiroshimas. There
+      was firm evidence that Israel was now conducting daily massacres of those Palestinians
+      attempting to obtain food for their families. Judge Chamberlain interposed that,
+      since December 2024, it is not permissible for the U.K. to provide any arms to
+      Israel save for F-35 parts. Blinne replied: “That’s a big ‘save’ when people are
+      being massacred.” There was much evidence of continuing arms supply and other
+      forms of military support. This massacre is what Palestine Action have been attempting
+      to disrupt and prevent. If the proscription goes through, how will you differentiate
+      between Palestine Action supporters and other people who hold similar views and
+      take similar actions? Irreparable harm will be done to protestors. Some will carefully
+      follow the law. Some will attempt to walk the invisible tightrope on what expressions
+      of support for Palestine are permitted and what expressions are not, and will
+      fall off. Some will openly defy the proscription as an act of civil disobedience
+      — and some, such as Sally Rooney , [the Irish novelist] live in other jurisdictions.
+      This was all the unprecedented impact of the unique proscription of a grassroots
+      protest group. Three key offences would be created immediately upon the order
+      coming into effect. It would be an offence to belong, or profess to belong, to
+      Palestine Action. It would be an offence to invite, or to recklessly encourage,
+      support for Palestine Action. It would be an offence to arrange a meeting to support
+      Palestine Action or to hear from a member of Palestine Action. All of these carry
+      a sentence of up to 14 years in prison. Wearing clothing or a badge associated
+      with the organisation were offences of strict liability, bringing a six-month
+      prison sentence. Any person convicted would be branded a “terrorist”. A policeman
+      could arrest at any time on suspicion of these offences. They could stop and search.
+      They could enter and search people’s homes and remove property. All of these without
+      a warrant from a court. Any refugee convicted of any of these offences is deemed
+      a danger to the community, justifying expulsion from the U.K. All of this will
+      chill free speech. Those who have supported Palestine Action in the past will
+      fall under suspicion for actions which were perfectly lawful at the time. Judge
+      Chamberlain interrupted to say that this would not happen; the general principle
+      of non-retrospectivity would apply. Blinne said that Palestine Action was a non-formalised
+      body. How did you become a member, and how do you stop being a member? How can
+      you prevent being suspected of being a member if you take direct action on behalf
+      of Palestine without any connection to Palestine Action? Direct action and civil
+      disobedience were not necessarily against U.K. law. A great many of those charged
+      for direct action by Palestine Action had in fact been acquitted by the courts,
+      and therefore their actions had been perfectly legal. There had been few actual
+      convictions. The basic activity was not illegal. Any organisation, for example
+      one called “Yvette Cooper”, could be “suspected” by the police of being Palestine
+      Action. (A new pro-Palestine direct action group has been announced named ironically
+      after the secretary of state.) How would the police decide what symbols showed
+      support for Palestine Action? Were red boiler suits now banned? Judge Chamberlain
+      attempted to pooh-pooh these questions, and Blinne retorted that people had already
+      been arrested for carrying Palestinian flags and wearing keffiyehs. There had
+      been an actual trial for carrying a banner showing a palm tree and two coconuts.
+      What about republishing? What of those who had Facebook photos wearing a Palestine
+      Action T-shirt that might still be seen? How could you argue for de-proscription
+      of the organisation if any mention were likely to bring you under “reasonable
+      suspicion” of support? Judge Chamberlain replied that in due course he would like
+      to hear the government KC, Mr. Ben Watson, address the question of the legality
+      of arguing for deproscription. Blinne said that the harm caused during proscription
+      would be irreparable. Palestinians will continue to be killed while the efforts
+      to disrupt the arms supply to kill them would be banned. The chilling effect on
+      free speech would be extreme. There were hundreds of thousands of supporters of
+      Palestine Action on Twitter and other platforms. There would be mass mobilisation.
+      Over 40 organisations opposed the proscription, including Liberty and Amnesty
+      International (both had representatives in court). This was a fundamental attack
+      on free speech. Judge Chamberlain responded that they would be able lawfully to
+      advocate for deproscription. Blinne replied that they would not, because this
+      would give rise to the offence of appearing to give support. Judge Chamberlain
+      asked her to specify which offence was that? Blinne replied that under Section
+      12, giving intellectual support to the organisation and appearing to support the
+      organisation were both covered. Judge Chamberlain persisted, asking how arguing
+      for deproscription can be confused with this? Blinne responded that the answer
+      is that nobody knows how it will be applied, and therefore it will chill free
+      speech. The definition of support for terrorism is really widely drawn. It is
+      therefore certainly capable of being interpreted in that way. What would be the
+      consequences of simply saying, “I think Palestine Action did the right thing in
+      protesting the Genocide?” The consequences of straying the wrong side of the invisible
+      line were potentially extreme. Furthermore what would be the position of lawyers
+      acting for Palestine Action in future? Would they be permitted to take instruction?
+      How could they be paid? In addition to violating Article X of the ECHR on freedom
+      of speech, there was a clear violation of Article XIV on non-discrimination due
+      to the discrimination in selecting a pro-Palestinian direct action group for proscription,
+      when similar direct action groups concerned with other subjects of protest, such
+      as climate change, had not been proscribed. According to the Human Rights Act
+      it was unlawful in domestic law to violate the c. Articles X, XI and XIV were
+      all engaged. (Freedom of Speech; Freedom of Assembly; Non-Discrimination.) There
+      was clear Strasbourg case law that neither violence nor financial loss can abnegate
+      Article X and XI rights. Judge Chamberlain replied that the secretary of state
+      stated that there was “significant damage to key national infrastructure” affecting
+      “components that supply U.K. and allied forces” and “damage that amounts to hundreds
+      of millions of pounds.” We broke for lunch, and I reacquainted myself with the
+      bathroom. The sound of my dry retching reverberated around the vast, unflinching
+      stone vaults and halls of the Royal Courts. I trust it was not taken as an expression
+      of support for Palestine Action. I emerged into the sunlight, and for the first
+      time I saw the large demonstration outside. I did a number of interviews for media
+      all around the world. Was at Pal Action protest at the Royal Courts of Justice,
+      and surprise surprise who comes out? @craigmurray pic.twitter.com/j4gcAvO8o9 —
+      Matt Ó Branáin #PardonAssange (@MattOBranain) July 5, 2025 I had intended to give
+      a quick speech to the crowd explaining what was happening inside, but the protest
+      was extremely lively and involved bare-chested young men rapping and a great deal
+      of dancing, so I figured nobody would want to hear from a fat old man in a suit.
+      There was a massive police presence, and I witnessed two instances of young men
+      being dragged from the fringes of the crowd by the police and searched – for no
+      reason I could discern, other than an attempt by the police to provoke a violent
+      reaction that would discredit the protest. This is the first of a two-part article.
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Craig Murray Craig Murray is an author, broadcaster and human rights
+      activist. He was British ambassador to Uzbekistan from August 2002 to October
+      2004 and rector of the University of Dundee from 2007 to 2010. His coverage is
+      entirely dependent on reader support. Subscriptions to keep this blog going are
+      gratefully received . Author Site Please share this story and help us grow our
+      network!'
+    one_sentence_summary: Palestine Action, designated a terrorist organization by the
+      British government for its protests against military support for Israel, is challenging
+      this designation in court, as reported by former diplomat Craig Murray.
+    paragraph_summary: Palestine Action, an activist group recently designated as a
+      terrorist organization by the British government for its protests against military
+      support for Israel, is challenging this designation in court. The group, co-founded
+      by Huda Ammori, is seeking judicial review of the government's proscription order,
+      with a hearing scheduled for July 21 to determine if the order should be suspended
+      until the review takes place. The initial hearing on July 4 focused on whether
+      interim relief should be granted, which hinges on the likelihood of success in
+      the judicial review, the potential for irremediable harm if the order is not suspended,
+      and the balance of convenience regarding the situation. The author, a former British
+      diplomat, reports from the Royal Courts of Justice on this significant legal battle.
+    published: '2025-07-14T12:35:13+00:00'
+  - title: Ukraine’s Corporate Carve-Up Collapses?
+    url: https://scheerpost.com/2025/07/14/ukraines-corporate-carve-up-collapses/
+    text: 'President Of Ukraine, CC0, via Wikimedia Commons In one of the scariest moments
+      in modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . By Kit Klarenberg / Substack On July 5th , Bloomberg
+      reported that a BlackRock-administered multibillion-dollar fund for Kiev’s reconstruction,
+      due to be unveiled at a dedicated Ukraine Recovery Conference in Rome July 10th/11th,
+      had been placed on hold at the start of 2025 “due to a lack of interest” among
+      institutional, private, and state financiers. The summit is over, lack of investor
+      enthusiasm persists, and “the project’s future is now uncertain.” It’s just the
+      latest confirmation the West’s long-running mission to carve up Ukraine for profit
+      verges on total disintegration. BlackRock’s Ukraine Development Fund has been
+      in the works since May 2023 . It was originally envisaged as one of the most ambitious
+      public-private finance collaborations in history, which would rival Washington’s
+      Marshall Plan that rebuilt – and heavily indebted – Western Europe in World War
+      II’s wake. With vast returns promised, initially investors w ere reportedly “ready
+      to plow funds” into the endeavour, due to widespread optimism Kiev’s much-hyped
+      “counteroffensive” later that year “might end the war quickly.” In the event,
+      the counteroffensive was an unmitigated disaster . Ukraine suffered up to 100,000
+      casualties, with much of its arsenal of Western-supplied armour, vehicles and
+      weapons obliterated, in return for recapturing just 0.25% of the territory occupied
+      by Russia in the proxy war’s initial phases. As BlackRock vice chair Philipp Hildebrand
+      explained , the results killed off investor exuberance, as they required “the
+      cessation of hostilities, or at the very least a perspective for peace.” Concerns
+      about Ukraine’s ever-reducing skilled workforce were also widespread. Fast forward
+      to today, and there is no indication of any peace deal on the horizon, Russia
+      is rapidly advancing across multiple fronts, and the Ukrainian government estimates
+      the country has lost around 40% of its working-age population due to the proxy
+      war. No wonder BlackRock’s Development Fund has failed to attract a single dollar.
+      Quite what will remain of Ukraine when the conflict is over, and whether any financial
+      returns can be gleaned from its ruins, are open, grave questions. The collapse
+      of BlackRock’s Ukraine Development Fund is not only a microcosm of the impending,
+      inevitable defeat of Kiev and its overseas puppetmasters in Donbass. It also reflects
+      the death of the dream of breaking apart Ukraine’s industries and resources to
+      untrammelled rape and pillage, long-held by Western corporations, oligarchs, and
+      governments. Planning for this eventuality dates back to the country’s 1991 independence,
+      producing concrete results following the 2014 Western-orchestrated Maidan coup,
+      and becoming turbocharged once all-out proxy war erupted in February 2022. ‘Investment
+      Climate’ From the start of 2013, Western corporations began moving en masse to
+      buy up Ukraine wholesale. It was widely expected Kiev would that year enter into
+      an “association agreement” with the EU, facilitating privatisation, and tearing
+      up of longstanding laws restricting foreign purchase and ownership of the country’s
+      untold agricultural riches. The former “breadbasket of the Soviet Union” is home
+      to the equivalent of one third of the EU’s total arable land, and projected profits
+      were voluminous. That January , Anglo-Dutch MI6-linked energy giant Shell signed
+      a 50-year deal with the Ukrainian government to explore and drill for natural
+      gas via fracking in areas of Donetsk and Kharkov “believed to hold substantial
+      natural gas.” Then, in May, notorious , now-defunct chemical giant Monsanto announced
+      plans to invest $140 million in constructing a corn seed plant in the country’s
+      agricultural heartlands. The company was a founding member of the US-Ukraine Business
+      Council, established in October 1995 to “improve” Kiev’s “investment climate.”
+      USUBC’s treasurer was and remains David Kramer , who during Maidan also served
+      as president of Freedom House, a National Endowment for Democracy division. NED
+      was avowedly founded by the CIA to do publicly what the Agency historically did
+      publicly. The Endowment and Freedom House were responsible for Ukraine’s 2004
+      “Orange Revolution”, which brought pro-Western puppet Viktor Yushchenko to power.
+      He immediately implemented deeply unpopular neoliberal economic reforms, including
+      slashing regulations and social spending. Yushchenko was voted out in 2010, securing
+      just 5% of the vote. Following Ukrainian President Viktor Yanukovych’s rejection
+      of the EU association agreement in favour of a more advantageous deal offered
+      by Russia in November 2013 , the mass Maidan protests in Kiev were ignited by
+      NED-affiliated actors, and fascist agitators . They raged until late February
+      2014, when Yanukovych fled the country. In the intervening time, Ukraine was plunged
+      into total chaos – yet, firms associated with USUBC weren’t deterred. Many, including
+      major companies with representatives on the organisation’s executive committee,
+      continued making sizeable investments in Ukraine throughout. Their undimmed enthusiasm
+      may be explained by David Kramer being an alumni of Project for the New American
+      Century, a neoconservative think tank widely credited with masterminding the Bush
+      administration’s “War on Terror”. The organisation’s cofounder Robert Kagan is
+      married to Victoria Nuland, at this time the State Department’s point person on
+      Ukraine. She visited Kiev repeatedly during the Maidan “revolution”, and hand-picked
+      Yanukovych’s replacement interim government. Nuland was thus well-placed to know
+      USUBC member investments in Ukraine would be safe long-term. ‘Trade Opportunities’
+      Nuland’s fascist interim government was replaced in June 2014 by an administration
+      led by far-right Petro Poroshenko, who stood on an explicit platform of privatising
+      state industries. The President passed legislation enabling this in March 2016
+      . Two years later, his government adopted sweeping laws to further facilitate
+      the auctioning off of Kiev’s public assets and industry to foreign actors. However,
+      a moratorium on private sale of arable land, imposed in 2001, remained in place.
+      No matter – in August 2018 , the European Court of Human Rights ruled this was
+      illegal. There was still one problem, though. Opinion polls consistently showed
+      Ukrainian citizens overwhelmingly rejected privatisation, and the sale of their
+      country’s agricultural land to overseas buyers. As luck would have it, the proxy
+      war’s eruption, and imposition of martial law, allowed for industrial scale trampling
+      by Volodomyr Zelensky’s government over public opinion, and political opposition.
+      Throughout 2022 , a series of controversial laws intended to “make privatization
+      as easy as possible for foreign investors” were passed without hindrance. In the
+      process, close to 1,000 nationalised enterprises were offered up for overseas
+      sale, and auctions for purchase of these entities “under simplified terms” convened.
+      The next year, these efforts intensified , with further legislation enacted enabling
+      “large-scale privatisation of state assets and state companies.” This was reportedly
+      motivated by “the attractiveness” of Ukraine’s “large state assets to institutional
+      investors.” They included an Odessa-based ammonia factory, major mining and chemical
+      firms, one of the country’s leading power generators, and a producer of high-quality
+      titanium products. Encouraged by the West’s reception to these moves, in July
+      2024 Kiev announced a dedicated “Large-Scale Privatisation” plan, with yet more
+      prize assets under the hammer. Little wonder two months later, a British Foreign
+      Office briefing document openly acknowledged it viewed “the invasion not only
+      as a crisis, but also as an opportunity.” London’s primary economic aid project
+      in Ukraine is explicitly concerned with ensuring the country “adopts and implements
+      economic reforms that create a more inclusive economy, enhancing trade opportunities
+      with the UK.” The objectives of Britain’s “Good Governance Fund” in Ukraine The
+      previous January , the World Economic Forum’s annual congress was convened in
+      Davos, Switzerland. The proxy war, and Kiev’s economic future, loomed large on
+      the event’s agenda. Its centrepiece was a breakout breakfast attended by political
+      leaders and business bigwigs, where Zelensky appeared via videolink. The President
+      thanked “giants of the international financial and investment world,” including
+      BlackRock, Goldman Sachs, and JP Morgan, for buying up his country’s assets during
+      wartime. He boldly promised, “everyone can become a big business by working with
+      Ukraine.” Subsequently , BlackRock CEO Larry Fink pledged to coordinate billions
+      of dollars in reconstruction financing for Kiev, forecasting the country would
+      become a “beacon of capitalism” resultantly. Meanwhile, Goldman Sachs chief David
+      Solomon spoke with intense optimism about Kiev’s post-war future, and the gains
+      his firm and other major Western financial institutions would reap. “There is
+      no question that as you rebuild, there will be good economic incentives for real
+      return and real investment,” he crowed. Zelensky spoke at multiple events held
+      in Davos over the five-day-long conference’s course, where pro-Kiev sentiment
+      was reportedly “overwhelming”. The President spoke of recapturing Crimea, and
+      demanded attendees “give us your weapons.” His audiences were invariably highly
+      receptive. On one panel, Boris Johnson, who personally sabotaged fruitful peace
+      talks between Kiev and Moscow in April 2022, urged Zelensky be provided “the tools
+      he needs to finish the job.” The disgraced former British Prime Minister boomed
+      , “Give them the tanks! There’s absolutely nothing to be lost!” In years to come,
+      the January 2023 Davos summit may be viewed both as the high point of Ukraine’s
+      proxy war effort, and roughly when everything began to spectacularly unravel.
+      The desired weapons arrived in huge quantities, to no effect. Kiev’s three biggest
+      military efforts since, all British-planned – that year’s counteroffensive , the
+      Krynky incursion , and Kursk “counterinvasion” – were deeply costly cataclysms,
+      leaving Ukraine undermanned and ill-equipped to fend off Russian advances. Countries
+      that supplied munitions borderline disarmed themselves in the process. The Ukraine
+      Recovery Conference passed without much media interest , despite a literal red
+      carpet being rolled out for Zelensky, and multiple senior EU officials – including
+      Ursula von der Leyen – and European state leaders attending. It ended with vague
+      commitments to drum up €10 billion in private sector investments for Ukraine.
+      Evidently, Western ambitions of making a mint out of Kiev haven’t been fully jettisoned
+      – even if the World Bank calculates the total cost of rebuilding the country to
+      be $524 billion. In a speech, von der Leyen pledged to support Ukraine “militarily,
+      financially, and politically” for “as long as it takes.” Meanwhile, there is little
+      indication that Britain has given up on making Kiev safe for neoliberalism and
+      its own profit, despite London’s covert commitment to “keeping Ukraine fighting
+      at all costs.” Of course, the longer the lost proxy war grinds on, the less Ukraine
+      there will be to rebuild, and reap returns from. But apparently, this unambiguous
+      reality is lost on the proxy war’s sponsors. God help us all. Editor’s Note :
+      A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Kit Klarenberg
+      Kit Klarenberg is an investigative journalist and MintPress News contributor exploring
+      the role of intelligence services in shaping politics and perceptions. His work
+      has previously appeared in The Cradle, Declassified UK, and Grayzone. Follow him
+      on Twitter @KitKlarenberg . Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: A BlackRock-managed multibillion-dollar fund for Ukraine's
+      reconstruction has been put on hold due to a lack of interest from investors,
+      casting uncertainty on the project's future and highlighting the faltering Western
+      efforts to capitalize on Ukraine's recovery.
+    paragraph_summary: A recent Bloomberg report revealed that a multibillion-dollar
+      fund managed by BlackRock for Ukraine's reconstruction has been put on hold due
+      to a lack of interest from investors, casting doubt on the project's future. Initially
+      conceived as a significant public-private finance initiative, comparable to the
+      Marshall Plan, the fund was expected to attract substantial investment following
+      optimistic projections about Ukraine's military counteroffensive. However, the
+      counteroffensive turned out to be disastrous, leading to heavy casualties and
+      minimal territorial gains, which dampened investor enthusiasm. Concerns about
+      Ukraine's diminishing skilled workforce and the need for a cessation of hostilities
+      further contributed to the uncertainty surrounding the fund's viability.
+    published: '2025-07-14T12:29:08+00:00'
+  - title: Ukraine’s Corporate Carve-Up Collapses?
+    url: https://scheerpost.com/2025/07/14/ukraines-corporate-carve-up-collapses/
+    text: 'President Of Ukraine, CC0, via Wikimedia Commons In one of the scariest moments
+      in modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . By Kit Klarenberg / Substack On July 5th , Bloomberg
+      reported that a BlackRock-administered multibillion-dollar fund for Kiev’s reconstruction,
+      due to be unveiled at a dedicated Ukraine Recovery Conference in Rome July 10th/11th,
+      had been placed on hold at the start of 2025 “due to a lack of interest” among
+      institutional, private, and state financiers. The summit is over, lack of investor
+      enthusiasm persists, and “the project’s future is now uncertain.” It’s just the
+      latest confirmation the West’s long-running mission to carve up Ukraine for profit
+      verges on total disintegration. BlackRock’s Ukraine Development Fund has been
+      in the works since May 2023 . It was originally envisaged as one of the most ambitious
+      public-private finance collaborations in history, which would rival Washington’s
+      Marshall Plan that rebuilt – and heavily indebted – Western Europe in World War
+      II’s wake. With vast returns promised, initially investors w ere reportedly “ready
+      to plow funds” into the endeavour, due to widespread optimism Kiev’s much-hyped
+      “counteroffensive” later that year “might end the war quickly.” In the event,
+      the counteroffensive was an unmitigated disaster . Ukraine suffered up to 100,000
+      casualties, with much of its arsenal of Western-supplied armour, vehicles and
+      weapons obliterated, in return for recapturing just 0.25% of the territory occupied
+      by Russia in the proxy war’s initial phases. As BlackRock vice chair Philipp Hildebrand
+      explained , the results killed off investor exuberance, as they required “the
+      cessation of hostilities, or at the very least a perspective for peace.” Concerns
+      about Ukraine’s ever-reducing skilled workforce were also widespread. Fast forward
+      to today, and there is no indication of any peace deal on the horizon, Russia
+      is rapidly advancing across multiple fronts, and the Ukrainian government estimates
+      the country has lost around 40% of its working-age population due to the proxy
+      war. No wonder BlackRock’s Development Fund has failed to attract a single dollar.
+      Quite what will remain of Ukraine when the conflict is over, and whether any financial
+      returns can be gleaned from its ruins, are open, grave questions. The collapse
+      of BlackRock’s Ukraine Development Fund is not only a microcosm of the impending,
+      inevitable defeat of Kiev and its overseas puppetmasters in Donbass. It also reflects
+      the death of the dream of breaking apart Ukraine’s industries and resources to
+      untrammelled rape and pillage, long-held by Western corporations, oligarchs, and
+      governments. Planning for this eventuality dates back to the country’s 1991 independence,
+      producing concrete results following the 2014 Western-orchestrated Maidan coup,
+      and becoming turbocharged once all-out proxy war erupted in February 2022. ‘Investment
+      Climate’ From the start of 2013, Western corporations began moving en masse to
+      buy up Ukraine wholesale. It was widely expected Kiev would that year enter into
+      an “association agreement” with the EU, facilitating privatisation, and tearing
+      up of longstanding laws restricting foreign purchase and ownership of the country’s
+      untold agricultural riches. The former “breadbasket of the Soviet Union” is home
+      to the equivalent of one third of the EU’s total arable land, and projected profits
+      were voluminous. That January , Anglo-Dutch MI6-linked energy giant Shell signed
+      a 50-year deal with the Ukrainian government to explore and drill for natural
+      gas via fracking in areas of Donetsk and Kharkov “believed to hold substantial
+      natural gas.” Then, in May, notorious , now-defunct chemical giant Monsanto announced
+      plans to invest $140 million in constructing a corn seed plant in the country’s
+      agricultural heartlands. The company was a founding member of the US-Ukraine Business
+      Council, established in October 1995 to “improve” Kiev’s “investment climate.”
+      USUBC’s treasurer was and remains David Kramer , who during Maidan also served
+      as president of Freedom House, a National Endowment for Democracy division. NED
+      was avowedly founded by the CIA to do publicly what the Agency historically did
+      publicly. The Endowment and Freedom House were responsible for Ukraine’s 2004
+      “Orange Revolution”, which brought pro-Western puppet Viktor Yushchenko to power.
+      He immediately implemented deeply unpopular neoliberal economic reforms, including
+      slashing regulations and social spending. Yushchenko was voted out in 2010, securing
+      just 5% of the vote. Following Ukrainian President Viktor Yanukovych’s rejection
+      of the EU association agreement in favour of a more advantageous deal offered
+      by Russia in November 2013 , the mass Maidan protests in Kiev were ignited by
+      NED-affiliated actors, and fascist agitators . They raged until late February
+      2014, when Yanukovych fled the country. In the intervening time, Ukraine was plunged
+      into total chaos – yet, firms associated with USUBC weren’t deterred. Many, including
+      major companies with representatives on the organisation’s executive committee,
+      continued making sizeable investments in Ukraine throughout. Their undimmed enthusiasm
+      may be explained by David Kramer being an alumni of Project for the New American
+      Century, a neoconservative think tank widely credited with masterminding the Bush
+      administration’s “War on Terror”. The organisation’s cofounder Robert Kagan is
+      married to Victoria Nuland, at this time the State Department’s point person on
+      Ukraine. She visited Kiev repeatedly during the Maidan “revolution”, and hand-picked
+      Yanukovych’s replacement interim government. Nuland was thus well-placed to know
+      USUBC member investments in Ukraine would be safe long-term. ‘Trade Opportunities’
+      Nuland’s fascist interim government was replaced in June 2014 by an administration
+      led by far-right Petro Poroshenko, who stood on an explicit platform of privatising
+      state industries. The President passed legislation enabling this in March 2016
+      . Two years later, his government adopted sweeping laws to further facilitate
+      the auctioning off of Kiev’s public assets and industry to foreign actors. However,
+      a moratorium on private sale of arable land, imposed in 2001, remained in place.
+      No matter – in August 2018 , the European Court of Human Rights ruled this was
+      illegal. There was still one problem, though. Opinion polls consistently showed
+      Ukrainian citizens overwhelmingly rejected privatisation, and the sale of their
+      country’s agricultural land to overseas buyers. As luck would have it, the proxy
+      war’s eruption, and imposition of martial law, allowed for industrial scale trampling
+      by Volodomyr Zelensky’s government over public opinion, and political opposition.
+      Throughout 2022 , a series of controversial laws intended to “make privatization
+      as easy as possible for foreign investors” were passed without hindrance. In the
+      process, close to 1,000 nationalised enterprises were offered up for overseas
+      sale, and auctions for purchase of these entities “under simplified terms” convened.
+      The next year, these efforts intensified , with further legislation enacted enabling
+      “large-scale privatisation of state assets and state companies.” This was reportedly
+      motivated by “the attractiveness” of Ukraine’s “large state assets to institutional
+      investors.” They included an Odessa-based ammonia factory, major mining and chemical
+      firms, one of the country’s leading power generators, and a producer of high-quality
+      titanium products. Encouraged by the West’s reception to these moves, in July
+      2024 Kiev announced a dedicated “Large-Scale Privatisation” plan, with yet more
+      prize assets under the hammer. Little wonder two months later, a British Foreign
+      Office briefing document openly acknowledged it viewed “the invasion not only
+      as a crisis, but also as an opportunity.” London’s primary economic aid project
+      in Ukraine is explicitly concerned with ensuring the country “adopts and implements
+      economic reforms that create a more inclusive economy, enhancing trade opportunities
+      with the UK.” The objectives of Britain’s “Good Governance Fund” in Ukraine The
+      previous January , the World Economic Forum’s annual congress was convened in
+      Davos, Switzerland. The proxy war, and Kiev’s economic future, loomed large on
+      the event’s agenda. Its centrepiece was a breakout breakfast attended by political
+      leaders and business bigwigs, where Zelensky appeared via videolink. The President
+      thanked “giants of the international financial and investment world,” including
+      BlackRock, Goldman Sachs, and JP Morgan, for buying up his country’s assets during
+      wartime. He boldly promised, “everyone can become a big business by working with
+      Ukraine.” Subsequently , BlackRock CEO Larry Fink pledged to coordinate billions
+      of dollars in reconstruction financing for Kiev, forecasting the country would
+      become a “beacon of capitalism” resultantly. Meanwhile, Goldman Sachs chief David
+      Solomon spoke with intense optimism about Kiev’s post-war future, and the gains
+      his firm and other major Western financial institutions would reap. “There is
+      no question that as you rebuild, there will be good economic incentives for real
+      return and real investment,” he crowed. Zelensky spoke at multiple events held
+      in Davos over the five-day-long conference’s course, where pro-Kiev sentiment
+      was reportedly “overwhelming”. The President spoke of recapturing Crimea, and
+      demanded attendees “give us your weapons.” His audiences were invariably highly
+      receptive. On one panel, Boris Johnson, who personally sabotaged fruitful peace
+      talks between Kiev and Moscow in April 2022, urged Zelensky be provided “the tools
+      he needs to finish the job.” The disgraced former British Prime Minister boomed
+      , “Give them the tanks! There’s absolutely nothing to be lost!” In years to come,
+      the January 2023 Davos summit may be viewed both as the high point of Ukraine’s
+      proxy war effort, and roughly when everything began to spectacularly unravel.
+      The desired weapons arrived in huge quantities, to no effect. Kiev’s three biggest
+      military efforts since, all British-planned – that year’s counteroffensive , the
+      Krynky incursion , and Kursk “counterinvasion” – were deeply costly cataclysms,
+      leaving Ukraine undermanned and ill-equipped to fend off Russian advances. Countries
+      that supplied munitions borderline disarmed themselves in the process. The Ukraine
+      Recovery Conference passed without much media interest , despite a literal red
+      carpet being rolled out for Zelensky, and multiple senior EU officials – including
+      Ursula von der Leyen – and European state leaders attending. It ended with vague
+      commitments to drum up €10 billion in private sector investments for Ukraine.
+      Evidently, Western ambitions of making a mint out of Kiev haven’t been fully jettisoned
+      – even if the World Bank calculates the total cost of rebuilding the country to
+      be $524 billion. In a speech, von der Leyen pledged to support Ukraine “militarily,
+      financially, and politically” for “as long as it takes.” Meanwhile, there is little
+      indication that Britain has given up on making Kiev safe for neoliberalism and
+      its own profit, despite London’s covert commitment to “keeping Ukraine fighting
+      at all costs.” Of course, the longer the lost proxy war grinds on, the less Ukraine
+      there will be to rebuild, and reap returns from. But apparently, this unambiguous
+      reality is lost on the proxy war’s sponsors. God help us all. Editor’s Note :
+      A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Kit Klarenberg
+      Kit Klarenberg is an investigative journalist and MintPress News contributor exploring
+      the role of intelligence services in shaping politics and perceptions. His work
+      has previously appeared in The Cradle, Declassified UK, and Grayzone. Follow him
+      on Twitter @KitKlarenberg . Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: A BlackRock-managed multibillion-dollar fund for Ukraine's
+      reconstruction has been put on hold due to a lack of interest from investors,
+      casting uncertainty on the project's future and highlighting the faltering Western
+      efforts to capitalize on Ukraine's recovery.
+    paragraph_summary: A recent Bloomberg report revealed that a multibillion-dollar
+      fund managed by BlackRock for Ukraine's reconstruction has been put on hold due
+      to a lack of interest from investors, casting doubt on the project's future. Initially
+      conceived as a significant public-private finance initiative, comparable to the
+      Marshall Plan, the fund was expected to attract substantial investment following
+      optimistic projections about Ukraine's military counteroffensive. However, the
+      counteroffensive turned out to be disastrous, leading to heavy casualties and
+      minimal territorial gains, which dampened investor enthusiasm. Concerns about
+      Ukraine's diminishing skilled workforce and the need for a cessation of hostilities
+      further contributed to the uncertainty surrounding the fund's viability.
+    published: '2025-07-14T12:29:08+00:00'
+  - title: 'Israeli Minister: ‘Gaza Must Be in Ruins for Decades,’ As Airstrike Kills
+      Children Seeking Water'
+    url: https://scheerpost.com/2025/07/14/israeli-minister-gaza-must-be-in-ruins-for-decades-as-airstrike-kills-children-seeking-water/
+    text: 'Minister Eli Cohen. Ofir Abe (אופיר אייבי), CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Juan Cole / Informed Comment Ann Arbor (Informed Comment) – In an
+      interview with Israel’s Channel 14, Minister of Energy Eli Cohen said that “Gaza
+      must remain in ruins for decades to come” and that Israel will not help rebuild
+      its civilian infrastructure. The Israeli army has damaged or destroyed some 90%
+      of the Gaza Strip’s housing stock, as well as destroying most hospitals and all
+      schools and universities, as well as water purification plants and other essential
+      infrastructure, leaving over 2 million people to try to live in rubble. Note that
+      Cohen is a member of the ruling right wing Likud Party headed by Prime Minister
+      Benjamin Netanyahu rather than being from the extremist Religious Zionism bloc
+      that is in coalition with the Likud. A former accountant and teacher of business
+      at Tel Aviv University, Cohen has been listed among the top 100 most influential
+      Israelis. Keeping millions of Palestinians in Gaza, half of them children, living
+      in ruins for decades is not the sort of goal announced by sane, civilized, ordinary
+      European politicians. At least, not since the 1930s. If a Likud Party stalwart
+      like Cohen openly speaks like this, imagine what the Religious Zionism and Jewish
+      Power cabinet members and members of parliament sound like. Also on Sunday, the
+      Associated Press reports from an eyewitness, Ramadan Nassar, that some 14 adults
+      brought 20 children to collect water from a distribution point in Nuseirat in
+      central Gaza. As though out of nowhere, an Israeli missile struck them, killing
+      six children and four adults. AP says that the Israeli military alleged that the
+      strike was a technical error. There seem to be a lot of those, since over half
+      of the 58,000 Palestinians Israel has killed since October 2023 have been women
+      and children, and many of the rest were noncombatant men. Most water in Gaza is
+      not potable, since Israel has deliberately destroyed water purification plants,
+      and ground water is full of bacteria. Watery diarrhea, which can lead to dehydration
+      and even death, is common in the Palestinian population of Gaza, including among
+      vulnerable infants and children. Just as civilized politicians don’t talk about
+      making millions of people live in rubble for decades, civilized militaries don’t
+      have rules of engagement that allow for 20, or 50, or even 100 civilian deaths
+      for every militant targeted. NATO is refusing to do joint military operations
+      with Israel because of these unacceptable rules of engagement, which would get
+      any NATO officer court-martialed who tried to implement them. In addition, Palestinian
+      media sources reported that Israeli airstrikes and attacks left 95 people dead
+      on Sunday, 52 of them in Gaza City. On Monday, UNICEF announced that it recorded
+      5,800 cases of malnutrition among children in the Gaza Strip during the month
+      of June, as IMEMC reports : “The United Nations Children’s Fund (UNICEF) announced
+      Sunday that more than 5,800 children in the Gaza Strip were diagnosed with malnutrition
+      during the month of June, amid the ongoing genocide in Gaza and an 18-year blockade.
+      UNICEF reported that over 1,000 of these children are suffering from severe acute
+      malnutrition, warning that this marks the fourth consecutive month of rising cases.
+      UNICEF stressed that the catastrophic conditions in Gaza demand urgent and large-scale
+      humanitarian aid, cautioning that children are facing escalating threats to their
+      survival due to a widespread famine that has already claimed numerous lives, particularly
+      among children, because of what it described as a campaign of extermination involving
+      systematic starvation and a suffocating siege.” Severe acute malnutrition involves
+      muscle wastage and pencil-like arms, and produces permanent brain damage. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Juan Cole Juan
+      Cole, a TomDispatch regular , is the Richard P. Mitchell collegiate professor
+      of history at the University of Michigan. He is the author of The Rubaiyat of
+      Omar Khayyam: A New Translation From the Persian and Muhammad: Prophet of Peace
+      Amid the Clash of Empires . His latest book is Peace Movements in Islam . His
+      award-winning blog is Informed Comment . He is also a non-resident Fellow of the
+      Center for Conflict and Humanitarian Studies in Doha and of Democracy for the
+      Arab World Now (DAWN). Author Site Please share this story and help us grow our
+      network!'
+    one_sentence_summary: Israeli Energy Minister Eli Cohen stated that Gaza should
+      remain in ruins for decades and that Israel will not assist in rebuilding its
+      civilian infrastructure, following extensive destruction caused by the Israeli
+      military.
+    paragraph_summary: In a recent interview, Israeli Energy Minister Eli Cohen stated
+      that Gaza should remain in ruins for decades, emphasizing that Israel will not
+      assist in rebuilding the region's devastated civilian infrastructure, which has
+      suffered extensive damage due to military actions. With around 90% of Gaza's housing
+      destroyed and essential services like hospitals and schools obliterated, over
+      2 million residents, including many children, are left to survive amidst the rubble.
+      Cohen, a member of the ruling Likud Party, reflects a troubling stance that raises
+      concerns about the humanitarian implications of such policies. Additionally, a
+      tragic incident was reported where an Israeli missile struck a group of adults
+      and children collecting water, resulting in multiple fatalities, which the Israeli
+      military attributed to a technical error. The situation highlights the dire conditions
+      in Gaza and the stark rhetoric from Israeli officials regarding its future.
+    published: '2025-07-14T12:19:30+00:00'
+  - title: 'Israeli Minister: ‘Gaza Must Be in Ruins for Decades,’ As Airstrike Kills
+      Children Seeking Water'
+    url: https://scheerpost.com/2025/07/14/israeli-minister-gaza-must-be-in-ruins-for-decades-as-airstrike-kills-children-seeking-water/
+    text: 'Minister Eli Cohen. Ofir Abe (אופיר אייבי), CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Juan Cole / Informed Comment Ann Arbor (Informed Comment) – In an
+      interview with Israel’s Channel 14, Minister of Energy Eli Cohen said that “Gaza
+      must remain in ruins for decades to come” and that Israel will not help rebuild
+      its civilian infrastructure. The Israeli army has damaged or destroyed some 90%
+      of the Gaza Strip’s housing stock, as well as destroying most hospitals and all
+      schools and universities, as well as water purification plants and other essential
+      infrastructure, leaving over 2 million people to try to live in rubble. Note that
+      Cohen is a member of the ruling right wing Likud Party headed by Prime Minister
+      Benjamin Netanyahu rather than being from the extremist Religious Zionism bloc
+      that is in coalition with the Likud. A former accountant and teacher of business
+      at Tel Aviv University, Cohen has been listed among the top 100 most influential
+      Israelis. Keeping millions of Palestinians in Gaza, half of them children, living
+      in ruins for decades is not the sort of goal announced by sane, civilized, ordinary
+      European politicians. At least, not since the 1930s. If a Likud Party stalwart
+      like Cohen openly speaks like this, imagine what the Religious Zionism and Jewish
+      Power cabinet members and members of parliament sound like. Also on Sunday, the
+      Associated Press reports from an eyewitness, Ramadan Nassar, that some 14 adults
+      brought 20 children to collect water from a distribution point in Nuseirat in
+      central Gaza. As though out of nowhere, an Israeli missile struck them, killing
+      six children and four adults. AP says that the Israeli military alleged that the
+      strike was a technical error. There seem to be a lot of those, since over half
+      of the 58,000 Palestinians Israel has killed since October 2023 have been women
+      and children, and many of the rest were noncombatant men. Most water in Gaza is
+      not potable, since Israel has deliberately destroyed water purification plants,
+      and ground water is full of bacteria. Watery diarrhea, which can lead to dehydration
+      and even death, is common in the Palestinian population of Gaza, including among
+      vulnerable infants and children. Just as civilized politicians don’t talk about
+      making millions of people live in rubble for decades, civilized militaries don’t
+      have rules of engagement that allow for 20, or 50, or even 100 civilian deaths
+      for every militant targeted. NATO is refusing to do joint military operations
+      with Israel because of these unacceptable rules of engagement, which would get
+      any NATO officer court-martialed who tried to implement them. In addition, Palestinian
+      media sources reported that Israeli airstrikes and attacks left 95 people dead
+      on Sunday, 52 of them in Gaza City. On Monday, UNICEF announced that it recorded
+      5,800 cases of malnutrition among children in the Gaza Strip during the month
+      of June, as IMEMC reports : “The United Nations Children’s Fund (UNICEF) announced
+      Sunday that more than 5,800 children in the Gaza Strip were diagnosed with malnutrition
+      during the month of June, amid the ongoing genocide in Gaza and an 18-year blockade.
+      UNICEF reported that over 1,000 of these children are suffering from severe acute
+      malnutrition, warning that this marks the fourth consecutive month of rising cases.
+      UNICEF stressed that the catastrophic conditions in Gaza demand urgent and large-scale
+      humanitarian aid, cautioning that children are facing escalating threats to their
+      survival due to a widespread famine that has already claimed numerous lives, particularly
+      among children, because of what it described as a campaign of extermination involving
+      systematic starvation and a suffocating siege.” Severe acute malnutrition involves
+      muscle wastage and pencil-like arms, and produces permanent brain damage. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Juan Cole Juan
+      Cole, a TomDispatch regular , is the Richard P. Mitchell collegiate professor
+      of history at the University of Michigan. He is the author of The Rubaiyat of
+      Omar Khayyam: A New Translation From the Persian and Muhammad: Prophet of Peace
+      Amid the Clash of Empires . His latest book is Peace Movements in Islam . His
+      award-winning blog is Informed Comment . He is also a non-resident Fellow of the
+      Center for Conflict and Humanitarian Studies in Doha and of Democracy for the
+      Arab World Now (DAWN). Author Site Please share this story and help us grow our
+      network!'
+    one_sentence_summary: Israeli Energy Minister Eli Cohen stated that Gaza should
+      remain in ruins for decades and that Israel will not assist in rebuilding its
+      civilian infrastructure, following extensive destruction caused by the Israeli
+      military.
+    paragraph_summary: In a recent interview, Israeli Energy Minister Eli Cohen stated
+      that Gaza should remain in ruins for decades, emphasizing that Israel will not
+      assist in rebuilding the region's devastated civilian infrastructure, which has
+      suffered extensive damage due to military actions. With around 90% of Gaza's housing
+      destroyed and essential services like hospitals and schools obliterated, over
+      2 million residents, including many children, are left to survive amidst the rubble.
+      Cohen, a member of the ruling Likud Party, reflects a troubling stance that raises
+      concerns about the humanitarian implications of such policies. Additionally, a
+      tragic incident was reported where an Israeli missile struck a group of adults
+      and children collecting water, resulting in multiple fatalities, which the Israeli
+      military attributed to a technical error. The situation highlights the dire conditions
+      in Gaza and the stark rhetoric from Israeli officials regarding its future.
+    published: '2025-07-14T12:19:30+00:00'
+  - title: 'US Envoy: Disarm Hezbollah or Israel, Syria Will Conquer Lebanon'
+    url: https://scheerpost.com/2025/07/13/us-envoy-disarm-hezbollah-or-israel-syria-will-conquer-lebanon/
+    text: 'Tom Barrack met with Ahmed al-Sharaa in Syria in May 2025. Ambassador Tom
+      Barrack, Public domain, via Wikimedia Commons In one of the scariest moments in
+      modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . By Jason Ditz / Antiwar.com In comments in an interview
+      with The National, US Ambassador to Turkey and special envoy to Syria Tom Barrack
+      warned that Lebanon faces an “existential” crisis if they don’t give in to US
+      demands to fully disarm Hezbollah and all other armed factions by November. “You
+      have Israel on one side, you have Iran on the other, and now you have Syria manifesting
+      itself,” Barrack insisted, adding that if Lebanon doesn’t give in to the demands
+      both Israel and Syria are liable to just carve up the area as Bilad al-Sham, or
+      Greater Syria. “ If Lebanon doesn’t hurry up and get in line, everyone around
+      them will, ” Barrack cautioned. The US recently issued demands or Lebanon to disarm
+      everyone, though last week Lebanon responded after Hezbollah made it clear they
+      would not disarm simply because of US demands. While Barrack presented himself
+      as “ unbelievably satisfied ” at the time, which was less than a week ago, his
+      current comments suggest he is anything but, and rejecting the US demands seem
+      to have escalated into full-scale threats to wipe Lebanon off the map by way of
+      US allies. Last weekend, it was further being reported that Israel and Syria were
+      in talks regarding their own ongoing tensions, which center on Israeli occupations
+      of parts of southwest Syria. The talks were said to include proposals to give
+      Syria substantial parts of northern Lebanon, including the major city of Tripoli,
+      in return for letting Israel nominally retain the Golan Heights. It has also been
+      reported Syria’s Islamist government has issued an ultimatum to Lebanon , threatening
+      them over Syrian prisoners being held in Lebanese prisons. Syria denied this was
+      the case, however, saying they have no intention to take “ escalatory measures
+      ” against Lebanon over the prisoners. That may not be that reassuring, however,
+      with the caveat of it not being about the prisoners. With Syria eagerly cozying
+      up the US of late, Barrack’s comments suggest the Syrian government may be being
+      incentivized to take over part of Lebanon to impose the monopoly over arms that
+      was the center of US demands. Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Jason Ditz Jason Ditz is Senior Editor
+      for Antiwar.com. He has 20 years of experience in foreign policy research and
+      his work has appeared in The American Conservative, Responsible Statecraft, Forbes,
+      Toronto Star, Minneapolis Star-Tribune, Providence Journal, Washington Times,
+      and the Detroit Free Press. Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: US Ambassador Tom Barrack warned that Lebanon faces an "existential"
+      crisis if it does not comply with US demands to disarm Hezbollah and other armed
+      factions by November, as regional tensions with Israel and Iran escalate.
+    paragraph_summary: In a recent interview, US Ambassador to Turkey and special envoy
+      to Syria, Tom Barrack, warned that Lebanon faces an "existential" crisis unless
+      it complies with US demands to disarm Hezbollah and other armed factions by November.
+      He highlighted the precarious situation Lebanon is in, flanked by Israel and Iran,
+      and suggested that failure to comply could lead to the region being divided among
+      these powers. Despite Barrack's earlier satisfaction with Lebanon's response to
+      US demands, his latest comments indicate a shift towards threats against Lebanon,
+      coinciding with reports of talks between Israel and Syria that could involve territorial
+      concessions affecting northern Lebanon. Additionally, Syria's government has reportedly
+      issued an ultimatum to Lebanon regarding prisoners held in Lebanese jails, further
+      escalating tensions in the region.
+    published: '2025-07-13T12:45:19+00:00'
+  - title: 'US Envoy: Disarm Hezbollah or Israel, Syria Will Conquer Lebanon'
+    url: https://scheerpost.com/2025/07/13/us-envoy-disarm-hezbollah-or-israel-syria-will-conquer-lebanon/
+    text: 'Tom Barrack met with Ahmed al-Sharaa in Syria in May 2025. Ambassador Tom
+      Barrack, Public domain, via Wikimedia Commons In one of the scariest moments in
+      modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . By Jason Ditz / Antiwar.com In comments in an interview
+      with The National, US Ambassador to Turkey and special envoy to Syria Tom Barrack
+      warned that Lebanon faces an “existential” crisis if they don’t give in to US
+      demands to fully disarm Hezbollah and all other armed factions by November. “You
+      have Israel on one side, you have Iran on the other, and now you have Syria manifesting
+      itself,” Barrack insisted, adding that if Lebanon doesn’t give in to the demands
+      both Israel and Syria are liable to just carve up the area as Bilad al-Sham, or
+      Greater Syria. “ If Lebanon doesn’t hurry up and get in line, everyone around
+      them will, ” Barrack cautioned. The US recently issued demands or Lebanon to disarm
+      everyone, though last week Lebanon responded after Hezbollah made it clear they
+      would not disarm simply because of US demands. While Barrack presented himself
+      as “ unbelievably satisfied ” at the time, which was less than a week ago, his
+      current comments suggest he is anything but, and rejecting the US demands seem
+      to have escalated into full-scale threats to wipe Lebanon off the map by way of
+      US allies. Last weekend, it was further being reported that Israel and Syria were
+      in talks regarding their own ongoing tensions, which center on Israeli occupations
+      of parts of southwest Syria. The talks were said to include proposals to give
+      Syria substantial parts of northern Lebanon, including the major city of Tripoli,
+      in return for letting Israel nominally retain the Golan Heights. It has also been
+      reported Syria’s Islamist government has issued an ultimatum to Lebanon , threatening
+      them over Syrian prisoners being held in Lebanese prisons. Syria denied this was
+      the case, however, saying they have no intention to take “ escalatory measures
+      ” against Lebanon over the prisoners. That may not be that reassuring, however,
+      with the caveat of it not being about the prisoners. With Syria eagerly cozying
+      up the US of late, Barrack’s comments suggest the Syrian government may be being
+      incentivized to take over part of Lebanon to impose the monopoly over arms that
+      was the center of US demands. Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Jason Ditz Jason Ditz is Senior Editor
+      for Antiwar.com. He has 20 years of experience in foreign policy research and
+      his work has appeared in The American Conservative, Responsible Statecraft, Forbes,
+      Toronto Star, Minneapolis Star-Tribune, Providence Journal, Washington Times,
+      and the Detroit Free Press. Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: US Ambassador Tom Barrack warned that Lebanon faces an "existential"
+      crisis if it does not comply with US demands to disarm Hezbollah and other armed
+      factions by November, as regional tensions with Israel and Iran escalate.
+    paragraph_summary: In a recent interview, US Ambassador to Turkey and special envoy
+      to Syria, Tom Barrack, warned that Lebanon faces an "existential" crisis unless
+      it complies with US demands to disarm Hezbollah and other armed factions by November.
+      He highlighted the precarious situation Lebanon is in, flanked by Israel and Iran,
+      and suggested that failure to comply could lead to the region being divided among
+      these powers. Despite Barrack's earlier satisfaction with Lebanon's response to
+      US demands, his latest comments indicate a shift towards threats against Lebanon,
+      coinciding with reports of talks between Israel and Syria that could involve territorial
+      concessions affecting northern Lebanon. Additionally, Syria's government has reportedly
+      issued an ultimatum to Lebanon regarding prisoners held in Lebanese jails, further
+      escalating tensions in the region.
+    published: '2025-07-13T12:45:19+00:00'
+  - title: On CNN, LA’s ICE Protesters Were Seen and Not Heard
+    url: https://scheerpost.com/2025/07/13/on-cnn-las-ice-protesters-were-seen-and-not-heard/
+    text: 'Department of Homeland Security (DHS) Secretary Kristi Noem participates
+      in U.S. Immigration and Customs Enforcement (ICE) Enforcement and Removal Operations
+      (ERO) in Los Angeles, California, June 12, 2025. (DHS photo by Tia Dufour) In
+      one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Luca Goldmansour / Fairness
+      and Accuracy In Reporting (FAIR) A FAIR study found that CNN ’s primetime coverage
+      of the Los Angeles anti-ICE protests in early June rarely included the voices
+      of the protesters themselves. Instead, the network’s sources were overwhelmingly
+      current and former government and law enforcement officials. The resulting coverage
+      rarely took issue with Trump’s desire to silence the people who were defending
+      their undocumented neighbors—but mainly debated his decision to deploy the California
+      National Guard to do so. FAIR recorded the sources that appeared in the 5–10 pm
+      timeslot during two key days, June 9 and 10, of CNN ’s television coverage of
+      the Los Angeles protests; the shows included were the Lead with Jake Tapper ,
+      Erin Burnett OutFront , Anderson Cooper 360 and the Source With Kaitlan Collins
+      . The sources were categorized by current or former occupation, and on whether
+      they were a featured guest—who typically field multiple interview-style questions
+      from an anchor—or simply a soundbite. Sources that made multiple appearances were
+      counted once for each segment they appeared in. ( CNN ’s in-house “analysts” or
+      “commentators” were counted as featured guests to reflect their significant impact
+      on the perspectives shared on the shows.) Out of 85 total sources across the eight
+      broadcasts, only five were protesters, appearing on just three shows. None of
+      the 47 featured guests were protesters or community or immigrant advocates. By
+      far the most frequent sources were current or former US government officials,
+      with 55 appearances—a whopping 65% of total sources. Thirteen additional sources
+      were law enforcement, and five were current or former military. Together, these
+      official sources accounted for 86% of all appearances. (There were also three
+      journalists, two lawyers and two partisan strategists.) Of featured guest and
+      analyst interviews, current or former government officials dominated at 49% (23
+      out of 47). These sources were given the most time to present their perspectives,
+      shaping the narrative around the protests and the government responses. Another
+      11 featured guests were law enforcement and two were military, so official sources
+      accounted for 77% of all such interviews. The three journalists, two lawyers and
+      two partisan strategists made up the remaining featured guests. ‘Verbally at least
+      hostile’ CNN ’s made-for-TV, on-the-ground style of protest coverage in the days
+      following the Ambiance Apparel and Home Depot ICE raids felt little different
+      from when Anderson Cooper stands around in a raincoat during a hurricane. Only
+      this time, CNN reporters were braving an uncontrollable storm of Angelenos. Much
+      like Cooper’s coat, CNN senior investigative correspondent Kyung Lah ( Erin Burnett
+      OutFront , 6/9/25 ) donned protective goggles—useful should she have encountered
+      tear gas, but also undoubtedly a dramatic flourish perfect for one of CNN ’s 30-second
+      TV spots. That CNN was primarily interested in drama rather than helping viewers
+      understand the protests became abundantly clear as—even with her protective goggles—Lah
+      made no apparent effort to interview any protesters as she and CNN anchor Erin
+      Burnett stood in front of LA’s federal detention center, where federal agents,
+      LAPD and the California National Guard were in a standoff with demonstrators.
+      Instead, they kept a close eye on every thrown water bottle, expressing concern
+      about the crowd’s increasingly “young” demographic as the day went on. “This is
+      a much younger crowd, certainly, verbally at least, Erin, hostile,” Lah reported.
+      The only protest voices that CNN ’s audience heard from throughout both days of
+      primetime coverage came in the form of two brief soundbites captured by correspondent
+      Jason Carroll ( Lead , 6/9/25 ) at a protest for the release of arrested SEIU
+      leader David Huerta the morning of June 9. Araceli Martinez, the only protester
+      identified by name, offered a call to action for all Americans, arguing that the
+      Trump administration’s immigration raids are a threat to “the rights of all people,
+      not just the immigrants, but all of us.” That soundbite reaired on Erin Burnett
+      Outfront and Anderson Cooper 360 , both on June 9. Another protester at the demonstration
+      demanding Huerta’s release had this to say, with the soundbite reairing on Anderson
+      Cooper 360 , also on June 9: We are part of that immigrant community that has
+      made L.A. great, that has made the state of California the fourth largest economy
+      in the world today. So, we have a message for President Donald Trump. Get the
+      National Guardsmen out of here. Multiple times during the first day studied, Lah
+      held up that union-led protest as a standard of message discipline and nonviolent
+      tactics that those outside the federal building, later in the day, weren’t measuring
+      up to. The folks at the earlier protest were “a very different slice of Los Angeles
+      than what I am seeing” at the federal building, Lah said. The key word there is
+      “seeing,” as she did not interview a single protester on camera. ‘We do very good
+      here with unrest’ Meanwhile, CNN brought on multiple featured guests who framed
+      protesters as violent and law enforcement as the ones pushing for accountability—despite
+      the fact that reported injuries of civilians by law enforcement far outnumbered
+      those of law enforcement by protesters ( FAIR.org , 6/13/25 ). LA District Attorney
+      Nathan Hochman ( OutFront , 6/10/25 ), for example, stated that he would work
+      to “punish” all protesters who engage in “illegal conduct.” Similarly, California
+      Lt. Gov. Eleni Kounalakis ( Source , 6/10/25 ) warned “anyone who goes out and
+      is protesting in a way that is not peaceful…state and local and regional law enforcement
+      will hold people accountable.” Rep. Adam Smith told Jake Tapper ( Lead , 6/10/25
+      ): “I don’t disagree that you should meet any sort of violent protest with law
+      enforcement, but there’s no evidence in this case that the LAPD wasn’t doing that.”
+      Once you parse the double negatives, it’s clear that Smith, like the rest of CNN
+      ‘s official sources, accepted the characterization of protesters as violent and
+      argued that the response of California law enforcement was perfectly appropriate.
+      Most of these state and local government sources were responding to questions
+      about Trump calling in the National Guard and Marines; they were defending the
+      local law enforcement response and challenging Trump’s decision. One of Burnett’s
+      featured guests, for instance, was LA County Sheriff Robert Luna ( OutFront ,
+      6/9/25)—the leader of a police force that community activists say routinely collaborates
+      with federal immigration raids ( Democracy Now! , 6/9/25 ), and had just sparred
+      with demonstrators in the Home Depot parking lot in Compton following the failed
+      ICE raid there ( New York Times , 6/14/25 ). The primary focus of Burnett’s line
+      of questioning was geared at exposing the political nature of Trump’s calling
+      in the national guard: Just a very simple question. Do you need the Marines? Do
+      you need the National Guard right now? Or if you were looking at this situation
+      and assessing it as sheriff of LA County, would you say you do not need them?
+      That’s certainly a critical line of questioning to get at the issue of federal
+      overreach. But Burnett failed to similarly question (or even acknowledge) the
+      violence by local law enforcement—which, by the time of Burnett’s broadcast, included
+      24 attacks on journalists with weapons like pepper balls, rubber bullets and tear
+      gas canisters, according to Reporters Without Borders ( FAIR.org , 6/13/25 ).
+      Instead, she left unchallenged Luna’s claims that “if they’re peacefully protesting,
+      they’ll be allowed to do that,” that his utmost priority was “keeping our community
+      safe,” and that his police force does “very good here with unrest.” In doing so,
+      Burnett framed the story as a question of whether putting down protests against
+      sweeping raids of undocumented workers was the responsibility of federal troops
+      or local law enforcement—rather than questioning why such protests were being
+      met with force, and why local officials weren’t doing more to protect their immigrant
+      communities. Redefining safety Meanwhile, the protesters that received such little
+      consideration from Burnett and CNN could have contributed to a very different
+      definition of safety for CNN ’s viewers. Ron Gochez, a community organizer and
+      social studies teacher, who was one of the protesters at the ICE raid on Ambiance
+      Apparel, described on Democracy Now! ( 6/9/25 ) how the protests have managed
+      to protect people despite the efforts of local and federal officials: When we
+      have these protests, they have been peaceful. But when the repression comes from
+      the state, whether it’s the sheriffs, the LAPD or, on Saturday, for example, in
+      Paramount, California, it was the Border Patrol, it was brutal violence…. But
+      what they didn’t think was going to happen was that the people would resist and
+      would fight back. And that’s exactly what happened in Paramount and in Compton,
+      California, where for eight-and-a-half hours, the people combatted in the streets
+      against the Border Patrol…. They had to retreat because of the fierce resistance
+      of the community. And the hundreds of workers that were in the factories around
+      them were able to escape. They were able to go to their cars and go home. That
+      was only thanks to the resistance that allowed them to go home that night. The
+      Trump administration is intent on testing just how far it can go to crush political
+      dissent, and it’s clear most Democratic politicians and local law enforcement
+      are not going to bat for the most vulnerable communities in its crosshairs. Angelenos
+      know they are fighting for the rights of all of us who reside in the US. But CNN
+      ’s refusal to have them on air to discuss their struggle and explain their tactics
+      makes it all the more difficult to raise public awareness. Pretending to challenge
+      the deployment of federal troops, CNN normalizes police violence and silences
+      those truly protecting their communities. Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Luca Goldmansour Luca
+      GoldMansour graduated from City College of New York with a degree in political
+      science. You can follow him on Instagram at: @luca.saeed and on Twitter at: @cityascanvass.
+      Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: A FAIR study revealed that CNN's primetime coverage of the
+      Los Angeles anti-ICE protests in June largely excluded the protesters' perspectives,
+      focusing instead on government and law enforcement officials, thereby failing
+      to challenge Trump's actions against those advocating for undocumented individuals.
+    paragraph_summary: A study by Fairness and Accuracy In Reporting (FAIR) revealed
+      that CNN's primetime coverage of the anti-ICE protests in Los Angeles in early
+      June 2025 largely excluded the voices of the protesters, focusing instead on government
+      and law enforcement officials. During two key days of coverage, only five out
+      of 85 sources were protesters, and none of the featured guests included community
+      or immigrant advocates. The analysis highlighted that the majority of the commentary
+      came from current or former U.S. government officials, with the network primarily
+      debating the Trump administration's actions rather than amplifying the perspectives
+      of those defending undocumented individuals.
+    published: '2025-07-13T12:42:04+00:00'
+  - title: On CNN, LA’s ICE Protesters Were Seen and Not Heard
+    url: https://scheerpost.com/2025/07/13/on-cnn-las-ice-protesters-were-seen-and-not-heard/
+    text: 'Department of Homeland Security (DHS) Secretary Kristi Noem participates
+      in U.S. Immigration and Customs Enforcement (ICE) Enforcement and Removal Operations
+      (ERO) in Los Angeles, California, June 12, 2025. (DHS photo by Tia Dufour) In
+      one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Luca Goldmansour / Fairness
+      and Accuracy In Reporting (FAIR) A FAIR study found that CNN ’s primetime coverage
+      of the Los Angeles anti-ICE protests in early June rarely included the voices
+      of the protesters themselves. Instead, the network’s sources were overwhelmingly
+      current and former government and law enforcement officials. The resulting coverage
+      rarely took issue with Trump’s desire to silence the people who were defending
+      their undocumented neighbors—but mainly debated his decision to deploy the California
+      National Guard to do so. FAIR recorded the sources that appeared in the 5–10 pm
+      timeslot during two key days, June 9 and 10, of CNN ’s television coverage of
+      the Los Angeles protests; the shows included were the Lead with Jake Tapper ,
+      Erin Burnett OutFront , Anderson Cooper 360 and the Source With Kaitlan Collins
+      . The sources were categorized by current or former occupation, and on whether
+      they were a featured guest—who typically field multiple interview-style questions
+      from an anchor—or simply a soundbite. Sources that made multiple appearances were
+      counted once for each segment they appeared in. ( CNN ’s in-house “analysts” or
+      “commentators” were counted as featured guests to reflect their significant impact
+      on the perspectives shared on the shows.) Out of 85 total sources across the eight
+      broadcasts, only five were protesters, appearing on just three shows. None of
+      the 47 featured guests were protesters or community or immigrant advocates. By
+      far the most frequent sources were current or former US government officials,
+      with 55 appearances—a whopping 65% of total sources. Thirteen additional sources
+      were law enforcement, and five were current or former military. Together, these
+      official sources accounted for 86% of all appearances. (There were also three
+      journalists, two lawyers and two partisan strategists.) Of featured guest and
+      analyst interviews, current or former government officials dominated at 49% (23
+      out of 47). These sources were given the most time to present their perspectives,
+      shaping the narrative around the protests and the government responses. Another
+      11 featured guests were law enforcement and two were military, so official sources
+      accounted for 77% of all such interviews. The three journalists, two lawyers and
+      two partisan strategists made up the remaining featured guests. ‘Verbally at least
+      hostile’ CNN ’s made-for-TV, on-the-ground style of protest coverage in the days
+      following the Ambiance Apparel and Home Depot ICE raids felt little different
+      from when Anderson Cooper stands around in a raincoat during a hurricane. Only
+      this time, CNN reporters were braving an uncontrollable storm of Angelenos. Much
+      like Cooper’s coat, CNN senior investigative correspondent Kyung Lah ( Erin Burnett
+      OutFront , 6/9/25 ) donned protective goggles—useful should she have encountered
+      tear gas, but also undoubtedly a dramatic flourish perfect for one of CNN ’s 30-second
+      TV spots. That CNN was primarily interested in drama rather than helping viewers
+      understand the protests became abundantly clear as—even with her protective goggles—Lah
+      made no apparent effort to interview any protesters as she and CNN anchor Erin
+      Burnett stood in front of LA’s federal detention center, where federal agents,
+      LAPD and the California National Guard were in a standoff with demonstrators.
+      Instead, they kept a close eye on every thrown water bottle, expressing concern
+      about the crowd’s increasingly “young” demographic as the day went on. “This is
+      a much younger crowd, certainly, verbally at least, Erin, hostile,” Lah reported.
+      The only protest voices that CNN ’s audience heard from throughout both days of
+      primetime coverage came in the form of two brief soundbites captured by correspondent
+      Jason Carroll ( Lead , 6/9/25 ) at a protest for the release of arrested SEIU
+      leader David Huerta the morning of June 9. Araceli Martinez, the only protester
+      identified by name, offered a call to action for all Americans, arguing that the
+      Trump administration’s immigration raids are a threat to “the rights of all people,
+      not just the immigrants, but all of us.” That soundbite reaired on Erin Burnett
+      Outfront and Anderson Cooper 360 , both on June 9. Another protester at the demonstration
+      demanding Huerta’s release had this to say, with the soundbite reairing on Anderson
+      Cooper 360 , also on June 9: We are part of that immigrant community that has
+      made L.A. great, that has made the state of California the fourth largest economy
+      in the world today. So, we have a message for President Donald Trump. Get the
+      National Guardsmen out of here. Multiple times during the first day studied, Lah
+      held up that union-led protest as a standard of message discipline and nonviolent
+      tactics that those outside the federal building, later in the day, weren’t measuring
+      up to. The folks at the earlier protest were “a very different slice of Los Angeles
+      than what I am seeing” at the federal building, Lah said. The key word there is
+      “seeing,” as she did not interview a single protester on camera. ‘We do very good
+      here with unrest’ Meanwhile, CNN brought on multiple featured guests who framed
+      protesters as violent and law enforcement as the ones pushing for accountability—despite
+      the fact that reported injuries of civilians by law enforcement far outnumbered
+      those of law enforcement by protesters ( FAIR.org , 6/13/25 ). LA District Attorney
+      Nathan Hochman ( OutFront , 6/10/25 ), for example, stated that he would work
+      to “punish” all protesters who engage in “illegal conduct.” Similarly, California
+      Lt. Gov. Eleni Kounalakis ( Source , 6/10/25 ) warned “anyone who goes out and
+      is protesting in a way that is not peaceful…state and local and regional law enforcement
+      will hold people accountable.” Rep. Adam Smith told Jake Tapper ( Lead , 6/10/25
+      ): “I don’t disagree that you should meet any sort of violent protest with law
+      enforcement, but there’s no evidence in this case that the LAPD wasn’t doing that.”
+      Once you parse the double negatives, it’s clear that Smith, like the rest of CNN
+      ‘s official sources, accepted the characterization of protesters as violent and
+      argued that the response of California law enforcement was perfectly appropriate.
+      Most of these state and local government sources were responding to questions
+      about Trump calling in the National Guard and Marines; they were defending the
+      local law enforcement response and challenging Trump’s decision. One of Burnett’s
+      featured guests, for instance, was LA County Sheriff Robert Luna ( OutFront ,
+      6/9/25)—the leader of a police force that community activists say routinely collaborates
+      with federal immigration raids ( Democracy Now! , 6/9/25 ), and had just sparred
+      with demonstrators in the Home Depot parking lot in Compton following the failed
+      ICE raid there ( New York Times , 6/14/25 ). The primary focus of Burnett’s line
+      of questioning was geared at exposing the political nature of Trump’s calling
+      in the national guard: Just a very simple question. Do you need the Marines? Do
+      you need the National Guard right now? Or if you were looking at this situation
+      and assessing it as sheriff of LA County, would you say you do not need them?
+      That’s certainly a critical line of questioning to get at the issue of federal
+      overreach. But Burnett failed to similarly question (or even acknowledge) the
+      violence by local law enforcement—which, by the time of Burnett’s broadcast, included
+      24 attacks on journalists with weapons like pepper balls, rubber bullets and tear
+      gas canisters, according to Reporters Without Borders ( FAIR.org , 6/13/25 ).
+      Instead, she left unchallenged Luna’s claims that “if they’re peacefully protesting,
+      they’ll be allowed to do that,” that his utmost priority was “keeping our community
+      safe,” and that his police force does “very good here with unrest.” In doing so,
+      Burnett framed the story as a question of whether putting down protests against
+      sweeping raids of undocumented workers was the responsibility of federal troops
+      or local law enforcement—rather than questioning why such protests were being
+      met with force, and why local officials weren’t doing more to protect their immigrant
+      communities. Redefining safety Meanwhile, the protesters that received such little
+      consideration from Burnett and CNN could have contributed to a very different
+      definition of safety for CNN ’s viewers. Ron Gochez, a community organizer and
+      social studies teacher, who was one of the protesters at the ICE raid on Ambiance
+      Apparel, described on Democracy Now! ( 6/9/25 ) how the protests have managed
+      to protect people despite the efforts of local and federal officials: When we
+      have these protests, they have been peaceful. But when the repression comes from
+      the state, whether it’s the sheriffs, the LAPD or, on Saturday, for example, in
+      Paramount, California, it was the Border Patrol, it was brutal violence…. But
+      what they didn’t think was going to happen was that the people would resist and
+      would fight back. And that’s exactly what happened in Paramount and in Compton,
+      California, where for eight-and-a-half hours, the people combatted in the streets
+      against the Border Patrol…. They had to retreat because of the fierce resistance
+      of the community. And the hundreds of workers that were in the factories around
+      them were able to escape. They were able to go to their cars and go home. That
+      was only thanks to the resistance that allowed them to go home that night. The
+      Trump administration is intent on testing just how far it can go to crush political
+      dissent, and it’s clear most Democratic politicians and local law enforcement
+      are not going to bat for the most vulnerable communities in its crosshairs. Angelenos
+      know they are fighting for the rights of all of us who reside in the US. But CNN
+      ’s refusal to have them on air to discuss their struggle and explain their tactics
+      makes it all the more difficult to raise public awareness. Pretending to challenge
+      the deployment of federal troops, CNN normalizes police violence and silences
+      those truly protecting their communities. Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Luca Goldmansour Luca
+      GoldMansour graduated from City College of New York with a degree in political
+      science. You can follow him on Instagram at: @luca.saeed and on Twitter at: @cityascanvass.
+      Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: A FAIR study revealed that CNN's primetime coverage of the
+      Los Angeles anti-ICE protests in June largely excluded the protesters' perspectives,
+      focusing instead on government and law enforcement officials, thereby failing
+      to challenge Trump's actions against those advocating for undocumented individuals.
+    paragraph_summary: A study by Fairness and Accuracy In Reporting (FAIR) revealed
+      that CNN's primetime coverage of the anti-ICE protests in Los Angeles in early
+      June 2025 largely excluded the voices of the protesters, focusing instead on government
+      and law enforcement officials. During two key days of coverage, only five out
+      of 85 sources were protesters, and none of the featured guests included community
+      or immigrant advocates. The analysis highlighted that the majority of the commentary
+      came from current or former U.S. government officials, with the network primarily
+      debating the Trump administration's actions rather than amplifying the perspectives
+      of those defending undocumented individuals.
+    published: '2025-07-13T12:42:04+00:00'
+  - title: 'Chris Hedges: Trump, Epstein and the Deep State'
+    url: https://scheerpost.com/2025/07/13/chris-hedges-trump-epstein-and-the-deep-state/
+    text: 'American Satyricon – by Mr. Fish In one of the scariest moments in modern
+      history, we''re doing our best at ScheerPost to pierce the fog of lies that conceal
+      it but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Chris Hedges / Original to ScheerPost The refusal by the Trump administration
+      to release the files and videos amassed during investigations into the activities
+      of the pedophile Jeffrey Epstein, should put to rest the absurd idea, embraced
+      by Trump supporters and gullible liberals, that Trump will dismantle the Deep
+      State. Trump is part of , and has long been part of, the repugnant cabal of politicians
+      – Democrat and Republican – billionaires and celebrities who look at us, and often
+      underage girls and boys, as commodities to exploit for profit or pleasure. The
+      list of those who were in Epstein’s orbit is a who’s who of the rich and famous.
+      They include not only Trump , but Bill Clinton , who allegedly took a trip to
+      Thailand with Epstein, Prince Andrew , Bill Gates , hedge fund billionaire Glenn
+      Dubin , former New Mexico governor Bill Richardson , former Secretary of the Treasury
+      and former president of Harvard University Larry Summers , cognitive psychologist
+      and author Stephen Pinker , Alan Dershowitz , billionaire and Victoria’s Secret
+      CEO Leslie Wexner , the former Barclays banker Jes Staley , former Israeli prime
+      minister Ehud Barak , the magician David Copperfield , actor Kevin Spacey , former
+      CIA director Bill Burns , real estate mogul Mort Zuckerman , former Maine senator
+      George Mitchell and disgraced Hollywood producer Harvey Weinstein , who reveled
+      in Epstein’s perpetual Bacchanalia . They also include law firms and high-priced
+      attorneys, federal and state prosecutors, private investigators, personal assistants,
+      publicists, servants and drivers. They include the numerous procurers and pimps,
+      including Epstein’s girlfriend and daughter of Robert Maxwell , Ghislaine Maxwell.
+      They include the media and politicians who ruthlessly discredited and silenced
+      the victims, and strong armed anyone, including a handful of intrepid reporters,
+      seeking to expose Epstein’s crimes and circle of accomplices. There is a lot that
+      remains hidden. But there are some things we know. Epstein installed hidden cameras
+      in his opulent residences and on his private Caribbean island, Little St. James,
+      to capture his high-powered friends engaging in sexual romps and abuse of teenage
+      and underage girls and boys. The recordings were blackmail gold. Were they part
+      of an intelligence operation on behalf of the Israeli Mossad ? Or were they used
+      to ensure that Epstein had a steady source of investors who funneled him millions
+      of dollars to avoid being outed? Or were they used for both? He shuttled underage
+      girls between New York and Palm Beach on his private jet the Lolita Express ,
+      which was allegedly outfitted with a bed for group sex. His coterie of famous
+      friends, including Clinton and Trump , are recorded as traveling on the jet numerous
+      times on released flight logs, although many other flight logs have disappeared.
+      Epstein’s videos are in the vaults of the FBI, along with detailed evidence that
+      would rip back the veil on the sexual proclivities and callousness of the powerful.
+      I doubt there is a client list, as Attorney General Pam Bondi claims. There is
+      also no single Epstein file. The investigative material amassed on Epstein fills
+      many, many boxes, which would bury Bondi’s desk and probably, if collected in
+      one room, dominate most of the space in her office. Did Epstein commit suicide,
+      as the official autopsy report claims, by hanging himself in his jail cell on
+      August 10, 2019 at the Metropolitan Correctional Center in New York City? Or was
+      he murdered? Since the cameras recording activity in his cell the night were not
+      functional, we do not know. Michael Baden, a forensic pathologist hired by Epstein’s
+      brother, who served as the chief medical examiner for New York City and who was
+      present at the autopsy, said he believes Epstein’s autopsy suggests homicide .
+      The Epstein case is important because it implodes the fiction of deep divisions
+      between Democrats, who had no more interest in releasing the Epstein files than
+      Trump, and the Republicans. They belong to the same club. It exposes how the courts
+      and law enforcement agencies collude to shield powerful figures who engage in
+      crimes. It lays bare the depravity of our exhibitionist ruling class, accountable
+      to no one, free to violate, plunder, loot and prey on the weak and the vulnerable.
+      It is the tawdry record of our oligarchic masters, those who lack the capacity
+      for shame or guilt, whether dressed up as Donald Trump or Joe Biden. This class
+      of ruling parasites was parodied in the first-century satirical novel “ Satyricon
+      ” by Gaius Petronius Arbiter , written during the reigns of Caligula, Claudius,
+      and Nero. As in Satyricon, Epstein’s circle was dominated by pseudointellectuals,
+      pretentious buffoons, grifters, con artists, petty criminals, the insatiable rich
+      and the sexually depraved. Epstein and his inner circle routinely engaged in sexual
+      perversions of Petronian proportions, as The Miami Herald investigative reporter
+      Julie Brown, whose dogged reporting was largely responsible for reopening the
+      federal investigation in Epstein and Maxwell, documents in her book “ Perversion
+      of Justice: The Jeffrey Epstein Story .” As Brown writes, in 2016 an anonymous
+      woman, using the pseudonym “Kate Johnson,” filed a civil complaint in a federal
+      court in California alleging she was raped by Trump and Epstein when she was thirteen,
+      over a four-month period, from June to September 1994. “I loudly pleaded with
+      Trump to stop,” she said in the lawsuit about being raped. “Trump responded to
+      my pleas by violently striking me in the face with his open hand and screaming
+      that he could do whatever he wanted.” Brown continues: Johnson said that Epstein
+      invited her to a series of ‘underage sex parties’ at his New York mansion where
+      she met Trump. Enticed by promises of money and modeling opportunities, Johnson
+      said she was forced to have sex with Trump several times, including once with
+      another girl, twelve years old, whom she labeled ‘Marie Doe.’ Trump demanded oral
+      sex, the lawsuit said, and afterward he “pushed both minors away while angrily
+      berating them for the ‘poor’ quality of the sexual performance,” according to
+      the lawsuit, filed April 26 in U.S. District Court in Central California. Afterward,
+      when Epstein learned that Trump had taken Johnson’s virginity, Epstein allegedly
+      ‘attempted to strike her about the head with his closed fists,’ angry he had not
+      been the one to take her virginity. Johnson claimed that both men threatened to
+      harm her, and her family if she ever revealed what had happened. The lawsuit states
+      that Trump did not take part in Epstein’s orgies but liked to watch, often while
+      the thirteen-year-old “Kate Johnson” gave him a hand job. It appears Trump was
+      able to quash the lawsuit by buying her silence. She has since disappeared. In
+      2008, Alex Acosta, who at the time was the U.S. Attorney for the Southern District
+      of Florida, negotiated a plea deal for Epstein. The deal granted immunity from
+      all federal criminal charges to Epstein, four named co-conspirators and any unnamed
+      “potential co-conspirators.” The agreement shut down the FBI probe into whether
+      there were more victims and other powerful figures who took part in Epstein’s
+      sex crimes. It halted the investigation and sealed the indictment. Trump, in what
+      many consider an act of gratitude, appointed Acosta as Secretary of Labor in his
+      first term. Trump contemplated pardoning Ghislaine Maxwell after she was arrested
+      in July 2020, fearing she would reveal details of his decades-long friendship
+      with Epstein, according to Trump biographer Michael Wolff. In July 2022, Maxwell
+      was sentenced to 20 years in prison. “Jeffrey Epstein’s closest relationship in
+      life was with Donald Trump…these were two guys joined at the hip for a good 15
+      years. They did everything together,” Wolff told host Joanna Coles on The Daily
+      Beast Podcast. “And this is from sharing, pursuing women, hunting women, sharing
+      at least one girlfriend for at least a year in this kind of rich-guy relationship
+      with each other’s planes, to Epstein advising Trump on how to cheat on his taxes.”
+      The legal anomalies, including the disappearance of massive amounts of evidence
+      incriminating Epstein, saw Epstein avoid federal sex-trafficking charges in 2007,
+      when his attorneys negotiated the secret plea deal with Acosta. He was able to
+      plead guilty to lesser state charges of soliciting a minor for prostitution. The
+      prominent men accused of engaging in Epstein’s carnival of pedophilia, including
+      Epstein’s attorney Dershowitz, viciously threaten anyone who seeks to expose them.
+      Dershowitz, for example, claims that an investigation which he has refused to
+      make public, by the former FBI director Louis Freeh, proves he had never had sex
+      with Epstein’s victim Virginia Giuffre, who was trafficked at 17 to Prince Andrew.
+      Giuffre, one of the few victims to publicly take on her abusers, said she was
+      “passed around like a platter of fruit” among Epstein and Maxwell’s friends, until
+      at the age of 19 when she escaped. She “ committed suicide ” in April 2025. Dershowitz
+      has sent repeated threats to Brown and her editors at The Miami Herald. Brown
+      continues: [Dershowitz] kept referring to information that was contained in sealed
+      documents. He accused the newspaper of not reporting “facts” that he said were
+      in those sealed documents. The truth is, I tried to explain, newspapers just can’t
+      write about things because Alan Dershowitz says they exist. We need to see them.
+      We need to verify them. Then, because I said “show me the material,” he publicly
+      accused me of committing a criminal act by asking him to produce documents that
+      were under court seal. This is the way Dershowitz operates. What disturbs me the
+      most about Dershowitz is the way that the media, with few exceptions, fails to
+      critically challenge him. Journalists fact-checked Donald Trump and others in
+      his administration almost every day, yet, for the most part, the media seems to
+      give Dershowitz a pass on the Epstein story. In 2015, when Giuffre’s allegations
+      first became public, Dershowitz went on every television program imaginable swearing,
+      among other things, that Epstein’s plane logs would exonerate him. “How do you
+      know that?” he was asked. He replied that he was never on Epstein’s plane during
+      the time that Virginia was involved with Epstein. But if the media had checked,
+      they could have learned that he was indeed a passenger on the plane during that
+      time period, according to the logs. Then he testified, in a sworn deposition,
+      that he never went on any plane trips without his wife. But he was listed on those
+      passage manifests as traveling multiple times without his wife. During at least
+      one trip, he was on the plane with a model named Tatiana. Epstein donated money
+      to Harvard and was made a visiting fellow in Harvard’s Department of Psychology,
+      although he had no academic qualifications in the field. He was given a key card
+      and pass code, as well as an office in the building that housed Harvard’s Program
+      for Evolutionary Dynamics. He referred to himself in his press releases as “Science
+      Philanthropist Jeffrey Epstein,” “Education activist Jeffrey Epstein,” “Evolutionary
+      Jeffrey Epstein,” “Science patron Jeffrey Epstein” and “Maverick hedge funder
+      Jeffrey Epstein.” Epstein, replicating the pretensions and vacuity of the characters
+      who were parodied in the “Dinner with Trimalchio” chapter of Satyricon, organized
+      elaborate dinner gatherings for his billionaire friends, including Elon Musk,
+      Salar Kamangar and Jeff Bezos. He dreamed up bizarre schemes of social engineering,
+      including a plan to seed the human species with his own DNA by creating a baby
+      compound at his sprawling ranch in New Mexico. “Epstein was also obsessed with
+      cryonics, the transhumanist philosophy whose followers believe that people can
+      be replicated or brought back to life after they are frozen,” Brown writes. “Epstein
+      apparently told some of the members of his scientific circle that he wanted to
+      inseminate women with his sperm for them to give birth to his babies, and that
+      he wanted his head and his penis frozen .” The Epstein story is a window into
+      the moral bankruptcy, hedonism and greed of the ruling class. This crosses political
+      lines. It is the common denominator between Democratic politicians, such as Bill
+      Clinton, philanthropists, such as Bill Gates, the billionaire class, and Trump.
+      They are one class of predators and grifters. It is not only girls and women they
+      exploit, but all of us. NOTE TO SCHEERPOST READERS FROM CHRIS HEDGES: There is
+      now no way left for me to continue to write a weekly column for ScheerPost and
+      produce my weekly television show without your help. The walls are closing in,
+      with startling rapidity, on independent journalism , with the elites, including
+      the Democratic Party elites, clamoring for more and more censorship. Bob Scheer,
+      who runs ScheerPost on a shoestring budget, and I will not waver in our commitment
+      to independent and honest journalism, and we will never put ScheerPost behind
+      a paywall, charge a subscription for it, sell your data or accept advertising.
+      Please, if you can, sign up at chrishedges.substack.com so I can continue to post
+      my now weekly Monday column on ScheerPost and produce my weekly television show,
+      The Chris Hedges Report. Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Chris Hedges Chris Hedges is a Pulitzer Prize–winning
+      journalist who was a foreign correspondent for fifteen years for The New York
+      Times, where he served as the Middle East Bureau Chief and Balkan Bureau Chief
+      for the paper. He previously worked overseas for The Dallas Morning News , The
+      Christian Science Monitor , and NPR. He is the host of show The Chris Hedges Report.
+      He was a member of the team that won the 2002 Pulitzer Prize for Explanatory Reporting
+      for The New York Times coverage of global terrorism, and he received the 2002
+      Amnesty International Global Award for Human Rights Journalism. Hedges, who holds
+      a Master of Divinity from Harvard Divinity School, is the author of the bestsellers
+      American Fascists: The Christian Right and the War on America , Empire of Illusion:
+      The End of Literacy and the Triumph of Spectacle and was a National Book Critics
+      Circle finalist for his book War Is a Force That Gives Us Meaning . He writes
+      an online column for the website ScheerPost . He has taught at Columbia University,
+      New York University, Princeton University and the University of Toronto. Author
+      Site Please share this story and help us grow our network! ScheerPost.com is licensed
+      under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+      license. CC-BY-NC-ND only applies to ORIGINAL ScheerPost content.'
+    one_sentence_summary: Chris Hedges argues that the Trump administration's refusal
+      to release files related to Jeffrey Epstein reveals Trump's complicity in a corrupt
+      elite network that exploits vulnerable individuals, challenging the notion that
+      he would dismantle the so-called Deep State.
+    paragraph_summary: In his article "American Satyricon," Chris Hedges critiques the
+      Trump administration's refusal to release files related to Jeffrey Epstein's activities,
+      arguing that this refusal undermines the notion that Trump is an adversary of
+      the so-called Deep State. Hedges contends that Trump is intertwined with a network
+      of powerful figures—including politicians, billionaires, and celebrities—who exploit
+      vulnerable individuals, particularly minors, for their own gain. He highlights
+      the extensive connections of Epstein, listing numerous prominent individuals from
+      various sectors, including Bill Clinton, Prince Andrew, and celebrities like Kevin
+      Spacey, who have been linked to Epstein's illicit activities. Hedges calls attention
+      to the pervasive culture of exploitation and complicity among the elite, suggesting
+      that the systemic issues surrounding Epstein's case reflect a broader moral decay
+      in society.
+    published: '2025-07-13T12:38:47+00:00'
+  - title: 'Chris Hedges: Trump, Epstein and the Deep State'
+    url: https://scheerpost.com/2025/07/13/chris-hedges-trump-epstein-and-the-deep-state/
+    text: 'American Satyricon – by Mr. Fish In one of the scariest moments in modern
+      history, we''re doing our best at ScheerPost to pierce the fog of lies that conceal
+      it but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Chris Hedges / Original to ScheerPost The refusal by the Trump administration
+      to release the files and videos amassed during investigations into the activities
+      of the pedophile Jeffrey Epstein, should put to rest the absurd idea, embraced
+      by Trump supporters and gullible liberals, that Trump will dismantle the Deep
+      State. Trump is part of , and has long been part of, the repugnant cabal of politicians
+      – Democrat and Republican – billionaires and celebrities who look at us, and often
+      underage girls and boys, as commodities to exploit for profit or pleasure. The
+      list of those who were in Epstein’s orbit is a who’s who of the rich and famous.
+      They include not only Trump , but Bill Clinton , who allegedly took a trip to
+      Thailand with Epstein, Prince Andrew , Bill Gates , hedge fund billionaire Glenn
+      Dubin , former New Mexico governor Bill Richardson , former Secretary of the Treasury
+      and former president of Harvard University Larry Summers , cognitive psychologist
+      and author Stephen Pinker , Alan Dershowitz , billionaire and Victoria’s Secret
+      CEO Leslie Wexner , the former Barclays banker Jes Staley , former Israeli prime
+      minister Ehud Barak , the magician David Copperfield , actor Kevin Spacey , former
+      CIA director Bill Burns , real estate mogul Mort Zuckerman , former Maine senator
+      George Mitchell and disgraced Hollywood producer Harvey Weinstein , who reveled
+      in Epstein’s perpetual Bacchanalia . They also include law firms and high-priced
+      attorneys, federal and state prosecutors, private investigators, personal assistants,
+      publicists, servants and drivers. They include the numerous procurers and pimps,
+      including Epstein’s girlfriend and daughter of Robert Maxwell , Ghislaine Maxwell.
+      They include the media and politicians who ruthlessly discredited and silenced
+      the victims, and strong armed anyone, including a handful of intrepid reporters,
+      seeking to expose Epstein’s crimes and circle of accomplices. There is a lot that
+      remains hidden. But there are some things we know. Epstein installed hidden cameras
+      in his opulent residences and on his private Caribbean island, Little St. James,
+      to capture his high-powered friends engaging in sexual romps and abuse of teenage
+      and underage girls and boys. The recordings were blackmail gold. Were they part
+      of an intelligence operation on behalf of the Israeli Mossad ? Or were they used
+      to ensure that Epstein had a steady source of investors who funneled him millions
+      of dollars to avoid being outed? Or were they used for both? He shuttled underage
+      girls between New York and Palm Beach on his private jet the Lolita Express ,
+      which was allegedly outfitted with a bed for group sex. His coterie of famous
+      friends, including Clinton and Trump , are recorded as traveling on the jet numerous
+      times on released flight logs, although many other flight logs have disappeared.
+      Epstein’s videos are in the vaults of the FBI, along with detailed evidence that
+      would rip back the veil on the sexual proclivities and callousness of the powerful.
+      I doubt there is a client list, as Attorney General Pam Bondi claims. There is
+      also no single Epstein file. The investigative material amassed on Epstein fills
+      many, many boxes, which would bury Bondi’s desk and probably, if collected in
+      one room, dominate most of the space in her office. Did Epstein commit suicide,
+      as the official autopsy report claims, by hanging himself in his jail cell on
+      August 10, 2019 at the Metropolitan Correctional Center in New York City? Or was
+      he murdered? Since the cameras recording activity in his cell the night were not
+      functional, we do not know. Michael Baden, a forensic pathologist hired by Epstein’s
+      brother, who served as the chief medical examiner for New York City and who was
+      present at the autopsy, said he believes Epstein’s autopsy suggests homicide .
+      The Epstein case is important because it implodes the fiction of deep divisions
+      between Democrats, who had no more interest in releasing the Epstein files than
+      Trump, and the Republicans. They belong to the same club. It exposes how the courts
+      and law enforcement agencies collude to shield powerful figures who engage in
+      crimes. It lays bare the depravity of our exhibitionist ruling class, accountable
+      to no one, free to violate, plunder, loot and prey on the weak and the vulnerable.
+      It is the tawdry record of our oligarchic masters, those who lack the capacity
+      for shame or guilt, whether dressed up as Donald Trump or Joe Biden. This class
+      of ruling parasites was parodied in the first-century satirical novel “ Satyricon
+      ” by Gaius Petronius Arbiter , written during the reigns of Caligula, Claudius,
+      and Nero. As in Satyricon, Epstein’s circle was dominated by pseudointellectuals,
+      pretentious buffoons, grifters, con artists, petty criminals, the insatiable rich
+      and the sexually depraved. Epstein and his inner circle routinely engaged in sexual
+      perversions of Petronian proportions, as The Miami Herald investigative reporter
+      Julie Brown, whose dogged reporting was largely responsible for reopening the
+      federal investigation in Epstein and Maxwell, documents in her book “ Perversion
+      of Justice: The Jeffrey Epstein Story .” As Brown writes, in 2016 an anonymous
+      woman, using the pseudonym “Kate Johnson,” filed a civil complaint in a federal
+      court in California alleging she was raped by Trump and Epstein when she was thirteen,
+      over a four-month period, from June to September 1994. “I loudly pleaded with
+      Trump to stop,” she said in the lawsuit about being raped. “Trump responded to
+      my pleas by violently striking me in the face with his open hand and screaming
+      that he could do whatever he wanted.” Brown continues: Johnson said that Epstein
+      invited her to a series of ‘underage sex parties’ at his New York mansion where
+      she met Trump. Enticed by promises of money and modeling opportunities, Johnson
+      said she was forced to have sex with Trump several times, including once with
+      another girl, twelve years old, whom she labeled ‘Marie Doe.’ Trump demanded oral
+      sex, the lawsuit said, and afterward he “pushed both minors away while angrily
+      berating them for the ‘poor’ quality of the sexual performance,” according to
+      the lawsuit, filed April 26 in U.S. District Court in Central California. Afterward,
+      when Epstein learned that Trump had taken Johnson’s virginity, Epstein allegedly
+      ‘attempted to strike her about the head with his closed fists,’ angry he had not
+      been the one to take her virginity. Johnson claimed that both men threatened to
+      harm her, and her family if she ever revealed what had happened. The lawsuit states
+      that Trump did not take part in Epstein’s orgies but liked to watch, often while
+      the thirteen-year-old “Kate Johnson” gave him a hand job. It appears Trump was
+      able to quash the lawsuit by buying her silence. She has since disappeared. In
+      2008, Alex Acosta, who at the time was the U.S. Attorney for the Southern District
+      of Florida, negotiated a plea deal for Epstein. The deal granted immunity from
+      all federal criminal charges to Epstein, four named co-conspirators and any unnamed
+      “potential co-conspirators.” The agreement shut down the FBI probe into whether
+      there were more victims and other powerful figures who took part in Epstein’s
+      sex crimes. It halted the investigation and sealed the indictment. Trump, in what
+      many consider an act of gratitude, appointed Acosta as Secretary of Labor in his
+      first term. Trump contemplated pardoning Ghislaine Maxwell after she was arrested
+      in July 2020, fearing she would reveal details of his decades-long friendship
+      with Epstein, according to Trump biographer Michael Wolff. In July 2022, Maxwell
+      was sentenced to 20 years in prison. “Jeffrey Epstein’s closest relationship in
+      life was with Donald Trump…these were two guys joined at the hip for a good 15
+      years. They did everything together,” Wolff told host Joanna Coles on The Daily
+      Beast Podcast. “And this is from sharing, pursuing women, hunting women, sharing
+      at least one girlfriend for at least a year in this kind of rich-guy relationship
+      with each other’s planes, to Epstein advising Trump on how to cheat on his taxes.”
+      The legal anomalies, including the disappearance of massive amounts of evidence
+      incriminating Epstein, saw Epstein avoid federal sex-trafficking charges in 2007,
+      when his attorneys negotiated the secret plea deal with Acosta. He was able to
+      plead guilty to lesser state charges of soliciting a minor for prostitution. The
+      prominent men accused of engaging in Epstein’s carnival of pedophilia, including
+      Epstein’s attorney Dershowitz, viciously threaten anyone who seeks to expose them.
+      Dershowitz, for example, claims that an investigation which he has refused to
+      make public, by the former FBI director Louis Freeh, proves he had never had sex
+      with Epstein’s victim Virginia Giuffre, who was trafficked at 17 to Prince Andrew.
+      Giuffre, one of the few victims to publicly take on her abusers, said she was
+      “passed around like a platter of fruit” among Epstein and Maxwell’s friends, until
+      at the age of 19 when she escaped. She “ committed suicide ” in April 2025. Dershowitz
+      has sent repeated threats to Brown and her editors at The Miami Herald. Brown
+      continues: [Dershowitz] kept referring to information that was contained in sealed
+      documents. He accused the newspaper of not reporting “facts” that he said were
+      in those sealed documents. The truth is, I tried to explain, newspapers just can’t
+      write about things because Alan Dershowitz says they exist. We need to see them.
+      We need to verify them. Then, because I said “show me the material,” he publicly
+      accused me of committing a criminal act by asking him to produce documents that
+      were under court seal. This is the way Dershowitz operates. What disturbs me the
+      most about Dershowitz is the way that the media, with few exceptions, fails to
+      critically challenge him. Journalists fact-checked Donald Trump and others in
+      his administration almost every day, yet, for the most part, the media seems to
+      give Dershowitz a pass on the Epstein story. In 2015, when Giuffre’s allegations
+      first became public, Dershowitz went on every television program imaginable swearing,
+      among other things, that Epstein’s plane logs would exonerate him. “How do you
+      know that?” he was asked. He replied that he was never on Epstein’s plane during
+      the time that Virginia was involved with Epstein. But if the media had checked,
+      they could have learned that he was indeed a passenger on the plane during that
+      time period, according to the logs. Then he testified, in a sworn deposition,
+      that he never went on any plane trips without his wife. But he was listed on those
+      passage manifests as traveling multiple times without his wife. During at least
+      one trip, he was on the plane with a model named Tatiana. Epstein donated money
+      to Harvard and was made a visiting fellow in Harvard’s Department of Psychology,
+      although he had no academic qualifications in the field. He was given a key card
+      and pass code, as well as an office in the building that housed Harvard’s Program
+      for Evolutionary Dynamics. He referred to himself in his press releases as “Science
+      Philanthropist Jeffrey Epstein,” “Education activist Jeffrey Epstein,” “Evolutionary
+      Jeffrey Epstein,” “Science patron Jeffrey Epstein” and “Maverick hedge funder
+      Jeffrey Epstein.” Epstein, replicating the pretensions and vacuity of the characters
+      who were parodied in the “Dinner with Trimalchio” chapter of Satyricon, organized
+      elaborate dinner gatherings for his billionaire friends, including Elon Musk,
+      Salar Kamangar and Jeff Bezos. He dreamed up bizarre schemes of social engineering,
+      including a plan to seed the human species with his own DNA by creating a baby
+      compound at his sprawling ranch in New Mexico. “Epstein was also obsessed with
+      cryonics, the transhumanist philosophy whose followers believe that people can
+      be replicated or brought back to life after they are frozen,” Brown writes. “Epstein
+      apparently told some of the members of his scientific circle that he wanted to
+      inseminate women with his sperm for them to give birth to his babies, and that
+      he wanted his head and his penis frozen .” The Epstein story is a window into
+      the moral bankruptcy, hedonism and greed of the ruling class. This crosses political
+      lines. It is the common denominator between Democratic politicians, such as Bill
+      Clinton, philanthropists, such as Bill Gates, the billionaire class, and Trump.
+      They are one class of predators and grifters. It is not only girls and women they
+      exploit, but all of us. NOTE TO SCHEERPOST READERS FROM CHRIS HEDGES: There is
+      now no way left for me to continue to write a weekly column for ScheerPost and
+      produce my weekly television show without your help. The walls are closing in,
+      with startling rapidity, on independent journalism , with the elites, including
+      the Democratic Party elites, clamoring for more and more censorship. Bob Scheer,
+      who runs ScheerPost on a shoestring budget, and I will not waver in our commitment
+      to independent and honest journalism, and we will never put ScheerPost behind
+      a paywall, charge a subscription for it, sell your data or accept advertising.
+      Please, if you can, sign up at chrishedges.substack.com so I can continue to post
+      my now weekly Monday column on ScheerPost and produce my weekly television show,
+      The Chris Hedges Report. Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Chris Hedges Chris Hedges is a Pulitzer Prize–winning
+      journalist who was a foreign correspondent for fifteen years for The New York
+      Times, where he served as the Middle East Bureau Chief and Balkan Bureau Chief
+      for the paper. He previously worked overseas for The Dallas Morning News , The
+      Christian Science Monitor , and NPR. He is the host of show The Chris Hedges Report.
+      He was a member of the team that won the 2002 Pulitzer Prize for Explanatory Reporting
+      for The New York Times coverage of global terrorism, and he received the 2002
+      Amnesty International Global Award for Human Rights Journalism. Hedges, who holds
+      a Master of Divinity from Harvard Divinity School, is the author of the bestsellers
+      American Fascists: The Christian Right and the War on America , Empire of Illusion:
+      The End of Literacy and the Triumph of Spectacle and was a National Book Critics
+      Circle finalist for his book War Is a Force That Gives Us Meaning . He writes
+      an online column for the website ScheerPost . He has taught at Columbia University,
+      New York University, Princeton University and the University of Toronto. Author
+      Site Please share this story and help us grow our network! ScheerPost.com is licensed
+      under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+      license. CC-BY-NC-ND only applies to ORIGINAL ScheerPost content.'
+    one_sentence_summary: Chris Hedges argues that the Trump administration's refusal
+      to release files related to Jeffrey Epstein reveals Trump's complicity in a corrupt
+      elite network that exploits vulnerable individuals, challenging the notion that
+      he would dismantle the so-called Deep State.
+    paragraph_summary: In his article "American Satyricon," Chris Hedges critiques the
+      Trump administration's refusal to release files related to Jeffrey Epstein's activities,
+      arguing that this refusal undermines the notion that Trump is an adversary of
+      the so-called Deep State. Hedges contends that Trump is intertwined with a network
+      of powerful figures—including politicians, billionaires, and celebrities—who exploit
+      vulnerable individuals, particularly minors, for their own gain. He highlights
+      the extensive connections of Epstein, listing numerous prominent individuals from
+      various sectors, including Bill Clinton, Prince Andrew, and celebrities like Kevin
+      Spacey, who have been linked to Epstein's illicit activities. Hedges calls attention
+      to the pervasive culture of exploitation and complicity among the elite, suggesting
+      that the systemic issues surrounding Epstein's case reflect a broader moral decay
+      in society.
+    published: '2025-07-13T12:38:47+00:00'
+  - title: '‘Unforgivable’: FEMA Missed Thousands of Calls from Texas Flood Victims
+      After Noem Fired Contractors'
+    url: https://scheerpost.com/2025/07/13/unforgivable-fema-missed-thousands-of-calls-from-texas-flood-victims-after-noem-fired-contractors/
+    text: 'Department of Homeland Security (DHS) Secretary Kristi Noem visits the U.S.
+      Immigration and Customs Enforcement (ICE) Processing Center at 26 Federal Plaza
+      in New York City, New York, July 10, 2025. (DHS photo by Tia Dufour) In one of
+      the scariest moments in modern history, we''re doing our best at ScheerPost to
+      pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Stephen Prager / Common
+      Dreams Outrage continues to grow against U.S. Secretary of Homeland Security Kristi
+      Noem over her response to the deadly floods that ravaged Texas last week. According
+      to a Friday report from The New York Times , more than two-thirds of phone calls
+      to the Federal Emergency Management Agency (FEMA) from flood victims went unanswered
+      after Noem allowed hundreds of contractors to be laid off on July 5, just a day
+      after the nightmare storm. According to The Times , this dramatically hampered
+      the ability of the agency to respond to calls from survivors in the following
+      days: On July 5, as floodwaters were starting to recede, FEMA received 3,027 calls
+      from disaster survivors and answered 3,018, or roughly 99.7 percent, the documents
+      show. Contractors with four call center companies answered the vast majority of
+      the calls. That evening, however, Noem did not renew the contracts with the four
+      companies, and hundreds of contractors were fired, according to the documents
+      and the person briefed on the matter. The next day, July 6, FEMA received 2,363
+      calls and answered 846, or roughly 35.8 percent, according to the documents. And
+      on Monday, July 7, the agency fielded 16,419 calls and answered 2,613, or around
+      15.9 percent, the documents show. Calling is one of the primary ways that flood
+      victims apply for aid from the disaster relief agency. But Noem would wait until
+      July 10—five days later—to renew the contracts of the people who took those phone
+      calls. “Responding to less than half of the inquiries is pretty horrific,” Jeffrey
+      Schlegelmilch, director of the National Center for Disaster Preparedness at Columbia
+      University, told The Times . “Put yourself in the shoes of a survivor: You’ve
+      lost everything, you’re trying to find out what’s insured and what’s not, and
+      you’re navigating multiple aid programs,” he added. “One of the most important
+      services in disaster recovery is being able to call someone and walk through these
+      processes and paperwork.” The lapse is a direct result of a policy introduced
+      by Noem last month, which required any payments made by FEMA above $100,000 to
+      be directly approved by her before taking effect. Noem, who has said she wants
+      to eliminate FEMA entirely, described it as a way of limiting “waste, fraud, and
+      abuse.” Under this policy, Noem allowed other critical parts of the flood response
+      to wait for days as well. Earlier this week, multiple officials within FEMA told
+      CNN that she waited more than 72 hours to authorize the deployment of search and
+      rescue teams and aerial imaging. Following The Times’ piece, DHS put out a statement
+      claiming that “NO ONE was left without assistance, and every call was responded
+      to urgently.” “When a natural disaster strikes, phone calls surge, and wait times
+      can subsequently increase,” DHS said. “Despite this expected influx, FEMA’s disaster
+      call center responded to every caller swiftly and efficiently, ensuring no one
+      was left without assistance. No call center operators were laid off or fired.”
+      This is undercut, however, by internal emails also obtained by The Times, which
+      showed FEMA officials becoming frustrated and blaming the DHS Secretary for the
+      lack of contracts. One official wrote in a July 8 email to colleagues: “We still
+      do not have a decision, waiver, or signature from the DHS Secretary.” Democratic
+      lawmakers were already calling for investigations into Noem’s response to the
+      floods before Friday. They also sought to look into how the Trump administration’s
+      mass firings of FEMA employees, as well as employees of the National Weather Service
+      (NWS) and the National Oceanic and Atmospheric Administration (NOAA) may have
+      hampered the response. Following The Times’ revelations, outrage has reached a
+      greater fever pitch. Sen. Richard Blumenthal (D-Conn.) called it “unforgivable
+      and unforgettable” and an “inexcusable lapse in top leadership.” “Sec. Noem shows
+      that dismantling FEMA impacts real people in real time,” he said. “It hurts countless
+      survivors & increases recovery costs.” In response to the news, Sen. Elizabeth
+      Warren (D-Mass.) simply wrote that “Kristi Noem must resign now.” Kristi Noem
+      must resign now. pic.twitter.com/MxLtAtdob1 — Elizabeth Warren (@SenWarren) July
+      12, 2025 Others pointed out that Noem has often sought to justify abolishing FEMA
+      by characterizing it as slow and ineffectual. They suggested her dithering response
+      was deliberate. “She broke it on purpose,” said Rep. Jared Moskowitz (D-Fla.)
+      in an interview on MSNBC. “So that when it fails this summer, she can say, ‘Oh,
+      see, we told you—FEMA doesn’t work.''” Moskowitz: "Kristi Noem doesn''t know what
+      she is doing. She has no idea what she is doing when it comes to FEMA … what she
+      did is she broke it, and she broke it on purpose so that when it fails this summer,
+      she can say, ''Oh, see, we told you — FEMA doesn''t work.''" pic.twitter.com/nHN8Dhv41z
+      — Aaron Rupar (@atrupar) July 11, 2025 “It’s not really incompetence because they
+      know what they are doing,” said Sen. Chris Murphy (D-Conn.). “They are intentionally
+      breaking government—even the parts that help us when we are deep in crisis.” Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Stephen Prager
+      Stephen Prager is a staff writer for Common Dreams. Author Site Please share this
+      story and help us grow our network!'
+    one_sentence_summary: Outrage is mounting against DHS Secretary Kristi Noem for
+      her handling of the Texas floods, as reports reveal that her decision to lay off
+      contractors led to over two-thirds of FEMA calls from victims going unanswered.
+    paragraph_summary: Outrage is mounting against U.S. Secretary of Homeland Security
+      Kristi Noem following her handling of the aftermath of deadly floods in Texas,
+      where a significant number of calls from flood victims to FEMA went unanswered.
+      A report from The New York Times revealed that after Noem allowed the layoffs
+      of hundreds of contractors on July 5, the agency's ability to respond to disaster
+      survivors was severely compromised. While FEMA had answered nearly all calls from
+      victims on July 5, the situation deteriorated drastically in the following days,
+      with only 35.8% and 15.9% of calls answered on July 6 and July 7, respectively.
+      It wasn't until July 10 that Noem renewed the contracts for the call center staff,
+      leading to criticism over the delayed response during a critical time for those
+      seeking aid.
+    published: '2025-07-13T12:35:07+00:00'
+  - title: '‘Unforgivable’: FEMA Missed Thousands of Calls from Texas Flood Victims
+      After Noem Fired Contractors'
+    url: https://scheerpost.com/2025/07/13/unforgivable-fema-missed-thousands-of-calls-from-texas-flood-victims-after-noem-fired-contractors/
+    text: 'Department of Homeland Security (DHS) Secretary Kristi Noem visits the U.S.
+      Immigration and Customs Enforcement (ICE) Processing Center at 26 Federal Plaza
+      in New York City, New York, July 10, 2025. (DHS photo by Tia Dufour) In one of
+      the scariest moments in modern history, we''re doing our best at ScheerPost to
+      pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Stephen Prager / Common
+      Dreams Outrage continues to grow against U.S. Secretary of Homeland Security Kristi
+      Noem over her response to the deadly floods that ravaged Texas last week. According
+      to a Friday report from The New York Times , more than two-thirds of phone calls
+      to the Federal Emergency Management Agency (FEMA) from flood victims went unanswered
+      after Noem allowed hundreds of contractors to be laid off on July 5, just a day
+      after the nightmare storm. According to The Times , this dramatically hampered
+      the ability of the agency to respond to calls from survivors in the following
+      days: On July 5, as floodwaters were starting to recede, FEMA received 3,027 calls
+      from disaster survivors and answered 3,018, or roughly 99.7 percent, the documents
+      show. Contractors with four call center companies answered the vast majority of
+      the calls. That evening, however, Noem did not renew the contracts with the four
+      companies, and hundreds of contractors were fired, according to the documents
+      and the person briefed on the matter. The next day, July 6, FEMA received 2,363
+      calls and answered 846, or roughly 35.8 percent, according to the documents. And
+      on Monday, July 7, the agency fielded 16,419 calls and answered 2,613, or around
+      15.9 percent, the documents show. Calling is one of the primary ways that flood
+      victims apply for aid from the disaster relief agency. But Noem would wait until
+      July 10—five days later—to renew the contracts of the people who took those phone
+      calls. “Responding to less than half of the inquiries is pretty horrific,” Jeffrey
+      Schlegelmilch, director of the National Center for Disaster Preparedness at Columbia
+      University, told The Times . “Put yourself in the shoes of a survivor: You’ve
+      lost everything, you’re trying to find out what’s insured and what’s not, and
+      you’re navigating multiple aid programs,” he added. “One of the most important
+      services in disaster recovery is being able to call someone and walk through these
+      processes and paperwork.” The lapse is a direct result of a policy introduced
+      by Noem last month, which required any payments made by FEMA above $100,000 to
+      be directly approved by her before taking effect. Noem, who has said she wants
+      to eliminate FEMA entirely, described it as a way of limiting “waste, fraud, and
+      abuse.” Under this policy, Noem allowed other critical parts of the flood response
+      to wait for days as well. Earlier this week, multiple officials within FEMA told
+      CNN that she waited more than 72 hours to authorize the deployment of search and
+      rescue teams and aerial imaging. Following The Times’ piece, DHS put out a statement
+      claiming that “NO ONE was left without assistance, and every call was responded
+      to urgently.” “When a natural disaster strikes, phone calls surge, and wait times
+      can subsequently increase,” DHS said. “Despite this expected influx, FEMA’s disaster
+      call center responded to every caller swiftly and efficiently, ensuring no one
+      was left without assistance. No call center operators were laid off or fired.”
+      This is undercut, however, by internal emails also obtained by The Times, which
+      showed FEMA officials becoming frustrated and blaming the DHS Secretary for the
+      lack of contracts. One official wrote in a July 8 email to colleagues: “We still
+      do not have a decision, waiver, or signature from the DHS Secretary.” Democratic
+      lawmakers were already calling for investigations into Noem’s response to the
+      floods before Friday. They also sought to look into how the Trump administration’s
+      mass firings of FEMA employees, as well as employees of the National Weather Service
+      (NWS) and the National Oceanic and Atmospheric Administration (NOAA) may have
+      hampered the response. Following The Times’ revelations, outrage has reached a
+      greater fever pitch. Sen. Richard Blumenthal (D-Conn.) called it “unforgivable
+      and unforgettable” and an “inexcusable lapse in top leadership.” “Sec. Noem shows
+      that dismantling FEMA impacts real people in real time,” he said. “It hurts countless
+      survivors & increases recovery costs.” In response to the news, Sen. Elizabeth
+      Warren (D-Mass.) simply wrote that “Kristi Noem must resign now.” Kristi Noem
+      must resign now. pic.twitter.com/MxLtAtdob1 — Elizabeth Warren (@SenWarren) July
+      12, 2025 Others pointed out that Noem has often sought to justify abolishing FEMA
+      by characterizing it as slow and ineffectual. They suggested her dithering response
+      was deliberate. “She broke it on purpose,” said Rep. Jared Moskowitz (D-Fla.)
+      in an interview on MSNBC. “So that when it fails this summer, she can say, ‘Oh,
+      see, we told you—FEMA doesn’t work.''” Moskowitz: "Kristi Noem doesn''t know what
+      she is doing. She has no idea what she is doing when it comes to FEMA … what she
+      did is she broke it, and she broke it on purpose so that when it fails this summer,
+      she can say, ''Oh, see, we told you — FEMA doesn''t work.''" pic.twitter.com/nHN8Dhv41z
+      — Aaron Rupar (@atrupar) July 11, 2025 “It’s not really incompetence because they
+      know what they are doing,” said Sen. Chris Murphy (D-Conn.). “They are intentionally
+      breaking government—even the parts that help us when we are deep in crisis.” Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Stephen Prager
+      Stephen Prager is a staff writer for Common Dreams. Author Site Please share this
+      story and help us grow our network!'
+    one_sentence_summary: Outrage is mounting against DHS Secretary Kristi Noem for
+      her handling of the Texas floods, as reports reveal that her decision to lay off
+      contractors led to over two-thirds of FEMA calls from victims going unanswered.
+    paragraph_summary: Outrage is mounting against U.S. Secretary of Homeland Security
+      Kristi Noem following her handling of the aftermath of deadly floods in Texas,
+      where a significant number of calls from flood victims to FEMA went unanswered.
+      A report from The New York Times revealed that after Noem allowed the layoffs
+      of hundreds of contractors on July 5, the agency's ability to respond to disaster
+      survivors was severely compromised. While FEMA had answered nearly all calls from
+      victims on July 5, the situation deteriorated drastically in the following days,
+      with only 35.8% and 15.9% of calls answered on July 6 and July 7, respectively.
+      It wasn't until July 10 that Noem renewed the contracts for the call center staff,
+      leading to criticism over the delayed response during a critical time for those
+      seeking aid.
+    published: '2025-07-13T12:35:07+00:00'
+  - title: Beijing Denounces Trump’s Use of ‘Coercive Tariffs’ To Pressure Global South
+      To Isolate China
+    url: https://scheerpost.com/2025/07/13/beijing-denounces-trumps-use-of-coercive-tariffs-to-pressure-global-south-to-isolate-china/
+    text: '茅野ふたば, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0 , via
+      Wikimedia Commons In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Abdul Rahman / Peoples Dispatch The Donald Trump administration has reportedly
+      been pressuring South Korea to join its policy of blocking Chinese growth in the
+      international shipbuilding industry by offering South Korea relief from higher
+      tariffs under the “reciprocal tariff” regime of the US. South Korea’s trade policy
+      director, Chang Sung-gil, said on Friday that “the US feels a sense of crisis
+      that China’s market share in the shipbuilding sector is growing and is tapping
+      Korea as a strategic partner” against it. Chang also confirmed that cooperation
+      against China’s shipbuilding is one of the pre-conditions set by the US for finalizing
+      the trade deal with South Korea to avoid high reciprocal tariffs. Earlier this
+      week, the Trump administration extended the deadline for the implementation of
+      its reciprocal tariff regime. It was to take effect July 9, as per the announcement
+      made in April. However, Trump has given countries until August 1 to finalize their
+      trade deals to avoid high tariffs. If the talks fail, South Korea will face a
+      25% tariff on its exports to the US, according to a Monday letter from Trump to
+      the country’s newly elected leadership. South Korea is not the only country that
+      the US is coercing to join its China economic containment plan. Various nations,
+      both in Asia and elsewhere, have been pressured to cut back their trade ties with
+      China. Trump has reportedly demanded, both directly and indirectly, that countries
+      should reduce the volume of their trade with China and block certain essential
+      exports to it. This is a continuation of the policy adopted by Trump’s predecessor
+      Joe Biden, who had asked South Korea to block the supply of high end logic and
+      memory chips to China as a way to slow down its progress in high end technology.
+      The Trump administration has set similar demands vis-a-vis China for a large number
+      of Asian countries as one of the preconditions for getting relief from higher
+      tariffs. Violation of international norms China has repeatedly objected to the
+      US government’s approach of using its so-called reciprocal tariffs to coerce countries
+      to modify their trade policies with a third country. Responding to the news of
+      the Trump administration using coercion against South Korea to act against China,
+      Mao Ning, spokesperson for the Chinese Foreign Ministry said on Friday that no
+      bilateral trade “agreement or negotiation should come at the expense of third
+      parties’ interests”. The Trump administration has also threatened members of the
+      BRICS with higher tariffs if they choose to continue aligning with it, calling
+      it an anti-American grouping. On Tuesday, Trump reiterated his threat which provoked
+      a strong response from Brazilian President Luiz Inácio Lula da Silva, who just
+      hosted the BRICS summit. Trump also announced a 50% tariff on Brazil on Wednesday
+      accusing it of “persecuting” former president Jair Bolsonaro, who is facing trial
+      for spreading misinformation to foreign diplomats about Brazil’s electronic voting
+      system and attempting a coup against Lula. Answering a question about Trump’s
+      tariff threat against Brazil for its domestic policy decision, Ning called it
+      a violation of the basic principles of international politics and an attempt to
+      coerce other countries and interfere in their domestic affairs. “Sovereign equality
+      and non-interference in internal affairs are important principles of the UN Charter
+      and basic norms governing international relations,” Ning said. China is one of
+      the founding BRICS members and its push for a multipolar, democratic world order
+      is at the heart of its policies. China has rejected Trump’s allegations that BRICS
+      is aligned against any particular country. China has also reiterated that there
+      are no winners in a tariff or trade war. Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Abdul Rahman Abdul
+      Rahman is a staff writer for Peoples Dispatch. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: The Trump administration is reportedly pressuring South Korea
+      to collaborate in blocking China's growth in the shipbuilding industry by offering
+      tariff relief as part of a trade deal.
+    paragraph_summary: The Trump administration is reportedly pressuring South Korea
+      to align with its strategy to contain China's growth in the international shipbuilding
+      industry by offering tariff relief under a "reciprocal tariff" regime. South Korea's
+      trade policy director, Chang Sung-gil, indicated that the U.S. views China's increasing
+      market share as a threat and sees South Korea as a key ally in this effort. The
+      U.S. has set cooperation against China's shipbuilding as a condition for finalizing
+      a trade deal with South Korea, which, if not achieved by the extended deadline
+      of August 1, could result in a 25% tariff on South Korean exports to the U.S.
+      This approach reflects a broader strategy by the Trump administration, continued
+      by President Biden, to pressure various countries to reduce their trade ties with
+      China.
+    published: '2025-07-13T12:30:46+00:00'
+  - title: Beijing Denounces Trump’s Use of ‘Coercive Tariffs’ To Pressure Global South
+      To Isolate China
+    url: https://scheerpost.com/2025/07/13/beijing-denounces-trumps-use-of-coercive-tariffs-to-pressure-global-south-to-isolate-china/
+    text: '茅野ふたば, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0 , via
+      Wikimedia Commons In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Abdul Rahman / Peoples Dispatch The Donald Trump administration has reportedly
+      been pressuring South Korea to join its policy of blocking Chinese growth in the
+      international shipbuilding industry by offering South Korea relief from higher
+      tariffs under the “reciprocal tariff” regime of the US. South Korea’s trade policy
+      director, Chang Sung-gil, said on Friday that “the US feels a sense of crisis
+      that China’s market share in the shipbuilding sector is growing and is tapping
+      Korea as a strategic partner” against it. Chang also confirmed that cooperation
+      against China’s shipbuilding is one of the pre-conditions set by the US for finalizing
+      the trade deal with South Korea to avoid high reciprocal tariffs. Earlier this
+      week, the Trump administration extended the deadline for the implementation of
+      its reciprocal tariff regime. It was to take effect July 9, as per the announcement
+      made in April. However, Trump has given countries until August 1 to finalize their
+      trade deals to avoid high tariffs. If the talks fail, South Korea will face a
+      25% tariff on its exports to the US, according to a Monday letter from Trump to
+      the country’s newly elected leadership. South Korea is not the only country that
+      the US is coercing to join its China economic containment plan. Various nations,
+      both in Asia and elsewhere, have been pressured to cut back their trade ties with
+      China. Trump has reportedly demanded, both directly and indirectly, that countries
+      should reduce the volume of their trade with China and block certain essential
+      exports to it. This is a continuation of the policy adopted by Trump’s predecessor
+      Joe Biden, who had asked South Korea to block the supply of high end logic and
+      memory chips to China as a way to slow down its progress in high end technology.
+      The Trump administration has set similar demands vis-a-vis China for a large number
+      of Asian countries as one of the preconditions for getting relief from higher
+      tariffs. Violation of international norms China has repeatedly objected to the
+      US government’s approach of using its so-called reciprocal tariffs to coerce countries
+      to modify their trade policies with a third country. Responding to the news of
+      the Trump administration using coercion against South Korea to act against China,
+      Mao Ning, spokesperson for the Chinese Foreign Ministry said on Friday that no
+      bilateral trade “agreement or negotiation should come at the expense of third
+      parties’ interests”. The Trump administration has also threatened members of the
+      BRICS with higher tariffs if they choose to continue aligning with it, calling
+      it an anti-American grouping. On Tuesday, Trump reiterated his threat which provoked
+      a strong response from Brazilian President Luiz Inácio Lula da Silva, who just
+      hosted the BRICS summit. Trump also announced a 50% tariff on Brazil on Wednesday
+      accusing it of “persecuting” former president Jair Bolsonaro, who is facing trial
+      for spreading misinformation to foreign diplomats about Brazil’s electronic voting
+      system and attempting a coup against Lula. Answering a question about Trump’s
+      tariff threat against Brazil for its domestic policy decision, Ning called it
+      a violation of the basic principles of international politics and an attempt to
+      coerce other countries and interfere in their domestic affairs. “Sovereign equality
+      and non-interference in internal affairs are important principles of the UN Charter
+      and basic norms governing international relations,” Ning said. China is one of
+      the founding BRICS members and its push for a multipolar, democratic world order
+      is at the heart of its policies. China has rejected Trump’s allegations that BRICS
+      is aligned against any particular country. China has also reiterated that there
+      are no winners in a tariff or trade war. Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Abdul Rahman Abdul
+      Rahman is a staff writer for Peoples Dispatch. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: The Trump administration is reportedly pressuring South Korea
+      to collaborate in blocking China's growth in the shipbuilding industry by offering
+      tariff relief as part of a trade deal.
+    paragraph_summary: The Trump administration is reportedly pressuring South Korea
+      to align with its strategy to contain China's growth in the international shipbuilding
+      industry by offering tariff relief under a "reciprocal tariff" regime. South Korea's
+      trade policy director, Chang Sung-gil, indicated that the U.S. views China's increasing
+      market share as a threat and sees South Korea as a key ally in this effort. The
+      U.S. has set cooperation against China's shipbuilding as a condition for finalizing
+      a trade deal with South Korea, which, if not achieved by the extended deadline
+      of August 1, could result in a 25% tariff on South Korean exports to the U.S.
+      This approach reflects a broader strategy by the Trump administration, continued
+      by President Biden, to pressure various countries to reduce their trade ties with
+      China.
+    published: '2025-07-13T12:30:46+00:00'
+  - title: 'USAID Leaks: Censorship As Regime Change'
+    url: https://scheerpost.com/2025/07/12/usaid-leaks-censorship-as-regime-change/
+    text: 'Service members from Joint Task Force Matthew and representatives from the
+      United States Agency of International Development delivered relief supplies to
+      areas affected by Hurricane Matthew to Jeremie, Haiti. Official U.S. Navy Page
+      from United States of AmericaCapt. Tyler Hopkins/U.S. Navy, Public domain, via
+      Wikimedia Commons In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Kit Klarenberg / Substack Leaked files expose how now-defunct intelligence
+      cutout USAID secretly employed the services of shady “counter-disinformation”
+      firm Valent Projects , to censor and suppress online criticism of an illegitimate
+      puppet government Washington installed in Sudan in August 2019. The purpose was
+      to shore up its brutal, corrupt rule in the face of widespread public opposition.
+      The documents suggest this was not the only country where Valent has been used
+      as a cutout to support Western destabilisation and intervention, both covert and
+      overt. A since-deleted USAID web entry declared the April 2019 ouster of Sudan’s
+      longtime leader Omar al-Bashir represented a “historic” opportunity “to further
+      US interests in Sudan and the region.” The Agency’s Office of Transition Services
+      (OTI), which provided “fast, flexible, short-term assistance targeted at key political
+      transition” – in other words, regime change – engaged in “close cooperation” with
+      “key ministries” within the interim Sudanese government established four months
+      later. This included creating and managing multiple state “media offices” for
+      disseminating propaganda, and countering “mis- and disinformation”. The leaks
+      show Valent reaped over $1 million from OTI for “counter disinformation and communications
+      support” in Sudan. Suspiciously, this staggering sum is not reflected in the company’s
+      official accounts . Nonetheless, some detail on its OTI work is provided by a
+      June 2021 Meta report on “coordinated inauthentic behavior”. It states a malign
+      network of 53 Facebook accounts, 51 pages, three groups, and 18 Instagram users
+      in Sudan were removed “after reviewing information about some of its activity
+      shared by researchers at Valent Projects.” In October 2021, Valent chief Amil
+      Khan told Reuters the “inauthentic” Sudanese “network” his company identified
+      was in fact “three times larger” than the nexus removed by Facebook in June that
+      year, “attracting more than 6 million followers and continuing to grow.” He accused
+      Meta of failing to act appropriately. By contrast, administrators of pages fingered
+      by Valent as “inauthentic” emphatically denied the charge, telling Reuters the
+      accusations stemmed from their criticism of the interim government’s “oppressive
+      policies and poor economic and political management.” Sudan’s deeply unpopular
+      OTI-run government collapsed the same month. During its two years of operation,
+      it gained a woeful reputation for industrial scale corruption, savage attacks
+      on dissidents, banning opposition news outlets, jailing dissidents without charge
+      or trial, and other egregious abuses of power. Evidently, Valent was seeking to
+      systematically defenestrate any and all online detractors of Washington’s faithful
+      client administration on USAID’s dime, in a country where social media is highly
+      influential on public perceptions and actions. ‘Measurable Effects’ Publicly,
+      Valent Projects presents a friendly, democratic face, its in-house ‘experts’ frequently
+      quoted in the mainstream on topics ranging from carbon emission “disinformation”
+      to whether popular rapper Kendrick Lamar has been promoted by online bot networks.
+      Yet, Khan cut his teeth running propaganda and influence operations for murderous
+      CIA and MI6-backed extremist groups during the Syrian dirty war. The USAID leaks
+      make abundantly clear he remains up to his old tricks, under Valent’s benign banner.
+      Khan’s reprehensible professional background moreover made him an ideal candidate
+      for managing “information operations” in support of the Ukraine proxy war, from
+      the perspective of Project Alchemy . A British Ministry of Defence-created cell
+      of military and intelligence veterans, it is charged with keeping Kiev “fighting
+      at all costs”, plotting oft-suicidal missions for Ukrainian forces to carry out.
+      Questions thus abound as to whether Khan’s secret plot with celebrity ‘journalist’
+      Paul Mason to destroy The Grayzone , exposed in June 2022, arose from his clandestine
+      mission for Alchemy. Dubbing him a “ninja” in the field of psychological warfare,
+      Alchemy chiefs approached Khan in April 2022, inviting him to lead their “information”
+      effort in the proxy war. He responded that Valent was already collaborating with
+      Chemonics International, which manages the Partnership Fund for a Resilient Ukraine.
+      Set up by Western governments to funnel support of all kinds to Kiev, PFRU is
+      now run by the British Foreign Office, in direct “collaboration” with Volodymyr
+      Zelensky’s administration. Khan explained this project was concerned with “tracking
+      pro-Russian disinfo targeting key audiences in key countries…with the aim of influencing
+      policy in a pro-Russian direction,” and countering attempts “to turn key audiences
+      against the idea of support for Ukraine.” He bragged how Valent had “past performance
+      in identifying, monitoring and closing such activity.” Khan enquired of Alchemy,
+      “would something like that be of interest?” Not long after this email exchange,
+      Valent submitted a pitch to PFRU. The firm proposed to “map audiences critical
+      to the Kremlin’s efforts, and identify opportunities to impact their narratives,”
+      thus supporting Kiev’s “strategic communications efforts.” If successful, Ukrainian
+      officials would be provided with “a stream of ‘narrative opportunities’” to “influence”
+      and “engage” audiences not only in Russia, but “other key states” including India
+      and Turkey, via news outlets, social media, and other information sources. “One
+      strand” of the project would “focus on mapping Russian internal audiences critical
+      to the Kremlin’s plans with the aim of identifying opportunities to influence.”
+      This would, it was projected, increase Kiev’s ability “to affect measurable attitudinal
+      and behavioural change amongst key Russian audiences.” Meanwhile, “Russia’s ability
+      to politically absorb negative conflict-related impacts,” such as “manpower losses”
+      and “economic damage”, would be “degraded.” Valent’s pitch to PFRU The operation’s
+      “second strand” would identify and monitor “social media networks delivering Russian
+      information operations” overseas. Analysing the “content” and “engagement patterns”
+      of these purported “networks” would “produce streams of highly specific, time
+      sensitive information designed to present [Ukrainian] stakeholders opportunities
+      to achieve influence.” The document bragged that “the approach and specific methodologies
+      outlined” therein were “based on work [Valent Projects] has already conducted
+      for multiple donors with measurable effects.” While no examples are cited in the
+      leaked file, an obvious candidate would be Project Aurelius. This was an information
+      warfare effort waged while Khan was based in Amman, Jordan, secret headquarters
+      of a variety of British intelligence cutouts , with which he was employed during
+      the Syrian dirty war. It sought to undermine Russia’s military support of Damascus,
+      and Vladimir Putin’s rule, by “exposing Russians to the complicated reality their
+      government” faced in the country. The Project’s leaked outline claimed “Russia’s
+      position in Syria is more costly and less successful than the Kremlin is admitting,”
+      and Putin’s position domestically and internationally was “fragile”. The objective
+      therefore was to present Russia’s Syria intervention “as depicted” in British
+      intelligence-created and run Syrian opposition media outlets “to key Russian audiences,
+      including mainstream news consumers.” This “mechanism” could easily be constructed
+      by “[tasking] Syrian opposition media activists” – in other words, British assets
+      – “to capture raw material that undermines Russian claims.” Project_Aurelius Download
+      The Project reportedly already had “potential points of entry into Russian mainstream
+      media,” a team of “Russian activists based in Ukraine with access to foreign journalists
+      and opinion influencers with media profiles,” and “activists able to establish
+      and run Russian social media pages,” including “Russian opposition social media
+      networks.” Funding would appear to come from a “Syrian-run media activist group”,
+      ostensibly financed by “donations from wealthy Syrians”, which would send funds
+      to a “a Russian-run similar entity…registered in Ukraine.” ‘Particularly Problematic’
+      Another leaked Valent file shows the firm was employed by Thomson Reuters Foundation,
+      the world-famous news agency’s “charitable” wing, “to gauge audience trust levels
+      towards independent media in Ukraine.” The firm conducted extensive analysis of
+      188 separate news outlets in Kiev, operating “across a variety of platforms, from
+      websites to Facebook pages and Telegram channels.” It identified four separate
+      audiences; “nationalist grannies”; “tech-savvy professionals”; “Russia First fans”;
+      and “Ukrainian ‘Proud Boys’”, referencing the far-right US militia. The findings
+      were delivered in March 2021. Excerpt from leaked Valent file Valent found “the
+      most trusted information sources” in Ukraine “tend to be individuals who could
+      best be described as ‘celebrity bloggers’,” as “larger media outlets…are assumed
+      to be promoting an oligarch’s interests.” Those “celebrity bloggers” who could
+      “communicate a certain comfort level with Russian culture and language while maintaining
+      a dispassionate but critical tone on Kremlin policy” were concluded to be “the
+      most likely actors in the Ukrainian information space to attract the widest cross
+      section of audiences.” Such was the depth of Valent’s research, the firm was “confident”
+      in making a number of “recommendations to news outlets operating in the Ukrainian
+      information environment.” This included developing outlets “around real-world
+      personalities,” avoiding “the appearance of narrow tribalism,” and “[showing]
+      respect to Russian culture and history” when “criticising Russian policy.” Meanwhile,
+      “long-form content” should focus on “newsworthy interviews”, with outlets posting
+      “appropriate content” across platforms “in an integrated manner around a central
+      narrative…[tailored] to audience profiles.” It is uncertain why Thomson Reuters
+      Foundation commissioned Valent to identify the most popular independent media
+      outlets and personalities, and effective propaganda strategies, in Ukraine. Nonetheless,
+      The Grayzone has previously revealed the Foundation groomed a secret army of pro-Western
+      Russian journalists under a covert Foreign Office operation, to “weaken the Russian
+      state’s influence”. More gravely, this journalist has also exposed how Reuters
+      and TRF created a British intelligence-funded astroturf opposition media outlet
+      in Egypt, Aswat Masriya , which was central to Cairo’s brutal 2013 military coup.
+      Thomson Reuters Foundation proposes secretly creating ‘independent’ media outlet
+      for Ukraine’s 2019 elections Strikingly, leaked TRF files related to Aswat Masriya
+      proposed repeating the exercise in Kiev, “timed for the run up to the 2019 elections.”
+      That vote saw Zelensky elected by landslide, on a peace platform. This project
+      was ostensibly inspired by “a lack of in-depth, independent news coverage” in
+      Ukraine, which the Foundation considered “particularly problematic at key political
+      junctures such as elections, especially when vested interests seek to influence
+      particular outcomes.” In this context, the timing of Valent’s research effort
+      for TRF is rendered rather suspect. In March 2021, Zelensky issued a decree ,
+      outlining a “strategy for the de-occupation and reintegration” of “temporarily
+      occupied territory” in Crimea and Donbass. It sketched a blueprint for the military
+      to recapture both territories. Immediately, Kiev’s forces began massing in the
+      south and east of Ukraine, a key precursor to the proxy conflict that erupted
+      in February 2022. Perhaps Zelensky’s British intelligence backers wished to ensure
+      in advance local “independent” media figures and outlets were supportive of the
+      President’s “strategy” to ignite war with Russia? Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Kit Klarenberg
+      Kit Klarenberg is an investigative journalist and MintPress News contributor exploring
+      the role of intelligence services in shaping politics and perceptions. His work
+      has previously appeared in The Cradle, Declassified UK, and Grayzone. Follow him
+      on Twitter @KitKlarenberg . Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: U.S. service members and USAID representatives provided relief
+      supplies to Hurricane Matthew-affected areas in Jeremie, Haiti, while leaked documents
+      reveal that USAID previously used a controversial firm to suppress dissent against
+      a U.S.-backed government in Sudan.
+    paragraph_summary: Service members from Joint Task Force Matthew and representatives
+      from the U.S. Agency for International Development (USAID) provided relief supplies
+      to Hurricane Matthew-affected areas in Jeremie, Haiti. In a separate context,
+      leaked documents reveal that USAID previously collaborated with the controversial
+      firm Valent Projects to suppress online dissent against a U.S.-backed government
+      in Sudan following the ouster of Omar al-Bashir in 2019. The leaked files indicate
+      that Valent was compensated over $1 million for its role in managing state media
+      and countering misinformation, highlighting concerns about the agency's involvement
+      in promoting regime change and supporting Western intervention in Sudan and potentially
+      other nations.
+    published: '2025-07-12T09:20:00+00:00'
+  - title: 'USAID Leaks: Censorship As Regime Change'
+    url: https://scheerpost.com/2025/07/12/usaid-leaks-censorship-as-regime-change/
+    text: 'Service members from Joint Task Force Matthew and representatives from the
+      United States Agency of International Development delivered relief supplies to
+      areas affected by Hurricane Matthew to Jeremie, Haiti. Official U.S. Navy Page
+      from United States of AmericaCapt. Tyler Hopkins/U.S. Navy, Public domain, via
+      Wikimedia Commons In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Kit Klarenberg / Substack Leaked files expose how now-defunct intelligence
+      cutout USAID secretly employed the services of shady “counter-disinformation”
+      firm Valent Projects , to censor and suppress online criticism of an illegitimate
+      puppet government Washington installed in Sudan in August 2019. The purpose was
+      to shore up its brutal, corrupt rule in the face of widespread public opposition.
+      The documents suggest this was not the only country where Valent has been used
+      as a cutout to support Western destabilisation and intervention, both covert and
+      overt. A since-deleted USAID web entry declared the April 2019 ouster of Sudan’s
+      longtime leader Omar al-Bashir represented a “historic” opportunity “to further
+      US interests in Sudan and the region.” The Agency’s Office of Transition Services
+      (OTI), which provided “fast, flexible, short-term assistance targeted at key political
+      transition” – in other words, regime change – engaged in “close cooperation” with
+      “key ministries” within the interim Sudanese government established four months
+      later. This included creating and managing multiple state “media offices” for
+      disseminating propaganda, and countering “mis- and disinformation”. The leaks
+      show Valent reaped over $1 million from OTI for “counter disinformation and communications
+      support” in Sudan. Suspiciously, this staggering sum is not reflected in the company’s
+      official accounts . Nonetheless, some detail on its OTI work is provided by a
+      June 2021 Meta report on “coordinated inauthentic behavior”. It states a malign
+      network of 53 Facebook accounts, 51 pages, three groups, and 18 Instagram users
+      in Sudan were removed “after reviewing information about some of its activity
+      shared by researchers at Valent Projects.” In October 2021, Valent chief Amil
+      Khan told Reuters the “inauthentic” Sudanese “network” his company identified
+      was in fact “three times larger” than the nexus removed by Facebook in June that
+      year, “attracting more than 6 million followers and continuing to grow.” He accused
+      Meta of failing to act appropriately. By contrast, administrators of pages fingered
+      by Valent as “inauthentic” emphatically denied the charge, telling Reuters the
+      accusations stemmed from their criticism of the interim government’s “oppressive
+      policies and poor economic and political management.” Sudan’s deeply unpopular
+      OTI-run government collapsed the same month. During its two years of operation,
+      it gained a woeful reputation for industrial scale corruption, savage attacks
+      on dissidents, banning opposition news outlets, jailing dissidents without charge
+      or trial, and other egregious abuses of power. Evidently, Valent was seeking to
+      systematically defenestrate any and all online detractors of Washington’s faithful
+      client administration on USAID’s dime, in a country where social media is highly
+      influential on public perceptions and actions. ‘Measurable Effects’ Publicly,
+      Valent Projects presents a friendly, democratic face, its in-house ‘experts’ frequently
+      quoted in the mainstream on topics ranging from carbon emission “disinformation”
+      to whether popular rapper Kendrick Lamar has been promoted by online bot networks.
+      Yet, Khan cut his teeth running propaganda and influence operations for murderous
+      CIA and MI6-backed extremist groups during the Syrian dirty war. The USAID leaks
+      make abundantly clear he remains up to his old tricks, under Valent’s benign banner.
+      Khan’s reprehensible professional background moreover made him an ideal candidate
+      for managing “information operations” in support of the Ukraine proxy war, from
+      the perspective of Project Alchemy . A British Ministry of Defence-created cell
+      of military and intelligence veterans, it is charged with keeping Kiev “fighting
+      at all costs”, plotting oft-suicidal missions for Ukrainian forces to carry out.
+      Questions thus abound as to whether Khan’s secret plot with celebrity ‘journalist’
+      Paul Mason to destroy The Grayzone , exposed in June 2022, arose from his clandestine
+      mission for Alchemy. Dubbing him a “ninja” in the field of psychological warfare,
+      Alchemy chiefs approached Khan in April 2022, inviting him to lead their “information”
+      effort in the proxy war. He responded that Valent was already collaborating with
+      Chemonics International, which manages the Partnership Fund for a Resilient Ukraine.
+      Set up by Western governments to funnel support of all kinds to Kiev, PFRU is
+      now run by the British Foreign Office, in direct “collaboration” with Volodymyr
+      Zelensky’s administration. Khan explained this project was concerned with “tracking
+      pro-Russian disinfo targeting key audiences in key countries…with the aim of influencing
+      policy in a pro-Russian direction,” and countering attempts “to turn key audiences
+      against the idea of support for Ukraine.” He bragged how Valent had “past performance
+      in identifying, monitoring and closing such activity.” Khan enquired of Alchemy,
+      “would something like that be of interest?” Not long after this email exchange,
+      Valent submitted a pitch to PFRU. The firm proposed to “map audiences critical
+      to the Kremlin’s efforts, and identify opportunities to impact their narratives,”
+      thus supporting Kiev’s “strategic communications efforts.” If successful, Ukrainian
+      officials would be provided with “a stream of ‘narrative opportunities’” to “influence”
+      and “engage” audiences not only in Russia, but “other key states” including India
+      and Turkey, via news outlets, social media, and other information sources. “One
+      strand” of the project would “focus on mapping Russian internal audiences critical
+      to the Kremlin’s plans with the aim of identifying opportunities to influence.”
+      This would, it was projected, increase Kiev’s ability “to affect measurable attitudinal
+      and behavioural change amongst key Russian audiences.” Meanwhile, “Russia’s ability
+      to politically absorb negative conflict-related impacts,” such as “manpower losses”
+      and “economic damage”, would be “degraded.” Valent’s pitch to PFRU The operation’s
+      “second strand” would identify and monitor “social media networks delivering Russian
+      information operations” overseas. Analysing the “content” and “engagement patterns”
+      of these purported “networks” would “produce streams of highly specific, time
+      sensitive information designed to present [Ukrainian] stakeholders opportunities
+      to achieve influence.” The document bragged that “the approach and specific methodologies
+      outlined” therein were “based on work [Valent Projects] has already conducted
+      for multiple donors with measurable effects.” While no examples are cited in the
+      leaked file, an obvious candidate would be Project Aurelius. This was an information
+      warfare effort waged while Khan was based in Amman, Jordan, secret headquarters
+      of a variety of British intelligence cutouts , with which he was employed during
+      the Syrian dirty war. It sought to undermine Russia’s military support of Damascus,
+      and Vladimir Putin’s rule, by “exposing Russians to the complicated reality their
+      government” faced in the country. The Project’s leaked outline claimed “Russia’s
+      position in Syria is more costly and less successful than the Kremlin is admitting,”
+      and Putin’s position domestically and internationally was “fragile”. The objective
+      therefore was to present Russia’s Syria intervention “as depicted” in British
+      intelligence-created and run Syrian opposition media outlets “to key Russian audiences,
+      including mainstream news consumers.” This “mechanism” could easily be constructed
+      by “[tasking] Syrian opposition media activists” – in other words, British assets
+      – “to capture raw material that undermines Russian claims.” Project_Aurelius Download
+      The Project reportedly already had “potential points of entry into Russian mainstream
+      media,” a team of “Russian activists based in Ukraine with access to foreign journalists
+      and opinion influencers with media profiles,” and “activists able to establish
+      and run Russian social media pages,” including “Russian opposition social media
+      networks.” Funding would appear to come from a “Syrian-run media activist group”,
+      ostensibly financed by “donations from wealthy Syrians”, which would send funds
+      to a “a Russian-run similar entity…registered in Ukraine.” ‘Particularly Problematic’
+      Another leaked Valent file shows the firm was employed by Thomson Reuters Foundation,
+      the world-famous news agency’s “charitable” wing, “to gauge audience trust levels
+      towards independent media in Ukraine.” The firm conducted extensive analysis of
+      188 separate news outlets in Kiev, operating “across a variety of platforms, from
+      websites to Facebook pages and Telegram channels.” It identified four separate
+      audiences; “nationalist grannies”; “tech-savvy professionals”; “Russia First fans”;
+      and “Ukrainian ‘Proud Boys’”, referencing the far-right US militia. The findings
+      were delivered in March 2021. Excerpt from leaked Valent file Valent found “the
+      most trusted information sources” in Ukraine “tend to be individuals who could
+      best be described as ‘celebrity bloggers’,” as “larger media outlets…are assumed
+      to be promoting an oligarch’s interests.” Those “celebrity bloggers” who could
+      “communicate a certain comfort level with Russian culture and language while maintaining
+      a dispassionate but critical tone on Kremlin policy” were concluded to be “the
+      most likely actors in the Ukrainian information space to attract the widest cross
+      section of audiences.” Such was the depth of Valent’s research, the firm was “confident”
+      in making a number of “recommendations to news outlets operating in the Ukrainian
+      information environment.” This included developing outlets “around real-world
+      personalities,” avoiding “the appearance of narrow tribalism,” and “[showing]
+      respect to Russian culture and history” when “criticising Russian policy.” Meanwhile,
+      “long-form content” should focus on “newsworthy interviews”, with outlets posting
+      “appropriate content” across platforms “in an integrated manner around a central
+      narrative…[tailored] to audience profiles.” It is uncertain why Thomson Reuters
+      Foundation commissioned Valent to identify the most popular independent media
+      outlets and personalities, and effective propaganda strategies, in Ukraine. Nonetheless,
+      The Grayzone has previously revealed the Foundation groomed a secret army of pro-Western
+      Russian journalists under a covert Foreign Office operation, to “weaken the Russian
+      state’s influence”. More gravely, this journalist has also exposed how Reuters
+      and TRF created a British intelligence-funded astroturf opposition media outlet
+      in Egypt, Aswat Masriya , which was central to Cairo’s brutal 2013 military coup.
+      Thomson Reuters Foundation proposes secretly creating ‘independent’ media outlet
+      for Ukraine’s 2019 elections Strikingly, leaked TRF files related to Aswat Masriya
+      proposed repeating the exercise in Kiev, “timed for the run up to the 2019 elections.”
+      That vote saw Zelensky elected by landslide, on a peace platform. This project
+      was ostensibly inspired by “a lack of in-depth, independent news coverage” in
+      Ukraine, which the Foundation considered “particularly problematic at key political
+      junctures such as elections, especially when vested interests seek to influence
+      particular outcomes.” In this context, the timing of Valent’s research effort
+      for TRF is rendered rather suspect. In March 2021, Zelensky issued a decree ,
+      outlining a “strategy for the de-occupation and reintegration” of “temporarily
+      occupied territory” in Crimea and Donbass. It sketched a blueprint for the military
+      to recapture both territories. Immediately, Kiev’s forces began massing in the
+      south and east of Ukraine, a key precursor to the proxy conflict that erupted
+      in February 2022. Perhaps Zelensky’s British intelligence backers wished to ensure
+      in advance local “independent” media figures and outlets were supportive of the
+      President’s “strategy” to ignite war with Russia? Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Kit Klarenberg
+      Kit Klarenberg is an investigative journalist and MintPress News contributor exploring
+      the role of intelligence services in shaping politics and perceptions. His work
+      has previously appeared in The Cradle, Declassified UK, and Grayzone. Follow him
+      on Twitter @KitKlarenberg . Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: U.S. service members and USAID representatives provided relief
+      supplies to Hurricane Matthew-affected areas in Jeremie, Haiti, while leaked documents
+      reveal that USAID previously used a controversial firm to suppress dissent against
+      a U.S.-backed government in Sudan.
+    paragraph_summary: Service members from Joint Task Force Matthew and representatives
+      from the U.S. Agency for International Development (USAID) provided relief supplies
+      to Hurricane Matthew-affected areas in Jeremie, Haiti. In a separate context,
+      leaked documents reveal that USAID previously collaborated with the controversial
+      firm Valent Projects to suppress online dissent against a U.S.-backed government
+      in Sudan following the ouster of Omar al-Bashir in 2019. The leaked files indicate
+      that Valent was compensated over $1 million for its role in managing state media
+      and countering misinformation, highlighting concerns about the agency's involvement
+      in promoting regime change and supporting Western intervention in Sudan and potentially
+      other nations.
+    published: '2025-07-12T09:20:00+00:00'
+  - title: Who Says a Chicken Feather Can’t Fly up to Heaven?
+    url: https://scheerpost.com/2025/07/12/who-says-a-chicken-feather-cant-fly-up-to-heaven/
+    text: 'China National Highway 312 construction site. Fumikas Sagisavas, CC0, via
+      Wikimedia Commons In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Vijay Prashad / Tricontinental: Institute for Social Research In 1957, Mao
+      Zedong oversaw the publication of Socialist Upsurge in China’s Countryside , a
+      three-volume collection of articles compiled by the Communist Party of China for
+      the political education of the peasantry. The following year, selections from
+      these volumes were republished in abridged and regional editions. One such edition
+      included a report from the Anyang Regional Communist Party Committee’s Office
+      for the Co-operative Movement with an introduction by Mao. The text, called ‘Who
+      Says a Chicken Feather Can’t Fly up to Heaven?’, provides the title for this newsletter.
+      The chicken feather’s task is the task of socialism: to do what is considered
+      by many to be impossible. The peasants of Anyang, Mao wrote, faced a choice between
+      capitalism and socialism – although any socialist construction would inevitably
+      bear traces of the capitalist system, as it must emerge out of existing forms
+      of social production. ‘The poor want to remake their lives’, Mao wrote. ‘The old
+      system is dying. A new system is being born. Chicken feathers really are flying
+      up to heaven’. But Mao remained cautious. In the preface to another article, ‘They
+      Insist on Taking the Road to Co-Operation’ (20 September 1955), he wrote: Socialism
+      is something new. A severe struggle must be waged against the old ways before
+      socialism can be brought about. At a given time, a section of society is very
+      stubborn and refuses to abandon its old ways. At another time, these same people
+      may change their attitude and approve the new. Ever since socialist forces have
+      endeavoured to build a society free from the wretched outcomes of capitalism,
+      they have had to contend with the challenge of transcending pre-existing social
+      relations. The mechanisms to allocate resources under the capitalist system –
+      such as the ‘profit incentive’ – create the conditions for private control over
+      social processes, which in turn generate enormous waste and inequality. When socialists
+      have tried to imagine a society without the commodification of labour – one of
+      the defining features of capitalism – they have found themselves replicating the
+      wage system through experiments such as labour vouchers based on time worked.
+      The transition away from commodified labour was not going to be abrupt or simple,
+      but rather a protracted process of struggle to de-commodify key areas of social
+      life (such as healthcare, education, and transportation) and to create mechanisms
+      for people to acquire goods for personal use through non-wage means. When socialist
+      forces took state power – as in the USSR after 1917 and China after 1949 – they
+      struggled to construct elementary forms of socialism while navigating the following
+      conundrums: Limited systems for managing information. Socialisteconomies were
+      vast and complex yet lacked adequate mechanisms to gather and process all the
+      data required for the effective planning of a dynamic economy – a challenge that
+      persists even today, despite powerful computing technologies. Fundamental uncertainty
+      in decision-making. Planning authorities had to make budgetary and investment
+      decisions under conditions of uncertainty, particularly as rapid advances in science
+      and technology risked rendering major investments obsolete. Tension between long-term
+      planning and short-term demand. Central plans often clashed with shifting consumer
+      tastes, making it difficult to align long-term planned investment with the short-term
+      tastes and whims of consumers. Conflicting political objectives. Economic goals
+      were not always politically unified, and competing visions embedded in various
+      plans often led to acute forms of bureaucratisation. There is no formula for overcoming
+      these and other problems faced by socialist projects once in state power. They
+      must be solved experimentally – or, as the Chinese saying goes, by ‘crossing the
+      river by feeling the stones’ (摸着石头过河). It is fitting, then, that the June 2025
+      edition of Wenhua Zongheng , published by Tricontinental: Institute for Social
+      Research and focused on ‘ Chinese Experiments in Socialist Modernisation ’, opens
+      with an essay by the Chinese writer Li Tuo titled ‘On the Experimental Nature
+      of Socialism and the Complexity of China’s Reform and Opening Up’. One of the
+      key insights of Li Tuo’s fascinating essay – which journeys from the Paris Commune
+      to China’s reform and opening up – is that socialist revolutions, particularly
+      in formerly colonised or economically underdeveloped countries, cannot transition
+      directly to ‘complete socialism’ but must go through – quoting Lenin – ‘a series
+      of varied, imperfect, and concrete attempts to create this or that socialist state’.
+      I like the emphasis on ‘this or that socialist state’. There is no blueprint,
+      but there are examples that need to be studied and histories that need to be properly
+      digested. This is precisely what Li Tuo does in his essay, which he ends by marvelling
+      at the creation of the high-speed rail system in China. The next essay, written
+      by Meng Jie and Zhang Zibin and titled ‘Industrial Policy with Chinese Characteristics:
+      The Political Economy of China’s Intermediary Institutions’, examines China’s
+      socialist modernisation with the diligence it demands – not just with awe but
+      through close study. Every time I hear Meng Jie lecture or read his work on China’s
+      market economy, I am deeply impressed by his insistence on building theory from
+      active research in the very factories that produce the goods for modern China.
+      Meng Jie and Zhang Zibin’s essay is no different, drawing on field research conducted
+      in various factories along the high-speed rail supply chain. What the authors
+      find is that China’s high-speed rail production system was built within the state-owned
+      sector but conceptualised within a ‘constructive market’ framework where ‘intra-governmental
+      competition’ served as the engine of innovation. In other words, the Chinese state
+      constructed a market that involved not just a profit-seeking private sector but
+      also a product-oriented public sector with institutions competing to achieve national
+      development goals. Finance for this entire system came from state-owned financial
+      institutions that steered capital accumulation towards social use rather than
+      merely a high rate of return. As Meng Jie and Zhang Zibin write, ‘The primary
+      goal of state-owned capital is to implement the objectives of socialist production
+      and fulfil the tasks set by the national development plans and strategies’. This
+      essay is part of a broader effort by Meng Jie and his collaborators to try to
+      understand the system of production relations and innovation that China has developed
+      – a crucial area of enquiry as the country enters the era of ‘new quality productive
+      forces’, a key concept in contemporary Chinese development policy. One of the
+      key elements of this latest issue of Wenhua Zongheng is to show that class struggle
+      continues during the period of socialist construction. What this means is that
+      various experiments are needed along the way to see what works and what doesn’t
+      – both to develop the productive forces and to put in place more equitable social
+      relations. In this process there has been a continued ideological struggle inside
+      China as the capitalists seek ways to reproduce themselves. However, under China’s
+      socialist system, capitalists are not permitted to organise themselves into a
+      class with political power through ownership of media, financial systems, political
+      parties, or other institutions. They cannot freely take their profits overseas
+      or invest them wherever they like. There are several strategic dams in place –
+      including capital controls – that regulate the flow of capital and prevent the
+      Chinese capitalists from becoming oligarchic and refusing to invest in their country
+      (a problem faced by so many governments in both the Global North and South, where
+      oligarchs can take their capital wherever they want and even go on ‘strike’ by
+      refusing to invest in infrastructure or industry). China’s capital remains within
+      the country and in reach of a state-owned banking system that puts that capital
+      to work within the parameters of the national development plan. Capitalists can
+      operate in the country, but they cannot dominate the system and allow their profit-seeking
+      behaviour to become paramount. In this way, the class struggle is tilted in favour
+      of the people. This is what separates the socialist system in China from the capitalist
+      systems in other countries. In The German Ideology (1846), Marx and Engels wrote
+      of the ‘muck of ages’ that needed to be set aside for a new world to be born.
+      This act of setting aside is going to take a very long time. The chicken feather
+      certainly has not yet reached heaven, but it is not in hell either. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Vijay Prashad
+      Vijay Prashad is an Indian historian, editor and journalist. He is a writing fellow
+      and chief correspondent at Globetrotter. He is an editor of LeftWord Books and
+      the director of Tricontinental: Institute for Social Research . He is a senior
+      non-resident fellow at Chongyang Institute for Financial Studies , Renmin University
+      of China. He has written more than 20 books, including The Darker Nations and
+      The Poorer Nations . His latest books are Struggle Makes Us Human: Learning from
+      Movements for Socialism and (with Noam Chomsky) The Withdrawal: Iraq, Libya, Afghanistan,
+      and the Fragility of U.S. Power . Author Site Please share this story and help
+      us grow our network!'
+    one_sentence_summary: The article discusses the historical context of Mao Zedong's
+      publication "Socialist Upsurge in China’s Countryside" and its significance in
+      political education for the peasantry, highlighting a specific report that metaphorically
+      illustrates the potential for transformation and progress within the communist
+      movement.
+    paragraph_summary: In a reflection on Mao Zedong's influence on socialist ideology,
+      Vijay Prashad discusses the publication of "Socialist Upsurge in China’s Countryside"
+      in 1957, which aimed to educate the peasantry about socialism amidst the struggle
+      against capitalism. The article highlights a report from the Anyang Regional Communist
+      Party that emphasizes the transformative potential of socialism, likening it to
+      a chicken feather that can achieve the impossible. Mao's writings convey the tension
+      between the old capitalist system and the emerging socialist framework, acknowledging
+      that while socialism is a new endeavor, it must confront and overcome entrenched
+      traditional practices. The piece underscores the challenges faced by socialist
+      movements in reshaping society and the necessity of perseverance in the face of
+      resistance.
+    published: '2025-07-12T09:15:00+00:00'
+  - title: Who Says a Chicken Feather Can’t Fly up to Heaven?
+    url: https://scheerpost.com/2025/07/12/who-says-a-chicken-feather-cant-fly-up-to-heaven/
+    text: 'China National Highway 312 construction site. Fumikas Sagisavas, CC0, via
+      Wikimedia Commons In one of the scariest moments in modern history, we''re doing
+      our best at ScheerPost to pierce the fog of lies that conceal it but we need some
+      help to pay our writers and staff. Please consider a tax-deductible donation .
+      By Vijay Prashad / Tricontinental: Institute for Social Research In 1957, Mao
+      Zedong oversaw the publication of Socialist Upsurge in China’s Countryside , a
+      three-volume collection of articles compiled by the Communist Party of China for
+      the political education of the peasantry. The following year, selections from
+      these volumes were republished in abridged and regional editions. One such edition
+      included a report from the Anyang Regional Communist Party Committee’s Office
+      for the Co-operative Movement with an introduction by Mao. The text, called ‘Who
+      Says a Chicken Feather Can’t Fly up to Heaven?’, provides the title for this newsletter.
+      The chicken feather’s task is the task of socialism: to do what is considered
+      by many to be impossible. The peasants of Anyang, Mao wrote, faced a choice between
+      capitalism and socialism – although any socialist construction would inevitably
+      bear traces of the capitalist system, as it must emerge out of existing forms
+      of social production. ‘The poor want to remake their lives’, Mao wrote. ‘The old
+      system is dying. A new system is being born. Chicken feathers really are flying
+      up to heaven’. But Mao remained cautious. In the preface to another article, ‘They
+      Insist on Taking the Road to Co-Operation’ (20 September 1955), he wrote: Socialism
+      is something new. A severe struggle must be waged against the old ways before
+      socialism can be brought about. At a given time, a section of society is very
+      stubborn and refuses to abandon its old ways. At another time, these same people
+      may change their attitude and approve the new. Ever since socialist forces have
+      endeavoured to build a society free from the wretched outcomes of capitalism,
+      they have had to contend with the challenge of transcending pre-existing social
+      relations. The mechanisms to allocate resources under the capitalist system –
+      such as the ‘profit incentive’ – create the conditions for private control over
+      social processes, which in turn generate enormous waste and inequality. When socialists
+      have tried to imagine a society without the commodification of labour – one of
+      the defining features of capitalism – they have found themselves replicating the
+      wage system through experiments such as labour vouchers based on time worked.
+      The transition away from commodified labour was not going to be abrupt or simple,
+      but rather a protracted process of struggle to de-commodify key areas of social
+      life (such as healthcare, education, and transportation) and to create mechanisms
+      for people to acquire goods for personal use through non-wage means. When socialist
+      forces took state power – as in the USSR after 1917 and China after 1949 – they
+      struggled to construct elementary forms of socialism while navigating the following
+      conundrums: Limited systems for managing information. Socialisteconomies were
+      vast and complex yet lacked adequate mechanisms to gather and process all the
+      data required for the effective planning of a dynamic economy – a challenge that
+      persists even today, despite powerful computing technologies. Fundamental uncertainty
+      in decision-making. Planning authorities had to make budgetary and investment
+      decisions under conditions of uncertainty, particularly as rapid advances in science
+      and technology risked rendering major investments obsolete. Tension between long-term
+      planning and short-term demand. Central plans often clashed with shifting consumer
+      tastes, making it difficult to align long-term planned investment with the short-term
+      tastes and whims of consumers. Conflicting political objectives. Economic goals
+      were not always politically unified, and competing visions embedded in various
+      plans often led to acute forms of bureaucratisation. There is no formula for overcoming
+      these and other problems faced by socialist projects once in state power. They
+      must be solved experimentally – or, as the Chinese saying goes, by ‘crossing the
+      river by feeling the stones’ (摸着石头过河). It is fitting, then, that the June 2025
+      edition of Wenhua Zongheng , published by Tricontinental: Institute for Social
+      Research and focused on ‘ Chinese Experiments in Socialist Modernisation ’, opens
+      with an essay by the Chinese writer Li Tuo titled ‘On the Experimental Nature
+      of Socialism and the Complexity of China’s Reform and Opening Up’. One of the
+      key insights of Li Tuo’s fascinating essay – which journeys from the Paris Commune
+      to China’s reform and opening up – is that socialist revolutions, particularly
+      in formerly colonised or economically underdeveloped countries, cannot transition
+      directly to ‘complete socialism’ but must go through – quoting Lenin – ‘a series
+      of varied, imperfect, and concrete attempts to create this or that socialist state’.
+      I like the emphasis on ‘this or that socialist state’. There is no blueprint,
+      but there are examples that need to be studied and histories that need to be properly
+      digested. This is precisely what Li Tuo does in his essay, which he ends by marvelling
+      at the creation of the high-speed rail system in China. The next essay, written
+      by Meng Jie and Zhang Zibin and titled ‘Industrial Policy with Chinese Characteristics:
+      The Political Economy of China’s Intermediary Institutions’, examines China’s
+      socialist modernisation with the diligence it demands – not just with awe but
+      through close study. Every time I hear Meng Jie lecture or read his work on China’s
+      market economy, I am deeply impressed by his insistence on building theory from
+      active research in the very factories that produce the goods for modern China.
+      Meng Jie and Zhang Zibin’s essay is no different, drawing on field research conducted
+      in various factories along the high-speed rail supply chain. What the authors
+      find is that China’s high-speed rail production system was built within the state-owned
+      sector but conceptualised within a ‘constructive market’ framework where ‘intra-governmental
+      competition’ served as the engine of innovation. In other words, the Chinese state
+      constructed a market that involved not just a profit-seeking private sector but
+      also a product-oriented public sector with institutions competing to achieve national
+      development goals. Finance for this entire system came from state-owned financial
+      institutions that steered capital accumulation towards social use rather than
+      merely a high rate of return. As Meng Jie and Zhang Zibin write, ‘The primary
+      goal of state-owned capital is to implement the objectives of socialist production
+      and fulfil the tasks set by the national development plans and strategies’. This
+      essay is part of a broader effort by Meng Jie and his collaborators to try to
+      understand the system of production relations and innovation that China has developed
+      – a crucial area of enquiry as the country enters the era of ‘new quality productive
+      forces’, a key concept in contemporary Chinese development policy. One of the
+      key elements of this latest issue of Wenhua Zongheng is to show that class struggle
+      continues during the period of socialist construction. What this means is that
+      various experiments are needed along the way to see what works and what doesn’t
+      – both to develop the productive forces and to put in place more equitable social
+      relations. In this process there has been a continued ideological struggle inside
+      China as the capitalists seek ways to reproduce themselves. However, under China’s
+      socialist system, capitalists are not permitted to organise themselves into a
+      class with political power through ownership of media, financial systems, political
+      parties, or other institutions. They cannot freely take their profits overseas
+      or invest them wherever they like. There are several strategic dams in place –
+      including capital controls – that regulate the flow of capital and prevent the
+      Chinese capitalists from becoming oligarchic and refusing to invest in their country
+      (a problem faced by so many governments in both the Global North and South, where
+      oligarchs can take their capital wherever they want and even go on ‘strike’ by
+      refusing to invest in infrastructure or industry). China’s capital remains within
+      the country and in reach of a state-owned banking system that puts that capital
+      to work within the parameters of the national development plan. Capitalists can
+      operate in the country, but they cannot dominate the system and allow their profit-seeking
+      behaviour to become paramount. In this way, the class struggle is tilted in favour
+      of the people. This is what separates the socialist system in China from the capitalist
+      systems in other countries. In The German Ideology (1846), Marx and Engels wrote
+      of the ‘muck of ages’ that needed to be set aside for a new world to be born.
+      This act of setting aside is going to take a very long time. The chicken feather
+      certainly has not yet reached heaven, but it is not in hell either. Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Vijay Prashad
+      Vijay Prashad is an Indian historian, editor and journalist. He is a writing fellow
+      and chief correspondent at Globetrotter. He is an editor of LeftWord Books and
+      the director of Tricontinental: Institute for Social Research . He is a senior
+      non-resident fellow at Chongyang Institute for Financial Studies , Renmin University
+      of China. He has written more than 20 books, including The Darker Nations and
+      The Poorer Nations . His latest books are Struggle Makes Us Human: Learning from
+      Movements for Socialism and (with Noam Chomsky) The Withdrawal: Iraq, Libya, Afghanistan,
+      and the Fragility of U.S. Power . Author Site Please share this story and help
+      us grow our network!'
+    one_sentence_summary: The article discusses the historical context of Mao Zedong's
+      publication "Socialist Upsurge in China’s Countryside" and its significance in
+      political education for the peasantry, highlighting a specific report that metaphorically
+      illustrates the potential for transformation and progress within the communist
+      movement.
+    paragraph_summary: In a reflection on Mao Zedong's influence on socialist ideology,
+      Vijay Prashad discusses the publication of "Socialist Upsurge in China’s Countryside"
+      in 1957, which aimed to educate the peasantry about socialism amidst the struggle
+      against capitalism. The article highlights a report from the Anyang Regional Communist
+      Party that emphasizes the transformative potential of socialism, likening it to
+      a chicken feather that can achieve the impossible. Mao's writings convey the tension
+      between the old capitalist system and the emerging socialist framework, acknowledging
+      that while socialism is a new endeavor, it must confront and overcome entrenched
+      traditional practices. The piece underscores the challenges faced by socialist
+      movements in reshaping society and the necessity of perseverance in the face of
+      resistance.
+    published: '2025-07-12T09:15:00+00:00'
+  - title: Federal Agents Spray Tear Gas at Protesters, Children During ICE Raids at
+      California Farms
+    url: https://scheerpost.com/2025/07/12/federal-agents-spray-tear-gas-at-protesters-children-during-ice-raids-at-california-farms/
+    text: 'Department of Homeland Security (DHS) Secretary Kristi Noem participates
+      in U.S. Immigration and Customs Enforcement (ICE) Enforcement and Removal Operations
+      (ERO) in Los Angeles, California, June 12, 2025. (DHS photo by Tia Dufour) In
+      one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Julia Conley / Common
+      Dreams Federal immigration agents were met with a strong show of resistance Thursday
+      when they raided two farms in Southern California—with hundreds of community members
+      protesting the arrests of migrants at the facilities growing cannabis and vegetables.
+      Los Angeles-based independent journalist Mel Buer reported that hundreds of community
+      members gathered to protest the raid by Immigration and Customs Enforcement (ICE)
+      at Glass House Farms’ facility in Camarillo, Ventura County, and supporters dropped
+      “hundreds of pounds of water, food, and masks.” Local news outlet KTLA reported
+      that “dozens of farmworkers were detained” in the raids at Glass House Farms’
+      properties in Camarillo and Carpinteria. Federal law enforcement first arrived
+      in Camarillo at about 11:00 am, and the situation escalated as a crowd of community
+      members gathered. The federal agents first deployed tear gas into the crowd early
+      Thursday afternoon. Ventura County District 5 Supervisor Vianey Lopez told KTLA
+      that as the federal agents used force on the protesters, she saw two government
+      vans, each carrying about 15 people, leaving the farm. “It is an ongoing situation
+      that is very concerning for the safety of those showing up with anger and disappointment
+      at what is happening to hardworking people in our community,” Lopez said. The
+      immigration enforcement agents were joined by National Guard troops in military
+      vehicles later that afternoon in Camarillo, according to The Guardian , as other
+      federal agents carried out a simultaneous raid in Carpinteria, about 50 miles
+      northwest in Santa Barbara County. Carpinteria City Council members Julia Mayer
+      and Mónica Solórzano were among a large crowd of community members who gathered
+      to protest the raid, and they told the Santa Barbara Independent that federal
+      officers “pushed us as a group into the ground” and threw at least one smoke grenade,
+      causing Solórzano to injure her arm. View this post on Instagram A post shared
+      by Santa Barbara Independent (@sbindependent) U.S. Rep. Salud Carbajal (D-Calif.),
+      who represents Santa Barbara County and part of Ventura County, released a statement
+      condemning the ICE raid and saying he had been “denied entry and not allowed to
+      pass” when he attempted to “conduct oversight” over the raid targeting his constituents
+      in Carpinteria. “ICE was conducting a raid using disproportionate displays of
+      force against local farmworkers and our agricultural community,” said Carbajal.
+      “There’s been a troubling lack of transparency from ICE since the Trump administration
+      started, and I won’t stop asking questions on behalf of my constituents.” Carbajal
+      is now one of several Democratic elected officials who have been denied the ability
+      to oversee ICE operations. Rep. LaMonica McIver (D-N.J.) pleaded not guilty last
+      month to forcibly interfering with federal officers—charges that stemmed from
+      her attempt to conduct congressional oversight at an ICE detention center in Newark,
+      New Jersey. “These militarized ICE raids are not how you keep our communities
+      safe. This kind of chaos only traumatizes families and tears communities apart.
+      They are also a gross misuse of limited resources and a betrayal of the values
+      that define us as Americans,” said Carbajal, who noted that the identities of
+      those detained in the raids had not been made clear. In Camarillo, a resident
+      named Judith Ramos told The Guardian that she had learned from her father, who
+      worked in Glass House Farms’ tomato fields, that “immigration was outside his
+      job” on Thursday morning. Ramos, a 22-year-old certified nurse assistant with
+      two younger siblings, said her father told her “to take care of everything” if
+      he was detained by ICE. She was sprayed with a chemical substance when she arrived
+      at the farm and joined the crowd of protesters, and told The Guardian that she
+      did not know where her father was. Gov. Gavin Newsom, a Democrat who has clashed
+      with President Donald Trump and filed a lawsuit against the administration last
+      month over its federalization of the California National Guard to respond to protests
+      against immigration raids in Los Angeles, posted a video showing children running
+      from the federal agents. Kids running from tear gas, crying on the phone because
+      their mother was just taken from the fields. Trump calls me “Newscum” — but he’s
+      the real scum. pic.twitter.com/fj0l25mRBN — Gavin Newsom (@GavinNewsom) July 11,
+      2025 “Trump calls me ‘Newscum,''” said the governor, “but he’s the real scum.”
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Julia Conley Julia Conley is a staff writer for Common Dreams. Author
+      Site Please share this story and help us grow our network!'
+    one_sentence_summary: Community members in Southern California strongly protested
+      against ICE raids on two farms, voicing their opposition to the arrests of migrants
+      working in the cannabis and vegetable industries.
+    paragraph_summary: On June 12, 2025, a significant protest erupted in Southern California
+      in response to Immigration and Customs Enforcement (ICE) raids at two farms, Glass
+      House Farms in Camarillo and Carpinteria, where dozens of farmworkers were detained.
+      Hundreds of community members rallied against the arrests, providing food, water,
+      and masks to those affected. The situation intensified when federal agents deployed
+      tear gas to disperse the crowd, leading to concerns about the safety of the protesters.
+      Local officials, including Ventura County District Supervisor Vianey Lopez, expressed
+      alarm over the aggressive tactics used by federal agents, who were supported by
+      National Guard troops in military vehicles. The events highlighted the community's
+      strong resistance to immigration enforcement actions targeting hardworking individuals
+      in the agricultural sector.
+    published: '2025-07-12T09:10:00+00:00'
+  - title: Federal Agents Spray Tear Gas at Protesters, Children During ICE Raids at
+      California Farms
+    url: https://scheerpost.com/2025/07/12/federal-agents-spray-tear-gas-at-protesters-children-during-ice-raids-at-california-farms/
+    text: 'Department of Homeland Security (DHS) Secretary Kristi Noem participates
+      in U.S. Immigration and Customs Enforcement (ICE) Enforcement and Removal Operations
+      (ERO) in Los Angeles, California, June 12, 2025. (DHS photo by Tia Dufour) In
+      one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Julia Conley / Common
+      Dreams Federal immigration agents were met with a strong show of resistance Thursday
+      when they raided two farms in Southern California—with hundreds of community members
+      protesting the arrests of migrants at the facilities growing cannabis and vegetables.
+      Los Angeles-based independent journalist Mel Buer reported that hundreds of community
+      members gathered to protest the raid by Immigration and Customs Enforcement (ICE)
+      at Glass House Farms’ facility in Camarillo, Ventura County, and supporters dropped
+      “hundreds of pounds of water, food, and masks.” Local news outlet KTLA reported
+      that “dozens of farmworkers were detained” in the raids at Glass House Farms’
+      properties in Camarillo and Carpinteria. Federal law enforcement first arrived
+      in Camarillo at about 11:00 am, and the situation escalated as a crowd of community
+      members gathered. The federal agents first deployed tear gas into the crowd early
+      Thursday afternoon. Ventura County District 5 Supervisor Vianey Lopez told KTLA
+      that as the federal agents used force on the protesters, she saw two government
+      vans, each carrying about 15 people, leaving the farm. “It is an ongoing situation
+      that is very concerning for the safety of those showing up with anger and disappointment
+      at what is happening to hardworking people in our community,” Lopez said. The
+      immigration enforcement agents were joined by National Guard troops in military
+      vehicles later that afternoon in Camarillo, according to The Guardian , as other
+      federal agents carried out a simultaneous raid in Carpinteria, about 50 miles
+      northwest in Santa Barbara County. Carpinteria City Council members Julia Mayer
+      and Mónica Solórzano were among a large crowd of community members who gathered
+      to protest the raid, and they told the Santa Barbara Independent that federal
+      officers “pushed us as a group into the ground” and threw at least one smoke grenade,
+      causing Solórzano to injure her arm. View this post on Instagram A post shared
+      by Santa Barbara Independent (@sbindependent) U.S. Rep. Salud Carbajal (D-Calif.),
+      who represents Santa Barbara County and part of Ventura County, released a statement
+      condemning the ICE raid and saying he had been “denied entry and not allowed to
+      pass” when he attempted to “conduct oversight” over the raid targeting his constituents
+      in Carpinteria. “ICE was conducting a raid using disproportionate displays of
+      force against local farmworkers and our agricultural community,” said Carbajal.
+      “There’s been a troubling lack of transparency from ICE since the Trump administration
+      started, and I won’t stop asking questions on behalf of my constituents.” Carbajal
+      is now one of several Democratic elected officials who have been denied the ability
+      to oversee ICE operations. Rep. LaMonica McIver (D-N.J.) pleaded not guilty last
+      month to forcibly interfering with federal officers—charges that stemmed from
+      her attempt to conduct congressional oversight at an ICE detention center in Newark,
+      New Jersey. “These militarized ICE raids are not how you keep our communities
+      safe. This kind of chaos only traumatizes families and tears communities apart.
+      They are also a gross misuse of limited resources and a betrayal of the values
+      that define us as Americans,” said Carbajal, who noted that the identities of
+      those detained in the raids had not been made clear. In Camarillo, a resident
+      named Judith Ramos told The Guardian that she had learned from her father, who
+      worked in Glass House Farms’ tomato fields, that “immigration was outside his
+      job” on Thursday morning. Ramos, a 22-year-old certified nurse assistant with
+      two younger siblings, said her father told her “to take care of everything” if
+      he was detained by ICE. She was sprayed with a chemical substance when she arrived
+      at the farm and joined the crowd of protesters, and told The Guardian that she
+      did not know where her father was. Gov. Gavin Newsom, a Democrat who has clashed
+      with President Donald Trump and filed a lawsuit against the administration last
+      month over its federalization of the California National Guard to respond to protests
+      against immigration raids in Los Angeles, posted a video showing children running
+      from the federal agents. Kids running from tear gas, crying on the phone because
+      their mother was just taken from the fields. Trump calls me “Newscum” — but he’s
+      the real scum. pic.twitter.com/fj0l25mRBN — Gavin Newsom (@GavinNewsom) July 11,
+      2025 “Trump calls me ‘Newscum,''” said the governor, “but he’s the real scum.”
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Julia Conley Julia Conley is a staff writer for Common Dreams. Author
+      Site Please share this story and help us grow our network!'
+    one_sentence_summary: Community members in Southern California strongly protested
+      against ICE raids on two farms, voicing their opposition to the arrests of migrants
+      working in the cannabis and vegetable industries.
+    paragraph_summary: On June 12, 2025, a significant protest erupted in Southern California
+      in response to Immigration and Customs Enforcement (ICE) raids at two farms, Glass
+      House Farms in Camarillo and Carpinteria, where dozens of farmworkers were detained.
+      Hundreds of community members rallied against the arrests, providing food, water,
+      and masks to those affected. The situation intensified when federal agents deployed
+      tear gas to disperse the crowd, leading to concerns about the safety of the protesters.
+      Local officials, including Ventura County District Supervisor Vianey Lopez, expressed
+      alarm over the aggressive tactics used by federal agents, who were supported by
+      National Guard troops in military vehicles. The events highlighted the community's
+      strong resistance to immigration enforcement actions targeting hardworking individuals
+      in the agricultural sector.
+    published: '2025-07-12T09:10:00+00:00'
+  - title: China, Russia Vow ‘Strategic Coordination’ To Promote Peace in West Asia
+    url: https://scheerpost.com/2025/07/12/china-russia-vow-strategic-coordination-to-promote-peace-in-west-asia/
+    text: 'External Affairs Minister co-chairs 16th Russia-India-China Foreign Ministerial
+      Trilateral Meeting in Wuzhen (February 27, 2019). Ministry of External Affairs,
+      GODL-India https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By The Cradle Chinese Foreign Minister Wang Yi told his Russian counterpart
+      on 10 July that Beijing and Moscow should strengthen strategic coordination to
+      promote peace in West Asia. According to a statement by China’s Foreign Ministry,
+      Yi said the two countries should push for a diplomatic solution to the Iran nuclear
+      issue during a meeting with Russia’s Foreign Minister Sergei Lavrov in Kuala Lumpur.
+      “Peace cannot be achieved through force, and applying pressure won’t solve problems.”
+      Dialogue and negotiations were the solution to the conflict, Yi added. The two
+      foreign ministers also discussed China–Russia coordination with the countries
+      comprising the Association of Southeast Asian Nations (ASEAN). “Russia and China
+      stand united in opposing actions and plans to militarize the region, including
+      attempts to deploy NATO-standard military infrastructure,” Russia’s Foreign Ministry
+      stated after the meeting. During the BRICS summit in Rio de Janeiro on 7 July,
+      Russian Foreign Minister Sergey Lavrov stated that Moscow was ready to aid in
+      mediating negotiations between the US and Iran over the Islamic Republic’s nuclear
+      program. Lavrov offered Russia’s technical assistance to help Iran replenish its
+      depleted uranium stocks by removing uranium enriched to near weapons-grade levels
+      and replacing it with uranium suitable for power generation. “We have technological
+      capacities and we are ready to offer them, taking the excess of overly enriched
+      uranium and returning the power-generation-grade uranium to the Islamic Republic
+      and its nuclear facilities.” The US and Israel have insisted that Iran end all
+      uranium enrichment on its own soil. Tehran insists that enriching uranium within
+      its borders is its right under international law and according to the Nuclear
+      Non-Proliferation Treaty (NPT). Iran is seeking relief from US sanctions in exchange
+      for limitations on its nuclear program, which it insists is for producing energy,
+      not a nuclear weapon. On 8 July, Iran denied US President Donald Trump’s claim
+      that it had requested to resume talks with the US over its nuclear program. “No
+      request for a meeting has been made on our side to the American side,” Iranian
+      Foreign Ministry spokesman Esmail Baghaei said on Tuesday. The US and Iran were
+      engaged in nuclear talks in June when Israel launched a surprise war on Tehran
+      on 13 June. During the 12-day war, Israeli bombing killed 1,060 people, while
+      Iran’s retaliatory drone and missile attacks on Israel resulted in at least 28
+      deaths. The US joined the attack on 22 June by bombing three of Iran’s major nuclear
+      sites, Fordow, Natanz, and Isfahan. Trump reportedly used the nuclear negotiations
+      to deceive Iranian leaders into thinking that no Israeli attack was imminent.
+      “Israel and the US carried out a multi-faceted misinformation campaign in recent
+      days to convince Iran that a strike on its nuclear facilities was not imminent,”
+      the Times of Israel reported. A US official told the Israeli news site that US
+      President Donald Trump was an “active participant in the ruse,” and knew about
+      the military operation in advance. Editor’s Note : A t a moment when the once
+      vaunted model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . The Cradle The Cradle is an online
+      news magazine covering West Asian geopolitics from within. Author Site Please
+      share this story and help us grow our network!'
+    one_sentence_summary: The article discusses the 16th Russia-India-China Foreign
+      Ministerial Trilateral Meeting co-chaired by India's External Affairs Minister,
+      highlighting the need for strategic coordination between China and Russia to promote
+      peace in West Asia and address the Iran nuclear issue through dialogue rather
+      than force.
+    paragraph_summary: During the 16th Russia-India-China Foreign Ministerial Trilateral
+      Meeting held in Wuzhen on February 27, 2019, External Affairs Minister of India
+      co-chaired discussions emphasizing the need for strategic coordination among the
+      three nations. In a separate meeting on July 10, Chinese Foreign Minister Wang
+      Yi and Russian Foreign Minister Sergei Lavrov underscored the importance of diplomatic
+      solutions to regional conflicts, particularly the Iran nuclear issue, advocating
+      for dialogue over force. They also expressed a united front against the militarization
+      of the ASEAN region and discussed Russia's willingness to mediate negotiations
+      between the US and Iran, offering technical assistance to help Iran manage its
+      uranium stocks responsibly.
+    published: '2025-07-12T09:05:00+00:00'
+  - title: China, Russia Vow ‘Strategic Coordination’ To Promote Peace in West Asia
+    url: https://scheerpost.com/2025/07/12/china-russia-vow-strategic-coordination-to-promote-peace-in-west-asia/
+    text: 'External Affairs Minister co-chairs 16th Russia-India-China Foreign Ministerial
+      Trilateral Meeting in Wuzhen (February 27, 2019). Ministry of External Affairs,
+      GODL-India https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By The Cradle Chinese Foreign Minister Wang Yi told his Russian counterpart
+      on 10 July that Beijing and Moscow should strengthen strategic coordination to
+      promote peace in West Asia. According to a statement by China’s Foreign Ministry,
+      Yi said the two countries should push for a diplomatic solution to the Iran nuclear
+      issue during a meeting with Russia’s Foreign Minister Sergei Lavrov in Kuala Lumpur.
+      “Peace cannot be achieved through force, and applying pressure won’t solve problems.”
+      Dialogue and negotiations were the solution to the conflict, Yi added. The two
+      foreign ministers also discussed China–Russia coordination with the countries
+      comprising the Association of Southeast Asian Nations (ASEAN). “Russia and China
+      stand united in opposing actions and plans to militarize the region, including
+      attempts to deploy NATO-standard military infrastructure,” Russia’s Foreign Ministry
+      stated after the meeting. During the BRICS summit in Rio de Janeiro on 7 July,
+      Russian Foreign Minister Sergey Lavrov stated that Moscow was ready to aid in
+      mediating negotiations between the US and Iran over the Islamic Republic’s nuclear
+      program. Lavrov offered Russia’s technical assistance to help Iran replenish its
+      depleted uranium stocks by removing uranium enriched to near weapons-grade levels
+      and replacing it with uranium suitable for power generation. “We have technological
+      capacities and we are ready to offer them, taking the excess of overly enriched
+      uranium and returning the power-generation-grade uranium to the Islamic Republic
+      and its nuclear facilities.” The US and Israel have insisted that Iran end all
+      uranium enrichment on its own soil. Tehran insists that enriching uranium within
+      its borders is its right under international law and according to the Nuclear
+      Non-Proliferation Treaty (NPT). Iran is seeking relief from US sanctions in exchange
+      for limitations on its nuclear program, which it insists is for producing energy,
+      not a nuclear weapon. On 8 July, Iran denied US President Donald Trump’s claim
+      that it had requested to resume talks with the US over its nuclear program. “No
+      request for a meeting has been made on our side to the American side,” Iranian
+      Foreign Ministry spokesman Esmail Baghaei said on Tuesday. The US and Iran were
+      engaged in nuclear talks in June when Israel launched a surprise war on Tehran
+      on 13 June. During the 12-day war, Israeli bombing killed 1,060 people, while
+      Iran’s retaliatory drone and missile attacks on Israel resulted in at least 28
+      deaths. The US joined the attack on 22 June by bombing three of Iran’s major nuclear
+      sites, Fordow, Natanz, and Isfahan. Trump reportedly used the nuclear negotiations
+      to deceive Iranian leaders into thinking that no Israeli attack was imminent.
+      “Israel and the US carried out a multi-faceted misinformation campaign in recent
+      days to convince Iran that a strike on its nuclear facilities was not imminent,”
+      the Times of Israel reported. A US official told the Israeli news site that US
+      President Donald Trump was an “active participant in the ruse,” and knew about
+      the military operation in advance. Editor’s Note : A t a moment when the once
+      vaunted model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . The Cradle The Cradle is an online
+      news magazine covering West Asian geopolitics from within. Author Site Please
+      share this story and help us grow our network!'
+    one_sentence_summary: The article discusses the 16th Russia-India-China Foreign
+      Ministerial Trilateral Meeting co-chaired by India's External Affairs Minister,
+      highlighting the need for strategic coordination between China and Russia to promote
+      peace in West Asia and address the Iran nuclear issue through dialogue rather
+      than force.
+    paragraph_summary: During the 16th Russia-India-China Foreign Ministerial Trilateral
+      Meeting held in Wuzhen on February 27, 2019, External Affairs Minister of India
+      co-chaired discussions emphasizing the need for strategic coordination among the
+      three nations. In a separate meeting on July 10, Chinese Foreign Minister Wang
+      Yi and Russian Foreign Minister Sergei Lavrov underscored the importance of diplomatic
+      solutions to regional conflicts, particularly the Iran nuclear issue, advocating
+      for dialogue over force. They also expressed a united front against the militarization
+      of the ASEAN region and discussed Russia's willingness to mediate negotiations
+      between the US and Iran, offering technical assistance to help Iran manage its
+      uranium stocks responsibly.
+    published: '2025-07-12T09:05:00+00:00'
+  - title: Sanitation Workers Demand Higher Wages as Trash Pickup Strikes Spread Nationwide
+    url: https://scheerpost.com/2025/07/12/sanitation-workers-demand-higher-wages-as-trash-pickup-strikes-spread-nationwide/
+    text: 'New York City Department of Sanitation (DSNY). ajay_suresh, CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Mike Ludwig / Truthout Alocal sanitation workers strike that began
+      on July 1 in Boston, Massachusetts, and left trash unpicked across the city is
+      now spreading nationwide in a series of labor actions coordinated by the Teamsters
+      union as frustrated workers demand better pay and benefits from Republic Services,
+      a major waste disposal company. The Teamsters said on July 9 that 2,000 sanitation
+      workers were on strike in multiple cities while others refused to cross picket
+      lines in solidarity with striking workers at local Republic Services sites in
+      Massachusetts, Illinois , Washington State , and California . For example, workers
+      in the Bay Area launched a temporary trash pickup stoppage this week in solidarity
+      with fellow workers striking over negotiations with Republic Services for better
+      pay at a regional landfill near Stockton. “Republic Services has been threatening
+      a war with American workers for years — and now, they’ve got one,” said Teamsters
+      General President Sean M. O’Brien in a statement on Wednesday. While trash collection
+      has resumed in some Boston residential neighborhoods, trash bags continued to
+      pile up this week outside businesses and in dumpsters as sanitation workers demand
+      higher wages, better benefits, and paid time off, according to local reports.
+      The Boston City Council voted unanimously on July 9 to support the workers in
+      their strike, which council members said was both a labor issue and a public health
+      issue. In a statement to local media this week, Teamsters Local 25 in Boston told
+      Republic Services on July 3 that it was prepared to extend the picket line to
+      other cities if the company failed to begin contract negotiations with the union
+      by July 7, but the company did not meet the deadline. Republic Services is a private
+      contractor in charge of waste pickup and disposal in cities across the country,
+      and work stoppages spread coast to coast this week after Local 25 extended the
+      picket line to job sites beyond Boston. Republic Services did not respond to a
+      request for comment from Truthout by the time this story was published. In a statement
+      to local media in Boston, the company said it stands ready to meet with the Teamsters
+      Local 25 “when they are ready to re-engage.” “We will continue to focus on providing
+      service and doing right by our employees,” Republic Services said. “We call on
+      Teamsters’ leadership to immediately stop the instigation, intimidation, and criminal
+      acts, and resolve this situation.” The right to join a union and go on strike
+      is protected by federal labor law, so it’s unclear what “criminal acts” Republic
+      Services could be referring to in its response to Local 25 in Boston. Raising
+      the specter of criminal prosecution may itself be an intimidation tactic. O’Brien
+      said the Teamsters are not backing down because Republic Services “abuses and
+      underpays” sanitation workers serving communities across the country. “They burn
+      massive profits and funnel money to undeserving, corrupt executives,” O’Brien
+      said. “The Teamsters have had it with Republic. We will flood the streets and
+      shut down garbage collection in state after state. Workers are uniting nationwide,
+      and we will get the wages and benefits we’ve earned, come hell or high water.”
+      In a statement, the Teamsters union says Republic Services has refused to bargain
+      in good faith and settle fair labor contracts with sanitation workers despite
+      months of negotiations in cities around the country. Instead, the company has
+      resorted to “union-busting tactics” and “illegal threats” in order to provoke
+      a nationwide strike. Teamsters General Secretary-Treasurer Fred Zuckerman said
+      Republic Services is one of the most “depraved employers we’ve ever come across.”
+      “Republic has lied, stalled, and broken the law to try to squeeze every last dime
+      out of workers. But these corporate thieves have underestimated our members,”
+      Zuckerman said in a statement on July 9. The war of words comes as work stoppages
+      spread, potentially delaying trash pickup for millions of people. However, Zuckerman
+      said the Teamsters will not give up until they receive a fair contract from Republic
+      Services. “To the millions of Americans seeing their trash pile up because of
+      Republic’s strike, remember one thing: this corporation has hauled in $77 billion,”
+      said Victor Mineros, director of the Teamsters Solid Waste and Recycling Division,
+      in a statement. “Republic can easily afford a fair and competitive contract that
+      meets the needs of everyday hardworking Americans.” While Truthout was unable
+      to verify that Republic Services has brought in $77 billion in revenue, an earnings
+      statement released to investors shows the company had a net income of $2 billion
+      in 2024. Republic Services reported revenue growth at 5.6 percent over the three
+      months ending in December 2024, and the company returned nearly $1.2 billion to
+      shareholders last year. Adan Alvarez, a waste management worker in southern California,
+      said his local Teamsters union is not technically on strike against Republic Services.
+      Instead, their union contract allows workers to refuse crossing a picket line,
+      and workers in southern California announced a work stoppage after Local 25 in
+      Boston extended its picket line this week. Alvarez and fellow workers are responsible
+      for safely transporting hazardous materials, and their contract with Republic
+      Services expires next year. “The reason we support one another is there is strength
+      in numbers,” Alvarez told Truthout in an interview. Mineros said sanitation and
+      waste management workers perform “dangerous, high-stakes jobs” that protect local
+      communities and the environment from pollution and hazardous waste. “They deserve
+      a contract that respects their contributions — not lowball proposals and corporate
+      stonewalling. The company must bargain in good faith,” Mineros said. Meanwhile,
+      after more than a week of work stoppage, an unrelated trash pickup and city services
+      strike in Philadelphia, Pennsylvania, came to an end after eight days in the early
+      hours of Wednesday morning after members of the local American Federation of State,
+      Council and Municipal Employees (AFSCME) union reached a tentative finalized a
+      contract with city officials. However, rank- and- file workers still need to approve
+      the contract, and some union leaders left the final negotiations in frustration.
+      The deal includes a one-time $1,500 bonus and a 3 percent annual wage increase
+      for three years, for a total of 9 percent by 2028, according to reports . Union
+      leaders pushed for a 5 percent annual wage increase after originally proposing
+      an 8 percent annual increase. The average salary for a sanitation worker is $46,000
+      a year in Philadelphia, which the union argues is not a living wage. Greg Boulware,
+      president of the AFSCME local representing public workers in Philadelphia, told
+      the Philadelphia Inquirer that the strike is over and “nobody’s happy” as he left
+      negotiations with the city on Wednesday. If the rank and file reject the deal,
+      Boulware said the strike could potentially resume . “We felt our clock was running
+      out,” Boulware said. Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Mike Ludwig Mike Ludwig is a staff reporter
+      at Truthout based in New Orleans. He is also the writer and host of “ Climate
+      Front Lines ,” a podcast about the people, places and ecosystems on the front
+      lines of the climate crisis. Follow him on Twitter: @ludwig_mike . Author Site
+      Please share this story and help us grow our network!'
+    one_sentence_summary: A strike by sanitation workers that began in Boston on July
+      1 is expanding nationwide, as the Teamsters union coordinates labor actions across
+      multiple cities to demand better pay and benefits from Republic Services.
+    paragraph_summary: A sanitation workers strike that began on July 1 in Boston is
+      expanding nationwide, driven by the Teamsters union as workers demand improved
+      pay and benefits from Republic Services, a major waste disposal company. As of
+      July 9, around 2,000 workers are on strike in various cities, with others showing
+      solidarity by refusing to cross picket lines. In the Bay Area, workers temporarily
+      halted trash pickup in support of their striking colleagues. While some trash
+      collection has resumed in Boston, significant amounts of waste remain uncollected,
+      prompting the Boston City Council to unanimously support the workers, framing
+      the strike as both a labor and public health issue. Teamsters General President
+      Sean M. O’Brien emphasized that Republic Services has been antagonistic towards
+      American workers, leading to the current labor unrest.
+    published: '2025-07-12T09:00:00+00:00'
+  - title: Sanitation Workers Demand Higher Wages as Trash Pickup Strikes Spread Nationwide
+    url: https://scheerpost.com/2025/07/12/sanitation-workers-demand-higher-wages-as-trash-pickup-strikes-spread-nationwide/
+    text: 'New York City Department of Sanitation (DSNY). ajay_suresh, CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Mike Ludwig / Truthout Alocal sanitation workers strike that began
+      on July 1 in Boston, Massachusetts, and left trash unpicked across the city is
+      now spreading nationwide in a series of labor actions coordinated by the Teamsters
+      union as frustrated workers demand better pay and benefits from Republic Services,
+      a major waste disposal company. The Teamsters said on July 9 that 2,000 sanitation
+      workers were on strike in multiple cities while others refused to cross picket
+      lines in solidarity with striking workers at local Republic Services sites in
+      Massachusetts, Illinois , Washington State , and California . For example, workers
+      in the Bay Area launched a temporary trash pickup stoppage this week in solidarity
+      with fellow workers striking over negotiations with Republic Services for better
+      pay at a regional landfill near Stockton. “Republic Services has been threatening
+      a war with American workers for years — and now, they’ve got one,” said Teamsters
+      General President Sean M. O’Brien in a statement on Wednesday. While trash collection
+      has resumed in some Boston residential neighborhoods, trash bags continued to
+      pile up this week outside businesses and in dumpsters as sanitation workers demand
+      higher wages, better benefits, and paid time off, according to local reports.
+      The Boston City Council voted unanimously on July 9 to support the workers in
+      their strike, which council members said was both a labor issue and a public health
+      issue. In a statement to local media this week, Teamsters Local 25 in Boston told
+      Republic Services on July 3 that it was prepared to extend the picket line to
+      other cities if the company failed to begin contract negotiations with the union
+      by July 7, but the company did not meet the deadline. Republic Services is a private
+      contractor in charge of waste pickup and disposal in cities across the country,
+      and work stoppages spread coast to coast this week after Local 25 extended the
+      picket line to job sites beyond Boston. Republic Services did not respond to a
+      request for comment from Truthout by the time this story was published. In a statement
+      to local media in Boston, the company said it stands ready to meet with the Teamsters
+      Local 25 “when they are ready to re-engage.” “We will continue to focus on providing
+      service and doing right by our employees,” Republic Services said. “We call on
+      Teamsters’ leadership to immediately stop the instigation, intimidation, and criminal
+      acts, and resolve this situation.” The right to join a union and go on strike
+      is protected by federal labor law, so it’s unclear what “criminal acts” Republic
+      Services could be referring to in its response to Local 25 in Boston. Raising
+      the specter of criminal prosecution may itself be an intimidation tactic. O’Brien
+      said the Teamsters are not backing down because Republic Services “abuses and
+      underpays” sanitation workers serving communities across the country. “They burn
+      massive profits and funnel money to undeserving, corrupt executives,” O’Brien
+      said. “The Teamsters have had it with Republic. We will flood the streets and
+      shut down garbage collection in state after state. Workers are uniting nationwide,
+      and we will get the wages and benefits we’ve earned, come hell or high water.”
+      In a statement, the Teamsters union says Republic Services has refused to bargain
+      in good faith and settle fair labor contracts with sanitation workers despite
+      months of negotiations in cities around the country. Instead, the company has
+      resorted to “union-busting tactics” and “illegal threats” in order to provoke
+      a nationwide strike. Teamsters General Secretary-Treasurer Fred Zuckerman said
+      Republic Services is one of the most “depraved employers we’ve ever come across.”
+      “Republic has lied, stalled, and broken the law to try to squeeze every last dime
+      out of workers. But these corporate thieves have underestimated our members,”
+      Zuckerman said in a statement on July 9. The war of words comes as work stoppages
+      spread, potentially delaying trash pickup for millions of people. However, Zuckerman
+      said the Teamsters will not give up until they receive a fair contract from Republic
+      Services. “To the millions of Americans seeing their trash pile up because of
+      Republic’s strike, remember one thing: this corporation has hauled in $77 billion,”
+      said Victor Mineros, director of the Teamsters Solid Waste and Recycling Division,
+      in a statement. “Republic can easily afford a fair and competitive contract that
+      meets the needs of everyday hardworking Americans.” While Truthout was unable
+      to verify that Republic Services has brought in $77 billion in revenue, an earnings
+      statement released to investors shows the company had a net income of $2 billion
+      in 2024. Republic Services reported revenue growth at 5.6 percent over the three
+      months ending in December 2024, and the company returned nearly $1.2 billion to
+      shareholders last year. Adan Alvarez, a waste management worker in southern California,
+      said his local Teamsters union is not technically on strike against Republic Services.
+      Instead, their union contract allows workers to refuse crossing a picket line,
+      and workers in southern California announced a work stoppage after Local 25 in
+      Boston extended its picket line this week. Alvarez and fellow workers are responsible
+      for safely transporting hazardous materials, and their contract with Republic
+      Services expires next year. “The reason we support one another is there is strength
+      in numbers,” Alvarez told Truthout in an interview. Mineros said sanitation and
+      waste management workers perform “dangerous, high-stakes jobs” that protect local
+      communities and the environment from pollution and hazardous waste. “They deserve
+      a contract that respects their contributions — not lowball proposals and corporate
+      stonewalling. The company must bargain in good faith,” Mineros said. Meanwhile,
+      after more than a week of work stoppage, an unrelated trash pickup and city services
+      strike in Philadelphia, Pennsylvania, came to an end after eight days in the early
+      hours of Wednesday morning after members of the local American Federation of State,
+      Council and Municipal Employees (AFSCME) union reached a tentative finalized a
+      contract with city officials. However, rank- and- file workers still need to approve
+      the contract, and some union leaders left the final negotiations in frustration.
+      The deal includes a one-time $1,500 bonus and a 3 percent annual wage increase
+      for three years, for a total of 9 percent by 2028, according to reports . Union
+      leaders pushed for a 5 percent annual wage increase after originally proposing
+      an 8 percent annual increase. The average salary for a sanitation worker is $46,000
+      a year in Philadelphia, which the union argues is not a living wage. Greg Boulware,
+      president of the AFSCME local representing public workers in Philadelphia, told
+      the Philadelphia Inquirer that the strike is over and “nobody’s happy” as he left
+      negotiations with the city on Wednesday. If the rank and file reject the deal,
+      Boulware said the strike could potentially resume . “We felt our clock was running
+      out,” Boulware said. Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Mike Ludwig Mike Ludwig is a staff reporter
+      at Truthout based in New Orleans. He is also the writer and host of “ Climate
+      Front Lines ,” a podcast about the people, places and ecosystems on the front
+      lines of the climate crisis. Follow him on Twitter: @ludwig_mike . Author Site
+      Please share this story and help us grow our network!'
+    one_sentence_summary: A strike by sanitation workers that began in Boston on July
+      1 is expanding nationwide, as the Teamsters union coordinates labor actions across
+      multiple cities to demand better pay and benefits from Republic Services.
+    paragraph_summary: A sanitation workers strike that began on July 1 in Boston is
+      expanding nationwide, driven by the Teamsters union as workers demand improved
+      pay and benefits from Republic Services, a major waste disposal company. As of
+      July 9, around 2,000 workers are on strike in various cities, with others showing
+      solidarity by refusing to cross picket lines. In the Bay Area, workers temporarily
+      halted trash pickup in support of their striking colleagues. While some trash
+      collection has resumed in Boston, significant amounts of waste remain uncollected,
+      prompting the Boston City Council to unanimously support the workers, framing
+      the strike as both a labor and public health issue. Teamsters General President
+      Sean M. O’Brien emphasized that Republic Services has been antagonistic towards
+      American workers, leading to the current labor unrest.
+    published: '2025-07-12T09:00:00+00:00'
+  - title: Nearly 80% of Americans Think Immigration Is Good for the Country, Poll Show
+    url: https://scheerpost.com/2025/07/11/nearly-80-of-americans-think-immigration-is-good-for-the-country-poll-show/
+    text: 'Department of Homeland Security (DHS) Secretary Kristi Noem participates
+      in U.S. Immigration and Customs Enforcement (ICE) Enforcement and Removal Operations
+      (ERO) in Los Angeles, California, June 12, 2025. (DHS photo by Tia Dufour) In
+      one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Diego Ramos / Original
+      to ScheerPost A new Gallup poll shows a dramatic shift in Americans’ perception
+      of immigrants, with nearly 80% of U.S. adults saying immigration is “good” for
+      the country. Compared to data from 2024, this marks an increase from 64% last
+      year, with views of immigration being “bad” for the U.S. dropping from 32%. According
+      to an AP News report , “During Democratic President Joe Biden’s term in office,
+      negative views of immigration had increased markedly, reaching a high point in
+      the months before Trump, a Republican, took office.” A vast majority of Americans
+      “favor a pathway to citizenship for immigrants who were brought to the U.S. illegally
+      as children,” with 85% of adults approving this. Despite Trump’s clear immigration
+      strategy, which has seen mass unrest across the country in the last few months,
+      the shift in perception comes mainly from Republicans and independents. According
+      to Gallup, “the eight-point increase in support for giving immigrants living in
+      the U.S. illegally the chance to become U.S. citizens reflects increased support
+      from all party groups, with the biggest gain among Republicans (up 13 points to
+      59%).” Most Americans disapprove of Trump’s strategy of dealing with immigration
+      as well, with 62% of adults expressing disapproval and only 35% approve. The Gallup
+      report also demonstrated a decrease in support for immigration enforcement, with
+      support for increasing the number of Border Patrol agents down 17 points to 59%,
+      from 76% a year ago. Support for deporting all undocumented immigrants is also
+      down from 47% last year to 38%. Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Diego Ramos Diego Ramos, ScheerPost
+      managing editor and New York bureau chief, is a journalist from Queens, NY. He
+      graduated from the University of Southern California in 2022 with a bachelor’s
+      degree in journalism. He has previously worked at BuzzFeed News and was managing
+      editor of Annenberg News at USC. He’s covered and researched myriad topics including
+      war, politics, psychedelic research and sports. author link Please share this
+      story and help us grow our network!'
+    one_sentence_summary: A recent Gallup poll reveals a significant shift in American
+      attitudes toward immigration, with nearly 80% now viewing it positively, up from
+      64% in 2024, amidst changing political dynamics under President Biden.
+    paragraph_summary: A recent Gallup poll reveals a significant shift in American
+      attitudes towards immigration, with nearly 80% of U.S. adults now viewing it as
+      beneficial for the country, up from 64% in 2024. This change is particularly notable
+      among Republicans and independents, with support for a pathway to citizenship
+      for undocumented immigrants brought to the U.S. as children reaching 85%. Disapproval
+      of former President Trump's immigration policies is also high, with 62% of adults
+      expressing dissatisfaction. Additionally, support for increasing Border Patrol
+      agents has declined by 17 points, indicating a growing trend towards more favorable
+      views on immigration and a desire for reform.
+    published: '2025-07-11T20:36:33+00:00'
+  - title: Nearly 80% of Americans Think Immigration Is Good for the Country, Poll Show
+    url: https://scheerpost.com/2025/07/11/nearly-80-of-americans-think-immigration-is-good-for-the-country-poll-show/
+    text: 'Department of Homeland Security (DHS) Secretary Kristi Noem participates
+      in U.S. Immigration and Customs Enforcement (ICE) Enforcement and Removal Operations
+      (ERO) in Los Angeles, California, June 12, 2025. (DHS photo by Tia Dufour) In
+      one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Diego Ramos / Original
+      to ScheerPost A new Gallup poll shows a dramatic shift in Americans’ perception
+      of immigrants, with nearly 80% of U.S. adults saying immigration is “good” for
+      the country. Compared to data from 2024, this marks an increase from 64% last
+      year, with views of immigration being “bad” for the U.S. dropping from 32%. According
+      to an AP News report , “During Democratic President Joe Biden’s term in office,
+      negative views of immigration had increased markedly, reaching a high point in
+      the months before Trump, a Republican, took office.” A vast majority of Americans
+      “favor a pathway to citizenship for immigrants who were brought to the U.S. illegally
+      as children,” with 85% of adults approving this. Despite Trump’s clear immigration
+      strategy, which has seen mass unrest across the country in the last few months,
+      the shift in perception comes mainly from Republicans and independents. According
+      to Gallup, “the eight-point increase in support for giving immigrants living in
+      the U.S. illegally the chance to become U.S. citizens reflects increased support
+      from all party groups, with the biggest gain among Republicans (up 13 points to
+      59%).” Most Americans disapprove of Trump’s strategy of dealing with immigration
+      as well, with 62% of adults expressing disapproval and only 35% approve. The Gallup
+      report also demonstrated a decrease in support for immigration enforcement, with
+      support for increasing the number of Border Patrol agents down 17 points to 59%,
+      from 76% a year ago. Support for deporting all undocumented immigrants is also
+      down from 47% last year to 38%. Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Diego Ramos Diego Ramos, ScheerPost
+      managing editor and New York bureau chief, is a journalist from Queens, NY. He
+      graduated from the University of Southern California in 2022 with a bachelor’s
+      degree in journalism. He has previously worked at BuzzFeed News and was managing
+      editor of Annenberg News at USC. He’s covered and researched myriad topics including
+      war, politics, psychedelic research and sports. author link Please share this
+      story and help us grow our network!'
+    one_sentence_summary: A recent Gallup poll reveals a significant shift in American
+      attitudes toward immigration, with nearly 80% now viewing it positively, up from
+      64% in 2024, amidst changing political dynamics under President Biden.
+    paragraph_summary: A recent Gallup poll reveals a significant shift in American
+      attitudes towards immigration, with nearly 80% of U.S. adults now viewing it as
+      beneficial for the country, up from 64% in 2024. This change is particularly notable
+      among Republicans and independents, with support for a pathway to citizenship
+      for undocumented immigrants brought to the U.S. as children reaching 85%. Disapproval
+      of former President Trump's immigration policies is also high, with 62% of adults
+      expressing dissatisfaction. Additionally, support for increasing Border Patrol
+      agents has declined by 17 points, indicating a growing trend towards more favorable
+      views on immigration and a desire for reform.
+    published: '2025-07-11T20:36:33+00:00'
+  - title: SAM vs. SPAM
+    url: https://scheerpost.com/2025/07/11/sam-vs-spam/
+    text: At a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the plaything of self-serving billionaires, alternatives of integrity are desperately
+      needed. We are one of them, proof being that with decidedly limited resources,
+      we have attracted readers from around the world who have viewed our content more
+      than 17 million times. We are honored to have your support.
+    one_sentence_summary: The article emphasizes the need for integrity in journalism
+      amidst the influence of wealthy individuals, highlighting the success of their
+      own platform in attracting a global audience despite limited resources.
+    paragraph_summary: The article highlights the decline of responsible journalism,
+      which has become dominated by self-serving billionaires, and emphasizes the urgent
+      need for alternatives that uphold integrity. The authors assert that their platform
+      serves as such an alternative, having garnered significant global readership with
+      over 17 million views despite limited resources, and express gratitude for the
+      support they have received.
+    published: '2025-07-11T13:20:46+00:00'
+  - title: US Campuses Have Become the Newest Laboratories for Surveillance Technology
+    url: https://scheerpost.com/2025/07/11/us-campuses-have-become-the-newest-laboratories-for-surveillance-technology/
+    text: 'A protester is dragged out by Texas State Troopers at a pro-Palestinian protest.
+      ScreamOfTheNight, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Elham Azad / Truthout In early June 2025, The Guardian revealed
+      that the University of Michigan paid over $800,000 to Amerishield, parent company
+      to a private security company called City Shield. It was part of a broader $3
+      million public‑security budget, which included surveillance of pro‑Palestinian
+      student activists. The university hired plainclothes agents who trailed students
+      into cafés, harassed them, and even staged confrontations, including faking a
+      disability to falsely accuse them of theft. City Shield , a private security agency
+      based out of Detroit, used the supposed evidence collected by their agents against
+      these students to prosecute them and send them to jail. Massive Blue, a company
+      based in New York, has created a surveillance tool called Overwatch that uses
+      AI to monitor online spaces. Although this tool is sold and marketed as a public
+      safety tool, the technology uses AI-generated virtual characters that infiltrate
+      online groups, take part in conversations, and collect intelligence, particularly
+      targeting college protesters and activists labeled as “radicalized.” These bots
+      are created to imitate human behavior, making them very hard to detect. The tech
+      stack these agencies deploy is formidable: geofencing tools, license plate readers,
+      real-time social media surveillance, predictive analytics. Even Radian6, a Salesforce
+      product, has been linked to student protest monitoring . These tools don’t just
+      observe behavior, they anticipate it, allowing administrators and police to intervene
+      before a rally even begins. This surveillance is not merely bureaucratic overreach.
+      It is an act of intimidation, one that reflects an ideological alignment with
+      systems of repression abroad. In Gaza, for example, humanitarian aid is increasingly
+      distributed only through biometric registration , leaving starving Palestinians
+      with no choice but to submit to facial and fingerprint scans to access food. Although
+      aid agencies and occupying forces justify this as a form of “efficiency,” it can
+      only be seen as coercive surveillance, stripping Palestinians of dignity and autonomy
+      under the guise of relief. Within the United States, university officials have
+      increasingly turned to firms like ShadowDragon, Skydio, and Stellar Technologies,
+      whose tools are capable of profiling, analyzing, and geolocating social media
+      posts , drone-mapping encampments , and even identifying masked protestors through
+      AI-enhanced facial recognition . These companies aren’t developing tools for student
+      safety. They’re developing battlefield tech and students are the new targets.
+      In April 2024, when students at Columbia University set up a peaceful encampment
+      to protest the genocide in Gaza, few expected the administration to respond with
+      mass arrests. Fewer still understood the extent to which military-grade surveillance
+      technologies were already in place to track them. In the same month, Jewish Currents
+      reported on Yale University’s use of drones, surveillance cameras, and plainclothes
+      officers to monitor pro-Palestine student activists. Surveillance footage was
+      used to identify students who had not violated any laws but had simply been present.
+      Meanwhile, in May 2025, it was revealed that LAPD used Dataminr to track the social
+      media activity of students organizing pro-Palestine events . Surveillance reports
+      included screenshots of Instagram stories, private group chats, and Twitter threads.
+      Some of this data was sourced using tools built by Dataminr and Social Sentinel,
+      both of which specialize in identifying “emerging threats” by combing through
+      vast amounts of social media data tools originally developed for use by law enforcement
+      and intelligence agencies. In addition, in March 2024, it was revealed that Elon
+      Musk’s X was also selling user data to Dataminr . The logic is chillingly consistent:
+      Dissent is pathologized, monitored, and neutralized while capitalists keep making
+      money. And universities have become willing partners in this process. In my Ph.D.
+      research, I studied surveillance infrastructures, particularly in contexts where
+      settler colonial regimes seek to erase dissent. What we’re seeing on U.S. campuses
+      today mirrors repression models from places like East Turkestan (Xinjiang), where
+      everyday resistance is quelled through predictive monitoring and data extraction
+      . What this tells us is that surveillance isn’t about protection, it’s about power.
+      And American universities are rapidly becoming test beds for the kind of repressive
+      technology we associate with authoritarian states abroad. The money behind these
+      technologies flows through a familiar nexus of venture capital firms , defense
+      contractors, and government agencies. ShadowDragon, for example, has been celebrated
+      by the World Economic Forum and boasts contracts with U.S. law enforcement and
+      military branches. Cobwebs Technologies, Xtend, and Oosto are Israeli surveillance
+      companies whose products are now being deployed against student activists in the
+      U.S . These firms have marketed their tools based on effectiveness in tracking
+      Palestinians and other “high-risk” populations. Now, they are used on American
+      campuses to monitor solidarity. There is a historical precedent to this kind of
+      repression. During the civil rights and antiwar movements of the 1960s and 70s,
+      FBI programs like COINTELPRO targeted student activist groups like the Student
+      Nonviolent Coordinating Committee (SNCC) and Students for a Democratic Society
+      (SDS), and organizations like the Black Panther Party, with infiltration, wiretaps,
+      and blackmail. The FBI’s targeting of student and civil rights activists through
+      COINTELPRO is well-documented, as explored in this Yale News interview with historian
+      Beverly Gage, who says J. Edgar Hoover’s tactics were both coercive and widely
+      normalized. Hoover was the first director of the FBI, serving from 1924 until
+      his death in 1972. However, the difference today is scale and automation. Rather
+      than needing a human informant in every room, university administrators can now
+      rely on machine learning algorithms to scan student emails, monitor group chats,
+      and alert authorities to so-called “escalation indicators.” Recently, billionaire
+      investor Kevin O’Leary called for permanently destroying the digital lives of
+      student protesters using AI-based doxxing campaigns . While O’Leary was widely
+      condemned, his dystopian vision isn’t far from the reality already taking root.
+      Companies like Babel Street and Stellar Technologies offer tools with the explicit
+      promise of identifying individuals based on minimal data inputs like a partial
+      image or a Twitter handle. Tools like NesherAI claim to identify masked individuals
+      in a crowd using behavioral and gait analysis. Corsight AI advertises facial recognition
+      that works through masks, hoods, and sunglasses. These are not theoretical tools.
+      They’re being piloted now, often in secret, and often in tandem with increasing
+      police presence on campuses. These developments must be viewed in the broader
+      context of the militarization of civilian life. The pipeline between Gaza and
+      Georgia Tech is not rhetorical. Technologies field-tested in war zones are refined
+      and normalized on American campuses, where students are reduced to data points
+      in behavioral prediction models. Israeli firms developed surveillance for use
+      in Gaza and the West Bank are now contracted domestically. Surveillance technologies
+      once reserved for military and foreign operations are now being deployed on U.S.
+      university campuses, targeting student protestors, particularly those demonstrating
+      for Palestine. These tools are not isolated innovations. Many were tested on Palestinians
+      and Uyghurs before being repurposed for U.S. settings. This is not a breakdown
+      of democratic norms but their systematic redirection using universities as testbeds
+      for next-generation policing. University administrators often claim that surveillance
+      is about safety. But whose safety? Lately, surveillance tools have mostly targeted
+      the most vulnerable in our communities: Muslims, Indigenous people, undocumented
+      immigrants, Black people, and anyone who supports Palestinian liberation and an
+      end to the U.S.-sponsored genocide in Gaza. They claim that these tools are here
+      to protect us, but in truth, they only serve to erase us, discipline us, and punish
+      us. It doesn’t have to be this way. Campuses have historically been sites of inquiry,
+      dissent, and transformation, not laboratories for digital repression, and we must
+      fight to keep them that way. We must reject the narrative that surveillance is
+      inevitable. It is not. It is a political choice, made behind closed doors, mostly
+      without consent or oversight of those who are affected the most. Surveillance
+      Watch is one intervention in this landscape, an attempt to shift the power back
+      to those being watched. It is a community‑driven project that deploys interactive
+      maps and databases to reveal the web of surveillance companies, their funders,
+      subsidiaries, affiliations, and global operations in an effort to make opaque
+      surveillance networks transparent. However, we need more. We need more public
+      and legal accountability, more student organizing, more media scrutiny, and way
+      more institutional courage. We need to say, unequivocally, that resistance is
+      not a threat. It is a right. We are not subjects. We are watching back. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Elham Azad Elham
+      Azad is a Ph.D. scholar and a senior research fellow with Surveillance Watch .
+      Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: The University of Michigan reportedly spent over $800,000
+      on a private security firm to surveil and harass pro-Palestinian student activists,
+      including employing undercover agents to stage confrontations and falsely accuse
+      them of theft.
+    paragraph_summary: In June 2025, The Guardian reported that the University of Michigan
+      allocated over $800,000 to Amerishield, the parent company of City Shield, for
+      a public security budget exceeding $3 million, which included the surveillance
+      of pro-Palestinian student activists. The university employed plainclothes agents
+      to follow and harass students, staging confrontations and using fabricated evidence
+      to prosecute them. Additionally, Massive Blue's AI surveillance tool, Overwatch,
+      infiltrates online activist groups with virtual characters to collect intelligence
+      on those labeled as "radicalized." This extensive surveillance infrastructure,
+      which includes geofencing, license plate readers, and predictive analytics, enables
+      authorities to monitor and anticipate student protests, raising significant concerns
+      about civil liberties and the targeting of dissent.
+    published: '2025-07-11T09:20:00+00:00'
+  - title: US Campuses Have Become the Newest Laboratories for Surveillance Technology
+    url: https://scheerpost.com/2025/07/11/us-campuses-have-become-the-newest-laboratories-for-surveillance-technology/
+    text: 'A protester is dragged out by Texas State Troopers at a pro-Palestinian protest.
+      ScreamOfTheNight, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Elham Azad / Truthout In early June 2025, The Guardian revealed
+      that the University of Michigan paid over $800,000 to Amerishield, parent company
+      to a private security company called City Shield. It was part of a broader $3
+      million public‑security budget, which included surveillance of pro‑Palestinian
+      student activists. The university hired plainclothes agents who trailed students
+      into cafés, harassed them, and even staged confrontations, including faking a
+      disability to falsely accuse them of theft. City Shield , a private security agency
+      based out of Detroit, used the supposed evidence collected by their agents against
+      these students to prosecute them and send them to jail. Massive Blue, a company
+      based in New York, has created a surveillance tool called Overwatch that uses
+      AI to monitor online spaces. Although this tool is sold and marketed as a public
+      safety tool, the technology uses AI-generated virtual characters that infiltrate
+      online groups, take part in conversations, and collect intelligence, particularly
+      targeting college protesters and activists labeled as “radicalized.” These bots
+      are created to imitate human behavior, making them very hard to detect. The tech
+      stack these agencies deploy is formidable: geofencing tools, license plate readers,
+      real-time social media surveillance, predictive analytics. Even Radian6, a Salesforce
+      product, has been linked to student protest monitoring . These tools don’t just
+      observe behavior, they anticipate it, allowing administrators and police to intervene
+      before a rally even begins. This surveillance is not merely bureaucratic overreach.
+      It is an act of intimidation, one that reflects an ideological alignment with
+      systems of repression abroad. In Gaza, for example, humanitarian aid is increasingly
+      distributed only through biometric registration , leaving starving Palestinians
+      with no choice but to submit to facial and fingerprint scans to access food. Although
+      aid agencies and occupying forces justify this as a form of “efficiency,” it can
+      only be seen as coercive surveillance, stripping Palestinians of dignity and autonomy
+      under the guise of relief. Within the United States, university officials have
+      increasingly turned to firms like ShadowDragon, Skydio, and Stellar Technologies,
+      whose tools are capable of profiling, analyzing, and geolocating social media
+      posts , drone-mapping encampments , and even identifying masked protestors through
+      AI-enhanced facial recognition . These companies aren’t developing tools for student
+      safety. They’re developing battlefield tech and students are the new targets.
+      In April 2024, when students at Columbia University set up a peaceful encampment
+      to protest the genocide in Gaza, few expected the administration to respond with
+      mass arrests. Fewer still understood the extent to which military-grade surveillance
+      technologies were already in place to track them. In the same month, Jewish Currents
+      reported on Yale University’s use of drones, surveillance cameras, and plainclothes
+      officers to monitor pro-Palestine student activists. Surveillance footage was
+      used to identify students who had not violated any laws but had simply been present.
+      Meanwhile, in May 2025, it was revealed that LAPD used Dataminr to track the social
+      media activity of students organizing pro-Palestine events . Surveillance reports
+      included screenshots of Instagram stories, private group chats, and Twitter threads.
+      Some of this data was sourced using tools built by Dataminr and Social Sentinel,
+      both of which specialize in identifying “emerging threats” by combing through
+      vast amounts of social media data tools originally developed for use by law enforcement
+      and intelligence agencies. In addition, in March 2024, it was revealed that Elon
+      Musk’s X was also selling user data to Dataminr . The logic is chillingly consistent:
+      Dissent is pathologized, monitored, and neutralized while capitalists keep making
+      money. And universities have become willing partners in this process. In my Ph.D.
+      research, I studied surveillance infrastructures, particularly in contexts where
+      settler colonial regimes seek to erase dissent. What we’re seeing on U.S. campuses
+      today mirrors repression models from places like East Turkestan (Xinjiang), where
+      everyday resistance is quelled through predictive monitoring and data extraction
+      . What this tells us is that surveillance isn’t about protection, it’s about power.
+      And American universities are rapidly becoming test beds for the kind of repressive
+      technology we associate with authoritarian states abroad. The money behind these
+      technologies flows through a familiar nexus of venture capital firms , defense
+      contractors, and government agencies. ShadowDragon, for example, has been celebrated
+      by the World Economic Forum and boasts contracts with U.S. law enforcement and
+      military branches. Cobwebs Technologies, Xtend, and Oosto are Israeli surveillance
+      companies whose products are now being deployed against student activists in the
+      U.S . These firms have marketed their tools based on effectiveness in tracking
+      Palestinians and other “high-risk” populations. Now, they are used on American
+      campuses to monitor solidarity. There is a historical precedent to this kind of
+      repression. During the civil rights and antiwar movements of the 1960s and 70s,
+      FBI programs like COINTELPRO targeted student activist groups like the Student
+      Nonviolent Coordinating Committee (SNCC) and Students for a Democratic Society
+      (SDS), and organizations like the Black Panther Party, with infiltration, wiretaps,
+      and blackmail. The FBI’s targeting of student and civil rights activists through
+      COINTELPRO is well-documented, as explored in this Yale News interview with historian
+      Beverly Gage, who says J. Edgar Hoover’s tactics were both coercive and widely
+      normalized. Hoover was the first director of the FBI, serving from 1924 until
+      his death in 1972. However, the difference today is scale and automation. Rather
+      than needing a human informant in every room, university administrators can now
+      rely on machine learning algorithms to scan student emails, monitor group chats,
+      and alert authorities to so-called “escalation indicators.” Recently, billionaire
+      investor Kevin O’Leary called for permanently destroying the digital lives of
+      student protesters using AI-based doxxing campaigns . While O’Leary was widely
+      condemned, his dystopian vision isn’t far from the reality already taking root.
+      Companies like Babel Street and Stellar Technologies offer tools with the explicit
+      promise of identifying individuals based on minimal data inputs like a partial
+      image or a Twitter handle. Tools like NesherAI claim to identify masked individuals
+      in a crowd using behavioral and gait analysis. Corsight AI advertises facial recognition
+      that works through masks, hoods, and sunglasses. These are not theoretical tools.
+      They’re being piloted now, often in secret, and often in tandem with increasing
+      police presence on campuses. These developments must be viewed in the broader
+      context of the militarization of civilian life. The pipeline between Gaza and
+      Georgia Tech is not rhetorical. Technologies field-tested in war zones are refined
+      and normalized on American campuses, where students are reduced to data points
+      in behavioral prediction models. Israeli firms developed surveillance for use
+      in Gaza and the West Bank are now contracted domestically. Surveillance technologies
+      once reserved for military and foreign operations are now being deployed on U.S.
+      university campuses, targeting student protestors, particularly those demonstrating
+      for Palestine. These tools are not isolated innovations. Many were tested on Palestinians
+      and Uyghurs before being repurposed for U.S. settings. This is not a breakdown
+      of democratic norms but their systematic redirection using universities as testbeds
+      for next-generation policing. University administrators often claim that surveillance
+      is about safety. But whose safety? Lately, surveillance tools have mostly targeted
+      the most vulnerable in our communities: Muslims, Indigenous people, undocumented
+      immigrants, Black people, and anyone who supports Palestinian liberation and an
+      end to the U.S.-sponsored genocide in Gaza. They claim that these tools are here
+      to protect us, but in truth, they only serve to erase us, discipline us, and punish
+      us. It doesn’t have to be this way. Campuses have historically been sites of inquiry,
+      dissent, and transformation, not laboratories for digital repression, and we must
+      fight to keep them that way. We must reject the narrative that surveillance is
+      inevitable. It is not. It is a political choice, made behind closed doors, mostly
+      without consent or oversight of those who are affected the most. Surveillance
+      Watch is one intervention in this landscape, an attempt to shift the power back
+      to those being watched. It is a community‑driven project that deploys interactive
+      maps and databases to reveal the web of surveillance companies, their funders,
+      subsidiaries, affiliations, and global operations in an effort to make opaque
+      surveillance networks transparent. However, we need more. We need more public
+      and legal accountability, more student organizing, more media scrutiny, and way
+      more institutional courage. We need to say, unequivocally, that resistance is
+      not a threat. It is a right. We are not subjects. We are watching back. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Elham Azad Elham
+      Azad is a Ph.D. scholar and a senior research fellow with Surveillance Watch .
+      Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: The University of Michigan reportedly spent over $800,000
+      on a private security firm to surveil and harass pro-Palestinian student activists,
+      including employing undercover agents to stage confrontations and falsely accuse
+      them of theft.
+    paragraph_summary: In June 2025, The Guardian reported that the University of Michigan
+      allocated over $800,000 to Amerishield, the parent company of City Shield, for
+      a public security budget exceeding $3 million, which included the surveillance
+      of pro-Palestinian student activists. The university employed plainclothes agents
+      to follow and harass students, staging confrontations and using fabricated evidence
+      to prosecute them. Additionally, Massive Blue's AI surveillance tool, Overwatch,
+      infiltrates online activist groups with virtual characters to collect intelligence
+      on those labeled as "radicalized." This extensive surveillance infrastructure,
+      which includes geofencing, license plate readers, and predictive analytics, enables
+      authorities to monitor and anticipate student protests, raising significant concerns
+      about civil liberties and the targeting of dissent.
+    published: '2025-07-11T09:20:00+00:00'
+  - title: US Army Building New Air Bases, Ammo Depots for Israel
+    url: https://scheerpost.com/2025/07/11/us-army-building-new-air-bases-ammo-depots-for-israel/
+    text: 'CH-53K King Stallion. Lutz Blohm from Schifferstadt, Germany, CC BY-SA 2.0
+      https://creativecommons.org/licenses/by-sa/2.0 , via Wikimedia Commons In one
+      of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By The Cradle The US Army
+      Corps of Engineers is constructing new military infrastructure for Israel across
+      several bases, including airfields, hangars, and ammunition depots, according
+      to public records reported by Haaretz on 8 July. The current projects total more
+      than $250 million, with future ones expected to exceed $1 billion, based on a
+      call for interested contractors originally scheduled for June but postponed due
+      to Israel’s war against Iran. The Israeli news site Haaretz reported on the public
+      documents on Monday. The US Army Corps of Engineers is using contractors to build
+      ammunition depots, refuelling stations, and concrete structures for Israeli military
+      bases. The documents also show that the US is seeking contractors for building
+      maintenance and repairs, including work on airfields. One project for hangars,
+      maintenance rooms, and storage facilities for new Boeing KC-46 tankers that Israel
+      is expected to receive in the coming years is projected to cost over $100 million.
+      Another facility to house CH-53K helicopters is expected to cost up to $250 million.
+      The US is also soliciting bids for ammunition storage buildings, estimated at
+      up to $100 million. A separate seven-year tender, capped at $900 million, covers
+      maintenance, repairs, construction, demolition, and infrastructure upgrades at
+      unspecified sites for the Israeli Ministry of Defence. These projects are funded
+      through foreign military financing. Israel receives $3.8 billion annually in military
+      aid, under a system that allows the US and Israel to determine how to spend the
+      funds, which are routed to US defense contractors. Since the Hamas-led 7 October
+      2023 Operation Al-Aqsa Flood, Washington has also provided supplemental military
+      aid totalling around $18 billion. The US has previously used military aid for
+      Israeli infrastructure. In 2012, public tender documents showed large-scale US-funded
+      works at Nevatim air base. At the time, the Washington Post reported that the
+      US had constructed a secret facility there, known as site “911.” The construction
+      projects detailed on Monday were planned before the June 2025 Israeli attack on
+      Iran. On 2 July, Reuters cited an Israeli official confirming that Iranian ballistic
+      missiles struck several Israeli military sites during the 12-day exchange. Earlier
+      in June, Washington approved a $510 million arms deal for Israel, adding over
+      7,000 JDAM kits and support services to the growing list of weapons transfers
+      in 2025. That package formed part of a broader escalation in US military support,
+      which by mid-year had surpassed $9 billion. Tel Aviv reported receiving more than
+      90,000 tons of US weapons in 600 days – deliveries Netanyahu credited to Trump
+      as “the greatest friend that Israel has ever had in the White House.” Around the
+      same time, the Pentagon halted multiple arms shipments to Ukraine, despite internal
+      reviews showing no critical shortage. The decision followed concerns over stockpile
+      depletion after the US assisted Israel in intercepting Iranian missiles. Senior
+      officials have since pushed for a shift in US military focus toward the Pacific.
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . The Cradle The Cradle is an online news magazine covering West Asian
+      geopolitics from within. Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: The US Army Corps of Engineers is investing over $250 million
+      in new military infrastructure for Israel, including airfields and ammunition
+      depots, with future projects anticipated to exceed $1 billion.
+    paragraph_summary: The US Army Corps of Engineers is undertaking significant military
+      infrastructure projects in Israel, with current expenditures exceeding $250 million
+      and future projects projected to surpass $1 billion. These developments include
+      the construction of airfields, hangars, ammunition depots, and refueling stations,
+      primarily funded through foreign military financing. Notable projects include
+      facilities for Boeing KC-46 tankers and CH-53K helicopters, with costs for these
+      projects reaching over $100 million and $250 million, respectively. Additionally,
+      a seven-year tender for maintenance and upgrades at various sites for the Israeli
+      Ministry of Defence is capped at $900 million. Israel's military funding, amounting
+      to $3.8 billion annually, allows for collaborative spending decisions between
+      the US and Israel, benefiting US defense contractors.
+    published: '2025-07-11T09:15:00+00:00'
+  - title: US Army Building New Air Bases, Ammo Depots for Israel
+    url: https://scheerpost.com/2025/07/11/us-army-building-new-air-bases-ammo-depots-for-israel/
+    text: 'CH-53K King Stallion. Lutz Blohm from Schifferstadt, Germany, CC BY-SA 2.0
+      https://creativecommons.org/licenses/by-sa/2.0 , via Wikimedia Commons In one
+      of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By The Cradle The US Army
+      Corps of Engineers is constructing new military infrastructure for Israel across
+      several bases, including airfields, hangars, and ammunition depots, according
+      to public records reported by Haaretz on 8 July. The current projects total more
+      than $250 million, with future ones expected to exceed $1 billion, based on a
+      call for interested contractors originally scheduled for June but postponed due
+      to Israel’s war against Iran. The Israeli news site Haaretz reported on the public
+      documents on Monday. The US Army Corps of Engineers is using contractors to build
+      ammunition depots, refuelling stations, and concrete structures for Israeli military
+      bases. The documents also show that the US is seeking contractors for building
+      maintenance and repairs, including work on airfields. One project for hangars,
+      maintenance rooms, and storage facilities for new Boeing KC-46 tankers that Israel
+      is expected to receive in the coming years is projected to cost over $100 million.
+      Another facility to house CH-53K helicopters is expected to cost up to $250 million.
+      The US is also soliciting bids for ammunition storage buildings, estimated at
+      up to $100 million. A separate seven-year tender, capped at $900 million, covers
+      maintenance, repairs, construction, demolition, and infrastructure upgrades at
+      unspecified sites for the Israeli Ministry of Defence. These projects are funded
+      through foreign military financing. Israel receives $3.8 billion annually in military
+      aid, under a system that allows the US and Israel to determine how to spend the
+      funds, which are routed to US defense contractors. Since the Hamas-led 7 October
+      2023 Operation Al-Aqsa Flood, Washington has also provided supplemental military
+      aid totalling around $18 billion. The US has previously used military aid for
+      Israeli infrastructure. In 2012, public tender documents showed large-scale US-funded
+      works at Nevatim air base. At the time, the Washington Post reported that the
+      US had constructed a secret facility there, known as site “911.” The construction
+      projects detailed on Monday were planned before the June 2025 Israeli attack on
+      Iran. On 2 July, Reuters cited an Israeli official confirming that Iranian ballistic
+      missiles struck several Israeli military sites during the 12-day exchange. Earlier
+      in June, Washington approved a $510 million arms deal for Israel, adding over
+      7,000 JDAM kits and support services to the growing list of weapons transfers
+      in 2025. That package formed part of a broader escalation in US military support,
+      which by mid-year had surpassed $9 billion. Tel Aviv reported receiving more than
+      90,000 tons of US weapons in 600 days – deliveries Netanyahu credited to Trump
+      as “the greatest friend that Israel has ever had in the White House.” Around the
+      same time, the Pentagon halted multiple arms shipments to Ukraine, despite internal
+      reviews showing no critical shortage. The decision followed concerns over stockpile
+      depletion after the US assisted Israel in intercepting Iranian missiles. Senior
+      officials have since pushed for a shift in US military focus toward the Pacific.
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . The Cradle The Cradle is an online news magazine covering West Asian
+      geopolitics from within. Author Site Please share this story and help us grow
+      our network!'
+    one_sentence_summary: The US Army Corps of Engineers is investing over $250 million
+      in new military infrastructure for Israel, including airfields and ammunition
+      depots, with future projects anticipated to exceed $1 billion.
+    paragraph_summary: The US Army Corps of Engineers is undertaking significant military
+      infrastructure projects in Israel, with current expenditures exceeding $250 million
+      and future projects projected to surpass $1 billion. These developments include
+      the construction of airfields, hangars, ammunition depots, and refueling stations,
+      primarily funded through foreign military financing. Notable projects include
+      facilities for Boeing KC-46 tankers and CH-53K helicopters, with costs for these
+      projects reaching over $100 million and $250 million, respectively. Additionally,
+      a seven-year tender for maintenance and upgrades at various sites for the Israeli
+      Ministry of Defence is capped at $900 million. Israel's military funding, amounting
+      to $3.8 billion annually, allows for collaborative spending decisions between
+      the US and Israel, benefiting US defense contractors.
+    published: '2025-07-11T09:15:00+00:00'
+  - title: Mahmoud Khalil to Sue Trump Admin for $20 Million Over ‘Unconstitutional’
+      Detention
+    url: https://scheerpost.com/2025/07/11/mahmoud-khalil-to-sue-trump-admin-for-20-million-over-unconstitutional-detention/
+    text: 'Mahmoud Khalil NYC detention protest. SWinxy, CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Jessica Corbett / Common Dreams Pro-Palestinian student protest
+      leader Mahmoud Khalil on Thursday began the process of suing U.S. President Donald
+      Trump’s administration for $20 million in damages for the harm he suffered as
+      a result of the government’s “politically motivated plan to unlawfully arrest,
+      detain, and deport” him. “This is the first step towards accountability,” Khalil
+      said in a statement. “Nothing can restore the 104 days stolen from me. The trauma,
+      the separation from my wife, the birth of my first child that I was forced to
+      miss . But let’s be clear, the same government that targeted me for speaking out
+      is using taxpayer dollars to fund Israel’s ongoing genocide in Gaza .” “There
+      must be accountability for political retaliation and abuse of power,” he asserted.
+      “And I won’t stop here. I will continue to pursue justice against everyone who
+      contributed to my unlawful detention or spread lies in an attempt to destroy my
+      reputation, including those affiliated with Columbia University. I’m holding the
+      U.S. government accountable not just for myself, but for everyone they try to
+      silence through fear, exile, or detention.” In March, federal agents who were
+      in plain clothes and lacked a warrant accosted Khalil, a lawful permanent resident
+      who recently finished a graduate program at Columbia, and his wife—Noor Abdalla,
+      a U.S. citizen who was then pregnant with their son—outside their New York City
+      home. Following Khalil’s arrest , several other student activists critical of
+      the U.S.-backed Israeli assault on Gaza were also targeted for deportation. The
+      claim that 30-year-old Khalil filed Thursday against the U.S. Homeland Security
+      and State departments, as well as Immigration and Customs Enforcement (ICE), is
+      a precursor to a lawsuit that will cite the Federal Tort Claims Act of 1946, according
+      to the Center for Constitutional Rights (CCR), part of his legal team. The filing
+      accuses the Trump administration of carrying out a plan to deport Khalil “in a
+      manner calculated to terrorize him and his family,” and says the mistreatment
+      caused “severe emotional distress, economic hardship, damage to his reputation,
+      and significant impairment of his First Amendment and Fifth Amendment rights.”
+      Mahmoud Khalil has filed a claim against the Trump administration, seeking either
+      $20 million or an official apology and change in the administration’s policy after
+      he was held in detention for over 100 days. NBC News’ Maya Eaglin spoke to Khalil
+      in New York City. [image or embed] — NBC News ( @nbcnews.com ) July 10, 2025 at
+      5:01 PM Khalil, an Algerian citizen of Palestinian descent who was finally freed
+      from an ICE facility in Louisiana last month, is seeking $20 million to help others
+      similarly targeted by the government and Columbia, but “he would accept, in lieu
+      of payment, an official apology and abandonment of the administration’s unconstitutional
+      policy,” CCR explained. The Associated Press reported that “a White House spokesperson
+      deferred comment to the State Department, which said its actions were fully supported
+      by the law. In an emailed statement, Tricia McLaughlin, a spokesperson for the
+      Department of Homeland Security, called Khalil’s claim ‘absurd,’ accusing him
+      of ‘hateful behavior and rhetoric’ that threatened Jewish students.” While the
+      departments’ comments signal that the Trump administration won’t be making any
+      apologies, Khalil’s team is determined to move forward with his case. “The Trump
+      administration’s unconstitutional targeting of Mr. Khalil led to severe harms
+      that he continues to navigate, including financial loss, reputational damage,
+      and emotional distress,” said Samah Sisay, staff attorney at CCR. “Mr. Khalil
+      will never get back the three months stolen from him while in immigration detention,
+      including his child’s birth and first months of life. The government must take
+      accountability for their unlawful actions and compensate Mr. Khalil for his suffering.”
+      Khalil’s claim was filed a day after an ICE official testified under oath that
+      a task force formed in March used lists from Canary Mission, an operation linked
+      to Israeli intelligence agencies, and the pro-Israel group Betar Worldwide to
+      compile reports on international students targeted for their protest activities.
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Jessica Corbett Jessica Corbett is a staff writer for Common Dreams.
+      Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: Pro-Palestinian student protest leader Mahmoud Khalil is suing
+      the Trump administration for $20 million, claiming unlawful arrest and detention
+      caused him significant personal harm, including missing the birth of his first
+      child.
+    paragraph_summary: Pro-Palestinian student activist Mahmoud Khalil has initiated
+      a lawsuit against the Trump administration, seeking $20 million in damages for
+      his unlawful arrest, detention, and deportation, which he claims were politically
+      motivated. Khalil, who was detained for 104 days and missed the birth of his first
+      child, argues that his targeting was part of a broader government effort to suppress
+      dissent regarding U.S. support for Israel's actions in Gaza. He emphasizes the
+      need for accountability for political retaliation and abuse of power, not only
+      for himself but for others who face similar threats. Khalil's arrest, which occurred
+      in March when federal agents approached him and his pregnant wife without a warrant,
+      has raised concerns about the targeting of activists critical of U.S. foreign
+      policy.
+    published: '2025-07-11T09:10:00+00:00'
+  - title: Mahmoud Khalil to Sue Trump Admin for $20 Million Over ‘Unconstitutional’
+      Detention
+    url: https://scheerpost.com/2025/07/11/mahmoud-khalil-to-sue-trump-admin-for-20-million-over-unconstitutional-detention/
+    text: 'Mahmoud Khalil NYC detention protest. SWinxy, CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Jessica Corbett / Common Dreams Pro-Palestinian student protest
+      leader Mahmoud Khalil on Thursday began the process of suing U.S. President Donald
+      Trump’s administration for $20 million in damages for the harm he suffered as
+      a result of the government’s “politically motivated plan to unlawfully arrest,
+      detain, and deport” him. “This is the first step towards accountability,” Khalil
+      said in a statement. “Nothing can restore the 104 days stolen from me. The trauma,
+      the separation from my wife, the birth of my first child that I was forced to
+      miss . But let’s be clear, the same government that targeted me for speaking out
+      is using taxpayer dollars to fund Israel’s ongoing genocide in Gaza .” “There
+      must be accountability for political retaliation and abuse of power,” he asserted.
+      “And I won’t stop here. I will continue to pursue justice against everyone who
+      contributed to my unlawful detention or spread lies in an attempt to destroy my
+      reputation, including those affiliated with Columbia University. I’m holding the
+      U.S. government accountable not just for myself, but for everyone they try to
+      silence through fear, exile, or detention.” In March, federal agents who were
+      in plain clothes and lacked a warrant accosted Khalil, a lawful permanent resident
+      who recently finished a graduate program at Columbia, and his wife—Noor Abdalla,
+      a U.S. citizen who was then pregnant with their son—outside their New York City
+      home. Following Khalil’s arrest , several other student activists critical of
+      the U.S.-backed Israeli assault on Gaza were also targeted for deportation. The
+      claim that 30-year-old Khalil filed Thursday against the U.S. Homeland Security
+      and State departments, as well as Immigration and Customs Enforcement (ICE), is
+      a precursor to a lawsuit that will cite the Federal Tort Claims Act of 1946, according
+      to the Center for Constitutional Rights (CCR), part of his legal team. The filing
+      accuses the Trump administration of carrying out a plan to deport Khalil “in a
+      manner calculated to terrorize him and his family,” and says the mistreatment
+      caused “severe emotional distress, economic hardship, damage to his reputation,
+      and significant impairment of his First Amendment and Fifth Amendment rights.”
+      Mahmoud Khalil has filed a claim against the Trump administration, seeking either
+      $20 million or an official apology and change in the administration’s policy after
+      he was held in detention for over 100 days. NBC News’ Maya Eaglin spoke to Khalil
+      in New York City. [image or embed] — NBC News ( @nbcnews.com ) July 10, 2025 at
+      5:01 PM Khalil, an Algerian citizen of Palestinian descent who was finally freed
+      from an ICE facility in Louisiana last month, is seeking $20 million to help others
+      similarly targeted by the government and Columbia, but “he would accept, in lieu
+      of payment, an official apology and abandonment of the administration’s unconstitutional
+      policy,” CCR explained. The Associated Press reported that “a White House spokesperson
+      deferred comment to the State Department, which said its actions were fully supported
+      by the law. In an emailed statement, Tricia McLaughlin, a spokesperson for the
+      Department of Homeland Security, called Khalil’s claim ‘absurd,’ accusing him
+      of ‘hateful behavior and rhetoric’ that threatened Jewish students.” While the
+      departments’ comments signal that the Trump administration won’t be making any
+      apologies, Khalil’s team is determined to move forward with his case. “The Trump
+      administration’s unconstitutional targeting of Mr. Khalil led to severe harms
+      that he continues to navigate, including financial loss, reputational damage,
+      and emotional distress,” said Samah Sisay, staff attorney at CCR. “Mr. Khalil
+      will never get back the three months stolen from him while in immigration detention,
+      including his child’s birth and first months of life. The government must take
+      accountability for their unlawful actions and compensate Mr. Khalil for his suffering.”
+      Khalil’s claim was filed a day after an ICE official testified under oath that
+      a task force formed in March used lists from Canary Mission, an operation linked
+      to Israeli intelligence agencies, and the pro-Israel group Betar Worldwide to
+      compile reports on international students targeted for their protest activities.
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Jessica Corbett Jessica Corbett is a staff writer for Common Dreams.
+      Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: Pro-Palestinian student protest leader Mahmoud Khalil is suing
+      the Trump administration for $20 million, claiming unlawful arrest and detention
+      caused him significant personal harm, including missing the birth of his first
+      child.
+    paragraph_summary: Pro-Palestinian student activist Mahmoud Khalil has initiated
+      a lawsuit against the Trump administration, seeking $20 million in damages for
+      his unlawful arrest, detention, and deportation, which he claims were politically
+      motivated. Khalil, who was detained for 104 days and missed the birth of his first
+      child, argues that his targeting was part of a broader government effort to suppress
+      dissent regarding U.S. support for Israel's actions in Gaza. He emphasizes the
+      need for accountability for political retaliation and abuse of power, not only
+      for himself but for others who face similar threats. Khalil's arrest, which occurred
+      in March when federal agents approached him and his pregnant wife without a warrant,
+      has raised concerns about the targeting of activists critical of U.S. foreign
+      policy.
+    published: '2025-07-11T09:10:00+00:00'
+  - title: This Is How the U.S.-Run GHF Tried To Build a Local Network of ‘Aid Collaborators’
+      in Gaza
+    url: https://scheerpost.com/2025/07/11/this-is-how-the-u-s-run-ghf-tried-to-build-a-local-network-of-aid-collaborators-in-gaza/
+    text: 'Mondoweiss graphic. In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Tareq S. Hajjaj / Mondoweiss The Israel-backed and U.S.-run Gaza
+      Humanitarian Foundation (GHF) has been weathering one public relations disaster
+      after another as new information continues to expose the organization’s complicity
+      in Israel’s plans to “ concentrate ” Gaza’s population in camps ahead of their
+      forcible displacement — in keeping with Israel’s stated military goals of conquering
+      the Strip and expelling its people. In service of these goals, the GHF has replaced
+      the UN’s aid distribution system with what Gazans describe as “ death traps ,”
+      leading Palestinians to accuse the organization of fulfilling Israeli military
+      objectives under the guise of humanitarianism. In order to bolster this facade,
+      the GHF has been actively attempting to pressure international humanitarian organizations
+      into cooperating with the GHF and participating in its operations. The GHF has
+      also actively attempted to form a local network of distributors run by companies
+      known to have collaborated with the Israeli army in the past. Speaking with several
+      individuals and organizations approached by the GHF, Mondoweiss investigations
+      reveal that Israel and the GHF are attempting to coerce local and international
+      actors into cooperating with the U.S.-Israeli aid scheme. In some cases, the GHF
+      has tasked local companies to engage in outreach to the population to advertise
+      its centers and handle distribution and logistics. According to sources inside
+      Gaza, the Israeli army is also pursuing a broader strategy of pressuring humanitarian
+      organizations to either operate under the GHF framework or cease their activities
+      altogether. The Israeli military has reportedly forced several international organizations
+      to distribute their aid through GHF centers, overriding previous agreements that
+      allowed them to operate independently. In many cases, aid shipments that entered
+      through Israeli-controlled crossings were redirected — without the knowledge or
+      consent of the aid organizations — to the U.S. company’s centers. An official
+      security source in the Gaza civil government told Mondoweiss in mid-June that
+      Hamas possesses “reliable intelligence” confirming that the GHF has been pressuring
+      local institutions to participate in its operations. These attempts were meant
+      to force organizations to cooperate in a strategy of “engineering starvation and
+      managing chaos,” the official said, which he said was part of “a politically motivated
+      and security-driven project disguised in humanitarian garb.” “However, these institutions,
+      guided by their national consciousness and ethical commitment, refused to become
+      tools for a party responsible for our people’s suffering,” he added. But there
+      are some organizations that have cooperated. The GHF and the Israeli army have
+      essentially pursued two paths in dominating the humanitarian landscape in Gaza:
+      forcing international organizations to either work with the GHF or to halt operations,
+      and using local gangs and businesses as part of its “native” network, giving a
+      Palestinian face to an Israeli-U.S. operation with military and political objectives.
+      Here is how it has attempted to achieve the objective of building this network
+      of “aid collaborators.” The case of the al-Khozandar Company On the night of June
+      11, 12 employees working for a local trading company were killed after being publicly
+      detained by groups affiliated with Hamas’s security forces. Locals said they were
+      from the Arrow Force , the Hamas unit tasked with hunting down looters and Israeli-backed
+      gangs in Gaza. After being reportedly beaten and shot in the foot, the security
+      members publicly accused the individuals of working for a company allegedly collaborating
+      with the Israeli military. Eyewitnesses told Mondoweiss that the employees were
+      then lynched by a crowd of people who were allegedly incited by the security members,
+      who reportedly told the crowds that the employees were responsible for the deaths
+      of their loved ones at GHF sites. It later became clear that the individuals were
+      employees of the al-Khozandar Company, a commercial firm owned by a Palestinian
+      residing in Cairo. The killing of the employees sparked controversy and outrage,
+      with the victims’ families issuing a statement on June 17 demanding accountability.
+      The statement also denied allegations that their sons were working with the Israeli-backed
+      gang led by Yasser Abu Shabab that loots aid across Gaza, calling the accusations
+      “false and baseless.” The events surrounding the incident, however, reveal a more
+      complex picture. Before the families had issued their statement, the GHF condemned
+      the “murder of 12 of our aid workers.” In contrast, the families stated that their
+      sons were on their first day of work for al-Khozandar, suggesting that the company
+      was working closely with the GHF. The security source in the Gaza government who
+      spoke to Mondoweiss in June identified the Mohsen al-Khozandar Trading and Transport
+      corporation, headed by a man named Muhammad al-Khozandar, as a “morally and nationally
+      compromised” company that “coordinates directly with suspicious foreign actors
+      at the expense of our people’s interests.” This company, the source added, “contributes,
+      whether knowingly or not, to the systematic killing and starvation of Palestinians.”
+      He asserted that “certain measures” have already been taken against the company,
+      and that “more will follow,” including classifying the company as a “complicit
+      entity.” The Khozandar company has been operating in Gaza for years. Also known
+      as “Three Brothers,” the company specialized in bringing goods into Gaza in coordination
+      with Israel before the war, which led Hamas to classify the company as “collaborating
+      with the occupation,” according to the security source. The source added that,
+      during the war, the company’s activities expanded noticeably beyond trade, raising
+      suspicions of collaboration with the Israeli army’s military plans. According
+      to the Geneva Council for Rights and Liberties , Palestinian workers employed
+      by Three Brothers have been “forced to work under conditions resembling modern
+      slavery,” and have been forced to sort and load aid boxes under direct Israeli
+      supervision and to “serve American mercenaries.” The workers were subject to degrading
+      searches by Israeli soldiers, and were not paid any wages, only receiving a few
+      cigarettes and a single daily meal as compensation, according to the Geneva Council,
+      based on testimony it says it has verified. Al-Khozandar began implementing the
+      U.S.-Israeli aid distribution scheme in Rafah after it contracted with Safe Reach
+      Solution (SRS), a military contractor that is also the parent company of the GHF
+      and has reportedly conducted military-intelligence operations in Gaza using Israeli
+      data. According to a Financial Times investigation, the arrangement was for SRS
+      to provide security at the GHF centers, while the Khozandar company would run
+      distribution, specifically at the Tal Sultan center in Rafah. According to local
+      reports, al-Khozandar’s role in the aid scheme is to engage local individuals
+      and civil society organizations to cooperate with the GHF, while the FT investigation
+      quoted a source that said Three Brothers would be “the first interface with the
+      population” at the distribution sites, and that the Khozandar team “was well known
+      to the Israeli security establishment and had a long history of working with them.”
+      The FT reported that SRS had approached several other prominent businessmen in
+      Gaza to staff the centers, but that they refused to participate in the U.S.-Israeli
+      scheme, “arguing it amounted to forced displacement of people in the enclave.”
+      Meanwhile, the al-Khozandar family in Gaza issued a statement in May disavowing
+      the Mohsen Khozandar Company and condemning any activities carried out by Muhammad
+      al-Khozandar and his brothers, who manage the firm. The statement was supported
+      by the Contractors Union and business owners in Gaza, who described any cooperation
+      with this scheme as a “betrayal of national unity” and demanded strict accountability
+      for all those involved. Local testimonies also indicate that the company’s managers
+      from the al-Khozandar family phoned several prominent influencers and content
+      creators in Gaza, urging them to promote the company’s aid centers and claiming
+      they were safe and free from inspections or any violations of people’s dignity.
+      Yahya Hilles, a digital creator , told Mondoweiss that a person going by the name
+      of Noor al-Khozandar contacted him and spoke with him for over an hour, trying
+      to convince him to encourage people to go to the GHF centers. Hilles explained
+      that he consulted his family elders, who firmly opposed any involvement in promoting
+      this project. “Noor al-Khozandar kept insisting, urging me to go, film, and promote
+      the centers, but I repeatedly asked him why he came to me specifically,” Hilles
+      said. “He gave no clear answer. He knew that people trust me and believe what
+      I share on social media, so he wants to drag me into this. He told me there would
+      be no soldiers or Americans, and that I would just carry aid and return home.”
+      “I knew that, even if things might go smoothly the first or second time, it might
+      later turn into a disaster,” Hilles added. “In that case, I would be responsible
+      before my people, so I categorically refused. I told him clearly: this issue is
+      bigger than one person, with serious security and political implications. It cannot
+      be handled through a simple call from one person to another.” Israeli army attempts
+      to strong-arm international organizations Rahma Worldwide is among the most active
+      humanitarian organizations in Gaza since the war began, although it has been operating
+      in the territory since 2017. During the war, it became notably involved in facilitating
+      the entry of medical delegations and volunteers to Gaza hospitals, where they
+      provided services for a limited time before leaving the territory. The organization
+      has an extensive history in humanitarian relief. Recently, however, the Israeli
+      military attempted to coerce Rahma Worldwide into operating under the umbrella
+      of the GHF. In late May, the organization’s director, Dr. Shadi Zaza, told Mondoweiss
+      that Rahma Worldwide rejected the collaboration. Zaza stated that the organization
+      operates in Gaza as part of a group that includes several humanitarian institutions,
+      including some affiliated with the UN. He said that the Israeli army had informed
+      them of the addition of a new institution — the Gaza Humanitarian Foundation —
+      to this group, and later announced changes to the aid distribution plan, including
+      designating new distribution points where each organization would be required
+      to send its staff. “We are always on standby,” Zaza said. “We’re ready anytime
+      we’re permitted to bring in aid. Our goods are prepared and waiting at the crossings.”
+      He noted that Rahma Worldwide had received permission the previous month to deliver
+      four trucks carrying 4,000 food parcels, only to be surprised by an Israeli army
+      order to transfer the aid to distribution points managed by the GHF, along with
+      a demand that Rahma staff help with distribution there. “We categorically refused
+      this request,” Zaza stated. “Our agreement with the army was clear — we would
+      distribute our parcels at locations designated for our organization, not those
+      belonging to any other.” Despite Rahma Worldwide’s request that the parcels be
+      redirected to their own sites, the army insisted on sending them to the GHF-run
+      facilities. The army also declared that GHF was now the sole authority responsible
+      for aid distribution in Gaza. Accordingly, the 4,000 parcels were transferred
+      to Rafah, and the army contacted Rahma’s team, urging them to assist with distribution.
+      But the team reached out to the organization’s U.S. headquarters, which unequivocally
+      rejected involvement with Gaza Humanitarian Foundation. “We will not be part of
+      this mechanism. We reject it entirely,” said Al-Zaza, highlighting that the army
+      continues to pressure aid groups, especially those importing goods from Egypt,
+      Jordan, or even the West Bank, insisting that all items be sourced from within
+      Israel. As a final request, Rahma Worldwide asked for its logos to be removed
+      from the food boxes that were to be distributed at the GHF’s sites to avoid appearing
+      as a participant or collaborator in the distribution scheme. This reflects the
+      organization’s firm opposition to the scheme, Zaza said. According to the organization,
+      some of the logos were removed, but boxes bearing the Rahma logo were nonetheless
+      distributed at locations affiliated with the GHF at least on one occasion, which
+      the organization said was beyond its control. Rahma identified these Israeli efforts
+      early on as attempts to forcibly integrate it into the GHF’s network. Upon the
+      organization’s refusal, the army imposed even more stringent conditions for aid
+      entry. “We have over 20,000 food parcels ready in our warehouses,” Zaza added.
+      “But we refuse to deliver them through the American organization’s mechanism.
+      That organization was originally just one of many working here—we had no issue
+      with that. But now that it’s trying to monopolize aid and impose its control,
+      that is completely unacceptable.” This stance of refusal reflects a broader trend
+      among humanitarian organizations in Gaza, many of which oppose the GHF for its
+      role in facilitating Israeli military objectives. Continued pressure for these
+      organizations to work with the GHF or leave, some warn, could lead to the withdrawal
+      of many aid organizations from Gaza entirely, creating a severe gap in humanitarian
+      assistance. “If Israel continues imposing this style of control and management,
+      we simply won’t bring in aid,” Zaza said. “Other organizations may follow our
+      lead. This policy — though unofficial — may well be Israel’s way of clearing the
+      field of independent organizations and turning humanitarian work into a fully
+      controlled instrument.” Some international humanitarian organizations have begun
+      cutting ties with the Boston Consulting Group, the company that helped conceive
+      and launch the GHF and had even modelled the costs of “relocating” Palestinians
+      outside of Gaza. Save the Children recently ended a two-decade partnership with
+      the BCG over its role in the GHF, calling the aid organization’s plan to forcibly
+      displace Gaza’s population “utterly unacceptable.” BCG’s chief executive admitted
+      that its involvement in the GHF was “reputationally damaging” and the result of
+      “deliberate individual misconduct” and “missed warning signs.” The GHF has continued
+      to push organizations to work with it as the humanitarian situation in Gaza continues
+      to worsen. On July 6, the GHF announced that it had met with the Country Director
+      of the UN’s World Food Programme (WFP) to propose a plan to help it “feed the
+      north of Gaza.” “Right now, nearly all their trucks are being looted,” the GHF
+      said. “We hope they will put politics aside and accept our proposal soon so we
+      can achieve our shared mission: getting more aid to the people of Gaza.” The GHF
+      was responding to a WFP statement that the need for food in Gaza was desperate.
+      “WFP stand ready to assist the entire population,” the WFP said. “We have the
+      food, the capacity and the systems.” The WFP could not be reached for comment.
+      In an abrupt development on Monday, July 7, the GHF announced the closure of its
+      center in central Gaza near the Netzarim Corridor until further notice. This was
+      followed by another announcement Wednesday, July 9, declaring the closure of its
+      distribution point in Khan Younis. At present, only the GHF’s distribution center
+      in Rafah remains operational. These announcements come amid ongoing ceasefire
+      negotiations between Israel and Hamas. One of Hamas’s conditions for the prospective
+      60-day ceasefire period is that aid distributions be handled exclusively by the
+      United Nations and its agencies operating in Gaza, completely excluding the GHF.
+      This condition was reportedly accepted in the ceasefire talks. This has led local
+      reporters to speculate that the closure of the GHF’s distribution centers indicates
+      that agreement regarding the ceasefire’s terms are near, with the GHF complying
+      with Hamas’s demand by halting its operations in the Strip. Local sources say
+      it is expected that the Rafah distribution center may also be closed in the coming
+      days, signaling that the ceasefire might soon go into effect. Muhammad Eslayeh
+      and Ahmad Jalal contributed reporting to this piece. Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Tareq S. Hajjaj
+      Tareq S. Hajjaj is the Mondoweiss Gaza Correspondent, and a member of the Palestinian
+      Writers Union. He studied English Literature at Al-Azhar University in Gaza. He
+      started his career in journalism in 2015 working as a news writer and translator
+      for the local newspaper, Donia al-Watan. He has reported for Elbadi , Middle East
+      Eye , and Al Monitor . Follow him on Twitter at @Tareqshajjaj . Author Site Please
+      share this story and help us grow our network!'
+    one_sentence_summary: The Gaza Humanitarian Foundation, backed by Israel and the
+      U.S., faces backlash for allegedly facilitating Israel's plans to displace Gaza's
+      population under the guise of humanitarian aid, leading to accusations of complicity
+      in military objectives.
+    paragraph_summary: The Gaza Humanitarian Foundation (GHF), backed by Israel and
+      the U.S., is facing significant backlash as it becomes increasingly implicated
+      in Israel's strategy to concentrate Gaza's population in camps for forced displacement,
+      aligning with military objectives to conquer the region. Reports indicate that
+      the GHF has replaced the UN's aid distribution system with what locals describe
+      as "death traps," leading to accusations of the organization masquerading as a
+      humanitarian entity while serving Israeli military interests. Investigations reveal
+      that the GHF is pressuring both local and international humanitarian organizations
+      to cooperate with its operations and has enlisted local companies with ties to
+      the Israeli army to manage aid distribution. Additionally, the Israeli military
+      is reportedly coercing humanitarian groups to either work under the GHF framework
+      or cease their operations entirely, further consolidating control over aid in
+      Gaza.
+    published: '2025-07-11T09:05:00+00:00'
+  - title: This Is How the U.S.-Run GHF Tried To Build a Local Network of ‘Aid Collaborators’
+      in Gaza
+    url: https://scheerpost.com/2025/07/11/this-is-how-the-u-s-run-ghf-tried-to-build-a-local-network-of-aid-collaborators-in-gaza/
+    text: 'Mondoweiss graphic. In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Tareq S. Hajjaj / Mondoweiss The Israel-backed and U.S.-run Gaza
+      Humanitarian Foundation (GHF) has been weathering one public relations disaster
+      after another as new information continues to expose the organization’s complicity
+      in Israel’s plans to “ concentrate ” Gaza’s population in camps ahead of their
+      forcible displacement — in keeping with Israel’s stated military goals of conquering
+      the Strip and expelling its people. In service of these goals, the GHF has replaced
+      the UN’s aid distribution system with what Gazans describe as “ death traps ,”
+      leading Palestinians to accuse the organization of fulfilling Israeli military
+      objectives under the guise of humanitarianism. In order to bolster this facade,
+      the GHF has been actively attempting to pressure international humanitarian organizations
+      into cooperating with the GHF and participating in its operations. The GHF has
+      also actively attempted to form a local network of distributors run by companies
+      known to have collaborated with the Israeli army in the past. Speaking with several
+      individuals and organizations approached by the GHF, Mondoweiss investigations
+      reveal that Israel and the GHF are attempting to coerce local and international
+      actors into cooperating with the U.S.-Israeli aid scheme. In some cases, the GHF
+      has tasked local companies to engage in outreach to the population to advertise
+      its centers and handle distribution and logistics. According to sources inside
+      Gaza, the Israeli army is also pursuing a broader strategy of pressuring humanitarian
+      organizations to either operate under the GHF framework or cease their activities
+      altogether. The Israeli military has reportedly forced several international organizations
+      to distribute their aid through GHF centers, overriding previous agreements that
+      allowed them to operate independently. In many cases, aid shipments that entered
+      through Israeli-controlled crossings were redirected — without the knowledge or
+      consent of the aid organizations — to the U.S. company’s centers. An official
+      security source in the Gaza civil government told Mondoweiss in mid-June that
+      Hamas possesses “reliable intelligence” confirming that the GHF has been pressuring
+      local institutions to participate in its operations. These attempts were meant
+      to force organizations to cooperate in a strategy of “engineering starvation and
+      managing chaos,” the official said, which he said was part of “a politically motivated
+      and security-driven project disguised in humanitarian garb.” “However, these institutions,
+      guided by their national consciousness and ethical commitment, refused to become
+      tools for a party responsible for our people’s suffering,” he added. But there
+      are some organizations that have cooperated. The GHF and the Israeli army have
+      essentially pursued two paths in dominating the humanitarian landscape in Gaza:
+      forcing international organizations to either work with the GHF or to halt operations,
+      and using local gangs and businesses as part of its “native” network, giving a
+      Palestinian face to an Israeli-U.S. operation with military and political objectives.
+      Here is how it has attempted to achieve the objective of building this network
+      of “aid collaborators.” The case of the al-Khozandar Company On the night of June
+      11, 12 employees working for a local trading company were killed after being publicly
+      detained by groups affiliated with Hamas’s security forces. Locals said they were
+      from the Arrow Force , the Hamas unit tasked with hunting down looters and Israeli-backed
+      gangs in Gaza. After being reportedly beaten and shot in the foot, the security
+      members publicly accused the individuals of working for a company allegedly collaborating
+      with the Israeli military. Eyewitnesses told Mondoweiss that the employees were
+      then lynched by a crowd of people who were allegedly incited by the security members,
+      who reportedly told the crowds that the employees were responsible for the deaths
+      of their loved ones at GHF sites. It later became clear that the individuals were
+      employees of the al-Khozandar Company, a commercial firm owned by a Palestinian
+      residing in Cairo. The killing of the employees sparked controversy and outrage,
+      with the victims’ families issuing a statement on June 17 demanding accountability.
+      The statement also denied allegations that their sons were working with the Israeli-backed
+      gang led by Yasser Abu Shabab that loots aid across Gaza, calling the accusations
+      “false and baseless.” The events surrounding the incident, however, reveal a more
+      complex picture. Before the families had issued their statement, the GHF condemned
+      the “murder of 12 of our aid workers.” In contrast, the families stated that their
+      sons were on their first day of work for al-Khozandar, suggesting that the company
+      was working closely with the GHF. The security source in the Gaza government who
+      spoke to Mondoweiss in June identified the Mohsen al-Khozandar Trading and Transport
+      corporation, headed by a man named Muhammad al-Khozandar, as a “morally and nationally
+      compromised” company that “coordinates directly with suspicious foreign actors
+      at the expense of our people’s interests.” This company, the source added, “contributes,
+      whether knowingly or not, to the systematic killing and starvation of Palestinians.”
+      He asserted that “certain measures” have already been taken against the company,
+      and that “more will follow,” including classifying the company as a “complicit
+      entity.” The Khozandar company has been operating in Gaza for years. Also known
+      as “Three Brothers,” the company specialized in bringing goods into Gaza in coordination
+      with Israel before the war, which led Hamas to classify the company as “collaborating
+      with the occupation,” according to the security source. The source added that,
+      during the war, the company’s activities expanded noticeably beyond trade, raising
+      suspicions of collaboration with the Israeli army’s military plans. According
+      to the Geneva Council for Rights and Liberties , Palestinian workers employed
+      by Three Brothers have been “forced to work under conditions resembling modern
+      slavery,” and have been forced to sort and load aid boxes under direct Israeli
+      supervision and to “serve American mercenaries.” The workers were subject to degrading
+      searches by Israeli soldiers, and were not paid any wages, only receiving a few
+      cigarettes and a single daily meal as compensation, according to the Geneva Council,
+      based on testimony it says it has verified. Al-Khozandar began implementing the
+      U.S.-Israeli aid distribution scheme in Rafah after it contracted with Safe Reach
+      Solution (SRS), a military contractor that is also the parent company of the GHF
+      and has reportedly conducted military-intelligence operations in Gaza using Israeli
+      data. According to a Financial Times investigation, the arrangement was for SRS
+      to provide security at the GHF centers, while the Khozandar company would run
+      distribution, specifically at the Tal Sultan center in Rafah. According to local
+      reports, al-Khozandar’s role in the aid scheme is to engage local individuals
+      and civil society organizations to cooperate with the GHF, while the FT investigation
+      quoted a source that said Three Brothers would be “the first interface with the
+      population” at the distribution sites, and that the Khozandar team “was well known
+      to the Israeli security establishment and had a long history of working with them.”
+      The FT reported that SRS had approached several other prominent businessmen in
+      Gaza to staff the centers, but that they refused to participate in the U.S.-Israeli
+      scheme, “arguing it amounted to forced displacement of people in the enclave.”
+      Meanwhile, the al-Khozandar family in Gaza issued a statement in May disavowing
+      the Mohsen Khozandar Company and condemning any activities carried out by Muhammad
+      al-Khozandar and his brothers, who manage the firm. The statement was supported
+      by the Contractors Union and business owners in Gaza, who described any cooperation
+      with this scheme as a “betrayal of national unity” and demanded strict accountability
+      for all those involved. Local testimonies also indicate that the company’s managers
+      from the al-Khozandar family phoned several prominent influencers and content
+      creators in Gaza, urging them to promote the company’s aid centers and claiming
+      they were safe and free from inspections or any violations of people’s dignity.
+      Yahya Hilles, a digital creator , told Mondoweiss that a person going by the name
+      of Noor al-Khozandar contacted him and spoke with him for over an hour, trying
+      to convince him to encourage people to go to the GHF centers. Hilles explained
+      that he consulted his family elders, who firmly opposed any involvement in promoting
+      this project. “Noor al-Khozandar kept insisting, urging me to go, film, and promote
+      the centers, but I repeatedly asked him why he came to me specifically,” Hilles
+      said. “He gave no clear answer. He knew that people trust me and believe what
+      I share on social media, so he wants to drag me into this. He told me there would
+      be no soldiers or Americans, and that I would just carry aid and return home.”
+      “I knew that, even if things might go smoothly the first or second time, it might
+      later turn into a disaster,” Hilles added. “In that case, I would be responsible
+      before my people, so I categorically refused. I told him clearly: this issue is
+      bigger than one person, with serious security and political implications. It cannot
+      be handled through a simple call from one person to another.” Israeli army attempts
+      to strong-arm international organizations Rahma Worldwide is among the most active
+      humanitarian organizations in Gaza since the war began, although it has been operating
+      in the territory since 2017. During the war, it became notably involved in facilitating
+      the entry of medical delegations and volunteers to Gaza hospitals, where they
+      provided services for a limited time before leaving the territory. The organization
+      has an extensive history in humanitarian relief. Recently, however, the Israeli
+      military attempted to coerce Rahma Worldwide into operating under the umbrella
+      of the GHF. In late May, the organization’s director, Dr. Shadi Zaza, told Mondoweiss
+      that Rahma Worldwide rejected the collaboration. Zaza stated that the organization
+      operates in Gaza as part of a group that includes several humanitarian institutions,
+      including some affiliated with the UN. He said that the Israeli army had informed
+      them of the addition of a new institution — the Gaza Humanitarian Foundation —
+      to this group, and later announced changes to the aid distribution plan, including
+      designating new distribution points where each organization would be required
+      to send its staff. “We are always on standby,” Zaza said. “We’re ready anytime
+      we’re permitted to bring in aid. Our goods are prepared and waiting at the crossings.”
+      He noted that Rahma Worldwide had received permission the previous month to deliver
+      four trucks carrying 4,000 food parcels, only to be surprised by an Israeli army
+      order to transfer the aid to distribution points managed by the GHF, along with
+      a demand that Rahma staff help with distribution there. “We categorically refused
+      this request,” Zaza stated. “Our agreement with the army was clear — we would
+      distribute our parcels at locations designated for our organization, not those
+      belonging to any other.” Despite Rahma Worldwide’s request that the parcels be
+      redirected to their own sites, the army insisted on sending them to the GHF-run
+      facilities. The army also declared that GHF was now the sole authority responsible
+      for aid distribution in Gaza. Accordingly, the 4,000 parcels were transferred
+      to Rafah, and the army contacted Rahma’s team, urging them to assist with distribution.
+      But the team reached out to the organization’s U.S. headquarters, which unequivocally
+      rejected involvement with Gaza Humanitarian Foundation. “We will not be part of
+      this mechanism. We reject it entirely,” said Al-Zaza, highlighting that the army
+      continues to pressure aid groups, especially those importing goods from Egypt,
+      Jordan, or even the West Bank, insisting that all items be sourced from within
+      Israel. As a final request, Rahma Worldwide asked for its logos to be removed
+      from the food boxes that were to be distributed at the GHF’s sites to avoid appearing
+      as a participant or collaborator in the distribution scheme. This reflects the
+      organization’s firm opposition to the scheme, Zaza said. According to the organization,
+      some of the logos were removed, but boxes bearing the Rahma logo were nonetheless
+      distributed at locations affiliated with the GHF at least on one occasion, which
+      the organization said was beyond its control. Rahma identified these Israeli efforts
+      early on as attempts to forcibly integrate it into the GHF’s network. Upon the
+      organization’s refusal, the army imposed even more stringent conditions for aid
+      entry. “We have over 20,000 food parcels ready in our warehouses,” Zaza added.
+      “But we refuse to deliver them through the American organization’s mechanism.
+      That organization was originally just one of many working here—we had no issue
+      with that. But now that it’s trying to monopolize aid and impose its control,
+      that is completely unacceptable.” This stance of refusal reflects a broader trend
+      among humanitarian organizations in Gaza, many of which oppose the GHF for its
+      role in facilitating Israeli military objectives. Continued pressure for these
+      organizations to work with the GHF or leave, some warn, could lead to the withdrawal
+      of many aid organizations from Gaza entirely, creating a severe gap in humanitarian
+      assistance. “If Israel continues imposing this style of control and management,
+      we simply won’t bring in aid,” Zaza said. “Other organizations may follow our
+      lead. This policy — though unofficial — may well be Israel’s way of clearing the
+      field of independent organizations and turning humanitarian work into a fully
+      controlled instrument.” Some international humanitarian organizations have begun
+      cutting ties with the Boston Consulting Group, the company that helped conceive
+      and launch the GHF and had even modelled the costs of “relocating” Palestinians
+      outside of Gaza. Save the Children recently ended a two-decade partnership with
+      the BCG over its role in the GHF, calling the aid organization’s plan to forcibly
+      displace Gaza’s population “utterly unacceptable.” BCG’s chief executive admitted
+      that its involvement in the GHF was “reputationally damaging” and the result of
+      “deliberate individual misconduct” and “missed warning signs.” The GHF has continued
+      to push organizations to work with it as the humanitarian situation in Gaza continues
+      to worsen. On July 6, the GHF announced that it had met with the Country Director
+      of the UN’s World Food Programme (WFP) to propose a plan to help it “feed the
+      north of Gaza.” “Right now, nearly all their trucks are being looted,” the GHF
+      said. “We hope they will put politics aside and accept our proposal soon so we
+      can achieve our shared mission: getting more aid to the people of Gaza.” The GHF
+      was responding to a WFP statement that the need for food in Gaza was desperate.
+      “WFP stand ready to assist the entire population,” the WFP said. “We have the
+      food, the capacity and the systems.” The WFP could not be reached for comment.
+      In an abrupt development on Monday, July 7, the GHF announced the closure of its
+      center in central Gaza near the Netzarim Corridor until further notice. This was
+      followed by another announcement Wednesday, July 9, declaring the closure of its
+      distribution point in Khan Younis. At present, only the GHF’s distribution center
+      in Rafah remains operational. These announcements come amid ongoing ceasefire
+      negotiations between Israel and Hamas. One of Hamas’s conditions for the prospective
+      60-day ceasefire period is that aid distributions be handled exclusively by the
+      United Nations and its agencies operating in Gaza, completely excluding the GHF.
+      This condition was reportedly accepted in the ceasefire talks. This has led local
+      reporters to speculate that the closure of the GHF’s distribution centers indicates
+      that agreement regarding the ceasefire’s terms are near, with the GHF complying
+      with Hamas’s demand by halting its operations in the Strip. Local sources say
+      it is expected that the Rafah distribution center may also be closed in the coming
+      days, signaling that the ceasefire might soon go into effect. Muhammad Eslayeh
+      and Ahmad Jalal contributed reporting to this piece. Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Tareq S. Hajjaj
+      Tareq S. Hajjaj is the Mondoweiss Gaza Correspondent, and a member of the Palestinian
+      Writers Union. He studied English Literature at Al-Azhar University in Gaza. He
+      started his career in journalism in 2015 working as a news writer and translator
+      for the local newspaper, Donia al-Watan. He has reported for Elbadi , Middle East
+      Eye , and Al Monitor . Follow him on Twitter at @Tareqshajjaj . Author Site Please
+      share this story and help us grow our network!'
+    one_sentence_summary: The Gaza Humanitarian Foundation, backed by Israel and the
+      U.S., faces backlash for allegedly facilitating Israel's plans to displace Gaza's
+      population under the guise of humanitarian aid, leading to accusations of complicity
+      in military objectives.
+    paragraph_summary: The Gaza Humanitarian Foundation (GHF), backed by Israel and
+      the U.S., is facing significant backlash as it becomes increasingly implicated
+      in Israel's strategy to concentrate Gaza's population in camps for forced displacement,
+      aligning with military objectives to conquer the region. Reports indicate that
+      the GHF has replaced the UN's aid distribution system with what locals describe
+      as "death traps," leading to accusations of the organization masquerading as a
+      humanitarian entity while serving Israeli military interests. Investigations reveal
+      that the GHF is pressuring both local and international humanitarian organizations
+      to cooperate with its operations and has enlisted local companies with ties to
+      the Israeli army to manage aid distribution. Additionally, the Israeli military
+      is reportedly coercing humanitarian groups to either work under the GHF framework
+      or cease their operations entirely, further consolidating control over aid in
+      Gaza.
+    published: '2025-07-11T09:05:00+00:00'
+  - title: As Trump Threatens BRICS, It Grows Stronger, Resisting US Dollar and Western
+      Imperialism
+    url: https://scheerpost.com/2025/07/11/as-trump-threatens-brics-it-grows-stronger-resisting-us-dollar-and-western-imperialism/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Ben
+      Norton / Geopolitical Economy Report The Global South-led organization BRICS has
+      been growing in size and influence, and this has frightened some Western politicians.
+      Donald Trump is particularly rattled. After he returned to the White House for
+      his second term as US president, Trump threatened very high tariffs on BRICS,
+      and falsely said he had destroyed the organization. “BRICS is dead”, Trump claimed
+      in a press conference on 13 February. The US president stated: BRICS was put there
+      for a bad purpose, and most of those people don’t want — they don’t even want
+      to talk about it now; they’re afraid to talk about it. Because I told them, if
+      they want to play games with the dollar, then they’re going to be hit with a 100%
+      tariff, the day they mention that they want to do it. And they will come back
+      and say, “We beg you, we beg you not to do this”. BRICS is dead, since I mentioned
+      that. BRICS died the minute I mentioned that. And I know, I remember when Obama
+      and Biden in particular, I guess he said that, “Oh, they have us over a barrel”.
+      They don’t have us over a barrel; we have them over a barrel. If BRICS wants to
+      play games, those countries won’t trade with us; we won’t trade with them. And
+      if any trading gets through, it’ll be a 100% tariff, at least. Trump’s claim that
+      “BRICS is dead” could not be further from the truth. The exact opposite is happening:
+      BRICS is continuously expanding. 2025 BRICS summit in Río de Janeiro, Brazil In
+      July, representatives of BRICS countries gathered in Brazil for an annual summit.
+      This was the first meeting that featured the 10 partner countries that were added
+      to BRICS in 2025, in addition to the new members that were admitted in 2024. BRICS
+      now consists of 20 countries. The 10 BRICS members are the founding five — Brazil,
+      Russia, India, China, and South Africa — plus Egypt, Ethiopia, Indonesia, Iran,
+      and the United Arab Emirates. The 10 BRICS partners are Belarus, Bolivia, Cuba,
+      Kazakhstan, Malaysia, Nigeria, Thailand, Uganda, Uzbekistan, and Vietnam. The
+      2025 BRICS summit in Río de Janeiro was historic, because it included for the
+      first time the participation of Vietnam , which had been admitted to the group
+      in June. Geopolitical Economy Report previously detailed how the US government
+      has tried to divide China and Vietnam , in an unsuccessful attempt to recruit
+      Hanoi for Washington’s Cold War Two against Beijing. Vietnam’s decision to join
+      BRICS was a clear sign that its foreign policy remains independent and non-aligned.
+      Moreover, on the sidelines of the BRICS summit in Brazil, Reuters reported that
+      Vietnam’s Prime Minister Pham Minh Chinh and China’s Premier Li Qiang held a friendly
+      meeting, and “ agreed to boost trade and investment ties”. The 2025 BRICS summit
+      also featured the participation of Cuba’s President Miguel Díaz-Canel. This was
+      symbolic, given that Cuba has suffered under illegal US sanctions and a devastating
+      blockade for more than 60 years, despite the fact that, every year the United
+      Nations General Assembly, nearly every country on Earth votes to demand an end
+      to the criminal US embargo. The vision that BRICS has for a more multipolar world,
+      where the Global South is equal and the colonialist nations of the Global North
+      no longer have an unfair “exorbitant privilege”, is very attractive to most countries
+      on Earth. Even the United States’ top trading partner and southern neighbor, Mexico,
+      participated in the BRICS summit in Río de Janeiro. Mexico’s progressive President
+      Claudia Sheinbaum sent Foreign Secretary Juan Ramón de la Fuente to Brazil to
+      participate, even though Mexico is not officially a member or partner of BRICS.
+      The Mexican government announced that it had been invited to serve as an “observer”
+      by Brazil, which holds the annual rotating BRICS presidency for 2025. Trump threatens
+      more tariffs on BRICS countries The US president clearly was unsettled by the
+      BRICS summit held in Brazil on 6 July, because on that day he took to his website
+      Truth Social to threaten the organization. “Any Country aligning themselves with
+      the Anti-American policies of BRICS, will be charged an ADDITIONAL 10% Tariff”,
+      Trump wrote. “There will be no exceptions to this policy”, he added. This 10%
+      tariff threat was a significant reduction of the 100% duty that Trump had originally
+      vowed to impose on BRICS countries. Brazil’s President Lula da Silva shot back
+      at Trump’s threats, implying that the US president was trying to become a global
+      “emperor”. “The world has changed. We don’t want an emperor”, Lula said . “This
+      is a set of countries that wants to find another way of organizing the world from
+      the economic perspective”, Lula added. “I think that’s why the BRICS are making
+      people uncomfortable”. Trump falsely claimed that Spain is part of BRICS Nevertheless,
+      it should be underscored that Trump doesn’t really understand what BRICS is. In
+      a White House press conference in January, Trump again threatened BRICS, and he
+      falsely claimed that Spain is part of the Global South-led organization. The European
+      nation is not involved, and never has been. Trump said: They’re a BRICS nation,
+      Spain. You know what a BRICS nation is? You’ll figure it out. But — and if the
+      BRICS nations want to do that, that’s okay, but we’re going to put at least a
+      100% tariff on the business they do with the United States. You know what the
+      BRICS is, right? You guys know, you know what I’m saying, you know what I’m saying.
+      BRICS: 44% of global GDP (PPP), 56% of world population The US government’s fear
+      of BRICS is rooted in the Global South-led organization’s increasing power. The
+      20 BRICS members and partners already represent more than two-fifths of the global
+      economy: 43.93% of world GDP , when measured at purchasing power parity (PPP).
+      The BRICS 20 also have a combined population of 4.45 billion, meaning they represent
+      55.61% of the global population — the majority of the world. BRICS discusses dedollarization
+      One of the key issues discussed at the 2025 BRICS summit was dedollarization —
+      the attempt to create alternatives to the US dollar as the global reserve currency.
+      Brazil’s left-wing President Lula da Silva has long been an advocate of dedollarization
+      . “The world needs to find a way that our trade relations don’t have to pass through
+      the dollar”, Lula said at the BRICS summit . “Obviously, we have to be responsible
+      about doing that carefully. Our central banks have to discuss it with central
+      banks from other countries”, the Brazilian leader explained, according to Reuters.
+      He added, “That’s something that happens gradually until it’s consolidated”. Lula
+      qualified that dedollarization is “complicated” and will be a slow, gradual process,
+      but he maintained that it is necessary. At the 2025 BRICS summit, the Brazilian
+      president even reiterated his call for the creation of a new global currency to
+      challenge the US dollar. “That’s why your debate about the need for a new trade
+      currency is so important . Is it complicated? I know. There are political challenges.
+      But if we don’t find a new formula, we’ll end the 21st century the same way we
+      started the 20th. And that won’t benefit humanity”, Lula said. BRICS initiatives
+      to advance dedollarization At the summit on 6 July, 2025, the 20 BRICS members
+      and partners signed a lengthy joint statement. The Rio de Janeiro Declaration
+      was 31 pages long, and consisted of 126 points, encompassing a wide variety of
+      subjects. The joint declaration made many references to BRICS initiatives to encourage
+      dedollarization. It called to strengthen the BRICS bank, the New Development Bank
+      (NDB), to “support its growing role as a robust and strategic agent of development
+      and modernization in the Global South”. In particular, the document emphasized
+      the need for the NDB to “expand local currency financing”. The BRICS declaration
+      similarly urged further development of the Contingent Reserve Arrangement (CRA),
+      which could serve as an alternative to the US-dominated International Monetary
+      Fund (IMF), by providing short-term liquidity to countries facing balance-of-payments
+      crises. Another initiative discussed in the document was the New Investment Platform
+      (NIP), which seeks to facilitate investments in local currencies, instead of US
+      dollars, British pounds, or euro. The declaration addressed the BRICS Interbank
+      Cooperation Mechanism (ICM), which is working on “finding acceptable mechanisms
+      of financing in local currencies”. The joint statement also highlighted the work
+      of the BRICS Cross-Border Payments Initiative and BRICS Payment Task Force (BPTF),
+      which it noted are identifying “the potential for greater interoperability of
+      BRICS payment systems”, as part of “efforts to facilitate fast, low-cost, more
+      accessible, efficient, transparent, and safe cross-border payments among BRICS
+      countries and other nations and which can support greater trade and investment
+      flows”. BRICS New Development Bank expands The current chief of the BRICS bank
+      is Dilma Rousseff, the former president of Brazil, from Lula’s left-wing Workers’
+      Party. She announced that two more countries had joined the New Development Bank:
+      Colombia and Uzbekistan. Colombia’s accession was especially symbolic, given that
+      the South American nation has historically been one of the closest allies of the
+      United States. Under its first ever left-wing president, Gustavo Petro, Colombia
+      has adopted a more non-aligned foreign policy, and has expressed support for BRICS.
+      Just a few days before the BRICS summit, leaked audio recordings exposed the US
+      government’s links to a coup attempt against Colombia’s democratically elected
+      left-wing leader. With the addition of Colombia and Uzbekistan, the New Development
+      Bank now has 11 members, including the founding five of Brazil, Russia, India,
+      China, and South Africa, plus the United Arab Emirates, Bangladesh, Egypt, and
+      Algeria. BRICS promotes trade, investment, and lending in local currencies In
+      her remarks at the BRICS summit, Dilma emphasized that the New Development Bank
+      is promoting financing in local currencies. “Any business or government that borrows
+      in foreign currency becomes subject to decisions made by the Federal Reserve or
+      other central banks in developed nations”, she said, warning of exchange-rate
+      risk and currency volatility. As a positive example of an alternative, the BRICS
+      website noted that Dilma “pointed to a project in Brasil funded directly in renminbi,
+      without the need for dollar conversion”. The official BRICS readout of Dilma’s
+      speech emphasized that “local-currency operations will remain an absolute priority
+      as a means of building a more diverse, balanced international financial system”.
+      Dedollarization will be slow and steady, the NDB president stressed. The role
+      of the US dollar as the global reserve currency will not end overnight, “But the
+      rise of initiatives to expand trade in local currencies is undeniable, and I see
+      that as a positive development”, Dilma explained. BRICS follows in footsteps of
+      Non-Aligned Movement and Bandung Conference In speeches they delivered at the
+      2025 summit, several Global South leaders emphasized that they see BRICS as following
+      in the footsteps of the Non-Aligned Movement and the anti-colonial Bandung Conference
+      of 1955. Brazil’s President Lula declared that “BRICS is an indispensable actor
+      in the struggle for a multipolar, less asymmetrical, and more peaceful world”.
+      He lamented that the US-dominated international financial system benefits the
+      rich colonial countries at the expense of the poor, formerly colonized ones. Lula
+      stated (emphasis added): The frameworks of the World Bank and the IMF currently
+      support a “ reverse Marshall Plan ,” where emerging and developing economies essentially
+      finance the more developed world. International aid flows have decreased, and
+      debt costs for the poorest countries have soared. The neoliberal model only deepens
+      inequalities. For instance, 3000 billionaires have collectively earned USD 6.5
+      trillion since 2015. Tax justice and the fight against tax evasion are essential
+      to truly consolidate inclusive and sustainable growth strategies fit for the 21st
+      century. In another speech at the BRICS summit, the Brazilian president said the
+      following (emphasis added): The United Nations recently marked its 80 th anniversary
+      on June 26 of this year, and we are witnessing an unprecedented collapse of multilateralism.
+      The advent of the UN marked the defeat of Nazi-Fascism and the birth of a sense
+      of collective hope. The vast majority of countries that currently comprise the
+      BRICS were among its founders. Ten years later, the Bandung Conference refuted
+      the division of the world into zones of influence and advanced the fight for a
+      multipolar international order. BRICS is an heir of the Non-Aligned Movement.
+      With multilateralism under attack, our autonomy is once again in check. … International
+      law has become a dead letter , as has the pacific resolution of controversies.
+      We are before an unprecedented number of conflicts since World War II. NATO’s
+      recent decision feeds the arms race. It is easier to designate 5% of the GDP to
+      military spending than to allocate the 0.7% that has been promised for Official
+      Development Assistance. Lula condemned the “genocidal practices by Israel in Gaza,
+      the indiscriminate killing of innocent civilians, and the use of starvation as
+      a weapon of war”. The Brazilian government demanded an “end of the Israeli occupation
+      and the establishment of a sovereign Palestinian State”. Lula also “denounced
+      the violations of Iran’s territorial integrity” by the United States and Israel.
+      Lamenting the “loss of credibility and paralysis” in the UN Security Council,
+      due to Washington’s abuse of its veto power, Brazil reiterated its call for “deep
+      transformations in the Security Council”, with the inclusion of “new permanent
+      members from Asia, Africa, Latin America, and the Caribbean”. Malaysia’s Prime
+      Minister Anwar Ibrahim also delivered a powerful speech likening BRICS to the
+      Non-Aligned Movement and Bandung Conference. Anwar stated (emphasis added): It
+      is a historic moment for those of you who have been following the antecedents
+      of history, who realize the attempt to save the voice of newly emerging economies
+      and countries post colonialism was by Sukarno of Indonesia, Zhou Enlai of China,
+      Jawaharlal Nehru of India, Kwame Nkrumah of Africa. It was a bold attempt to ensure
+      that the voice of conscience, those struggling for freedom and justice is heard.
+      Not much success. It was a bold attempt. Then we have a Non-aligned Movement ,
+      proceeding that. Then we have G77 , still not achieving the desired results. Now,
+      I salute you, President Lula, for having the courage to proceed with a clear vision,
+      a clear commitment to voice the concerns, aspirations of the people, particularly
+      of the Global South. … We have enormous potential to increase because only with
+      that strength can we safely, fairly, justly negotiate with all other partners
+      multilaterally. We must demand a change. Democratic, just international and multilateral
+      organization from the United Nations to WTO to IMF in the World Bank … We have
+      attempted in ASEAN other than enhancing international trade is even using financial
+      settlement systems. We use our local currency. Of course, we’re not talking about
+      de-dollarization because there’s a long way to go, but at least we try, Malaysia
+      with Indonesia, Malaysia with Thailand, and together with China, trying to use
+      our own local currency, even beginning with 10 or 20%, it makes a difference,
+      because we cannot continue complaining but not executing our own plan among in
+      our countries and our friendly neighbors. … But I come back to the major and central
+      issue: BRICS today of 2025 is not the first attempt. The Bandung Conference of
+      1955 — at that time we were struggling, No industry, no new technology, no competence
+      except for a united nation, the country, and political leadership. Now we have
+      political leadership with that vision and we have strong business community. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Ben Norton Ben
+      Norton is a journalist, writer, and filmmaker. He is the founder and editor of
+      Geopolitical Economy Report, and is based in China. Author Site Please share this
+      story and help us grow our network!'
+    one_sentence_summary: The article discusses how the growing influence of the BRICS
+      organization has alarmed Western politicians, particularly Donald Trump, who falsely
+      claimed the organization is dead and threatened high tariffs on its members for
+      challenging the dominance of the US dollar.
+    paragraph_summary: The article discusses the growing influence of the BRICS organization,
+      which has alarmed some Western politicians, particularly Donald Trump. After returning
+      to the White House, Trump claimed that BRICS was "dead" and threatened high tariffs
+      on its members if they engaged in trade that undermined the US dollar. Despite
+      his assertions, the article argues that BRICS is actually expanding, with a recent
+      summit in Brazil marking the inclusion of ten new partner countries, bringing
+      its total membership to 20. The piece emphasizes the contrast between Trump's
+      rhetoric and the reality of BRICS's increasing prominence on the global stage.
+    published: '2025-07-11T09:00:00+00:00'
+  - title: As Trump Threatens BRICS, It Grows Stronger, Resisting US Dollar and Western
+      Imperialism
+    url: https://scheerpost.com/2025/07/11/as-trump-threatens-brics-it-grows-stronger-resisting-us-dollar-and-western-imperialism/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Ben
+      Norton / Geopolitical Economy Report The Global South-led organization BRICS has
+      been growing in size and influence, and this has frightened some Western politicians.
+      Donald Trump is particularly rattled. After he returned to the White House for
+      his second term as US president, Trump threatened very high tariffs on BRICS,
+      and falsely said he had destroyed the organization. “BRICS is dead”, Trump claimed
+      in a press conference on 13 February. The US president stated: BRICS was put there
+      for a bad purpose, and most of those people don’t want — they don’t even want
+      to talk about it now; they’re afraid to talk about it. Because I told them, if
+      they want to play games with the dollar, then they’re going to be hit with a 100%
+      tariff, the day they mention that they want to do it. And they will come back
+      and say, “We beg you, we beg you not to do this”. BRICS is dead, since I mentioned
+      that. BRICS died the minute I mentioned that. And I know, I remember when Obama
+      and Biden in particular, I guess he said that, “Oh, they have us over a barrel”.
+      They don’t have us over a barrel; we have them over a barrel. If BRICS wants to
+      play games, those countries won’t trade with us; we won’t trade with them. And
+      if any trading gets through, it’ll be a 100% tariff, at least. Trump’s claim that
+      “BRICS is dead” could not be further from the truth. The exact opposite is happening:
+      BRICS is continuously expanding. 2025 BRICS summit in Río de Janeiro, Brazil In
+      July, representatives of BRICS countries gathered in Brazil for an annual summit.
+      This was the first meeting that featured the 10 partner countries that were added
+      to BRICS in 2025, in addition to the new members that were admitted in 2024. BRICS
+      now consists of 20 countries. The 10 BRICS members are the founding five — Brazil,
+      Russia, India, China, and South Africa — plus Egypt, Ethiopia, Indonesia, Iran,
+      and the United Arab Emirates. The 10 BRICS partners are Belarus, Bolivia, Cuba,
+      Kazakhstan, Malaysia, Nigeria, Thailand, Uganda, Uzbekistan, and Vietnam. The
+      2025 BRICS summit in Río de Janeiro was historic, because it included for the
+      first time the participation of Vietnam , which had been admitted to the group
+      in June. Geopolitical Economy Report previously detailed how the US government
+      has tried to divide China and Vietnam , in an unsuccessful attempt to recruit
+      Hanoi for Washington’s Cold War Two against Beijing. Vietnam’s decision to join
+      BRICS was a clear sign that its foreign policy remains independent and non-aligned.
+      Moreover, on the sidelines of the BRICS summit in Brazil, Reuters reported that
+      Vietnam’s Prime Minister Pham Minh Chinh and China’s Premier Li Qiang held a friendly
+      meeting, and “ agreed to boost trade and investment ties”. The 2025 BRICS summit
+      also featured the participation of Cuba’s President Miguel Díaz-Canel. This was
+      symbolic, given that Cuba has suffered under illegal US sanctions and a devastating
+      blockade for more than 60 years, despite the fact that, every year the United
+      Nations General Assembly, nearly every country on Earth votes to demand an end
+      to the criminal US embargo. The vision that BRICS has for a more multipolar world,
+      where the Global South is equal and the colonialist nations of the Global North
+      no longer have an unfair “exorbitant privilege”, is very attractive to most countries
+      on Earth. Even the United States’ top trading partner and southern neighbor, Mexico,
+      participated in the BRICS summit in Río de Janeiro. Mexico’s progressive President
+      Claudia Sheinbaum sent Foreign Secretary Juan Ramón de la Fuente to Brazil to
+      participate, even though Mexico is not officially a member or partner of BRICS.
+      The Mexican government announced that it had been invited to serve as an “observer”
+      by Brazil, which holds the annual rotating BRICS presidency for 2025. Trump threatens
+      more tariffs on BRICS countries The US president clearly was unsettled by the
+      BRICS summit held in Brazil on 6 July, because on that day he took to his website
+      Truth Social to threaten the organization. “Any Country aligning themselves with
+      the Anti-American policies of BRICS, will be charged an ADDITIONAL 10% Tariff”,
+      Trump wrote. “There will be no exceptions to this policy”, he added. This 10%
+      tariff threat was a significant reduction of the 100% duty that Trump had originally
+      vowed to impose on BRICS countries. Brazil’s President Lula da Silva shot back
+      at Trump’s threats, implying that the US president was trying to become a global
+      “emperor”. “The world has changed. We don’t want an emperor”, Lula said . “This
+      is a set of countries that wants to find another way of organizing the world from
+      the economic perspective”, Lula added. “I think that’s why the BRICS are making
+      people uncomfortable”. Trump falsely claimed that Spain is part of BRICS Nevertheless,
+      it should be underscored that Trump doesn’t really understand what BRICS is. In
+      a White House press conference in January, Trump again threatened BRICS, and he
+      falsely claimed that Spain is part of the Global South-led organization. The European
+      nation is not involved, and never has been. Trump said: They’re a BRICS nation,
+      Spain. You know what a BRICS nation is? You’ll figure it out. But — and if the
+      BRICS nations want to do that, that’s okay, but we’re going to put at least a
+      100% tariff on the business they do with the United States. You know what the
+      BRICS is, right? You guys know, you know what I’m saying, you know what I’m saying.
+      BRICS: 44% of global GDP (PPP), 56% of world population The US government’s fear
+      of BRICS is rooted in the Global South-led organization’s increasing power. The
+      20 BRICS members and partners already represent more than two-fifths of the global
+      economy: 43.93% of world GDP , when measured at purchasing power parity (PPP).
+      The BRICS 20 also have a combined population of 4.45 billion, meaning they represent
+      55.61% of the global population — the majority of the world. BRICS discusses dedollarization
+      One of the key issues discussed at the 2025 BRICS summit was dedollarization —
+      the attempt to create alternatives to the US dollar as the global reserve currency.
+      Brazil’s left-wing President Lula da Silva has long been an advocate of dedollarization
+      . “The world needs to find a way that our trade relations don’t have to pass through
+      the dollar”, Lula said at the BRICS summit . “Obviously, we have to be responsible
+      about doing that carefully. Our central banks have to discuss it with central
+      banks from other countries”, the Brazilian leader explained, according to Reuters.
+      He added, “That’s something that happens gradually until it’s consolidated”. Lula
+      qualified that dedollarization is “complicated” and will be a slow, gradual process,
+      but he maintained that it is necessary. At the 2025 BRICS summit, the Brazilian
+      president even reiterated his call for the creation of a new global currency to
+      challenge the US dollar. “That’s why your debate about the need for a new trade
+      currency is so important . Is it complicated? I know. There are political challenges.
+      But if we don’t find a new formula, we’ll end the 21st century the same way we
+      started the 20th. And that won’t benefit humanity”, Lula said. BRICS initiatives
+      to advance dedollarization At the summit on 6 July, 2025, the 20 BRICS members
+      and partners signed a lengthy joint statement. The Rio de Janeiro Declaration
+      was 31 pages long, and consisted of 126 points, encompassing a wide variety of
+      subjects. The joint declaration made many references to BRICS initiatives to encourage
+      dedollarization. It called to strengthen the BRICS bank, the New Development Bank
+      (NDB), to “support its growing role as a robust and strategic agent of development
+      and modernization in the Global South”. In particular, the document emphasized
+      the need for the NDB to “expand local currency financing”. The BRICS declaration
+      similarly urged further development of the Contingent Reserve Arrangement (CRA),
+      which could serve as an alternative to the US-dominated International Monetary
+      Fund (IMF), by providing short-term liquidity to countries facing balance-of-payments
+      crises. Another initiative discussed in the document was the New Investment Platform
+      (NIP), which seeks to facilitate investments in local currencies, instead of US
+      dollars, British pounds, or euro. The declaration addressed the BRICS Interbank
+      Cooperation Mechanism (ICM), which is working on “finding acceptable mechanisms
+      of financing in local currencies”. The joint statement also highlighted the work
+      of the BRICS Cross-Border Payments Initiative and BRICS Payment Task Force (BPTF),
+      which it noted are identifying “the potential for greater interoperability of
+      BRICS payment systems”, as part of “efforts to facilitate fast, low-cost, more
+      accessible, efficient, transparent, and safe cross-border payments among BRICS
+      countries and other nations and which can support greater trade and investment
+      flows”. BRICS New Development Bank expands The current chief of the BRICS bank
+      is Dilma Rousseff, the former president of Brazil, from Lula’s left-wing Workers’
+      Party. She announced that two more countries had joined the New Development Bank:
+      Colombia and Uzbekistan. Colombia’s accession was especially symbolic, given that
+      the South American nation has historically been one of the closest allies of the
+      United States. Under its first ever left-wing president, Gustavo Petro, Colombia
+      has adopted a more non-aligned foreign policy, and has expressed support for BRICS.
+      Just a few days before the BRICS summit, leaked audio recordings exposed the US
+      government’s links to a coup attempt against Colombia’s democratically elected
+      left-wing leader. With the addition of Colombia and Uzbekistan, the New Development
+      Bank now has 11 members, including the founding five of Brazil, Russia, India,
+      China, and South Africa, plus the United Arab Emirates, Bangladesh, Egypt, and
+      Algeria. BRICS promotes trade, investment, and lending in local currencies In
+      her remarks at the BRICS summit, Dilma emphasized that the New Development Bank
+      is promoting financing in local currencies. “Any business or government that borrows
+      in foreign currency becomes subject to decisions made by the Federal Reserve or
+      other central banks in developed nations”, she said, warning of exchange-rate
+      risk and currency volatility. As a positive example of an alternative, the BRICS
+      website noted that Dilma “pointed to a project in Brasil funded directly in renminbi,
+      without the need for dollar conversion”. The official BRICS readout of Dilma’s
+      speech emphasized that “local-currency operations will remain an absolute priority
+      as a means of building a more diverse, balanced international financial system”.
+      Dedollarization will be slow and steady, the NDB president stressed. The role
+      of the US dollar as the global reserve currency will not end overnight, “But the
+      rise of initiatives to expand trade in local currencies is undeniable, and I see
+      that as a positive development”, Dilma explained. BRICS follows in footsteps of
+      Non-Aligned Movement and Bandung Conference In speeches they delivered at the
+      2025 summit, several Global South leaders emphasized that they see BRICS as following
+      in the footsteps of the Non-Aligned Movement and the anti-colonial Bandung Conference
+      of 1955. Brazil’s President Lula declared that “BRICS is an indispensable actor
+      in the struggle for a multipolar, less asymmetrical, and more peaceful world”.
+      He lamented that the US-dominated international financial system benefits the
+      rich colonial countries at the expense of the poor, formerly colonized ones. Lula
+      stated (emphasis added): The frameworks of the World Bank and the IMF currently
+      support a “ reverse Marshall Plan ,” where emerging and developing economies essentially
+      finance the more developed world. International aid flows have decreased, and
+      debt costs for the poorest countries have soared. The neoliberal model only deepens
+      inequalities. For instance, 3000 billionaires have collectively earned USD 6.5
+      trillion since 2015. Tax justice and the fight against tax evasion are essential
+      to truly consolidate inclusive and sustainable growth strategies fit for the 21st
+      century. In another speech at the BRICS summit, the Brazilian president said the
+      following (emphasis added): The United Nations recently marked its 80 th anniversary
+      on June 26 of this year, and we are witnessing an unprecedented collapse of multilateralism.
+      The advent of the UN marked the defeat of Nazi-Fascism and the birth of a sense
+      of collective hope. The vast majority of countries that currently comprise the
+      BRICS were among its founders. Ten years later, the Bandung Conference refuted
+      the division of the world into zones of influence and advanced the fight for a
+      multipolar international order. BRICS is an heir of the Non-Aligned Movement.
+      With multilateralism under attack, our autonomy is once again in check. … International
+      law has become a dead letter , as has the pacific resolution of controversies.
+      We are before an unprecedented number of conflicts since World War II. NATO’s
+      recent decision feeds the arms race. It is easier to designate 5% of the GDP to
+      military spending than to allocate the 0.7% that has been promised for Official
+      Development Assistance. Lula condemned the “genocidal practices by Israel in Gaza,
+      the indiscriminate killing of innocent civilians, and the use of starvation as
+      a weapon of war”. The Brazilian government demanded an “end of the Israeli occupation
+      and the establishment of a sovereign Palestinian State”. Lula also “denounced
+      the violations of Iran’s territorial integrity” by the United States and Israel.
+      Lamenting the “loss of credibility and paralysis” in the UN Security Council,
+      due to Washington’s abuse of its veto power, Brazil reiterated its call for “deep
+      transformations in the Security Council”, with the inclusion of “new permanent
+      members from Asia, Africa, Latin America, and the Caribbean”. Malaysia’s Prime
+      Minister Anwar Ibrahim also delivered a powerful speech likening BRICS to the
+      Non-Aligned Movement and Bandung Conference. Anwar stated (emphasis added): It
+      is a historic moment for those of you who have been following the antecedents
+      of history, who realize the attempt to save the voice of newly emerging economies
+      and countries post colonialism was by Sukarno of Indonesia, Zhou Enlai of China,
+      Jawaharlal Nehru of India, Kwame Nkrumah of Africa. It was a bold attempt to ensure
+      that the voice of conscience, those struggling for freedom and justice is heard.
+      Not much success. It was a bold attempt. Then we have a Non-aligned Movement ,
+      proceeding that. Then we have G77 , still not achieving the desired results. Now,
+      I salute you, President Lula, for having the courage to proceed with a clear vision,
+      a clear commitment to voice the concerns, aspirations of the people, particularly
+      of the Global South. … We have enormous potential to increase because only with
+      that strength can we safely, fairly, justly negotiate with all other partners
+      multilaterally. We must demand a change. Democratic, just international and multilateral
+      organization from the United Nations to WTO to IMF in the World Bank … We have
+      attempted in ASEAN other than enhancing international trade is even using financial
+      settlement systems. We use our local currency. Of course, we’re not talking about
+      de-dollarization because there’s a long way to go, but at least we try, Malaysia
+      with Indonesia, Malaysia with Thailand, and together with China, trying to use
+      our own local currency, even beginning with 10 or 20%, it makes a difference,
+      because we cannot continue complaining but not executing our own plan among in
+      our countries and our friendly neighbors. … But I come back to the major and central
+      issue: BRICS today of 2025 is not the first attempt. The Bandung Conference of
+      1955 — at that time we were struggling, No industry, no new technology, no competence
+      except for a united nation, the country, and political leadership. Now we have
+      political leadership with that vision and we have strong business community. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Ben Norton Ben
+      Norton is a journalist, writer, and filmmaker. He is the founder and editor of
+      Geopolitical Economy Report, and is based in China. Author Site Please share this
+      story and help us grow our network!'
+    one_sentence_summary: The article discusses how the growing influence of the BRICS
+      organization has alarmed Western politicians, particularly Donald Trump, who falsely
+      claimed the organization is dead and threatened high tariffs on its members for
+      challenging the dominance of the US dollar.
+    paragraph_summary: The article discusses the growing influence of the BRICS organization,
+      which has alarmed some Western politicians, particularly Donald Trump. After returning
+      to the White House, Trump claimed that BRICS was "dead" and threatened high tariffs
+      on its members if they engaged in trade that undermined the US dollar. Despite
+      his assertions, the article argues that BRICS is actually expanding, with a recent
+      summit in Brazil marking the inclusion of ten new partner countries, bringing
+      its total membership to 20. The piece emphasizes the contrast between Trump's
+      rhetoric and the reality of BRICS's increasing prominence on the global stage.
+    published: '2025-07-11T09:00:00+00:00'
+  - title: Everything You Need To Know About War With Iran (w/ Alastair Crooke) | The
+      Chris Hedges Report
+    url: https://scheerpost.com/2025/07/10/everything-you-need-to-know-about-war-with-iran-w-alastair-crooke-the-chris-hedges-report/
+    text: 'By Chris Hedges / The Chris Hedges Report This interview is also available
+      on podcast platforms and Rumble . Following attacks on Iran by Israel and the
+      United States, the world held its breath as the prospect of World War III loomed
+      on the horizon. After 12 days of conflict, a ceasefire has brought about new uncertainty
+      for the future. Former British diplomat Alastair Crooke joins host Chris Hedges
+      on this episode of The Chris Hedges Report to make sense of the current situation
+      in the Middle East and what can be expected in the coming weeks or months. Crooke
+      details the lead up to the Israeli attacks, including the use of technology and
+      neighbouring countries that allowed for the element of surprise. Cyber attacks,
+      drones flown in from Azerbaijan and American military software served as crucial
+      elements for the Israeli attacks on Iran. As for the American strikes weeks later,
+      Crooke explains Donald Trump’s alleged anxiety in not engaging in a prolonged
+      conflict and theorizes about what the damage on Iran’s nuclear facilities actually
+      looks like and what it could mean going forward. Hedges and Crooke lay out what
+      could come next, indicating that this conflict is far from over and the future
+      of the Middle East, along with the rest of the world’s economy, hinges on what
+      comes next from Israel, Iran or the United States. NOTE TO SCHEERPOST READERS
+      FROM CHRIS HEDGES: There is now no way left for me to continue to write a weekly
+      column for ScheerPost and produce my weekly television show without your help.
+      The walls are closing in, with startling rapidity, on independent journalism ,
+      with the elites, including the Democratic Party elites, clamoring for more and
+      more censorship. Bob Scheer, who runs ScheerPost on a shoestring budget, and I
+      will not waver in our commitment to independent and honest journalism, and we
+      will never put ScheerPost behind a paywall, charge a subscription for it, sell
+      your data or accept advertising. Please, if you can, sign up at chrishedges.substack.com
+      so I can continue to post my now weekly Monday column on ScheerPost and produce
+      my weekly television show, The Chris Hedges Report. Host Chris Hedges Producer:
+      Max Jones Intro: Diego Ramos Crew: Diego Ramos, Sofia Menemenlis and Thomas Hedges
+      Transcript: Diego Ramos Transcript Chris Hedges The 12-day conflict between Israel,
+      the United States and Iran is not over. It is the first phase of what could become
+      an endless war, much like Israel’s decades-long sporadic war against Lebanon.
+      The attacks on Iran, as with the invasion and occupation of Iraq, was based on
+      a lie. Neither U.S. intelligence nor the U.N. concurred with Netanyahu and Trump’s
+      claim that Iran was weaponizing its enriched uranium. Israel was able to inflict
+      significant damage on Iran, including what it says were the targeted assassinations
+      of 30 senior security officials and 11 senior nuclear scientists. But Israel and
+      the United States do not appear to have, as Donald Trump insisted, obliterated
+      Iran’s nuclear weapons program. At best, it probably set back any enrichment program
+      by only a few weeks or months should Iran decide to build a bomb. Iran’s surface-to-surface
+      missiles probably caused more damage and casualties than Israel expected, but
+      because the Israeli Air Force had virtual control over the skies of Iran it was
+      able to find and hit those launchers with increasing efficacy. By shredding the
+      nuclear agreement with Iran in Trump’s first administration, which the Iranians
+      were abiding by, and then allowing Israel to carry out an attack while negotiations
+      were ongoing with Iran, the United States and Israel have effectively shut the
+      door on any diplomatic resolution to the conflict. The failure of European governments
+      to condemn the bombing, a flagrant violation of Iran’s sovereignty, has only widened
+      the divide between Iran and the West. Rather than weaken the Iranian regime, these
+      attacks have enraged Iranians, especially young Iranians, who poured into the
+      streets in the millions for the funerals of the victims of Israel’s attacks. It
+      has hardened the resolve of the Iranians rulers who have suspended cooperation
+      with the International Atomic Energy Agency (IAEA) and rejected calls by the Trump
+      administration to resume negotiations. Joining me to discuss the fallout from
+      this 12-day war and what comes next is Alastair Crooke, a former British diplomat
+      who served for many years in the Middle East working as a security advisor to
+      the EU special envoy to the Middle East, as well as helping lead efforts to set
+      up negotiations and truces between Hamas, Islamic Jihad and other Palestinian
+      resistant groups with Israel. He is also the author of Resistance: The Essence
+      of the Islamist Revolution , which analyzes the ascendancy of Islamic movements
+      in the Middle East. You can find his work at ConflictsForum.Substack.com . Let’s
+      begin with a question that has puzzled me since these attacks began, and that
+      is why it was so easy for Israel to take out Iran’s air defenses, which were a
+      mixture of Iranian-produced air defenses, of course, but also Russian air defenses.
+      Alastair Crooke Well, there’s a certain deception about what happened there. I
+      know that it is advertised by Israel and by many in the United States that there
+      was open skies and that Israel could actually come across and destroy the air
+      defenses. That actually is not true. In fact, if you look, you’ll find there is
+      not a single video. Many people were taking shots from their smartphones and things,
+      not a single video of an Israeli aircraft over Tehran or Iran as a whole. What
+      happened? It’s really very interesting because it has a very important impact.
+      What happened was that well before the 13th of June surprise attack that Israel
+      mounted on Iran, Israel Mossad and its special forces were pre-positioning anti-tank
+      weapons from Kurdistan area, from Erbil and the Kurdistan area of Iraq across
+      the border into Iran. Quite close, as close as they could get to the air defense
+      systems that were present. And then special forces, Israelis have admitted they
+      had special forces in Iran at that time, and the special forces then were coming
+      and using ballistic missiles guided by American software, the Battlescape software
+      system onto the targets that they wanted. Now, there were no aircraft crossing
+      into Iranian airspace except that some aircraft from Israel flew right along the
+      north of Iran, which is very mountainous and really deserted, into Azerbaijan,
+      the airspace. And from Azerbaijan, Israel launched drones, attack drones. They
+      didn’t have such a big warhead. But they also then flew down the Caspian till
+      they were opposite Tehran. And from there, the Israeli planes fired these latest
+      ballistic cruise missiles. Those are the ones that hit Tehran and made a big impact
+      on it. So it was a very complicated setup that had taken months, if not years
+      for Mossad to put all of those into position to infiltrate people, pre-position
+      them. What took out the Iranian air defences in the first day was actually a cyber
+      attack, a really major cyber attack on their air defences, and they managed to
+      undo that and to correct it with eight hours after which their air defences were
+      working again and you can see there’s evidence, we can see quite clear evidence
+      of that happening. Why was Iran in such a vulnerable position? Well, that’s quite
+      interesting too, because actually on that day, the 13th of June, scheduled, long
+      scheduled, and with the Iranians expecting to go to talks on the Sunday with [United
+      States Special Envoy to the Middle East Steve] Witkoff in Oman and the Americans
+      to talk about the nuclear program, the IRGC [Islamic Revolutionary Guard Corps]
+      had a big program, a big exercise prepared with naval and other forces engaged
+      with us and some of the missile launches were actually exposed and put out because
+      of this big exercise. I think it involved the Chinese too as well. So they were
+      all in this headquarters in a single room in the headquarters when Israel decapitated
+      the line commanders of the IRGC and the military staff who were all preparing
+      for this big exercise. They were taken by surprise and the decapitation happened.
+      What happened with the civilian scientists, they were killed by spike missiles
+      fired directly and small ballistic missiles fired by probably the special forces,
+      I’m not quite sure, into their homes. Precise strikes into the homes killing them
+      and their families too. I think it’s 10 or 11 scientists were killed. So that
+      was really what happened. Now, the most important, there are two important things
+      that flow from this. The first is this setup is not repeatable. You can’t, I mean,
+      it was a very sophisticated, long-prepared positioning people in the site, both
+      from the north, from Azerbaijan, and across the border from Kurdistan, the MEK
+      [People’s Mojahedin Organization of Iran] coming across Kurdistan, setting all
+      these up. The cyber attack was set up and prepared and everything was ready for
+      this. But now it’s exposed. You can’t go back to it. And also that now, I mean,
+      the Iranian air defenses are fully operational. They’re getting more air defenses
+      from the Chinese. So it won’t be the same. You can’t just repeat that operation.
+      And the talk about open skies was very deceptive. It was really a lie. It wasn’t
+      open skies. It was actually something rather different that happened. So that’s
+      very important that it’s not something that can be repeated. Israel can’t do this
+      next week or the week after. It would take months if possible. But in the meantime,
+      Iran is, of course, operating around Erbil and Kurdistan. You’ve probably seen
+      there have been many explosions and attacks there. In the north, removing Baluchis
+      and refugees from across the border from that area. And there is a tough conversation
+      taking place between Russia and [Ilham] Aliyev, the head of the Azeri state and
+      also from Iran. So there is a great deal of tension there from Azerbaijan and
+      Russia about different things. But it used to have good relations, but now it’s
+      very tense indeed there. The Russians suspect that not only those tactics of infiltration,
+      of saboteurs were done, if you like, during that attack on Russia’s strategic
+      bomber force out of Kazakhstan, but they think that some of them were done by
+      part of the illegal and criminal gangs who are Azeris as well as Russian citizens.
+      And behind this, Russia sees the hand of Turkey and NATO for both the attack in
+      Iran and also the attack that took place, I think it was called the Spider’s Web
+      attack [Operation Spiderweb] on those strategic bombers that were out in the open
+      on, again, the day before peace talks were taking place. Chris Hedges Let’s talk
+      about the American strike. Correct me if I’m wrong, it was my understanding that
+      the Israelis did take out air defenses to open a corridor for American bombers,
+      but maybe that’s incorrect. And secondly, let’s talk about the, what is it, 408
+      kilograms of enriched uranium. I think they’re supposedly at 60%. But let’s talk
+      about the American strike. Alastair Crooke Well, the Americans warned these Iranians
+      beforehand, either I think probably through the Swiss embassy in Tehran or through,
+      perhaps equally likely through Oman, warned them in advance and also told them
+      it was once and done, i.e. would be one strike, finish, end of the process. So
+      they passed that information to the Iranians and I believe, I can’t budge for
+      it perfectly, but my understanding is that the Russians said to them, look, just
+      let it happen. It’s much better, just let it happen. You probably won’t, it won’t
+      be as damaging as it may be advertised, just let it happen. And it’s true because
+      in that time it’s fairly clear. There was no evidence you can see of any great,
+      if you like, air defences being used or mounted or explosions. Iranians tell me,
+      I was in Iran just before this happened, the Iranians tell me it was very quiet
+      that night, there was nothing happening. So they just came in, they did what they
+      wanted to do and then they left. What success they had, well, nobody can really
+      say. At this stage, anyone who tells you or says they know, I don’t think is telling
+      the truth because the only way you know… there are about five entrances to Fordow,
+      five different entrances. Two of them were blocked up with soil by the Iranians
+      before the strike, two days before. And the whole basis of this depends on a very
+      controversial piece of, if you like, mechanics. Most of those entrances to the
+      Fordow base have got blast bends in them. In other words, if there’s an explosion,
+      it can’t go any further. It can’t reach the centrifuge hole. Centrifuge hole,
+      don’t forget, is at 800 meters depth in this mountain. And then there is a vent.
+      And this is a source of controversy in America as anywhere else is according to
+      the Americans and who brief Trump, the vent had no, if you like, bend in it. It
+      was vertical, straight from the surface down to the centrifuge hole. And many
+      experts, professors from MIT and others, are very adamant and saying it’s unbelievable
+      that the Iranians would have put blast vents in all of the entrances but have
+      forget to do it in the vent. Well, I don’t know the answer to that. You’ll have
+      to go and ask the professor about that. But, yes, four days beforehand there were
+      trucks at Fordow and the Iranians and I think there’s some reasonably reliable
+      reporting that the highly enriched uranium was removed and probably deposited
+      in this other site called the Pickaxe Mountain, which is also quite close to Qom
+      and I would think it’s probably hidden there somewhere. It’s even deeper than
+      Fordow by the way, but it’s never mentioned because it seems to be off the radar.
+      Anyway, I think that is probably where it is, but until the Iranians clear one
+      of these entrances, which they deliberately blocked up to stop pressure rising
+      and go into the hall, we won’t know how much damage is done. But I think the Isfahan
+      one also is very deep and it’s quite likely that centrifuges were not destroyed
+      at Isfahan. Natanz is different. Natanz is very old. It’s there from the Shah’s
+      time. It’s mostly on the surface. I remember passing it and you could, you know,
+      it’s there and you see it. But they put the centrifuges down I think between 60
+      and 80 meters. So I mean, maybe they’re badly damaged, who knows. But they don’t
+      need many centrifuges. One of the things that this professor from MIT, Postol,
+      Ted Postol says that, you know, once you get to a certain point in the enrichment
+      process, then it becomes exponential. You just have to do a tiny bit more and
+      that you’re up at 90%. So I mean, you know, they don’t need many centrifuges to
+      have survived. Chris Hedges The pilots talked about seeing explosions, but what
+      I heard, that was in fact not a good sign. Alastair Crooke Yes, that’s right.
+      That is a sign that there was a blast bend on the vent. And so the blast was coming
+      up. And that’s why it had a spectacular view of explosion, because it hadn’t gone
+      down to the centrifuge floor. It had come up and was at the surface. So it isn’t
+      necessarily a good indicator of that. So that was really the gist of it, that
+      I think it was clear that Trump wanted it. And we know quite a lot about that
+      day because someone, and I wrote about it, it extends to you and I’m sure you
+      probably know Michael Wolff, who’s written four books on Trump, and he was talking
+      and calling. He works by calling interlocutors that the Trump has just spoken
+      to on the phone. And he says it’s a really reliable way of finding out what Trump
+      is thinking because he says the same question to each interlocutor. And it’s not
+      really a question. So on the 12th, it seemed that… on the 22nd rather, the day
+      of the American strike, Trump was quite anxious, according to Michael Wolff. And
+      he kept asking people, I mean, is it going to work? Is it going to be a win? Is
+      it going to be, I mean, a game changer? I’m hoping for a game change, we want
+      something that is perfect and this will be a big headline and a big win and I
+      want the headline, “We won.” So he says there was an element of sort of lack of
+      confidence, almost, in Trump, I mean he went on saying the same thing you know,
+      “this is what it’s got to be: in, boom, out. In, boom out, ceasefire.” And so
+      that’s how it was presented. And actually, you know, this suits the Iranians quite
+      well, because he says and insists, obliterated. Everything has been obliterated.
+      There’s nothing left. It’s all over. No nuclear program. Well, this is fine from
+      the Iranian point of view because they say, well then, to sort of [French President
+      Emmanuel] Macron and others who saying, well, well, the IAEA have to go back and
+      sort of inspect and find out what’s going on. And they say, but it’s you who say
+      it’s all over. There isn’t a program. So why do we need the IAEA in there at all?
+      In fact, the IAEA are already out and their return, I mean, I’m not exaggerating
+      this, they need huge bodyguards if they ever went back to Iran. They are hated
+      with a huge intensity by the ordinary population because they believe that particularly
+      the assassination of the scientists and the identification of them came from the
+      IAEA artificial intelligence program MOSAIC, which is one of the, if you like,
+      Palantir stable of targeting systems, which relies on imputing motives to people,
+      not on evidence. This is where you get the great disparity with Tulsi Gabbard,
+      for example, because what the IAEA were using was this data gathering process
+      examining 400 million pieces of data, social, what you read on your social platforms,
+      where you move, who your children play with, all of this thing, just like Palantir
+      uses the same system in Israel and in Gaza to impute to Israel, to Iran the idea
+      that they are not being honest in moving the enriched uranium, that they’re not
+      declaring things. And so that’s what happened on the 12th. The day before the
+      Israeli attack on Iran, the board of the IAEA on the basis of this evidence said,
+      Iran is accelerating towards enrichment and therefore to a bomb. And this is in
+      breach of the protocols of the JCPOA [Joint Comprehensive Plan of Action]. This
+      is really the pretext for the attack on Iran that took place on Friday the 13th
+      of June. That resolution that was prepared and stage managed effectively by the
+      IAEA to give, if you like, a peg for the Israeli tact to take place, which is
+      why the Iranians and the Russians too are so distrustful of the IAEA and I don’t
+      think it’s going back into Iran. Chris Hedges Well, the UN inspection teams in
+      Iraq were riddled with foreign intelligence operatives, including Israeli. One
+      has to assume that’s also true with the IAEA. Alastair Crooke It’s completely,
+      I mean it’s verified. I mean, we know that they were providing intelligence to
+      the Mossad and to Israel about, and of course IAEA insisted on meeting the scientists
+      involved in the nuclear program and therefore being able to identify them. Whether
+      this was directly passed on, I can’t say. But the Iranians have intelligence which
+      suggests that it was passed on. I haven’t seen the intelligence. Chris Hedges
+      Let’s talk about the strikes on Israel. Of course, because of military censorship
+      in Israel, we don’t know the full picture. We know that refineries were hit in
+      Haifa. We know the Weizmann Institute was hit. Reading it from a distance, it
+      does appear that Israel was probably a little surprised at the extent of the damage
+      that the Iranians were able to inflict. Alastair Crooke I think they were very
+      shocked by it. They were attacked as they’d never been attacked before. I mean,
+      they might have been used to a few Katyusha rockets from Gaza, but this was a
+      completely different order. As you say, there’s been a complete news blackout,
+      but subsequently, from satellite images, it’s clear that at least five military
+      sites were destroyed by the Iranians apart from, if you like, the main ones, which
+      was the HaKirya, which was the equivalent of the Pentagon, the Mossad headquarters
+      in Herzliya, and various other sites as well, as well as other damages. And those
+      other ones are very important because this is key in their economic sense, that
+      first of all, there was the attack on Haifa and the destruction of the refinery
+      at Haifa. And the Israelis say it will not be able to operate for at least a month.
+      And then there was the attack on the Ashdod Port which destroyed the electric
+      power system. There’s a generator, the power generator there which led to the
+      blackout in about a third of the country. It’s been restored. Israel has three
+      ports, Eilat, which has been closed for months, Haifa and Ashdod. Both of those
+      were heavily attacked and the economy was really at a halt and this is why Israel
+      called to the Omanis and said we need a ceasefire and said the same to America,
+      we need it. And the other reason was because they were running out of missiles,
+      of intercept missiles. The Israelis themselves say 93 THAAD [Terminal High Altitude
+      Area Defense] missiles were fired by the Americans and the Israelis in that period
+      of the 12 days. 93, which is equivalent to $1.2 billion worth of missiles, which
+      is about two to three years total production capacity of THAAD missile interceptors
+      during that period. So again, not only can that operation that they did on the
+      13th not be easily resurrected, but at the moment, Israel is going to have to
+      wait to re-equip itself with air defenses in a major way before they could think
+      of attacking. Iran is also doing the same. The Iranians believe and think that
+      there will be a further attack from Israel because it’s not, they believe, in
+      Israel’s interest to accept the Trump assertion that the program is over, that
+      Israel wants to say that the program is there because that provides them with
+      the cue to say, yes, within the ceasefire we have the right to attack when and
+      as we want onto Iran, if we suspect that they’re enriching or moving uranium,
+      we can attack at our initiative. This is what the basis of the ceasefire in Lebanon
+      is, that there is to be a ceasefire, but Israel has the right to attack anywhere
+      in Lebanon as it chooses and when it chooses. So they’ve been trying to impose
+      the same terms, if you like, on Iran. And I think that is ultimately intended
+      to try and pull in America to another round of attacks because the Israeli position
+      is still, and this is very important really, that the Israeli position is that
+      simply the enrichment program cannot be defeated by military systems alone. The
+      only way ultimately to defeat it is by a regime change and the imposition of a
+      Western style puppet government into Tehran because they believe that they cannot
+      kill the technical knowledge or the will to move ahead with enrichment. I think
+      there are two triggers that we should watch. If the West really pushes the Iranians
+      to allow some sort of oversight or monitoring of the program with a reformed perhaps
+      IAEA or whatever, by the way, Russia won’t push them very hard on that because
+      the IAEA, Russia has its own quarrels with the IAEA. But if the West pushes, Trump
+      pushes very hard on that, then I think, and it is required under the NPT, the
+      Nuclear Proliferation Treaty, monitoring and accountability is part of the treaty.
+      If that is pushed, then I think there will be an answer, which is we’re leaving
+      the NPT. And if then, which is also likely, the Euro 3 and the JCPOA push for
+      a snapback of sanctions on Iran. And they’ve already said publicly that they intend
+      to push for snapback sanctions. Part of the whole process of putting more pressure
+      on Iran and then the hope that Trump keeps saying that they will then come and
+      offer an unconditional surrender, which will never happen. But that’s the plan
+      anyway. But those two things were likely to push Iran off the NPT. What happens
+      then? We have to wait and see. But there is a very strong patriotic mood, as you
+      referred to in the introduction. And what is so striking is it’s the young, the
+      people that people thought were not necessarily, you know, supporters of it. And
+      they are totally, totally supporting the Supreme Leader. He’s like a sort of celebrity
+      figure now for everyone, for the young and for all. So I don’t know whether they
+      will decide to move towards a weapon or leave it in sort of strategic ambiguity.
+      That’s a possibility too. Chris Hedges Well, these kinds of attacks always generate
+      that kind of blowback. I was in Buenos Aires right before the British attacked
+      the Falklands and the regime was about to fall, the junta. And then as soon as
+      the attack began, these people became national galtiere and all these criminals
+      became national heroes. I want to talk about that process because the Supreme
+      Leader has, I think it was 2003, had written that it was against Sharia Islamic
+      law to build a nuclear weapon. Alastair Crooke That’s perfectly true, but there
+      is some important element. Under Sharia jurisprudence there’s a thing called Ijtihad,
+      which is that you can change law through reasoning, through a process of reasoning.
+      And that reasoning can be changed on the basis of time and circumstances. So that
+      if it’s no longer appropriate because the world has moved on and life is different
+      or because of a changed circumstances then a jurist, it has to be a jurist, it’s
+      not a political decision but a qualified jurist, Hujjat al-Islam or [inaudible]
+      can actually change the law and a new fatwa can be issued very easily. It doesn’t
+      need parliamentary or a pew but there is a majority in Iran now of people who
+      argued that it was a mistake never to go down this route and that this is going
+      to be something that is going to be really much more, and this is something the
+      Russians have alluded to, which I think is quite significant. They’re saying actually
+      this whole proliferation process that the West had is actually back to front because
+      actually it’s pushing people ultimately towards a weapon, not preventing them
+      because this process of going around and just threatening states we’re going to
+      bomb you to the stone age if you don’t do what we tell you actually has ended
+      and that’s what happened of course with North Korea. I mean they’d agreed a process
+      of giving it up but then more requirements and more requirements were imposed.
+      I mean it was all agreed and there was going to be money put in and a new process
+      and then the extra demands that Washington imposed on top of the original agreement
+      prompted the North Koreans to say, hang it, it’s not worth it, I mean it’s much
+      better that we should go for a bomb. So I mean the Russians and others are saying
+      well this whole nonproliferation, actually the real proliferators at this moment
+      is the West because they keep pushing people towards thinking the only thing that
+      they need. And look what’s happened. They bombed Iran and now Saudi Arabia is
+      talking about a weapon. Now India is expressing concerns about it and what the
+      consequence will be. Other states will be pursuing it. So actually rather than
+      stopping proliferation, acting to stop proliferation as the West says it’s doing,
+      it is actually encouraging proliferation. That’s the Russian view. [Dmitry] Medvedev
+      said that, the Vice President said that quite recently. Chris Hedges We also have
+      the example of [Muammar] Gaddafi, who gave up his program. Alastair Crooke Exactly,
+      It wasn’t too difficult to take away, I remember, because it was still in its
+      packing cases. He hadn’t even unpacked it and it was removed. Anyway, that was,
+      yes, there isn’t a good history [inaudible]. Chris Hedges Let’s talk about the
+      increased drone activity that apparently is occurring over Iran and what that
+      means. Alastair Crooke The Israeli drone activity over Iran at the moment is not
+      attack drones. It is mostly surveillance drones. They’re sort of trying to scope
+      out radar and the sort of the time it takes for radar to lock onto them and where
+      the radar is. And that is being fed into the American, only the Americans have
+      this sort of satellite-based battlescape map that sort of tracks all radar and
+      air defenses so that you can, if you like, construct your missiles to sort of
+      do a slalom between all the impediments to reach your target. So that’s what’s
+      happening at the moment. Plus, and I heard this from Tehran just yesterday, they’re
+      under huge cyber attack from all NATO, they say. I mean, there’s a big cyber attack
+      going. So I think, you know, both parties expect there will be another round and
+      Iran’s certainly and Israel is preparing for the next stage. So I think, you know,
+      although Trump, and I don’t think he wanted this, I mean, from everything that
+      Michael Wolff said about those calls which were, you know, I just want this to
+      be perfect. I want this, you know, I want this to be in boom, out, finished, ceasefire,
+      done, let’s close it, finish this talk. I think that what Trump is trying to do
+      there is he does not, and Michael Wolff says, and I think this is absolutely right,
+      he doesn’t think he has the attention span to do a long, drawn-out slugfest fight
+      with Iran. What he’s trying to do is shut it down to give him enough space to
+      get back to what he really wants, which is, if you like, this new Middle East
+      business world, this new structure whereby Lebanon and Syria and others will be
+      brought into some form. We will have the Abraham Accords 2.0. And this will open
+      a universe of business and trading possibilities through and you know that he
+      hopes that Iran can just sort of stand on the sidelines and not do anything about
+      it till he can find some other agreement with Iran. The main thing is the headline.
+      Let’s have a big headline. We’ve done it. There’s a new Middle East. Everyone’s
+      in this new sort of matrix of money, investments, resources, and of course the
+      resources of Iran, which are so vital to China. And also the fact that the Gulf
+      states and that if he can take that whole, if you like, corridor of the Middle
+      East, he can take it into southern Central Asia and disrupt the BRICS and their
+      connectivity plans in those stung areas — Kazakhstan, Uzbekistan, all those areas.
+      He can disrupt it and start moving the economic sphere into this. At the same
+      time, that he’s doing, if you like, an attempt to cage China literally by tariffs
+      structures. And also weakening Russia by reigniting the tensions in the Caucasus
+      again. And so Russia and Putin are taking this very seriously. And so is China.
+      And they are very angry about this. They’re angry about the deceit because Putin
+      thinks he was deceived by those attacks on the strategic bombers just the day
+      before the Istanbul talks just as Iran is. And China believes also that Xi was
+      cheated by Trump in the discussions that they had. So there’s a real sort of sense
+      of preparing for a new and wider Cold War that is being pushed. I mean, Kazakhstan
+      in the north that is, I was in Russia around about the time of the Crocus Hall,
+      the concert hall that was burnt down. And they were Tajiks that had come down
+      who were found to be responsible. And there was a big structure in Kazakhstan
+      for recruiting people, Afghans and Tajiks and others and for infiltrating them
+      into Russia or to Iran or whatever. And now we see that Azerbaijan is engaged
+      in the same idea. Now the reports, I can’t verify them, but recently Russia arrested
+      a number of Azeris-Russian citizens and that produced a dramatic response from
+      Aliyev who arrested all the Sputnik journalists and many others in Azerbaijan
+      and they roughed them up and they’ve charged them with espionage and other charges.
+      Now there’s always been sort of criminal groups in Russia from Azerbaijan. They’re
+      known as sort of a mafia there. But this is more serious, I believe, because it’s
+      thinking the Russians may be suspected that these groups were also facilitating
+      the infiltration of some of those pre-positioned units that were ready for the
+      attack on the strategic bomber system in Russia, the Spider’s Web. And that also
+      Azerbaijan was facilitating the attack on Iran. So Azerbaijan and Armenia too
+      and the question of Turkey’s role. The United States is trying to woo [Recep Tayyip]
+      Erdoğan with promises of F-35s, if only he’ll mothball the S-400s that he has
+      and I think that the aim is, the Israeli aim is the key to their, if you like,
+      their new corridor, the new, if you like, Abraham Accord 2.0, a business plan
+      right through to Asia, is that Turkey should persuade both Syria and Lebanon that
+      they have no choice and incentivize them both to join into this new sort of greater
+      Israel project. So this is why there’s a lot of tensions that all these proposals
+      that are coming out of America at the moment, the intent to sort of cut off China
+      from trade by putting differential tariffs on China if they trans ship goods through
+      Vietnam or another country. The prospect of new sanctions on Russia. The attack
+      on Iran is a pivot, a key pivot for Russia and China of the whole BRICS structure.
+      All of these things are producing a really strong response from Russia. I mean,
+      it’s given very tough response to Trump and this and says, we know exactly what
+      you’re doing in the Caucasus. We know what you are doing in Azerbaijan and we
+      won’t put up with it. And so Russia responded to this by destroying the two refineries
+      in Ukraine that were fueled from Baku, from Azerbaijan. There was Azerbaijan input
+      that was fueling these two refineries. This was a warning to Azerbaijan, you know,
+      stop playing around with this. So Iran will be saying something rather similar,
+      I suspect, to the Azeris. Now, I think some people in the United States think,
+      even dream, of the idea that Azerbaijan could invade at the right moment in coordination
+      with Israel into Iran as the Baluch perhaps come from another side or the Kurds
+      from the other. But I think that is very far-fetched because 85% of the areas
+      are Shiʿi. There is, if you like, the leadership is Turkic more than Iranian Shiʿi
+      but they’re Turkic, either Sunni or Shiʿi converted. Anyway, it’s very secular.
+      And the Iranians, all the Azeris in Iran are very, very loyal to Iran. And people
+      talk about, well, the Azeri’s glass ceiling. And I slightly laugh at that. And
+      I say, well, there’s one person you probably have heard of who’s really well-known
+      poet and he writes in the Azeri language and he’s fluent in the Azeri language
+      and he is Azeri and that’s the Supreme Leader. So it’s not that the Azeris are
+      completely sort of outliers in Iran. Chris Hedges Didn’t Israel launch drones
+      from there? Isn’t that a launch point for… Alastair Crooke Yeah, exactly. They
+      launched drones and also, as I say, the airspace of Azerbaijan was used for standoff
+      firing of drones that had these new cruise missiles, multiple cruise missiles.
+      They could launch them once they were in Iranian territory. Chris Hedges I have
+      two last questions, but just on Gaza, because in the meeting in the White House,
+      when reporters were allowed in, Trump and Netanyahu were talking about depopulating
+      Gaza. Netanyahu very cynically said it’s not a prison. People who want to leave,
+      of course, there’s enforced starvation since March 2nd, should have the right
+      to leave. Just your thoughts on what’s happening in Gaza. Alastair Crooke What’s
+      happening in Gaza is that Netanyahu and the right are intent on first of all pushing
+      all the Palestinians into what amounts to a concentration camp in one small part.
+      They will be put in but they will not be allowed out of it. And it is a stage
+      towards, it’s politely called voluntary expatriation but it is of course mandatory,
+      if you like, removal of the population from Gaza. And the same is going on in
+      the West Bank. Huge process. [Bezalel] Smotrich is in charge of this aspect. And
+      there is a real effort being made because they think they believe they can persuade
+      Trump to annex most of the West Bank. But settlers have moved into large areas.
+      New settlements are announced all the time. The annexation is afoot in the West
+      Bank as in Gaza. I think I remember Smotrich was always very, very clear about
+      this. I remember listening to him about six years ago or so and he said, listen,
+      this is our plan, to remove all the Palestinians from the area. And he said, but
+      you know, as it is with the legal system, it’s difficult. What we need is a big
+      crisis or a big war. And when that happens, we will complete the project. That’s
+      what we’re looking for. And that’s why they’re always sort of playing around with
+      the Temple Mount, Al-Aqsa. Looking to use that perhaps as the pretext to sort
+      of trigger a commotion in the whole Muslim world. Al-Aqsa is a neuralgic point
+      in the Muslim world, that they could use this as the ability to sort of create
+      the crisis that they could then, under the pretext of an emergency, really move,
+      finish off the depopulation of Gaza and also much of the West Bank, drive the
+      West Bank to Jordan. Chris Hedges Does that mean they would drive the Palestinians
+      and try to drive them into Jordan and they would drive the Palestinians in Gaza
+      into Egypt? The Egyptians and the Jordanians have been adamant that’s not going
+      to happen. Alastair Crooke Yes, but I mean they are pushing them closer and closer
+      to the Rafah Gate. And, you know, what’s going to happen if they open those gates
+      and just push them out, tou know, a million or so Palestinians? It’s very, very
+      sensitive in Egypt. The Egyptians are really, ordinary Egyptians, the Egyptian
+      army is very angry with [Abdel Fattah El-]Sisi about his ineffectual response
+      to what’s happening in Gaza. It could explode. The whole Egyptian element could
+      explode in this process. Of course there will be some sort of public relations
+      exercise of sending a few Palestinians to, I don’t know where, but somewhere to
+      say, no they went voluntarily. But of course that’s not what’s planned. What’s
+      planned is another Nakba from Gaza. And it’s unfolding, sadly, unfortunately.
+      You know, Hamas demands are not met by this proposal. This is why I don’t, I think
+      what we will get is probably some sort of ceasefire. But it’s a ceasefire designed
+      to allow the Israelis to resume the attrition of Gaza either because they’ll claim
+      it will break down or because they’ll claim the 60 days are over. And the Hamas
+      position remains unchanged — we want an end to the war. We want the removal of
+      all of the Israeli troops from Gaza and a reconstruction of the strip. And of
+      course, the Witkoff proposal does none of those things. It doesn’t provide for
+      an end of the war. There will still be Israeli forces inside Gaza during the ceasefire
+      and after. And the proposals for reconstructing it is quite different to be done
+      by pliant Arab states. Chris Hedges And we should just draw that parallel between
+      decapitating Hamas. I knew Abdel Aziz al-Rantisi, one of the co-founders of Hamas,
+      assassinated with his son in 2004, a long litany of Hamas leaders who were killed.
+      And of course, it disrupts the organization without question. But just because
+      Israel has decapitated Iranian leadership, ultimately, I mean I’ll get your feed
+      on this, it ultimately doesn’t disrupt the system. Alastair Crooke I think that’s
+      exactly what we saw in Iran. I mean, that actually, as so often has happened,
+      Israel decapitates the moderates and the younger generation that come in are much
+      more hardline than, you know, their other elderly. I mean, some of the IRGC are
+      veterans from the Iran-Iraq War and, you know, the younger are much more vigorous
+      and much more determined than the older ones and that’s what’s happened. And I
+      think what we’ve seen is the other part of this great equation that was supposed
+      to come out of Washington. Hezbollah have said categorically they will not accept
+      any process that leads to their disarmament. Now this may end up in civil war
+      in Lebanon, it could do what the Americans are pushing very, very hard in every
+      way to disenfranchise, depoliticize, demilitarize the Shia who are the majority
+      in Lebanon and it won’t happen. I mean they’ve been down that route in the past
+      as you know and it’s not likely to happen. Chris Hedges Let’s just close with
+      the next Israeli strike, which you talked about how Israel views ceasefires. This
+      is writ large in Gaza, where Israel violates every single ceasefire they make
+      to “mow the lawn.” That same kind of mentality will most likely be used to again
+      make strikes against Iran if in Israeli eyes they feel they are reconstituting
+      military defenses or a nuclear program. What do you, how do you picture that strike
+      and the consequences? The next one. Alastair Crooke I think the first thing which
+      is really important to say is that, and we follow the Israeli press very very
+      closely, the Hebrew press, I mean not just the English language press. It’s very
+      clear that they know now after what has happened, I mean they sustained much more
+      damage than they had expected, that they cannot attack Iran without full unstinting
+      American support. Now the question is, is that going to be forthcoming? And I
+      think one of the things that I feel might stop it is the question of the MAGA.
+      I think the MAGA are really quite unhappy. You know, there were two issues in
+      the American election, immigration and forever wars. And MAGA came and also there
+      is a quite a number of Democrats, young Democratic voters who supported Trump
+      mainly because he promised peace and no more war. Not necessarily for the other
+      part, but certainly for that. They are starting to filter away. And it’s also
+      in the MAGA. You’ve seen, I mean, Steve Bannon and Tucker Carlson and everyone
+      who, there’s a big pushback against it. They have, Trump has a majority, I think
+      you can correct me if I’m wrong, about three in both houses, in the Senate and
+      the House. It’s small. And midterms are just over a year away. So I think he is
+      going to be worried about the internal position, the MAGA position and that. And
+      that was obvious almost when Hexeth came in, spoke, and he said, he went on, you
+      may remember it, he made a statement, I think, on Fox News saying, look, we’re
+      not attacking Iran per se or the Iranian people, we’re just attacking the nuclear
+      program. I think, you know, we’re not wanting to have a war with Iran, we’re just
+      trying to, you know, sort this part out. So I think he will because, you know,
+      with only three, it would be quite feasible if he gets stuck and locked into a
+      long… bloody conflict in Iran and it would be because Iran’s got surprises for
+      the United States and for Israel if it moves to another phase everyone is preparing
+      for another phase. If it does that you know he may find that you know at the end
+      of it I mean it would be a very different world. I mean one can’t even rule out
+      if there is a change at the midterm elections you know impeachment and things
+      might come back. on to the agenda. You know more about that than I, but it’s a
+      generous moment and I think he’s right to be concerned about it because it’s from
+      both ends of his, it’s the young and it is the MAGA who are both, you know, don’t
+      want a war, a big war in the Middle East particularly. Chris Hedges Great, thanks.
+      And I want to thank Sophia, Victor, Max, Thomas, and Diego who produced the show.
+      You can find me at ChrisHedges.Substack.com . Editor’s Note : A t a moment when
+      the once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Please share this
+      story and help us grow our network! Chris Hedges Chris Hedges is a Pulitzer Prize–winning
+      journalist who was a foreign correspondent for fifteen years for The New York
+      Times, where he served as the Middle East Bureau Chief and Balkan Bureau Chief
+      for the paper. He previously worked overseas for The Dallas Morning News , The
+      Christian Science Monitor , and NPR. He is the host of show The Chris Hedges Report.
+      He was a member of the team that won the 2002 Pulitzer Prize for Explanatory Reporting
+      for The New York Times coverage of global terrorism, and he received the 2002
+      Amnesty International Global Award for Human Rights Journalism. Hedges, who holds
+      a Master of Divinity from Harvard Divinity School, is the author of the bestsellers
+      American Fascists: The Christian Right and the War on America , Empire of Illusion:
+      The End of Literacy and the Triumph of Spectacle and was a National Book Critics
+      Circle finalist for his book War Is a Force That Gives Us Meaning . He writes
+      an online column for the website ScheerPost . He has taught at Columbia University,
+      New York University, Princeton University and the University of Toronto. Author
+      Site'
+    one_sentence_summary: In a recent episode of The Chris Hedges Report, former British
+      diplomat Alastair Crooke discusses the recent Israeli attacks on Iran, the subsequent
+      ceasefire, and the geopolitical implications of these events, including the role
+      of technology and the potential for future conflict in the Middle East.
+    paragraph_summary: In a recent episode of The Chris Hedges Report, host Chris Hedges
+      interviews former British diplomat Alastair Crooke about the escalating tensions
+      in the Middle East following Israeli and American attacks on Iran, which raised
+      fears of a potential World War III. After a 12-day conflict, a ceasefire has introduced
+      new uncertainties regarding the future of the region. Crooke discusses the factors
+      leading to the Israeli strikes, including advanced technology and support from
+      neighboring countries, as well as the implications of American military involvement
+      under Donald Trump's administration. Both Hedges and Crooke emphasize that the
+      conflict is ongoing and that the future stability of the Middle East and the global
+      economy is contingent on the actions of Israel, Iran, and the United States in
+      the coming weeks and months. Hedges also appeals for support to sustain independent
+      journalism amidst increasing censorship pressures.
+    published: '2025-07-10T23:11:22+00:00'
+  - title: Everything You Need To Know About War With Iran (w/ Alastair Crooke) | The
+      Chris Hedges Report
+    url: https://scheerpost.com/2025/07/10/everything-you-need-to-know-about-war-with-iran-w-alastair-crooke-the-chris-hedges-report/
+    text: 'By Chris Hedges / The Chris Hedges Report This interview is also available
+      on podcast platforms and Rumble . Following attacks on Iran by Israel and the
+      United States, the world held its breath as the prospect of World War III loomed
+      on the horizon. After 12 days of conflict, a ceasefire has brought about new uncertainty
+      for the future. Former British diplomat Alastair Crooke joins host Chris Hedges
+      on this episode of The Chris Hedges Report to make sense of the current situation
+      in the Middle East and what can be expected in the coming weeks or months. Crooke
+      details the lead up to the Israeli attacks, including the use of technology and
+      neighbouring countries that allowed for the element of surprise. Cyber attacks,
+      drones flown in from Azerbaijan and American military software served as crucial
+      elements for the Israeli attacks on Iran. As for the American strikes weeks later,
+      Crooke explains Donald Trump’s alleged anxiety in not engaging in a prolonged
+      conflict and theorizes about what the damage on Iran’s nuclear facilities actually
+      looks like and what it could mean going forward. Hedges and Crooke lay out what
+      could come next, indicating that this conflict is far from over and the future
+      of the Middle East, along with the rest of the world’s economy, hinges on what
+      comes next from Israel, Iran or the United States. NOTE TO SCHEERPOST READERS
+      FROM CHRIS HEDGES: There is now no way left for me to continue to write a weekly
+      column for ScheerPost and produce my weekly television show without your help.
+      The walls are closing in, with startling rapidity, on independent journalism ,
+      with the elites, including the Democratic Party elites, clamoring for more and
+      more censorship. Bob Scheer, who runs ScheerPost on a shoestring budget, and I
+      will not waver in our commitment to independent and honest journalism, and we
+      will never put ScheerPost behind a paywall, charge a subscription for it, sell
+      your data or accept advertising. Please, if you can, sign up at chrishedges.substack.com
+      so I can continue to post my now weekly Monday column on ScheerPost and produce
+      my weekly television show, The Chris Hedges Report. Host Chris Hedges Producer:
+      Max Jones Intro: Diego Ramos Crew: Diego Ramos, Sofia Menemenlis and Thomas Hedges
+      Transcript: Diego Ramos Transcript Chris Hedges The 12-day conflict between Israel,
+      the United States and Iran is not over. It is the first phase of what could become
+      an endless war, much like Israel’s decades-long sporadic war against Lebanon.
+      The attacks on Iran, as with the invasion and occupation of Iraq, was based on
+      a lie. Neither U.S. intelligence nor the U.N. concurred with Netanyahu and Trump’s
+      claim that Iran was weaponizing its enriched uranium. Israel was able to inflict
+      significant damage on Iran, including what it says were the targeted assassinations
+      of 30 senior security officials and 11 senior nuclear scientists. But Israel and
+      the United States do not appear to have, as Donald Trump insisted, obliterated
+      Iran’s nuclear weapons program. At best, it probably set back any enrichment program
+      by only a few weeks or months should Iran decide to build a bomb. Iran’s surface-to-surface
+      missiles probably caused more damage and casualties than Israel expected, but
+      because the Israeli Air Force had virtual control over the skies of Iran it was
+      able to find and hit those launchers with increasing efficacy. By shredding the
+      nuclear agreement with Iran in Trump’s first administration, which the Iranians
+      were abiding by, and then allowing Israel to carry out an attack while negotiations
+      were ongoing with Iran, the United States and Israel have effectively shut the
+      door on any diplomatic resolution to the conflict. The failure of European governments
+      to condemn the bombing, a flagrant violation of Iran’s sovereignty, has only widened
+      the divide between Iran and the West. Rather than weaken the Iranian regime, these
+      attacks have enraged Iranians, especially young Iranians, who poured into the
+      streets in the millions for the funerals of the victims of Israel’s attacks. It
+      has hardened the resolve of the Iranians rulers who have suspended cooperation
+      with the International Atomic Energy Agency (IAEA) and rejected calls by the Trump
+      administration to resume negotiations. Joining me to discuss the fallout from
+      this 12-day war and what comes next is Alastair Crooke, a former British diplomat
+      who served for many years in the Middle East working as a security advisor to
+      the EU special envoy to the Middle East, as well as helping lead efforts to set
+      up negotiations and truces between Hamas, Islamic Jihad and other Palestinian
+      resistant groups with Israel. He is also the author of Resistance: The Essence
+      of the Islamist Revolution , which analyzes the ascendancy of Islamic movements
+      in the Middle East. You can find his work at ConflictsForum.Substack.com . Let’s
+      begin with a question that has puzzled me since these attacks began, and that
+      is why it was so easy for Israel to take out Iran’s air defenses, which were a
+      mixture of Iranian-produced air defenses, of course, but also Russian air defenses.
+      Alastair Crooke Well, there’s a certain deception about what happened there. I
+      know that it is advertised by Israel and by many in the United States that there
+      was open skies and that Israel could actually come across and destroy the air
+      defenses. That actually is not true. In fact, if you look, you’ll find there is
+      not a single video. Many people were taking shots from their smartphones and things,
+      not a single video of an Israeli aircraft over Tehran or Iran as a whole. What
+      happened? It’s really very interesting because it has a very important impact.
+      What happened was that well before the 13th of June surprise attack that Israel
+      mounted on Iran, Israel Mossad and its special forces were pre-positioning anti-tank
+      weapons from Kurdistan area, from Erbil and the Kurdistan area of Iraq across
+      the border into Iran. Quite close, as close as they could get to the air defense
+      systems that were present. And then special forces, Israelis have admitted they
+      had special forces in Iran at that time, and the special forces then were coming
+      and using ballistic missiles guided by American software, the Battlescape software
+      system onto the targets that they wanted. Now, there were no aircraft crossing
+      into Iranian airspace except that some aircraft from Israel flew right along the
+      north of Iran, which is very mountainous and really deserted, into Azerbaijan,
+      the airspace. And from Azerbaijan, Israel launched drones, attack drones. They
+      didn’t have such a big warhead. But they also then flew down the Caspian till
+      they were opposite Tehran. And from there, the Israeli planes fired these latest
+      ballistic cruise missiles. Those are the ones that hit Tehran and made a big impact
+      on it. So it was a very complicated setup that had taken months, if not years
+      for Mossad to put all of those into position to infiltrate people, pre-position
+      them. What took out the Iranian air defences in the first day was actually a cyber
+      attack, a really major cyber attack on their air defences, and they managed to
+      undo that and to correct it with eight hours after which their air defences were
+      working again and you can see there’s evidence, we can see quite clear evidence
+      of that happening. Why was Iran in such a vulnerable position? Well, that’s quite
+      interesting too, because actually on that day, the 13th of June, scheduled, long
+      scheduled, and with the Iranians expecting to go to talks on the Sunday with [United
+      States Special Envoy to the Middle East Steve] Witkoff in Oman and the Americans
+      to talk about the nuclear program, the IRGC [Islamic Revolutionary Guard Corps]
+      had a big program, a big exercise prepared with naval and other forces engaged
+      with us and some of the missile launches were actually exposed and put out because
+      of this big exercise. I think it involved the Chinese too as well. So they were
+      all in this headquarters in a single room in the headquarters when Israel decapitated
+      the line commanders of the IRGC and the military staff who were all preparing
+      for this big exercise. They were taken by surprise and the decapitation happened.
+      What happened with the civilian scientists, they were killed by spike missiles
+      fired directly and small ballistic missiles fired by probably the special forces,
+      I’m not quite sure, into their homes. Precise strikes into the homes killing them
+      and their families too. I think it’s 10 or 11 scientists were killed. So that
+      was really what happened. Now, the most important, there are two important things
+      that flow from this. The first is this setup is not repeatable. You can’t, I mean,
+      it was a very sophisticated, long-prepared positioning people in the site, both
+      from the north, from Azerbaijan, and across the border from Kurdistan, the MEK
+      [People’s Mojahedin Organization of Iran] coming across Kurdistan, setting all
+      these up. The cyber attack was set up and prepared and everything was ready for
+      this. But now it’s exposed. You can’t go back to it. And also that now, I mean,
+      the Iranian air defenses are fully operational. They’re getting more air defenses
+      from the Chinese. So it won’t be the same. You can’t just repeat that operation.
+      And the talk about open skies was very deceptive. It was really a lie. It wasn’t
+      open skies. It was actually something rather different that happened. So that’s
+      very important that it’s not something that can be repeated. Israel can’t do this
+      next week or the week after. It would take months if possible. But in the meantime,
+      Iran is, of course, operating around Erbil and Kurdistan. You’ve probably seen
+      there have been many explosions and attacks there. In the north, removing Baluchis
+      and refugees from across the border from that area. And there is a tough conversation
+      taking place between Russia and [Ilham] Aliyev, the head of the Azeri state and
+      also from Iran. So there is a great deal of tension there from Azerbaijan and
+      Russia about different things. But it used to have good relations, but now it’s
+      very tense indeed there. The Russians suspect that not only those tactics of infiltration,
+      of saboteurs were done, if you like, during that attack on Russia’s strategic
+      bomber force out of Kazakhstan, but they think that some of them were done by
+      part of the illegal and criminal gangs who are Azeris as well as Russian citizens.
+      And behind this, Russia sees the hand of Turkey and NATO for both the attack in
+      Iran and also the attack that took place, I think it was called the Spider’s Web
+      attack [Operation Spiderweb] on those strategic bombers that were out in the open
+      on, again, the day before peace talks were taking place. Chris Hedges Let’s talk
+      about the American strike. Correct me if I’m wrong, it was my understanding that
+      the Israelis did take out air defenses to open a corridor for American bombers,
+      but maybe that’s incorrect. And secondly, let’s talk about the, what is it, 408
+      kilograms of enriched uranium. I think they’re supposedly at 60%. But let’s talk
+      about the American strike. Alastair Crooke Well, the Americans warned these Iranians
+      beforehand, either I think probably through the Swiss embassy in Tehran or through,
+      perhaps equally likely through Oman, warned them in advance and also told them
+      it was once and done, i.e. would be one strike, finish, end of the process. So
+      they passed that information to the Iranians and I believe, I can’t budge for
+      it perfectly, but my understanding is that the Russians said to them, look, just
+      let it happen. It’s much better, just let it happen. You probably won’t, it won’t
+      be as damaging as it may be advertised, just let it happen. And it’s true because
+      in that time it’s fairly clear. There was no evidence you can see of any great,
+      if you like, air defences being used or mounted or explosions. Iranians tell me,
+      I was in Iran just before this happened, the Iranians tell me it was very quiet
+      that night, there was nothing happening. So they just came in, they did what they
+      wanted to do and then they left. What success they had, well, nobody can really
+      say. At this stage, anyone who tells you or says they know, I don’t think is telling
+      the truth because the only way you know… there are about five entrances to Fordow,
+      five different entrances. Two of them were blocked up with soil by the Iranians
+      before the strike, two days before. And the whole basis of this depends on a very
+      controversial piece of, if you like, mechanics. Most of those entrances to the
+      Fordow base have got blast bends in them. In other words, if there’s an explosion,
+      it can’t go any further. It can’t reach the centrifuge hole. Centrifuge hole,
+      don’t forget, is at 800 meters depth in this mountain. And then there is a vent.
+      And this is a source of controversy in America as anywhere else is according to
+      the Americans and who brief Trump, the vent had no, if you like, bend in it. It
+      was vertical, straight from the surface down to the centrifuge hole. And many
+      experts, professors from MIT and others, are very adamant and saying it’s unbelievable
+      that the Iranians would have put blast vents in all of the entrances but have
+      forget to do it in the vent. Well, I don’t know the answer to that. You’ll have
+      to go and ask the professor about that. But, yes, four days beforehand there were
+      trucks at Fordow and the Iranians and I think there’s some reasonably reliable
+      reporting that the highly enriched uranium was removed and probably deposited
+      in this other site called the Pickaxe Mountain, which is also quite close to Qom
+      and I would think it’s probably hidden there somewhere. It’s even deeper than
+      Fordow by the way, but it’s never mentioned because it seems to be off the radar.
+      Anyway, I think that is probably where it is, but until the Iranians clear one
+      of these entrances, which they deliberately blocked up to stop pressure rising
+      and go into the hall, we won’t know how much damage is done. But I think the Isfahan
+      one also is very deep and it’s quite likely that centrifuges were not destroyed
+      at Isfahan. Natanz is different. Natanz is very old. It’s there from the Shah’s
+      time. It’s mostly on the surface. I remember passing it and you could, you know,
+      it’s there and you see it. But they put the centrifuges down I think between 60
+      and 80 meters. So I mean, maybe they’re badly damaged, who knows. But they don’t
+      need many centrifuges. One of the things that this professor from MIT, Postol,
+      Ted Postol says that, you know, once you get to a certain point in the enrichment
+      process, then it becomes exponential. You just have to do a tiny bit more and
+      that you’re up at 90%. So I mean, you know, they don’t need many centrifuges to
+      have survived. Chris Hedges The pilots talked about seeing explosions, but what
+      I heard, that was in fact not a good sign. Alastair Crooke Yes, that’s right.
+      That is a sign that there was a blast bend on the vent. And so the blast was coming
+      up. And that’s why it had a spectacular view of explosion, because it hadn’t gone
+      down to the centrifuge floor. It had come up and was at the surface. So it isn’t
+      necessarily a good indicator of that. So that was really the gist of it, that
+      I think it was clear that Trump wanted it. And we know quite a lot about that
+      day because someone, and I wrote about it, it extends to you and I’m sure you
+      probably know Michael Wolff, who’s written four books on Trump, and he was talking
+      and calling. He works by calling interlocutors that the Trump has just spoken
+      to on the phone. And he says it’s a really reliable way of finding out what Trump
+      is thinking because he says the same question to each interlocutor. And it’s not
+      really a question. So on the 12th, it seemed that… on the 22nd rather, the day
+      of the American strike, Trump was quite anxious, according to Michael Wolff. And
+      he kept asking people, I mean, is it going to work? Is it going to be a win? Is
+      it going to be, I mean, a game changer? I’m hoping for a game change, we want
+      something that is perfect and this will be a big headline and a big win and I
+      want the headline, “We won.” So he says there was an element of sort of lack of
+      confidence, almost, in Trump, I mean he went on saying the same thing you know,
+      “this is what it’s got to be: in, boom, out. In, boom out, ceasefire.” And so
+      that’s how it was presented. And actually, you know, this suits the Iranians quite
+      well, because he says and insists, obliterated. Everything has been obliterated.
+      There’s nothing left. It’s all over. No nuclear program. Well, this is fine from
+      the Iranian point of view because they say, well then, to sort of [French President
+      Emmanuel] Macron and others who saying, well, well, the IAEA have to go back and
+      sort of inspect and find out what’s going on. And they say, but it’s you who say
+      it’s all over. There isn’t a program. So why do we need the IAEA in there at all?
+      In fact, the IAEA are already out and their return, I mean, I’m not exaggerating
+      this, they need huge bodyguards if they ever went back to Iran. They are hated
+      with a huge intensity by the ordinary population because they believe that particularly
+      the assassination of the scientists and the identification of them came from the
+      IAEA artificial intelligence program MOSAIC, which is one of the, if you like,
+      Palantir stable of targeting systems, which relies on imputing motives to people,
+      not on evidence. This is where you get the great disparity with Tulsi Gabbard,
+      for example, because what the IAEA were using was this data gathering process
+      examining 400 million pieces of data, social, what you read on your social platforms,
+      where you move, who your children play with, all of this thing, just like Palantir
+      uses the same system in Israel and in Gaza to impute to Israel, to Iran the idea
+      that they are not being honest in moving the enriched uranium, that they’re not
+      declaring things. And so that’s what happened on the 12th. The day before the
+      Israeli attack on Iran, the board of the IAEA on the basis of this evidence said,
+      Iran is accelerating towards enrichment and therefore to a bomb. And this is in
+      breach of the protocols of the JCPOA [Joint Comprehensive Plan of Action]. This
+      is really the pretext for the attack on Iran that took place on Friday the 13th
+      of June. That resolution that was prepared and stage managed effectively by the
+      IAEA to give, if you like, a peg for the Israeli tact to take place, which is
+      why the Iranians and the Russians too are so distrustful of the IAEA and I don’t
+      think it’s going back into Iran. Chris Hedges Well, the UN inspection teams in
+      Iraq were riddled with foreign intelligence operatives, including Israeli. One
+      has to assume that’s also true with the IAEA. Alastair Crooke It’s completely,
+      I mean it’s verified. I mean, we know that they were providing intelligence to
+      the Mossad and to Israel about, and of course IAEA insisted on meeting the scientists
+      involved in the nuclear program and therefore being able to identify them. Whether
+      this was directly passed on, I can’t say. But the Iranians have intelligence which
+      suggests that it was passed on. I haven’t seen the intelligence. Chris Hedges
+      Let’s talk about the strikes on Israel. Of course, because of military censorship
+      in Israel, we don’t know the full picture. We know that refineries were hit in
+      Haifa. We know the Weizmann Institute was hit. Reading it from a distance, it
+      does appear that Israel was probably a little surprised at the extent of the damage
+      that the Iranians were able to inflict. Alastair Crooke I think they were very
+      shocked by it. They were attacked as they’d never been attacked before. I mean,
+      they might have been used to a few Katyusha rockets from Gaza, but this was a
+      completely different order. As you say, there’s been a complete news blackout,
+      but subsequently, from satellite images, it’s clear that at least five military
+      sites were destroyed by the Iranians apart from, if you like, the main ones, which
+      was the HaKirya, which was the equivalent of the Pentagon, the Mossad headquarters
+      in Herzliya, and various other sites as well, as well as other damages. And those
+      other ones are very important because this is key in their economic sense, that
+      first of all, there was the attack on Haifa and the destruction of the refinery
+      at Haifa. And the Israelis say it will not be able to operate for at least a month.
+      And then there was the attack on the Ashdod Port which destroyed the electric
+      power system. There’s a generator, the power generator there which led to the
+      blackout in about a third of the country. It’s been restored. Israel has three
+      ports, Eilat, which has been closed for months, Haifa and Ashdod. Both of those
+      were heavily attacked and the economy was really at a halt and this is why Israel
+      called to the Omanis and said we need a ceasefire and said the same to America,
+      we need it. And the other reason was because they were running out of missiles,
+      of intercept missiles. The Israelis themselves say 93 THAAD [Terminal High Altitude
+      Area Defense] missiles were fired by the Americans and the Israelis in that period
+      of the 12 days. 93, which is equivalent to $1.2 billion worth of missiles, which
+      is about two to three years total production capacity of THAAD missile interceptors
+      during that period. So again, not only can that operation that they did on the
+      13th not be easily resurrected, but at the moment, Israel is going to have to
+      wait to re-equip itself with air defenses in a major way before they could think
+      of attacking. Iran is also doing the same. The Iranians believe and think that
+      there will be a further attack from Israel because it’s not, they believe, in
+      Israel’s interest to accept the Trump assertion that the program is over, that
+      Israel wants to say that the program is there because that provides them with
+      the cue to say, yes, within the ceasefire we have the right to attack when and
+      as we want onto Iran, if we suspect that they’re enriching or moving uranium,
+      we can attack at our initiative. This is what the basis of the ceasefire in Lebanon
+      is, that there is to be a ceasefire, but Israel has the right to attack anywhere
+      in Lebanon as it chooses and when it chooses. So they’ve been trying to impose
+      the same terms, if you like, on Iran. And I think that is ultimately intended
+      to try and pull in America to another round of attacks because the Israeli position
+      is still, and this is very important really, that the Israeli position is that
+      simply the enrichment program cannot be defeated by military systems alone. The
+      only way ultimately to defeat it is by a regime change and the imposition of a
+      Western style puppet government into Tehran because they believe that they cannot
+      kill the technical knowledge or the will to move ahead with enrichment. I think
+      there are two triggers that we should watch. If the West really pushes the Iranians
+      to allow some sort of oversight or monitoring of the program with a reformed perhaps
+      IAEA or whatever, by the way, Russia won’t push them very hard on that because
+      the IAEA, Russia has its own quarrels with the IAEA. But if the West pushes, Trump
+      pushes very hard on that, then I think, and it is required under the NPT, the
+      Nuclear Proliferation Treaty, monitoring and accountability is part of the treaty.
+      If that is pushed, then I think there will be an answer, which is we’re leaving
+      the NPT. And if then, which is also likely, the Euro 3 and the JCPOA push for
+      a snapback of sanctions on Iran. And they’ve already said publicly that they intend
+      to push for snapback sanctions. Part of the whole process of putting more pressure
+      on Iran and then the hope that Trump keeps saying that they will then come and
+      offer an unconditional surrender, which will never happen. But that’s the plan
+      anyway. But those two things were likely to push Iran off the NPT. What happens
+      then? We have to wait and see. But there is a very strong patriotic mood, as you
+      referred to in the introduction. And what is so striking is it’s the young, the
+      people that people thought were not necessarily, you know, supporters of it. And
+      they are totally, totally supporting the Supreme Leader. He’s like a sort of celebrity
+      figure now for everyone, for the young and for all. So I don’t know whether they
+      will decide to move towards a weapon or leave it in sort of strategic ambiguity.
+      That’s a possibility too. Chris Hedges Well, these kinds of attacks always generate
+      that kind of blowback. I was in Buenos Aires right before the British attacked
+      the Falklands and the regime was about to fall, the junta. And then as soon as
+      the attack began, these people became national galtiere and all these criminals
+      became national heroes. I want to talk about that process because the Supreme
+      Leader has, I think it was 2003, had written that it was against Sharia Islamic
+      law to build a nuclear weapon. Alastair Crooke That’s perfectly true, but there
+      is some important element. Under Sharia jurisprudence there’s a thing called Ijtihad,
+      which is that you can change law through reasoning, through a process of reasoning.
+      And that reasoning can be changed on the basis of time and circumstances. So that
+      if it’s no longer appropriate because the world has moved on and life is different
+      or because of a changed circumstances then a jurist, it has to be a jurist, it’s
+      not a political decision but a qualified jurist, Hujjat al-Islam or [inaudible]
+      can actually change the law and a new fatwa can be issued very easily. It doesn’t
+      need parliamentary or a pew but there is a majority in Iran now of people who
+      argued that it was a mistake never to go down this route and that this is going
+      to be something that is going to be really much more, and this is something the
+      Russians have alluded to, which I think is quite significant. They’re saying actually
+      this whole proliferation process that the West had is actually back to front because
+      actually it’s pushing people ultimately towards a weapon, not preventing them
+      because this process of going around and just threatening states we’re going to
+      bomb you to the stone age if you don’t do what we tell you actually has ended
+      and that’s what happened of course with North Korea. I mean they’d agreed a process
+      of giving it up but then more requirements and more requirements were imposed.
+      I mean it was all agreed and there was going to be money put in and a new process
+      and then the extra demands that Washington imposed on top of the original agreement
+      prompted the North Koreans to say, hang it, it’s not worth it, I mean it’s much
+      better that we should go for a bomb. So I mean the Russians and others are saying
+      well this whole nonproliferation, actually the real proliferators at this moment
+      is the West because they keep pushing people towards thinking the only thing that
+      they need. And look what’s happened. They bombed Iran and now Saudi Arabia is
+      talking about a weapon. Now India is expressing concerns about it and what the
+      consequence will be. Other states will be pursuing it. So actually rather than
+      stopping proliferation, acting to stop proliferation as the West says it’s doing,
+      it is actually encouraging proliferation. That’s the Russian view. [Dmitry] Medvedev
+      said that, the Vice President said that quite recently. Chris Hedges We also have
+      the example of [Muammar] Gaddafi, who gave up his program. Alastair Crooke Exactly,
+      It wasn’t too difficult to take away, I remember, because it was still in its
+      packing cases. He hadn’t even unpacked it and it was removed. Anyway, that was,
+      yes, there isn’t a good history [inaudible]. Chris Hedges Let’s talk about the
+      increased drone activity that apparently is occurring over Iran and what that
+      means. Alastair Crooke The Israeli drone activity over Iran at the moment is not
+      attack drones. It is mostly surveillance drones. They’re sort of trying to scope
+      out radar and the sort of the time it takes for radar to lock onto them and where
+      the radar is. And that is being fed into the American, only the Americans have
+      this sort of satellite-based battlescape map that sort of tracks all radar and
+      air defenses so that you can, if you like, construct your missiles to sort of
+      do a slalom between all the impediments to reach your target. So that’s what’s
+      happening at the moment. Plus, and I heard this from Tehran just yesterday, they’re
+      under huge cyber attack from all NATO, they say. I mean, there’s a big cyber attack
+      going. So I think, you know, both parties expect there will be another round and
+      Iran’s certainly and Israel is preparing for the next stage. So I think, you know,
+      although Trump, and I don’t think he wanted this, I mean, from everything that
+      Michael Wolff said about those calls which were, you know, I just want this to
+      be perfect. I want this, you know, I want this to be in boom, out, finished, ceasefire,
+      done, let’s close it, finish this talk. I think that what Trump is trying to do
+      there is he does not, and Michael Wolff says, and I think this is absolutely right,
+      he doesn’t think he has the attention span to do a long, drawn-out slugfest fight
+      with Iran. What he’s trying to do is shut it down to give him enough space to
+      get back to what he really wants, which is, if you like, this new Middle East
+      business world, this new structure whereby Lebanon and Syria and others will be
+      brought into some form. We will have the Abraham Accords 2.0. And this will open
+      a universe of business and trading possibilities through and you know that he
+      hopes that Iran can just sort of stand on the sidelines and not do anything about
+      it till he can find some other agreement with Iran. The main thing is the headline.
+      Let’s have a big headline. We’ve done it. There’s a new Middle East. Everyone’s
+      in this new sort of matrix of money, investments, resources, and of course the
+      resources of Iran, which are so vital to China. And also the fact that the Gulf
+      states and that if he can take that whole, if you like, corridor of the Middle
+      East, he can take it into southern Central Asia and disrupt the BRICS and their
+      connectivity plans in those stung areas — Kazakhstan, Uzbekistan, all those areas.
+      He can disrupt it and start moving the economic sphere into this. At the same
+      time, that he’s doing, if you like, an attempt to cage China literally by tariffs
+      structures. And also weakening Russia by reigniting the tensions in the Caucasus
+      again. And so Russia and Putin are taking this very seriously. And so is China.
+      And they are very angry about this. They’re angry about the deceit because Putin
+      thinks he was deceived by those attacks on the strategic bombers just the day
+      before the Istanbul talks just as Iran is. And China believes also that Xi was
+      cheated by Trump in the discussions that they had. So there’s a real sort of sense
+      of preparing for a new and wider Cold War that is being pushed. I mean, Kazakhstan
+      in the north that is, I was in Russia around about the time of the Crocus Hall,
+      the concert hall that was burnt down. And they were Tajiks that had come down
+      who were found to be responsible. And there was a big structure in Kazakhstan
+      for recruiting people, Afghans and Tajiks and others and for infiltrating them
+      into Russia or to Iran or whatever. And now we see that Azerbaijan is engaged
+      in the same idea. Now the reports, I can’t verify them, but recently Russia arrested
+      a number of Azeris-Russian citizens and that produced a dramatic response from
+      Aliyev who arrested all the Sputnik journalists and many others in Azerbaijan
+      and they roughed them up and they’ve charged them with espionage and other charges.
+      Now there’s always been sort of criminal groups in Russia from Azerbaijan. They’re
+      known as sort of a mafia there. But this is more serious, I believe, because it’s
+      thinking the Russians may be suspected that these groups were also facilitating
+      the infiltration of some of those pre-positioned units that were ready for the
+      attack on the strategic bomber system in Russia, the Spider’s Web. And that also
+      Azerbaijan was facilitating the attack on Iran. So Azerbaijan and Armenia too
+      and the question of Turkey’s role. The United States is trying to woo [Recep Tayyip]
+      Erdoğan with promises of F-35s, if only he’ll mothball the S-400s that he has
+      and I think that the aim is, the Israeli aim is the key to their, if you like,
+      their new corridor, the new, if you like, Abraham Accord 2.0, a business plan
+      right through to Asia, is that Turkey should persuade both Syria and Lebanon that
+      they have no choice and incentivize them both to join into this new sort of greater
+      Israel project. So this is why there’s a lot of tensions that all these proposals
+      that are coming out of America at the moment, the intent to sort of cut off China
+      from trade by putting differential tariffs on China if they trans ship goods through
+      Vietnam or another country. The prospect of new sanctions on Russia. The attack
+      on Iran is a pivot, a key pivot for Russia and China of the whole BRICS structure.
+      All of these things are producing a really strong response from Russia. I mean,
+      it’s given very tough response to Trump and this and says, we know exactly what
+      you’re doing in the Caucasus. We know what you are doing in Azerbaijan and we
+      won’t put up with it. And so Russia responded to this by destroying the two refineries
+      in Ukraine that were fueled from Baku, from Azerbaijan. There was Azerbaijan input
+      that was fueling these two refineries. This was a warning to Azerbaijan, you know,
+      stop playing around with this. So Iran will be saying something rather similar,
+      I suspect, to the Azeris. Now, I think some people in the United States think,
+      even dream, of the idea that Azerbaijan could invade at the right moment in coordination
+      with Israel into Iran as the Baluch perhaps come from another side or the Kurds
+      from the other. But I think that is very far-fetched because 85% of the areas
+      are Shiʿi. There is, if you like, the leadership is Turkic more than Iranian Shiʿi
+      but they’re Turkic, either Sunni or Shiʿi converted. Anyway, it’s very secular.
+      And the Iranians, all the Azeris in Iran are very, very loyal to Iran. And people
+      talk about, well, the Azeri’s glass ceiling. And I slightly laugh at that. And
+      I say, well, there’s one person you probably have heard of who’s really well-known
+      poet and he writes in the Azeri language and he’s fluent in the Azeri language
+      and he is Azeri and that’s the Supreme Leader. So it’s not that the Azeris are
+      completely sort of outliers in Iran. Chris Hedges Didn’t Israel launch drones
+      from there? Isn’t that a launch point for… Alastair Crooke Yeah, exactly. They
+      launched drones and also, as I say, the airspace of Azerbaijan was used for standoff
+      firing of drones that had these new cruise missiles, multiple cruise missiles.
+      They could launch them once they were in Iranian territory. Chris Hedges I have
+      two last questions, but just on Gaza, because in the meeting in the White House,
+      when reporters were allowed in, Trump and Netanyahu were talking about depopulating
+      Gaza. Netanyahu very cynically said it’s not a prison. People who want to leave,
+      of course, there’s enforced starvation since March 2nd, should have the right
+      to leave. Just your thoughts on what’s happening in Gaza. Alastair Crooke What’s
+      happening in Gaza is that Netanyahu and the right are intent on first of all pushing
+      all the Palestinians into what amounts to a concentration camp in one small part.
+      They will be put in but they will not be allowed out of it. And it is a stage
+      towards, it’s politely called voluntary expatriation but it is of course mandatory,
+      if you like, removal of the population from Gaza. And the same is going on in
+      the West Bank. Huge process. [Bezalel] Smotrich is in charge of this aspect. And
+      there is a real effort being made because they think they believe they can persuade
+      Trump to annex most of the West Bank. But settlers have moved into large areas.
+      New settlements are announced all the time. The annexation is afoot in the West
+      Bank as in Gaza. I think I remember Smotrich was always very, very clear about
+      this. I remember listening to him about six years ago or so and he said, listen,
+      this is our plan, to remove all the Palestinians from the area. And he said, but
+      you know, as it is with the legal system, it’s difficult. What we need is a big
+      crisis or a big war. And when that happens, we will complete the project. That’s
+      what we’re looking for. And that’s why they’re always sort of playing around with
+      the Temple Mount, Al-Aqsa. Looking to use that perhaps as the pretext to sort
+      of trigger a commotion in the whole Muslim world. Al-Aqsa is a neuralgic point
+      in the Muslim world, that they could use this as the ability to sort of create
+      the crisis that they could then, under the pretext of an emergency, really move,
+      finish off the depopulation of Gaza and also much of the West Bank, drive the
+      West Bank to Jordan. Chris Hedges Does that mean they would drive the Palestinians
+      and try to drive them into Jordan and they would drive the Palestinians in Gaza
+      into Egypt? The Egyptians and the Jordanians have been adamant that’s not going
+      to happen. Alastair Crooke Yes, but I mean they are pushing them closer and closer
+      to the Rafah Gate. And, you know, what’s going to happen if they open those gates
+      and just push them out, tou know, a million or so Palestinians? It’s very, very
+      sensitive in Egypt. The Egyptians are really, ordinary Egyptians, the Egyptian
+      army is very angry with [Abdel Fattah El-]Sisi about his ineffectual response
+      to what’s happening in Gaza. It could explode. The whole Egyptian element could
+      explode in this process. Of course there will be some sort of public relations
+      exercise of sending a few Palestinians to, I don’t know where, but somewhere to
+      say, no they went voluntarily. But of course that’s not what’s planned. What’s
+      planned is another Nakba from Gaza. And it’s unfolding, sadly, unfortunately.
+      You know, Hamas demands are not met by this proposal. This is why I don’t, I think
+      what we will get is probably some sort of ceasefire. But it’s a ceasefire designed
+      to allow the Israelis to resume the attrition of Gaza either because they’ll claim
+      it will break down or because they’ll claim the 60 days are over. And the Hamas
+      position remains unchanged — we want an end to the war. We want the removal of
+      all of the Israeli troops from Gaza and a reconstruction of the strip. And of
+      course, the Witkoff proposal does none of those things. It doesn’t provide for
+      an end of the war. There will still be Israeli forces inside Gaza during the ceasefire
+      and after. And the proposals for reconstructing it is quite different to be done
+      by pliant Arab states. Chris Hedges And we should just draw that parallel between
+      decapitating Hamas. I knew Abdel Aziz al-Rantisi, one of the co-founders of Hamas,
+      assassinated with his son in 2004, a long litany of Hamas leaders who were killed.
+      And of course, it disrupts the organization without question. But just because
+      Israel has decapitated Iranian leadership, ultimately, I mean I’ll get your feed
+      on this, it ultimately doesn’t disrupt the system. Alastair Crooke I think that’s
+      exactly what we saw in Iran. I mean, that actually, as so often has happened,
+      Israel decapitates the moderates and the younger generation that come in are much
+      more hardline than, you know, their other elderly. I mean, some of the IRGC are
+      veterans from the Iran-Iraq War and, you know, the younger are much more vigorous
+      and much more determined than the older ones and that’s what’s happened. And I
+      think what we’ve seen is the other part of this great equation that was supposed
+      to come out of Washington. Hezbollah have said categorically they will not accept
+      any process that leads to their disarmament. Now this may end up in civil war
+      in Lebanon, it could do what the Americans are pushing very, very hard in every
+      way to disenfranchise, depoliticize, demilitarize the Shia who are the majority
+      in Lebanon and it won’t happen. I mean they’ve been down that route in the past
+      as you know and it’s not likely to happen. Chris Hedges Let’s just close with
+      the next Israeli strike, which you talked about how Israel views ceasefires. This
+      is writ large in Gaza, where Israel violates every single ceasefire they make
+      to “mow the lawn.” That same kind of mentality will most likely be used to again
+      make strikes against Iran if in Israeli eyes they feel they are reconstituting
+      military defenses or a nuclear program. What do you, how do you picture that strike
+      and the consequences? The next one. Alastair Crooke I think the first thing which
+      is really important to say is that, and we follow the Israeli press very very
+      closely, the Hebrew press, I mean not just the English language press. It’s very
+      clear that they know now after what has happened, I mean they sustained much more
+      damage than they had expected, that they cannot attack Iran without full unstinting
+      American support. Now the question is, is that going to be forthcoming? And I
+      think one of the things that I feel might stop it is the question of the MAGA.
+      I think the MAGA are really quite unhappy. You know, there were two issues in
+      the American election, immigration and forever wars. And MAGA came and also there
+      is a quite a number of Democrats, young Democratic voters who supported Trump
+      mainly because he promised peace and no more war. Not necessarily for the other
+      part, but certainly for that. They are starting to filter away. And it’s also
+      in the MAGA. You’ve seen, I mean, Steve Bannon and Tucker Carlson and everyone
+      who, there’s a big pushback against it. They have, Trump has a majority, I think
+      you can correct me if I’m wrong, about three in both houses, in the Senate and
+      the House. It’s small. And midterms are just over a year away. So I think he is
+      going to be worried about the internal position, the MAGA position and that. And
+      that was obvious almost when Hexeth came in, spoke, and he said, he went on, you
+      may remember it, he made a statement, I think, on Fox News saying, look, we’re
+      not attacking Iran per se or the Iranian people, we’re just attacking the nuclear
+      program. I think, you know, we’re not wanting to have a war with Iran, we’re just
+      trying to, you know, sort this part out. So I think he will because, you know,
+      with only three, it would be quite feasible if he gets stuck and locked into a
+      long… bloody conflict in Iran and it would be because Iran’s got surprises for
+      the United States and for Israel if it moves to another phase everyone is preparing
+      for another phase. If it does that you know he may find that you know at the end
+      of it I mean it would be a very different world. I mean one can’t even rule out
+      if there is a change at the midterm elections you know impeachment and things
+      might come back. on to the agenda. You know more about that than I, but it’s a
+      generous moment and I think he’s right to be concerned about it because it’s from
+      both ends of his, it’s the young and it is the MAGA who are both, you know, don’t
+      want a war, a big war in the Middle East particularly. Chris Hedges Great, thanks.
+      And I want to thank Sophia, Victor, Max, Thomas, and Diego who produced the show.
+      You can find me at ChrisHedges.Substack.com . Editor’s Note : A t a moment when
+      the once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Please share this
+      story and help us grow our network! Chris Hedges Chris Hedges is a Pulitzer Prize–winning
+      journalist who was a foreign correspondent for fifteen years for The New York
+      Times, where he served as the Middle East Bureau Chief and Balkan Bureau Chief
+      for the paper. He previously worked overseas for The Dallas Morning News , The
+      Christian Science Monitor , and NPR. He is the host of show The Chris Hedges Report.
+      He was a member of the team that won the 2002 Pulitzer Prize for Explanatory Reporting
+      for The New York Times coverage of global terrorism, and he received the 2002
+      Amnesty International Global Award for Human Rights Journalism. Hedges, who holds
+      a Master of Divinity from Harvard Divinity School, is the author of the bestsellers
+      American Fascists: The Christian Right and the War on America , Empire of Illusion:
+      The End of Literacy and the Triumph of Spectacle and was a National Book Critics
+      Circle finalist for his book War Is a Force That Gives Us Meaning . He writes
+      an online column for the website ScheerPost . He has taught at Columbia University,
+      New York University, Princeton University and the University of Toronto. Author
+      Site'
+    one_sentence_summary: In a recent episode of The Chris Hedges Report, former British
+      diplomat Alastair Crooke discusses the recent Israeli attacks on Iran, the subsequent
+      ceasefire, and the geopolitical implications of these events, including the role
+      of technology and the potential for future conflict in the Middle East.
+    paragraph_summary: In a recent episode of The Chris Hedges Report, host Chris Hedges
+      interviews former British diplomat Alastair Crooke about the escalating tensions
+      in the Middle East following Israeli and American attacks on Iran, which raised
+      fears of a potential World War III. After a 12-day conflict, a ceasefire has introduced
+      new uncertainties regarding the future of the region. Crooke discusses the factors
+      leading to the Israeli strikes, including advanced technology and support from
+      neighboring countries, as well as the implications of American military involvement
+      under Donald Trump's administration. Both Hedges and Crooke emphasize that the
+      conflict is ongoing and that the future stability of the Middle East and the global
+      economy is contingent on the actions of Israel, Iran, and the United States in
+      the coming weeks and months. Hedges also appeals for support to sustain independent
+      journalism amidst increasing censorship pressures.
+    published: '2025-07-10T23:11:22+00:00'
+  - title: Your Gaza Update
+    url: https://scheerpost.com/2025/07/10/your-gaza-update/
+    text: At a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the plaything of self-serving billionaires, alternatives of integrity are desperately
+      needed. We are one of them, proof being that with decidedly limited resources,
+      we have attracted readers from around the world who have viewed our content more
+      than 17 million times. We are honored to have your support.
+    one_sentence_summary: The article emphasizes the need for integrity in journalism
+      amidst the influence of billionaires, highlighting the success of their independent
+      platform, which has garnered over 17 million views globally despite limited resources.
+    paragraph_summary: The article highlights the decline of responsible journalism,
+      which has become dominated by self-serving billionaires, and emphasizes the urgent
+      need for alternative media that uphold integrity. The authors assert that their
+      platform is one such alternative, having garnered over 17 million views globally
+      despite limited resources, and express gratitude for the support they have received
+      from their readers.
+    published: '2025-07-10T15:07:54+00:00'
+  - title: Trump Holds Second Meeting With Netanyahu at the White House
+    url: https://scheerpost.com/2025/07/10/trump-holds-second-meeting-with-netanyahu-at-the-white-house/
+    text: 'President Donald Trump hosts a bilateral dinner for Israeli Prime Minister
+      Benjamin Netanyahu, Monday, July 7, 2025, in the Blue Room. (Official White House
+      Photo by Daniel Torok) In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Dave DeCamp / Antiwar.com President Trump hosted Israeli Prime Minister
+      Benjamin Netanyahu at the White House for a second day on Tuesday , holding a
+      90-minute meeting in the Oval Office. The two leaders were also joined by Vice
+      President JD Vance. According to media reports, the purpose of the meeting was
+      to discuss the potential for a Gaza ceasefire deal. Haaretz reported that following
+      the Trump-Netanyahu meeting, US envoy Steve Witkoff will now travel to Qatar for
+      ceasefire negotiations, but his office said the trip hasn’t been finalized. The
+      negotiations in Doha are focusing on the potential of a 60-day ceasefire, during
+      which the two sides are supposed to negotiate a long-term deal. Hamas is looking
+      for a stronger guarantee from the US that it is committed to turning the temporary
+      truce into a permanent one. There are conflicting reports on the progress in the
+      ceasefire negotiations. Some have said the issues over aid deliveries have been
+      resolved and that the main impasse is now over Israel’s demand to maintain control
+      of the “Morag Corridor,” a strip of land between the southern Gaza cities of Rafah
+      and Khan Younis, while other reports say there has been no progress at all. A
+      Palestinian official told the Saudi Asharq News outlet that negotiations are “at
+      a standstill” because the Israeli negotiating team is “limiting itself to listening
+      rather than negotiating” and consulting on “every issue” with officials back in
+      Israel. The official charged that the lack of authority for the negotiating team
+      was “a continuation of the stalling policy of Prime Minister Benjamin Netanyahu
+      to obstruct any potential agreement.” Drop Site News reporter Jeremy Scahill said
+      in a post on X that a Hamas official told him that claims from US officials that
+      there was progress are part of a “deception game,” likely so the US and Israel
+      can blame Hamas for the lack of a deal. The official also mentioned Israel’s demands
+      about the Morag Corridor and its plans to build a camp to concentrate Gaza’s civilian
+      population on the ruins of Rafah, which Israeli Defense Minister Israel Katz announced
+      on Monday. “This is a fluid situation and developments can happen at any moment
+      as the talks continue and with Netanyahu in DC,” Scahill said. “The bottom line
+      will be what Trump wants and all parties know this.” While Trump says he wants
+      a deal, it remains unclear if he’s willing to put enough pressure on Netanyahu
+      to reach one. US military aid is required for Israel to sustain its military operations
+      and continue its genocidal war on the Palestinians of Gaza, meaning Trump has
+      significant leverage. Netanyahu, who is wanted by the International Criminal Court
+      (ICC) for war crimes in Gaza, met with other US officials on Tuesday, including
+      House Speaker Mike Johnson (R-LA). Editor’s Note : A t a moment when the once
+      vaunted model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Dave DeCamp Dave DeCamp is the news
+      editor of Antiwar.com, follow him on Twitter @decampdave. Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: President Trump met with Israeli Prime Minister Netanyahu
+      at the White House to discuss a potential Gaza ceasefire, with plans for U.S.
+      envoy Steve Witkoff to negotiate in Qatar.
+    paragraph_summary: President Donald Trump hosted Israeli Prime Minister Benjamin
+      Netanyahu at the White House for a meeting focused on negotiating a potential
+      ceasefire in Gaza, which lasted 90 minutes and included Vice President JD Vance.
+      Following their discussions, U.S. envoy Steve Witkoff is expected to travel to
+      Qatar for further negotiations on a proposed 60-day ceasefire, during which a
+      long-term agreement would be sought. Reports indicate mixed progress in the negotiations,
+      with some sources suggesting that issues regarding aid deliveries have been resolved,
+      while others claim that discussions are stalled due to Israel's insistence on
+      maintaining control over the Morag Corridor and a lack of authority within the
+      Israeli negotiating team. A Palestinian official criticized the Israeli approach
+      as merely listening without engaging in meaningful negotiations.
+    published: '2025-07-10T09:20:00+00:00'
+  - title: New Report Documents Racist Rot at the Core of the Petrochemical Industry
+    url: https://scheerpost.com/2025/07/10/new-report-documents-racist-rot-at-the-core-of-the-petrochemical-industry/
+    text: 'Petrochemical Refineries in Metro Houston, Texas. Ken Lund from Reno, Nevada,
+      USA, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0 , via Wikimedia
+      Commons In one of the scariest moments in modern history, we''re doing our best
+      at ScheerPost to pierce the fog of lies that conceal it but we need some help
+      to pay our writers and staff. Please consider a tax-deductible donation . By C.J.
+      Polychroniou / Truthout Arecent study published by Ecological Economics reveals
+      that the petrochemical industry, well known for creating pollution and health
+      risks to predominantly poor and Black communities near its plants, also perpetuates
+      stark racial disparities across its workforce, reflecting what can only be described
+      as institutional racism. In the exclusive interview for Truthout , one of the
+      co-authors of the study, University of Massachusetts Amherst economist Michael
+      Ash talks about what goes on in the employment practices of the petrochemical
+      industry. The following transcript has been lightly edited for length and clarity.
+      C.J. Polychroniou : The petrochemical industry creates huge amounts of pollution
+      and is a major contributor to greenhouse gas emissions. Many petrochemical plants
+      are also located on former slave plantation lands, such as those along the Mississippi
+      River. These petrochemical plants affect predominantly Black, Brown, Indigenous,
+      and poor communities as they are exposed to high risks of cancer and respiratory
+      ailments from the pollutants emitted by these facilities. However, a growing body
+      of literature also reveals sharp racial disparities in the petrochemical workforce.
+      A recent study you co-authored supports such findings. Can you talk about these
+      racial disparities in the petrochemical workforce? How pervasive are they, and
+      are they confined to certain geographical locations, or is it a widespread phenomenon
+      across the United States? Michael Ash : First, I really can’t discuss this study
+      without reference to the struggle for academic freedom that our study has engendered
+      for the lead author, Kimberly Terrell. Until June 11, Terrell was a research scientist
+      and director of community engagement at the Tulane Environmental Law Clinic at
+      Tulane University. Our study discusses disparities in employment and access to
+      high-quality jobs in the petrochemical industry in Louisiana and elsewhere; and
+      the governor of Louisiana made it clear to the administration of Tulane University
+      that this type of research, no matter how objective and scientific, would not
+      be tolerated. The Tulane administration, to its grave discredit, bent to this
+      pressure and attempted to gag Terrell’s communication with the public and with
+      the media and to impede her scientific research on economic and environmental
+      disparities. With the survival of the Tulane Environmental Law Clinic at stake,
+      Terrell chose to resign and will carry on her research under other auspices. The
+      makeup of the petrochemical workforce is tightly bound with the political influence
+      and pollution effluents of the petrochemical industry. Petrochemical employment
+      is concentrated in the U.S., a product of both geographic and technological imperatives
+      and industrial planning. Petrochemical jobs have historically been good jobs in
+      the sense of offering a pay premium above similar work in other industries — made
+      possible by capital-intensive production, monopoly profits, and an organized workforce.
+      The employment disparities in petrochemical employment are widespread in the U.S.,
+      but they are especially notable in Louisiana because the African American share
+      of the workforce is so high; the environmental risks and harms disproportionately
+      imposed on African Americans are so great; and the representation of African Americans
+      in jobs in the petrochemical industry, especially in good jobs, is so poor. An
+      account from my friend and colleague Jim Boyce illustrates the disconnect between
+      who suffers environmental harms and who benefits from employment. When visiting
+      African American frontline communities in Louisiana’s “Cancer Alley” along the
+      Mississippi River, Jim asked, “Well, the chemical plants and refineries and paper
+      mills obviously bring pollution, but don’t they also bring at least some good
+      jobs? The reply came: ‘No, none of us work there. It’s all white guys who come
+      in their pickup trucks from Baton Rouge.’” I should state explicitly that even
+      access to good jobs cannot objectively make up for exposure to environmental harm.
+      Environmental harm and risks and access to decent employment are non-commensurate
+      costs and benefits. Indeed, everyone should and can have the right to both a clean,
+      healthy, and safe environment and to a decent livelihood. But if there are no
+      jobs — environment tradeoffs, even on their own impoverished and dehumanizing
+      terms — then the environmental and economic injustice is especially stark. That’s
+      what my work with Boyce showed on a national basis in our 2018 paper , and what
+      Terrell, Gianna St. Julien, and I find in more detail in our 2025 study on Louisiana.
+      What draws petrochemical industries to Louisiana and its so-called “Cancer Alley?”
+      “Cancer Alley,” the stretch of the Mississippi River beginning near Baton Rouge,
+      Louisiana, and running to the Gulf, is home to a planned and cultivated petrochemical
+      industry. Some petrochemical hubs emerge because of proximity to mines or wells,
+      and of course, Louisiana and offshore activity in the Gulf are sources. But the
+      petrochemical industry along that stretch of the Mississippi began with planning
+      — Standard Oil Company (ancestor of today’s ExxonMobil) initiated its Baton Rouge
+      refining plans around 1910 — and flourished with state initiatives. The location
+      fit into both John D. Rockefeller’s aim for mid-country, river-accessible petroleum
+      processing and the new oil and gas discoveries along the Gulf Coast. Over the
+      course of the 20th century, and especially in the decades after World War II,
+      the petrochemical industry cemented its relationships with public leadership in
+      Louisiana, garnering large public subsidies and tax exemptions. Many of the area’s
+      petrochemical facilities are literally built on the sites of former plantations.
+      So the coalescence of newer petroleum interests with the existing racist governance
+      system enabled the development of new structures for the profitable exploitation
+      of communities of color. In addition to exploring the employment gaps, we also
+      document the very large subsidies and tax exemptions for petrochemicals and how
+      these industries contribute little to total employment, and essentially nothing
+      to fair employment in Louisiana. Some have suggested that the racial disparities
+      encountered in the petrochemical industry can be at least partly attributed to
+      the racial education gap. Is there any validity behind this claim? There’s an
+      overwhelming urge, encouraged by the media and employers, to make gross inequities
+      seem fair or deserved. Under this logic, racial gaps in employment or in access
+      to good jobs are attributed to racial gaps in education. The truth about racial
+      disparities in employment in the petrochemical industry (and in many other industries)
+      is part of several longstanding employers’ strategies: (1) divide-and-conquer
+      with segmented and segregated work; and (2) blame workers for the bad deal that
+      workers get. These petrochemical jobs are skilled jobs, and while formal education
+      provides some of the needed skills, skills learned in training programs or on
+      the job are very important. That’s what makes equitable access to the jobs central.
+      Without that, there’s simply a vicious cycle of no skills, no job; and no job,
+      no skills. As a formal matter, we used statistical methods to control for educational
+      differences in the available workforce, and we still find large disparities in
+      employment, especially in the better jobs in the industry. So even on the terms
+      of the industry’s apologists, education does not explain the racial employment
+      gap. Petrochemical job disparities are outsized compared to the racial education
+      gap. But the bigger point is that these exclusions are structural and self-sustaining
+      unless there is a concerted public intervention. Education is wonderful; it makes
+      workers more productive and opens the way to innovation. But if the institutions
+      for sharing the gains from education aren’t set up correctly, then employers,
+      instead of workers, can pocket the lion’s share of the benefits. So I want to
+      dispel the notion that the racial disparity in employment and access to good jobs
+      is zero-sum (what’s lost by Black workers is gained by white workers). White workers,
+      too, get a worse deal than they would in a racially fair system because the racially
+      unfair system stacks the deck against all workers, white and Black. If the racial
+      disparities already discussed reflect institutional racism, how does the law address
+      this problem? The petrochemical industry in Louisiana is regularly given a host
+      of advantages by the public in Louisiana, including outright subsidies and exemptions
+      from taxation, especially the local property tax. These are outright giveaways,
+      with minimal payback in terms of employment and especially little benefit in terms
+      of opportunities for excluded communities. The job numbers and new plant announcements
+      are from companies’ reports of how they have used the public subsidies. But it’s
+      easy to announce job numbers in the media, and the companies now receive their
+      tax exemptions essentially without any actual demonstration of job creation or
+      retention. The petrochemical industry is increasingly automated; so even these
+      not-very-impressive announced job numbers may not reflect real or long-term opportunities.
+      At a minimum, Louisiana could strike a better deal for itself in terms of requiring
+      demonstrable benefits in terms of training and access in exchange for this large
+      annual outlay. What role do the trade unions themselves play in people of color
+      being underrepresented in high-paying jobs in the petrochemical industry? I mean,
+      they must be aware of these racial disparities, so are they also not responsible
+      for allowing this unfair state of affairs to continue? Trade unions are painfully
+      aware of the divide-and-conquer tactics that employers use. The former Oil, Chemical,
+      and Atomic Workers (OCAW) union, which eventually merged into the paper workers
+      union and subsequently into the United Steel Workers, had a decent foothold in
+      the Baton Rouge petrochemical industry. OCAW was the first union to put worker
+      and community health, safety, and protection from pollution at the forefront of
+      labor campaigns. OCAW, especially under the leadership of Tony Mazzocchi, always
+      pushed hard for racial equity because they recognized that the working class was
+      ultimately in it together. Indeed, the term “Cancer Alley” itself originated from
+      a billboard that OCAW put up when cooperating with environmental groups in the
+      1980s. Employers, on the other hand, are effective practitioners of divide-and-conquer
+      and also operate with the knowledge that African Americans are, on average, more
+      favorably disposed toward unions. What are the remedies for institutional racism
+      in the petrochemical industry? A much closer and more detailed look is possible
+      for the Equal Employment Opportunity Commission, the EEOC. We used the best publicly
+      available EEOC data for our study. The EEOC can take a deeper dive and examine
+      exactly which companies are hiring into which occupations. With mandated environmental
+      reporting, such as the Environmental Protection Agency Toxics Release Inventory,
+      the public has the right to know what chemicals companies are releasing into the
+      environment. With additional modeling, we can learn, for example, that around
+      80 percent of the potential chronic human health risk from the ExxonMobil facilities
+      in Baton Rouge fall on people of color and nearly 30 percent on poor households
+      — both of these are far out of line with the national and Louisiana shares of
+      the population. But we do not know what ExxonMobil’s allocation of jobs, and especially
+      of good jobs, is from the facilities. When I say, “we do not know,” I mean the
+      general public; the EEOC collects this data from the ExxonMobil facilities. In
+      the short run, there is nothing stopping companies from releasing their own EEOC
+      reporting on how many and which jobs are represented, and which workers, in terms
+      of sex and race or ethnicity, hold these jobs. In the longer run, we should have
+      employment and job-quality transparency so that we can assess employment justice
+      for industries as effectively as we can assess environmental justice. The tools
+      for environmental justice assessment were the product of a long, determined campaign
+      for transparency and the right to know. At the very least, we should have that
+      kind of transparency for employment opportunities. Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . C.J. Polychroniou
+      C.J. Polychroniou is a political economist/political scientist who has taught
+      and worked in numerous universities and research centers in Europe and the United
+      States. His latest books are The Precipice: Neoliberalism, the Pandemic and the
+      Urgent Need for Social Change (A collection of interviews with Noam Chomsky; Haymarket
+      Books, 2021), and Economics and the Left: Interviews with Progressive Economists
+      (Verso, 2021). Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: A recent study highlights that the petrochemical industry
+      not only poses environmental and health risks to marginalized communities but
+      also exhibits significant racial disparities in its workforce, indicating systemic
+      racism within its employment practices.
+    paragraph_summary: A recent study published in Ecological Economics highlights the
+      dual impact of the petrochemical industry on marginalized communities and its
+      workforce, revealing significant racial disparities that reflect institutional
+      racism. Co-author Michael Ash from the University of Massachusetts Amherst discusses
+      how petrochemical plants, often situated on former slave plantation lands, disproportionately
+      affect Black, Brown, Indigenous, and low-income populations, exposing them to
+      severe health risks from pollution. The study underscores that these racial inequities
+      in employment practices are not isolated incidents but are prevalent across the
+      United States, further exacerbating the challenges faced by these communities.
+    published: '2025-07-10T09:20:00+00:00'
+  - title: Trump Holds Second Meeting With Netanyahu at the White House
+    url: https://scheerpost.com/2025/07/10/trump-holds-second-meeting-with-netanyahu-at-the-white-house/
+    text: 'President Donald Trump hosts a bilateral dinner for Israeli Prime Minister
+      Benjamin Netanyahu, Monday, July 7, 2025, in the Blue Room. (Official White House
+      Photo by Daniel Torok) In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Dave DeCamp / Antiwar.com President Trump hosted Israeli Prime Minister
+      Benjamin Netanyahu at the White House for a second day on Tuesday , holding a
+      90-minute meeting in the Oval Office. The two leaders were also joined by Vice
+      President JD Vance. According to media reports, the purpose of the meeting was
+      to discuss the potential for a Gaza ceasefire deal. Haaretz reported that following
+      the Trump-Netanyahu meeting, US envoy Steve Witkoff will now travel to Qatar for
+      ceasefire negotiations, but his office said the trip hasn’t been finalized. The
+      negotiations in Doha are focusing on the potential of a 60-day ceasefire, during
+      which the two sides are supposed to negotiate a long-term deal. Hamas is looking
+      for a stronger guarantee from the US that it is committed to turning the temporary
+      truce into a permanent one. There are conflicting reports on the progress in the
+      ceasefire negotiations. Some have said the issues over aid deliveries have been
+      resolved and that the main impasse is now over Israel’s demand to maintain control
+      of the “Morag Corridor,” a strip of land between the southern Gaza cities of Rafah
+      and Khan Younis, while other reports say there has been no progress at all. A
+      Palestinian official told the Saudi Asharq News outlet that negotiations are “at
+      a standstill” because the Israeli negotiating team is “limiting itself to listening
+      rather than negotiating” and consulting on “every issue” with officials back in
+      Israel. The official charged that the lack of authority for the negotiating team
+      was “a continuation of the stalling policy of Prime Minister Benjamin Netanyahu
+      to obstruct any potential agreement.” Drop Site News reporter Jeremy Scahill said
+      in a post on X that a Hamas official told him that claims from US officials that
+      there was progress are part of a “deception game,” likely so the US and Israel
+      can blame Hamas for the lack of a deal. The official also mentioned Israel’s demands
+      about the Morag Corridor and its plans to build a camp to concentrate Gaza’s civilian
+      population on the ruins of Rafah, which Israeli Defense Minister Israel Katz announced
+      on Monday. “This is a fluid situation and developments can happen at any moment
+      as the talks continue and with Netanyahu in DC,” Scahill said. “The bottom line
+      will be what Trump wants and all parties know this.” While Trump says he wants
+      a deal, it remains unclear if he’s willing to put enough pressure on Netanyahu
+      to reach one. US military aid is required for Israel to sustain its military operations
+      and continue its genocidal war on the Palestinians of Gaza, meaning Trump has
+      significant leverage. Netanyahu, who is wanted by the International Criminal Court
+      (ICC) for war crimes in Gaza, met with other US officials on Tuesday, including
+      House Speaker Mike Johnson (R-LA). Editor’s Note : A t a moment when the once
+      vaunted model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Dave DeCamp Dave DeCamp is the news
+      editor of Antiwar.com, follow him on Twitter @decampdave. Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: President Trump met with Israeli Prime Minister Netanyahu
+      at the White House to discuss a potential Gaza ceasefire, with plans for U.S.
+      envoy Steve Witkoff to negotiate in Qatar.
+    paragraph_summary: President Donald Trump hosted Israeli Prime Minister Benjamin
+      Netanyahu at the White House for a meeting focused on negotiating a potential
+      ceasefire in Gaza, which lasted 90 minutes and included Vice President JD Vance.
+      Following their discussions, U.S. envoy Steve Witkoff is expected to travel to
+      Qatar for further negotiations on a proposed 60-day ceasefire, during which a
+      long-term agreement would be sought. Reports indicate mixed progress in the negotiations,
+      with some sources suggesting that issues regarding aid deliveries have been resolved,
+      while others claim that discussions are stalled due to Israel's insistence on
+      maintaining control over the Morag Corridor and a lack of authority within the
+      Israeli negotiating team. A Palestinian official criticized the Israeli approach
+      as merely listening without engaging in meaningful negotiations.
+    published: '2025-07-10T09:20:00+00:00'
+  - title: New Report Documents Racist Rot at the Core of the Petrochemical Industry
+    url: https://scheerpost.com/2025/07/10/new-report-documents-racist-rot-at-the-core-of-the-petrochemical-industry/
+    text: 'Petrochemical Refineries in Metro Houston, Texas. Ken Lund from Reno, Nevada,
+      USA, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0 , via Wikimedia
+      Commons In one of the scariest moments in modern history, we''re doing our best
+      at ScheerPost to pierce the fog of lies that conceal it but we need some help
+      to pay our writers and staff. Please consider a tax-deductible donation . By C.J.
+      Polychroniou / Truthout Arecent study published by Ecological Economics reveals
+      that the petrochemical industry, well known for creating pollution and health
+      risks to predominantly poor and Black communities near its plants, also perpetuates
+      stark racial disparities across its workforce, reflecting what can only be described
+      as institutional racism. In the exclusive interview for Truthout , one of the
+      co-authors of the study, University of Massachusetts Amherst economist Michael
+      Ash talks about what goes on in the employment practices of the petrochemical
+      industry. The following transcript has been lightly edited for length and clarity.
+      C.J. Polychroniou : The petrochemical industry creates huge amounts of pollution
+      and is a major contributor to greenhouse gas emissions. Many petrochemical plants
+      are also located on former slave plantation lands, such as those along the Mississippi
+      River. These petrochemical plants affect predominantly Black, Brown, Indigenous,
+      and poor communities as they are exposed to high risks of cancer and respiratory
+      ailments from the pollutants emitted by these facilities. However, a growing body
+      of literature also reveals sharp racial disparities in the petrochemical workforce.
+      A recent study you co-authored supports such findings. Can you talk about these
+      racial disparities in the petrochemical workforce? How pervasive are they, and
+      are they confined to certain geographical locations, or is it a widespread phenomenon
+      across the United States? Michael Ash : First, I really can’t discuss this study
+      without reference to the struggle for academic freedom that our study has engendered
+      for the lead author, Kimberly Terrell. Until June 11, Terrell was a research scientist
+      and director of community engagement at the Tulane Environmental Law Clinic at
+      Tulane University. Our study discusses disparities in employment and access to
+      high-quality jobs in the petrochemical industry in Louisiana and elsewhere; and
+      the governor of Louisiana made it clear to the administration of Tulane University
+      that this type of research, no matter how objective and scientific, would not
+      be tolerated. The Tulane administration, to its grave discredit, bent to this
+      pressure and attempted to gag Terrell’s communication with the public and with
+      the media and to impede her scientific research on economic and environmental
+      disparities. With the survival of the Tulane Environmental Law Clinic at stake,
+      Terrell chose to resign and will carry on her research under other auspices. The
+      makeup of the petrochemical workforce is tightly bound with the political influence
+      and pollution effluents of the petrochemical industry. Petrochemical employment
+      is concentrated in the U.S., a product of both geographic and technological imperatives
+      and industrial planning. Petrochemical jobs have historically been good jobs in
+      the sense of offering a pay premium above similar work in other industries — made
+      possible by capital-intensive production, monopoly profits, and an organized workforce.
+      The employment disparities in petrochemical employment are widespread in the U.S.,
+      but they are especially notable in Louisiana because the African American share
+      of the workforce is so high; the environmental risks and harms disproportionately
+      imposed on African Americans are so great; and the representation of African Americans
+      in jobs in the petrochemical industry, especially in good jobs, is so poor. An
+      account from my friend and colleague Jim Boyce illustrates the disconnect between
+      who suffers environmental harms and who benefits from employment. When visiting
+      African American frontline communities in Louisiana’s “Cancer Alley” along the
+      Mississippi River, Jim asked, “Well, the chemical plants and refineries and paper
+      mills obviously bring pollution, but don’t they also bring at least some good
+      jobs? The reply came: ‘No, none of us work there. It’s all white guys who come
+      in their pickup trucks from Baton Rouge.’” I should state explicitly that even
+      access to good jobs cannot objectively make up for exposure to environmental harm.
+      Environmental harm and risks and access to decent employment are non-commensurate
+      costs and benefits. Indeed, everyone should and can have the right to both a clean,
+      healthy, and safe environment and to a decent livelihood. But if there are no
+      jobs — environment tradeoffs, even on their own impoverished and dehumanizing
+      terms — then the environmental and economic injustice is especially stark. That’s
+      what my work with Boyce showed on a national basis in our 2018 paper , and what
+      Terrell, Gianna St. Julien, and I find in more detail in our 2025 study on Louisiana.
+      What draws petrochemical industries to Louisiana and its so-called “Cancer Alley?”
+      “Cancer Alley,” the stretch of the Mississippi River beginning near Baton Rouge,
+      Louisiana, and running to the Gulf, is home to a planned and cultivated petrochemical
+      industry. Some petrochemical hubs emerge because of proximity to mines or wells,
+      and of course, Louisiana and offshore activity in the Gulf are sources. But the
+      petrochemical industry along that stretch of the Mississippi began with planning
+      — Standard Oil Company (ancestor of today’s ExxonMobil) initiated its Baton Rouge
+      refining plans around 1910 — and flourished with state initiatives. The location
+      fit into both John D. Rockefeller’s aim for mid-country, river-accessible petroleum
+      processing and the new oil and gas discoveries along the Gulf Coast. Over the
+      course of the 20th century, and especially in the decades after World War II,
+      the petrochemical industry cemented its relationships with public leadership in
+      Louisiana, garnering large public subsidies and tax exemptions. Many of the area’s
+      petrochemical facilities are literally built on the sites of former plantations.
+      So the coalescence of newer petroleum interests with the existing racist governance
+      system enabled the development of new structures for the profitable exploitation
+      of communities of color. In addition to exploring the employment gaps, we also
+      document the very large subsidies and tax exemptions for petrochemicals and how
+      these industries contribute little to total employment, and essentially nothing
+      to fair employment in Louisiana. Some have suggested that the racial disparities
+      encountered in the petrochemical industry can be at least partly attributed to
+      the racial education gap. Is there any validity behind this claim? There’s an
+      overwhelming urge, encouraged by the media and employers, to make gross inequities
+      seem fair or deserved. Under this logic, racial gaps in employment or in access
+      to good jobs are attributed to racial gaps in education. The truth about racial
+      disparities in employment in the petrochemical industry (and in many other industries)
+      is part of several longstanding employers’ strategies: (1) divide-and-conquer
+      with segmented and segregated work; and (2) blame workers for the bad deal that
+      workers get. These petrochemical jobs are skilled jobs, and while formal education
+      provides some of the needed skills, skills learned in training programs or on
+      the job are very important. That’s what makes equitable access to the jobs central.
+      Without that, there’s simply a vicious cycle of no skills, no job; and no job,
+      no skills. As a formal matter, we used statistical methods to control for educational
+      differences in the available workforce, and we still find large disparities in
+      employment, especially in the better jobs in the industry. So even on the terms
+      of the industry’s apologists, education does not explain the racial employment
+      gap. Petrochemical job disparities are outsized compared to the racial education
+      gap. But the bigger point is that these exclusions are structural and self-sustaining
+      unless there is a concerted public intervention. Education is wonderful; it makes
+      workers more productive and opens the way to innovation. But if the institutions
+      for sharing the gains from education aren’t set up correctly, then employers,
+      instead of workers, can pocket the lion’s share of the benefits. So I want to
+      dispel the notion that the racial disparity in employment and access to good jobs
+      is zero-sum (what’s lost by Black workers is gained by white workers). White workers,
+      too, get a worse deal than they would in a racially fair system because the racially
+      unfair system stacks the deck against all workers, white and Black. If the racial
+      disparities already discussed reflect institutional racism, how does the law address
+      this problem? The petrochemical industry in Louisiana is regularly given a host
+      of advantages by the public in Louisiana, including outright subsidies and exemptions
+      from taxation, especially the local property tax. These are outright giveaways,
+      with minimal payback in terms of employment and especially little benefit in terms
+      of opportunities for excluded communities. The job numbers and new plant announcements
+      are from companies’ reports of how they have used the public subsidies. But it’s
+      easy to announce job numbers in the media, and the companies now receive their
+      tax exemptions essentially without any actual demonstration of job creation or
+      retention. The petrochemical industry is increasingly automated; so even these
+      not-very-impressive announced job numbers may not reflect real or long-term opportunities.
+      At a minimum, Louisiana could strike a better deal for itself in terms of requiring
+      demonstrable benefits in terms of training and access in exchange for this large
+      annual outlay. What role do the trade unions themselves play in people of color
+      being underrepresented in high-paying jobs in the petrochemical industry? I mean,
+      they must be aware of these racial disparities, so are they also not responsible
+      for allowing this unfair state of affairs to continue? Trade unions are painfully
+      aware of the divide-and-conquer tactics that employers use. The former Oil, Chemical,
+      and Atomic Workers (OCAW) union, which eventually merged into the paper workers
+      union and subsequently into the United Steel Workers, had a decent foothold in
+      the Baton Rouge petrochemical industry. OCAW was the first union to put worker
+      and community health, safety, and protection from pollution at the forefront of
+      labor campaigns. OCAW, especially under the leadership of Tony Mazzocchi, always
+      pushed hard for racial equity because they recognized that the working class was
+      ultimately in it together. Indeed, the term “Cancer Alley” itself originated from
+      a billboard that OCAW put up when cooperating with environmental groups in the
+      1980s. Employers, on the other hand, are effective practitioners of divide-and-conquer
+      and also operate with the knowledge that African Americans are, on average, more
+      favorably disposed toward unions. What are the remedies for institutional racism
+      in the petrochemical industry? A much closer and more detailed look is possible
+      for the Equal Employment Opportunity Commission, the EEOC. We used the best publicly
+      available EEOC data for our study. The EEOC can take a deeper dive and examine
+      exactly which companies are hiring into which occupations. With mandated environmental
+      reporting, such as the Environmental Protection Agency Toxics Release Inventory,
+      the public has the right to know what chemicals companies are releasing into the
+      environment. With additional modeling, we can learn, for example, that around
+      80 percent of the potential chronic human health risk from the ExxonMobil facilities
+      in Baton Rouge fall on people of color and nearly 30 percent on poor households
+      — both of these are far out of line with the national and Louisiana shares of
+      the population. But we do not know what ExxonMobil’s allocation of jobs, and especially
+      of good jobs, is from the facilities. When I say, “we do not know,” I mean the
+      general public; the EEOC collects this data from the ExxonMobil facilities. In
+      the short run, there is nothing stopping companies from releasing their own EEOC
+      reporting on how many and which jobs are represented, and which workers, in terms
+      of sex and race or ethnicity, hold these jobs. In the longer run, we should have
+      employment and job-quality transparency so that we can assess employment justice
+      for industries as effectively as we can assess environmental justice. The tools
+      for environmental justice assessment were the product of a long, determined campaign
+      for transparency and the right to know. At the very least, we should have that
+      kind of transparency for employment opportunities. Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . C.J. Polychroniou
+      C.J. Polychroniou is a political economist/political scientist who has taught
+      and worked in numerous universities and research centers in Europe and the United
+      States. His latest books are The Precipice: Neoliberalism, the Pandemic and the
+      Urgent Need for Social Change (A collection of interviews with Noam Chomsky; Haymarket
+      Books, 2021), and Economics and the Left: Interviews with Progressive Economists
+      (Verso, 2021). Author Site Please share this story and help us grow our network!'
+    one_sentence_summary: A recent study highlights that the petrochemical industry
+      not only poses environmental and health risks to marginalized communities but
+      also exhibits significant racial disparities in its workforce, indicating systemic
+      racism within its employment practices.
+    paragraph_summary: A recent study published in Ecological Economics highlights the
+      dual impact of the petrochemical industry on marginalized communities and its
+      workforce, revealing significant racial disparities that reflect institutional
+      racism. Co-author Michael Ash from the University of Massachusetts Amherst discusses
+      how petrochemical plants, often situated on former slave plantation lands, disproportionately
+      affect Black, Brown, Indigenous, and low-income populations, exposing them to
+      severe health risks from pollution. The study underscores that these racial inequities
+      in employment practices are not isolated incidents but are prevalent across the
+      United States, further exacerbating the challenges faced by these communities.
+    published: '2025-07-10T09:20:00+00:00'
+  - title: The Texas Flash Flood Is a Preview of the Chaos to Come
+    url: https://scheerpost.com/2025/07/10/the-texas-flash-flood-is-a-preview-of-the-chaos-to-come/
+    text: 'Texas Floods Devastate Local Communities. wckitchen, CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Abrahm Lustgarten / ProPublica On July 4, the broken remnants of
+      a powerful tropical storm spun off the warm waters of the Gulf of Mexico so heavy
+      with moisture that it seemed to stagger under its load. Then, colliding with another
+      soggy system sliding north off the Pacific, the storm wobbled and its clouds tipped,
+      waterboarding south central Texas with an extraordinary 20 inches of rain. In
+      the predawn blackness, the Guadalupe River, which drains from the Hill Country,
+      rose by more than 26 vertical feet in just 45 minutes, jumping its banks and hurtling
+      downstream, killing 109 people, including at least 27 children at a summer camp
+      located inside a federally designated floodway. Over the days and weeks to come
+      there will be tireless — and warranted — analysis of who is to blame for this
+      heart-wrenching loss. Should Kerr County, where most of the deaths occurred, have
+      installed warning sirens along that stretch of the waterway, and why were children
+      allowed to sleep in an area prone to high-velocity flash flooding? Why were urgent
+      updates apparently only conveyed by cellphone and online in a rural area with
+      limited connectivity? Did the National Weather Service, enduring steep budget
+      cuts under the current administration, adequately forecast this storm? Those questions
+      are critical. But so is a far larger concern: The rapid onset of disruptive climate
+      change — driven by the burning of oil, gasoline and coal — is making disasters
+      like this one more common, more deadly and far more costly to Americans, even
+      as the federal government is running away from the policies and research that
+      might begin to address it. President Lyndon B. Johnson was briefed in 1965 that
+      a climate crisis was being caused by burning fossil fuels and was warned that
+      it would create the conditions for intensifying storms and extreme events, and
+      this country — including 10 more presidents — has debated how to respond to that
+      warning ever since. Still, it took decades for the slow-motion change to grow
+      large enough to affect people’s everyday lives and safety and for the world to
+      reach the stage it is in now: an age of climate-driven chaos, where the past is
+      no longer prologue and the specific challenges of the future might be foreseeable
+      but are less predictable. Climate change doesn’t chart a linear path where each
+      day is warmer than the last. Rather, science suggests that we’re now in an age
+      of discontinuity, with heat one day and hail the next and with more dramatic extremes.
+      Across the planet, dry places are getting drier while wet places are getting wetter.
+      The jet stream — the band of air that circulates through the Northern Hemisphere
+      — is slowing to a near stall at times, weaving off its tracks, causing unprecedented
+      events like polar vortexes drawing arctic air far south. Meanwhile the heat is
+      sucking moisture from the drought-plagued plains of Kansas only to dump it over
+      Spain, contributing to last year’s cataclysmic floods. We saw something similar
+      when Hurricane Harvey dumped as much as 60 inches of rain on parts of Texas in
+      2017 and when Hurricane Helene devastated North Carolina last year — and countless
+      times in between. We witnessed it again in Texas this past weekend. Warmer oceans
+      evaporate faster, and warmer air holds more water, transporting it in the form
+      of humidity across the atmosphere, until it can’t hold it any longer and it falls.
+      Meteorologists estimate that the atmosphere had reached its capacity for moisture
+      before the storm struck. The disaster comes during a week in which extreme heat
+      and extreme weather have battered the planet. Parts of northern Spain and southern
+      France are burning out of control, as are parts of California. In the past 72
+      hours, storms have torn the roofs off of five-story apartment buildings in Slovakia,
+      while intense rainfall has turned streets into rivers in southern Italy. Same
+      story in Lombok, Indonesia, where cars floated like buoys, and in eastern China,
+      where an inland typhoon-like storm sent furniture blowing down the streets like
+      so many sheafs of paper. Léon, Mexico, was battered by hail so thick on Monday
+      it covered the city in white. And North Carolina is, again, enduring 10 inches
+      of rainfall. There is no longer much debate that climate change is making many
+      of these events demonstrably worse. Scientists conducting a rapid analysis of
+      last week’s extreme heat wave that spread across Europe have concluded that human-caused
+      warming killed roughly 1,500 more people than might have otherwise perished. Early
+      reports suggest that the flooding in Texas, too, was substantially influenced
+      by climate change. According to a preliminary analysis by ClimaMeter, a joint
+      project of the European Union and the French National Centre for Scientific Research,
+      the weather in Texas was 7% wetter on July 4 than it was before climate change
+      warmed that part of the state, and natural variability alone cannot explain “this
+      very exceptional meteorological condition.” That the United States once again
+      is reeling from familiar but alarming headlines and body counts should not be
+      a surprise by now. According to the World Meteorological Organization, the number
+      of extreme weather disasters has jumped fivefold worldwide over the past 50 years,
+      and the number of deaths has nearly tripled. In the United States, which prefers
+      to measure its losses in dollars, the damage from major storms was more than $180
+      billion last year, nearly 10 times the average annual toll during the 1980s, after
+      accounting for inflation. These storms have now cost Americans nearly $3 trillion.
+      Meanwhile, the number of annual major disasters has grown sevenfold. Fatalities
+      in billion-dollar storms last year alone were nearly equal to the number of such
+      deaths counted by the federal government in the 20 years between 1980 and 2000.
+      The most worrisome fact, though, may be that the warming of the planet has scarcely
+      begun. Just as each step up on the Richter scale represents a massive increase
+      in the force of an earthquake, the damage caused by the next 1 or 2 degrees Celsius
+      of warming stands to be far greater than that caused by the 1.5 degrees we have
+      so far endured. The world’s leading scientists, the United Nations panel on climate
+      change and even many global energy experts warn that we face something akin to
+      our last chance before it is too late to curtail a runaway crisis. It’s one reason
+      our predictions and modeling capabilities are becoming an essential, lifesaving
+      mechanism of national defense. What is extraordinary is that at such a volatile
+      moment, President Donald Trump’s administration would choose not just to minimize
+      the climate danger — and thus the suffering of the people affected by it — but
+      to revoke funding for the very data collection and research that would help the
+      country better understand and prepare for this moment. Over the past couple of
+      months, the administration has defunded much of the operations of the National
+      Oceanic and Atmospheric Administration , the nation’s chief climate and scientific
+      agency responsible for weather forecasting, as well as the cutting-edge earth
+      systems research at places like Princeton University, which is essential to modeling
+      an aberrant future. It has canceled the nation’s seminal scientific assessment
+      of climate change and risk. The administration has defunded the Federal Emergency
+      Management Agency’s core program paying for infrastructure projects meant to prevent
+      major disasters from causing harm, and it has threatened to eliminate FEMA itself,
+      the main federal agency charged with helping Americans after a climate emergency
+      like the Texas floods. It has — as of last week — signed legislation that unravels
+      the federal programs meant to slow warming by helping the country’s industries
+      transition to cleaner energy. And it has even stopped the reporting of the cost
+      of disasters, stating that doing so is “in alignment with evolving priorities”
+      of the administration. It is as if the administration hopes that making the price
+      tag for the Kerr County flooding invisible would make the events unfolding there
+      seem less devastating. Given the abandonment of policy that might forestall more
+      severe events like the Texas floods by reducing the emissions that cause them,
+      Americans are left to the daunting task of adapting. In Texas, it is critical
+      to ask whether the protocols in place at the time of the storm were good enough.
+      This week is not the first time that children have died in a flash flood along
+      the Guadalupe River, and reports suggest county officials struggled to raise money
+      and then declined to install a warning system in 2018 in order to save approximately
+      $1 million. But the country faces a larger and more daunting challenge, because
+      this disaster — like the firestorms in Los Angeles and the hurricanes repeatedly
+      pummeling Florida and the southeast — once again raises the question of where
+      people can continue to safely live. It might be that in an era of what researchers
+      are calling “mega rain” events, a flood plain should now be off-limits. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Abrahm Lustgarten
+      Abrahm Lustgarten is a regular writer for ProPublica. ProPublica is a Pulitzer
+      Prize-winning investigative newsroom. Sign up for The Big Story newsletter to
+      receive stories like this one in your inbox. Read more from the author at the
+      link below. Author Link Please share this story and help us grow our network!'
+    one_sentence_summary: A powerful tropical storm in Texas resulted in catastrophic
+      flooding, causing the Guadalupe River to rise dramatically and leading to the
+      deaths of 109 individuals, including 27 children at a summer camp.
+    paragraph_summary: On July 4, a powerful tropical storm unleashed an unprecedented
+      20 inches of rain on south central Texas, leading to catastrophic flooding that
+      resulted in the deaths of 109 people, including 27 children at a summer camp situated
+      in a designated flood zone. The Guadalupe River rose dramatically, overwhelming
+      its banks within 45 minutes. As communities grapple with the aftermath, critical
+      questions arise regarding local preparedness, such as the lack of warning sirens
+      and the decision to allow children to camp in a flood-prone area. Additionally,
+      concerns are mounting over the National Weather Service's ability to forecast
+      such events amid budget cuts. The article emphasizes that this tragedy is part
+      of a broader trend linked to climate change, exacerbated by fossil fuel consumption,
+      which is increasing the frequency and severity of natural disasters while the
+      federal government retreats from necessary climate policies and research.
+    published: '2025-07-10T09:18:00+00:00'
+  - title: The Texas Flash Flood Is a Preview of the Chaos to Come
+    url: https://scheerpost.com/2025/07/10/the-texas-flash-flood-is-a-preview-of-the-chaos-to-come/
+    text: 'Texas Floods Devastate Local Communities. wckitchen, CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Abrahm Lustgarten / ProPublica On July 4, the broken remnants of
+      a powerful tropical storm spun off the warm waters of the Gulf of Mexico so heavy
+      with moisture that it seemed to stagger under its load. Then, colliding with another
+      soggy system sliding north off the Pacific, the storm wobbled and its clouds tipped,
+      waterboarding south central Texas with an extraordinary 20 inches of rain. In
+      the predawn blackness, the Guadalupe River, which drains from the Hill Country,
+      rose by more than 26 vertical feet in just 45 minutes, jumping its banks and hurtling
+      downstream, killing 109 people, including at least 27 children at a summer camp
+      located inside a federally designated floodway. Over the days and weeks to come
+      there will be tireless — and warranted — analysis of who is to blame for this
+      heart-wrenching loss. Should Kerr County, where most of the deaths occurred, have
+      installed warning sirens along that stretch of the waterway, and why were children
+      allowed to sleep in an area prone to high-velocity flash flooding? Why were urgent
+      updates apparently only conveyed by cellphone and online in a rural area with
+      limited connectivity? Did the National Weather Service, enduring steep budget
+      cuts under the current administration, adequately forecast this storm? Those questions
+      are critical. But so is a far larger concern: The rapid onset of disruptive climate
+      change — driven by the burning of oil, gasoline and coal — is making disasters
+      like this one more common, more deadly and far more costly to Americans, even
+      as the federal government is running away from the policies and research that
+      might begin to address it. President Lyndon B. Johnson was briefed in 1965 that
+      a climate crisis was being caused by burning fossil fuels and was warned that
+      it would create the conditions for intensifying storms and extreme events, and
+      this country — including 10 more presidents — has debated how to respond to that
+      warning ever since. Still, it took decades for the slow-motion change to grow
+      large enough to affect people’s everyday lives and safety and for the world to
+      reach the stage it is in now: an age of climate-driven chaos, where the past is
+      no longer prologue and the specific challenges of the future might be foreseeable
+      but are less predictable. Climate change doesn’t chart a linear path where each
+      day is warmer than the last. Rather, science suggests that we’re now in an age
+      of discontinuity, with heat one day and hail the next and with more dramatic extremes.
+      Across the planet, dry places are getting drier while wet places are getting wetter.
+      The jet stream — the band of air that circulates through the Northern Hemisphere
+      — is slowing to a near stall at times, weaving off its tracks, causing unprecedented
+      events like polar vortexes drawing arctic air far south. Meanwhile the heat is
+      sucking moisture from the drought-plagued plains of Kansas only to dump it over
+      Spain, contributing to last year’s cataclysmic floods. We saw something similar
+      when Hurricane Harvey dumped as much as 60 inches of rain on parts of Texas in
+      2017 and when Hurricane Helene devastated North Carolina last year — and countless
+      times in between. We witnessed it again in Texas this past weekend. Warmer oceans
+      evaporate faster, and warmer air holds more water, transporting it in the form
+      of humidity across the atmosphere, until it can’t hold it any longer and it falls.
+      Meteorologists estimate that the atmosphere had reached its capacity for moisture
+      before the storm struck. The disaster comes during a week in which extreme heat
+      and extreme weather have battered the planet. Parts of northern Spain and southern
+      France are burning out of control, as are parts of California. In the past 72
+      hours, storms have torn the roofs off of five-story apartment buildings in Slovakia,
+      while intense rainfall has turned streets into rivers in southern Italy. Same
+      story in Lombok, Indonesia, where cars floated like buoys, and in eastern China,
+      where an inland typhoon-like storm sent furniture blowing down the streets like
+      so many sheafs of paper. Léon, Mexico, was battered by hail so thick on Monday
+      it covered the city in white. And North Carolina is, again, enduring 10 inches
+      of rainfall. There is no longer much debate that climate change is making many
+      of these events demonstrably worse. Scientists conducting a rapid analysis of
+      last week’s extreme heat wave that spread across Europe have concluded that human-caused
+      warming killed roughly 1,500 more people than might have otherwise perished. Early
+      reports suggest that the flooding in Texas, too, was substantially influenced
+      by climate change. According to a preliminary analysis by ClimaMeter, a joint
+      project of the European Union and the French National Centre for Scientific Research,
+      the weather in Texas was 7% wetter on July 4 than it was before climate change
+      warmed that part of the state, and natural variability alone cannot explain “this
+      very exceptional meteorological condition.” That the United States once again
+      is reeling from familiar but alarming headlines and body counts should not be
+      a surprise by now. According to the World Meteorological Organization, the number
+      of extreme weather disasters has jumped fivefold worldwide over the past 50 years,
+      and the number of deaths has nearly tripled. In the United States, which prefers
+      to measure its losses in dollars, the damage from major storms was more than $180
+      billion last year, nearly 10 times the average annual toll during the 1980s, after
+      accounting for inflation. These storms have now cost Americans nearly $3 trillion.
+      Meanwhile, the number of annual major disasters has grown sevenfold. Fatalities
+      in billion-dollar storms last year alone were nearly equal to the number of such
+      deaths counted by the federal government in the 20 years between 1980 and 2000.
+      The most worrisome fact, though, may be that the warming of the planet has scarcely
+      begun. Just as each step up on the Richter scale represents a massive increase
+      in the force of an earthquake, the damage caused by the next 1 or 2 degrees Celsius
+      of warming stands to be far greater than that caused by the 1.5 degrees we have
+      so far endured. The world’s leading scientists, the United Nations panel on climate
+      change and even many global energy experts warn that we face something akin to
+      our last chance before it is too late to curtail a runaway crisis. It’s one reason
+      our predictions and modeling capabilities are becoming an essential, lifesaving
+      mechanism of national defense. What is extraordinary is that at such a volatile
+      moment, President Donald Trump’s administration would choose not just to minimize
+      the climate danger — and thus the suffering of the people affected by it — but
+      to revoke funding for the very data collection and research that would help the
+      country better understand and prepare for this moment. Over the past couple of
+      months, the administration has defunded much of the operations of the National
+      Oceanic and Atmospheric Administration , the nation’s chief climate and scientific
+      agency responsible for weather forecasting, as well as the cutting-edge earth
+      systems research at places like Princeton University, which is essential to modeling
+      an aberrant future. It has canceled the nation’s seminal scientific assessment
+      of climate change and risk. The administration has defunded the Federal Emergency
+      Management Agency’s core program paying for infrastructure projects meant to prevent
+      major disasters from causing harm, and it has threatened to eliminate FEMA itself,
+      the main federal agency charged with helping Americans after a climate emergency
+      like the Texas floods. It has — as of last week — signed legislation that unravels
+      the federal programs meant to slow warming by helping the country’s industries
+      transition to cleaner energy. And it has even stopped the reporting of the cost
+      of disasters, stating that doing so is “in alignment with evolving priorities”
+      of the administration. It is as if the administration hopes that making the price
+      tag for the Kerr County flooding invisible would make the events unfolding there
+      seem less devastating. Given the abandonment of policy that might forestall more
+      severe events like the Texas floods by reducing the emissions that cause them,
+      Americans are left to the daunting task of adapting. In Texas, it is critical
+      to ask whether the protocols in place at the time of the storm were good enough.
+      This week is not the first time that children have died in a flash flood along
+      the Guadalupe River, and reports suggest county officials struggled to raise money
+      and then declined to install a warning system in 2018 in order to save approximately
+      $1 million. But the country faces a larger and more daunting challenge, because
+      this disaster — like the firestorms in Los Angeles and the hurricanes repeatedly
+      pummeling Florida and the southeast — once again raises the question of where
+      people can continue to safely live. It might be that in an era of what researchers
+      are calling “mega rain” events, a flood plain should now be off-limits. Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Abrahm Lustgarten
+      Abrahm Lustgarten is a regular writer for ProPublica. ProPublica is a Pulitzer
+      Prize-winning investigative newsroom. Sign up for The Big Story newsletter to
+      receive stories like this one in your inbox. Read more from the author at the
+      link below. Author Link Please share this story and help us grow our network!'
+    one_sentence_summary: A powerful tropical storm in Texas resulted in catastrophic
+      flooding, causing the Guadalupe River to rise dramatically and leading to the
+      deaths of 109 individuals, including 27 children at a summer camp.
+    paragraph_summary: On July 4, a powerful tropical storm unleashed an unprecedented
+      20 inches of rain on south central Texas, leading to catastrophic flooding that
+      resulted in the deaths of 109 people, including 27 children at a summer camp situated
+      in a designated flood zone. The Guadalupe River rose dramatically, overwhelming
+      its banks within 45 minutes. As communities grapple with the aftermath, critical
+      questions arise regarding local preparedness, such as the lack of warning sirens
+      and the decision to allow children to camp in a flood-prone area. Additionally,
+      concerns are mounting over the National Weather Service's ability to forecast
+      such events amid budget cuts. The article emphasizes that this tragedy is part
+      of a broader trend linked to climate change, exacerbated by fossil fuel consumption,
+      which is increasing the frequency and severity of natural disasters while the
+      federal government retreats from necessary climate policies and research.
+    published: '2025-07-10T09:18:00+00:00'
+  - title: Illness and Endless Wars
+    url: https://scheerpost.com/2025/07/10/illness-and-endless-wars/
+    text: 'A child walking in front of a collapsed mosque and a water tower in Khuza’a,
+      Gaza Strip. Rocket fire from Gaza to Israel has been met with air strikes and
+      a ground offensive that have caused serious damage to homes and civilian infrastructure
+      during the Gaza hostilities. © 2014 UNRWA  Photo by Shareef Sarhan In one of the
+      scariest moments in modern history, we''re doing our best at ScheerPost to pierce
+      the fog of lies that conceal it but we need some help to pay our writers and staff.
+      Please consider a tax-deductible donation . By Andrea Mazzarino / TomDispatch
+      War kills in so many ways. These days, Americans are bombarded with images from
+      Gaza and elsewhere of people or broken bodies being ferried on stretchers from
+      the rubble of homes and hospitals, by rescue workers whose thin bodies and stricken
+      faces suggest they are barely better off than those they’re helping. Social media
+      and journalists make us eyewitnesses to emaciated children too weak to cry. And
+      yet, compared with air raids that crush and bloody instantaneously, a slower disaster,
+      more difficult to capture (especially given our made-for-TikTok attention spans),
+      consists of the hours that many people in war zones spend wasting away from infectious
+      diseases of one sort or another. Let me count a few of the ways. In Iraq in 2004,
+      three-month-old Ali tries to cry but he’s too weak to make a sound, since his
+      body has been ravaged by diarrhea. Between 2003 and 2007 , half of Iraq’s 18,000
+      doctors left the country due to the deteriorating security situation (with few
+      intending to return). Health facilities had also been bombed out and destroyed.
+      By then, about two-thirds of the deaths of children under the age of five, like
+      Ali, were due to respiratory infections and diarrhea compounded by malnutrition.
+      In Pakistan in 2017, one of a handful of countries that has yet to eliminate the
+      polio virus, the father of a five-year-old boy is inconsolable when he learns
+      that his son will never walk on his own again. Among displaced people in the Afghan-Pakistani
+      border region where they lived, concerns about counterinsurgency air raids from
+      U.S. and later Pakistani government and opposition forces, security threats toward
+      vaccination teams in conflict-torn parts of that country, and suspicions among
+      parents like that boy’s father that health workers had been sent by the U.S. government
+      to sterilize Pakistani children, all prevented kids from getting the immunizations
+      that they needed. In Burkina Faso in 2019, three-year-old Abdoulaye dies after
+      contracting malaria while in a shelter for people internally displaced by violence
+      between government forces and Islamic militias. Malnourished and anemic, without
+      direct access to a health clinic, he succumbs to a treatable illness. In Fayetteville,
+      North Carolina, in 2020, as in other military towns across the U.S., rates of
+      sexually transmitted infections like syphilis, herpes simplex, and HIV are among
+      the highest in the country. Bases tend to drive up poverty among civilians by
+      making the surrounding populations dependent on low-wage service work. And stressed-out,
+      war-traumatized American soldiers are more likely to engage in risky sexual behavior
+      that spreads disease among the broader population. In Ukraine in 2023, a soldier
+      treated for severe burns dies of sepsis, despite being given multiple antibiotics.
+      Doctors found klebsiella, a multi-drug-resistant pathogen, in his body. Despite
+      successful efforts by the Ukrainian government to curb antimicrobial resistance
+      in its population prior to Russia’s 2022 invasion, mounting casualties, along
+      with shortages of supplies and personnel, mean that Ukrainian health workers now
+      try to do whatever they can to keep soldiers alive. In the long term, antibiotic-resistant
+      infections traceable to Ukrainian patients are already beginning to appear in
+      places as distant as Japan . In May 2025 in the Gaza strip, four-month-old Jenan
+      dies from chronic diarrhea after losing half her bodyweight. She needed hypoallergenic
+      milk formula, but aerial bombardments and blockades of basic food and medical
+      supplies have made that once common product scarce. As anthropologist Sophia Stamatopoulou-Robbins
+      points out, prior to the start of the war between Israel and Hamas in October
+      2023, cases of diarrhea in young children there averaged about 2,000 per month.
+      In April of the following year, however, such cases already numbered more than
+      100,000. Likewise, in the decade before the war, there were no large-scale epidemics
+      in Gaza. In just the first seven months of that conflict, however, overcrowding
+      in makeshift shelters, nutritional deficits, shortages of hygiene products — only
+      one in every three Gazans has soap! — and contaminated water have led to new outbreaks
+      of infectious diseases like measles, cholera, typhoid, and polio, exacerbated
+      by widespread starvation. At some level, it couldn’t be simpler. War destroys
+      all too many of the modern amenities that make life possible. Preventable illness
+      and death occur even in industrialized settings that are marked by inequality,
+      lack of information, psychological trauma, or just the chaos of combat that hinders
+      long-term thinking. In poor- and middle-income countries like Yemen, Syria, and
+      Nigeria, infectious diseases were already among the top causes of death, even
+      before the outbreak of significant conflicts. Their incidence, however, grew so
+      much worse in wartime, especially among civilians who didn’t have the same access
+      to doctors and medical hospitals as armed groups. The body of a single child,
+      wasting away from the lack of the basic fluid that runs in my sink or yours, best
+      captures the way war casualties ripple across time and populations. For every
+      soldier who dies in battle, exponentially more people suffer deaths from malnutrition,
+      disease, or trauma-related violence even after battles end. Preventable infections
+      play a large role in this story. The War on Children Children are particularly
+      vulnerable to sickness and death in armed conflicts because of their immature
+      immune systems, greater nutritional needs, tendency to succumb more easily to
+      dehydration, and reliance on families who may not even be around to care for them.
+      A study of more than 15,000 armed-conflict events in 35 African countries found
+      that children aged 10 or younger were far more likely to die if they lived within
+      100 kilometers of a battle zone than they would have in earlier periods of peacetime.
+      Increases in mortality ranged from 3% to about 27%, varying with how many people
+      also died in nearby battles. Strikingly, many more babies under the age of one
+      died annually in the eight years following a conflict’s end than while the battles
+      were going on — infectious disease being a primary killer. Take Yemen as an example
+      of how war may affect young children and their families over time. Since the start
+      of that country’s civil war in 2015, cholera, a waterborne illness doctors have
+      known how to prevent since 1954, has ravaged the most vulnerable members of that
+      country’s population, particularly children, due to a lack of appropriate sanitation
+      or reasonable access to healthcare. As of December 2017, more than a million people
+      had contracted the disease, nearly half of them children, and more than 2,000
+      had died of the illness. Compare that to the more than 10,000 Yemenis estimated
+      to have died in direct combat by that time, and you get an idea of how significantly
+      death by illness counts among the casualties of war. Nearly a decade later, in
+      fact, there are hundreds of thousands of new cases of that illness in Yemen each
+      year and hundreds of annual deaths, making up more than a third of all cases globally.
+      When Rami discovered that his daughters, aged 10 and 7, had cholera, he managed
+      to scrape together the equivalent of about $15 to travel to a clinic so that the
+      family could get lifesaving fluids and information to prevent further cases. Many
+      families like his, however, can’t afford such treatment, forcing all too many
+      of them to delay care or even experience the unthinkable: losing a child. Consider
+      what it would do if someone you loved perished because they were born in the wrong
+      place at the wrong time in the storm of war that destroys infrastructure so central
+      to our lives that normally we barely even notice its presence. I hope it’s an
+      experience that neither you nor I ever have. War and Displacement Still, I think
+      about such things every day, as I bet do many of my colleagues connected to the
+      Costs of War Project . When we first launched that project in 2011, Professors
+      Catherine Lutz, Neta Crawford, and I met with experts in armed conflict to discuss
+      how we would cover the issue of war’s health impacts. Repeatedly, they reminded
+      us of how hard it is to talk about war and health without understanding what it’s
+      like for families to be forced to leave their homes in search of safety. Unsurprisingly,
+      refugees and internally displaced people (IDPs) are uniquely vulnerable to disease
+      and illness. Anyone who has gotten sick while traveling knows that the challenges
+      of getting care are compounded by a lack of knowledge of the community you find
+      yourself in. In the case of today’s more than 122 million war refugees or displaced
+      people, stigma and harassment are frequent travel companions. According to one
+      meta-analysis, more than one-fifth of refugee and IDP women have experienced some
+      form of sexual violence while living in displacement settings. A study of more
+      than 500 immigrants and refugees in Italy found that nearly half experienced physical
+      violence, sexual abuse, harassment, or workplace discrimination. The stories that
+      extremist politicians tell about migrants — think of Donald Trump’s tall tale
+      of supposedly dog- and cat-eating Haitians in Springfield, Ohio — distract us
+      from the social problems such politicians seem unwilling to deal with like loneliness
+      and poverty. Displaced persons lack political clout and voting power in places
+      that host them and, in actual war zones, fighters rarely respect shelters and
+      camps designated for their survival. For people who flee their homes, the basic
+      boring stuff is lacking, too. Only 35% of refugees have clean drinking water where
+      they live, while less than a fifth of them have access to toilets . Imagine how
+      that would affect all of the higher-order things you value in your life, including
+      gatherings with people you care about, if you couldn’t even find a decent place
+      to wash your hands or brush your teeth! Most of all, what stands out to me as
+      both a social worker and a scholar of war is how people forced to leave their
+      communities end up losing connections to health providers they trust. I can’t
+      tell you how many individuals I’ve met in clinical and humanitarian settings who
+      had declined to seek care for Covid-19, pneumonia, severe flu symptoms, and other
+      illnesses because they lacked confidence that professionals in their host communities
+      had their best interests at heart. My Government’s Assault on Public Health As
+      Republicans in Congress struggle to pass a bill that would deprive millions of
+      Americans of health insurance in the near term, as high-level officials spread
+      disinformation about vaccines for once-eradicated illnesses like measles, and
+      as public health workers and officials face threats of violence, all too many
+      poor Americans are starting to experience the sorts of obstacles to healthcare
+      common in war zones. Meanwhile, with the Trump administration’s decisions earlier
+      this year to fire at least 2,000 U.S. Agency for International Development workers
+      and freeze foreign aid dollars used (in part) to treat and monitor infectious
+      diseases elsewhere on this planet, the threat that a foreign pandemic might make
+      it to this country has grown considerably. To quote Senator Joni Ernst (R-Iowa)
+      at a recent town hall with constituents worried about losing healthcare, “we are
+      all going to die.” While that is indeed so, it also matters how. A long life with
+      access to basic services like immunizations and clean water is one of the differences
+      between dying like a human being and dying like one of the wild animals I find
+      in my rural area, infected by bacteria in the water or exhausted from heat exposure.
+      How, I wonder, did we Americans reach a place where many of us are silent or supportive
+      of a strongman’s $45 million birthday military parade that closed roads to residents
+      and commuters for days? How did we get to a time when our leaders seem loath to
+      invest in healthcare and don’t even hide their disdain for poor people, a significant
+      number of whom are military personnel and veterans? I’m not sure I know what this
+      country stands for anymore. I don’t know about you, but these days America sometimes
+      feels to me like a treacherous foreign land. Editor’s Note : A t a moment when
+      the once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Andrea Mazzarino Andrea
+      Mazzarino , a TomDispatch regular , co-founded Brown University’s Costs of War
+      Project . She has held various clinical, research, and advocacy positions, including
+      at a Veterans Affairs PTSD Outpatient Clinic, with Human Rights Watch, and at
+      a community mental health agency. She is the co-editor of War and Health: The
+      Medical Consequences of the Wars in Iraq and Afghanistan . Author Site Please
+      share this story and help us grow our network!'
+    one_sentence_summary: The article highlights the devastating impact of the ongoing
+      conflict in Gaza, where rocket fire and military responses have led to significant
+      destruction of civilian infrastructure and suffering among the population, particularly
+      children.
+    paragraph_summary: The article discusses the devastating impact of war on civilian
+      populations, particularly focusing on the ongoing conflict in Gaza and its repercussions
+      on health and infrastructure. It highlights the harrowing images of suffering,
+      such as children being rescued from rubble, but also emphasizes the slower, insidious
+      toll of war-related diseases that often go unnoticed. The authors, Andrea Mazzarino
+      and TomDispatch, illustrate this through historical examples, such as the plight
+      of children in Iraq suffering from malnutrition and preventable diseases due to
+      the collapse of healthcare systems amid conflict. They call for awareness and
+      support to address these humanitarian crises, underscoring the multifaceted nature
+      of war's destruction beyond immediate violence.
+    published: '2025-07-10T09:15:00+00:00'
+  - title: Illness and Endless Wars
+    url: https://scheerpost.com/2025/07/10/illness-and-endless-wars/
+    text: 'A child walking in front of a collapsed mosque and a water tower in Khuza’a,
+      Gaza Strip. Rocket fire from Gaza to Israel has been met with air strikes and
+      a ground offensive that have caused serious damage to homes and civilian infrastructure
+      during the Gaza hostilities. © 2014 UNRWA  Photo by Shareef Sarhan In one of the
+      scariest moments in modern history, we''re doing our best at ScheerPost to pierce
+      the fog of lies that conceal it but we need some help to pay our writers and staff.
+      Please consider a tax-deductible donation . By Andrea Mazzarino / TomDispatch
+      War kills in so many ways. These days, Americans are bombarded with images from
+      Gaza and elsewhere of people or broken bodies being ferried on stretchers from
+      the rubble of homes and hospitals, by rescue workers whose thin bodies and stricken
+      faces suggest they are barely better off than those they’re helping. Social media
+      and journalists make us eyewitnesses to emaciated children too weak to cry. And
+      yet, compared with air raids that crush and bloody instantaneously, a slower disaster,
+      more difficult to capture (especially given our made-for-TikTok attention spans),
+      consists of the hours that many people in war zones spend wasting away from infectious
+      diseases of one sort or another. Let me count a few of the ways. In Iraq in 2004,
+      three-month-old Ali tries to cry but he’s too weak to make a sound, since his
+      body has been ravaged by diarrhea. Between 2003 and 2007 , half of Iraq’s 18,000
+      doctors left the country due to the deteriorating security situation (with few
+      intending to return). Health facilities had also been bombed out and destroyed.
+      By then, about two-thirds of the deaths of children under the age of five, like
+      Ali, were due to respiratory infections and diarrhea compounded by malnutrition.
+      In Pakistan in 2017, one of a handful of countries that has yet to eliminate the
+      polio virus, the father of a five-year-old boy is inconsolable when he learns
+      that his son will never walk on his own again. Among displaced people in the Afghan-Pakistani
+      border region where they lived, concerns about counterinsurgency air raids from
+      U.S. and later Pakistani government and opposition forces, security threats toward
+      vaccination teams in conflict-torn parts of that country, and suspicions among
+      parents like that boy’s father that health workers had been sent by the U.S. government
+      to sterilize Pakistani children, all prevented kids from getting the immunizations
+      that they needed. In Burkina Faso in 2019, three-year-old Abdoulaye dies after
+      contracting malaria while in a shelter for people internally displaced by violence
+      between government forces and Islamic militias. Malnourished and anemic, without
+      direct access to a health clinic, he succumbs to a treatable illness. In Fayetteville,
+      North Carolina, in 2020, as in other military towns across the U.S., rates of
+      sexually transmitted infections like syphilis, herpes simplex, and HIV are among
+      the highest in the country. Bases tend to drive up poverty among civilians by
+      making the surrounding populations dependent on low-wage service work. And stressed-out,
+      war-traumatized American soldiers are more likely to engage in risky sexual behavior
+      that spreads disease among the broader population. In Ukraine in 2023, a soldier
+      treated for severe burns dies of sepsis, despite being given multiple antibiotics.
+      Doctors found klebsiella, a multi-drug-resistant pathogen, in his body. Despite
+      successful efforts by the Ukrainian government to curb antimicrobial resistance
+      in its population prior to Russia’s 2022 invasion, mounting casualties, along
+      with shortages of supplies and personnel, mean that Ukrainian health workers now
+      try to do whatever they can to keep soldiers alive. In the long term, antibiotic-resistant
+      infections traceable to Ukrainian patients are already beginning to appear in
+      places as distant as Japan . In May 2025 in the Gaza strip, four-month-old Jenan
+      dies from chronic diarrhea after losing half her bodyweight. She needed hypoallergenic
+      milk formula, but aerial bombardments and blockades of basic food and medical
+      supplies have made that once common product scarce. As anthropologist Sophia Stamatopoulou-Robbins
+      points out, prior to the start of the war between Israel and Hamas in October
+      2023, cases of diarrhea in young children there averaged about 2,000 per month.
+      In April of the following year, however, such cases already numbered more than
+      100,000. Likewise, in the decade before the war, there were no large-scale epidemics
+      in Gaza. In just the first seven months of that conflict, however, overcrowding
+      in makeshift shelters, nutritional deficits, shortages of hygiene products — only
+      one in every three Gazans has soap! — and contaminated water have led to new outbreaks
+      of infectious diseases like measles, cholera, typhoid, and polio, exacerbated
+      by widespread starvation. At some level, it couldn’t be simpler. War destroys
+      all too many of the modern amenities that make life possible. Preventable illness
+      and death occur even in industrialized settings that are marked by inequality,
+      lack of information, psychological trauma, or just the chaos of combat that hinders
+      long-term thinking. In poor- and middle-income countries like Yemen, Syria, and
+      Nigeria, infectious diseases were already among the top causes of death, even
+      before the outbreak of significant conflicts. Their incidence, however, grew so
+      much worse in wartime, especially among civilians who didn’t have the same access
+      to doctors and medical hospitals as armed groups. The body of a single child,
+      wasting away from the lack of the basic fluid that runs in my sink or yours, best
+      captures the way war casualties ripple across time and populations. For every
+      soldier who dies in battle, exponentially more people suffer deaths from malnutrition,
+      disease, or trauma-related violence even after battles end. Preventable infections
+      play a large role in this story. The War on Children Children are particularly
+      vulnerable to sickness and death in armed conflicts because of their immature
+      immune systems, greater nutritional needs, tendency to succumb more easily to
+      dehydration, and reliance on families who may not even be around to care for them.
+      A study of more than 15,000 armed-conflict events in 35 African countries found
+      that children aged 10 or younger were far more likely to die if they lived within
+      100 kilometers of a battle zone than they would have in earlier periods of peacetime.
+      Increases in mortality ranged from 3% to about 27%, varying with how many people
+      also died in nearby battles. Strikingly, many more babies under the age of one
+      died annually in the eight years following a conflict’s end than while the battles
+      were going on — infectious disease being a primary killer. Take Yemen as an example
+      of how war may affect young children and their families over time. Since the start
+      of that country’s civil war in 2015, cholera, a waterborne illness doctors have
+      known how to prevent since 1954, has ravaged the most vulnerable members of that
+      country’s population, particularly children, due to a lack of appropriate sanitation
+      or reasonable access to healthcare. As of December 2017, more than a million people
+      had contracted the disease, nearly half of them children, and more than 2,000
+      had died of the illness. Compare that to the more than 10,000 Yemenis estimated
+      to have died in direct combat by that time, and you get an idea of how significantly
+      death by illness counts among the casualties of war. Nearly a decade later, in
+      fact, there are hundreds of thousands of new cases of that illness in Yemen each
+      year and hundreds of annual deaths, making up more than a third of all cases globally.
+      When Rami discovered that his daughters, aged 10 and 7, had cholera, he managed
+      to scrape together the equivalent of about $15 to travel to a clinic so that the
+      family could get lifesaving fluids and information to prevent further cases. Many
+      families like his, however, can’t afford such treatment, forcing all too many
+      of them to delay care or even experience the unthinkable: losing a child. Consider
+      what it would do if someone you loved perished because they were born in the wrong
+      place at the wrong time in the storm of war that destroys infrastructure so central
+      to our lives that normally we barely even notice its presence. I hope it’s an
+      experience that neither you nor I ever have. War and Displacement Still, I think
+      about such things every day, as I bet do many of my colleagues connected to the
+      Costs of War Project . When we first launched that project in 2011, Professors
+      Catherine Lutz, Neta Crawford, and I met with experts in armed conflict to discuss
+      how we would cover the issue of war’s health impacts. Repeatedly, they reminded
+      us of how hard it is to talk about war and health without understanding what it’s
+      like for families to be forced to leave their homes in search of safety. Unsurprisingly,
+      refugees and internally displaced people (IDPs) are uniquely vulnerable to disease
+      and illness. Anyone who has gotten sick while traveling knows that the challenges
+      of getting care are compounded by a lack of knowledge of the community you find
+      yourself in. In the case of today’s more than 122 million war refugees or displaced
+      people, stigma and harassment are frequent travel companions. According to one
+      meta-analysis, more than one-fifth of refugee and IDP women have experienced some
+      form of sexual violence while living in displacement settings. A study of more
+      than 500 immigrants and refugees in Italy found that nearly half experienced physical
+      violence, sexual abuse, harassment, or workplace discrimination. The stories that
+      extremist politicians tell about migrants — think of Donald Trump’s tall tale
+      of supposedly dog- and cat-eating Haitians in Springfield, Ohio — distract us
+      from the social problems such politicians seem unwilling to deal with like loneliness
+      and poverty. Displaced persons lack political clout and voting power in places
+      that host them and, in actual war zones, fighters rarely respect shelters and
+      camps designated for their survival. For people who flee their homes, the basic
+      boring stuff is lacking, too. Only 35% of refugees have clean drinking water where
+      they live, while less than a fifth of them have access to toilets . Imagine how
+      that would affect all of the higher-order things you value in your life, including
+      gatherings with people you care about, if you couldn’t even find a decent place
+      to wash your hands or brush your teeth! Most of all, what stands out to me as
+      both a social worker and a scholar of war is how people forced to leave their
+      communities end up losing connections to health providers they trust. I can’t
+      tell you how many individuals I’ve met in clinical and humanitarian settings who
+      had declined to seek care for Covid-19, pneumonia, severe flu symptoms, and other
+      illnesses because they lacked confidence that professionals in their host communities
+      had their best interests at heart. My Government’s Assault on Public Health As
+      Republicans in Congress struggle to pass a bill that would deprive millions of
+      Americans of health insurance in the near term, as high-level officials spread
+      disinformation about vaccines for once-eradicated illnesses like measles, and
+      as public health workers and officials face threats of violence, all too many
+      poor Americans are starting to experience the sorts of obstacles to healthcare
+      common in war zones. Meanwhile, with the Trump administration’s decisions earlier
+      this year to fire at least 2,000 U.S. Agency for International Development workers
+      and freeze foreign aid dollars used (in part) to treat and monitor infectious
+      diseases elsewhere on this planet, the threat that a foreign pandemic might make
+      it to this country has grown considerably. To quote Senator Joni Ernst (R-Iowa)
+      at a recent town hall with constituents worried about losing healthcare, “we are
+      all going to die.” While that is indeed so, it also matters how. A long life with
+      access to basic services like immunizations and clean water is one of the differences
+      between dying like a human being and dying like one of the wild animals I find
+      in my rural area, infected by bacteria in the water or exhausted from heat exposure.
+      How, I wonder, did we Americans reach a place where many of us are silent or supportive
+      of a strongman’s $45 million birthday military parade that closed roads to residents
+      and commuters for days? How did we get to a time when our leaders seem loath to
+      invest in healthcare and don’t even hide their disdain for poor people, a significant
+      number of whom are military personnel and veterans? I’m not sure I know what this
+      country stands for anymore. I don’t know about you, but these days America sometimes
+      feels to me like a treacherous foreign land. Editor’s Note : A t a moment when
+      the once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Andrea Mazzarino Andrea
+      Mazzarino , a TomDispatch regular , co-founded Brown University’s Costs of War
+      Project . She has held various clinical, research, and advocacy positions, including
+      at a Veterans Affairs PTSD Outpatient Clinic, with Human Rights Watch, and at
+      a community mental health agency. She is the co-editor of War and Health: The
+      Medical Consequences of the Wars in Iraq and Afghanistan . Author Site Please
+      share this story and help us grow our network!'
+    one_sentence_summary: The article highlights the devastating impact of the ongoing
+      conflict in Gaza, where rocket fire and military responses have led to significant
+      destruction of civilian infrastructure and suffering among the population, particularly
+      children.
+    paragraph_summary: The article discusses the devastating impact of war on civilian
+      populations, particularly focusing on the ongoing conflict in Gaza and its repercussions
+      on health and infrastructure. It highlights the harrowing images of suffering,
+      such as children being rescued from rubble, but also emphasizes the slower, insidious
+      toll of war-related diseases that often go unnoticed. The authors, Andrea Mazzarino
+      and TomDispatch, illustrate this through historical examples, such as the plight
+      of children in Iraq suffering from malnutrition and preventable diseases due to
+      the collapse of healthcare systems amid conflict. They call for awareness and
+      support to address these humanitarian crises, underscoring the multifaceted nature
+      of war's destruction beyond immediate violence.
+    published: '2025-07-10T09:15:00+00:00'
+  - title: 'Chris Hedges: The Persecution of Francesca Albanese'
+    url: https://scheerpost.com/2025/07/10/chris-hedges-the-persecution-of-francesca-albanese/
+    text: 'Francesca Albanese. Esquerda.net, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Chris Hedges / Original to ScheerPost When the history of the genocide
+      in Gaza is written, one of the most courageous and outspoken champions for justice
+      and the adherence to international law will be Francesca Albanese, the United
+      Nations Special Rapporteur, who today the Trump administration is sanctioning.
+      Her office is tasked with monitoring and reporting on human rights violations
+      that Israel commits against Palestinians. Albanese, who regularly receives death
+      threats and endures well-orchestrated smear campaigns directed by Israel and its
+      allies, valiantly seeks to hold those who support and sustain the genocide accountable.
+      She lambasts what she calls “the moral and political corruption of the world”
+      that allows the genocide to continue. Her office has issued detailed reports documenting
+      war crimes in Gaza and the West Bank, one of which, called “ Genocide as colonial
+      erasure ,” I have reprinted as an appendix in my latest book, “ A Genocide Foretold
+      .” She has informed private organizations that they are “criminally liable” for
+      assisting Israel in carrying out the genocide in Gaza. She announced that if true,
+      as has been reported, that the former British prime minister David Cameron threatened
+      to defund and withdraw from the International Criminal Court (ICC) after it issued
+      arrest warrants for Israeli Prime Minister Benjamin Netanyahu and former defense
+      minister Yoav Gallant, which Cameron and the other former British prime minister
+      Rishi Sunak could be charged with a criminal offense for, under the Rome Statue.
+      The Rome Statue criminalizes those who seek to prevent war crimes from being prosecuted.
+      She has called on top European Union (EU) officials to face charges of complicity
+      of war crimes over their support for the genocide, saying that their actions cannot
+      be met with impunity. She was a champion of the Madleen flotilla that sought to
+      break the blockade of Gaza and deliver humanitarian aid, writing that the boat
+      which was intercepted by Israel, was carrying not only supplies, but a message
+      of humanity. You can see the interview I did with Albanese here . Her latest report
+      lists 48 corporations and institutions, including Palantir Technologies Inc.,
+      Lockheed Martin, Alphabet Inc. (Google), Amazon, International Business Machine
+      Corporation (IBM), Caterpillar Inc., Microsoft Corporation and Massachusetts Institute
+      of Technology (MIT), along with banks and financial firms such as BlackRock, insurers,
+      real estate firms and charities, which in violation of international law, are
+      making billions from the occupation and the genocide of Palestinians. You can
+      read my article on Albanese’s most recent report here . Secretary of State Marco
+      Rubio condemned her support for the ICC, four of whose judges have been sanctioned
+      by the U.S. for issuing arrest warrants for Netanyahu and Gallant last year. He
+      criticized Albanese for her efforts to prosecute American or Israeli nationals
+      who sustain the genocide, saying she is unfit for service as a special rapporteur.
+      Rubio also accused Albanese of having “spewed unabashed antisemitism, expressed
+      support for terrorism, and open contempt for the United States, Israel, and the
+      West.” The sanctions will most likely prevent Albanese from travelling to the
+      U.S. and will freeze any assets she may have in the country. The attack against
+      Albanese presages a world without rules, one where rogue states, such as the U.S.
+      and Israel, are permitted to carry out war crimes and genocide without any accountability
+      or restraint. It exposes the subterfuges we use to fool ourselves and attempt
+      to fool others. It reveals our hypocrisy, cruelty and racism. No one, from now
+      on, will take seriously our stated commitments to democracy, freedom of expression,
+      the rule of law or human rights. And who can blame them? We speak exclusively
+      in the language of force, the language of brutes, the language of mass slaughter,
+      the language of genocide. “The acts of killing, the mass killing, the infliction
+      of psychological and physical torture, the devastation, the creation of conditions
+      of life that would not allow the people in Gaza to live, from the destruction
+      of hospitals, the mass forced displacement and the mass homelessness, while people
+      were being bombed daily, and the starvation — how can we read these acts in isolation?”
+      Albanese asked in an interview I did with her when we discussed her report, “Genocide
+      as colonial erasure.” The militarized drones, helicopter gunships, walls and barriers,
+      checkpoints, coils of concertina wire, watchtowers, detention centers, deportations,
+      brutality and torture, denial of entry visas, apartheidesque existence that comes
+      with being undocumented, loss of individual rights and electronic surveillance,
+      are as familiar to desperate migrants along the Mexican border, or attempting
+      to enter Europe, as they are to Palestinians. This is what awaits those who Frantz
+      Fanon calls “the wretched of the earth.” Those that defend the oppressed, such
+      as Albanese, will be treated like the oppressed. NOTE TO SCHEERPOST READERS FROM
+      CHRIS HEDGES: There is now no way left for me to continue to write a weekly column
+      for ScheerPost and produce my weekly television show without your help. The walls
+      are closing in, with startling rapidity, on independent journalism , with the
+      elites, including the Democratic Party elites, clamoring for more and more censorship.
+      Bob Scheer, who runs ScheerPost on a shoestring budget, and I will not waver in
+      our commitment to independent and honest journalism, and we will never put ScheerPost
+      behind a paywall, charge a subscription for it, sell your data or accept advertising.
+      Please, if you can, sign up at chrishedges.substack.com so I can continue to post
+      my now weekly Monday column on ScheerPost and produce my weekly television show,
+      The Chris Hedges Report. Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Chris Hedges Chris Hedges is a Pulitzer Prize–winning
+      journalist who was a foreign correspondent for fifteen years for The New York
+      Times, where he served as the Middle East Bureau Chief and Balkan Bureau Chief
+      for the paper. He previously worked overseas for The Dallas Morning News , The
+      Christian Science Monitor , and NPR. He is the host of show The Chris Hedges Report.
+      He was a member of the team that won the 2002 Pulitzer Prize for Explanatory Reporting
+      for The New York Times coverage of global terrorism, and he received the 2002
+      Amnesty International Global Award for Human Rights Journalism. Hedges, who holds
+      a Master of Divinity from Harvard Divinity School, is the author of the bestsellers
+      American Fascists: The Christian Right and the War on America , Empire of Illusion:
+      The End of Literacy and the Triumph of Spectacle and was a National Book Critics
+      Circle finalist for his book War Is a Force That Gives Us Meaning . He writes
+      an online column for the website ScheerPost . He has taught at Columbia University,
+      New York University, Princeton University and the University of Toronto. Author
+      Site Please share this story and help us grow our network! ScheerPost.com is licensed
+      under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+      license. CC-BY-NC-ND only applies to ORIGINAL ScheerPost content.'
+    one_sentence_summary: Francesca Albanese, the UN Special Rapporteur on human rights
+      violations against Palestinians, is recognized for her courageous advocacy for
+      justice in Gaza, despite facing sanctions, death threats, and smear campaigns
+      from Israel and its allies.
+    paragraph_summary: Francesca Albanese, the United Nations Special Rapporteur, is
+      highlighted as a courageous advocate for justice in the face of the ongoing genocide
+      in Gaza, particularly as she faces sanctions from the Trump administration and
+      threats to her safety. Albanese's office is dedicated to monitoring human rights
+      violations by Israel against Palestinians, and she has produced detailed reports
+      documenting these war crimes, including one titled "Genocide as Colonial Erasure."
+      She criticizes the global complicity that allows such atrocities to persist and
+      has warned organizations of their potential criminal liability for supporting
+      Israel's actions. Additionally, she has raised concerns about former British Prime
+      Minister David Cameron's alleged threats to undermine the International Criminal
+      Court in response to its actions against Israeli leaders, suggesting that such
+      interference could constitute a criminal offense under international law.
+    published: '2025-07-10T09:12:00+00:00'
+  - title: 'Chris Hedges: The Persecution of Francesca Albanese'
+    url: https://scheerpost.com/2025/07/10/chris-hedges-the-persecution-of-francesca-albanese/
+    text: 'Francesca Albanese. Esquerda.net, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+      , via Wikimedia Commons In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Chris Hedges / Original to ScheerPost When the history of the genocide
+      in Gaza is written, one of the most courageous and outspoken champions for justice
+      and the adherence to international law will be Francesca Albanese, the United
+      Nations Special Rapporteur, who today the Trump administration is sanctioning.
+      Her office is tasked with monitoring and reporting on human rights violations
+      that Israel commits against Palestinians. Albanese, who regularly receives death
+      threats and endures well-orchestrated smear campaigns directed by Israel and its
+      allies, valiantly seeks to hold those who support and sustain the genocide accountable.
+      She lambasts what she calls “the moral and political corruption of the world”
+      that allows the genocide to continue. Her office has issued detailed reports documenting
+      war crimes in Gaza and the West Bank, one of which, called “ Genocide as colonial
+      erasure ,” I have reprinted as an appendix in my latest book, “ A Genocide Foretold
+      .” She has informed private organizations that they are “criminally liable” for
+      assisting Israel in carrying out the genocide in Gaza. She announced that if true,
+      as has been reported, that the former British prime minister David Cameron threatened
+      to defund and withdraw from the International Criminal Court (ICC) after it issued
+      arrest warrants for Israeli Prime Minister Benjamin Netanyahu and former defense
+      minister Yoav Gallant, which Cameron and the other former British prime minister
+      Rishi Sunak could be charged with a criminal offense for, under the Rome Statue.
+      The Rome Statue criminalizes those who seek to prevent war crimes from being prosecuted.
+      She has called on top European Union (EU) officials to face charges of complicity
+      of war crimes over their support for the genocide, saying that their actions cannot
+      be met with impunity. She was a champion of the Madleen flotilla that sought to
+      break the blockade of Gaza and deliver humanitarian aid, writing that the boat
+      which was intercepted by Israel, was carrying not only supplies, but a message
+      of humanity. You can see the interview I did with Albanese here . Her latest report
+      lists 48 corporations and institutions, including Palantir Technologies Inc.,
+      Lockheed Martin, Alphabet Inc. (Google), Amazon, International Business Machine
+      Corporation (IBM), Caterpillar Inc., Microsoft Corporation and Massachusetts Institute
+      of Technology (MIT), along with banks and financial firms such as BlackRock, insurers,
+      real estate firms and charities, which in violation of international law, are
+      making billions from the occupation and the genocide of Palestinians. You can
+      read my article on Albanese’s most recent report here . Secretary of State Marco
+      Rubio condemned her support for the ICC, four of whose judges have been sanctioned
+      by the U.S. for issuing arrest warrants for Netanyahu and Gallant last year. He
+      criticized Albanese for her efforts to prosecute American or Israeli nationals
+      who sustain the genocide, saying she is unfit for service as a special rapporteur.
+      Rubio also accused Albanese of having “spewed unabashed antisemitism, expressed
+      support for terrorism, and open contempt for the United States, Israel, and the
+      West.” The sanctions will most likely prevent Albanese from travelling to the
+      U.S. and will freeze any assets she may have in the country. The attack against
+      Albanese presages a world without rules, one where rogue states, such as the U.S.
+      and Israel, are permitted to carry out war crimes and genocide without any accountability
+      or restraint. It exposes the subterfuges we use to fool ourselves and attempt
+      to fool others. It reveals our hypocrisy, cruelty and racism. No one, from now
+      on, will take seriously our stated commitments to democracy, freedom of expression,
+      the rule of law or human rights. And who can blame them? We speak exclusively
+      in the language of force, the language of brutes, the language of mass slaughter,
+      the language of genocide. “The acts of killing, the mass killing, the infliction
+      of psychological and physical torture, the devastation, the creation of conditions
+      of life that would not allow the people in Gaza to live, from the destruction
+      of hospitals, the mass forced displacement and the mass homelessness, while people
+      were being bombed daily, and the starvation — how can we read these acts in isolation?”
+      Albanese asked in an interview I did with her when we discussed her report, “Genocide
+      as colonial erasure.” The militarized drones, helicopter gunships, walls and barriers,
+      checkpoints, coils of concertina wire, watchtowers, detention centers, deportations,
+      brutality and torture, denial of entry visas, apartheidesque existence that comes
+      with being undocumented, loss of individual rights and electronic surveillance,
+      are as familiar to desperate migrants along the Mexican border, or attempting
+      to enter Europe, as they are to Palestinians. This is what awaits those who Frantz
+      Fanon calls “the wretched of the earth.” Those that defend the oppressed, such
+      as Albanese, will be treated like the oppressed. NOTE TO SCHEERPOST READERS FROM
+      CHRIS HEDGES: There is now no way left for me to continue to write a weekly column
+      for ScheerPost and produce my weekly television show without your help. The walls
+      are closing in, with startling rapidity, on independent journalism , with the
+      elites, including the Democratic Party elites, clamoring for more and more censorship.
+      Bob Scheer, who runs ScheerPost on a shoestring budget, and I will not waver in
+      our commitment to independent and honest journalism, and we will never put ScheerPost
+      behind a paywall, charge a subscription for it, sell your data or accept advertising.
+      Please, if you can, sign up at chrishedges.substack.com so I can continue to post
+      my now weekly Monday column on ScheerPost and produce my weekly television show,
+      The Chris Hedges Report. Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Chris Hedges Chris Hedges is a Pulitzer Prize–winning
+      journalist who was a foreign correspondent for fifteen years for The New York
+      Times, where he served as the Middle East Bureau Chief and Balkan Bureau Chief
+      for the paper. He previously worked overseas for The Dallas Morning News , The
+      Christian Science Monitor , and NPR. He is the host of show The Chris Hedges Report.
+      He was a member of the team that won the 2002 Pulitzer Prize for Explanatory Reporting
+      for The New York Times coverage of global terrorism, and he received the 2002
+      Amnesty International Global Award for Human Rights Journalism. Hedges, who holds
+      a Master of Divinity from Harvard Divinity School, is the author of the bestsellers
+      American Fascists: The Christian Right and the War on America , Empire of Illusion:
+      The End of Literacy and the Triumph of Spectacle and was a National Book Critics
+      Circle finalist for his book War Is a Force That Gives Us Meaning . He writes
+      an online column for the website ScheerPost . He has taught at Columbia University,
+      New York University, Princeton University and the University of Toronto. Author
+      Site Please share this story and help us grow our network! ScheerPost.com is licensed
+      under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+      license. CC-BY-NC-ND only applies to ORIGINAL ScheerPost content.'
+    one_sentence_summary: Francesca Albanese, the UN Special Rapporteur on human rights
+      violations against Palestinians, is recognized for her courageous advocacy for
+      justice in Gaza, despite facing sanctions, death threats, and smear campaigns
+      from Israel and its allies.
+    paragraph_summary: Francesca Albanese, the United Nations Special Rapporteur, is
+      highlighted as a courageous advocate for justice in the face of the ongoing genocide
+      in Gaza, particularly as she faces sanctions from the Trump administration and
+      threats to her safety. Albanese's office is dedicated to monitoring human rights
+      violations by Israel against Palestinians, and she has produced detailed reports
+      documenting these war crimes, including one titled "Genocide as Colonial Erasure."
+      She criticizes the global complicity that allows such atrocities to persist and
+      has warned organizations of their potential criminal liability for supporting
+      Israel's actions. Additionally, she has raised concerns about former British Prime
+      Minister David Cameron's alleged threats to undermine the International Criminal
+      Court in response to its actions against Israeli leaders, suggesting that such
+      interference could constitute a criminal offense under international law.
+    published: '2025-07-10T09:12:00+00:00'
+  - title: Massive Expansion of Trump’s Deportation Machine Passes With Little Press
+      Notice
+    url: https://scheerpost.com/2025/07/10/massive-expansion-of-trumps-deportation-machine-passes-with-little-press-notice/
+    text: 'Department of Homeland Security (DHS) Secretary Kristi Noem participates
+      in U.S. Immigration and Customs Enforcement (ICE) Enforcement and Removal Operations
+      (ERO) in Los Angeles, California, June 12, 2025. (DHS photo by Tia Dufour) In
+      one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Belén Fernández / Fairness
+      and Accuracy In Reporting (FAIR) And so it has come to pass: US President Donald
+      Trump’s “big, beautiful bill” has set the stage for tax cuts for the rich, slashed
+      services for the poor, and a host of other things that qualify as “beautiful”
+      in the present dystopia. Some cuts, like those to Medicaid, have been heavily
+      covered by the corporate media. But one key piece of the bill has gotten much
+      less media scrutiny: The preposterous sum of $175 billion has been allocated to
+      fund Trump’s signature mass deportation campaign, which, as a Salon article (
+      7/3/25 ) points out, exceeds the military budget for every single country in the
+      world aside from the US and China. Approximately $30 billion of that is destined
+      directly for US Immigration and Customs Enforcement (ICE), the goons who have
+      recently made a name for themselves by going around in masks and kidnapping people.
+      This constitutes a threefold increase over ICE’s previous budget, and propels
+      the outfit to the position of the largest US federal law enforcement agency in
+      history. $45 billion will go toward building new ICE detention centers, including
+      family detention centers. Prior to the signing into law of the sweeping bill on
+      July 4, US Vice President JD Vance took to X to highlight what really mattered
+      in the legislation: Everything else—the CBO [Congressional Budget Office] score,
+      the proper baseline, the minutiae of the Medicaid policy—is immaterial compared
+      to the ICE money and immigration enforcement provisions. Scant attention to ICE
+      expansion And yet many US corporate media outlets have paid scant attention to
+      this aspect of the bill and refrained from delving too deeply into the matter
+      of what exactly this massive ramping up of ICE portends for American society.
+      According to a search of the Nexis news database, while half (50%) of newspaper
+      articles and news transcripts mentioning the reconciliation bill from its first
+      passage in the House (May 20) to its signing into law (July 4) also mentioned
+      Medicaid, less than 6% named Immigration and Customs Enforcement or ICE. Even
+      many of those that did mention ICE barely gave it any attention. On July 3, for
+      example, the New York Times presented readers with “ Nine Questions About the
+      Republican Megabill, Answered ,” which in response to the first question—“Why
+      is it being called a megabill?”—did manage to mention “a 150% boost to the Immigration
+      and Customs Enforcement budget over the next five years.” However, there was no
+      further discussion in the article’s remaining 1,500-plus words of potential ramifications
+      of this boost—although there was a section devoted to the “tax break for Native
+      Alaskan subsistence whaling captains.” That was more than CNN ’s intervention
+      managed, also published on July 3, and headlined “Here’s Who Stands to Gain From
+      the ‘Big, Beautiful Bill.’ And Who May Struggle.” The article aced a couple of
+      no-brainers, including that “corporate America” would be “better off” thanks to
+      the bill, while “low-income Americans” would be “worse off.” But there was not
+      a single reference to the ICE budget—or who might “struggle” because of it. ‘Detention
+      blitz’ This is not to imply, of course, that there are no articles detailing what
+      ICE has been up to in terms of persecuting refuge seekers , visa holders, legal
+      US residents and even US citizens —who supposedly have greater protections under
+      the law—and how all of this stands to get worse, in accordance with the impending
+      deluge of anti-immigration funds. In its report on ICE’s looming “detention blitz,”
+      the Washington Post ( 7/4/25 ) noted that “at least 10 immigrants died while in
+      ICE’s custody during the first half of this year,” and cited the finding that
+      ICE is “now arresting people with no criminal charges at a higher rate than people
+      charged with crimes.” The Post article also contained sufficiently thought-provoking
+      details to enable the conscientious reader to draw their own conclusions regarding
+      the ultimate purpose of manic detention schemes. (Hint: it’s not to keep America
+      “safe.”) For instance, we learn that the share prices of GEO Group and CoreCivic—the
+      two largest detention companies contracted by ICE, which have notorious reputations
+      for detainee mistreatment—“each rose about 3%… as investors cheered the passage
+      of congressional funding likely to result in a flurry of new contracts.” Lest
+      there remain any doubt as to the centrality of profit flows to the immigration
+      crackdown, the article specifies that GEO Group and CoreCivic “each gave $500,000
+      to President Donald Trump’s inauguration, according to Federal Election Commission
+      data.” This article, however, came after the legislation was passed. A Post opinion
+      piece ( 6/30/25 ), meanwhile, put a human face on some of ICE’s victims, such
+      as Jermaine Thomas, born to a US soldier on a military base in Germany. Following
+      an incident of “suspected trespassing” in Texas, Thomas was deported by ICE to
+      Jamaica, a country he had never set foot in. Other victims spotlighted by the
+      Post include 64-year-old Iranian immigrant Madonna Kashanian, nabbed while gardening
+      at her house in New Orleans, and a six-year-old Honduran boy with leukemia who
+      was arrested at an immigration court in California while pursuing his asylum case
+      with his family. It was also possible, if one sought it out, to find reporting
+      on what the cash infusion entails from a logistical perspective: more agents ,
+      more arrests, more racial profiling , increased detention capacity , and a deportation
+      system that runs “like Amazon , trying to get your product delivered in 24 hours,”
+      as ICE’s acting director Todd Lyons charmingly put it . ‘Police state first’ Gutting
+      Medicaid is certainly an angle on the reconciliation bill that deserved the media
+      attention it got, and will devastate millions in this country. But the massive
+      infusion of money and power to ICE will likewise devastate millions with a ballooning
+      police state that unleashes terror, rips apart families and creates a network
+      of concentration camps across the country. Given ICE’s contemporary track record
+      and de facto exemption from the constraints of due process , the public desperately
+      needs a media that will connect the dots in order to convey a bigger-picture look
+      of what America is up against. In an interview with Jacobin magazine ( 7/3/25
+      ) on how “ICE Is About to Get More Money Than It Can Spend,” Aaron Reichlin-Melnick
+      —a senior fellow at the American Immigration Council—made the crucial observation:
+      “You don’t build the mass deportation machine without building the police state
+      first.” This is precisely the analysis that is missing from corporate media coverage
+      of the bill. Beyond making life hell for the undocumented workers on whose very
+      labor the US economy depends, ICE has become a tool for political repression as
+      well—as evidenced by a slew of recent episodes involving the abduction and disappearance
+      of international scholars whose political opinions did not coincide with those
+      of the commander in chief of our, um, democracy. Take the case of 30-year-old
+      Rümeysa Öztürk, a Turkish doctoral student and Fulbright scholar studying childhood
+      development at Tufts University in Massachusetts. While walking to an iftar dinner
+      in March, Öztürk was accosted by six plainclothes officers, some of them masked,
+      and forced into an unmarked van, after which she was flown halfway across the
+      country to an ICE detention center in Louisiana. Her crime, apparently, was to
+      have co-written an opinion piece last year for the Tufts Daily ( 3/26/24 ), in
+      which she and her co-authors encouraged the university to accede to demands by
+      the Tufts Community Union Senate by recognizing the Israeli genocide in the Gaza
+      Strip and divesting from companies with ties to Israel. Öztürk’s case is hardly
+      an isolated one. There’s Badar Khan Suri , a postdoctoral researcher at Georgetown
+      University who was seized by masked agents outside his Virginia home and swept
+      off to an ICE facility in Texas. There’s Momodou Taal , a British-Gambian former
+      PhD student at Cornell who sued the Trump administration over the crackdown on
+      Palestine solidarity and then self-deported, explaining that he had “lost faith
+      [he] could walk the streets without being abducted.” And the list goes on ( Al
+      Jazeera , 5/15/25 ). ‘Homegrowns are next’ In the twisted view of the US government,
+      of course, opposing the US-backed genocide of Palestinians equals support for
+      “terrorism”—and in Trump’s view , basically anything that goes against his own
+      thinking and policies potentially constitutes a criminal offense. It follows that
+      Öztürk-style politically motivated kidnappings by the state are presumably merely
+      the top of a very slippery slope that US citizens, too, will soon find themselves
+      careening down—especially as Trump has already exhibited enthusiasm at the prospect
+      of outsourcing the incarceration of US citizens to El Salvador: “The homegrowns
+      are next,” he told Salvadoran autocrat Nayib Bukele. The line between citizens
+      and residents has been intentionally blurred, with the Trump Justice Department
+      announcing it was “Prioritizing Denaturalization”—that is, stripping citizenship
+      from foreign-born citizens. This draconian punishment has been proposed for Trump’s
+      political enemies, from New York mayoral candidate Zohran Mamdani to former BFF
+      Elon Musk . Trump has also taken aim at the constitutional right of birthright
+      citizenship , potentially turning millions of other Americans into ICE targets.
+      Somehow, the elite media have not deemed it necessary to dwell even superficially
+      on the implications of super-funding a rogue agency that has essentially been
+      given carte blanche to indiscriminately round people up—be they undocumented workers,
+      political dissidents, or just somebody who “looks like somebody we are looking
+      for.” As for CNN ’s write-up on “who stands to gain from the ‘big, beautiful bill,’”
+      it’s definitely not all the folks currently living in a permanent state of fear,
+      deprived of basic freedoms like movement, speech and thought. Editor’s Note :
+      A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Belén Fernández
+      Belén Fernández is the author of The Imperial Messenger: Thomas Friedman at Work and Martyrs
+      Never Die: Travels through South Lebanon. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: The article discusses the implications of a significant allocation
+      of $175 billion in President Trump's immigration bill, which prioritizes mass
+      deportation efforts while simultaneously enacting tax cuts for the wealthy and
+      reducing services for the poor.
+    paragraph_summary: The article discusses the implications of a significant legislative
+      bill signed by U.S. President Donald Trump, which allocates a staggering $175
+      billion for mass deportation efforts, overshadowing other budgetary concerns such
+      as Medicaid cuts. This funding includes approximately $30 billion for U.S. Immigration
+      and Customs Enforcement (ICE), marking a threefold increase in their budget and
+      making ICE the largest federal law enforcement agency in U.S. history. Additionally,
+      $45 billion is designated for the construction of new ICE detention centers, including
+      those for families. The article emphasizes that while corporate media has focused
+      on certain cuts, the massive financial commitment to immigration enforcement has
+      received less scrutiny, with Vice President JD Vance highlighting its significance
+      over other legislative details.
+    published: '2025-07-10T09:10:00+00:00'
+  - title: Massive Expansion of Trump’s Deportation Machine Passes With Little Press
+      Notice
+    url: https://scheerpost.com/2025/07/10/massive-expansion-of-trumps-deportation-machine-passes-with-little-press-notice/
+    text: 'Department of Homeland Security (DHS) Secretary Kristi Noem participates
+      in U.S. Immigration and Customs Enforcement (ICE) Enforcement and Removal Operations
+      (ERO) in Los Angeles, California, June 12, 2025. (DHS photo by Tia Dufour) In
+      one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Belén Fernández / Fairness
+      and Accuracy In Reporting (FAIR) And so it has come to pass: US President Donald
+      Trump’s “big, beautiful bill” has set the stage for tax cuts for the rich, slashed
+      services for the poor, and a host of other things that qualify as “beautiful”
+      in the present dystopia. Some cuts, like those to Medicaid, have been heavily
+      covered by the corporate media. But one key piece of the bill has gotten much
+      less media scrutiny: The preposterous sum of $175 billion has been allocated to
+      fund Trump’s signature mass deportation campaign, which, as a Salon article (
+      7/3/25 ) points out, exceeds the military budget for every single country in the
+      world aside from the US and China. Approximately $30 billion of that is destined
+      directly for US Immigration and Customs Enforcement (ICE), the goons who have
+      recently made a name for themselves by going around in masks and kidnapping people.
+      This constitutes a threefold increase over ICE’s previous budget, and propels
+      the outfit to the position of the largest US federal law enforcement agency in
+      history. $45 billion will go toward building new ICE detention centers, including
+      family detention centers. Prior to the signing into law of the sweeping bill on
+      July 4, US Vice President JD Vance took to X to highlight what really mattered
+      in the legislation: Everything else—the CBO [Congressional Budget Office] score,
+      the proper baseline, the minutiae of the Medicaid policy—is immaterial compared
+      to the ICE money and immigration enforcement provisions. Scant attention to ICE
+      expansion And yet many US corporate media outlets have paid scant attention to
+      this aspect of the bill and refrained from delving too deeply into the matter
+      of what exactly this massive ramping up of ICE portends for American society.
+      According to a search of the Nexis news database, while half (50%) of newspaper
+      articles and news transcripts mentioning the reconciliation bill from its first
+      passage in the House (May 20) to its signing into law (July 4) also mentioned
+      Medicaid, less than 6% named Immigration and Customs Enforcement or ICE. Even
+      many of those that did mention ICE barely gave it any attention. On July 3, for
+      example, the New York Times presented readers with “ Nine Questions About the
+      Republican Megabill, Answered ,” which in response to the first question—“Why
+      is it being called a megabill?”—did manage to mention “a 150% boost to the Immigration
+      and Customs Enforcement budget over the next five years.” However, there was no
+      further discussion in the article’s remaining 1,500-plus words of potential ramifications
+      of this boost—although there was a section devoted to the “tax break for Native
+      Alaskan subsistence whaling captains.” That was more than CNN ’s intervention
+      managed, also published on July 3, and headlined “Here’s Who Stands to Gain From
+      the ‘Big, Beautiful Bill.’ And Who May Struggle.” The article aced a couple of
+      no-brainers, including that “corporate America” would be “better off” thanks to
+      the bill, while “low-income Americans” would be “worse off.” But there was not
+      a single reference to the ICE budget—or who might “struggle” because of it. ‘Detention
+      blitz’ This is not to imply, of course, that there are no articles detailing what
+      ICE has been up to in terms of persecuting refuge seekers , visa holders, legal
+      US residents and even US citizens —who supposedly have greater protections under
+      the law—and how all of this stands to get worse, in accordance with the impending
+      deluge of anti-immigration funds. In its report on ICE’s looming “detention blitz,”
+      the Washington Post ( 7/4/25 ) noted that “at least 10 immigrants died while in
+      ICE’s custody during the first half of this year,” and cited the finding that
+      ICE is “now arresting people with no criminal charges at a higher rate than people
+      charged with crimes.” The Post article also contained sufficiently thought-provoking
+      details to enable the conscientious reader to draw their own conclusions regarding
+      the ultimate purpose of manic detention schemes. (Hint: it’s not to keep America
+      “safe.”) For instance, we learn that the share prices of GEO Group and CoreCivic—the
+      two largest detention companies contracted by ICE, which have notorious reputations
+      for detainee mistreatment—“each rose about 3%… as investors cheered the passage
+      of congressional funding likely to result in a flurry of new contracts.” Lest
+      there remain any doubt as to the centrality of profit flows to the immigration
+      crackdown, the article specifies that GEO Group and CoreCivic “each gave $500,000
+      to President Donald Trump’s inauguration, according to Federal Election Commission
+      data.” This article, however, came after the legislation was passed. A Post opinion
+      piece ( 6/30/25 ), meanwhile, put a human face on some of ICE’s victims, such
+      as Jermaine Thomas, born to a US soldier on a military base in Germany. Following
+      an incident of “suspected trespassing” in Texas, Thomas was deported by ICE to
+      Jamaica, a country he had never set foot in. Other victims spotlighted by the
+      Post include 64-year-old Iranian immigrant Madonna Kashanian, nabbed while gardening
+      at her house in New Orleans, and a six-year-old Honduran boy with leukemia who
+      was arrested at an immigration court in California while pursuing his asylum case
+      with his family. It was also possible, if one sought it out, to find reporting
+      on what the cash infusion entails from a logistical perspective: more agents ,
+      more arrests, more racial profiling , increased detention capacity , and a deportation
+      system that runs “like Amazon , trying to get your product delivered in 24 hours,”
+      as ICE’s acting director Todd Lyons charmingly put it . ‘Police state first’ Gutting
+      Medicaid is certainly an angle on the reconciliation bill that deserved the media
+      attention it got, and will devastate millions in this country. But the massive
+      infusion of money and power to ICE will likewise devastate millions with a ballooning
+      police state that unleashes terror, rips apart families and creates a network
+      of concentration camps across the country. Given ICE’s contemporary track record
+      and de facto exemption from the constraints of due process , the public desperately
+      needs a media that will connect the dots in order to convey a bigger-picture look
+      of what America is up against. In an interview with Jacobin magazine ( 7/3/25
+      ) on how “ICE Is About to Get More Money Than It Can Spend,” Aaron Reichlin-Melnick
+      —a senior fellow at the American Immigration Council—made the crucial observation:
+      “You don’t build the mass deportation machine without building the police state
+      first.” This is precisely the analysis that is missing from corporate media coverage
+      of the bill. Beyond making life hell for the undocumented workers on whose very
+      labor the US economy depends, ICE has become a tool for political repression as
+      well—as evidenced by a slew of recent episodes involving the abduction and disappearance
+      of international scholars whose political opinions did not coincide with those
+      of the commander in chief of our, um, democracy. Take the case of 30-year-old
+      Rümeysa Öztürk, a Turkish doctoral student and Fulbright scholar studying childhood
+      development at Tufts University in Massachusetts. While walking to an iftar dinner
+      in March, Öztürk was accosted by six plainclothes officers, some of them masked,
+      and forced into an unmarked van, after which she was flown halfway across the
+      country to an ICE detention center in Louisiana. Her crime, apparently, was to
+      have co-written an opinion piece last year for the Tufts Daily ( 3/26/24 ), in
+      which she and her co-authors encouraged the university to accede to demands by
+      the Tufts Community Union Senate by recognizing the Israeli genocide in the Gaza
+      Strip and divesting from companies with ties to Israel. Öztürk’s case is hardly
+      an isolated one. There’s Badar Khan Suri , a postdoctoral researcher at Georgetown
+      University who was seized by masked agents outside his Virginia home and swept
+      off to an ICE facility in Texas. There’s Momodou Taal , a British-Gambian former
+      PhD student at Cornell who sued the Trump administration over the crackdown on
+      Palestine solidarity and then self-deported, explaining that he had “lost faith
+      [he] could walk the streets without being abducted.” And the list goes on ( Al
+      Jazeera , 5/15/25 ). ‘Homegrowns are next’ In the twisted view of the US government,
+      of course, opposing the US-backed genocide of Palestinians equals support for
+      “terrorism”—and in Trump’s view , basically anything that goes against his own
+      thinking and policies potentially constitutes a criminal offense. It follows that
+      Öztürk-style politically motivated kidnappings by the state are presumably merely
+      the top of a very slippery slope that US citizens, too, will soon find themselves
+      careening down—especially as Trump has already exhibited enthusiasm at the prospect
+      of outsourcing the incarceration of US citizens to El Salvador: “The homegrowns
+      are next,” he told Salvadoran autocrat Nayib Bukele. The line between citizens
+      and residents has been intentionally blurred, with the Trump Justice Department
+      announcing it was “Prioritizing Denaturalization”—that is, stripping citizenship
+      from foreign-born citizens. This draconian punishment has been proposed for Trump’s
+      political enemies, from New York mayoral candidate Zohran Mamdani to former BFF
+      Elon Musk . Trump has also taken aim at the constitutional right of birthright
+      citizenship , potentially turning millions of other Americans into ICE targets.
+      Somehow, the elite media have not deemed it necessary to dwell even superficially
+      on the implications of super-funding a rogue agency that has essentially been
+      given carte blanche to indiscriminately round people up—be they undocumented workers,
+      political dissidents, or just somebody who “looks like somebody we are looking
+      for.” As for CNN ’s write-up on “who stands to gain from the ‘big, beautiful bill,’”
+      it’s definitely not all the folks currently living in a permanent state of fear,
+      deprived of basic freedoms like movement, speech and thought. Editor’s Note :
+      A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Belén Fernández
+      Belén Fernández is the author of The Imperial Messenger: Thomas Friedman at Work and Martyrs
+      Never Die: Travels through South Lebanon. Author Site Please share this story
+      and help us grow our network!'
+    one_sentence_summary: The article discusses the implications of a significant allocation
+      of $175 billion in President Trump's immigration bill, which prioritizes mass
+      deportation efforts while simultaneously enacting tax cuts for the wealthy and
+      reducing services for the poor.
+    paragraph_summary: The article discusses the implications of a significant legislative
+      bill signed by U.S. President Donald Trump, which allocates a staggering $175
+      billion for mass deportation efforts, overshadowing other budgetary concerns such
+      as Medicaid cuts. This funding includes approximately $30 billion for U.S. Immigration
+      and Customs Enforcement (ICE), marking a threefold increase in their budget and
+      making ICE the largest federal law enforcement agency in U.S. history. Additionally,
+      $45 billion is designated for the construction of new ICE detention centers, including
+      those for families. The article emphasizes that while corporate media has focused
+      on certain cuts, the massive financial commitment to immigration enforcement has
+      received less scrutiny, with Vice President JD Vance highlighting its significance
+      over other legislative details.
+    published: '2025-07-10T09:10:00+00:00'
+  - title: 10 Ways the GOP Budget Will Make Life Worse for Americans
+    url: https://scheerpost.com/2025/07/10/10-ways-the-gop-budget-will-make-life-worse-for-americans/
+    text: 'Kamala Harris speaking at Medicaid rally. United States Senate – The Office
+      of Kamala Harris, Public domain, via Wikimedia Commons In one of the scariest
+      moments in modern history, we''re doing our best at ScheerPost to pierce the fog
+      of lies that conceal it but we need some help to pay our writers and staff. Please
+      consider a tax-deductible donation . By Sarah Anderson and Lindsay Koshgarian
+      / OtherWords The GOP’s “One Big Beautiful Bill,” which narrowly passed Congress
+      and was recently signed by President Trump, represents the largest transfer of
+      wealth from the poor to the rich since chattel slavery. Here are just 10 of the
+      worst things about it. 1. It’s going to kill people. Cuts to Medicaid and the
+      Affordable Care Act, combined with new administrative hurdles, could result in
+      an estimated 51,000 preventable deaths per year. The new law and other actions
+      by the Trump administration will strip health insurance from 17 million people
+      . 2. It will be an apocalypse for rural hospitals. The budget restricts the provider
+      taxes that many states use to fund Medicaid. The threat is particularly severe
+      for rural hospitals , which rely heavily on Medicaid revenue. More than 700 rural
+      hospitals are already at risk of closure — and at least 338 are at increased risk
+      due to changes in this budget. 3. It takes food from the mouths of hungry people.
+      New work requirements for SNAP benefits will take food assistance from millions
+      , including children and veterans. As with Medicaid, new work requirements for
+      SNAP will have little effect on employment, but will cause more children to go
+      hungry. 4. It squeezes states on SNAP. For the first time, states will have to
+      take on a significant share of funding SNAP. This unprecedented shift will likely
+      lead many states to cut enrollees or even terminate food aid altogether. 5. It
+      bars lawfully present immigrants from aid. Hundreds of thousands of lawfully present
+      immigrants , including children, will lose access to Medicaid, the Children’ s
+      Health Insurance Program, Medicare, ACA tax credits, and SNAP benefits. And 2.6
+      million U.S. citizen children who live with only an undocumented adult are expected
+      to lose their Child Tax Credit. 6. It terrorizes immigrant families. The GOP budget
+      provides $170 billion to arrest, detain, deport, and wall off migrants. That includes
+      $45 billion for new immigration detention centers, including family detention
+      facilities —  a vast increase that will primarily benefit private companies contracted
+      to build and run them. 7. It takes from the poor to give to the rich. The bill’s
+      tax policies will overwhelmingly benefit the wealthiest households . A Yale analysis
+      of the bill’s combined tax and spending policies finds that the poorest 20 percent
+      of households will suffer a net income loss of $700 per year on average, while
+      the top 1 percent will get a $30,000 increase. 8. Corporations will take the spoils
+      for themselves. The budget keeps the corporate tax rate at 21 percent, a drastic
+      reduction from the 35 percent rate from before the first Trump tax cuts in 2018
+      — despite the fact that ordinary workers have not benefited from this rate reduction.
+      9. It rewards polluters while raising energy costs. The budget also includes more
+      than $1 billion in new tax breaks and subsidies for the fossil fuel industry,
+      accelerating climate change while costing taxpayers. It also allows oil and gas
+      companies to avoid paying fees for polluting methane leaks, a major cause of climate
+      change. Meanwhile, cuts to clean energy subsidies could raise household energy
+      bills by $415 a year over the next decade. 10. It funds war and enriches war profiteers.
+      The bill gives the Pentagon a $150 billion boost, bringing overall Pentagon spending
+      to over $1 trillion — a record high. That includes $25 billion for the “Golden
+      Dome,” a missile defense system that’s economically and physically impossible
+      but would enrich wealthy Pentagon contractors like Elon Musk . Instead, Congress
+      should harness America’s abundant wealth to create a moral economy that works
+      for all of us. By fairly taxing the wealthy and big corporations, reducing our
+      bloated military budget, and de-militarizing immigration policy, we could free
+      up more than enough public funds to ensure we can all survive and thrive. We have
+      no excuse for not investing our national resources in ways that reflect our Constitutional
+      values: to establish justice, domestic tranquility, real security, and the general
+      welfare for all. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Sarah Anderson Sarah Anderson directs the Global Economy
+      Project and co-edits the Inequality.org website at the Institute for Policy Studies.
+      This op-ed was adapted from Inequality.org and distributed for syndication by
+      OtherWords.org. Author Site Lindsay Koshgarian Federal budgeting expert Lindsay
+      Koshgarian directs the National Priorities Project at the Institute for Policy
+      Studies. You can follow her on Twitter @lindsaykosh. Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: The article criticizes the GOP's recently passed "One Big
+      Beautiful Bill," claiming it will lead to significant harm, including preventable
+      deaths and detrimental impacts on rural hospitals, representing a major transfer
+      of wealth from the poor to the rich.
+    paragraph_summary: The article by Sarah Anderson and Lindsay Koshgarian critiques
+      the GOP's recently passed "One Big Beautiful Bill," which they argue represents
+      a significant transfer of wealth from the poor to the rich, likening it to historical
+      injustices. They highlight ten major negative impacts of the legislation, including
+      an estimated 51,000 preventable deaths annually due to cuts in Medicaid and the
+      Affordable Care Act, severe threats to rural hospitals reliant on Medicaid funding,
+      and new work requirements for SNAP that will deprive millions, including children
+      and veterans, of food assistance. Additionally, the bill imposes financial burdens
+      on states regarding SNAP funding and restricts access to aid for lawfully present
+      immigrants, further exacerbating the challenges faced by vulnerable populations.
+    published: '2025-07-10T09:05:00+00:00'
+  - title: 10 Ways the GOP Budget Will Make Life Worse for Americans
+    url: https://scheerpost.com/2025/07/10/10-ways-the-gop-budget-will-make-life-worse-for-americans/
+    text: 'Kamala Harris speaking at Medicaid rally. United States Senate – The Office
+      of Kamala Harris, Public domain, via Wikimedia Commons In one of the scariest
+      moments in modern history, we''re doing our best at ScheerPost to pierce the fog
+      of lies that conceal it but we need some help to pay our writers and staff. Please
+      consider a tax-deductible donation . By Sarah Anderson and Lindsay Koshgarian
+      / OtherWords The GOP’s “One Big Beautiful Bill,” which narrowly passed Congress
+      and was recently signed by President Trump, represents the largest transfer of
+      wealth from the poor to the rich since chattel slavery. Here are just 10 of the
+      worst things about it. 1. It’s going to kill people. Cuts to Medicaid and the
+      Affordable Care Act, combined with new administrative hurdles, could result in
+      an estimated 51,000 preventable deaths per year. The new law and other actions
+      by the Trump administration will strip health insurance from 17 million people
+      . 2. It will be an apocalypse for rural hospitals. The budget restricts the provider
+      taxes that many states use to fund Medicaid. The threat is particularly severe
+      for rural hospitals , which rely heavily on Medicaid revenue. More than 700 rural
+      hospitals are already at risk of closure — and at least 338 are at increased risk
+      due to changes in this budget. 3. It takes food from the mouths of hungry people.
+      New work requirements for SNAP benefits will take food assistance from millions
+      , including children and veterans. As with Medicaid, new work requirements for
+      SNAP will have little effect on employment, but will cause more children to go
+      hungry. 4. It squeezes states on SNAP. For the first time, states will have to
+      take on a significant share of funding SNAP. This unprecedented shift will likely
+      lead many states to cut enrollees or even terminate food aid altogether. 5. It
+      bars lawfully present immigrants from aid. Hundreds of thousands of lawfully present
+      immigrants , including children, will lose access to Medicaid, the Children’ s
+      Health Insurance Program, Medicare, ACA tax credits, and SNAP benefits. And 2.6
+      million U.S. citizen children who live with only an undocumented adult are expected
+      to lose their Child Tax Credit. 6. It terrorizes immigrant families. The GOP budget
+      provides $170 billion to arrest, detain, deport, and wall off migrants. That includes
+      $45 billion for new immigration detention centers, including family detention
+      facilities —  a vast increase that will primarily benefit private companies contracted
+      to build and run them. 7. It takes from the poor to give to the rich. The bill’s
+      tax policies will overwhelmingly benefit the wealthiest households . A Yale analysis
+      of the bill’s combined tax and spending policies finds that the poorest 20 percent
+      of households will suffer a net income loss of $700 per year on average, while
+      the top 1 percent will get a $30,000 increase. 8. Corporations will take the spoils
+      for themselves. The budget keeps the corporate tax rate at 21 percent, a drastic
+      reduction from the 35 percent rate from before the first Trump tax cuts in 2018
+      — despite the fact that ordinary workers have not benefited from this rate reduction.
+      9. It rewards polluters while raising energy costs. The budget also includes more
+      than $1 billion in new tax breaks and subsidies for the fossil fuel industry,
+      accelerating climate change while costing taxpayers. It also allows oil and gas
+      companies to avoid paying fees for polluting methane leaks, a major cause of climate
+      change. Meanwhile, cuts to clean energy subsidies could raise household energy
+      bills by $415 a year over the next decade. 10. It funds war and enriches war profiteers.
+      The bill gives the Pentagon a $150 billion boost, bringing overall Pentagon spending
+      to over $1 trillion — a record high. That includes $25 billion for the “Golden
+      Dome,” a missile defense system that’s economically and physically impossible
+      but would enrich wealthy Pentagon contractors like Elon Musk . Instead, Congress
+      should harness America’s abundant wealth to create a moral economy that works
+      for all of us. By fairly taxing the wealthy and big corporations, reducing our
+      bloated military budget, and de-militarizing immigration policy, we could free
+      up more than enough public funds to ensure we can all survive and thrive. We have
+      no excuse for not investing our national resources in ways that reflect our Constitutional
+      values: to establish justice, domestic tranquility, real security, and the general
+      welfare for all. Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Sarah Anderson Sarah Anderson directs the Global Economy
+      Project and co-edits the Inequality.org website at the Institute for Policy Studies.
+      This op-ed was adapted from Inequality.org and distributed for syndication by
+      OtherWords.org. Author Site Lindsay Koshgarian Federal budgeting expert Lindsay
+      Koshgarian directs the National Priorities Project at the Institute for Policy
+      Studies. You can follow her on Twitter @lindsaykosh. Author Site Please share
+      this story and help us grow our network!'
+    one_sentence_summary: The article criticizes the GOP's recently passed "One Big
+      Beautiful Bill," claiming it will lead to significant harm, including preventable
+      deaths and detrimental impacts on rural hospitals, representing a major transfer
+      of wealth from the poor to the rich.
+    paragraph_summary: The article by Sarah Anderson and Lindsay Koshgarian critiques
+      the GOP's recently passed "One Big Beautiful Bill," which they argue represents
+      a significant transfer of wealth from the poor to the rich, likening it to historical
+      injustices. They highlight ten major negative impacts of the legislation, including
+      an estimated 51,000 preventable deaths annually due to cuts in Medicaid and the
+      Affordable Care Act, severe threats to rural hospitals reliant on Medicaid funding,
+      and new work requirements for SNAP that will deprive millions, including children
+      and veterans, of food assistance. Additionally, the bill imposes financial burdens
+      on states regarding SNAP funding and restricts access to aid for lawfully present
+      immigrants, further exacerbating the challenges faced by vulnerable populations.
+    published: '2025-07-10T09:05:00+00:00'
   - title: 'Riyadh Realigns: Tehran Over Tel Aviv'
     url: https://scheerpost.com/2025/07/09/riyadh-realigns-tehran-over-tel-aviv/
     text: 'Photo Credit: The Cradle In one of the scariest moments in modern history,

@@ -7,21 +7,71 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  The past 48 hours have seen significant developments in US intelligence accountability, the Iran conflict, and the ongoing fallout from the Ukraine war, each with major implications for global stability.
+  The geopolitical landscape remains dominated by the ongoing conflicts in Ukraine and the Middle East, with U.S. policy under President Trump continuing to draw scrutiny for its perceived lack of decisive action and its alignment with Israeli interests.
   
-  The most notable new development is the release of a CIA review into the 2017 Intelligence Community Assessment (ICA) on alleged Russian interference in the 2016 US election. As **Aaron Maté** reports, the review upholds the ICA’s core claims but exposes “procedural anomalies,” particularly the reliance on a single source for the judgment that Putin “aspired” for Trump to win. The review also confirms that the Clinton-funded Steele dossier played a pivotal role in the ICA’s formation, despite its widely acknowledged flaws. Key intelligence agencies like the Defense Intelligence Agency and State Department’s INR were excluded from the process, raising further doubts about the ICA’s integrity. **Maté** concludes that “accountability for Russiagate will not emerge from within the intelligence community, even under new leadership,” and notes that the House Intelligence Committee is now pressing for declassification of a still-secret 2018 report that could further undermine the official narrative. There is a high chance that pressure will mount for more transparency, but entrenched resistance remains strong.
+  In the latest development on the Ukraine front, President Trump unveiled his much-anticipated new policy, which, contrary to expectations set by hawkish figures like Senator Lindsey Graham, did not deliver a transformative shift in the U.S. approach to the proxy war with Russia. **Aaron Maté** notes that Graham had promoted a bipartisan sanctions package as potentially the “most impactful” in U.S. history, empowering Trump to impose severe secondary sanctions on countries engaging with Moscow and anticipating an unprecedented increase in weapons for Ukraine. However, the actual policy announcement fell short of these promises, signaling continuity rather than escalation. This has led to disappointment among those in Washington seeking a more aggressive stance, and reinforces the perception that Trump is reluctant to deepen U.S. involvement, instead framing the conflict as a European responsibility.
   
-  Meanwhile, the US-Iran conflict continues to escalate. After Israel’s June 13 attack on Iran, President Trump authorized direct US military strikes on Iranian nuclear sites, breaking his own two-week ultimatum after just three days. **Maté** highlights that Trump’s justification for war relies almost entirely on Israeli intelligence assessments, which contradict the US intelligence community’s consensus that Iran is not actively pursuing a nuclear weapon. Trump has openly dismissed the findings of his own agencies, including CIA chief Tulsi Gabbard, in favor of Israeli claims. This marks a dramatic shift in US policy, with **Maté** arguing that Trump’s actions amount to “unconditional surrender to Israel.” The likelihood of a negotiated settlement with Iran is now extremely low, and there is a high chance that Iran will accelerate its nuclear program in response to the attacks.
+  Meanwhile, the fallout from the U.S.-backed Israeli strike on Iran continues to reverberate. Since Israel’s June 13 attack, which was coordinated with U.S. intelligence and support, Trump has doubled down on his alignment with Israeli policy, making provocative statements and imposing harsh demands on Tehran. **Aaron Maté** points out that Trump’s military response, including strikes on Iranian nuclear sites, has drawn parallels to the pre-Iraq War era’s manipulation of intelligence to justify military action. Despite U.S. intelligence assessments that Iran is not actively pursuing nuclear weapons, both Trump and Israeli Prime Minister Netanyahu have publicly suggested otherwise, undermining ongoing diplomatic efforts and further isolating Iran.
   
-  On Ukraine, the aftermath of Kyiv’s audacious drone strikes deep inside Russian territory continues to reverberate. The operation, which targeted Russian nuclear-capable bombers, is seen by Ukrainian officials as a demonstration of their continued leverage and ability to inflict costs on Moscow. As **Maté** notes, this has strengthened the case for continued US support to Ukraine, even as President Trump signals a desire to disengage from the conflict. There is a high chance that Ukraine will continue to pursue asymmetric operations inside Russia, further complicating any prospects for peace.
+  On the domestic front, Trump’s promises of accountability for the Russiagate controversy remain unfulfilled. Despite the high-profile Durham investigation’s criticism of the FBI’s reliance on discredited sources, the probe resulted in minimal legal consequences and failed to address key aspects of the alleged misconduct. A new review led by CIA Director John Ratcliffe appears to be continuing this pattern of insufficient accountability, with **Aaron Maté** observing that the intelligence community remains resistant to full transparency.
   
   **Trends and Predictions:**  
-  - The US intelligence community faces renewed scrutiny over its handling of Russiagate, but entrenched interests make meaningful accountability unlikely in the near term.  
-  - The US-Iran-Israel triangle is now defined by open US military involvement and reliance on Israeli intelligence, with a high risk of further escalation and regional destabilization.  
-  - In Ukraine, bold operations inside Russia are likely to continue, sustaining Western support but also risking unpredictable Russian responses.
-  
-  Overall, the prevailing trend is one of deepening crises driven by politicized intelligence, proxy warfare, and the sidelining of diplomatic solutions. There is a high chance that these dynamics will persist, with little immediate prospect for de-escalation.
+  The majority of independent analysis suggests that Trump’s foreign policy is characterized by rhetorical bluster but limited substantive change, particularly regarding Ukraine, where U.S. engagement is likely to remain restrained. In the Middle East, Trump’s close alignment with Israel is expected to persist, with a high chance of continued U.S. support for Israeli military initiatives and little progress toward diplomatic resolution with Iran. On the Russiagate issue, there is little expectation of meaningful accountability, with most analysts predicting the status quo will hold. Given these patterns, it is quite likely that the coming weeks will see further entrenchment of these positions rather than significant policy shifts.
 articles:
+  - title: Trump’s ‘turning point’ on Ukraine war is another empty threat against Russia
+    url: https://www.aaronmate.net/p/trumps-turning-point-on-ukraine-war
+    text: (Photo by JIM WATSON,EMMANUEL DUNAND/AFP via Getty Images) Before President
+      Trump’s announcement of a new Ukraine policy, Sen. Lindsey Graham predicted a
+      “turning point” in the proxy war he and other Washington hawks have long supported.
+      Whereas Trump has previously left the “door open” to Russia, Graham said , “that
+      door is about to close,” and “the game... is about to change.” Going forward,
+      a bipartisan sanctions measure will hand Trump “a sledgehammer” to impose secondary
+      sanctions on states that do business with Moscow, making it “the most consequential
+      sanction package in [US] history.” Moreover, he vowed, “in the coming days, you
+      will see weapons flowing at a record level.” Yet what Trump unveiled on Monday
+      is far from a game-changer. Read more
+    one_sentence_summary: Sen. Lindsey Graham anticipated a significant shift in U.S.
+      policy towards Ukraine following President Trump's announcement, suggesting that
+      new bipartisan sanctions would empower Trump to impose severe penalties on nations
+      engaging with Russia, but the actual measures revealed were not as transformative
+      as expected.
+    paragraph_summary: Before President Trump's announcement of a new Ukraine policy,
+      Senator Lindsey Graham expressed optimism about a significant shift in the ongoing
+      proxy war, suggesting that Trump's approach would become more aggressive against
+      Russia. Graham highlighted a bipartisan sanctions measure that would empower Trump
+      to impose severe secondary sanctions on countries engaging with Moscow, describing
+      it as potentially the most impactful sanction package in U.S. history. He also
+      anticipated an unprecedented increase in weapon supplies to Ukraine. However,
+      the actual policy unveiled by Trump was deemed to lack the transformative impact
+      that Graham and other hawks had expected.
+    published: '2025-07-15T18:42:19+00:00'
+  - title: Trump’s ‘turning point’ on Ukraine war is another empty threat against Russia
+    url: https://www.aaronmate.net/p/trumps-turning-point-on-ukraine-war
+    text: (Photo by JIM WATSON,EMMANUEL DUNAND/AFP via Getty Images) Before President
+      Trump’s announcement of a new Ukraine policy, Sen. Lindsey Graham predicted a
+      “turning point” in the proxy war he and other Washington hawks have long supported.
+      Whereas Trump has previously left the “door open” to Russia, Graham said , “that
+      door is about to close,” and “the game... is about to change.” Going forward,
+      a bipartisan sanctions measure will hand Trump “a sledgehammer” to impose secondary
+      sanctions on states that do business with Moscow, making it “the most consequential
+      sanction package in [US] history.” Moreover, he vowed, “in the coming days, you
+      will see weapons flowing at a record level.” Yet what Trump unveiled on Monday
+      is far from a game-changer. Read more
+    one_sentence_summary: Sen. Lindsey Graham anticipated a significant shift in U.S.
+      policy towards Ukraine following President Trump's announcement, suggesting that
+      new bipartisan sanctions would empower Trump to impose severe penalties on nations
+      engaging with Russia, but the actual measures revealed were not as transformative
+      as expected.
+    paragraph_summary: Before President Trump's announcement of a new Ukraine policy,
+      Senator Lindsey Graham expressed optimism about a significant shift in the ongoing
+      proxy war, suggesting that Trump's approach would become more aggressive against
+      Russia. Graham highlighted a bipartisan sanctions measure that would empower Trump
+      to impose severe secondary sanctions on countries engaging with Moscow, describing
+      it as potentially the most impactful sanction package in U.S. history. He also
+      anticipated an unprecedented increase in weapon supplies to Ukraine. However,
+      the actual policy unveiled by Trump was deemed to lack the transformative impact
+      that Graham and other hawks had expected.
+    published: '2025-07-15T18:42:19+00:00'
   - title: Under Trump, the CIA is still covering up its Russiagate fraud
     url: https://www.aaronmate.net/p/under-trump-the-cia-is-still-covering
     text: '(Photo by Joe Raedle/Getty Images) Since his first term in the White House,

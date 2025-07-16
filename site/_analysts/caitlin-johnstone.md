@@ -7,17 +7,994 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  As the global landscape continues to be shaped by conflicts over information, technology, and power, recent developments highlight deepening contradictions within Western policy and culture.
+  The international discourse on Israel’s actions in Gaza has reached a new inflection point. After months of mounting evidence and growing outcry from independent analysts and activists, the mainstream media is now beginning to acknowledge the severity of the situation. In a significant development, **Omer Bartov**, a Holocaust and genocide scholar, published an op-ed in The New York Times explicitly stating that Israel is committing genocide against Palestinians in Gaza. Bartov’s admission, as reported by **Caitlin Johnstone**, comes after his own struggle with personal and professional biases and a call for fellow scholars to break their silence.
   
-  The most immediate controversy centers on the backlash against Elon Musk’s AI chatbot Grok, which, according to **Caitlin Johnstone**, has come under fire for “right-wing bias and inappropriate posts praising Hitler and promoting anti-Semitic conspiracy theories.” Developers have responded by taking action against hate speech, but the incident underscores the growing challenge of regulating AI outputs in a polarized society. This episode is emblematic of a broader struggle over who controls the narratives in the age of artificial intelligence, with tech platforms facing mounting pressure to police content while accusations of bias and censorship intensify.
+  This shift in mainstream narrative follows a period of widespread criticism of Western governments and institutions for their responses to the crisis. Recent weeks have seen the US and UK governments take controversial steps: sanctioning UN officials who oppose the war, removing groups like Syria’s Hayat Tahrir al-Sham from terrorist lists, and criminalizing anti-genocide activism. These moves, as detailed by Johnstone, have been widely interpreted as attempts to suppress dissent and shield Israel from accountability.
   
-  Meanwhile, Western governments’ approach to terrorism designations has come under renewed scrutiny. **Caitlin Johnstone** points to the US decision to remove Syria’s Al Qaeda affiliate, Hayat Tahrir al-Sham, from its list of designated terrorist organizations, even as the UK has recently added the nonviolent activist group Palestine Action to its own terrorist list. This, she argues, “highlights perceived inconsistencies in Western terrorism designations,” with critics suggesting these moves reflect political expediency rather than principled policy. The criminalization of anti-genocide activism, particularly in the UK, where police are arresting Palestine Action supporters, signals a trend where dissent against state violence is increasingly equated with terrorism.
+  Meanwhile, the normalization of violence and the distortion of antisemitism narratives continue to be central themes. Johnstone highlights how criticism of Israel is increasingly equated with antisemitism, a tactic that obscures the real connection between Israel’s actions and the rise in antisemitic incidents globally. This conflation has been used to justify new laws and policies, such as Australia’s controversial anti-antisemitism strategy, which critics argue infringes on free speech.
   
-  Culturally, these political shifts are fueling a resurgence of counterculture in the West. As seen at the 2025 Glastonbury Festival, artists like Bob Vylan openly supported Palestine, reflecting what **Johnstone** describes as “a growing rebellion in western counterculture against Israel’s actions.” This movement is gaining momentum as traditional narratives lose their grip, and younger generations demand accountability and justice.
-  
-  **Trends and Predictions:**  
-  The convergence of AI regulation controversies, shifting terrorism designations, and the rise of countercultural resistance suggests a period of heightened instability in Western societies. There is a high chance that attempts to control narratives—whether through tech censorship or legal repression—will provoke further backlash and energize grassroots activism. The inconsistencies in Western policy are likely to erode public trust and embolden critics, both domestically and internationally. Most definitely, the struggle over information and legitimacy will intensify, with countercultural movements playing an increasingly prominent role in shaping public discourse.
+  Looking ahead, the trend is clear: the mainstream narrative is shifting, albeit slowly, toward acknowledging the gravity of the situation in Gaza. With respected scholars now using the term “genocide” and public discourse becoming more critical, it is quite likely that pressure will mount on Western governments to reconsider their positions. However, given the entrenched interests and ongoing efforts to suppress dissent, meaningful policy change remains uncertain in the near term. There is a high chance that activism and counterculture movements in the West will continue to grow in response to these developments, further challenging official narratives and demanding accountability.
 articles:
+  - title: The New York Times Finally Stops Avoiding The G-Word
+    url: https://www.caitlinjohnst.one/p/the-new-york-times-finally-stops
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The New York Times has published an op-ed by a genocide scholar who says that
+      he resisted acknowledging the truth of what Israel is doing in Gaza for as long
+      as he could, but can no longer deny the obvious. It’s an admission that may as
+      well have come from The New York Times itself. In an article titled “ I’m a Genocide
+      Scholar. I Know It When I See It. ”, a Brown University professor of Holocaust
+      and genocide studies named Omer Bartov argues that “Israel is literally trying
+      to wipe out Palestinian existence in Gaza,” and denounces his fellow Holocaust
+      scholars for failing to acknowledge reality. “My inescapable conclusion has become
+      that Israel is committing genocide against the Palestinian people,” Bartov writes.
+      “Having grown up in a Zionist home, lived the first half of my life in Israel,
+      served in the I.D.F. as a soldier and officer and spent most of my career researching
+      and writing on war crimes and the Holocaust, this was a painful conclusion to
+      reach, and one that I resisted as long as I could. But I have been teaching classes
+      on genocide for a quarter of a century. I can recognize one when I see one.” https://x.com/rcbregman/status/1945171514682114535
+      And resist he did. In November 2023, Bartov wrote another op-ed for The New York
+      Times saying “As a historian of genocide, I believe that there is no proof that
+      genocide is currently taking place in Gaza, although it is very likely that war
+      crimes, and even crimes against humanity, are happening.” Apparently he is seeing
+      the proof now and has stopped resisting what’s been clear from the very beginning.
+      And it would seem the editors of the Gray Lady have ceased resisting as well.
+      The New York Times, which has an extensively documented pro-Israel bias , has
+      frenetically avoided the use of the g-word on its pages from the very beginning
+      of the Gaza onslaught. Even in its opinion and analysis pieces the NYT Overton
+      window has cut off at framing the issue as a complex matter of rigorous debate,
+      with headlines like “ Accused of Genocide, Israelis See Reversal of Reality. Palestinians
+      See Justice. ” and “ The Bitter Fight Over the Meaning of ‘Genocide’ ” representing
+      the closest thing to the pro-Palestinian side of the debate you’d see. During
+      the same time we’ve seen headlines like “ From the Embers of an Old Genocide,
+      a New One May Be Emerging ” used in reference to Sudan. In an internal memo obtained
+      by The Intercept last year, New York Times reporters were explicitly told to avoid
+      the use of the word “genocide”, as well as terms like “ethnic cleansing” and “occupied
+      territory”. “‘Genocide’ has a specific definition in international law,” the memo
+      reads. “In our own voice, we should generally use it only in the context of those
+      legal parameters. We should also set a high bar for allowing others to use it
+      as an accusation, whether in quotations or not, unless they are making a substantive
+      argument based on the legal definition.” https://x.com/AssalRad/status/1877181727447142846
+      Earlier this year the American Friends Service Committee cancelled its paid advertisement
+      in The New York Times calling for an end to the genocide in Gaza, saying the outlet
+      had wanted them to change the word “genocide” to “war” in order for their ad to
+      be published. So there has been a significant change. To be clear, this analysis
+      by Omer Bartov is not significant in and of itself. He is only joining the chorus
+      of what has already been said by human rights organizations like Amnesty International
+      , Human Rights Watch , United Nations human rights experts , and the overwhelming
+      majority of leading authorities on the subject of genocide. What is significant
+      is that even experts who’ve been resisting acknowledging the reality of the genocide
+      in Gaza because of their bias toward Israel have stopped doing so, and that even
+      the imperial media outlets most fiendishly devoted to running propaganda cover
+      for that genocide have run out of room to hide. The Israel apologists have lost
+      the argument. They might not know it yet, but they have. Public sentiment has
+      turned irreversibly against them as people’s eyes are opened to the truth of what’s
+      happening in Gaza, and more and more propagandists are choosing to rescue what’s
+      left of their tattered credibility instead of going down with the sinking ship.
+      Truth is slowly beginning to get a word in edgewise. Keep pushing. Keep fighting.
+      Keep resisting. It’s working. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. Click here for links for my mailing list, social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: In a New York Times op-ed, Holocaust and genocide scholar
+      Omer Bartov asserts that Israel is committing genocide against the Palestinian
+      people in Gaza, a conclusion he reached after grappling with his own biases and
+      calling out fellow scholars for their silence on the issue.
+    paragraph_summary: In a recent op-ed for The New York Times, Omer Bartov, a Brown
+      University professor specializing in Holocaust and genocide studies, openly acknowledges
+      that he can no longer deny the reality of Israel's actions in Gaza, which he characterizes
+      as genocidal. Bartov, who has a personal history tied to Zionism and military
+      service in Israel, expresses regret for his previous reluctance to label the situation
+      as genocide, stating that his extensive experience in the field has led him to
+      this painful conclusion. He criticizes fellow scholars for their failure to recognize
+      the gravity of the situation, highlighting a significant shift in both his perspective
+      and that of The New York Times, which has historically refrained from using the
+      term "genocide" in relation to the conflict.
+    published: '2025-07-16T01:16:01+00:00'
+  - title: The New York Times Finally Stops Avoiding The G-Word
+    url: https://www.caitlinjohnst.one/p/the-new-york-times-finally-stops
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The New York Times has published an op-ed by a genocide scholar who says that
+      he resisted acknowledging the truth of what Israel is doing in Gaza for as long
+      as he could, but can no longer deny the obvious. It’s an admission that may as
+      well have come from The New York Times itself. In an article titled “ I’m a Genocide
+      Scholar. I Know It When I See It. ”, a Brown University professor of Holocaust
+      and genocide studies named Omer Bartov argues that “Israel is literally trying
+      to wipe out Palestinian existence in Gaza,” and denounces his fellow Holocaust
+      scholars for failing to acknowledge reality. “My inescapable conclusion has become
+      that Israel is committing genocide against the Palestinian people,” Bartov writes.
+      “Having grown up in a Zionist home, lived the first half of my life in Israel,
+      served in the I.D.F. as a soldier and officer and spent most of my career researching
+      and writing on war crimes and the Holocaust, this was a painful conclusion to
+      reach, and one that I resisted as long as I could. But I have been teaching classes
+      on genocide for a quarter of a century. I can recognize one when I see one.” https://x.com/rcbregman/status/1945171514682114535
+      And resist he did. In November 2023, Bartov wrote another op-ed for The New York
+      Times saying “As a historian of genocide, I believe that there is no proof that
+      genocide is currently taking place in Gaza, although it is very likely that war
+      crimes, and even crimes against humanity, are happening.” Apparently he is seeing
+      the proof now and has stopped resisting what’s been clear from the very beginning.
+      And it would seem the editors of the Gray Lady have ceased resisting as well.
+      The New York Times, which has an extensively documented pro-Israel bias , has
+      frenetically avoided the use of the g-word on its pages from the very beginning
+      of the Gaza onslaught. Even in its opinion and analysis pieces the NYT Overton
+      window has cut off at framing the issue as a complex matter of rigorous debate,
+      with headlines like “ Accused of Genocide, Israelis See Reversal of Reality. Palestinians
+      See Justice. ” and “ The Bitter Fight Over the Meaning of ‘Genocide’ ” representing
+      the closest thing to the pro-Palestinian side of the debate you’d see. During
+      the same time we’ve seen headlines like “ From the Embers of an Old Genocide,
+      a New One May Be Emerging ” used in reference to Sudan. In an internal memo obtained
+      by The Intercept last year, New York Times reporters were explicitly told to avoid
+      the use of the word “genocide”, as well as terms like “ethnic cleansing” and “occupied
+      territory”. “‘Genocide’ has a specific definition in international law,” the memo
+      reads. “In our own voice, we should generally use it only in the context of those
+      legal parameters. We should also set a high bar for allowing others to use it
+      as an accusation, whether in quotations or not, unless they are making a substantive
+      argument based on the legal definition.” https://x.com/AssalRad/status/1877181727447142846
+      Earlier this year the American Friends Service Committee cancelled its paid advertisement
+      in The New York Times calling for an end to the genocide in Gaza, saying the outlet
+      had wanted them to change the word “genocide” to “war” in order for their ad to
+      be published. So there has been a significant change. To be clear, this analysis
+      by Omer Bartov is not significant in and of itself. He is only joining the chorus
+      of what has already been said by human rights organizations like Amnesty International
+      , Human Rights Watch , United Nations human rights experts , and the overwhelming
+      majority of leading authorities on the subject of genocide. What is significant
+      is that even experts who’ve been resisting acknowledging the reality of the genocide
+      in Gaza because of their bias toward Israel have stopped doing so, and that even
+      the imperial media outlets most fiendishly devoted to running propaganda cover
+      for that genocide have run out of room to hide. The Israel apologists have lost
+      the argument. They might not know it yet, but they have. Public sentiment has
+      turned irreversibly against them as people’s eyes are opened to the truth of what’s
+      happening in Gaza, and more and more propagandists are choosing to rescue what’s
+      left of their tattered credibility instead of going down with the sinking ship.
+      Truth is slowly beginning to get a word in edgewise. Keep pushing. Keep fighting.
+      Keep resisting. It’s working. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. Click here for links for my mailing list, social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: In a New York Times op-ed, Holocaust and genocide scholar
+      Omer Bartov asserts that Israel is committing genocide against the Palestinian
+      people in Gaza, a conclusion he reached after grappling with his own biases and
+      calling out fellow scholars for their silence on the issue.
+    paragraph_summary: In a recent op-ed for The New York Times, Omer Bartov, a Brown
+      University professor specializing in Holocaust and genocide studies, openly acknowledges
+      that he can no longer deny the reality of Israel's actions in Gaza, which he characterizes
+      as genocidal. Bartov, who has a personal history tied to Zionism and military
+      service in Israel, expresses regret for his previous reluctance to label the situation
+      as genocide, stating that his extensive experience in the field has led him to
+      this painful conclusion. He criticizes fellow scholars for their failure to recognize
+      the gravity of the situation, highlighting a significant shift in both his perspective
+      and that of The New York Times, which has historically refrained from using the
+      term "genocide" in relation to the conflict.
+    published: '2025-07-16T01:16:01+00:00'
+  - title: The Good Guys
+    url: https://www.caitlinjohnst.one/p/the-good-guys
+    text: 'Listen to a reading by Tim Foley : Subscribe now The Good Guys are building
+      concentration camps in Rafah and massacring civilians trying to obtain food. The
+      Good Guys are circling the planet with hundreds of military bases and telling
+      us we’re not allowed to oppose genocide. Yesterday I saw a little girl playing
+      and I thought how nice it is that she has all her limbs and that she is not lying
+      still covered in gray dust while her father screams and cries and calls out to
+      God while trying to kiss her back to life. The world is changed now. The moon
+      is covered with powdered buildings. The pigeons are weeping and the wind sounds
+      like drones. Sometimes I cough and gray dust comes out. Sometimes it’s a child’s
+      shoe. There’s a dead donkey lying in my backyard that nobody wants to talk about.
+      The Australians chat about real estate investments and how you can knock down
+      one house and replace it with two houses and then make believe that neither house
+      smells like corpses. The news man tells us the corporations are just dumping the
+      products directly into the Pacific now while clinging tightly to the edge of the
+      screen so the black hole doesn’t pull him in. Everything’s fine, the news man
+      yells, and the system is working perfectly. We are the Good Guys after all. We
+      are, after all, the Good Guys. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. Click here for links for my mailing list, social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Ted Eyton ( CC BY-SA 2.0
+      )'
+    one_sentence_summary: The article depicts a grim reality of war and suffering, contrasting
+      the innocence of a child's play with the horrors of genocide and destruction,
+      while criticizing societal indifference to the atrocities occurring around the
+      world.
+    paragraph_summary: The article presents a stark and critical view of current global
+      events, highlighting the suffering of civilians amidst warfare and the hypocrisy
+      of those in power. It describes the construction of concentration camps in Rafah
+      and the massacre of innocents, juxtaposed with the indifference of people preoccupied
+      with mundane concerns like real estate investments. The author reflects on the
+      devastating impact of violence, using vivid imagery of destruction and loss, while
+      criticizing the media's portrayal of the situation as normal and acceptable. The
+      piece conveys a sense of despair and disillusionment with the notion of being
+      the "Good Guys," suggesting that this narrative obscures the harsh realities faced
+      by many.
+    published: '2025-07-14T02:22:38+00:00'
+  - title: The Good Guys
+    url: https://www.caitlinjohnst.one/p/the-good-guys
+    text: 'Listen to a reading by Tim Foley : Subscribe now The Good Guys are building
+      concentration camps in Rafah and massacring civilians trying to obtain food. The
+      Good Guys are circling the planet with hundreds of military bases and telling
+      us we’re not allowed to oppose genocide. Yesterday I saw a little girl playing
+      and I thought how nice it is that she has all her limbs and that she is not lying
+      still covered in gray dust while her father screams and cries and calls out to
+      God while trying to kiss her back to life. The world is changed now. The moon
+      is covered with powdered buildings. The pigeons are weeping and the wind sounds
+      like drones. Sometimes I cough and gray dust comes out. Sometimes it’s a child’s
+      shoe. There’s a dead donkey lying in my backyard that nobody wants to talk about.
+      The Australians chat about real estate investments and how you can knock down
+      one house and replace it with two houses and then make believe that neither house
+      smells like corpses. The news man tells us the corporations are just dumping the
+      products directly into the Pacific now while clinging tightly to the edge of the
+      screen so the black hole doesn’t pull him in. Everything’s fine, the news man
+      yells, and the system is working perfectly. We are the Good Guys after all. We
+      are, after all, the Good Guys. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. Click here for links for my mailing list, social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Ted Eyton ( CC BY-SA 2.0
+      )'
+    one_sentence_summary: The article depicts a grim reality of war and suffering, contrasting
+      the innocence of a child's play with the horrors of genocide and destruction,
+      while criticizing societal indifference to the atrocities occurring around the
+      world.
+    paragraph_summary: The article presents a stark and critical view of current global
+      events, highlighting the suffering of civilians amidst warfare and the hypocrisy
+      of those in power. It describes the construction of concentration camps in Rafah
+      and the massacre of innocents, juxtaposed with the indifference of people preoccupied
+      with mundane concerns like real estate investments. The author reflects on the
+      devastating impact of violence, using vivid imagery of destruction and loss, while
+      criticizing the media's portrayal of the situation as normal and acceptable. The
+      piece conveys a sense of despair and disillusionment with the notion of being
+      the "Good Guys," suggesting that this narrative obscures the harsh realities faced
+      by many.
+    published: '2025-07-14T02:22:38+00:00'
+  - title: Don't Take Instruction On How To Live Your Life From A Stark Raving Mad Society
+    url: https://www.caitlinjohnst.one/p/dont-take-instruction-on-how-to-live
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Don’t take instruction on how to live your life from a stark raving mad society.
+      This civilization is sick. It is genocidal. It is ecocidal. It is omnicidal. We
+      are ruled by psychopaths, while the best among us are relegated to the fringes
+      of the fringe. We are hurtling into totalitarianism and armageddon at breakneck
+      pace while our attention is aggressively pulled toward the vapid and the inane.
+      You should share none of the values and priorities of this freak show. You should
+      not let any aspect of this dystopia inform your decisions regarding who you should
+      be and what kind of life you should live. In this warped and twisted madhouse,
+      we are trained to believe that “success” looks like making a lot of money, earning
+      large amounts of esteem and adoration, having a certain body type, living in the
+      right kind of neighborhood in the right kind of house full of the right kind of
+      products to impress the right kind of people. We are trained to believe we need
+      to rack up all kinds of accomplishments, academic achievements, promotions, impressive
+      stories, social ascendence. We are trained to believe we must attract a certain
+      type of partner who will be approved of by everyone whose approval we crave. If
+      we cannot achieve these goals, we are trained to believe we should feel bad about
+      ourselves. That we don’t deserve happiness. That we should either spend our time
+      stressing and striving for worthiness as defined by our crazy civilization, or
+      go and join the ocean of miserable failures who couldn’t win the capitalism game
+      and sedate ourselves with alcohol and entertainment waiting for death to carry
+      us into the nothingness where we belong. This is clearly insane. It’s a stupid
+      game with stupid prizes. The only reason anyone takes it seriously is because
+      we were raised and taught how to live by other people who take it seriously. Our
+      parents have been indoctrinated into the power-serving worldview that has been
+      forcibly imposed upon the denizens of the empire, and we want to make them proud.
+      Our friends, families and acquaintances have been likewise brainwashed, and we
+      want to impress them. But to do so is to take lessons on how to live from a collective
+      disease that is pointed at misery and dysfunction. It is impossible to lead a
+      truly fulfilling life while also trying to live the way the people around us think
+      we should live, because the society which shaped their ideas about how we should
+      live is insane. If you want to really live an awake and inspired life, you’ve
+      got to blaze your own trail. You’ve got to unlearn everything you’ve been told
+      about what a life properly lived would look like, and write your own rules. Because
+      the rules everyone else has been playing by were written by madmen. Find your
+      own truth. Set your own values and priorities. Define your own idea of success.
+      Define your own idea of sanity. Consider the possibility that just being present
+      for the beauty of each moment on this wonderful planet is worth more than anything
+      the imperial insane asylum has to offer you. Consider the possibility that your
+      very next breath, deeply relished, would be enough. We are destroying our planet
+      and driving every living organism toward annihilation. The status quo has failed
+      as spectacularly as anything could possibly fail. The old ways of doing things
+      plainly do not work. So try some new ways. Be different. Be strange. Be a freak.
+      Do everything the wrong way. Disappoint your parents. Fail to live up to your
+      potential. Transgress your family doctrine. Anger whatever gods you were taught
+      to believe in. Nothing anyone has done has worked. It is therefore necessary to
+      travel off the beaten path. The world won’t get better until humanity changes
+      its ways. Humanity won’t change its ways if it keeps insisting on trying the same
+      failed approaches over and over again. Our survival as a species depends on diverging
+      from our patterns. Maybe we’ll succeed in surviving, and maybe we won’t. But at
+      the very least we can rescue ourselves from spending one more day on this amazing
+      blue world trying to live by the rules of lunatics. ___________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my mailing list, social
+      media, books, merch, and audio/video versions of each article . All my work is
+      free to bootleg and use in any way, shape or form; republish it, translate it,
+      use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via Adobe Stock.'
+    one_sentence_summary: The article argues that society is fundamentally flawed and
+      misguided, promoting values that prioritize materialism and superficial success,
+      and urges individuals to reject these norms in favor of a more authentic and meaningful
+      life.
+    paragraph_summary: The article critiques modern society as fundamentally flawed
+      and driven by harmful values, arguing that it promotes a distorted notion of success
+      centered around wealth, status, and superficial achievements. It describes civilization
+      as sick and on a path toward totalitarianism and destruction, urging individuals
+      to reject societal norms that dictate self-worth based on material accomplishments
+      and social approval. Instead, the author advocates for a reevaluation of personal
+      values and priorities, suggesting that the pursuit of happiness should not be
+      defined by the unrealistic standards imposed by a dysfunctional culture. Ultimately,
+      the piece calls for a conscious detachment from societal expectations and a redefinition
+      of what it means to live a fulfilling life.
+    published: '2025-07-13T02:51:17+00:00'
+  - title: Don't Take Instruction On How To Live Your Life From A Stark Raving Mad Society
+    url: https://www.caitlinjohnst.one/p/dont-take-instruction-on-how-to-live
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Don’t take instruction on how to live your life from a stark raving mad society.
+      This civilization is sick. It is genocidal. It is ecocidal. It is omnicidal. We
+      are ruled by psychopaths, while the best among us are relegated to the fringes
+      of the fringe. We are hurtling into totalitarianism and armageddon at breakneck
+      pace while our attention is aggressively pulled toward the vapid and the inane.
+      You should share none of the values and priorities of this freak show. You should
+      not let any aspect of this dystopia inform your decisions regarding who you should
+      be and what kind of life you should live. In this warped and twisted madhouse,
+      we are trained to believe that “success” looks like making a lot of money, earning
+      large amounts of esteem and adoration, having a certain body type, living in the
+      right kind of neighborhood in the right kind of house full of the right kind of
+      products to impress the right kind of people. We are trained to believe we need
+      to rack up all kinds of accomplishments, academic achievements, promotions, impressive
+      stories, social ascendence. We are trained to believe we must attract a certain
+      type of partner who will be approved of by everyone whose approval we crave. If
+      we cannot achieve these goals, we are trained to believe we should feel bad about
+      ourselves. That we don’t deserve happiness. That we should either spend our time
+      stressing and striving for worthiness as defined by our crazy civilization, or
+      go and join the ocean of miserable failures who couldn’t win the capitalism game
+      and sedate ourselves with alcohol and entertainment waiting for death to carry
+      us into the nothingness where we belong. This is clearly insane. It’s a stupid
+      game with stupid prizes. The only reason anyone takes it seriously is because
+      we were raised and taught how to live by other people who take it seriously. Our
+      parents have been indoctrinated into the power-serving worldview that has been
+      forcibly imposed upon the denizens of the empire, and we want to make them proud.
+      Our friends, families and acquaintances have been likewise brainwashed, and we
+      want to impress them. But to do so is to take lessons on how to live from a collective
+      disease that is pointed at misery and dysfunction. It is impossible to lead a
+      truly fulfilling life while also trying to live the way the people around us think
+      we should live, because the society which shaped their ideas about how we should
+      live is insane. If you want to really live an awake and inspired life, you’ve
+      got to blaze your own trail. You’ve got to unlearn everything you’ve been told
+      about what a life properly lived would look like, and write your own rules. Because
+      the rules everyone else has been playing by were written by madmen. Find your
+      own truth. Set your own values and priorities. Define your own idea of success.
+      Define your own idea of sanity. Consider the possibility that just being present
+      for the beauty of each moment on this wonderful planet is worth more than anything
+      the imperial insane asylum has to offer you. Consider the possibility that your
+      very next breath, deeply relished, would be enough. We are destroying our planet
+      and driving every living organism toward annihilation. The status quo has failed
+      as spectacularly as anything could possibly fail. The old ways of doing things
+      plainly do not work. So try some new ways. Be different. Be strange. Be a freak.
+      Do everything the wrong way. Disappoint your parents. Fail to live up to your
+      potential. Transgress your family doctrine. Anger whatever gods you were taught
+      to believe in. Nothing anyone has done has worked. It is therefore necessary to
+      travel off the beaten path. The world won’t get better until humanity changes
+      its ways. Humanity won’t change its ways if it keeps insisting on trying the same
+      failed approaches over and over again. Our survival as a species depends on diverging
+      from our patterns. Maybe we’ll succeed in surviving, and maybe we won’t. But at
+      the very least we can rescue ourselves from spending one more day on this amazing
+      blue world trying to live by the rules of lunatics. ___________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my mailing list, social
+      media, books, merch, and audio/video versions of each article . All my work is
+      free to bootleg and use in any way, shape or form; republish it, translate it,
+      use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via Adobe Stock.'
+    one_sentence_summary: The article argues that society is fundamentally flawed and
+      misguided, promoting values that prioritize materialism and superficial success,
+      and urges individuals to reject these norms in favor of a more authentic and meaningful
+      life.
+    paragraph_summary: The article critiques modern society as fundamentally flawed
+      and driven by harmful values, arguing that it promotes a distorted notion of success
+      centered around wealth, status, and superficial achievements. It describes civilization
+      as sick and on a path toward totalitarianism and destruction, urging individuals
+      to reject societal norms that dictate self-worth based on material accomplishments
+      and social approval. Instead, the author advocates for a reevaluation of personal
+      values and priorities, suggesting that the pursuit of happiness should not be
+      defined by the unrealistic standards imposed by a dysfunctional culture. Ultimately,
+      the piece calls for a conscious detachment from societal expectations and a redefinition
+      of what it means to live a fulfilling life.
+    published: '2025-07-13T02:51:17+00:00'
+  - title: Genocide Summer Camp, And Other Notes From The Edge Of The Narrative Matrix
+    url: https://www.caitlinjohnst.one/p/genocide-summer-camp-and-other-notes
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It really is nuts how a young person can fly to Israel and go play genocide games
+      in Gaza for a while and then just fly back to their own country and expect to
+      be treated like a normal member of society like it’s some kind of genocide summer
+      camp. ❖ The narrative about an “antisemitism crisis” in our society has two main
+      components: 1. Redefining “antisemitism” to mean “criticism of Israel”, and 2.
+      Pretending not to see a connection between rising incidents of “antisemitism”
+      as it’s been redefined and Israel perpetrating an active genocide. ❖ https://x.com/caitoz/status/1942380328930402704
+      ❖ “Antisemitism” means criticism of Israel. That’s just what it means now. It
+      used to mean something else, but years of bad faith actors using that word in
+      the most dishonest ways imaginable to defend the most horrific things you’ve ever
+      seen has changed the definition. It is no longer possible to separate that word
+      from this sustained campaign of mass deception. You can only have governments,
+      institutions and individuals use a word differently for so long with such a high
+      degree of uniformity before the definition changes. Word definitions change over
+      time depending on how people use them. Nice used to mean stupid. Explode used
+      to mean applaud. The word meat used to refer to any kind of food, not just animal
+      flesh. The meanings changed because enough people started using them to refer
+      to something else, in exactly the same way we’ve seen occur with the word antisemitism.
+      That’s locked in. It has already happened. Everyone knows that antisemitism refers
+      to criticism of Israel and its actions and antisemite refers to someone who does
+      so. Everyone understands this regardless of whether they support Israel or oppose
+      it. That is the definition now. If you want a word for someone who thinks Hitler
+      was correct or uses triple brackets and posts big nose memes online, you’re going
+      to have to make up a new word, because antisemite is taken. You can’t even really
+      use “Jew hater” either, because that meaning is being polluted in the exact same
+      way antisemite has been. You have to make up an entirely new word, and use it
+      consistently. Israel’s spinmeisters will deny this publicly, even though they
+      know it’s true. They’ll say it’s possible to criticize Israel without being an
+      antisemite, but if you ask them to name someone who regularly and forcefully criticizes
+      Israel’s genocidal atrocities in Gaza whom they don’t consider antisemitic, they
+      won’t be able to. Every single person who criticizes Israel with appropriate consistency
+      and force is branded an antisemite (or perhaps “self-hating” if they happen to
+      be Jewish), without a single, solitary exception. These aren’t my rules, they’re
+      the rules of the Israel apologists. I’m just pointing out the obvious fact that
+      those rules have been set. ❖ https://x.com/caitoz/status/1942534487109460333 ❖
+      A new report from WIRED has found that the supposedly “raw” video footage of Jeffrey
+      Epstein’s prison cell which Trump’s Department of Justice released to prove Epstein
+      committed suicide was in fact digitally manipulated. “Metadata embedded in the
+      video and analyzed by WIRED and independent video forensics experts shows that
+      rather than being a direct export from the prison’s surveillance system, the footage
+      was modified, likely using the professional editing tool Adobe Premiere Pro,”
+      the report reads. “The file appears to have been assembled from at least two source
+      clips, saved multiple times, exported, and then uploaded to the DOJ’s website,
+      where it was presented as ‘raw’ footage.” This just keeps getting better and better.
+      Epstein is officially a leftist conspiracy theory now. Rightists dropped it when
+      they supported the president who’s covering it up, so now it’s ours. From now
+      on if you want to talk about Epstein you are joining the side of the commies.
+      Welcome to the revolution, comrade. ❖ The Australian government is imposing age
+      verification laws for internet use which may require digital IDs from people of
+      all ages who want to use major online platforms, at the same time this same government
+      is pushing to stomp out and censor all criticism of Israel . Doesn’t take a genius
+      to see where this is going. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. Click here for links for my mailing list, social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Wikimedia Commons/IDF .'
+    one_sentence_summary: The article critiques the normalization of young people participating
+      in violence in Gaza while returning to their home countries, arguing that the
+      current narrative around "antisemitism" has been distorted to equate it with criticism
+      of Israel, obscuring the connection between rising antisemitism and Israel's actions.
+    paragraph_summary: The article discusses the evolving definition of "antisemitism,"
+      arguing that it has been redefined to primarily mean "criticism of Israel," particularly
+      in the context of the ongoing violence in Gaza. The author suggests that this
+      shift has been influenced by various actors who have used the term to defend Israel's
+      actions, leading to a widespread perception that any critique of Israel equates
+      to antisemitism. The piece highlights the disconnect between rising antisemitism,
+      as redefined, and the actions of Israel, which the author describes as genocidal.
+      The article concludes that this redefinition has become so entrenched that it
+      is now widely accepted, regardless of individual beliefs about Israel.
+    published: '2025-07-12T02:23:25+00:00'
+  - title: Genocide Summer Camp, And Other Notes From The Edge Of The Narrative Matrix
+    url: https://www.caitlinjohnst.one/p/genocide-summer-camp-and-other-notes
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It really is nuts how a young person can fly to Israel and go play genocide games
+      in Gaza for a while and then just fly back to their own country and expect to
+      be treated like a normal member of society like it’s some kind of genocide summer
+      camp. ❖ The narrative about an “antisemitism crisis” in our society has two main
+      components: 1. Redefining “antisemitism” to mean “criticism of Israel”, and 2.
+      Pretending not to see a connection between rising incidents of “antisemitism”
+      as it’s been redefined and Israel perpetrating an active genocide. ❖ https://x.com/caitoz/status/1942380328930402704
+      ❖ “Antisemitism” means criticism of Israel. That’s just what it means now. It
+      used to mean something else, but years of bad faith actors using that word in
+      the most dishonest ways imaginable to defend the most horrific things you’ve ever
+      seen has changed the definition. It is no longer possible to separate that word
+      from this sustained campaign of mass deception. You can only have governments,
+      institutions and individuals use a word differently for so long with such a high
+      degree of uniformity before the definition changes. Word definitions change over
+      time depending on how people use them. Nice used to mean stupid. Explode used
+      to mean applaud. The word meat used to refer to any kind of food, not just animal
+      flesh. The meanings changed because enough people started using them to refer
+      to something else, in exactly the same way we’ve seen occur with the word antisemitism.
+      That’s locked in. It has already happened. Everyone knows that antisemitism refers
+      to criticism of Israel and its actions and antisemite refers to someone who does
+      so. Everyone understands this regardless of whether they support Israel or oppose
+      it. That is the definition now. If you want a word for someone who thinks Hitler
+      was correct or uses triple brackets and posts big nose memes online, you’re going
+      to have to make up a new word, because antisemite is taken. You can’t even really
+      use “Jew hater” either, because that meaning is being polluted in the exact same
+      way antisemite has been. You have to make up an entirely new word, and use it
+      consistently. Israel’s spinmeisters will deny this publicly, even though they
+      know it’s true. They’ll say it’s possible to criticize Israel without being an
+      antisemite, but if you ask them to name someone who regularly and forcefully criticizes
+      Israel’s genocidal atrocities in Gaza whom they don’t consider antisemitic, they
+      won’t be able to. Every single person who criticizes Israel with appropriate consistency
+      and force is branded an antisemite (or perhaps “self-hating” if they happen to
+      be Jewish), without a single, solitary exception. These aren’t my rules, they’re
+      the rules of the Israel apologists. I’m just pointing out the obvious fact that
+      those rules have been set. ❖ https://x.com/caitoz/status/1942534487109460333 ❖
+      A new report from WIRED has found that the supposedly “raw” video footage of Jeffrey
+      Epstein’s prison cell which Trump’s Department of Justice released to prove Epstein
+      committed suicide was in fact digitally manipulated. “Metadata embedded in the
+      video and analyzed by WIRED and independent video forensics experts shows that
+      rather than being a direct export from the prison’s surveillance system, the footage
+      was modified, likely using the professional editing tool Adobe Premiere Pro,”
+      the report reads. “The file appears to have been assembled from at least two source
+      clips, saved multiple times, exported, and then uploaded to the DOJ’s website,
+      where it was presented as ‘raw’ footage.” This just keeps getting better and better.
+      Epstein is officially a leftist conspiracy theory now. Rightists dropped it when
+      they supported the president who’s covering it up, so now it’s ours. From now
+      on if you want to talk about Epstein you are joining the side of the commies.
+      Welcome to the revolution, comrade. ❖ The Australian government is imposing age
+      verification laws for internet use which may require digital IDs from people of
+      all ages who want to use major online platforms, at the same time this same government
+      is pushing to stomp out and censor all criticism of Israel . Doesn’t take a genius
+      to see where this is going. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. Click here for links for my mailing list, social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Wikimedia Commons/IDF .'
+    one_sentence_summary: The article critiques the normalization of young people participating
+      in violence in Gaza while returning to their home countries, arguing that the
+      current narrative around "antisemitism" has been distorted to equate it with criticism
+      of Israel, obscuring the connection between rising antisemitism and Israel's actions.
+    paragraph_summary: The article discusses the evolving definition of "antisemitism,"
+      arguing that it has been redefined to primarily mean "criticism of Israel," particularly
+      in the context of the ongoing violence in Gaza. The author suggests that this
+      shift has been influenced by various actors who have used the term to defend Israel's
+      actions, leading to a widespread perception that any critique of Israel equates
+      to antisemitism. The piece highlights the disconnect between rising antisemitism,
+      as redefined, and the actions of Israel, which the author describes as genocidal.
+      The article concludes that this redefinition has become so entrenched that it
+      is now widely accepted, regardless of individual beliefs about Israel.
+    published: '2025-07-12T02:23:25+00:00'
+  - title: Australia Unveils Plan To Fight "Antisemitism" By Crushing Free Speech
+    url: https://www.caitlinjohnst.one/p/australia-unveils-plan-to-fight-antisemitism
+    text: 'Listen to a reading of this article (reading by Tim Foley, painting by Caitlin
+      Johnstone) : Subscribe now As Australia’s dear friend Israel announces its plan
+      to move Gaza’s entire population into concentration camps to prepare them for
+      deportation and murder them if they refuse , the Australian government is laser-focused
+      on tackling the problem of — you guessed it — antisemitism. Prime Minister Anthony
+      Albanese made a big spectacle of announcing a new strategy to combat Australia’s
+      completely fictional epidemic of “antisemitism” on Thursday, waving around a 20-page
+      plan which is being denounced nationwide as a Trumpian agenda to stomp out free
+      speech in advancement of the interests of the state of Israel. The author of the
+      plan is Jillian Segal , a career Israel lobbyist born in apartheid South Africa
+      who was named Australia’s first Special Envoy to Combat Antisemitism by the Albanese
+      government last year. Segal has had an established record of defending and supporting
+      Israel’s genocidal atrocities in Gaza. Her husband John Roth directs one of the
+      major funders of Advance , a climate denying right wing lobbying group which helped
+      kill Australia’s Indigenous Voice to Parliament in 2023. https://x.com/BarnsGreg/status/1943473495679340817
+      Segal’s plan is being slammed as “Trumpian” by free speech advocates because it
+      advocates implementing the US president’s policy of cutting off federal funding
+      for universities and other public institutions deemed to be promoting the spread
+      of antisemitism, which of course in effect means protesting against the actions
+      of the Israeli government. Segal writes that she personally “will work with government
+      to enable government funding to be withheld, where possible, from universities,
+      programs or individuals within universities that facilitate, enable or fail to
+      act against antisemitism.” Segal calls for all public institutions to be forced
+      into espousing the International Holocaust Remembrance Alliance’s (IHRA) working
+      definition of antisemitism , which has been opposed around the world for its conflation
+      of criticism of Israel with hateful actions toward Jews. Under the IHRA definition
+      it is considered antisemitic to claim that Israel is a racist endeavor, or to
+      compare Israel’s abuses to those of Nazi Germany — both of which are entirely
+      legitimate criticisms which should be put forward far more often than they are.
+      Here is a summary of the full scope of Segal’s plan written up by the ABC’s Tom
+      Crowley: Education — a greater role for the Envoy to resource and educate the
+      community, schools, businesses and public institutions about antisemitism and
+      to embed an understanding of antisemitism in law enforcement, government agencies
+      and the school curriculum. Universities — call to withhold public funding to universities
+      or those within them deemed to “facilitate, enable or fail to act” on antisemitism,
+      and an inquiry into “clusters” of antisemitism if encampments continue into 2026.
+      Media — a new role for the Envoy to encourage media organisations to “avoid accepting
+      false or distorted narratives” and encourage public broadcasters to “accurately
+      and positively” represent Jewish history and culture and make programs that support
+      “social cohesion”. Arts — a recommendation that there be protocols for arts festivals
+      and organisations to respond to antisemitic incidents, with public funding able
+      to be withheld similar to universities. Policing — a permanent standing arrangement
+      for law enforcement agencies to co-operate on investigating antisemitism, similar
+      to the Avalite taskforce set up after the Adass synagogue attack. Online hate
+      — stronger regulation of online hate speech and algorithms, and the ability to
+      support “trusted voices” to refute antisemitism on social media, plus a review
+      of hate speech laws. Migration — screen visa applicants for antisemitism and ensure
+      the Migration Act effectively facilitates visa cancellations for antisemitism.
+      As you can see, Segal is demanding the authority to exert control over pretty
+      much every major aspect of Australian society. She is claiming she wants to do
+      this to combat antisemitism, but everyone knows she actually wants to do this
+      to promote the interests of Israel, because that’s what these things always mean
+      in practice. https://x.com/Anthony_Klan/status/1943179720021147907 Segal’s plan
+      claims that “manipulated narratives in the legacy media” are driving antisemitism
+      and accuses the Australian press of “misinformation”, asserting that “publicly
+      funded media organisations should be required to uphold clear editorial standards
+      that promote fair, responsible reporting to avoid perpetuating incorrect or distorted
+      narratives or representations of Jews.” Segal says that under her plan she will
+      “monitor media organisations to encourage accurate, fair and responsible reporting
+      and assist them to meet their editorial standards and commitment to impartiality
+      and balance and to avoid accepting false or distorted narratives.” Asked on the
+      ABC on Thursday to list some of the changes that she would make to the reporting
+      of public news broadcasters, Segal adamantly refused to give a single example,
+      despite being repeatedly pressed to do so by the ABC’s Sarah Ferguson. The following
+      morning Segal was interviewed on the ABC’s Radio National Breakfast and pressed
+      on the same issue, where she finally relented and gave one single example of absolutely
+      breathtaking ridiculousness. “Six months ago or so,” Segal said, “the ABC ran
+      a story repeatedly about a hospital in Gaza that had been bombed. And there was
+      incomplete information, as there is only perhaps information emanating from Hamas,
+      but it was alleged to be, the ABC reported as fact, that it had been bombed by
+      Israel. And then horrified people were upset and the Jewish community was looked
+      at with disgust and worse. And then it turned out indeed that it was not bombed
+      by Israel, that it had been from Gaza itself, and it had been a bomb that had
+      fallen short.” Segal appears to be referring to one of the early bombings of the
+      al-Ahli Arab Baptist Hospital, which occurred not six months ago but in October
+      of 2023 . Israel and various western institutions claimed the hospital was accidentally
+      bombed by Palestinian forces while analysts like Forensic Architecture say the
+      attack came from Israeli forces , accusing Israel of peddling misinformation about
+      the strike. Since that time Israel has deliberately demolished Gaza’s health infrastructure
+      with hundreds of attacks on healthcare facilities, and the al-Ahli Hospital has
+      been bombed no fewer than eight separate times . Segal’s one and only example
+      is a perfect illustration of the kind of extreme bias she wants to impose upon
+      Australian consciousness, which obviously has no place in a free society. The
+      fraudulent antisemitism panic in Australia has been reinvigorated by two events
+      last week that were seized upon with shrieking hysteria by the mainstream press,
+      none of which showed any signs of an antisemitism crisis in our nation. As Paul
+      Gregoire explains for the Sydney Criminal Lawyers blog, Australia is being whipped
+      up into a frenzy by the conflation of one incident in which a Sydney man set fire
+      to the doors of a Melbourne synagogue with a different and completely legitimate
+      act of anti-genocide activism. The synagogue attacker is yet another story of
+      a shady individual with no known record of antisemitic ideology or pro-Palestinian
+      sentiment perpetrating an apparent antisemitic attack, following a long stretch
+      of supposed antisemitic incidents which turned out to have been staged by organized
+      crime operatives with no ideological motive . https://x.com/sydcrimlawyers/status/1943233933673419067
+      This one dubious story of a man committing an actual crime against an actual Jewish
+      place of worship has been obnoxiously mentioned in the same breath as another
+      unconnected incident by the entire Australian political/media class all week.
+      Protesters gathered at the Miznon restaurant in Melbourne to demonstrate against
+      the establishment’s Israeli co-owner, who is also the spokesperson for the so-called
+      Gaza Humanitarian Foundation where Israeli soldiers admit they’ve been massacring
+      starving civilians seeking food. A fight broke out with a group from the restaurant
+      across from Miznon who the protesters say instigated the attack and who are clearly
+      seen assaulting the pro-Palestinian activists in the available video footage.
+      The entire so-called “antisemitism crisis” in Australia is like this. The overwhelming
+      majority of it is just people criticizing Israel and trying to do what they can
+      to stop the live-streamed genocide they’ve been watching on their screens every
+      day for two years, which is then deliberately conflated with the actions of a
+      few fringe actors with frequently suspicious motives. “Antisemitism” means criticism
+      of Israel. That’s just what it means now. It used to mean something else, but
+      years of bad faith actors using that word in the most dishonest ways imaginable
+      to defend the most horrific things you’ve ever seen has changed the definition.
+      It is no longer possible to separate that word from this sustained campaign of
+      mass deception. https://x.com/jackmirkinson/status/1939707498014912653 It’s the
+      genocide. People are mad at the genocide. They don’t hate Jews, they hate genocide.
+      This was explained quite nicely the other day by Jack Mirkinson, who wrote the
+      following about the controversy surrounding musical duo Bob Vylan’s chants of
+      “Death to the IDF” at Glastonbury Festival last month: “Left unmentioned in any
+      of this freakout is the context in which it is taking place. Why was Bob Vylan
+      talking about Palestine right now? Why was a giant crowd of people so receptive
+      to these comments? Why has this become such a totemic issue? “The answer will
+      not shock you. It’s because Israel has been committing genocide in Gaza for nearly
+      two years. “That’s it! That’s why. People don’t like genocide, and when they see
+      a country committing genocide, they stop liking that country so much. If the genocide
+      ended, a lot of people would be less mad at Israel than they are right now. “This
+      isn’t rocket science. But — and this is the crucial thing — because our world’s
+      leading politicians and media outlets fundamentally don’t see opposition to the
+      genocide as a legitimate viewpoint to hold, they can’t quite comprehend what is
+      happening all around them.” That’s it. It’s the genocide, stupid. That’s all this
+      has ever been about. I wish I could force every pundit, politician and journalist
+      in Australia to listen to these words. _________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my mailing list, social
+      media, books, merch, and audio/video versions of each article . All my work is
+      free to bootleg and use in any way, shape or form; republish it, translate it,
+      use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      by Caitlin Johnstone.'
+    one_sentence_summary: As Israel plans to forcibly relocate Gaza's population, the
+      Australian government, led by Prime Minister Anthony Albanese, is focusing on
+      combating alleged antisemitism through a controversial new strategy criticized
+      for potentially infringing on free speech and advancing pro-Israel interests.
+    paragraph_summary: The article critiques the Australian government's recent focus
+      on combating antisemitism, particularly in light of Israel's controversial actions
+      in Gaza. Prime Minister Anthony Albanese unveiled a 20-page plan authored by Jillian
+      Segal, Australia's first Special Envoy to Combat Antisemitism, which is criticized
+      as a "Trumpian" approach that threatens free speech by targeting institutions
+      that oppose Israeli policies. Segal, a pro-Israel lobbyist with a history of defending
+      Israel's actions, proposes withholding government funding from universities and
+      programs that do not align with the International Holocaust Remembrance Alliance's
+      definition of antisemitism, raising concerns about censorship and the suppression
+      of dissenting views related to the Israeli government's conduct.
+    published: '2025-07-11T05:37:13+00:00'
+  - title: Australia Unveils Plan To Fight "Antisemitism" By Crushing Free Speech
+    url: https://www.caitlinjohnst.one/p/australia-unveils-plan-to-fight-antisemitism
+    text: 'Listen to a reading of this article (reading by Tim Foley, painting by Caitlin
+      Johnstone) : Subscribe now As Australia’s dear friend Israel announces its plan
+      to move Gaza’s entire population into concentration camps to prepare them for
+      deportation and murder them if they refuse , the Australian government is laser-focused
+      on tackling the problem of — you guessed it — antisemitism. Prime Minister Anthony
+      Albanese made a big spectacle of announcing a new strategy to combat Australia’s
+      completely fictional epidemic of “antisemitism” on Thursday, waving around a 20-page
+      plan which is being denounced nationwide as a Trumpian agenda to stomp out free
+      speech in advancement of the interests of the state of Israel. The author of the
+      plan is Jillian Segal , a career Israel lobbyist born in apartheid South Africa
+      who was named Australia’s first Special Envoy to Combat Antisemitism by the Albanese
+      government last year. Segal has had an established record of defending and supporting
+      Israel’s genocidal atrocities in Gaza. Her husband John Roth directs one of the
+      major funders of Advance , a climate denying right wing lobbying group which helped
+      kill Australia’s Indigenous Voice to Parliament in 2023. https://x.com/BarnsGreg/status/1943473495679340817
+      Segal’s plan is being slammed as “Trumpian” by free speech advocates because it
+      advocates implementing the US president’s policy of cutting off federal funding
+      for universities and other public institutions deemed to be promoting the spread
+      of antisemitism, which of course in effect means protesting against the actions
+      of the Israeli government. Segal writes that she personally “will work with government
+      to enable government funding to be withheld, where possible, from universities,
+      programs or individuals within universities that facilitate, enable or fail to
+      act against antisemitism.” Segal calls for all public institutions to be forced
+      into espousing the International Holocaust Remembrance Alliance’s (IHRA) working
+      definition of antisemitism , which has been opposed around the world for its conflation
+      of criticism of Israel with hateful actions toward Jews. Under the IHRA definition
+      it is considered antisemitic to claim that Israel is a racist endeavor, or to
+      compare Israel’s abuses to those of Nazi Germany — both of which are entirely
+      legitimate criticisms which should be put forward far more often than they are.
+      Here is a summary of the full scope of Segal’s plan written up by the ABC’s Tom
+      Crowley: Education — a greater role for the Envoy to resource and educate the
+      community, schools, businesses and public institutions about antisemitism and
+      to embed an understanding of antisemitism in law enforcement, government agencies
+      and the school curriculum. Universities — call to withhold public funding to universities
+      or those within them deemed to “facilitate, enable or fail to act” on antisemitism,
+      and an inquiry into “clusters” of antisemitism if encampments continue into 2026.
+      Media — a new role for the Envoy to encourage media organisations to “avoid accepting
+      false or distorted narratives” and encourage public broadcasters to “accurately
+      and positively” represent Jewish history and culture and make programs that support
+      “social cohesion”. Arts — a recommendation that there be protocols for arts festivals
+      and organisations to respond to antisemitic incidents, with public funding able
+      to be withheld similar to universities. Policing — a permanent standing arrangement
+      for law enforcement agencies to co-operate on investigating antisemitism, similar
+      to the Avalite taskforce set up after the Adass synagogue attack. Online hate
+      — stronger regulation of online hate speech and algorithms, and the ability to
+      support “trusted voices” to refute antisemitism on social media, plus a review
+      of hate speech laws. Migration — screen visa applicants for antisemitism and ensure
+      the Migration Act effectively facilitates visa cancellations for antisemitism.
+      As you can see, Segal is demanding the authority to exert control over pretty
+      much every major aspect of Australian society. She is claiming she wants to do
+      this to combat antisemitism, but everyone knows she actually wants to do this
+      to promote the interests of Israel, because that’s what these things always mean
+      in practice. https://x.com/Anthony_Klan/status/1943179720021147907 Segal’s plan
+      claims that “manipulated narratives in the legacy media” are driving antisemitism
+      and accuses the Australian press of “misinformation”, asserting that “publicly
+      funded media organisations should be required to uphold clear editorial standards
+      that promote fair, responsible reporting to avoid perpetuating incorrect or distorted
+      narratives or representations of Jews.” Segal says that under her plan she will
+      “monitor media organisations to encourage accurate, fair and responsible reporting
+      and assist them to meet their editorial standards and commitment to impartiality
+      and balance and to avoid accepting false or distorted narratives.” Asked on the
+      ABC on Thursday to list some of the changes that she would make to the reporting
+      of public news broadcasters, Segal adamantly refused to give a single example,
+      despite being repeatedly pressed to do so by the ABC’s Sarah Ferguson. The following
+      morning Segal was interviewed on the ABC’s Radio National Breakfast and pressed
+      on the same issue, where she finally relented and gave one single example of absolutely
+      breathtaking ridiculousness. “Six months ago or so,” Segal said, “the ABC ran
+      a story repeatedly about a hospital in Gaza that had been bombed. And there was
+      incomplete information, as there is only perhaps information emanating from Hamas,
+      but it was alleged to be, the ABC reported as fact, that it had been bombed by
+      Israel. And then horrified people were upset and the Jewish community was looked
+      at with disgust and worse. And then it turned out indeed that it was not bombed
+      by Israel, that it had been from Gaza itself, and it had been a bomb that had
+      fallen short.” Segal appears to be referring to one of the early bombings of the
+      al-Ahli Arab Baptist Hospital, which occurred not six months ago but in October
+      of 2023 . Israel and various western institutions claimed the hospital was accidentally
+      bombed by Palestinian forces while analysts like Forensic Architecture say the
+      attack came from Israeli forces , accusing Israel of peddling misinformation about
+      the strike. Since that time Israel has deliberately demolished Gaza’s health infrastructure
+      with hundreds of attacks on healthcare facilities, and the al-Ahli Hospital has
+      been bombed no fewer than eight separate times . Segal’s one and only example
+      is a perfect illustration of the kind of extreme bias she wants to impose upon
+      Australian consciousness, which obviously has no place in a free society. The
+      fraudulent antisemitism panic in Australia has been reinvigorated by two events
+      last week that were seized upon with shrieking hysteria by the mainstream press,
+      none of which showed any signs of an antisemitism crisis in our nation. As Paul
+      Gregoire explains for the Sydney Criminal Lawyers blog, Australia is being whipped
+      up into a frenzy by the conflation of one incident in which a Sydney man set fire
+      to the doors of a Melbourne synagogue with a different and completely legitimate
+      act of anti-genocide activism. The synagogue attacker is yet another story of
+      a shady individual with no known record of antisemitic ideology or pro-Palestinian
+      sentiment perpetrating an apparent antisemitic attack, following a long stretch
+      of supposed antisemitic incidents which turned out to have been staged by organized
+      crime operatives with no ideological motive . https://x.com/sydcrimlawyers/status/1943233933673419067
+      This one dubious story of a man committing an actual crime against an actual Jewish
+      place of worship has been obnoxiously mentioned in the same breath as another
+      unconnected incident by the entire Australian political/media class all week.
+      Protesters gathered at the Miznon restaurant in Melbourne to demonstrate against
+      the establishment’s Israeli co-owner, who is also the spokesperson for the so-called
+      Gaza Humanitarian Foundation where Israeli soldiers admit they’ve been massacring
+      starving civilians seeking food. A fight broke out with a group from the restaurant
+      across from Miznon who the protesters say instigated the attack and who are clearly
+      seen assaulting the pro-Palestinian activists in the available video footage.
+      The entire so-called “antisemitism crisis” in Australia is like this. The overwhelming
+      majority of it is just people criticizing Israel and trying to do what they can
+      to stop the live-streamed genocide they’ve been watching on their screens every
+      day for two years, which is then deliberately conflated with the actions of a
+      few fringe actors with frequently suspicious motives. “Antisemitism” means criticism
+      of Israel. That’s just what it means now. It used to mean something else, but
+      years of bad faith actors using that word in the most dishonest ways imaginable
+      to defend the most horrific things you’ve ever seen has changed the definition.
+      It is no longer possible to separate that word from this sustained campaign of
+      mass deception. https://x.com/jackmirkinson/status/1939707498014912653 It’s the
+      genocide. People are mad at the genocide. They don’t hate Jews, they hate genocide.
+      This was explained quite nicely the other day by Jack Mirkinson, who wrote the
+      following about the controversy surrounding musical duo Bob Vylan’s chants of
+      “Death to the IDF” at Glastonbury Festival last month: “Left unmentioned in any
+      of this freakout is the context in which it is taking place. Why was Bob Vylan
+      talking about Palestine right now? Why was a giant crowd of people so receptive
+      to these comments? Why has this become such a totemic issue? “The answer will
+      not shock you. It’s because Israel has been committing genocide in Gaza for nearly
+      two years. “That’s it! That’s why. People don’t like genocide, and when they see
+      a country committing genocide, they stop liking that country so much. If the genocide
+      ended, a lot of people would be less mad at Israel than they are right now. “This
+      isn’t rocket science. But — and this is the crucial thing — because our world’s
+      leading politicians and media outlets fundamentally don’t see opposition to the
+      genocide as a legitimate viewpoint to hold, they can’t quite comprehend what is
+      happening all around them.” That’s it. It’s the genocide, stupid. That’s all this
+      has ever been about. I wish I could force every pundit, politician and journalist
+      in Australia to listen to these words. _________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my mailing list, social
+      media, books, merch, and audio/video versions of each article . All my work is
+      free to bootleg and use in any way, shape or form; republish it, translate it,
+      use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      by Caitlin Johnstone.'
+    one_sentence_summary: As Israel plans to forcibly relocate Gaza's population, the
+      Australian government, led by Prime Minister Anthony Albanese, is focusing on
+      combating alleged antisemitism through a controversial new strategy criticized
+      for potentially infringing on free speech and advancing pro-Israel interests.
+    paragraph_summary: The article critiques the Australian government's recent focus
+      on combating antisemitism, particularly in light of Israel's controversial actions
+      in Gaza. Prime Minister Anthony Albanese unveiled a 20-page plan authored by Jillian
+      Segal, Australia's first Special Envoy to Combat Antisemitism, which is criticized
+      as a "Trumpian" approach that threatens free speech by targeting institutions
+      that oppose Israeli policies. Segal, a pro-Israel lobbyist with a history of defending
+      Israel's actions, proposes withholding government funding from universities and
+      programs that do not align with the International Holocaust Remembrance Alliance's
+      definition of antisemitism, raising concerns about censorship and the suppression
+      of dissenting views related to the Israeli government's conduct.
+    published: '2025-07-11T05:37:13+00:00'
+  - title: The Empire Is A Nonstop Insult To Our Intelligence
+    url: https://www.caitlinjohnst.one/p/the-empire-is-a-nonstop-insult-to
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The US has imposed sanctions on UN Human Rights Council Special Rapporteur Francesca
+      Albanese for using her position to oppose the most thoroughly documented genocide
+      in history. At the same time, the US has removed Syria’s Al Qaeda franchise HTS
+      from its list of designated terrorist organizations, because its leader successfully
+      carried out the regime change in Damascus that the western empire had been chasing
+      for years . At the same time, the UK has added nonviolent anti-genocide activism
+      group Palestine Action to its list of banned terrorist organizations for opposing
+      the Gaza holocaust. https://x.com/tparsi/status/1943011718353039614 At the same
+      time, the Israeli prime minister who is carrying out that holocaust has nominated
+      the American president who is helping him perpetrate genocidal atrocities for
+      a Nobel Peace Prize. At the same time, Israel has continued its ban on foreign
+      journalists entering Gaza, while also arresting the Israeli journalist who helped
+      expose the IDF officials who cooked up fake atrocity propaganda about burnt babies
+      on October 7. At the same time, the Trump administration has enraged its MAGA
+      base by concluding that Jeffrey Epstein had no client list for any kind of sexual
+      blackmail operation and definitely committed suicide. The western empire is one
+      nonstop insult to our intelligence. The peace advocates are terrorists, the genocide
+      architects deserve peace prizes, the journalists are dangerous, and Epstein was
+      just a wealthy socialite who made a few mistakes. https://x.com/caitoz/status/1943066539948937601
+      They do everything they can to make us stupid via propaganda, Silicon Valley information
+      control, and indoctrination schooling systems, and then they treat us like we’re
+      morons for the rest of our lives. The empire depends on ignorance. The more stupid,
+      racist, gullible, and easily distracted we become, the nastier agendas the empire
+      can roll out. Now here we are watching a live-streamed genocide unfold right in
+      front of our eyes for nearly two years while being tube fed a daily diet of the
+      most ridiculous lies imaginable. As Aaron Bushnell said, this is what our ruling
+      class has decided will be normal. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. Click here for links for my mailing list, social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image by Caitlin Johnstone.'
+    one_sentence_summary: The US has sanctioned UN Human Rights Council Special Rapporteur
+      Francesca Albanese for opposing genocide, removed Syria's Al Qaeda affiliate HTS
+      from its terrorist list after it helped achieve regime change, and the UK has
+      designated the anti-genocide group Palestine Action as a terrorist organization,
+      all while Israel continues its actions in Gaza and nominates the US president
+      for a Nobel Peace Prize.
+    paragraph_summary: The article critiques the contradictory actions of the US and
+      UK regarding human rights and terrorism, highlighting the US sanctions against
+      UN Human Rights Council Special Rapporteur Francesca Albanese for opposing genocide,
+      while simultaneously removing Syria's Al Qaeda affiliate HTS from its terrorist
+      list after it achieved regime change in Damascus. It also notes the UK's designation
+      of the nonviolent anti-genocide group Palestine Action as a terrorist organization,
+      contrasting this with the Israeli prime minister nominating the US president for
+      a Nobel Peace Prize despite ongoing atrocities in Gaza. The piece argues that
+      these actions reflect a broader pattern of propaganda and misinformation that
+      serves to manipulate public perception and maintain ignorance, allowing for the
+      perpetuation of harmful agendas by those in power.
+    published: '2025-07-10T03:28:30+00:00'
+  - title: The Empire Is A Nonstop Insult To Our Intelligence
+    url: https://www.caitlinjohnst.one/p/the-empire-is-a-nonstop-insult-to
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The US has imposed sanctions on UN Human Rights Council Special Rapporteur Francesca
+      Albanese for using her position to oppose the most thoroughly documented genocide
+      in history. At the same time, the US has removed Syria’s Al Qaeda franchise HTS
+      from its list of designated terrorist organizations, because its leader successfully
+      carried out the regime change in Damascus that the western empire had been chasing
+      for years . At the same time, the UK has added nonviolent anti-genocide activism
+      group Palestine Action to its list of banned terrorist organizations for opposing
+      the Gaza holocaust. https://x.com/tparsi/status/1943011718353039614 At the same
+      time, the Israeli prime minister who is carrying out that holocaust has nominated
+      the American president who is helping him perpetrate genocidal atrocities for
+      a Nobel Peace Prize. At the same time, Israel has continued its ban on foreign
+      journalists entering Gaza, while also arresting the Israeli journalist who helped
+      expose the IDF officials who cooked up fake atrocity propaganda about burnt babies
+      on October 7. At the same time, the Trump administration has enraged its MAGA
+      base by concluding that Jeffrey Epstein had no client list for any kind of sexual
+      blackmail operation and definitely committed suicide. The western empire is one
+      nonstop insult to our intelligence. The peace advocates are terrorists, the genocide
+      architects deserve peace prizes, the journalists are dangerous, and Epstein was
+      just a wealthy socialite who made a few mistakes. https://x.com/caitoz/status/1943066539948937601
+      They do everything they can to make us stupid via propaganda, Silicon Valley information
+      control, and indoctrination schooling systems, and then they treat us like we’re
+      morons for the rest of our lives. The empire depends on ignorance. The more stupid,
+      racist, gullible, and easily distracted we become, the nastier agendas the empire
+      can roll out. Now here we are watching a live-streamed genocide unfold right in
+      front of our eyes for nearly two years while being tube fed a daily diet of the
+      most ridiculous lies imaginable. As Aaron Bushnell said, this is what our ruling
+      class has decided will be normal. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. My work is entirely reader-supported , so if you enjoyed this
+      piece here are some options where you can toss some money into my tip jar if you
+      want to. Click here for links for my mailing list, social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image by Caitlin Johnstone.'
+    one_sentence_summary: The US has sanctioned UN Human Rights Council Special Rapporteur
+      Francesca Albanese for opposing genocide, removed Syria's Al Qaeda affiliate HTS
+      from its terrorist list after it helped achieve regime change, and the UK has
+      designated the anti-genocide group Palestine Action as a terrorist organization,
+      all while Israel continues its actions in Gaza and nominates the US president
+      for a Nobel Peace Prize.
+    paragraph_summary: The article critiques the contradictory actions of the US and
+      UK regarding human rights and terrorism, highlighting the US sanctions against
+      UN Human Rights Council Special Rapporteur Francesca Albanese for opposing genocide,
+      while simultaneously removing Syria's Al Qaeda affiliate HTS from its terrorist
+      list after it achieved regime change in Damascus. It also notes the UK's designation
+      of the nonviolent anti-genocide group Palestine Action as a terrorist organization,
+      contrasting this with the Israeli prime minister nominating the US president for
+      a Nobel Peace Prize despite ongoing atrocities in Gaza. The piece argues that
+      these actions reflect a broader pattern of propaganda and misinformation that
+      serves to manipulate public perception and maintain ignorance, allowing for the
+      perpetuation of harmful agendas by those in power.
+    published: '2025-07-10T03:28:30+00:00'
   - title: In The Age Of AI, We Each Have To Choose How Much Of Our Humanity We Want
       To Keep
     url: https://www.caitlinjohnst.one/p/in-the-age-of-ai-we-each-have-to

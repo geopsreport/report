@@ -7,14 +7,702 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  Tensions in the Middle East remain high as the Israeli-Lebanese front experiences renewed violence and mounting diplomatic pressure. In the wake of Hezbollah’s rejection of the US disarmament proposal, the region has entered a new phase of confrontation, with significant implications for Lebanon and its neighbors.
+  The Israeli-Palestinian conflict continues to dominate the geopolitical landscape, with recent developments highlighting the deepening humanitarian crisis in Gaza and the persistent culture of impunity surrounding Israeli military actions. According to **Elijah J. Magnier**, Israel’s ongoing violations of international law—including targeted assassinations and collective punishment—are systematically overlooked or outright supported by Western powers. Magnier argues that this is driven by strategic alliances and a persistent narrative portraying Israel as a perpetual victim, despite mounting evidence of significant civilian casualties and widespread destruction.
   
-  The most recent development, as reported by **Elijah J. Magnier**, is the resumption of Israeli airstrikes on Lebanon after a brief pause. The strikes, particularly devastating in Nabatiyeh, have resulted in considerable destruction and casualties, prompting urgent recovery efforts by local residents and civil defense teams. This escalation comes amid intensified international efforts—especially from Western actors—to pressure Lebanon into normalizing relations with Israel, a move widely viewed within Lebanon as untenable under current circumstances.
+  A particularly alarming development is the construction of what Israel terms a “Humanitarian City” in Rafah. As detailed by **Elijah J. Magnier**, this facility is, in reality, a mass internment camp for approximately 600,000 Palestinians. Ostensibly presented as a relief measure, the site is designed for strict military control and is seen as a precursor to forced deportation and resettlement. The area around Rafah has already suffered extensive devastation from ongoing military operations, compounding the suffering of the displaced population.
   
-  The rejection of the US disarmament plan by Hezbollah marks a critical turning point. According to **Elijah J. Magnier**, this decision signals not only a refusal to accept what is perceived as an unbalanced and unreliable proposal but also a broader unwillingness to compromise Lebanese sovereignty or security guarantees. The prevailing sentiment among the Lebanese resistance and its supporters is one of resilience, with a strong resolve to resist external pressure and military threats.
+  The broader regional context is shaped by the lack of meaningful accountability for Israeli actions. Western governments, according to Magnier, continue to shield Israel from international legal consequences, enabling further escalation and undermining prospects for a negotiated settlement. This dynamic is reinforced by geopolitical interests that prioritize strategic partnerships over adherence to international norms.
   
-  Looking ahead, the situation is poised for further escalation. **Elijah J. Magnier** assesses that “war remains a strong option” for Hezbollah, given the ongoing Israeli military actions and the lack of credible diplomatic solutions. The likelihood of a wider conflict is high, especially if international actors continue to push for normalization without addressing Lebanon’s core security concerns. I guarantee that unless there is a significant shift in diplomatic engagement or a cessation of hostilities, the risk of a broader war involving Lebanon, Israel, and potentially other regional actors will persist in the coming weeks.
+  Looking ahead, the trends indicate a high likelihood that Israel will persist with its current policies, facing little effective pushback from its Western allies. As **Elijah J. Magnier** concludes, “there is a high chance” that the cycle of impunity and humanitarian crisis will continue unless there is a fundamental shift in the international approach to the conflict. I guarantee that, absent such a shift, the situation for Palestinians in Gaza—particularly those interned in Rafah—will most definitely deteriorate further, with forced displacement and long-term instability remaining the most probable outcomes.
 articles:
+  - title: 'Israel’s Culture of Impunity: How the West Shields War Crimes and Violations
+      of International Law'
+    url: https://ejmagnier.com/2025/07/15/israels-culture-of-impunity-how-the-west-shields-war-crimes-and-violations-of-international-law/
+    text: 'Tweet By Elijah J. Magnier – Israel’s repeated violations of international
+      law—from collective punishment to the targeted assassination of civilians—have
+      not only gone unpunished but are often actively supported or whitewashed by Western
+      powers. This impunity is not accidental. It’s a result of strategic alliances,
+      geopolitical interests, and a carefully constructed narrative that portrays Israel
+      as a perpetual victim, no matter the scale or severity of its actions. A Pattern
+      of Violations Across multiple fronts—Iran, Gaza, the West Bank, and Lebanon—Israel
+      has committed acts that meet the legal definitions of war crimes and crimes against
+      humanity. In the recent 12-day war on Iran, Israel launched strikes that targeted
+      civilian infrastructure: a television building, a prison, seven hospitals, and
+      dense residential areas. The result: approximately 1,070 dead, including 700 civilians,
+      with over 5,000 wounded. Among the dead were around 20 Iranian nuclear scientists.
+      During the same 12-day war, Israel attempted what amounts to a decapitation strike
+      on Iran’s sovereign leadership by dropping six bombs on a building hosting a National
+      Security Council meeting. The targets included President Masoud Pezeshkian—who
+      was reportedly wounded in the leg—the Speaker of Parliament, and the head of the
+      judiciary. This brazen act of aggression violates Article 2(4) of the UN Charter
+      , constitutes a war crime under Article 8 of the Rome Statute , and may qualify
+      as a crime against humanity . Political leaders not directly participating in
+      hostilities are considered protected civilians under international humanitarian
+      law . Bombing them during a meeting is not warfare—it is an illegal assassination
+      attempt and a direct assault on the foundations of state sovereignty. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Elijah J. Magnier's article argues that Israel's ongoing violations
+      of international law, including targeted assassinations and collective punishment,
+      are often overlooked or supported by Western powers due to strategic alliances
+      and a narrative that frames Israel as a victim, despite the significant civilian
+      casualties and destruction resulting from its military actions.
+    paragraph_summary: Elijah J. Magnier's article critiques Israel's repeated violations
+      of international law, including acts of collective punishment and targeted assassinations
+      of civilians, which have largely gone unpunished and are often supported or overlooked
+      by Western powers. This impunity is attributed to strategic alliances and geopolitical
+      interests that frame Israel as a victim despite the severity of its actions. Magnier
+      highlights recent military actions by Israel, particularly a 12-day conflict with
+      Iran that resulted in significant civilian casualties and targeted strikes on
+      key political figures, arguing that these actions constitute war crimes and crimes
+      against humanity under international law. He emphasizes that such attacks on protected
+      civilians during political meetings are illegal and undermine state sovereignty.
+    published: '2025-07-15T19:05:52+00:00'
+  - title: 'Israel’s Culture of Impunity: How the West Shields War Crimes and Violations
+      of International Law'
+    url: https://ejmagnier.com/2025/07/15/israels-culture-of-impunity-how-the-west-shields-war-crimes-and-violations-of-international-law/
+    text: 'Tweet By Elijah J. Magnier – Israel’s repeated violations of international
+      law—from collective punishment to the targeted assassination of civilians—have
+      not only gone unpunished but are often actively supported or whitewashed by Western
+      powers. This impunity is not accidental. It’s a result of strategic alliances,
+      geopolitical interests, and a carefully constructed narrative that portrays Israel
+      as a perpetual victim, no matter the scale or severity of its actions. A Pattern
+      of Violations Across multiple fronts—Iran, Gaza, the West Bank, and Lebanon—Israel
+      has committed acts that meet the legal definitions of war crimes and crimes against
+      humanity. In the recent 12-day war on Iran, Israel launched strikes that targeted
+      civilian infrastructure: a television building, a prison, seven hospitals, and
+      dense residential areas. The result: approximately 1,070 dead, including 700 civilians,
+      with over 5,000 wounded. Among the dead were around 20 Iranian nuclear scientists.
+      During the same 12-day war, Israel attempted what amounts to a decapitation strike
+      on Iran’s sovereign leadership by dropping six bombs on a building hosting a National
+      Security Council meeting. The targets included President Masoud Pezeshkian—who
+      was reportedly wounded in the leg—the Speaker of Parliament, and the head of the
+      judiciary. This brazen act of aggression violates Article 2(4) of the UN Charter
+      , constitutes a war crime under Article 8 of the Rome Statute , and may qualify
+      as a crime against humanity . Political leaders not directly participating in
+      hostilities are considered protected civilians under international humanitarian
+      law . Bombing them during a meeting is not warfare—it is an illegal assassination
+      attempt and a direct assault on the foundations of state sovereignty. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Elijah J. Magnier's article argues that Israel's ongoing violations
+      of international law, including targeted assassinations and collective punishment,
+      are often overlooked or supported by Western powers due to strategic alliances
+      and a narrative that frames Israel as a victim, despite the significant civilian
+      casualties and destruction resulting from its military actions.
+    paragraph_summary: Elijah J. Magnier's article critiques Israel's repeated violations
+      of international law, including acts of collective punishment and targeted assassinations
+      of civilians, which have largely gone unpunished and are often supported or overlooked
+      by Western powers. This impunity is attributed to strategic alliances and geopolitical
+      interests that frame Israel as a victim despite the severity of its actions. Magnier
+      highlights recent military actions by Israel, particularly a 12-day conflict with
+      Iran that resulted in significant civilian casualties and targeted strikes on
+      key political figures, arguing that these actions constitute war crimes and crimes
+      against humanity under international law. He emphasizes that such attacks on protected
+      civilians during political meetings are illegal and undermine state sovereignty.
+    published: '2025-07-15T19:05:52+00:00'
+  - title: 'La culture de l’impunité d’Israël : Comment l’Occident couvre les crimes
+      de guerre et les violations du droit international'
+    url: https://ejmagnier.com/2025/07/15/la-culture-de-limpunite-disrael-comment-loccident-couvre-les-crimes-de-guerre-et-les-violations-du-droit-international/
+    text: 'Tweet Par Elijah J. Magnier – Les violations répétées du droit international
+      par Israël—du châtiment collectif à l’assassinat ciblé de civils—restent non seulement
+      impunies, mais sont souvent soutenues ou blanchies par les puissances occidentales.
+      Cette impunité n’est pas un accident. Elle résulte d’alliances stratégiques, d’intérêts
+      géopolitiques et d’un récit soigneusement construit qui présente Israël comme
+      une victime perpétuelle, quel que soit l’ampleur ou la gravité de ses actes. Un
+      schéma de violations Sur plusieurs fronts—Iran, Gaza, Cisjordanie et Liban—Israël
+      a commis des actes qui correspondent aux définitions légales des crimes de guerre
+      et des crimes contre l’humanité. Lors de la récente guerre de 12 jours contre
+      l’Iran, Israël a mené des frappes visant des infrastructures civiles : un bâtiment
+      de télévision, une prison, sept hôpitaux et des zones résidentielles densément
+      peuplées. Le bilan : environ 1 070 morts, dont 700 civils, et plus de 5 000 blessés.
+      Parmi les morts figuraient une vingtaine de scientifiques nucléaires iraniens.
+      Durant la même guerre, Israël a tenté ce qui s’apparente à une frappe de décapitation
+      contre la direction souveraine iranienne en larguant six bombes sur un bâtiment
+      abritant une réunion du Conseil de sécurité nationale. Les cibles comprenaient
+      le président Masoud Pezeshkian—présumé blessé à la jambe—le président du Parlement
+      et le chef de l’appareil judiciaire. Cet acte d’agression flagrant viole l’article
+      2(4) de la Charte de l’ONU, constitue un crime de guerre selon l’article 8 du
+      Statut de Rome, et pourrait être qualifié de crime contre l’humanité. Les dirigeants
+      politiques ne participant pas directement aux hostilités sont considérés comme
+      des civils protégés par le droit humanitaire international. Les bombarder pendant
+      une réunion n’est pas un acte de guerre—c’est une tentative d’assassinat illégale
+      et une attaque directe contre les fondements de la souveraineté étatique. Ce n’était
+      pas une opération défensive—mais une tentative calculée de décapiter l’État iranien.
+      L’objectif n’était pas une victoire militaire, mais l’anéantissement de la structure
+      dirigeante du pays afin de provoquer un État failli, changer le système en place
+      et affaiblir sa base scientifique. En droit international, cela constitue non
+      seulement un acte d’agression mais un assassinat politique ciblé—explicitement
+      interdit par la Charte de l’ONU et les Conventions de Genève. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'article souligne que les violations répétées du droit international
+      par Israël, y compris des actes de châtiment collectif et des assassinats ciblés
+      de civils, sont souvent soutenues par les puissances occidentales en raison d'intérêts
+      géopolitiques, malgré leur qualification en tant que crimes de guerre et crimes
+      contre l'humanité.
+    paragraph_summary: L'article d'Elijah J. Magnier met en lumière les violations répétées
+      du droit international par Israël, notamment à travers des actes de châtiment
+      collectif et des assassinats ciblés de civils, qui restent largement impunis grâce
+      au soutien des puissances occidentales. Cette impunité est attribuée à des alliances
+      stratégiques et à un récit qui dépeint Israël comme une victime, indépendamment
+      de la gravité de ses actions. Magnier décrit des exemples récents, notamment des
+      frappes israéliennes en Iran qui ont causé la mort de nombreux civils et des tentatives
+      d'assassinat de dirigeants iraniens, qualifiant ces actes de crimes de guerre
+      et de crimes contre l'humanité selon le droit international. Il souligne que ces
+      attaques, loin d'être des opérations défensives, constituent des agressions illégales
+      contre la souveraineté étatique.
+    published: '2025-07-15T19:04:45+00:00'
+  - title: 'La culture de l’impunité d’Israël : Comment l’Occident couvre les crimes
+      de guerre et les violations du droit international'
+    url: https://ejmagnier.com/2025/07/15/la-culture-de-limpunite-disrael-comment-loccident-couvre-les-crimes-de-guerre-et-les-violations-du-droit-international/
+    text: 'Tweet Par Elijah J. Magnier – Les violations répétées du droit international
+      par Israël—du châtiment collectif à l’assassinat ciblé de civils—restent non seulement
+      impunies, mais sont souvent soutenues ou blanchies par les puissances occidentales.
+      Cette impunité n’est pas un accident. Elle résulte d’alliances stratégiques, d’intérêts
+      géopolitiques et d’un récit soigneusement construit qui présente Israël comme
+      une victime perpétuelle, quel que soit l’ampleur ou la gravité de ses actes. Un
+      schéma de violations Sur plusieurs fronts—Iran, Gaza, Cisjordanie et Liban—Israël
+      a commis des actes qui correspondent aux définitions légales des crimes de guerre
+      et des crimes contre l’humanité. Lors de la récente guerre de 12 jours contre
+      l’Iran, Israël a mené des frappes visant des infrastructures civiles : un bâtiment
+      de télévision, une prison, sept hôpitaux et des zones résidentielles densément
+      peuplées. Le bilan : environ 1 070 morts, dont 700 civils, et plus de 5 000 blessés.
+      Parmi les morts figuraient une vingtaine de scientifiques nucléaires iraniens.
+      Durant la même guerre, Israël a tenté ce qui s’apparente à une frappe de décapitation
+      contre la direction souveraine iranienne en larguant six bombes sur un bâtiment
+      abritant une réunion du Conseil de sécurité nationale. Les cibles comprenaient
+      le président Masoud Pezeshkian—présumé blessé à la jambe—le président du Parlement
+      et le chef de l’appareil judiciaire. Cet acte d’agression flagrant viole l’article
+      2(4) de la Charte de l’ONU, constitue un crime de guerre selon l’article 8 du
+      Statut de Rome, et pourrait être qualifié de crime contre l’humanité. Les dirigeants
+      politiques ne participant pas directement aux hostilités sont considérés comme
+      des civils protégés par le droit humanitaire international. Les bombarder pendant
+      une réunion n’est pas un acte de guerre—c’est une tentative d’assassinat illégale
+      et une attaque directe contre les fondements de la souveraineté étatique. Ce n’était
+      pas une opération défensive—mais une tentative calculée de décapiter l’État iranien.
+      L’objectif n’était pas une victoire militaire, mais l’anéantissement de la structure
+      dirigeante du pays afin de provoquer un État failli, changer le système en place
+      et affaiblir sa base scientifique. En droit international, cela constitue non
+      seulement un acte d’agression mais un assassinat politique ciblé—explicitement
+      interdit par la Charte de l’ONU et les Conventions de Genève. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'article souligne que les violations répétées du droit international
+      par Israël, y compris des actes de châtiment collectif et des assassinats ciblés
+      de civils, sont souvent soutenues par les puissances occidentales en raison d'intérêts
+      géopolitiques, malgré leur qualification en tant que crimes de guerre et crimes
+      contre l'humanité.
+    paragraph_summary: L'article d'Elijah J. Magnier met en lumière les violations répétées
+      du droit international par Israël, notamment à travers des actes de châtiment
+      collectif et des assassinats ciblés de civils, qui restent largement impunis grâce
+      au soutien des puissances occidentales. Cette impunité est attribuée à des alliances
+      stratégiques et à un récit qui dépeint Israël comme une victime, indépendamment
+      de la gravité de ses actions. Magnier décrit des exemples récents, notamment des
+      frappes israéliennes en Iran qui ont causé la mort de nombreux civils et des tentatives
+      d'assassinat de dirigeants iraniens, qualifiant ces actes de crimes de guerre
+      et de crimes contre l'humanité selon le droit international. Il souligne que ces
+      attaques, loin d'être des opérations défensives, constituent des agressions illégales
+      contre la souveraineté étatique.
+    published: '2025-07-15T19:04:45+00:00'
+  - title: 'Israels Kultur der Straflosigkeit: Wie der Westen Kriegsverbrechen und Verstöße
+      gegen das Völkerrecht schützt'
+    url: https://ejmagnier.com/2025/07/15/israels-kultur-der-straflosigkeit-wie-der-westen-kriegsverbrechen-und-verstose-gegen-das-volkerrecht-schutzt/
+    text: 'Tweet Von Elijah J. Magnier – Israels wiederholte Verstöße gegen das Völkerrecht
+      – von kollektiven Bestrafungen bis hin zur gezielten Tötung von Zivilisten – bleiben
+      nicht nur ungestraft, sondern werden oft sogar aktiv von westlichen Mächten unterstützt
+      oder beschönigt. Diese Straflosigkeit ist kein Zufall. Sie ist das Ergebnis strategischer
+      Allianzen, geopolitischer Interessen und einer sorgfältig konstruierten Erzählung,
+      die Israel als ewiges Opfer darstellt, unabhängig vom Ausmaß oder der Schwere
+      seiner Handlungen. Ein Muster von Verstößen An mehreren Fronten – im Iran, im
+      Gazastreifen, im Westjordanland und im Libanon – hat Israel Handlungen begangen,
+      die nach dem Völkerrecht als Kriegsverbrechen und Verbrechen gegen die Menschlichkeit
+      gelten. In dem jüngsten 12-tägigen Krieg gegen den Iran führte Israel Angriffe
+      auf zivile Infrastruktur durch: ein Fernsehgebäude, ein Gefängnis, sieben Krankenhäuser
+      und dicht besiedelte Wohngebiete. Die Folge: etwa 1.070 Tote, darunter 700 Zivilisten,
+      und über 5.000 Verletzte. Unter den Toten befanden sich etwa 20 iranische Atomwissenschaftler.
+      Während desselben 12-tägigen Krieges versuchte Israel einen Enthauptungsschlag
+      gegen die souveräne Führung des Iran, indem es sechs Bomben auf ein Gebäude abwarf,
+      in dem eine Sitzung des Nationalen Sicherheitsrates stattfand. Zu den Zielen gehörten
+      Präsident Masoud Pezeshkian, der Berichten zufolge am Bein verletzt wurde, der
+      Parlamentspräsident und der Vorsitzende der Justiz. Dieser dreiste Akt der Aggression
+      verstößt gegen Artikel 2 Absatz 4 der Charta der Vereinten Nationen , stellt ein
+      Kriegsverbrechen gemäß Artikel 8 des Römischen Statuts dar und kann als Verbrechen
+      gegen die Menschlichkeit eingestuft werden. Politische Führer, die nicht direkt
+      an Feindseligkeiten beteiligt sind, gelten nach dem humanitären Völkerrecht als
+      geschützte Zivilpersonen. Sie während einer Sitzung zu bombardieren, ist keine
+      Kriegsführung – es ist ein illegaler Mordversuch und ein direkter Angriff auf
+      die Grundlagen der staatlichen Souveränität. Dies war keine Verteidigungsoperation,
+      sondern ein kalkulierter Versuch, den iranischen Staat zu enthaupten. Das Ziel
+      war nicht ein militärischer Sieg, sondern die Vernichtung der Führungsstruktur
+      eines Landes, um einen gescheiterten Staat zu schaffen oder das herrschende System
+      zu ändern und seine wissenschaftliche Basis zu zerstören. Nach internationalem
+      Recht stellt dies nicht nur eine Aggression dar, sondern auch einen gezielten
+      politischen Mord, der gemäß der UN-Charta und den Genfer Konventionen ausdrücklich
+      illegal ist. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Der Artikel von Elijah J. Magnier kritisiert Israels wiederholte
+      Verstöße gegen das Völkerrecht, einschließlich kollektiver Bestrafungen und gezielter
+      Tötungen von Zivilisten, die oft von westlichen Mächten unterstützt oder beschönigt
+      werden, und hebt hervor, dass diese Straflosigkeit das Ergebnis strategischer
+      Allianzen und geopolitischer Interessen ist.
+    paragraph_summary: Elijah J. Magnier's tweet highlights Israel's repeated violations
+      of international law, including collective punishment and targeted killings of
+      civilians, which often go unpunished and are sometimes supported or downplayed
+      by Western powers. This impunity is attributed to strategic alliances and geopolitical
+      interests that frame Israel as a perpetual victim, regardless of its actions.
+      The article details Israel's recent military operations, particularly a 12-day
+      conflict with Iran, during which it targeted civilian infrastructure, resulting
+      in approximately 1,070 deaths, including 700 civilians, and over 5,000 injuries.
+      Notably, Israel attempted to assassinate key Iranian leaders during this conflict,
+      actions that violate the UN Charter and constitute war crimes and crimes against
+      humanity under international law.
+    published: '2025-07-15T19:02:19+00:00'
+  - title: 'Israels Kultur der Straflosigkeit: Wie der Westen Kriegsverbrechen und Verstöße
+      gegen das Völkerrecht schützt'
+    url: https://ejmagnier.com/2025/07/15/israels-kultur-der-straflosigkeit-wie-der-westen-kriegsverbrechen-und-verstose-gegen-das-volkerrecht-schutzt/
+    text: 'Tweet Von Elijah J. Magnier – Israels wiederholte Verstöße gegen das Völkerrecht
+      – von kollektiven Bestrafungen bis hin zur gezielten Tötung von Zivilisten – bleiben
+      nicht nur ungestraft, sondern werden oft sogar aktiv von westlichen Mächten unterstützt
+      oder beschönigt. Diese Straflosigkeit ist kein Zufall. Sie ist das Ergebnis strategischer
+      Allianzen, geopolitischer Interessen und einer sorgfältig konstruierten Erzählung,
+      die Israel als ewiges Opfer darstellt, unabhängig vom Ausmaß oder der Schwere
+      seiner Handlungen. Ein Muster von Verstößen An mehreren Fronten – im Iran, im
+      Gazastreifen, im Westjordanland und im Libanon – hat Israel Handlungen begangen,
+      die nach dem Völkerrecht als Kriegsverbrechen und Verbrechen gegen die Menschlichkeit
+      gelten. In dem jüngsten 12-tägigen Krieg gegen den Iran führte Israel Angriffe
+      auf zivile Infrastruktur durch: ein Fernsehgebäude, ein Gefängnis, sieben Krankenhäuser
+      und dicht besiedelte Wohngebiete. Die Folge: etwa 1.070 Tote, darunter 700 Zivilisten,
+      und über 5.000 Verletzte. Unter den Toten befanden sich etwa 20 iranische Atomwissenschaftler.
+      Während desselben 12-tägigen Krieges versuchte Israel einen Enthauptungsschlag
+      gegen die souveräne Führung des Iran, indem es sechs Bomben auf ein Gebäude abwarf,
+      in dem eine Sitzung des Nationalen Sicherheitsrates stattfand. Zu den Zielen gehörten
+      Präsident Masoud Pezeshkian, der Berichten zufolge am Bein verletzt wurde, der
+      Parlamentspräsident und der Vorsitzende der Justiz. Dieser dreiste Akt der Aggression
+      verstößt gegen Artikel 2 Absatz 4 der Charta der Vereinten Nationen , stellt ein
+      Kriegsverbrechen gemäß Artikel 8 des Römischen Statuts dar und kann als Verbrechen
+      gegen die Menschlichkeit eingestuft werden. Politische Führer, die nicht direkt
+      an Feindseligkeiten beteiligt sind, gelten nach dem humanitären Völkerrecht als
+      geschützte Zivilpersonen. Sie während einer Sitzung zu bombardieren, ist keine
+      Kriegsführung – es ist ein illegaler Mordversuch und ein direkter Angriff auf
+      die Grundlagen der staatlichen Souveränität. Dies war keine Verteidigungsoperation,
+      sondern ein kalkulierter Versuch, den iranischen Staat zu enthaupten. Das Ziel
+      war nicht ein militärischer Sieg, sondern die Vernichtung der Führungsstruktur
+      eines Landes, um einen gescheiterten Staat zu schaffen oder das herrschende System
+      zu ändern und seine wissenschaftliche Basis zu zerstören. Nach internationalem
+      Recht stellt dies nicht nur eine Aggression dar, sondern auch einen gezielten
+      politischen Mord, der gemäß der UN-Charta und den Genfer Konventionen ausdrücklich
+      illegal ist. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Der Artikel von Elijah J. Magnier kritisiert Israels wiederholte
+      Verstöße gegen das Völkerrecht, einschließlich kollektiver Bestrafungen und gezielter
+      Tötungen von Zivilisten, die oft von westlichen Mächten unterstützt oder beschönigt
+      werden, und hebt hervor, dass diese Straflosigkeit das Ergebnis strategischer
+      Allianzen und geopolitischer Interessen ist.
+    paragraph_summary: Elijah J. Magnier's tweet highlights Israel's repeated violations
+      of international law, including collective punishment and targeted killings of
+      civilians, which often go unpunished and are sometimes supported or downplayed
+      by Western powers. This impunity is attributed to strategic alliances and geopolitical
+      interests that frame Israel as a perpetual victim, regardless of its actions.
+      The article details Israel's recent military operations, particularly a 12-day
+      conflict with Iran, during which it targeted civilian infrastructure, resulting
+      in approximately 1,070 deaths, including 700 civilians, and over 5,000 injuries.
+      Notably, Israel attempted to assassinate key Iranian leaders during this conflict,
+      actions that violate the UN Charter and constitute war crimes and crimes against
+      humanity under international law.
+    published: '2025-07-15T19:02:19+00:00'
+  - title: 'Rafah’s “Humanitaire Stad”: een concentratiekamp vermomd als hulp, in afwachting
+      van gedwongen deportatie'
+    url: https://ejmagnier.com/2025/07/15/rafahs-humanitaire-stad-een-concentratiekamp-vermomd-als-hulp-in-afwachting-van-gedwongen-deportatie/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Israël
+      bouwt wat het een “Humanitaire Stad” noemt in Rafah, aan de zuidelijke grens van
+      Gaza met Egypte. Maar dit is geen hulpgebied – het is een massale interneringsfaciliteit.
+      Het project, dat wordt gepresenteerd als tijdelijke opvang voor ontheemde burgers,
+      is in feite een concentratiekamp dat is ontworpen om 600.000 Palestijnen onder
+      militair toezicht vast te houden, beroofd van hun vrijheid en in afwachting van
+      gedwongen herhuisvesting. De Israëlische minister van Defensie, Israel Katz, heeft
+      openlijk bevestigd wat de bedoeling achter dit plan is. In plaats van veiligheid
+      te bieden, versterkt de zogenaamde humanitaire zone de controle en maakt ze de
+      weg vrij voor massale deportatie. Het gebied in kwestie – Rafah – is zelf al verwoest.
+      Bijna 28.000 gebouwen zijn met de grond gelijk gemaakt door Israëlische aanvallen
+      en bulldozers. De ruïnes bieden geen onderdak, geen infrastructuur en geen toekomst.
+      En toch is dit de plek waar Israël meer dan een half miljoen Palestijnen wil samenbrengen.
+      Tientallen scholen en medische centra zijn opzettelijk gespaard – niet uit barmhartigheid,
+      maar als logistieke infrastructuur voor de binnenkomende bevolking. Deze voorzieningen
+      zijn bedoeld om een bevolking te bedienen die met geweld in een beperkte ruimte
+      wordt gedreven, voordat ze stap voor stap naar de Sinaï of een ander land wordt
+      gedreven dat bereid is een tweede Nakba te herbergen. De eerste vond plaats in
+      1948. Nu, 77 jaar later, organiseert Israël, met de duidelijke goedkeuring van
+      de Verenigde Staten, een nieuwe. De Israëlische regering is van plan de locatie
+      in Rafah niet te gebruiken om burgers te beschermen, maar om hen te isoleren.
+      Palestijnen die de zone binnenkomen, zullen door de Israëlische inlichtingendienst
+      worden gescreend aan de hand van vooraf opgestelde dossiers. Volgens Israel Hayom
+      zal iedereen die buiten de grenzen van het kamp blijft, automatisch als Hamas-agent
+      worden bestempeld en worden uitgeroeid. Dit is geen humanitaire hulp, maar bevolkingscontrole
+      met geweld, met dodelijke gevolgen voor wie zich niet aan de regels houdt. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israël bouwt in Rafah een zogenaamde "Humanitaire Stad" die
+      in werkelijkheid een massale interneringsfaciliteit is voor 600.000 Palestijnen,
+      bedoeld om hen onder militair toezicht vast te houden en voor te bereiden op gedwongen
+      herhuisvesting, terwijl het gebied zelf al verwoest is.
+    paragraph_summary: Elijah J. Magnier's article, translated by Francis J., discusses
+      Israel's construction of what it calls a "Humanitarian City" in Rafah, near the
+      Gaza-Egypt border, which is actually a large internment facility designed to hold
+      600,000 Palestinians under military supervision. This project, presented as temporary
+      shelter for displaced citizens, is characterized as a concentration camp aimed
+      at facilitating mass deportation rather than providing safety. The area of Rafah
+      has already been devastated, with nearly 28,000 buildings destroyed by Israeli
+      attacks, leaving no infrastructure for the incoming population. While some schools
+      and medical centers remain intact, they are intended to serve the forcibly confined
+      individuals rather than provide genuine humanitarian aid. The article suggests
+      that this initiative, supported by the United States, is part of a broader plan
+      to isolate and control Palestinians, echoing the historical context of the Nakba
+      of 1948.
+    published: '2025-07-15T04:04:24+00:00'
+  - title: 'Rafah’s “Humanitaire Stad”: een concentratiekamp vermomd als hulp, in afwachting
+      van gedwongen deportatie'
+    url: https://ejmagnier.com/2025/07/15/rafahs-humanitaire-stad-een-concentratiekamp-vermomd-als-hulp-in-afwachting-van-gedwongen-deportatie/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Israël
+      bouwt wat het een “Humanitaire Stad” noemt in Rafah, aan de zuidelijke grens van
+      Gaza met Egypte. Maar dit is geen hulpgebied – het is een massale interneringsfaciliteit.
+      Het project, dat wordt gepresenteerd als tijdelijke opvang voor ontheemde burgers,
+      is in feite een concentratiekamp dat is ontworpen om 600.000 Palestijnen onder
+      militair toezicht vast te houden, beroofd van hun vrijheid en in afwachting van
+      gedwongen herhuisvesting. De Israëlische minister van Defensie, Israel Katz, heeft
+      openlijk bevestigd wat de bedoeling achter dit plan is. In plaats van veiligheid
+      te bieden, versterkt de zogenaamde humanitaire zone de controle en maakt ze de
+      weg vrij voor massale deportatie. Het gebied in kwestie – Rafah – is zelf al verwoest.
+      Bijna 28.000 gebouwen zijn met de grond gelijk gemaakt door Israëlische aanvallen
+      en bulldozers. De ruïnes bieden geen onderdak, geen infrastructuur en geen toekomst.
+      En toch is dit de plek waar Israël meer dan een half miljoen Palestijnen wil samenbrengen.
+      Tientallen scholen en medische centra zijn opzettelijk gespaard – niet uit barmhartigheid,
+      maar als logistieke infrastructuur voor de binnenkomende bevolking. Deze voorzieningen
+      zijn bedoeld om een bevolking te bedienen die met geweld in een beperkte ruimte
+      wordt gedreven, voordat ze stap voor stap naar de Sinaï of een ander land wordt
+      gedreven dat bereid is een tweede Nakba te herbergen. De eerste vond plaats in
+      1948. Nu, 77 jaar later, organiseert Israël, met de duidelijke goedkeuring van
+      de Verenigde Staten, een nieuwe. De Israëlische regering is van plan de locatie
+      in Rafah niet te gebruiken om burgers te beschermen, maar om hen te isoleren.
+      Palestijnen die de zone binnenkomen, zullen door de Israëlische inlichtingendienst
+      worden gescreend aan de hand van vooraf opgestelde dossiers. Volgens Israel Hayom
+      zal iedereen die buiten de grenzen van het kamp blijft, automatisch als Hamas-agent
+      worden bestempeld en worden uitgeroeid. Dit is geen humanitaire hulp, maar bevolkingscontrole
+      met geweld, met dodelijke gevolgen voor wie zich niet aan de regels houdt. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israël bouwt in Rafah een zogenaamde "Humanitaire Stad" die
+      in werkelijkheid een massale interneringsfaciliteit is voor 600.000 Palestijnen,
+      bedoeld om hen onder militair toezicht vast te houden en voor te bereiden op gedwongen
+      herhuisvesting, terwijl het gebied zelf al verwoest is.
+    paragraph_summary: Elijah J. Magnier's article, translated by Francis J., discusses
+      Israel's construction of what it calls a "Humanitarian City" in Rafah, near the
+      Gaza-Egypt border, which is actually a large internment facility designed to hold
+      600,000 Palestinians under military supervision. This project, presented as temporary
+      shelter for displaced citizens, is characterized as a concentration camp aimed
+      at facilitating mass deportation rather than providing safety. The area of Rafah
+      has already been devastated, with nearly 28,000 buildings destroyed by Israeli
+      attacks, leaving no infrastructure for the incoming population. While some schools
+      and medical centers remain intact, they are intended to serve the forcibly confined
+      individuals rather than provide genuine humanitarian aid. The article suggests
+      that this initiative, supported by the United States, is part of a broader plan
+      to isolate and control Palestinians, echoing the historical context of the Nakba
+      of 1948.
+    published: '2025-07-15T04:04:24+00:00'
+  - title: 'Rafahs „humanitäre Stadt“: Ein als Hilfsprojekt getarntes Konzentrationslager,
+      in dem Menschen auf ihre Zwangsdeportation warten'
+    url: https://ejmagnier.com/2025/07/13/rafahs-humanitare-stadt-ein-als-hilfsprojekt-getarntes-konzentrationslager-in-dem-menschen-auf-ihre-zwangsdeportation-warten/
+    text: Tweet Von Elijah J. Magnier Israel baut in Rafah, an der südlichen Grenze
+      Gazas zu Ägypten, eine sogenannte „humanitäre Stadt“. Doch dabei handelt es sich
+      nicht um eine Notunterkunft, sondern um ein Masseninternierungslager. Das Projekt,
+      das als vorübergehende Unterkunft für vertriebene Zivilisten dargestellt wird,
+      ist in Wirklichkeit ein Konzentrationslager, in dem 600.000 Palästinenser unter
+      militärischer Bewachung festgehalten werden sollen, ihrer Freiheit beraubt und
+      auf ihre Zwangsumsiedlung wartend. Der israelische Verteidigungsminister Israel
+      Katz hat die Absicht hinter diesem Vorhaben offen bestätigt. Weit davon entfernt,
+      Sicherheit zu bieten, festigt die sogenannte humanitäre Zone die Kontrolle und
+      bereitet den Boden für Massenvertreibungen. Das betreffende Gebiet – Rafah – ist
+      bereits verwüstet. Fast 28.000 Gebäude wurden durch israelische Angriffe und Bulldozer
+      dem Erdboden gleichgemacht. Die Ruinen bieten keinen Schutz, keine Infrastruktur
+      und keine Zukunft. Und dennoch plant Israel, hier über eine halbe Million Palästinenser
+      zusammenzutreiben. Dutzende Schulen und medizinische Einrichtungen wurden absichtlich
+      verschont – nicht aus Gnade, sondern als logistische Infrastruktur für die ankommende
+      Bevölkerung. Diese Einrichtungen sollen einer Bevölkerung dienen, die gewaltsam
+      auf engstem Raum zusammengetrieben wird, bevor sie Schritt für Schritt in Richtung
+      Sinai oder in ein anderes Land gedrängt wird, das bereit ist, eine zweite Nakba
+      zu beherbergen. Die erste fand 1948 statt. Jetzt, 77 Jahre später, orchestriert
+      Israel mit der klaren Zustimmung der Vereinigten Staaten eine weitere. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israel baut in Rafah eine als "humanitäre Stadt" bezeichnete
+      Einrichtung, die in Wirklichkeit ein Masseninternierungslager für 600.000 Palästinenser
+      darstellt, während die Region durch militärische Angriffe stark verwüstet wurde.
+    paragraph_summary: Israel is constructing a so-called "humanitarian city" in Rafah,
+      near the southern Gaza-Egypt border, which is being portrayed as a temporary shelter
+      for displaced civilians but is, in reality, a mass internment camp designed to
+      hold 600,000 Palestinians under military supervision. Israeli Defense Minister
+      Israel Katz has confirmed that this initiative is aimed at consolidating control
+      and facilitating mass displacement rather than providing safety. The area of Rafah
+      has already been devastated, with nearly 28,000 buildings destroyed by Israeli
+      attacks, leaving no infrastructure or future for the inhabitants. While some schools
+      and medical facilities have been spared, they are intended to serve the forcibly
+      gathered population before they are pushed towards Sinai or other countries, echoing
+      the historical context of the Nakba in 1948.
+    published: '2025-07-13T02:51:06+00:00'
+  - title: 'Rafahs „humanitäre Stadt“: Ein als Hilfsprojekt getarntes Konzentrationslager,
+      in dem Menschen auf ihre Zwangsdeportation warten'
+    url: https://ejmagnier.com/2025/07/13/rafahs-humanitare-stadt-ein-als-hilfsprojekt-getarntes-konzentrationslager-in-dem-menschen-auf-ihre-zwangsdeportation-warten/
+    text: Tweet Von Elijah J. Magnier Israel baut in Rafah, an der südlichen Grenze
+      Gazas zu Ägypten, eine sogenannte „humanitäre Stadt“. Doch dabei handelt es sich
+      nicht um eine Notunterkunft, sondern um ein Masseninternierungslager. Das Projekt,
+      das als vorübergehende Unterkunft für vertriebene Zivilisten dargestellt wird,
+      ist in Wirklichkeit ein Konzentrationslager, in dem 600.000 Palästinenser unter
+      militärischer Bewachung festgehalten werden sollen, ihrer Freiheit beraubt und
+      auf ihre Zwangsumsiedlung wartend. Der israelische Verteidigungsminister Israel
+      Katz hat die Absicht hinter diesem Vorhaben offen bestätigt. Weit davon entfernt,
+      Sicherheit zu bieten, festigt die sogenannte humanitäre Zone die Kontrolle und
+      bereitet den Boden für Massenvertreibungen. Das betreffende Gebiet – Rafah – ist
+      bereits verwüstet. Fast 28.000 Gebäude wurden durch israelische Angriffe und Bulldozer
+      dem Erdboden gleichgemacht. Die Ruinen bieten keinen Schutz, keine Infrastruktur
+      und keine Zukunft. Und dennoch plant Israel, hier über eine halbe Million Palästinenser
+      zusammenzutreiben. Dutzende Schulen und medizinische Einrichtungen wurden absichtlich
+      verschont – nicht aus Gnade, sondern als logistische Infrastruktur für die ankommende
+      Bevölkerung. Diese Einrichtungen sollen einer Bevölkerung dienen, die gewaltsam
+      auf engstem Raum zusammengetrieben wird, bevor sie Schritt für Schritt in Richtung
+      Sinai oder in ein anderes Land gedrängt wird, das bereit ist, eine zweite Nakba
+      zu beherbergen. Die erste fand 1948 statt. Jetzt, 77 Jahre später, orchestriert
+      Israel mit der klaren Zustimmung der Vereinigten Staaten eine weitere. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israel baut in Rafah eine als "humanitäre Stadt" bezeichnete
+      Einrichtung, die in Wirklichkeit ein Masseninternierungslager für 600.000 Palästinenser
+      darstellt, während die Region durch militärische Angriffe stark verwüstet wurde.
+    paragraph_summary: Israel is constructing a so-called "humanitarian city" in Rafah,
+      near the southern Gaza-Egypt border, which is being portrayed as a temporary shelter
+      for displaced civilians but is, in reality, a mass internment camp designed to
+      hold 600,000 Palestinians under military supervision. Israeli Defense Minister
+      Israel Katz has confirmed that this initiative is aimed at consolidating control
+      and facilitating mass displacement rather than providing safety. The area of Rafah
+      has already been devastated, with nearly 28,000 buildings destroyed by Israeli
+      attacks, leaving no infrastructure or future for the inhabitants. While some schools
+      and medical facilities have been spared, they are intended to serve the forcibly
+      gathered population before they are pushed towards Sinai or other countries, echoing
+      the historical context of the Nakba in 1948.
+    published: '2025-07-13T02:51:06+00:00'
+  - title: 'Rafah’s “Humanitarian City”: A Concentration Camp Disguised as Aid Awaiting
+      forcible Deportation'
+    url: https://ejmagnier.com/2025/07/12/rafahs-humanitarian-city-a-concentration-camp-disguised-as-aid-awaiting-forcible-deportation/
+    text: Tweet By Elijah J. Magnier Israel is building what it calls a “Humanitarian
+      City” in Rafah, on Gaza’s southern border with Egypt. But this is not a zone of
+      relief—it is a mass internment facility. Framed as temporary shelter for displaced
+      civilians, the project is, in effect, a concentration camp designed to hold 600,000
+      Palestinians under military watch, stripped of freedom and awaiting forced relocation.
+      Israeli Defence Minister Israel Katz has openly confirmed the intention behind
+      this effort. Far from offering safety, the so-called humanitarian zone consolidates
+      control and sets the stage for mass deportation. The area in question—Rafah—is
+      itself already devastated. Nearly 28,000 buildings have been flattened by Israeli
+      strikes and bulldozers. The ruins offer no shelter, no infrastructure, and no
+      future. And yet, this is where Israel plans to force over half a million Palestinians
+      to gather. Dozens of schools and medical centres were intentionally spared—not
+      as a mercy, but as logistical infrastructure for the incoming population. These
+      facilities are intended to serve a population forcibly corralled into a confined
+      space, before being pushed, step by step, toward the Sinai or any other country
+      willing to play host to a second Nakba. The first occurred in 1948. Now, 77 years
+      later, Israel, with the clear approval of the United States, is orchestrating
+      another. The Israeli government intends to use the Rafah site not to protect civilians,
+      but to isolate them. Palestinians who enter the zone will be screened by Israeli
+      intelligence using precompiled dossiers. According to Israel Hayom , anyone remaining
+      outside the camp boundaries will automatically be labelled a Hamas operative and
+      targeted for elimination. This is not humanitarian work—it is population control
+      by force, with deadly consequences for noncompliance. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israel is constructing a "Humanitarian City" in Rafah, which
+      is actually a mass internment facility for 600,000 Palestinians, intended for
+      military control and forced relocation rather than genuine relief.
+    paragraph_summary: Israel is constructing a so-called "Humanitarian City" in Rafah,
+      Gaza, which is actually a mass internment facility designed to confine 600,000
+      Palestinians under military surveillance, effectively functioning as a concentration
+      camp rather than a relief zone. Israeli Defence Minister Israel Katz has confirmed
+      that the purpose of this facility is not to provide safety but to consolidate
+      control and facilitate mass deportation. The area, already devastated by Israeli
+      strikes, lacks adequate shelter and infrastructure, with the remaining schools
+      and medical centers repurposed to support the incoming population. Palestinians
+      entering this zone will be screened by Israeli intelligence, while those outside
+      will be deemed Hamas operatives and targeted for elimination. This initiative
+      is viewed as a method of population control rather than humanitarian aid, echoing
+      the historical displacement of Palestinians during the Nakba in 1948.
+    published: '2025-07-12T16:43:37+00:00'
+  - title: 'Rafah’s “Humanitarian City”: A Concentration Camp Disguised as Aid Awaiting
+      forcible Deportation'
+    url: https://ejmagnier.com/2025/07/12/rafahs-humanitarian-city-a-concentration-camp-disguised-as-aid-awaiting-forcible-deportation/
+    text: Tweet By Elijah J. Magnier Israel is building what it calls a “Humanitarian
+      City” in Rafah, on Gaza’s southern border with Egypt. But this is not a zone of
+      relief—it is a mass internment facility. Framed as temporary shelter for displaced
+      civilians, the project is, in effect, a concentration camp designed to hold 600,000
+      Palestinians under military watch, stripped of freedom and awaiting forced relocation.
+      Israeli Defence Minister Israel Katz has openly confirmed the intention behind
+      this effort. Far from offering safety, the so-called humanitarian zone consolidates
+      control and sets the stage for mass deportation. The area in question—Rafah—is
+      itself already devastated. Nearly 28,000 buildings have been flattened by Israeli
+      strikes and bulldozers. The ruins offer no shelter, no infrastructure, and no
+      future. And yet, this is where Israel plans to force over half a million Palestinians
+      to gather. Dozens of schools and medical centres were intentionally spared—not
+      as a mercy, but as logistical infrastructure for the incoming population. These
+      facilities are intended to serve a population forcibly corralled into a confined
+      space, before being pushed, step by step, toward the Sinai or any other country
+      willing to play host to a second Nakba. The first occurred in 1948. Now, 77 years
+      later, Israel, with the clear approval of the United States, is orchestrating
+      another. The Israeli government intends to use the Rafah site not to protect civilians,
+      but to isolate them. Palestinians who enter the zone will be screened by Israeli
+      intelligence using precompiled dossiers. According to Israel Hayom , anyone remaining
+      outside the camp boundaries will automatically be labelled a Hamas operative and
+      targeted for elimination. This is not humanitarian work—it is population control
+      by force, with deadly consequences for noncompliance. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israel is constructing a "Humanitarian City" in Rafah, which
+      is actually a mass internment facility for 600,000 Palestinians, intended for
+      military control and forced relocation rather than genuine relief.
+    paragraph_summary: Israel is constructing a so-called "Humanitarian City" in Rafah,
+      Gaza, which is actually a mass internment facility designed to confine 600,000
+      Palestinians under military surveillance, effectively functioning as a concentration
+      camp rather than a relief zone. Israeli Defence Minister Israel Katz has confirmed
+      that the purpose of this facility is not to provide safety but to consolidate
+      control and facilitate mass deportation. The area, already devastated by Israeli
+      strikes, lacks adequate shelter and infrastructure, with the remaining schools
+      and medical centers repurposed to support the incoming population. Palestinians
+      entering this zone will be screened by Israeli intelligence, while those outside
+      will be deemed Hamas operatives and targeted for elimination. This initiative
+      is viewed as a method of population control rather than humanitarian aid, echoing
+      the historical displacement of Palestinians during the Nakba in 1948.
+    published: '2025-07-12T16:43:37+00:00'
+  - title: 'La “Ville humanitaire” de Rafah : un camp de concentration déguisé en aide
+      humanitaire, en attente de déportation force'
+    url: https://ejmagnier.com/2025/07/12/la-ville-humanitaire-de-rafah-un-camp-de-concentration-deguise-en-aide-humanitaire-en-attente-de-deportation-force/
+    text: 'Tweet Par Elijah J. Magnier Israël construit ce qu’il appelle une “Ville
+      humanitaire” à Rafah, à la frontière sud de Gaza avec l’Égypte. Mais il ne s’agit
+      pas d’une zone de secours — c’est un centre d’internement de masse. Présenté comme
+      un abri temporaire pour les civils déplacés, ce projet est en réalité un camp
+      de concentration destiné à retenir 600 000 Palestiniens sous surveillance militaire,
+      privés de liberté, en attendant une relocalisation forcée. Le ministre israélien
+      de la Défense, Israel Katz, a ouvertement confirmé l’objectif de cette entreprise.
+      Loin d’offrir une quelconque sécurité, cette zone prétendument humanitaire vise
+      à renforcer le contrôle et à préparer le terrain à une déportation massive. Or,
+      Rafah est déjà un champ de ruines : près de 28 000 bâtiments ont été rasés par
+      les bombardements israéliens et les bulldozers. Ces ruines n’offrent ni abri,
+      ni infrastructure, ni avenir. Et pourtant, c’est là qu’Israël entend regrouper
+      plus d’un demi-million de Palestiniens. Des dizaines d’écoles et de centres médicaux
+      ont été épargnés, non par clémence, mais pour servir d’infrastructure logistique
+      à la population déplacée. Ces installations doivent accueillir une population
+      parquée dans un espace confiné, avant d’être poussée, étape par étape, vers le
+      Sinaï ou tout autre pays disposé à héberger une seconde Nakba. La première a eu
+      lieu en 1948. Soixante-dix-sept ans plus tard, Israël, avec l’aval explicite des
+      États-Unis, en orchestre une autre. Le gouvernement israélien n’entend pas protéger
+      les civils à Rafah, mais les isoler. Les Palestiniens entrant dans cette zone
+      seront soumis à des contrôles par les services de renseignement israéliens à partir
+      de dossiers précompilés. Selon Israel Hayom , toute personne se trouvant en dehors
+      des limites du camp sera automatiquement considérée comme membre du Hamas et ciblée
+      pour élimination. Ce n’est pas de l’aide humanitaire — c’est un contrôle de population
+      par la force, avec des conséquences mortelles pour ceux qui n’obtempèrent pas.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Israël construit à Rafah ce qu'il appelle une "Ville humanitaire",
+      qui est en réalité un camp de concentration destiné à internement de masse pour
+      600 000 Palestiniens, sous prétexte de secours temporaire, tout en renforçant
+      le contrôle militaire et préparant une déportation forcée.
+    paragraph_summary: L'article d'Elijah J. Magnier décrit la construction par Israël
+      d'une "Ville humanitaire" à Rafah, à la frontière de Gaza, qui est en réalité
+      un centre d'internement de masse destiné à retenir 600 000 Palestiniens sous surveillance
+      militaire, plutôt qu'un véritable refuge pour les civils déplacés. Le ministre
+      israélien de la Défense a confirmé que l'objectif de ce projet est de renforcer
+      le contrôle et de préparer une déportation massive des Palestiniens, dans un contexte
+      où Rafah est déjà dévastée par des bombardements, laissant peu d'infrastructures.
+      Les installations, comme des écoles et des centres médicaux, sont utilisées pour
+      loger cette population confinée, tandis que ceux qui se trouvent en dehors du
+      camp sont considérés comme des membres du Hamas et risquent d'être éliminés. L'article
+      souligne que cette initiative n'est pas une aide humanitaire, mais plutôt un moyen
+      de contrôle de la population avec des conséquences potentiellement mortelles.
+    published: '2025-07-12T16:42:18+00:00'
+  - title: 'La “Ville humanitaire” de Rafah : un camp de concentration déguisé en aide
+      humanitaire, en attente de déportation force'
+    url: https://ejmagnier.com/2025/07/12/la-ville-humanitaire-de-rafah-un-camp-de-concentration-deguise-en-aide-humanitaire-en-attente-de-deportation-force/
+    text: 'Tweet Par Elijah J. Magnier Israël construit ce qu’il appelle une “Ville
+      humanitaire” à Rafah, à la frontière sud de Gaza avec l’Égypte. Mais il ne s’agit
+      pas d’une zone de secours — c’est un centre d’internement de masse. Présenté comme
+      un abri temporaire pour les civils déplacés, ce projet est en réalité un camp
+      de concentration destiné à retenir 600 000 Palestiniens sous surveillance militaire,
+      privés de liberté, en attendant une relocalisation forcée. Le ministre israélien
+      de la Défense, Israel Katz, a ouvertement confirmé l’objectif de cette entreprise.
+      Loin d’offrir une quelconque sécurité, cette zone prétendument humanitaire vise
+      à renforcer le contrôle et à préparer le terrain à une déportation massive. Or,
+      Rafah est déjà un champ de ruines : près de 28 000 bâtiments ont été rasés par
+      les bombardements israéliens et les bulldozers. Ces ruines n’offrent ni abri,
+      ni infrastructure, ni avenir. Et pourtant, c’est là qu’Israël entend regrouper
+      plus d’un demi-million de Palestiniens. Des dizaines d’écoles et de centres médicaux
+      ont été épargnés, non par clémence, mais pour servir d’infrastructure logistique
+      à la population déplacée. Ces installations doivent accueillir une population
+      parquée dans un espace confiné, avant d’être poussée, étape par étape, vers le
+      Sinaï ou tout autre pays disposé à héberger une seconde Nakba. La première a eu
+      lieu en 1948. Soixante-dix-sept ans plus tard, Israël, avec l’aval explicite des
+      États-Unis, en orchestre une autre. Le gouvernement israélien n’entend pas protéger
+      les civils à Rafah, mais les isoler. Les Palestiniens entrant dans cette zone
+      seront soumis à des contrôles par les services de renseignement israéliens à partir
+      de dossiers précompilés. Selon Israel Hayom , toute personne se trouvant en dehors
+      des limites du camp sera automatiquement considérée comme membre du Hamas et ciblée
+      pour élimination. Ce n’est pas de l’aide humanitaire — c’est un contrôle de population
+      par la force, avec des conséquences mortelles pour ceux qui n’obtempèrent pas.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Israël construit à Rafah ce qu'il appelle une "Ville humanitaire",
+      qui est en réalité un camp de concentration destiné à internement de masse pour
+      600 000 Palestiniens, sous prétexte de secours temporaire, tout en renforçant
+      le contrôle militaire et préparant une déportation forcée.
+    paragraph_summary: L'article d'Elijah J. Magnier décrit la construction par Israël
+      d'une "Ville humanitaire" à Rafah, à la frontière de Gaza, qui est en réalité
+      un centre d'internement de masse destiné à retenir 600 000 Palestiniens sous surveillance
+      militaire, plutôt qu'un véritable refuge pour les civils déplacés. Le ministre
+      israélien de la Défense a confirmé que l'objectif de ce projet est de renforcer
+      le contrôle et de préparer une déportation massive des Palestiniens, dans un contexte
+      où Rafah est déjà dévastée par des bombardements, laissant peu d'infrastructures.
+      Les installations, comme des écoles et des centres médicaux, sont utilisées pour
+      loger cette population confinée, tandis que ceux qui se trouvent en dehors du
+      camp sont considérés comme des membres du Hamas et risquent d'être éliminés. L'article
+      souligne que cette initiative n'est pas une aide humanitaire, mais plutôt un moyen
+      de contrôle de la population avec des conséquences potentiellement mortelles.
+    published: '2025-07-12T16:42:18+00:00'
   - title: 'Les exigences et dilemmes du Hezbollah dans un Moyen-Orient en recomposition
       : la guerre reste une option forte'
     url: https://ejmagnier.com/2025/07/08/les-exigences-et-dilemmes-du-hezbollah-dans-un-moyen-orient-en-recomposition-la-guerre-reste-une-option-forte/

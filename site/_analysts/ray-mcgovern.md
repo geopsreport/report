@@ -7,14 +7,551 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As the U.S. enters a period of heightened political tension, recent developments underscore a deepening crisis over executive power, civil liberties, and foreign policy. The ongoing protests in California against ICE raids have drawn a forceful federal response, echoing tactics seen in Portland in 2020. **Karen J. Greenberg** highlights that President Trump’s approach marks a continued expansion of executive authority, with the deployment of federal agents in Los Angeles raising concerns about the erosion of constitutional checks. This follows the Supreme Court’s recent decision limiting judicial oversight of presidential actions, a move that, as previously noted, further consolidates power in the executive branch.
+  As geopolitical tensions intensify across multiple regions, recent independent analyses highlight several key developments shaping the global landscape.
   
-  Meanwhile, the visit of Israeli Prime Minister Benjamin Netanyahu to the White House has sparked significant public outcry. Demonstrators accused Netanyahu of genocide, reflecting a growing awareness and critique of U.S. complicity in foreign human rights abuses. **Norman Solomon** observes that “many Americans are increasingly aware that the mass murder of certain groups is a troubling aspect of U.S. ideology,” especially as these issues intersect with high-profile diplomatic events.
+  The most significant new information concerns **Germany’s accelerating militarization**. According to **Scott Ritter**, Germany, under its new Chancellor, is rapidly reviving its military capabilities in response to what it perceives as heightened threats from Russia. This marks a sharp departure from its post-World War II posture and signals a broader European shift toward rearmament. Ritter notes that this resurgence is not occurring in isolation but is part of a wider trend of NATO-aligned states reinforcing their defense sectors. The implications for European security are profound, and I guarantee this will further strain relations with Moscow and potentially destabilize the regional balance.
   
-  On the international front, the situation in Ukraine remains fraught. While official narratives persist, **Patrick Lawrence** argues that the Ukrainian government is “engaged in a facade rather than confronting the reality of its circumstances,” suggesting a denial of defeat and a lack of substantive progress on the ground.
+  Meanwhile, **NATO’s evolving role** remains under scrutiny. As **Ray McGovern** observes, NATO’s transformation from a Cold War alliance to a global enforcer—evident since its intervention in Afghanistan—has entrenched its position as a primary instrument of U.S.-led order. This expansion of mission scope continues to provoke criticism and resistance, particularly from states outside the alliance. There is high chance that NATO’s assertiveness will face growing pushback from both adversaries and skeptical partners.
   
-  Looking ahead, the prevailing trend is a consolidation of executive power in the U.S., with high confidence that legal and political checks will continue to weaken. Public dissent—both domestic and international—is likely to intensify, particularly as the administration’s actions draw further scrutiny. The Ukraine conflict shows no sign of resolution, with a high chance that the current stalemate will persist absent a major policy shift. I guarantee that the intersection of domestic unrest and contentious foreign policy will remain at the forefront of U.S. political discourse in the coming weeks.
+  On the legal and civil liberties front, the **UK’s domestic trajectory** is drawing concern. **Craig Murray** highlights a recent legal proceeding emblematic of an increasingly “draconian” government approach. Even those involved in the process acknowledged its harshness, suggesting a broader trend toward authoritarianism within the UK’s political and judicial systems. There is high chance this will fuel domestic unrest and further erode public trust in institutions.
+  
+  **Trends and Predictions:**  
+  The majority of analysts agree that Europe is entering a period of heightened militarization and political polarization. NATO’s assertive posture and Germany’s rearmament are most definitely set to provoke countermeasures from Russia, raising the risk of escalation. Simultaneously, Western democracies are exhibiting signs of internal authoritarian drift, which is quite likely to generate significant social and political backlash in the near term. The overall trajectory points toward increased instability both within and between states.
 articles:
+  - title: 'NATO: The Most Dangerous Organization'
+    url: https://consortiumnews.com/2025/07/15/nato-the-most-dangerous-organization/
+    text: 'By the time of its out-of-theater intervention in Afghanistan, it became
+      clear that NATO now had the ability and permission to operate as the policeman
+      of the U.S.-led order. By Tricontinental: Institute for Social Research The North
+      Atlantic Treaty Organization… Read more →'
+    one_sentence_summary: NATO's intervention in Afghanistan marked its emergence as
+      a key enforcer of the U.S.-led global order.
+    paragraph_summary: The article discusses NATO's evolution into a key enforcer of
+      the U.S.-led global order, particularly highlighted by its intervention in Afghanistan.
+      It emphasizes that by this time, NATO had acquired both the capability and the
+      authority to act as a stabilizing force, effectively taking on the role of a "policeman"
+      in international affairs. The analysis is provided by the Tricontinental Institute
+      for Social Research, which reflects on the implications of NATO's actions and
+      its broader impact on global geopolitics.
+    published: '2025-07-15T23:54:06+00:00'
+  - title: 'NATO: The Most Dangerous Organization'
+    url: https://consortiumnews.com/2025/07/15/nato-the-most-dangerous-organization/
+    text: 'By the time of its out-of-theater intervention in Afghanistan, it became
+      clear that NATO now had the ability and permission to operate as the policeman
+      of the U.S.-led order. By Tricontinental: Institute for Social Research The North
+      Atlantic Treaty Organization… Read more →'
+    one_sentence_summary: NATO's intervention in Afghanistan marked its emergence as
+      a key enforcer of the U.S.-led global order.
+    paragraph_summary: The article discusses NATO's evolution into a key enforcer of
+      the U.S.-led global order, particularly highlighted by its intervention in Afghanistan.
+      It emphasizes that by this time, NATO had acquired both the capability and the
+      authority to act as a stabilizing force, effectively taking on the role of a "policeman"
+      in international affairs. The analysis is provided by the Tricontinental Institute
+      for Social Research, which reflects on the implications of NATO's actions and
+      its broader impact on global geopolitics.
+    published: '2025-07-15T23:54:06+00:00'
+  - title: 'Scott Ritter: The Birth of the German Fourth Reich'
+    url: https://consortiumnews.com/2025/07/15/scott-ritter-the-birth-of-the-german-fourth-reich/
+    text: After its defeat, Adolf Hitler’s Third Reich was coaxed back to life by the
+      very forces that once conspired to defeat it. Germany today has dangerously embarked
+      on a rearmament campaign to prepare for a supposed Russian threat. New Chancellor…
+      Read more →
+    one_sentence_summary: Following its defeat in World War II, Germany is now reviving
+      militarization efforts, driven by perceived threats from Russia, under the leadership
+      of its new Chancellor.
+    paragraph_summary: The article discusses how, following the defeat of Adolf Hitler's
+      Third Reich, Germany has seemingly revived militaristic ambitions, driven by a
+      rearmament campaign in response to perceived threats from Russia. This resurgence
+      is attributed to the very powers that once united to defeat Nazi Germany, raising
+      concerns about the implications of Germany's military buildup under its new Chancellor.
+    published: '2025-07-15T18:05:37+00:00'
+  - title: 'Scott Ritter: The Birth of the German Fourth Reich'
+    url: https://consortiumnews.com/2025/07/15/scott-ritter-the-birth-of-the-german-fourth-reich/
+    text: After its defeat, Adolf Hitler’s Third Reich was coaxed back to life by the
+      very forces that once conspired to defeat it. Germany today has dangerously embarked
+      on a rearmament campaign to prepare for a supposed Russian threat. New Chancellor…
+      Read more →
+    one_sentence_summary: Following its defeat in World War II, Germany is now reviving
+      militarization efforts, driven by perceived threats from Russia, under the leadership
+      of its new Chancellor.
+    paragraph_summary: The article discusses how, following the defeat of Adolf Hitler's
+      Third Reich, Germany has seemingly revived militaristic ambitions, driven by a
+      rearmament campaign in response to perceived threats from Russia. This resurgence
+      is attributed to the very powers that once united to defeat Nazi Germany, raising
+      concerns about the implications of Germany's military buildup under its new Chancellor.
+    published: '2025-07-15T18:05:37+00:00'
+  - title: 'Craig Murray:  A ‘Draconian’ UK Government'
+    url: https://consortiumnews.com/2025/07/15/craig-murray-a-draconian-uk-government/
+    text: “We accept of course that it is draconian and deliberately so”— those chilling
+      words were spoken during the second part of a proceeding that took a further step
+      into authoritarianism.  This is the second in a two part article. Part… Read more
+      →
+    one_sentence_summary: The article discusses a recent legal proceeding that reflects
+      a troubling shift towards authoritarianism, highlighted by the acknowledgment
+      of its harshness by those involved.
+    paragraph_summary: The article discusses a recent legal proceeding that has raised
+      concerns about increasing authoritarianism, highlighted by a statement acknowledging
+      the "draconian" nature of certain measures being implemented. It reflects on the
+      implications of these actions for civil liberties and governance, suggesting a
+      troubling trend towards more oppressive policies. The second part of the article
+      delves deeper into the context and consequences of this shift, emphasizing the
+      need for vigilance in protecting democratic principles.
+    published: '2025-07-15T09:07:22+00:00'
+  - title: 'Craig Murray:  A ‘Draconian’ UK Government'
+    url: https://consortiumnews.com/2025/07/15/craig-murray-a-draconian-uk-government/
+    text: “We accept of course that it is draconian and deliberately so”— those chilling
+      words were spoken during the second part of a proceeding that took a further step
+      into authoritarianism.  This is the second in a two part article. Part… Read more
+      →
+    one_sentence_summary: The article discusses a recent legal proceeding that reflects
+      a troubling shift towards authoritarianism, highlighted by the acknowledgment
+      of its harshness by those involved.
+    paragraph_summary: The article discusses a recent legal proceeding that has raised
+      concerns about increasing authoritarianism, highlighted by a statement acknowledging
+      the "draconian" nature of certain measures being implemented. It reflects on the
+      implications of these actions for civil liberties and governance, suggesting a
+      troubling trend towards more oppressive policies. The second part of the article
+      delves deeper into the context and consequences of this shift, emphasizing the
+      need for vigilance in protecting democratic principles.
+    published: '2025-07-15T09:07:22+00:00'
+  - title: Despite Denials, Australia Has Exported F-35 Parts to Israel
+    url: https://consortiumnews.com/2025/07/14/despite-denials-australia-has-exported-f-35-parts-to-israel/
+    text: Leaked documents show Canberra supplying Israel with the means to maintain
+      F-35 fighter jets so it can continue its genocidal campaign in Gaza, Peter Cronau
+      and Kellie Tranter report.  This Declassified Australia investigation is published
+      in partnership with investigative news… Read more →
+    one_sentence_summary: Leaked documents reveal that Canberra is providing Israel
+      with support for maintaining F-35 fighter jets, enabling its military actions
+      in Gaza, according to an investigation by Peter Cronau and Kellie Tranter.
+    paragraph_summary: Leaked documents reveal that Canberra is providing Israel with
+      support for the maintenance of its F-35 fighter jets, enabling the country to
+      sustain its military operations in Gaza, which have been characterized as genocidal.
+      This investigation by Declassified Australia, in collaboration with investigative
+      news outlets, highlights the implications of Australia's military assistance in
+      the ongoing conflict.
+    published: '2025-07-15T01:53:20+00:00'
+  - title: Despite Denials, Australia Has Exported F-35 Parts to Israel
+    url: https://consortiumnews.com/2025/07/14/despite-denials-australia-has-exported-f-35-parts-to-israel/
+    text: Leaked documents show Canberra supplying Israel with the means to maintain
+      F-35 fighter jets so it can continue its genocidal campaign in Gaza, Peter Cronau
+      and Kellie Tranter report.  This Declassified Australia investigation is published
+      in partnership with investigative news… Read more →
+    one_sentence_summary: Leaked documents reveal that Canberra is providing Israel
+      with support for maintaining F-35 fighter jets, enabling its military actions
+      in Gaza, according to an investigation by Peter Cronau and Kellie Tranter.
+    paragraph_summary: Leaked documents reveal that Canberra is providing Israel with
+      support for the maintenance of its F-35 fighter jets, enabling the country to
+      sustain its military operations in Gaza, which have been characterized as genocidal.
+      This investigation by Declassified Australia, in collaboration with investigative
+      news outlets, highlights the implications of Australia's military assistance in
+      the ongoing conflict.
+    published: '2025-07-15T01:53:20+00:00'
+  - title: Israel Bans Gazans From Entering Sea Under Pain of Death
+    url: https://consortiumnews.com/2025/07/14/israel-bans-gazans-from-entering-sea-under-pain-of-death/
+    text: “This is not about security,” said the head of Gaza’s fishers’ union. “It’s
+      economic, social, and psychological warfare, a weapon of slow, deliberate suffocation.” 
+      By Brett Wilkins Common Dreams Israel has warned Gazans to stay out of the Mediterranean
+      Sea or… Read more →
+    one_sentence_summary: The head of Gaza's fishers' union describes Israel's warning
+      to Gazans to avoid the Mediterranean Sea as a form of economic, social, and psychological
+      warfare aimed at slowly suffocating the community.
+    paragraph_summary: The head of Gaza's fishers' union criticized Israel's warning
+      to Gazans to avoid the Mediterranean Sea, describing it as a form of economic,
+      social, and psychological warfare rather than a security measure. He characterized
+      the situation as a "slow, deliberate suffocation" of the fishing community, highlighting
+      the broader implications of the restrictions on their livelihoods and well-being.
+    published: '2025-07-14T19:08:56+00:00'
+  - title: Israel Bans Gazans From Entering Sea Under Pain of Death
+    url: https://consortiumnews.com/2025/07/14/israel-bans-gazans-from-entering-sea-under-pain-of-death/
+    text: “This is not about security,” said the head of Gaza’s fishers’ union. “It’s
+      economic, social, and psychological warfare, a weapon of slow, deliberate suffocation.” 
+      By Brett Wilkins Common Dreams Israel has warned Gazans to stay out of the Mediterranean
+      Sea or… Read more →
+    one_sentence_summary: The head of Gaza's fishers' union describes Israel's warning
+      to Gazans to avoid the Mediterranean Sea as a form of economic, social, and psychological
+      warfare aimed at slowly suffocating the community.
+    paragraph_summary: The head of Gaza's fishers' union criticized Israel's warning
+      to Gazans to avoid the Mediterranean Sea, describing it as a form of economic,
+      social, and psychological warfare rather than a security measure. He characterized
+      the situation as a "slow, deliberate suffocation" of the fishing community, highlighting
+      the broader implications of the restrictions on their livelihoods and well-being.
+    published: '2025-07-14T19:08:56+00:00'
+  - title: Next Ship in Gaza Freedom Flotilla Leaves Sunday
+    url: https://consortiumnews.com/2025/07/13/next-ship-in-gaza-freedom-flotilla-leaves-sunday/
+    text: The ship named for a cartoon figure of a barefoot refugee child leaves on
+      Sunday from a port in Augusta, Sicily, Ann Wright reports. By Ann Wright As the
+      genocide of Palestinians continues with the daily massacres of hundreds of… Read
+      more →
+    one_sentence_summary: A ship named after a cartoon character representing a barefoot
+      refugee child is set to depart from Augusta, Sicily, amid ongoing violence and
+      genocide against Palestinians.
+    paragraph_summary: A ship named after a cartoon character representing a barefoot
+      refugee child is set to depart from Augusta, Sicily, on Sunday. The article, reported
+      by Ann Wright, highlights the ongoing genocide of Palestinians, emphasizing the
+      daily violence and massacres they face.
+    published: '2025-07-13T07:20:00+00:00'
+  - title: Next Ship in Gaza Freedom Flotilla Leaves Sunday
+    url: https://consortiumnews.com/2025/07/13/next-ship-in-gaza-freedom-flotilla-leaves-sunday/
+    text: The ship named for a cartoon figure of a barefoot refugee child leaves on
+      Sunday from a port in Augusta, Sicily, Ann Wright reports. By Ann Wright As the
+      genocide of Palestinians continues with the daily massacres of hundreds of… Read
+      more →
+    one_sentence_summary: A ship named after a cartoon character representing a barefoot
+      refugee child is set to depart from Augusta, Sicily, amid ongoing violence and
+      genocide against Palestinians.
+    paragraph_summary: A ship named after a cartoon character representing a barefoot
+      refugee child is set to depart from Augusta, Sicily, on Sunday. The article, reported
+      by Ann Wright, highlights the ongoing genocide of Palestinians, emphasizing the
+      daily violence and massacres they face.
+    published: '2025-07-13T07:20:00+00:00'
+  - title: 'From Media Darling to Persona Non Grata: Greta Thunberg’s Journey'
+    url: https://consortiumnews.com/2025/07/13/__trashed-40/
+    text: Alan MacLeod looks at how the Swedish climate activist widened her focus to
+      the capitalist system and Israeli genocide in Gaza and lost the attention of the
+      corporate press. By Alan MacLeod MintPress News Once the favored child of the…
+      Read more →
+    one_sentence_summary: Alan MacLeod discusses how Swedish climate activist Greta
+      Thunberg expanded her activism to critique capitalism and the Israeli actions
+      in Gaza, resulting in a loss of attention from the corporate media.
+    paragraph_summary: Alan MacLeod discusses how Swedish climate activist Greta Thunberg
+      has expanded her activism to address broader issues, including critiques of the
+      capitalist system and the Israeli actions in Gaza. This shift in focus has led
+      to a noticeable decline in coverage from the corporate press, which previously
+      highlighted her climate initiatives. MacLeod suggests that Thunberg's broader
+      political stance may have alienated her from mainstream media attention that once
+      celebrated her environmental efforts.
+    published: '2025-07-13T07:00:57+00:00'
+  - title: 'From Media Darling to Persona Non Grata: Greta Thunberg’s Journey'
+    url: https://consortiumnews.com/2025/07/13/__trashed-40/
+    text: Alan MacLeod looks at how the Swedish climate activist widened her focus to
+      the capitalist system and Israeli genocide in Gaza and lost the attention of the
+      corporate press. By Alan MacLeod MintPress News Once the favored child of the…
+      Read more →
+    one_sentence_summary: Alan MacLeod discusses how Swedish climate activist Greta
+      Thunberg expanded her activism to critique capitalism and the Israeli actions
+      in Gaza, resulting in a loss of attention from the corporate media.
+    paragraph_summary: Alan MacLeod discusses how Swedish climate activist Greta Thunberg
+      has expanded her activism to address broader issues, including critiques of the
+      capitalist system and the Israeli actions in Gaza. This shift in focus has led
+      to a noticeable decline in coverage from the corporate press, which previously
+      highlighted her climate initiatives. MacLeod suggests that Thunberg's broader
+      political stance may have alienated her from mainstream media attention that once
+      celebrated her environmental efforts.
+    published: '2025-07-13T07:00:57+00:00'
+  - title: 'WATCH: CN Live! — Epstein Justice?'
+    url: https://consortiumnews.com/2025/07/12/watch-cn-live-epstein-justice/
+    text: Author Nick Bryant, the first to publish Jeffrey Epstein’s little black book, 
+      joins CN Live! at 8pm EDT on Saturday night, to discuss the DOJ’s attempt to close
+      the Epstein case. Season 7 episode 4 of CN Live! An Axios… Read more →
+    one_sentence_summary: Author Nick Bryant will appear on CN Live! to discuss the
+      DOJ's efforts to close the Jeffrey Epstein case, following his publication of
+      Epstein's little black book.
+    paragraph_summary: Author Nick Bryant, known for publishing Jeffrey Epstein's little
+      black book, will appear on CN Live! at 8pm EDT on Saturday night to discuss the
+      Department of Justice's efforts to close the Epstein case. This appearance is
+      part of Season 7, Episode 4 of the show.
+    published: '2025-07-12T06:58:47+00:00'
+  - title: 'WATCH: CN Live! — Epstein Justice?'
+    url: https://consortiumnews.com/2025/07/12/watch-cn-live-epstein-justice/
+    text: Author Nick Bryant, the first to publish Jeffrey Epstein’s little black book, 
+      joins CN Live! at 8pm EDT on Saturday night, to discuss the DOJ’s attempt to close
+      the Epstein case. Season 7 episode 4 of CN Live! An Axios… Read more →
+    one_sentence_summary: Author Nick Bryant will appear on CN Live! to discuss the
+      DOJ's efforts to close the Jeffrey Epstein case, following his publication of
+      Epstein's little black book.
+    paragraph_summary: Author Nick Bryant, known for publishing Jeffrey Epstein's little
+      black book, will appear on CN Live! at 8pm EDT on Saturday night to discuss the
+      Department of Justice's efforts to close the Epstein case. This appearance is
+      part of Season 7, Episode 4 of the show.
+    published: '2025-07-12T06:58:47+00:00'
+  - title: 'The Chris Hedges Report: Zohran Mamdani & the Working Class'
+    url: https://consortiumnews.com/2025/07/11/the-chris-hedges-report-zohran-mamdani-the-working-class/
+    text: Kshama Sawant weighs her fellow democratic socialist’s triumph in the New
+      York City mayoral primary and the obstacles to fulfilling his campaign promises
+      he could face if he gets into office.  By Chris Hedges ScheerPost Zohran Mamdani’s
+      emphatic victory in the… Read more →
+    one_sentence_summary: Kshama Sawant analyzes the implications of Zohran Mamdani's
+      victory in the New York City mayoral primary, highlighting both the potential
+      for progressive change and the challenges he may encounter in delivering on his
+      campaign promises.
+    paragraph_summary: In an analysis by Chris Hedges for ScheerPost, Kshama Sawant
+      reflects on the recent victory of fellow democratic socialist Zohran Mamdani in
+      the New York City mayoral primary, highlighting the significance of his win for
+      the socialist movement. However, she also emphasizes the challenges Mamdani may
+      encounter in delivering on his campaign promises once in office, suggesting that
+      systemic obstacles could hinder his ability to implement progressive changes.
+    published: '2025-07-11T19:08:40+00:00'
+  - title: 'The Chris Hedges Report: Zohran Mamdani & the Working Class'
+    url: https://consortiumnews.com/2025/07/11/the-chris-hedges-report-zohran-mamdani-the-working-class/
+    text: Kshama Sawant weighs her fellow democratic socialist’s triumph in the New
+      York City mayoral primary and the obstacles to fulfilling his campaign promises
+      he could face if he gets into office.  By Chris Hedges ScheerPost Zohran Mamdani’s
+      emphatic victory in the… Read more →
+    one_sentence_summary: Kshama Sawant analyzes the implications of Zohran Mamdani's
+      victory in the New York City mayoral primary, highlighting both the potential
+      for progressive change and the challenges he may encounter in delivering on his
+      campaign promises.
+    paragraph_summary: In an analysis by Chris Hedges for ScheerPost, Kshama Sawant
+      reflects on the recent victory of fellow democratic socialist Zohran Mamdani in
+      the New York City mayoral primary, highlighting the significance of his win for
+      the socialist movement. However, she also emphasizes the challenges Mamdani may
+      encounter in delivering on his campaign promises once in office, suggesting that
+      systemic obstacles could hinder his ability to implement progressive changes.
+    published: '2025-07-11T19:08:40+00:00'
+  - title: Is BRICS the Way Forward?
+    url: https://consortiumnews.com/2025/07/11/is-brics-the-way-forward/
+    text: After witnessing Cuba’s ailing economy in a recent visit, Asoka Bandarage
+      looks beyond BRICS for an alternative to both authoritarian socialism and neoliberal
+      capitalism. By Asoka Bandarage I returned to the U.S. from Cuba just a few hours
+      before President… Read more →
+    one_sentence_summary: Asoka Bandarage, after observing Cuba's struggling economy,
+      seeks alternatives to both authoritarian socialism and neoliberal capitalism,
+      looking beyond the BRICS nations for solutions.
+    paragraph_summary: In a recent article, Asoka Bandarage reflects on her visit to
+      Cuba, where she observed the struggles of its economy, prompting her to seek alternatives
+      to both authoritarian socialism and neoliberal capitalism beyond the BRICS nations.
+      She emphasizes the need for new economic models that can address the challenges
+      faced by countries like Cuba, advocating for innovative solutions that transcend
+      traditional frameworks.
+    published: '2025-07-11T04:06:56+00:00'
+  - title: Is BRICS the Way Forward?
+    url: https://consortiumnews.com/2025/07/11/is-brics-the-way-forward/
+    text: After witnessing Cuba’s ailing economy in a recent visit, Asoka Bandarage
+      looks beyond BRICS for an alternative to both authoritarian socialism and neoliberal
+      capitalism. By Asoka Bandarage I returned to the U.S. from Cuba just a few hours
+      before President… Read more →
+    one_sentence_summary: Asoka Bandarage, after observing Cuba's struggling economy,
+      seeks alternatives to both authoritarian socialism and neoliberal capitalism,
+      looking beyond the BRICS nations for solutions.
+    paragraph_summary: In a recent article, Asoka Bandarage reflects on her visit to
+      Cuba, where she observed the struggles of its economy, prompting her to seek alternatives
+      to both authoritarian socialism and neoliberal capitalism beyond the BRICS nations.
+      She emphasizes the need for new economic models that can address the challenges
+      faced by countries like Cuba, advocating for innovative solutions that transcend
+      traditional frameworks.
+    published: '2025-07-11T04:06:56+00:00'
+  - title: BRICS Forges Ahead Building a Different Order
+    url: https://consortiumnews.com/2025/07/11/brics-forges-ahead-building-a-different-order/
+    text: At their summit in Brazil, members of the expanding Global South group condemned
+      recent Israeli-U.S. attacks on Iran and Israel’s aggression against Palestinians
+      in Gaza, Abdul Rahman reports. By Abdul Rahman Peoples Dispatch In Rio de Janeiro,
+      from July 6-7,… Read more →
+    one_sentence_summary: At their summit in Brazil, members of the Global South group
+      criticized Israeli-U.S. actions against Iran and condemned Israel's aggression
+      towards Palestinians in Gaza.
+    paragraph_summary: At a summit in Brazil, members of the expanding Global South
+      group criticized the recent Israeli-U.S. military actions against Iran and condemned
+      Israel's aggression towards Palestinians in Gaza. The meeting, held in Rio de
+      Janeiro from July 6-7, highlighted the group's unified stance against these actions,
+      emphasizing solidarity with affected nations and communities.
+    published: '2025-07-11T04:02:54+00:00'
+  - title: BRICS Forges Ahead Building a Different Order
+    url: https://consortiumnews.com/2025/07/11/brics-forges-ahead-building-a-different-order/
+    text: At their summit in Brazil, members of the expanding Global South group condemned
+      recent Israeli-U.S. attacks on Iran and Israel’s aggression against Palestinians
+      in Gaza, Abdul Rahman reports. By Abdul Rahman Peoples Dispatch In Rio de Janeiro,
+      from July 6-7,… Read more →
+    one_sentence_summary: At their summit in Brazil, members of the Global South group
+      criticized Israeli-U.S. actions against Iran and condemned Israel's aggression
+      towards Palestinians in Gaza.
+    paragraph_summary: At a summit in Brazil, members of the expanding Global South
+      group criticized the recent Israeli-U.S. military actions against Iran and condemned
+      Israel's aggression towards Palestinians in Gaza. The meeting, held in Rio de
+      Janeiro from July 6-7, highlighted the group's unified stance against these actions,
+      emphasizing solidarity with affected nations and communities.
+    published: '2025-07-11T04:02:54+00:00'
+  - title: 'Chris Hedges: The Persecution of Francesca Albanese'
+    url: https://consortiumnews.com/2025/07/10/chris-hedges-the-persecution-of-francesca-albanese/
+    text: The Trump administration’s attack on the courageous U.N. special rapporteur
+      presages a world without rules, where rogue states, such as the U.S. and Israel,
+      carry out war crimes without restraint. By Chris Hedges ScheerPost When the history
+      of the genocide… Read more →
+    one_sentence_summary: The article by Chris Hedges argues that the Trump administration's
+      criticism of the U.N. special rapporteur signals a dangerous shift towards a lawless
+      international environment, allowing rogue states like the U.S. and Israel to commit
+      war crimes without accountability.
+    paragraph_summary: In an article by Chris Hedges for ScheerPost, the author critiques
+      the Trump administration's aggressive stance against the U.N. special rapporteur,
+      suggesting that it signals a troubling shift towards a world lacking accountability
+      and rules. Hedges argues that this environment allows rogue states, particularly
+      the U.S. and Israel, to commit war crimes without fear of repercussions, raising
+      concerns about the implications for global governance and human rights.
+    published: '2025-07-10T16:37:16+00:00'
+  - title: 'Chris Hedges: The Persecution of Francesca Albanese'
+    url: https://consortiumnews.com/2025/07/10/chris-hedges-the-persecution-of-francesca-albanese/
+    text: The Trump administration’s attack on the courageous U.N. special rapporteur
+      presages a world without rules, where rogue states, such as the U.S. and Israel,
+      carry out war crimes without restraint. By Chris Hedges ScheerPost When the history
+      of the genocide… Read more →
+    one_sentence_summary: The article by Chris Hedges argues that the Trump administration's
+      criticism of the U.N. special rapporteur signals a dangerous shift towards a lawless
+      international environment, allowing rogue states like the U.S. and Israel to commit
+      war crimes without accountability.
+    paragraph_summary: In an article by Chris Hedges for ScheerPost, the author critiques
+      the Trump administration's aggressive stance against the U.N. special rapporteur,
+      suggesting that it signals a troubling shift towards a world lacking accountability
+      and rules. Hedges argues that this environment allows rogue states, particularly
+      the U.S. and Israel, to commit war crimes without fear of repercussions, raising
+      concerns about the implications for global governance and human rights.
+    published: '2025-07-10T16:37:16+00:00'
+  - title: 'WATCH: CN Live! — ‘Epstein & the War on Gaza’'
+    url: https://consortiumnews.com/2025/07/10/watch-cn-live-epstein-the-war-on-gaza/
+    text: Ex-Israeli intelligence official Ari ben-Menashe tells CN Live! the U.S. Justice
+      Dept.’s notice that it has no case against clients of the late, sex trafficker
+      Jeffrey Epstein is all tied up in the politics of the Gaza war. Watch the… Read
+      more →
+    one_sentence_summary: Ex-Israeli intelligence official Ari ben-Menashe suggests
+      that the U.S. Justice Department's decision to drop cases against clients of Jeffrey
+      Epstein is influenced by the political context surrounding the Gaza war.
+    paragraph_summary: Ari ben-Menashe, a former Israeli intelligence official, discussed
+      with CN Live! the implications of the U.S. Justice Department's announcement that
+      it has no case against clients of the late sex trafficker Jeffrey Epstein. He
+      suggested that this decision is intricately linked to the ongoing political dynamics
+      surrounding the Gaza war, indicating that broader geopolitical factors may be
+      influencing legal actions related to Epstein's associates.
+    published: '2025-07-10T06:34:48+00:00'
+  - title: 'WATCH: CN Live! — ‘Epstein & the War on Gaza’'
+    url: https://consortiumnews.com/2025/07/10/watch-cn-live-epstein-the-war-on-gaza/
+    text: Ex-Israeli intelligence official Ari ben-Menashe tells CN Live! the U.S. Justice
+      Dept.’s notice that it has no case against clients of the late, sex trafficker
+      Jeffrey Epstein is all tied up in the politics of the Gaza war. Watch the… Read
+      more →
+    one_sentence_summary: Ex-Israeli intelligence official Ari ben-Menashe suggests
+      that the U.S. Justice Department's decision to drop cases against clients of Jeffrey
+      Epstein is influenced by the political context surrounding the Gaza war.
+    paragraph_summary: Ari ben-Menashe, a former Israeli intelligence official, discussed
+      with CN Live! the implications of the U.S. Justice Department's announcement that
+      it has no case against clients of the late sex trafficker Jeffrey Epstein. He
+      suggested that this decision is intricately linked to the ongoing political dynamics
+      surrounding the Gaza war, indicating that broader geopolitical factors may be
+      influencing legal actions related to Epstein's associates.
+    published: '2025-07-10T06:34:48+00:00'
+  - title: Which One Is the Terrorist?
+    url: https://consortiumnews.com/2025/07/10/which-one-is-the-terrorist/
+    text: The empire depends on ignorance, says Caitlin Johnstone. The more stupid,
+      racist, gullible, and easily distracted we become, the nastier agendas the empire
+      can roll out. Listen to a reading of this article (reading by Tim Foley) By Caitlin
+      Johnstone Caitlin’s… Read more →
+    one_sentence_summary: Caitlin Johnstone argues that the empire thrives on public
+      ignorance and distraction, allowing it to implement more harmful agendas.
+    paragraph_summary: Caitlin Johnstone argues that empires thrive on the ignorance
+      of their populace, as a less informed and more gullible society allows for the
+      implementation of more harmful agendas. She emphasizes that traits such as stupidity,
+      racism, and distraction enable those in power to manipulate public perception
+      and maintain control, ultimately leading to detrimental outcomes for society.
+    published: '2025-07-10T05:53:53+00:00'
+  - title: Which One Is the Terrorist?
+    url: https://consortiumnews.com/2025/07/10/which-one-is-the-terrorist/
+    text: The empire depends on ignorance, says Caitlin Johnstone. The more stupid,
+      racist, gullible, and easily distracted we become, the nastier agendas the empire
+      can roll out. Listen to a reading of this article (reading by Tim Foley) By Caitlin
+      Johnstone Caitlin’s… Read more →
+    one_sentence_summary: Caitlin Johnstone argues that the empire thrives on public
+      ignorance and distraction, allowing it to implement more harmful agendas.
+    paragraph_summary: Caitlin Johnstone argues that empires thrive on the ignorance
+      of their populace, as a less informed and more gullible society allows for the
+      implementation of more harmful agendas. She emphasizes that traits such as stupidity,
+      racism, and distraction enable those in power to manipulate public perception
+      and maintain control, ultimately leading to detrimental outcomes for society.
+    published: '2025-07-10T05:53:53+00:00'
+  - title: Australia Obstructed Probe Into Deadly ‘Rainbow Warrior’ Bombing
+    url: https://consortiumnews.com/2025/07/09/australia-obstructed-probe-into-deadly-rainbow-warrior-bombing/
+    text: Forty years later, David Robie, the only journalist on board the Greenpeace
+      ship in the weeks leading up to its bombing on July 10, 1985, looks back on this
+      act of French state terrorism in a New Zealand port.  A… Read more →
+    one_sentence_summary: David Robie reflects on the 1985 bombing of the Greenpeace
+      ship in New Zealand, which he witnessed as the sole journalist onboard, characterizing
+      it as an act of French state terrorism.
+    paragraph_summary: David Robie reflects on the 40th anniversary of the bombing of
+      the Greenpeace ship in New Zealand, an event he witnessed as the sole journalist
+      on board in the weeks leading up to the attack on July 10, 1985. He characterizes
+      the incident as an act of French state terrorism, highlighting its significance
+      and the impact it had on environmental activism and international relations. Robie's
+      retrospective emphasizes the importance of remembering this pivotal moment in
+      history and its implications for both Greenpeace and the broader fight for environmental
+      justice.
+    published: '2025-07-10T03:01:24+00:00'
+  - title: Australia Obstructed Probe Into Deadly ‘Rainbow Warrior’ Bombing
+    url: https://consortiumnews.com/2025/07/09/australia-obstructed-probe-into-deadly-rainbow-warrior-bombing/
+    text: Forty years later, David Robie, the only journalist on board the Greenpeace
+      ship in the weeks leading up to its bombing on July 10, 1985, looks back on this
+      act of French state terrorism in a New Zealand port.  A… Read more →
+    one_sentence_summary: David Robie reflects on the 1985 bombing of the Greenpeace
+      ship in New Zealand, which he witnessed as the sole journalist onboard, characterizing
+      it as an act of French state terrorism.
+    paragraph_summary: David Robie reflects on the 40th anniversary of the bombing of
+      the Greenpeace ship in New Zealand, an event he witnessed as the sole journalist
+      on board in the weeks leading up to the attack on July 10, 1985. He characterizes
+      the incident as an act of French state terrorism, highlighting its significance
+      and the impact it had on environmental activism and international relations. Robie's
+      retrospective emphasizes the importance of remembering this pivotal moment in
+      history and its implications for both Greenpeace and the broader fight for environmental
+      justice.
+    published: '2025-07-10T03:01:24+00:00'
+  - title: Largest US Labor Union Cuts Ties to Major Israel Defender
+    url: https://consortiumnews.com/2025/07/09/largest-us-labor-union-cuts-ties-to-major-israel-defender/
+    text: The move marks a challenge to the Anti-Defamation League’s decades of influence
+      over  curriculum related to Israel in U.S. schools. By Julia Conley Common Dreams
+      The largest labor union in the United States has taken a major step toward “fostering…
+      Read more →
+    one_sentence_summary: The largest labor union in the U.S. is challenging the Anti-Defamation
+      League's long-standing influence on Israel-related curriculum in schools.
+    paragraph_summary: The largest labor union in the United States is challenging the
+      longstanding influence of the Anti-Defamation League (ADL) over educational curricula
+      concerning Israel in American schools. This move signifies a shift towards promoting
+      a more nuanced understanding of the Israeli-Palestinian conflict, as the union
+      aims to foster discussions that may diverge from the traditional narratives supported
+      by the ADL.
+    published: '2025-07-09T17:14:29+00:00'
+  - title: Largest US Labor Union Cuts Ties to Major Israel Defender
+    url: https://consortiumnews.com/2025/07/09/largest-us-labor-union-cuts-ties-to-major-israel-defender/
+    text: The move marks a challenge to the Anti-Defamation League’s decades of influence
+      over  curriculum related to Israel in U.S. schools. By Julia Conley Common Dreams
+      The largest labor union in the United States has taken a major step toward “fostering…
+      Read more →
+    one_sentence_summary: The largest labor union in the U.S. is challenging the Anti-Defamation
+      League's long-standing influence on Israel-related curriculum in schools.
+    paragraph_summary: The largest labor union in the United States is challenging the
+      longstanding influence of the Anti-Defamation League (ADL) over educational curricula
+      concerning Israel in American schools. This move signifies a shift towards promoting
+      a more nuanced understanding of the Israeli-Palestinian conflict, as the union
+      aims to foster discussions that may diverge from the traditional narratives supported
+      by the ADL.
+    published: '2025-07-09T17:14:29+00:00'
+  - title: 'Caitlin Johnstone:  Making ‘Terrorism’ a Meaningless Word'
+    url: https://consortiumnews.com/2025/07/09/caitlin-johnstone-makingterrorism-a-meaningless-word/
+    text: “Terrorism” is just a label that means whatever the Western  empire needs
+      it to mean at a given time and place. Listen to Tim Foley reading this article.
+      By Caitlin Johnstone Caitlin’s Newsletter The U.S. has removed Syria’s Al Qaeda
+      franchise… Read more →
+    one_sentence_summary: The article argues that the term "terrorism" is a flexible
+      label used by Western powers to serve their interests, exemplified by the U.S.
+      decision to remove Syria's Al Qaeda affiliate from its list of terrorist organizations.
+    paragraph_summary: In her article, Caitlin Johnstone argues that the term "terrorism"
+      is a flexible label used by Western powers to suit their political agendas at
+      any given moment. She discusses the recent U.S. decision to remove Syria's Al
+      Qaeda affiliate, suggesting that such actions reflect a broader pattern of how
+      the concept of terrorism is manipulated to justify military and political interventions.
+      Johnstone emphasizes that the definition of terrorism is often shaped by the interests
+      of the Western empire rather than a consistent moral framework.
+    published: '2025-07-09T10:23:37+00:00'
+  - title: 'Caitlin Johnstone:  Making ‘Terrorism’ a Meaningless Word'
+    url: https://consortiumnews.com/2025/07/09/caitlin-johnstone-makingterrorism-a-meaningless-word/
+    text: “Terrorism” is just a label that means whatever the Western  empire needs
+      it to mean at a given time and place. Listen to Tim Foley reading this article.
+      By Caitlin Johnstone Caitlin’s Newsletter The U.S. has removed Syria’s Al Qaeda
+      franchise… Read more →
+    one_sentence_summary: The article argues that the term "terrorism" is a flexible
+      label used by Western powers to serve their interests, exemplified by the U.S.
+      decision to remove Syria's Al Qaeda affiliate from its list of terrorist organizations.
+    paragraph_summary: In her article, Caitlin Johnstone argues that the term "terrorism"
+      is a flexible label used by Western powers to suit their political agendas at
+      any given moment. She discusses the recent U.S. decision to remove Syria's Al
+      Qaeda affiliate, suggesting that such actions reflect a broader pattern of how
+      the concept of terrorism is manipulated to justify military and political interventions.
+      Johnstone emphasizes that the definition of terrorism is often shaped by the interests
+      of the Western empire rather than a consistent moral framework.
+    published: '2025-07-09T10:23:37+00:00'
   - title: Trump’s California Protest Crackdown & the Law
     url: https://consortiumnews.com/2025/07/08/trumps-california-protest-crackdown-the-law/
     text: Portland in 2020, Los Angeles today — Karen J. Greenberg covers the maximalist

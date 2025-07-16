@@ -7,18 +7,352 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  Geopolitical tensions continue to intensify across several regions, with recent independent analyses highlighting the deepening crisis in the Israeli-occupied West Bank, ongoing debates over the role of corporate complicity in conflict, and the shifting landscape of press freedom in the United States.
+  The global geopolitical landscape continues to be shaped by a pronounced surge in militarization among advanced economies, with recent developments highlighting the deepening entrenchment of the military-industrial complex. As **Binoy Kampmark** observes, countries across the EU, NATO, and East Asia are not only ramping up military expenditures but also actively promoting arms exports under the pretext of national defense. South Korea’s President Lee Jae-myung, for instance, has been at the forefront of this trend, prioritizing defense industry interests over peaceful development initiatives.
   
-  The latest focus has been on the West Bank, where **Binoy Kampmark** draws attention to the normalization of extremist settler ideologies and the increasing violence against Palestinians, as exposed in Louis Theroux's documentary "The Settlers." The documentary underscores not only the religiously motivated expansionism but also the growing support from both the Israeli government and private sector for these actions. According to **Kampmark**, this signals a "troublingly normalized colonial project" that is further entrenching systemic oppression and making prospects for a peaceful resolution increasingly remote.
+  This escalation is mirrored in Europe, where the EU’s approval of a €150 billion defense loan program underscores a shift toward pre-World War II levels of armament and preparedness. The move, according to **Kampmark**, raises serious concerns about democratic legitimacy and the long-term consequences of such militarization, particularly as it is justified by the ongoing conflict in Ukraine and broader security anxieties.
   
-  On the international legal and economic front, a new UN Human Rights Council report by Francesca Albanese, discussed by **Kampmark**, accuses a range of corporate entities of profiting from what is described as Israel's "economy of genocide." The report alleges that companies across various sectors are facilitating occupation and human rights violations, a claim that has been met with strong denials from Israeli and US officials. The backlash illustrates the entrenched divisions over accountability and the role of economic interests in perpetuating conflict.
+  Meanwhile, the humanitarian crisis in Gaza remains acute. Recent reports detail the Israeli Defense Forces’ continued use of lethal force against civilians during aid distributions, a practice that **Kampmark** argues is designed to perpetuate suffering and maintain control over the Palestinian population. The normalization of violence and the complicity of private contractors in these operations further highlight the systemic nature of the crisis.
   
-  Meanwhile, in the United States, the precedent set by Julian Assange's recent conviction is reverberating through the political and media landscape. **Kampmark** notes that former President Donald Trump, who once championed WikiLeaks, is now considering the use of the Espionage Act against journalists. This shift raises significant concerns about the future of press freedom, with the potential for expanded prosecutions under national security pretexts.
-  
-  Looking ahead, the majority of analysts, including **Kampmark**, predict with high confidence that the situation in the West Bank will deteriorate further as settler violence becomes more institutionalized and international accountability remains elusive. The debate over corporate complicity in conflict is expected to intensify, particularly as more evidence emerges and as global economic actors face mounting scrutiny. In the US, there is a high chance that the legal environment for journalists will become more restrictive, setting a precedent that could influence other democracies.
-  
-  Overall, the prevailing trend is one of escalating confrontation—whether on the ground in occupied territories, in international legal forums, or in the battle over information and accountability.
+  Looking ahead, the prevailing trend is one of escalating militarism and diminishing prospects for peaceful resolution in key conflict zones. There is a high chance that military budgets and arms exports will continue to grow, particularly in response to perceived threats and alliance pressures. The humanitarian situation in Gaza is most definitely set to deteriorate further unless there is a significant shift in international policy or intervention. The entrenchment of the military-industrial complex in policymaking circles, as well as the symbolic nature of recent sanctions and diplomatic measures, suggests that meaningful change remains unlikely in the near term.
 articles:
+  - title: 'K-Defense Day: Pimping for the Arms Dealers'
+    url: https://www.counterpunch.org/2025/07/14/k-defense-day-pimping-for-the-arms-dealers/
+    text: 'Militarism is catching on across the countries of advanced economies and
+      beyond. The sly, disingenuous term of “defence” is used in this context, encouraging
+      arms manufacturers, contractors and the entire apparatus of the military-industrial
+      complex to fatten for the cause.
+
+
+      The European Union huffs and struts towards higher targets of expenditure that
+      will cull projects for peaceful development in favour of a fatuous rearmament
+      agenda. Member countries of the NATO alliance, lent on by the administration of
+      President Donald Trump, are doing the same. The countries of the Middle East continue
+      to add to the numbers, with warring Israel seeing a 65% increase in 2024 to US$46.5
+      billion, the sharpest annual increase since the Six-Day War in 1967.
+
+
+      In East Asia, military contractors are also preening themselves in Tokyo and Seoul,
+      pressing the flesh and pursuing contracts. Japan’s military spending rose by a
+      gulping 21% in 2024. The amount of US$55.3 billion is the largest since 1952.
+      In Seoul, on the occasion of K-Defense Day on June 8, President Lee Jae-myung
+      made it clear that he did not want South Korea’s own defence industry to miss
+      out on all the fun. In a closed-door discussion held at the Grand Hyatt Seoul
+      hotel organised by the Defense Acquisition Program Administration (DAPA), Lee
+      solemnly promised to “do my best to push ahead, as long as we don’t end up being
+      labelled arms dealers”.
+
+
+      This somewhat idiosyncratic caveat is bound to make little difference, given Lee’s
+      ambitions to promote the value of South Korea’s killing inventory. DAPA, wanting
+      to make the most of its first Defense Industry Day themed “Remembering the dedication
+      and passion of Korea’s Defense Industry”, was in a bullish mood to promote Korean
+      military prowess. Some well minted propaganda did the rounds, drawing inspiration
+      on the exploits of Admiral Yi Sun-sin on July 8, 1592, when the turtle ship was
+      committed to the Battle of Sacheon against the Japanese fleet. The turtle ship,
+      in its “historical significance”, symbolised “Korea’s will to protect its territory
+      and its independent technological prowess.”
+
+
+      Those in the defence industry had been worried that the new President might give
+      them the cold shoulder on this grand occasion. He had previously attacked the
+      installation of the US Terminal High Altitude Defense system on Korean soil, ostensibly
+      to protect South Korea from North Korean missiles, as needlessly provocative.
+
+
+      The militarists need not have worried. All the relevant mandarins were in attendance,
+      including the Minister of National Defense nominee Ahn Gyu-baek and Chairperson
+      of the National Defense Committee, Seong Il-jong. The industry titans were also
+      represented. Numerous awards of merit were also presented.
+
+
+      Lee had purportedly told his aides that K-Defense Day, put on the calendar of
+      commemorations by his impeached predecessor Yoon Suk Yeol in 2023, would be a
+      good opportunity to “highlight our support for defence.” According to Korea JoongAng
+      Daily, Lee outlined his various achievements of late to the closed gathering,
+      including attending the G7 summit held last month in Canada. “A big reason I went
+      was to showcase the strength of our defence industry and to ask them to buy our
+      submarines.”
+
+
+      In May, it was revealed that a trio of South Korean firms – Hyundai Heavy Industries,
+      Hanwha Ocean and Hanwha Aerospace – had made a combined offer to the Canadian
+      armed forces valued between US$14 to 17 billion in submarines, with US$720 million
+      worth of armoured vehicles and artillery systems. It was a good time for the Koreans
+      to strike, given the stated view by newly-elected Canadian Prime Minister Mike
+      Carney that “the old relationship with the United States based on… tight security
+      and military cooperation is over”.
+
+
+      Lee also explained his purpose for seeking an invitation to the latest NATO summit
+      held in The Hague. Despite wanting to avoid accusations of being a grubby arms
+      dealer, the ROK President was clearly placing the ambitions and wallets of arms
+      dealers ahead of the common citizenry. He had become a pimp for arms: “The biggest
+      reason I wanted to go was to advertise our defence industry and weapons.”
+
+
+      Participants at the forum pressed Lee to depart from the view that defence was
+      a matter of procurement and competition between parties rather than a total industry
+      beneficial to the state. The response was suitably patriotic – at least if you
+      are a merchant of death: “Defence and arms exports are not just a competition
+      between companies; they’re a competition between nations. We have to win as ‘One
+      Team Korea.’”
+
+
+      In public remarks made at the start of the forum, Lee offered the sort of reasoning
+      that launders the military-industrial complex of its stains, concealing its insatiable
+      appetite to stimulate the cause for war. “I hope the defence industry not only
+      strengthens our security but also becomes one of Korea’s future growth engines.
+      The government will continue investing and providing strong support.”
+
+
+      In response to “the rapidly changing security environment”, the government would
+      also “develop state-of-the-art weapon systems using artificial intelligence (AI)
+      and unmanned robots and build a healthy business ecosystem that goes beyond the
+      industrial structure centred on big corporations to allow small and medium enterprises
+      and diverse talent to participate.” Militarism, following this seedy rationale,
+      should not just be for the big corporations and arms manufacturers. In the business
+      of killing, the little guys should also be given a chance'
+    one_sentence_summary: Militarism is on the rise in advanced economies, with countries
+      like those in the EU, NATO, and East Asia significantly increasing military spending
+      and promoting arms exports under the guise of defense, as leaders like South Korea's
+      President Lee Jae-myung prioritize the interests of the military-industrial complex
+      over peaceful development.
+    paragraph_summary: The article discusses the rising trend of militarism in advanced
+      economies, particularly within the European Union and NATO member countries, as
+      they increase defense spending under the guise of "defense" while neglecting peaceful
+      development initiatives. Notably, Israel's military budget is set to rise significantly,
+      and Japan and South Korea are also ramping up their military expenditures, with
+      South Korea's President Lee Jae-myung promoting the country's defense industry
+      at a recent event. Despite his attempts to distance himself from the label of
+      arms dealer, Lee's actions indicate a prioritization of military contracts and
+      exports over public welfare, as he seeks to position South Korea as a competitive
+      player in the global arms market. The article critiques this militaristic approach,
+      highlighting the government's commitment to developing advanced weapon systems
+      and fostering a defense industry that includes smaller enterprises, ultimately
+      framing militarism as a misguided and dangerous economic strategy.
+    published: '2025-07-14T05:55:05+00:00'
+  - title: 'Death by Fungi: Cashing in on Erin Patterson'
+    url: https://www.counterpunch.org/2025/07/11/death-by-fungi-cashing-in-on-erin-patterson/
+    text: 'She has become a notorious figure of international interest, shamelessly
+      exploited for news cycles, commercial worth and career advancement. After a trial
+      lasting nine weeks, conducted at the Latrobe Valley Law Courts in Morwell, Victoria,
+      Erin Patterson, a stocky, thick set mother of two was found guilty for three murders
+      and an attempted murder. Date: July 29, 2023 in the town of Leongatha. Her weapon
+      in executing her plot of Sophoclean extravagance: death cap mushrooms (Amanita
+      phalloides) served in a beef Wellington. Her targets: in-laws Don and Gail Patterson,
+      Gail’s sister, Heather Wilkinson, and Heather’s husband, Ian Wilkinson. Of the
+      four, only Ian survived the culinary killings – barely. Prudently, estranged husband
+      Simon chose not to attend.
+
+
+      News outlets thought it useful to produce graphics about this Australian’s terminating
+      exploits. CNN produced one with voyeuristic relish, making it appear much like
+      a Midsomer Murders episode. Details aplenty are provided, including the gruesome
+      end for the victims. “Gail and Heather died on August 4 [2023] from multiorgan
+      failure, followed by Don on August 5 after he failed to respond to a liver transplant.”
+      Fortunately, Ian Wilkinson survived, but the rumour mongering hack journalist
+      can barely take it, almost regretful of that fact: “after almost two months of
+      intensive treatment”, he was discharged.
+
+
+      Having an opinion on this case has become standard fare, amassing on a turd heap
+      of supposition, second guessing and wonder. The range is positively Chaucerian
+      in its village variety. The former court official interviewed about the killer’s
+      guilty mind and poisoning stratagems, stating the obvious and dulling. The criminologist,
+      keen on career advancement and pseudo-psychology, attempted to get into Patterson’s
+      mind, commenting on her patent ordinariness.
+
+
+      One example of the latter is to be found in The Conversation, where we are told
+      by Xanthe Mallett with platitudinous and forced certainty how Patterson, speaking
+      days after the incident, “presented as your typical, average woman of 50.” If
+      attempting to kill four people using fungi is a symptom of average, female ordinariness
+      of a certain age, we all best start making our own meals. But Mallett thinks it
+      is precisely that sense of the ordinary that led to a public obsession, a mania
+      with crime and motivation. “The juxtaposition between the normality of a family
+      lunch (and the sheer vanilla-ness of the accused) and the seriousness of the situation
+      sent the media into overdrive.”
+
+
+      This is certainly not the view of Dr. Chris Webster, who answered the Leongatha
+      Hospital doorbell when Patterson first presented. Realising her link to the other
+      four victims suffering symptoms of fungi poisoning, Webster explained that death
+      cap mushrooms were suspected. Asking Patterson where she got them, she replied
+      with one word: “Woolworths.” This was enough for the doctor to presume guilt,
+      an attitude which certainly gave one of Australia’s most ruthless supermarket
+      chains a graceful pardon. “She was evil and very smart to have planned it all
+      and carried out but didn’t quite dot every ‘i’ and cross every ‘t’.”
+
+
+      The marketer, thrilled with branding and promotion, suggests how Patterson Inc.
+      can become an ongoing concern of merchandise, plays and scripts. (Think of a shirt
+      sporting the following: “I ate beef Wellington and survived”.) The ABC did not
+      waste much time commissioning Toxic, a show created by Elise McCredie and Tony
+      Ayres, aided by ABC podcaster Rachel Brown. Ayres hams it up by saying that, “True
+      stories ask storytellers to probe the complexities of human behaviour. What really
+      lies beneath the headlines? It’s both a challenge and a responsibility to go beyond
+      the surface – to reveal, not just to sensationalise.” Given that this project
+      is a child of frothy publicity born from sensationalism and hysteria, the comment
+      is almost touching.
+
+
+      The media prompts and updates, mischaracterising Patterson as “The Mushroom Murderer”,
+      leave the impression that she really did like killing fungi. But an absolute monster
+      must be found, and the press hounds duly found it. Papers like the Herald Sun
+      preferred the old Rupert Murdoch tactic: till the soil to surface level to find
+      requisite dirt. According to a grimy bit of reporting from that most distinguished
+      of Melbourne rags, “the callous murderer, whose maiden name was Scutter before
+      marrying Simon Patterson in 2007, was secretly dubbed ‘Scutter the Nutter’ among
+      her training group.” The Australian was in a didactic mood, unhappy that the judge
+      did not make it even more obvious that a crime, committed by a woman involving
+      poison and “not a gun or a knife”, was equally grave.
+
+
+      To complete matters was an aggrieved home cook, Nagi Maehashi, who also rode the
+      wave of publicity by expressing sadness that her recipe had become a weapon for
+      lethal effect. (Presumably, Maehashi did not have lethal mushrooms in her original
+      recipe, but precision slides in publicity.) Overcome with false modesty in this
+      glare of publicity, Maehashi did not wish to take interviews, but felt her misused
+      work deserved a statement. “It is of course upsetting to learn that one of my
+      recipes – possibly the one I’ve spent more hours perfecting than any other – something
+      I created to bring joy and happiness, is entangled in a tragic situation,” she
+      moaned on Instagram. Those familiar with Maehashi will note her tendency to megalomania
+      in the kitchen, especially given recipes that have been created long before she
+      turned to knife and spatula.
+
+
+      The ones forgotten will be those victims who died excruciatingly before their
+      loved ones in a richly sadistic exercise. At the end of it all, the entire ensemble
+      of babblers, hucksters and chancers so utterly obsessed with what took place in
+      Leongatha should thank Patterson. Her murders have excited, enthralled and given
+      people purpose. She will start conversations, fill pockets, extend careers and,
+      if we are to believe some recent reporting, make meals for her fellow inmates
+      in prison.'
+    one_sentence_summary: Erin Patterson was found guilty of murdering three family
+      members and attempting to kill another by poisoning them with death cap mushrooms
+      in a case that has captivated and sensationalized media attention, raising questions
+      about the nature of crime and public fascination.
+    paragraph_summary: Erin Patterson, a mother of two, gained international notoriety
+      after being found guilty of three murders and an attempted murder in a high-profile
+      trial in Victoria, Australia, where she used death cap mushrooms to poison her
+      in-laws during a family meal. The case has captivated media attention, leading
+      to sensationalized coverage and public fascination with Patterson's seemingly
+      ordinary persona juxtaposed against the horrific nature of her crimes. While some
+      commentators have attempted to analyze her motivations, others have exploited
+      the story for commercial gain, with plans for merchandise and media adaptations
+      emerging. Amidst the frenzy, the tragic deaths of her victims have been overshadowed
+      by the spectacle of the trial and the ensuing media circus, leaving a grim reminder
+      of the real human cost behind the sensational headlines.
+    published: '2025-07-11T05:54:53+00:00'
+  - title: 'Gunfire Communication with “Zombie Hordes”: The Gaza Humanitarian Foundation
+      and the IDF'
+    url: https://www.counterpunch.org/2025/07/09/gunfire-communication-with-zombie-hordes-the-gaza-humanitarian-foundation-and-the-idf/
+    text: 'It’s made to order. First, eliminate the aid system after creating circumstances
+      of enormous suffering. Then, kill, starve, vanquish and displace those in need
+      of that aid. Finally: give the pretence of humanity by ensuring some aid to those
+      whose suffering you created in the first place.
+
+
+      As things stand, the system of aid distribution in the Gaza Strip is intended
+      to cause suffering and destruction to recipients. Since May 26, the Gaza Humanitarian
+      Foundation, an opaquely structured entity with Israeli and US backing, has run
+      the distribution of parcels from a mere four points, a grim joke given the four
+      hundred or so outlets previously operated by the United Nations Palestinian relief
+      agency. The entire process of seeking aid has been heavily rationed and militarised,
+      with Israeli troops and private contractors exercising murderous force with impunity.
+      Opening times are not set, rendering the journey to the distribution points even
+      more precarious. When they do open, they do so for short spells.
+
+
+      Haaretz has run reports quoting soldiers of the Israeli Defense Forces claiming
+      to have orders to deliberately fire upon unarmed crowds on their perilous journey
+      to the food sites. In a June 27 piece, the paper quotes a soldier describing the
+      distribution sites as “a killing field.” Where he was stationed, “between one
+      and five people were killed every day.” Those seeking aid were “treated like a
+      hostile force – no crowd-control measures, no tear gas – just live fire with everything
+      imaginable: heavy machine guns, grenade launchers, mortars. Then, once the center
+      opens, the shooting stops, and they can approach. Our form of communication is
+      gunfire.”
+
+
+      The interviewed soldier could recall no instance of return fire. “There’s no enemy,
+      no weapons.” IDF officers also told the paper that the GHF’s operations had provided
+      a convenient distraction for continuing operations in Gaza, which had been turned
+      into a “backyard”, notably during Israel’s war with Iran. In the words of a reservist,
+      the Strip had “become a place with its own set of rules. The loss of human life
+      means nothing. It’s not even an ‘unfortunate incident’, like they used to say.”
+
+
+      An IDF officer involved in overseeing security at one of the distribution centres
+      was full of understatement. “Working with a civilian population when your only
+      means of interaction is opening fire – that’s highly problematic, to say the least.”
+      It was “neither ethically nor morally acceptable for people to have to reach,
+      or fail to reach, a [humanitarian zone] under tank fire, snippers and mortar shells.”
+
+
+      Much the same story can be found with the security contractors, those enthusiastic
+      killers following in the footsteps of predecessors who treat international humanitarian
+      law as inconvenient if not altogether irrelevant. Countries such as Afghanistan
+      and Iraq can attest to the blood-soiled record of private military contractors,
+      with the killing of 14 Iraqi civilians in Baghdad city’s Nisour Square by Blackwater
+      USA employees in September 2007 being but one spectacular example. While those
+      employees faced trial and conviction in a US federal court in 2014 on an assortment
+      of charges – among them murder, manslaughter and attempted manslaughter – such
+      a fate is unlikely for any of those working for the GHF.
+
+
+      On July 4, the BBC published the observations of a former contractor on the trigger-happy
+      conduct of his colleagues around the food centres. In one instance, a guard opened
+      fire on women, children and elderly people “moving too slowly away from the site.”
+      Another contractor, also on location, stood on the berm overlooking the exit to
+      one of the GHF sites, firing 15 to 20 bursts of repetitive fire at the crowd.
+      “A Palestinian man dropped on the ground motionless. And then, the other contractor
+      who was standing there was like, ‘damn, I think you got one’. And then they laughed
+      about it.”
+
+
+      The company had also failed to issue contractors any operating procedures or rules
+      of engagement, except one: “if you feel threatened, shoot – shoot to kill and
+      ask questions later.” No reference is made to the International Code of Conduct
+      for Private Security Service Providers. To journey to Gaza was to go to a land
+      unencumbered by laws and rules. “Do what you want,” is the cultural norm of GHF
+      operatives. And this stands to reason, given the reference of “team leaders” to
+      Gazans seeking aid as “zombie hordes”.
+
+
+      The GHF, in time honoured fashion, have denied these allegations. Ditto the IDF,
+      that great self-proclaimed stalwart of international law. It is therefore left
+      to such contributors as Anas Baba, NPR’s producer in the Gaza Strip, to enlighten
+      those who care to read and listen. As one of the few Palestinian journalists working
+      for a US news outlet in the strip, his observations carry singular weight. In
+      a recent report, Baba neatly summarised the manufactured brutality behind the
+      seeking of aid in an enclave strangled and suffering gradual extinction. “I faced
+      Israeli military fire, private US contractors pointing laser beams at my forehead,
+      crowds with knives fighting for rations and masked thieves – to get food from
+      a group supported by the US and Israel called the Gaza Humanitarian Foundation”.
+
+
+      If nothing else, it is high time that the GHF scrap any pretence of being humanitarian
+      in its title and admit to its true role: an adjutant to Israel’s program of extirpating
+      Gaza’s Palestinian population.'
+    one_sentence_summary: The article critiques the Gaza Humanitarian Foundation's aid
+      distribution system, arguing that it is designed to inflict suffering and violence
+      on recipients, with reports of Israeli soldiers and private contractors using
+      lethal force against unarmed civilians seeking aid, ultimately serving as a tool
+      for Israel's oppressive policies against the Palestinian population.
+    paragraph_summary: The article critiques the humanitarian aid distribution system
+      in the Gaza Strip, arguing that it is designed to perpetuate suffering and destruction
+      among the population it ostensibly aims to help. It highlights the operations
+      of the Gaza Humanitarian Foundation (GHF), which, backed by Israeli and US interests,
+      has drastically reduced aid distribution points and militarized the process, leading
+      to violence against those seeking assistance. Reports indicate that Israeli Defense
+      Forces (IDF) and private contractors have used lethal force against unarmed crowds,
+      treating aid seekers as hostile entities. Eyewitness accounts reveal a culture
+      of impunity among security personnel, with no adherence to international humanitarian
+      laws, and a disregard for civilian life. The article concludes that the GHF should
+      abandon any claims of humanitarianism and acknowledge its role in facilitating
+      Israel's oppressive policies against the Palestinian population in Gaza.
+    published: '2025-07-09T05:55:01+00:00'
   - title: 'The Fanatic’s Gaze: Louis Theroux and the West Bank Settlers'
     url: https://www.counterpunch.org/2025/07/08/the-fanatics-gaze-louis-theroux-and-the-west-bank-settlers/
     text: 'He has made it his bread and butter for years: finding society’s kooky representatives,

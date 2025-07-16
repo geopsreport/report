@@ -7,17 +7,212 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  The past week has seen mounting scrutiny of Western and Israeli covert operations in the Middle East, with new revelations deepening existing controversies around the conduct of mercenary groups, intelligence agencies, and tech-military collaboration.
+  As political crises and covert operations continue to shape the global landscape, recent developments highlight the intensifying struggle for power and influence across Latin America, the Middle East, and the Western security establishment.
   
-  The most recent development centers on the Gaza Humanitarian Foundation (GHF), a U.S.-linked mercenary and aid organization operating in southern Gaza. Following an Associated Press exposé alleging that American mercenaries fired on Palestinians seeking aid in May, the GHF released new footage in an attempt to counter the allegations. However, as **Max Blumenthal** reports, the video has only “deepened the controversy,” failing to exonerate the firm and instead intensifying scrutiny of its operations. The footage appears to corroborate claims of violence against civilians, further undermining the GHF’s credibility and raising questions about the militarization of aid distribution in Gaza. This comes amid broader accusations that the GHF is a front for Israeli intelligence operations, with Mossad reportedly involved in its funding and strategic direction.
+  In Bolivia, former President Evo Morales has come forward with new evidence of corruption within the country’s electoral council. In an interview with The Grayzone, Morales revealed leaked documents implicating a council member in accepting bribes to disqualify him from running for president. Morales described the current situation as “fighting a second coup,” underscoring the enduring volatility in Bolivian politics and his persistent popularity among grassroots supporters. According to **Max Blumenthal**, these revelations further erode the credibility of Bolivia’s electoral process and suggest that external and internal actors remain invested in preventing Morales’ political comeback.
   
-  In parallel, attention has turned to the role of Israeli-linked tech companies in the global app market. **Blumenthal** highlights how a significant number of best-selling apps on Apple and Google platforms are developed by former Israeli military and intelligence personnel. These companies, including ZipoApps and Playtika, generate substantial revenue for Israel’s economy and are often shrouded in opaque ownership, making it difficult for users to discern their origins. The report raises ethical concerns about the indirect support of Israeli state policy through consumer tech, calling for increased vigilance from the boycott, divestment, and sanctions (BDS) movement.
+  Meanwhile, the fallout from Western intelligence operations continues to reverberate. The recent closure of the case against New Zealand journalist Mick Hall, who was falsely accused of spreading “Russian disinformation,” has reignited debate over media integrity and intelligence overreach. **Max Blumenthal** reports that the investigation ultimately cleared Hall, but the episode has left lingering questions about the influence of intelligence agencies on public discourse and the vulnerability of journalists to politically motivated accusations.
   
-  Meanwhile, the fallout from intelligence operations targeting Iran continues to reverberate. Leaked documents have confirmed that British MI6 agent Nicholas Langman infiltrated the International Atomic Energy Agency (IAEA), orchestrating sanctions against Iran and fueling Iranian suspicions of Western collusion. This revelation has led to a further breakdown in trust between Tehran and the IAEA, with Iranian officials now more convinced than ever of a coordinated campaign to undermine their sovereignty.
+  In the United States, the Trump administration’s proposed budget bill has drawn criticism for slashing veterans’ benefits and domestic spending by $1.7 trillion, while channeling increased funds to arms manufacturers and AI surveillance firms. **Blumenthal** notes that this shift prioritizes corporate interests over social welfare, reflecting a broader trend of militarization and privatization within the US security apparatus.
   
-  **Trends and Predictions:**  
-  The majority of independent analysts agree that the convergence of military, intelligence, and tech sector interests is accelerating, particularly in conflict zones like Gaza and in the surveillance of adversarial states such as Iran. The deepening scandal around the GHF is likely to prompt further investigations and could lead to increased scrutiny of private military contractors operating under humanitarian cover. The exposure of Israeli influence in both tech and intelligence spheres is expected to fuel calls for greater transparency and accountability, especially among activists and civil society groups. Given the current trajectory, I guarantee that tensions between Iran and Western institutions like the IAEA will intensify, with diplomatic engagement becoming increasingly fraught. The use of tech platforms as instruments of state policy is also most definitely set to expand, raising new challenges for privacy and international law.
+  Looking ahead, these developments point to a high likelihood of continued instability in Bolivia, with Morales’ supporters poised to challenge any attempts to sideline him through legal or extralegal means. In the Anglosphere, the politicization of intelligence and media is quite likely to fuel further skepticism toward official narratives. In the US, the budgetary focus on military and surveillance spending most definitely signals an entrenched commitment to corporate-driven security policies, with significant implications for both domestic and foreign affairs.
 articles:
+  - title: 'VIDEO: ‘We are fighting second coup,’ Evo Morales tells The Grayzone'
+    url: https://thegrayzone.com/2025/07/14/evo-morales-fighting-second-coup/
+    text: 'In an exclusive interview with The Grayzone’s Oscar Leon, former Bolivian
+      President Evo Morales details a trove of leaked chats and documents which show
+      how an electoral council member took money in exchange for disqualifying him from
+      running for president again. As his country’s first indigenous president and the
+      leader of powerful social movements, Evo remains popular among his base. Here,
+      Morales addresses the attacks he has weathered from the current Bolivian president,
+      Luis Arce, who relied on him to […] The post VIDEO: ‘We are fighting second coup,’
+      Evo Morales tells The Grayzone first appeared on The Grayzone . The post VIDEO:
+      ‘We are fighting second coup,’ Evo Morales tells The Grayzone appeared first on
+      The Grayzone .'
+    one_sentence_summary: In an interview with The Grayzone, former Bolivian President
+      Evo Morales reveals leaked evidence of corruption involving an electoral council
+      member who accepted bribes to disqualify him from running for president, while
+      he discusses ongoing political challenges and his enduring popularity among supporters.
+    paragraph_summary: In an exclusive interview with The Grayzone, former Bolivian
+      President Evo Morales revealed leaked chats and documents indicating that a member
+      of the electoral council accepted bribes to disqualify him from running for president
+      again. As Bolivia's first indigenous president and a prominent figure in social
+      movements, Morales maintains significant support among his followers. He also
+      discusses the ongoing political challenges he faces, particularly from current
+      President Luis Arce, who previously relied on Morales' influence. Morales asserts
+      that he is engaged in a struggle against what he describes as a "second coup"
+      in Bolivia.
+    published: '2025-07-14T22:54:32+00:00'
+  - title: 'VIDEO: ‘We are fighting second coup,’ Evo Morales tells The Grayzone'
+    url: https://thegrayzone.com/2025/07/14/evo-morales-fighting-second-coup/
+    text: 'In an exclusive interview with The Grayzone’s Oscar Leon, former Bolivian
+      President Evo Morales details a trove of leaked chats and documents which show
+      how an electoral council member took money in exchange for disqualifying him from
+      running for president again. As his country’s first indigenous president and the
+      leader of powerful social movements, Evo remains popular among his base. Here,
+      Morales addresses the attacks he has weathered from the current Bolivian president,
+      Luis Arce, who relied on him to […] The post VIDEO: ‘We are fighting second coup,’
+      Evo Morales tells The Grayzone first appeared on The Grayzone . The post VIDEO:
+      ‘We are fighting second coup,’ Evo Morales tells The Grayzone appeared first on
+      The Grayzone .'
+    one_sentence_summary: In an interview with The Grayzone, former Bolivian President
+      Evo Morales reveals leaked evidence of corruption involving an electoral council
+      member who accepted bribes to disqualify him from running for president, while
+      he discusses ongoing political challenges and his enduring popularity among supporters.
+    paragraph_summary: In an exclusive interview with The Grayzone, former Bolivian
+      President Evo Morales revealed leaked chats and documents indicating that a member
+      of the electoral council accepted bribes to disqualify him from running for president
+      again. As Bolivia's first indigenous president and a prominent figure in social
+      movements, Morales maintains significant support among his followers. He also
+      discusses the ongoing political challenges he faces, particularly from current
+      President Luis Arce, who previously relied on Morales' influence. Morales asserts
+      that he is engaged in a struggle against what he describes as a "second coup"
+      in Bolivia.
+    published: '2025-07-14T22:54:32+00:00'
+  - title: Case closed after ‘Russian disinfo’ claims led to persecution of NZ journalist
+    url: https://thegrayzone.com/2025/07/12/case-closed-persecution-nz-journalist/
+    text: Journalist Mick Hall was accused of slipping “Russian disinformation” into
+      copy at New Zealand’s state broadcaster, sparking an international furor about
+      Kremlin infiltration. Following an intel agency investigation, his name was cleared.
+      Now, Hall tells The Grayzone how a simple copy editing dispute brought him into
+      Five Eyes’ crosshairs. Until two years ago, Mick Hall was a fairly obscure journalist
+      publishing wire copy for Radio New Zealand (RNZ), far-removed from media capitals
+      like Washington and London where international opinions are […] The post Case
+      closed after ‘Russian disinfo’ claims led to persecution of NZ journalist first
+      appeared on The Grayzone . The post Case closed after ‘Russian disinfo’ claims
+      led to persecution of NZ journalist appeared first on The Grayzone .
+    one_sentence_summary: Journalist Mick Hall was wrongly accused of incorporating
+      "Russian disinformation" into his work at New Zealand's state broadcaster, leading
+      to an investigation that ultimately cleared his name and highlighted concerns
+      about media integrity and intelligence agency overreach.
+    paragraph_summary: Journalist Mick Hall faced accusations of incorporating "Russian
+      disinformation" into his work at New Zealand's state broadcaster, RNZ, leading
+      to a significant international controversy regarding potential Kremlin influence.
+      After an investigation by intelligence agencies, Hall was exonerated, and he shared
+      his experience with The Grayzone, detailing how a minor copy editing disagreement
+      escalated into a situation that placed him under scrutiny from the Five Eyes intelligence
+      alliance. Prior to this incident, Hall was relatively unknown in the journalism
+      field, operating outside major media hubs.
+    published: '2025-07-12T16:45:12+00:00'
+  - title: Case closed after ‘Russian disinfo’ claims led to persecution of NZ journalist
+    url: https://thegrayzone.com/2025/07/12/case-closed-persecution-nz-journalist/
+    text: Journalist Mick Hall was accused of slipping “Russian disinformation” into
+      copy at New Zealand’s state broadcaster, sparking an international furor about
+      Kremlin infiltration. Following an intel agency investigation, his name was cleared.
+      Now, Hall tells The Grayzone how a simple copy editing dispute brought him into
+      Five Eyes’ crosshairs. Until two years ago, Mick Hall was a fairly obscure journalist
+      publishing wire copy for Radio New Zealand (RNZ), far-removed from media capitals
+      like Washington and London where international opinions are […] The post Case
+      closed after ‘Russian disinfo’ claims led to persecution of NZ journalist first
+      appeared on The Grayzone . The post Case closed after ‘Russian disinfo’ claims
+      led to persecution of NZ journalist appeared first on The Grayzone .
+    one_sentence_summary: Journalist Mick Hall was wrongly accused of incorporating
+      "Russian disinformation" into his work at New Zealand's state broadcaster, leading
+      to an investigation that ultimately cleared his name and highlighted concerns
+      about media integrity and intelligence agency overreach.
+    paragraph_summary: Journalist Mick Hall faced accusations of incorporating "Russian
+      disinformation" into his work at New Zealand's state broadcaster, RNZ, leading
+      to a significant international controversy regarding potential Kremlin influence.
+      After an investigation by intelligence agencies, Hall was exonerated, and he shared
+      his experience with The Grayzone, detailing how a minor copy editing disagreement
+      escalated into a situation that placed him under scrutiny from the Five Eyes intelligence
+      alliance. Prior to this incident, Hall was relatively unknown in the journalism
+      field, operating outside major media hubs.
+    published: '2025-07-12T16:45:12+00:00'
+  - title: Trump’s BBB busts the budget to benefit arms makers, AI warlords
+    url: https://thegrayzone.com/2025/07/12/military-industrial-complex-riding-high/
+    text: Trump’s bill slashes spending on veterans to boost corporate welfare for the
+      Big Five arms manufacturers and surging AI spying firms like Palantir. Originally
+      published at Antiwar.com. The Senate is on the verge of passing the distinctly
+      misnamed “big beautiful bill.” It is, in fact, one of the ugliest pieces of legislation
+      to come out of Congress in living memory. The version that passed the House recently
+      would cut $1.7 trillion, mostly in domestic spending, while providing the top
+      5% of taxpayers […] The post Trump’s BBB busts the budget to benefit arms makers,
+      AI warlords first appeared on The Grayzone . The post Trump’s BBB busts the budget
+      to benefit arms makers, AI warlords appeared first on The Grayzone .
+    one_sentence_summary: Trump's proposed bill significantly reduces veterans' funding
+      to prioritize corporate welfare for major arms manufacturers and AI surveillance
+      companies, while cutting $1.7 trillion in domestic spending.
+    paragraph_summary: The article critiques a bill associated with Trump, referred
+      to as the "big beautiful bill," which is poised for Senate approval but is characterized
+      as detrimental legislation. It highlights that the bill proposes a $1.7 trillion
+      cut primarily targeting domestic spending, particularly affecting veterans, to
+      instead funnel resources into corporate welfare for major arms manufacturers and
+      AI surveillance companies like Palantir. The piece argues that this legislation
+      prioritizes the interests of the wealthiest taxpayers while undermining essential
+      services for veterans, labeling it one of the most egregious bills to emerge from
+      Congress in recent history.
+    published: '2025-07-12T16:28:13+00:00'
+  - title: Trump’s BBB busts the budget to benefit arms makers, AI warlords
+    url: https://thegrayzone.com/2025/07/12/military-industrial-complex-riding-high/
+    text: Trump’s bill slashes spending on veterans to boost corporate welfare for the
+      Big Five arms manufacturers and surging AI spying firms like Palantir. Originally
+      published at Antiwar.com. The Senate is on the verge of passing the distinctly
+      misnamed “big beautiful bill.” It is, in fact, one of the ugliest pieces of legislation
+      to come out of Congress in living memory. The version that passed the House recently
+      would cut $1.7 trillion, mostly in domestic spending, while providing the top
+      5% of taxpayers […] The post Trump’s BBB busts the budget to benefit arms makers,
+      AI warlords first appeared on The Grayzone . The post Trump’s BBB busts the budget
+      to benefit arms makers, AI warlords appeared first on The Grayzone .
+    one_sentence_summary: Trump's proposed bill significantly reduces veterans' funding
+      to prioritize corporate welfare for major arms manufacturers and AI surveillance
+      companies, while cutting $1.7 trillion in domestic spending.
+    paragraph_summary: The article critiques a bill associated with Trump, referred
+      to as the "big beautiful bill," which is poised for Senate approval but is characterized
+      as detrimental legislation. It highlights that the bill proposes a $1.7 trillion
+      cut primarily targeting domestic spending, particularly affecting veterans, to
+      instead funnel resources into corporate welfare for major arms manufacturers and
+      AI surveillance companies like Palantir. The piece argues that this legislation
+      prioritizes the interests of the wealthiest taxpayers while undermining essential
+      services for veterans, labeling it one of the most egregious bills to emerge from
+      Congress in recent history.
+    published: '2025-07-12T16:28:13+00:00'
+  - title: Former Biden, Obama spokespersons cash in on Gaza genocide
+    url: https://thegrayzone.com/2025/07/12/gaza-mercs-hire-crisis-comms-firm/
+    text: 'A mercenary firm implicated in severe abuses in Gaza has hired a PR firm
+      led by influential former Democrat flacks, including the spokeswoman for Biden’s
+      Pentagon. Meanwhile, a former State Dept spokesman who defended Israel’s crimes
+      is now VP at a Democrat PR firm representing Israel’s Foreign Ministry. Editor’s
+      note: After The Grayzone published a report revealing damning new footage showing
+      mercenaries from the UG Solutions firm firing toward crowds of desperate aid seekers
+      in the southern Gaza Strip, the […] The post Former Biden, Obama spokespersons
+      cash in on Gaza genocide first appeared on The Grayzone . The post Former Biden,
+      Obama spokespersons cash in on Gaza genocide appeared first on The Grayzone .'
+    one_sentence_summary: A mercenary firm linked to serious abuses in Gaza has engaged
+      a PR firm staffed by former Democratic officials, while a former State Department
+      spokesperson now represents Israel's Foreign Ministry, highlighting the intertwining
+      of political influence and public relations in the context of the Gaza conflict.
+    paragraph_summary: A mercenary firm accused of serious abuses in Gaza has engaged
+      a public relations firm led by prominent former Democratic operatives, including
+      a spokesperson for Biden's Pentagon. Additionally, a former State Department spokesperson
+      who previously defended Israel's actions now serves as a vice president at a Democratic
+      PR firm representing Israel's Foreign Ministry. This development follows a report
+      by The Grayzone that unveiled troubling footage of mercenaries from UG Solutions
+      firing at crowds of aid seekers in southern Gaza.
+    published: '2025-07-12T16:03:27+00:00'
+  - title: Former Biden, Obama spokespersons cash in on Gaza genocide
+    url: https://thegrayzone.com/2025/07/12/gaza-mercs-hire-crisis-comms-firm/
+    text: 'A mercenary firm implicated in severe abuses in Gaza has hired a PR firm
+      led by influential former Democrat flacks, including the spokeswoman for Biden’s
+      Pentagon. Meanwhile, a former State Dept spokesman who defended Israel’s crimes
+      is now VP at a Democrat PR firm representing Israel’s Foreign Ministry. Editor’s
+      note: After The Grayzone published a report revealing damning new footage showing
+      mercenaries from the UG Solutions firm firing toward crowds of desperate aid seekers
+      in the southern Gaza Strip, the […] The post Former Biden, Obama spokespersons
+      cash in on Gaza genocide first appeared on The Grayzone . The post Former Biden,
+      Obama spokespersons cash in on Gaza genocide appeared first on The Grayzone .'
+    one_sentence_summary: A mercenary firm linked to serious abuses in Gaza has engaged
+      a PR firm staffed by former Democratic officials, while a former State Department
+      spokesperson now represents Israel's Foreign Ministry, highlighting the intertwining
+      of political influence and public relations in the context of the Gaza conflict.
+    paragraph_summary: A mercenary firm accused of serious abuses in Gaza has engaged
+      a public relations firm led by prominent former Democratic operatives, including
+      a spokesperson for Biden's Pentagon. Additionally, a former State Department spokesperson
+      who previously defended Israel's actions now serves as a vice president at a Democratic
+      PR firm representing Israel's Foreign Ministry. This development follows a report
+      by The Grayzone that unveiled troubling footage of mercenaries from UG Solutions
+      firing at crowds of aid seekers in southern Gaza.
+    published: '2025-07-12T16:03:27+00:00'
   - title: New footage exposes ragtag US mercenaries firing toward Gaza aid seekers
     url: https://thegrayzone.com/2025/07/07/new-footage-us-mercenaries-firing-gaza-aid/
     text: Following an AP investigation accusing a US mercenary firm of firing on desperate
@@ -493,6 +688,56 @@ articles:
       underscoring the group's role in shaping U.S. foreign policy. The full audio and
       report are available for further insight.
     published: '2025-06-27T00:04:04+00:00'
+  - title: 'Iran vs. Israel: return of the ‘Spider Web’ theory'
+    url: https://thegrayzone.com/2025/06/24/iran-israel-spider-web-theory/
+    text: 'Though it failed to achieve deterrence, Iran scored a significant political
+      and psychological victory against Israel in June. Iran’s greatest achievement
+      in its 12 day war with Israel was in reviving the Spider Web theory Hasan Nasrallah
+      introduced after Israel’s 2000 withdrawal from southern Lebanon. During his speech
+      proclaiming victory over the Israeli occupiers, the late Hezbollah General Secretary
+      argued that because of its colonial nature, Jewish Israeli society would fracture
+      under sustained military pressure, forcing serious concessions from its […] The
+      post Iran vs. Israel: return of the ‘Spider Web’ theory first appeared on The
+      Grayzone . The post Iran vs. Israel: return of the ‘Spider Web’ theory appeared
+      first on The Grayzone .'
+    one_sentence_summary: Iran achieved a significant political and psychological victory
+      against Israel in June by reviving the Spider Web theory, which suggests that
+      sustained military pressure can fracture Israeli society and compel it to make
+      concessions.
+    paragraph_summary: In June, Iran achieved a notable political and psychological
+      victory against Israel despite failing to deter its actions, primarily by reviving
+      the "Spider Web" theory introduced by Hezbollah's late General Secretary, Hasan
+      Nasrallah, after Israel's 2000 withdrawal from southern Lebanon. This theory posits
+      that the inherently colonial nature of Israeli society will lead to its fragmentation
+      under sustained military pressure, ultimately compelling it to make significant
+      concessions. The revival of this theory underscores Iran's strategic narrative
+      in the ongoing conflict with Israel.
+    published: '2025-06-24T19:46:45+00:00'
+  - title: 'Iran vs. Israel: return of the ‘Spider Web’ theory'
+    url: https://thegrayzone.com/2025/06/24/iran-israel-spider-web-theory/
+    text: 'Though it failed to achieve deterrence, Iran scored a significant political
+      and psychological victory against Israel in June. Iran’s greatest achievement
+      in its 12 day war with Israel was in reviving the Spider Web theory Hasan Nasrallah
+      introduced after Israel’s 2000 withdrawal from southern Lebanon. During his speech
+      proclaiming victory over the Israeli occupiers, the late Hezbollah General Secretary
+      argued that because of its colonial nature, Jewish Israeli society would fracture
+      under sustained military pressure, forcing serious concessions from its […] The
+      post Iran vs. Israel: return of the ‘Spider Web’ theory first appeared on The
+      Grayzone . The post Iran vs. Israel: return of the ‘Spider Web’ theory appeared
+      first on The Grayzone .'
+    one_sentence_summary: Iran achieved a significant political and psychological victory
+      against Israel in June by reviving the Spider Web theory, which suggests that
+      sustained military pressure can fracture Israeli society and compel it to make
+      concessions.
+    paragraph_summary: In June, Iran achieved a notable political and psychological
+      victory against Israel despite failing to deter its actions, primarily by reviving
+      the "Spider Web" theory introduced by Hezbollah's late General Secretary, Hasan
+      Nasrallah, after Israel's 2000 withdrawal from southern Lebanon. This theory posits
+      that the inherently colonial nature of Israeli society will lead to its fragmentation
+      under sustained military pressure, ultimately compelling it to make significant
+      concessions. The revival of this theory underscores Iran's strategic narrative
+      in the ongoing conflict with Israel.
+    published: '2025-06-24T19:46:45+00:00'
   - title: Meet the Israeli fanatic running Ted Cruz’s office
     url: https://thegrayzone.com/2025/06/23/israeli-fanatic-ted-cruz-office/
     text: 'After Ted Cruz’s humiliation by Tucker Carlson, attention has focused on

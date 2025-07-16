@@ -8,14 +8,1468 @@ websites:
   - https://www.yanisvaroufakis.eu/
   - https://www.project-syndicate.org/columnist/yanis-varoufakis
 summary: |
-  The past 24 hours have seen intensifying scrutiny of the intersection between economic interests, international law, and Western policy, with new developments centering on the fallout from Francesca Albanese’s UN report on Palestine and the ongoing debate over the role of financial power in global crises.
+  As the global order continues to shift in mid-July 2025, the interplay between financial innovation, European economic malaise, and the ongoing crisis in Palestine dominates the geopolitical landscape. Recent independent analysis by **Yanis Varoufakis** highlights several urgent developments and deepening trends.
   
-  The most immediate development is the open letter published by a group of leading economists—including **Yanis Varoufakis** and **Thomas Piketty**—defending UN Special Rapporteur Francesca Albanese. This comes as the US government, under pressure from former President Trump and pro-Israel lobbies, calls for Albanese’s removal following her report on the “Economics of Genocide” in the occupied Palestinian territories. The letter, as summarized by **Varoufakis**, asserts that “corporate involvement has perpetuated violence and dispossession of Indigenous peoples,” and that Albanese’s analysis is “vital for understanding the political economy of Israel’s apartheid system.” The signatories urge the UN to resist efforts to suppress this discourse, highlighting the broader trend of economic interests shaping conflict and policy in the region.
+  The proliferation of stablecoins—private digital currencies pegged to the US dollar—has emerged as a potential flashpoint for the next financial crisis. **Varoufakis** warns that the incentives for issuers to overextend themselves without sufficient reserves could trigger bank runs, with ripple effects across the global financial system. The current trajectory, he argues, could either culminate in a "significant financial meltdown or prompt innovative solutions that prioritize public interest." There is a high chance that, absent regulatory intervention or public sector innovation, these risks will materialize in the near term.
   
-  Meanwhile, reflections on the 10th anniversary of Greece’s 2015 referendum underscore the enduring impact of financial power on democratic processes. **Varoufakis** draws a parallel between the Greek “NO” vote against austerity and the ongoing struggles against economic injustice, noting that “the working class and marginalized citizens were unfairly made to bear the costs of the crisis.” The sense of betrayal following the referendum’s outcome is presented as emblematic of a wider pattern in which popular mandates are overridden by entrenched financial interests.
+  Meanwhile, the legacy of the Greek debt crisis remains a cautionary tale for Europe. In a recent interview, **Varoufakis** contends that the troika's (EU Commission, ECB, IMF) handling of Greece has left the country a "permanently bankrupt colony," with diminished economic viability and increased vulnerability to vulture funds. This, he asserts, has contributed to a broader decline in investment and the rise of far-right movements across the continent. The consensus among analysts is that the financial devastation inflicted on Greece has set a precedent for the stagnation and political fragmentation now afflicting the wider eurozone.
   
-  Looking ahead, these developments reinforce a pattern of Western institutions prioritizing economic and strategic interests over democratic or humanitarian concerns. There is a high chance that the UN will face continued pressure to moderate or suppress critical voices like Albanese’s, but, as the letter’s signatories argue, the growing alignment of independent scholars and activists may help sustain international attention on the economic dimensions of conflict. I guarantee that the struggle between financial power and democratic accountability will remain a defining feature of global politics in the coming months, with Europe and the US likely to continue privileging stability and alliance politics over substantive reform or justice.
+  On the social front, the disconnect between Western activism for Palestine and domestic liberation movements is increasingly evident. **Varoufakis** notes that while young activists—particularly Jewish demonstrators—have shown remarkable courage in protesting for Palestinian rights, these efforts remain largely isolated from broader struggles against systemic oppression in their own societies. This lack of interconnectedness, he suggests, marks a departure from the solidarity-driven movements of the past and may limit the transformative potential of current protests.
+  
+  Looking ahead, the trends point to mounting instability: the unchecked expansion of private digital currencies threatens financial order, the eurozone's unresolved structural flaws continue to undermine growth and fuel extremism, and Western activism risks losing momentum without a unified, systemic vision. There is high confidence that, unless these dynamics are addressed through collective action and regulatory innovation, both economic and social crises will intensify in the coming months.
 articles:
+  - title: Who needs Marx in 2025? The Guardian, July 2025
+    url: https://www.yanisvaroufakis.eu/2025/07/12/who-needs-marx-in-2025-the-guardian-july-2025/
+    text: 'To free ourselves from our technofeudal overlords, we must think like Karl
+      Marx. The corporations would asset-strip our brains, but we can take back control
+      A young woman I met recently remarked that it was not so much pure evil that drove
+      her berserk, but rather people, or institutions, with the capacity to do good
+      who instead damaged humanity. Her musing made me think of Karl Marx whose quarrel
+      with capitalism was precisely that: not so much that it was exploitative but that
+      it dehumanised and alienated us despite being such a progressive force. Preceding
+      social systems may have been more oppressive or exploitative than capitalism.
+      However, only under capitalism have humans been so fully alienated from our products
+      and environment, so divorced from our labour, so robbed of even a modicum of control
+      over what we think and do. Capitalism, especially after it shifted into its technofeudal
+      phase , turned us all into some version of Caliban or Shylock – monads in an archipelago
+      of isolated selves whose quality of life is inversely related to the abundance
+      of gizmos our newfangled machinery produce. Young people feel this. But, the backlash
+      against migrants, identity politics, not to mention the algorithmic distortion
+      of their voices, paralyse them. But here re-enters Marx with advice on how to
+      overcome this paralysis – good advice that lies buried under the sands of time.
+      Take the argument that minorities living in the West should assimilate lest we
+      end up a ‘society of strangers’. When Marx was twenty-five years old he read a
+      book by Bruno Bauer, a thinker he respected, making the case that, to qualify
+      for citizenship, German Jews should renounce Judaism. Bauer’s argument was that
+      Germans lacked freedom. So, he asked: “How are we to free you, Jews?” As Germans,
+      he continued, Jews had a duty to help emancipate Germans, humanity more broadly
+      – not agitate for their rights as Jews. Marx was livid. Though the young Marx
+      had no time for Judaism, indeed for any religion, his passionate demolition of
+      Bauer’s argument is a sight for sore eyes: “We ask the converse question: Does
+      the standpoint of political emancipation give the right to demand from the Jew
+      the abolition of Judaism and from man the abolition of religion?… Just as the
+      state evangeli s es when… it adopts a Christian attitude towards the Jews, so
+      the Jew acts politically when, although a Jew, he demands civic rights.” The trick
+      that Marx is teaching us here is how to combine a commitment to religious freedom,
+      of Jews, Muslims, Christians etc., with the wholesale rejection of the presumption
+      that, in a class society, the state can represent the general interest. Yes, Jews,
+      Muslims, people of faiths that we may not share or much like must be emancipated
+      immediately. Yes, women, blacks, LGBT+ people must be granted equal rights well
+      before any socialist revolution appears on the horizon. But, freedom will take
+      a lot more than that. Shifting on to migrant workers suppressing the wages of
+      local workers, another minefield for today’s younger people, a letter Marx sent
+      in 1870 to two associates in New York City offers brilliant clues on how to deal
+      not only with the Nigel Farages of the world but also with some leftists who have
+      also bitten the anti-immigration bait. In his letter, Marx fully acknowledges
+      that American and English employers were purposely exploiting Irish cheap immigrant
+      labour, pitting them against native-born workers and weakening labour solidarity.
+      But, for Marx, it was self-defeating for trades unions to turn against the Irish
+      immigrants and espouse anti-immigration narratives. No, the solution was never
+      to banish immigrant workers but to organise them. And if the problem is the weakness
+      of the unions, or fiscal austerity, then the solution can never be to scapegoat
+      migrant workers. Speaking of trades unions, Marx also has some splendid advice
+      for them. Yes, it is crucial to boost wages to reduce worker exploitation. But,
+      let us not fall for the fantasy of fair wages. The only way to render the workplace
+      fair is to do away with an irrational system based on the strict separation of
+      those who work but do not own and the tiny minority who own but do not work. In
+      his words: «Trade unions» work well as centers of resistance against the encroachments
+      of capital. [But] [t]hey fail generally from limiting themselves to a guerrilla
+      war against the effects of the existing system, instead of also trying to change
+      it.” Change it into what? A new corporate structure based on the principle of
+      one-employee-one-share-one vote – the kind of agenda that can truly inspire youngsters
+      who crave freedom both from statism and from corporations driven by the bottom
+      lines of private equity firms or an absent owner who may not even know he owns
+      part of the firm they work for. Lastly, Marx’s freshness shines through when we
+      try to make sense of the technofeudal world that Big Tech, along with Big Finance
+      and our states, have surreptitiously encased us in. To understand why this is
+      a form of technofeudalism, something much worse than surveillance capitalism,
+      we need to think as Marx would have of our smartphones tablets etc. To see them
+      as a mutation of capital, or cloud capital, that directly modifies our behaviour.
+      To grasp how mind-bending scientific breakthroughs, fantastical neural networks,
+      and imagination-defying AI programs created a world where, while privatisation
+      and private equity asset-strip all physical wealth around us, cloud capital goes
+      about the business of asset-stripping our brains. Only through Marx’s lens can
+      we truly get it: That to own our minds individually, we must own cloud capital
+      collectively. For the Guardian site, click here . The post Who needs Marx in 2025?
+      The Guardian, July 2025 appeared first on Yanis Varoufakis .'
+    one_sentence_summary: The article argues that to liberate ourselves from the dehumanizing
+      effects of technofeudal capitalism, we must adopt a Marxist perspective that emphasizes
+      reclaiming control over our labor and thoughts from exploitative institutions.
+    paragraph_summary: The article argues that to liberate ourselves from the oppressive
+      grip of technofeudalism, we should adopt a Marxist perspective that critiques
+      capitalism not just for its exploitative nature, but for its dehumanizing effects
+      that alienate individuals from their labor and environment. It highlights a young
+      woman's observation about the harm caused by institutions capable of doing good
+      yet choosing to damage humanity, echoing Marx's concerns about how capitalism
+      creates isolated individuals, particularly among the youth who feel paralyzed
+      by societal issues like migration and identity politics. The author references
+      Marx's response to Bruno Bauer's argument that Jews should assimilate to gain
+      freedom, emphasizing that true emancipation requires solidarity and collective
+      action rather than merely advocating for individual rights. Ultimately, the article
+      calls for a reclamation of control over our lives and thoughts in the face of
+      technological and corporate dominance.
+    published: '2025-07-12T04:58:24+00:00'
+  - title: Who needs Marx in 2025? The Guardian, July 2025
+    url: https://www.yanisvaroufakis.eu/2025/07/12/who-needs-marx-in-2025-the-guardian-july-2025/
+    text: 'To free ourselves from our technofeudal overlords, we must think like Karl
+      Marx. The corporations would asset-strip our brains, but we can take back control
+      A young woman I met recently remarked that it was not so much pure evil that drove
+      her berserk, but rather people, or institutions, with the capacity to do good
+      who instead damaged humanity. Her musing made me think of Karl Marx whose quarrel
+      with capitalism was precisely that: not so much that it was exploitative but that
+      it dehumanised and alienated us despite being such a progressive force. Preceding
+      social systems may have been more oppressive or exploitative than capitalism.
+      However, only under capitalism have humans been so fully alienated from our products
+      and environment, so divorced from our labour, so robbed of even a modicum of control
+      over what we think and do. Capitalism, especially after it shifted into its technofeudal
+      phase , turned us all into some version of Caliban or Shylock – monads in an archipelago
+      of isolated selves whose quality of life is inversely related to the abundance
+      of gizmos our newfangled machinery produce. Young people feel this. But, the backlash
+      against migrants, identity politics, not to mention the algorithmic distortion
+      of their voices, paralyse them. But here re-enters Marx with advice on how to
+      overcome this paralysis – good advice that lies buried under the sands of time.
+      Take the argument that minorities living in the West should assimilate lest we
+      end up a ‘society of strangers’. When Marx was twenty-five years old he read a
+      book by Bruno Bauer, a thinker he respected, making the case that, to qualify
+      for citizenship, German Jews should renounce Judaism. Bauer’s argument was that
+      Germans lacked freedom. So, he asked: “How are we to free you, Jews?” As Germans,
+      he continued, Jews had a duty to help emancipate Germans, humanity more broadly
+      – not agitate for their rights as Jews. Marx was livid. Though the young Marx
+      had no time for Judaism, indeed for any religion, his passionate demolition of
+      Bauer’s argument is a sight for sore eyes: “We ask the converse question: Does
+      the standpoint of political emancipation give the right to demand from the Jew
+      the abolition of Judaism and from man the abolition of religion?… Just as the
+      state evangeli s es when… it adopts a Christian attitude towards the Jews, so
+      the Jew acts politically when, although a Jew, he demands civic rights.” The trick
+      that Marx is teaching us here is how to combine a commitment to religious freedom,
+      of Jews, Muslims, Christians etc., with the wholesale rejection of the presumption
+      that, in a class society, the state can represent the general interest. Yes, Jews,
+      Muslims, people of faiths that we may not share or much like must be emancipated
+      immediately. Yes, women, blacks, LGBT+ people must be granted equal rights well
+      before any socialist revolution appears on the horizon. But, freedom will take
+      a lot more than that. Shifting on to migrant workers suppressing the wages of
+      local workers, another minefield for today’s younger people, a letter Marx sent
+      in 1870 to two associates in New York City offers brilliant clues on how to deal
+      not only with the Nigel Farages of the world but also with some leftists who have
+      also bitten the anti-immigration bait. In his letter, Marx fully acknowledges
+      that American and English employers were purposely exploiting Irish cheap immigrant
+      labour, pitting them against native-born workers and weakening labour solidarity.
+      But, for Marx, it was self-defeating for trades unions to turn against the Irish
+      immigrants and espouse anti-immigration narratives. No, the solution was never
+      to banish immigrant workers but to organise them. And if the problem is the weakness
+      of the unions, or fiscal austerity, then the solution can never be to scapegoat
+      migrant workers. Speaking of trades unions, Marx also has some splendid advice
+      for them. Yes, it is crucial to boost wages to reduce worker exploitation. But,
+      let us not fall for the fantasy of fair wages. The only way to render the workplace
+      fair is to do away with an irrational system based on the strict separation of
+      those who work but do not own and the tiny minority who own but do not work. In
+      his words: «Trade unions» work well as centers of resistance against the encroachments
+      of capital. [But] [t]hey fail generally from limiting themselves to a guerrilla
+      war against the effects of the existing system, instead of also trying to change
+      it.” Change it into what? A new corporate structure based on the principle of
+      one-employee-one-share-one vote – the kind of agenda that can truly inspire youngsters
+      who crave freedom both from statism and from corporations driven by the bottom
+      lines of private equity firms or an absent owner who may not even know he owns
+      part of the firm they work for. Lastly, Marx’s freshness shines through when we
+      try to make sense of the technofeudal world that Big Tech, along with Big Finance
+      and our states, have surreptitiously encased us in. To understand why this is
+      a form of technofeudalism, something much worse than surveillance capitalism,
+      we need to think as Marx would have of our smartphones tablets etc. To see them
+      as a mutation of capital, or cloud capital, that directly modifies our behaviour.
+      To grasp how mind-bending scientific breakthroughs, fantastical neural networks,
+      and imagination-defying AI programs created a world where, while privatisation
+      and private equity asset-strip all physical wealth around us, cloud capital goes
+      about the business of asset-stripping our brains. Only through Marx’s lens can
+      we truly get it: That to own our minds individually, we must own cloud capital
+      collectively. For the Guardian site, click here . The post Who needs Marx in 2025?
+      The Guardian, July 2025 appeared first on Yanis Varoufakis .'
+    one_sentence_summary: The article argues that to liberate ourselves from the dehumanizing
+      effects of technofeudal capitalism, we must adopt a Marxist perspective that emphasizes
+      reclaiming control over our labor and thoughts from exploitative institutions.
+    paragraph_summary: The article argues that to liberate ourselves from the oppressive
+      grip of technofeudalism, we should adopt a Marxist perspective that critiques
+      capitalism not just for its exploitative nature, but for its dehumanizing effects
+      that alienate individuals from their labor and environment. It highlights a young
+      woman's observation about the harm caused by institutions capable of doing good
+      yet choosing to damage humanity, echoing Marx's concerns about how capitalism
+      creates isolated individuals, particularly among the youth who feel paralyzed
+      by societal issues like migration and identity politics. The author references
+      Marx's response to Bruno Bauer's argument that Jews should assimilate to gain
+      freedom, emphasizing that true emancipation requires solidarity and collective
+      action rather than merely advocating for individual rights. Ultimately, the article
+      calls for a reclamation of control over our lives and thoughts in the face of
+      technological and corporate dominance.
+    published: '2025-07-12T04:58:24+00:00'
+  - title: A Trust Fund for Everyone to Defuse the Stablecoin Time Bomb – Project Syndicate
+    url: https://www.yanisvaroufakis.eu/2025/07/12/a-trust-fund-for-everyone-to-defuse-the-stablecoin-time-bomb-project-syndicate/
+    text: 'ATHENS – Margaret Thatcher famously quipped that the problem with socialists
+      is that, eventually, they run out of other people’s money. But what happens when
+      bankers run out of other people’s money, as seems likely to happen soon? Either
+      we end up with another calamitous financial meltdown or we innovate to serve the
+      public interest in a manner Thatcher would have dismissed as socialist. Before
+      I propose one such innovative response to the looming financial quagmire, one
+      must understand the monetary transformation currently underway, owing to the steady
+      rise of stablecoins . Unlike Bitcoin and other cryptocurrencies which are tethered
+      to nothing and fluctuate like a yo-yo, stablecoins are issued by private corporations
+      that promise that their tokens will faithfully track the value of the US dollar.
+      There are good reasons why common people, not just criminals, want to use stablecoins:
+      they offer a way to send money, especially abroad, that is cheaper, faster, immune
+      to US sanctions, and more reliable than rickety inter-bank messaging systems such
+      as SWIFT. There are even more reasons why financiers are keen to offer us their
+      brand of stablecoin: by shifting the trading of shares, bonds, derivatives, and
+      other securities onto their own blockchain, they can make trading much faster
+      and more reliable. Moreover, if their stablecoin becomes dominant, they will own
+      not only the market but also the currency in which trades are made, creating scope
+      for gargantuan financial gains. But stablecoins are setting the stage for the
+      next financial meltdown. For starters, their issuers have an incentive to issue
+      more tokens than the dollars they keep in reserve to back their tokens. And, because
+      stablecoin issuers keep a significant portion of their dollar reserves in banks,
+      a bank run will cause a stablecoin run (a rush of requests to convert them into
+      real dollars) which then triggers a cascade of bank runs. Moreover, a doom loop
+      ties together stablecoins, shares, and bonds: once financial trading has shifted
+      to blockchains “lubricated” by a stablecoin, a run on that stablecoin will threaten
+      the stock market and the $29 trillion Treasuries market. And then there is the
+      global fragility introduced by dollar-backed stablecoins issued outside the United
+      States by companies that US authorities are unlikely to rescue if the need arises.
+      How significant is the shift from the conventional monetary system to this jungle
+      of private stablecoins? On June 17, the US Senate passed the so-called GENIUS
+      Act . Its chief aim is to legitimize and boost stablecoin adoption. In essence,
+      President Donald Trump’s administration is privatizing the dollar system for geopolitical
+      , self-serving and ideological reasons. The US Treasury predicts that US bank
+      deposits of $6.6 trillion (the equivalent of 660% of the annual US defense budget)
+      will migrate to stablecoins on the GENIUS Act’s coattails. This is nothing short
+      of an enormous time bomb planted at the foundations of our economies. So, what
+      is the alternative? Suppose that US residents could download a Federal Reserve
+      digital wallet from any app store. Imagine that they could then ask employers
+      to deposit their pay into that wallet and even transfer money from their commercial
+      bank accounts to take advantage of the Fed’s overnight interest rates as well
+      as free transactions. Using the same blockchain technology of stablecoin issuers,
+      the Fed could guarantee that every payment or transfer is utterly private, while
+      enabling everyone to see how much money sloshes around the system in aggregate,
+      thereby preventing the authorities from creating new money without everyone knowing.
+      This would be the mother of all stablecoins, without any of the drawbacks. Speed,
+      efficiency, and privacy would be combined with a higher interest rate on deposits
+      (compared to commercial banks) and the copper-plated security that your digital
+      tokens are 100% Fed-backed US dollars with none of the moral hazards or doom loops
+      afflicting private stablecoins. Moreover, this public system comes with an additional
+      advantage: it opens the door to a trust fund for everyone. Recall that, under
+      the current system of fractional reserve banking, commercial banks create a lot
+      more dollars from every dollar of deposits they receive (the so-called money market
+      multiplier). Conversely, if the US Treasury is correct that $6.6 trillion of deposits
+      are about to migrate from US banks to stablecoins, the overall supply of dollars
+      is about to shrink dramatically. That will cause the Fed to raise interest rates
+      substantially in order to allow banks to do likewise to stem the migration and
+      the fall in the money supply – a disastrous outcome for the real economy. By contrast,
+      following a mass migration of bank deposits to Fed wallets, the Fed does not need
+      to increase interest rates. All it needs do is calculate by how much the money
+      supply is falling and credit each resident’s wallet with whatever sum is necessary
+      to keep the money supply steady. In essence, without the state having to raise
+      new taxes or borrow a single cent, the Fed would be offering a substantial trust
+      fund to everyone within this new public crypto network that functions like a truly
+      novel monetary commons . Bankers will undoubtedly hate the idea. Deprived of their
+      monopoly over payments and savings, Fed wallets would force them to function,
+      as they ought to, like financial intermediaries, turning Jill’s savings into loans
+      for Jack. Financial markets, too, will need to use the Fed’s new tokenized dollar
+      for transactions, but without the exorbitant rents they would have received had
+      they been allowed to privatize the tokenized dollar. Bankers and financiers will,
+      for once, need to offer us services under circumstances that allow us to say no.
+      This new monetary commons, including the sizeable trust fund for everyone, would
+      grant us unprecedented freedom from bankers and financiers. And that’s why you
+      will not be hearing about it from any of the mainstream political parties whose
+      campaign financing depends on bankers and financiers. For the Project Syndicate
+      site, where this article was originally published, click here . The post A Trust
+      Fund for Everyone to Defuse the Stablecoin Time Bomb – Project Syndicate appeared
+      first on Yanis Varoufakis .'
+    one_sentence_summary: The article discusses the potential financial crisis arising
+      from banks depleting funds, highlighting the rise of stablecoins as a viable alternative
+      for the public to conduct transactions more efficiently and affordably, contrasting
+      them with traditional cryptocurrencies.
+    paragraph_summary: The article discusses the potential financial crisis stemming
+      from the rise of stablecoins, which are digital currencies issued by private corporations
+      that aim to maintain a stable value by being pegged to the US dollar. Unlike volatile
+      cryptocurrencies, stablecoins offer advantages such as cheaper and faster transactions,
+      making them appealing to both consumers and financiers. However, the article warns
+      that stablecoin issuers may be incentivized to issue more tokens than they can
+      back with reserves, leading to risks of bank runs and a domino effect on the financial
+      system. The author suggests that the current monetary transformation could either
+      result in a significant financial meltdown or prompt innovative solutions that
+      prioritize public interest, echoing concerns about the sustainability of traditional
+      banking practices.
+    published: '2025-07-12T04:49:41+00:00'
+  - title: A Trust Fund for Everyone to Defuse the Stablecoin Time Bomb – Project Syndicate
+    url: https://www.yanisvaroufakis.eu/2025/07/12/a-trust-fund-for-everyone-to-defuse-the-stablecoin-time-bomb-project-syndicate/
+    text: 'ATHENS – Margaret Thatcher famously quipped that the problem with socialists
+      is that, eventually, they run out of other people’s money. But what happens when
+      bankers run out of other people’s money, as seems likely to happen soon? Either
+      we end up with another calamitous financial meltdown or we innovate to serve the
+      public interest in a manner Thatcher would have dismissed as socialist. Before
+      I propose one such innovative response to the looming financial quagmire, one
+      must understand the monetary transformation currently underway, owing to the steady
+      rise of stablecoins . Unlike Bitcoin and other cryptocurrencies which are tethered
+      to nothing and fluctuate like a yo-yo, stablecoins are issued by private corporations
+      that promise that their tokens will faithfully track the value of the US dollar.
+      There are good reasons why common people, not just criminals, want to use stablecoins:
+      they offer a way to send money, especially abroad, that is cheaper, faster, immune
+      to US sanctions, and more reliable than rickety inter-bank messaging systems such
+      as SWIFT. There are even more reasons why financiers are keen to offer us their
+      brand of stablecoin: by shifting the trading of shares, bonds, derivatives, and
+      other securities onto their own blockchain, they can make trading much faster
+      and more reliable. Moreover, if their stablecoin becomes dominant, they will own
+      not only the market but also the currency in which trades are made, creating scope
+      for gargantuan financial gains. But stablecoins are setting the stage for the
+      next financial meltdown. For starters, their issuers have an incentive to issue
+      more tokens than the dollars they keep in reserve to back their tokens. And, because
+      stablecoin issuers keep a significant portion of their dollar reserves in banks,
+      a bank run will cause a stablecoin run (a rush of requests to convert them into
+      real dollars) which then triggers a cascade of bank runs. Moreover, a doom loop
+      ties together stablecoins, shares, and bonds: once financial trading has shifted
+      to blockchains “lubricated” by a stablecoin, a run on that stablecoin will threaten
+      the stock market and the $29 trillion Treasuries market. And then there is the
+      global fragility introduced by dollar-backed stablecoins issued outside the United
+      States by companies that US authorities are unlikely to rescue if the need arises.
+      How significant is the shift from the conventional monetary system to this jungle
+      of private stablecoins? On June 17, the US Senate passed the so-called GENIUS
+      Act . Its chief aim is to legitimize and boost stablecoin adoption. In essence,
+      President Donald Trump’s administration is privatizing the dollar system for geopolitical
+      , self-serving and ideological reasons. The US Treasury predicts that US bank
+      deposits of $6.6 trillion (the equivalent of 660% of the annual US defense budget)
+      will migrate to stablecoins on the GENIUS Act’s coattails. This is nothing short
+      of an enormous time bomb planted at the foundations of our economies. So, what
+      is the alternative? Suppose that US residents could download a Federal Reserve
+      digital wallet from any app store. Imagine that they could then ask employers
+      to deposit their pay into that wallet and even transfer money from their commercial
+      bank accounts to take advantage of the Fed’s overnight interest rates as well
+      as free transactions. Using the same blockchain technology of stablecoin issuers,
+      the Fed could guarantee that every payment or transfer is utterly private, while
+      enabling everyone to see how much money sloshes around the system in aggregate,
+      thereby preventing the authorities from creating new money without everyone knowing.
+      This would be the mother of all stablecoins, without any of the drawbacks. Speed,
+      efficiency, and privacy would be combined with a higher interest rate on deposits
+      (compared to commercial banks) and the copper-plated security that your digital
+      tokens are 100% Fed-backed US dollars with none of the moral hazards or doom loops
+      afflicting private stablecoins. Moreover, this public system comes with an additional
+      advantage: it opens the door to a trust fund for everyone. Recall that, under
+      the current system of fractional reserve banking, commercial banks create a lot
+      more dollars from every dollar of deposits they receive (the so-called money market
+      multiplier). Conversely, if the US Treasury is correct that $6.6 trillion of deposits
+      are about to migrate from US banks to stablecoins, the overall supply of dollars
+      is about to shrink dramatically. That will cause the Fed to raise interest rates
+      substantially in order to allow banks to do likewise to stem the migration and
+      the fall in the money supply – a disastrous outcome for the real economy. By contrast,
+      following a mass migration of bank deposits to Fed wallets, the Fed does not need
+      to increase interest rates. All it needs do is calculate by how much the money
+      supply is falling and credit each resident’s wallet with whatever sum is necessary
+      to keep the money supply steady. In essence, without the state having to raise
+      new taxes or borrow a single cent, the Fed would be offering a substantial trust
+      fund to everyone within this new public crypto network that functions like a truly
+      novel monetary commons . Bankers will undoubtedly hate the idea. Deprived of their
+      monopoly over payments and savings, Fed wallets would force them to function,
+      as they ought to, like financial intermediaries, turning Jill’s savings into loans
+      for Jack. Financial markets, too, will need to use the Fed’s new tokenized dollar
+      for transactions, but without the exorbitant rents they would have received had
+      they been allowed to privatize the tokenized dollar. Bankers and financiers will,
+      for once, need to offer us services under circumstances that allow us to say no.
+      This new monetary commons, including the sizeable trust fund for everyone, would
+      grant us unprecedented freedom from bankers and financiers. And that’s why you
+      will not be hearing about it from any of the mainstream political parties whose
+      campaign financing depends on bankers and financiers. For the Project Syndicate
+      site, where this article was originally published, click here . The post A Trust
+      Fund for Everyone to Defuse the Stablecoin Time Bomb – Project Syndicate appeared
+      first on Yanis Varoufakis .'
+    one_sentence_summary: The article discusses the potential financial crisis arising
+      from banks depleting funds, highlighting the rise of stablecoins as a viable alternative
+      for the public to conduct transactions more efficiently and affordably, contrasting
+      them with traditional cryptocurrencies.
+    paragraph_summary: The article discusses the potential financial crisis stemming
+      from the rise of stablecoins, which are digital currencies issued by private corporations
+      that aim to maintain a stable value by being pegged to the US dollar. Unlike volatile
+      cryptocurrencies, stablecoins offer advantages such as cheaper and faster transactions,
+      making them appealing to both consumers and financiers. However, the article warns
+      that stablecoin issuers may be incentivized to issue more tokens than they can
+      back with reserves, leading to risks of bank runs and a domino effect on the financial
+      system. The author suggests that the current monetary transformation could either
+      result in a significant financial meltdown or prompt innovative solutions that
+      prioritize public interest, echoing concerns about the sustainability of traditional
+      banking practices.
+    published: '2025-07-12T04:49:41+00:00'
+  - title: 'Jacobin’s ‘On the Legacy of Greece’s Oxi Referendum: An interview with Yanis
+      Varoufakis’'
+    url: https://www.yanisvaroufakis.eu/2025/07/12/jacobins-on-the-legacy-of-greeces-oxi-referendum-an-interview-with-yanis-varoufakis/
+    text: 'On the day the Financial Times published its latest article whitewashing
+      the criminally insane troika’s  (comprising the EU Commission, ECB and IMF) hatchet
+      job on Greece, which has rendered the country a permanently bankrupt colony, Jacobin
+      published this interview (read here , listen here ) in which I lay down three
+      basic facts: First, the referendum ten years ago was called by a PM who was looking
+      for a way to surrender to the troika, hoping to lose the referendum – so as to
+      gain a democratic mandate for his surrender. To their great credit, the Greek
+      people defied him with a spectacular 62% NO (Oxi) vote. That their PM overthrew
+      them, the people, is one of the greatest tragedies in modern political history
+      and the Left’s most serious defeat since the era of Margaret Thatcher. Secondly,
+      while it features as the new El Dorado for vulture funds and assorted predators,
+      Greece is less viable today than it ever was. Thirdly, by crushing Greece in this
+      manner, in order sequentially to impose  universal austerity across the entire
+      EU, including in Germany, the troika depressed investment at a paneuropean level.
+      While energetic money printing by the European Central Bank refloated Europe’s
+      financial sector and equity markets, the combination of gigantic liquidity and
+      low aggregate demand caused net productive investment to tank. More than a decade
+      of next to zero net productive investment has led to Europe missing out on at
+      least one industrial revolution (green energy, electric cars etc.) Greece’s financial
+      carpet bombing was, in short, the prelude of Europe’s current sad state of affairs
+      – including the rise of the ultra Right. A transcript of the Jacobin interview
+      follows: Daniel Finn: At the beginning of 2015, when Syriza was able to form a
+      government, what was the strategic rationale underpinning the efforts to roll
+      back the austerity programs that the troika had imposed on Greece over the past
+      several years? Yanis Varoufakis: On the day we formed a government, we had completed
+      five years of languishing at the bottom of austerity’s barrel, with a population
+      that was engulfed in a humanitarian crisis. We had suicides; we had deaths of
+      despair; we had people who went untreated because they couldn’t afford medicine;
+      we had a reduction of pensions and wages by 40 percent. Due to the faulty architecture
+      of the eurozone, following the bankruptcy of the German and French banks, Greece
+      was the country whose state went bankrupt. It began on Wall Street, then it moved
+      on to Dubai, then it went to the French and German banks. They stopped refinancing
+      the rather large public debt of the Greek state — which was large because the
+      private debt was low, so it was the exact opposite of Ireland, for example. Total
+      debt was not great in Greece. It was just that the public sector was bloated in
+      terms of its debt. At that point, the Greek state became officially bankrupt.
+      Instead of accepting that reality, the powers that be — who were absolutely determined
+      to make sure that European citizens bailed out the French, German, and Italian
+      banks, and to some extent the Greek banks as well — decided to transfer the losses
+      of the banking system onto the shoulders of the weakest people. In practical terms,
+      that was the equivalent of not being able to repay your mortgage because your
+      income has tanked and being forced to take out one credit card after another at
+      high interest rates to pretend that you are still repaying your mortgage. If a
+      friend of yours were to do that, you would immediately say, “Stop doing it — this
+      is suicide.” We were elected to stop this suicidal dynamic. I accepted the challenge
+      of being part of that government, taking a position in the electric chair of the
+      finance ministry of the most bankrupt European state for a very simple reason.
+      I had presented to my colleagues — to the prime minister, Alexis Tsipras, and
+      his team — a double plan. The first part of the plan concerned what to do to avert
+      the blackmail that was definitely going to come from the troika and from the financial
+      sector: “Either you sign on the dotted line for another credit card, or we will
+      shut down your banks.” The first part of the plan was the deterrence plan — how
+      to deter that kind of financial terrorism, as I call it. The second part was what
+      would happen if we failed to deter them and they did close down our banks, as
+      they did in the end. How do we issue our own currency in order to break free from
+      this debtors’ prison? That was what we entered government with — at least that’s
+      what I thought we entered the government with, until, by the time of the referendum,
+      I realized that my own leadership was not interested in seeing this through. They
+      capitulated, I resigned, and the rest is history, as they say. Daniel Finn: What
+      was the experience of negotiating with the EU during the first half of 2015, looking
+      at the various actors involved — the European Commission, the European Central
+      Bank [ECB], and the different national governments with the various hierarchies
+      between smaller and larger states or between “core” and “peripheral” states? You
+      famously compared the experience of trying to make concrete economic arguments
+      to some of these interlocutors to getting up and speaking Swedish and being greeted
+      with total incomprehension. Yanis Varoufakis: Let me say that I didn’t arrive
+      in Brussels, Berlin, or Frankfurt with any great expectations of a rational debate.
+      Yet even though I brought very low expectations in my suitcase, I have to admit
+      that I was taken aback by the orchestrated irrationality and the incredible levels
+      of incompetence as well as cynicism that I encountered. I was taken aback by the
+      orchestrated irrationality and the incredible levels of incompetence as well as
+      cynicism that I encountered. There were three different dimensions to this experience.
+      First, in private meetings, they startled me because they were incredibly accepting
+      of my narrative at first. I have said this many times, and nobody has denied it.
+      When I met Christine Lagarde for the first time — she was the managing director
+      of the International Monetary Fund at the time, before she moved over to the presidency
+      of the ECB — she astounded me, because she was extremely sympathetic to my analysis
+      of what had gone wrong and why the austerity programs could not work. She said,
+      “Of course, Yanis, they cannot work — you’re right.” She actually criticized me
+      from a position to the left of my own thinking because she said that I was being
+      too modest and too moderate in what I was demanding on behalf of my people. I
+      thought, “That was easy — if we can proceed in that way, my job will be done before
+      I even know it.” However, she then added immediately, “But Yanis, you have to
+      understand that we have put a lot of political capital into this program, and
+      your career and mine both depend on going along with it.” I said to her, “But
+      Christine, you know I don’t give a damn about my political career. I have a mandate
+      from the people, and that’s all I care about. If I stop being finance minister,
+      so what? That’s not my issue.” Immediately I became persona non grata because
+      I wasn’t playing along. That was the first dimension — I promised you three. At
+      the personal level, I was astounded because they seemed to understand exactly
+      what kind of crime against logic they had been implementing for years before I
+      arrived on the scene. Then there was a second dimension: the gross incompetence
+      of those people. That astounded me even more, because I was expecting technocrats
+      of some competence — the kind of people that you encounter when you talk to Goldman
+      Sachs types. They may be a clear and present danger for humanity, but nevertheless,
+      they know their stuff. They know their bonds, they know their derivatives, and
+      they know the mechanics of the capitalist financial system. That wasn’t the case
+      with the troika. I’m not talking about Mario Draghi but rather about the underlings
+      that they were sending to us to have discussions about this and that — privatizations,
+      VAT rates, and so on. If they had been students of mine, talking as a professor,
+      I would have simply failed them in semester one of the first year of their undergraduate
+      degree. If the troika officials had been students of mine, I would have simply
+      failed them in semester one of the first year. It was remarkable. That was another
+      shock to my system. The third dimension was the pure cynicism of the people mentioned
+      above. When I went to my first meeting of eurozone finance ministers, I went in
+      there with the intention of starting a discussion along collegial lines. I didn’t
+      go in there with any view to be confrontational — exactly the opposite. If anything,
+      I was far too modest, as Lagarde accused me of being. I said something that I
+      thought was totally in tune with what I imagined the ideology and manners of those
+      people to be: Ladies and gentlemen, I know that most of you don’t want to see
+      me here, because I represent the radical left of Greece and you would rather deal
+      with our predecessors. But this is what the Greek electorate decided, so now let’s
+      be honest with one another. There is a program of austerity and bailouts that
+      previous governments signed up to. And because there is, whether I like it or
+      not, a continuity in the state’s obligations to other member states, it’s not
+      the case that you have a new government and all the obligations of previous governments
+      are wiped out. I acknowledge this continuity of government, despite the fact that
+      we have a new mandate, and our new mandate is to renegotiate and essentially annul
+      those obligations. So what happens in a liberal democracy when two important principles
+      clash? What are the important principles? One is continuity of government and
+      state. The other is the democratic mandate of a new government. When two different,
+      contradictory principles clash in a liberal democracy, democrats sit around the
+      table and find a compromise. When I was saying that, I was experiencing feelings
+      of self-doubt, asking myself why I was being so damn moderate. After all, I had
+      just been elected as the finance minister of a radical-left government. But then
+      I thought, “It’s a good way to start the negotiations on a positive, collegial
+      note.” Yet lo and behold, the late Wolfgang Schäuble, who was the German finance
+      minister, angrily demanded the floor. Clearly, he was discomfited by what I said.
+      Without any introduction welcoming me to the Eurogroup, which is what would normally
+      happen, he went straight to the point. He said, “Elections cannot be allowed to
+      change economic policy in the Eurogroup.” I have to tell you, I didn’t expect
+      such a degree of cynicism. Of course, it prompted me to say — and I don’t regret
+      saying it — that this must be excellent news for the Communist Party of China,
+      because they also think that elections should not change economic policy. I didn’t
+      mention the fact that in China, they do change economic policy. They don’t need
+      elections, but when the facts change, economic policy changes. That’s the difference
+      when it comes to Europe. We have elections and governments change, but economic
+      policy — especially failed economic policy — does not change. Daniel Finn: What
+      impression did you gather from the governments of countries that were considered
+      to be in a similar situation to Greece at that point? Ireland and Portugal had
+      also been forced into troika programs, and then you had Spain, which wasn’t formally
+      under the tutelage of the troika but was receiving explicit instructions from
+      the ECB and the commission about cuts to make. You also had Italy, which had a
+      very significant debt problem. Were the governments of those countries more sympathetic,
+      or did they join the unified bloc that you were facing on the other side of the
+      table? Yanis Varoufakis There were three groups of countries. First, there were
+      representatives of countries that were within the “vital space” — don’t translate
+      it into German, it’s not a good idea — of the Federal Republic of Germany. This
+      group included countries like Slovakia and Latvia that had imposed austerity upon
+      themselves well before the 2008 crisis. They had wrecked their own populations
+      with austerity, and they were more royalist than the king, or more German than
+      the German finance minister. They were the most aggressive ones, the ones that
+      were talking about “Grexit” from the beginning — in other words, about jettisoning
+      Greece from the euro, if I dared to continue challenging the memorandum of understanding
+      [MOU] that I had inherited. They were the bulldogs of Wolfgang Schäuble. He didn’t
+      have to speak, because they would speak first and be so aggressive and abusive
+      that when Schäuble spoke, he seemed like a more reasonable version of them. Allow
+      me an aside: this is more or less the same group that today are gung-ho about
+      not ending the war between Ukraine and Russia. I close the bracket, but I think
+      it’s an important connection to draw. Then there was a second group of countries
+      that had, like Greece, gone under the iron curtain of the austerity/bailout programs.
+      I’m referring to the countries that you mentioned already — Portugal and Ireland,
+      of course, but also Spain, because Spain had already gone through its own bailout.
+      It was a half-baked one, and it only involved its banks, but still it was officially
+      in a bailout. Now they were terrified that our government might secure better
+      terms for the people of Greece, because they had subjected their own people to
+      so much unnecessary and vicious pain with their austerity programs. You think
+      of what was going on in Ireland, in Portugal, in Spain for that matter. If our
+      tough negotiating stance were to yield even some small benefits for the Greek
+      people, they were absolutely terrified that their own people would turn against
+      them and say, “Why didn’t you fight for us like the Greek government is fighting
+      for the Greek people?” They were all absolutely horrified and terrified by the
+      thought that Greece would become viable as a result of the election of the left-wing
+      government. They were perhaps even more motivated than Schäuble’s bulldogs to
+      see us fail. They had some sympathy with us because they were in the same boat
+      as we were, but the political representatives were absolutely horrified by the
+      thought that we might succeed in the task of renegotiating our MOU. There was
+      also a third group of countries like Italy and France — don’t forget France —
+      who feared that they might need a bailout too. They had the most sympathy with
+      us, and they were even more horrified than the other two groups by the thought
+      that Schäuble and Angela Merkel would take out on them any frustration that they
+      felt toward us by pushing them into a bailout. In other words, what I am trying
+      to describe is a Eurogroup that was impossible to navigate on the basis of rational
+      thinking and economic arguments, because the only determinant of the behavior
+      of those finance ministers was fear. They were all absolutely horrified and terrified
+      by the thought that Greece would become viable as a result of the election of
+      the left-wing government. If you wanted to create a decision-making body that
+      would simply not pay any attention to the viability of the Eurozone and its member
+      states and care only about making sure that they were prepared to do anything
+      so that nothing would change, that’s the kind of decision-making body that you
+      would create. Daniel Finn: There was a moment in Irish politics not long after
+      the outcome of the crisis in Greece where one of the government ministers from
+      the Labour Party taunted the opposition parties by saying, “Who talks of Syriza
+      now?” Yanis Varoufakis: Let me make the point that this is why I don’t forgive
+      my former comrades for capitulating. It is not only because of what they did to
+      the Greek people, but also because they were, after Margaret Thatcher, perhaps
+      the worst enemy of the Left across Europe, and maybe worldwide. Daniel Finn: If
+      we come to the moment of decision in the summer of 2015, after there had been
+      several rounds of negotiation that didn’t appear to be going anywhere, the key
+      European players were still insisting on continuity of economic policies with
+      the previous memorandums. Instead of submitting to the pressure at that moment,
+      Alexis Tsipras announced that he was going to call a referendum on the terms of
+      the proposed agreement. How was the decision made to call the referendum? What
+      was the dynamic of the campaign, and how did Tsipras end up accepting an even
+      more draconian austerity program shortly afterward, in spite of the outcome of
+      the vote? Yanis Varoufakis: I hope you will forgive me if I correct a basic misunderstanding
+      that is embedded in the question in a way that is totally understandable. This
+      is not how I saw or experienced things. I didn’t see the referendum as a way of
+      continuing the fight. Sadly, Alexis Tsipras called the referendum not to win it
+      but to lose it. He had already capitulated. Sadly, my former comrade Alexis Tsipras
+      called the referendum not to win it but to lose it. He had already capitulated,
+      and I was already on the way out while maintaining my position in the finance
+      ministry. In order to explain what happened with the referendum and how we got
+      to the third bailout program, which wrecked the Left and wrecked the Greek people
+      and rendered Greece a nonviable social economy, I need to start right at the beginning.
+      As I said earlier, Greece was in a debtors’ prison, unless our debt was substantially
+      written off or manipulated in such a way as to be the equivalent of a write-off.
+      There are very innovative ways of disguising a write-off — debt swaps and this
+      and that. This is what I was proposing to them as a face-saving exercise for the
+      Troika. If you are going to do that, the only way you’re going to be able to do
+      that is if you are ready to walk away. You have to be prepared to imagine exiting
+      the negotiating room and saying, “Folks, there’s an impasse. I’m going to go my
+      own way.” What does going your own way mean? It means printing your own currency
+      and defaulting on your debt in euros, because if you don’t have the euro, you
+      cannot repay your huge debt in euros, and you suffer the consequences for that,
+      but you regain your autonomy and monetary sovereignty, and you try to start afresh.
+      Unless you’re prepared to do that, there’s no point in entering the negotiating
+      room. This is what I had said to my colleagues. Of course, it’s not just a question
+      of pressing the nuclear button and saying, “I am stepping out, and I am leaving
+      the eurozone.” There have to be gradations — you must have weapons in between
+      that you must activate to signal your intention to walk out if need be. If you
+      don’t do that, you might as well not get elected. You’d never enter a negotiation
+      if you were a trade unionist where you couldn’t even imagine walking out. That’s
+      negotiations 101. The only reason why I accepted the finance ministry was because
+      I had put to Alexis Tsipras a very specific proposal of what we needed to do.
+      I said to him, “Look, the moment we get elected, they will call you from Frankfurt
+      or Brussels or Berlin, and they will say to you, ‘Congratulations, sign on the
+      dotted line or we close down your banks.’ You have to have an answer to that.
+      You have to have a deterrence plan for stopping them from doing it.” You’d never
+      enter a negotiation if you were a trade unionist where you couldn’t even imagine
+      walking out. I had come up with an idea. I still believe that if I had been allowed
+      to use that weapon, they would not have shut down our banks. It was a technical
+      issue, but effectively it concerned a small amount of debt that we owed to the
+      ECB. If I was to restructure that debt, writing off part of it or even delaying
+      repayment, it would have a knock-on effect. I could have done this simply with
+      an executive order from the ministry of finance — I had it on my desk; all I needed
+      to do was to sign it. The ECB president Mario Draghi only had one thing on his
+      mind: how to save Italy from falling into the same black hole by buying Italian
+      public debt. For complicated reasons, he would not have been able to buy Italian
+      public debt if I had been allowed to put my signature to that order. That was
+      my deterrence plan. I did essentially tell Draghi that if he shut down my banks,
+      I was going to sign the document, and he wouldn’t be able to buy Italian debt.
+      I believe that could have been enough to prevent that major move, which was effectively
+      financial terrorism, to shut down our banks in order to blackmail the Greek people
+      into accepting the third bailout. The tragedy was that early on, I realized that
+      my prime minister was very reluctant to let me do that. We had agreed on it as
+      a condition for me accepting the Finance Ministry appointment, but he was preventing
+      me from doing it. He was postponing action, saying, “We’ll do it next week.” At
+      some point, I discovered that two and a half months after I became finance minister,
+      a message went from the office of Tsipras to Draghi’s team at the ECB: “Don’t
+      worry about Varoufakis; we won’t let him do it.” This was a bit like sending David
+      into the battlefield against Goliath having stolen his catapult. I had a catapult
+      — I thought it was a nuclear weapon — maybe it was a catapult, maybe it was a
+      nuclear weapon. But it was stolen. I knew early on that it wasn’t looking good.
+      We were elected in January. By June, the negotiations were not going anywhere,
+      because why would they negotiate with us when our side was sending messages that
+      we were not prepared to walk away and use our weaponry? The reason why I didn’t
+      resign was because I believed that as long as there was a 5 percent chance that
+      the prime minister would come to his senses and fight on, I needed to be there
+      to help him. In addition, our people out there had no idea of what was going on
+      behind the scenes. They were jubilant that at long last, there was a government
+      fighting for them. If I had simply resigned out of the blue, it would have been
+      a disaster for the morale of our people. By June 20, it was clear that my prime
+      minister was trying to surrender. But they wouldn’t let him, because they wanted
+      to drag him through the mud. As you mentioned, you had the Labour Party minister
+      telling the Sinn Féin people in the Irish parliament, “this is what happens when
+      you vote for parties like Syriza.” Mariano Rajoy, the conservative prime minister
+      of Spain, said to the Spanish people, “This is what you will get if you vote for
+      Spain’s Syriza,” meaning Podemos. At that point, they wouldn’t let him surrender.
+      He had sidelined me, even though I was still the finance minister. I was there
+      simply egging him on, “Come on, overcome your urge to surrender. Let’s keep fighting.”
+      He called the referendum because he saw it as a way out. He was convinced we would
+      lose it, which was not so irrational of him when you think about it. In the first
+      election of 2012, our party jumped from 4 percent to 17 percent of the vote. In
+      2015, we formed a government with 36 percent of the vote. Thirty-six percent is
+      not a crushing majority — the majority were still voting against us. Even though
+      we had immense support during those five or six months of fighting with the troika,
+      you have to remember that it shut down the banks so there would be five working
+      days before the referendum on Sunday with people not able to access their own
+      deposits. Tsipras was thinking that with every day of the banks being shut, we
+      would be losing support, and all you need to do to lose a referendum is not get
+      51 percent. They shut down the banks so there would be five working days before
+      the referendum with people not able to access their own deposits. From his perspective,
+      he thought he was going to lose it. It wouldn’t have been such a great loss for
+      him, because if he had scored 40 or 45 percent in favor of saying “no” to the
+      troika, he would have pushed our percentage from 36 to 40 or 45 percent. He would
+      have been able to claim this as a personal victory, while at the same time, he
+      would have had a mandate to surrender to the troika, which he didn’t have before.
+      That is why, on the night of Sunday, July 5, he collapsed when that remarkable
+      number lit up on our screens, with 61 percent saying “no” to the troika offer.
+      I went to his office, and it was like a wake. He had black circles around his
+      eyes. I went in there celebrating, and he was on the floor. He said to me, “It’s
+      time to surrender.” I said, “No, it’s exactly the opposite — people out there
+      are celebrating — we have an ethical and political duty to fight on.” That’s how
+      it happened. Daniel Finn: How would you summarize the consequences of the 2015
+      crisis and its outcome for Greek society and politics over the last 10 years?
+      Yanis Varoufakis: To begin with, let me draw a parallel between a prison riot
+      and what happened in 2015. When prisoners living under horrific circumstances
+      in some godforsaken prison riot and take over the prison, they burn mattresses,
+      the cameras arrive, and it’s all over the news. It’s a big issue.But the moment
+      the riot squad or the army comes in and crushes the rebellion, two days later,
+      nobody mentions it. It doesn’t mean that the conditions in the prison have improved
+      — maybe they’re worse. Sadly, this is too close for comfort as a metaphor for
+      what happened to Greece. Financiers around the world love Greece. It is their
+      wet dream. I don’t believe they can have higher profit rates or rent extraction
+      rates anywhere in the world than in Greece — that’s why they love it. When they
+      talk about the “Greek success story,” and they clap Greek government ministers
+      visiting Davos or the City of London or Wall Street, they have a very good reason
+      for this. Let me give you an example. We are a country of ten million people.
+      As we speak, there are 1,100,000 dwellings being foreclosed by the vulture funds
+      that have purchased the nonperforming loans of the families and small businesses
+      that until now owned these pieces of real estate. We are talking about 1,100,000
+      apartments, houses, and small shops in a population of ten million. A particular
+      example concerns a person I know because I’ve worked on her case. My party MeRA25
+      has been trying to help with particular cases, not just hers. Her name is Maria.
+      Maria purchased in 2008 an apartment worth €250,000. She put down €50,000 as a
+      deposit and borrowed the remaining €200,000. She sold a plot of land and managed
+      to repay much of her loan very quickly. Out of the €200,000 that she had borrowed
+      on a twenty-five-year-old mortgage, she repaid half of it, so she only owed €100,000.
+      She was doing very well. Her business was doing okay. But in 2011, everything
+      collapsed because of the Great Depression that hit Greece. She lost her shop and
+      her income, and now she had that €100,000 outstanding debt on her mortgage that
+      she couldn’t repay. That €100,000 became €200,000 with interest and the penalties
+      for delayed payments. A vulture fund with its base in Ireland and its bank account
+      in the Cayman Islands bought that €200,000 loan from the Greek bank that had issued
+      it in the first place.  It paid €10,000 for it, so they paid €10,000 in order
+      to be able to extract €200,000 from poor Maria. Now they are evicting her — they
+      are putting that apartment on sale for something like €150,000. She gets nothing,
+      even though she’s already repaid €150,000 of the original €250,000. Meanwhile,
+      they have paid €10,000, yet they will collect €150,000 — work out the profit rate.
+      That money will leave the Greek circular flow of income and go to the Cayman Islands
+      legally. Why are the vulture funds celebrating Greece while the Greeks are suffering?
+      This is not really a paradox when you look at it closely. To give a more complete
+      macroeconomic picture, in terms of GDP, we have more or less the same national
+      income today that we had in 2009. It dipped very badly, and now it has picked
+      up again. We have the same number of euros today as in 2009, but their purchasing
+      power is 40 percent below what it was. But we had huge inflation during that period,
+      like everybody since 2022. We have the same number of euros today as in 2009,
+      but their purchasing power is 40 percent below what it was. In addition to that,
+      because of the troika’s interventions, there has been a big increase in VAT from
+      19 to 24 percent, as well as huge taxes on labor, housing — everything. The state
+      is extracting twice as much in taxes as it was in 2009. Real disposable income
+      today is 44 percent below what it was in 2009. As well as that, the bailout agreement
+      that I wouldn’t sign has committed Greece up until the year 2060 to have a primary
+      surplus that is gigantic. About €15 billion comes out of the economy and goes
+      to the troika every year. If you add to that our current account deficit of €25
+      billion, we are essentially borrowing €25 billion in order to make ends meet as
+      a society. What I have just described to you is, independently of your politics,
+      a nonviable social economy. Twenty percent of the population is doing better than
+      ever — the ones who are on the good side of the troika and in the pockets of the
+      oligarchs. But 80 percent are not. They are not up in arms so much as they are
+      depressed. They are staying at home and licking their wounds. They are privatizing
+      their nightmares and whatever hopes they have left. When they hear people outside
+      of Greece celebrating the “Greek success story,” I go back to my metaphor about
+      a prison riot that has been crushed. The conditions in the prison have gotten
+      worse, but nobody is talking about it. Daniel Finn: How would you assess the lasting
+      legacy or legacies for the EU of the way that the eurozone crisis was handled,
+      and in particular the way that Greece was dealt with in 2015? Yanis Varoufakis:
+      I have no doubt that the historians of the future will look at the inane handling
+      of the inevitable euro crisis — inevitable because of the architecture of the
+      euro — and the way that Greece was used as a guinea pig for the combination of
+      harsh austerity for the many and money-printing for the bankers, and mark it down
+      as the reason why Europe is about to enter (or has already entered) a possible
+      century-long decline.I remember having this conversation with Wolfgang Schäuble.
+      When I was talking to these people, I was not simply an advocate for the Greek
+      people. I was that, of course — that was what I was elected to do; that was my
+      mandate. But I was speaking on behalf of Europe as a whole. I was saying to them,
+      “Look, we created the euro in a terrible way. The architecture was as if we had
+      designed it in order to fail. It was clear from the very beginning. Think about
+      it. We created a central bank for twenty countries. The central bank didn’t have
+      a treasury, and there were twenty treasuries that didn’t have a central bank.”
+      The crisis was an opportunity to reconfigure and improve the architecture of the
+      euro. But austerity was a means to avoid doing that. It was like removing the
+      shock absorbers from your car and driving it into a ditch. That was what we did.
+      The crisis was an opportunity to reconfigure and improve the architecture of the
+      euro. But austerity was a means to avoid doing that, instead using the money-printing
+      capacity of the ECB to keep financial markets afloat. They printed €8 or €9 trillion
+      to give to the financial markets while practicing austerity for the many. What
+      happens when you crush the spending power of the people and you give lots of money
+      to big business? Big business collects this money — of course, it’s free money;
+      why wouldn’t they take it? But they look outside the window of their skyscraper
+      in Paris or Frankfurt, and all they see are impecunious masses. They’re not going
+      to invest, because the many out there can’t afford to buy high value-added goods.
+      But they have this money that has been printed and given to them, so what do they
+      do? They go to the stock exchange and they buy back their own shares. Their share
+      price goes through the roof, and their bonus is connected to their share price,
+      so they are laughing all the way to the bank. They go and buy a new apartment,
+      a new yacht, more Bitcoins, a work of art. Asset prices go up, while the many
+      are still impecunious and there’s no investment. After fifteen years of that,
+      it’s the end of Europe. It is the reason why Germany is now deindustrializing.
+      It is deindustrializing because it did not invest anything in the last fifteen
+      years. The managing directors and the members of the board of directors were doing
+      splendidly, but they were not investing. While the Chinese were investing their
+      heads off and Elon Musk was investing in Tesla, SpaceX, Starlink, and so on, Europe
+      had zero net productive investment for something like sixteen or seventeen years.
+      That is preposterous. The result is that now, Europe is dying. If people ask —
+      and they should ask — why it is that fascism is having a second or third wind,
+      it is because this is what happens when you have something like 1929. Our 1929
+      happened in 2008, and then you had governments (like the one I was in) of the
+      radical left capitulating. You had social democrats imposing policies that were
+      far worse than what Margaret Thatcher did in Britain in the name of social democracy
+      in countries like Germany, France, Greece, and Italy. The only people who will
+      benefit politically from that are the neofascists, the manosphere, the racists.
+      We brought the European left down with us because we had a chance to make a difference,
+      and we blew it. The story of Greece is not just about Greece. For some reason,
+      this little country of mine has been at the beginning of major disasters. I don’t
+      know what it is about this place, but if you think about it, the Cold War began
+      here. It didn’t begin in Berlin — it began in the streets of Athens in December
+      1944. That was the first incident. The Truman Doctrine, which was the beginning
+      of NATO and the Cold War, was written by President Harry Truman for Greece. In
+      2009–10, we also started the euro crisis. This is why I think that the record
+      of the Greek left — and I include the party I served in — is inexcusable. We brought
+      the European left down with us because we had a chance to make a difference, having
+      been the first country, the first domino. And we blew it. Daniel Finn: Across
+      Europe and North America, there’s a general sense of narrowing horizons, with
+      much greater pessimism on the radical left. Instead of seeking to supplant the
+      established center-left parties in countries like Spain and Portugal, the main
+      aspiration in the past few years has been to push the center left to do a bit
+      more in terms of social expenditure than it would do otherwise. While some of
+      the policies that have been enacted there might be welcome to people and make
+      some difference to their lives, it’s clearly a long way from the aspirations that
+      were being put forward in the middle of the last decade. In other countries, it’s
+      not even a question of pushing that far — it’s about holding the line against
+      the rise of the far right, which clearly has the wind in its sails. Where do you
+      think the Left might go about beginning to shift the balance of forces and opening
+      up new horizons of possibility? Yanis Varoufakis: In the interest of full disclosure,
+      I’m not a commentator — I’m a participant. I lead MeRA25, our radical left-wing
+      party in Greece at the moment, and I’m part of DiEM25.This is important to note,
+      because the reason why I’m part of this movement is because we reject gradualism.
+      We reject the logic of the lesser evil — of having to choose between the center
+      left and the center right. We reject both. We consider the center left to have
+      been far more responsible for the rise of the Right and far more responsible for
+      depleting the social fabric of Europe. We reject the logic of the lesser evil
+      — of having to choose between the center left and the center right. It was the
+      center left, let me remind you, that invented austerity in the interest of the
+      lesser-evil logic. It wasn’t Schäuble or the Christian Democrats in Germany —
+      it was Peer Steinbrück of the Social Democrats who imposed austerity when he was
+      the finance minister. Before that, it was Gerhard Schröder who introduced the
+      Hartz IV reforms that crippled the working class in Germany. It was PASOK here
+      in Greece who introduced the first bailout. You cannot push the center left to
+      do something that the powers that be — the financiers, the troika, the ECB — will
+      not allow them to do. In the end, they don’t even want to do it themselves. They
+      merely want to appear as if they are doing it. When you are facing a systemic
+      crisis as we have been since 2008, and the gradualism of the radical center —
+      which involves both the center right and the center left — is the real source
+      of energy and dynamism for the fascists, then the only thing you can do is to
+      rise up against both, since they are Tweedledum and Tweedledee. In the EU today,
+      you have Ursula von der Leyen, who is a warmongering, half-crazed, genocide-supporting
+      president of the European Commission, with the support of the right-wing European
+      People’s Party and the center-left Socialists and Democrats. This is not a time
+      to say, in the United States, for example, that Joe Biden is a little bit better
+      than Donald Trump: “Maybe you should vote for the guy that armed the hand of Netanyahu
+      to carry out the genocide.” No, we won’t. We have to fight both of them. The post
+      Jacobin’s ‘On the Legacy of Greece’s Oxi Referendum: An interview with Yanis Varoufakis’
+      appeared first on Yanis Varoufakis .'
+    one_sentence_summary: The article critiques the Financial Times for downplaying
+      the detrimental impact of the EU, ECB, and IMF on Greece, highlighting the betrayal
+      of the Greek people by their government following a significant referendum, and
+      argues that Greece is now more vulnerable than ever due to these actions.
+    paragraph_summary: 'The article critiques the Financial Times for downplaying the
+      detrimental impact of the troika (EU Commission, ECB, and IMF) on Greece, which
+      has resulted in the country becoming a "permanently bankrupt colony." In a Jacobin
+      interview, Yanis Varoufakis outlines three key points: first, the 2015 referendum
+      was manipulated by the Greek Prime Minister, who sought a democratic mandate to
+      surrender to the troika, but the Greek people defied him with a 62% "No" vote;
+      second, Greece''s economic viability has diminished significantly, making it an
+      attractive target for vulture funds; and third, the troika''s actions have led
+      to a broader decline in investment across Europe, stifling growth and contributing
+      to the rise of far-right movements. Varoufakis argues that the financial devastation
+      of Greece set the stage for Europe''s current economic malaise.'
+    published: '2025-07-12T04:32:29+00:00'
+  - title: 'Jacobin’s ‘On the Legacy of Greece’s Oxi Referendum: An interview with Yanis
+      Varoufakis’'
+    url: https://www.yanisvaroufakis.eu/2025/07/12/jacobins-on-the-legacy-of-greeces-oxi-referendum-an-interview-with-yanis-varoufakis/
+    text: 'On the day the Financial Times published its latest article whitewashing
+      the criminally insane troika’s  (comprising the EU Commission, ECB and IMF) hatchet
+      job on Greece, which has rendered the country a permanently bankrupt colony, Jacobin
+      published this interview (read here , listen here ) in which I lay down three
+      basic facts: First, the referendum ten years ago was called by a PM who was looking
+      for a way to surrender to the troika, hoping to lose the referendum – so as to
+      gain a democratic mandate for his surrender. To their great credit, the Greek
+      people defied him with a spectacular 62% NO (Oxi) vote. That their PM overthrew
+      them, the people, is one of the greatest tragedies in modern political history
+      and the Left’s most serious defeat since the era of Margaret Thatcher. Secondly,
+      while it features as the new El Dorado for vulture funds and assorted predators,
+      Greece is less viable today than it ever was. Thirdly, by crushing Greece in this
+      manner, in order sequentially to impose  universal austerity across the entire
+      EU, including in Germany, the troika depressed investment at a paneuropean level.
+      While energetic money printing by the European Central Bank refloated Europe’s
+      financial sector and equity markets, the combination of gigantic liquidity and
+      low aggregate demand caused net productive investment to tank. More than a decade
+      of next to zero net productive investment has led to Europe missing out on at
+      least one industrial revolution (green energy, electric cars etc.) Greece’s financial
+      carpet bombing was, in short, the prelude of Europe’s current sad state of affairs
+      – including the rise of the ultra Right. A transcript of the Jacobin interview
+      follows: Daniel Finn: At the beginning of 2015, when Syriza was able to form a
+      government, what was the strategic rationale underpinning the efforts to roll
+      back the austerity programs that the troika had imposed on Greece over the past
+      several years? Yanis Varoufakis: On the day we formed a government, we had completed
+      five years of languishing at the bottom of austerity’s barrel, with a population
+      that was engulfed in a humanitarian crisis. We had suicides; we had deaths of
+      despair; we had people who went untreated because they couldn’t afford medicine;
+      we had a reduction of pensions and wages by 40 percent. Due to the faulty architecture
+      of the eurozone, following the bankruptcy of the German and French banks, Greece
+      was the country whose state went bankrupt. It began on Wall Street, then it moved
+      on to Dubai, then it went to the French and German banks. They stopped refinancing
+      the rather large public debt of the Greek state — which was large because the
+      private debt was low, so it was the exact opposite of Ireland, for example. Total
+      debt was not great in Greece. It was just that the public sector was bloated in
+      terms of its debt. At that point, the Greek state became officially bankrupt.
+      Instead of accepting that reality, the powers that be — who were absolutely determined
+      to make sure that European citizens bailed out the French, German, and Italian
+      banks, and to some extent the Greek banks as well — decided to transfer the losses
+      of the banking system onto the shoulders of the weakest people. In practical terms,
+      that was the equivalent of not being able to repay your mortgage because your
+      income has tanked and being forced to take out one credit card after another at
+      high interest rates to pretend that you are still repaying your mortgage. If a
+      friend of yours were to do that, you would immediately say, “Stop doing it — this
+      is suicide.” We were elected to stop this suicidal dynamic. I accepted the challenge
+      of being part of that government, taking a position in the electric chair of the
+      finance ministry of the most bankrupt European state for a very simple reason.
+      I had presented to my colleagues — to the prime minister, Alexis Tsipras, and
+      his team — a double plan. The first part of the plan concerned what to do to avert
+      the blackmail that was definitely going to come from the troika and from the financial
+      sector: “Either you sign on the dotted line for another credit card, or we will
+      shut down your banks.” The first part of the plan was the deterrence plan — how
+      to deter that kind of financial terrorism, as I call it. The second part was what
+      would happen if we failed to deter them and they did close down our banks, as
+      they did in the end. How do we issue our own currency in order to break free from
+      this debtors’ prison? That was what we entered government with — at least that’s
+      what I thought we entered the government with, until, by the time of the referendum,
+      I realized that my own leadership was not interested in seeing this through. They
+      capitulated, I resigned, and the rest is history, as they say. Daniel Finn: What
+      was the experience of negotiating with the EU during the first half of 2015, looking
+      at the various actors involved — the European Commission, the European Central
+      Bank [ECB], and the different national governments with the various hierarchies
+      between smaller and larger states or between “core” and “peripheral” states? You
+      famously compared the experience of trying to make concrete economic arguments
+      to some of these interlocutors to getting up and speaking Swedish and being greeted
+      with total incomprehension. Yanis Varoufakis: Let me say that I didn’t arrive
+      in Brussels, Berlin, or Frankfurt with any great expectations of a rational debate.
+      Yet even though I brought very low expectations in my suitcase, I have to admit
+      that I was taken aback by the orchestrated irrationality and the incredible levels
+      of incompetence as well as cynicism that I encountered. I was taken aback by the
+      orchestrated irrationality and the incredible levels of incompetence as well as
+      cynicism that I encountered. There were three different dimensions to this experience.
+      First, in private meetings, they startled me because they were incredibly accepting
+      of my narrative at first. I have said this many times, and nobody has denied it.
+      When I met Christine Lagarde for the first time — she was the managing director
+      of the International Monetary Fund at the time, before she moved over to the presidency
+      of the ECB — she astounded me, because she was extremely sympathetic to my analysis
+      of what had gone wrong and why the austerity programs could not work. She said,
+      “Of course, Yanis, they cannot work — you’re right.” She actually criticized me
+      from a position to the left of my own thinking because she said that I was being
+      too modest and too moderate in what I was demanding on behalf of my people. I
+      thought, “That was easy — if we can proceed in that way, my job will be done before
+      I even know it.” However, she then added immediately, “But Yanis, you have to
+      understand that we have put a lot of political capital into this program, and
+      your career and mine both depend on going along with it.” I said to her, “But
+      Christine, you know I don’t give a damn about my political career. I have a mandate
+      from the people, and that’s all I care about. If I stop being finance minister,
+      so what? That’s not my issue.” Immediately I became persona non grata because
+      I wasn’t playing along. That was the first dimension — I promised you three. At
+      the personal level, I was astounded because they seemed to understand exactly
+      what kind of crime against logic they had been implementing for years before I
+      arrived on the scene. Then there was a second dimension: the gross incompetence
+      of those people. That astounded me even more, because I was expecting technocrats
+      of some competence — the kind of people that you encounter when you talk to Goldman
+      Sachs types. They may be a clear and present danger for humanity, but nevertheless,
+      they know their stuff. They know their bonds, they know their derivatives, and
+      they know the mechanics of the capitalist financial system. That wasn’t the case
+      with the troika. I’m not talking about Mario Draghi but rather about the underlings
+      that they were sending to us to have discussions about this and that — privatizations,
+      VAT rates, and so on. If they had been students of mine, talking as a professor,
+      I would have simply failed them in semester one of the first year of their undergraduate
+      degree. If the troika officials had been students of mine, I would have simply
+      failed them in semester one of the first year. It was remarkable. That was another
+      shock to my system. The third dimension was the pure cynicism of the people mentioned
+      above. When I went to my first meeting of eurozone finance ministers, I went in
+      there with the intention of starting a discussion along collegial lines. I didn’t
+      go in there with any view to be confrontational — exactly the opposite. If anything,
+      I was far too modest, as Lagarde accused me of being. I said something that I
+      thought was totally in tune with what I imagined the ideology and manners of those
+      people to be: Ladies and gentlemen, I know that most of you don’t want to see
+      me here, because I represent the radical left of Greece and you would rather deal
+      with our predecessors. But this is what the Greek electorate decided, so now let’s
+      be honest with one another. There is a program of austerity and bailouts that
+      previous governments signed up to. And because there is, whether I like it or
+      not, a continuity in the state’s obligations to other member states, it’s not
+      the case that you have a new government and all the obligations of previous governments
+      are wiped out. I acknowledge this continuity of government, despite the fact that
+      we have a new mandate, and our new mandate is to renegotiate and essentially annul
+      those obligations. So what happens in a liberal democracy when two important principles
+      clash? What are the important principles? One is continuity of government and
+      state. The other is the democratic mandate of a new government. When two different,
+      contradictory principles clash in a liberal democracy, democrats sit around the
+      table and find a compromise. When I was saying that, I was experiencing feelings
+      of self-doubt, asking myself why I was being so damn moderate. After all, I had
+      just been elected as the finance minister of a radical-left government. But then
+      I thought, “It’s a good way to start the negotiations on a positive, collegial
+      note.” Yet lo and behold, the late Wolfgang Schäuble, who was the German finance
+      minister, angrily demanded the floor. Clearly, he was discomfited by what I said.
+      Without any introduction welcoming me to the Eurogroup, which is what would normally
+      happen, he went straight to the point. He said, “Elections cannot be allowed to
+      change economic policy in the Eurogroup.” I have to tell you, I didn’t expect
+      such a degree of cynicism. Of course, it prompted me to say — and I don’t regret
+      saying it — that this must be excellent news for the Communist Party of China,
+      because they also think that elections should not change economic policy. I didn’t
+      mention the fact that in China, they do change economic policy. They don’t need
+      elections, but when the facts change, economic policy changes. That’s the difference
+      when it comes to Europe. We have elections and governments change, but economic
+      policy — especially failed economic policy — does not change. Daniel Finn: What
+      impression did you gather from the governments of countries that were considered
+      to be in a similar situation to Greece at that point? Ireland and Portugal had
+      also been forced into troika programs, and then you had Spain, which wasn’t formally
+      under the tutelage of the troika but was receiving explicit instructions from
+      the ECB and the commission about cuts to make. You also had Italy, which had a
+      very significant debt problem. Were the governments of those countries more sympathetic,
+      or did they join the unified bloc that you were facing on the other side of the
+      table? Yanis Varoufakis There were three groups of countries. First, there were
+      representatives of countries that were within the “vital space” — don’t translate
+      it into German, it’s not a good idea — of the Federal Republic of Germany. This
+      group included countries like Slovakia and Latvia that had imposed austerity upon
+      themselves well before the 2008 crisis. They had wrecked their own populations
+      with austerity, and they were more royalist than the king, or more German than
+      the German finance minister. They were the most aggressive ones, the ones that
+      were talking about “Grexit” from the beginning — in other words, about jettisoning
+      Greece from the euro, if I dared to continue challenging the memorandum of understanding
+      [MOU] that I had inherited. They were the bulldogs of Wolfgang Schäuble. He didn’t
+      have to speak, because they would speak first and be so aggressive and abusive
+      that when Schäuble spoke, he seemed like a more reasonable version of them. Allow
+      me an aside: this is more or less the same group that today are gung-ho about
+      not ending the war between Ukraine and Russia. I close the bracket, but I think
+      it’s an important connection to draw. Then there was a second group of countries
+      that had, like Greece, gone under the iron curtain of the austerity/bailout programs.
+      I’m referring to the countries that you mentioned already — Portugal and Ireland,
+      of course, but also Spain, because Spain had already gone through its own bailout.
+      It was a half-baked one, and it only involved its banks, but still it was officially
+      in a bailout. Now they were terrified that our government might secure better
+      terms for the people of Greece, because they had subjected their own people to
+      so much unnecessary and vicious pain with their austerity programs. You think
+      of what was going on in Ireland, in Portugal, in Spain for that matter. If our
+      tough negotiating stance were to yield even some small benefits for the Greek
+      people, they were absolutely terrified that their own people would turn against
+      them and say, “Why didn’t you fight for us like the Greek government is fighting
+      for the Greek people?” They were all absolutely horrified and terrified by the
+      thought that Greece would become viable as a result of the election of the left-wing
+      government. They were perhaps even more motivated than Schäuble’s bulldogs to
+      see us fail. They had some sympathy with us because they were in the same boat
+      as we were, but the political representatives were absolutely horrified by the
+      thought that we might succeed in the task of renegotiating our MOU. There was
+      also a third group of countries like Italy and France — don’t forget France —
+      who feared that they might need a bailout too. They had the most sympathy with
+      us, and they were even more horrified than the other two groups by the thought
+      that Schäuble and Angela Merkel would take out on them any frustration that they
+      felt toward us by pushing them into a bailout. In other words, what I am trying
+      to describe is a Eurogroup that was impossible to navigate on the basis of rational
+      thinking and economic arguments, because the only determinant of the behavior
+      of those finance ministers was fear. They were all absolutely horrified and terrified
+      by the thought that Greece would become viable as a result of the election of
+      the left-wing government. If you wanted to create a decision-making body that
+      would simply not pay any attention to the viability of the Eurozone and its member
+      states and care only about making sure that they were prepared to do anything
+      so that nothing would change, that’s the kind of decision-making body that you
+      would create. Daniel Finn: There was a moment in Irish politics not long after
+      the outcome of the crisis in Greece where one of the government ministers from
+      the Labour Party taunted the opposition parties by saying, “Who talks of Syriza
+      now?” Yanis Varoufakis: Let me make the point that this is why I don’t forgive
+      my former comrades for capitulating. It is not only because of what they did to
+      the Greek people, but also because they were, after Margaret Thatcher, perhaps
+      the worst enemy of the Left across Europe, and maybe worldwide. Daniel Finn: If
+      we come to the moment of decision in the summer of 2015, after there had been
+      several rounds of negotiation that didn’t appear to be going anywhere, the key
+      European players were still insisting on continuity of economic policies with
+      the previous memorandums. Instead of submitting to the pressure at that moment,
+      Alexis Tsipras announced that he was going to call a referendum on the terms of
+      the proposed agreement. How was the decision made to call the referendum? What
+      was the dynamic of the campaign, and how did Tsipras end up accepting an even
+      more draconian austerity program shortly afterward, in spite of the outcome of
+      the vote? Yanis Varoufakis: I hope you will forgive me if I correct a basic misunderstanding
+      that is embedded in the question in a way that is totally understandable. This
+      is not how I saw or experienced things. I didn’t see the referendum as a way of
+      continuing the fight. Sadly, Alexis Tsipras called the referendum not to win it
+      but to lose it. He had already capitulated. Sadly, my former comrade Alexis Tsipras
+      called the referendum not to win it but to lose it. He had already capitulated,
+      and I was already on the way out while maintaining my position in the finance
+      ministry. In order to explain what happened with the referendum and how we got
+      to the third bailout program, which wrecked the Left and wrecked the Greek people
+      and rendered Greece a nonviable social economy, I need to start right at the beginning.
+      As I said earlier, Greece was in a debtors’ prison, unless our debt was substantially
+      written off or manipulated in such a way as to be the equivalent of a write-off.
+      There are very innovative ways of disguising a write-off — debt swaps and this
+      and that. This is what I was proposing to them as a face-saving exercise for the
+      Troika. If you are going to do that, the only way you’re going to be able to do
+      that is if you are ready to walk away. You have to be prepared to imagine exiting
+      the negotiating room and saying, “Folks, there’s an impasse. I’m going to go my
+      own way.” What does going your own way mean? It means printing your own currency
+      and defaulting on your debt in euros, because if you don’t have the euro, you
+      cannot repay your huge debt in euros, and you suffer the consequences for that,
+      but you regain your autonomy and monetary sovereignty, and you try to start afresh.
+      Unless you’re prepared to do that, there’s no point in entering the negotiating
+      room. This is what I had said to my colleagues. Of course, it’s not just a question
+      of pressing the nuclear button and saying, “I am stepping out, and I am leaving
+      the eurozone.” There have to be gradations — you must have weapons in between
+      that you must activate to signal your intention to walk out if need be. If you
+      don’t do that, you might as well not get elected. You’d never enter a negotiation
+      if you were a trade unionist where you couldn’t even imagine walking out. That’s
+      negotiations 101. The only reason why I accepted the finance ministry was because
+      I had put to Alexis Tsipras a very specific proposal of what we needed to do.
+      I said to him, “Look, the moment we get elected, they will call you from Frankfurt
+      or Brussels or Berlin, and they will say to you, ‘Congratulations, sign on the
+      dotted line or we close down your banks.’ You have to have an answer to that.
+      You have to have a deterrence plan for stopping them from doing it.” You’d never
+      enter a negotiation if you were a trade unionist where you couldn’t even imagine
+      walking out. I had come up with an idea. I still believe that if I had been allowed
+      to use that weapon, they would not have shut down our banks. It was a technical
+      issue, but effectively it concerned a small amount of debt that we owed to the
+      ECB. If I was to restructure that debt, writing off part of it or even delaying
+      repayment, it would have a knock-on effect. I could have done this simply with
+      an executive order from the ministry of finance — I had it on my desk; all I needed
+      to do was to sign it. The ECB president Mario Draghi only had one thing on his
+      mind: how to save Italy from falling into the same black hole by buying Italian
+      public debt. For complicated reasons, he would not have been able to buy Italian
+      public debt if I had been allowed to put my signature to that order. That was
+      my deterrence plan. I did essentially tell Draghi that if he shut down my banks,
+      I was going to sign the document, and he wouldn’t be able to buy Italian debt.
+      I believe that could have been enough to prevent that major move, which was effectively
+      financial terrorism, to shut down our banks in order to blackmail the Greek people
+      into accepting the third bailout. The tragedy was that early on, I realized that
+      my prime minister was very reluctant to let me do that. We had agreed on it as
+      a condition for me accepting the Finance Ministry appointment, but he was preventing
+      me from doing it. He was postponing action, saying, “We’ll do it next week.” At
+      some point, I discovered that two and a half months after I became finance minister,
+      a message went from the office of Tsipras to Draghi’s team at the ECB: “Don’t
+      worry about Varoufakis; we won’t let him do it.” This was a bit like sending David
+      into the battlefield against Goliath having stolen his catapult. I had a catapult
+      — I thought it was a nuclear weapon — maybe it was a catapult, maybe it was a
+      nuclear weapon. But it was stolen. I knew early on that it wasn’t looking good.
+      We were elected in January. By June, the negotiations were not going anywhere,
+      because why would they negotiate with us when our side was sending messages that
+      we were not prepared to walk away and use our weaponry? The reason why I didn’t
+      resign was because I believed that as long as there was a 5 percent chance that
+      the prime minister would come to his senses and fight on, I needed to be there
+      to help him. In addition, our people out there had no idea of what was going on
+      behind the scenes. They were jubilant that at long last, there was a government
+      fighting for them. If I had simply resigned out of the blue, it would have been
+      a disaster for the morale of our people. By June 20, it was clear that my prime
+      minister was trying to surrender. But they wouldn’t let him, because they wanted
+      to drag him through the mud. As you mentioned, you had the Labour Party minister
+      telling the Sinn Féin people in the Irish parliament, “this is what happens when
+      you vote for parties like Syriza.” Mariano Rajoy, the conservative prime minister
+      of Spain, said to the Spanish people, “This is what you will get if you vote for
+      Spain’s Syriza,” meaning Podemos. At that point, they wouldn’t let him surrender.
+      He had sidelined me, even though I was still the finance minister. I was there
+      simply egging him on, “Come on, overcome your urge to surrender. Let’s keep fighting.”
+      He called the referendum because he saw it as a way out. He was convinced we would
+      lose it, which was not so irrational of him when you think about it. In the first
+      election of 2012, our party jumped from 4 percent to 17 percent of the vote. In
+      2015, we formed a government with 36 percent of the vote. Thirty-six percent is
+      not a crushing majority — the majority were still voting against us. Even though
+      we had immense support during those five or six months of fighting with the troika,
+      you have to remember that it shut down the banks so there would be five working
+      days before the referendum on Sunday with people not able to access their own
+      deposits. Tsipras was thinking that with every day of the banks being shut, we
+      would be losing support, and all you need to do to lose a referendum is not get
+      51 percent. They shut down the banks so there would be five working days before
+      the referendum with people not able to access their own deposits. From his perspective,
+      he thought he was going to lose it. It wouldn’t have been such a great loss for
+      him, because if he had scored 40 or 45 percent in favor of saying “no” to the
+      troika, he would have pushed our percentage from 36 to 40 or 45 percent. He would
+      have been able to claim this as a personal victory, while at the same time, he
+      would have had a mandate to surrender to the troika, which he didn’t have before.
+      That is why, on the night of Sunday, July 5, he collapsed when that remarkable
+      number lit up on our screens, with 61 percent saying “no” to the troika offer.
+      I went to his office, and it was like a wake. He had black circles around his
+      eyes. I went in there celebrating, and he was on the floor. He said to me, “It’s
+      time to surrender.” I said, “No, it’s exactly the opposite — people out there
+      are celebrating — we have an ethical and political duty to fight on.” That’s how
+      it happened. Daniel Finn: How would you summarize the consequences of the 2015
+      crisis and its outcome for Greek society and politics over the last 10 years?
+      Yanis Varoufakis: To begin with, let me draw a parallel between a prison riot
+      and what happened in 2015. When prisoners living under horrific circumstances
+      in some godforsaken prison riot and take over the prison, they burn mattresses,
+      the cameras arrive, and it’s all over the news. It’s a big issue.But the moment
+      the riot squad or the army comes in and crushes the rebellion, two days later,
+      nobody mentions it. It doesn’t mean that the conditions in the prison have improved
+      — maybe they’re worse. Sadly, this is too close for comfort as a metaphor for
+      what happened to Greece. Financiers around the world love Greece. It is their
+      wet dream. I don’t believe they can have higher profit rates or rent extraction
+      rates anywhere in the world than in Greece — that’s why they love it. When they
+      talk about the “Greek success story,” and they clap Greek government ministers
+      visiting Davos or the City of London or Wall Street, they have a very good reason
+      for this. Let me give you an example. We are a country of ten million people.
+      As we speak, there are 1,100,000 dwellings being foreclosed by the vulture funds
+      that have purchased the nonperforming loans of the families and small businesses
+      that until now owned these pieces of real estate. We are talking about 1,100,000
+      apartments, houses, and small shops in a population of ten million. A particular
+      example concerns a person I know because I’ve worked on her case. My party MeRA25
+      has been trying to help with particular cases, not just hers. Her name is Maria.
+      Maria purchased in 2008 an apartment worth €250,000. She put down €50,000 as a
+      deposit and borrowed the remaining €200,000. She sold a plot of land and managed
+      to repay much of her loan very quickly. Out of the €200,000 that she had borrowed
+      on a twenty-five-year-old mortgage, she repaid half of it, so she only owed €100,000.
+      She was doing very well. Her business was doing okay. But in 2011, everything
+      collapsed because of the Great Depression that hit Greece. She lost her shop and
+      her income, and now she had that €100,000 outstanding debt on her mortgage that
+      she couldn’t repay. That €100,000 became €200,000 with interest and the penalties
+      for delayed payments. A vulture fund with its base in Ireland and its bank account
+      in the Cayman Islands bought that €200,000 loan from the Greek bank that had issued
+      it in the first place.  It paid €10,000 for it, so they paid €10,000 in order
+      to be able to extract €200,000 from poor Maria. Now they are evicting her — they
+      are putting that apartment on sale for something like €150,000. She gets nothing,
+      even though she’s already repaid €150,000 of the original €250,000. Meanwhile,
+      they have paid €10,000, yet they will collect €150,000 — work out the profit rate.
+      That money will leave the Greek circular flow of income and go to the Cayman Islands
+      legally. Why are the vulture funds celebrating Greece while the Greeks are suffering?
+      This is not really a paradox when you look at it closely. To give a more complete
+      macroeconomic picture, in terms of GDP, we have more or less the same national
+      income today that we had in 2009. It dipped very badly, and now it has picked
+      up again. We have the same number of euros today as in 2009, but their purchasing
+      power is 40 percent below what it was. But we had huge inflation during that period,
+      like everybody since 2022. We have the same number of euros today as in 2009,
+      but their purchasing power is 40 percent below what it was. In addition to that,
+      because of the troika’s interventions, there has been a big increase in VAT from
+      19 to 24 percent, as well as huge taxes on labor, housing — everything. The state
+      is extracting twice as much in taxes as it was in 2009. Real disposable income
+      today is 44 percent below what it was in 2009. As well as that, the bailout agreement
+      that I wouldn’t sign has committed Greece up until the year 2060 to have a primary
+      surplus that is gigantic. About €15 billion comes out of the economy and goes
+      to the troika every year. If you add to that our current account deficit of €25
+      billion, we are essentially borrowing €25 billion in order to make ends meet as
+      a society. What I have just described to you is, independently of your politics,
+      a nonviable social economy. Twenty percent of the population is doing better than
+      ever — the ones who are on the good side of the troika and in the pockets of the
+      oligarchs. But 80 percent are not. They are not up in arms so much as they are
+      depressed. They are staying at home and licking their wounds. They are privatizing
+      their nightmares and whatever hopes they have left. When they hear people outside
+      of Greece celebrating the “Greek success story,” I go back to my metaphor about
+      a prison riot that has been crushed. The conditions in the prison have gotten
+      worse, but nobody is talking about it. Daniel Finn: How would you assess the lasting
+      legacy or legacies for the EU of the way that the eurozone crisis was handled,
+      and in particular the way that Greece was dealt with in 2015? Yanis Varoufakis:
+      I have no doubt that the historians of the future will look at the inane handling
+      of the inevitable euro crisis — inevitable because of the architecture of the
+      euro — and the way that Greece was used as a guinea pig for the combination of
+      harsh austerity for the many and money-printing for the bankers, and mark it down
+      as the reason why Europe is about to enter (or has already entered) a possible
+      century-long decline.I remember having this conversation with Wolfgang Schäuble.
+      When I was talking to these people, I was not simply an advocate for the Greek
+      people. I was that, of course — that was what I was elected to do; that was my
+      mandate. But I was speaking on behalf of Europe as a whole. I was saying to them,
+      “Look, we created the euro in a terrible way. The architecture was as if we had
+      designed it in order to fail. It was clear from the very beginning. Think about
+      it. We created a central bank for twenty countries. The central bank didn’t have
+      a treasury, and there were twenty treasuries that didn’t have a central bank.”
+      The crisis was an opportunity to reconfigure and improve the architecture of the
+      euro. But austerity was a means to avoid doing that. It was like removing the
+      shock absorbers from your car and driving it into a ditch. That was what we did.
+      The crisis was an opportunity to reconfigure and improve the architecture of the
+      euro. But austerity was a means to avoid doing that, instead using the money-printing
+      capacity of the ECB to keep financial markets afloat. They printed €8 or €9 trillion
+      to give to the financial markets while practicing austerity for the many. What
+      happens when you crush the spending power of the people and you give lots of money
+      to big business? Big business collects this money — of course, it’s free money;
+      why wouldn’t they take it? But they look outside the window of their skyscraper
+      in Paris or Frankfurt, and all they see are impecunious masses. They’re not going
+      to invest, because the many out there can’t afford to buy high value-added goods.
+      But they have this money that has been printed and given to them, so what do they
+      do? They go to the stock exchange and they buy back their own shares. Their share
+      price goes through the roof, and their bonus is connected to their share price,
+      so they are laughing all the way to the bank. They go and buy a new apartment,
+      a new yacht, more Bitcoins, a work of art. Asset prices go up, while the many
+      are still impecunious and there’s no investment. After fifteen years of that,
+      it’s the end of Europe. It is the reason why Germany is now deindustrializing.
+      It is deindustrializing because it did not invest anything in the last fifteen
+      years. The managing directors and the members of the board of directors were doing
+      splendidly, but they were not investing. While the Chinese were investing their
+      heads off and Elon Musk was investing in Tesla, SpaceX, Starlink, and so on, Europe
+      had zero net productive investment for something like sixteen or seventeen years.
+      That is preposterous. The result is that now, Europe is dying. If people ask —
+      and they should ask — why it is that fascism is having a second or third wind,
+      it is because this is what happens when you have something like 1929. Our 1929
+      happened in 2008, and then you had governments (like the one I was in) of the
+      radical left capitulating. You had social democrats imposing policies that were
+      far worse than what Margaret Thatcher did in Britain in the name of social democracy
+      in countries like Germany, France, Greece, and Italy. The only people who will
+      benefit politically from that are the neofascists, the manosphere, the racists.
+      We brought the European left down with us because we had a chance to make a difference,
+      and we blew it. The story of Greece is not just about Greece. For some reason,
+      this little country of mine has been at the beginning of major disasters. I don’t
+      know what it is about this place, but if you think about it, the Cold War began
+      here. It didn’t begin in Berlin — it began in the streets of Athens in December
+      1944. That was the first incident. The Truman Doctrine, which was the beginning
+      of NATO and the Cold War, was written by President Harry Truman for Greece. In
+      2009–10, we also started the euro crisis. This is why I think that the record
+      of the Greek left — and I include the party I served in — is inexcusable. We brought
+      the European left down with us because we had a chance to make a difference, having
+      been the first country, the first domino. And we blew it. Daniel Finn: Across
+      Europe and North America, there’s a general sense of narrowing horizons, with
+      much greater pessimism on the radical left. Instead of seeking to supplant the
+      established center-left parties in countries like Spain and Portugal, the main
+      aspiration in the past few years has been to push the center left to do a bit
+      more in terms of social expenditure than it would do otherwise. While some of
+      the policies that have been enacted there might be welcome to people and make
+      some difference to their lives, it’s clearly a long way from the aspirations that
+      were being put forward in the middle of the last decade. In other countries, it’s
+      not even a question of pushing that far — it’s about holding the line against
+      the rise of the far right, which clearly has the wind in its sails. Where do you
+      think the Left might go about beginning to shift the balance of forces and opening
+      up new horizons of possibility? Yanis Varoufakis: In the interest of full disclosure,
+      I’m not a commentator — I’m a participant. I lead MeRA25, our radical left-wing
+      party in Greece at the moment, and I’m part of DiEM25.This is important to note,
+      because the reason why I’m part of this movement is because we reject gradualism.
+      We reject the logic of the lesser evil — of having to choose between the center
+      left and the center right. We reject both. We consider the center left to have
+      been far more responsible for the rise of the Right and far more responsible for
+      depleting the social fabric of Europe. We reject the logic of the lesser evil
+      — of having to choose between the center left and the center right. It was the
+      center left, let me remind you, that invented austerity in the interest of the
+      lesser-evil logic. It wasn’t Schäuble or the Christian Democrats in Germany —
+      it was Peer Steinbrück of the Social Democrats who imposed austerity when he was
+      the finance minister. Before that, it was Gerhard Schröder who introduced the
+      Hartz IV reforms that crippled the working class in Germany. It was PASOK here
+      in Greece who introduced the first bailout. You cannot push the center left to
+      do something that the powers that be — the financiers, the troika, the ECB — will
+      not allow them to do. In the end, they don’t even want to do it themselves. They
+      merely want to appear as if they are doing it. When you are facing a systemic
+      crisis as we have been since 2008, and the gradualism of the radical center —
+      which involves both the center right and the center left — is the real source
+      of energy and dynamism for the fascists, then the only thing you can do is to
+      rise up against both, since they are Tweedledum and Tweedledee. In the EU today,
+      you have Ursula von der Leyen, who is a warmongering, half-crazed, genocide-supporting
+      president of the European Commission, with the support of the right-wing European
+      People’s Party and the center-left Socialists and Democrats. This is not a time
+      to say, in the United States, for example, that Joe Biden is a little bit better
+      than Donald Trump: “Maybe you should vote for the guy that armed the hand of Netanyahu
+      to carry out the genocide.” No, we won’t. We have to fight both of them. The post
+      Jacobin’s ‘On the Legacy of Greece’s Oxi Referendum: An interview with Yanis Varoufakis’
+      appeared first on Yanis Varoufakis .'
+    one_sentence_summary: The article critiques the Financial Times for downplaying
+      the detrimental impact of the EU, ECB, and IMF on Greece, highlighting the betrayal
+      of the Greek people by their government following a significant referendum, and
+      argues that Greece is now more vulnerable than ever due to these actions.
+    paragraph_summary: 'The article critiques the Financial Times for downplaying the
+      detrimental impact of the troika (EU Commission, ECB, and IMF) on Greece, which
+      has resulted in the country becoming a "permanently bankrupt colony." In a Jacobin
+      interview, Yanis Varoufakis outlines three key points: first, the 2015 referendum
+      was manipulated by the Greek Prime Minister, who sought a democratic mandate to
+      surrender to the troika, but the Greek people defied him with a 62% "No" vote;
+      second, Greece''s economic viability has diminished significantly, making it an
+      attractive target for vulture funds; and third, the troika''s actions have led
+      to a broader decline in investment across Europe, stifling growth and contributing
+      to the rise of far-right movements. Varoufakis argues that the financial devastation
+      of Greece set the stage for Europe''s current economic malaise.'
+    published: '2025-07-12T04:32:29+00:00'
+  - title: On the sad disconnection between our (Western) campaign to free Palestine
+      from our campaigns to liberate the… West – video
+    url: https://www.yanisvaroufakis.eu/2025/07/11/on-the-sad-disconnection-between-our-western-campaign-to-free-palestine-from-our-campaigns-to-liberate-the-west-video/
+    text: 'My hopes these days spring not from Europe nor from the United States. Let
+      me be frank on this. I take my hat off to the young people particularly, but not
+      only young people, to Jewish comrades who went out on the street to demonstrate
+      for Palestine, who were beaten up by police, who were arrested who were harassed,
+      who lost their jobs (I have colleagues in Germany from our party MeRA25 who lost
+      their jobs). I take my hat off to them and I’m very pleased that there is this
+      push back. But allow me to be also critical of our own people, myself included.
+      Allow me in this context to draw a comparison between the protesters against the
+      Vietnam war in the 1960s and the protesters today in the United States and in
+      Europe. Back then, in 1968, 1969, 1970 the anti-Vietnam war movement held this
+      strong belief that if Vietnam frees itself from imperialism, from the United States’
+      army occupation, that will be connected somehow to their own project in the United
+      States, in France, in Germany, in Britain to liberate their own societies from
+      oppression from the capitalist yoke – to put it in old-fashioned leftwing terms.
+      There was this hope that the anti-imperialist war campaign goes hand in hand with
+      their own liberation. Today that doesn’t happen. The great boys and girls, the
+      men and women who demonstrate in the campuses of the United States at great risk
+      to themselves as we have seen, especially under Trump, have no hope in their hearts
+      or minds that America will be liberated. The same here in Europe: The good people
+      who demonstrate in Berlin, in Munich, they are doing it for the Palestinians.
+      This is fantastic, this is brilliant. But, do  you know what I lament? I lament
+      the fact that they do not connect the fight to liberate Palestine with a fight
+      to liberate Munich, with a fight to liberate Brussels, with a fight to liberate
+      the British working class from the yoke of the people who are actually keeping
+      them down, not leaving them behind, but holding them down. This works both ways.
+      The fact that they don’t hope anymore that we can liberate Europe means that our
+      capacity to be helpful to the the cause of Palestinian liberation is circumscribed
+      and vice versa. However, when I see similar movements, similar protesters in South
+      Africa, in Namibia in Malaysia, in Latin America, supporting the Palestinian cause
+      you can still see what used to be the case in the 1960s and early ’70s in Europe
+      and in the United States. You can still see that these young people are connecting
+      the Palestinian liberation struggle with their own liberation struggle and I think
+      that creates the feedback – the positive feedback effect between the local liberation
+      struggle and the Palestinian liberation struggle which is good both for Palestine
+      and for the Global Majority. The post On the sad disconnection between our (Western)
+      campaign to free Palestine from our campaigns to liberate the… West – video appeared
+      first on Yanis Varoufakis .'
+    one_sentence_summary: The author expresses admiration for young protesters advocating
+      for Palestine despite facing adversity, while also reflecting critically on the
+      current movement's connection to historical anti-imperialist struggles, particularly
+      the anti-Vietnam War protests of the late 1960s.
+    paragraph_summary: The article expresses admiration for the young people, particularly
+      Jewish activists, who have demonstrated for Palestine despite facing police violence,
+      arrests, and job losses. The author draws a parallel between today's protests
+      and the anti-Vietnam War movement of the 1960s, noting that while the latter was
+      driven by a belief in the interconnectedness of liberation struggles, today's
+      activists seem to lack hope for their own societies' liberation from oppression.
+      The author laments that contemporary protests, while commendable, do not connect
+      the fight for Palestinian rights with the broader struggle against systemic oppression
+      in their own countries, suggesting a disconnection between international solidarity
+      and local liberation efforts.
+    published: '2025-07-11T11:09:37+00:00'
+  - title: On the sad disconnection between our (Western) campaign to free Palestine
+      from our campaigns to liberate the… West – video
+    url: https://www.yanisvaroufakis.eu/2025/07/11/on-the-sad-disconnection-between-our-western-campaign-to-free-palestine-from-our-campaigns-to-liberate-the-west-video/
+    text: 'My hopes these days spring not from Europe nor from the United States. Let
+      me be frank on this. I take my hat off to the young people particularly, but not
+      only young people, to Jewish comrades who went out on the street to demonstrate
+      for Palestine, who were beaten up by police, who were arrested who were harassed,
+      who lost their jobs (I have colleagues in Germany from our party MeRA25 who lost
+      their jobs). I take my hat off to them and I’m very pleased that there is this
+      push back. But allow me to be also critical of our own people, myself included.
+      Allow me in this context to draw a comparison between the protesters against the
+      Vietnam war in the 1960s and the protesters today in the United States and in
+      Europe. Back then, in 1968, 1969, 1970 the anti-Vietnam war movement held this
+      strong belief that if Vietnam frees itself from imperialism, from the United States’
+      army occupation, that will be connected somehow to their own project in the United
+      States, in France, in Germany, in Britain to liberate their own societies from
+      oppression from the capitalist yoke – to put it in old-fashioned leftwing terms.
+      There was this hope that the anti-imperialist war campaign goes hand in hand with
+      their own liberation. Today that doesn’t happen. The great boys and girls, the
+      men and women who demonstrate in the campuses of the United States at great risk
+      to themselves as we have seen, especially under Trump, have no hope in their hearts
+      or minds that America will be liberated. The same here in Europe: The good people
+      who demonstrate in Berlin, in Munich, they are doing it for the Palestinians.
+      This is fantastic, this is brilliant. But, do  you know what I lament? I lament
+      the fact that they do not connect the fight to liberate Palestine with a fight
+      to liberate Munich, with a fight to liberate Brussels, with a fight to liberate
+      the British working class from the yoke of the people who are actually keeping
+      them down, not leaving them behind, but holding them down. This works both ways.
+      The fact that they don’t hope anymore that we can liberate Europe means that our
+      capacity to be helpful to the the cause of Palestinian liberation is circumscribed
+      and vice versa. However, when I see similar movements, similar protesters in South
+      Africa, in Namibia in Malaysia, in Latin America, supporting the Palestinian cause
+      you can still see what used to be the case in the 1960s and early ’70s in Europe
+      and in the United States. You can still see that these young people are connecting
+      the Palestinian liberation struggle with their own liberation struggle and I think
+      that creates the feedback – the positive feedback effect between the local liberation
+      struggle and the Palestinian liberation struggle which is good both for Palestine
+      and for the Global Majority. The post On the sad disconnection between our (Western)
+      campaign to free Palestine from our campaigns to liberate the… West – video appeared
+      first on Yanis Varoufakis .'
+    one_sentence_summary: The author expresses admiration for young protesters advocating
+      for Palestine despite facing adversity, while also reflecting critically on the
+      current movement's connection to historical anti-imperialist struggles, particularly
+      the anti-Vietnam War protests of the late 1960s.
+    paragraph_summary: The article expresses admiration for the young people, particularly
+      Jewish activists, who have demonstrated for Palestine despite facing police violence,
+      arrests, and job losses. The author draws a parallel between today's protests
+      and the anti-Vietnam War movement of the 1960s, noting that while the latter was
+      driven by a belief in the interconnectedness of liberation struggles, today's
+      activists seem to lack hope for their own societies' liberation from oppression.
+      The author laments that contemporary protests, while commendable, do not connect
+      the fight for Palestinian rights with the broader struggle against systemic oppression
+      in their own countries, suggesting a disconnection between international solidarity
+      and local liberation efforts.
+    published: '2025-07-11T11:09:37+00:00'
   - title: Amid Trump’s calls to remove her as UN special rapporteur on Palestine, Varoufakis,
       Piketty, Gosh & another 7 economists praise Francesca Albanese’s report on the
       Economics of Genocide – ZETEO

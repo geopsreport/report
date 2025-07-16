@@ -7,18 +7,168 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As of July 9, 2025, the international landscape remains marked by escalating tensions, persistent narratives, and calls for deeper understanding across geopolitical divides. Recent independent analyses highlight three key developments: Western perceptions of China, ongoing U.S. policy towards Cuba and peace activism, and the aftermath of the Gaza People’s Tribunal.
+  The global geopolitical landscape continues to be shaped by intensifying militarization, contested narratives, and the struggle for effective international governance. Recent analysis underscores several critical developments.
   
-  The forthcoming anthology "If You Want To Understand China," announced by the Transnational Foundation in Sweden, seeks to challenge the entrenched negative portrayals of China in Western political, economic, and media discourse. **Jan Oberg** underscores the anthology’s aim to foster a more nuanced understanding, warning that current one-sided narratives carry "critical and potentially dangerous implications." This initiative reflects a broader trend among independent scholars to question mainstream Western framing of China, advocating for dialogue over confrontation.
+  A new report from World BEYOND War, highlighted by **Jan Oberg**, documents a notable increase in the number of foreign military bases worldwide. This expansion is being met with a parallel rise in public protests and advocacy efforts against these installations. **Oberg** notes, “The spread of foreign military bases is matched by growing resistance, indicating a global pushback against militarization.” This trend is particularly visible in regions where local populations perceive these bases as infringements on sovereignty and catalysts for regional instability.
   
-  Meanwhile, the climate for peace activists in the United States has come under scrutiny following the closure of World BEYOND War’s bank accounts after its member, David Swanson, attended a peace conference in Cuba. **Swanson** describes the incident as symptomatic of a "broader climate of fear and repression," likening it to a new era of McCarthyism. He calls for transparency and collective action against such measures, which he argues are rooted in longstanding U.S. hostility toward Cuba and serve to stifle dissent and peace advocacy.
+  Simultaneously, the United Nations, now marking its 80th year, remains a cornerstone for global dialogue and peacekeeping. However, **Oberg** warns that “member states are deliberately undermining the UN’s effectiveness,” pointing to a pattern of national interests taking precedence over collective action. This erosion of multilateralism is seen as a significant barrier to resolving current and emerging conflicts.
   
-  In the Middle East, the Gaza People’s Tribunal has issued the Sarajevo Declaration, emphasizing the Palestinian right to self-determination and calling for international solidarity. **Richard Falk**, a TFF Associate, urges widespread endorsement of the declaration, framing it as a pivotal step in the pursuit of justice and peace for Palestinians. This initiative signals a growing civil society movement seeking to influence international discourse and policy on the Israeli-Palestinian conflict.
+  On the cultural front, the Transnational Foundation in Sweden is preparing to release a scholarly anthology examining persistent negative Western perceptions of China. The forthcoming work, as described by **Oberg**, aims to “highlight the significance and potential dangers” of these entrenched attitudes, suggesting that misunderstanding and misrepresentation could exacerbate geopolitical tensions.
   
-  Looking ahead, the prevailing trends suggest a continued polarization in Western narratives about China, with independent voices pushing for greater balance and understanding. The repression of peace activism in the U.S. is likely to persist, given the entrenched security mindset and political sensitivities around Cuba. Civil society efforts, such as the Gaza People’s Tribunal, are expected to gain traction, but their impact on official policy remains uncertain.
-  
-  Based on the current trajectory, I, **Jan Oberg**, assess with high confidence that unless there is a fundamental shift in Western approaches—particularly regarding China and the Middle East—tensions and misunderstandings will most definitely persist, with civil society initiatives playing a critical but limited role in shaping outcomes.
+  Looking ahead, the prevailing trends suggest continued resistance to foreign military presence, further challenges to the UN’s authority, and a risk of deepening East-West divides driven by cultural and narrative biases. With high confidence, **Oberg** predicts that unless there is a substantive shift toward non-violent conflict resolution and a renewed commitment to multilateralism, the world will “most definitely” see an escalation of both grassroots resistance and interstate tensions.
 articles:
+  - title: Foreign Military Bases and Resistance to Them Are Spreading
+    url: https://transnational.live/2025/07/14/foreign-military-bases-and-resistance-to-them-are-spreading/
+    text: By World BEYOND War July 14, 2025 Reposted from World BEYOND War, July 14,
+      2025 A new report by the global peace group World BEYOND War finds that military
+      bases used by foreign militaries are growing in number, as are public protests
+      and advocacy against those bases. Of 1,247 foreign military bases in the world,
+      […] The post Foreign Military Bases and Resistance to Them Are Spreading appeared
+      first on The Transnational .
+    one_sentence_summary: A report by World BEYOND War reveals an increase in the number
+      of foreign military bases globally, alongside a rise in public protests and advocacy
+      against these installations.
+    paragraph_summary: A report by World BEYOND War reveals a rising trend in the number
+      of foreign military bases worldwide, totaling 1,247, alongside an increase in
+      public protests and advocacy against these installations. The findings highlight
+      growing resistance to foreign military presence, indicating a significant shift
+      in public sentiment towards military bases and their implications for global peace
+      and security.
+    published: '2025-07-14T15:21:11+00:00'
+  - title: Foreign Military Bases and Resistance to Them Are Spreading
+    url: https://transnational.live/2025/07/14/foreign-military-bases-and-resistance-to-them-are-spreading/
+    text: By World BEYOND War July 14, 2025 Reposted from World BEYOND War, July 14,
+      2025 A new report by the global peace group World BEYOND War finds that military
+      bases used by foreign militaries are growing in number, as are public protests
+      and advocacy against those bases. Of 1,247 foreign military bases in the world,
+      […] The post Foreign Military Bases and Resistance to Them Are Spreading appeared
+      first on The Transnational .
+    one_sentence_summary: A report by World BEYOND War reveals an increase in the number
+      of foreign military bases globally, alongside a rise in public protests and advocacy
+      against these installations.
+    paragraph_summary: A report by World BEYOND War reveals a rising trend in the number
+      of foreign military bases worldwide, totaling 1,247, alongside an increase in
+      public protests and advocacy against these installations. The findings highlight
+      growing resistance to foreign military presence, indicating a significant shift
+      in public sentiment towards military bases and their implications for global peace
+      and security.
+    published: '2025-07-14T15:21:11+00:00'
+  - title: Gandhi’s philosophy of non-violence
+    url: https://transnational.live/2025/07/09/gandhis-philosophy-of-non-violence/
+    text: ◪ Brian C Barnett (2019) July 9, 2025 In times of rampant militarism and denial
+      of every type of civilian conflict-resolution method, we must speed up our public
+      education work about all the alternatives to military non-resolution of problems.
+      This article is an excellent point to start – or refresh your knowledge about
+      intelligent and […] The post Gandhi’s philosophy of non-violence appeared first
+      on The Transnational .
+    one_sentence_summary: The article emphasizes the importance of promoting Gandhi's
+      philosophy of non-violence as an alternative to militarism and conflict resolution,
+      advocating for increased public education on peaceful methods to address societal
+      issues.
+    paragraph_summary: In his article, Brian C. Barnett emphasizes the urgent need to
+      promote education on non-violent conflict resolution methods in an era marked
+      by militarism and a disregard for civilian approaches to resolving disputes. He
+      highlights Gandhi's philosophy of non-violence as a foundational framework for
+      understanding and implementing alternatives to military solutions. The piece serves
+      as both an introduction and a refresher on the principles of non-violence, urging
+      readers to explore and adopt these strategies in the face of ongoing global conflicts.
+    published: '2025-07-09T16:44:28+00:00'
+  - title: Gandhi’s philosophy of non-violence
+    url: https://transnational.live/2025/07/09/gandhis-philosophy-of-non-violence/
+    text: ◪ Brian C Barnett (2019) July 9, 2025 In times of rampant militarism and denial
+      of every type of civilian conflict-resolution method, we must speed up our public
+      education work about all the alternatives to military non-resolution of problems.
+      This article is an excellent point to start – or refresh your knowledge about
+      intelligent and […] The post Gandhi’s philosophy of non-violence appeared first
+      on The Transnational .
+    one_sentence_summary: The article emphasizes the importance of promoting Gandhi's
+      philosophy of non-violence as an alternative to militarism and conflict resolution,
+      advocating for increased public education on peaceful methods to address societal
+      issues.
+    paragraph_summary: In his article, Brian C. Barnett emphasizes the urgent need to
+      promote education on non-violent conflict resolution methods in an era marked
+      by militarism and a disregard for civilian approaches to resolving disputes. He
+      highlights Gandhi's philosophy of non-violence as a foundational framework for
+      understanding and implementing alternatives to military solutions. The piece serves
+      as both an introduction and a refresher on the principles of non-violence, urging
+      readers to explore and adopt these strategies in the face of ongoing global conflicts.
+    published: '2025-07-09T16:44:28+00:00'
+  - title: 'The UN at 80: Still humanity’s most important organisation but member states
+      deliberately destroy it'
+    url: https://transnational.live/2025/07/09/the-un-at-80-still-humanitys-most-important-organisation-but-member-states-deliberately-destroy-it/
+    text: 'Editorial for Transcend Media Service, TMS, and published in an edited Q
+      & A version by the China Social Science Network-China Social Science News. ◎ Jan
+      ObergTFF Director July 9, 2025 ◩ The UN has been extremely important over the
+      last 80 years in terms of, for instance, global dialogue, multi-dimensional development,
+      international law, peace-keeping, normativity, violence […] The post The UN at
+      80: Still humanity’s most important organisation but member states deliberately
+      destroy it appeared first on The Transnational .'
+    one_sentence_summary: The article discusses the United Nations' crucial role over
+      the past 80 years in fostering global dialogue, development, and peacekeeping,
+      while also highlighting how member states are undermining its effectiveness.
+    paragraph_summary: In an editorial for Transcend Media Service, Jan Oberg, the director
+      of TFF, reflects on the United Nations' significant role over the past 80 years
+      in fostering global dialogue, promoting development, upholding international law,
+      and maintaining peace. Despite its importance as a crucial organization for humanity,
+      Oberg argues that member states are actively undermining the UN's effectiveness
+      and purpose, jeopardizing its ability to address pressing global issues.
+    published: '2025-07-09T10:06:06+00:00'
+  - title: 'The UN at 80: Still humanity’s most important organisation but member states
+      deliberately destroy it'
+    url: https://transnational.live/2025/07/09/the-un-at-80-still-humanitys-most-important-organisation-but-member-states-deliberately-destroy-it/
+    text: 'Editorial for Transcend Media Service, TMS, and published in an edited Q
+      & A version by the China Social Science Network-China Social Science News. ◎ Jan
+      ObergTFF Director July 9, 2025 ◩ The UN has been extremely important over the
+      last 80 years in terms of, for instance, global dialogue, multi-dimensional development,
+      international law, peace-keeping, normativity, violence […] The post The UN at
+      80: Still humanity’s most important organisation but member states deliberately
+      destroy it appeared first on The Transnational .'
+    one_sentence_summary: The article discusses the United Nations' crucial role over
+      the past 80 years in fostering global dialogue, development, and peacekeeping,
+      while also highlighting how member states are undermining its effectiveness.
+    paragraph_summary: In an editorial for Transcend Media Service, Jan Oberg, the director
+      of TFF, reflects on the United Nations' significant role over the past 80 years
+      in fostering global dialogue, promoting development, upholding international law,
+      and maintaining peace. Despite its importance as a crucial organization for humanity,
+      Oberg argues that member states are actively undermining the UN's effectiveness
+      and purpose, jeopardizing its ability to address pressing global issues.
+    published: '2025-07-09T10:06:06+00:00'
+  - title: ✅ TFF Share Blog, News & Notes from 2021 till today
+    url: https://transnational.live/2025/07/07/%f0%9f%94%97-tff-in-the-news-notes-2021/
+    text: Below are TFF-related media mentions, comments, videos and social media posts
+      published elsewhere but not on this homepage. We happen to catch and list only
+      a fraction. Regarding video comments and debates, we recommend that you go to
+      the TFF Video Channel on Substack where many of them are reproduced. Jan Oberg
+      is a contributor […] The post ✅ TFF Share Blog, News & Notes from 2021 till today
+      appeared first on The Transnational .
+    one_sentence_summary: The article highlights various media mentions, comments, videos,
+      and social media posts related to TFF, noting that only a portion is listed and
+      recommending the TFF Video Channel on Substack for more content.
+    paragraph_summary: The article provides a compilation of media mentions, comments,
+      videos, and social media posts related to TFF (Transnational Foundation for Peace
+      and Future Research) that have been published outside of its main homepage, noting
+      that only a small portion is captured. It encourages readers to visit the TFF
+      Video Channel on Substack for a broader range of video comments and discussions.
+      Additionally, Jan Oberg is mentioned as a contributor to the content shared.
+    published: '2025-07-07T15:20:00+00:00'
+  - title: ✅ TFF Share Blog, News & Notes from 2021 till today
+    url: https://transnational.live/2025/07/07/%f0%9f%94%97-tff-in-the-news-notes-2021/
+    text: Below are TFF-related media mentions, comments, videos and social media posts
+      published elsewhere but not on this homepage. We happen to catch and list only
+      a fraction. Regarding video comments and debates, we recommend that you go to
+      the TFF Video Channel on Substack where many of them are reproduced. Jan Oberg
+      is a contributor […] The post ✅ TFF Share Blog, News & Notes from 2021 till today
+      appeared first on The Transnational .
+    one_sentence_summary: The article highlights various media mentions, comments, videos,
+      and social media posts related to TFF, noting that only a portion is listed and
+      recommending the TFF Video Channel on Substack for more content.
+    paragraph_summary: The article provides a compilation of media mentions, comments,
+      videos, and social media posts related to TFF (Transnational Foundation for Peace
+      and Future Research) that have been published outside of its main homepage, noting
+      that only a small portion is captured. It encourages readers to visit the TFF
+      Video Channel on Substack for a broader range of video comments and discussions.
+      Additionally, Jan Oberg is mentioned as a contributor to the content shared.
+    published: '2025-07-07T15:20:00+00:00'
   - title: “If You Want To Understand China” – Foreword, Intro and Content of a TFF
       anthology.
     url: https://transnational.live/2025/07/06/if-you-want-to-understand-china-foreword-to-a-tff-anthology-in-the-making/

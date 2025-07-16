@@ -7,16 +7,194 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  The geopolitical landscape remains volatile in the wake of the U.S. and Israeli strikes on Iran’s nuclear facilities, with the latest analyses highlighting deepening uncertainty and the risk of further escalation. Recent developments underscore the performative nature of U.S. policy under President Trump, whose approach appears driven more by headline-grabbing actions than by coherent long-term strategy.
+  The aftermath of the U.S. and Israeli strikes on Iran continues to reshape the geopolitical landscape, with the Trump administration facing mounting challenges to its foreign policy strategy. The most recent analysis by **Alastair Crooke** underscores how U.S. miscalculations have not only failed to weaken Iran but have, in fact, bolstered its regional standing and unified its domestic front. Crooke notes that “hubris-driven blunders” have transformed the complexion of the wider conflict, as Iran emerges more resilient and the U.S. struggles to maintain its traditional dominance.
   
-  **Alastair Crooke** notes that the recent U.S. bombing campaign against Iran, while intended as a decisive show of force, failed to achieve its strategic objectives. Instead, it has left the region on edge, with Iran emerging more unified and resilient. Crooke emphasizes that the Israeli attack, rather than resolving tensions, has likely set the stage for continued conflict: “The Israeli attack did not achieve its intended strategic objectives and may lead to further escalation rather than resolution.”
+  The Trump administration’s approach—marked by headline-grabbing military actions rather than sustainable strategic gains—has, according to Crooke, “strengthened the resistance among global powers” and exposed the limitations of American power projection. The Israeli attack on Iran’s nuclear facilities, intended as a decisive blow, is now widely seen as a strategic failure that may provoke further escalation rather than resolve the underlying tensions.
   
-  The origins of the current crisis can be traced to a controversial IAEA resolution, which was heavily influenced by algorithmic intelligence assessments rather than clear evidence. As Crooke previously reported, the key nuclear allegation that justified the Israeli strike was “coaxed from a Palantir counter-intelligence algorithm,” raising questions about the reliability of the intelligence underpinning such consequential decisions.
+  Meanwhile, the broader international response signals a shift toward multipolarity. Crooke highlights that the U.S. is increasingly isolated, with major powers such as Russia and China leveraging the situation to advance their own interests and challenge the post-WWII order. The erosion of dollar dominance and the rise of alternative financial systems, particularly in Asia, further complicate Washington’s position.
   
-  Meanwhile, the Trump administration faces growing internal contradictions. The MAGA coalition’s unity is under strain, particularly as the interests of the populist base diverge from those of the tech elite. This internal discord, highlighted by the ongoing conflict between Elon Musk and Donald Trump, threatens to undermine the administration’s ability to manage both domestic and foreign policy crises.
-  
-  Looking ahead, the majority of analysts agree that the U.S. and Israel’s recent actions have not brought the desired resolution to the Iranian nuclear issue. Instead, there is a high chance of further escalation in the region, with Iran likely to strengthen its deterrence posture. The Trump administration’s reliance on spectacle over substance is expected to continue generating instability, both at home and abroad. As Crooke concludes, the failure to achieve strategic objectives in Iran “most definitely” signals a period of protracted uncertainty and potential for wider conflict.
+  Looking ahead, Crooke predicts with high confidence that the U.S. will face continued resistance to its policies in the Middle East and beyond. The likelihood of a negotiated settlement with Iran remains low, and the risk of further escalation is “most definitely” present. The trend toward a multipolar world order is accelerating, with the U.S. struggling to adapt to new realities and its adversaries capitalizing on American missteps.
 articles:
+  - title: US Hubris-Driven Blunders Transform Entire Complexion Of Wider War – OpEd
+    url: https://www.eurasiareview.com/16072025-us-hubris-driven-blunders-transform-entire-complexion-of-wider-war-oped/
+    text: 'By Alastair Crooke
+
+
+      The big issue emerging from the U.S.’ 22 June strike on Iran – second only to
+      ‘wither Iran?’ – is whether in Trump’s calculus he can ‘rhetorically impose’ the
+      having “obliterated” Iran’s nuclear programme claim long enough to both restrain
+      Israel from hitting Iran again, yet still allow Trump to pursue his show-stopper
+      headline, ‘WE WON: I’m in charge now and everybody is going to do what I tell
+      them’.
+
+
+      These were the key conflicting issues that were to be hammered out with Netanyahu
+      during his White House visit this week. Netanyahu’s interests essentially are
+      for ‘more hot war’, and thus differ from the Trump ceasefire general stratagem.
+
+
+      Implicit in his ‘In-Boom-Out & Ceasefire’ Iran approach is that Trump may imagine
+      he has created the space to resume his primary objective – that of instituting
+      a broader Israeli-centric order across the Middle East, devolving upon trade deals,
+      economic ties, investment and connectivity, to create a business-led West Asia,
+      centred on Tel Aviv (with Trump as its de facto ‘President’).
+
+
+      And, via this ‘Business Super Highway’, to strike further beyond – with the Gulf
+      States penetrating into BRICS’ south Asian heartland to disrupt BRICS connectivity
+      and corridors.
+
+
+      The sine qua non for any jumpstart to a putative ‘Abraham Accords 2.0 of course
+      – as Trump clearly understands – is an end to the Gaza War; the withdrawal of
+      Israeli forces from Gaza; and the Strip’s re-construction (none of which seems
+      to be in realistic reach).
+
+
+      What emerges rather, is that Trump continues to be seized by the delusional view
+      that his Israeli-centred vision could all be accomplished merely by ending the
+      genocide in Gaza, but with the world watching aghast as Israel continues on a
+      hegemonic military rampage across the region.
+
+
+      The most obvious flaw to the Trump premise is that a chastened Iran somehow has
+      been achieved by Israeli and American strikes. It is the opposite. Iran has arisen
+      more unified, resolute and defiant. Far from being relegated to watching passively
+      from the sidelines, Iran now – in the wake of recent events – resumes its place
+      as a leading regional power. One that is readying a possibly game-changing military
+      riposte to any further strikes by either Israel or the U.S.
+
+
+      What is ignored in all these western claims of Israeli success, is that Israel
+      chose to bet all on a surprise ‘shock and awe’ strike. One that would overturn
+      the Islamic Republic at a stroke. It didn’t work: the strategic objective failed,
+      and it produced the opposite outcome. But the more fundamental point is that the
+      techniques used by Israel – that required months, if not years of preparation
+      – cannot just be repeated again now that their stratagems have been fully exposed.
+
+
+      This White House misreading of the Iran reality signals that the Trump Team allowed
+      themselves to be deceived by Israeli hubris in insisting that Iran was a house-of-cards,
+      primed to collapse completely into paralysis upon the first taste of the Israeli
+      sneak decapitation ‘muscle’ on 13 June.
+
+
+      This was a fundamental error – in a pattern of similar errors: That China would
+      capitulate to the threat of imposed tariffs; that Russia could be coerced into
+      a ceasefire against its interests; and that Iran would be ready to sign an unconditional
+      surrender document in the face of Trump’s threats post-22 June.
+
+
+      What these U.S. blunders speak to – apart from a consistent divorce from geo-political
+      realities – is western weakness masked behind hubris and bluster. The U.S. Establishment
+      clings to its fading primacy; but in doing it so ineffectually, it has instead
+      accelerated the formation of a potent geo-strategic alliance intent on defying
+      the U.S.
+
+
+      The consequence has been the wake up call to other States occasioned by the western
+      slide towards stratagems of outright lies and deceit: The ‘Spider Web’ operation
+      against the Russian strategic bomber fleet on the eve of the Istanbul talks and
+      the U.S.-Israeli sneak attack on Iran two days before the expected next round
+      of U.S.-Iranian nuclear talks, have increased the will-to-resist by China, Russian
+      and Iran particularly, but more generally it is felt across the Global South.
+
+
+      The entire complexion of this war to retain America’s dollar primacy has been
+      irreversibly altered.
+
+
+      All are ‘on guard’ as they see evidence that, with the expectation of NATO’s defeat
+      in Ukraine, the West is ramping up the new Cold War on many fronts: in the Baltic
+      Sea; the Caucasus; the Iran periphery (via cyber attack), and of course via escalated
+      financial war across the board. Trump is again threatening to sanction Iran and
+      any State purchasing its oil. On Monday, Trump posted on Truth Social that he
+      would impose a new 10% tariff on “any country aligning themselves with the Anti-American
+      policies of BRICS”.
+
+
+      Naturally, States are preparing against this escalation. Tensions are rising everywhere.
+
+
+      Azerbaijan (and even Armenia) are being weaponised against Russia and Iran by
+      NATO powers and Turkey. Azerbaijan was used to facilitate Israeli drones launched
+      into Iran, and its airspace was used too by Israeli aircraft to circle into the
+      Caspian Sea in order for Israel to launch stand-off cruise missiles from Azeri
+      airspace over the Caspian Sea at Tehran.
+
+
+      Iraqi Kurdistan, Kazakhstan and the Baluchi borderlands have been used as platforms
+      to infiltrate sabotage units into both Russia and Iran to pre-position missiles
+      and drones and sabotage units for asymmetric warfare.
+
+
+      On the other flank of this escalating war, Trump is racing to land a string of
+      ‘trade’ agreements across the Pacific, including with Indonesia, Thailand and
+      Cambodia. The aim being to build ‘a cage’ of special higher tariffs around China’s
+      ability to use ‘trans-shipments’ – that is goods imported into other States from
+      China, which are then re-exported to America.
+
+
+      The U.S. set the precedent via Vietnam, with a 40% tariff on trans-shipments that
+      is precisely double the 20% levy on Vietnamese-made goods.
+
+
+      Except that Trump’s ‘shock and awe’ strategy of imposing tariffs to regain industrial
+      activity and to keep the rest of the world subject to dollar hegemony is not working:
+      First Trump was forced to announce a 90-day moratorium on Liberation Day Tariffs
+      in the hope that 90 deals would be struck in the interim – yet only three ‘framework
+      agreements’ were settled. So the Administration is now forced to extend the moratorium
+      yet again (to 1 August). Bessent, U.S. Treasury Secretary, has said that many
+      of the 90 states originally tariffed did not even try to contact the U.S. to work
+      out a deal
+
+
+      The ability to financially punish people for not doing what the U.S. says is drawing
+      to a close. The alternative to the dollar network exists. And it is not a ‘new
+      reserve currency’.
+
+
+      The alternative is the solution envisaged by China: a fusion of Fintech retail
+      payment platforms with banking and Central Banking digital frameworks, based on
+      block-chain and other digital technologies. (The U.S. cannot replicate this approach
+      – as Silicon Valley and Wall Street are at war with each other, and won’t co-operate).
+
+
+      As Will Schryver noted wryly a couple of years ago —
+
+
+      “The empire’s seemingly endless string of hubris-driven blunders has rapidly accelerated
+      the formation of what is quite arguably the single most potent military / economic
+      / geostrategic alliance seen in modern times: the tripartite axis of Russia, China,
+      and Iran …
+
+
+      “It has astoundingly managed to jump from the frying pan of a regional proxy war
+      against Russia into the fire of a global conflict that all three of its steadily
+      strengthening adversaries now view as existential”.
+
+
+      “In my considered opinion, this is almost certainly the single most inexplicable
+      and portentous series of geopolitical blunders in recorded history”.'
+    one_sentence_summary: The article discusses the complexities of U.S. foreign policy
+      under Trump regarding Iran, emphasizing the miscalculations and hubris that have
+      led to a strengthened Iran and a growing resistance among global powers, while
+      highlighting the challenges faced by the U.S. in maintaining its geopolitical
+      dominance amidst escalating tensions and failed strategies.
+    paragraph_summary: In Alastair Crooke's analysis, the aftermath of the U.S. strike
+      on Iran raises critical questions about President Trump's strategy, particularly
+      his aim to assert dominance over Iran while managing Israeli Prime Minister Netanyahu's
+      desire for increased military action. Trump appears to believe he can claim victory
+      over Iran's nuclear ambitions and simultaneously pursue a broader Israeli-centric
+      order in the Middle East, despite the ongoing Gaza conflict and the failure of
+      Israeli military strategies to weaken Iran. This miscalculation reflects a broader
+      pattern of U.S. foreign policy errors, characterized by hubris and a disconnect
+      from geopolitical realities, which has inadvertently strengthened alliances among
+      Iran, Russia, and China. As tensions escalate globally, particularly with NATO's
+      involvement in various regions, the U.S. faces challenges in maintaining its economic
+      hegemony and is struggling to adapt to a shifting landscape where alternative
+      financial systems are emerging, undermining its traditional power.
+    published: '2025-07-15T23:50:16+00:00'
   - title: '‘The Land Of Performance’: Trump Wanted A Perfect War, A Headline Showstopper
       – OpEd'
     url: https://www.eurasiareview.com/09072025-the-land-of-performance-trump-wanted-a-perfect-war-a-headline-showstopper-oped/
@@ -2597,6 +2775,245 @@ articles:
       towards a "National Economics" model under Putin, which emphasizes self-sufficiency
       and resilience against Western dominance.
     published: '2025-04-17T00:08:46+00:00'
+  - title: '‘Break-A-Leg’ (That Old Mafia Warning): Trump Has Threatened Iran Over An
+      Ultimatum That Likely Cannot Be Met – OpEd'
+    url: https://www.eurasiareview.com/07042025-break-a-leg-that-old-mafia-warning-trump-has-threatened-iran-over-an-ultimatum-that-likely-cannot-be-met-oped/
+    text: 'By Alastair Crooke
+
+
+      Trump’s ultimatum to Iran? Colonel Doug Macgregor compares the Trump ultimatum
+      to Iran to that which Austria-Hungary delivered to Serbia in 1914: An offer, in
+      short, that ‘could not be refused’. Serbia accepted nine out of the ten demands.
+      But it refused one – and Austria-Hungary immediately declared war.
+
+
+      On 4 February, shortly after his Inauguration, President Trump signed a National
+      Security Presidential Memorandum (NSPM); that is to say, a legally binding directive
+      requiring government agencies to carry out the specified actions precisely.
+
+
+      The demands are that Iran should be denied a nuclear weapon; denied inter-continental
+      missiles, and denied too other asymmetric and conventional weapons capabilities.
+      All these demands go beyond the NPT and the existing JCPOA. To this end, the NSPMdirects
+      maximum economic pressure be imposed; that the U.S. Treasury act to drive Iran’s
+      oil exports to zero; that the U.S. work to trigger JCPOA Snapback of sanctions;
+      and that Iran’s “malign influence abroad” – its “proxies” – be neutralised.
+
+
+      The UN sanctions snapback expires in October, so time is short to fulfil the procedural
+      requirements to Snapback. All this suggests why Trump and Israeli officials give
+      Spring as the deadline to a negotiated agreement.
+
+
+      Trump’s ultimatum to Iran appears to be moving the U.S. down a path to where war
+      is the only outcome, as occurred in 1914 – an outcome which ultimately triggered
+      WW1.
+
+
+      Might this just be Trump bluster? Possibly, but it does sound as if Trump is issuing
+      legally binding demands such that he must expect cannot be met. Acceptance of
+      Trump’s demands would leave Iran neutered and stripped of its sovereignty, at
+      the very least. There is an implicit ‘tone’ to these demands too, that is one
+      of threatening and expecting regime change in Iran as its outcome.
+
+
+      It may be Trump bluster, but the President has ‘form’ (past convictions) on this
+      issue. He has unabashedly hewed to the Netanyahu line on Iran that the JCPOA (or
+      any deal with Iran) was ‘bad’. In May 2014, Trump withdrew the U.S. from the JCPOA
+      at Netanyahu’s behest and instead issued a new set of 12 demands to Iran – including
+      permanently and verifiably abandoning its nuclear programme in perpetuity and
+      ceasing all uranium enrichment.
+
+
+      What is the difference between those earlier Trump demands and those of this February?
+      Essentially they are the same, except today he says: If Iran “doesn’t make a deal,
+      there will be bombing. It will be bombing the likes of which they have never seen
+      before”.
+
+
+      Thus, there is both history, and the fact that Trump is surrounded – on this issue
+      at least – by a hostile cabal of Israeli Firsters and Super Hawks. Witkoff is
+      there, but is poorly grounded on the issues. Trump too, has shown himself virtually
+      totalitarian in terms of any and all criticism of Israel in American Academia.
+      And in Gaza, Lebanon and Syria, he is fully supportive of Netanyahu’s far-right
+      provocative and expansionist agenda.
+
+
+      These present demands regarding Iran also run counter to the 25 March 2025 latest
+      annual U.S. Intelligence Threat Assessment that Iran is NOT building a nuclear
+      weapon. This Intelligence Assessment is effectively disregarded. A few days before
+      its release, Trump’s National Security Adviser, Mike Waltz clearly stated that
+      the Trump Administration is seeking the “full dismantlement” of Iran''s nuclear
+      energy program: “Iran has to give up its program in a way that the entire world
+      can see”, Waltz said. “It is time for Iran to walk away completely from its desire
+      to have a nuclear weapon”.
+
+
+      On the one hand, it seems that behind these ultimata stands a President made “pissed
+      off and angry” at his inability to end the Ukraine war almost immediately – as
+      he first mooted – together with pressures from a bitterly fractured Israel and
+      a volatile Netanyahu to compress the timeline for the speedy ‘finishing off’ of
+      the Iranian ‘regime’ (which, it is claimed, has never been weaker). All so that
+      Israel can normalise with Lebanon –and even Syria. And with Iran supposedly ‘disabled’,
+      pursue implementation of the Greater Israel project to be normalised across the
+      Middle East.
+
+
+      Which, on the other hand, will enable Trump to pursue the ‘long-overdue’ grand
+      pivot to China. (And China is energy-vulnerable – regime change in Tehran would
+      be a calamity, from the Chinese perspective).
+
+
+      To be plain, Trump’s China strategy needs to be in place too, in order to advance
+      Trump’s financial system re-balancing plans. For, should China feel itself besieged,
+      it could well act as a spoiler to Trump''s re-working of the American and global
+      financial system.
+
+
+      The Washington Post reports on a ‘secret’ Pentagon memo from Hegseth that “China
+      [now] is the Department’s sole pacing threat , [together] with denial of a Chinese
+      fait accompli seizure of Taiwan — while simultaneously defending the U.S. homeland”.
+
+
+      The ‘force planning construct’ (a concept of how the Pentagon will build and resource
+      the armed services to take on perceived threats) will only consider conflict with
+      Beijing when planning contingencies for a major power war, the Pentagon memo says,
+      leaving the threat from Moscow largely to be attended by European allies.
+
+
+      Trump wants to be powerful enough credibly to threaten China militarily, and therefore
+      wants Putin to agree speedily to a ceasefire in Ukraine, so that military resources
+      can quickly be moved to the China theatre.
+
+
+      On his flight back to Washington last Sunday evening, Trump reiterated his annoyance
+      toward Putin, but added “I don’t think he’s going to go back on his word, I’ve
+      known him for a long time. We’ve always gotten along well”. Asked when he wanted
+      Russia to agree to a ceasefire, Trump said there was a “psychological deadline”
+      – “If I think they’re tapping us along, I will not be happy about it”.
+
+
+      Trump’s venting against Russia may, perhaps, have an element of reality-TV to
+      it. For his domestic audience, he needs to be perceived as bringing ‘peace through
+      strength’ – to keep up the Alpha-Male appearance, lest the truth of his lack of
+      leverage over Putin becomes all too apparent for the American public and to the
+      world.
+
+
+      Part of the reason for Trump’s frustration too, may be his cultural formation
+      as a New York businessman; that a deal is about first dominating the negotiations,
+      and then quickly ‘splitting the difference’. This, however, is not how diplomacy
+      works. The transactional approach also reflects deep conceptual flaws.
+
+
+      The Ukraine ceasefire process is stalled, not because of Russian intransigence,
+      but rather because Team Trump has determined that achieving a settlement in Ukraine
+      comes firstly through insisting on a unilateral and immediate ceasefire – without
+      introducing temporary governance to enable elections in Ukraine, nor addressing
+      the root causes of the conflict. And secondly, because Trump rushed in, without
+      listening to what the Russians were saying, and/or without hearing it.
+
+
+      Now that initial pleasantries are over, and Russia is saying flatly that current
+      ‘ceasefire’ proposals simply are inadequate and unacceptable, Trump becomes angry
+      and lashes out at Putin, saying that 25% tariffs on Russian oil could happen ANY
+      moment.
+
+
+      Putin and Iran are both now under ‘deadlines’ (a ‘psychological’ one in Putin’s
+      case), so as to enable Trump to proceed with credibly threatening China to come
+      to a ‘deal’ soon – as the global economy is already wobbling.
+
+
+      Trump fumes and spits fire. He tries to hurry matters along by making a big show
+      of bombing the Houthis, boasting that they have been hit hard, with many Houthi
+      leaders killed. Yet, such callousness towards Yemeni civilian deaths sits awkwardly
+      with his claimed heart-rendering empathy for the thousands of ‘handsome’ Ukrainian
+      young men needlessly dying on the front lines.
+
+
+      It all becomes reality-TV.
+
+
+      Trump threatens Iran with “bombing [the] likes of which they have never seen before”
+      over an ultimatum that likely cannot be met. Simply put, this threat (which includes
+      the possible use of nuclear weapons) is not given because Iran poses a threat
+      to the U.S. It does not. But it is given as an option. A plan; a ‘thing’ placed
+      calmly on the geo-political table and intended to spread fear. “Cities full of
+      children, women, and the elderly to be killed: Not morally wrong. Not a war crime”.
+
+
+      No. Just the ‘reality’ that Trump takes the Iranian nuclear programme to be an
+      existential threat to Israel. And that the U.S. is committed to using military
+      force to eliminate existential threats to Israel.
+
+
+      This is the heart to Trump’s ultimatum. It owes to the fact that it is Israel
+      – not America, and not the U.S. intelligence community – that views Iran as an
+      existential threat. Professor Hudson, speaking with direct knowledge of the background
+      policy (see hereand here) says, “it''s NOT just that Israel as we know it – must
+      be safe and secure and free from terrorism”. That''s Trump and his Team’s ‘line’;
+      that''s the Israeli and its supporters narrative too. “But the mentality [behind
+      it] is different”, Hudson says.
+
+
+      There are some 2-3 million Israelis who see themselves as destined to control
+      all of what we now call the Middle East, the Levant, what some call West Asia
+      – and others call “Greater Israel”. These Zionists believe that they are mandated
+      by God to take this land – and that all who oppose them are Amalek. They believe
+      the Amalek to be consumed with an overwhelming desire to kill Jews, and who therefore
+      should be annihilated.
+
+
+      The Torah records the story of Amalek: Parshat Ki Teitzei, when the Torah states,
+      machoh timcheh et zecher Amalek—that we must erase Amalek’s memory. “Every year
+      we [Jews] are obligated to read – not how God will destroy Amalek – but how we
+      should destroy Amalek”. (Though many Jews puzzle how to reconcile this mitzvah
+      with their ingrained contrarian values of compassion and mercy).
+
+
+      This commandment in the Torah is in fact one of the key factors that lies at the
+      root of Israel’s obsession with Iran. Israelis perceive Iran as an Amalek tribe
+      plotting to kill Jews. No deal, no compromise therefore is possible. It is also,
+      of course, about Iran’s strategic challenge (albeit secular) to the Israeli state.
+
+
+      And what has made the Trump ultimatum so pressing in Washington’s view – apart
+      from the China-pivot considerations – was the assassination of Sayyed Hassan Nasrallah.
+      That assassination marked a big shift in U.S. thinking, because, before that,
+      we inhabited an era of careful calculation; incremental moves up an escalator
+      ladder. What is understood now is that ‘we''re no longer playing chess’. There
+      are no rules anymore.
+
+
+      Israel (Netanyahu) is going hell-for-leather on all fronts to mitigate the divisions
+      and turmoil at home in Israel through igniting the Iranian front – even though
+      this course might well threaten Israel’s destruction.
+
+
+      This latter prospect marks the reddest of ‘red lines’ to ingrained Deep State
+      structures.'
+    one_sentence_summary: Trump's ultimatum to Iran, which demands the dismantling of
+      its nuclear program and military capabilities under the threat of severe military
+      action, mirrors the historical precedent of Austria-Hungary's ultimatum to Serbia
+      in 1914, suggesting a path towards potential conflict driven by Israeli interests
+      rather than American security concerns.
+    paragraph_summary: In an analysis by Alastair Crooke, the article compares President
+      Trump's ultimatum to Iran to Austria-Hungary's demands on Serbia in 1914, suggesting
+      that Trump's demands are similarly impossible to accept without leading to conflict.
+      Signed shortly after his inauguration, Trump's National Security Presidential
+      Memorandum outlines stringent requirements for Iran, including the complete dismantling
+      of its nuclear program and military capabilities, while imposing maximum economic
+      pressure. The article posits that these demands, which disregard U.S. intelligence
+      assessments indicating Iran is not pursuing nuclear weapons, may be driven by
+      Trump's alignment with Israeli interests and a desire to pivot U.S. focus towards
+      China. The ultimatum is seen as a potential precursor to war, with Trump's aggressive
+      rhetoric suggesting a willingness to use military force against Iran, which is
+      framed as an existential threat to Israel rather than the U.S. The article highlights
+      the deep-rooted Israeli perceptions of Iran as a threat and the implications of
+      Trump's strategy for broader geopolitical dynamics, particularly concerning China
+      and the ongoing conflict in Ukraine.
+    published: '2025-04-07T16:19:34+00:00'
   - title: 'Transactional Weakness Tips The Balance Of Power: ‘Hold To No Illusions;
       There Is Nothing Beyond This Reality’ – OpEd'
     url: https://www.eurasiareview.com/05042025-transactional-weakness-tips-the-balance-of-power-hold-to-no-illusions-there-is-nothing-beyond-this-reality-oped/

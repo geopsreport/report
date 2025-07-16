@@ -7,14 +7,1614 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  The past 24 hours have seen further turbulence in US foreign policy, particularly regarding the ongoing conflict in Ukraine. President Trump’s abrupt halt and subsequent reversal of the ban on weapons shipments to Ukraine has drawn sharp criticism and renewed questions about Washington’s strategic consistency. As **Larry C. Johnson** notes, this erratic approach has not only prompted condemnation from figures such as former Russian President Medvedev but also raised serious concerns about the reliability of US commitments to Kyiv’s defense. Johnson highlights that Trump’s decision to resume military aid closely mirrors the previous Biden administration’s stance, despite earlier warnings about depleted US stockpiles.
+  The geopolitical landscape remains dominated by the ongoing Ukraine conflict and its broader implications for Western-Russian relations. In the latest development, Ukrainian President Volodymyr Zelensky has transferred ownership of the Odessa port terminal, Olimpex, to American investment firms Argentem Creek Partners and Innovatus Capital Partners. This move follows the legal fallout surrounding former owner Vladimir Naumenko, who was convicted of fraud and significant debt to the Ukrainian state. **Larry C. Johnson** notes that this transfer signals a deepening involvement of U.S. financial interests in Ukraine’s strategic infrastructure, potentially escalating tensions with Russia, which has already shown hostility toward Western economic encroachment in the region.
   
-  This lack of clear direction is not isolated. Johnson points out that Trump’s foreign policy, especially on issues involving Russia and Israel, continues to be marked by unpredictability and mixed messaging. The pattern of abrupt policy shifts is seen as undermining US credibility with both allies and adversaries, with Johnson warning that “the US lacks strategic depth” in its current posture.
+  Meanwhile, the question of leadership ethics has resurfaced in Western political discourse. **Larry C. Johnson** emphasizes the urgent need for voters to prioritize moral character and integrity in their leaders, warning that unchecked ambition can undermine democratic institutions. This call for ethical leadership comes amid increasing scrutiny of Western leaders’ motivations and decision-making, particularly regarding their handling of the Ukraine crisis.
   
-  On the information front, Johnson’s recent analysis underscores the persistent use of language as a tool for shaping public perception and justifying military action. Drawing parallels to the 2003 Iraq War, he argues that Western leaders continue to manipulate narratives to sustain support for controversial interventions, a trend that remains relevant in the context of the Ukraine conflict.
+  On the diplomatic front, recent public appearances by Vladimir Putin and Donald Trump have highlighted stark contrasts in their approaches. **Larry C. Johnson** observes that Putin’s composed and articulate demeanor during a recent interview stands in sharp contrast to Trump’s less effective communication style when addressing U.S. aid to Ukraine. This divergence in leadership presentation may influence both domestic and international perceptions of the West’s strategic coherence.
   
-  Looking ahead, the prevailing view among analysts is that the US will continue to struggle with maintaining a coherent strategy in Ukraine. Johnson asserts with high confidence that further policy reversals are “most definitely” likely, given the administration’s track record. This instability is expected to embolden Russia’s negotiating position and complicate efforts to reach a durable settlement. The broader trend points toward increasing skepticism among US allies about Washington’s reliability, with potential ripple effects across other geopolitical flashpoints.
+  Looking ahead, the trend points toward further entrenchment of U.S. economic interests in Ukraine, with high confidence that Russia will intensify its opposition—both diplomatically and potentially militarily—to what it perceives as Western overreach. The ongoing debate over leadership ethics and communication effectiveness is likely to persist, shaping public opinion and policy decisions in the months to come. I guarantee that the transfer of strategic assets like the Odessa port will remain a flashpoint in the broader contest between Russia and the West.
 articles:
+  - title: Russia Goes on the Offensive Against US Investors in an Odessa Port
+    url: https://sonar21.com/russia-goes-on-the-offensive-against-us-investors-in-an-odessa-port/
+    text: 'A tip of the hat to BORZZIKMAN , who broadcast this particular story on his
+      YouTube channel. What were these guys thinking? Or, were they thinking? Read on
+      to find the answers. On July 14, Volodymyr Zelensky handed over to United States
+      companies, the largest terminal of  the Odessa port, Olimpex , following an international
+      legal dispute. The new owners are the American investment companies, Argentem
+      Creek Partners and Innovatus Capital Partners . The price of the transaction was
+      not disclosed.  The most interesting part of the deal is how it came about… the
+      previous owner of this  terminal, Ukrainian businessman Vladimir Naumenko, was
+      arrested in May 2025 and subsequently convicted of fraud in Ukraine, in a case
+      allegedly involving Ukrainian grain and unpaid debt to the State of 100 million
+      dollars. But that was just the tip of the iceberg . Volodymyr (Vladimir) Naumenko
+      is a Ukrainian businessman and co-founder of G.N. Terminal Enterprises (GNT),
+      a grain transshipment group that managed the Olimpex and MetalsUkraine terminals
+      in the Port of Odesa. Along with his business partner, Serhiy (Sergei) Groza,
+      Naumenko was a central figure in a major investment dispute involving substantial
+      loans—totaling tens of millions of dollars—provided by US-based investment firms,
+      Innovatus Capital Partners and Argentem Creek Partners . Naumenko was arrested
+      by Ukrainian authorities in May 2025 on suspicion of fraud and forgery linked
+      to the unexplained disappearance of over 100,000 tons of grain pledged as collateral
+      for these loans. Prosecutors allege that GNT, under Naumenko’s leadership, misrepresented
+      grain stocks and participated in a scheme that involved simulating the destruction
+      of non-existent or unavailable collateral, especially during the chaos following
+      the Russian full-scale invasion of Ukraine. I guess he forgot to grease Zelensky’s
+      palms. Months prior to his arrest in Ukraine — October 2024 — Naumenko and Groza
+      were sentenced to 21 months in prison by an English High Court judge for violating
+      a Worldwide Freezing Order meant to protect the creditors’ interests. Subsequent
+      legal actions required them to pay approximately $150 million in outstanding debts
+      to Argentem Creek Partners. It looks like neither Naumenko or Groza dared travel
+      to the UK. So who are the proud, new owners of this port terminal in Odessa? Argentem
+      Creek Partners is 100% employee-owned. The firm was founded in 2015 by Daniel
+      Chapman and his former team from Cargill, Inc.’s subsidiary, Black River Asset
+      Management. Daniel Chapman serves as the Founder, CEO, and Co-Chief Investment
+      Officer. Other key leadership includes Maarten Terlouw, who is President and Co-Chief
+      Investment Officer. The firm is based in New York and operates globally, with
+      a presence in Abu Dhabi, Buenos Aires, London and Minneapolis. The co-owner, Innovatus
+      Capital Partners , is a privately held investment firm primarily owned and led
+      by its founding partners and key executives. The firm was founded in 2016 by:
+      David Schiff — Founding Partner, CEO, and Chairman of the Investment Committee.
+      Andrew Dym — Founding Partner, President, and Chief Risk Officer (CRO). These
+      two individuals are identified as the founders and principal leaders of Innovatus
+      Capital Partners . Both Schiff and Dym have extensive backgrounds in private equity,
+      credit markets, and asset-based investing. Additional key owners and executives
+      include: Andrew Hobson — Partner, Chief Financial Officer (CFO), and voting member
+      of the Investment Committee. Ravi Bhagavatula — Partner and Head of Lower Middle
+      Market Distressed Strategy Innovatus Capital Partners is a privately held investment
+      firm. Its primary sources of investment capital are institutional investors, including
+      pension funds and similar entities that allocate assets to their private equity
+      and private debt funds. Notable Types of Key Investors include: • Public Pension
+      Fund (Chicago, US) • Private Sector Pension Fund (Atlanta, US) There is some bad
+      news for Messrs. Chapman and Schiff… the Russian Army  launched a missile attack
+      on their new port terminal in Odessa on the  night of July 15. Two Russian Iskander-M ballistic
+      missiles — each carrying a 1,000 lb-plus of explosives — destroyed warehouses
+      and  offices of the new owners at the Olimpex Port terminal. BORZZIKMAN alledges
+      that President Zelensky regularly transfers Ukrainian property to American foundations
+      and companies. I don’t think the pension funds in Chicago and Atlanta are going
+      to be thrilled to hear this news. Prospects for future grain shipments, at least
+      in the near term, appear dim. I did three podcasts today — David Oualaaloo, Danny
+      Haiphong, and Marcello: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Ukrainian President Volodymyr Zelensky transferred ownership
+      of the Odessa port terminal, Olimpex, to American investment firms Argentem Creek
+      Partners and Innovatus Capital Partners following a legal dispute involving the
+      previous owner, Vladimir Naumenko, who was arrested and convicted of fraud related
+      to a significant debt to the Ukrainian state.
+    paragraph_summary: On July 14, Ukrainian President Volodymyr Zelensky transferred
+      ownership of the Olimpex terminal at Odessa port to American investment firms
+      Argentem Creek Partners and Innovatus Capital Partners, following a legal dispute
+      involving its previous owner, Ukrainian businessman Vladimir Naumenko. Naumenko,
+      who co-founded G.N. Terminal Enterprises, was arrested in May 2025 for fraud related
+      to the disappearance of over 100,000 tons of grain that had been pledged as collateral
+      for loans from the same U.S. firms. Prosecutors allege that Naumenko misrepresented
+      grain stocks and engaged in fraudulent activities during the turmoil of the Russian
+      invasion of Ukraine. Prior to his arrest, he and his business partner were also
+      sentenced to prison in England for related offenses.
+    published: '2025-07-16T04:04:03+00:00'
+  - title: Russia Goes on the Offensive Against US Investors in an Odessa Port
+    url: https://sonar21.com/russia-goes-on-the-offensive-against-us-investors-in-an-odessa-port/
+    text: 'A tip of the hat to BORZZIKMAN , who broadcast this particular story on his
+      YouTube channel. What were these guys thinking? Or, were they thinking? Read on
+      to find the answers. On July 14, Volodymyr Zelensky handed over to United States
+      companies, the largest terminal of  the Odessa port, Olimpex , following an international
+      legal dispute. The new owners are the American investment companies, Argentem
+      Creek Partners and Innovatus Capital Partners . The price of the transaction was
+      not disclosed.  The most interesting part of the deal is how it came about… the
+      previous owner of this  terminal, Ukrainian businessman Vladimir Naumenko, was
+      arrested in May 2025 and subsequently convicted of fraud in Ukraine, in a case
+      allegedly involving Ukrainian grain and unpaid debt to the State of 100 million
+      dollars. But that was just the tip of the iceberg . Volodymyr (Vladimir) Naumenko
+      is a Ukrainian businessman and co-founder of G.N. Terminal Enterprises (GNT),
+      a grain transshipment group that managed the Olimpex and MetalsUkraine terminals
+      in the Port of Odesa. Along with his business partner, Serhiy (Sergei) Groza,
+      Naumenko was a central figure in a major investment dispute involving substantial
+      loans—totaling tens of millions of dollars—provided by US-based investment firms,
+      Innovatus Capital Partners and Argentem Creek Partners . Naumenko was arrested
+      by Ukrainian authorities in May 2025 on suspicion of fraud and forgery linked
+      to the unexplained disappearance of over 100,000 tons of grain pledged as collateral
+      for these loans. Prosecutors allege that GNT, under Naumenko’s leadership, misrepresented
+      grain stocks and participated in a scheme that involved simulating the destruction
+      of non-existent or unavailable collateral, especially during the chaos following
+      the Russian full-scale invasion of Ukraine. I guess he forgot to grease Zelensky’s
+      palms. Months prior to his arrest in Ukraine — October 2024 — Naumenko and Groza
+      were sentenced to 21 months in prison by an English High Court judge for violating
+      a Worldwide Freezing Order meant to protect the creditors’ interests. Subsequent
+      legal actions required them to pay approximately $150 million in outstanding debts
+      to Argentem Creek Partners. It looks like neither Naumenko or Groza dared travel
+      to the UK. So who are the proud, new owners of this port terminal in Odessa? Argentem
+      Creek Partners is 100% employee-owned. The firm was founded in 2015 by Daniel
+      Chapman and his former team from Cargill, Inc.’s subsidiary, Black River Asset
+      Management. Daniel Chapman serves as the Founder, CEO, and Co-Chief Investment
+      Officer. Other key leadership includes Maarten Terlouw, who is President and Co-Chief
+      Investment Officer. The firm is based in New York and operates globally, with
+      a presence in Abu Dhabi, Buenos Aires, London and Minneapolis. The co-owner, Innovatus
+      Capital Partners , is a privately held investment firm primarily owned and led
+      by its founding partners and key executives. The firm was founded in 2016 by:
+      David Schiff — Founding Partner, CEO, and Chairman of the Investment Committee.
+      Andrew Dym — Founding Partner, President, and Chief Risk Officer (CRO). These
+      two individuals are identified as the founders and principal leaders of Innovatus
+      Capital Partners . Both Schiff and Dym have extensive backgrounds in private equity,
+      credit markets, and asset-based investing. Additional key owners and executives
+      include: Andrew Hobson — Partner, Chief Financial Officer (CFO), and voting member
+      of the Investment Committee. Ravi Bhagavatula — Partner and Head of Lower Middle
+      Market Distressed Strategy Innovatus Capital Partners is a privately held investment
+      firm. Its primary sources of investment capital are institutional investors, including
+      pension funds and similar entities that allocate assets to their private equity
+      and private debt funds. Notable Types of Key Investors include: • Public Pension
+      Fund (Chicago, US) • Private Sector Pension Fund (Atlanta, US) There is some bad
+      news for Messrs. Chapman and Schiff… the Russian Army  launched a missile attack
+      on their new port terminal in Odessa on the  night of July 15. Two Russian Iskander-M ballistic
+      missiles — each carrying a 1,000 lb-plus of explosives — destroyed warehouses
+      and  offices of the new owners at the Olimpex Port terminal. BORZZIKMAN alledges
+      that President Zelensky regularly transfers Ukrainian property to American foundations
+      and companies. I don’t think the pension funds in Chicago and Atlanta are going
+      to be thrilled to hear this news. Prospects for future grain shipments, at least
+      in the near term, appear dim. I did three podcasts today — David Oualaaloo, Danny
+      Haiphong, and Marcello: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Ukrainian President Volodymyr Zelensky transferred ownership
+      of the Odessa port terminal, Olimpex, to American investment firms Argentem Creek
+      Partners and Innovatus Capital Partners following a legal dispute involving the
+      previous owner, Vladimir Naumenko, who was arrested and convicted of fraud related
+      to a significant debt to the Ukrainian state.
+    paragraph_summary: On July 14, Ukrainian President Volodymyr Zelensky transferred
+      ownership of the Olimpex terminal at Odessa port to American investment firms
+      Argentem Creek Partners and Innovatus Capital Partners, following a legal dispute
+      involving its previous owner, Ukrainian businessman Vladimir Naumenko. Naumenko,
+      who co-founded G.N. Terminal Enterprises, was arrested in May 2025 for fraud related
+      to the disappearance of over 100,000 tons of grain that had been pledged as collateral
+      for loans from the same U.S. firms. Prosecutors allege that Naumenko misrepresented
+      grain stocks and engaged in fraudulent activities during the turmoil of the Russian
+      invasion of Ukraine. Prior to his arrest, he and his business partner were also
+      sentenced to prison in England for related offenses.
+    published: '2025-07-16T04:04:03+00:00'
+  - title: 'The Ambition That Kills: A Call for Ethical Leadership'
+    url: https://sonar21.com/the-ambition-that-kills-a-call-for-ethical-leadership/
+    text: '“They burn in fire to attain, To build empires based on pain, On ashes climb
+      to reach for skies, While blinded by the gleam of lies. With hands of iron, hearts
+      of stone, They climb their thrones, yet stand alone, Corrupting worlds with restless
+      might, To lose the day, and fear the night.” “Awaken” – The Frontier Man The Moral
+      Crisis of Leadership Throughout history, the health of democracies has hinged
+      not merely on their laws or institutions, but on the moral character of the leaders
+      entrusted with power. The rise and fall of governments, the flourishing or decay
+      of civilizations, and the liberty or subjugation of citizens often trace back
+      to the moral character of those at the helm. In our present age—fraught with crises
+      of trust, integrity, and democratic erosion—it is imperative for us to reconsider
+      not only whom we elect, but the character and motivations behind their pursuit
+      of power. This essay argues that we must reject and vote out politicians driven
+      by career ambition, lust for wealth, and/or hunger for power. Instead, we must
+      elect leaders who are honest, intelligent, ethical, have track records of outstanding
+      public service, and pursue public office not as a ladder to personal gain, but
+      as a platform to serve their fellow citizens. History offers us powerful testimony:
+      societies thrive under servant-leaders, and crumble under self-serving, corrupt
+      elites. Personal ambition at any cost not only kills democracy but also often
+      literally kills people who are sent to die in endless, unnecessary wars of aggression
+      driven by the egos of corrupt leaders. When Ambition Kills: Lessons from History
+      Ambition, in isolation, is not inherently evil. It has spurred explorers across
+      oceans, scientists toward discoveries, and artists to greatness. But when personal
+      ambition, untethered from virtue, ethics, and duty, dominates the souls of leaders,
+      nations stand at great risk. Among history’s most vivid examples of ambition’s
+      perils stands Napoleon Bonaparte . Hailed at first as a defender of liberty, he
+      soon crowned himself Emperor of the French, betraying the very ideals that elevated
+      him. His wars—spanning from Italy to Russia—left millions dead, cities in ruins,
+      and a continent reeling. Napoleon’s fall at Waterloo was not just military defeat;
+      it was the collapse of a regime built on ego, not ethics. His story is a cautionary
+      tale: how a republic, birthed in revolution, can be crushed by the ambitions of
+      a single man. Adolf Hitler best represents ambition without any moral anchor.
+      Rising amid Germany’s despair, he promised revival but delivered tyranny, death,
+      and destruction. Cloaking power in populism, he dismantled the Weimar Republic
+      with chilling efficiency—via law, propaganda, and fear. His wars of conquest and
+      genocide were obsessions fueled by racial hatred and imperial delusions. By the
+      time he fell, tens of millions were dead, and the world had seen the abyss. These
+      examples echo a timeless truth: ambition without virtue does not elevate—it annihilates
+      . The Power of the Servant-Leader In contrast to the ambitious politician stands
+      the servant-leader —those who enter politics not to be someone , but to do something
+      . These are individuals for whom public service is not a means to personal gain,
+      but a moral obligation rooted in humility, service, and justice. American history
+      has some outstanding examples of such principled public servants. Abraham Lincoln
+      A self-educated lawyer from humble beginnings, Lincoln did not seek power for
+      its own sake, but was summoned by the moment to preserve a fractured union and
+      confront the moral crisis of slavery. His decisions were not dictated by party
+      pressures or personal popularity, but by an unwavering sense of justice and an
+      evolving commitment to human dignity. Though ridiculed by elites and assailed
+      from all sides, Lincoln held fast to a vision of a “more perfect Union,” where
+      liberty would not be the province of some, but the birthright of all. He issued
+      the Emancipation Proclamation not as a tactical maneuver, but as a moral imperative—knowing
+      it might cost him reelection, or even his life. In Lincoln, we find not the ambition
+      of a conqueror, but the moral character of a public servant and custodian—one
+      who bore the weight of a nation’s soul with courage, compassion, and purpose.
+      John F. Kennedy John F. Kennedy exemplified a form of principled leadership grounded
+      in restraint, intellect, and moral duty. At the height of the Cold War, when pressure
+      to demonstrate military dominance was immense, Kennedy chose diplomacy over destruction
+      during the Cuban Missile Crisis—resisting the chorus for war and averting global
+      nuclear catastrophe through calm resolve and ethical judgment. Kennedy governed
+      not by fear or flattery but by a quiet sense of duty to peace, justice, and the
+      common good. In him, we see a leader who understood that true strength lies not
+      in military conquest and subjugation of others, but in peace and cooperation—and
+      that ethical leadership is defined as much by what one refuses to do as by what
+      one dares to accomplish. Ron Paul, Thomas Massie, and Dennis Kucinich are among
+      the best contemporary examples of principled public service: Ron Paul A former
+      Air Force flight surgeon, physician, and Congressman from Texas, Ron Paul carved
+      a distinctive path in American politics and gained respect across ideological
+      lines for his outstanding intellectual consistency and moral character—particularly
+      in foreign policy. He consistently opposed foreign wars, denouncing the use of
+      false intelligence to start them. Paul also consistently opposed censorship and
+      systematic dismantling of the Constitution and domestic civil liberties. Thomas
+      Massie A principled conservative from Kentucky, Congressman Thomas Massie stands
+      out as a rare example of ethical consistency in modern American politics. Massie
+      has built an outstanding reputation for strong moral character, independence,
+      and constitutional fidelity. He has routinely cast lone votes when conscience
+      compels him—opposing mass surveillance, resisting unnecessary military interventions,
+      and rejecting bloated spending bills. Massie’s positions are not always popular,
+      but they are grounded in a belief that public office is a trust to be discharged
+      with integrity—not a celebrity brand to be cultivated. His steadfastness, especially
+      on matters of war, civil liberties, and fiscal responsibility, exemplifies how
+      ethical leadership often means swimming against the current of partisan convenience
+      and ambition. Dennis Kucinich A former mayor of Cleveland and Congressman from
+      Ohio, Dennis Kucinich exemplifies politics grounded in conscience and courage.
+      From his working-class roots, he entered public service with a commitment to justice,
+      peace, and the common good—consistently challenging both corporate power and militarism.
+      Kucinich was one of the most vocal opponents of the Iraq War and other wars. He
+      also resisted the post-9/11 surveillance state, defending civil liberties and
+      opposing the militarization of domestic life. Refusing corporate PAC money and
+      standing alone on many key votes, Kucinich’s career is marked by moral clarity.
+      The Philosophy of Ethical Leadership Before we can demand ethical leadership,
+      we must first define it—not merely by example, but by principle. What does it
+      mean to lead ethically? What moral compass guides a leader worthy of public trust?
+      At its core, ethical leadership is the convergence of moral philosophy and civic
+      responsibility . It is not simply about making “good” decisions or avoiding scandal.
+      It is about grounding power in conscience, anchoring ambition in humanity and
+      humility, and shaping policy with an unwavering commitment to justice, truth,
+      and the dignity of others. Virtue Ethics From Aristotle to Confucius, virtue ethics
+      teaches us that the moral quality of a leader is not defined by results alone,
+      but by the inner character that guides their choices. Ethical leaders cultivate
+      virtues such as prudence , honesty, temperance , courage , justice , and humility
+      . These are not ornamental qualities—they are the very soul of leadership. Such
+      a leader does not merely do what is legal or expedient. They ask: ” Is this right?”,
+      Not “ Will this win votes? ” ” Does this serve the common good?”, Not “ Can I
+      get away with it? ” In ethical leadership, conscience precedes calculation , and
+      virtue transcends vanity. Philosopher Immanuel Kant argued that ethics is not
+      a matter of consequences or popularity but of adherence to moral duty. Ethical
+      leaders understand their role as a sacred trust. They take oaths not as ceremonial
+      rituals but as binding moral commitments. To them, the Constitution is not a tool
+      but a sacred covenant . An ethical leader does not violate others’ civil liberties
+      for political gain. They do not sacrifice principles for polls. They ask not what
+      is easy or advantageous, but what is required of them by law, by justice, and
+      by the responsibilities of office. Their motto is not “win at all costs,” but
+      “do what is right, come what may.” Ethical leadership cannot ignore outcomes—it
+      must care for the consequences of policy. But the utilitarian impulse to maximize
+      collective good must always be tempered by the inviolable rights of individuals
+      . An ethical leader may seek to reduce suffering or promote prosperity, but never
+      by violating human dignity or sacrificing the vulnerable. True ethical leadership
+      weighs costs and benefits without cynicism, and rejects the false logic of “collateral
+      damage” as a moral shield . No ambition, however grand, can justify injustice
+      against the powerless. The Ethic of Stewardship In the republican tradition—from
+      Cicero to Jefferson to Hannah Arendt—ethical leadership is about stewardship of
+      the res publica (literally, ‘the public thing’), or the commonwealth —that is,
+      the shared public realm, the institutions, values, and affairs that belong to
+      and serve the whole political community. Leaders are not owners of the state—they
+      are caretakers. Their charge is not to command but to preserve liberty, justice,
+      and democratic life for future generations. This tradition emphasizes public accountability,
+      transparency, civic courage , and a deep reverence for the Constitution, institutions,
+      laws, and the dignity of citizenship . Ethical leadership in this view is not
+      heroic domination—it is quiet guardianship. It is not a stage for ego but a field
+      of duty. Ethical leadership, then, is not accidental. It is not charisma, nor
+      cleverness, nor simply the absence of scandal. It is a discipline of character,
+      a fidelity to truth, and a refusal to wield power as a weapon of self-interest
+      . Such leadership is difficult, often thankless, and rarely rewarded in the short
+      term. But it is the only kind of leadership that sustains true freedom, prosperity,
+      restores trust, and dignifies the Republic. As citizens, our responsibility is
+      to recognize and demand this kind of leadership —not by the glare of fame, but
+      by the light of conscience. And as a society, our survival depends on demanding
+      nothing less. Ambition and the Endless Wars Nowhere is ambition untethered from
+      virtue more lethal than in the affairs of war and peace. When the quest for personal
+      power eclipses moral restraint, nations are drawn into bloody, unnecessary, and
+      otherwise avoidable conflicts. War becomes not a last resort, but a permanent
+      theater for ego—a distraction from domestic failures and a tool for empire-building.
+      The Iraq War stands as one of the most egregious examples. Launched on false pretenses
+      about “weapons of mass destruction”, the war cloaked darker motives: regional
+      dominance, oil access, and political legacy. It destabilized the Middle East,
+      cost hundreds of thousands of lives, displaced millions, and drained trillions
+      from the public treasury. Many wars of aggression in the Middle East and elsewhere
+      followed. Beyond the terrible devastation abroad, these wars led to de facto dismantling
+      of the United States Constitution and our civil liberties and fueled the expansion
+      of the surveillance state . Their architects have faced little accountability,
+      and its contractors grew rich—proving that in an unprincipled system, war profits
+      the few while burdening the many. President Eisenhower warned us of the “military-industrial
+      complex,” a network that profits from perpetual war and incentivizes aggression
+      over diplomacy . Today, war-making is a bipartisan ritual, politically safer than
+      peace. Drone strikes, surveillance powers, and endless defense budgets face little
+      scrutiny—while veterans return home scarred, and the vulnerable pay with their
+      lives. Ethical leadership must reject war and embrace peace as a moral imperative.
+      We must elect leaders who see diplomacy as strength, who tell the truth about
+      our wars, and who refuse to sacrifice lives for their ambition. Only when we elevate
+      such leaders can we break the cycle of war violence—and reclaim our Republic from
+      the grip of endless foreign wars. We must insist on ethical leadership—not just
+      to preserve our values, but to preserve our lives and the lives of our loved ones.
+      We Must End the Cult of Political Celebrity In an age of algorithmic seduction
+      and nonstop media saturation, politics has been hijacked by spectacle. The politician
+      has been remade—not as a public servant, but as a brand, a cult figure, a celebrity
+      . This is not a harmless cultural shift. It is a profound perversion of democracy
+      and a central driver of narcissism, corruption, and authoritarian drift. When
+      governance becomes entertainment, truth becomes optional , and performance becomes
+      everything . The metrics that once defined responsible leadership—integrity, wisdom,
+      courage—are replaced by likes, shares, poll numbers, and viral soundbites. The
+      goal is not sound governance, but building personal brands and power of celebrity
+      leaders . To win the camera, not the argument. Style trumps substance. Decisions
+      are driven less by conscience than by public relations calculus. In this perverted
+      public landscape, we mistake popularity for virtue, and charisma for competence
+      and moral character . In this theater of the absurd, government becomes a stage,
+      and the Republic turns into a mindless reality show based on lies. This culture
+      encourages vanity and attracts narcissists and psychopaths . As the politicians’
+      celebrity swells, so does their insulation from criticism. Like rock stars or
+      royalty, they become cocooned in bubbles of loyalists, flattered by sycophants
+      and shielded from accountability. Truth becomes elastic. Scandals are reframed
+      as spectacles. Ethical lapses are recast as mere plot twists. The consequences
+      are as dangerous as they are predictable: a loss of truth, humility, accountability,
+      and moral restraint . The loudest voices dominate; the wisest are ignored. The
+      humble are dismissed as “boring.” The reflective are derided as weak. Demagogues
+      thrive in this terrain, while principled leaders struggle to break through the
+      noise. This celebrity-politics complex also rewires the public. Citizens become
+      fans , and fans are not rational citizens. They do not demand accountability—they
+      demand victory and affirmation. They will excuse abuse, rationalize lies, and
+      defend injustice so long as their chosen idol remains untarnished. Opponents are
+      demonized for trivia; allies are excused for crimes. The media become an amplifier
+      of emotion, not a steward of facts and truth. News segments are not designed to
+      inform, but to provoke emotion —fear, anger, indignation. Journalism becomes a
+      mix of propaganda and entertainment. Deliberation gives way to tribalism. To restore
+      democratic integrity and common sense, we must reverse this cultural drift. Politicians
+      must be brought down from the pedestal and returned to their true role of public
+      servants. Public office is not a birthright, not a platform for money or fame—it
+      is an obligation of duty and an opportunity to serve. We must resist the temptation
+      to idolize those who govern us. They are not kings, not influencers, not saviors.
+      They are public servants. And our job is not to cheer them from the sidelines
+      as fans—but to exercise responsible citizenship by electing the most ethical leaders,
+      and then questioning, challenging, and holding them to account. How To Identify
+      Ethical Leaders Ethical leaders rarely announce themselves with fanfare. They
+      are not always the most charismatic, nor the most media-savvy. But they leave
+      clues—ethical fingerprints—that conscientious voters can discern. Here are some
+      concrete ways to identify them: Track Record Over Rhetoric Look beyond what a
+      candidate says and examine what they’ve done . Have they taken unpopular but principled
+      stances in the true public interest? Have they kept their word, even at political
+      cost? Have they delivered for their voters in their previous public service jobs?
+      Ethics is revealed in actions, not press releases. What is their voting record?
+      Voting in favor of a genocide or any war of aggression should be disqualifying.
+      If they sent someone else’s children to die for their ambition, they will not
+      hesitate to send yours. Have they voted for any unconstitutional bills such as
+      authorizing surveillance without a warrant or restricting freedom of speech? If
+      they were willing to betray their sacred oath to protect and defend the Constitution,
+      they cannot be trusted and are not eligible for public service. Follow the Money
+      Examine where their campaign funding comes from. Do they rely on grassroots donations,
+      or on PACs, defense contractors, and lobbyists of foreign countries? Money is
+      a moral trail; follow it. Do not support any candidates who are funded by corporate
+      interests, military industrial complex, and/or foreign lobbies – they will not
+      be representing you, they will be serving their donors. How They Treat the Powerless
+      Pay attention to how a candidate treats those without influence—whistleblowers,
+      immigrants, prisoners, the poor. Ethical leaders fight for those who cannot repay
+      them. Humility in Leadership Avoid those who speak only in absolutes, or elevate
+      themselves as saviors. Ethical leaders acknowledge their limits, welcome dissent,
+      and share credit. Hubris is the mask of ambition; humility is the mark of service.
+      Transparency Do they explain their decisions clearly, or hide behind spin? Are
+      they willing to be held accountable, or do they deflect and blame? Transparency
+      is the companion of integrity. Build a Culture and Institutions of Ethical Leadership
+      Identifying ethical leaders is only half the battle. We must also build a culture
+      and institutions that promote them, protect them, and value their service. Reform
+      the Incentives Electoral reforms including primaries reform, ranked-choice voting,
+      anti-gerrymandering measures, and reform of campaign financing, can disincentivize
+      performative politics, encourage truthful and thoughtful competition of ideas,
+      and highlight the most competent and ethical candidates. Break the cycle of careerism
+      by instituting term limits, banning lobbying jobs for former legislators, and
+      minimizing the influence of big money in politics. Institute a full ban on the
+      insider trading by political leaders and appointed officials. Ethical leaders
+      are more likely to emerge in a system that does not reward corruption. Civic Education
+      Teach the next generation that leadership is not about fame, power, or wealth.
+      Highlight moral exemplars in classrooms, not just military generals or billionaires.
+      Show that quiet courage and servant-leadership are worthy of admiration. Read
+      and Support Independent Media Ethical leaders are often ignored or marginalized
+      by mainstream legacy media. Read, share, and support independent journalism that
+      exposes corruption and uplifts principled voices . Shine light where spin dominates.
+      Create Political Spaces for Discussion Encourage local forums, debates, town halls,
+      podcasts, and online discussions where citizens can engage with candidates directly,
+      outside the noise of partisan media. Ethical leaders thrive in spaces where ideas
+      matter more than soundbites. Hold Power to Account Even ethical leaders need scrutiny.
+      The path to tyranny is paved with blind loyalty. A healthy republic supports virtue,
+      but demands transparency and oversight from all. The Responsibility of Citizens
+      If we are to have ethical leaders, we must be ethical citizens . Democracies usually
+      get the leaders they deserve. If we reward spectacle over substance, promises
+      over principles, we enable the rise of careerists and charlatans. If we are cynical,
+      apathetic, or distracted, we surrender the Republic to those who hunger for power.
+      But if we demand character, accountability, and humility, we can restore politics
+      to its noblest function: the stewardship of the common good . Yet this restoration
+      cannot rely on individual discernment alone. It requires the active organization
+      of citizens and reform of the structures that elevate public servants. Citizen
+      watchdog groups, independent ethics commissions, and local political clubs can
+      pressure institutions to remain transparent and accountable. Civic technology—such
+      as open-data platforms and Artificial Intelligence tools —can empower citizens
+      and journalists to publish the truth, voice their views, expose corruption, monitor
+      leaders, and influence decision-making directly. Ethical leadership also thrives
+      when the system doesn’t penalize moral courage. That means building political
+      cultures and institutional frameworks that reward truth-telling, protect whistleblowers,
+      and guard against retaliation. We must make it safer to dissent with integrity
+      than to conform with cowardice. Most of all, we must live the civic virtue we
+      seek . Courage is not the exclusive domain of those in high office. It belongs
+      also to voters who speak unpopular truths at school board meetings, to activists
+      who challenge unjust laws, and to communities who refuse to look away. Ethics
+      in leadership begins with ethics in citizenship. The Courage to Lead Ethically
+      Ethical leadership is not merely about character; it is about courage. The courage
+      to say no when the crowd shouts yes. The courage to sacrifice political gain for
+      moral principle. The courage to lead not by fear or flattery, but by truth. History
+      honors not the cautious consensus-seekers, but those who risked reputation and
+      career for justice. Whether standing alone on a congressional floor, vetoing a
+      war budget, or calling out abuses within their own party, ethical leaders often
+      act in defiance of the powerful. Their integrity does not exempt them from hardship—it
+      demands it. That is why courage must be cultivated—not only in our leaders, but
+      in ourselves. In a society that prizes convenience and rewards compliance, ethical
+      leadership is a difficult path. But it is the only path that leads to peace, justice,
+      and democratic renewal and therefore the only path worth pursuing. Every generation
+      faces the question: what kind of people shall we entrust with power? If we choose
+      those who serve ambition, the state will serve them in turn. But if we elevate
+      those who truly serve the people, the nation can thrive . Ethical, pro-peace leadership
+      is not a fantasy—it is the only viable path forward to a peaceful, thriving, and
+      just society. “For peace is not in gold or gain, Nor in the spoils of others’
+      pain; It’s found turning from the lie, Refusing worlds where good must die, To
+      stand where truth and kindness grow, And dream a life beyond this woe.” “Awaken”
+      – The Frontier Man The Frontier Man is an American poet, writer, musician, and
+      visual artist. He publishes his work under a pen name to maintain focus on his
+      ideas and art rather than his identity. You can follow The Frontier Man on his
+      Substack, Verses & Visions ; on X at @FrontierArt1 ; and on Telegram at @VersesVisions
+      . Artwork Awaken The Frontier Man September 2024'
+    one_sentence_summary: The article emphasizes the critical importance of the moral
+      character of leaders in maintaining healthy democracies, urging voters to prioritize
+      integrity and ethical motivations over career ambitions in their electoral choices.
+    paragraph_summary: The article emphasizes the critical importance of moral character
+      in leadership for the health of democracies, arguing that the rise and fall of
+      governments often stem from the integrity of those in power. It calls for a reevaluation
+      of the qualities we seek in elected officials, advocating for the rejection of
+      self-serving politicians motivated by ambition, wealth, or power, and the selection
+      of leaders who are honest, ethical, and dedicated to public service. The piece
+      highlights that while ambition can drive positive achievements, unchecked ambition
+      devoid of virtue can lead to disastrous consequences, as exemplified by historical
+      figures like Napoleon Bonaparte. Ultimately, the essay warns that personal ambition
+      can undermine democracy and lead to unnecessary conflicts, urging voters to prioritize
+      character and service over personal gain in their leaders.
+    published: '2025-07-15T14:39:57+00:00'
+  - title: 'The Ambition That Kills: A Call for Ethical Leadership'
+    url: https://sonar21.com/the-ambition-that-kills-a-call-for-ethical-leadership/
+    text: '“They burn in fire to attain, To build empires based on pain, On ashes climb
+      to reach for skies, While blinded by the gleam of lies. With hands of iron, hearts
+      of stone, They climb their thrones, yet stand alone, Corrupting worlds with restless
+      might, To lose the day, and fear the night.” “Awaken” – The Frontier Man The Moral
+      Crisis of Leadership Throughout history, the health of democracies has hinged
+      not merely on their laws or institutions, but on the moral character of the leaders
+      entrusted with power. The rise and fall of governments, the flourishing or decay
+      of civilizations, and the liberty or subjugation of citizens often trace back
+      to the moral character of those at the helm. In our present age—fraught with crises
+      of trust, integrity, and democratic erosion—it is imperative for us to reconsider
+      not only whom we elect, but the character and motivations behind their pursuit
+      of power. This essay argues that we must reject and vote out politicians driven
+      by career ambition, lust for wealth, and/or hunger for power. Instead, we must
+      elect leaders who are honest, intelligent, ethical, have track records of outstanding
+      public service, and pursue public office not as a ladder to personal gain, but
+      as a platform to serve their fellow citizens. History offers us powerful testimony:
+      societies thrive under servant-leaders, and crumble under self-serving, corrupt
+      elites. Personal ambition at any cost not only kills democracy but also often
+      literally kills people who are sent to die in endless, unnecessary wars of aggression
+      driven by the egos of corrupt leaders. When Ambition Kills: Lessons from History
+      Ambition, in isolation, is not inherently evil. It has spurred explorers across
+      oceans, scientists toward discoveries, and artists to greatness. But when personal
+      ambition, untethered from virtue, ethics, and duty, dominates the souls of leaders,
+      nations stand at great risk. Among history’s most vivid examples of ambition’s
+      perils stands Napoleon Bonaparte . Hailed at first as a defender of liberty, he
+      soon crowned himself Emperor of the French, betraying the very ideals that elevated
+      him. His wars—spanning from Italy to Russia—left millions dead, cities in ruins,
+      and a continent reeling. Napoleon’s fall at Waterloo was not just military defeat;
+      it was the collapse of a regime built on ego, not ethics. His story is a cautionary
+      tale: how a republic, birthed in revolution, can be crushed by the ambitions of
+      a single man. Adolf Hitler best represents ambition without any moral anchor.
+      Rising amid Germany’s despair, he promised revival but delivered tyranny, death,
+      and destruction. Cloaking power in populism, he dismantled the Weimar Republic
+      with chilling efficiency—via law, propaganda, and fear. His wars of conquest and
+      genocide were obsessions fueled by racial hatred and imperial delusions. By the
+      time he fell, tens of millions were dead, and the world had seen the abyss. These
+      examples echo a timeless truth: ambition without virtue does not elevate—it annihilates
+      . The Power of the Servant-Leader In contrast to the ambitious politician stands
+      the servant-leader —those who enter politics not to be someone , but to do something
+      . These are individuals for whom public service is not a means to personal gain,
+      but a moral obligation rooted in humility, service, and justice. American history
+      has some outstanding examples of such principled public servants. Abraham Lincoln
+      A self-educated lawyer from humble beginnings, Lincoln did not seek power for
+      its own sake, but was summoned by the moment to preserve a fractured union and
+      confront the moral crisis of slavery. His decisions were not dictated by party
+      pressures or personal popularity, but by an unwavering sense of justice and an
+      evolving commitment to human dignity. Though ridiculed by elites and assailed
+      from all sides, Lincoln held fast to a vision of a “more perfect Union,” where
+      liberty would not be the province of some, but the birthright of all. He issued
+      the Emancipation Proclamation not as a tactical maneuver, but as a moral imperative—knowing
+      it might cost him reelection, or even his life. In Lincoln, we find not the ambition
+      of a conqueror, but the moral character of a public servant and custodian—one
+      who bore the weight of a nation’s soul with courage, compassion, and purpose.
+      John F. Kennedy John F. Kennedy exemplified a form of principled leadership grounded
+      in restraint, intellect, and moral duty. At the height of the Cold War, when pressure
+      to demonstrate military dominance was immense, Kennedy chose diplomacy over destruction
+      during the Cuban Missile Crisis—resisting the chorus for war and averting global
+      nuclear catastrophe through calm resolve and ethical judgment. Kennedy governed
+      not by fear or flattery but by a quiet sense of duty to peace, justice, and the
+      common good. In him, we see a leader who understood that true strength lies not
+      in military conquest and subjugation of others, but in peace and cooperation—and
+      that ethical leadership is defined as much by what one refuses to do as by what
+      one dares to accomplish. Ron Paul, Thomas Massie, and Dennis Kucinich are among
+      the best contemporary examples of principled public service: Ron Paul A former
+      Air Force flight surgeon, physician, and Congressman from Texas, Ron Paul carved
+      a distinctive path in American politics and gained respect across ideological
+      lines for his outstanding intellectual consistency and moral character—particularly
+      in foreign policy. He consistently opposed foreign wars, denouncing the use of
+      false intelligence to start them. Paul also consistently opposed censorship and
+      systematic dismantling of the Constitution and domestic civil liberties. Thomas
+      Massie A principled conservative from Kentucky, Congressman Thomas Massie stands
+      out as a rare example of ethical consistency in modern American politics. Massie
+      has built an outstanding reputation for strong moral character, independence,
+      and constitutional fidelity. He has routinely cast lone votes when conscience
+      compels him—opposing mass surveillance, resisting unnecessary military interventions,
+      and rejecting bloated spending bills. Massie’s positions are not always popular,
+      but they are grounded in a belief that public office is a trust to be discharged
+      with integrity—not a celebrity brand to be cultivated. His steadfastness, especially
+      on matters of war, civil liberties, and fiscal responsibility, exemplifies how
+      ethical leadership often means swimming against the current of partisan convenience
+      and ambition. Dennis Kucinich A former mayor of Cleveland and Congressman from
+      Ohio, Dennis Kucinich exemplifies politics grounded in conscience and courage.
+      From his working-class roots, he entered public service with a commitment to justice,
+      peace, and the common good—consistently challenging both corporate power and militarism.
+      Kucinich was one of the most vocal opponents of the Iraq War and other wars. He
+      also resisted the post-9/11 surveillance state, defending civil liberties and
+      opposing the militarization of domestic life. Refusing corporate PAC money and
+      standing alone on many key votes, Kucinich’s career is marked by moral clarity.
+      The Philosophy of Ethical Leadership Before we can demand ethical leadership,
+      we must first define it—not merely by example, but by principle. What does it
+      mean to lead ethically? What moral compass guides a leader worthy of public trust?
+      At its core, ethical leadership is the convergence of moral philosophy and civic
+      responsibility . It is not simply about making “good” decisions or avoiding scandal.
+      It is about grounding power in conscience, anchoring ambition in humanity and
+      humility, and shaping policy with an unwavering commitment to justice, truth,
+      and the dignity of others. Virtue Ethics From Aristotle to Confucius, virtue ethics
+      teaches us that the moral quality of a leader is not defined by results alone,
+      but by the inner character that guides their choices. Ethical leaders cultivate
+      virtues such as prudence , honesty, temperance , courage , justice , and humility
+      . These are not ornamental qualities—they are the very soul of leadership. Such
+      a leader does not merely do what is legal or expedient. They ask: ” Is this right?”,
+      Not “ Will this win votes? ” ” Does this serve the common good?”, Not “ Can I
+      get away with it? ” In ethical leadership, conscience precedes calculation , and
+      virtue transcends vanity. Philosopher Immanuel Kant argued that ethics is not
+      a matter of consequences or popularity but of adherence to moral duty. Ethical
+      leaders understand their role as a sacred trust. They take oaths not as ceremonial
+      rituals but as binding moral commitments. To them, the Constitution is not a tool
+      but a sacred covenant . An ethical leader does not violate others’ civil liberties
+      for political gain. They do not sacrifice principles for polls. They ask not what
+      is easy or advantageous, but what is required of them by law, by justice, and
+      by the responsibilities of office. Their motto is not “win at all costs,” but
+      “do what is right, come what may.” Ethical leadership cannot ignore outcomes—it
+      must care for the consequences of policy. But the utilitarian impulse to maximize
+      collective good must always be tempered by the inviolable rights of individuals
+      . An ethical leader may seek to reduce suffering or promote prosperity, but never
+      by violating human dignity or sacrificing the vulnerable. True ethical leadership
+      weighs costs and benefits without cynicism, and rejects the false logic of “collateral
+      damage” as a moral shield . No ambition, however grand, can justify injustice
+      against the powerless. The Ethic of Stewardship In the republican tradition—from
+      Cicero to Jefferson to Hannah Arendt—ethical leadership is about stewardship of
+      the res publica (literally, ‘the public thing’), or the commonwealth —that is,
+      the shared public realm, the institutions, values, and affairs that belong to
+      and serve the whole political community. Leaders are not owners of the state—they
+      are caretakers. Their charge is not to command but to preserve liberty, justice,
+      and democratic life for future generations. This tradition emphasizes public accountability,
+      transparency, civic courage , and a deep reverence for the Constitution, institutions,
+      laws, and the dignity of citizenship . Ethical leadership in this view is not
+      heroic domination—it is quiet guardianship. It is not a stage for ego but a field
+      of duty. Ethical leadership, then, is not accidental. It is not charisma, nor
+      cleverness, nor simply the absence of scandal. It is a discipline of character,
+      a fidelity to truth, and a refusal to wield power as a weapon of self-interest
+      . Such leadership is difficult, often thankless, and rarely rewarded in the short
+      term. But it is the only kind of leadership that sustains true freedom, prosperity,
+      restores trust, and dignifies the Republic. As citizens, our responsibility is
+      to recognize and demand this kind of leadership —not by the glare of fame, but
+      by the light of conscience. And as a society, our survival depends on demanding
+      nothing less. Ambition and the Endless Wars Nowhere is ambition untethered from
+      virtue more lethal than in the affairs of war and peace. When the quest for personal
+      power eclipses moral restraint, nations are drawn into bloody, unnecessary, and
+      otherwise avoidable conflicts. War becomes not a last resort, but a permanent
+      theater for ego—a distraction from domestic failures and a tool for empire-building.
+      The Iraq War stands as one of the most egregious examples. Launched on false pretenses
+      about “weapons of mass destruction”, the war cloaked darker motives: regional
+      dominance, oil access, and political legacy. It destabilized the Middle East,
+      cost hundreds of thousands of lives, displaced millions, and drained trillions
+      from the public treasury. Many wars of aggression in the Middle East and elsewhere
+      followed. Beyond the terrible devastation abroad, these wars led to de facto dismantling
+      of the United States Constitution and our civil liberties and fueled the expansion
+      of the surveillance state . Their architects have faced little accountability,
+      and its contractors grew rich—proving that in an unprincipled system, war profits
+      the few while burdening the many. President Eisenhower warned us of the “military-industrial
+      complex,” a network that profits from perpetual war and incentivizes aggression
+      over diplomacy . Today, war-making is a bipartisan ritual, politically safer than
+      peace. Drone strikes, surveillance powers, and endless defense budgets face little
+      scrutiny—while veterans return home scarred, and the vulnerable pay with their
+      lives. Ethical leadership must reject war and embrace peace as a moral imperative.
+      We must elect leaders who see diplomacy as strength, who tell the truth about
+      our wars, and who refuse to sacrifice lives for their ambition. Only when we elevate
+      such leaders can we break the cycle of war violence—and reclaim our Republic from
+      the grip of endless foreign wars. We must insist on ethical leadership—not just
+      to preserve our values, but to preserve our lives and the lives of our loved ones.
+      We Must End the Cult of Political Celebrity In an age of algorithmic seduction
+      and nonstop media saturation, politics has been hijacked by spectacle. The politician
+      has been remade—not as a public servant, but as a brand, a cult figure, a celebrity
+      . This is not a harmless cultural shift. It is a profound perversion of democracy
+      and a central driver of narcissism, corruption, and authoritarian drift. When
+      governance becomes entertainment, truth becomes optional , and performance becomes
+      everything . The metrics that once defined responsible leadership—integrity, wisdom,
+      courage—are replaced by likes, shares, poll numbers, and viral soundbites. The
+      goal is not sound governance, but building personal brands and power of celebrity
+      leaders . To win the camera, not the argument. Style trumps substance. Decisions
+      are driven less by conscience than by public relations calculus. In this perverted
+      public landscape, we mistake popularity for virtue, and charisma for competence
+      and moral character . In this theater of the absurd, government becomes a stage,
+      and the Republic turns into a mindless reality show based on lies. This culture
+      encourages vanity and attracts narcissists and psychopaths . As the politicians’
+      celebrity swells, so does their insulation from criticism. Like rock stars or
+      royalty, they become cocooned in bubbles of loyalists, flattered by sycophants
+      and shielded from accountability. Truth becomes elastic. Scandals are reframed
+      as spectacles. Ethical lapses are recast as mere plot twists. The consequences
+      are as dangerous as they are predictable: a loss of truth, humility, accountability,
+      and moral restraint . The loudest voices dominate; the wisest are ignored. The
+      humble are dismissed as “boring.” The reflective are derided as weak. Demagogues
+      thrive in this terrain, while principled leaders struggle to break through the
+      noise. This celebrity-politics complex also rewires the public. Citizens become
+      fans , and fans are not rational citizens. They do not demand accountability—they
+      demand victory and affirmation. They will excuse abuse, rationalize lies, and
+      defend injustice so long as their chosen idol remains untarnished. Opponents are
+      demonized for trivia; allies are excused for crimes. The media become an amplifier
+      of emotion, not a steward of facts and truth. News segments are not designed to
+      inform, but to provoke emotion —fear, anger, indignation. Journalism becomes a
+      mix of propaganda and entertainment. Deliberation gives way to tribalism. To restore
+      democratic integrity and common sense, we must reverse this cultural drift. Politicians
+      must be brought down from the pedestal and returned to their true role of public
+      servants. Public office is not a birthright, not a platform for money or fame—it
+      is an obligation of duty and an opportunity to serve. We must resist the temptation
+      to idolize those who govern us. They are not kings, not influencers, not saviors.
+      They are public servants. And our job is not to cheer them from the sidelines
+      as fans—but to exercise responsible citizenship by electing the most ethical leaders,
+      and then questioning, challenging, and holding them to account. How To Identify
+      Ethical Leaders Ethical leaders rarely announce themselves with fanfare. They
+      are not always the most charismatic, nor the most media-savvy. But they leave
+      clues—ethical fingerprints—that conscientious voters can discern. Here are some
+      concrete ways to identify them: Track Record Over Rhetoric Look beyond what a
+      candidate says and examine what they’ve done . Have they taken unpopular but principled
+      stances in the true public interest? Have they kept their word, even at political
+      cost? Have they delivered for their voters in their previous public service jobs?
+      Ethics is revealed in actions, not press releases. What is their voting record?
+      Voting in favor of a genocide or any war of aggression should be disqualifying.
+      If they sent someone else’s children to die for their ambition, they will not
+      hesitate to send yours. Have they voted for any unconstitutional bills such as
+      authorizing surveillance without a warrant or restricting freedom of speech? If
+      they were willing to betray their sacred oath to protect and defend the Constitution,
+      they cannot be trusted and are not eligible for public service. Follow the Money
+      Examine where their campaign funding comes from. Do they rely on grassroots donations,
+      or on PACs, defense contractors, and lobbyists of foreign countries? Money is
+      a moral trail; follow it. Do not support any candidates who are funded by corporate
+      interests, military industrial complex, and/or foreign lobbies – they will not
+      be representing you, they will be serving their donors. How They Treat the Powerless
+      Pay attention to how a candidate treats those without influence—whistleblowers,
+      immigrants, prisoners, the poor. Ethical leaders fight for those who cannot repay
+      them. Humility in Leadership Avoid those who speak only in absolutes, or elevate
+      themselves as saviors. Ethical leaders acknowledge their limits, welcome dissent,
+      and share credit. Hubris is the mask of ambition; humility is the mark of service.
+      Transparency Do they explain their decisions clearly, or hide behind spin? Are
+      they willing to be held accountable, or do they deflect and blame? Transparency
+      is the companion of integrity. Build a Culture and Institutions of Ethical Leadership
+      Identifying ethical leaders is only half the battle. We must also build a culture
+      and institutions that promote them, protect them, and value their service. Reform
+      the Incentives Electoral reforms including primaries reform, ranked-choice voting,
+      anti-gerrymandering measures, and reform of campaign financing, can disincentivize
+      performative politics, encourage truthful and thoughtful competition of ideas,
+      and highlight the most competent and ethical candidates. Break the cycle of careerism
+      by instituting term limits, banning lobbying jobs for former legislators, and
+      minimizing the influence of big money in politics. Institute a full ban on the
+      insider trading by political leaders and appointed officials. Ethical leaders
+      are more likely to emerge in a system that does not reward corruption. Civic Education
+      Teach the next generation that leadership is not about fame, power, or wealth.
+      Highlight moral exemplars in classrooms, not just military generals or billionaires.
+      Show that quiet courage and servant-leadership are worthy of admiration. Read
+      and Support Independent Media Ethical leaders are often ignored or marginalized
+      by mainstream legacy media. Read, share, and support independent journalism that
+      exposes corruption and uplifts principled voices . Shine light where spin dominates.
+      Create Political Spaces for Discussion Encourage local forums, debates, town halls,
+      podcasts, and online discussions where citizens can engage with candidates directly,
+      outside the noise of partisan media. Ethical leaders thrive in spaces where ideas
+      matter more than soundbites. Hold Power to Account Even ethical leaders need scrutiny.
+      The path to tyranny is paved with blind loyalty. A healthy republic supports virtue,
+      but demands transparency and oversight from all. The Responsibility of Citizens
+      If we are to have ethical leaders, we must be ethical citizens . Democracies usually
+      get the leaders they deserve. If we reward spectacle over substance, promises
+      over principles, we enable the rise of careerists and charlatans. If we are cynical,
+      apathetic, or distracted, we surrender the Republic to those who hunger for power.
+      But if we demand character, accountability, and humility, we can restore politics
+      to its noblest function: the stewardship of the common good . Yet this restoration
+      cannot rely on individual discernment alone. It requires the active organization
+      of citizens and reform of the structures that elevate public servants. Citizen
+      watchdog groups, independent ethics commissions, and local political clubs can
+      pressure institutions to remain transparent and accountable. Civic technology—such
+      as open-data platforms and Artificial Intelligence tools —can empower citizens
+      and journalists to publish the truth, voice their views, expose corruption, monitor
+      leaders, and influence decision-making directly. Ethical leadership also thrives
+      when the system doesn’t penalize moral courage. That means building political
+      cultures and institutional frameworks that reward truth-telling, protect whistleblowers,
+      and guard against retaliation. We must make it safer to dissent with integrity
+      than to conform with cowardice. Most of all, we must live the civic virtue we
+      seek . Courage is not the exclusive domain of those in high office. It belongs
+      also to voters who speak unpopular truths at school board meetings, to activists
+      who challenge unjust laws, and to communities who refuse to look away. Ethics
+      in leadership begins with ethics in citizenship. The Courage to Lead Ethically
+      Ethical leadership is not merely about character; it is about courage. The courage
+      to say no when the crowd shouts yes. The courage to sacrifice political gain for
+      moral principle. The courage to lead not by fear or flattery, but by truth. History
+      honors not the cautious consensus-seekers, but those who risked reputation and
+      career for justice. Whether standing alone on a congressional floor, vetoing a
+      war budget, or calling out abuses within their own party, ethical leaders often
+      act in defiance of the powerful. Their integrity does not exempt them from hardship—it
+      demands it. That is why courage must be cultivated—not only in our leaders, but
+      in ourselves. In a society that prizes convenience and rewards compliance, ethical
+      leadership is a difficult path. But it is the only path that leads to peace, justice,
+      and democratic renewal and therefore the only path worth pursuing. Every generation
+      faces the question: what kind of people shall we entrust with power? If we choose
+      those who serve ambition, the state will serve them in turn. But if we elevate
+      those who truly serve the people, the nation can thrive . Ethical, pro-peace leadership
+      is not a fantasy—it is the only viable path forward to a peaceful, thriving, and
+      just society. “For peace is not in gold or gain, Nor in the spoils of others’
+      pain; It’s found turning from the lie, Refusing worlds where good must die, To
+      stand where truth and kindness grow, And dream a life beyond this woe.” “Awaken”
+      – The Frontier Man The Frontier Man is an American poet, writer, musician, and
+      visual artist. He publishes his work under a pen name to maintain focus on his
+      ideas and art rather than his identity. You can follow The Frontier Man on his
+      Substack, Verses & Visions ; on X at @FrontierArt1 ; and on Telegram at @VersesVisions
+      . Artwork Awaken The Frontier Man September 2024'
+    one_sentence_summary: The article emphasizes the critical importance of the moral
+      character of leaders in maintaining healthy democracies, urging voters to prioritize
+      integrity and ethical motivations over career ambitions in their electoral choices.
+    paragraph_summary: The article emphasizes the critical importance of moral character
+      in leadership for the health of democracies, arguing that the rise and fall of
+      governments often stem from the integrity of those in power. It calls for a reevaluation
+      of the qualities we seek in elected officials, advocating for the rejection of
+      self-serving politicians motivated by ambition, wealth, or power, and the selection
+      of leaders who are honest, ethical, and dedicated to public service. The piece
+      highlights that while ambition can drive positive achievements, unchecked ambition
+      devoid of virtue can lead to disastrous consequences, as exemplified by historical
+      figures like Napoleon Bonaparte. Ultimately, the essay warns that personal ambition
+      can undermine democracy and lead to unnecessary conflicts, urging voters to prioritize
+      character and service over personal gain in their leaders.
+    published: '2025-07-15T14:39:57+00:00'
+  - title: Putin Speaks, Trump Postures
+    url: https://sonar21.com/putin-speaks-trump-postures/
+    text: 'Hey Rutte, Whose Your Daddy? I have posted four videos below. If you only
+      have time to watch one, “Putin’s BIG Interview” is a must see. He did this interview
+      on Sunday, I suspect in anticipation of Trump’s YUGE Announcement regarding aid
+      to Ukraine, which turned out to be a mouse fart in my opinion (more about that
+      later). The contrast between how Putin speaks and answers questions and Donald
+      Trump’s fumbling performance, is staggering. Pay particular attention to Putin’s
+      body language… he is relaxed and open. No visible tension or nervousness. He also
+      is self-reflective and not afraid to admit his errors. The import of Putin’s words
+      is that he articulately explains two fundamental reasons for the tension between
+      Russia and the West: repeated lies by Western leaders and repeated rejections
+      of Russian overtures to cooperate on matters of mutual national security. It is
+      a short, but profound interview: Which brings me to Trump’s YUGE Announcement
+      on aid to Ukraine. After he finished speaking today, while sitting beside NATO
+      Secretary General Rutte, I could hear Peggy Lee singing, Is that All There Is
+      ? Trump’s big reveal is that NATO, which is essentially controlled by the US,
+      will now buy certain weapons from us and then give them to Ukraine. He also said
+      that Russia has 50 days to agree to a ceasefire and, if they continue to refuse
+      Trump’s ceasefire in place , Trump will impose 100% tariffs on countries supporting
+      Russia, i.e., China and India. Why 50 days? Did Putin tell Trump during their
+      conversation on July 3 that Russia will defeat Ukraine by September 2? Unlikely,
+      but I could not come up with an alternative explanation other than to conclude
+      that this is an arbitrary number and, as the date approaches, will permit Trump
+      to reverse himself and set another artificial deadline. The reality is that the
+      US has no weapons systems it will send Ukraine via NATO that will alter the tactical
+      and strategic picture on the ground. Ukraine is losing territory and men at an
+      accelerating rate, and that situation will only worsen over the next two months.
+      I discussed the status of the war in Ukraine with Nima, who was sporting a fine
+      piece of sartorial splendor: Judge Napolitano and I held our regularly scheduled
+      Monday chat and focused on two issues: the war in Ukraine and the Epstein debacle:
+      Last, I held an in-depth discussion with Andrei Martyanov — a stellar military
+      analyst — about the war in Ukraine and Russia’s likely next moves: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article contrasts Vladimir Putin's composed and articulate
+      interview discussing the tensions between Russia and the West with Donald Trump's
+      less effective communication style during his announcement on aid to Ukraine,
+      highlighting the differences in their body language and self-reflection.
+    paragraph_summary: In the article, the author critiques a recent interview with
+      Vladimir Putin, highlighting his calm demeanor and articulate explanations for
+      the tensions between Russia and the West, which he attributes to Western leaders'
+      dishonesty and rejection of Russian cooperation. In contrast, the author finds
+      Donald Trump's announcement regarding aid to Ukraine underwhelming, describing
+      it as a mere formality where NATO, largely influenced by the US, will purchase
+      weapons to send to Ukraine. Trump also proposed a 50-day ultimatum for Russia
+      to agree to a ceasefire, which the author views as arbitrary and potentially a
+      tactic to allow Trump to adjust his stance later. Overall, the author expresses
+      skepticism about the effectiveness of US support for Ukraine, noting the ongoing
+      losses faced by the country.
+    published: '2025-07-15T02:55:30+00:00'
+  - title: Putin Speaks, Trump Postures
+    url: https://sonar21.com/putin-speaks-trump-postures/
+    text: 'Hey Rutte, Whose Your Daddy? I have posted four videos below. If you only
+      have time to watch one, “Putin’s BIG Interview” is a must see. He did this interview
+      on Sunday, I suspect in anticipation of Trump’s YUGE Announcement regarding aid
+      to Ukraine, which turned out to be a mouse fart in my opinion (more about that
+      later). The contrast between how Putin speaks and answers questions and Donald
+      Trump’s fumbling performance, is staggering. Pay particular attention to Putin’s
+      body language… he is relaxed and open. No visible tension or nervousness. He also
+      is self-reflective and not afraid to admit his errors. The import of Putin’s words
+      is that he articulately explains two fundamental reasons for the tension between
+      Russia and the West: repeated lies by Western leaders and repeated rejections
+      of Russian overtures to cooperate on matters of mutual national security. It is
+      a short, but profound interview: Which brings me to Trump’s YUGE Announcement
+      on aid to Ukraine. After he finished speaking today, while sitting beside NATO
+      Secretary General Rutte, I could hear Peggy Lee singing, Is that All There Is
+      ? Trump’s big reveal is that NATO, which is essentially controlled by the US,
+      will now buy certain weapons from us and then give them to Ukraine. He also said
+      that Russia has 50 days to agree to a ceasefire and, if they continue to refuse
+      Trump’s ceasefire in place , Trump will impose 100% tariffs on countries supporting
+      Russia, i.e., China and India. Why 50 days? Did Putin tell Trump during their
+      conversation on July 3 that Russia will defeat Ukraine by September 2? Unlikely,
+      but I could not come up with an alternative explanation other than to conclude
+      that this is an arbitrary number and, as the date approaches, will permit Trump
+      to reverse himself and set another artificial deadline. The reality is that the
+      US has no weapons systems it will send Ukraine via NATO that will alter the tactical
+      and strategic picture on the ground. Ukraine is losing territory and men at an
+      accelerating rate, and that situation will only worsen over the next two months.
+      I discussed the status of the war in Ukraine with Nima, who was sporting a fine
+      piece of sartorial splendor: Judge Napolitano and I held our regularly scheduled
+      Monday chat and focused on two issues: the war in Ukraine and the Epstein debacle:
+      Last, I held an in-depth discussion with Andrei Martyanov — a stellar military
+      analyst — about the war in Ukraine and Russia’s likely next moves: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article contrasts Vladimir Putin's composed and articulate
+      interview discussing the tensions between Russia and the West with Donald Trump's
+      less effective communication style during his announcement on aid to Ukraine,
+      highlighting the differences in their body language and self-reflection.
+    paragraph_summary: In the article, the author critiques a recent interview with
+      Vladimir Putin, highlighting his calm demeanor and articulate explanations for
+      the tensions between Russia and the West, which he attributes to Western leaders'
+      dishonesty and rejection of Russian cooperation. In contrast, the author finds
+      Donald Trump's announcement regarding aid to Ukraine underwhelming, describing
+      it as a mere formality where NATO, largely influenced by the US, will purchase
+      weapons to send to Ukraine. Trump also proposed a 50-day ultimatum for Russia
+      to agree to a ceasefire, which the author views as arbitrary and potentially a
+      tactic to allow Trump to adjust his stance later. Overall, the author expresses
+      skepticism about the effectiveness of US support for Ukraine, noting the ongoing
+      losses faced by the country.
+    published: '2025-07-15T02:55:30+00:00'
+  - title: Waiting for Trump’s Yuge Russia Announcement
+    url: https://sonar21.com/waiting-for-trumps-yuge-russia-announcement/
+    text: 'Cartoon by NEMO The world waits and wonders what Donald Trump will say on
+      Monday evening about Russia. Given his narcissism and his belief that he is invincible
+      — as illustrated in NEMO’s cartoon at the top of this article — I think that Trump
+      is poised to reverse himself on his promise to bring a quick end to the war in
+      Ukraine, and he will announce a series of steps that he foolishly believes will
+      put pressure on Russia and its allies. He continues to ignore the West’s responsibility
+      for provoking this conflict and he does not assign any blame to Ukraine. Instead,
+      it is “Russia, Russia, Russia. Trump’s shifting position regarding the war in
+      Ukraine is sparking hope in the neocon community, as illustrated by the following
+      image: The folks at DD Geopolitics provided a nice summary of Senator Lindsey
+      Graham’s remarks to CBS on Sunday: Senator Lindsey Graham told CBS News what to
+      expect from Trump’s upcoming statement on Russia. First, he pointed to possible
+      moves regarding Russia’s frozen assets. “Watch for news about the seized assets.
+      I don’t want to speak ahead of the President, but the Europeans want to cap the
+      interest that goes to Ukraine. Treasury Secretary Bessent wants to go further,”
+      Graham said. He also spoke of a plan where the US will start selling large volumes
+      of weapons to European allies — supposedly to help Ukraine. “I expect a record
+      flow of weapons in the coming days to help Ukraine defend itself,” he said. Graham
+      also confirmed that Congress is close to passing a sanctions package targeting
+      countries that buy Russian oil and goods. The tariffs may not be fixed at 500%
+      as earlier proposed — Trump will have authority to set them between 0% and 500%.
+      “He’ll have maximum flexibility,” Graham stated. “Congress is about to pass the
+      most significant sanctions package in US history. It will give President Trump
+      tools he doesn’t have now — a real sledgehammer. The main violators are China,
+      India, and Brazil. India buys cheap Russian oil and resells it. It’s disgusting.
+      I spoke with Trump, and last week he said it’s time to act,” Graham added. He
+      said Trump wants to force those supporting Putin to choose between the U.S. economy
+      and backing Russia. “China, India, Brazil — you’ll suffer if you keep helping
+      Putin,” Graham said. If Trump pursues the course of action outlined by the Little
+      Old Lady from South Carolina (aka, Lindsey Graham), the President will further
+      strengthen Russia’s resolve to end the affair militarily; he will reinforce the
+      conviction of the BRICS nations that they must pursue an economic and financial
+      policy that frees them of US coercion; and he may unleash unanticipated economic
+      blowback on the US and World economy that could ignite a financial crisis. For
+      example, as of 10 pm Eastern time, gold futures are trending up. I suppose there
+      is always a chance that Trump will surprise and adopt a conciliatory policy proposal,
+      but given his comments about “Putin’s bullshit,” I don’t think that is likely.
+      I will be happy to be proved wrong. Trump may announce he is sending more Patriot
+      missile batteries and missiles to Ukraine… Good luck with that. US supplies are
+      depleted, as I and many others have pointed out over the last two weeks, and Russia
+      has proven to be quite adept at blowing them up. Also, the Patriot is totally
+      ineffective against Russia’s hypersonic missiles, which Moscow is regularly launching.
+      Monday’s speech may be the moment when Trump takes full ownership of the war in
+      Ukraine. Instead of garnering a Nobel Peace Prize , Trump will be setting himself
+      up for winning a resurrected Public Eye Award — i.e., Public Eye Awards were annual
+      “shame-on-you” prizes given from 2005 to 2015 to corporations with the worst records
+      in human rights abuses, environmental damage, poor working conditions, lack of
+      transparency, and corruption. The folks in Switzerland, who dreamed up the Public
+      Eye Award , may want to create a new category… Fanning the flames of conflict
+      . I did an interview on Friday with a relatively new podcaster… Christian White.
+      We discussed Epstein and the Mossad: I thank you for your invaluable support by
+      taking time to read or comment. I do not charge a subscription fee nor do I accept
+      advertising. I want the content to be accessible to everyone interested in the
+      issues I am discussing. However, if you wish to make a donation, please see this
+      link .'
+    one_sentence_summary: The article suggests that Donald Trump is likely to change
+      his stance on the Ukraine war and propose measures against Russia, while ignoring
+      the West's role in provoking the conflict, which has generated optimism among
+      neoconservatives.
+    paragraph_summary: The article discusses the anticipation surrounding Donald Trump's
+      upcoming statement on Russia, suggesting he may reverse his previous stance on
+      quickly ending the war in Ukraine and instead propose measures aimed at pressuring
+      Russia. It highlights Trump's tendency to overlook the West's role in provoking
+      the conflict and his singular focus on blaming Russia. The piece also notes the
+      optimism among neoconservatives, particularly Senator Lindsey Graham, who hints
+      at potential actions such as addressing frozen Russian assets, increasing arms
+      sales to European allies, and a significant sanctions package targeting countries
+      that engage with Russian goods. Graham emphasizes that this package could provide
+      Trump with unprecedented authority to impose tariffs, particularly on nations
+      like China, India, and Brazil that are involved in Russian oil trade.
+    published: '2025-07-14T02:38:11+00:00'
+  - title: Waiting for Trump’s Yuge Russia Announcement
+    url: https://sonar21.com/waiting-for-trumps-yuge-russia-announcement/
+    text: 'Cartoon by NEMO The world waits and wonders what Donald Trump will say on
+      Monday evening about Russia. Given his narcissism and his belief that he is invincible
+      — as illustrated in NEMO’s cartoon at the top of this article — I think that Trump
+      is poised to reverse himself on his promise to bring a quick end to the war in
+      Ukraine, and he will announce a series of steps that he foolishly believes will
+      put pressure on Russia and its allies. He continues to ignore the West’s responsibility
+      for provoking this conflict and he does not assign any blame to Ukraine. Instead,
+      it is “Russia, Russia, Russia. Trump’s shifting position regarding the war in
+      Ukraine is sparking hope in the neocon community, as illustrated by the following
+      image: The folks at DD Geopolitics provided a nice summary of Senator Lindsey
+      Graham’s remarks to CBS on Sunday: Senator Lindsey Graham told CBS News what to
+      expect from Trump’s upcoming statement on Russia. First, he pointed to possible
+      moves regarding Russia’s frozen assets. “Watch for news about the seized assets.
+      I don’t want to speak ahead of the President, but the Europeans want to cap the
+      interest that goes to Ukraine. Treasury Secretary Bessent wants to go further,”
+      Graham said. He also spoke of a plan where the US will start selling large volumes
+      of weapons to European allies — supposedly to help Ukraine. “I expect a record
+      flow of weapons in the coming days to help Ukraine defend itself,” he said. Graham
+      also confirmed that Congress is close to passing a sanctions package targeting
+      countries that buy Russian oil and goods. The tariffs may not be fixed at 500%
+      as earlier proposed — Trump will have authority to set them between 0% and 500%.
+      “He’ll have maximum flexibility,” Graham stated. “Congress is about to pass the
+      most significant sanctions package in US history. It will give President Trump
+      tools he doesn’t have now — a real sledgehammer. The main violators are China,
+      India, and Brazil. India buys cheap Russian oil and resells it. It’s disgusting.
+      I spoke with Trump, and last week he said it’s time to act,” Graham added. He
+      said Trump wants to force those supporting Putin to choose between the U.S. economy
+      and backing Russia. “China, India, Brazil — you’ll suffer if you keep helping
+      Putin,” Graham said. If Trump pursues the course of action outlined by the Little
+      Old Lady from South Carolina (aka, Lindsey Graham), the President will further
+      strengthen Russia’s resolve to end the affair militarily; he will reinforce the
+      conviction of the BRICS nations that they must pursue an economic and financial
+      policy that frees them of US coercion; and he may unleash unanticipated economic
+      blowback on the US and World economy that could ignite a financial crisis. For
+      example, as of 10 pm Eastern time, gold futures are trending up. I suppose there
+      is always a chance that Trump will surprise and adopt a conciliatory policy proposal,
+      but given his comments about “Putin’s bullshit,” I don’t think that is likely.
+      I will be happy to be proved wrong. Trump may announce he is sending more Patriot
+      missile batteries and missiles to Ukraine… Good luck with that. US supplies are
+      depleted, as I and many others have pointed out over the last two weeks, and Russia
+      has proven to be quite adept at blowing them up. Also, the Patriot is totally
+      ineffective against Russia’s hypersonic missiles, which Moscow is regularly launching.
+      Monday’s speech may be the moment when Trump takes full ownership of the war in
+      Ukraine. Instead of garnering a Nobel Peace Prize , Trump will be setting himself
+      up for winning a resurrected Public Eye Award — i.e., Public Eye Awards were annual
+      “shame-on-you” prizes given from 2005 to 2015 to corporations with the worst records
+      in human rights abuses, environmental damage, poor working conditions, lack of
+      transparency, and corruption. The folks in Switzerland, who dreamed up the Public
+      Eye Award , may want to create a new category… Fanning the flames of conflict
+      . I did an interview on Friday with a relatively new podcaster… Christian White.
+      We discussed Epstein and the Mossad: I thank you for your invaluable support by
+      taking time to read or comment. I do not charge a subscription fee nor do I accept
+      advertising. I want the content to be accessible to everyone interested in the
+      issues I am discussing. However, if you wish to make a donation, please see this
+      link .'
+    one_sentence_summary: The article suggests that Donald Trump is likely to change
+      his stance on the Ukraine war and propose measures against Russia, while ignoring
+      the West's role in provoking the conflict, which has generated optimism among
+      neoconservatives.
+    paragraph_summary: The article discusses the anticipation surrounding Donald Trump's
+      upcoming statement on Russia, suggesting he may reverse his previous stance on
+      quickly ending the war in Ukraine and instead propose measures aimed at pressuring
+      Russia. It highlights Trump's tendency to overlook the West's role in provoking
+      the conflict and his singular focus on blaming Russia. The piece also notes the
+      optimism among neoconservatives, particularly Senator Lindsey Graham, who hints
+      at potential actions such as addressing frozen Russian assets, increasing arms
+      sales to European allies, and a significant sanctions package targeting countries
+      that engage with Russian goods. Graham emphasizes that this package could provide
+      Trump with unprecedented authority to impose tariffs, particularly on nations
+      like China, India, and Brazil that are involved in Russian oil trade.
+    published: '2025-07-14T02:38:11+00:00'
+  - title: By the Numbers — Western Propaganda on Russian Losses
+    url: https://sonar21.com/by-the-numbers-western-propaganda-on-russian-losses/
+    text: 'Over the past week, the Western media has frantically pushed the narrative
+      that Russia is suffering massive losses. Marco Rubio’s remarks in Kuala Lumpur
+      a couple of days ago is a typical example: One hundred thousand since January?
+      But it is not just Rubio… The Economist provides a more modest estimate, but the
+      key word is estimate : As of July 9th our tracker suggests there have been between
+      900,000 and 1.3m Russian casualties since the war began, including some 190,000–350,000
+      deaths. That updates assessments from other sources, which put total casualties
+      above 1m at the end of June. Our numbers suggest roughly 31,000 Russians may have
+      been killed in the summer offensive so far, which began in earnest on May 1st.
+      There is too little data to generate a comparable live estimate for Ukraine. However,
+      a catalogue of the known dead and missing from UAL osses, a website, implies that
+      between 73,000 and 140,000 Ukrainian soldiers have died since the invasion began.
+      Talk about lazy reporters. There is plenty of data out there if you simply do
+      basic analysis. For example, start with social media. In the age of ubiquitous
+      smart-phones and social media platforms, it is impossible to hide death notices
+      — aka obituaries — and pictures of funerals and graveyards. There are hundred
+      of images of Ukrainian funerals and of graveyards with a literal sea of Ukrainian
+      flags fluttering over a vast expanse of freshly dug graves. Not so in Russia.
+      There are a few, but nothing to match the quantity displayed on Ukrainian channels.
+      Here is one example from the cemetery in Khmelnitsky: Again, there are a few videos
+      of some cemeteries in Russia, but nothing to match the scale of what we can see
+      in Ukraine. Western intelligence analysts have access to satellite imagery and
+      the capability to look at cemeteries in both Russia and Ukraine and compare where
+      the most new graves are being dug. I swear I wrote an article on this with those
+      images, but I can’t find it. But I did make an interesting discovery while searching
+      for it… Western satellites and media companies are doing nothing to make that
+      comparison. The following graph helps explain why. [Note: This bears an erroneous
+      title.] This graph shows the number of Russian bodies exchanges for Ukrainian
+      bodies since the start of the Special Military Operation. In my previous article,
+      I discussed the reason for the disparity in combat deaths… It is the fact that
+      Russia enjoys an overwhelming advantage in firepower. Let’s look at just two weapon
+      systems: Artillery shells : Russia enjoys a lopsided advantage thanks to ramped-up
+      domestic production (3-4.5 million shells annually) and massive imports (e.g.,
+      9+ million from North Korea since 2023), while Ukraine is dependent entirely on
+      Western aid (1.3-2 million annually). NATO’s Secretary General has conceded in
+      public that Russia produces more artillery shells in three months than the US
+      and the rest of NATO can produce in a year. Production numbers are relevant because
+      Russia’s firing rate (10,000-15,000 shells/day) outpaces Ukraine’s (2,000-7,000/day),
+      leading to a 5-10:1 disparity in some sectors in 2024. In 2025, that disparity
+      has grown to a 23:1 disadvantage for Ukraine. In other words, Ukrainians hit by
+      artillery shells are will have more casualties than Russians simply because the
+      Russians are firing more shells. Drones : Russia holds several key advantages
+      in the use of drones for combat in the ongoing conflict with Ukraine, primarily
+      stemming from its larger industrial base, foreign partnerships (e.g., with Iran
+      for Shahed -type drones and China for components), and focus on mass production
+      and deployment. Superior Production Volume and Stockpiles: Russia aims to produce
+      2-4 million drones in 2025 (including 2 million FPV models and 30,000 long-range/decoy
+      types), outpacing Ukraine’s targets in certain categories despite Ukraine’s overall
+      goal of 4.5 million. This includes ramping up to 300-500 long-range drones per
+      day, bolstered by Chinese components, giving Russia a 3:1 edge in daily output
+      for some types. Ukraine produced 2.2 million in 2024 (a 900% surge), but Russia’s
+      cumulative stockpiles (estimated 1.5-2.5 million active) enable sustained operations.
+      Massive Barrage Capabilities: Russia routinely launches large-scale drone assaults
+      (e.g., record 728 drones in one night in July 2025, up from 2,264 in H1 2024 to
+      22,495 in H1 2025), overwhelming Ukrainian air defenses and destroying key facilities.
+      Technological Adaptations for Resilience: Russia has gained an edge with fiber-optic
+      cable-guided drones (e.g., Lancet variants), which are resistant to electronic
+      jamming—a key Ukrainian countermeasure. These “low-tech” innovations have been
+      called game-changers, allowing Russia to bypass EW systems where Ukraine previously
+      dominated. Additionally, Russia’s integration of AI and machine vision in drones
+      enhances targeting, though Ukraine leads in autonomous swarms. Foreign Supply
+      Chains and Sustainability: Partnerships with Iran (thousands of Shahed imports
+      annually) and China (components for 70% of drones) provide Russia with a reliable
+      influx, evading sanctions and sustaining high usage rates. This contrasts with
+      Ukraine’s reliance on Western aid and domestic firms (200+ companies), which face
+      funding volatility despite a 22-fold increase in long-range drone output from
+      2023 to 2024. Battlefield Integration and Attrition Edge: Russia uses its drone
+      superiority to support infantry advances, forcing Ukraine into defensive adaptations
+      like motorcycle evasions. Russia’s drones enable a 10:1 attack ratio in some sectors,
+      compounding its manpower advantage, and increasing the number of Ukrainian casualties.
+      There is not a single weapon system where Ukraine can claim to have the advantage.
+      While Russia is employing two additional weapons systems that Ukraine does not
+      have… hypersonic missiles and combat aircraft. Before you holler, “Wait a minute…
+      Ukraine has combat aircraft,” Russia enjoys air supremacy, while Ukrainian aircraft
+      are shot down with regularity. Oh yeah, almost forgot… Russia’s fleet of bombers
+      and submarines regularly launch missiles that Ukraine is incapable of destroying.
+      Whatever casualties Ukraine is inflicting on Russian forces, it pales in comparison
+      to what Ukraine is losing because of the overwhelming advantage in fires that
+      Russia has. I guess Marco Rubio did not get that briefing. I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article critiques Western media for exaggerating Russian
+      casualties in the Ukraine conflict, highlighting varying estimates of Russian
+      and Ukrainian losses while suggesting that the reporting lacks rigor and accuracy.
+    paragraph_summary: In recent days, Western media has amplified claims of significant
+      Russian military losses in the ongoing conflict, with figures ranging from 100,000
+      to over a million casualties since the war began, including substantial death
+      tolls. While estimates vary, a report suggests that Russian casualties may be
+      between 900,000 and 1.3 million, with 190,000 to 350,000 deaths. In contrast,
+      Ukrainian losses are estimated to be between 73,000 and 140,000 soldiers. The
+      article criticizes the media for relying on these estimates without thorough analysis,
+      pointing out that social media and satellite imagery provide ample evidence of
+      the scale of casualties, particularly in Ukraine, where numerous funeral images
+      and grave sites are documented, unlike in Russia. The author emphasizes the need
+      for more rigorous data analysis to accurately assess the situation on both sides.
+    published: '2025-07-13T04:27:43+00:00'
+  - title: By the Numbers — Western Propaganda on Russian Losses
+    url: https://sonar21.com/by-the-numbers-western-propaganda-on-russian-losses/
+    text: 'Over the past week, the Western media has frantically pushed the narrative
+      that Russia is suffering massive losses. Marco Rubio’s remarks in Kuala Lumpur
+      a couple of days ago is a typical example: One hundred thousand since January?
+      But it is not just Rubio… The Economist provides a more modest estimate, but the
+      key word is estimate : As of July 9th our tracker suggests there have been between
+      900,000 and 1.3m Russian casualties since the war began, including some 190,000–350,000
+      deaths. That updates assessments from other sources, which put total casualties
+      above 1m at the end of June. Our numbers suggest roughly 31,000 Russians may have
+      been killed in the summer offensive so far, which began in earnest on May 1st.
+      There is too little data to generate a comparable live estimate for Ukraine. However,
+      a catalogue of the known dead and missing from UAL osses, a website, implies that
+      between 73,000 and 140,000 Ukrainian soldiers have died since the invasion began.
+      Talk about lazy reporters. There is plenty of data out there if you simply do
+      basic analysis. For example, start with social media. In the age of ubiquitous
+      smart-phones and social media platforms, it is impossible to hide death notices
+      — aka obituaries — and pictures of funerals and graveyards. There are hundred
+      of images of Ukrainian funerals and of graveyards with a literal sea of Ukrainian
+      flags fluttering over a vast expanse of freshly dug graves. Not so in Russia.
+      There are a few, but nothing to match the quantity displayed on Ukrainian channels.
+      Here is one example from the cemetery in Khmelnitsky: Again, there are a few videos
+      of some cemeteries in Russia, but nothing to match the scale of what we can see
+      in Ukraine. Western intelligence analysts have access to satellite imagery and
+      the capability to look at cemeteries in both Russia and Ukraine and compare where
+      the most new graves are being dug. I swear I wrote an article on this with those
+      images, but I can’t find it. But I did make an interesting discovery while searching
+      for it… Western satellites and media companies are doing nothing to make that
+      comparison. The following graph helps explain why. [Note: This bears an erroneous
+      title.] This graph shows the number of Russian bodies exchanges for Ukrainian
+      bodies since the start of the Special Military Operation. In my previous article,
+      I discussed the reason for the disparity in combat deaths… It is the fact that
+      Russia enjoys an overwhelming advantage in firepower. Let’s look at just two weapon
+      systems: Artillery shells : Russia enjoys a lopsided advantage thanks to ramped-up
+      domestic production (3-4.5 million shells annually) and massive imports (e.g.,
+      9+ million from North Korea since 2023), while Ukraine is dependent entirely on
+      Western aid (1.3-2 million annually). NATO’s Secretary General has conceded in
+      public that Russia produces more artillery shells in three months than the US
+      and the rest of NATO can produce in a year. Production numbers are relevant because
+      Russia’s firing rate (10,000-15,000 shells/day) outpaces Ukraine’s (2,000-7,000/day),
+      leading to a 5-10:1 disparity in some sectors in 2024. In 2025, that disparity
+      has grown to a 23:1 disadvantage for Ukraine. In other words, Ukrainians hit by
+      artillery shells are will have more casualties than Russians simply because the
+      Russians are firing more shells. Drones : Russia holds several key advantages
+      in the use of drones for combat in the ongoing conflict with Ukraine, primarily
+      stemming from its larger industrial base, foreign partnerships (e.g., with Iran
+      for Shahed -type drones and China for components), and focus on mass production
+      and deployment. Superior Production Volume and Stockpiles: Russia aims to produce
+      2-4 million drones in 2025 (including 2 million FPV models and 30,000 long-range/decoy
+      types), outpacing Ukraine’s targets in certain categories despite Ukraine’s overall
+      goal of 4.5 million. This includes ramping up to 300-500 long-range drones per
+      day, bolstered by Chinese components, giving Russia a 3:1 edge in daily output
+      for some types. Ukraine produced 2.2 million in 2024 (a 900% surge), but Russia’s
+      cumulative stockpiles (estimated 1.5-2.5 million active) enable sustained operations.
+      Massive Barrage Capabilities: Russia routinely launches large-scale drone assaults
+      (e.g., record 728 drones in one night in July 2025, up from 2,264 in H1 2024 to
+      22,495 in H1 2025), overwhelming Ukrainian air defenses and destroying key facilities.
+      Technological Adaptations for Resilience: Russia has gained an edge with fiber-optic
+      cable-guided drones (e.g., Lancet variants), which are resistant to electronic
+      jamming—a key Ukrainian countermeasure. These “low-tech” innovations have been
+      called game-changers, allowing Russia to bypass EW systems where Ukraine previously
+      dominated. Additionally, Russia’s integration of AI and machine vision in drones
+      enhances targeting, though Ukraine leads in autonomous swarms. Foreign Supply
+      Chains and Sustainability: Partnerships with Iran (thousands of Shahed imports
+      annually) and China (components for 70% of drones) provide Russia with a reliable
+      influx, evading sanctions and sustaining high usage rates. This contrasts with
+      Ukraine’s reliance on Western aid and domestic firms (200+ companies), which face
+      funding volatility despite a 22-fold increase in long-range drone output from
+      2023 to 2024. Battlefield Integration and Attrition Edge: Russia uses its drone
+      superiority to support infantry advances, forcing Ukraine into defensive adaptations
+      like motorcycle evasions. Russia’s drones enable a 10:1 attack ratio in some sectors,
+      compounding its manpower advantage, and increasing the number of Ukrainian casualties.
+      There is not a single weapon system where Ukraine can claim to have the advantage.
+      While Russia is employing two additional weapons systems that Ukraine does not
+      have… hypersonic missiles and combat aircraft. Before you holler, “Wait a minute…
+      Ukraine has combat aircraft,” Russia enjoys air supremacy, while Ukrainian aircraft
+      are shot down with regularity. Oh yeah, almost forgot… Russia’s fleet of bombers
+      and submarines regularly launch missiles that Ukraine is incapable of destroying.
+      Whatever casualties Ukraine is inflicting on Russian forces, it pales in comparison
+      to what Ukraine is losing because of the overwhelming advantage in fires that
+      Russia has. I guess Marco Rubio did not get that briefing. I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article critiques Western media for exaggerating Russian
+      casualties in the Ukraine conflict, highlighting varying estimates of Russian
+      and Ukrainian losses while suggesting that the reporting lacks rigor and accuracy.
+    paragraph_summary: In recent days, Western media has amplified claims of significant
+      Russian military losses in the ongoing conflict, with figures ranging from 100,000
+      to over a million casualties since the war began, including substantial death
+      tolls. While estimates vary, a report suggests that Russian casualties may be
+      between 900,000 and 1.3 million, with 190,000 to 350,000 deaths. In contrast,
+      Ukrainian losses are estimated to be between 73,000 and 140,000 soldiers. The
+      article criticizes the media for relying on these estimates without thorough analysis,
+      pointing out that social media and satellite imagery provide ample evidence of
+      the scale of casualties, particularly in Ukraine, where numerous funeral images
+      and grave sites are documented, unlike in Russia. The author emphasizes the need
+      for more rigorous data analysis to accurately assess the situation on both sides.
+    published: '2025-07-13T04:27:43+00:00'
+  - title: If the Russians are Killing Ukrainian Civilians, Where are the Bodies?
+    url: https://sonar21.com/if-the-russians-are-killing-ukrainian-civilians-where-are-the-bodies/
+    text: 'President Trump continues to create chaos when it comes to his failed promise
+      to end the war in Ukraine. His approach is unbalanced and focused almost exclusively
+      on blaming Russia… Failing to acknowledge his own responsibility for sending arms
+      to Ukraine during his first term, continuing to send weapons to Ukraine and not
+      condemning blatant Ukrainian attacks on Russian civilians. Here is what he said
+      during the impromptu presser at the start of the Thursday cabinet meeting. I’m
+      NOT happy with Putin. He’s killing a lot of people… his soldiers and their soldiers.
+      Trump got it only half-right… Putin is not killing a lot of his soldiers . Russian
+      tactics, notwithstanding Western propaganda, eschew mass assaults and employ small
+      unit tactics that minimize Russian casualties. Then there is the gross disparity
+      in firepower in favor of Russia.  Russia is hitting Ukrainian forces with artillery,
+      aerial bombs, multiple rocket launcher systems (MRLS), mortars, drones and missiles.
+      It is a simple math problem… Russia is hitting the Ukrainian troops with 30 to
+      40 times the rate of fire compared to what Ukraine can employ. Moreover, Ukraine
+      has limited options — i.e., they are short of artillery shells and replacement
+      barrels; they cannot match Russia’s ability to produce and deploy drones; they
+      have limited supplies of MRLS; and they have no effective combat air or missiles.
+      This explains why Ukraine is suffering devastating losses in manpower. When you
+      consider the amount of firepower that Russia has unloaded on Ukraine over the
+      last 41 months, it is clear that Russia has taken great pains to avoid civilian
+      casualties. The United Nations Office of the High Commissioner for Human Rights
+      (OHCHR) has systematically reported on civilian casualties in Ukraine, attributing
+      the overwhelming majority of deaths and injuries to Russian military actions since
+      the full-scale invasion began in February 2022. As of May 31, 2025, the OHCHR
+      recorded at least 13,341 civilians killed and 32,744 injured, noting the actual
+      numbers are likely higher. If you can do simple division, you will know that works
+      out to an average of 325 deaths per month. Compare that to the havoc that Israel
+      has inflicted on the Palestinians in Gaza: The Gaza Health Ministry reported 57,762
+      Palestinians killed as of July 10, 2025. This includes civilians and militants,
+      with breakdowns often estimating ~70% women and children (though exact proportions
+      are disputed). An additional ~14,000 are missing and presumed dead under rubble,
+      potentially pushing the figure above 71,000. I personally believe the number is
+      much higher, but for the sake of citing a specific source, let’s use 71,000… After
+      21 months of attacks, an average of 3,381 Palestinians civilians are being killed
+      each month. If you go with the Gaza Health Ministry number of 57,762, it is still
+      a horrific 2,750. Let me put that number in perspective… During the Vietnam war,
+      US military personnel experienced an average of 494 combat deaths per month. I
+      started thinking about this after watching the video yesterday of Russia’s four
+      Iskander missiles hitting Kiev. Those were precision shots and apparently did
+      not kill or wound many civilians? How do I know that? Based on reason… If the
+      strikes had produced a sizeable body count, I have no doubt that Ukrainian authorities
+      would have immediately called in the media to witness the carnage. But that did
+      not happen. I had my usual Friday chats with Nima and with Judge Napolitano and
+      Ray McGovern. Ray and I have a disagreement about Lavrov’s commitment to the memo
+      presented to the Ukrainian delegation during that last round of talks with Russia…
+      but we still love each other. I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: President Trump is criticized for his chaotic handling of
+      the Ukraine war, focusing on blaming Russia while neglecting his own role in escalating
+      the conflict through arms support and misrepresenting the situation on the ground.
+    paragraph_summary: The article critiques President Trump's handling of the Ukraine
+      war, highlighting his tendency to blame Russia while neglecting his own role in
+      escalating the conflict by supplying arms to Ukraine. It argues that Trump's statements
+      about the war are misleading, particularly his claim regarding Russian casualties,
+      as Russian military tactics are designed to minimize their own losses while inflicting
+      heavy damage on Ukrainian forces. The disparity in firepower heavily favors Russia,
+      which employs advanced weaponry and tactics that Ukraine cannot match, leading
+      to significant Ukrainian casualties. The article also notes that the United Nations
+      has reported that most civilian casualties in the conflict are due to Russian
+      military actions, emphasizing the complexity and severity of the situation in
+      Ukraine.
+    published: '2025-07-12T04:35:10+00:00'
+  - title: If the Russians are Killing Ukrainian Civilians, Where are the Bodies?
+    url: https://sonar21.com/if-the-russians-are-killing-ukrainian-civilians-where-are-the-bodies/
+    text: 'President Trump continues to create chaos when it comes to his failed promise
+      to end the war in Ukraine. His approach is unbalanced and focused almost exclusively
+      on blaming Russia… Failing to acknowledge his own responsibility for sending arms
+      to Ukraine during his first term, continuing to send weapons to Ukraine and not
+      condemning blatant Ukrainian attacks on Russian civilians. Here is what he said
+      during the impromptu presser at the start of the Thursday cabinet meeting. I’m
+      NOT happy with Putin. He’s killing a lot of people… his soldiers and their soldiers.
+      Trump got it only half-right… Putin is not killing a lot of his soldiers . Russian
+      tactics, notwithstanding Western propaganda, eschew mass assaults and employ small
+      unit tactics that minimize Russian casualties. Then there is the gross disparity
+      in firepower in favor of Russia.  Russia is hitting Ukrainian forces with artillery,
+      aerial bombs, multiple rocket launcher systems (MRLS), mortars, drones and missiles.
+      It is a simple math problem… Russia is hitting the Ukrainian troops with 30 to
+      40 times the rate of fire compared to what Ukraine can employ. Moreover, Ukraine
+      has limited options — i.e., they are short of artillery shells and replacement
+      barrels; they cannot match Russia’s ability to produce and deploy drones; they
+      have limited supplies of MRLS; and they have no effective combat air or missiles.
+      This explains why Ukraine is suffering devastating losses in manpower. When you
+      consider the amount of firepower that Russia has unloaded on Ukraine over the
+      last 41 months, it is clear that Russia has taken great pains to avoid civilian
+      casualties. The United Nations Office of the High Commissioner for Human Rights
+      (OHCHR) has systematically reported on civilian casualties in Ukraine, attributing
+      the overwhelming majority of deaths and injuries to Russian military actions since
+      the full-scale invasion began in February 2022. As of May 31, 2025, the OHCHR
+      recorded at least 13,341 civilians killed and 32,744 injured, noting the actual
+      numbers are likely higher. If you can do simple division, you will know that works
+      out to an average of 325 deaths per month. Compare that to the havoc that Israel
+      has inflicted on the Palestinians in Gaza: The Gaza Health Ministry reported 57,762
+      Palestinians killed as of July 10, 2025. This includes civilians and militants,
+      with breakdowns often estimating ~70% women and children (though exact proportions
+      are disputed). An additional ~14,000 are missing and presumed dead under rubble,
+      potentially pushing the figure above 71,000. I personally believe the number is
+      much higher, but for the sake of citing a specific source, let’s use 71,000… After
+      21 months of attacks, an average of 3,381 Palestinians civilians are being killed
+      each month. If you go with the Gaza Health Ministry number of 57,762, it is still
+      a horrific 2,750. Let me put that number in perspective… During the Vietnam war,
+      US military personnel experienced an average of 494 combat deaths per month. I
+      started thinking about this after watching the video yesterday of Russia’s four
+      Iskander missiles hitting Kiev. Those were precision shots and apparently did
+      not kill or wound many civilians? How do I know that? Based on reason… If the
+      strikes had produced a sizeable body count, I have no doubt that Ukrainian authorities
+      would have immediately called in the media to witness the carnage. But that did
+      not happen. I had my usual Friday chats with Nima and with Judge Napolitano and
+      Ray McGovern. Ray and I have a disagreement about Lavrov’s commitment to the memo
+      presented to the Ukrainian delegation during that last round of talks with Russia…
+      but we still love each other. I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: President Trump is criticized for his chaotic handling of
+      the Ukraine war, focusing on blaming Russia while neglecting his own role in escalating
+      the conflict through arms support and misrepresenting the situation on the ground.
+    paragraph_summary: The article critiques President Trump's handling of the Ukraine
+      war, highlighting his tendency to blame Russia while neglecting his own role in
+      escalating the conflict by supplying arms to Ukraine. It argues that Trump's statements
+      about the war are misleading, particularly his claim regarding Russian casualties,
+      as Russian military tactics are designed to minimize their own losses while inflicting
+      heavy damage on Ukrainian forces. The disparity in firepower heavily favors Russia,
+      which employs advanced weaponry and tactics that Ukraine cannot match, leading
+      to significant Ukrainian casualties. The article also notes that the United Nations
+      has reported that most civilian casualties in the conflict are due to Russian
+      military actions, emphasizing the complexity and severity of the situation in
+      Ukraine.
+    published: '2025-07-12T04:35:10+00:00'
+  - title: Ukraine is Burning, Russia Advances
+    url: https://sonar21.com/ukraine-is-burning-russia-advances/
+    text: 'ARTEM plant, Kiev This is a video-heavy post, but all of the videos are under
+      10 minutes. In response to the Spiderweb attacks on Russia’s strategic air bases
+      on June 1st, Russia has increased dramatically its pace of operations, both in
+      the air and on the ground. After you watch these videos, you will appreciate that
+      Trump is pissing into a hurricane with his feckless, foolish decision to send
+      a few Patriot missiles to Ukraine. Let’s start with Kiev, which was hammered on
+      Wednesday with four Iskander missiles… So much for Ukrainian air defense: According
+      to BORZZIKMAN , Russia also is hitting NATO forces inside Ukraine… French personnel
+      to be exact: SOUTH FRONT provides an excellent summary of Russian progress on
+      July 10 : In a major escalation on July 10, 2025, the Russian Armed Forces (RAF)
+      fired approximately 400 combat drones alongside 12 precision missiles in their
+      most sustained attack on Ukraine’s capital this year. The bombardment forced Kiev
+      into a continuous 10-hour air raid alert – the longest single alert period recorded
+      since the conflict began. . . . In the Sumy direction , Russian military continued
+      offensive operations in northern Sumy Oblast but have yet to achieve confirmed
+      territorial gains. Ukrainian troops are now focused on reinforcing defensive positions
+      near the border settlements of Ryzhevka and Bessalovka rather than attempting
+      costly breakthrough operations. While Ukrainian forces conduct limited counterattacks
+      with uneven outcomes, Russian Aerospace Forces are systematically pounding advancing
+      Ukrainian formations with heavy FAB glide bomb strikes. According to Russian military
+      sources, they have made limited tactical advances near Yunakovka and Varachino.
+      In the Pokrovsk (Krasnoarmiysk) direction , fierce fighting continues as Russian
+      assault units advance toward key settlements—Udachnoye, Zverevoye, and Muravka—under
+      relentless artillery and drone fire. Both sides suffer heavy casualties in these
+      grinding positional battles, with Russian forces attempting to breach layered
+      Ukrainian defenses through concentrated firepower and incremental gains. Russian
+      forces have entered the village of Mykolaivka, Pokrovsk direction. In the Toretsk
+      direction , the RAF conducted ground assaults near multiple settlements, including
+      Dyliivka, Yablunivka, Rusyn Yar, Popiv Yar, Poltavka, and toward Katerynivka,
+      Oleksandro-Kalynove, Pleshchiivka, and Shcherbynivka. In the South Donetsk direction
+      , Russian troops have secured control of Tolstoy village and are consolidating
+      their positions in the surrounding area. Building on this success, offensive operations
+      continue with advances reported toward Aleksandrovgrad and Karl Marks, marking
+      steady progress in the sector. In the Zaporizhzhia direction , the RAF are currently
+      engaged in intense combat near the northern outskirts of Kamenskoye, where they
+      are repelling determined Ukrainian counterattacks. Meanwhile, in the Malaya Tokmachka
+      sector, the Russian 70th Motorized Rifle Regiment maintains its offensive push,
+      resulting in fierce and bloody clashes. Russian forces also have captured a majority
+      of the village of Kamyanske, Zaporozhye direction. Lastly, here is an excellent
+      video explaining the decisive strategic advantage that Russia, China and Iran
+      enjoy over the United States in terms of hypersonic missiles. Consider this —
+      Iran has three variants and the United States has none. I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: In response to increased Russian military operations following
+      the Spiderweb attacks, Ukraine faced a significant escalation in airstrikes, including
+      a major attack on July 10, 2025, that involved hundreds of drones and missiles
+      targeting Kiev and NATO forces, highlighting the inadequacy of Ukraine's air defense
+      and questioning the effectiveness of U.S. military support.
+    paragraph_summary: The article discusses the escalating military conflict between
+      Russia and Ukraine, particularly following the Spiderweb attacks on Russian air
+      bases on June 1st. In response, Russia has intensified its military operations,
+      launching a significant attack on Kiev with Iskander missiles and employing approximately
+      400 combat drones and precision missiles in a major assault on July 10, 2025.
+      This led to a prolonged air raid alert in Kiev, highlighting the challenges faced
+      by Ukrainian air defenses. The article notes that while Ukrainian forces are attempting
+      limited counterattacks, they are primarily focused on reinforcing defensive positions
+      amid ongoing heavy bombardment from Russian forces. The situation remains dire,
+      with both sides experiencing substantial casualties in the ongoing battles for
+      key settlements.
+    published: '2025-07-11T01:03:32+00:00'
+  - title: Ukraine is Burning, Russia Advances
+    url: https://sonar21.com/ukraine-is-burning-russia-advances/
+    text: 'ARTEM plant, Kiev This is a video-heavy post, but all of the videos are under
+      10 minutes. In response to the Spiderweb attacks on Russia’s strategic air bases
+      on June 1st, Russia has increased dramatically its pace of operations, both in
+      the air and on the ground. After you watch these videos, you will appreciate that
+      Trump is pissing into a hurricane with his feckless, foolish decision to send
+      a few Patriot missiles to Ukraine. Let’s start with Kiev, which was hammered on
+      Wednesday with four Iskander missiles… So much for Ukrainian air defense: According
+      to BORZZIKMAN , Russia also is hitting NATO forces inside Ukraine… French personnel
+      to be exact: SOUTH FRONT provides an excellent summary of Russian progress on
+      July 10 : In a major escalation on July 10, 2025, the Russian Armed Forces (RAF)
+      fired approximately 400 combat drones alongside 12 precision missiles in their
+      most sustained attack on Ukraine’s capital this year. The bombardment forced Kiev
+      into a continuous 10-hour air raid alert – the longest single alert period recorded
+      since the conflict began. . . . In the Sumy direction , Russian military continued
+      offensive operations in northern Sumy Oblast but have yet to achieve confirmed
+      territorial gains. Ukrainian troops are now focused on reinforcing defensive positions
+      near the border settlements of Ryzhevka and Bessalovka rather than attempting
+      costly breakthrough operations. While Ukrainian forces conduct limited counterattacks
+      with uneven outcomes, Russian Aerospace Forces are systematically pounding advancing
+      Ukrainian formations with heavy FAB glide bomb strikes. According to Russian military
+      sources, they have made limited tactical advances near Yunakovka and Varachino.
+      In the Pokrovsk (Krasnoarmiysk) direction , fierce fighting continues as Russian
+      assault units advance toward key settlements—Udachnoye, Zverevoye, and Muravka—under
+      relentless artillery and drone fire. Both sides suffer heavy casualties in these
+      grinding positional battles, with Russian forces attempting to breach layered
+      Ukrainian defenses through concentrated firepower and incremental gains. Russian
+      forces have entered the village of Mykolaivka, Pokrovsk direction. In the Toretsk
+      direction , the RAF conducted ground assaults near multiple settlements, including
+      Dyliivka, Yablunivka, Rusyn Yar, Popiv Yar, Poltavka, and toward Katerynivka,
+      Oleksandro-Kalynove, Pleshchiivka, and Shcherbynivka. In the South Donetsk direction
+      , Russian troops have secured control of Tolstoy village and are consolidating
+      their positions in the surrounding area. Building on this success, offensive operations
+      continue with advances reported toward Aleksandrovgrad and Karl Marks, marking
+      steady progress in the sector. In the Zaporizhzhia direction , the RAF are currently
+      engaged in intense combat near the northern outskirts of Kamenskoye, where they
+      are repelling determined Ukrainian counterattacks. Meanwhile, in the Malaya Tokmachka
+      sector, the Russian 70th Motorized Rifle Regiment maintains its offensive push,
+      resulting in fierce and bloody clashes. Russian forces also have captured a majority
+      of the village of Kamyanske, Zaporozhye direction. Lastly, here is an excellent
+      video explaining the decisive strategic advantage that Russia, China and Iran
+      enjoy over the United States in terms of hypersonic missiles. Consider this —
+      Iran has three variants and the United States has none. I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: In response to increased Russian military operations following
+      the Spiderweb attacks, Ukraine faced a significant escalation in airstrikes, including
+      a major attack on July 10, 2025, that involved hundreds of drones and missiles
+      targeting Kiev and NATO forces, highlighting the inadequacy of Ukraine's air defense
+      and questioning the effectiveness of U.S. military support.
+    paragraph_summary: The article discusses the escalating military conflict between
+      Russia and Ukraine, particularly following the Spiderweb attacks on Russian air
+      bases on June 1st. In response, Russia has intensified its military operations,
+      launching a significant attack on Kiev with Iskander missiles and employing approximately
+      400 combat drones and precision missiles in a major assault on July 10, 2025.
+      This led to a prolonged air raid alert in Kiev, highlighting the challenges faced
+      by Ukrainian air defenses. The article notes that while Ukrainian forces are attempting
+      limited counterattacks, they are primarily focused on reinforcing defensive positions
+      amid ongoing heavy bombardment from Russian forces. The situation remains dire,
+      with both sides experiencing substantial casualties in the ongoing battles for
+      key settlements.
+    published: '2025-07-11T01:03:32+00:00'
+  - title: The Epstein Client List — Why is Trump Breaking His Promise to Publish?
+    url: https://sonar21.com/the-epstein-client-list-why-is-trump-breaking-his-promise-to-publish/
+    text: 'Although Donald Trump and Pam Bondi insist that there is no Epstein Client
+      List … there is a list and it is reproduced above with the permission of its author,
+      Ryan Dawson. Ryan compiled the list the old-fashioned way… he combed through court
+      transcripts and charging documents. He only put names on the list if the victims
+      of Epstein’s pedophilia enterprise identified or named a particular individual.
+      As you peruse the list you will notice that there are some very wealthy, powerful
+      individuals named. Not one of them has brought a libel or slander legal action
+      against Ryan. If he was posting false material, he would have been a certain target
+      of lawsuits. Here is a short video where Ryan explains his process: So why has
+      Donald Trump broken his promise to publish the list? I think there are two reasons
+      — neither mutually exclusive. First, Donald Trump probably paid no attention to
+      Ryan’s work and was never familiar with the list. Once he signed the executive
+      order to publish the Epstein file, he was then briefed on the actual names and
+      realized that many of them are major donors to his campaign, e.g., Jamie Dimon,
+      Robert Kraft. While there are several names on that list who are confirmed anti-Trumpers,
+      there are others who are friends. Second, and in my opinion a more important consideration,
+      is that the full Epstein file would expose a foreign intelligence blackmail operation
+      that implicates the Mossad and the CIA. Alexander Acosta, the former Secretary
+      of Labor for Donald Trump, said he was told that Jeffrey Epstein had ties to intelligence.
+      During the controversy surrounding his handling of Epstein’s 2008 plea deal as
+      a US attorney, Acosta reportedly told Trump administration officials that he had
+      been informed Epstein “belonged to intelligence,” and that this was a reason for
+      the unusually lenient plea agreement. It would not surprise me that Bibi Netanyahu
+      asked Trump to pull the plug on releasing the material. Did Trump get something
+      in return from Bibi, such as agreeing to a ceasefire? We will find out in the
+      coming days. While Trump may think he can smooth this over with his MAGA base,
+      I think that he has done serious damage to his Presidency by embracing the lie
+      that, “there is no list.” Ryan hosted a video podcast from his home in South Korea
+      with me tonight (i.e., Wednesday Eastern time) and we took turns interviewing
+      each other. We started off with the Epstein matter: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article discusses a list of individuals allegedly connected
+      to Jeffrey Epstein's crimes, compiled by Ryan Dawson from court documents, and
+      questions why Donald Trump has not followed through on his promise to publish
+      it, suggesting he may not have been aware of Dawson's work.
+    paragraph_summary: The article discusses the existence of a list of individuals
+      associated with Jeffrey Epstein's pedophilia enterprise, compiled by Ryan Dawson
+      from court documents and victim testimonies. Despite claims from Donald Trump
+      and Pam Bondi that no such list exists, Dawson's list includes several wealthy
+      and powerful figures, none of whom have sued him for defamation, suggesting the
+      list's credibility. The article speculates on why Trump has not followed through
+      on his promise to release the Epstein files, proposing that he may have realized
+      the list includes significant campaign donors, and that releasing the full files
+      could expose a foreign intelligence blackmail operation involving the Mossad and
+      CIA. It also references comments from former Labor Secretary Alexander Acosta
+      about Epstein's ties to intelligence, implying that political pressures, possibly
+      from Israeli Prime Minister Bibi Netanyahu, may have influenced Trump's decision
+      to withhold the information.
+    published: '2025-07-10T03:32:14+00:00'
+  - title: The Epstein Client List — Why is Trump Breaking His Promise to Publish?
+    url: https://sonar21.com/the-epstein-client-list-why-is-trump-breaking-his-promise-to-publish/
+    text: 'Although Donald Trump and Pam Bondi insist that there is no Epstein Client
+      List … there is a list and it is reproduced above with the permission of its author,
+      Ryan Dawson. Ryan compiled the list the old-fashioned way… he combed through court
+      transcripts and charging documents. He only put names on the list if the victims
+      of Epstein’s pedophilia enterprise identified or named a particular individual.
+      As you peruse the list you will notice that there are some very wealthy, powerful
+      individuals named. Not one of them has brought a libel or slander legal action
+      against Ryan. If he was posting false material, he would have been a certain target
+      of lawsuits. Here is a short video where Ryan explains his process: So why has
+      Donald Trump broken his promise to publish the list? I think there are two reasons
+      — neither mutually exclusive. First, Donald Trump probably paid no attention to
+      Ryan’s work and was never familiar with the list. Once he signed the executive
+      order to publish the Epstein file, he was then briefed on the actual names and
+      realized that many of them are major donors to his campaign, e.g., Jamie Dimon,
+      Robert Kraft. While there are several names on that list who are confirmed anti-Trumpers,
+      there are others who are friends. Second, and in my opinion a more important consideration,
+      is that the full Epstein file would expose a foreign intelligence blackmail operation
+      that implicates the Mossad and the CIA. Alexander Acosta, the former Secretary
+      of Labor for Donald Trump, said he was told that Jeffrey Epstein had ties to intelligence.
+      During the controversy surrounding his handling of Epstein’s 2008 plea deal as
+      a US attorney, Acosta reportedly told Trump administration officials that he had
+      been informed Epstein “belonged to intelligence,” and that this was a reason for
+      the unusually lenient plea agreement. It would not surprise me that Bibi Netanyahu
+      asked Trump to pull the plug on releasing the material. Did Trump get something
+      in return from Bibi, such as agreeing to a ceasefire? We will find out in the
+      coming days. While Trump may think he can smooth this over with his MAGA base,
+      I think that he has done serious damage to his Presidency by embracing the lie
+      that, “there is no list.” Ryan hosted a video podcast from his home in South Korea
+      with me tonight (i.e., Wednesday Eastern time) and we took turns interviewing
+      each other. We started off with the Epstein matter: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article discusses a list of individuals allegedly connected
+      to Jeffrey Epstein's crimes, compiled by Ryan Dawson from court documents, and
+      questions why Donald Trump has not followed through on his promise to publish
+      it, suggesting he may not have been aware of Dawson's work.
+    paragraph_summary: The article discusses the existence of a list of individuals
+      associated with Jeffrey Epstein's pedophilia enterprise, compiled by Ryan Dawson
+      from court documents and victim testimonies. Despite claims from Donald Trump
+      and Pam Bondi that no such list exists, Dawson's list includes several wealthy
+      and powerful figures, none of whom have sued him for defamation, suggesting the
+      list's credibility. The article speculates on why Trump has not followed through
+      on his promise to release the Epstein files, proposing that he may have realized
+      the list includes significant campaign donors, and that releasing the full files
+      could expose a foreign intelligence blackmail operation involving the Mossad and
+      CIA. It also references comments from former Labor Secretary Alexander Acosta
+      about Epstein's ties to intelligence, implying that political pressures, possibly
+      from Israeli Prime Minister Bibi Netanyahu, may have influenced Trump's decision
+      to withhold the information.
+    published: '2025-07-10T03:32:14+00:00'
   - title: Trump’s Schizophrenia Cannot Hide the US Lack of Strategic Depth
     url: https://sonar21.com/trumps-schizophrenia-cannot-hide-the-us-lack-of-strategic-depth/
     text: 'Patriot Missile Launcher Sometime in the next decade, I think the publishers
