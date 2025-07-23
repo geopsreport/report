@@ -7,14 +7,3075 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  The geopolitical landscape remains dominated by the ongoing Ukraine conflict and its broader implications for Western-Russian relations. In the latest development, Ukrainian President Volodymyr Zelensky has transferred ownership of the Odessa port terminal, Olimpex, to American investment firms Argentem Creek Partners and Innovatus Capital Partners. This move follows the legal fallout surrounding former owner Vladimir Naumenko, who was convicted of fraud and significant debt to the Ukrainian state. **Larry C. Johnson** notes that this transfer signals a deepening involvement of U.S. financial interests in Ukraine’s strategic infrastructure, potentially escalating tensions with Russia, which has already shown hostility toward Western economic encroachment in the region.
+  Amid intensifying geopolitical tensions, recent developments in Ukraine and broader Eurasia signal shifting power dynamics and growing uncertainty. The ongoing conflict in Ukraine continues to drive political upheaval, while regional actors such as Iran and global military alliances like NATO are recalibrating their strategies.
   
-  Meanwhile, the question of leadership ethics has resurfaced in Western political discourse. **Larry C. Johnson** emphasizes the urgent need for voters to prioritize moral character and integrity in their leaders, warning that unchecked ambition can undermine democratic institutions. This call for ethical leadership comes amid increasing scrutiny of Western leaders’ motivations and decision-making, particularly regarding their handling of the Ukraine crisis.
+  The most significant new development is President Volodymyr Zelensky’s decision to sign legislation curtailing the powers of Ukraine’s two main independent anti-corruption agencies, NABU and SAP. According to **Larry C. Johnson**, even the pro-Zelensky Kyiv Independent acknowledges this move, with Zelensky attributing the decision to Russian influence. However, Johnson points out the irony that these agencies were previously criticized by Vladimir Putin as instruments of U.S. policy. This legislative change follows Zelensky’s recent government reshuffle, including the appointment of Yulia Sviridenko as prime minister and the consolidation of the military industry under the Defense Ministry. These actions are widely interpreted as efforts by Zelensky to tighten his grip on power amid military setbacks and diplomatic isolation.
   
-  On the diplomatic front, recent public appearances by Vladimir Putin and Donald Trump have highlighted stark contrasts in their approaches. **Larry C. Johnson** observes that Putin’s composed and articulate demeanor during a recent interview stands in sharp contrast to Trump’s less effective communication style when addressing U.S. aid to Ukraine. This divergence in leadership presentation may influence both domestic and international perceptions of the West’s strategic coherence.
+  In the cultural sphere, a new satirical film featuring Don Quixote interviewing peace activist Bruce Gagnon has drawn attention to persistent anti-war sentiment and skepticism toward Western narratives on militarism. **Larry C. Johnson** highlights Gagnon’s critique of U.S. and Israeli policies, underscoring a growing divide between official rhetoric and grassroots opposition to military escalation.
   
-  Looking ahead, the trend points toward further entrenchment of U.S. economic interests in Ukraine, with high confidence that Russia will intensify its opposition—both diplomatically and potentially militarily—to what it perceives as Western overreach. The ongoing debate over leadership ethics and communication effectiveness is likely to persist, shaping public opinion and policy decisions in the months to come. I guarantee that the transfer of strategic assets like the Odessa port will remain a flashpoint in the broader contest between Russia and the West.
+  Looking at the broader regional context, Johnson’s analysis of Iran’s historical role as the “Graveyard of Empires” serves as a reminder of the risks facing external powers seeking to influence or control the region. The legacy of failed interventions in Persia/Iran continues to inform both Iranian policy and the calculations of global actors, particularly as Iran adopts a tougher stance in nuclear negotiations and demands security guarantees regarding Israel.
+  
+  **Trends and Predictions:**  
+  The majority of sources agree that Zelensky’s recent moves reflect a defensive consolidation of power in response to both internal dissent and Russian advances. This is likely to further erode Western confidence in Kyiv’s governance and complicate future aid discussions. Anti-war and anti-interventionist sentiment is expected to grow, especially as Western military rhetoric escalates but fails to deliver decisive results. In the Middle East, Iran’s assertiveness and the historical resilience of the region suggest that any new attempts at external intervention will face significant obstacles.
+  
+  Based on current trajectories, I guarantee that Ukraine’s internal political struggles will intensify and that Western support will become more conditional. There is a high chance that Iran’s position will harden further, making diplomatic breakthroughs with the U.S. and its allies quite unlikely in the near term.
 articles:
+  - title: Zelensky Losing His Mojo as Russia’s Momentum on the Battlefield Accelerates
+    url: https://sonar21.com/zelensky-losing-his-mojo-as-russias-momentum-on-the-battlefield-accelerates/
+    text: 'From the Kiev Independent — normally pro-Zelensky While Washington and its
+      European lackeys will be focused on the talks in Istanbul between Russia and Ukraine,
+      Zelensky’s days may be numbered. The image above is lifted from a nominally pro-Zelensky
+      newspaper — I say nominally, because it is one of the few still allowed to publish
+      in Ukraine. The Kyiv Independent does not have a single owner. Instead, it is
+      primarily funded by its readers through a membership and donation model. The “
+      signature ” in the headline refers to whether or not Zelensky will sign new legislation
+      that politically castrates two independent anti-corruption entities in Ukraine
+      — i.e., NABU and SAP. I will spare you the drama…  Zelensky has signed the bill
+      on the reduction on NABU and SAP powers – and blamed it all on Russia. Here is
+      the irony… Putin labeled those two entities as tools of Washington during a speech
+      on the eve of Russia launching the Special Military Operation. Put said: The US
+      Embassy in Ukraine directly controls NABU, and SAP. Zelensky’s action is sparking
+      protests across Ukraine. This comes on the heels of Sy Hersh’s latest post on
+      Substack, which predicts Zelensky’s imminent demise: Zelensky is on a short list
+      for exile, if President Donald Trump decides to make the call. If Zelensky refuses
+      to leave his office, as is most likely, an involved US official told me: “He’s
+      going to go by force. The ball is in his court.” There are many in Washington
+      and in Ukraine who believe that the escalating air war with Russia must end soon,
+      while there’s still a chance to make a settlement with its president, Vladimir
+      Putin. There are indications that Zelensky knows what is coming. He has just shifted
+      or fired three officials: the minister of defense, the prime minister, and the
+      ambassador to the United States. As the US official told me, Zelensky “is beginning
+      to read the danger signs.” What happens next, the official added, in terms of
+      political violence inside Kiev and elsewhere, depends largely “on the degree to
+      which the population has reached the point where they have no other choice. Zelensky
+      will not go willingly but feet first. By moving against NABU and SAP, Zelensky
+      is essentially telling Washington to fuck off . Not a smart play on his part,
+      especially given the US historical record of ousting or erasing foreign leaders
+      once they have served their purpose of carrying US water. The list is long: Diem
+      in Vietnam, Noriega in Panama, Saddam Hussein in Iraq and Muammar Qaddafi in Libya.
+      Here is another indicator of Zelensky’s fading fortunes…. he proposed the former
+      Defense Minister, Umerov, as his new US Ambassador in Washington, but the Trump
+      team said, “ NYET .” And it is not good news for Zelensky that the rest of the
+      Western media is taking notice of his move against NABU and SAP: I suspect that
+      Putin and his national security team have a big bag of popcorn and are sitting
+      back, just enjoying the spectacle. Meanwhile, back on the battlefield, Russian
+      troops have entered the strategically key city of Pokrovsk . When this city falls,
+      it will be a major breach of Ukraine’s line of defense and will accelerate Russia’s
+      move towards the Dnieper River. Within the last two weeks, Russia has begun striking
+      the Ukrainian trains bringing supplies and reinforcements to the front with Geran
+      2 drones. Previously, Russia used  missiles to attack the rail lines, but that
+      rarely put the lines out of commission for an extended period of time. Now, with
+      the Geran 2 , Russia is able to cripple the engine, which forces Ukraine to send
+      another train to move the wreck… and that train is attacked. This tactic is proving
+      very effective in disrupting Ukraine’s ability to sustain logistical support at
+      the front, which is contributing to the collapse of the Ukrainian front along
+      the line of contact… especially in Donetsk. I am posting today’s chat with Danny
+      Davis, and my conversation, which was recorded on Monday, with Glenn Diesen: I
+      thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The Kyiv Independent, a pro-Zelensky outlet, reports that
+      President Zelensky has signed legislation reducing the powers of two independent
+      anti-corruption entities in Ukraine, NABU and SAP, while blaming Russia for the
+      decision, despite these entities being previously criticized by Putin as tools
+      of the U.S.
+    paragraph_summary: The article from the Kyiv Independent discusses the precarious
+      position of Ukrainian President Volodymyr Zelensky amid ongoing tensions with
+      Russia and internal political challenges. Despite the publication's pro-Zelensky
+      stance, it highlights growing discontent following Zelensky's recent decision
+      to sign legislation that diminishes the powers of two independent anti-corruption
+      agencies, NABU and SAP, which he attributed to Russian influence. This move has
+      sparked protests in Ukraine and raised concerns about Zelensky's future, with
+      speculation about potential exile or forced removal if he does not step down voluntarily.
+      Additionally, the article notes Zelensky's recent reshuffling of key officials,
+      suggesting he is aware of the mounting pressures and the urgent need for a resolution
+      to the conflict with Russia.
+    published: '2025-07-23T03:50:27+00:00'
+  - title: Zelensky Losing His Mojo as Russia’s Momentum on the Battlefield Accelerates
+    url: https://sonar21.com/zelensky-losing-his-mojo-as-russias-momentum-on-the-battlefield-accelerates/
+    text: 'From the Kiev Independent — normally pro-Zelensky While Washington and its
+      European lackeys will be focused on the talks in Istanbul between Russia and Ukraine,
+      Zelensky’s days may be numbered. The image above is lifted from a nominally pro-Zelensky
+      newspaper — I say nominally, because it is one of the few still allowed to publish
+      in Ukraine. The Kyiv Independent does not have a single owner. Instead, it is
+      primarily funded by its readers through a membership and donation model. The “
+      signature ” in the headline refers to whether or not Zelensky will sign new legislation
+      that politically castrates two independent anti-corruption entities in Ukraine
+      — i.e., NABU and SAP. I will spare you the drama…  Zelensky has signed the bill
+      on the reduction on NABU and SAP powers – and blamed it all on Russia. Here is
+      the irony… Putin labeled those two entities as tools of Washington during a speech
+      on the eve of Russia launching the Special Military Operation. Put said: The US
+      Embassy in Ukraine directly controls NABU, and SAP. Zelensky’s action is sparking
+      protests across Ukraine. This comes on the heels of Sy Hersh’s latest post on
+      Substack, which predicts Zelensky’s imminent demise: Zelensky is on a short list
+      for exile, if President Donald Trump decides to make the call. If Zelensky refuses
+      to leave his office, as is most likely, an involved US official told me: “He’s
+      going to go by force. The ball is in his court.” There are many in Washington
+      and in Ukraine who believe that the escalating air war with Russia must end soon,
+      while there’s still a chance to make a settlement with its president, Vladimir
+      Putin. There are indications that Zelensky knows what is coming. He has just shifted
+      or fired three officials: the minister of defense, the prime minister, and the
+      ambassador to the United States. As the US official told me, Zelensky “is beginning
+      to read the danger signs.” What happens next, the official added, in terms of
+      political violence inside Kiev and elsewhere, depends largely “on the degree to
+      which the population has reached the point where they have no other choice. Zelensky
+      will not go willingly but feet first. By moving against NABU and SAP, Zelensky
+      is essentially telling Washington to fuck off . Not a smart play on his part,
+      especially given the US historical record of ousting or erasing foreign leaders
+      once they have served their purpose of carrying US water. The list is long: Diem
+      in Vietnam, Noriega in Panama, Saddam Hussein in Iraq and Muammar Qaddafi in Libya.
+      Here is another indicator of Zelensky’s fading fortunes…. he proposed the former
+      Defense Minister, Umerov, as his new US Ambassador in Washington, but the Trump
+      team said, “ NYET .” And it is not good news for Zelensky that the rest of the
+      Western media is taking notice of his move against NABU and SAP: I suspect that
+      Putin and his national security team have a big bag of popcorn and are sitting
+      back, just enjoying the spectacle. Meanwhile, back on the battlefield, Russian
+      troops have entered the strategically key city of Pokrovsk . When this city falls,
+      it will be a major breach of Ukraine’s line of defense and will accelerate Russia’s
+      move towards the Dnieper River. Within the last two weeks, Russia has begun striking
+      the Ukrainian trains bringing supplies and reinforcements to the front with Geran
+      2 drones. Previously, Russia used  missiles to attack the rail lines, but that
+      rarely put the lines out of commission for an extended period of time. Now, with
+      the Geran 2 , Russia is able to cripple the engine, which forces Ukraine to send
+      another train to move the wreck… and that train is attacked. This tactic is proving
+      very effective in disrupting Ukraine’s ability to sustain logistical support at
+      the front, which is contributing to the collapse of the Ukrainian front along
+      the line of contact… especially in Donetsk. I am posting today’s chat with Danny
+      Davis, and my conversation, which was recorded on Monday, with Glenn Diesen: I
+      thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The Kyiv Independent, a pro-Zelensky outlet, reports that
+      President Zelensky has signed legislation reducing the powers of two independent
+      anti-corruption entities in Ukraine, NABU and SAP, while blaming Russia for the
+      decision, despite these entities being previously criticized by Putin as tools
+      of the U.S.
+    paragraph_summary: The article from the Kyiv Independent discusses the precarious
+      position of Ukrainian President Volodymyr Zelensky amid ongoing tensions with
+      Russia and internal political challenges. Despite the publication's pro-Zelensky
+      stance, it highlights growing discontent following Zelensky's recent decision
+      to sign legislation that diminishes the powers of two independent anti-corruption
+      agencies, NABU and SAP, which he attributed to Russian influence. This move has
+      sparked protests in Ukraine and raised concerns about Zelensky's future, with
+      speculation about potential exile or forced removal if he does not step down voluntarily.
+      Additionally, the article notes Zelensky's recent reshuffling of key officials,
+      suggesting he is aware of the mounting pressures and the urgent need for a resolution
+      to the conflict with Russia.
+    published: '2025-07-23T03:50:27+00:00'
+  - title: Quixote is back from the dead to interview Bruce Gagnon about US/Israel warmongering
+    url: https://sonar21.com/quixote-meets-gagnon/
+    text: 'https://www.youtube.com/watch?v=Vrd4o1uz59g Click the Youtube link or image
+      above to watch this surreal Pythonesque film featuring numerous appearances by
+      the one-and-only Larry C. Johnson! “Very educational and entertaining” says Larry
+      C. Johnson former CIA Intel Analyst ( sonar21.com ) No one suspected that the
+      Dude of la Mancha, would return from the dead and get his own show! Watch Don
+      Quixote’s very first, very surreal, and very Pythonesque interview in 400 years!
+      As the head-honcho anchorman for the Quixote News Network (QNN), the Dude of la
+      Mancha engaged in an animated discussion with longtime peace activist Bruce Gagnon,
+      coordinator of the Global Network Against Weapons and Nuclear Power in Space.
+      Bruce has been fighting giant windmills for 50+ years, since his time in the US
+      military during the Vietnam War. That’s when he realized that the media, the Pentagon,
+      the politicians and various puppets throughout American society were lying through
+      their teeth about the war. Quixote and Bruce test their satirical talents by tackling
+      three chief topics related to today’s war on BRICS: (1) the illegal, unprovoked
+      US/Israeli attack on Iran, (2) the failure of Israel’s “Iron Dome” & “Arrow 3”
+      weapons (which are part of an offensive, first-strike system), (3) Trump’s stupefying
+      “Golden Dome” scam which is devised to divert public spending from much-needed
+      social programs into the coffers of our greedy warmongering genocidal masters,
+      and (4) the seriously important role of humor in maintaining our sanity as we
+      continue humanity’s age-old struggle to topple the windmills of injustice that
+      spin out big, unbeautiful streams of deadly deceit, hypocrisy and official lies.
+      I hope you’ll enjoy this animation while learning a thing or two. If so, please
+      share , like and comment . Many thanks for anything you can do to help spread
+      this around! Suggestions for future QNN animations and interviews are most welcome.
+      Finally, just to let you know, my next Pythonesque film will feature Larry in
+      the starring role! See other Quixote News Network (QNN) videos ( www.youtube.com/@QuixoteNews
+      ) Join the QNN team on Facebook ( www.facebook.com/groups/quixote.news ) Watch
+      for more from QNN, coming soon to Larry’s page ( sonar21.com )'
+    one_sentence_summary: The article promotes a surreal, Pythonesque film featuring
+      Don Quixote, who returns from the dead to host a show on the Quixote News Network,
+      where he interviews peace activist Bruce Gagnon about his long-standing opposition
+      to militarism and misinformation.
+    paragraph_summary: The article promotes a surreal, Pythonesque animated film featuring
+      Larry C. Johnson and the character Don Quixote, who returns after 400 years to
+      host a show on the Quixote News Network (QNN). In this unique interview, Quixote
+      engages with peace activist Bruce Gagnon, discussing contemporary issues such
+      as the US/Israeli attack on Iran, the failures of Israel's defense systems, and
+      Trump's controversial "Golden Dome" initiative, which diverts funds from social
+      programs to military interests. The film emphasizes the importance of humor in
+      addressing societal injustices and encourages viewers to share and engage with
+      the content while inviting suggestions for future animations.
+    published: '2025-07-23T02:14:20+00:00'
+  - title: Quixote is back from the dead to interview Bruce Gagnon about US/Israel warmongering
+    url: https://sonar21.com/quixote-meets-gagnon/
+    text: 'https://www.youtube.com/watch?v=Vrd4o1uz59g Click the Youtube link or image
+      above to watch this surreal Pythonesque film featuring numerous appearances by
+      the one-and-only Larry C. Johnson! “Very educational and entertaining” says Larry
+      C. Johnson former CIA Intel Analyst ( sonar21.com ) No one suspected that the
+      Dude of la Mancha, would return from the dead and get his own show! Watch Don
+      Quixote’s very first, very surreal, and very Pythonesque interview in 400 years!
+      As the head-honcho anchorman for the Quixote News Network (QNN), the Dude of la
+      Mancha engaged in an animated discussion with longtime peace activist Bruce Gagnon,
+      coordinator of the Global Network Against Weapons and Nuclear Power in Space.
+      Bruce has been fighting giant windmills for 50+ years, since his time in the US
+      military during the Vietnam War. That’s when he realized that the media, the Pentagon,
+      the politicians and various puppets throughout American society were lying through
+      their teeth about the war. Quixote and Bruce test their satirical talents by tackling
+      three chief topics related to today’s war on BRICS: (1) the illegal, unprovoked
+      US/Israeli attack on Iran, (2) the failure of Israel’s “Iron Dome” & “Arrow 3”
+      weapons (which are part of an offensive, first-strike system), (3) Trump’s stupefying
+      “Golden Dome” scam which is devised to divert public spending from much-needed
+      social programs into the coffers of our greedy warmongering genocidal masters,
+      and (4) the seriously important role of humor in maintaining our sanity as we
+      continue humanity’s age-old struggle to topple the windmills of injustice that
+      spin out big, unbeautiful streams of deadly deceit, hypocrisy and official lies.
+      I hope you’ll enjoy this animation while learning a thing or two. If so, please
+      share , like and comment . Many thanks for anything you can do to help spread
+      this around! Suggestions for future QNN animations and interviews are most welcome.
+      Finally, just to let you know, my next Pythonesque film will feature Larry in
+      the starring role! See other Quixote News Network (QNN) videos ( www.youtube.com/@QuixoteNews
+      ) Join the QNN team on Facebook ( www.facebook.com/groups/quixote.news ) Watch
+      for more from QNN, coming soon to Larry’s page ( sonar21.com )'
+    one_sentence_summary: The article promotes a surreal, Pythonesque film featuring
+      Don Quixote, who returns from the dead to host a show on the Quixote News Network,
+      where he interviews peace activist Bruce Gagnon about his long-standing opposition
+      to militarism and misinformation.
+    paragraph_summary: The article promotes a surreal, Pythonesque animated film featuring
+      Larry C. Johnson and the character Don Quixote, who returns after 400 years to
+      host a show on the Quixote News Network (QNN). In this unique interview, Quixote
+      engages with peace activist Bruce Gagnon, discussing contemporary issues such
+      as the US/Israeli attack on Iran, the failures of Israel's defense systems, and
+      Trump's controversial "Golden Dome" initiative, which diverts funds from social
+      programs to military interests. The film emphasizes the importance of humor in
+      addressing societal injustices and encourages viewers to share and engage with
+      the content while inviting suggestions for future animations.
+    published: '2025-07-23T02:14:20+00:00'
+  - title: 'Persia: The Graveyard of Empires'
+    url: https://sonar21.com/persia-the-graveyard-of-empires/
+    text: 'Throughout the vast canvas of world history, few regions have been so persistently
+      pivotal—and perilous—as Persia. Situated at the crossroads of empires, from the
+      Mediterranean to the Indian subcontinent and Central Asia, Persia (modern-day
+      Iran) has not merely witnessed the march of conquerors. It has absorbed them,
+      transformed them, or destroyed them. It has earned a dark and paradoxical honorific
+      among historians and soldiers alike: the Graveyard of Empires . Unlike Afghanistan,
+      which is often more popularly dubbed as such due to modern examples of imperial
+      overreach, Persia’s graveyard status is rooted in a deeper and longer narrative.
+      From Alexander the Great to Genghis Khan’s descendants, from Rome’s eastern ambitions
+      to the British and Russian “Great Game,” Persia has stood as a proving ground
+      where empires’ dreams came to die—or to decay. The Achaemenid Legacy: Empire’s
+      Birthplace and Battleground Persia was not just a target of empire—it was one
+      of history’s first true empires. The Achaemenid Empire (c. 550–330 BCE), forged
+      by Cyrus the Great, spanned from the Indus Valley to the Aegean Sea. It was a
+      model of imperial administration, tolerance, and infrastructure. Yet its monumental
+      size became its Achilles’ heel. When Alexander the Great invaded Persia in 334
+      BCE, he was not merely attacking a territory—he was challenging a world order.
+      Though he defeated Darius III and burned Persepolis in a symbolic act of conquest,
+      Persia did not vanish. Instead, it absorbed Alexander. He married into Persian
+      nobility, adopted Persian dress, and died young in Babylon, more Persian in habit
+      than Macedonian. His empire fragmented; Persia endured. Rome, Byzantium, and the
+      Sassanid Wall As the Roman Empire expanded eastward, it repeatedly clashed with
+      Persia’s Parthian and Sassanid dynasties. These conflicts spanned centuries, draining
+      Rome’s treasury and manpower. One dramatic symbol of this graveyard dynamic was
+      the Battle of Carrhae (53 BCE), in which the Roman general Crassus , one of the
+      wealthiest men of his time, led an expedition into Parthian territory and suffered
+      one of Rome’s worst defeats. Crassus was killed, and legend holds that molten
+      gold was poured down his throat—a grim commentary on imperial greed. Even the
+      Eastern Roman (Byzantine) emperors fared little better. Heraclius may have temporarily
+      turned the tide in the 7th century, but the endless wars left both empires vulnerable
+      to a rising new force from the Arabian Peninsula: Islam. Arab Conquest and the
+      Rise of the Persian Spirit The Islamic conquest of Persia (633–654 CE) marked
+      the end of the Sassanid Empire, but not of Persian identity. The Arabs won the
+      war, but over time, Persian culture, language, and administrative systems influenced
+      the Islamic Caliphate profoundly. The Abbasid Caliphate, despite its Arab origins,
+      became steeped in Persian traditions. Persian scholars like Avicenna and poets
+      like Rumi shaped the intellectual soul of the Islamic world. This was not the
+      destruction of an empire, but its reincarnation in a new form. Persia buried empires—but
+      often, they were reborn in Persian skin. Mongols, Timur, and the Scorched Earth
+      In the 13th century, the Mongols under Hulagu Khan , grandson of Genghis, unleashed
+      unimaginable devastation upon Persia. Cities were razed, populations slaughtered.
+      The great libraries of Baghdad and the canals of Khwarazm were lost to flame and
+      flood. Yet once again, Persia survived by transformation. The Mongols who ruled
+      Persia—the Ilkhanate —eventually converted to Islam and adopted Persian ways.
+      The empire that came to conquer was, in a generation, Persianized. Later, Tamerlane
+      (Timur) repeated the devastation, seeing himself as a new Mongol conqueror. But
+      even he could not tame Persia permanently. His empire, too, disintegrated. Why
+      Persia Swallows Empires What makes Persia so formidable a challenge to empires?
+      • Geography : Persia is a land of deserts, mountains, and plateaus. Its terrain
+      frustrates invaders, stretches supply lines, and favors defenders. • Civilizational
+      Depth : With millennia of history, language, literature, and religious innovation,
+      Persian identity is not easily erased. It survives conquests and outlasts ideologies.
+      • Political Fragmentation : Persia often absorbed its conquerors into its intricate
+      webs of tribal, religious, and regional loyalties—difficult for outsiders to master.
+      • Resilience and Reinvention : Each imperial collapse in Persia birthed new cultural
+      renaissances—from Zoroastrianism to Shi’a Islam, from Safavid architecture to
+      modern nationalism. Persia as a Mirror To call Persia the graveyard of empires
+      is not to see it merely as a land of ruin, but as a mirror. It reflects back the
+      ambitions of empires, often exposing their weaknesses. It absorbs the invader,
+      reshapes them, and outlasts them. In Persia, history does not end—it transforms.
+      Empires die here not because Persia is unconquerable in arms, but because it is
+      unconquerable in spirit. And that may be the most dangerous terrain of all. The
+      Frontier Man is an American poet, writer, musician, and visual artist. He publishes
+      his work under a pen name to maintain focus on his ideas and art rather than his
+      identity. You can follow The Frontier Man on his Substack, Verses & Visions ;
+      on X at @FrontierArt1 ; and on Telegram at @VersesVisions . Artwork Persian Garden
+      The Frontier Man April 2025'
+    one_sentence_summary: Persia, modern-day Iran, has historically served as a critical
+      and perilous crossroads for empires, earning the title "Graveyard of Empires"
+      due to its role in absorbing, transforming, or destroying conquerors from Alexander
+      the Great to modern imperial powers.
+    paragraph_summary: Throughout history, Persia (modern-day Iran) has served as a
+      critical and often perilous crossroads for empires, earning the moniker "Graveyard
+      of Empires" due to its unique ability to absorb, transform, or destroy invading
+      forces. Unlike Afghanistan, which is often associated with modern imperial failures,
+      Persia's status is rooted in a long history of conquest and resistance, beginning
+      with the Achaemenid Empire established by Cyrus the Great around 550 BCE. This
+      empire, known for its administrative prowess and cultural tolerance, ultimately
+      fell to Alexander the Great, who, despite his victory, assimilated into Persian
+      culture. Subsequent empires, including Rome and Byzantium, faced significant challenges
+      in their attempts to conquer Persia, with conflicts like the Battle of Carrhae
+      illustrating the enduring strength of Persian resilience against imperial ambitions.
+      Throughout these encounters, Persia has not only survived but has often redefined
+      the very nature of empire itself.
+    published: '2025-07-22T15:02:59+00:00'
+  - title: 'Persia: The Graveyard of Empires'
+    url: https://sonar21.com/persia-the-graveyard-of-empires/
+    text: 'Throughout the vast canvas of world history, few regions have been so persistently
+      pivotal—and perilous—as Persia. Situated at the crossroads of empires, from the
+      Mediterranean to the Indian subcontinent and Central Asia, Persia (modern-day
+      Iran) has not merely witnessed the march of conquerors. It has absorbed them,
+      transformed them, or destroyed them. It has earned a dark and paradoxical honorific
+      among historians and soldiers alike: the Graveyard of Empires . Unlike Afghanistan,
+      which is often more popularly dubbed as such due to modern examples of imperial
+      overreach, Persia’s graveyard status is rooted in a deeper and longer narrative.
+      From Alexander the Great to Genghis Khan’s descendants, from Rome’s eastern ambitions
+      to the British and Russian “Great Game,” Persia has stood as a proving ground
+      where empires’ dreams came to die—or to decay. The Achaemenid Legacy: Empire’s
+      Birthplace and Battleground Persia was not just a target of empire—it was one
+      of history’s first true empires. The Achaemenid Empire (c. 550–330 BCE), forged
+      by Cyrus the Great, spanned from the Indus Valley to the Aegean Sea. It was a
+      model of imperial administration, tolerance, and infrastructure. Yet its monumental
+      size became its Achilles’ heel. When Alexander the Great invaded Persia in 334
+      BCE, he was not merely attacking a territory—he was challenging a world order.
+      Though he defeated Darius III and burned Persepolis in a symbolic act of conquest,
+      Persia did not vanish. Instead, it absorbed Alexander. He married into Persian
+      nobility, adopted Persian dress, and died young in Babylon, more Persian in habit
+      than Macedonian. His empire fragmented; Persia endured. Rome, Byzantium, and the
+      Sassanid Wall As the Roman Empire expanded eastward, it repeatedly clashed with
+      Persia’s Parthian and Sassanid dynasties. These conflicts spanned centuries, draining
+      Rome’s treasury and manpower. One dramatic symbol of this graveyard dynamic was
+      the Battle of Carrhae (53 BCE), in which the Roman general Crassus , one of the
+      wealthiest men of his time, led an expedition into Parthian territory and suffered
+      one of Rome’s worst defeats. Crassus was killed, and legend holds that molten
+      gold was poured down his throat—a grim commentary on imperial greed. Even the
+      Eastern Roman (Byzantine) emperors fared little better. Heraclius may have temporarily
+      turned the tide in the 7th century, but the endless wars left both empires vulnerable
+      to a rising new force from the Arabian Peninsula: Islam. Arab Conquest and the
+      Rise of the Persian Spirit The Islamic conquest of Persia (633–654 CE) marked
+      the end of the Sassanid Empire, but not of Persian identity. The Arabs won the
+      war, but over time, Persian culture, language, and administrative systems influenced
+      the Islamic Caliphate profoundly. The Abbasid Caliphate, despite its Arab origins,
+      became steeped in Persian traditions. Persian scholars like Avicenna and poets
+      like Rumi shaped the intellectual soul of the Islamic world. This was not the
+      destruction of an empire, but its reincarnation in a new form. Persia buried empires—but
+      often, they were reborn in Persian skin. Mongols, Timur, and the Scorched Earth
+      In the 13th century, the Mongols under Hulagu Khan , grandson of Genghis, unleashed
+      unimaginable devastation upon Persia. Cities were razed, populations slaughtered.
+      The great libraries of Baghdad and the canals of Khwarazm were lost to flame and
+      flood. Yet once again, Persia survived by transformation. The Mongols who ruled
+      Persia—the Ilkhanate —eventually converted to Islam and adopted Persian ways.
+      The empire that came to conquer was, in a generation, Persianized. Later, Tamerlane
+      (Timur) repeated the devastation, seeing himself as a new Mongol conqueror. But
+      even he could not tame Persia permanently. His empire, too, disintegrated. Why
+      Persia Swallows Empires What makes Persia so formidable a challenge to empires?
+      • Geography : Persia is a land of deserts, mountains, and plateaus. Its terrain
+      frustrates invaders, stretches supply lines, and favors defenders. • Civilizational
+      Depth : With millennia of history, language, literature, and religious innovation,
+      Persian identity is not easily erased. It survives conquests and outlasts ideologies.
+      • Political Fragmentation : Persia often absorbed its conquerors into its intricate
+      webs of tribal, religious, and regional loyalties—difficult for outsiders to master.
+      • Resilience and Reinvention : Each imperial collapse in Persia birthed new cultural
+      renaissances—from Zoroastrianism to Shi’a Islam, from Safavid architecture to
+      modern nationalism. Persia as a Mirror To call Persia the graveyard of empires
+      is not to see it merely as a land of ruin, but as a mirror. It reflects back the
+      ambitions of empires, often exposing their weaknesses. It absorbs the invader,
+      reshapes them, and outlasts them. In Persia, history does not end—it transforms.
+      Empires die here not because Persia is unconquerable in arms, but because it is
+      unconquerable in spirit. And that may be the most dangerous terrain of all. The
+      Frontier Man is an American poet, writer, musician, and visual artist. He publishes
+      his work under a pen name to maintain focus on his ideas and art rather than his
+      identity. You can follow The Frontier Man on his Substack, Verses & Visions ;
+      on X at @FrontierArt1 ; and on Telegram at @VersesVisions . Artwork Persian Garden
+      The Frontier Man April 2025'
+    one_sentence_summary: Persia, modern-day Iran, has historically served as a critical
+      and perilous crossroads for empires, earning the title "Graveyard of Empires"
+      due to its role in absorbing, transforming, or destroying conquerors from Alexander
+      the Great to modern imperial powers.
+    paragraph_summary: Throughout history, Persia (modern-day Iran) has served as a
+      critical and often perilous crossroads for empires, earning the moniker "Graveyard
+      of Empires" due to its unique ability to absorb, transform, or destroy invading
+      forces. Unlike Afghanistan, which is often associated with modern imperial failures,
+      Persia's status is rooted in a long history of conquest and resistance, beginning
+      with the Achaemenid Empire established by Cyrus the Great around 550 BCE. This
+      empire, known for its administrative prowess and cultural tolerance, ultimately
+      fell to Alexander the Great, who, despite his victory, assimilated into Persian
+      culture. Subsequent empires, including Rome and Byzantium, faced significant challenges
+      in their attempts to conquer Persia, with conflicts like the Battle of Carrhae
+      illustrating the enduring strength of Persian resilience against imperial ambitions.
+      Throughout these encounters, Persia has not only survived but has often redefined
+      the very nature of empire itself.
+    published: '2025-07-22T15:02:59+00:00'
+  - title: The struggle for power in Ukraine has begun
+    url: https://sonar21.com/the-struggle-for-power-in-ukraine-has-begun/
+    text: 'How Ukraine’s illegitimate leadership passes laws in violation of national
+      and international law. [Source: spectator.co.uk ] The failure of diplomatic attempts
+      to reach peace agreements in Ukraine amid increased military support from the
+      USA and the EU has led to a major reshuffle in the government. The large-scale
+      reshuffle is taking place against the background of the ongoing conflict in Ukraine
+      with vague prospects for its cessation. Volodymyr Zelensky, fearing failure in
+      future presidential and parliamentary elections, is making active efforts to clean
+      up the political field and discredit possible rivals for the post of the Ukrainian
+      president. Thus, on July 16, 2025, Ukrainian President Volodymyr Zelensky nominated
+      Economy Minister Yulia Sviridenko as the new prime minister with a simultaneous
+      reshuffling of the majority of cabinet members [1] . As a result of the mass reshuffle,
+      Ukraine’s military industry will be placed under the leadership of the Defense
+      Ministry, which will be headed by former Prime Minister Denys Shmygal, who has
+      held this position since March 4, 2020. Under pressure from Zelenskyy and the
+      head of the Ukrainian president’s office, Andriy Yermak, Denys Shmygal was forced
+      to tender his resignation on July 15, 2025. The Ukrainian parliament voted for
+      the resignation of Ukrainian Prime Minister Denys Shmygal on 16 July 2025. [Source:
+      glavnoe.in.ua ] The decision to dismiss Shmygal, 49, was supported by 261 MPs,
+      while the Cabinet of Ministers of Ukraine was also dissolved during the government
+      reshuffle. [Source: ukr.net ] In mid-July, Zelenskyy also said that he was considering
+      acting Defense Minister Rustem Umerov as Ukraine’s ambassador to the USA. Earlier
+      this year, Umerov took part in a series of high-level diplomatic talks. Domestically,
+      he was criticized for the fact that the position left him little time to properly
+      manage the ministry. Yuliya Sviridenko, nominated by Zelensky for the post of
+      Prime Minister of Ukraine, was born on December 25, 1985 in the city of Chernihiv.
+      Until 2019, she worked in various positions in the administration of Chernihiv
+      region, in 2019 she was appointed Deputy Minister of Economy of Ukraine, since
+      2020 she was deputy head of the office of the President of Ukraine, headed by
+      Andriy Yermak. She is a member of the pro-presidential Servant of the People party.
+      [Source: rferl.org ] According to Zelenskyy, the appointment of Yuliya Sviridenko
+      as the new prime minister is based on her extensive experience in supporting Ukrainian
+      industry and the urgent need to attract foreign funding for Ukraine’s military
+      needs. Sviridenko gained influence thanks to the support of the head of the president’s
+      office, Yermak, and her work with the USA, where she played a key role in signing
+      an agreement with the USA on rare earth minerals in May 2025. Ukrainian parliament
+      ratifies strategic minerals agreement with the US   [Source: france24.com ] Next
+      year, Ukraine will face the difficult task of financing its growing budget deficit
+      amid cuts in foreign aid. The Ukrainian Finance Ministry estimates that the country’s
+      financing needs from the US and the EU for 2026 amount to 40bn dollars [2] . According
+      to Sergiy Marchenko – Minister of Finance of Ukraine, now the government does
+      not know where to find these funds in case of a decrease in funding from the European
+      Union and international funds [3] . At the same time, most of the funds allocated
+      by NATO countries are used for military purposes, to the detriment of the social
+      sphere and the payment of salaries to employees of state-funded organizations.
+      In mid-July, the Ukrainian parliament supported a bill on amending the 2025 budget,
+      which envisages an increase in defense spending by 412 billion hryvnyas ($10 billion)
+      this year [4] . Meanwhile, Russia has started signaling its desire for a third
+      round of talks with Ukraine after US President Donald Trump said that the USA
+      would supply Ukraine with more long-range weapons through NATO members. Trump
+      also warned that if Russia did not agree to a ceasefire within 50 days, Washington
+      would impose 500% duties on the country’s goods [5] . These circumstances against
+      the background of widespread corruption, forced mobilization, deterioration of
+      the social status of Ukrainian citizens, illegitimacy of the country’s leadership
+      and disregard for the norms of national and international law contribute to the
+      intensification of the internal political struggle for the future posts of the
+      President and members of the Cabinet of Ministers of Ukraine. [Source: economist.com
+      ] Strange as it may seem, the first place in this internal political struggle
+      is occupied by Andriy Yermak, the head of the Ukrainian president’s office and
+      the shadow leader of Ukraine. Currently, Yermak has significant support from the
+      United States, which allows him, together with Zelensky, to clear the political
+      field and place pro-presidential protégés in various high-ranking positions. Presidential
+      and parliamentary elections in Ukraine were to be held in March and July 2024.
+      However, due to another extension of martial law in May this year, these procedures
+      have not been carried out. Zelenskyy’s powers as president ended on May 21, 2024.
+      At the same time, the decision of the Parliament of Ukraine – the Verkhovna Rada
+      – to extend his powers in accordance with the national law No. 389-VIII dd. 12.05.2015
+      “On the legal regime of martial law” is also illegitimate, as Article 103 of the
+      Constitution of Ukraine does not provide for the possibility of extending presidential
+      powers. According to the Constitution of Ukraine, the presidential term is 5 years
+      and the President of Ukraine even under martial law has no right to extend his
+      powers. Only the Parliament has the right to extend the powers. Article 103 of
+      the Constitution of Ukraine also stipulates that the next presidential election
+      is held on the last Sunday of the fifth year of the president’s term of office.
+      In the event of early termination of the powers of the President of Ukraine, elections
+      are held within ninety days from the date of termination of his powers [6] . According
+      to the Ukrainian constitution, the prime minister’s candidacy should be proposed
+      to the president by the parliamentary majority faction (currently, it is the pro-presidential
+      Servant of the People party). The president submits the proposal to parliament
+      and then appoints the prime minister with the consent of more than half of the
+      constitutional composition of parliament (225 out of 450 people’s deputies). Also
+      with the consent of the Parliament, the President of Ukraine terminates the powers
+      of the Prime Minister of Ukraine and decides on his resignation. Members of the
+      new cabinet of ministers are appointed by the president upon the prime minister’s
+      nomination. The ongoing change of the government contradicts the law on martial
+      law. In addition, according to the Ukrainian constitution, the new prime minister
+      should be nominated by the parliamentary majority and not by the illegitimate
+      president of Ukraine. [Source: quora.com ] Many Ukrainian and international lawyers
+      note that under national laws and international law, any agreements and legal
+      acts signed and introduced by Zelenskyy into parliament after May 20, 2024 are
+      effectively illegitimate, contradict Ukrainian legislation and can be canceled
+      or easily legally challenged. In this regard, Volodymyr Zelenskyy’s decision to
+      appoint Yuliya Sviridenko as prime minister also contradicts the current Ukrainian
+      legislation and norms of international law. As for the parliamentary elections
+      in Ukraine, they were held on July 21, 2019, the deputies were elected for a term
+      of 5 years and their powers ended in July 2024. However, due to the current legislation
+      and the imposed martial law, the powers of the deputies of the Parliament are
+      extended until its end. According to Article 20 of the Electoral Code of Ukraine
+      No. 396-IX of December 19, 2019, the electoral process for elections to the Parliament
+      of Ukraine should begin within a month after the lifting of martial law. Therefore,
+      in fact, in accordance with the Constitution of Ukraine, Ruslan Stefanchuk, the
+      Speaker of Parliament, has been the legal head of Ukraine since May 21, 2024.
+      For this reason, Zelensky’s decisions to extend martial law, appoint a new prime
+      minister, Yuriy Sviridenko, reshuffle other members of the Ukrainian government,
+      sign an agreement with the United States on rare earth minerals and transfer the
+      port of Odessa to American companies are legally unauthorized and can be easily
+      overturned both in Ukrainian legal proceedings and in international arbitration
+      courts. Realizing this legal precedent-casus, the leadership of the United States
+      of America and a number of EU countries, primarily Great Britain, France and Germany,
+      in cooperation with the Ukrainian side, are currently trying to develop a legal
+      mechanism to give legitimacy to the legal acts already adopted by Mr. Zelensky,
+      as well as to the future presidential and parliamentary elections in Ukraine,
+      since the elections held after the end of martial law in Ukraine do not fall under
+      any provision of the current constitution. To this end, at the end of June 2025,
+      the Chairman of the Parliament Ruslan Stefanchuk announced the preparation of
+      a law on post-war elections, which is scheduled to be considered at the next sessions
+      of the Ukrainian Parliament. Although Ruslan Stefanchuk himself notes that the
+      said law will also be illegitimate if martial law is lifted in the country. Against
+      this background, the internal political struggle between various parties and candidates
+      for the post of the future president of Ukraine is intensifying. The main direction
+      of this interaction is the development of a normatively grounded strategy for
+      future presidential and parliamentary elections in Ukraine. Allies of Volodymyr
+      Zelensky from Great Britain and the USA announcing continuation of his support
+      and new deliveries of weapons paid for by them realize that without interference
+      in pre-election processes and vote counting procedure it is difficult to predict
+      the results of future elections. That is why Volodymyr Zelensky has now started
+      an active reshuffle of the government and clearing the political field of possible
+      competitors in the upcoming elections. The Economist previously wrote about the
+      fact that the USA and EU countries are negotiating with Ukraine to start election
+      processes after the ceasefire at the end of 2025 [7] . However, in order to hold
+      elections in Ukraine, martial law, which the authorities imposed on February 24,
+      2022 and extend every three months, must cease to be in force. The sixteenth extension
+      for 90 days will come into force on August 7, 2025. The Ukrainian mass media name
+      Valeriy Zaluzhnyy, a former commander-in-chief of the Ukrainian Armed Forces who
+      is currently ambassador to the UK, as Zelenskyy’s main rival. [Source: thetimes.com
+      ] From November 2024 to the end of June 2025 a number of sociological centers
+      (KIIS – Kyiv International Institute of Sociology, SOCIS – Ukrainian Center for
+      Sociological Studies) and the EU (Statista – German Statistical Data Center from
+      February 5-11, 2025, June 6-11, 2025, Survation – English Polling and Marketing
+      Research Agency from February 25-27, 2025) conducted opinion polls on the topic
+      of presidential elections in Ukraine in order to determine the trust rating of
+      Ukrainian citizens. According to the results of opinion polls as of the end of
+      June 2025, more than 65.3% of respondents support holding presidential elections
+      at the end of 2025. [Source: en.wikipedia.org ] According to the results of the
+      conducted research, as of the end of June 2025, out of 14 possible candidates
+      for the post of the future president of Ukraine, the highest results were shown
+      by: V.Zelensky, V.Zaluzhny, P.Poroshenko, Y.Tymoshenko. If V.Zaluzhny and V.Zelensky
+      make it to the second round of voting and there are no violations at the elections,
+      the population of Ukraine will give preference to V.Zaluzhny. The candidacy of
+      Andriy Yermak, the head of the Ukrainian president’s office, is also being considered
+      as a gray cardinal and a dark horse. A number of experts do not rule out that
+      if the USA agrees to support his candidacy as the future president of Ukraine,
+      Yermak is capable of making efforts to physically remove Zelenskyy, for example,
+      due to a sharp deterioration of his health, as was the case with the poisoning
+      of the wife of Kyrylo Budanov, head of the main intelligence department of the
+      Ukrainian Defense Ministry. Against this background, many Ukrainian experts expect
+      a large number of violations, scandals and kompromat at the future presidential
+      election in Ukraine, as well as possible influence on the pre-election processes
+      by the US, UK, Germany and France. While the Ukrainian people are eagerly awaiting
+      the resolution of the conflict, members of the Ukrainian parliament continue to
+      scuffle. Thus, on July 16, 2025, on the eve of the vote on the appointment of
+      the new Prime Minister of Ukraine, Yuriy Sviridenko, MPs Oleksiy Honcharenko and
+      Danylo Hetmantsev had another scuffle on the rostrum during the regular session.
+      [Source: prozoro.net.ua ] [1] [1] https://www.dw.com/en/ukraine-parliament-backs-pm-shmyhals-resignation/a-73302398
+      [2] [2] https://www.jpost.com/international/article-861119 [3] [3] https://www.bloomberg.com/features/2025-sergii-marchenko-weekend-interview/
+      [4] [4] https://www.bloomberg.com/news/articles/2025-07-17/ukraine-to-approve-biggest-wartime-reshuffle-to-boost-economy?srnd=homepage-europe
+      [5] [5] https://www3.nhk.or.jp/nhkworld/en/news/20250717_04/ [6] [6]         https://rm.coe.int/constitution-of-ukraine/168071f58b
+      [7] [7] https://www.economist.com/europe/2025/03/30/the-prospect-of-early-elections-in-ukraine-has-everyone-in-a-spin'
+    one_sentence_summary: Ukrainian President Volodymyr Zelensky is reshuffling his
+      government amid ongoing conflict and diplomatic failures, aiming to consolidate
+      power and discredit rivals by appointing Economy Minister Yulia Sviridenko as
+      the new prime minister and placing the military industry under the Defense Ministry's
+      control.
+    paragraph_summary: The article discusses the significant reshuffling of Ukraine's
+      government amid ongoing conflict and stalled diplomatic efforts for peace, driven
+      by President Volodymyr Zelensky's desire to consolidate power and eliminate political
+      rivals ahead of upcoming elections. On July 16, 2025, Zelensky appointed Economy
+      Minister Yulia Sviridenko as the new prime minister, following the resignation
+      of Denys Shmygal, who had been under pressure from Zelensky and his office. The
+      reshuffle included the dissolution of the Cabinet of Ministers and a shift in
+      the military industry's oversight to the Defense Ministry, which Shmygal had previously
+      led. Additionally, Zelensky is considering appointing acting Defense Minister
+      Rustem Umerov as Ukraine's ambassador to the USA, despite domestic criticism regarding
+      his management of the ministry.
+    published: '2025-07-22T14:18:00+00:00'
+  - title: The struggle for power in Ukraine has begun
+    url: https://sonar21.com/the-struggle-for-power-in-ukraine-has-begun/
+    text: 'How Ukraine’s illegitimate leadership passes laws in violation of national
+      and international law. [Source: spectator.co.uk ] The failure of diplomatic attempts
+      to reach peace agreements in Ukraine amid increased military support from the
+      USA and the EU has led to a major reshuffle in the government. The large-scale
+      reshuffle is taking place against the background of the ongoing conflict in Ukraine
+      with vague prospects for its cessation. Volodymyr Zelensky, fearing failure in
+      future presidential and parliamentary elections, is making active efforts to clean
+      up the political field and discredit possible rivals for the post of the Ukrainian
+      president. Thus, on July 16, 2025, Ukrainian President Volodymyr Zelensky nominated
+      Economy Minister Yulia Sviridenko as the new prime minister with a simultaneous
+      reshuffling of the majority of cabinet members [1] . As a result of the mass reshuffle,
+      Ukraine’s military industry will be placed under the leadership of the Defense
+      Ministry, which will be headed by former Prime Minister Denys Shmygal, who has
+      held this position since March 4, 2020. Under pressure from Zelenskyy and the
+      head of the Ukrainian president’s office, Andriy Yermak, Denys Shmygal was forced
+      to tender his resignation on July 15, 2025. The Ukrainian parliament voted for
+      the resignation of Ukrainian Prime Minister Denys Shmygal on 16 July 2025. [Source:
+      glavnoe.in.ua ] The decision to dismiss Shmygal, 49, was supported by 261 MPs,
+      while the Cabinet of Ministers of Ukraine was also dissolved during the government
+      reshuffle. [Source: ukr.net ] In mid-July, Zelenskyy also said that he was considering
+      acting Defense Minister Rustem Umerov as Ukraine’s ambassador to the USA. Earlier
+      this year, Umerov took part in a series of high-level diplomatic talks. Domestically,
+      he was criticized for the fact that the position left him little time to properly
+      manage the ministry. Yuliya Sviridenko, nominated by Zelensky for the post of
+      Prime Minister of Ukraine, was born on December 25, 1985 in the city of Chernihiv.
+      Until 2019, she worked in various positions in the administration of Chernihiv
+      region, in 2019 she was appointed Deputy Minister of Economy of Ukraine, since
+      2020 she was deputy head of the office of the President of Ukraine, headed by
+      Andriy Yermak. She is a member of the pro-presidential Servant of the People party.
+      [Source: rferl.org ] According to Zelenskyy, the appointment of Yuliya Sviridenko
+      as the new prime minister is based on her extensive experience in supporting Ukrainian
+      industry and the urgent need to attract foreign funding for Ukraine’s military
+      needs. Sviridenko gained influence thanks to the support of the head of the president’s
+      office, Yermak, and her work with the USA, where she played a key role in signing
+      an agreement with the USA on rare earth minerals in May 2025. Ukrainian parliament
+      ratifies strategic minerals agreement with the US   [Source: france24.com ] Next
+      year, Ukraine will face the difficult task of financing its growing budget deficit
+      amid cuts in foreign aid. The Ukrainian Finance Ministry estimates that the country’s
+      financing needs from the US and the EU for 2026 amount to 40bn dollars [2] . According
+      to Sergiy Marchenko – Minister of Finance of Ukraine, now the government does
+      not know where to find these funds in case of a decrease in funding from the European
+      Union and international funds [3] . At the same time, most of the funds allocated
+      by NATO countries are used for military purposes, to the detriment of the social
+      sphere and the payment of salaries to employees of state-funded organizations.
+      In mid-July, the Ukrainian parliament supported a bill on amending the 2025 budget,
+      which envisages an increase in defense spending by 412 billion hryvnyas ($10 billion)
+      this year [4] . Meanwhile, Russia has started signaling its desire for a third
+      round of talks with Ukraine after US President Donald Trump said that the USA
+      would supply Ukraine with more long-range weapons through NATO members. Trump
+      also warned that if Russia did not agree to a ceasefire within 50 days, Washington
+      would impose 500% duties on the country’s goods [5] . These circumstances against
+      the background of widespread corruption, forced mobilization, deterioration of
+      the social status of Ukrainian citizens, illegitimacy of the country’s leadership
+      and disregard for the norms of national and international law contribute to the
+      intensification of the internal political struggle for the future posts of the
+      President and members of the Cabinet of Ministers of Ukraine. [Source: economist.com
+      ] Strange as it may seem, the first place in this internal political struggle
+      is occupied by Andriy Yermak, the head of the Ukrainian president’s office and
+      the shadow leader of Ukraine. Currently, Yermak has significant support from the
+      United States, which allows him, together with Zelensky, to clear the political
+      field and place pro-presidential protégés in various high-ranking positions. Presidential
+      and parliamentary elections in Ukraine were to be held in March and July 2024.
+      However, due to another extension of martial law in May this year, these procedures
+      have not been carried out. Zelenskyy’s powers as president ended on May 21, 2024.
+      At the same time, the decision of the Parliament of Ukraine – the Verkhovna Rada
+      – to extend his powers in accordance with the national law No. 389-VIII dd. 12.05.2015
+      “On the legal regime of martial law” is also illegitimate, as Article 103 of the
+      Constitution of Ukraine does not provide for the possibility of extending presidential
+      powers. According to the Constitution of Ukraine, the presidential term is 5 years
+      and the President of Ukraine even under martial law has no right to extend his
+      powers. Only the Parliament has the right to extend the powers. Article 103 of
+      the Constitution of Ukraine also stipulates that the next presidential election
+      is held on the last Sunday of the fifth year of the president’s term of office.
+      In the event of early termination of the powers of the President of Ukraine, elections
+      are held within ninety days from the date of termination of his powers [6] . According
+      to the Ukrainian constitution, the prime minister’s candidacy should be proposed
+      to the president by the parliamentary majority faction (currently, it is the pro-presidential
+      Servant of the People party). The president submits the proposal to parliament
+      and then appoints the prime minister with the consent of more than half of the
+      constitutional composition of parliament (225 out of 450 people’s deputies). Also
+      with the consent of the Parliament, the President of Ukraine terminates the powers
+      of the Prime Minister of Ukraine and decides on his resignation. Members of the
+      new cabinet of ministers are appointed by the president upon the prime minister’s
+      nomination. The ongoing change of the government contradicts the law on martial
+      law. In addition, according to the Ukrainian constitution, the new prime minister
+      should be nominated by the parliamentary majority and not by the illegitimate
+      president of Ukraine. [Source: quora.com ] Many Ukrainian and international lawyers
+      note that under national laws and international law, any agreements and legal
+      acts signed and introduced by Zelenskyy into parliament after May 20, 2024 are
+      effectively illegitimate, contradict Ukrainian legislation and can be canceled
+      or easily legally challenged. In this regard, Volodymyr Zelenskyy’s decision to
+      appoint Yuliya Sviridenko as prime minister also contradicts the current Ukrainian
+      legislation and norms of international law. As for the parliamentary elections
+      in Ukraine, they were held on July 21, 2019, the deputies were elected for a term
+      of 5 years and their powers ended in July 2024. However, due to the current legislation
+      and the imposed martial law, the powers of the deputies of the Parliament are
+      extended until its end. According to Article 20 of the Electoral Code of Ukraine
+      No. 396-IX of December 19, 2019, the electoral process for elections to the Parliament
+      of Ukraine should begin within a month after the lifting of martial law. Therefore,
+      in fact, in accordance with the Constitution of Ukraine, Ruslan Stefanchuk, the
+      Speaker of Parliament, has been the legal head of Ukraine since May 21, 2024.
+      For this reason, Zelensky’s decisions to extend martial law, appoint a new prime
+      minister, Yuriy Sviridenko, reshuffle other members of the Ukrainian government,
+      sign an agreement with the United States on rare earth minerals and transfer the
+      port of Odessa to American companies are legally unauthorized and can be easily
+      overturned both in Ukrainian legal proceedings and in international arbitration
+      courts. Realizing this legal precedent-casus, the leadership of the United States
+      of America and a number of EU countries, primarily Great Britain, France and Germany,
+      in cooperation with the Ukrainian side, are currently trying to develop a legal
+      mechanism to give legitimacy to the legal acts already adopted by Mr. Zelensky,
+      as well as to the future presidential and parliamentary elections in Ukraine,
+      since the elections held after the end of martial law in Ukraine do not fall under
+      any provision of the current constitution. To this end, at the end of June 2025,
+      the Chairman of the Parliament Ruslan Stefanchuk announced the preparation of
+      a law on post-war elections, which is scheduled to be considered at the next sessions
+      of the Ukrainian Parliament. Although Ruslan Stefanchuk himself notes that the
+      said law will also be illegitimate if martial law is lifted in the country. Against
+      this background, the internal political struggle between various parties and candidates
+      for the post of the future president of Ukraine is intensifying. The main direction
+      of this interaction is the development of a normatively grounded strategy for
+      future presidential and parliamentary elections in Ukraine. Allies of Volodymyr
+      Zelensky from Great Britain and the USA announcing continuation of his support
+      and new deliveries of weapons paid for by them realize that without interference
+      in pre-election processes and vote counting procedure it is difficult to predict
+      the results of future elections. That is why Volodymyr Zelensky has now started
+      an active reshuffle of the government and clearing the political field of possible
+      competitors in the upcoming elections. The Economist previously wrote about the
+      fact that the USA and EU countries are negotiating with Ukraine to start election
+      processes after the ceasefire at the end of 2025 [7] . However, in order to hold
+      elections in Ukraine, martial law, which the authorities imposed on February 24,
+      2022 and extend every three months, must cease to be in force. The sixteenth extension
+      for 90 days will come into force on August 7, 2025. The Ukrainian mass media name
+      Valeriy Zaluzhnyy, a former commander-in-chief of the Ukrainian Armed Forces who
+      is currently ambassador to the UK, as Zelenskyy’s main rival. [Source: thetimes.com
+      ] From November 2024 to the end of June 2025 a number of sociological centers
+      (KIIS – Kyiv International Institute of Sociology, SOCIS – Ukrainian Center for
+      Sociological Studies) and the EU (Statista – German Statistical Data Center from
+      February 5-11, 2025, June 6-11, 2025, Survation – English Polling and Marketing
+      Research Agency from February 25-27, 2025) conducted opinion polls on the topic
+      of presidential elections in Ukraine in order to determine the trust rating of
+      Ukrainian citizens. According to the results of opinion polls as of the end of
+      June 2025, more than 65.3% of respondents support holding presidential elections
+      at the end of 2025. [Source: en.wikipedia.org ] According to the results of the
+      conducted research, as of the end of June 2025, out of 14 possible candidates
+      for the post of the future president of Ukraine, the highest results were shown
+      by: V.Zelensky, V.Zaluzhny, P.Poroshenko, Y.Tymoshenko. If V.Zaluzhny and V.Zelensky
+      make it to the second round of voting and there are no violations at the elections,
+      the population of Ukraine will give preference to V.Zaluzhny. The candidacy of
+      Andriy Yermak, the head of the Ukrainian president’s office, is also being considered
+      as a gray cardinal and a dark horse. A number of experts do not rule out that
+      if the USA agrees to support his candidacy as the future president of Ukraine,
+      Yermak is capable of making efforts to physically remove Zelenskyy, for example,
+      due to a sharp deterioration of his health, as was the case with the poisoning
+      of the wife of Kyrylo Budanov, head of the main intelligence department of the
+      Ukrainian Defense Ministry. Against this background, many Ukrainian experts expect
+      a large number of violations, scandals and kompromat at the future presidential
+      election in Ukraine, as well as possible influence on the pre-election processes
+      by the US, UK, Germany and France. While the Ukrainian people are eagerly awaiting
+      the resolution of the conflict, members of the Ukrainian parliament continue to
+      scuffle. Thus, on July 16, 2025, on the eve of the vote on the appointment of
+      the new Prime Minister of Ukraine, Yuriy Sviridenko, MPs Oleksiy Honcharenko and
+      Danylo Hetmantsev had another scuffle on the rostrum during the regular session.
+      [Source: prozoro.net.ua ] [1] [1] https://www.dw.com/en/ukraine-parliament-backs-pm-shmyhals-resignation/a-73302398
+      [2] [2] https://www.jpost.com/international/article-861119 [3] [3] https://www.bloomberg.com/features/2025-sergii-marchenko-weekend-interview/
+      [4] [4] https://www.bloomberg.com/news/articles/2025-07-17/ukraine-to-approve-biggest-wartime-reshuffle-to-boost-economy?srnd=homepage-europe
+      [5] [5] https://www3.nhk.or.jp/nhkworld/en/news/20250717_04/ [6] [6]         https://rm.coe.int/constitution-of-ukraine/168071f58b
+      [7] [7] https://www.economist.com/europe/2025/03/30/the-prospect-of-early-elections-in-ukraine-has-everyone-in-a-spin'
+    one_sentence_summary: Ukrainian President Volodymyr Zelensky is reshuffling his
+      government amid ongoing conflict and diplomatic failures, aiming to consolidate
+      power and discredit rivals by appointing Economy Minister Yulia Sviridenko as
+      the new prime minister and placing the military industry under the Defense Ministry's
+      control.
+    paragraph_summary: The article discusses the significant reshuffling of Ukraine's
+      government amid ongoing conflict and stalled diplomatic efforts for peace, driven
+      by President Volodymyr Zelensky's desire to consolidate power and eliminate political
+      rivals ahead of upcoming elections. On July 16, 2025, Zelensky appointed Economy
+      Minister Yulia Sviridenko as the new prime minister, following the resignation
+      of Denys Shmygal, who had been under pressure from Zelensky and his office. The
+      reshuffle included the dissolution of the Cabinet of Ministers and a shift in
+      the military industry's oversight to the Defense Ministry, which Shmygal had previously
+      led. Additionally, Zelensky is considering appointing acting Defense Minister
+      Rustem Umerov as Ukraine's ambassador to the USA, despite domestic criticism regarding
+      his management of the ministry.
+    published: '2025-07-22T14:18:00+00:00'
+  - title: More Unnecessary Bellicosity from a Senior US General Raises Tensions with
+      Russia
+    url: https://sonar21.com/more-unnecessary-bellicosity-from-a-senior-us-general-raises-tensions-with-russia/
+    text: 'Cartoon by NEMO The West continues to operate under the delusion that it
+      has the military strength and political support to bully Russia into a ceasefire.
+      The latest example comes from General Christopher Donahue, commander of US Army
+      Europe and Africa, who made an incredibly dangerous assertion during a speech
+      to the Association of the US Army’s inaugural LandEuro conference in Wiesbaden,
+      Germany last week. Donahue stated that NATO land forces have developed the capability
+      to strike and seize Russia’s Kaliningrad exclave “in a timeframe that is unheard
+      of”—faster than ever before. He touted NATO advances in rapid land-based operations
+      and emphasized that Kaliningrad—a heavily militarized Russian enclave surrounded
+      by NATO territory—could be neutralized from the ground much more swiftly than
+      previously possible. He said: We can take that down from the ground in a time
+      frame that is unheard of – faster than we’ve ever been able to do. Donahue’s statement
+      was not intended to suggest that NATO had imminent plans to launch a first strike;
+      rather it was a warning to Russia about the alliance’s readiness in the event
+      of further aggression, especially against the Baltic states. Commentators and
+      officials interpret these remarks as reassurance to NATO partners and a signal
+      to Moscow that any attack on NATO would prompt a decisive and rapid response.
+      Regardless of Donahue’s intent, this is a reckless, dangerous statement in light
+      of his position as the head of the US European Command. While it may have boosted
+      morale among the Lilliputian Baltic nations, the Russians viewed it as a serious
+      threat and a provocation. Russian authorities responded that any military assault
+      on Kaliningrad would be treated unequivocally as an attack on the Russian Federation
+      itself. Leonid Slutsky, chair of the Russian parliamentary Foreign Affairs Committee
+      (a senior figure who often reflects Foreign Ministry rhetoric), explicitly stated:
+      An attack on the Kaliningrad Region will mean an attack on Russia, with all due
+      retaliatory measures stipulated, among other things, by its nuclear doctrine….
+      The American general should consider this before making such declarations. A parliamentary
+      defense committee member called the threats “ essentially a declaration of war
+      .” Donahue’s remarks, beyond being incredibly stupid, displayed the arrogance
+      and contempt that US political and military leaders have for Russia. To make matters
+      worse, NATO is conducting, or will soon conduct, a military exercise that simulates
+      invading Kaliningrad. The Russians have taken notice and do not dismiss this as
+      an idle threat. One retired Russian intelligence officer reacted by saying: And
+      what would happen to Washington or New York if we deployed our troops in the ocean,
+      for example, including the submarine fleet, and rehearsed strikes on New York
+      and Washington. How would Trump react? I think we know the answer to that rhetorical
+      question… Trump would attack. Now that Russia is mass-producing the Oreshnik hypersonic
+      missile, Putin has an option other than going nuclear. The Oreshnik can hit any
+      target in Europe — i.e., it is a hypersonic version of an intermediate-range ballistic
+      missile, except it can be maneuvered while in flight and a single missile can
+      deliver multiple warheads. The West does not have any defense against this missile.
+      I wonder if Donahue understands that? I had a lengthy discussion with Nima today
+      — who was rocking a killer tropical shirt — about Gaza, Iran and the war in Ukraine:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: General Christopher Donahue's assertion that NATO forces can
+      rapidly seize Russia's Kaliningrad exclave reflects a dangerous overconfidence
+      in Western military capabilities and the belief that they can pressure Russia
+      into a ceasefire.
+    paragraph_summary: In a recent speech at the Association of the US Army's LandEuro
+      conference, General Christopher Donahue, commander of US Army Europe and Africa,
+      claimed that NATO forces have significantly enhanced their capability to swiftly
+      strike and potentially seize Russia's Kaliningrad exclave, a heavily militarized
+      area surrounded by NATO countries. While Donahue's remarks were intended to reassure
+      NATO allies and signal readiness against Russian aggression, they were perceived
+      as a dangerous provocation by Russia, which warned that any military action against
+      Kaliningrad would be considered an attack on the Russian Federation. This situation
+      highlights the ongoing tensions between NATO and Russia, with Donahue's statements
+      raising concerns about the potential for escalation in the region.
+    published: '2025-07-22T04:09:45+00:00'
+  - title: More Unnecessary Bellicosity from a Senior US General Raises Tensions with
+      Russia
+    url: https://sonar21.com/more-unnecessary-bellicosity-from-a-senior-us-general-raises-tensions-with-russia/
+    text: 'Cartoon by NEMO The West continues to operate under the delusion that it
+      has the military strength and political support to bully Russia into a ceasefire.
+      The latest example comes from General Christopher Donahue, commander of US Army
+      Europe and Africa, who made an incredibly dangerous assertion during a speech
+      to the Association of the US Army’s inaugural LandEuro conference in Wiesbaden,
+      Germany last week. Donahue stated that NATO land forces have developed the capability
+      to strike and seize Russia’s Kaliningrad exclave “in a timeframe that is unheard
+      of”—faster than ever before. He touted NATO advances in rapid land-based operations
+      and emphasized that Kaliningrad—a heavily militarized Russian enclave surrounded
+      by NATO territory—could be neutralized from the ground much more swiftly than
+      previously possible. He said: We can take that down from the ground in a time
+      frame that is unheard of – faster than we’ve ever been able to do. Donahue’s statement
+      was not intended to suggest that NATO had imminent plans to launch a first strike;
+      rather it was a warning to Russia about the alliance’s readiness in the event
+      of further aggression, especially against the Baltic states. Commentators and
+      officials interpret these remarks as reassurance to NATO partners and a signal
+      to Moscow that any attack on NATO would prompt a decisive and rapid response.
+      Regardless of Donahue’s intent, this is a reckless, dangerous statement in light
+      of his position as the head of the US European Command. While it may have boosted
+      morale among the Lilliputian Baltic nations, the Russians viewed it as a serious
+      threat and a provocation. Russian authorities responded that any military assault
+      on Kaliningrad would be treated unequivocally as an attack on the Russian Federation
+      itself. Leonid Slutsky, chair of the Russian parliamentary Foreign Affairs Committee
+      (a senior figure who often reflects Foreign Ministry rhetoric), explicitly stated:
+      An attack on the Kaliningrad Region will mean an attack on Russia, with all due
+      retaliatory measures stipulated, among other things, by its nuclear doctrine….
+      The American general should consider this before making such declarations. A parliamentary
+      defense committee member called the threats “ essentially a declaration of war
+      .” Donahue’s remarks, beyond being incredibly stupid, displayed the arrogance
+      and contempt that US political and military leaders have for Russia. To make matters
+      worse, NATO is conducting, or will soon conduct, a military exercise that simulates
+      invading Kaliningrad. The Russians have taken notice and do not dismiss this as
+      an idle threat. One retired Russian intelligence officer reacted by saying: And
+      what would happen to Washington or New York if we deployed our troops in the ocean,
+      for example, including the submarine fleet, and rehearsed strikes on New York
+      and Washington. How would Trump react? I think we know the answer to that rhetorical
+      question… Trump would attack. Now that Russia is mass-producing the Oreshnik hypersonic
+      missile, Putin has an option other than going nuclear. The Oreshnik can hit any
+      target in Europe — i.e., it is a hypersonic version of an intermediate-range ballistic
+      missile, except it can be maneuvered while in flight and a single missile can
+      deliver multiple warheads. The West does not have any defense against this missile.
+      I wonder if Donahue understands that? I had a lengthy discussion with Nima today
+      — who was rocking a killer tropical shirt — about Gaza, Iran and the war in Ukraine:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: General Christopher Donahue's assertion that NATO forces can
+      rapidly seize Russia's Kaliningrad exclave reflects a dangerous overconfidence
+      in Western military capabilities and the belief that they can pressure Russia
+      into a ceasefire.
+    paragraph_summary: In a recent speech at the Association of the US Army's LandEuro
+      conference, General Christopher Donahue, commander of US Army Europe and Africa,
+      claimed that NATO forces have significantly enhanced their capability to swiftly
+      strike and potentially seize Russia's Kaliningrad exclave, a heavily militarized
+      area surrounded by NATO countries. While Donahue's remarks were intended to reassure
+      NATO allies and signal readiness against Russian aggression, they were perceived
+      as a dangerous provocation by Russia, which warned that any military action against
+      Kaliningrad would be considered an attack on the Russian Federation. This situation
+      highlights the ongoing tensions between NATO and Russia, with Donahue's statements
+      raising concerns about the potential for escalation in the region.
+    published: '2025-07-22T04:09:45+00:00'
+  - title: Defining Islamic Extremism and What it Means for Syria
+    url: https://sonar21.com/defining-islamic-extremism-and-what-it-means-for-syria/
+    text: 'Cartoon by NEMO Let’s start with this fact — the overwhelming majority of
+      Muslims are not crazed, murderous fanatics. It is a meme the West uses to justify
+      genocide against. In fact, we now have clear evidence, in the person of Syria’s
+      new leader, that the US provided direct support to a terrorist group that descended
+      from ISIS. US Ambassador Jim Jeffrey described Syria’s current leader, Mohammad
+      al Jolani, who was the leader of Hayat Tahrir al-Sham HTSS, as necessary partners
+      in the chaotic Syrian landscape, despite their extremist views, to prevent worse
+      outcomes like full Russian/Iranian control or ISIS resurgence. Starting in 2017,
+      the US State Department listed HTS as one of the top ten most active terrorist
+      groups in the world, and the US placed a $10 million bounty on his head. Jeffrey,
+      in a Frontline piece produced by PBS, said the following: Look, he’s [Jolani]
+      the least bad option of the various options on Idlib, which is one of the most
+      important places in Syria, which is one of the most important places right now
+      in the Middle East…. When there is not the normal setup of nation-states and of
+      international norms and rules, you wind up with groups like this, that do things
+      you don’t like but in the here and now are the folks you have to deal with to
+      avoid even worse things. Jeffrey admitted to indirect communications with HTS
+      during the Trump administration, including receiving and sending messages via
+      intermediaries. He confirmed: “Yes” (to receiving messages from HTS), elaborating:
+      “Basically, ‘We want to be your friend. We’re not terrorists. We’re just fighting
+      Assad.''” He explained his response: I encouraged people to keep me informed as
+      often as possible. That was my job…. I received and sent messages to HTS. The
+      United States has played a dangerous game — declaring Islamic-based terrorism
+      as a threat to justify military intervention, while providing support — including
+      funding — to several of those Sunni Salafists to carry out regime destabilizing
+      operations throughout West Asia and in the Caucasus region. This included support
+      to the Chechen rebels in Russia, which launched a 10-year war starting in 1999.
+      I made the mistake in the past of equating Al-Qaeda as a Salafist entity. With
+      the benefit of hindsight, Bin Laden’s group, although motivated by their religion,
+      was an anti-imperialist movement directed at the United States. Al Qaeda’s leaders,
+      particularly Ayman al-Zawahiri, publicly opposed many of ISIS’s actions, leading
+      to a formal split between the groups in 2014. This opposition stemmed from ideological,
+      strategic, and tactical differences, with Al Qaeda criticizing ISIS for its extreme
+      brutality, sectarian focus, illegitimate declaration of a caliphate, and attacks
+      on fellow jihadists and civilians, which they viewed as counterproductive to the
+      broader jihadist cause. That cause was erasing US influence in West Asia. As a
+      public service, particularly for US citizens unfamiliar with Islam, I want to
+      attempt to define three terms: Wahhabism, Salafism and Takfiri. I am sure there
+      are Islamic scholars who may take issue with my attempt to clarify the meaning
+      of these words. I apologize in advance for my errors. But there are some important
+      nuances here that Americans must understand in order to not be blinded by hate,
+      and end up supporting self-destructive policies and interventions, especially
+      in West Asia. WAHHABISM Wahhabism is a strict, puritanical reform movement within
+      Sunni Islam founded in the 18th century by Muhammad ibn Abd al-Wahhab (1703–1792)
+      in the Arabian Peninsula, particularly in what is now Saudi Arabia. It is a subset
+      of Salafism, advocating a return to the practices of the Salaf al-Salih (the “pious
+      predecessors” of the first three generations of Muslims), emphasizing a literalist
+      interpretation of the Quran and Sunnah (Prophet Muhammad’s teachings) and rejecting
+      innovations ( bid‘ah ) or practices deemed un-Islamic, such as saint veneration
+      or certain Sufi rituals. Core Tenets Tawhid (Monotheism) : Central to Wahhabism
+      is the absolute oneness of God, rejecting any form of shirk (polytheism), including
+      shrine worship or intercession by saints. Rejection of Bid‘ah : Wahhabis condemn
+      practices not explicitly supported by early Islamic texts, such as celebrating
+      the Prophet’s birthday or elaborate rituals. Strict Jurisprudence : Relies on
+      Hanbali fiqh (Islamic law) and direct interpretation of texts, often bypassing
+      later scholarly traditions. Moral Enforcement : Emphasizes enforcing Islamic morality,
+      historically through practices like destroying shrines or enforcing dress codes.
+      Wahhabism is often considered a precursor to or a branch of Salafism , sharing
+      its focus on early Islam and rejection of innovations. However, not all Salafists
+      identify as Wahhabis , and some modern Salafists distance themselves from the
+      term due to its association with Saudi politics or extremism. Wahhabis are sometimes
+      called “Salafists of the Najd” (referring to their Arabian origin), distinguishing
+      them from broader Salafi movements. SALAFIST The term Salafist (or Salafi) refers
+      to a follower of Salafism , an ultraconservative, reformist movement within Sunni
+      Islam that advocates a return to the practices and beliefs of the Salaf al-Salih
+      (“pious predecessors”), the first three generations of Muslims (roughly 610–710
+      CE). These include the Prophet Muhammad, his companions (Sahaba), their followers
+      (Tabi‘un), and the next generation (Tabi‘ al-Tabi‘in). Salafists aim to emulate
+      this era’s perceived pure, unadulterated Islam, rejecting later innovations (
+      bid‘ah ) and emphasizing strict adherence to the Quran, Sunnah (Prophet’s traditions),
+      and a literalist interpretation of Islamic texts. Salafism is not monolithic and
+      includes three main tendencies: Purist/Quietist Salafism : Focuses on personal
+      piety, education, and avoiding politics. Common in Saudi Arabia, these Salafists
+      prioritize religious purity and often align with state authorities, rejecting
+      rebellion (e.g., scholars like Muhammad ibn al-Uthaymin). Political/Activist Salafism
+      : Engages in political reform, often criticizing Muslim governments for un-Islamic
+      policies while avoiding violence. They may support democratic processes or social
+      activism. Jihadi-Salafism : A militant minority that justifies violence to establish
+      Islamic governance, often linked to groups like al-Qaeda or ISIS. They use Salafist
+      rhetoric but are condemned by other Salafists for extremism and takfir (declaring
+      Muslims apostates). For example, jihadi-Salafists like Abu Musab al-Zarqawi fueled
+      sectarian violence in Iraq. Salafism emerged in the 19th century as a response
+      to Western colonialism and perceived Islamic decline, influenced by scholars like
+      Muhammad ibn Abd al-Wahhab (founder of Wahhabism , a Salafist precursor) and later
+      by Rashid Rida and Muhammad Abduh. It gained traction in the 20th century, fueled
+      by Saudi Arabia’s global promotion of Wahhabi-Salafist teachings through mosques
+      and schools. Estimates suggest 50-100 million Salafists worldwide, with significant
+      presence in Saudi Arabia, Egypt, and diaspora communities. Critics, including
+      many Muslims, view Salafism as rigid, intolerant, or a gateway to extremism, especially
+      due to jihadi-Salafist actions. Shia and Sufi groups often face Salafist criticism
+      for practices deemed un-Islamic. Core Beliefs and Practices Theological Foundation
+      : Salafists prioritize tawhid (God’s absolute oneness), opposing practices they
+      view as polytheistic ( shirk ), like venerating saints or shrines. They rely heavily
+      on hadith (Prophet’s sayings) and reject speculative theology ( kalam ). Rejection
+      of Innovation : They oppose practices not explicitly endorsed by the Salaf, such
+      as certain Sufi rituals or modern cultural influences, viewing them as deviations.
+      Scriptural Literalism : Salafists advocate a direct, text-based approach, often
+      bypassing traditional Islamic legal schools (e.g., Hanafi, Maliki) in favor of
+      their own interpretations of primary sources. TAKFIRI The term Takfiri is an Arabic
+      word derived from “takfir,” which refers to the act of a Muslim declaring another
+      Muslim an apostate ( kafir , meaning “unbeliever”) who has abandoned Islam. A
+      Takfiri is a Muslim who engages in this practice, accusing fellow Muslims of apostasy,
+      often to justify violence or exclusion against them. This declaration is considered
+      serious in Islamic jurisprudence, as traditional interpretations reserve such
+      judgments for Islamic scholars (ulama) under strict conditions, like denying core
+      tenets of faith (e.g., the five pillars). Misuse of takfir is widely viewed as
+      a major sin, with one hadith stating that wrongly declaring a Muslim an unbeliever
+      makes the accuser themselves guilty of minor shirk (associating partners with
+      God). Historically, the term is tied to extremist groups like the 7th-century
+      Kharijites, who used takfir against both Sunni and Shia Muslims, fueling insurrections.
+      In modern contexts, Takfiri ideology is associated with jihadist groups (e.g.,
+      ISIS, al-Qaeda, GIA, Boko Haram) who label Muslims, governments, or entire societies
+      as apostates to sanction attacks, often citing thinkers like Sayyid Qutb or Ibn
+      Taymiyyah. For example, during the Algerian Civil War (1991–2002), the GIA declared
+      civilians and non-members kafir, justifying massacres. Mainstream Muslim scholars,
+      such as Hasan al-Hudaybi and Yusuf al-Qaradawi, denounce Takfiri practices as
+      un-Islamic and divisive, emphasizing that only God can fully judge faith. The
+      term is also politically charged. Shia groups, like Iran’s regime, use “ Takfiri
+      ” pejoratively against Sunni militants (e.g., labeling all anti-Syrian regime
+      fighters as Takfiris), while Sunni extremists apply it to Shias or secular Muslims.
+      On platforms like X, it’s debated as a divisive label, with some users framing
+      it as a tool to demonize ideological opponents or protect orthodoxy, while others
+      criticize its misuse to stoke sectarianism. In essence, Takfiri describes those
+      who weaponize excommunication within Islam, often with violent consequences, though
+      its application varies by context and user. Here is the ultimate irony — some
+      of the most passionate Salafists are not religious. They use the words and concepts
+      to justify violence, such as what is now unfolding in Syria. I believe that the
+      vast majority of Islamic clerics eschew violence as the path forward. I await
+      your push-back. I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article highlights the contradiction in U.S. foreign policy,
+      where the government has supported a leader of a terrorist group, Mohammad al
+      Jolani, despite previously labeling his organization, Hayat Tahrir al-Sham, as
+      one of the world's top terrorist threats, to counteract greater risks in Syria.
+    paragraph_summary: The article discusses the complex and contradictory role of the
+      United States in Syria, particularly regarding its interactions with extremist
+      groups like Hayat Tahrir al-Sham (HTS), led by Mohammad al Jolani. Despite HTS
+      being classified as a top terrorist organization by the US State Department and
+      a bounty placed on Jolani's head, US Ambassador Jim Jeffrey acknowledged that
+      the US has engaged with HTS as a "necessary partner" to prevent worse outcomes
+      in the region, such as increased Russian or Iranian influence or a resurgence
+      of ISIS. This engagement included indirect communications during the Trump administration,
+      where HTS expressed a desire to be seen as allies rather than terrorists. The
+      article highlights the hypocrisy in the US's stance on Islamic terrorism, as it
+      has simultaneously justified military interventions while providing support to
+      groups it officially labels as terrorists.
+    published: '2025-07-21T03:39:28+00:00'
+  - title: Defining Islamic Extremism and What it Means for Syria
+    url: https://sonar21.com/defining-islamic-extremism-and-what-it-means-for-syria/
+    text: 'Cartoon by NEMO Let’s start with this fact — the overwhelming majority of
+      Muslims are not crazed, murderous fanatics. It is a meme the West uses to justify
+      genocide against. In fact, we now have clear evidence, in the person of Syria’s
+      new leader, that the US provided direct support to a terrorist group that descended
+      from ISIS. US Ambassador Jim Jeffrey described Syria’s current leader, Mohammad
+      al Jolani, who was the leader of Hayat Tahrir al-Sham HTSS, as necessary partners
+      in the chaotic Syrian landscape, despite their extremist views, to prevent worse
+      outcomes like full Russian/Iranian control or ISIS resurgence. Starting in 2017,
+      the US State Department listed HTS as one of the top ten most active terrorist
+      groups in the world, and the US placed a $10 million bounty on his head. Jeffrey,
+      in a Frontline piece produced by PBS, said the following: Look, he’s [Jolani]
+      the least bad option of the various options on Idlib, which is one of the most
+      important places in Syria, which is one of the most important places right now
+      in the Middle East…. When there is not the normal setup of nation-states and of
+      international norms and rules, you wind up with groups like this, that do things
+      you don’t like but in the here and now are the folks you have to deal with to
+      avoid even worse things. Jeffrey admitted to indirect communications with HTS
+      during the Trump administration, including receiving and sending messages via
+      intermediaries. He confirmed: “Yes” (to receiving messages from HTS), elaborating:
+      “Basically, ‘We want to be your friend. We’re not terrorists. We’re just fighting
+      Assad.''” He explained his response: I encouraged people to keep me informed as
+      often as possible. That was my job…. I received and sent messages to HTS. The
+      United States has played a dangerous game — declaring Islamic-based terrorism
+      as a threat to justify military intervention, while providing support — including
+      funding — to several of those Sunni Salafists to carry out regime destabilizing
+      operations throughout West Asia and in the Caucasus region. This included support
+      to the Chechen rebels in Russia, which launched a 10-year war starting in 1999.
+      I made the mistake in the past of equating Al-Qaeda as a Salafist entity. With
+      the benefit of hindsight, Bin Laden’s group, although motivated by their religion,
+      was an anti-imperialist movement directed at the United States. Al Qaeda’s leaders,
+      particularly Ayman al-Zawahiri, publicly opposed many of ISIS’s actions, leading
+      to a formal split between the groups in 2014. This opposition stemmed from ideological,
+      strategic, and tactical differences, with Al Qaeda criticizing ISIS for its extreme
+      brutality, sectarian focus, illegitimate declaration of a caliphate, and attacks
+      on fellow jihadists and civilians, which they viewed as counterproductive to the
+      broader jihadist cause. That cause was erasing US influence in West Asia. As a
+      public service, particularly for US citizens unfamiliar with Islam, I want to
+      attempt to define three terms: Wahhabism, Salafism and Takfiri. I am sure there
+      are Islamic scholars who may take issue with my attempt to clarify the meaning
+      of these words. I apologize in advance for my errors. But there are some important
+      nuances here that Americans must understand in order to not be blinded by hate,
+      and end up supporting self-destructive policies and interventions, especially
+      in West Asia. WAHHABISM Wahhabism is a strict, puritanical reform movement within
+      Sunni Islam founded in the 18th century by Muhammad ibn Abd al-Wahhab (1703–1792)
+      in the Arabian Peninsula, particularly in what is now Saudi Arabia. It is a subset
+      of Salafism, advocating a return to the practices of the Salaf al-Salih (the “pious
+      predecessors” of the first three generations of Muslims), emphasizing a literalist
+      interpretation of the Quran and Sunnah (Prophet Muhammad’s teachings) and rejecting
+      innovations ( bid‘ah ) or practices deemed un-Islamic, such as saint veneration
+      or certain Sufi rituals. Core Tenets Tawhid (Monotheism) : Central to Wahhabism
+      is the absolute oneness of God, rejecting any form of shirk (polytheism), including
+      shrine worship or intercession by saints. Rejection of Bid‘ah : Wahhabis condemn
+      practices not explicitly supported by early Islamic texts, such as celebrating
+      the Prophet’s birthday or elaborate rituals. Strict Jurisprudence : Relies on
+      Hanbali fiqh (Islamic law) and direct interpretation of texts, often bypassing
+      later scholarly traditions. Moral Enforcement : Emphasizes enforcing Islamic morality,
+      historically through practices like destroying shrines or enforcing dress codes.
+      Wahhabism is often considered a precursor to or a branch of Salafism , sharing
+      its focus on early Islam and rejection of innovations. However, not all Salafists
+      identify as Wahhabis , and some modern Salafists distance themselves from the
+      term due to its association with Saudi politics or extremism. Wahhabis are sometimes
+      called “Salafists of the Najd” (referring to their Arabian origin), distinguishing
+      them from broader Salafi movements. SALAFIST The term Salafist (or Salafi) refers
+      to a follower of Salafism , an ultraconservative, reformist movement within Sunni
+      Islam that advocates a return to the practices and beliefs of the Salaf al-Salih
+      (“pious predecessors”), the first three generations of Muslims (roughly 610–710
+      CE). These include the Prophet Muhammad, his companions (Sahaba), their followers
+      (Tabi‘un), and the next generation (Tabi‘ al-Tabi‘in). Salafists aim to emulate
+      this era’s perceived pure, unadulterated Islam, rejecting later innovations (
+      bid‘ah ) and emphasizing strict adherence to the Quran, Sunnah (Prophet’s traditions),
+      and a literalist interpretation of Islamic texts. Salafism is not monolithic and
+      includes three main tendencies: Purist/Quietist Salafism : Focuses on personal
+      piety, education, and avoiding politics. Common in Saudi Arabia, these Salafists
+      prioritize religious purity and often align with state authorities, rejecting
+      rebellion (e.g., scholars like Muhammad ibn al-Uthaymin). Political/Activist Salafism
+      : Engages in political reform, often criticizing Muslim governments for un-Islamic
+      policies while avoiding violence. They may support democratic processes or social
+      activism. Jihadi-Salafism : A militant minority that justifies violence to establish
+      Islamic governance, often linked to groups like al-Qaeda or ISIS. They use Salafist
+      rhetoric but are condemned by other Salafists for extremism and takfir (declaring
+      Muslims apostates). For example, jihadi-Salafists like Abu Musab al-Zarqawi fueled
+      sectarian violence in Iraq. Salafism emerged in the 19th century as a response
+      to Western colonialism and perceived Islamic decline, influenced by scholars like
+      Muhammad ibn Abd al-Wahhab (founder of Wahhabism , a Salafist precursor) and later
+      by Rashid Rida and Muhammad Abduh. It gained traction in the 20th century, fueled
+      by Saudi Arabia’s global promotion of Wahhabi-Salafist teachings through mosques
+      and schools. Estimates suggest 50-100 million Salafists worldwide, with significant
+      presence in Saudi Arabia, Egypt, and diaspora communities. Critics, including
+      many Muslims, view Salafism as rigid, intolerant, or a gateway to extremism, especially
+      due to jihadi-Salafist actions. Shia and Sufi groups often face Salafist criticism
+      for practices deemed un-Islamic. Core Beliefs and Practices Theological Foundation
+      : Salafists prioritize tawhid (God’s absolute oneness), opposing practices they
+      view as polytheistic ( shirk ), like venerating saints or shrines. They rely heavily
+      on hadith (Prophet’s sayings) and reject speculative theology ( kalam ). Rejection
+      of Innovation : They oppose practices not explicitly endorsed by the Salaf, such
+      as certain Sufi rituals or modern cultural influences, viewing them as deviations.
+      Scriptural Literalism : Salafists advocate a direct, text-based approach, often
+      bypassing traditional Islamic legal schools (e.g., Hanafi, Maliki) in favor of
+      their own interpretations of primary sources. TAKFIRI The term Takfiri is an Arabic
+      word derived from “takfir,” which refers to the act of a Muslim declaring another
+      Muslim an apostate ( kafir , meaning “unbeliever”) who has abandoned Islam. A
+      Takfiri is a Muslim who engages in this practice, accusing fellow Muslims of apostasy,
+      often to justify violence or exclusion against them. This declaration is considered
+      serious in Islamic jurisprudence, as traditional interpretations reserve such
+      judgments for Islamic scholars (ulama) under strict conditions, like denying core
+      tenets of faith (e.g., the five pillars). Misuse of takfir is widely viewed as
+      a major sin, with one hadith stating that wrongly declaring a Muslim an unbeliever
+      makes the accuser themselves guilty of minor shirk (associating partners with
+      God). Historically, the term is tied to extremist groups like the 7th-century
+      Kharijites, who used takfir against both Sunni and Shia Muslims, fueling insurrections.
+      In modern contexts, Takfiri ideology is associated with jihadist groups (e.g.,
+      ISIS, al-Qaeda, GIA, Boko Haram) who label Muslims, governments, or entire societies
+      as apostates to sanction attacks, often citing thinkers like Sayyid Qutb or Ibn
+      Taymiyyah. For example, during the Algerian Civil War (1991–2002), the GIA declared
+      civilians and non-members kafir, justifying massacres. Mainstream Muslim scholars,
+      such as Hasan al-Hudaybi and Yusuf al-Qaradawi, denounce Takfiri practices as
+      un-Islamic and divisive, emphasizing that only God can fully judge faith. The
+      term is also politically charged. Shia groups, like Iran’s regime, use “ Takfiri
+      ” pejoratively against Sunni militants (e.g., labeling all anti-Syrian regime
+      fighters as Takfiris), while Sunni extremists apply it to Shias or secular Muslims.
+      On platforms like X, it’s debated as a divisive label, with some users framing
+      it as a tool to demonize ideological opponents or protect orthodoxy, while others
+      criticize its misuse to stoke sectarianism. In essence, Takfiri describes those
+      who weaponize excommunication within Islam, often with violent consequences, though
+      its application varies by context and user. Here is the ultimate irony — some
+      of the most passionate Salafists are not religious. They use the words and concepts
+      to justify violence, such as what is now unfolding in Syria. I believe that the
+      vast majority of Islamic clerics eschew violence as the path forward. I await
+      your push-back. I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article highlights the contradiction in U.S. foreign policy,
+      where the government has supported a leader of a terrorist group, Mohammad al
+      Jolani, despite previously labeling his organization, Hayat Tahrir al-Sham, as
+      one of the world's top terrorist threats, to counteract greater risks in Syria.
+    paragraph_summary: The article discusses the complex and contradictory role of the
+      United States in Syria, particularly regarding its interactions with extremist
+      groups like Hayat Tahrir al-Sham (HTS), led by Mohammad al Jolani. Despite HTS
+      being classified as a top terrorist organization by the US State Department and
+      a bounty placed on Jolani's head, US Ambassador Jim Jeffrey acknowledged that
+      the US has engaged with HTS as a "necessary partner" to prevent worse outcomes
+      in the region, such as increased Russian or Iranian influence or a resurgence
+      of ISIS. This engagement included indirect communications during the Trump administration,
+      where HTS expressed a desire to be seen as allies rather than terrorists. The
+      article highlights the hypocrisy in the US's stance on Islamic terrorism, as it
+      has simultaneously justified military interventions while providing support to
+      groups it officially labels as terrorists.
+    published: '2025-07-21T03:39:28+00:00'
+  - title: 'From Manifesto to Policy: How Armenian Prime Minister Nikol Pashinyan’s
+      2005 Vision Served Globalist Objectives'
+    url: https://sonar21.com/from-manifesto-to-policy-how-armenian-prime-minister-nikol-pashinyans-2005-vision-served-globalist-objectives/
+    text: 'David Davidian If one were a strategic globalist, neoconservative (neoliberal
+      interventionist, if you wish) policy maker, whose goal was the global economic
+      supremacy of the United States, the strategic incapacitation of both Russia and
+      China would be mandatory. We witness these efforts today, especially in proxy
+      engagements by players such as Ukraine, Israel, Turkey, and even smaller proxies
+      such as those in the Southern Caucasus: Azerbaijan, Georgia, and Armenia. Part
+      of the globalist strategy includes reducing the influence of states with large
+      ethnic blocs that do not serve the globalist agenda. Emerging states that are
+      still defining their national ethos, such as Ukraine and Azerbaijan, are easy
+      targets. Others, such as Japan and Armenia, both of which are nearly monoethnic
+      (98%) and whose national identities are rooted in millennia of history, should
+      top the list for globalist deconstruction. The former’s mono-ethnicity is tough
+      to crack, but the latter is a different story. Japan is an industrial and technological
+      entity with a population of about 125M people that generally supports Western
+      interests. Japan’s economic prowess has declined for at least two decades due
+      partly to policies strongly suggested by the US. Since WWII, Japan’s culture is
+      a blend of Western and traditional culture, with de-militarization constitutionally
+      upheld. Even with over 50,000 US soldiers stationed in Japan, the Japanese constitution
+      has been reinterpreted to allow Japan to maintain self-defense forces and engage
+      in limited military activities. Japan serves the interests of globalists, as is.
+      Western European societies have been stirred with massive immigration from wars
+      in North Africa, Western Asia, and Ukraine. What once may have been traditional
+      French or Italian positions have been strongly modulated by enormous immigration
+      and an EU superstructure that sets policies invoked by individuals whose positions
+      were attained by multiple levels of indirect voting and appointment. Yet the system
+      is not entirely devoid of accountability; full sovereignty of EU member states
+      has been compromised. The staunch anti-Russian behavior of the EU regarding Russia’s
+      Special Military Operation in Ukraine should be considered a victory for globalists
+      However, states such as Ukraine and Azerbaijan were born out of the disintegration
+      of Tsarist Russia, and neither existed as states before 1918, after which both
+      were absorbed into the Soviet Union. The Ukrainian People’s Republic was proclaimed
+      in 1917 with Kiev as its capital, and the Republic of Azerbaijan in the spring
+      of 1918. Both were geo-ethnic entities in search of a national ethos. Ukraine
+      became anti-Russian to the point of neo-Nazism by WWII, and Azerbaijan was encouraged
+      to magnify its Turkic element at the expense of its Iranian traditions. The Republic
+      of Turkey, having its Western reconditioning, ushered in by Mustafa Kemal, created
+      the core of Azerbaijan’s Turkic-centricity and was encouraged by the Soviets to
+      a certain extent to counter Armenian national aspirations, especially after the
+      catastrophic 1915 Turkish genocide of the Armenians. With the Ukrainian national
+      ethos in conditional flux, its anti-Russian persuasion was used both during the
+      Cold War and after, culminating in the 2014 coup organized by the West and subsequent
+      existential threat to Russian interests. Newly formed states with national ethos
+      still in flux are in danger of their emergent ethos being manipulated in the interests
+      of stronger powers. Even established societies were in danger of deconstruction.
+      A goal of Soviet social engineering was deconstructing constituent ethnicities
+      and constructing a Homo Sovieticus population. However, none of this reflects
+      cultures that naturally evolve. Neoconservative/neoliberal globalists are constantly
+      in search of allies, proxies, social movements that can be co-opted, weaker states
+      that can be manipulated by promises, covert intervention, and personal gain by
+      those either in power or who can replace incumbents. Their goal is long-term,
+      and the strategy is to use or engender (including regime change) any proxy that
+      can either engage Russia (and eventually China), ideally surrounding Russia with
+      multiple conflicts, hoping it would fold like the Soviet Union. A classic example
+      was the rise to power of Georgia’s Mikael Saakashvilli, who became the darling
+      of the West by adopting an anti-Russia, pro-EU policy, with aspirations to join
+      NATO. The West gave him enough rope that he instigated the 2008 war with Russia,
+      with the West sitting back and watching as Georgia lost territory to Russia. Saakashvilli
+      came to power with an overtly Western-supported anti-corruption (read as anti-Russian)
+      platform. Indeed, Saakashvilli implemented positive local changes that can be
+      observed today, but had a short shelf life. He was voted out of power, and today,
+      Georgia does not view Russia as the threat once perceived. China has invested
+      heavily in Georgia, which is in contrast to the West, which, in 2022, suggested
+      Georgia open up a second front against Russia. Georgia wisely decided against
+      political suicide. Ultimately, Georgia’s EU dream dissolved into the illusion
+      it had always been. Armenia does not share a border with Russia; Georgia is squeezed
+      between them and Azerbaijan. Armenia was an active member of the Moscow-led CSTO
+      (the Collective Security Treaty Organization) and is a member of the Eurasian
+      Economic Union (EAEU or EEU). Much of Armenia’s infrastructure is owned by Russian
+      interests, and over 90% of its hydrocarbon imports are from Russia. Russian soldiers
+      guarded Armenia’s border with Turkey – but not anymore. Russia has a long-term
+      agreement with Armenia to host the Russian 102nd Military Base in Gyumri, Armenia.
+      In 2018, Pashinyan came to power in a Western-supported movement that ousted the
+      previous pro-Russian government, widely seen as corrupt, creating the centerpiece
+      of a narrative that Armenia’s financial problems would be solved by eliminating
+      the incumbents. Pashinyan’s movement was not openly anti-Russian, considering
+      Armenia’s strong economic ties with Russia. However, it did not take long for
+      Pashinyan and his appointees to consolidate power across the board. Pashinyan
+      presided over the engineered defeat of Nagorno-Karabakh, conceding to Azerbaijan’s
+      conquest of that land. Pashinyan was immediately re-elected in the aftermath of
+      the post-war chaos. In 2023, Azerbaijan ethnically cleansed 120,000 Armenians
+      from Nagorno-Karabakh. Pashinyan referred to Nagorno-Karabakh as a significant
+      burden on Armenia. Any leverage that Russia had over both Armenia and Azerbaijan
+      with the frozen Nagorno-Karabakh conflict was removed. Azerbaijan’s border with
+      Iran expanded by over 200 km and became ripe for clandestine operations against
+      Iran, particularly Israel. There are discussions about connecting the rump of
+      Azerbaijan with its exclave Nakhichevan across southern Armenia at the Iranian
+      border. Such a corridor, called the Zangezur Corridor, would connect Turkey with
+      Azerbaijan and on to Turkic central Asia, greatly enhancing an east-west Turkic-run
+      trade route at the expense of a north-south China-India-Iranian-Russian (the latter
+      across the Caspian, through Azerbaijan, or Armenia into Georgia). Iran vehemently
+      opposes such a cutoff of its border with Armenia, since this corridor may not
+      be under sovereign Armenian control. Leaks have emerged about this corridor being
+      run by an agent under US supervision. Surely, Russia and Iran (India and China)
+      will not sit idly by and allow this to happen.'
+    one_sentence_summary: The article discusses how strategic globalist policymakers
+      aim to weaken Russia and China through proxy conflicts involving countries like
+      Ukraine, Israel, and Azerbaijan, while also targeting states with strong ethnic
+      identities, such as Armenia, for potential destabilization.
+    paragraph_summary: The article by David Davidian discusses the strategic goals of
+      globalist, neoconservative policymakers aiming for U.S. economic supremacy by
+      incapacitating rivals like Russia and China. It highlights current proxy conflicts
+      involving nations such as Ukraine, Israel, and Turkey, as well as smaller states
+      in the Southern Caucasus, which are seen as targets for globalist influence. The
+      author emphasizes the challenge of undermining countries with strong national
+      identities, like Japan and Armenia, while noting Japan's historical alignment
+      with Western interests despite its declining economic power and constitutional
+      demilitarization. The article also points to the impact of massive immigration
+      on traditional European societies, suggesting that the EU's policies, influenced
+      by indirect voting, have reshaped national identities and positions across Europe.
+    published: '2025-07-20T14:00:00+00:00'
+  - title: 'From Manifesto to Policy: How Armenian Prime Minister Nikol Pashinyan’s
+      2005 Vision Served Globalist Objectives'
+    url: https://sonar21.com/from-manifesto-to-policy-how-armenian-prime-minister-nikol-pashinyans-2005-vision-served-globalist-objectives/
+    text: 'David Davidian If one were a strategic globalist, neoconservative (neoliberal
+      interventionist, if you wish) policy maker, whose goal was the global economic
+      supremacy of the United States, the strategic incapacitation of both Russia and
+      China would be mandatory. We witness these efforts today, especially in proxy
+      engagements by players such as Ukraine, Israel, Turkey, and even smaller proxies
+      such as those in the Southern Caucasus: Azerbaijan, Georgia, and Armenia. Part
+      of the globalist strategy includes reducing the influence of states with large
+      ethnic blocs that do not serve the globalist agenda. Emerging states that are
+      still defining their national ethos, such as Ukraine and Azerbaijan, are easy
+      targets. Others, such as Japan and Armenia, both of which are nearly monoethnic
+      (98%) and whose national identities are rooted in millennia of history, should
+      top the list for globalist deconstruction. The former’s mono-ethnicity is tough
+      to crack, but the latter is a different story. Japan is an industrial and technological
+      entity with a population of about 125M people that generally supports Western
+      interests. Japan’s economic prowess has declined for at least two decades due
+      partly to policies strongly suggested by the US. Since WWII, Japan’s culture is
+      a blend of Western and traditional culture, with de-militarization constitutionally
+      upheld. Even with over 50,000 US soldiers stationed in Japan, the Japanese constitution
+      has been reinterpreted to allow Japan to maintain self-defense forces and engage
+      in limited military activities. Japan serves the interests of globalists, as is.
+      Western European societies have been stirred with massive immigration from wars
+      in North Africa, Western Asia, and Ukraine. What once may have been traditional
+      French or Italian positions have been strongly modulated by enormous immigration
+      and an EU superstructure that sets policies invoked by individuals whose positions
+      were attained by multiple levels of indirect voting and appointment. Yet the system
+      is not entirely devoid of accountability; full sovereignty of EU member states
+      has been compromised. The staunch anti-Russian behavior of the EU regarding Russia’s
+      Special Military Operation in Ukraine should be considered a victory for globalists
+      However, states such as Ukraine and Azerbaijan were born out of the disintegration
+      of Tsarist Russia, and neither existed as states before 1918, after which both
+      were absorbed into the Soviet Union. The Ukrainian People’s Republic was proclaimed
+      in 1917 with Kiev as its capital, and the Republic of Azerbaijan in the spring
+      of 1918. Both were geo-ethnic entities in search of a national ethos. Ukraine
+      became anti-Russian to the point of neo-Nazism by WWII, and Azerbaijan was encouraged
+      to magnify its Turkic element at the expense of its Iranian traditions. The Republic
+      of Turkey, having its Western reconditioning, ushered in by Mustafa Kemal, created
+      the core of Azerbaijan’s Turkic-centricity and was encouraged by the Soviets to
+      a certain extent to counter Armenian national aspirations, especially after the
+      catastrophic 1915 Turkish genocide of the Armenians. With the Ukrainian national
+      ethos in conditional flux, its anti-Russian persuasion was used both during the
+      Cold War and after, culminating in the 2014 coup organized by the West and subsequent
+      existential threat to Russian interests. Newly formed states with national ethos
+      still in flux are in danger of their emergent ethos being manipulated in the interests
+      of stronger powers. Even established societies were in danger of deconstruction.
+      A goal of Soviet social engineering was deconstructing constituent ethnicities
+      and constructing a Homo Sovieticus population. However, none of this reflects
+      cultures that naturally evolve. Neoconservative/neoliberal globalists are constantly
+      in search of allies, proxies, social movements that can be co-opted, weaker states
+      that can be manipulated by promises, covert intervention, and personal gain by
+      those either in power or who can replace incumbents. Their goal is long-term,
+      and the strategy is to use or engender (including regime change) any proxy that
+      can either engage Russia (and eventually China), ideally surrounding Russia with
+      multiple conflicts, hoping it would fold like the Soviet Union. A classic example
+      was the rise to power of Georgia’s Mikael Saakashvilli, who became the darling
+      of the West by adopting an anti-Russia, pro-EU policy, with aspirations to join
+      NATO. The West gave him enough rope that he instigated the 2008 war with Russia,
+      with the West sitting back and watching as Georgia lost territory to Russia. Saakashvilli
+      came to power with an overtly Western-supported anti-corruption (read as anti-Russian)
+      platform. Indeed, Saakashvilli implemented positive local changes that can be
+      observed today, but had a short shelf life. He was voted out of power, and today,
+      Georgia does not view Russia as the threat once perceived. China has invested
+      heavily in Georgia, which is in contrast to the West, which, in 2022, suggested
+      Georgia open up a second front against Russia. Georgia wisely decided against
+      political suicide. Ultimately, Georgia’s EU dream dissolved into the illusion
+      it had always been. Armenia does not share a border with Russia; Georgia is squeezed
+      between them and Azerbaijan. Armenia was an active member of the Moscow-led CSTO
+      (the Collective Security Treaty Organization) and is a member of the Eurasian
+      Economic Union (EAEU or EEU). Much of Armenia’s infrastructure is owned by Russian
+      interests, and over 90% of its hydrocarbon imports are from Russia. Russian soldiers
+      guarded Armenia’s border with Turkey – but not anymore. Russia has a long-term
+      agreement with Armenia to host the Russian 102nd Military Base in Gyumri, Armenia.
+      In 2018, Pashinyan came to power in a Western-supported movement that ousted the
+      previous pro-Russian government, widely seen as corrupt, creating the centerpiece
+      of a narrative that Armenia’s financial problems would be solved by eliminating
+      the incumbents. Pashinyan’s movement was not openly anti-Russian, considering
+      Armenia’s strong economic ties with Russia. However, it did not take long for
+      Pashinyan and his appointees to consolidate power across the board. Pashinyan
+      presided over the engineered defeat of Nagorno-Karabakh, conceding to Azerbaijan’s
+      conquest of that land. Pashinyan was immediately re-elected in the aftermath of
+      the post-war chaos. In 2023, Azerbaijan ethnically cleansed 120,000 Armenians
+      from Nagorno-Karabakh. Pashinyan referred to Nagorno-Karabakh as a significant
+      burden on Armenia. Any leverage that Russia had over both Armenia and Azerbaijan
+      with the frozen Nagorno-Karabakh conflict was removed. Azerbaijan’s border with
+      Iran expanded by over 200 km and became ripe for clandestine operations against
+      Iran, particularly Israel. There are discussions about connecting the rump of
+      Azerbaijan with its exclave Nakhichevan across southern Armenia at the Iranian
+      border. Such a corridor, called the Zangezur Corridor, would connect Turkey with
+      Azerbaijan and on to Turkic central Asia, greatly enhancing an east-west Turkic-run
+      trade route at the expense of a north-south China-India-Iranian-Russian (the latter
+      across the Caspian, through Azerbaijan, or Armenia into Georgia). Iran vehemently
+      opposes such a cutoff of its border with Armenia, since this corridor may not
+      be under sovereign Armenian control. Leaks have emerged about this corridor being
+      run by an agent under US supervision. Surely, Russia and Iran (India and China)
+      will not sit idly by and allow this to happen.'
+    one_sentence_summary: The article discusses how strategic globalist policymakers
+      aim to weaken Russia and China through proxy conflicts involving countries like
+      Ukraine, Israel, and Azerbaijan, while also targeting states with strong ethnic
+      identities, such as Armenia, for potential destabilization.
+    paragraph_summary: The article by David Davidian discusses the strategic goals of
+      globalist, neoconservative policymakers aiming for U.S. economic supremacy by
+      incapacitating rivals like Russia and China. It highlights current proxy conflicts
+      involving nations such as Ukraine, Israel, and Turkey, as well as smaller states
+      in the Southern Caucasus, which are seen as targets for globalist influence. The
+      author emphasizes the challenge of undermining countries with strong national
+      identities, like Japan and Armenia, while noting Japan's historical alignment
+      with Western interests despite its declining economic power and constitutional
+      demilitarization. The article also points to the impact of massive immigration
+      on traditional European societies, suggesting that the EU's policies, influenced
+      by indirect voting, have reshaped national identities and positions across Europe.
+    published: '2025-07-20T14:00:00+00:00'
+  - title: The CIA Initiated an Intelligence and Terrorist War on Russia Based on a
+      Lie
+    url: https://sonar21.com/classic-example-of-the-problem-with-the-cia/
+    text: 'Biden’s CIA Direct, Bill Burns Foreign Policy published an article last week
+      by Tim Weiner, author of Legacy of Ashes , with the title, When the Threat Is
+      Inside the White House: What CIA insiders make of the MAGA moles and toadies now
+      in charge of U.S. national security . While the intent of the article is to paint
+      Trump and his team as a bunch of Russian toadies, Weiner unwittingly paints a
+      picture of the CIA’s leadership as biased operators with no understanding of Russia…
+      They still think they are engaging a communist authoritarian state. Here’s the
+      opening paragraph: If our nation’s spies are the infantry of our ideology, as
+      John Le Carré once observed, Tom Sylvester is an unknown soldier who became a
+      four-star general. Two years ago, he was named the CIA’s deputy director of operations,
+      in charge of thousands of officers conducting espionage, covert action, and paramilitary
+      operations. He won the job by virtue of his role in stealing Russia’s war plans
+      for Ukraine, warning the world about the coming invasion, and providing steadfast
+      support to Kyiv’s military and intelligence services. Weiner credits Sylvester
+      with “stealing Russia’s war plans for Ukraine,” but completely ignores the role
+      the CIA played in provoking Russia’s invasion of Ukraine. The entire narrative
+      surrounding Sylvester’s actions is constructed around the premise that Russia
+      is a bad, evil actor and that its actions have nothing to do with Western provocations,
+      especially the expansion of NATO to the East. The next “highlight” from Weiner’s
+      piece provides an excellent example of the CIA’s bias and ignorance when it comes
+      to Russia: In the summer of 2017, Sylvester received new marching orders from
+      Tomas Rakusan, the new chief of the clandestine service, whose identity remained
+      a state secret until after his retirement. Rakusan had spied on Russia since before
+      the end of the Cold War, operating throughout Central and Eastern Europe. His
+      hatred of the Russians was bred in the bone. His parents were Czech; he was 9
+      years old when Soviet troops crushed the Prague Spring uprising in 1968. Rakusan
+      saw Russian President Vladimir Putin’s subversion of the presidential election
+      on Trump’s behalf as the espionage equivalent of 9/11. In retaliation, he aimed
+      to penetrate the Kremlin—among the greatest aspirations of the CIA since its foundation,
+      and a goal never achieved. Hatred of Russians? It is one thing to despise the
+      Soviet Union, which was governed by a Communist ideology. But the “End of the
+      Cold War” was marked by the peaceful overthrow of a communist government and the
+      creation of a new Russian government that emphasized nationalism and Christianity.
+      So how is that a threat to the United States? Moreover, during the decade of the
+      1990s, Russia’s military was in disarray and the society was ravaged by economic
+      crisis, which included two periods of hyperinflation, widespread poverty among
+      the Russian people, and a dramatic decline in life expectancy among Russian men.
+      This did not age well: “ Rakusan saw Russian President Vladimir Putin’s subversion
+      of the presidential election on Trump’s behalf as the espionage equivalent of
+      9/11. ” Tulsi Gabbard’s declassification of intelligence documents and emails
+      from various members of the CIA and other intelligence officials on Friday, shows
+      that Rakusan either had his head up his ass or was part of the conspiracy to attack
+      Donald Trump with a lie (or both). The memo carries the following subject line:
+      Intelligence Community suppression of intelligence showing “Russian and criminal
+      actors did not impact” the 2016 presidential election via cyber-attacks on infrastructure.
+      I am sure this caught Tim Weiner by surprise. Certainly takes the wind out of
+      his sails as he tries to portray the CIA as a saintly, honest outfit being undermined
+      by a President who is in the pocket of Putin. The next couple of paragraphs from
+      Weiner paint a picture of Western intelligence ramping up against Russia, but
+      also exposes CIA’s impotence with respect to human intelligence assets in Russia:
+      By the summer of 2020, CIA officers were working in close liaison with the British,
+      Dutch, Ukrainians, Poles, Czechs, Estonians, and many other services against the
+      Russians. “There was the strategic decision on how we would share intelligence,”
+      Sylvester said. “We used it as an influence mechanism, in and of itself, to get
+      governments to start cooperating with us.” This hard-won trust “allowed them to
+      open up taps of cooperation and intelligence that they had theretofore not shared
+      with us,” he added. The CIA and its foreign allies were cross-fertilizing intelligence,
+      choreographing operations, and, most importantly, recruiting Russian sources.
+      The CIA had been able to “push back against the Russian services” largely by “working
+      with liaison partners overseas to expose and disrupt Russian intelligence activities,”
+      then-CIA Director William Burns told me last year. “And then what we tried to
+      build on that, starting in the spring of 2021, was the recruitment dimension of
+      this,” he said. “This was really, especially once the war drums started beating,
+      a once-in-a-generation opportunity, given the disaffection in some parts of the
+      Russian elite and Russian society” against Putin’s regime. This quote jumped off
+      the page for me: largely by “working with liaison partners overseas to expose
+      and disrupt Russian intelligence activities.” That is a polite way of saying that
+      the the CIA had no assets of its own and was relying on foreign intelligence services,
+      with the bulk of the information coming from Ukraine. And note the significance
+      of the “spring of 2021;” Biden was newly installed as President and the effort
+      to go after Russia on a more intense basis was kicked into high gear . Burn’s
+      comment to Weiner is also quite instructive… It shows a mistaken belief on the
+      part of the Director of the CIA about the stability of the Russian government
+      (i.e., given the disaffection in some parts of the Russian elite and Russian society”
+      against Putin’s regime) and is an implicit admission that the CIA had embarked
+      on a program to try to ignite a new color revolution in Russia. This is not my
+      opinion… Weiner’s piece makes that clear in this paragraph: Kyiv’s spy services,
+      rebuilt by the CIA after Putin seized Crimea and other parts of eastern Ukraine
+      in 2014, had become one of Washington’s best sources of intelligence on the Russians;
+      the CIA was becoming the Ukrainians’ best defense against them. “It was probably
+      one of the best investments that the CIA, the U.S. government, has made,” Sylvester
+      said; it had created “the trust, the confidence, the ability in times of need
+      to feel like you were in the trenches together.” By the fall of 2021, the CIA
+      had given the Ukrainians a graduate course in espionage and paramilitary operations,
+      along with the ability to understand and utilize a steady stream of U.S. intelligence.
+      I will close with this amazing, but not surprising, revelation from Weiner. He
+      describes Rakusan’s fury in the aftermath of Trump’s election, and Rakusan’s desperate,
+      dangerous actions: “The Russians manipulated our fucking elections,” he told them.
+      “How do we make sure this never happens again?” He didn’t care if they didn’t
+      speak Russian or had never set foot in Moscow. He ordered them to take their expertise
+      in targeting and recruiting terrorists and turn it against Russian spies, diplomats,
+      and oligarchs. Got that? “Recruit terrorists!” I don’t ever want to hear another
+      damn word about the US fighting a war on terrorism when we have an admission from
+      the top operations officer in the CIA telling his boys and girls to recruit terrorists,
+      who will be used to attack Russia. I am sure the Russians have read Mr. Weiner’s
+      piece and have taken notice of this fact. I suspect they already knew that. Based
+      on Weiner’s article, we now know that the US launched an intelligence war on Russia
+      based completely on a lie. And the senior leaders of the CIA went along with it.
+      In my view, the CIA ought to be dismantled and cast to the four winds. We need
+      to start over with some people of actual intelligence. I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: An article by Tim Weiner critiques the CIA's leadership as
+      biased and out of touch with the realities of Russia, while attempting to depict
+      Trump and his team as aligned with Russian interests.
+    paragraph_summary: In a recent article by Tim Weiner, titled "When the Threat Is
+      Inside the White House," the portrayal of former President Trump and his associates
+      as Russian sympathizers inadvertently reveals biases within the CIA's leadership,
+      particularly regarding their understanding of Russia. Weiner highlights Tom Sylvester,
+      the CIA's deputy director of operations, and his role in acquiring Russian war
+      plans for Ukraine, framing Russia as the sole aggressor without acknowledging
+      the provocations from the West, such as NATO's eastward expansion. The article
+      suggests that the CIA's narrative is steeped in a simplistic view of Russia as
+      an evil actor, reflecting a deeper misunderstanding of the geopolitical dynamics
+      at play and showcasing the agency's entrenched biases against Russia, as exemplified
+      by the long-standing animosity of figures like Tomas Rakusan, the chief of the
+      clandestine service.
+    published: '2025-07-20T01:59:27+00:00'
+  - title: The CIA Initiated an Intelligence and Terrorist War on Russia Based on a
+      Lie
+    url: https://sonar21.com/classic-example-of-the-problem-with-the-cia/
+    text: 'Biden’s CIA Direct, Bill Burns Foreign Policy published an article last week
+      by Tim Weiner, author of Legacy of Ashes , with the title, When the Threat Is
+      Inside the White House: What CIA insiders make of the MAGA moles and toadies now
+      in charge of U.S. national security . While the intent of the article is to paint
+      Trump and his team as a bunch of Russian toadies, Weiner unwittingly paints a
+      picture of the CIA’s leadership as biased operators with no understanding of Russia…
+      They still think they are engaging a communist authoritarian state. Here’s the
+      opening paragraph: If our nation’s spies are the infantry of our ideology, as
+      John Le Carré once observed, Tom Sylvester is an unknown soldier who became a
+      four-star general. Two years ago, he was named the CIA’s deputy director of operations,
+      in charge of thousands of officers conducting espionage, covert action, and paramilitary
+      operations. He won the job by virtue of his role in stealing Russia’s war plans
+      for Ukraine, warning the world about the coming invasion, and providing steadfast
+      support to Kyiv’s military and intelligence services. Weiner credits Sylvester
+      with “stealing Russia’s war plans for Ukraine,” but completely ignores the role
+      the CIA played in provoking Russia’s invasion of Ukraine. The entire narrative
+      surrounding Sylvester’s actions is constructed around the premise that Russia
+      is a bad, evil actor and that its actions have nothing to do with Western provocations,
+      especially the expansion of NATO to the East. The next “highlight” from Weiner’s
+      piece provides an excellent example of the CIA’s bias and ignorance when it comes
+      to Russia: In the summer of 2017, Sylvester received new marching orders from
+      Tomas Rakusan, the new chief of the clandestine service, whose identity remained
+      a state secret until after his retirement. Rakusan had spied on Russia since before
+      the end of the Cold War, operating throughout Central and Eastern Europe. His
+      hatred of the Russians was bred in the bone. His parents were Czech; he was 9
+      years old when Soviet troops crushed the Prague Spring uprising in 1968. Rakusan
+      saw Russian President Vladimir Putin’s subversion of the presidential election
+      on Trump’s behalf as the espionage equivalent of 9/11. In retaliation, he aimed
+      to penetrate the Kremlin—among the greatest aspirations of the CIA since its foundation,
+      and a goal never achieved. Hatred of Russians? It is one thing to despise the
+      Soviet Union, which was governed by a Communist ideology. But the “End of the
+      Cold War” was marked by the peaceful overthrow of a communist government and the
+      creation of a new Russian government that emphasized nationalism and Christianity.
+      So how is that a threat to the United States? Moreover, during the decade of the
+      1990s, Russia’s military was in disarray and the society was ravaged by economic
+      crisis, which included two periods of hyperinflation, widespread poverty among
+      the Russian people, and a dramatic decline in life expectancy among Russian men.
+      This did not age well: “ Rakusan saw Russian President Vladimir Putin’s subversion
+      of the presidential election on Trump’s behalf as the espionage equivalent of
+      9/11. ” Tulsi Gabbard’s declassification of intelligence documents and emails
+      from various members of the CIA and other intelligence officials on Friday, shows
+      that Rakusan either had his head up his ass or was part of the conspiracy to attack
+      Donald Trump with a lie (or both). The memo carries the following subject line:
+      Intelligence Community suppression of intelligence showing “Russian and criminal
+      actors did not impact” the 2016 presidential election via cyber-attacks on infrastructure.
+      I am sure this caught Tim Weiner by surprise. Certainly takes the wind out of
+      his sails as he tries to portray the CIA as a saintly, honest outfit being undermined
+      by a President who is in the pocket of Putin. The next couple of paragraphs from
+      Weiner paint a picture of Western intelligence ramping up against Russia, but
+      also exposes CIA’s impotence with respect to human intelligence assets in Russia:
+      By the summer of 2020, CIA officers were working in close liaison with the British,
+      Dutch, Ukrainians, Poles, Czechs, Estonians, and many other services against the
+      Russians. “There was the strategic decision on how we would share intelligence,”
+      Sylvester said. “We used it as an influence mechanism, in and of itself, to get
+      governments to start cooperating with us.” This hard-won trust “allowed them to
+      open up taps of cooperation and intelligence that they had theretofore not shared
+      with us,” he added. The CIA and its foreign allies were cross-fertilizing intelligence,
+      choreographing operations, and, most importantly, recruiting Russian sources.
+      The CIA had been able to “push back against the Russian services” largely by “working
+      with liaison partners overseas to expose and disrupt Russian intelligence activities,”
+      then-CIA Director William Burns told me last year. “And then what we tried to
+      build on that, starting in the spring of 2021, was the recruitment dimension of
+      this,” he said. “This was really, especially once the war drums started beating,
+      a once-in-a-generation opportunity, given the disaffection in some parts of the
+      Russian elite and Russian society” against Putin’s regime. This quote jumped off
+      the page for me: largely by “working with liaison partners overseas to expose
+      and disrupt Russian intelligence activities.” That is a polite way of saying that
+      the the CIA had no assets of its own and was relying on foreign intelligence services,
+      with the bulk of the information coming from Ukraine. And note the significance
+      of the “spring of 2021;” Biden was newly installed as President and the effort
+      to go after Russia on a more intense basis was kicked into high gear . Burn’s
+      comment to Weiner is also quite instructive… It shows a mistaken belief on the
+      part of the Director of the CIA about the stability of the Russian government
+      (i.e., given the disaffection in some parts of the Russian elite and Russian society”
+      against Putin’s regime) and is an implicit admission that the CIA had embarked
+      on a program to try to ignite a new color revolution in Russia. This is not my
+      opinion… Weiner’s piece makes that clear in this paragraph: Kyiv’s spy services,
+      rebuilt by the CIA after Putin seized Crimea and other parts of eastern Ukraine
+      in 2014, had become one of Washington’s best sources of intelligence on the Russians;
+      the CIA was becoming the Ukrainians’ best defense against them. “It was probably
+      one of the best investments that the CIA, the U.S. government, has made,” Sylvester
+      said; it had created “the trust, the confidence, the ability in times of need
+      to feel like you were in the trenches together.” By the fall of 2021, the CIA
+      had given the Ukrainians a graduate course in espionage and paramilitary operations,
+      along with the ability to understand and utilize a steady stream of U.S. intelligence.
+      I will close with this amazing, but not surprising, revelation from Weiner. He
+      describes Rakusan’s fury in the aftermath of Trump’s election, and Rakusan’s desperate,
+      dangerous actions: “The Russians manipulated our fucking elections,” he told them.
+      “How do we make sure this never happens again?” He didn’t care if they didn’t
+      speak Russian or had never set foot in Moscow. He ordered them to take their expertise
+      in targeting and recruiting terrorists and turn it against Russian spies, diplomats,
+      and oligarchs. Got that? “Recruit terrorists!” I don’t ever want to hear another
+      damn word about the US fighting a war on terrorism when we have an admission from
+      the top operations officer in the CIA telling his boys and girls to recruit terrorists,
+      who will be used to attack Russia. I am sure the Russians have read Mr. Weiner’s
+      piece and have taken notice of this fact. I suspect they already knew that. Based
+      on Weiner’s article, we now know that the US launched an intelligence war on Russia
+      based completely on a lie. And the senior leaders of the CIA went along with it.
+      In my view, the CIA ought to be dismantled and cast to the four winds. We need
+      to start over with some people of actual intelligence. I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: An article by Tim Weiner critiques the CIA's leadership as
+      biased and out of touch with the realities of Russia, while attempting to depict
+      Trump and his team as aligned with Russian interests.
+    paragraph_summary: In a recent article by Tim Weiner, titled "When the Threat Is
+      Inside the White House," the portrayal of former President Trump and his associates
+      as Russian sympathizers inadvertently reveals biases within the CIA's leadership,
+      particularly regarding their understanding of Russia. Weiner highlights Tom Sylvester,
+      the CIA's deputy director of operations, and his role in acquiring Russian war
+      plans for Ukraine, framing Russia as the sole aggressor without acknowledging
+      the provocations from the West, such as NATO's eastward expansion. The article
+      suggests that the CIA's narrative is steeped in a simplistic view of Russia as
+      an evil actor, reflecting a deeper misunderstanding of the geopolitical dynamics
+      at play and showcasing the agency's entrenched biases against Russia, as exemplified
+      by the long-standing animosity of figures like Tomas Rakusan, the chief of the
+      clandestine service.
+    published: '2025-07-20T01:59:27+00:00'
+  - title: Almost $1 Billion is Not a Hoax
+    url: https://sonar21.com/almost-1-billion-is-not-a-hoax/
+    text: Trump’s White House is in damage-control mode over Trump’s meltdown over the
+      Jeffrey Epstein case. The eruption of anger among a large portion of Trump’s MAGA
+      base caught the Trump team with its pants down. Instead of putting the matter
+      to rest, Trump has created a veritable video Tsunami of substantive analyses that
+      is painting a dark picture of the US Government aiding and abetting a pedophile
+      ring. The so-called “list” of Epstein’s clients, as I have noted in a previous
+      piece, is a red herring. The real question is why the US Government has adamantly
+      refused to conduct a thorough investigation and indict wealthy, powerful men who
+      were busy bedding underage girls under the tutelage of Jeffrey Epstein. The image
+      at the top of this post was created by Ryan Dawson, who has been one of the key
+      citizen investigators since Epstein’s first arrest in 2006. The total settlements
+      paid out so far to the victims of Epstein’s pedophile ring is over $800 million.
+      How is that, as Trump stupidly claims, a hoax ? Only four people have been arrested
+      in the Epstein affair — Jeffrey and Ghislane in the US, and two men overseas.
+      Besides Epstein, the guy imprisoned in France also committed “suicide.” Notwithstanding
+      Trump’s lame attempt to insist there is nothing to see here , and his order to
+      release some grand jury testimony, he is now just one more member of a Deep State
+      cover up. What he should have done is ordered Attorney General Pam Bondi to empanel
+      a grand jury and go for indictments. Pathetic. If you want to understand the full
+      scope of the evil confronting us, I encourage you to watch the video of Tucker
+      Carlson interviewing Daryl Cooper and the video of Vive Frei with Mike Benz. This
+      is ugly, and I hope it does not go away. I also am posting my regular Friday chat
+      with Nima and my new Counter Currents interview with Alastair Crooke. In addition,
+      meet Mark Solar, a citizen of Switzerland who has started a new videocast. I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .
+    one_sentence_summary: Trump's administration is struggling to manage backlash from
+      his comments on the Jeffrey Epstein case, which have sparked anger among his supporters
+      and raised questions about the government's failure to investigate powerful individuals
+      involved in Epstein's crimes.
+    paragraph_summary: Trump's administration is struggling to manage the fallout from
+      his controversial comments regarding the Jeffrey Epstein case, which have angered
+      a significant portion of his MAGA base. Instead of calming the situation, Trump
+      has inadvertently fueled a wave of critical analyses that highlight the U.S. government's
+      failure to thoroughly investigate and prosecute powerful individuals involved
+      in Epstein's pedophile ring. The article emphasizes that the focus should not
+      be on the so-called "list" of Epstein's clients but rather on the government's
+      reluctance to hold wealthy perpetrators accountable. With over $800 million in
+      settlements paid to Epstein's victims and only a handful of arrests made, the
+      author criticizes Trump for downplaying the severity of the situation and suggests
+      that he should have taken more decisive action, such as empaneling a grand jury
+      for indictments. The piece also encourages viewers to engage with various interviews
+      and discussions that delve deeper into the troubling implications of the Epstein
+      scandal.
+    published: '2025-07-19T03:38:32+00:00'
+  - title: Almost $1 Billion is Not a Hoax
+    url: https://sonar21.com/almost-1-billion-is-not-a-hoax/
+    text: Trump’s White House is in damage-control mode over Trump’s meltdown over the
+      Jeffrey Epstein case. The eruption of anger among a large portion of Trump’s MAGA
+      base caught the Trump team with its pants down. Instead of putting the matter
+      to rest, Trump has created a veritable video Tsunami of substantive analyses that
+      is painting a dark picture of the US Government aiding and abetting a pedophile
+      ring. The so-called “list” of Epstein’s clients, as I have noted in a previous
+      piece, is a red herring. The real question is why the US Government has adamantly
+      refused to conduct a thorough investigation and indict wealthy, powerful men who
+      were busy bedding underage girls under the tutelage of Jeffrey Epstein. The image
+      at the top of this post was created by Ryan Dawson, who has been one of the key
+      citizen investigators since Epstein’s first arrest in 2006. The total settlements
+      paid out so far to the victims of Epstein’s pedophile ring is over $800 million.
+      How is that, as Trump stupidly claims, a hoax ? Only four people have been arrested
+      in the Epstein affair — Jeffrey and Ghislane in the US, and two men overseas.
+      Besides Epstein, the guy imprisoned in France also committed “suicide.” Notwithstanding
+      Trump’s lame attempt to insist there is nothing to see here , and his order to
+      release some grand jury testimony, he is now just one more member of a Deep State
+      cover up. What he should have done is ordered Attorney General Pam Bondi to empanel
+      a grand jury and go for indictments. Pathetic. If you want to understand the full
+      scope of the evil confronting us, I encourage you to watch the video of Tucker
+      Carlson interviewing Daryl Cooper and the video of Vive Frei with Mike Benz. This
+      is ugly, and I hope it does not go away. I also am posting my regular Friday chat
+      with Nima and my new Counter Currents interview with Alastair Crooke. In addition,
+      meet Mark Solar, a citizen of Switzerland who has started a new videocast. I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .
+    one_sentence_summary: Trump's administration is struggling to manage backlash from
+      his comments on the Jeffrey Epstein case, which have sparked anger among his supporters
+      and raised questions about the government's failure to investigate powerful individuals
+      involved in Epstein's crimes.
+    paragraph_summary: Trump's administration is struggling to manage the fallout from
+      his controversial comments regarding the Jeffrey Epstein case, which have angered
+      a significant portion of his MAGA base. Instead of calming the situation, Trump
+      has inadvertently fueled a wave of critical analyses that highlight the U.S. government's
+      failure to thoroughly investigate and prosecute powerful individuals involved
+      in Epstein's pedophile ring. The article emphasizes that the focus should not
+      be on the so-called "list" of Epstein's clients but rather on the government's
+      reluctance to hold wealthy perpetrators accountable. With over $800 million in
+      settlements paid to Epstein's victims and only a handful of arrests made, the
+      author criticizes Trump for downplaying the severity of the situation and suggests
+      that he should have taken more decisive action, such as empaneling a grand jury
+      for indictments. The piece also encourages viewers to engage with various interviews
+      and discussions that delve deeper into the troubling implications of the Epstein
+      scandal.
+    published: '2025-07-19T03:38:32+00:00'
+  - title: Iran Toughens Stance on Negotiations with the US
+    url: https://sonar21.com/iran-toughen-stance-on-negotiations-with-the-us/
+    text: 'Meeting of Azerbaijan and Iran Diplomats I just received the following from
+      Press TV in Iran, and it refutes Donald Trump’s claim that Iran is eager to negotiate:
+      A senior Iranian political figure has told Iranian Press TV that Iran is rethinking
+      its approach to nuclear negotiations and will not enter new talks using the same
+      framework or agenda. Referring to the U-S request to resume negotiations, the
+      source emphasized that any talks must align with the real security dynamics of
+      the region. He expressed skepticism about the US intentions for peace, stating
+      that the goal of Washington is to disarm Iran to compensate for Israel’s weakness
+      in the next potential war. The political figure added any new negotiations must
+      include serious and practical guarantees including scrutiny of Israel’s nuclear
+      and WMD programs, credible punishment of the regime (i.e., Israel) and compensation
+      to Iran. He stressed in the absence of these conditions, negotiations will merely
+      serve as a prelude to war. He added Tehran is willing to “offer another opportunity”
+      but requires evidence that U.S. negotiator Witkoff is pursuing peace rather than
+      escalation. There you have it. Iran is willing to talk but only if the conditions
+      outlined above are met by Washington. This means there will be no further negotiations
+      and that Iran will busy itself preparing for the next US/Israeli attack. Iran’s
+      requirement that Israel be subjected to the same type of scrutiny of its nuclear
+      program as Iran is a new, but not surprising, demand. While Iran’s demands are
+      reasonable, I cannot imagine any scenario where Trump would agree. I just learned
+      that Trump’s Chief of Staff, Susie Wiles, did some work for Bibi Netanyahu at
+      Trump’s direction.  In 2020, she briefly worked for Israeli Prime Minister Benjamin
+      Netanyahu’s campaign, underscoring a professional relationship within Israeli
+      politics. She is a critical voice in any decision that Trump makes regarding Israel…
+      especially when it comes to negotiating with Iran. Staying in the region, but
+      shifting to a neighboring country, I have received a terrific email from a reader
+      who provides excellent insights into the the dynamics at play among Azerbaijan,
+      Iran, Ukraine and Russia. Both Western media and social media outlets have reported
+      in the aftermath of the 12 Day War (we got to call it something pithy) that Israel
+      used Azerbaijan as a launching pad for some of its attacks on Iran. I think my
+      new friend provides a credible explanation for why that it not true: How do I
+      know this? Firstly, on the 27th of June, 2025 – only days after the 12 day war
+      between Israel and Iran was halted – Iran’s new Ambassador to Azerbaijan was officially
+      received by the President of the Republic of Azerbaijan, and warmly greeted. (Go
+      to azertag.az/en – the Azerbaijan State News Agency in English, click on Official
+      News, and move to the fourth page of listed news items. Here you will find photos
+      documenting this important event.) On the 4th of July, 2025, the President of
+      Iran – Pezeshkian – at the head of a large Iranian governmental delegation traveled
+      to Khankendi in the newly incorporated Azeri territory in Nagorno Karabakh for
+      a state meeting with the President of the Republic of Azerbaijan and many Azeri
+      Ministers. For photos you can go to azertag.az/en and click on Official News and
+      move to the 2nd page. So, as a former analyst, what do you think the chances are
+      that Iran would send a new Ambassador, and the President of Iran would travel
+      to a country that only days earlier had allowed its territory to be used by Israel
+      to launch deadly surprise attacks on Tehran. Less than zero? FYI relations between
+      the Republic of Azerbaijan and Iran are cordial, business relations are developing,
+      and the north south rail corridor project between Russia and Iran through Azerbaijan
+      is proceeding apace. With this in mind, where is this easily debunk-able narrative
+      about the Republic of Azerbaijan allowing Israel to use its territory for sneak
+      attacks on Iran coming from?  To explain I need to take you on a short history
+      lesson. In 2020 I was present in Azerbaijan during the war between Armenia and
+      Azerbaijan. The hysterical narratives coming out of Armenia at that time would
+      have made Bagdad Bob blush. When Armenia disastrously lost this war, and the Armenian
+      President Pashinian acknowledged in writing that he recognized the Nagorno Karabakh
+      territories as Azeri, Western pundits siding with Armenia had a lot of egg on
+      their faces. Since the Iraq war in 2003, the ethnic Kurds have carved out a semi-autonomous
+      state in the north of Iraq and parts of north east Syria. These Kurdish enclaves
+      directly border the West and East Azerbaijan Provinces of Iran, (located in north
+      west Iran, just south of the Republic of Azerbaijan – check a provincial map of
+      Iran for details). The Israelis have established deep ties in these Kurdish enclaves,
+      and it is entirely conceivable that their sneak attacks on northern Iran were
+      launched from precisely these Kurdish held enclaves THROUGH the territories of
+      West and East Azerbaijan provinces, further through Ardabil province to the Caspian
+      Sea, over the Caspian Sea for a 100 kilometers or so, and directly south onto
+      Tehran and other nearby targets. This is why some disposable extra fuel tanks
+      for drones were discovered off the northern coast of Iran. Armenian narrators,
+      ever looking for a chance to increase tension between Iran and the Republic of
+      Azerbaijan, have apparently launched a carefully crafted deception, confusing
+      the two Azerbaijan provinces of Iran with the actual Republic of Azerbaijan. Unfortunately,
+      many otherwise reliable bloggers have jumped on the band wagon without doing their
+      due diligence. I would recommend to you that you never take any possible anti-Azeri
+      narrative at face value without double checking. As concerns Russian – Azeri tensions,
+      here we have to go back to the Second World War. After the war, large regions
+      of today’s Ukraine were essentially depopulated. Thousands of ethnic Azeris, who
+      had fought the Wehrmacht in Ukraine and in Berlin, married ethnic Ukrainian ladies
+      and settled in the country. During my 25 years in and around the Republic of Azerbaijan,
+      I was almost astonished at how many familial ties there actually were between
+      ethic Ukrainians and Azeris. Azeris are also excellent business people and established
+      solid investments in the oil and gas industries in Ukraine, the oil refinery in
+      Kremenchug that Russia destroyed recently was owned by Azeri interests linked
+      to President Aliyev. Apparently there had been some sort of “understanding” that
+      Russia would not seriously disable this refinery during the special military operation.
+      In exchange, the Russians may have negotiated the right to use existing Soviet
+      era pipelines to pipe their oil and gas south to the Republic of Azerbaijan, re-flag
+      it as Azeri, and then pump it through the newly constructed BTC and other existing
+      pipelines from Azerbaijan to Turkey, and onward to western markets. No need for
+      “ghost oil tankers” on the high seas, which may simply be a diversion. It looks
+      as though the Spider’s Web operation tarnished these “understandings”. Ukrainian
+      intelligence may have engaged certain ethnic Azeri criminal networks operating
+      in Russia to assist with this operation. This operation, however, was not officially
+      approved in any manner by the actual government of the Republic of Azerbaijan.
+      The Russian response was not long in waiting and, as usual, heavy-handed, as it
+      probably should be. This Russian response and subsequent clamp down on ethnic
+      Azeri “businessmen” has opened old wounds between the Russian government and ethnic
+      Azeris living in Russia and Azerbaijan, with predictable results. However, don’t
+      expect any major fireworks, or attacks on Azeri oilfields, although our friends
+      in MI6 may stage a false flag or two to heat matters up. We should never forget
+      the prominent position that BP Azerbaijan holds within the Republic of Azerbaijan
+      – although it operates VERY carefully. Finally, the Zangezur corridor in southern
+      Armenia located between the two Azeri territories of the Republic of Azerbaijan
+      proper and Nakhichevan. At the end of the 2020 war between Azerbaijan and Armenia,
+      there were discussions about opening this corridor, and this initiative has continued
+      to this day. Now it looks as if the US State Department has proposed leasing this
+      Armenian territory to a US entity for 100 years to supervise the orderly transit
+      of goods and services between Turkey – through Nakhichevan – to the Republic of
+      Azerbaijan. A modern road, railroad, oil and gas pipelines and a fiber optic magistral
+      are proposed. The Presidents of Armenia and Azerbaijan have just recently met
+      in the UAE and may have come to an understanding on this matter, (again, go to
+      azertag.az/en for confirmation and photos). Iran and Russia may not actually halt
+      this initiative if they are guaranteed open access to this corridor and it may
+      serve their economic interests as well. It looks as if the US State Department
+      has finally come up with a good idea that may come to fruition, although the actual
+      operator of the Zangezur corridor may not eventually be a direct US interest.
+      The recent visit of the current President of Syria to the Republic of Azerbaijan
+      may be directly connected to the Zangezur corridor developments. The President
+      of Turkmenistan has also just recently visited the Republic of Azerbaijan, possibly
+      discussing a trans-Caspian gas pipeline to hookup to the planned pipeline links
+      to Turkey that are to be built in the Zangezur corridor. In short, there is a
+      LOT of activity behind the scenes. I had the pleasure of chatting with Garland
+      Nixon and Rasheed Muhammad about current events, especially Trump’s self-inflicted
+      Epstein Infrerno : I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: A senior Iranian political figure has stated that Iran is
+      reconsidering its approach to nuclear negotiations, insisting that any future
+      talks must address regional security dynamics and include guarantees regarding
+      Israel's nuclear capabilities, or they risk being a precursor to conflict.
+    paragraph_summary: A senior Iranian political figure has stated that Iran is reevaluating
+      its approach to nuclear negotiations and will not engage in talks under the previous
+      framework, particularly in response to U.S. requests for resumption. The official
+      expressed skepticism about U.S. intentions, suggesting that Washington's goal
+      is to disarm Iran to bolster Israel's position in potential conflicts. For Iran
+      to consider new negotiations, it demands serious guarantees, including scrutiny
+      of Israel's nuclear capabilities and accountability for its actions. The figure
+      emphasized that without these conditions, negotiations would likely lead to war
+      rather than peace. While Iran is open to dialogue, it requires evidence of genuine
+      U.S. intentions for peace, complicating the prospect of future negotiations, especially
+      given the influence of Trump’s Chief of Staff, who has ties to Israeli politics.
+    published: '2025-07-18T03:31:45+00:00'
+  - title: Iran Toughens Stance on Negotiations with the US
+    url: https://sonar21.com/iran-toughen-stance-on-negotiations-with-the-us/
+    text: 'Meeting of Azerbaijan and Iran Diplomats I just received the following from
+      Press TV in Iran, and it refutes Donald Trump’s claim that Iran is eager to negotiate:
+      A senior Iranian political figure has told Iranian Press TV that Iran is rethinking
+      its approach to nuclear negotiations and will not enter new talks using the same
+      framework or agenda. Referring to the U-S request to resume negotiations, the
+      source emphasized that any talks must align with the real security dynamics of
+      the region. He expressed skepticism about the US intentions for peace, stating
+      that the goal of Washington is to disarm Iran to compensate for Israel’s weakness
+      in the next potential war. The political figure added any new negotiations must
+      include serious and practical guarantees including scrutiny of Israel’s nuclear
+      and WMD programs, credible punishment of the regime (i.e., Israel) and compensation
+      to Iran. He stressed in the absence of these conditions, negotiations will merely
+      serve as a prelude to war. He added Tehran is willing to “offer another opportunity”
+      but requires evidence that U.S. negotiator Witkoff is pursuing peace rather than
+      escalation. There you have it. Iran is willing to talk but only if the conditions
+      outlined above are met by Washington. This means there will be no further negotiations
+      and that Iran will busy itself preparing for the next US/Israeli attack. Iran’s
+      requirement that Israel be subjected to the same type of scrutiny of its nuclear
+      program as Iran is a new, but not surprising, demand. While Iran’s demands are
+      reasonable, I cannot imagine any scenario where Trump would agree. I just learned
+      that Trump’s Chief of Staff, Susie Wiles, did some work for Bibi Netanyahu at
+      Trump’s direction.  In 2020, she briefly worked for Israeli Prime Minister Benjamin
+      Netanyahu’s campaign, underscoring a professional relationship within Israeli
+      politics. She is a critical voice in any decision that Trump makes regarding Israel…
+      especially when it comes to negotiating with Iran. Staying in the region, but
+      shifting to a neighboring country, I have received a terrific email from a reader
+      who provides excellent insights into the the dynamics at play among Azerbaijan,
+      Iran, Ukraine and Russia. Both Western media and social media outlets have reported
+      in the aftermath of the 12 Day War (we got to call it something pithy) that Israel
+      used Azerbaijan as a launching pad for some of its attacks on Iran. I think my
+      new friend provides a credible explanation for why that it not true: How do I
+      know this? Firstly, on the 27th of June, 2025 – only days after the 12 day war
+      between Israel and Iran was halted – Iran’s new Ambassador to Azerbaijan was officially
+      received by the President of the Republic of Azerbaijan, and warmly greeted. (Go
+      to azertag.az/en – the Azerbaijan State News Agency in English, click on Official
+      News, and move to the fourth page of listed news items. Here you will find photos
+      documenting this important event.) On the 4th of July, 2025, the President of
+      Iran – Pezeshkian – at the head of a large Iranian governmental delegation traveled
+      to Khankendi in the newly incorporated Azeri territory in Nagorno Karabakh for
+      a state meeting with the President of the Republic of Azerbaijan and many Azeri
+      Ministers. For photos you can go to azertag.az/en and click on Official News and
+      move to the 2nd page. So, as a former analyst, what do you think the chances are
+      that Iran would send a new Ambassador, and the President of Iran would travel
+      to a country that only days earlier had allowed its territory to be used by Israel
+      to launch deadly surprise attacks on Tehran. Less than zero? FYI relations between
+      the Republic of Azerbaijan and Iran are cordial, business relations are developing,
+      and the north south rail corridor project between Russia and Iran through Azerbaijan
+      is proceeding apace. With this in mind, where is this easily debunk-able narrative
+      about the Republic of Azerbaijan allowing Israel to use its territory for sneak
+      attacks on Iran coming from?  To explain I need to take you on a short history
+      lesson. In 2020 I was present in Azerbaijan during the war between Armenia and
+      Azerbaijan. The hysterical narratives coming out of Armenia at that time would
+      have made Bagdad Bob blush. When Armenia disastrously lost this war, and the Armenian
+      President Pashinian acknowledged in writing that he recognized the Nagorno Karabakh
+      territories as Azeri, Western pundits siding with Armenia had a lot of egg on
+      their faces. Since the Iraq war in 2003, the ethnic Kurds have carved out a semi-autonomous
+      state in the north of Iraq and parts of north east Syria. These Kurdish enclaves
+      directly border the West and East Azerbaijan Provinces of Iran, (located in north
+      west Iran, just south of the Republic of Azerbaijan – check a provincial map of
+      Iran for details). The Israelis have established deep ties in these Kurdish enclaves,
+      and it is entirely conceivable that their sneak attacks on northern Iran were
+      launched from precisely these Kurdish held enclaves THROUGH the territories of
+      West and East Azerbaijan provinces, further through Ardabil province to the Caspian
+      Sea, over the Caspian Sea for a 100 kilometers or so, and directly south onto
+      Tehran and other nearby targets. This is why some disposable extra fuel tanks
+      for drones were discovered off the northern coast of Iran. Armenian narrators,
+      ever looking for a chance to increase tension between Iran and the Republic of
+      Azerbaijan, have apparently launched a carefully crafted deception, confusing
+      the two Azerbaijan provinces of Iran with the actual Republic of Azerbaijan. Unfortunately,
+      many otherwise reliable bloggers have jumped on the band wagon without doing their
+      due diligence. I would recommend to you that you never take any possible anti-Azeri
+      narrative at face value without double checking. As concerns Russian – Azeri tensions,
+      here we have to go back to the Second World War. After the war, large regions
+      of today’s Ukraine were essentially depopulated. Thousands of ethnic Azeris, who
+      had fought the Wehrmacht in Ukraine and in Berlin, married ethnic Ukrainian ladies
+      and settled in the country. During my 25 years in and around the Republic of Azerbaijan,
+      I was almost astonished at how many familial ties there actually were between
+      ethic Ukrainians and Azeris. Azeris are also excellent business people and established
+      solid investments in the oil and gas industries in Ukraine, the oil refinery in
+      Kremenchug that Russia destroyed recently was owned by Azeri interests linked
+      to President Aliyev. Apparently there had been some sort of “understanding” that
+      Russia would not seriously disable this refinery during the special military operation.
+      In exchange, the Russians may have negotiated the right to use existing Soviet
+      era pipelines to pipe their oil and gas south to the Republic of Azerbaijan, re-flag
+      it as Azeri, and then pump it through the newly constructed BTC and other existing
+      pipelines from Azerbaijan to Turkey, and onward to western markets. No need for
+      “ghost oil tankers” on the high seas, which may simply be a diversion. It looks
+      as though the Spider’s Web operation tarnished these “understandings”. Ukrainian
+      intelligence may have engaged certain ethnic Azeri criminal networks operating
+      in Russia to assist with this operation. This operation, however, was not officially
+      approved in any manner by the actual government of the Republic of Azerbaijan.
+      The Russian response was not long in waiting and, as usual, heavy-handed, as it
+      probably should be. This Russian response and subsequent clamp down on ethnic
+      Azeri “businessmen” has opened old wounds between the Russian government and ethnic
+      Azeris living in Russia and Azerbaijan, with predictable results. However, don’t
+      expect any major fireworks, or attacks on Azeri oilfields, although our friends
+      in MI6 may stage a false flag or two to heat matters up. We should never forget
+      the prominent position that BP Azerbaijan holds within the Republic of Azerbaijan
+      – although it operates VERY carefully. Finally, the Zangezur corridor in southern
+      Armenia located between the two Azeri territories of the Republic of Azerbaijan
+      proper and Nakhichevan. At the end of the 2020 war between Azerbaijan and Armenia,
+      there were discussions about opening this corridor, and this initiative has continued
+      to this day. Now it looks as if the US State Department has proposed leasing this
+      Armenian territory to a US entity for 100 years to supervise the orderly transit
+      of goods and services between Turkey – through Nakhichevan – to the Republic of
+      Azerbaijan. A modern road, railroad, oil and gas pipelines and a fiber optic magistral
+      are proposed. The Presidents of Armenia and Azerbaijan have just recently met
+      in the UAE and may have come to an understanding on this matter, (again, go to
+      azertag.az/en for confirmation and photos). Iran and Russia may not actually halt
+      this initiative if they are guaranteed open access to this corridor and it may
+      serve their economic interests as well. It looks as if the US State Department
+      has finally come up with a good idea that may come to fruition, although the actual
+      operator of the Zangezur corridor may not eventually be a direct US interest.
+      The recent visit of the current President of Syria to the Republic of Azerbaijan
+      may be directly connected to the Zangezur corridor developments. The President
+      of Turkmenistan has also just recently visited the Republic of Azerbaijan, possibly
+      discussing a trans-Caspian gas pipeline to hookup to the planned pipeline links
+      to Turkey that are to be built in the Zangezur corridor. In short, there is a
+      LOT of activity behind the scenes. I had the pleasure of chatting with Garland
+      Nixon and Rasheed Muhammad about current events, especially Trump’s self-inflicted
+      Epstein Infrerno : I thank you for your invaluable support by taking time to read
+      or comment. I do not charge a subscription fee nor do I accept advertising. I
+      want the content to be accessible to everyone interested in the issues I am discussing.
+      However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: A senior Iranian political figure has stated that Iran is
+      reconsidering its approach to nuclear negotiations, insisting that any future
+      talks must address regional security dynamics and include guarantees regarding
+      Israel's nuclear capabilities, or they risk being a precursor to conflict.
+    paragraph_summary: A senior Iranian political figure has stated that Iran is reevaluating
+      its approach to nuclear negotiations and will not engage in talks under the previous
+      framework, particularly in response to U.S. requests for resumption. The official
+      expressed skepticism about U.S. intentions, suggesting that Washington's goal
+      is to disarm Iran to bolster Israel's position in potential conflicts. For Iran
+      to consider new negotiations, it demands serious guarantees, including scrutiny
+      of Israel's nuclear capabilities and accountability for its actions. The figure
+      emphasized that without these conditions, negotiations would likely lead to war
+      rather than peace. While Iran is open to dialogue, it requires evidence of genuine
+      U.S. intentions for peace, complicating the prospect of future negotiations, especially
+      given the influence of Trump’s Chief of Staff, who has ties to Israeli politics.
+    published: '2025-07-18T03:31:45+00:00'
+  - title: Genocide as “self-defense” – Western media as accomplices to the genocide
+      in Gaza – We stand up!
+    url: https://sonar21.com/genocide-as-self-defense-western-media-as-accomplices-to-the-genocide-in-gaza-we-stand-up/
+    text: 'The current genocide is the culmination of a spiral of violence that has
+      been going on since 1948 and has been covered up by the powerful in the West for
+      generations. The media portray the genocide as self-defense – but they are nothing
+      less than partners in crime. Introduction This article deals with a more than
+      unsavory topic: a genocide that is committed in the open and not only promoted
+      by most Western media, but justified in such a way that opponents of this genocide
+      – be they Jews or non-Jews – are attacked, vilified and threatened in the most
+      disgraceful manner. It is not only difficult, but downright dangerous to stand
+      up to such a superior force. Nevertheless, we have decided to stand up. Imagine
+      how you would like to answer the question of your grandchild sitting on your lap
+      in 20 years’ time and asking, “Grandpa, what did you think about the time when
+      babies were slaughtered in plain sight? – Why did everyone keep quiet? – Did you
+      keep quiet too?” It all began with a mendacious fairy tale I was born in Zurich
+      in 1964 and since my earliest childhood the following axiom has applied: “The
+      Israelis are the good guys and the Palestinians are terrorists” . This was instilled
+      in us by our parents and teachers and we saw ourselves happily confirmed when
+      we were allowed on television to watch our Israeli heroes defeating the evil Arabs
+      in all the wars. Good prevailed, we were on the right side of history and sang
+      Hebrew songs in religious education lessons at a Protestant grammar school. “The
+      Israelis are the good guys and the Palestinians are terrorists” I was completely
+      unaware that this view of things had nothing to do with reality. My friends and
+      acquaintances felt the same way – for decades. Skepticism – the stuff realities
+      are made of When I traveled to Moscow for the first time in 1997, I was confronted
+      with a character trait of Russians that is completely foreign to Westerners: skepticism.
+      Russians have the characteristic – or rather: the ability – to take note of everything
+      they are given in terms of information – be it by the media or the government
+      – and instead of believing everything, they question everything. The discovery
+      of skepticism shaped me and had a lasting impact on my thinking. Admittedly, questioning
+      is much more strenuous than believing and since most people believe almost everything
+      they are told by parents, teachers, pastors, politicians and the media, skeptics
+      in the West find themselves in an almost fatal minority. What’s more, politicians
+      and the media add a “democratic touch” to the discussion. They insinuate that
+      the majority view is the right one. This is complete and utter nonsense, but many
+      even believe in this fairy tale. In the last 30 years or so, I have had a lot
+      of catching up to do. The internet helped me to do this, as it opens up sources
+      that take control of the narrative away from those in power, although you have
+      to be careful, as the internet is also full of lies. However, if you apply skepticism,
+      the Internet opens up a universe where you can gather the facts. October 7, 2023
+      – The Trigger for the “Final Solution” The Bloodbaths Series When Hamas attacked
+      on October 7, 2023, and within hours there were reports of babies being beheaded
+      and mass rapes committed by these monsters, we decided to wait: We are not a news
+      outlet. We took this event as an opportunity to write a series about bloodbaths.
+      “The powerful of this world are capable of using any means to achieve their goals
+      – any!” Our aim was to show that bloodbaths – often caused by the “victims” themselves
+      – are regularly used to justify further, even bloodier massacres in the form of
+      wars. In passing, we realized that the US narrative on 9/11 could not possibly
+      be true. The findings of this series can be summarized in one sentence: “The powerful
+      of this world are capable of using any means to achieve their goals – any!” .
+      This series is therefore a perfectly suitable introduction to an article about
+      a genocide carried out in public, supported or even considered necessary by almost
+      all Western mass media. Bloodbaths change the world – Part 1 Bloodbaths change
+      the world – Part 2 – 9/11 Bloodbaths change the world – Part 3 – Who is behind
+      9/11? Cover image for our series “Bloodbaths change the world” – October 14-29,
+      2023 Israel – from victim to perpetrator to victim – a back and forth for 80 years
+      (Series) Only in November did we take on Israel and publish a five-part series
+      on the Israel complex between November 5, 2023 and December 29, 2023 as follows:
+      In Part 1 (1914-1948) of our series on the history of Israel, we shed light on
+      the period leading up to the founding of the state. A phase of illegal and legal
+      land seizure, as a result of which the State of Israel was proclaimed unilaterally,
+      in contradiction to UN Resolution 181 and against the will of the Arab states.
+      The result was war from day one. Part 2 (1948-1956) ended with the Suez Crisis.
+      As a result of this second war, Great Britain lost its dominant position in the
+      Middle East. Since then, Israel has aligned itself with the US on all issues.
+      Another result was the stationing of UN troops on the border between Israel and
+      Egypt. In addition to the 6-Day War and the Yom Kippur War, Part 3 (1956-1973)
+      dealt with a topic that receives little geopolitical attention when it comes to
+      Israel – Israel’s water strategy. This is surprising, to say the least, as Israel
+      is also extremely consistent in its approach to this issue, regardless of the
+      interests of its neighboring states. Part 4 shed light on the 1982 Lebanon War,
+      a war that Israel waged outside its territory with the aim of destroying the Palestinian
+      PLO. A Palestinian liberation organization whose armed arm had been expelled from
+      the West Bank to Jordan by Israel in the preceding Yom Kippur War and then to
+      Lebanon by the Jordanian state after the attempted violent enforcement of political
+      demands in Jordan. Part 5 covers the period from 1993 to the present. We looked
+      at the Oslo Accords of that year, as a result of which the PLO disappeared into
+      insignificance and Hamas became increasingly important for the Palestinians. Cover
+      picture of our series “Israel – from victim to perpetrator to victim – a back
+      and forth for 80 years” – November 5 to December 29, 2023 Dealing with the history
+      of Israel and the massacres was an eye-opening experience not only for our readers,
+      but also for myself. Nevertheless, it was clear to me that it would not be easy
+      to change the way the average person sees the world, which I had also been fed
+      for decades by various agitators and in a wide variety of ways, because most people
+      are not skeptics and simply cannot muster the 200 hours or so it takes to expose
+      the fairy tale as a nightmare; why should they, when the fairy tale feels so much
+      more comfortable and does not rob you of your sleep. Facts and Terminology A genocide
+      is Being Purchased We are touching a hot iron here and even the disclosure of
+      the facts means nothing less than a frontal attack against a group that is so
+      rich and powerful that they can (co-) determine presidential elections (Miriam
+      Adelson) and manage not only to commit genocide against women and children in
+      public, but also to present themselves as the victims and get the media to report
+      positively on this monstrous behavior. This is the first time in human history
+      that a genocide has been called a war. In this extensive article, we only formulate
+      our opinions after we have laid a foundation of facts that cannot be undermined
+      even with all the money in the world. Miriam Adelson poured 100 million US dollars
+      into Donald Trump’s coffers. The price: standing in front of three flags – two
+      Israeli and one American – an indication of whose interests American policy is
+      aligned with? Source: The Times of Israel Zionism is not a religion, but a movement
+      that resorts to criminal means Zionism and Judaism must be differentiated. Zionism
+      is a movement , not a religion. Its goal is, in a first step, the establishment,
+      justification and preservation of a Jewish nation state in Palestine and, in a
+      second step, the establishment of Greater Israel. Zionism therefore pursues political
+      and not religious goals. This differentiation is essential and is deliberately
+      concealed by Zionists, Western politicians and the media. The Zionists deliberately
+      mix up the terms “Zionism” and “Judaism” and use Judaism as a shield for their
+      political intentions, which they realize by criminal means. As soon as criticism
+      of the criminal actions of the Zionists arises, their critics are labeled as anti-Semites,
+      not only by the Zionists, but by practically all Western politicians and media.
+      As a footnote: Semites are not only the Jews, but a whole group of peoples, including
+      the Arabs, the Ethiopians, the Eritreans, the Maltese, the Assyrians and many
+      more. So an anti-Semite hates not only the Jews, but all these peoples. Another
+      indication of how carelessly language and the meaning of terms are handled. Non-Jewish
+      Zionists Control American Politics There are many Zionists who are not Jewish.
+      There are no figures, but estimates are passed around that say that 50% of all
+      Zionists are not Jewish. The Zionists will of course dismiss this as a conspiracy
+      theory. So let’s take a look at where money and power meet in the United States,
+      in the current US government. In addition to the well-known large donation from
+      Adelson to Trump, entire hordes of American politicians are bought in bulk , thus
+      speaking and voting in the interests of Israel. In the current 119th US Congress
+      (532 members), only 32 Jews are represented (6%), yet the American Congress, which
+      consists of 87% Christians, has been voting staunchly Zionist since 1948 (figures:
+      Pew Research ). To achieve a majority in Congress requires 50% plus 1 vote (266+1);
+      thus at least 235 non-Jews together with 32 Jews determine the Zionist policy
+      of the United States, which brings the non-Jewish share of Zionists in the US
+      Congress to a whopping 88%. Zionism: Profitable for American Zionist Politicians
+      These members can be described as Christian Zionists, e.g. Lindsey Graham, Ted
+      Cruz, Marco Rubio, Mike Johnson, Mike Huckabee and many more. The American Israel
+      Public Affairs Committee (AIPAC) plays an important role in promoting bipartisan
+      support. AIPAC is the only foreign-controlled lobbying organization in the US
+      that does not have to comply with the foreign agent act . Politicians such as
+      Graham, Rubio and Johnson have received sizable campaign contributions from pro-Israel
+      donors (AIPAC), averaging $125,000 for pro-Israel lawmakers compared to $18,000
+      for those more supportive of Palestine. The Gaza genocide is thus very profitable
+      for their political supporters in the US. On the numbers: The Guardian . Goal
+      of the Zionists: Greater Israel From Conspiracy Theory to Fact The goal of the
+      Zionists is much grander than the present Israel. The goal is the creation of
+      Greater Israel. Until recently, anyone who spoke of this project was dismissed
+      as a conspiracy theorist. Today, however, the Zionists speak openly about their
+      plans. For example, Bezalel Smotrich , the Israeli finance minister in October
+      2024: Bezalel Smotrich – Source: Times of Israel “I want a Jewish state that includes
+      Jordan, Saudi Arabia, Egypt, Iraq, Syria and Lebanon.” Bezalel Smotrich Now at
+      least the cat is out of the bag. There are countless different maps, which show
+      different variants, but basically the map shows the following picture: The following
+      countries should therefore dress warmly: Egypt, Jordan, Saudi Arabia, Iraq, Syria
+      and Lebanon. The Israeli slogan “ From the River to the Sea ” is a deliberate
+      concealment of the actual goal: for years it was insinuated that the Israelis’
+      territorial claims would extend from the Jordan (‘river’) to the Mediterranean
+      (“sea”): However, they extend from the Nile to the Euphrates. Cyprus in danger?
+      There are other maps circulating on the internet that depict the Greater Israel
+      to be established on an even larger scale, such as a map published by the Turkish
+      news agency on October 10, 2024. Quelle: Sigmalive.com On this map, Greater Israel
+      also includes parts of Turkey and Cyprus. I am publishing this map for one reason:
+      for some time now, large areas of Cyprus have been bought by Israelis – they want
+      a new, second Israel. The same thing happened in Palestine before the state of
+      Israel was founded. Cypriot citizens and politicians are therefore not worried
+      for no reason. As early as the late 19th century, Cyprus was suggested as a possible
+      temporary solution for the settlement of Jewish refugees – as a stepping stone
+      to Israel. Since the outbreak of the Israel-Iran war, thousands of Israelis have
+      flocked to Cyprus despite the travel ban. On X you can find countless warnings
+      from Palestinians to the Cypriot population, such as this one: new promised land
+      unlocked Poor Cyprus pic.twitter.com/uNVI7jljhH — Abier (@abierkhatib) June 21,
+      2025 Criticism of the colonization of Cyprus is naturally dismissed by the Israelis
+      as anti-Semitism. As a Cypriot, I would be worried. The Genocide in Words and
+      Images For many people, the crimes are not even visually present. What you can’t
+      see doesn’t exist. However, the evidence is easy to find, especially on X, but
+      not in the traditional media. I spent two days looking at atrocities in the course
+      of my research. The price was more than a week of sleepless nights. It is not
+      my aim to give our readers sleepless nights, but to give them the energy and the
+      arguments to stand up. That is why we are showing footage here, which should be
+      evidence enough to prove the genocide without causing insomnia. It is very well
+      possible that some of the material presented here will not longer be available
+      at the time of your reading since it does not show a world, which governments
+      want you to see. In such a case, the links will not work anymore. Complete Destruction
+      of Rafah Rafah before the destruction – Source: Britannica Rafah today – Source:
+      AFP News Agency Children, probably too small to attend kindergarten, collect flour
+      in Gaza. Lights Camera and Action. #Gazawood pic.twitter.com/dn1sPsbIRG — Ariel
+      Ben Shalev (אֲרִיאֵל) (@ArielZionist) June 28, 2025 All help came too late for
+      29-year-old Ayoub Saber Abu Al-Hussain – he died of starvation. https://twitter.com/DropSiteNews/status/1939975326089593266
+      The Israeli parliament (Knesset) is discussing whether it is okay to rape Palestinian
+      prisoners The Israeli Knesset is debating israeli soldiers’ right to rape [Sodomize]
+      Palestinian detainee. Yes they have pro-Rape debates and Pro-Rape protests. pic.twitter.com/5lih8LIaL9
+      — Suppressed News. (@SuppressedNws) July 6, 2025 An Israeli reserve soldier speaks
+      to Sky News about the indiscriminate killing of innocent civilians in Gaza by
+      the Israeli military. Israeli soldier to Sky News: Troops are ordered to shoot
+      civilians — An Israeli reserve soldier speaks to Sky News about the Israeli military''s
+      indiscriminate killing of innocent civilians in Gaza. The soldier, whose identity
+      was withheld for confidentiality, said his unit,… pic.twitter.com/BU8CRJrYNz —
+      The Cradle (@TheCradleMedia) July 7, 2025 The IDF attacks a refugee camp in Gaza
+      Ladies and gentlemens : THE IDF pic.twitter.com/1v8MuhiDHR — Furkan Gözükara (@GozukaraFurkan)
+      July 3, 2025 Prime Minister Netanyahu: “Free Palestine is just today’s version
+      of ”Heil Hitler!“” Netanyahu says “Free Palestine is just today''s version of
+      Heil Hitler.” He’s branding hundreds of millions of people as Nazis for opposing
+      occupation and apartheid. This is the twisted logic of Zionism: if you resist
+      genocide, you’re evil. If you demand justice, you’re… pic.twitter.com/0yNhPjPgMc
+      — Sahar Emami (@iamSaharEmami) July 3, 2025 Moshe Feiglin: “The enemy is not Hamas.
+      Every child, every baby in Gaza is the enemy.” And yet, he is welcome in the USA
+      pic.twitter.com/RxWHjk2dSw — Motasem A Dalloul (@AbujomaaGaza) July 1, 2025 Master
+      race against a three-year-old boy Pointing a weapon at a 3 year old can never
+      ever be seen as normal, I don’t care where you  come from! pic.twitter.com/wugQ0l0z9b
+      — JonnyUtd (@Fx1Jonny) June 29, 2025 Many Jews Oppose Zionism and Israel Media
+      Accuse Every Critic of Genocide of Anti-Semitism Hand in hand with the justification
+      of the genocide committed in public, the Western media are fighting tooth and
+      nail to prevent their mendacious conflation of Zionism and Judaism from being
+      exposed. This is the case when Jews themselves point out these lies – and this
+      is exactly what is happening now. If you search for “Rabbis against Genocide ”
+      or “Rabbis against Zionism” on X,you will find what you are looking for. The big
+      media are losing control of their mendacious narrative. It should come as no surprise
+      that the Neue Zürcher Zeitung (NZZ) – one of the most influential promoters of
+      genocide in the German-speaking world – accuses Grok , the AI tool of Elon Musk’s
+      X, of anti-Semitism: “ Elon Musk’s chatbot makes anti-Semitic remarks ”. The media’s
+      fear of losing their “anti-Semitism narrative” is understandable, because if this
+      narrative falls, they will see the world for what they are: Genocidal psychopaths.
+      Representative of the countless sources on the internet, we present two statements,
+      one from an orthodox rabbi and one from a famous Israeli journalist. Rabbi Goldberg,
+      Short and to the Point Rabbi Goldberger: “Israel does not represent the Jewish
+      people. Judaism is a faith, not a flag, not a government, not a nation state.
+      https://t.co/6aDrlIg8pA pic.twitter.com/llZpPG2Zs1 — Jewish Voice (@jewishvoicelive)
+      July 8, 2025 “Israel is not a Jewish state. You can’t just take an ancient religious,
+      collective, and transform it into a nationality because it convenient for the
+      Zionists. Yes, Jews live in Israel, and we pray for their safety, but that doesn’t
+      make Israel the country of all Jews of all nationalities. Combining Judaism and
+      Zionism is the key in creating more antisemitism.” Rabbi Goldberger – 8 July 2025
+      Gideon Levy, Journalist Israeli journalist Gideon Levy educating the world on
+      the sickness that is the Israeli people! pic.twitter.com/WRqRYQ2IWr — Rania (@umyaznemo)
+      June 20, 2025 Thousands of Jews, whether orthodox or not, are resisting Israel’s
+      policies and making clear statements against Zionism. They are hardly heard –
+      except on X – and I don’t even want to imagine the danger these courageous people
+      put themselves in – they have my greatest admiration. I have no idea how many
+      Jews disagree with Israel’s disgusting policies and are condemned to silence because
+      of the prevalent social structure. Why were the Nazi Butchers Hated – Because
+      they were Christians? It is a fact that the Nazis and their helpers slaughtered
+      six million Jews and over 15 million Soviet civilians. Is it legitimate to hate
+      these psychopaths? – I believe so. “The biggest lie of this genocide: that opponents
+      of the genocide are anti-Semites.” Do you hate these criminals because they were
+      genocidal Nazis or for their religion? One can assume that practically 100% of
+      the perpetrators were Christians. I have never heard of Christians being hated
+      as a result of the Holocaust. So why should we hate the Jews when Zionist Israelis
+      slaughter Palestinians just because many of the perpetrators are Jews? Once you
+      realize this logic, you remove the narrative from the psychopaths – perpetrators
+      and defenders of these crimes – that critics of genocide are anti-Semites. An
+      Oppressive State – led by Psychopaths – Supported by its own People Israel was
+      proclaimed unilaterally in violation of the famous UN Resolution 181 , which called
+      for a two-state solution. The State of Israel is therefore an entity without a
+      legal basis and thus has no “ legal basis for existence” but merely a “right to
+      exist”, which was brought about by the majority of UN members under considerable
+      pressure from the US and Great Britain. One would therefore think that a state
+      that stands on such shaky legal foundations would make all the more effort to
+      respect the rights of its inhabitants and neighbors. However, the realities prove
+      the opposite. Since 1948, the state of Israel has increasingly behaved like Nazi
+      Germany. It has been systematically decimating and eliminating the Arab population
+      for almost 80 years, leading an apartheid regime and seems to have taken October
+      7, 2023 as an opportunity to initiate the “final solution” to the Palestinian
+      problem. Never before in the history of mankind has a people behaved so appallingly
+      in public and at the same time had the chutzpah to portray itself as a victim
+      and present its genocidal behavior as a “right to self-defense”. For the exact
+      factual basis of the statements made here, I refer you to our Israel series .
+      Golda Meir – Israeli Prime Minister 1969-1974 – looked more grandmotherly than
+      she was. “We will never forgive the Arabs for forcing us to kill their children.”
+      Golda Meir The Western Media as Complicit in Genocide Accomplices are punished
+      like the main offenders It is obvious that practically all commercially run media
+      in the West twist concepts in the worst possible way, rape history and, as paid
+      henchmen, not only promote genocide, but contribute to the genocide, which they
+      make accomplices. Criminal law distinguishes between aiding and abetting and co-perpetration,
+      whereby the contribution to the offence is subordinate in the case of aiding and
+      abetting, but must be causal to the realization of the offence in the case of
+      co-perpetration. This contribution does not require equivalence, but relevance
+      in the commission of the offense. If the media reported objectively and factually
+      correctly, this reporting would make the genocide impossible, as the populations
+      of the world would force their governments to break off all contact with Israel
+      and thus Israel would be unable to commit these crimes due to a lack of weapons
+      and money. The Western media are therefore guilty of complicity. Accomplices are
+      punished in the same way as the main perpetrators. There is no mitigation of punishment
+      due to this form of participation, as genocide can only be carried out with the
+      participation of the media. Nuremberg precedent: Julius Streicher This view is
+      by no means far-fetched. The editor-in-chief of the National Socialist diatribe
+      “Der Stürmer”, Julius Streicher, was hanged with other major war criminals in
+      Nuremberg in 1946. The ladies and gentlemen of the media concerned should do some
+      soul-searching. Writing can be dangerous – Julius Streicher at the end of his
+      career – October 16, 1946 – Source: Getty Images In the following, we analyze
+      the practices and statements of two media companies from German-speaking countries,
+      representative of almost all media companies in the West, although, in contrast
+      to Europe, critical voices are becoming louder in the US. ARD, the first German
+      state television channel, should actually know better after the German crimes
+      a few decades ago, but today it stands out for its downright diabolical behavior.
+      We also mention the Swiss weekly Weltwoche, as it likes to present itself as a
+      Robin Hood-like savior of the truth and completely fails in the biggest crime
+      of the still young 21st century, betraying not only the victims of the genocide
+      but also its readership. German State Television on the Trail of Dr. Goebbels
+      of All People 10 days after the start of the final solution to the Palestinian
+      problem, the editor-in-chief of the First German Television (ARD), Oliver Köhr,
+      distributed a glossary on reporting on the Middle East conflict among his staff.
+      This document was intended for internal use and found its way into the public
+      domain, probably through an employee who was disgusted by this Goebbelsian approach.
+      This document gives the reader an insight into the perfidy with which the management
+      of the first German television station filled its own employees with pseudo-scientific
+      half-truths and made them justify a genocide. We reported on this in “ ARD glossary
+      justifies genocide – Dr. Goebbels would be proud ”. Left: Family man Oliver Köhr
+      – ARD editor-in-chief with a teddy bear look – Right: Slaughtered Palestinian
+      Babies – Source: ForumGeopolitica.com Schweizerische Weltwoche is also a Collaborator
+      The Swiss weekly magazine Weltwoche, whose publisher and editor-in-chief likes
+      to present himself as a critical intellectual and Robin Hood of truth who questions
+      everything, does not question anything when it comes to genocide, but reliably
+      promotes the Zionist line. In his daily show “Weltwoche Daily”, Roger Köppel said
+      the following on December 6, 2024 (shortened quote – full-length video): “Amnesty
+      International accuses Israel of genocide. For once, stop calling everything genocide.
+      […] I know of one genocide or attempted genocide. That is the genocide of the
+      Jews. […] Now I say something about the situation in Gaza. That is not genocide.
+      If the Israelis want to commit genocide, they could have it easier. Then they
+      would simply have to lay carpets of bombs over the Gaza Strip. […] The word “genocide”
+      has become the weapon of these woke moralists, these crusaders, these woken –
+      even right-wingers – who juggle it around and thus invalidate the meaning of the
+      word. There are a lot of Palestinians in Jordan – they are not being murdered.”
+      Roger Köppel – Publisher and Editor-in-Chief Weltwoche – Weltwoche Daily – December
+      6, 2024 These statements do not meet minimum journalistic, human or intellectual
+      requirements: Genocide is a crime and a glance at the UN website or the ICC’s
+      deliberations would have been enough to subsume Israel’s actions under the criminal
+      offense of genocide, even as a legal layman. You don’t have to be an intellectual
+      to do this, you just need common sense and 10 minutes of your time. He also denies
+      facts: He claims, for example, that Israel could “commit genocide” by laying carpets
+      of bombs over Gaza. But that is exactly what Israel is doing . Why Köppel even
+      bothers to deny the genocide he promotes is strange: In contrast to him, the Israelis
+      do not deny the genocide at all, but believe they have a right to do so and naturally
+      feel victimized by this “work” – see quote from Golda Meir. When he claims that
+      there was only one genocide – the one committed by the Germans against the Jews
+      – he is not only speaking like a typical Israeli, “we are the victims, the only
+      victims!” (see Gideon Levy above), but he also snubs the people who had to endure
+      the greatest genocide: in his Zionist fervor, the self-declared Russia expert
+      has probably missed the fact that the Nazis slaughtered between 15.9 and 17.4
+      million civilians in the Soviet Union. Köppel does not even mention the largest
+      genocide in human history in terms of numbers. When Köppel states that there are
+      a lot of Palestinians in Jordan, that are not being murdered, I do not know what
+      to read into this statement: That the Palestinians should move out of their homeland,
+      if they want to survive? Köppel goes on to justify the genocide by linking President
+      Putin’s actions in Ukraine with those of Netanyahu in Gaza. He fails to mention
+      that President Putin was not wanted by the ICC for genocide, but – together with
+      Maria Lvova-Belova, the Russian Commissioner for Children’s Rights – for the alleged
+      deportation of children to Russia. An accusation that has long since proven to
+      be untenable and is no longer even claimed by the Ukrainians. He makes this cynical
+      conflation against his better judgment, as Köppel conducted an interview with
+      Ms. Lvova-Belova on precisely this topic in Moscow in May 2023. Weltwoche completely
+      lost its moral compass a few days ago when it published the article “ The greatest
+      enemies of the Jews are – Jews ” on July 4, 2025, in which it attacks those Jews
+      who oppose the genocide. The author – one David Klein – calls Jews who oppose
+      the genocide in Israel «Duldungsjude» (en. “ Jews of Toleration ”). The editors
+      of Weltwoche were demonstrably aware that this article was of the worst possible
+      nature, as the comment function was switched off for the first time on “Weltwoche
+      Online”. This article was a service to the Zionists and not a contribution on
+      which they wanted to hear the opinion of paying readers. As Weltwoche readers
+      were unable to submit comments to Weltwoche, some readers sent comments to us
+      and informed us that inquiries to the editors as to why the comment function had
+      been switched off remained unanswered. Some readers compared the article to the
+      “Stürmer”: “Duldungsjude”? – Inexcusable! How can a Family Man Justify Genocide
+      of Children? As a father, I cannot comprehend condoning such an act under any
+      circumstances. Obviously, people who endorse – or even carry out – genocide can
+      activate a mechanism in their conscience that is able to distinguish between their
+      own children and the children of “sub-humans”. There are certainly historical
+      examples. Rudolf Höss shows himself in his villa in Auschwitz as a loving father
+      of five children (1943) – Source: Geo-Wissen Why the Media Do This – Money Rules
+      the World In the case of bought politicians in the US, the role of money is evident
+      and provable with hard facts, see above. The “services” of politicians are bought
+      in plain sight. The media in the West regularly talk about being independent.
+      For me, the perverse reporting on the genocide is proof to the contrary: Most
+      of the media are controlled by their advertisers and unknown backers. I cannot
+      give you any information about the nature of this influence, because Forum Geopolitica
+      does not accept advertising money . Otherwise we would not be able to do our work.
+      However, true independence comes at a price. If you have to maintain villas and
+      vacation homes, accumulate gigantic travel expenses, because luxury is the order
+      of the day, as a publisher you should have private funds at your disposal that
+      make such a lifestyle sustainable regardless of advertising income, otherwise
+      you will degenerate into what you don’t want to degenerate into: a store-bought
+      accomplice. Conclusion What conclusions should one come to after seeing so much
+      evil, deceitfulness and bought people? – It would be dishonest and naive to choose
+      words of reconciliation and hope that the guilty will change, because they will
+      not. If one were to apply the standards of the statute of the Nuremberg Tribunal
+      and its judgment of 1946, then the following institutions and their leading personnel
+      would have to reckon with the maximum penalty. The main perpetrators are the Israeli
+      government, the secret services and the military, those directly involved in the
+      genocide. In addition to the politicians throughout the West, who made this bloodbath
+      politically, economically and militarily feasible in the first place, the media
+      should be emphasized as accomplices. Without their deliberately false, manipulating
+      reporting, the populations of the West would never have been prepared to tolerate
+      these crimes and thus support them. In contrast to the Holocaust, this genocide
+      is being committed in public and supported and promoted by Western politicians
+      and media. Western society is thus so degenerate that it will probably not be
+      able to muster the energy for a cleansing process such as a tribunal. I simply
+      deny states without any understanding of history, as well as the organizations
+      and companies concerned, the moral right to exist. If humanity is unable to put
+      a stop to such monstrous creatures and organizations, the question arises as to
+      the viability of what we call civilization: Without a minimum level of humanity
+      and justice, a social system cannot and should not survive. Civilization also
+      means that those directly affected by genocide have the right to use any means
+      to defend themselves against the perpetrators. It means no less that the media
+      and their exponents who support genocide in whatever form should be banned through
+      social ostracism. They should die alone, without ever being heard again, in the
+      dungeon of loneliness. Peter Hanseler is a geopolitical analyst who reports from
+      Moscow. Peter was born in Zurich, Switzerland. He holds a J.D. (lic. iur.) and
+      Ph.D. (Dr. iur.) from Zurich University Law School and Master in International
+      Commercial Law (LL.M.) from Georgetown University Law School, Washington, D.C.
+      He has lived in the US, Spain, Switzerland, Thailand and Russia. Peter is independent,
+      his work is not supported by government or private entities. Peter’s website Forumgeopolitica.com
+      publishes its content in English, Russian, German and French.'
+    one_sentence_summary: The article argues that the ongoing genocide, rooted in a
+      long history of violence since 1948, is being obscured and justified by Western
+      media, which portrays it as self-defense while vilifying those who oppose it.
+    paragraph_summary: The article discusses the ongoing genocide that has been occurring
+      since 1948, which it claims has been obscured by Western powers and media, framing
+      the violence as self-defense while vilifying those who oppose it. The author reflects
+      on their upbringing, which instilled a narrative of Israelis as heroes and Palestinians
+      as terrorists, highlighting a long-standing bias that distorts reality. The piece
+      emphasizes the moral imperative to confront this injustice, questioning the complicity
+      of those who remain silent in the face of atrocities and urging a reevaluation
+      of the dominant narratives surrounding the Israeli-Palestinian conflict.
+    published: '2025-07-17T05:47:02+00:00'
+  - title: Genocide as “self-defense” – Western media as accomplices to the genocide
+      in Gaza – We stand up!
+    url: https://sonar21.com/genocide-as-self-defense-western-media-as-accomplices-to-the-genocide-in-gaza-we-stand-up/
+    text: 'The current genocide is the culmination of a spiral of violence that has
+      been going on since 1948 and has been covered up by the powerful in the West for
+      generations. The media portray the genocide as self-defense – but they are nothing
+      less than partners in crime. Introduction This article deals with a more than
+      unsavory topic: a genocide that is committed in the open and not only promoted
+      by most Western media, but justified in such a way that opponents of this genocide
+      – be they Jews or non-Jews – are attacked, vilified and threatened in the most
+      disgraceful manner. It is not only difficult, but downright dangerous to stand
+      up to such a superior force. Nevertheless, we have decided to stand up. Imagine
+      how you would like to answer the question of your grandchild sitting on your lap
+      in 20 years’ time and asking, “Grandpa, what did you think about the time when
+      babies were slaughtered in plain sight? – Why did everyone keep quiet? – Did you
+      keep quiet too?” It all began with a mendacious fairy tale I was born in Zurich
+      in 1964 and since my earliest childhood the following axiom has applied: “The
+      Israelis are the good guys and the Palestinians are terrorists” . This was instilled
+      in us by our parents and teachers and we saw ourselves happily confirmed when
+      we were allowed on television to watch our Israeli heroes defeating the evil Arabs
+      in all the wars. Good prevailed, we were on the right side of history and sang
+      Hebrew songs in religious education lessons at a Protestant grammar school. “The
+      Israelis are the good guys and the Palestinians are terrorists” I was completely
+      unaware that this view of things had nothing to do with reality. My friends and
+      acquaintances felt the same way – for decades. Skepticism – the stuff realities
+      are made of When I traveled to Moscow for the first time in 1997, I was confronted
+      with a character trait of Russians that is completely foreign to Westerners: skepticism.
+      Russians have the characteristic – or rather: the ability – to take note of everything
+      they are given in terms of information – be it by the media or the government
+      – and instead of believing everything, they question everything. The discovery
+      of skepticism shaped me and had a lasting impact on my thinking. Admittedly, questioning
+      is much more strenuous than believing and since most people believe almost everything
+      they are told by parents, teachers, pastors, politicians and the media, skeptics
+      in the West find themselves in an almost fatal minority. What’s more, politicians
+      and the media add a “democratic touch” to the discussion. They insinuate that
+      the majority view is the right one. This is complete and utter nonsense, but many
+      even believe in this fairy tale. In the last 30 years or so, I have had a lot
+      of catching up to do. The internet helped me to do this, as it opens up sources
+      that take control of the narrative away from those in power, although you have
+      to be careful, as the internet is also full of lies. However, if you apply skepticism,
+      the Internet opens up a universe where you can gather the facts. October 7, 2023
+      – The Trigger for the “Final Solution” The Bloodbaths Series When Hamas attacked
+      on October 7, 2023, and within hours there were reports of babies being beheaded
+      and mass rapes committed by these monsters, we decided to wait: We are not a news
+      outlet. We took this event as an opportunity to write a series about bloodbaths.
+      “The powerful of this world are capable of using any means to achieve their goals
+      – any!” Our aim was to show that bloodbaths – often caused by the “victims” themselves
+      – are regularly used to justify further, even bloodier massacres in the form of
+      wars. In passing, we realized that the US narrative on 9/11 could not possibly
+      be true. The findings of this series can be summarized in one sentence: “The powerful
+      of this world are capable of using any means to achieve their goals – any!” .
+      This series is therefore a perfectly suitable introduction to an article about
+      a genocide carried out in public, supported or even considered necessary by almost
+      all Western mass media. Bloodbaths change the world – Part 1 Bloodbaths change
+      the world – Part 2 – 9/11 Bloodbaths change the world – Part 3 – Who is behind
+      9/11? Cover image for our series “Bloodbaths change the world” – October 14-29,
+      2023 Israel – from victim to perpetrator to victim – a back and forth for 80 years
+      (Series) Only in November did we take on Israel and publish a five-part series
+      on the Israel complex between November 5, 2023 and December 29, 2023 as follows:
+      In Part 1 (1914-1948) of our series on the history of Israel, we shed light on
+      the period leading up to the founding of the state. A phase of illegal and legal
+      land seizure, as a result of which the State of Israel was proclaimed unilaterally,
+      in contradiction to UN Resolution 181 and against the will of the Arab states.
+      The result was war from day one. Part 2 (1948-1956) ended with the Suez Crisis.
+      As a result of this second war, Great Britain lost its dominant position in the
+      Middle East. Since then, Israel has aligned itself with the US on all issues.
+      Another result was the stationing of UN troops on the border between Israel and
+      Egypt. In addition to the 6-Day War and the Yom Kippur War, Part 3 (1956-1973)
+      dealt with a topic that receives little geopolitical attention when it comes to
+      Israel – Israel’s water strategy. This is surprising, to say the least, as Israel
+      is also extremely consistent in its approach to this issue, regardless of the
+      interests of its neighboring states. Part 4 shed light on the 1982 Lebanon War,
+      a war that Israel waged outside its territory with the aim of destroying the Palestinian
+      PLO. A Palestinian liberation organization whose armed arm had been expelled from
+      the West Bank to Jordan by Israel in the preceding Yom Kippur War and then to
+      Lebanon by the Jordanian state after the attempted violent enforcement of political
+      demands in Jordan. Part 5 covers the period from 1993 to the present. We looked
+      at the Oslo Accords of that year, as a result of which the PLO disappeared into
+      insignificance and Hamas became increasingly important for the Palestinians. Cover
+      picture of our series “Israel – from victim to perpetrator to victim – a back
+      and forth for 80 years” – November 5 to December 29, 2023 Dealing with the history
+      of Israel and the massacres was an eye-opening experience not only for our readers,
+      but also for myself. Nevertheless, it was clear to me that it would not be easy
+      to change the way the average person sees the world, which I had also been fed
+      for decades by various agitators and in a wide variety of ways, because most people
+      are not skeptics and simply cannot muster the 200 hours or so it takes to expose
+      the fairy tale as a nightmare; why should they, when the fairy tale feels so much
+      more comfortable and does not rob you of your sleep. Facts and Terminology A genocide
+      is Being Purchased We are touching a hot iron here and even the disclosure of
+      the facts means nothing less than a frontal attack against a group that is so
+      rich and powerful that they can (co-) determine presidential elections (Miriam
+      Adelson) and manage not only to commit genocide against women and children in
+      public, but also to present themselves as the victims and get the media to report
+      positively on this monstrous behavior. This is the first time in human history
+      that a genocide has been called a war. In this extensive article, we only formulate
+      our opinions after we have laid a foundation of facts that cannot be undermined
+      even with all the money in the world. Miriam Adelson poured 100 million US dollars
+      into Donald Trump’s coffers. The price: standing in front of three flags – two
+      Israeli and one American – an indication of whose interests American policy is
+      aligned with? Source: The Times of Israel Zionism is not a religion, but a movement
+      that resorts to criminal means Zionism and Judaism must be differentiated. Zionism
+      is a movement , not a religion. Its goal is, in a first step, the establishment,
+      justification and preservation of a Jewish nation state in Palestine and, in a
+      second step, the establishment of Greater Israel. Zionism therefore pursues political
+      and not religious goals. This differentiation is essential and is deliberately
+      concealed by Zionists, Western politicians and the media. The Zionists deliberately
+      mix up the terms “Zionism” and “Judaism” and use Judaism as a shield for their
+      political intentions, which they realize by criminal means. As soon as criticism
+      of the criminal actions of the Zionists arises, their critics are labeled as anti-Semites,
+      not only by the Zionists, but by practically all Western politicians and media.
+      As a footnote: Semites are not only the Jews, but a whole group of peoples, including
+      the Arabs, the Ethiopians, the Eritreans, the Maltese, the Assyrians and many
+      more. So an anti-Semite hates not only the Jews, but all these peoples. Another
+      indication of how carelessly language and the meaning of terms are handled. Non-Jewish
+      Zionists Control American Politics There are many Zionists who are not Jewish.
+      There are no figures, but estimates are passed around that say that 50% of all
+      Zionists are not Jewish. The Zionists will of course dismiss this as a conspiracy
+      theory. So let’s take a look at where money and power meet in the United States,
+      in the current US government. In addition to the well-known large donation from
+      Adelson to Trump, entire hordes of American politicians are bought in bulk , thus
+      speaking and voting in the interests of Israel. In the current 119th US Congress
+      (532 members), only 32 Jews are represented (6%), yet the American Congress, which
+      consists of 87% Christians, has been voting staunchly Zionist since 1948 (figures:
+      Pew Research ). To achieve a majority in Congress requires 50% plus 1 vote (266+1);
+      thus at least 235 non-Jews together with 32 Jews determine the Zionist policy
+      of the United States, which brings the non-Jewish share of Zionists in the US
+      Congress to a whopping 88%. Zionism: Profitable for American Zionist Politicians
+      These members can be described as Christian Zionists, e.g. Lindsey Graham, Ted
+      Cruz, Marco Rubio, Mike Johnson, Mike Huckabee and many more. The American Israel
+      Public Affairs Committee (AIPAC) plays an important role in promoting bipartisan
+      support. AIPAC is the only foreign-controlled lobbying organization in the US
+      that does not have to comply with the foreign agent act . Politicians such as
+      Graham, Rubio and Johnson have received sizable campaign contributions from pro-Israel
+      donors (AIPAC), averaging $125,000 for pro-Israel lawmakers compared to $18,000
+      for those more supportive of Palestine. The Gaza genocide is thus very profitable
+      for their political supporters in the US. On the numbers: The Guardian . Goal
+      of the Zionists: Greater Israel From Conspiracy Theory to Fact The goal of the
+      Zionists is much grander than the present Israel. The goal is the creation of
+      Greater Israel. Until recently, anyone who spoke of this project was dismissed
+      as a conspiracy theorist. Today, however, the Zionists speak openly about their
+      plans. For example, Bezalel Smotrich , the Israeli finance minister in October
+      2024: Bezalel Smotrich – Source: Times of Israel “I want a Jewish state that includes
+      Jordan, Saudi Arabia, Egypt, Iraq, Syria and Lebanon.” Bezalel Smotrich Now at
+      least the cat is out of the bag. There are countless different maps, which show
+      different variants, but basically the map shows the following picture: The following
+      countries should therefore dress warmly: Egypt, Jordan, Saudi Arabia, Iraq, Syria
+      and Lebanon. The Israeli slogan “ From the River to the Sea ” is a deliberate
+      concealment of the actual goal: for years it was insinuated that the Israelis’
+      territorial claims would extend from the Jordan (‘river’) to the Mediterranean
+      (“sea”): However, they extend from the Nile to the Euphrates. Cyprus in danger?
+      There are other maps circulating on the internet that depict the Greater Israel
+      to be established on an even larger scale, such as a map published by the Turkish
+      news agency on October 10, 2024. Quelle: Sigmalive.com On this map, Greater Israel
+      also includes parts of Turkey and Cyprus. I am publishing this map for one reason:
+      for some time now, large areas of Cyprus have been bought by Israelis – they want
+      a new, second Israel. The same thing happened in Palestine before the state of
+      Israel was founded. Cypriot citizens and politicians are therefore not worried
+      for no reason. As early as the late 19th century, Cyprus was suggested as a possible
+      temporary solution for the settlement of Jewish refugees – as a stepping stone
+      to Israel. Since the outbreak of the Israel-Iran war, thousands of Israelis have
+      flocked to Cyprus despite the travel ban. On X you can find countless warnings
+      from Palestinians to the Cypriot population, such as this one: new promised land
+      unlocked Poor Cyprus pic.twitter.com/uNVI7jljhH — Abier (@abierkhatib) June 21,
+      2025 Criticism of the colonization of Cyprus is naturally dismissed by the Israelis
+      as anti-Semitism. As a Cypriot, I would be worried. The Genocide in Words and
+      Images For many people, the crimes are not even visually present. What you can’t
+      see doesn’t exist. However, the evidence is easy to find, especially on X, but
+      not in the traditional media. I spent two days looking at atrocities in the course
+      of my research. The price was more than a week of sleepless nights. It is not
+      my aim to give our readers sleepless nights, but to give them the energy and the
+      arguments to stand up. That is why we are showing footage here, which should be
+      evidence enough to prove the genocide without causing insomnia. It is very well
+      possible that some of the material presented here will not longer be available
+      at the time of your reading since it does not show a world, which governments
+      want you to see. In such a case, the links will not work anymore. Complete Destruction
+      of Rafah Rafah before the destruction – Source: Britannica Rafah today – Source:
+      AFP News Agency Children, probably too small to attend kindergarten, collect flour
+      in Gaza. Lights Camera and Action. #Gazawood pic.twitter.com/dn1sPsbIRG — Ariel
+      Ben Shalev (אֲרִיאֵל) (@ArielZionist) June 28, 2025 All help came too late for
+      29-year-old Ayoub Saber Abu Al-Hussain – he died of starvation. https://twitter.com/DropSiteNews/status/1939975326089593266
+      The Israeli parliament (Knesset) is discussing whether it is okay to rape Palestinian
+      prisoners The Israeli Knesset is debating israeli soldiers’ right to rape [Sodomize]
+      Palestinian detainee. Yes they have pro-Rape debates and Pro-Rape protests. pic.twitter.com/5lih8LIaL9
+      — Suppressed News. (@SuppressedNws) July 6, 2025 An Israeli reserve soldier speaks
+      to Sky News about the indiscriminate killing of innocent civilians in Gaza by
+      the Israeli military. Israeli soldier to Sky News: Troops are ordered to shoot
+      civilians — An Israeli reserve soldier speaks to Sky News about the Israeli military''s
+      indiscriminate killing of innocent civilians in Gaza. The soldier, whose identity
+      was withheld for confidentiality, said his unit,… pic.twitter.com/BU8CRJrYNz —
+      The Cradle (@TheCradleMedia) July 7, 2025 The IDF attacks a refugee camp in Gaza
+      Ladies and gentlemens : THE IDF pic.twitter.com/1v8MuhiDHR — Furkan Gözükara (@GozukaraFurkan)
+      July 3, 2025 Prime Minister Netanyahu: “Free Palestine is just today’s version
+      of ”Heil Hitler!“” Netanyahu says “Free Palestine is just today''s version of
+      Heil Hitler.” He’s branding hundreds of millions of people as Nazis for opposing
+      occupation and apartheid. This is the twisted logic of Zionism: if you resist
+      genocide, you’re evil. If you demand justice, you’re… pic.twitter.com/0yNhPjPgMc
+      — Sahar Emami (@iamSaharEmami) July 3, 2025 Moshe Feiglin: “The enemy is not Hamas.
+      Every child, every baby in Gaza is the enemy.” And yet, he is welcome in the USA
+      pic.twitter.com/RxWHjk2dSw — Motasem A Dalloul (@AbujomaaGaza) July 1, 2025 Master
+      race against a three-year-old boy Pointing a weapon at a 3 year old can never
+      ever be seen as normal, I don’t care where you  come from! pic.twitter.com/wugQ0l0z9b
+      — JonnyUtd (@Fx1Jonny) June 29, 2025 Many Jews Oppose Zionism and Israel Media
+      Accuse Every Critic of Genocide of Anti-Semitism Hand in hand with the justification
+      of the genocide committed in public, the Western media are fighting tooth and
+      nail to prevent their mendacious conflation of Zionism and Judaism from being
+      exposed. This is the case when Jews themselves point out these lies – and this
+      is exactly what is happening now. If you search for “Rabbis against Genocide ”
+      or “Rabbis against Zionism” on X,you will find what you are looking for. The big
+      media are losing control of their mendacious narrative. It should come as no surprise
+      that the Neue Zürcher Zeitung (NZZ) – one of the most influential promoters of
+      genocide in the German-speaking world – accuses Grok , the AI tool of Elon Musk’s
+      X, of anti-Semitism: “ Elon Musk’s chatbot makes anti-Semitic remarks ”. The media’s
+      fear of losing their “anti-Semitism narrative” is understandable, because if this
+      narrative falls, they will see the world for what they are: Genocidal psychopaths.
+      Representative of the countless sources on the internet, we present two statements,
+      one from an orthodox rabbi and one from a famous Israeli journalist. Rabbi Goldberg,
+      Short and to the Point Rabbi Goldberger: “Israel does not represent the Jewish
+      people. Judaism is a faith, not a flag, not a government, not a nation state.
+      https://t.co/6aDrlIg8pA pic.twitter.com/llZpPG2Zs1 — Jewish Voice (@jewishvoicelive)
+      July 8, 2025 “Israel is not a Jewish state. You can’t just take an ancient religious,
+      collective, and transform it into a nationality because it convenient for the
+      Zionists. Yes, Jews live in Israel, and we pray for their safety, but that doesn’t
+      make Israel the country of all Jews of all nationalities. Combining Judaism and
+      Zionism is the key in creating more antisemitism.” Rabbi Goldberger – 8 July 2025
+      Gideon Levy, Journalist Israeli journalist Gideon Levy educating the world on
+      the sickness that is the Israeli people! pic.twitter.com/WRqRYQ2IWr — Rania (@umyaznemo)
+      June 20, 2025 Thousands of Jews, whether orthodox or not, are resisting Israel’s
+      policies and making clear statements against Zionism. They are hardly heard –
+      except on X – and I don’t even want to imagine the danger these courageous people
+      put themselves in – they have my greatest admiration. I have no idea how many
+      Jews disagree with Israel’s disgusting policies and are condemned to silence because
+      of the prevalent social structure. Why were the Nazi Butchers Hated – Because
+      they were Christians? It is a fact that the Nazis and their helpers slaughtered
+      six million Jews and over 15 million Soviet civilians. Is it legitimate to hate
+      these psychopaths? – I believe so. “The biggest lie of this genocide: that opponents
+      of the genocide are anti-Semites.” Do you hate these criminals because they were
+      genocidal Nazis or for their religion? One can assume that practically 100% of
+      the perpetrators were Christians. I have never heard of Christians being hated
+      as a result of the Holocaust. So why should we hate the Jews when Zionist Israelis
+      slaughter Palestinians just because many of the perpetrators are Jews? Once you
+      realize this logic, you remove the narrative from the psychopaths – perpetrators
+      and defenders of these crimes – that critics of genocide are anti-Semites. An
+      Oppressive State – led by Psychopaths – Supported by its own People Israel was
+      proclaimed unilaterally in violation of the famous UN Resolution 181 , which called
+      for a two-state solution. The State of Israel is therefore an entity without a
+      legal basis and thus has no “ legal basis for existence” but merely a “right to
+      exist”, which was brought about by the majority of UN members under considerable
+      pressure from the US and Great Britain. One would therefore think that a state
+      that stands on such shaky legal foundations would make all the more effort to
+      respect the rights of its inhabitants and neighbors. However, the realities prove
+      the opposite. Since 1948, the state of Israel has increasingly behaved like Nazi
+      Germany. It has been systematically decimating and eliminating the Arab population
+      for almost 80 years, leading an apartheid regime and seems to have taken October
+      7, 2023 as an opportunity to initiate the “final solution” to the Palestinian
+      problem. Never before in the history of mankind has a people behaved so appallingly
+      in public and at the same time had the chutzpah to portray itself as a victim
+      and present its genocidal behavior as a “right to self-defense”. For the exact
+      factual basis of the statements made here, I refer you to our Israel series .
+      Golda Meir – Israeli Prime Minister 1969-1974 – looked more grandmotherly than
+      she was. “We will never forgive the Arabs for forcing us to kill their children.”
+      Golda Meir The Western Media as Complicit in Genocide Accomplices are punished
+      like the main offenders It is obvious that practically all commercially run media
+      in the West twist concepts in the worst possible way, rape history and, as paid
+      henchmen, not only promote genocide, but contribute to the genocide, which they
+      make accomplices. Criminal law distinguishes between aiding and abetting and co-perpetration,
+      whereby the contribution to the offence is subordinate in the case of aiding and
+      abetting, but must be causal to the realization of the offence in the case of
+      co-perpetration. This contribution does not require equivalence, but relevance
+      in the commission of the offense. If the media reported objectively and factually
+      correctly, this reporting would make the genocide impossible, as the populations
+      of the world would force their governments to break off all contact with Israel
+      and thus Israel would be unable to commit these crimes due to a lack of weapons
+      and money. The Western media are therefore guilty of complicity. Accomplices are
+      punished in the same way as the main perpetrators. There is no mitigation of punishment
+      due to this form of participation, as genocide can only be carried out with the
+      participation of the media. Nuremberg precedent: Julius Streicher This view is
+      by no means far-fetched. The editor-in-chief of the National Socialist diatribe
+      “Der Stürmer”, Julius Streicher, was hanged with other major war criminals in
+      Nuremberg in 1946. The ladies and gentlemen of the media concerned should do some
+      soul-searching. Writing can be dangerous – Julius Streicher at the end of his
+      career – October 16, 1946 – Source: Getty Images In the following, we analyze
+      the practices and statements of two media companies from German-speaking countries,
+      representative of almost all media companies in the West, although, in contrast
+      to Europe, critical voices are becoming louder in the US. ARD, the first German
+      state television channel, should actually know better after the German crimes
+      a few decades ago, but today it stands out for its downright diabolical behavior.
+      We also mention the Swiss weekly Weltwoche, as it likes to present itself as a
+      Robin Hood-like savior of the truth and completely fails in the biggest crime
+      of the still young 21st century, betraying not only the victims of the genocide
+      but also its readership. German State Television on the Trail of Dr. Goebbels
+      of All People 10 days after the start of the final solution to the Palestinian
+      problem, the editor-in-chief of the First German Television (ARD), Oliver Köhr,
+      distributed a glossary on reporting on the Middle East conflict among his staff.
+      This document was intended for internal use and found its way into the public
+      domain, probably through an employee who was disgusted by this Goebbelsian approach.
+      This document gives the reader an insight into the perfidy with which the management
+      of the first German television station filled its own employees with pseudo-scientific
+      half-truths and made them justify a genocide. We reported on this in “ ARD glossary
+      justifies genocide – Dr. Goebbels would be proud ”. Left: Family man Oliver Köhr
+      – ARD editor-in-chief with a teddy bear look – Right: Slaughtered Palestinian
+      Babies – Source: ForumGeopolitica.com Schweizerische Weltwoche is also a Collaborator
+      The Swiss weekly magazine Weltwoche, whose publisher and editor-in-chief likes
+      to present himself as a critical intellectual and Robin Hood of truth who questions
+      everything, does not question anything when it comes to genocide, but reliably
+      promotes the Zionist line. In his daily show “Weltwoche Daily”, Roger Köppel said
+      the following on December 6, 2024 (shortened quote – full-length video): “Amnesty
+      International accuses Israel of genocide. For once, stop calling everything genocide.
+      […] I know of one genocide or attempted genocide. That is the genocide of the
+      Jews. […] Now I say something about the situation in Gaza. That is not genocide.
+      If the Israelis want to commit genocide, they could have it easier. Then they
+      would simply have to lay carpets of bombs over the Gaza Strip. […] The word “genocide”
+      has become the weapon of these woke moralists, these crusaders, these woken –
+      even right-wingers – who juggle it around and thus invalidate the meaning of the
+      word. There are a lot of Palestinians in Jordan – they are not being murdered.”
+      Roger Köppel – Publisher and Editor-in-Chief Weltwoche – Weltwoche Daily – December
+      6, 2024 These statements do not meet minimum journalistic, human or intellectual
+      requirements: Genocide is a crime and a glance at the UN website or the ICC’s
+      deliberations would have been enough to subsume Israel’s actions under the criminal
+      offense of genocide, even as a legal layman. You don’t have to be an intellectual
+      to do this, you just need common sense and 10 minutes of your time. He also denies
+      facts: He claims, for example, that Israel could “commit genocide” by laying carpets
+      of bombs over Gaza. But that is exactly what Israel is doing . Why Köppel even
+      bothers to deny the genocide he promotes is strange: In contrast to him, the Israelis
+      do not deny the genocide at all, but believe they have a right to do so and naturally
+      feel victimized by this “work” – see quote from Golda Meir. When he claims that
+      there was only one genocide – the one committed by the Germans against the Jews
+      – he is not only speaking like a typical Israeli, “we are the victims, the only
+      victims!” (see Gideon Levy above), but he also snubs the people who had to endure
+      the greatest genocide: in his Zionist fervor, the self-declared Russia expert
+      has probably missed the fact that the Nazis slaughtered between 15.9 and 17.4
+      million civilians in the Soviet Union. Köppel does not even mention the largest
+      genocide in human history in terms of numbers. When Köppel states that there are
+      a lot of Palestinians in Jordan, that are not being murdered, I do not know what
+      to read into this statement: That the Palestinians should move out of their homeland,
+      if they want to survive? Köppel goes on to justify the genocide by linking President
+      Putin’s actions in Ukraine with those of Netanyahu in Gaza. He fails to mention
+      that President Putin was not wanted by the ICC for genocide, but – together with
+      Maria Lvova-Belova, the Russian Commissioner for Children’s Rights – for the alleged
+      deportation of children to Russia. An accusation that has long since proven to
+      be untenable and is no longer even claimed by the Ukrainians. He makes this cynical
+      conflation against his better judgment, as Köppel conducted an interview with
+      Ms. Lvova-Belova on precisely this topic in Moscow in May 2023. Weltwoche completely
+      lost its moral compass a few days ago when it published the article “ The greatest
+      enemies of the Jews are – Jews ” on July 4, 2025, in which it attacks those Jews
+      who oppose the genocide. The author – one David Klein – calls Jews who oppose
+      the genocide in Israel «Duldungsjude» (en. “ Jews of Toleration ”). The editors
+      of Weltwoche were demonstrably aware that this article was of the worst possible
+      nature, as the comment function was switched off for the first time on “Weltwoche
+      Online”. This article was a service to the Zionists and not a contribution on
+      which they wanted to hear the opinion of paying readers. As Weltwoche readers
+      were unable to submit comments to Weltwoche, some readers sent comments to us
+      and informed us that inquiries to the editors as to why the comment function had
+      been switched off remained unanswered. Some readers compared the article to the
+      “Stürmer”: “Duldungsjude”? – Inexcusable! How can a Family Man Justify Genocide
+      of Children? As a father, I cannot comprehend condoning such an act under any
+      circumstances. Obviously, people who endorse – or even carry out – genocide can
+      activate a mechanism in their conscience that is able to distinguish between their
+      own children and the children of “sub-humans”. There are certainly historical
+      examples. Rudolf Höss shows himself in his villa in Auschwitz as a loving father
+      of five children (1943) – Source: Geo-Wissen Why the Media Do This – Money Rules
+      the World In the case of bought politicians in the US, the role of money is evident
+      and provable with hard facts, see above. The “services” of politicians are bought
+      in plain sight. The media in the West regularly talk about being independent.
+      For me, the perverse reporting on the genocide is proof to the contrary: Most
+      of the media are controlled by their advertisers and unknown backers. I cannot
+      give you any information about the nature of this influence, because Forum Geopolitica
+      does not accept advertising money . Otherwise we would not be able to do our work.
+      However, true independence comes at a price. If you have to maintain villas and
+      vacation homes, accumulate gigantic travel expenses, because luxury is the order
+      of the day, as a publisher you should have private funds at your disposal that
+      make such a lifestyle sustainable regardless of advertising income, otherwise
+      you will degenerate into what you don’t want to degenerate into: a store-bought
+      accomplice. Conclusion What conclusions should one come to after seeing so much
+      evil, deceitfulness and bought people? – It would be dishonest and naive to choose
+      words of reconciliation and hope that the guilty will change, because they will
+      not. If one were to apply the standards of the statute of the Nuremberg Tribunal
+      and its judgment of 1946, then the following institutions and their leading personnel
+      would have to reckon with the maximum penalty. The main perpetrators are the Israeli
+      government, the secret services and the military, those directly involved in the
+      genocide. In addition to the politicians throughout the West, who made this bloodbath
+      politically, economically and militarily feasible in the first place, the media
+      should be emphasized as accomplices. Without their deliberately false, manipulating
+      reporting, the populations of the West would never have been prepared to tolerate
+      these crimes and thus support them. In contrast to the Holocaust, this genocide
+      is being committed in public and supported and promoted by Western politicians
+      and media. Western society is thus so degenerate that it will probably not be
+      able to muster the energy for a cleansing process such as a tribunal. I simply
+      deny states without any understanding of history, as well as the organizations
+      and companies concerned, the moral right to exist. If humanity is unable to put
+      a stop to such monstrous creatures and organizations, the question arises as to
+      the viability of what we call civilization: Without a minimum level of humanity
+      and justice, a social system cannot and should not survive. Civilization also
+      means that those directly affected by genocide have the right to use any means
+      to defend themselves against the perpetrators. It means no less that the media
+      and their exponents who support genocide in whatever form should be banned through
+      social ostracism. They should die alone, without ever being heard again, in the
+      dungeon of loneliness. Peter Hanseler is a geopolitical analyst who reports from
+      Moscow. Peter was born in Zurich, Switzerland. He holds a J.D. (lic. iur.) and
+      Ph.D. (Dr. iur.) from Zurich University Law School and Master in International
+      Commercial Law (LL.M.) from Georgetown University Law School, Washington, D.C.
+      He has lived in the US, Spain, Switzerland, Thailand and Russia. Peter is independent,
+      his work is not supported by government or private entities. Peter’s website Forumgeopolitica.com
+      publishes its content in English, Russian, German and French.'
+    one_sentence_summary: The article argues that the ongoing genocide, rooted in a
+      long history of violence since 1948, is being obscured and justified by Western
+      media, which portrays it as self-defense while vilifying those who oppose it.
+    paragraph_summary: The article discusses the ongoing genocide that has been occurring
+      since 1948, which it claims has been obscured by Western powers and media, framing
+      the violence as self-defense while vilifying those who oppose it. The author reflects
+      on their upbringing, which instilled a narrative of Israelis as heroes and Palestinians
+      as terrorists, highlighting a long-standing bias that distorts reality. The piece
+      emphasizes the moral imperative to confront this injustice, questioning the complicity
+      of those who remain silent in the face of atrocities and urging a reevaluation
+      of the dominant narratives surrounding the Israeli-Palestinian conflict.
+    published: '2025-07-17T05:47:02+00:00'
+  - title: Unlike Jeffrey Epstein, Donald Trump Commits Political Suicide
+    url: https://sonar21.com/unlike-jeffrey-epstein-donald-trump-commits-political-suicide/
+    text: 'When I climbed out of bed this morning and saw this Trump post on Truth Social
+      , I had to check the calendar to reassure myself that this was not an April Fool’s
+      prank. Nope. Trump was serious. He and his handlers have forgotten the first rule
+      of crisis management… When you’re in a hole, stop digging . Trump ain’t digging
+      with a garden shovel; he’s set in motion the largest earth mover in history. He
+      is carving out a political Grand Canyon that is going to swallow him. Trump’s
+      response has ignited an inferno of rage among his previousLY avid supporters…
+      especially among the under-30 crowd. They know bullshit , to use Trump’s bizarre
+      phrase, when they hear it and see it. Trump got it right on one point (man, does
+      he need an editor) when he likened the Jeffrey Epstein hoax to Hunter Biden’s
+      laptop. Newsflash Donnie — the Hunter Biden laptop was genuine, just like the
+      valid, rock solid, legally proven allegations against Jeffrey Epstein. The only
+      hoax is Trump’s lame attempt at imitating actor Leslie Nielsen’s iconic role as
+      a bumbling, clueless detective, who is standing in front of an exploding inferno
+      telling people, “ Nothing to see here, move along .” A large segment of Trump’s
+      base ain’t moving… they are digging in and demanding answers. I want to clarify
+      an important point about my recent article on this topic — The Epstein Client
+      List — Why is Trump Breaking His Promise to Publish? Pam Bondi is technically
+      correct, i.e., the US Government (USG) does not have a list of Jeffrey Epstein’s
+      clients. What the USG has in its possession is a mountain of evidence, including
+      eyewitness testimony from underage girls and members of Epstein’s staff, that
+      should have been subjected to a criminal investigation. What does that mean? It
+      means creating a list of the prominent men and women named by those witnesses
+      and then collecting evidence such as travel logs, phone records, emails, social
+      media posts, and bank transactions. The claims by the victims are allegations
+      that must be proven with corroborating data. But we already have plenty of legally
+      validated evidence that Epstein was engaged in a human trafficking scheme that
+      involved powerful, wealthy, politically connected men. Ever heard of JPMorgan
+      Chase bank? JPMorgan Chase served as Jeffrey Epstein’s primary bank for 15 years,
+      from 1998 to 2013, during which period it processed financial transactions Epstein
+      and his associates used to facilitate and conceal his sex trafficking enterprise.
+      Lawsuits and government investigations found that the bank failed to act on multiple
+      red flags and continued to provide Epstein financial services even after serious
+      allegations against him became public. Key findings and outcomes include: • Facilitation
+      and Red Flags: The US Virgin Islands and Epstein’s victims alleged JPMorgan Chase
+      enabled Epstein’s trafficking by allowing routine large cash withdrawals and failing
+      to flag him as a high-risk client, even while internal concerns were raised. According
+      to court documents and internal emails, JPMorgan’s internal monitors filed multiple
+      suspicious activity reports related to Epstein as early as 2002, indicating awareness
+      or suspicion of criminal activity before public allegations surfaced. • Delayed
+      Reporting: Despite monitoring suspicious transactions over many years, JPMorgan
+      Chase only reported more than $1 billion in “suspicious” transactions connected
+      to Epstein to the U.S. Treasury Department after his arrest and death in 2019.
+      Settlements: • In June 2023, JPMorgan agreed to pay $290 million to Epstein’s
+      victims in a class-action lawsuit that alleged JPMorgan “knowingly benefited from
+      participating in a sex-trafficking venture” and obstructed enforcement of anti-trafficking
+      laws. • In September 2023, the bank settled for $75 million with the US Virgin
+      Islands to resolve claims it enabled Epstein’s sex crimes, with the majority of
+      funds designated for local charities and victim support. • JPMorgan also reached
+      a confidential legal settlement with Jes Staley, its former executive alleged
+      to have been complicit in maintaining Epstein as a client. And Trump thinks this
+      is, “ bullshit “? Along with Ryan Dawson’s excellent reporting, Candace Owens
+      is covering this like a blizzard in Buffalo, New York. For those of you not familiar
+      with the snowfall in Buffalo, it measures blizzards in multiple meters or, if
+      you prefer, feet. She is all over this and ain’t backing down. This is a point
+      I made today with Danny Davis — when you have Candace Owens, Tucker Carlson, Megyn
+      Kelly, Matt Walsh and Joe Rogan now challenging Trump’s veracity and sanity, you
+      have the Tom Hank’s line from the movie, “ Apollo 13 : Houston we have a problem
+      !” Here is a music video from one of my very talented readers. Enjoy: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Trump's recent post on Truth Social has sparked outrage among
+      his former supporters, particularly the younger demographic, as he continues to
+      mishandle a crisis and make misleading comparisons, ultimately deepening his political
+      troubles.
+    paragraph_summary: In a recent post on Truth Social, former President Trump sparked
+      outrage among his supporters, particularly the under-30 demographic, by making
+      controversial comparisons between the Jeffrey Epstein case and Hunter Biden's
+      laptop, which he falsely labeled a hoax. The article criticizes Trump's crisis
+      management approach, suggesting he is exacerbating his political troubles rather
+      than addressing them. It emphasizes that while the U.S. government may not have
+      a formal list of Epstein's clients, there is substantial evidence, including eyewitness
+      testimony, that warrants a thorough investigation into the allegations against
+      Epstein and his associates. The author argues that Trump's dismissive attitude
+      is alienating a significant portion of his base, who are now demanding accountability
+      and answers.
+    published: '2025-07-17T02:35:48+00:00'
+  - title: Unlike Jeffrey Epstein, Donald Trump Commits Political Suicide
+    url: https://sonar21.com/unlike-jeffrey-epstein-donald-trump-commits-political-suicide/
+    text: 'When I climbed out of bed this morning and saw this Trump post on Truth Social
+      , I had to check the calendar to reassure myself that this was not an April Fool’s
+      prank. Nope. Trump was serious. He and his handlers have forgotten the first rule
+      of crisis management… When you’re in a hole, stop digging . Trump ain’t digging
+      with a garden shovel; he’s set in motion the largest earth mover in history. He
+      is carving out a political Grand Canyon that is going to swallow him. Trump’s
+      response has ignited an inferno of rage among his previousLY avid supporters…
+      especially among the under-30 crowd. They know bullshit , to use Trump’s bizarre
+      phrase, when they hear it and see it. Trump got it right on one point (man, does
+      he need an editor) when he likened the Jeffrey Epstein hoax to Hunter Biden’s
+      laptop. Newsflash Donnie — the Hunter Biden laptop was genuine, just like the
+      valid, rock solid, legally proven allegations against Jeffrey Epstein. The only
+      hoax is Trump’s lame attempt at imitating actor Leslie Nielsen’s iconic role as
+      a bumbling, clueless detective, who is standing in front of an exploding inferno
+      telling people, “ Nothing to see here, move along .” A large segment of Trump’s
+      base ain’t moving… they are digging in and demanding answers. I want to clarify
+      an important point about my recent article on this topic — The Epstein Client
+      List — Why is Trump Breaking His Promise to Publish? Pam Bondi is technically
+      correct, i.e., the US Government (USG) does not have a list of Jeffrey Epstein’s
+      clients. What the USG has in its possession is a mountain of evidence, including
+      eyewitness testimony from underage girls and members of Epstein’s staff, that
+      should have been subjected to a criminal investigation. What does that mean? It
+      means creating a list of the prominent men and women named by those witnesses
+      and then collecting evidence such as travel logs, phone records, emails, social
+      media posts, and bank transactions. The claims by the victims are allegations
+      that must be proven with corroborating data. But we already have plenty of legally
+      validated evidence that Epstein was engaged in a human trafficking scheme that
+      involved powerful, wealthy, politically connected men. Ever heard of JPMorgan
+      Chase bank? JPMorgan Chase served as Jeffrey Epstein’s primary bank for 15 years,
+      from 1998 to 2013, during which period it processed financial transactions Epstein
+      and his associates used to facilitate and conceal his sex trafficking enterprise.
+      Lawsuits and government investigations found that the bank failed to act on multiple
+      red flags and continued to provide Epstein financial services even after serious
+      allegations against him became public. Key findings and outcomes include: • Facilitation
+      and Red Flags: The US Virgin Islands and Epstein’s victims alleged JPMorgan Chase
+      enabled Epstein’s trafficking by allowing routine large cash withdrawals and failing
+      to flag him as a high-risk client, even while internal concerns were raised. According
+      to court documents and internal emails, JPMorgan’s internal monitors filed multiple
+      suspicious activity reports related to Epstein as early as 2002, indicating awareness
+      or suspicion of criminal activity before public allegations surfaced. • Delayed
+      Reporting: Despite monitoring suspicious transactions over many years, JPMorgan
+      Chase only reported more than $1 billion in “suspicious” transactions connected
+      to Epstein to the U.S. Treasury Department after his arrest and death in 2019.
+      Settlements: • In June 2023, JPMorgan agreed to pay $290 million to Epstein’s
+      victims in a class-action lawsuit that alleged JPMorgan “knowingly benefited from
+      participating in a sex-trafficking venture” and obstructed enforcement of anti-trafficking
+      laws. • In September 2023, the bank settled for $75 million with the US Virgin
+      Islands to resolve claims it enabled Epstein’s sex crimes, with the majority of
+      funds designated for local charities and victim support. • JPMorgan also reached
+      a confidential legal settlement with Jes Staley, its former executive alleged
+      to have been complicit in maintaining Epstein as a client. And Trump thinks this
+      is, “ bullshit “? Along with Ryan Dawson’s excellent reporting, Candace Owens
+      is covering this like a blizzard in Buffalo, New York. For those of you not familiar
+      with the snowfall in Buffalo, it measures blizzards in multiple meters or, if
+      you prefer, feet. She is all over this and ain’t backing down. This is a point
+      I made today with Danny Davis — when you have Candace Owens, Tucker Carlson, Megyn
+      Kelly, Matt Walsh and Joe Rogan now challenging Trump’s veracity and sanity, you
+      have the Tom Hank’s line from the movie, “ Apollo 13 : Houston we have a problem
+      !” Here is a music video from one of my very talented readers. Enjoy: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Trump's recent post on Truth Social has sparked outrage among
+      his former supporters, particularly the younger demographic, as he continues to
+      mishandle a crisis and make misleading comparisons, ultimately deepening his political
+      troubles.
+    paragraph_summary: In a recent post on Truth Social, former President Trump sparked
+      outrage among his supporters, particularly the under-30 demographic, by making
+      controversial comparisons between the Jeffrey Epstein case and Hunter Biden's
+      laptop, which he falsely labeled a hoax. The article criticizes Trump's crisis
+      management approach, suggesting he is exacerbating his political troubles rather
+      than addressing them. It emphasizes that while the U.S. government may not have
+      a formal list of Epstein's clients, there is substantial evidence, including eyewitness
+      testimony, that warrants a thorough investigation into the allegations against
+      Epstein and his associates. The author argues that Trump's dismissive attitude
+      is alienating a significant portion of his base, who are now demanding accountability
+      and answers.
+    published: '2025-07-17T02:35:48+00:00'
   - title: Russia Goes on the Offensive Against US Investors in an Odessa Port
     url: https://sonar21.com/russia-goes-on-the-offensive-against-us-investors-in-an-odessa-port/
     text: 'A tip of the hat to BORZZIKMAN , who broadcast this particular story on his

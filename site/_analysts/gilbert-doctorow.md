@@ -7,16 +7,1758 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As the Russia-Ukraine conflict grinds on with no sign of a diplomatic breakthrough, the international response continues to evolve, marked by new economic and military measures. The latest developments reveal intensifying Western pressure on Moscow, shifting European defense postures, and ongoing debates about the effectiveness and intent of U.S. policy.
+  The past 24 hours have seen notable developments in Eurasian security cooperation and European domestic affairs, reflecting ongoing shifts in regional alignments and priorities.
   
-  The most recent episode of Andrew Napolitano’s ‘Judging Freedom’ highlighted divergent interpretations of former President Donald Trump’s newly announced punitive measures against Russia. **Scott Ritter** sharply criticized Trump’s plan for 100% secondary tariffs on Russia and increased arms shipments to Ukraine, dismissing them as “ineffective” and symptomatic of “the incompetence of U.S. leadership.” By contrast, **Colonel Douglas Macgregor** argued that Trump’s approach represents the “least harmful” option available, given mounting Congressional and establishment pressure for a tougher stance. The timing of these tariffs appears calculated to coincide with a major Russian offensive, suggesting, as **Gilbert Doctorow** notes, a complex interplay between U.S. domestic politics and the evolving military situation in Ukraine.
+  The most significant new information concerns the joint Russian-Iranian naval exercises currently underway in the Caspian Sea. As reported by **Gilbert Doctorow**, these drills are officially aimed at enhancing maritime safety and fostering cooperation among Caspian littoral states. However, the exercises have drawn attention in Washington, with U.S. officials expressing concern about the deepening military ties between Moscow and Tehran. The interviews broadcast on Iranian television emphasized not only the operational aspects of the drills but also their symbolic value in signaling mutual defense capabilities and a shared resistance to external (notably U.S.) interference in the region’s energy and security dynamics.
   
-  Meanwhile, France is seeking to reassert its military relevance in Europe. In a Bastille Day interview, President Emmanuel Macron vowed to double France’s military spending by 2027, positioning the move as a response to Germany’s growing assertiveness under Chancellor Merz. **Doctorow** observes that Macron’s rhetoric aims to restore France’s leadership role, but his low popularity and the French political system’s lack of accountability may undermine his credibility. The announcement comes as NATO pushes for all members to increase defense budgets to 5% of GDP by 2035, a target that remains controversial and, according to previous analysis, may be difficult for many European states to achieve.
+  Meanwhile, in Brussels, Belgium’s National Day celebrations were marked by a prominent military parade and a nationally televised address by King Philippe. **Gilbert Doctorow** notes that the Associated Press coverage focused on the ceremonial aspects, but the underlying context remains one of heightened military awareness across Europe. This follows recent reports of increased military spending in several EU states, including France, and ongoing public debate in Belgium regarding the diversion of funds from healthcare to defense—a trend that is raising concerns among professionals and the broader public.
   
-  These developments underscore a broader trend: the West is doubling down on economic and military pressure against Russia, even as doubts persist about the effectiveness of such measures. The consensus among analysts is that Trump’s tariffs and arms shipments are unlikely to force a Russian retreat or a negotiated settlement in Ukraine. Instead, they may serve primarily to satisfy domestic political demands in the U.S. and maintain unity among Western allies.
+  Looking at broader trends, the Russian-Iranian naval cooperation is most definitely a sign of a consolidating Eurasian security axis, with both countries seeking to counterbalance U.S. influence in the region. The exercises are likely to continue and may expand in scope, given the high level of political alignment and shared interests. In Europe, the prioritization of defense budgets over social spending is quite likely to persist, especially as governments respond to perceived threats on the continent’s eastern and southern flanks.
   
-  Looking ahead, it is quite likely that the Russia-Ukraine conflict will remain stalemated, with both sides escalating their efforts but neither able to secure a decisive advantage in the near term. The Western push for higher defense spending is expected to continue, but its practical impact will depend on political will and economic realities across Europe. I guarantee that, barring a major shift in U.S. or Russian policy, the current pattern of attrition and incremental escalation will persist through the coming months.
+  In summary, the latest developments underscore a deepening polarization between Eurasian powers and Western alliances, with military signaling and budgetary choices reflecting the new geopolitical realities. The trend toward increased militarization and bloc formation is most definitely set to continue in the coming months.
 articles:
+  - title: Transcript of Iran TV interview on Russian-Iranian naval exercises
+    url: https://gilbertdoctorow.com/2025/07/22/transcript-of-iran-tv-interview-on-russian-iranian-naval-exercises/
+    text: 'Transcript submitted by a reader PressTV: 0:18 … Spotlight. I’m Marzieh Hashemi.
+      Thanks so much for being with us. Iran’s navy, Northern Fleet and Russian vessels
+      are conducting maritime drills in the Caspian Sea. “Together for a safe and secure
+      Caspian Sea” is the slogan that has been chosen for the drills. Now, according
+      to Iran, the primary goal of the exercise is to reinforce maritime safety and
+      security while fostering greater cooperation among naval forces of the Caspian
+      Sea littoral countries. But what is the reason that these drills by neighboring
+      countries are viewed with concern by some in the United States? Well, stay with
+      us. We’re going to take a look at some footage and then I will be welcoming my
+      guests. 2:15 I’d like to welcome my guests to the program. I’d like to welcome
+      my first guest, George Szamuely, Senior Research Fellow, Global Policy Institute,
+      London Metropolitan University, out of Budapest. And Gilbert Doctorow,independent
+      international affairs analyst out of Brussels. Well, thank you so much. I’m going
+      to start this off with Gilbert. Welcome to the program. Gilbert, what is your
+      perspective about the significance of these three-day drills between Iran and
+      Russia, along with other Caspian Sea littoral states? Gilbert Doctorow, PhD: 2:57
+      Well, for one thing, it is a reaffirmation that after the 12-day Israel-Iran war,
+      Russia remains interested and pursuing a very close relationship with Iran in
+      all domains, including defense. So that is a signal to the world at large that
+      this cooperation is in full effect. At the same time, I, since you mentioned in
+      passing that the United States might be one of those countries not pleased by
+      the ongoing cooperation in the Caspian between Iran and Russia, it brings back
+      to my mind what was going on 20 years ago when the United States was hoping to
+      intervene in the Caspian Sea management by furthering the either pipeline or LNG
+      shipments of Turkmenistan gas across the Caspian for the purpose of countering
+      Russian gas dominance in Europe. 4:12 So it’s an old story as far as the United
+      States is concerned, the United States trying to frustrate the Caspian littoral
+      countries from managing the sea themselves. PressTV: Yeah, indeed. I mean, it’s
+      interesting, because you just talked about the United States. I mean, looking
+      at that, It’s quite interesting that Washington would have problems with neighboring
+      countries having naval drills. When the United States goes to the other side of
+      the world and have constant naval drills with so many different countries. I mean,
+      let’s talk about that, the hypocrisy and the reason [for] such sensitivity about
+      the Caspian Sea. Doctorow: 05:00 Yes, well the United States is a practitioner
+      of hypocrisy in its foreign policy in almost any domain that you touch. So it
+      is not surprising that it would behave in a hypocritical manner with respect to
+      the cooperation by these two countries in an area where it would like to intervene
+      and have a presence, but is systematically excluded by the Caspian Sea littoral
+      countries. PressTV: Well Gilbert, from your perspective, from a strategic perspective,
+      how important is the Caspian Sea? Doctorow: Well, the Caspian Sea is of course
+      a major asset for both Iran and for Russia. Transport across the sea between the
+      countries is foreseeable, although the predominant emphasis in cooperation now
+      is on landlines by rail through the Caucuses. Nonetheless, it is a major asset
+      in many respects, not just defense, but also economic, that the two countries
+      share. And so it is an affirmation of their cooperation, as I say, that they are
+      carrying out these present military exercises. PressTV: 6:23 Yeah, you just mentioned,
+      not just from a military perspective, also from an economic one. Let’s look at
+      that, because we know that both countries have been and are majorly sanctioned
+      by the United States. Tell me about the possibility of actually enhancing the
+      economies of both these countries via that route. Doctorow: Well, of course, sea
+      transport is by nature cheaper than land transport, And it would be understandable
+      that this would be one element in the increasing logistical cooperation between
+      Iran and Russia. Although, as I say, the biggest investments that are foreseeable
+      in the near future pertain to rail connections for the North-South corridor. 7:19
+      But notwithstanding that, development of shipping across the Caspian Sea has to
+      be in the target projects of both countries. There is fishing, of course the Caspian
+      is a source of caviar and other valuable seafood products, But I think the logistical
+      angle is probably economically the more important. PressTV: What about the overall
+      deepening military and maritime cooperation between these two countries, especially
+      now? Doctorow: The two countries are a major stabilizing factor in the region,
+      but they don’t stand alone. One has to mention, of course, the quite profound
+      cooperation between Iran and China and recently during the Israeli-Iran war, the
+      statement of interest and support that came from Pakistan. 8:29 So we’re looking
+      at cooperation between Russia and Iran in a broader context of countries in Asia,
+      in the part of Eurasia, that have defense interests as well as economic interests
+      and are defying the efforts of the United States to sanction both and to harm
+      both countries economically. This, as I say, the broader context should be very
+      reassuring to Iran, because it demonstrates that it is considered an equal player
+      in the broader region and has countries that support its vital interests and are,
+      have pledged themselves to ensure that Iran stays independent and sovereign despite
+      all of the efforts of the United States. PressTV: 9:26 Right. Well, let’s talk
+      about that, because one of the goals of the drills, according to Iran, is also
+      to show that Iran and Russia and basically the littoral Caspian Sea states can
+      control these waters themselves, can keep the Caspian Sea secure and can provide
+      stability. And of course this is something that usually the United States does
+      not want to see and usually try to say that they have to be involved in order
+      for any area to be safe. The importance of this and the important role of these
+      two countries in providing that type of safety and security in the Caspian Sea?
+      Doctorow: This falls again into a broader context. Both Iran and Russia are member
+      states of the Shanghai Cooperation Organization. And the primary plank, or the
+      most significant unifying theme of the Shanghai Cooperation Agreement is precisely
+      to provide security to protect these countries against terrorism, against violence,
+      and against criminal gangs. So, in that respect, this particular operation that’s
+      now starting between Russia and Iran falls directly in the line of security, anti-terror
+      and anti-criminal gangs. It’s to provide safety in the sea and its littoral. PressTV:
+      11:06 You mentioned the Shanghai Cooperation. Let’s talk about that side of things
+      and possibly the expansion and having access to Central Asia and the Caucasus
+      via, of course, that body of water. Doctorow: Yes, it is. There are a number of
+      states that are bordering this sea. As I said, going back 20 years, the interest
+      of Turkmenistan at that time, of course they’ve changed since, but at that time
+      was to use the sea for purposes of transporting gas. The other states are equally
+      interested in its being secure and in keeping out would-be troublemakers like
+      the United States. PressTV: 12:00 Well we know that Iran and Russia earlier this
+      year have signed a cooperation and a defense pact basically, which includes joint
+      drills and tech sharing and coordination against common threats, but without a
+      mutual-defense clause. I want to talk about both sides, the importance of what
+      it includes and what it has excluded. Doctorow: Well, to my understanding, it
+      was on the initiative of Iran that a mutual defense component was not included
+      in the cooperation agreement. That was back in December. There was the hope still
+      then that Iran would find an accommodation with the United States, with the incoming
+      Trump administration, improbable as that seemed at the time. Nonetheless, there
+      was the hope that they would find accommodation, the sanctions would be lifted,
+      the Iranian economy could prosper in a more normal way. 13:10 That, as we know,
+      did not happen. Mr. Trump has been very difficult, has placed impossible demands
+      upon Iran in the negotiations. And so the bet on accommodation was not successful.
+      Nonetheless, I think specialists in Russian affairs, like myself, placed too much
+      stress on the defense component and underestimated, perhaps, Iran’s ability to
+      defend itself very well, as it did during the 12-day war. So I’m happy to say
+      that we were wrong, that Iran possibly was correct in not putting in a defense
+      component at that time, and had the opportunity to demonstrate to Russia and to
+      the world that it is very capable of defending itself with its thousands of highly
+      sophisticated missiles that are well protected against aerial bombardment. PressTV:
+      14:15 OK, you said it was perhaps OK at that time. Let’s talk now. Then Iran,
+      as you said, has shown the world its ability to defend itself. So at this point
+      in time, your thoughts from a strategic perspective, do you think that there should
+      be a defense pact now? Do you think that it should be expanded, the cooperation
+      between Russia and Iran? Doctorow: Well, again, in a broader context, given what
+      China has done, China sending several of its important naval assets into the Persian
+      Gulf in the last couple of days of the Iran-Israeli war to demonstrate to the
+      United States that it was ready for war if it came to that. Since China has proven
+      itself as a very reliable and powerful friend in time of need, I think that it
+      would be appropriate now for Russia to step in and do the same thing. Russia would
+      not be standing by itself; t would have China as a fellow defender or partner
+      in the defense of Iran. And for that matter, it would, we know now the commitment
+      of Pakistan to Iran’s survival as a sovereign state. 15:42 So in this group of
+      nations interested in Iran’s continuing sovereignty and independence, an agreement
+      with Russia would make a lot of sense. PressTV: And how much of it you would say
+      that, as a matter of fact, it’s the policies coming out of Washington that actually
+      increases the possibility of these countries working even closer together as Russia
+      is being heavily sanctioned, Iran is being heavily sanctioned and China as you
+      brought up also under threat, from military threats to, of course, the tariffs.
+      I mean, your thoughts basically, from a strategic perspective, would you think
+      that these countries, whether we’re talking about China, Russia or Iran, would
+      basically say that sticking together at this point in time is the best way forward
+      in basically conquering or trying to deal with the global bully? Doctorow: Well,
+      I think that it is very timely that the countries should stand together. We see
+      now in the approaching summit of the EU-China that von der Leyen is coming with
+      a message to President Xi that he should break his support, should turn his back
+      on the support for Russia. And we see Xi saying that that cannot happen because
+      he understands perfectly that China is next on the U.S. destruction list. So in
+      these circumstances, a very open confrontation and frank language, I think that
+      it is appropriate for the countries that are under attack from the United States
+      not to be bashful any more about defending their interests and readiness for war
+      if it comes to that. In the same context, the growing visible rapprochement and
+      mutual support between Russia and North Korea is a template for what can and should
+      be done in the case of Russia-Iranian relations. PressTV: 18:07 Your thoughts
+      about the overall message that Iran and Russia want to send to the West with these
+      drills? Doctorow: The message is that Mr. Trump has overplayed his hand. And that
+      is to the detriment of US and Western interests. And it can only be corrected
+      by a return to reason and realism, the acknowledgment that Iran was capable of
+      destroying, utterly destroying Israel, and did not do it, that they accepted Mr.
+      Trump’s request for a ceasefire not because Iran needed it, but because Israel
+      needed it. That should be made more visible, so that the world community, the
+      readers of the “Financial Times” and the “New York Times” would understand properly
+      how that war ended and why Iran is a strong country that deserves full respect
+      and not the treatment or the kind of bullying that Trump, through Witkoff, was
+      trying to exercise in the failed negotiations. PressTV: 19:29 And what do you
+      think it will take to get to that point. On the one hand, yes, Iran definitely
+      showed its strength. On the other hand, we have seen the jargon still coming out
+      of these western capitals, and the lack of condemnation continues against the
+      Israeli regime and the American regime. So how do we get there, what you said?
+      Doctorow: 19:53 For the United States to correct its positions on Gaza, that is
+      impossible at this particular moment because of Mr. Trump’s dependence on support
+      from the majority in Congress that are pro-Israeli, pro-Zionist, and unreasonable
+      about the genocide and Israel’s violation of international law. So from the United
+      States, I don’t expect a change any time soon, but from Europe, it is entirely
+      thinkable. And I would look in that direction for a support in the case of Gaza
+      to end this genocide at once. Today is the National Day in Belgium, and the King,
+      Philippe, made a speech to the nation. And one of the two foreign policy issues
+      that he addressed was precisely Gaza and his call for the demand of the UN Secretary
+      General for an immediate ceasefire to be respected. So this is coming from Belgium.
+      He didn’t yet name Israel as the aggressor, as the perpetrator of genocide, but
+      it’s coming close to that. So I think Europe is at the moment, a more hopeful
+      talking partner on the issue of the Middle East that is certainly foremost for
+      Iran at this moment. That is a tragedy in the neighborhood that Israel is perpetrating.
+      PressTV: 21:39 And on that note, I appreciate your being with me, my sole guest
+      tonight on this “Spotlight”, Gilbert Doctorow, independent international affairs
+      analyst out of Brussels. And unfortunately our other guests could not join us,
+      but we thank you viewers for being with us on another “Spotlight”. I’m Marzieh
+      Hashemi. Hope to see you right here next time. Goodbye.'
+    one_sentence_summary: Iran's navy and Russian vessels are conducting maritime drills
+      in the Caspian Sea aimed at enhancing maritime safety and cooperation among littoral
+      countries, which has raised concerns in the United States.
+    paragraph_summary: Iran's navy, in collaboration with Russia and other Caspian Sea
+      littoral states, is conducting maritime drills titled "Together for a safe and
+      secure Caspian Sea," aimed at enhancing maritime safety and fostering cooperation
+      among these nations. The exercises have raised concerns in the United States,
+      particularly in light of the recent Israel-Iran conflict, as they signify a deepening
+      defense relationship between Iran and Russia. Analysts suggest that this cooperation
+      serves as a reminder of past U.S. interests in the region, particularly regarding
+      energy resources and geopolitical influence, which may be challenged by the strengthening
+      ties among these neighboring countries.
+    published: '2025-07-22T20:23:25+00:00'
+  - title: Transcript of Iran TV interview on Russian-Iranian naval exercises
+    url: https://gilbertdoctorow.com/2025/07/22/transcript-of-iran-tv-interview-on-russian-iranian-naval-exercises/
+    text: 'Transcript submitted by a reader PressTV: 0:18 … Spotlight. I’m Marzieh Hashemi.
+      Thanks so much for being with us. Iran’s navy, Northern Fleet and Russian vessels
+      are conducting maritime drills in the Caspian Sea. “Together for a safe and secure
+      Caspian Sea” is the slogan that has been chosen for the drills. Now, according
+      to Iran, the primary goal of the exercise is to reinforce maritime safety and
+      security while fostering greater cooperation among naval forces of the Caspian
+      Sea littoral countries. But what is the reason that these drills by neighboring
+      countries are viewed with concern by some in the United States? Well, stay with
+      us. We’re going to take a look at some footage and then I will be welcoming my
+      guests. 2:15 I’d like to welcome my guests to the program. I’d like to welcome
+      my first guest, George Szamuely, Senior Research Fellow, Global Policy Institute,
+      London Metropolitan University, out of Budapest. And Gilbert Doctorow,independent
+      international affairs analyst out of Brussels. Well, thank you so much. I’m going
+      to start this off with Gilbert. Welcome to the program. Gilbert, what is your
+      perspective about the significance of these three-day drills between Iran and
+      Russia, along with other Caspian Sea littoral states? Gilbert Doctorow, PhD: 2:57
+      Well, for one thing, it is a reaffirmation that after the 12-day Israel-Iran war,
+      Russia remains interested and pursuing a very close relationship with Iran in
+      all domains, including defense. So that is a signal to the world at large that
+      this cooperation is in full effect. At the same time, I, since you mentioned in
+      passing that the United States might be one of those countries not pleased by
+      the ongoing cooperation in the Caspian between Iran and Russia, it brings back
+      to my mind what was going on 20 years ago when the United States was hoping to
+      intervene in the Caspian Sea management by furthering the either pipeline or LNG
+      shipments of Turkmenistan gas across the Caspian for the purpose of countering
+      Russian gas dominance in Europe. 4:12 So it’s an old story as far as the United
+      States is concerned, the United States trying to frustrate the Caspian littoral
+      countries from managing the sea themselves. PressTV: Yeah, indeed. I mean, it’s
+      interesting, because you just talked about the United States. I mean, looking
+      at that, It’s quite interesting that Washington would have problems with neighboring
+      countries having naval drills. When the United States goes to the other side of
+      the world and have constant naval drills with so many different countries. I mean,
+      let’s talk about that, the hypocrisy and the reason [for] such sensitivity about
+      the Caspian Sea. Doctorow: 05:00 Yes, well the United States is a practitioner
+      of hypocrisy in its foreign policy in almost any domain that you touch. So it
+      is not surprising that it would behave in a hypocritical manner with respect to
+      the cooperation by these two countries in an area where it would like to intervene
+      and have a presence, but is systematically excluded by the Caspian Sea littoral
+      countries. PressTV: Well Gilbert, from your perspective, from a strategic perspective,
+      how important is the Caspian Sea? Doctorow: Well, the Caspian Sea is of course
+      a major asset for both Iran and for Russia. Transport across the sea between the
+      countries is foreseeable, although the predominant emphasis in cooperation now
+      is on landlines by rail through the Caucuses. Nonetheless, it is a major asset
+      in many respects, not just defense, but also economic, that the two countries
+      share. And so it is an affirmation of their cooperation, as I say, that they are
+      carrying out these present military exercises. PressTV: 6:23 Yeah, you just mentioned,
+      not just from a military perspective, also from an economic one. Let’s look at
+      that, because we know that both countries have been and are majorly sanctioned
+      by the United States. Tell me about the possibility of actually enhancing the
+      economies of both these countries via that route. Doctorow: Well, of course, sea
+      transport is by nature cheaper than land transport, And it would be understandable
+      that this would be one element in the increasing logistical cooperation between
+      Iran and Russia. Although, as I say, the biggest investments that are foreseeable
+      in the near future pertain to rail connections for the North-South corridor. 7:19
+      But notwithstanding that, development of shipping across the Caspian Sea has to
+      be in the target projects of both countries. There is fishing, of course the Caspian
+      is a source of caviar and other valuable seafood products, But I think the logistical
+      angle is probably economically the more important. PressTV: What about the overall
+      deepening military and maritime cooperation between these two countries, especially
+      now? Doctorow: The two countries are a major stabilizing factor in the region,
+      but they don’t stand alone. One has to mention, of course, the quite profound
+      cooperation between Iran and China and recently during the Israeli-Iran war, the
+      statement of interest and support that came from Pakistan. 8:29 So we’re looking
+      at cooperation between Russia and Iran in a broader context of countries in Asia,
+      in the part of Eurasia, that have defense interests as well as economic interests
+      and are defying the efforts of the United States to sanction both and to harm
+      both countries economically. This, as I say, the broader context should be very
+      reassuring to Iran, because it demonstrates that it is considered an equal player
+      in the broader region and has countries that support its vital interests and are,
+      have pledged themselves to ensure that Iran stays independent and sovereign despite
+      all of the efforts of the United States. PressTV: 9:26 Right. Well, let’s talk
+      about that, because one of the goals of the drills, according to Iran, is also
+      to show that Iran and Russia and basically the littoral Caspian Sea states can
+      control these waters themselves, can keep the Caspian Sea secure and can provide
+      stability. And of course this is something that usually the United States does
+      not want to see and usually try to say that they have to be involved in order
+      for any area to be safe. The importance of this and the important role of these
+      two countries in providing that type of safety and security in the Caspian Sea?
+      Doctorow: This falls again into a broader context. Both Iran and Russia are member
+      states of the Shanghai Cooperation Organization. And the primary plank, or the
+      most significant unifying theme of the Shanghai Cooperation Agreement is precisely
+      to provide security to protect these countries against terrorism, against violence,
+      and against criminal gangs. So, in that respect, this particular operation that’s
+      now starting between Russia and Iran falls directly in the line of security, anti-terror
+      and anti-criminal gangs. It’s to provide safety in the sea and its littoral. PressTV:
+      11:06 You mentioned the Shanghai Cooperation. Let’s talk about that side of things
+      and possibly the expansion and having access to Central Asia and the Caucasus
+      via, of course, that body of water. Doctorow: Yes, it is. There are a number of
+      states that are bordering this sea. As I said, going back 20 years, the interest
+      of Turkmenistan at that time, of course they’ve changed since, but at that time
+      was to use the sea for purposes of transporting gas. The other states are equally
+      interested in its being secure and in keeping out would-be troublemakers like
+      the United States. PressTV: 12:00 Well we know that Iran and Russia earlier this
+      year have signed a cooperation and a defense pact basically, which includes joint
+      drills and tech sharing and coordination against common threats, but without a
+      mutual-defense clause. I want to talk about both sides, the importance of what
+      it includes and what it has excluded. Doctorow: Well, to my understanding, it
+      was on the initiative of Iran that a mutual defense component was not included
+      in the cooperation agreement. That was back in December. There was the hope still
+      then that Iran would find an accommodation with the United States, with the incoming
+      Trump administration, improbable as that seemed at the time. Nonetheless, there
+      was the hope that they would find accommodation, the sanctions would be lifted,
+      the Iranian economy could prosper in a more normal way. 13:10 That, as we know,
+      did not happen. Mr. Trump has been very difficult, has placed impossible demands
+      upon Iran in the negotiations. And so the bet on accommodation was not successful.
+      Nonetheless, I think specialists in Russian affairs, like myself, placed too much
+      stress on the defense component and underestimated, perhaps, Iran’s ability to
+      defend itself very well, as it did during the 12-day war. So I’m happy to say
+      that we were wrong, that Iran possibly was correct in not putting in a defense
+      component at that time, and had the opportunity to demonstrate to Russia and to
+      the world that it is very capable of defending itself with its thousands of highly
+      sophisticated missiles that are well protected against aerial bombardment. PressTV:
+      14:15 OK, you said it was perhaps OK at that time. Let’s talk now. Then Iran,
+      as you said, has shown the world its ability to defend itself. So at this point
+      in time, your thoughts from a strategic perspective, do you think that there should
+      be a defense pact now? Do you think that it should be expanded, the cooperation
+      between Russia and Iran? Doctorow: Well, again, in a broader context, given what
+      China has done, China sending several of its important naval assets into the Persian
+      Gulf in the last couple of days of the Iran-Israeli war to demonstrate to the
+      United States that it was ready for war if it came to that. Since China has proven
+      itself as a very reliable and powerful friend in time of need, I think that it
+      would be appropriate now for Russia to step in and do the same thing. Russia would
+      not be standing by itself; t would have China as a fellow defender or partner
+      in the defense of Iran. And for that matter, it would, we know now the commitment
+      of Pakistan to Iran’s survival as a sovereign state. 15:42 So in this group of
+      nations interested in Iran’s continuing sovereignty and independence, an agreement
+      with Russia would make a lot of sense. PressTV: And how much of it you would say
+      that, as a matter of fact, it’s the policies coming out of Washington that actually
+      increases the possibility of these countries working even closer together as Russia
+      is being heavily sanctioned, Iran is being heavily sanctioned and China as you
+      brought up also under threat, from military threats to, of course, the tariffs.
+      I mean, your thoughts basically, from a strategic perspective, would you think
+      that these countries, whether we’re talking about China, Russia or Iran, would
+      basically say that sticking together at this point in time is the best way forward
+      in basically conquering or trying to deal with the global bully? Doctorow: Well,
+      I think that it is very timely that the countries should stand together. We see
+      now in the approaching summit of the EU-China that von der Leyen is coming with
+      a message to President Xi that he should break his support, should turn his back
+      on the support for Russia. And we see Xi saying that that cannot happen because
+      he understands perfectly that China is next on the U.S. destruction list. So in
+      these circumstances, a very open confrontation and frank language, I think that
+      it is appropriate for the countries that are under attack from the United States
+      not to be bashful any more about defending their interests and readiness for war
+      if it comes to that. In the same context, the growing visible rapprochement and
+      mutual support between Russia and North Korea is a template for what can and should
+      be done in the case of Russia-Iranian relations. PressTV: 18:07 Your thoughts
+      about the overall message that Iran and Russia want to send to the West with these
+      drills? Doctorow: The message is that Mr. Trump has overplayed his hand. And that
+      is to the detriment of US and Western interests. And it can only be corrected
+      by a return to reason and realism, the acknowledgment that Iran was capable of
+      destroying, utterly destroying Israel, and did not do it, that they accepted Mr.
+      Trump’s request for a ceasefire not because Iran needed it, but because Israel
+      needed it. That should be made more visible, so that the world community, the
+      readers of the “Financial Times” and the “New York Times” would understand properly
+      how that war ended and why Iran is a strong country that deserves full respect
+      and not the treatment or the kind of bullying that Trump, through Witkoff, was
+      trying to exercise in the failed negotiations. PressTV: 19:29 And what do you
+      think it will take to get to that point. On the one hand, yes, Iran definitely
+      showed its strength. On the other hand, we have seen the jargon still coming out
+      of these western capitals, and the lack of condemnation continues against the
+      Israeli regime and the American regime. So how do we get there, what you said?
+      Doctorow: 19:53 For the United States to correct its positions on Gaza, that is
+      impossible at this particular moment because of Mr. Trump’s dependence on support
+      from the majority in Congress that are pro-Israeli, pro-Zionist, and unreasonable
+      about the genocide and Israel’s violation of international law. So from the United
+      States, I don’t expect a change any time soon, but from Europe, it is entirely
+      thinkable. And I would look in that direction for a support in the case of Gaza
+      to end this genocide at once. Today is the National Day in Belgium, and the King,
+      Philippe, made a speech to the nation. And one of the two foreign policy issues
+      that he addressed was precisely Gaza and his call for the demand of the UN Secretary
+      General for an immediate ceasefire to be respected. So this is coming from Belgium.
+      He didn’t yet name Israel as the aggressor, as the perpetrator of genocide, but
+      it’s coming close to that. So I think Europe is at the moment, a more hopeful
+      talking partner on the issue of the Middle East that is certainly foremost for
+      Iran at this moment. That is a tragedy in the neighborhood that Israel is perpetrating.
+      PressTV: 21:39 And on that note, I appreciate your being with me, my sole guest
+      tonight on this “Spotlight”, Gilbert Doctorow, independent international affairs
+      analyst out of Brussels. And unfortunately our other guests could not join us,
+      but we thank you viewers for being with us on another “Spotlight”. I’m Marzieh
+      Hashemi. Hope to see you right here next time. Goodbye.'
+    one_sentence_summary: Iran's navy and Russian vessels are conducting maritime drills
+      in the Caspian Sea aimed at enhancing maritime safety and cooperation among littoral
+      countries, which has raised concerns in the United States.
+    paragraph_summary: Iran's navy, in collaboration with Russia and other Caspian Sea
+      littoral states, is conducting maritime drills titled "Together for a safe and
+      secure Caspian Sea," aimed at enhancing maritime safety and fostering cooperation
+      among these nations. The exercises have raised concerns in the United States,
+      particularly in light of the recent Israel-Iran conflict, as they signify a deepening
+      defense relationship between Iran and Russia. Analysts suggest that this cooperation
+      serves as a reminder of past U.S. interests in the region, particularly regarding
+      energy resources and geopolitical influence, which may be challenged by the strengthening
+      ties among these neighboring countries.
+    published: '2025-07-22T20:23:25+00:00'
+  - title: 'Belgian Military Parade: National Day celebrations, Brussels, 21 July'
+    url: https://gilbertdoctorow.com/2025/07/22/belgian-military-parade-national-day-celebrations-brussels-21-july/
+    text: 'Associated Press has released its video coverage of this event was the high
+      point of National Day celebrations yesterday in Brussels. For commentary on this
+      parade as well as on King Philippe’s address to the nation, go to my platform:
+      https://gilbertdoctorow.substack.com/'
+    one_sentence_summary: The Associated Press has shared video coverage of the National
+      Day celebrations in Brussels, highlighting the parade and King Philippe's address
+      to the nation.
+    paragraph_summary: The Associated Press has shared video coverage highlighting the
+      peak of National Day celebrations in Brussels, featuring a parade and King Philippe's
+      address to the nation. For further insights and commentary on these events, readers
+      are directed to Gilbert Doctorow's platform at Substack.
+    published: '2025-07-22T09:26:45+00:00'
+  - title: 'Belgian Military Parade: National Day celebrations, Brussels, 21 July'
+    url: https://gilbertdoctorow.com/2025/07/22/belgian-military-parade-national-day-celebrations-brussels-21-july/
+    text: 'Associated Press has released its video coverage of this event was the high
+      point of National Day celebrations yesterday in Brussels. For commentary on this
+      parade as well as on King Philippe’s address to the nation, go to my platform:
+      https://gilbertdoctorow.substack.com/'
+    one_sentence_summary: The Associated Press has shared video coverage of the National
+      Day celebrations in Brussels, highlighting the parade and King Philippe's address
+      to the nation.
+    paragraph_summary: The Associated Press has shared video coverage highlighting the
+      peak of National Day celebrations in Brussels, featuring a parade and King Philippe's
+      address to the nation. For further insights and commentary on these events, readers
+      are directed to Gilbert Doctorow's platform at Substack.
+    published: '2025-07-22T09:26:45+00:00'
+  - title: 'Press TV (Iran): Russia-Iran joint maritime drill in the Caspian'
+    url: https://gilbertdoctorow.com/2025/07/22/press-tv-iran-russia-iran-joint-maritime-drill-in-the-caspian/
+    text: 'Press TV (Iran): Russia-Iran joint maritime drill in the Caspian Last night’s
+      chat with Press TV presenter Marzieh Hashemi about the ongoing Russian-Iranian
+      naval exercises in the Caspian was perhaps too much of a good thing for me. Normally
+      the format of The Spotlight calls for two panelists, but for technical reasons
+      my counterpart was unreachable and I faced non-stop questions for 20 minutes which
+      was fairly stressful. Nonetheless, as Gogol once wrote, из всякой дряни можно
+      добро получить, which may be freely translated as ‘from any old thing you can
+      extract something good.’ I filled the time with more frank and open discussion
+      of the potential for Russian-Iranian mutual defense and of the history of U.S.
+      interference in management of the Caspian Sea going back 20 years to the time
+      of the ‘gas pipeline wars’ when Washington tried to use the waterway for pipelines
+      or LNG transshipment of Turkmenistan gas that would be carried to Europe outside
+      the borders of the Russian Federation and to the detriment of Russian exports.
+      Now that I have viewed the video, I find it most interesting how the presenter
+      pursued the question of whether Moscow would and should reconsider its relationship
+      with Teheran to include mutual defense.'
+    one_sentence_summary: The article discusses a challenging interview about the ongoing
+      Russian-Iranian naval exercises in the Caspian Sea, highlighting the potential
+      for mutual defense between the two nations and reflecting on the historical U.S.
+      interference in the region's energy dynamics.
+    paragraph_summary: In a recent discussion on Press TV regarding the ongoing Russian-Iranian
+      naval exercises in the Caspian Sea, the presenter, Marzieh Hashemi, engaged in
+      a 20-minute dialogue with a guest who faced technical difficulties with their
+      counterpart. The conversation delved into the potential for a mutual defense agreement
+      between Russia and Iran, while also reflecting on the historical context of U.S.
+      interference in the region, particularly during the "gas pipeline wars" aimed
+      at undermining Russian energy exports. The guest noted the stress of the format
+      but found value in the open discussion, especially regarding the evolving dynamics
+      of Russian-Iranian relations and the implications for regional security.
+    published: '2025-07-22T08:50:24+00:00'
+  - title: 'Press TV (Iran): Russia-Iran joint maritime drill in the Caspian'
+    url: https://gilbertdoctorow.com/2025/07/22/press-tv-iran-russia-iran-joint-maritime-drill-in-the-caspian/
+    text: 'Press TV (Iran): Russia-Iran joint maritime drill in the Caspian Last night’s
+      chat with Press TV presenter Marzieh Hashemi about the ongoing Russian-Iranian
+      naval exercises in the Caspian was perhaps too much of a good thing for me. Normally
+      the format of The Spotlight calls for two panelists, but for technical reasons
+      my counterpart was unreachable and I faced non-stop questions for 20 minutes which
+      was fairly stressful. Nonetheless, as Gogol once wrote, из всякой дряни можно
+      добро получить, which may be freely translated as ‘from any old thing you can
+      extract something good.’ I filled the time with more frank and open discussion
+      of the potential for Russian-Iranian mutual defense and of the history of U.S.
+      interference in management of the Caspian Sea going back 20 years to the time
+      of the ‘gas pipeline wars’ when Washington tried to use the waterway for pipelines
+      or LNG transshipment of Turkmenistan gas that would be carried to Europe outside
+      the borders of the Russian Federation and to the detriment of Russian exports.
+      Now that I have viewed the video, I find it most interesting how the presenter
+      pursued the question of whether Moscow would and should reconsider its relationship
+      with Teheran to include mutual defense.'
+    one_sentence_summary: The article discusses a challenging interview about the ongoing
+      Russian-Iranian naval exercises in the Caspian Sea, highlighting the potential
+      for mutual defense between the two nations and reflecting on the historical U.S.
+      interference in the region's energy dynamics.
+    paragraph_summary: In a recent discussion on Press TV regarding the ongoing Russian-Iranian
+      naval exercises in the Caspian Sea, the presenter, Marzieh Hashemi, engaged in
+      a 20-minute dialogue with a guest who faced technical difficulties with their
+      counterpart. The conversation delved into the potential for a mutual defense agreement
+      between Russia and Iran, while also reflecting on the historical context of U.S.
+      interference in the region, particularly during the "gas pipeline wars" aimed
+      at undermining Russian energy exports. The guest noted the stress of the format
+      but found value in the open discussion, especially regarding the evolving dynamics
+      of Russian-Iranian relations and the implications for regional security.
+    published: '2025-07-22T08:50:24+00:00'
+  - title: Transcript of interview with Glenn Diesen, 16 July
+    url: https://gilbertdoctorow.com/2025/07/18/transcript-of-interview-with-glenn-diesen-16-july/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=09TIrNrAZIA
+      Prof. Glenn Diesen: 0:00 Hi everyone and welcome. We are joined again by Gilbert
+      Doctorow, historian, international affairs analyst, and also author of many books
+      such as the “War Diaries – the Russia-Ukraine War”, [for] which I will add a link
+      in the description. So yeah, welcome back to the program. Gilbert Doctorow, PhD:
+      Yeah, very good to speak to you again. Diesen: So one of the more recent news
+      is that Trump says he’s very angry with Putin. He says they have a nice conversation,
+      but then in the evening he goes on bombing Ukraine. And as always, it’s some uncertainty
+      in terms of the difference between the noise and the action. Either he’s seeking
+      to manage opposition at home and in Europe, or he’s lacking in strategic focus
+      and being, you know, swinging a bit back and forth. It’s, I haven’t been able
+      to solve this riddle, if I can be honest. It’s, it’s very, it seems like very
+      erratic behavior often. 1:11 So I was wondering if you can, well, try to share
+      your perspective and shed some light on what you think is happening here, because
+      it doesn’t seem to make much sense, even his argument or even the way he’s going
+      back and forth. Doctorow: Well, this is one instance of very important international
+      news where the leading, or the best, most widely seen experts on independent media,
+      on various YouTube channels, are agreed more or less on the facts, and are completely
+      in disagreement over the interpretation. We won’t have a clear indication of what
+      the interpretation is, until we know what the content of his arm shipments to
+      Ukraine [is]. So far we only know about Patriots. There is speculation that’s
+      partly encouraged by his reported discussion with Zelensky over long-range missiles.
+      Can he reach Moscow, can he reach Petersburg? 2:38 And of course, this fired up
+      a lot of speculation about Trump’s possibly giving this important offensive weaponry
+      to Ukraine. We don’t know anything though. That is all– I consider what he’s doing
+      is a continuation of what we’ve seen in the past several months on various international
+      developments. This is political theater. And he is playing it for all it’s worth.
+      He gets in front of the television cameras daily. He’s on international news.
+      There’s only one person making the news these days, and his name is Donald Trump.
+      So in that sense, the narcissist Trump can be very happy. 3:19 But is there anything
+      more to it than that? Is he, as one extreme interpretation, a hazard, that is
+      by Scott Ritter, is he an idiot? Are the people around him all idiots? Is the
+      Congress populated by idiots? Well, I personally find that a very poor start for
+      serious analysis of most anything, to assume that your opponents or the leading
+      figures of the day are idiots. I prefer to consider what is behind what seemed
+      to be strange or ineffectual actions. Can it be something else going on? One person
+      who has taken that approach, who has a lot of respect in alternative media, and
+      not only, is Colonel Douglas Macgregor, who was saying that Trump adopted the
+      least-bad solution to the pressure he’s been receiving from Congress and from
+      Europe to respond to Putin’s very aggressive and very destructive new attacks,
+      aerial attacks on Ukraine. So that was a kind of middle position. I take a position
+      that goes a little bit further than Colonel Macgregor on the political side. 4:45
+      And that is that Trump knew very well what he was doing. He was saying what he
+      said about arms deliveries, about new sanctions and secondary tariffs on Russia,
+      precisely to silence his critics, to give satisfaction to the most, the loudest-talking
+      member of the Republican group in Congress, in the Senate, Lindsey Graham. Graham
+      could take pride that the bill that he is steering through the Senate now has
+      the support of Trump, who on his own initiative has stated to the public that
+      he will be adopting the key point here of secondary tariffs at a hundred percent.
+      Well, that’s one thing, silence the critics. I can tell you that my recent appearances
+      on various video programs has been picked up by the Russians. And they pick up
+      precisely this point from my message, which to my mind is the least important
+      part of my message, that he was silencing his critics. No, for me the most important
+      thing is the 50 days. The fact that he has given President Putin 50 days is indicative
+      that he has little or no intention of continuing the war, of making Biden’s war
+      his own war, but instead is giving Mr. Putin time to finish up the job, in the
+      same way that he instructed Netanyahu early in his presidency to get on with it,
+      do whatever dastardly things you have to do in Gaza, but let’s be done with it
+      and move on. That’s what he was saying to my way of thinking, to Vladimir Putin.
+      5:41 But none of us will know what really has happened. Has he joined the new
+      cons? Has he made common cause with them? Or is he duping them, as I believe,
+      with these words about sanctions and arms shootings, and intends to go for his
+      detente? The proof will be what is in that package of weapons being shipped. Diesen:
+      7:07 Yeah, the 50 days. I was thinking a bit about this as well. It could be a
+      delaying tactic in order to not have to pick a side or make any big decisions
+      because again, he wants to normalize relations with the Russians, but he doesn’t
+      want to alienate too many in his own camp. It could also, as you said, allow the
+      Russians to finish off what they’re doing. Well it could also be an effort to
+      negotiate, to put some pressures, a deadline. So it can be interpreted in many
+      ways. But this is something that confused the Europeans a bit as well. Why do
+      we have to wait 50 days for these sanctions? And his response was simply, well,
+      50 days isn’t that much. Maybe it comes earlier. But I’m often inclined to lean
+      in the direction that there is incompetence or as you said, the stupidity, but
+      on the other hand, he does from, yeah, from the past decades, he’s always talked
+      about the importance of strategic ambiguity when you negotiate. And he does like
+      to think of himself as a negotiator. So if you, if you’re … playing with [a] too-open
+      hand, it’s very difficult to … get the deals you want. So again, this is something
+      his own administration says as well. “We won’t let anyone know exactly what we’re
+      thinking or what we’re doing.” This is what he was always criticizing Biden for
+      as well. 8:45 So if it works or not, putting that aside, nonetheless, I think
+      we can conclusively say that this is something he believes in, this strategic
+      ambiguity. So I do see the argument there, that ambiguity allows him to get some
+      room for maneuver to do other things. And the pressure, as you said, has been
+      mounting, given that the Russian strikes last night on Kharkov are becoming much
+      more brutal in nature, that is both the quantity and the targeting. So one can
+      see why there will have to be some reaction. But I guess your argument though,
+      is that his response to this is to talk big, but it’s somewhat muted because it
+      all depends, I guess, on the weapons he’s sending. 9:41 And I’m not sure if I’m
+      understanding this correctly, but to what extent are the Americans sending weapons,
+      or to what extent are they actually selling them? Because it seems as if he’s
+      selling weapons to the Europeans, and the Europeans can give it to Ukraine, and
+      somehow this has to happen under the umbrella of NATO for some reason? Doctorow:
+      10:03 That’s a distinction without a difference. The question that I had in my
+      mind is: is he just going to ship more of the same, meaning more tanks, more Bradleys,
+      more artillery shells, so much as they have them, which certainly must have been
+      in the pipeline. Let’s come back to this question, is this Biden’s war or Trump’s
+      war? What he said about the ship was authorized under Biden. This is not new appropriations
+      from Congress. So in that sense, I think it is not proper to speak about these
+      shipments making it Trump’s war. Now, if indeed, it is materiel that was authorized
+      by Biden, then it is no cause for worry, because there’s nothing that will threaten
+      the Russians, or will change or will escalate the war. However, if new items are
+      being put in, and particularly offensive weapons, long-range missiles, like ATACMS,
+      which were never shipped, if they are now in the mix, then it’s a very different
+      readout of what Trump is doing. And he would be going beyond the irresponsibility
+      button to a new level that takes us to World War III. 11:28 The Russians have
+      made it plain by their latest revised nuclear doctrine that if they are hit by
+      such weapons– this was either, it was originally discussed with respect to ATACMS
+      and with respect to Taurus– if they are hit with this, they can respond with nuclear
+      arms. And I find it incredible that Trump’s team would not take this into account
+      and would authorize ATACMS or something that could reach far into Russia. So I
+      believe that we’re on the plane of empty rhetoric, shipping things which everyone
+      knows will be of no use to the Ukrainians, because the tanks and the Bradleys
+      will just be hidden in the forest since if they put them in the open space, they’ll
+      be destroyed at once. Just as the Russians are not using their superiority in
+      tanks on the ground. They are also hiding them in the forest and shooting out
+      from under cover. And they’re using the tanks just as can, more precise can, with
+      maybe 8-10 kilometer range. 12:44 The war has changed. And I don’t see my peers
+      taking that into account properly. What we are witnessing now is massive air attack,
+      not just that came into the head of Putin or his general staff. “Well, let’s try
+      this.” No, it’s precisely because what they were doing up to this point has reached
+      the point, the stage where it’s no longer productive. The Russians, to advance
+      deep into Ukraine now, would have to take enormous losses because of the drone,
+      the omnipresent Ukrainian drones on the battlefield. Therefore, they have gone
+      to aerial bombardment. Now, once you’re in aerial bombardment and missile strikes,
+      it’s only a half step to using those Oreshniks and getting the damn thing over
+      with. If they take out, if they decapitate Kiev, which is entirely within their
+      possibilities, then a lot of lives will be saved at all sides. 13:42 Now, this
+      comes within the 50 days. It’s entirely possible to finish off Ukraine within
+      50 days if they decapitate the country with the missiles they have ready. My question
+      is, is Mr. Putin going to rise to that challenge? I don’t know. Nobody knows.
+      And so we may be stuck with still stalling and stalling. As regards aerial attack,
+      it doesn’t have a time limitation the way ground assalts do. Because of seasonality,
+      there is a negligible factor in the devastation that is being brought. So if Putin
+      responds both to the challenge, finish it up, and to the opportunity, now that
+      he’s not going to be escalating, he’s already in the next stage of an aerial rather
+      than ground war, we may see the end of this. 14:41 And I think that Trump could
+      find this very satisfactory. Then the United States and Russia can put their heads
+      together and say, “Well, what are we going to do to put Ukraine back together
+      again?” Along the lines of Russia’s desirata of what they want as their end game.
+      And Europe would be sidelined unless they invite them in on the same conditions.
+      But let’s be constructive. Let’s talk about an investment fund. Let’s talk about
+      a neutral Ukraine. And we’re talking about a rump Ukraine. That could be the basis
+      for moving on to detente. It’s all there. Am I right, am I wrong? We will know
+      in a few weeks, depending on the content of the military package. 15:24 Yeah,
+      that’s what I thought. Now I saw the weapons would be important because, well,
+      if the, well, there’s some flaws in the, in the whole optimism, at least we see
+      now in Europe. Because well, the Europeans, do they have the money? And do the
+      Americans have the weapons to sell them? And do the Ukrainians have the human
+      resources to operate them? I was wondering if you see it likely in terms of the
+      Tomahawks being sent because this is something that you suggested that would trigger
+      great concern among the Russians. Indeed, having Tomahawks and other missiles
+      in Ukraine was one of the reasons for the invasion to begin with. But how worried
+      should they be though? Because usually they have to be launched from, you know,
+      warships or strategic bombers. To … what extent– I guess would make sense. Again,
+      I’m never sure if this is a lack of [logic], flawed logic or if it’s a strategic
+      ambiguity, but what kind of weapons would be crossing the line? Doctorow: 16:40
+      Well, ATACMS to begin with. No one was talking about Tomahawks in the past. They
+      were speaking about these precisely ground-launched missiles using the already
+      existing HIMARS launchers. The United States shipped a lot of HIMARS, and the
+      launchers arre there. And the same launchers can be used on the ground to launch
+      the ATACMS. And that’s why there was great concern in Russia, because they are–
+      the limitation on the Storm Shadow and the SCALP from France and also Taurus is
+      that they are air-launched. And you have to have planes that are adapted to those
+      particular missiles, and you have to have planes and pilots, and you have to have
+      airfields, which the Russians have done a pretty good job of savaging. So if they
+      were, as you say, the Tomahawks, the version exists, it can be ground launched,
+      it’s quite exotic. 17:40 If these were to be supplied, then we’re heading into
+      the unknown. I can’t imagine that Trump could agree to that, because it would
+      be a level of escalation that takes us just to the brink of nuclear war. Diesen:
+      So what can we expect then from the Russians in the next 50 days? You used the
+      word “decapitating” strike. Do you think they can try to go in for finishing off
+      Ukraine? Because again, we’ve spoken in the past about the danger of underestimating
+      the resilience of Ukraine. That is, they do keep fighting on. I thought things
+      would have begun to collapse militarily as well as politically a long time ago,
+      but here they are. They’re still putting up a pretty good fight. But given the
+      huge intensity now, increasing intensity from the Russian side, in attacking targets
+      across Ukraine, do you think they are going for, if not knocking out the military,
+      then going for the political leadership or something to put an end to this war?
+      Because in the war of attrition, you do exhaust the adversary, but the Ukrainians
+      appear quite exhausted now. At least an attempt by the Russians to go for this
+      over the next 50 days. Or if this is as you suggest, Trump’s purpose might be
+      to give the Russians 50 days to get this done with, whatever they want to do and
+      then end the war. Is this what they might spend their 50 days on? Doctorow: There’s
+      one issue here that has to be addressed, and that is the nature of Mr. Putin.
+      Not just that he’s very cautious, but that he approaches everything from a lawyer’s
+      perspective, being a trained lawyer. And that has its up side and its down side.
+      In the given case, I cannot see him giving orders for a decapitating strike under
+      the terms of the Special Military Operation. That would be illegal, as he would
+      determine it. 19:50 However, Mr. Zelensky should be careful about what he wishes
+      for. If he receives any offensive weapons, which he then uses and strikes within
+      the Russian Federation at what they consider to be strategic assets, then Mr.
+      Putin would declare war. That would be considered an act of war. He declares war,
+      and then it can decapitate Ukraine, in the context, only in the context of a declared
+      war, from the perspective of Mr. Putin’s mentality. So there’s the qualification
+      on how the 50 days could be used. I don’t think that Donald Trump is aware of
+      that feature in Putin’s behavior. Certainly Mr. Trump himself doesn’t care a whit
+      for law, what’s written even in the constitution. So it could not occur to him
+      that Mr. Putin would. And that is exactly the case. There has to be a declaration
+      of war for the Ukrainians to receive their decapitating strike. Diesen: 21:00
+      I also want to get your opinion on an item in the news, which was that Trump had
+      allegedly asked Zelensky if he’s able to strike Moscow or St. Petersburg, so Putin
+      would feel the pain. And then later on he was asked, I think it was on the tarmac,
+      the same question. And he said, “Oh, no, no, I don’t want him to Moscow.” Do you
+      have any thoughts around this back and forth? Doctorow: He was feeding the jackals.
+      And the jackals picked it up. They picked up this piece of rotting flesh very
+      nicely. By here I mean the BBC. They have gone into overdrive on how Mr. Trump
+      is fed up with Putin. He’s now aligned with the haws in Congress and and so forth.
+      I don’t believe that for a minute. But again, this is my my best guess. It is
+      not founded on anything concrete, because we just discussed what the missing pieces
+      to the puzzle are, which will decide whether the puzzle is being assembled, the
+      jigsaw puzzle is being assembled properly or wrongly. 22:11 The discussion was
+      piquant, he knew it would attract the press. It did, of course; as I say it’s
+      all over the BBC today. That’s just what they wanted to hear, that is giving Zelensky
+      hopes that he can strike Moscow and St. Petersburg. Diesen: But the, yeah, you
+      referred to the, give them hope to the, to the Europeans and the hawks within
+      the United States as well as Zelensky. But if Trump wanted to end this war and
+      he knows that Russia considers this to be an existential threat and it won’t move
+      much on its key demands — wouldn’t Trump need to mount more pressure on the Ukrainians
+      and Europeans as opposed to, I guess, throwing them some red meat and, well, making
+      them feel more comfortable with this leadership and the possibility of continuing
+      this war instead? Doctorow: 23:11 Again, we’re in the realm of political theater.
+      And I don’t believe the seriousness of what he has tossed out to the press. As
+      I’ve said, he despises the press and he’ll say anything, that he thinks will make
+      them look like fools. Diesen: And, I guess the last back and forth I noticed of
+      Trump was the arms deliveries. It was reported that, I think it was Pete Hegseth
+      that halted arms deliveries to Ukraine. Again, with the engagement with the media,
+      he was first asked, well, he was, he first stated that he wasn’t sure who had
+      halted the arms deliveries. And when he was asked, “Don’t you know what’s happening
+      in your own administration?” He said, “Well, I will be the first one to know.
+      Indeed, I would have ordered it.” Except, you know, he didn’t. So how do you make
+      sense of this? Doctorow: 24:13 Well, there isn’t any sense to make of it. He’s
+      contradicting himself. And again, it is another expression of his contempt for
+      the press. He’ll say anything to them. He doesn’t take them seriously, with good
+      reason. He is treated very badly by Fox News, by CNN, he’s treated with contempt
+      by them and he returns the coin. So I wouldn’t follow this too closely. Don’t
+      look for logic in what he says with a microphone in front of him. I follow what
+      his feet are doing and particularly I place emphasis on 50 days, which undermines
+      everything else. As you said, he could impose these sanctions tomorrow. He didn’t
+      do that. And so I don’t believe he ever will. Diesen: 25:11 Okay, so if you put
+      the American side of this war aside to conclude him more or less pursuing strategic
+      ambiguity. We won’t really know yet if he’s appeasing the hawks, the neocons,
+      or if he’s joined them, but we should know based on the weapons which are delivered.
+      Again, the Tomahawks or any long range missiles. This is kind of the red lines.
+      But if we shift over to the Europeans, what is the strategy of Europe? Are they
+      hoping that any of these weapons would turn the tide or, or is it just to pull
+      America further into this, to make it a long war? What is– it’s very hard to read
+      the Europeans, and here one gets the impression sometimes that there’s no one
+      behind the wheel. Doctorow: 26:07 Oh, there are people behind the wheel, but I
+      think they’re driving a different vehicle, and they’re concerned with a different
+      road. The road that interests them is power and retaining it. They have put themselves
+      in very fragile position by backing to the hilt a losing cause. And for them now
+      to move the discussion from Ukraine to our own defense and to building our military
+      industry and to how we deal with filling out the numbers of our men and women
+      at arms — that changes the discussion completely. And it’s all about their retaining
+      power. Because if there is this big threat from the East, then the logic is we
+      are the leaders, like as Ursula von der Leyen was saying, trying to defend herself
+      against charges of fraud and abuse of power over vaccines. And how does she defend
+      herself? Well, “We are now facing a very important threat from Russia, and we
+      need strong leadership”, meaning herself. That’s what it’s all about, is keeping
+      their hands on power at all costs, whether it serves the national interest or
+      not. 27:30 National interest, not to mention Ukraine’s interest, don’t count.
+      The spoils of power, what it’s all about. And here in Europe, in most of Europe,
+      with exceptions, France is an exception because the way it structures its governments
+      differently. But most of the European countries have coalition governments. And
+      the whole game of a coalition government is dividing the spoils of power. So that
+      is the center of attention of everybody at the top in Europe today. Not Ukraine,
+      not Mr. Trump, not tariffs, but keeping power. Diesen: 28:12 So the initial or
+      the main argument for the past three-plus years– in terms of boycotting all diplomacy,
+      rejecting negotiations and instead just pumping weapons into the war– the argument
+      was, “Well, we need to put the Ukrainians in a better position. We’ll negotiate
+      later once the Ukrainians can negotiate from a position of strength.” Does anyone
+      actually believe this in Europe now? I mean, your position there in Brussels,
+      because it does seem as if it’s becoming harder to deny that the war is shifting
+      more and more in the favor of Russia. That is the Ukrainians having more and more
+      problems building up. The Russians keep strengthening in the rear. 29:07 And also,
+      again, in a war of attrition, you should look at the ratio of casualties. But
+      the West, we tend to focus excessively on the territorial shifts. But even this
+      is starting to intensify. We see now the semi-encirclement of Pokrovsk, which
+      would be a strategic disaster, opening up the road all the way to the Dnieper
+      and of course, Constanivka, which would then begin to seal off the entire Donetsk
+      region. So there’s a desperation in there, isn’t there? I mean, so what exactly
+      do they hope to achieve here? Doctorow: 29:51 Let’s divide up the West, because
+      the United States is running on its own course. And in the question of how the
+      war is proceeding, the United States is much more open than Western Europe journalism.
+      A little bit seeps in here, in the press, but it’s really in “New York Times”
+      and the British press. I think the “Financial Times” also has articles which run
+      completely counter to the editorial position of newspaper. Journalists are reporting
+      what’s going on. “New York Times”, they are every few days speaking about Ukrainian
+      retreats or losses and the Russian advances. No question about it. They’re preparing
+      the public for Ukrainian defeat. 30:38 The most important indication of that was
+      what appeared on Monday in the “New York Times”. They had a front-page article
+      on the crimes that the Ukrainians committed during their occupation of Kursk oblost.
+      This was immediately denounced by Kiev as dissemination of vile propaganda. The
+      “New York Times”, for the first time in the whole war, had an article devoted
+      strictly to the war crimes that the Ukrainians are committing. Now that tells
+      you they’re preparing the public for the Ukrainian defeat and they will find many
+      reasons why they should have lost the war. I say the game is moving on, the competition
+      now is not about the fate of Ukraine. It’s about the future of the present-day
+      leaders in Europe, who have committed so much of their personal prestige and political
+      power to winning a war that they’re losing. And so they’re diverting attention
+      to, well 2029, how we have to be prepared for Russian invasion and so forth. They’re
+      changing the subject, because they lost this subject. Diesen: 31:54 Well, the
+      use of the media to exercise narrative control and prepare the public for a defeat
+      in Ukraine — I was thinking the same when I saw the gradual shift in the media
+      coverage in the United States. And of course, this “New York Times” article was
+      quite important as well. The fact that you had an American journalist from the
+      “New York Times”, I think she was already, well, the journalist was accompanying
+      Ahmad through Kursk. I mean, the fact that this was being done and the conclusion
+      on the coverage was the Ukrainian war crimes. This is something unthinkable two,
+      three years ago, when the Ukrainians could do no wrong and every person even with
+      a SWAT sticker had to be, the first instinct was always to whitewash it. But in
+      Europe though, I do not see this at all, especially in, well, I’m located in Scandinavia,
+      and here the war propaganda is just going full steam ahead, hardly any changes.
+      And indeed to suggest that Ukraine can’t win the war is denounced as Russian propaganda,
+      trying to reduce public support for what we call “helping Ukraine”, which is pushing
+      a war which the Ukrainians themselves want an end to. 33:21 But of all the Europeans,
+      for many people, well, if you would have said this four years ago, that Germany
+      would position themselves as the main country to essentially take over the fight
+      against Russia now that America is pulling back — this would have been very much
+      unthinkable a few years ago, but here we are. How are you reading the German position?
+      Because it’s not simply Merz; this is something deeper in German society, isn’t
+      it? Doctorow: 33:53 It covers the whole political spectrum. I believe this started
+      with the Alternative fur Deutschland, when they were the first to speak up, well
+      this goes back five years or more, the first to speak up and say, “Hey, we are
+      not responsible for the sins of our grandparents. We are new people, we are new
+      people, and we have to look after our sovereignty.” That was Avdei. And it’s covered
+      now the whole spectrum of German political life, where they do not take responsibility
+      for the crimes that Germany committed across Europe, not just in the destruction
+      of Jewry. They believe that they are morally clean, and they follow European values,
+      and they can get up on a soft box and preach to, well, particularly the Russians,
+      who are the _recidivists_ and who have to be properly punished for their violation
+      of European values. So there is the real threat that this is across the whole
+      German spectrum. They willfully are forgetting who they are. And they have changed
+      the role. They openly changed the role. 35:17 The role changed under the German
+      leadership going back 10 years. Merkel was responsible for changing the role,
+      but she did not want to name Germany. Germany did not have a foreign policy, according
+      to Merkel. The foreign policy was made in Brussels, very convenient. And who made
+      it in Brussels? Germans, since they dominated the parliament and the commission.
+      So de facto, Germany was the dominant force in European diplomacy and in world
+      policy. But this was not acknowledged by the German leadership in Berlin. They
+      hid behind the apron of Brussels. Now they’re coming out from behind the apron
+      and saying, “Yes, we are going to be Europe’s dominant defender.” As if this is
+      natural. It’s not natural. It was– the world for this was prepared by the gradual
+      collapse of France and its authority. Not just the economic weakness of France,
+      which was established decades ago compared to Germany, but its political weakness,
+      a succession of disastrous presidents. And Mr. Macron is the latest uncrowned
+      king under the French constitution, who defies the French political circles by
+      holding onto power when he has maybe a 20 percent approval rating. The French
+      are politically weak. The Germans have used that to move out in front, to muscle
+      the French aside. Mr. Macron is making a desperate effort, his announcement on
+      Bastille Day, that they are, “Oh, we are also raising our military budgets and
+      to be big defenders.” 37:14 And as soon as the Germans start talking about possibly
+      getting nuclear weapons, well, that is the absolute end of any French claims to
+      being Europe’s defenders. They could hide behind the fact that they and the Brits
+      were the only European countries with nuclear arms. If the Germans now aspire
+      to do that too, then the moment of truth has arrived, and everything that the
+      Germans aspired to in World War II, they now will be realizing, which is something
+      that should give us pause. Diesen: 37:46 Well, the German shift or return to militarism,
+      it appears to have, well, it’s not exactly that reason. That is, yes, throughout
+      the Cold War, they had this very cautious idea that, you know, learned from history,
+      they’re not going to engage in wars any more. But after the Cold War, in 1999,
+      the attack on Yugoslavia, that is to wrestle away Kosovo, you saw the logic in
+      the German argument shifting. So in the past, their history of genocide was a
+      reason for why they had to be more constrained. And suddenly over Kosovo, the
+      argument was, well, because of our history with genocide, we have a special responsibility
+      to prevent it other places. So instead of their genocidal history being a reason
+      for constraint, it was now a reason for taking action. And you see similar rhetoric
+      in Gaza, that is, as if they owed the Jewish population a debt, which is very
+      fair enough after the Holocaust, but this is translated into unconditional support
+      for Israel in effectively making the Palestinians pay for the crimes of the Germans
+      by supporting the genocide there. 39:05 And also during the Kursk operation, when
+      you had German generals appearing on TV, you know, with smiles on their face,
+      being excited as they were speaking about how this was humiliating for the Russians.
+      This was an important part of World War II and almost like a redo of World War
+      II, as they saw German tanks roll into Russia. It’s very unsettling. But besides
+      how the Russians are looking at this, how would the Europeans react? I mean, you
+      mentioned the French. Certainly the French do not want to be pushed aside. They
+      kind of had a division of labor. The Germans were the economic force, the French
+      were the military and that kind of creates some balance of power within the European
+      Union. Now that you know Germany is going to acquire weapons of mass destruction
+      and nuclear weapons, how comfortable are really the Europeans with this? I think
+      it was Thatcher already in her time, [who] warned that the German unification
+      could bring about the Fourth Reich. I mean, it’s not to argue that we overcome
+      this historical concern. It would be an exaggeration, wouldn’t it? Doctorow: 40:21
+      Well, it wasn’t just a Thatcher. Miserand also, he said, “I’ve been liking Germany
+      so much, we want to see two of them.” That concern about Germany existed. And
+      as to Germany’s coming out, so to speak, over Kosovo, actually that was, I think,
+      precipitated by American action. The whole crisis in the Yugoslav Civil War, was,
+      had a defining moment, and that was the attacks on Sarajevo, the marketplace,
+      I think this was 1996, correct me, and Germany could not bring itself to re-enter
+      Yugoslavia, again, considering the history of Germany’s devastating wars on Yugoslavia
+      during World War II, or attacks and destruction in Yugoslavia in World War II.
+      The Americans moved in, the Americans took charge, and then that relieved the
+      Germans to do what comes naturally. And to go back to bossing people around in
+      these fringe parts of Europe. 41:46 So America had its own role in relieving Germany
+      of its constraints and its hesitation, by bringing it into a coalition of NATO
+      that were doing what Germany was afraid to do, because that had been a dividing
+      line before World War I. What was– Serbia triggered World War I, and Germany did
+      not want to get into that region again. Well, it is, and it is in a lot of other
+      places where it shouldn’t be. And I have now in mind Mr. Merz’s very proud establishment
+      of the German presence in the Baltics to “protect the Eastern flank”. So the way
+      NATO had protected Germany during the First Cold War. The German position, is
+      there a militarism? I don’t know. I put my finger to the wind. I don’t think so.
+      There is, again, opportunism for the sake of political power in the hands of Mr.
+      Merz and the people around him. 42:57 I’m not sure that that is founded on a militaristic
+      feeling or enthusiasm in the German nation. I rather doubt it. Whether this develops,
+      we’ll see. Diesen: 43:12 Yeah, I think the Bosnian market attack must have been
+      in ’94 because [Dayton] came in ’95 and then Bosnia was finished. But I was wondering
+      though, the one thing that the Russians are looking at when they look towards
+      Germany is the Taurus missiles. As we know, Mertz used to advocate for them. Now
+      there seems to be some discussions that will let Ukraine build something similar
+      to the Taurus missile, which the whole thing seems to be dubious as if they’re
+      looking for a cover to supply the missiles. Did you think that some version of
+      the Taurus missile will be supplied or already has been supplied? And if so, what
+      do you expect the Russian response to be? Because my impression is that of all
+      the European countries, a lot of the resentment now is directed towards Germany.
+      And given that they’re competing with the British for animosity, it’s kind of
+      impressive how the Germans have moved up the ranks in terms of being seen as an
+      adversary, if not an enemy then of Russia? 44:23 [We’ll have] the number one enemy
+      of Russia. When Mr. Soloviyov on his famous, on his well-known programs directly
+      calls Mr. Merz a Nazi several times. And not as a joke, but as a dead serious
+      accusation, I take that as being a word coming from the Kremlin, certainly Mr.
+      Medvedev would make similar statements. So they have earned the position of Russia’s
+      enemy number one. As to the Taurus, I think that Mr. Putin would be in a very
+      tough spot if the Taurus is actually used by the Ukrainians, because that is openly
+      crossing his most important red line, that he has discussed in interviews with
+      Pavel Zarubinuk, that had then been shown repeatedly on Russian television and
+      in the West, saying that these weapons cannot properly be controlled by the Ukrainians
+      themselves and implicate as co-belligerents those who have supplied the weapons
+      like Taurus to Ukraine. 45:34 The same is true, of course, of ATACMS. Even if
+      the Ukrainians are properly instructed on how, what button to push or when, the
+      coding of the path, flight path, the decisions on targeting are all taken by,
+      and the information necessary from satellite intelligence is coming from the United
+      States. And so for Putin to accept this, I think he might as well just give up
+      and stop the war and be overthrown, because that’s what it would mean. It’s incredible.
+      It’s impossible that he could hold on to power if he did not follow through on
+      his threats to the United States, to Germany for attacks coming via these long-range
+      missiles. And by the way, I firmly believe that some Taurus are already in Kiev,
+      going back several months. Whenever the announcement is made that “in [not long],
+      a month or two, we will ship”, it means they already are there. Diesen: 46:47
+      So, well, by the way, I agree with that assessment. I also think this would be
+      the final straw that it would make it impossible for Russia not to attack. People
+      keep saying, oh, why would they risk this? But, well, certainly Germany is willing
+      to risk the war. So it would be too high cost, I think, for the Russians to do
+      nothing. But what exactly could they do? They would be, you know, you have different
+      targets, which would indicate different levels of escalation. Rather than attacking
+      German military bases, wouldn’t it make, do you see it as more likely to attack
+      German, I guess, industrial facilities where these weapons are actually being
+      made? Or what do you see as, well, again, we can’t get into President Putin’s
+      head, but what do you see as likely or possible targets for the Russians to retaliate
+      against Germany. Doctorow: 47:51 I think we have to try to get into his head in
+      one respect, and I continue the point I made earlier. The man has a legalistic
+      frame of mind. I think we got a hint how this will play out in a recent statement
+      by Lavrov that if these Taurus are implemented, if their use is authorized from
+      Ukraine and attacks on Russia, then Russia will break all the relations with Germany.
+      Now, what does that mean? That’s what you do when you’re declaring war. So essentially,
+      again, I don’t believe that Putin will attack anybody without a declaration of
+      war. And I think that that’s what would happen. He would declare a war on Germany
+      and then he would strike. 48:44 And what he strikes, a military base or these
+      production sites, is a secondary consideration. I don’t think this has been properly
+      factored into the recommendations that Karaganov made two years ago. He was not
+      looking at Putin’s way of thinking. “Yes, we have to do this, we take them seriously,
+      our red lines have to be taken seriously, we have to use a tactical nuclear weapon
+      somewhere in Western Europe, blah blah.” 49:14 But that is utterly out of character
+      and out of the professional mindset of one Vladimir Putin. So I take very closely
+      the words of Lavrov about breaking relations. Similarly, you’ll notice that when
+      I think about Mr.– why the Russian stock market went up 4 percent after Trump
+      made his announcement to the press in the White House together with Putin: because
+      there was nothing about confiscating the frozen assets. That surely is what drove
+      the money people in Moscow, because the concern is that for the relative small
+      amount of frozen assets in the States, this would be a signal to Europe to attack
+      the 250 billion euros in assets that are sitting in EuroClear here in Belgium.
+      That didn’t happen because you confiscate assets in state of war. It’s another
+      way of declaring war and would be interpreted that way by the Russians. Diesen:
+      50:28 Well, Thank you for your time. I think, you know, this is a very important
+      perspective, especially when you’re discussing an actor such as Donald Trump and
+      well, his administration now acting deliberately with strategic ambiguity, then
+      I guess we’re all vulnerable to our own biases. We might see what we want to see
+      when he’s sending out all these very different signals. So I think what you brought
+      up is, many people might have been missing some of these subtleties. So yeah,
+      this is, yeah, gives me something to think about. So thank you so much for your
+      time. Doctorow: 51:10 My pleasure. Bye bye.'
+    one_sentence_summary: In a discussion between Prof. Glenn Diesen and historian Gilbert
+      Doctorow, they explore the complexities and perceived erratic behavior of Trump's
+      relationship with Putin, particularly in light of Trump's anger over Russia's
+      actions in Ukraine despite their conversations.
+    paragraph_summary: In a recent discussion, Professor Glenn Diesen and historian
+      Gilbert Doctorow analyzed former President Trump's contradictory statements regarding
+      Russia's actions in Ukraine, particularly his expressed anger towards Putin despite
+      ongoing bombings in Ukraine. Doctorow noted that while experts in independent
+      media agree on the facts surrounding the situation, they diverge significantly
+      in their interpretations, particularly regarding the implications of Trump's potential
+      military support for Ukraine, such as the delivery of Patriot missiles and discussions
+      about long-range missiles. The uncertainty surrounding the specifics of U.S. arm
+      shipments to Ukraine complicates the understanding of Trump's strategic intentions,
+      leaving observers puzzled about his seemingly erratic behavior and its motivations.
+    published: '2025-07-18T11:35:09+00:00'
+  - title: Transcript of interview with Glenn Diesen, 16 July
+    url: https://gilbertdoctorow.com/2025/07/18/transcript-of-interview-with-glenn-diesen-16-july/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=09TIrNrAZIA
+      Prof. Glenn Diesen: 0:00 Hi everyone and welcome. We are joined again by Gilbert
+      Doctorow, historian, international affairs analyst, and also author of many books
+      such as the “War Diaries – the Russia-Ukraine War”, [for] which I will add a link
+      in the description. So yeah, welcome back to the program. Gilbert Doctorow, PhD:
+      Yeah, very good to speak to you again. Diesen: So one of the more recent news
+      is that Trump says he’s very angry with Putin. He says they have a nice conversation,
+      but then in the evening he goes on bombing Ukraine. And as always, it’s some uncertainty
+      in terms of the difference between the noise and the action. Either he’s seeking
+      to manage opposition at home and in Europe, or he’s lacking in strategic focus
+      and being, you know, swinging a bit back and forth. It’s, I haven’t been able
+      to solve this riddle, if I can be honest. It’s, it’s very, it seems like very
+      erratic behavior often. 1:11 So I was wondering if you can, well, try to share
+      your perspective and shed some light on what you think is happening here, because
+      it doesn’t seem to make much sense, even his argument or even the way he’s going
+      back and forth. Doctorow: Well, this is one instance of very important international
+      news where the leading, or the best, most widely seen experts on independent media,
+      on various YouTube channels, are agreed more or less on the facts, and are completely
+      in disagreement over the interpretation. We won’t have a clear indication of what
+      the interpretation is, until we know what the content of his arm shipments to
+      Ukraine [is]. So far we only know about Patriots. There is speculation that’s
+      partly encouraged by his reported discussion with Zelensky over long-range missiles.
+      Can he reach Moscow, can he reach Petersburg? 2:38 And of course, this fired up
+      a lot of speculation about Trump’s possibly giving this important offensive weaponry
+      to Ukraine. We don’t know anything though. That is all– I consider what he’s doing
+      is a continuation of what we’ve seen in the past several months on various international
+      developments. This is political theater. And he is playing it for all it’s worth.
+      He gets in front of the television cameras daily. He’s on international news.
+      There’s only one person making the news these days, and his name is Donald Trump.
+      So in that sense, the narcissist Trump can be very happy. 3:19 But is there anything
+      more to it than that? Is he, as one extreme interpretation, a hazard, that is
+      by Scott Ritter, is he an idiot? Are the people around him all idiots? Is the
+      Congress populated by idiots? Well, I personally find that a very poor start for
+      serious analysis of most anything, to assume that your opponents or the leading
+      figures of the day are idiots. I prefer to consider what is behind what seemed
+      to be strange or ineffectual actions. Can it be something else going on? One person
+      who has taken that approach, who has a lot of respect in alternative media, and
+      not only, is Colonel Douglas Macgregor, who was saying that Trump adopted the
+      least-bad solution to the pressure he’s been receiving from Congress and from
+      Europe to respond to Putin’s very aggressive and very destructive new attacks,
+      aerial attacks on Ukraine. So that was a kind of middle position. I take a position
+      that goes a little bit further than Colonel Macgregor on the political side. 4:45
+      And that is that Trump knew very well what he was doing. He was saying what he
+      said about arms deliveries, about new sanctions and secondary tariffs on Russia,
+      precisely to silence his critics, to give satisfaction to the most, the loudest-talking
+      member of the Republican group in Congress, in the Senate, Lindsey Graham. Graham
+      could take pride that the bill that he is steering through the Senate now has
+      the support of Trump, who on his own initiative has stated to the public that
+      he will be adopting the key point here of secondary tariffs at a hundred percent.
+      Well, that’s one thing, silence the critics. I can tell you that my recent appearances
+      on various video programs has been picked up by the Russians. And they pick up
+      precisely this point from my message, which to my mind is the least important
+      part of my message, that he was silencing his critics. No, for me the most important
+      thing is the 50 days. The fact that he has given President Putin 50 days is indicative
+      that he has little or no intention of continuing the war, of making Biden’s war
+      his own war, but instead is giving Mr. Putin time to finish up the job, in the
+      same way that he instructed Netanyahu early in his presidency to get on with it,
+      do whatever dastardly things you have to do in Gaza, but let’s be done with it
+      and move on. That’s what he was saying to my way of thinking, to Vladimir Putin.
+      5:41 But none of us will know what really has happened. Has he joined the new
+      cons? Has he made common cause with them? Or is he duping them, as I believe,
+      with these words about sanctions and arms shootings, and intends to go for his
+      detente? The proof will be what is in that package of weapons being shipped. Diesen:
+      7:07 Yeah, the 50 days. I was thinking a bit about this as well. It could be a
+      delaying tactic in order to not have to pick a side or make any big decisions
+      because again, he wants to normalize relations with the Russians, but he doesn’t
+      want to alienate too many in his own camp. It could also, as you said, allow the
+      Russians to finish off what they’re doing. Well it could also be an effort to
+      negotiate, to put some pressures, a deadline. So it can be interpreted in many
+      ways. But this is something that confused the Europeans a bit as well. Why do
+      we have to wait 50 days for these sanctions? And his response was simply, well,
+      50 days isn’t that much. Maybe it comes earlier. But I’m often inclined to lean
+      in the direction that there is incompetence or as you said, the stupidity, but
+      on the other hand, he does from, yeah, from the past decades, he’s always talked
+      about the importance of strategic ambiguity when you negotiate. And he does like
+      to think of himself as a negotiator. So if you, if you’re … playing with [a] too-open
+      hand, it’s very difficult to … get the deals you want. So again, this is something
+      his own administration says as well. “We won’t let anyone know exactly what we’re
+      thinking or what we’re doing.” This is what he was always criticizing Biden for
+      as well. 8:45 So if it works or not, putting that aside, nonetheless, I think
+      we can conclusively say that this is something he believes in, this strategic
+      ambiguity. So I do see the argument there, that ambiguity allows him to get some
+      room for maneuver to do other things. And the pressure, as you said, has been
+      mounting, given that the Russian strikes last night on Kharkov are becoming much
+      more brutal in nature, that is both the quantity and the targeting. So one can
+      see why there will have to be some reaction. But I guess your argument though,
+      is that his response to this is to talk big, but it’s somewhat muted because it
+      all depends, I guess, on the weapons he’s sending. 9:41 And I’m not sure if I’m
+      understanding this correctly, but to what extent are the Americans sending weapons,
+      or to what extent are they actually selling them? Because it seems as if he’s
+      selling weapons to the Europeans, and the Europeans can give it to Ukraine, and
+      somehow this has to happen under the umbrella of NATO for some reason? Doctorow:
+      10:03 That’s a distinction without a difference. The question that I had in my
+      mind is: is he just going to ship more of the same, meaning more tanks, more Bradleys,
+      more artillery shells, so much as they have them, which certainly must have been
+      in the pipeline. Let’s come back to this question, is this Biden’s war or Trump’s
+      war? What he said about the ship was authorized under Biden. This is not new appropriations
+      from Congress. So in that sense, I think it is not proper to speak about these
+      shipments making it Trump’s war. Now, if indeed, it is materiel that was authorized
+      by Biden, then it is no cause for worry, because there’s nothing that will threaten
+      the Russians, or will change or will escalate the war. However, if new items are
+      being put in, and particularly offensive weapons, long-range missiles, like ATACMS,
+      which were never shipped, if they are now in the mix, then it’s a very different
+      readout of what Trump is doing. And he would be going beyond the irresponsibility
+      button to a new level that takes us to World War III. 11:28 The Russians have
+      made it plain by their latest revised nuclear doctrine that if they are hit by
+      such weapons– this was either, it was originally discussed with respect to ATACMS
+      and with respect to Taurus– if they are hit with this, they can respond with nuclear
+      arms. And I find it incredible that Trump’s team would not take this into account
+      and would authorize ATACMS or something that could reach far into Russia. So I
+      believe that we’re on the plane of empty rhetoric, shipping things which everyone
+      knows will be of no use to the Ukrainians, because the tanks and the Bradleys
+      will just be hidden in the forest since if they put them in the open space, they’ll
+      be destroyed at once. Just as the Russians are not using their superiority in
+      tanks on the ground. They are also hiding them in the forest and shooting out
+      from under cover. And they’re using the tanks just as can, more precise can, with
+      maybe 8-10 kilometer range. 12:44 The war has changed. And I don’t see my peers
+      taking that into account properly. What we are witnessing now is massive air attack,
+      not just that came into the head of Putin or his general staff. “Well, let’s try
+      this.” No, it’s precisely because what they were doing up to this point has reached
+      the point, the stage where it’s no longer productive. The Russians, to advance
+      deep into Ukraine now, would have to take enormous losses because of the drone,
+      the omnipresent Ukrainian drones on the battlefield. Therefore, they have gone
+      to aerial bombardment. Now, once you’re in aerial bombardment and missile strikes,
+      it’s only a half step to using those Oreshniks and getting the damn thing over
+      with. If they take out, if they decapitate Kiev, which is entirely within their
+      possibilities, then a lot of lives will be saved at all sides. 13:42 Now, this
+      comes within the 50 days. It’s entirely possible to finish off Ukraine within
+      50 days if they decapitate the country with the missiles they have ready. My question
+      is, is Mr. Putin going to rise to that challenge? I don’t know. Nobody knows.
+      And so we may be stuck with still stalling and stalling. As regards aerial attack,
+      it doesn’t have a time limitation the way ground assalts do. Because of seasonality,
+      there is a negligible factor in the devastation that is being brought. So if Putin
+      responds both to the challenge, finish it up, and to the opportunity, now that
+      he’s not going to be escalating, he’s already in the next stage of an aerial rather
+      than ground war, we may see the end of this. 14:41 And I think that Trump could
+      find this very satisfactory. Then the United States and Russia can put their heads
+      together and say, “Well, what are we going to do to put Ukraine back together
+      again?” Along the lines of Russia’s desirata of what they want as their end game.
+      And Europe would be sidelined unless they invite them in on the same conditions.
+      But let’s be constructive. Let’s talk about an investment fund. Let’s talk about
+      a neutral Ukraine. And we’re talking about a rump Ukraine. That could be the basis
+      for moving on to detente. It’s all there. Am I right, am I wrong? We will know
+      in a few weeks, depending on the content of the military package. 15:24 Yeah,
+      that’s what I thought. Now I saw the weapons would be important because, well,
+      if the, well, there’s some flaws in the, in the whole optimism, at least we see
+      now in Europe. Because well, the Europeans, do they have the money? And do the
+      Americans have the weapons to sell them? And do the Ukrainians have the human
+      resources to operate them? I was wondering if you see it likely in terms of the
+      Tomahawks being sent because this is something that you suggested that would trigger
+      great concern among the Russians. Indeed, having Tomahawks and other missiles
+      in Ukraine was one of the reasons for the invasion to begin with. But how worried
+      should they be though? Because usually they have to be launched from, you know,
+      warships or strategic bombers. To … what extent– I guess would make sense. Again,
+      I’m never sure if this is a lack of [logic], flawed logic or if it’s a strategic
+      ambiguity, but what kind of weapons would be crossing the line? Doctorow: 16:40
+      Well, ATACMS to begin with. No one was talking about Tomahawks in the past. They
+      were speaking about these precisely ground-launched missiles using the already
+      existing HIMARS launchers. The United States shipped a lot of HIMARS, and the
+      launchers arre there. And the same launchers can be used on the ground to launch
+      the ATACMS. And that’s why there was great concern in Russia, because they are–
+      the limitation on the Storm Shadow and the SCALP from France and also Taurus is
+      that they are air-launched. And you have to have planes that are adapted to those
+      particular missiles, and you have to have planes and pilots, and you have to have
+      airfields, which the Russians have done a pretty good job of savaging. So if they
+      were, as you say, the Tomahawks, the version exists, it can be ground launched,
+      it’s quite exotic. 17:40 If these were to be supplied, then we’re heading into
+      the unknown. I can’t imagine that Trump could agree to that, because it would
+      be a level of escalation that takes us just to the brink of nuclear war. Diesen:
+      So what can we expect then from the Russians in the next 50 days? You used the
+      word “decapitating” strike. Do you think they can try to go in for finishing off
+      Ukraine? Because again, we’ve spoken in the past about the danger of underestimating
+      the resilience of Ukraine. That is, they do keep fighting on. I thought things
+      would have begun to collapse militarily as well as politically a long time ago,
+      but here they are. They’re still putting up a pretty good fight. But given the
+      huge intensity now, increasing intensity from the Russian side, in attacking targets
+      across Ukraine, do you think they are going for, if not knocking out the military,
+      then going for the political leadership or something to put an end to this war?
+      Because in the war of attrition, you do exhaust the adversary, but the Ukrainians
+      appear quite exhausted now. At least an attempt by the Russians to go for this
+      over the next 50 days. Or if this is as you suggest, Trump’s purpose might be
+      to give the Russians 50 days to get this done with, whatever they want to do and
+      then end the war. Is this what they might spend their 50 days on? Doctorow: There’s
+      one issue here that has to be addressed, and that is the nature of Mr. Putin.
+      Not just that he’s very cautious, but that he approaches everything from a lawyer’s
+      perspective, being a trained lawyer. And that has its up side and its down side.
+      In the given case, I cannot see him giving orders for a decapitating strike under
+      the terms of the Special Military Operation. That would be illegal, as he would
+      determine it. 19:50 However, Mr. Zelensky should be careful about what he wishes
+      for. If he receives any offensive weapons, which he then uses and strikes within
+      the Russian Federation at what they consider to be strategic assets, then Mr.
+      Putin would declare war. That would be considered an act of war. He declares war,
+      and then it can decapitate Ukraine, in the context, only in the context of a declared
+      war, from the perspective of Mr. Putin’s mentality. So there’s the qualification
+      on how the 50 days could be used. I don’t think that Donald Trump is aware of
+      that feature in Putin’s behavior. Certainly Mr. Trump himself doesn’t care a whit
+      for law, what’s written even in the constitution. So it could not occur to him
+      that Mr. Putin would. And that is exactly the case. There has to be a declaration
+      of war for the Ukrainians to receive their decapitating strike. Diesen: 21:00
+      I also want to get your opinion on an item in the news, which was that Trump had
+      allegedly asked Zelensky if he’s able to strike Moscow or St. Petersburg, so Putin
+      would feel the pain. And then later on he was asked, I think it was on the tarmac,
+      the same question. And he said, “Oh, no, no, I don’t want him to Moscow.” Do you
+      have any thoughts around this back and forth? Doctorow: He was feeding the jackals.
+      And the jackals picked it up. They picked up this piece of rotting flesh very
+      nicely. By here I mean the BBC. They have gone into overdrive on how Mr. Trump
+      is fed up with Putin. He’s now aligned with the haws in Congress and and so forth.
+      I don’t believe that for a minute. But again, this is my my best guess. It is
+      not founded on anything concrete, because we just discussed what the missing pieces
+      to the puzzle are, which will decide whether the puzzle is being assembled, the
+      jigsaw puzzle is being assembled properly or wrongly. 22:11 The discussion was
+      piquant, he knew it would attract the press. It did, of course; as I say it’s
+      all over the BBC today. That’s just what they wanted to hear, that is giving Zelensky
+      hopes that he can strike Moscow and St. Petersburg. Diesen: But the, yeah, you
+      referred to the, give them hope to the, to the Europeans and the hawks within
+      the United States as well as Zelensky. But if Trump wanted to end this war and
+      he knows that Russia considers this to be an existential threat and it won’t move
+      much on its key demands — wouldn’t Trump need to mount more pressure on the Ukrainians
+      and Europeans as opposed to, I guess, throwing them some red meat and, well, making
+      them feel more comfortable with this leadership and the possibility of continuing
+      this war instead? Doctorow: 23:11 Again, we’re in the realm of political theater.
+      And I don’t believe the seriousness of what he has tossed out to the press. As
+      I’ve said, he despises the press and he’ll say anything, that he thinks will make
+      them look like fools. Diesen: And, I guess the last back and forth I noticed of
+      Trump was the arms deliveries. It was reported that, I think it was Pete Hegseth
+      that halted arms deliveries to Ukraine. Again, with the engagement with the media,
+      he was first asked, well, he was, he first stated that he wasn’t sure who had
+      halted the arms deliveries. And when he was asked, “Don’t you know what’s happening
+      in your own administration?” He said, “Well, I will be the first one to know.
+      Indeed, I would have ordered it.” Except, you know, he didn’t. So how do you make
+      sense of this? Doctorow: 24:13 Well, there isn’t any sense to make of it. He’s
+      contradicting himself. And again, it is another expression of his contempt for
+      the press. He’ll say anything to them. He doesn’t take them seriously, with good
+      reason. He is treated very badly by Fox News, by CNN, he’s treated with contempt
+      by them and he returns the coin. So I wouldn’t follow this too closely. Don’t
+      look for logic in what he says with a microphone in front of him. I follow what
+      his feet are doing and particularly I place emphasis on 50 days, which undermines
+      everything else. As you said, he could impose these sanctions tomorrow. He didn’t
+      do that. And so I don’t believe he ever will. Diesen: 25:11 Okay, so if you put
+      the American side of this war aside to conclude him more or less pursuing strategic
+      ambiguity. We won’t really know yet if he’s appeasing the hawks, the neocons,
+      or if he’s joined them, but we should know based on the weapons which are delivered.
+      Again, the Tomahawks or any long range missiles. This is kind of the red lines.
+      But if we shift over to the Europeans, what is the strategy of Europe? Are they
+      hoping that any of these weapons would turn the tide or, or is it just to pull
+      America further into this, to make it a long war? What is– it’s very hard to read
+      the Europeans, and here one gets the impression sometimes that there’s no one
+      behind the wheel. Doctorow: 26:07 Oh, there are people behind the wheel, but I
+      think they’re driving a different vehicle, and they’re concerned with a different
+      road. The road that interests them is power and retaining it. They have put themselves
+      in very fragile position by backing to the hilt a losing cause. And for them now
+      to move the discussion from Ukraine to our own defense and to building our military
+      industry and to how we deal with filling out the numbers of our men and women
+      at arms — that changes the discussion completely. And it’s all about their retaining
+      power. Because if there is this big threat from the East, then the logic is we
+      are the leaders, like as Ursula von der Leyen was saying, trying to defend herself
+      against charges of fraud and abuse of power over vaccines. And how does she defend
+      herself? Well, “We are now facing a very important threat from Russia, and we
+      need strong leadership”, meaning herself. That’s what it’s all about, is keeping
+      their hands on power at all costs, whether it serves the national interest or
+      not. 27:30 National interest, not to mention Ukraine’s interest, don’t count.
+      The spoils of power, what it’s all about. And here in Europe, in most of Europe,
+      with exceptions, France is an exception because the way it structures its governments
+      differently. But most of the European countries have coalition governments. And
+      the whole game of a coalition government is dividing the spoils of power. So that
+      is the center of attention of everybody at the top in Europe today. Not Ukraine,
+      not Mr. Trump, not tariffs, but keeping power. Diesen: 28:12 So the initial or
+      the main argument for the past three-plus years– in terms of boycotting all diplomacy,
+      rejecting negotiations and instead just pumping weapons into the war– the argument
+      was, “Well, we need to put the Ukrainians in a better position. We’ll negotiate
+      later once the Ukrainians can negotiate from a position of strength.” Does anyone
+      actually believe this in Europe now? I mean, your position there in Brussels,
+      because it does seem as if it’s becoming harder to deny that the war is shifting
+      more and more in the favor of Russia. That is the Ukrainians having more and more
+      problems building up. The Russians keep strengthening in the rear. 29:07 And also,
+      again, in a war of attrition, you should look at the ratio of casualties. But
+      the West, we tend to focus excessively on the territorial shifts. But even this
+      is starting to intensify. We see now the semi-encirclement of Pokrovsk, which
+      would be a strategic disaster, opening up the road all the way to the Dnieper
+      and of course, Constanivka, which would then begin to seal off the entire Donetsk
+      region. So there’s a desperation in there, isn’t there? I mean, so what exactly
+      do they hope to achieve here? Doctorow: 29:51 Let’s divide up the West, because
+      the United States is running on its own course. And in the question of how the
+      war is proceeding, the United States is much more open than Western Europe journalism.
+      A little bit seeps in here, in the press, but it’s really in “New York Times”
+      and the British press. I think the “Financial Times” also has articles which run
+      completely counter to the editorial position of newspaper. Journalists are reporting
+      what’s going on. “New York Times”, they are every few days speaking about Ukrainian
+      retreats or losses and the Russian advances. No question about it. They’re preparing
+      the public for Ukrainian defeat. 30:38 The most important indication of that was
+      what appeared on Monday in the “New York Times”. They had a front-page article
+      on the crimes that the Ukrainians committed during their occupation of Kursk oblost.
+      This was immediately denounced by Kiev as dissemination of vile propaganda. The
+      “New York Times”, for the first time in the whole war, had an article devoted
+      strictly to the war crimes that the Ukrainians are committing. Now that tells
+      you they’re preparing the public for the Ukrainian defeat and they will find many
+      reasons why they should have lost the war. I say the game is moving on, the competition
+      now is not about the fate of Ukraine. It’s about the future of the present-day
+      leaders in Europe, who have committed so much of their personal prestige and political
+      power to winning a war that they’re losing. And so they’re diverting attention
+      to, well 2029, how we have to be prepared for Russian invasion and so forth. They’re
+      changing the subject, because they lost this subject. Diesen: 31:54 Well, the
+      use of the media to exercise narrative control and prepare the public for a defeat
+      in Ukraine — I was thinking the same when I saw the gradual shift in the media
+      coverage in the United States. And of course, this “New York Times” article was
+      quite important as well. The fact that you had an American journalist from the
+      “New York Times”, I think she was already, well, the journalist was accompanying
+      Ahmad through Kursk. I mean, the fact that this was being done and the conclusion
+      on the coverage was the Ukrainian war crimes. This is something unthinkable two,
+      three years ago, when the Ukrainians could do no wrong and every person even with
+      a SWAT sticker had to be, the first instinct was always to whitewash it. But in
+      Europe though, I do not see this at all, especially in, well, I’m located in Scandinavia,
+      and here the war propaganda is just going full steam ahead, hardly any changes.
+      And indeed to suggest that Ukraine can’t win the war is denounced as Russian propaganda,
+      trying to reduce public support for what we call “helping Ukraine”, which is pushing
+      a war which the Ukrainians themselves want an end to. 33:21 But of all the Europeans,
+      for many people, well, if you would have said this four years ago, that Germany
+      would position themselves as the main country to essentially take over the fight
+      against Russia now that America is pulling back — this would have been very much
+      unthinkable a few years ago, but here we are. How are you reading the German position?
+      Because it’s not simply Merz; this is something deeper in German society, isn’t
+      it? Doctorow: 33:53 It covers the whole political spectrum. I believe this started
+      with the Alternative fur Deutschland, when they were the first to speak up, well
+      this goes back five years or more, the first to speak up and say, “Hey, we are
+      not responsible for the sins of our grandparents. We are new people, we are new
+      people, and we have to look after our sovereignty.” That was Avdei. And it’s covered
+      now the whole spectrum of German political life, where they do not take responsibility
+      for the crimes that Germany committed across Europe, not just in the destruction
+      of Jewry. They believe that they are morally clean, and they follow European values,
+      and they can get up on a soft box and preach to, well, particularly the Russians,
+      who are the _recidivists_ and who have to be properly punished for their violation
+      of European values. So there is the real threat that this is across the whole
+      German spectrum. They willfully are forgetting who they are. And they have changed
+      the role. They openly changed the role. 35:17 The role changed under the German
+      leadership going back 10 years. Merkel was responsible for changing the role,
+      but she did not want to name Germany. Germany did not have a foreign policy, according
+      to Merkel. The foreign policy was made in Brussels, very convenient. And who made
+      it in Brussels? Germans, since they dominated the parliament and the commission.
+      So de facto, Germany was the dominant force in European diplomacy and in world
+      policy. But this was not acknowledged by the German leadership in Berlin. They
+      hid behind the apron of Brussels. Now they’re coming out from behind the apron
+      and saying, “Yes, we are going to be Europe’s dominant defender.” As if this is
+      natural. It’s not natural. It was– the world for this was prepared by the gradual
+      collapse of France and its authority. Not just the economic weakness of France,
+      which was established decades ago compared to Germany, but its political weakness,
+      a succession of disastrous presidents. And Mr. Macron is the latest uncrowned
+      king under the French constitution, who defies the French political circles by
+      holding onto power when he has maybe a 20 percent approval rating. The French
+      are politically weak. The Germans have used that to move out in front, to muscle
+      the French aside. Mr. Macron is making a desperate effort, his announcement on
+      Bastille Day, that they are, “Oh, we are also raising our military budgets and
+      to be big defenders.” 37:14 And as soon as the Germans start talking about possibly
+      getting nuclear weapons, well, that is the absolute end of any French claims to
+      being Europe’s defenders. They could hide behind the fact that they and the Brits
+      were the only European countries with nuclear arms. If the Germans now aspire
+      to do that too, then the moment of truth has arrived, and everything that the
+      Germans aspired to in World War II, they now will be realizing, which is something
+      that should give us pause. Diesen: 37:46 Well, the German shift or return to militarism,
+      it appears to have, well, it’s not exactly that reason. That is, yes, throughout
+      the Cold War, they had this very cautious idea that, you know, learned from history,
+      they’re not going to engage in wars any more. But after the Cold War, in 1999,
+      the attack on Yugoslavia, that is to wrestle away Kosovo, you saw the logic in
+      the German argument shifting. So in the past, their history of genocide was a
+      reason for why they had to be more constrained. And suddenly over Kosovo, the
+      argument was, well, because of our history with genocide, we have a special responsibility
+      to prevent it other places. So instead of their genocidal history being a reason
+      for constraint, it was now a reason for taking action. And you see similar rhetoric
+      in Gaza, that is, as if they owed the Jewish population a debt, which is very
+      fair enough after the Holocaust, but this is translated into unconditional support
+      for Israel in effectively making the Palestinians pay for the crimes of the Germans
+      by supporting the genocide there. 39:05 And also during the Kursk operation, when
+      you had German generals appearing on TV, you know, with smiles on their face,
+      being excited as they were speaking about how this was humiliating for the Russians.
+      This was an important part of World War II and almost like a redo of World War
+      II, as they saw German tanks roll into Russia. It’s very unsettling. But besides
+      how the Russians are looking at this, how would the Europeans react? I mean, you
+      mentioned the French. Certainly the French do not want to be pushed aside. They
+      kind of had a division of labor. The Germans were the economic force, the French
+      were the military and that kind of creates some balance of power within the European
+      Union. Now that you know Germany is going to acquire weapons of mass destruction
+      and nuclear weapons, how comfortable are really the Europeans with this? I think
+      it was Thatcher already in her time, [who] warned that the German unification
+      could bring about the Fourth Reich. I mean, it’s not to argue that we overcome
+      this historical concern. It would be an exaggeration, wouldn’t it? Doctorow: 40:21
+      Well, it wasn’t just a Thatcher. Miserand also, he said, “I’ve been liking Germany
+      so much, we want to see two of them.” That concern about Germany existed. And
+      as to Germany’s coming out, so to speak, over Kosovo, actually that was, I think,
+      precipitated by American action. The whole crisis in the Yugoslav Civil War, was,
+      had a defining moment, and that was the attacks on Sarajevo, the marketplace,
+      I think this was 1996, correct me, and Germany could not bring itself to re-enter
+      Yugoslavia, again, considering the history of Germany’s devastating wars on Yugoslavia
+      during World War II, or attacks and destruction in Yugoslavia in World War II.
+      The Americans moved in, the Americans took charge, and then that relieved the
+      Germans to do what comes naturally. And to go back to bossing people around in
+      these fringe parts of Europe. 41:46 So America had its own role in relieving Germany
+      of its constraints and its hesitation, by bringing it into a coalition of NATO
+      that were doing what Germany was afraid to do, because that had been a dividing
+      line before World War I. What was– Serbia triggered World War I, and Germany did
+      not want to get into that region again. Well, it is, and it is in a lot of other
+      places where it shouldn’t be. And I have now in mind Mr. Merz’s very proud establishment
+      of the German presence in the Baltics to “protect the Eastern flank”. So the way
+      NATO had protected Germany during the First Cold War. The German position, is
+      there a militarism? I don’t know. I put my finger to the wind. I don’t think so.
+      There is, again, opportunism for the sake of political power in the hands of Mr.
+      Merz and the people around him. 42:57 I’m not sure that that is founded on a militaristic
+      feeling or enthusiasm in the German nation. I rather doubt it. Whether this develops,
+      we’ll see. Diesen: 43:12 Yeah, I think the Bosnian market attack must have been
+      in ’94 because [Dayton] came in ’95 and then Bosnia was finished. But I was wondering
+      though, the one thing that the Russians are looking at when they look towards
+      Germany is the Taurus missiles. As we know, Mertz used to advocate for them. Now
+      there seems to be some discussions that will let Ukraine build something similar
+      to the Taurus missile, which the whole thing seems to be dubious as if they’re
+      looking for a cover to supply the missiles. Did you think that some version of
+      the Taurus missile will be supplied or already has been supplied? And if so, what
+      do you expect the Russian response to be? Because my impression is that of all
+      the European countries, a lot of the resentment now is directed towards Germany.
+      And given that they’re competing with the British for animosity, it’s kind of
+      impressive how the Germans have moved up the ranks in terms of being seen as an
+      adversary, if not an enemy then of Russia? 44:23 [We’ll have] the number one enemy
+      of Russia. When Mr. Soloviyov on his famous, on his well-known programs directly
+      calls Mr. Merz a Nazi several times. And not as a joke, but as a dead serious
+      accusation, I take that as being a word coming from the Kremlin, certainly Mr.
+      Medvedev would make similar statements. So they have earned the position of Russia’s
+      enemy number one. As to the Taurus, I think that Mr. Putin would be in a very
+      tough spot if the Taurus is actually used by the Ukrainians, because that is openly
+      crossing his most important red line, that he has discussed in interviews with
+      Pavel Zarubinuk, that had then been shown repeatedly on Russian television and
+      in the West, saying that these weapons cannot properly be controlled by the Ukrainians
+      themselves and implicate as co-belligerents those who have supplied the weapons
+      like Taurus to Ukraine. 45:34 The same is true, of course, of ATACMS. Even if
+      the Ukrainians are properly instructed on how, what button to push or when, the
+      coding of the path, flight path, the decisions on targeting are all taken by,
+      and the information necessary from satellite intelligence is coming from the United
+      States. And so for Putin to accept this, I think he might as well just give up
+      and stop the war and be overthrown, because that’s what it would mean. It’s incredible.
+      It’s impossible that he could hold on to power if he did not follow through on
+      his threats to the United States, to Germany for attacks coming via these long-range
+      missiles. And by the way, I firmly believe that some Taurus are already in Kiev,
+      going back several months. Whenever the announcement is made that “in [not long],
+      a month or two, we will ship”, it means they already are there. Diesen: 46:47
+      So, well, by the way, I agree with that assessment. I also think this would be
+      the final straw that it would make it impossible for Russia not to attack. People
+      keep saying, oh, why would they risk this? But, well, certainly Germany is willing
+      to risk the war. So it would be too high cost, I think, for the Russians to do
+      nothing. But what exactly could they do? They would be, you know, you have different
+      targets, which would indicate different levels of escalation. Rather than attacking
+      German military bases, wouldn’t it make, do you see it as more likely to attack
+      German, I guess, industrial facilities where these weapons are actually being
+      made? Or what do you see as, well, again, we can’t get into President Putin’s
+      head, but what do you see as likely or possible targets for the Russians to retaliate
+      against Germany. Doctorow: 47:51 I think we have to try to get into his head in
+      one respect, and I continue the point I made earlier. The man has a legalistic
+      frame of mind. I think we got a hint how this will play out in a recent statement
+      by Lavrov that if these Taurus are implemented, if their use is authorized from
+      Ukraine and attacks on Russia, then Russia will break all the relations with Germany.
+      Now, what does that mean? That’s what you do when you’re declaring war. So essentially,
+      again, I don’t believe that Putin will attack anybody without a declaration of
+      war. And I think that that’s what would happen. He would declare a war on Germany
+      and then he would strike. 48:44 And what he strikes, a military base or these
+      production sites, is a secondary consideration. I don’t think this has been properly
+      factored into the recommendations that Karaganov made two years ago. He was not
+      looking at Putin’s way of thinking. “Yes, we have to do this, we take them seriously,
+      our red lines have to be taken seriously, we have to use a tactical nuclear weapon
+      somewhere in Western Europe, blah blah.” 49:14 But that is utterly out of character
+      and out of the professional mindset of one Vladimir Putin. So I take very closely
+      the words of Lavrov about breaking relations. Similarly, you’ll notice that when
+      I think about Mr.– why the Russian stock market went up 4 percent after Trump
+      made his announcement to the press in the White House together with Putin: because
+      there was nothing about confiscating the frozen assets. That surely is what drove
+      the money people in Moscow, because the concern is that for the relative small
+      amount of frozen assets in the States, this would be a signal to Europe to attack
+      the 250 billion euros in assets that are sitting in EuroClear here in Belgium.
+      That didn’t happen because you confiscate assets in state of war. It’s another
+      way of declaring war and would be interpreted that way by the Russians. Diesen:
+      50:28 Well, Thank you for your time. I think, you know, this is a very important
+      perspective, especially when you’re discussing an actor such as Donald Trump and
+      well, his administration now acting deliberately with strategic ambiguity, then
+      I guess we’re all vulnerable to our own biases. We might see what we want to see
+      when he’s sending out all these very different signals. So I think what you brought
+      up is, many people might have been missing some of these subtleties. So yeah,
+      this is, yeah, gives me something to think about. So thank you so much for your
+      time. Doctorow: 51:10 My pleasure. Bye bye.'
+    one_sentence_summary: In a discussion between Prof. Glenn Diesen and historian Gilbert
+      Doctorow, they explore the complexities and perceived erratic behavior of Trump's
+      relationship with Putin, particularly in light of Trump's anger over Russia's
+      actions in Ukraine despite their conversations.
+    paragraph_summary: In a recent discussion, Professor Glenn Diesen and historian
+      Gilbert Doctorow analyzed former President Trump's contradictory statements regarding
+      Russia's actions in Ukraine, particularly his expressed anger towards Putin despite
+      ongoing bombings in Ukraine. Doctorow noted that while experts in independent
+      media agree on the facts surrounding the situation, they diverge significantly
+      in their interpretations, particularly regarding the implications of Trump's potential
+      military support for Ukraine, such as the delivery of Patriot missiles and discussions
+      about long-range missiles. The uncertainty surrounding the specifics of U.S. arm
+      shipments to Ukraine complicates the understanding of Trump's strategic intentions,
+      leaving observers puzzled about his seemingly erratic behavior and its motivations.
+    published: '2025-07-18T11:35:09+00:00'
+  - title: What you learn about the impact of the Ukraine war from your Belgian doctor
+    url: https://gilbertdoctorow.com/2025/07/18/what-you-learn-about-the-impact-of-the-ukraine-war-from-your-belgian-doctor/
+    text: 'This morning, I accompanied my wife on a visit to our generalist to get several
+      prescriptions she needed renewed.  The doctor is of post-retirement age. He had
+      plenty of time to chat and became very keen to advise me when I said I am considering
+      recommending to our15 year old grandson that he apply his love for chemistry and
+      biology by pursuing a career as a medical doctor. There is no numerus clausus
+      in Belgium. The university studies are free and the degree is a good one. Our
+      doctor warned me that here in Belgium practicing medicine is fast turning sour.
+      The new Flemish run federal government of Prime Minister Bart De Wever that took
+      office in January is raising its military hardware contributions to Ukraine, investing
+      in new production of weapons at the Audi factory in downtown Brussels that closed
+      a year ago in preparedness for the war with Russia that the Germans have penciled
+      onto the European agenda. To pay for these war-related items, the De Wever government
+      is cutting budgetary allocations to health and other social benefits. The doctors
+      will see their consultation fees to patients cut by 20%. Hospitals and clinics
+      are being ordered to retrench.  Said our doctor, you can already see the consequences
+      in greatly lengthened waiting times for all kinds of services such as mammograms,
+      now risen from a few days to 3 months; hip replacement surgery now risen from
+      a few months to three years, and so on. There you have it: a crushing blow to
+      what has been a magnificent medical establishment in Belgium, far better than
+      in neighboring France and Germany, neither of which have recovered their luster
+      from before Covid thanks to budgetary cuts in both countries to pay for you know
+      what. Belgium probably was better situated because it had budgeted for defense
+      at one of the lowest levels in the EU, at just 1.3% of GDP.  As that changes with
+      the gradual ramp up first to 2% and then to 5%, we can expect social benefits
+      in this country to go to hell. All of this is a kind of hidden cost of the war
+      and of rearmament that may bring young doctors out on the street in strikes but
+      will not prompt popular rebellion the way that introducing a military draft would.
+      **** I use this occasion to share some information about Belgian politics that
+      the Community is very unlikely to know but that reflects a bigger reality of politics
+      within the Member States of the European Union, especially those where corruption
+      festers under coalition governments. In such governments grabbing and holding
+      ministerial portfolios is the primary concern of every politician, without respect
+      to any semblance of policy coherence in the coalition as a whole. What can I possibly
+      mean by corruption, you may ask? What is there worth stealing in little Belgium?
+       An answer to these questions was set out in yesterday’s edition of the main French-speaking
+      daily newspaper, Le Soir. It was in their article updating reports on the investigation
+      into money laundering practiced for over a decade by a certain Didier Reynders,
+      whose name you may recognize as the Justice Minister (first bit of irony in the
+      case) in Ursula von der Leyen’s Commission from 2019 to 2024, when following Europe-wide
+      elections in June of that year, the Commission had to be re-organized and Reynders
+      was out of a job. In December 2024, Reyinders was out of a job and vulnerable
+      to police-judicial investigation into crimes he is presumed to have committed
+      not just during his tenure at the Commission but in the decade or more when he
+      was a member of MR party led coalition governments in Belgium. For many years
+      he had been Finance Minister (irony number two in this case) and then for a few
+      years he was Minister of Foreign Affairs, for which he was the perfect candidate
+      since he knew absolutely nothing about the subject. In Belgium, Reynders had served
+      under a certain Charles Michel, his boss at the MR party, who was prime minister
+      for several years before his government was brought down by the Flemish party
+      that now openly runs the Belgian federal government.  Michel moved out of Belgium
+      to become President of the European Council, the second EU executive body alongside
+      the Commission that consists of the heads of state of the Member States. Reynders
+      moved in tandem with Michel to become Justice Minister, as I said above. And so
+      in early December 2024 we read a very lengthy account of the money laundering
+      operations of this Reynders, who had deposited more than 800,000 euros in cash
+      into long-duration deposit accounts at ING Bank Belgium. Cash!  Strictly verboten
+      in large amounts.  Had ING followed the law, they would have asked him, as required,
+      where the cash came from.  They didn’t till the case was going to court. The answer
+      he gave in his court testimony was that the cash came from winnings in the state
+      lottery. Probing by the courts turned up the fact that Reynders had for years
+      been buying e-lottery tickets at a gas station not far from his house. He had
+      bought the tickets with….cash and then transferred his legal winnings to his ING
+      bank accounts. This is a classic model of money-laundering…performed by a Minister
+      of Finance in tidy Belgium where no corruption cases are known about by those
+      who compile the international registers of clean government. A couple of days
+      ago, the same Le Soir carried an update to the Reynders investigation. It appears
+      that Didier Reynders also told court investigators in December that he had gotten
+      some of the cash by selling antiques from his private collection.  Now it was
+      learned that a Brussels antiques dealer whom he had obviously named told the court
+      that he had never bought or sold any antiques to Reynders. The plot thickens and
+      it does not look like Reynders will clear his name.  They may be fitting him for
+      his next suit in vertical stripes as we talk. ***** However, I would not worry
+      too much about Didier Reynders spending much time in prison.  Belgium prefers
+      the death sentence. Death by old age, I mean, not by hanging, drawing and quartering,
+      gas or whatever other  means you can name. My argument makes reference to another
+      political-criminal scandal that has been featured in the same Le Soir during the
+      past couple of months, that of murder charges being weighed against Etienne Davignon,
+      scion of high aristocracy, business magnate who received high appointments from
+      one Belgian government after another.  “Stevie’ as he was known to his great many
+      acquaintances, including in the Harvard Club of Belgium where he came forward
+      as a sponsor of wonderful events like visits to the last functioning coal mine
+      in the country before its shutdown that I enjoyed at the time – is wanted for
+      participating in the murder of Patrice Lamumba, the freedom fighter turned president
+      of the liberated Belgian Congo. To be sure, Stevie was only one of several conspirators
+      assumed to have been responsible for the liquidation of Lamumba.  However, the
+      others have conveniently died before they could be brought to court.  Stevie has
+      had the misfortune to live to the ripe age of 92, that is long enough for the
+      slow-turning millstones of Belgian justice to have milled and released  a twenty-year-old
+      file against him and proceeded to court hearings.  With some luck, Stevie, too,
+      will pass away before the trial begins two years or more hence. ©Gilbert Doctorow,
+      2025'
+    one_sentence_summary: During a visit to their general practitioner, the author learned
+      that while pursuing a medical career in Belgium is accessible and free, the current
+      government is diverting funds from healthcare to military spending, raising concerns
+      about the future of practicing medicine in the country.
+    paragraph_summary: During a visit to their general practitioner for prescription
+      renewals, the author learned from the doctor about the deteriorating state of
+      healthcare in Belgium due to recent government budget cuts. The new Flemish government,
+      led by Prime Minister Bart De Wever, is reallocating funds to increase military
+      contributions to Ukraine and invest in weapon production, resulting in a 20% reduction
+      in consultation fees for doctors and significant retrenchments in hospitals and
+      clinics. This shift has already led to dramatically increased waiting times for
+      medical services, such as mammograms and hip replacements, raising concerns about
+      the future of Belgium's once-robust healthcare system. The author reflects on
+      how these changes may undermine social benefits as the government increases defense
+      spending from 1.3% to 5% of GDP, ultimately jeopardizing the quality of medical
+      care in the country.
+    published: '2025-07-18T08:16:28+00:00'
+  - title: What you learn about the impact of the Ukraine war from your Belgian doctor
+    url: https://gilbertdoctorow.com/2025/07/18/what-you-learn-about-the-impact-of-the-ukraine-war-from-your-belgian-doctor/
+    text: 'This morning, I accompanied my wife on a visit to our generalist to get several
+      prescriptions she needed renewed.  The doctor is of post-retirement age. He had
+      plenty of time to chat and became very keen to advise me when I said I am considering
+      recommending to our15 year old grandson that he apply his love for chemistry and
+      biology by pursuing a career as a medical doctor. There is no numerus clausus
+      in Belgium. The university studies are free and the degree is a good one. Our
+      doctor warned me that here in Belgium practicing medicine is fast turning sour.
+      The new Flemish run federal government of Prime Minister Bart De Wever that took
+      office in January is raising its military hardware contributions to Ukraine, investing
+      in new production of weapons at the Audi factory in downtown Brussels that closed
+      a year ago in preparedness for the war with Russia that the Germans have penciled
+      onto the European agenda. To pay for these war-related items, the De Wever government
+      is cutting budgetary allocations to health and other social benefits. The doctors
+      will see their consultation fees to patients cut by 20%. Hospitals and clinics
+      are being ordered to retrench.  Said our doctor, you can already see the consequences
+      in greatly lengthened waiting times for all kinds of services such as mammograms,
+      now risen from a few days to 3 months; hip replacement surgery now risen from
+      a few months to three years, and so on. There you have it: a crushing blow to
+      what has been a magnificent medical establishment in Belgium, far better than
+      in neighboring France and Germany, neither of which have recovered their luster
+      from before Covid thanks to budgetary cuts in both countries to pay for you know
+      what. Belgium probably was better situated because it had budgeted for defense
+      at one of the lowest levels in the EU, at just 1.3% of GDP.  As that changes with
+      the gradual ramp up first to 2% and then to 5%, we can expect social benefits
+      in this country to go to hell. All of this is a kind of hidden cost of the war
+      and of rearmament that may bring young doctors out on the street in strikes but
+      will not prompt popular rebellion the way that introducing a military draft would.
+      **** I use this occasion to share some information about Belgian politics that
+      the Community is very unlikely to know but that reflects a bigger reality of politics
+      within the Member States of the European Union, especially those where corruption
+      festers under coalition governments. In such governments grabbing and holding
+      ministerial portfolios is the primary concern of every politician, without respect
+      to any semblance of policy coherence in the coalition as a whole. What can I possibly
+      mean by corruption, you may ask? What is there worth stealing in little Belgium?
+       An answer to these questions was set out in yesterday’s edition of the main French-speaking
+      daily newspaper, Le Soir. It was in their article updating reports on the investigation
+      into money laundering practiced for over a decade by a certain Didier Reynders,
+      whose name you may recognize as the Justice Minister (first bit of irony in the
+      case) in Ursula von der Leyen’s Commission from 2019 to 2024, when following Europe-wide
+      elections in June of that year, the Commission had to be re-organized and Reynders
+      was out of a job. In December 2024, Reyinders was out of a job and vulnerable
+      to police-judicial investigation into crimes he is presumed to have committed
+      not just during his tenure at the Commission but in the decade or more when he
+      was a member of MR party led coalition governments in Belgium. For many years
+      he had been Finance Minister (irony number two in this case) and then for a few
+      years he was Minister of Foreign Affairs, for which he was the perfect candidate
+      since he knew absolutely nothing about the subject. In Belgium, Reynders had served
+      under a certain Charles Michel, his boss at the MR party, who was prime minister
+      for several years before his government was brought down by the Flemish party
+      that now openly runs the Belgian federal government.  Michel moved out of Belgium
+      to become President of the European Council, the second EU executive body alongside
+      the Commission that consists of the heads of state of the Member States. Reynders
+      moved in tandem with Michel to become Justice Minister, as I said above. And so
+      in early December 2024 we read a very lengthy account of the money laundering
+      operations of this Reynders, who had deposited more than 800,000 euros in cash
+      into long-duration deposit accounts at ING Bank Belgium. Cash!  Strictly verboten
+      in large amounts.  Had ING followed the law, they would have asked him, as required,
+      where the cash came from.  They didn’t till the case was going to court. The answer
+      he gave in his court testimony was that the cash came from winnings in the state
+      lottery. Probing by the courts turned up the fact that Reynders had for years
+      been buying e-lottery tickets at a gas station not far from his house. He had
+      bought the tickets with….cash and then transferred his legal winnings to his ING
+      bank accounts. This is a classic model of money-laundering…performed by a Minister
+      of Finance in tidy Belgium where no corruption cases are known about by those
+      who compile the international registers of clean government. A couple of days
+      ago, the same Le Soir carried an update to the Reynders investigation. It appears
+      that Didier Reynders also told court investigators in December that he had gotten
+      some of the cash by selling antiques from his private collection.  Now it was
+      learned that a Brussels antiques dealer whom he had obviously named told the court
+      that he had never bought or sold any antiques to Reynders. The plot thickens and
+      it does not look like Reynders will clear his name.  They may be fitting him for
+      his next suit in vertical stripes as we talk. ***** However, I would not worry
+      too much about Didier Reynders spending much time in prison.  Belgium prefers
+      the death sentence. Death by old age, I mean, not by hanging, drawing and quartering,
+      gas or whatever other  means you can name. My argument makes reference to another
+      political-criminal scandal that has been featured in the same Le Soir during the
+      past couple of months, that of murder charges being weighed against Etienne Davignon,
+      scion of high aristocracy, business magnate who received high appointments from
+      one Belgian government after another.  “Stevie’ as he was known to his great many
+      acquaintances, including in the Harvard Club of Belgium where he came forward
+      as a sponsor of wonderful events like visits to the last functioning coal mine
+      in the country before its shutdown that I enjoyed at the time – is wanted for
+      participating in the murder of Patrice Lamumba, the freedom fighter turned president
+      of the liberated Belgian Congo. To be sure, Stevie was only one of several conspirators
+      assumed to have been responsible for the liquidation of Lamumba.  However, the
+      others have conveniently died before they could be brought to court.  Stevie has
+      had the misfortune to live to the ripe age of 92, that is long enough for the
+      slow-turning millstones of Belgian justice to have milled and released  a twenty-year-old
+      file against him and proceeded to court hearings.  With some luck, Stevie, too,
+      will pass away before the trial begins two years or more hence. ©Gilbert Doctorow,
+      2025'
+    one_sentence_summary: During a visit to their general practitioner, the author learned
+      that while pursuing a medical career in Belgium is accessible and free, the current
+      government is diverting funds from healthcare to military spending, raising concerns
+      about the future of practicing medicine in the country.
+    paragraph_summary: During a visit to their general practitioner for prescription
+      renewals, the author learned from the doctor about the deteriorating state of
+      healthcare in Belgium due to recent government budget cuts. The new Flemish government,
+      led by Prime Minister Bart De Wever, is reallocating funds to increase military
+      contributions to Ukraine and invest in weapon production, resulting in a 20% reduction
+      in consultation fees for doctors and significant retrenchments in hospitals and
+      clinics. This shift has already led to dramatically increased waiting times for
+      medical services, such as mammograms and hip replacements, raising concerns about
+      the future of Belgium's once-robust healthcare system. The author reflects on
+      how these changes may undermine social benefits as the government increases defense
+      spending from 1.3% to 5% of GDP, ultimately jeopardizing the quality of medical
+      care in the country.
+    published: '2025-07-18T08:16:28+00:00'
+  - title: 'Glenn Diesen: Trump Threatens Russia'
+    url: https://gilbertdoctorow.com/2025/07/17/glenn-diesen-trump-threatens-russia/
+    text: 'This 51 minute interview covers a lot of ground.  Here I emphasize my point
+      that the 50 days  Trump has given to Putin before imposing secondary tariffs on
+      countries trading with Russia meant the following: finish up the job in 50 days,
+      Vladimir, do what you have to do to demolish Ukraine and force capitulation and
+      then we can move on to a rapprochement. This understanding of the message was
+      confirmed by a Duma member who appeared on the Dmitry Simes segment of ‘The Great
+      Game’ yesterday evening'
+    one_sentence_summary: The interview suggests that Trump's 50-day deadline for Putin
+      to act in Ukraine implies a tacit approval for aggressive actions before potential
+      diplomatic negotiations can resume.
+    paragraph_summary: In a 51-minute interview, the speaker discusses the implications
+      of the 50-day deadline set by Trump for Putin regarding secondary tariffs on countries
+      trading with Russia. The speaker interprets this as a signal for Putin to complete
+      his military objectives in Ukraine within that timeframe, suggesting that the
+      U.S. is allowing Russia to finish its operations before seeking a diplomatic rapprochement.
+      This interpretation was further supported by a member of the Russian Duma who
+      appeared on a segment of ‘The Great Game,’ reinforcing the notion that the U.S.
+      is tacitly encouraging a swift resolution to the conflict.
+    published: '2025-07-17T10:54:24+00:00'
+  - title: 'Glenn Diesen: Trump Threatens Russia'
+    url: https://gilbertdoctorow.com/2025/07/17/glenn-diesen-trump-threatens-russia/
+    text: 'This 51 minute interview covers a lot of ground.  Here I emphasize my point
+      that the 50 days  Trump has given to Putin before imposing secondary tariffs on
+      countries trading with Russia meant the following: finish up the job in 50 days,
+      Vladimir, do what you have to do to demolish Ukraine and force capitulation and
+      then we can move on to a rapprochement. This understanding of the message was
+      confirmed by a Duma member who appeared on the Dmitry Simes segment of ‘The Great
+      Game’ yesterday evening'
+    one_sentence_summary: The interview suggests that Trump's 50-day deadline for Putin
+      to act in Ukraine implies a tacit approval for aggressive actions before potential
+      diplomatic negotiations can resume.
+    paragraph_summary: In a 51-minute interview, the speaker discusses the implications
+      of the 50-day deadline set by Trump for Putin regarding secondary tariffs on countries
+      trading with Russia. The speaker interprets this as a signal for Putin to complete
+      his military objectives in Ukraine within that timeframe, suggesting that the
+      U.S. is allowing Russia to finish its operations before seeking a diplomatic rapprochement.
+      This interpretation was further supported by a member of the Russian Duma who
+      appeared on a segment of ‘The Great Game,’ reinforcing the notion that the U.S.
+      is tacitly encouraging a swift resolution to the conflict.
+    published: '2025-07-17T10:54:24+00:00'
   - title: '‘Judging Freedom’: New Pressures on Putin'
     url: https://gilbertdoctorow.com/2025/07/15/judging-freedom-new-pressures-on-putin/
     text: 'One of the advantages of Andrew Napolitano’s channel ‘Judging Freedom’ is

@@ -8,21 +8,3964 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  Amid ongoing global instability, the most recent analysis highlights the deepening economic and geopolitical rifts driven by U.S. policy shifts, particularly under the influence of Donald Trump’s administration and its legislative agenda. The context remains shaped by the U.S. pursuit of dollar hegemony, persistent tensions in the Middle East, and the strategic contest with emerging Eurasian powers.
+  The global geopolitical landscape remains in flux as the post-war order continues to erode, with economic and political realignments accelerating across multiple fronts. Recent analyses highlight the growing irrelevance of the old U.S.-led system and the emergence of new alliances and economic strategies.
   
-  The latest development centers on Trump’s “Big Beautiful Bill” and his renewed tariff policies. **Michael Hudson** argues these measures are likely to undermine the dollar’s global dominance, predicting a depreciation of the dollar’s exchange rate. This shift, he contends, is not just a matter of trade but a structural challenge to the financial underpinnings of the American-led order. The bill’s focus on protectionism and reduced government involvement, reminiscent of Thatcher-era policies, signals a retreat from the internationalist economic strategies that have long supported U.S. global influence.
+  **Michael Hudson** and Glenn Diesen, in their latest discussion, emphasize that the post-World War II global order is now "obsolete," no longer serving U.S. interests as it once did. The shift from "free trade" to "fair trade" is becoming more pronounced, with countries increasingly seeking to protect their own industries and challenge the dominance of Western financial institutions. This trend is particularly evident among BRICS nations, who are actively working to counter U.S. tariffs and the broader implications of American economic policies.
   
-  In the Middle East, the recent ceasefire between Iran and Israel is viewed by most analysts as fragile. **Michael Hudson** emphasizes that the truce is “temporary,” with a high likelihood of renewed hostilities, especially as U.S. electoral politics continue to shape regional dynamics. The broader U.S. strategy, according to Hudson, is less about direct security threats and more about maintaining unipolar control and disrupting the integration efforts of BRICS and Eurasian states.
+  On the Middle Eastern front, the temporary ceasefire between Iran and Israel is viewed with skepticism. **Michael Hudson** predicts that hostilities are likely to resume, especially as U.S. involvement and the upcoming American elections inject further instability into the region. The underlying motive, according to Hudson, remains the U.S. desire to maintain dollar hegemony and disrupt the integration efforts of BRICS and Eurasian powers like China and Russia.
   
-  On the economic front, the instability of American imperial strategies is becoming more pronounced. As discussed in Hudson’s interviews with **Glenn Diesen**, the Global South’s growing rejection of “rentier capitalism” and the rise of alternative economic blocs are eroding the foundations of U.S. economic power. This trend is compounded by the increasing use of sanctions and tariffs, which, while intended to pressure adversaries, may instead accelerate the fragmentation of the global financial system.
+  Meanwhile, concerns over the misuse of antisemitism claims in Western discourse have been raised by public figures such as Mandy Patinkin and Kathryn Grody, who argue that such tactics are being employed to silence critics of Israeli government policies. This reflects a broader unease about the intersection of identity politics and international affairs, particularly as right-wing leadership in Israel continues to shape both domestic and diaspora Jewish identity.
   
-  **Trends and Predictions:**  
-  - There is a high chance that U.S. protectionist policies will further weaken the dollar’s international standing and encourage the development of alternative financial systems.
-  - The Middle East is most definitely heading for renewed conflict, as the underlying drivers of the Iran-Israel confrontation remain unresolved and U.S. policy continues to prioritize strategic dominance over diplomatic settlement.
-  - The global economic order is quite likely to become more multipolar, with the Global South and Eurasian powers asserting greater autonomy and challenging the legacy structures of U.S. hegemony.
-  
-  In summary, the latest developments point to a world in transition, with the U.S. facing mounting challenges to its economic and geopolitical supremacy, and the likelihood of further instability in key regions.
+  Looking ahead, the majority of analysts agree that the global economic order will continue to fragment, with a "high chance" of further trade protectionism and currency realignments. The Middle East is expected to remain volatile, with "quite likely" renewed conflict between Iran and Israel. The BRICS alliance is poised to play a more assertive role in challenging Western economic dominance, though the outcome of these efforts remains uncertain. The misuse of antisemitism accusations in Western debates is likely to persist, contributing to growing polarization around Middle East policy.
 articles:
+  - title: Isolation Economics
+    url: https://michael-hudson.com/2025/07/isolation-economics/
+    text: 'NIMA ALKHORSHID : Let me start with a clip from an interview that the New
+      York Times did with Mandy Patinkin, about the situation with Israel and Netanyahu
+      and right-wing parties. DAVID MARCHESE (CLIP 1) : Are you thinking or feeling
+      any differently about what it means for you to be Jewish in this moment? MANDY
+      PATINKIN (CLIP 1) : Yes, I am. I’ll let them go first. KATHRYN GRODY (CLIP 1)
+      : I hate the way some people are using antisemitism as a claim for anybody that
+      is critical about a certain policy. As far as I am concerned, compassion for every
+      person in Gaza is very Jewish, and the fact that I abhor the policies of the leader
+      of that country does not mean I’m a self-hating Jew or I’m antisemitic. DAVID
+      MARCHESE (CLIP 1) : You mean Netanyahu when you say the “leader of that country?”
+      KATHRYN GRODY (CLIP 1) : Yes. The politics of what he’s doing is the worst thing
+      for Jewish people. It’s like lighting a candle for anybody that has any antisemitic
+      feelings. It’s creating a generation of wounded and hurt kids who will understandably
+      be very angry. I feel deeply troubled and horrified by what is happening in my
+      name. MANDY PATINKIN (CLIP 1) : 10 or 15 years ago, I was in Philadelphia, getting
+      ready to do a concert with my dear friend Patti LuPone. I go up to the hotel room
+      and “The Princess Bride” was on, and just as I walked in the room was that final
+      scene in the movie where Inigo is sitting by the window with the Man in Black,
+      and the Man in Black asks Inigo, would he like to be the next Dread Pirate Roberts,
+      and Inigo Montoya said these words: “I have been in the revenge business so long.
+      Now that it’s over, I do not know what to do with the rest of my life.” And I
+      ask Jews to consider what this man Benjamin Netanyahu and his right-wing government
+      is doing to the Jewish people all over the world. They are endangering not only
+      the State of Israel, which I care deeply about and want to exist, but endangering
+      the Jewish population all over the world. DAVID MARCHESE (CLIP 1) : And endangering
+      the Jews by endangering those in Gaza. MANDY PATINKIN (CLIP 1) : To watch what
+      is happening, for the Jewish people to allow this to happen to children and civilians
+      of all ages in Gaza, for whatever reason, is unconscionable and unthinkable. And
+      I ask you Jews, everywhere, all over the world, to spend some time alone and think,
+      Is this acceptable and sustainable? How could it be done to you and your ancestors
+      and you turn around and you do it to someone else? NIMA ALKHORSHID : I think that
+      what’s going on is universal, with the case of Netanyahu. And I want to start
+      with Michael’s take on what he said. MICHAEL HUDSON : About a month ago, Netanyahu
+      said that the greatest enemies of Israel were the assimilationist Jews throughout
+      the world. And he said, basically, that they are the critics of Israel. What Netanyahu
+      was doing was backing the extreme right-wing Orthodox Jews who support him, against
+      the old idea of cultural Zionism where Israel was depicted more or less as working
+      on a kibbutz and being almost like a socialist economy instead of a racist genocidal
+      economy. Regarding what Mandy Patinkin said, and it was a wonderful quote: in
+      the recent New York City elections, as I think we’ve said, the largest group supporting
+      Mamdani, the socialist candidate who was denouncing genocide, was the Jewish population.
+      In other words, you have a reaction by the progressive Jewish population, in America
+      and I think all over the world, who say “We’ve suffered enough from ethnic prejudice.
+      We want to assimilate.” In the United States, you had Jewish representatives among
+      the leaders of the support for the black movement in the 1960s, the 1970s. And
+      this really is a decisive point. There’s no question [about what Mandy said].
+      When Netanyahu and President Trump say “if you don’t support Israel, you’re an
+      anti-Semite; if you don’t support genocide, you’re an anti-Semite; if you don’t
+      believe it’s necessary to defend Israel by killing all the non-Israelis and exterminating
+      them as a new Holocaust, you’re an anti-Semite”… Well, what are people to say?
+      “Well, gee, I believe all these things. Does that make me an anti-Semite?” I think
+      that’s what Mandy Patinkin was saying. Israeli behavior in the Near East is a
+      crime against civilization. What they are doing breaks every international law,
+      every element of what people think is a civilized society. Is it anti-Semitic
+      to support civilization? This has created a split. President Trump says “we’re
+      closing down Columbia University, because students at Columbia from the Israeli
+      Defense Forces feel threatened by the fact that there are students saying genocide
+      is bad.” These IDF students feel that if you say genocide is bad, you’re attacking
+      Jews all over the world. The same statements are made by Merz in Germany, where
+      any defense of the Palestinians in Gaza is banned. This is literally a dividing
+      line. What side are you on, barbarism or civilization? And they’ve made it a Jewish
+      issue. RICHARD WOLFF : Nationalism has been used for progressive purposes, and
+      nationalism has been used for fascistic purposes and everything in between. Every
+      time Mr. Trump does anything that he knows millions of Americans do not agree
+      with, it is very important to label what he’s doing as American. And anybody who
+      disagrees with him is literally un-American. For many decades, we had in the United
+      States Congress an un-American activities committee whose job it was to ferret
+      out people who disagreed with policies of the U.S. government and to declare them
+      as enemies of the state, enemies of the culture, fundamentally “un-American” –
+      then, at least partly on that basis, to imprison them, to deport them, and in
+      the case of some of them, drive them to insanity and every other horror you can
+      think of. That’s my first comment. Here’s my second. We have in the law the idea
+      that if and only if you are immediately threatened with bodily harm, that you
+      feel genuinely that your life is in danger, only then do you have anything remotely
+      like the right to self-defense. Israeli bombing of citizens in Gaza who are not
+      shooting at them, who have no means to shoot at them and have had no significant
+      means for years, who are subject to mass slaughter – this cannot be justified
+      by pointing out something that was done by a very small political group called
+      Hamas two years ago. This violates, as Michael said, every basic notion of what
+      is just, what is fair, what is allowable in the extreme case of feeling self-defense.
+      What someone in October of 2023 did to a fellow citizen of yours is never, in
+      any law that I know of that isn’t crazy, a justification for taking massive numbers
+      of other people’s lives. During World War II, it was very frequent to denounce
+      the Nazis when, having been attacked by some partisan group, they collected all
+      of the adult citizens in a village and shot them. The notion was that we, the
+      Germans, being put upon by some partisans, therefore have some right to mass slaughter
+      of people who were not involved in that effort, who were not subjected to any
+      legal procedure to link them. We are now celebrating people doing what not so
+      long ago we decided was beyond the pale. I want to remind you: in the Nuremberg
+      trials and their aftermath, the whole world sat in judgment for months, deliberating
+      (in a way that the people they were judging never did), allowing witnesses, before
+      it was decided that crimes had been committed – and there was specific reference
+      to the mass killing of people who had not done anything. And those [criminals]
+      were executed. The leaders e.g. Goering, Goebbels, the people they were able to
+      catch, were executed by the West as a sign of the utter unacceptability of this
+      behavior. And it is very close to what is going on in Israel. And I think for
+      me, the worst of it is the use of nationalism. For an American audience, it is
+      particularly important to understand how nationalism has been used as the cover
+      for people with an agenda we ought to be horrified by and not allow them to use
+      nationalism. And that’s really what this is. Mr. Netanyahu wants to equate the
+      national notion he has of Israel with the obligation of every Jewish person around
+      the world. That’s a ploy that is very common among nationalists. That’s how they
+      recruit for and sustain their movements, by suggesting that you have to be like
+      them if you’re going to wear the label – you know, French or Spanish or Jewish
+      or anything else. We’ve gone through enough in the last 200 years. Two world wars
+      with an awful lot of nationalism. Let me close with a story. When World War I
+      broke out in 1914, the German parliament was roughly equally split, with the Socialist
+      Party being by then the number two party in Germany controlling over 40% of the
+      seats in the parliament. Kaiser Wilhelm (who was no longer Kaiser by the end of
+      the war, but at the beginning of the war he was still Kaiser i.e. king of Germany),
+      went on the radio and he said something that became very famous in German history.
+      “Ich kenne keine Parteien mehr, ich kenne nur noch Deutsche.”  I do not recognize
+      any parties anymore. I only recognize Germans. There it was. To mobilize the people
+      to fight a world war (which Germany lost) he had to try to overcome what? The
+      fact that the Socialist Party, at least on record, was against fighting a war
+      and would have voted against funding it. To stop that, he had to make everybody
+      into a loyal German. Let me remind everyone, not just outside of Israel, but a
+      huge part of the Jewish population in Israel is against what is going on. They
+      consider themselves Jews. That’s the part I’m talking about. They consider themselves
+      Israelis, and they consider themselves patriotic Israelis. And in many ways, they
+      are. But they are the sworn political enemies of Netanyahu and much, unfortunately
+      not all, but much of what Netanyahu stands for- as you can see if you paid attention
+      to Mr. Netanyahu’s failed efforts to transform the judiciary in Israel and his
+      failed efforts to win a large part of the Jewish population. It is therefore doubly
+      ironic that people who are critical of Mr. Netanyahu and of the war, have an easier
+      time in Israel than they do in New York or Philadelphia or Los Angeles. And that’s
+      because the anti-Semitic nonsense is a cover, not just for Mr. Netanyahu, but
+      for Mr. Trump. The Republicans and Trump just voted to defund public radio and
+      public television. That’s who they are. They don’t want public anything. They
+      want everything to be handled either by the business community, that’s their first
+      choice, or by the paid representatives, that’s the religious community. One or
+      the other. They don’t want a government that is representative in any way of the
+      mass of people. And they want to smash national public radio. They did it. They
+      want to smash the universities that train people to think at least critically
+      enough to be not amenable to MAGA mentality. The anti-Semitism is purely the thinnest
+      of fig leaves covering a political agenda of the extreme right wing who see this
+      moment as the first in a century and need to milk it for everything they can get
+      before Mr. Trump is ushered out into the pantheon of horrible experiences right
+      alongside of Joseph McCarthy. NIMA ALKHORSHID : Michael, before going to the next
+      topic, do you want to add something? MICHAEL HUDSON : No, it’s just to point out
+      that after all, it was the right-wing party in Israel that assassinated Prime
+      Minister Rabin for trying to support peace. So, of course, they kill each other
+      politically. NIMA ALKHORSHID : Michael, what has happened with the case of Ukraine?
+      Europeans are trying to buy weapons. Donald Trump is bragging about selling more
+      weapons to Europeans. These wealthy European countries are going to pay us [Americans]
+      for the weapons. And we’re going to to benefit a lot from what’s going on in Ukraine.
+      But they’re going to pay, they may send it to Ukraine. But when it comes to the
+      economy of European countries, we know that France said they’re not going to pay
+      for that. And it seems that mostly they’re going to put it on Germany. And I don’t
+      know if the United Kingdom is willing to go in that direction. But considering
+      the economy of Germany, how Merz can somehow convince the German people that they
+      can pay for that? And nobody knows when they’re going to get these weapons, if
+      they’re going to be used in Ukraine anytime soon, and the capability of the military-industrial
+      complex of the United States to produce them as soon as possible. These are huge
+      questions when it comes to the latest talks between Donald Trump and the NATO
+      Secretary General Rutte. MICHAEL HUDSON : You’ve put in a nutshell just about
+      everything that I would have said. The problem Trump is dealing with is America’s
+      deindustrialization. How can you rebuild a trade surplus if you’ve deindustrialized?
+      Well, as we discussed before, the only way to do this is to say, we’re not going
+      to compete in automobiles or the usual industrial manufactured products. We’re
+      going to deal with monopoly products that will enable us to charge much more for
+      the exports than it actually costs to produce them. So we’re not only talking
+      about normal profits for industry, which is unable to make a profit under Trump’s
+      rules, but super profits which are monopoly rents. And arms, along with information
+      technology, are one of the designated monopoly rent-yielding export markets. So
+      Trump has said, we’re not going to give any more American arms directly to Ukraine.
+      We’re going to say, Europe, it’s up to you to defend yourselves. You want to fight
+      Ukraine and Russia? You want to carry the new Cold War costs in Western Europe
+      to Russia? Be our guests, but you’ll buy your arms to fight Russia from us. You
+      will pay full price, buy American arms, and then it’s up to you whether you want
+      to use these directly to fight Russia or whether you want to donate them to Ukraine.
+      But we’re not going to spend the American budget directly on supplying the Ukraine
+      war anymore. That’s what he’s doing, and that’s a rational procedure. What you’re
+      pointing out is what seems to be irrational at first sight. Why on earth would
+      the Germans go along with it and change the rules of the European Union? There’s
+      a rule against running a budget deficit of more than 3%, maybe more than 5%. We’re
+      going to change these rules so that the European Union and Germany, its members,
+      can spend much more, can create its own money to buy American arms to fight the
+      war to attack Russia. It’s not a defensive war, it’s an attack war. How are we
+      going to try to balance the budget? The increase in military spending is from
+      the 2% under NATO that was set before Trump, to 5%. That’s an increase by 3% of
+      GDP, but the entire economic growth of Europe is normally 3%. The entire economic
+      growth each year is to go to providing military exports. And that can only be
+      achieved by cutting back social spending, cutting back the subsidies on German
+      residents to be able to pay for the gas and electricity to heat and power their
+      homes now that they’ve stopped trade with Russia. The cutback in domestic spending,
+      in addition to lower living standards, is going to lower GDP. So the increase
+      in German spending on weapons, while the economy actually goes into negative GDP
+      growth quarter after quarter, is going to be 10, 20, 30 times the GDP growth.
+      The German economy is militarizing. Mr. Merz said, we’re going to make the Wehrmacht
+      the power that it used to be. The power, obviously, under Adolf Hitler. No wonder
+      President Putin and the rest of the world are saying, this is neo-Nazism. They
+      don’t realize that World War II is over. They say, okay, let’s have a replay.
+      Let’s do it all over again. That’s what it looks like. The German population,
+      certainly according to all of the surveys, opposes Merz, opposes the Christian
+      Democrats, opposes the war in Ukraine. It doesn’t matter. What the German people
+      say doesn’t seem to have an effect on the German government or on the European
+      Union, which has appointed the two super-hawks, Van der Leyen and the Estonian
+      lady. I can’t believe that the point you’ve made will not split the European Union
+      apart. RICHARD WOLFF : Let me approach it from a slightly different angle. Mr.
+      Trump promised many times while he was campaigning that he could and would bring
+      an end to the war in Ukraine. To this day, he refers to it as Biden’s war because
+      he’s so eager not to be responsible. It’s a weak way of defending himself: here
+      we are half a year since he’s been president and he’s not one iota closer to ending
+      the war in Ukraine than he was when he took office. How do you fix, in the way
+      American politics works, a screaming failure? Well, you pick on whatever aspect
+      of it that you can find where you can do something to try to make it look like
+      you’re doing what you’re supposed to. One of the reasons the Republican and right-wing
+      and conservative parts of the United States were not happy with the Ukraine war
+      was the point that Michael just made. Namely, it’s the old guns versus butter.
+      It was costing a ton of money for the United States to support Ukraine financially,
+      politically, and militarily. And that this was our money, tax money, and so that
+      was part of the argument. So he can do something there. He can make the Europeans
+      pay, so it isn’t we who pay. And he can get up and talk about “See? I got them
+      to pay, we don’t pay” and hope that by talking about that, he can distract us
+      from the fact that he didn’t promise to make them pay. He promised to bring the
+      awful war to an end. Remember how many times he said to the consternation of the
+      whole world that he wanted the war in Ukraine to end because, I quote him now,
+      “people are dying over there”. And the whole world pointed out that more people
+      are dying in Gaza than are dying in Ukraine. If dying is an issue, you’re not
+      exactly consistent here. No, it made no difference. People are dying, and he’s
+      going to bring it to an end. He’s not. And this week was the failure of failures.
+      Every effort he tried: there will be no ceasefire until they do what Putin asked
+      them to do. They [Russia] are not prepared to do that. So we don’t have a ceasefire.
+      The war continues. What is he going to do? He promised to do what he cannot and
+      will not do. How does he square that circle? By making an enormous issue about
+      having the Europeans pay. And the Europeans, having not yet decided to make the
+      break with the United States, mumble and bumble and fumble, and yes, we will.
+      Whether they do or not, whether Mr. Merz can even stay in office – I should remind
+      people, he didn’t win by a lot, this is no landslide or mandate-holder. This is
+      a slim politician in a precarious situation. It’s very open how many dollars or
+      euros will ever find their way into these programs. But for the sound bite, and
+      to ease Mr. Trump’s political difficulties, Mr. Merz will go along because he
+      wants Mr. Trump to help him in a variety of ways as well. This is an arrangement
+      with lots of verbiage, lots of word salad to cover a temporary fix that solves
+      absolutely nothing. MICHAEL HUDSON : Richard, I think we now know that Trump never
+      intended the war to come to an end. He never said his aim was to increase the
+      war, to upgrade it. What he meant when he said bring the fighting to an end is
+      a ceasefire. And during that ceasefire, Europe and the United States was supposed
+      to rearm Ukraine, as it did after the Minsk accords, to rearm and accelerate the
+      fighting to help Ukraine fight against Russia all the more. And it was just a
+      trick with words to say, I want to stop the fighting and end the war, when he
+      really wanted to accelerate the war. I think the recent speeches of Foreign Secretary
+      Lavrov and President Putin have acknowledged the fact that they now realize that
+      all of this was just a trick by Trump to make them think that he wanted to end
+      the war while actually pacifying them into stopping the fighting so that America
+      could accelerate the war against them as a super hawk. And he’s gone beyond Biden’s
+      war. He’s made it not only his war, but his war with an exclamation point. RICHARD
+      WOLFF : I just want to acknowledge that that is possible. You know, the way diplomacy
+      and the way the American government particularly works, all we ever do is guess.
+      All you get from Michael and me are the best guesses we can make reading a ton
+      of material and trying not to be too easily fooled. But so much information is
+      withheld that it’s this endless politics of speculation. Look at all the stuff
+      about Epstein. It’s the same thing. We don’t know tens of millions of pieces of
+      information that might make it a bit easier to figure out what’s going on. We
+      are denied that. And that’s very unhealthy and gives the people in charge a lot
+      more freedom to fool around with us than we ought to allow if we took our commitment
+      to democracy seriously. NIMA ALKHORSHID : Yeah Michael, the Epstein case that
+      Donald Trump is somehow trying to dodge, but in the end, the MAGA movement is
+      asking for more from Donald Trump. Why is he so hesitant when it comes to that
+      case? MICHAEL HUDSON : Well, he’s more than hesitant. He’s disowned his own MAGA
+      supporters. This was one of the big things that he had promised, especially to
+      the QAnon conspiracy people. His supporters had said the U.S. government has been
+      captured. It’s been captured not only by Trump Derangement Syndrome, but it’s
+      been captured by the secrecy of the big state, not only in the JFK files that
+      Trump had promised to release, but Trump had made a big case all along about the
+      Epstein files. Again and again and again, he had mobilized his MAGA supporters
+      by talking about the Epstein files. Why on earth would he make such a volte-face
+      and all of a sudden call them the radical left, his own MAGA supporters on the
+      radical right? It looks to me like he’s very frightened of something. I don’t
+      think he’s frightened by the fact that Musk had accused that, well, Trump is in
+      the Epstein files. A few days ago, there was testimony by a girl who was 14 years
+      old at the time who described in 20 minutes the awful things that Trump did to
+      her with Epstein. But I think there’s been enormous pressure brought on Trump
+      to say something that is to try to misrepresent what the files were. I don’t think
+      there was a file saying, here’s a file of people I blackmailed. He was doing it
+      obviously for another party, and he didn’t need the file. What he had was exactly
+      what Bondi, the attorney general, said she had on her desk. She said she had on
+      her desk the pictures of all of these young girls. And she said, they’re really
+      terrible pictures. To protect the girls, we don’t want to release these pictures.
+      Well, you can always black out the pictures of the girls. The question is: who
+      are the men with the girls? The men with the girls seem to include a lot of very
+      powerful people who either are Donald Trump’s own donors or are powerful enough
+      to bring pressure on him to make him so frightened of the thought of actually
+      showing who the men were in these pictures that he’s caused a split among his
+      own followers. There’s now a spreading distrust of him because of his denial that
+      Epstein was involved in any kind of political context for all of this blackmail.
+      Just simple blackmail. No, no, he liked young girls, but that was it. Nothing
+      to see here. Nothing about Israel, nothing about the deep state, nothing about
+      the CIA. The whole context for this is that politics in America for the last 50
+      years is all about having blackmail files. In the 1960s, a number of groups said,
+      Gee, Michael, you’re a very good speaker. Would you like to run for political
+      office? And I asked some political insiders, what do you think of this suggestion?
+      They said: Michael, don’t even try it. Nobody has anything on you. You’ve led
+      a normal life. You’re happily married. You just do writing. They don’t have anything
+      on you. Nobody can trust you because they don’t know what you’re going to say
+      that may surprise them in a way that they don’t like. If you really want to run
+      for office, you have to make sure they have enough on you, so that you can’t do
+      anything to expose something they don’t want to expose. Well, just imagine President
+      Clinton trying to run either for governor or more important for president. The
+      Democratic Party had a meeting with them – I’m making up a fictional conversation
+      – “Bill, you know, we want you to be president, but between you and Hillary, we
+      don’t want to be surprised. We’re going to ask you to take a trip with Mr. Epstein.
+      And the purpose of this trip is, we want you to get photographed. At least act
+      as if you’re doing something that would be very embarrassing when it comes out.
+      We’re not going to do anything with the photograph. We’re going to keep it in
+      our files just in case you do something that we don’t like. In case you don’t
+      support Alan Greenspan, and you don’t get rid of laws that Wall Street doesn’t
+      want, etc etc.” Something like that. All of this back in the 60s and for many
+      decades was only about U.S. politics. But now, with the Epstein affair, the individuals
+      who were his main backers and funders and sponsors all seem to have had very strong
+      connections to Israel, like Robert Maxwell himself. And so there’s a belief that
+      what will be shown are not only individuals whose politics and statements have
+      supported the right wing in America, the Democratic and Republican right-wing,
+      but supported Israel too. That’s the whole suspicion of all of this. How else
+      can you explain what’s happening and the pressure that obviously is being brought
+      in on Trump? Who is bringing this pressure and why? That’s what his MAGA supporters
+      are saying, and in fact, what the whole country is saying right now, judging from
+      today’s newspapers. RICHARD WOLFF : If Mr. Trump has nothing to fear, as any junior
+      prosecutor would say, and if he’s in charge, he can open up the files, and there
+      it is, and he’s got nothing to worry about. He says he has nothing to worry about.
+      Okay, then open the file! You’re the authority. And if you want to protect the
+      young women that were abused, Michael is quite right: there are 50 different ways
+      to do that. By the way, it might be that those women would like to have a chance
+      to sue, to have a chance to reclaim a little bit of what was in effect taken from
+      them by the experience, when they were young and needed money or whatever it is
+      that brought them into that situation. He can do good by them, give them the option.
+      If they wish to be anonymized, okay, then everything is cleansed up with them.
+      But if he really wants there not to be the suspicion that he’s doing something
+      stinky, well, he has the authority. It stops with him. He can order his attorney
+      general or anybody else to open these files. And, I love the irony (I’m a bit
+      of a Hegelian): There’s Mr. Big and Powerful. There he is working night and day
+      to make us understand he rules the world. He can hit this country with a tariff.
+      He can bomb over here. All the old dying empire’s efforts to keep its empire alive.
+      And yet, when it comes to here, he has to deny himself his own power. He has to
+      use his power and use it in a way that makes everyone think less of him, no matter
+      what happens now, right? If Steve Bannon and all the others… Look at Mr. Johnson,
+      the head of the Republican Party in the House of Representatives. He said he wanted
+      the files released and literally minutes later voted against having them released.
+      You know, this is the power turned in on itself and makes itself undone. It is
+      the self-negation that Mr. Hegel talked to us about. NIMA ALKHORSHID : Michael,
+      when it comes to the issue of competition between the United States and China,
+      it seems that as time goes by, many people, even in the industry in the United
+      States, who are not that much connected with the military-industrial complex or
+      not that much gaining from endless wars, they’re somehow criticizing the way that
+      the United States is dealing with Russia, with China, in terms of competition.
+      Here is what the CEO of Ford Motors talked about. He was talking about the competition
+      in the car industry between the United States and China. It’s somehow frightening,
+      but here is what he said. JIM FARLEY (CLIP 2) : It’s the most humbling thing I’ve
+      ever seen. 70% of all EVs in the world, electric vehicles, are made in China.
+      They have far superior in-vehicle technology. Huawei and Xiaomi are in every car.
+      They have facial recognition. INTERVIEWER (CLIP 2) : Cell phone technology… is
+      connected to their cell phones. JIM FARLEY (CLIP 2) : Yes, you get in, you don’t
+      have to pair your phone. Automatically, your whole digital life is mirrored in
+      the car. You have an AI companion, that you can talk to ChatGPT equivalent in
+      China… all the automatic payment is already there. You can buy movie tickets.
+      It has facial recognition, so it knows who’s in which seat and which media you
+      like. INTERVIEWER (CLIP 2) : Why don’t Ford cars have that? Would you need to
+      deal with Apple or Google? JIM FARLEY (CLIP 2) : Yeah, because Google and Apple
+      decided not to go in the car business. And even beyond that, the cost, the quality
+      of their vehicles is far superior to what I see in the West. I mean, we are in
+      a global competition with China, and it’s not just EVs. And if we lose this, we
+      do not have a future, Ford. NIMA ALKHORSHID : Go ahead, Michael. Your take on
+      what’s going on with car production. MICHAEL HUDSON : For many decades now, it’s
+      been not only the cost, it’s the design. The American car companies have made
+      their recovery of profits basically on selling sports utility vehicles, the very
+      large gas-guzzling cars. When Trump and his predecessors asked “why don’t you
+      Japanese import more American cars?” The Japanese explained: Your cars are too
+      big for our streets. They’re too big for our parking lots. They take up too much
+      space. And they take up too much gas, and we have to import our gas. Our car buyers
+      want to economize on their gas spending. They want to get a car that they can
+      drive easily and park where they want. And they [the Japanese] like their own
+      cars better because the Americans have not really aimed their design at what the
+      world wants, but what they are advertising has been able to convince American
+      buyers: if you want to be safe, buy a big sports utility vehicle with a high center
+      of gravity that tends to tip over if you go fast around a curve, buy one of these…
+      and also you’ll feel more powerful and it’s your identity. You can imagine what
+      Trump’s threat of tariffs on Japan of 35%, maybe 50% even, (including cars) are
+      going to do. Trump’s threat against Japan’s car exports and also those of South
+      Korea are the largest attack on Japan since the Plaza Accords and the Louvre Accords
+      that followed in the 1980s led to Japan’s lost decade of the 1990s. He’s trying
+      to block Japanese and Korean exports to the United States, leaving Americans no
+      choice but to buy [American] cars and, of course, no ability to buy the Chinese
+      electric vehicles anymore, largely because of the American support of Musk’s company,
+      made in America, employing American labor largely. Even so, here’s the problem
+      with American car manufacturers. Trump has imposed tariffs on copper, steel, and
+      aluminum. This is what cars are made out of. The car companies here have to pay
+      much higher prices for copper and steel and aluminum – for the raw materials out
+      of which cars are made – than foreign countries manufacturers have to pay. And
+      American batteries are much more expensive than those that are designed to power
+      the Chinese cars. So there’s no way in which American cars can compete either
+      on price or in design. How on earth can this problem be cured without absolute
+      control of foreign trade blocking Americans from buying these cars? And of course,
+      given the role of automobiles in the American budget and the role of taking out
+      an automobile loan to buy a car, paying a very high price given the high default
+      rates on American automobile loans, is probably one of the major causes of the
+      American price inflation that you have today. In sum, Trump’s moves against Japan
+      are an attempt to protect an inefficient, uncompetitive automobile industry. Not
+      to mention the Canadian and Mexican affiliates that are producing the parts that
+      go into the cars are making. He’s tied the economic hands of car makers behind
+      their backs. “We’re going to tax what you buy, the parts for your cars from Mexico
+      and Canada, and we’re going to increase the cost of raw materials to make the
+      cars. And we’re not going to let you buy the batteries to power them.” You can
+      imagine how self-destructive this policy is, and I don’t see how it can last.
+      RICHARD WOLFF : Yeah, let’s do a very quick economics of why it can’t last. When
+      you protect the American economy from the Chinese, whether you use the electric
+      vehicles or you use solar panels or you use advanced AI equipment and so on, it’s
+      always the same story. You protect it here by excluding the Chinese. What does
+      that mean? It means that where the Chinese have broken into the American market,
+      it is because they produce either a better quality or offer a lower price or both.
+      That’s it. There’s no magic. No one’s holding a gun to anybody’s head. That’s
+      how and why, you know, the toaster you have at home is made in China and on and
+      on and on. Because that’s a cheaper, better toaster than anybody else makes, which
+      is why Walmart or Target or any of the others has it for sale. Now let’s follow
+      the economics. If you exclude that, you make Americans buy poorer quality or pay
+      a higher price. That’s not good. That’s bad for the consumer, but no one really
+      cares about them except in words. Let’s turn next to American businesses, or for
+      that matter, to any businesses operating here in America. They have to buy inputs,
+      you know, raw materials, machines, parts, whatever it is. And where are they going
+      to buy them from? They’re not going to get the good, cheap ones from abroad because
+      the government of the United States has put a tariff. That’s the point of the
+      tariff. So the American business will not be able to buy its raw material or its
+      parts or its inputs. It will not be able to buy from China because we’re in this
+      competition, which means it can’t get the cheapest or the best quality. But of
+      course, the competitors of the United States located in Canada or Mexico or anywhere
+      else in the world are able to go to China and are able to buy at the lower price
+      the better quality. So over time, America is shooting itself in the foot competitively.
+      It’s losing and not by the hand of anybody else, but by its own. It is following
+      a policy that may be good for the posturing of Mr. Trump. “I’m bringing industry
+      back.” No, you aren’t. The industries aren’t coming, and they’re not coming because
+      of what I just said: namely, in the long run, it makes no sense to come back here
+      because you’ll have to not be able to buy the cheapest input or the highest quality.
+      Why would you move to a country which promises you competitive disadvantages?
+      That’s why American companies went abroad in the first place because it was more
+      profitable. You are giving them a reason not to come back. Why this is so difficult,
+      I assume, is not because the idea is complex (it isn’t) but because of the noise
+      from the Trump administration, sadly not contradicted by the vast majority of
+      Democrats and their spokespersons. So it is allowed to give this man, Trump, the
+      opportunity to posture as if he was doing good for the American economy. He isn’t.
+      It may be bad in any case. I’m not blaming him for it. But what he’s doing is
+      really nonsensical self-promotion and making the problem worse. MICHAEL HUDSON
+      : Well, only one technical question, Richard. How can you shoot yourself in the
+      foot if you first shot yourself in the brain? It doesn’t work that way. RICHARD
+      WOLFF : I mean, it’s not, this is not complicated. There are things in economics
+      that are complicated. This isn’t one of them. It’s really sad. It’s almost as
+      if we had a person who was president who said, I’m going to solve our economic
+      problems. I’m going to erect a six-foot-tall tower and I’m going to hang yellow
+      streamers and I’m going to have an enormous amount of whipped cream put on top.
+      And we would listen to such a person and we would all shake our heads. How demented,
+      how sad for him to imagine that a real problem, the declining American economic
+      system, could be managed by this fantasy. Well, I got to tell you, with all my
+      fancy economic degrees, I’m looking at a program that’s ridiculous. MICHAEL HUDSON
+      : I wonder how this will affect the negotiations between the United States and
+      Europe right now. Because European companies also not only wanted to export cars
+      to the United States, as did South Africa that has heavy tariffs, but Trump is
+      pressing them to set up American production plants, as many German car companies
+      have done. But if they set up an auto production plant in America, how can they
+      make a profit given what we’ve just discussed about their increased costs? This
+      action and the tariff policy by Trump is essentially splitting the American economy
+      off from the rest of the world and isolating it, as we’ve discussed before. RICHARD
+      WOLFF : Yeah. And if you look, Nima’s choice of that clip is very, very smart,
+      right? To have the Ford family, which is really the family out of which the American
+      car industry grew, right? Henry Ford, way back when, at the beginning of the 20th
+      century, creates the assembly line and makes it possible to mass produce this
+      odd thing, a self-driving automobile instead of a horse and a carriage. Here you
+      have the latest generation, a young man who you would expect, if he were like
+      Trump, would be beating the drum of nationalism, is answering an honest question
+      by saying, you know, we don’t produce the best cars. We don’t have the best technology.
+      We can’t compete. I mean, after you listen to him describe what the Chinese car
+      on the average can do… I know enough about American cars. They can’t do those
+      things. And they’re more expensive. And we are completely lost in the electric
+      vehicle market. Wow. From the mouth of Mr. Ford. You know what that suggests to
+      me as an observer? That the car industry in this country is finished. Cars, whatever
+      their role in the world economy in the years ahead, are going to be made much
+      better elsewhere. Maybe the image of the United States is that we’re so important,
+      even though we are, let me remind everyone, four and a half percent of the world’s
+      people live in the United States. Four and a half, we’re going to have an economy
+      all by ourselves. You know what that means? We’re going to be the oddity that
+      now you can see on television when a camera crew goes deep into the Amazonian
+      jungle or deep somewhere else and discovers a community that has been living the
+      same way for 5,000 years. We’re going to be one of those. The rest of the world
+      is going to send tourists here. That’ll be our new economic boom, the tourism
+      to look at, look at these ancient automobiles these people still have. You know,
+      I’m not being facetious. That’s where we’re going with this policy. MICHAEL HUDSON
+      : Well, so much for the materialist approach to foreign policy, thinking that
+      nations are going to act in their own self-interest. RICHARD WOLFF : Well, you
+      know, “what your self-interest is” has never been uniformly or universally agreed.
+      The sentence, if you think about Hegel, takes you in all the different directions.
+      The tragedy of Europe is somehow even more poignant for me than the American.
+      To be transparent, I was born and lived all my life in the United States, but
+      my parents were refugees. They came from Europe. And so I straddle in the sense
+      that my parents are European and I’m an American and I have children and they’re
+      American and all that. But Europe was once the center of the known world because
+      it did the knowing and it was the center. And, you know, it carved up the whole
+      world. I remember once studying the meetings in Berlin in 1884 where all the European
+      countries had a big map of Africa and made lines with markers. You get this, I
+      get that, having nothing to do with the billion people that lived in Africa at
+      the time. Extraordinary, really extraordinary. It’s all gone. They can’t unify,
+      so they don’t even have the power that a unified unit might have. So they don’t
+      even have that. They’re pinched by the Chinese and Russians on one end, by the
+      Americans on the other. Israel and Gaza stand out as the final desperate attempt
+      to hold on to the colonial idea project. Look at the price being paid. The lesson
+      to the world: if you ever wanted an example of why you should get rid of colonialism,
+      it’s here. So the Europeans, they face nothing but defeat after defeat after defeat.
+      And you know, they deny it and they pretend otherwise. You know, when the Queen
+      of England dies and a new king [is enthroned], they actually act as if anybody
+      cared, as if the world would be interested in the cortege that takes the Queen
+      to her final resting place. This is a theater piece for ancient times, held on
+      to by people who have nothing else. The catastrophe here is real. And I understand
+      the danger. Societies traumatized by anything can behave in a horrible way. The
+      German working class, as I’ve tried to write recently, was traumatized. It was
+      led to believe in the 19th century that it was going to inherit the world, that
+      the British Empire was fading, and Deutsche Reich, the German Empire, would replace
+      it. And they were led to believe it. And German economic development in the 19th
+      century was like America. Those were the two up-and-coming contenders to replace
+      the British Empire. Then, in a very short time, the German working class was destroyed
+      by being defeated in World War I. Four years, five years later, they had the worst
+      inflation in modern history, wiped out their savings. And four years after that,
+      the Great Depression of 1929 hit. In a short period, they were traumatized by
+      three totally destructive events. No wonder they went for Adolf Hitler. That’s
+      what happens if you are traumatized. Look what happened to people in Cambodia
+      after the United States bombed them forever. They went to Pol Pot, and what was
+      that? You traumatize a population. Too many defeats, too many declines, too much
+      absence of any change, and you can get very bizarre activity. And part of the
+      bizarreness of the Trump government is that. Photo by Pawel Czerwinski on Unsplash
+      Transcript: Ton Coordination: Hudsearch The post Isolation Economics first appeared
+      on Michael Hudson .'
+    one_sentence_summary: In an interview with the New York Times, Mandy Patinkin and
+      Kathryn Grody express their concerns about the impact of Israeli leadership and
+      right-wing politics on Jewish identity and the misuse of antisemitism claims against
+      critics of these policies.
+    paragraph_summary: In a recent interview with the New York Times, Mandy Patinkin
+      and Kathryn Grody expressed their concerns about the impact of Israeli Prime Minister
+      Benjamin Netanyahu's policies on Jewish identity and global antisemitism. Grody
+      criticized the misuse of antisemitism accusations against those who critique Israeli
+      policies, asserting that compassion for Palestinians in Gaza aligns with Jewish
+      values. Both artists conveyed their distress over the current political climate,
+      suggesting that Netanyahu's actions not only threaten the State of Israel but
+      also jeopardize the safety and perception of Jewish people worldwide. Patinkin
+      invoked a poignant moment from "The Princess Bride" to emphasize the need for
+      reflection among Jews regarding the implications of their leadership's decisions.
+    published: '2025-07-21T12:13:08+00:00'
+  - title: Isolation Economics
+    url: https://michael-hudson.com/2025/07/isolation-economics/
+    text: 'NIMA ALKHORSHID : Let me start with a clip from an interview that the New
+      York Times did with Mandy Patinkin, about the situation with Israel and Netanyahu
+      and right-wing parties. DAVID MARCHESE (CLIP 1) : Are you thinking or feeling
+      any differently about what it means for you to be Jewish in this moment? MANDY
+      PATINKIN (CLIP 1) : Yes, I am. I’ll let them go first. KATHRYN GRODY (CLIP 1)
+      : I hate the way some people are using antisemitism as a claim for anybody that
+      is critical about a certain policy. As far as I am concerned, compassion for every
+      person in Gaza is very Jewish, and the fact that I abhor the policies of the leader
+      of that country does not mean I’m a self-hating Jew or I’m antisemitic. DAVID
+      MARCHESE (CLIP 1) : You mean Netanyahu when you say the “leader of that country?”
+      KATHRYN GRODY (CLIP 1) : Yes. The politics of what he’s doing is the worst thing
+      for Jewish people. It’s like lighting a candle for anybody that has any antisemitic
+      feelings. It’s creating a generation of wounded and hurt kids who will understandably
+      be very angry. I feel deeply troubled and horrified by what is happening in my
+      name. MANDY PATINKIN (CLIP 1) : 10 or 15 years ago, I was in Philadelphia, getting
+      ready to do a concert with my dear friend Patti LuPone. I go up to the hotel room
+      and “The Princess Bride” was on, and just as I walked in the room was that final
+      scene in the movie where Inigo is sitting by the window with the Man in Black,
+      and the Man in Black asks Inigo, would he like to be the next Dread Pirate Roberts,
+      and Inigo Montoya said these words: “I have been in the revenge business so long.
+      Now that it’s over, I do not know what to do with the rest of my life.” And I
+      ask Jews to consider what this man Benjamin Netanyahu and his right-wing government
+      is doing to the Jewish people all over the world. They are endangering not only
+      the State of Israel, which I care deeply about and want to exist, but endangering
+      the Jewish population all over the world. DAVID MARCHESE (CLIP 1) : And endangering
+      the Jews by endangering those in Gaza. MANDY PATINKIN (CLIP 1) : To watch what
+      is happening, for the Jewish people to allow this to happen to children and civilians
+      of all ages in Gaza, for whatever reason, is unconscionable and unthinkable. And
+      I ask you Jews, everywhere, all over the world, to spend some time alone and think,
+      Is this acceptable and sustainable? How could it be done to you and your ancestors
+      and you turn around and you do it to someone else? NIMA ALKHORSHID : I think that
+      what’s going on is universal, with the case of Netanyahu. And I want to start
+      with Michael’s take on what he said. MICHAEL HUDSON : About a month ago, Netanyahu
+      said that the greatest enemies of Israel were the assimilationist Jews throughout
+      the world. And he said, basically, that they are the critics of Israel. What Netanyahu
+      was doing was backing the extreme right-wing Orthodox Jews who support him, against
+      the old idea of cultural Zionism where Israel was depicted more or less as working
+      on a kibbutz and being almost like a socialist economy instead of a racist genocidal
+      economy. Regarding what Mandy Patinkin said, and it was a wonderful quote: in
+      the recent New York City elections, as I think we’ve said, the largest group supporting
+      Mamdani, the socialist candidate who was denouncing genocide, was the Jewish population.
+      In other words, you have a reaction by the progressive Jewish population, in America
+      and I think all over the world, who say “We’ve suffered enough from ethnic prejudice.
+      We want to assimilate.” In the United States, you had Jewish representatives among
+      the leaders of the support for the black movement in the 1960s, the 1970s. And
+      this really is a decisive point. There’s no question [about what Mandy said].
+      When Netanyahu and President Trump say “if you don’t support Israel, you’re an
+      anti-Semite; if you don’t support genocide, you’re an anti-Semite; if you don’t
+      believe it’s necessary to defend Israel by killing all the non-Israelis and exterminating
+      them as a new Holocaust, you’re an anti-Semite”… Well, what are people to say?
+      “Well, gee, I believe all these things. Does that make me an anti-Semite?” I think
+      that’s what Mandy Patinkin was saying. Israeli behavior in the Near East is a
+      crime against civilization. What they are doing breaks every international law,
+      every element of what people think is a civilized society. Is it anti-Semitic
+      to support civilization? This has created a split. President Trump says “we’re
+      closing down Columbia University, because students at Columbia from the Israeli
+      Defense Forces feel threatened by the fact that there are students saying genocide
+      is bad.” These IDF students feel that if you say genocide is bad, you’re attacking
+      Jews all over the world. The same statements are made by Merz in Germany, where
+      any defense of the Palestinians in Gaza is banned. This is literally a dividing
+      line. What side are you on, barbarism or civilization? And they’ve made it a Jewish
+      issue. RICHARD WOLFF : Nationalism has been used for progressive purposes, and
+      nationalism has been used for fascistic purposes and everything in between. Every
+      time Mr. Trump does anything that he knows millions of Americans do not agree
+      with, it is very important to label what he’s doing as American. And anybody who
+      disagrees with him is literally un-American. For many decades, we had in the United
+      States Congress an un-American activities committee whose job it was to ferret
+      out people who disagreed with policies of the U.S. government and to declare them
+      as enemies of the state, enemies of the culture, fundamentally “un-American” –
+      then, at least partly on that basis, to imprison them, to deport them, and in
+      the case of some of them, drive them to insanity and every other horror you can
+      think of. That’s my first comment. Here’s my second. We have in the law the idea
+      that if and only if you are immediately threatened with bodily harm, that you
+      feel genuinely that your life is in danger, only then do you have anything remotely
+      like the right to self-defense. Israeli bombing of citizens in Gaza who are not
+      shooting at them, who have no means to shoot at them and have had no significant
+      means for years, who are subject to mass slaughter – this cannot be justified
+      by pointing out something that was done by a very small political group called
+      Hamas two years ago. This violates, as Michael said, every basic notion of what
+      is just, what is fair, what is allowable in the extreme case of feeling self-defense.
+      What someone in October of 2023 did to a fellow citizen of yours is never, in
+      any law that I know of that isn’t crazy, a justification for taking massive numbers
+      of other people’s lives. During World War II, it was very frequent to denounce
+      the Nazis when, having been attacked by some partisan group, they collected all
+      of the adult citizens in a village and shot them. The notion was that we, the
+      Germans, being put upon by some partisans, therefore have some right to mass slaughter
+      of people who were not involved in that effort, who were not subjected to any
+      legal procedure to link them. We are now celebrating people doing what not so
+      long ago we decided was beyond the pale. I want to remind you: in the Nuremberg
+      trials and their aftermath, the whole world sat in judgment for months, deliberating
+      (in a way that the people they were judging never did), allowing witnesses, before
+      it was decided that crimes had been committed – and there was specific reference
+      to the mass killing of people who had not done anything. And those [criminals]
+      were executed. The leaders e.g. Goering, Goebbels, the people they were able to
+      catch, were executed by the West as a sign of the utter unacceptability of this
+      behavior. And it is very close to what is going on in Israel. And I think for
+      me, the worst of it is the use of nationalism. For an American audience, it is
+      particularly important to understand how nationalism has been used as the cover
+      for people with an agenda we ought to be horrified by and not allow them to use
+      nationalism. And that’s really what this is. Mr. Netanyahu wants to equate the
+      national notion he has of Israel with the obligation of every Jewish person around
+      the world. That’s a ploy that is very common among nationalists. That’s how they
+      recruit for and sustain their movements, by suggesting that you have to be like
+      them if you’re going to wear the label – you know, French or Spanish or Jewish
+      or anything else. We’ve gone through enough in the last 200 years. Two world wars
+      with an awful lot of nationalism. Let me close with a story. When World War I
+      broke out in 1914, the German parliament was roughly equally split, with the Socialist
+      Party being by then the number two party in Germany controlling over 40% of the
+      seats in the parliament. Kaiser Wilhelm (who was no longer Kaiser by the end of
+      the war, but at the beginning of the war he was still Kaiser i.e. king of Germany),
+      went on the radio and he said something that became very famous in German history.
+      “Ich kenne keine Parteien mehr, ich kenne nur noch Deutsche.”  I do not recognize
+      any parties anymore. I only recognize Germans. There it was. To mobilize the people
+      to fight a world war (which Germany lost) he had to try to overcome what? The
+      fact that the Socialist Party, at least on record, was against fighting a war
+      and would have voted against funding it. To stop that, he had to make everybody
+      into a loyal German. Let me remind everyone, not just outside of Israel, but a
+      huge part of the Jewish population in Israel is against what is going on. They
+      consider themselves Jews. That’s the part I’m talking about. They consider themselves
+      Israelis, and they consider themselves patriotic Israelis. And in many ways, they
+      are. But they are the sworn political enemies of Netanyahu and much, unfortunately
+      not all, but much of what Netanyahu stands for- as you can see if you paid attention
+      to Mr. Netanyahu’s failed efforts to transform the judiciary in Israel and his
+      failed efforts to win a large part of the Jewish population. It is therefore doubly
+      ironic that people who are critical of Mr. Netanyahu and of the war, have an easier
+      time in Israel than they do in New York or Philadelphia or Los Angeles. And that’s
+      because the anti-Semitic nonsense is a cover, not just for Mr. Netanyahu, but
+      for Mr. Trump. The Republicans and Trump just voted to defund public radio and
+      public television. That’s who they are. They don’t want public anything. They
+      want everything to be handled either by the business community, that’s their first
+      choice, or by the paid representatives, that’s the religious community. One or
+      the other. They don’t want a government that is representative in any way of the
+      mass of people. And they want to smash national public radio. They did it. They
+      want to smash the universities that train people to think at least critically
+      enough to be not amenable to MAGA mentality. The anti-Semitism is purely the thinnest
+      of fig leaves covering a political agenda of the extreme right wing who see this
+      moment as the first in a century and need to milk it for everything they can get
+      before Mr. Trump is ushered out into the pantheon of horrible experiences right
+      alongside of Joseph McCarthy. NIMA ALKHORSHID : Michael, before going to the next
+      topic, do you want to add something? MICHAEL HUDSON : No, it’s just to point out
+      that after all, it was the right-wing party in Israel that assassinated Prime
+      Minister Rabin for trying to support peace. So, of course, they kill each other
+      politically. NIMA ALKHORSHID : Michael, what has happened with the case of Ukraine?
+      Europeans are trying to buy weapons. Donald Trump is bragging about selling more
+      weapons to Europeans. These wealthy European countries are going to pay us [Americans]
+      for the weapons. And we’re going to to benefit a lot from what’s going on in Ukraine.
+      But they’re going to pay, they may send it to Ukraine. But when it comes to the
+      economy of European countries, we know that France said they’re not going to pay
+      for that. And it seems that mostly they’re going to put it on Germany. And I don’t
+      know if the United Kingdom is willing to go in that direction. But considering
+      the economy of Germany, how Merz can somehow convince the German people that they
+      can pay for that? And nobody knows when they’re going to get these weapons, if
+      they’re going to be used in Ukraine anytime soon, and the capability of the military-industrial
+      complex of the United States to produce them as soon as possible. These are huge
+      questions when it comes to the latest talks between Donald Trump and the NATO
+      Secretary General Rutte. MICHAEL HUDSON : You’ve put in a nutshell just about
+      everything that I would have said. The problem Trump is dealing with is America’s
+      deindustrialization. How can you rebuild a trade surplus if you’ve deindustrialized?
+      Well, as we discussed before, the only way to do this is to say, we’re not going
+      to compete in automobiles or the usual industrial manufactured products. We’re
+      going to deal with monopoly products that will enable us to charge much more for
+      the exports than it actually costs to produce them. So we’re not only talking
+      about normal profits for industry, which is unable to make a profit under Trump’s
+      rules, but super profits which are monopoly rents. And arms, along with information
+      technology, are one of the designated monopoly rent-yielding export markets. So
+      Trump has said, we’re not going to give any more American arms directly to Ukraine.
+      We’re going to say, Europe, it’s up to you to defend yourselves. You want to fight
+      Ukraine and Russia? You want to carry the new Cold War costs in Western Europe
+      to Russia? Be our guests, but you’ll buy your arms to fight Russia from us. You
+      will pay full price, buy American arms, and then it’s up to you whether you want
+      to use these directly to fight Russia or whether you want to donate them to Ukraine.
+      But we’re not going to spend the American budget directly on supplying the Ukraine
+      war anymore. That’s what he’s doing, and that’s a rational procedure. What you’re
+      pointing out is what seems to be irrational at first sight. Why on earth would
+      the Germans go along with it and change the rules of the European Union? There’s
+      a rule against running a budget deficit of more than 3%, maybe more than 5%. We’re
+      going to change these rules so that the European Union and Germany, its members,
+      can spend much more, can create its own money to buy American arms to fight the
+      war to attack Russia. It’s not a defensive war, it’s an attack war. How are we
+      going to try to balance the budget? The increase in military spending is from
+      the 2% under NATO that was set before Trump, to 5%. That’s an increase by 3% of
+      GDP, but the entire economic growth of Europe is normally 3%. The entire economic
+      growth each year is to go to providing military exports. And that can only be
+      achieved by cutting back social spending, cutting back the subsidies on German
+      residents to be able to pay for the gas and electricity to heat and power their
+      homes now that they’ve stopped trade with Russia. The cutback in domestic spending,
+      in addition to lower living standards, is going to lower GDP. So the increase
+      in German spending on weapons, while the economy actually goes into negative GDP
+      growth quarter after quarter, is going to be 10, 20, 30 times the GDP growth.
+      The German economy is militarizing. Mr. Merz said, we’re going to make the Wehrmacht
+      the power that it used to be. The power, obviously, under Adolf Hitler. No wonder
+      President Putin and the rest of the world are saying, this is neo-Nazism. They
+      don’t realize that World War II is over. They say, okay, let’s have a replay.
+      Let’s do it all over again. That’s what it looks like. The German population,
+      certainly according to all of the surveys, opposes Merz, opposes the Christian
+      Democrats, opposes the war in Ukraine. It doesn’t matter. What the German people
+      say doesn’t seem to have an effect on the German government or on the European
+      Union, which has appointed the two super-hawks, Van der Leyen and the Estonian
+      lady. I can’t believe that the point you’ve made will not split the European Union
+      apart. RICHARD WOLFF : Let me approach it from a slightly different angle. Mr.
+      Trump promised many times while he was campaigning that he could and would bring
+      an end to the war in Ukraine. To this day, he refers to it as Biden’s war because
+      he’s so eager not to be responsible. It’s a weak way of defending himself: here
+      we are half a year since he’s been president and he’s not one iota closer to ending
+      the war in Ukraine than he was when he took office. How do you fix, in the way
+      American politics works, a screaming failure? Well, you pick on whatever aspect
+      of it that you can find where you can do something to try to make it look like
+      you’re doing what you’re supposed to. One of the reasons the Republican and right-wing
+      and conservative parts of the United States were not happy with the Ukraine war
+      was the point that Michael just made. Namely, it’s the old guns versus butter.
+      It was costing a ton of money for the United States to support Ukraine financially,
+      politically, and militarily. And that this was our money, tax money, and so that
+      was part of the argument. So he can do something there. He can make the Europeans
+      pay, so it isn’t we who pay. And he can get up and talk about “See? I got them
+      to pay, we don’t pay” and hope that by talking about that, he can distract us
+      from the fact that he didn’t promise to make them pay. He promised to bring the
+      awful war to an end. Remember how many times he said to the consternation of the
+      whole world that he wanted the war in Ukraine to end because, I quote him now,
+      “people are dying over there”. And the whole world pointed out that more people
+      are dying in Gaza than are dying in Ukraine. If dying is an issue, you’re not
+      exactly consistent here. No, it made no difference. People are dying, and he’s
+      going to bring it to an end. He’s not. And this week was the failure of failures.
+      Every effort he tried: there will be no ceasefire until they do what Putin asked
+      them to do. They [Russia] are not prepared to do that. So we don’t have a ceasefire.
+      The war continues. What is he going to do? He promised to do what he cannot and
+      will not do. How does he square that circle? By making an enormous issue about
+      having the Europeans pay. And the Europeans, having not yet decided to make the
+      break with the United States, mumble and bumble and fumble, and yes, we will.
+      Whether they do or not, whether Mr. Merz can even stay in office – I should remind
+      people, he didn’t win by a lot, this is no landslide or mandate-holder. This is
+      a slim politician in a precarious situation. It’s very open how many dollars or
+      euros will ever find their way into these programs. But for the sound bite, and
+      to ease Mr. Trump’s political difficulties, Mr. Merz will go along because he
+      wants Mr. Trump to help him in a variety of ways as well. This is an arrangement
+      with lots of verbiage, lots of word salad to cover a temporary fix that solves
+      absolutely nothing. MICHAEL HUDSON : Richard, I think we now know that Trump never
+      intended the war to come to an end. He never said his aim was to increase the
+      war, to upgrade it. What he meant when he said bring the fighting to an end is
+      a ceasefire. And during that ceasefire, Europe and the United States was supposed
+      to rearm Ukraine, as it did after the Minsk accords, to rearm and accelerate the
+      fighting to help Ukraine fight against Russia all the more. And it was just a
+      trick with words to say, I want to stop the fighting and end the war, when he
+      really wanted to accelerate the war. I think the recent speeches of Foreign Secretary
+      Lavrov and President Putin have acknowledged the fact that they now realize that
+      all of this was just a trick by Trump to make them think that he wanted to end
+      the war while actually pacifying them into stopping the fighting so that America
+      could accelerate the war against them as a super hawk. And he’s gone beyond Biden’s
+      war. He’s made it not only his war, but his war with an exclamation point. RICHARD
+      WOLFF : I just want to acknowledge that that is possible. You know, the way diplomacy
+      and the way the American government particularly works, all we ever do is guess.
+      All you get from Michael and me are the best guesses we can make reading a ton
+      of material and trying not to be too easily fooled. But so much information is
+      withheld that it’s this endless politics of speculation. Look at all the stuff
+      about Epstein. It’s the same thing. We don’t know tens of millions of pieces of
+      information that might make it a bit easier to figure out what’s going on. We
+      are denied that. And that’s very unhealthy and gives the people in charge a lot
+      more freedom to fool around with us than we ought to allow if we took our commitment
+      to democracy seriously. NIMA ALKHORSHID : Yeah Michael, the Epstein case that
+      Donald Trump is somehow trying to dodge, but in the end, the MAGA movement is
+      asking for more from Donald Trump. Why is he so hesitant when it comes to that
+      case? MICHAEL HUDSON : Well, he’s more than hesitant. He’s disowned his own MAGA
+      supporters. This was one of the big things that he had promised, especially to
+      the QAnon conspiracy people. His supporters had said the U.S. government has been
+      captured. It’s been captured not only by Trump Derangement Syndrome, but it’s
+      been captured by the secrecy of the big state, not only in the JFK files that
+      Trump had promised to release, but Trump had made a big case all along about the
+      Epstein files. Again and again and again, he had mobilized his MAGA supporters
+      by talking about the Epstein files. Why on earth would he make such a volte-face
+      and all of a sudden call them the radical left, his own MAGA supporters on the
+      radical right? It looks to me like he’s very frightened of something. I don’t
+      think he’s frightened by the fact that Musk had accused that, well, Trump is in
+      the Epstein files. A few days ago, there was testimony by a girl who was 14 years
+      old at the time who described in 20 minutes the awful things that Trump did to
+      her with Epstein. But I think there’s been enormous pressure brought on Trump
+      to say something that is to try to misrepresent what the files were. I don’t think
+      there was a file saying, here’s a file of people I blackmailed. He was doing it
+      obviously for another party, and he didn’t need the file. What he had was exactly
+      what Bondi, the attorney general, said she had on her desk. She said she had on
+      her desk the pictures of all of these young girls. And she said, they’re really
+      terrible pictures. To protect the girls, we don’t want to release these pictures.
+      Well, you can always black out the pictures of the girls. The question is: who
+      are the men with the girls? The men with the girls seem to include a lot of very
+      powerful people who either are Donald Trump’s own donors or are powerful enough
+      to bring pressure on him to make him so frightened of the thought of actually
+      showing who the men were in these pictures that he’s caused a split among his
+      own followers. There’s now a spreading distrust of him because of his denial that
+      Epstein was involved in any kind of political context for all of this blackmail.
+      Just simple blackmail. No, no, he liked young girls, but that was it. Nothing
+      to see here. Nothing about Israel, nothing about the deep state, nothing about
+      the CIA. The whole context for this is that politics in America for the last 50
+      years is all about having blackmail files. In the 1960s, a number of groups said,
+      Gee, Michael, you’re a very good speaker. Would you like to run for political
+      office? And I asked some political insiders, what do you think of this suggestion?
+      They said: Michael, don’t even try it. Nobody has anything on you. You’ve led
+      a normal life. You’re happily married. You just do writing. They don’t have anything
+      on you. Nobody can trust you because they don’t know what you’re going to say
+      that may surprise them in a way that they don’t like. If you really want to run
+      for office, you have to make sure they have enough on you, so that you can’t do
+      anything to expose something they don’t want to expose. Well, just imagine President
+      Clinton trying to run either for governor or more important for president. The
+      Democratic Party had a meeting with them – I’m making up a fictional conversation
+      – “Bill, you know, we want you to be president, but between you and Hillary, we
+      don’t want to be surprised. We’re going to ask you to take a trip with Mr. Epstein.
+      And the purpose of this trip is, we want you to get photographed. At least act
+      as if you’re doing something that would be very embarrassing when it comes out.
+      We’re not going to do anything with the photograph. We’re going to keep it in
+      our files just in case you do something that we don’t like. In case you don’t
+      support Alan Greenspan, and you don’t get rid of laws that Wall Street doesn’t
+      want, etc etc.” Something like that. All of this back in the 60s and for many
+      decades was only about U.S. politics. But now, with the Epstein affair, the individuals
+      who were his main backers and funders and sponsors all seem to have had very strong
+      connections to Israel, like Robert Maxwell himself. And so there’s a belief that
+      what will be shown are not only individuals whose politics and statements have
+      supported the right wing in America, the Democratic and Republican right-wing,
+      but supported Israel too. That’s the whole suspicion of all of this. How else
+      can you explain what’s happening and the pressure that obviously is being brought
+      in on Trump? Who is bringing this pressure and why? That’s what his MAGA supporters
+      are saying, and in fact, what the whole country is saying right now, judging from
+      today’s newspapers. RICHARD WOLFF : If Mr. Trump has nothing to fear, as any junior
+      prosecutor would say, and if he’s in charge, he can open up the files, and there
+      it is, and he’s got nothing to worry about. He says he has nothing to worry about.
+      Okay, then open the file! You’re the authority. And if you want to protect the
+      young women that were abused, Michael is quite right: there are 50 different ways
+      to do that. By the way, it might be that those women would like to have a chance
+      to sue, to have a chance to reclaim a little bit of what was in effect taken from
+      them by the experience, when they were young and needed money or whatever it is
+      that brought them into that situation. He can do good by them, give them the option.
+      If they wish to be anonymized, okay, then everything is cleansed up with them.
+      But if he really wants there not to be the suspicion that he’s doing something
+      stinky, well, he has the authority. It stops with him. He can order his attorney
+      general or anybody else to open these files. And, I love the irony (I’m a bit
+      of a Hegelian): There’s Mr. Big and Powerful. There he is working night and day
+      to make us understand he rules the world. He can hit this country with a tariff.
+      He can bomb over here. All the old dying empire’s efforts to keep its empire alive.
+      And yet, when it comes to here, he has to deny himself his own power. He has to
+      use his power and use it in a way that makes everyone think less of him, no matter
+      what happens now, right? If Steve Bannon and all the others… Look at Mr. Johnson,
+      the head of the Republican Party in the House of Representatives. He said he wanted
+      the files released and literally minutes later voted against having them released.
+      You know, this is the power turned in on itself and makes itself undone. It is
+      the self-negation that Mr. Hegel talked to us about. NIMA ALKHORSHID : Michael,
+      when it comes to the issue of competition between the United States and China,
+      it seems that as time goes by, many people, even in the industry in the United
+      States, who are not that much connected with the military-industrial complex or
+      not that much gaining from endless wars, they’re somehow criticizing the way that
+      the United States is dealing with Russia, with China, in terms of competition.
+      Here is what the CEO of Ford Motors talked about. He was talking about the competition
+      in the car industry between the United States and China. It’s somehow frightening,
+      but here is what he said. JIM FARLEY (CLIP 2) : It’s the most humbling thing I’ve
+      ever seen. 70% of all EVs in the world, electric vehicles, are made in China.
+      They have far superior in-vehicle technology. Huawei and Xiaomi are in every car.
+      They have facial recognition. INTERVIEWER (CLIP 2) : Cell phone technology… is
+      connected to their cell phones. JIM FARLEY (CLIP 2) : Yes, you get in, you don’t
+      have to pair your phone. Automatically, your whole digital life is mirrored in
+      the car. You have an AI companion, that you can talk to ChatGPT equivalent in
+      China… all the automatic payment is already there. You can buy movie tickets.
+      It has facial recognition, so it knows who’s in which seat and which media you
+      like. INTERVIEWER (CLIP 2) : Why don’t Ford cars have that? Would you need to
+      deal with Apple or Google? JIM FARLEY (CLIP 2) : Yeah, because Google and Apple
+      decided not to go in the car business. And even beyond that, the cost, the quality
+      of their vehicles is far superior to what I see in the West. I mean, we are in
+      a global competition with China, and it’s not just EVs. And if we lose this, we
+      do not have a future, Ford. NIMA ALKHORSHID : Go ahead, Michael. Your take on
+      what’s going on with car production. MICHAEL HUDSON : For many decades now, it’s
+      been not only the cost, it’s the design. The American car companies have made
+      their recovery of profits basically on selling sports utility vehicles, the very
+      large gas-guzzling cars. When Trump and his predecessors asked “why don’t you
+      Japanese import more American cars?” The Japanese explained: Your cars are too
+      big for our streets. They’re too big for our parking lots. They take up too much
+      space. And they take up too much gas, and we have to import our gas. Our car buyers
+      want to economize on their gas spending. They want to get a car that they can
+      drive easily and park where they want. And they [the Japanese] like their own
+      cars better because the Americans have not really aimed their design at what the
+      world wants, but what they are advertising has been able to convince American
+      buyers: if you want to be safe, buy a big sports utility vehicle with a high center
+      of gravity that tends to tip over if you go fast around a curve, buy one of these…
+      and also you’ll feel more powerful and it’s your identity. You can imagine what
+      Trump’s threat of tariffs on Japan of 35%, maybe 50% even, (including cars) are
+      going to do. Trump’s threat against Japan’s car exports and also those of South
+      Korea are the largest attack on Japan since the Plaza Accords and the Louvre Accords
+      that followed in the 1980s led to Japan’s lost decade of the 1990s. He’s trying
+      to block Japanese and Korean exports to the United States, leaving Americans no
+      choice but to buy [American] cars and, of course, no ability to buy the Chinese
+      electric vehicles anymore, largely because of the American support of Musk’s company,
+      made in America, employing American labor largely. Even so, here’s the problem
+      with American car manufacturers. Trump has imposed tariffs on copper, steel, and
+      aluminum. This is what cars are made out of. The car companies here have to pay
+      much higher prices for copper and steel and aluminum – for the raw materials out
+      of which cars are made – than foreign countries manufacturers have to pay. And
+      American batteries are much more expensive than those that are designed to power
+      the Chinese cars. So there’s no way in which American cars can compete either
+      on price or in design. How on earth can this problem be cured without absolute
+      control of foreign trade blocking Americans from buying these cars? And of course,
+      given the role of automobiles in the American budget and the role of taking out
+      an automobile loan to buy a car, paying a very high price given the high default
+      rates on American automobile loans, is probably one of the major causes of the
+      American price inflation that you have today. In sum, Trump’s moves against Japan
+      are an attempt to protect an inefficient, uncompetitive automobile industry. Not
+      to mention the Canadian and Mexican affiliates that are producing the parts that
+      go into the cars are making. He’s tied the economic hands of car makers behind
+      their backs. “We’re going to tax what you buy, the parts for your cars from Mexico
+      and Canada, and we’re going to increase the cost of raw materials to make the
+      cars. And we’re not going to let you buy the batteries to power them.” You can
+      imagine how self-destructive this policy is, and I don’t see how it can last.
+      RICHARD WOLFF : Yeah, let’s do a very quick economics of why it can’t last. When
+      you protect the American economy from the Chinese, whether you use the electric
+      vehicles or you use solar panels or you use advanced AI equipment and so on, it’s
+      always the same story. You protect it here by excluding the Chinese. What does
+      that mean? It means that where the Chinese have broken into the American market,
+      it is because they produce either a better quality or offer a lower price or both.
+      That’s it. There’s no magic. No one’s holding a gun to anybody’s head. That’s
+      how and why, you know, the toaster you have at home is made in China and on and
+      on and on. Because that’s a cheaper, better toaster than anybody else makes, which
+      is why Walmart or Target or any of the others has it for sale. Now let’s follow
+      the economics. If you exclude that, you make Americans buy poorer quality or pay
+      a higher price. That’s not good. That’s bad for the consumer, but no one really
+      cares about them except in words. Let’s turn next to American businesses, or for
+      that matter, to any businesses operating here in America. They have to buy inputs,
+      you know, raw materials, machines, parts, whatever it is. And where are they going
+      to buy them from? They’re not going to get the good, cheap ones from abroad because
+      the government of the United States has put a tariff. That’s the point of the
+      tariff. So the American business will not be able to buy its raw material or its
+      parts or its inputs. It will not be able to buy from China because we’re in this
+      competition, which means it can’t get the cheapest or the best quality. But of
+      course, the competitors of the United States located in Canada or Mexico or anywhere
+      else in the world are able to go to China and are able to buy at the lower price
+      the better quality. So over time, America is shooting itself in the foot competitively.
+      It’s losing and not by the hand of anybody else, but by its own. It is following
+      a policy that may be good for the posturing of Mr. Trump. “I’m bringing industry
+      back.” No, you aren’t. The industries aren’t coming, and they’re not coming because
+      of what I just said: namely, in the long run, it makes no sense to come back here
+      because you’ll have to not be able to buy the cheapest input or the highest quality.
+      Why would you move to a country which promises you competitive disadvantages?
+      That’s why American companies went abroad in the first place because it was more
+      profitable. You are giving them a reason not to come back. Why this is so difficult,
+      I assume, is not because the idea is complex (it isn’t) but because of the noise
+      from the Trump administration, sadly not contradicted by the vast majority of
+      Democrats and their spokespersons. So it is allowed to give this man, Trump, the
+      opportunity to posture as if he was doing good for the American economy. He isn’t.
+      It may be bad in any case. I’m not blaming him for it. But what he’s doing is
+      really nonsensical self-promotion and making the problem worse. MICHAEL HUDSON
+      : Well, only one technical question, Richard. How can you shoot yourself in the
+      foot if you first shot yourself in the brain? It doesn’t work that way. RICHARD
+      WOLFF : I mean, it’s not, this is not complicated. There are things in economics
+      that are complicated. This isn’t one of them. It’s really sad. It’s almost as
+      if we had a person who was president who said, I’m going to solve our economic
+      problems. I’m going to erect a six-foot-tall tower and I’m going to hang yellow
+      streamers and I’m going to have an enormous amount of whipped cream put on top.
+      And we would listen to such a person and we would all shake our heads. How demented,
+      how sad for him to imagine that a real problem, the declining American economic
+      system, could be managed by this fantasy. Well, I got to tell you, with all my
+      fancy economic degrees, I’m looking at a program that’s ridiculous. MICHAEL HUDSON
+      : I wonder how this will affect the negotiations between the United States and
+      Europe right now. Because European companies also not only wanted to export cars
+      to the United States, as did South Africa that has heavy tariffs, but Trump is
+      pressing them to set up American production plants, as many German car companies
+      have done. But if they set up an auto production plant in America, how can they
+      make a profit given what we’ve just discussed about their increased costs? This
+      action and the tariff policy by Trump is essentially splitting the American economy
+      off from the rest of the world and isolating it, as we’ve discussed before. RICHARD
+      WOLFF : Yeah. And if you look, Nima’s choice of that clip is very, very smart,
+      right? To have the Ford family, which is really the family out of which the American
+      car industry grew, right? Henry Ford, way back when, at the beginning of the 20th
+      century, creates the assembly line and makes it possible to mass produce this
+      odd thing, a self-driving automobile instead of a horse and a carriage. Here you
+      have the latest generation, a young man who you would expect, if he were like
+      Trump, would be beating the drum of nationalism, is answering an honest question
+      by saying, you know, we don’t produce the best cars. We don’t have the best technology.
+      We can’t compete. I mean, after you listen to him describe what the Chinese car
+      on the average can do… I know enough about American cars. They can’t do those
+      things. And they’re more expensive. And we are completely lost in the electric
+      vehicle market. Wow. From the mouth of Mr. Ford. You know what that suggests to
+      me as an observer? That the car industry in this country is finished. Cars, whatever
+      their role in the world economy in the years ahead, are going to be made much
+      better elsewhere. Maybe the image of the United States is that we’re so important,
+      even though we are, let me remind everyone, four and a half percent of the world’s
+      people live in the United States. Four and a half, we’re going to have an economy
+      all by ourselves. You know what that means? We’re going to be the oddity that
+      now you can see on television when a camera crew goes deep into the Amazonian
+      jungle or deep somewhere else and discovers a community that has been living the
+      same way for 5,000 years. We’re going to be one of those. The rest of the world
+      is going to send tourists here. That’ll be our new economic boom, the tourism
+      to look at, look at these ancient automobiles these people still have. You know,
+      I’m not being facetious. That’s where we’re going with this policy. MICHAEL HUDSON
+      : Well, so much for the materialist approach to foreign policy, thinking that
+      nations are going to act in their own self-interest. RICHARD WOLFF : Well, you
+      know, “what your self-interest is” has never been uniformly or universally agreed.
+      The sentence, if you think about Hegel, takes you in all the different directions.
+      The tragedy of Europe is somehow even more poignant for me than the American.
+      To be transparent, I was born and lived all my life in the United States, but
+      my parents were refugees. They came from Europe. And so I straddle in the sense
+      that my parents are European and I’m an American and I have children and they’re
+      American and all that. But Europe was once the center of the known world because
+      it did the knowing and it was the center. And, you know, it carved up the whole
+      world. I remember once studying the meetings in Berlin in 1884 where all the European
+      countries had a big map of Africa and made lines with markers. You get this, I
+      get that, having nothing to do with the billion people that lived in Africa at
+      the time. Extraordinary, really extraordinary. It’s all gone. They can’t unify,
+      so they don’t even have the power that a unified unit might have. So they don’t
+      even have that. They’re pinched by the Chinese and Russians on one end, by the
+      Americans on the other. Israel and Gaza stand out as the final desperate attempt
+      to hold on to the colonial idea project. Look at the price being paid. The lesson
+      to the world: if you ever wanted an example of why you should get rid of colonialism,
+      it’s here. So the Europeans, they face nothing but defeat after defeat after defeat.
+      And you know, they deny it and they pretend otherwise. You know, when the Queen
+      of England dies and a new king [is enthroned], they actually act as if anybody
+      cared, as if the world would be interested in the cortege that takes the Queen
+      to her final resting place. This is a theater piece for ancient times, held on
+      to by people who have nothing else. The catastrophe here is real. And I understand
+      the danger. Societies traumatized by anything can behave in a horrible way. The
+      German working class, as I’ve tried to write recently, was traumatized. It was
+      led to believe in the 19th century that it was going to inherit the world, that
+      the British Empire was fading, and Deutsche Reich, the German Empire, would replace
+      it. And they were led to believe it. And German economic development in the 19th
+      century was like America. Those were the two up-and-coming contenders to replace
+      the British Empire. Then, in a very short time, the German working class was destroyed
+      by being defeated in World War I. Four years, five years later, they had the worst
+      inflation in modern history, wiped out their savings. And four years after that,
+      the Great Depression of 1929 hit. In a short period, they were traumatized by
+      three totally destructive events. No wonder they went for Adolf Hitler. That’s
+      what happens if you are traumatized. Look what happened to people in Cambodia
+      after the United States bombed them forever. They went to Pol Pot, and what was
+      that? You traumatize a population. Too many defeats, too many declines, too much
+      absence of any change, and you can get very bizarre activity. And part of the
+      bizarreness of the Trump government is that. Photo by Pawel Czerwinski on Unsplash
+      Transcript: Ton Coordination: Hudsearch The post Isolation Economics first appeared
+      on Michael Hudson .'
+    one_sentence_summary: In an interview with the New York Times, Mandy Patinkin and
+      Kathryn Grody express their concerns about the impact of Israeli leadership and
+      right-wing politics on Jewish identity and the misuse of antisemitism claims against
+      critics of these policies.
+    paragraph_summary: In a recent interview with the New York Times, Mandy Patinkin
+      and Kathryn Grody expressed their concerns about the impact of Israeli Prime Minister
+      Benjamin Netanyahu's policies on Jewish identity and global antisemitism. Grody
+      criticized the misuse of antisemitism accusations against those who critique Israeli
+      policies, asserting that compassion for Palestinians in Gaza aligns with Jewish
+      values. Both artists conveyed their distress over the current political climate,
+      suggesting that Netanyahu's actions not only threaten the State of Israel but
+      also jeopardize the safety and perception of Jewish people worldwide. Patinkin
+      invoked a poignant moment from "The Princess Bride" to emphasize the need for
+      reflection among Jews regarding the implications of their leadership's decisions.
+    published: '2025-07-21T12:13:08+00:00'
+  - title: The Challenge to Dollar Hegemony and Global Debt
+    url: https://michael-hudson.com/2025/07/the-challenge-to-dollar-hegemony-and-global-debt/
+    text: '07.17.2025 – Glenn Diesen GLENN DIESEN : We are joined today by Professor
+      Michael Hudson, world-famous and best-selling economist. So welcome back to the
+      program. MICHAEL HUDSON: Well, thanks for having me back, Glenn. GLENN DIESEN
+      : So recently, the Secretary of State, Marco Rubio, explained that the post-war
+      global order is not just obsolete, it is now being used against us. And it is…
+      MICHAEL HUDSON: That’s what it means, obsolete. It’s working just the way it was
+      supposed to, but America’s no longer the beneficiary. GLENN DIESEN : Oh, exactly.
+      And for me, I thought a bit about what was previously referred to as the free-trade
+      empire. If you are in the hegemonic position, often this system can work to your
+      advantage. If it’s not, free- trade is expected to be replaced with what can be
+      called fair-trade. But it is interesting about the post-war global order because
+      there is a, I guess, growing sentiment that the post-World War II economic order
+      has indeed come to an end. And the U.S. is therefore pursuing its own alternative.
+      It’s unclear, in more precise terms, what this exactly entails. While at the other
+      end, we’re developing also on the other side BRICS as an alternative to transition
+      away from the seemingly failed or post-World War II economic order that has ended.
+      So it might be an oversimplification, but there seems to be at least these two
+      different pathways. So I really want to explore with you what both the United
+      States and BRICS envision to replace this post-World War II era with. And indeed,
+      you wrote or sent me recently a chapter on this, and you referred to a similar
+      problem as civilizational conflict. I was wondering if you can flesh out this
+      idea. MICHAEL HUDSON: Well, by civilizational conflict, I mean the way in which
+      society and the economy are going to be organized. And you began your question
+      with the 1944-1945 post-war order. And the United States at Bretton Woods designed
+      the International Monetary Fund and the World Bank and the British loan and British
+      diplomacy as a means of absorbing the British Empire and later the rest of the
+      European former empires into the United States sphere of influence. So the rules-based
+      order that the United States created were rules that favored the United States.
+      And the origins of this, to really understand the split in the kind of world that
+      the Western industrial economies have relative to the 85% of the world majority,
+      this goes back really two centuries to the very takeoff of industrial capitalism
+      in Britain, France, Germany, and later the United States. And I think in many
+      ways, you can say that the takeoff of industrial capitalism was revolutionary
+      for the countries that were industrializing. And it was revolutionary because
+      the basic principle of industrial capitalism was to lower the cost of production
+      so that industrialists in Britain and other countries could undersell competitors
+      abroad. And how did you undersell them? Well, there were three ways. The first
+      way was to get rid of the carryover from feudalism, the landed aristocracy that
+      controlled parliaments with the aim of increasing their land rents and with their
+      land rents, the price of food. And the industrialists by 1815, led by David Ricardo,
+      the banker, said, well, Britain cannot compete with other countries if we have
+      to pay our wage labor so much that it pays exorbitant agricultural rents to the
+      landlord class, which had imposed the Corn Laws, the agricultural tariffs in 1815
+      to block foreign imports. Ricardo said the first precondition of having an industrial
+      country overtake and out-compete its competitors is to minimize the cost of living
+      for the labor that it employs. And that means we need free trade in grain and
+      food and raw materials so we can import them from abroad. And that entails freeing
+      the economy from economic rent. Rent is the increase in price, the excess of price
+      over the actual cost value. And Ricardo and the whole school of classical political
+      economy aimed at keeping prices in the economy in line with the actual cost of
+      production and getting rid of all of the special privileges. The first privilege
+      was that of land rent, as I mentioned. The second privilege was monopoly privileges.
+      From the 14th to the 18th century, Europe’s kings had needed to increase taxes
+      to pay their bankers to lend them the money to go to war with each other. And
+      the parliaments of Britain and other countries obviously opposed paying taxes,
+      especially during the Crusades when they opposed the kings of England imposing
+      taxes to pay the bankers to fight wars on behalf of Rome in its sort of internecine
+      fights with Germany and countries that didn’t accept Roman domination. So the
+      bankers helped the kings in the 14th, 15th, and 16th centuries organize trade
+      monopolies. You don’t need parliamentary approval to make a trade monopoly. And
+      that will yield money. And you, the king, as recipient of these monopolies, can
+      pay us, the bankers . So the industrial capitalists of England said, we have to
+      get rid of these monopolies. Let’s have a free market free of economic rent, free
+      from land rent, free from monopoly rent. And the third thing they needed was:
+      we have to take the financial class in general. We have to bring it into the industrial
+      capitalist order. The role of bankers should be to make productive loans to finance
+      capital formation . And banks in England and other countries had not been lending
+      to finance industrial capital formation. They didn’t lend to the inventors of
+      the steam engine and James Watt, I think, had to mortgage the land to borrow to
+      get money to invest in his innovations. So these three forms, land rent, monopoly
+      rent, and interest, which is a form of monopoly rent, had to be freed. And that
+      was really the task of classical economics in the 19th century was to create that
+      streamlined market free of all the costs that were not really costs of production,
+      but were costs of the privileges inherited from the medieval period. Well, things
+      were very different in the rest of the world. England took 30 years to get rid
+      of the Corn Laws, which it did in 1846, and that committed Britain to free trade
+      with other countries. And the British strategists and diplomats went to other
+      countries and said, we’ll give you access to the British market. You can buy your
+      manufactures from Britain much cheaper than you can make them yourself. We’ll
+      buy raw materials from you, your food, your minerals, others, and it’ll be a happy
+      exchange. Well, they convinced America, at least the southern states of America,
+      not the northern states, and they convinced most of the world to agree to this
+      specialization of production between the industrial capitalist countries on the
+      one hand and the raw materials producers, host economies on the other. Well, what
+      happened was that the industrial countries ran trade surpluses, went far ahead.
+      They bought low-priced raw materials, they worked them up into manufactures, and
+      they sold them at a profit. And together, the European countries and later the
+      United States had a monopoly in industrial products. Well, the problem is that
+      the rest of the world producing raw materials ran trade deficits. And to make
+      matters even worse, beginning in the 1820s, the newly independent former colonies
+      from Haiti in the Caribbean, Mexico, Brazil, and then the Ottoman colonies, Greece,
+      Egypt, and Tunisia, all won their independence, but they had to borrow money from
+      creditors in order to remake the economy and to begin to develop their own industry
+      and their self-sufficiency. Well, almost immediately, every country that borrowed
+      defaulted. And by the end of the 19th century, the debts had grown and the defaults
+      had mounted up so that the creditor countries were able to appoint central banks
+      or national monetary commissions to manage the fiscal policy of these countries
+      that had won their development. And of course, in the colonies, you had Britain
+      and Germany and France, the colonizing powers running things. And the industrial
+      countries used their trade surpluses to invest in the raw materials producers.
+      They invested in railroads and communications. They bought out public infrastructure
+      monopolies. They especially bought land and plantations and natural resource rights,
+      forests, minerals for themselves. And the result is that all of these rent-yielding
+      resources that the classical economists said should be the natural tax base were
+      not the tax base. They were the equivalent of feudalism as a burden to the raw
+      materials exporters. And in the sense that here you had the governments and the
+      domestic economy having to pay heavy rent or land rent, natural resource rent,
+      which is a kind of land rent, monopoly rent, and financial debt service, all to
+      the creditor countries. So the fight that had been against feudalism in Britain
+      and France and Germany for the rest of the world, for the global majority, was
+      a fight against foreign rentier interests, not only their own rentier interests.
+      And this created a kind of dual economy, as it came to be called. And by the 1950s,
+      for instance, Latin America, Africa, much of Asia were called developing countries,
+      but they were not developing in the way that the European industrial nations developed.
+      They were not developing free of economic rent, but as a subject to economic rent.​
+      Their governments did not have enough domestic tax returns to be able to make
+      the public infrastructure spending and subsidy of industry that was absolutely
+      critical to Britain, France, and Germany and the United States that had a mixed
+      economy. Because in these industrial countries, industrial capitalism was evolving
+      into industrial socialism. It was a mixed economy in all of these countries because
+      the industrial class said, well, apart from feeding our wage earners at lower
+      priced food that we import, we’re going to minimize their cost of living by providing
+      basic needs, basic services, education, health care, transportation, natural monopolies
+      at minimum cost prices or at subsidized prices or even freely for education so
+      that we’re going to make our European economies and later the U.S. economy the
+      lowest cost economies in the world so that we can out-compete any potential competition
+      from North America, South America, the global south basically. And that was a
+      situation that existed right through World War II. Well, during World War II,
+      many of these raw materials exporters actually had accumulated large amounts of
+      their own foreign reserves by selling minerals and oil and other inputs to the
+      fighters in World War II. And they emerged in 1945 in a very strong position.
+      Well, at that point, the United States imposed its IMF rules and the World Bank
+      rules. And these claimed to have a doctrine of economic development that would
+      help these countries develop. It actually prevented them from developing. And
+      so instead of being developing countries, they were warped into dependency countries,
+      not developing countries, but host economies in the sense of host to, you could
+      even call it a parasite. And the World Bank, for instance, would make loans to
+      global south countries, not for their own food production, to make themselves
+      supply their own food so they didn’t have to import it, but only to export plantation
+      crops and to pick up all of the infrastructure costs, the port costs, and the
+      transportation to export their raw materials. They fought against land reform
+      and any attempt to produce food that would have rivaled the market and displaced
+      American farmers and farm exports. And the same thing happened after the common
+      market was formed with its Common Agricultural Policy, which also had very heavy
+      government supports, price supports, suspension of free trade in order to support
+      a farm investment that vastly increased European farm productivity, just as President
+      Roosevelt’s Agricultural Adjustment Act in the United States in the 1930s increased
+      American agricultural productivity by being very protectionist. Nothing like this
+      occurred in countries that were clients of the World Bank. Well, pretty soon these
+      countries lapsed back into the condition that they’d been in since the 19th century.
+      They ran trade deficits. They had to borrow money. That meant they ran into debt.
+      And at that point, the International Monetary Fund came in, and it said the only
+      way you can get rich is by impoverishing yourself. This is a theory that David
+      Ricardo had developed, the spokesman of bankers for the Bullion Committee in 1809-1810
+      in Britain. They said, well, why don’t you get rich in the way that Britain and
+      Europe got rich, lower the wage cost. But they didn’t lower the wage cost by lowering
+      the cost of living. They lowered it by preventing labor unions by just lowering
+      wages and not providing any of the social support for wages that Europe had, and
+      basically imposing austerity programs that had one purpose: to prevent governments
+      from having the money to invest in subsidizing their industry and agriculture
+      to be independent of the European countries. So basically, these were anti-development
+      corporations, institutions. The World Bank published a report under McNamara,
+      Partners in Development , but it was really Partners in Dependency, Partners in
+      Underdevelopment, because it was all based on the diametric opposite principles
+      of classical economics and the way that the European countries had developed by
+      raising living standards. The World Bank and the IMF aimed at lowering living
+      standards, claiming that this would make them more competitive. But this ignored
+      the fact that the American economists pointed out that high-wage labor was so
+      much more productive than low-wage pauper labor that it paid for itself. So you
+      had Western European and North American labor, high productivity, supported by
+      heavy government subsidies and provision of basic needs, and unproductive labor
+      that did not have any government or social support in the global south countries.
+      And that’s the problem that has led to today’s problem, the crisis, which has
+      now, this year coming to a head. And it’s come to a head for two reasons. The
+      most obvious reason is the tariff policy that’s imposed by Donald Trump prevents
+      other countries, especially the global south countries, from earning the money,
+      the dollars, to pay their debts by exporting to the United States market. Now,
+      if their debts are denominated in dollars, and the only way they can earn dollars
+      is by exporting to the U.S. or Europe, and they’re blocked from doing this, how
+      can they pay? The only way for the last 50 years they’ve been able to pay is by
+      being forced to sell off and privatize even more of their natural resources, their
+      mineral rights, sew off their monopolies, essentially Thatcherize their economy.
+      And Thatcherizing their economy has been just as devastating to the global south
+      countries as it was to Britain. That’s the crisis. The second crisis is the fact
+      that for the first time, the global south countries and Asia and the BRICS countries
+      as a whole have an alternative to avoid the dependency trap that they’ve been
+      caught in since 1945. And that’s largely because of China. Ever since the Bandung
+      Conference in 1955 in Indonesia, countries, the non-aligned countries, got together
+      and said, we’ve got to have an alternative to the U.S. and European-designed economic
+      order that is not in our interest. But they couldn’t go it alone. They were just
+      individuals, and the United States and Britain and Europe were able to divide
+      and conquer them to regime change, to basically overthrow governments that were
+      not U.S. friendly. And the result was this dual economy structure that you would
+      have. Well, they’re stuck with Thatcherized economies with not being able to have
+      the fiscal resources that Europe developed with. They don’t have sovereignty to
+      impose their own rent tax on land, natural resources, and to create their own
+      monetary systems that would finance their own industry. China did that, but it
+      took a revolution in 1945 under Mao, just as in Russia, it took a revolution that
+      got rid of the landlord class and the financial class. And the question is: how
+      are the BRICS countries going to emulate the Chinese industrial capitalist model
+      or the industrial socialist model with Chinese characteristics? The Chinese characteristics
+      being those of Adam Smith, John Stuart Mill, Marx, the whole classical economic
+      school that developed the whole idea of freeing industrial economies from economic
+      rent, from special privilege, and making them efficient industrial economies.
+      That’s the crisis. And the fact that these countries are now able to have an alternative
+      model is what the Americans claim is a clash in civilization. And it’s really
+      not a clash of civilization. It’s a fight against the attempt by the global south
+      and BRICS and global majority to follow the same path of civilization that industrial
+      capitalism began to develop in the 19th century and that the classical economic
+      ideology was all about. GLENN DIESEN : If we relate this back to the statement
+      by Marco Rubio that the post-war global order is now used against us, is this
+      then a reference to the rentier system, the idea that the currency, technologies,
+      banking system, all these finances, all these things offered by the United States,
+      which it extracts rent from, in other words, money without contributing to the
+      productive process, is this eliminating America in this role? Is this what Rubio
+      is referring to when he says that the system is being used against us? Or is it
+      just the general trade rules? How can we interpret the statement of Rubio? MICHAEL
+      HUDSON: Well, it’s not the system that’s changed. It’s the United States and the
+      European economies that have changed. What began as industrial capitalism under
+      the classical economics of freeing economies from rent didn’t really win the fight
+      by the 20th century. The rentier interests fought back, and you had a replacement
+      of classical value, price, and rent theory with an idea that, well: price equals
+      value. There’s no such thing as economic rent. Everybody earns whatever they can
+      get, whether it’s landlords earn all the rent they can take, the banks earn whatever
+      they charge, including late fees. All of these are counted in GDP today. If you
+      look at the GDP of America and Europe, you have most of it being rentier charges,
+      monopoly rents, but especially interest charges, financial charges, real estate,
+      land rent. Banks have lent more and more credit relative to the price of the buyers
+      on mortgage, more and more of the housing costs in America and Europe are paid
+      to the banks. So there’s still economic rent in the U.S. and the European economies,
+      but the recipients are no longer the feudal landlord class. They’re the banking
+      class. And you’ve had the bank class become the main rentier, not the landlords
+      and not the monopolists, but the banking class has been the mother of monopoly,
+      the mother of trusts, organizing them, and then lending buyers and organizers
+      of trusts and corporate takeovers the money to create monopolies and pay out the
+      monopoly rents as interest. So, what began as industrial capitalism that made
+      the United States and the European economies so wealthy and so productive has
+      ended up being parasitized by turning into finance capitalism. That’s the central
+      thesis of almost all of the books and all of the articles that I’ve read. And
+      so, it’s the United States that has lost its industrial power by deciding we’re
+      going to deindustrialize. We’re going to essentially put the class where we’re
+      back in business under President Clinton in the 1990s by, let’s shift our industrial
+      production out of the United States to the foreign affiliates of multinational
+      corporations. Let’s let foreign labor do the work, and then that will prevent
+      American labor from unionizing and raising its wages because we’re replacing it
+      with immigrant labor or with Mexican and Canadian labor at first, and then with
+      Chinese and other foreign labor. So, the United States took a decision to literally
+      deindustrialize. And this deindustrialization has become financialization as well.
+      So, you’ve replaced an industrial economy with a bank-centered, Wall Street-centered
+      financial economy whose central planning has shifted from governments to the financial
+      centers in New York, London, Paris, Frankfurt, Tokyo. And the economic development
+      of the 15% global garden and its allies basically have stopped developing and
+      have sort of lapsed into the same kind of rentier economy that the whole fight
+      to create industrial power in the 19th century was fought against. Well, that’s
+      led the United States all of a sudden to find: well, we can’t afford to create
+      our own industrial self-sufficiency anymore. So, how are we going to compete?
+      Well, President Trump says there are two ways we can compete: We can either force
+      other countries to pay us tribute by creating an empire, or we can make monopoly
+      rent and financial rent. We can make monopoly rent by monopolizing the new technology
+      and information technology, computer chip technology, and especially military
+      technology. We’ll tell Europe: increase your military spending from 1.5% of GDP
+      to 5%, but you have to buy all your military goods from the United States . And
+      that will provide, that will help us balance our international trade and finance
+      our budget deficit at the same time. And you also have to remain in the dollar
+      system so that whatever surplus that foreign countries are able to save out of
+      their trade surplus or investment surplus or domestic earnings, all their monetary
+      savings have to be invested in U.S. Treasury securities or other U.S. securities
+      in the dollar area. And so the wealth and accumulation of all the world is to
+      be sent to the United States. And Trump says he’s going to impose 100%, maybe
+      500% tariffs on countries that try to use their income and their trade surpluses
+      and their tax surpluses to develop their own economy rather than subsidize the
+      United States economy. So this is a war of the United States, not only against
+      the global majority, but especially against its own allies in Europe and also
+      in Japan and South Korea. As you’ve just seen, America’s moves against Japan to
+      end its ability to sell its automobiles in the United States. Same thing with
+      Korea, the inability to sell their industrial products here. It’s a declaration
+      of economic war against these other countries. And the U.S. diplomacy has sort
+      of fixed the outcome by its political interference and regime change pressure
+      and the non-government organizations that have provided a huge source of funding
+      to promote individual opportunists as politicians or industrial leaders who are
+      favorable to the United States and owe their loyalty really to the United States
+      or United States companies like I suppose you’d say Merz in Germany. So you have
+      European political leaders supporting policies that add to the United States domination
+      of Europe. Well, the voters of these European countries do not support this. The
+      voters of Germany, France, and other countries are voting against spending their
+      money on the war in Ukraine, against fighting against Russia. They want to be
+      able to buy in the cheapest market, just like England wanted to buy in the cheapest
+      market back in 1815. But they’re blocked. Instead of buying inexpensive Russian
+      oil and gas, they’re supposed to buy American liquefied natural gas at four or
+      five times the price as you and I have spoken about before. So Europe has been
+      turned into a dependency, and the United States is trying to achieve that same
+      hegemony globally over the BRICS and global south countries. Well, the problem
+      is that the BRICS and global south countries themselves not only have governments
+      that are very largely supported by the United States, for instance, the African
+      representatives to the International Monetary Fund and the World Bank are thoroughly
+      neoliberal. So their managerial class has been educated in the United States or
+      Britain in neoliberal Thatcherite or similar U.S. laws. They’re not even familiar
+      with the policy debates that underlay the emergence of industrial capitalism that
+      made Europe so successful originally. So they don’t have a model. The only model
+      that they have is that of China, which independently has reinvented the wheel,
+      the same wheel that Adam Smith and John Stuart Mill and the British economists
+      and their other classical economists developed of a mixed economy where the government
+      is in control of its own money creation and the allocation of money. So you will
+      have, for instance, China doing what any country that’s trying to develop and
+      being competitive should do. You create money and credit to finance tangible capital
+      formation. Not only private capital formation and innovation, but basic infrastructure
+      like high-speed railways, port development, or the Belt and Road Initiative that
+      China is trying to make in order to create a structure of international trade
+      and investment that will make Asia independent of the United States. And Russia’s
+      President Putin had said, this is really what the fight is all about. The fight
+      is to make other countries sovereign nations in charge of their own fiscal policy
+      and investment policy and government policy. But they can’t be independent unless
+      they tax away the resource rent from their now foreign-owned companies produced
+      by oil, raw materials production, mineral production, forests. Essentially, nationalize
+      the monopolies and make them public monopolies, not foreign-owned rentier monopolies.
+      They have to de-rentiize their economy. That’s their policy. Well, they don’t
+      really have to nationalize these foreign-owned oil and mineral companies. They
+      simply have to tax the economic rent. And as sovereign countries, they should
+      be able to tax the economic rent. But this is treated as a civilizational conflict,
+      as an attack on Western civilization and democracy itself, where actually it’s
+      an expression of democracy, an expression of their own domestic national sovereignty.
+      So this is the fight they have. But their own ruling class, their own political
+      class, and the wealthiest class that they have are themselves rentiers and are
+      part of the rentier economy. A huge amount of Argentina’s and Brazil’s foreign
+      debt is owned by Argentinians and Brazilians because they know that they’re the
+      upper classes and they know that the government is going to pay the dollar debt
+      to themselves and not default on it. So you have a class conflict within the BRICS
+      countries themselves, very similar, but with key differences to the class conflict
+      between labor and capital in the West. That’s a complicating factor in all this.
+      And the question is: how are you going to get the BRICS countries and other countries
+      to pursue the same kind of economic reform that China has done so efficiently
+      without having an actual revolution because the United States has said, if you
+      try to make a reform, we’re going to do to you what we did to Venezuela, what
+      we did to Iran, what we did to Libya, what we did to Chile. We’re going to overthrow
+      you. We don’t want to reform. We’re trying to keep Western power in control. And
+      President Putin gave another speech just a week ago saying, you know, all along,
+      we thought since the 1990s that the anti-Russian feeling that Europe and the United
+      States had really was ideological. That it was a fight between capitalism and
+      Soviet ideology. And it turns out that certainly that was an element, but they
+      really were just anti-Russian. They wanted to conquer us. They wanted to break
+      us up into five different countries or six countries and divide and conquer us
+      and make us their colonies. That it really is all about an attempt by the United
+      States and Europe to control the world, just as under industrial capitalism they
+      tried to control the world by industrial power and productivity and controlling
+      the rentier surpluses, financial surpluses, rent surpluses of raw materials exporters,
+      that it turns out to be just a raw power grab. And that’s what it’s turned into
+      today. GLENN DIESEN : So you have then the split between the more financialized
+      economies of the West versus the more aspiring, at least industrial capitalist
+      economies of BRICS. So I guess what frustrates me with Europe a lot is the reluctance
+      to accept that they’ve gone from being the subject to the object, the reluctance
+      to see that the Europeans are the one now being cannibalized by their American
+      partners because I think the political leadership sees the future of Europe, its
+      greatness or relevance, to be tied up with this transatlantic partnership, while
+      at the same time there is some recognition that they’re being cannibalized by
+      the Americans. So you end up with politicians such as Macron of France who pivots
+      back and forth between, you know, we can’t allow ourselves to be vassals of America
+      , and the next day it’s, we have to have solidarity with the US in order to preserve
+      the West. So it’s very, they want to be in the political West, but they’re very
+      uncomfortable or reject the acknowledgement that they have now become an object
+      effectively. But what can BRICS do now, though, in terms of providing an alternative?
+      Because the monopolistic system you present as the option of the United States,
+      it doesn’t seem like a very stable or even sustainable option. It seems very extractive,
+      disruptive, chaotic, and doomed for failure down the road. So what, in your opinion,
+      should BRICS be striving for then? MICHAEL HUDSON: Well, let me talk about Europe
+      first. People like Macron and his counterparts in England, Starmer, and Germany,
+      Merz, they’re demagogues. They see on the one hand that the population of Europe
+      wants prosperity. They don’t want the budget to be limited in money creation and
+      running a deficit. They want the government to run deficits to spend on social
+      spending, especially to support living standards or at least to prevent the disaster
+      of living standards that have been caused by breaking energy trade with Russia.
+      So, what the voters want is one thing, but the leaders are not responsive to the
+      voters. They’re just like Donald Trump here. They are serving their basically
+      American sponsors. And the problem is, I guess, for Europe, the whole way in which
+      the European Union is structured to guarantee failure. The European Union is run
+      by NATO. Its foreign policy heads are military hawks whose only interest is basically
+      willing to impoverish the European economies in order to fight Russia and try
+      to train it in this mythical hope that somehow, if they drain Russia enough, Russia
+      will be unable to fight the war in Ukraine, against Europe and America any longer.
+      And there will be a regime change. The Europeans and Americans can come up in
+      and carve up Russia as they began to do under Yeltsin in the 1990s. European voters
+      do not have a role to play in European politics under a condition where Europe
+      is part of NATO and where its countries are prevented from doing what any sovereign
+      country should do, creating its own money to fund its own spending, to subsidize
+      its industry and rising living standards. The European Union’s monetary policy
+      was created to prevent running a budget deficit in a Keynesian type economic stimulus.
+      So as long as European policy is run from a basement office in the Pentagon saying,
+      well, you have to bankrupt your industry by not importing Russian energy anymore.
+      You can move your industrial companies to America, maybe bring your skilled labor
+      here too, but you’re going to have to sacrifice in order to defend democracy,
+      democracy like Zelensky has imposed in Ukraine, the American model of democracy.
+      I mean, this is a travesty. And this blocks Europe from saying, well, we really,
+      we’re not going to be part of an island off the coast of Rhode Island. We’re going
+      to be part of Asia. That’s our natural trade partner. You know, the whole German
+      prosperity came from an integration of trade and investment with Russia. They’ll
+      have to go back to unifying with the rest of Asia and being just another country
+      of equals. But they say, we don’t want to be equals. We want to dominate. If we
+      can’t control another economy that we trade with, we feel insecure. We feel threatened.
+      And if America cannot control these economies, we feel the threat because we’re
+      dependent on the United States. Europe will have to realize that its economic
+      enemy is not Russia and China, but rather that China and the rest of Asia are
+      the most rapidly growing economies in the world. So who is Europe to look to for
+      its long-term trade and investment development with a shrinking economy in the
+      United States or a growing economy in East Asia? Europe’s unanimous leaders say,
+      we’re with the shrinking economy. We’re going to lower our living standards just
+      as rapidly as American living standards are being lowered and we’re going to impose
+      austerity because that’s where our loyalty lies. What can the voters of Europe
+      do against that given the way in which the European Union’s politics are organized?
+      Well, the same problem occurs in the BRICS countries. I’m sure the BRICS voters
+      would love to say, why can’t our country in Africa or South Asia or Latin America
+      follow the same policy of China? Why can’t we throw off what for us is the equivalent
+      of European feudalism? We have to say that this whole two centuries of warped
+      development, making us subsidiary dependencies of the industrial creditor nations,
+      has not worked out. Our sovereignty is to go to work with each other. We have
+      to make a clean slate. The debts cannot be paid unless we forego all of our investment
+      in growth. Who are we going to put first? Are we going to put the foreign bondholders
+      first as a claim on our tax revenues? Or are we going to put our own economic
+      growth first and our own domestic investment in achieving economic self-sufficiency
+      and rising living standards first? Well, unanimously, the BRICS countries say,
+      forget living standards, we’re going to follow the IMF, we’re going to impose
+      austerity because we in the ruling class, the client oligarchy, are doing very
+      well ourselves. We’re really an extension of the U.S. finance capitalist economy
+      . So this is the ruling class of Argentina, much of Brazil under Bolsonaro. That’s
+      what the whole fight in Brazil is all about. This is the whole problem. You not
+      only need a revolution by the BRICS countries and global majority countries to,
+      in terms of their philosophy of economics development, to adopt classical economics
+      and its freeing economies from rent, you need a political revolution against its
+      own client oligarchies that have been put in place by this dependency system that’s
+      been imposed over the last two centuries, often by force and violence. GLENN DIESEN
+      : Well, I fear that it’s almost a law of nature that we can say the political
+      elite is no longer delivering on the desires of its public. But if they don’t,
+      there will always be this political upheaval. I think so far the political class
+      has simply dismissed all reactions to its failure to pursue basic national interests
+      as being populists and populists are illegitimate and should be countered almost
+      in any possible way. Now this only works for so long though because if they do
+      not respond to national interest there will be some massive political instability
+      or upheaval coming. But the response to national interest depends on how the distribution
+      of power is organized, and in a multi-polar system that is now the actual reality,
+      the distribution of power is not being concentrated in the United States anymore.
+      The policies have to reflect this in some way it seems. But as you say, the political
+      leads in Europe are only pursuing, or, essentially doing America’s bidding while
+      its national interests are ignored. I’m wondering how long this can actually go
+      on and if there will be some pursuit of, if not joining BRICS, some similar alternative
+      at least. Because I think the Europeans… well the Americans, they at least, think
+      what you will about Trump and his terrible solutions to this, are trying to pursue
+      a new system. At least he recognizes that the post-World War II era is over. I
+      think the Europeans are still in denial. If they can only do enough self-sacrifice,
+      enough war, enough bootlicking of Trump, then somehow they can bring back or restore
+      this era. I think this is what the Americans, the Chinese, and the Russians all
+      have in common. I think they realize that this era is over and now, of course,
+      split interest. Do you have any final thoughts on this, I would say, very important
+      topic of the end of an era? The economic system of the past 80 years is coming
+      to an end and there’s no real consensus.  And even among the different alternatives,
+      there doesn’t seem to be the conceptual clarity you want. I would like to see,
+      for example, BRICS to have a sustainable alternative. And even less so with the
+      Trump administration. MICHAEL HUDSON: Well, what you’ve described, Glenn, is the
+      materialist approach to history. And that history believes that countries are
+      going to do what ultimately is in their natural interest. There’s a kind of survival
+      of the fittest, and the fittest ultimately are going to work out. But that’s not
+      what’s happened in a lot of history. It’s not the fittest that have survived.
+      And the materialist approach to history has left out the reasons why the race
+      is not always to the swift, as the Bible puts it. And so we really don’t know
+      what’s going to happen today. For Germany, for instance, it’s not just that the
+      post-war era is over. World War II is not over. It’s still on. Merz says we want
+      to make the German army the dominant army as it just was before. The dominant
+      army, he means, it’s only one army, the Wehrmacht, the Nazi army. You’re having
+      a revival of what really is Nazism in Germany. It’s like all of a sudden we’re
+      going back to the World War II period. We’re having a dictatorship in France where,
+      despite all of the demonstrators, the yellow vests and the demonstrations throughout
+      France have not been able to get rid of Macron. You have a whole obsolescence
+      of the political constitutions and the politics that have led to Starmer in Britain
+      just following Tony Blair as part of the super Thatcherite development. None of
+      this is in the national interest of these countries. They’re not what the voters
+      want, but the political system has become dissociated from what the voters want.
+      It may be that the only catalyst for this is not going to be in Europe, but it’s
+      going to be in other countries that, especially former present allies of the United
+      States, such as Japan, South Korea, that decide: well, now that we can’t run trade
+      surpluses with the United States anymore, now that it’s doing to us in Japan what
+      it did with the Plaza at Louvre Accords in the 1980s, now maybe we’ve got to make
+      a rapprochement with China . I think as Western Europe sees other Asian countries
+      joining China one after another, and by China, its overall development plan, Belt
+      and Road and overall trading and investment area, Europe is going to see: they’re
+      pulling further and further ahead of us. They’ve left us behind. How long can
+      we agree to be left behind? And what can we do to make a change? Well, the question
+      is, can this be done without a revolution? I don’t know. Will it be a peaceful
+      revolution? How do you change a constitution that has left Europe and client oligarchies
+      in this position? It’s as much a political question as it is an economic question.
+      So while we talk in terms of economic self-determination, how do you deal with
+      the fact that there’s this political distortion of what you and I would think
+      is the natural materialist logic of history? GLENN DIESEN : Well, on those great
+      final words, we can wrap it up. But as I like that possibility at least, though,
+      because I do see some optimistic signs coming out of East Asia, both from South
+      Korea and Japan, It looks as if they’ve also come to realize that as the post-World
+      War II era or system is coming to an end, that the American role will change fundamentally
+      in terms of also cannibalizing allies. Something, by the way, also evident in
+      the rhetoric towards Taiwan. So as this is happening, if they make this shift,
+      yeah, it remains to be seen if the Europeans will still throw themselves on the
+      sword in this way. But I don’t know. I’m very disillusioned by the Europeans at
+      the moment. So I remain pessimistic, but at least that’s a source of optimism,
+      though. MICHAEL HUDSON: Yes. Yeah, optimism. Yes, there will be a revolution.
+      GLENN DIESEN : Well, Professor Hudson, thank you as always. It’s always fascinating
+      to speak with you so, thanks again. MICHAEL HUDSON: Thank you Glenn. Transcription
+      and Diarization: hudsearch Editing and Review: Harrison Betts Photo by Brian Wertheim
+      on Unsplash The post The Challenge to Dollar Hegemony and Global Debt first appeared
+      on Michael Hudson .'
+    one_sentence_summary: In a discussion between Glenn Diesen and economist Michael
+      Hudson, they explore the obsolescence of the post-war global order, suggesting
+      it no longer benefits the U.S. and may be shifting from free trade to fair trade
+      as the global economic landscape evolves.
+    paragraph_summary: In a recent discussion, economist Michael Hudson and host Glenn
+      Diesen explored the idea that the post-World War II global order, once beneficial
+      to the United States, is now deemed obsolete and counterproductive for American
+      interests, as articulated by Secretary of State Marco Rubio. They examined the
+      transition from a free-trade system, which favored U.S. hegemony, to a potential
+      fair-trade approach, as sentiments grow that the existing economic framework is
+      failing. Hudson introduced the concept of "civilizational conflict," suggesting
+      that the future organization of society and economy will be shaped by competing
+      visions, particularly as the U.S. seeks alternatives to the current order while
+      the BRICS nations emerge as a counterforce. The conversation highlights the complexities
+      of these two divergent pathways in a changing global landscape.
+    published: '2025-07-21T11:52:13+00:00'
+  - title: The Challenge to Dollar Hegemony and Global Debt
+    url: https://michael-hudson.com/2025/07/the-challenge-to-dollar-hegemony-and-global-debt/
+    text: '07.17.2025 – Glenn Diesen GLENN DIESEN : We are joined today by Professor
+      Michael Hudson, world-famous and best-selling economist. So welcome back to the
+      program. MICHAEL HUDSON: Well, thanks for having me back, Glenn. GLENN DIESEN
+      : So recently, the Secretary of State, Marco Rubio, explained that the post-war
+      global order is not just obsolete, it is now being used against us. And it is…
+      MICHAEL HUDSON: That’s what it means, obsolete. It’s working just the way it was
+      supposed to, but America’s no longer the beneficiary. GLENN DIESEN : Oh, exactly.
+      And for me, I thought a bit about what was previously referred to as the free-trade
+      empire. If you are in the hegemonic position, often this system can work to your
+      advantage. If it’s not, free- trade is expected to be replaced with what can be
+      called fair-trade. But it is interesting about the post-war global order because
+      there is a, I guess, growing sentiment that the post-World War II economic order
+      has indeed come to an end. And the U.S. is therefore pursuing its own alternative.
+      It’s unclear, in more precise terms, what this exactly entails. While at the other
+      end, we’re developing also on the other side BRICS as an alternative to transition
+      away from the seemingly failed or post-World War II economic order that has ended.
+      So it might be an oversimplification, but there seems to be at least these two
+      different pathways. So I really want to explore with you what both the United
+      States and BRICS envision to replace this post-World War II era with. And indeed,
+      you wrote or sent me recently a chapter on this, and you referred to a similar
+      problem as civilizational conflict. I was wondering if you can flesh out this
+      idea. MICHAEL HUDSON: Well, by civilizational conflict, I mean the way in which
+      society and the economy are going to be organized. And you began your question
+      with the 1944-1945 post-war order. And the United States at Bretton Woods designed
+      the International Monetary Fund and the World Bank and the British loan and British
+      diplomacy as a means of absorbing the British Empire and later the rest of the
+      European former empires into the United States sphere of influence. So the rules-based
+      order that the United States created were rules that favored the United States.
+      And the origins of this, to really understand the split in the kind of world that
+      the Western industrial economies have relative to the 85% of the world majority,
+      this goes back really two centuries to the very takeoff of industrial capitalism
+      in Britain, France, Germany, and later the United States. And I think in many
+      ways, you can say that the takeoff of industrial capitalism was revolutionary
+      for the countries that were industrializing. And it was revolutionary because
+      the basic principle of industrial capitalism was to lower the cost of production
+      so that industrialists in Britain and other countries could undersell competitors
+      abroad. And how did you undersell them? Well, there were three ways. The first
+      way was to get rid of the carryover from feudalism, the landed aristocracy that
+      controlled parliaments with the aim of increasing their land rents and with their
+      land rents, the price of food. And the industrialists by 1815, led by David Ricardo,
+      the banker, said, well, Britain cannot compete with other countries if we have
+      to pay our wage labor so much that it pays exorbitant agricultural rents to the
+      landlord class, which had imposed the Corn Laws, the agricultural tariffs in 1815
+      to block foreign imports. Ricardo said the first precondition of having an industrial
+      country overtake and out-compete its competitors is to minimize the cost of living
+      for the labor that it employs. And that means we need free trade in grain and
+      food and raw materials so we can import them from abroad. And that entails freeing
+      the economy from economic rent. Rent is the increase in price, the excess of price
+      over the actual cost value. And Ricardo and the whole school of classical political
+      economy aimed at keeping prices in the economy in line with the actual cost of
+      production and getting rid of all of the special privileges. The first privilege
+      was that of land rent, as I mentioned. The second privilege was monopoly privileges.
+      From the 14th to the 18th century, Europe’s kings had needed to increase taxes
+      to pay their bankers to lend them the money to go to war with each other. And
+      the parliaments of Britain and other countries obviously opposed paying taxes,
+      especially during the Crusades when they opposed the kings of England imposing
+      taxes to pay the bankers to fight wars on behalf of Rome in its sort of internecine
+      fights with Germany and countries that didn’t accept Roman domination. So the
+      bankers helped the kings in the 14th, 15th, and 16th centuries organize trade
+      monopolies. You don’t need parliamentary approval to make a trade monopoly. And
+      that will yield money. And you, the king, as recipient of these monopolies, can
+      pay us, the bankers . So the industrial capitalists of England said, we have to
+      get rid of these monopolies. Let’s have a free market free of economic rent, free
+      from land rent, free from monopoly rent. And the third thing they needed was:
+      we have to take the financial class in general. We have to bring it into the industrial
+      capitalist order. The role of bankers should be to make productive loans to finance
+      capital formation . And banks in England and other countries had not been lending
+      to finance industrial capital formation. They didn’t lend to the inventors of
+      the steam engine and James Watt, I think, had to mortgage the land to borrow to
+      get money to invest in his innovations. So these three forms, land rent, monopoly
+      rent, and interest, which is a form of monopoly rent, had to be freed. And that
+      was really the task of classical economics in the 19th century was to create that
+      streamlined market free of all the costs that were not really costs of production,
+      but were costs of the privileges inherited from the medieval period. Well, things
+      were very different in the rest of the world. England took 30 years to get rid
+      of the Corn Laws, which it did in 1846, and that committed Britain to free trade
+      with other countries. And the British strategists and diplomats went to other
+      countries and said, we’ll give you access to the British market. You can buy your
+      manufactures from Britain much cheaper than you can make them yourself. We’ll
+      buy raw materials from you, your food, your minerals, others, and it’ll be a happy
+      exchange. Well, they convinced America, at least the southern states of America,
+      not the northern states, and they convinced most of the world to agree to this
+      specialization of production between the industrial capitalist countries on the
+      one hand and the raw materials producers, host economies on the other. Well, what
+      happened was that the industrial countries ran trade surpluses, went far ahead.
+      They bought low-priced raw materials, they worked them up into manufactures, and
+      they sold them at a profit. And together, the European countries and later the
+      United States had a monopoly in industrial products. Well, the problem is that
+      the rest of the world producing raw materials ran trade deficits. And to make
+      matters even worse, beginning in the 1820s, the newly independent former colonies
+      from Haiti in the Caribbean, Mexico, Brazil, and then the Ottoman colonies, Greece,
+      Egypt, and Tunisia, all won their independence, but they had to borrow money from
+      creditors in order to remake the economy and to begin to develop their own industry
+      and their self-sufficiency. Well, almost immediately, every country that borrowed
+      defaulted. And by the end of the 19th century, the debts had grown and the defaults
+      had mounted up so that the creditor countries were able to appoint central banks
+      or national monetary commissions to manage the fiscal policy of these countries
+      that had won their development. And of course, in the colonies, you had Britain
+      and Germany and France, the colonizing powers running things. And the industrial
+      countries used their trade surpluses to invest in the raw materials producers.
+      They invested in railroads and communications. They bought out public infrastructure
+      monopolies. They especially bought land and plantations and natural resource rights,
+      forests, minerals for themselves. And the result is that all of these rent-yielding
+      resources that the classical economists said should be the natural tax base were
+      not the tax base. They were the equivalent of feudalism as a burden to the raw
+      materials exporters. And in the sense that here you had the governments and the
+      domestic economy having to pay heavy rent or land rent, natural resource rent,
+      which is a kind of land rent, monopoly rent, and financial debt service, all to
+      the creditor countries. So the fight that had been against feudalism in Britain
+      and France and Germany for the rest of the world, for the global majority, was
+      a fight against foreign rentier interests, not only their own rentier interests.
+      And this created a kind of dual economy, as it came to be called. And by the 1950s,
+      for instance, Latin America, Africa, much of Asia were called developing countries,
+      but they were not developing in the way that the European industrial nations developed.
+      They were not developing free of economic rent, but as a subject to economic rent.​
+      Their governments did not have enough domestic tax returns to be able to make
+      the public infrastructure spending and subsidy of industry that was absolutely
+      critical to Britain, France, and Germany and the United States that had a mixed
+      economy. Because in these industrial countries, industrial capitalism was evolving
+      into industrial socialism. It was a mixed economy in all of these countries because
+      the industrial class said, well, apart from feeding our wage earners at lower
+      priced food that we import, we’re going to minimize their cost of living by providing
+      basic needs, basic services, education, health care, transportation, natural monopolies
+      at minimum cost prices or at subsidized prices or even freely for education so
+      that we’re going to make our European economies and later the U.S. economy the
+      lowest cost economies in the world so that we can out-compete any potential competition
+      from North America, South America, the global south basically. And that was a
+      situation that existed right through World War II. Well, during World War II,
+      many of these raw materials exporters actually had accumulated large amounts of
+      their own foreign reserves by selling minerals and oil and other inputs to the
+      fighters in World War II. And they emerged in 1945 in a very strong position.
+      Well, at that point, the United States imposed its IMF rules and the World Bank
+      rules. And these claimed to have a doctrine of economic development that would
+      help these countries develop. It actually prevented them from developing. And
+      so instead of being developing countries, they were warped into dependency countries,
+      not developing countries, but host economies in the sense of host to, you could
+      even call it a parasite. And the World Bank, for instance, would make loans to
+      global south countries, not for their own food production, to make themselves
+      supply their own food so they didn’t have to import it, but only to export plantation
+      crops and to pick up all of the infrastructure costs, the port costs, and the
+      transportation to export their raw materials. They fought against land reform
+      and any attempt to produce food that would have rivaled the market and displaced
+      American farmers and farm exports. And the same thing happened after the common
+      market was formed with its Common Agricultural Policy, which also had very heavy
+      government supports, price supports, suspension of free trade in order to support
+      a farm investment that vastly increased European farm productivity, just as President
+      Roosevelt’s Agricultural Adjustment Act in the United States in the 1930s increased
+      American agricultural productivity by being very protectionist. Nothing like this
+      occurred in countries that were clients of the World Bank. Well, pretty soon these
+      countries lapsed back into the condition that they’d been in since the 19th century.
+      They ran trade deficits. They had to borrow money. That meant they ran into debt.
+      And at that point, the International Monetary Fund came in, and it said the only
+      way you can get rich is by impoverishing yourself. This is a theory that David
+      Ricardo had developed, the spokesman of bankers for the Bullion Committee in 1809-1810
+      in Britain. They said, well, why don’t you get rich in the way that Britain and
+      Europe got rich, lower the wage cost. But they didn’t lower the wage cost by lowering
+      the cost of living. They lowered it by preventing labor unions by just lowering
+      wages and not providing any of the social support for wages that Europe had, and
+      basically imposing austerity programs that had one purpose: to prevent governments
+      from having the money to invest in subsidizing their industry and agriculture
+      to be independent of the European countries. So basically, these were anti-development
+      corporations, institutions. The World Bank published a report under McNamara,
+      Partners in Development , but it was really Partners in Dependency, Partners in
+      Underdevelopment, because it was all based on the diametric opposite principles
+      of classical economics and the way that the European countries had developed by
+      raising living standards. The World Bank and the IMF aimed at lowering living
+      standards, claiming that this would make them more competitive. But this ignored
+      the fact that the American economists pointed out that high-wage labor was so
+      much more productive than low-wage pauper labor that it paid for itself. So you
+      had Western European and North American labor, high productivity, supported by
+      heavy government subsidies and provision of basic needs, and unproductive labor
+      that did not have any government or social support in the global south countries.
+      And that’s the problem that has led to today’s problem, the crisis, which has
+      now, this year coming to a head. And it’s come to a head for two reasons. The
+      most obvious reason is the tariff policy that’s imposed by Donald Trump prevents
+      other countries, especially the global south countries, from earning the money,
+      the dollars, to pay their debts by exporting to the United States market. Now,
+      if their debts are denominated in dollars, and the only way they can earn dollars
+      is by exporting to the U.S. or Europe, and they’re blocked from doing this, how
+      can they pay? The only way for the last 50 years they’ve been able to pay is by
+      being forced to sell off and privatize even more of their natural resources, their
+      mineral rights, sew off their monopolies, essentially Thatcherize their economy.
+      And Thatcherizing their economy has been just as devastating to the global south
+      countries as it was to Britain. That’s the crisis. The second crisis is the fact
+      that for the first time, the global south countries and Asia and the BRICS countries
+      as a whole have an alternative to avoid the dependency trap that they’ve been
+      caught in since 1945. And that’s largely because of China. Ever since the Bandung
+      Conference in 1955 in Indonesia, countries, the non-aligned countries, got together
+      and said, we’ve got to have an alternative to the U.S. and European-designed economic
+      order that is not in our interest. But they couldn’t go it alone. They were just
+      individuals, and the United States and Britain and Europe were able to divide
+      and conquer them to regime change, to basically overthrow governments that were
+      not U.S. friendly. And the result was this dual economy structure that you would
+      have. Well, they’re stuck with Thatcherized economies with not being able to have
+      the fiscal resources that Europe developed with. They don’t have sovereignty to
+      impose their own rent tax on land, natural resources, and to create their own
+      monetary systems that would finance their own industry. China did that, but it
+      took a revolution in 1945 under Mao, just as in Russia, it took a revolution that
+      got rid of the landlord class and the financial class. And the question is: how
+      are the BRICS countries going to emulate the Chinese industrial capitalist model
+      or the industrial socialist model with Chinese characteristics? The Chinese characteristics
+      being those of Adam Smith, John Stuart Mill, Marx, the whole classical economic
+      school that developed the whole idea of freeing industrial economies from economic
+      rent, from special privilege, and making them efficient industrial economies.
+      That’s the crisis. And the fact that these countries are now able to have an alternative
+      model is what the Americans claim is a clash in civilization. And it’s really
+      not a clash of civilization. It’s a fight against the attempt by the global south
+      and BRICS and global majority to follow the same path of civilization that industrial
+      capitalism began to develop in the 19th century and that the classical economic
+      ideology was all about. GLENN DIESEN : If we relate this back to the statement
+      by Marco Rubio that the post-war global order is now used against us, is this
+      then a reference to the rentier system, the idea that the currency, technologies,
+      banking system, all these finances, all these things offered by the United States,
+      which it extracts rent from, in other words, money without contributing to the
+      productive process, is this eliminating America in this role? Is this what Rubio
+      is referring to when he says that the system is being used against us? Or is it
+      just the general trade rules? How can we interpret the statement of Rubio? MICHAEL
+      HUDSON: Well, it’s not the system that’s changed. It’s the United States and the
+      European economies that have changed. What began as industrial capitalism under
+      the classical economics of freeing economies from rent didn’t really win the fight
+      by the 20th century. The rentier interests fought back, and you had a replacement
+      of classical value, price, and rent theory with an idea that, well: price equals
+      value. There’s no such thing as economic rent. Everybody earns whatever they can
+      get, whether it’s landlords earn all the rent they can take, the banks earn whatever
+      they charge, including late fees. All of these are counted in GDP today. If you
+      look at the GDP of America and Europe, you have most of it being rentier charges,
+      monopoly rents, but especially interest charges, financial charges, real estate,
+      land rent. Banks have lent more and more credit relative to the price of the buyers
+      on mortgage, more and more of the housing costs in America and Europe are paid
+      to the banks. So there’s still economic rent in the U.S. and the European economies,
+      but the recipients are no longer the feudal landlord class. They’re the banking
+      class. And you’ve had the bank class become the main rentier, not the landlords
+      and not the monopolists, but the banking class has been the mother of monopoly,
+      the mother of trusts, organizing them, and then lending buyers and organizers
+      of trusts and corporate takeovers the money to create monopolies and pay out the
+      monopoly rents as interest. So, what began as industrial capitalism that made
+      the United States and the European economies so wealthy and so productive has
+      ended up being parasitized by turning into finance capitalism. That’s the central
+      thesis of almost all of the books and all of the articles that I’ve read. And
+      so, it’s the United States that has lost its industrial power by deciding we’re
+      going to deindustrialize. We’re going to essentially put the class where we’re
+      back in business under President Clinton in the 1990s by, let’s shift our industrial
+      production out of the United States to the foreign affiliates of multinational
+      corporations. Let’s let foreign labor do the work, and then that will prevent
+      American labor from unionizing and raising its wages because we’re replacing it
+      with immigrant labor or with Mexican and Canadian labor at first, and then with
+      Chinese and other foreign labor. So, the United States took a decision to literally
+      deindustrialize. And this deindustrialization has become financialization as well.
+      So, you’ve replaced an industrial economy with a bank-centered, Wall Street-centered
+      financial economy whose central planning has shifted from governments to the financial
+      centers in New York, London, Paris, Frankfurt, Tokyo. And the economic development
+      of the 15% global garden and its allies basically have stopped developing and
+      have sort of lapsed into the same kind of rentier economy that the whole fight
+      to create industrial power in the 19th century was fought against. Well, that’s
+      led the United States all of a sudden to find: well, we can’t afford to create
+      our own industrial self-sufficiency anymore. So, how are we going to compete?
+      Well, President Trump says there are two ways we can compete: We can either force
+      other countries to pay us tribute by creating an empire, or we can make monopoly
+      rent and financial rent. We can make monopoly rent by monopolizing the new technology
+      and information technology, computer chip technology, and especially military
+      technology. We’ll tell Europe: increase your military spending from 1.5% of GDP
+      to 5%, but you have to buy all your military goods from the United States . And
+      that will provide, that will help us balance our international trade and finance
+      our budget deficit at the same time. And you also have to remain in the dollar
+      system so that whatever surplus that foreign countries are able to save out of
+      their trade surplus or investment surplus or domestic earnings, all their monetary
+      savings have to be invested in U.S. Treasury securities or other U.S. securities
+      in the dollar area. And so the wealth and accumulation of all the world is to
+      be sent to the United States. And Trump says he’s going to impose 100%, maybe
+      500% tariffs on countries that try to use their income and their trade surpluses
+      and their tax surpluses to develop their own economy rather than subsidize the
+      United States economy. So this is a war of the United States, not only against
+      the global majority, but especially against its own allies in Europe and also
+      in Japan and South Korea. As you’ve just seen, America’s moves against Japan to
+      end its ability to sell its automobiles in the United States. Same thing with
+      Korea, the inability to sell their industrial products here. It’s a declaration
+      of economic war against these other countries. And the U.S. diplomacy has sort
+      of fixed the outcome by its political interference and regime change pressure
+      and the non-government organizations that have provided a huge source of funding
+      to promote individual opportunists as politicians or industrial leaders who are
+      favorable to the United States and owe their loyalty really to the United States
+      or United States companies like I suppose you’d say Merz in Germany. So you have
+      European political leaders supporting policies that add to the United States domination
+      of Europe. Well, the voters of these European countries do not support this. The
+      voters of Germany, France, and other countries are voting against spending their
+      money on the war in Ukraine, against fighting against Russia. They want to be
+      able to buy in the cheapest market, just like England wanted to buy in the cheapest
+      market back in 1815. But they’re blocked. Instead of buying inexpensive Russian
+      oil and gas, they’re supposed to buy American liquefied natural gas at four or
+      five times the price as you and I have spoken about before. So Europe has been
+      turned into a dependency, and the United States is trying to achieve that same
+      hegemony globally over the BRICS and global south countries. Well, the problem
+      is that the BRICS and global south countries themselves not only have governments
+      that are very largely supported by the United States, for instance, the African
+      representatives to the International Monetary Fund and the World Bank are thoroughly
+      neoliberal. So their managerial class has been educated in the United States or
+      Britain in neoliberal Thatcherite or similar U.S. laws. They’re not even familiar
+      with the policy debates that underlay the emergence of industrial capitalism that
+      made Europe so successful originally. So they don’t have a model. The only model
+      that they have is that of China, which independently has reinvented the wheel,
+      the same wheel that Adam Smith and John Stuart Mill and the British economists
+      and their other classical economists developed of a mixed economy where the government
+      is in control of its own money creation and the allocation of money. So you will
+      have, for instance, China doing what any country that’s trying to develop and
+      being competitive should do. You create money and credit to finance tangible capital
+      formation. Not only private capital formation and innovation, but basic infrastructure
+      like high-speed railways, port development, or the Belt and Road Initiative that
+      China is trying to make in order to create a structure of international trade
+      and investment that will make Asia independent of the United States. And Russia’s
+      President Putin had said, this is really what the fight is all about. The fight
+      is to make other countries sovereign nations in charge of their own fiscal policy
+      and investment policy and government policy. But they can’t be independent unless
+      they tax away the resource rent from their now foreign-owned companies produced
+      by oil, raw materials production, mineral production, forests. Essentially, nationalize
+      the monopolies and make them public monopolies, not foreign-owned rentier monopolies.
+      They have to de-rentiize their economy. That’s their policy. Well, they don’t
+      really have to nationalize these foreign-owned oil and mineral companies. They
+      simply have to tax the economic rent. And as sovereign countries, they should
+      be able to tax the economic rent. But this is treated as a civilizational conflict,
+      as an attack on Western civilization and democracy itself, where actually it’s
+      an expression of democracy, an expression of their own domestic national sovereignty.
+      So this is the fight they have. But their own ruling class, their own political
+      class, and the wealthiest class that they have are themselves rentiers and are
+      part of the rentier economy. A huge amount of Argentina’s and Brazil’s foreign
+      debt is owned by Argentinians and Brazilians because they know that they’re the
+      upper classes and they know that the government is going to pay the dollar debt
+      to themselves and not default on it. So you have a class conflict within the BRICS
+      countries themselves, very similar, but with key differences to the class conflict
+      between labor and capital in the West. That’s a complicating factor in all this.
+      And the question is: how are you going to get the BRICS countries and other countries
+      to pursue the same kind of economic reform that China has done so efficiently
+      without having an actual revolution because the United States has said, if you
+      try to make a reform, we’re going to do to you what we did to Venezuela, what
+      we did to Iran, what we did to Libya, what we did to Chile. We’re going to overthrow
+      you. We don’t want to reform. We’re trying to keep Western power in control. And
+      President Putin gave another speech just a week ago saying, you know, all along,
+      we thought since the 1990s that the anti-Russian feeling that Europe and the United
+      States had really was ideological. That it was a fight between capitalism and
+      Soviet ideology. And it turns out that certainly that was an element, but they
+      really were just anti-Russian. They wanted to conquer us. They wanted to break
+      us up into five different countries or six countries and divide and conquer us
+      and make us their colonies. That it really is all about an attempt by the United
+      States and Europe to control the world, just as under industrial capitalism they
+      tried to control the world by industrial power and productivity and controlling
+      the rentier surpluses, financial surpluses, rent surpluses of raw materials exporters,
+      that it turns out to be just a raw power grab. And that’s what it’s turned into
+      today. GLENN DIESEN : So you have then the split between the more financialized
+      economies of the West versus the more aspiring, at least industrial capitalist
+      economies of BRICS. So I guess what frustrates me with Europe a lot is the reluctance
+      to accept that they’ve gone from being the subject to the object, the reluctance
+      to see that the Europeans are the one now being cannibalized by their American
+      partners because I think the political leadership sees the future of Europe, its
+      greatness or relevance, to be tied up with this transatlantic partnership, while
+      at the same time there is some recognition that they’re being cannibalized by
+      the Americans. So you end up with politicians such as Macron of France who pivots
+      back and forth between, you know, we can’t allow ourselves to be vassals of America
+      , and the next day it’s, we have to have solidarity with the US in order to preserve
+      the West. So it’s very, they want to be in the political West, but they’re very
+      uncomfortable or reject the acknowledgement that they have now become an object
+      effectively. But what can BRICS do now, though, in terms of providing an alternative?
+      Because the monopolistic system you present as the option of the United States,
+      it doesn’t seem like a very stable or even sustainable option. It seems very extractive,
+      disruptive, chaotic, and doomed for failure down the road. So what, in your opinion,
+      should BRICS be striving for then? MICHAEL HUDSON: Well, let me talk about Europe
+      first. People like Macron and his counterparts in England, Starmer, and Germany,
+      Merz, they’re demagogues. They see on the one hand that the population of Europe
+      wants prosperity. They don’t want the budget to be limited in money creation and
+      running a deficit. They want the government to run deficits to spend on social
+      spending, especially to support living standards or at least to prevent the disaster
+      of living standards that have been caused by breaking energy trade with Russia.
+      So, what the voters want is one thing, but the leaders are not responsive to the
+      voters. They’re just like Donald Trump here. They are serving their basically
+      American sponsors. And the problem is, I guess, for Europe, the whole way in which
+      the European Union is structured to guarantee failure. The European Union is run
+      by NATO. Its foreign policy heads are military hawks whose only interest is basically
+      willing to impoverish the European economies in order to fight Russia and try
+      to train it in this mythical hope that somehow, if they drain Russia enough, Russia
+      will be unable to fight the war in Ukraine, against Europe and America any longer.
+      And there will be a regime change. The Europeans and Americans can come up in
+      and carve up Russia as they began to do under Yeltsin in the 1990s. European voters
+      do not have a role to play in European politics under a condition where Europe
+      is part of NATO and where its countries are prevented from doing what any sovereign
+      country should do, creating its own money to fund its own spending, to subsidize
+      its industry and rising living standards. The European Union’s monetary policy
+      was created to prevent running a budget deficit in a Keynesian type economic stimulus.
+      So as long as European policy is run from a basement office in the Pentagon saying,
+      well, you have to bankrupt your industry by not importing Russian energy anymore.
+      You can move your industrial companies to America, maybe bring your skilled labor
+      here too, but you’re going to have to sacrifice in order to defend democracy,
+      democracy like Zelensky has imposed in Ukraine, the American model of democracy.
+      I mean, this is a travesty. And this blocks Europe from saying, well, we really,
+      we’re not going to be part of an island off the coast of Rhode Island. We’re going
+      to be part of Asia. That’s our natural trade partner. You know, the whole German
+      prosperity came from an integration of trade and investment with Russia. They’ll
+      have to go back to unifying with the rest of Asia and being just another country
+      of equals. But they say, we don’t want to be equals. We want to dominate. If we
+      can’t control another economy that we trade with, we feel insecure. We feel threatened.
+      And if America cannot control these economies, we feel the threat because we’re
+      dependent on the United States. Europe will have to realize that its economic
+      enemy is not Russia and China, but rather that China and the rest of Asia are
+      the most rapidly growing economies in the world. So who is Europe to look to for
+      its long-term trade and investment development with a shrinking economy in the
+      United States or a growing economy in East Asia? Europe’s unanimous leaders say,
+      we’re with the shrinking economy. We’re going to lower our living standards just
+      as rapidly as American living standards are being lowered and we’re going to impose
+      austerity because that’s where our loyalty lies. What can the voters of Europe
+      do against that given the way in which the European Union’s politics are organized?
+      Well, the same problem occurs in the BRICS countries. I’m sure the BRICS voters
+      would love to say, why can’t our country in Africa or South Asia or Latin America
+      follow the same policy of China? Why can’t we throw off what for us is the equivalent
+      of European feudalism? We have to say that this whole two centuries of warped
+      development, making us subsidiary dependencies of the industrial creditor nations,
+      has not worked out. Our sovereignty is to go to work with each other. We have
+      to make a clean slate. The debts cannot be paid unless we forego all of our investment
+      in growth. Who are we going to put first? Are we going to put the foreign bondholders
+      first as a claim on our tax revenues? Or are we going to put our own economic
+      growth first and our own domestic investment in achieving economic self-sufficiency
+      and rising living standards first? Well, unanimously, the BRICS countries say,
+      forget living standards, we’re going to follow the IMF, we’re going to impose
+      austerity because we in the ruling class, the client oligarchy, are doing very
+      well ourselves. We’re really an extension of the U.S. finance capitalist economy
+      . So this is the ruling class of Argentina, much of Brazil under Bolsonaro. That’s
+      what the whole fight in Brazil is all about. This is the whole problem. You not
+      only need a revolution by the BRICS countries and global majority countries to,
+      in terms of their philosophy of economics development, to adopt classical economics
+      and its freeing economies from rent, you need a political revolution against its
+      own client oligarchies that have been put in place by this dependency system that’s
+      been imposed over the last two centuries, often by force and violence. GLENN DIESEN
+      : Well, I fear that it’s almost a law of nature that we can say the political
+      elite is no longer delivering on the desires of its public. But if they don’t,
+      there will always be this political upheaval. I think so far the political class
+      has simply dismissed all reactions to its failure to pursue basic national interests
+      as being populists and populists are illegitimate and should be countered almost
+      in any possible way. Now this only works for so long though because if they do
+      not respond to national interest there will be some massive political instability
+      or upheaval coming. But the response to national interest depends on how the distribution
+      of power is organized, and in a multi-polar system that is now the actual reality,
+      the distribution of power is not being concentrated in the United States anymore.
+      The policies have to reflect this in some way it seems. But as you say, the political
+      leads in Europe are only pursuing, or, essentially doing America’s bidding while
+      its national interests are ignored. I’m wondering how long this can actually go
+      on and if there will be some pursuit of, if not joining BRICS, some similar alternative
+      at least. Because I think the Europeans… well the Americans, they at least, think
+      what you will about Trump and his terrible solutions to this, are trying to pursue
+      a new system. At least he recognizes that the post-World War II era is over. I
+      think the Europeans are still in denial. If they can only do enough self-sacrifice,
+      enough war, enough bootlicking of Trump, then somehow they can bring back or restore
+      this era. I think this is what the Americans, the Chinese, and the Russians all
+      have in common. I think they realize that this era is over and now, of course,
+      split interest. Do you have any final thoughts on this, I would say, very important
+      topic of the end of an era? The economic system of the past 80 years is coming
+      to an end and there’s no real consensus.  And even among the different alternatives,
+      there doesn’t seem to be the conceptual clarity you want. I would like to see,
+      for example, BRICS to have a sustainable alternative. And even less so with the
+      Trump administration. MICHAEL HUDSON: Well, what you’ve described, Glenn, is the
+      materialist approach to history. And that history believes that countries are
+      going to do what ultimately is in their natural interest. There’s a kind of survival
+      of the fittest, and the fittest ultimately are going to work out. But that’s not
+      what’s happened in a lot of history. It’s not the fittest that have survived.
+      And the materialist approach to history has left out the reasons why the race
+      is not always to the swift, as the Bible puts it. And so we really don’t know
+      what’s going to happen today. For Germany, for instance, it’s not just that the
+      post-war era is over. World War II is not over. It’s still on. Merz says we want
+      to make the German army the dominant army as it just was before. The dominant
+      army, he means, it’s only one army, the Wehrmacht, the Nazi army. You’re having
+      a revival of what really is Nazism in Germany. It’s like all of a sudden we’re
+      going back to the World War II period. We’re having a dictatorship in France where,
+      despite all of the demonstrators, the yellow vests and the demonstrations throughout
+      France have not been able to get rid of Macron. You have a whole obsolescence
+      of the political constitutions and the politics that have led to Starmer in Britain
+      just following Tony Blair as part of the super Thatcherite development. None of
+      this is in the national interest of these countries. They’re not what the voters
+      want, but the political system has become dissociated from what the voters want.
+      It may be that the only catalyst for this is not going to be in Europe, but it’s
+      going to be in other countries that, especially former present allies of the United
+      States, such as Japan, South Korea, that decide: well, now that we can’t run trade
+      surpluses with the United States anymore, now that it’s doing to us in Japan what
+      it did with the Plaza at Louvre Accords in the 1980s, now maybe we’ve got to make
+      a rapprochement with China . I think as Western Europe sees other Asian countries
+      joining China one after another, and by China, its overall development plan, Belt
+      and Road and overall trading and investment area, Europe is going to see: they’re
+      pulling further and further ahead of us. They’ve left us behind. How long can
+      we agree to be left behind? And what can we do to make a change? Well, the question
+      is, can this be done without a revolution? I don’t know. Will it be a peaceful
+      revolution? How do you change a constitution that has left Europe and client oligarchies
+      in this position? It’s as much a political question as it is an economic question.
+      So while we talk in terms of economic self-determination, how do you deal with
+      the fact that there’s this political distortion of what you and I would think
+      is the natural materialist logic of history? GLENN DIESEN : Well, on those great
+      final words, we can wrap it up. But as I like that possibility at least, though,
+      because I do see some optimistic signs coming out of East Asia, both from South
+      Korea and Japan, It looks as if they’ve also come to realize that as the post-World
+      War II era or system is coming to an end, that the American role will change fundamentally
+      in terms of also cannibalizing allies. Something, by the way, also evident in
+      the rhetoric towards Taiwan. So as this is happening, if they make this shift,
+      yeah, it remains to be seen if the Europeans will still throw themselves on the
+      sword in this way. But I don’t know. I’m very disillusioned by the Europeans at
+      the moment. So I remain pessimistic, but at least that’s a source of optimism,
+      though. MICHAEL HUDSON: Yes. Yeah, optimism. Yes, there will be a revolution.
+      GLENN DIESEN : Well, Professor Hudson, thank you as always. It’s always fascinating
+      to speak with you so, thanks again. MICHAEL HUDSON: Thank you Glenn. Transcription
+      and Diarization: hudsearch Editing and Review: Harrison Betts Photo by Brian Wertheim
+      on Unsplash The post The Challenge to Dollar Hegemony and Global Debt first appeared
+      on Michael Hudson .'
+    one_sentence_summary: In a discussion between Glenn Diesen and economist Michael
+      Hudson, they explore the obsolescence of the post-war global order, suggesting
+      it no longer benefits the U.S. and may be shifting from free trade to fair trade
+      as the global economic landscape evolves.
+    paragraph_summary: In a recent discussion, economist Michael Hudson and host Glenn
+      Diesen explored the idea that the post-World War II global order, once beneficial
+      to the United States, is now deemed obsolete and counterproductive for American
+      interests, as articulated by Secretary of State Marco Rubio. They examined the
+      transition from a free-trade system, which favored U.S. hegemony, to a potential
+      fair-trade approach, as sentiments grow that the existing economic framework is
+      failing. Hudson introduced the concept of "civilizational conflict," suggesting
+      that the future organization of society and economy will be shaped by competing
+      visions, particularly as the U.S. seeks alternatives to the current order while
+      the BRICS nations emerge as a counterforce. The conversation highlights the complexities
+      of these two divergent pathways in a changing global landscape.
+    published: '2025-07-21T11:52:13+00:00'
+  - title: 'Michael Hudson: How the Global Majority can free itself from US financial
+      colonialism'
+    url: https://geopoliticaleconomy.com/2025/07/17/michael-hudson-global-majority-us-financial-colonialism/
+    text: 'Industrial capitalism was revolutionary in its fight to free Europe’s economies
+      and parliaments from the hereditary privileges and vested interests that survived
+      from feudalism. To make their manufactures competitive in world markets, industrialists
+      needed to end the land rent paid to Europe’s landed aristocracies, the economic
+      rents extracted by trade monopolies, and interest paid to bankers who played no
+      role in financing industry. These rentier incomes add to the economy’s price structure,
+      raising the living wage and other business expenses, thus eating into profits.
+
+
+      The 20th century saw the classical aim of clearing away these economic rents rolled
+      back in Europe, the United States, and other Western countries.
+
+
+      However, today, land and natural-resource rents in private hands are still rising
+      and even receiving special tax advantages. Basic infrastructure and other natural
+      monopolies are being privatized by the financial sector — which is largely responsible
+      for carving up and de-industrializing economies on behalf of its real estate and
+      monopoly customers, who pay out most of their rental income as interest to bankers
+      and bondholders.
+
+
+      What has survived from the policies by which Europe’s industrial powers and the
+      United States built up their own manufacturing is free trade. Britain implemented
+      free trade after a 30-year fight on behalf of its industry against the landed
+      aristocracy, aimed at ending the protectionist agricultural tariffs, the Corn
+      Laws, which had been enacted in 1815 to prevent opening the home market to low-priced
+      food imports, which would have reduced farming rents.
+
+
+      After repealing these laws in 1846 to lower the cost of living, Britain offered
+      free-trade agreements to countries seeking access to its market in exchange for
+      these countries not protecting their industry against British exports. The aim
+      was to deter less industrialized countries from working up their own raw materials.
+
+
+      In such countries, Europe’s foreign investors sought to buy rent-yielding natural
+      resources headed by mineral and land rights, and basic infrastructure headed by
+      railroads and canals. This created a diametric contrast between rent-avoidance
+      in the industrial nations and rent-seeking in their colonies and other host countries,
+      while European bankers used debt leverage to gain fiscal control of former colonies
+      who had won independence in the 19th and 20th centuries.
+
+
+      Under pressure to pay the foreign debts that were run up to finance their trade
+      deficits, development attempts, and deepening debt dependency, debtor countries
+      were obliged to relinquish fiscal control of their economies to bondholders, banks,
+      and creditor-nation governments, which pressed them to privatize their basic infrastructure
+      monopolies. The effect was to prevent them from using revenue from their natural
+      endowments to develop a broad economic base for prosperous development.
+
+
+      Just as Britain, France, and Germany aimed to free their economies from feudalism’s
+      legacy of the vested interests with rent extraction privileges, most of today’s
+      Global Majority countries need to free themselves from the rent and debt overhead
+      inherited from European colonialism and creditor control.
+
+
+      By the 1950s these countries were being called “less developed” or, even more
+      patronizingly, “developing.” But the combination of foreign debt and free trade
+      has blocked them from developing along the balanced public/private lines that
+      Western Europe and the United States followed.
+
+
+      The tax policy and other legislation of these countries has been shaped by U.S.
+      and European pressure to observe international trade and investment rules that
+      perpetuate geopolitical domination by Western bankers and rent-extracting investors
+      to control their national patrimony.
+
+
+      The euphemism “host economy” is appropriate for these countries, because the Western
+      economic penetration of them resembles a biological parasite feeding off its host.
+
+
+      Seeking to maintain this relationship, the U.S. and European governments are blocking
+      attempts by these countries to follow the path that Europe’s industrial nations
+      and the United States took for their own economies with their 19th-century political
+      and fiscal reforms that empowered their own takeoff.
+
+
+      Without these countries adopting fiscal and political reforms aimed at developing
+      their own sovereignty and prospects for growth on the basis of their own national
+      patrimony of land, natural resources and basic infrastructure, the world economy
+      will remain bifurcated between Western rentier nations and their Global Majority
+      hosts and held subject to neoliberal orthodoxy.
+
+
+      The success of China’s model poses a threat to the neoliberal order
+
+
+      When U.S. political leaders single out China as an existential enemy of the West,
+      it is not as a military threat but for offering a successful economic alternative
+      to today’s U.S.-sponsored neoliberal world order.
+
+
+      That order was supposed to represent the End of History, succeeding through its
+      logic of free trade, government deregulation, and international investment free
+      of capital controls, while detouring away from industrial capitalism’s anti-rentier
+      policies.
+
+
+      We can now see the absurdity in this self-satisfying evangelical view that had
+      emerged just as Western economies were deindustrializing, as a result of the dynamics
+      of their neoliberal finance capitalism.
+
+
+      The vested financial and other rentier interests are rejecting not only China
+      but the logic of industrial capitalism as described by its own 19th-century classical
+      economists.
+
+
+      Western neoliberal observers have closed their eyes to recognizing the ways in
+      which China’s “socialism with Chinese characteristics” has achieved its success
+      by a logic similar to that of the industrial capitalism advocated by classical
+      economists to minimize rentier income.
+
+
+      Most late 19th-century economic writers expected industrial capitalism to evolve
+      into socialism of one form or another, as the role of public investment and regulation
+      increased. Freeing economies and their governments from control by landowners
+      and creditors was the common denominator of the social-democratic socialism of
+      John Stuart Mill, the libertarian socialism of Henry George focusing on the land
+      tax, and the cooperative mutual-aid socialism of Peter Kropotkin, as well as Marxism.
+
+
+      Where China has gone further than earlier socialist mixed-economy reforms has
+      been in keeping money and credit creation in the hands of government, along with
+      basic infrastructure and natural resources.
+
+
+      Fear that other governments might follow China’s lead has led U.S. and other Western
+      finance-capitalist ideologues to view China as a threat by providing a model for
+      economic reforms that are precisely the opposite of what the 20th century’s pro-rentier,
+      anti-government ideology fought against.
+
+
+      The foreign debt overhead owed to U.S. and other Western creditors, and enabled
+      by the 1945-2025 international geopolitical rules designed by U.S. diplomats at
+      Bretton Woods in 1944, obliges the Global South and other countries to recover
+      their economic sovereignty by freeing themselves from their foreign (mainly dollarized)
+      banking and financial burden.
+
+
+      These countries have the same land-rent problem that Europe’s industrial capitalism
+      faced, but their land and resource rents are mainly owned by multinational companies
+      and other foreign appropriators of their oil and mineral rights, forests, and
+      latifundia plantations, who extract resource rents by emptying out the world’s
+      oil and mineral resources and cutting down its forests.
+
+
+      Taxing economic rent is a precondition for economic sovereignty
+
+
+      A precondition for Global South countries to gain economic autonomy is to follow
+      the advice of the classical economists and tax the largest sources of rental income
+      – land rent, monopoly rent, and financial returns – instead of letting them be
+      sent abroad.
+
+
+      Taxing these rents would help stabilize their balance of payments, while providing
+      their governments with revenue to finance their infrastructure needs and the related
+      social spending needed to subsidize their economic modernization.
+
+
+      That is how Britain, France, Germany and the United States established their own
+      industrial, agricultural, and financial supremacy. This is not a radical socialist
+      policy; it always has been a central element of industrial capitalist development.
+
+
+      Recapturing a country’s land and natural-resource rents as its fiscal base would
+      enable it to avoid taxing labor and industry. A country would not need to formally
+      nationalize its land and natural resources outright; it simply needs to tax the
+      economic rent over and above actual “earned profits,” to cite the principle of
+      Adam Smith and his 19th-century successors that this rent is the natural tax base.
+
+
+      But neoliberal ideology calls such taxation of rent, and the regulation of monopolies
+      or other market phenomena, an intrusive interference into the “free market.”
+
+
+      This defense of rentier income inverts the classical definition of a free market.
+      The classical economists defined a free market as one free from economic rent,
+      not as one free for the extraction of economic rent, let alone as freedom for
+      creditor-nation governments to create a “rules-based order” to facilitate foreign
+      rent extraction and stifle the development of financially and trade-dependent
+      host countries.
+
+
+      Debt remission is a precondition for economic sovereignty
+
+
+      The fight by countries to free themselves from their foreign debt overhead is
+      much harder than Europe’s 19th-century fight to end the privileges of its landed
+      aristocracy (and less successfully, of its bankers), because it is international
+      in scope, and is now confronted by a creditor-nation alliance to maintain the
+      system of financial colonization created two centuries ago, as former colonies
+      sought to finance their independence by borrowing from foreign bankers.
+
+
+      Starting in the 1820s, newly independent countries like Haiti, Mexico, and other
+      Latin America nations, as well as Greece, Tunisia, Egypt, and other former Ottoman
+      colonies, won nominal political freedom from colonialist control. But to build
+      up their own industry they had to take on foreign debt – on which they almost
+      immediately defaulted, which enabled their creditors to establish monetary authorities
+      in charge of their fiscal policy.
+
+
+      The governments of these countries were turned into collection agents for international
+      bankers by the late 19th century. Financial dependency on bankers and bondholders
+      replaced colonial dependency, obliging debtor countries to give fiscal priority
+      to foreign creditors.
+
+
+      World War II enabled many of these countries to accumulate substantial foreign
+      monetary reserves as a result of supplying raw materials to the belligerents.
+      But the post-war order designed by U.S. diplomats, based on free trade and free
+      capital movements, drained these savings, and obliged the Global South and other
+      countries to borrow to cover their trade deficits.
+
+
+      The resulting foreign debts soon came to exceed the ability of these countries
+      to pay – that is, to pay without surrendering to the destructive IMF demands for
+      austerity that blocked the investment needed to raise their productivity and living
+      standards.
+
+
+      There was no way that they could meet their own development needs to invest in
+      basic infrastructure and provide industrial and agricultural subsidies, public
+      education, health care, and other basic social spending that is characterized
+      by the leading industrial nations. This still remains the case.
+
+
+      Their choice today, therefore, is between paying their foreign debts – at the
+      cost of blocking their own development – or claiming that these debts are odious
+      and insisting that they be written off.
+
+
+      At issue is whether debtor countries will gain the sovereignty that is supposed
+      to characterize an international economy of equals, free of foreign post-colonial
+      control over their tax and trade policies, as well as their national patrimony.
+
+
+      Their self-determination can only be achieved by joining together in a collective
+      front.
+
+
+      Donald Trump’s tariff aggression has catalyzed this process by drastically reducing
+      the U.S. market for exports from debtor countries, preventing them from obtaining
+      the dollars to pay their bonds and bank debts, so these won’t be paid in any event.
+
+
+      The world is now busy de-dollarizing.
+
+
+      The need to create an alternative to the U.S.-centered post-war order was expressed
+      in 1955 at the Bandung Conference in Indonesia, and then later by the Non-Aligned
+      Movement. But these countries lacked a critical mass of self-sufficiency among
+      themselves to act together.
+
+
+      Attempts to create a New International Economic Order in the 1960s faced the same
+      problem. Countries were not industrially, agriculturally, or financially strong
+      enough to “go it alone.”
+
+
+      Today’s Western debt crisis, de-industrialization, and coercive weaponization
+      of foreign trade and financial sanctions under the dollarized international financial
+      system, capped by the “America First” tariff policy, have created an urgent need
+      for countries to collectively seek economic sovereignty, to become independent
+      from U.S. and European control of the international economy.
+
+
+      The collective BRICS+, with Russia and China taking the lead, have just begun
+      talking about making such an attempt.
+
+
+      China’s success has made a global alternative attainable
+
+
+      The great catalyst for countries to take control of their national development
+      has been China. As indicated above, its industrial socialism has largely achieved
+      the classical aim of industrial capitalism of minimizing rentier overhead, above
+      all by publicly creating money to finance tangible growth.
+
+
+      Keeping money and credit creation in government hands, via China’s state-owned
+      banks, prevents financial and other rentier interests from taking over the economy
+      and subjecting it to the financial overhead that has characterized Western economies.
+
+
+      China’s successful alternative for allocating credit avoids making purely financial
+      gains at the expense of tangible capital formation and living standards. That
+      is why it is viewed as an existential threat to the current Western banking model.
+
+
+      Western financial systems are overseen by central banks that have been made independent
+      from the Treasury and government regulatory “interference.” Their role is to provide
+      the commercial banking system’s liquidity as it creates interest-bearing debt,
+      mainly for the purpose of making wealth financially by debt leveraging (asset-price
+      inflation), not for productive capital formation.
+
+
+      Capital gains – rising prices for housing and other real estate, stocks, and bonds
+      – are much larger than GDP growth. They can be made easily and quickly by banks
+      creating more credit to bid up prices for buyers of these assets.
+
+
+      Instead of the financial system being industrialized, Western industrial corporations
+      have become financialized, and that has occurred along lines that have deindustrialized
+      the U.S. and European economies.
+
+
+      Financialized wealth can be made without being part of the production process.
+      Interest, late charges, other financial fees and capital gains are not a “product,”
+      yet are counted as such in today’s GDP statistics.
+
+
+      Carrying charges on the rising debt overhead are transfer payments to the finance
+      sector, by labor and businesses, out of wages and profits earned by actual production.
+      That shrinks the income available for spending on the products produced by labor
+      and capital, leaving economies debt-ridden and deindustrialized.
+
+
+      The strategy of creditor-rentier nations to prevent withdrawal from their global
+      control
+
+
+      The broadest strategy to block countries from avoiding the rentier burden has
+      been to wage an ideological campaign from the educational system to mass media.
+      The aim is to control the narrative in a way that depicts government as an oppressive
+      Leviathan, an inherently bureaucratic autocracy.
+
+
+      Western “democracy” is defined not so much politically as economically, as a free
+      market whose resources are allocated by a banking and financial sector independent
+      of regulatory oversight.
+
+
+      Governments strong enough to limit financial and other rentier wealth in the public
+      interest are demonized as autocracies or “planned economics” — as if shifting
+      credit and resource allocation to the financial centers of Wall Street, London,
+      Paris, and Japan does not result in an economy planned by the financial sector
+      in its own interest, with the aim of creating monetary fortunes. Its aim is not
+      to improve the overall economy and living standards.
+
+
+      Global Majority officials and administrators who have studied economics at U.S.
+      and European universities have been indoctrinated with a value-free (that is,
+      rent-free) pro-rentier ideology to frame the way they think about how economies
+      work.
+
+
+      This narrative excludes consideration of how debt polarizes economies by growing
+      exponentially at compound interest. Also excluded from mainstream economic logic
+      is the classical contrast between productive and unproductive credit and investment,
+      and the related distinction between earned income (wages and profits, the main
+      components of value) and unearned income (economic rent).
+
+
+      Beyond this ideological campaign, neoliberal diplomacy uses military force, regime
+      change, and control of the main international bureaucracies associated with the
+      United Nations, the IMF, and World Bank — and a more covert network of non-government
+      organizations (NGOs) — to prevent countries from withdrawing from today’s pro-rentier
+      fiscal rules and pro-creditor laws.
+
+
+      The United States has taken the lead in using force and regime change against
+      governments that would tax away or otherwise limit rent extraction.
+
+
+      It should be noted that few early socialists (except anarchists) advocated violence
+      in pursuit of their reforms. It has been the vested interests, unwilling to accept
+      loss of the privileges that are the basis of their fortunes, who have not hesitated
+      to use violence to defend their wealth and power against attempts at reform to
+      check their privileges.
+
+
+      To be sovereign, nations must create an alternative that enables them to be in
+      charge of their own economic, monetary, and political development. But American
+      diplomacy views any attempt to enact the necessary political and tax reforms and
+      strong government regulatory authority as posing an existential threat to U.S.
+      control over international finance and trade.
+
+
+      This raises the question of whether it is possible to achieve reforms and a strong
+      public economy without war. It is natural for countries to wonder whether they
+      can achieve economic sovereignty without a revolution, such as the Soviet Union,
+      China, and other countries that fought to end their domination by their foreign-supported
+      landlords and creditors.
+
+
+      The only way to protect economic sovereignty against military threats is to join
+      an alliance for mutual support, since individual countries can be isolated in
+      the way that Cuba, Venezuela, and Iran have been — or destroyed, like Libya.
+
+
+      As Benjamin Franklin put matters, “If we don’t hang together, we will hang separately.”
+
+
+      American writers characterize the attempt of other countries to join together
+      to achieve economic sovereignty as a civilizational war. While this is indeed
+      a civilizational contest, it is the United States and its allies that are waging
+      aggression, against countries trying to withdraw from a system that has provided
+      the United States and Europe with a huge inflow of economic rents and debt service
+      from host countries subject to U.S.-backed diplomacy.
+
+
+      How U.S.-centered financial colonialism replaced European colonial occupation
+
+
+      After World War II, the era of settler-state colonialism gave way to financial
+      colonialism, with the international economy dollarized under U.S. leadership.
+
+
+      The Bretton Woods rules established by 1945 enabled multinational corporations
+      to keep economic rents for land, natural resources and public infrastructure out
+      of domestic fiscal reach. Governments were reduced to the role of acting as collection
+      agents for foreign creditors and as protectors of foreign investors from democratic
+      attempts to tax rentier wealth.
+
+
+      The United States was able to weaponize world trade by monopolizing oil exports
+      through U.S. and allied oil companies (the Seven Sisters), while U.S. and European
+      agricultural protectionism and World Bank “aid” policy steered food-deficit countries
+      to focus on tropical plantation crops instead of grain to feed themselves.
+
+
+      President Bill Clinton’s 1994 NAFTA free-trade agreement swamped Mexico’s market
+      with low-priced U.S. farm exports (highly subsidized by strong government support).
+      Mexican grain production plummeted, leaving it food-dependent.
+
+
+      To block governments from taxing or even fining foreign investors to recover compensation
+      for damages to their countries, today’s rentier powers have created Investor-State
+      Dispute Settlement (ISDS) courts requiring governments to compensate foreign investors
+      for increasing taxes or imposing regulations that reduce foreign-owned income.
+      (I provide the details of this in Chapter 7 of my 2022 book The Destiny of Civilization.)
+
+
+      This system blocks national sovereignty, including by preventing host countries
+      from taxing the economic rent of their land and natural resources owned by foreigners.
+      The effect is to make these resources part of the investor-nation economy, not
+      their own. (The Saudi oil company Aramco, for instance, was not a corporately
+      distinct corporate affiliate but a branch of Standard Oil of New York (ESSO).
+      This legal nicety meant that its income and expenses were consolidated into the
+      parent company’s U.S. balance sheet. That enabled it to receive a tax credit for
+      the “depletion allowance” for oil, rendering the company effectively free of U.S.
+      income tax, although it was Saudi oil that was being depleted.)
+
+
+      Other nations permitted the United States to dictate the post-World War II order,
+      with it promising generous aid to support free trade, peace, and post-colonial
+      national sovereignty, as spelled out in the United Nations Charter. But the United
+      States squandered its wealth on military spending abroad and financial wealth
+      addiction at home.
+
+
+      That has left America’s post-industrial power based mainly on its ability to harm
+      other countries with chaos if they do not accept the U.S. “rules-based order”
+      designed to extract tribute from them.
+
+
+      The U.S. imposes protectionist tariffs and import quotas at will, and subsidizes
+      agriculture and key technologies as potential global high-tech monopolies, while
+      forbidding other countries from implementing such “socialist” or “autocratic”
+      policies to become more competitive. The result is a double standard in which
+      the U.S. “rules-based order” (its own rules) replaces adherence to international
+      law.
+
+
+      U.S. agricultural price support policy initiated under Franklin D. Roosevelt in
+      the 1930s provides a good example of double standards. It made farming the most
+      heavily subsidized and protected sector. It became the model for the European
+      Economic Community’s Common Agricultural Policy (CAP) introduced in 1962.
+
+
+      However, U.S. diplomacy opposes the attempts of other countries, especially Global
+      South countries, to impose their own protectionist subsidies and import quotas
+      aimed at achieving self-sufficiency in basic food production — while U.S. “aid
+      lending” and the World Bank have (as indicated above) supported the exportation
+      of tropical plantation crops by Global South countries by lending for transportation
+      and port development. U.S. policy has consistently opposed family-owned farming
+      and land reform throughout Latin America and other Global South countries, often
+      with violence.
+
+
+      Moves toward a multipolar world order
+
+
+      It is not surprising that, inasmuch as Russia has long been the United States’
+      main military adversary, it has taken the lead in protesting against the unipolar
+      U.S. order.
+
+
+      Advocating a multipolar alternative to the U.S. neoliberal order in June 2025,
+      Russian Foreign Minister Sergey Lavrov described the post-colonial economic subjugation
+      of the countries that achieved political independence from colonialist rule in
+      the 19th and 20th centuries but which are now facing the next task needed to complete
+      their liberation:
+
+
+      Our African friends are paying more and more attention to the fact that their
+      entire economies are still largely based on siphoning off natural resources from
+      these countries. In fact, all value added is produced and pocketed by the former
+      Western metropoles and other European Union and NATO members. … The West is using
+      illegal unilateral sanctions, which increasingly become the harbinger of a military
+      attack, as this has happened in Yugoslavia, Iraq and Libya and is now happening
+      in Iran, as well as the instruments of unfair competition, initiating tariff wars,
+      seizing other countries’ sovereign assets and taking advantage of the role of
+      their currencies and payment systems. The West itself has actually buried the
+      globalization model, which it developed after the Cold War to promote its interests.
+
+
+      Marco Rubio made the same point in the U.S. Senate hearings to confirm him as
+      Donald Trump’s Secretary of State, explaining that the “postwar global order is
+      not just obsolete; it is now a weapon being used against us.”
+
+
+      Violating the rules of foreign trade and investment that the United States itself
+      dictated in 1945, and yet another instance of Washington resorting to the “rules-based
+      order” of its own rules, President Trump’s unilateral tariffs aimed both at shifting
+      the New Cold War’s military costs onto other countries, which are expected to
+      buy American arms and provide proxy armies, and at reviving the U.S.’s lost industrial
+      power by forcing countries to relocate industries to the United States and to
+      permit U.S. companies to extract monopoly rents by controlling the leading emerging
+      technologies.
+
+
+      The United States aims to impose monopoly rights and related rentier privileges
+      uniquely favorable to itself on the entire world’s trade and investment. Trump’s
+      “America First” diplomacy demands that other countries conduct their trade, payments
+      and debt relationships in U.S. dollars, instead of their own currencies.
+
+
+      The U.S. “rule of law” is one that permits unilateral U.S. demands to impose trade
+      and financial sanctions dictating how and with whom foreign countries can trade
+      and invest. They are threatened with economic chaos and confiscation of their
+      dollar reserves if they do not boycott trade and investment relations with Russia,
+      China, and other countries refusing to submit to U.S. control.
+
+
+      The United States’ leverage to obtain these foreign concessions is no longer industrial
+      leadership and financial strength, but its ability to cause chaos for other countries.
+      Claiming to be the indispensable nation, the U.S.’s ability to disrupt trade is
+      ending its former international monetary and diplomatic power.
+
+
+      That power originally was based on U.S. holdings of the world’s largest monetary
+      gold reserves in 1945, its status as the largest creditor nation and industrial
+      economy, and, after 1971, its dollar hegemony, arising in large part as a result
+      of its financial market being the safest for other nations to hold their official
+      monetary reserves.
+
+
+      The diplomatic inertia created by these former advantages no longer reflects the
+      realities of 2025. What U.S. officials do have is the ability to disrupt the world’s
+      trade, supply chains, and financial arrangements, including the SWIFT system for
+      international payments.
+
+
+      The U.S. and European confiscation of $300 billion of Russia’s monetary deposits
+      has darkened America’s reputation for financial safety, while its chronic trade
+      and balance-of-payments deficits threaten to disrupt the international monetary
+      system and free trade that made it the major beneficiary of the 1945-2025 world
+      order.
+
+
+      In keeping with the principle of national sovereignty and non-interference in
+      other countries’ internal affairs that underlay the creation of the United Nations
+      (the basic principle of international law grounded in the 1648 Peace of Westphalia),
+      Russia’s Foreign Minister Lavrov described (in his speech cited above) the need
+      “to establish foreign trade mechanisms [that] the West will be unable to control,
+      such as transport corridors, alternative payment systems and supply chains.”
+
+
+      As an example of how the United States had paralyzed the World Trade Organization,
+      which it had created on the basis of free trade at a time when America was the
+      world’s leading export power, he explained:
+
+
+      When the Americans realized that the globalized system they had created – one
+      built on fair competition, inviolable property rights, the presumption of innocence,
+      and similar principles, and which had allowed them to dominate for decades – had
+      also begun benefiting their rivals, primarily China, they took drastic action.
+      As China started outplaying them on their own turf and by their own rules, Washington
+      simply blocked the WTO’s Appellate Body. By artificially stripping it of a quorum,
+      they rendered this key dispute settlement mechanism inactive – and it remains
+      so to this day.
+
+
+      The United States has been able to block foreign opposition to its nationalist
+      policies by having veto power in the United Nations, IMF, and World Bank. Even
+      without such power, U.S. diplomats have been able to block United Nations organizations
+      from acting independently of U.S. wishes by refusing to appoint leaders or judges
+      not primarily loyal to U.S. foreign policy.
+
+
+      The International Atomic Energy Agency (IAEA), charged with keeping nuclear proliferation
+      in check is the most recent notorious case in point. Iran published documents
+      showing that the agency’s leader Rafael Grossi provided U.S. and Israeli intelligence
+      with the names of Iranian scientists who were killed, and details of the Iranian
+      nuclear refinement sites that were bombed.
+
+
+      The U.S. veto has prevented the UN Security Council from condemning Israeli attacks
+      on the Palestinian population. And when the International Criminal Court (ICC)
+      brought charges against Israeli Prime Minister Benjamin Netanyahu for committing
+      war crimes and crimes against humanity in a genocide against the Palestinians,
+      U.S. officials imposed sanctions on the ICC and demanded the removal of the prosecutor.
+
+
+      The world no longer is to be governed by international law, but by unilateral
+      U.S. rules, subject to abrupt change depending on the vicissitudes of American
+      economic or military power (or loss thereof).
+
+
+      As Russia’s President Vladimir Putin described this new state of affairs in 2022,
+      “Western countries have been saying for centuries that they bring freedom and
+      democracy to other nations,” yet the “unipolar world is inherently anti-democratic
+      and unfree; it is false and hypocritical through and through.”
+
+
+      The United States’ self-image depicts its long dominant world position as reflecting
+      its democracy, free market, and equality of opportunity that has enabled its power
+      elite, in their view, to acquire their status by being the economy’s most productive
+      members, through their management and allocation of savings and credit.
+
+
+      The reality is that the United States has become a rentier oligarchy, one that
+      is increasingly hereditary. Its members’ fortunes are made mainly by acquiring
+      rent-yielding assets (land, natural resources, and monopolies) on which they make
+      capital gains, while paying most of their rent as interest to their bankers, who
+      end up with much of these rents and have become the new oligarchy’s leading managerial
+      class.
+
+
+      Summary
+
+
+      The real conflict over what kind of economic and political system the Global Majority
+      will have is just gaining momentum.
+
+
+      Global South countries and others have been driven so deeply into debt that they
+      have been obliged to sell off their public infrastructure to pay its carrying
+      charges. Recovering control of their natural resources and basic infrastructure
+      requires the fiscal right to impose an economic-rent tax on their land, natural
+      resources and monopolies, as well as the legal right to recover environmental
+      cleanup costs caused by foreign oil and mining firms, and to implement financial
+      cleanup costs (i.e., write offs and cancellation) of the foreign debt burden imposed
+      by creditors who have not taken responsibility to ensure that their loans can
+      be paid under existing conditions.
+
+
+      U.S. evangelistic rhetoric describes the imminent political and economic fracture
+      of the world economy as a “Clash of Civilizations” between democracies (i.e.,
+      countries that support U.S. policy) and autocracies (i.e., nations acting independently).
+
+
+      It would be more accurate to describe this fracture as a fight by the United States
+      and its European and other Western allies against civilization — assuming civilization
+      entails, as it seems it must, the sovereign right of countries to enact their
+      own laws and tax systems for the benefit of their own populations within an international
+      system that has a common set of basic rules and values.
+
+
+      What Western ideologues call democracy and free markets has turned out to be an
+      aggressive rentier-financial imperialism. And what they call autocracy is a government
+      strong enough to prevent economic polarization between a super-rich rentier class
+      and an impoverished population at large, such as is occurring within the Western
+      oligarchies themselves.'
+    one_sentence_summary: The article argues that while industrial capitalism initially
+      aimed to dismantle feudal economic rents in Europe, contemporary Global Majority
+      countries continue to struggle against foreign debt and rent extraction by Western
+      powers, necessitating reforms to reclaim their economic sovereignty through taxing
+      land and resource rents, akin to the historical paths taken by industrialized
+      nations.
+    paragraph_summary: The article discusses the historical and ongoing struggle of
+      nations, particularly in the Global South, to free their economies from the legacy
+      of colonialism and the rentier system that benefits Western financial interests.
+      It highlights how industrial capitalism in Europe sought to eliminate economic
+      rents from feudalism to foster competitive manufacturing, but this aim has been
+      undermined in the modern era by rising land and resource rents in private hands,
+      coupled with the privatization of infrastructure. The article argues that the
+      neoliberal economic order perpetuates dependency through foreign debt and free
+      trade agreements that favor creditor nations, preventing developing countries
+      from achieving economic sovereignty. It posits that successful models like China's
+      state-controlled economy challenge this order by minimizing rentier overhead,
+      and advocates for taxing economic rents as a means for these nations to stabilize
+      their economies and reclaim fiscal autonomy. Ultimately, it calls for collective
+      action among Global South countries to overcome the financial colonialism that
+      has replaced traditional colonialism, emphasizing the need for solidarity to achieve
+      self-determination and economic independence.
+    published: '2025-07-17T16:45:11+00:00'
+  - title: BRICS vs. the Rentier Economy
+    url: https://michael-hudson.com/2025/07/brics-vs-the-rentier-economy/
+    text: '07.10.2025 NIMA ALKHORSHID: Hi everybody. Today is Thursday, July 10, 2025,
+      and our friends Richard Wolff and Michael Hudson are back with us. Welcome back.
+      RICHARD WOLFF: Glad to be here. NIMA ALKHORSHID: Let me start, Michael, with what’s
+      going on with BRICS here in Rio de Janeiro. They’ve started the summit and they
+      were talking about many things, but one of the main issues is the tariffs and
+      the way that the United States is dealing with the rest of the world. You’re taking
+      that so far with the BRICS. MICHAEL HUDSON: Well, I think as far as the response
+      of the BRICS is concerned, it’s really Russia and China. Russia’s President Putin
+      and Foreign Minister Sergey Lavrov have been the most explicit in spelling out
+      exactly what the BRICS need and the obvious reason for it, namely that Russia
+      and China are the main object of U.S. attack, which includes an attack on BRICS.
+      I think that the breakaway from US control is made urgent right now by the actions
+      of Trump’s administration. But the rest of the BRICS are more reactive than proactive.
+      They’re complaining, but they haven’t really put in specific policies by which
+      to free themselves. They realize something which Trump realizes (while economists
+      and the public shy from acknowledging it): that the post-war American era is over.
+      But there’s still very little discussion of creating a real alternative. The BRICS
+      closing report emphasized that they want higher quotas for the International Monetary
+      Fund and the World Bank, but that doesn’t provide an alternative to the U.S. neoliberal
+      worldview. It doesn’t really talk about what kind of alternative institutions
+      they need to avoid the whole neoliberal development trap that was imposed by America
+      in 1945 and has made it very rich for the past 80 years, but is not making America
+      rich anymore. Now, all of a sudden, America is changing all of the rules. And
+      the fact is, the BRICS have yet to decide their own rules. The only alternatives
+      of a leader that I see are those by the Russian leader. Let me talk about what’s
+      happening in the U.S. so I can give the context for BRICS. What’s happening in
+      America is much like what happened to the Soviet Union in the 1990s when it was
+      breaking up. There’s a grab-itization, a grab bag. The post-war elite see that
+      the game is over and they’re taking everything they can at the economy’s expense.
+      They’re carving it up, raising monopoly prices, lowering the tax on themselves,
+      cutting off government programs. The class war is really back in business. I think
+      the same thing is happening in Europe. The European military stocks are soaring
+      in price. Governments are scaling back public spending and creating a social crisis.
+      In Britain, Germany, and France, wages are going down. The same thing’s happening
+      in Japan. So America’s allies are experiencing the same kind of breakdown that
+      the United States is. The question is, what’s going to take the place of this
+      new kind of grab-itization, where the United States says: “Well, we can’t follow
+      the old rules of free trade and investment that made us rich for the last 80 years.
+      We’re going to impose tribute on you. What are you going to do about it?” The
+      question is, can the West prevent the global majority (which I think is more important
+      than the BRICS) from becoming a prosperous new center, growing without U.S. control,
+      making itself the beneficiary of its trade and investment rather than foreign
+      investors? All the United States can do to stop it right now is to act as a wrecker.
+      And within BRICS, it’s trying to use, I think, India and Brazil to weaken any
+      real break from U.S. policy. I think Trump’s imposition of the 50% tariffs on
+      Brazil yesterday was trying to bully it into submission to the United States.
+      And he said that if Brazil imposes reciprocal tariffs on the United States, he’s
+      going to raise the tariffs on Brazil to more than 50%. After I hear Richard’s
+      take, I want to discuss what I think the global majority and the BRICS really
+      need. RICHARD WOLFF: Okay. I agree, but I would come at it a little differently.
+      I’ve been struck by what the BRICS have achieved. I agree with Michael, the blueprint
+      for how to get beyond where we are now is not there yet. I don’t think they’ve
+      come up with it. I think they are not sure themselves. I think there are too many
+      disagreements and divisions among them that they haven’t worked out. [Interruption]
+      MICHAEL HUDSON: Well, the key is that the world’s splitting into two parts. U.S.
+      diplomats can see it, they see this as a civilizational split, but BRICS and the
+      global majority aren’t treating it this way. Everyone knows there’s a break from
+      the past, but BRICS are not clear-eyed about being in the same position today
+      that Britain and France and Europe were in 200 years ago when they were trying
+      to free themselves from feudalism, from the hereditary aristocracy charging land
+      rent – industrial capitalism wanted to free itself from all of this. That’s what
+      the BRICS will have to do. RICHARD WOLFF: Let me point out that we oughtn’t to
+      be in a rush. Michael is right, but it’s really only been about 16 or 17 years
+      since BRICS started. The first few were just getting it started. Now they are
+      clearly underway. They have grown in number. They have the two levels of participation,
+      the member and the partner, if I have their language correctly. And they did hit
+      that milestone a week or two ago when the total amount of trade among them crossed
+      the $1 trillion value. That’s an impressive development. We all have to thank
+      Mr. Trump, because his tariff program has been a tremendous boost on increasing
+      trade among them (since obviously when they trade amongst each other, Mr. Trump’s
+      tariffs don’t have any impact, at least not directly). So I’m pretty impressed,
+      given all of their differences on many, many issues, that they’ve been able to
+      stay together. The second thing I would argue is the grab-itization. I like the
+      term if Michael invented that; grabbing everything is a good metaphor, but I would
+      like to extend it a little further. The tariff game has a number of benefits to
+      it. Number one, it can exact a certain amount of tribute. Although, let’s remember,
+      in the end, the tribute is going to be coming from the Americans to their own
+      defunct government. We don’t know yet how much of it will be in the end funded
+      by the other countries. Mr. Trump loves to talk about tariffs, about what they
+      do to the other country. But the first victim of a tariff are the Americans who
+      have to pay it, not the foreigners. And it’s an open question, depending on many
+      variables, as to how much of the tariff the American who pays it will be able
+      to push back onto the foreign country to lower their prices and offset the tariffs’
+      effect. Some of that will happen. But much of the effect will be to raise prices
+      in the United States. Let me give you one example that became popular 24 hours
+      ago. It turns out that the vast majority (90 percent or more) of the shoes and
+      sneakers that Americans wear are imported. They’re imported mostly from about
+      six countries, all of whom have seen enormous tariffs imposed on them. The estimate
+      of the American shoe companies is that they will have to raise the prices about
+      37% to deal with the tariffs of 40 to 50 to 60 percent that have been levied on
+      many of the countries that produce shoes. Now, that part of the inflation hasn’t
+      hit yet in the United States, but it is being already factored into the calculations
+      of all of these companies. So I think it’s important to understand that the effect
+      of the tariffs, in terms of the U.S. versus BRICS or the rest, is unresolved.
+      Next, levying these tariffs – it’s clear that Trump understands this part of it
+      – is a way of breaking up any unity e.g. between Vietnam and China around certain
+      issues, or the unity that the BRICS have established among the members and partners.
+      Because what it does is to encourage the countries to compete with one another
+      for the favor of the United States. This is clearly divisive for the BRICS. It
+      means that they are perhaps saying one thing while cutting deals with Washington
+      underneath the surface. We will learn about that in the months and years ahead.
+      But it would be naive not to think that that’s going on. You can see the impact
+      of that particular strategy because its biggest victim is Europe, where there’s
+      a failure to get together because those countries don’t trust one another not
+      to do secret deals with the United States. The continent doesn’t trust Britain,
+      and vice versa. France and Germany do not trust each other. Each one worries that
+      if they go too far in being anti-Trump, he will favor the other ones over them.
+      Etc etc. Europe has been suffering from the failure of how it came out of feudalism
+      – all this nationalist noise has cost them very dearly ever since. Finally, another
+      dimension. If you look closely at what Trump said about the threat to Brazil and
+      the 50% tariff, the argument he made was that he wants to stop the investigation
+      into Bolsonaro. He’s not happy with that. He wants allies over there and he wants
+      to punish them because of their internal judicial procedures, which is a remarkable
+      rationale for a tariff. I mean, we’re not used to seeing that kind of thing. That
+      would have been kept a secret, if it were an objective in all of this. But given
+      the way Mr. Trump works, this all does seem to be a mess, a mess of tariffs interwoven
+      with ideological commitments, interwoven with long-term political goals that are
+      poorly defined and probably not achievable anyway. So I’m driven to do what my
+      friend Yanis Varoufakis does, to find the method in the madness. I’m glad we’re
+      doing that, and we should do it. But we shouldn’t forget that there’s a lot of
+      madness here and a lot of multiple clashing objectives that are not going to work
+      out. And that’ll help us avoid seeing too much logic, too much management. And
+      so I end up not being critical so much of the BRICS, easy though that is to do.
+      Could they do more? Yes. Could they have gone further? Yes. But even Lula, if
+      I could conclude on that, did an interesting thing in his most recent speech that
+      I’ve read. He says, “I am not one of those who attacks globalization. The problem
+      wasn’t globalization.” The problem was – he doesn’t use these words, but I’ll
+      put them in his mouth – American imperialism. The United States used a globalized
+      economy to its own ends. Mr. Lula wants everyone to understand that globalization
+      is still on the agenda, and he, for one, favors it. I see there the echo of the
+      Chinese and others supporting free trade, repositioning the world around this
+      old capitalist struggle, free trade versus protectionism. They are becoming cleverly
+      the champions of a free trade regime against the narrow, backward-looking, MAGA
+      protectionism. That, I think, is a very powerful image, changing what is the advanced
+      world and what is the less developed world. It doesn’t substitute the strategy
+      of economic development (which remains to be spelled out), but it is very smartly
+      reconceptualizing what’s going on in the world in terms of globalization and protectionism.
+      And that is very different from the United States’ way of understanding the world
+      economy. MICHAEL HUDSON: I think you’re right. What is really at issue is the
+      kind of economic system the world going to have, at least the world outside of
+      the United States. The problem is not just capitalism. It’s particularly the European
+      and the American version of what capitalism has become, which is very different
+      from how it began. The global majority countries today are facing a problem very
+      much like the one faced by Europe when it broke away from feudalism, from the
+      control of the past, from the control of a predatory, hereditary aristocracy that
+      was holding the land and charging its rents and establishing monopolies to pay
+      its foreign debts and had a predatory banking system. The whole system had to
+      be revised. That’s what made industrial capitalism revolutionary. Industrial capitalism
+      wanted to free economies from this whole burden of the rentier class that had
+      emerged out of feudalism. And the solution from Adam Smith and the French physiocrats
+      and the rest of the classical economists was this: If we tax the rentiers (who
+      live on economic rent, unearned income)… if we tax the land, if we tax the monopolies
+      and prevent monopolies and make them into the public domain, then we’re going
+      to become a low-cost economy. And if England is going to be the workshop of the
+      world, we cannot afford to have the costs of this post-feudal rentier class. We’re
+      going to have to get rid of them. Well, let’s look at the situation today. Just
+      as Britain and France and Germany had to free their economies from feudalism’s
+      rentier burden, the BRICS countries and most of the global majority countries
+      need to free themselves from the rent overhead inherited from the epoch of European
+      colonialism and its creditor control. But the problem is that this rentier control
+      is international. It’s foreign. It’s American and European much more than domestic
+      investors. It’s the multinational firms that have taken control of the raw materials
+      resources, the mineral resources, the oil and the land. It’s the foreign investors
+      that have bought up the natural infrastructure monopolies and are bleeding them
+      for everything they can do. And it’s the foreign investors that have financed
+      local banking and control the local credit system along neoliberal lines. What
+      is unique today is that the BRICS haven’t come up with the same solution that
+      the classical economists came up with to free industrial capitalism in the early
+      19th century from all of this feudal structure. That’s what needs to be done,
+      and yet they don’t have a body of classical economists. Most of their economists,
+      officials and administrators have been sent to American universities to study.
+      When they take an economics course, there’s nothing about classical economics;
+      there’s no such thing as economic rent; everybody earns whatever they have; there’s
+      no exploitation at all. Whereas classical economics was all about exploitation.
+      That’s what economic rent is. It’s unearned income. Today the unearned income
+      isn’t paid simply to the global majorities or the BRICS domestic ruling class.
+      It’s paid to American and European foreign investors, multinationals. And if they
+      were to do what Europe did to become a competitive industrial economy, they’d
+      then be able to say, “We have sovereignty. And our sovereignty is going to be
+      to do just what Adam Smith and John Stuart Mill and his followers said. We’re
+      going to tax the economic rent of the oil industry, the mining industry. We’re
+      going to tax away monopolies and we’re going to have our own antitrust laws so
+      that foreign investors can make normal profits on what they invest, but we’re
+      not going to let them make super profits and economic rent.” “And we’re going
+      to define the income they make, the taxable income, as their overall cash flow.
+      We’re not going to allow foreign investors to say they didn’t make any income
+      because they spent all of our income paying interest to ourselves and charging
+      depreciation on the oil and minerals that they exhaust, for which there’s a tax
+      write-off so that they don’t pay any taxes.” The entire system that has been put
+      in place to promote the anti-classical pro-rentier ideological revolution that
+      occurred in the early 20th century and flowered under Margaret Thatcher and Ronald
+      Reagan has to be replaced by late 19th-century industrial capitalism evolving
+      into socialism, into a mixed public-private economy where the government regulated
+      natural monopolies and taxed away economic rent. The classical economists’ idea
+      of a free market, as we’ve discussed before, was a market free from economic rent,
+      not free for the rentiers or free of any government taxation or regulation of
+      the economy. So, suppose that the BRICS countries said, “We’re going to develop
+      our industry in the same way that England, France, Germany, and the United States
+      developed their industry with a mixed public-private economy, blocking economic
+      rent from adding to the cost of production. And if we don’t do that, we can’t
+      industrialize.” “And by the way, the other feudal burden we have is the foreign
+      debt that we’ve been loaded down with because of the way in which the post-war
+      economic order was created in 1945.” The Global South countries emerged from World
+      War II with very abundant foreign reserves because they’ve been selling raw materials
+      to the Allies during the war. And the way in which the United States designed
+      the IMF and the World Bank and free trade agreements led to the Global South countries
+      losing the reserves they’d accumulated during the war, by falling into trade dependency
+      and increasingly into debt dependency. All of that has to be thrown away just
+      as Europe threw away the feudal burden, the feudalism that it had. And the fight
+      to free themselves from the foreign investment which (as Lula said) mainly is
+      coordinated by the United States is the counterpart to how Europe achieved its
+      prosperity. Foreign Minister Lavrov of Russia gave a wonderful speech about the
+      need to establish foreign trade mechanisms that the West will be unable to control,
+      such as transport corridors, alternative payment systems, and supply chains. And
+      as an example, he cited how the United States has paralyzed the World Trade Organization
+      that it created on the basis of free trade, but now free trade doesn’t help America
+      because America is deindustrialized. I’ll quote what Lavrov said: “When the Americans
+      realized that the globalized system they’d created – one built on fair competition,
+      inviolable property rights, the presumption of innocence and similar principles,
+      and which had allowed them to dominate for decades – had also begun to benefit
+      their rivals, primarily China, they took drastic action. As China started outplaying
+      them on their own turf and by their own rules, Washington simply blocked the WTO’s
+      Appellate body. By artificially stripping it of a quorum, they rendered this key
+      dispute settlement mechanism inactive, and it remains so to this day.” What if
+      the BRICS and the global majority countries were saying, what China has done in
+      a way followed the exact logic of industrial capitalism when it was emerging!
+      China has kept property and land in the public domain. It hasn’t permitted monopolies
+      to be private. It hasn’t permitted a private banking system to financialize the
+      economy and make loans for corporate takeovers and buy up industrial corporations
+      and use their profits for stock buybacks and dividend payouts. China has done
+      exactly what Adam Smith and John Stuart Mill and the industrial capitalists wanted
+      to do, as well as evolving the way industrial capitalism did. For the BRICS to
+      become independent of this system that has driven them into debt and debt and
+      trade dependency and food dependency, they would have to say: China has provided
+      a modern version of the classical free market model free of exploitative rents.
+      And we’re going to follow that. But that requires us stripping away the foreign
+      ownership of our oil, raw materials, resources, our monopolies. And if we can’t
+      nationalize them – we realize that’s out of the question – at least we can tax
+      all of their unearned income, the unearned income that David Ricardo and Smith
+      and John Stuart Mill and Marx and Veblen, the whole 19th century, spent so much
+      effort defining. RICHARD WOLFF: Let me get at this in a slightly different way.
+      Here, I’m going to be relying on Marx and his particular way of dealing with this.
+      You might say that the break out of feudalism, whether it’s in the form of Smith
+      and Ricardo or any of the others, comes out of a recognition that rent on land
+      has much to do with the growth of population. That’s why a square foot in New
+      York City costs a great deal more than a square foot in Nebraska, right? It is
+      not about the soil. It’s not about investments that have been put on the land
+      or not. It’s basically that more and more people getting an advantage out of being
+      in an agglomerated population enable whoever owns the land simply to raise the
+      rent, and it becomes more and more. The anti-feudal people can be thought of as
+      having come up with a eureka moment. And in the eureka moment, they realized that
+      in order to have access to land, you do not need a landlord. In other words, you
+      can, figuratively or not, get rid of the landlord and you still have the land,
+      which is what the rest of the population or the rest of the economy needs. Well,
+      Marx, in a moment of humor, said the only difference between him and those folks
+      who figured out what I just said is that he wants to add that exactly the same
+      is true of capital. Do we need machines? Absolutely. Do we need factories and
+      offices? Yes. Do we need the owners of those things who can take huge portions
+      of our output in order to give us access? No. We can produce those things. You
+      know how we know it? Because we already do. It’s workers who make machines. It’s
+      workers who erect buildings. It’s workers who do all that anyway. So if the workers
+      do it, why would there be others who aren’t workers gathering a revenue? It makes
+      no more sense, Marx says, than having the landlord who inherited from his grandfather
+      a certain spot of land being able to siphon off a huge amount of revenue. Then
+      the punchline, just as Michael said, is if that revenue were acquired by an agency
+      of the community that wanted economic development, then of course they would use
+      those revenues for that purpose. And that is the old socialist idea. The people
+      do the work, they produce consumer goods for their own consumption, they produce
+      means of production in order to become more productive as a community. In order
+      for this story to be told, you don’t need a separate social class gathering into
+      its hands the revenue and only devoting that to growing the well-being of the
+      community if that were their objective. But we know that if there is such a class,
+      capitalism guarantees that the objective they will pursue with the revenue they
+      get is profitability. And profitability has nothing to do with what a community
+      of workers would do if they themselves were in charge here. So let me offer to
+      the BRICS, as Michael did, a strategic focus that might make a real difference:
+      The socialism that they have produced to this point, government with massive regulation
+      and ownership (as in China, for example) is a step, probably a necessary step…
+      but not a sufficient step. What you have to do is to take it further. You have
+      to really put the workers in charge, not indirectly through electing some… no,
+      no, no. You have to, at the base, in every office, in every factory, in every
+      store, put the people who work there in charge. There is no capitalist class anymore.
+      You actually have overcome class division because the employer and the employee
+      have become the same persons. One of them an individual, the other one a member
+      of the collective. No more master vs slave, no more lord vs serf, and no more
+      employer vs employee. Then you have the micro foundation to get the very things
+      Michael is talking about to become possible. But that means that in the BRICS
+      countries – and there is no way that I can see out of this – to the extent that
+      there remain employer-employee organizations, you’re going to have to go beyond
+      them. And you’re going to have resistance from whoever the employers are, whether
+      these are private individuals or state officials. You’re going to have to bite
+      the bullet, not in support of an abstract idea, but in support of the necessary
+      foundation for that alternative organization of the world economy that Michael
+      is talking about and that the BRICS are moving toward, but are not there yet.
+      MICHAEL HUDSON: That leaves the question: how do you get from where you are now
+      to where you have described as the ultimate dream of socialism? Marx dealt with
+      that. He really was the inventor of cost accounting for industrial capitalism.
+      He said that the industrial capitalist was much more than a landlord. The landlord’s
+      rent did not add to value. It added to price, but there was no cost of production
+      for land because land was provided freely by nature. As the economy becomes more
+      prosperous and the population grows, there’s an unearned increment. The landlord
+      did nothing. But, Marx said, the capitalist does do something. The capitalist
+      organized industry. And Marx included the capitalist’s profit as value, not as
+      economic rent, because he said the role of industrial capitalists is to make money
+      by making surplus value, by employing labor, selling its product at a profit,
+      more than they have to pay the labor and the cost of production. But the dynamic
+      of industrial capitalism was that the firm, in order to grow, plugs its profit
+      back into more capital investment and more employment. And in that sense, he said
+      the capitalist plays a productive role under capitalism. He says ultimately, as
+      capitalism plays this role of creating industry on a larger and larger scale,
+      it is preparing the whole structure for socialists to take over and at a point
+      for there to be socialist management. He also described the whole structure of
+      the capitalist’s income. Here is the earned part of income, the actual profits
+      on the necessary capital investment per factories. But the cost of producing capitalist
+      industry included land rent and other things, other factors – and these should
+      not be tax-deductible at all. So Marx refined the whole tax ideology of Adam Smith
+      and Ricardo and John Stuart Mill and made sense of it all, and said that the industrial
+      capitalist was the key to the transition to socialism. In this way China permits
+      private profit-making investment, private capitalism on a small scale to develop,
+      but it doesn’t let billionaires develop and it doesn’t let industrial capitalism
+      by its innovative class – which is very innovative – become financialized and
+      turn into financial capitalism, which has ended up destroying and deindustrializing
+      capitalism in the Western economies. That’s the big picture, I think, that the
+      BRICS and global south economies have. But to do that, they need a whole idea
+      of cost accounting and how exactly you tax these firms, so that you can say, we’re
+      not going to nationalize you, we’re just going to make sure that you actually
+      earn what you produce. If you make a capital investment, you’re permitted to make
+      – on the value of the physical capital, mining equipment, and oil drilling equipment
+      – a regular profit of, say, six to eight percent. You’re not allowed to make a
+      profit on the vast economic rent-paying investments that you’ve made. That’s not
+      an investment. We’re dealing with a whole different concept of national income,
+      gross national product, and getting rid of transfer payments to the foreign investors
+      that are not part of the product at all but are a transfer payment, essentially,
+      a tribute to the rentier class that’s largely formed. In order to do that, they’d
+      have to read Volumes two and three of Capital, to see how classical economics
+      actually evolved in the 19th century. RICHARD WOLFF: Yeah, I don’t think we disagree,
+      except for me, I want to stress the micro-level adjustment change that radically
+      reorganizes every enterprise in order that then they can together do what you
+      just said. In the interest of reproducing their power and their social situation,
+      they have to have rules in place so that, for example, no one enterprise, even
+      if it is organized as a cooperative, can have a monopoly position. So that that
+      [position] is not available. Whereas we know that capitalism’s competitive nature
+      always produces winners and losers and has no reason not to go until there’s only
+      one or two or three monopolistic or oligopolistic firms left. The production of
+      a monopolist is intrinsic to the capitalist system. It constantly produces and
+      reproduces them. That’s why there is Jeffrey Bezos and there is Elon Musk and
+      all the rest. Not only is there nothing preventing it, the system is set up so
+      that every capitalist that I’ve ever met dreams of having “market share”. Well,
+      that’s a none-too-subtle idea. That’s about getting the ability to jack your price
+      up above what it would be if you did the kind of cost calculation Michael just
+      specified. If we’re going to do our job, we have to specify the political economy
+      that could set itself the task of limiting monopoly. And we tried that. We had
+      the Sherman Antitrust bill in 1890. We had the Clayton Act in 1914. Those are
+      spectacular failures. They haven’t stopped monopolization. Never did. It is a
+      fraud. We have an antitrust department that’s another fraud that doesn’t do its
+      job. And it doesn’t do it whether it’s Republican or Democrat because that’s built
+      into the system. Bank finance depends on what kind of market share you can promise
+      the banker you can get with a loan that allows you to wipe out your competitors.
+      That would not be possible if you just differentially organized the base. They
+      would not permit that because they could all be victimized by it in a way that
+      could actually stick. I think, therefore, that these are the next steps of a BRICS.
+      But there’s another dimension to this that I don’t want to lose, and I would like
+      to hear Michael’s comments. It seems to me that the BRICS already are a historical
+      transformation. The fact is – I know I’ve done this before, but I want us to think
+      about it – if you add up the GDP of all the BRICS countries now, it’s roughly
+      35% of global GDP. If you add up the GDP of the G7, i.e. the United States and
+      its major allies, we’re talking about 27 or 28%. For me, that’s it. We’re done.
+      We are no longer where we were for the 80 years since Bretton Woods, a world economy
+      where the United States and its allies were the obvious global world-shaping economic
+      power, and with that, the political, military, and ideological. We are not the
+      economic center of the world economy. The United States isn’t. And the gap, we
+      crossed the line in 2020. Here we are five years later, and the gap has gotten
+      only bigger in favor of the BRICS and against the United States. This, in my judgment,
+      sits as a relentless pressure on Mr. Trump, on everybody in this country, whether
+      they admit what I just said as a statistic or they don’t. Consciously or unconsciously,
+      they have an ominous sense that the march of time itself is now their enemy. So
+      there’s a desperation that then comes and produces that grabbing mentality that
+      Michael started us off with today. But that is a mentality grounded in an actual
+      material transformation. The BRICS, I suspect, somewhere, they know it too. They
+      don’t quite know what to do – Michael is right. On the other hand, they are trading
+      more with one another than they ever have. And it is not only emergency trading.
+      In other words, it’s not just Russia selling oil and gas to China and India because
+      they can’t manipulate. Now a final word: because Michael mentioned the Russian
+      Foreign Minister Lavrov. In the same speech that Michael refers to, Lavrov gives
+      a statistic, and I’ve checked it and it’s correct. Here it is, and it’s something
+      to think about. Since the war in Ukraine began in early 2022, the World Bank,
+      a Western institution created by the Bretton Woods meetings, has given twice as
+      much money to Ukraine as it gives annually to Africa. Now, let me remind you:
+      the population of Ukraine is 39 million people. The population of Africa is 1.55
+      billion people. Now, there is no justification on earth for such behavior, except
+      if you are desperate and you’re mobilizing every nickel you can, you don’t care
+      what the fall. That’s behavior of people very different from what we used to see.
+      It’s just like Mr. Trump ending foreign aid to Africa and then inviting those
+      five sad leaders yesterday to talk to him. Twice as much for the war in Ukraine,
+      the 39 million people affected, than you give annually to 1.55 billion. It is
+      stupefying if you think about it. Think about the economic development message
+      here. Helping Ukraine basically blow away everything because the money is used
+      for war versus helping 1.5 billion people who are the victims of economic underdevelopment
+      par excellence in the world we live in. It really is kind of breathtaking. MICHAEL
+      HUDSON: Richard, the population of Ukraine is only 1,000 people. These 1,000 people
+      get all of the IMF, all of the World Bank money. This money doesn’t get spent
+      on the rest of the population at large. It goes to the client oligarchy. That’s
+      the key. But I want to go back to what you talked about, the march of time. The
+      question is: how does the American government, which seems to be the most proactive
+      mover right now under Trump, stop the march of time from moving in a direction
+      that is not in the American national interest? How does it prevent the BRICS from
+      developing? That is really what I think should have been the whole focus of the
+      conference in Brazil. I think the U.S. plan is indeed, as you point out, based
+      on monopoly. In fact, the head of the Federal Reserve this week made very much
+      the point that you’re making about monopoly pricing. He said, “Donald Trump is
+      trying to force me to lower interest rates [but I want to keep interest rates
+      on hold given the uncertain effect of the tariffs] to stop the rise in pricing.”
+      But the rise in prices is not caused by money creation. The rise of prices has
+      nothing to do with money creation. Companies are realizing that there is no antitrust
+      enforcement at all, that they can just gouge and gouge and gouge their customers.
+      The grocery stores are gouging. Everybody’s gouging the customers. That’s what
+      he said. And of course, that’s right. On a larger scale, I ask, how is the U.S.
+      going to survive as a monopoly country imposing on BRICS and the rest of the world
+      its monopoly rights and the related rentier privileges that are uniquely favorable
+      to itself on the whole world’s trade and investment? Well, Trump’s America wants
+      to make other countries dependent on America’s information technology, its internet
+      platforms, its military technology. It wants to become itself the great monopoly
+      power over other countries. If it can’t achieve its dominance by industrialization,
+      it can achieve it by post-industrial monopoly capitalism, which turns out to be
+      the final stage of finance capitalism in this case. Thus for Trump and for the
+      United States, the rule of law is based on one that permits unilateral U.S. demands
+      to impose trade and financial sanctions, dictating how and with foreign countries
+      how they can trade and invest with each other. Also, you’d mentioned at the first
+      part of your talk: who’s going to pay these tariffs? Is it going to be the American
+      consumers or the foreign exporters? Well, a lot of these tariffs won’t be paid
+      because the trade won’t exist. Foreigners cannot afford to gain access to the
+      American market paying these tariffs, and the Americans cannot afford to buy from
+      foreigners with these tariffs in. There’s going to be a shrinkage of world trade
+      in all sorts of connections that have been put in place for the last 80 years
+      have been pulled up. You’re going to have such an interruption of trade that the
+      real question of the BRICS facing them is, well, now if we can’t export to the
+      U.S. and we’re not going to import from the U.S., how do we make our trade and
+      investment with each other instead of with the United States? That’s what they
+      have to do. All of that is going to require the creation of new international
+      institutions, which Russia and China are taking the lead in trying to promote.
+      The United States is trying to prevent this. They’re trying to do everything they
+      can to break up the creation of any alternative. That’s what the Americans themselves
+      call this a clash of civilization. The American idea of civilization is the imposition
+      of the neoliberal financialized economy. And the alternative is autocracy, dictatorship,
+      like America will say you have in China. But America’s idea of democracy is client
+      dictatorships. This isn’t the democracy of countries that are growing and rejecting
+      client dictatorships and taking sovereignty for themselves. We’re dealing with
+      the fight not between American civilization and British civilization, but between
+      barbarism and the very principle of civilization based on international law, equality
+      of nations in terms of sovereignty, freedom from foreign interference, rules of
+      war making, all the rules that have been smashed by American policy in the last
+      few years. RICHARD WOLFF: I’d like, in the few moments we have left, to turn the
+      old free trade argument against all of it. The United States is closing itself
+      by a wall of protection. All these prices are going to be raised by virtue of
+      the tariffs imposed on them, more or less. And the important thing to keep in
+      mind is that in the rest of the world that is not following suit, the prices will
+      be lower than what they are in the United States. Not to the same extent everywhere,
+      but lower. That begins to be built into the price systems outside, that they become
+      more and more differentiated from the monopoly-protected prices inside the United
+      States. That will mean that the United States, as a capitalist totality, will
+      be in a deteriorating competitive position with the rest of the world, because
+      all the inputs here will be higher priced than their equivalents outside the protection
+      zone. That’s not a sustainable arrangement, or to put it another way, that will
+      become itself a mechanism that over time deteriorates and isolates the United
+      States’ capitalism from the rest of the world. So that’s not a viable strategy
+      either. The early moments of Mr. Trump throwing it around may look like some kind
+      of remarkable innovation, but we all know that the history of capitalism is the
+      history of oscillations between free trade and protection. We are not the first
+      ones to go through that. And the protection phase, which comes when free trade
+      doesn’t work, always turns out to be a dead end. In fact, that’s why we go back
+      to free trade again because we have a revulsion against the problems of a protection.
+      In sum, this is not discovering a new solution. This is hankering after an old
+      one that we should have learned doesn’t work. MICHAEL HUDSON: Well, this disparity
+      in prices is exactly what Britain was dealing with 200 years ago. It saw that
+      other countries had a natural price advantage because they could grow, for one
+      thing, they could grow their food and produce raw materials much less expensively
+      than Britain. So what did Britain do? Apart from reforming its own economy to
+      lower its costs, it said: “We’re going to colonize these countries and we’re going
+      to invest in them. We can take ownership of their advantages, ownership of their
+      land to produce food and ownership of their raw materials. Then, instead of those
+      countries getting the benefit of their low-cost of production, we British and
+      other colonialist European owners are going to carve out our ownership of these
+      countries’ natural patrimony, land, natural resources, and infrastructure for
+      ourselves. They’ll be part of our own economy, not the other countries’ economies.”
+      This perception of the threat of lower prices abroad led to British colonialism
+      and imperialism, and the development of financial imperialism in the form of multinational
+      corporations buying control of all of the basic resources and assets that had
+      made these other countries more naturally competitive than Europe (which had the
+      burden of its aristocracy and everything). That’s the kind of fight that is being
+      waged today. It’s as if we’re seeing a new attempt by Americans to do what the
+      European colonists did in taking over Africa and other countries, investing in
+      the global south, taking ownership of their resources, and denying the income
+      from these resources to their host countries. The global south is a host in the
+      sense of host to a parasite taking out its value. This is exactly the fight that
+      has to be recognized by the global majority countries. And I think it has been
+      recognized by Lavrov’s speech and by the Russians and certainly by the Chinese.
+      But the problem is: how are you going to get BRICS to admit this requires a really
+      radical restructuring of the world order? This is a civilizational fight. How
+      are we going to create a plan for this? So far, they really haven’t developed
+      a plan. There was talk about de-dollarization as if somehow that could cure the
+      problem, but that goes way beyond getting free of using the U.S. dollar. It’s
+      getting the economy free from the whole finance capitalist rentier organization
+      of the economy. Of course, that’s what industrial capitalism was supposed to be
+      doing as it evolved into socialism. So you’re right. The BRICS and global south
+      countries have to evolve into socialism. And the question is: can this be done
+      without a revolution? We posed that at the end of the last show. It took a revolution
+      in Russia in 1917, a revolution in China in 1945. Can the other BRICS countries
+      and the global majority achieve this alternative to the US-European exploitation
+      without a revolution? The United States is going to do whatever it can to fight
+      against it. And that’s what’s going to be determining the next few years of international
+      diplomacy. RICHARD WOLFF: I want to remind everyone not to be too gloomy here.
+      You saw the European economies go from the 19th century of more or less free trade
+      to the 20th century shifting over to colonization and protection of each colony,
+      a set of colonial properties one against the other. That eventuated in World Wars
+      I and II. That’s a reason why you don’t want to go down the road of protection,
+      accompanied by military forces to impose that protection. Notice that the budget
+      just passed by Mr. Trump expands the military and expands the police. That’s so-called
+      homeland security. Everything else is cut because you have to focus on protection
+      in all the meanings of that word. That has led to war over and over again, especially
+      as the beleaguered country tries to stop the others from protecting themselves.
+      What happens – and I’m not suggesting it, but – if and when the BRICS were to
+      sit down and, as a unit, respond to the tariffs of the United States with a uniform
+      tariff among them? Making themselves a common market, and the United States the
+      excluded one? People with a memory will see here the very evolution of colonial
+      empires – the American, the British, the German, the Japanese – which were the
+      20th century’s causes of the greatest world wars the human race has ever seen.
+      This is not a solution, what is being done here. This is an act of desperation
+      coming out of the grabbing that Michael talked to us at the beginning today. MICHAEL
+      HUDSON: Well, to create a common market is exactly what China is trying to do
+      with the Belt and Road Initiative. If you’re going to have trade among yourselves,
+      you need transportation. You need the Belt and Road. And that’s exactly what the
+      United States militarily is trying to do to block it in Afghanistan, in Iran,
+      with activities in Azerbaijan. This is exactly what the geopolitical fight of
+      the next few years is all about: trying to break the ability of other countries
+      to work together and to tear up all the connections, leaving no alternative but
+      depend upon the United States and Europe. That’s the new Cold War, and it is a
+      war of what kind of civilization is the world going to have, or at least the world
+      outside of the golden billion in the United States, Europe, and its allies. NIMA
+      ALKHORSHID: Thank you so much, Richard and Michael. Great pleasure, as always.
+      See you soon. Transcription and Diarization: hudsearch Editing and Review: Ton
+      Yeh Photo by Jon Tyson on Unsplash The post BRICS vs. the Rentier Economy first
+      appeared on Michael Hudson .'
+    one_sentence_summary: During the BRICS summit in Rio de Janeiro on July 10, 2025,
+      Richard Wolff and Michael Hudson discussed the urgent need for BRICS nations,
+      particularly Russia and China, to address U.S. tariffs and the broader implications
+      of U.S. actions on their alliance.
+    paragraph_summary: On July 10, 2025, during a summit in Rio de Janeiro, Richard
+      Wolff and Michael Hudson discussed the BRICS nations' response to U.S. tariffs
+      and foreign policy, particularly emphasizing the roles of Russia and China as
+      targets of U.S. aggression. Hudson noted that while Russia's leadership has articulated
+      the need for BRICS to break free from U.S. control, the group remains largely
+      reactive without concrete policies for establishing a viable alternative to the
+      U.S.-dominated neoliberal order. He pointed out that although the BRICS nations
+      are seeking reforms like higher quotas in the International Monetary Fund and
+      World Bank, these measures do not constitute a genuine alternative to the existing
+      system, which has historically benefited the U.S. but is now shifting under new
+      American policies.
+    published: '2025-07-17T12:24:57+00:00'
+  - title: BRICS vs. the Rentier Economy
+    url: https://michael-hudson.com/2025/07/brics-vs-the-rentier-economy/
+    text: '07.10.2025 NIMA ALKHORSHID: Hi everybody. Today is Thursday, July 10, 2025,
+      and our friends Richard Wolff and Michael Hudson are back with us. Welcome back.
+      RICHARD WOLFF: Glad to be here. NIMA ALKHORSHID: Let me start, Michael, with what’s
+      going on with BRICS here in Rio de Janeiro. They’ve started the summit and they
+      were talking about many things, but one of the main issues is the tariffs and
+      the way that the United States is dealing with the rest of the world. You’re taking
+      that so far with the BRICS. MICHAEL HUDSON: Well, I think as far as the response
+      of the BRICS is concerned, it’s really Russia and China. Russia’s President Putin
+      and Foreign Minister Sergey Lavrov have been the most explicit in spelling out
+      exactly what the BRICS need and the obvious reason for it, namely that Russia
+      and China are the main object of U.S. attack, which includes an attack on BRICS.
+      I think that the breakaway from US control is made urgent right now by the actions
+      of Trump’s administration. But the rest of the BRICS are more reactive than proactive.
+      They’re complaining, but they haven’t really put in specific policies by which
+      to free themselves. They realize something which Trump realizes (while economists
+      and the public shy from acknowledging it): that the post-war American era is over.
+      But there’s still very little discussion of creating a real alternative. The BRICS
+      closing report emphasized that they want higher quotas for the International Monetary
+      Fund and the World Bank, but that doesn’t provide an alternative to the U.S. neoliberal
+      worldview. It doesn’t really talk about what kind of alternative institutions
+      they need to avoid the whole neoliberal development trap that was imposed by America
+      in 1945 and has made it very rich for the past 80 years, but is not making America
+      rich anymore. Now, all of a sudden, America is changing all of the rules. And
+      the fact is, the BRICS have yet to decide their own rules. The only alternatives
+      of a leader that I see are those by the Russian leader. Let me talk about what’s
+      happening in the U.S. so I can give the context for BRICS. What’s happening in
+      America is much like what happened to the Soviet Union in the 1990s when it was
+      breaking up. There’s a grab-itization, a grab bag. The post-war elite see that
+      the game is over and they’re taking everything they can at the economy’s expense.
+      They’re carving it up, raising monopoly prices, lowering the tax on themselves,
+      cutting off government programs. The class war is really back in business. I think
+      the same thing is happening in Europe. The European military stocks are soaring
+      in price. Governments are scaling back public spending and creating a social crisis.
+      In Britain, Germany, and France, wages are going down. The same thing’s happening
+      in Japan. So America’s allies are experiencing the same kind of breakdown that
+      the United States is. The question is, what’s going to take the place of this
+      new kind of grab-itization, where the United States says: “Well, we can’t follow
+      the old rules of free trade and investment that made us rich for the last 80 years.
+      We’re going to impose tribute on you. What are you going to do about it?” The
+      question is, can the West prevent the global majority (which I think is more important
+      than the BRICS) from becoming a prosperous new center, growing without U.S. control,
+      making itself the beneficiary of its trade and investment rather than foreign
+      investors? All the United States can do to stop it right now is to act as a wrecker.
+      And within BRICS, it’s trying to use, I think, India and Brazil to weaken any
+      real break from U.S. policy. I think Trump’s imposition of the 50% tariffs on
+      Brazil yesterday was trying to bully it into submission to the United States.
+      And he said that if Brazil imposes reciprocal tariffs on the United States, he’s
+      going to raise the tariffs on Brazil to more than 50%. After I hear Richard’s
+      take, I want to discuss what I think the global majority and the BRICS really
+      need. RICHARD WOLFF: Okay. I agree, but I would come at it a little differently.
+      I’ve been struck by what the BRICS have achieved. I agree with Michael, the blueprint
+      for how to get beyond where we are now is not there yet. I don’t think they’ve
+      come up with it. I think they are not sure themselves. I think there are too many
+      disagreements and divisions among them that they haven’t worked out. [Interruption]
+      MICHAEL HUDSON: Well, the key is that the world’s splitting into two parts. U.S.
+      diplomats can see it, they see this as a civilizational split, but BRICS and the
+      global majority aren’t treating it this way. Everyone knows there’s a break from
+      the past, but BRICS are not clear-eyed about being in the same position today
+      that Britain and France and Europe were in 200 years ago when they were trying
+      to free themselves from feudalism, from the hereditary aristocracy charging land
+      rent – industrial capitalism wanted to free itself from all of this. That’s what
+      the BRICS will have to do. RICHARD WOLFF: Let me point out that we oughtn’t to
+      be in a rush. Michael is right, but it’s really only been about 16 or 17 years
+      since BRICS started. The first few were just getting it started. Now they are
+      clearly underway. They have grown in number. They have the two levels of participation,
+      the member and the partner, if I have their language correctly. And they did hit
+      that milestone a week or two ago when the total amount of trade among them crossed
+      the $1 trillion value. That’s an impressive development. We all have to thank
+      Mr. Trump, because his tariff program has been a tremendous boost on increasing
+      trade among them (since obviously when they trade amongst each other, Mr. Trump’s
+      tariffs don’t have any impact, at least not directly). So I’m pretty impressed,
+      given all of their differences on many, many issues, that they’ve been able to
+      stay together. The second thing I would argue is the grab-itization. I like the
+      term if Michael invented that; grabbing everything is a good metaphor, but I would
+      like to extend it a little further. The tariff game has a number of benefits to
+      it. Number one, it can exact a certain amount of tribute. Although, let’s remember,
+      in the end, the tribute is going to be coming from the Americans to their own
+      defunct government. We don’t know yet how much of it will be in the end funded
+      by the other countries. Mr. Trump loves to talk about tariffs, about what they
+      do to the other country. But the first victim of a tariff are the Americans who
+      have to pay it, not the foreigners. And it’s an open question, depending on many
+      variables, as to how much of the tariff the American who pays it will be able
+      to push back onto the foreign country to lower their prices and offset the tariffs’
+      effect. Some of that will happen. But much of the effect will be to raise prices
+      in the United States. Let me give you one example that became popular 24 hours
+      ago. It turns out that the vast majority (90 percent or more) of the shoes and
+      sneakers that Americans wear are imported. They’re imported mostly from about
+      six countries, all of whom have seen enormous tariffs imposed on them. The estimate
+      of the American shoe companies is that they will have to raise the prices about
+      37% to deal with the tariffs of 40 to 50 to 60 percent that have been levied on
+      many of the countries that produce shoes. Now, that part of the inflation hasn’t
+      hit yet in the United States, but it is being already factored into the calculations
+      of all of these companies. So I think it’s important to understand that the effect
+      of the tariffs, in terms of the U.S. versus BRICS or the rest, is unresolved.
+      Next, levying these tariffs – it’s clear that Trump understands this part of it
+      – is a way of breaking up any unity e.g. between Vietnam and China around certain
+      issues, or the unity that the BRICS have established among the members and partners.
+      Because what it does is to encourage the countries to compete with one another
+      for the favor of the United States. This is clearly divisive for the BRICS. It
+      means that they are perhaps saying one thing while cutting deals with Washington
+      underneath the surface. We will learn about that in the months and years ahead.
+      But it would be naive not to think that that’s going on. You can see the impact
+      of that particular strategy because its biggest victim is Europe, where there’s
+      a failure to get together because those countries don’t trust one another not
+      to do secret deals with the United States. The continent doesn’t trust Britain,
+      and vice versa. France and Germany do not trust each other. Each one worries that
+      if they go too far in being anti-Trump, he will favor the other ones over them.
+      Etc etc. Europe has been suffering from the failure of how it came out of feudalism
+      – all this nationalist noise has cost them very dearly ever since. Finally, another
+      dimension. If you look closely at what Trump said about the threat to Brazil and
+      the 50% tariff, the argument he made was that he wants to stop the investigation
+      into Bolsonaro. He’s not happy with that. He wants allies over there and he wants
+      to punish them because of their internal judicial procedures, which is a remarkable
+      rationale for a tariff. I mean, we’re not used to seeing that kind of thing. That
+      would have been kept a secret, if it were an objective in all of this. But given
+      the way Mr. Trump works, this all does seem to be a mess, a mess of tariffs interwoven
+      with ideological commitments, interwoven with long-term political goals that are
+      poorly defined and probably not achievable anyway. So I’m driven to do what my
+      friend Yanis Varoufakis does, to find the method in the madness. I’m glad we’re
+      doing that, and we should do it. But we shouldn’t forget that there’s a lot of
+      madness here and a lot of multiple clashing objectives that are not going to work
+      out. And that’ll help us avoid seeing too much logic, too much management. And
+      so I end up not being critical so much of the BRICS, easy though that is to do.
+      Could they do more? Yes. Could they have gone further? Yes. But even Lula, if
+      I could conclude on that, did an interesting thing in his most recent speech that
+      I’ve read. He says, “I am not one of those who attacks globalization. The problem
+      wasn’t globalization.” The problem was – he doesn’t use these words, but I’ll
+      put them in his mouth – American imperialism. The United States used a globalized
+      economy to its own ends. Mr. Lula wants everyone to understand that globalization
+      is still on the agenda, and he, for one, favors it. I see there the echo of the
+      Chinese and others supporting free trade, repositioning the world around this
+      old capitalist struggle, free trade versus protectionism. They are becoming cleverly
+      the champions of a free trade regime against the narrow, backward-looking, MAGA
+      protectionism. That, I think, is a very powerful image, changing what is the advanced
+      world and what is the less developed world. It doesn’t substitute the strategy
+      of economic development (which remains to be spelled out), but it is very smartly
+      reconceptualizing what’s going on in the world in terms of globalization and protectionism.
+      And that is very different from the United States’ way of understanding the world
+      economy. MICHAEL HUDSON: I think you’re right. What is really at issue is the
+      kind of economic system the world going to have, at least the world outside of
+      the United States. The problem is not just capitalism. It’s particularly the European
+      and the American version of what capitalism has become, which is very different
+      from how it began. The global majority countries today are facing a problem very
+      much like the one faced by Europe when it broke away from feudalism, from the
+      control of the past, from the control of a predatory, hereditary aristocracy that
+      was holding the land and charging its rents and establishing monopolies to pay
+      its foreign debts and had a predatory banking system. The whole system had to
+      be revised. That’s what made industrial capitalism revolutionary. Industrial capitalism
+      wanted to free economies from this whole burden of the rentier class that had
+      emerged out of feudalism. And the solution from Adam Smith and the French physiocrats
+      and the rest of the classical economists was this: If we tax the rentiers (who
+      live on economic rent, unearned income)… if we tax the land, if we tax the monopolies
+      and prevent monopolies and make them into the public domain, then we’re going
+      to become a low-cost economy. And if England is going to be the workshop of the
+      world, we cannot afford to have the costs of this post-feudal rentier class. We’re
+      going to have to get rid of them. Well, let’s look at the situation today. Just
+      as Britain and France and Germany had to free their economies from feudalism’s
+      rentier burden, the BRICS countries and most of the global majority countries
+      need to free themselves from the rent overhead inherited from the epoch of European
+      colonialism and its creditor control. But the problem is that this rentier control
+      is international. It’s foreign. It’s American and European much more than domestic
+      investors. It’s the multinational firms that have taken control of the raw materials
+      resources, the mineral resources, the oil and the land. It’s the foreign investors
+      that have bought up the natural infrastructure monopolies and are bleeding them
+      for everything they can do. And it’s the foreign investors that have financed
+      local banking and control the local credit system along neoliberal lines. What
+      is unique today is that the BRICS haven’t come up with the same solution that
+      the classical economists came up with to free industrial capitalism in the early
+      19th century from all of this feudal structure. That’s what needs to be done,
+      and yet they don’t have a body of classical economists. Most of their economists,
+      officials and administrators have been sent to American universities to study.
+      When they take an economics course, there’s nothing about classical economics;
+      there’s no such thing as economic rent; everybody earns whatever they have; there’s
+      no exploitation at all. Whereas classical economics was all about exploitation.
+      That’s what economic rent is. It’s unearned income. Today the unearned income
+      isn’t paid simply to the global majorities or the BRICS domestic ruling class.
+      It’s paid to American and European foreign investors, multinationals. And if they
+      were to do what Europe did to become a competitive industrial economy, they’d
+      then be able to say, “We have sovereignty. And our sovereignty is going to be
+      to do just what Adam Smith and John Stuart Mill and his followers said. We’re
+      going to tax the economic rent of the oil industry, the mining industry. We’re
+      going to tax away monopolies and we’re going to have our own antitrust laws so
+      that foreign investors can make normal profits on what they invest, but we’re
+      not going to let them make super profits and economic rent.” “And we’re going
+      to define the income they make, the taxable income, as their overall cash flow.
+      We’re not going to allow foreign investors to say they didn’t make any income
+      because they spent all of our income paying interest to ourselves and charging
+      depreciation on the oil and minerals that they exhaust, for which there’s a tax
+      write-off so that they don’t pay any taxes.” The entire system that has been put
+      in place to promote the anti-classical pro-rentier ideological revolution that
+      occurred in the early 20th century and flowered under Margaret Thatcher and Ronald
+      Reagan has to be replaced by late 19th-century industrial capitalism evolving
+      into socialism, into a mixed public-private economy where the government regulated
+      natural monopolies and taxed away economic rent. The classical economists’ idea
+      of a free market, as we’ve discussed before, was a market free from economic rent,
+      not free for the rentiers or free of any government taxation or regulation of
+      the economy. So, suppose that the BRICS countries said, “We’re going to develop
+      our industry in the same way that England, France, Germany, and the United States
+      developed their industry with a mixed public-private economy, blocking economic
+      rent from adding to the cost of production. And if we don’t do that, we can’t
+      industrialize.” “And by the way, the other feudal burden we have is the foreign
+      debt that we’ve been loaded down with because of the way in which the post-war
+      economic order was created in 1945.” The Global South countries emerged from World
+      War II with very abundant foreign reserves because they’ve been selling raw materials
+      to the Allies during the war. And the way in which the United States designed
+      the IMF and the World Bank and free trade agreements led to the Global South countries
+      losing the reserves they’d accumulated during the war, by falling into trade dependency
+      and increasingly into debt dependency. All of that has to be thrown away just
+      as Europe threw away the feudal burden, the feudalism that it had. And the fight
+      to free themselves from the foreign investment which (as Lula said) mainly is
+      coordinated by the United States is the counterpart to how Europe achieved its
+      prosperity. Foreign Minister Lavrov of Russia gave a wonderful speech about the
+      need to establish foreign trade mechanisms that the West will be unable to control,
+      such as transport corridors, alternative payment systems, and supply chains. And
+      as an example, he cited how the United States has paralyzed the World Trade Organization
+      that it created on the basis of free trade, but now free trade doesn’t help America
+      because America is deindustrialized. I’ll quote what Lavrov said: “When the Americans
+      realized that the globalized system they’d created – one built on fair competition,
+      inviolable property rights, the presumption of innocence and similar principles,
+      and which had allowed them to dominate for decades – had also begun to benefit
+      their rivals, primarily China, they took drastic action. As China started outplaying
+      them on their own turf and by their own rules, Washington simply blocked the WTO’s
+      Appellate body. By artificially stripping it of a quorum, they rendered this key
+      dispute settlement mechanism inactive, and it remains so to this day.” What if
+      the BRICS and the global majority countries were saying, what China has done in
+      a way followed the exact logic of industrial capitalism when it was emerging!
+      China has kept property and land in the public domain. It hasn’t permitted monopolies
+      to be private. It hasn’t permitted a private banking system to financialize the
+      economy and make loans for corporate takeovers and buy up industrial corporations
+      and use their profits for stock buybacks and dividend payouts. China has done
+      exactly what Adam Smith and John Stuart Mill and the industrial capitalists wanted
+      to do, as well as evolving the way industrial capitalism did. For the BRICS to
+      become independent of this system that has driven them into debt and debt and
+      trade dependency and food dependency, they would have to say: China has provided
+      a modern version of the classical free market model free of exploitative rents.
+      And we’re going to follow that. But that requires us stripping away the foreign
+      ownership of our oil, raw materials, resources, our monopolies. And if we can’t
+      nationalize them – we realize that’s out of the question – at least we can tax
+      all of their unearned income, the unearned income that David Ricardo and Smith
+      and John Stuart Mill and Marx and Veblen, the whole 19th century, spent so much
+      effort defining. RICHARD WOLFF: Let me get at this in a slightly different way.
+      Here, I’m going to be relying on Marx and his particular way of dealing with this.
+      You might say that the break out of feudalism, whether it’s in the form of Smith
+      and Ricardo or any of the others, comes out of a recognition that rent on land
+      has much to do with the growth of population. That’s why a square foot in New
+      York City costs a great deal more than a square foot in Nebraska, right? It is
+      not about the soil. It’s not about investments that have been put on the land
+      or not. It’s basically that more and more people getting an advantage out of being
+      in an agglomerated population enable whoever owns the land simply to raise the
+      rent, and it becomes more and more. The anti-feudal people can be thought of as
+      having come up with a eureka moment. And in the eureka moment, they realized that
+      in order to have access to land, you do not need a landlord. In other words, you
+      can, figuratively or not, get rid of the landlord and you still have the land,
+      which is what the rest of the population or the rest of the economy needs. Well,
+      Marx, in a moment of humor, said the only difference between him and those folks
+      who figured out what I just said is that he wants to add that exactly the same
+      is true of capital. Do we need machines? Absolutely. Do we need factories and
+      offices? Yes. Do we need the owners of those things who can take huge portions
+      of our output in order to give us access? No. We can produce those things. You
+      know how we know it? Because we already do. It’s workers who make machines. It’s
+      workers who erect buildings. It’s workers who do all that anyway. So if the workers
+      do it, why would there be others who aren’t workers gathering a revenue? It makes
+      no more sense, Marx says, than having the landlord who inherited from his grandfather
+      a certain spot of land being able to siphon off a huge amount of revenue. Then
+      the punchline, just as Michael said, is if that revenue were acquired by an agency
+      of the community that wanted economic development, then of course they would use
+      those revenues for that purpose. And that is the old socialist idea. The people
+      do the work, they produce consumer goods for their own consumption, they produce
+      means of production in order to become more productive as a community. In order
+      for this story to be told, you don’t need a separate social class gathering into
+      its hands the revenue and only devoting that to growing the well-being of the
+      community if that were their objective. But we know that if there is such a class,
+      capitalism guarantees that the objective they will pursue with the revenue they
+      get is profitability. And profitability has nothing to do with what a community
+      of workers would do if they themselves were in charge here. So let me offer to
+      the BRICS, as Michael did, a strategic focus that might make a real difference:
+      The socialism that they have produced to this point, government with massive regulation
+      and ownership (as in China, for example) is a step, probably a necessary step…
+      but not a sufficient step. What you have to do is to take it further. You have
+      to really put the workers in charge, not indirectly through electing some… no,
+      no, no. You have to, at the base, in every office, in every factory, in every
+      store, put the people who work there in charge. There is no capitalist class anymore.
+      You actually have overcome class division because the employer and the employee
+      have become the same persons. One of them an individual, the other one a member
+      of the collective. No more master vs slave, no more lord vs serf, and no more
+      employer vs employee. Then you have the micro foundation to get the very things
+      Michael is talking about to become possible. But that means that in the BRICS
+      countries – and there is no way that I can see out of this – to the extent that
+      there remain employer-employee organizations, you’re going to have to go beyond
+      them. And you’re going to have resistance from whoever the employers are, whether
+      these are private individuals or state officials. You’re going to have to bite
+      the bullet, not in support of an abstract idea, but in support of the necessary
+      foundation for that alternative organization of the world economy that Michael
+      is talking about and that the BRICS are moving toward, but are not there yet.
+      MICHAEL HUDSON: That leaves the question: how do you get from where you are now
+      to where you have described as the ultimate dream of socialism? Marx dealt with
+      that. He really was the inventor of cost accounting for industrial capitalism.
+      He said that the industrial capitalist was much more than a landlord. The landlord’s
+      rent did not add to value. It added to price, but there was no cost of production
+      for land because land was provided freely by nature. As the economy becomes more
+      prosperous and the population grows, there’s an unearned increment. The landlord
+      did nothing. But, Marx said, the capitalist does do something. The capitalist
+      organized industry. And Marx included the capitalist’s profit as value, not as
+      economic rent, because he said the role of industrial capitalists is to make money
+      by making surplus value, by employing labor, selling its product at a profit,
+      more than they have to pay the labor and the cost of production. But the dynamic
+      of industrial capitalism was that the firm, in order to grow, plugs its profit
+      back into more capital investment and more employment. And in that sense, he said
+      the capitalist plays a productive role under capitalism. He says ultimately, as
+      capitalism plays this role of creating industry on a larger and larger scale,
+      it is preparing the whole structure for socialists to take over and at a point
+      for there to be socialist management. He also described the whole structure of
+      the capitalist’s income. Here is the earned part of income, the actual profits
+      on the necessary capital investment per factories. But the cost of producing capitalist
+      industry included land rent and other things, other factors – and these should
+      not be tax-deductible at all. So Marx refined the whole tax ideology of Adam Smith
+      and Ricardo and John Stuart Mill and made sense of it all, and said that the industrial
+      capitalist was the key to the transition to socialism. In this way China permits
+      private profit-making investment, private capitalism on a small scale to develop,
+      but it doesn’t let billionaires develop and it doesn’t let industrial capitalism
+      by its innovative class – which is very innovative – become financialized and
+      turn into financial capitalism, which has ended up destroying and deindustrializing
+      capitalism in the Western economies. That’s the big picture, I think, that the
+      BRICS and global south economies have. But to do that, they need a whole idea
+      of cost accounting and how exactly you tax these firms, so that you can say, we’re
+      not going to nationalize you, we’re just going to make sure that you actually
+      earn what you produce. If you make a capital investment, you’re permitted to make
+      – on the value of the physical capital, mining equipment, and oil drilling equipment
+      – a regular profit of, say, six to eight percent. You’re not allowed to make a
+      profit on the vast economic rent-paying investments that you’ve made. That’s not
+      an investment. We’re dealing with a whole different concept of national income,
+      gross national product, and getting rid of transfer payments to the foreign investors
+      that are not part of the product at all but are a transfer payment, essentially,
+      a tribute to the rentier class that’s largely formed. In order to do that, they’d
+      have to read Volumes two and three of Capital, to see how classical economics
+      actually evolved in the 19th century. RICHARD WOLFF: Yeah, I don’t think we disagree,
+      except for me, I want to stress the micro-level adjustment change that radically
+      reorganizes every enterprise in order that then they can together do what you
+      just said. In the interest of reproducing their power and their social situation,
+      they have to have rules in place so that, for example, no one enterprise, even
+      if it is organized as a cooperative, can have a monopoly position. So that that
+      [position] is not available. Whereas we know that capitalism’s competitive nature
+      always produces winners and losers and has no reason not to go until there’s only
+      one or two or three monopolistic or oligopolistic firms left. The production of
+      a monopolist is intrinsic to the capitalist system. It constantly produces and
+      reproduces them. That’s why there is Jeffrey Bezos and there is Elon Musk and
+      all the rest. Not only is there nothing preventing it, the system is set up so
+      that every capitalist that I’ve ever met dreams of having “market share”. Well,
+      that’s a none-too-subtle idea. That’s about getting the ability to jack your price
+      up above what it would be if you did the kind of cost calculation Michael just
+      specified. If we’re going to do our job, we have to specify the political economy
+      that could set itself the task of limiting monopoly. And we tried that. We had
+      the Sherman Antitrust bill in 1890. We had the Clayton Act in 1914. Those are
+      spectacular failures. They haven’t stopped monopolization. Never did. It is a
+      fraud. We have an antitrust department that’s another fraud that doesn’t do its
+      job. And it doesn’t do it whether it’s Republican or Democrat because that’s built
+      into the system. Bank finance depends on what kind of market share you can promise
+      the banker you can get with a loan that allows you to wipe out your competitors.
+      That would not be possible if you just differentially organized the base. They
+      would not permit that because they could all be victimized by it in a way that
+      could actually stick. I think, therefore, that these are the next steps of a BRICS.
+      But there’s another dimension to this that I don’t want to lose, and I would like
+      to hear Michael’s comments. It seems to me that the BRICS already are a historical
+      transformation. The fact is – I know I’ve done this before, but I want us to think
+      about it – if you add up the GDP of all the BRICS countries now, it’s roughly
+      35% of global GDP. If you add up the GDP of the G7, i.e. the United States and
+      its major allies, we’re talking about 27 or 28%. For me, that’s it. We’re done.
+      We are no longer where we were for the 80 years since Bretton Woods, a world economy
+      where the United States and its allies were the obvious global world-shaping economic
+      power, and with that, the political, military, and ideological. We are not the
+      economic center of the world economy. The United States isn’t. And the gap, we
+      crossed the line in 2020. Here we are five years later, and the gap has gotten
+      only bigger in favor of the BRICS and against the United States. This, in my judgment,
+      sits as a relentless pressure on Mr. Trump, on everybody in this country, whether
+      they admit what I just said as a statistic or they don’t. Consciously or unconsciously,
+      they have an ominous sense that the march of time itself is now their enemy. So
+      there’s a desperation that then comes and produces that grabbing mentality that
+      Michael started us off with today. But that is a mentality grounded in an actual
+      material transformation. The BRICS, I suspect, somewhere, they know it too. They
+      don’t quite know what to do – Michael is right. On the other hand, they are trading
+      more with one another than they ever have. And it is not only emergency trading.
+      In other words, it’s not just Russia selling oil and gas to China and India because
+      they can’t manipulate. Now a final word: because Michael mentioned the Russian
+      Foreign Minister Lavrov. In the same speech that Michael refers to, Lavrov gives
+      a statistic, and I’ve checked it and it’s correct. Here it is, and it’s something
+      to think about. Since the war in Ukraine began in early 2022, the World Bank,
+      a Western institution created by the Bretton Woods meetings, has given twice as
+      much money to Ukraine as it gives annually to Africa. Now, let me remind you:
+      the population of Ukraine is 39 million people. The population of Africa is 1.55
+      billion people. Now, there is no justification on earth for such behavior, except
+      if you are desperate and you’re mobilizing every nickel you can, you don’t care
+      what the fall. That’s behavior of people very different from what we used to see.
+      It’s just like Mr. Trump ending foreign aid to Africa and then inviting those
+      five sad leaders yesterday to talk to him. Twice as much for the war in Ukraine,
+      the 39 million people affected, than you give annually to 1.55 billion. It is
+      stupefying if you think about it. Think about the economic development message
+      here. Helping Ukraine basically blow away everything because the money is used
+      for war versus helping 1.5 billion people who are the victims of economic underdevelopment
+      par excellence in the world we live in. It really is kind of breathtaking. MICHAEL
+      HUDSON: Richard, the population of Ukraine is only 1,000 people. These 1,000 people
+      get all of the IMF, all of the World Bank money. This money doesn’t get spent
+      on the rest of the population at large. It goes to the client oligarchy. That’s
+      the key. But I want to go back to what you talked about, the march of time. The
+      question is: how does the American government, which seems to be the most proactive
+      mover right now under Trump, stop the march of time from moving in a direction
+      that is not in the American national interest? How does it prevent the BRICS from
+      developing? That is really what I think should have been the whole focus of the
+      conference in Brazil. I think the U.S. plan is indeed, as you point out, based
+      on monopoly. In fact, the head of the Federal Reserve this week made very much
+      the point that you’re making about monopoly pricing. He said, “Donald Trump is
+      trying to force me to lower interest rates [but I want to keep interest rates
+      on hold given the uncertain effect of the tariffs] to stop the rise in pricing.”
+      But the rise in prices is not caused by money creation. The rise of prices has
+      nothing to do with money creation. Companies are realizing that there is no antitrust
+      enforcement at all, that they can just gouge and gouge and gouge their customers.
+      The grocery stores are gouging. Everybody’s gouging the customers. That’s what
+      he said. And of course, that’s right. On a larger scale, I ask, how is the U.S.
+      going to survive as a monopoly country imposing on BRICS and the rest of the world
+      its monopoly rights and the related rentier privileges that are uniquely favorable
+      to itself on the whole world’s trade and investment? Well, Trump’s America wants
+      to make other countries dependent on America’s information technology, its internet
+      platforms, its military technology. It wants to become itself the great monopoly
+      power over other countries. If it can’t achieve its dominance by industrialization,
+      it can achieve it by post-industrial monopoly capitalism, which turns out to be
+      the final stage of finance capitalism in this case. Thus for Trump and for the
+      United States, the rule of law is based on one that permits unilateral U.S. demands
+      to impose trade and financial sanctions, dictating how and with foreign countries
+      how they can trade and invest with each other. Also, you’d mentioned at the first
+      part of your talk: who’s going to pay these tariffs? Is it going to be the American
+      consumers or the foreign exporters? Well, a lot of these tariffs won’t be paid
+      because the trade won’t exist. Foreigners cannot afford to gain access to the
+      American market paying these tariffs, and the Americans cannot afford to buy from
+      foreigners with these tariffs in. There’s going to be a shrinkage of world trade
+      in all sorts of connections that have been put in place for the last 80 years
+      have been pulled up. You’re going to have such an interruption of trade that the
+      real question of the BRICS facing them is, well, now if we can’t export to the
+      U.S. and we’re not going to import from the U.S., how do we make our trade and
+      investment with each other instead of with the United States? That’s what they
+      have to do. All of that is going to require the creation of new international
+      institutions, which Russia and China are taking the lead in trying to promote.
+      The United States is trying to prevent this. They’re trying to do everything they
+      can to break up the creation of any alternative. That’s what the Americans themselves
+      call this a clash of civilization. The American idea of civilization is the imposition
+      of the neoliberal financialized economy. And the alternative is autocracy, dictatorship,
+      like America will say you have in China. But America’s idea of democracy is client
+      dictatorships. This isn’t the democracy of countries that are growing and rejecting
+      client dictatorships and taking sovereignty for themselves. We’re dealing with
+      the fight not between American civilization and British civilization, but between
+      barbarism and the very principle of civilization based on international law, equality
+      of nations in terms of sovereignty, freedom from foreign interference, rules of
+      war making, all the rules that have been smashed by American policy in the last
+      few years. RICHARD WOLFF: I’d like, in the few moments we have left, to turn the
+      old free trade argument against all of it. The United States is closing itself
+      by a wall of protection. All these prices are going to be raised by virtue of
+      the tariffs imposed on them, more or less. And the important thing to keep in
+      mind is that in the rest of the world that is not following suit, the prices will
+      be lower than what they are in the United States. Not to the same extent everywhere,
+      but lower. That begins to be built into the price systems outside, that they become
+      more and more differentiated from the monopoly-protected prices inside the United
+      States. That will mean that the United States, as a capitalist totality, will
+      be in a deteriorating competitive position with the rest of the world, because
+      all the inputs here will be higher priced than their equivalents outside the protection
+      zone. That’s not a sustainable arrangement, or to put it another way, that will
+      become itself a mechanism that over time deteriorates and isolates the United
+      States’ capitalism from the rest of the world. So that’s not a viable strategy
+      either. The early moments of Mr. Trump throwing it around may look like some kind
+      of remarkable innovation, but we all know that the history of capitalism is the
+      history of oscillations between free trade and protection. We are not the first
+      ones to go through that. And the protection phase, which comes when free trade
+      doesn’t work, always turns out to be a dead end. In fact, that’s why we go back
+      to free trade again because we have a revulsion against the problems of a protection.
+      In sum, this is not discovering a new solution. This is hankering after an old
+      one that we should have learned doesn’t work. MICHAEL HUDSON: Well, this disparity
+      in prices is exactly what Britain was dealing with 200 years ago. It saw that
+      other countries had a natural price advantage because they could grow, for one
+      thing, they could grow their food and produce raw materials much less expensively
+      than Britain. So what did Britain do? Apart from reforming its own economy to
+      lower its costs, it said: “We’re going to colonize these countries and we’re going
+      to invest in them. We can take ownership of their advantages, ownership of their
+      land to produce food and ownership of their raw materials. Then, instead of those
+      countries getting the benefit of their low-cost of production, we British and
+      other colonialist European owners are going to carve out our ownership of these
+      countries’ natural patrimony, land, natural resources, and infrastructure for
+      ourselves. They’ll be part of our own economy, not the other countries’ economies.”
+      This perception of the threat of lower prices abroad led to British colonialism
+      and imperialism, and the development of financial imperialism in the form of multinational
+      corporations buying control of all of the basic resources and assets that had
+      made these other countries more naturally competitive than Europe (which had the
+      burden of its aristocracy and everything). That’s the kind of fight that is being
+      waged today. It’s as if we’re seeing a new attempt by Americans to do what the
+      European colonists did in taking over Africa and other countries, investing in
+      the global south, taking ownership of their resources, and denying the income
+      from these resources to their host countries. The global south is a host in the
+      sense of host to a parasite taking out its value. This is exactly the fight that
+      has to be recognized by the global majority countries. And I think it has been
+      recognized by Lavrov’s speech and by the Russians and certainly by the Chinese.
+      But the problem is: how are you going to get BRICS to admit this requires a really
+      radical restructuring of the world order? This is a civilizational fight. How
+      are we going to create a plan for this? So far, they really haven’t developed
+      a plan. There was talk about de-dollarization as if somehow that could cure the
+      problem, but that goes way beyond getting free of using the U.S. dollar. It’s
+      getting the economy free from the whole finance capitalist rentier organization
+      of the economy. Of course, that’s what industrial capitalism was supposed to be
+      doing as it evolved into socialism. So you’re right. The BRICS and global south
+      countries have to evolve into socialism. And the question is: can this be done
+      without a revolution? We posed that at the end of the last show. It took a revolution
+      in Russia in 1917, a revolution in China in 1945. Can the other BRICS countries
+      and the global majority achieve this alternative to the US-European exploitation
+      without a revolution? The United States is going to do whatever it can to fight
+      against it. And that’s what’s going to be determining the next few years of international
+      diplomacy. RICHARD WOLFF: I want to remind everyone not to be too gloomy here.
+      You saw the European economies go from the 19th century of more or less free trade
+      to the 20th century shifting over to colonization and protection of each colony,
+      a set of colonial properties one against the other. That eventuated in World Wars
+      I and II. That’s a reason why you don’t want to go down the road of protection,
+      accompanied by military forces to impose that protection. Notice that the budget
+      just passed by Mr. Trump expands the military and expands the police. That’s so-called
+      homeland security. Everything else is cut because you have to focus on protection
+      in all the meanings of that word. That has led to war over and over again, especially
+      as the beleaguered country tries to stop the others from protecting themselves.
+      What happens – and I’m not suggesting it, but – if and when the BRICS were to
+      sit down and, as a unit, respond to the tariffs of the United States with a uniform
+      tariff among them? Making themselves a common market, and the United States the
+      excluded one? People with a memory will see here the very evolution of colonial
+      empires – the American, the British, the German, the Japanese – which were the
+      20th century’s causes of the greatest world wars the human race has ever seen.
+      This is not a solution, what is being done here. This is an act of desperation
+      coming out of the grabbing that Michael talked to us at the beginning today. MICHAEL
+      HUDSON: Well, to create a common market is exactly what China is trying to do
+      with the Belt and Road Initiative. If you’re going to have trade among yourselves,
+      you need transportation. You need the Belt and Road. And that’s exactly what the
+      United States militarily is trying to do to block it in Afghanistan, in Iran,
+      with activities in Azerbaijan. This is exactly what the geopolitical fight of
+      the next few years is all about: trying to break the ability of other countries
+      to work together and to tear up all the connections, leaving no alternative but
+      depend upon the United States and Europe. That’s the new Cold War, and it is a
+      war of what kind of civilization is the world going to have, or at least the world
+      outside of the golden billion in the United States, Europe, and its allies. NIMA
+      ALKHORSHID: Thank you so much, Richard and Michael. Great pleasure, as always.
+      See you soon. Transcription and Diarization: hudsearch Editing and Review: Ton
+      Yeh Photo by Jon Tyson on Unsplash The post BRICS vs. the Rentier Economy first
+      appeared on Michael Hudson .'
+    one_sentence_summary: During the BRICS summit in Rio de Janeiro on July 10, 2025,
+      Richard Wolff and Michael Hudson discussed the urgent need for BRICS nations,
+      particularly Russia and China, to address U.S. tariffs and the broader implications
+      of U.S. actions on their alliance.
+    paragraph_summary: On July 10, 2025, during a summit in Rio de Janeiro, Richard
+      Wolff and Michael Hudson discussed the BRICS nations' response to U.S. tariffs
+      and foreign policy, particularly emphasizing the roles of Russia and China as
+      targets of U.S. aggression. Hudson noted that while Russia's leadership has articulated
+      the need for BRICS to break free from U.S. control, the group remains largely
+      reactive without concrete policies for establishing a viable alternative to the
+      U.S.-dominated neoliberal order. He pointed out that although the BRICS nations
+      are seeking reforms like higher quotas in the International Monetary Fund and
+      World Bank, these measures do not constitute a genuine alternative to the existing
+      system, which has historically benefited the U.S. but is now shifting under new
+      American policies.
+    published: '2025-07-17T12:24:57+00:00'
   - title: Why America No Longer Makes Its Own Future
     url: https://michael-hudson.com/2025/07/why-america-no-longer-makes-its-own-future/
     text: 'Dialogue Works NIMA ALKHORSHID: Hi, everybody. Today is Thursday, July 3rd,

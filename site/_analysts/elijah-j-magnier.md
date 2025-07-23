@@ -7,14 +7,1358 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The Israeli-Palestinian conflict continues to dominate the geopolitical landscape, with recent developments highlighting the deepening humanitarian crisis in Gaza and the persistent culture of impunity surrounding Israeli military actions. According to **Elijah J. Magnier**, Israel’s ongoing violations of international law—including targeted assassinations and collective punishment—are systematically overlooked or outright supported by Western powers. Magnier argues that this is driven by strategic alliances and a persistent narrative portraying Israel as a perpetual victim, despite mounting evidence of significant civilian casualties and widespread destruction.
+  As the conflict in Gaza surpasses the one-year mark, regional tensions remain high, with Israeli military operations intensifying and diplomatic prospects for a ceasefire appearing stalled in the immediate term. According to **Elijah J. Magnier**, Israeli Prime Minister Benjamin Netanyahu is under mounting domestic and international pressure to end hostilities, but has instead authorized a major offensive in Deir al-Balah. This escalation signals that no ceasefire agreement is likely before the Knesset’s summer session concludes on July 27. The ongoing campaign has now become Israel’s longest war since 1948, deepening political divisions within Israel and further destabilizing the region.
   
-  A particularly alarming development is the construction of what Israel terms a “Humanitarian City” in Rafah. As detailed by **Elijah J. Magnier**, this facility is, in reality, a mass internment camp for approximately 600,000 Palestinians. Ostensibly presented as a relief measure, the site is designed for strict military control and is seen as a precursor to forced deportation and resettlement. The area around Rafah has already suffered extensive devastation from ongoing military operations, compounding the suffering of the displaced population.
+  Meanwhile, Israel’s military posture on the Golan Heights continues to harden. As reported by **Elijah J. Magnier**, Israel has significantly reinforced its presence and is positioning troops for a potential deeper incursion into southern Syria. This move is interpreted as an attempt to dictate terms to Damascus and provoke instability, potentially paving the way for further territorial annexation. The Israeli government’s actions are widely seen as a strategic effort to secure its northern frontier and exert leverage over Syrian sovereignty.
   
-  The broader regional context is shaped by the lack of meaningful accountability for Israeli actions. Western governments, according to Magnier, continue to shield Israel from international legal consequences, enabling further escalation and undermining prospects for a negotiated settlement. This dynamic is reinforced by geopolitical interests that prioritize strategic partnerships over adherence to international norms.
-  
-  Looking ahead, the trends indicate a high likelihood that Israel will persist with its current policies, facing little effective pushback from its Western allies. As **Elijah J. Magnier** concludes, “there is a high chance” that the cycle of impunity and humanitarian crisis will continue unless there is a fundamental shift in the international approach to the conflict. I guarantee that, absent such a shift, the situation for Palestinians in Gaza—particularly those interned in Rafah—will most definitely deteriorate further, with forced displacement and long-term instability remaining the most probable outcomes.
+  Looking ahead, the consensus among analysts is that a Gaza ceasefire remains unlikely before July 27, but the situation could shift rapidly thereafter, especially as political pressure on Netanyahu intensifies. “There is a high chance that negotiations will resume in earnest after the Knesset session ends, with a possible breakthrough in early August,” predicts **Elijah J. Magnier**. The military build-up on the Golan Heights is expected to persist, with the risk of escalation into Syria remaining elevated. The broader trend points to continued volatility across the region, with Israel’s actions in both Gaza and Syria shaping the strategic landscape for the months ahead.
 articles:
+  - title: Pourquoi Benjamin Netanyahu a peu de chances de conclure un cessez-le-feu
+      à Gaza avant le 27 juillet — et pourquoi cela pourrait changer juste après
+    url: https://ejmagnier.com/2025/07/22/pourquoi-benjamin-netanyahu-a-peu-de-chances-de-conclure-un-cessez-le-feu-a-gaza-avant-le-27-juillet-et-pourquoi-cela-pourrait-changer-juste-apres/
+    text: 'Tweet Par Elijah J. Magnier Alors que la guerre à Gaza entre dans sa deuxième
+      année, le Premier ministre israélien Benjamin Netanyahu subit une pression croissante
+      de la part de l’état-major militaire, de ses alliés politiques et de ses partenaires
+      internationaux. Pourtant, en dépit des appels de plus en plus pressants en faveur
+      d’un cessez-le-feu, l’armée israélienne vient de lancer sa première offensive
+      majeure sur Deir al-Balah depuis le début de la guerre, forçant les civils à abandonner
+      leurs tentes pour la huitième fois. Cette escalade montre que Netanyahu ne prépare
+      pas d’accord avant le 27 juillet, dernier jour de la session d’été de la Knesset,
+      qui dure trois mois. Passé cette date, toutefois, le paysage politique pourrait
+      évoluer, augmentant considérablement les chances d’un cessez-le-feu. Il s’agit
+      de la guerre la plus longue d’Israël depuis 1948 — et de la seule où Tel-Aviv
+      a délibérément laissé ses soldats captifs. Malgré plusieurs opportunités de négociation,
+      le gouvernement a choisi de prolonger les combats plutôt que de ramener ses otages.
+      La pause parlementaire n’est pas qu’une formalité : c’est une échéance politique
+      cruciale. Jusqu’au 27 juillet, Netanyahu doit jongler entre ses partenaires d’extrême
+      droite, qui rejettent tout cessez-le-feu laissant le Hamas intact, et l’opinion
+      publique, qui exige la libération des captifs. Une fois la Knesset fermée, son
+      gouvernement bénéficiera d’un répit de trois mois, à l’abri des motions de censure.
+      Il pourra agir plus librement, sans risque d’effondrement immédiat de sa coalition.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Alors que la guerre à Gaza entre dans sa deuxième année, le
+      Premier ministre israélien Benjamin Netanyahu fait face à des pressions croissantes
+      pour un cessez-le-feu, mais a lancé une offensive majeure à Deir al-Balah, indiquant
+      qu'aucun accord n'est prévu avant la fin de la session d'été de la Knesset le
+      27 juillet.
+    paragraph_summary: As the war in Gaza enters its second year, Israeli Prime Minister
+      Benjamin Netanyahu faces mounting pressure from military leaders, political allies,
+      and international partners for a ceasefire. Despite increasing calls for a halt
+      to hostilities, the Israeli military has launched a significant offensive in Deir
+      al-Balah, displacing civilians for the eighth time. This escalation suggests that
+      Netanyahu is unlikely to pursue a ceasefire before July 27, the last day of the
+      Knesset's summer session, after which the political landscape may shift, potentially
+      increasing the chances for a ceasefire. This conflict marks Israel's longest war
+      since 1948, characterized by the government's choice to prolong fighting rather
+      than negotiate the release of captives. The upcoming parliamentary recess is seen
+      as a critical political deadline, allowing Netanyahu to navigate pressures from
+      far-right partners opposed to a ceasefire while addressing public demands for
+      the release of hostages. Once the Knesset is adjourned, his government will have
+      a three-month period free from immediate political threats, enabling more flexibility
+      in decision-making.
+    published: '2025-07-22T17:47:24+00:00'
+  - title: Pourquoi Benjamin Netanyahu a peu de chances de conclure un cessez-le-feu
+      à Gaza avant le 27 juillet — et pourquoi cela pourrait changer juste après
+    url: https://ejmagnier.com/2025/07/22/pourquoi-benjamin-netanyahu-a-peu-de-chances-de-conclure-un-cessez-le-feu-a-gaza-avant-le-27-juillet-et-pourquoi-cela-pourrait-changer-juste-apres/
+    text: 'Tweet Par Elijah J. Magnier Alors que la guerre à Gaza entre dans sa deuxième
+      année, le Premier ministre israélien Benjamin Netanyahu subit une pression croissante
+      de la part de l’état-major militaire, de ses alliés politiques et de ses partenaires
+      internationaux. Pourtant, en dépit des appels de plus en plus pressants en faveur
+      d’un cessez-le-feu, l’armée israélienne vient de lancer sa première offensive
+      majeure sur Deir al-Balah depuis le début de la guerre, forçant les civils à abandonner
+      leurs tentes pour la huitième fois. Cette escalade montre que Netanyahu ne prépare
+      pas d’accord avant le 27 juillet, dernier jour de la session d’été de la Knesset,
+      qui dure trois mois. Passé cette date, toutefois, le paysage politique pourrait
+      évoluer, augmentant considérablement les chances d’un cessez-le-feu. Il s’agit
+      de la guerre la plus longue d’Israël depuis 1948 — et de la seule où Tel-Aviv
+      a délibérément laissé ses soldats captifs. Malgré plusieurs opportunités de négociation,
+      le gouvernement a choisi de prolonger les combats plutôt que de ramener ses otages.
+      La pause parlementaire n’est pas qu’une formalité : c’est une échéance politique
+      cruciale. Jusqu’au 27 juillet, Netanyahu doit jongler entre ses partenaires d’extrême
+      droite, qui rejettent tout cessez-le-feu laissant le Hamas intact, et l’opinion
+      publique, qui exige la libération des captifs. Une fois la Knesset fermée, son
+      gouvernement bénéficiera d’un répit de trois mois, à l’abri des motions de censure.
+      Il pourra agir plus librement, sans risque d’effondrement immédiat de sa coalition.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Alors que la guerre à Gaza entre dans sa deuxième année, le
+      Premier ministre israélien Benjamin Netanyahu fait face à des pressions croissantes
+      pour un cessez-le-feu, mais a lancé une offensive majeure à Deir al-Balah, indiquant
+      qu'aucun accord n'est prévu avant la fin de la session d'été de la Knesset le
+      27 juillet.
+    paragraph_summary: As the war in Gaza enters its second year, Israeli Prime Minister
+      Benjamin Netanyahu faces mounting pressure from military leaders, political allies,
+      and international partners for a ceasefire. Despite increasing calls for a halt
+      to hostilities, the Israeli military has launched a significant offensive in Deir
+      al-Balah, displacing civilians for the eighth time. This escalation suggests that
+      Netanyahu is unlikely to pursue a ceasefire before July 27, the last day of the
+      Knesset's summer session, after which the political landscape may shift, potentially
+      increasing the chances for a ceasefire. This conflict marks Israel's longest war
+      since 1948, characterized by the government's choice to prolong fighting rather
+      than negotiate the release of captives. The upcoming parliamentary recess is seen
+      as a critical political deadline, allowing Netanyahu to navigate pressures from
+      far-right partners opposed to a ceasefire while addressing public demands for
+      the release of hostages. Once the Knesset is adjourned, his government will have
+      a three-month period free from immediate political threats, enabling more flexibility
+      in decision-making.
+    published: '2025-07-22T17:47:24+00:00'
+  - title: Why Benjamin Netanyahu Is Unlikely to Reach a Gaza Ceasefire Before 27 July—And
+      Why He Might, Right After?
+    url: https://ejmagnier.com/2025/07/22/why-benjamin-netanyahu-is-unlikely-to-reach-a-gaza-ceasefire-before-27-july-and-why-he-might-right-after/
+    text: Tweet By Elijah J. Magnier – As the war in Gaza enters its second year, Israeli
+      Prime Minister Benjamin Netanyahu is under growing pressure from military leadership,
+      political allies, and international partners. Yet despite mounting calls for a
+      ceasefire, the Israeli army has just launched its first significant push into
+      Deir al-Balah since the war began, forcing civilians to abandon their tents to
+      be displaced for the eight time. This latest escalation signals that Netanyahu
+      is not preparing to strike a deal before 27 July , the final day of the three-month
+      Knesset’s summer session. After that, however, the political landscape could shift,
+      dramatically increasing the chances of a ceasefire. This is Israel’s longest war
+      since 1948—and the only one in which Tel Aviv knowingly left its soldiers behind.
+      Despite multiple opportunities to negotiate their release, the government repeatedly
+      chose to prolong the fighting, placing the continuation of war above the return
+      of its own captives. The Knesset recess is not just a legislative formality—it
+      is a critical political threshold. Until 27 July , Netanyahu must navigate a tightrope
+      act, balancing far-right coalition partners who oppose any ceasefire that leaves
+      Hamas intact against growing public demands to free the prisoners. Once the Knesset
+      recess begins, however, Netanyahu’s government gains a three-month reprieve from
+      no-confidence votes and parliamentary threats. That window allows him to act more
+      freely without risking the immediate collapse of his coalition. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: As the war in Gaza enters its second year, Israeli Prime Minister
+      Netanyahu faces increasing pressure for a ceasefire while the Israeli army escalates
+      its operations, indicating no imminent resolution before the Knesset's summer
+      session ends on July 27, despite the conflict being Israel's longest since 1948.
+    paragraph_summary: As the war in Gaza approaches its second anniversary, Israeli
+      Prime Minister Benjamin Netanyahu faces increasing pressure from military leaders,
+      political allies, and international partners for a ceasefire. Despite this, the
+      Israeli army has intensified its operations in Deir al-Balah, displacing civilians
+      for the eighth time, indicating that Netanyahu is unlikely to pursue a deal before
+      the Knesset's summer session ends on July 27. This conflict, Israel's longest
+      since 1948, has seen the government prioritize military action over negotiating
+      the release of captured soldiers. The upcoming Knesset recess is crucial, as it
+      will provide Netanyahu a temporary reprieve from parliamentary challenges, potentially
+      allowing him to navigate the demands for a ceasefire amid pressure from far-right
+      coalition partners and the public's calls for the return of prisoners.
+    published: '2025-07-22T17:25:38+00:00'
+  - title: Why Benjamin Netanyahu Is Unlikely to Reach a Gaza Ceasefire Before 27 July—And
+      Why He Might, Right After?
+    url: https://ejmagnier.com/2025/07/22/why-benjamin-netanyahu-is-unlikely-to-reach-a-gaza-ceasefire-before-27-july-and-why-he-might-right-after/
+    text: Tweet By Elijah J. Magnier – As the war in Gaza enters its second year, Israeli
+      Prime Minister Benjamin Netanyahu is under growing pressure from military leadership,
+      political allies, and international partners. Yet despite mounting calls for a
+      ceasefire, the Israeli army has just launched its first significant push into
+      Deir al-Balah since the war began, forcing civilians to abandon their tents to
+      be displaced for the eight time. This latest escalation signals that Netanyahu
+      is not preparing to strike a deal before 27 July , the final day of the three-month
+      Knesset’s summer session. After that, however, the political landscape could shift,
+      dramatically increasing the chances of a ceasefire. This is Israel’s longest war
+      since 1948—and the only one in which Tel Aviv knowingly left its soldiers behind.
+      Despite multiple opportunities to negotiate their release, the government repeatedly
+      chose to prolong the fighting, placing the continuation of war above the return
+      of its own captives. The Knesset recess is not just a legislative formality—it
+      is a critical political threshold. Until 27 July , Netanyahu must navigate a tightrope
+      act, balancing far-right coalition partners who oppose any ceasefire that leaves
+      Hamas intact against growing public demands to free the prisoners. Once the Knesset
+      recess begins, however, Netanyahu’s government gains a three-month reprieve from
+      no-confidence votes and parliamentary threats. That window allows him to act more
+      freely without risking the immediate collapse of his coalition. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: As the war in Gaza enters its second year, Israeli Prime Minister
+      Netanyahu faces increasing pressure for a ceasefire while the Israeli army escalates
+      its operations, indicating no imminent resolution before the Knesset's summer
+      session ends on July 27, despite the conflict being Israel's longest since 1948.
+    paragraph_summary: As the war in Gaza approaches its second anniversary, Israeli
+      Prime Minister Benjamin Netanyahu faces increasing pressure from military leaders,
+      political allies, and international partners for a ceasefire. Despite this, the
+      Israeli army has intensified its operations in Deir al-Balah, displacing civilians
+      for the eighth time, indicating that Netanyahu is unlikely to pursue a deal before
+      the Knesset's summer session ends on July 27. This conflict, Israel's longest
+      since 1948, has seen the government prioritize military action over negotiating
+      the release of captured soldiers. The upcoming Knesset recess is crucial, as it
+      will provide Netanyahu a temporary reprieve from parliamentary challenges, potentially
+      allowing him to navigate the demands for a ceasefire amid pressure from far-right
+      coalition partners and the public's calls for the return of prisoners.
+    published: '2025-07-22T17:25:38+00:00'
+  - title: Warum Benjamin Netanjahu vor dem 27. Juli wahrscheinlich keinen Waffenstillstand
+      in Gaza erreichen wird – und warum er es unmittelbar danach tun könnte
+    url: https://ejmagnier.com/2025/07/22/warum-benjamin-netanjahu-vor-dem-27-juli-wahrscheinlich-keinen-waffenstillstand-in-gaza-erreichen-wird-und-warum-er-es-unmittelbar-danach-tun-konnte/
+    text: Tweet Von Elijah J. Magnier – Während der Krieg in Gaza in sein zweites Jahr
+      geht, steht der israelische Ministerpräsident Benjamin Netanjahu unter wachsendem
+      Druck seitens der Militärführung, seiner politischen Verbündeten und internationaler
+      Partner. Doch trotz der zunehmenden Forderungen nach einem Waffenstillstand hat
+      die israelische Armee gerade ihren ersten bedeutenden Vorstoß in Deir al-Balah
+      seit Kriegsbeginn gestartet. Diese jüngste Eskalation signalisiert, dass Netanjahu
+      nicht bereit ist, vor dem 27. Juli, dem letzten Tag der dreimonatigen Sommerpause
+      der Knesset, eine Einigung zu erzielen. Danach könnte sich jedoch die politische
+      Landschaft verändern und die Chancen für einen Waffenstillstand dramatisch steigen.
+      Dies ist Israels längster Krieg seit 1948 – und der einzige, in dem Tel Aviv seine
+      Soldaten wissentlich zurückließ. Trotz mehrfacher Verhandlungsmöglichkeiten über
+      ihre Freilassung entschied sich die Regierung immer wieder für eine Verlängerung
+      der Kämpfe und stellte die Fortsetzung des Krieges über die Rückkehr ihrer eigenen
+      Gefangenen. Die Knesset-Pause ist nicht nur eine legislative Formalität, sondern
+      eine entscheidende politische Schwelle. Bis zum 27. Juli muss Netanjahu einen
+      Drahtseilakt vollführen und zwischen seinen rechtsextremen Koalitionspartnern,
+      die einen Waffenstillstand ablehnen, der die Hamas ungeschoren lässt, und der
+      wachsenden Forderung der Öffentlichkeit nach Freilassung der Gefangenen balancieren.
+      Mit Beginn der Knesset-Pause gewinnt die Regierung Netanjahu jedoch drei Monate
+      Aufschub vor Misstrauensvoten und parlamentarischen Drohungen. Dieses Zeitfenster
+      ermöglicht es ihm, freier zu handeln, ohne den sofortigen Zusammenbruch seiner
+      Koalition zu riskieren. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet
+    one_sentence_summary: Der israelische Ministerpräsident Benjamin Netanjahu steht
+      unter Druck, während die israelische Armee einen bedeutenden Vorstoß in Gaza unternimmt,
+      was darauf hindeutet, dass er vor dem Ende der Knesset-Sommerpause am 27. Juli
+      keine Einigung über einen Waffenstillstand anstrebt, obwohl dies Israels längster
+      Krieg seit 1948 ist.
+    paragraph_summary: As the war in Gaza enters its second year, Israeli Prime Minister
+      Benjamin Netanyahu faces increasing pressure from military leaders, political
+      allies, and international partners to negotiate a ceasefire. Despite calls for
+      peace, the Israeli army has launched a significant offensive in Deir al-Balah,
+      indicating Netanyahu's unwillingness to reach an agreement before the Knesset's
+      summer recess ends on July 27. This conflict, Israel's longest since 1948, has
+      seen the government prioritize military action over the release of captured soldiers,
+      complicating negotiations. The upcoming Knesset break provides Netanyahu with
+      a crucial three-month period to navigate between his far-right coalition partners,
+      who oppose a ceasefire that spares Hamas, and public demands for prisoner releases,
+      allowing him to act with less immediate political risk.
+    published: '2025-07-22T17:13:06+00:00'
+  - title: Warum Benjamin Netanjahu vor dem 27. Juli wahrscheinlich keinen Waffenstillstand
+      in Gaza erreichen wird – und warum er es unmittelbar danach tun könnte
+    url: https://ejmagnier.com/2025/07/22/warum-benjamin-netanjahu-vor-dem-27-juli-wahrscheinlich-keinen-waffenstillstand-in-gaza-erreichen-wird-und-warum-er-es-unmittelbar-danach-tun-konnte/
+    text: Tweet Von Elijah J. Magnier – Während der Krieg in Gaza in sein zweites Jahr
+      geht, steht der israelische Ministerpräsident Benjamin Netanjahu unter wachsendem
+      Druck seitens der Militärführung, seiner politischen Verbündeten und internationaler
+      Partner. Doch trotz der zunehmenden Forderungen nach einem Waffenstillstand hat
+      die israelische Armee gerade ihren ersten bedeutenden Vorstoß in Deir al-Balah
+      seit Kriegsbeginn gestartet. Diese jüngste Eskalation signalisiert, dass Netanjahu
+      nicht bereit ist, vor dem 27. Juli, dem letzten Tag der dreimonatigen Sommerpause
+      der Knesset, eine Einigung zu erzielen. Danach könnte sich jedoch die politische
+      Landschaft verändern und die Chancen für einen Waffenstillstand dramatisch steigen.
+      Dies ist Israels längster Krieg seit 1948 – und der einzige, in dem Tel Aviv seine
+      Soldaten wissentlich zurückließ. Trotz mehrfacher Verhandlungsmöglichkeiten über
+      ihre Freilassung entschied sich die Regierung immer wieder für eine Verlängerung
+      der Kämpfe und stellte die Fortsetzung des Krieges über die Rückkehr ihrer eigenen
+      Gefangenen. Die Knesset-Pause ist nicht nur eine legislative Formalität, sondern
+      eine entscheidende politische Schwelle. Bis zum 27. Juli muss Netanjahu einen
+      Drahtseilakt vollführen und zwischen seinen rechtsextremen Koalitionspartnern,
+      die einen Waffenstillstand ablehnen, der die Hamas ungeschoren lässt, und der
+      wachsenden Forderung der Öffentlichkeit nach Freilassung der Gefangenen balancieren.
+      Mit Beginn der Knesset-Pause gewinnt die Regierung Netanjahu jedoch drei Monate
+      Aufschub vor Misstrauensvoten und parlamentarischen Drohungen. Dieses Zeitfenster
+      ermöglicht es ihm, freier zu handeln, ohne den sofortigen Zusammenbruch seiner
+      Koalition zu riskieren. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet
+    one_sentence_summary: Der israelische Ministerpräsident Benjamin Netanjahu steht
+      unter Druck, während die israelische Armee einen bedeutenden Vorstoß in Gaza unternimmt,
+      was darauf hindeutet, dass er vor dem Ende der Knesset-Sommerpause am 27. Juli
+      keine Einigung über einen Waffenstillstand anstrebt, obwohl dies Israels längster
+      Krieg seit 1948 ist.
+    paragraph_summary: As the war in Gaza enters its second year, Israeli Prime Minister
+      Benjamin Netanyahu faces increasing pressure from military leaders, political
+      allies, and international partners to negotiate a ceasefire. Despite calls for
+      peace, the Israeli army has launched a significant offensive in Deir al-Balah,
+      indicating Netanyahu's unwillingness to reach an agreement before the Knesset's
+      summer recess ends on July 27. This conflict, Israel's longest since 1948, has
+      seen the government prioritize military action over the release of captured soldiers,
+      complicating negotiations. The upcoming Knesset break provides Netanyahu with
+      a crucial three-month period to navigate between his far-right coalition partners,
+      who oppose a ceasefire that spares Hamas, and public demands for prisoner releases,
+      allowing him to act with less immediate political risk.
+    published: '2025-07-22T17:13:06+00:00'
+  - title: 'Israëls opbouw van de Golan Hoogvlakte: prelude op een strategische bezetting
+      van Zuid-Syrië'
+    url: https://ejmagnier.com/2025/07/20/israels-opbouw-van-de-golan-hoogvlakte-prelude-op-een-strategische-bezetting-van-zuid-syrie/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Israël
+      heeft zijn militaire aanwezigheid op de Golanhoogten sterk opgevoerd en meerdere
+      divisies ingezet in een houding die veel verder gaat dan verdediging. De Golan
+      werd ooit beschouwd als een rustiger front in vergelijking met Gaza of Zuid-Libanon,
+      maar staat nu centraal in de bredere strategische calculus van Israël. Premier
+      Benjamin Netanyahu positioneert zijn troepen voor een diepere inval in Syrië en
+      gedraagt zich daarbij niet als een regionale speler, maar als een dominante macht
+      die voorwaarden oplegt aan soevereine naties. Hij dicteert Damascus hoeveel troepen
+      het mag inzetten, welke wapens ze mogen dragen en hoe lang ze mogen blijven, ondanks
+      dat Suweida 75 kilometer van de Syrische hoofdstad ligt. Israël lijkt erop uit
+      te zijn om nieuwe instabiliteit in Zuid-Syrië uit te lokken en elke escalatie
+      – gefabriceerd of echt – te gebruiken als voorwendsel om meer Syrisch grondgebied
+      te annexeren. De rechtvaardiging is op dit moment slechts cosmetisch. De 210ste
+      Bashan Divisie blijft permanent gestationeerd in de Golanhoogten. Deze divisie
+      dient als ruggengraat van Israëls noordelijke verdediging en houdt toezicht op
+      routinepatrouilles, inlichtingenoperaties en paraatheid tegen invallen. Het omvat
+      eenheden zoals de 474e Golan Brigade en de 810e Hermon Brigade, gespecialiseerd
+      in operaties op grote hoogte. Dit is de permanente formatie die altijd in het
+      gebied aanwezig is. Onlangs heeft Israël de 98e divisie, ook bekend als de Fire
+      Formation, verplaatst van Gaza naar het noorden. Deze elite parachutistendivisie
+      is ontworpen voor snelle aanvallen, stedelijke gevechten en grensoverschrijdende
+      operaties. Haar komst naar de Golan markeert een verschuiving van beheersing naar
+      potentiële offensieve voorbereiding. Netanyahu heeft ook de inzet van een extra
+      reservedivisie aangekondigd, wat het totaal op drie divisies brengt die gestationeerd
+      zijn op of nabij de Golanhoogte. Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israël heeft zijn militaire aanwezigheid op de Golanhoogten
+      aanzienlijk versterkt en positioneert troepen voor een mogelijke diepere inval
+      in Syrië, waarbij het zich gedraagt als een dominante macht die de voorwaarden
+      voor de Syrische soevereiniteit dicteert.
+    paragraph_summary: Israël heeft zijn militaire aanwezigheid op de Golanhoogten aanzienlijk
+      versterkt door meerdere divisies in te zetten, wat wijst op een offensieve strategie
+      in plaats van louter defensie. Premier Benjamin Netanyahu positioneert troepen
+      voor een mogelijke diepere inval in Syrië, waarbij hij zich gedraagt als een dominante
+      macht die de voorwaarden dicteert aan soevereine landen, zoals het aantal Syrische
+      troepen en hun wapens. Deze veranderingen zijn bedoeld om nieuwe instabiliteit
+      in Zuid-Syrië te creëren, wat Israël de kans zou geven om meer Syrisch grondgebied
+      te annexeren. De 210ste Bashan Divisie blijft permanent in het gebied, terwijl
+      de elite 98e divisie recentelijk is verplaatst van Gaza naar de Golan, wat duidt
+      op een verschuiving naar offensieve voorbereidingen. Netanyahu heeft ook de inzet
+      van een extra reservisten-divisie aangekondigd, waardoor het totaal op drie divisies
+      komt die op of nabij de Golanhoogte zijn gestationeerd.
+    published: '2025-07-20T16:09:44+00:00'
+  - title: 'Israëls opbouw van de Golan Hoogvlakte: prelude op een strategische bezetting
+      van Zuid-Syrië'
+    url: https://ejmagnier.com/2025/07/20/israels-opbouw-van-de-golan-hoogvlakte-prelude-op-een-strategische-bezetting-van-zuid-syrie/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Israël
+      heeft zijn militaire aanwezigheid op de Golanhoogten sterk opgevoerd en meerdere
+      divisies ingezet in een houding die veel verder gaat dan verdediging. De Golan
+      werd ooit beschouwd als een rustiger front in vergelijking met Gaza of Zuid-Libanon,
+      maar staat nu centraal in de bredere strategische calculus van Israël. Premier
+      Benjamin Netanyahu positioneert zijn troepen voor een diepere inval in Syrië en
+      gedraagt zich daarbij niet als een regionale speler, maar als een dominante macht
+      die voorwaarden oplegt aan soevereine naties. Hij dicteert Damascus hoeveel troepen
+      het mag inzetten, welke wapens ze mogen dragen en hoe lang ze mogen blijven, ondanks
+      dat Suweida 75 kilometer van de Syrische hoofdstad ligt. Israël lijkt erop uit
+      te zijn om nieuwe instabiliteit in Zuid-Syrië uit te lokken en elke escalatie
+      – gefabriceerd of echt – te gebruiken als voorwendsel om meer Syrisch grondgebied
+      te annexeren. De rechtvaardiging is op dit moment slechts cosmetisch. De 210ste
+      Bashan Divisie blijft permanent gestationeerd in de Golanhoogten. Deze divisie
+      dient als ruggengraat van Israëls noordelijke verdediging en houdt toezicht op
+      routinepatrouilles, inlichtingenoperaties en paraatheid tegen invallen. Het omvat
+      eenheden zoals de 474e Golan Brigade en de 810e Hermon Brigade, gespecialiseerd
+      in operaties op grote hoogte. Dit is de permanente formatie die altijd in het
+      gebied aanwezig is. Onlangs heeft Israël de 98e divisie, ook bekend als de Fire
+      Formation, verplaatst van Gaza naar het noorden. Deze elite parachutistendivisie
+      is ontworpen voor snelle aanvallen, stedelijke gevechten en grensoverschrijdende
+      operaties. Haar komst naar de Golan markeert een verschuiving van beheersing naar
+      potentiële offensieve voorbereiding. Netanyahu heeft ook de inzet van een extra
+      reservedivisie aangekondigd, wat het totaal op drie divisies brengt die gestationeerd
+      zijn op of nabij de Golanhoogte. Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israël heeft zijn militaire aanwezigheid op de Golanhoogten
+      aanzienlijk versterkt en positioneert troepen voor een mogelijke diepere inval
+      in Syrië, waarbij het zich gedraagt als een dominante macht die de voorwaarden
+      voor de Syrische soevereiniteit dicteert.
+    paragraph_summary: Israël heeft zijn militaire aanwezigheid op de Golanhoogten aanzienlijk
+      versterkt door meerdere divisies in te zetten, wat wijst op een offensieve strategie
+      in plaats van louter defensie. Premier Benjamin Netanyahu positioneert troepen
+      voor een mogelijke diepere inval in Syrië, waarbij hij zich gedraagt als een dominante
+      macht die de voorwaarden dicteert aan soevereine landen, zoals het aantal Syrische
+      troepen en hun wapens. Deze veranderingen zijn bedoeld om nieuwe instabiliteit
+      in Zuid-Syrië te creëren, wat Israël de kans zou geven om meer Syrisch grondgebied
+      te annexeren. De 210ste Bashan Divisie blijft permanent in het gebied, terwijl
+      de elite 98e divisie recentelijk is verplaatst van Gaza naar de Golan, wat duidt
+      op een verschuiving naar offensieve voorbereidingen. Netanyahu heeft ook de inzet
+      van een extra reservisten-divisie aangekondigd, waardoor het totaal op drie divisies
+      komt die op of nabij de Golanhoogte zijn gestationeerd.
+    published: '2025-07-20T16:09:44+00:00'
+  - title: 'Israels Aufrüstung auf den Golanhöhen: Auftakt zu einer strategischen Besetzung
+      Süd-Syriens'
+    url: https://ejmagnier.com/2025/07/20/israels-aufrustung-auf-den-golanhohen-auftakt-zu-einer-strategischen-besetzung-sud-syriens/
+    text: Tweet Von Elijah J. Magnier – Israel hat seine militärische Präsenz auf den
+      Golanhöhen drastisch verstärkt und mehrere Divisionen in einer Haltung stationiert,
+      die weit über Verteidigung hinausgeht. Einst als ruhigerer Schauplatz im Vergleich
+      zu Gaza oder dem Südlibanon angesehen, ist der Golan nun zu einem zentralen Element
+      in Israels strategischen Überlegungen geworden. Premierminister Benjamin Netanjahu
+      positioniert seine Streitkräfte für einen tieferen Einmarsch in Syrien und verhält
+      sich dabei nicht wie ein regionaler Akteur, sondern wie eine dominante Macht,
+      die souveränen Nationen Bedingungen diktiert. Er schreibt Damaskus vor, wie viele
+      Truppen es einsetzen darf, welche Waffen sie tragen dürfen und wie lange sie bleiben
+      dürfen, obwohl Suweida nur 75 Kilometer von der syrischen Hauptstadt entfernt
+      liegt. Israel scheint entschlossen, neue Instabilität im Süden Syriens zu provozieren
+      und jede Eskalation – ob künstlich oder real – als Vorwand für die Annexion weiterer
+      syrischer Gebiete zu nutzen. Rechtfertigungen sind zu diesem Zeitpunkt nur noch
+      kosmetischer Natur. Die 210. Bashan-Division bleibt dauerhaft auf den Golanhöhen
+      stationiert. Diese Division bildet das Rückgrat der Verteidigung Israels im Norden
+      und überwacht Routinepatrouillen, Geheimdienstoperationen und die Bereitschaft
+      gegen Übergriffe. Sie umfasst Einheiten wie die 474. Golan-Brigade und die 810.
+      Hermon-Brigade, die auf Operationen in großer Höhe spezialisiert sind. Dies ist
+      die ständige Formation, die immer in diesem Gebiet präsent ist. Kürzlich hat Israel
+      die 98. Division, auch bekannt als „Feuerformation”, von Gaza in den Norden verlegt.
+      Diese Elite-Fallschirmjägerdivision ist auf schnelle Angriffe, Stadtkämpfe und
+      grenzüberschreitende Operationen zugeschnitten. Ihre Ankunft im Golan markiert
+      einen Wandel von der Eindämmung zu potenziellen Vorbereitungen für eine Offensive.
+      Netanjahu hat außerdem die Stationierung einer weiteren Reservedivision angekündigt,
+      sodass nun insgesamt drei Divisionen im oder in der Nähe des Golan stationiert
+      sind. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet
+    one_sentence_summary: Israel hat seine militärische Präsenz auf den Golanhöhen erheblich
+      verstärkt und positioniert seine Streitkräfte für einen möglichen tieferen Eingriff
+      in Syrien, während Premierminister Netanjahu Bedingungen an Damaskus diktiert
+      und damit die Region destabilisieren könnte.
+    paragraph_summary: Israel hat seine militärische Präsenz auf den Golanhöhen erheblich
+      verstärkt, indem mehrere Divisionen in einer offensiven Haltung stationiert wurden,
+      was die Region zu einem zentralen Element in Israels strategischen Überlegungen
+      macht. Premierminister Benjamin Netanjahu agiert nicht nur als regionaler Akteur,
+      sondern diktiert auch Bedingungen an Syrien, einschließlich der Truppenstärke
+      und der Waffen, die Damaskus einsetzen darf. Diese aggressive Positionierung zielt
+      darauf ab, Instabilität im Süden Syriens zu provozieren und könnte als Vorwand
+      für die Annexion weiterer Gebiete dienen. Die ständige Präsenz der 210. Bashan-Division
+      sowie die Verlegung der Elite-98. Division aus Gaza in den Norden deuten auf eine
+      strategische Wende hin, die auf offensive Operationen vorbereitet. Netanjahu hat
+      zudem die Stationierung einer weiteren Reservedivision angekündigt, was die militärische
+      Präsenz auf insgesamt drei Divisionen erhöht.
+    published: '2025-07-20T16:03:45+00:00'
+  - title: 'Israels Aufrüstung auf den Golanhöhen: Auftakt zu einer strategischen Besetzung
+      Süd-Syriens'
+    url: https://ejmagnier.com/2025/07/20/israels-aufrustung-auf-den-golanhohen-auftakt-zu-einer-strategischen-besetzung-sud-syriens/
+    text: Tweet Von Elijah J. Magnier – Israel hat seine militärische Präsenz auf den
+      Golanhöhen drastisch verstärkt und mehrere Divisionen in einer Haltung stationiert,
+      die weit über Verteidigung hinausgeht. Einst als ruhigerer Schauplatz im Vergleich
+      zu Gaza oder dem Südlibanon angesehen, ist der Golan nun zu einem zentralen Element
+      in Israels strategischen Überlegungen geworden. Premierminister Benjamin Netanjahu
+      positioniert seine Streitkräfte für einen tieferen Einmarsch in Syrien und verhält
+      sich dabei nicht wie ein regionaler Akteur, sondern wie eine dominante Macht,
+      die souveränen Nationen Bedingungen diktiert. Er schreibt Damaskus vor, wie viele
+      Truppen es einsetzen darf, welche Waffen sie tragen dürfen und wie lange sie bleiben
+      dürfen, obwohl Suweida nur 75 Kilometer von der syrischen Hauptstadt entfernt
+      liegt. Israel scheint entschlossen, neue Instabilität im Süden Syriens zu provozieren
+      und jede Eskalation – ob künstlich oder real – als Vorwand für die Annexion weiterer
+      syrischer Gebiete zu nutzen. Rechtfertigungen sind zu diesem Zeitpunkt nur noch
+      kosmetischer Natur. Die 210. Bashan-Division bleibt dauerhaft auf den Golanhöhen
+      stationiert. Diese Division bildet das Rückgrat der Verteidigung Israels im Norden
+      und überwacht Routinepatrouillen, Geheimdienstoperationen und die Bereitschaft
+      gegen Übergriffe. Sie umfasst Einheiten wie die 474. Golan-Brigade und die 810.
+      Hermon-Brigade, die auf Operationen in großer Höhe spezialisiert sind. Dies ist
+      die ständige Formation, die immer in diesem Gebiet präsent ist. Kürzlich hat Israel
+      die 98. Division, auch bekannt als „Feuerformation”, von Gaza in den Norden verlegt.
+      Diese Elite-Fallschirmjägerdivision ist auf schnelle Angriffe, Stadtkämpfe und
+      grenzüberschreitende Operationen zugeschnitten. Ihre Ankunft im Golan markiert
+      einen Wandel von der Eindämmung zu potenziellen Vorbereitungen für eine Offensive.
+      Netanjahu hat außerdem die Stationierung einer weiteren Reservedivision angekündigt,
+      sodass nun insgesamt drei Divisionen im oder in der Nähe des Golan stationiert
+      sind. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet
+    one_sentence_summary: Israel hat seine militärische Präsenz auf den Golanhöhen erheblich
+      verstärkt und positioniert seine Streitkräfte für einen möglichen tieferen Eingriff
+      in Syrien, während Premierminister Netanjahu Bedingungen an Damaskus diktiert
+      und damit die Region destabilisieren könnte.
+    paragraph_summary: Israel hat seine militärische Präsenz auf den Golanhöhen erheblich
+      verstärkt, indem mehrere Divisionen in einer offensiven Haltung stationiert wurden,
+      was die Region zu einem zentralen Element in Israels strategischen Überlegungen
+      macht. Premierminister Benjamin Netanjahu agiert nicht nur als regionaler Akteur,
+      sondern diktiert auch Bedingungen an Syrien, einschließlich der Truppenstärke
+      und der Waffen, die Damaskus einsetzen darf. Diese aggressive Positionierung zielt
+      darauf ab, Instabilität im Süden Syriens zu provozieren und könnte als Vorwand
+      für die Annexion weiterer Gebiete dienen. Die ständige Präsenz der 210. Bashan-Division
+      sowie die Verlegung der Elite-98. Division aus Gaza in den Norden deuten auf eine
+      strategische Wende hin, die auf offensive Operationen vorbereitet. Netanjahu hat
+      zudem die Stationierung einer weiteren Reservedivision angekündigt, was die militärische
+      Präsenz auf insgesamt drei Divisionen erhöht.
+    published: '2025-07-20T16:03:45+00:00'
+  - title: 'Le renforcement Israelian sur le plateau du Golan : prélude à une occupation
+      stratégique du sud de la Syrie'
+    url: https://ejmagnier.com/2025/07/20/le-renforcement-israelian-sur-le-plateau-du-golan-prelude-a-une-occupation-strategique-du-sud-de-la-syrie/
+    text: 'Tweet Par Elijah J. Magnier Israël a considérablement accru sa présence militaire
+      sur le plateau du Golan, déployant plusieurs divisions dans une posture qui dépasse
+      largement la simple défense. Autrefois considéré comme un front plus calme par
+      rapport à Gaza ou au sud du Liban, le Golan est désormais au cœur du calcul stratégique
+      plus large d’Israël. Le Premier ministre Benjamin Netanyahou positionne ses forces
+      en vue d’une incursion plus profonde en Syrie, agissant non pas comme un acteur
+      régional, mais comme une puissance dominante imposant ses conditions à des nations
+      souveraines. Il dicte à Damas combien de soldats elle peut déployer, quels armements
+      ils peuvent porter, et pour combien de temps ils peuvent rester, bien que Soueïda
+      se situe à 75–100 kilomètres de la capitale syrienne. Israël semble déterminé
+      à provoquer une nouvelle instabilité dans le sud syrien, utilisant toute escalade
+      — réelle ou fabriquée — comme prétexte pour annexer davantage de territoire syrien.
+      La justification n’est plus qu’un habillage. La 210e division Bashan reste stationnée
+      en permanence sur le plateau du Golan. Elle constitue la colonne vertébrale de
+      la défense nord d’Israël, assurant des patrouilles de routine, des opérations
+      de renseignement et une préparation face à d’éventuelles incursions. Elle comprend
+      des unités telles que la 474e brigade du Golan et la 810e brigade de l’Hermon,
+      spécialisées dans les opérations en haute altitude. C’est la formation permanente
+      présente dans la région. Récemment, Israël a redéployé la 98e division, également
+      connue sous le nom de “Formation du Feu”, du front de Gaza vers le nord. Cette
+      division d’élite de parachutistes est conçue pour les assauts rapides, le combat
+      urbain et les opérations transfrontalières. Son arrivée au Golan marque un passage
+      d’une logique de confinement à une préparation potentielle d’offensive. Netanyahou
+      a également annoncé le déploiement d’une division de réserve supplémentaire, portant
+      à trois le nombre total de divisions stationnées dans ou à proximité du Golan.
+      Cette mobilisation de trois divisions n’est pas arbitraire. D’un point de vue
+      militaire, ce chiffre permet à Israël de mener des opérations simultanées : maintenir
+      le contrôle territorial, sécuriser la frontière et projeter sa force au-delà.
+      Avec les affrontements récents à Soueïda entre l’armée syrienne d’Ahmad al-Charra,
+      les tribus bédouines locales et les milices druzes, Israël y voit une fenêtre
+      d’opportunité, malgré le cessez-le-feu fragile rompu par les États-Unis entre
+      Israël et la Syrie. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Les Druzes de Soueïda ont déjà connu ce scénario. En
+      1946, alors que la Syrie sortait de la tutelle française, les Druzes — dirigés
+      par le puissant clan al-Atrash — ont revendiqué une autonomie régionale en reconnaissance
+      de leur rôle décisif dans l’expulsion des Français et l’instauration de l’autogouvernance
+      avant même l’indépendance nationale. Nationalistes arabes fiers, ils ont refusé
+      d’être marginalisés par un gouvernement centralisé à Damas, qui ignorait leurs
+      sacrifices et cherchait à les priver d’autorité politique et de soutien économique.
+      Le président Shukri al-Quwatli n’a pas répondu par le dialogue, mais par la répression.
+      Son gouvernement a usé de tactiques de division, finançant des factions druzes
+      rivales et utilisant les Bédouins de la province pour affaiblir l’influence des
+      Atrash et provoquer des conflits internes dans le Jabal al-Arab. Ce conflit destructeur
+      a laissé les Druzes de Bani Ma‘rouf politiquement isolés et militairement assiégés.
+      Aujourd’hui, les parallèles sont frappants. Sous la direction d’Ahmad al-Charra,
+      les Druzes de Soueïda ont de nouveau affirmé leur autonomie locale et leur autosuffisance
+      militaire, avec un soutien vocal d’Israël, pour se retrouver une fois de plus
+      isolés politiquement. Mais la nature de la menace a changé. Dans les années 1940,
+      c’était l’État syrien centralisateur ; aujourd’hui, c’est l’ambition d’Israël.
+      Le Premier ministre Benjamin Netanyahou a déclaré certaines zones du sud syrien
+      — notamment Soueïda et Deraa — comme des “zones démilitarisées” de facto sous
+      contrôle israélien. Prétextant que Damas avait violé cet arrangement imposé, Netanyahou
+      a ordonné le bombardement du ministère syrien de la Défense, puis annoncé que
+      le cessez-le-feu en résultant avait été obtenu non par négociation, mais par la
+      force israélienne. L’agenda de Netanyahou est à la fois stratégique et démographique.
+      Les 750 000 Druzes de Soueïda pourraient renforcer la mainmise d’Israël sur le
+      Golan, offrant une zone tampon pour sécuriser la frontière nord et un vivier potentiel
+      de recrues militaires et policières. Bien que les modèles de conscription suggèrent
+      que 10 000 à 20 000 hommes druzes pourraient être éligibles au service, cela ne
+      garantit ni leur loyauté ni leur participation. Les Druzes de Soueïda ont une
+      longue histoire de résistance à la domination étrangère et beaucoup refuseraient
+      probablement l’intégration dans les forces israéliennes. Néanmoins, dans une perspective
+      stratégique israélienne, Soueïda représente une opportunité de renforcer le contrôle
+      sur plus de trente colonies — abritant entre 25 000 et 31 000 colons israéliens
+      — sur un territoire autrefois indiscutablement syrien. Intégrer Soueïda dans cet
+      ensemble consoliderait de facto l’annexion israélienne et la rapprocherait d’un
+      état de permanence, soutenue par des changements démographiques et un ancrage
+      territorial renforcé. Annexer davantage de territoire renforcerait l’image de
+      grandeur de Netanyahou en Israël et ajouterait à ses nombreux “succès” proclamés.
+      Nombreux sont ceux qui ont lié ce renforcement militaire au concept spéculatif
+      de “corridor de David”, une hypothétique voie terrestre reliant le Golan au sud
+      syrien jusqu’à la frontière irakienne. Mais cette idée est profondément erronée.
+      Elle impliquerait de traverser près de 200 kilomètres de désert à découvert, une
+      zone vulnérable militairement où les forces israéliennes seraient exposées à des
+      embuscades et à des difficultés logistiques constantes. Sans couverture aérienne
+      en territoire ennemi et sans alliés locaux, ce corridor n’est pas une voie viable
+      pour une influence israélienne durable en Irak. Une telle manœuvre affaiblirait
+      plutôt Israël qu’elle ne renforcerait sa posture dissuasive. Le discours autour
+      de ce corridor sert donc davantage à gonfler les ambitions stratégiques israéliennes
+      qu’à refléter des objectifs militaires réalistes. Le véritable objectif est plus
+      proche : sécuriser le sud de la Syrie, empêcher le retour de forces hostiles à
+      la frontière du Golan, et potentiellement intégrer de nouveaux territoires sous
+      prétexte de sécurité et de proximité ethnique avec la population druze. La rhétorique
+      de Netanyahou confirme cette trajectoire. Dans une déclaration audacieuse, il
+      a affirmé qu’Israël avait “établi une zone démilitarisée au sud de Damas” et accusé
+      le gouvernement syrien d’en avoir violé les paramètres. Il a revendiqué l’entière
+      responsabilité de la frappe aérienne israélienne contre le ministère syrien de
+      la Défense à Damas, la qualifiant de mesure punitive visant à faire respecter
+      les règles imposées par Israël — à l’image de son rôle historique au Liban en
+      1982. “Le cessez-le-feu a été obtenu par la force, pas par des demandes”, s’est-il
+      vanté, soulignant une doctrine de coercition. “Nous obtenons la paix et la sécurité
+      par la force”, a-t-il ajouté, déclarant que la stratégie israélienne se poursuivrait
+      sur sept fronts : Gaza, Cisjordanie, Liban, Syrie, Iran, et Yémen. Son insistance
+      à empêcher l’armée syrienne de progresser vers le sud de Damas souligne l’existence
+      d’un véritable cordon militaire israélien s’étendant sur les provinces méridionales
+      de la Syrie — une zone désormais traitée comme une zone tampon israélienne de
+      facto. La légalité et la viabilité à long terme de telles politiques restent profondément
+      contestables. La résolution 497 du Conseil de sécurité de l’ONU déclare l’annexion
+      du Golan par Israël “nulle et non avenue”, et toute occupation supplémentaire
+      risque une condamnation internationale. Pourtant, l’influence grandissante d’Israël
+      — soutenue par la couverture diplomatique américaine et les armes occidentales
+      — se poursuit en grande partie sans entrave. L’annexion du sud syrien, si elle
+      a lieu, signalerait une redéfinition spectaculaire des frontières régionales par
+      la force unilatérale. Les États-Unis couvriront sans aucun doute la violation
+      israélienne de la souveraineté syrienne en invoquant la rhétorique habituelle
+      : “Israël a le droit de se défendre”, même si aucun Syrien n’a tiré un seul coup
+      de feu contre les forces d’occupation israéliennes dans le sud de la Syrie. Cette
+      situation est aggravée par la “stratégie des sept fronts” d’Israël, une doctrine
+      de sécurité globale qui traite les menaces simultanées comme des champs de bataille
+      interconnectés. Bien que conçue pour la dissuasion, cette politique multi-fronts
+      comporte un risque réel de surextension. Un engagement militaire à Gaza, en Cisjordanie,
+      au Liban, et désormais en Syrie, combiné à des opérations clandestines contre
+      l’Iran et une implication dans le conflit au Yémen, met à rude épreuve les effectifs
+      et les ressources d’Israël, qui dépendent du soutien des États-Unis et de l’OTAN.
+      Le fardeau de maintenir le contrôle sur des territoires volatiles et d’étendre
+      l’occupation pourrait en fin de compte affaiblir, plutôt que sécuriser, la position
+      d’Israël. Les actions actuelles d’Israël suggèrent qu’il ne se prépare pas à une
+      opération de courte durée, mais qu’il jette les bases d’une présence stratégique
+      à long terme dans le sud de la Syrie. Si cette stratégie n’est pas contestée —
+      et elle ne le sera probablement pas —, elle pourrait redessiner la carte géopolitique
+      de la région et inaugurer une nouvelle phase d’occupation prolongée sous justification
+      militaire. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Israël a renforcé sa présence militaire sur le plateau du
+      Golan, adoptant une posture offensive qui lui permet de dicter les conditions
+      militaires de la Syrie, tout en cherchant à provoquer une instabilité dans le
+      sud du pays pour justifier l'annexion de territoires supplémentaires.
+    paragraph_summary: Israël a considérablement renforcé sa présence militaire sur
+      le plateau du Golan, déployant plusieurs divisions dans une posture qui va au-delà
+      de la simple défense, alors que le Premier ministre Benjamin Netanyahou prépare
+      une éventuelle incursion en Syrie. Ce territoire, autrefois perçu comme un front
+      calme, devient un élément central de la stratégie israélienne, avec Netanyahou
+      dictant à Damas les conditions de déploiement de ses forces. Israël semble vouloir
+      provoquer une nouvelle instabilité dans le sud de la Syrie, utilisant des escalades
+      comme prétexte pour annexer davantage de territoire. La 210e division Bashan,
+      stationnée en permanence, assure la défense nord d'Israël, tandis que la redéploiement
+      de la 98e division vers le Golan indique un changement vers une préparation offensive.
+      Au total, trois divisions sont désormais présentes dans la région, signalant une
+      intensification des opérations militaires israéliennes.
+    published: '2025-07-20T05:18:00+00:00'
+  - title: 'Le renforcement Israelian sur le plateau du Golan : prélude à une occupation
+      stratégique du sud de la Syrie'
+    url: https://ejmagnier.com/2025/07/20/le-renforcement-israelian-sur-le-plateau-du-golan-prelude-a-une-occupation-strategique-du-sud-de-la-syrie/
+    text: 'Tweet Par Elijah J. Magnier Israël a considérablement accru sa présence militaire
+      sur le plateau du Golan, déployant plusieurs divisions dans une posture qui dépasse
+      largement la simple défense. Autrefois considéré comme un front plus calme par
+      rapport à Gaza ou au sud du Liban, le Golan est désormais au cœur du calcul stratégique
+      plus large d’Israël. Le Premier ministre Benjamin Netanyahou positionne ses forces
+      en vue d’une incursion plus profonde en Syrie, agissant non pas comme un acteur
+      régional, mais comme une puissance dominante imposant ses conditions à des nations
+      souveraines. Il dicte à Damas combien de soldats elle peut déployer, quels armements
+      ils peuvent porter, et pour combien de temps ils peuvent rester, bien que Soueïda
+      se situe à 75–100 kilomètres de la capitale syrienne. Israël semble déterminé
+      à provoquer une nouvelle instabilité dans le sud syrien, utilisant toute escalade
+      — réelle ou fabriquée — comme prétexte pour annexer davantage de territoire syrien.
+      La justification n’est plus qu’un habillage. La 210e division Bashan reste stationnée
+      en permanence sur le plateau du Golan. Elle constitue la colonne vertébrale de
+      la défense nord d’Israël, assurant des patrouilles de routine, des opérations
+      de renseignement et une préparation face à d’éventuelles incursions. Elle comprend
+      des unités telles que la 474e brigade du Golan et la 810e brigade de l’Hermon,
+      spécialisées dans les opérations en haute altitude. C’est la formation permanente
+      présente dans la région. Récemment, Israël a redéployé la 98e division, également
+      connue sous le nom de “Formation du Feu”, du front de Gaza vers le nord. Cette
+      division d’élite de parachutistes est conçue pour les assauts rapides, le combat
+      urbain et les opérations transfrontalières. Son arrivée au Golan marque un passage
+      d’une logique de confinement à une préparation potentielle d’offensive. Netanyahou
+      a également annoncé le déploiement d’une division de réserve supplémentaire, portant
+      à trois le nombre total de divisions stationnées dans ou à proximité du Golan.
+      Cette mobilisation de trois divisions n’est pas arbitraire. D’un point de vue
+      militaire, ce chiffre permet à Israël de mener des opérations simultanées : maintenir
+      le contrôle territorial, sécuriser la frontière et projeter sa force au-delà.
+      Avec les affrontements récents à Soueïda entre l’armée syrienne d’Ahmad al-Charra,
+      les tribus bédouines locales et les milices druzes, Israël y voit une fenêtre
+      d’opportunité, malgré le cessez-le-feu fragile rompu par les États-Unis entre
+      Israël et la Syrie. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Les Druzes de Soueïda ont déjà connu ce scénario. En
+      1946, alors que la Syrie sortait de la tutelle française, les Druzes — dirigés
+      par le puissant clan al-Atrash — ont revendiqué une autonomie régionale en reconnaissance
+      de leur rôle décisif dans l’expulsion des Français et l’instauration de l’autogouvernance
+      avant même l’indépendance nationale. Nationalistes arabes fiers, ils ont refusé
+      d’être marginalisés par un gouvernement centralisé à Damas, qui ignorait leurs
+      sacrifices et cherchait à les priver d’autorité politique et de soutien économique.
+      Le président Shukri al-Quwatli n’a pas répondu par le dialogue, mais par la répression.
+      Son gouvernement a usé de tactiques de division, finançant des factions druzes
+      rivales et utilisant les Bédouins de la province pour affaiblir l’influence des
+      Atrash et provoquer des conflits internes dans le Jabal al-Arab. Ce conflit destructeur
+      a laissé les Druzes de Bani Ma‘rouf politiquement isolés et militairement assiégés.
+      Aujourd’hui, les parallèles sont frappants. Sous la direction d’Ahmad al-Charra,
+      les Druzes de Soueïda ont de nouveau affirmé leur autonomie locale et leur autosuffisance
+      militaire, avec un soutien vocal d’Israël, pour se retrouver une fois de plus
+      isolés politiquement. Mais la nature de la menace a changé. Dans les années 1940,
+      c’était l’État syrien centralisateur ; aujourd’hui, c’est l’ambition d’Israël.
+      Le Premier ministre Benjamin Netanyahou a déclaré certaines zones du sud syrien
+      — notamment Soueïda et Deraa — comme des “zones démilitarisées” de facto sous
+      contrôle israélien. Prétextant que Damas avait violé cet arrangement imposé, Netanyahou
+      a ordonné le bombardement du ministère syrien de la Défense, puis annoncé que
+      le cessez-le-feu en résultant avait été obtenu non par négociation, mais par la
+      force israélienne. L’agenda de Netanyahou est à la fois stratégique et démographique.
+      Les 750 000 Druzes de Soueïda pourraient renforcer la mainmise d’Israël sur le
+      Golan, offrant une zone tampon pour sécuriser la frontière nord et un vivier potentiel
+      de recrues militaires et policières. Bien que les modèles de conscription suggèrent
+      que 10 000 à 20 000 hommes druzes pourraient être éligibles au service, cela ne
+      garantit ni leur loyauté ni leur participation. Les Druzes de Soueïda ont une
+      longue histoire de résistance à la domination étrangère et beaucoup refuseraient
+      probablement l’intégration dans les forces israéliennes. Néanmoins, dans une perspective
+      stratégique israélienne, Soueïda représente une opportunité de renforcer le contrôle
+      sur plus de trente colonies — abritant entre 25 000 et 31 000 colons israéliens
+      — sur un territoire autrefois indiscutablement syrien. Intégrer Soueïda dans cet
+      ensemble consoliderait de facto l’annexion israélienne et la rapprocherait d’un
+      état de permanence, soutenue par des changements démographiques et un ancrage
+      territorial renforcé. Annexer davantage de territoire renforcerait l’image de
+      grandeur de Netanyahou en Israël et ajouterait à ses nombreux “succès” proclamés.
+      Nombreux sont ceux qui ont lié ce renforcement militaire au concept spéculatif
+      de “corridor de David”, une hypothétique voie terrestre reliant le Golan au sud
+      syrien jusqu’à la frontière irakienne. Mais cette idée est profondément erronée.
+      Elle impliquerait de traverser près de 200 kilomètres de désert à découvert, une
+      zone vulnérable militairement où les forces israéliennes seraient exposées à des
+      embuscades et à des difficultés logistiques constantes. Sans couverture aérienne
+      en territoire ennemi et sans alliés locaux, ce corridor n’est pas une voie viable
+      pour une influence israélienne durable en Irak. Une telle manœuvre affaiblirait
+      plutôt Israël qu’elle ne renforcerait sa posture dissuasive. Le discours autour
+      de ce corridor sert donc davantage à gonfler les ambitions stratégiques israéliennes
+      qu’à refléter des objectifs militaires réalistes. Le véritable objectif est plus
+      proche : sécuriser le sud de la Syrie, empêcher le retour de forces hostiles à
+      la frontière du Golan, et potentiellement intégrer de nouveaux territoires sous
+      prétexte de sécurité et de proximité ethnique avec la population druze. La rhétorique
+      de Netanyahou confirme cette trajectoire. Dans une déclaration audacieuse, il
+      a affirmé qu’Israël avait “établi une zone démilitarisée au sud de Damas” et accusé
+      le gouvernement syrien d’en avoir violé les paramètres. Il a revendiqué l’entière
+      responsabilité de la frappe aérienne israélienne contre le ministère syrien de
+      la Défense à Damas, la qualifiant de mesure punitive visant à faire respecter
+      les règles imposées par Israël — à l’image de son rôle historique au Liban en
+      1982. “Le cessez-le-feu a été obtenu par la force, pas par des demandes”, s’est-il
+      vanté, soulignant une doctrine de coercition. “Nous obtenons la paix et la sécurité
+      par la force”, a-t-il ajouté, déclarant que la stratégie israélienne se poursuivrait
+      sur sept fronts : Gaza, Cisjordanie, Liban, Syrie, Iran, et Yémen. Son insistance
+      à empêcher l’armée syrienne de progresser vers le sud de Damas souligne l’existence
+      d’un véritable cordon militaire israélien s’étendant sur les provinces méridionales
+      de la Syrie — une zone désormais traitée comme une zone tampon israélienne de
+      facto. La légalité et la viabilité à long terme de telles politiques restent profondément
+      contestables. La résolution 497 du Conseil de sécurité de l’ONU déclare l’annexion
+      du Golan par Israël “nulle et non avenue”, et toute occupation supplémentaire
+      risque une condamnation internationale. Pourtant, l’influence grandissante d’Israël
+      — soutenue par la couverture diplomatique américaine et les armes occidentales
+      — se poursuit en grande partie sans entrave. L’annexion du sud syrien, si elle
+      a lieu, signalerait une redéfinition spectaculaire des frontières régionales par
+      la force unilatérale. Les États-Unis couvriront sans aucun doute la violation
+      israélienne de la souveraineté syrienne en invoquant la rhétorique habituelle
+      : “Israël a le droit de se défendre”, même si aucun Syrien n’a tiré un seul coup
+      de feu contre les forces d’occupation israéliennes dans le sud de la Syrie. Cette
+      situation est aggravée par la “stratégie des sept fronts” d’Israël, une doctrine
+      de sécurité globale qui traite les menaces simultanées comme des champs de bataille
+      interconnectés. Bien que conçue pour la dissuasion, cette politique multi-fronts
+      comporte un risque réel de surextension. Un engagement militaire à Gaza, en Cisjordanie,
+      au Liban, et désormais en Syrie, combiné à des opérations clandestines contre
+      l’Iran et une implication dans le conflit au Yémen, met à rude épreuve les effectifs
+      et les ressources d’Israël, qui dépendent du soutien des États-Unis et de l’OTAN.
+      Le fardeau de maintenir le contrôle sur des territoires volatiles et d’étendre
+      l’occupation pourrait en fin de compte affaiblir, plutôt que sécuriser, la position
+      d’Israël. Les actions actuelles d’Israël suggèrent qu’il ne se prépare pas à une
+      opération de courte durée, mais qu’il jette les bases d’une présence stratégique
+      à long terme dans le sud de la Syrie. Si cette stratégie n’est pas contestée —
+      et elle ne le sera probablement pas —, elle pourrait redessiner la carte géopolitique
+      de la région et inaugurer une nouvelle phase d’occupation prolongée sous justification
+      militaire. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Israël a renforcé sa présence militaire sur le plateau du
+      Golan, adoptant une posture offensive qui lui permet de dicter les conditions
+      militaires de la Syrie, tout en cherchant à provoquer une instabilité dans le
+      sud du pays pour justifier l'annexion de territoires supplémentaires.
+    paragraph_summary: Israël a considérablement renforcé sa présence militaire sur
+      le plateau du Golan, déployant plusieurs divisions dans une posture qui va au-delà
+      de la simple défense, alors que le Premier ministre Benjamin Netanyahou prépare
+      une éventuelle incursion en Syrie. Ce territoire, autrefois perçu comme un front
+      calme, devient un élément central de la stratégie israélienne, avec Netanyahou
+      dictant à Damas les conditions de déploiement de ses forces. Israël semble vouloir
+      provoquer une nouvelle instabilité dans le sud de la Syrie, utilisant des escalades
+      comme prétexte pour annexer davantage de territoire. La 210e division Bashan,
+      stationnée en permanence, assure la défense nord d'Israël, tandis que la redéploiement
+      de la 98e division vers le Golan indique un changement vers une préparation offensive.
+      Au total, trois divisions sont désormais présentes dans la région, signalant une
+      intensification des opérations militaires israéliennes.
+    published: '2025-07-20T05:18:00+00:00'
+  - title: 'Israel’s Golan Heights Build-Up: Prelude to a Strategic Occupation of Southern
+      Syria'
+    url: https://ejmagnier.com/2025/07/20/israels-golan-heights-build-up-prelude-to-a-strategic-occupation-of-southern-syria/
+    text: Tweet By Elijah J. Magnier – Israel has sharply escalated its military presence
+      in the Golan Heights, deploying multiple divisions in a posture that goes well
+      beyond defence. Once considered a quieter front compared to Gaza or southern Lebanon,
+      the Golan has now become central to Israel’s broader strategic calculus. Prime
+      Minister Benjamin Netanyahu is positioning his forces for a deeper incursion into
+      Syria, while behaving not as a regional actor but as a dominant power imposing
+      terms on sovereign nations. He dictates to Damascus how many troops it can deploy,
+      what weapons they may carry, and for how long they can remain, despite Suweida
+      lying 75-100 kilometres from the Syrian capital. Israel appears intent on provoking
+      renewed instability in southern Syria, using any escalation—manufactured or real—as
+      pretext for annexing more Syrian territory. Justification, at this point, is merely
+      cosmetic. The 210th Bashan Division remains permanently stationed in the Golan
+      Heights. This division serves as the backbone of Israel’s northern defence, overseeing
+      routine patrols, intelligence operations, and readiness against incursions. It
+      includes units such as the 474th Golan Brigade and the 810th Hermon Brigade, specialised
+      in high-altitude operations. This is the standing formation always present in
+      the area. Recently, Israel redeployed the 98th Division, also known as the Fire
+      Formation, from Gaza to the north. This elite paratrooper division is tailored
+      for rapid assaults, urban combat, and cross-border operations. Its arrival in
+      the Golan marks a shift from containment to potential offensive preparation. Netanyahu
+      has also announced the deployment of an additional reserve division, bringing
+      the total to three divisions stationed in or near the Golan Heights. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israel has significantly increased its military presence in
+      the Golan Heights, positioning itself for a deeper incursion into Syria and exerting
+      control over Syrian military movements, while aiming to provoke instability and
+      justify further territorial annexation.
+    paragraph_summary: Israel has significantly increased its military presence in the
+      Golan Heights, deploying multiple divisions that indicate a shift from a defensive
+      stance to a more aggressive posture aimed at potential incursions into Syria.
+      Prime Minister Benjamin Netanyahu is asserting control over Syrian military activities,
+      dictating troop numbers and weaponry to Damascus, while also seeking to provoke
+      instability in southern Syria as a pretext for territorial annexation. The 210th
+      Bashan Division remains a permanent fixture in the region, supported by the recently
+      redeployed elite 98th Division, which is designed for rapid assaults and urban
+      combat. This buildup, now totaling three divisions, marks a strategic change in
+      Israel's approach to its northern front, emphasizing offensive readiness rather
+      than mere containment.
+    published: '2025-07-20T05:01:10+00:00'
+  - title: 'Israel’s Golan Heights Build-Up: Prelude to a Strategic Occupation of Southern
+      Syria'
+    url: https://ejmagnier.com/2025/07/20/israels-golan-heights-build-up-prelude-to-a-strategic-occupation-of-southern-syria/
+    text: Tweet By Elijah J. Magnier – Israel has sharply escalated its military presence
+      in the Golan Heights, deploying multiple divisions in a posture that goes well
+      beyond defence. Once considered a quieter front compared to Gaza or southern Lebanon,
+      the Golan has now become central to Israel’s broader strategic calculus. Prime
+      Minister Benjamin Netanyahu is positioning his forces for a deeper incursion into
+      Syria, while behaving not as a regional actor but as a dominant power imposing
+      terms on sovereign nations. He dictates to Damascus how many troops it can deploy,
+      what weapons they may carry, and for how long they can remain, despite Suweida
+      lying 75-100 kilometres from the Syrian capital. Israel appears intent on provoking
+      renewed instability in southern Syria, using any escalation—manufactured or real—as
+      pretext for annexing more Syrian territory. Justification, at this point, is merely
+      cosmetic. The 210th Bashan Division remains permanently stationed in the Golan
+      Heights. This division serves as the backbone of Israel’s northern defence, overseeing
+      routine patrols, intelligence operations, and readiness against incursions. It
+      includes units such as the 474th Golan Brigade and the 810th Hermon Brigade, specialised
+      in high-altitude operations. This is the standing formation always present in
+      the area. Recently, Israel redeployed the 98th Division, also known as the Fire
+      Formation, from Gaza to the north. This elite paratrooper division is tailored
+      for rapid assaults, urban combat, and cross-border operations. Its arrival in
+      the Golan marks a shift from containment to potential offensive preparation. Netanyahu
+      has also announced the deployment of an additional reserve division, bringing
+      the total to three divisions stationed in or near the Golan Heights. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israel has significantly increased its military presence in
+      the Golan Heights, positioning itself for a deeper incursion into Syria and exerting
+      control over Syrian military movements, while aiming to provoke instability and
+      justify further territorial annexation.
+    paragraph_summary: Israel has significantly increased its military presence in the
+      Golan Heights, deploying multiple divisions that indicate a shift from a defensive
+      stance to a more aggressive posture aimed at potential incursions into Syria.
+      Prime Minister Benjamin Netanyahu is asserting control over Syrian military activities,
+      dictating troop numbers and weaponry to Damascus, while also seeking to provoke
+      instability in southern Syria as a pretext for territorial annexation. The 210th
+      Bashan Division remains a permanent fixture in the region, supported by the recently
+      redeployed elite 98th Division, which is designed for rapid assaults and urban
+      combat. This buildup, now totaling three divisions, marks a strategic change in
+      Israel's approach to its northern front, emphasizing offensive readiness rather
+      than mere containment.
+    published: '2025-07-20T05:01:10+00:00'
+  - title: Waarom de VS alleen de precisiewapens van Hezbollah wil, en niet de volledige
+      ontwapening van de organisatie
+    url: https://ejmagnier.com/2025/07/17/waarom-de-vs-alleen-de-precisiewapens-van-hezbollah-wil-en-niet-de-volledige-ontwapening-van-de-organisatie/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De Verenigde
+      Staten streven niet naar de totale ontwapening van Hezbollah. Ze willen iets veel
+      specifiekers – en strategischers. Het Amerikaanse doel is het verwijderen van
+      de precisiegeleide raketten en drones van Hezbollah, de wapens die een directe
+      en geloofwaardige bedreiging vormen voor de militaire en civiele infrastructuur
+      van Israël. Het gaat er niet om Hezbollah als geheel te neutraliseren, maar om
+      selectief het enige deel van zijn arsenaal te ontmantelen dat het regionale machtsevenwicht
+      kan verstoren. Dit beleid is niet nieuw, maar het is steeds duidelijker geworden
+      naarmate de regionale spanningen toenamen. De laatste diplomatieke poging, onder
+      leiding van de Amerikaanse gezant Thomas Barak – momenteel ambassadeur in Turkije
+      en Washington’s onofficiële contactpersoon voor Libanon en Syrië – is gericht
+      op het uitoefenen van druk op Libanese functionarissen om de militaire capaciteiten
+      van Hezbollah in te perken en uiteindelijk te ontmantelen. In een uitzonderlijk
+      provocerende zet waarschuwde Barak niet alleen voor het risico van een nieuwe
+      burgeroorlog in Libanon, maar opperde hij ook het idee om Libanon op te nemen
+      in een bredere regionale entiteit – “Bilad al-Sham” of Groot-Syrië. Voor veel
+      waarnemers was dit minder een waarschuwing dan een nauwelijks verhulde politieke
+      dreiging, waarmee Washington aangeeft bereid te zijn de kwetsbaarheid van Libanon
+      uit te buiten als aan zijn eisen niet wordt voldaan. De Verenigde Staten willen
+      geen chaos in Libanon, maar zijn bereid instabiliteit te tolereren als dit leidt
+      tot een strategische verzwakking van Hezbollah. De drones en precisieraketten
+      vormen de rode lijn. Deze wapens zijn de enige die diep in Israëlisch grondgebied
+      kunnen doordringen, raketafweersystemen kunnen omzeilen en de kosten van een confrontatie
+      kunnen verschuiven. Het verwijderen ervan zou Hezbollah niet volledig neutraliseren,
+      maar wel zijn afschrikkingsvermogen effectief ontmantelen. Terwijl de diplomatieke
+      onderhandelingen voortduren, ontstaat er binnen de Libanese binnenlandse arena
+      een meer onstabiel en alarmerend beeld. Samir Geagea, leider van de Libanese Strijdkrachten
+      (LF) en een oude bondgenoot van de Verenigde Staten, gebruikt steeds vaker militaristische
+      retoriek. De afgelopen maanden hebben zowel Geagea als hoge LF-functionarissen
+      openlijk – en opzettelijk – gesproken over de militaire paraatheid van de partij.
+      Ibrahim El-Sakr, een prominent LF-lid, verklaarde dat er al “15.000 strijders”
+      zijn gestationeerd in Zahle en Deir Al-Ahmar, en ging nog verder door te beweren
+      dat de partij “indien nodig” tot “50.000 strijders” zou kunnen mobiliseren. Hij
+      voegde er echter het bekende refrein aan toe: “God verhoede het.” In juli van
+      dit jaar herhaalde parlementslid Pierre Bou Assi deze boodschap en verklaarde
+      dat “meer dan 15.000 leden van de Libanese Strijdkrachten trots klaar staan om
+      Libanon te verdedigen in geval van een ineenstorting van de staat”. Deze opmerkingen
+      zijn niet zomaar gedaan – het zijn afgewogen signalen die bedoeld zijn om macht
+      uit te stralen, de publieke opinie te beïnvloeden en de Libanese Strijdkrachten
+      te positioneren als de dominante christelijke militie die klaar staat om het vacuüm
+      op te vullen als de nationale instellingen falen. Deze verklaringen zijn niet
+      toevallig. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: De Verenigde Staten richten zich niet op de totale ontwapening
+      van Hezbollah, maar willen specifiek de precisiegeleide raketten en drones van
+      de groep verwijderen, die een directe bedreiging vormen voor Israël, als onderdeel
+      van een strategie om het regionale machtsevenwicht te behouden.
+    paragraph_summary: De Verenigde Staten streven er niet naar Hezbollah volledig te
+      ontwapenen, maar willen specifiek de precisiegeleide raketten en drones van de
+      groep verwijderen, omdat deze een directe bedreiging vormen voor Israël's militaire
+      en civiele infrastructuur. Dit doel is strategisch en gericht op het handhaven
+      van het regionale machtsevenwicht, en wordt steeds duidelijker naarmate de spanningen
+      in de regio toenemen. De Amerikaanse gezant Thomas Barak oefent druk uit op Libanese
+      functionarissen om de militaire capaciteiten van Hezbollah te beperken, en suggereert
+      zelfs dat Libanon zou kunnen worden opgenomen in een bredere regionale entiteit,
+      wat door velen als een politieke dreiging wordt gezien. Hoewel de VS chaos in
+      Libanon willen vermijden, zijn ze bereid instabiliteit te tolereren als dit leidt
+      tot een strategische verzwakking van Hezbollah, waarbij de drones en precisieraketten
+      als cruciale elementen worden beschouwd die verwijderd moeten worden om hun afschrikkingsvermogen
+      te verminderen.
+    published: '2025-07-17T03:38:34+00:00'
+  - title: Waarom de VS alleen de precisiewapens van Hezbollah wil, en niet de volledige
+      ontwapening van de organisatie
+    url: https://ejmagnier.com/2025/07/17/waarom-de-vs-alleen-de-precisiewapens-van-hezbollah-wil-en-niet-de-volledige-ontwapening-van-de-organisatie/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De Verenigde
+      Staten streven niet naar de totale ontwapening van Hezbollah. Ze willen iets veel
+      specifiekers – en strategischers. Het Amerikaanse doel is het verwijderen van
+      de precisiegeleide raketten en drones van Hezbollah, de wapens die een directe
+      en geloofwaardige bedreiging vormen voor de militaire en civiele infrastructuur
+      van Israël. Het gaat er niet om Hezbollah als geheel te neutraliseren, maar om
+      selectief het enige deel van zijn arsenaal te ontmantelen dat het regionale machtsevenwicht
+      kan verstoren. Dit beleid is niet nieuw, maar het is steeds duidelijker geworden
+      naarmate de regionale spanningen toenamen. De laatste diplomatieke poging, onder
+      leiding van de Amerikaanse gezant Thomas Barak – momenteel ambassadeur in Turkije
+      en Washington’s onofficiële contactpersoon voor Libanon en Syrië – is gericht
+      op het uitoefenen van druk op Libanese functionarissen om de militaire capaciteiten
+      van Hezbollah in te perken en uiteindelijk te ontmantelen. In een uitzonderlijk
+      provocerende zet waarschuwde Barak niet alleen voor het risico van een nieuwe
+      burgeroorlog in Libanon, maar opperde hij ook het idee om Libanon op te nemen
+      in een bredere regionale entiteit – “Bilad al-Sham” of Groot-Syrië. Voor veel
+      waarnemers was dit minder een waarschuwing dan een nauwelijks verhulde politieke
+      dreiging, waarmee Washington aangeeft bereid te zijn de kwetsbaarheid van Libanon
+      uit te buiten als aan zijn eisen niet wordt voldaan. De Verenigde Staten willen
+      geen chaos in Libanon, maar zijn bereid instabiliteit te tolereren als dit leidt
+      tot een strategische verzwakking van Hezbollah. De drones en precisieraketten
+      vormen de rode lijn. Deze wapens zijn de enige die diep in Israëlisch grondgebied
+      kunnen doordringen, raketafweersystemen kunnen omzeilen en de kosten van een confrontatie
+      kunnen verschuiven. Het verwijderen ervan zou Hezbollah niet volledig neutraliseren,
+      maar wel zijn afschrikkingsvermogen effectief ontmantelen. Terwijl de diplomatieke
+      onderhandelingen voortduren, ontstaat er binnen de Libanese binnenlandse arena
+      een meer onstabiel en alarmerend beeld. Samir Geagea, leider van de Libanese Strijdkrachten
+      (LF) en een oude bondgenoot van de Verenigde Staten, gebruikt steeds vaker militaristische
+      retoriek. De afgelopen maanden hebben zowel Geagea als hoge LF-functionarissen
+      openlijk – en opzettelijk – gesproken over de militaire paraatheid van de partij.
+      Ibrahim El-Sakr, een prominent LF-lid, verklaarde dat er al “15.000 strijders”
+      zijn gestationeerd in Zahle en Deir Al-Ahmar, en ging nog verder door te beweren
+      dat de partij “indien nodig” tot “50.000 strijders” zou kunnen mobiliseren. Hij
+      voegde er echter het bekende refrein aan toe: “God verhoede het.” In juli van
+      dit jaar herhaalde parlementslid Pierre Bou Assi deze boodschap en verklaarde
+      dat “meer dan 15.000 leden van de Libanese Strijdkrachten trots klaar staan om
+      Libanon te verdedigen in geval van een ineenstorting van de staat”. Deze opmerkingen
+      zijn niet zomaar gedaan – het zijn afgewogen signalen die bedoeld zijn om macht
+      uit te stralen, de publieke opinie te beïnvloeden en de Libanese Strijdkrachten
+      te positioneren als de dominante christelijke militie die klaar staat om het vacuüm
+      op te vullen als de nationale instellingen falen. Deze verklaringen zijn niet
+      toevallig. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: De Verenigde Staten richten zich niet op de totale ontwapening
+      van Hezbollah, maar willen specifiek de precisiegeleide raketten en drones van
+      de groep verwijderen, die een directe bedreiging vormen voor Israël, als onderdeel
+      van een strategie om het regionale machtsevenwicht te behouden.
+    paragraph_summary: De Verenigde Staten streven er niet naar Hezbollah volledig te
+      ontwapenen, maar willen specifiek de precisiegeleide raketten en drones van de
+      groep verwijderen, omdat deze een directe bedreiging vormen voor Israël's militaire
+      en civiele infrastructuur. Dit doel is strategisch en gericht op het handhaven
+      van het regionale machtsevenwicht, en wordt steeds duidelijker naarmate de spanningen
+      in de regio toenemen. De Amerikaanse gezant Thomas Barak oefent druk uit op Libanese
+      functionarissen om de militaire capaciteiten van Hezbollah te beperken, en suggereert
+      zelfs dat Libanon zou kunnen worden opgenomen in een bredere regionale entiteit,
+      wat door velen als een politieke dreiging wordt gezien. Hoewel de VS chaos in
+      Libanon willen vermijden, zijn ze bereid instabiliteit te tolereren als dit leidt
+      tot een strategische verzwakking van Hezbollah, waarbij de drones en precisieraketten
+      als cruciale elementen worden beschouwd die verwijderd moeten worden om hun afschrikkingsvermogen
+      te verminderen.
+    published: '2025-07-17T03:38:34+00:00'
+  - title: Why the U.S. Only Wants Hezbollah’s Precision Weapons, Not Its Full Disarmament
+    url: https://ejmagnier.com/2025/07/16/why-the-u-s-only-wants-hezbollahs-precision-weapons-not-its-full-disarmament/
+    text: 'Tweet By Elijah J. Magnier – The United States does not seek the total disarmament
+      of Hezbollah. It wants something far more specific—and strategic. The American
+      objective is the removal of Hezbollah’s precision-guided missiles and drones,
+      the weapons that pose a direct and credible threat to Israel’s military and civilian
+      infrastructure. This is not about neutralising Hezbollah as a whole, but about
+      selectively dismantling the only part of its arsenal that can shift the regional
+      balance of power. This policy is not new, but it has grown more overt as regional
+      tensions intensify. The latest diplomatic push, led by US envoy Thomas Barak—currently
+      Ambassador to Turkey and Washington’s unofficial liaison for Lebanon and Syria—has
+      centred on exerting pressure on Lebanese officials to curtail and eventually dismantle
+      Hezbollah’s military capabilities. In an exceptionally provocative move, Barak
+      warned not only of the risk of a renewed civil war in Lebanon, but also floated
+      the notion of folding Lebanon into a broader regional entity—”Bilad al-Sham,”
+      or Greater Syria. For many observers, this was less a cautionary note and more
+      a thinly veiled political threat, signalling Washington’s willingness to exploit
+      Lebanon’s fragility if its demands are not met. The United States does not want
+      chaos in Lebanon, but it is willing to tolerate instability if it results in Hezbollah’s
+      strategic weakening. The drones and precision missiles are the red line. These
+      weapons are the only ones that can reach deep into Israeli territory, bypass missile
+      defence systems, and shift the cost of confrontation. Removing them would not
+      neutralise Hezbollah entirely, but it would effectively disarm its deterrence
+      capacity. While diplomatic negotiations continue, a more volatile and alarming
+      narrative is taking shape within Lebanon’s domestic arena. Samir Geagea, leader
+      of the Lebanese Forces (LF) and a long-standing ally of the United States, has
+      increasingly adopted militarised rhetoric. Over recent months, both Geagea and
+      senior LF officials have spoken openly—and deliberately—about the party’s military
+      readiness. Ibrahim El-Sakr, a prominent LF figure, declared that “15,000 fighters”
+      are already positioned in Zahle and Deir Al-Ahmar, and went further, claiming
+      the party could mobilise up to “50,000 fighters if necessary.” However, he added
+      the familiar refrain: “God forbid.” Just this July, MP Pierre Bou Assi reaffirmed
+      the message, stating, “More than 15,000 Lebanese Forces members are proudly ready
+      to defend Lebanon in the event of a state collapse.” These remarks are not offhand—they
+      are calibrated signals meant to project power, shape public perception, and position
+      the Lebanese Forces as the dominant Christian militia prepared to step into the
+      vacuum if national institutions falter. These statements are not accidental. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: The United States aims to specifically eliminate Hezbollah's
+      precision-guided missiles and drones, which threaten Israel, rather than seeking
+      the group's total disarmament, as part of a strategic effort to shift the regional
+      balance of power amidst rising tensions.
+    paragraph_summary: The United States aims to strategically weaken Hezbollah by targeting
+      its precision-guided missiles and drones, which pose a significant threat to Israel,
+      rather than seeking the group's total disarmament. This approach has become more
+      pronounced amid rising regional tensions, with US envoy Thomas Barak pressuring
+      Lebanese officials to diminish Hezbollah's military capabilities. Barak's warnings
+      of potential civil war and the idea of integrating Lebanon into a broader regional
+      entity, "Bilad al-Sham," suggest a willingness to exploit Lebanon's instability
+      to achieve US objectives. While the US does not desire chaos, it is prepared to
+      accept some instability if it leads to the reduction of Hezbollah's deterrent
+      power. The ongoing diplomatic efforts coincide with a shift in Lebanon's political
+      landscape, as figures like Samir Geagea adopt more aggressive rhetoric, reflecting
+      the growing volatility in the region.
+    published: '2025-07-16T18:31:06+00:00'
+  - title: Why the U.S. Only Wants Hezbollah’s Precision Weapons, Not Its Full Disarmament
+    url: https://ejmagnier.com/2025/07/16/why-the-u-s-only-wants-hezbollahs-precision-weapons-not-its-full-disarmament/
+    text: 'Tweet By Elijah J. Magnier – The United States does not seek the total disarmament
+      of Hezbollah. It wants something far more specific—and strategic. The American
+      objective is the removal of Hezbollah’s precision-guided missiles and drones,
+      the weapons that pose a direct and credible threat to Israel’s military and civilian
+      infrastructure. This is not about neutralising Hezbollah as a whole, but about
+      selectively dismantling the only part of its arsenal that can shift the regional
+      balance of power. This policy is not new, but it has grown more overt as regional
+      tensions intensify. The latest diplomatic push, led by US envoy Thomas Barak—currently
+      Ambassador to Turkey and Washington’s unofficial liaison for Lebanon and Syria—has
+      centred on exerting pressure on Lebanese officials to curtail and eventually dismantle
+      Hezbollah’s military capabilities. In an exceptionally provocative move, Barak
+      warned not only of the risk of a renewed civil war in Lebanon, but also floated
+      the notion of folding Lebanon into a broader regional entity—”Bilad al-Sham,”
+      or Greater Syria. For many observers, this was less a cautionary note and more
+      a thinly veiled political threat, signalling Washington’s willingness to exploit
+      Lebanon’s fragility if its demands are not met. The United States does not want
+      chaos in Lebanon, but it is willing to tolerate instability if it results in Hezbollah’s
+      strategic weakening. The drones and precision missiles are the red line. These
+      weapons are the only ones that can reach deep into Israeli territory, bypass missile
+      defence systems, and shift the cost of confrontation. Removing them would not
+      neutralise Hezbollah entirely, but it would effectively disarm its deterrence
+      capacity. While diplomatic negotiations continue, a more volatile and alarming
+      narrative is taking shape within Lebanon’s domestic arena. Samir Geagea, leader
+      of the Lebanese Forces (LF) and a long-standing ally of the United States, has
+      increasingly adopted militarised rhetoric. Over recent months, both Geagea and
+      senior LF officials have spoken openly—and deliberately—about the party’s military
+      readiness. Ibrahim El-Sakr, a prominent LF figure, declared that “15,000 fighters”
+      are already positioned in Zahle and Deir Al-Ahmar, and went further, claiming
+      the party could mobilise up to “50,000 fighters if necessary.” However, he added
+      the familiar refrain: “God forbid.” Just this July, MP Pierre Bou Assi reaffirmed
+      the message, stating, “More than 15,000 Lebanese Forces members are proudly ready
+      to defend Lebanon in the event of a state collapse.” These remarks are not offhand—they
+      are calibrated signals meant to project power, shape public perception, and position
+      the Lebanese Forces as the dominant Christian militia prepared to step into the
+      vacuum if national institutions falter. These statements are not accidental. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: The United States aims to specifically eliminate Hezbollah's
+      precision-guided missiles and drones, which threaten Israel, rather than seeking
+      the group's total disarmament, as part of a strategic effort to shift the regional
+      balance of power amidst rising tensions.
+    paragraph_summary: The United States aims to strategically weaken Hezbollah by targeting
+      its precision-guided missiles and drones, which pose a significant threat to Israel,
+      rather than seeking the group's total disarmament. This approach has become more
+      pronounced amid rising regional tensions, with US envoy Thomas Barak pressuring
+      Lebanese officials to diminish Hezbollah's military capabilities. Barak's warnings
+      of potential civil war and the idea of integrating Lebanon into a broader regional
+      entity, "Bilad al-Sham," suggest a willingness to exploit Lebanon's instability
+      to achieve US objectives. While the US does not desire chaos, it is prepared to
+      accept some instability if it leads to the reduction of Hezbollah's deterrent
+      power. The ongoing diplomatic efforts coincide with a shift in Lebanon's political
+      landscape, as figures like Samir Geagea adopt more aggressive rhetoric, reflecting
+      the growing volatility in the region.
+    published: '2025-07-16T18:31:06+00:00'
+  - title: Pourquoi les États-Unis ne veulent que les armes de précision du Hezbollah,
+      et non son désarmement total
+    url: https://ejmagnier.com/2025/07/16/pourquoi-les-etats-unis-ne-veulent-que-les-armes-de-precision-du-hezbollah-et-non-son-desarmement-total/
+    text: 'Tweet Par Elijah J. Magnier – Les États-Unis ne cherchent pas le désarmement
+      complet du Hezbollah. Leur objectif est bien plus spécifique — et stratégique
+      : éliminer les missiles guidés de précision et les drones du Hezbollah, les seules
+      armes capables de représenter une menace crédible contre les infrastructures militaires
+      et civiles israéliennes. Il ne s’agit pas de neutraliser l’organisation dans son
+      ensemble, mais de démanteler sélectivement la partie de son arsenal susceptible
+      de modifier l’équilibre régional des forces. Cette politique n’est pas nouvelle,
+      mais elle devient plus explicite à mesure que les tensions s’accentuent au Moyen-Orient.
+      La dernière initiative diplomatique, menée par l’envoyé américain Thomas Barak
+      — actuellement ambassadeur en Turquie et interlocuteur non officiel de Washington
+      pour le Liban et la Syrie — vise à faire pression sur les responsables libanais
+      afin de restreindre et, à terme, de démanteler les capacités militaires du Hezbollah.
+      Dans une déclaration jugée provocante, Barak a évoqué non seulement le risque
+      d’une nouvelle guerre civile au Liban, mais aussi l’intégration possible du pays
+      dans un ensemble régional plus vaste, le « Bilad al-Cham ». Pour beaucoup, il
+      ne s’agit pas d’un avertissement mais d’une menace politique voilée, soulignant
+      la volonté de Washington d’exploiter la fragilité libanaise à des fins stratégiques.
+      Les États-Unis ne souhaitent pas le chaos au Liban, mais sont prêts à tolérer
+      une certaine instabilité si cela affaiblit stratégiquement le Hezbollah. La ligne
+      rouge, ce sont les drones et les missiles de précision. Ces armes sont les seules
+      capables de frapper en profondeur le territoire israélien, de contourner les systèmes
+      de défense antimissile, et de changer le coût politique et militaire d’une confrontation.
+      Les éliminer ne neutraliserait pas le Hezbollah, mais supprimerait sa capacité
+      de dissuasion. Pendant que les discussions diplomatiques se poursuivent, un discours
+      plus dangereux prend forme sur le terrain au Liban. Samir Geagea, chef des Forces
+      libanaises (FL) et allié de longue date des États-Unis, emploie de plus en plus
+      une rhétorique militarisée. Ces derniers mois, lui et ses cadres ont revendiqué
+      publiquement la préparation militaire de leur parti. Ibrahim El-Sakr, figure de
+      proue des FL, a déclaré que « 15 000 combattants » étaient déjà présents à Zahlé
+      et Deir Al-Ahmar, ajoutant que les FL pouvaient mobiliser jusqu’à « 50 000 combattants
+      si nécessaire », avant de conclure par le refrain habituel : « Dieu nous en garde.
+      » En juillet, le député Pierre Bou Assi a réaffirmé ce message : « Plus de 15
+      000 membres des Forces libanaises sont fièrement prêts à défendre le Liban en
+      cas d’effondrement de l’État. » Ces déclarations ne sont pas anodines. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Les États-Unis visent à éliminer spécifiquement les missiles
+      guidés de précision et les drones du Hezbollah, plutôt que de désarmer complètement
+      l'organisation, afin de réduire la menace qu'elle représente pour Israël et de
+      modifier l'équilibre des forces au Moyen-Orient.
+    paragraph_summary: L'article souligne que les États-Unis ne visent pas un désarmement
+      total du Hezbollah, mais cherchent plutôt à éliminer spécifiquement ses missiles
+      guidés de précision et ses drones, qui représentent une menace sérieuse pour les
+      infrastructures israéliennes. Cette stratégie, qui devient plus explicite avec
+      l'intensification des tensions au Moyen-Orient, est mise en œuvre par des initiatives
+      diplomatiques, notamment celles de l'envoyé américain Thomas Barak. Ce dernier
+      a averti des risques d'une nouvelle guerre civile au Liban tout en suggérant une
+      intégration régionale plus large, ce qui est perçu comme une menace politique.
+      Les États-Unis semblent prêts à accepter une certaine instabilité au Liban tant
+      qu'elle affaiblit le Hezbollah, en se concentrant sur l'élimination de ses capacités
+      militaires critiques qui pourraient modifier l'équilibre des forces dans la région.
+    published: '2025-07-16T18:29:38+00:00'
+  - title: Pourquoi les États-Unis ne veulent que les armes de précision du Hezbollah,
+      et non son désarmement total
+    url: https://ejmagnier.com/2025/07/16/pourquoi-les-etats-unis-ne-veulent-que-les-armes-de-precision-du-hezbollah-et-non-son-desarmement-total/
+    text: 'Tweet Par Elijah J. Magnier – Les États-Unis ne cherchent pas le désarmement
+      complet du Hezbollah. Leur objectif est bien plus spécifique — et stratégique
+      : éliminer les missiles guidés de précision et les drones du Hezbollah, les seules
+      armes capables de représenter une menace crédible contre les infrastructures militaires
+      et civiles israéliennes. Il ne s’agit pas de neutraliser l’organisation dans son
+      ensemble, mais de démanteler sélectivement la partie de son arsenal susceptible
+      de modifier l’équilibre régional des forces. Cette politique n’est pas nouvelle,
+      mais elle devient plus explicite à mesure que les tensions s’accentuent au Moyen-Orient.
+      La dernière initiative diplomatique, menée par l’envoyé américain Thomas Barak
+      — actuellement ambassadeur en Turquie et interlocuteur non officiel de Washington
+      pour le Liban et la Syrie — vise à faire pression sur les responsables libanais
+      afin de restreindre et, à terme, de démanteler les capacités militaires du Hezbollah.
+      Dans une déclaration jugée provocante, Barak a évoqué non seulement le risque
+      d’une nouvelle guerre civile au Liban, mais aussi l’intégration possible du pays
+      dans un ensemble régional plus vaste, le « Bilad al-Cham ». Pour beaucoup, il
+      ne s’agit pas d’un avertissement mais d’une menace politique voilée, soulignant
+      la volonté de Washington d’exploiter la fragilité libanaise à des fins stratégiques.
+      Les États-Unis ne souhaitent pas le chaos au Liban, mais sont prêts à tolérer
+      une certaine instabilité si cela affaiblit stratégiquement le Hezbollah. La ligne
+      rouge, ce sont les drones et les missiles de précision. Ces armes sont les seules
+      capables de frapper en profondeur le territoire israélien, de contourner les systèmes
+      de défense antimissile, et de changer le coût politique et militaire d’une confrontation.
+      Les éliminer ne neutraliserait pas le Hezbollah, mais supprimerait sa capacité
+      de dissuasion. Pendant que les discussions diplomatiques se poursuivent, un discours
+      plus dangereux prend forme sur le terrain au Liban. Samir Geagea, chef des Forces
+      libanaises (FL) et allié de longue date des États-Unis, emploie de plus en plus
+      une rhétorique militarisée. Ces derniers mois, lui et ses cadres ont revendiqué
+      publiquement la préparation militaire de leur parti. Ibrahim El-Sakr, figure de
+      proue des FL, a déclaré que « 15 000 combattants » étaient déjà présents à Zahlé
+      et Deir Al-Ahmar, ajoutant que les FL pouvaient mobiliser jusqu’à « 50 000 combattants
+      si nécessaire », avant de conclure par le refrain habituel : « Dieu nous en garde.
+      » En juillet, le député Pierre Bou Assi a réaffirmé ce message : « Plus de 15
+      000 membres des Forces libanaises sont fièrement prêts à défendre le Liban en
+      cas d’effondrement de l’État. » Ces déclarations ne sont pas anodines. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Les États-Unis visent à éliminer spécifiquement les missiles
+      guidés de précision et les drones du Hezbollah, plutôt que de désarmer complètement
+      l'organisation, afin de réduire la menace qu'elle représente pour Israël et de
+      modifier l'équilibre des forces au Moyen-Orient.
+    paragraph_summary: L'article souligne que les États-Unis ne visent pas un désarmement
+      total du Hezbollah, mais cherchent plutôt à éliminer spécifiquement ses missiles
+      guidés de précision et ses drones, qui représentent une menace sérieuse pour les
+      infrastructures israéliennes. Cette stratégie, qui devient plus explicite avec
+      l'intensification des tensions au Moyen-Orient, est mise en œuvre par des initiatives
+      diplomatiques, notamment celles de l'envoyé américain Thomas Barak. Ce dernier
+      a averti des risques d'une nouvelle guerre civile au Liban tout en suggérant une
+      intégration régionale plus large, ce qui est perçu comme une menace politique.
+      Les États-Unis semblent prêts à accepter une certaine instabilité au Liban tant
+      qu'elle affaiblit le Hezbollah, en se concentrant sur l'élimination de ses capacités
+      militaires critiques qui pourraient modifier l'équilibre des forces dans la région.
+    published: '2025-07-16T18:29:38+00:00'
+  - title: Warum die USA nur die Präzisionswaffen der Hisbollah wollen, nicht ihre vollständige
+      Entwaffnung
+    url: https://ejmagnier.com/2025/07/16/warum-die-usa-nur-die-prazisionswaffen-der-hisbollah-wollen-nicht-ihre-vollstandige-entwaffnung/
+    text: 'Tweet Von Elijah J. Magnier – Die Vereinigten Staaten streben keine vollständige
+      Entwaffnung der Hisbollah an. Sie wollen etwas viel Spezifischeres – und Strategischeres.
+      Das Ziel der USA ist die Beseitigung der präzisionsgelenkten Raketen und Drohnen
+      der Hisbollah, also der Waffen, die eine direkte und glaubwürdige Bedrohung für
+      die militärische und zivile Infrastruktur Israels darstellen. Es geht nicht darum,
+      die Hisbollah als Ganzes zu neutralisieren, sondern selektiv den einzigen Teil
+      ihres Arsenals zu zerstören, der das regionale Machtgleichgewicht verschieben
+      kann. Diese Politik ist nicht neu, aber sie ist mit der Verschärfung der regionalen
+      Spannungen immer offener geworden. Die jüngsten diplomatischen Bemühungen unter
+      der Führung des US-Gesandten Thomas Barak – derzeit Botschafter in der Türkei
+      und Washingtons inoffizieller Verbindungsmann für den Libanon und Syrien – konzentrieren
+      sich darauf, Druck auf libanesische Regierungsvertreter auszuüben, um die militärischen
+      Fähigkeiten der Hisbollah einzuschränken und schließlich zu zerschlagen. In einer
+      außergewöhnlich provokativen Aktion warnte Barak nicht nur vor dem Risiko eines
+      erneuten Bürgerkriegs im Libanon, sondern brachte auch die Idee ins Spiel, den
+      Libanon in eine größere regionale Einheit – „Bilad al-Sham“ oder Großsyrien –
+      einzugliedern. Für viele Beobachter war dies weniger eine Warnung als vielmehr
+      eine kaum verhüllte politische Drohung, die Washingtons Bereitschaft signalisiert,
+      die Schwäche des Libanon auszunutzen, wenn seine Forderungen nicht erfüllt werden.
+      Die Vereinigten Staaten wollen kein Chaos im Libanon, sind aber bereit, Instabilität
+      zu tolerieren, wenn dies zu einer strategischen Schwächung der Hisbollah führt.
+      Die Drohnen und Präzisionsraketen sind die rote Linie. Nur diese Waffen können
+      tief in israelisches Gebiet vordringen, Raketenabwehrsysteme umgehen und die Kosten
+      der Konfrontation verlagern. Ihre Beseitigung würde die Hisbollah nicht vollständig
+      neutralisieren, aber ihre Abschreckungsfähigkeit effektiv zunichte machen. Während
+      die diplomatischen Verhandlungen weitergehen, zeichnet sich innerhalb der libanesischen
+      Innenpolitik ein volatileres und alarmierenderes Bild ab. Samir Geagea, Führer
+      der Libanesischen Kräfte (LF) und langjähriger Verbündeter der Vereinigten Staaten,
+      hat zunehmend eine militarisierte Rhetorik angenommen. In den letzten Monaten
+      haben sowohl Geagea als auch hochrangige LF-Vertreter offen und bewusst über die
+      militärische Bereitschaft der Partei gesprochen. Ibrahim El-Sakr, eine prominente
+      Persönlichkeit der LF, erklärte, dass bereits „15.000 Kämpfer“ in Zahle und Deir
+      Al-Ahmar stationiert seien, und ging sogar noch weiter, indem er behauptete, die
+      Partei könne „bei Bedarf bis zu 50.000 Kämpfer mobilisieren“. Allerdings fügte
+      er den bekannten Zusatz hinzu: „Gott bewahre.“ Erst im Juli dieses Jahres bekräftigte
+      der Abgeordnete Pierre Bou Assi diese Botschaft und erklärte: „Mehr als 15.000
+      Mitglieder der Libanesischen Streitkräfte sind stolz darauf, im Falle eines Staatszerfalls
+      den Libanon zu verteidigen.“ Diese Äußerungen sind nicht spontan, sondern sorgfältig
+      abgestimmte Signale, die Macht demonstrieren, die öffentliche Wahrnehmung beeinflussen
+      und die Libanesischen Streitkräfte als dominante christliche Miliz positionieren
+      sollen, die bereit ist, in das Machtvakuum zu treten, wenn die nationalen Institutionen
+      versagen. Diese Aussagen sind kein Zufall. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Die USA streben nicht die vollständige Entwaffnung der Hisbollah
+      an, sondern zielen darauf ab, gezielt deren präzisionsgelenkte Raketen und Drohnen
+      zu eliminieren, die eine direkte Bedrohung für Israel darstellen, während sie
+      gleichzeitig diplomatischen Druck auf libanesische Regierungsvertreter ausüben.
+    paragraph_summary: Die Vereinigten Staaten streben nicht die vollständige Entwaffnung
+      der Hisbollah an, sondern konzentrieren sich gezielt auf die Beseitigung ihrer
+      präzisionsgelenkten Raketen und Drohnen, die eine direkte Bedrohung für Israel
+      darstellen. Diese Strategie zielt darauf ab, das regionale Machtgleichgewicht
+      zu beeinflussen, ohne die Hisbollah als Ganzes zu neutralisieren. Unter der Führung
+      des US-Gesandten Thomas Barak wird Druck auf libanesische Regierungsvertreter
+      ausgeübt, um die militärischen Fähigkeiten der Hisbollah zu beschränken. Barak
+      warnte vor einem möglichen Bürgerkrieg im Libanon und deutete an, dass Washington
+      bereit ist, die Instabilität im Land zu tolerieren, um die Hisbollah strategisch
+      zu schwächen. Die Eliminierung dieser spezifischen Waffen ist entscheidend, da
+      sie in der Lage sind, tief in israelisches Gebiet einzudringen und die Kosten
+      eines Konflikts zu erhöhen.
+    published: '2025-07-16T18:26:46+00:00'
+  - title: Warum die USA nur die Präzisionswaffen der Hisbollah wollen, nicht ihre vollständige
+      Entwaffnung
+    url: https://ejmagnier.com/2025/07/16/warum-die-usa-nur-die-prazisionswaffen-der-hisbollah-wollen-nicht-ihre-vollstandige-entwaffnung/
+    text: 'Tweet Von Elijah J. Magnier – Die Vereinigten Staaten streben keine vollständige
+      Entwaffnung der Hisbollah an. Sie wollen etwas viel Spezifischeres – und Strategischeres.
+      Das Ziel der USA ist die Beseitigung der präzisionsgelenkten Raketen und Drohnen
+      der Hisbollah, also der Waffen, die eine direkte und glaubwürdige Bedrohung für
+      die militärische und zivile Infrastruktur Israels darstellen. Es geht nicht darum,
+      die Hisbollah als Ganzes zu neutralisieren, sondern selektiv den einzigen Teil
+      ihres Arsenals zu zerstören, der das regionale Machtgleichgewicht verschieben
+      kann. Diese Politik ist nicht neu, aber sie ist mit der Verschärfung der regionalen
+      Spannungen immer offener geworden. Die jüngsten diplomatischen Bemühungen unter
+      der Führung des US-Gesandten Thomas Barak – derzeit Botschafter in der Türkei
+      und Washingtons inoffizieller Verbindungsmann für den Libanon und Syrien – konzentrieren
+      sich darauf, Druck auf libanesische Regierungsvertreter auszuüben, um die militärischen
+      Fähigkeiten der Hisbollah einzuschränken und schließlich zu zerschlagen. In einer
+      außergewöhnlich provokativen Aktion warnte Barak nicht nur vor dem Risiko eines
+      erneuten Bürgerkriegs im Libanon, sondern brachte auch die Idee ins Spiel, den
+      Libanon in eine größere regionale Einheit – „Bilad al-Sham“ oder Großsyrien –
+      einzugliedern. Für viele Beobachter war dies weniger eine Warnung als vielmehr
+      eine kaum verhüllte politische Drohung, die Washingtons Bereitschaft signalisiert,
+      die Schwäche des Libanon auszunutzen, wenn seine Forderungen nicht erfüllt werden.
+      Die Vereinigten Staaten wollen kein Chaos im Libanon, sind aber bereit, Instabilität
+      zu tolerieren, wenn dies zu einer strategischen Schwächung der Hisbollah führt.
+      Die Drohnen und Präzisionsraketen sind die rote Linie. Nur diese Waffen können
+      tief in israelisches Gebiet vordringen, Raketenabwehrsysteme umgehen und die Kosten
+      der Konfrontation verlagern. Ihre Beseitigung würde die Hisbollah nicht vollständig
+      neutralisieren, aber ihre Abschreckungsfähigkeit effektiv zunichte machen. Während
+      die diplomatischen Verhandlungen weitergehen, zeichnet sich innerhalb der libanesischen
+      Innenpolitik ein volatileres und alarmierenderes Bild ab. Samir Geagea, Führer
+      der Libanesischen Kräfte (LF) und langjähriger Verbündeter der Vereinigten Staaten,
+      hat zunehmend eine militarisierte Rhetorik angenommen. In den letzten Monaten
+      haben sowohl Geagea als auch hochrangige LF-Vertreter offen und bewusst über die
+      militärische Bereitschaft der Partei gesprochen. Ibrahim El-Sakr, eine prominente
+      Persönlichkeit der LF, erklärte, dass bereits „15.000 Kämpfer“ in Zahle und Deir
+      Al-Ahmar stationiert seien, und ging sogar noch weiter, indem er behauptete, die
+      Partei könne „bei Bedarf bis zu 50.000 Kämpfer mobilisieren“. Allerdings fügte
+      er den bekannten Zusatz hinzu: „Gott bewahre.“ Erst im Juli dieses Jahres bekräftigte
+      der Abgeordnete Pierre Bou Assi diese Botschaft und erklärte: „Mehr als 15.000
+      Mitglieder der Libanesischen Streitkräfte sind stolz darauf, im Falle eines Staatszerfalls
+      den Libanon zu verteidigen.“ Diese Äußerungen sind nicht spontan, sondern sorgfältig
+      abgestimmte Signale, die Macht demonstrieren, die öffentliche Wahrnehmung beeinflussen
+      und die Libanesischen Streitkräfte als dominante christliche Miliz positionieren
+      sollen, die bereit ist, in das Machtvakuum zu treten, wenn die nationalen Institutionen
+      versagen. Diese Aussagen sind kein Zufall. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Die USA streben nicht die vollständige Entwaffnung der Hisbollah
+      an, sondern zielen darauf ab, gezielt deren präzisionsgelenkte Raketen und Drohnen
+      zu eliminieren, die eine direkte Bedrohung für Israel darstellen, während sie
+      gleichzeitig diplomatischen Druck auf libanesische Regierungsvertreter ausüben.
+    paragraph_summary: Die Vereinigten Staaten streben nicht die vollständige Entwaffnung
+      der Hisbollah an, sondern konzentrieren sich gezielt auf die Beseitigung ihrer
+      präzisionsgelenkten Raketen und Drohnen, die eine direkte Bedrohung für Israel
+      darstellen. Diese Strategie zielt darauf ab, das regionale Machtgleichgewicht
+      zu beeinflussen, ohne die Hisbollah als Ganzes zu neutralisieren. Unter der Führung
+      des US-Gesandten Thomas Barak wird Druck auf libanesische Regierungsvertreter
+      ausgeübt, um die militärischen Fähigkeiten der Hisbollah zu beschränken. Barak
+      warnte vor einem möglichen Bürgerkrieg im Libanon und deutete an, dass Washington
+      bereit ist, die Instabilität im Land zu tolerieren, um die Hisbollah strategisch
+      zu schwächen. Die Eliminierung dieser spezifischen Waffen ist entscheidend, da
+      sie in der Lage sind, tief in israelisches Gebiet einzudringen und die Kosten
+      eines Konflikts zu erhöhen.
+    published: '2025-07-16T18:26:46+00:00'
   - title: 'Israel’s Culture of Impunity: How the West Shields War Crimes and Violations
       of International Law'
     url: https://ejmagnier.com/2025/07/15/israels-culture-of-impunity-how-the-west-shields-war-crimes-and-violations-of-international-law/

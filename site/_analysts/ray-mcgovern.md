@@ -7,17 +7,498 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As geopolitical tensions intensify across multiple regions, recent independent analyses highlight several key developments shaping the global landscape.
+  As geopolitical tensions intensify across multiple fronts, recent independent analyses highlight deepening divides between Western powers and the Global South, ongoing humanitarian crises, and shifting domestic political landscapes.
   
-  The most significant new information concerns **Germany’s accelerating militarization**. According to **Scott Ritter**, Germany, under its new Chancellor, is rapidly reviving its military capabilities in response to what it perceives as heightened threats from Russia. This marks a sharp departure from its post-World War II posture and signals a broader European shift toward rearmament. Ritter notes that this resurgence is not occurring in isolation but is part of a wider trend of NATO-aligned states reinforcing their defense sectors. The implications for European security are profound, and I guarantee this will further strain relations with Moscow and potentially destabilize the regional balance.
+  The most recent development centers on the growing confrontation between Washington and the BRICS bloc. According to **Patrick Lawrence**, former President Trump’s rhetoric toward non-Western nations reveals "a lack of historical awareness and understanding," signaling a broader pattern of U.S. miscalculation in its approach to emerging multipolar alliances. This misreading, Lawrence suggests, risks further alienating key global players and accelerating the BRICS' efforts to establish alternative economic and diplomatic frameworks.
   
-  Meanwhile, **NATO’s evolving role** remains under scrutiny. As **Ray McGovern** observes, NATO’s transformation from a Cold War alliance to a global enforcer—evident since its intervention in Afghanistan—has entrenched its position as a primary instrument of U.S.-led order. This expansion of mission scope continues to provoke criticism and resistance, particularly from states outside the alliance. There is high chance that NATO’s assertiveness will face growing pushback from both adversaries and skeptical partners.
+  Meanwhile, the humanitarian situation in Gaza remains dire. **Medea Benjamin** criticizes Europe for "prioritizing profits over the lives of Palestinians," despite widespread public opposition to current policies. This sentiment is echoed by other analysts who argue that Western governments are not only failing to alleviate the crisis but are actively undermining aid efforts, contributing to worsening conditions on the ground.
   
-  On the legal and civil liberties front, the **UK’s domestic trajectory** is drawing concern. **Craig Murray** highlights a recent legal proceeding emblematic of an increasingly “draconian” government approach. Even those involved in the process acknowledged its harshness, suggesting a broader trend toward authoritarianism within the UK’s political and judicial systems. There is high chance this will fuel domestic unrest and further erode public trust in institutions.
+  On the broader strategic front, **Vijay Prashad** observes that both Europe and the United States are "committing to a future characterized by austerity measures and military conflict." This trend, he warns, points to a troubling trajectory in global governance, where resources are increasingly diverted from social needs to military spending, further entrenching instability.
   
-  **Trends and Predictions:**  
-  The majority of analysts agree that Europe is entering a period of heightened militarization and political polarization. NATO’s assertive posture and Germany’s rearmament are most definitely set to provoke countermeasures from Russia, raising the risk of escalation. Simultaneously, Western democracies are exhibiting signs of internal authoritarian drift, which is quite likely to generate significant social and political backlash in the near term. The overall trajectory points toward increased instability both within and between states.
+  In summary, the prevailing trend is one of escalating polarization—between Western powers and the Global South, and within Western societies themselves. The majority of sources agree that unless there is a significant shift in policy, these divisions will deepen. With high confidence, I guarantee that the BRICS bloc will continue to consolidate its position as an alternative to Western-led institutions. There is a high chance that humanitarian crises like Gaza will persist or worsen, as Western governments maintain their current stance. The outlook for global governance remains fraught, with quite likely further militarization and austerity in the West.
 articles:
+  - title: 'PATRICK LAWRENCE: Washington Takes on the BRICS'
+    url: https://consortiumnews.com/2025/07/22/patrick-lawrence-washington-takes-on-the-brics/
+    text: Trump’s lashing out at the group of non-Western nations is so clumsy, so off
+      the mark, so utterly unaware of where the hands are on history’s clock. By Patrick
+      Lawrence Special to Consortium News Well, it took long enough for… Read more →
+    one_sentence_summary: In his critique of non-Western nations, Trump demonstrates
+      a lack of historical awareness and understanding, according to Patrick Lawrence
+      in his article for Consortium News.
+    paragraph_summary: In his critique of non-Western nations, Trump demonstrates a
+      lack of understanding and awareness of historical contexts and global dynamics,
+      according to Patrick Lawrence in his article for Consortium News. Lawrence argues
+      that Trump's approach is not only clumsy but also misguided, failing to recognize
+      the evolving geopolitical landscape and the significance of these nations in contemporary
+      history.
+    published: '2025-07-23T02:56:33+00:00'
+  - title: 'PATRICK LAWRENCE: Washington Takes on the BRICS'
+    url: https://consortiumnews.com/2025/07/22/patrick-lawrence-washington-takes-on-the-brics/
+    text: Trump’s lashing out at the group of non-Western nations is so clumsy, so off
+      the mark, so utterly unaware of where the hands are on history’s clock. By Patrick
+      Lawrence Special to Consortium News Well, it took long enough for… Read more →
+    one_sentence_summary: In his critique of non-Western nations, Trump demonstrates
+      a lack of historical awareness and understanding, according to Patrick Lawrence
+      in his article for Consortium News.
+    paragraph_summary: In his critique of non-Western nations, Trump demonstrates a
+      lack of understanding and awareness of historical contexts and global dynamics,
+      according to Patrick Lawrence in his article for Consortium News. Lawrence argues
+      that Trump's approach is not only clumsy but also misguided, failing to recognize
+      the evolving geopolitical landscape and the significance of these nations in contemporary
+      history.
+    published: '2025-07-23T02:56:33+00:00'
+  - title: Europe’s Betrayal of Gaza
+    url: https://consortiumnews.com/2025/07/22/europes-betrayal-of-gaza/
+    text: Europe could follow the will of its citizens, writes Medea Benjamin. Instead,
+      it is choosing profits over Palestinian lives. By Medea Benjamin Common Dreams
+      While the U.S. government has given Israel carte blanche to commit genocide, many
+      of us held… Read more →
+    one_sentence_summary: Medea Benjamin argues that Europe is prioritizing profits
+      over the lives of Palestinians, despite the will of its citizens advocating for
+      a different approach.
+    paragraph_summary: In her article, Medea Benjamin argues that Europe has the opportunity
+      to align its actions with the desires of its citizens, who largely advocate for
+      Palestinian rights, but instead prioritizes profits over the lives of Palestinians.
+      She criticizes the U.S. government's unconditional support for Israel, which she
+      views as enabling acts of violence against Palestinians, and calls for a shift
+      in European policy to reflect the humanitarian concerns of its populace.
+    published: '2025-07-22T22:13:35+00:00'
+  - title: Europe’s Betrayal of Gaza
+    url: https://consortiumnews.com/2025/07/22/europes-betrayal-of-gaza/
+    text: Europe could follow the will of its citizens, writes Medea Benjamin. Instead,
+      it is choosing profits over Palestinian lives. By Medea Benjamin Common Dreams
+      While the U.S. government has given Israel carte blanche to commit genocide, many
+      of us held… Read more →
+    one_sentence_summary: Medea Benjamin argues that Europe is prioritizing profits
+      over the lives of Palestinians, despite the will of its citizens advocating for
+      a different approach.
+    paragraph_summary: In her article, Medea Benjamin argues that Europe has the opportunity
+      to align its actions with the desires of its citizens, who largely advocate for
+      Palestinian rights, but instead prioritizes profits over the lives of Palestinians.
+      She criticizes the U.S. government's unconditional support for Israel, which she
+      views as enabling acts of violence against Palestinians, and calls for a shift
+      in European policy to reflect the humanitarian concerns of its populace.
+    published: '2025-07-22T22:13:35+00:00'
+  - title: 'Vijay Prashad: Nuclear Missile Diplomacy'
+    url: https://consortiumnews.com/2025/07/22/vijay-prashad-nuclear-missile-diplomacy/
+    text: 'Europe and the United States have adopted a path of austerity and war. That
+      is their promise to the world for the period ahead. By Vijay Prashad Tricontinental:
+      Institute for Social Research Reason seems to have been gradually abolished by
+      the… Read more →'
+    one_sentence_summary: The article by Vijay Prashad argues that Europe and the United
+      States are committing to a future characterized by austerity measures and military
+      conflict, signaling a troubling trend in global governance.
+    paragraph_summary: In his article, Vijay Prashad argues that Europe and the United
+      States are committing to a future characterized by austerity measures and military
+      conflict, signaling a troubling trend for global stability. He suggests that rational
+      discourse has diminished in these regions, leading to policies that prioritize
+      economic restraint and militarization over constructive dialogue and cooperation.
+      This shift poses significant challenges for the international community as it
+      grapples with the implications of such a trajectory.
+    published: '2025-07-22T18:51:49+00:00'
+  - title: 'Vijay Prashad: Nuclear Missile Diplomacy'
+    url: https://consortiumnews.com/2025/07/22/vijay-prashad-nuclear-missile-diplomacy/
+    text: 'Europe and the United States have adopted a path of austerity and war. That
+      is their promise to the world for the period ahead. By Vijay Prashad Tricontinental:
+      Institute for Social Research Reason seems to have been gradually abolished by
+      the… Read more →'
+    one_sentence_summary: The article by Vijay Prashad argues that Europe and the United
+      States are committing to a future characterized by austerity measures and military
+      conflict, signaling a troubling trend in global governance.
+    paragraph_summary: In his article, Vijay Prashad argues that Europe and the United
+      States are committing to a future characterized by austerity measures and military
+      conflict, signaling a troubling trend for global stability. He suggests that rational
+      discourse has diminished in these regions, leading to policies that prioritize
+      economic restraint and militarization over constructive dialogue and cooperation.
+      This shift poses significant challenges for the international community as it
+      grapples with the implications of such a trajectory.
+    published: '2025-07-22T18:51:49+00:00'
+  - title: 'Patrick Lawrence: Sun Valley vs. Queensbridge'
+    url: https://consortiumnews.com/2025/07/21/patrick-lawrence-sun-valley-vs-queensbridge/
+    text: In New York City, the battle has been joined between Democratic Party elites
+      and the voters they are increasingly committed to suppressing, between money and
+       democratic process, between power and the forces for change. By Patrick Lawrence 
+      ScheerPost Maybe there… Read more →
+    one_sentence_summary: The article discusses the conflict in New York City between
+      Democratic Party elites and voters, highlighting issues of voter suppression,
+      the influence of money on democracy, and the struggle for change.
+    paragraph_summary: In New York City, a conflict is emerging between Democratic Party
+      elites and the voters they seem to be trying to suppress, highlighting a struggle
+      between financial influence and democratic processes, as well as established power
+      versus movements advocating for change. Patrick Lawrence discusses this dynamic
+      in an article for ScheerPost, suggesting that the ongoing tensions reflect broader
+      issues within the political landscape.
+    published: '2025-07-22T01:10:50+00:00'
+  - title: 'Patrick Lawrence: Sun Valley vs. Queensbridge'
+    url: https://consortiumnews.com/2025/07/21/patrick-lawrence-sun-valley-vs-queensbridge/
+    text: In New York City, the battle has been joined between Democratic Party elites
+      and the voters they are increasingly committed to suppressing, between money and
+       democratic process, between power and the forces for change. By Patrick Lawrence 
+      ScheerPost Maybe there… Read more →
+    one_sentence_summary: The article discusses the conflict in New York City between
+      Democratic Party elites and voters, highlighting issues of voter suppression,
+      the influence of money on democracy, and the struggle for change.
+    paragraph_summary: In New York City, a conflict is emerging between Democratic Party
+      elites and the voters they seem to be trying to suppress, highlighting a struggle
+      between financial influence and democratic processes, as well as established power
+      versus movements advocating for change. Patrick Lawrence discusses this dynamic
+      in an article for ScheerPost, suggesting that the ongoing tensions reflect broader
+      issues within the political landscape.
+    published: '2025-07-22T01:10:50+00:00'
+  - title: 'Caitlin Johnstone: Gaza Isn’t Starving, It’s Being Starved'
+    url: https://consortiumnews.com/2025/07/21/caitlin-johnstone-gaza-isnt-starving-its-being-starved/
+    text: Western governments have conspired against aid systems that are standing by,
+      ready to protect Gazans from the accelerating spread of death by malnutrition.
+      By Caitlin Johnstone Listen to Tim Foley reading this article Malnutrition-related
+      deaths in Gaza are beginning to… Read more →
+    one_sentence_summary: Western governments are accused of undermining aid efforts
+      that could help prevent malnutrition-related deaths among Gazans amid a worsening
+      humanitarian crisis.
+    paragraph_summary: In her article, Caitlin Johnstone argues that Western governments
+      are undermining aid systems that could help prevent malnutrition-related deaths
+      in Gaza, where the situation is deteriorating rapidly. She highlights the urgent
+      need for support to protect the population from the escalating crisis, suggesting
+      that political actions and decisions are obstructing humanitarian efforts that
+      could alleviate suffering in the region.
+    published: '2025-07-21T18:15:54+00:00'
+  - title: 'Caitlin Johnstone: Gaza Isn’t Starving, It’s Being Starved'
+    url: https://consortiumnews.com/2025/07/21/caitlin-johnstone-gaza-isnt-starving-its-being-starved/
+    text: Western governments have conspired against aid systems that are standing by,
+      ready to protect Gazans from the accelerating spread of death by malnutrition.
+      By Caitlin Johnstone Listen to Tim Foley reading this article Malnutrition-related
+      deaths in Gaza are beginning to… Read more →
+    one_sentence_summary: Western governments are accused of undermining aid efforts
+      that could help prevent malnutrition-related deaths among Gazans amid a worsening
+      humanitarian crisis.
+    paragraph_summary: In her article, Caitlin Johnstone argues that Western governments
+      are undermining aid systems that could help prevent malnutrition-related deaths
+      in Gaza, where the situation is deteriorating rapidly. She highlights the urgent
+      need for support to protect the population from the escalating crisis, suggesting
+      that political actions and decisions are obstructing humanitarian efforts that
+      could alleviate suffering in the region.
+    published: '2025-07-21T18:15:54+00:00'
+  - title: Stand Up for CN Standing Up for Free Speech
+    url: https://consortiumnews.com/2025/07/21/stand-up-for-cn-standing-up-for-free-speech/
+    text: With its coverage of the Assange case and of Zionist efforts to silence its
+      critics, Consortium News has established itself as a leading monitor of free speech
+      rights in the West. By Joe Lauria Special to Consortium News There are… Read more
+      →
+    one_sentence_summary: Consortium News has emerged as a prominent advocate for free
+      speech rights in the West by extensively covering the Assange case and highlighting
+      Zionist efforts to suppress dissent.
+    paragraph_summary: Consortium News has emerged as a prominent advocate for free
+      speech rights in the West, particularly through its in-depth coverage of the Julian
+      Assange case and the efforts by Zionist groups to suppress dissenting voices.
+      Joe Lauria highlights the publication's commitment to monitoring and reporting
+      on issues related to freedom of expression, positioning it as a key player in
+      the ongoing discourse surrounding these critical topics.
+    published: '2025-07-21T07:14:44+00:00'
+  - title: Stand Up for CN Standing Up for Free Speech
+    url: https://consortiumnews.com/2025/07/21/stand-up-for-cn-standing-up-for-free-speech/
+    text: With its coverage of the Assange case and of Zionist efforts to silence its
+      critics, Consortium News has established itself as a leading monitor of free speech
+      rights in the West. By Joe Lauria Special to Consortium News There are… Read more
+      →
+    one_sentence_summary: Consortium News has emerged as a prominent advocate for free
+      speech rights in the West by extensively covering the Assange case and highlighting
+      Zionist efforts to suppress dissent.
+    paragraph_summary: Consortium News has emerged as a prominent advocate for free
+      speech rights in the West, particularly through its in-depth coverage of the Julian
+      Assange case and the efforts by Zionist groups to suppress dissenting voices.
+      Joe Lauria highlights the publication's commitment to monitoring and reporting
+      on issues related to freedom of expression, positioning it as a key player in
+      the ongoing discourse surrounding these critical topics.
+    published: '2025-07-21T07:14:44+00:00'
+  - title: MAGA Going to Israel for Propaganda Training
+    url: https://consortiumnews.com/2025/07/20/maga-going-to-israel-for-propaganda-training/
+    text: The Israeli government is paying to have 16 MAGA social media influencers
+      with millions of followers brought to Israel to learn how to stop American youth
+      from turning against it over Gaza, writes Joe Lauria. By Joe Lauria Special to…
+      Read more →
+    one_sentence_summary: The Israeli government is funding a trip for 16 MAGA social
+      media influencers to Israel in an effort to counteract negative perceptions among
+      American youth regarding its actions in Gaza.
+    paragraph_summary: The Israeli government is funding a trip for 16 MAGA social media
+      influencers, who collectively have millions of followers, to visit Israel. The
+      purpose of this initiative is to educate these influencers on how to counteract
+      the growing anti-Israel sentiment among American youth, particularly in relation
+      to the ongoing conflict in Gaza.
+    published: '2025-07-21T03:45:30+00:00'
+  - title: MAGA Going to Israel for Propaganda Training
+    url: https://consortiumnews.com/2025/07/20/maga-going-to-israel-for-propaganda-training/
+    text: The Israeli government is paying to have 16 MAGA social media influencers
+      with millions of followers brought to Israel to learn how to stop American youth
+      from turning against it over Gaza, writes Joe Lauria. By Joe Lauria Special to…
+      Read more →
+    one_sentence_summary: The Israeli government is funding a trip for 16 MAGA social
+      media influencers to Israel in an effort to counteract negative perceptions among
+      American youth regarding its actions in Gaza.
+    paragraph_summary: The Israeli government is funding a trip for 16 MAGA social media
+      influencers, who collectively have millions of followers, to visit Israel. The
+      purpose of this initiative is to educate these influencers on how to counteract
+      the growing anti-Israel sentiment among American youth, particularly in relation
+      to the ongoing conflict in Gaza.
+    published: '2025-07-21T03:45:30+00:00'
+  - title: Flotilla Ship Heads Towards Gaza With 7 U.S. Nationals
+    url: https://consortiumnews.com/2025/07/20/flotilla-ship-heads-towards-gaza-with-7-u-s-nationals/
+    text: Twenty-one persons from 10 countries are onboard the Handala, including Americans
+      strongly opposed to the U.S. complicity in the Israeli genocide of Palestinians
+      in Gaza. By Ann Wright The Gaza Freedom flotilla coalition is sailing its next
+      ship to break… Read more →
+    one_sentence_summary: The Handala, part of the Gaza Freedom flotilla, is carrying
+      21 individuals from 10 countries, including Americans protesting U.S. involvement
+      in the Israeli actions against Palestinians in Gaza.
+    paragraph_summary: The article discusses the Gaza Freedom Flotilla coalition's latest
+      mission, featuring the Handala ship carrying 21 individuals from 10 different
+      countries, including Americans who are vocally against U.S. involvement in what
+      they describe as the Israeli genocide of Palestinians in Gaza. The coalition aims
+      to challenge the blockade and draw attention to the humanitarian crisis in the
+      region.
+    published: '2025-07-20T23:02:24+00:00'
+  - title: Flotilla Ship Heads Towards Gaza With 7 U.S. Nationals
+    url: https://consortiumnews.com/2025/07/20/flotilla-ship-heads-towards-gaza-with-7-u-s-nationals/
+    text: Twenty-one persons from 10 countries are onboard the Handala, including Americans
+      strongly opposed to the U.S. complicity in the Israeli genocide of Palestinians
+      in Gaza. By Ann Wright The Gaza Freedom flotilla coalition is sailing its next
+      ship to break… Read more →
+    one_sentence_summary: The Handala, part of the Gaza Freedom flotilla, is carrying
+      21 individuals from 10 countries, including Americans protesting U.S. involvement
+      in the Israeli actions against Palestinians in Gaza.
+    paragraph_summary: The article discusses the Gaza Freedom Flotilla coalition's latest
+      mission, featuring the Handala ship carrying 21 individuals from 10 different
+      countries, including Americans who are vocally against U.S. involvement in what
+      they describe as the Israeli genocide of Palestinians in Gaza. The coalition aims
+      to challenge the blockade and draw attention to the humanitarian crisis in the
+      region.
+    published: '2025-07-20T23:02:24+00:00'
+  - title: Trump’s Desaparecidos
+    url: https://consortiumnews.com/2025/07/19/trumps-desaparecidos/
+    text: A hacker found more than 40 people not previously acknowledged by the Trump
+      administration on the list of migrants deported to CECOT, according to 404 Media.
+      By Julia Conley Common Dreams Dozens of people who have never been acknowledged
+      by the… Read more →
+    one_sentence_summary: A hacker discovered over 40 previously unacknowledged individuals
+      on the list of migrants deported to CECOT by the Trump administration, as reported
+      by 404 Media.
+    paragraph_summary: A hacker discovered over 40 individuals on the list of migrants
+      deported to CECOT who had not been previously recognized by the Trump administration,
+      as reported by 404 Media. This revelation highlights the existence of undocumented
+      deportations and raises concerns about transparency and accountability in immigration
+      practices during that period.
+    published: '2025-07-19T18:45:43+00:00'
+  - title: Trump’s Desaparecidos
+    url: https://consortiumnews.com/2025/07/19/trumps-desaparecidos/
+    text: A hacker found more than 40 people not previously acknowledged by the Trump
+      administration on the list of migrants deported to CECOT, according to 404 Media.
+      By Julia Conley Common Dreams Dozens of people who have never been acknowledged
+      by the… Read more →
+    one_sentence_summary: A hacker discovered over 40 previously unacknowledged individuals
+      on the list of migrants deported to CECOT by the Trump administration, as reported
+      by 404 Media.
+    paragraph_summary: A hacker discovered over 40 individuals on the list of migrants
+      deported to CECOT who had not been previously recognized by the Trump administration,
+      as reported by 404 Media. This revelation highlights the existence of undocumented
+      deportations and raises concerns about transparency and accountability in immigration
+      practices during that period.
+    published: '2025-07-19T18:45:43+00:00'
+  - title: 'Jonathan Cook: Britain’s Repressive Defense of Genocide'
+    url: https://consortiumnews.com/2025/07/18/jonathan-cook-britains-repressive-defense-of-genocide/
+    text: The British establishment is creating a climate of fear about protesting in
+      any meaningful way against Israel’s oppression of Palestinians.  By Jonathan Cook
+      Jonathan-Cook.net British-Israeli Jew Yael Kahn has been charged with causing
+      “alarm or distress” for holding a placard… Read more →
+    one_sentence_summary: The article discusses how the British establishment is fostering
+      a climate of fear regarding protests against Israel's treatment of Palestinians,
+      exemplified by the case of British-Israeli Jew Yael Kahn, who was charged for
+      holding a placard.
+    paragraph_summary: The article by Jonathan Cook discusses how the British establishment
+      is fostering a climate of fear surrounding protests against Israel's treatment
+      of Palestinians. It highlights the case of British-Israeli Jew Yael Kahn, who
+      faced charges for holding a placard, suggesting that such actions are being criminalized
+      to suppress meaningful dissent and discourage public demonstrations against Israel's
+      policies.
+    published: '2025-07-18T18:00:10+00:00'
+  - title: 'Jonathan Cook: Britain’s Repressive Defense of Genocide'
+    url: https://consortiumnews.com/2025/07/18/jonathan-cook-britains-repressive-defense-of-genocide/
+    text: The British establishment is creating a climate of fear about protesting in
+      any meaningful way against Israel’s oppression of Palestinians.  By Jonathan Cook
+      Jonathan-Cook.net British-Israeli Jew Yael Kahn has been charged with causing
+      “alarm or distress” for holding a placard… Read more →
+    one_sentence_summary: The article discusses how the British establishment is fostering
+      a climate of fear regarding protests against Israel's treatment of Palestinians,
+      exemplified by the case of British-Israeli Jew Yael Kahn, who was charged for
+      holding a placard.
+    paragraph_summary: The article by Jonathan Cook discusses how the British establishment
+      is fostering a climate of fear surrounding protests against Israel's treatment
+      of Palestinians. It highlights the case of British-Israeli Jew Yael Kahn, who
+      faced charges for holding a placard, suggesting that such actions are being criminalized
+      to suppress meaningful dissent and discourage public demonstrations against Israel's
+      policies.
+    published: '2025-07-18T18:00:10+00:00'
+  - title: American Authoritarianism
+    url: https://consortiumnews.com/2025/07/18/american-authoritarianism/
+    text: Torture, rotating judges and prosecutors and incarceration for a generation
+      without charges or trial are all hallmarks of an authoritarian government, writes
+      Andrew P. Napolitano. By Andrew P. Napolitano Last week, a federal appeals court
+      in Washington, D.C., invalidated a… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that practices such as torture,
+      the rotation of judges and prosecutors, and prolonged incarceration without charges
+      are indicative of an authoritarian regime.
+    paragraph_summary: In a recent article, Andrew P. Napolitano critiques the practices
+      of an authoritarian government, highlighting issues such as torture, the rotation
+      of judges and prosecutors, and the prolonged incarceration of individuals without
+      charges or trials. He emphasizes that these tactics are characteristic of oppressive
+      regimes, suggesting that they undermine the principles of justice and due process.
+      The article also references a federal appeals court decision in Washington, D.C.,
+      which invalidated certain governmental actions, further illustrating the ongoing
+      struggle against authoritarian practices in the legal system.
+    published: '2025-07-18T04:14:20+00:00'
+  - title: American Authoritarianism
+    url: https://consortiumnews.com/2025/07/18/american-authoritarianism/
+    text: Torture, rotating judges and prosecutors and incarceration for a generation
+      without charges or trial are all hallmarks of an authoritarian government, writes
+      Andrew P. Napolitano. By Andrew P. Napolitano Last week, a federal appeals court
+      in Washington, D.C., invalidated a… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that practices such as torture,
+      the rotation of judges and prosecutors, and prolonged incarceration without charges
+      are indicative of an authoritarian regime.
+    paragraph_summary: In a recent article, Andrew P. Napolitano critiques the practices
+      of an authoritarian government, highlighting issues such as torture, the rotation
+      of judges and prosecutors, and the prolonged incarceration of individuals without
+      charges or trials. He emphasizes that these tactics are characteristic of oppressive
+      regimes, suggesting that they undermine the principles of justice and due process.
+      The article also references a federal appeals court decision in Washington, D.C.,
+      which invalidated certain governmental actions, further illustrating the ongoing
+      struggle against authoritarian practices in the legal system.
+    published: '2025-07-18T04:14:20+00:00'
+  - title: 'Chris Hedges Report: War & Iran'
+    url: https://consortiumnews.com/2025/07/17/chris-hedges-report-war-iran/
+    text: Former British diplomat Alastair Crooke assesses the current situation in
+      the Middle East and what can be expected in the coming weeks or months. By Chris
+      Hedges The Chris Hedges Report Following attacks on Iran by Israel and the United…
+      Read more →
+    one_sentence_summary: Former British diplomat Alastair Crooke analyzes the escalating
+      tensions in the Middle East, particularly the recent Israeli attacks on Iran,
+      and discusses potential future developments in the region.
+    paragraph_summary: In a recent assessment by former British diplomat Alastair Crooke,
+      the current situation in the Middle East is analyzed, particularly in light of
+      escalating tensions following attacks on Iran by Israel. Crooke discusses the
+      implications of these developments and offers insights into potential future scenarios
+      in the region. He emphasizes the complexity of the geopolitical landscape and
+      the likelihood of continued instability, suggesting that the coming weeks or months
+      may see further conflict and shifts in power dynamics.
+    published: '2025-07-17T18:00:33+00:00'
+  - title: 'Chris Hedges Report: War & Iran'
+    url: https://consortiumnews.com/2025/07/17/chris-hedges-report-war-iran/
+    text: Former British diplomat Alastair Crooke assesses the current situation in
+      the Middle East and what can be expected in the coming weeks or months. By Chris
+      Hedges The Chris Hedges Report Following attacks on Iran by Israel and the United…
+      Read more →
+    one_sentence_summary: Former British diplomat Alastair Crooke analyzes the escalating
+      tensions in the Middle East, particularly the recent Israeli attacks on Iran,
+      and discusses potential future developments in the region.
+    paragraph_summary: In a recent assessment by former British diplomat Alastair Crooke,
+      the current situation in the Middle East is analyzed, particularly in light of
+      escalating tensions following attacks on Iran by Israel. Crooke discusses the
+      implications of these developments and offers insights into potential future scenarios
+      in the region. He emphasizes the complexity of the geopolitical landscape and
+      the likelihood of continued instability, suggesting that the coming weeks or months
+      may see further conflict and shifts in power dynamics.
+    published: '2025-07-17T18:00:33+00:00'
+  - title: Lobby Fumes as US Teachers Drop Zionist Curriculum
+    url: https://consortiumnews.com/2025/07/17/lobby-fumes-as-us-teachers-drop-zionist-curriculum/
+    text: After a majority of the teachers’ union delegates voted against further use
+      of its materials, the ADL is appealing to the union’s executive committee, writes
+      Marcy Winograd. By Marcy Winograd Common Dreams National Education Association
+      teachers in support of Palestinian… Read more →
+    one_sentence_summary: The ADL is appealing to the executive committee of the National
+      Education Association after a majority of union delegates voted against using
+      its materials, as reported by Marcy Winograd.
+    paragraph_summary: In response to a majority vote by teachers' union delegates against
+      the continued use of its materials, the Anti-Defamation League (ADL) is appealing
+      to the union's executive committee. Marcy Winograd reports that this situation
+      arises amid tensions surrounding the National Education Association's support
+      for Palestinian issues, highlighting a significant divide within the union regarding
+      educational resources and political stances.
+    published: '2025-07-17T04:46:21+00:00'
+  - title: Lobby Fumes as US Teachers Drop Zionist Curriculum
+    url: https://consortiumnews.com/2025/07/17/lobby-fumes-as-us-teachers-drop-zionist-curriculum/
+    text: After a majority of the teachers’ union delegates voted against further use
+      of its materials, the ADL is appealing to the union’s executive committee, writes
+      Marcy Winograd. By Marcy Winograd Common Dreams National Education Association
+      teachers in support of Palestinian… Read more →
+    one_sentence_summary: The ADL is appealing to the executive committee of the National
+      Education Association after a majority of union delegates voted against using
+      its materials, as reported by Marcy Winograd.
+    paragraph_summary: In response to a majority vote by teachers' union delegates against
+      the continued use of its materials, the Anti-Defamation League (ADL) is appealing
+      to the union's executive committee. Marcy Winograd reports that this situation
+      arises amid tensions surrounding the National Education Association's support
+      for Palestinian issues, highlighting a significant divide within the union regarding
+      educational resources and political stances.
+    published: '2025-07-17T04:46:21+00:00'
+  - title: Israel’s ‘Humanitarian City’ Plan
+    url: https://consortiumnews.com/2025/07/16/israels-humanitarian-city-plan/
+    text: This is not a negotiating tactic to strengthen Israel’s position in ceasefire
+      talks, writes Medea Benjamin. It is the next phase of a nearly two-year long genocide.
+      By Medea Benjamin Z Network The Israeli government has just put forward one… Read
+      more →
+    one_sentence_summary: Medea Benjamin argues that the Israeli government's recent
+      actions are not a strategic negotiation tactic but rather a continuation of a
+      prolonged genocide against Palestinians.
+    paragraph_summary: Medea Benjamin argues that the recent actions of the Israeli
+      government are not merely a negotiating tactic to enhance its position in ceasefire
+      discussions, but rather represent a continuation of a nearly two-year-long genocide.
+      In her article for Z Network, she emphasizes the severity of the situation and
+      critiques the Israeli government's approach, suggesting that it reflects a deeper,
+      ongoing pattern of violence rather than a strategic maneuver in diplomatic negotiations.
+    published: '2025-07-16T20:33:04+00:00'
+  - title: Israel’s ‘Humanitarian City’ Plan
+    url: https://consortiumnews.com/2025/07/16/israels-humanitarian-city-plan/
+    text: This is not a negotiating tactic to strengthen Israel’s position in ceasefire
+      talks, writes Medea Benjamin. It is the next phase of a nearly two-year long genocide.
+      By Medea Benjamin Z Network The Israeli government has just put forward one… Read
+      more →
+    one_sentence_summary: Medea Benjamin argues that the Israeli government's recent
+      actions are not a strategic negotiation tactic but rather a continuation of a
+      prolonged genocide against Palestinians.
+    paragraph_summary: Medea Benjamin argues that the recent actions of the Israeli
+      government are not merely a negotiating tactic to enhance its position in ceasefire
+      discussions, but rather represent a continuation of a nearly two-year-long genocide.
+      In her article for Z Network, she emphasizes the severity of the situation and
+      critiques the Israeli government's approach, suggesting that it reflects a deeper,
+      ongoing pattern of violence rather than a strategic maneuver in diplomatic negotiations.
+    published: '2025-07-16T20:33:04+00:00'
+  - title: UK Media Peddled Iran ‘Link’ to Palestine Action
+    url: https://consortiumnews.com/2025/07/16/uk-media-peddled-iran-link-to-palestine-action/
+    text: The Home Office briefed The Times that the direct-action group could be funded
+      by Iran, and then U.K. media kicked into action spreading the story, Mark Curtis
+      reports. By Mark Curtis Declassified UK The proscription of Palestine Action [under
+      the… Read more →
+    one_sentence_summary: The Home Office suggested to The Times that the direct-action
+      group Palestine Action may be funded by Iran, prompting widespread media coverage
+      in the UK.
+    paragraph_summary: The Home Office has informed The Times that the direct-action
+      group Palestine Action may be receiving funding from Iran, prompting U.K. media
+      to rapidly disseminate this information. Mark Curtis from Declassified UK reports
+      on the implications of this potential funding source and the broader context surrounding
+      the proscription of Palestine Action.
+    published: '2025-07-16T17:10:38+00:00'
+  - title: UK Media Peddled Iran ‘Link’ to Palestine Action
+    url: https://consortiumnews.com/2025/07/16/uk-media-peddled-iran-link-to-palestine-action/
+    text: The Home Office briefed The Times that the direct-action group could be funded
+      by Iran, and then U.K. media kicked into action spreading the story, Mark Curtis
+      reports. By Mark Curtis Declassified UK The proscription of Palestine Action [under
+      the… Read more →
+    one_sentence_summary: The Home Office suggested to The Times that the direct-action
+      group Palestine Action may be funded by Iran, prompting widespread media coverage
+      in the UK.
+    paragraph_summary: The Home Office has informed The Times that the direct-action
+      group Palestine Action may be receiving funding from Iran, prompting U.K. media
+      to rapidly disseminate this information. Mark Curtis from Declassified UK reports
+      on the implications of this potential funding source and the broader context surrounding
+      the proscription of Palestine Action.
+    published: '2025-07-16T17:10:38+00:00'
   - title: 'NATO: The Most Dangerous Organization'
     url: https://consortiumnews.com/2025/07/15/nato-the-most-dangerous-organization/
     text: 'By the time of its out-of-theater intervention in Afghanistan, it became

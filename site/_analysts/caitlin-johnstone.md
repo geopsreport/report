@@ -7,14 +7,962 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The international discourse on Israel’s actions in Gaza has reached a new inflection point. After months of mounting evidence and growing outcry from independent analysts and activists, the mainstream media is now beginning to acknowledge the severity of the situation. In a significant development, **Omer Bartov**, a Holocaust and genocide scholar, published an op-ed in The New York Times explicitly stating that Israel is committing genocide against Palestinians in Gaza. Bartov’s admission, as reported by **Caitlin Johnstone**, comes after his own struggle with personal and professional biases and a call for fellow scholars to break their silence.
+  The ongoing crisis in Gaza continues to escalate, with new reports highlighting not only the scale of violence but also the broader societal implications. The latest analysis underscores that the atrocities in Gaza represent more than just acts of genocide and ethnic cleansing—they are seen as part of a wider experiment in normalizing abuses and testing the limits of public acceptance within the imperial framework. **Caitlin Johnstone** argues that this normalization reflects entrenched issues of Zionism, colonialism, and systemic racism, warning that the world is witnessing a disturbing shift toward apathy and acceptance of extreme violence.
   
-  This shift in mainstream narrative follows a period of widespread criticism of Western governments and institutions for their responses to the crisis. Recent weeks have seen the US and UK governments take controversial steps: sanctioning UN officials who oppose the war, removing groups like Syria’s Hayat Tahrir al-Sham from terrorist lists, and criminalizing anti-genocide activism. These moves, as detailed by Johnstone, have been widely interpreted as attempts to suppress dissent and shield Israel from accountability.
+  Recent developments include detailed accounts from Gaza, where Israeli snipers are reportedly targeting civilians' body parts on specific days, indicating a deliberate and systematic pattern of violence. Medical professionals and humanitarian staff, including those from the World Health Organization, have also come under attack, with the Israeli military accusing numerous doctors of terrorism. This escalation has contributed to a sharp rise in malnutrition-related deaths, as civilians collapse in the streets amid ongoing violence and a deepening humanitarian crisis.
   
-  Meanwhile, the normalization of violence and the distortion of antisemitism narratives continue to be central themes. Johnstone highlights how criticism of Israel is increasingly equated with antisemitism, a tactic that obscures the real connection between Israel’s actions and the rise in antisemitic incidents globally. This conflation has been used to justify new laws and policies, such as Australia’s controversial anti-antisemitism strategy, which critics argue infringes on free speech.
+  International responses remain muted, and calls for action have grown more urgent as evidence mounts of both direct violence and the deliberate starvation of the population. The normalization of these abuses is increasingly being recognized as a test case for what the global public will tolerate, with **Johnstone** warning that "if this level of atrocity can be normalized here, it can be normalized anywhere."
   
-  Looking ahead, the trend is clear: the mainstream narrative is shifting, albeit slowly, toward acknowledging the gravity of the situation in Gaza. With respected scholars now using the term “genocide” and public discourse becoming more critical, it is quite likely that pressure will mount on Western governments to reconsider their positions. However, given the entrenched interests and ongoing efforts to suppress dissent, meaningful policy change remains uncertain in the near term. There is a high chance that activism and counterculture movements in the West will continue to grow in response to these developments, further challenging official narratives and demanding accountability.
+  Trends indicate that the situation in Gaza is not only a humanitarian disaster but also a signal of shifting moral boundaries in international politics. There is a high chance that, absent significant intervention, the violence and deprivation will continue to worsen, with the normalization of such actions setting a dangerous precedent for future conflicts. Most definitely, the continued silence or complicity of major powers will further entrench these patterns, making meaningful change increasingly unlikely in the near term.
 articles:
+  - title: It's A Genocide, But It's Also So Much More Than That
+    url: https://www.caitlinjohnst.one/p/its-a-genocide-but-its-also-so-much
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The mass atrocity in Gaza is a genocide , obviously, and is an undisguised ethnic
+      cleansing operation . But it’s also a lot more than that. It’s an experiment — to
+      see what kinds of abuses the public will accept without causing significant disruption
+      to the imperial status quo. It’s a psychological operation — to push out the boundaries
+      of what’s normal and acceptable in our minds so that we will consent to even more
+      horrific abuses in the future. It’s a symptom — of Zionism, of colonialism, of
+      militarism, of capitalism, of western supremacism, of empire-building, of propaganda,
+      of ignorance, of apathy, of delusion, of ego. It’s a manifestation — of violent
+      racist, supremacist and xenophobic belief systems that have always been there
+      but were previously restrained, meeting with the unwholesome nature of alliances
+      that have long been in place but have been aggressively normalized. It’s a mirror
+      — showing us accurately and impartially who we currently are as a civilization.
+      It’s a disclosure — showing us what the western empire we live under really is
+      underneath its fake plastic mask of liberal democracy and righteous humanitarianism.
+      It’s a revelation — showing us who among us really stands for truth and justice
+      and who has been deceiving us about themselves and their motives this entire time.
+      It’s a catalyst — a galvanizing force and a rallying cry for all who realize that
+      the murderous power structures we live under can no longer be allowed to stand,
+      and a blaring alarm clock opening more and more snoozing eyes to the need for
+      revolutionary change. It’s a test — of who we are as a species and what we are
+      made of, and of whether we can transcend the destructive patterning that is driving
+      humanity to its doom. It’s a question — asking us what kind of world we want to
+      live in going forward, and what kind of people we want to be. It’s an invitation
+      — to become something better than what we are now. ______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image by hosnysalah via Pixabay.'
+    one_sentence_summary: The article argues that the atrocities in Gaza represent not
+      only genocide and ethnic cleansing but also a broader experiment in societal acceptance
+      of abuses, reflecting deep-rooted issues of Zionism, colonialism, and systemic
+      racism, while serving as a disturbing indicator of normalized violence and apathy
+      within the imperial framework.
+    paragraph_summary: The article argues that the mass atrocities occurring in Gaza
+      represent not only a genocide and ethnic cleansing but also a broader experiment
+      to gauge public tolerance for abuses under the guise of imperialism. It characterizes
+      these events as a psychological operation aimed at expanding the limits of what
+      society deems acceptable, revealing deep-seated issues related to Zionism, colonialism,
+      and systemic racism. The situation serves as a reflection of contemporary civilization,
+      exposing the true nature of Western imperialism beneath its facade of democracy
+      and humanitarianism. It acts as a catalyst for awakening awareness and prompting
+      revolutionary change, challenging individuals to reconsider their values and the
+      kind of world they wish to create. Ultimately, it poses critical questions about
+      humanity's future and encourages a collective aspiration for improvement.
+    published: '2025-07-23T01:41:49+00:00'
+  - title: It's A Genocide, But It's Also So Much More Than That
+    url: https://www.caitlinjohnst.one/p/its-a-genocide-but-its-also-so-much
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The mass atrocity in Gaza is a genocide , obviously, and is an undisguised ethnic
+      cleansing operation . But it’s also a lot more than that. It’s an experiment — to
+      see what kinds of abuses the public will accept without causing significant disruption
+      to the imperial status quo. It’s a psychological operation — to push out the boundaries
+      of what’s normal and acceptable in our minds so that we will consent to even more
+      horrific abuses in the future. It’s a symptom — of Zionism, of colonialism, of
+      militarism, of capitalism, of western supremacism, of empire-building, of propaganda,
+      of ignorance, of apathy, of delusion, of ego. It’s a manifestation — of violent
+      racist, supremacist and xenophobic belief systems that have always been there
+      but were previously restrained, meeting with the unwholesome nature of alliances
+      that have long been in place but have been aggressively normalized. It’s a mirror
+      — showing us accurately and impartially who we currently are as a civilization.
+      It’s a disclosure — showing us what the western empire we live under really is
+      underneath its fake plastic mask of liberal democracy and righteous humanitarianism.
+      It’s a revelation — showing us who among us really stands for truth and justice
+      and who has been deceiving us about themselves and their motives this entire time.
+      It’s a catalyst — a galvanizing force and a rallying cry for all who realize that
+      the murderous power structures we live under can no longer be allowed to stand,
+      and a blaring alarm clock opening more and more snoozing eyes to the need for
+      revolutionary change. It’s a test — of who we are as a species and what we are
+      made of, and of whether we can transcend the destructive patterning that is driving
+      humanity to its doom. It’s a question — asking us what kind of world we want to
+      live in going forward, and what kind of people we want to be. It’s an invitation
+      — to become something better than what we are now. ______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image by hosnysalah via Pixabay.'
+    one_sentence_summary: The article argues that the atrocities in Gaza represent not
+      only genocide and ethnic cleansing but also a broader experiment in societal acceptance
+      of abuses, reflecting deep-rooted issues of Zionism, colonialism, and systemic
+      racism, while serving as a disturbing indicator of normalized violence and apathy
+      within the imperial framework.
+    paragraph_summary: The article argues that the mass atrocities occurring in Gaza
+      represent not only a genocide and ethnic cleansing but also a broader experiment
+      to gauge public tolerance for abuses under the guise of imperialism. It characterizes
+      these events as a psychological operation aimed at expanding the limits of what
+      society deems acceptable, revealing deep-seated issues related to Zionism, colonialism,
+      and systemic racism. The situation serves as a reflection of contemporary civilization,
+      exposing the true nature of Western imperialism beneath its facade of democracy
+      and humanitarianism. It acts as a catalyst for awakening awareness and prompting
+      revolutionary change, challenging individuals to reconsider their values and the
+      kind of world they wish to create. Ultimately, it poses critical questions about
+      humanity's future and encourages a collective aspiration for improvement.
+    published: '2025-07-23T01:41:49+00:00'
+  - title: Israel's Depravity Will Always Find New Ways To Shock You
+    url: https://www.caitlinjohnst.one/p/israels-depravity-will-always-find
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now A doctor in Gaza named Nick Maynard reports
+      that Israeli snipers are now shooting starving civilians in different body parts
+      on different days, based on the injuries people show up with for treatment. There’s
+      a head day, a leg day, a genitals day, etc. “The medical teams here have also
+      been seeing a clear pattern of people being shot in certain body parts on different
+      days, such as the head, legs or genitals, which seems to indicate deliberate targeting,”
+      Maynard says. I keep thinking there’s nothing Israel could do that would shock
+      me anymore, but they keep finding ways. ❖ The Israeli military has attacked the
+      residence of World Health Organization staff, detaining multiple medical workers.
+      This comes as Israel’s Trade Envoy Fleur Hassan-Nahoum tells Channel 4 News that
+      “most doctors in most hospitals in Gaza” are “involved in terrorist activities”.
+      Possibly the single dumbest thing Israel and its apologists ask us to believe
+      is that Israel has been systematically demolishing Gaza’s healthcare infrastructure
+      because the healthcare infrastructure is full of terrorists, and not because they
+      want to commit genocide. ❖ https://x.com/caitoz/status/1944035115564519828 ❖ The
+      Gaza Health Ministry announced on Monday that among the 130 Palestinians killed
+      in the daily death toll of Israel’s genocidal onslaught, 99 were killed while
+      trying to obtain food from aid sites. At some point you just run out of words
+      for talking about how evil this shit is. ❖ If you want to find out who someone
+      truly is, surrender fully to their will and give them everything they want. They’ll
+      show you. Zionism is showing us what it truly is right now. This is what it looks
+      like when the Zionists are allowed to do exactly what they want to do. ❖ Hasbarists
+      have been going nuts on social media lately. Whenever Israel is acting more evil
+      than usual the online Israel apologia always kicks into high gear. Words words
+      words words words words words. They love their words. They think if they say enough
+      words with enough feigned conviction people will go “Oh okay well maybe starving
+      civilians to death is actually fine and normal after all.” ❖ I’ll never get used
+      to the way I’m watching my own government and its allies support the most nightmarish
+      shit I’ve ever seen in my life every single day in the middle east and yet people
+      keep trying to convince me to be really fearful and hateful toward Muslims. ❖
+      https://x.com/caitoz/status/1947096132297138507 ❖ Alexandria Ocasio-Cortez has
+      been having a public tantrum on Bluesky because of the leftist backlash from her
+      vote against an amendment which would have blocked funding for Israel’s missile
+      defense system and her garbage justification of that move, angrily proclaiming
+      that her “record on Palestine speaks for itself” and claiming that the opposition
+      has created a “threat environment” that is “scary”. That AOC chose to throw this
+      fit on Bluesky rather than Twitter is telling; she got so mad that she ran to
+      the liberal echo chamber where she’s adored in order to complain about how the
+      left won’t even let her support just a little bit of genocide as a treat. This
+      is just her yelling at people for not loving her when she does gross swamp monster
+      things. But it doesn’t work that way. You don’t get to be the beloved leftist
+      people’s champion and also be the person who votes against an amendment to withhold
+      $500 million of military funding for a genocidal state and then justifies it with
+      obnoxious lies. You don’t get to do the darling of the left thing and also do
+      the weird Zionist swamp creature thing. You have to pick one, because you can’t
+      be both. No amount of yelling at ordinary people is going to change that. AOC
+      and her supporters wouldn’t have to spend days frantically justifying her refusal
+      to support Palestine and oppose genocide at every opportunity if she would simply
+      support Palestine and oppose genocide at every opportunity. That’s normal. Just
+      be normal. Do the normal thing. _________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: A doctor in Gaza reports that Israeli snipers are systematically
+      targeting civilians' body parts on specific days, indicating a pattern of deliberate
+      violence, while the Israeli military has also attacked WHO staff and accused many
+      doctors of terrorism.
+    paragraph_summary: In a harrowing report from Gaza, Dr. Nick Maynard reveals that
+      Israeli snipers are deliberately targeting civilians by shooting them in specific
+      body parts on designated days, indicating a systematic approach to violence. This
+      pattern of targeting is compounded by the Israeli military's attacks on healthcare
+      workers, including the detention of World Health Organization staff, while Israeli
+      officials falsely claim that most doctors in Gaza are involved in terrorism. The
+      Gaza Health Ministry reports that a significant number of recent casualties occurred
+      among those seeking food from aid sites, highlighting the dire humanitarian crisis.
+      The article critiques the justifications provided by Israel and its supporters,
+      suggesting that the ongoing violence and destruction of Gaza's healthcare infrastructure
+      reflect a broader agenda of genocide rather than legitimate security concerns.
+    published: '2025-07-22T13:03:13+00:00'
+  - title: Israel's Depravity Will Always Find New Ways To Shock You
+    url: https://www.caitlinjohnst.one/p/israels-depravity-will-always-find
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now A doctor in Gaza named Nick Maynard reports
+      that Israeli snipers are now shooting starving civilians in different body parts
+      on different days, based on the injuries people show up with for treatment. There’s
+      a head day, a leg day, a genitals day, etc. “The medical teams here have also
+      been seeing a clear pattern of people being shot in certain body parts on different
+      days, such as the head, legs or genitals, which seems to indicate deliberate targeting,”
+      Maynard says. I keep thinking there’s nothing Israel could do that would shock
+      me anymore, but they keep finding ways. ❖ The Israeli military has attacked the
+      residence of World Health Organization staff, detaining multiple medical workers.
+      This comes as Israel’s Trade Envoy Fleur Hassan-Nahoum tells Channel 4 News that
+      “most doctors in most hospitals in Gaza” are “involved in terrorist activities”.
+      Possibly the single dumbest thing Israel and its apologists ask us to believe
+      is that Israel has been systematically demolishing Gaza’s healthcare infrastructure
+      because the healthcare infrastructure is full of terrorists, and not because they
+      want to commit genocide. ❖ https://x.com/caitoz/status/1944035115564519828 ❖ The
+      Gaza Health Ministry announced on Monday that among the 130 Palestinians killed
+      in the daily death toll of Israel’s genocidal onslaught, 99 were killed while
+      trying to obtain food from aid sites. At some point you just run out of words
+      for talking about how evil this shit is. ❖ If you want to find out who someone
+      truly is, surrender fully to their will and give them everything they want. They’ll
+      show you. Zionism is showing us what it truly is right now. This is what it looks
+      like when the Zionists are allowed to do exactly what they want to do. ❖ Hasbarists
+      have been going nuts on social media lately. Whenever Israel is acting more evil
+      than usual the online Israel apologia always kicks into high gear. Words words
+      words words words words words. They love their words. They think if they say enough
+      words with enough feigned conviction people will go “Oh okay well maybe starving
+      civilians to death is actually fine and normal after all.” ❖ I’ll never get used
+      to the way I’m watching my own government and its allies support the most nightmarish
+      shit I’ve ever seen in my life every single day in the middle east and yet people
+      keep trying to convince me to be really fearful and hateful toward Muslims. ❖
+      https://x.com/caitoz/status/1947096132297138507 ❖ Alexandria Ocasio-Cortez has
+      been having a public tantrum on Bluesky because of the leftist backlash from her
+      vote against an amendment which would have blocked funding for Israel’s missile
+      defense system and her garbage justification of that move, angrily proclaiming
+      that her “record on Palestine speaks for itself” and claiming that the opposition
+      has created a “threat environment” that is “scary”. That AOC chose to throw this
+      fit on Bluesky rather than Twitter is telling; she got so mad that she ran to
+      the liberal echo chamber where she’s adored in order to complain about how the
+      left won’t even let her support just a little bit of genocide as a treat. This
+      is just her yelling at people for not loving her when she does gross swamp monster
+      things. But it doesn’t work that way. You don’t get to be the beloved leftist
+      people’s champion and also be the person who votes against an amendment to withhold
+      $500 million of military funding for a genocidal state and then justifies it with
+      obnoxious lies. You don’t get to do the darling of the left thing and also do
+      the weird Zionist swamp creature thing. You have to pick one, because you can’t
+      be both. No amount of yelling at ordinary people is going to change that. AOC
+      and her supporters wouldn’t have to spend days frantically justifying her refusal
+      to support Palestine and oppose genocide at every opportunity if she would simply
+      support Palestine and oppose genocide at every opportunity. That’s normal. Just
+      be normal. Do the normal thing. _________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: A doctor in Gaza reports that Israeli snipers are systematically
+      targeting civilians' body parts on specific days, indicating a pattern of deliberate
+      violence, while the Israeli military has also attacked WHO staff and accused many
+      doctors of terrorism.
+    paragraph_summary: In a harrowing report from Gaza, Dr. Nick Maynard reveals that
+      Israeli snipers are deliberately targeting civilians by shooting them in specific
+      body parts on designated days, indicating a systematic approach to violence. This
+      pattern of targeting is compounded by the Israeli military's attacks on healthcare
+      workers, including the detention of World Health Organization staff, while Israeli
+      officials falsely claim that most doctors in Gaza are involved in terrorism. The
+      Gaza Health Ministry reports that a significant number of recent casualties occurred
+      among those seeking food from aid sites, highlighting the dire humanitarian crisis.
+      The article critiques the justifications provided by Israel and its supporters,
+      suggesting that the ongoing violence and destruction of Gaza's healthcare infrastructure
+      reflect a broader agenda of genocide rather than legitimate security concerns.
+    published: '2025-07-22T13:03:13+00:00'
+  - title: Gaza Isn't Starving, It Is Being Starved
+    url: https://www.caitlinjohnst.one/p/gaza-isnt-starving-it-is-being-starved
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Malnutrition-related deaths in Gaza are beginning to climb , with the health ministry
+      reporting 18 in a single 24-hour period. Doctors report that people are “collapsing”
+      in the street, and Gaza journalist Nahed Hajjaj is warning the world not to be
+      surprised if the remaining reporters in the enclave are soon silenced by starvation.
+      Unless something drastically changes, things can be expected to get much worse
+      very rapidly. Meanwhile Israeli forces are setting new records with their massacres
+      of starving civilians seeking aid, with 85 killed in a single day on Sunday. If
+      this isn’t evil, then nothing is evil. If Israel isn’t evil, then nothing is.
+      https://x.com/Antiwarcom/status/1946988269255688476 So what’s the plan here? Do
+      we just sit and watch Israel starve Gaza to death with the support of our own
+      governments? And then what? We just go along with our lives, knowing that that
+      happened? That this is what we are as a society? That our civilization is comfortable
+      allowing something like that to happen? And that our rulers could do the same
+      thing to another inconvenient population at any time? We’re just meant to be cool
+      with that? And go on living like it’s normal? I’m genuinely curious. How exactly
+      is everyone planning to go about living their lives after that point? How does
+      that work, exactly? I’m asking because I don’t know. I mean, I know what my own
+      government and its allies should do, but I don’t know what we as ordinary members
+      of the public are supposed to do. https://x.com/ggreenwald/status/1946958227922432443
+      You’ll see western pundits and politicians asking “How do we get a ceasefire in
+      Gaza?” or “How do we end hunger in Gaza?” as though it’s some kind of ineffable
+      mystery, which is kind of like a man strangling a child to death while saying
+      “The child is being strangled, but HOW do we stop the child strangulation from
+      occurring?” It’s not some mystery how to get a ceasefire in Gaza; the empire is
+      the fire. It simply needs to cease firing. Israel’s holocaust in Gaza is made
+      possible only by the support of its western backers, primarily the United States.
+      Numerous Israeli military insiders have acknowledged that none of this would be
+      possible without US support. If the United States and its western allies ceased
+      backing Israel’s onslaught in Gaza, a ceasefire would have to occur. Likewise,
+      it is not a mystery how to get food into Gaza. You just drive the food on in and
+      give it to people. They’ve got roads and gates right there. The only reason people
+      in Gaza are starving is because western governments ( including my own Australia)
+      conspired to pretend to believe that UNRWA is a terrorist organization to justify
+      cutting off critical aid , while doing nothing to pressure Israel into allowing
+      aid to flow freely. And now Israel and the US empire are monopolizing the delivery
+      of “aid” through the so-called Gaza Humanitarian Foundation, whose facilities
+      now see civilians massacred every day for the crime of attempting to obtain food.
+      https://x.com/UNRWA/status/1946495329928388841 The organizations, funding and
+      delivery systems to feed Gaza are all 100 percent fully available (at no cost
+      to Israel, by the way). They’re just not being allowed to provide aid because
+      the goal is to remove all Palestinians from Gaza via death or displacement. The
+      people of Gaza are starving because the west is helping Israel starve Gaza. It
+      really is that simple. This isn’t some kind of unfortunate famine caused by a
+      drought or natural disaster. It is a deliberately manufactured starvation campaign,
+      implemented with genocidal intent. To paraphrase Utah Phillips, Gaza isn’t starving,
+      it is being starved. And the people who are starving it have names and addresses.
+      ___________________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      My work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. Click here
+      for links for my mailing list, social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image by UNRWA via Wikimedia Commons .'
+    one_sentence_summary: Malnutrition-related deaths in Gaza are rising sharply, with
+      reports of civilians collapsing in the streets and increasing violence from Israeli
+      forces, prompting urgent calls for international awareness and action against
+      the humanitarian crisis.
+    paragraph_summary: Malnutrition-related deaths in Gaza are increasing, with the
+      health ministry reporting 18 deaths in just one day, as doctors observe people
+      collapsing in the streets. Journalist Nahed Hajjaj warns that the situation is
+      dire, with starvation potentially silencing the remaining reporters in the region.
+      Israeli forces are also reportedly killing civilians seeking aid, with 85 fatalities
+      recorded in a single day. The article questions the moral implications of allowing
+      such suffering to continue and critiques the inaction of governments and society
+      in the face of these atrocities. It challenges readers to consider how they can
+      live with the knowledge of such events and calls for a clearer understanding of
+      how to achieve a ceasefire and alleviate the humanitarian crisis in Gaza.
+    published: '2025-07-21T03:14:49+00:00'
+  - title: Gaza Isn't Starving, It Is Being Starved
+    url: https://www.caitlinjohnst.one/p/gaza-isnt-starving-it-is-being-starved
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Malnutrition-related deaths in Gaza are beginning to climb , with the health ministry
+      reporting 18 in a single 24-hour period. Doctors report that people are “collapsing”
+      in the street, and Gaza journalist Nahed Hajjaj is warning the world not to be
+      surprised if the remaining reporters in the enclave are soon silenced by starvation.
+      Unless something drastically changes, things can be expected to get much worse
+      very rapidly. Meanwhile Israeli forces are setting new records with their massacres
+      of starving civilians seeking aid, with 85 killed in a single day on Sunday. If
+      this isn’t evil, then nothing is evil. If Israel isn’t evil, then nothing is.
+      https://x.com/Antiwarcom/status/1946988269255688476 So what’s the plan here? Do
+      we just sit and watch Israel starve Gaza to death with the support of our own
+      governments? And then what? We just go along with our lives, knowing that that
+      happened? That this is what we are as a society? That our civilization is comfortable
+      allowing something like that to happen? And that our rulers could do the same
+      thing to another inconvenient population at any time? We’re just meant to be cool
+      with that? And go on living like it’s normal? I’m genuinely curious. How exactly
+      is everyone planning to go about living their lives after that point? How does
+      that work, exactly? I’m asking because I don’t know. I mean, I know what my own
+      government and its allies should do, but I don’t know what we as ordinary members
+      of the public are supposed to do. https://x.com/ggreenwald/status/1946958227922432443
+      You’ll see western pundits and politicians asking “How do we get a ceasefire in
+      Gaza?” or “How do we end hunger in Gaza?” as though it’s some kind of ineffable
+      mystery, which is kind of like a man strangling a child to death while saying
+      “The child is being strangled, but HOW do we stop the child strangulation from
+      occurring?” It’s not some mystery how to get a ceasefire in Gaza; the empire is
+      the fire. It simply needs to cease firing. Israel’s holocaust in Gaza is made
+      possible only by the support of its western backers, primarily the United States.
+      Numerous Israeli military insiders have acknowledged that none of this would be
+      possible without US support. If the United States and its western allies ceased
+      backing Israel’s onslaught in Gaza, a ceasefire would have to occur. Likewise,
+      it is not a mystery how to get food into Gaza. You just drive the food on in and
+      give it to people. They’ve got roads and gates right there. The only reason people
+      in Gaza are starving is because western governments ( including my own Australia)
+      conspired to pretend to believe that UNRWA is a terrorist organization to justify
+      cutting off critical aid , while doing nothing to pressure Israel into allowing
+      aid to flow freely. And now Israel and the US empire are monopolizing the delivery
+      of “aid” through the so-called Gaza Humanitarian Foundation, whose facilities
+      now see civilians massacred every day for the crime of attempting to obtain food.
+      https://x.com/UNRWA/status/1946495329928388841 The organizations, funding and
+      delivery systems to feed Gaza are all 100 percent fully available (at no cost
+      to Israel, by the way). They’re just not being allowed to provide aid because
+      the goal is to remove all Palestinians from Gaza via death or displacement. The
+      people of Gaza are starving because the west is helping Israel starve Gaza. It
+      really is that simple. This isn’t some kind of unfortunate famine caused by a
+      drought or natural disaster. It is a deliberately manufactured starvation campaign,
+      implemented with genocidal intent. To paraphrase Utah Phillips, Gaza isn’t starving,
+      it is being starved. And the people who are starving it have names and addresses.
+      ___________________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      My work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. Click here
+      for links for my mailing list, social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image by UNRWA via Wikimedia Commons .'
+    one_sentence_summary: Malnutrition-related deaths in Gaza are rising sharply, with
+      reports of civilians collapsing in the streets and increasing violence from Israeli
+      forces, prompting urgent calls for international awareness and action against
+      the humanitarian crisis.
+    paragraph_summary: Malnutrition-related deaths in Gaza are increasing, with the
+      health ministry reporting 18 deaths in just one day, as doctors observe people
+      collapsing in the streets. Journalist Nahed Hajjaj warns that the situation is
+      dire, with starvation potentially silencing the remaining reporters in the region.
+      Israeli forces are also reportedly killing civilians seeking aid, with 85 fatalities
+      recorded in a single day. The article questions the moral implications of allowing
+      such suffering to continue and critiques the inaction of governments and society
+      in the face of these atrocities. It challenges readers to consider how they can
+      live with the knowledge of such events and calls for a clearer understanding of
+      how to achieve a ceasefire and alleviate the humanitarian crisis in Gaza.
+    published: '2025-07-21T03:14:49+00:00'
+  - title: AOC Is A Genocidal Con Artist
+    url: https://www.caitlinjohnst.one/p/aoc-is-a-genocidal-con-artist
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The Democratic Party’s Instagram-friendly progressive darling Alexandria Ocasio-Cortez
+      has voted with the overwhelming majority of House representatives against withholding
+      $500 million in missile funding for Israel, despite previously saying that Israel
+      is committing “a genocide of Palestinians” in Gaza with US support. The only lawmakers
+      voting to withhold the military aid were Democrats Ilhan Omar, Rashida Tlaib,
+      Summer Lee and Al Green, and Republicans Thomas Massie and Marjorie Taylor Greene.
+      Coming under fire from the left for the glaring contradiction of providing military
+      assistance to a state that is perpetrating an active genocide, AOC issued a statement
+      claiming her vote was about protecting civilians. The statement reads as follows:
+      “Marjorie Taylor Greene’s amendment does nothing to cut off offensive aid to Israel
+      nor end the flow of US munitions being used in Gaza. Of course I voted against
+      it. “What it does do is cut off defensive Iron Dome capacities while allowing
+      the actual bombs killing Palestinians to continue. “I have long stated that I
+      do not believe that adding to the death count of innocent victims to this war
+      is constructive to its end. That is a simple and clear difference of opinion that
+      has long been established. “I remain focused on cutting the flow of US munitions
+      that are being used to perpetuate the genocide in Gaza.” https://x.com/caitoz/status/1946659894939295992
+      AOC’s statement is absolute crap. The Iron Dome is not used for defending, it’s
+      used to facilitate constant attacks. In an article for Jewish Currents titled
+      “ Iron Dome Is Not a Defensive System ,” Dylan Saba explains: “By almost entirely
+      negating the ability of militant groups in Gaza to respond to Israel’s incursions,
+      the purportedly defensive Iron Dome allows Israel to strike without fear of repercussion.
+      And because the cost is so low when measured in Israeli casualties, Israel can
+      wage perpetual war without suffering domestic political consequences, and is under
+      negligible pressure to pursue diplomacy with the Palestinians. ‘In theory, a weapon
+      like Iron Dome could be used only defensively. But in practice it doesn’t work
+      that way,’ analyst Nathan Thrall told Jewish Currents. ‘Iron Dome facilitates
+      greater Israeli offensive measures, because it lowers the perceived cost to Israel
+      of escalating or extending or initiating attacks.’ In other words, while the Iron
+      Dome may prevent the deaths of Israeli non-combatants, it has made it easier for
+      Israel to engage in deadly operations that take Palestinian lives.” https://x.com/JewishCurrents/status/1661800779848581128
+      The Iron Dome isn’t for protecting civilians, it’s for protecting the Israeli
+      regime from deterrence. We see this in the comfort the regime displays in waging
+      constant military violence on its neighbors knowing they can’t retaliate. That’s
+      why Israel cut a ceasefire deal with Iran so fast. Iran’s advanced missiles can’t
+      be reliably stopped by the Iron Dome, so Iran was able to smash Israel and force
+      it to cease its unprovoked aggressions. If Israel had had a missile defense system
+      which could casually swat those missiles out of the sky at a high rate of success,
+      Israel would still be bombing Iran today, and would continue doing so until Tehran
+      looked like Gaza. Israel’s war-horny population would have supported this, because
+      they’d have no skin in the game. Saying you support funding Israel’s “defensive
+      weapons” while opposing sending it “offensive weapons” is as nonsensical as saying
+      you would never give a mass shooter guns and ammunition, but you would give him
+      body armor to keep him safe from the police. You’re helping him commit mass murder
+      just as much as you would be if you gave him guns and ammo. Kings didn’t arm their
+      knights with shields and armor so that they could live long and fulfilling lives,
+      they did it so the knights would live long enough to kill the people the kings
+      wanted killed. If you believe a state is committing genocide, there is no justifiable
+      reason for you to support enhancing that state’s military capabilities and helping
+      it defend itself from those who try to stop it. As others have pointed out , this
+      is exactly the same as opposing Hitler’s Holocaust but supporting giving anti-aircraft
+      flak cannons to Nazi Germany. It’s a self-evidently ridiculous, warmongering,
+      and ultimately genocidal position, disguised as progressive humanitarianism. It’s
+      all the ugliest things about western liberals. https://x.com/MaxBlumenthal/status/1946628558908002748
+      People who say you should criticize AOC less because there are way worse members
+      of congress act like she’s just passively sitting there being a mediocre lawmaker.
+      She’s not. She’s actively anchoring the leftmost edge of the Overton window of
+      US politics to militarism, capitalism, colonialism, and genocide. She’s actively
+      stopping American politics from moving any further left than the nightmare we
+      see before us. Leftists shouldn’t hate AOC less than the politicians to her right,
+      they should hate her much more. It isn’t Mike Johnson’s responsibility to move
+      the US government to the left, and it’s not Nancy Pelosi’s job. It’s hers. That’s
+      what she was elected to do. That’s what she framed the goals of her entire political
+      career as being. And she’s taking her stand firmly bracing against any leftward
+      movement from America’s genocidal, warmongering, unjust, exploitative, tyrannical
+      status quo. And that’s what she was actually put there to do. Her real job is
+      to say “thus far and no further” to the leftmost end of the political spectrum
+      of the world’s most powerful and destructive government. That’s the Democratic
+      Party’s job in general, and it’s the job of media-savvy progressive Democrats
+      in particular. They are there to provide as little resistance as possible when
+      US politics are shoved toward more genocidal, militaristic, oligarchic, capitalist,
+      imperialist abuses, and to provide as much inertia as possible to any movement
+      in the opposite direction. That’s why people who seek leftward movement in the
+      US political machine see AOC as one of their main enemies. It’s for the exact
+      same reason you’d see someone actively blocking the fire exit as your enemy when
+      trying to escape from a burning building. ____________ Caitlin’s Newsletter is
+      a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my mailing list, social
+      media, books, merch, and audio/video versions of each article . All my work is
+      free to bootleg and use in any way, shape or form; republish it, translate it,
+      use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via nrkbeta ( CC BY-SA 2.0 )'
+    one_sentence_summary: Alexandria Ocasio-Cortez voted against withholding $500 million
+      in missile funding for Israel, despite her previous condemnation of Israel's actions
+      in Gaza, justifying her decision by stating that the amendment would not effectively
+      protect civilians.
+    paragraph_summary: Alexandria Ocasio-Cortez, a prominent progressive figure in the
+      Democratic Party, voted against an amendment to withhold $500 million in missile
+      funding for Israel, despite her previous statements condemning Israel's actions
+      in Gaza as genocidal. Only a small group of lawmakers, including some Democrats
+      and Republicans, supported the amendment, which Ocasio-Cortez argued would cut
+      off defensive capabilities like the Iron Dome while allowing offensive aid to
+      continue. In her defense, she claimed her vote aimed to protect civilians and
+      prevent further casualties, asserting that the amendment would not effectively
+      address the flow of U.S. munitions contributing to the violence. Critics, however,
+      argue that the Iron Dome facilitates Israeli attacks rather than serving purely
+      defensive purposes, highlighting a significant contradiction in her stance.
+    published: '2025-07-20T03:39:24+00:00'
+  - title: AOC Is A Genocidal Con Artist
+    url: https://www.caitlinjohnst.one/p/aoc-is-a-genocidal-con-artist
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      The Democratic Party’s Instagram-friendly progressive darling Alexandria Ocasio-Cortez
+      has voted with the overwhelming majority of House representatives against withholding
+      $500 million in missile funding for Israel, despite previously saying that Israel
+      is committing “a genocide of Palestinians” in Gaza with US support. The only lawmakers
+      voting to withhold the military aid were Democrats Ilhan Omar, Rashida Tlaib,
+      Summer Lee and Al Green, and Republicans Thomas Massie and Marjorie Taylor Greene.
+      Coming under fire from the left for the glaring contradiction of providing military
+      assistance to a state that is perpetrating an active genocide, AOC issued a statement
+      claiming her vote was about protecting civilians. The statement reads as follows:
+      “Marjorie Taylor Greene’s amendment does nothing to cut off offensive aid to Israel
+      nor end the flow of US munitions being used in Gaza. Of course I voted against
+      it. “What it does do is cut off defensive Iron Dome capacities while allowing
+      the actual bombs killing Palestinians to continue. “I have long stated that I
+      do not believe that adding to the death count of innocent victims to this war
+      is constructive to its end. That is a simple and clear difference of opinion that
+      has long been established. “I remain focused on cutting the flow of US munitions
+      that are being used to perpetuate the genocide in Gaza.” https://x.com/caitoz/status/1946659894939295992
+      AOC’s statement is absolute crap. The Iron Dome is not used for defending, it’s
+      used to facilitate constant attacks. In an article for Jewish Currents titled
+      “ Iron Dome Is Not a Defensive System ,” Dylan Saba explains: “By almost entirely
+      negating the ability of militant groups in Gaza to respond to Israel’s incursions,
+      the purportedly defensive Iron Dome allows Israel to strike without fear of repercussion.
+      And because the cost is so low when measured in Israeli casualties, Israel can
+      wage perpetual war without suffering domestic political consequences, and is under
+      negligible pressure to pursue diplomacy with the Palestinians. ‘In theory, a weapon
+      like Iron Dome could be used only defensively. But in practice it doesn’t work
+      that way,’ analyst Nathan Thrall told Jewish Currents. ‘Iron Dome facilitates
+      greater Israeli offensive measures, because it lowers the perceived cost to Israel
+      of escalating or extending or initiating attacks.’ In other words, while the Iron
+      Dome may prevent the deaths of Israeli non-combatants, it has made it easier for
+      Israel to engage in deadly operations that take Palestinian lives.” https://x.com/JewishCurrents/status/1661800779848581128
+      The Iron Dome isn’t for protecting civilians, it’s for protecting the Israeli
+      regime from deterrence. We see this in the comfort the regime displays in waging
+      constant military violence on its neighbors knowing they can’t retaliate. That’s
+      why Israel cut a ceasefire deal with Iran so fast. Iran’s advanced missiles can’t
+      be reliably stopped by the Iron Dome, so Iran was able to smash Israel and force
+      it to cease its unprovoked aggressions. If Israel had had a missile defense system
+      which could casually swat those missiles out of the sky at a high rate of success,
+      Israel would still be bombing Iran today, and would continue doing so until Tehran
+      looked like Gaza. Israel’s war-horny population would have supported this, because
+      they’d have no skin in the game. Saying you support funding Israel’s “defensive
+      weapons” while opposing sending it “offensive weapons” is as nonsensical as saying
+      you would never give a mass shooter guns and ammunition, but you would give him
+      body armor to keep him safe from the police. You’re helping him commit mass murder
+      just as much as you would be if you gave him guns and ammo. Kings didn’t arm their
+      knights with shields and armor so that they could live long and fulfilling lives,
+      they did it so the knights would live long enough to kill the people the kings
+      wanted killed. If you believe a state is committing genocide, there is no justifiable
+      reason for you to support enhancing that state’s military capabilities and helping
+      it defend itself from those who try to stop it. As others have pointed out , this
+      is exactly the same as opposing Hitler’s Holocaust but supporting giving anti-aircraft
+      flak cannons to Nazi Germany. It’s a self-evidently ridiculous, warmongering,
+      and ultimately genocidal position, disguised as progressive humanitarianism. It’s
+      all the ugliest things about western liberals. https://x.com/MaxBlumenthal/status/1946628558908002748
+      People who say you should criticize AOC less because there are way worse members
+      of congress act like she’s just passively sitting there being a mediocre lawmaker.
+      She’s not. She’s actively anchoring the leftmost edge of the Overton window of
+      US politics to militarism, capitalism, colonialism, and genocide. She’s actively
+      stopping American politics from moving any further left than the nightmare we
+      see before us. Leftists shouldn’t hate AOC less than the politicians to her right,
+      they should hate her much more. It isn’t Mike Johnson’s responsibility to move
+      the US government to the left, and it’s not Nancy Pelosi’s job. It’s hers. That’s
+      what she was elected to do. That’s what she framed the goals of her entire political
+      career as being. And she’s taking her stand firmly bracing against any leftward
+      movement from America’s genocidal, warmongering, unjust, exploitative, tyrannical
+      status quo. And that’s what she was actually put there to do. Her real job is
+      to say “thus far and no further” to the leftmost end of the political spectrum
+      of the world’s most powerful and destructive government. That’s the Democratic
+      Party’s job in general, and it’s the job of media-savvy progressive Democrats
+      in particular. They are there to provide as little resistance as possible when
+      US politics are shoved toward more genocidal, militaristic, oligarchic, capitalist,
+      imperialist abuses, and to provide as much inertia as possible to any movement
+      in the opposite direction. That’s why people who seek leftward movement in the
+      US political machine see AOC as one of their main enemies. It’s for the exact
+      same reason you’d see someone actively blocking the fire exit as your enemy when
+      trying to escape from a burning building. ____________ Caitlin’s Newsletter is
+      a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. My work is entirely reader-supported , so
+      if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my mailing list, social
+      media, books, merch, and audio/video versions of each article . All my work is
+      free to bootleg and use in any way, shape or form; republish it, translate it,
+      use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      via nrkbeta ( CC BY-SA 2.0 )'
+    one_sentence_summary: Alexandria Ocasio-Cortez voted against withholding $500 million
+      in missile funding for Israel, despite her previous condemnation of Israel's actions
+      in Gaza, justifying her decision by stating that the amendment would not effectively
+      protect civilians.
+    paragraph_summary: Alexandria Ocasio-Cortez, a prominent progressive figure in the
+      Democratic Party, voted against an amendment to withhold $500 million in missile
+      funding for Israel, despite her previous statements condemning Israel's actions
+      in Gaza as genocidal. Only a small group of lawmakers, including some Democrats
+      and Republicans, supported the amendment, which Ocasio-Cortez argued would cut
+      off defensive capabilities like the Iron Dome while allowing offensive aid to
+      continue. In her defense, she claimed her vote aimed to protect civilians and
+      prevent further casualties, asserting that the amendment would not effectively
+      address the flow of U.S. munitions contributing to the violence. Critics, however,
+      argue that the Iron Dome facilitates Israeli attacks rather than serving purely
+      defensive purposes, highlighting a significant contradiction in her stance.
+    published: '2025-07-20T03:39:24+00:00'
+  - title: If You're Still Supporting Israel In 2025, There's Something Wrong With You
+      As A Person
+    url: https://www.caitlinjohnst.one/p/if-youre-still-supporting-israel
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Sometimes I think it’s astonishing how aggressively Israel’s supporters work to
+      stomp out criticism of Israel. Then I remember that these people also support
+      mass murdering children; trying to take away my speech rights is one of their
+      less evil goals. It shouldn’t shock me. I saw someone talking online about how
+      crazy it is that music groups who speak out against Israel’s atrocities are starting
+      to form alliances with each other in an effort to counteract the campaign to silence
+      them and destroy their careers, saying it shouldn’t be necessary to form an alliance
+      in order to oppose an ongoing genocide. And that’s true, it shouldn’t be necessary.
+      But it also shouldn’t surprise us that people who think bombing hospitals is fine
+      would try to cancel musicians for criticizing Israel. One mistake westerners keep
+      making is thinking of Israel’s supporters as normal people with normal moral standards
+      just because we happen to know them and interact with them in our communities.
+      They look like us, speak like us, dress like us and act like us, so we assume
+      they must think and feel a lot like us as well. But they don’t. If you’re still
+      supporting Israel in the year 2025, there’s something seriously wrong with you
+      as a person. You do not have a normal, healthy sense of empathy and morality.
+      It’s 2025. Israeli soldiers are telling the Israeli press that they’re being ordered
+      to massacre starving civilians trying to obtain food from aid centers. Countless
+      doctors have been telling the world that Israeli snipers are routinely, deliberately
+      shooting children in the head and chest throughout the Gaza Strip. Amnesty International
+      , Human Rights Watch , and all the leading genocide experts and human rights authorities
+      are saying that a genocide is being perpetrated in Gaza. The New York fucking
+      Times just published an op-ed by a Zionist genocide scholar who’s finally admitting
+      that it’s a genocide. There’s no way to deny what this is anymore. If you still
+      support Israel in the year 2025, it’s not because you don’t believe Israel is
+      committing horrific atrocities. It’s because you believe those horrific atrocities
+      are good, and you want to see more of them. Most Israel supporters will deny that
+      this is the case, because they lie. They lie constantly. They have no moral problem
+      with lying. They have no moral problem with burning children alive , so of course
+      they have no problem with lying. That’s where people go wrong. They assume Israel
+      supporters can’t possibly be lying about their concerns about “antisemitism” in
+      order to promote the information interests of Israel, because nobody could be
+      that evil. But Israel supporters think it’s fine to intentionally starve babies
+      by blockading baby formula from entering Gaza. Of course they are that evil. People
+      assume Israel’s supporters wouldn’t deliberately stage fake antisemitic incidents
+      or artificially inflate antisemitism figures in their own countries so that their
+      governments will implement authoritarian measures to stomp out criticism of Israel
+      in the name of fighting antisemitism, because they assume nobody could be that
+      depraved. But these people think it’s fine for the IDF to systematically assassinate
+      Palestinian journalists to stop them from telling the truth. Of course they are
+      that depraved. Of course they’d try to silence our speech. Of course they’d try
+      to send our kids off to war with Iran. Of course they’d work to manipulate our
+      government. Of course they’d pollute the information ecosystem with mountains
+      of lies. They support a live-streamed genocide. They’re bad people. Supporting
+      Israel and its actions is not some political opinion like your position on property
+      taxes or marijuana legalization. It’s not just some people having a point of view
+      we need to respect and treat as equal to our own view on the matter. They’re working
+      to make it possible to conduct an extermination campaign of unfathomable horror.
+      That’s as political as a gang rape, and just as worthy of respect. There’s not
+      really anything you can put past Israel’s supporters at this point. They will
+      lie. They will manipulate. They will pretend to believe things they do not believe.
+      They will pretend to feel things they do not feel. And they will do these things
+      to facilitate some of the worst atrocities you can possibly imagine. This is who
+      Israel’s supporters are. They’re showing you who they are every single day. ______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      mailing list, social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article critiques the aggressive tactics used by supporters
+      of Israel to silence criticism, highlighting the troubling moral standards of
+      those who condone violence while attempting to suppress dissenting voices, particularly
+      in the music industry.
+    paragraph_summary: The article expresses outrage over the aggressive efforts of
+      Israel's supporters to silence criticism of the country's actions, particularly
+      regarding its military operations in Gaza. It highlights the formation of alliances
+      among musicians and artists who oppose Israel's actions, emphasizing that such
+      alliances should not be necessary in the face of what the author describes as
+      ongoing genocide. The author argues that supporters of Israel lack normal moral
+      standards and empathy, especially in light of reports from Israeli soldiers and
+      human rights organizations documenting atrocities against civilians, including
+      children. The piece critiques the normalization of support for Israel and calls
+      for a reevaluation of moral perspectives in 2025, as evidence mounts regarding
+      the severity of the situation in Gaza.
+    published: '2025-07-18T12:34:35+00:00'
+  - title: If You're Still Supporting Israel In 2025, There's Something Wrong With You
+      As A Person
+    url: https://www.caitlinjohnst.one/p/if-youre-still-supporting-israel
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Sometimes I think it’s astonishing how aggressively Israel’s supporters work to
+      stomp out criticism of Israel. Then I remember that these people also support
+      mass murdering children; trying to take away my speech rights is one of their
+      less evil goals. It shouldn’t shock me. I saw someone talking online about how
+      crazy it is that music groups who speak out against Israel’s atrocities are starting
+      to form alliances with each other in an effort to counteract the campaign to silence
+      them and destroy their careers, saying it shouldn’t be necessary to form an alliance
+      in order to oppose an ongoing genocide. And that’s true, it shouldn’t be necessary.
+      But it also shouldn’t surprise us that people who think bombing hospitals is fine
+      would try to cancel musicians for criticizing Israel. One mistake westerners keep
+      making is thinking of Israel’s supporters as normal people with normal moral standards
+      just because we happen to know them and interact with them in our communities.
+      They look like us, speak like us, dress like us and act like us, so we assume
+      they must think and feel a lot like us as well. But they don’t. If you’re still
+      supporting Israel in the year 2025, there’s something seriously wrong with you
+      as a person. You do not have a normal, healthy sense of empathy and morality.
+      It’s 2025. Israeli soldiers are telling the Israeli press that they’re being ordered
+      to massacre starving civilians trying to obtain food from aid centers. Countless
+      doctors have been telling the world that Israeli snipers are routinely, deliberately
+      shooting children in the head and chest throughout the Gaza Strip. Amnesty International
+      , Human Rights Watch , and all the leading genocide experts and human rights authorities
+      are saying that a genocide is being perpetrated in Gaza. The New York fucking
+      Times just published an op-ed by a Zionist genocide scholar who’s finally admitting
+      that it’s a genocide. There’s no way to deny what this is anymore. If you still
+      support Israel in the year 2025, it’s not because you don’t believe Israel is
+      committing horrific atrocities. It’s because you believe those horrific atrocities
+      are good, and you want to see more of them. Most Israel supporters will deny that
+      this is the case, because they lie. They lie constantly. They have no moral problem
+      with lying. They have no moral problem with burning children alive , so of course
+      they have no problem with lying. That’s where people go wrong. They assume Israel
+      supporters can’t possibly be lying about their concerns about “antisemitism” in
+      order to promote the information interests of Israel, because nobody could be
+      that evil. But Israel supporters think it’s fine to intentionally starve babies
+      by blockading baby formula from entering Gaza. Of course they are that evil. People
+      assume Israel’s supporters wouldn’t deliberately stage fake antisemitic incidents
+      or artificially inflate antisemitism figures in their own countries so that their
+      governments will implement authoritarian measures to stomp out criticism of Israel
+      in the name of fighting antisemitism, because they assume nobody could be that
+      depraved. But these people think it’s fine for the IDF to systematically assassinate
+      Palestinian journalists to stop them from telling the truth. Of course they are
+      that depraved. Of course they’d try to silence our speech. Of course they’d try
+      to send our kids off to war with Iran. Of course they’d work to manipulate our
+      government. Of course they’d pollute the information ecosystem with mountains
+      of lies. They support a live-streamed genocide. They’re bad people. Supporting
+      Israel and its actions is not some political opinion like your position on property
+      taxes or marijuana legalization. It’s not just some people having a point of view
+      we need to respect and treat as equal to our own view on the matter. They’re working
+      to make it possible to conduct an extermination campaign of unfathomable horror.
+      That’s as political as a gang rape, and just as worthy of respect. There’s not
+      really anything you can put past Israel’s supporters at this point. They will
+      lie. They will manipulate. They will pretend to believe things they do not believe.
+      They will pretend to feel things they do not feel. And they will do these things
+      to facilitate some of the worst atrocities you can possibly imagine. This is who
+      Israel’s supporters are. They’re showing you who they are every single day. ______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      mailing list, social media, books, merch, and audio/video versions of each article
+      . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article critiques the aggressive tactics used by supporters
+      of Israel to silence criticism, highlighting the troubling moral standards of
+      those who condone violence while attempting to suppress dissenting voices, particularly
+      in the music industry.
+    paragraph_summary: The article expresses outrage over the aggressive efforts of
+      Israel's supporters to silence criticism of the country's actions, particularly
+      regarding its military operations in Gaza. It highlights the formation of alliances
+      among musicians and artists who oppose Israel's actions, emphasizing that such
+      alliances should not be necessary in the face of what the author describes as
+      ongoing genocide. The author argues that supporters of Israel lack normal moral
+      standards and empathy, especially in light of reports from Israeli soldiers and
+      human rights organizations documenting atrocities against civilians, including
+      children. The piece critiques the normalization of support for Israel and calls
+      for a reevaluation of moral perspectives in 2025, as evidence mounts regarding
+      the severity of the situation in Gaza.
+    published: '2025-07-18T12:34:35+00:00'
+  - title: Trump Has Completely Dropped His "Populist" Act
+    url: https://www.caitlinjohnst.one/p/trump-has-completely-dropped-his
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s so funny how Trump has stopped even pretending to be a populist. As soon
+      as he was re-elected he was just “Yeah okay so Israel comes first and forget everything
+      I said about free speech and the Ukraine war is continuing and there will be no
+      Epstein investigation, fuck you.” It has long been obvious to anyone with half
+      a brain that Donald Trump is just another Republican swamp monster playing on
+      public discontent with the status quo to win votes and support, but it is genuinely
+      surprising how completely he has stopped pretending to care about fighting the
+      deep state and sticking up for ordinary Americans as soon as he got back into
+      office. He’s just dropped the populist schtick entirely and is giving the finger
+      to anyone who complains. The president has been aggressively and repeatedly demanding
+      that his entire base shut up about Jeffrey Epstein and move on after years of
+      MAGAworld fixation on the story, bizarrely going as far as claiming that interest
+      and attention on the Epstein files was a concoction of the Democrats. He is doing
+      this even as his Department of Justice releases a video which it claims disproves
+      conspiracy theories that the sexual predator was murdered in his prison cell — but
+      the video is edited and missing minutes of footage . https://x.com/WIRED/status/1945207066634657854
+      This happens as the Financial Times reports that Trump is now encouraging Ukrainian
+      president Volodymyr Zelensky to ramp up deep strikes into Russian territory and
+      asking whether it would be possible to hit Moscow. This would be the same President
+      Trump who falsely promised on the campaign trail that he would end the Ukraine
+      war in “no longer than one day.” After pledging to restore and protect free speech
+      in the United States, Trump has been aggressively stomping out speech that is
+      critical of the state of Israel and its genocidal atrocities, scoring yet another
+      win for government censorship on Tuesday with Columbia University’s announcement
+      that it is adopting the IHRA definition of “antisemitism” which conflates criticism
+      of Israel with hate speech against Jews, in accordance with the wishes of the
+      Trump administration. After promising to “restore peace, stability, and harmony
+      all throughout the world,” Trump has bombed Iran, poured weapons into Israel and
+      Ukraine, backed Israel’s genocide in Gaza and its numerous acts of war against
+      its neighbors, slaughtered hundreds of civilians with a savage bombing campaign
+      in Yemen, and conducted dozens of airstrikes in renewed operations in Somalia,
+      all while leading the nation into the era of official trillion-dollar Pentagon
+      budgets . In 2023 Trump proclaimed that “if you put me back in the White House…
+      I will totally obliterate the deep state.” In 2025 he’s advancing pretty much
+      every longstanding deep state agenda in the book. https://x.com/KimDotcom/status/1632179644576456704
+      Every single part of Trump’s platform where he could have claimed to be standing
+      up for the little guy against the powerful has been completely flushed down the
+      toilet in the first six months of his second term, leaving only a standard George
+      W Bush Republican in its place. If you wanted tax cuts for the rich and cruel
+      treatment for immigrants then Trump is still your man, but if you were hoping
+      he’d benefit ordinary Americans or do anything to drain the swamp in Washington
+      he’s just peeing on you and writing a wall of text on Truth Social explaining
+      why the pee is actually rain. Which again should come as no surprise to anyone
+      who’s been paying attention. No real change will ever come from either of America’s
+      two power-serving major parties. But what’s so funny is people are probably just
+      going to fall for it again. Trump’s base is very upset about the Epstein thing
+      and many of them might actually abandon Trump himself, but you know next election
+      cycle someone like Tucker Carlson or JD Vance will run on his platform and these
+      suckers will swallow it hook, line and sinker. I actually said this on Twitter
+      the other day and got multiple people telling me that actually Tucker Carlson
+      getting elected would be a major blow to the deep state, so you know they’re already
+      primed for it. They can’t wait to fall in line behind the next phony Republican
+      populism scam. Whatever. People will be fed whatever slop they keep asking for.
+      The lesson will keep on repeating until it is learned. __________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my mailing list, social
+      media, books, merch, and audio/video versions of each article . All my work is
+      free to bootleg and use in any way, shape or form; republish it, translate it,
+      use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      by Shealah Craighead via The White House (Public Domain) .'
+    one_sentence_summary: The article critiques Donald Trump's abandonment of his populist
+      rhetoric and priorities after being re-elected, highlighting his disregard for
+      issues like free speech and the Epstein investigation, and suggesting he has fully
+      aligned with traditional Republican interests.
+    paragraph_summary: The article critiques Donald Trump's shift away from his populist
+      rhetoric following his re-election, highlighting his apparent disregard for the
+      concerns of his base, particularly regarding issues like the Jeffrey Epstein investigation
+      and the Ukraine war. It notes that Trump has urged his supporters to move on from
+      the Epstein narrative, attributing the ongoing interest to Democratic manipulation,
+      despite contradictory evidence from the Department of Justice. Additionally, the
+      article points out Trump's recent encouragement of Ukrainian military actions
+      against Russia, contrasting it with his previous campaign promises to swiftly
+      end the Ukraine conflict. Overall, the piece portrays Trump as abandoning his
+      populist facade and aligning more closely with established political interests,
+      while also suppressing dissenting voices on issues related to Israel and free
+      speech.
+    published: '2025-07-17T12:51:11+00:00'
+  - title: Trump Has Completely Dropped His "Populist" Act
+    url: https://www.caitlinjohnst.one/p/trump-has-completely-dropped-his
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s so funny how Trump has stopped even pretending to be a populist. As soon
+      as he was re-elected he was just “Yeah okay so Israel comes first and forget everything
+      I said about free speech and the Ukraine war is continuing and there will be no
+      Epstein investigation, fuck you.” It has long been obvious to anyone with half
+      a brain that Donald Trump is just another Republican swamp monster playing on
+      public discontent with the status quo to win votes and support, but it is genuinely
+      surprising how completely he has stopped pretending to care about fighting the
+      deep state and sticking up for ordinary Americans as soon as he got back into
+      office. He’s just dropped the populist schtick entirely and is giving the finger
+      to anyone who complains. The president has been aggressively and repeatedly demanding
+      that his entire base shut up about Jeffrey Epstein and move on after years of
+      MAGAworld fixation on the story, bizarrely going as far as claiming that interest
+      and attention on the Epstein files was a concoction of the Democrats. He is doing
+      this even as his Department of Justice releases a video which it claims disproves
+      conspiracy theories that the sexual predator was murdered in his prison cell — but
+      the video is edited and missing minutes of footage . https://x.com/WIRED/status/1945207066634657854
+      This happens as the Financial Times reports that Trump is now encouraging Ukrainian
+      president Volodymyr Zelensky to ramp up deep strikes into Russian territory and
+      asking whether it would be possible to hit Moscow. This would be the same President
+      Trump who falsely promised on the campaign trail that he would end the Ukraine
+      war in “no longer than one day.” After pledging to restore and protect free speech
+      in the United States, Trump has been aggressively stomping out speech that is
+      critical of the state of Israel and its genocidal atrocities, scoring yet another
+      win for government censorship on Tuesday with Columbia University’s announcement
+      that it is adopting the IHRA definition of “antisemitism” which conflates criticism
+      of Israel with hate speech against Jews, in accordance with the wishes of the
+      Trump administration. After promising to “restore peace, stability, and harmony
+      all throughout the world,” Trump has bombed Iran, poured weapons into Israel and
+      Ukraine, backed Israel’s genocide in Gaza and its numerous acts of war against
+      its neighbors, slaughtered hundreds of civilians with a savage bombing campaign
+      in Yemen, and conducted dozens of airstrikes in renewed operations in Somalia,
+      all while leading the nation into the era of official trillion-dollar Pentagon
+      budgets . In 2023 Trump proclaimed that “if you put me back in the White House…
+      I will totally obliterate the deep state.” In 2025 he’s advancing pretty much
+      every longstanding deep state agenda in the book. https://x.com/KimDotcom/status/1632179644576456704
+      Every single part of Trump’s platform where he could have claimed to be standing
+      up for the little guy against the powerful has been completely flushed down the
+      toilet in the first six months of his second term, leaving only a standard George
+      W Bush Republican in its place. If you wanted tax cuts for the rich and cruel
+      treatment for immigrants then Trump is still your man, but if you were hoping
+      he’d benefit ordinary Americans or do anything to drain the swamp in Washington
+      he’s just peeing on you and writing a wall of text on Truth Social explaining
+      why the pee is actually rain. Which again should come as no surprise to anyone
+      who’s been paying attention. No real change will ever come from either of America’s
+      two power-serving major parties. But what’s so funny is people are probably just
+      going to fall for it again. Trump’s base is very upset about the Epstein thing
+      and many of them might actually abandon Trump himself, but you know next election
+      cycle someone like Tucker Carlson or JD Vance will run on his platform and these
+      suckers will swallow it hook, line and sinker. I actually said this on Twitter
+      the other day and got multiple people telling me that actually Tucker Carlson
+      getting elected would be a major blow to the deep state, so you know they’re already
+      primed for it. They can’t wait to fall in line behind the next phony Republican
+      populism scam. Whatever. People will be fed whatever slop they keep asking for.
+      The lesson will keep on repeating until it is learned. __________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my mailing list, social
+      media, books, merch, and audio/video versions of each article . All my work is
+      free to bootleg and use in any way, shape or form; republish it, translate it,
+      use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      by Shealah Craighead via The White House (Public Domain) .'
+    one_sentence_summary: The article critiques Donald Trump's abandonment of his populist
+      rhetoric and priorities after being re-elected, highlighting his disregard for
+      issues like free speech and the Epstein investigation, and suggesting he has fully
+      aligned with traditional Republican interests.
+    paragraph_summary: The article critiques Donald Trump's shift away from his populist
+      rhetoric following his re-election, highlighting his apparent disregard for the
+      concerns of his base, particularly regarding issues like the Jeffrey Epstein investigation
+      and the Ukraine war. It notes that Trump has urged his supporters to move on from
+      the Epstein narrative, attributing the ongoing interest to Democratic manipulation,
+      despite contradictory evidence from the Department of Justice. Additionally, the
+      article points out Trump's recent encouragement of Ukrainian military actions
+      against Russia, contrasting it with his previous campaign promises to swiftly
+      end the Ukraine conflict. Overall, the piece portrays Trump as abandoning his
+      populist facade and aligning more closely with established political interests,
+      while also suppressing dissenting voices on issues related to Israel and free
+      speech.
+    published: '2025-07-17T12:51:11+00:00'
   - title: The New York Times Finally Stops Avoiding The G-Word
     url: https://www.caitlinjohnst.one/p/the-new-york-times-finally-stops
     text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now

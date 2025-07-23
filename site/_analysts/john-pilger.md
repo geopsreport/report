@@ -7,14 +7,46 @@ description: "Veteran Australian journalist and filmmaker; writes long-form crit
 websites:
   - https://consortiumnews.com
 summary: |
-  As the humanitarian crisis in Gaza continues to dominate international headlines, Western media and governments are showing signs of shifting positions under mounting public pressure and emerging evidence.
+  The international response to Israel’s ongoing military campaign in Gaza continues to escalate, with new collective measures emerging from a coalition of states. In the past 24 hours, the most significant development has been the announcement of a joint action plan by 12 countries meeting in Bogota, aimed at confronting what they describe as Israel’s genocide in Gaza. **Mick Hall** reports that the United States is now actively pressuring other nations not to endorse this plan, signaling a deepening rift between Washington and a growing bloc of states demanding accountability.
   
-  The most notable development in the last 12 hours is the apparent editorial shift at The New York Times regarding the use of the term "genocide" in reference to Israel’s actions in Gaza. **Caitlin Johnstone** observes that both op-ed writers and editors at the Times have "ceased resisting" the application of the G-word, a move that signals growing mainstream acceptance of what independent analysts and much of the global South have argued for months. This editorial change reflects a broader trend of Western institutions being compelled to acknowledge realities previously downplayed or ignored.
+  This diplomatic maneuvering comes as mainstream Western media, notably The New York Times, have begun to openly use the term “genocide” in reference to Israeli actions. **Caitlin Johnstone** observes that the editorial shift at the Times reflects mounting evidence and a broader unwillingness to ignore the scale of civilian suffering, a change that could influence public opinion and policy debates in the U.S. and Europe.
   
-  Meanwhile, in the UK, the legal battle over the government's designation of the non-violent activist group Palestine Action as a "terrorist" organization continues to unfold. **Craig Murray** reports on the group's request for temporary relief from the designation, highlighting the increasing use of counter-terrorism frameworks against anti-genocide and pro-Palestinian activism. This case is being closely watched as a bellwether for civil liberties and the right to dissent within the UK and potentially across Europe.
+  Meanwhile, legal and political battles over pro-Palestinian activism are intensifying in the UK. **Craig Murray** details how the government’s attempt to designate the non-violent group Palestine Action as a terrorist organization is being challenged in court, highlighting the growing criminalization of dissent and the contested boundaries of legitimate protest.
   
-  Trends indicate a growing divide between official Western policy and public sentiment, with media and legal institutions under pressure to adapt. The mainstreaming of "genocide" language in major outlets like the NYT is likely to accelerate calls for accountability and policy change. There is a high chance that similar shifts will be observed in other Western media and political circles in the coming weeks. I guarantee that the legal and rhetorical framing of pro-Palestinian activism will remain a flashpoint in both the UK and US, with significant implications for civil society and foreign policy debates.
+  The trend is clear: international pressure on Israel is mounting, both diplomatically and in the media, while Western governments face increasing scrutiny over their responses to pro-Palestinian activism. If current trajectories hold, it is quite likely that more states will join collective actions against Israel, despite U.S. resistance. The shift in media language suggests a high chance of further erosion in public support for unconditional Western backing of Israeli policy. I guarantee that legal and political challenges to the suppression of pro-Palestinian activism in the West will continue to intensify in the coming weeks.
 articles:
+  - title: Hague Group Confronts Israel Over Gaza
+    url: https://consortiumnews.com/2025/07/18/hague-group-confronts-israel-over-gaza/
+    text: The U.S. is now expected to pressure other countries not to sign on to the
+      joint action plan announced by the 12 countries in Bogota, Mick Hall reports.
+      By Mick Hall Mick Hall in Context Collective measures to confront Israel’s genocide…
+      Read more →
+    one_sentence_summary: The U.S. is anticipated to exert pressure on other nations
+      to refrain from endorsing a joint action plan proposed by 12 countries in Bogota,
+      aimed at addressing Israel's actions.
+    paragraph_summary: The article discusses the U.S. government's anticipated efforts
+      to discourage other nations from endorsing a joint action plan proposed by 12
+      countries in Bogota, which aims to address issues related to Israel's actions.
+      Mick Hall highlights the broader context of collective measures being taken to
+      confront what is described as genocide, emphasizing the geopolitical implications
+      of the U.S. stance on international cooperation regarding this matter.
+    published: '2025-07-18T05:24:23+00:00'
+  - title: Hague Group Confronts Israel Over Gaza
+    url: https://consortiumnews.com/2025/07/18/hague-group-confronts-israel-over-gaza/
+    text: The U.S. is now expected to pressure other countries not to sign on to the
+      joint action plan announced by the 12 countries in Bogota, Mick Hall reports.
+      By Mick Hall Mick Hall in Context Collective measures to confront Israel’s genocide…
+      Read more →
+    one_sentence_summary: The U.S. is anticipated to exert pressure on other nations
+      to refrain from endorsing a joint action plan proposed by 12 countries in Bogota,
+      aimed at addressing Israel's actions.
+    paragraph_summary: The article discusses the U.S. government's anticipated efforts
+      to discourage other nations from endorsing a joint action plan proposed by 12
+      countries in Bogota, which aims to address issues related to Israel's actions.
+      Mick Hall highlights the broader context of collective measures being taken to
+      confront what is described as genocide, emphasizing the geopolitical implications
+      of the U.S. stance on international cooperation regarding this matter.
+    published: '2025-07-18T05:24:23+00:00'
   - title: 'Caitlin Johnstone: NYT Stops Avoiding The G-Word'
     url: https://consortiumnews.com/2025/07/16/caitlin-johnstone-nyt-stops-avoiding-the-g-word/
     text: An op-ed writer is seeing the proof now and has stopped resisting what’s been

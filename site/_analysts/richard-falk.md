@@ -7,16 +7,735 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  The geopolitical landscape remains dominated by the aftermath of the Gaza conflict and the broader implications for Middle East stability, US foreign policy, and international legal mechanisms. Recent developments have centered on civil society initiatives, shifting narratives in US-Israel relations, and renewed debates over the legitimacy of resistance.
+  The humanitarian crisis in Gaza and the West Bank remains acute, with Israeli military actions resulting in severe civilian suffering, including widespread hunger and water scarcity. Despite persistent global protests and denunciations from various governments, the United States and United Kingdom continue to provide unconditional support to Israel. Countries such as France, Canada, and Germany have issued mild criticisms but have not taken substantive action, such as halting trade or suspending vital supplies. According to **Richard Falk**, “the U.S. and U.K. continue to provide unconditional support to Israel, while countries like France, Canada, and Germany express mild criticism without halting trade or vital supplies.”
   
-  The Gaza Peoples Tribunal, which concluded its first public assembly in Sarajevo, has issued a Declaration reaffirming its commitment to Palestinian self-determination and calling for global solidarity. **Richard Falk** notes that the Declaration is intended to galvanize international support, emphasizing that “the urgency and importance of addressing the humanitarian crisis in Gaza” is now at the forefront of civil society efforts. The Tribunal’s work is seen as a response to the perceived inadequacies of international bodies like the ICJ and ICC, which, despite interim rulings on the plausibility of genocide, have been unable to enforce compliance or halt ongoing violence.
+  A significant recent development is the escalation of conflict between Israel and Iran, with Israel—backed by the U.S.—launching strikes aimed at Iran’s nuclear facilities using powerful bombs. The effectiveness of these attacks remains uncertain, and there is no clear evidence yet that Iran’s nuclear program has been significantly set back. This military action has heightened regional tensions and raised concerns about potential retaliation or further destabilization.
   
-  In parallel, the discourse on the right of resistance has gained renewed attention. In his foreword to Shannonbrooke Murphy’s new book, **Richard Falk** highlights the October 7 attack on Israeli border villages as a pivotal moment, linking it to the rise of Hamas and the deepening divide with the Palestinian Authority. This event is framed as emblematic of the broader struggle over resistance politics and the conflicting agendas of Israel and the Palestinian people. The book’s conceptualization of resistance as a universal human right is gaining traction among analysts, though its application to contentious cases remains debated.
+  Meanwhile, civil society responses are intensifying. The Gaza Peoples Tribunal, established in 2024, has emerged as a prominent initiative to address what many see as the failures of international legal bodies to hold Israel accountable. The Tribunal draws historical parallels to anti-war and anti-apartheid movements, aiming to mobilize global civic pressure and solidarity for Palestinian rights. Its Sarajevo Declaration, issued after its first public assembly, reaffirms a commitment to peace, justice, and Palestinian self-determination.
   
-  US foreign policy continues to be marked by ambiguity. Under the Trump administration, as detailed in recent interviews, the US has maintained a cautious and unpredictable stance toward Israel, in contrast to the more overt support seen during the Biden era. **Stephen Zunes** and **Lawrence Davidson** both emphasize that the transactional nature of current US policy—prioritizing strategic interests over humanitarian concerns—has emboldened Israel while complicating efforts to hold it accountable for alleged war crimes.
-  
-  Looking ahead, the majority of analysts agree that civil society initiatives like the Gaza Peoples Tribunal will play an increasingly important role in shaping international discourse and pressuring governments to act. There is a high chance that the Tribunal’s Declaration will serve as a rallying point for global advocacy, though its direct impact on policy remains uncertain. With the US maintaining its ambiguous approach and international legal bodies struggling to enforce rulings, it is quite likely that grassroots movements will become the primary drivers of accountability and change in the region.
+  **Trends and Predictions:**  
+  The majority of analysts agree that the humanitarian situation in Gaza is likely to deteriorate further unless there is a significant shift in international policy or a breakthrough in peace negotiations. The regional risk of escalation remains high, particularly if Iran chooses to retaliate or if Israeli strikes continue. Civil society initiatives like the Gaza Peoples Tribunal are expected to gain traction, but without decisive governmental action, their impact will be limited to raising awareness and moral pressure. Based on the current trajectory, there is a high chance that the conflict and humanitarian crisis will persist in the coming months, with only incremental changes unless external actors alter their positions or strategies.
 articles:
+  - title: Civic Responses to Gaza Genocide and Regional Nuclearism
+    url: https://richardfalk.org/2025/07/17/civic-responses-to-gaza-genocide-and-regional-nuclearism/
+    text: '[Prefatory Note: The post below is in two parts, both interviews published
+      in the Italian weekly, Il Manifesto . The first addresses the Gaza dimension of
+      the current Palestinian ordeal now extended to the West Bank and drawing worldwide
+      negative attention by induced mass hunger and water scarcity. These severe civilian
+      hardships resulting from Israeli criminality have given rise to a variety of protest
+      activities, governmental denunciations, yet continue to gain unconditional support
+      by the United States and the UK, while drawing some mild critical drawbacks from
+      formerly supportive  France, Canada, and Germany but without stoppage of trade
+      or flows of vital supplies to Israel. The second part in the form of an early
+      comment on the short Iran War, initiated by Israel, joined by the US to inflict
+      maximum damage on Iran’s nuclear sites, dramatized by the US reliance on ‘blockbuster
+      bombs’ of 30,000 pounds to destroy nuclear facilities built deep underground.
+      Their initial US and Israeli claims of victorious results have been watered down
+      by growing doubts of how much damage was actually done to Iran’s nuclear attacks.
+      A further setback for the attackers is the widespread speculation that Iran might
+      now decide to develop nuclear weapons unless Israel would agree, which seems highly
+      doubtful, to dismantle their nuclear arsenal and agree to a nuclear-free monitored
+      Middle East. These texts are slightly modified for updating and clarity.] Patricia
+      Lambroso Interview Questions, Richard Falk Responses, Il Manifesto (5/20/25 )
+      1. The Gaza Peoples Tribunal (civil society tribunal) was launched in November
+      of 2024 in London following the failure by ICJ and ICC, the international tribunals
+      in the Hague, political leaders,  governments, protest activism around the world
+      to stop Israel’s crimes against humanity in Gaza. The anti-war movement that arose
+      during the Vietnam War and the worldwide anti-apartheid campaign against the racist
+      South African government were your examples of civic mobilization that exerted
+      pressure on governments to change their unlawful, criminal policies. Is this possible
+      today in the setting of Gaza and with respect to the Palestinian people regarding
+      the fulfillment of their right of self-determination? Response : It is not entirely
+      fair to conclude that the ICJ and ICC ‘failed’ to stop the genocidal attack on
+      Gaza or the crimes against humanity alleged to have been extensively committed
+      by Israel and endorsed by its political leaders and supported by the liberal democracies
+      of the West. The ICJ accepted jurisdiction to address tje submission by South
+      Africa alleging violations of the International Convention on the Prevention and
+      Punishment of the Crime of Genocide (1951), and issued near unanimous interim
+      rulings in January and May 2024 to the momentous effect that it was ‘plausible’
+      to regard the Israeli violence in Gaza after October 7 as amounting to genocide.
+      The ICJ then also ordered Israel to cease altogether interfering with the international
+      delivery to Gaza of humanitarian aid taking the forms of food, medical supplies,
+      and fuel. Although Israel took part in the judicial proceedings, it refused to
+      comply with these interim rulings and was supported in this non-compliant behavior
+      by the main complicit governments, particularly the United States that blocked
+      all UN enforcement and ceasefire efforts by exercising its right of veto. It is
+      more accurate  to speak of an ‘enforcement gap’ in this situation that seemed
+      to nullify ICJ action after it was clear that Israel would not act in the spirit
+      of membership in the UN by voluntarily complying with an adverse decision and
+      that the UN was helpless in view of the clash between the judicial outcome and
+      the geopolitical interests of the five Permanent Members of the Security Council
+      each of whom was vested with authority to nullify ICJ rulings. The ICJ should
+      not be blamed, it should instead be vested with enforcement powers to ensure the
+      effectiveness of its pronouncements on matters of international law. Until then
+      the failure of judicial approaches to global security and the protection of human
+      rights should be associated with the design of the UN, and world order generally,
+      controlled and shaped by the winners of World War II in 1945 to preserve their
+      habitual entitlement that gave precedence to strategic interests when challenged
+      by international law. The ICJ also issued an historically significant Advisory
+      Opinion on July 19, 2024 that also resulted in a near unanimous outcome in responding
+      to a General Assembly Resolution seeking guidance as to objections to Israel’s
+      role as Occupying Power in Gaza that is legally regulated by the 4 th Geneva Convention
+      on Belligerent Occupation.[‘Advisory Opinion on Occupied Palestinian Territory
+      Including East Jerusalem, responding to request of General Assembly for guidance
+      as to “Legal Consequences arising from the Policies and Practices of Israel in
+      the OPT”’]  The Advisory Opinion addressed various allegations of Israeli violations
+      in Gaza, West Bank, and East Jerusalem. The ICJ rendered an authoritative judgment,
+      despite the misleading label of ‘Advisory,’ concluding that Israel’s pervasive
+      pattern of unlawfulness in administering the Occupying Territories since the 1967
+      War justified terminating Israel’s administrative authority and physical presence
+      as soon as practicable, including Gaza, and within no more than a year. Further
+      that the UN and its member governments were put under legal obligations by the
+      ICJ to implement this authoritative assessment, and not to view implementation
+      with the ruling as merely ‘advisory.’ This legal evaluation of the Israeli obligation
+      in the Occupied Palestinian territory did not extend specifically to the period
+      of time elapsing since October 7 as the GA Resolution was adopted prior to the
+      Hamas attack. Of secondary significance is the issuance by the ICC of ‘arrest
+      warrants’ for the Israeli Prime Minister, Netanyahu, and the former Minister of
+      Defense, Yoav Gallant, for a variety of alleged crimes of Israel, although not
+      genocide. As neither Israel nor the US are members of the ICC, and the ICC unlike
+      the ICJ is not part of the UN System, the prospects for enforcement are almost
+      nil. Attention should also be given to an ‘Accountability Gap’ of impunity that
+      is supplementary to the ‘Enforcement Gap.’ The US Government actually has imposed
+      sanctions on the Chief Prosecutor of the ICC for advocating proceedings allegedly
+      exceeding the lawful authority of the tribunal. It simultaneously imposed sanctions
+      on the four ICC judges that facilitated the arrest of these Israeli leaders in
+      accord with the arrest warrants. Beyond this the US officially threatened future
+      action in the event of any new effort to take action contrary to the political
+      and economic interests of the US, Israel, and other allies. Also relevant for
+      analyzing the UN disappointing response to Israel’s prolonged genocide is a ‘Complicity
+      Gap’ in the behavior of the ICJ and ICC. These tribunals have thus far refrained
+      from directly examining allegations of aiding and abetting the commission of international
+      crimes by third party actors, especially governments and corporations. It is up
+      to UN members and international law scholars to encourage increased ICJ attentiveness
+      to the Complicity Gap, which as here, is integral to insulating the wrongdoing
+      actors from enforcement. In early July 2025 the UN Special Rapporteur of Occupied
+      Palestine, Francesco Albanese, was also sanctioned for her attribution of legal
+      responsibility to corporations for continuing their profitable relations with
+      Israel in the face of genocide. She accompanied this assessment with a recommendation
+      that the ICC initiate investigations with an eye toward prosecutions. Known as
+      a dedicated and brave human rights defender, the sanctions generated widespread
+      protests, including calls for awarding Albanese the Nobel Peace Prize and demands
+      that the sanctioning Secretary of State, Marco Rubio, resign. This is highly unlikely
+      to happen so long as the US treats its alliance with Israel as superior to its
+      obligations as a law-abiding member of international society. It might seem that
+      international law is indeed useless in view of these gaps and the inability to
+      protect a people victimized by international criminal conduct and a settler colonial
+      occupation making Palestinians persecuted strangers in their own homeland. As
+      here, even when the formal judicial outcomes are neither complied with nor enforceable,
+      international law is important. It exerts often unacknowledged influences on many
+      governments, the tone and substance of media coverage, and breadth and depth of
+      civil society activism. In some settings these informal implementations of international
+      law achieve some degree of justice even in the context of the prolonged commission
+      of ‘the crime of crimes,’ genocide, as has been the experience of the Palestinian
+      civilian population in Gaza for more 21 months. Disregarding international law
+      because of these flaws in the global normative order would be a mistake. Even
+      when not enforced, or its findings repudiated, the outcomes of legal controversy
+      can exert a defining influence on public perceptions of legitimacy, that is, in
+      the dynamics  of configuring of the legal and moral high ground in an underlying
+      political conflict. Contrary to the beliefs of ‘political realists’ who control
+      the foreign policy processes of most governments, relative military capabilities
+      are no longer reliable predictors of which side will prevail in an armed political
+      struggle. This should have been the core message derived by the United States
+      from the Vietnam War during which it militarily prevailed on the battlefield and
+      yet went on to lose the war. This pattern was repeated in most colonial wars fought
+      during the latter decades of the 20 th century. The agency of military superiority
+      has declined in relation to many 21 st century conflict situations, especially
+      in nationalist resistance to foreign intervention, regime change and state rebuilding
+      projects, settler colonial stabilization repressive policies and practices. The
+      Gaza Peoples Tribunal was formed in2024 with this background in mind. It was conceived
+      exclusively as an initiative of global civil society with the dual objectives
+      of helping swing the balance in the Legitimacy War between Israel and the Palestine
+      as well as encourage nonviolent solidarity initiative supportive of the Palestinian
+      struggle. Israel’s violent assault on Gaza that started shortly after the attack
+      on Israeli border villages on October 7, resisted in the months that followed
+      repeated calls for an Israeli ceasefire. Israel also rejected the option of complying
+      with international law defying ICJ and ICC rulings. Such postures amid an r extremely
+      one-sided conflict gave rise to an intensifying moral outrage among the peoples
+      of the world, and eventually among more and more governments, especially in the
+      Global South. The GPT is gathering evidence and assessments from an assortment
+      of qualified survivor witnesses, experts, as well as from three chambers each
+      composed of about 10 specialists documenting the relevance of international law
+      and world politics in its several dimensions bearing on the situation in Gaza.
+      The compilation of testimony and documentation will be presented to a Jury of
+      Conscience composed of persons of diverse experience reflecting prominence in
+      law, political science, and cultural expression who are made responsible for the
+      preparation of oral and written short substantive reports. The distinctiveness
+      of the Gaza Peoples Tribunal (as compared to the ICJ and ICC) is premised on the
+      primacy of justice rather than the primacy of la w or the primacy of geopolitics
+      . GPT makes no pretense of being a normal court of law bound to give the accused
+      state and non-state actors of opportunities to mount a legal defense of their
+      behavior. In past peoples tribunals when such a defendant actor is invited to
+      present a defense, it has always been rejected, presumably because the overall
+      outcome of the judicial process is predetermined. The GPT does not attempt to
+      mimic judicial tribunals that operate technically and over long durations of time.
+      It is openly partisan although objective with respect to evidence, seeking to
+      add leverage to those engaged in the Legitimacy War. GPT prides itself on being
+      responsive to the urgency of the Gaza humanitarian emergency, and seeks above
+      all to stimulate solidarity on the level of action. The GPT relies on a variety
+      of civil society initiatives to exert pressures on governments to close the enforcement,
+      accountability, and complicity gaps. It also supports a range of nonviolent solidarity
+      initiatives by civil society, including boycotts of sporting and cultural events
+      that have Israeli participants; arms, trade, and investment embargoes; protest
+      activity of all varieties, including act of civil disobedience expressive of the
+      conscience of engaged citizens. 2. The silence and complicity of Europe on this
+      massacre for extinction of Gaza population today and beside hypocritical condemnation
+      and people demonstrations in Italy and France Why? How the Holocaust  is weaponized 
+      by some like Germany to be accused of antisemitism, but France and Italy have
+      a different history (Vichy and Mussolini and Nazi fascism)? Response : As your
+      question suggests, history helps us understand and explain the complicity of democratic
+      governments in Europe with Israel’s recourse to genocide and crimes against humanity
+      in Gaza. There are two principal lines of explanation. The first, and most obvious,
+      is embedded sentiments of guilt about the long tradition of European antisemitism,
+      culminating in the Holocaust. Especially, Germany, and to a lesser extent Italy,
+      are acutely sensitive to this allegation. The governments and citizenry of such
+      countries have unfortunately adopted the view that to overcome the disgraces of
+      their past it is better to stand with Israel than to side with the Palestinians
+      who like the Jews of the Hitler period are enduring a horrific genocide. In other
+      words, the ‘never again’ renunciation of genocide pertains exclusively to the
+      past victimized people, the Jews, rather than to a repudiated pattern of behavior,
+      genocide, regardless of the identity of the victim. The second strand of explanation,
+      implicit on the right end of the political spectrum in Europe, insists that the
+      Nazi genocide was also a matter of racial purification and religion, not just
+      Jewish identity. In this sense, the Jews in relation to the Islamic world of the
+      Middle East are bearing the torch of white supremacy and Western civilizational
+      superiority, a reenactment of the Crusades under different flags in the context
+      of modernity. In this post-Cold War period Israel is situated on the Islamic containment
+      fault line of ‘a clash of civilizations,’ in effect enacting ‘a second coming
+      of Samuel Huntington.’ In this sense, the real ‘enemy’ of these European countries
+      is Iran, a non-Arab country that manifests hostility to the regional encroachment
+      of the white and secular West. For opposite reasons to the Western alliance with
+      Israel, Iran regards Israel as its principal adversary. 3. Trump touring the Gulf
+      States could have political consequences for Gaza? Response : There is no doubt
+      that Trump’s May visit to the Gulf States has had adverse consequences for Gaza,
+      but their exact nature remains obscure beyond giving Israel further time to impose
+      its will on the helpless Palestinian civilian population. On one side, it could
+      have been the first stage of a more transactional US relationship with Israel
+      than the kind of unconditional support given during the Biden presidency. In this
+      sense an altered posture toward regional war prevention might have resulted in
+      a greater willingness to forego the dangerous attack on Iran, and a greater readiness
+      to seek a negotiated solution to Western objections to their nuclear program.
+      Such a course of action would been a challenge to Netanyahu’s Israel. It might
+      even have shaken Israel confidence in receiving unlimited support for their preferred
+      endgame scenarios in Gaza. It might also encourage Netanyahu to lend support,
+      which he has recently done, to Trump’s patently surreal candidacy for a Nobel
+      Peace Prize, supposedly among his narcissistic phantasies, and concretely allow
+      Israel to get on with the genocidal assault on Gaza, and bury once and for all
+      the zombie two-state endgame that while delusional, subverts Israel’s manifest
+      ambition to terminate the Zionist Project triumphalist solution with a single
+      Israeli one-state incorporating the whole of mandate Palestine. In retrospect,
+      judging by what has happened since, the trip to the Middle East seems to have
+      convinced Trump that he could combine positive relations with the Gulf monarchies
+      and yet give Netanyahu all the support that he wants in Gaza. There is reason
+      to believe that the main Arab leaders share Israel’s goal of destroying Hamas
+      for the sake of their repressive stability.  Many of these Arab regimes might
+      in the future be persuaded to join hands with the US, and even Israel, by adopting
+      a common counter-terrorism orientation. This posture might prove compatible with
+      Israel’s coerced displacement of Palestinians living in Gaza and the West Bank,
+      persons to be ideally to be dumped in a remote African country where the hope
+      is that in time they will give up their dreams of liberating Palestine. Israel
+      has in recent months increasingly lost legitimacy by carrying their attack on
+      the civilian population of Gaza to cruel extremes of starvation and by making
+      aid distribution sites into death traps. Israel’s pariah identity will be hard
+      to overcome with the peoples of the world, including an increasing proportion
+      of citizenries of the once liberal democracies in the Europe and North America.
+      Trump’s trip momentarily sidelining Israel diplomatically, and Netanyahu’s arrogant
+      launch of Gideon’s Chariot, the name given Israel’s latest military operation
+      in Gaza has not led to a more problematic phase in Israel/US relations. It is
+      uncertain at this time whether maintaining harmony with Israel, despite the continuing
+      genocide, strengthens or weakens the Trump agenda of the next few years. Given
+      the singling out of Palestinian Support on American campuses as a target for the
+      ultra-right agenda of Project 2025 I would still expect that these demeaning ties
+      with Israel, including complicity with Israel’s resolve to control ‘the day after
+      negotiations’ will continue come what may in Gaza, a sad commentary on the suppression
+      of liberal values whenever upholding the rule of law and minimal morality stand
+      in the way of ideological and strategic goals, including civilizational unity.
+      With the political advent of MAGA Trumpism liberal pretensions within the US have
+      been buried as deep underground as Iran’s nuclear sites and seemingly as indestructible.
+      R. Falk Comment for Il Manifesto on US Attack on Iran’s Nuclear Facilities 6/22/25,
+      in response to request by Patricia Lombroso Once again, the world is moving once
+      again closer to the brink of major war in the Middle East, with Israel doing most
+      of the dirty work relative to Western post-colonial imperiali sm under the joint
+      Israel/US auspices. The US actively joined Israel’s unprovoked aggression to the
+      extent that Israel needed its help to complete a military operation against Iran’s
+      nuclear sites. The US and Europe keep continuing to evade scrutinizing the ongoing
+      genocide in Gaza and give Israel a totally free hand of impunity to embark upon
+      either the mass forced departure of Palestinian from the Occupied Palestinian
+      Territories of Gaza, the West Bank, and East Jerusalem.  even from pre-1967 Israel
+      itself, or a plan B of constructing death camps in the devastated city of Rafah
+      to confine Palestinian survivors in Gaza. The immoral audacity of Israel is exhibited
+      by naming such morbid arrangements as constituting ‘a humanitarian city.’ To complete
+      the mission of destroying or significantly delaying the completion of Iran’s nuclear
+      enrichment capabilities, Israel needed more than US complicity as it lacked blockbuster
+      bombs and B-2  bombers (alone capable of delivering such massive bombs) to destroy
+      or heavily damage Iranian deep underground facilities at  Fordow and Natanz, and
+      its surface nuclear site at Isfahan. It remains undetermined whether Israel used
+      the pretext of a nuclear threat posed by Iran as a justification for its post-October
+      7 policy of mounting devastating military attacks throughout the region to destroy
+      hostile movements and weaken potential adversary states such as Syria, Lebanon,
+      Yemen, and Iraq. In the Iran unprovoked attacks, part of the incentive for striking
+      in June 2025 was undoubtedly to divert attention from the growing international
+      opposition from its continuing genocidal policies in Gaza, most recently including
+      luring starving Palestinians to supposed humanitarian food distribution sites,
+      which acted as horrifying death traps. An irony is that these June 21 US attacks
+      on three main nuclear facilities gave Iran an airtight international law argument
+      for the validation of claims to retaliate by relying upon its right of self-defense
+      against the prior Israel and United States acts of aggression that violated Iran’s
+      territorial sovereignty. The Supreme Leader of Iran, Ayatollah Khamenei, vowed
+      to retaliate and did so to a limited extent that penetrated Israel’s layered defenses
+      sufficiently to discredit its claims of invulnerability to air and missile attack.
+      It remains uncertain whether Khamenei’s warning will be fully carried out at some
+      future time in the event that the present ceasefire arrangement lapses, Israel
+      again provokes, and combat resumes. As a result, the threat of war between Iran
+      and Israel as supported strongly by the US and rather weakly by the European Union
+      casts a dark shadow of potential war throughout the region at this time.  The
+      outbreak of war probably depends on whether Iran is perceived to possess deterrent
+      capabilities taking the form of launching a sufficiently effective attack on US
+      strategic assets, especially against its minimally defended numerous military
+      bases spread around the region. Prior to the ceasefire the Iranian response was
+      measured and cautious, designed to demonstrate that it possessed the military
+      capabilities to inflict heave damage on any adversary in the future. Iran’s show
+      of force was undertaken despite a near certain expectation of an even a more devastating
+      US attack. Such a response would likely be accompanied by a direct and explicit
+      promotion  of regime change in Tehran promoted by mobilizing internal opposition
+      forces, encouraged by pledges of substantial external material encouragement,
+      and even carrying out an assassination of Iran’s Supreme Guide, Ayatollah Khamenei.
+      It is quite possible that Israel will keep pushing tactics designed to promote
+      Iranian regime change although on an ambiguous basis of deniability and covert
+      support for the internal Iranian opposition. A political complexity facing Iran
+      from a legal perspective arises from the reality that US strategic targets in
+      the region are concentrated in Arab countries currently at peace with Iran. The
+      governments of such states would have a self-defense claim against Iran for forcibly
+      violating their territorial sovereignty. It could also lead to questions in the
+      US about the costs of maintaining its Middle Eastern force structure. It also
+      could lead Arab government to question whether their security and stability is
+      being reliably upheld by the acceptance of visible American military assets on
+      their sovereign territory. Such questioning would almost certainly accompany a
+      Second Arab Spring in the region should it take place. Whether the world would
+      continue to stand aside while the US and Israel, in apocalyptic interaction with
+      Iran, plunge the world into a new world war is uncertain. This uncertainty exists
+      despite the likely results of threats and even uses weapons of mass destruction.
+      With Trump and Netanyahu calling the shots, there is the prospect of a dramatic
+      further expansion of the combat zone, with few policy guard rails to discourage
+      nuclear threats and their implementation. There is much public pressure in the
+      US to wage wars of choice in a politically acceptable manner that avoids ‘boots
+      on the ground’ so as to minimize American casualties, thereby weakening citizen
+      opposition to wars disconnected with direct threats to national sovereignty. This
+      option of relying on missiles, bombers, drones has made it tempting for the US/Israel
+      leadership to gamble on mounting a credible threat to secure its desired outcome
+      in Iran even, if necessary, by demonstrating the willingness to use nuclear weapons
+      if needed to achieve its strategic objectives. Stumbling into an unwanted nuclear
+      Armageddon may not be expected by war hawks, and certainly not wished for, but
+      the stage is being set for such a catastrophic future. As scholarship has shown,
+      the world was extremely lucky to escape nuclear war back in 1961 during the Cuban
+      Missile Crisis. It might not be as lucky this time when much less prudent leaders
+      than Kennedy and Khruschev are in control of warmaking by the antagonistic governments
+      of current geopolitical actors (US, China, Russia). We should not forget that
+      while this Iranian drama plays out, Israel is freed from media and governmental
+      scrutiny as its war machine speeds up the Zionist master plan of completing the
+      work of Palestinian erasure, Israeli leaders have been increasingly emboldened
+      to proclaim their preferred solution to the conflict by way of a one supremist
+      Jewish state that has now become a de facto political reality. It remains somewhat
+      obscured by the remarkable continuing Palestinian resilience and resistance. Israel
+      has made no secret of its priority as a sequel to genocide, which is the forced
+      disposition of Palestinians living under occupation as a repetition of earlier
+      instances of ‘ethnic cleansing’ (Nakba, 1948; Naksa, 1967) or its grisly alternative
+      of confining Palestinians to a so-called ‘humanitarian city’ currently under construction.
+      The Trump presidency has given many blessings to this Israeli vision of victory
+      over the struggle of Palestinians to sustain their struggle no matter the extremity
+      of the human suffering. Whether Israel has been decisively weakened by the steady
+      erosion of its legitimacy through its defiance of the most basic norms of international
+      law, by repeated condemnations in sharply worded UN General Assembly resolutions
+      reflecting the views of a majority of the world’s people and governments, and
+      by a hostile turn of world public opinion remains to be seen. It will also be
+      reflected on how civil society in the West responds, facing at present repression
+      at home and impunity-free defiance by Israel. A decisive question for those seeking
+      a denuclearized Middle East is when will the awkward issue of dismantling Israel’s
+      long hidden nuclear weapons arsenal is at last put on the diplomatic agenda for
+      all to see. It has been one of the geopolitical triumphs of the US and Europe
+      to keep Israel’s opposition to a nuclear-free Middle East from affecting the approach
+      to regional stability and world peace. The major Arab countries and Iran have
+      long favored regional denuclearization, but such a goal has been effectively thwarted
+      by Israel and its closest allies.'
+    one_sentence_summary: The article features two interviews discussing the severe
+      humanitarian crisis in Gaza and the West Bank due to Israeli actions, which have
+      sparked global protests and criticisms, while the US and UK continue their unconditional
+      support for Israel, alongside a commentary on the recent conflict initiated by
+      Israel against Iran, aimed at damaging its nuclear capabilities.
+    paragraph_summary: The article features two interviews published in the Italian
+      weekly Il Manifesto, focusing on the ongoing humanitarian crisis in Gaza and the
+      West Bank, exacerbated by Israeli actions that have led to severe civilian suffering,
+      including mass hunger and water scarcity. Despite global protests and governmental
+      denunciations, the U.S. and U.K. continue to provide unconditional support to
+      Israel, while countries like France, Canada, and Germany express mild criticism
+      without halting trade or vital supplies. The second part discusses a recent conflict
+      initiated by Israel and supported by the U.S. against Iran, aimed at damaging
+      its nuclear facilities using powerful bombs, though the effectiveness of these
+      strikes remains uncertain. The article also mentions the establishment of the
+      Gaza Peoples Tribunal in 2024, created in response to the perceived failures of
+      international legal bodies to address Israel's actions, drawing parallels to historical
+      anti-war and anti-apartheid movements.
+    published: '2025-07-17T13:33:42+00:00'
+  - title: Civic Responses to Gaza Genocide and Regional Nuclearism
+    url: https://richardfalk.org/2025/07/17/civic-responses-to-gaza-genocide-and-regional-nuclearism/
+    text: '[Prefatory Note: The post below is in two parts, both interviews published
+      in the Italian weekly, Il Manifesto . The first addresses the Gaza dimension of
+      the current Palestinian ordeal now extended to the West Bank and drawing worldwide
+      negative attention by induced mass hunger and water scarcity. These severe civilian
+      hardships resulting from Israeli criminality have given rise to a variety of protest
+      activities, governmental denunciations, yet continue to gain unconditional support
+      by the United States and the UK, while drawing some mild critical drawbacks from
+      formerly supportive  France, Canada, and Germany but without stoppage of trade
+      or flows of vital supplies to Israel. The second part in the form of an early
+      comment on the short Iran War, initiated by Israel, joined by the US to inflict
+      maximum damage on Iran’s nuclear sites, dramatized by the US reliance on ‘blockbuster
+      bombs’ of 30,000 pounds to destroy nuclear facilities built deep underground.
+      Their initial US and Israeli claims of victorious results have been watered down
+      by growing doubts of how much damage was actually done to Iran’s nuclear attacks.
+      A further setback for the attackers is the widespread speculation that Iran might
+      now decide to develop nuclear weapons unless Israel would agree, which seems highly
+      doubtful, to dismantle their nuclear arsenal and agree to a nuclear-free monitored
+      Middle East. These texts are slightly modified for updating and clarity.] Patricia
+      Lambroso Interview Questions, Richard Falk Responses, Il Manifesto (5/20/25 )
+      1. The Gaza Peoples Tribunal (civil society tribunal) was launched in November
+      of 2024 in London following the failure by ICJ and ICC, the international tribunals
+      in the Hague, political leaders,  governments, protest activism around the world
+      to stop Israel’s crimes against humanity in Gaza. The anti-war movement that arose
+      during the Vietnam War and the worldwide anti-apartheid campaign against the racist
+      South African government were your examples of civic mobilization that exerted
+      pressure on governments to change their unlawful, criminal policies. Is this possible
+      today in the setting of Gaza and with respect to the Palestinian people regarding
+      the fulfillment of their right of self-determination? Response : It is not entirely
+      fair to conclude that the ICJ and ICC ‘failed’ to stop the genocidal attack on
+      Gaza or the crimes against humanity alleged to have been extensively committed
+      by Israel and endorsed by its political leaders and supported by the liberal democracies
+      of the West. The ICJ accepted jurisdiction to address tje submission by South
+      Africa alleging violations of the International Convention on the Prevention and
+      Punishment of the Crime of Genocide (1951), and issued near unanimous interim
+      rulings in January and May 2024 to the momentous effect that it was ‘plausible’
+      to regard the Israeli violence in Gaza after October 7 as amounting to genocide.
+      The ICJ then also ordered Israel to cease altogether interfering with the international
+      delivery to Gaza of humanitarian aid taking the forms of food, medical supplies,
+      and fuel. Although Israel took part in the judicial proceedings, it refused to
+      comply with these interim rulings and was supported in this non-compliant behavior
+      by the main complicit governments, particularly the United States that blocked
+      all UN enforcement and ceasefire efforts by exercising its right of veto. It is
+      more accurate  to speak of an ‘enforcement gap’ in this situation that seemed
+      to nullify ICJ action after it was clear that Israel would not act in the spirit
+      of membership in the UN by voluntarily complying with an adverse decision and
+      that the UN was helpless in view of the clash between the judicial outcome and
+      the geopolitical interests of the five Permanent Members of the Security Council
+      each of whom was vested with authority to nullify ICJ rulings. The ICJ should
+      not be blamed, it should instead be vested with enforcement powers to ensure the
+      effectiveness of its pronouncements on matters of international law. Until then
+      the failure of judicial approaches to global security and the protection of human
+      rights should be associated with the design of the UN, and world order generally,
+      controlled and shaped by the winners of World War II in 1945 to preserve their
+      habitual entitlement that gave precedence to strategic interests when challenged
+      by international law. The ICJ also issued an historically significant Advisory
+      Opinion on July 19, 2024 that also resulted in a near unanimous outcome in responding
+      to a General Assembly Resolution seeking guidance as to objections to Israel’s
+      role as Occupying Power in Gaza that is legally regulated by the 4 th Geneva Convention
+      on Belligerent Occupation.[‘Advisory Opinion on Occupied Palestinian Territory
+      Including East Jerusalem, responding to request of General Assembly for guidance
+      as to “Legal Consequences arising from the Policies and Practices of Israel in
+      the OPT”’]  The Advisory Opinion addressed various allegations of Israeli violations
+      in Gaza, West Bank, and East Jerusalem. The ICJ rendered an authoritative judgment,
+      despite the misleading label of ‘Advisory,’ concluding that Israel’s pervasive
+      pattern of unlawfulness in administering the Occupying Territories since the 1967
+      War justified terminating Israel’s administrative authority and physical presence
+      as soon as practicable, including Gaza, and within no more than a year. Further
+      that the UN and its member governments were put under legal obligations by the
+      ICJ to implement this authoritative assessment, and not to view implementation
+      with the ruling as merely ‘advisory.’ This legal evaluation of the Israeli obligation
+      in the Occupied Palestinian territory did not extend specifically to the period
+      of time elapsing since October 7 as the GA Resolution was adopted prior to the
+      Hamas attack. Of secondary significance is the issuance by the ICC of ‘arrest
+      warrants’ for the Israeli Prime Minister, Netanyahu, and the former Minister of
+      Defense, Yoav Gallant, for a variety of alleged crimes of Israel, although not
+      genocide. As neither Israel nor the US are members of the ICC, and the ICC unlike
+      the ICJ is not part of the UN System, the prospects for enforcement are almost
+      nil. Attention should also be given to an ‘Accountability Gap’ of impunity that
+      is supplementary to the ‘Enforcement Gap.’ The US Government actually has imposed
+      sanctions on the Chief Prosecutor of the ICC for advocating proceedings allegedly
+      exceeding the lawful authority of the tribunal. It simultaneously imposed sanctions
+      on the four ICC judges that facilitated the arrest of these Israeli leaders in
+      accord with the arrest warrants. Beyond this the US officially threatened future
+      action in the event of any new effort to take action contrary to the political
+      and economic interests of the US, Israel, and other allies. Also relevant for
+      analyzing the UN disappointing response to Israel’s prolonged genocide is a ‘Complicity
+      Gap’ in the behavior of the ICJ and ICC. These tribunals have thus far refrained
+      from directly examining allegations of aiding and abetting the commission of international
+      crimes by third party actors, especially governments and corporations. It is up
+      to UN members and international law scholars to encourage increased ICJ attentiveness
+      to the Complicity Gap, which as here, is integral to insulating the wrongdoing
+      actors from enforcement. In early July 2025 the UN Special Rapporteur of Occupied
+      Palestine, Francesco Albanese, was also sanctioned for her attribution of legal
+      responsibility to corporations for continuing their profitable relations with
+      Israel in the face of genocide. She accompanied this assessment with a recommendation
+      that the ICC initiate investigations with an eye toward prosecutions. Known as
+      a dedicated and brave human rights defender, the sanctions generated widespread
+      protests, including calls for awarding Albanese the Nobel Peace Prize and demands
+      that the sanctioning Secretary of State, Marco Rubio, resign. This is highly unlikely
+      to happen so long as the US treats its alliance with Israel as superior to its
+      obligations as a law-abiding member of international society. It might seem that
+      international law is indeed useless in view of these gaps and the inability to
+      protect a people victimized by international criminal conduct and a settler colonial
+      occupation making Palestinians persecuted strangers in their own homeland. As
+      here, even when the formal judicial outcomes are neither complied with nor enforceable,
+      international law is important. It exerts often unacknowledged influences on many
+      governments, the tone and substance of media coverage, and breadth and depth of
+      civil society activism. In some settings these informal implementations of international
+      law achieve some degree of justice even in the context of the prolonged commission
+      of ‘the crime of crimes,’ genocide, as has been the experience of the Palestinian
+      civilian population in Gaza for more 21 months. Disregarding international law
+      because of these flaws in the global normative order would be a mistake. Even
+      when not enforced, or its findings repudiated, the outcomes of legal controversy
+      can exert a defining influence on public perceptions of legitimacy, that is, in
+      the dynamics  of configuring of the legal and moral high ground in an underlying
+      political conflict. Contrary to the beliefs of ‘political realists’ who control
+      the foreign policy processes of most governments, relative military capabilities
+      are no longer reliable predictors of which side will prevail in an armed political
+      struggle. This should have been the core message derived by the United States
+      from the Vietnam War during which it militarily prevailed on the battlefield and
+      yet went on to lose the war. This pattern was repeated in most colonial wars fought
+      during the latter decades of the 20 th century. The agency of military superiority
+      has declined in relation to many 21 st century conflict situations, especially
+      in nationalist resistance to foreign intervention, regime change and state rebuilding
+      projects, settler colonial stabilization repressive policies and practices. The
+      Gaza Peoples Tribunal was formed in2024 with this background in mind. It was conceived
+      exclusively as an initiative of global civil society with the dual objectives
+      of helping swing the balance in the Legitimacy War between Israel and the Palestine
+      as well as encourage nonviolent solidarity initiative supportive of the Palestinian
+      struggle. Israel’s violent assault on Gaza that started shortly after the attack
+      on Israeli border villages on October 7, resisted in the months that followed
+      repeated calls for an Israeli ceasefire. Israel also rejected the option of complying
+      with international law defying ICJ and ICC rulings. Such postures amid an r extremely
+      one-sided conflict gave rise to an intensifying moral outrage among the peoples
+      of the world, and eventually among more and more governments, especially in the
+      Global South. The GPT is gathering evidence and assessments from an assortment
+      of qualified survivor witnesses, experts, as well as from three chambers each
+      composed of about 10 specialists documenting the relevance of international law
+      and world politics in its several dimensions bearing on the situation in Gaza.
+      The compilation of testimony and documentation will be presented to a Jury of
+      Conscience composed of persons of diverse experience reflecting prominence in
+      law, political science, and cultural expression who are made responsible for the
+      preparation of oral and written short substantive reports. The distinctiveness
+      of the Gaza Peoples Tribunal (as compared to the ICJ and ICC) is premised on the
+      primacy of justice rather than the primacy of la w or the primacy of geopolitics
+      . GPT makes no pretense of being a normal court of law bound to give the accused
+      state and non-state actors of opportunities to mount a legal defense of their
+      behavior. In past peoples tribunals when such a defendant actor is invited to
+      present a defense, it has always been rejected, presumably because the overall
+      outcome of the judicial process is predetermined. The GPT does not attempt to
+      mimic judicial tribunals that operate technically and over long durations of time.
+      It is openly partisan although objective with respect to evidence, seeking to
+      add leverage to those engaged in the Legitimacy War. GPT prides itself on being
+      responsive to the urgency of the Gaza humanitarian emergency, and seeks above
+      all to stimulate solidarity on the level of action. The GPT relies on a variety
+      of civil society initiatives to exert pressures on governments to close the enforcement,
+      accountability, and complicity gaps. It also supports a range of nonviolent solidarity
+      initiatives by civil society, including boycotts of sporting and cultural events
+      that have Israeli participants; arms, trade, and investment embargoes; protest
+      activity of all varieties, including act of civil disobedience expressive of the
+      conscience of engaged citizens. 2. The silence and complicity of Europe on this
+      massacre for extinction of Gaza population today and beside hypocritical condemnation
+      and people demonstrations in Italy and France Why? How the Holocaust  is weaponized 
+      by some like Germany to be accused of antisemitism, but France and Italy have
+      a different history (Vichy and Mussolini and Nazi fascism)? Response : As your
+      question suggests, history helps us understand and explain the complicity of democratic
+      governments in Europe with Israel’s recourse to genocide and crimes against humanity
+      in Gaza. There are two principal lines of explanation. The first, and most obvious,
+      is embedded sentiments of guilt about the long tradition of European antisemitism,
+      culminating in the Holocaust. Especially, Germany, and to a lesser extent Italy,
+      are acutely sensitive to this allegation. The governments and citizenry of such
+      countries have unfortunately adopted the view that to overcome the disgraces of
+      their past it is better to stand with Israel than to side with the Palestinians
+      who like the Jews of the Hitler period are enduring a horrific genocide. In other
+      words, the ‘never again’ renunciation of genocide pertains exclusively to the
+      past victimized people, the Jews, rather than to a repudiated pattern of behavior,
+      genocide, regardless of the identity of the victim. The second strand of explanation,
+      implicit on the right end of the political spectrum in Europe, insists that the
+      Nazi genocide was also a matter of racial purification and religion, not just
+      Jewish identity. In this sense, the Jews in relation to the Islamic world of the
+      Middle East are bearing the torch of white supremacy and Western civilizational
+      superiority, a reenactment of the Crusades under different flags in the context
+      of modernity. In this post-Cold War period Israel is situated on the Islamic containment
+      fault line of ‘a clash of civilizations,’ in effect enacting ‘a second coming
+      of Samuel Huntington.’ In this sense, the real ‘enemy’ of these European countries
+      is Iran, a non-Arab country that manifests hostility to the regional encroachment
+      of the white and secular West. For opposite reasons to the Western alliance with
+      Israel, Iran regards Israel as its principal adversary. 3. Trump touring the Gulf
+      States could have political consequences for Gaza? Response : There is no doubt
+      that Trump’s May visit to the Gulf States has had adverse consequences for Gaza,
+      but their exact nature remains obscure beyond giving Israel further time to impose
+      its will on the helpless Palestinian civilian population. On one side, it could
+      have been the first stage of a more transactional US relationship with Israel
+      than the kind of unconditional support given during the Biden presidency. In this
+      sense an altered posture toward regional war prevention might have resulted in
+      a greater willingness to forego the dangerous attack on Iran, and a greater readiness
+      to seek a negotiated solution to Western objections to their nuclear program.
+      Such a course of action would been a challenge to Netanyahu’s Israel. It might
+      even have shaken Israel confidence in receiving unlimited support for their preferred
+      endgame scenarios in Gaza. It might also encourage Netanyahu to lend support,
+      which he has recently done, to Trump’s patently surreal candidacy for a Nobel
+      Peace Prize, supposedly among his narcissistic phantasies, and concretely allow
+      Israel to get on with the genocidal assault on Gaza, and bury once and for all
+      the zombie two-state endgame that while delusional, subverts Israel’s manifest
+      ambition to terminate the Zionist Project triumphalist solution with a single
+      Israeli one-state incorporating the whole of mandate Palestine. In retrospect,
+      judging by what has happened since, the trip to the Middle East seems to have
+      convinced Trump that he could combine positive relations with the Gulf monarchies
+      and yet give Netanyahu all the support that he wants in Gaza. There is reason
+      to believe that the main Arab leaders share Israel’s goal of destroying Hamas
+      for the sake of their repressive stability.  Many of these Arab regimes might
+      in the future be persuaded to join hands with the US, and even Israel, by adopting
+      a common counter-terrorism orientation. This posture might prove compatible with
+      Israel’s coerced displacement of Palestinians living in Gaza and the West Bank,
+      persons to be ideally to be dumped in a remote African country where the hope
+      is that in time they will give up their dreams of liberating Palestine. Israel
+      has in recent months increasingly lost legitimacy by carrying their attack on
+      the civilian population of Gaza to cruel extremes of starvation and by making
+      aid distribution sites into death traps. Israel’s pariah identity will be hard
+      to overcome with the peoples of the world, including an increasing proportion
+      of citizenries of the once liberal democracies in the Europe and North America.
+      Trump’s trip momentarily sidelining Israel diplomatically, and Netanyahu’s arrogant
+      launch of Gideon’s Chariot, the name given Israel’s latest military operation
+      in Gaza has not led to a more problematic phase in Israel/US relations. It is
+      uncertain at this time whether maintaining harmony with Israel, despite the continuing
+      genocide, strengthens or weakens the Trump agenda of the next few years. Given
+      the singling out of Palestinian Support on American campuses as a target for the
+      ultra-right agenda of Project 2025 I would still expect that these demeaning ties
+      with Israel, including complicity with Israel’s resolve to control ‘the day after
+      negotiations’ will continue come what may in Gaza, a sad commentary on the suppression
+      of liberal values whenever upholding the rule of law and minimal morality stand
+      in the way of ideological and strategic goals, including civilizational unity.
+      With the political advent of MAGA Trumpism liberal pretensions within the US have
+      been buried as deep underground as Iran’s nuclear sites and seemingly as indestructible.
+      R. Falk Comment for Il Manifesto on US Attack on Iran’s Nuclear Facilities 6/22/25,
+      in response to request by Patricia Lombroso Once again, the world is moving once
+      again closer to the brink of major war in the Middle East, with Israel doing most
+      of the dirty work relative to Western post-colonial imperiali sm under the joint
+      Israel/US auspices. The US actively joined Israel’s unprovoked aggression to the
+      extent that Israel needed its help to complete a military operation against Iran’s
+      nuclear sites. The US and Europe keep continuing to evade scrutinizing the ongoing
+      genocide in Gaza and give Israel a totally free hand of impunity to embark upon
+      either the mass forced departure of Palestinian from the Occupied Palestinian
+      Territories of Gaza, the West Bank, and East Jerusalem.  even from pre-1967 Israel
+      itself, or a plan B of constructing death camps in the devastated city of Rafah
+      to confine Palestinian survivors in Gaza. The immoral audacity of Israel is exhibited
+      by naming such morbid arrangements as constituting ‘a humanitarian city.’ To complete
+      the mission of destroying or significantly delaying the completion of Iran’s nuclear
+      enrichment capabilities, Israel needed more than US complicity as it lacked blockbuster
+      bombs and B-2  bombers (alone capable of delivering such massive bombs) to destroy
+      or heavily damage Iranian deep underground facilities at  Fordow and Natanz, and
+      its surface nuclear site at Isfahan. It remains undetermined whether Israel used
+      the pretext of a nuclear threat posed by Iran as a justification for its post-October
+      7 policy of mounting devastating military attacks throughout the region to destroy
+      hostile movements and weaken potential adversary states such as Syria, Lebanon,
+      Yemen, and Iraq. In the Iran unprovoked attacks, part of the incentive for striking
+      in June 2025 was undoubtedly to divert attention from the growing international
+      opposition from its continuing genocidal policies in Gaza, most recently including
+      luring starving Palestinians to supposed humanitarian food distribution sites,
+      which acted as horrifying death traps. An irony is that these June 21 US attacks
+      on three main nuclear facilities gave Iran an airtight international law argument
+      for the validation of claims to retaliate by relying upon its right of self-defense
+      against the prior Israel and United States acts of aggression that violated Iran’s
+      territorial sovereignty. The Supreme Leader of Iran, Ayatollah Khamenei, vowed
+      to retaliate and did so to a limited extent that penetrated Israel’s layered defenses
+      sufficiently to discredit its claims of invulnerability to air and missile attack.
+      It remains uncertain whether Khamenei’s warning will be fully carried out at some
+      future time in the event that the present ceasefire arrangement lapses, Israel
+      again provokes, and combat resumes. As a result, the threat of war between Iran
+      and Israel as supported strongly by the US and rather weakly by the European Union
+      casts a dark shadow of potential war throughout the region at this time.  The
+      outbreak of war probably depends on whether Iran is perceived to possess deterrent
+      capabilities taking the form of launching a sufficiently effective attack on US
+      strategic assets, especially against its minimally defended numerous military
+      bases spread around the region. Prior to the ceasefire the Iranian response was
+      measured and cautious, designed to demonstrate that it possessed the military
+      capabilities to inflict heave damage on any adversary in the future. Iran’s show
+      of force was undertaken despite a near certain expectation of an even a more devastating
+      US attack. Such a response would likely be accompanied by a direct and explicit
+      promotion  of regime change in Tehran promoted by mobilizing internal opposition
+      forces, encouraged by pledges of substantial external material encouragement,
+      and even carrying out an assassination of Iran’s Supreme Guide, Ayatollah Khamenei.
+      It is quite possible that Israel will keep pushing tactics designed to promote
+      Iranian regime change although on an ambiguous basis of deniability and covert
+      support for the internal Iranian opposition. A political complexity facing Iran
+      from a legal perspective arises from the reality that US strategic targets in
+      the region are concentrated in Arab countries currently at peace with Iran. The
+      governments of such states would have a self-defense claim against Iran for forcibly
+      violating their territorial sovereignty. It could also lead to questions in the
+      US about the costs of maintaining its Middle Eastern force structure. It also
+      could lead Arab government to question whether their security and stability is
+      being reliably upheld by the acceptance of visible American military assets on
+      their sovereign territory. Such questioning would almost certainly accompany a
+      Second Arab Spring in the region should it take place. Whether the world would
+      continue to stand aside while the US and Israel, in apocalyptic interaction with
+      Iran, plunge the world into a new world war is uncertain. This uncertainty exists
+      despite the likely results of threats and even uses weapons of mass destruction.
+      With Trump and Netanyahu calling the shots, there is the prospect of a dramatic
+      further expansion of the combat zone, with few policy guard rails to discourage
+      nuclear threats and their implementation. There is much public pressure in the
+      US to wage wars of choice in a politically acceptable manner that avoids ‘boots
+      on the ground’ so as to minimize American casualties, thereby weakening citizen
+      opposition to wars disconnected with direct threats to national sovereignty. This
+      option of relying on missiles, bombers, drones has made it tempting for the US/Israel
+      leadership to gamble on mounting a credible threat to secure its desired outcome
+      in Iran even, if necessary, by demonstrating the willingness to use nuclear weapons
+      if needed to achieve its strategic objectives. Stumbling into an unwanted nuclear
+      Armageddon may not be expected by war hawks, and certainly not wished for, but
+      the stage is being set for such a catastrophic future. As scholarship has shown,
+      the world was extremely lucky to escape nuclear war back in 1961 during the Cuban
+      Missile Crisis. It might not be as lucky this time when much less prudent leaders
+      than Kennedy and Khruschev are in control of warmaking by the antagonistic governments
+      of current geopolitical actors (US, China, Russia). We should not forget that
+      while this Iranian drama plays out, Israel is freed from media and governmental
+      scrutiny as its war machine speeds up the Zionist master plan of completing the
+      work of Palestinian erasure, Israeli leaders have been increasingly emboldened
+      to proclaim their preferred solution to the conflict by way of a one supremist
+      Jewish state that has now become a de facto political reality. It remains somewhat
+      obscured by the remarkable continuing Palestinian resilience and resistance. Israel
+      has made no secret of its priority as a sequel to genocide, which is the forced
+      disposition of Palestinians living under occupation as a repetition of earlier
+      instances of ‘ethnic cleansing’ (Nakba, 1948; Naksa, 1967) or its grisly alternative
+      of confining Palestinians to a so-called ‘humanitarian city’ currently under construction.
+      The Trump presidency has given many blessings to this Israeli vision of victory
+      over the struggle of Palestinians to sustain their struggle no matter the extremity
+      of the human suffering. Whether Israel has been decisively weakened by the steady
+      erosion of its legitimacy through its defiance of the most basic norms of international
+      law, by repeated condemnations in sharply worded UN General Assembly resolutions
+      reflecting the views of a majority of the world’s people and governments, and
+      by a hostile turn of world public opinion remains to be seen. It will also be
+      reflected on how civil society in the West responds, facing at present repression
+      at home and impunity-free defiance by Israel. A decisive question for those seeking
+      a denuclearized Middle East is when will the awkward issue of dismantling Israel’s
+      long hidden nuclear weapons arsenal is at last put on the diplomatic agenda for
+      all to see. It has been one of the geopolitical triumphs of the US and Europe
+      to keep Israel’s opposition to a nuclear-free Middle East from affecting the approach
+      to regional stability and world peace. The major Arab countries and Iran have
+      long favored regional denuclearization, but such a goal has been effectively thwarted
+      by Israel and its closest allies.'
+    one_sentence_summary: The article features two interviews discussing the severe
+      humanitarian crisis in Gaza and the West Bank due to Israeli actions, which have
+      sparked global protests and criticisms, while the US and UK continue their unconditional
+      support for Israel, alongside a commentary on the recent conflict initiated by
+      Israel against Iran, aimed at damaging its nuclear capabilities.
+    paragraph_summary: The article features two interviews published in the Italian
+      weekly Il Manifesto, focusing on the ongoing humanitarian crisis in Gaza and the
+      West Bank, exacerbated by Israeli actions that have led to severe civilian suffering,
+      including mass hunger and water scarcity. Despite global protests and governmental
+      denunciations, the U.S. and U.K. continue to provide unconditional support to
+      Israel, while countries like France, Canada, and Germany express mild criticism
+      without halting trade or vital supplies. The second part discusses a recent conflict
+      initiated by Israel and supported by the U.S. against Iran, aimed at damaging
+      its nuclear facilities using powerful bombs, though the effectiveness of these
+      strikes remains uncertain. The article also mentions the establishment of the
+      Gaza Peoples Tribunal in 2024, created in response to the perceived failures of
+      international legal bodies to address Israel's actions, drawing parallels to historical
+      anti-war and anti-apartheid movements.
+    published: '2025-07-17T13:33:42+00:00'
   - title: Falcone Interviews Lawrence Davidson, Stephen Zunes, Richard Falk on Iran
       War and the Future
     url: https://richardfalk.org/2025/07/03/falcone-interviews-lawrence-davidson-stephen-zunes-richard-falk-on-iran-war-and-the-future/

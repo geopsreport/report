@@ -7,17 +7,502 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  The geopolitical landscape remains dominated by the ongoing conflicts in Ukraine and the Middle East, with U.S. policy under President Trump continuing to draw scrutiny for its perceived lack of decisive action and its alignment with Israeli interests.
+  Amid ongoing debates over US foreign policy and intelligence credibility, newly declassified documents have cast fresh doubt on the longstanding narrative of Russian interference in the 2016 US election. As **Aaron Maté** reports, these documents reveal that senior officials at the NSA and FBI held only "low confidence" in the claim that Russia hacked and leaked Democratic Party materials to benefit Donald Trump. This contradicts the previously accepted consensus and suggests that the Obama administration may have overstated the evidence to undermine Trump. **Tulsi Gabbard**, former Director of National Intelligence under Trump, argues that intelligence was manipulated for political ends, further fueling skepticism about the official Russiagate story.
   
-  In the latest development on the Ukraine front, President Trump unveiled his much-anticipated new policy, which, contrary to expectations set by hawkish figures like Senator Lindsey Graham, did not deliver a transformative shift in the U.S. approach to the proxy war with Russia. **Aaron Maté** notes that Graham had promoted a bipartisan sanctions package as potentially the “most impactful” in U.S. history, empowering Trump to impose severe secondary sanctions on countries engaging with Moscow and anticipating an unprecedented increase in weapons for Ukraine. However, the actual policy announcement fell short of these promises, signaling continuity rather than escalation. This has led to disappointment among those in Washington seeking a more aggressive stance, and reinforces the perception that Trump is reluctant to deepen U.S. involvement, instead framing the conflict as a European responsibility.
+  This revelation comes as the US continues to grapple with the legacy of the Mueller investigation and subsequent probes, including Special Counsel John Durham’s inquiry, which, according to **Maté**, failed to deliver meaningful accountability or transparency regarding the origins of the Russiagate narrative. The persistence of these doubts is likely to deepen partisan divides and erode public trust in US intelligence assessments—a trend that is "quite likely" to influence both domestic politics and future foreign policy decisions.
   
-  Meanwhile, the fallout from the U.S.-backed Israeli strike on Iran continues to reverberate. Since Israel’s June 13 attack, which was coordinated with U.S. intelligence and support, Trump has doubled down on his alignment with Israeli policy, making provocative statements and imposing harsh demands on Tehran. **Aaron Maté** points out that Trump’s military response, including strikes on Iranian nuclear sites, has drawn parallels to the pre-Iraq War era’s manipulation of intelligence to justify military action. Despite U.S. intelligence assessments that Iran is not actively pursuing nuclear weapons, both Trump and Israeli Prime Minister Netanyahu have publicly suggested otherwise, undermining ongoing diplomatic efforts and further isolating Iran.
+  On the international front, the US posture toward Russia and Ukraine remains in flux. Despite initial expectations of a more aggressive stance under Trump, recent policy moves have fallen short of hawkish hopes. **Senator Lindsey Graham** had touted the possibility of "the most impactful sanction package in US history" and a surge in weapons for Ukraine, but the actual measures announced by Trump were far less transformative. European officials now perceive Trump as distancing himself from the Ukraine conflict, signaling that the US may reduce its direct involvement and leave the war largely in European hands.
   
-  On the domestic front, Trump’s promises of accountability for the Russiagate controversy remain unfulfilled. Despite the high-profile Durham investigation’s criticism of the FBI’s reliance on discredited sources, the probe resulted in minimal legal consequences and failed to address key aspects of the alleged misconduct. A new review led by CIA Director John Ratcliffe appears to be continuing this pattern of insufficient accountability, with **Aaron Maté** observing that the intelligence community remains resistant to full transparency.
-  
-  **Trends and Predictions:**  
-  The majority of independent analysis suggests that Trump’s foreign policy is characterized by rhetorical bluster but limited substantive change, particularly regarding Ukraine, where U.S. engagement is likely to remain restrained. In the Middle East, Trump’s close alignment with Israel is expected to persist, with a high chance of continued U.S. support for Israeli military initiatives and little progress toward diplomatic resolution with Iran. On the Russiagate issue, there is little expectation of meaningful accountability, with most analysts predicting the status quo will hold. Given these patterns, it is quite likely that the coming weeks will see further entrenchment of these positions rather than significant policy shifts.
+  Looking ahead, the majority of analysts cited by **Maté** agree that the US is unlikely to escalate its engagement in Ukraine in the near term, and that the credibility crisis surrounding intelligence on Russia will persist. There is a "high chance" that these developments will embolden critics of US foreign policy and further complicate efforts to build international coalitions on issues involving Russia. The ongoing reassessment of intelligence practices is expected to remain a central issue in Washington, with little prospect for swift resolution.
 articles:
+  - title: US intel concealed high-level doubts about "Russian interference", docs reveal
+    url: https://www.aaronmate.net/p/us-intel-concealed-high-level-doubts
+    text: '(Photo by Mark Wilson/Getty Images) Although Robert Mueller failed to find
+      an election conspiracy between Donald Trump and Moscow, the former Special Counsel
+      threw a lifeline to the Russiagate narrative by alleging that the Kremlin had
+      engaged in a “sweeping and systematic” effort to get Trump elected and “sow discord”
+      among Americans. Six years later, that questionable but enduring claim continues
+      to unravel. According to newly declassified documents, U.S. intelligence leaders
+      concealed high-level doubts about one of Russiagate’s foundational allegations:
+      that Russia stole and leaked Democratic Party material to help Trump defeat Hillary
+      Clinton. In a September 2016 report that was never made public until now, the
+      NSA and the FBI broke with their intelligence counterparts and expressed “low
+      confidence” in the attribution to Russia. The previously undisclosed dissent about
+      Russia’s alleged hacking activities in the 2016 election is among several revelations
+      released last week by Tulsi Gabbard, Trump’s Director of National Intelligence.
+      In Gabbard’s view , President Obama and senior members of his cabinet “manufactured
+      and politicized intelligence” in its waning months to wage “a years-long coup
+      against President Trump.” Gabbard’s material adds to a body of evidence that challenges
+      the widely parroted claim about the quality of evidence and the extent of Russian
+      “interference operations” in the 2016 election. These conclusions – based on questionable
+      assertions presented as hard facts – have been falsely portrayed as an intelligence
+      consensus. When Trump, the nation’s commander-in-chief, cast doubt on the Russian
+      interference allegations in a July 2018 news conference, former CIA chief John
+      Brennan denounced him as “nothing short of treasonous.” It turns out that Trump
+      was not out of sync with the U.S. intelligence community he was accused of betraying.
+      Subscribe now “Low Confidence” in Core Allegation Until now, the purported U.S.
+      intelligence consensus on Russian meddling has been conveyed to the public in
+      three seminal reports. The first was a January 2017 intelligence community assessment
+      (ICA) released in the final days of the Obama administration under the direction
+      of Brennan and then-Director of National Intelligence James Clapper. The ICA accused
+      Russian President Vladimir Putin of ordering an “influence campaign” to “denigrate”
+      Democratic candidate Clinton and “help” Trump win the 2016 election. Some of this
+      effort involved propaganda on Russian media outlets and messaging on social media.
+      The larger component hinged on the allegation that the GRU, Russia’s main intelligence
+      agency, stole emails and documents from the Democratic Party and released that
+      material principally via two online entities, DCLeaks and Guccifer 2.0, as well
+      as the whistleblower organization WikiLeaks. Julian Assange, the founder of WikiLeaks,
+      has long denied that Russia or any other state actor was his source. Nevertheless,
+      the January 2017 ICA stated that U.S. intelligence had “high confidence” that
+      Russia engineered the hack. The Mueller report , issued more than two years later,
+      advanced the ICA’s claims with even more confidence and specificity . A bipartisan
+      Senate intelligence review, released in August 2020 , endorsed the ICA and Mueller
+      reports and was widely treated as a vindication of the conduct of the intelligence
+      officials behind them. The documents newly declassified by Gabbard show that the
+      ICA, Mueller, and Senate reports all excluded the intelligence community’s own
+      secretly identified doubts and evidentiary gaps on the core allegation of Russian
+      meddling. In a previously unpublished Intelligence Community Assessment circulated
+      within the government on Sept. 12, 2016 (hereafter “September ICA”), the FBI and
+      NSA expressed “low confidence” that Russia was behind the hack and release of
+      Democratic Party emails. U.S. intelligence agencies, the report explained, “lack
+      sufficient technical details” to link the stolen Democratic Party material released
+      by WikiLeaks and other sources “to Russian state-sponsored actors.” Sept. 12,
+      2016: A suppressed “low confidence” dissent on Russiagate’s core allegation The
+      joint FBI-NSA dissent was especially significant given their central role in investigating
+      Russia’s alleged cyber meddling. With its sweeping foreign surveillance capability,
+      the NSA is the agency best positioned to assess the source of the alleged hacking
+      of the Democratic National Committee (DNC) and Democratic Congressional Campaign
+      Committee (DCCC). Meanwhile, the FBI took the lead in probing the cyber-theft
+      and release of stolen material from the Democratic Party networks. The private
+      acknowledgment that these two agencies did not have the “technical” data to link
+      the hacking to Russia bolsters longstanding criticism, overlooked by legacy media,
+      that the “Russian interference” allegations lacked supporting evidence. Contrary
+      to subsequent assertions, the September ICA shows that the U.S. intelligence community
+      had no hard evidence that Putin ordered the theft of Democratic Party material
+      as part of an influence campaign to help Trump. “ If the disclosures of the DNC
+      and DCCC documents were indeed orchestrated by the Russian intelligence services,”
+      the report stated, “those services would very likely have sought Putin’s approval
+      for the operation.” This passage indicates that U.S. intelligence declined to
+      endorse assertions promoted by Brennan and leaked to the media during Trump’s
+      first term, that a highly placed Kremlin mole captured Putin’s orders to meddle
+      in the 2016 election in support of Trump. The alleged mole was later identified
+      as a mid-level Kremlin official named Oleg Smolenkov , who left Russia to live
+      in the Virginia suburbs under his own name. President Obama Pushes Narrative Rather
+      than make the September ICA and its dissenting contents public, the Obama administration
+      told a much different story, one that ensured that allegations of “Russian interference”
+      would hobble Trump’s presidency even before he took office. On Oct. 7, 2016, the
+      Department of Homeland Security (DHS) and the Office of the Director of National
+      Intelligence (ODNI) issued a joint statement claiming that the “U.S. Intelligence
+      Community is confident” that Russia hacked the Democratic Party in order to “interfere
+      with the U.S. election process.” No mention was made of the NSA and FBI’s shared
+      “low confidence” in that allegation, or their lack of technical evidence for it.
+      Notably, the FBI objected to formally accusing Russia and refused to participate
+      . But by that point, the joint statement had a more powerful endorser. According
+      to testimony from Jeh Johnson, who then served as DHS secretary, President Obama
+      “approved the statement” and “wanted us to make [it].” On December 6, 2016, Obama
+      made another request, asking the intelligence community to produce a new version
+      of the ICA that could be made public. As Real Clear Investigations previously
+      reported , and a recent CIA review has newly confirmed , that version of the ICA
+      – released in January 2017 and hereafter referred to as the “January ICA” – was
+      tainted by a hurried production schedule and the exclusion of key intelligence
+      agencies under the close control of Brennan and Clapper. Apart from references
+      to the Steele dossier – now debunked opposition research financed by Hillary Clinton’s
+      campaign alleging a Trump/Russia conspiracy – it contained no new evidence that
+      would have reversed the previous assessments. After ordering a replacement ICA,
+      Obama administration officials moved to silence dissent. According to Gabbard
+      ’s Office of the Director of National Intelligence, a senior official who “led”
+      the September ICA on allegations of Russian meddling was “sidelined” from the
+      new process. This unidentified official, whom Gabbard’s office describes as the
+      “ODNI Whistleblower,” was shunned after “questioning his leadership about why
+      an IC assessment was being created that contradicted multiple IC assessments.”
+      The ODNI whistleblower also asserts that he was later pressured to accept unsupported
+      findings in the January ICA, “including that the Russian government had a preference
+      for President Trump.” Speculation Accepted as Fact Meanwhile, in a newly disclosed
+      Dec. 7 memo written one day after Obama’s ICA tasking, the Office of the Director
+      of National Intelligence acknowledged that the confidence level about alleged
+      Russian hacking had barely changed. The document claimed to have “high confidence”
+      that Russia had, in 2015 and 2016, hacked into networks belonging to the Democratic
+      National Committee and the Democratic Congressional Campaign Committee. But when
+      it came to whether this Russian hacking actually led to exfiltration, dissemination,
+      and public release to actors like WikiLeaks, the document used qualified, tepid
+      language that reflected continued uncertainty. “ Most IC agencies,” the DNI wrote,
+      only had “ moderate confidence that Russian services probably orchestrated at
+      least some of the disclosures” of stolen Democratic Party material (emphasis added).
+      The Dec. 7 DNI memo also inadvertently confirmed another evidentiary gap: a reliance
+      on evidence provided by Trump’s campaign rival. The “attribution of the intrusions”
+      to Russia, the DNI wrote, was “based on the forensic evidence identified by a
+      private cyber-firm and the IC’s review and understanding of cyber activities by
+      the Russian Government.” That private cyber-firm is CrowdStrike, which worked
+      directly for the Clinton campaign, and which had triggered Russiagate the previous
+      June by accusing Russia of hacking the DNC servers. As RCI previously reported
+      , despite the high stakes involved, the FBI acceded to the DNC’s refusal to let
+      the bureau independently analyze its server, deferring instead to CrowdStrike’s
+      analysis. The timing of the FBI’s “low confidence” assessment suggests that it
+      did not find CrowdStrike’s initial attribution to Russia convincing. CrowdStrike
+      submitted its third and final report to the FBI on Aug. 24, three weeks before
+      the September ICA recorded the FBI and NSA’s dissent on the Russian hacking allegation.
+      Dec. 7th 2016: Still only “moderate confidence” in the Russian hack and leak allegation,
+      and a confirmed reliance on the “forensic evidence” of Clinton contractor CrowdStrike.
+      The DNI’s reliance on the forensics of a firm working for Trump’s political opponent
+      – just as the FBI simultaneously relied on the Clinton-funded Steele dossier in
+      its fruitless hunt for collusion – was kept under wraps. And as RCI previously
+      reported , so was another critical disclosure made in closed-door congressional
+      testimony one year later. In December 2017, CrowdStrike President Shawn Henry
+      testified that his firm “did not have concrete evidence” that Russian hackers
+      had exfiltrated data from the DNC servers. He said there were signs of potential
+      Russian malware on the servers, but no evidence that any information had been
+      uploaded by them. Put another way, they might have had keys to the servers, but
+      there was no proof that they had removed any content. Henry’s admission to the
+      House Intelligence Committee was also kept from the public throughout the Mueller
+      probe. For unspecified reasons, the FBI again declined to endorse the intelligence
+      assessment on alleged Russian meddling. On Dec. 8, one day after the DNI memo
+      was circulated, an FBI official replied that the bureau was “drafting a dissent,”
+      and asked that the ODNI “remove our seal [and] annotations of co-authorship.”
+      In response, an ODNI official opined that the FBI’s “only difference” with the
+      Dec. 7 memo “was over confidence level on the attribution.” The ODNI official
+      also pointed out that the FBI’s disagreement was with “I&A.” This was a reference
+      to the Office of Intelligence and Analysis at DHS, which had co-authored, along
+      with the Clapper-run ODNI, the Oct. 7 statement that the FBI had refused to endorse,
+      and that falsely claimed to speak on behalf of the “U.S. Intelligence Community.”
+      The FBI’s continued dissent underscores that, by the time Obama had ordered the
+      production of a new ICA, the intelligence community still had not reached consensus
+      on the attribution of the email hacking to Russia. Despite the lingering divisions
+      over the evidence for alleged Russian hacking, a meeting between President Obama
+      and top principals just one day later claimed to have reached a united front.
+      On Dec. 9, Obama huddled with top national security officials, including Clapper
+      and Brennan, at the White House. Notably, the two agencies that had previously
+      dissented on Russian hacking – the FBI and NSA – were not represented by their
+      respective leaders, James Comey and Mike Rogers, but instead by deputies Andrew
+      McCabe and Richard Ledgett. According to a newly declassified summary of that
+      meeting, the Principals Committee resolved to “publicly release and attribute
+      to Russian intelligence services technical and other information ... in intelligence
+      reporting” from that same day. It is unclear why Obama and his principals suddenly
+      felt confident publicly attributing the Democratic Party hack to Russia when the
+      FBI and NSA had expressed "low confidence" in that judgment based on a lack of
+      technical evidence. Dec. 9th 2016: Despite high-level dissent, President Obama
+      and senior officials decide to “attribute” the DNC hack and release to “Russian
+      intelligence services.” Spreading the False Narrative As Obama and senior intelligence
+      officials concealed the community’s doubts about the alleged Russian hack and
+      releases, as well as their reliance on a Clinton campaign contractor to investigate
+      it, more false claims were leaked to the public. Two days after the DNI’s Dec.
+      7 memo, the Washington Post published a story claiming that a “secret assessment”
+      from the CIA had concluded that the hacking of Democratic Party emails was “part
+      of a wider Russian operation to boost Trump and hurt Clinton''s chances” in the
+      2016 election. A senior U.S. official told the Post that it was “the assessment
+      of the intelligence community” that Russia sought “to help Trump get elected.
+      That’s the consensus view.” In fact, there had been no such assessment or consensus,
+      only strong doubts about the hacking allegation at the heart of the purported
+      “Russian operation.” Rather than refute the erroneous Post story, the Obama administration
+      continued to promote its unsupported narrative. Three weeks later, on Dec. 29,
+      the Department of Homeland Security, this time joined by the FBI, issued a report
+      that newly promoted the allegation of Russian email theft. Without mentioning
+      the IC’s low-to-moderate confidence in Russian hacking or the integral role of
+      Clinton contractor CrowdStrike, the joint report described the alleged Russian
+      hacking effort as “likely leading to the exfiltration of information” from Democratic
+      Party networks. It is unclear how the FBI arrived at this conclusion after voicing
+      at least two previous dissents. This pattern, where privately identified evidentiary
+      holes were later supplanted by publicly confident assertions, was repeated time
+      and time again to advance the Russia narrative. After burying dissenting opinions
+      on Russian meddling and leaking false claims to the media, Obama administration
+      and intelligence officials released a newly sanitized version of the ICA on Jan.
+      6, 2017. Two other versions of that document with higher levels of classification
+      were produced, one of which – a “downgraded” product below the highest-level classified
+      one, hereafter referred to as the Downgraded ICA – has been newly released by
+      Gabbard. The Downgraded ICA points to more evidentiary gaps. When it comes to
+      the ICA’s contention that Putin ordered Russian military intelligence to pass
+      stolen Democratic Party material to WikiLeaks and other conduits, the ICA makes
+      no reference to any evidence of such an order. Instead, it points to a speculative
+      guess based on a psychological reading of Putin’s perceived grievances: Putin
+      most likely wanted his intelligence services to discredit Secretary Clinton because
+      he has blamed her since 2011 for inciting mass protests against his regime in
+      late 2011 and early 2012 and holds a grudge for comments he almost certainly saw
+      as disparaging him, judging from press reporting. Given this , we assess with
+      high confidence that the GRU was directed to pass material it collected to WikiLeaks
+      and other intermediaries. In the public version, the January ICA suggested that
+      an online persona that released stolen Democratic material, Guccifer 2.0, had
+      a “likely Russian identity” tied to the GRU. But the Downgraded ICA acknowledges
+      that U.S. intelligence only has “moderate confidence” that Guccifer 2.0 and another
+      site, DCleaks.com, were “under direct GRU control.” By contrast, the Mueller report
+      of March 2019 asserted as fact that the GRU “created” and “used both the DCLeaks
+      and Guccifer 2.0 personas” to release stolen material publicly and transfer it
+      to WikiLeaks. Most significantly, Gabbard’s new releases raise the question of
+      how U.S. intelligence officials went from their low to moderate confidence in
+      Russian interference allegations through the last months of 2016 into “high confidence”
+      in the first week of January 2017, a stance they have clung to in the ensuing
+      eight years even as the underpinnings of those claims have unraveled. In its memo
+      on the new documents, Gabbard’s office notes that the January ICA’s assertion
+      of a Putin-ordered effort to defeat Clinton claimed to be drawing on “further
+      information” that had “come to light” since the 2016 election. That “further information,”
+      Gabbard’s office states, was later found to be the Steele dossier, which Brennan
+      and others have falsely claimed played no part in their analysis. Whatever the
+      case, these new disclosures confirm that to make the case of Russian interference
+      and present it to the public as a consensus view, U.S. intelligence officials
+      in the Obama administration suppressed ample doubts within their highest ranks.
+      This article was originally published by Real Clear Investigations. Aaron Mate
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber.'
+    one_sentence_summary: Despite Robert Mueller's conclusion that there was no election
+      conspiracy between Donald Trump and Moscow, newly declassified documents reveal
+      that U.S. intelligence officials had significant doubts about the claim that Russia
+      hacked and leaked Democratic Party materials to aid Trump's campaign, undermining
+      the narrative of Russian interference in the 2016 election.
+    paragraph_summary: Robert Mueller's investigation did not find a conspiracy between
+      Donald Trump and Russia, yet he supported the narrative of Russian interference
+      by claiming the Kremlin aimed to help Trump and create discord in the U.S. Recent
+      declassified documents reveal that U.S. intelligence officials, particularly the
+      NSA and FBI, expressed "low confidence" in the claim that Russia hacked and leaked
+      Democratic Party materials to aid Trump's campaign, contradicting the widely accepted
+      narrative. Tulsi Gabbard, Trump's former Director of National Intelligence, argues
+      that the Obama administration manipulated intelligence to undermine Trump, suggesting
+      that the evidence for Russian interference has been overstated and misrepresented
+      as a consensus among intelligence agencies. This new information indicates that
+      Trump's skepticism about Russian involvement was more aligned with certain intelligence
+      assessments than previously acknowledged.
+    published: '2025-07-22T16:02:53+00:00'
+  - title: US intel concealed high-level doubts about "Russian interference", docs reveal
+    url: https://www.aaronmate.net/p/us-intel-concealed-high-level-doubts
+    text: '(Photo by Mark Wilson/Getty Images) Although Robert Mueller failed to find
+      an election conspiracy between Donald Trump and Moscow, the former Special Counsel
+      threw a lifeline to the Russiagate narrative by alleging that the Kremlin had
+      engaged in a “sweeping and systematic” effort to get Trump elected and “sow discord”
+      among Americans. Six years later, that questionable but enduring claim continues
+      to unravel. According to newly declassified documents, U.S. intelligence leaders
+      concealed high-level doubts about one of Russiagate’s foundational allegations:
+      that Russia stole and leaked Democratic Party material to help Trump defeat Hillary
+      Clinton. In a September 2016 report that was never made public until now, the
+      NSA and the FBI broke with their intelligence counterparts and expressed “low
+      confidence” in the attribution to Russia. The previously undisclosed dissent about
+      Russia’s alleged hacking activities in the 2016 election is among several revelations
+      released last week by Tulsi Gabbard, Trump’s Director of National Intelligence.
+      In Gabbard’s view , President Obama and senior members of his cabinet “manufactured
+      and politicized intelligence” in its waning months to wage “a years-long coup
+      against President Trump.” Gabbard’s material adds to a body of evidence that challenges
+      the widely parroted claim about the quality of evidence and the extent of Russian
+      “interference operations” in the 2016 election. These conclusions – based on questionable
+      assertions presented as hard facts – have been falsely portrayed as an intelligence
+      consensus. When Trump, the nation’s commander-in-chief, cast doubt on the Russian
+      interference allegations in a July 2018 news conference, former CIA chief John
+      Brennan denounced him as “nothing short of treasonous.” It turns out that Trump
+      was not out of sync with the U.S. intelligence community he was accused of betraying.
+      Subscribe now “Low Confidence” in Core Allegation Until now, the purported U.S.
+      intelligence consensus on Russian meddling has been conveyed to the public in
+      three seminal reports. The first was a January 2017 intelligence community assessment
+      (ICA) released in the final days of the Obama administration under the direction
+      of Brennan and then-Director of National Intelligence James Clapper. The ICA accused
+      Russian President Vladimir Putin of ordering an “influence campaign” to “denigrate”
+      Democratic candidate Clinton and “help” Trump win the 2016 election. Some of this
+      effort involved propaganda on Russian media outlets and messaging on social media.
+      The larger component hinged on the allegation that the GRU, Russia’s main intelligence
+      agency, stole emails and documents from the Democratic Party and released that
+      material principally via two online entities, DCLeaks and Guccifer 2.0, as well
+      as the whistleblower organization WikiLeaks. Julian Assange, the founder of WikiLeaks,
+      has long denied that Russia or any other state actor was his source. Nevertheless,
+      the January 2017 ICA stated that U.S. intelligence had “high confidence” that
+      Russia engineered the hack. The Mueller report , issued more than two years later,
+      advanced the ICA’s claims with even more confidence and specificity . A bipartisan
+      Senate intelligence review, released in August 2020 , endorsed the ICA and Mueller
+      reports and was widely treated as a vindication of the conduct of the intelligence
+      officials behind them. The documents newly declassified by Gabbard show that the
+      ICA, Mueller, and Senate reports all excluded the intelligence community’s own
+      secretly identified doubts and evidentiary gaps on the core allegation of Russian
+      meddling. In a previously unpublished Intelligence Community Assessment circulated
+      within the government on Sept. 12, 2016 (hereafter “September ICA”), the FBI and
+      NSA expressed “low confidence” that Russia was behind the hack and release of
+      Democratic Party emails. U.S. intelligence agencies, the report explained, “lack
+      sufficient technical details” to link the stolen Democratic Party material released
+      by WikiLeaks and other sources “to Russian state-sponsored actors.” Sept. 12,
+      2016: A suppressed “low confidence” dissent on Russiagate’s core allegation The
+      joint FBI-NSA dissent was especially significant given their central role in investigating
+      Russia’s alleged cyber meddling. With its sweeping foreign surveillance capability,
+      the NSA is the agency best positioned to assess the source of the alleged hacking
+      of the Democratic National Committee (DNC) and Democratic Congressional Campaign
+      Committee (DCCC). Meanwhile, the FBI took the lead in probing the cyber-theft
+      and release of stolen material from the Democratic Party networks. The private
+      acknowledgment that these two agencies did not have the “technical” data to link
+      the hacking to Russia bolsters longstanding criticism, overlooked by legacy media,
+      that the “Russian interference” allegations lacked supporting evidence. Contrary
+      to subsequent assertions, the September ICA shows that the U.S. intelligence community
+      had no hard evidence that Putin ordered the theft of Democratic Party material
+      as part of an influence campaign to help Trump. “ If the disclosures of the DNC
+      and DCCC documents were indeed orchestrated by the Russian intelligence services,”
+      the report stated, “those services would very likely have sought Putin’s approval
+      for the operation.” This passage indicates that U.S. intelligence declined to
+      endorse assertions promoted by Brennan and leaked to the media during Trump’s
+      first term, that a highly placed Kremlin mole captured Putin’s orders to meddle
+      in the 2016 election in support of Trump. The alleged mole was later identified
+      as a mid-level Kremlin official named Oleg Smolenkov , who left Russia to live
+      in the Virginia suburbs under his own name. President Obama Pushes Narrative Rather
+      than make the September ICA and its dissenting contents public, the Obama administration
+      told a much different story, one that ensured that allegations of “Russian interference”
+      would hobble Trump’s presidency even before he took office. On Oct. 7, 2016, the
+      Department of Homeland Security (DHS) and the Office of the Director of National
+      Intelligence (ODNI) issued a joint statement claiming that the “U.S. Intelligence
+      Community is confident” that Russia hacked the Democratic Party in order to “interfere
+      with the U.S. election process.” No mention was made of the NSA and FBI’s shared
+      “low confidence” in that allegation, or their lack of technical evidence for it.
+      Notably, the FBI objected to formally accusing Russia and refused to participate
+      . But by that point, the joint statement had a more powerful endorser. According
+      to testimony from Jeh Johnson, who then served as DHS secretary, President Obama
+      “approved the statement” and “wanted us to make [it].” On December 6, 2016, Obama
+      made another request, asking the intelligence community to produce a new version
+      of the ICA that could be made public. As Real Clear Investigations previously
+      reported , and a recent CIA review has newly confirmed , that version of the ICA
+      – released in January 2017 and hereafter referred to as the “January ICA” – was
+      tainted by a hurried production schedule and the exclusion of key intelligence
+      agencies under the close control of Brennan and Clapper. Apart from references
+      to the Steele dossier – now debunked opposition research financed by Hillary Clinton’s
+      campaign alleging a Trump/Russia conspiracy – it contained no new evidence that
+      would have reversed the previous assessments. After ordering a replacement ICA,
+      Obama administration officials moved to silence dissent. According to Gabbard
+      ’s Office of the Director of National Intelligence, a senior official who “led”
+      the September ICA on allegations of Russian meddling was “sidelined” from the
+      new process. This unidentified official, whom Gabbard’s office describes as the
+      “ODNI Whistleblower,” was shunned after “questioning his leadership about why
+      an IC assessment was being created that contradicted multiple IC assessments.”
+      The ODNI whistleblower also asserts that he was later pressured to accept unsupported
+      findings in the January ICA, “including that the Russian government had a preference
+      for President Trump.” Speculation Accepted as Fact Meanwhile, in a newly disclosed
+      Dec. 7 memo written one day after Obama’s ICA tasking, the Office of the Director
+      of National Intelligence acknowledged that the confidence level about alleged
+      Russian hacking had barely changed. The document claimed to have “high confidence”
+      that Russia had, in 2015 and 2016, hacked into networks belonging to the Democratic
+      National Committee and the Democratic Congressional Campaign Committee. But when
+      it came to whether this Russian hacking actually led to exfiltration, dissemination,
+      and public release to actors like WikiLeaks, the document used qualified, tepid
+      language that reflected continued uncertainty. “ Most IC agencies,” the DNI wrote,
+      only had “ moderate confidence that Russian services probably orchestrated at
+      least some of the disclosures” of stolen Democratic Party material (emphasis added).
+      The Dec. 7 DNI memo also inadvertently confirmed another evidentiary gap: a reliance
+      on evidence provided by Trump’s campaign rival. The “attribution of the intrusions”
+      to Russia, the DNI wrote, was “based on the forensic evidence identified by a
+      private cyber-firm and the IC’s review and understanding of cyber activities by
+      the Russian Government.” That private cyber-firm is CrowdStrike, which worked
+      directly for the Clinton campaign, and which had triggered Russiagate the previous
+      June by accusing Russia of hacking the DNC servers. As RCI previously reported
+      , despite the high stakes involved, the FBI acceded to the DNC’s refusal to let
+      the bureau independently analyze its server, deferring instead to CrowdStrike’s
+      analysis. The timing of the FBI’s “low confidence” assessment suggests that it
+      did not find CrowdStrike’s initial attribution to Russia convincing. CrowdStrike
+      submitted its third and final report to the FBI on Aug. 24, three weeks before
+      the September ICA recorded the FBI and NSA’s dissent on the Russian hacking allegation.
+      Dec. 7th 2016: Still only “moderate confidence” in the Russian hack and leak allegation,
+      and a confirmed reliance on the “forensic evidence” of Clinton contractor CrowdStrike.
+      The DNI’s reliance on the forensics of a firm working for Trump’s political opponent
+      – just as the FBI simultaneously relied on the Clinton-funded Steele dossier in
+      its fruitless hunt for collusion – was kept under wraps. And as RCI previously
+      reported , so was another critical disclosure made in closed-door congressional
+      testimony one year later. In December 2017, CrowdStrike President Shawn Henry
+      testified that his firm “did not have concrete evidence” that Russian hackers
+      had exfiltrated data from the DNC servers. He said there were signs of potential
+      Russian malware on the servers, but no evidence that any information had been
+      uploaded by them. Put another way, they might have had keys to the servers, but
+      there was no proof that they had removed any content. Henry’s admission to the
+      House Intelligence Committee was also kept from the public throughout the Mueller
+      probe. For unspecified reasons, the FBI again declined to endorse the intelligence
+      assessment on alleged Russian meddling. On Dec. 8, one day after the DNI memo
+      was circulated, an FBI official replied that the bureau was “drafting a dissent,”
+      and asked that the ODNI “remove our seal [and] annotations of co-authorship.”
+      In response, an ODNI official opined that the FBI’s “only difference” with the
+      Dec. 7 memo “was over confidence level on the attribution.” The ODNI official
+      also pointed out that the FBI’s disagreement was with “I&A.” This was a reference
+      to the Office of Intelligence and Analysis at DHS, which had co-authored, along
+      with the Clapper-run ODNI, the Oct. 7 statement that the FBI had refused to endorse,
+      and that falsely claimed to speak on behalf of the “U.S. Intelligence Community.”
+      The FBI’s continued dissent underscores that, by the time Obama had ordered the
+      production of a new ICA, the intelligence community still had not reached consensus
+      on the attribution of the email hacking to Russia. Despite the lingering divisions
+      over the evidence for alleged Russian hacking, a meeting between President Obama
+      and top principals just one day later claimed to have reached a united front.
+      On Dec. 9, Obama huddled with top national security officials, including Clapper
+      and Brennan, at the White House. Notably, the two agencies that had previously
+      dissented on Russian hacking – the FBI and NSA – were not represented by their
+      respective leaders, James Comey and Mike Rogers, but instead by deputies Andrew
+      McCabe and Richard Ledgett. According to a newly declassified summary of that
+      meeting, the Principals Committee resolved to “publicly release and attribute
+      to Russian intelligence services technical and other information ... in intelligence
+      reporting” from that same day. It is unclear why Obama and his principals suddenly
+      felt confident publicly attributing the Democratic Party hack to Russia when the
+      FBI and NSA had expressed "low confidence" in that judgment based on a lack of
+      technical evidence. Dec. 9th 2016: Despite high-level dissent, President Obama
+      and senior officials decide to “attribute” the DNC hack and release to “Russian
+      intelligence services.” Spreading the False Narrative As Obama and senior intelligence
+      officials concealed the community’s doubts about the alleged Russian hack and
+      releases, as well as their reliance on a Clinton campaign contractor to investigate
+      it, more false claims were leaked to the public. Two days after the DNI’s Dec.
+      7 memo, the Washington Post published a story claiming that a “secret assessment”
+      from the CIA had concluded that the hacking of Democratic Party emails was “part
+      of a wider Russian operation to boost Trump and hurt Clinton''s chances” in the
+      2016 election. A senior U.S. official told the Post that it was “the assessment
+      of the intelligence community” that Russia sought “to help Trump get elected.
+      That’s the consensus view.” In fact, there had been no such assessment or consensus,
+      only strong doubts about the hacking allegation at the heart of the purported
+      “Russian operation.” Rather than refute the erroneous Post story, the Obama administration
+      continued to promote its unsupported narrative. Three weeks later, on Dec. 29,
+      the Department of Homeland Security, this time joined by the FBI, issued a report
+      that newly promoted the allegation of Russian email theft. Without mentioning
+      the IC’s low-to-moderate confidence in Russian hacking or the integral role of
+      Clinton contractor CrowdStrike, the joint report described the alleged Russian
+      hacking effort as “likely leading to the exfiltration of information” from Democratic
+      Party networks. It is unclear how the FBI arrived at this conclusion after voicing
+      at least two previous dissents. This pattern, where privately identified evidentiary
+      holes were later supplanted by publicly confident assertions, was repeated time
+      and time again to advance the Russia narrative. After burying dissenting opinions
+      on Russian meddling and leaking false claims to the media, Obama administration
+      and intelligence officials released a newly sanitized version of the ICA on Jan.
+      6, 2017. Two other versions of that document with higher levels of classification
+      were produced, one of which – a “downgraded” product below the highest-level classified
+      one, hereafter referred to as the Downgraded ICA – has been newly released by
+      Gabbard. The Downgraded ICA points to more evidentiary gaps. When it comes to
+      the ICA’s contention that Putin ordered Russian military intelligence to pass
+      stolen Democratic Party material to WikiLeaks and other conduits, the ICA makes
+      no reference to any evidence of such an order. Instead, it points to a speculative
+      guess based on a psychological reading of Putin’s perceived grievances: Putin
+      most likely wanted his intelligence services to discredit Secretary Clinton because
+      he has blamed her since 2011 for inciting mass protests against his regime in
+      late 2011 and early 2012 and holds a grudge for comments he almost certainly saw
+      as disparaging him, judging from press reporting. Given this , we assess with
+      high confidence that the GRU was directed to pass material it collected to WikiLeaks
+      and other intermediaries. In the public version, the January ICA suggested that
+      an online persona that released stolen Democratic material, Guccifer 2.0, had
+      a “likely Russian identity” tied to the GRU. But the Downgraded ICA acknowledges
+      that U.S. intelligence only has “moderate confidence” that Guccifer 2.0 and another
+      site, DCleaks.com, were “under direct GRU control.” By contrast, the Mueller report
+      of March 2019 asserted as fact that the GRU “created” and “used both the DCLeaks
+      and Guccifer 2.0 personas” to release stolen material publicly and transfer it
+      to WikiLeaks. Most significantly, Gabbard’s new releases raise the question of
+      how U.S. intelligence officials went from their low to moderate confidence in
+      Russian interference allegations through the last months of 2016 into “high confidence”
+      in the first week of January 2017, a stance they have clung to in the ensuing
+      eight years even as the underpinnings of those claims have unraveled. In its memo
+      on the new documents, Gabbard’s office notes that the January ICA’s assertion
+      of a Putin-ordered effort to defeat Clinton claimed to be drawing on “further
+      information” that had “come to light” since the 2016 election. That “further information,”
+      Gabbard’s office states, was later found to be the Steele dossier, which Brennan
+      and others have falsely claimed played no part in their analysis. Whatever the
+      case, these new disclosures confirm that to make the case of Russian interference
+      and present it to the public as a consensus view, U.S. intelligence officials
+      in the Obama administration suppressed ample doubts within their highest ranks.
+      This article was originally published by Real Clear Investigations. Aaron Mate
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber.'
+    one_sentence_summary: Despite Robert Mueller's conclusion that there was no election
+      conspiracy between Donald Trump and Moscow, newly declassified documents reveal
+      that U.S. intelligence officials had significant doubts about the claim that Russia
+      hacked and leaked Democratic Party materials to aid Trump's campaign, undermining
+      the narrative of Russian interference in the 2016 election.
+    paragraph_summary: Robert Mueller's investigation did not find a conspiracy between
+      Donald Trump and Russia, yet he supported the narrative of Russian interference
+      by claiming the Kremlin aimed to help Trump and create discord in the U.S. Recent
+      declassified documents reveal that U.S. intelligence officials, particularly the
+      NSA and FBI, expressed "low confidence" in the claim that Russia hacked and leaked
+      Democratic Party materials to aid Trump's campaign, contradicting the widely accepted
+      narrative. Tulsi Gabbard, Trump's former Director of National Intelligence, argues
+      that the Obama administration manipulated intelligence to undermine Trump, suggesting
+      that the evidence for Russian interference has been overstated and misrepresented
+      as a consensus among intelligence agencies. This new information indicates that
+      Trump's skepticism about Russian involvement was more aligned with certain intelligence
+      assessments than previously acknowledged.
+    published: '2025-07-22T16:02:53+00:00'
   - title: Trump’s ‘turning point’ on Ukraine war is another empty threat against Russia
     url: https://www.aaronmate.net/p/trumps-turning-point-on-ukraine-war
     text: (Photo by JIM WATSON,EMMANUEL DUNAND/AFP via Getty Images) Before President
