@@ -7,19 +7,1700 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  Amid intensifying geopolitical tensions, recent developments in Ukraine and broader Eurasia signal shifting power dynamics and growing uncertainty. The ongoing conflict in Ukraine continues to drive political upheaval, while regional actors such as Iran and global military alliances like NATO are recalibrating their strategies.
+  The geopolitical landscape remains tense as the Ukraine conflict, U.S. domestic politics, and shifting narratives in intelligence reporting continue to dominate headlines. The latest reports highlight growing skepticism over official casualty figures, the waning impact of U.S. threats on Russia, and the enduring influence of political philosophy in China.
   
-  The most significant new development is President Volodymyr Zelensky’s decision to sign legislation curtailing the powers of Ukraine’s two main independent anti-corruption agencies, NABU and SAP. According to **Larry C. Johnson**, even the pro-Zelensky Kyiv Independent acknowledges this move, with Zelensky attributing the decision to Russian influence. However, Johnson points out the irony that these agencies were previously criticized by Vladimir Putin as instruments of U.S. policy. This legislative change follows Zelensky’s recent government reshuffle, including the appointment of Yulia Sviridenko as prime minister and the consolidation of the military industry under the Defense Ministry. These actions are widely interpreted as efforts by Zelensky to tighten his grip on power amid military setbacks and diplomatic isolation.
+  A key development is the scrutiny of U.S. intelligence claims regarding Russian casualties in Ukraine. **Larry C. Johnson** strongly disputes the recent figure of two million Russian soldiers killed, labeling it as "bogus" and suggesting that sources feeding such numbers to journalists like Sy Hersh are intentionally misleading. Johnson argues that such inflated statistics serve to shape public perception rather than reflect battlefield realities. This skepticism reflects a broader trend of mistrust in Western intelligence reporting on the Ukraine war, with most analysts now questioning the reliability of official casualty data. I guarantee that these exaggerated figures will continue to be challenged, and the credibility gap between Western and Russian sources is set to widen further.
   
-  In the cultural sphere, a new satirical film featuring Don Quixote interviewing peace activist Bruce Gagnon has drawn attention to persistent anti-war sentiment and skepticism toward Western narratives on militarism. **Larry C. Johnson** highlights Gagnon’s critique of U.S. and Israeli policies, underscoring a growing divide between official rhetoric and grassroots opposition to military escalation.
+  Meanwhile, diplomatic efforts to end the Ukraine conflict appear stalled. Former President Donald Trump’s latest ultimatum—giving Russia 10 to 12 days to end the war or face new sanctions and tariffs—has been largely ignored by Moscow. According to **Larry C. Johnson**, this is unsurprising given the sharp decline in U.S.-Russia trade and the entrenched nature of current sanctions. The lack of Russian response underscores the limited leverage Washington now holds, and there is a high chance that Trump’s threats will have little to no impact on the ground. The consensus among analysts is that the war will persist beyond Trump’s deadline, with no immediate diplomatic breakthrough in sight.
   
-  Looking at the broader regional context, Johnson’s analysis of Iran’s historical role as the “Graveyard of Empires” serves as a reminder of the risks facing external powers seeking to influence or control the region. The legacy of failed interventions in Persia/Iran continues to inform both Iranian policy and the calculations of global actors, particularly as Iran adopts a tougher stance in nuclear negotiations and demands security guarantees regarding Israel.
+  In a broader context, Johnson’s recent analysis of the "Mandate of Heaven" concept in Chinese political philosophy provides insight into how legitimacy and moral authority continue to shape governance in China. While not directly tied to current events, this historical perspective is increasingly relevant as Beijing asserts its global influence and seeks to justify its domestic and international policies through appeals to virtue and stability.
   
-  **Trends and Predictions:**  
-  The majority of sources agree that Zelensky’s recent moves reflect a defensive consolidation of power in response to both internal dissent and Russian advances. This is likely to further erode Western confidence in Kyiv’s governance and complicate future aid discussions. Anti-war and anti-interventionist sentiment is expected to grow, especially as Western military rhetoric escalates but fails to deliver decisive results. In the Middle East, Iran’s assertiveness and the historical resilience of the region suggest that any new attempts at external intervention will face significant obstacles.
-  
-  Based on current trajectories, I guarantee that Ukraine’s internal political struggles will intensify and that Western support will become more conditional. There is a high chance that Iran’s position will harden further, making diplomatic breakthroughs with the U.S. and its allies quite unlikely in the near term.
+  In summary, the latest reporting points to a deepening information war over Ukraine, diminishing U.S. influence on Russian decision-making, and the enduring relevance of political legitimacy in global affairs. The prevailing trend is one of skepticism toward official narratives and a recognition that major geopolitical shifts are unlikely in the immediate future. Most definitely, the coming weeks will see continued contestation of facts and narratives, with little movement toward resolution in the Ukraine conflict.
 articles:
+  - title: Why is US Intelligence Providing Bogus Numbers of Dead Russian Soldiers?
+    url: https://sonar21.com/why-is-us-intelligence-providing-bogus-numbers-of-dead-russian-soldiers/
+    text: 'I am sort of surprised that no one has done what I am going to do… Provide
+      a realistic calculation of the actual number of Russian casualties since the start
+      of the Special Military Operation in February 2022. This includes Killed in Action
+      (KIA) and Wounded in Action (WIA). Sy Hersh, in one of his recent posts, was fed
+      a line of bullshit by a US military or US intelligence source. I don’t blame Sy…
+      He simply reported what he was told. He wrote the following about the current
+      Russian offensive, citing an official : I was told: “all farmland, no fortified
+      towns or critical communication sites. The monthly casualties have been 380 a
+      month through May. The total now is two million. Most importantly,” the official
+      stressed, “was how this number was described. All the best trained regular Army
+      troops, to be replaced by ignorant peasants. All the best mid-grade officers and
+      NCOs dead. All modern armor and fighting vehicles. Junk. This is unsustainable.”
+      Really? Two million since February 2022? The numbers don’t add up. If that was
+      true, Russia has lost an average of 48,780 soldiers KIA or WIA per month. Let
+      me show you why that is a garbage number. 2022 The Russian Armed Forces, encompassing
+      all branches (Ground Forces, Navy, Aerospace Forces, Strategic Rocket Forces,
+      Airborne Forces, and Special Operations Forces), had the following estimated personnel:
+      Active-Duty Personnel : Approximately 900,000 to 1,013,628 active servicemen,
+      with the higher figure cited from a 2017 Kremlin decree that was still in effect.
+      This included: Contract Soldiers : Around 400,000–405,000, with 147,000 in the
+      Ground Forces. Conscripts : Approximately 270,000, serving mandatory one-year
+      terms, with limited combat deployment outside Russia. Officers and NCOs : The
+      remainder, roughly 225,000–338,628, based on the total active figure. The Russian
+      Ground Forces, a subset of the Armed Forces and the primary component for land
+      operations in Ukraine, were estimated as follows: Active Personnel : Approximately
+      300,000 active-duty personnel, including 147,000 contract soldiers, with the remainder
+      being conscripts and officers. Structure : Organized into around 170 Battalion
+      Tactical Groups (BTGs), each with 600–800 soldiers, designed for rapid deployment.
+      This suggests a combat-ready force of ~102,000–136,000 for ground operations.
+      By February 2022, 10 Combined Arms Armies were committed to the Ukraine invasion,
+      supported by elements like the 29th, 35th, and 36th Armies in Belarus. Deployment
+      to Ukraine : Approximately 200,000 troops were deployed for the invasion, drawn
+      primarily from the Ground Forces but supported by other branches (e.g., Airborne
+      Forces), indicating a significant portion of the active force was mobilized. In
+      September 2022, between September 21 and the end of October to be precise, Russia’s
+      Defense Ministry  mobilized 300,000 reservists for the war in Ukraine. Starting
+      in November 2022, Russia conscripted 120,000 new recruits (men aged 18–27). By
+      the end of December 2022, Russia’s Ground Forces totaled 720,000 maximum. Still
+      with me? Okay. Let’s look at 2023. 2023 The most credible midpoint estimate, balancing
+      official and independent data, is ~700,000 total new soldiers (contracts + conscripts)
+      in 2023, though exact numbers remain opaque due to Russian secrecy. For comparison,
+      2024 recruitment was estimated at 374,200–407,200 contracts plus ~310,000 conscripts.
+      [NOTE: Official data pegs the number at 817,000 (540,000 contracts + 277,000 conscripts),
+      while independent sources estimate around 631,400 (354,400 contracts + 277,000
+      conscripts).] So, let’s use the 700,000 figure. That makes Russia’s total estimated
+      ground forces — without taking into account casualties and those who left the
+      service at the end of their contract or conscription — 1,420,000. 2024 Official
+      Estimate : Approximately 713,000 (430,000 contracts + 283,000 conscripts). Independent
+      Estimate: Around 583,000–643,000 (300,000–360,000 contracts + 283,000 conscripts),
+      accounting for potential inflation in official contract numbers. I will split
+      the difference and use the figure of 648,000 soldiers. That brings the total size
+      of the Russian army to 2,068,000 … Again, with the assumption that no one left
+      the service and there were no casualties. 2025 (January thru June) Official Estimate
+      : Approximately 370,000 (210,000 contracts + 160,000 conscripts). Independent
+      Estimate : Around 315,000–335,000 (175,000 contracts + 140,000–160,000 conscripts),
+      accounting for the partial spring draft and potential over reporting. I will use
+      192,500 (i.e., splitting the difference between the Official claim and the Independent
+      Estimates) for Contract soldiers. Adding that to the conscripts gives us the total
+      for the first half of 2025 of 352,500. Total number of Ground Forces since the
+      start of the Special Military Operation in February 2022 is 2,420,500. This is
+      the total number based on the assumption that no one left the army at the end
+      of their tour and that there were no casualties. Stick with me. As of mid-2025,
+      the Russian Armed Forces comprise about 1.13 million to 1.32 million active personnel.
+      This represents a substantial increase from pre-2022 levels, reflecting ongoing
+      expansion due to the war in Ukraine. • According to the International Institute
+      for Strategic Studies’ The Military Balance 2025, Russia’s armed forces have about
+      1,134,000 active troops. • Some other sources, such as Statista , estimate the
+      number as 1.32 million. I subtracted the 1,320,000 — i.e., current force level
+      — from the 2,420,500 who were conscripted or signed a contract since February
+      2024. That leaves us with 1,100,520 soldiers unaccounted for. Were all of them
+      killed? No. The traditional ratio of KIA to WIA is 1:4 , i.e., for every dead
+      soldier there are four wounded. Let’s apply that ratio to the Mediazona data.
+      According to Mediazona , as of late July 2025, over 120,000 Russian soldiers have
+      been confirmed killed in Ukraine since the start of the full-scale invasion in
+      February 2022. Based on that number, I estimate there are 480,000 WIA. Total casualties
+      according to these figures is 600,000. That leaves us with 500,520 unaccounted
+      for. How many deserted? How many simply ended their tour of duty and went home?
+      If the number cited by Sy Hersh’s source was valid, then Russia would have had
+      to conscript or recruit an additional 899,500 new soldiers. Neither Western sources
+      or Russian sources confirm that happened. I can’t say I am shocked by this because
+      we saw the US military fudge the casualties of the Vietnamese during that war,
+      and the CIA inflated the number of Soviet deaths in Afghanistan. This kind of
+      dishonesty is one reason why the US has not won a war since the end of World War
+      II… Lies are used to sustain a failed policy. Instead of accurately counting Ukrainian
+      casualties, DOD and the CIA are content to delude themselves about actual Russian
+      losses. I had a brief chat with Marcello today, covering a variety of topics:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article critiques a claim about Russian casualties in
+      the Ukraine conflict, specifically disputing a reported figure of two million
+      and suggesting that the information provided to journalist Sy Hersh was misleading.
+    paragraph_summary: The article critiques the inflated casualty figures reported
+      regarding Russian losses in the ongoing conflict since February 2022, specifically
+      challenging a claim of two million casualties made by a US military source. The
+      author argues that this figure is implausible, as it would imply an average of
+      nearly 49,000 casualties per month, which does not align with the actual size
+      and structure of the Russian Armed Forces. The article provides a breakdown of
+      the Russian military's personnel, including active-duty soldiers, contract soldiers,
+      and conscripts, to illustrate that such high casualty rates are unsustainable
+      given the available manpower. Overall, the author seeks to provide a more realistic
+      assessment of Russian military casualties in the conflict.
+    published: '2025-07-30T02:40:43+00:00'
+  - title: Why is US Intelligence Providing Bogus Numbers of Dead Russian Soldiers?
+    url: https://sonar21.com/why-is-us-intelligence-providing-bogus-numbers-of-dead-russian-soldiers/
+    text: 'I am sort of surprised that no one has done what I am going to do… Provide
+      a realistic calculation of the actual number of Russian casualties since the start
+      of the Special Military Operation in February 2022. This includes Killed in Action
+      (KIA) and Wounded in Action (WIA). Sy Hersh, in one of his recent posts, was fed
+      a line of bullshit by a US military or US intelligence source. I don’t blame Sy…
+      He simply reported what he was told. He wrote the following about the current
+      Russian offensive, citing an official : I was told: “all farmland, no fortified
+      towns or critical communication sites. The monthly casualties have been 380 a
+      month through May. The total now is two million. Most importantly,” the official
+      stressed, “was how this number was described. All the best trained regular Army
+      troops, to be replaced by ignorant peasants. All the best mid-grade officers and
+      NCOs dead. All modern armor and fighting vehicles. Junk. This is unsustainable.”
+      Really? Two million since February 2022? The numbers don’t add up. If that was
+      true, Russia has lost an average of 48,780 soldiers KIA or WIA per month. Let
+      me show you why that is a garbage number. 2022 The Russian Armed Forces, encompassing
+      all branches (Ground Forces, Navy, Aerospace Forces, Strategic Rocket Forces,
+      Airborne Forces, and Special Operations Forces), had the following estimated personnel:
+      Active-Duty Personnel : Approximately 900,000 to 1,013,628 active servicemen,
+      with the higher figure cited from a 2017 Kremlin decree that was still in effect.
+      This included: Contract Soldiers : Around 400,000–405,000, with 147,000 in the
+      Ground Forces. Conscripts : Approximately 270,000, serving mandatory one-year
+      terms, with limited combat deployment outside Russia. Officers and NCOs : The
+      remainder, roughly 225,000–338,628, based on the total active figure. The Russian
+      Ground Forces, a subset of the Armed Forces and the primary component for land
+      operations in Ukraine, were estimated as follows: Active Personnel : Approximately
+      300,000 active-duty personnel, including 147,000 contract soldiers, with the remainder
+      being conscripts and officers. Structure : Organized into around 170 Battalion
+      Tactical Groups (BTGs), each with 600–800 soldiers, designed for rapid deployment.
+      This suggests a combat-ready force of ~102,000–136,000 for ground operations.
+      By February 2022, 10 Combined Arms Armies were committed to the Ukraine invasion,
+      supported by elements like the 29th, 35th, and 36th Armies in Belarus. Deployment
+      to Ukraine : Approximately 200,000 troops were deployed for the invasion, drawn
+      primarily from the Ground Forces but supported by other branches (e.g., Airborne
+      Forces), indicating a significant portion of the active force was mobilized. In
+      September 2022, between September 21 and the end of October to be precise, Russia’s
+      Defense Ministry  mobilized 300,000 reservists for the war in Ukraine. Starting
+      in November 2022, Russia conscripted 120,000 new recruits (men aged 18–27). By
+      the end of December 2022, Russia’s Ground Forces totaled 720,000 maximum. Still
+      with me? Okay. Let’s look at 2023. 2023 The most credible midpoint estimate, balancing
+      official and independent data, is ~700,000 total new soldiers (contracts + conscripts)
+      in 2023, though exact numbers remain opaque due to Russian secrecy. For comparison,
+      2024 recruitment was estimated at 374,200–407,200 contracts plus ~310,000 conscripts.
+      [NOTE: Official data pegs the number at 817,000 (540,000 contracts + 277,000 conscripts),
+      while independent sources estimate around 631,400 (354,400 contracts + 277,000
+      conscripts).] So, let’s use the 700,000 figure. That makes Russia’s total estimated
+      ground forces — without taking into account casualties and those who left the
+      service at the end of their contract or conscription — 1,420,000. 2024 Official
+      Estimate : Approximately 713,000 (430,000 contracts + 283,000 conscripts). Independent
+      Estimate: Around 583,000–643,000 (300,000–360,000 contracts + 283,000 conscripts),
+      accounting for potential inflation in official contract numbers. I will split
+      the difference and use the figure of 648,000 soldiers. That brings the total size
+      of the Russian army to 2,068,000 … Again, with the assumption that no one left
+      the service and there were no casualties. 2025 (January thru June) Official Estimate
+      : Approximately 370,000 (210,000 contracts + 160,000 conscripts). Independent
+      Estimate : Around 315,000–335,000 (175,000 contracts + 140,000–160,000 conscripts),
+      accounting for the partial spring draft and potential over reporting. I will use
+      192,500 (i.e., splitting the difference between the Official claim and the Independent
+      Estimates) for Contract soldiers. Adding that to the conscripts gives us the total
+      for the first half of 2025 of 352,500. Total number of Ground Forces since the
+      start of the Special Military Operation in February 2022 is 2,420,500. This is
+      the total number based on the assumption that no one left the army at the end
+      of their tour and that there were no casualties. Stick with me. As of mid-2025,
+      the Russian Armed Forces comprise about 1.13 million to 1.32 million active personnel.
+      This represents a substantial increase from pre-2022 levels, reflecting ongoing
+      expansion due to the war in Ukraine. • According to the International Institute
+      for Strategic Studies’ The Military Balance 2025, Russia’s armed forces have about
+      1,134,000 active troops. • Some other sources, such as Statista , estimate the
+      number as 1.32 million. I subtracted the 1,320,000 — i.e., current force level
+      — from the 2,420,500 who were conscripted or signed a contract since February
+      2024. That leaves us with 1,100,520 soldiers unaccounted for. Were all of them
+      killed? No. The traditional ratio of KIA to WIA is 1:4 , i.e., for every dead
+      soldier there are four wounded. Let’s apply that ratio to the Mediazona data.
+      According to Mediazona , as of late July 2025, over 120,000 Russian soldiers have
+      been confirmed killed in Ukraine since the start of the full-scale invasion in
+      February 2022. Based on that number, I estimate there are 480,000 WIA. Total casualties
+      according to these figures is 600,000. That leaves us with 500,520 unaccounted
+      for. How many deserted? How many simply ended their tour of duty and went home?
+      If the number cited by Sy Hersh’s source was valid, then Russia would have had
+      to conscript or recruit an additional 899,500 new soldiers. Neither Western sources
+      or Russian sources confirm that happened. I can’t say I am shocked by this because
+      we saw the US military fudge the casualties of the Vietnamese during that war,
+      and the CIA inflated the number of Soviet deaths in Afghanistan. This kind of
+      dishonesty is one reason why the US has not won a war since the end of World War
+      II… Lies are used to sustain a failed policy. Instead of accurately counting Ukrainian
+      casualties, DOD and the CIA are content to delude themselves about actual Russian
+      losses. I had a brief chat with Marcello today, covering a variety of topics:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article critiques a claim about Russian casualties in
+      the Ukraine conflict, specifically disputing a reported figure of two million
+      and suggesting that the information provided to journalist Sy Hersh was misleading.
+    paragraph_summary: The article critiques the inflated casualty figures reported
+      regarding Russian losses in the ongoing conflict since February 2022, specifically
+      challenging a claim of two million casualties made by a US military source. The
+      author argues that this figure is implausible, as it would imply an average of
+      nearly 49,000 casualties per month, which does not align with the actual size
+      and structure of the Russian Armed Forces. The article provides a breakdown of
+      the Russian military's personnel, including active-duty soldiers, contract soldiers,
+      and conscripts, to illustrate that such high casualty rates are unsustainable
+      given the available manpower. Overall, the author seeks to provide a more realistic
+      assessment of Russian military casualties in the conflict.
+    published: '2025-07-30T02:40:43+00:00'
+  - title: 'The Mandate of Heaven: A Cornerstone Concept of Chinese Political Philosophy'
+    url: https://sonar21.com/the-mandate-of-heaven-a-cornerstone-concept-of-chinese-political-philosophy/
+    text: '“The East meets West, in clash and blend, In search of Truth, on paths that
+      wend, Through Ego’s mazes, to transcend, To Love, where all the souls ascend.”
+      “East & West” — The Frontier Man The Mandate of Heaven (天命, tiānmìng) is one of
+      the most significant and enduring concepts in Chinese political philosophy, shaping
+      the political and social structures of China for over two millennia. At its core,
+      the Mandate of Heaven was a divine justification for the rule of emperors, establishing
+      the right to govern based on virtue, moral conduct, and the ability to maintain
+      harmony. This essay explores the origins, development, and implications of the
+      Mandate of Heaven, as well as its role in legitimizing dynastic cycles and maintaining
+      order in Chinese history. Origins and Early Development The Mandate of Heaven
+      originated during the early Zhou Dynasty (c. 1046-256 BCE) following the Zhou’s
+      overthrow of the Shang Dynasty. The Zhou rulers needed a legitimate explanation
+      for their rebellion and subsequent seizure of power, as the Shang had ruled for
+      centuries and claimed a direct connection to divine authority. The Zhou justified
+      their conquest by claiming that the last Shang king had become corrupt and tyrannical,
+      losing the favor of Heaven (天, tiān), the supreme cosmic force in early Chinese
+      cosmology. As a result, the Zhou argued, Heaven had withdrawn its mandate from
+      the Shang and bestowed it upon the virtuous Zhou rulers. Unlike many other divine
+      right theories in global political systems, the Mandate of Heaven was not an eternal
+      or unchanging grant. Instead, it was contingent upon the ruler’s ability to maintain
+      moral virtue, benevolence, and effective governance. If a ruler became despotic,
+      unjust, or incapable of ensuring peace and prosperity, Heaven would revoke its
+      support, leading to rebellion, natural disasters, or the collapse of the dynasty.
+      This cyclical view of history became known as the “dynastic cycle,” with each
+      dynasty rising, flourishing, declining, and eventually being replaced when it
+      lost the Mandate of Heaven. The Mandate’s Flexibility and Implications The concept
+      of the Mandate of Heaven was flexible, adapting to different dynasties and political
+      contexts. Its power lay in its moral underpinnings: it linked governance to ethical
+      conduct, demanding that rulers act for the welfare of their subjects. This system
+      allowed for the possibility of rebellion and regime change if a ruler was deemed
+      unworthy. This was a sharp contrast to the more rigid divine right of kings found
+      in European monarchies, where rebellion was often considered an affront to the
+      divine order itself. In China, rebellion could be justified as long as it could
+      be demonstrated that the ruler had lost the mandate by failing to uphold their
+      duties. The Mandate of Heaven also transcended ethnicity and was not limited to
+      a specific family or tribe. This universality allowed various ethnic groups, including
+      the Mongols (Yuan Dynasty, 1271-1368) and the Manchus (Qing Dynasty, 1644-1912),
+      to claim the Mandate when they conquered China. As long as a ruling power could
+      demonstrate the ability to maintain peace, stability, and harmony, it could assert
+      its right to rule under the Mandate of Heaven. Dynastic Cycles and the Mandate
+      in Action Throughout Chinese history, the Mandate of Heaven played a central role
+      in the rise and fall of dynasties. It legitimized new dynasties while delegitimizing
+      old ones that had fallen into corruption or inefficiency. Natural disasters, famines,
+      floods, and rebellions were often interpreted as signs that a dynasty had lost
+      the mandate, as Heaven was believed to express its displeasure through these cosmic
+      disturbances. One of the most famous examples of this belief in action occurred
+      during the decline of the Han Dynasty (206 BCE-220 CE). The Han was plagued by
+      internal corruption, power struggles, and peasant revolts, including the Yellow
+      Turban Rebellion. These signs of disorder were seen as evidence that the Han had
+      lost the Mandate of Heaven. Similarly, in the late Ming Dynasty (1368-1644), a
+      series of famines, floods, and invasions by the Manchus were interpreted as signs
+      of Heaven’s disfavor, facilitating the rise of the Qing Dynasty. Moral Authority
+      and Confucian Ideals The Mandate of Heaven was closely aligned with Confucian
+      ideals, which emphasized the moral responsibilities of rulers. Confucianism, which
+      became the dominant philosophy of Chinese governance from the Han Dynasty onward,
+      taught that a ruler should act as a moral exemplar for the people. The emperor
+      was expected to cultivate personal virtue (德, dé) and govern with righteousness
+      (义, yì) and benevolence (仁, rén). The Mandate of Heaven reinforced these Confucian
+      principles, encouraging rulers to act with wisdom, restraint, and care for the
+      well-being of their subjects. A ruler who governed with compassion and upheld
+      the values of Confucian morality was said to enjoy the favor of Heaven, resulting
+      in a prosperous and stable realm. Conversely, rulers who neglected their duties
+      or acted unjustly were seen as courting disaster. This moral dimension to political
+      power provided a check on imperial authority, reminding rulers that they were
+      answerable not only to their subjects but also to cosmic forces. The Mandate’s
+      Enduring Legacy The Mandate of Heaven remains a crucial concept in understanding
+      China’s imperial history and political philosophy. It shaped the structure of
+      governance, legitimized dynastic changes, and provided a moral framework for political
+      authority. Unlike the fixed divine right of kings in other cultures, the Mandate
+      of Heaven was fluid, adapting to changing circumstances and dynasties. It placed
+      a moral obligation on rulers to govern justly, with the well-being of their people
+      at the center of their concerns. Even after the fall of the imperial system in
+      1912, the echoes of the Mandate of Heaven can be heard in the language of Chinese
+      political discourse. Leaders continue to emphasize their ability to maintain stability
+      and prosperity, implicitly aligning themselves with the ancient mandate. In this
+      way, the Mandate of Heaven remains not just a historical concept, but a living
+      tradition in China’s political culture. Western societies would be well advised
+      to understand the Mandate of Heaven concept and to apply it when choosing their
+      leaders. The Frontier Man is an American poet, writer, musician, and visual artist.
+      He publishes his work under a pen name to maintain focus on his ideas and art
+      rather than his identity. You can follow The Frontier Man on his Substack, Verses
+      & Visions ; on X at @FrontierArt1 ; and on Telegram at @VersesVisions . Artwork
+      Serenity The Frontier Man February 2024'
+    one_sentence_summary: The Mandate of Heaven, a foundational concept in Chinese political
+      philosophy, emerged during the Zhou Dynasty as a divine justification for emperors'
+      rule based on virtue and moral conduct, influencing China's political and social
+      structures for over two millennia.
+    paragraph_summary: The Mandate of Heaven (天命, tiānmìng) is a foundational concept
+      in Chinese political philosophy that has influenced the governance and social
+      structures of China for over two thousand years. Originating during the early
+      Zhou Dynasty, it provided a divine justification for the Zhou's overthrow of the
+      Shang Dynasty by claiming that the Shang's corruption led to the withdrawal of
+      Heaven's favor. Unlike other divine right theories, the Mandate is not permanent;
+      it depends on the ruler's moral virtue and ability to govern effectively. If a
+      ruler fails to maintain these qualities, Heaven may revoke its mandate, resulting
+      in rebellion or the dynasty's collapse, thus establishing a cyclical pattern in
+      Chinese history known as the "dynastic cycle."
+    published: '2025-07-29T14:28:15+00:00'
+  - title: 'The Mandate of Heaven: A Cornerstone Concept of Chinese Political Philosophy'
+    url: https://sonar21.com/the-mandate-of-heaven-a-cornerstone-concept-of-chinese-political-philosophy/
+    text: '“The East meets West, in clash and blend, In search of Truth, on paths that
+      wend, Through Ego’s mazes, to transcend, To Love, where all the souls ascend.”
+      “East & West” — The Frontier Man The Mandate of Heaven (天命, tiānmìng) is one of
+      the most significant and enduring concepts in Chinese political philosophy, shaping
+      the political and social structures of China for over two millennia. At its core,
+      the Mandate of Heaven was a divine justification for the rule of emperors, establishing
+      the right to govern based on virtue, moral conduct, and the ability to maintain
+      harmony. This essay explores the origins, development, and implications of the
+      Mandate of Heaven, as well as its role in legitimizing dynastic cycles and maintaining
+      order in Chinese history. Origins and Early Development The Mandate of Heaven
+      originated during the early Zhou Dynasty (c. 1046-256 BCE) following the Zhou’s
+      overthrow of the Shang Dynasty. The Zhou rulers needed a legitimate explanation
+      for their rebellion and subsequent seizure of power, as the Shang had ruled for
+      centuries and claimed a direct connection to divine authority. The Zhou justified
+      their conquest by claiming that the last Shang king had become corrupt and tyrannical,
+      losing the favor of Heaven (天, tiān), the supreme cosmic force in early Chinese
+      cosmology. As a result, the Zhou argued, Heaven had withdrawn its mandate from
+      the Shang and bestowed it upon the virtuous Zhou rulers. Unlike many other divine
+      right theories in global political systems, the Mandate of Heaven was not an eternal
+      or unchanging grant. Instead, it was contingent upon the ruler’s ability to maintain
+      moral virtue, benevolence, and effective governance. If a ruler became despotic,
+      unjust, or incapable of ensuring peace and prosperity, Heaven would revoke its
+      support, leading to rebellion, natural disasters, or the collapse of the dynasty.
+      This cyclical view of history became known as the “dynastic cycle,” with each
+      dynasty rising, flourishing, declining, and eventually being replaced when it
+      lost the Mandate of Heaven. The Mandate’s Flexibility and Implications The concept
+      of the Mandate of Heaven was flexible, adapting to different dynasties and political
+      contexts. Its power lay in its moral underpinnings: it linked governance to ethical
+      conduct, demanding that rulers act for the welfare of their subjects. This system
+      allowed for the possibility of rebellion and regime change if a ruler was deemed
+      unworthy. This was a sharp contrast to the more rigid divine right of kings found
+      in European monarchies, where rebellion was often considered an affront to the
+      divine order itself. In China, rebellion could be justified as long as it could
+      be demonstrated that the ruler had lost the mandate by failing to uphold their
+      duties. The Mandate of Heaven also transcended ethnicity and was not limited to
+      a specific family or tribe. This universality allowed various ethnic groups, including
+      the Mongols (Yuan Dynasty, 1271-1368) and the Manchus (Qing Dynasty, 1644-1912),
+      to claim the Mandate when they conquered China. As long as a ruling power could
+      demonstrate the ability to maintain peace, stability, and harmony, it could assert
+      its right to rule under the Mandate of Heaven. Dynastic Cycles and the Mandate
+      in Action Throughout Chinese history, the Mandate of Heaven played a central role
+      in the rise and fall of dynasties. It legitimized new dynasties while delegitimizing
+      old ones that had fallen into corruption or inefficiency. Natural disasters, famines,
+      floods, and rebellions were often interpreted as signs that a dynasty had lost
+      the mandate, as Heaven was believed to express its displeasure through these cosmic
+      disturbances. One of the most famous examples of this belief in action occurred
+      during the decline of the Han Dynasty (206 BCE-220 CE). The Han was plagued by
+      internal corruption, power struggles, and peasant revolts, including the Yellow
+      Turban Rebellion. These signs of disorder were seen as evidence that the Han had
+      lost the Mandate of Heaven. Similarly, in the late Ming Dynasty (1368-1644), a
+      series of famines, floods, and invasions by the Manchus were interpreted as signs
+      of Heaven’s disfavor, facilitating the rise of the Qing Dynasty. Moral Authority
+      and Confucian Ideals The Mandate of Heaven was closely aligned with Confucian
+      ideals, which emphasized the moral responsibilities of rulers. Confucianism, which
+      became the dominant philosophy of Chinese governance from the Han Dynasty onward,
+      taught that a ruler should act as a moral exemplar for the people. The emperor
+      was expected to cultivate personal virtue (德, dé) and govern with righteousness
+      (义, yì) and benevolence (仁, rén). The Mandate of Heaven reinforced these Confucian
+      principles, encouraging rulers to act with wisdom, restraint, and care for the
+      well-being of their subjects. A ruler who governed with compassion and upheld
+      the values of Confucian morality was said to enjoy the favor of Heaven, resulting
+      in a prosperous and stable realm. Conversely, rulers who neglected their duties
+      or acted unjustly were seen as courting disaster. This moral dimension to political
+      power provided a check on imperial authority, reminding rulers that they were
+      answerable not only to their subjects but also to cosmic forces. The Mandate’s
+      Enduring Legacy The Mandate of Heaven remains a crucial concept in understanding
+      China’s imperial history and political philosophy. It shaped the structure of
+      governance, legitimized dynastic changes, and provided a moral framework for political
+      authority. Unlike the fixed divine right of kings in other cultures, the Mandate
+      of Heaven was fluid, adapting to changing circumstances and dynasties. It placed
+      a moral obligation on rulers to govern justly, with the well-being of their people
+      at the center of their concerns. Even after the fall of the imperial system in
+      1912, the echoes of the Mandate of Heaven can be heard in the language of Chinese
+      political discourse. Leaders continue to emphasize their ability to maintain stability
+      and prosperity, implicitly aligning themselves with the ancient mandate. In this
+      way, the Mandate of Heaven remains not just a historical concept, but a living
+      tradition in China’s political culture. Western societies would be well advised
+      to understand the Mandate of Heaven concept and to apply it when choosing their
+      leaders. The Frontier Man is an American poet, writer, musician, and visual artist.
+      He publishes his work under a pen name to maintain focus on his ideas and art
+      rather than his identity. You can follow The Frontier Man on his Substack, Verses
+      & Visions ; on X at @FrontierArt1 ; and on Telegram at @VersesVisions . Artwork
+      Serenity The Frontier Man February 2024'
+    one_sentence_summary: The Mandate of Heaven, a foundational concept in Chinese political
+      philosophy, emerged during the Zhou Dynasty as a divine justification for emperors'
+      rule based on virtue and moral conduct, influencing China's political and social
+      structures for over two millennia.
+    paragraph_summary: The Mandate of Heaven (天命, tiānmìng) is a foundational concept
+      in Chinese political philosophy that has influenced the governance and social
+      structures of China for over two thousand years. Originating during the early
+      Zhou Dynasty, it provided a divine justification for the Zhou's overthrow of the
+      Shang Dynasty by claiming that the Shang's corruption led to the withdrawal of
+      Heaven's favor. Unlike other divine right theories, the Mandate is not permanent;
+      it depends on the ruler's moral virtue and ability to govern effectively. If a
+      ruler fails to maintain these qualities, Heaven may revoke its mandate, resulting
+      in rebellion or the dynasty's collapse, thus establishing a cyclical pattern in
+      Chinese history known as the "dynastic cycle."
+    published: '2025-07-29T14:28:15+00:00'
+  - title: 12 Days, Then What?
+    url: https://sonar21.com/12-days-then-what/
+    text: 'Donald Trump made another move in his feckless game of global checkers today
+      in Scotland, with the announcement that he is giving Russia a new, much shorter
+      deadline—10 to 12 days from now—to end the war in Ukraine. Trump warned that if
+      President Vladimir Putin does not reach a deal by around August 7–9, the US will
+      impose new sanctions and “severe tariffs” on Russia and countries supporting its
+      war effort. Trump’s new deadline elicited a collective yawn in Moscow. Since the
+      start of the Special Military Operation ( SMO ), trade between the US and Russia
+      has shrunk dramatically. In 2021, US exports to Russia totaled approximately $6.4
+      billion and US imports from Russia totaled about $29.7 billion. This resulted
+      in a US trade deficit with Russia of about $23.3 billion for that year. In 2024,
+      total trade in goods between the United States and Russia declined sharply due
+      to ongoing sanctions, war-related restrictions, and other political measures.
+      US exports to Russia in 2024: Approximately $526 million, marking a decrease of
+      over 12% compared to 2023. Major U.S. exports included medical/technical equipment,
+      pharmaceuticals, machinery, and some food and chemical products. US imports from
+      Russia in 2024: About $3.0–$3.27 billion, down more than 34% compared to 2023
+      and down over 75% from pre-war levels in 2021–2022. Key Russian exports to the
+      U.S. were fertilizers (about $1.3 billion), precious metals (about $878 million),
+      and inorganic chemicals (about $683 million). Energy imports have almost entirely
+      ceased. Trump’s threat of new sanctions is just a blowhard bloviating… Ending
+      shipments of fertilizers and precious metals is not going to hurt the Russian
+      economy one bit. Thanks to the sanctions Biden levied in 2022, Russia’s economy
+      grew to be the fourth largest in the world as measured by purchasing power parity.
+      Western propaganda that the Russian economy is failing–citing current growth of
+      1.4%–ignores the fiscal policies that the Russian central bank put in place in
+      2024 to cool inflation. But those measures were only temporary, with the central
+      bank announcing a 2% cut in interest rates late last week. That means that Trump,
+      if he is serious, will impose bone-crunching tariffs on China and India. Both
+      countries appear unfazed by Trump’s bullying bluster. China, in particular, holds
+      some very strong cards… Rare-earth minerals desperately needed by the US military
+      industrial complex. I think this will be another Trump nothing-burger . So why
+      did Trump whittle down the deadline? One possible explanation concerns the rapid
+      deterioration of the military situation for Ukraine. Russia is making rapid advances
+      all along the line of contact and even Ukrainian media and social media outlets
+      are expressing alarm. Is that what sparked Trump’s decision to shorten the time
+      for Russia to agree to a ceasefire? 50 days or 12 days, it does not matter. Trump
+      has no leverage to compel Russia to agree to the ceasefire that the US and Europe
+      want to be imposed. Russia is going to continue with its offensive and will take
+      more territory in the coming weeks. Russian troops are pushing north in Zaporhyzhia,
+      moving south through Sumy and Kharkiv, and advancing to the west, having already
+      taken territory in Dniepropetrovsk. No pressure from Washington or Europe will
+      alter this reality. I discussed this issue, as well as developments in West Asia,
+      with Nima and Pepe. Following that podcast, I welcomed the Judge back from his
+      well-deserved vacation: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Donald Trump announced a new 10 to 12-day deadline for Russia
+      to end the war in Ukraine, threatening sanctions and tariffs if no deal is reached,
+      but his warning was largely ignored in Moscow amid a significant decline in US-Russia
+      trade due to ongoing sanctions and political tensions.
+    paragraph_summary: Donald Trump announced a new deadline of 10 to 12 days for Russia
+      to end the war in Ukraine, threatening to impose additional sanctions and tariffs
+      if no agreement is reached by early August. However, this ultimatum was met with
+      indifference in Moscow, as trade between the U.S. and Russia has significantly
+      declined due to ongoing sanctions and political measures. In 2024, U.S. exports
+      to Russia fell to approximately $526 million, while imports dropped to around
+      $3 billion, marking a steep decline from pre-war levels. Despite Trump's claims,
+      analysts suggest that the proposed sanctions would have little impact on the Russian
+      economy, which has reportedly grown to become the fourth largest in the world
+      by purchasing power parity, countering Western narratives of its economic failure.
+    published: '2025-07-29T02:45:44+00:00'
+  - title: 12 Days, Then What?
+    url: https://sonar21.com/12-days-then-what/
+    text: 'Donald Trump made another move in his feckless game of global checkers today
+      in Scotland, with the announcement that he is giving Russia a new, much shorter
+      deadline—10 to 12 days from now—to end the war in Ukraine. Trump warned that if
+      President Vladimir Putin does not reach a deal by around August 7–9, the US will
+      impose new sanctions and “severe tariffs” on Russia and countries supporting its
+      war effort. Trump’s new deadline elicited a collective yawn in Moscow. Since the
+      start of the Special Military Operation ( SMO ), trade between the US and Russia
+      has shrunk dramatically. In 2021, US exports to Russia totaled approximately $6.4
+      billion and US imports from Russia totaled about $29.7 billion. This resulted
+      in a US trade deficit with Russia of about $23.3 billion for that year. In 2024,
+      total trade in goods between the United States and Russia declined sharply due
+      to ongoing sanctions, war-related restrictions, and other political measures.
+      US exports to Russia in 2024: Approximately $526 million, marking a decrease of
+      over 12% compared to 2023. Major U.S. exports included medical/technical equipment,
+      pharmaceuticals, machinery, and some food and chemical products. US imports from
+      Russia in 2024: About $3.0–$3.27 billion, down more than 34% compared to 2023
+      and down over 75% from pre-war levels in 2021–2022. Key Russian exports to the
+      U.S. were fertilizers (about $1.3 billion), precious metals (about $878 million),
+      and inorganic chemicals (about $683 million). Energy imports have almost entirely
+      ceased. Trump’s threat of new sanctions is just a blowhard bloviating… Ending
+      shipments of fertilizers and precious metals is not going to hurt the Russian
+      economy one bit. Thanks to the sanctions Biden levied in 2022, Russia’s economy
+      grew to be the fourth largest in the world as measured by purchasing power parity.
+      Western propaganda that the Russian economy is failing–citing current growth of
+      1.4%–ignores the fiscal policies that the Russian central bank put in place in
+      2024 to cool inflation. But those measures were only temporary, with the central
+      bank announcing a 2% cut in interest rates late last week. That means that Trump,
+      if he is serious, will impose bone-crunching tariffs on China and India. Both
+      countries appear unfazed by Trump’s bullying bluster. China, in particular, holds
+      some very strong cards… Rare-earth minerals desperately needed by the US military
+      industrial complex. I think this will be another Trump nothing-burger . So why
+      did Trump whittle down the deadline? One possible explanation concerns the rapid
+      deterioration of the military situation for Ukraine. Russia is making rapid advances
+      all along the line of contact and even Ukrainian media and social media outlets
+      are expressing alarm. Is that what sparked Trump’s decision to shorten the time
+      for Russia to agree to a ceasefire? 50 days or 12 days, it does not matter. Trump
+      has no leverage to compel Russia to agree to the ceasefire that the US and Europe
+      want to be imposed. Russia is going to continue with its offensive and will take
+      more territory in the coming weeks. Russian troops are pushing north in Zaporhyzhia,
+      moving south through Sumy and Kharkiv, and advancing to the west, having already
+      taken territory in Dniepropetrovsk. No pressure from Washington or Europe will
+      alter this reality. I discussed this issue, as well as developments in West Asia,
+      with Nima and Pepe. Following that podcast, I welcomed the Judge back from his
+      well-deserved vacation: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Donald Trump announced a new 10 to 12-day deadline for Russia
+      to end the war in Ukraine, threatening sanctions and tariffs if no deal is reached,
+      but his warning was largely ignored in Moscow amid a significant decline in US-Russia
+      trade due to ongoing sanctions and political tensions.
+    paragraph_summary: Donald Trump announced a new deadline of 10 to 12 days for Russia
+      to end the war in Ukraine, threatening to impose additional sanctions and tariffs
+      if no agreement is reached by early August. However, this ultimatum was met with
+      indifference in Moscow, as trade between the U.S. and Russia has significantly
+      declined due to ongoing sanctions and political measures. In 2024, U.S. exports
+      to Russia fell to approximately $526 million, while imports dropped to around
+      $3 billion, marking a steep decline from pre-war levels. Despite Trump's claims,
+      analysts suggest that the proposed sanctions would have little impact on the Russian
+      economy, which has reportedly grown to become the fourth largest in the world
+      by purchasing power parity, countering Western narratives of its economic failure.
+    published: '2025-07-29T02:45:44+00:00'
+  - title: Shaking the Foundations of the Deep State in France
+    url: https://sonar21.com/shaking-the-foundations-of-the-deep-state-in-france/
+    text: 'When I first heard the claim that Emmanuel Macron’s “wife” was actually a
+      dude, I was skeptical. I thought, “no one could be that reckless and crazy.” Well,
+      I was wrong. Xavier Poussard, an intrepid pitbull of a journalist, doggedly and
+      meticulously pursued the story and has produced solid evidence that the French
+      President married a transgender man who has identified as a woman since the 1970s.
+      His book, Becoming Brigitte , is now available. Candace Owens, who is routinely
+      described in the mainstream press as a conspiracy kook , has devoted  several
+      episodes of her YouTube channel to this story. She is simply reporting on the
+      details collected by Mr. Poussard, but has just been sued for defamation by the
+      Macrons. That case is going to be laughed out of court in the United States because
+      she is simply reporting on the work of a journalist, who also has been sued by
+      the Macrons. Morons! If you do an AI search on Poussard’s work, you get this as
+      the typical answer (This is from Perplexity AI): Xavier Poussard, a French journalist
+      known for his book “Becoming Brigitte,” was sued by French President Emmanuel
+      Macron and Brigitte Macron for alleged cyber-harassment and defamation, following
+      his involvement in spreading conspiracy theories about Brigitte Macron’s identity.
+      As of July 2025, the Macrons have filed their lawsuit against Poussard after a
+      surge in online claims—some of which trace back to his reporting and publications—which
+      allege, without evidence, that Brigitte Macron was “born a man.” Poussard now
+      resides in Italy, reportedly citing safety concerns after the controversy escalated.
+      The lawsuits by the Macrons have received international attention, with similar
+      actions launched against others making these claims, notably American commentator
+      Candace Owens. The legal action against Poussard is part of a broader effort by
+      the Macrons to counter what they describe as a “campaign of global humiliation”
+      and cyber-harassment rooted in persistent online conspiracy theories This shows
+      you how corrupt and biased these AI engines are. Nothing to see here. Move along.
+      Poussard presents several pieces of documentary and photographic evidence in support
+      of his claim that Brigitte Macron is transgender (specifically, that she was born
+      male as Jean-Michel Trogneux, her brother’s name, and later assumed a female identity).
+      Poussard points to Brigitte Macron’s physical appearance, such as broad shoulders,
+      slim hips, and certain mannerisms (e.g., how she sits or walks), as indicators
+      that she was born male. But it is the photographic evidence and the lack of photographic
+      evidence that seals the case. Poussard shows that there are no accessible photos
+      of a young Brigitte, with former schools refusing to release images and town halls
+      reluctant to share birth certificates. Poussard would be a fool to make this claim
+      if “Brigitte” could produce the photos from all of her school yearbooks, photos
+      of her pregnant, photos of her playing with her alleged children. The Macrons
+      have steadfastly refused to release what would be a powerful refutation and a
+      financial death sentence for Poussard. But then there is this photo: Brigitte
+      on the left and Jean-Michel Trogneux on the right Poussard used facial-recognition
+      software to evaluate a number of photos. This one above shows Jean-Michel Trogneux,
+      allegedly Brigitte’s brother, when he was 18. Hell, you don’t even need software
+      to see the resemblance. Poussard also highlights a lack of documented accounts
+      for Jean-Michel Trogneux in some family records, despite his appearance in family
+      photos and references (e.g., at Brigitte’s 1974 wedding), implying identity theft
+      or fabrication. What is so chilling and horrific about this affair is that the
+      sexual relationship between Emmanuel Macron, as a 15-year old student, and his
+      39-year old teacher, who identified as a woman, is accepted as normal. Yet the
+      whole story of how Emmanuel rose from obscurity, working as a favored employee
+      in the Rothschild bank, gets put into the Presidency of France. The media and
+      the AI-machines are going out of their way to pretend this is a non-story being
+      pushed by crazy people. Brigitte Macron filed a defamation lawsuit in France in
+      early 2022 against journalist Natacha Rey and Xavier Poussard, the editor of the
+      far-right publication Faits et Documents, over articles and investigations they
+      published claiming that she was born male (as Jean-Michel Trogneux, her brother’s
+      name) and had stolen another person’s identity. In September 2023, a lower court
+      in Lisieux convicted Rey and Roy (Poussard’s direct involvement in the trial is
+      noted in some reports as co-accused or source), ordering them to pay €8,000 in
+      damages to Brigitte Macron and €5,000 to her brother. However, on July 10, 2025,
+      the Caen Court of Appeal overturned the conviction, acquitting Rey (and by extension
+      clearing related claims involving Poussard), ruling the allegations did not constitute
+      defamation. I encourage you to watch Candace Owens interview Xavier Poussard.
+      It is free, but is not posted on YouTube because the censors don’t want you to
+      hear the evidence and make up your own mind. I found Mr. Poussard very compelling.
+      https://candaceowens.com/video/becoming-brigitte-candace-owens-x-xavier-poussard-ep-6
+      So how is this relevant to the horrific chaos unfolding in the world today, especially
+      in Gaza and Ukraine? If you watch the six episodes that comprise Candace’s telling
+      of the Brigitte Macron story — Becoming Brigitte — you will come away with a pretty
+      good understanding that Emmanuel Macron is a creation of some very powerful people
+      and a realization that we have been blackpilled . What is amazing is that the
+      Macrons have been able to pull off this scam and the French society has swallowed
+      the lie hook, line and sinker . The world is not what it seems and it is clear
+      we are being fed a steady diet of bullshit . I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Journalist Xavier Poussard claims to have evidence that French
+      President Emmanuel Macron is married to a transgender man, a story that has gained
+      attention through Candace Owens' YouTube channel, leading to defamation lawsuits
+      from the Macrons against both Owens and Poussard.
+    paragraph_summary: The article discusses the controversial claims made by journalist
+      Xavier Poussard in his book "Becoming Brigitte," which alleges that French President
+      Emmanuel Macron's wife, Brigitte Macron, is a transgender man who has identified
+      as a woman since the 1970s. Despite initial skepticism, the claims have gained
+      traction, particularly through the promotion by commentator Candace Owens, who
+      has faced a defamation lawsuit from the Macrons for discussing Poussard's findings.
+      The Macrons have taken legal action against Poussard and others to combat what
+      they describe as a "campaign of global humiliation" and cyber-harassment stemming
+      from these conspiracy theories. Poussard has reportedly moved to Italy due to
+      safety concerns following the backlash from his controversial assertions.
+    published: '2025-07-28T05:35:35+00:00'
+  - title: Shaking the Foundations of the Deep State in France
+    url: https://sonar21.com/shaking-the-foundations-of-the-deep-state-in-france/
+    text: 'When I first heard the claim that Emmanuel Macron’s “wife” was actually a
+      dude, I was skeptical. I thought, “no one could be that reckless and crazy.” Well,
+      I was wrong. Xavier Poussard, an intrepid pitbull of a journalist, doggedly and
+      meticulously pursued the story and has produced solid evidence that the French
+      President married a transgender man who has identified as a woman since the 1970s.
+      His book, Becoming Brigitte , is now available. Candace Owens, who is routinely
+      described in the mainstream press as a conspiracy kook , has devoted  several
+      episodes of her YouTube channel to this story. She is simply reporting on the
+      details collected by Mr. Poussard, but has just been sued for defamation by the
+      Macrons. That case is going to be laughed out of court in the United States because
+      she is simply reporting on the work of a journalist, who also has been sued by
+      the Macrons. Morons! If you do an AI search on Poussard’s work, you get this as
+      the typical answer (This is from Perplexity AI): Xavier Poussard, a French journalist
+      known for his book “Becoming Brigitte,” was sued by French President Emmanuel
+      Macron and Brigitte Macron for alleged cyber-harassment and defamation, following
+      his involvement in spreading conspiracy theories about Brigitte Macron’s identity.
+      As of July 2025, the Macrons have filed their lawsuit against Poussard after a
+      surge in online claims—some of which trace back to his reporting and publications—which
+      allege, without evidence, that Brigitte Macron was “born a man.” Poussard now
+      resides in Italy, reportedly citing safety concerns after the controversy escalated.
+      The lawsuits by the Macrons have received international attention, with similar
+      actions launched against others making these claims, notably American commentator
+      Candace Owens. The legal action against Poussard is part of a broader effort by
+      the Macrons to counter what they describe as a “campaign of global humiliation”
+      and cyber-harassment rooted in persistent online conspiracy theories This shows
+      you how corrupt and biased these AI engines are. Nothing to see here. Move along.
+      Poussard presents several pieces of documentary and photographic evidence in support
+      of his claim that Brigitte Macron is transgender (specifically, that she was born
+      male as Jean-Michel Trogneux, her brother’s name, and later assumed a female identity).
+      Poussard points to Brigitte Macron’s physical appearance, such as broad shoulders,
+      slim hips, and certain mannerisms (e.g., how she sits or walks), as indicators
+      that she was born male. But it is the photographic evidence and the lack of photographic
+      evidence that seals the case. Poussard shows that there are no accessible photos
+      of a young Brigitte, with former schools refusing to release images and town halls
+      reluctant to share birth certificates. Poussard would be a fool to make this claim
+      if “Brigitte” could produce the photos from all of her school yearbooks, photos
+      of her pregnant, photos of her playing with her alleged children. The Macrons
+      have steadfastly refused to release what would be a powerful refutation and a
+      financial death sentence for Poussard. But then there is this photo: Brigitte
+      on the left and Jean-Michel Trogneux on the right Poussard used facial-recognition
+      software to evaluate a number of photos. This one above shows Jean-Michel Trogneux,
+      allegedly Brigitte’s brother, when he was 18. Hell, you don’t even need software
+      to see the resemblance. Poussard also highlights a lack of documented accounts
+      for Jean-Michel Trogneux in some family records, despite his appearance in family
+      photos and references (e.g., at Brigitte’s 1974 wedding), implying identity theft
+      or fabrication. What is so chilling and horrific about this affair is that the
+      sexual relationship between Emmanuel Macron, as a 15-year old student, and his
+      39-year old teacher, who identified as a woman, is accepted as normal. Yet the
+      whole story of how Emmanuel rose from obscurity, working as a favored employee
+      in the Rothschild bank, gets put into the Presidency of France. The media and
+      the AI-machines are going out of their way to pretend this is a non-story being
+      pushed by crazy people. Brigitte Macron filed a defamation lawsuit in France in
+      early 2022 against journalist Natacha Rey and Xavier Poussard, the editor of the
+      far-right publication Faits et Documents, over articles and investigations they
+      published claiming that she was born male (as Jean-Michel Trogneux, her brother’s
+      name) and had stolen another person’s identity. In September 2023, a lower court
+      in Lisieux convicted Rey and Roy (Poussard’s direct involvement in the trial is
+      noted in some reports as co-accused or source), ordering them to pay €8,000 in
+      damages to Brigitte Macron and €5,000 to her brother. However, on July 10, 2025,
+      the Caen Court of Appeal overturned the conviction, acquitting Rey (and by extension
+      clearing related claims involving Poussard), ruling the allegations did not constitute
+      defamation. I encourage you to watch Candace Owens interview Xavier Poussard.
+      It is free, but is not posted on YouTube because the censors don’t want you to
+      hear the evidence and make up your own mind. I found Mr. Poussard very compelling.
+      https://candaceowens.com/video/becoming-brigitte-candace-owens-x-xavier-poussard-ep-6
+      So how is this relevant to the horrific chaos unfolding in the world today, especially
+      in Gaza and Ukraine? If you watch the six episodes that comprise Candace’s telling
+      of the Brigitte Macron story — Becoming Brigitte — you will come away with a pretty
+      good understanding that Emmanuel Macron is a creation of some very powerful people
+      and a realization that we have been blackpilled . What is amazing is that the
+      Macrons have been able to pull off this scam and the French society has swallowed
+      the lie hook, line and sinker . The world is not what it seems and it is clear
+      we are being fed a steady diet of bullshit . I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Journalist Xavier Poussard claims to have evidence that French
+      President Emmanuel Macron is married to a transgender man, a story that has gained
+      attention through Candace Owens' YouTube channel, leading to defamation lawsuits
+      from the Macrons against both Owens and Poussard.
+    paragraph_summary: The article discusses the controversial claims made by journalist
+      Xavier Poussard in his book "Becoming Brigitte," which alleges that French President
+      Emmanuel Macron's wife, Brigitte Macron, is a transgender man who has identified
+      as a woman since the 1970s. Despite initial skepticism, the claims have gained
+      traction, particularly through the promotion by commentator Candace Owens, who
+      has faced a defamation lawsuit from the Macrons for discussing Poussard's findings.
+      The Macrons have taken legal action against Poussard and others to combat what
+      they describe as a "campaign of global humiliation" and cyber-harassment stemming
+      from these conspiracy theories. Poussard has reportedly moved to Italy due to
+      safety concerns following the backlash from his controversial assertions.
+    published: '2025-07-28T05:35:35+00:00'
+  - title: Did Donald Trump Make a Secret Deal with South Park?
+    url: https://sonar21.com/did-donald-trump-make-a-secret-deal-with-south-park/
+    text: 'I am compelled to comment on Trump’s new feud with the creators of the adult
+      cartoon show, South Park , because Trump’s actions are likely to make their first
+      show of the 27th Season go viral. For those not familiar with South Park , it
+      has been an equal opportunity offender since it first premiered. The creators
+      of South Par k are Trey Parker and Matt Stone. They co-created the show and have
+      served as its main writers, directors, and voice actors since its debut in 1997.
+      No subject or issue has been off-limits. They’ve made fun of Jews, Christians,
+      Muslims, Saddam Hussein, Transgenders, homosexuals, heterosexuals, etc. In their
+      first episode of Season 27, they go after Donald Trump, Paramount , Sixty Minutes
+      , and Evangelical Christians. Yes, some will be offended by the material. The
+      gist of the plot is that Trump threatens to sue the citizens of South Park, who
+      are upset that Jesus has returned and is attending their children’s school. At
+      a couple of points in the episode, the Trump character is shown naked, with a
+      tiny penis, climbing into bed with Satan. If you are looking for drama or a great
+      story line, don’t watch this show. It is brutal political satire. So what does
+      Trump do? Instead of ignoring, and even laughing about it, he gets mad and sends
+      out one of his press flacks to attack the show. The White House strongly criticized
+      the South Park premiere episode, with White House spokeswoman Taylor Rogers calling
+      the show “fourth-rate” and accusing it of making a “desperate attempt for attention.”
+      She also charged the political left with hypocrisy, stating they had long criticized
+      South Park for offensive content, but now praised it. Rogers disparaged the show
+      as no longer relevant for over two decades and described it as “hanging on by
+      a thread with uninspired ideas.” Way to focus a spotlight on a show that most
+      Americans don’t watch. Makes me wonder if Trump had a secret deal with Matt and
+      Trey to publicize their show. Nothing like free publicity, courtesy of Donald
+      Trump. All he had to do was ignore it. Nope. Trump can’t do that. Instead, I think
+      he is now going to help, albeit inadvertently, Paramount win back some of the
+      money it paid out to the President over a lawsuit he brought against 60 Minutes
+      , for election interference. Paramount inked a $1.5 billion deal with the South
+      Park creators last week and Trump’s attack on the show will likely make it go
+      viral. It may become one of the most watched episodes ever. If that happens, Paramount
+      will be rolling in the dough. The following video explains the politics and economics
+      behind South Park , and gives you a flavor of the comedy… Monty Python would be
+      proud: Now back to more serious matters. I recorded a monologue on the root cause
+      of the War in Ukraine and discussed why Trump does not understand this critical
+      point. It was published on Counter Currents yesterday, but I saved it for today…
+      it is not time sensitive: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses how Donald Trump's feud with the creators
+      of South Park is likely to boost the virality of the show's Season 27 premiere,
+      which satirizes Trump, Paramount, Sixty Minutes, and Evangelical Christians by
+      depicting a storyline where Trump threatens to sue South Park residents upset
+      about Jesus attending their children's school.
+    paragraph_summary: The article discusses Donald Trump's recent feud with the creators
+      of the animated series South Park, which is known for its provocative satire on
+      various subjects. The show's 27th season premiere features a storyline where Trump
+      threatens to sue the citizens of South Park over their outrage at Jesus attending
+      their children's school, depicting Trump in a ridiculous light. Instead of dismissing
+      the satire, Trump reacted angrily, with a White House spokesperson criticizing
+      the show as "fourth-rate" and irrelevant, which paradoxically draws more attention
+      to it. The author suggests that Trump's reaction may inadvertently boost the show's
+      visibility, questioning whether there was an unspoken agreement between Trump
+      and the show's creators to generate publicity.
+    published: '2025-07-27T03:55:09+00:00'
+  - title: Did Donald Trump Make a Secret Deal with South Park?
+    url: https://sonar21.com/did-donald-trump-make-a-secret-deal-with-south-park/
+    text: 'I am compelled to comment on Trump’s new feud with the creators of the adult
+      cartoon show, South Park , because Trump’s actions are likely to make their first
+      show of the 27th Season go viral. For those not familiar with South Park , it
+      has been an equal opportunity offender since it first premiered. The creators
+      of South Par k are Trey Parker and Matt Stone. They co-created the show and have
+      served as its main writers, directors, and voice actors since its debut in 1997.
+      No subject or issue has been off-limits. They’ve made fun of Jews, Christians,
+      Muslims, Saddam Hussein, Transgenders, homosexuals, heterosexuals, etc. In their
+      first episode of Season 27, they go after Donald Trump, Paramount , Sixty Minutes
+      , and Evangelical Christians. Yes, some will be offended by the material. The
+      gist of the plot is that Trump threatens to sue the citizens of South Park, who
+      are upset that Jesus has returned and is attending their children’s school. At
+      a couple of points in the episode, the Trump character is shown naked, with a
+      tiny penis, climbing into bed with Satan. If you are looking for drama or a great
+      story line, don’t watch this show. It is brutal political satire. So what does
+      Trump do? Instead of ignoring, and even laughing about it, he gets mad and sends
+      out one of his press flacks to attack the show. The White House strongly criticized
+      the South Park premiere episode, with White House spokeswoman Taylor Rogers calling
+      the show “fourth-rate” and accusing it of making a “desperate attempt for attention.”
+      She also charged the political left with hypocrisy, stating they had long criticized
+      South Park for offensive content, but now praised it. Rogers disparaged the show
+      as no longer relevant for over two decades and described it as “hanging on by
+      a thread with uninspired ideas.” Way to focus a spotlight on a show that most
+      Americans don’t watch. Makes me wonder if Trump had a secret deal with Matt and
+      Trey to publicize their show. Nothing like free publicity, courtesy of Donald
+      Trump. All he had to do was ignore it. Nope. Trump can’t do that. Instead, I think
+      he is now going to help, albeit inadvertently, Paramount win back some of the
+      money it paid out to the President over a lawsuit he brought against 60 Minutes
+      , for election interference. Paramount inked a $1.5 billion deal with the South
+      Park creators last week and Trump’s attack on the show will likely make it go
+      viral. It may become one of the most watched episodes ever. If that happens, Paramount
+      will be rolling in the dough. The following video explains the politics and economics
+      behind South Park , and gives you a flavor of the comedy… Monty Python would be
+      proud: Now back to more serious matters. I recorded a monologue on the root cause
+      of the War in Ukraine and discussed why Trump does not understand this critical
+      point. It was published on Counter Currents yesterday, but I saved it for today…
+      it is not time sensitive: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses how Donald Trump's feud with the creators
+      of South Park is likely to boost the virality of the show's Season 27 premiere,
+      which satirizes Trump, Paramount, Sixty Minutes, and Evangelical Christians by
+      depicting a storyline where Trump threatens to sue South Park residents upset
+      about Jesus attending their children's school.
+    paragraph_summary: The article discusses Donald Trump's recent feud with the creators
+      of the animated series South Park, which is known for its provocative satire on
+      various subjects. The show's 27th season premiere features a storyline where Trump
+      threatens to sue the citizens of South Park over their outrage at Jesus attending
+      their children's school, depicting Trump in a ridiculous light. Instead of dismissing
+      the satire, Trump reacted angrily, with a White House spokesperson criticizing
+      the show as "fourth-rate" and irrelevant, which paradoxically draws more attention
+      to it. The author suggests that Trump's reaction may inadvertently boost the show's
+      visibility, questioning whether there was an unspoken agreement between Trump
+      and the show's creators to generate publicity.
+    published: '2025-07-27T03:55:09+00:00'
+  - title: Intel and Law Enforcement Tried to Entrap Trump
+    url: https://sonar21.com/intel-and-law-enforcement-tried-to-entrap-trump/
+    text: 'James Clapper, John Brennan and James Comey I appeared for the second time
+      this week on Danny Davis Deep Dive , specifically to discuss Tulsi Gabbard’s declassification
+      of documents concerning Russiagate . (The video is posted at the end of this piece.)
+      I want to share with you an article I wrote and published in May 2019 — The Campaign
+      to Paint Trump as a Russian Stooge Started on May 4, 2016 . I am not trying to
+      exonerate Trump of his role in using Tulsi’s information dump to divert attention
+      away from the Jeffrey Epstein affair… I think it is disgraceful. But as you read
+      the article, ask yourself this question: “How did Johnson ferret all of this information
+      out in 2019, while Donald Trump and his team of lawyers sat on their asses and
+      did nothing to publicize this type of information?” Hell, they could have declassified
+      the documents that would have further buttressed my claims, but they did nothing.
+      BEGIN THE 2019 ARTICLE: Forget 31 July 2016 as the alleged start date for the
+      full blown Trump counter intelligence investigation. That day is a sham. The actual
+      campaign to paint Trump as a full fledged stooge of Russia started in early May
+      2016. We now know the start date thanks to the text messages between star-crossed
+      lovers Strzok and Page and the timeline buried in the Mueller Report: It is important
+      to understand that the collection of intelligence on U.S. Presidential candidates
+      was not limited to Donald Trump. The collection effort started in the summer of
+      2015 and included the main Republican candidates and, according to a knowledgeable
+      source, also targeted Bernie Sanders. Also remember that the Presidential campaign
+      is a dynamic event that changes over time. In the summer of 2015, the conventional
+      wisdom touted Jeb Bush as the likely nominee. But as the months passed the field
+      narrowed. By March of 2016, Donald Trump was the leader and appeared likely to
+      garner the nomination. April was the turning point where the foundation for attacking
+      Trump was being laid. The law firm, Perkins Coie, hired Fusion GPS on behalf of
+      Hillary Clinton’s campaign . Andy McMarthy reported on the details of this arrangement
+      in October 2017: The Clinton campaign and the DNC retained the law firm of Perkins
+      Coie; in turn, one of its partners, Marc E. Elias, retained Fusion GPS. We don’t
+      know how much Fusion GPS was paid, but the Clinton campaign and the DNC paid $9.1
+      million to Perkins Coie during the 2016 campaign (i.e., between mid-2015 and late
+      2016). Fusion GPS then “hired” FBI Informant Christopher Steele in May 2016. More
+      about that later. As Lisa Page and Peter Strzok noted in their text exchange,
+      Ted Cruz dropping out of the race in early May was the catalyst for focusing all
+      resources on Donald Trump. This effort, which I label, the Trump Russia covert
+      action, involved the CIA, the NSA, the FBI and British Intelligence. How do we
+      know? Just look at the Robert Mueller Report: May 4, 2016, George Papadopolous
+      forwarded to Corey Lewandowski an email from Timofeev [who was introduced to Papadopolous
+      by Joseph Mifsud] raising the possibility of a meeting in Moscow , asking Lewandowski
+      whether that was ” something we want to move forward with. ” The next day, Papadopoulos
+      forwarded the same Timofeev email to Sam Clovis, adding to the top of the email
+      “Russia update.” (From Mueller Report) May 4, 2016, FBI Informant Felix Sater
+      followed up with Michael Cohen re Trump Tower Moscow Project: “I had a chat with
+      Moscow. ASSUMING the trip does happen the question is before or after the convention.
+      I said I believe, but don’t know for sure, that ‘s it’s probably after the convention.
+      Obviously the pre-meeting trip (you only) can happen anytime you want but the
+      2 big guys where [sic] the question. I said I would confirm and revert. . . .
+      Let me know about If I was right by saying I believe after Cleveland and also
+      when you want to speak to them and possibly fly over.” (From Mueller Report) May
+      5, 2016, FBI Informant Felix Sater wrote to Michael Cohen: “Peskov would like
+      to invite you as his guest to the St. Petersburg Forum which is Russia’s Davos
+      it’s June 16-19. He wants to meet there with you and possibly introduce you to
+      either Putin or Medvedev , as they are not sure if 1 or both will be there. This
+      is perfect. The entire business class of Russia wiU be there as well. He said
+      anything you want to discuss including dates and subjects are on the table to
+      discuss[. ]” (From Mueller Report) May 6, 2016, George Papadopoulos suggested
+      to a representative of a foreign government [i.e., Erika Thompson, senior aide
+      to Alexander Downer] that the Trump Campaign had received indications from the
+      Russian government that it could assist the Campaign through the anonymous release
+      of information that would be damaging to candidate Clinton. (p. 81 Mueller Report)
+      May 6, 2016, two military attachés at the US embassy in London, Terrence Dudley
+      and Gregory Baker, reach out to George Papadopolous to set up a meeting.” [Both,
+      per Papadopolous are with Defense Intelligence Agency, { https://books.apple.com/us/book/deep-state-target/id1446495998
+      ) (From Papadopolous Book) May 7, 2016 (12 days before becoming campaign chair
+      for Trump’s) Paul Manafort meets with Konstantin Kilimnik, a Russian national
+      who has lived in both Russia and Ukraine and was a longtime Manafort employee.
+      (From Mueller Report) [NOTE—Mueller’s team identified this as “suspect” activity
+      that needed to be investigated.] May 16, 2016, while that request was still under
+      consideration, Carter Page emailed Clovis, J.D. Gordon, and Walid Phares and suggested
+      that candidate Trump take his place speaking at the commencement ceremony in Moscow.
+      (From Mueller Report) May 19, 2016, Paul Manafort was promoted to campaign chairman
+      and chief strategist, and Gates, who had been assisting Manafort on the Campaign,
+      was appointed deputy campaign chairman. (From Mueller Report) [NOTE—the Mueller
+      team believed that Manafort was acting on behalf of Russian interests but failed
+      to find corroborating evidence.] May 2016, the IRA created the Twitter account
+      @march_for_trump , which promoted IRA-organized rallies in support of the Trump
+      Campaign  (From Mueller Report May 2016– FBI Informant Henry Oknyansky (who also
+      went by the name Henry Greenberg), claimed to have information pertaining to Hillary
+      Clinton. Michael Caputo notified Roger Stone and brokered communication between
+      Stone and Oknyansky. Oknyansky and Stone set up a May 2016 in-person meeting.
+      (From Mueller Report) Then we have this little tidbit courtesy of the Washington
+      Post that the CIA acted, perhaps as early as June 2016 : John Brennan convened
+      a secret task force at CIA headquarters composed of several dozen analysts and
+      officers from the CIA, the NSA and the FBI. The unit functioned as a sealed compartment,
+      its work hidden from the rest of the intelligence community. Those brought in
+      signed new non-disclosure agreements to be granted access to intelligence from
+      all three participating agencies. They worked exclusively for two groups of “customers,”
+      officials said. The first was Obama and fewer than 14 senior officials in government.
+      The second was a team of operations specialists at the CIA, NSA and FBI who took
+      direction from the task force on where to aim their subsequent efforts to collect
+      more intelligence on Russia. Investigators must get the date that this CIA task
+      force was established. They also need to identify and interview the people who
+      participated and were cleared to work on this task force. President Trump must
+      understand that this was not a legitimate intelligence operation. It was weaponizing
+      the intel community to act against a Presidential candidate. It was manufactured
+      as part of a broader plan to paint Trump as a tool of Putin and a servant of Russia.
+      We must take a new look at the story told about the so-called Russian hack of
+      the DNC. I believe that Crowd Strike is lying about its role and the timeline.
+      Here is the “official” story May 6, 2016, Dmitri Alperovitch woke up in a Los
+      Angeles hotel to an alarming email. Alperovitch is the thirty-six-year-old cofounder
+      of the cybersecurity firm CrowdStrike, and late the previous night, his company
+      had been asked by the Democratic National Committee to investigate a possible
+      breach of its network. A CrowdStrike security expert had sent the DNC a proprietary
+      software package, called Falcon, that monitors the networks of its clients in
+      real time. Falcon “lit up,” the email said, within ten seconds of being installed
+      at the DNC: Russia was in the network. (From Esquire– Esquire Magazine offers
+      a different timeline) We are asked to believe that the Russians were in the DNC
+      network on the 6 th of May and that Crowd Strike knew it. But what steps did Crowd
+      Strike take to shut down the “Russians.” Short answer—nothing until June 10 th
+      . The DNC emails were taken on the 25 th of May 2016. That is the last date for
+      the DNC emails posted on Wikileaks. Washington Post reporter Ellen Nakashima and
+      Esquire magazine each reported that that the CrowdStrike effort did not shut down
+      the DNC network until 10 June. If you know on May 6 th that the “Russians” are
+      in the network, why does any credible, competent cyber security company wait until
+      the 10 th of June to shut the system down? I believe this is a cover story. Here
+      is what I think really happened. Seth Rich, a DNC employee and Bernie Sanders
+      supporter, downloaded the emails and then gave them to Wikileaks. Rich was in
+      contact with Wikileaks. That is not my opinion. We know that courtesy of a FOIA
+      request by lawyer Ty Clevenger to the NSA filed in November 2017, who requested
+      any information regarding Seth Rich and Julian Assange. The NSA informed Clevenger
+      in a letter dated 4 October 2018 that: Your request has been processed under the
+      provisions of the FOIA. Fifteen documents (32 pages) responsive to your request
+      have been reviewed by this Agency as required by the FOIA and have found to be
+      currently and properly classified in accordance with Executive Order 13526. These
+      documents meet the criteria for classification as set forth in Subparagraph ©
+      of Section 1.4 and remains classified TOP SECRET and SECRET.” Former NSA Technical
+      Director, William Binney commented on this revelation: Ty Clevenger has FOIAed
+      information from NSA asking for any data that involved both Seth Rich and also
+      Julian Assange. And they responded by saying we’ve got 15 files, 32 pages, but
+      they’re all classified in accordance with executive order 13526 covering classification,
+      and therefore you can’t have them. That says that NSA has records of communications
+      between Seth Rich and Julian Assange. I mean, that’s the only business that NSA
+      is in — copying communications between people and devices. We already know, as
+      noted above, that the CIA had a task force set up. I believe this intelligence
+      was communicated to the Clinton campaign and that a bogus story, with Crowd Strike
+      in a starring role, was cooked up. Implausible? Not as implausible as a supposed
+      cracker jack cyber security company waiting almost six weeks before taking common
+      sense steps to shut down and clean the DNC servers. It was Crowd Strike with the
+      help of the Washington Post that went public and pinned the blame on the Russians.
+      But that was not the only active measure in place. Christopher Steele, a fully
+      signed up FBI informant, was hired by Fusion GPS and produced his first block
+      buster report on June 20 th claiming Trump was under the thumb of Vladimir Putin.
+      This is not a complete timeline. More remains to be discovered. But there are
+      key facts that most of the media and punditry have ignored. Donald Trump’s announcement
+      tonight (Thursday, 23 May 2019) to start declassifying documents on the Trump
+      counter intelligence investigation and directing the intelligence agencies to
+      cooperate may be the final straw that ends the conspiracy of ignorance. END ARTICLE
+      Colonel Lawrence Wilkerson and I had a chat with Nima today about the latest developments
+      in the war in Ukraine and in West Asia, which includes Iran and the Palestinians:
+      Here is my chat with Danny Davis about the Obama Coup : I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: James Clapper, John Brennan, and James Comey discussed Tulsi
+      Gabbard's declassification of Russiagate documents on Danny Davis Deep Dive, prompting
+      reflection on the lack of action from Trump and his team in publicizing similar
+      information that could have supported claims made in a 2019 article.
+    paragraph_summary: James Clapper, John Brennan, and James Comey recently appeared
+      on Danny Davis's Deep Dive to discuss Tulsi Gabbard's declassification of documents
+      related to the Russiagate investigation. The author references an article from
+      May 2019, arguing that the campaign to portray Trump as a Russian stooge began
+      on May 4, 2016, rather than the commonly cited date of July 31, 2016. The author
+      criticizes Trump and his legal team for failing to publicize information that
+      could have supported their case, suggesting that intelligence collection on presidential
+      candidates, including Trump and Bernie Sanders, began in 2015 and evolved as the
+      campaign progressed. The piece emphasizes the need for accountability and transparency
+      regarding the origins of the investigation into Trump's ties to Russia.
+    published: '2025-07-26T02:18:54+00:00'
+  - title: Intel and Law Enforcement Tried to Entrap Trump
+    url: https://sonar21.com/intel-and-law-enforcement-tried-to-entrap-trump/
+    text: 'James Clapper, John Brennan and James Comey I appeared for the second time
+      this week on Danny Davis Deep Dive , specifically to discuss Tulsi Gabbard’s declassification
+      of documents concerning Russiagate . (The video is posted at the end of this piece.)
+      I want to share with you an article I wrote and published in May 2019 — The Campaign
+      to Paint Trump as a Russian Stooge Started on May 4, 2016 . I am not trying to
+      exonerate Trump of his role in using Tulsi’s information dump to divert attention
+      away from the Jeffrey Epstein affair… I think it is disgraceful. But as you read
+      the article, ask yourself this question: “How did Johnson ferret all of this information
+      out in 2019, while Donald Trump and his team of lawyers sat on their asses and
+      did nothing to publicize this type of information?” Hell, they could have declassified
+      the documents that would have further buttressed my claims, but they did nothing.
+      BEGIN THE 2019 ARTICLE: Forget 31 July 2016 as the alleged start date for the
+      full blown Trump counter intelligence investigation. That day is a sham. The actual
+      campaign to paint Trump as a full fledged stooge of Russia started in early May
+      2016. We now know the start date thanks to the text messages between star-crossed
+      lovers Strzok and Page and the timeline buried in the Mueller Report: It is important
+      to understand that the collection of intelligence on U.S. Presidential candidates
+      was not limited to Donald Trump. The collection effort started in the summer of
+      2015 and included the main Republican candidates and, according to a knowledgeable
+      source, also targeted Bernie Sanders. Also remember that the Presidential campaign
+      is a dynamic event that changes over time. In the summer of 2015, the conventional
+      wisdom touted Jeb Bush as the likely nominee. But as the months passed the field
+      narrowed. By March of 2016, Donald Trump was the leader and appeared likely to
+      garner the nomination. April was the turning point where the foundation for attacking
+      Trump was being laid. The law firm, Perkins Coie, hired Fusion GPS on behalf of
+      Hillary Clinton’s campaign . Andy McMarthy reported on the details of this arrangement
+      in October 2017: The Clinton campaign and the DNC retained the law firm of Perkins
+      Coie; in turn, one of its partners, Marc E. Elias, retained Fusion GPS. We don’t
+      know how much Fusion GPS was paid, but the Clinton campaign and the DNC paid $9.1
+      million to Perkins Coie during the 2016 campaign (i.e., between mid-2015 and late
+      2016). Fusion GPS then “hired” FBI Informant Christopher Steele in May 2016. More
+      about that later. As Lisa Page and Peter Strzok noted in their text exchange,
+      Ted Cruz dropping out of the race in early May was the catalyst for focusing all
+      resources on Donald Trump. This effort, which I label, the Trump Russia covert
+      action, involved the CIA, the NSA, the FBI and British Intelligence. How do we
+      know? Just look at the Robert Mueller Report: May 4, 2016, George Papadopolous
+      forwarded to Corey Lewandowski an email from Timofeev [who was introduced to Papadopolous
+      by Joseph Mifsud] raising the possibility of a meeting in Moscow , asking Lewandowski
+      whether that was ” something we want to move forward with. ” The next day, Papadopoulos
+      forwarded the same Timofeev email to Sam Clovis, adding to the top of the email
+      “Russia update.” (From Mueller Report) May 4, 2016, FBI Informant Felix Sater
+      followed up with Michael Cohen re Trump Tower Moscow Project: “I had a chat with
+      Moscow. ASSUMING the trip does happen the question is before or after the convention.
+      I said I believe, but don’t know for sure, that ‘s it’s probably after the convention.
+      Obviously the pre-meeting trip (you only) can happen anytime you want but the
+      2 big guys where [sic] the question. I said I would confirm and revert. . . .
+      Let me know about If I was right by saying I believe after Cleveland and also
+      when you want to speak to them and possibly fly over.” (From Mueller Report) May
+      5, 2016, FBI Informant Felix Sater wrote to Michael Cohen: “Peskov would like
+      to invite you as his guest to the St. Petersburg Forum which is Russia’s Davos
+      it’s June 16-19. He wants to meet there with you and possibly introduce you to
+      either Putin or Medvedev , as they are not sure if 1 or both will be there. This
+      is perfect. The entire business class of Russia wiU be there as well. He said
+      anything you want to discuss including dates and subjects are on the table to
+      discuss[. ]” (From Mueller Report) May 6, 2016, George Papadopoulos suggested
+      to a representative of a foreign government [i.e., Erika Thompson, senior aide
+      to Alexander Downer] that the Trump Campaign had received indications from the
+      Russian government that it could assist the Campaign through the anonymous release
+      of information that would be damaging to candidate Clinton. (p. 81 Mueller Report)
+      May 6, 2016, two military attachés at the US embassy in London, Terrence Dudley
+      and Gregory Baker, reach out to George Papadopolous to set up a meeting.” [Both,
+      per Papadopolous are with Defense Intelligence Agency, { https://books.apple.com/us/book/deep-state-target/id1446495998
+      ) (From Papadopolous Book) May 7, 2016 (12 days before becoming campaign chair
+      for Trump’s) Paul Manafort meets with Konstantin Kilimnik, a Russian national
+      who has lived in both Russia and Ukraine and was a longtime Manafort employee.
+      (From Mueller Report) [NOTE—Mueller’s team identified this as “suspect” activity
+      that needed to be investigated.] May 16, 2016, while that request was still under
+      consideration, Carter Page emailed Clovis, J.D. Gordon, and Walid Phares and suggested
+      that candidate Trump take his place speaking at the commencement ceremony in Moscow.
+      (From Mueller Report) May 19, 2016, Paul Manafort was promoted to campaign chairman
+      and chief strategist, and Gates, who had been assisting Manafort on the Campaign,
+      was appointed deputy campaign chairman. (From Mueller Report) [NOTE—the Mueller
+      team believed that Manafort was acting on behalf of Russian interests but failed
+      to find corroborating evidence.] May 2016, the IRA created the Twitter account
+      @march_for_trump , which promoted IRA-organized rallies in support of the Trump
+      Campaign  (From Mueller Report May 2016– FBI Informant Henry Oknyansky (who also
+      went by the name Henry Greenberg), claimed to have information pertaining to Hillary
+      Clinton. Michael Caputo notified Roger Stone and brokered communication between
+      Stone and Oknyansky. Oknyansky and Stone set up a May 2016 in-person meeting.
+      (From Mueller Report) Then we have this little tidbit courtesy of the Washington
+      Post that the CIA acted, perhaps as early as June 2016 : John Brennan convened
+      a secret task force at CIA headquarters composed of several dozen analysts and
+      officers from the CIA, the NSA and the FBI. The unit functioned as a sealed compartment,
+      its work hidden from the rest of the intelligence community. Those brought in
+      signed new non-disclosure agreements to be granted access to intelligence from
+      all three participating agencies. They worked exclusively for two groups of “customers,”
+      officials said. The first was Obama and fewer than 14 senior officials in government.
+      The second was a team of operations specialists at the CIA, NSA and FBI who took
+      direction from the task force on where to aim their subsequent efforts to collect
+      more intelligence on Russia. Investigators must get the date that this CIA task
+      force was established. They also need to identify and interview the people who
+      participated and were cleared to work on this task force. President Trump must
+      understand that this was not a legitimate intelligence operation. It was weaponizing
+      the intel community to act against a Presidential candidate. It was manufactured
+      as part of a broader plan to paint Trump as a tool of Putin and a servant of Russia.
+      We must take a new look at the story told about the so-called Russian hack of
+      the DNC. I believe that Crowd Strike is lying about its role and the timeline.
+      Here is the “official” story May 6, 2016, Dmitri Alperovitch woke up in a Los
+      Angeles hotel to an alarming email. Alperovitch is the thirty-six-year-old cofounder
+      of the cybersecurity firm CrowdStrike, and late the previous night, his company
+      had been asked by the Democratic National Committee to investigate a possible
+      breach of its network. A CrowdStrike security expert had sent the DNC a proprietary
+      software package, called Falcon, that monitors the networks of its clients in
+      real time. Falcon “lit up,” the email said, within ten seconds of being installed
+      at the DNC: Russia was in the network. (From Esquire– Esquire Magazine offers
+      a different timeline) We are asked to believe that the Russians were in the DNC
+      network on the 6 th of May and that Crowd Strike knew it. But what steps did Crowd
+      Strike take to shut down the “Russians.” Short answer—nothing until June 10 th
+      . The DNC emails were taken on the 25 th of May 2016. That is the last date for
+      the DNC emails posted on Wikileaks. Washington Post reporter Ellen Nakashima and
+      Esquire magazine each reported that that the CrowdStrike effort did not shut down
+      the DNC network until 10 June. If you know on May 6 th that the “Russians” are
+      in the network, why does any credible, competent cyber security company wait until
+      the 10 th of June to shut the system down? I believe this is a cover story. Here
+      is what I think really happened. Seth Rich, a DNC employee and Bernie Sanders
+      supporter, downloaded the emails and then gave them to Wikileaks. Rich was in
+      contact with Wikileaks. That is not my opinion. We know that courtesy of a FOIA
+      request by lawyer Ty Clevenger to the NSA filed in November 2017, who requested
+      any information regarding Seth Rich and Julian Assange. The NSA informed Clevenger
+      in a letter dated 4 October 2018 that: Your request has been processed under the
+      provisions of the FOIA. Fifteen documents (32 pages) responsive to your request
+      have been reviewed by this Agency as required by the FOIA and have found to be
+      currently and properly classified in accordance with Executive Order 13526. These
+      documents meet the criteria for classification as set forth in Subparagraph ©
+      of Section 1.4 and remains classified TOP SECRET and SECRET.” Former NSA Technical
+      Director, William Binney commented on this revelation: Ty Clevenger has FOIAed
+      information from NSA asking for any data that involved both Seth Rich and also
+      Julian Assange. And they responded by saying we’ve got 15 files, 32 pages, but
+      they’re all classified in accordance with executive order 13526 covering classification,
+      and therefore you can’t have them. That says that NSA has records of communications
+      between Seth Rich and Julian Assange. I mean, that’s the only business that NSA
+      is in — copying communications between people and devices. We already know, as
+      noted above, that the CIA had a task force set up. I believe this intelligence
+      was communicated to the Clinton campaign and that a bogus story, with Crowd Strike
+      in a starring role, was cooked up. Implausible? Not as implausible as a supposed
+      cracker jack cyber security company waiting almost six weeks before taking common
+      sense steps to shut down and clean the DNC servers. It was Crowd Strike with the
+      help of the Washington Post that went public and pinned the blame on the Russians.
+      But that was not the only active measure in place. Christopher Steele, a fully
+      signed up FBI informant, was hired by Fusion GPS and produced his first block
+      buster report on June 20 th claiming Trump was under the thumb of Vladimir Putin.
+      This is not a complete timeline. More remains to be discovered. But there are
+      key facts that most of the media and punditry have ignored. Donald Trump’s announcement
+      tonight (Thursday, 23 May 2019) to start declassifying documents on the Trump
+      counter intelligence investigation and directing the intelligence agencies to
+      cooperate may be the final straw that ends the conspiracy of ignorance. END ARTICLE
+      Colonel Lawrence Wilkerson and I had a chat with Nima today about the latest developments
+      in the war in Ukraine and in West Asia, which includes Iran and the Palestinians:
+      Here is my chat with Danny Davis about the Obama Coup : I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: James Clapper, John Brennan, and James Comey discussed Tulsi
+      Gabbard's declassification of Russiagate documents on Danny Davis Deep Dive, prompting
+      reflection on the lack of action from Trump and his team in publicizing similar
+      information that could have supported claims made in a 2019 article.
+    paragraph_summary: James Clapper, John Brennan, and James Comey recently appeared
+      on Danny Davis's Deep Dive to discuss Tulsi Gabbard's declassification of documents
+      related to the Russiagate investigation. The author references an article from
+      May 2019, arguing that the campaign to portray Trump as a Russian stooge began
+      on May 4, 2016, rather than the commonly cited date of July 31, 2016. The author
+      criticizes Trump and his legal team for failing to publicize information that
+      could have supported their case, suggesting that intelligence collection on presidential
+      candidates, including Trump and Bernie Sanders, began in 2015 and evolved as the
+      campaign progressed. The piece emphasizes the need for accountability and transparency
+      regarding the origins of the investigation into Trump's ties to Russia.
+    published: '2025-07-26T02:18:54+00:00'
+  - title: Tulsi Gabbard’s Revelations… Why Now?
+    url: https://sonar21.com/tulsi-gabbards-revelations-why-now/
+    text: 'My friend, Randy Credico, is angry with Tulsi for trotting out the newly
+      declassified documents showing that Barack Obama, John Brennan, Jim Clapper and
+      James Comey conspired to convince the American public that Trump’s surprising
+      win in the 2016 Presidential election was because of Russian interference. He
+      is not mad about the content… he is angry because this appears to be a deliberate
+      strategy to divert attention away from the Jeffrey Epstein fiasco. While the intelligence
+      that Tulsi has released is credible and certainly implicates Obama and his team
+      in a conspiracy to defraud the American public, I agree with Randy. Why now? I
+      was writing extensively on Russiagate starting in 2016 — my blog, NoQuarter was
+      still operating — and I was in touch with former colleagues who were still active
+      in the intelligence community. They told me that the Russiagate was a contrivance,
+      orchestrated by the CIA with an assist from the FBI. But it was not just the CIA…
+      The CIA was using foreign intelligence services, which included MI-6, GCHQ, the
+      Australian Secret Intelligence Service (ASIS), and others. What started in the
+      summer of 2015 with the CIA compiling information collected by the Brits, the
+      French and the Belgians on all aspiring US candidates running for president (except
+      for Hillary Clinton), by January 2016 it had evolved into a complex international
+      intelligence operation designed to paint Donald Trump as a tool of the Russians.
+      So here is the question? Why didn’t Donald Trump declassify this information in
+      his first term? Why didn’t Trump direct Office of the Director of National Intelligence
+      to conduct an investigation and declassify the information back then? The Directors
+      of National Intelligence (DNI) during Donald Trump’s first presidential term (2017–2021)
+      were: • Dan Coats (March 16, 2017 – August 15, 2019) • Joseph Maguire (Acting,
+      August 16, 2019 – February 20, 2020) • Richard Grenell (Acting, February 20, 2020
+      – May 26, 2020) • John Ratcliffe (May 26, 2020 – January 20, 2021) As I indicated
+      above, I am happy that this information is now being divulged. But I cannot ignore
+      the appearance that it is being released now in order to bury interest in the
+      Jeffrey Epstein story and Trump’s 15-year relationship with the man. There are
+      some prominent podcasters who have pretty large audiences — e.g., Candace Owens,
+      Dave Smith, Chris Hedges and Joe Rogan — who are pushing back at Trump and vowing
+      to continue to focus on the story. Candace, who is a longtime Trump supporter,
+      is outraged by Trump’s handling of this matter and is bringing a lot of heat on
+      Trump. The CBS News/YouGov poll conducted July 18-21 carries some very bad news
+      for Trump: President Donald Trump’s approval rating among voters under 30 has
+      plunged over the past six months, according to the latest CBS News/YouGov poll
+      conducted July 18-21. The survey, conducted among 1,729 adult citizens, found
+      that 66% of voters aged 18-29 disapprove of Trump’s job performance. Only 28%
+      of young voters approve , while 6% said they were unsure. Just six months earlier
+      , a January CBS/YouGov survey found this same age group was the most optimistic
+      about Trump’s return to the White House, with 67% expressing optimism. Overall,
+      Trump’s net approval rating stands at -15, the lowest of his second term. About
+      55% of Americans disapprove of his job performance, while 41% approve and 4% are
+      unsure. RealClearPolitics’ polling average puts Trump’s disapproval rating at
+      around 53%, with about 46% approving. On key issues, the poll showed negative
+      net approval across the board. National security stood at -2, immigration at -6,
+      foreign policy at -11, jobs and the economy at -12, foreign trade at -15, and
+      inflation/prices at -29. Inflation remains the top concern for Americans , with
+      21% identifying it as their most important issue, followed by jobs and economy
+      at 14%, health care at 10%, and immigration at 9%. The poll also revealed broad
+      public interest in government transparency regarding the Jeffrey Epstein case.
+      Eighty-one percent of Americans want all documents related to Epstein released.
+      Two-thirds — including 84% of Democrats and 53% of Republicans — think the government
+      is covering up evidence regarding his client list and death. I don’t think Trump
+      can reverse this, especially if new revelations drop, which I expect. Garland
+      Nixon and I touched on this towards the end of our hour together, but we spent
+      most of our time together discussing NATO as the root cause of the war in Ukraine:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Randy Credico is frustrated with Tulsi Gabbard for releasing
+      declassified documents implicating Obama and his team in a conspiracy regarding
+      Russian interference in the 2016 election, believing it serves as a distraction
+      from the Jeffrey Epstein scandal, despite the credibility of the intelligence
+      presented.
+    paragraph_summary: Randy Credico expresses frustration with Tulsi Gabbard for releasing
+      newly declassified documents that implicate former President Obama and his intelligence
+      officials in a conspiracy to mislead the public about Russian interference in
+      the 2016 election, suggesting it is a distraction from the ongoing Jeffrey Epstein
+      scandal. The article reflects on the author's past involvement in discussing the
+      Russiagate narrative, which they believe was orchestrated by the CIA with help
+      from foreign intelligence agencies to undermine Donald Trump. The author questions
+      why Trump did not declassify this information during his presidency, despite having
+      multiple Directors of National Intelligence who could have facilitated such an
+      investigation.
+    published: '2025-07-25T03:35:38+00:00'
+  - title: Tulsi Gabbard’s Revelations… Why Now?
+    url: https://sonar21.com/tulsi-gabbards-revelations-why-now/
+    text: 'My friend, Randy Credico, is angry with Tulsi for trotting out the newly
+      declassified documents showing that Barack Obama, John Brennan, Jim Clapper and
+      James Comey conspired to convince the American public that Trump’s surprising
+      win in the 2016 Presidential election was because of Russian interference. He
+      is not mad about the content… he is angry because this appears to be a deliberate
+      strategy to divert attention away from the Jeffrey Epstein fiasco. While the intelligence
+      that Tulsi has released is credible and certainly implicates Obama and his team
+      in a conspiracy to defraud the American public, I agree with Randy. Why now? I
+      was writing extensively on Russiagate starting in 2016 — my blog, NoQuarter was
+      still operating — and I was in touch with former colleagues who were still active
+      in the intelligence community. They told me that the Russiagate was a contrivance,
+      orchestrated by the CIA with an assist from the FBI. But it was not just the CIA…
+      The CIA was using foreign intelligence services, which included MI-6, GCHQ, the
+      Australian Secret Intelligence Service (ASIS), and others. What started in the
+      summer of 2015 with the CIA compiling information collected by the Brits, the
+      French and the Belgians on all aspiring US candidates running for president (except
+      for Hillary Clinton), by January 2016 it had evolved into a complex international
+      intelligence operation designed to paint Donald Trump as a tool of the Russians.
+      So here is the question? Why didn’t Donald Trump declassify this information in
+      his first term? Why didn’t Trump direct Office of the Director of National Intelligence
+      to conduct an investigation and declassify the information back then? The Directors
+      of National Intelligence (DNI) during Donald Trump’s first presidential term (2017–2021)
+      were: • Dan Coats (March 16, 2017 – August 15, 2019) • Joseph Maguire (Acting,
+      August 16, 2019 – February 20, 2020) • Richard Grenell (Acting, February 20, 2020
+      – May 26, 2020) • John Ratcliffe (May 26, 2020 – January 20, 2021) As I indicated
+      above, I am happy that this information is now being divulged. But I cannot ignore
+      the appearance that it is being released now in order to bury interest in the
+      Jeffrey Epstein story and Trump’s 15-year relationship with the man. There are
+      some prominent podcasters who have pretty large audiences — e.g., Candace Owens,
+      Dave Smith, Chris Hedges and Joe Rogan — who are pushing back at Trump and vowing
+      to continue to focus on the story. Candace, who is a longtime Trump supporter,
+      is outraged by Trump’s handling of this matter and is bringing a lot of heat on
+      Trump. The CBS News/YouGov poll conducted July 18-21 carries some very bad news
+      for Trump: President Donald Trump’s approval rating among voters under 30 has
+      plunged over the past six months, according to the latest CBS News/YouGov poll
+      conducted July 18-21. The survey, conducted among 1,729 adult citizens, found
+      that 66% of voters aged 18-29 disapprove of Trump’s job performance. Only 28%
+      of young voters approve , while 6% said they were unsure. Just six months earlier
+      , a January CBS/YouGov survey found this same age group was the most optimistic
+      about Trump’s return to the White House, with 67% expressing optimism. Overall,
+      Trump’s net approval rating stands at -15, the lowest of his second term. About
+      55% of Americans disapprove of his job performance, while 41% approve and 4% are
+      unsure. RealClearPolitics’ polling average puts Trump’s disapproval rating at
+      around 53%, with about 46% approving. On key issues, the poll showed negative
+      net approval across the board. National security stood at -2, immigration at -6,
+      foreign policy at -11, jobs and the economy at -12, foreign trade at -15, and
+      inflation/prices at -29. Inflation remains the top concern for Americans , with
+      21% identifying it as their most important issue, followed by jobs and economy
+      at 14%, health care at 10%, and immigration at 9%. The poll also revealed broad
+      public interest in government transparency regarding the Jeffrey Epstein case.
+      Eighty-one percent of Americans want all documents related to Epstein released.
+      Two-thirds — including 84% of Democrats and 53% of Republicans — think the government
+      is covering up evidence regarding his client list and death. I don’t think Trump
+      can reverse this, especially if new revelations drop, which I expect. Garland
+      Nixon and I touched on this towards the end of our hour together, but we spent
+      most of our time together discussing NATO as the root cause of the war in Ukraine:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: Randy Credico is frustrated with Tulsi Gabbard for releasing
+      declassified documents implicating Obama and his team in a conspiracy regarding
+      Russian interference in the 2016 election, believing it serves as a distraction
+      from the Jeffrey Epstein scandal, despite the credibility of the intelligence
+      presented.
+    paragraph_summary: Randy Credico expresses frustration with Tulsi Gabbard for releasing
+      newly declassified documents that implicate former President Obama and his intelligence
+      officials in a conspiracy to mislead the public about Russian interference in
+      the 2016 election, suggesting it is a distraction from the ongoing Jeffrey Epstein
+      scandal. The article reflects on the author's past involvement in discussing the
+      Russiagate narrative, which they believe was orchestrated by the CIA with help
+      from foreign intelligence agencies to undermine Donald Trump. The author questions
+      why Trump did not declassify this information during his presidency, despite having
+      multiple Directors of National Intelligence who could have facilitated such an
+      investigation.
+    published: '2025-07-25T03:35:38+00:00'
+  - title: Adelsons’ $400M Influence-Peddling Play Helps Shapes Trump’s Mideast Policy
+    url: https://sonar21.com/adelsons-400m-influence-peddling-play-helps-shapes-trumps-mideast-policy/
+    text: 'Israel’s military is currently annexing the Gaza Strip, resulting in the
+      displacement of approximately 1.9 million Gazans and a tragic death toll of 56,000.
+      President Trump described Gaza by saying, “Think of it as a real estate development
+      for the future. It will be a beautiful piece of land.” But not for the people
+      who live in Gaza. Donald Trump, on Gaza: “…I would own this. Think of it as a
+      real estate development for the future. It will be a beautiful piece of land.”
+      Q: Will Palestinians have the right to return? Trump: No, they wouldn''t. If they
+      have to return now, it’d be years…it’s not habitable pic.twitter.com/qhu9E2aFNp
+      — Prem Thakker (@prem_thakker) February 10, 2025 Recently, the Israeli Knesset
+      voted to annex the West Bank, posing a serious threat to around 3.2 million Palestinians
+      who risk dispossession and loss of their homeland. Additionally, Israel’s recent
+      military actions in the Golan Heights, following the collapse of the Assad regime
+      in Syria, amount to a de facto annexation of that territory. Israel defends its
+      actions by citing security, strategic necessity, and historical ties, along with
+      the Torah’s influence, which portrays the Land of Israel as a divine inheritance
+      for the Jewish people. Israel has initiated a series of preemptive military operations
+      aimed at Iran’s nuclear and military infrastructure. This proactive and provocative
+      approach seeks to disrupt Iran’s pursuit of atomic weapons, which Israel considers
+      an imminent existential threat since 1995. Trump has resolutely affirmed his unwavering
+      support for Israel and Prime Minister Benjamin Netanyahu. His strong stance reflects
+      a deep commitment to Israel’s military initiatives and the strategic annexation
+      of territories, which is displacing millions of Palestinians and could potentially
+      escalate into a regional war. Influence-Peddling Donations Sheldon and Miriam
+      Adelson, influential Zionists and dual citizens of Israel, made a remarkable $400
+      million (per Grok) in political donations over the last three presidential elections.
+      This substantial financial support helped buy political influence, significantly
+      shaped Trump’s pro-Israel agenda, and contributed to his election in 2016 and
+      re-election in 2024. For those unfamiliar with the Adelsons’ background, Miriam
+      Adelson, who inherited the fortune of her late husband, Sheldon Adelson (died
+      January 11, 2021), has an estimated net worth of $36 billion as of 2025. This
+      wealth primarily comes from their ownership of Las Vegas Sands Corp. This global
+      casino empire has sparked debates about the ethics and impacts of the gaming industry’s
+      negative societal influence. Notably, Jewish billionaires contributing to Trump’s
+      2024 campaign include Jan Koum ($2.4 million), Ike and Laura Perlmutter ($25 million),
+      Bernie Marcus ($2.7 million), Jeff Yass (over $25 million), Stephen Schwarzman
+      (unspecified millions), and Marc Rowan ($1 million). These large donations and
+      the Adelsons are not against the law; they illustrate the issue of influence peddling
+      in American politics. Adelson’s backing was crucial in enabling Trump’s 2019 recognition
+      of Israeli sovereignty over the Golan Heights and his assertion that West Bank
+      settlements should not be considered illegal. This bias was evident in the appointment
+      of individuals like Pastor Mike Huckabee as the U.S. Ambassador to Israel, who
+      cites biblical claims to support Israel’s position. Trump’s endorsement of Israel’s
+      strikes on Hezbollah and Iran supports the Adelsons’ and Netanyahu’s ambition
+      to diminish Iran’s influence in the region. However, this entrenched pro-Israel
+      bias compromises the United States’ ability to facilitate meaningful peace negotiations.
+      If Trump reduces his support for Israel, he risks alienating key donors vital
+      for funding important GOP initiatives, such as the Congressional Leadership Fund.
+      Losing their backing could significantly weaken his strategy for the 2026 midterms
+      and put the Trump Organization’s financial interests at risk, including investments
+      in Trump meme coins, USD1 stable coin, and the upcoming public offering of American
+      Bitcoin, a Bitcoin mining company. Trump Paroles Israel Spy Jonathan Pollard is
+      a former American intelligence analyst who became a dual citizen and was imprisoned
+      for espionage on behalf of Israel. He received a life sentence for violating the
+      Espionage Act. During his time as a spy, he revealed numerous state secrets and
+      disclosed the identities of thousands of individuals connected to U.S. intelligence
+      agencies, putting their lives at risk. On January 21, 2021, Trump paroled Jonathan
+      Pollard and pardoned his handler, who the U.S did not prosecute, Israeli Aviem
+      Sella, a parting gift from Trump to Netanyahu facilitated by Adelsons advocacy.
+      Jonathan Pollard, the US-born Jewish-American intel analyst who stole US military
+      secrets & sold them to Israel, was flown out of the US on Trump-megadonor Sheldon
+      Adelson''s private plane. Pollard received a hero''s welcome by PM Benjamin Netanyahu.
+      pic.twitter.com/6Jbudm0zMs — Stew Peters (@realstewpeters) January 15, 2025 President
+      Trump has accomplished significant policy victories, including strengthening border
+      security and repatriating migrants, dismantling divisive DEI initiatives, enacting
+      impactful economic and tax reforms, and promoting energy deregulation to boost
+      growth. Nevertheless, his shortcomings in managing foreign conflicts in the Middle
+      East and Ukraine/Russia significantly weaken his achievements. Bob Bishop is a
+      forensic investigator and retired CPA.'
+    one_sentence_summary: Israel's military is annexing the Gaza Strip, displacing 1.9
+      million residents and causing a death toll of 56,000, while President Trump controversially
+      likens the region to a future real estate development, dismissing the right of
+      Palestinians to return.
+    paragraph_summary: Israel's military actions have led to the annexation of the Gaza
+      Strip, displacing around 1.9 million Gazans and resulting in a death toll of 56,000,
+      while President Trump has controversially referred to Gaza as a potential "real
+      estate development." His comments suggest a disregard for the rights of Palestinians,
+      stating they would not have the right to return to their homes. The Israeli Knesset's
+      recent vote to annex the West Bank threatens an additional 3.2 million Palestinians,
+      and military operations in the Golan Heights further indicate a de facto annexation
+      of that territory. Israel justifies its actions through security concerns and
+      historical claims, while Trump has expressed strong support for these initiatives,
+      which could lead to increased regional tensions. Additionally, influential donors
+      like Sheldon and Miriam Adelson have contributed significantly to political campaigns,
+      underscoring the intertwining of financial influence and political support for
+      Israel's military strategies.
+    published: '2025-07-24T13:51:12+00:00'
+  - title: Adelsons’ $400M Influence-Peddling Play Helps Shapes Trump’s Mideast Policy
+    url: https://sonar21.com/adelsons-400m-influence-peddling-play-helps-shapes-trumps-mideast-policy/
+    text: 'Israel’s military is currently annexing the Gaza Strip, resulting in the
+      displacement of approximately 1.9 million Gazans and a tragic death toll of 56,000.
+      President Trump described Gaza by saying, “Think of it as a real estate development
+      for the future. It will be a beautiful piece of land.” But not for the people
+      who live in Gaza. Donald Trump, on Gaza: “…I would own this. Think of it as a
+      real estate development for the future. It will be a beautiful piece of land.”
+      Q: Will Palestinians have the right to return? Trump: No, they wouldn''t. If they
+      have to return now, it’d be years…it’s not habitable pic.twitter.com/qhu9E2aFNp
+      — Prem Thakker (@prem_thakker) February 10, 2025 Recently, the Israeli Knesset
+      voted to annex the West Bank, posing a serious threat to around 3.2 million Palestinians
+      who risk dispossession and loss of their homeland. Additionally, Israel’s recent
+      military actions in the Golan Heights, following the collapse of the Assad regime
+      in Syria, amount to a de facto annexation of that territory. Israel defends its
+      actions by citing security, strategic necessity, and historical ties, along with
+      the Torah’s influence, which portrays the Land of Israel as a divine inheritance
+      for the Jewish people. Israel has initiated a series of preemptive military operations
+      aimed at Iran’s nuclear and military infrastructure. This proactive and provocative
+      approach seeks to disrupt Iran’s pursuit of atomic weapons, which Israel considers
+      an imminent existential threat since 1995. Trump has resolutely affirmed his unwavering
+      support for Israel and Prime Minister Benjamin Netanyahu. His strong stance reflects
+      a deep commitment to Israel’s military initiatives and the strategic annexation
+      of territories, which is displacing millions of Palestinians and could potentially
+      escalate into a regional war. Influence-Peddling Donations Sheldon and Miriam
+      Adelson, influential Zionists and dual citizens of Israel, made a remarkable $400
+      million (per Grok) in political donations over the last three presidential elections.
+      This substantial financial support helped buy political influence, significantly
+      shaped Trump’s pro-Israel agenda, and contributed to his election in 2016 and
+      re-election in 2024. For those unfamiliar with the Adelsons’ background, Miriam
+      Adelson, who inherited the fortune of her late husband, Sheldon Adelson (died
+      January 11, 2021), has an estimated net worth of $36 billion as of 2025. This
+      wealth primarily comes from their ownership of Las Vegas Sands Corp. This global
+      casino empire has sparked debates about the ethics and impacts of the gaming industry’s
+      negative societal influence. Notably, Jewish billionaires contributing to Trump’s
+      2024 campaign include Jan Koum ($2.4 million), Ike and Laura Perlmutter ($25 million),
+      Bernie Marcus ($2.7 million), Jeff Yass (over $25 million), Stephen Schwarzman
+      (unspecified millions), and Marc Rowan ($1 million). These large donations and
+      the Adelsons are not against the law; they illustrate the issue of influence peddling
+      in American politics. Adelson’s backing was crucial in enabling Trump’s 2019 recognition
+      of Israeli sovereignty over the Golan Heights and his assertion that West Bank
+      settlements should not be considered illegal. This bias was evident in the appointment
+      of individuals like Pastor Mike Huckabee as the U.S. Ambassador to Israel, who
+      cites biblical claims to support Israel’s position. Trump’s endorsement of Israel’s
+      strikes on Hezbollah and Iran supports the Adelsons’ and Netanyahu’s ambition
+      to diminish Iran’s influence in the region. However, this entrenched pro-Israel
+      bias compromises the United States’ ability to facilitate meaningful peace negotiations.
+      If Trump reduces his support for Israel, he risks alienating key donors vital
+      for funding important GOP initiatives, such as the Congressional Leadership Fund.
+      Losing their backing could significantly weaken his strategy for the 2026 midterms
+      and put the Trump Organization’s financial interests at risk, including investments
+      in Trump meme coins, USD1 stable coin, and the upcoming public offering of American
+      Bitcoin, a Bitcoin mining company. Trump Paroles Israel Spy Jonathan Pollard is
+      a former American intelligence analyst who became a dual citizen and was imprisoned
+      for espionage on behalf of Israel. He received a life sentence for violating the
+      Espionage Act. During his time as a spy, he revealed numerous state secrets and
+      disclosed the identities of thousands of individuals connected to U.S. intelligence
+      agencies, putting their lives at risk. On January 21, 2021, Trump paroled Jonathan
+      Pollard and pardoned his handler, who the U.S did not prosecute, Israeli Aviem
+      Sella, a parting gift from Trump to Netanyahu facilitated by Adelsons advocacy.
+      Jonathan Pollard, the US-born Jewish-American intel analyst who stole US military
+      secrets & sold them to Israel, was flown out of the US on Trump-megadonor Sheldon
+      Adelson''s private plane. Pollard received a hero''s welcome by PM Benjamin Netanyahu.
+      pic.twitter.com/6Jbudm0zMs — Stew Peters (@realstewpeters) January 15, 2025 President
+      Trump has accomplished significant policy victories, including strengthening border
+      security and repatriating migrants, dismantling divisive DEI initiatives, enacting
+      impactful economic and tax reforms, and promoting energy deregulation to boost
+      growth. Nevertheless, his shortcomings in managing foreign conflicts in the Middle
+      East and Ukraine/Russia significantly weaken his achievements. Bob Bishop is a
+      forensic investigator and retired CPA.'
+    one_sentence_summary: Israel's military is annexing the Gaza Strip, displacing 1.9
+      million residents and causing a death toll of 56,000, while President Trump controversially
+      likens the region to a future real estate development, dismissing the right of
+      Palestinians to return.
+    paragraph_summary: Israel's military actions have led to the annexation of the Gaza
+      Strip, displacing around 1.9 million Gazans and resulting in a death toll of 56,000,
+      while President Trump has controversially referred to Gaza as a potential "real
+      estate development." His comments suggest a disregard for the rights of Palestinians,
+      stating they would not have the right to return to their homes. The Israeli Knesset's
+      recent vote to annex the West Bank threatens an additional 3.2 million Palestinians,
+      and military operations in the Golan Heights further indicate a de facto annexation
+      of that territory. Israel justifies its actions through security concerns and
+      historical claims, while Trump has expressed strong support for these initiatives,
+      which could lead to increased regional tensions. Additionally, influential donors
+      like Sheldon and Miriam Adelson have contributed significantly to political campaigns,
+      underscoring the intertwining of financial influence and political support for
+      Israel's military strategies.
+    published: '2025-07-24T13:51:12+00:00'
+  - title: NATO Expansion — The Root Cause of the War in Ukraine
+    url: https://sonar21.com/nato-expansion-the-root-cause-of-the-war-in-ukraine/
+    text: 'I know there is a lot of interest in the Jeffrey Epstein story and the new
+      revelations from Tulsi Gabbard about Barack Obama and his team’s efforts to fan
+      the flames of Russiagate . I have been all over the Russiagate matter since 2017.
+      Here is the link to a piece I published on December 18, 2018 with the nifty title,
+      The Trump Coup Is a Threat to Our Republic . I am glad the information is finally
+      coming out, but I knew this seven years ago. What took them so long? While Tulsi’s
+      revelations are legit, I think she is releasing this information now to distract
+      attention away from the Jeffrey Epstein scandal. Trump is getting killed in the
+      polls — reportedly he is down 40% points on this issue. For now, I want to focus
+      on the war in Ukraine, i.e., the Special Military Operation (SMO), and clarify
+      Russia’s motivation and objective for ending that conflict. We keep hearing the
+      phrase, root causes . Russia wants the West to address the root causes . Ok, what
+      are those? I think it is pretty simple — read the draft treaty that Vladimir Putin
+      presented to Joe Biden in December 2021 and then you will understand. To spare
+      you reading the entire document (I have linked to it in the next paragraph) I
+      am going to summarize the key points. The draft “Treaty between the United States
+      of America and the Russian Federation on Security Guarantees” that Russia presented
+      to Biden in December 2021, outlined a series of far-reaching security demands,
+      reflecting Russia’s intent to reshape the post-Cold War security architecture
+      in Europe. Here are the key points from the published text : No Further NATO Expansion
+      • The US would commit to preventing further enlargement of NATO, specifically
+      barring Ukraine and other former Soviet republics from joining the alliance. •
+      This also included a ban on NATO military activity in Ukraine, Eastern Europe,
+      the Caucasus, and Central Asia. No Deployment of US Forces or Weapons in Certain
+      Countries • The treaty would forbid the US from deploying military forces or weaponry
+      in countries that joined NATO after May 1997 (such as Poland, the Baltic states,
+      Romania, and others). • NATO infrastructure would have to be rolled back to pre-1997
+      locations. Ban on Intermediate-Range Missiles • Both Russia and the US would be
+      prohibited from deploying ground-launched intermediate-range and shorter-range
+      missiles outside their national territories, as well as in areas of their own
+      territory where such missiles could strike the other’s territory. Limit Military
+      Maneuvers and Activities • Limits on heavy bombers and surface warship deployments:
+      Both sides would restrict the operation of heavy bombers and warships in areas
+      from which they could strike targets on the other’s territory. (Note: In September
+      2020, Trump’s DOD authorized a B-52 to fly along the Ukrainian coast in the Black
+      Sea.) Nuclear Weapons Restrictions • All nuclear weapons would be confined to
+      each country’s own national territory. Neither side could deploy nuclear weapons
+      outside its borders. (Note: US just sent a batch of nukes to England.) • Withdrawal
+      of all US nuclear weapons from Europe and elimination of existing infrastructure
+      for their deployment abroad. Mutual Security Pledge • Each side would agree not
+      to take any security measures that could undermine the core security interests
+      of the other party. Establishment of Consultation Mechanisms • Proposals included
+      the renewal or strengthening of direct consultation mechanisms, such as the NATO–Russia
+      Council and the establishment of a crisis hotline. Indivisibility of Security
+      Principle • Included a reaffirmation that the security of one state cannot come
+      at the expense of the security of another, formalizing Russia’s interpretation
+      of the “indivisible security” concept. Instead of engaging the Russians in negotiations
+      on these matters, Biden’s Secretary of State, Antony Blinken, essentially told
+      Russia’s Foreign Minister Lavrov, that Russia could take the treaty and shove
+      it up its own ass. So much for diplomacy. Had the US agreed to discuss the draft
+      treaty with the Russians, the SMO would not have been launched in February 2022.
+      But that is the critical point… The US had no intention of seeking a peaceful
+      settlement with Russia. For example, the CIA, using DOD cover, had already invested
+      tens of millions of dollars in bio labs scattered throughout Ukraine. According
+      to Russia’s Ministry of Defense, it recovered documents that identified a network
+      of 30 US-funded biological laboratories in Ukraine that were conducting research
+      on dangerous pathogens as part of a bioweapons program. Ukraine was nothing more
+      than a  pawn in a Western game of strategic chess, with the ultimate goal of wrecking
+      Russia and taking control of its natural resources. The West was not ready to
+      quit that game. Until NATO’s threat to Russia is taken off the table, the Russia’s
+      war with the West will continue… It represents an existential threat to the Russian
+      people. The talks in Turkey between Russia and Ukraine do nothing to address or
+      resolve the root causes. I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The author expresses skepticism about Tulsi Gabbard's recent
+      revelations regarding Barack Obama's involvement in Russiagate, suggesting they
+      may serve as a distraction from the Jeffrey Epstein scandal, while emphasizing
+      a desire to focus on the war in Ukraine and the need to address its root causes.
+    paragraph_summary: The article discusses recent revelations by Tulsi Gabbard regarding
+      Barack Obama's involvement in the Russiagate narrative, while the author expresses
+      skepticism about the timing of these disclosures, suggesting they may serve as
+      a distraction from the ongoing Jeffrey Epstein scandal and Trump's declining poll
+      numbers. The author, who has been engaged with the Russiagate issue since 2017,
+      shifts focus to the war in Ukraine, emphasizing the importance of understanding
+      Russia's motivations and objectives. He highlights a draft treaty presented by
+      Vladimir Putin to Joe Biden in December 2021, which outlines Russia's security
+      demands, including a halt to NATO expansion and restrictions on U.S. military
+      presence in certain regions, indicating Russia's desire to reshape the post-Cold
+      War security framework in Europe.
+    published: '2025-07-24T03:16:52+00:00'
+  - title: NATO Expansion — The Root Cause of the War in Ukraine
+    url: https://sonar21.com/nato-expansion-the-root-cause-of-the-war-in-ukraine/
+    text: 'I know there is a lot of interest in the Jeffrey Epstein story and the new
+      revelations from Tulsi Gabbard about Barack Obama and his team’s efforts to fan
+      the flames of Russiagate . I have been all over the Russiagate matter since 2017.
+      Here is the link to a piece I published on December 18, 2018 with the nifty title,
+      The Trump Coup Is a Threat to Our Republic . I am glad the information is finally
+      coming out, but I knew this seven years ago. What took them so long? While Tulsi’s
+      revelations are legit, I think she is releasing this information now to distract
+      attention away from the Jeffrey Epstein scandal. Trump is getting killed in the
+      polls — reportedly he is down 40% points on this issue. For now, I want to focus
+      on the war in Ukraine, i.e., the Special Military Operation (SMO), and clarify
+      Russia’s motivation and objective for ending that conflict. We keep hearing the
+      phrase, root causes . Russia wants the West to address the root causes . Ok, what
+      are those? I think it is pretty simple — read the draft treaty that Vladimir Putin
+      presented to Joe Biden in December 2021 and then you will understand. To spare
+      you reading the entire document (I have linked to it in the next paragraph) I
+      am going to summarize the key points. The draft “Treaty between the United States
+      of America and the Russian Federation on Security Guarantees” that Russia presented
+      to Biden in December 2021, outlined a series of far-reaching security demands,
+      reflecting Russia’s intent to reshape the post-Cold War security architecture
+      in Europe. Here are the key points from the published text : No Further NATO Expansion
+      • The US would commit to preventing further enlargement of NATO, specifically
+      barring Ukraine and other former Soviet republics from joining the alliance. •
+      This also included a ban on NATO military activity in Ukraine, Eastern Europe,
+      the Caucasus, and Central Asia. No Deployment of US Forces or Weapons in Certain
+      Countries • The treaty would forbid the US from deploying military forces or weaponry
+      in countries that joined NATO after May 1997 (such as Poland, the Baltic states,
+      Romania, and others). • NATO infrastructure would have to be rolled back to pre-1997
+      locations. Ban on Intermediate-Range Missiles • Both Russia and the US would be
+      prohibited from deploying ground-launched intermediate-range and shorter-range
+      missiles outside their national territories, as well as in areas of their own
+      territory where such missiles could strike the other’s territory. Limit Military
+      Maneuvers and Activities • Limits on heavy bombers and surface warship deployments:
+      Both sides would restrict the operation of heavy bombers and warships in areas
+      from which they could strike targets on the other’s territory. (Note: In September
+      2020, Trump’s DOD authorized a B-52 to fly along the Ukrainian coast in the Black
+      Sea.) Nuclear Weapons Restrictions • All nuclear weapons would be confined to
+      each country’s own national territory. Neither side could deploy nuclear weapons
+      outside its borders. (Note: US just sent a batch of nukes to England.) • Withdrawal
+      of all US nuclear weapons from Europe and elimination of existing infrastructure
+      for their deployment abroad. Mutual Security Pledge • Each side would agree not
+      to take any security measures that could undermine the core security interests
+      of the other party. Establishment of Consultation Mechanisms • Proposals included
+      the renewal or strengthening of direct consultation mechanisms, such as the NATO–Russia
+      Council and the establishment of a crisis hotline. Indivisibility of Security
+      Principle • Included a reaffirmation that the security of one state cannot come
+      at the expense of the security of another, formalizing Russia’s interpretation
+      of the “indivisible security” concept. Instead of engaging the Russians in negotiations
+      on these matters, Biden’s Secretary of State, Antony Blinken, essentially told
+      Russia’s Foreign Minister Lavrov, that Russia could take the treaty and shove
+      it up its own ass. So much for diplomacy. Had the US agreed to discuss the draft
+      treaty with the Russians, the SMO would not have been launched in February 2022.
+      But that is the critical point… The US had no intention of seeking a peaceful
+      settlement with Russia. For example, the CIA, using DOD cover, had already invested
+      tens of millions of dollars in bio labs scattered throughout Ukraine. According
+      to Russia’s Ministry of Defense, it recovered documents that identified a network
+      of 30 US-funded biological laboratories in Ukraine that were conducting research
+      on dangerous pathogens as part of a bioweapons program. Ukraine was nothing more
+      than a  pawn in a Western game of strategic chess, with the ultimate goal of wrecking
+      Russia and taking control of its natural resources. The West was not ready to
+      quit that game. Until NATO’s threat to Russia is taken off the table, the Russia’s
+      war with the West will continue… It represents an existential threat to the Russian
+      people. The talks in Turkey between Russia and Ukraine do nothing to address or
+      resolve the root causes. I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The author expresses skepticism about Tulsi Gabbard's recent
+      revelations regarding Barack Obama's involvement in Russiagate, suggesting they
+      may serve as a distraction from the Jeffrey Epstein scandal, while emphasizing
+      a desire to focus on the war in Ukraine and the need to address its root causes.
+    paragraph_summary: The article discusses recent revelations by Tulsi Gabbard regarding
+      Barack Obama's involvement in the Russiagate narrative, while the author expresses
+      skepticism about the timing of these disclosures, suggesting they may serve as
+      a distraction from the ongoing Jeffrey Epstein scandal and Trump's declining poll
+      numbers. The author, who has been engaged with the Russiagate issue since 2017,
+      shifts focus to the war in Ukraine, emphasizing the importance of understanding
+      Russia's motivations and objectives. He highlights a draft treaty presented by
+      Vladimir Putin to Joe Biden in December 2021, which outlines Russia's security
+      demands, including a halt to NATO expansion and restrictions on U.S. military
+      presence in certain regions, indicating Russia's desire to reshape the post-Cold
+      War security framework in Europe.
+    published: '2025-07-24T03:16:52+00:00'
   - title: Zelensky Losing His Mojo as Russia’s Momentum on the Battlefield Accelerates
     url: https://sonar21.com/zelensky-losing-his-mojo-as-russias-momentum-on-the-battlefield-accelerates/
     text: 'From the Kiev Independent — normally pro-Zelensky While Washington and its

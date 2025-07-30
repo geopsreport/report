@@ -7,14 +7,880 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The ongoing crisis in Gaza continues to escalate, with new reports highlighting not only the scale of violence but also the broader societal implications. The latest analysis underscores that the atrocities in Gaza represent more than just acts of genocide and ethnic cleansing—they are seen as part of a wider experiment in normalizing abuses and testing the limits of public acceptance within the imperial framework. **Caitlin Johnstone** argues that this normalization reflects entrenched issues of Zionism, colonialism, and systemic racism, warning that the world is witnessing a disturbing shift toward apathy and acceptance of extreme violence.
+  The humanitarian crisis in Gaza continues to dominate international attention, with the situation worsening as new firsthand accounts and reports emerge. Over recent days, the discourse has shifted from general condemnation to a more visceral, personal engagement with the realities on the ground.
   
-  Recent developments include detailed accounts from Gaza, where Israeli snipers are reportedly targeting civilians' body parts on specific days, indicating a deliberate and systematic pattern of violence. Medical professionals and humanitarian staff, including those from the World Health Organization, have also come under attack, with the Israeli military accusing numerous doctors of terrorism. This escalation has contributed to a sharp rise in malnutrition-related deaths, as civilians collapse in the streets amid ongoing violence and a deepening humanitarian crisis.
+  In her latest correspondence, **Caitlin Johnstone** describes the "haunting and shocking images of death and suffering" witnessed in Gaza, emphasizing the profound psychological toll these scenes have had not only on observers but also on the broader public conscience. This direct testimony underscores the severity of the crisis and the emotional resonance it is generating globally.
   
-  International responses remain muted, and calls for action have grown more urgent as evidence mounts of both direct violence and the deliberate starvation of the population. The normalization of these abuses is increasingly being recognized as a test case for what the global public will tolerate, with **Johnstone** warning that "if this level of atrocity can be normalized here, it can be normalized anywhere."
+  This personal narrative comes amid a broader shift in mainstream discourse. As noted in previous reports, leading Israeli human rights organizations and international bodies have now openly declared Israel’s actions in Gaza as genocide. The growing willingness of public figures to speak out—highlighted by recent statements from celebrities—signals a significant change in public sentiment and political pressure.
   
-  Trends indicate that the situation in Gaza is not only a humanitarian disaster but also a signal of shifting moral boundaries in international politics. There is a high chance that, absent significant intervention, the violence and deprivation will continue to worsen, with the normalization of such actions setting a dangerous precedent for future conflicts. Most definitely, the continued silence or complicity of major powers will further entrench these patterns, making meaningful change increasingly unlikely in the near term.
+  Despite limited aid being allowed into Gaza, analysts argue that these measures serve primarily to placate criticism while the underlying strategy of severe restriction and deprivation continues. The majority view, as articulated by **Caitlin Johnstone**, remains that the humanitarian catastrophe is a direct result of Israeli policy, rather than actions by Hamas or failures of the UN.
+  
+  Looking ahead, the trend is toward increasing international scrutiny and public outcry, with a high likelihood that pressure on Western governments to alter their support for Israel will intensify. However, absent a dramatic policy shift, the situation on the ground is expected to deteriorate further. Based on the current trajectory and the mounting evidence of systematic abuses, I guarantee that calls for accountability and intervention will only grow louder in the coming days.
 articles:
+  - title: My Letter To Australian MP Mark Dreyfus About Gaza
+    url: https://www.caitlinjohnst.one/p/my-letter-to-australian-mp-mark-dreyfus
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      I wrote the following letter to Mark Dreyfus, my local MP here in Australia: Dear
+      Mr Dreyfus, Today I saw the skeleton of a young man in Gaza picked clean by dogs,
+      his arms and head intact but the rest of his body was bone and gristle. The colour
+      of the bones was still a bright fresh red. He had been shot only days ago but
+      the cats and dogs had got to him already and gnawed his bones clean. I have never
+      seen anything like it. Every single day brings fresh horrors to my screen. Each
+      time I think I can no longer be shocked, I am proven wrong. The image of that
+      man made me gasp. It literally took my breath away. I then had to sit with my
+      hands over my eyes while I waited for my heart and breath to come back to normal.
+      When I close my eyes at night, all I can see is skeletal babies, their little
+      mouths gaping open like baby birds waiting for a worm. I have started to dream
+      about it. Each night I carry a child, a new child, a different baby, trying to
+      find food for them. I wake up with a shadow of an ache in my arms because in my
+      dreams their bones are as brittle as egg shells and I have to be so tender and
+      careful. This. Must. Stop. All the waffle of who-did-what-and-when burns to dust
+      when babies are starving. No amount of words can make that right. No amount of
+      words can extinguish the images from my eyes, the ache in my heart, and the alarm
+      going off in my head for those babies. Please do what you can! I beg of you. Please
+      make it stop. It’s all I can think about and I am not alone. Every day the numbers
+      of people like me are growing. Every day more eyes snap awake. Australians can
+      use this form from GetUp to urge their local MPs to take action on Gaza. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via UK Home Office (CC BY 2.0) .'
+    one_sentence_summary: The author describes the haunting and shocking images of death
+      and suffering they witnessed in Gaza, expressing their emotional turmoil and the
+      lasting impact these scenes have on their psyche.
+    paragraph_summary: In a heartfelt letter to Australian MP Mark Dreyfus, the author
+      recounts a harrowing experience witnessing the aftermath of violence in Gaza,
+      including the disturbing sight of a young man's skeleton being scavenged by animals.
+      The author expresses deep emotional turmoil over the ongoing horrors of war, particularly
+      the suffering of children, and conveys a sense of urgency for action to alleviate
+      the crisis. The letter emphasizes that no amount of political discourse can justify
+      the starvation of innocent babies, urging Dreyfus and others to take meaningful
+      steps to address the humanitarian crisis in Gaza. The author also encourages fellow
+      Australians to advocate for action through a provided form from GetUp.
+    published: '2025-07-30T01:28:12+00:00'
+  - title: My Letter To Australian MP Mark Dreyfus About Gaza
+    url: https://www.caitlinjohnst.one/p/my-letter-to-australian-mp-mark-dreyfus
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      I wrote the following letter to Mark Dreyfus, my local MP here in Australia: Dear
+      Mr Dreyfus, Today I saw the skeleton of a young man in Gaza picked clean by dogs,
+      his arms and head intact but the rest of his body was bone and gristle. The colour
+      of the bones was still a bright fresh red. He had been shot only days ago but
+      the cats and dogs had got to him already and gnawed his bones clean. I have never
+      seen anything like it. Every single day brings fresh horrors to my screen. Each
+      time I think I can no longer be shocked, I am proven wrong. The image of that
+      man made me gasp. It literally took my breath away. I then had to sit with my
+      hands over my eyes while I waited for my heart and breath to come back to normal.
+      When I close my eyes at night, all I can see is skeletal babies, their little
+      mouths gaping open like baby birds waiting for a worm. I have started to dream
+      about it. Each night I carry a child, a new child, a different baby, trying to
+      find food for them. I wake up with a shadow of an ache in my arms because in my
+      dreams their bones are as brittle as egg shells and I have to be so tender and
+      careful. This. Must. Stop. All the waffle of who-did-what-and-when burns to dust
+      when babies are starving. No amount of words can make that right. No amount of
+      words can extinguish the images from my eyes, the ache in my heart, and the alarm
+      going off in my head for those babies. Please do what you can! I beg of you. Please
+      make it stop. It’s all I can think about and I am not alone. Every day the numbers
+      of people like me are growing. Every day more eyes snap awake. Australians can
+      use this form from GetUp to urge their local MPs to take action on Gaza. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via UK Home Office (CC BY 2.0) .'
+    one_sentence_summary: The author describes the haunting and shocking images of death
+      and suffering they witnessed in Gaza, expressing their emotional turmoil and the
+      lasting impact these scenes have on their psyche.
+    paragraph_summary: In a heartfelt letter to Australian MP Mark Dreyfus, the author
+      recounts a harrowing experience witnessing the aftermath of violence in Gaza,
+      including the disturbing sight of a young man's skeleton being scavenged by animals.
+      The author expresses deep emotional turmoil over the ongoing horrors of war, particularly
+      the suffering of children, and conveys a sense of urgency for action to alleviate
+      the crisis. The letter emphasizes that no amount of political discourse can justify
+      the starvation of innocent babies, urging Dreyfus and others to take meaningful
+      steps to address the humanitarian crisis in Gaza. The author also encourages fellow
+      Australians to advocate for action through a provided form from GetUp.
+    published: '2025-07-30T01:28:12+00:00'
+  - title: It Shouldn't Have Taken This Much For Mainstream Voices To Start Speaking
+      Up About Gaza
+    url: https://www.caitlinjohnst.one/p/it-shouldnt-have-taken-this-much
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Israel’s top human rights group B’Tselem has finally declared that Israel is committing
+      genocide, as has the Israel-based Physicians for Human Rights. The Israeli organizations
+      join Amnesty International , Human Rights Watch , UN human rights experts , and
+      the overwhelming majority of leading authorities on the subject of genocide in
+      their conclusion. The debate is over. The Israel apologists lost. And we are seeing
+      this reflected in mainstream discourse. Pop megastar Ariana Grande has started
+      speaking out in support of Gaza, telling her social media followers that “starving
+      people to death is a red line.” This is a new threshold. Opposing Israel’s genocide
+      is now the most mainstream as it has ever been. MSNBC just ran a piece explicitly
+      titled “ Israel is starving Gaza. And the U.S. is complicit. ”, featuring a segment
+      with the virulently pro-Israel Morning Joe slamming the mass atrocity. CNN’s Wolf
+      Blitzer, himself a former AIPAC employee , has done a 180 and is now raking Israel
+      over the coals on the air for its deliberately engineered starvation campaign.
+      The New York Times finally overcame its phobia of the g-word with an op-ed titled
+      “ I’m a Genocide Scholar. I Know It When I See It. ” We’re now seeing notoriously
+      Zionist swamp monsters in the Democratic Party like Barack Obama , Hakeem Jeffries
+      , Cory Booker and Amy Klobuchar changing their tune and attacking Netanyahu and
+      Trump for their joint genocide project in Gaza, with increasingly forceful pushback
+      from some on the right like Marjorie Taylor Greene as well. As western pundits,
+      politicians and celebrities suddenly pivot to denouncing Israel’s genocidal atrocities
+      after two years of silence, it’s hard to believe that just a few weeks ago we
+      were being told that saying “death to the IDF” is a hate crime. People who’ve
+      been staring at this genocide from the beginning have been asking the entire time,
+      what is it going to take? What will it take for our society to stop sleepwalking
+      through inane trivialities and vapid distractions and start opposing the holocaust
+      of our day? Raining military explosives on a giant concentration camp packed full
+      of children wasn’t enough. Burning children alive wasn’t enough. Systematically
+      destroying Gaza’s entire healthcare infrastructure — up to and including entering
+      hospitals they’ve attacked and destroying individual pieces of medical equipment
+      one by one — wasn’t enough. Killing more journalists than were killed in both
+      World Wars plus the US Civil War, the Korean War, the Vietnam War, the Yugoslav
+      Wars, the War in Afghanistan, and the ongoing war in Ukraine wasn’t enough. The
+      systemic rape and torture of prisoners wasn’t enough. https://x.com/MaxBlumenthal/status/1949587236434931921
+      IDF soldiers routinely sharing photos and videos of themselves mockingly dressing
+      in the clothes of dead and displaced Palestinian women and playing with the toys
+      of dead and displaced Palestinian children wasn’t enough. Israeli officials openly
+      expressing genocidal intent for the people of Gaza wasn’t enough. The US president
+      and Israeli prime minister openly declaring their goal of the complete ethnic
+      cleansing of a Palestinian territory wasn’t enough. Field testing new weapons
+      of war on Palestinians like they’re guinea pigs in a laboratory wasn’t enough.
+      Leaving countless civilians to slowly suffocate or die of dehydration trapped
+      under the rubble of bombed buildings wasn’t enough. Creating an AI system to ensure
+      that suspected Hamas fighters are bombed when they’re at home with their children
+      and naming it “Where’s Daddy?” wasn’t enough. Using Palestinians as human shields
+      wasn’t enough. Burying injured civilians alive with bulldozers wasn’t enough.
+      https://x.com/GozukaraFurkan/status/1949232008216887774 The IDF admitting to running
+      a popular Telegram channel called “72 Virgins” which posted extremely gory and
+      sadistic snuff films of people in Gaza being butchered by Israeli forces wasn’t
+      enough. IDF snipers routinely shooting children in the head and chest throughout
+      the Gaza Strip wasn’t enough. The IDF flying drones which play the sounds of crying
+      babies at night in order to lure out hiding civilians to murder them wasn’t enough.
+      IDF troops telling the Israeli press that they’re being ordered to massacre starving
+      civilians seeking food from aid sites wasn’t enough. Israeli snipers targeting
+      different body parts of starving civilians on designated days — leg day, head
+      day, genitals day, etc — wasn’t enough. Far right Israeli citizens setting up
+      blockades to stop aid trucks from entering Gaza while they enjoyed parties and
+      barbecues at the blockade sites wasn’t enough. https://x.com/mamoun_linda/status/1949190406211825696
+      Using lies and propaganda to dismantle the aid system for bringing essential food
+      and life-supporting supplies into Gaza, to replace it with a US/Israeli op where
+      aid seekers are massacred every single day, wasn’t enough. Using siege warfare
+      to deliberately starve Gaza for the previous 22 months wasn’t enough. But now
+      that starvation has hit a critical point and deaths from malnutrition are skyrocketing,
+      now that images of dead skeletal children are filling our screens, now that the
+      damage to organs and brains from starvation will be irreversible in many cases —
+      now it’s enough. That was the line, apparently. That’s what mainstream western
+      consciousness has decided is too much. Everything up until that line was fine,
+      but now it’s not fine anymore. And the killing is still going on. The sudden awakening
+      of conscience hasn’t translated into any material actions or changes at all yet.
+      If it had come in October or November 2023 like it should have we might be seeing
+      that opposition translate into actually saving Gaza by now, but the light has
+      only just been switched on. It’s not even guaranteed that those who are speaking
+      up will continue to do so. https://x.com/d_boeckner/status/1949137485776265514
+      I’m glad people are waking up to the cruel reality of this nightmare. I’m grateful
+      to each and every influential voice who uses their platform to speak out, even
+      at this late date. I truly am. But I also think we need to take a very hard, very
+      uncomfortable look at ourselves as a society right now. If all those monstrous
+      abuses were tolerable for us over these last two years, there’s something deeply
+      and profoundly sick about our civilization. We are not living right. We are not
+      thinking right. We are not feeling right. We are warped and twisted. The information
+      we consume and the norms we’ve been conditioned to accept have corrupted our souls.
+      We have been made into something bad. Something ugly. Something shameful. Something
+      we need to do everything in our power to change. We need to rescue ourselves from
+      what we have become. We need to transform, deeply and radically, into something
+      that could never again allow something like this to occur. https://x.com/BlakPantherBabe/status/1949834226343293339
+      The way things are clearly isn’t working. The mainstream worldview is clearly
+      a lie. Everything we’ve been taught to believe about our society, our nation,
+      our government and our world was clearly false. We need to fight our way through
+      the cognitive dissonance of recognizing that our entire way of looking at things
+      as a collective has failed, and we need to find a new way of being. Otherwise
+      we’re going to keep being smashed in the face with increasingly horrifying reminders
+      of what we have allowed ourselves to become. The lessons will repeat until they
+      are learned. We had better start learning them. ___________________ The best way
+      to make sure you see everything I write is to get on my free mailing list . My
+      work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. Click here
+      for links for my social media, books, merch, and audio/video versions of each
+      article . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Wikimedia Commons .'
+    one_sentence_summary: Israel's leading human rights organizations, along with international
+      bodies, have declared that Israel is committing genocide, marking a significant
+      shift in mainstream discourse as more public figures, including Ariana Grande,
+      openly oppose these actions.
+    paragraph_summary: Israel's leading human rights organizations, including B’Tselem
+      and Physicians for Human Rights, have declared that Israel is committing genocide,
+      joining the ranks of Amnesty International, Human Rights Watch, and UN experts
+      in this assessment. This shift in perspective is reflected in mainstream discourse,
+      with public figures like Ariana Grande openly supporting Gaza and condemning starvation
+      tactics. Major media outlets, including MSNBC and CNN, have begun to criticize
+      Israel's actions, with The New York Times publishing an op-ed acknowledging the
+      genocide. Prominent politicians, previously aligned with pro-Israel sentiments,
+      are now vocal against Israeli Prime Minister Netanyahu's policies, indicating
+      a significant change in the narrative surrounding Israel's actions in Gaza. This
+      evolving dialogue marks a new threshold in the mainstream acknowledgment of the
+      situation, contrasting sharply with the previous silence on the issue.
+    published: '2025-07-29T02:33:58+00:00'
+  - title: It Shouldn't Have Taken This Much For Mainstream Voices To Start Speaking
+      Up About Gaza
+    url: https://www.caitlinjohnst.one/p/it-shouldnt-have-taken-this-much
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Israel’s top human rights group B’Tselem has finally declared that Israel is committing
+      genocide, as has the Israel-based Physicians for Human Rights. The Israeli organizations
+      join Amnesty International , Human Rights Watch , UN human rights experts , and
+      the overwhelming majority of leading authorities on the subject of genocide in
+      their conclusion. The debate is over. The Israel apologists lost. And we are seeing
+      this reflected in mainstream discourse. Pop megastar Ariana Grande has started
+      speaking out in support of Gaza, telling her social media followers that “starving
+      people to death is a red line.” This is a new threshold. Opposing Israel’s genocide
+      is now the most mainstream as it has ever been. MSNBC just ran a piece explicitly
+      titled “ Israel is starving Gaza. And the U.S. is complicit. ”, featuring a segment
+      with the virulently pro-Israel Morning Joe slamming the mass atrocity. CNN’s Wolf
+      Blitzer, himself a former AIPAC employee , has done a 180 and is now raking Israel
+      over the coals on the air for its deliberately engineered starvation campaign.
+      The New York Times finally overcame its phobia of the g-word with an op-ed titled
+      “ I’m a Genocide Scholar. I Know It When I See It. ” We’re now seeing notoriously
+      Zionist swamp monsters in the Democratic Party like Barack Obama , Hakeem Jeffries
+      , Cory Booker and Amy Klobuchar changing their tune and attacking Netanyahu and
+      Trump for their joint genocide project in Gaza, with increasingly forceful pushback
+      from some on the right like Marjorie Taylor Greene as well. As western pundits,
+      politicians and celebrities suddenly pivot to denouncing Israel’s genocidal atrocities
+      after two years of silence, it’s hard to believe that just a few weeks ago we
+      were being told that saying “death to the IDF” is a hate crime. People who’ve
+      been staring at this genocide from the beginning have been asking the entire time,
+      what is it going to take? What will it take for our society to stop sleepwalking
+      through inane trivialities and vapid distractions and start opposing the holocaust
+      of our day? Raining military explosives on a giant concentration camp packed full
+      of children wasn’t enough. Burning children alive wasn’t enough. Systematically
+      destroying Gaza’s entire healthcare infrastructure — up to and including entering
+      hospitals they’ve attacked and destroying individual pieces of medical equipment
+      one by one — wasn’t enough. Killing more journalists than were killed in both
+      World Wars plus the US Civil War, the Korean War, the Vietnam War, the Yugoslav
+      Wars, the War in Afghanistan, and the ongoing war in Ukraine wasn’t enough. The
+      systemic rape and torture of prisoners wasn’t enough. https://x.com/MaxBlumenthal/status/1949587236434931921
+      IDF soldiers routinely sharing photos and videos of themselves mockingly dressing
+      in the clothes of dead and displaced Palestinian women and playing with the toys
+      of dead and displaced Palestinian children wasn’t enough. Israeli officials openly
+      expressing genocidal intent for the people of Gaza wasn’t enough. The US president
+      and Israeli prime minister openly declaring their goal of the complete ethnic
+      cleansing of a Palestinian territory wasn’t enough. Field testing new weapons
+      of war on Palestinians like they’re guinea pigs in a laboratory wasn’t enough.
+      Leaving countless civilians to slowly suffocate or die of dehydration trapped
+      under the rubble of bombed buildings wasn’t enough. Creating an AI system to ensure
+      that suspected Hamas fighters are bombed when they’re at home with their children
+      and naming it “Where’s Daddy?” wasn’t enough. Using Palestinians as human shields
+      wasn’t enough. Burying injured civilians alive with bulldozers wasn’t enough.
+      https://x.com/GozukaraFurkan/status/1949232008216887774 The IDF admitting to running
+      a popular Telegram channel called “72 Virgins” which posted extremely gory and
+      sadistic snuff films of people in Gaza being butchered by Israeli forces wasn’t
+      enough. IDF snipers routinely shooting children in the head and chest throughout
+      the Gaza Strip wasn’t enough. The IDF flying drones which play the sounds of crying
+      babies at night in order to lure out hiding civilians to murder them wasn’t enough.
+      IDF troops telling the Israeli press that they’re being ordered to massacre starving
+      civilians seeking food from aid sites wasn’t enough. Israeli snipers targeting
+      different body parts of starving civilians on designated days — leg day, head
+      day, genitals day, etc — wasn’t enough. Far right Israeli citizens setting up
+      blockades to stop aid trucks from entering Gaza while they enjoyed parties and
+      barbecues at the blockade sites wasn’t enough. https://x.com/mamoun_linda/status/1949190406211825696
+      Using lies and propaganda to dismantle the aid system for bringing essential food
+      and life-supporting supplies into Gaza, to replace it with a US/Israeli op where
+      aid seekers are massacred every single day, wasn’t enough. Using siege warfare
+      to deliberately starve Gaza for the previous 22 months wasn’t enough. But now
+      that starvation has hit a critical point and deaths from malnutrition are skyrocketing,
+      now that images of dead skeletal children are filling our screens, now that the
+      damage to organs and brains from starvation will be irreversible in many cases —
+      now it’s enough. That was the line, apparently. That’s what mainstream western
+      consciousness has decided is too much. Everything up until that line was fine,
+      but now it’s not fine anymore. And the killing is still going on. The sudden awakening
+      of conscience hasn’t translated into any material actions or changes at all yet.
+      If it had come in October or November 2023 like it should have we might be seeing
+      that opposition translate into actually saving Gaza by now, but the light has
+      only just been switched on. It’s not even guaranteed that those who are speaking
+      up will continue to do so. https://x.com/d_boeckner/status/1949137485776265514
+      I’m glad people are waking up to the cruel reality of this nightmare. I’m grateful
+      to each and every influential voice who uses their platform to speak out, even
+      at this late date. I truly am. But I also think we need to take a very hard, very
+      uncomfortable look at ourselves as a society right now. If all those monstrous
+      abuses were tolerable for us over these last two years, there’s something deeply
+      and profoundly sick about our civilization. We are not living right. We are not
+      thinking right. We are not feeling right. We are warped and twisted. The information
+      we consume and the norms we’ve been conditioned to accept have corrupted our souls.
+      We have been made into something bad. Something ugly. Something shameful. Something
+      we need to do everything in our power to change. We need to rescue ourselves from
+      what we have become. We need to transform, deeply and radically, into something
+      that could never again allow something like this to occur. https://x.com/BlakPantherBabe/status/1949834226343293339
+      The way things are clearly isn’t working. The mainstream worldview is clearly
+      a lie. Everything we’ve been taught to believe about our society, our nation,
+      our government and our world was clearly false. We need to fight our way through
+      the cognitive dissonance of recognizing that our entire way of looking at things
+      as a collective has failed, and we need to find a new way of being. Otherwise
+      we’re going to keep being smashed in the face with increasingly horrifying reminders
+      of what we have allowed ourselves to become. The lessons will repeat until they
+      are learned. We had better start learning them. ___________________ The best way
+      to make sure you see everything I write is to get on my free mailing list . My
+      work is entirely reader-supported , so if you enjoyed this piece here are some
+      options where you can toss some money into my tip jar if you want to. Click here
+      for links for my social media, books, merch, and audio/video versions of each
+      article . All my work is free to bootleg and use in any way, shape or form; republish
+      it, translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Wikimedia Commons .'
+    one_sentence_summary: Israel's leading human rights organizations, along with international
+      bodies, have declared that Israel is committing genocide, marking a significant
+      shift in mainstream discourse as more public figures, including Ariana Grande,
+      openly oppose these actions.
+    paragraph_summary: Israel's leading human rights organizations, including B’Tselem
+      and Physicians for Human Rights, have declared that Israel is committing genocide,
+      joining the ranks of Amnesty International, Human Rights Watch, and UN experts
+      in this assessment. This shift in perspective is reflected in mainstream discourse,
+      with public figures like Ariana Grande openly supporting Gaza and condemning starvation
+      tactics. Major media outlets, including MSNBC and CNN, have begun to criticize
+      Israel's actions, with The New York Times publishing an op-ed acknowledging the
+      genocide. Prominent politicians, previously aligned with pro-Israel sentiments,
+      are now vocal against Israeli Prime Minister Netanyahu's policies, indicating
+      a significant change in the narrative surrounding Israel's actions in Gaza. This
+      evolving dialogue marks a new threshold in the mainstream acknowledgment of the
+      situation, contrasting sharply with the previous silence on the issue.
+    published: '2025-07-29T02:33:58+00:00'
+  - title: They Intend To Keep Lying About Gaza Until They've Emptied It Out
+    url: https://www.caitlinjohnst.one/p/they-intend-to-keep-lying-about-gaza
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now We’re back at the part of the news cycle
+      where Israel tells the world it’s going to allow a bit more aid into Gaza in order
+      to mollify its allies and reduce the public outcry as images of starving children
+      draw objections from the west. This is just Israel giving the Kier Starmers and
+      Anthony Albaneses of the western world just enough of an excuse to go silent about
+      the starvation of Gaza again. They will then continue starving Gaza. This psychopathic
+      python-like suffocation tactic is how Israel has gotten Gaza to the point it’s
+      at now. And of course it’s worth noting that Israel’s announcement that it will
+      allow more food into Gaza so people don’t starve completely debunks all its claims
+      these last few days that people in Gaza are starving because of Hamas and the
+      UN. They’re starving because Israel is starving them . ❖ Israeli officials have
+      told The New York Times that there has never been any evidence of Hamas stealing
+      aid from UN trucks in any significant way, a claim Israel and its apologists have
+      been falsely asserting for two years. They lie about everything. They never stop
+      lying. We’ve been asked to believe a lot of intensely stupid narratives throughout
+      this genocide, but “it’s actually HAMAS who’s starving Gaza” has got to be the
+      dumbest one yet. The fact that Israel and its supporters tried to blame the UN
+      and Hamas for Israel’s extensively documented starvation campaign makes it clear
+      that these freaks intend to keep lying about this thing until the last dying gasp
+      of the last Palestinian. ❖ Gideon Levy has a new article out titled “ Denying
+      Gaza’s Starvation Is No Less Vile Than Denying the Holocaust ”. Personally I’d
+      take it much further and say it’s vastly worse than denying the Holocaust, because
+      it’s helping to kill people right this very moment. ❖ I’m sorry if this is antisemitic
+      but I think it’s wrong to deliberately starve thousands of children to death.
+      ❖ If you found out someone was trapping small children in a confined space and
+      then intentionally starving them to death, what words would you use to describe
+      that person? Think about how fucked up you’d need to be inside to starve a baby,
+      or to support someone who is doing so. Think how many millennia of evolutionary
+      conditioning you’d have to override as a human, as a primate, as a mammal, to
+      stifle the screaming you feel inside when you see a skeletal infant. You’d have
+      to make yourself less of a human inside to support the inhumanity. ❖ The worst
+      thing Donald Trump has ever done is commit genocide in Gaza. Everything else pales
+      in comparison. He could end the Gaza holocaust with a phone call just like Biden
+      could have , and he hasn’t. For that reason alone he deserves to die in a cage.
+      ❖ Children’s Youtube star Ms Rachel has announced that she won’t be working with
+      anyone who doesn’t publicly oppose Israel’s genocide in Gaza. The thing I love
+      about Ms Rachel is that nobody was pushing her to speak out about Gaza. Not one
+      person was out here saying “Ms Rachel’s silence on Rafah is deafening!” She could’ve
+      gotten away with being silent on Gaza forever and suffered no professional consequences,
+      but she spoke out anyway because she’s a genuinely good person. ❖ Today I got
+      my first comment telling me I was wrong to oppose Israel in October 2023 but now
+      I’m right because things have changed. I expect to receive many more such comments
+      going forward as people navigate the difficult cognitive dissonance terrain of
+      realizing they’ve been wrong this entire time. ❖ Israel apologists love using
+      circular reasoning to dismiss outlets and organizations which criticize Israel.
+      If you’ve ever argued with them online you know what I’m talking about. It’s basically
+      this — Normal person: Here’s evidence of Israel doing bad things. Israel apologist:
+      You can’t cite THAT outlet! That outlet is Hamas propaganda! Normal person: What?
+      What makes them Hamas propaganda? Israel apologist: They’re always saying Israel
+      does bad things! Or this — Normal person: Israel is committing genocide. Israel
+      apologist: Nuh-uh, that’s blood libel. Normal person: Amnesty International, Human
+      Rights Watch and UN human rights experts all say it’s genocide. Israel apologist:
+      Those groups are antisemitic! Normal person: What? Why do you say that? Israel
+      apologist: They’re always spreading antisemitic lies about Israel! Normal person:
+      Such as? Israel apologist: Such as saying Israel is committing genocide! ❖ Everyone
+      spreading lies today to help Israel carry out the final stages of its final solution
+      knows exactly what they’re doing. We see you, you sick fucks. We’ll remember you
+      forever. __________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via The White House (Public Domain) .'
+    one_sentence_summary: The article critiques Israel's strategy of allowing limited
+      aid into Gaza as a means to placate international criticism while continuing to
+      impose severe restrictions that lead to starvation, ultimately arguing that the
+      humanitarian crisis is a result of Israel's actions rather than Hamas or the UN.
+    paragraph_summary: The article critiques Israel's recent announcement to allow more
+      aid into Gaza, arguing that it serves as a superficial gesture to appease Western
+      allies while continuing its systematic starvation of the Palestinian population.
+      It highlights the hypocrisy of blaming Hamas and the UN for the humanitarian crisis,
+      asserting that the real responsibility lies with Israel's actions. The author
+      references claims from Israeli officials that there is no substantial evidence
+      of Hamas stealing aid, labeling the narrative that Hamas is to blame for Gaza's
+      starvation as absurd. The piece also mentions Gideon Levy's provocative comparison
+      of denying Gaza's starvation to Holocaust denial, suggesting that the ongoing
+      situation is even more egregious due to its immediate impact on lives. Overall,
+      the article condemns the manipulation of narratives surrounding the humanitarian
+      crisis in Gaza.
+    published: '2025-07-27T12:49:00+00:00'
+  - title: They Intend To Keep Lying About Gaza Until They've Emptied It Out
+    url: https://www.caitlinjohnst.one/p/they-intend-to-keep-lying-about-gaza
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now We’re back at the part of the news cycle
+      where Israel tells the world it’s going to allow a bit more aid into Gaza in order
+      to mollify its allies and reduce the public outcry as images of starving children
+      draw objections from the west. This is just Israel giving the Kier Starmers and
+      Anthony Albaneses of the western world just enough of an excuse to go silent about
+      the starvation of Gaza again. They will then continue starving Gaza. This psychopathic
+      python-like suffocation tactic is how Israel has gotten Gaza to the point it’s
+      at now. And of course it’s worth noting that Israel’s announcement that it will
+      allow more food into Gaza so people don’t starve completely debunks all its claims
+      these last few days that people in Gaza are starving because of Hamas and the
+      UN. They’re starving because Israel is starving them . ❖ Israeli officials have
+      told The New York Times that there has never been any evidence of Hamas stealing
+      aid from UN trucks in any significant way, a claim Israel and its apologists have
+      been falsely asserting for two years. They lie about everything. They never stop
+      lying. We’ve been asked to believe a lot of intensely stupid narratives throughout
+      this genocide, but “it’s actually HAMAS who’s starving Gaza” has got to be the
+      dumbest one yet. The fact that Israel and its supporters tried to blame the UN
+      and Hamas for Israel’s extensively documented starvation campaign makes it clear
+      that these freaks intend to keep lying about this thing until the last dying gasp
+      of the last Palestinian. ❖ Gideon Levy has a new article out titled “ Denying
+      Gaza’s Starvation Is No Less Vile Than Denying the Holocaust ”. Personally I’d
+      take it much further and say it’s vastly worse than denying the Holocaust, because
+      it’s helping to kill people right this very moment. ❖ I’m sorry if this is antisemitic
+      but I think it’s wrong to deliberately starve thousands of children to death.
+      ❖ If you found out someone was trapping small children in a confined space and
+      then intentionally starving them to death, what words would you use to describe
+      that person? Think about how fucked up you’d need to be inside to starve a baby,
+      or to support someone who is doing so. Think how many millennia of evolutionary
+      conditioning you’d have to override as a human, as a primate, as a mammal, to
+      stifle the screaming you feel inside when you see a skeletal infant. You’d have
+      to make yourself less of a human inside to support the inhumanity. ❖ The worst
+      thing Donald Trump has ever done is commit genocide in Gaza. Everything else pales
+      in comparison. He could end the Gaza holocaust with a phone call just like Biden
+      could have , and he hasn’t. For that reason alone he deserves to die in a cage.
+      ❖ Children’s Youtube star Ms Rachel has announced that she won’t be working with
+      anyone who doesn’t publicly oppose Israel’s genocide in Gaza. The thing I love
+      about Ms Rachel is that nobody was pushing her to speak out about Gaza. Not one
+      person was out here saying “Ms Rachel’s silence on Rafah is deafening!” She could’ve
+      gotten away with being silent on Gaza forever and suffered no professional consequences,
+      but she spoke out anyway because she’s a genuinely good person. ❖ Today I got
+      my first comment telling me I was wrong to oppose Israel in October 2023 but now
+      I’m right because things have changed. I expect to receive many more such comments
+      going forward as people navigate the difficult cognitive dissonance terrain of
+      realizing they’ve been wrong this entire time. ❖ Israel apologists love using
+      circular reasoning to dismiss outlets and organizations which criticize Israel.
+      If you’ve ever argued with them online you know what I’m talking about. It’s basically
+      this — Normal person: Here’s evidence of Israel doing bad things. Israel apologist:
+      You can’t cite THAT outlet! That outlet is Hamas propaganda! Normal person: What?
+      What makes them Hamas propaganda? Israel apologist: They’re always saying Israel
+      does bad things! Or this — Normal person: Israel is committing genocide. Israel
+      apologist: Nuh-uh, that’s blood libel. Normal person: Amnesty International, Human
+      Rights Watch and UN human rights experts all say it’s genocide. Israel apologist:
+      Those groups are antisemitic! Normal person: What? Why do you say that? Israel
+      apologist: They’re always spreading antisemitic lies about Israel! Normal person:
+      Such as? Israel apologist: Such as saying Israel is committing genocide! ❖ Everyone
+      spreading lies today to help Israel carry out the final stages of its final solution
+      knows exactly what they’re doing. We see you, you sick fucks. We’ll remember you
+      forever. __________________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via The White House (Public Domain) .'
+    one_sentence_summary: The article critiques Israel's strategy of allowing limited
+      aid into Gaza as a means to placate international criticism while continuing to
+      impose severe restrictions that lead to starvation, ultimately arguing that the
+      humanitarian crisis is a result of Israel's actions rather than Hamas or the UN.
+    paragraph_summary: The article critiques Israel's recent announcement to allow more
+      aid into Gaza, arguing that it serves as a superficial gesture to appease Western
+      allies while continuing its systematic starvation of the Palestinian population.
+      It highlights the hypocrisy of blaming Hamas and the UN for the humanitarian crisis,
+      asserting that the real responsibility lies with Israel's actions. The author
+      references claims from Israeli officials that there is no substantial evidence
+      of Hamas stealing aid, labeling the narrative that Hamas is to blame for Gaza's
+      starvation as absurd. The piece also mentions Gideon Levy's provocative comparison
+      of denying Gaza's starvation to Holocaust denial, suggesting that the ongoing
+      situation is even more egregious due to its immediate impact on lives. Overall,
+      the article condemns the manipulation of narratives surrounding the humanitarian
+      crisis in Gaza.
+    published: '2025-07-27T12:49:00+00:00'
+  - title: They're Starving Civilians To Steal A Palestinian Territory, And They're
+      Lying About It
+    url: https://www.caitlinjohnst.one/p/theyre-starving-civilians-to-steal
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Just so we’re all absolutely clear about what we’re watching here, Israel is intentionally
+      starving civilians in order to bring about the ethnic cleansing of Gaza and steal
+      a Palestinian territory. That’s all this is, and anyone who says otherwise is
+      lying. This isn’t a theory. This is what’s happening. The facts are in and the
+      case is closed. Israeli officials aren’t even hiding it anymore. Israel’s Heritage
+      Minister Amichai Eliyahu is telling the Israeli media that “the government is
+      racing ahead for Gaza to be wiped out,” and that “all Gaza will be Jewish.” Israel’s
+      National Security Minister Itamar Ben-Gvir is tweeting in Hebrew that a “complete
+      halt of ‘humanitarian aid’” will allow “encouragement of migration” and “settlement”
+      in the Gaza Strip. https://x.com/Antiwarcom/status/1948432846324154504 Israeli
+      Defense Minister Israel Katz announced earlier this month that the official plan
+      is to build a giant concentration camp for Gaza’s population on the ruins of Rafah
+      while working to deport the population to other countries. Prime Minister Benjamin
+      Netanyahu himself made it clear back in May that implementing Donald Trump’s plan
+      for the ethnic cleansing of Gaza was a precondition to having peace in the enclave.
+      Trump made it clear back in February that his plan was for “all” Palestinians
+      to be removed from the Gaza Strip on a “permanent” basis . Within days of Israel’s
+      assault on Gaza in October 2023, Israel’s Intelligence Ministry was circulating
+      a plan for the entire population of Gaza to be moved to the Sinai Peninsula in
+      Egypt, and an Israeli think tank had drawn up a strategy for the “relocation and
+      final settlement of the entire Gaza population.” Indeed, Israel has been on record
+      scheming to find a way to relocate the population of Gaza for many decades . That’s
+      what this is all about. That’s all this has ever been about. It’s not about hostages.
+      It’s not about Hamas. It’s not about Israel defending itself. It’s about stealing
+      a Palestinian territory, and anyone who says otherwise is lying. https://x.com/DropSiteNews/status/1948569096628433365
+      And the lies have been erupting like a geyser in recent days. Israel and its apologists
+      have been frantically pushing the narrative that Gaza is starving because the
+      UN isn’t allowing aid in (swiftly refuted by Drop Site News ), that Gaza is starving
+      because Hamas is stealing the aid (swiftly refuted by Reuters ), and that Gaza
+      is starving because Hamas attacks people who try to go to aid sites (already refuted
+      by Israeli soldiers telling the Israeli press that they’re the ones shooting the
+      aid seekers). The more evil Israel gets, the more frenetic its apologists need
+      to get with their lies to justify its behavior. Starvation deaths in Gaza are
+      skyrocketing . Many of those still alive have already suffered permanent damage
+      , and even with a massive influx of aid and complete reversal of Israeli policies
+      it will be very difficult to undo the effects of the famine. Western governments
+      are beginning to speak out against the mass atrocity in Gaza, far too little and
+      far too late. We can expect Israel and the United States to respond to this outcry
+      by saying that Palestinians need to be evacuated out of Gaza as quickly as possible
+      in order to rescue them from this deliberately manufactured humanitarian crisis.
+      We can expect them to denounce anyone who opposes this ethnic cleansing operation
+      as evil monsters who want to starve the poor Palestinians. And it will all be
+      lies. They lied this entire time. It’s about the most evil thing you could possibly
+      come up with, really. If this is not evil, then nothing is. _____________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Wikimedia Commons/The White House .'
+    one_sentence_summary: The article asserts that Israel is deliberately starving civilians
+      in Gaza to facilitate ethnic cleansing and territorial acquisition, with Israeli
+      officials openly expressing intentions to eliminate Gaza and promote Jewish settlement
+      in the area.
+    paragraph_summary: The article asserts that Israel is deliberately starving civilians
+      in Gaza as part of a strategy for ethnic cleansing and territorial acquisition.
+      It cites statements from Israeli officials, including Heritage Minister Amichai
+      Eliyahu and National Security Minister Itamar Ben-Gvir, who openly discuss plans
+      to eliminate Gaza's population and encourage Jewish settlement in the area. The
+      article references a broader historical context of Israeli intentions to relocate
+      Gaza's population, including recent plans for deportation and the establishment
+      of a concentration camp. It argues that the current conflict is not about hostages
+      or Hamas, but rather a long-standing agenda to remove Palestinians from Gaza.
+    published: '2025-07-26T03:03:29+00:00'
+  - title: They're Starving Civilians To Steal A Palestinian Territory, And They're
+      Lying About It
+    url: https://www.caitlinjohnst.one/p/theyre-starving-civilians-to-steal
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Just so we’re all absolutely clear about what we’re watching here, Israel is intentionally
+      starving civilians in order to bring about the ethnic cleansing of Gaza and steal
+      a Palestinian territory. That’s all this is, and anyone who says otherwise is
+      lying. This isn’t a theory. This is what’s happening. The facts are in and the
+      case is closed. Israeli officials aren’t even hiding it anymore. Israel’s Heritage
+      Minister Amichai Eliyahu is telling the Israeli media that “the government is
+      racing ahead for Gaza to be wiped out,” and that “all Gaza will be Jewish.” Israel’s
+      National Security Minister Itamar Ben-Gvir is tweeting in Hebrew that a “complete
+      halt of ‘humanitarian aid’” will allow “encouragement of migration” and “settlement”
+      in the Gaza Strip. https://x.com/Antiwarcom/status/1948432846324154504 Israeli
+      Defense Minister Israel Katz announced earlier this month that the official plan
+      is to build a giant concentration camp for Gaza’s population on the ruins of Rafah
+      while working to deport the population to other countries. Prime Minister Benjamin
+      Netanyahu himself made it clear back in May that implementing Donald Trump’s plan
+      for the ethnic cleansing of Gaza was a precondition to having peace in the enclave.
+      Trump made it clear back in February that his plan was for “all” Palestinians
+      to be removed from the Gaza Strip on a “permanent” basis . Within days of Israel’s
+      assault on Gaza in October 2023, Israel’s Intelligence Ministry was circulating
+      a plan for the entire population of Gaza to be moved to the Sinai Peninsula in
+      Egypt, and an Israeli think tank had drawn up a strategy for the “relocation and
+      final settlement of the entire Gaza population.” Indeed, Israel has been on record
+      scheming to find a way to relocate the population of Gaza for many decades . That’s
+      what this is all about. That’s all this has ever been about. It’s not about hostages.
+      It’s not about Hamas. It’s not about Israel defending itself. It’s about stealing
+      a Palestinian territory, and anyone who says otherwise is lying. https://x.com/DropSiteNews/status/1948569096628433365
+      And the lies have been erupting like a geyser in recent days. Israel and its apologists
+      have been frantically pushing the narrative that Gaza is starving because the
+      UN isn’t allowing aid in (swiftly refuted by Drop Site News ), that Gaza is starving
+      because Hamas is stealing the aid (swiftly refuted by Reuters ), and that Gaza
+      is starving because Hamas attacks people who try to go to aid sites (already refuted
+      by Israeli soldiers telling the Israeli press that they’re the ones shooting the
+      aid seekers). The more evil Israel gets, the more frenetic its apologists need
+      to get with their lies to justify its behavior. Starvation deaths in Gaza are
+      skyrocketing . Many of those still alive have already suffered permanent damage
+      , and even with a massive influx of aid and complete reversal of Israeli policies
+      it will be very difficult to undo the effects of the famine. Western governments
+      are beginning to speak out against the mass atrocity in Gaza, far too little and
+      far too late. We can expect Israel and the United States to respond to this outcry
+      by saying that Palestinians need to be evacuated out of Gaza as quickly as possible
+      in order to rescue them from this deliberately manufactured humanitarian crisis.
+      We can expect them to denounce anyone who opposes this ethnic cleansing operation
+      as evil monsters who want to starve the poor Palestinians. And it will all be
+      lies. They lied this entire time. It’s about the most evil thing you could possibly
+      come up with, really. If this is not evil, then nothing is. _____________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Wikimedia Commons/The White House .'
+    one_sentence_summary: The article asserts that Israel is deliberately starving civilians
+      in Gaza to facilitate ethnic cleansing and territorial acquisition, with Israeli
+      officials openly expressing intentions to eliminate Gaza and promote Jewish settlement
+      in the area.
+    paragraph_summary: The article asserts that Israel is deliberately starving civilians
+      in Gaza as part of a strategy for ethnic cleansing and territorial acquisition.
+      It cites statements from Israeli officials, including Heritage Minister Amichai
+      Eliyahu and National Security Minister Itamar Ben-Gvir, who openly discuss plans
+      to eliminate Gaza's population and encourage Jewish settlement in the area. The
+      article references a broader historical context of Israeli intentions to relocate
+      Gaza's population, including recent plans for deportation and the establishment
+      of a concentration camp. It argues that the current conflict is not about hostages
+      or Hamas, but rather a long-standing agenda to remove Palestinians from Gaza.
+    published: '2025-07-26T03:03:29+00:00'
+  - title: Know Them By Their Fruits
+    url: https://www.caitlinjohnst.one/p/know-them-by-their-fruits
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      They’re doing it right in front of us. Right in front of us. So many people have
+      dedicated their entire lives working to expose the criminality of the empire,
+      and then the empire comes right out and commits a live-streamed genocide right
+      in front of us. Whistleblowers. Investigative journalists. Authors. Documentarians.
+      Conspiracy analysts. Peace activists. Their whole lives devoted to the task of
+      uncovering the crimes of the undeclared empire we live under and drawing attention
+      to them, saying “Look! See?? We really are ruled by monsters!” Only for the monsters
+      to come right out and intentionally starve children to death on all our screens
+      all around the world. https://x.com/FranceskAlbs/status/1948495615962354101 People
+      like me are almost redundant at this current point in history. I’ve been writing
+      about the depravity of the empire for years, thousands of articles and millions
+      of words, and I’ve never said anything that illuminates the reality of our situation
+      nearly as well as the fact that western governments and media have openly colluded
+      with Israel to exterminate a group of innocent people because they’re the wrong
+      ethnicity. I mean, what could I possibly say about that that they’re not already
+      saying themselves? The message is already there, fully baked. Perfect. Complete.
+      They’re telling us everything we could possibly need to know. There’s nothing
+      I could add. I don’t have much use for scripture, but if I had to pick a favorite
+      line from the Bible it would be “You will know them by their fruits.” Those seven
+      little words cut through all the lies and distortions of life under the western
+      empire, because they tell us to stop paying attention to all the spin and PR and
+      justification and excuses we hear from the imperial propaganda machine, and just
+      look at the products of the empire on their own. Ignore their words, and watch
+      the results of their actions. Those tiny skeletal bodies you’re seeing on your
+      social media feed are the fruits of the empire. The shredded, eviscerated, decapitated
+      children you’ve been seeing in footage from Gaza since 2023 are the fruits of
+      the empire. This is known now, and it can never be unknown. As Maya Angelou said,
+      “When someone shows you who they are, believe them the first time. People know
+      themselves much better than you do. That’s why it’s important to stop expecting
+      them to be something other than who they are.” https://x.com/malonebarry/status/1948017132207485250
+      This is who they are. This is who our leaders are. This is who our complicit news
+      media are. This is what Israel is. This is what Zionism is. This is what the empire
+      is. This is what western civilization is. We know that now. We know them by their
+      fruits. This is who they are, and it’s who they’ll always be. That’s why it’s
+      important never to forget what they’ve shown us about themselves in Gaza, and
+      to never, ever forgive them. Our rulers have shown us that they must not be allowed
+      to rule any longer. The empire has shown us that it should not be allowed to dominate
+      our planet any longer. The apartheid state of Israel has shown us that it should
+      not be allowed to exist any longer. Western supremacism, Zionism, racism and imperialism
+      have shown us that these things must be eradicated from our world. They have planted
+      seeds of knowledge inside you about who they are and the status quo we’re being
+      asked to consent to. Let those seeds sprout and grow. Tend to them with care.
+      Help them to flourish. Someday the tree that they planted in us will bear fruit
+      of its own. ______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article expresses frustration over the blatant and visible
+      atrocities committed by powerful entities, highlighting the efforts of those who
+      have dedicated their lives to exposing such criminality, only to witness these
+      acts unfold publicly and without consequence.
+    paragraph_summary: The article expresses deep frustration and despair over the blatant
+      and ongoing atrocities committed by powerful governments, particularly in the
+      context of the Israeli-Palestinian conflict, where innocent lives are being lost
+      in what the author describes as a "live-streamed genocide." The author reflects
+      on the efforts of whistleblowers, journalists, and activists who have dedicated
+      their lives to exposing the crimes of the empire, only to witness these actions
+      unfold openly and unapologetically. The piece emphasizes the futility of further
+      commentary, as the reality of the situation is starkly evident in the actions
+      of those in power, urging readers to focus on the tangible consequences of imperial
+      actions rather than the justifications provided by propaganda. The author concludes
+      with a biblical reference, suggesting that the true nature of these entities can
+      be discerned through their actions, which reveal a grim reality for those affected.
+    published: '2025-07-25T01:15:41+00:00'
+  - title: Know Them By Their Fruits
+    url: https://www.caitlinjohnst.one/p/know-them-by-their-fruits
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      They’re doing it right in front of us. Right in front of us. So many people have
+      dedicated their entire lives working to expose the criminality of the empire,
+      and then the empire comes right out and commits a live-streamed genocide right
+      in front of us. Whistleblowers. Investigative journalists. Authors. Documentarians.
+      Conspiracy analysts. Peace activists. Their whole lives devoted to the task of
+      uncovering the crimes of the undeclared empire we live under and drawing attention
+      to them, saying “Look! See?? We really are ruled by monsters!” Only for the monsters
+      to come right out and intentionally starve children to death on all our screens
+      all around the world. https://x.com/FranceskAlbs/status/1948495615962354101 People
+      like me are almost redundant at this current point in history. I’ve been writing
+      about the depravity of the empire for years, thousands of articles and millions
+      of words, and I’ve never said anything that illuminates the reality of our situation
+      nearly as well as the fact that western governments and media have openly colluded
+      with Israel to exterminate a group of innocent people because they’re the wrong
+      ethnicity. I mean, what could I possibly say about that that they’re not already
+      saying themselves? The message is already there, fully baked. Perfect. Complete.
+      They’re telling us everything we could possibly need to know. There’s nothing
+      I could add. I don’t have much use for scripture, but if I had to pick a favorite
+      line from the Bible it would be “You will know them by their fruits.” Those seven
+      little words cut through all the lies and distortions of life under the western
+      empire, because they tell us to stop paying attention to all the spin and PR and
+      justification and excuses we hear from the imperial propaganda machine, and just
+      look at the products of the empire on their own. Ignore their words, and watch
+      the results of their actions. Those tiny skeletal bodies you’re seeing on your
+      social media feed are the fruits of the empire. The shredded, eviscerated, decapitated
+      children you’ve been seeing in footage from Gaza since 2023 are the fruits of
+      the empire. This is known now, and it can never be unknown. As Maya Angelou said,
+      “When someone shows you who they are, believe them the first time. People know
+      themselves much better than you do. That’s why it’s important to stop expecting
+      them to be something other than who they are.” https://x.com/malonebarry/status/1948017132207485250
+      This is who they are. This is who our leaders are. This is who our complicit news
+      media are. This is what Israel is. This is what Zionism is. This is what the empire
+      is. This is what western civilization is. We know that now. We know them by their
+      fruits. This is who they are, and it’s who they’ll always be. That’s why it’s
+      important never to forget what they’ve shown us about themselves in Gaza, and
+      to never, ever forgive them. Our rulers have shown us that they must not be allowed
+      to rule any longer. The empire has shown us that it should not be allowed to dominate
+      our planet any longer. The apartheid state of Israel has shown us that it should
+      not be allowed to exist any longer. Western supremacism, Zionism, racism and imperialism
+      have shown us that these things must be eradicated from our world. They have planted
+      seeds of knowledge inside you about who they are and the status quo we’re being
+      asked to consent to. Let those seeds sprout and grow. Tend to them with care.
+      Help them to flourish. Someday the tree that they planted in us will bear fruit
+      of its own. ______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The article expresses frustration over the blatant and visible
+      atrocities committed by powerful entities, highlighting the efforts of those who
+      have dedicated their lives to exposing such criminality, only to witness these
+      acts unfold publicly and without consequence.
+    paragraph_summary: The article expresses deep frustration and despair over the blatant
+      and ongoing atrocities committed by powerful governments, particularly in the
+      context of the Israeli-Palestinian conflict, where innocent lives are being lost
+      in what the author describes as a "live-streamed genocide." The author reflects
+      on the efforts of whistleblowers, journalists, and activists who have dedicated
+      their lives to exposing the crimes of the empire, only to witness these actions
+      unfold openly and unapologetically. The piece emphasizes the futility of further
+      commentary, as the reality of the situation is starkly evident in the actions
+      of those in power, urging readers to focus on the tangible consequences of imperial
+      actions rather than the justifications provided by propaganda. The author concludes
+      with a biblical reference, suggesting that the true nature of these entities can
+      be discerned through their actions, which reveal a grim reality for those affected.
+    published: '2025-07-25T01:15:41+00:00'
+  - title: Some Cartoons I've Drawn
+    url: https://www.caitlinjohnst.one/p/some-cartoons-ive-drawn
+    text: 'I’ve been playing around with one-panel comics using pen and watercolor lately.
+      Here’s one of my latest: Here’s another: I drew another one to make fun of a bizarre
+      tweet by Israel propagandist Toni Airaksinen about an IDF soldier Karin Vernikov
+      who was killed on October 7. Airaksinen wrote about how tragic Vernikov’s death
+      was and how her mother will never get to hold her baby again, and then of all
+      possible pictures she could have shared of Vernikov, this was the one she went
+      with: https://x.com/Toni_Airaksinen/status/1947036793628401890 Hasbarists have
+      a well-documented tactic of hypersexualizing female IDF soldiers in order to draw
+      male support for Israel, but usually they limit themselves to doing it with the
+      alive ones. I obviously needed to make fun of this, so here’s what I posted in
+      response: Israel supporters are weird, man. Anyway, that’s what I did today. ________________
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The author shares their experience creating one-panel comics
+      with pen and watercolor, specifically mocking a tweet by Israel propagandist Toni
+      Airaksinen that hypersexualizes a deceased female IDF soldier, highlighting the
+      bizarre tactics used by supporters of Israel.
+    paragraph_summary: The author shares their recent experience creating one-panel
+      comics with pen and watercolor, highlighting a particular comic that satirizes
+      a tweet by Israel propagandist Toni Airaksinen regarding the death of IDF soldier
+      Karin Vernikov. Airaksinen's tweet lamented Vernikov's death while sharing a hypersexualized
+      image of her, which the author critiques as part of a broader trend among Israel
+      supporters to objectify female soldiers to gain male support. The author expresses
+      their intention to mock this phenomenon and invites readers to join their mailing
+      list and support their work, which is freely available for sharing and repurposing.
+    published: '2025-07-24T12:23:58+00:00'
+  - title: Some Cartoons I've Drawn
+    url: https://www.caitlinjohnst.one/p/some-cartoons-ive-drawn
+    text: 'I’ve been playing around with one-panel comics using pen and watercolor lately.
+      Here’s one of my latest: Here’s another: I drew another one to make fun of a bizarre
+      tweet by Israel propagandist Toni Airaksinen about an IDF soldier Karin Vernikov
+      who was killed on October 7. Airaksinen wrote about how tragic Vernikov’s death
+      was and how her mother will never get to hold her baby again, and then of all
+      possible pictures she could have shared of Vernikov, this was the one she went
+      with: https://x.com/Toni_Airaksinen/status/1947036793628401890 Hasbarists have
+      a well-documented tactic of hypersexualizing female IDF soldiers in order to draw
+      male support for Israel, but usually they limit themselves to doing it with the
+      alive ones. I obviously needed to make fun of this, so here’s what I posted in
+      response: Israel supporters are weird, man. Anyway, that’s what I did today. ________________
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: The author shares their experience creating one-panel comics
+      with pen and watercolor, specifically mocking a tweet by Israel propagandist Toni
+      Airaksinen that hypersexualizes a deceased female IDF soldier, highlighting the
+      bizarre tactics used by supporters of Israel.
+    paragraph_summary: The author shares their recent experience creating one-panel
+      comics with pen and watercolor, highlighting a particular comic that satirizes
+      a tweet by Israel propagandist Toni Airaksinen regarding the death of IDF soldier
+      Karin Vernikov. Airaksinen's tweet lamented Vernikov's death while sharing a hypersexualized
+      image of her, which the author critiques as part of a broader trend among Israel
+      supporters to objectify female soldiers to gain male support. The author expresses
+      their intention to mock this phenomenon and invites readers to join their mailing
+      list and support their work, which is freely available for sharing and repurposing.
+    published: '2025-07-24T12:23:58+00:00'
   - title: It's A Genocide, But It's Also So Much More Than That
     url: https://www.caitlinjohnst.one/p/its-a-genocide-but-its-also-so-much
     text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now

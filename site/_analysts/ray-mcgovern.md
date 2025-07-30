@@ -7,16 +7,476 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As geopolitical tensions intensify across multiple fronts, recent independent analyses highlight deepening divides between Western powers and the Global South, ongoing humanitarian crises, and shifting domestic political landscapes.
+  The ongoing crisis in Gaza continues to dominate independent analysis, with recent reports highlighting both the intensifying humanitarian catastrophe and shifts in Western discourse. Over the past 24 hours, new developments have emerged regarding the lived reality for civilians and journalists in Gaza, as well as the evolving international response.
   
-  The most recent development centers on the growing confrontation between Washington and the BRICS bloc. According to **Patrick Lawrence**, former President Trump’s rhetoric toward non-Western nations reveals "a lack of historical awareness and understanding," signaling a broader pattern of U.S. miscalculation in its approach to emerging multipolar alliances. This misreading, Lawrence suggests, risks further alienating key global players and accelerating the BRICS' efforts to establish alternative economic and diplomatic frameworks.
+  A major theme in the latest reporting is the belated shift among Western mainstream voices acknowledging abuses committed by Israel. **Caitlin Johnstone** critiques this delayed recognition, arguing it "reflects a deeper malaise within Western civilization." This pivot, while notable, is seen by analysts as insufficient to address the scale of the crisis or to meaningfully alter policy trajectories in the short term.
   
-  Meanwhile, the humanitarian situation in Gaza remains dire. **Medea Benjamin** criticizes Europe for "prioritizing profits over the lives of Palestinians," despite widespread public opposition to current policies. This sentiment is echoed by other analysts who argue that Western governments are not only failing to alleviate the crisis but are actively undermining aid efforts, contributing to worsening conditions on the ground.
+  On the ground, the situation for journalists in Gaza has deteriorated further. **Shaimaa Eid**, reporting from Gaza, describes a profound sense of loss and disempowerment: “We have lost control over our lives, our food, and even the smallest details of our days.” The desperation is such that some journalists are reportedly selling their cameras for food, underscoring the collapse of both livelihoods and the capacity for independent reporting from within the enclave.
   
-  On the broader strategic front, **Vijay Prashad** observes that both Europe and the United States are "committing to a future characterized by austerity measures and military conflict." This trend, he warns, points to a troubling trajectory in global governance, where resources are increasingly diverted from social needs to military spending, further entrenching instability.
+  Meanwhile, the international legal and media landscape is also shifting. In Australia, journalist **Mary Kostakidis** appeared in federal court to defend herself against charges of racial discrimination linked to her reporting on Gaza. This case highlights the growing tension between freedom of the press and accusations of anti-Semitism in Western democracies, a trend likely to intensify as the conflict persists.
   
-  In summary, the prevailing trend is one of escalating polarization—between Western powers and the Global South, and within Western societies themselves. The majority of sources agree that unless there is a significant shift in policy, these divisions will deepen. With high confidence, I guarantee that the BRICS bloc will continue to consolidate its position as an alternative to Western-led institutions. There is a high chance that humanitarian crises like Gaza will persist or worsen, as Western governments maintain their current stance. The outlook for global governance remains fraught, with quite likely further militarization and austerity in the West.
+  Looking ahead, the majority of independent analysts agree that the humanitarian situation in Gaza will continue to worsen absent significant external intervention. The recent shift in Western rhetoric is unlikely to translate into immediate policy change. I assess with high confidence that the crisis will deepen, and that both the suppression of critical journalism and the polarization of public discourse in Western countries will increase in the coming weeks.
 articles:
+  - title: 'Caitlin Johnstone: Mainstream Voices Sudden Pivot on Gaza'
+    url: https://consortiumnews.com/2025/07/29/caitlin-johnstone-mainstream-voices-sudden-pivot-on-gaza/
+    text: It’s a symptom of Western civilization’s sickness that prominent people are
+      only now expressing qualms about the prolonged and monstrous abuses Israel has
+      been committing in plain sight. By Caitlin Johnstone CaitlinJohnstone.com.au Listen
+      to Tim Foley reading this article. Israel’s top… Read more →
+    one_sentence_summary: The article critiques the delayed acknowledgment by prominent
+      figures regarding the ongoing abuses committed by Israel, highlighting it as a
+      reflection of a deeper malaise within Western civilization.
+    paragraph_summary: In her article, Caitlin Johnstone critiques the delayed response
+      of prominent figures to the ongoing and visible abuses committed by Israel, suggesting
+      that this hesitance reflects a deeper malaise within Western civilization. She
+      argues that the normalization of such abuses highlights a troubling moral blindness
+      and calls for greater awareness and accountability regarding these actions.
+    published: '2025-07-29T22:06:58+00:00'
+  - title: 'Caitlin Johnstone: Mainstream Voices Sudden Pivot on Gaza'
+    url: https://consortiumnews.com/2025/07/29/caitlin-johnstone-mainstream-voices-sudden-pivot-on-gaza/
+    text: It’s a symptom of Western civilization’s sickness that prominent people are
+      only now expressing qualms about the prolonged and monstrous abuses Israel has
+      been committing in plain sight. By Caitlin Johnstone CaitlinJohnstone.com.au Listen
+      to Tim Foley reading this article. Israel’s top… Read more →
+    one_sentence_summary: The article critiques the delayed acknowledgment by prominent
+      figures regarding the ongoing abuses committed by Israel, highlighting it as a
+      reflection of a deeper malaise within Western civilization.
+    paragraph_summary: In her article, Caitlin Johnstone critiques the delayed response
+      of prominent figures to the ongoing and visible abuses committed by Israel, suggesting
+      that this hesitance reflects a deeper malaise within Western civilization. She
+      argues that the normalization of such abuses highlights a troubling moral blindness
+      and calls for greater awareness and accountability regarding these actions.
+    published: '2025-07-29T22:06:58+00:00'
+  - title: 'Chris Hedges: The Gaza Riviera'
+    url: https://consortiumnews.com/2025/07/29/chris-hedges-the-gaza-riviera/
+    text: Israelis have blinded themselves morally and intellectually. They view the
+      genocide through the lens of a bankrupt media and political class that shows them
+      only what they want to see. By Chris Hedges ScheerPost Israelis do not see the
+      images… Read more →
+    one_sentence_summary: The article by Chris Hedges argues that Israelis are morally
+      and intellectually blind to the realities of genocide, influenced by a media and
+      political class that presents a skewed perspective.
+    paragraph_summary: In his article for ScheerPost, Chris Hedges argues that Israelis
+      have become morally and intellectually blind to the realities of the ongoing conflict,
+      perceiving it solely through a distorted lens shaped by a failing media and political
+      elite that filters information to align with their biases. This selective vision
+      prevents them from confronting the harsh truths of the situation, leading to a
+      disconnection from the broader implications of their actions and the suffering
+      of others.
+    published: '2025-07-29T18:00:53+00:00'
+  - title: 'Chris Hedges: The Gaza Riviera'
+    url: https://consortiumnews.com/2025/07/29/chris-hedges-the-gaza-riviera/
+    text: Israelis have blinded themselves morally and intellectually. They view the
+      genocide through the lens of a bankrupt media and political class that shows them
+      only what they want to see. By Chris Hedges ScheerPost Israelis do not see the
+      images… Read more →
+    one_sentence_summary: The article by Chris Hedges argues that Israelis are morally
+      and intellectually blind to the realities of genocide, influenced by a media and
+      political class that presents a skewed perspective.
+    paragraph_summary: In his article for ScheerPost, Chris Hedges argues that Israelis
+      have become morally and intellectually blind to the realities of the ongoing conflict,
+      perceiving it solely through a distorted lens shaped by a failing media and political
+      elite that filters information to align with their biases. This selective vision
+      prevents them from confronting the harsh truths of the situation, leading to a
+      disconnection from the broader implications of their actions and the suffering
+      of others.
+    published: '2025-07-29T18:00:53+00:00'
+  - title: Starving Journalists in Gaza Sell Cameras for Food
+    url: https://consortiumnews.com/2025/07/29/starving-journalists-in-gaza-sell-cameras-for-food/
+    text: We have lost control over our lives, our food, and the details of our daily
+      existence, writes Shaimaa Eid from Gaza. Some of us have even lost the words. 
+      By Shaimaa Eid in Gaza Declassified UK I write these lines… Read more →
+    one_sentence_summary: Shaimaa Eid from Gaza expresses a profound sense of loss regarding
+      control over personal lives, food, and daily details, highlighting a struggle
+      that has left some individuals feeling voiceless.
+    paragraph_summary: In her article, Shaimaa Eid from Gaza expresses a profound sense
+      of loss regarding personal autonomy, food security, and the minutiae of daily
+      life amid the ongoing crisis in the region. She reflects on how the circumstances
+      have stripped individuals of control and even the ability to articulate their
+      experiences, highlighting the emotional and psychological toll of living in such
+      challenging conditions.
+    published: '2025-07-29T16:00:33+00:00'
+  - title: Starving Journalists in Gaza Sell Cameras for Food
+    url: https://consortiumnews.com/2025/07/29/starving-journalists-in-gaza-sell-cameras-for-food/
+    text: We have lost control over our lives, our food, and the details of our daily
+      existence, writes Shaimaa Eid from Gaza. Some of us have even lost the words. 
+      By Shaimaa Eid in Gaza Declassified UK I write these lines… Read more →
+    one_sentence_summary: Shaimaa Eid from Gaza expresses a profound sense of loss regarding
+      control over personal lives, food, and daily details, highlighting a struggle
+      that has left some individuals feeling voiceless.
+    paragraph_summary: In her article, Shaimaa Eid from Gaza expresses a profound sense
+      of loss regarding personal autonomy, food security, and the minutiae of daily
+      life amid the ongoing crisis in the region. She reflects on how the circumstances
+      have stripped individuals of control and even the ability to articulate their
+      experiences, highlighting the emotional and psychological toll of living in such
+      challenging conditions.
+    published: '2025-07-29T16:00:33+00:00'
+  - title: Australian Journalist in Court Accused of ‘Anti-Semitism’
+    url: https://consortiumnews.com/2025/07/29/australian-journalist-in-court-accused-of-anti-semitism/
+    text: Mary Kostakidis was in federal court in Adelaide on Tuesday defending herself
+      against racial discrimination charges for her reporting and commentary on Gaza,
+      reports Joe Lauria. By Joe Lauria Special to Consortium News Mary Kostakidis,
+      the Australian journalist accused in… Read more →
+    one_sentence_summary: Mary Kostakidis appeared in federal court in Adelaide to defend
+      herself against racial discrimination charges related to her reporting and commentary
+      on Gaza.
+    paragraph_summary: Mary Kostakidis appeared in federal court in Adelaide to defend
+      herself against racial discrimination charges related to her reporting and commentary
+      on Gaza. The case has garnered attention as it raises questions about the boundaries
+      of journalistic expression and the implications of her statements on racial discrimination.
+      The proceedings highlight the ongoing tensions surrounding media coverage of sensitive
+      geopolitical issues.
+    published: '2025-07-29T07:46:50+00:00'
+  - title: Australian Journalist in Court Accused of ‘Anti-Semitism’
+    url: https://consortiumnews.com/2025/07/29/australian-journalist-in-court-accused-of-anti-semitism/
+    text: Mary Kostakidis was in federal court in Adelaide on Tuesday defending herself
+      against racial discrimination charges for her reporting and commentary on Gaza,
+      reports Joe Lauria. By Joe Lauria Special to Consortium News Mary Kostakidis,
+      the Australian journalist accused in… Read more →
+    one_sentence_summary: Mary Kostakidis appeared in federal court in Adelaide to defend
+      herself against racial discrimination charges related to her reporting and commentary
+      on Gaza.
+    paragraph_summary: Mary Kostakidis appeared in federal court in Adelaide to defend
+      herself against racial discrimination charges related to her reporting and commentary
+      on Gaza. The case has garnered attention as it raises questions about the boundaries
+      of journalistic expression and the implications of her statements on racial discrimination.
+      The proceedings highlight the ongoing tensions surrounding media coverage of sensitive
+      geopolitical issues.
+    published: '2025-07-29T07:46:50+00:00'
+  - title: Genocide’s Hard When You’ve Got a  PR War to Win
+    url: https://consortiumnews.com/2025/07/28/genocides-hard-when-you-have-to-win-the-pr-war-too/
+    text: Israel’s quest to cleanse Gaza of Palestinians through expulsion or extermination
+      keeps getting interrupted for photo ops of aid airlifts or a few aid trucks to
+      satisfy feigned Western grievance, writes Joe Lauria. By Joe Lauria Special to
+      Consortium News… Read more →
+    one_sentence_summary: Joe Lauria argues that Israel's ongoing efforts to remove
+      Palestinians from Gaza are frequently interrupted by staged humanitarian aid efforts
+      aimed at appeasing Western concerns.
+    paragraph_summary: In his article, Joe Lauria critiques Israel's ongoing military
+      actions in Gaza, which he argues aim to expel or exterminate Palestinians, while
+      these efforts are periodically interrupted by staged photo opportunities showcasing
+      aid deliveries. He suggests that these displays are intended to placate Western
+      concerns and create an illusion of humanitarian efforts, despite the underlying
+      violence and displacement occurring in the region.
+    published: '2025-07-28T19:07:34+00:00'
+  - title: Genocide’s Hard When You’ve Got a  PR War to Win
+    url: https://consortiumnews.com/2025/07/28/genocides-hard-when-you-have-to-win-the-pr-war-too/
+    text: Israel’s quest to cleanse Gaza of Palestinians through expulsion or extermination
+      keeps getting interrupted for photo ops of aid airlifts or a few aid trucks to
+      satisfy feigned Western grievance, writes Joe Lauria. By Joe Lauria Special to
+      Consortium News… Read more →
+    one_sentence_summary: Joe Lauria argues that Israel's ongoing efforts to remove
+      Palestinians from Gaza are frequently interrupted by staged humanitarian aid efforts
+      aimed at appeasing Western concerns.
+    paragraph_summary: In his article, Joe Lauria critiques Israel's ongoing military
+      actions in Gaza, which he argues aim to expel or exterminate Palestinians, while
+      these efforts are periodically interrupted by staged photo opportunities showcasing
+      aid deliveries. He suggests that these displays are intended to placate Western
+      concerns and create an illusion of humanitarian efforts, despite the underlying
+      violence and displacement occurring in the region.
+    published: '2025-07-28T19:07:34+00:00'
+  - title: Venezuelan Official Says Migrants Tortured in Bukele’s CECOT
+    url: https://consortiumnews.com/2025/07/28/venezuelan-official-says-migrants-tortured-in-bukeles-cecot/
+    text: Tarek William Saab says he will investigate El Salvador’s president based
+      on the testimonies of repatriated Venezuelans about the abusive prison to which
+      the Trump administration sent them, Pablo Meriguet reports. By Pablo Meriguet
+      Peoples Dispatch Two hundred and fifty… Read more →
+    one_sentence_summary: Tarek William Saab announced an investigation into El Salvador's
+      president following testimonies from repatriated Venezuelans regarding mistreatment
+      in a prison used by the Trump administration.
+    paragraph_summary: Tarek William Saab, Venezuela's Attorney General, announced an
+      investigation into El Salvador's president following testimonies from repatriated
+      Venezuelans regarding the abusive conditions in a prison where they were held
+      during the Trump administration. The investigation is prompted by reports of mistreatment
+      and human rights violations experienced by these individuals, highlighting concerns
+      over the treatment of migrants and the responsibilities of governments in safeguarding
+      their rights.
+    published: '2025-07-28T16:00:37+00:00'
+  - title: Venezuelan Official Says Migrants Tortured in Bukele’s CECOT
+    url: https://consortiumnews.com/2025/07/28/venezuelan-official-says-migrants-tortured-in-bukeles-cecot/
+    text: Tarek William Saab says he will investigate El Salvador’s president based
+      on the testimonies of repatriated Venezuelans about the abusive prison to which
+      the Trump administration sent them, Pablo Meriguet reports. By Pablo Meriguet
+      Peoples Dispatch Two hundred and fifty… Read more →
+    one_sentence_summary: Tarek William Saab announced an investigation into El Salvador's
+      president following testimonies from repatriated Venezuelans regarding mistreatment
+      in a prison used by the Trump administration.
+    paragraph_summary: Tarek William Saab, Venezuela's Attorney General, announced an
+      investigation into El Salvador's president following testimonies from repatriated
+      Venezuelans regarding the abusive conditions in a prison where they were held
+      during the Trump administration. The investigation is prompted by reports of mistreatment
+      and human rights violations experienced by these individuals, highlighting concerns
+      over the treatment of migrants and the responsibilities of governments in safeguarding
+      their rights.
+    published: '2025-07-28T16:00:37+00:00'
+  - title: 'ROBERT PARRY: The Sleazy Origins of Russiagate'
+    url: https://consortiumnews.com/2025/07/28/robert-parry-the-sleazy-origins-of-russiagate/
+    text: CN‘s founding editor already wrote in March 2017 that Christopher Steele’s
+      “investigative dossier suggests that we can’t really think for ourselves. We are
+      all Putin’s puppets.” Russiagate adherents clearly stopped thinking for themselves.
+      By Robert Parry Special to Consortium News… Read more →
+    one_sentence_summary: The article critiques the reliance on Christopher Steele's
+      investigative dossier regarding Russiagate, suggesting that it has led to a lack
+      of independent thought among its supporters.
+    paragraph_summary: In a March 2017 article, CN's founding editor Robert Parry criticized
+      the reliance on Christopher Steele's investigative dossier, suggesting it undermined
+      independent thought and portrayed individuals as mere puppets of Putin. He argued
+      that supporters of the Russiagate narrative had ceased to think critically, implying
+      that the sensationalism surrounding the allegations detracted from genuine analysis
+      and understanding of the situation.
+    published: '2025-07-28T04:52:49+00:00'
+  - title: 'ROBERT PARRY: The Sleazy Origins of Russiagate'
+    url: https://consortiumnews.com/2025/07/28/robert-parry-the-sleazy-origins-of-russiagate/
+    text: CN‘s founding editor already wrote in March 2017 that Christopher Steele’s
+      “investigative dossier suggests that we can’t really think for ourselves. We are
+      all Putin’s puppets.” Russiagate adherents clearly stopped thinking for themselves.
+      By Robert Parry Special to Consortium News… Read more →
+    one_sentence_summary: The article critiques the reliance on Christopher Steele's
+      investigative dossier regarding Russiagate, suggesting that it has led to a lack
+      of independent thought among its supporters.
+    paragraph_summary: In a March 2017 article, CN's founding editor Robert Parry criticized
+      the reliance on Christopher Steele's investigative dossier, suggesting it undermined
+      independent thought and portrayed individuals as mere puppets of Putin. He argued
+      that supporters of the Russiagate narrative had ceased to think critically, implying
+      that the sensationalism surrounding the allegations detracted from genuine analysis
+      and understanding of the situation.
+    published: '2025-07-28T04:52:49+00:00'
+  - title: Consortium News Busted Russiagate 9 Years Ago
+    url: https://consortiumnews.com/2025/07/27/consortium-news-busted-russiagate-9-years-ago/
+    text: New revelations about the fake Russiagate scandal continue to vindicate Consortium
+      News‘ reporting beginning nine years ago that broke the myth apart. As early as
+      Aug. 9, 2016, Robert Parry, the late founding editor of this website, sussed out
+      the… Read more →
+    one_sentence_summary: New revelations about the Russiagate scandal support Consortium
+      News' long-standing reporting that debunked the narrative, initially highlighted
+      by its late founding editor Robert Parry in 2016.
+    paragraph_summary: Recent developments regarding the Russiagate scandal have reinforced
+      the accuracy of Consortium News' reporting from nine years ago, which challenged
+      the narrative surrounding the controversy. Robert Parry, the late founding editor
+      of Consortium News, was among the first to question the legitimacy of the allegations
+      as early as August 9, 2016, highlighting inconsistencies and urging a reevaluation
+      of the claims. These new insights continue to support the website's position that
+      the scandal was largely fabricated.
+    published: '2025-07-27T22:44:26+00:00'
+  - title: Consortium News Busted Russiagate 9 Years Ago
+    url: https://consortiumnews.com/2025/07/27/consortium-news-busted-russiagate-9-years-ago/
+    text: New revelations about the fake Russiagate scandal continue to vindicate Consortium
+      News‘ reporting beginning nine years ago that broke the myth apart. As early as
+      Aug. 9, 2016, Robert Parry, the late founding editor of this website, sussed out
+      the… Read more →
+    one_sentence_summary: New revelations about the Russiagate scandal support Consortium
+      News' long-standing reporting that debunked the narrative, initially highlighted
+      by its late founding editor Robert Parry in 2016.
+    paragraph_summary: Recent developments regarding the Russiagate scandal have reinforced
+      the accuracy of Consortium News' reporting from nine years ago, which challenged
+      the narrative surrounding the controversy. Robert Parry, the late founding editor
+      of Consortium News, was among the first to question the legitimacy of the allegations
+      as early as August 9, 2016, highlighting inconsistencies and urging a reevaluation
+      of the claims. These new insights continue to support the website's position that
+      the scandal was largely fabricated.
+    published: '2025-07-27T22:44:26+00:00'
+  - title: 'Caitlin Johnstone: Know Them By Their Fruits'
+    url: https://consortiumnews.com/2025/07/25/caitlin-johnstone-know-them-by-their-fruits/
+    text: Those tiny skeletal bodies you’re seeing on social media are the fruits of
+      the empire. So are the shredded, eviscerated, decapitated children in Gaza since
+      2023.  This can never be unknown. By Caitlin Johnstone CaitlinJohnstone.com.au
+      Listen to Tim Foley reading… Read more →
+    one_sentence_summary: The article by Caitlin Johnstone highlights the disturbing
+      imagery of violence and suffering in Gaza since 2023, linking it to the broader
+      consequences of imperialism and urging awareness of these atrocities.
+    paragraph_summary: In her article, Caitlin Johnstone highlights the stark and disturbing
+      imagery of violence and suffering, particularly focusing on the skeletal bodies
+      and mutilated children in Gaza since 2023, as a reflection of the consequences
+      of imperialism. She emphasizes that such atrocities are a direct result of systemic
+      oppression and war, urging readers to confront and acknowledge these harsh realities
+      rather than turning a blind eye. The piece serves as a call to awareness about
+      the ongoing impacts of empire on vulnerable populations.
+    published: '2025-07-25T20:55:25+00:00'
+  - title: 'Caitlin Johnstone: Know Them By Their Fruits'
+    url: https://consortiumnews.com/2025/07/25/caitlin-johnstone-know-them-by-their-fruits/
+    text: Those tiny skeletal bodies you’re seeing on social media are the fruits of
+      the empire. So are the shredded, eviscerated, decapitated children in Gaza since
+      2023.  This can never be unknown. By Caitlin Johnstone CaitlinJohnstone.com.au
+      Listen to Tim Foley reading… Read more →
+    one_sentence_summary: The article by Caitlin Johnstone highlights the disturbing
+      imagery of violence and suffering in Gaza since 2023, linking it to the broader
+      consequences of imperialism and urging awareness of these atrocities.
+    paragraph_summary: In her article, Caitlin Johnstone highlights the stark and disturbing
+      imagery of violence and suffering, particularly focusing on the skeletal bodies
+      and mutilated children in Gaza since 2023, as a reflection of the consequences
+      of imperialism. She emphasizes that such atrocities are a direct result of systemic
+      oppression and war, urging readers to confront and acknowledge these harsh realities
+      rather than turning a blind eye. The piece serves as a call to awareness about
+      the ongoing impacts of empire on vulnerable populations.
+    published: '2025-07-25T20:55:25+00:00'
+  - title: West Bank on the Brink
+    url: https://consortiumnews.com/2025/07/25/west-bank-on-the-brink/
+    text: Israel’s systemic oppression of the occupied territory is designed to provoke
+      a popular explosion among Palestinians, writes Ramzy Baroud. The breaking point
+      is fast approaching. By Ramzy Baroud Politics for the People Israel is meticulously
+      following a textbook model of instigating… Read more →
+    one_sentence_summary: Ramzy Baroud argues that Israel's systematic oppression of
+      the occupied territories is intentionally provoking unrest among Palestinians,
+      with a breaking point nearing.
+    paragraph_summary: In his article, Ramzy Baroud argues that Israel's systematic
+      oppression of the occupied territories is intentionally designed to incite a popular
+      uprising among Palestinians. He suggests that the situation is reaching a critical
+      breaking point, as the ongoing policies and actions of Israel are pushing the
+      Palestinian population towards a potential explosion of resistance. Baroud emphasizes
+      that this pattern aligns with a deliberate strategy aimed at destabilizing the
+      region further.
+    published: '2025-07-25T17:02:29+00:00'
+  - title: West Bank on the Brink
+    url: https://consortiumnews.com/2025/07/25/west-bank-on-the-brink/
+    text: Israel’s systemic oppression of the occupied territory is designed to provoke
+      a popular explosion among Palestinians, writes Ramzy Baroud. The breaking point
+      is fast approaching. By Ramzy Baroud Politics for the People Israel is meticulously
+      following a textbook model of instigating… Read more →
+    one_sentence_summary: Ramzy Baroud argues that Israel's systematic oppression of
+      the occupied territories is intentionally provoking unrest among Palestinians,
+      with a breaking point nearing.
+    paragraph_summary: In his article, Ramzy Baroud argues that Israel's systematic
+      oppression of the occupied territories is intentionally designed to incite a popular
+      uprising among Palestinians. He suggests that the situation is reaching a critical
+      breaking point, as the ongoing policies and actions of Israel are pushing the
+      Palestinian population towards a potential explosion of resistance. Baroud emphasizes
+      that this pattern aligns with a deliberate strategy aimed at destabilizing the
+      region further.
+    published: '2025-07-25T17:02:29+00:00'
+  - title: 'WATCH: CN Live! — ‘Russiagate Decomposed’'
+    url: https://consortiumnews.com/2025/07/24/watch-cn-live-russiagate-decomposed/
+    text: It’s been long dead but new revelations have thrown dirt on it. Ex-C.I.A.
+      Ray McGovern and ex-NSA Bill Binney were pioneers in debunking it. They join CN
+      Live! Friday at 10am EDT. The phony scandal of Russiagate was already dead.… Read
+      more →
+    one_sentence_summary: New revelations have revived scrutiny of the discredited Russiagate
+      scandal, prompting former intelligence officials Ray McGovern and Bill Binney
+      to discuss its debunking on CN Live! this Friday at 10am EDT.
+    paragraph_summary: The article discusses the resurgence of interest in the debunked
+      Russiagate scandal, which has been largely discredited. It highlights the contributions
+      of former CIA officer Ray McGovern and former NSA official Bill Binney, who played
+      significant roles in exposing the falsehoods surrounding the scandal. They are
+      set to appear on CN Live! to further discuss these revelations and the implications
+      of the controversy.
+    published: '2025-07-25T00:48:38+00:00'
+  - title: 'WATCH: CN Live! — ‘Russiagate Decomposed’'
+    url: https://consortiumnews.com/2025/07/24/watch-cn-live-russiagate-decomposed/
+    text: It’s been long dead but new revelations have thrown dirt on it. Ex-C.I.A.
+      Ray McGovern and ex-NSA Bill Binney were pioneers in debunking it. They join CN
+      Live! Friday at 10am EDT. The phony scandal of Russiagate was already dead.… Read
+      more →
+    one_sentence_summary: New revelations have revived scrutiny of the discredited Russiagate
+      scandal, prompting former intelligence officials Ray McGovern and Bill Binney
+      to discuss its debunking on CN Live! this Friday at 10am EDT.
+    paragraph_summary: The article discusses the resurgence of interest in the debunked
+      Russiagate scandal, which has been largely discredited. It highlights the contributions
+      of former CIA officer Ray McGovern and former NSA official Bill Binney, who played
+      significant roles in exposing the falsehoods surrounding the scandal. They are
+      set to appear on CN Live! to further discuss these revelations and the implications
+      of the controversy.
+    published: '2025-07-25T00:48:38+00:00'
+  - title: 'The Chris Hedges Report: The End of Academic Freedom'
+    url: https://consortiumnews.com/2025/07/24/the-chris-hedges-report-the-end-of-academic-freedom/
+    text: Maura Finkelstein, a tenured professor fired by Muhlenberg College, provides
+      a first-person perspective on the Zionist purge of U.S. higher eduction. By Chris
+      Hedges The Chris Hedges Report The gutting of public funding for higher education
+      in the United States… Read more →
+    one_sentence_summary: Maura Finkelstein, a tenured professor dismissed by Muhlenberg
+      College, shares her personal experience regarding the perceived suppression of
+      pro-Zionist perspectives in U.S. higher education, as discussed by Chris Hedges.
+    paragraph_summary: In an article by Chris Hedges, Maura Finkelstein, a tenured professor
+      recently dismissed from Muhlenberg College, shares her experiences and insights
+      regarding what she describes as a "Zionist purge" within U.S. higher education.
+      Finkelstein argues that the increasing pressure to conform to pro-Zionist narratives
+      has led to a stifling of academic freedom and critical discourse, particularly
+      regarding issues related to Israel and Palestine. She highlights the broader implications
+      of reduced public funding for higher education, suggesting that it contributes
+      to an environment where dissenting voices are marginalized and the integrity of
+      academic institutions is compromised.
+    published: '2025-07-24T18:33:10+00:00'
+  - title: 'The Chris Hedges Report: The End of Academic Freedom'
+    url: https://consortiumnews.com/2025/07/24/the-chris-hedges-report-the-end-of-academic-freedom/
+    text: Maura Finkelstein, a tenured professor fired by Muhlenberg College, provides
+      a first-person perspective on the Zionist purge of U.S. higher eduction. By Chris
+      Hedges The Chris Hedges Report The gutting of public funding for higher education
+      in the United States… Read more →
+    one_sentence_summary: Maura Finkelstein, a tenured professor dismissed by Muhlenberg
+      College, shares her personal experience regarding the perceived suppression of
+      pro-Zionist perspectives in U.S. higher education, as discussed by Chris Hedges.
+    paragraph_summary: In an article by Chris Hedges, Maura Finkelstein, a tenured professor
+      recently dismissed from Muhlenberg College, shares her experiences and insights
+      regarding what she describes as a "Zionist purge" within U.S. higher education.
+      Finkelstein argues that the increasing pressure to conform to pro-Zionist narratives
+      has led to a stifling of academic freedom and critical discourse, particularly
+      regarding issues related to Israel and Palestine. She highlights the broader implications
+      of reduced public funding for higher education, suggesting that it contributes
+      to an environment where dissenting voices are marginalized and the integrity of
+      academic institutions is compromised.
+    published: '2025-07-24T18:33:10+00:00'
+  - title: The Day After Genocide in Gaza
+    url: https://consortiumnews.com/2025/07/23/the-day-after-genocide-in-gaza/
+    text: Neither the Abu Shabab gang nor the Hebron “emirate” will govern Palestinians,
+      either in Gaza or the West Bank, writes Ramzy Baroud. By Ramzy Baroud  Z Network
+      Israel is aggressively implementing plans to shape Palestine’s future and the
+      broader region,… Read more →
+    one_sentence_summary: Ramzy Baroud argues that neither the Abu Shabab gang nor the
+      Hebron "emirate" will effectively govern Palestinians in Gaza or the West Bank,
+      as Israel continues to aggressively shape the future of Palestine and the surrounding
+      region.
+    paragraph_summary: In his article, Ramzy Baroud argues that neither the Abu Shabab
+      gang nor the Hebron "emirate" will effectively govern Palestinians in Gaza or
+      the West Bank. He emphasizes that Israel is actively pursuing strategies to influence
+      the future of Palestine and the surrounding region, highlighting the complexities
+      of governance and power dynamics among Palestinian factions amidst external pressures.
+    published: '2025-07-23T22:40:33+00:00'
+  - title: The Day After Genocide in Gaza
+    url: https://consortiumnews.com/2025/07/23/the-day-after-genocide-in-gaza/
+    text: Neither the Abu Shabab gang nor the Hebron “emirate” will govern Palestinians,
+      either in Gaza or the West Bank, writes Ramzy Baroud. By Ramzy Baroud  Z Network
+      Israel is aggressively implementing plans to shape Palestine’s future and the
+      broader region,… Read more →
+    one_sentence_summary: Ramzy Baroud argues that neither the Abu Shabab gang nor the
+      Hebron "emirate" will effectively govern Palestinians in Gaza or the West Bank,
+      as Israel continues to aggressively shape the future of Palestine and the surrounding
+      region.
+    paragraph_summary: In his article, Ramzy Baroud argues that neither the Abu Shabab
+      gang nor the Hebron "emirate" will effectively govern Palestinians in Gaza or
+      the West Bank. He emphasizes that Israel is actively pursuing strategies to influence
+      the future of Palestine and the surrounding region, highlighting the complexities
+      of governance and power dynamics among Palestinian factions amidst external pressures.
+    published: '2025-07-23T22:40:33+00:00'
+  - title: Snatching a US Immigration Journalist
+    url: https://consortiumnews.com/2025/07/23/snatching-a-u-s-immigration-journalist/
+    text: The Committee to Protect Journalists calls Mario Guevara  — now in chaotic
+      ICE captivity — the only journalist imprisoned in the U.S. in direct retaliation
+      for his reporting. By Stephen Prager Common Dreams Press freedom and immigrants’
+      rights advocates are… Read more →
+    one_sentence_summary: The Committee to Protect Journalists identifies Mario Guevara
+      as the only journalist currently imprisoned in the U.S. in direct retaliation
+      for his reporting, highlighting concerns about press freedom and immigrants' rights.
+    paragraph_summary: The Committee to Protect Journalists has identified Mario Guevara
+      as the only journalist currently imprisoned in the U.S. specifically due to his
+      reporting, as he is being held in chaotic conditions by ICE. Advocates for press
+      freedom and immigrants' rights are raising concerns about his detention, highlighting
+      the implications for journalistic independence and the treatment of immigrant
+      journalists in the country.
+    published: '2025-07-23T17:11:01+00:00'
+  - title: Snatching a US Immigration Journalist
+    url: https://consortiumnews.com/2025/07/23/snatching-a-u-s-immigration-journalist/
+    text: The Committee to Protect Journalists calls Mario Guevara  — now in chaotic
+      ICE captivity — the only journalist imprisoned in the U.S. in direct retaliation
+      for his reporting. By Stephen Prager Common Dreams Press freedom and immigrants’
+      rights advocates are… Read more →
+    one_sentence_summary: The Committee to Protect Journalists identifies Mario Guevara
+      as the only journalist currently imprisoned in the U.S. in direct retaliation
+      for his reporting, highlighting concerns about press freedom and immigrants' rights.
+    paragraph_summary: The Committee to Protect Journalists has identified Mario Guevara
+      as the only journalist currently imprisoned in the U.S. specifically due to his
+      reporting, as he is being held in chaotic conditions by ICE. Advocates for press
+      freedom and immigrants' rights are raising concerns about his detention, highlighting
+      the implications for journalistic independence and the treatment of immigrant
+      journalists in the country.
+    published: '2025-07-23T17:11:01+00:00'
   - title: 'PATRICK LAWRENCE: Washington Takes on the BRICS'
     url: https://consortiumnews.com/2025/07/22/patrick-lawrence-washington-takes-on-the-brics/
     text: Trump’s lashing out at the group of non-Western nations is so clumsy, so off

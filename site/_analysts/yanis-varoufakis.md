@@ -8,16 +8,93 @@ websites:
   - https://www.yanisvaroufakis.eu/
   - https://www.project-syndicate.org/columnist/yanis-varoufakis
 summary: |
-  The ongoing transformation of global economic and political structures continues to dominate analysis, with recent publications highlighting the deepening crises in Europe, the destabilizing potential of private digital currencies, and the persistent disconnect between social movements and systemic change.
+  As of July 30, 2025, the geopolitical landscape remains defined by intensifying conflicts over Palestine, deepening skepticism toward Western-led economic and political structures, and growing anxieties over the stability of the global financial system. Recent developments underscore a shift in international activism and renewed debate over the future of economic governance.
   
-  Amid intensifying debate over the future of capitalism, **Yanis Varoufakis** in The Guardian underscores the urgent need to confront not only the exploitative but also the dehumanizing aspects of what he terms "technofeudalism." He observes that institutions with the capacity for positive change often choose actions that further alienate individuals, especially youth, from both their labor and their environment. This, he argues, echoes Marx’s warnings about the isolating effects of capitalist structures and calls for a renewed emphasis on solidarity and collective action to reclaim agency from technological and corporate dominance.
+  The most notable new event is the launch of the Global Alliance for Palestine in London on July 26. As described by **Yanis Varoufakis**, a steering committee member, this alliance aims to unify disparate international efforts into a coordinated political campaign for Palestinian rights. Varoufakis sharply criticized Western governments and corporations for what he called their “perpetuation of violence against Palestinians under the guise of supporting a Two State Solution.” This initiative signals a move toward more organized, transnational pressure on Western policymakers and businesses, reflecting a broader trend of grassroots mobilization in response to perceived Western hypocrisy.
   
-  On the financial front, the rapid proliferation of stablecoins—private digital currencies pegged to the US dollar—has raised alarms about systemic risk. In Project Syndicate, **Varoufakis** warns that the incentives for stablecoin issuers to overextend beyond their reserves could trigger a cascade of bank runs, threatening the broader financial system. He notes, "the current monetary transformation could either result in a significant financial meltdown or prompt innovative solutions that prioritize public interest," reflecting widespread concern about the sustainability of both traditional and emerging banking practices.
+  On the economic front, concerns over the rise of stablecoins and the fragility of traditional banking systems continue to mount. In his recent Project Syndicate piece, **Yanis Varoufakis** warns of a looming financial crisis, arguing that “stablecoins have emerged as a viable alternative for the public to conduct transactions more efficiently and affordably,” but also highlighting the risks of a “stablecoin time bomb” if regulatory frameworks fail to keep pace. This sentiment is echoed by central bankers and analysts who see the impending U.S. Genius Act and Trump’s cryptocurrency strategy as potential disruptors of global monetary stability.
   
-  Meanwhile, the legacy of austerity and external intervention in Greece continues to reverberate across Europe. In a recent Jacobin interview, **Varoufakis** contends that the troika’s policies have rendered Greece a "permanently bankrupt colony" and set a precedent for declining investment and rising far-right sentiment throughout the continent. He asserts that the economic devastation inflicted on Greece has contributed to a broader European malaise, with long-term consequences for political stability and social cohesion.
+  Meanwhile, reflections on the legacy of Greece’s 2015 Oxi referendum have resurfaced, with Varoufakis contending that the EU, ECB, and IMF’s post-referendum policies have left Greece “more vulnerable than ever.” This critique feeds into a wider skepticism about the effectiveness and legitimacy of Western-led institutions, both in Europe and beyond.
   
-  Looking ahead, the majority of analysts cited by **Varoufakis** see a high likelihood that the unchecked expansion of private digital currencies will force either a regulatory reckoning or precipitate a financial crisis—"there is high chance" of significant disruption unless public-interest solutions are prioritized. In Europe, the entrenchment of militarization and economic stagnation is "most definitely" expected to persist, fueling further political fragmentation and disillusionment. Calls for collective action and systemic reform are growing, but without a shift in institutional priorities, the prospects for meaningful change remain uncertain.
+  **Trends and Predictions:**  
+  The consolidation of international support for Palestine is likely to intensify pressure on Western governments, with a high chance of increased activism targeting both political leaders and corporate actors. On the economic side, the proliferation of stablecoins and the debate over their regulation will remain at the forefront, with a high chance of market volatility if clear policies are not established soon. The erosion of trust in Western institutions—whether political, military, or financial—will most definitely continue, fueling both grassroots movements and alternative economic experiments. The coming months are set to be defined by heightened contestation over the direction of global governance and economic order.
 articles:
+  - title: Global Alliance for Palestine – my message on why we need it
+    url: https://www.yanisvaroufakis.eu/2025/07/28/25867/
+    text: On 26th July 2025, delegates from over 25 countries convened in London for
+      the inaugural conference of the Global Alliance for Palestine (GAFP). This new
+      transnational initiative seeks to transform rising global solidarity for Palestine
+      into coordinated political action. As a member of the steering committee, I was
+      asked to explain why we need this Alliance. Here was my message to participants.
+      Greetings from me, Yanis Varoufakis, to all of you who have gathered so that we
+      work, together, toward a Global Alliance for Palestine. We need a Global Alliance
+      for Palestine because the West, its governments and big business, constitute a
+      Global Alliance in Support of the Genocide of Palestinians. But let me be a little
+      more precise. The West says it wants a Two State Solution Netanyahu’s life project,
+      like that of the vast majority of political actors in Israel, is to use intense
+      violence to make the Two State Solution impossible Hamas responds with its own
+      violence Israel reacts by calculatingly raising its violence to the Nth power
+      The West then ritualistically condemns Hamas & backs Netanyahu Inevitably, the
+      West’s claim to want a Two State Solution withers into a tacit support of Israel’s
+      genocide Thus Israel secures the backing of a Global Alliance in Support of the
+      Genocide of Palestinians. Isn’t it time that we, people who oppose genocide, who
+      mean it when we say NEVER AGAIN – isn’t it time that we formed a Global Alliance
+      for Palestine? I believe it is! Let’s do it then. The post Global Alliance for
+      Palestine – my message on why we need it appeared first on Yanis Varoufakis .
+    one_sentence_summary: On July 26, 2025, the Global Alliance for Palestine was launched
+      in London to unify international support for Palestine into coordinated political
+      action, as articulated by steering committee member Yanis Varoufakis, who criticized
+      Western governments and businesses for perpetuating violence against Palestinians
+      while claiming to support a Two State Solution.
+    paragraph_summary: On July 26, 2025, the inaugural conference of the Global Alliance
+      for Palestine (GAFP) took place in London, bringing together delegates from over
+      25 countries to promote coordinated political action in support of Palestine.
+      Yanis Varoufakis, a member of the steering committee, emphasized the necessity
+      of this alliance, arguing that Western governments and corporations effectively
+      support the genocide of Palestinians under the guise of advocating for a Two State
+      Solution. He criticized the cycle of violence perpetuated by Israeli actions and
+      Hamas's responses, which he believes are tacitly endorsed by the West. Varoufakis
+      called for the formation of the GAFP as a united front against genocide, urging
+      participants to take meaningful action in solidarity with the Palestinian cause.
+    published: '2025-07-28T15:57:01+00:00'
+  - title: Global Alliance for Palestine – my message on why we need it
+    url: https://www.yanisvaroufakis.eu/2025/07/28/25867/
+    text: On 26th July 2025, delegates from over 25 countries convened in London for
+      the inaugural conference of the Global Alliance for Palestine (GAFP). This new
+      transnational initiative seeks to transform rising global solidarity for Palestine
+      into coordinated political action. As a member of the steering committee, I was
+      asked to explain why we need this Alliance. Here was my message to participants.
+      Greetings from me, Yanis Varoufakis, to all of you who have gathered so that we
+      work, together, toward a Global Alliance for Palestine. We need a Global Alliance
+      for Palestine because the West, its governments and big business, constitute a
+      Global Alliance in Support of the Genocide of Palestinians. But let me be a little
+      more precise. The West says it wants a Two State Solution Netanyahu’s life project,
+      like that of the vast majority of political actors in Israel, is to use intense
+      violence to make the Two State Solution impossible Hamas responds with its own
+      violence Israel reacts by calculatingly raising its violence to the Nth power
+      The West then ritualistically condemns Hamas & backs Netanyahu Inevitably, the
+      West’s claim to want a Two State Solution withers into a tacit support of Israel’s
+      genocide Thus Israel secures the backing of a Global Alliance in Support of the
+      Genocide of Palestinians. Isn’t it time that we, people who oppose genocide, who
+      mean it when we say NEVER AGAIN – isn’t it time that we formed a Global Alliance
+      for Palestine? I believe it is! Let’s do it then. The post Global Alliance for
+      Palestine – my message on why we need it appeared first on Yanis Varoufakis .
+    one_sentence_summary: On July 26, 2025, the Global Alliance for Palestine was launched
+      in London to unify international support for Palestine into coordinated political
+      action, as articulated by steering committee member Yanis Varoufakis, who criticized
+      Western governments and businesses for perpetuating violence against Palestinians
+      while claiming to support a Two State Solution.
+    paragraph_summary: On July 26, 2025, the inaugural conference of the Global Alliance
+      for Palestine (GAFP) took place in London, bringing together delegates from over
+      25 countries to promote coordinated political action in support of Palestine.
+      Yanis Varoufakis, a member of the steering committee, emphasized the necessity
+      of this alliance, arguing that Western governments and corporations effectively
+      support the genocide of Palestinians under the guise of advocating for a Two State
+      Solution. He criticized the cycle of violence perpetuated by Israeli actions and
+      Hamas's responses, which he believes are tacitly endorsed by the West. Varoufakis
+      called for the formation of the GAFP as a united front against genocide, urging
+      participants to take meaningful action in solidarity with the Palestinian cause.
+    published: '2025-07-28T15:57:01+00:00'
   - title: Who needs Marx in 2025? The Guardian, July 2025
     url: https://www.yanisvaroufakis.eu/2025/07/12/who-needs-marx-in-2025-the-guardian-july-2025/
     text: 'To free ourselves from our technofeudal overlords, we must think like Karl

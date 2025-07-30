@@ -7,12 +7,1832 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  As the conflict in Gaza surpasses the one-year mark, regional tensions remain high, with Israeli military operations intensifying and diplomatic prospects for a ceasefire appearing stalled in the immediate term. According to **Elijah J. Magnier**, Israeli Prime Minister Benjamin Netanyahu is under mounting domestic and international pressure to end hostilities, but has instead authorized a major offensive in Deir al-Balah. This escalation signals that no ceasefire agreement is likely before the Knesset’s summer session concludes on July 27. The ongoing campaign has now become Israel’s longest war since 1948, deepening political divisions within Israel and further destabilizing the region.
+  As the war in Gaza enters its second year, the humanitarian situation continues to deteriorate amid stalled ceasefire negotiations and escalating rhetoric from Israeli leadership. Recent statements by Israeli Defence Minister Israel Katz, threatening to "open the gates of hell" on Gaza if hostages are not released, underscore what **Elijah J. Magnier** describes as a deepening "moral disconnect" within the Israeli government. These threats come as the population of Gaza faces intensifying famine, systematic displacement, and ongoing violence.
   
-  Meanwhile, Israel’s military posture on the Golan Heights continues to harden. As reported by **Elijah J. Magnier**, Israel has significantly reinforced its presence and is positioning troops for a potential deeper incursion into southern Syria. This move is interpreted as an attempt to dictate terms to Damascus and provoke instability, potentially paving the way for further territorial annexation. The Israeli government’s actions are widely seen as a strategic effort to secure its northern frontier and exert leverage over Syrian sovereignty.
+  Despite mounting international calls for a ceasefire, Israeli military operations have not abated. The most recent offensives, particularly around Deir al-Balah, signal that the Israeli government is prioritizing military objectives over diplomatic progress. **Elijah J. Magnier** notes that negotiations led by the US and Israel are widely perceived as being conducted in bad faith, with humanitarian aid and relief efforts deliberately restricted as a means of exerting pressure on Palestinian factions.
   
-  Looking ahead, the consensus among analysts is that a Gaza ceasefire remains unlikely before July 27, but the situation could shift rapidly thereafter, especially as political pressure on Netanyahu intensifies. “There is a high chance that negotiations will resume in earnest after the Knesset session ends, with a possible breakthrough in early August,” predicts **Elijah J. Magnier**. The military build-up on the Golan Heights is expected to persist, with the risk of escalation into Syria remaining elevated. The broader trend points to continued volatility across the region, with Israel’s actions in both Gaza and Syria shaping the strategic landscape for the months ahead.
+  The broader regional context remains fraught, with minority communities—especially Christians—across the Middle East expressing growing fears of abandonment and existential threat. As previously reported, these communities face increasing hostility and a collapse of both domestic and international protections, leading to a sense of isolation and vulnerability.
+  
+  Looking ahead, the prevailing analysis suggests little likelihood of a meaningful ceasefire or improvement in humanitarian conditions in Gaza in the immediate term. Based on the current trajectory and the intransigence of the Israeli leadership, I guarantee that the suffering in Gaza will persist, with further escalation possible if negotiations continue to stall and military threats are carried out. The regional trend points toward deepening instability, with minority populations at heightened risk and diplomatic solutions remaining elusive.
 articles:
+  - title: 'Die Farce des Waffenstillstands: Wie die USA und Israel Gaza aushungern,
+      während sie in böser Absicht verhandeln'
+    url: https://ejmagnier.com/2025/07/29/die-farce-des-waffenstillstands-wie-die-usa-und-israel-gaza-aushungern-wahrend-sie-in-boser-absicht-verhandeln/
+    text: Tweet Von Elijah J. Magnier – Der israelische Verteidigungsminister Israel
+      Katz drohte kürzlich, „die Tore der Hölle über Gaza zu öffnen“, sollten die israelischen
+      Geiseln nicht freigelassen werden – als ob die Menschen in Gaza im Paradies leben
+      und nicht bereits zwei Jahre lang die Hölle durchlebt hätten, mit unerbittlichen
+      Kriegen, kollektiver Bestrafung und täglichen Verstößen gegen das Völkerrecht.
+      Diese Erklärung spiegelt nicht nur die moralische Entfremdung der israelischen
+      Führung wider, sondern auch, wie tief sie in einen Krieg verstrickt ist, dessen
+      Ziele sie ohne Verhandlungen nicht erreichen kann. Gaza ist heute eine Landschaft,
+      in der Hungersnot herbeigeführt wird, täglich 50 bis 100 Palästinenser getötet
+      werden und systematische Vertreibungen stattfinden, da das israelische Militär
+      Zivilisten befiehlt, innerhalb des belagerten Gazastreifens von einem zerstörten
+      Gebiet in ein anderes zu ziehen. Diese Verhärtung wurde von Moshe Sa’ada, einem
+      Knesset-Abgeordneten der regierenden Likud-Partei, offen dargelegt, der erklärte,
+      Premierminister Benjamin Netanjahu habe „einen strategischen Plan zur militärischen
+      Besetzung des Gazastreifens und zur Zwangsvertreibung der Palästinenser“, einen
+      Plan, der nichts anderes als ethnische Säuberung ist. Finanzminister Bezalel Smotrich
+      bekräftigte diese Vision, als er erklärte, Israel habe „eine klare Strategie“,
+      die unmissverständlich die Vorherrschaft über die Koexistenz stelle. Und doch
+      widerspricht die Realität vor Ort weiterhin dieser Logik. Die hungernden Zivilisten,
+      die Kochtöpfe zu den wenigen verbliebenen Lebensmittelverteilungszentren in Gaza
+      tragen, geben nicht auf. Sie tragen weder Waffen noch weiße Fahnen – sondern Widerstandskraft.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet
+    one_sentence_summary: Der israelische Verteidigungsminister Israel Katz drohte,
+      "die Tore der Hölle über Gaza zu öffnen", was die moralische Entfremdung der israelischen
+      Führung und die verheerenden Bedingungen in Gaza widerspiegelt, wo die Bevölkerung
+      unter Krieg, Hungersnot und systematischen Vertreibungen leidet.
+    paragraph_summary: In a recent tweet, journalist Elijah J. Magnier highlighted the
+      alarming comments made by Israeli Defense Minister Israel Katz, who threatened
+      to "open the gates of hell" on Gaza if Israeli hostages were not released, contrasting
+      this with the dire humanitarian situation in Gaza, which has endured relentless
+      warfare, collective punishment, and violations of international law for two years.
+      Magnier argues that such statements reveal the moral disconnect of Israeli leadership
+      and their deep entanglement in a conflict that cannot be resolved through military
+      means alone. He describes Gaza as a landscape of famine and violence, where the
+      Israeli military forcibly displaces civilians, and cites remarks from Israeli
+      officials suggesting a strategic plan for the military occupation and ethnic cleansing
+      of Palestinians. Despite this grim reality, Magnier notes the resilience of Gazan
+      civilians, who continue to seek sustenance and resist oppression without resorting
+      to violence.
+    published: '2025-07-29T04:25:12+00:00'
+  - title: 'Die Farce des Waffenstillstands: Wie die USA und Israel Gaza aushungern,
+      während sie in böser Absicht verhandeln'
+    url: https://ejmagnier.com/2025/07/29/die-farce-des-waffenstillstands-wie-die-usa-und-israel-gaza-aushungern-wahrend-sie-in-boser-absicht-verhandeln/
+    text: Tweet Von Elijah J. Magnier – Der israelische Verteidigungsminister Israel
+      Katz drohte kürzlich, „die Tore der Hölle über Gaza zu öffnen“, sollten die israelischen
+      Geiseln nicht freigelassen werden – als ob die Menschen in Gaza im Paradies leben
+      und nicht bereits zwei Jahre lang die Hölle durchlebt hätten, mit unerbittlichen
+      Kriegen, kollektiver Bestrafung und täglichen Verstößen gegen das Völkerrecht.
+      Diese Erklärung spiegelt nicht nur die moralische Entfremdung der israelischen
+      Führung wider, sondern auch, wie tief sie in einen Krieg verstrickt ist, dessen
+      Ziele sie ohne Verhandlungen nicht erreichen kann. Gaza ist heute eine Landschaft,
+      in der Hungersnot herbeigeführt wird, täglich 50 bis 100 Palästinenser getötet
+      werden und systematische Vertreibungen stattfinden, da das israelische Militär
+      Zivilisten befiehlt, innerhalb des belagerten Gazastreifens von einem zerstörten
+      Gebiet in ein anderes zu ziehen. Diese Verhärtung wurde von Moshe Sa’ada, einem
+      Knesset-Abgeordneten der regierenden Likud-Partei, offen dargelegt, der erklärte,
+      Premierminister Benjamin Netanjahu habe „einen strategischen Plan zur militärischen
+      Besetzung des Gazastreifens und zur Zwangsvertreibung der Palästinenser“, einen
+      Plan, der nichts anderes als ethnische Säuberung ist. Finanzminister Bezalel Smotrich
+      bekräftigte diese Vision, als er erklärte, Israel habe „eine klare Strategie“,
+      die unmissverständlich die Vorherrschaft über die Koexistenz stelle. Und doch
+      widerspricht die Realität vor Ort weiterhin dieser Logik. Die hungernden Zivilisten,
+      die Kochtöpfe zu den wenigen verbliebenen Lebensmittelverteilungszentren in Gaza
+      tragen, geben nicht auf. Sie tragen weder Waffen noch weiße Fahnen – sondern Widerstandskraft.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet
+    one_sentence_summary: Der israelische Verteidigungsminister Israel Katz drohte,
+      "die Tore der Hölle über Gaza zu öffnen", was die moralische Entfremdung der israelischen
+      Führung und die verheerenden Bedingungen in Gaza widerspiegelt, wo die Bevölkerung
+      unter Krieg, Hungersnot und systematischen Vertreibungen leidet.
+    paragraph_summary: In a recent tweet, journalist Elijah J. Magnier highlighted the
+      alarming comments made by Israeli Defense Minister Israel Katz, who threatened
+      to "open the gates of hell" on Gaza if Israeli hostages were not released, contrasting
+      this with the dire humanitarian situation in Gaza, which has endured relentless
+      warfare, collective punishment, and violations of international law for two years.
+      Magnier argues that such statements reveal the moral disconnect of Israeli leadership
+      and their deep entanglement in a conflict that cannot be resolved through military
+      means alone. He describes Gaza as a landscape of famine and violence, where the
+      Israeli military forcibly displaces civilians, and cites remarks from Israeli
+      officials suggesting a strategic plan for the military occupation and ethnic cleansing
+      of Palestinians. Despite this grim reality, Magnier notes the resilience of Gazan
+      civilians, who continue to seek sustenance and resist oppression without resorting
+      to violence.
+    published: '2025-07-29T04:25:12+00:00'
+  - title: 'The Farce of Ceasefire: How the US and Israel Are Starving Gaza While Negotiating
+      in Bad Faith'
+    url: https://ejmagnier.com/2025/07/28/the-farce-of-ceasefire-how-the-us-and-israel-are-starving-gaza-while-negotiating-in-bad-faith/
+    text: Tweet By Elijah J. Magnier – Israel’s Defence Minister, Israel Katz, recently
+      threatened to “open the doors of hell on Gaza” if Israeli hostages are not released—as
+      though the people of Gaza live in paradise and have not already endured two years
+      of hell, relentless war, collective punishment, and daily violations of international
+      law. The statement reflects not only the moral disconnect of Israeli leadership,
+      but also the depth of its entanglement in a war it cannot achieve its objectives
+      without negotiations. Gaza is now a landscape of engineered famine, daily killings—ranging
+      from 50 to 100 Palestinians—and systematic forced displacement, as the Israeli
+      military orders civilians to move from one devastated area to another within the
+      besieged Strip. This entrenchment was laid bare by Moshe Sa’ada, a Knesset member
+      from the ruling Likud party, who openly stated that Prime Minister Benjamin Netanyahu
+      “has a strategic plan to militarily occupy Gaza and force the mass expulsion of
+      Palestinians”, a plan of ethnic cleansing in all but name. Finance Minister Bezalel
+      Smotrich reinforced this vision when he declared that Israel “has a clear strategy,”
+      one that unmistakably prioritises domination over coexistence. And yet, the reality
+      on the ground continues to defy this logic. The empty-stomached civilians carrying
+      cooking pots to Gaza’s few remaining food distribution centres are not surrendering.
+      They carry neither weapons nor white flags—but resilience. It is this unbroken
+      will to survive and resist, even under siege, that leaves Netanyahu trapped in
+      a war without exit. He turns to negotiations only to sabotage them, every time
+      they inch toward a resolution. Israel announced ten hours daily “humanitarian
+      truce” to allow an increase – but far from sufficient – of aids into Gaza while
+      continuing the war. The collapse of ceasefire negotiations in Doha should come
+      as no surprise. When the principal parties at the table—the United States and
+      Israel—are also the principal architects of the very suffering they claim to resolve,
+      diplomacy becomes little more than political theatre. The humanitarian catastrophe
+      unfolding in Gaza is not collateral damage; it is a calculated component of military
+      and political strategy. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet
+    one_sentence_summary: Israel's Defence Minister Israel Katz's threat to unleash
+      further violence on Gaza if hostages are not released highlights the moral disconnect
+      of Israeli leadership and the ongoing humanitarian crisis in the region, where
+      Palestinians face severe hardships, including famine, killings, and forced displacement.
+    paragraph_summary: In a recent statement, Israeli Defence Minister Israel Katz threatened
+      to unleash severe consequences on Gaza if hostages are not released, highlighting
+      a significant moral disconnect within Israeli leadership amid ongoing suffering
+      in Gaza, which has faced relentless war, famine, and systematic displacement.
+      The situation has been exacerbated by remarks from Israeli officials, including
+      Knesset member Moshe Sa’ada and Finance Minister Bezalel Smotrich, who have indicated
+      a strategic plan for military occupation and the expulsion of Palestinians, effectively
+      amounting to ethnic cleansing. Despite these threats and military actions, the
+      resilient population of Gaza continues to resist and survive, demonstrating a
+      steadfast will to endure under siege. Meanwhile, Israeli Prime Minister Benjamin
+      Netanyahu appears trapped in a conflict without a clear resolution, often undermining
+      negotiations while offering limited humanitarian relief amidst ongoing hostilities.
+      The collapse of ceasefire talks in Doha reflects the complexities of the situation,
+      particularly given the roles of the U.S. and Israel as key players in the conflict.
+    published: '2025-07-28T18:37:43+00:00'
+  - title: 'The Farce of Ceasefire: How the US and Israel Are Starving Gaza While Negotiating
+      in Bad Faith'
+    url: https://ejmagnier.com/2025/07/28/the-farce-of-ceasefire-how-the-us-and-israel-are-starving-gaza-while-negotiating-in-bad-faith/
+    text: Tweet By Elijah J. Magnier – Israel’s Defence Minister, Israel Katz, recently
+      threatened to “open the doors of hell on Gaza” if Israeli hostages are not released—as
+      though the people of Gaza live in paradise and have not already endured two years
+      of hell, relentless war, collective punishment, and daily violations of international
+      law. The statement reflects not only the moral disconnect of Israeli leadership,
+      but also the depth of its entanglement in a war it cannot achieve its objectives
+      without negotiations. Gaza is now a landscape of engineered famine, daily killings—ranging
+      from 50 to 100 Palestinians—and systematic forced displacement, as the Israeli
+      military orders civilians to move from one devastated area to another within the
+      besieged Strip. This entrenchment was laid bare by Moshe Sa’ada, a Knesset member
+      from the ruling Likud party, who openly stated that Prime Minister Benjamin Netanyahu
+      “has a strategic plan to militarily occupy Gaza and force the mass expulsion of
+      Palestinians”, a plan of ethnic cleansing in all but name. Finance Minister Bezalel
+      Smotrich reinforced this vision when he declared that Israel “has a clear strategy,”
+      one that unmistakably prioritises domination over coexistence. And yet, the reality
+      on the ground continues to defy this logic. The empty-stomached civilians carrying
+      cooking pots to Gaza’s few remaining food distribution centres are not surrendering.
+      They carry neither weapons nor white flags—but resilience. It is this unbroken
+      will to survive and resist, even under siege, that leaves Netanyahu trapped in
+      a war without exit. He turns to negotiations only to sabotage them, every time
+      they inch toward a resolution. Israel announced ten hours daily “humanitarian
+      truce” to allow an increase – but far from sufficient – of aids into Gaza while
+      continuing the war. The collapse of ceasefire negotiations in Doha should come
+      as no surprise. When the principal parties at the table—the United States and
+      Israel—are also the principal architects of the very suffering they claim to resolve,
+      diplomacy becomes little more than political theatre. The humanitarian catastrophe
+      unfolding in Gaza is not collateral damage; it is a calculated component of military
+      and political strategy. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet
+    one_sentence_summary: Israel's Defence Minister Israel Katz's threat to unleash
+      further violence on Gaza if hostages are not released highlights the moral disconnect
+      of Israeli leadership and the ongoing humanitarian crisis in the region, where
+      Palestinians face severe hardships, including famine, killings, and forced displacement.
+    paragraph_summary: In a recent statement, Israeli Defence Minister Israel Katz threatened
+      to unleash severe consequences on Gaza if hostages are not released, highlighting
+      a significant moral disconnect within Israeli leadership amid ongoing suffering
+      in Gaza, which has faced relentless war, famine, and systematic displacement.
+      The situation has been exacerbated by remarks from Israeli officials, including
+      Knesset member Moshe Sa’ada and Finance Minister Bezalel Smotrich, who have indicated
+      a strategic plan for military occupation and the expulsion of Palestinians, effectively
+      amounting to ethnic cleansing. Despite these threats and military actions, the
+      resilient population of Gaza continues to resist and survive, demonstrating a
+      steadfast will to endure under siege. Meanwhile, Israeli Prime Minister Benjamin
+      Netanyahu appears trapped in a conflict without a clear resolution, often undermining
+      negotiations while offering limited humanitarian relief amidst ongoing hostilities.
+      The collapse of ceasefire talks in Doha reflects the complexities of the situation,
+      particularly given the roles of the U.S. and Israel as key players in the conflict.
+    published: '2025-07-28T18:37:43+00:00'
+  - title: 'La Farce du Cessez-le-Feu : Comment les États-Unis et Israël Affament Gaza
+      Tout en Négociant de Mauvaise Foi'
+    url: https://ejmagnier.com/2025/07/28/la-farce-du-cessez-le-feu-comment-les-etats-unis-et-israel-affament-gaza-tout-en-negociant-de-mauvaise-foi/
+    text: Tweet Par Elijah J. Magnier – Le ministre israélien de la Défense, Israel
+      Katz, a récemment menacé “d’ouvrir les portes de l’enfer sur Gaza” si les otages
+      israéliens n’étaient pas libérés – comme si les habitants de Gaza vivaient au
+      paradis et n’avaient pas déjà enduré deux années d’enfer, de guerre incessante,
+      de punitions collectives et de violations quotidiennes du droit international.
+      Cette déclaration illustre non seulement la déconnexion morale des dirigeants
+      israéliens, mais aussi l’impasse stratégique dans laquelle ils se trouvent. Gaza
+      est aujourd’hui le théâtre d’une famine organisée, de meurtres quotidiens – entre
+      50 et 100 Palestiniens par jour – et de déplacements forcés systématiques, les
+      forces militaires israéliennes ordonnant aux civils de se déplacer d’une zone
+      dévastée à une autre à l’intérieur de l’enclave assiégée. Cette impasse a été
+      révélée au grand jour par Moshe Sa’ada, membre de la Knesset du parti au pouvoir,
+      le Likoud, qui a déclaré ouvertement que le Premier ministre Benjamin Netanyahou
+      “a un plan stratégique pour occuper militairement Gaza et forcer l’expulsion massive
+      des Palestiniens”, un plan de nettoyage ethnique sans en porter le nom. Le ministre
+      des Finances Bezalel Smotrich a renforcé cette vision en affirmant qu’Israël “dispose
+      d’une stratégie claire”, qui privilégie incontestablement la domination à la coexistence.
+      Et pourtant, la réalité sur le terrain continue de défier cette logique. Les civils
+      au ventre vide qui portent des casseroles vers les rares centres de distribution
+      alimentaire de Gaza ne se rendent pas. Ils ne portent ni armes, ni drapeaux blancs
+      – mais une résilience intacte. C’est cette volonté inébranlable de survivre et
+      de résister, même sous blocus, qui piège Netanyahou dans une guerre sans issue.
+      Il ne se tourne vers les négociations que pour les saboter dès qu’elles approchent
+      d’une solution. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet
+    one_sentence_summary: Le ministre israélien de la Défense, Israel Katz, a menacé
+      d'intensifier les attaques sur Gaza si les otages israéliens n'étaient pas libérés,
+      ignorant ainsi la souffrance déjà endurée par les habitants de Gaza, qui vivent
+      dans des conditions catastrophiques marquées par la famine et la violence quotidienne.
+    paragraph_summary: Israeli Defense Minister Israel Katz recently threatened to "open
+      the gates of hell on Gaza" if Israeli hostages are not released, highlighting
+      a moral disconnect among Israeli leaders amid the ongoing humanitarian crisis
+      in Gaza, which has endured two years of war, collective punishment, and daily
+      violations of international law. The situation has escalated to organized famine
+      and daily killings, with Israeli military forces systematically displacing civilians
+      within the besieged enclave. Knesset member Moshe Sa’ada revealed a strategic
+      plan by Prime Minister Benjamin Netanyahu for military occupation and mass expulsion
+      of Palestinians, which is echoed by Finance Minister Bezalel Smotrich's assertion
+      of a clear strategy favoring domination over coexistence. Despite this, the resilience
+      of Gazan civilians, who continue to seek food and survival without weapons or
+      surrender, challenges Netanyahu's approach, entrenching him in a seemingly unwinnable
+      conflict as he sabotages negotiations that could lead to a resolution.
+    published: '2025-07-28T18:35:44+00:00'
+  - title: 'La Farce du Cessez-le-Feu : Comment les États-Unis et Israël Affament Gaza
+      Tout en Négociant de Mauvaise Foi'
+    url: https://ejmagnier.com/2025/07/28/la-farce-du-cessez-le-feu-comment-les-etats-unis-et-israel-affament-gaza-tout-en-negociant-de-mauvaise-foi/
+    text: Tweet Par Elijah J. Magnier – Le ministre israélien de la Défense, Israel
+      Katz, a récemment menacé “d’ouvrir les portes de l’enfer sur Gaza” si les otages
+      israéliens n’étaient pas libérés – comme si les habitants de Gaza vivaient au
+      paradis et n’avaient pas déjà enduré deux années d’enfer, de guerre incessante,
+      de punitions collectives et de violations quotidiennes du droit international.
+      Cette déclaration illustre non seulement la déconnexion morale des dirigeants
+      israéliens, mais aussi l’impasse stratégique dans laquelle ils se trouvent. Gaza
+      est aujourd’hui le théâtre d’une famine organisée, de meurtres quotidiens – entre
+      50 et 100 Palestiniens par jour – et de déplacements forcés systématiques, les
+      forces militaires israéliennes ordonnant aux civils de se déplacer d’une zone
+      dévastée à une autre à l’intérieur de l’enclave assiégée. Cette impasse a été
+      révélée au grand jour par Moshe Sa’ada, membre de la Knesset du parti au pouvoir,
+      le Likoud, qui a déclaré ouvertement que le Premier ministre Benjamin Netanyahou
+      “a un plan stratégique pour occuper militairement Gaza et forcer l’expulsion massive
+      des Palestiniens”, un plan de nettoyage ethnique sans en porter le nom. Le ministre
+      des Finances Bezalel Smotrich a renforcé cette vision en affirmant qu’Israël “dispose
+      d’une stratégie claire”, qui privilégie incontestablement la domination à la coexistence.
+      Et pourtant, la réalité sur le terrain continue de défier cette logique. Les civils
+      au ventre vide qui portent des casseroles vers les rares centres de distribution
+      alimentaire de Gaza ne se rendent pas. Ils ne portent ni armes, ni drapeaux blancs
+      – mais une résilience intacte. C’est cette volonté inébranlable de survivre et
+      de résister, même sous blocus, qui piège Netanyahou dans une guerre sans issue.
+      Il ne se tourne vers les négociations que pour les saboter dès qu’elles approchent
+      d’une solution. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet
+    one_sentence_summary: Le ministre israélien de la Défense, Israel Katz, a menacé
+      d'intensifier les attaques sur Gaza si les otages israéliens n'étaient pas libérés,
+      ignorant ainsi la souffrance déjà endurée par les habitants de Gaza, qui vivent
+      dans des conditions catastrophiques marquées par la famine et la violence quotidienne.
+    paragraph_summary: Israeli Defense Minister Israel Katz recently threatened to "open
+      the gates of hell on Gaza" if Israeli hostages are not released, highlighting
+      a moral disconnect among Israeli leaders amid the ongoing humanitarian crisis
+      in Gaza, which has endured two years of war, collective punishment, and daily
+      violations of international law. The situation has escalated to organized famine
+      and daily killings, with Israeli military forces systematically displacing civilians
+      within the besieged enclave. Knesset member Moshe Sa’ada revealed a strategic
+      plan by Prime Minister Benjamin Netanyahu for military occupation and mass expulsion
+      of Palestinians, which is echoed by Finance Minister Bezalel Smotrich's assertion
+      of a clear strategy favoring domination over coexistence. Despite this, the resilience
+      of Gazan civilians, who continue to seek food and survival without weapons or
+      surrender, challenges Netanyahu's approach, entrenching him in a seemingly unwinnable
+      conflict as he sabotages negotiations that could lead to a resolution.
+    published: '2025-07-28T18:35:44+00:00'
+  - title: 'De farce van het staakt-het-vuren: hoe de VS en Israël Gaza uithongeren
+      terwijl ze te kwader trouw onderhandelen'
+    url: https://ejmagnier.com/2025/07/28/de-farce-van-het-staakt-het-vuren-hoe-de-vs-en-israel-gaza-uithongeren-terwijl-ze-te-kwader-trouw-onderhandelen/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De Israëlische
+      minister van Defensie, Israel Katz, dreigde onlangs “de poorten van de hel te
+      openen voor Gaza” als de Israëlische gijzelaars niet worden vrijgelaten – alsof
+      de bevolking van Gaza in het paradijs leeft en niet al twee jaar lang een hel
+      heeft doorgemaakt, met een meedogenloze oorlog, collectieve straffen en dagelijkse
+      schendingen van het internationaal recht. Deze verklaring weerspiegelt niet alleen
+      het gebrek aan moreel besef van de Israëlische leiders, maar ook de diepte van
+      hun verstrikking in een oorlog die zij zonder onderhandelingen niet kunnen winnen.
+      Gaza is nu een landschap van opzettelijke hongersnood, dagelijkse moorden – tussen
+      de 50 en 100 Palestijnen – en systematische gedwongen verplaatsing, waarbij het
+      Israëlische leger burgers beveelt om van het ene verwoeste gebied naar het andere
+      te verhuizen binnen de belegerde strook. Deze vastgeroeste houding werd blootgelegd
+      door Moshe Sa’ada, een Knesset-lid van de regerende Likud-partij, die openlijk
+      verklaarde dat premier Benjamin Netanyahu “een strategisch plan heeft om Gaza
+      militair te bezetten en de massale verdrijving van Palestijnen af te dwingen”,
+      een plan dat in alles behalve de naam een etnische zuivering is. Minister van
+      Financiën Bezalel Smotrich versterkte deze visie toen hij verklaarde dat Israël
+      “een duidelijke strategie heeft”, een strategie die onmiskenbaar voorrang geeft
+      aan overheersing boven coëxistentie. En toch blijft de realiteit ter plaatse deze
+      logica tarten. De hongerige burgers die kookpotten naar de weinige overgebleven
+      voedselverdeelcentra in Gaza dragen, geven zich niet over. Ze dragen geen wapens
+      of witte vlaggen, maar veerkracht. Het is deze ongebroken wil om te overleven
+      en weerstand te bieden, zelfs onder beleg, die Netanyahu gevangen houdt in een
+      oorlog zonder uitweg. Hij wendt zich tot onderhandelingen alleen om ze te saboteren,
+      telkens wanneer ze een oplossing dichterbij brengen. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israëlische minister van Defensie, Israel Katz, heeft gedreigd
+      "de poorten van de hel te openen voor Gaza" als Israëlische gijzelaars niet worden
+      vrijgelaten, wat de morele blindheid van Israëlische leiders en de verwoestende
+      omstandigheden in Gaza benadrukt, waar de bevolking al twee jaar lijdt onder oorlog,
+      hongersnood en geweld.
+    paragraph_summary: Israëlische minister van Defensie, Israel Katz, heeft gedreigd
+      "de poorten van de hel te openen voor Gaza" als de Israëlische gijzelaars niet
+      worden vrijgelaten, wat de morele tekortkomingen van de Israëlische leiders blootlegt
+      te midden van een verwoestende oorlog en schendingen van het internationaal recht
+      in Gaza. De situatie daar is schrijnend, met opzettelijke hongersnood, dagelijkse
+      moorden en gedwongen verplaatsingen van Palestijnen, terwijl Israëlische politici,
+      zoals Knesset-lid Moshe Sa’ada en minister van Financiën Bezalel Smotrich, openlijk
+      pleiten voor militaire bezetting en etnische zuivering. Ondanks deze onderdrukking
+      tonen de inwoners van Gaza veerkracht en vastberadenheid om te overleven, wat
+      premier Netanyahu in een uitzichtloze oorlog houdt, waarbij hij onderhandelingen
+      saboteert telkens als ze een oplossing dichterbij brengen.
+    published: '2025-07-28T18:34:19+00:00'
+  - title: 'De farce van het staakt-het-vuren: hoe de VS en Israël Gaza uithongeren
+      terwijl ze te kwader trouw onderhandelen'
+    url: https://ejmagnier.com/2025/07/28/de-farce-van-het-staakt-het-vuren-hoe-de-vs-en-israel-gaza-uithongeren-terwijl-ze-te-kwader-trouw-onderhandelen/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De Israëlische
+      minister van Defensie, Israel Katz, dreigde onlangs “de poorten van de hel te
+      openen voor Gaza” als de Israëlische gijzelaars niet worden vrijgelaten – alsof
+      de bevolking van Gaza in het paradijs leeft en niet al twee jaar lang een hel
+      heeft doorgemaakt, met een meedogenloze oorlog, collectieve straffen en dagelijkse
+      schendingen van het internationaal recht. Deze verklaring weerspiegelt niet alleen
+      het gebrek aan moreel besef van de Israëlische leiders, maar ook de diepte van
+      hun verstrikking in een oorlog die zij zonder onderhandelingen niet kunnen winnen.
+      Gaza is nu een landschap van opzettelijke hongersnood, dagelijkse moorden – tussen
+      de 50 en 100 Palestijnen – en systematische gedwongen verplaatsing, waarbij het
+      Israëlische leger burgers beveelt om van het ene verwoeste gebied naar het andere
+      te verhuizen binnen de belegerde strook. Deze vastgeroeste houding werd blootgelegd
+      door Moshe Sa’ada, een Knesset-lid van de regerende Likud-partij, die openlijk
+      verklaarde dat premier Benjamin Netanyahu “een strategisch plan heeft om Gaza
+      militair te bezetten en de massale verdrijving van Palestijnen af te dwingen”,
+      een plan dat in alles behalve de naam een etnische zuivering is. Minister van
+      Financiën Bezalel Smotrich versterkte deze visie toen hij verklaarde dat Israël
+      “een duidelijke strategie heeft”, een strategie die onmiskenbaar voorrang geeft
+      aan overheersing boven coëxistentie. En toch blijft de realiteit ter plaatse deze
+      logica tarten. De hongerige burgers die kookpotten naar de weinige overgebleven
+      voedselverdeelcentra in Gaza dragen, geven zich niet over. Ze dragen geen wapens
+      of witte vlaggen, maar veerkracht. Het is deze ongebroken wil om te overleven
+      en weerstand te bieden, zelfs onder beleg, die Netanyahu gevangen houdt in een
+      oorlog zonder uitweg. Hij wendt zich tot onderhandelingen alleen om ze te saboteren,
+      telkens wanneer ze een oplossing dichterbij brengen. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israëlische minister van Defensie, Israel Katz, heeft gedreigd
+      "de poorten van de hel te openen voor Gaza" als Israëlische gijzelaars niet worden
+      vrijgelaten, wat de morele blindheid van Israëlische leiders en de verwoestende
+      omstandigheden in Gaza benadrukt, waar de bevolking al twee jaar lijdt onder oorlog,
+      hongersnood en geweld.
+    paragraph_summary: Israëlische minister van Defensie, Israel Katz, heeft gedreigd
+      "de poorten van de hel te openen voor Gaza" als de Israëlische gijzelaars niet
+      worden vrijgelaten, wat de morele tekortkomingen van de Israëlische leiders blootlegt
+      te midden van een verwoestende oorlog en schendingen van het internationaal recht
+      in Gaza. De situatie daar is schrijnend, met opzettelijke hongersnood, dagelijkse
+      moorden en gedwongen verplaatsingen van Palestijnen, terwijl Israëlische politici,
+      zoals Knesset-lid Moshe Sa’ada en minister van Financiën Bezalel Smotrich, openlijk
+      pleiten voor militaire bezetting en etnische zuivering. Ondanks deze onderdrukking
+      tonen de inwoners van Gaza veerkracht en vastberadenheid om te overleven, wat
+      premier Netanyahu in een uitzichtloze oorlog houdt, waarbij hij onderhandelingen
+      saboteert telkens als ze een oplossing dichterbij brengen.
+    published: '2025-07-28T18:34:19+00:00'
+  - title: '“No One Is Coming”: Why Christians in the Middle East Are Facing a New Age
+      of Menace and Betrayal.'
+    url: https://ejmagnier.com/2025/07/24/no-one-is-coming-why-christians-in-the-middle-east-are-facing-a-new-age-of-menace-and-betrayal/
+    text: 'Tweet “No One Is Coming”: Why Christians in the Middle East Are Facing a
+      New Age of Menace and Betrayal . By Elijah J. Magnier – For the first time in
+      a century, Christians across the Middle East are beginning to say aloud what was
+      once unthinkable and terrifying: they have been ignored and abandoned. From Jerusalem
+      to Chekka and Jbeil (Lebanon), from Suweida to Maaloula (Syria), Christian and
+      minority communities in the Levant are facing not only rising hostility and physical
+      threat, but something even more chilling: the complete collapse of domestic and
+      international protection. Their allies in Washington and Europe are either silent,
+      complicit, or too uninterested to care. Their enemies, old and new, are bold again.
+      And in the government power vacuum, incompetence or complicity, the minorities
+      are left by fading Western influence, and a darker reality is taking shape. What
+      once felt like a fragile, uneven survival is now tipping toward isolation, betrayal,
+      and extinction. The recent statement by US Ambassador to Israel Mike Huckabee—warning
+      that Israel is now actively rejecting and harassing Christian organisations, including
+      long-time pro-Zionist groups from the US, was not just a diplomatic outburst.
+      It was a rupture. Huckabee, a figure deeply aligned with Christian Zionism and
+      Israel’s right-wing leadership, accused Benjamin Netanyahu’s government of mistreating
+      Christian and foreign church-backed organisations. He even pledged to tell American
+      Christians to reconsider their generous donations and cancel pilgrimages to the
+      Holy Land if the hostility continues. This warning didn’t come from a critic of
+      Israel—it came from one of its most loyal advocates. For decades, Christian Zionists,
+      Western church networks, and European governments have claimed solidarity with
+      Middle Eastern Christians. But when it matters most—in Gaza, in Jerusalem, in
+      Lebanon and Syria—their voices fall silent, or worse, stand with the very powers
+      enabling persecution. The dangerous arc now confronting Middle Eastern Christians
+      is unmistakable: geopolitical realignment, rising Israeli extremism, the resurgence
+      of jihadists in Syria, where minorities were once slaughtered, Western indifference,
+      and the collapse of historic alliances. Even staunch anti-Hezbollah, pro-Western
+      Christian figures like MP Nadim Gemayel are now saying what would have been unthinkable
+      only months ago: perhaps Hezbollah’s weapons are the last line of defence for
+      Lebanon’s vulnerable minorities. The alarm bells are ringing across the region’s
+      Christian communities—but once again, few are listening. Perhaps the most jarring
+      shift came not from Hezbollah’s supporters, but from a strong challenger within
+      Lebanon’s traditional Christian establishment. Nadim Gemayel, son of the assassinated
+      president Bachir Gemayel and one of Hezbollah’s fiercest political opponents,
+      issued a stark warning that resonated across the country. Gemayel considered that,
+      t oday, everyone in Lebanon feels afraid: The Druze, the Shia, and the Christians.
+      The minorities in the Middle East feel how serious the existential menace is.
+      Today, there is new sympathy and justification for Hezbollah retaining its weapons.
+      Gemayel “understands if people say Hezbollah’s weapons are necessary”—not just
+      against Israel, but also against Syria. Coming from a lawmaker who long demanded
+      Hezbollah’s disarmament in the name of sovereignty, this was nothing short of
+      a political earthquake. Yet this was not an ideological reversal—it was a sober
+      reflection of current realities. Across Lebanon, many now see that the state is
+      too fractured, too weak, and too abandoned by its supposed allies to guarantee
+      their survival. In the absence of protection, some Christians are looking to Hezbollah,
+      whose fighters in past years shed their own blood to defend Christian towns in
+      Syria from al-Qaeda and ISIS. For them, this isn’t about politics. It’s about
+      survival. Gemayel’s remarks came in response to two deeply unsettling developments:
+      inflammatory comments by US Special Envoy Thomas Barrack and violent clashes in
+      Syria’s Suweida province, where Bedouin Arab militias attacked minority Druze
+      residents. These incidents sparked fear among Lebanon’s minorities, especially
+      those with cultural and familial ties to Syrian communities that recently endured
+      a massacre against Alawites in northwest Syria. Barrack dropped a political bombshell
+      when he suggested that Lebanon—already on the brink of collapse—could fall back
+      under Syrian influence. He floated the idea of a “Greater Syria” project that
+      would absorb Lebanon’s northern territories, explicitly naming Akkar and Tripoli.
+      This would effectively detach them from Beirut and the historically Shia region
+      of Jabal Amel in the south, placing Christian enclaves in direct contact with
+      takfiri strongholds—the same forces that once powered ISIS and Al-Qaeda and now
+      hold sway in Syria. As if that weren’t enough, Barrack went further, claiming
+      that Lebanon’s coastline belonged to Syria—remarks that ignited panic in Christian-majority
+      areas like Chekka, Batroun, Jbeil, and Jounieh. For many, his words weren’t idle
+      speculation but a glimpse into deeper strategic thinking inside the US administration,
+      suggesting a tacit willingness to accept Syria’s renewed territorial ambitions
+      and Lebanon’s descent into failed-state status. Across the region, Christians
+      are being squeezed by shifting borders, rising extremism, and new geopolitical
+      deals forged without their presence—or their protection. In Palestine, many are
+      trapped between military occupation and economic collapse. In Syria, Christian
+      communities have been battered by war, displacement, and decades of persecution
+      from both jihadist groups and a self-appointed authoritarian regime. And now,
+      the fear is returning in Lebanon. The attack on the Druze of Suweida sent a brutal
+      reminder that sectarian targeting is not a relic of Syria’s past—it is part of
+      its ongoing regional playbook against minorities. With Thomas Barrack suggesting
+      that Lebanon’s north and coast “belong to Syria,” minorities inside Lebanon are
+      reading the writing on the wall: no one is coming to stop what may come next.
+      These tensions are made worse by developments in Damascus. Following a recent
+      Israeli airstrike on the Syrian capital, the self-proclaimed Syrian president—a
+      former ISIS and Al-Qaeda emir with a record of horrific crimes against Alawites,
+      Christians, and Druze—has reportedly begun to reassess his expansionist plans
+      toward Lebanon. This pause may be temporary. The man once responsible for the
+      destruction of churches, the massacre of religious minorities, the kidnapping
+      of nuns in Maaloula and the hosting of thousands of foreign jihadis that are today
+      integrated within the security forces, now wears a presidential title and is positioning
+      himself, with the US blessing, to expand his power again. In 2013, under the command
+      of (the new Syrian president) Abu Mohammad al-Joulani, then leader of Jabhat al-Nusra
+      (al-Qaeda’s affiliate in Syria), jihadist fighters stormed the historic Christian
+      town of Maaloula. They desecrated churches, destroyed ancient icons, and abducted
+      13 Orthodox nuns from the Monastery of St. Thecla—later released in a prisoner
+      exchange. Several Christian civilians were reportedly executed, and others forced
+      to convert. The assault was carried out under Joulani’s direct strategic orders,
+      marking one of the most brutal jihadist attacks on a Christian community during
+      the Syrian war. Maaloula’s fall underscored the existential threat facing religious
+      minorities, and the silence of the West at the time remains a haunting stain on
+      its conscience. Years later, it was Lebanese Hezbollah fighters—primarily Shia—who
+      helped liberate the town, where Aramaic, the ancient language of Jesus Christ,
+      is still spoken today. Hezbollah has lost many fighters in its attempt to achieve
+      the freedom of the ancient Christian town. The Christians of the Middle East are
+      discovering something more terrifying than open hostility: total abandonment.
+      Europe, despite centuries of a religious identity rooted in Christian heritage,
+      has remained largely silent. There have been no serious initiatives to shield
+      or support Christian populations in the Levant. No security pacts. No diplomatic
+      firewalls. When ISIS swept through Syria and Iraq, crucifying priests and burning
+      ancient churches, Europe offered only muted condolences and empty rhetoric. Now,
+      the danger returns—and the silence is louder than ever. The United States, once
+      a partial protector of Christian minorities, has pivoted. The current administration
+      unconditionally supports Israel, even as war crimes and crimes against humanity
+      in Gaza mount and tensions with Christian allies deepen. Christian Zionist movements,
+      once seen as defenders of Mideast Christianity, are now politically bound to policies
+      that leave local Christians exposed. There is no nuance. No dissent. Just alignment
+      with power, even if it costs communities their survival. And now, even Jerusalem—the
+      historic heart of Christianity—feels hostile. According to a report by The Guardian
+      , a video filmed in Jerusalem’s Old City captured ultra-Orthodox Jews spitting
+      at a Christian procession carrying a large wooden cross along the Via Dolorosa.
+      The footage sparked national and international outrage, but for the city’s Christian
+      minority, it was just another chapter in what they describe as an alarming surge
+      in religiously motivated harassment. Since Israel’s most ultranationalist government
+      in history took office, religious leaders—including the Vatican-appointed Latin
+      Patriarch—have warned of rising attacks and growing impunity. “Attacks against
+      Christians have 100% increased this year,” said Yisca Harani, an Israeli Christianity
+      expert, citing spitting, stone-throwing, and vandalism. She told The Guardian
+      that Jewish identity, fuelled by right-wing religious nationalism, is now growing
+      “around anti-Christianity.” Shockingly, the spitting was defended by Elisha Yered,
+      a far-right settler leader and former adviser in Netanyahu’s coalition, who referred
+      to the act as an “ancient Jewish custom” and justified it as historical revenge
+      for the Crusades. Such rhetoric would have been disavowed immediately in the past.
+      Today, it is widely tolerated and not condoned. This normalisation of hate in
+      the very city that Christians worldwide consider sacred is a line crossed. And
+      the silence from Western leaders—those who preach religious freedom, who fund
+      interfaith dialogues, who issue lofty Easter messages—has been deafening. This
+      is not just betrayal. It is a pattern. For more than a century, Middle Eastern
+      Christians have been sacrificed at the altar of Western strategy. They were slaughtered
+      in the Armenian and Assyrian genocides while Europe watched. They were caught
+      between Saddam and sanctions, then between jihadists and US airstrikes. They were
+      cheered during the Arab Spring—then forgotten when militias filled the vacuum.
+      And today, as new maps are drawn and old enemies re-emerge in presidential palaces,
+      Christians in the region hear the familiar message once again: No one is coming.
+      What makes the current moment more chilling is its clarity. There are no illusions
+      left. Israel is turning away Christian supporters. Syria’s former warlords are
+      making a comeback. Lebanon, long a fragile Christian-Arab exception, may become
+      the next battleground. And the West—consumed by domestic crisis, partisanship,
+      and selective outrage—is looking the other way. To the Christians of the Middle
+      East, this isn’t just a diplomatic shift. It’s a moment of existential dread. Extremist
+      local Jewish West Bank residents set fire to a 1,500-year-old Church of St. George
+      in the Christian Palestinian village of Taybeh, north of Ramallah in the West
+      Bank. When churches burn and are blown up in Gaza, your allies are mute. When
+      your existence is in danger, your defenders vanish, and you have to rely on other
+      minorities. When you are killed, the headlines don’t come. The question is no
+      longer whether the Christian presence in the region will survive; it is whether
+      it will thrive. The question is: How long can it last alone? Subscribe Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Christians in the Middle East are increasingly voicing their
+      abandonment and vulnerability as they face rising hostility and a collapse of
+      protection from both domestic and international allies, leading to fears of isolation
+      and extinction.
+    paragraph_summary: In a stark revelation, Christians in the Middle East are expressing
+      feelings of abandonment and betrayal for the first time in a century, as they
+      face escalating hostility and a collapse of both domestic and international protections.
+      Communities from Jerusalem to Lebanon and Syria are increasingly isolated, with
+      their traditional allies in the West—particularly the U.S. and Europe—either silent
+      or complicit in their persecution. The situation has worsened to the point where
+      even prominent figures like U.S. Ambassador to Israel Mike Huckabee, a staunch
+      supporter of Israel, have publicly criticized the Israeli government's treatment
+      of Christian organizations, signaling a potential shift in support from Christian
+      Zionists. This growing neglect and hostility threaten the survival of Christian
+      minorities in the region, as they confront a reality marked by isolation and the
+      risk of extinction amidst a power vacuum and waning Western influence.
+    published: '2025-07-24T18:08:30+00:00'
+  - title: '“No One Is Coming”: Why Christians in the Middle East Are Facing a New Age
+      of Menace and Betrayal.'
+    url: https://ejmagnier.com/2025/07/24/no-one-is-coming-why-christians-in-the-middle-east-are-facing-a-new-age-of-menace-and-betrayal/
+    text: 'Tweet “No One Is Coming”: Why Christians in the Middle East Are Facing a
+      New Age of Menace and Betrayal . By Elijah J. Magnier – For the first time in
+      a century, Christians across the Middle East are beginning to say aloud what was
+      once unthinkable and terrifying: they have been ignored and abandoned. From Jerusalem
+      to Chekka and Jbeil (Lebanon), from Suweida to Maaloula (Syria), Christian and
+      minority communities in the Levant are facing not only rising hostility and physical
+      threat, but something even more chilling: the complete collapse of domestic and
+      international protection. Their allies in Washington and Europe are either silent,
+      complicit, or too uninterested to care. Their enemies, old and new, are bold again.
+      And in the government power vacuum, incompetence or complicity, the minorities
+      are left by fading Western influence, and a darker reality is taking shape. What
+      once felt like a fragile, uneven survival is now tipping toward isolation, betrayal,
+      and extinction. The recent statement by US Ambassador to Israel Mike Huckabee—warning
+      that Israel is now actively rejecting and harassing Christian organisations, including
+      long-time pro-Zionist groups from the US, was not just a diplomatic outburst.
+      It was a rupture. Huckabee, a figure deeply aligned with Christian Zionism and
+      Israel’s right-wing leadership, accused Benjamin Netanyahu’s government of mistreating
+      Christian and foreign church-backed organisations. He even pledged to tell American
+      Christians to reconsider their generous donations and cancel pilgrimages to the
+      Holy Land if the hostility continues. This warning didn’t come from a critic of
+      Israel—it came from one of its most loyal advocates. For decades, Christian Zionists,
+      Western church networks, and European governments have claimed solidarity with
+      Middle Eastern Christians. But when it matters most—in Gaza, in Jerusalem, in
+      Lebanon and Syria—their voices fall silent, or worse, stand with the very powers
+      enabling persecution. The dangerous arc now confronting Middle Eastern Christians
+      is unmistakable: geopolitical realignment, rising Israeli extremism, the resurgence
+      of jihadists in Syria, where minorities were once slaughtered, Western indifference,
+      and the collapse of historic alliances. Even staunch anti-Hezbollah, pro-Western
+      Christian figures like MP Nadim Gemayel are now saying what would have been unthinkable
+      only months ago: perhaps Hezbollah’s weapons are the last line of defence for
+      Lebanon’s vulnerable minorities. The alarm bells are ringing across the region’s
+      Christian communities—but once again, few are listening. Perhaps the most jarring
+      shift came not from Hezbollah’s supporters, but from a strong challenger within
+      Lebanon’s traditional Christian establishment. Nadim Gemayel, son of the assassinated
+      president Bachir Gemayel and one of Hezbollah’s fiercest political opponents,
+      issued a stark warning that resonated across the country. Gemayel considered that,
+      t oday, everyone in Lebanon feels afraid: The Druze, the Shia, and the Christians.
+      The minorities in the Middle East feel how serious the existential menace is.
+      Today, there is new sympathy and justification for Hezbollah retaining its weapons.
+      Gemayel “understands if people say Hezbollah’s weapons are necessary”—not just
+      against Israel, but also against Syria. Coming from a lawmaker who long demanded
+      Hezbollah’s disarmament in the name of sovereignty, this was nothing short of
+      a political earthquake. Yet this was not an ideological reversal—it was a sober
+      reflection of current realities. Across Lebanon, many now see that the state is
+      too fractured, too weak, and too abandoned by its supposed allies to guarantee
+      their survival. In the absence of protection, some Christians are looking to Hezbollah,
+      whose fighters in past years shed their own blood to defend Christian towns in
+      Syria from al-Qaeda and ISIS. For them, this isn’t about politics. It’s about
+      survival. Gemayel’s remarks came in response to two deeply unsettling developments:
+      inflammatory comments by US Special Envoy Thomas Barrack and violent clashes in
+      Syria’s Suweida province, where Bedouin Arab militias attacked minority Druze
+      residents. These incidents sparked fear among Lebanon’s minorities, especially
+      those with cultural and familial ties to Syrian communities that recently endured
+      a massacre against Alawites in northwest Syria. Barrack dropped a political bombshell
+      when he suggested that Lebanon—already on the brink of collapse—could fall back
+      under Syrian influence. He floated the idea of a “Greater Syria” project that
+      would absorb Lebanon’s northern territories, explicitly naming Akkar and Tripoli.
+      This would effectively detach them from Beirut and the historically Shia region
+      of Jabal Amel in the south, placing Christian enclaves in direct contact with
+      takfiri strongholds—the same forces that once powered ISIS and Al-Qaeda and now
+      hold sway in Syria. As if that weren’t enough, Barrack went further, claiming
+      that Lebanon’s coastline belonged to Syria—remarks that ignited panic in Christian-majority
+      areas like Chekka, Batroun, Jbeil, and Jounieh. For many, his words weren’t idle
+      speculation but a glimpse into deeper strategic thinking inside the US administration,
+      suggesting a tacit willingness to accept Syria’s renewed territorial ambitions
+      and Lebanon’s descent into failed-state status. Across the region, Christians
+      are being squeezed by shifting borders, rising extremism, and new geopolitical
+      deals forged without their presence—or their protection. In Palestine, many are
+      trapped between military occupation and economic collapse. In Syria, Christian
+      communities have been battered by war, displacement, and decades of persecution
+      from both jihadist groups and a self-appointed authoritarian regime. And now,
+      the fear is returning in Lebanon. The attack on the Druze of Suweida sent a brutal
+      reminder that sectarian targeting is not a relic of Syria’s past—it is part of
+      its ongoing regional playbook against minorities. With Thomas Barrack suggesting
+      that Lebanon’s north and coast “belong to Syria,” minorities inside Lebanon are
+      reading the writing on the wall: no one is coming to stop what may come next.
+      These tensions are made worse by developments in Damascus. Following a recent
+      Israeli airstrike on the Syrian capital, the self-proclaimed Syrian president—a
+      former ISIS and Al-Qaeda emir with a record of horrific crimes against Alawites,
+      Christians, and Druze—has reportedly begun to reassess his expansionist plans
+      toward Lebanon. This pause may be temporary. The man once responsible for the
+      destruction of churches, the massacre of religious minorities, the kidnapping
+      of nuns in Maaloula and the hosting of thousands of foreign jihadis that are today
+      integrated within the security forces, now wears a presidential title and is positioning
+      himself, with the US blessing, to expand his power again. In 2013, under the command
+      of (the new Syrian president) Abu Mohammad al-Joulani, then leader of Jabhat al-Nusra
+      (al-Qaeda’s affiliate in Syria), jihadist fighters stormed the historic Christian
+      town of Maaloula. They desecrated churches, destroyed ancient icons, and abducted
+      13 Orthodox nuns from the Monastery of St. Thecla—later released in a prisoner
+      exchange. Several Christian civilians were reportedly executed, and others forced
+      to convert. The assault was carried out under Joulani’s direct strategic orders,
+      marking one of the most brutal jihadist attacks on a Christian community during
+      the Syrian war. Maaloula’s fall underscored the existential threat facing religious
+      minorities, and the silence of the West at the time remains a haunting stain on
+      its conscience. Years later, it was Lebanese Hezbollah fighters—primarily Shia—who
+      helped liberate the town, where Aramaic, the ancient language of Jesus Christ,
+      is still spoken today. Hezbollah has lost many fighters in its attempt to achieve
+      the freedom of the ancient Christian town. The Christians of the Middle East are
+      discovering something more terrifying than open hostility: total abandonment.
+      Europe, despite centuries of a religious identity rooted in Christian heritage,
+      has remained largely silent. There have been no serious initiatives to shield
+      or support Christian populations in the Levant. No security pacts. No diplomatic
+      firewalls. When ISIS swept through Syria and Iraq, crucifying priests and burning
+      ancient churches, Europe offered only muted condolences and empty rhetoric. Now,
+      the danger returns—and the silence is louder than ever. The United States, once
+      a partial protector of Christian minorities, has pivoted. The current administration
+      unconditionally supports Israel, even as war crimes and crimes against humanity
+      in Gaza mount and tensions with Christian allies deepen. Christian Zionist movements,
+      once seen as defenders of Mideast Christianity, are now politically bound to policies
+      that leave local Christians exposed. There is no nuance. No dissent. Just alignment
+      with power, even if it costs communities their survival. And now, even Jerusalem—the
+      historic heart of Christianity—feels hostile. According to a report by The Guardian
+      , a video filmed in Jerusalem’s Old City captured ultra-Orthodox Jews spitting
+      at a Christian procession carrying a large wooden cross along the Via Dolorosa.
+      The footage sparked national and international outrage, but for the city’s Christian
+      minority, it was just another chapter in what they describe as an alarming surge
+      in religiously motivated harassment. Since Israel’s most ultranationalist government
+      in history took office, religious leaders—including the Vatican-appointed Latin
+      Patriarch—have warned of rising attacks and growing impunity. “Attacks against
+      Christians have 100% increased this year,” said Yisca Harani, an Israeli Christianity
+      expert, citing spitting, stone-throwing, and vandalism. She told The Guardian
+      that Jewish identity, fuelled by right-wing religious nationalism, is now growing
+      “around anti-Christianity.” Shockingly, the spitting was defended by Elisha Yered,
+      a far-right settler leader and former adviser in Netanyahu’s coalition, who referred
+      to the act as an “ancient Jewish custom” and justified it as historical revenge
+      for the Crusades. Such rhetoric would have been disavowed immediately in the past.
+      Today, it is widely tolerated and not condoned. This normalisation of hate in
+      the very city that Christians worldwide consider sacred is a line crossed. And
+      the silence from Western leaders—those who preach religious freedom, who fund
+      interfaith dialogues, who issue lofty Easter messages—has been deafening. This
+      is not just betrayal. It is a pattern. For more than a century, Middle Eastern
+      Christians have been sacrificed at the altar of Western strategy. They were slaughtered
+      in the Armenian and Assyrian genocides while Europe watched. They were caught
+      between Saddam and sanctions, then between jihadists and US airstrikes. They were
+      cheered during the Arab Spring—then forgotten when militias filled the vacuum.
+      And today, as new maps are drawn and old enemies re-emerge in presidential palaces,
+      Christians in the region hear the familiar message once again: No one is coming.
+      What makes the current moment more chilling is its clarity. There are no illusions
+      left. Israel is turning away Christian supporters. Syria’s former warlords are
+      making a comeback. Lebanon, long a fragile Christian-Arab exception, may become
+      the next battleground. And the West—consumed by domestic crisis, partisanship,
+      and selective outrage—is looking the other way. To the Christians of the Middle
+      East, this isn’t just a diplomatic shift. It’s a moment of existential dread. Extremist
+      local Jewish West Bank residents set fire to a 1,500-year-old Church of St. George
+      in the Christian Palestinian village of Taybeh, north of Ramallah in the West
+      Bank. When churches burn and are blown up in Gaza, your allies are mute. When
+      your existence is in danger, your defenders vanish, and you have to rely on other
+      minorities. When you are killed, the headlines don’t come. The question is no
+      longer whether the Christian presence in the region will survive; it is whether
+      it will thrive. The question is: How long can it last alone? Subscribe Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Christians in the Middle East are increasingly voicing their
+      abandonment and vulnerability as they face rising hostility and a collapse of
+      protection from both domestic and international allies, leading to fears of isolation
+      and extinction.
+    paragraph_summary: In a stark revelation, Christians in the Middle East are expressing
+      feelings of abandonment and betrayal for the first time in a century, as they
+      face escalating hostility and a collapse of both domestic and international protections.
+      Communities from Jerusalem to Lebanon and Syria are increasingly isolated, with
+      their traditional allies in the West—particularly the U.S. and Europe—either silent
+      or complicit in their persecution. The situation has worsened to the point where
+      even prominent figures like U.S. Ambassador to Israel Mike Huckabee, a staunch
+      supporter of Israel, have publicly criticized the Israeli government's treatment
+      of Christian organizations, signaling a potential shift in support from Christian
+      Zionists. This growing neglect and hostility threaten the survival of Christian
+      minorities in the region, as they confront a reality marked by isolation and the
+      risk of extinction amidst a power vacuum and waning Western influence.
+    published: '2025-07-24T18:08:30+00:00'
+  - title: '“Personne ne viendra” : pourquoi les chrétiens du Moyen-Orient affrontent
+      une nouvelle ère de menace et de trahison'
+    url: https://ejmagnier.com/2025/07/24/personne-ne-viendra-pourquoi-les-chretiens-du-moyen-orient-affrontent-une-nouvelle-ere-de-menace-et-de-trahison/
+    text: 'Tweet Par Elijah J. Magnier – Pour la première fois depuis un siècle, les
+      chrétiens du Moyen-Orient commencent à dire tout haut ce qui était autrefois impensable
+      et terrifiant : ils ont été ignorés et abandonnés. De Jérusalem à Chekka et Jbeil
+      (Liban), de Soueida à Maaloula (Syrie), les chrétiens et autres minorités du Levant
+      font face non seulement à une hostilité montante et à des menaces physiques, mais
+      à quelque chose de plus glaçant encore : l’effondrement total de leur protection
+      domestique et internationale. Leurs alliés à Washington et en Europe sont soit
+      silencieux, soit complices, soit désintéressés. Leurs ennemis, anciens et nouveaux,
+      relèvent la tête. Et dans le vide du pouvoir politique, entre incompétence et
+      complicité, les minorités assistent à la disparition de l’influence occidentale
+      et à l’installation d’une réalité bien plus sombre. Ce qui ressemblait à une survie
+      fragile devient une marche vers l’isolement, la trahison et l’extinction. La récente
+      déclaration de l’ambassadeur des États-Unis en Israël, Mike Huckabee — affirmant
+      qu’Israël rejette et harcèle désormais les organisations chrétiennes, y compris
+      celles historiquement pro-sionistes venues des États-Unis — n’était pas un simple
+      dérapage diplomatique. C’était une rupture. Huckabee, figure emblématique du sionisme
+      chrétien et proche de la droite israélienne, a accusé le gouvernement de Netanyahu
+      de maltraiter des organisations étrangères liées aux Églises. Il a même promis
+      de recommander aux chrétiens américains d’interrompre leurs dons et de renoncer
+      aux pèlerinages si ces attaques persistent. Et cela ne vient pas d’un critique
+      d’Israël, mais d’un de ses plus fidèles alliés. Depuis des décennies, les réseaux
+      évangéliques, les Églises occidentales et les gouvernements européens affirmaient
+      leur solidarité avec les chrétiens d’Orient. Mais aux moments décisifs — à Gaza,
+      à Jérusalem, au Liban ou en Syrie — ces voix se taisent, ou pire, soutiennent
+      les puissances qui permettent leur persécution. L’arc de menaces qui entoure aujourd’hui
+      les chrétiens d’Orient est évident : réalignement géopolitique, extrémisme israélien
+      en progression, retour des jihadistes en Syrie, indifférence occidentale et effondrement
+      des alliances historiques. Même des figures chrétiennes anti-Hezbollah comme le
+      député Nadim Gemayel reconnaissent aujourd’hui ce qui était impensable hier :
+      les armes du Hezbollah pourraient être le dernier rempart pour les minorités vulnérables
+      au Liban. Les sirènes d’alarme retentissent dans les communautés chrétiennes de
+      la région, mais là encore, personne n’écoute. Le basculement le plus choquant
+      ne vient même pas des alliés du Hezbollah, mais du coeur de l’établissement chrétien
+      libanais. Nadim Gemayel, fils du président assassiné Bachir Gemayel et fervent
+      opposant au Hezbollah, a déclaré : “Aujourd’hui, tout le monde au Liban a peur.
+      Les Druzes, les chiites, les chrétiens. Les minorités ont peur.” Il a ajouté :
+      “Je comprends ceux qui disent que les armes du Hezbollah sont nécessaires — pas
+      seulement contre Israël, mais aussi contre la Syrie.” Pour un parlementaire longtemps
+      favorable au désarmement du Hezbollah au nom de la souveraineté de l’État, cette
+      déclaration a fait l’effet d’un séisme politique. Gemayel réagissait à deux événements
+      récents : les propos du diplomate américain Thomas Barrack et les attaques violentes
+      menées par des milices bédouines contre les Druzes de Soueida, en Syrie. Barrack
+      a relancé l’idée d’un “Grand Syrie” qui absorberait le nord du Liban, nommant
+      Akkar et Tripoli. Il est même allé jusqu’à affirmer que le littoral libanais appartenait
+      à la Syrie, semant la panique à Jbeil, Jounieh, Chekka et Batroun. Dans ce contexte,
+      les chrétiens sont de nouveau pris en étau entre des frontières mouvantes, un
+      extrémisme grandissant et des tractations géopolitiques sans leur participation
+      ni leur protection. En Syrie, ils ont été dévastés par la guerre, les déplacements,
+      les persécutions. En Palestine, ils survivent entre l’occupation militaire et
+      l’effondrement économique. Et aujourd’hui, c’est au Liban que la peur ressurgit.
+      En 2013, sous les ordres directs d’Abou Mohammad al-Joulani, chef de Jabhat al-Nosra
+      (branche d’al-Qaïda en Syrie), les jihadistes ont pris Maaloula, ville chrétienne
+      historique. Ils ont détruit des églises, exécuté des civils, enlevé 13 nonnes
+      du monastère de Sainte-Thécle. Leur libération a nécessité un échange de prisonniers.
+      C’est le Hezbollah libanais qui a aidé à reprendre Maaloula, où l’araméen, langue
+      de Jésus, est encore parlé. Les chrétiens du Moyen-Orient vivent quelque chose
+      de plus terrible que l’hostilité : l’abandon total. L’Europe, fondée sur des valeurs
+      chrétiennes, reste silencieuse. Aucun pacte de sécurité, aucune initiative concrète.
+      Quand Daech crucifiait des prêtres et brûlait des églises, l’Europe envoyait des
+      communiqués, mais aucune protection. Les États-Unis, autrefois protecteurs partiels
+      des chrétiens, ont changé de cap. L’administration actuelle soutient inconditionnellement
+      Israël, malgré les crimes de guerre à Gaza. Les mouvements chrétiens sionistes
+      restent alignés sur cette politique, quitte à sacrifier les chrétiens locaux.
+      Même Jérusalem est devenue hostile. Une vidéo récente montre des juifs ultraorthodoxes
+      crachant au passage d’une procession chrétienne. Selon The Guardian , ces attaques
+      sont en forte hausse, et les discours de haine sont désormais défendus publiquement.
+      Le silence des dirigeants occidentaux, eux, est assourdissant. Pendant plus d’un
+      siècle, les chrétiens d’Orient ont été sacrifiés sur l’autel de la stratégie occidentale.
+      Génocides arméniens et assyriens, silence. Printemps arabe, oubli. Cartes redessinées,
+      alliances changées, et toujours la même phrase qui résonne dans le cœur des chrétiens
+      d’Orient : personne ne viendra . Aujourd’hui, ce n’est pas la disparition qui
+      inquiète, c’est sa clarté brutale. Israël tourne le dos à ses partisans chrétiens.
+      Les anciens seigneurs de guerre syriens reviennent. Le Liban risque de devenir
+      le prochain champ de bataille. Et l’Occident regarde ailleurs. Quand vos églises
+      brûlent, vos alliés se taisent. Quand vous êtes tués, les gros titres ne viennent
+      pas. La question n’est plus de savoir si les chrétiens survivront au Moyen-Orient.
+      La question est : combien de temps pourront-ils encore survivre seuls ? Subscribe
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Les chrétiens du Moyen-Orient, confrontés à une hostilité
+      croissante et à l'abandon de leurs alliés occidentaux, expriment pour la première
+      fois leur désespoir face à l'effondrement de leur protection et à la menace d'extinction.
+    paragraph_summary: Elijah J. Magnier souligne que, pour la première fois en un siècle,
+      les chrétiens du Moyen-Orient expriment ouvertement leur sentiment d'abandon et
+      d'ignorance face à une hostilité croissante et à des menaces physiques, exacerbées
+      par l'effondrement de leur protection domestique et internationale. Des régions
+      comme Jérusalem, le Liban et la Syrie témoignent d'une montée de l'hostilité,
+      tandis que leurs alliés occidentaux, notamment aux États-Unis et en Europe, restent
+      silencieux ou complices. La récente déclaration de l'ambassadeur américain en
+      Israël, Mike Huckabee, qui a dénoncé le harcèlement des organisations chrétiennes
+      par le gouvernement israélien, marque un tournant significatif, soulignant une
+      rupture dans le soutien traditionnel des chrétiens d'Orient. Malgré des promesses
+      de solidarité de la part des Églises et des gouvernements occidentaux, leur silence
+      ou leur soutien aux puissances persécutrices lors de crises majeures soulignent
+      une réalité sombre pour ces minorités, qui se dirigent vers l'isolement et l'extinction.
+    published: '2025-07-24T18:06:40+00:00'
+  - title: '“Personne ne viendra” : pourquoi les chrétiens du Moyen-Orient affrontent
+      une nouvelle ère de menace et de trahison'
+    url: https://ejmagnier.com/2025/07/24/personne-ne-viendra-pourquoi-les-chretiens-du-moyen-orient-affrontent-une-nouvelle-ere-de-menace-et-de-trahison/
+    text: 'Tweet Par Elijah J. Magnier – Pour la première fois depuis un siècle, les
+      chrétiens du Moyen-Orient commencent à dire tout haut ce qui était autrefois impensable
+      et terrifiant : ils ont été ignorés et abandonnés. De Jérusalem à Chekka et Jbeil
+      (Liban), de Soueida à Maaloula (Syrie), les chrétiens et autres minorités du Levant
+      font face non seulement à une hostilité montante et à des menaces physiques, mais
+      à quelque chose de plus glaçant encore : l’effondrement total de leur protection
+      domestique et internationale. Leurs alliés à Washington et en Europe sont soit
+      silencieux, soit complices, soit désintéressés. Leurs ennemis, anciens et nouveaux,
+      relèvent la tête. Et dans le vide du pouvoir politique, entre incompétence et
+      complicité, les minorités assistent à la disparition de l’influence occidentale
+      et à l’installation d’une réalité bien plus sombre. Ce qui ressemblait à une survie
+      fragile devient une marche vers l’isolement, la trahison et l’extinction. La récente
+      déclaration de l’ambassadeur des États-Unis en Israël, Mike Huckabee — affirmant
+      qu’Israël rejette et harcèle désormais les organisations chrétiennes, y compris
+      celles historiquement pro-sionistes venues des États-Unis — n’était pas un simple
+      dérapage diplomatique. C’était une rupture. Huckabee, figure emblématique du sionisme
+      chrétien et proche de la droite israélienne, a accusé le gouvernement de Netanyahu
+      de maltraiter des organisations étrangères liées aux Églises. Il a même promis
+      de recommander aux chrétiens américains d’interrompre leurs dons et de renoncer
+      aux pèlerinages si ces attaques persistent. Et cela ne vient pas d’un critique
+      d’Israël, mais d’un de ses plus fidèles alliés. Depuis des décennies, les réseaux
+      évangéliques, les Églises occidentales et les gouvernements européens affirmaient
+      leur solidarité avec les chrétiens d’Orient. Mais aux moments décisifs — à Gaza,
+      à Jérusalem, au Liban ou en Syrie — ces voix se taisent, ou pire, soutiennent
+      les puissances qui permettent leur persécution. L’arc de menaces qui entoure aujourd’hui
+      les chrétiens d’Orient est évident : réalignement géopolitique, extrémisme israélien
+      en progression, retour des jihadistes en Syrie, indifférence occidentale et effondrement
+      des alliances historiques. Même des figures chrétiennes anti-Hezbollah comme le
+      député Nadim Gemayel reconnaissent aujourd’hui ce qui était impensable hier :
+      les armes du Hezbollah pourraient être le dernier rempart pour les minorités vulnérables
+      au Liban. Les sirènes d’alarme retentissent dans les communautés chrétiennes de
+      la région, mais là encore, personne n’écoute. Le basculement le plus choquant
+      ne vient même pas des alliés du Hezbollah, mais du coeur de l’établissement chrétien
+      libanais. Nadim Gemayel, fils du président assassiné Bachir Gemayel et fervent
+      opposant au Hezbollah, a déclaré : “Aujourd’hui, tout le monde au Liban a peur.
+      Les Druzes, les chiites, les chrétiens. Les minorités ont peur.” Il a ajouté :
+      “Je comprends ceux qui disent que les armes du Hezbollah sont nécessaires — pas
+      seulement contre Israël, mais aussi contre la Syrie.” Pour un parlementaire longtemps
+      favorable au désarmement du Hezbollah au nom de la souveraineté de l’État, cette
+      déclaration a fait l’effet d’un séisme politique. Gemayel réagissait à deux événements
+      récents : les propos du diplomate américain Thomas Barrack et les attaques violentes
+      menées par des milices bédouines contre les Druzes de Soueida, en Syrie. Barrack
+      a relancé l’idée d’un “Grand Syrie” qui absorberait le nord du Liban, nommant
+      Akkar et Tripoli. Il est même allé jusqu’à affirmer que le littoral libanais appartenait
+      à la Syrie, semant la panique à Jbeil, Jounieh, Chekka et Batroun. Dans ce contexte,
+      les chrétiens sont de nouveau pris en étau entre des frontières mouvantes, un
+      extrémisme grandissant et des tractations géopolitiques sans leur participation
+      ni leur protection. En Syrie, ils ont été dévastés par la guerre, les déplacements,
+      les persécutions. En Palestine, ils survivent entre l’occupation militaire et
+      l’effondrement économique. Et aujourd’hui, c’est au Liban que la peur ressurgit.
+      En 2013, sous les ordres directs d’Abou Mohammad al-Joulani, chef de Jabhat al-Nosra
+      (branche d’al-Qaïda en Syrie), les jihadistes ont pris Maaloula, ville chrétienne
+      historique. Ils ont détruit des églises, exécuté des civils, enlevé 13 nonnes
+      du monastère de Sainte-Thécle. Leur libération a nécessité un échange de prisonniers.
+      C’est le Hezbollah libanais qui a aidé à reprendre Maaloula, où l’araméen, langue
+      de Jésus, est encore parlé. Les chrétiens du Moyen-Orient vivent quelque chose
+      de plus terrible que l’hostilité : l’abandon total. L’Europe, fondée sur des valeurs
+      chrétiennes, reste silencieuse. Aucun pacte de sécurité, aucune initiative concrète.
+      Quand Daech crucifiait des prêtres et brûlait des églises, l’Europe envoyait des
+      communiqués, mais aucune protection. Les États-Unis, autrefois protecteurs partiels
+      des chrétiens, ont changé de cap. L’administration actuelle soutient inconditionnellement
+      Israël, malgré les crimes de guerre à Gaza. Les mouvements chrétiens sionistes
+      restent alignés sur cette politique, quitte à sacrifier les chrétiens locaux.
+      Même Jérusalem est devenue hostile. Une vidéo récente montre des juifs ultraorthodoxes
+      crachant au passage d’une procession chrétienne. Selon The Guardian , ces attaques
+      sont en forte hausse, et les discours de haine sont désormais défendus publiquement.
+      Le silence des dirigeants occidentaux, eux, est assourdissant. Pendant plus d’un
+      siècle, les chrétiens d’Orient ont été sacrifiés sur l’autel de la stratégie occidentale.
+      Génocides arméniens et assyriens, silence. Printemps arabe, oubli. Cartes redessinées,
+      alliances changées, et toujours la même phrase qui résonne dans le cœur des chrétiens
+      d’Orient : personne ne viendra . Aujourd’hui, ce n’est pas la disparition qui
+      inquiète, c’est sa clarté brutale. Israël tourne le dos à ses partisans chrétiens.
+      Les anciens seigneurs de guerre syriens reviennent. Le Liban risque de devenir
+      le prochain champ de bataille. Et l’Occident regarde ailleurs. Quand vos églises
+      brûlent, vos alliés se taisent. Quand vous êtes tués, les gros titres ne viennent
+      pas. La question n’est plus de savoir si les chrétiens survivront au Moyen-Orient.
+      La question est : combien de temps pourront-ils encore survivre seuls ? Subscribe
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Les chrétiens du Moyen-Orient, confrontés à une hostilité
+      croissante et à l'abandon de leurs alliés occidentaux, expriment pour la première
+      fois leur désespoir face à l'effondrement de leur protection et à la menace d'extinction.
+    paragraph_summary: Elijah J. Magnier souligne que, pour la première fois en un siècle,
+      les chrétiens du Moyen-Orient expriment ouvertement leur sentiment d'abandon et
+      d'ignorance face à une hostilité croissante et à des menaces physiques, exacerbées
+      par l'effondrement de leur protection domestique et internationale. Des régions
+      comme Jérusalem, le Liban et la Syrie témoignent d'une montée de l'hostilité,
+      tandis que leurs alliés occidentaux, notamment aux États-Unis et en Europe, restent
+      silencieux ou complices. La récente déclaration de l'ambassadeur américain en
+      Israël, Mike Huckabee, qui a dénoncé le harcèlement des organisations chrétiennes
+      par le gouvernement israélien, marque un tournant significatif, soulignant une
+      rupture dans le soutien traditionnel des chrétiens d'Orient. Malgré des promesses
+      de solidarité de la part des Églises et des gouvernements occidentaux, leur silence
+      ou leur soutien aux puissances persécutrices lors de crises majeures soulignent
+      une réalité sombre pour ces minorités, qui se dirigent vers l'isolement et l'extinction.
+    published: '2025-07-24T18:06:40+00:00'
+  - title: '„Niemand kommt“: Warum Christen im Nahen Osten einer neuen Ära der Bedrohung
+      und des Verrats gegenüberstehen.'
+    url: https://ejmagnier.com/2025/07/24/niemand-kommt-warum-christen-im-nahen-osten-einer-neuen-ara-der-bedrohung-und-des-verrats-gegenuberstehen/
+    text: 'Tweet Von Elijah J. Magnier – Zum ersten Mal seit einem Jahrhundert beginnen
+      Christen im gesamten Nahen Osten laut auszusprechen, was einst undenkbar und erschreckend
+      war: Sie wurden ignoriert und im Stich gelassen. Von Jerusalem bis Chekka und
+      Jbeil (Libanon), von Suweida bis Maaloula (Syrien) sind christliche und andere
+      Minderheiten in der Levante nicht nur mit zunehmender Feindseligkeit und physischer
+      Bedrohung konfrontiert, sondern mit etwas noch Beängstigenderem: dem vollständigen
+      Zusammenbruch des nationalen und internationalen Schutzes. Ihre Verbündeten in
+      Washington und Europa schweigen, sind mitschuldig oder zu desinteressiert, um
+      sich darum zu kümmern. Ihre alten und neuen Feinde sind wieder mutig geworden.
+      Und in dem Machtvakuum der Regierung, das durch Inkompetenz oder Komplizenschaft
+      entstanden ist, werden die Minderheiten vom schwindenden Einfluss des Westens
+      im Stich gelassen, und eine dunklere Realität nimmt Gestalt an. Was einst wie
+      ein fragiles, ungleichmäßiges Überleben erschien, kippt nun in Isolation, Verrat
+      und Auslöschung. Die jüngste Erklärung des US-Botschafters in Israel, Mike Huckabee,
+      in der er warnte, dass Israel nun christliche Organisationen, darunter auch langjährige
+      pro-zionistische Gruppen aus den USA, aktiv ablehne und schikaniert, war nicht
+      nur ein diplomatischer Ausbruch. Es war ein Bruch. Huckabee, eine Persönlichkeit,
+      die dem christlichen Zionismus und der rechten Führung Israels tief verbunden
+      ist, warf der Regierung von Benjamin Netanjahu vor, christliche und ausländische
+      kirchliche Organisationen zu misshandeln. Er versprach sogar, den amerikanischen
+      Christen zu raten, ihre großzügigen Spenden zu überdenken und Pilgerreisen ins
+      Heilige Land abzusagen, sollte die Feindseligkeit anhalten. Diese Warnung kam
+      nicht von einem Kritiker Israels – sie kam von einem seiner loyalsten Befürworter.
+      Seit Jahrzehnten bekunden christliche Zionisten, westliche Kirchenverbände und
+      europäische Regierungen ihre Solidarität mit den Christen im Nahen Osten. Aber
+      wenn es darauf ankommt – in Gaza, in Jerusalem, im Libanon und in Syrien – verstummen
+      ihre Stimmen oder, schlimmer noch, sie stellen sich auf die Seite genau der Mächte,
+      die die Verfolgung ermöglichen. Die gefährliche Entwicklung, mit der die Christen
+      im Nahen Osten derzeit konfrontiert sind, ist unübersehbar: geopolitische Neuordnungen,
+      zunehmender israelischer Extremismus, das Wiederaufleben der Dschihadisten in
+      Syrien, wo einst Minderheiten massakriert wurden, westliche Gleichgültigkeit und
+      der Zusammenbruch historischer Allianzen. Selbst überzeugte Anti-Hisbollah- und
+      pro-westliche christliche Persönlichkeiten wie der Abgeordnete Nadim Gemayel sagen
+      nun, was noch vor wenigen Monaten undenkbar gewesen wäre: Vielleicht sind die
+      Waffen der Hisbollah die letzte Verteidigungslinie für die gefährdeten Minderheiten
+      im Libanon. In den christlichen Gemeinden der Region läuten die Alarmglocken –
+      aber wieder einmal hören nur wenige zu. Die vielleicht erschütterndste Kehrtwende
+      kam nicht von den Anhängern der Hisbollah, sondern von einem starken Herausforderer
+      innerhalb des traditionellen christlichen Establishments im Libanon. Nadim Gemayel,
+      Sohn des ermordeten Präsidenten Bachir Gemayel und einer der schärfsten politischen
+      Gegner der Hisbollah, gab eine deutliche Warnung heraus, die im ganzen Land Widerhall
+      fand. Gemayel war der Ansicht, dass heute alle Menschen im Libanon Angst haben:
+      die Drusen, die Schiiten und die Christen. Die Minderheiten im Nahen Osten spüren,
+      wie ernst die existenzielle Bedrohung ist. Heute gibt es neue Sympathie und Rechtfertigung
+      dafür, dass die Hisbollah ihre Waffen behält. Gemayel „versteht, wenn die Leute
+      sagen, dass die Waffen der Hisbollah notwendig sind“ – nicht nur gegen Israel,
+      sondern auch gegen Syrien. Von einem Gesetzgeber, der lange Zeit im Namen der
+      Souveränität die Entwaffnung der Hisbollah gefordert hatte, war dies nichts weniger
+      als ein politisches Erdbeben. Doch dies war kein ideologischer Umschwung, sondern
+      eine nüchterne Reflexion der aktuellen Realitäten. Im ganzen Libanon sehen viele
+      nun, dass der Staat zu zersplittert, zu schwach und von seinen vermeintlichen
+      Verbündeten zu sehr im Stich gelassen ist, um ihr Überleben zu garantieren. In
+      Ermangelung von Schutz wenden sich einige Christen an die Hisbollah, deren Kämpfer
+      in den vergangenen Jahren ihr eigenes Blut vergossen haben, um christliche Städte
+      in Syrien vor Al-Qaida und dem IS zu verteidigen. Für sie geht es nicht um Politik.
+      Es geht um ihr Überleben. Gemayels Äußerungen waren eine Reaktion auf zwei zutiefst
+      beunruhigende Entwicklungen: die provokativen Kommentare des US-Sonderbeauftragten
+      Thomas Barrack und die gewalttätigen Zusammenstöße in der syrischen Provinz Suweida,
+      wo arabische Beduinenmilizen Angehörige der drusischen Minderheit angegriffen
+      hatten. Diese Vorfälle lösten Angst unter den Minderheiten im Libanon aus, insbesondere
+      unter denen, die kulturelle und familiäre Bindungen zu syrischen Gemeinschaften
+      haben, die kürzlich im Nordwesten Syriens ein Massaker an Alawiten erlitten haben.
+      Barrack sorgte für eine politische Bombe, als er andeutete, dass der Libanon –
+      der bereits am Rande des Zusammenbruchs steht – wieder unter syrischen Einfluss
+      geraten könnte. Er brachte die Idee eines „Großsyrien”-Projekts ins Spiel, das
+      die nördlichen Gebiete des Libanon, darunter ausdrücklich Akkar und Tripolis,
+      einverleiben würde. Dies würde diese Gebiete effektiv von Beirut und der historisch
+      schiitischen Region Jabal Amel im Süden abtrennen und christliche Enklaven in
+      direkten Kontakt mit Takfiri-Hochburgen bringen – denselben Kräften, die einst
+      den IS und Al-Qaida angetrieben haben und nun in Syrien das Sagen haben. Als ob
+      das noch nicht genug wäre, ging Barrack noch weiter und behauptete, die libanesische
+      Küste gehöre zu Syrien – Äußerungen, die in mehrheitlich christlichen Gebieten
+      wie Chekka, Batroun, Jbeil und Jounieh Panik auslösten. Für viele waren seine
+      Worte keine leeren Spekulationen, sondern ein Einblick in die tieferen strategischen
+      Überlegungen der US-Regierung, die eine stillschweigende Bereitschaft signalisierten,
+      Syriens erneute territoriale Ambitionen und den Abstieg des Libanon in den Status
+      eines gescheiterten Staates zu akzeptieren. In der gesamten Region werden Christen
+      durch sich verschiebende Grenzen, zunehmenden Extremismus und neue geopolitische
+      Abkommen, die ohne ihre Beteiligung – oder ihren Schutz – geschlossen werden,
+      unter Druck gesetzt. In Palästina sind viele zwischen militärischer Besatzung
+      und wirtschaftlichem Zusammenbruch gefangen. In Syrien wurden christliche Gemeinschaften
+      durch Krieg, Vertreibung und jahrzehntelange Verfolgung sowohl durch dschihadistische
+      Gruppen als auch durch ein selbsternanntes autoritäres Regime schwer getroffen.
+      Und nun kehrt die Angst in den Libanon zurück. Der Angriff auf die Drusen in Suweida
+      hat auf brutale Weise daran erinnert, dass religiös motivierte Übergriffe kein
+      Relikt der syrischen Vergangenheit sind, sondern Teil der anhaltenden regionalen
+      Strategie gegen Minderheiten. Angesichts der Äußerungen von Thomas Barrack, der
+      den Norden und die Küste des Libanon als „Teil Syriens” bezeichnet, lesen die
+      Minderheiten im Libanon die Zeichen an der Wand: Niemand wird kommen, um zu verhindern,
+      was als Nächstes kommen könnte. Diese Spannungen werden durch die Entwicklungen
+      in Damaskus noch verschärft. Nach einem kürzlichen israelischen Luftangriff auf
+      die syrische Hauptstadt hat der selbsternannte syrische Präsident – ein ehemaliger
+      Emir des IS und der Al-Qaida mit einer Vergangenheit voller schrecklicher Verbrechen
+      gegen Alawiten, Christen und Drusen – Berichten zufolge begonnen, seine Expansionspläne
+      gegenüber dem Libanon zu überdenken. Diese Pause könnte jedoch nur vorübergehend
+      sein. Der Mann, der einst für die Zerstörung von Kirchen, das Massaker an religiösen
+      Minderheiten, die Entführung von Nonnen in Maaloula und die Aufnahme Tausender
+      ausländischer Dschihadisten verantwortlich war, die heute in die Sicherheitskräfte
+      integriert sind, trägt nun den Titel eines Präsidenten und positioniert sich mit
+      dem Segen der USA, um seine Macht erneut auszubauen. Im Jahr 2013 stürmten Dschihadisten
+      unter dem Kommando von (dem neuen syrischen Präsidenten) Abu Mohammad al-Joulani,
+      dem damaligen Anführer der Jabhat al-Nusra (der Al-Qaida-Ableger in Syrien), die
+      historische christliche Stadt Maaloula. Sie schändeten Kirchen, zerstörten alte
+      Ikonen und entführten 13 orthodoxe Nonnen aus dem Kloster St. Thekla, die später
+      im Rahmen eines Gefangenenaustauschs freigelassen wurden. Berichten zufolge wurden
+      mehrere christliche Zivilisten hingerichtet und andere zur Konversion gezwungen.
+      Der Angriff wurde auf direkten strategischen Befehl von Joulani durchgeführt und
+      war einer der brutalsten Dschihadistenangriffe auf eine christliche Gemeinde während
+      des Syrienkrieges. Der Fall von Maaloula unterstrich die existenzielle Bedrohung
+      religiöser Minderheiten, und das Schweigen des Westens zu dieser Zeit bleibt ein
+      schmerzlicher Fleck auf seinem Gewissen. Jahre später waren es libanesische Hisbollah-Kämpfer
+      – vor allem Schiiten –, die zur Befreiung der Stadt beitrugen, in der noch heute
+      Aramäisch, die alte Sprache Jesu Christi, gesprochen wird. Die Hisbollah hat bei
+      ihrem Versuch, die Freiheit der alten christlichen Stadt zu erlangen, viele Kämpfer
+      verloren. Die Christen im Nahen Osten erleben etwas Schrecklicheres als offene
+      Feindseligkeit: völlige Verlassenheit. Europa, trotz seiner jahrhundertelangen
+      religiösen Identität, die in der christlichen Tradition verwurzelt ist, hat weitgehend
+      geschwiegen. Es gab keine ernsthaften Initiativen zum Schutz oder zur Unterstützung
+      der christlichen Bevölkerung im Nahen Osten. Keine Sicherheitsabkommen. Keine
+      diplomatischen Schutzwälle. Als der IS Syrien und den Irak überrollte, Priester
+      kreuzigte und alte Kirchen niederbrannte, bot Europa nur leise Beileidsbekundungen
+      und leere Worte. Jetzt kehrt die Gefahr zurück – und das Schweigen ist lauter
+      denn je. Die Vereinigten Staaten, einst ein teilweiser Beschützer christlicher
+      Minderheiten, haben eine Kehrtwende vollzogen. Die derzeitige Regierung unterstützt
+      Israel bedingungslos, obwohl die Kriegsverbrechen und Verbrechen gegen die Menschlichkeit
+      in Gaza zunehmen und die Spannungen mit christlichen Verbündeten zunehmen. Christlich-zionistische
+      Bewegungen, die einst als Verteidiger des Christentums im Nahen Osten galten,
+      sind nun politisch an eine Politik gebunden, die die lokalen Christen schutzlos
+      zurücklässt. Es gibt keine Nuancen. Es gibt keine abweichenden Meinungen. Nur
+      die Anpassung an die Macht, selbst wenn dies die Gemeinden ihre Existenz kostet.
+      Und nun fühlt sich sogar Jerusalem – das historische Herz des Christentums – feindselig
+      an. Laut einem Bericht von The Guardian zeigt ein in der Altstadt von Jerusalem
+      gedrehtes Video ultraorthodoxe Juden, die eine christliche Prozession mit einem
+      großen Holzkreuz entlang der Via Dolorosa bespucken. Die Aufnahmen lösten nationale
+      und internationale Empörung aus, aber für die christliche Minderheit der Stadt
+      war es nur ein weiteres Kapitel in einer Reihe von religiös motivierten Übergriffen,
+      die sie als alarmierenden Anstieg bezeichnen. Seit dem Amtsantritt der ultranationalistischsten
+      Regierung Israels in der Geschichte haben religiöse Führer – darunter der vom
+      Vatikan ernannte lateinische Patriarch – vor zunehmenden Angriffen und wachsender
+      Straflosigkeit gewarnt. „Die Angriffe auf Christen haben in diesem Jahr um 100
+      % zugenommen“, sagte Yisca Harani, eine Expertin für das Christentum in Israel,
+      und nannte als Beispiele Spucken, Steinwürfe und Vandalismus. Sie erklärte gegenüber
+      The Guardian , dass die jüdische Identität, angeheizt durch einen rechtsgerichteten
+      religiösen Nationalismus, nun „um das Christentum herum“ wachse. Schockierenderweise
+      wurde das Spucken von Elisha Yered, einem rechtsextremen Siedlerführer und ehemaligen
+      Berater in Netanjahus Koalition, verteidigt, der die Tat als „alten jüdischen
+      Brauch“ bezeichnete und sie als historische Rache für die Kreuzzüge rechtfertigte.
+      Eine solche Rhetorik wäre in der Vergangenheit sofort zurückgewiesen worden. Heute
+      wird sie weitgehend toleriert und nicht verurteilt. Diese Normalisierung des Hasses
+      in genau der Stadt, die Christen weltweit als heilig betrachten, ist eine Grenze,
+      die überschritten wurde. Und das Schweigen der westlichen Staats- und Regierungschefs
+      – derer, die Religionsfreiheit predigen, den interreligiösen Dialog finanzieren
+      und hochtrabende Osterbotschaften verkünden – ist ohrenbetäubend. Das ist nicht
+      nur Verrat. Es ist ein Muster. Seit mehr als einem Jahrhundert werden Christen
+      im Nahen Osten auf dem Altar der westlichen Strategie geopfert. Sie wurden im
+      Völkermord an den Armeniern und Assyrern abgeschlachtet, während Europa zusah.
+      Sie gerieten zwischen Saddam und Sanktionen, dann zwischen Dschihadisten und US-Luftangriffen.
+      Sie wurden während des Arabischen Frühlings bejubelt – und dann vergessen, als
+      Milizen das Vakuum füllten. Und heute, da neue Karten gezeichnet werden und alte
+      Feinde in Präsidentenpalästen wieder auftauchen, hören die Christen in der Region
+      erneut die vertraute Botschaft: Niemand kommt. Was die aktuelle Situation noch
+      beängstigender macht, ist ihre Klarheit. Es gibt keine Illusionen mehr. Israel
+      wendet sich von seinen christlichen Unterstützern ab. Syriens ehemalige Kriegsherren
+      feiern ein Comeback. Der Libanon, lange Zeit eine fragile christlich-arabische
+      Ausnahme, könnte zum nächsten Schlachtfeld werden. Und der Westen – aufgezehrt
+      von innenpolitischen Krisen, Parteipolitik und selektiver Empörung – schaut weg.
+      Für die Christen im Nahen Osten ist dies nicht nur eine diplomatische Wende. Es
+      ist ein Moment existenzieller Angst. Extremistische jüdische Bewohner des Westjordanlands
+      haben eine 1.500 Jahre alte St.-Georgs-Kirche im christlich-palästinensischen
+      Dorf Taybeh nördlich von Ramallah im Westjordanland in Brand gesteckt. Wenn in
+      Gaza Kirchen brennen und gesprengt werden, schweigen Ihre Verbündeten. Wenn deine
+      Existenz in Gefahr ist, verschwinden deine Verteidiger, und du musst dich auf
+      andere Minderheiten verlassen. Wenn du getötet wirst, kommt das nicht in die Schlagzeilen.
+      Die Frage ist nicht mehr, ob die christliche Präsenz in der Region überleben wird,
+      sondern ob sie gedeihen wird. Die Frage ist: Wie lange kann sie alleine bestehen
+      bleiben? Subscribe Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Christliche und andere Minderheiten im Nahen Osten erleben
+      zunehmend Feindseligkeit und physische Bedrohungen, während sie sich in einem
+      gefährlichen Machtvakuum ohne ausreichenden Schutz durch internationale Verbündete
+      befinden.
+    paragraph_summary: Elijah J. Magnier berichtet, dass Christen und andere Minderheiten
+      im Nahen Osten, von Jerusalem bis Syrien, zunehmend mit Feindseligkeit und Bedrohungen
+      konfrontiert sind, während der nationale und internationale Schutz für sie zusammenbricht.
+      Ihre traditionellen Verbündeten in Washington und Europa zeigen sich gleichgültig
+      oder schuldig, was die Situation verschärft. In einem Machtvakuum, das durch Regierungsversagen
+      entstanden ist, fühlen sich diese Gemeinschaften isoliert und verraten. Besonders
+      bemerkenswert ist die jüngste Aussage des US-Botschafters Mike Huckabee, der,
+      obwohl ein Unterstützer Israels, die Regierung Netanyahu kritisierte, weil sie
+      christliche Organisationen schikaniert. Huckabee warnte amerikanische Christen,
+      ihre Unterstützung für Israel zu überdenken, was die besorgniserregende Realität
+      unterstreicht, dass die einstige Solidarität mit den Christen im Nahen Osten schwindet.
+    published: '2025-07-24T18:05:25+00:00'
+  - title: '„Niemand kommt“: Warum Christen im Nahen Osten einer neuen Ära der Bedrohung
+      und des Verrats gegenüberstehen.'
+    url: https://ejmagnier.com/2025/07/24/niemand-kommt-warum-christen-im-nahen-osten-einer-neuen-ara-der-bedrohung-und-des-verrats-gegenuberstehen/
+    text: 'Tweet Von Elijah J. Magnier – Zum ersten Mal seit einem Jahrhundert beginnen
+      Christen im gesamten Nahen Osten laut auszusprechen, was einst undenkbar und erschreckend
+      war: Sie wurden ignoriert und im Stich gelassen. Von Jerusalem bis Chekka und
+      Jbeil (Libanon), von Suweida bis Maaloula (Syrien) sind christliche und andere
+      Minderheiten in der Levante nicht nur mit zunehmender Feindseligkeit und physischer
+      Bedrohung konfrontiert, sondern mit etwas noch Beängstigenderem: dem vollständigen
+      Zusammenbruch des nationalen und internationalen Schutzes. Ihre Verbündeten in
+      Washington und Europa schweigen, sind mitschuldig oder zu desinteressiert, um
+      sich darum zu kümmern. Ihre alten und neuen Feinde sind wieder mutig geworden.
+      Und in dem Machtvakuum der Regierung, das durch Inkompetenz oder Komplizenschaft
+      entstanden ist, werden die Minderheiten vom schwindenden Einfluss des Westens
+      im Stich gelassen, und eine dunklere Realität nimmt Gestalt an. Was einst wie
+      ein fragiles, ungleichmäßiges Überleben erschien, kippt nun in Isolation, Verrat
+      und Auslöschung. Die jüngste Erklärung des US-Botschafters in Israel, Mike Huckabee,
+      in der er warnte, dass Israel nun christliche Organisationen, darunter auch langjährige
+      pro-zionistische Gruppen aus den USA, aktiv ablehne und schikaniert, war nicht
+      nur ein diplomatischer Ausbruch. Es war ein Bruch. Huckabee, eine Persönlichkeit,
+      die dem christlichen Zionismus und der rechten Führung Israels tief verbunden
+      ist, warf der Regierung von Benjamin Netanjahu vor, christliche und ausländische
+      kirchliche Organisationen zu misshandeln. Er versprach sogar, den amerikanischen
+      Christen zu raten, ihre großzügigen Spenden zu überdenken und Pilgerreisen ins
+      Heilige Land abzusagen, sollte die Feindseligkeit anhalten. Diese Warnung kam
+      nicht von einem Kritiker Israels – sie kam von einem seiner loyalsten Befürworter.
+      Seit Jahrzehnten bekunden christliche Zionisten, westliche Kirchenverbände und
+      europäische Regierungen ihre Solidarität mit den Christen im Nahen Osten. Aber
+      wenn es darauf ankommt – in Gaza, in Jerusalem, im Libanon und in Syrien – verstummen
+      ihre Stimmen oder, schlimmer noch, sie stellen sich auf die Seite genau der Mächte,
+      die die Verfolgung ermöglichen. Die gefährliche Entwicklung, mit der die Christen
+      im Nahen Osten derzeit konfrontiert sind, ist unübersehbar: geopolitische Neuordnungen,
+      zunehmender israelischer Extremismus, das Wiederaufleben der Dschihadisten in
+      Syrien, wo einst Minderheiten massakriert wurden, westliche Gleichgültigkeit und
+      der Zusammenbruch historischer Allianzen. Selbst überzeugte Anti-Hisbollah- und
+      pro-westliche christliche Persönlichkeiten wie der Abgeordnete Nadim Gemayel sagen
+      nun, was noch vor wenigen Monaten undenkbar gewesen wäre: Vielleicht sind die
+      Waffen der Hisbollah die letzte Verteidigungslinie für die gefährdeten Minderheiten
+      im Libanon. In den christlichen Gemeinden der Region läuten die Alarmglocken –
+      aber wieder einmal hören nur wenige zu. Die vielleicht erschütterndste Kehrtwende
+      kam nicht von den Anhängern der Hisbollah, sondern von einem starken Herausforderer
+      innerhalb des traditionellen christlichen Establishments im Libanon. Nadim Gemayel,
+      Sohn des ermordeten Präsidenten Bachir Gemayel und einer der schärfsten politischen
+      Gegner der Hisbollah, gab eine deutliche Warnung heraus, die im ganzen Land Widerhall
+      fand. Gemayel war der Ansicht, dass heute alle Menschen im Libanon Angst haben:
+      die Drusen, die Schiiten und die Christen. Die Minderheiten im Nahen Osten spüren,
+      wie ernst die existenzielle Bedrohung ist. Heute gibt es neue Sympathie und Rechtfertigung
+      dafür, dass die Hisbollah ihre Waffen behält. Gemayel „versteht, wenn die Leute
+      sagen, dass die Waffen der Hisbollah notwendig sind“ – nicht nur gegen Israel,
+      sondern auch gegen Syrien. Von einem Gesetzgeber, der lange Zeit im Namen der
+      Souveränität die Entwaffnung der Hisbollah gefordert hatte, war dies nichts weniger
+      als ein politisches Erdbeben. Doch dies war kein ideologischer Umschwung, sondern
+      eine nüchterne Reflexion der aktuellen Realitäten. Im ganzen Libanon sehen viele
+      nun, dass der Staat zu zersplittert, zu schwach und von seinen vermeintlichen
+      Verbündeten zu sehr im Stich gelassen ist, um ihr Überleben zu garantieren. In
+      Ermangelung von Schutz wenden sich einige Christen an die Hisbollah, deren Kämpfer
+      in den vergangenen Jahren ihr eigenes Blut vergossen haben, um christliche Städte
+      in Syrien vor Al-Qaida und dem IS zu verteidigen. Für sie geht es nicht um Politik.
+      Es geht um ihr Überleben. Gemayels Äußerungen waren eine Reaktion auf zwei zutiefst
+      beunruhigende Entwicklungen: die provokativen Kommentare des US-Sonderbeauftragten
+      Thomas Barrack und die gewalttätigen Zusammenstöße in der syrischen Provinz Suweida,
+      wo arabische Beduinenmilizen Angehörige der drusischen Minderheit angegriffen
+      hatten. Diese Vorfälle lösten Angst unter den Minderheiten im Libanon aus, insbesondere
+      unter denen, die kulturelle und familiäre Bindungen zu syrischen Gemeinschaften
+      haben, die kürzlich im Nordwesten Syriens ein Massaker an Alawiten erlitten haben.
+      Barrack sorgte für eine politische Bombe, als er andeutete, dass der Libanon –
+      der bereits am Rande des Zusammenbruchs steht – wieder unter syrischen Einfluss
+      geraten könnte. Er brachte die Idee eines „Großsyrien”-Projekts ins Spiel, das
+      die nördlichen Gebiete des Libanon, darunter ausdrücklich Akkar und Tripolis,
+      einverleiben würde. Dies würde diese Gebiete effektiv von Beirut und der historisch
+      schiitischen Region Jabal Amel im Süden abtrennen und christliche Enklaven in
+      direkten Kontakt mit Takfiri-Hochburgen bringen – denselben Kräften, die einst
+      den IS und Al-Qaida angetrieben haben und nun in Syrien das Sagen haben. Als ob
+      das noch nicht genug wäre, ging Barrack noch weiter und behauptete, die libanesische
+      Küste gehöre zu Syrien – Äußerungen, die in mehrheitlich christlichen Gebieten
+      wie Chekka, Batroun, Jbeil und Jounieh Panik auslösten. Für viele waren seine
+      Worte keine leeren Spekulationen, sondern ein Einblick in die tieferen strategischen
+      Überlegungen der US-Regierung, die eine stillschweigende Bereitschaft signalisierten,
+      Syriens erneute territoriale Ambitionen und den Abstieg des Libanon in den Status
+      eines gescheiterten Staates zu akzeptieren. In der gesamten Region werden Christen
+      durch sich verschiebende Grenzen, zunehmenden Extremismus und neue geopolitische
+      Abkommen, die ohne ihre Beteiligung – oder ihren Schutz – geschlossen werden,
+      unter Druck gesetzt. In Palästina sind viele zwischen militärischer Besatzung
+      und wirtschaftlichem Zusammenbruch gefangen. In Syrien wurden christliche Gemeinschaften
+      durch Krieg, Vertreibung und jahrzehntelange Verfolgung sowohl durch dschihadistische
+      Gruppen als auch durch ein selbsternanntes autoritäres Regime schwer getroffen.
+      Und nun kehrt die Angst in den Libanon zurück. Der Angriff auf die Drusen in Suweida
+      hat auf brutale Weise daran erinnert, dass religiös motivierte Übergriffe kein
+      Relikt der syrischen Vergangenheit sind, sondern Teil der anhaltenden regionalen
+      Strategie gegen Minderheiten. Angesichts der Äußerungen von Thomas Barrack, der
+      den Norden und die Küste des Libanon als „Teil Syriens” bezeichnet, lesen die
+      Minderheiten im Libanon die Zeichen an der Wand: Niemand wird kommen, um zu verhindern,
+      was als Nächstes kommen könnte. Diese Spannungen werden durch die Entwicklungen
+      in Damaskus noch verschärft. Nach einem kürzlichen israelischen Luftangriff auf
+      die syrische Hauptstadt hat der selbsternannte syrische Präsident – ein ehemaliger
+      Emir des IS und der Al-Qaida mit einer Vergangenheit voller schrecklicher Verbrechen
+      gegen Alawiten, Christen und Drusen – Berichten zufolge begonnen, seine Expansionspläne
+      gegenüber dem Libanon zu überdenken. Diese Pause könnte jedoch nur vorübergehend
+      sein. Der Mann, der einst für die Zerstörung von Kirchen, das Massaker an religiösen
+      Minderheiten, die Entführung von Nonnen in Maaloula und die Aufnahme Tausender
+      ausländischer Dschihadisten verantwortlich war, die heute in die Sicherheitskräfte
+      integriert sind, trägt nun den Titel eines Präsidenten und positioniert sich mit
+      dem Segen der USA, um seine Macht erneut auszubauen. Im Jahr 2013 stürmten Dschihadisten
+      unter dem Kommando von (dem neuen syrischen Präsidenten) Abu Mohammad al-Joulani,
+      dem damaligen Anführer der Jabhat al-Nusra (der Al-Qaida-Ableger in Syrien), die
+      historische christliche Stadt Maaloula. Sie schändeten Kirchen, zerstörten alte
+      Ikonen und entführten 13 orthodoxe Nonnen aus dem Kloster St. Thekla, die später
+      im Rahmen eines Gefangenenaustauschs freigelassen wurden. Berichten zufolge wurden
+      mehrere christliche Zivilisten hingerichtet und andere zur Konversion gezwungen.
+      Der Angriff wurde auf direkten strategischen Befehl von Joulani durchgeführt und
+      war einer der brutalsten Dschihadistenangriffe auf eine christliche Gemeinde während
+      des Syrienkrieges. Der Fall von Maaloula unterstrich die existenzielle Bedrohung
+      religiöser Minderheiten, und das Schweigen des Westens zu dieser Zeit bleibt ein
+      schmerzlicher Fleck auf seinem Gewissen. Jahre später waren es libanesische Hisbollah-Kämpfer
+      – vor allem Schiiten –, die zur Befreiung der Stadt beitrugen, in der noch heute
+      Aramäisch, die alte Sprache Jesu Christi, gesprochen wird. Die Hisbollah hat bei
+      ihrem Versuch, die Freiheit der alten christlichen Stadt zu erlangen, viele Kämpfer
+      verloren. Die Christen im Nahen Osten erleben etwas Schrecklicheres als offene
+      Feindseligkeit: völlige Verlassenheit. Europa, trotz seiner jahrhundertelangen
+      religiösen Identität, die in der christlichen Tradition verwurzelt ist, hat weitgehend
+      geschwiegen. Es gab keine ernsthaften Initiativen zum Schutz oder zur Unterstützung
+      der christlichen Bevölkerung im Nahen Osten. Keine Sicherheitsabkommen. Keine
+      diplomatischen Schutzwälle. Als der IS Syrien und den Irak überrollte, Priester
+      kreuzigte und alte Kirchen niederbrannte, bot Europa nur leise Beileidsbekundungen
+      und leere Worte. Jetzt kehrt die Gefahr zurück – und das Schweigen ist lauter
+      denn je. Die Vereinigten Staaten, einst ein teilweiser Beschützer christlicher
+      Minderheiten, haben eine Kehrtwende vollzogen. Die derzeitige Regierung unterstützt
+      Israel bedingungslos, obwohl die Kriegsverbrechen und Verbrechen gegen die Menschlichkeit
+      in Gaza zunehmen und die Spannungen mit christlichen Verbündeten zunehmen. Christlich-zionistische
+      Bewegungen, die einst als Verteidiger des Christentums im Nahen Osten galten,
+      sind nun politisch an eine Politik gebunden, die die lokalen Christen schutzlos
+      zurücklässt. Es gibt keine Nuancen. Es gibt keine abweichenden Meinungen. Nur
+      die Anpassung an die Macht, selbst wenn dies die Gemeinden ihre Existenz kostet.
+      Und nun fühlt sich sogar Jerusalem – das historische Herz des Christentums – feindselig
+      an. Laut einem Bericht von The Guardian zeigt ein in der Altstadt von Jerusalem
+      gedrehtes Video ultraorthodoxe Juden, die eine christliche Prozession mit einem
+      großen Holzkreuz entlang der Via Dolorosa bespucken. Die Aufnahmen lösten nationale
+      und internationale Empörung aus, aber für die christliche Minderheit der Stadt
+      war es nur ein weiteres Kapitel in einer Reihe von religiös motivierten Übergriffen,
+      die sie als alarmierenden Anstieg bezeichnen. Seit dem Amtsantritt der ultranationalistischsten
+      Regierung Israels in der Geschichte haben religiöse Führer – darunter der vom
+      Vatikan ernannte lateinische Patriarch – vor zunehmenden Angriffen und wachsender
+      Straflosigkeit gewarnt. „Die Angriffe auf Christen haben in diesem Jahr um 100
+      % zugenommen“, sagte Yisca Harani, eine Expertin für das Christentum in Israel,
+      und nannte als Beispiele Spucken, Steinwürfe und Vandalismus. Sie erklärte gegenüber
+      The Guardian , dass die jüdische Identität, angeheizt durch einen rechtsgerichteten
+      religiösen Nationalismus, nun „um das Christentum herum“ wachse. Schockierenderweise
+      wurde das Spucken von Elisha Yered, einem rechtsextremen Siedlerführer und ehemaligen
+      Berater in Netanjahus Koalition, verteidigt, der die Tat als „alten jüdischen
+      Brauch“ bezeichnete und sie als historische Rache für die Kreuzzüge rechtfertigte.
+      Eine solche Rhetorik wäre in der Vergangenheit sofort zurückgewiesen worden. Heute
+      wird sie weitgehend toleriert und nicht verurteilt. Diese Normalisierung des Hasses
+      in genau der Stadt, die Christen weltweit als heilig betrachten, ist eine Grenze,
+      die überschritten wurde. Und das Schweigen der westlichen Staats- und Regierungschefs
+      – derer, die Religionsfreiheit predigen, den interreligiösen Dialog finanzieren
+      und hochtrabende Osterbotschaften verkünden – ist ohrenbetäubend. Das ist nicht
+      nur Verrat. Es ist ein Muster. Seit mehr als einem Jahrhundert werden Christen
+      im Nahen Osten auf dem Altar der westlichen Strategie geopfert. Sie wurden im
+      Völkermord an den Armeniern und Assyrern abgeschlachtet, während Europa zusah.
+      Sie gerieten zwischen Saddam und Sanktionen, dann zwischen Dschihadisten und US-Luftangriffen.
+      Sie wurden während des Arabischen Frühlings bejubelt – und dann vergessen, als
+      Milizen das Vakuum füllten. Und heute, da neue Karten gezeichnet werden und alte
+      Feinde in Präsidentenpalästen wieder auftauchen, hören die Christen in der Region
+      erneut die vertraute Botschaft: Niemand kommt. Was die aktuelle Situation noch
+      beängstigender macht, ist ihre Klarheit. Es gibt keine Illusionen mehr. Israel
+      wendet sich von seinen christlichen Unterstützern ab. Syriens ehemalige Kriegsherren
+      feiern ein Comeback. Der Libanon, lange Zeit eine fragile christlich-arabische
+      Ausnahme, könnte zum nächsten Schlachtfeld werden. Und der Westen – aufgezehrt
+      von innenpolitischen Krisen, Parteipolitik und selektiver Empörung – schaut weg.
+      Für die Christen im Nahen Osten ist dies nicht nur eine diplomatische Wende. Es
+      ist ein Moment existenzieller Angst. Extremistische jüdische Bewohner des Westjordanlands
+      haben eine 1.500 Jahre alte St.-Georgs-Kirche im christlich-palästinensischen
+      Dorf Taybeh nördlich von Ramallah im Westjordanland in Brand gesteckt. Wenn in
+      Gaza Kirchen brennen und gesprengt werden, schweigen Ihre Verbündeten. Wenn deine
+      Existenz in Gefahr ist, verschwinden deine Verteidiger, und du musst dich auf
+      andere Minderheiten verlassen. Wenn du getötet wirst, kommt das nicht in die Schlagzeilen.
+      Die Frage ist nicht mehr, ob die christliche Präsenz in der Region überleben wird,
+      sondern ob sie gedeihen wird. Die Frage ist: Wie lange kann sie alleine bestehen
+      bleiben? Subscribe Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Christliche und andere Minderheiten im Nahen Osten erleben
+      zunehmend Feindseligkeit und physische Bedrohungen, während sie sich in einem
+      gefährlichen Machtvakuum ohne ausreichenden Schutz durch internationale Verbündete
+      befinden.
+    paragraph_summary: Elijah J. Magnier berichtet, dass Christen und andere Minderheiten
+      im Nahen Osten, von Jerusalem bis Syrien, zunehmend mit Feindseligkeit und Bedrohungen
+      konfrontiert sind, während der nationale und internationale Schutz für sie zusammenbricht.
+      Ihre traditionellen Verbündeten in Washington und Europa zeigen sich gleichgültig
+      oder schuldig, was die Situation verschärft. In einem Machtvakuum, das durch Regierungsversagen
+      entstanden ist, fühlen sich diese Gemeinschaften isoliert und verraten. Besonders
+      bemerkenswert ist die jüngste Aussage des US-Botschafters Mike Huckabee, der,
+      obwohl ein Unterstützer Israels, die Regierung Netanyahu kritisierte, weil sie
+      christliche Organisationen schikaniert. Huckabee warnte amerikanische Christen,
+      ihre Unterstützung für Israel zu überdenken, was die besorgniserregende Realität
+      unterstreicht, dass die einstige Solidarität mit den Christen im Nahen Osten schwindet.
+    published: '2025-07-24T18:05:25+00:00'
+  - title: '“Er komt niemand”: waarom christenen in het Midden-Oosten een nieuw tijdperk
+      van dreiging en verraad tegemoet gaan.'
+    url: https://ejmagnier.com/2025/07/24/er-komt-niemand-waarom-christenen-in-het-midden-oosten-een-nieuw-tijdperk-van-dreiging-en-verraad-tegemoet-gaan/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Voor het
+      eerst in een eeuw beginnen christenen in het Midden-Oosten hardop te zeggen wat
+      vroeger ondenkbaar en beangstigend was: ze worden genegeerd en in de steek gelaten.
+      Van Jeruzalem tot Chekka en Jbeil (Libanon), van Suweida tot Maaloula (Syrië),
+      worden christelijke en andere minderheidsgemeenschappen in de Levant niet alleen
+      geconfronteerd met toenemende vijandigheid en fysieke bedreiging, maar ook met
+      iets nog huiveringwekkender: de totale ineenstorting van de binnenlandse en internationale
+      bescherming. Hun bondgenoten in Washington en Europa zwijgen, zijn medeplichtig
+      of te onverschillig om zich er iets van aan te trekken. Hun oude en nieuwe vijanden
+      zijn weer brutaal. En in het machtsvacuüm van de regering, dat wordt gekenmerkt
+      door incompetentie of medeplichtigheid, worden de minderheden in de steek gelaten
+      door de tanende invloed van het Westen, en ontstaat een duisterder beeld. Wat
+      ooit voelde als een kwetsbaar, ongelijkwaardig voortbestaan, neigt nu naar isolatie,
+      verraad en uitsterven. De recente verklaring van de Amerikaanse ambassadeur in
+      Israël, Mike Huckabee, waarin hij waarschuwt dat Israël nu actief christelijke
+      organisaties, waaronder langdurige pro-zionistische groeperingen uit de VS, afwijst
+      en lastigvalt, was niet alleen een diplomatieke uitbarsting. Het was een breuk.
+      Huckabee, een figuur die nauw verbonden is met het christelijk zionisme en de
+      rechtse leiders van Israël, beschuldigde de regering van Benjamin Netanyahu van
+      het mishandelen van christelijke en buitenlandse door kerken gesteunde organisaties.
+      Hij beloofde zelfs Amerikaanse christenen te vragen hun gulle donaties te heroverwegen
+      en pelgrimstochten naar het Heilige Land te annuleren als de vijandigheid voortduurt.
+      Deze waarschuwing kwam niet van een criticus van Israël, maar van een van zijn
+      trouwste voorstanders. Al tientallen jaren zeggen christelijke zionisten, westerse
+      kerkelijke netwerken en Europese regeringen solidair te zijn met christenen in
+      het Midden-Oosten. Maar wanneer het er echt toe doet – in Gaza, in Jeruzalem,
+      in Libanon en Syrië – zwijgen ze, of erger nog, kiezen ze de kant van de machten
+      die de vervolging mogelijk maken. De gevaarlijke situatie waarmee christenen in
+      het Midden-Oosten nu worden geconfronteerd, is onmiskenbaar: geopolitieke herschikkingen,
+      toenemend Israëlisch extremisme, de heropleving van jihadisten in Syrië, waar
+      minderheden ooit werden afgeslacht, westerse onverschilligheid en het uiteenvallen
+      van historische allianties. Zelfs fervente anti-Hezbollah, pro-westerse christelijke
+      figuren zoals parlementslid Nadim Gemayel zeggen nu wat enkele maanden geleden
+      nog ondenkbaar was: misschien zijn de wapens van Hezbollah wel de laatste verdedigingslinie
+      voor de kwetsbare minderheden in Libanon. De alarmbellen luiden in de christelijke
+      gemeenschappen in de hele regio, maar opnieuw luistert bijna niemand. Misschien
+      kwam de meest schokkende verandering niet van de aanhangers van Hezbollah, maar
+      van een sterke uitdager binnen het traditionele christelijke establishment van
+      Libanon. Nadim Gemayel, zoon van de vermoorde president Bachir Gemayel en een
+      van de felste politieke tegenstanders van Hezbollah, gaf een harde waarschuwing
+      die in het hele land weerklonk. Gemayel vond dat iedereen in Libanon tegenwoordig
+      bang is: de druzen, de sjiieten en de christenen. De minderheden in het Midden-Oosten
+      voelen hoe ernstig de existentiële dreiging is. Tegenwoordig is er nieuwe sympathie
+      en rechtvaardiging voor het feit dat Hezbollah zijn wapens behoudt. Gemayel “begrijpt
+      dat mensen zeggen dat de wapens van Hezbollah nodig zijn” – niet alleen tegen
+      Israël, maar ook tegen Syrië. Komende van een wetgever die lang heeft aangedrongen
+      op ontwapening van Hezbollah in naam van de soevereiniteit, was dit niets minder
+      dan een politieke aardverschuiving. Toch was dit geen ideologische ommezwaai,
+      maar een nuchtere weerspiegeling van de huidige realiteit. In heel Libanon zien
+      velen nu dat de staat te versplinterd, te zwak en tezeer in de steek gelaten is
+      door zijn zogenaamde bondgenoten om hun voortbestaan te garanderen. Bij gebrek
+      aan bescherming kijken sommige christenen naar Hezbollah, waarvan de strijders
+      in de afgelopen jaren hun eigen bloed hebben vergoten om christelijke steden in
+      Syrië te verdedigen tegen Al Qaida en ISIS. Voor hen gaat het niet om politiek.
+      Het gaat om overleven. Gemayel reageerde op twee zeer verontrustende ontwikkelingen:
+      opruiende uitspraken van de Amerikaanse speciale gezant Thomas Barrack en gewelddadige
+      confrontaties in de Syrische provincie Suweida, waar Arabische bedoeïenenmilities
+      de minderheid van Druzen aanvielen. Deze incidenten hebben angst gezaaid onder
+      de minderheden in Libanon, vooral onder degenen die culturele en familiale banden
+      hebben met Syrische gemeenschappen die onlangs het slachtoffer zijn geworden van
+      een bloedbad tegen Alawieten in het noordwesten van Syrië. Barrack gooide een
+      politieke bom toen hij suggereerde dat Libanon – dat al op instorten staat – weer
+      onder Syrische invloed zou kunnen komen. Hij opperde het idee van een “Groot-Syrië”-project
+      dat de noordelijke gebieden van Libanon zou opslokken, waarbij hij expliciet Akkar
+      en Tripoli noemde. Dit zou deze gebieden in feite loskoppelen van Beiroet en de
+      historisch sjiitische regio Jabal Amel in het zuiden, waardoor christelijke enclaves
+      in direct contact zouden komen met bolwerken van takfiri’s – dezelfde krachten
+      die ooit ISIS en Al-Qaeda aanvoerden en nu de scepter zwaaien in Syrië. Alsof
+      dat nog niet genoeg was, ging Barrack nog verder en zei dat de kustlijn van Libanon
+      bij Syrië hoorde – opmerkingen die paniek veroorzaakten in gebieden met een christelijke
+      meerderheid, zoals Chekka, Batroun, Jbeil en Jounieh. Voor velen waren zijn woorden
+      geen loze speculatie, maar een glimp van een dieper strategisch denken binnen
+      de Amerikaanse regering, die een stilzwijgende bereidheid suggereert om de hernieuwde
+      territoriale ambities van Syrië en de afglijding van Libanon naar een mislukte
+      staat te accepteren. In de hele regio worden christenen in het nauw gedreven door
+      verschuivende grenzen, toenemend extremisme en nieuwe geopolitieke deals die worden
+      gesloten zonder hun aanwezigheid – of hun bescherming. In Palestina zitten velen
+      gevangen tussen militaire bezetting en economische ineenstorting. In Syrië zijn
+      christelijke gemeenschappen geteisterd door oorlog, ontheemding en decennia van
+      vervolging door zowel jihadistische groeperingen als een zelfbenoemd autoritair
+      regime. En nu keert de angst terug in Libanon. De aanval op de druzen in Suweida
+      was een brute herinnering dat sektarische aanvallen geen overblijfsel zijn uit
+      het verleden van Syrië, maar deel uitmaken van een voortdurend regionaal spel
+      tegen minderheden. Nu Thomas Barrack suggereert dat het noorden en de kust van
+      Libanon “bij Syrië horen”, zien minderheden in Libanon het onheil naderen: niemand
+      komt om te voorkomen wat er gaat gebeuren. Deze spanningen worden nog verergerd
+      door de ontwikkelingen in Damascus. Na een recente Israëlische luchtaanval op
+      de Syrische hoofdstad zou de zelfbenoemde Syrische president – een voormalige
+      emir van ISIS en Al Qaida met een verleden van gruwelijke misdaden tegen alawieten,
+      christenen en druzen – zijn expansionistische plannen ten aanzien van Libanon
+      heroverwegen. Deze pauze is wellicht van tijdelijke aard. De man die ooit verantwoordelijk
+      was voor de vernietiging van kerken, de moord op religieuze minderheden, de ontvoering
+      van nonnen in Maaloula en het opvangen van duizenden buitenlandse jihadisten die
+      nu deel uitmaken van de veiligheidstroepen, draagt nu een presidentiële titel
+      en maakt zich, met de zegen van de VS, klaar om zijn macht weer uit te breiden.
+      In 2013 bestormden jihadistische strijders onder leiding van (de nieuwe Syrische
+      president) Abu Mohammad al-Joulani, toenmalig leider van Jabhat al-Nusra (de Syrische
+      tak van Al Qaida), het historische christelijke stadje Maaloula. Ze hebben kerken
+      vernield, oude iconen kapotgemaakt en 13 orthodoxe nonnen ontvoerd uit het klooster
+      van St. Thecla, die later zijn vrijgelaten in een gevangenenruil. Er zouden verschillende
+      christelijke burgers zijn geëxecuteerd en anderen zouden gedwongen zijn zich te
+      bekeren. De aanval vond plaats op direct strategisch bevel van Joulani en was
+      een van de meest brute jihadistische aanslagen op een christelijke gemeenschap
+      tijdens de Syrische oorlog. De val van Maaloula onderstreepte de existentiële
+      bedreiging waarmee religieuze minderheden worden geconfronteerd, en het stilzwijgen
+      van het Westen op dat moment blijft een smet op zijn geweten. Jaren later waren
+      het Libanese Hezbollah-strijders – voornamelijk sjiieten – die hielpen bij de
+      bevrijding van de stad, waar nog steeds Aramees, de oude taal van Jezus Christus,
+      wordt gesproken. Hezbollah heeft veel strijders verloren in zijn poging om de
+      vrijheid van de oude christelijke stad te herstellen. De christenen in het Midden-Oosten
+      ontdekken iets dat nog enger is dan openlijke vijandigheid: totale verlatenheid.
+      Europa, dat al eeuwenlang een religieuze identiteit heeft die geworteld is in
+      het christelijke erfgoed, is grotendeels stil gebleven. Er zijn geen serieuze
+      initiatieven genomen om de christelijke bevolking in de Levant te beschermen of
+      te steunen. Geen veiligheidsverdragen. Geen diplomatieke firewalls. Toen ISIS
+      door Syrië en Irak trok, priesters kruisigde en oude kerken in brand stak, bood
+      Europa alleen maar wat stille medeleven en loze woorden. Nu keert het gevaar terug
+      – en is de stilte luider dan ooit. De Verenigde Staten, ooit een gedeeltelijke
+      beschermer van christelijke minderheden, hebben een ommezwaai gemaakt. De huidige
+      regering steunt Israël onvoorwaardelijk, zelfs nu de oorlogsmisdaden en misdaden
+      tegen de menselijkheid in Gaza en de spanningen met christelijke bondgenoten toenemen.
+      Christelijke zionistische bewegingen, ooit gezien als verdedigers van het christendom
+      in het Midden-Oosten, zijn nu politiek gebonden aan een beleid dat lokale christenen
+      in de steek laat. Er is geen nuance. Geen afwijkende meningen. Alleen maar aanpassing
+      aan de macht, zelfs als dat gemeenschappen hun voortbestaan kost. En nu voelt
+      zelfs Jeruzalem, het historische hart van het christendom, vijandig aan. Volgens
+      een bericht in The Guardian is op een video die in de oude stad van Jeruzalem
+      is opgenomen te zien hoe ultraorthodoxe joden spugen naar een christelijke processie
+      die een groot houten kruis langs de Via Dolorosa draagt. De beelden leidden tot
+      nationale en internationale verontwaardiging, maar voor de christelijke minderheid
+      in de stad was het gewoon weer een hoofdstuk in wat zij omschrijven als een alarmerende
+      toename van religieus gemotiveerde intimidatie. Sinds de meest ultranationalistische
+      regering in de geschiedenis van Israël aan de macht is gekomen, hebben religieuze
+      leiders – waaronder de door het Vaticaan benoemde Latijnse patriarch – gewaarschuwd
+      voor toenemende aanvallen en groeiende straffeloosheid. “De aanvallen op christenen
+      zijn dit jaar met 100% toegenomen”, zegt Yisca Harani, een Israëlische expert
+      op het gebied van het christendom, verwijzend naar spugen, stenigen en vandalisme.
+      Ze vertelde The Guardian dat de joodse identiteit, aangewakkerd door rechts-religieus
+      nationalisme, nu groeit “rond anti-christendom”. Het is schokkend dat het spugen
+      werd verdedigd door Elisha Yered, een extreemrechtse kolonistenleider en voormalig
+      adviseur in de coalitie van Netanyahu, die de daad een “oud joods gebruik” noemde
+      en het rechtvaardigde als historische wraak voor de kruistochten. In het verleden
+      zou dergelijke retoriek onmiddellijk zijn afgewezen. Tegenwoordig wordt het algemeen
+      getolereerd en niet veroordeeld. Deze normalisering van haat in de stad die christenen
+      wereldwijd als heilig beschouwen, is een grens die is overschreden. En de stilte
+      van westerse leiders – die religieuze vrijheid prediken, interreligieuze dialogen
+      financieren en hoogdravende paasboodschappen afgeven – is oorverdovend. Dit is
+      niet alleen verraad. Het is een patroon. Al meer dan een eeuw worden christenen
+      in het Midden-Oosten opgeofferd op het altaar van de westerse strategie. Ze werden
+      afgeslacht tijdens de Armeense en Assyrische genocide terwijl Europa toekeek.
+      Ze kwamen klem te zitten tussen Saddam en sancties, en vervolgens tussen jihadisten
+      en Amerikaanse luchtaanvallen. Ze werden toegejuicht tijdens de Arabische Lente,
+      en vervolgens vergeten toen milities het vacuüm opvulden. En vandaag, nu er nieuwe
+      kaarten worden getekend en oude vijanden weer opduiken in presidentiële paleizen,
+      horen christenen in de regio opnieuw de bekende boodschap: er komt niemand. Wat
+      het huidige moment nog huiveringwekkender maakt, is de duidelijkheid ervan. Er
+      zijn geen illusies meer. Israël keert christelijke aanhangers de rug toe. De voormalige
+      krijgsheren van Syrië maken een comeback. Libanon, lange tijd een fragiele christelijk-Arabische
+      uitzondering, dreigt het volgende strijdtoneel te worden. En het Westen – verteerd
+      door binnenlandse crises, partijpolitiek en selectieve verontwaardiging – kijkt
+      de andere kant op. Voor de christenen in het Midden-Oosten is dit niet alleen
+      een diplomatieke verschuiving. Het is een moment van existentiële angst. Extremistische
+      lokale Joodse inwoners van de Westelijke Jordaanoever staken een 1500 jaar oude
+      Sint-Joriskerk in het christelijke Palestijnse dorp Taybeh, ten noorden van Ramallah
+      op de Westelijke Jordaanoever, in brand. Wanneer kerken in Gaza worden in brand
+      gestoken en opgeblazen, zwijgen je bondgenoten. Als je bestaan in gevaar is, verdwijnen
+      je verdedigers en moet je vertrouwen op andere minderheden. Als je wordt vermoord,
+      haal je de krantenkoppen niet. Subscribe Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Christenen en andere minderheidsgemeenschappen in het Midden-Oosten
+      ervaren toenemende vijandigheid en een gebrek aan bescherming, terwijl hun bondgenoten
+      in het Westen hen negeren en de situatie verergerd wordt door een machtsvacuüm
+      en incompetentie van lokale regeringen.
+    paragraph_summary: In een opmerkelijke ontwikkeling beginnen christenen in het Midden-Oosten,
+      van Jeruzalem tot Libanon en Syrië, openlijk te klagen over hun verwaarlozing
+      en de groeiende vijandigheid waarmee ze worden geconfronteerd. Deze minderheidsgemeenschappen
+      ervaren niet alleen fysieke bedreigingen, maar ook een verontrustende afname van
+      zowel binnenlandse als internationale bescherming, terwijl hun traditionele bondgenoten
+      in het Westen, zoals de VS en Europa, stil blijven of ongeïnteresseerd zijn. De
+      situatie wordt verder verergerd door de recente opmerkingen van de Amerikaanse
+      ambassadeur in Israël, Mike Huckabee, die de Israëlische regering beschuldigde
+      van het mishandelen van christelijke organisaties, wat een breuk markeert in de
+      relatie tussen christelijke zionisten en Israël. Huckabee's waarschuwing aan Amerikaanse
+      christenen om hun steun te heroverwegen, benadrukt de groeiende isolatie en het
+      gevoel van verraad onder christelijke gemeenschappen in de regio.
+    published: '2025-07-24T18:03:10+00:00'
+  - title: '“Er komt niemand”: waarom christenen in het Midden-Oosten een nieuw tijdperk
+      van dreiging en verraad tegemoet gaan.'
+    url: https://ejmagnier.com/2025/07/24/er-komt-niemand-waarom-christenen-in-het-midden-oosten-een-nieuw-tijdperk-van-dreiging-en-verraad-tegemoet-gaan/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Voor het
+      eerst in een eeuw beginnen christenen in het Midden-Oosten hardop te zeggen wat
+      vroeger ondenkbaar en beangstigend was: ze worden genegeerd en in de steek gelaten.
+      Van Jeruzalem tot Chekka en Jbeil (Libanon), van Suweida tot Maaloula (Syrië),
+      worden christelijke en andere minderheidsgemeenschappen in de Levant niet alleen
+      geconfronteerd met toenemende vijandigheid en fysieke bedreiging, maar ook met
+      iets nog huiveringwekkender: de totale ineenstorting van de binnenlandse en internationale
+      bescherming. Hun bondgenoten in Washington en Europa zwijgen, zijn medeplichtig
+      of te onverschillig om zich er iets van aan te trekken. Hun oude en nieuwe vijanden
+      zijn weer brutaal. En in het machtsvacuüm van de regering, dat wordt gekenmerkt
+      door incompetentie of medeplichtigheid, worden de minderheden in de steek gelaten
+      door de tanende invloed van het Westen, en ontstaat een duisterder beeld. Wat
+      ooit voelde als een kwetsbaar, ongelijkwaardig voortbestaan, neigt nu naar isolatie,
+      verraad en uitsterven. De recente verklaring van de Amerikaanse ambassadeur in
+      Israël, Mike Huckabee, waarin hij waarschuwt dat Israël nu actief christelijke
+      organisaties, waaronder langdurige pro-zionistische groeperingen uit de VS, afwijst
+      en lastigvalt, was niet alleen een diplomatieke uitbarsting. Het was een breuk.
+      Huckabee, een figuur die nauw verbonden is met het christelijk zionisme en de
+      rechtse leiders van Israël, beschuldigde de regering van Benjamin Netanyahu van
+      het mishandelen van christelijke en buitenlandse door kerken gesteunde organisaties.
+      Hij beloofde zelfs Amerikaanse christenen te vragen hun gulle donaties te heroverwegen
+      en pelgrimstochten naar het Heilige Land te annuleren als de vijandigheid voortduurt.
+      Deze waarschuwing kwam niet van een criticus van Israël, maar van een van zijn
+      trouwste voorstanders. Al tientallen jaren zeggen christelijke zionisten, westerse
+      kerkelijke netwerken en Europese regeringen solidair te zijn met christenen in
+      het Midden-Oosten. Maar wanneer het er echt toe doet – in Gaza, in Jeruzalem,
+      in Libanon en Syrië – zwijgen ze, of erger nog, kiezen ze de kant van de machten
+      die de vervolging mogelijk maken. De gevaarlijke situatie waarmee christenen in
+      het Midden-Oosten nu worden geconfronteerd, is onmiskenbaar: geopolitieke herschikkingen,
+      toenemend Israëlisch extremisme, de heropleving van jihadisten in Syrië, waar
+      minderheden ooit werden afgeslacht, westerse onverschilligheid en het uiteenvallen
+      van historische allianties. Zelfs fervente anti-Hezbollah, pro-westerse christelijke
+      figuren zoals parlementslid Nadim Gemayel zeggen nu wat enkele maanden geleden
+      nog ondenkbaar was: misschien zijn de wapens van Hezbollah wel de laatste verdedigingslinie
+      voor de kwetsbare minderheden in Libanon. De alarmbellen luiden in de christelijke
+      gemeenschappen in de hele regio, maar opnieuw luistert bijna niemand. Misschien
+      kwam de meest schokkende verandering niet van de aanhangers van Hezbollah, maar
+      van een sterke uitdager binnen het traditionele christelijke establishment van
+      Libanon. Nadim Gemayel, zoon van de vermoorde president Bachir Gemayel en een
+      van de felste politieke tegenstanders van Hezbollah, gaf een harde waarschuwing
+      die in het hele land weerklonk. Gemayel vond dat iedereen in Libanon tegenwoordig
+      bang is: de druzen, de sjiieten en de christenen. De minderheden in het Midden-Oosten
+      voelen hoe ernstig de existentiële dreiging is. Tegenwoordig is er nieuwe sympathie
+      en rechtvaardiging voor het feit dat Hezbollah zijn wapens behoudt. Gemayel “begrijpt
+      dat mensen zeggen dat de wapens van Hezbollah nodig zijn” – niet alleen tegen
+      Israël, maar ook tegen Syrië. Komende van een wetgever die lang heeft aangedrongen
+      op ontwapening van Hezbollah in naam van de soevereiniteit, was dit niets minder
+      dan een politieke aardverschuiving. Toch was dit geen ideologische ommezwaai,
+      maar een nuchtere weerspiegeling van de huidige realiteit. In heel Libanon zien
+      velen nu dat de staat te versplinterd, te zwak en tezeer in de steek gelaten is
+      door zijn zogenaamde bondgenoten om hun voortbestaan te garanderen. Bij gebrek
+      aan bescherming kijken sommige christenen naar Hezbollah, waarvan de strijders
+      in de afgelopen jaren hun eigen bloed hebben vergoten om christelijke steden in
+      Syrië te verdedigen tegen Al Qaida en ISIS. Voor hen gaat het niet om politiek.
+      Het gaat om overleven. Gemayel reageerde op twee zeer verontrustende ontwikkelingen:
+      opruiende uitspraken van de Amerikaanse speciale gezant Thomas Barrack en gewelddadige
+      confrontaties in de Syrische provincie Suweida, waar Arabische bedoeïenenmilities
+      de minderheid van Druzen aanvielen. Deze incidenten hebben angst gezaaid onder
+      de minderheden in Libanon, vooral onder degenen die culturele en familiale banden
+      hebben met Syrische gemeenschappen die onlangs het slachtoffer zijn geworden van
+      een bloedbad tegen Alawieten in het noordwesten van Syrië. Barrack gooide een
+      politieke bom toen hij suggereerde dat Libanon – dat al op instorten staat – weer
+      onder Syrische invloed zou kunnen komen. Hij opperde het idee van een “Groot-Syrië”-project
+      dat de noordelijke gebieden van Libanon zou opslokken, waarbij hij expliciet Akkar
+      en Tripoli noemde. Dit zou deze gebieden in feite loskoppelen van Beiroet en de
+      historisch sjiitische regio Jabal Amel in het zuiden, waardoor christelijke enclaves
+      in direct contact zouden komen met bolwerken van takfiri’s – dezelfde krachten
+      die ooit ISIS en Al-Qaeda aanvoerden en nu de scepter zwaaien in Syrië. Alsof
+      dat nog niet genoeg was, ging Barrack nog verder en zei dat de kustlijn van Libanon
+      bij Syrië hoorde – opmerkingen die paniek veroorzaakten in gebieden met een christelijke
+      meerderheid, zoals Chekka, Batroun, Jbeil en Jounieh. Voor velen waren zijn woorden
+      geen loze speculatie, maar een glimp van een dieper strategisch denken binnen
+      de Amerikaanse regering, die een stilzwijgende bereidheid suggereert om de hernieuwde
+      territoriale ambities van Syrië en de afglijding van Libanon naar een mislukte
+      staat te accepteren. In de hele regio worden christenen in het nauw gedreven door
+      verschuivende grenzen, toenemend extremisme en nieuwe geopolitieke deals die worden
+      gesloten zonder hun aanwezigheid – of hun bescherming. In Palestina zitten velen
+      gevangen tussen militaire bezetting en economische ineenstorting. In Syrië zijn
+      christelijke gemeenschappen geteisterd door oorlog, ontheemding en decennia van
+      vervolging door zowel jihadistische groeperingen als een zelfbenoemd autoritair
+      regime. En nu keert de angst terug in Libanon. De aanval op de druzen in Suweida
+      was een brute herinnering dat sektarische aanvallen geen overblijfsel zijn uit
+      het verleden van Syrië, maar deel uitmaken van een voortdurend regionaal spel
+      tegen minderheden. Nu Thomas Barrack suggereert dat het noorden en de kust van
+      Libanon “bij Syrië horen”, zien minderheden in Libanon het onheil naderen: niemand
+      komt om te voorkomen wat er gaat gebeuren. Deze spanningen worden nog verergerd
+      door de ontwikkelingen in Damascus. Na een recente Israëlische luchtaanval op
+      de Syrische hoofdstad zou de zelfbenoemde Syrische president – een voormalige
+      emir van ISIS en Al Qaida met een verleden van gruwelijke misdaden tegen alawieten,
+      christenen en druzen – zijn expansionistische plannen ten aanzien van Libanon
+      heroverwegen. Deze pauze is wellicht van tijdelijke aard. De man die ooit verantwoordelijk
+      was voor de vernietiging van kerken, de moord op religieuze minderheden, de ontvoering
+      van nonnen in Maaloula en het opvangen van duizenden buitenlandse jihadisten die
+      nu deel uitmaken van de veiligheidstroepen, draagt nu een presidentiële titel
+      en maakt zich, met de zegen van de VS, klaar om zijn macht weer uit te breiden.
+      In 2013 bestormden jihadistische strijders onder leiding van (de nieuwe Syrische
+      president) Abu Mohammad al-Joulani, toenmalig leider van Jabhat al-Nusra (de Syrische
+      tak van Al Qaida), het historische christelijke stadje Maaloula. Ze hebben kerken
+      vernield, oude iconen kapotgemaakt en 13 orthodoxe nonnen ontvoerd uit het klooster
+      van St. Thecla, die later zijn vrijgelaten in een gevangenenruil. Er zouden verschillende
+      christelijke burgers zijn geëxecuteerd en anderen zouden gedwongen zijn zich te
+      bekeren. De aanval vond plaats op direct strategisch bevel van Joulani en was
+      een van de meest brute jihadistische aanslagen op een christelijke gemeenschap
+      tijdens de Syrische oorlog. De val van Maaloula onderstreepte de existentiële
+      bedreiging waarmee religieuze minderheden worden geconfronteerd, en het stilzwijgen
+      van het Westen op dat moment blijft een smet op zijn geweten. Jaren later waren
+      het Libanese Hezbollah-strijders – voornamelijk sjiieten – die hielpen bij de
+      bevrijding van de stad, waar nog steeds Aramees, de oude taal van Jezus Christus,
+      wordt gesproken. Hezbollah heeft veel strijders verloren in zijn poging om de
+      vrijheid van de oude christelijke stad te herstellen. De christenen in het Midden-Oosten
+      ontdekken iets dat nog enger is dan openlijke vijandigheid: totale verlatenheid.
+      Europa, dat al eeuwenlang een religieuze identiteit heeft die geworteld is in
+      het christelijke erfgoed, is grotendeels stil gebleven. Er zijn geen serieuze
+      initiatieven genomen om de christelijke bevolking in de Levant te beschermen of
+      te steunen. Geen veiligheidsverdragen. Geen diplomatieke firewalls. Toen ISIS
+      door Syrië en Irak trok, priesters kruisigde en oude kerken in brand stak, bood
+      Europa alleen maar wat stille medeleven en loze woorden. Nu keert het gevaar terug
+      – en is de stilte luider dan ooit. De Verenigde Staten, ooit een gedeeltelijke
+      beschermer van christelijke minderheden, hebben een ommezwaai gemaakt. De huidige
+      regering steunt Israël onvoorwaardelijk, zelfs nu de oorlogsmisdaden en misdaden
+      tegen de menselijkheid in Gaza en de spanningen met christelijke bondgenoten toenemen.
+      Christelijke zionistische bewegingen, ooit gezien als verdedigers van het christendom
+      in het Midden-Oosten, zijn nu politiek gebonden aan een beleid dat lokale christenen
+      in de steek laat. Er is geen nuance. Geen afwijkende meningen. Alleen maar aanpassing
+      aan de macht, zelfs als dat gemeenschappen hun voortbestaan kost. En nu voelt
+      zelfs Jeruzalem, het historische hart van het christendom, vijandig aan. Volgens
+      een bericht in The Guardian is op een video die in de oude stad van Jeruzalem
+      is opgenomen te zien hoe ultraorthodoxe joden spugen naar een christelijke processie
+      die een groot houten kruis langs de Via Dolorosa draagt. De beelden leidden tot
+      nationale en internationale verontwaardiging, maar voor de christelijke minderheid
+      in de stad was het gewoon weer een hoofdstuk in wat zij omschrijven als een alarmerende
+      toename van religieus gemotiveerde intimidatie. Sinds de meest ultranationalistische
+      regering in de geschiedenis van Israël aan de macht is gekomen, hebben religieuze
+      leiders – waaronder de door het Vaticaan benoemde Latijnse patriarch – gewaarschuwd
+      voor toenemende aanvallen en groeiende straffeloosheid. “De aanvallen op christenen
+      zijn dit jaar met 100% toegenomen”, zegt Yisca Harani, een Israëlische expert
+      op het gebied van het christendom, verwijzend naar spugen, stenigen en vandalisme.
+      Ze vertelde The Guardian dat de joodse identiteit, aangewakkerd door rechts-religieus
+      nationalisme, nu groeit “rond anti-christendom”. Het is schokkend dat het spugen
+      werd verdedigd door Elisha Yered, een extreemrechtse kolonistenleider en voormalig
+      adviseur in de coalitie van Netanyahu, die de daad een “oud joods gebruik” noemde
+      en het rechtvaardigde als historische wraak voor de kruistochten. In het verleden
+      zou dergelijke retoriek onmiddellijk zijn afgewezen. Tegenwoordig wordt het algemeen
+      getolereerd en niet veroordeeld. Deze normalisering van haat in de stad die christenen
+      wereldwijd als heilig beschouwen, is een grens die is overschreden. En de stilte
+      van westerse leiders – die religieuze vrijheid prediken, interreligieuze dialogen
+      financieren en hoogdravende paasboodschappen afgeven – is oorverdovend. Dit is
+      niet alleen verraad. Het is een patroon. Al meer dan een eeuw worden christenen
+      in het Midden-Oosten opgeofferd op het altaar van de westerse strategie. Ze werden
+      afgeslacht tijdens de Armeense en Assyrische genocide terwijl Europa toekeek.
+      Ze kwamen klem te zitten tussen Saddam en sancties, en vervolgens tussen jihadisten
+      en Amerikaanse luchtaanvallen. Ze werden toegejuicht tijdens de Arabische Lente,
+      en vervolgens vergeten toen milities het vacuüm opvulden. En vandaag, nu er nieuwe
+      kaarten worden getekend en oude vijanden weer opduiken in presidentiële paleizen,
+      horen christenen in de regio opnieuw de bekende boodschap: er komt niemand. Wat
+      het huidige moment nog huiveringwekkender maakt, is de duidelijkheid ervan. Er
+      zijn geen illusies meer. Israël keert christelijke aanhangers de rug toe. De voormalige
+      krijgsheren van Syrië maken een comeback. Libanon, lange tijd een fragiele christelijk-Arabische
+      uitzondering, dreigt het volgende strijdtoneel te worden. En het Westen – verteerd
+      door binnenlandse crises, partijpolitiek en selectieve verontwaardiging – kijkt
+      de andere kant op. Voor de christenen in het Midden-Oosten is dit niet alleen
+      een diplomatieke verschuiving. Het is een moment van existentiële angst. Extremistische
+      lokale Joodse inwoners van de Westelijke Jordaanoever staken een 1500 jaar oude
+      Sint-Joriskerk in het christelijke Palestijnse dorp Taybeh, ten noorden van Ramallah
+      op de Westelijke Jordaanoever, in brand. Wanneer kerken in Gaza worden in brand
+      gestoken en opgeblazen, zwijgen je bondgenoten. Als je bestaan in gevaar is, verdwijnen
+      je verdedigers en moet je vertrouwen op andere minderheden. Als je wordt vermoord,
+      haal je de krantenkoppen niet. Subscribe Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Christenen en andere minderheidsgemeenschappen in het Midden-Oosten
+      ervaren toenemende vijandigheid en een gebrek aan bescherming, terwijl hun bondgenoten
+      in het Westen hen negeren en de situatie verergerd wordt door een machtsvacuüm
+      en incompetentie van lokale regeringen.
+    paragraph_summary: In een opmerkelijke ontwikkeling beginnen christenen in het Midden-Oosten,
+      van Jeruzalem tot Libanon en Syrië, openlijk te klagen over hun verwaarlozing
+      en de groeiende vijandigheid waarmee ze worden geconfronteerd. Deze minderheidsgemeenschappen
+      ervaren niet alleen fysieke bedreigingen, maar ook een verontrustende afname van
+      zowel binnenlandse als internationale bescherming, terwijl hun traditionele bondgenoten
+      in het Westen, zoals de VS en Europa, stil blijven of ongeïnteresseerd zijn. De
+      situatie wordt verder verergerd door de recente opmerkingen van de Amerikaanse
+      ambassadeur in Israël, Mike Huckabee, die de Israëlische regering beschuldigde
+      van het mishandelen van christelijke organisaties, wat een breuk markeert in de
+      relatie tussen christelijke zionisten en Israël. Huckabee's waarschuwing aan Amerikaanse
+      christenen om hun steun te heroverwegen, benadrukt de groeiende isolatie en het
+      gevoel van verraad onder christelijke gemeenschappen in de regio.
+    published: '2025-07-24T18:03:10+00:00'
+  - title: Waarom het onwaarschijnlijk is dat Benjamin Netanyahu voor 27 juli een staakt-het-vuren
+      in Gaza bereikt – en waarom hij dat daarna misschien wel doet
+    url: https://ejmagnier.com/2025/07/23/waarom-het-onwaarschijnlijk-is-dat-benjamin-netanyahu-voor-27-juli-een-staakt-het-vuren-in-gaza-bereikt-en-waarom-hij-dat-daarna-misschien-wel-doet/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Nu de oorlog
+      in Gaza zijn tweede jaar ingaat, staat de Israëlische premier Benjamin Netanyahu
+      onder toenemende druk van de militaire leiding, politieke bondgenoten en internationale
+      partners. Ondanks de steeds luidere roep om een staakt-het-vuren heeft het Israëlische
+      leger zojuist zijn eerste belangrijke aanval op Deir al-Balah gelanceerd sinds
+      het begin van de oorlog. Deze laatste escalatie geeft aan dat Netanyahu zich niet
+      voorbereidt op een akkoord vóór 27 juli , de laatste dag van de drie maanden durende
+      zomersessie van de Knesset. Daarna zou het politieke landschap echter kunnen verschuiven,
+      waardoor de kans op een staakt-het-vuren drastisch toeneemt. Het reces van de
+      Knesset is niet alleen een wetgevende formaliteit, het is een kritieke politieke
+      drempel. Tot 27 juli moet Netanyahu een evenwicht zien te vinden tussen uiterst
+      rechtse coalitiepartners die tegen een staakt-het-vuren zijn dat Hamas intact
+      laat, en de groeiende vraag van het publiek om de gevangenen vrij te laten. Zodra
+      het reces van de Knesset begint, krijgt Netanyahu’s regering echter drie maanden
+      respijt van moties van wantrouwen en parlementaire dreigementen. Daardoor kan
+      hij vrijer handelen zonder het risico te lopen dat zijn coalitie onmiddellijk
+      instort. De urgentie van deze tijdlijn wordt nog eens versterkt door de recente
+      aankondiging van de huidige stafchef van het Israëlische leger, Eyal Zamir, die
+      verklaarde dat “Operatie Gideon’s strijdwagens de doelstellingen van de politieke
+      leiding heeft bereikt”. Het was het duidelijkste signaal tot nu toe dat het leger
+      zijn centrale missie om 75% van Gaza te bezetten als voltooid beschouwt, ook al
+      is het niet gelukt om één enkele soldaat te bevrijden van de 20 soldaten die naar
+      verluidt nog in gevangenschap leven. Zamir bevestigde dat de Israëlische bezettingstroepen
+      de operationele controle over het grootste deel van de Gazastrook hebben overgenomen,
+      een groot deel van de infrastructuur van Hamas hebben ontmanteld en de gevechtscapaciteiten
+      van de groep hebben aangetast – maar niet vernietigd en uitgeroeid. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israëlische premier Benjamin Netanyahu staat onder druk terwijl
+      het leger een belangrijke aanval op Deir al-Balah lanceert, ondanks groeiende
+      oproepen voor een staakt-het-vuren, met een kritieke politieke deadline van 27
+      juli in het vooruitzicht die de kans op een wapenstilstand zou kunnen vergroten.
+    paragraph_summary: In het tweede jaar van de oorlog in Gaza staat de Israëlische
+      premier Benjamin Netanyahu onder druk van militaire leiders, politieke bondgenoten
+      en internationale partners, terwijl het Israëlische leger een belangrijke aanval
+      op Deir al-Balah heeft gelanceerd, ondanks toenemende oproepen voor een staakt-het-vuren.
+      Netanyahu moet tot 27 juli, de laatste dag van de Knesset-zomersessie, een balans
+      vinden tussen de eisen van zijn extreem-rechtse coalitiepartners en de publieke
+      druk om gevangen soldaten vrij te laten. Na deze datum kan zijn regering drie
+      maanden zonder moties van wantrouwen opereren, wat hem meer ruimte geeft om te
+      handelen. De stafchef van het Israëlische leger, Eyal Zamir, heeft aangegeven
+      dat de militaire doelen zijn bereikt, met de bezetting van 75% van Gaza, hoewel
+      er nog steeds geen soldaten zijn bevrijd uit gevangenschap.
+    published: '2025-07-23T09:08:18+00:00'
+  - title: Waarom het onwaarschijnlijk is dat Benjamin Netanyahu voor 27 juli een staakt-het-vuren
+      in Gaza bereikt – en waarom hij dat daarna misschien wel doet
+    url: https://ejmagnier.com/2025/07/23/waarom-het-onwaarschijnlijk-is-dat-benjamin-netanyahu-voor-27-juli-een-staakt-het-vuren-in-gaza-bereikt-en-waarom-hij-dat-daarna-misschien-wel-doet/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Nu de oorlog
+      in Gaza zijn tweede jaar ingaat, staat de Israëlische premier Benjamin Netanyahu
+      onder toenemende druk van de militaire leiding, politieke bondgenoten en internationale
+      partners. Ondanks de steeds luidere roep om een staakt-het-vuren heeft het Israëlische
+      leger zojuist zijn eerste belangrijke aanval op Deir al-Balah gelanceerd sinds
+      het begin van de oorlog. Deze laatste escalatie geeft aan dat Netanyahu zich niet
+      voorbereidt op een akkoord vóór 27 juli , de laatste dag van de drie maanden durende
+      zomersessie van de Knesset. Daarna zou het politieke landschap echter kunnen verschuiven,
+      waardoor de kans op een staakt-het-vuren drastisch toeneemt. Het reces van de
+      Knesset is niet alleen een wetgevende formaliteit, het is een kritieke politieke
+      drempel. Tot 27 juli moet Netanyahu een evenwicht zien te vinden tussen uiterst
+      rechtse coalitiepartners die tegen een staakt-het-vuren zijn dat Hamas intact
+      laat, en de groeiende vraag van het publiek om de gevangenen vrij te laten. Zodra
+      het reces van de Knesset begint, krijgt Netanyahu’s regering echter drie maanden
+      respijt van moties van wantrouwen en parlementaire dreigementen. Daardoor kan
+      hij vrijer handelen zonder het risico te lopen dat zijn coalitie onmiddellijk
+      instort. De urgentie van deze tijdlijn wordt nog eens versterkt door de recente
+      aankondiging van de huidige stafchef van het Israëlische leger, Eyal Zamir, die
+      verklaarde dat “Operatie Gideon’s strijdwagens de doelstellingen van de politieke
+      leiding heeft bereikt”. Het was het duidelijkste signaal tot nu toe dat het leger
+      zijn centrale missie om 75% van Gaza te bezetten als voltooid beschouwt, ook al
+      is het niet gelukt om één enkele soldaat te bevrijden van de 20 soldaten die naar
+      verluidt nog in gevangenschap leven. Zamir bevestigde dat de Israëlische bezettingstroepen
+      de operationele controle over het grootste deel van de Gazastrook hebben overgenomen,
+      een groot deel van de infrastructuur van Hamas hebben ontmanteld en de gevechtscapaciteiten
+      van de groep hebben aangetast – maar niet vernietigd en uitgeroeid. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israëlische premier Benjamin Netanyahu staat onder druk terwijl
+      het leger een belangrijke aanval op Deir al-Balah lanceert, ondanks groeiende
+      oproepen voor een staakt-het-vuren, met een kritieke politieke deadline van 27
+      juli in het vooruitzicht die de kans op een wapenstilstand zou kunnen vergroten.
+    paragraph_summary: In het tweede jaar van de oorlog in Gaza staat de Israëlische
+      premier Benjamin Netanyahu onder druk van militaire leiders, politieke bondgenoten
+      en internationale partners, terwijl het Israëlische leger een belangrijke aanval
+      op Deir al-Balah heeft gelanceerd, ondanks toenemende oproepen voor een staakt-het-vuren.
+      Netanyahu moet tot 27 juli, de laatste dag van de Knesset-zomersessie, een balans
+      vinden tussen de eisen van zijn extreem-rechtse coalitiepartners en de publieke
+      druk om gevangen soldaten vrij te laten. Na deze datum kan zijn regering drie
+      maanden zonder moties van wantrouwen opereren, wat hem meer ruimte geeft om te
+      handelen. De stafchef van het Israëlische leger, Eyal Zamir, heeft aangegeven
+      dat de militaire doelen zijn bereikt, met de bezetting van 75% van Gaza, hoewel
+      er nog steeds geen soldaten zijn bevrijd uit gevangenschap.
+    published: '2025-07-23T09:08:18+00:00'
   - title: Pourquoi Benjamin Netanyahu a peu de chances de conclure un cessez-le-feu
       à Gaza avant le 27 juillet — et pourquoi cela pourrait changer juste après
     url: https://ejmagnier.com/2025/07/22/pourquoi-benjamin-netanyahu-a-peu-de-chances-de-conclure-un-cessez-le-feu-a-gaza-avant-le-27-juillet-et-pourquoi-cela-pourrait-changer-juste-apres/

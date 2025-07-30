@@ -7,14 +7,132 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As global tensions persist, recent independent analyses highlight several key geopolitical developments. The proliferation of foreign military bases remains a central issue, with a new report from World BEYOND War, cited by **Jan Oberg**, documenting a notable increase in such installations worldwide. This expansion is paralleled by a surge in public protests and advocacy efforts challenging the legitimacy and strategic necessity of these bases. According to Oberg, "the resistance to foreign military presence is spreading as rapidly as the bases themselves," suggesting a growing disconnect between military strategies and public sentiment.
+  The geopolitical landscape remains tense as Western policies and narratives continue to shape international relations, with recent developments highlighting growing friction over sanctions, technological competition, and the future of regional stability.
   
-  In parallel, the role of the United Nations is under renewed scrutiny as it marks its 80th anniversary. **Jan Oberg** underscores the paradox of the UN's enduring importance for global dialogue and peacekeeping, while simultaneously warning that "member states are deliberately undermining its effectiveness." This erosion of multilateral institutions, Oberg argues, is contributing to a more fragmented and unstable international order.
+  In the wake of the US government’s decision to sanction Francesca Albanese, a UN official, there has been significant backlash from legal and human rights communities. **Jan Oberg** sharply criticizes Senator Marco Rubio’s justification for the sanctions, arguing that it undermines the principles of law, justice, and truth. Oberg contends that such actions not only damage the credibility of US foreign policy but also set a dangerous precedent for targeting individuals engaged in legitimate international work.
   
-  On the ideological front, there is a renewed call for non-violent conflict resolution, inspired by Gandhi’s philosophy. Oberg advocates for "increased public education on peaceful methods" as a counterweight to the prevailing reliance on militarism. This perspective is gaining traction among civil society groups, particularly in regions most affected by military escalation.
+  Meanwhile, the debate over China’s technological leadership persists, particularly in the fields of quantum physics and artificial intelligence. **Jan Oberg** notes that the ongoing discussion about whether China is “leading” is ultimately futile, as it distracts from the more pressing need for global cooperation and mutual benefit in science and technology. He warns that framing technological progress as a zero-sum competition risks fueling further mistrust and division between major powers.
   
-  Looking ahead, the trend toward militarization—both in terms of physical infrastructure and policy—appears set to continue, but so does the momentum behind grassroots resistance and advocacy for non-violent alternatives. There is a high chance, as Oberg notes, that "public pressure will intensify, forcing governments to reconsider the expansion of foreign military bases." However, the weakening of the UN's authority is quite likely to persist unless member states reverse current policies. The overall outlook points to a period of heightened contestation between militarist and peace-oriented approaches, with the balance of power hinging on the effectiveness of public mobilization and institutional reform.
+  Turning to the Middle East, the question of Iran’s political trajectory remains unresolved. In a recent online conference, **Farhang Jahanpour** explored whether Iran is more likely to experience a peaceful transition or a revolution. The consensus among analysts is that, while internal pressures for change are mounting, the path forward is uncertain. However, Oberg assesses with medium confidence that there is a high chance of gradual reform rather than abrupt upheaval, given the resilience of existing institutions and the lack of unified opposition.
+  
+  Looking ahead, the prevailing trends suggest that Western reliance on sanctions and adversarial rhetoric is likely to persist, especially in dealings with international organizations and rival states. The technological rivalry with China will continue to be framed in competitive terms, despite calls for more collaborative approaches. In the case of Iran, incremental change appears more probable than revolutionary transformation, though the situation remains fluid.
+  
+  In summary, the current trajectory points toward sustained geopolitical tension, with legal and diplomatic norms under strain and the risk of further polarization in both technological and regional arenas. Most definitely, these dynamics will shape the global order in the months to come.
 articles:
+  - title: 'Sanctioning Francesca Albanese: Marco Rubio Tramples on Law, Justice, and
+      Truth'
+    url: https://transnational.live/2025/07/28/sanctioning-francesca-albanese-marco-rubio-tramples-on-law-justice-and-truth/
+    text: 'Richard FalkTFF Associate since 1986 July 28, 2025 The text below was published
+      in “The Nation” on July 15, 2025, appears here unmodified. The delay is due to
+      a weak Internet here in Turkey. There has been much critical reaction to this
+      US Government defamatory statement justifying the imposition of sanctions on this
+      exceptional independent […] The post Sanctioning Francesca Albanese: Marco Rubio
+      Tramples on Law, Justice, and Truth appeared first on The Transnational .'
+    one_sentence_summary: The article discusses the backlash against a US government
+      statement that justifies sanctions on Francesca Albanese, criticizing Marco Rubio
+      for undermining law, justice, and truth in the process.
+    paragraph_summary: The article discusses the backlash against a defamatory statement
+      made by the US government regarding Francesca Albanese, which served as a justification
+      for imposing sanctions against her. Richard Falk, a TFF Associate since 1986,
+      highlights the critical reactions to this action, particularly focusing on the
+      implications of Marco Rubio's involvement, which he argues undermines law, justice,
+      and truth. The piece emphasizes the broader concerns about the use of sanctions
+      in international relations and the impact on independent voices.
+    published: '2025-07-28T10:59:23+00:00'
+  - title: 'Sanctioning Francesca Albanese: Marco Rubio Tramples on Law, Justice, and
+      Truth'
+    url: https://transnational.live/2025/07/28/sanctioning-francesca-albanese-marco-rubio-tramples-on-law-justice-and-truth/
+    text: 'Richard FalkTFF Associate since 1986 July 28, 2025 The text below was published
+      in “The Nation” on July 15, 2025, appears here unmodified. The delay is due to
+      a weak Internet here in Turkey. There has been much critical reaction to this
+      US Government defamatory statement justifying the imposition of sanctions on this
+      exceptional independent […] The post Sanctioning Francesca Albanese: Marco Rubio
+      Tramples on Law, Justice, and Truth appeared first on The Transnational .'
+    one_sentence_summary: The article discusses the backlash against a US government
+      statement that justifies sanctions on Francesca Albanese, criticizing Marco Rubio
+      for undermining law, justice, and truth in the process.
+    paragraph_summary: The article discusses the backlash against a defamatory statement
+      made by the US government regarding Francesca Albanese, which served as a justification
+      for imposing sanctions against her. Richard Falk, a TFF Associate since 1986,
+      highlights the critical reactions to this action, particularly focusing on the
+      implications of Marco Rubio's involvement, which he argues undermines law, justice,
+      and truth. The piece emphasizes the broader concerns about the use of sanctions
+      in international relations and the impact on independent voices.
+    published: '2025-07-28T10:59:23+00:00'
+  - title: Is China Leading? A Futile Discussion
+    url: https://transnational.live/2025/07/28/is-china-leading-a-futile-discussion/
+    text: Photo Jan Oberg Peter PeverelliTFF Associate July 28, 2025 China has recently
+      garnered significant attention due to its advancements in various technological
+      fields, such as quantum physics and artificial intelligence. In media discussions
+      and my lectures on China, it is common to encounter objections asserting that
+      the West, particularly the United States, is certainly ahead […] The post Is China
+      Leading? A Futile Discussion appeared first on The Transnational .
+    one_sentence_summary: The article discusses the ongoing debate about whether China
+      is leading in technological advancements, particularly in quantum physics and
+      artificial intelligence, and suggests that such discussions may be unproductive.
+    paragraph_summary: The article discusses China's notable advancements in technology,
+      particularly in quantum physics and artificial intelligence, and addresses the
+      common perception that the West, especially the United States, remains ahead in
+      these fields. The author argues that this debate over leadership in technology
+      is ultimately futile, suggesting that such comparisons may overlook the complexities
+      and nuances of technological progress in both regions.
+    published: '2025-07-28T10:03:06+00:00'
+  - title: Is China Leading? A Futile Discussion
+    url: https://transnational.live/2025/07/28/is-china-leading-a-futile-discussion/
+    text: Photo Jan Oberg Peter PeverelliTFF Associate July 28, 2025 China has recently
+      garnered significant attention due to its advancements in various technological
+      fields, such as quantum physics and artificial intelligence. In media discussions
+      and my lectures on China, it is common to encounter objections asserting that
+      the West, particularly the United States, is certainly ahead […] The post Is China
+      Leading? A Futile Discussion appeared first on The Transnational .
+    one_sentence_summary: The article discusses the ongoing debate about whether China
+      is leading in technological advancements, particularly in quantum physics and
+      artificial intelligence, and suggests that such discussions may be unproductive.
+    paragraph_summary: The article discusses China's notable advancements in technology,
+      particularly in quantum physics and artificial intelligence, and addresses the
+      common perception that the West, especially the United States, remains ahead in
+      these fields. The author argues that this debate over leadership in technology
+      is ultimately futile, suggesting that such comparisons may overlook the complexities
+      and nuances of technological progress in both regions.
+    published: '2025-07-28T10:03:06+00:00'
+  - title: 'Iran’s Future: Peaceful Transition or Revolution?'
+    url: https://transnational.live/2025/07/28/irans-future-peaceful-transition-or-revolution/
+    text: 'Photo by Shahab Zolfaghari on Unsplash Farhang JahanpourTFF Associate since
+      2006, former Board member. Here his unique homepage. July 28, 2025 Transcript
+      of a lecture given by Farhang Jahanpour during an online conference on the future
+      of Iran on 16 March 2025. When we speak about “transition”, some people believe
+      that in fact there is […] The post Iran’s Future: Peaceful Transition or Revolution?
+      appeared first on The Transnational .'
+    one_sentence_summary: In a lecture at an online conference, Farhang Jahanpour discusses
+      the potential paths for Iran's future, debating whether it will experience a peaceful
+      transition or a revolution.
+    paragraph_summary: In a lecture delivered during an online conference on March 16,
+      2025, Farhang Jahanpour, a long-time associate and former board member of TFF,
+      discussed the potential paths for Iran's future, focusing on the concepts of peaceful
+      transition versus revolution. He explored the complexities surrounding the notion
+      of "transition," highlighting differing perspectives on the political landscape
+      in Iran and the challenges that lie ahead. The discussion reflects ongoing debates
+      about the country's direction amidst evolving social and political dynamics.
+    published: '2025-07-28T09:19:09+00:00'
+  - title: 'Iran’s Future: Peaceful Transition or Revolution?'
+    url: https://transnational.live/2025/07/28/irans-future-peaceful-transition-or-revolution/
+    text: 'Photo by Shahab Zolfaghari on Unsplash Farhang JahanpourTFF Associate since
+      2006, former Board member. Here his unique homepage. July 28, 2025 Transcript
+      of a lecture given by Farhang Jahanpour during an online conference on the future
+      of Iran on 16 March 2025. When we speak about “transition”, some people believe
+      that in fact there is […] The post Iran’s Future: Peaceful Transition or Revolution?
+      appeared first on The Transnational .'
+    one_sentence_summary: In a lecture at an online conference, Farhang Jahanpour discusses
+      the potential paths for Iran's future, debating whether it will experience a peaceful
+      transition or a revolution.
+    paragraph_summary: In a lecture delivered during an online conference on March 16,
+      2025, Farhang Jahanpour, a long-time associate and former board member of TFF,
+      discussed the potential paths for Iran's future, focusing on the concepts of peaceful
+      transition versus revolution. He explored the complexities surrounding the notion
+      of "transition," highlighting differing perspectives on the political landscape
+      in Iran and the challenges that lie ahead. The discussion reflects ongoing debates
+      about the country's direction amidst evolving social and political dynamics.
+    published: '2025-07-28T09:19:09+00:00'
   - title: Foreign Military Bases and Resistance to Them Are Spreading
     url: https://transnational.live/2025/07/14/foreign-military-bases-and-resistance-to-them-are-spreading/
     text: By World BEYOND War July 14, 2025 Reposted from World BEYOND War, July 14,

@@ -7,15 +7,434 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  The humanitarian crisis in Gaza and the West Bank remains acute, with Israeli military actions resulting in severe civilian suffering, including widespread hunger and water scarcity. Despite persistent global protests and denunciations from various governments, the United States and United Kingdom continue to provide unconditional support to Israel. Countries such as France, Canada, and Germany have issued mild criticisms but have not taken substantive action, such as halting trade or suspending vital supplies. According to **Richard Falk**, “the U.S. and U.K. continue to provide unconditional support to Israel, while countries like France, Canada, and Germany express mild criticism without halting trade or vital supplies.”
+  The geopolitical landscape continues to be dominated by the fallout from the ongoing humanitarian crisis in Gaza and the broader implications of US and Israeli policy in the region. In recent days, a significant development has emerged with US Secretary of State Marco Rubio imposing sanctions on Francesca Albanese, the UN Special Rapporteur for the Occupied Palestinian Territories. This unprecedented move marks the first time an unpaid UN officeholder has been targeted in this way, drawing sharp criticism from the United Nations and independent observers.
   
-  A significant recent development is the escalation of conflict between Israel and Iran, with Israel—backed by the U.S.—launching strikes aimed at Iran’s nuclear facilities using powerful bombs. The effectiveness of these attacks remains uncertain, and there is no clear evidence yet that Iran’s nuclear program has been significantly set back. This military action has heightened regional tensions and raised concerns about potential retaliation or further destabilization.
+  **Richard Falk** highlights that the sanctions, which bar Albanese from entering the US and freeze any American assets, are justified by Rubio through an executive order previously used to sanction International Criminal Court officials. The move is widely seen as an escalation in efforts to delegitimize international scrutiny of Israeli actions in Palestine, particularly as Albanese is a prominent female figure in the UN and has been outspoken about the humanitarian situation in Gaza. The UN has objected strongly, warning of the chilling effect such actions could have on the independence and effectiveness of international human rights mechanisms.
   
-  Meanwhile, civil society responses are intensifying. The Gaza Peoples Tribunal, established in 2024, has emerged as a prominent initiative to address what many see as the failures of international legal bodies to hold Israel accountable. The Tribunal draws historical parallels to anti-war and anti-apartheid movements, aiming to mobilize global civic pressure and solidarity for Palestinian rights. Its Sarajevo Declaration, issued after its first public assembly, reaffirms a commitment to peace, justice, and Palestinian self-determination.
+  Meanwhile, the humanitarian crisis in Gaza remains acute. Civil society initiatives, such as the Gaza Peoples Tribunal, continue to gain traction as alternative forums for accountability and advocacy. The Tribunal, established in response to the perceived failures of the International Court of Justice and the International Criminal Court, recently concluded its first public assembly in Sarajevo. The resulting Sarajevo Declaration reaffirms the right of Palestinians to self-determination and calls for global solidarity and civic action to pressure Israel and its allies to end the violence and address the ongoing suffering.
   
-  **Trends and Predictions:**  
-  The majority of analysts agree that the humanitarian situation in Gaza is likely to deteriorate further unless there is a significant shift in international policy or a breakthrough in peace negotiations. The regional risk of escalation remains high, particularly if Iran chooses to retaliate or if Israeli strikes continue. Civil society initiatives like the Gaza Peoples Tribunal are expected to gain traction, but without decisive governmental action, their impact will be limited to raising awareness and moral pressure. Based on the current trajectory, there is a high chance that the conflict and humanitarian crisis will persist in the coming months, with only incremental changes unless external actors alter their positions or strategies.
+  On the regional security front, the aftermath of Israeli and US strikes on Iranian nuclear facilities remains a subject of debate. While the immediate impact of these attacks is still unclear, analysts agree that the strikes have heightened tensions and underscored the fragility of the regional balance of power. There is a growing consensus among independent experts that the dual objectives of these operations—disrupting Iran’s nuclear ambitions and fostering internal regime change—are unlikely to be fully realized in the near term.
+  
+  Looking ahead, the majority of analysts, including **Richard Falk**, predict with high confidence that US policy will continue to prioritize support for Israel, even in the face of mounting international criticism and legal challenges. Civil society efforts, such as the Gaza Peoples Tribunal, are expected to intensify, drawing on historical precedents from the anti-apartheid and anti-war movements. However, the prospects for meaningful change in official policy remain limited in the short term, with the humanitarian situation in Gaza likely to persist absent a significant shift in international political will.
 articles:
+  - title: 'USG Sanctioning Francesca Albanese: Marco Rubio Tramples on Law, Justice,
+      and Truth'
+    url: https://richardfalk.org/2025/07/27/usg-sanctioning-francesca-albanese-marco-rubio-tramples-on-law-justice-and-truth/
+    text: '[Prefatory Note : The text below was published in The Nation on July 15,
+      2025, appears here unmodified. The delay due to a weak Internet here in Turkey.
+      There has been much critical reaction to this US Government defamatory statement
+      justifying the imposition of sanctions on this exceptional independent expert
+      appointed by the UN to an unpaid position, and left to hang in the wind by the
+      politically motivated show of indifference by the UN Secretariat.] Sanctioning
+      Francesca Albanese: Marco Rubio Tramples on Law, Justice, and Truth Richard Falk
+      Justifying US Sanctions US Secretary of State, Marco Rubio, in a dazzling Orwellian
+      display inverted reality by slapped sanctions on Francesca Albanese, the much-embattled
+      UN Special Rapporteur for the Occupied Palestinian Territories of East Jerusalem,
+      West Bank, and Gaza. If the sanctions are implemented against this extraordinary
+      citizen of Italy, in the face of strong UN objections, Albanese will be barred
+      from entering the US, presumably even to discharge her annual UN duty to present
+      a report to the Third Committee of the General Assembly. Additionally, as a vindictive
+      feature of the sanctions, whatever American financial assets she happens to possess,
+      including real state, will be frozen. It is relevant to take notice of the that
+      not only is Francesca Albanese, the first UN unpaid officeholder to be sanctioned,
+      but she happens to be the first woman to be named UN Special Rapporteur of Occupied
+      Palestine. Relying on an earlier Trump Executive Order 14203 (“Imposing Sanctions
+      on the International Criminal Court”), which is a stretch when it comes to the
+      SR role played by Albanese, Rubio resorts to this lawfare ploy to connect her
+      with an analogous sanctions imposed in February on five members of the ICC for
+      their involvement in the issuance of arrest warrants for Benjamin Netanyahu and
+      the Israeli former Minister Defense, Yoav Gallant. The only link between the ICC
+      and Albanese derived from her most recent SR report that explores the connections
+      between the profits earned by some 60 named corporations in the US and European
+      defense sectors and her carefully documented allegations of Israel’s criminal
+      responsibility for genocide in Gaza. The recommendation in her report to the UN
+      of investigation and indictment by the ICC provides the basic for accusing Albanese
+      of waging ‘economic warfare’ against the US and Israel. As might be expected,
+      big tech and arms dealers exerted their own pressures for the US to strike back,
+      and strike it did. Anyone familiar with the vicious Israeli campaign against Albanese
+      since her appointment in 2022, fully seconded by the US, will jump to the plausible
+      conclusion that these objecting countries were waiting for just such a setting
+      to take punitive action against this fearless scholar and passionate advocate
+      of human rights for the Palestinian people. Rubio acknowledges as much when he
+      departs from the technical rationale for sanctions, giving voice to the deep roots
+      of US hostility to Albanese. Rubio’s words read as if scripted by the most militant
+      of AIPAC or UN Watch loyalists: “The United States has repeatedly condemned and
+      objected to biased and malicious activities of Albanese that have long made her
+      unfit for service as a Special Rapporteur.” His statement goes on falsely contending
+      that “Albanese has spewed antisemitism, expressed support for terrorism, and open
+      contempt for the United States, Israel, and the West.” Hardly a word of this defaming
+      allegation is true beyond the partial exception of the ‘open contempt’ phrase.
+      What seems relevant is that the sanctions were imposed days after the release
+      of Albanese’s report that focused on corporate complicity with Israel’s criminality
+      in Gaza, naming a series of prominent corporations that profited from supplying
+      weapons and other military equipment facilitating the genocide. Rubio’s formal
+      statement signaled the context by unusually referring to ‘economic’ as well as
+      ‘political’ interests. Background of Attacks on Albanese The last three Special
+      Rapporteurs on Palestine, of which I was one, were each subjected to harsh pushbacks
+      in the form of character assassinations, death threats, and smears. These were
+      similar to what Albanese experienced prior to the July 9 sanctions. We were much
+      less visible and influential than Albanese, in part due to her public prominence,
+      documented confirmation of inflammatory genocide accusations. As her fearless
+      and persuasive critical assessments of Israel’s criminality began gaining growing
+      credibility at odds with the mainstream news cycle upholding the legitimacy of
+      Israel’s response to October 7 she became a prime target of government and societal
+      diehard supporters of Israel. So when her last report named leading defense industry
+      companies, and recommended ICC investigations and prosecutions it was apparently
+      the last straw for US foreign policy establishment. I will not claim any credentials,
+      but my predecessor, John Dugard, and my successor, Michael Lynk, were world class
+      jurists, whose views on international law issues were widely solicited and impressively
+      influential long before they became UN SRs and have continued after their SR terms
+      expired. This Israeli tactic of attacking the credibility of the messenger instead
+      of addressing the message seemed to commence in the 2005-2010 period. Although
+      not acknowledged by either Israel or its European and North American supporters
+      this tactic appeared perversely responsive to the overwhelming evidence of highly
+      visible Israeli violations of international humanitarian law in their administrative
+      occupation of the West Bank and Gaza. Israel’s core duty as embedded in the Geneva
+      Convention on Belligerent Occupation was daily being flagrantly violated. It specified
+      the obligations of an Occupying State to uphold the safety, security, needs, and
+      interests of an occupied people. Among the most serious violations was the encouragement
+      of Jewish settlements throughout the West Bank a fundamental breach of international
+      humanitarian law that doomed peacemaking ventures, especially the viability of
+      any durable two-state solution that is not a Bantustan buyoff. It also gave rise
+      to the strong suspicion, later confirmed, that the Zionist Project coveted not
+      only East Jerusalem, which was the unlawfully incorporated into Israel after the
+      1967 War, and proclaimed Israel’s eternal capital, but the West Bank as part of
+      ‘the promised land’ in Jewish traditions. To deflect attention from its lawless
+      behavior, Israel chose to go after Special Rapporteurs and prominent critics by
+      recourse to launching personal attacks rather than by addressing substantive criticisms
+      by relying on counter-arguments. The centerpiece of this strategy came to be identified
+      as ‘the weaponization of antisemitism,’ reinforced by manipulating the influential
+      polemical IHRA definition of antisemitism. Criticisms of Israel’s behavior, including
+      of its practices of ethnic cleansing and Knesset enactment of a Basic Law in 2018
+      of Jewish supremist ideology. Critical reactions by UNSRs and others were repudiated
+      by Israel, derided as the purveyors of hatred toward Jews, and with US support
+      mounting an intensifying campaign to eliminate the SR Mandate for Occupied Palestine.
+      In this pushback against Israel’s critics, accusations were invariably directed
+      at individuals who had strong reputations as strengthening human rights and had
+      no animosity whatsoever to Jews as persons or as a people. These smearing tactics
+      were intended to harm professional reputations and to be emotionally hurtful.
+      The broader goals of these campaigns were to create toxic intimidating consequences
+      for anyone who dared cross these ill-conceived red lines. These discrediting attacks
+      have proved alarmingly effective over the years in diverting attention from Israeli
+      wrongdoing, sowing doubts either cynically or by a naive citizenry and a self-censoring
+      media that responds as folk wisdom instructs, ‘where there is smoke there must
+      be fire.’ No one has endured more unwarranted hate and deserved admiration along
+      these unscrupulous lines than Francesca Albanese. She has heroically persevered
+      in an entirely objective expose of Israel’s prolonged, transparent, and cruel
+      genocidal assault against the civilian population of Gaza Exposing the Genocidal
+      Narrative of Alleged Retaliation It is against this background, knowingly or pragmatically
+      indulged by Western governments and influential corporatized media platforms,
+      that brought Albanese under fierce attack from the moment she was appointed SR
+      by the UN. After October 7, 2025 when the Israeli response in Gaza assumed from
+      its outset a genocidal quality, Albanese rose to the challenge of the UN mandate
+      by namin g the massive high tech violence against Gaza as ‘genocide’ when the
+      mainstream mobilized to keep the debate about whether Israel was winning in gaining
+      its public goal of exterminating Hamas. Albanese showed that this outcome was
+      politically enabled by the prior dehumanization of the Palestinians. Her periodic
+      reports to the UN brilliantly analyzed genocide as embedded in the Zionist Project
+      of ‘settler colonialism,’ the essence of which consisted of persecuting Palestinians
+      as strangers in their own homeland. She was energetic and effective in disseminating
+      these provocative findings and allegations, building a global reputation unlike
+      any previous Special Rapporteur across the spectrum of 58 mandates established
+      over the years by the UN Human Rights Council. However fierce, intimidating, and
+      unfair these attacks, Albanese courageously did not bend to the pressures mounted
+      against her, which seemed to further frustrate and incense her vengeful adversaries
+      in Israel and the United States. They could not quiet her voice or divert her
+      message, no matter the fury of the insults or threats, including from pro-Zionist
+      groups spread around the Global West. It is unlikely that the imposition of US
+      sanctions, however punitive, will overcome these past strenuous efforts to silence
+      Albanese’s eloquent global voice of conscience fortified by deep knowledge of
+      what she speaks. The Larger Stakes More than Albanese’s reputation and ability
+      to carry out the duties of Special Rapporteur is at stake in this struggle. National
+      sanctions imposed by the host country of the UN violates two important international
+      treaties designed to balance state sovereignty against UN effectiveness and independence.
+      [International Convention on the Privileges and Immunities of the UN; Host Country
+      Agreement]. The US has repeatedly refused to be bound by international law and
+      morality when these normative imperatives clash with strategic interest in shielding
+      allies from criticism and censure. It also slams the door on the integrity of
+      unpaid civil servants who enjoy a reputation for exceptional performance as is
+      the case with Albanese. All members of the UN are of course fully entitled to
+      express disagreement with the views and recommendations of an SR, hopefully in
+      a responsible manner. It is quite another to join a campaign of slander without
+      the slightest effort to engage the well documented arguments of an experienced
+      and highly respected human rights defender and international law scholar of Albanese’s
+      stature. Worse yet, the US Government is joining Israel in reinforcing slanderous
+      attacks by punitive action that intentionally interferes with the performance
+      of an elected and appointed UN official selected by the Human Rights Council after
+      an elaborate vetting process that included the recommendation of a committee of
+      UN diplomats who evaluate a large pool of applicants, shortlisting for review
+      by the President of the HRC who passes on his recommendations to the Assembly
+      of UN member who must endorse the SR nominee by a consensus vote (interpreted
+      as registering no negative votes) among members states of the HRC. To impose sanctions
+      on such a UN appointee due to disagreements with her assessment of a controversial
+      situation is to weaken the influence of a UN institution and  discourage qualified
+      persons from subjecting themselves to unseemly reprisals for performative integrity.
+      It is also a terrible precedent, overriding the objective reportage of the most
+      severe violations of international law by recourse to strongarmed geopolitics.
+      Albanese’s central allegations of genocide and disruptive Israeli interference
+      with the international delivery of humanitarian aid for the desperately deprived
+      civilian population of Gaza were in harmony with the near unanimous interim measures
+      ruled upon in 2024 by the ICJ, and defied by Israel. The ICJ judgment although
+      provisional was widely admired across the world as an exercise of judicial independence,
+      exhibiting the professionalism of its judges. This included the American judge,
+      Sarah Cleveland, who sided with the South African request for interim relief from
+      the devastation being wrought by the relentless military assault as did the judges
+      from Israel-supporting Germany and Australia. Because of the drawn-out procedures
+      of the ICJ, including delays in the proceedings granted to Israel, it may be several
+      years before this judicial body renders a final judgment on these central questions,
+      and even then, in a manner confined by conservative judicial practice than are
+      SR reports. In this sense, the establishment of the position of Special Rapporteur
+      was a brilliant innovation in UN procedures, enabling responsive reporting by
+      44 SRs on a variety of international themes ranging from the rights of free expression
+      to abusive treatment of women, as well as 14 country SRs deemed deserving of attention.
+      The SR on Israeli violation of human rights in Palestinian Territories occupied
+      after 1967 was established in 1993, and has been subject to Israeli and US objections
+      ever since its inception. Despite such opposition this UN position has steadily
+      gained influence, prestige, and media respect. Its prominence reached a peak during
+      the first three-year term of Albanese’s tenure, now extended as is in keeping
+      with usual practice for a second and final second three years. Her reports were
+      invaluable sources of trustworthy and well-researched assessments of an international
+      controversy that increasingly pitted the West against the rest. Thirty years ago,
+      Samuel Huntington predicted a turbulent sequel to the end of the Cold War in the
+      form of ‘a clash of civilizations,’ and only a few would doubt that it has come
+      to pass. Albanese surmounted this contentious political atmosphere with reason,
+      knowledge, and a lifelong dedication to international law and human rights under
+      the most difficult of circumstances. Instead of being sanctioned and maligned
+      by the US Government, Francesca Albanese is now honored by heading the line of
+      nominees waiting to receive the 2026 Nobel Peace Prize. If Americans were living
+      in a democratic and peace minded country our President would insist on the resignation
+      of Marco Rubio for his shameful act of overreach. It would be a dramatic show
+      of national support for internationalism even when it goes against US foreign
+      policy. This currently inconceivable double outcome of honor for Albanese and
+      infamy for Rubio could have strengthened the UN and recognized civil society contributions
+      by engaged citizens the world over who are devoted to justice and peace, and above
+      all, in relation to the weak and vulnerable currently epitomized by the plight
+      of the Palestinian people.'
+    one_sentence_summary: The article criticizes US Secretary of State Marco Rubio for
+      imposing sanctions on UN Special Rapporteur Francesca Albanese, arguing that this
+      action unjustly undermines law and justice while facing significant opposition
+      from the UN.
+    paragraph_summary: In a controversial move, US Secretary of State Marco Rubio has
+      imposed sanctions on Francesca Albanese, the UN Special Rapporteur for the Occupied
+      Palestinian Territories, marking her as the first unpaid UN officeholder to face
+      such penalties. These sanctions, which have drawn significant criticism, will
+      prevent Albanese from entering the US, even for her official duties, and will
+      freeze any American assets she may own. Rubio's justification for these sanctions
+      relies on a previous executive order related to the International Criminal Court,
+      attempting to link Albanese's role to sanctions imposed on ICC members involved
+      in arrest warrants against Israeli officials. This action has sparked outrage,
+      particularly given the UN's objections and the implications for Albanese's work
+      and status as a prominent female figure in the UN.
+    published: '2025-07-28T05:44:04+00:00'
+  - title: 'USG Sanctioning Francesca Albanese: Marco Rubio Tramples on Law, Justice,
+      and Truth'
+    url: https://richardfalk.org/2025/07/27/usg-sanctioning-francesca-albanese-marco-rubio-tramples-on-law-justice-and-truth/
+    text: '[Prefatory Note : The text below was published in The Nation on July 15,
+      2025, appears here unmodified. The delay due to a weak Internet here in Turkey.
+      There has been much critical reaction to this US Government defamatory statement
+      justifying the imposition of sanctions on this exceptional independent expert
+      appointed by the UN to an unpaid position, and left to hang in the wind by the
+      politically motivated show of indifference by the UN Secretariat.] Sanctioning
+      Francesca Albanese: Marco Rubio Tramples on Law, Justice, and Truth Richard Falk
+      Justifying US Sanctions US Secretary of State, Marco Rubio, in a dazzling Orwellian
+      display inverted reality by slapped sanctions on Francesca Albanese, the much-embattled
+      UN Special Rapporteur for the Occupied Palestinian Territories of East Jerusalem,
+      West Bank, and Gaza. If the sanctions are implemented against this extraordinary
+      citizen of Italy, in the face of strong UN objections, Albanese will be barred
+      from entering the US, presumably even to discharge her annual UN duty to present
+      a report to the Third Committee of the General Assembly. Additionally, as a vindictive
+      feature of the sanctions, whatever American financial assets she happens to possess,
+      including real state, will be frozen. It is relevant to take notice of the that
+      not only is Francesca Albanese, the first UN unpaid officeholder to be sanctioned,
+      but she happens to be the first woman to be named UN Special Rapporteur of Occupied
+      Palestine. Relying on an earlier Trump Executive Order 14203 (“Imposing Sanctions
+      on the International Criminal Court”), which is a stretch when it comes to the
+      SR role played by Albanese, Rubio resorts to this lawfare ploy to connect her
+      with an analogous sanctions imposed in February on five members of the ICC for
+      their involvement in the issuance of arrest warrants for Benjamin Netanyahu and
+      the Israeli former Minister Defense, Yoav Gallant. The only link between the ICC
+      and Albanese derived from her most recent SR report that explores the connections
+      between the profits earned by some 60 named corporations in the US and European
+      defense sectors and her carefully documented allegations of Israel’s criminal
+      responsibility for genocide in Gaza. The recommendation in her report to the UN
+      of investigation and indictment by the ICC provides the basic for accusing Albanese
+      of waging ‘economic warfare’ against the US and Israel. As might be expected,
+      big tech and arms dealers exerted their own pressures for the US to strike back,
+      and strike it did. Anyone familiar with the vicious Israeli campaign against Albanese
+      since her appointment in 2022, fully seconded by the US, will jump to the plausible
+      conclusion that these objecting countries were waiting for just such a setting
+      to take punitive action against this fearless scholar and passionate advocate
+      of human rights for the Palestinian people. Rubio acknowledges as much when he
+      departs from the technical rationale for sanctions, giving voice to the deep roots
+      of US hostility to Albanese. Rubio’s words read as if scripted by the most militant
+      of AIPAC or UN Watch loyalists: “The United States has repeatedly condemned and
+      objected to biased and malicious activities of Albanese that have long made her
+      unfit for service as a Special Rapporteur.” His statement goes on falsely contending
+      that “Albanese has spewed antisemitism, expressed support for terrorism, and open
+      contempt for the United States, Israel, and the West.” Hardly a word of this defaming
+      allegation is true beyond the partial exception of the ‘open contempt’ phrase.
+      What seems relevant is that the sanctions were imposed days after the release
+      of Albanese’s report that focused on corporate complicity with Israel’s criminality
+      in Gaza, naming a series of prominent corporations that profited from supplying
+      weapons and other military equipment facilitating the genocide. Rubio’s formal
+      statement signaled the context by unusually referring to ‘economic’ as well as
+      ‘political’ interests. Background of Attacks on Albanese The last three Special
+      Rapporteurs on Palestine, of which I was one, were each subjected to harsh pushbacks
+      in the form of character assassinations, death threats, and smears. These were
+      similar to what Albanese experienced prior to the July 9 sanctions. We were much
+      less visible and influential than Albanese, in part due to her public prominence,
+      documented confirmation of inflammatory genocide accusations. As her fearless
+      and persuasive critical assessments of Israel’s criminality began gaining growing
+      credibility at odds with the mainstream news cycle upholding the legitimacy of
+      Israel’s response to October 7 she became a prime target of government and societal
+      diehard supporters of Israel. So when her last report named leading defense industry
+      companies, and recommended ICC investigations and prosecutions it was apparently
+      the last straw for US foreign policy establishment. I will not claim any credentials,
+      but my predecessor, John Dugard, and my successor, Michael Lynk, were world class
+      jurists, whose views on international law issues were widely solicited and impressively
+      influential long before they became UN SRs and have continued after their SR terms
+      expired. This Israeli tactic of attacking the credibility of the messenger instead
+      of addressing the message seemed to commence in the 2005-2010 period. Although
+      not acknowledged by either Israel or its European and North American supporters
+      this tactic appeared perversely responsive to the overwhelming evidence of highly
+      visible Israeli violations of international humanitarian law in their administrative
+      occupation of the West Bank and Gaza. Israel’s core duty as embedded in the Geneva
+      Convention on Belligerent Occupation was daily being flagrantly violated. It specified
+      the obligations of an Occupying State to uphold the safety, security, needs, and
+      interests of an occupied people. Among the most serious violations was the encouragement
+      of Jewish settlements throughout the West Bank a fundamental breach of international
+      humanitarian law that doomed peacemaking ventures, especially the viability of
+      any durable two-state solution that is not a Bantustan buyoff. It also gave rise
+      to the strong suspicion, later confirmed, that the Zionist Project coveted not
+      only East Jerusalem, which was the unlawfully incorporated into Israel after the
+      1967 War, and proclaimed Israel’s eternal capital, but the West Bank as part of
+      ‘the promised land’ in Jewish traditions. To deflect attention from its lawless
+      behavior, Israel chose to go after Special Rapporteurs and prominent critics by
+      recourse to launching personal attacks rather than by addressing substantive criticisms
+      by relying on counter-arguments. The centerpiece of this strategy came to be identified
+      as ‘the weaponization of antisemitism,’ reinforced by manipulating the influential
+      polemical IHRA definition of antisemitism. Criticisms of Israel’s behavior, including
+      of its practices of ethnic cleansing and Knesset enactment of a Basic Law in 2018
+      of Jewish supremist ideology. Critical reactions by UNSRs and others were repudiated
+      by Israel, derided as the purveyors of hatred toward Jews, and with US support
+      mounting an intensifying campaign to eliminate the SR Mandate for Occupied Palestine.
+      In this pushback against Israel’s critics, accusations were invariably directed
+      at individuals who had strong reputations as strengthening human rights and had
+      no animosity whatsoever to Jews as persons or as a people. These smearing tactics
+      were intended to harm professional reputations and to be emotionally hurtful.
+      The broader goals of these campaigns were to create toxic intimidating consequences
+      for anyone who dared cross these ill-conceived red lines. These discrediting attacks
+      have proved alarmingly effective over the years in diverting attention from Israeli
+      wrongdoing, sowing doubts either cynically or by a naive citizenry and a self-censoring
+      media that responds as folk wisdom instructs, ‘where there is smoke there must
+      be fire.’ No one has endured more unwarranted hate and deserved admiration along
+      these unscrupulous lines than Francesca Albanese. She has heroically persevered
+      in an entirely objective expose of Israel’s prolonged, transparent, and cruel
+      genocidal assault against the civilian population of Gaza Exposing the Genocidal
+      Narrative of Alleged Retaliation It is against this background, knowingly or pragmatically
+      indulged by Western governments and influential corporatized media platforms,
+      that brought Albanese under fierce attack from the moment she was appointed SR
+      by the UN. After October 7, 2025 when the Israeli response in Gaza assumed from
+      its outset a genocidal quality, Albanese rose to the challenge of the UN mandate
+      by namin g the massive high tech violence against Gaza as ‘genocide’ when the
+      mainstream mobilized to keep the debate about whether Israel was winning in gaining
+      its public goal of exterminating Hamas. Albanese showed that this outcome was
+      politically enabled by the prior dehumanization of the Palestinians. Her periodic
+      reports to the UN brilliantly analyzed genocide as embedded in the Zionist Project
+      of ‘settler colonialism,’ the essence of which consisted of persecuting Palestinians
+      as strangers in their own homeland. She was energetic and effective in disseminating
+      these provocative findings and allegations, building a global reputation unlike
+      any previous Special Rapporteur across the spectrum of 58 mandates established
+      over the years by the UN Human Rights Council. However fierce, intimidating, and
+      unfair these attacks, Albanese courageously did not bend to the pressures mounted
+      against her, which seemed to further frustrate and incense her vengeful adversaries
+      in Israel and the United States. They could not quiet her voice or divert her
+      message, no matter the fury of the insults or threats, including from pro-Zionist
+      groups spread around the Global West. It is unlikely that the imposition of US
+      sanctions, however punitive, will overcome these past strenuous efforts to silence
+      Albanese’s eloquent global voice of conscience fortified by deep knowledge of
+      what she speaks. The Larger Stakes More than Albanese’s reputation and ability
+      to carry out the duties of Special Rapporteur is at stake in this struggle. National
+      sanctions imposed by the host country of the UN violates two important international
+      treaties designed to balance state sovereignty against UN effectiveness and independence.
+      [International Convention on the Privileges and Immunities of the UN; Host Country
+      Agreement]. The US has repeatedly refused to be bound by international law and
+      morality when these normative imperatives clash with strategic interest in shielding
+      allies from criticism and censure. It also slams the door on the integrity of
+      unpaid civil servants who enjoy a reputation for exceptional performance as is
+      the case with Albanese. All members of the UN are of course fully entitled to
+      express disagreement with the views and recommendations of an SR, hopefully in
+      a responsible manner. It is quite another to join a campaign of slander without
+      the slightest effort to engage the well documented arguments of an experienced
+      and highly respected human rights defender and international law scholar of Albanese’s
+      stature. Worse yet, the US Government is joining Israel in reinforcing slanderous
+      attacks by punitive action that intentionally interferes with the performance
+      of an elected and appointed UN official selected by the Human Rights Council after
+      an elaborate vetting process that included the recommendation of a committee of
+      UN diplomats who evaluate a large pool of applicants, shortlisting for review
+      by the President of the HRC who passes on his recommendations to the Assembly
+      of UN member who must endorse the SR nominee by a consensus vote (interpreted
+      as registering no negative votes) among members states of the HRC. To impose sanctions
+      on such a UN appointee due to disagreements with her assessment of a controversial
+      situation is to weaken the influence of a UN institution and  discourage qualified
+      persons from subjecting themselves to unseemly reprisals for performative integrity.
+      It is also a terrible precedent, overriding the objective reportage of the most
+      severe violations of international law by recourse to strongarmed geopolitics.
+      Albanese’s central allegations of genocide and disruptive Israeli interference
+      with the international delivery of humanitarian aid for the desperately deprived
+      civilian population of Gaza were in harmony with the near unanimous interim measures
+      ruled upon in 2024 by the ICJ, and defied by Israel. The ICJ judgment although
+      provisional was widely admired across the world as an exercise of judicial independence,
+      exhibiting the professionalism of its judges. This included the American judge,
+      Sarah Cleveland, who sided with the South African request for interim relief from
+      the devastation being wrought by the relentless military assault as did the judges
+      from Israel-supporting Germany and Australia. Because of the drawn-out procedures
+      of the ICJ, including delays in the proceedings granted to Israel, it may be several
+      years before this judicial body renders a final judgment on these central questions,
+      and even then, in a manner confined by conservative judicial practice than are
+      SR reports. In this sense, the establishment of the position of Special Rapporteur
+      was a brilliant innovation in UN procedures, enabling responsive reporting by
+      44 SRs on a variety of international themes ranging from the rights of free expression
+      to abusive treatment of women, as well as 14 country SRs deemed deserving of attention.
+      The SR on Israeli violation of human rights in Palestinian Territories occupied
+      after 1967 was established in 1993, and has been subject to Israeli and US objections
+      ever since its inception. Despite such opposition this UN position has steadily
+      gained influence, prestige, and media respect. Its prominence reached a peak during
+      the first three-year term of Albanese’s tenure, now extended as is in keeping
+      with usual practice for a second and final second three years. Her reports were
+      invaluable sources of trustworthy and well-researched assessments of an international
+      controversy that increasingly pitted the West against the rest. Thirty years ago,
+      Samuel Huntington predicted a turbulent sequel to the end of the Cold War in the
+      form of ‘a clash of civilizations,’ and only a few would doubt that it has come
+      to pass. Albanese surmounted this contentious political atmosphere with reason,
+      knowledge, and a lifelong dedication to international law and human rights under
+      the most difficult of circumstances. Instead of being sanctioned and maligned
+      by the US Government, Francesca Albanese is now honored by heading the line of
+      nominees waiting to receive the 2026 Nobel Peace Prize. If Americans were living
+      in a democratic and peace minded country our President would insist on the resignation
+      of Marco Rubio for his shameful act of overreach. It would be a dramatic show
+      of national support for internationalism even when it goes against US foreign
+      policy. This currently inconceivable double outcome of honor for Albanese and
+      infamy for Rubio could have strengthened the UN and recognized civil society contributions
+      by engaged citizens the world over who are devoted to justice and peace, and above
+      all, in relation to the weak and vulnerable currently epitomized by the plight
+      of the Palestinian people.'
+    one_sentence_summary: The article criticizes US Secretary of State Marco Rubio for
+      imposing sanctions on UN Special Rapporteur Francesca Albanese, arguing that this
+      action unjustly undermines law and justice while facing significant opposition
+      from the UN.
+    paragraph_summary: In a controversial move, US Secretary of State Marco Rubio has
+      imposed sanctions on Francesca Albanese, the UN Special Rapporteur for the Occupied
+      Palestinian Territories, marking her as the first unpaid UN officeholder to face
+      such penalties. These sanctions, which have drawn significant criticism, will
+      prevent Albanese from entering the US, even for her official duties, and will
+      freeze any American assets she may own. Rubio's justification for these sanctions
+      relies on a previous executive order related to the International Criminal Court,
+      attempting to link Albanese's role to sanctions imposed on ICC members involved
+      in arrest warrants against Israeli officials. This action has sparked outrage,
+      particularly given the UN's objections and the implications for Albanese's work
+      and status as a prominent female figure in the UN.
+    published: '2025-07-28T05:44:04+00:00'
   - title: Civic Responses to Gaza Genocide and Regional Nuclearism
     url: https://richardfalk.org/2025/07/17/civic-responses-to-gaza-genocide-and-regional-nuclearism/
     text: '[Prefatory Note: The post below is in two parts, both interviews published

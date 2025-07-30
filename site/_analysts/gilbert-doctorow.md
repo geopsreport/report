@@ -7,16 +7,376 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  The past 24 hours have seen notable developments in Eurasian security cooperation and European domestic affairs, reflecting ongoing shifts in regional alignments and priorities.
+  The geopolitical landscape remains dominated by the ongoing crisis in Ukraine, where the internal political situation is increasingly unstable. Recent days have seen a surge in anti-government protests in Kyiv, triggered by President Zelensky’s controversial move to weaken anti-corruption agencies. According to **Gilbert Doctorow**, the government’s restraint in handling demonstrators signals both the seriousness of the dissent and the administration’s precarious hold on power. The rapid reversal of Zelensky’s decision, following massive public demonstrations, underscores the depth of domestic opposition and raises questions about the sustainability of his leadership.
   
-  The most significant new information concerns the joint Russian-Iranian naval exercises currently underway in the Caspian Sea. As reported by **Gilbert Doctorow**, these drills are officially aimed at enhancing maritime safety and fostering cooperation among Caspian littoral states. However, the exercises have drawn attention in Washington, with U.S. officials expressing concern about the deepening military ties between Moscow and Tehran. The interviews broadcast on Iranian television emphasized not only the operational aspects of the drills but also their symbolic value in signaling mutual defense capabilities and a shared resistance to external (notably U.S.) interference in the region’s energy and security dynamics.
+  Meanwhile, Russia continues to push for a diplomatic resolution to the conflict, but only on terms favorable to Moscow. **Doctorow** notes that Kyiv has rejected the latest Russian peace offer, a move that coincides with growing U.S. involvement in Ukrainian internal affairs. Washington’s apparent efforts to undermine Zelensky—amid the anti-corruption law controversy—reflect a broader strategy to influence Ukraine’s political trajectory, possibly in anticipation of a leadership change.
   
-  Meanwhile, in Brussels, Belgium’s National Day celebrations were marked by a prominent military parade and a nationally televised address by King Philippe. **Gilbert Doctorow** notes that the Associated Press coverage focused on the ceremonial aspects, but the underlying context remains one of heightened military awareness across Europe. This follows recent reports of increased military spending in several EU states, including France, and ongoing public debate in Belgium regarding the diversion of funds from healthcare to defense—a trend that is raising concerns among professionals and the broader public.
+  Beyond Ukraine, Russian-Iranian naval exercises in the Caspian Sea have attracted attention. These drills, intended to enhance maritime safety and cooperation among littoral states, have heightened U.S. concerns about deepening military ties between Moscow and Tehran. **Doctorow** highlights that the exercises also serve as a signal of potential mutual defense commitments and a challenge to longstanding U.S. influence in the region’s energy dynamics.
   
-  Looking at broader trends, the Russian-Iranian naval cooperation is most definitely a sign of a consolidating Eurasian security axis, with both countries seeking to counterbalance U.S. influence in the region. The exercises are likely to continue and may expand in scope, given the high level of political alignment and shared interests. In Europe, the prioritization of defense budgets over social spending is quite likely to persist, especially as governments respond to perceived threats on the continent’s eastern and southern flanks.
-  
-  In summary, the latest developments underscore a deepening polarization between Eurasian powers and Western alliances, with military signaling and budgetary choices reflecting the new geopolitical realities. The trend toward increased militarization and bloc formation is most definitely set to continue in the coming months.
+  Looking ahead, the majority view among analysts, as synthesized by **Doctorow**, is that Ukraine’s political crisis is entering a decisive phase. There is a high chance that the current wave of protests marks the first stage of a broader regime change, with Zelensky’s position “most definitely” under threat. On the international front, the strengthening Russia-Iran partnership is “quite likely” to persist, further complicating Western efforts to contain Moscow’s regional ambitions. The overall trend points to increased volatility in both Ukrainian domestic politics and the wider Eurasian security environment.
 articles:
+  - title: 'NewsX World: Kremlin Says Kyiv Rejects Russia’s Peace Offer | Russia Ukraine
+      Peace Talks'
+    url: https://gilbertdoctorow.com/2025/07/27/newsx-world-kremlin-says-kyiv-rejects-russias-peace-offer-russia-ukraine-peace-talks/
+    text: I used this interview to drive home the fact that the Russians do indeed seek
+      a diplomatic solution to the war, but on their own well-known terms which amount
+      to a Ukrainian capitulation. But the main issue I introduced was the likelihood
+      that the United States now is actively working to bring down Zelensky by encouraging
+      and facilitating the massive demonstrations this past week against Zelensky’s
+      new law stripping the two Ukrainian anti-corruption agencies of independence.
+      There is some fresh news to add to that story. First, this weekend’s Financial
+      Times tells us that there is a revolt among deputies of Zelensky’s Servant of
+      the People party against his decision to withdraw or rewrite the offending law
+      on the anti-corruption agencies so as to satisfy domestic and foreign critics.
+      As many as 70 of his deputies to the Verkkhovna Rada will vote against the volte-face
+      by Zelensky saying that they fear prosecution now by the agencies because of their
+      having voted to strip the agencies of power. If this happens, then Zelensky will
+      be caught between a rock and a hard place – unable to move ahead and call off
+      the opposition demonstrations. Other news on Russian tickers today inform us that
+      several officials now being investigated by the anti-corruption agencies have
+      given testimony incriminating Zelensky.  Moreover, the ongoing street demonstrations
+      now carry signs saying that Zelensky and his chief of presidential administration
+      Yermak are both “traitors to Ukraine.” The foregoing strengthens my argument that
+      this war will end sooner rather than later and it will end due to regime change
+      in Kiev, not to collapse of the Ukrainian armed forces on the front lines. https://www.youtube.com/watch?v=D9_EnWerFus
+    one_sentence_summary: The article discusses Russia's pursuit of a diplomatic resolution
+      to the war on its own terms, while also highlighting the U.S. involvement in undermining
+      Ukrainian President Zelensky amid protests against his controversial anti-corruption
+      law, which has led to dissent within his political party.
+    paragraph_summary: The article discusses the current political turmoil in Ukraine,
+      highlighting that Russia seeks a diplomatic resolution to the war on terms that
+      would require Ukrainian capitulation. It suggests that the United States may be
+      undermining President Zelensky by supporting large protests against his recent
+      law that diminishes the independence of two anti-corruption agencies. A revolt
+      within Zelensky's own party, with around 70 deputies planning to oppose his decision
+      to amend the controversial law, further complicates his position. The protests
+      have escalated, with demonstrators labeling Zelensky and his chief of staff as
+      "traitors," and some officials under investigation have implicated Zelensky in
+      their testimonies. The article concludes that the war may soon end due to a potential
+      regime change in Kyiv rather than a military defeat of Ukrainian forces.
+    published: '2025-07-27T13:10:11+00:00'
+  - title: 'NewsX World: Kremlin Says Kyiv Rejects Russia’s Peace Offer | Russia Ukraine
+      Peace Talks'
+    url: https://gilbertdoctorow.com/2025/07/27/newsx-world-kremlin-says-kyiv-rejects-russias-peace-offer-russia-ukraine-peace-talks/
+    text: I used this interview to drive home the fact that the Russians do indeed seek
+      a diplomatic solution to the war, but on their own well-known terms which amount
+      to a Ukrainian capitulation. But the main issue I introduced was the likelihood
+      that the United States now is actively working to bring down Zelensky by encouraging
+      and facilitating the massive demonstrations this past week against Zelensky’s
+      new law stripping the two Ukrainian anti-corruption agencies of independence.
+      There is some fresh news to add to that story. First, this weekend’s Financial
+      Times tells us that there is a revolt among deputies of Zelensky’s Servant of
+      the People party against his decision to withdraw or rewrite the offending law
+      on the anti-corruption agencies so as to satisfy domestic and foreign critics.
+      As many as 70 of his deputies to the Verkkhovna Rada will vote against the volte-face
+      by Zelensky saying that they fear prosecution now by the agencies because of their
+      having voted to strip the agencies of power. If this happens, then Zelensky will
+      be caught between a rock and a hard place – unable to move ahead and call off
+      the opposition demonstrations. Other news on Russian tickers today inform us that
+      several officials now being investigated by the anti-corruption agencies have
+      given testimony incriminating Zelensky.  Moreover, the ongoing street demonstrations
+      now carry signs saying that Zelensky and his chief of presidential administration
+      Yermak are both “traitors to Ukraine.” The foregoing strengthens my argument that
+      this war will end sooner rather than later and it will end due to regime change
+      in Kiev, not to collapse of the Ukrainian armed forces on the front lines. https://www.youtube.com/watch?v=D9_EnWerFus
+    one_sentence_summary: The article discusses Russia's pursuit of a diplomatic resolution
+      to the war on its own terms, while also highlighting the U.S. involvement in undermining
+      Ukrainian President Zelensky amid protests against his controversial anti-corruption
+      law, which has led to dissent within his political party.
+    paragraph_summary: The article discusses the current political turmoil in Ukraine,
+      highlighting that Russia seeks a diplomatic resolution to the war on terms that
+      would require Ukrainian capitulation. It suggests that the United States may be
+      undermining President Zelensky by supporting large protests against his recent
+      law that diminishes the independence of two anti-corruption agencies. A revolt
+      within Zelensky's own party, with around 70 deputies planning to oppose his decision
+      to amend the controversial law, further complicates his position. The protests
+      have escalated, with demonstrators labeling Zelensky and his chief of staff as
+      "traitors," and some officials under investigation have implicated Zelensky in
+      their testimonies. The article concludes that the war may soon end due to a potential
+      regime change in Kyiv rather than a military defeat of Ukrainian forces.
+    published: '2025-07-27T13:10:11+00:00'
+  - title: Transcript of RT International interview, 25 July
+    url: https://gilbertdoctorow.com/2025/07/26/transcript-of-rt-international-interview-25-july/
+    text: 'Transcript submitted by a reader RT: 0:00 And let’s now cross live to Gilbert
+      Doctorow, a former visiting scholar at Harriman Institute, Columbia University.
+      Welcome to the program, sir. On Tuesday, Zelensky and the Ukrainian parliament
+      put an end to any independence the anti-corruption watchdog had, and today they’re
+      restoring it by introducing a new bill in the Rada. Why such a quick turnaround,
+      do you think? Gilbert Doctorow, PhD: Well, because of the massive demonstrations.
+      I would like to complement the report that you’ve given very ably on what Mr.
+      Zelensky did, what he has just undone, how he received pressure. That’s all fine.
+      But let’s go to the question of these massive demonstrations. The “New York Times”
+      said in their first report on the demonstrations, this goes back to Wednesday,
+      “Well, this is the first mass demonstration in Ukraine in three years of war.”
+      Yes, very interesting. And why is it that there were demonstrations now? Nobody’s
+      asked that question. Let’s deal with that. Does that mean that everybody was very
+      happy in Ukraine with the government? Of course it doesn’t. It means that you’d
+      get your skull fractured if you dared to step out and think of a demonstration.
+      Going back to October 2014 and the elections of the [Rada] at that time, when
+      the first elections that took place after the new regime was put in place by a
+      coup d’etat, those elections were witnessed by foreign observers who reported
+      extensively on the violence that was used against the opponents of the regime.
+      That hasn’t changed. Now, what has changed is that nobody confronted the 10,000
+      or more demonstrators that came out on the streets of Kiev, not to mention thousands
+      more in all the other major cities of Ukraine. 2:01 Why did that happen? Let’s
+      try to think. I would suggest we should think that someone, probably in the West,
+      wants to change the regime. And that is the investigation path that I urge upon
+      listeners to this, I would suggest that the usual actors like MI6 are behind it.
+      Why did the Ukrainian army not fire into the crowd? They got orders not to. And
+      I don’t believe that Mr. Zelensky gave those orders. So we are about to witness
+      regime change in Ukraine. And the major media in the West are preparing, at least
+      in the States, the American public for regime change and for the removal of Zelensky.
+      RT: 2:49 And if we look at the reaction of the public, Ukrainians have not reacted
+      in such a strong way to other controversial events, like when the country’s national
+      resources were sold to the United States, for example. Why has this caused so
+      much controversy now? Doctorow: Because now you weren’t going to get your head
+      bashed in, that’s why. You weren’t going to get shot. This is the cardinal change
+      that has to be brought out, what happened in this week. It is the first step of
+      two or three steps to remove Zelensky and the whole gang of neo-Nazis who have
+      the Ukrainian nation by the neck. It is not thinkable that the whole public was
+      satisfied with the Zelensky regime and therefore didn’t demonstrate. No. They
+      just used common sense, which was: you don’t want to risk your life. Now, it was
+      clear the government had, the army had been given orders not to fire. 3:49 Moreover,
+      the instruction that we understood again from major Western media is that the
+      army was told not to come out in the streets in their uniforms to demonstrate
+      against the law. My goodness, what a change. This is the first stage in the removal
+      of the Zelensky government. RT: What about his image, Zelensky’s actions concerning
+      NABU and the restoration of its autonomy? Do you think that will save the image
+      or will it damage even more? Doctorow: Among whom? Among Ukrainians, I don’t think
+      there is a particular love for Mr. Zelensky. The country is patriotic. Ukrainians
+      share the same religious and political conservatism, shall we say, of Russians.
+      They are going to fight to the end, but they’re not stupid. And if they did not
+      demonstrate in any way against Mr. Zelensky, it was not for love of him and his
+      peers and his colleagues. It was because they were afraid for their lives. That
+      somehow miraculously has changed in the past week, and it deserves proper attention.
+      5:07 I have said for some time this war will not end by a military capitulation.
+      The idea that next week the Ukrainian army will raise a white flag is totally
+      unrealistic, even though nearly all of my peers are suggesting that will happen.
+      No, no, the Ukrainian government will collapse of its own weight and of its own
+      unpopularity. And with some help from those Western sponsors who want to see it
+      collapse. RT: And meanwhile, Zelensky keeps asking for money from the Western
+      backers, let’s call them that, Western friends. And now he wants the EU to pay
+      Ukrainian soldiers their salaries. Do you think Europe will agree? And where is
+      it going to find the funds? Doctorow: 5:54 Well, I don’t think they’ll say no,
+      but they just won’t do it. There aren’t funds available. And I don’t think there’s
+      a great eagerness to provide them even if they were available. The standing of
+      the Ukrainian government is very low. The notion that the Ukrainian army can defend
+      its territory and that it, not to mention that it will gain back territory and
+      defeat Russia, that is only maintained by complete fools. The Western mainstream
+      media no longer holds that to be true. And that is the point. They are preparing,
+      at least in the United States, where there’s far more political freedom for the
+      press than there is in Europe, the press in the States is giving strong signs.
+      Less than two weeks ago there was a feature article in the “New York Times” on
+      the war crimes committed by the Ukrainian forces during their occupation of Kursk
+      Oblast. This is unbelievable. 6:57 From the start of the war, Western media portrayed
+      Ukraine as bunny rabbits, which were being assaulted, attacked by the big bad
+      wolf. Well, you know who that is. That’s Russia. Now we find the “New York Times”,
+      by reporters on the ground, were explaining in detail the war crimes that these
+      bunny rabbits were committing on Russian soil. That is a sea change. RT 7:26 Well,
+      the vibe definitely is changing, if we may call it that. Also this Friday, Russia
+      reported destroying four Patriot systems. At the UN, the Russian representative
+      said the more weapons the West delivers to Ukraine, the more will be destroyed.
+      What are your thoughts on that? Doctorow: Well, I think it’s an absolute statement
+      of fact. Among my peers, almost everyone is in agreement that any new weapons
+      shipped to Ukraine will be destroyed very quickly, and in any case cannot help
+      the Ukrainian cause. The list of weaponry, the Bradleys, the armored personnel
+      carriers, the tanks — all of that which was in Biden’s list is useless in Ukraine
+      today, because the war has changed. The most dynamic part of the war is drone
+      warfare. And heavy mechanized equipment, like what was in the Biden list, hides
+      in forests today, because it would be blasted to pieces if it comes out in the
+      open field. 8:32 So the war has changed. The Biden list of equipment to be shipped
+      to the Ukraine is utterly useless. And the Patriots, of which there’s been so
+      much reporting — as you say, they’ve been destroyed by the Russians. They are
+      vulnerable to Russia’s most advanced missiles and they will not save the Ukrainian
+      army. RT: Gilbert Doctorow, former visiting scholar at Harriman Institute, Columbia
+      University, thank you so much for this analysis. Doctorow: 9:10 My pleasure.'
+    one_sentence_summary: Gilbert Doctorow discusses the rapid reversal of Ukrainian
+      President Zelensky's decision to eliminate the anti-corruption watchdog, attributing
+      it to massive public demonstrations and questioning the underlying reasons for
+      the protests.
+    paragraph_summary: In a recent discussion, Gilbert Doctorow, a former scholar at
+      Columbia University, analyzed the swift reversal of Ukrainian President Zelensky's
+      decision to dismantle the anti-corruption watchdog, attributing it to massive
+      public demonstrations across Ukraine. He noted that these protests, described
+      by the "New York Times" as the first significant mass demonstrations in three
+      years, indicate widespread dissatisfaction with the government, despite previous
+      fears of violent repercussions for dissent. Doctorow suggested that the lack of
+      government intervention against the demonstrators signals potential external influences,
+      possibly from Western entities, aiming to instigate a regime change in Ukraine.
+    published: '2025-07-26T15:14:35+00:00'
+  - title: Transcript of RT International interview, 25 July
+    url: https://gilbertdoctorow.com/2025/07/26/transcript-of-rt-international-interview-25-july/
+    text: 'Transcript submitted by a reader RT: 0:00 And let’s now cross live to Gilbert
+      Doctorow, a former visiting scholar at Harriman Institute, Columbia University.
+      Welcome to the program, sir. On Tuesday, Zelensky and the Ukrainian parliament
+      put an end to any independence the anti-corruption watchdog had, and today they’re
+      restoring it by introducing a new bill in the Rada. Why such a quick turnaround,
+      do you think? Gilbert Doctorow, PhD: Well, because of the massive demonstrations.
+      I would like to complement the report that you’ve given very ably on what Mr.
+      Zelensky did, what he has just undone, how he received pressure. That’s all fine.
+      But let’s go to the question of these massive demonstrations. The “New York Times”
+      said in their first report on the demonstrations, this goes back to Wednesday,
+      “Well, this is the first mass demonstration in Ukraine in three years of war.”
+      Yes, very interesting. And why is it that there were demonstrations now? Nobody’s
+      asked that question. Let’s deal with that. Does that mean that everybody was very
+      happy in Ukraine with the government? Of course it doesn’t. It means that you’d
+      get your skull fractured if you dared to step out and think of a demonstration.
+      Going back to October 2014 and the elections of the [Rada] at that time, when
+      the first elections that took place after the new regime was put in place by a
+      coup d’etat, those elections were witnessed by foreign observers who reported
+      extensively on the violence that was used against the opponents of the regime.
+      That hasn’t changed. Now, what has changed is that nobody confronted the 10,000
+      or more demonstrators that came out on the streets of Kiev, not to mention thousands
+      more in all the other major cities of Ukraine. 2:01 Why did that happen? Let’s
+      try to think. I would suggest we should think that someone, probably in the West,
+      wants to change the regime. And that is the investigation path that I urge upon
+      listeners to this, I would suggest that the usual actors like MI6 are behind it.
+      Why did the Ukrainian army not fire into the crowd? They got orders not to. And
+      I don’t believe that Mr. Zelensky gave those orders. So we are about to witness
+      regime change in Ukraine. And the major media in the West are preparing, at least
+      in the States, the American public for regime change and for the removal of Zelensky.
+      RT: 2:49 And if we look at the reaction of the public, Ukrainians have not reacted
+      in such a strong way to other controversial events, like when the country’s national
+      resources were sold to the United States, for example. Why has this caused so
+      much controversy now? Doctorow: Because now you weren’t going to get your head
+      bashed in, that’s why. You weren’t going to get shot. This is the cardinal change
+      that has to be brought out, what happened in this week. It is the first step of
+      two or three steps to remove Zelensky and the whole gang of neo-Nazis who have
+      the Ukrainian nation by the neck. It is not thinkable that the whole public was
+      satisfied with the Zelensky regime and therefore didn’t demonstrate. No. They
+      just used common sense, which was: you don’t want to risk your life. Now, it was
+      clear the government had, the army had been given orders not to fire. 3:49 Moreover,
+      the instruction that we understood again from major Western media is that the
+      army was told not to come out in the streets in their uniforms to demonstrate
+      against the law. My goodness, what a change. This is the first stage in the removal
+      of the Zelensky government. RT: What about his image, Zelensky’s actions concerning
+      NABU and the restoration of its autonomy? Do you think that will save the image
+      or will it damage even more? Doctorow: Among whom? Among Ukrainians, I don’t think
+      there is a particular love for Mr. Zelensky. The country is patriotic. Ukrainians
+      share the same religious and political conservatism, shall we say, of Russians.
+      They are going to fight to the end, but they’re not stupid. And if they did not
+      demonstrate in any way against Mr. Zelensky, it was not for love of him and his
+      peers and his colleagues. It was because they were afraid for their lives. That
+      somehow miraculously has changed in the past week, and it deserves proper attention.
+      5:07 I have said for some time this war will not end by a military capitulation.
+      The idea that next week the Ukrainian army will raise a white flag is totally
+      unrealistic, even though nearly all of my peers are suggesting that will happen.
+      No, no, the Ukrainian government will collapse of its own weight and of its own
+      unpopularity. And with some help from those Western sponsors who want to see it
+      collapse. RT: And meanwhile, Zelensky keeps asking for money from the Western
+      backers, let’s call them that, Western friends. And now he wants the EU to pay
+      Ukrainian soldiers their salaries. Do you think Europe will agree? And where is
+      it going to find the funds? Doctorow: 5:54 Well, I don’t think they’ll say no,
+      but they just won’t do it. There aren’t funds available. And I don’t think there’s
+      a great eagerness to provide them even if they were available. The standing of
+      the Ukrainian government is very low. The notion that the Ukrainian army can defend
+      its territory and that it, not to mention that it will gain back territory and
+      defeat Russia, that is only maintained by complete fools. The Western mainstream
+      media no longer holds that to be true. And that is the point. They are preparing,
+      at least in the United States, where there’s far more political freedom for the
+      press than there is in Europe, the press in the States is giving strong signs.
+      Less than two weeks ago there was a feature article in the “New York Times” on
+      the war crimes committed by the Ukrainian forces during their occupation of Kursk
+      Oblast. This is unbelievable. 6:57 From the start of the war, Western media portrayed
+      Ukraine as bunny rabbits, which were being assaulted, attacked by the big bad
+      wolf. Well, you know who that is. That’s Russia. Now we find the “New York Times”,
+      by reporters on the ground, were explaining in detail the war crimes that these
+      bunny rabbits were committing on Russian soil. That is a sea change. RT 7:26 Well,
+      the vibe definitely is changing, if we may call it that. Also this Friday, Russia
+      reported destroying four Patriot systems. At the UN, the Russian representative
+      said the more weapons the West delivers to Ukraine, the more will be destroyed.
+      What are your thoughts on that? Doctorow: Well, I think it’s an absolute statement
+      of fact. Among my peers, almost everyone is in agreement that any new weapons
+      shipped to Ukraine will be destroyed very quickly, and in any case cannot help
+      the Ukrainian cause. The list of weaponry, the Bradleys, the armored personnel
+      carriers, the tanks — all of that which was in Biden’s list is useless in Ukraine
+      today, because the war has changed. The most dynamic part of the war is drone
+      warfare. And heavy mechanized equipment, like what was in the Biden list, hides
+      in forests today, because it would be blasted to pieces if it comes out in the
+      open field. 8:32 So the war has changed. The Biden list of equipment to be shipped
+      to the Ukraine is utterly useless. And the Patriots, of which there’s been so
+      much reporting — as you say, they’ve been destroyed by the Russians. They are
+      vulnerable to Russia’s most advanced missiles and they will not save the Ukrainian
+      army. RT: Gilbert Doctorow, former visiting scholar at Harriman Institute, Columbia
+      University, thank you so much for this analysis. Doctorow: 9:10 My pleasure.'
+    one_sentence_summary: Gilbert Doctorow discusses the rapid reversal of Ukrainian
+      President Zelensky's decision to eliminate the anti-corruption watchdog, attributing
+      it to massive public demonstrations and questioning the underlying reasons for
+      the protests.
+    paragraph_summary: In a recent discussion, Gilbert Doctorow, a former scholar at
+      Columbia University, analyzed the swift reversal of Ukrainian President Zelensky's
+      decision to dismantle the anti-corruption watchdog, attributing it to massive
+      public demonstrations across Ukraine. He noted that these protests, described
+      by the "New York Times" as the first significant mass demonstrations in three
+      years, indicate widespread dissatisfaction with the government, despite previous
+      fears of violent repercussions for dissent. Doctorow suggested that the lack of
+      government intervention against the demonstrators signals potential external influences,
+      possibly from Western entities, aiming to instigate a regime change in Ukraine.
+    published: '2025-07-26T15:14:35+00:00'
+  - title: RT International:  ‘First stage in the removal of the Zelensky government’
+      — Prof. Doctorow
+    url: https://gilbertdoctorow.com/2025/07/25/rt-international-first-stage-in-the-removal-of-the-zelensky-government-prof-doctorow/
+    text: It was a pleasure to be given the opportunity to share with the RT International
+      audience my interpretation of the goings-on in Kiev following two days of massive
+      anti-government demonstrations in the capital and across the country, as thousands
+      denounced a new law stripping the anti-corruption agencies of their independence.
+      President Zelensky was caught in a no-win situation.  If he persisted in defending
+      the law, he faced further widespread protests that could overturn the regime. 
+      If he conceded victory to the demonstrators and withdrew the law, he faced further
+      protests that could overturn the regime. The primary issue I see here is that
+      somehow the Ukrainian police and military were instructed NOT to shoot the demonstrators,
+      not to crack skulls.  Indeed, we have been told that the government only ordered
+      soldiers not to participate in the demonstrations wearing their uniforms! I insist
+      that the week’s developments are the harbinger of regime change which is being
+      enabled by one or another of the Western ‘backers’ of Ukraine, very likely Washington
+      and London.  This type of treachery has all the fingerprints of MI6 on it.
+    one_sentence_summary: The article discusses the precarious position of President
+      Zelensky amid massive anti-government protests in Ukraine against a law undermining
+      anti-corruption agencies, highlighting the government's restraint in dealing with
+      demonstrators and suggesting that these events may signal a potential regime change.
+    paragraph_summary: The article discusses the recent massive anti-government demonstrations
+      in Kiev and across Ukraine, where thousands protested against a new law that undermined
+      the independence of anti-corruption agencies. President Zelensky found himself
+      in a difficult position, as defending the law could lead to further protests that
+      might threaten his regime, while conceding to the demonstrators could also provoke
+      unrest. Notably, the Ukrainian police and military were reportedly instructed
+      not to engage violently with the protesters, suggesting a potential shift in power
+      dynamics. The author speculates that these developments may indicate a push for
+      regime change, possibly influenced by Western powers, particularly implicating
+      MI6 in the situation.
+    published: '2025-07-25T19:01:59+00:00'
+  - title: RT International:  ‘First stage in the removal of the Zelensky government’
+      — Prof. Doctorow
+    url: https://gilbertdoctorow.com/2025/07/25/rt-international-first-stage-in-the-removal-of-the-zelensky-government-prof-doctorow/
+    text: It was a pleasure to be given the opportunity to share with the RT International
+      audience my interpretation of the goings-on in Kiev following two days of massive
+      anti-government demonstrations in the capital and across the country, as thousands
+      denounced a new law stripping the anti-corruption agencies of their independence.
+      President Zelensky was caught in a no-win situation.  If he persisted in defending
+      the law, he faced further widespread protests that could overturn the regime. 
+      If he conceded victory to the demonstrators and withdrew the law, he faced further
+      protests that could overturn the regime. The primary issue I see here is that
+      somehow the Ukrainian police and military were instructed NOT to shoot the demonstrators,
+      not to crack skulls.  Indeed, we have been told that the government only ordered
+      soldiers not to participate in the demonstrations wearing their uniforms! I insist
+      that the week’s developments are the harbinger of regime change which is being
+      enabled by one or another of the Western ‘backers’ of Ukraine, very likely Washington
+      and London.  This type of treachery has all the fingerprints of MI6 on it.
+    one_sentence_summary: The article discusses the precarious position of President
+      Zelensky amid massive anti-government protests in Ukraine against a law undermining
+      anti-corruption agencies, highlighting the government's restraint in dealing with
+      demonstrators and suggesting that these events may signal a potential regime change.
+    paragraph_summary: The article discusses the recent massive anti-government demonstrations
+      in Kiev and across Ukraine, where thousands protested against a new law that undermined
+      the independence of anti-corruption agencies. President Zelensky found himself
+      in a difficult position, as defending the law could lead to further protests that
+      might threaten his regime, while conceding to the demonstrators could also provoke
+      unrest. Notably, the Ukrainian police and military were reportedly instructed
+      not to engage violently with the protesters, suggesting a potential shift in power
+      dynamics. The author speculates that these developments may indicate a push for
+      regime change, possibly influenced by Western powers, particularly implicating
+      MI6 in the situation.
+    published: '2025-07-25T19:01:59+00:00'
   - title: Transcript of Iran TV interview on Russian-Iranian naval exercises
     url: https://gilbertdoctorow.com/2025/07/22/transcript-of-iran-tv-interview-on-russian-iranian-naval-exercises/
     text: 'Transcript submitted by a reader PressTV: 0:18 … Spotlight. I’m Marzieh Hashemi.

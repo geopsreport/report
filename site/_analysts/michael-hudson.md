@@ -8,16 +8,888 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  The global geopolitical landscape remains in flux as the post-war order continues to erode, with economic and political realignments accelerating across multiple fronts. Recent analyses highlight the growing irrelevance of the old U.S.-led system and the emergence of new alliances and economic strategies.
+  The global geopolitical landscape continues to be shaped by the interplay between economic sovereignty, shifting alliances, and the persistence of rentier interests. As the U.S.-led order faces mounting challenges from emerging blocs and internal contradictions, analysts are highlighting both structural and immediate developments that could determine the trajectory of international relations in the coming months.
   
-  **Michael Hudson** and Glenn Diesen, in their latest discussion, emphasize that the post-World War II global order is now "obsolete," no longer serving U.S. interests as it once did. The shift from "free trade" to "fair trade" is becoming more pronounced, with countries increasingly seeking to protect their own industries and challenge the dominance of Western financial institutions. This trend is particularly evident among BRICS nations, who are actively working to counter U.S. tariffs and the broader implications of American economic policies.
+  **Economic Sovereignty and the Persistence of Rentierism**
   
-  On the Middle Eastern front, the temporary ceasefire between Iran and Israel is viewed with skepticism. **Michael Hudson** predicts that hostilities are likely to resume, especially as U.S. involvement and the upcoming American elections inject further instability into the region. The underlying motive, according to Hudson, remains the U.S. desire to maintain dollar hegemony and disrupt the integration efforts of BRICS and Eurasian powers like China and Russia.
+  A central theme in recent analysis is the struggle for economic sovereignty, particularly among Global Majority nations. **Michael Hudson** emphasizes that while industrial capitalism historically sought to dismantle feudal rentier structures, the 20th and 21st centuries have seen a resurgence of land and resource rents benefiting private interests rather than national development. This dynamic, he argues, continues to hinder the competitiveness and autonomy of developing economies. Hudson notes, “Contemporary Global Majority countries continue to struggle against foreign debt and rent extraction by Western powers, necessitating reforms to reclaim their economic sovereignty through taxing land and resource rents, akin to the historical paths taken by industrialized nations.”
   
-  Meanwhile, concerns over the misuse of antisemitism claims in Western discourse have been raised by public figures such as Mandy Patinkin and Kathryn Grody, who argue that such tactics are being employed to silence critics of Israeli government policies. This reflects a broader unease about the intersection of identity politics and international affairs, particularly as right-wing leadership in Israel continues to shape both domestic and diaspora Jewish identity.
+  **Dollar Hegemony and the Shift Toward Fair Trade**
   
-  Looking ahead, the majority of analysts agree that the global economic order will continue to fragment, with a "high chance" of further trade protectionism and currency realignments. The Middle East is expected to remain volatile, with "quite likely" renewed conflict between Iran and Israel. The BRICS alliance is poised to play a more assertive role in challenging Western economic dominance, though the outcome of these efforts remains uncertain. The misuse of antisemitism accusations in Western debates is likely to persist, contributing to growing polarization around Middle East policy.
+  The debate over the future of the dollar-dominated global order has intensified. In a recent discussion with **Glenn Diesen**, Hudson asserts that the post-war economic framework is now “obsolete” and increasingly fails to serve U.S. interests. There is a growing consensus that the world is moving from a paradigm of “free trade” to one of “fair trade,” as countries seek to protect their economies from external shocks and exploitative arrangements. This is particularly relevant for the BRICS alliance, which is actively exploring alternatives to dollar hegemony and U.S.-imposed tariffs.
+  
+  **Middle East: Ceasefire Fragility and U.S. Influence**
+  
+  On the geopolitical front, the Middle East remains a flashpoint. The recent ceasefire between Iran and Israel is widely viewed as temporary. **Michael Hudson** predicts that hostilities are likely to resume, especially as U.S. involvement and electoral politics continue to drive instability. He states, “The recent ceasefire between Iran and Israel is temporary and that hostilities will resume, particularly influenced by U.S. involvement and upcoming elections.” This assessment is echoed by other analysts who see the region as a key battleground in the broader contest for global influence.
+  
+  **Trends and Predictions**
+  
+  Looking ahead, the majority of sources agree that the erosion of U.S. economic and strategic dominance is accelerating. There is high confidence that BRICS and other Global Majority nations will intensify efforts to reclaim economic sovereignty, likely through reforms targeting rentier structures and the development of alternative financial systems. The shift from free trade to fair trade is “quite likely” to define the next phase of global economic relations. In the Middle East, the fragile ceasefire is expected to break down, with renewed conflict “most definitely” on the horizon as external actors continue to shape local dynamics.
+  
+  In summary, the world is entering a period of heightened contestation over economic models and geopolitical alignments, with the outcomes dependent on both structural reforms and the resolution—or escalation—of regional conflicts.
 articles:
+  - title: A Precondition for Economic Sovereignty
+    url: https://michael-hudson.com/2025/07/a-precondition-for-economic-sovereignty/
+    text: 'An excerpt from Michael’s upcoming book on Medieval debt crusades. Industrial
+      capitalism was revolutionary in its fight to free Europe’s economies and parliaments
+      from the hereditary privileges and vested interests that survived from feudalism.
+      To make their manufactures competitive in world markets, industrialists needed
+      to end the land rent paid to Europe’s landed aristocracies, the economic rents
+      extracted by trade monopolies, and interest paid to bankers who played no role
+      in financing industry. These rentier incomes add to the economy’s price structure,
+      raising the living wage and other business expenses, thus eating into profits.
+      The 20 th century saw the classical aim of clearing away these economic rents
+      rolled back in Europe, the United States, and other Western countries. However,
+      today, land and natural-resource rents in private hands are still rising and even
+      receiving special tax advantages. Basic infrastructure and other natural monopolies
+      are being privatized by the financial sector — which is largely responsible for
+      carving up and de-industrializing economies on behalf of its real estate and monopoly
+      customers, who pay out most of their rental income as interest to bankers and
+      bondholders. What has survived from the policies by which Europe’s industrial
+      powers and the United States built up their own manufacturing is free trade. Britain
+      implemented free trade after a 30-year fight on behalf of its industry against
+      the landed aristocracy, aimed at ending the protectionist agricultural tariffs,
+      the Corn Laws, which had been enacted in 1815 to prevent opening the home market
+      to low-priced food imports, which would have reduced farming rents. After repealing
+      these laws in 1846 to lower the cost of living, Britain offered free-trade agreements
+      to countries seeking access to its market in exchange for these countries not
+      protecting their industry against British exports. The aim was to deter less industrialized
+      countries from working up their own raw materials. In such countries, Europe’s
+      foreign investors sought to buy rent-yielding natural resources headed by mineral
+      and land rights, and basic infrastructure headed by railroads and canals. This
+      created a diametric contrast between rent-avoidance in the industrial nations
+      and rent-seeking in their colonies and other host countries, while European bankers
+      used debt leverage to gain fiscal control of former colonies who had won independence
+      in the 19 th and 20 th centuries. Under pressure to pay the foreign debts that
+      were run up to finance their trade deficits, development attempts, and deepening
+      debt dependency, debtor countries were obliged to relinquish fiscal control of
+      their economies to bondholders, banks, and creditor-nation governments, which
+      pressed them to privatize their basic infrastructure monopolies. The effect was
+      to prevent them from using revenue from their natural endowments to develop a
+      broad economic base for prosperous development. Just as Britain, France, and Germany
+      aimed to free their economies from feudalism’s legacy of the vested interests
+      with rent extraction privileges, most of today’s Global Majority countries need
+      to free themselves from the rent and debt overhead inherited from European colonialism
+      and creditor control. By the 1950s these countries were being called “less developed”
+      or, even more patronizingly, “developing.” But the combination of foreign debt
+      and free trade has blocked them from developing along the balanced public/private
+      lines that Western Europe and the United States followed. The tax policy and other
+      legislation of these countries has been shaped by U.S. and European pressure to
+      observe international trade and investment rules that perpetuate geopolitical
+      domination by Western bankers and rent-extracting investors to control their national
+      patrimony. The euphemism “host economy” is appropriate for these countries, because
+      the Western economic penetration of them resembles a biological parasite feeding
+      off its host. Seeking to maintain this relationship, the U.S. and European governments
+      are blocking attempts by these countries to follow the path that Europe’s industrial
+      nations and the United States took for their own economies with their 19 th -century
+      political and fiscal reforms that empowered their own takeoff. Without these countries
+      adopting fiscal and political reforms aimed at developing their own sovereignty
+      and prospects for growth on the basis of their own national patrimony of land,
+      natural resources and basic infrastructure, the world economy will remain bifurcated
+      between Western rentier nations and their Global Majority hosts and held subject
+      to neoliberal orthodoxy. The success of China’s model poses a threat to the neoliberal
+      order When U.S. political leaders single out China as an existential enemy of
+      the West, it is not as a military threat but for offering a successful economic
+      alternative to today’s U.S.-sponsored neoliberal world order. That order was supposed
+      to represent the End of History, succeeding through its logic of free trade, government
+      deregulation, and international investment free of capital controls, while detouring
+      away from industrial capitalism’s anti- rentier policies. We can now see the absurdity
+      in this self-satisfying evangelical view that had emerged just as Western economies
+      were deindustrializing, as a result of the dynamics of their neoliberal finance
+      capitalism. The vested financial and other rentier interests are rejecting not
+      only China but the logic of industrial capitalism as described by its own 19 th
+      -century classical economists. Western neoliberal observers have closed their
+      eyes to recognizing the ways in which China’s “socialism with Chinese characteristics”
+      has achieved its success by a logic similar to that of the industrial capitalism
+      advocated by classical economists to minimize rentier income. Most late 19 th
+      -century economic writers expected industrial capitalism to evolve into socialism
+      of one form or another, as the role of public investment and regulation increased.
+      Freeing economies and their governments from control by landowners and creditors
+      was the common denominator of the social-democratic socialism of John Stuart Mill,
+      the libertarian socialism of Henry George focusing on the land tax, and the cooperative
+      mutual-aid socialism of Peter Kropotkin, as well as Marxism. Where China has gone
+      further than earlier socialist mixed-economy reforms has been in keeping money
+      and credit creation in the hands of government, along with basic infrastructure
+      and natural resources. Fear that other governments might follow China’s lead has
+      led U.S. and other Western finance-capitalist ideologues to view China as a threat
+      by providing a model for economic reforms that are precisely the opposite of what
+      the 20 th century’s pro- rentier , anti-government ideology fought against. The
+      foreign debt overhead owed to U.S. and other Western creditors, and enabled by
+      the 1945-2025 international geopolitical rules designed by U.S. diplomats at Bretton
+      Woods in 1944, obliges the Global South and other countries to recover their economic
+      sovereignty by freeing themselves from their foreign (mainly dollarized) banking
+      and financial burden. These countries have the same land-rent problem that Europe’s
+      industrial capitalism faced, but their land and resource rents are mainly owned
+      by multinational companies and other foreign appropriators of their oil and mineral
+      rights, forests, and latifundia plantations, who extract resource rents by emptying
+      out the world’s oil and mineral resources and cutting down its forests. Taxing
+      economic rent is a precondition for economic sovereignty A precondition for Global
+      South countries to gain economic autonomy is to follow the advice of the classical
+      economists and tax the largest sources of rental income – land rent, monopoly
+      rent, and financial returns – instead of letting them be sent abroad. Taxing these
+      rents would help stabilize their balance of payments, while providing their governments
+      with revenue to finance their infrastructure needs and the related social spending
+      needed to subsidize their economic modernization. That is how Britain, France,
+      Germany and the United States established their own industrial, agricultural,
+      and financial supremacy. This is not a radical socialist policy; it always has
+      been a central element of industrial capitalist development. Recapturing a country’s
+      land and natural-resource rents as its fiscal base would enable it to avoid taxing
+      labor and industry. A country would not need to formally nationalize its land
+      and natural resources outright; it simply needs to tax the economic rent over
+      and above actual “earned profits,” to cite the principle of Adam Smith and his
+      19 th -century successors that this rent is the natural tax base. But neoliberal
+      ideology calls such taxation of rent, and the regulation of monopolies or other
+      market phenomena, an intrusive interference into the “free market.” This defense
+      of rentier income inverts the classical definition of a free market. The classical
+      economists defined a free market as one free from economic rent, not as one free
+      for the extraction of economic rent, let alone as freedom for creditor-nation
+      governments to create a “rules-based order” to facilitate foreign rent extraction
+      and stifle the development of financially and trade-dependent host countries.
+      Debt remission is a precondition for economic sovereignty The fight by countries
+      to free themselves from their foreign debt overhead is much harder than Europe’s
+      19 th -century fight to end the privileges of its landed aristocracy (and less
+      successfully, of its bankers), because it is international in scope, and is now
+      confronted by a creditor-nation alliance to maintain the system of financial colonization
+      created two centuries ago, as former colonies sought to finance their independence
+      by borrowing from foreign bankers. Starting in the 1820s, newly independent countries
+      like Haiti, Mexico, and other Latin America nations, as well as Greece, Tunisia,
+      Egypt, and other former Ottoman colonies, won nominal political freedom from colonialist
+      control. But to build up their own industry they had to take on foreign debt –
+      on which they almost immediately defaulted, which enabled their creditors to establish
+      monetary authorities in charge of their fiscal policy. The governments of these
+      countries were turned into collection agents for international bankers by the
+      late 19 th century. Financial dependency on bankers and bondholders replaced colonial
+      dependency, obliging debtor countries to give fiscal priority to foreign creditors.
+      World War II enabled many of these countries to accumulate substantial foreign
+      monetary reserves as a result of supplying raw materials to the belligerents.
+      But the post-war order designed by U.S. diplomats, based on free trade and free
+      capital movements, drained these savings, and obliged the Global South and other
+      countries to borrow to cover their trade deficits. The resulting foreign debts
+      soon came to exceed the ability of these countries to pay – that is, to pay without
+      surrendering to the destructive IMF demands for austerity that blocked the investment
+      needed to raise their productivity and living standards. There was no way that
+      they could meet their own development needs to invest in basic infrastructure
+      and provide industrial and agricultural subsidies, public education, health care,
+      and other basic social spending that is characterized by the leading industrial
+      nations. This still remains the case. Their choice today, therefore, is between
+      paying their foreign debts – at the cost of blocking their own development – or
+      claiming that these debts are odious and insisting that they be written off. At
+      issue is whether debtor countries will gain the sovereignty that is supposed to
+      characterize an international economy of equals, free of foreign post-colonial
+      control over their tax and trade policies, as well as their national patrimony.
+      Their self-determination can only be achieved by joining together in a collective
+      front. Donald Trump’s tariff aggression has catalyzed this process by drastically
+      reducing the U.S. market for exports from debtor countries, preventing them from
+      obtaining the dollars to pay their bonds and bank debts, so these won’t be paid
+      in any event. The world is now busy de-dollarizing. The need to create an alternative
+      to the U.S.-centered post-war order was expressed in 1955 at the Bandung Conference
+      in Indonesia, and then later by the Non-Aligned Movement. But these countries
+      lacked a critical mass of self-sufficiency among themselves to act together. Attempts
+      to create a New International Economic Order in the 1960s faced the same problem.
+      Countries were not industrially, agriculturally, or financially strong enough
+      to “go it alone.” Today’s Western debt crisis, de-industrialization, and coercive
+      weaponization of foreign trade and financial sanctions under the dollarized international
+      financial system, capped by the “America First” tariff policy, have created an
+      urgent need for countries to collectively seek economic sovereignty, to become
+      independent from U.S. and European control of the international economy. The collective
+      BRICS+, with Russia and China taking the lead, have just begun talking about making
+      such an attempt. China’s success has made a global alternative attainable The
+      great catalyst for countries to take control of their national development has
+      been China. As indicated above, its industrial socialism has largely achieved
+      the classical aim of industrial capitalism of minimizing rentier overhead, above
+      all by publicly creating money to finance tangible growth. Keeping money and credit
+      creation in government hands, via China’s state-owned banks, prevents financial
+      and other rentier interests from taking over the economy and subjecting it to
+      the financial overhead that has characterized Western economies. China’s successful
+      alternative for allocating credit avoids making purely financial gains at the
+      expense of tangible capital formation and living standards. That is why it is
+      viewed as an existential threat to the current Western banking model. Western
+      financial systems are overseen by central banks that have been made independent
+      from the Treasury and government regulatory “interference.” Their role is to provide
+      the commercial banking system’s liquidity as it creates interest-bearing debt,
+      mainly for the purpose of making wealth financially by debt leveraging (asset-price
+      inflation), not for productive capital formation. Capital gains – rising prices
+      for housing and other real estate, stocks, and bonds – are much larger than GDP
+      growth. They can be made easily and quickly by banks creating more credit to bid
+      up prices for buyers of these assets. Instead of the financial system being industrialized,
+      Western industrial corporations have become financialized, and that has occurred
+      along lines that have deindustrialized the U.S. and European economies. Financialized
+      wealth can be made without being part of the production process. Interest, late
+      charges, other financial fees and capital gains are not a “product,” yet are counted
+      as such in today’s GDP statistics. Carrying charges on the rising debt overhead
+      are transfer payments to the finance sector, by labor and businesses, out of wages
+      and profits earned by actual production. That shrinks the income available for
+      spending on the products produced by labor and capital, leaving economies debt-ridden
+      and deindustrialized. The strategy of creditor-rentier nations to prevent withdrawal
+      from their global control The broadest strategy to block countries from avoiding
+      the rentier burden has been to wage an ideological campaign from the educational
+      system to mass media. The aim is to control the narrative in a way that depicts
+      government as an oppressive Leviathan, an inherently bureaucratic autocracy. Western
+      “democracy” is defined not so much politically as economically, as a free market
+      whose resources are allocated by a banking and financial sector independent of
+      regulatory oversight. Governments strong enough to limit financial and other rentier
+      wealth in the public interest are demonized as autocracies or “planned economics”
+      — as if shifting credit and resource allocation to the financial centers of Wall
+      Street, London, Paris, and Japan does not result in an economy planned by the
+      financial sector in its own interest, with the aim of creating monetary fortunes.
+      Its aim is not to improve the overall economy and living standards. Global Majority
+      officials and administrators who have studied economics at U.S. and European universities
+      have been indoctrinated with a value-free (that is, rent-free) pro- rentier ideology
+      to frame the way they think about how economies work. This narrative excludes
+      consideration of how debt polarizes economies by growing exponentially at compound
+      interest. Also excluded from mainstream economic logic is the classical contrast
+      between productive and unproductive credit and investment, and the related distinction
+      between earned income (wages and profits, the main components of value) and unearned
+      income (economic rent). Beyond this ideological campaign, neoliberal diplomacy
+      uses military force, regime change, and control of the main international bureaucracies
+      associated with the United Nations, the IMF, and World Bank — and a more covert
+      network of non-government organizations (NGOs) — to prevent countries from withdrawing
+      from today’s pro- rentier fiscal rules and pro-creditor laws. The United States
+      has taken the lead in using force and regime change against governments that would
+      tax away or otherwise limit rent extraction. It should be noted that few early
+      socialists (except anarchists) advocated violence in pursuit of their reforms.
+      It has been the vested interests, unwilling to accept loss of the privileges that
+      are the basis of their fortunes, who have not hesitated to use violence to defend
+      their wealth and power against attempts at reform to check their privileges. To
+      be sovereign, nations must create an alternative that enables them to be in charge
+      of their own economic, monetary, and political development. But American diplomacy
+      views any attempt to enact the necessary political and tax reforms and strong
+      government regulatory authority as posing an existential threat to U.S. control
+      over international finance and trade. This raises the question of whether it is
+      possible to achieve reforms and a strong public economy without war. It is natural
+      for countries to wonder whether they can achieve economic sovereignty without
+      a revolution, such as the Soviet Union, China, and other countries that fought
+      to end their domination by their foreign-supported landlords and creditors. The
+      only way to protect economic sovereignty against military threats is to join an
+      alliance for mutual support, since individual countries can be isolated in the
+      way that Cuba, Venezuela, and Iran have been — or destroyed, like Libya. As Benjamin
+      Franklin put matters, “If we don’t hang together, we will hang separately.” American
+      writers characterize the attempt of other countries to join together to achieve
+      economic sovereignty as a civilizational war. While this is indeed a civilizational
+      contest, it is the United States and its allies that are waging aggression, against
+      countries trying to withdraw from a system that has provided the United States
+      and Europe with a huge inflow of economic rents and debt service from host countries
+      subject to U.S.-backed diplomacy. How U.S.-centered financial colonialism replaced
+      European colonial occupation After World War II, the era of settler-state colonialism
+      gave way to financial colonialism, with the international economy dollarized under
+      U.S. leadership. The Bretton Woods rules established by 1945 enabled multinational
+      corporations to keep economic rents for land, natural resources and public infrastructure
+      out of domestic fiscal reach. Governments were reduced to the role of acting as
+      collection agents for foreign creditors and as protectors of foreign investors
+      from democratic attempts to tax rentier wealth. The United States was able to
+      weaponize world trade by monopolizing oil exports through U.S. and allied oil
+      companies (the Seven Sisters), while U.S. and European agricultural protectionism
+      and World Bank “aid” policy steered food-deficit countries to focus on tropical
+      plantation crops instead of grain to feed themselves. President Bill Clinton’s
+      1994 NAFTA free-trade agreement swamped Mexico’s market with low-priced U.S. farm
+      exports (highly subsidized by strong government support). Mexican grain production
+      plummeted, leaving it food-dependent. To block governments from taxing or even
+      fining foreign investors to recover compensation for damages to their countries,
+      today’s rentier powers have created Investor-State Dispute Settlement (ISDS) courts
+      requiring governments to compensate foreign investors for increasing taxes or
+      imposing regulations that reduce foreign-owned income. (I provide the details
+      of this in Chapter 7 of my 2022 book The Destiny of Civilization .) This system
+      blocks national sovereignty, including by preventing host countries from taxing
+      the economic rent of their land and natural resources owned by foreigners. The
+      effect is to make these resources part of the investor-nation economy, not their
+      own. (The Saudi oil company Aramco, for instance, was not a corporately distinct
+      corporate affiliate but a branch of Standard Oil of New York (ESSO). This legal
+      nicety meant that its income and expenses were consolidated into the parent company’s
+      U.S. balance sheet. That enabled it to receive a tax credit for the “depletion
+      allowance” for oil, rendering the company effectively free of U.S. income tax,
+      although it was Saudi oil that was being depleted.) Other nations permitted the
+      United States to dictate the post-World War II order, with it promising generous
+      aid to support free trade, peace, and post-colonial national sovereignty, as spelled
+      out in the United Nations Charter. But the United States squandered its wealth
+      on military spending abroad and financial wealth addiction at home. That has left
+      America’s post-industrial power based mainly on its ability to harm other countries
+      with chaos if they do not accept the U.S. “rules-based order” designed to extract
+      tribute from them. The U.S. imposes protectionist tariffs and import quotas at
+      will, and subsidizes agriculture and key technologies as potential global high-tech
+      monopolies, while forbidding other countries from implementing such “socialist”
+      or “autocratic” policies to become more competitive. The result is a double standard
+      in which the U.S. “rules-based order” (its own rules) replaces adherence to international
+      law. U.S. agricultural price support policy initiated under Franklin D. Roosevelt
+      in the 1930s provides a good example of double standards. It made farming the
+      most heavily subsidized and protected sector. It became the model for the European
+      Economic Community’s Common Agricultural Policy (CAP) introduced in 1962. However,
+      U.S. diplomacy opposes the attempts of other countries, especially Global South
+      countries, to impose their own protectionist subsidies and import quotas aimed
+      at achieving self-sufficiency in basic food production — while U.S. “aid lending”
+      and the World Bank have (as indicated above) supported the exportation of tropical
+      plantation crops by Global South countries by lending for transportation and port
+      development. U.S. policy has consistently opposed family-owned farming and land
+      reform throughout Latin America and other Global South countries, often with violence.
+      Moves toward a multipolar world order It is not surprising that, inasmuch as Russia
+      has long been the United States’ main military adversary, it has taken the lead
+      in protesting against the unipolar U.S. order. Advocating a multipolar alternative
+      to the U.S. neoliberal order in June 2025, Russian Foreign Minister Sergey Lavrov
+      described the post-colonial economic subjugation of the countries that achieved
+      political independence from colonialist rule in the 19 th and 20 th centuries
+      but which are now facing the next task needed to complete their liberation: Our
+      African friends are paying more and more attention to the fact that their entire
+      economies are still largely based on siphoning off natural resources from these
+      countries. In fact, all value added is produced and pocketed by the former Western
+      metropoles and other European Union and NATO members. … The West is using illegal
+      unilateral sanctions, which increasingly become the harbinger of a military attack,
+      as this has happened in Yugoslavia, Iraq and Libya and is now happening in Iran,
+      as well as the instruments of unfair competition, initiating tariff wars, seizing
+      other countries’ sovereign assets and taking advantage of the role of their currencies
+      and payment systems. The West itself has actually buried the globalization model,
+      which it developed after the Cold War to promote its interests. Marco Rubio made
+      the same point in the U.S. Senate hearings to confirm him as Donald Trump’s Secretary
+      of State, explaining that the “postwar global order is not just obsolete; it is
+      now a weapon being used against us.” Violating the rules of foreign trade and
+      investment that the United States itself dictated in 1945, and yet another instance
+      of Washington resorting to the “rules-based order” of its own rules, President
+      Trump’s unilateral tariffs aimed both at shifting the New Cold War’s military
+      costs onto other countries, which are expected to buy American arms and provide
+      proxy armies, and at reviving the U.S.’s lost industrial power by forcing countries
+      to relocate industries to the United States and to permit U.S. companies to extract
+      monopoly rents by controlling the leading emerging technologies. The United States
+      aims to impose monopoly rights and related rentier privileges uniquely favorable
+      to itself on the entire world’s trade and investment. Trump’s “America First”
+      diplomacy demands that other countries conduct their trade, payments and debt
+      relationships in U.S. dollars, instead of their own currencies. The U.S. “rule
+      of law” is one that permits unilateral U.S. demands to impose trade and financial
+      sanctions dictating how and with whom foreign countries can trade and invest.
+      They are threatened with economic chaos and confiscation of their dollar reserves
+      if they do not boycott trade and investment relations with Russia, China, and
+      other countries refusing to submit to U.S. control. The United States’ leverage
+      to obtain these foreign concessions is no longer industrial leadership and financial
+      strength, but its ability to cause chaos for other countries. Claiming to be the
+      indispensable nation, the U.S.’s ability to disrupt trade is ending its former
+      international monetary and diplomatic power. That power originally was based on
+      U.S. holdings of the world’s largest monetary gold reserves in 1945, its status
+      as the largest creditor nation and industrial economy, and, after 1971, its dollar
+      hegemony, arising in large part as a result of its financial market being the
+      safest for other nations to hold their official monetary reserves. The diplomatic
+      inertia created by these former advantages no longer reflects the realities of
+      2025. What U.S. officials do have is the ability to disrupt the world’s trade,
+      supply chains, and financial arrangements, including the SWIFT system for international
+      payments. The U.S. and European confiscation of $300 billion of Russia’s monetary
+      deposits has darkened America’s reputation for financial safety, while its chronic
+      trade and balance-of-payments deficits threaten to disrupt the international monetary
+      system and free trade that made it the major beneficiary of the 1945-2025 world
+      order. In keeping with the principle of national sovereignty and non-interference
+      in other countries’ internal affairs that underlay the creation of the United
+      Nations (the basic principle of international law grounded in the 1648 Peace of
+      Westphalia), Russia’s Foreign Minister Lavrov described (in his speech cited above)
+      the need “to establish foreign trade mechanisms [that] the West will be unable
+      to control, such as transport corridors, alternative payment systems and supply
+      chains.” As an example of how the United States had paralyzed the World Trade
+      Organization, which it had created on the basis of free trade at a time when America
+      was the world’s leading export power, he explained: When the Americans realized
+      that the globalized system they had created – one built on fair competition, inviolable
+      property rights, the presumption of innocence, and similar principles, and which
+      had allowed them to dominate for decades – had also begun benefiting their rivals,
+      primarily China, they took drastic action. As China started outplaying them on
+      their own turf and by their own rules, Washington simply blocked the WTO’s Appellate
+      Body. By artificially stripping it of a quorum, they rendered this key dispute
+      settlement mechanism inactive – and it remains so to this day. The United States
+      has been able to block foreign opposition to its nationalist policies by having
+      veto power in the United Nations, IMF, and World Bank. Even without such power,
+      U.S. diplomats have been able to block United Nations organizations from acting
+      independently of U.S. wishes by refusing to appoint leaders or judges not primarily
+      loyal to U.S. foreign policy. The International Atomic Energy Agency (IAEA), charged
+      with keeping nuclear proliferation in check is the most recent notorious case
+      in point. Iran published documents showing that the agency’s leader Rafael Grossi
+      provided U.S. and Israeli intelligence with the names of Iranian scientists who
+      were killed, and details of the Iranian nuclear refinement sites that were bombed.
+      The U.S. veto has prevented the UN Security Council from condemning Israeli attacks
+      on the Palestinian population. And when the International Criminal Court (ICC)
+      brought charges against Israeli Prime Minister Benjamin Netanyahu for committing
+      war crimes and crimes against humanity in a genocide against the Palestinians,
+      U.S. officials imposed sanctions on the ICC and demanded the removal of the prosecutor.
+      The world no longer is to be governed by international law, but by unilateral
+      U.S. rules, subject to abrupt change depending on the vicissitudes of American
+      economic or military power (or loss thereof). As Russia’s President Vladimir Putin
+      described this new state of affairs in 2022, “Western countries have been saying
+      for centuries that they bring freedom and democracy to other nations,” yet the
+      “unipolar world is inherently anti-democratic and unfree; it is false and hypocritical
+      through and through.” The United States’ self-image depicts its long dominant
+      world position as reflecting its democracy, free market, and equality of opportunity
+      that has enabled its power elite, in their view, to acquire their status by being
+      the economy’s most productive members, through their management and allocation
+      of savings and credit. The reality is that the United States has become a rentier
+      oligarchy, one that is increasingly hereditary. Its members’ fortunes are made
+      mainly by acquiring rent-yielding assets (land, natural resources, and monopolies)
+      on which they make capital gains, while paying most of their rent as interest
+      to their bankers, who end up with much of these rents and have become the new
+      oligarchy’s leading managerial class. Summary The real conflict over what kind
+      of economic and political system the Global Majority will have is just gaining
+      momentum. Global South countries and others have been driven so deeply into debt
+      that they have been obliged to sell off their public infrastructure to pay its
+      carrying charges. Recovering control of their natural resources and basic infrastructure
+      requires the fiscal right to impose an economic-rent tax on their land, natural
+      resources and monopolies, as well as the legal right to recover environmental
+      cleanup costs caused by foreign oil and mining firms, and to implement financial
+      cleanup costs ( i.e ., write offs and cancellation) of the foreign debt burden
+      imposed by creditors who have not taken responsibility to ensure that their loans
+      can be paid under existing conditions. U.S. evangelistic rhetoric describes the
+      imminent political and economic fracture of the world economy as a “Clash of Civilizations”
+      between democracies (i.e., countries that support U.S. policy) and autocracies
+      (i.e., nations acting independently). It would be more accurate to describe this
+      fracture as a fight by the United States and its European and other Western allies
+      against civilization — assuming civilization entails, as it seems it must, the
+      sovereign right of countries to enact their own laws and tax systems for the benefit
+      of their own populations within an international system that has a common set
+      of basic rules and values. What Western ideologues call democracy and free markets
+      has turned out to be an aggressive rentier -financial imperialism. And what they
+      call autocracy is a government strong enough to prevent economic polarization
+      between a super-rich rentier class and an impoverished population at large, such
+      as is occurring within the Western oligarchies themselves. Photo by itsiken on
+      Unsplash The post A Precondition for Economic Sovereignty first appeared on Michael
+      Hudson .'
+    one_sentence_summary: Michael's upcoming book discusses how industrial capitalism
+      aimed to dismantle feudal economic structures by eliminating rentier incomes that
+      hindered competitiveness, but notes that in the 20th century, efforts to address
+      these issues have regressed, with rising land and resource rents still benefiting
+      private interests.
+    paragraph_summary: In an excerpt from Michael's forthcoming book on Medieval debt
+      crusades, he discusses the transformative impact of industrial capitalism in liberating
+      European economies from the remnants of feudalism, particularly the burdens of
+      land rent, trade monopolies, and unproductive banking interests. He argues that
+      these economic rents inflate prices, thereby diminishing profits and raising living
+      costs. Despite the progress made in the 20th century to eliminate these rents,
+      they continue to rise today, often benefiting from tax advantages while basic
+      infrastructure is increasingly privatized by the financial sector. Michael highlights
+      Britain's historical struggle against the landed aristocracy, culminating in the
+      repeal of the Corn Laws in 1846, which facilitated free trade and aimed to lower
+      living costs while discouraging less industrialized nations from developing their
+      own industries.
+    published: '2025-07-24T00:17:33+00:00'
+  - title: A Precondition for Economic Sovereignty
+    url: https://michael-hudson.com/2025/07/a-precondition-for-economic-sovereignty/
+    text: 'An excerpt from Michael’s upcoming book on Medieval debt crusades. Industrial
+      capitalism was revolutionary in its fight to free Europe’s economies and parliaments
+      from the hereditary privileges and vested interests that survived from feudalism.
+      To make their manufactures competitive in world markets, industrialists needed
+      to end the land rent paid to Europe’s landed aristocracies, the economic rents
+      extracted by trade monopolies, and interest paid to bankers who played no role
+      in financing industry. These rentier incomes add to the economy’s price structure,
+      raising the living wage and other business expenses, thus eating into profits.
+      The 20 th century saw the classical aim of clearing away these economic rents
+      rolled back in Europe, the United States, and other Western countries. However,
+      today, land and natural-resource rents in private hands are still rising and even
+      receiving special tax advantages. Basic infrastructure and other natural monopolies
+      are being privatized by the financial sector — which is largely responsible for
+      carving up and de-industrializing economies on behalf of its real estate and monopoly
+      customers, who pay out most of their rental income as interest to bankers and
+      bondholders. What has survived from the policies by which Europe’s industrial
+      powers and the United States built up their own manufacturing is free trade. Britain
+      implemented free trade after a 30-year fight on behalf of its industry against
+      the landed aristocracy, aimed at ending the protectionist agricultural tariffs,
+      the Corn Laws, which had been enacted in 1815 to prevent opening the home market
+      to low-priced food imports, which would have reduced farming rents. After repealing
+      these laws in 1846 to lower the cost of living, Britain offered free-trade agreements
+      to countries seeking access to its market in exchange for these countries not
+      protecting their industry against British exports. The aim was to deter less industrialized
+      countries from working up their own raw materials. In such countries, Europe’s
+      foreign investors sought to buy rent-yielding natural resources headed by mineral
+      and land rights, and basic infrastructure headed by railroads and canals. This
+      created a diametric contrast between rent-avoidance in the industrial nations
+      and rent-seeking in their colonies and other host countries, while European bankers
+      used debt leverage to gain fiscal control of former colonies who had won independence
+      in the 19 th and 20 th centuries. Under pressure to pay the foreign debts that
+      were run up to finance their trade deficits, development attempts, and deepening
+      debt dependency, debtor countries were obliged to relinquish fiscal control of
+      their economies to bondholders, banks, and creditor-nation governments, which
+      pressed them to privatize their basic infrastructure monopolies. The effect was
+      to prevent them from using revenue from their natural endowments to develop a
+      broad economic base for prosperous development. Just as Britain, France, and Germany
+      aimed to free their economies from feudalism’s legacy of the vested interests
+      with rent extraction privileges, most of today’s Global Majority countries need
+      to free themselves from the rent and debt overhead inherited from European colonialism
+      and creditor control. By the 1950s these countries were being called “less developed”
+      or, even more patronizingly, “developing.” But the combination of foreign debt
+      and free trade has blocked them from developing along the balanced public/private
+      lines that Western Europe and the United States followed. The tax policy and other
+      legislation of these countries has been shaped by U.S. and European pressure to
+      observe international trade and investment rules that perpetuate geopolitical
+      domination by Western bankers and rent-extracting investors to control their national
+      patrimony. The euphemism “host economy” is appropriate for these countries, because
+      the Western economic penetration of them resembles a biological parasite feeding
+      off its host. Seeking to maintain this relationship, the U.S. and European governments
+      are blocking attempts by these countries to follow the path that Europe’s industrial
+      nations and the United States took for their own economies with their 19 th -century
+      political and fiscal reforms that empowered their own takeoff. Without these countries
+      adopting fiscal and political reforms aimed at developing their own sovereignty
+      and prospects for growth on the basis of their own national patrimony of land,
+      natural resources and basic infrastructure, the world economy will remain bifurcated
+      between Western rentier nations and their Global Majority hosts and held subject
+      to neoliberal orthodoxy. The success of China’s model poses a threat to the neoliberal
+      order When U.S. political leaders single out China as an existential enemy of
+      the West, it is not as a military threat but for offering a successful economic
+      alternative to today’s U.S.-sponsored neoliberal world order. That order was supposed
+      to represent the End of History, succeeding through its logic of free trade, government
+      deregulation, and international investment free of capital controls, while detouring
+      away from industrial capitalism’s anti- rentier policies. We can now see the absurdity
+      in this self-satisfying evangelical view that had emerged just as Western economies
+      were deindustrializing, as a result of the dynamics of their neoliberal finance
+      capitalism. The vested financial and other rentier interests are rejecting not
+      only China but the logic of industrial capitalism as described by its own 19 th
+      -century classical economists. Western neoliberal observers have closed their
+      eyes to recognizing the ways in which China’s “socialism with Chinese characteristics”
+      has achieved its success by a logic similar to that of the industrial capitalism
+      advocated by classical economists to minimize rentier income. Most late 19 th
+      -century economic writers expected industrial capitalism to evolve into socialism
+      of one form or another, as the role of public investment and regulation increased.
+      Freeing economies and their governments from control by landowners and creditors
+      was the common denominator of the social-democratic socialism of John Stuart Mill,
+      the libertarian socialism of Henry George focusing on the land tax, and the cooperative
+      mutual-aid socialism of Peter Kropotkin, as well as Marxism. Where China has gone
+      further than earlier socialist mixed-economy reforms has been in keeping money
+      and credit creation in the hands of government, along with basic infrastructure
+      and natural resources. Fear that other governments might follow China’s lead has
+      led U.S. and other Western finance-capitalist ideologues to view China as a threat
+      by providing a model for economic reforms that are precisely the opposite of what
+      the 20 th century’s pro- rentier , anti-government ideology fought against. The
+      foreign debt overhead owed to U.S. and other Western creditors, and enabled by
+      the 1945-2025 international geopolitical rules designed by U.S. diplomats at Bretton
+      Woods in 1944, obliges the Global South and other countries to recover their economic
+      sovereignty by freeing themselves from their foreign (mainly dollarized) banking
+      and financial burden. These countries have the same land-rent problem that Europe’s
+      industrial capitalism faced, but their land and resource rents are mainly owned
+      by multinational companies and other foreign appropriators of their oil and mineral
+      rights, forests, and latifundia plantations, who extract resource rents by emptying
+      out the world’s oil and mineral resources and cutting down its forests. Taxing
+      economic rent is a precondition for economic sovereignty A precondition for Global
+      South countries to gain economic autonomy is to follow the advice of the classical
+      economists and tax the largest sources of rental income – land rent, monopoly
+      rent, and financial returns – instead of letting them be sent abroad. Taxing these
+      rents would help stabilize their balance of payments, while providing their governments
+      with revenue to finance their infrastructure needs and the related social spending
+      needed to subsidize their economic modernization. That is how Britain, France,
+      Germany and the United States established their own industrial, agricultural,
+      and financial supremacy. This is not a radical socialist policy; it always has
+      been a central element of industrial capitalist development. Recapturing a country’s
+      land and natural-resource rents as its fiscal base would enable it to avoid taxing
+      labor and industry. A country would not need to formally nationalize its land
+      and natural resources outright; it simply needs to tax the economic rent over
+      and above actual “earned profits,” to cite the principle of Adam Smith and his
+      19 th -century successors that this rent is the natural tax base. But neoliberal
+      ideology calls such taxation of rent, and the regulation of monopolies or other
+      market phenomena, an intrusive interference into the “free market.” This defense
+      of rentier income inverts the classical definition of a free market. The classical
+      economists defined a free market as one free from economic rent, not as one free
+      for the extraction of economic rent, let alone as freedom for creditor-nation
+      governments to create a “rules-based order” to facilitate foreign rent extraction
+      and stifle the development of financially and trade-dependent host countries.
+      Debt remission is a precondition for economic sovereignty The fight by countries
+      to free themselves from their foreign debt overhead is much harder than Europe’s
+      19 th -century fight to end the privileges of its landed aristocracy (and less
+      successfully, of its bankers), because it is international in scope, and is now
+      confronted by a creditor-nation alliance to maintain the system of financial colonization
+      created two centuries ago, as former colonies sought to finance their independence
+      by borrowing from foreign bankers. Starting in the 1820s, newly independent countries
+      like Haiti, Mexico, and other Latin America nations, as well as Greece, Tunisia,
+      Egypt, and other former Ottoman colonies, won nominal political freedom from colonialist
+      control. But to build up their own industry they had to take on foreign debt –
+      on which they almost immediately defaulted, which enabled their creditors to establish
+      monetary authorities in charge of their fiscal policy. The governments of these
+      countries were turned into collection agents for international bankers by the
+      late 19 th century. Financial dependency on bankers and bondholders replaced colonial
+      dependency, obliging debtor countries to give fiscal priority to foreign creditors.
+      World War II enabled many of these countries to accumulate substantial foreign
+      monetary reserves as a result of supplying raw materials to the belligerents.
+      But the post-war order designed by U.S. diplomats, based on free trade and free
+      capital movements, drained these savings, and obliged the Global South and other
+      countries to borrow to cover their trade deficits. The resulting foreign debts
+      soon came to exceed the ability of these countries to pay – that is, to pay without
+      surrendering to the destructive IMF demands for austerity that blocked the investment
+      needed to raise their productivity and living standards. There was no way that
+      they could meet their own development needs to invest in basic infrastructure
+      and provide industrial and agricultural subsidies, public education, health care,
+      and other basic social spending that is characterized by the leading industrial
+      nations. This still remains the case. Their choice today, therefore, is between
+      paying their foreign debts – at the cost of blocking their own development – or
+      claiming that these debts are odious and insisting that they be written off. At
+      issue is whether debtor countries will gain the sovereignty that is supposed to
+      characterize an international economy of equals, free of foreign post-colonial
+      control over their tax and trade policies, as well as their national patrimony.
+      Their self-determination can only be achieved by joining together in a collective
+      front. Donald Trump’s tariff aggression has catalyzed this process by drastically
+      reducing the U.S. market for exports from debtor countries, preventing them from
+      obtaining the dollars to pay their bonds and bank debts, so these won’t be paid
+      in any event. The world is now busy de-dollarizing. The need to create an alternative
+      to the U.S.-centered post-war order was expressed in 1955 at the Bandung Conference
+      in Indonesia, and then later by the Non-Aligned Movement. But these countries
+      lacked a critical mass of self-sufficiency among themselves to act together. Attempts
+      to create a New International Economic Order in the 1960s faced the same problem.
+      Countries were not industrially, agriculturally, or financially strong enough
+      to “go it alone.” Today’s Western debt crisis, de-industrialization, and coercive
+      weaponization of foreign trade and financial sanctions under the dollarized international
+      financial system, capped by the “America First” tariff policy, have created an
+      urgent need for countries to collectively seek economic sovereignty, to become
+      independent from U.S. and European control of the international economy. The collective
+      BRICS+, with Russia and China taking the lead, have just begun talking about making
+      such an attempt. China’s success has made a global alternative attainable The
+      great catalyst for countries to take control of their national development has
+      been China. As indicated above, its industrial socialism has largely achieved
+      the classical aim of industrial capitalism of minimizing rentier overhead, above
+      all by publicly creating money to finance tangible growth. Keeping money and credit
+      creation in government hands, via China’s state-owned banks, prevents financial
+      and other rentier interests from taking over the economy and subjecting it to
+      the financial overhead that has characterized Western economies. China’s successful
+      alternative for allocating credit avoids making purely financial gains at the
+      expense of tangible capital formation and living standards. That is why it is
+      viewed as an existential threat to the current Western banking model. Western
+      financial systems are overseen by central banks that have been made independent
+      from the Treasury and government regulatory “interference.” Their role is to provide
+      the commercial banking system’s liquidity as it creates interest-bearing debt,
+      mainly for the purpose of making wealth financially by debt leveraging (asset-price
+      inflation), not for productive capital formation. Capital gains – rising prices
+      for housing and other real estate, stocks, and bonds – are much larger than GDP
+      growth. They can be made easily and quickly by banks creating more credit to bid
+      up prices for buyers of these assets. Instead of the financial system being industrialized,
+      Western industrial corporations have become financialized, and that has occurred
+      along lines that have deindustrialized the U.S. and European economies. Financialized
+      wealth can be made without being part of the production process. Interest, late
+      charges, other financial fees and capital gains are not a “product,” yet are counted
+      as such in today’s GDP statistics. Carrying charges on the rising debt overhead
+      are transfer payments to the finance sector, by labor and businesses, out of wages
+      and profits earned by actual production. That shrinks the income available for
+      spending on the products produced by labor and capital, leaving economies debt-ridden
+      and deindustrialized. The strategy of creditor-rentier nations to prevent withdrawal
+      from their global control The broadest strategy to block countries from avoiding
+      the rentier burden has been to wage an ideological campaign from the educational
+      system to mass media. The aim is to control the narrative in a way that depicts
+      government as an oppressive Leviathan, an inherently bureaucratic autocracy. Western
+      “democracy” is defined not so much politically as economically, as a free market
+      whose resources are allocated by a banking and financial sector independent of
+      regulatory oversight. Governments strong enough to limit financial and other rentier
+      wealth in the public interest are demonized as autocracies or “planned economics”
+      — as if shifting credit and resource allocation to the financial centers of Wall
+      Street, London, Paris, and Japan does not result in an economy planned by the
+      financial sector in its own interest, with the aim of creating monetary fortunes.
+      Its aim is not to improve the overall economy and living standards. Global Majority
+      officials and administrators who have studied economics at U.S. and European universities
+      have been indoctrinated with a value-free (that is, rent-free) pro- rentier ideology
+      to frame the way they think about how economies work. This narrative excludes
+      consideration of how debt polarizes economies by growing exponentially at compound
+      interest. Also excluded from mainstream economic logic is the classical contrast
+      between productive and unproductive credit and investment, and the related distinction
+      between earned income (wages and profits, the main components of value) and unearned
+      income (economic rent). Beyond this ideological campaign, neoliberal diplomacy
+      uses military force, regime change, and control of the main international bureaucracies
+      associated with the United Nations, the IMF, and World Bank — and a more covert
+      network of non-government organizations (NGOs) — to prevent countries from withdrawing
+      from today’s pro- rentier fiscal rules and pro-creditor laws. The United States
+      has taken the lead in using force and regime change against governments that would
+      tax away or otherwise limit rent extraction. It should be noted that few early
+      socialists (except anarchists) advocated violence in pursuit of their reforms.
+      It has been the vested interests, unwilling to accept loss of the privileges that
+      are the basis of their fortunes, who have not hesitated to use violence to defend
+      their wealth and power against attempts at reform to check their privileges. To
+      be sovereign, nations must create an alternative that enables them to be in charge
+      of their own economic, monetary, and political development. But American diplomacy
+      views any attempt to enact the necessary political and tax reforms and strong
+      government regulatory authority as posing an existential threat to U.S. control
+      over international finance and trade. This raises the question of whether it is
+      possible to achieve reforms and a strong public economy without war. It is natural
+      for countries to wonder whether they can achieve economic sovereignty without
+      a revolution, such as the Soviet Union, China, and other countries that fought
+      to end their domination by their foreign-supported landlords and creditors. The
+      only way to protect economic sovereignty against military threats is to join an
+      alliance for mutual support, since individual countries can be isolated in the
+      way that Cuba, Venezuela, and Iran have been — or destroyed, like Libya. As Benjamin
+      Franklin put matters, “If we don’t hang together, we will hang separately.” American
+      writers characterize the attempt of other countries to join together to achieve
+      economic sovereignty as a civilizational war. While this is indeed a civilizational
+      contest, it is the United States and its allies that are waging aggression, against
+      countries trying to withdraw from a system that has provided the United States
+      and Europe with a huge inflow of economic rents and debt service from host countries
+      subject to U.S.-backed diplomacy. How U.S.-centered financial colonialism replaced
+      European colonial occupation After World War II, the era of settler-state colonialism
+      gave way to financial colonialism, with the international economy dollarized under
+      U.S. leadership. The Bretton Woods rules established by 1945 enabled multinational
+      corporations to keep economic rents for land, natural resources and public infrastructure
+      out of domestic fiscal reach. Governments were reduced to the role of acting as
+      collection agents for foreign creditors and as protectors of foreign investors
+      from democratic attempts to tax rentier wealth. The United States was able to
+      weaponize world trade by monopolizing oil exports through U.S. and allied oil
+      companies (the Seven Sisters), while U.S. and European agricultural protectionism
+      and World Bank “aid” policy steered food-deficit countries to focus on tropical
+      plantation crops instead of grain to feed themselves. President Bill Clinton’s
+      1994 NAFTA free-trade agreement swamped Mexico’s market with low-priced U.S. farm
+      exports (highly subsidized by strong government support). Mexican grain production
+      plummeted, leaving it food-dependent. To block governments from taxing or even
+      fining foreign investors to recover compensation for damages to their countries,
+      today’s rentier powers have created Investor-State Dispute Settlement (ISDS) courts
+      requiring governments to compensate foreign investors for increasing taxes or
+      imposing regulations that reduce foreign-owned income. (I provide the details
+      of this in Chapter 7 of my 2022 book The Destiny of Civilization .) This system
+      blocks national sovereignty, including by preventing host countries from taxing
+      the economic rent of their land and natural resources owned by foreigners. The
+      effect is to make these resources part of the investor-nation economy, not their
+      own. (The Saudi oil company Aramco, for instance, was not a corporately distinct
+      corporate affiliate but a branch of Standard Oil of New York (ESSO). This legal
+      nicety meant that its income and expenses were consolidated into the parent company’s
+      U.S. balance sheet. That enabled it to receive a tax credit for the “depletion
+      allowance” for oil, rendering the company effectively free of U.S. income tax,
+      although it was Saudi oil that was being depleted.) Other nations permitted the
+      United States to dictate the post-World War II order, with it promising generous
+      aid to support free trade, peace, and post-colonial national sovereignty, as spelled
+      out in the United Nations Charter. But the United States squandered its wealth
+      on military spending abroad and financial wealth addiction at home. That has left
+      America’s post-industrial power based mainly on its ability to harm other countries
+      with chaos if they do not accept the U.S. “rules-based order” designed to extract
+      tribute from them. The U.S. imposes protectionist tariffs and import quotas at
+      will, and subsidizes agriculture and key technologies as potential global high-tech
+      monopolies, while forbidding other countries from implementing such “socialist”
+      or “autocratic” policies to become more competitive. The result is a double standard
+      in which the U.S. “rules-based order” (its own rules) replaces adherence to international
+      law. U.S. agricultural price support policy initiated under Franklin D. Roosevelt
+      in the 1930s provides a good example of double standards. It made farming the
+      most heavily subsidized and protected sector. It became the model for the European
+      Economic Community’s Common Agricultural Policy (CAP) introduced in 1962. However,
+      U.S. diplomacy opposes the attempts of other countries, especially Global South
+      countries, to impose their own protectionist subsidies and import quotas aimed
+      at achieving self-sufficiency in basic food production — while U.S. “aid lending”
+      and the World Bank have (as indicated above) supported the exportation of tropical
+      plantation crops by Global South countries by lending for transportation and port
+      development. U.S. policy has consistently opposed family-owned farming and land
+      reform throughout Latin America and other Global South countries, often with violence.
+      Moves toward a multipolar world order It is not surprising that, inasmuch as Russia
+      has long been the United States’ main military adversary, it has taken the lead
+      in protesting against the unipolar U.S. order. Advocating a multipolar alternative
+      to the U.S. neoliberal order in June 2025, Russian Foreign Minister Sergey Lavrov
+      described the post-colonial economic subjugation of the countries that achieved
+      political independence from colonialist rule in the 19 th and 20 th centuries
+      but which are now facing the next task needed to complete their liberation: Our
+      African friends are paying more and more attention to the fact that their entire
+      economies are still largely based on siphoning off natural resources from these
+      countries. In fact, all value added is produced and pocketed by the former Western
+      metropoles and other European Union and NATO members. … The West is using illegal
+      unilateral sanctions, which increasingly become the harbinger of a military attack,
+      as this has happened in Yugoslavia, Iraq and Libya and is now happening in Iran,
+      as well as the instruments of unfair competition, initiating tariff wars, seizing
+      other countries’ sovereign assets and taking advantage of the role of their currencies
+      and payment systems. The West itself has actually buried the globalization model,
+      which it developed after the Cold War to promote its interests. Marco Rubio made
+      the same point in the U.S. Senate hearings to confirm him as Donald Trump’s Secretary
+      of State, explaining that the “postwar global order is not just obsolete; it is
+      now a weapon being used against us.” Violating the rules of foreign trade and
+      investment that the United States itself dictated in 1945, and yet another instance
+      of Washington resorting to the “rules-based order” of its own rules, President
+      Trump’s unilateral tariffs aimed both at shifting the New Cold War’s military
+      costs onto other countries, which are expected to buy American arms and provide
+      proxy armies, and at reviving the U.S.’s lost industrial power by forcing countries
+      to relocate industries to the United States and to permit U.S. companies to extract
+      monopoly rents by controlling the leading emerging technologies. The United States
+      aims to impose monopoly rights and related rentier privileges uniquely favorable
+      to itself on the entire world’s trade and investment. Trump’s “America First”
+      diplomacy demands that other countries conduct their trade, payments and debt
+      relationships in U.S. dollars, instead of their own currencies. The U.S. “rule
+      of law” is one that permits unilateral U.S. demands to impose trade and financial
+      sanctions dictating how and with whom foreign countries can trade and invest.
+      They are threatened with economic chaos and confiscation of their dollar reserves
+      if they do not boycott trade and investment relations with Russia, China, and
+      other countries refusing to submit to U.S. control. The United States’ leverage
+      to obtain these foreign concessions is no longer industrial leadership and financial
+      strength, but its ability to cause chaos for other countries. Claiming to be the
+      indispensable nation, the U.S.’s ability to disrupt trade is ending its former
+      international monetary and diplomatic power. That power originally was based on
+      U.S. holdings of the world’s largest monetary gold reserves in 1945, its status
+      as the largest creditor nation and industrial economy, and, after 1971, its dollar
+      hegemony, arising in large part as a result of its financial market being the
+      safest for other nations to hold their official monetary reserves. The diplomatic
+      inertia created by these former advantages no longer reflects the realities of
+      2025. What U.S. officials do have is the ability to disrupt the world’s trade,
+      supply chains, and financial arrangements, including the SWIFT system for international
+      payments. The U.S. and European confiscation of $300 billion of Russia’s monetary
+      deposits has darkened America’s reputation for financial safety, while its chronic
+      trade and balance-of-payments deficits threaten to disrupt the international monetary
+      system and free trade that made it the major beneficiary of the 1945-2025 world
+      order. In keeping with the principle of national sovereignty and non-interference
+      in other countries’ internal affairs that underlay the creation of the United
+      Nations (the basic principle of international law grounded in the 1648 Peace of
+      Westphalia), Russia’s Foreign Minister Lavrov described (in his speech cited above)
+      the need “to establish foreign trade mechanisms [that] the West will be unable
+      to control, such as transport corridors, alternative payment systems and supply
+      chains.” As an example of how the United States had paralyzed the World Trade
+      Organization, which it had created on the basis of free trade at a time when America
+      was the world’s leading export power, he explained: When the Americans realized
+      that the globalized system they had created – one built on fair competition, inviolable
+      property rights, the presumption of innocence, and similar principles, and which
+      had allowed them to dominate for decades – had also begun benefiting their rivals,
+      primarily China, they took drastic action. As China started outplaying them on
+      their own turf and by their own rules, Washington simply blocked the WTO’s Appellate
+      Body. By artificially stripping it of a quorum, they rendered this key dispute
+      settlement mechanism inactive – and it remains so to this day. The United States
+      has been able to block foreign opposition to its nationalist policies by having
+      veto power in the United Nations, IMF, and World Bank. Even without such power,
+      U.S. diplomats have been able to block United Nations organizations from acting
+      independently of U.S. wishes by refusing to appoint leaders or judges not primarily
+      loyal to U.S. foreign policy. The International Atomic Energy Agency (IAEA), charged
+      with keeping nuclear proliferation in check is the most recent notorious case
+      in point. Iran published documents showing that the agency’s leader Rafael Grossi
+      provided U.S. and Israeli intelligence with the names of Iranian scientists who
+      were killed, and details of the Iranian nuclear refinement sites that were bombed.
+      The U.S. veto has prevented the UN Security Council from condemning Israeli attacks
+      on the Palestinian population. And when the International Criminal Court (ICC)
+      brought charges against Israeli Prime Minister Benjamin Netanyahu for committing
+      war crimes and crimes against humanity in a genocide against the Palestinians,
+      U.S. officials imposed sanctions on the ICC and demanded the removal of the prosecutor.
+      The world no longer is to be governed by international law, but by unilateral
+      U.S. rules, subject to abrupt change depending on the vicissitudes of American
+      economic or military power (or loss thereof). As Russia’s President Vladimir Putin
+      described this new state of affairs in 2022, “Western countries have been saying
+      for centuries that they bring freedom and democracy to other nations,” yet the
+      “unipolar world is inherently anti-democratic and unfree; it is false and hypocritical
+      through and through.” The United States’ self-image depicts its long dominant
+      world position as reflecting its democracy, free market, and equality of opportunity
+      that has enabled its power elite, in their view, to acquire their status by being
+      the economy’s most productive members, through their management and allocation
+      of savings and credit. The reality is that the United States has become a rentier
+      oligarchy, one that is increasingly hereditary. Its members’ fortunes are made
+      mainly by acquiring rent-yielding assets (land, natural resources, and monopolies)
+      on which they make capital gains, while paying most of their rent as interest
+      to their bankers, who end up with much of these rents and have become the new
+      oligarchy’s leading managerial class. Summary The real conflict over what kind
+      of economic and political system the Global Majority will have is just gaining
+      momentum. Global South countries and others have been driven so deeply into debt
+      that they have been obliged to sell off their public infrastructure to pay its
+      carrying charges. Recovering control of their natural resources and basic infrastructure
+      requires the fiscal right to impose an economic-rent tax on their land, natural
+      resources and monopolies, as well as the legal right to recover environmental
+      cleanup costs caused by foreign oil and mining firms, and to implement financial
+      cleanup costs ( i.e ., write offs and cancellation) of the foreign debt burden
+      imposed by creditors who have not taken responsibility to ensure that their loans
+      can be paid under existing conditions. U.S. evangelistic rhetoric describes the
+      imminent political and economic fracture of the world economy as a “Clash of Civilizations”
+      between democracies (i.e., countries that support U.S. policy) and autocracies
+      (i.e., nations acting independently). It would be more accurate to describe this
+      fracture as a fight by the United States and its European and other Western allies
+      against civilization — assuming civilization entails, as it seems it must, the
+      sovereign right of countries to enact their own laws and tax systems for the benefit
+      of their own populations within an international system that has a common set
+      of basic rules and values. What Western ideologues call democracy and free markets
+      has turned out to be an aggressive rentier -financial imperialism. And what they
+      call autocracy is a government strong enough to prevent economic polarization
+      between a super-rich rentier class and an impoverished population at large, such
+      as is occurring within the Western oligarchies themselves. Photo by itsiken on
+      Unsplash The post A Precondition for Economic Sovereignty first appeared on Michael
+      Hudson .'
+    one_sentence_summary: Michael's upcoming book discusses how industrial capitalism
+      aimed to dismantle feudal economic structures by eliminating rentier incomes that
+      hindered competitiveness, but notes that in the 20th century, efforts to address
+      these issues have regressed, with rising land and resource rents still benefiting
+      private interests.
+    paragraph_summary: In an excerpt from Michael's forthcoming book on Medieval debt
+      crusades, he discusses the transformative impact of industrial capitalism in liberating
+      European economies from the remnants of feudalism, particularly the burdens of
+      land rent, trade monopolies, and unproductive banking interests. He argues that
+      these economic rents inflate prices, thereby diminishing profits and raising living
+      costs. Despite the progress made in the 20th century to eliminate these rents,
+      they continue to rise today, often benefiting from tax advantages while basic
+      infrastructure is increasingly privatized by the financial sector. Michael highlights
+      Britain's historical struggle against the landed aristocracy, culminating in the
+      repeal of the Corn Laws in 1846, which facilitated free trade and aimed to lower
+      living costs while discouraging less industrialized nations from developing their
+      own industries.
+    published: '2025-07-24T00:17:33+00:00'
   - title: Isolation Economics
     url: https://michael-hudson.com/2025/07/isolation-economics/
     text: 'NIMA ALKHORSHID : Let me start with a clip from an interview that the New

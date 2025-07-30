@@ -7,14 +7,266 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  Amid ongoing debates over US foreign policy and intelligence credibility, newly declassified documents have cast fresh doubt on the longstanding narrative of Russian interference in the 2016 US election. As **Aaron Maté** reports, these documents reveal that senior officials at the NSA and FBI held only "low confidence" in the claim that Russia hacked and leaked Democratic Party materials to benefit Donald Trump. This contradicts the previously accepted consensus and suggests that the Obama administration may have overstated the evidence to undermine Trump. **Tulsi Gabbard**, former Director of National Intelligence under Trump, argues that intelligence was manipulated for political ends, further fueling skepticism about the official Russiagate story.
+  The geopolitical landscape remains tense as the humanitarian crisis in Gaza deepens and the fallout from the Russiagate investigation continues to reverberate through U.S. politics. Recent developments underscore the growing challenges to both regional stability and public trust in government institutions.
   
-  This revelation comes as the US continues to grapple with the legacy of the Mueller investigation and subsequent probes, including Special Counsel John Durham’s inquiry, which, according to **Maté**, failed to deliver meaningful accountability or transparency regarding the origins of the Russiagate narrative. The persistence of these doubts is likely to deepen partisan divides and erode public trust in US intelligence assessments—a trend that is "quite likely" to influence both domestic politics and future foreign policy decisions.
+  The most immediate concern is the worsening situation in Gaza. Despite mounting international alarm, President Trump has publicly acknowledged the starvation crisis but continues to back Israel’s hardline approach. In his latest statements, he and Special Envoy Steve Witkoff have abandoned ceasefire negotiations, asserting that Hamas is uninterested in peace and urging Israel to "finish the job." This stance comes as 115 aid organizations report severe malnutrition and widespread lack of access to clean water for Gaza’s two million residents. Over a third of the population is reportedly going without food for days. Trump’s administration has also reinforced the blockade by banning the UN agency for Palestinian refugees, further undermining humanitarian relief efforts. According to **Aaron Maté**, “Trump’s support for the Israeli blockade and his efforts to undermine the UN’s humanitarian operations have exacerbated the crisis, despite his earlier promises to address the starvation in Gaza.”
   
-  On the international front, the US posture toward Russia and Ukraine remains in flux. Despite initial expectations of a more aggressive stance under Trump, recent policy moves have fallen short of hawkish hopes. **Senator Lindsey Graham** had touted the possibility of "the most impactful sanction package in US history" and a surge in weapons for Ukraine, but the actual measures announced by Trump were far less transformative. European officials now perceive Trump as distancing himself from the Ukraine conflict, signaling that the US may reduce its direct involvement and leave the war largely in European hands.
+  Meanwhile, in the United States, the political ramifications of the Russiagate investigation are intensifying. In a recent interview, **Judge Andrew Napolitano** emphasized the gravity of the revelations, warning of the “potential misuse of power by government agencies” and calling for greater transparency and accountability to restore public trust. The newly declassified documents reveal that key intelligence agencies, including the NSA and FBI, had “low confidence” in the claims of Russian interference in the 2016 election—contradicting the narrative that dominated U.S. politics for years. This has led to renewed scrutiny of the Obama administration’s handling of intelligence and the broader implications for American democracy.
   
-  Looking ahead, the majority of analysts cited by **Maté** agree that the US is unlikely to escalate its engagement in Ukraine in the near term, and that the credibility crisis surrounding intelligence on Russia will persist. There is a "high chance" that these developments will embolden critics of US foreign policy and further complicate efforts to build international coalitions on issues involving Russia. The ongoing reassessment of intelligence practices is expected to remain a central issue in Washington, with little prospect for swift resolution.
+  Looking ahead, the trends suggest continued instability in Gaza, with little prospect for a negotiated ceasefire as long as U.S. support for Israel’s military campaign remains unwavering. There is a high chance that the humanitarian crisis will worsen, given the current blockade and lack of international consensus on intervention. On the domestic front, the Russiagate reckoning is poised to grow, with further revelations likely to fuel demands for accountability and reform within the intelligence community. As **Napolitano** notes, “a critical examination of these events and their consequences is essential for the health of American democracy.”
+  
+  In summary, the coming days will most definitely see heightened scrutiny of U.S. foreign policy in the Middle East and increasing political pressure for transparency and reform at home. The majority of analysts agree that without significant changes, both the humanitarian situation in Gaza and the credibility of U.S. institutions will remain at risk.
 articles:
+  - title: Trump admits Gaza is starving; Russiagate reckoning poised to grow
+    url: https://www.aaronmate.net/p/trump-admits-gaza-is-starving-russiagate
+    text: 'Interview with Judge Andrew Napolitano: Interview with Real Clear Politics
+      on Russiagate revelations: Aaron Mate is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: In an interview with Real Clear Politics, Judge Andrew Napolitano
+      discusses the revelations surrounding Russiagate, highlighting key insights and
+      implications of the findings.
+    paragraph_summary: In an interview with Real Clear Politics, Judge Andrew Napolitano
+      discusses the revelations surrounding the Russiagate investigation, emphasizing
+      the implications of the findings on the integrity of the legal and political systems.
+      He critiques the handling of the investigation and expresses concerns about the
+      potential misuse of power by government agencies. Napolitano highlights the importance
+      of transparency and accountability in restoring public trust, while also addressing
+      the broader impact of these revelations on American democracy. The interview underscores
+      the need for a critical examination of the events and their consequences.
+    published: '2025-07-29T19:50:54+00:00'
+  - title: Trump admits Gaza is starving; Russiagate reckoning poised to grow
+    url: https://www.aaronmate.net/p/trump-admits-gaza-is-starving-russiagate
+    text: 'Interview with Judge Andrew Napolitano: Interview with Real Clear Politics
+      on Russiagate revelations: Aaron Mate is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: In an interview with Real Clear Politics, Judge Andrew Napolitano
+      discusses the revelations surrounding Russiagate, highlighting key insights and
+      implications of the findings.
+    paragraph_summary: In an interview with Real Clear Politics, Judge Andrew Napolitano
+      discusses the revelations surrounding the Russiagate investigation, emphasizing
+      the implications of the findings on the integrity of the legal and political systems.
+      He critiques the handling of the investigation and expresses concerns about the
+      potential misuse of power by government agencies. Napolitano highlights the importance
+      of transparency and accountability in restoring public trust, while also addressing
+      the broader impact of these revelations on American democracy. The interview underscores
+      the need for a critical examination of the events and their consequences.
+    published: '2025-07-29T19:50:54+00:00'
+  - title: As Gaza starves, Trump tells Israel to 'finish the job'
+    url: https://www.aaronmate.net/p/as-gaza-starves-trump-tells-israel
+    text: '(Photo by -/AFP via Getty Images) As global outcry mounted this week over
+      the Israeli siege of Gaza, President Trump and his Special Envoy, Steve Witkoff,
+      announced that they are abandoning ceasefire talks with Hamas, and with it any
+      pretense of concern for the territory’s two million Palestinians. “Hamas didn’t
+      really want to make a deal. I think they want to die and it’s very, very bad,”
+      Trump told reporters. “It got to a point where you’re going to have to finish
+      the job... They’re going to have to clean it up.” Witkoff likewise accused Hamas
+      of failing to act in “good faith,” and said the US would “now consider alternative
+      options” to “try to create a more stable environment for the people of Gaza.”
+      In the current environment, the people of Gaza are enduring Trump-backed, Israeli-imposed
+      “mass starvation,” as a joint statement from 115 aid organizations warned . The
+      Israeli siege, the groups said, is leading to “record rates of acute malnutrition,”
+      particularly among children and the elderly. According to the United Nations,
+      over a third of Gaza’s population is going without food for several days and 90%
+      lack access to clean water. The aid groups’ warning comes more than two months
+      after Trump acknowledged that “a lot of people are starving” in Gaza, and promised
+      to “take care” of it. Yet Trump has done nothing but support the Israeli blockade.
+      Right before Trump promised to “take care” of starving Palestinians, an Israeli
+      official expressed gratitude that when it comes to pressuring Israel “to allow
+      more humanitarian aid into Gaza, Trump [has] made no such requests.” Instead of
+      pushing Israel to allow in aid, Trump has partnered with Israel to destroy the
+      United Nations system for delivering it. As Trump took office in January, Israel
+      enacted a ban on the United Nations agency for Palestinian refugees in Gaza, UNRWA,
+      the culmination of a campaign that began under Joe Biden . In the months since,
+      Israel has blocked UN groups from delivering aid, denied visas to senior UN officials,
+      and replaced them with the so-called “Gaza Humanitarian Foundation,” a US-funded
+      Israeli front group run by veteran intelligence operatives and private mercenaries.
+      Even some GHF executives and board members have been unable to go through with
+      the ruse. This includes founding CEO Jake Wood, who resigned upon the group’s
+      inception and accused it of failing to uphold “humanitarian principles of humanity,
+      neutrality, impartiality.” The GHF has reduced the number of aid sites in Gaza
+      from around 400 to just four – all but one in the south of Gaza, forcing desperate
+      people to make dangerous, lengthy marches by foot. The GHF’s “aid” sites, run
+      by armed US contractors operating under Israeli military control, have doubled
+      as death traps. Israeli forces have repeatedly opened fire on hungry crowds, killing
+      over 1,100 Palestinians since the GHF began operations. This means that more Palestinians
+      have been murdered lining up for food under the GHF’s watch than Israeli civilians–
+      including by Israeli military fire under the “ Hannibal Directive ” – were killed
+      on Oct. 7 th 2023. Israel and the US have waged their siege of Gaza and deployment
+      of the GHF on the pretext that Hamas has stolen UN food deliveries, a transparent
+      lie newly exposed by Israeli and US insiders. According to Israeli sources, including
+      two senior military officials, “the Israeli military never found proof that the
+      Palestinian militant group had systematically stolen aid from the United Nations,”
+      the New York Times reports . In fact, the military officials conceded, the UN
+      “was largely effective in providing food to Gaza’s desperate and hungry population.”
+      An internal US government analysis reached the same conclusion, finding “no reports
+      alleging Hamas” stole aid from US-funded humanitarian deliveries. The US-Israeli
+      starvation siege and dismantlement of the United Nations aid system serves the
+      guiding Israeli goal of making Gaza unlivable and pushing its surviving residents
+      into permanent expulsion. In a visit to Washington this month, Netanyahu referred
+      to his vision as “free choice... if people want to stay, they can stay, but if
+      they want to leave, they should be able to leave.” He added that the US and Israel
+      are working “very closely” to find countries that will “give the Palestinians
+      a better future.” This future denies Palestinians the right of return to their
+      ancestral, stolen homes in Israel or to an independent state of their own. The
+      latter possibility was once nominally supported by US presidents like George W.
+      Bush , but is now dismissed with open contempt. After French President Emmanuel
+      Macron announced this week that his government will recognize Palestinian statehood,
+      Trump responded: “What he says doesn’t matter. That statement doesn’t carry any
+      weight.” As a practical observation, Trump is correct. The only international
+      actor that matters in the Israel-Palestine crisis is the United States, which
+      has long used its weight to block a diplomatic settlement and support Israeli
+      aggression, including the overlooked land theft and terror in the occupied West
+      Bank. As a senior administration official recently told the Wall Street Journal
+      , “the White House coordinates closely with Israel and has considerable influence
+      over Netanyahu because the prime minister knows that ‘the United States literally
+      is the sole reason the state of Israel exists.’” Accordingly, the US is the sole
+      reason why Israel is getting away with denying the starving Palestinians of Gaza
+      that same right. Aaron Mate is a reader-supported publication. To receive new
+      posts and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: Amid growing global criticism of the Israeli siege on Gaza,
+      President Trump and Special Envoy Steve Witkoff announced the abandonment of ceasefire
+      talks with Hamas, attributing the failure to Hamas's lack of good faith and highlighting
+      the severe humanitarian crisis facing the Palestinian population.
+    paragraph_summary: As global concern grows over the humanitarian crisis in Gaza
+      due to the Israeli siege, President Trump and Special Envoy Steve Witkoff have
+      announced the abandonment of ceasefire talks with Hamas, claiming the group is
+      not interested in peace and suggesting a need to "finish the job." Their statements
+      come amidst alarming reports from 115 aid organizations highlighting severe malnutrition
+      and lack of access to clean water for Gaza's two million residents, with over
+      a third going without food for days. Despite Trump's earlier acknowledgment of
+      the starvation crisis and a promise to address it, he has instead supported the
+      Israeli blockade and worked to undermine the United Nations' efforts to provide
+      humanitarian aid, including a ban on the UN agency for Palestinian refugees.
+    published: '2025-07-27T18:53:44+00:00'
+  - title: As Gaza starves, Trump tells Israel to 'finish the job'
+    url: https://www.aaronmate.net/p/as-gaza-starves-trump-tells-israel
+    text: '(Photo by -/AFP via Getty Images) As global outcry mounted this week over
+      the Israeli siege of Gaza, President Trump and his Special Envoy, Steve Witkoff,
+      announced that they are abandoning ceasefire talks with Hamas, and with it any
+      pretense of concern for the territory’s two million Palestinians. “Hamas didn’t
+      really want to make a deal. I think they want to die and it’s very, very bad,”
+      Trump told reporters. “It got to a point where you’re going to have to finish
+      the job... They’re going to have to clean it up.” Witkoff likewise accused Hamas
+      of failing to act in “good faith,” and said the US would “now consider alternative
+      options” to “try to create a more stable environment for the people of Gaza.”
+      In the current environment, the people of Gaza are enduring Trump-backed, Israeli-imposed
+      “mass starvation,” as a joint statement from 115 aid organizations warned . The
+      Israeli siege, the groups said, is leading to “record rates of acute malnutrition,”
+      particularly among children and the elderly. According to the United Nations,
+      over a third of Gaza’s population is going without food for several days and 90%
+      lack access to clean water. The aid groups’ warning comes more than two months
+      after Trump acknowledged that “a lot of people are starving” in Gaza, and promised
+      to “take care” of it. Yet Trump has done nothing but support the Israeli blockade.
+      Right before Trump promised to “take care” of starving Palestinians, an Israeli
+      official expressed gratitude that when it comes to pressuring Israel “to allow
+      more humanitarian aid into Gaza, Trump [has] made no such requests.” Instead of
+      pushing Israel to allow in aid, Trump has partnered with Israel to destroy the
+      United Nations system for delivering it. As Trump took office in January, Israel
+      enacted a ban on the United Nations agency for Palestinian refugees in Gaza, UNRWA,
+      the culmination of a campaign that began under Joe Biden . In the months since,
+      Israel has blocked UN groups from delivering aid, denied visas to senior UN officials,
+      and replaced them with the so-called “Gaza Humanitarian Foundation,” a US-funded
+      Israeli front group run by veteran intelligence operatives and private mercenaries.
+      Even some GHF executives and board members have been unable to go through with
+      the ruse. This includes founding CEO Jake Wood, who resigned upon the group’s
+      inception and accused it of failing to uphold “humanitarian principles of humanity,
+      neutrality, impartiality.” The GHF has reduced the number of aid sites in Gaza
+      from around 400 to just four – all but one in the south of Gaza, forcing desperate
+      people to make dangerous, lengthy marches by foot. The GHF’s “aid” sites, run
+      by armed US contractors operating under Israeli military control, have doubled
+      as death traps. Israeli forces have repeatedly opened fire on hungry crowds, killing
+      over 1,100 Palestinians since the GHF began operations. This means that more Palestinians
+      have been murdered lining up for food under the GHF’s watch than Israeli civilians–
+      including by Israeli military fire under the “ Hannibal Directive ” – were killed
+      on Oct. 7 th 2023. Israel and the US have waged their siege of Gaza and deployment
+      of the GHF on the pretext that Hamas has stolen UN food deliveries, a transparent
+      lie newly exposed by Israeli and US insiders. According to Israeli sources, including
+      two senior military officials, “the Israeli military never found proof that the
+      Palestinian militant group had systematically stolen aid from the United Nations,”
+      the New York Times reports . In fact, the military officials conceded, the UN
+      “was largely effective in providing food to Gaza’s desperate and hungry population.”
+      An internal US government analysis reached the same conclusion, finding “no reports
+      alleging Hamas” stole aid from US-funded humanitarian deliveries. The US-Israeli
+      starvation siege and dismantlement of the United Nations aid system serves the
+      guiding Israeli goal of making Gaza unlivable and pushing its surviving residents
+      into permanent expulsion. In a visit to Washington this month, Netanyahu referred
+      to his vision as “free choice... if people want to stay, they can stay, but if
+      they want to leave, they should be able to leave.” He added that the US and Israel
+      are working “very closely” to find countries that will “give the Palestinians
+      a better future.” This future denies Palestinians the right of return to their
+      ancestral, stolen homes in Israel or to an independent state of their own. The
+      latter possibility was once nominally supported by US presidents like George W.
+      Bush , but is now dismissed with open contempt. After French President Emmanuel
+      Macron announced this week that his government will recognize Palestinian statehood,
+      Trump responded: “What he says doesn’t matter. That statement doesn’t carry any
+      weight.” As a practical observation, Trump is correct. The only international
+      actor that matters in the Israel-Palestine crisis is the United States, which
+      has long used its weight to block a diplomatic settlement and support Israeli
+      aggression, including the overlooked land theft and terror in the occupied West
+      Bank. As a senior administration official recently told the Wall Street Journal
+      , “the White House coordinates closely with Israel and has considerable influence
+      over Netanyahu because the prime minister knows that ‘the United States literally
+      is the sole reason the state of Israel exists.’” Accordingly, the US is the sole
+      reason why Israel is getting away with denying the starving Palestinians of Gaza
+      that same right. Aaron Mate is a reader-supported publication. To receive new
+      posts and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: Amid growing global criticism of the Israeli siege on Gaza,
+      President Trump and Special Envoy Steve Witkoff announced the abandonment of ceasefire
+      talks with Hamas, attributing the failure to Hamas's lack of good faith and highlighting
+      the severe humanitarian crisis facing the Palestinian population.
+    paragraph_summary: As global concern grows over the humanitarian crisis in Gaza
+      due to the Israeli siege, President Trump and Special Envoy Steve Witkoff have
+      announced the abandonment of ceasefire talks with Hamas, claiming the group is
+      not interested in peace and suggesting a need to "finish the job." Their statements
+      come amidst alarming reports from 115 aid organizations highlighting severe malnutrition
+      and lack of access to clean water for Gaza's two million residents, with over
+      a third going without food for days. Despite Trump's earlier acknowledgment of
+      the starvation crisis and a promise to address it, he has instead supported the
+      Israeli blockade and worked to undermine the United Nations' efforts to provide
+      humanitarian aid, including a ban on the UN agency for Palestinian refugees.
+    published: '2025-07-27T18:53:44+00:00'
+  - title: Zelensky under fire, Israel attacks Syria, Russiagate revealed
+    url: https://www.aaronmate.net/p/zelensky-under-fire-israel-attacks
+    text: 'I guest-hosted Glenn Greenwald’s show “System Update” on Wednesday, July
+      23rd with the following guests: John Solomon of Just The News on new Russiagate
+      revelations; Clark University’s Marta Havryshko on anti-Zelensky protests in Ukraine;
+      and the University of Oklahoma’s Joshua Landis on Israel attacking Syria amid
+      a new wave of sectarian massacres. Video clips below. Watch the full episode here
+      , or listen on Apple Podcasts here: Video clips: Aaron Mate is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber.'
+    one_sentence_summary: On July 23rd, I guest-hosted Glenn Greenwald's "System Update,"
+      featuring discussions with John Solomon on new Russiagate revelations, Marta Havryshko
+      on anti-Zelensky protests in Ukraine, and Joshua Landis on Israel's attacks in
+      Syria, with video clips available for viewing.
+    paragraph_summary: On July 23rd, I guest-hosted Glenn Greenwald's show "System Update,"
+      featuring discussions with John Solomon from Just The News about new revelations
+      related to Russiagate, Marta Havryshko from Clark University on the anti-Zelensky
+      protests in Ukraine, and Joshua Landis from the University of Oklahoma regarding
+      Israel's attacks on Syria amidst rising sectarian violence. Viewers can watch
+      the full episode or listen on Apple Podcasts, with additional video clips available.
+    published: '2025-07-24T18:14:21+00:00'
+  - title: Zelensky under fire, Israel attacks Syria, Russiagate revealed
+    url: https://www.aaronmate.net/p/zelensky-under-fire-israel-attacks
+    text: 'I guest-hosted Glenn Greenwald’s show “System Update” on Wednesday, July
+      23rd with the following guests: John Solomon of Just The News on new Russiagate
+      revelations; Clark University’s Marta Havryshko on anti-Zelensky protests in Ukraine;
+      and the University of Oklahoma’s Joshua Landis on Israel attacking Syria amid
+      a new wave of sectarian massacres. Video clips below. Watch the full episode here
+      , or listen on Apple Podcasts here: Video clips: Aaron Mate is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber.'
+    one_sentence_summary: On July 23rd, I guest-hosted Glenn Greenwald's "System Update,"
+      featuring discussions with John Solomon on new Russiagate revelations, Marta Havryshko
+      on anti-Zelensky protests in Ukraine, and Joshua Landis on Israel's attacks in
+      Syria, with video clips available for viewing.
+    paragraph_summary: On July 23rd, I guest-hosted Glenn Greenwald's show "System Update,"
+      featuring discussions with John Solomon from Just The News about new revelations
+      related to Russiagate, Marta Havryshko from Clark University on the anti-Zelensky
+      protests in Ukraine, and Joshua Landis from the University of Oklahoma regarding
+      Israel's attacks on Syria amidst rising sectarian violence. Viewers can watch
+      the full episode or listen on Apple Podcasts, with additional video clips available.
+    published: '2025-07-24T18:14:21+00:00'
   - title: US intel concealed high-level doubts about "Russian interference", docs reveal
     url: https://www.aaronmate.net/p/us-intel-concealed-high-level-doubts
     text: '(Photo by Mark Wilson/Getty Images) Although Robert Mueller failed to find

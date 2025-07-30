@@ -7,16 +7,619 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The global geopolitical landscape continues to be shaped by rising militarism, deepening conflicts, and shifting alliances, as advanced economies and regional powers recalibrate their strategies in response to ongoing crises. Recent developments underscore a trend toward increased military spending and the entrenchment of the military-industrial complex, particularly among NATO members and East Asian states.
+  The ongoing crisis in Gaza continues to dominate the geopolitical landscape, with mounting evidence and testimony from Israeli human rights organizations intensifying international scrutiny. In the latest development, **Binoy Kampmark** highlights that groups such as B’Tselem and Physicians for Human Rights-Israel now openly characterize Israel’s actions in Gaza as genocide, citing systematic policies of dehumanization, targeted violence, and the deliberate destruction of essential infrastructure. These organizations are urging the global community to recognize the scale of the crisis and intervene to prevent further atrocities.
   
-  The latest analysis by **Binoy Kampmark** highlights the intensification of arms promotion and defense spending, with South Korea's President Lee Jae-myung exemplifying a broader pattern among leaders who prioritize military interests over peaceful development. This surge in militarization is not isolated; European Union and NATO countries are also ramping up defense budgets, often under the pretext of security but with significant benefits accruing to arms manufacturers. As **Kampmark** notes, "militarism is on the rise in advanced economies," a trend that is "most definitely" set to continue as global uncertainties persist.
+  This escalation in rhetoric comes amid a worsening humanitarian situation, as previously reported by **Kampmark**, where the blockade and military operations have led to widespread starvation and civilian casualties. The international response remains largely limited to statements of condemnation, with little substantive action to alleviate the suffering or hold perpetrators accountable. The proposal to create a so-called “humanitarian city” for displaced Palestinians—effectively a concentration camp—has drawn further condemnation and is seen by analysts as a move that entrenches ethnic cleansing under the guise of humanitarianism.
   
-  In the Middle East, the humanitarian crisis in Gaza remains acute. Recent reports detail the lethal use of force by Israeli soldiers and private contractors against civilians seeking aid, with the Gaza Humanitarian Foundation's distribution system coming under sharp criticism. **Kampmark** argues that these mechanisms serve more to "inflict suffering and violence on recipients" than to alleviate distress, reinforcing Israel's broader strategy of control and oppression. The normalization of such violence, coupled with ongoing support for extremist settler ideologies in the West Bank, points to a deepening entrenchment of hardline policies, with little indication of imminent de-escalation.
+  Looking at broader trends, militarization is on the rise globally, with advanced economies increasing defense spending and arms exports, often at the expense of diplomatic or humanitarian initiatives. This, coupled with the impotence of international bodies in responding to the Gaza crisis, signals a shift toward normalization of extreme measures in conflict zones.
   
-  Meanwhile, the international response to these crises remains largely symbolic. Sanctions imposed by Western nations on Israeli ministers for extremist actions have been dismissed as insufficient, failing to address the systemic nature of the violence. The recent UN Human Rights Council report by Francesca Albanese, accusing corporate entities of profiting from Israel's "economy of genocide," has been met with predictable backlash from Israeli and US officials, further illustrating the limitations of current accountability mechanisms.
-  
-  Looking ahead, the prevailing trends suggest a continued escalation of military investments and a hardening of positions in key conflict zones. There is a "high chance" that the militarization of advanced economies will persist, driven by both perceived threats and the influence of the defense industry. In the Middle East, absent a significant shift in international policy or grassroots mobilization, the humanitarian situation in Gaza and the West Bank is "quite likely" to deteriorate further, with symbolic gestures from the international community doing little to alter the underlying dynamics.
+  Given these developments, there is a high chance that the humanitarian situation in Gaza will deteriorate further unless there is a significant change in international engagement. The growing consensus among Israeli and international human rights organizations will most definitely increase pressure on governments and multilateral institutions, but, as **Kampmark** notes, without concrete intervention, the cycle of violence and deprivation is likely to persist. The current trajectory suggests that the crisis in Gaza will remain a central issue in global geopolitics, with little hope for immediate resolution.
 articles:
+  - title: 'When Israelis Call It Out: Finding Genocide in Gaza'
+    url: https://www.counterpunch.org/2025/07/29/when-israelis-call-it-out-finding-genocide-in-gaza/
+    text: 'It’s been almost an article of faith among Israeli officials: the state they
+      represent is incapable of genocide, their actions always spurred by the noblest,
+      necessary motivations of self-defence against satanic enemies who wish genocide
+      upon Jews. Over time, as Holocaust scholar Omer Bartov writes, “Ethical concerns
+      and moral qualms were brushed aside as either marginal or distracting in the face
+      of the ultimate cataclysm that is the genocide of the Jews.”
+
+
+      This form of reasoning, known otherwise as “Holocaust-ism” or “Shoah-tiyut”, is
+      a moral conceit left bare in the war of annihilation being waged in Gaza against
+      the Palestinian populace. Israeli human rights groups have taken note of this,
+      despite the drained reserves of empathy evident in the Israel proper. (A Pew Research
+      Center poll conducted last month found that a mere 16% of Jewish Israelis thought
+      peaceful coexistence with Palestinians was possible.)
+
+
+      In its latest report pointedly titled Our Genocide, the Israeli human rights organisation
+      B’Tselem offers a blunt assessment: “Israel’s policy in the Gaza Strip and its
+      horrific outcomes, together with statements by senior Israeli politicians and
+      military commanders about the goals of the attack, leads us to the unequivocal
+      conclusion that Israel is taking coordinated action to intentionally destroy Palestinian
+      society in the Gaza Strip. In other words: Israel is committing genocide against
+      Palestinians in the Gaza Strip.”
+
+
+      The infliction of genocide, the organisation acknowledges, is a matter of “multiple
+      and parallel practices” applied over a period of time, with killing being merely
+      one component. Living conditions can be destroyed, concentration camps and zones
+      created, populations expelled and policies to systematically prevent reproduction
+      enacted. “Accordingly, genocidal acts are various actions intended to bring about
+      the destruction of a distinct group, as part of a deliberate, coordinated effort
+      by a ruling authority.”
+
+
+      Our Genocide suggests that certain conditions often precede the sparking of a
+      genocide. Israel’s relations with Palestinians had been characterised by “broader
+      patterns of settler-colonialism”, with the intention of ensuring “Jewish supremacy
+      over Palestinians – economically, politically, socially, and culturally.”
+
+
+      B’Tselem draws upon three crucial elements centred on ensuring “Jewish supremacy
+      over Palestinians”: “life under an apartheid regime that imposes separation, demographic
+      engineering, and ethnic cleansing; systemic and institutionalized use of violence
+      against Palestinians, while the perpetrators enjoy impunity; and institutionalized
+      mechanisms of dehumanization and framing Palestinians as an existential threat.”
+      The attacks on Israel by Hamas and other militant groups on October 7, 2023 was
+      a violent event that created a “sense of existential threat among the perpetrating
+      group” enabling the “ruling system to carry out genocide.” As B’Tselem Executive
+      Director Yuli Novak notes, this sense of threat was promoted by an “extremist,
+      far-right messianic government” to pursue “an agenda of destruction and expulsion.”
+
+
+      Israeli policy in the Strip since October 2023 could not be rationalised as a
+      focused, targeted attempt to destroy the rule of Hamas or its military efficacy.
+      “Statements by senior Israeli decision-makers about the nature and assault in
+      Gaza have expressed genocidal intent throughout.” Ditto Israeli military officers
+      of all ranks. Gaza’s residents had been dehumanised, with many Jewish-Israelis
+      believing “that their lives are of negligible value compared to Israel’s national
+      goals, if not worthless altogether.”
+
+
+      The report also notes the use of certain terminology that haunts the literature
+      of genocidal euphemism: the creation of “humanitarian zones” that would still
+      be bombed despite supposedly providing protection for displaced civilians; the
+      use of “kill zones” by the Israeli military and the absence of any standardised
+      rules of engagement through the Strip, often “determined at the discretion of
+      commanders on the ground or based on arbitrary criteria.”
+
+
+      Wishing to be comprehensive, the authors of the report do not ignore Israel’s
+      actions in the West Bank and occupied East Jerusalem. Airstrikes regularly take
+      place against refugee camps in the northern part of the territory since October
+      2023. Even more lethal open-fire policies have been used in the West Bank, with
+      the use of kill zones suggesting “the broader ‘Gazafication’ of Israel’s methods
+      of warfare.”
+
+
+      Another group, Physicians for Human Rights-Israel (PHRI), has also published a
+      legal-medical appraisal on the intentional destruction of Gaza’s healthcare system,
+      finding that the Israeli campaign in Gaza “constitutes genocide under the 1948
+      Genocide Convention.” The evidence examined by the group “shows a deliberate and
+      systematic dismantling of Gaza’s healthcare system and other vital systems necessary
+      for the population’s survival.” The evolving nature of the campaign suggested
+      a “deliberate progression” from the initial bombing and forced evacuation of hospitals
+      in the northern part of the Strip to calculated collapse of the healthcare system
+      across the entire enclave. The dismantling of the health system involved rendering
+      hospitals “non-functional”, the blocking of medical evaluations and the elimination
+      of such vital services as trauma care, surgery, dialysis and maternal health.
+
+
+      Added to this has been the direct targeting of health care workers, involving
+      the death and detention of over 1,800 members “including many senior specialists”
+      and the deliberate restriction of humanitarian relief through militarised distribution
+      points that pose lethal risks to aid recipients. “This coordinated assault has
+      produced a cascading failure of health and humanitarian infrastructure, compounded
+      by policies leading to starvation, disease and the breakdown of sanitation, housing,
+      and education systems.”
+
+
+      PHRI contends that, at the very least, three core elements of Article II of the
+      Genocide Convention are met: the killing of members of a group (identified by
+      nationality, ethnicity, race or religion); causing serious bodily or mental harm
+      to members of that group and deliberately inflicting on the group those conditions
+      of life to bring about its destruction in whole or in part.
+
+
+      In accepting that genocide is being perpetrated against the Palestinians, Our
+      Genocide makes that most pertinent of points: the dry legal analysis of genocide
+      tends to be distanced from a historical perspective. “The legal definition is
+      narrow, having been shaped in large part by the political interests of the states
+      whose representatives drafted it.” The high threshold of identifying genocide,
+      and the international jurisprudence on the subject, had produced a disturbing
+      paradox: genocide tends to be recognised “only after a significant portion of
+      the targeted group has already been destroyed and the group as such has suffered
+      irreparable harm.” The thrust of these clarion calls from B’Tselem and PHRI is
+      urgently clear: end this state of affairs before the Palestinians become yet another
+      historical victim of such harm.'
+    one_sentence_summary: Israeli human rights organizations, particularly B’Tselem
+      and Physicians for Human Rights-Israel, assert that Israel's actions in Gaza constitute
+      genocide against the Palestinian population, driven by a systematic policy of
+      dehumanization, violence, and the destruction of essential infrastructure, while
+      emphasizing the urgent need for international recognition and intervention to
+      prevent further harm.
+    paragraph_summary: The article discusses the assertion by Israeli human rights organizations,
+      particularly B’Tselem and Physicians for Human Rights-Israel (PHRI), that Israel
+      is committing genocide against Palestinians in Gaza, a claim rooted in the systematic
+      destruction of Palestinian society and infrastructure. B’Tselem's report, titled
+      "Our Genocide," argues that Israel's actions, including military assaults and
+      policies that dehumanize Palestinians, reflect a coordinated effort to annihilate
+      Palestinian society, driven by a narrative of existential threat following the
+      October 7 attacks by Hamas. The report outlines how Israeli policies have historically
+      been characterized by settler-colonialism and aims to maintain Jewish supremacy
+      through violence, demographic engineering, and ethnic cleansing. PHRI corroborates
+      these claims by detailing the intentional dismantling of Gaza's healthcare system,
+      which they argue meets the criteria for genocide under the 1948 Genocide Convention.
+      Both organizations emphasize the urgent need to address these actions before irreversible
+      harm is inflicted on the Palestinian population, highlighting the disconnect between
+      legal definitions of genocide and the historical realities faced by targeted groups.
+    published: '2025-07-29T05:55:39+00:00'
+  - title: 'Intentional Policies: Dystopian Killing Fields and Starvation in Gaza'
+    url: https://www.counterpunch.org/2025/07/28/intentional-policies-dystopian-killing-fields-and-starvation-in-gaza/
+    text: 'Starvation as a way of life. Starvation as a way of death. Starvation as
+      policy, justification and vengeance. As the state of Israel hums along frittering,
+      scratching and violating international human rights conventions, the chroniclers
+      are kept busy on the morgue’s relentlessly growing inventory and peace’s loss.
+      Of late, a vast number of humanitarian organisations have decided to express their
+      collective outrage in a statement at what is happening in Gaza.
+
+
+      The statement as run by Doctors Without Borders on July 23 is stark: “As the Israel
+      government’s siege starves the people of Gaza, aid workers are now joining the
+      same food lines, risking being shot just to feed their families. With supplies
+      now totally depleted, humanitarian organisations are witnessing their own colleagues
+      and partners waste before their eyes.” Two months after the implementation of
+      the controlled aid scheme by Israel, utilising the grotesquely named Gaza Humanitarian
+      Foundation, over 100 organisations were “sounding the alarm and urging governments
+      to act: open all land crossings; restore the full flow of food, clean water, medical
+      supplies, shelter items, and fuel through a principled, UN-led mechanism; end
+      the siege; and agree to a ceasefire now.”
+
+
+      Outside Gaza, and even within the Strip, abundant supplies of food, clean water,
+      medical supplies, shelter items and fuel sat untouched. Humanitarian organisations
+      had been prevented from accessing them. “The Government of Israel’s restrictions,
+      delays, and fragmentation under its total siege have created chaos, starvation,
+      and death.” A paltry figure of 28 trucks a day were being allowed into the Strip.
+
+
+      The relevant gore is recounted: massacres at food sites in the Gaza Strip are
+      impossible to ignore; the figures from the UN suggest that 875 Palestinians had
+      been slaughtered while seeking sustenance as of July 13. The frequency of these
+      “flour massacres” is also receiving comment from those in the employ of the operation
+      being run by GHF, policed by private contractors and the IDF. Retired US special
+      forces officer Anthony Aguilar, who resigned from working with the GHF, told the
+      BBC that he had “witnessed the Israeli Defense Forces shooting at crowds of Palestinians.”
+      During his entire career, he had never seen such “brutality and use of indiscriminate
+      and unnecessary force against a civilian population, an unarmed, starving population.”
+
+
+      The NGO statement goes on to note the rise of cases of acute malnutrition, most
+      prevalent among children and the elderly. (The World Food Programme has warned
+      that one in three Gazans do not eat for days at a time, with 90,000 women and
+      children requiring treatment.) “Illnesses like acute watery diarrhea are spreading,
+      markets are empty, waste is piling up, and adults are collapsing on the streets
+      from hunger and dehydration.”
+
+
+      In the face of this, international law’s decrees appear like the neglected statues
+      of a distant land. The three sets of Provisional Measures Orders from the International
+      Court of Justice, handed down since 2024, have warned Israel to observe its obligations
+      under the UN Genocide Convention and address the humanitarian crisis in the Strip.
+      In its modifying order of provisional measures handed down on March 28, 2024,
+      the ICJ instructed Israel to “take immediate and effective measures to enable
+      the provision of urgently needed basic services and humanitarian assistance to
+      address famine and starvation and the adverse conditions of life faced by Palestinians
+      in Gaza”. These include the provision of “food, water, electricity, fuel, shelter,
+      clothing, hygiene and sanitation requirements, as well as medical supplies and
+      medical care” and “increasing the capacity of land crossing points and maintaining
+      them open for as long as necessary”.
+
+
+      The latest concession from Israel to deal with this engineered humanitarian catastrophe
+      is a promise to open humanitarian corridors to permit UN convoys into the Strip.
+      In addition to that, COGAT, the Israeli military agency overseeing humanitarian
+      affairs in Gaza, has announced that Jordan and the United Arab Emirates will be
+      permitted to parachute humanitarian aid to those in Gaza. UK Prime Minister Sir
+      Keir Starmer has made a small team of British military planners and logisticians
+      available to assist Jordan in this endeavour. On July 27, the IDF also released
+      a statement claiming it had made the first airdrop including “seven packages of
+      aid containing flour, sugar, and canned food”. These efforts, in their practical
+      futility, are a reiteration of the humanitarian airdrops conducted by the US military
+      and Jordan’s air force in March last year.
+
+
+      These drops will do little to alter the cruel, strangulating model of aid delivery
+      in place, emboldening the fittest recipients capable of outpacing their adversaries.
+      Those recipients will also be fortunate not to be injured or killed by the dropped
+      packages, instances of which were recorded in March last year. “Why use airdrops,”
+      asks Juliette Touma, chief spokeswoman for the United Nations agency for Palestinian
+      refugees, “when you can drive hundreds of trucks through the borders?” Using trucks
+      was “much easier, more effective, faster, cheaper.” Precisely why using them is
+      so unappealing to the IDF.
+
+
+      Instead of focusing on isolating Israel, its allies prefer piecemeal approaches
+      that prolong the suffering of the Palestinians. Measures such as those announced
+      by Starmer to “evacuate children from Gaza who need medical assistance, bringing
+      them to the UK for specialist and medical treatment” only serve to encourage the
+      Israeli war machine. The aid drops serve to do much the same. The objective is
+      one of inflicting a sufficient degree of harm that will encourage the eventual
+      depopulation of the enclave. Israel’s allies, with intentional or unintentional
+      complicity, will clean up.'
+    one_sentence_summary: The article critiques Israel's policies in Gaza, highlighting
+      the severe humanitarian crisis caused by a blockade that leads to starvation,
+      violence against civilians, and inadequate international response, while humanitarian
+      organizations call for urgent action to alleviate the suffering of the Palestinian
+      population.
+    paragraph_summary: The article discusses the dire humanitarian crisis in Gaza, exacerbated
+      by Israel's ongoing siege and restrictions that have led to widespread starvation
+      and suffering among the population. Humanitarian organizations, including Doctors
+      Without Borders, have condemned the situation, highlighting that aid workers are
+      now facing starvation themselves while trying to assist others. Despite the availability
+      of supplies outside Gaza, Israeli policies have prevented access, resulting in
+      chaos and death, with reports of massacres occurring at food distribution sites.
+      The International Court of Justice has issued orders for Israel to comply with
+      international humanitarian law, yet the response has been inadequate, with recent
+      promises of limited humanitarian corridors and airdrops that fail to address the
+      root of the crisis. The article argues that these measures merely prolong the
+      suffering of Palestinians and serve to support Israel's military objectives, rather
+      than providing meaningful relief.
+    published: '2025-07-28T05:54:00+00:00'
+  - title: 'Impotent Effusions: The Joint Statement on Gaza'
+    url: https://www.counterpunch.org/2025/07/23/impotent-effusions-the-joint-statement-on-gaza/
+    text: 'Impotence takes various forms. Before the daily massacres, incidents of starvation
+      and dispossession of Palestinians taking place in the Gaza Strip with primeval
+      cruelty, international impotence in the face of actions by the Israeli state has
+      become a mockery of itself. The calls to end the war in Gaza grow in number, even
+      among Israel’s allies, but little in substance is being done about it. What matters
+      are statements that speak to a wounded conscience that do little to alter anything
+      on the ground.
+
+
+      One such statement, released on July 21, proved to be yet another one of those
+      flossy effusions made by, as Macbeth might have said, idiots, full of sound and
+      fury, signifying nothing. The idiots numbered many: 28 international partners,
+      including the foreign ministers of 27 states and, obviously not wanting to miss
+      out, the EU Commissioner for Equality, Preparedness and Crisis Management. All,
+      bar Australia, were from Europe. “We, the signatories listed below, come together
+      with a simple, urgent message: the war in Gaza must end now.”
+
+
+      The statement goes on to mention the drearily obvious. “The Israeli government’s
+      aid delivery model is dangerous, fuels instability and deprives Gazans of human
+      dignity.” The “drip feeding of aid and inhumane killing of civilians, including
+      children, seeking to meet their most basic needs of food and water” deserved condemnation.
+      The deaths of over 800 Palestinians (the numbers are most certainly higher) while
+      seeking aid was “horrifying”. Even here, the language lacked rage. Israel’s “denial
+      of essential humanitarian assistance to the civilian population is unacceptable.”
+      The government “must comply with its obligations under international humanitarian
+      law.”
+
+
+      To that end, Israel was called upon to restore the flow of aid and enable the
+      work of the United Nations and humanitarian NGOs to resume in the Strip. This
+      is obviously something that the Netanyahu government is conscious of avoiding,
+      given the systematic program of controlled starvation and deprivation being inflicted.
+
+
+      To add balance, the statement also notes the plight of the Israeli hostages still
+      held by Hamas, their continued detention also something to be condemned. They
+      were to be immediately and unconditionally released with a negotiated ceasefire
+      being the best way of doing so.
+
+
+      The signatories do go so far as to acknowledge the dangers and intentions of Israel’s
+      administrative measures that seek “territorial or demographic change in the Occupied
+      Palestinian Territories. The E1 settlement plan announced by Israel’s Civil Administration,
+      if implemented, would divide a Palestinian state in two, marking a flagrant breach
+      of international law and critically undermine the two-state solution.” The West
+      Bank is also recognised in similar light, with the signatories urging a cessation
+      to the violence taking place against Palestinians and a halt to the building of
+      settlements across the territory “including East Jerusalem”.
+
+
+      These statements are always interesting for what they omit. No toothy measures
+      to address the maltreatment of Palestinian civilians are stipulated, other than
+      an encouragement of “a common effort to bring this terrible conflict to an end”.
+      A benign, most unthreatening promise is made: the prospect of taking “further
+      action to support an immediate ceasefire and a political pathway to security and
+      peace for Israelis, Palestinians and the entire region.” This may be code for
+      recognition of a Palestinian state, fanciful given the systematic pulverisation
+      of the people who would inhabit it. The signatory list also omits Germany and,
+      most importantly of all, the United States, Israel’s arch guardian and evangelical
+      sponsor.
+
+
+      The US ambassador to Israel, Mike Huckabee, gave us a flavour of feelings in Washington
+      about the signatories in a post on X. “How embarrassing for a nation to side [with]
+      a terror group like Hamas & blame a nation whose civilians were massacred for
+      fighting to get hostages released.” In another post that made a vague shot at
+      justifying the unjustifiable, the ambassador absolved Israel in its conduct; only
+      the militant group Hamas deserved exclusive blame. The nations in question had
+      “put pressure on @Israel instead of savages of Hamas! Gaza suffers for 1 reason:
+      Hamas rejects EVERY proposal. Blaming Israel is irrational.”
+
+
+      The Israeli foreign minister Gideon Sa’ar, ever lurking in the twilight of alternative
+      reality, reasoned the statement away, much as relatives would the views of a demented,
+      unloved aunt. “If Hamas embraces you – you are in the wrong place.” Praise from
+      the group was itself “proof of the mistake they [the signatory countries] made
+      – part of them out of good intentions and part of them out of an obsession against
+      Israel.”
+
+
+      While the various foreign ministers were flashing their plumage of principles
+      and international humanitarian law, the Israeli Defense Forces had busily commenced
+      an operation on a part of Gaza they have yet to level: Deir al-Balah. Given its
+      importance as a humanitarian hub that still houses UN staff and guesthouses, more
+      slaughter is imminent.
+
+
+      Till Israel assumes the status of a pariah state it seemingly craves to become,
+      its rogue army confined and depleted, its economy humbled and isolated, the industrial
+      appetite for slaughter and dispossession will only continue. The Palestinians
+      will be left to be relics of moral anguish, banished to the footnotes of bloodied
+      history along with many more statements of concern and sheer impotence.'
+    one_sentence_summary: The article critiques the ineffectiveness of international
+      statements condemning Israel's actions in Gaza, highlighting the disparity between
+      verbal calls for peace and the lack of meaningful action, while emphasizing the
+      ongoing humanitarian crisis faced by Palestinians amidst the violence.
+    paragraph_summary: The article critiques the international community's ineffective
+      responses to the ongoing violence and humanitarian crisis in Gaza, highlighting
+      a recent statement from 28 international partners calling for an end to the war,
+      which it deems insubstantial and lacking in urgency. While acknowledging the dire
+      situation faced by Palestinians, including the systematic deprivation of aid and
+      the deaths of civilians, the statement fails to propose concrete actions to address
+      these issues, instead offering vague promises of future support for peace. The
+      article notes the absence of key players like the United States and Germany from
+      the signatory list, reflecting a broader trend of diplomatic impotence. It emphasizes
+      that without significant changes in Israel's policies and accountability for its
+      actions, the cycle of violence and suffering will persist, leaving Palestinians
+      marginalized and their plight largely ignored in the global narrative.
+    published: '2025-07-23T05:55:00+00:00'
+  - title: 'Propaganda Siren: Silencing the Voice of America'
+    url: https://www.counterpunch.org/2025/07/22/propaganda-siren-silencing-the-voice-of-america/
+    text: 'In March this year, the Trump administration effectively shuttered the Voice
+      of America, a broadcasting vehicle for the selective promotion of US policy and
+      culture for over eight decades. Nearly all of its 1,300 staff of producers, journalists
+      and assistants, including those working at the US Agency for Global Media, were
+      placed on administrative leave. Kari Lake, President Donald Trump’s appointment
+      to lead the Voice, was unflattering about that “giant rot and burden to the American
+      taxpayer.” Last month, Lake confirmed that layoff notices had been sent to 639
+      employees.
+
+
+      The motivations for attacking VOA were hardly budgetary. The White House cited
+      a number of sources to back the claim that the organisation had become an outlet
+      of “radical propaganda.” VOA veteran Dan Robinson features, calling it “a hubris-filled
+      rogue operation often reflecting leftist bias aligned with partisan national media.”
+      The Daily Caller moaningly remarks that VOA reporters had “repeatedly posted anti-Trump
+      comments on their professional Twitter accounts, despite a social media policy
+      requiring employee impartiality on social media platforms.” The Voice, not aligned
+      with MAGA, had to be silenced.
+
+
+      The measure by Trump drew its inevitable disapproval. VOA director, Michael Abramowitz,
+      stuck to the customary line that his organisation “promotes freedom and democracy
+      around the world by telling America’s story and by providing objective and balanced
+      news and information, especially for those living under tyranny.” Reporters Without
+      Borders condemned the order “as a departure from the US’s historic role as a defender
+      of free information and calls on the US government to restore VOA and urges Congress
+      and the international community to take action against his unprecedented move.”
+
+
+      As with much criticism of Trump’s seemingly impulsive actions, these sentimental
+      views proved misguided and disingenuous. Trump is on uncontentious ground to see
+      the Voice as one dedicated to propaganda. However, he misunderstands most nuttily
+      that the propaganda in question overwhelmingly favours US policies and programs.
+      His quibble is that they are not favourable enough.
+
+
+      Prohibited from broadcasting in the United States, VOA’s propaganda role was always
+      a full-fledged one, promoting the US as a spanking, virtuous brand of democratic
+      good living in the face of garden variety tyrants, usually of the political left.
+      Blemishes were left unmentioned, the role of the US imperium in intervening in
+      the affairs of other countries considered cautiously. Loath to adequately fund
+      domestic public service providers like National Public Radio (NPR), the US Congress
+      was content to fork out for what was effectively an information arm of government
+      sloganeering for Freedom’s Land.
+
+
+      The VOA Charter, drafted in 1960 and signed into law as Public Law 94-350 by President
+      Gerald Ford on July 12, 1976, expressed the view that “The long-range interests
+      of the United States are served by communicating directly with the peoples of
+      the world by radio. To be effective, the Voice of America must win the attention
+      and respect of listeners.” It stipulated various aspirational and at times unattainable
+      aims: be reliable on the news, have authoritative standing, pursue accuracy, objectivity
+      and be comprehensive. America was to be represented in whole and not as any single
+      segment of society, with the VOA representing “a balanced and comprehensive projection
+      of significant American thought and institutions.” US policies would be presented
+      “clearly and effectively” as would “responsible discussions and opinion on these
+      policies.”
+
+
+      The aims of the charter were always subordinate to the original purpose of the
+      radio outlet. The Voice was born in the propaganda maelstrom of World War II,
+      keen to win over audiences in Nazi Germany and its occupied territories. Authorised
+      to continue operating by the Smith-Mundt Act of 1946, it continued its work during
+      the Cold War, its primary task that of fending off any appeal communism might
+      have. Till October 1948, program content was governed under contract with the
+      NBC and CBS radio networks. This troubled some members of Congress, notably regarding
+      broadcasts to Latin America. The US State Department then assumed control, authority
+      of which passed on to the newly created United States Information Agency (USIA).
+
+
+      In such arrangements, the objective of fair dissemination of information was always
+      subject to the dictates of US foreign policy. What mattered most, according to
+      R. Peter Straus, who assumed the directorship of VOA in 1977, was to gather “a
+      highly professional group of people and trying to excite them about making the
+      freest democracy in the world understandable to the rest of the world – not necessarily
+      loved by, nor even necessarily liked by but understood by the rest of the world.”
+      The State Department left an enduring legacy in that regard, with the amalgamation
+      of its Bureau of Educational and Cultural Affairs with the USIA in 1978 during
+      the Carter administration. Furthermore, prominent positions at the Voice tended
+      to be filled by career members of the diplomatic corps.
+
+
+      Given that role, it was rather rich to have the likes of Republican Congresswoman
+      Young Kim of California question Trump’s executive order, worried that closing
+      the Voice would effectively silence a body dedicated to the selfless distribution
+      of accurate information. Accuracy in that sense, alloyed by US interests, would
+      always walk to the dictates of power. Kim errs in assuming that reporting via
+      such outlets, emanating from a “free” society, must therefore be more truthful
+      than authoritarian rivals. “For a long time now, our reporting has not been blocked
+      by adversaries like China, Russia, Iran and North Korea,” she claimed in March.
+      “Now, we are ourselves shutting off the ability to get the information into those
+      oppressed regimes to the people that are dying for the real truth and information.”
+      As such truth and information is curated by an adjunct of the State Department,
+      such people would be advised to be a tad sceptical.
+
+
+      The falling out of favour with Trump, not just of the Voice, but such anti-communist
+      creations of the Cold War like Radio Free Europe, Radio Liberty and Radio Free
+      Asia, is a loss for the propagandists. Arguments that stress the value of their
+      continued existence as organs of veracity in news and accuracy, correctives to
+      the disinformation and misinformation of adversaries, are deludedly slanted. All
+      forms of disinformation and misinformation should be battled and neither the Voice’s
+      critics, nor its fans, seem to understand what they are. VOA and its sister stations
+      could never be relied upon to subject US foreign and domestic policy to rigorous
+      critique. Empires are not in the business of truth but power and effect. Radio
+      stations created in their name must always be viewed with that in mind.'
+    one_sentence_summary: In March 2023, the Trump administration effectively closed
+      the Voice of America, a long-standing US government-funded broadcasting service,
+      citing claims of leftist bias and propaganda, while critics argued that this move
+      undermined the US's historical role in promoting free information globally.
+    paragraph_summary: In March 2023, the Trump administration effectively closed the
+      Voice of America (VOA), a long-standing U.S. broadcasting service, placing most
+      of its 1,300 staff on administrative leave and issuing layoff notices to 639 employees.
+      The administration's criticisms of VOA were framed around claims of "radical propaganda"
+      and leftist bias, particularly in light of anti-Trump sentiments expressed by
+      some reporters. Despite the VOA's stated mission to promote freedom and democracy
+      through objective reporting, critics argue that its operations have historically
+      served U.S. foreign policy interests, often glossing over the country's own shortcomings.
+      The VOA, originally established during World War II, has always operated under
+      the auspices of U.S. government objectives, leading to a complex relationship
+      between its role as a purveyor of information and its function as a tool of U.S.
+      propaganda. The article suggests that the closure of such outlets, while framed
+      as a loss for free information, reflects a deeper misunderstanding of their inherent
+      biases and the nature of truth in the context of state-sponsored media.
+    published: '2025-07-22T05:54:20+00:00'
+  - title: 'Ominous Plans: Making Concentration Camp Gaza'
+    url: https://www.counterpunch.org/2025/07/21/ominous-plans-making-concentration-camp-gaza/
+    text: 'The odious idea of a camp within a camp. The Gaza Strip, with an even greater
+      concentration of Palestinian civilian life within an ever-shrinking stretch of
+      territory. These are the proposals ventured by the Israeli government even as
+      the official Palestinian death toll marches upwards to 60,000. They envisage the
+      placement of some 600,000 displaced and houseless beings currently living in tents
+      in the area of al-Mawasi along Gaza’s southern coast in a creepily termed “humanitarian
+      city”. This would be the prelude for an ultimate relocation of the strip’s entire
+      population of over 2 million in an area that will become an even smaller prison
+      than the Strip already is.
+
+
+      The preparation for such a forced removal – yet another among so many Israel has
+      inflicted upon the Palestinians – is in full swing. The analysis of satellite
+      imagery from the United Nations Satellite Centre (UNOSAT) by Al Jazeera’s Sanad
+      investigations unit found that approximately 12,800 buildings were demolished
+      in Rafah between early April and early July alone. In the Knesset on May 11 this
+      year, Prime Minister Benjamin Netanyahu gave words to those deeds: “We are demolishing
+      more and more [of their] homes, they have nowhere to return to. The only obvious
+      result will be the desire of the Gazans to emigrate outside the Strip.”
+
+
+      Camps of concentrated human life – concentration camps, in other words – are often
+      given a different dressing to what they are meant to be. Authoritarian states
+      enjoy using them to re-educate and reform the inmates even as they gradually kill
+      them. Indeed, the proposals from the Israel’s Defense Department carry with them
+      plans for a “Humanitarian Transit Area” where Gazans would “temporarily reside,
+      deradicalize, re-integrate, and prepare to relocate if they wish to do so”.
+
+
+      The emetic candy floss of “humanitarian” in the context of a camp is a self-negating
+      nonsense similar to other experiments in cruelty: the relocation of Boer civilians
+      during the colonial wars waged by Britain to camps which saw dysentery and starvation;
+      the movement of Vietnamese villagers into fortified hamlets to prevent their infiltration
+      by the Vietcong in the 1960s; the creation of Pacific concentration camps to detain
+      refugees seeking Australia by boat in what came to be called the “Pacific Solution”.
+
+
+      Those in the business of doing humanitarian deeds were understandably appalled
+      by Israel’s latest plans. Philippe Lazzarini, head of the United Nations agency
+      for Palestinian refugees (UNRWA), stated that this would “de facto create massive
+      concentration camps at the border with Egypt for the Palestinians, displaced over
+      and over across generations”. It would certainly “deprive Palestinians of any
+      prospects of a better future in their homeland.” Self-evidently and sadly, that
+      would be one of the main aims.
+
+
+      A few of Israeli’s former Prime Ministers have ditched the coloured goggles in
+      considering the plans for such a mislabelled city. Yair Lapid, who spent a mere
+      six months in office in 2022, told Israeli Army Radio that it was “a bad idea
+      from every possible perspective – security, political, economic, logistical”.
+      While preferring not to use the term “concentration camp” with regards such a
+      construction, incarcerating individuals by effectively preventing their exit would
+      make such a term appropriate.
+
+
+      Ehud Olmert’s words to The Guardian were even less inclined to varnish the matter.
+      “If they [the Palestinians] will be deported into the new ‘humanitarian city’,
+      then you can say that this is part of an ethnic cleansing”. To create a camp that
+      would effectively “clean” more than half of Gaza of its population could hardly
+      be understood as a plan to save Palestinians. “It is to deport them, to push and
+      to throw them away. There is no other understanding that I have at least.”
+
+
+      Israeli political commentator Ori Goldberg was also full of candour in expressing
+      the view that the plan was “for all facts and purposes a concentration camp” for
+      Gaza’s Palestinians, “an overt crime against humanity under international humanitarian
+      law”. This would also add the burgeoning grounds of illegality already being alleged
+      in this month’s petition by three Israeli reserve soldiers of Israel’s Supreme
+      Court questioning the legality of Operation Gideon’s Chariots. Instancing abundant
+      examples of forced transfer and expulsions of the Palestinian population during
+      its various phases, commentators such as former chief of staff of the IDF, Moshe
+      “Bogy” Ya’alon, are unreserved about how such programs fare before international
+      law. “Evacuating an entire population? Call it ethnic cleansing, call it transfer,
+      call it deportation, it’s a war crime,” he told journalist Lucy Aharish. “Israel’s
+      soldiers had been sent in “to commit war crimes.”
+
+
+      There is also some resistance from within the IDF, less on humanitarian grounds
+      than practical ones. To even prepare such a plan in the midst of negotiations
+      for a lasting ceasefire and finally resolving the hostage situation was the first
+      telling problem. The other was how the IDF could feasibly undertake what would
+      be a grand jailing experiment while preventing the infiltration of Hamas.
+
+
+      This ghastly push by the Netanyahu government involves an enormous amount of wishful
+      thinking. Ideally, the Palestinians will simply leave. If not, they will live
+      in even more carceral conditions than they faced before October 2023. But to assume
+      that this cartoon strip humanitarianism, papered over a ghoulish program of inflicted
+      suffering, will add to the emptying well of Israeli security, is testament to
+      how utterly desperate, and delusionary, the Israeli PM and his cabinet members
+      have become.'
+    one_sentence_summary: The Israeli government's proposal to create a "humanitarian
+      city" for displaced Palestinians in Gaza, which would effectively function as
+      a concentration camp, has drawn widespread condemnation for its potential to further
+      entrench ethnic cleansing and violate international law amid an ongoing humanitarian
+      crisis.
+    paragraph_summary: The Israeli government's proposal to create a "humanitarian city"
+      in the Gaza Strip, intended to house around 600,000 displaced Palestinians in
+      a confined area, has drawn widespread condemnation and comparisons to concentration
+      camps. With the Palestinian death toll exceeding 60,000, the plan involves forcibly
+      relocating Gaza's population of over 2 million into an even smaller, prison-like
+      space, effectively stripping them of any hope for a better future. Critics, including
+      former Israeli leaders and humanitarian organizations, argue that this initiative
+      represents ethnic cleansing and a violation of international law, as it aims to
+      further displace Palestinians while masking the reality of their suffering under
+      the guise of humanitarian aid. The proposal has faced internal resistance within
+      the Israeli Defense Forces, highlighting the impracticality of executing such
+      a plan amidst ongoing conflicts. Ultimately, the initiative reflects a desperate
+      and delusional mindset among Israeli leadership, prioritizing security over humanitarian
+      considerations.
+    published: '2025-07-21T05:54:48+00:00'
   - title: 'K-Defense Day: Pimping for the Arms Dealers'
     url: https://www.counterpunch.org/2025/07/14/k-defense-day-pimping-for-the-arms-dealers/
     text: 'Militarism is catching on across the countries of advanced economies and

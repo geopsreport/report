@@ -7,16 +7,54 @@ description: "Former Canadian diplomat in Moscow; independent analyst of Russia�
 websites:
   - https://patrickarmstrong.ca/
 summary: |
-  Recent geopolitical developments continue to challenge long-held assumptions about Western military and diplomatic dominance, with significant implications for ongoing conflicts and alliance cohesion.
+  The ongoing geopolitical landscape remains shaped by persistent tensions between Russia and the West, the evolving dynamics of the Israel-Iran conflict, and questions over NATO’s credibility and strategic direction. Recent analysis continues to highlight the disconnect between public narratives and underlying realities, with skepticism mounting over Western policy coherence and military effectiveness.
   
-  The Israel-Iran conflict has entered a new phase following what **Patrick Armstrong** describes as "theatrical displays" from both sides, with Donald Trump brokering a temporary halt to hostilities. However, skepticism remains high regarding the durability of this pause and the true extent of damage within Israel. Armstrong notes that Iran's demonstrated military capabilities, particularly with drones and hypersonic missiles, have exceeded Western expectations, raising doubts about Israel's intelligence and the effectiveness of U.S. and Israeli military actions. There is a growing consensus among analysts that the West's traditional confidence in its military superiority is being eroded, with Armstrong predicting that "the damage in Israel will be more significant than reported" and that the perception of Western invulnerability is "increasingly being challenged."
+  A key theme in the latest commentary is the enduring nature of Western hostility towards Russia. **Patrick Armstrong** notes that anti-Russian sentiment, particularly in Britain, has deep historical roots, with contemporary narratives echoing those of the Crimean War era. He points out that “the West's narrative remains largely unchanged, suggesting a persistent bias that may indeed validate Russian claims of enduring Western hostility.” This perspective is gaining traction among analysts, who argue that current policy decisions are often informed by entrenched attitudes rather than objective assessments.
   
-  Within NATO, recent statements by the Secretary General have drawn criticism for invoking historical analogies to the Roman Empire and Napoleon. Armstrong humorously questions the competence of NATO's advisors, suggesting that such rhetoric may inadvertently highlight the alliance's vulnerabilities rather than its strengths. This comes amid broader concerns about NATO's ability to adapt to modern threats, particularly given the ongoing resource drain from the Ukraine conflict.
+  Turning to the Middle East, the Israel-Iran conflict has entered a new phase marked by what Armstrong describes as “theatrical displays” and “prestidigitation.” The recent temporary halt to hostilities, brokered by Donald Trump, is viewed with skepticism. Armstrong asserts that Iran’s demonstrated military capabilities—particularly in drones and hypersonic missiles—have exceeded prior Western estimates, challenging assumptions about Israel’s security and the effectiveness of U.S. and NATO support. He predicts, with high confidence, that the damage to Israel is “more significant than reported” and that the West’s belief in its own military superiority is being seriously tested.
   
-  On the Russia-West front, Armstrong's analysis underscores a persistent pattern of Western hostility toward Russia, rooted in historical narratives that have changed little over centuries. Drawing on Orlando Figes' work on the Crimean War, Armstrong points out that the portrayal of Russia as a perennial threat continues to shape policy and public opinion, validating Russian claims of enduring Western antagonism.
+  Meanwhile, NATO’s internal debates and public messaging reflect growing uncertainty. Recent statements by the Secretary General, invoking historical analogies to the Roman Empire and Napoleon, have drawn criticism for their lack of historical awareness and strategic insight. Armstrong humorously questions the competence of NATO’s leadership, suggesting that calls for increased funding are undermined by poor communication and a failure to learn from history.
   
-  Looking ahead, the prevailing trend is a steady erosion of Western strategic confidence and cohesion, with high confidence that the West will face increasing challenges to its military and diplomatic assumptions. Armstrong asserts that "the West's historical confidence in its military superiority is increasingly being challenged," and there is a high chance that NATO will continue to struggle with both internal coherence and external credibility. The temporary halt in the Israel-Iran conflict is unlikely to lead to a lasting resolution, and the broader pattern of Western-Russian antagonism is set to persist, shaping global alignments and security calculations in the months ahead.
+  Looking ahead, the prevailing trend is one of increasing skepticism towards Western narratives and a recognition of shifting power balances. There is a high chance that the West will continue to struggle with the realities of industrial warfare and logistics, particularly in Ukraine, where Russia’s manufacturing base outpaces that of NATO countries. Armstrong concludes that unless Western policymakers adapt to these new realities, their strategic position will continue to erode. Most definitely, the coming months will see further challenges to established assumptions about military power and alliance cohesion.
 articles:
+  - title: TRUMP RUSSIA
+    url: https://patrickarmstrong.ca/2025/07/23/trump-russia/
+    text: I ‘m glad to say that I wasn’t taken in December 2017 https://patrickarmstrong.ca/2017/12/22/it-doesnt-make-any-sense/
+      April 2019 https://patrickarmstrong.ca/2019/04/18/putin-derangement-syndrome-after-mueller/
+      April 2021 https://patrickarmstrong.ca/2021/04/07/theyre-not-even-trying-to-make-sense-now/
+    one_sentence_summary: The articles by Patrick Armstrong reflect his skepticism towards
+      mainstream narratives regarding political events, particularly focusing on the
+      perceived irrationality and biases in the discourse surrounding Russia and its
+      leaders over several years.
+    paragraph_summary: The article reflects on the author's perspective regarding various
+      political events and narratives surrounding Russia and its leadership over the
+      years, particularly focusing on the phenomenon of "Putin Derangement Syndrome."
+      The author expresses relief at not being swayed by prevailing sentiments in December
+      2017, critiques the lack of logical consistency in political discourse as observed
+      in April 2019 and April 2021, and highlights a growing disconnection from rational
+      analysis in discussions about Russia. Overall, the piece emphasizes the author's
+      skepticism towards mainstream narratives and the importance of critical thinking
+      in understanding complex geopolitical issues.
+    published: '2025-07-23T21:40:40+00:00'
+  - title: TRUMP RUSSIA
+    url: https://patrickarmstrong.ca/2025/07/23/trump-russia/
+    text: I ‘m glad to say that I wasn’t taken in December 2017 https://patrickarmstrong.ca/2017/12/22/it-doesnt-make-any-sense/
+      April 2019 https://patrickarmstrong.ca/2019/04/18/putin-derangement-syndrome-after-mueller/
+      April 2021 https://patrickarmstrong.ca/2021/04/07/theyre-not-even-trying-to-make-sense-now/
+    one_sentence_summary: The articles by Patrick Armstrong reflect his skepticism towards
+      mainstream narratives regarding political events, particularly focusing on the
+      perceived irrationality and biases in the discourse surrounding Russia and its
+      leaders over several years.
+    paragraph_summary: The article reflects on the author's perspective regarding various
+      political events and narratives surrounding Russia and its leadership over the
+      years, particularly focusing on the phenomenon of "Putin Derangement Syndrome."
+      The author expresses relief at not being swayed by prevailing sentiments in December
+      2017, critiques the lack of logical consistency in political discourse as observed
+      in April 2019 and April 2021, and highlights a growing disconnection from rational
+      analysis in discussions about Russia. Overall, the piece emphasizes the author's
+      skepticism towards mainstream narratives and the importance of critical thinking
+      in understanding complex geopolitical issues.
+    published: '2025-07-23T21:40:40+00:00'
   - title: 'TRUMPERY: MAKING SOMETHING OUT OF HOT AIR AND PRESTIDIGITATION.'
     url: https://patrickarmstrong.ca/2025/06/24/trumpery-making-something-out-of-hot-air-and-prestidigitation/
     text: 'My goodness! Trump’s done it again. From a mess of bloviation, trash talking,

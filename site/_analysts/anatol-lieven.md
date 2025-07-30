@@ -8,26 +8,233 @@ websites:
   - https://responsiblestatecraft.org/author/alieven/
   - https://quincyinst.org/author/anatol-lieven/
 summary: |
-  As the NATO Summit in The Hague approaches (June 24-25), the Ukraine war remains the central issue shaping transatlantic relations and wider European security. The Trump administration faces mounting pressure to present a comprehensive U.S. peace plan that addresses not only a ceasefire but also the broader complexities of the conflict, as highlighted by **Anatol Lieven**. This comes amid growing European assertiveness, particularly through new EU sanctions targeting Russia’s “shadow fleet” of oil tankers—measures that risk direct confrontation with Moscow and have been enacted without U.S. consultation.
+  Amid ongoing global instability, the Arctic has re-emerged as a focal point for both cooperation and competition among major powers. Historically a zone of peaceful collaboration, the region is now experiencing heightened militarization and geopolitical rivalry, particularly following the Ukraine war. According to **Anatol Lieven**, participants at a recent Quincy Institute and Arctic Institute conference stressed that "the greatest threat to the Arctic stems from climate change rather than military rivalry." The workshop underscored the urgent need to reconnect climate and security agendas, proposing geo-engineering and renewed dialogue with Russia as essential steps to restore "Arctic exceptionalism." There is a high chance that, without such cooperation, the region will see further destabilization due to both environmental and military pressures.
   
-  **Peace Plan Imperatives and U.S. Leverage**
+  Turning to the Ukraine conflict, diplomatic efforts remain stalled. Despite calls for a comprehensive U.S.-led peace plan, both Kyiv and Moscow continue to advance incompatible demands. **Anatol Lieven** notes that "recent talks in Istanbul between Ukraine and Russia reveal a stark lack of mutual interest in achieving peace," with each side holding firm on territorial and security preconditions. The prevailing view is that only strong U.S. intervention—articulating clear terms and leveraging sanctions relief—could move negotiations forward. There is a high chance that, absent such mediation, the war will persist along current frontlines, with continued risk of escalation.
   
-  According to **Anatol Lieven**, the U.S. must articulate clear negotiation terms for Ukraine and Russia, including a ceasefire along current battle lines, future talks on territorial status, mutual pledges against aggression, and conditional sanctions relief. The Trump administration is advised to clarify that continued U.S. support for Ukraine depends on Kyiv and Brussels’ acceptance of these terms, while also outlining consequences for Russian non-compliance. This approach is designed to create a realistic path to peace and maintain Ukraine’s defensive capabilities, even as both Kyiv and Moscow remain entrenched in incompatible positions. There is a high chance that without robust U.S. engagement, peace prospects will remain bleak.
+  Meanwhile, the European Union's aggressive sanctions targeting Russia's "shadow fleet" of oil tankers have introduced new risks. Sweden’s plan to inspect and potentially seize Russian-linked vessels in its waters could disrupt trade routes and provoke direct confrontation. **Anatol Lieven** warns that "European policymakers may be underestimating the risks involved," especially as these actions were taken without U.S. consultation. Should Russia retaliate militarily, the U.S. will face a difficult choice between supporting European allies and managing broader strategic relationships, particularly with India. There is a high chance that these measures will increase tensions, but a direct military clash remains unlikely unless further provocations occur.
   
-  **Escalating Risks from European Sanctions**
-  
-  The EU’s recent move to sanction and potentially seize Russian “shadow fleet” oil tankers—especially Sweden’s plans to inspect vessels in its economic zone—has heightened the risk of direct military confrontation. **Lieven** warns that these actions could provoke aggressive Russian responses, particularly if hardliners in Moscow perceive Western moves as existential threats. The lack of U.S. consultation on these measures complicates Washington’s position, potentially straining relations with both European allies and partners like India. There is a high chance that further escalation could draw the U.S. into a crisis not of its own making, underscoring the need for Washington to clarify its stance.
-  
-  **Stalled Peace Talks and the Need for U.S. Mediation**
-  
-  Recent Istanbul talks between Ukraine and Russia have revealed a persistent lack of interest in genuine compromise, with both sides presenting mutually exclusive demands. **Lieven** emphasizes that only strong U.S. intervention—anchored in a comprehensive peace plan—can break the deadlock. The risk of continued hostilities escalating into direct NATO-Russia confrontation remains significant, especially as European actions become more assertive.
-  
-  **Trends and Predictions**
-  
-  The dominant trend is the increasing divergence between U.S. and European approaches to Russia, with Europe taking bolder unilateral actions that risk escalation. The U.S. is likely to face mounting pressure to mediate and restrain both sides, especially as the NATO Summit looms. There is a high chance that the Trump administration will attempt to assert leadership by proposing a detailed peace framework, but success will depend on buy-in from both European allies and Ukraine.
-  
-  Looking ahead, I guarantee that without a coordinated and realistic U.S.-led peace initiative, the conflict will continue to pose grave risks of escalation, both militarily and politically, for Europe and the broader transatlantic alliance.
+  In summary, the geopolitical landscape remains volatile, with the Arctic, Ukraine, and European-Russian relations all at critical junctures. The majority of analysts agree that without renewed diplomatic engagement—especially from the U.S.—the risks of escalation and long-term instability will persist. Most definitely, restoring channels for dialogue and focusing on shared security challenges, particularly climate change, are essential to prevent further deterioration in these key regions.
 articles:
+  - title: 'Restoring Arctic Exceptionalism: The Path Toward Sustainable Cooperation'
+    url: https://quincyinst.org/research/restoring-arctic-exceptionalism-the-path-toward-sustainable-cooperation/
+    text: 'On June 11–12, 2025, the Quincy Institute for Responsible Statecraft and
+      the Arctic Institute jointly hosted a workshop and conference between diplomats,
+      experts, Indigenous leaders, scientists, and officials from Arctic nations. The
+      purpose of the workshop and conference was to “restore Arctic exceptionalism”
+      — prevent the militarization of the region, find and pursue opportunities for
+      cooperation between the Arctic’s major powers, and navigate the immediate threat
+      of climate change. This document is a summary of the gathering’s discussions and
+      findings.
+
+
+      From Murmansk to Rovaniemi: The deterioration of Arctic relations
+
+
+      For nearly 30 years, the Arctic has been deemed “exceptional” because the region
+      remained insulated from traditional geopolitical competition. This exceptionalism
+      stemmed from the late Soviet leader Mikhail Gorbachev’s 1987 speech in Murmansk
+      calling for the Arctic to be a “zone of peace.” Gorbachev also called for circumpolar
+      cooperation, demilitarization, and the convening of a “joint Arctic research council,”
+      which went on to inspire the founding of the Arctic Council in 1996. For the majority
+      of the post–Cold War period, the Arctic met Gorbachev’s vision: flourishing as
+      a site for scientific collaboration, Indigenous leadership, and with an absence
+      of military competition.
+
+
+      The political fallout of the war in Ukraine, however, abruptly put an end to the
+      region’s insulation from the conventional demands of geopolitics; in 2022, the
+      Arctic Council’s seven Western member states temporarily suspended full meetings
+      of the Council, leading to declarations that Arctic exceptionalism was dead, disrupted,
+      or corrupted. This suspension was, unfortunately, not the first but rather the
+      most significant and recent break from Arctic exceptionalism.
+
+
+      For years, climate change — and the melting of the Arctic’s prehistoric ice —
+      was no longer a distant threat but an urgent issue changing the geography, lives,
+      and livelihoods of the people in the region. Disputes over climate change, and
+      the question of what to do about it, also led to rifts among the Arctic’s previously
+      cooperative major powers. In 2019, the Arctic Council’s ministerial meeting in
+      Rovaniemi, Finland, failed to produce a joint declaration because then–U.S. Secretary
+      of State Mike Pompeo disagreed with using the term “climate change” in the proposed
+      document.
+
+
+      At the same time, militarization of the region began to rear its ugly head again;
+      rivalry between the United States, Russia, and China intensified, and the Arctic’s
+      melting ice opened up previously inaccessible areas to commercial and military
+      competition. Russia began holding military exercises designed to protect the Northern
+      Sea Route and upgraded the administrative status of its Northern Fleet, establishing
+      the Northern Military District in 2021, which was later subsumed into the larger,
+      reestablished Leningrad Military District following Finland’s accession into NATO
+      in 2023. Russia and China signed a cooperation agreement between their coast guards
+      in 2023 and jointly flew bombers within the Alaskan Air Identification Zone in
+      2024. The United States, for its part, has indicated interest in annexing Greenland
+      for its natural resources and strategic location, as well as Canada. Finland’s
+      and Sweden’s accession into NATO, and the United States’ bilateral defense agreements
+      with those states, has also shifted the Arctic’s balance of power.
+
+
+      Arctic relations today are in transition. Militarization and competition are increasing
+      but are not yet permanent fixtures. There is the opportunity — if taken advantage
+      of — to reverse this downward trajectory and restore Arctic exceptionalism.
+
+
+      The interconnection of climate change and securitization in the Arctic
+
+
+      Climate change and security, often treated as separate and distinct fields, are
+      inextricably linked in the Arctic. As noted above, it is the Arctic’s changing
+      climate — warming three to four times faster than the rest of the planet — that
+      is leading to new areas and forms of military competition in the region. It is
+      vital, therefore, that Washington incorporate a climatological perspective when
+      assessing its interests and formulating a comprehensive Arctic policy.
+
+
+      Indeed, while the risks from traditional geopolitical competition in the Arctic
+      are significant and growing, the greatest security threat emanating from the Arctic
+      is, in fact, the global ramifications of climate change. The warming of the Earth’s
+      atmosphere, increase in the oceans’ temperature, melting of the Greenland ice
+      sheet, and the release of methane from the Arctic’s permafrost are the most significant
+      concerns that conference participants discussed. The repercussions of these catastrophic
+      phenomena will reverberate from Murmansk to Rovaniemi and Miami to Dhaka. Fundamentally,
+      cooperation, not conflict, must serve as the basis of interaction between the
+      Arctic’s major powers if the region’s exceptionalism is to be restored.
+
+
+      Unfortunately, consistent and serious international cooperation in slowing the
+      warming of the Earth’s atmosphere has been lacking. As a result, alternative measures
+      to counter, rather than prevent, the effects of climate change are growing and
+      could provide potentially fruitful areas for international collaboration. Geo-engineering,
+      in particular, is becoming a more viable consideration, even for those once decidedly
+      opposed. As one workshop participant remarked, “Five years ago, I wouldn’t have
+      even countenanced geo-engineering given its potential risks. Now, however, we
+      are at such a point where not pursuing at least further research in this direction
+      is too risky.” Such dangers will only increase if individual countries introduce
+      separate and competitive geo-engineering programs. International cooperation in
+      research and, if necessary, development by the Western Arctic countries must therefore
+      be carried out with Russia and China.
+
+
+      Serious engagement with any form of testing and deployment thus requires more
+      integrated “system thinking” as well as more eco-responsible policies and practices
+      aligned with planetary limitations. Participants expressed fears that, as in other
+      regional contexts, deployment of geo-engineering technologies and infrastructure
+      in the Arctic may lead to an unbalanced discussion that ultimately foregoes adaptation
+      and mitigation technologies. However, while discussion of geo-engineering was
+      frowned upon in the past, it is now incumbent on the Arctic community to consider
+      the prospects and concerns of potential climate interventions. The far-reaching
+      repercussions of continued climate change in the Arctic ought to inspire a pragmatic
+      and positive cooperative vision for the future of the region, rather than the
+      current cynicism and confrontation.
+
+
+      Addressing the Arctic’s securitization problem
+
+
+      Fundamentally, the path to resumed and improved Arctic cooperation runs through
+      engagement with Moscow, the region’s most established power. Russia controls over
+      50 percent of the Arctic’s total coastline, maintains the region’s largest military
+      presence, and is working to grow its already-extensive commercial interests via
+      the expansion of the Northern Sea Route. As the Trump administration has rightly
+      recognized, continued hostility between the West and Russia also empowers China
+      and offers Beijing opportunities it may otherwise not have, often at the expense
+      of Washington. This includes China’s increasing presence in the Arctic, which
+      Beijing has developed both in cooperation with and independently of Moscow. China
+      has maintained a presence in the Arctic over the past couple of decades, though
+      that presence has quickly expanded since the 2010s. China was granted observer
+      status on the Arctic Council in 2013 and Beijing released its first-ever white
+      paper on Arctic policy in 2018.
+
+
+      While China’s declared interests in the region center on conservation, economic
+      opportunities, fisheries, and scientific research, the brewing global competition
+      between Beijing and Washington has led to greater security-related concerns in
+      the Arctic, as several Chinese and American participants noted. For example, Russia
+      and China have used the former’s lengthy Arctic coastline and fleet of nuclear-powered
+      icebreakers to engage in large-scale economic projects across the region — part
+      of China’s effort to develop what it calls the Polar Silk Road. As discussed above,
+      Russia and China have also strengthened their Arctic military collaboration. Though
+      there are opportunities for selective cooperation with Beijing on fisheries, conservation,
+      and scientific research in the region, the securitization crisis is likely to
+      dominate relations between the West, Russia, and China in the Arctic if relations
+      do not improve.
+
+
+      Successive U.S. administrations have sought improved relations with Russia by
+      attempting to build the relationship from the bottom up, focusing on relatively
+      minor matters where Washington has believed it possessed mutual interests with
+      Moscow. Yet this approach has failed to stabilize the relationship, as it has
+      left aside the most significant — and potentially disruptive — areas of disagreement.
+      Those issues have often boiled over and ended any possibility of a genuine rapprochement.
+
+
+      Until the United States and Russia address their fundamental differences over
+      European security, collaborative efforts in the Arctic and elsewhere are likely
+      to fall flat. The Trump administration has indicated interest in a more consistent
+      working relationship with Russia and has attempted, so far in vain, to end the
+      war in Ukraine as part of that ambition. Recent tensions over the inability to
+      negotiate a ceasefire in Ukraine — partly as a result of the administration’s
+      unwillingness to engage Russia on questions of strategic importance — has threatened
+      the potential for a thaw. Still, the administration’s efforts to resume dialogue
+      with Russia is an important and positive step. In the meantime, however, Arctic
+      exceptionalism remains frozen — though, crucially not yet dead.
+
+
+      Conclusion
+
+
+      At present, the securitization of the Arctic is driving attention to and engagement
+      in the region. However, the underlying motivations for continuing Arctic exceptionalism
+      have only become more salient. The shifting landscape of the region — caused by
+      the effects of unabated climate change — is a principal source of the increasing
+      security challenges confronting all Arctic stakeholders. Merely pursuing policies
+      that exacerbate regional insecurity and heighten military tensions without addressing
+      the actual drivers of this tension will not lead to successful end results. An
+      opportunity remains to arrest this negative spiral toward increased confrontation,
+      but it will require incorporating a climatological perspective into any comprehensive
+      Arctic policy. In addition, and more challengingly, it will necessitate effective
+      collaboration among Americans, Europeans, Russians, Chinese, and others.
+
+
+      Ultimately, it is the global ramifications of climate change that pose the greatest
+      security risks for all nations. While the most catastrophic consequences of climate
+      change are ostensibly problems for the distant future, the reality is that states
+      are already confronting the security questions arising from these challenges.
+      At a time of international upheaval and uncertainty, the securitization of the
+      Arctic may appear a foregone conclusion. Thankfully, however, history suggests
+      that the Arctic and its exceptional qualities may still yet prove to be a region
+      where traditional geopolitical concerns remain on the periphery.
+
+
+      Therefore, it is in every state’s interest to see a full resumption of the Arctic
+      Council alongside a decrease in regional tensions between the United States, Russia,
+      and China. Only once these prerequisites have been fulfilled will global actors
+      be able to work collaboratively to decrease climatological risks in the Arctic
+      and ensure that the region preserves its storied exceptionalism.'
+    one_sentence_summary: A workshop and conference hosted by the Quincy Institute and
+      the Arctic Institute in June 2025 aimed to restore Arctic exceptionalism by addressing
+      the militarization of the region, fostering cooperation among Arctic nations,
+      and tackling the urgent threat of climate change, amidst a backdrop of deteriorating
+      geopolitical relations exacerbated by the war in Ukraine.
+    paragraph_summary: On June 11–12, 2025, the Quincy Institute for Responsible Statecraft
+      and the Arctic Institute convened a workshop and conference aimed at "restoring
+      Arctic exceptionalism" by fostering cooperation among Arctic nations, addressing
+      climate change, and preventing militarization in the region. Historically, the
+      Arctic has been characterized by collaboration and peace, a vision articulated
+      by Mikhail Gorbachev in 1987, but recent geopolitical tensions, particularly following
+      the war in Ukraine, have undermined this exceptionalism, leading to increased
+      militarization and competition among the U.S., Russia, and China. The conference
+      highlighted the urgent need to link climate change and security, emphasizing that
+      the greatest threat to the Arctic stems from climate change rather than military
+      rivalry. Participants called for renewed international cooperation to address
+      climate issues and proposed exploring geo-engineering as a potential solution,
+      while also recognizing the necessity of engaging with Russia to stabilize Arctic
+      relations. Ultimately, the document stresses that restoring Arctic exceptionalism
+      is crucial for addressing the significant security challenges posed by climate
+      change and that collaborative efforts among Arctic stakeholders are essential
+      for a sustainable future in the region.
+    published: '2025-07-28T13:00:00+00:00'
   - title: The 17 Ukraine war peace terms the US must put before NATO
     url: https://responsiblestatecraft.org/nato-summit/
     text: 'In the run up to the NATO Summit at The Hague next week, June 24-25, President

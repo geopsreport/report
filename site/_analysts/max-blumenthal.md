@@ -7,16 +7,64 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  As of July 23, 2025, the geopolitical landscape remains highly volatile, with new revelations and shifting alliances shaping the global order. The most recent developments highlight deepening crises in Bolivia, ongoing fallout from Western interventionism, and the increasing entanglement of political influence and corporate interests in conflict zones.
+  Recent reporting continues to highlight the deep entanglement of intelligence agencies, political influence operations, and the ongoing militarization of foreign and domestic policy in the US and its allies. Over the last weeks, scrutiny has intensified regarding the use of security narratives to surveil and marginalize dissenting voices, as well as the growing influence of private and state-linked actors in shaping both policy and public perception.
   
-  In Bolivia, former President Evo Morales has come forward with leaked evidence exposing corruption within the electoral council. According to **Max Blumenthal**, Morales revealed that a council member accepted bribes to disqualify him from the presidential race, framing the current turmoil as a "second coup." Morales emphasized his enduring popularity and the persistent mobilization of his supporters despite institutional obstacles. This disclosure adds a new layer to Bolivia’s political instability, suggesting that external and internal actors are actively undermining democratic processes. Given Morales’s strong base and the credibility of the leaked evidence, there is a high chance of renewed mass mobilizations and further polarization in Bolivia’s political landscape.
+  The latest revelations from **Max Blumenthal** show that the FBI surveilled a 2018 panel featuring The Grayzone’s own journalists, including Blumenthal and Anya Parampil. This surveillance, justified under the Trump-Russia collusion narrative, underscores a broader pattern where intelligence agencies target anti-establishment figures and journalists. Blumenthal notes that such actions raise “serious concerns about the weaponization of national security claims to suppress dissent,” a sentiment echoed by civil liberties advocates.
   
-  Meanwhile, the intersection of Western political elites and the Gaza conflict continues to draw scrutiny. **Blumenthal** reports that a mercenary firm implicated in abuses in Gaza has hired a PR agency staffed by former Biden and Obama officials, while a former State Department spokesperson now represents Israel’s Foreign Ministry. This development underscores the revolving door between government, lobbying, and crisis PR, raising ethical questions about accountability and the shaping of public narratives around the conflict. The majority of analysts agree that such arrangements will likely deepen public skepticism toward official statements on Gaza and may fuel further calls for transparency and oversight.
+  In Bolivia, former President Evo Morales has provided new evidence of corruption within the electoral council, specifically implicating a member who allegedly accepted bribes to disqualify Morales from running for president. In an interview with The Grayzone, Morales described the ongoing political crisis as a “second coup,” emphasizing both the persistence of external interference and his continued popularity among grassroots supporters. This development points to a likely period of heightened instability in Bolivia, with Morales’ movement remaining a significant force.
   
-  In the United States, domestic policy is being shaped by the prioritization of military and surveillance interests over social spending. Trump's proposed budget bill, as detailed by **Blumenthal**, slashes $1.7 trillion from domestic programs, including significant reductions in veterans’ funding, to benefit arms manufacturers and AI surveillance firms. This shift reflects a broader trend of militarization and corporate consolidation within the US political economy. There is high confidence that this approach will exacerbate social tensions domestically and reinforce the influence of the military-industrial complex on US foreign policy.
+  Meanwhile, the aftermath of the Trump administration’s budget proposals continues to reverberate. According to **Blumenthal**, the so-called “BBB” bill slashes domestic and veterans’ funding by $1.7 trillion, redirecting resources to major arms manufacturers and AI surveillance firms. This shift signals a prioritization of military-industrial interests over social welfare, a trend that is “most definitely” set to accelerate given the current political climate in Washington.
   
-  Looking ahead, the convergence of political, corporate, and intelligence interests in both domestic and international arenas is set to intensify. The majority view among independent analysts is that these trends will most definitely lead to increased public distrust in institutions and further instability in regions where Western intervention and private military actors are active. In Bolivia, the exposure of electoral corruption is quite likely to trigger new waves of protest and international scrutiny. In the US and Gaza, the entanglement of political elites with conflict profiteering is expected to remain a major source of controversy and resistance.
+  Looking ahead, the convergence of intelligence agency overreach, privatized militarism, and political influence operations is expected to deepen. There is high confidence that surveillance of dissent and the marginalization of anti-establishment voices will persist, while the intertwining of corporate, intelligence, and political interests—especially around issues like Gaza, Iran, and Latin America—will continue to shape global and domestic policy outcomes. The majority of independent analysts agree: these trends are not only entrenched but are likely to intensify in the near term.
 articles:
+  - title: FBI surveilled 2018 ‘Russia & Wikileaks’ panel featuring The Grayzone, files
+      show
+    url: https://thegrayzone.com/2025/07/24/fbi-surveilled-2018-russia-wikileaks-panel-featuring-the-grayzone-files-show/
+    text: Russiagate hysteria led the FBI to spy on a panel featuring The Grayzone’s
+      Max Blumenthal and Anya Parampil. As Blumenthal warned during the discussion,
+      the bogus Trump-Russia collusion narrative was exploited to target a wide range
+      of anti-establishment figures. “Russiagate, one of the principal reasons that
+      I oppose it – and why I called it out from the beginning – is that while it seems
+      to be directed at Trump, it’s going to go beyond Trump and it will be […] The
+      post FBI surveilled 2018 ‘Russia & Wikileaks’ panel featuring The Grayzone, files
+      show first appeared on The Grayzone . The post FBI surveilled 2018 ‘Russia & Wikileaks’
+      panel featuring The Grayzone, files show appeared first on The Grayzone .
+    one_sentence_summary: The FBI surveilled a 2018 panel featuring The Grayzone's Max
+      Blumenthal and Anya Parampil, highlighting concerns that the Trump-Russia collusion
+      narrative was used to target various anti-establishment figures.
+    paragraph_summary: The article discusses how the FBI conducted surveillance on a
+      2018 panel featuring Max Blumenthal and Anya Parampil, which focused on the themes
+      of Russia and Wikileaks. Blumenthal criticized the Trump-Russia collusion narrative,
+      asserting that it was not only aimed at Trump but also targeted a broader spectrum
+      of anti-establishment figures. He emphasized that the implications of the Russiagate
+      hysteria extend beyond Trump, affecting various dissenting voices. The article
+      highlights concerns about the misuse of the Russiagate narrative to justify surveillance
+      and repression of political dissent.
+    published: '2025-07-24T23:06:15+00:00'
+  - title: FBI surveilled 2018 ‘Russia & Wikileaks’ panel featuring The Grayzone, files
+      show
+    url: https://thegrayzone.com/2025/07/24/fbi-surveilled-2018-russia-wikileaks-panel-featuring-the-grayzone-files-show/
+    text: Russiagate hysteria led the FBI to spy on a panel featuring The Grayzone’s
+      Max Blumenthal and Anya Parampil. As Blumenthal warned during the discussion,
+      the bogus Trump-Russia collusion narrative was exploited to target a wide range
+      of anti-establishment figures. “Russiagate, one of the principal reasons that
+      I oppose it – and why I called it out from the beginning – is that while it seems
+      to be directed at Trump, it’s going to go beyond Trump and it will be […] The
+      post FBI surveilled 2018 ‘Russia & Wikileaks’ panel featuring The Grayzone, files
+      show first appeared on The Grayzone . The post FBI surveilled 2018 ‘Russia & Wikileaks’
+      panel featuring The Grayzone, files show appeared first on The Grayzone .
+    one_sentence_summary: The FBI surveilled a 2018 panel featuring The Grayzone's Max
+      Blumenthal and Anya Parampil, highlighting concerns that the Trump-Russia collusion
+      narrative was used to target various anti-establishment figures.
+    paragraph_summary: The article discusses how the FBI conducted surveillance on a
+      2018 panel featuring Max Blumenthal and Anya Parampil, which focused on the themes
+      of Russia and Wikileaks. Blumenthal criticized the Trump-Russia collusion narrative,
+      asserting that it was not only aimed at Trump but also targeted a broader spectrum
+      of anti-establishment figures. He emphasized that the implications of the Russiagate
+      hysteria extend beyond Trump, affecting various dissenting voices. The article
+      highlights concerns about the misuse of the Russiagate narrative to justify surveillance
+      and repression of political dissent.
+    published: '2025-07-24T23:06:15+00:00'
   - title: 'VIDEO: ‘We are fighting second coup,’ Evo Morales tells The Grayzone'
     url: https://thegrayzone.com/2025/07/14/evo-morales-fighting-second-coup/
     text: 'In an exclusive interview with The Grayzone’s Oscar Leon, former Bolivian

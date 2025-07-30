@@ -7,16 +7,187 @@ description: "Ex-MI6 diplomat and founder of Conflicts Forum (Beirut); publishes
 websites:
   - https://www.eurasiareview.com/author/alastair-crooke/
 summary: |
-  As the geopolitical landscape continues to be shaped by the aftermath of the U.S. and Israeli strikes on Iran, the broader context is one of mounting uncertainty and shifting power dynamics. The Trump administration’s foreign policy, characterized by what **Alastair Crooke** calls “hubris-driven blunders,” has failed to achieve its intended strategic objectives, particularly in the Middle East. Instead, these actions have emboldened Iran and contributed to a growing resistance among global powers against U.S. dominance.
+  As the fallout from the June 2025 U.S.-Israeli strikes on Iran continues to reverberate, the global geopolitical landscape remains highly unstable. The Trump administration faces mounting domestic and international challenges, with deepening public disillusionment at home and a shifting balance of power abroad. Recent developments underscore the fragility of U.S. strategy in the Middle East and the growing resistance to Western dominance.
   
-  The most recent developments highlight the unintended consequences of the U.S. approach. According to **Crooke**, the bombing of Iran’s nuclear facilities—intended as a show of force and a quick, headline-grabbing victory—has not only failed to degrade Iran’s capabilities in any meaningful way but has also unified the Iranian leadership and population. There is now a consensus across independent analysis that Iran emerges from these attacks more resilient, with its regional influence undiminished and its nuclear program largely intact.
+  The most significant new development is the intensifying sense of betrayal and alienation among the American public, particularly within the MAGA base, as detailed by **Alastair Crooke**. The Epstein scandal has further eroded trust in political elites, fueling a broader crisis of legitimacy. According to Crooke, this disaffection is not only undermining Trump’s domestic standing but also constraining his foreign policy options, especially as he confronts the aftermath of the Iran strikes and persistent tensions with Russia.
   
-  Meanwhile, the reliance on algorithmic intelligence to justify military action, as detailed by **Crooke**, has come under increasing scrutiny. The key allegation that triggered the escalation—claims of Iranian nuclear weapons activity—was based on data from a Palantir counter-intelligence algorithm, later contradicted by IAEA Chief Grossi’s denials of concrete evidence. This has further undermined the credibility of U.S. and Israeli narratives, fueling skepticism among both allies and adversaries.
+  On the international front, the latest analysis highlights how U.S. miscalculations—driven by what Crooke calls “hubris”—have paradoxically strengthened Iran’s position. Despite suffering military damage, Iran has emerged more unified and resilient, while the U.S. and Israel have failed to achieve their strategic objectives. Crooke notes that “the Israeli attack did not achieve its intended strategic objectives and may lead to further escalation rather than resolution,” and warns that the region is now at heightened risk of further conflict.
   
-  On the domestic front, the internal contradictions within the Trump coalition are becoming more pronounced. The ongoing conflict between the populist base and tech oligarchs, exemplified by tensions between Elon Musk and Trump, threatens the cohesion of the administration’s political project. This instability is compounded by economic anxieties, as the U.S. establishment grapples with the rise of alternative financial systems led by China and the potential erosion of dollar dominance.
+  Meanwhile, the credibility of Western intelligence and justification for military action has come under renewed scrutiny. The initial casus belli for the June strikes—a controversial IAEA resolution and algorithmic intelligence suggesting Iranian nuclear weapons activity—has been cast into doubt by subsequent denials from IAEA leadership. This has amplified skepticism about the reliability of Western threat assessments and contributed to the erosion of U.S. authority on the world stage.
   
-  Looking ahead, the prevailing trend is one of continued fragmentation of the Western-led order and the rise of multipolarity. As **Crooke** notes, “the established global order is no longer sustainable,” and the U.S. faces mounting challenges in maintaining its influence. There is a high chance that Iran will further consolidate its position in the region, while U.S. attempts to reassert control are likely to encounter growing resistance. The confidence level is high that the current trajectory will lead to further geopolitical realignment, with the U.S. increasingly forced to adapt to a world in which its unilateral power is constrained.
+  **Trends and Predictions:**  
+  Looking ahead, it is quite likely that the Trump administration will face increasing difficulty in managing both domestic unrest and international crises. The growing sense of betrayal among Trump’s base, combined with the failure to decisively weaken Iran or restore U.S. dominance, points to a period of heightened instability and unpredictability. As Crooke notes, “the established global order is no longer sustainable,” and the current trajectory suggests further fragmentation of Western influence and the continued rise of multipolar resistance. There is a high chance of further escalation in the Middle East, with no clear path to resolution in sight.
 articles:
+  - title: Is The Trump ‘Mystique’ Broken? Does MAGA Sense Betrayal? – OpEd
+    url: https://www.eurasiareview.com/29072025-is-the-trump-mystique-broken-does-maga-sense-betrayal-oped/
+    text: 'By Alastair Crooke
+
+
+      The Epstein cloud is metastasizing and becoming a rallying point for deep-seated
+      popular alienation from certain ruling strata. The public begrudgingly has become
+      resigned to accept that their ‘rulers’ routinely lie and steal, but nonetheless
+      they (particularly within the MAGA faction) have dimly come to understand that
+      there may be vice within the body public which they regard as too detestable to
+      imagine. People have caught on that Trump was in one way or another (even as a
+      by-stander) linked to that whole degraded culture.
+
+
+      This is not likely to pass easily – or perhaps pass at all. Trump was elected
+      to drain all such tangled webs of interlinked oligarchy, power structures and
+      of intelligence services acting to unseen interests. That’s what he promised:
+      America First.
+
+
+      Distraction from Epstein likely won’t work. The exploitation, abuse and destruction
+      of the lives of untold numbers of children in the pursuit of power, wealth and
+      diabolical debauchery cuts to the deepest quick of moral being. It cannot be distracted
+      away by pointing to other élite vile monetary and power-plays. The abuse (and
+      worse) inflicted on children stands apart in its own hellish category.
+
+
+      Trump may say that he’s done nothing legally wrong. But the point is that he’s
+      now tainted – very seriously. He may consequently be entering Presidential lame-duck
+      territory, barring some deus ex machina occurrence sufficient to deflect public
+      attention.
+
+
+      Just to be clear, it is in Trump’s character to mightily resist becoming a ‘lame-duck’
+      President. And here lies the geo-political danger. Trump needs headline distractions
+      and he needs ‘wins’.
+
+
+      However, he is at a weakened point now where the Security State and its Congressional
+      allies are seizing more control. Equally, many in the nexus that links politicians
+      and officials in the U.S., UK and Israel to deep business and intelligence ties
+      will be extremely adverse to their exposure. Individuals, including the imprisoned
+      Ghislaine Maxwell may prove dangerous, like a drowning man, who in his panic seizes
+      on the nearest person only to drown the both of them.
+
+
+      Trump’s narrow-minded foreign policy team has taken the President’s foreign policy
+      initiatives into a cage, whose bars have names such as ‘arrogance and hubris’.
+
+
+      On Ukraine, Trump has given Moscow what is effectively 50 days to capitulate to
+      the Kellogg ceasefire ultimatum, or to face consequences.
+
+
+      Whilst third-party 100% sanctions – affecting mostly China and India’s energy
+      imports from Russia – have been utterly dismissed by China (and likely will be
+      by India too), Trump will be under pressure from his hawks in Congress to do something
+      to inflict pain on Russia.
+
+
+      The problem is that the war-chest is empty. Neither the U.S. nor Europe hold a
+      weapons inventory of any consequence to the war. Even were they to pay and order
+      missiles or other weaponry now, it would be months until delivered.
+
+
+      Trump however needs quick wins/diversions.
+
+
+      Absent any meaningful inventory, Trump can only effectively escalate by using
+      long-range missiles targeting Moscow or St Petersburg. Tomahawk 2,000 km range
+      missiles are in the U.S. inventory (and were discussed byTeam Trump, David Ignatius
+      has reported.
+
+
+      And what if these elderly Tomahawk missiles are easily shot down by Russian forces?
+      Well, then there is a void. A serious void. Because there is nothing between the
+      provision of token items of weaponry (a handful of Patriot missiles) to the U.S.
+      pre-positioned tactical nukes that could be launched from fighter jets stationed
+      in Britain.
+
+
+      At this point Trump would be hurtling toward a Big War with Russia.
+
+
+      Is there a plan ‘B’? Well … yes. It is to bomb Iran again, as an alternative to
+      escalating against Russia.
+
+
+      Iranians think that another strike on Iran is likely, and Trump has said that
+      he might do just that. So Iran is all-out preparing for such an eventuality.
+
+
+      It is quite possible that Trump has been briefed that the consequence to major
+      strikes on Iran would be the effective missile-imposed de-militarisation of Israel
+      – causing profound consequences in the U.S. polity, as well as the region.
+
+
+      It is also quite possible that Trump disregards such briefing, preferring to see
+      Israel as “so good” (the exclamation he made as the Israeli sneak attack on 13
+      June was underway).
+
+
+      And in the Middle East right now? It looks as if Netanyahu is pulling the strings
+      for Trump. Gaza is already a scandal – a war crimes scandal, with every prospect
+      of getting worse.
+
+
+      Max Blumenthal reports that “when Tucker Calson alleged that Epstein had ties
+      to Israeli Intelligence [and that this fact explained] why Trump is covering up
+      [the Epstein Affair], the Israelis seemingly took fright. Naftali Bennett, the
+      former Israeli Prime Minister, was summoned to declare that he had dealt, every
+      day, with the Mossad and that Jeffrey Epstein did not work for the Mossad and
+      was not an Israeli agent. He then threatened Carson, saying: ‘We won’t stand for
+      this’. The Israeli Minister for Diaspora Affairs also denounced Tucker Carson.
+      It is like the relationship between the U.S. Conservative movement and Israel
+      is cracking up over Epstein”, Blumenthal suggests.
+
+
+      Netanyahu perhaps senses trouble ahead for Israel in the U.S., as young Americans
+      and MAGA followers turn on Trump for having betrayed ‘America First’; for ‘co-owning’the
+      Gaza massacre; the Israeli-U.S. led Syria sectarian civil war; the bombing of
+      Iran; and the despoilation of Lebanon.
+
+
+      Eighty-one percent of Americans, polls suggest, want all documents related to
+      Epstein released. Two-thirds — including 84% of Democrats and 53% of Republicans
+      — think the government is covering up evidence regarding his ‘client list’ and
+      death. Trump’s disapproval rating stands at 53% currently.
+
+
+      Netanyahu is (perhaps consequentially) on a hurried rampage to impose ‘Greater
+      Israel’. ‘Impose’, because the original Abraham Accords were ostensibly an agreementto
+      normalise with Israel. Today, under military threat, Arab states are being compelled
+      to accept Israeli terms – and subjugation to Israel.
+
+
+      It represents a travesty of the former Israeli notion of an alliance of minorities.
+      Today, the ‘minorities’ (sometimes fractured majorities) are deliberately being
+      set one against the other. The U.S. and Israel haveagain introduced ISIS 2.0 into
+      the Middle East. The executions of Alawites, Christians and Shia in Syria are
+      the direct consequence.
+
+
+      The prospect is of a devastated Middle East, with only the Gulf monarchies serving
+      as obedient islands amid the wider landscape of internecine war, ethnic killing
+      and Balkanised polities.
+
+
+      The new Middle East …?'
+    one_sentence_summary: The article discusses the growing public disillusionment with
+      political elites, particularly in relation to the Epstein scandal, and how this
+      sentiment may impact Trump's presidency and foreign policy, potentially leading
+      to increased tensions with Russia and Iran amidst a backdrop of geopolitical instability
+      in the Middle East.
+    paragraph_summary: In his article, Alastair Crooke discusses the growing public
+      disillusionment with political elites, particularly in light of the Epstein scandal,
+      which has become a symbol of deep-seated corruption and moral decay within the
+      ruling class. He argues that former President Trump, who campaigned on a promise
+      to dismantle such corrupt systems, is now tainted by associations with this culture,
+      potentially leading him toward a "lame-duck" status as he struggles to maintain
+      power amidst increasing control by the Security State. Crooke highlights the geopolitical
+      implications of Trump's weakened position, noting his reliance on distractions
+      and quick military wins, which could escalate tensions with Russia or lead to
+      renewed aggression against Iran. He also points to the fracturing relationship
+      between the U.S. conservative movement and Israel, as public sentiment shifts
+      against Trump for his perceived complicity in Israeli actions in Gaza and the
+      broader Middle East. The article concludes with a grim outlook on the future of
+      the region, marked by violence and instability, as the U.S. and Israel navigate
+      their complex alliances and conflicts.
+    published: '2025-07-29T16:36:11+00:00'
   - title: US Hubris-Driven Blunders Transform Entire Complexion Of Wider War – OpEd
     url: https://www.eurasiareview.com/16072025-us-hubris-driven-blunders-transform-entire-complexion-of-wider-war-oped/
     text: 'By Alastair Crooke
