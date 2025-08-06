@@ -7,16 +7,634 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  The ongoing crisis in Gaza continues to dominate independent analysis, with recent reports highlighting both the intensifying humanitarian catastrophe and shifts in Western discourse. Over the past 24 hours, new developments have emerged regarding the lived reality for civilians and journalists in Gaza, as well as the evolving international response.
+  As the world marks the 80th anniversary of the atomic bombings of Hiroshima and Nagasaki, debate continues over the enduring narratives that have shaped public understanding of these events. **John LaForge** contends that U.S. government propaganda has long overstated the necessity and humanitarian justification for the bombings, arguing that the deaths of over 200,000 civilians were not, in fact, a means of saving lives. This reassessment comes at a time of renewed scrutiny of official narratives and the role of historical memory in current geopolitics.
   
-  A major theme in the latest reporting is the belated shift among Western mainstream voices acknowledging abuses committed by Israel. **Caitlin Johnstone** critiques this delayed recognition, arguing it "reflects a deeper malaise within Western civilization." This pivot, while notable, is seen by analysts as insufficient to address the scale of the crisis or to meaningfully alter policy trajectories in the short term.
+  In the United States, a significant legal battle is underway regarding the executive branch's authority over trade policy. **Andrew P. Napolitano** highlights the government's appeal against a lower court decision that found former President Trump's unilateral tariffs on certain goods unconstitutional. The outcome of this case could have far-reaching implications for the balance of power between the executive and legislative branches in setting economic policy, with a high chance that the Supreme Court will be called to clarify the limits of presidential authority.
   
-  On the ground, the situation for journalists in Gaza has deteriorated further. **Shaimaa Eid**, reporting from Gaza, describes a profound sense of loss and disempowerment: “We have lost control over our lives, our food, and even the smallest details of our days.” The desperation is such that some journalists are reportedly selling their cameras for food, underscoring the collapse of both livelihoods and the capacity for independent reporting from within the enclave.
+  Meanwhile, the ongoing crisis in Gaza remains a focal point of international concern. **Jonathan Cook** criticizes Western media figures for their delayed recognition of the scale of violence in Gaza, noting that recent acknowledgments of possible genocide come too late to offer meaningful relief. The situation is further complicated by legal and political battles over the designation of activist groups, as **Huda Ammori**'s successful appeal for a judicial review of Palestine Action's terrorist label demonstrates the persistence of repression and contested narratives.
   
-  Meanwhile, the international legal and media landscape is also shifting. In Australia, journalist **Mary Kostakidis** appeared in federal court to defend herself against charges of racial discrimination linked to her reporting on Gaza. This case highlights the growing tension between freedom of the press and accusations of anti-Semitism in Western democracies, a trend likely to intensify as the conflict persists.
-  
-  Looking ahead, the majority of independent analysts agree that the humanitarian situation in Gaza will continue to worsen absent significant external intervention. The recent shift in Western rhetoric is unlikely to translate into immediate policy change. I assess with high confidence that the crisis will deepen, and that both the suppression of critical journalism and the polarization of public discourse in Western countries will increase in the coming weeks.
+  Looking ahead, it is quite likely that debates over historical memory, executive authority, and the framing of conflicts will intensify, especially as legal and political outcomes in the U.S. and internationally remain unresolved. There is a high chance that the Gaza crisis will continue to drive activism and legal challenges, with global attention focused on both humanitarian and political dimensions.
 articles:
+  - title: 'ATOMIC BOMBINGS AT 80: The Enduring Myth of Hiroshima & Nagasaki'
+    url: https://consortiumnews.com/2025/08/05/atomic-bombings-at-80-the-enduring-myth-of-hiroshima-nagasaki/
+    text: After the U.S. atomic bombings of Hiroshima and Nagasaki On Aug. 6 and Aug.
+      9, 1945, there then ensued a U.S. propaganda campaign to claim the slaughter of
+      more than 200,000 people saved lives, writes John LaForge. Originally published
+      by… Read more →
+    one_sentence_summary: John LaForge argues that the U.S. propaganda following the
+      atomic bombings of Hiroshima and Nagasaki falsely claimed that the deaths of over
+      200,000 people ultimately saved lives.
+    paragraph_summary: Following the atomic bombings of Hiroshima and Nagasaki on August
+      6 and 9, 1945, a U.S. propaganda campaign emerged, asserting that the deaths of
+      over 200,000 individuals ultimately saved lives by hastening the end of World
+      War II, according to John LaForge. This narrative aimed to justify the bombings
+      and their devastating consequences.
+    published: '2025-08-06T00:00:01+00:00'
+  - title: 'ATOMIC BOMBINGS AT 80: The Enduring Myth of Hiroshima & Nagasaki'
+    url: https://consortiumnews.com/2025/08/05/atomic-bombings-at-80-the-enduring-myth-of-hiroshima-nagasaki/
+    text: After the U.S. atomic bombings of Hiroshima and Nagasaki On Aug. 6 and Aug.
+      9, 1945, there then ensued a U.S. propaganda campaign to claim the slaughter of
+      more than 200,000 people saved lives, writes John LaForge. Originally published
+      by… Read more →
+    one_sentence_summary: John LaForge argues that the U.S. propaganda following the
+      atomic bombings of Hiroshima and Nagasaki falsely claimed that the deaths of over
+      200,000 people ultimately saved lives.
+    paragraph_summary: Following the atomic bombings of Hiroshima and Nagasaki on August
+      6 and 9, 1945, a U.S. propaganda campaign emerged, asserting that the deaths of
+      over 200,000 individuals ultimately saved lives by hastening the end of World
+      War II, according to John LaForge. This narrative aimed to justify the bombings
+      and their devastating consequences.
+    published: '2025-08-06T00:00:01+00:00'
+  - title: Can the US President Impose Taxes?
+    url: https://consortiumnews.com/2025/08/05/can-the-us-president-impose-taxes/
+    text: Andrew P. Napolitano responds to the U.S. government’s appeal last week of
+      lower court ruling that found Trump’s unilateral imposition of tariffs on certain
+      goods unconstitutional. By Andrew P. Napolitano Last week, the United States Court
+      of Appeals for the… Read more →
+    one_sentence_summary: Andrew P. Napolitano discusses the U.S. government's appeal
+      against a lower court ruling that deemed Trump's unilateral tariffs on certain
+      goods unconstitutional.
+    paragraph_summary: Andrew P. Napolitano discusses the U.S. government's recent appeal
+      against a lower court ruling that deemed former President Trump's unilateral imposition
+      of tariffs on specific goods unconstitutional. The article highlights the implications
+      of this legal battle, emphasizing the ongoing debate over presidential powers
+      and the authority to impose tariffs without congressional approval. Napolitano
+      reflects on the potential consequences of the appeals court's decision and its
+      impact on future trade policies.
+    published: '2025-08-05T21:52:38+00:00'
+  - title: Can the US President Impose Taxes?
+    url: https://consortiumnews.com/2025/08/05/can-the-us-president-impose-taxes/
+    text: Andrew P. Napolitano responds to the U.S. government’s appeal last week of
+      lower court ruling that found Trump’s unilateral imposition of tariffs on certain
+      goods unconstitutional. By Andrew P. Napolitano Last week, the United States Court
+      of Appeals for the… Read more →
+    one_sentence_summary: Andrew P. Napolitano discusses the U.S. government's appeal
+      against a lower court ruling that deemed Trump's unilateral tariffs on certain
+      goods unconstitutional.
+    paragraph_summary: Andrew P. Napolitano discusses the U.S. government's recent appeal
+      against a lower court ruling that deemed former President Trump's unilateral imposition
+      of tariffs on specific goods unconstitutional. The article highlights the implications
+      of this legal battle, emphasizing the ongoing debate over presidential powers
+      and the authority to impose tariffs without congressional approval. Napolitano
+      reflects on the potential consequences of the appeals court's decision and its
+      impact on future trade policies.
+    published: '2025-08-05T21:52:38+00:00'
+  - title: 'Craig Murray: Delaying Justice on ‘Terrorist’ Palestine Action'
+    url: https://consortiumnews.com/2025/08/05/craig-murray-delaying-justice-on-terrorist-palestine-action/
+    text: Huda Ammori won her appeal for a judicial review of Palestine Action’s terrorist
+      designation, but not until after Nov. 10. Meanwhile, the genocide, the proscription
+      and the repression continue. By Craig Murray CraigMurray.org.uk We were crammed
+      into the unsalubrious court 73… Read more →
+    one_sentence_summary: Huda Ammori successfully appealed for a judicial review regarding
+      Palestine Action's terrorist designation, but the ongoing issues of genocide,
+      proscription, and repression persist.
+    paragraph_summary: Huda Ammori successfully appealed for a judicial review regarding
+      the terrorist designation of Palestine Action, but the decision came after November
+      10. Despite this legal victory, issues of genocide, proscription, and repression
+      persist, as highlighted by Craig Murray in his account from the court.
+    published: '2025-08-05T18:41:41+00:00'
+  - title: 'Craig Murray: Delaying Justice on ‘Terrorist’ Palestine Action'
+    url: https://consortiumnews.com/2025/08/05/craig-murray-delaying-justice-on-terrorist-palestine-action/
+    text: Huda Ammori won her appeal for a judicial review of Palestine Action’s terrorist
+      designation, but not until after Nov. 10. Meanwhile, the genocide, the proscription
+      and the repression continue. By Craig Murray CraigMurray.org.uk We were crammed
+      into the unsalubrious court 73… Read more →
+    one_sentence_summary: Huda Ammori successfully appealed for a judicial review regarding
+      Palestine Action's terrorist designation, but the ongoing issues of genocide,
+      proscription, and repression persist.
+    paragraph_summary: Huda Ammori successfully appealed for a judicial review regarding
+      the terrorist designation of Palestine Action, but the decision came after November
+      10. Despite this legal victory, issues of genocide, proscription, and repression
+      persist, as highlighted by Craig Murray in his account from the court.
+    published: '2025-08-05T18:41:41+00:00'
+  - title: 'Jonathan Cook: Genocide in Gaza from Day One'
+    url: https://consortiumnews.com/2025/08/05/jonathan-cook-genocide-in-gaza-from-day-one/
+    text: It is cold comfort that, in the very final stages of Israel’s genocide, media
+      pundits such as Piers Morgan are finally ready to concede that a genocide may
+      be about to happen. By Jonathan Cook Jonathan-Cook.net Too many pundits, such…
+      Read more →
+    one_sentence_summary: The article critiques media figures like Piers Morgan for
+      only now acknowledging the potential for genocide in Israel's actions, suggesting
+      that their late recognition offers little solace amidst ongoing violence.
+    paragraph_summary: In his article, Jonathan Cook critiques media pundits like Piers
+      Morgan for only now acknowledging the potential for genocide in Israel's actions,
+      suggesting that their late recognition offers little solace amid the ongoing crisis.
+      Cook argues that the acknowledgment comes too late, as the situation has escalated
+      to alarming levels, highlighting a broader failure among commentators to address
+      the severity of the conflict and its implications.
+    published: '2025-08-05T16:50:48+00:00'
+  - title: 'Jonathan Cook: Genocide in Gaza from Day One'
+    url: https://consortiumnews.com/2025/08/05/jonathan-cook-genocide-in-gaza-from-day-one/
+    text: It is cold comfort that, in the very final stages of Israel’s genocide, media
+      pundits such as Piers Morgan are finally ready to concede that a genocide may
+      be about to happen. By Jonathan Cook Jonathan-Cook.net Too many pundits, such…
+      Read more →
+    one_sentence_summary: The article critiques media figures like Piers Morgan for
+      only now acknowledging the potential for genocide in Israel's actions, suggesting
+      that their late recognition offers little solace amidst ongoing violence.
+    paragraph_summary: In his article, Jonathan Cook critiques media pundits like Piers
+      Morgan for only now acknowledging the potential for genocide in Israel's actions,
+      suggesting that their late recognition offers little solace amid the ongoing crisis.
+      Cook argues that the acknowledgment comes too late, as the situation has escalated
+      to alarming levels, highlighting a broader failure among commentators to address
+      the severity of the conflict and its implications.
+    published: '2025-08-05T16:50:48+00:00'
+  - title: 'PATRICK LAWRENCE: How to Read the Durham Appendix'
+    url: https://consortiumnews.com/2025/08/04/patrick-lawrence-how-to-read-the-durham-appendix/
+    text: The method of those who built Russiagate’s tower of lies and disinformation
+      grows clearer and the list of their names longer. By Patrick Lawrence Special
+      to Consortium News Not that we needed more evidence to dismantle the extravagant
+      tower of lies… Read more →
+    one_sentence_summary: The article by Patrick Lawrence discusses the increasing clarity
+      and expanding list of individuals involved in perpetuating the falsehoods surrounding
+      Russiagate, emphasizing the need to dismantle these misleading narratives.
+    paragraph_summary: In his article for Consortium News, Patrick Lawrence discusses
+      the increasing clarity surrounding the individuals and methods involved in perpetuating
+      the Russiagate narrative, which he characterizes as a "tower of lies and disinformation."
+      He emphasizes that the growing list of names associated with this narrative provides
+      further evidence to dismantle the unfounded claims that have surrounded the issue.
+      Lawrence argues for the necessity of critically examining these narratives and
+      the motivations behind them, suggesting a need for accountability and truth in
+      the discourse surrounding Russiagate.
+    published: '2025-08-05T01:17:56+00:00'
+  - title: 'PATRICK LAWRENCE: How to Read the Durham Appendix'
+    url: https://consortiumnews.com/2025/08/04/patrick-lawrence-how-to-read-the-durham-appendix/
+    text: The method of those who built Russiagate’s tower of lies and disinformation
+      grows clearer and the list of their names longer. By Patrick Lawrence Special
+      to Consortium News Not that we needed more evidence to dismantle the extravagant
+      tower of lies… Read more →
+    one_sentence_summary: The article by Patrick Lawrence discusses the increasing clarity
+      and expanding list of individuals involved in perpetuating the falsehoods surrounding
+      Russiagate, emphasizing the need to dismantle these misleading narratives.
+    paragraph_summary: In his article for Consortium News, Patrick Lawrence discusses
+      the increasing clarity surrounding the individuals and methods involved in perpetuating
+      the Russiagate narrative, which he characterizes as a "tower of lies and disinformation."
+      He emphasizes that the growing list of names associated with this narrative provides
+      further evidence to dismantle the unfounded claims that have surrounded the issue.
+      Lawrence argues for the necessity of critically examining these narratives and
+      the motivations behind them, suggesting a need for accountability and truth in
+      the discourse surrounding Russiagate.
+    published: '2025-08-05T01:17:56+00:00'
+  - title: 'Craig Murray: Malicious Mischief'
+    url: https://consortiumnews.com/2025/08/04/craig-murray-malicious-mischief/
+    text: The Starmer regime’s failure to defend the Handala along with the mistreatment
+      of the Leonardo 3 in Scotland are both examples of a diseased doctrine of unquestioning
+      U.K. support of Israel. By Craig Murray CraigMurray.org.uk The Starmer regime’s
+      attitude to… Read more →
+    one_sentence_summary: The article criticizes the Starmer regime for its uncritical
+      support of Israel, highlighting its failure to defend the Handala and the mistreatment
+      of the Leonardo 3 in Scotland as examples of this problematic stance.
+    paragraph_summary: 'The article by Craig Murray critiques the Starmer regime''s
+      unwavering support for Israel, highlighting two specific instances: the failure
+      to defend the Handala and the mistreatment of the Leonardo 3 in Scotland. Murray
+      argues that these examples reflect a problematic doctrine of unquestioning allegiance
+      to Israel, suggesting that such a stance is detrimental and indicative of a broader
+      issue within U.K. foreign policy.'
+    published: '2025-08-04T18:00:36+00:00'
+  - title: 'Craig Murray: Malicious Mischief'
+    url: https://consortiumnews.com/2025/08/04/craig-murray-malicious-mischief/
+    text: The Starmer regime’s failure to defend the Handala along with the mistreatment
+      of the Leonardo 3 in Scotland are both examples of a diseased doctrine of unquestioning
+      U.K. support of Israel. By Craig Murray CraigMurray.org.uk The Starmer regime’s
+      attitude to… Read more →
+    one_sentence_summary: The article criticizes the Starmer regime for its uncritical
+      support of Israel, highlighting its failure to defend the Handala and the mistreatment
+      of the Leonardo 3 in Scotland as examples of this problematic stance.
+    paragraph_summary: 'The article by Craig Murray critiques the Starmer regime''s
+      unwavering support for Israel, highlighting two specific instances: the failure
+      to defend the Handala and the mistreatment of the Leonardo 3 in Scotland. Murray
+      argues that these examples reflect a problematic doctrine of unquestioning allegiance
+      to Israel, suggesting that such a stance is detrimental and indicative of a broader
+      issue within U.K. foreign policy.'
+    published: '2025-08-04T18:00:36+00:00'
+  - title: Cynically Stage-Managed Humanitarian Aid
+    url: https://consortiumnews.com/2025/08/04/cynically-stage-managed-humanitarian-aid/
+    text: Trump’s envoy Steve Witkoff and Mike Huckabee, U.S. ambassador to Israel,
+       were witting players in a fraudulent event intended to show no one has been killed
+      trying to get aid in Gaza. By Brett Wilkins Common Dreams Palestinians and international…
+      Read more →
+    one_sentence_summary: Trump's envoy Steve Witkoff and U.S. ambassador to Israel
+      Mike Huckabee were involved in a deceptive event aimed at misleadingly portraying
+      that no one has died while attempting to receive aid in Gaza.
+    paragraph_summary: The article discusses an event orchestrated by Trump’s envoy
+      Steve Witkoff and former Arkansas Governor Mike Huckabee, who served as the U.S.
+      ambassador to Israel, which was designed to falsely portray that no casualties
+      have occurred among those seeking aid in Gaza. The event is characterized as fraudulent,
+      aiming to mislead the public and downplay the ongoing humanitarian crisis faced
+      by Palestinians.
+    published: '2025-08-04T16:04:46+00:00'
+  - title: Cynically Stage-Managed Humanitarian Aid
+    url: https://consortiumnews.com/2025/08/04/cynically-stage-managed-humanitarian-aid/
+    text: Trump’s envoy Steve Witkoff and Mike Huckabee, U.S. ambassador to Israel,
+       were witting players in a fraudulent event intended to show no one has been killed
+      trying to get aid in Gaza. By Brett Wilkins Common Dreams Palestinians and international…
+      Read more →
+    one_sentence_summary: Trump's envoy Steve Witkoff and U.S. ambassador to Israel
+      Mike Huckabee were involved in a deceptive event aimed at misleadingly portraying
+      that no one has died while attempting to receive aid in Gaza.
+    paragraph_summary: The article discusses an event orchestrated by Trump’s envoy
+      Steve Witkoff and former Arkansas Governor Mike Huckabee, who served as the U.S.
+      ambassador to Israel, which was designed to falsely portray that no casualties
+      have occurred among those seeking aid in Gaza. The event is characterized as fraudulent,
+      aiming to mislead the public and downplay the ongoing humanitarian crisis faced
+      by Palestinians.
+    published: '2025-08-04T16:04:46+00:00'
+  - title: Assange Joins Historic Anti-Genocide March Across Sydney’s Harbour Bridge
+    url: https://consortiumnews.com/2025/08/03/assange-joins-historic-anti-genocide-march-across-sydneys-harbour-bridge/
+    text: Julian Assange joined at least 90,000 and as many as 300,000 people who marched
+      across Australia’s most famous bridge on Sunday to protest Israel’s genocide in
+      Gaza. By Joe Lauria Special to Consortium News Wikileaks founder Julian Assange,
+      his wife… Read more →
+    one_sentence_summary: Julian Assange participated in a large protest in Australia,
+      alongside tens of thousands of others, against Israel's actions in Gaza.
+    paragraph_summary: Julian Assange participated in a large protest in Australia,
+      joining between 90,000 and 300,000 demonstrators who marched across a prominent
+      bridge to voice their opposition to what they describe as Israel's genocide in
+      Gaza. The event highlighted widespread public sentiment against the conflict and
+      drew significant attention, with Assange's involvement underscoring his continued
+      relevance in discussions about human rights and freedom of expression.
+    published: '2025-08-03T20:48:26+00:00'
+  - title: Assange Joins Historic Anti-Genocide March Across Sydney’s Harbour Bridge
+    url: https://consortiumnews.com/2025/08/03/assange-joins-historic-anti-genocide-march-across-sydneys-harbour-bridge/
+    text: Julian Assange joined at least 90,000 and as many as 300,000 people who marched
+      across Australia’s most famous bridge on Sunday to protest Israel’s genocide in
+      Gaza. By Joe Lauria Special to Consortium News Wikileaks founder Julian Assange,
+      his wife… Read more →
+    one_sentence_summary: Julian Assange participated in a large protest in Australia,
+      alongside tens of thousands of others, against Israel's actions in Gaza.
+    paragraph_summary: Julian Assange participated in a large protest in Australia,
+      joining between 90,000 and 300,000 demonstrators who marched across a prominent
+      bridge to voice their opposition to what they describe as Israel's genocide in
+      Gaza. The event highlighted widespread public sentiment against the conflict and
+      drew significant attention, with Assange's involvement underscoring his continued
+      relevance in discussions about human rights and freedom of expression.
+    published: '2025-08-03T20:48:26+00:00'
+  - title: Israel Activates Its Cells
+    url: https://consortiumnews.com/2025/08/03/israel-activates-its-cells/
+    text: The conflation of Zionism with anti-Semitism is the test in the Zionist lobby
+      case against Australian journalist Mary Kostakidis for her Gaza reporting and
+      the outcome will be of great international significance, says Joe Lauria. The
+      above is an address… Read more →
+    one_sentence_summary: The case against Australian journalist Mary Kostakidis for
+      her Gaza reporting highlights the critical issue of conflating Zionism with anti-Semitism,
+      which could have significant international implications, according to Joe Lauria.
+    paragraph_summary: The article discusses the case against Australian journalist
+      Mary Kostakidis, who faces allegations from the Zionist lobby regarding her reporting
+      on Gaza, highlighting the broader issue of conflating Zionism with anti-Semitism.
+      Joe Lauria emphasizes that the outcome of this case could have significant international
+      implications, as it reflects ongoing tensions surrounding media coverage of Israel
+      and Palestine.
+    published: '2025-08-03T17:39:02+00:00'
+  - title: Israel Activates Its Cells
+    url: https://consortiumnews.com/2025/08/03/israel-activates-its-cells/
+    text: The conflation of Zionism with anti-Semitism is the test in the Zionist lobby
+      case against Australian journalist Mary Kostakidis for her Gaza reporting and
+      the outcome will be of great international significance, says Joe Lauria. The
+      above is an address… Read more →
+    one_sentence_summary: The case against Australian journalist Mary Kostakidis for
+      her Gaza reporting highlights the critical issue of conflating Zionism with anti-Semitism,
+      which could have significant international implications, according to Joe Lauria.
+    paragraph_summary: The article discusses the case against Australian journalist
+      Mary Kostakidis, who faces allegations from the Zionist lobby regarding her reporting
+      on Gaza, highlighting the broader issue of conflating Zionism with anti-Semitism.
+      Joe Lauria emphasizes that the outcome of this case could have significant international
+      implications, as it reflects ongoing tensions surrounding media coverage of Israel
+      and Palestine.
+    published: '2025-08-03T17:39:02+00:00'
+  - title: 'WATCH: The Right to Criticize Israel'
+    url: https://consortiumnews.com/2025/08/03/watch-the-right-to-criticize-israel/
+    text: An event in support of Mary Kostakidis, the Australian journalist hauled into
+      court for criticizing Israel’s genocide on social media. An event Saturday night
+      in Sydney, Australia in support of the Australian journalist Mary Kostakidis,
+      who is accused by Alon… Read more →
+    one_sentence_summary: A support event for Australian journalist Mary Kostakidis,
+      facing legal action for her social media criticism of Israel's actions, took place
+      in Sydney on Saturday night.
+    paragraph_summary: An event held in Sydney, Australia, aimed to support journalist
+      Mary Kostakidis, who faced legal action for her social media criticism of Israel's
+      actions, which she described as genocide. The gathering highlighted concerns over
+      freedom of speech and the implications of legal repercussions for expressing dissenting
+      views on sensitive political issues.
+    published: '2025-08-03T16:30:39+00:00'
+  - title: 'WATCH: The Right to Criticize Israel'
+    url: https://consortiumnews.com/2025/08/03/watch-the-right-to-criticize-israel/
+    text: An event in support of Mary Kostakidis, the Australian journalist hauled into
+      court for criticizing Israel’s genocide on social media. An event Saturday night
+      in Sydney, Australia in support of the Australian journalist Mary Kostakidis,
+      who is accused by Alon… Read more →
+    one_sentence_summary: A support event for Australian journalist Mary Kostakidis,
+      facing legal action for her social media criticism of Israel's actions, took place
+      in Sydney on Saturday night.
+    paragraph_summary: An event held in Sydney, Australia, aimed to support journalist
+      Mary Kostakidis, who faced legal action for her social media criticism of Israel's
+      actions, which she described as genocide. The gathering highlighted concerns over
+      freedom of speech and the implications of legal repercussions for expressing dissenting
+      views on sensitive political issues.
+    published: '2025-08-03T16:30:39+00:00'
+  - title: Clapper’s Claptrap
+    url: https://consortiumnews.com/2025/08/02/clappers-claptrap/
+    text: The former U.S. director of national intelligence told CNN new Russiagate
+      revelations were “nonsense” and “absurd” but he wasn’t challenged on any details
+      the way Ray McGovern once did back in 2018. New revelations beginning last month
+      that senior Obama… Read more →
+    one_sentence_summary: The former U.S. director of national intelligence dismissed
+      new Russiagate revelations as "nonsense" and "absurd," noting a lack of detailed
+      challenges compared to past inquiries.
+    paragraph_summary: The former U.S. director of national intelligence dismissed recent
+      Russiagate revelations as "nonsense" and "absurd," noting a lack of challenge
+      on the specifics of these claims, unlike the scrutiny faced by Ray McGovern in
+      2018. The article highlights new developments that emerged last month regarding
+      senior Obama administration officials, but does not delve into the details of
+      these revelations or their implications.
+    published: '2025-08-02T06:34:39+00:00'
+  - title: Clapper’s Claptrap
+    url: https://consortiumnews.com/2025/08/02/clappers-claptrap/
+    text: The former U.S. director of national intelligence told CNN new Russiagate
+      revelations were “nonsense” and “absurd” but he wasn’t challenged on any details
+      the way Ray McGovern once did back in 2018. New revelations beginning last month
+      that senior Obama… Read more →
+    one_sentence_summary: The former U.S. director of national intelligence dismissed
+      new Russiagate revelations as "nonsense" and "absurd," noting a lack of detailed
+      challenges compared to past inquiries.
+    paragraph_summary: The former U.S. director of national intelligence dismissed recent
+      Russiagate revelations as "nonsense" and "absurd," noting a lack of challenge
+      on the specifics of these claims, unlike the scrutiny faced by Ray McGovern in
+      2018. The article highlights new developments that emerged last month regarding
+      senior Obama administration officials, but does not delve into the details of
+      these revelations or their implications.
+    published: '2025-08-02T06:34:39+00:00'
+  - title: 'RAY McGOVERN: The Deep State’s Burst Appendix'
+    url: https://consortiumnews.com/2025/08/01/ray-mcgovern-the-deep-states-burst-appendix/
+    text: 'RUSSIAGATE UPDATE: A newly released 29-page secret Appendix to the Durham
+      report reveals even more damning evidence that the Russiagate affair was a stitch-up
+      from the get-go. By Ray McGovern Special to Consortium News Small wonder that
+      the Deep State… Read more →'
+    one_sentence_summary: A newly released 29-page secret Appendix to the Durham report
+      provides further evidence suggesting that the Russiagate investigation was orchestrated
+      from the beginning, according to Ray McGovern in Consortium News.
+    paragraph_summary: A newly released 29-page secret Appendix to the Durham report
+      provides further evidence suggesting that the Russiagate investigation was orchestrated
+      from the beginning, according to Ray McGovern in a piece for Consortium News.
+      The findings imply that the allegations surrounding Russian interference in the
+      2016 election were part of a broader scheme involving elements of the Deep State,
+      raising questions about the legitimacy of the investigation and its motivations.
+    published: '2025-08-01T18:49:07+00:00'
+  - title: 'RAY McGOVERN: The Deep State’s Burst Appendix'
+    url: https://consortiumnews.com/2025/08/01/ray-mcgovern-the-deep-states-burst-appendix/
+    text: 'RUSSIAGATE UPDATE: A newly released 29-page secret Appendix to the Durham
+      report reveals even more damning evidence that the Russiagate affair was a stitch-up
+      from the get-go. By Ray McGovern Special to Consortium News Small wonder that
+      the Deep State… Read more →'
+    one_sentence_summary: A newly released 29-page secret Appendix to the Durham report
+      provides further evidence suggesting that the Russiagate investigation was orchestrated
+      from the beginning, according to Ray McGovern in Consortium News.
+    paragraph_summary: A newly released 29-page secret Appendix to the Durham report
+      provides further evidence suggesting that the Russiagate investigation was orchestrated
+      from the beginning, according to Ray McGovern in a piece for Consortium News.
+      The findings imply that the allegations surrounding Russian interference in the
+      2016 election were part of a broader scheme involving elements of the Deep State,
+      raising questions about the legitimacy of the investigation and its motivations.
+    published: '2025-08-01T18:49:07+00:00'
+  - title: 'The Chris Hedges Report: This Is Not a Drill'
+    url: https://consortiumnews.com/2025/08/01/the-chris-hedges-report-this-is-not-a-drill/
+    text: “Any opportunity that I get, I will speak out” — Pink Floyd musician Roger
+      Waters on the imperatives of love and resistance in the face of repression. By
+      Chris Hedges The Chris Hedges Report Fame and fortune are often corrupting… Read
+      more →
+    one_sentence_summary: Roger Waters emphasizes the importance of love and resistance
+      against repression, asserting his commitment to speak out whenever possible, despite
+      the corrupting influences of fame and fortune.
+    paragraph_summary: In an interview with Chris Hedges, Pink Floyd musician Roger
+      Waters discusses the importance of love and resistance against repression, emphasizing
+      his commitment to speaking out whenever possible. He reflects on the corrupting
+      nature of fame and fortune, suggesting that true artistic integrity lies in using
+      one's platform to advocate for social justice and challenge oppressive systems.
+      Waters' perspective highlights the role of artists in promoting awareness and
+      encouraging activism in the face of societal challenges.
+    published: '2025-08-01T16:09:46+00:00'
+  - title: 'The Chris Hedges Report: This Is Not a Drill'
+    url: https://consortiumnews.com/2025/08/01/the-chris-hedges-report-this-is-not-a-drill/
+    text: “Any opportunity that I get, I will speak out” — Pink Floyd musician Roger
+      Waters on the imperatives of love and resistance in the face of repression. By
+      Chris Hedges The Chris Hedges Report Fame and fortune are often corrupting… Read
+      more →
+    one_sentence_summary: Roger Waters emphasizes the importance of love and resistance
+      against repression, asserting his commitment to speak out whenever possible, despite
+      the corrupting influences of fame and fortune.
+    paragraph_summary: In an interview with Chris Hedges, Pink Floyd musician Roger
+      Waters discusses the importance of love and resistance against repression, emphasizing
+      his commitment to speaking out whenever possible. He reflects on the corrupting
+      nature of fame and fortune, suggesting that true artistic integrity lies in using
+      one's platform to advocate for social justice and challenge oppressive systems.
+      Waters' perspective highlights the role of artists in promoting awareness and
+      encouraging activism in the face of societal challenges.
+    published: '2025-08-01T16:09:46+00:00'
+  - title: 'Vijay Prashad: Rising Sovereignty of the Global South'
+    url: https://consortiumnews.com/2025/07/31/vijay-prashad-the-rising-sovereignty-of-the-global-south/
+    text: 'Though still weighed down by debt and austerity, developing countries are
+      beginning to chart alternative paths as a new mood takes hold in the Global South.
+      By Vijay Prashad Tricontinental: Institute for Social Research A horrifying statistic
+      hovers over the poorer… Read more →'
+    one_sentence_summary: Developing countries in the Global South are starting to explore
+      alternative development paths despite ongoing challenges of debt and austerity,
+      reflecting a shift in mindset.
+    paragraph_summary: Developing countries, despite facing challenges of debt and austerity,
+      are starting to explore new avenues for growth and development as a shift in mindset
+      emerges in the Global South. This change reflects a growing recognition of the
+      need for alternative strategies that prioritize social and economic equity, moving
+      away from traditional models that have often exacerbated inequality. The article
+      by Vijay Prashad highlights this evolving landscape, suggesting that these nations
+      are increasingly seeking innovative solutions to address their pressing issues.
+    published: '2025-07-31T17:33:17+00:00'
+  - title: 'Vijay Prashad: Rising Sovereignty of the Global South'
+    url: https://consortiumnews.com/2025/07/31/vijay-prashad-the-rising-sovereignty-of-the-global-south/
+    text: 'Though still weighed down by debt and austerity, developing countries are
+      beginning to chart alternative paths as a new mood takes hold in the Global South.
+      By Vijay Prashad Tricontinental: Institute for Social Research A horrifying statistic
+      hovers over the poorer… Read more →'
+    one_sentence_summary: Developing countries in the Global South are starting to explore
+      alternative development paths despite ongoing challenges of debt and austerity,
+      reflecting a shift in mindset.
+    paragraph_summary: Developing countries, despite facing challenges of debt and austerity,
+      are starting to explore new avenues for growth and development as a shift in mindset
+      emerges in the Global South. This change reflects a growing recognition of the
+      need for alternative strategies that prioritize social and economic equity, moving
+      away from traditional models that have often exacerbated inequality. The article
+      by Vijay Prashad highlights this evolving landscape, suggesting that these nations
+      are increasingly seeking innovative solutions to address their pressing issues.
+    published: '2025-07-31T17:33:17+00:00'
+  - title: As Non-Profits, US Religious Institutions Can Now Endorse Political Candidates
+    url: https://consortiumnews.com/2025/07/31/as-non-profits-us-religious-institutions-can-now-endorse-political-candidates/
+    text: Lloyd Hitoshi Mayer comments on the Internal Revenue Service’s move to change
+      how it enforces the Johnson Amendment, which for more than 70 years has restricted
+      charities from endorsing political candidates.  By Lloyd Hitoshi Mayer The Conversation 
+      Churches and other… Read more →
+    one_sentence_summary: Lloyd Hitoshi Mayer discusses the IRS's proposed changes to
+      the enforcement of the Johnson Amendment, which has historically prohibited charities
+      from endorsing political candidates for over 70 years.
+    paragraph_summary: Lloyd Hitoshi Mayer discusses the Internal Revenue Service's
+      recent decision to alter its enforcement of the Johnson Amendment, a long-standing
+      regulation that has prohibited charities, including churches, from endorsing political
+      candidates for over 70 years. This change may significantly impact the political
+      activities of these organizations, raising concerns about the potential blurring
+      of lines between charitable work and political campaigning.
+    published: '2025-07-31T15:20:25+00:00'
+  - title: As Non-Profits, US Religious Institutions Can Now Endorse Political Candidates
+    url: https://consortiumnews.com/2025/07/31/as-non-profits-us-religious-institutions-can-now-endorse-political-candidates/
+    text: Lloyd Hitoshi Mayer comments on the Internal Revenue Service’s move to change
+      how it enforces the Johnson Amendment, which for more than 70 years has restricted
+      charities from endorsing political candidates.  By Lloyd Hitoshi Mayer The Conversation 
+      Churches and other… Read more →
+    one_sentence_summary: Lloyd Hitoshi Mayer discusses the IRS's proposed changes to
+      the enforcement of the Johnson Amendment, which has historically prohibited charities
+      from endorsing political candidates for over 70 years.
+    paragraph_summary: Lloyd Hitoshi Mayer discusses the Internal Revenue Service's
+      recent decision to alter its enforcement of the Johnson Amendment, a long-standing
+      regulation that has prohibited charities, including churches, from endorsing political
+      candidates for over 70 years. This change may significantly impact the political
+      activities of these organizations, raising concerns about the potential blurring
+      of lines between charitable work and political campaigning.
+    published: '2025-07-31T15:20:25+00:00'
+  - title: Non-Profits, the US Constitution & the Law
+    url: https://consortiumnews.com/2025/07/31/non-profits-the-constitution-the-law/
+    text: Andrew P. Napolitano on the Trump IRS’ announcement that it would let houses
+      of worship skirt a federal tax-exemption law restricting political endorsements.
+      By Andrew P. Napolitano When the IRS announced two weeks ago that it would not
+      enforce a… Read more →
+    one_sentence_summary: Andrew P. Napolitano discusses the Trump administration's
+      IRS decision to allow houses of worship to bypass a federal tax-exemption law
+      that limits political endorsements.
+    paragraph_summary: Andrew P. Napolitano discusses the recent announcement by the
+      IRS, which stated that it would not enforce a federal tax-exemption law that restricts
+      political endorsements by houses of worship. This decision allows religious institutions
+      to engage more freely in political activities without the risk of losing their
+      tax-exempt status, raising concerns about the separation of church and state and
+      the potential influence of religious organizations in political matters. Napolitano
+      reflects on the implications of this policy change and its impact on the political
+      landscape.
+    published: '2025-07-31T15:15:24+00:00'
+  - title: Non-Profits, the US Constitution & the Law
+    url: https://consortiumnews.com/2025/07/31/non-profits-the-constitution-the-law/
+    text: Andrew P. Napolitano on the Trump IRS’ announcement that it would let houses
+      of worship skirt a federal tax-exemption law restricting political endorsements.
+      By Andrew P. Napolitano When the IRS announced two weeks ago that it would not
+      enforce a… Read more →
+    one_sentence_summary: Andrew P. Napolitano discusses the Trump administration's
+      IRS decision to allow houses of worship to bypass a federal tax-exemption law
+      that limits political endorsements.
+    paragraph_summary: Andrew P. Napolitano discusses the recent announcement by the
+      IRS, which stated that it would not enforce a federal tax-exemption law that restricts
+      political endorsements by houses of worship. This decision allows religious institutions
+      to engage more freely in political activities without the risk of losing their
+      tax-exempt status, raising concerns about the separation of church and state and
+      the potential influence of religious organizations in political matters. Napolitano
+      reflects on the implications of this policy change and its impact on the political
+      landscape.
+    published: '2025-07-31T15:15:24+00:00'
+  - title: 'Chris Hedges: Abolishing the First Amendment'
+    url: https://consortiumnews.com/2025/07/31/chris-hedges-abolishing-the-first-amendment/
+    text: The burlesque in a committee room of the New Jersey state house over a law
+      conflating anti-Zionism with antisemitism was another depressing reminder of our
+      path towards an authoritarian state. By Chris Hedges ScheerPost I testified at
+      the New Jersey… Read more →
+    one_sentence_summary: The recent chaotic discussions in a New Jersey state house
+      committee regarding a law that equates anti-Zionism with antisemitism highlight
+      troubling trends towards authoritarianism, as noted by Chris Hedges.
+    paragraph_summary: In a recent article by Chris Hedges on ScheerPost, he reflects
+      on a troubling incident in a New Jersey state house committee room where a law
+      was proposed that conflates anti-Zionism with antisemitism. Hedges criticizes
+      the proceedings as a theatrical display that highlights a disturbing trend towards
+      authoritarianism, suggesting that such legislation undermines free speech and
+      critical discourse. He emphasizes the implications of this conflation for political
+      dissent and the broader societal impact, calling attention to the dangers of stifling
+      legitimate criticism of Israel under the guise of combating antisemitism.
+    published: '2025-07-31T06:38:05+00:00'
+  - title: 'Chris Hedges: Abolishing the First Amendment'
+    url: https://consortiumnews.com/2025/07/31/chris-hedges-abolishing-the-first-amendment/
+    text: The burlesque in a committee room of the New Jersey state house over a law
+      conflating anti-Zionism with antisemitism was another depressing reminder of our
+      path towards an authoritarian state. By Chris Hedges ScheerPost I testified at
+      the New Jersey… Read more →
+    one_sentence_summary: The recent chaotic discussions in a New Jersey state house
+      committee regarding a law that equates anti-Zionism with antisemitism highlight
+      troubling trends towards authoritarianism, as noted by Chris Hedges.
+    paragraph_summary: In a recent article by Chris Hedges on ScheerPost, he reflects
+      on a troubling incident in a New Jersey state house committee room where a law
+      was proposed that conflates anti-Zionism with antisemitism. Hedges criticizes
+      the proceedings as a theatrical display that highlights a disturbing trend towards
+      authoritarianism, suggesting that such legislation undermines free speech and
+      critical discourse. He emphasizes the implications of this conflation for political
+      dissent and the broader societal impact, calling attention to the dangers of stifling
+      legitimate criticism of Israel under the guise of combating antisemitism.
+    published: '2025-07-31T06:38:05+00:00'
+  - title: How Palestine Action Was Banned
+    url: https://consortiumnews.com/2025/07/30/how-palestine-action-was-banned/
+    text: The discrepancy between Home Office press briefings and official intelligence
+      reports on the direct-action group raises the prospect of a state-linked disinformation
+      campaign, writes John McEvoy. By John McEvoy Declassified UK The U.K. government
+      was secretly advised that Palestine Action… Read more →
+    one_sentence_summary: John McEvoy highlights concerns about a potential state-linked
+      disinformation campaign due to inconsistencies between Home Office press briefings
+      and official intelligence reports regarding the direct-action group Palestine
+      Action.
+    paragraph_summary: In an article by John McEvoy for Declassified UK, it is highlighted
+      that there is a notable inconsistency between the Home Office's public statements
+      and the intelligence reports regarding the direct-action group Palestine Action.
+      This discrepancy raises concerns about the possibility of a state-linked disinformation
+      campaign aimed at misrepresenting the group's activities and intentions. The article
+      suggests that the government's narrative may not align with the factual intelligence
+      assessments, indicating a potential manipulation of information for political
+      purposes.
+    published: '2025-07-30T18:03:14+00:00'
+  - title: How Palestine Action Was Banned
+    url: https://consortiumnews.com/2025/07/30/how-palestine-action-was-banned/
+    text: The discrepancy between Home Office press briefings and official intelligence
+      reports on the direct-action group raises the prospect of a state-linked disinformation
+      campaign, writes John McEvoy. By John McEvoy Declassified UK The U.K. government
+      was secretly advised that Palestine Action… Read more →
+    one_sentence_summary: John McEvoy highlights concerns about a potential state-linked
+      disinformation campaign due to inconsistencies between Home Office press briefings
+      and official intelligence reports regarding the direct-action group Palestine
+      Action.
+    paragraph_summary: In an article by John McEvoy for Declassified UK, it is highlighted
+      that there is a notable inconsistency between the Home Office's public statements
+      and the intelligence reports regarding the direct-action group Palestine Action.
+      This discrepancy raises concerns about the possibility of a state-linked disinformation
+      campaign aimed at misrepresenting the group's activities and intentions. The article
+      suggests that the government's narrative may not align with the factual intelligence
+      assessments, indicating a potential manipulation of information for political
+      purposes.
+    published: '2025-07-30T18:03:14+00:00'
+  - title: US Embassy Neglects Gaza Flotilla Volunteers
+    url: https://consortiumnews.com/2025/07/30/us-embassy-neglects-gaza-flotilla-volunteers/
+    text: Former U.S. diplomat Ann Wright protests the failure of her country’s embassy
+      in Jerusalem to act on behalf of American volunteers on the Handala who were seized
+      by Israel. By Ann Wright As a former U.S. diplomat charged with the… Read more
+      →
+    one_sentence_summary: Former U.S. diplomat Ann Wright criticizes the U.S. embassy
+      in Jerusalem for not intervening on behalf of American volunteers from the Handala
+      who were detained by Israel.
+    paragraph_summary: Former U.S. diplomat Ann Wright criticizes the U.S. embassy in
+      Jerusalem for not intervening on behalf of American volunteers aboard the Handala,
+      a ship that was seized by Israel. Wright expresses her disappointment in the embassy's
+      inaction and highlights the responsibility of the U.S. government to protect its
+      citizens abroad, particularly in situations involving international conflict.
+    published: '2025-07-30T16:41:36+00:00'
+  - title: US Embassy Neglects Gaza Flotilla Volunteers
+    url: https://consortiumnews.com/2025/07/30/us-embassy-neglects-gaza-flotilla-volunteers/
+    text: Former U.S. diplomat Ann Wright protests the failure of her country’s embassy
+      in Jerusalem to act on behalf of American volunteers on the Handala who were seized
+      by Israel. By Ann Wright As a former U.S. diplomat charged with the… Read more
+      →
+    one_sentence_summary: Former U.S. diplomat Ann Wright criticizes the U.S. embassy
+      in Jerusalem for not intervening on behalf of American volunteers from the Handala
+      who were detained by Israel.
+    paragraph_summary: Former U.S. diplomat Ann Wright criticizes the U.S. embassy in
+      Jerusalem for not intervening on behalf of American volunteers aboard the Handala,
+      a ship that was seized by Israel. Wright expresses her disappointment in the embassy's
+      inaction and highlights the responsibility of the U.S. government to protect its
+      citizens abroad, particularly in situations involving international conflict.
+    published: '2025-07-30T16:41:36+00:00'
   - title: 'Caitlin Johnstone: Mainstream Voices Sudden Pivot on Gaza'
     url: https://consortiumnews.com/2025/07/29/caitlin-johnstone-mainstream-voices-sudden-pivot-on-gaza/
     text: It’s a symptom of Western civilization’s sickness that prominent people are

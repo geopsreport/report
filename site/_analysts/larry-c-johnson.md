@@ -7,16 +7,1935 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  The geopolitical landscape remains tense as the Ukraine conflict, U.S. domestic politics, and shifting narratives in intelligence reporting continue to dominate headlines. The latest reports highlight growing skepticism over official casualty figures, the waning impact of U.S. threats on Russia, and the enduring influence of political philosophy in China.
+  Rising global tensions continue to define the geopolitical landscape as of August 6, 2025. The most significant recent development is Russia’s formal withdrawal from the Intermediate-Range Nuclear Forces (INF) Treaty, a move that **Larry C. Johnson** describes as a direct response to escalating U.S. provocations. This decision marks a sharp escalation in the ongoing standoff between Washington and Moscow, with Johnson warning that it “brings the world closer to the threat of nuclear conflict.” The Kremlin’s posture is now unmistakably more assertive, signaling that Russia is “locked and loaded” and prepared to counter what it perceives as Western aggression.
   
-  A key development is the scrutiny of U.S. intelligence claims regarding Russian casualties in Ukraine. **Larry C. Johnson** strongly disputes the recent figure of two million Russian soldiers killed, labeling it as "bogus" and suggesting that sources feeding such numbers to journalists like Sy Hersh are intentionally misleading. Johnson argues that such inflated statistics serve to shape public perception rather than reflect battlefield realities. This skepticism reflects a broader trend of mistrust in Western intelligence reporting on the Ukraine war, with most analysts now questioning the reliability of official casualty data. I guarantee that these exaggerated figures will continue to be challenged, and the credibility gap between Western and Russian sources is set to widen further.
+  Meanwhile, fallout continues from the reported capture of two high-ranking British Army officers and a British MI-6 agent by Russian Special Forces in Ohakiv, Ukraine. According to **Larry C. Johnson**, this incident underscores the deepening covert dimensions of the Ukraine conflict and highlights the direct involvement of NATO personnel on the ground. The fate of these individuals remains uncertain, but their capture is likely to further strain already fraught relations between Russia and the UK.
   
-  Meanwhile, diplomatic efforts to end the Ukraine conflict appear stalled. Former President Donald Trump’s latest ultimatum—giving Russia 10 to 12 days to end the war or face new sanctions and tariffs—has been largely ignored by Moscow. According to **Larry C. Johnson**, this is unsurprising given the sharp decline in U.S.-Russia trade and the entrenched nature of current sanctions. The lack of Russian response underscores the limited leverage Washington now holds, and there is a high chance that Trump’s threats will have little to no impact on the ground. The consensus among analysts is that the war will persist beyond Trump’s deadline, with no immediate diplomatic breakthrough in sight.
+  On the Middle Eastern front, the crisis in Gaza persists, with mounting international condemnation of Israeli actions and U.S. support. Johnson’s recent analysis points to growing calls for concrete measures, such as expelling Israel from the United Nations and imposing oil embargoes, reflecting a shift from rhetoric to advocacy for direct action. The article also notes increasing domestic pressure within the United States for a policy change, as public outrage over the situation intensifies.
   
-  In a broader context, Johnson’s recent analysis of the "Mandate of Heaven" concept in Chinese political philosophy provides insight into how legitimacy and moral authority continue to shape governance in China. While not directly tied to current events, this historical perspective is increasingly relevant as Beijing asserts its global influence and seeks to justify its domestic and international policies through appeals to virtue and stability.
-  
-  In summary, the latest reporting points to a deepening information war over Ukraine, diminishing U.S. influence on Russian decision-making, and the enduring relevance of political legitimacy in global affairs. The prevailing trend is one of skepticism toward official narratives and a recognition that major geopolitical shifts are unlikely in the immediate future. Most definitely, the coming weeks will see continued contestation of facts and narratives, with little movement toward resolution in the Ukraine conflict.
+  **Trends and Predictions:**  
+  The majority of analysis suggests that the risk of direct confrontation between Russia and the U.S. is now at its highest since the Cold War, particularly in light of the INF Treaty withdrawal. I guarantee that, barring a significant diplomatic breakthrough, both sides will continue to escalate their military posturing in the coming weeks. The Ukraine conflict is likely to see further covert operations and potential prisoner exchanges, but no immediate de-escalation. In the Middle East, international pressure on Israel and its Western backers will most definitely increase, with a high chance of new sanctions or diplomatic initiatives emerging in the near term.
 articles:
+  - title: Putin Subtly Puts the US on Notice… Russia is Locked and Loaded
+    url: https://sonar21.com/putin-subtly-puts-the-us-on-notice-russia-is-locked-and-loaded/
+    text: 'Following two months of provocations and threats from the United States,
+      Vladimir Putin announced a major policy change regarding intermediate-range missiles
+      that pushes the world to the brink of nuclear war. While the mainstream media
+      has largely ignored Russia’s announcement that it would no longer abide by the
+      Intermediate-Range Nuclear Forces Treaty (INF), a few podcasters — e.g., Danny
+      Davis and Alexander Mercouris — recognized both the importance and danger inherent
+      in this decision and discussed this at length during their respective shows. This
+      is not Russia going rogue. Putin’s decision was an unambiguous response to a series
+      of foolish and reckless actions by the United States since June 1st of this year.
+      The Spiderweb attack on Russia’s strategic bomber force on June 1st, using drones
+      deployed from hidden compartments in semi-trucks, was a dangerous provocation,
+      although little damage was inflicted. Twelve days later, Israel launched a decapitation
+      attack on Iran — that too thankfully failed — using the same drone tactic employed
+      in Russia just weeks earlier. In mid-July the Russians listened in shock to General
+      Christopher Donahue, Commander of US European Command (USEUCOM) describe how NATO
+      has tested plans to quickly overrun and capture Kaliningrad, a Russian exclave
+      . At the same time, Trump re-deployed B61-12 nuclear gravity bombs to at least
+      six airfields in Europe, including the UK’s Lakenfield. Lastly, Trump brashly
+      announced the deployment of two nuclear submarines with the specific mission of
+      being in position to strike Russia. [NOTE: This was most likely a symbolic statement
+      because submarines with that mission were already on station.] The Trump administration
+      also has announced that it will begin deploying intermediate-range ballistic missiles
+      (IRBMs) and other long-range fire capabilities in Europe starting in 2026, with
+      Germany as the initial host country for these systems. This deployment specifically
+      includes advanced missile systems such as the Typhoon and Dark Eagle , which have
+      been referenced in recent official communications and news reports. The Typhon
+      Missile System (Mid-Range Capability) is a mobile, ground-launched system that
+      fires multiple missile types (not a missile itself, but a multi-missile platform).
+      It can fire the Tomahawk Land Attack Missile , which has a range of 1,500–2,500 km,
+      or the SM-6, which has a range of 320 km. The Dark Eagle is a Long-Range Hypersonic
+      Weapon, aka LRHW, with a range of 2,775 km. The Dark Eagle hypersonic missile,
+      after several failed attempts from 2021–2023, has been successfully tested. The
+      system achieved its first successful end-to-end flight test in June 2024, followed
+      by a second successful test in December 2024. It is worth reviewing the INF Treaty
+      that Donald Trump cancelled in 2018: Major Points of the INF Treaty Elimination
+      of Intermediate- and Shorter-Range Missiles : The treaty required the US and Soviet
+      Union to eliminate all ground-launched ballistic and cruise missiles with ranges
+      between 500 and 5,500 kilometers (approximately 300–3,400 miles), including both
+      nuclear and conventional variants. Intermediate-range (1,000–5,500 km) and shorter-range
+      (500–1,000 km) missiles were targeted, covering systems like the US Pershing II
+      and Soviet SS-20 Saber. By June 1, 1991, both parties were to complete the destruction
+      of these missiles and their launchers, resulting in the elimination of 2,692 missiles
+      (1,846 Soviet, 846 US). Prohibition on Production and Testing : The treaty banned
+      the production, flight-testing, or possession of ground-launched intermediate-
+      and shorter-range missiles after the elimination deadline. This applied to both
+      nuclear and conventional missiles within the specified range, ensuring no new
+      systems could replace those destroyed. Scope and Exclusions : The treaty covered
+      ground-launched missiles only, excluding air-launched and sea-launched systems
+      (e.g., submarine- or ship-based missiles like the US Tomahawk). It applied to
+      missiles regardless of warhead type (nuclear or conventional), making it comprehensive
+      within its range category. Support structures, such as launchers and associated
+      equipment, were also to be destroyed or rendered unusable. Verification and Inspection
+      : The treaty established a robust verification regime, including on-site inspections
+      , data exchanges, and continuous monitoring of missile production facilities to
+      ensure compliance. A Special Verification Commission was created to resolve compliance
+      disputes, with inspections continuing for 13 years after 1991 (until 2001). Both
+      sides provided detailed inventories of their missile systems and destruction sites.
+      Indefinite Duration : The treaty was of unlimited duration, meaning it remained
+      in force until a party withdrew (as the US did in 2019, citing Russian non-compliance
+      with the 9M729 missile). Either party could withdraw with six months notice if
+      they believed their supreme interests were jeopardized. Global Application : The
+      treaty prohibited deploying covered missiles anywhere in the world, not just in
+      Europe, addressing concerns about Soviet SS-20s targeting Asia and US Pershing
+      IIs in Europe. It applied to missiles stationed in allied territories (e.g., US
+      missiles in NATO countries, Soviet missiles in Warsaw Pact states). That treaty
+      has prevented nuclear war in Europe for 37 years. Now, with Trump’s nuclear sabre
+      rattling, Putin has put Trump on notice… Any IRBMs introduced to Europe will be
+      destroyed. When that happens — mind you, I don’t say “if” — we will be at the
+      very threshold of a nuclear nightmare. I don’t think Trump will get a Nobel Peace
+      Prize out of this. I had my regular Tuesday chat with Marcello. And Scott Ritter
+      and I did a roundtable with Danny Haiphong in the afternoon: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: Vladimir Putin's announcement to withdraw from the Intermediate-Range
+      Nuclear Forces Treaty in response to U.S. provocations escalates global tensions
+      and brings the world closer to the threat of nuclear conflict.
+    paragraph_summary: In response to escalating provocations from the United States
+      over the past two months, including drone attacks and military maneuvers perceived
+      as threats, Vladimir Putin declared that Russia would no longer adhere to the
+      Intermediate-Range Nuclear Forces Treaty (INF), a move that heightens the risk
+      of nuclear conflict. While mainstream media has largely overlooked this significant
+      announcement, some commentators have highlighted its implications, framing it
+      as a direct reaction to U.S. actions such as the deployment of nuclear weapons
+      in Europe and military plans targeting Russian territories. The situation has
+      been exacerbated by the Trump administration's plans to introduce intermediate-range
+      ballistic missiles in Europe, further straining international relations and increasing
+      tensions between the two nuclear powers.
+    published: '2025-08-06T01:57:25+00:00'
+  - title: Putin Subtly Puts the US on Notice… Russia is Locked and Loaded
+    url: https://sonar21.com/putin-subtly-puts-the-us-on-notice-russia-is-locked-and-loaded/
+    text: 'Following two months of provocations and threats from the United States,
+      Vladimir Putin announced a major policy change regarding intermediate-range missiles
+      that pushes the world to the brink of nuclear war. While the mainstream media
+      has largely ignored Russia’s announcement that it would no longer abide by the
+      Intermediate-Range Nuclear Forces Treaty (INF), a few podcasters — e.g., Danny
+      Davis and Alexander Mercouris — recognized both the importance and danger inherent
+      in this decision and discussed this at length during their respective shows. This
+      is not Russia going rogue. Putin’s decision was an unambiguous response to a series
+      of foolish and reckless actions by the United States since June 1st of this year.
+      The Spiderweb attack on Russia’s strategic bomber force on June 1st, using drones
+      deployed from hidden compartments in semi-trucks, was a dangerous provocation,
+      although little damage was inflicted. Twelve days later, Israel launched a decapitation
+      attack on Iran — that too thankfully failed — using the same drone tactic employed
+      in Russia just weeks earlier. In mid-July the Russians listened in shock to General
+      Christopher Donahue, Commander of US European Command (USEUCOM) describe how NATO
+      has tested plans to quickly overrun and capture Kaliningrad, a Russian exclave
+      . At the same time, Trump re-deployed B61-12 nuclear gravity bombs to at least
+      six airfields in Europe, including the UK’s Lakenfield. Lastly, Trump brashly
+      announced the deployment of two nuclear submarines with the specific mission of
+      being in position to strike Russia. [NOTE: This was most likely a symbolic statement
+      because submarines with that mission were already on station.] The Trump administration
+      also has announced that it will begin deploying intermediate-range ballistic missiles
+      (IRBMs) and other long-range fire capabilities in Europe starting in 2026, with
+      Germany as the initial host country for these systems. This deployment specifically
+      includes advanced missile systems such as the Typhoon and Dark Eagle , which have
+      been referenced in recent official communications and news reports. The Typhon
+      Missile System (Mid-Range Capability) is a mobile, ground-launched system that
+      fires multiple missile types (not a missile itself, but a multi-missile platform).
+      It can fire the Tomahawk Land Attack Missile , which has a range of 1,500–2,500 km,
+      or the SM-6, which has a range of 320 km. The Dark Eagle is a Long-Range Hypersonic
+      Weapon, aka LRHW, with a range of 2,775 km. The Dark Eagle hypersonic missile,
+      after several failed attempts from 2021–2023, has been successfully tested. The
+      system achieved its first successful end-to-end flight test in June 2024, followed
+      by a second successful test in December 2024. It is worth reviewing the INF Treaty
+      that Donald Trump cancelled in 2018: Major Points of the INF Treaty Elimination
+      of Intermediate- and Shorter-Range Missiles : The treaty required the US and Soviet
+      Union to eliminate all ground-launched ballistic and cruise missiles with ranges
+      between 500 and 5,500 kilometers (approximately 300–3,400 miles), including both
+      nuclear and conventional variants. Intermediate-range (1,000–5,500 km) and shorter-range
+      (500–1,000 km) missiles were targeted, covering systems like the US Pershing II
+      and Soviet SS-20 Saber. By June 1, 1991, both parties were to complete the destruction
+      of these missiles and their launchers, resulting in the elimination of 2,692 missiles
+      (1,846 Soviet, 846 US). Prohibition on Production and Testing : The treaty banned
+      the production, flight-testing, or possession of ground-launched intermediate-
+      and shorter-range missiles after the elimination deadline. This applied to both
+      nuclear and conventional missiles within the specified range, ensuring no new
+      systems could replace those destroyed. Scope and Exclusions : The treaty covered
+      ground-launched missiles only, excluding air-launched and sea-launched systems
+      (e.g., submarine- or ship-based missiles like the US Tomahawk). It applied to
+      missiles regardless of warhead type (nuclear or conventional), making it comprehensive
+      within its range category. Support structures, such as launchers and associated
+      equipment, were also to be destroyed or rendered unusable. Verification and Inspection
+      : The treaty established a robust verification regime, including on-site inspections
+      , data exchanges, and continuous monitoring of missile production facilities to
+      ensure compliance. A Special Verification Commission was created to resolve compliance
+      disputes, with inspections continuing for 13 years after 1991 (until 2001). Both
+      sides provided detailed inventories of their missile systems and destruction sites.
+      Indefinite Duration : The treaty was of unlimited duration, meaning it remained
+      in force until a party withdrew (as the US did in 2019, citing Russian non-compliance
+      with the 9M729 missile). Either party could withdraw with six months notice if
+      they believed their supreme interests were jeopardized. Global Application : The
+      treaty prohibited deploying covered missiles anywhere in the world, not just in
+      Europe, addressing concerns about Soviet SS-20s targeting Asia and US Pershing
+      IIs in Europe. It applied to missiles stationed in allied territories (e.g., US
+      missiles in NATO countries, Soviet missiles in Warsaw Pact states). That treaty
+      has prevented nuclear war in Europe for 37 years. Now, with Trump’s nuclear sabre
+      rattling, Putin has put Trump on notice… Any IRBMs introduced to Europe will be
+      destroyed. When that happens — mind you, I don’t say “if” — we will be at the
+      very threshold of a nuclear nightmare. I don’t think Trump will get a Nobel Peace
+      Prize out of this. I had my regular Tuesday chat with Marcello. And Scott Ritter
+      and I did a roundtable with Danny Haiphong in the afternoon: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: Vladimir Putin's announcement to withdraw from the Intermediate-Range
+      Nuclear Forces Treaty in response to U.S. provocations escalates global tensions
+      and brings the world closer to the threat of nuclear conflict.
+    paragraph_summary: In response to escalating provocations from the United States
+      over the past two months, including drone attacks and military maneuvers perceived
+      as threats, Vladimir Putin declared that Russia would no longer adhere to the
+      Intermediate-Range Nuclear Forces Treaty (INF), a move that heightens the risk
+      of nuclear conflict. While mainstream media has largely overlooked this significant
+      announcement, some commentators have highlighted its implications, framing it
+      as a direct reaction to U.S. actions such as the deployment of nuclear weapons
+      in Europe and military plans targeting Russian territories. The situation has
+      been exacerbated by the Trump administration's plans to introduce intermediate-range
+      ballistic missiles in Europe, further straining international relations and increasing
+      tensions between the two nuclear powers.
+    published: '2025-08-06T01:57:25+00:00'
+  - title: Russian Special Ops Forces Capture Three British “Soldiers”
+    url: https://sonar21.com/russian-special-ops-forces-capture-three-british-soldiers/
+    text: 'Colonel Edward Blake and Lietenant Colonel Richard Carroll If true, this
+      adds a new twist to the war in Ukraine. I first heard this claim a couple of days
+      ago on BORZZIKMAN’s channel… The Russians captured three Brits in a small town
+      west of Odessa. I was leery of reporting it without additional confirmation. Then
+      I found another source… the Eurasia Daily , which reported that Lieutenant Colonel
+      Richard Carroll, and Colonel Edward Blake , both active-duty officers of the British
+      Army, along with an as-yet-unidentified agent of British MI-6 (Intelligence) were
+      captured during a daring raid by Russian Special Forces, in the city of Ohakiv. That
+      city is shown on the scalable map below: A source from French intelligence provided
+      additional confirmation: My longtime intelligence colleague, whom I know from
+      working in the FBI’s Joint Terrorism Task Force (JTTF) and whom I fully trust,
+      told me that Russian special forces landed from several ships and infiltrated
+      the command center of the Ukrainian armed forces. They captured British soldiers
+      who coordinated the use of British missiles and drones against Russian troops
+      and civilian targets. While I cannot rule out the possibility that this is circular
+      reporting, I think the information is credible. Trump’s golf buddy, Steve Witkoff,
+      was supposed to go to Moscow for talks on Saturday, but the trip was pushed back,
+      with no explanation. Now there are reports that Witkoff’s mission is to try to
+      get the Russians to release the three British operatives. If I was Putin I would
+      tell Witkoff something along these lines: Putin: Mr. Witkoff, if the Mexican drug
+      cartels were launching drones into Texas and killing civilians in San Antonio
+      and Austin, would the United States take steps to eliminate that threat? Witkoff:
+      Yes Mr. President, we would not permit those attacks to go unanswered. Putin:
+      And what would Mr. Trump’s reaction be if, after he ordered Delta Force to raid
+      the headquarters of the drug cartel, your soldiers captured two Chinese military
+      officers and one Chinese intelligence officer, and that they possessed detailed
+      documents outlining plans for future attacks inside the United States? Witkoff:
+      Well… uhh, umm… I am pretty sure that President Trump would want to make an example
+      of them in order to send a strong message to the Chinese to cease all actions
+      that threaten the lives of American citizens. Putin: Precisely. Now you understand
+      our position with respect to these British terrorists. They were not operating
+      under the protection of the Geneva Convention, they are terrorist instigators
+      and will be punished according to Russian law. However, there is a way out of
+      this dilemma for both Britain and NATO: End your financial and military support
+      for Ukraine immediately; recognize Russia’s sovereignty over the Republics of
+      Donetsk, Luhansk, Zaporhyzhia and Kherson; withdraw your missiles from Poland
+      and Romania, which present a potential existential threat to my country; end the
+      economic sanctions the West has unjustly imposed on Russia; return our stolen
+      assets, including the properties in the United States that President Obama wrongfully
+      seized; and agree to sit down and negotiate, using the draft treaty I presented
+      to President Biden in December 2021. Witkoff: (Gulp and stuttering) Mr. President…
+      I… uh… I’m not empowered to make any of those concessions. I must consult with
+      President Trump. Putin: Good. Make sure he understands our position and thank
+      you for your attention to this matter. Have a safe trip home. One can dream, can’t
+      one? I am inclined to believe that the report of the capture of the three British
+      terrorist spies is genuine because both the UK and Trump have not been issuing
+      belligerent threats against Russia for the last couple of days. Russia holds some
+      very valuable trump cards. Unrelated to Ukraine and Russia, but also very important,
+      is this news from Israel, which has been reported by dozens of media outlets:
+      More than 500 former Israeli military and intelligence officers, specifically
+      550, sent an open letter to US President Donald Trump on August 2, 2025, urging
+      him to pressure Israeli Prime Minister Benjamin Netanyahu to end the war in Gaza.
+      The letter was organized by Commanders for Israel’s Security (CIS), a group of
+      retired senior defense and foreign service officials, including notable figures
+      like former Mossad chief Tamir Pardo, former Shin Bet chief Ami Ayalon, former
+      deputy Israeli army chief Matan Vilnai, and former Prime Minister Ehud Barak.
+      They argued that Hamas no longer poses a strategic threat to Israel, that military
+      objectives (dismantling Hamas’s military formations and governance) have been
+      achieved, and that the remaining goal of securing the release of hostages can
+      only be accomplished through a diplomatic deal. The letter emphasized Trump’s
+      credibility with Israelis as a leverage point to push for a ceasefire, stop the
+      suffering, and negotiate the return of approximately 20 hostages still held by
+      Hamas, while warning that continuing the war risks Israel’s security and identity.
+      The appeal came amid stalled ceasefire talks and reports of Netanyahu considering
+      an expansion of military operations, which the signatories opposed. Netanyahu
+      didn’t miss a beat in responding. According to the Jerusalem Post : Prime Minister
+      Benjamin Netanyahu has reached a decision for the full occupation of the Gaza
+      Strip, including operations in areas where hostages are held, a source in the
+      Prime Minister’s Office told The Jerusalem Post on Monday. The Prime Minister’s
+      Office conveyed the message to IDF Chief of Staff Lt.-Gen. Eyal Zamir: If this
+      does not suit you, then you should resign. I am sure that Bibi’s intransigence
+      is going to further inflame political tensions in Israel. There is still no sign
+      that Bibi and his Zionist thugs are ready to give up on the genocide project.
+      I discussed these issues today with Nima and with Judge Napolitano: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Colonel Edward Blake and Lieutenant Colonel Richard Carroll,
+      both active-duty British Army officers, along with a British MI-6 agent, were
+      reportedly captured by Russian Special Forces during a raid in the Ukrainian city
+      of Ohakiv, according to multiple sources.
+    paragraph_summary: Colonel Edward Blake and Lieutenant Colonel Richard Carroll,
+      both active-duty British Army officers, along with an unidentified MI-6 agent,
+      were reportedly captured by Russian Special Forces during a raid in the Ukrainian
+      city of Ohakiv, west of Odessa. This claim, initially shared by BORZZIKMAN’s channel
+      and later corroborated by the Eurasia Daily and a trusted French intelligence
+      source, suggests that the British officers were involved in coordinating the use
+      of British missiles and drones against Russian targets. The situation has prompted
+      discussions about diplomatic efforts, including a postponed visit by Steve Witkoff
+      to Moscow, aimed at negotiating the release of the captured operatives. The article
+      highlights the complexities of the ongoing conflict and raises questions about
+      the implications of foreign military involvement in Ukraine.
+    published: '2025-08-05T02:08:54+00:00'
+  - title: Russian Special Ops Forces Capture Three British “Soldiers”
+    url: https://sonar21.com/russian-special-ops-forces-capture-three-british-soldiers/
+    text: 'Colonel Edward Blake and Lietenant Colonel Richard Carroll If true, this
+      adds a new twist to the war in Ukraine. I first heard this claim a couple of days
+      ago on BORZZIKMAN’s channel… The Russians captured three Brits in a small town
+      west of Odessa. I was leery of reporting it without additional confirmation. Then
+      I found another source… the Eurasia Daily , which reported that Lieutenant Colonel
+      Richard Carroll, and Colonel Edward Blake , both active-duty officers of the British
+      Army, along with an as-yet-unidentified agent of British MI-6 (Intelligence) were
+      captured during a daring raid by Russian Special Forces, in the city of Ohakiv. That
+      city is shown on the scalable map below: A source from French intelligence provided
+      additional confirmation: My longtime intelligence colleague, whom I know from
+      working in the FBI’s Joint Terrorism Task Force (JTTF) and whom I fully trust,
+      told me that Russian special forces landed from several ships and infiltrated
+      the command center of the Ukrainian armed forces. They captured British soldiers
+      who coordinated the use of British missiles and drones against Russian troops
+      and civilian targets. While I cannot rule out the possibility that this is circular
+      reporting, I think the information is credible. Trump’s golf buddy, Steve Witkoff,
+      was supposed to go to Moscow for talks on Saturday, but the trip was pushed back,
+      with no explanation. Now there are reports that Witkoff’s mission is to try to
+      get the Russians to release the three British operatives. If I was Putin I would
+      tell Witkoff something along these lines: Putin: Mr. Witkoff, if the Mexican drug
+      cartels were launching drones into Texas and killing civilians in San Antonio
+      and Austin, would the United States take steps to eliminate that threat? Witkoff:
+      Yes Mr. President, we would not permit those attacks to go unanswered. Putin:
+      And what would Mr. Trump’s reaction be if, after he ordered Delta Force to raid
+      the headquarters of the drug cartel, your soldiers captured two Chinese military
+      officers and one Chinese intelligence officer, and that they possessed detailed
+      documents outlining plans for future attacks inside the United States? Witkoff:
+      Well… uhh, umm… I am pretty sure that President Trump would want to make an example
+      of them in order to send a strong message to the Chinese to cease all actions
+      that threaten the lives of American citizens. Putin: Precisely. Now you understand
+      our position with respect to these British terrorists. They were not operating
+      under the protection of the Geneva Convention, they are terrorist instigators
+      and will be punished according to Russian law. However, there is a way out of
+      this dilemma for both Britain and NATO: End your financial and military support
+      for Ukraine immediately; recognize Russia’s sovereignty over the Republics of
+      Donetsk, Luhansk, Zaporhyzhia and Kherson; withdraw your missiles from Poland
+      and Romania, which present a potential existential threat to my country; end the
+      economic sanctions the West has unjustly imposed on Russia; return our stolen
+      assets, including the properties in the United States that President Obama wrongfully
+      seized; and agree to sit down and negotiate, using the draft treaty I presented
+      to President Biden in December 2021. Witkoff: (Gulp and stuttering) Mr. President…
+      I… uh… I’m not empowered to make any of those concessions. I must consult with
+      President Trump. Putin: Good. Make sure he understands our position and thank
+      you for your attention to this matter. Have a safe trip home. One can dream, can’t
+      one? I am inclined to believe that the report of the capture of the three British
+      terrorist spies is genuine because both the UK and Trump have not been issuing
+      belligerent threats against Russia for the last couple of days. Russia holds some
+      very valuable trump cards. Unrelated to Ukraine and Russia, but also very important,
+      is this news from Israel, which has been reported by dozens of media outlets:
+      More than 500 former Israeli military and intelligence officers, specifically
+      550, sent an open letter to US President Donald Trump on August 2, 2025, urging
+      him to pressure Israeli Prime Minister Benjamin Netanyahu to end the war in Gaza.
+      The letter was organized by Commanders for Israel’s Security (CIS), a group of
+      retired senior defense and foreign service officials, including notable figures
+      like former Mossad chief Tamir Pardo, former Shin Bet chief Ami Ayalon, former
+      deputy Israeli army chief Matan Vilnai, and former Prime Minister Ehud Barak.
+      They argued that Hamas no longer poses a strategic threat to Israel, that military
+      objectives (dismantling Hamas’s military formations and governance) have been
+      achieved, and that the remaining goal of securing the release of hostages can
+      only be accomplished through a diplomatic deal. The letter emphasized Trump’s
+      credibility with Israelis as a leverage point to push for a ceasefire, stop the
+      suffering, and negotiate the return of approximately 20 hostages still held by
+      Hamas, while warning that continuing the war risks Israel’s security and identity.
+      The appeal came amid stalled ceasefire talks and reports of Netanyahu considering
+      an expansion of military operations, which the signatories opposed. Netanyahu
+      didn’t miss a beat in responding. According to the Jerusalem Post : Prime Minister
+      Benjamin Netanyahu has reached a decision for the full occupation of the Gaza
+      Strip, including operations in areas where hostages are held, a source in the
+      Prime Minister’s Office told The Jerusalem Post on Monday. The Prime Minister’s
+      Office conveyed the message to IDF Chief of Staff Lt.-Gen. Eyal Zamir: If this
+      does not suit you, then you should resign. I am sure that Bibi’s intransigence
+      is going to further inflame political tensions in Israel. There is still no sign
+      that Bibi and his Zionist thugs are ready to give up on the genocide project.
+      I discussed these issues today with Nima and with Judge Napolitano: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Colonel Edward Blake and Lieutenant Colonel Richard Carroll,
+      both active-duty British Army officers, along with a British MI-6 agent, were
+      reportedly captured by Russian Special Forces during a raid in the Ukrainian city
+      of Ohakiv, according to multiple sources.
+    paragraph_summary: Colonel Edward Blake and Lieutenant Colonel Richard Carroll,
+      both active-duty British Army officers, along with an unidentified MI-6 agent,
+      were reportedly captured by Russian Special Forces during a raid in the Ukrainian
+      city of Ohakiv, west of Odessa. This claim, initially shared by BORZZIKMAN’s channel
+      and later corroborated by the Eurasia Daily and a trusted French intelligence
+      source, suggests that the British officers were involved in coordinating the use
+      of British missiles and drones against Russian targets. The situation has prompted
+      discussions about diplomatic efforts, including a postponed visit by Steve Witkoff
+      to Moscow, aimed at negotiating the release of the captured operatives. The article
+      highlights the complexities of the ongoing conflict and raises questions about
+      the implications of foreign military involvement in Ukraine.
+    published: '2025-08-05T02:08:54+00:00'
+  - title: What Can Be Done to Stop the Genocide of the Palestinians?
+    url: https://sonar21.com/what-can-be-done-to-stop-the-genocide-of-the-palestinians/
+    text: 'Protest for Palestinians in Australia People around the world are shocked
+      by the images coming out of Gaza, yet feel impotent to do anything to stop it.
+      I understand and I share your frustration. The United States is in a unique position
+      to bring a stop to this horror, but the Trump administration is fully under the
+      control of the Zionist crowd, which is comprised of both Jews and Christians.
+      What can the average US citizen do? For starters, end all contributions to both
+      the Republican and Democrat parties. Be sure that your local Congressional representative
+      hears from you with the explicit warning that you will no longer provide any contribution
+      to their campaign unless they take a stand in opposition to the US policy of facilitating
+      a war crime. On the international front, there is much that the UN can do, starting
+      with expelling Israel from the UN unless it stops killing civilians and it allows
+      unfettered access by UNRWA. Stop the flow of oil to Israel. Turkey and Azerbaijan
+      are the two biggest culprits in facilitating the genocide because they continue
+      to provide Israel with petroleum and gas. Hit Israel with tariffs. The US, China,
+      Germany, Ireland, and India consistently rank among the top partners for both
+      imports and exports. The US is Israel’s main export partner, while China leads
+      in imports, followed by the US and Germany. China in particular can send a powerful
+      message by cutting economic ties with Israel if it does not end the genocide.
+      Here is the list of the countries that can make a difference: Exports: • United
+      States (largest export destination, about 28% of Israeli exports) • Ireland •
+      China • Netherlands • Germany • India • Hong Kong • United Kingdom • Belgium •
+      France Imports: • China (Israel’s largest source of imports, about $19 billion
+      in 2024) • United States • Germany • Italy • United Kingdom • India • Turkey •
+      South Korea • France • Russia I think it is incumbent on BRICS to act forcefully
+      on this since Russia and India, along with China, are in a position to exert economic
+      pressure on Israel. Countries with diplomatic relations with Israel should be
+      prepared to break relations and recall their diplomats. Isolating Israel is the
+      only way to compel it to stop the murder. Finally, artists should use their creativity
+      and popular appeal to rally supporters to the cause of stopping the genocide.
+      Roger Waters is doing that. Here are two more examples of artists speaking out:
+      I realize these suggestions are not a perfect solution, but if done in unison
+      I think it would force Israel to stop. Do you have any ideas? I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article discusses global outrage over the situation in
+      Gaza and calls for action from U.S. citizens to pressure their government to oppose
+      policies that support Israel, while also suggesting international measures such
+      as expelling Israel from the UN and halting oil supplies.
+    paragraph_summary: The article discusses the global outrage over the humanitarian
+      crisis in Gaza and emphasizes the potential actions that individuals and nations
+      can take to address the situation. It criticizes the U.S. government's complicity
+      in the conflict, particularly under the Trump administration, and suggests that
+      American citizens should withdraw financial support from both major political
+      parties unless they oppose U.S. policies that enable what the author describes
+      as war crimes. The piece also calls for international measures, such as expelling
+      Israel from the United Nations, halting oil supplies from Turkey and Azerbaijan,
+      and imposing tariffs on Israeli goods. It highlights the economic relationships
+      between Israel and various countries, particularly the U.S. and China, urging
+      these nations to leverage their trade ties to pressure Israel into ceasing its
+      actions in Gaza. The author concludes by calling on BRICS nations to take a strong
+      stance against the situation.
+    published: '2025-08-04T02:52:00+00:00'
+  - title: What Can Be Done to Stop the Genocide of the Palestinians?
+    url: https://sonar21.com/what-can-be-done-to-stop-the-genocide-of-the-palestinians/
+    text: 'Protest for Palestinians in Australia People around the world are shocked
+      by the images coming out of Gaza, yet feel impotent to do anything to stop it.
+      I understand and I share your frustration. The United States is in a unique position
+      to bring a stop to this horror, but the Trump administration is fully under the
+      control of the Zionist crowd, which is comprised of both Jews and Christians.
+      What can the average US citizen do? For starters, end all contributions to both
+      the Republican and Democrat parties. Be sure that your local Congressional representative
+      hears from you with the explicit warning that you will no longer provide any contribution
+      to their campaign unless they take a stand in opposition to the US policy of facilitating
+      a war crime. On the international front, there is much that the UN can do, starting
+      with expelling Israel from the UN unless it stops killing civilians and it allows
+      unfettered access by UNRWA. Stop the flow of oil to Israel. Turkey and Azerbaijan
+      are the two biggest culprits in facilitating the genocide because they continue
+      to provide Israel with petroleum and gas. Hit Israel with tariffs. The US, China,
+      Germany, Ireland, and India consistently rank among the top partners for both
+      imports and exports. The US is Israel’s main export partner, while China leads
+      in imports, followed by the US and Germany. China in particular can send a powerful
+      message by cutting economic ties with Israel if it does not end the genocide.
+      Here is the list of the countries that can make a difference: Exports: • United
+      States (largest export destination, about 28% of Israeli exports) • Ireland •
+      China • Netherlands • Germany • India • Hong Kong • United Kingdom • Belgium •
+      France Imports: • China (Israel’s largest source of imports, about $19 billion
+      in 2024) • United States • Germany • Italy • United Kingdom • India • Turkey •
+      South Korea • France • Russia I think it is incumbent on BRICS to act forcefully
+      on this since Russia and India, along with China, are in a position to exert economic
+      pressure on Israel. Countries with diplomatic relations with Israel should be
+      prepared to break relations and recall their diplomats. Isolating Israel is the
+      only way to compel it to stop the murder. Finally, artists should use their creativity
+      and popular appeal to rally supporters to the cause of stopping the genocide.
+      Roger Waters is doing that. Here are two more examples of artists speaking out:
+      I realize these suggestions are not a perfect solution, but if done in unison
+      I think it would force Israel to stop. Do you have any ideas? I thank you for
+      your invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article discusses global outrage over the situation in
+      Gaza and calls for action from U.S. citizens to pressure their government to oppose
+      policies that support Israel, while also suggesting international measures such
+      as expelling Israel from the UN and halting oil supplies.
+    paragraph_summary: The article discusses the global outrage over the humanitarian
+      crisis in Gaza and emphasizes the potential actions that individuals and nations
+      can take to address the situation. It criticizes the U.S. government's complicity
+      in the conflict, particularly under the Trump administration, and suggests that
+      American citizens should withdraw financial support from both major political
+      parties unless they oppose U.S. policies that enable what the author describes
+      as war crimes. The piece also calls for international measures, such as expelling
+      Israel from the United Nations, halting oil supplies from Turkey and Azerbaijan,
+      and imposing tariffs on Israeli goods. It highlights the economic relationships
+      between Israel and various countries, particularly the U.S. and China, urging
+      these nations to leverage their trade ties to pressure Israel into ceasing its
+      actions in Gaza. The author concludes by calling on BRICS nations to take a strong
+      stance against the situation.
+    published: '2025-08-04T02:52:00+00:00'
+  - title: American Thinker Publishes Article by an Ignorant Author
+    url: https://sonar21.com/american-thinker-publishes-article-by-an-ignorant-author/
+    text: 'The latest issue of American Thinker just published a piece that puts moron
+      in the term, oxymoron . The piece is titled, Perpetual Russian Wars , and is written
+      by Jacob Fraden, who was born in Russia and arrived in the United States in 1977.
+      I am taking a wild guess here, but I suspect that he is Jewish and that his parents
+      left the Soviet Union as part of the Soviet Jewry Movement . The Soviet Jewry
+      Movement emerged as a global campaign in support of Soviet Jews (“refuseniks”)
+      who were denied the right to emigrate, facing both official restrictions and persecution.
+      The movement gained international attention after high-profile events such as
+      the 1970 Leningrad hijacking attempt, in which Soviet Jews tried to draw the world’s
+      attention to their desires for emigration by attempting to commandeer a plane
+      to escape to the West. Why am I focusing on this guy? The lies in his article
+      are breathtaking. I think he has a clear agenda… Promote a war to destroy Russia.
+      He starts with this: Here is an excerpt from a memorandum (1900) written by the
+      Russian War Minister General Kuropatkin to Emperor Nicholas II: “Your Imperial
+      Majesty! Throughout the 18th and 19th centuries, Russia spent 128 years at war…
+      Of those, only 5 were defensive wars; all the rest—aggressive campaigns… The foreign
+      wars lasted more than 67 years of continuous fighting; the defensive wars lasted
+      2 years and 1 month. The rest, 121 military operations, were waged beyond the
+      borders of the empire.” All Mr. Fraden had to do was a simple AI search to validate
+      the claim, but he failed to do so. Here’s what I found: Across the 18th and 19th
+      centuries, Russia was at war for a substantial portion of the time—by most scholarly
+      estimates, Russian forces were involved in wars or large-scale military campaigns
+      for roughly 70 of the 200 years (about 35% of the total period). Okay. While he
+      accurately quotes General Kuropatkin, it turns out that the General was not very
+      good at math… He was off by 58 years. But Fraden is not a scholar of history.
+      He is acting like a propagandist in my opinion. I think he proves that with the
+      following passage: After the collapse of the Soviet empire, Russia’s predatory
+      mindset did not vanish. Since 1991, Russia has continued to exist in a state of
+      permanent war: Georgia, Chechnya, Syria, and now the most senseless war of all—against
+      Ukraine. A natural question arises: why? Looking for a rational explanation is
+      pointless. Russia has always acted irrationally, without any clear benefit and
+      almost always to its detriment. The root of all its imperial wars should perhaps
+      be studied through the lens of psychology or even psychiatry, which is not what
+      I intend to do in this essay. My aim is much simpler: to draw attention to the
+      ultimate goal of Russia’s current war against Ukraine. BULL EXCREMENT! Let’s deal
+      with the facts. Russia was not involved in a war outside its borders until the
+      West provoked the brief two-week war between Georgia and Russia in 2008. If you’re
+      having trouble with math, that means Russia was not attacking anyone outside of
+      Russia for 17 years. And despite persistent Western propaganda to portray this
+      as Russian aggression , the truth is otherwise. South Ossetia, officially called
+      the Republic of South Ossetia or the State of Alania , is a landlocked region
+      in the South Caucasus which declared independence from Georgia in 1992. Russia
+      deployed peacekeepers in 1992 to the border. In April 2008, NATO, at the urging
+      of the US, announced in April its intent to bring Ukraine and Georgia into NATO.
+      Following this announcement, US Ambassador to Russia William Burns, wrote his
+      now famous cable that warned the Bush Administration that this was a redline for
+      Moscow… Nyet means nyet . Four months later, the President of Georgia, emboldened
+      by the NATO plans, authorized an attack on the Russian peacekeepers. Russia responded
+      and defeated Georgia in two weeks. The War in Chechnya is another red herring
+      . It was actually two wars. Chechnya is part of Russia and is predominantly Sunni
+      Muslim. The First Chechen War started on December 11, 1994, when Russian forces
+      launched a military operation to reestablish control over Chechnya. The war ended
+      with a ceasefire and the Khasavyurt Accord on August 31, 1996. During this conflict,
+      Chechnya fought for de facto independence from Russia, with heavy fighting including
+      the devastating Battle of Grozny . The Second Chechen War was ignited with the
+      help of Western intelligence, which provided funding and weapons to radical Islamists…
+      Many of the same folks we armed and trained in Afghanistan during the 1980s. That
+      was a bloody terrorist war, starting on August 7, 1999 and ended in 2009. Russia
+      won that. But here’s the key point: Russia did not provoke the war, the West did.
+      Then there is Syria. The government of Syria asked Russia for military help in
+      its civil war in 2015. Specifically, Russian military intervention began after
+      Syrian President Bashar al-Assad sent a request to Russian President Vladimir
+      Putin. Following this request, on September 30, 2015, Russia’s Federation Council
+      gave Putin the authority to deploy Russian forces and start airstrikes in Syria
+      to support Assad’s regime, targeting terrorist groups and opposition forces. This
+      marked the official start of Russia’s active military involvement in the Syrian
+      civil war. Fraden’s claim that these conflicts are evidence of “Russia’s predatory
+      mindset” is a bald-faced lie. Every single one was a reaction to Western intervention
+      or provocation. Accusing Russia of being a predator is akin to calling a shepherd
+      who shoots a mountain lion that is attacking his flock of sheep, a predator .
+      I will not subject you to anymore of Fraden’s ridiculous, specious propaganda.
+      You can read it for yourself if you have a sadomasochistic itch you need to scratch.
+      This is just one more example for the Deep State’s desperate effort to manufacture
+      a narrative for the American public that will justify a war with Russia by portraying
+      Russia as an irredeemable predator… No negotiations, only war. Now for something
+      a bit more inspiring… I interviewed Roger Waters, the brains behind Pink Floyd
+      , on Thursday. My goal was to explore his journey to political activism, and we
+      had a fascinating chat about that. Although his father died while he was still
+      an infant, Roger grew up to be a man, inspired by his father’s life. Watch the
+      end of the video… Roger debuts a new song he has written about the Palestinian
+      peoples fight for freedom. It is called, SUMUD : I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article critiques Jacob Fraden's piece in American Thinker,
+      "Perpetual Russian Wars," alleging that it contains significant falsehoods and
+      promotes an agenda for war against Russia, while also highlighting Fraden's background
+      as a Russian émigré and the historical context of the Soviet Jewry Movement.
+    paragraph_summary: The article critiques Jacob Fraden's piece titled "Perpetual
+      Russian Wars," published in American Thinker, arguing that it contains significant
+      inaccuracies and promotes an agenda for war against Russia. The author suggests
+      that Fraden, a Russian émigré, may have a personal bias stemming from his background,
+      particularly related to the Soviet Jewry Movement. The critique highlights a specific
+      claim made by Fraden, referencing a memorandum from Russian War Minister General
+      Kuropatkin, which inaccurately states the duration of Russia's wars in the 18th
+      and 19th centuries. The author points out that while Fraden quotes Kuropatkin,
+      he fails to verify the claim, resulting in a gross miscalculation of the years
+      Russia was engaged in warfare. Overall, the article emphasizes the need for accuracy
+      and critical analysis in discussions about historical conflicts.
+    published: '2025-08-03T02:27:56+00:00'
+  - title: American Thinker Publishes Article by an Ignorant Author
+    url: https://sonar21.com/american-thinker-publishes-article-by-an-ignorant-author/
+    text: 'The latest issue of American Thinker just published a piece that puts moron
+      in the term, oxymoron . The piece is titled, Perpetual Russian Wars , and is written
+      by Jacob Fraden, who was born in Russia and arrived in the United States in 1977.
+      I am taking a wild guess here, but I suspect that he is Jewish and that his parents
+      left the Soviet Union as part of the Soviet Jewry Movement . The Soviet Jewry
+      Movement emerged as a global campaign in support of Soviet Jews (“refuseniks”)
+      who were denied the right to emigrate, facing both official restrictions and persecution.
+      The movement gained international attention after high-profile events such as
+      the 1970 Leningrad hijacking attempt, in which Soviet Jews tried to draw the world’s
+      attention to their desires for emigration by attempting to commandeer a plane
+      to escape to the West. Why am I focusing on this guy? The lies in his article
+      are breathtaking. I think he has a clear agenda… Promote a war to destroy Russia.
+      He starts with this: Here is an excerpt from a memorandum (1900) written by the
+      Russian War Minister General Kuropatkin to Emperor Nicholas II: “Your Imperial
+      Majesty! Throughout the 18th and 19th centuries, Russia spent 128 years at war…
+      Of those, only 5 were defensive wars; all the rest—aggressive campaigns… The foreign
+      wars lasted more than 67 years of continuous fighting; the defensive wars lasted
+      2 years and 1 month. The rest, 121 military operations, were waged beyond the
+      borders of the empire.” All Mr. Fraden had to do was a simple AI search to validate
+      the claim, but he failed to do so. Here’s what I found: Across the 18th and 19th
+      centuries, Russia was at war for a substantial portion of the time—by most scholarly
+      estimates, Russian forces were involved in wars or large-scale military campaigns
+      for roughly 70 of the 200 years (about 35% of the total period). Okay. While he
+      accurately quotes General Kuropatkin, it turns out that the General was not very
+      good at math… He was off by 58 years. But Fraden is not a scholar of history.
+      He is acting like a propagandist in my opinion. I think he proves that with the
+      following passage: After the collapse of the Soviet empire, Russia’s predatory
+      mindset did not vanish. Since 1991, Russia has continued to exist in a state of
+      permanent war: Georgia, Chechnya, Syria, and now the most senseless war of all—against
+      Ukraine. A natural question arises: why? Looking for a rational explanation is
+      pointless. Russia has always acted irrationally, without any clear benefit and
+      almost always to its detriment. The root of all its imperial wars should perhaps
+      be studied through the lens of psychology or even psychiatry, which is not what
+      I intend to do in this essay. My aim is much simpler: to draw attention to the
+      ultimate goal of Russia’s current war against Ukraine. BULL EXCREMENT! Let’s deal
+      with the facts. Russia was not involved in a war outside its borders until the
+      West provoked the brief two-week war between Georgia and Russia in 2008. If you’re
+      having trouble with math, that means Russia was not attacking anyone outside of
+      Russia for 17 years. And despite persistent Western propaganda to portray this
+      as Russian aggression , the truth is otherwise. South Ossetia, officially called
+      the Republic of South Ossetia or the State of Alania , is a landlocked region
+      in the South Caucasus which declared independence from Georgia in 1992. Russia
+      deployed peacekeepers in 1992 to the border. In April 2008, NATO, at the urging
+      of the US, announced in April its intent to bring Ukraine and Georgia into NATO.
+      Following this announcement, US Ambassador to Russia William Burns, wrote his
+      now famous cable that warned the Bush Administration that this was a redline for
+      Moscow… Nyet means nyet . Four months later, the President of Georgia, emboldened
+      by the NATO plans, authorized an attack on the Russian peacekeepers. Russia responded
+      and defeated Georgia in two weeks. The War in Chechnya is another red herring
+      . It was actually two wars. Chechnya is part of Russia and is predominantly Sunni
+      Muslim. The First Chechen War started on December 11, 1994, when Russian forces
+      launched a military operation to reestablish control over Chechnya. The war ended
+      with a ceasefire and the Khasavyurt Accord on August 31, 1996. During this conflict,
+      Chechnya fought for de facto independence from Russia, with heavy fighting including
+      the devastating Battle of Grozny . The Second Chechen War was ignited with the
+      help of Western intelligence, which provided funding and weapons to radical Islamists…
+      Many of the same folks we armed and trained in Afghanistan during the 1980s. That
+      was a bloody terrorist war, starting on August 7, 1999 and ended in 2009. Russia
+      won that. But here’s the key point: Russia did not provoke the war, the West did.
+      Then there is Syria. The government of Syria asked Russia for military help in
+      its civil war in 2015. Specifically, Russian military intervention began after
+      Syrian President Bashar al-Assad sent a request to Russian President Vladimir
+      Putin. Following this request, on September 30, 2015, Russia’s Federation Council
+      gave Putin the authority to deploy Russian forces and start airstrikes in Syria
+      to support Assad’s regime, targeting terrorist groups and opposition forces. This
+      marked the official start of Russia’s active military involvement in the Syrian
+      civil war. Fraden’s claim that these conflicts are evidence of “Russia’s predatory
+      mindset” is a bald-faced lie. Every single one was a reaction to Western intervention
+      or provocation. Accusing Russia of being a predator is akin to calling a shepherd
+      who shoots a mountain lion that is attacking his flock of sheep, a predator .
+      I will not subject you to anymore of Fraden’s ridiculous, specious propaganda.
+      You can read it for yourself if you have a sadomasochistic itch you need to scratch.
+      This is just one more example for the Deep State’s desperate effort to manufacture
+      a narrative for the American public that will justify a war with Russia by portraying
+      Russia as an irredeemable predator… No negotiations, only war. Now for something
+      a bit more inspiring… I interviewed Roger Waters, the brains behind Pink Floyd
+      , on Thursday. My goal was to explore his journey to political activism, and we
+      had a fascinating chat about that. Although his father died while he was still
+      an infant, Roger grew up to be a man, inspired by his father’s life. Watch the
+      end of the video… Roger debuts a new song he has written about the Palestinian
+      peoples fight for freedom. It is called, SUMUD : I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article critiques Jacob Fraden's piece in American Thinker,
+      "Perpetual Russian Wars," alleging that it contains significant falsehoods and
+      promotes an agenda for war against Russia, while also highlighting Fraden's background
+      as a Russian émigré and the historical context of the Soviet Jewry Movement.
+    paragraph_summary: The article critiques Jacob Fraden's piece titled "Perpetual
+      Russian Wars," published in American Thinker, arguing that it contains significant
+      inaccuracies and promotes an agenda for war against Russia. The author suggests
+      that Fraden, a Russian émigré, may have a personal bias stemming from his background,
+      particularly related to the Soviet Jewry Movement. The critique highlights a specific
+      claim made by Fraden, referencing a memorandum from Russian War Minister General
+      Kuropatkin, which inaccurately states the duration of Russia's wars in the 18th
+      and 19th centuries. The author points out that while Fraden quotes Kuropatkin,
+      he fails to verify the claim, resulting in a gross miscalculation of the years
+      Russia was engaged in warfare. Overall, the article emphasizes the need for accuracy
+      and critical analysis in discussions about historical conflicts.
+    published: '2025-08-03T02:27:56+00:00'
+  - title: Complicity in the genocide in Palestine – the day of reckoning will come!
+    url: https://sonar21.com/complicity-in-the-genocide-in-palestine-the-day-of-reckoning-will-come/
+    text: 'Western politicians, propagandists, media lackeys, and others are also complicit
+      in the genocide in Palestine. They still feel safe because they have gotten away
+      with it so far. That won’t last forever. Michelangelo Buonarroti: The Last Judgment
+      – Fresco in the Sistine Chapel in the Vatican, 1536–1541 Introduction The Anglo-Saxon
+      self-appointed rulers of the world established the “state” of Israel in order
+      to dominate the Middle East. From the outset, chaos and destruction for all surrounding
+      potential centers of power was the plan and program. The Zionist settler colony
+      in the territory of Palestine was and is their tool. For about eighty years, Israel
+      has been practicing ethnic cleansing against the Palestinian population and trying
+      to make Greater Israel free of Palestinians. For decades, Israel has been acting
+      against international law —with total impunity and with the approval of the Anglo-Saxons
+      and Europe. Israel can only get away with such atrocities because we applaud as
+      if this situation were normal. Western politicians, propagandists, media lackeys,
+      and others are fueling aggression, war crimes, crimes against humanity, and thus
+      against mankind itself. Ultimately, they are also participating in genocide. This
+      cannot go unpunished in the long run. Meanwhile, the world powers are acting grandly.
+      France is tentatively toying with the symbolic recognition of a Palestinian state.
+      The EU is issuing half-hearted warnings about possible political consequences,
+      which are nothing more than a fig leaf. Britain, the master of ambiguity, is advising
+      Israel on how to wage “its” war ‘humanely’ and “rein in” the settler mobs terrorizing
+      the West Bank. These are not serious threats, but empty, ineffective gestures
+      aimed at maintaining the appearance of engagement while shielding Israel from
+      its responsibilities. This collective inaction—the choreographed outrage without
+      real condemnation—is not simply indifference. It is condoning tolerance. It is
+      the resurrection of Nazi ideology, only with a different flag and uniform. It
+      is not only the imitation of the mechanisms of extermination, but also the same
+      moral barbarism that made such atrocities possible. This article is a follow-up
+      to our article “Genocide as ‘self-defense’ – Western media as accomplices in the
+      genocide in Gaza – We stand up!” from July 15, because we are staying on the ball.
+      Germany continues its shameful history. The flagship of Germany’s bought-and-paid-for
+      propaganda machine is the Bild newspaper. On July 21, 2025, it headlined : “25
+      countries call on Israel to end the Gaza war. Good thing Germany isn’t among them
+      this time!“ Twenty-five countries, including the United Kingdom and France, had
+      issued a lukewarm statement calling on Israel to ”end the war in the Gaza Strip
+      now.” Israel must comply with international law, they said. Germany did not sign
+      this statement. The foreign ministers of the 25 other countries condemned “the
+      distribution of aid on a drip and the inhumane killing of civilians.” On July
+      22, 2025, Bild followed suit : “Explosive letter of outrage! SPD turns against
+      Israel. The SPD parliamentary group in the Bundestag is calling on the federal
+      government to change course in its policy toward Israel—without even mentioning
+      Hamas, which is destroying every chance for peace and has been holding Israeli
+      (and German) hostages for almost two years.” As I said, the empty words of the
+      25 European states are not meant seriously, but are merely intended to maintain
+      the appearance of commitment in order to lull the world public and their own populations.
+      But Germany is not even willing to make such a “gesture” – not because it does
+      not approve of these despicable actions, but because it fully supports the Zionist
+      propaganda narrative. It should be noted that this is the course of action being
+      taken: Bezalel Smotrich (Israeli Minister of Finance) said in early May 2025 that
+      Gaza would be completely destroyed. The same minister had already declared in
+      August 2024 that it was “justified and morally acceptable” for Israel to “starve
+      2 million civilians” until “the hostages are returned.” His counterpart, Itamar
+      Ben-Gvir (Minister of the Interior and Security), made the following statement
+      : “Food and aid depots should be bombed to exert military and political pressure.”
+      In January 2024, he announced : “The only humane solution for Gaza is mass deportation.”
+      These were not empty words or propaganda slogans. The world watches daily as these
+      plans are barbarically implemented (for many examples, see here , here , and here
+      ). A woman stands amid the rubble of destroyed buildings following Israeli airstrikes,
+      Gaza, October 2023. Copyright : Mustafa Hassona Anadulu via Getty Images This
+      is reminiscent of the letter written by Reinhard Heydrich, head of the SS Security
+      Service, to Heinrich Himmler on October 20, 1941, in which he complained about
+      the lack of efficiency of the German bombardment of the cities of Warsaw and Leningrad
+      and reminded the Reichsführer SS of Adolf Hitler’s directive to “wipe out” the
+      cities: “I respectfully request that you be advised that the strict instructions
+      issued regarding the cities of Leningrad and Moscow cannot be carried out unless
+      brutal measures are taken from the outset. The head of Task Force A, SS-Brif.
+      Dr. Stahlecker, reports to me, for example, that trusted informants who have crossed
+      the line and returned from Leningrad say that the destruction in the city is still
+      quite insignificant. The example of the former Polish capital (Warsaw) has also
+      shown that even the most intensive bombardment cannot cause the destruction that
+      was expected. In my opinion, incendiary and explosive bombs must be used on a
+      massive scale in such cases. I therefore respectfully request that the Führer
+      be reminded once again that unless absolutely clear and strict orders are given
+      to the Wehrmacht, the two cities can hardly be destroyed.” Rolf-Dieter Müller:
+      Hitlers Ostkrieg und die deutsche Siedlungspolitik. Frankfurt am Main, 1991, p.
+      161. The Warsaw Ghetto After the occupation of Poland in 1939, the German occupiers
+      forced the Jewish population of Warsaw – around 400,000 people, almost a third
+      of the city’s population – into a cramped area surrounded by walls. Living conditions
+      were catastrophic: overcrowding, hunger, diseases such as typhus and a lack of
+      medical care led to an extremely high mortality rate. Source: https://encyclopedia.ushmm.org/content/en/photo/a-destitute-child-in-the-warsaw-ghetto
+      Source: https://encyclopedia.ushmm.org/content/en/photo/children-eating-in-the-ghetto-streets-warsaw-poland-between-1940-and-1943
+      Most of the ghetto’s inhabitants were deported between 1942 and 1943 to extermination
+      camps, mainly to Treblinka, where they were murdered. Source: https://de.wikipedia.org/wiki/Warschauer_Ghetto#/media/Datei:Stroop_Report_-_Warsaw_Ghetto_Uprising_BW.jpg
+      Of the more than 400,000 people imprisoned in the Warsaw Ghetto, only a few thousand
+      survived. After the uprising in the Warsaw Ghetto in April–May 1943, Heinrich
+      Himmler ordered the complete destruction of the ghetto. The aim was to wipe out
+      the ghetto as a place of Jewish resistance and at the same time to set an example
+      (documented in: Nazi Conspiracy and Aggression (Nuremberg Documents, “Red Series”)
+      – e.g. document NO-2753). The following individuals were responsible for carrying
+      out the order: SS Brigade Leader Jürgen Stroop (center) inspects the destruction
+      of the Warsaw Ghetto; Source : picture alliance /United Archiv This is what they
+      have done: The Warsaw Ghetto after its destruction: https://de.wikipedia.org/wiki/Warschauer_Ghetto#/media/Datei:Warsaw_Ghetto_destroyed_by_Germans,_1945.jpg
+      And this is what Rafah in Gaza looks like today: Rafah today – Source: AFP News
+      Agency Stroop documented the outcome of the suppression of the uprising and the
+      systematic destruction of the ghetto in an official report entitled “There is
+      no longer a Jewish residential district in Warsaw!” https://collections.ushmm.org/search/catalog/pa5223
+      The Stroop Report was presented as evidence at the Nuremberg Trials (IMT Document
+      1061-PS). It explicitly states that the ghetto was to be “destroyed step by step”
+      and “razed to the ground.” The operational reports of the SS and police in the
+      General Government contain specific orders for the burning, demolition, and “cleansing”
+      of the ruins (partially included in: Documents on the Jewish Policy of the Third
+      Reich ( Dokumente zur Judenpolitik des Dritten Reiches, ed. Eberhard Jäckel, Peter
+      Longerich). “Through the use of demolition and arson squads, a total of 631 bunkers
+      were blown up and over 2,000 buildings destroyed. […] The goal was the complete
+      destruction of the Jewish residential district.“ (Daily report, May 1943) ”The
+      intention was to comb through and destroy the residential district house by house
+      in order to break any remaining resistance and leave no hiding place.” (Daily
+      report, April 24, 1943) The end of a war criminal After World War II, Stroop was
+      initially captured by the Americans. In 1947, he was sentenced to death in the
+      “Dachau Trial” for his crimes against Allied prisoners of war (he was also an
+      inspector in Greece, where he carried out brutal repressions), but was later extradited
+      to Poland. In Poland, another trial took place in 1951–1952, in which Stroop was
+      charged with crimes committed during the Warsaw Ghetto Uprising. The Polish court
+      also sentenced him to death. On March 6, 1952, Jürgen Stroop was executed by hanging
+      in Mokotów Prison in Warsaw. The Siege of Leningrad (now Saint Petersburg) The
+      Wehrmacht cut off supplies to Leningrad (the second largest city in the Soviet
+      Union and an important industrial and cultural center) from September 8, 1941,
+      until its liberation on January 27, 1944, for almost 872 days in order to force
+      the city to surrender. Hitler planned to starve the population rather than take
+      the city directly in order to spare his troops. The city was surrounded by German
+      and Finnish troops from the north and south. The worst consequence of the siege
+      was hunger. Food rations fell to 125 grams of bread per person per day at times
+      during the winter of 1941/42. In some cases, bread was stretched with wood flour
+      and other substitutes. Patient with dystrophy, 1941, from an exhibition at the
+      Leningrad Museum. https://de.wikipedia.org/wiki/Leningrader_Blockade#cite_ref-10
+      According to estimates, between 600,000 and 1.2 million people died, mainly civilians,
+      mostly from hunger and cold. Three men bury victims of starvation at the Wolkowo
+      Cemetery during the days of mass deaths, October 1942; https://de.wikipedia.org/wiki/Leningrader_Blockade#cite_ref-10
+      The city was also severely damaged by air raids and artillery fire, leaving many
+      buildings in ruins. Leningrad residents leave their bombed-out homes, December
+      1942; https://de.wikipedia.org/wiki/Leningrader_Blockade#/media/Datei:RIAN_archive_2153_After_bombing.jpg
+      The end of further war criminals The siege of Leningrad also played an important
+      role in the judgments of the Nuremberg Trials (IMT – International Military Tribunal).
+      For example, Wilhelm Keitel, Chief of the High Command of the Wehrmacht, was held
+      responsible for the starvation of Leningrad, among other things. The verdict states:
+      “Keitel signed and circulated the Commissar Order and issued orders which provided
+      for the starvation of Leningrad and Moscow in order to exterminate their populations.”
+      IMT Judgment, Vol. I, p. 294 (English edition) In the general section (on war
+      crimes in the East), the court explicitly mentions the planned starvation: „The
+      Nazi plan to starve the population of the large Russian cities is evidenced by
+      many documents. They planned to encircle and starve Leningrad and Moscow.“) IMT
+      Judgement, Bd. I, S. 228–229 (engl. Ausgabe) The prosecution cited the “ Hunger
+      Plan ” several times as evidence of a war of extermination: “Millions of people
+      were to starve in the East. Entire cities such as Leningrad were not to be conquered,
+      but left to starve to death.” Summary of the indictment – the exact quotes can
+      mostly be found in the evidence, e.g., OKW documents. These passages can be found,
+      for example, in the official “Trial of the Major War Criminals before the International
+      Military Tribunal” (Nuremberg, 1947 – the so-called “Blue Books.” They are freely
+      available on the Internet, e.g., via the Avalon Project (Yale) or the Nuremberg
+      Trials Project (Harvard). On October 1, 1946, the International Military Tribunal
+      in Nuremberg announced its verdict against 22 main defendants. Keitel was found
+      guilty on all four counts (conspiracy, crimes against peace, war crimes, crimes
+      against humanity). The blockade of Leningrad had been part of the Soviet indictment
+      against criminal warfare in the East and was included in the judgment as evidence
+      of the brutality of the war of aggression and the war of extermination against
+      the Soviet Union as a whole. On the night of October 15-16, 1946, Keitel was executed
+      in Nuremberg Prison along with ten others sentenced to death (including Jodl,
+      Ribbentrop, and Kaltenbrunner). Like Göring, he had asked to be shot as a soldier.
+      This request was denied – he was hanged like a common criminal. Further war crimes
+      committed by the Nazis are being copied by Israel Israel’s current actions against
+      the population of Gaza and the West Bank appear to be an almost perfect copy of
+      the actions described above committed by Nazi Germany against the populations
+      of Warsaw and Leningrad. Screenshot from CBS video dated July 15, 2025 But that’s
+      not where the parallels end. In Palestine, Israel is not only destroying civilian
+      buildings and driving out and wiping out the local populations, it is also using
+      starvation tactics, which were classified as crimes against humanity at the Nuremberg
+      trials. Hunger as a weapon of genocide After the majority of the population of
+      Gaza expressed its confidence in Hamas, it has ruled there virtually alone since
+      2007. Since then, Israel has imposed a blockade on the Gaza Strip. This affects
+      the movement of people and goods, including food, medical supplies, fuel, and
+      building materials. Officially, the blockade was justified as a security measure
+      to prevent arms deliveries to Hamas. Since the attack on Israel by Hamas-led fighters
+      on October 7, 2023, senior Israeli officials, including Defense Minister Yoav
+      Gallant (“ “We will impose a complete siege. No electricity, no food, no water,
+      no fuel — everything is closed.” ), National Security Minister Itamar Ben-Gvir
+      ( “As long as Hamas does not release the hostages it is holding, only hundreds
+      of tons of explosives from the air force should be brought into the Gaza Strip,
+      but not a single gram of humanitarian aid.” ) and Energy Minister Israel Katz
+      ( “For humanitarian reasons [seriously!!], I strongly oppose lifting the blockade
+      and allowing goods into Gaza.” ), publicly stated that they want to cut off the
+      civilian population in Gaza from food, water, medical supplies, and fuel — statements
+      that reflect the policy of the Israeli armed forces. Other Israeli officials have
+      publicly stated that humanitarian aid to Gaza will be contingent on either the
+      release of hostages illegally held by Hamas or the destruction of Hamas. Osama
+      al-Raqab, 5, at the malnutrition clinic of Nasser Hospital in Khan Younis, Gaza,
+      on Thursday, May 1, 2025. [ Abdel Kareem Hana/AP Photo ] Meanwhile, 57 deaths
+      from starvation have already been confirmed in Gaza in May 2025, and the numbers
+      are rising daily. Thousands are facing starvation. Yet UNRWA reports that it has
+      enough food to feed the entire population of Gaza for a long time. But Israel,
+      which uses aid as a weapon and is protected by the US, is not allowing it into
+      the country. Two-year-old Yazan Abu Foul is cared for by his mother Naima, as
+      he suffers from severe malnutrition due to the severe food shortage in Gaza. Photograph:
+      Haitham Imad/EPA And just when you thought it couldn’t get any more cynical, USrael
+      has come up with another cunning plan: the Gaza Humanitarian Foundation (GHF),
+      a private foundation supported by the US and Israel, which was established in
+      February 2025. It is registered in Delaware (US) and Geneva (Switzerland). Its
+      official goal is to distribute aid such as food, water, medicine, and emergency
+      shelter directly in Gaza—outside the structures of UN agencies or international
+      NGOs that Israel considers too “close to Hamas.” After months of hunger and bombardment,
+      the GHF was yet another diversionary tactic – conceived by Israel, paid for once
+      again by the US, not to end the hunger, but to neutralize international pressure.
+      It has since proven to be yet another deadly betrayal by Israel. Instead of serving
+      as a lifeline, these GHF “pipes” have turned into a veritable death trap. According
+      to the United Nations, nearly 900 Palestinians, or 300 per month in the last three
+      months, desperate mothers, fathers, and children seeking help, have been murdered
+      . Source: The Conversation At home, they faced starvation , and in the distribution
+      centers, according to the Israeli daily newspaper Haaretz on June 27, 2025, they
+      were met with Israeli bullets . The same military that caused the famine is shooting
+      the victims at the gates of their so-called salvation. The US-funded GHF handed
+      over control of food aid to Israel – and now young girls are being targeted at
+      water collection points. All basic necessities—food, water, medicine—are no longer
+      a right, but a weapon of Israel. A weapon to starve, deny water, and withhold
+      medicine—designed to imprison Palestinians and create the conditions for “voluntary”
+      ethnic cleansing. It goes without saying that deliberately starving the civilian
+      population is a war crime under international law. Even though Israel has only
+      signed but never ratified Additional Protocol I of June 8, 1977 (“Protocol I of
+      June 8, 1977, to the Geneva Conventions of August 12, 1949, relating to the Protection
+      of Victims of International Armed Conflicts”), it nevertheless applies to Israel
+      as customary international law. But our politicians, such as Chancellor Friedrich
+      Merz and their palace propagandists, babble about Israel’s right to self-defense
+      in this context. New concentration camps of the Zionazis In the past, numerous
+      respectable individuals and organizations have repeatedly referred to Gaza as
+      “the world’s largest open-air prison”: Jimmy Carter (former US president: “Gaza
+      is now the world’s largest open-air prison.”); David Cameron (former British Prime
+      Minister: “We do not want people in Gaza living in a prison camp.”); Desmond Tutu
+      (Nobel Peace Prize laureate, South African archbishop – Tutu repeatedly compared
+      the blockade to apartheid conditions and spoke of Gaza as a “prison”); Organizations
+      such as Human Rights Watch, Amnesty International, and UN representatives often
+      use terms such as “open-air prison” or “prison camp” (example: UNRWA Director
+      John Ging (2008): “Gaza is a prison — it’s an open-air prison.” Israeli Prime
+      Minister Benjamin Netanyahu during a bilateral dinner with US President Donald
+      Trump at the White House in Washington, DC, USA, on July 7. – Reuters Now USrael
+      has surpassed even the oxymoronic “Humanitarian GHF Foundation” and presented
+      a new Orwellian plan: a “ humanitarian city ” in which 600,000 Palestinians from
+      northern Gaza are to be housed in a walled compound in the south – where you can
+      check in but not check out. The new Israeli concentration camp, in which more
+      than a quarter of Gaza’s population is to be interned, dwarfs many of the Nazi
+      camps of World War II. Calling a concentration camp a “humanitarian city” is part
+      of Israel’s war of words. In this context, Israel has perfected the manipulation
+      of language. Israel is not starving the Palestinians; it is imposing “calorie
+      restrictions.” It is not building ghettos, but “security zones.” It is not carrying
+      out ethnic cleansing, but offering the opportunity for ‘voluntary’ emigration.
+      And now it is not committing mass expulsions, but proposing a “humanitarian city.”
+      In contrast, Gideon Levi points out the following: The Jewish state is building
+      a ghetto. What a terrible sentence. It’s bad enough that the plan was presented
+      as if it could be legitimate in any way—who is for concentration camps and who
+      is against them?—but from there it’s only a small step to an even more terrible
+      idea: Next, someone could propose setting up an extermination camp for those who
+      fail the screening at the entrance to the ghetto. Israel is already killing Gazans
+      en masse, so why not streamline the process … Someone could also propose a compact
+      crematorium on the ruins of Khan Yunis, access to which, as in the nearby ghetto
+      in Rafah, would be purely voluntary. Voluntary, of course, as in the “humanitarian
+      city.” Only leaving the two camps would no longer be voluntary. That’s what the
+      minister proposed… Gideon Levy, Haaretz, July 10, 2025 Approval of genocide and
+      war crimes is punishable under the German Criminal Code Incitement of the people
+      (§ 130 StGB) In particular, incitement of the people (§ 130 StGB) is punishable.
+      This includes approving, denying, or trivializing the Holocaust or acts of genocide
+      in a manner that disturbs public peace (Section 130 (3) StGB), inciting hatred
+      against parts of the population or calling for violence and arbitrary measures
+      (Section 130 (1) StGB) or publicly calling for criminal offences (Section 111
+      StGB). Anyone who publicly calls for a war of aggression, war crimes, or crimes
+      against humanity is liable to prosecution. Under certain circumstances, the approval
+      of such acts may also fall under this provision. Section 130 (3) refers only to
+      Nazi crimes. However, since October 2022, Section 130 (5) of the German Criminal
+      Code (StGB) has also been in force, extending criminal liability to the denial
+      or gross trivialization of all genocide, war crimes, and crimes against humanity—no
+      longer just Nazi crimes. The exact wording (Section 130 (5) StGB) is as follows:
+      “Anyone who publicly or in an assembly denies, grossly trivializes, or approves
+      of an act described in Section 6(1) of the International Crimes Act that was committed
+      in a present or past actual act in a manner likely to disturb public peace shall
+      also be punished.” (Section 130 (5) StGB) Rewarding and approving criminal offenses
+      (Section 140 StGB) It is also important to note the rewarding and approving of
+      criminal offenses (Section 140 StGB): “Anyone who publicly rewards or approves
+      of an unlawful act under Sections 138, 126, 129a, 129b, 211 to 218b, 226a, 306
+      to 306c or 316a to 316c in public (…) shall be punished.” Although war crimes
+      are not directly included in this list, murder (Section 211 StGB) is included.
+      Many war crimes are also murder. Therefore, Section 140 StGB may also apply here.
+      Reason for criminal liability Criminal liability arises from the protection of
+      public peace, human dignity, and legal peace. When someone publicly approves of
+      war crimes, they are presenting the most serious crimes under international law
+      as justified. In doing so, they violate not only the dignity of the victims. They
+      can also incite hatred or violence against certain groups of people. They can
+      encourage others to imitate such acts or fuel existing stereotypes. The legal
+      system is designed to prevent such things from becoming normalized in society.
+      That is why approving such acts is punishable by law—just like approving terrorist
+      attacks. The fundamental right to freedom of expression (Article 5 of the German
+      Basic Law) ends where it encroaches on the core of human dignity—for example,
+      when justifying the most serious crimes against humanity. The evasion tactic of
+      Israel’s alleged right to self-defense What was that again about the Gleiwitz
+      radio station? “Since 5:45 a.m., we have been firing back! And from now on, bombs
+      will be answered with bombs!” Adolf Hitler in front of the Reichstag on September
+      1, 1939 Adolf Hitler said this in his speech in front of the Reichstag on September
+      1, 1939, to justify the German attack on Poland. The sentence was intended to
+      portray the attack on the Gleiwitz radio station and other staged border incidents
+      (false flag Operation Himmler) as Polish aggression—the aim was to present the
+      German attack as “necessary self-defense.” The typical Western narrative (as expressed,
+      for example, by Friedrich Merz on May 26, 2025, during a WDR interview) is that
+      Israel’s actions in Gaza can only be justified as self-defense … if certain boundaries
+      are crossed. Merz further emphasized that Germany must speak out when international
+      humanitarian law is violated. These conditional clauses completely ignore the
+      fact that these lines have long been crossed and that countermeasures by Merz
+      & Co. would therefore be appropriate – but of course, nothing but lukewarm words
+      are forthcoming. In reality, however, this narrative ignores the crystal-clear
+      situation under international law. Prof. Dr. iur. et phil. Alfred de Zayas, international
+      lawyer, historian, and former UN mandate holder, sums it up in a nutshell : “In
+      this context, it must be remembered that the Palestinians have been suffering
+      expulsion and occupation not only since 2023, but since 1947. Furthermore, according
+      to the UN Charter and Article 1 of the International Covenant on Civil and Political
+      Rights, the Palestinians have the right to self-determination and a right to resistance
+      against the occupying power that is recognized under international law. If a state
+      occupies foreign territory, oppresses the population, severely restricts their
+      living space through illegal settlements, and bombs hospitals and schools—in other
+      words, flouts international law—no one would think of granting the oppressive
+      state a right to self-defense and supporting it in its oppression when the oppressed
+      fight back, even if their actions are violent.” Prof. Dr. iur. et phil. Alfred
+      de Zayas He refers to a relevant UN resolution. “Right of resistance of the Palestinians
+      and all those living under occupation, Article 7 of UN Resolution 29/3314: Definition
+      of aggression This definition [of aggression], in particular Article 3, shall
+      not prejudice the right to self-determination, freedom and independence of peoples
+      who have been deprived of this right by violent means and who are mentioned in
+      the Declaration on Principles of International Law concerning Friendly Relations
+      and Cooperation among States in accordance with the Charter of the United Nations,
+      in particular those peoples who are under colonial and racist regimes or other
+      forms of foreign domination: nor the right of these peoples to fight for this
+      goal and to seek and receive support in accordance with the principles of the
+      Charter and in accordance with the above-mentioned Declaration.” (Source: Resolution
+      adopted by the General Assembly 29/3314 : Definition of Aggression www.un-documents.net/a29r3314.htm
+      ) Complicity in genocide According to the German Criminal Code, if several perpetrators
+      commit a crime together, everyone who makes a significant contribution to the
+      crime based on a joint plan is punished. USrael could never, ever carry out the
+      monstrosities described above if Western politicians, propagandists, media lackeys,
+      and others did not actively ensure that USrael goes unpunished and that no one
+      seriously objects. Constant propaganda ensures this. This has been part of the
+      joint diabolical plan from the very beginning. Methods of desensitization, deception,
+      and fraud are used scientifically and systematically. Systematic mass crimes are
+      reported over months or years in such a way that, over time, genocide becomes
+      “just another news item.” The shock effect wears off, and viewers become accustomed
+      to it. Daily deaths are packaged into abstract statistics. “10,000 dead” sounds
+      as distant to many as “100,000 dead.” Without names, stories, and images of individual
+      fates, there is no emotional connection. New “crises” replace old ones. Genocide
+      recedes into the background when another major event makes headlines. The sensory
+      overload of constant confrontation with violence, disasters, suffering, or extremes
+      (e.g., in the news, TV series, video games) leads to desensitization to human
+      suffering. Attention moves on, and perpetrators can continue almost undisturbed.
+      Our quality media work on this day in and day out. From an unjust state to a constitutional
+      state and back to barbarism Immediately after the end of World War II and the
+      atrocities committed by the Nazi regime, the mothers and fathers of the German
+      constitution understood that there is an absolute, unconditional limit that the
+      state must never cross: the dignity of every single human being. The wording “Human
+      dignity shall be inviolable” in Article 1, paragraph 1 of the German Basic Law
+      is no coincidence, but rather the expression of a conscious, historical decision.
+      “Is inviolable” is an assertion of existence. It declares dignity to be the absolutely
+      protected core of every human being, which is untouchable in itself, regardless
+      of what someone wants or does, no matter how terrible. “ Is inviolable” is metaphysical,
+      existential. The state cannot violate it without delegitimizing itself. This is
+      why it is immediately followed by the phrase: “It is the duty of all state authority
+      to respect and protect it.” Its inviolability leads to an immediate duty to protect.
+      After the totalitarian regime, it was thus made clear that human dignity is beyond
+      the power of any authority. It is an irrevocable foundation that even constitutional
+      amendments cannot touch (cf. the eternity clause in Article 79 (3) of the Basic
+      Law). This laid the foundation for Germany’s transformation from an unjust state
+      to a constitutional state. However, the current collusion with the perpetrators
+      of genocide in the Middle East is leading straight back to barbarism, and this
+      must not go unpunished. We need a new Nuremberg Trial General Emerson Curtis LeMay
+      was a high-ranking US general in the United States Air Force and is known for
+      his central role in the development and execution of strategic bombing during
+      World War II and the Cold War. He was responsible for the firebombing of Japanese
+      cities, including the devastating attack on Tokyo in March 1945, which killed
+      over 100,000 people. During the Cold War, he was head of the Strategic Air Command
+      (1948–1957) and made it a central component of the US nuclear forces. In the Vietnam
+      War, he was a vocal advocate of the bombing campaigns ordered by President Lyndon
+      B. Johnson and US Secretary of Defense Robert McNamara, such as Operation Rolling
+      Thunder against North Vietnam. Robert McNamara quotes LeMay in Errol Morris’ documentary
+      film “ The Fog of War ” (2003) as follows: „LeMay said, if we had lost the war,
+      we would have all been prosecuted for war crimes. And I think he’s right. He,
+      and I’d say I, were behaving as war criminals. LeMay recognized that.“ Robert
+      McNamara Robert H. Jackson was the chief prosecutor for the United States at the
+      Nuremberg Trials against the major war criminals after World War II. In his opening
+      statement on November 21, 1945, he stated: “We must never forget that the standard
+      by which we judge these defendants today is the standard by which history will
+      judge us tomorrow.” (Robert H. Jackson – IMT, Vol. 2, p. 154) Video Conclusion
+      Our Western justice system not only reflects the spirit of the times, but also
+      depends on the respective balance of power. Clear legal principles can become
+      blurred depending on the mental state of society. What is crystal clear on paper
+      (and according to the will of the international community) is often turned into
+      its opposite in practice. However, this does not alter the fact that the original
+      principles of international law, particularly with regard to human rights, are
+      an expression of the natural morality of humankind. They therefore have a natural
+      validity that cannot be overridden by any amount of legal wrangling or propaganda.
+      Those responsible must not escape the punishment they deserve. Peter Hanseler
+      is a geopolitical analyst who reports from Moscow. Peter was born in Zurich, Switzerland.
+      He holds a J.D. (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School
+      and Master in International Commercial Law (LL.M.) from Georgetown University
+      Law School, Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand
+      and Russia. Peter is independent, his work is not supported by government or private
+      entities. Peter’s website Forumgeopolitica.com publishes its content in English,
+      Russian, German and French.'
+    one_sentence_summary: The article argues that Western politicians and media are
+      complicit in the ongoing genocide in Palestine, facilitated by their support for
+      Israel's actions, which are characterized as ethnic cleansing and violations of
+      international law.
+    paragraph_summary: The article argues that Western politicians, media, and other
+      influential figures are complicit in the ongoing genocide in Palestine, facilitated
+      by their support for Israel's actions over the past eighty years, which include
+      ethnic cleansing and violations of international law. It suggests that the establishment
+      of Israel was a strategic move by Anglo-Saxon powers to dominate the Middle East,
+      leading to chaos and destruction in the region. The piece criticizes the superficial
+      responses from Western nations, such as France's symbolic recognition of a Palestinian
+      state and the EU's weak warnings, labeling these actions as empty gestures that
+      ultimately shield Israel from accountability. The author contends that this collective
+      inaction is not mere indifference but a form of complicity that echoes historical
+      atrocities.
+    published: '2025-08-02T14:42:38+00:00'
+  - title: Complicity in the genocide in Palestine – the day of reckoning will come!
+    url: https://sonar21.com/complicity-in-the-genocide-in-palestine-the-day-of-reckoning-will-come/
+    text: 'Western politicians, propagandists, media lackeys, and others are also complicit
+      in the genocide in Palestine. They still feel safe because they have gotten away
+      with it so far. That won’t last forever. Michelangelo Buonarroti: The Last Judgment
+      – Fresco in the Sistine Chapel in the Vatican, 1536–1541 Introduction The Anglo-Saxon
+      self-appointed rulers of the world established the “state” of Israel in order
+      to dominate the Middle East. From the outset, chaos and destruction for all surrounding
+      potential centers of power was the plan and program. The Zionist settler colony
+      in the territory of Palestine was and is their tool. For about eighty years, Israel
+      has been practicing ethnic cleansing against the Palestinian population and trying
+      to make Greater Israel free of Palestinians. For decades, Israel has been acting
+      against international law —with total impunity and with the approval of the Anglo-Saxons
+      and Europe. Israel can only get away with such atrocities because we applaud as
+      if this situation were normal. Western politicians, propagandists, media lackeys,
+      and others are fueling aggression, war crimes, crimes against humanity, and thus
+      against mankind itself. Ultimately, they are also participating in genocide. This
+      cannot go unpunished in the long run. Meanwhile, the world powers are acting grandly.
+      France is tentatively toying with the symbolic recognition of a Palestinian state.
+      The EU is issuing half-hearted warnings about possible political consequences,
+      which are nothing more than a fig leaf. Britain, the master of ambiguity, is advising
+      Israel on how to wage “its” war ‘humanely’ and “rein in” the settler mobs terrorizing
+      the West Bank. These are not serious threats, but empty, ineffective gestures
+      aimed at maintaining the appearance of engagement while shielding Israel from
+      its responsibilities. This collective inaction—the choreographed outrage without
+      real condemnation—is not simply indifference. It is condoning tolerance. It is
+      the resurrection of Nazi ideology, only with a different flag and uniform. It
+      is not only the imitation of the mechanisms of extermination, but also the same
+      moral barbarism that made such atrocities possible. This article is a follow-up
+      to our article “Genocide as ‘self-defense’ – Western media as accomplices in the
+      genocide in Gaza – We stand up!” from July 15, because we are staying on the ball.
+      Germany continues its shameful history. The flagship of Germany’s bought-and-paid-for
+      propaganda machine is the Bild newspaper. On July 21, 2025, it headlined : “25
+      countries call on Israel to end the Gaza war. Good thing Germany isn’t among them
+      this time!“ Twenty-five countries, including the United Kingdom and France, had
+      issued a lukewarm statement calling on Israel to ”end the war in the Gaza Strip
+      now.” Israel must comply with international law, they said. Germany did not sign
+      this statement. The foreign ministers of the 25 other countries condemned “the
+      distribution of aid on a drip and the inhumane killing of civilians.” On July
+      22, 2025, Bild followed suit : “Explosive letter of outrage! SPD turns against
+      Israel. The SPD parliamentary group in the Bundestag is calling on the federal
+      government to change course in its policy toward Israel—without even mentioning
+      Hamas, which is destroying every chance for peace and has been holding Israeli
+      (and German) hostages for almost two years.” As I said, the empty words of the
+      25 European states are not meant seriously, but are merely intended to maintain
+      the appearance of commitment in order to lull the world public and their own populations.
+      But Germany is not even willing to make such a “gesture” – not because it does
+      not approve of these despicable actions, but because it fully supports the Zionist
+      propaganda narrative. It should be noted that this is the course of action being
+      taken: Bezalel Smotrich (Israeli Minister of Finance) said in early May 2025 that
+      Gaza would be completely destroyed. The same minister had already declared in
+      August 2024 that it was “justified and morally acceptable” for Israel to “starve
+      2 million civilians” until “the hostages are returned.” His counterpart, Itamar
+      Ben-Gvir (Minister of the Interior and Security), made the following statement
+      : “Food and aid depots should be bombed to exert military and political pressure.”
+      In January 2024, he announced : “The only humane solution for Gaza is mass deportation.”
+      These were not empty words or propaganda slogans. The world watches daily as these
+      plans are barbarically implemented (for many examples, see here , here , and here
+      ). A woman stands amid the rubble of destroyed buildings following Israeli airstrikes,
+      Gaza, October 2023. Copyright : Mustafa Hassona Anadulu via Getty Images This
+      is reminiscent of the letter written by Reinhard Heydrich, head of the SS Security
+      Service, to Heinrich Himmler on October 20, 1941, in which he complained about
+      the lack of efficiency of the German bombardment of the cities of Warsaw and Leningrad
+      and reminded the Reichsführer SS of Adolf Hitler’s directive to “wipe out” the
+      cities: “I respectfully request that you be advised that the strict instructions
+      issued regarding the cities of Leningrad and Moscow cannot be carried out unless
+      brutal measures are taken from the outset. The head of Task Force A, SS-Brif.
+      Dr. Stahlecker, reports to me, for example, that trusted informants who have crossed
+      the line and returned from Leningrad say that the destruction in the city is still
+      quite insignificant. The example of the former Polish capital (Warsaw) has also
+      shown that even the most intensive bombardment cannot cause the destruction that
+      was expected. In my opinion, incendiary and explosive bombs must be used on a
+      massive scale in such cases. I therefore respectfully request that the Führer
+      be reminded once again that unless absolutely clear and strict orders are given
+      to the Wehrmacht, the two cities can hardly be destroyed.” Rolf-Dieter Müller:
+      Hitlers Ostkrieg und die deutsche Siedlungspolitik. Frankfurt am Main, 1991, p.
+      161. The Warsaw Ghetto After the occupation of Poland in 1939, the German occupiers
+      forced the Jewish population of Warsaw – around 400,000 people, almost a third
+      of the city’s population – into a cramped area surrounded by walls. Living conditions
+      were catastrophic: overcrowding, hunger, diseases such as typhus and a lack of
+      medical care led to an extremely high mortality rate. Source: https://encyclopedia.ushmm.org/content/en/photo/a-destitute-child-in-the-warsaw-ghetto
+      Source: https://encyclopedia.ushmm.org/content/en/photo/children-eating-in-the-ghetto-streets-warsaw-poland-between-1940-and-1943
+      Most of the ghetto’s inhabitants were deported between 1942 and 1943 to extermination
+      camps, mainly to Treblinka, where they were murdered. Source: https://de.wikipedia.org/wiki/Warschauer_Ghetto#/media/Datei:Stroop_Report_-_Warsaw_Ghetto_Uprising_BW.jpg
+      Of the more than 400,000 people imprisoned in the Warsaw Ghetto, only a few thousand
+      survived. After the uprising in the Warsaw Ghetto in April–May 1943, Heinrich
+      Himmler ordered the complete destruction of the ghetto. The aim was to wipe out
+      the ghetto as a place of Jewish resistance and at the same time to set an example
+      (documented in: Nazi Conspiracy and Aggression (Nuremberg Documents, “Red Series”)
+      – e.g. document NO-2753). The following individuals were responsible for carrying
+      out the order: SS Brigade Leader Jürgen Stroop (center) inspects the destruction
+      of the Warsaw Ghetto; Source : picture alliance /United Archiv This is what they
+      have done: The Warsaw Ghetto after its destruction: https://de.wikipedia.org/wiki/Warschauer_Ghetto#/media/Datei:Warsaw_Ghetto_destroyed_by_Germans,_1945.jpg
+      And this is what Rafah in Gaza looks like today: Rafah today – Source: AFP News
+      Agency Stroop documented the outcome of the suppression of the uprising and the
+      systematic destruction of the ghetto in an official report entitled “There is
+      no longer a Jewish residential district in Warsaw!” https://collections.ushmm.org/search/catalog/pa5223
+      The Stroop Report was presented as evidence at the Nuremberg Trials (IMT Document
+      1061-PS). It explicitly states that the ghetto was to be “destroyed step by step”
+      and “razed to the ground.” The operational reports of the SS and police in the
+      General Government contain specific orders for the burning, demolition, and “cleansing”
+      of the ruins (partially included in: Documents on the Jewish Policy of the Third
+      Reich ( Dokumente zur Judenpolitik des Dritten Reiches, ed. Eberhard Jäckel, Peter
+      Longerich). “Through the use of demolition and arson squads, a total of 631 bunkers
+      were blown up and over 2,000 buildings destroyed. […] The goal was the complete
+      destruction of the Jewish residential district.“ (Daily report, May 1943) ”The
+      intention was to comb through and destroy the residential district house by house
+      in order to break any remaining resistance and leave no hiding place.” (Daily
+      report, April 24, 1943) The end of a war criminal After World War II, Stroop was
+      initially captured by the Americans. In 1947, he was sentenced to death in the
+      “Dachau Trial” for his crimes against Allied prisoners of war (he was also an
+      inspector in Greece, where he carried out brutal repressions), but was later extradited
+      to Poland. In Poland, another trial took place in 1951–1952, in which Stroop was
+      charged with crimes committed during the Warsaw Ghetto Uprising. The Polish court
+      also sentenced him to death. On March 6, 1952, Jürgen Stroop was executed by hanging
+      in Mokotów Prison in Warsaw. The Siege of Leningrad (now Saint Petersburg) The
+      Wehrmacht cut off supplies to Leningrad (the second largest city in the Soviet
+      Union and an important industrial and cultural center) from September 8, 1941,
+      until its liberation on January 27, 1944, for almost 872 days in order to force
+      the city to surrender. Hitler planned to starve the population rather than take
+      the city directly in order to spare his troops. The city was surrounded by German
+      and Finnish troops from the north and south. The worst consequence of the siege
+      was hunger. Food rations fell to 125 grams of bread per person per day at times
+      during the winter of 1941/42. In some cases, bread was stretched with wood flour
+      and other substitutes. Patient with dystrophy, 1941, from an exhibition at the
+      Leningrad Museum. https://de.wikipedia.org/wiki/Leningrader_Blockade#cite_ref-10
+      According to estimates, between 600,000 and 1.2 million people died, mainly civilians,
+      mostly from hunger and cold. Three men bury victims of starvation at the Wolkowo
+      Cemetery during the days of mass deaths, October 1942; https://de.wikipedia.org/wiki/Leningrader_Blockade#cite_ref-10
+      The city was also severely damaged by air raids and artillery fire, leaving many
+      buildings in ruins. Leningrad residents leave their bombed-out homes, December
+      1942; https://de.wikipedia.org/wiki/Leningrader_Blockade#/media/Datei:RIAN_archive_2153_After_bombing.jpg
+      The end of further war criminals The siege of Leningrad also played an important
+      role in the judgments of the Nuremberg Trials (IMT – International Military Tribunal).
+      For example, Wilhelm Keitel, Chief of the High Command of the Wehrmacht, was held
+      responsible for the starvation of Leningrad, among other things. The verdict states:
+      “Keitel signed and circulated the Commissar Order and issued orders which provided
+      for the starvation of Leningrad and Moscow in order to exterminate their populations.”
+      IMT Judgment, Vol. I, p. 294 (English edition) In the general section (on war
+      crimes in the East), the court explicitly mentions the planned starvation: „The
+      Nazi plan to starve the population of the large Russian cities is evidenced by
+      many documents. They planned to encircle and starve Leningrad and Moscow.“) IMT
+      Judgement, Bd. I, S. 228–229 (engl. Ausgabe) The prosecution cited the “ Hunger
+      Plan ” several times as evidence of a war of extermination: “Millions of people
+      were to starve in the East. Entire cities such as Leningrad were not to be conquered,
+      but left to starve to death.” Summary of the indictment – the exact quotes can
+      mostly be found in the evidence, e.g., OKW documents. These passages can be found,
+      for example, in the official “Trial of the Major War Criminals before the International
+      Military Tribunal” (Nuremberg, 1947 – the so-called “Blue Books.” They are freely
+      available on the Internet, e.g., via the Avalon Project (Yale) or the Nuremberg
+      Trials Project (Harvard). On October 1, 1946, the International Military Tribunal
+      in Nuremberg announced its verdict against 22 main defendants. Keitel was found
+      guilty on all four counts (conspiracy, crimes against peace, war crimes, crimes
+      against humanity). The blockade of Leningrad had been part of the Soviet indictment
+      against criminal warfare in the East and was included in the judgment as evidence
+      of the brutality of the war of aggression and the war of extermination against
+      the Soviet Union as a whole. On the night of October 15-16, 1946, Keitel was executed
+      in Nuremberg Prison along with ten others sentenced to death (including Jodl,
+      Ribbentrop, and Kaltenbrunner). Like Göring, he had asked to be shot as a soldier.
+      This request was denied – he was hanged like a common criminal. Further war crimes
+      committed by the Nazis are being copied by Israel Israel’s current actions against
+      the population of Gaza and the West Bank appear to be an almost perfect copy of
+      the actions described above committed by Nazi Germany against the populations
+      of Warsaw and Leningrad. Screenshot from CBS video dated July 15, 2025 But that’s
+      not where the parallels end. In Palestine, Israel is not only destroying civilian
+      buildings and driving out and wiping out the local populations, it is also using
+      starvation tactics, which were classified as crimes against humanity at the Nuremberg
+      trials. Hunger as a weapon of genocide After the majority of the population of
+      Gaza expressed its confidence in Hamas, it has ruled there virtually alone since
+      2007. Since then, Israel has imposed a blockade on the Gaza Strip. This affects
+      the movement of people and goods, including food, medical supplies, fuel, and
+      building materials. Officially, the blockade was justified as a security measure
+      to prevent arms deliveries to Hamas. Since the attack on Israel by Hamas-led fighters
+      on October 7, 2023, senior Israeli officials, including Defense Minister Yoav
+      Gallant (“ “We will impose a complete siege. No electricity, no food, no water,
+      no fuel — everything is closed.” ), National Security Minister Itamar Ben-Gvir
+      ( “As long as Hamas does not release the hostages it is holding, only hundreds
+      of tons of explosives from the air force should be brought into the Gaza Strip,
+      but not a single gram of humanitarian aid.” ) and Energy Minister Israel Katz
+      ( “For humanitarian reasons [seriously!!], I strongly oppose lifting the blockade
+      and allowing goods into Gaza.” ), publicly stated that they want to cut off the
+      civilian population in Gaza from food, water, medical supplies, and fuel — statements
+      that reflect the policy of the Israeli armed forces. Other Israeli officials have
+      publicly stated that humanitarian aid to Gaza will be contingent on either the
+      release of hostages illegally held by Hamas or the destruction of Hamas. Osama
+      al-Raqab, 5, at the malnutrition clinic of Nasser Hospital in Khan Younis, Gaza,
+      on Thursday, May 1, 2025. [ Abdel Kareem Hana/AP Photo ] Meanwhile, 57 deaths
+      from starvation have already been confirmed in Gaza in May 2025, and the numbers
+      are rising daily. Thousands are facing starvation. Yet UNRWA reports that it has
+      enough food to feed the entire population of Gaza for a long time. But Israel,
+      which uses aid as a weapon and is protected by the US, is not allowing it into
+      the country. Two-year-old Yazan Abu Foul is cared for by his mother Naima, as
+      he suffers from severe malnutrition due to the severe food shortage in Gaza. Photograph:
+      Haitham Imad/EPA And just when you thought it couldn’t get any more cynical, USrael
+      has come up with another cunning plan: the Gaza Humanitarian Foundation (GHF),
+      a private foundation supported by the US and Israel, which was established in
+      February 2025. It is registered in Delaware (US) and Geneva (Switzerland). Its
+      official goal is to distribute aid such as food, water, medicine, and emergency
+      shelter directly in Gaza—outside the structures of UN agencies or international
+      NGOs that Israel considers too “close to Hamas.” After months of hunger and bombardment,
+      the GHF was yet another diversionary tactic – conceived by Israel, paid for once
+      again by the US, not to end the hunger, but to neutralize international pressure.
+      It has since proven to be yet another deadly betrayal by Israel. Instead of serving
+      as a lifeline, these GHF “pipes” have turned into a veritable death trap. According
+      to the United Nations, nearly 900 Palestinians, or 300 per month in the last three
+      months, desperate mothers, fathers, and children seeking help, have been murdered
+      . Source: The Conversation At home, they faced starvation , and in the distribution
+      centers, according to the Israeli daily newspaper Haaretz on June 27, 2025, they
+      were met with Israeli bullets . The same military that caused the famine is shooting
+      the victims at the gates of their so-called salvation. The US-funded GHF handed
+      over control of food aid to Israel – and now young girls are being targeted at
+      water collection points. All basic necessities—food, water, medicine—are no longer
+      a right, but a weapon of Israel. A weapon to starve, deny water, and withhold
+      medicine—designed to imprison Palestinians and create the conditions for “voluntary”
+      ethnic cleansing. It goes without saying that deliberately starving the civilian
+      population is a war crime under international law. Even though Israel has only
+      signed but never ratified Additional Protocol I of June 8, 1977 (“Protocol I of
+      June 8, 1977, to the Geneva Conventions of August 12, 1949, relating to the Protection
+      of Victims of International Armed Conflicts”), it nevertheless applies to Israel
+      as customary international law. But our politicians, such as Chancellor Friedrich
+      Merz and their palace propagandists, babble about Israel’s right to self-defense
+      in this context. New concentration camps of the Zionazis In the past, numerous
+      respectable individuals and organizations have repeatedly referred to Gaza as
+      “the world’s largest open-air prison”: Jimmy Carter (former US president: “Gaza
+      is now the world’s largest open-air prison.”); David Cameron (former British Prime
+      Minister: “We do not want people in Gaza living in a prison camp.”); Desmond Tutu
+      (Nobel Peace Prize laureate, South African archbishop – Tutu repeatedly compared
+      the blockade to apartheid conditions and spoke of Gaza as a “prison”); Organizations
+      such as Human Rights Watch, Amnesty International, and UN representatives often
+      use terms such as “open-air prison” or “prison camp” (example: UNRWA Director
+      John Ging (2008): “Gaza is a prison — it’s an open-air prison.” Israeli Prime
+      Minister Benjamin Netanyahu during a bilateral dinner with US President Donald
+      Trump at the White House in Washington, DC, USA, on July 7. – Reuters Now USrael
+      has surpassed even the oxymoronic “Humanitarian GHF Foundation” and presented
+      a new Orwellian plan: a “ humanitarian city ” in which 600,000 Palestinians from
+      northern Gaza are to be housed in a walled compound in the south – where you can
+      check in but not check out. The new Israeli concentration camp, in which more
+      than a quarter of Gaza’s population is to be interned, dwarfs many of the Nazi
+      camps of World War II. Calling a concentration camp a “humanitarian city” is part
+      of Israel’s war of words. In this context, Israel has perfected the manipulation
+      of language. Israel is not starving the Palestinians; it is imposing “calorie
+      restrictions.” It is not building ghettos, but “security zones.” It is not carrying
+      out ethnic cleansing, but offering the opportunity for ‘voluntary’ emigration.
+      And now it is not committing mass expulsions, but proposing a “humanitarian city.”
+      In contrast, Gideon Levi points out the following: The Jewish state is building
+      a ghetto. What a terrible sentence. It’s bad enough that the plan was presented
+      as if it could be legitimate in any way—who is for concentration camps and who
+      is against them?—but from there it’s only a small step to an even more terrible
+      idea: Next, someone could propose setting up an extermination camp for those who
+      fail the screening at the entrance to the ghetto. Israel is already killing Gazans
+      en masse, so why not streamline the process … Someone could also propose a compact
+      crematorium on the ruins of Khan Yunis, access to which, as in the nearby ghetto
+      in Rafah, would be purely voluntary. Voluntary, of course, as in the “humanitarian
+      city.” Only leaving the two camps would no longer be voluntary. That’s what the
+      minister proposed… Gideon Levy, Haaretz, July 10, 2025 Approval of genocide and
+      war crimes is punishable under the German Criminal Code Incitement of the people
+      (§ 130 StGB) In particular, incitement of the people (§ 130 StGB) is punishable.
+      This includes approving, denying, or trivializing the Holocaust or acts of genocide
+      in a manner that disturbs public peace (Section 130 (3) StGB), inciting hatred
+      against parts of the population or calling for violence and arbitrary measures
+      (Section 130 (1) StGB) or publicly calling for criminal offences (Section 111
+      StGB). Anyone who publicly calls for a war of aggression, war crimes, or crimes
+      against humanity is liable to prosecution. Under certain circumstances, the approval
+      of such acts may also fall under this provision. Section 130 (3) refers only to
+      Nazi crimes. However, since October 2022, Section 130 (5) of the German Criminal
+      Code (StGB) has also been in force, extending criminal liability to the denial
+      or gross trivialization of all genocide, war crimes, and crimes against humanity—no
+      longer just Nazi crimes. The exact wording (Section 130 (5) StGB) is as follows:
+      “Anyone who publicly or in an assembly denies, grossly trivializes, or approves
+      of an act described in Section 6(1) of the International Crimes Act that was committed
+      in a present or past actual act in a manner likely to disturb public peace shall
+      also be punished.” (Section 130 (5) StGB) Rewarding and approving criminal offenses
+      (Section 140 StGB) It is also important to note the rewarding and approving of
+      criminal offenses (Section 140 StGB): “Anyone who publicly rewards or approves
+      of an unlawful act under Sections 138, 126, 129a, 129b, 211 to 218b, 226a, 306
+      to 306c or 316a to 316c in public (…) shall be punished.” Although war crimes
+      are not directly included in this list, murder (Section 211 StGB) is included.
+      Many war crimes are also murder. Therefore, Section 140 StGB may also apply here.
+      Reason for criminal liability Criminal liability arises from the protection of
+      public peace, human dignity, and legal peace. When someone publicly approves of
+      war crimes, they are presenting the most serious crimes under international law
+      as justified. In doing so, they violate not only the dignity of the victims. They
+      can also incite hatred or violence against certain groups of people. They can
+      encourage others to imitate such acts or fuel existing stereotypes. The legal
+      system is designed to prevent such things from becoming normalized in society.
+      That is why approving such acts is punishable by law—just like approving terrorist
+      attacks. The fundamental right to freedom of expression (Article 5 of the German
+      Basic Law) ends where it encroaches on the core of human dignity—for example,
+      when justifying the most serious crimes against humanity. The evasion tactic of
+      Israel’s alleged right to self-defense What was that again about the Gleiwitz
+      radio station? “Since 5:45 a.m., we have been firing back! And from now on, bombs
+      will be answered with bombs!” Adolf Hitler in front of the Reichstag on September
+      1, 1939 Adolf Hitler said this in his speech in front of the Reichstag on September
+      1, 1939, to justify the German attack on Poland. The sentence was intended to
+      portray the attack on the Gleiwitz radio station and other staged border incidents
+      (false flag Operation Himmler) as Polish aggression—the aim was to present the
+      German attack as “necessary self-defense.” The typical Western narrative (as expressed,
+      for example, by Friedrich Merz on May 26, 2025, during a WDR interview) is that
+      Israel’s actions in Gaza can only be justified as self-defense … if certain boundaries
+      are crossed. Merz further emphasized that Germany must speak out when international
+      humanitarian law is violated. These conditional clauses completely ignore the
+      fact that these lines have long been crossed and that countermeasures by Merz
+      & Co. would therefore be appropriate – but of course, nothing but lukewarm words
+      are forthcoming. In reality, however, this narrative ignores the crystal-clear
+      situation under international law. Prof. Dr. iur. et phil. Alfred de Zayas, international
+      lawyer, historian, and former UN mandate holder, sums it up in a nutshell : “In
+      this context, it must be remembered that the Palestinians have been suffering
+      expulsion and occupation not only since 2023, but since 1947. Furthermore, according
+      to the UN Charter and Article 1 of the International Covenant on Civil and Political
+      Rights, the Palestinians have the right to self-determination and a right to resistance
+      against the occupying power that is recognized under international law. If a state
+      occupies foreign territory, oppresses the population, severely restricts their
+      living space through illegal settlements, and bombs hospitals and schools—in other
+      words, flouts international law—no one would think of granting the oppressive
+      state a right to self-defense and supporting it in its oppression when the oppressed
+      fight back, even if their actions are violent.” Prof. Dr. iur. et phil. Alfred
+      de Zayas He refers to a relevant UN resolution. “Right of resistance of the Palestinians
+      and all those living under occupation, Article 7 of UN Resolution 29/3314: Definition
+      of aggression This definition [of aggression], in particular Article 3, shall
+      not prejudice the right to self-determination, freedom and independence of peoples
+      who have been deprived of this right by violent means and who are mentioned in
+      the Declaration on Principles of International Law concerning Friendly Relations
+      and Cooperation among States in accordance with the Charter of the United Nations,
+      in particular those peoples who are under colonial and racist regimes or other
+      forms of foreign domination: nor the right of these peoples to fight for this
+      goal and to seek and receive support in accordance with the principles of the
+      Charter and in accordance with the above-mentioned Declaration.” (Source: Resolution
+      adopted by the General Assembly 29/3314 : Definition of Aggression www.un-documents.net/a29r3314.htm
+      ) Complicity in genocide According to the German Criminal Code, if several perpetrators
+      commit a crime together, everyone who makes a significant contribution to the
+      crime based on a joint plan is punished. USrael could never, ever carry out the
+      monstrosities described above if Western politicians, propagandists, media lackeys,
+      and others did not actively ensure that USrael goes unpunished and that no one
+      seriously objects. Constant propaganda ensures this. This has been part of the
+      joint diabolical plan from the very beginning. Methods of desensitization, deception,
+      and fraud are used scientifically and systematically. Systematic mass crimes are
+      reported over months or years in such a way that, over time, genocide becomes
+      “just another news item.” The shock effect wears off, and viewers become accustomed
+      to it. Daily deaths are packaged into abstract statistics. “10,000 dead” sounds
+      as distant to many as “100,000 dead.” Without names, stories, and images of individual
+      fates, there is no emotional connection. New “crises” replace old ones. Genocide
+      recedes into the background when another major event makes headlines. The sensory
+      overload of constant confrontation with violence, disasters, suffering, or extremes
+      (e.g., in the news, TV series, video games) leads to desensitization to human
+      suffering. Attention moves on, and perpetrators can continue almost undisturbed.
+      Our quality media work on this day in and day out. From an unjust state to a constitutional
+      state and back to barbarism Immediately after the end of World War II and the
+      atrocities committed by the Nazi regime, the mothers and fathers of the German
+      constitution understood that there is an absolute, unconditional limit that the
+      state must never cross: the dignity of every single human being. The wording “Human
+      dignity shall be inviolable” in Article 1, paragraph 1 of the German Basic Law
+      is no coincidence, but rather the expression of a conscious, historical decision.
+      “Is inviolable” is an assertion of existence. It declares dignity to be the absolutely
+      protected core of every human being, which is untouchable in itself, regardless
+      of what someone wants or does, no matter how terrible. “ Is inviolable” is metaphysical,
+      existential. The state cannot violate it without delegitimizing itself. This is
+      why it is immediately followed by the phrase: “It is the duty of all state authority
+      to respect and protect it.” Its inviolability leads to an immediate duty to protect.
+      After the totalitarian regime, it was thus made clear that human dignity is beyond
+      the power of any authority. It is an irrevocable foundation that even constitutional
+      amendments cannot touch (cf. the eternity clause in Article 79 (3) of the Basic
+      Law). This laid the foundation for Germany’s transformation from an unjust state
+      to a constitutional state. However, the current collusion with the perpetrators
+      of genocide in the Middle East is leading straight back to barbarism, and this
+      must not go unpunished. We need a new Nuremberg Trial General Emerson Curtis LeMay
+      was a high-ranking US general in the United States Air Force and is known for
+      his central role in the development and execution of strategic bombing during
+      World War II and the Cold War. He was responsible for the firebombing of Japanese
+      cities, including the devastating attack on Tokyo in March 1945, which killed
+      over 100,000 people. During the Cold War, he was head of the Strategic Air Command
+      (1948–1957) and made it a central component of the US nuclear forces. In the Vietnam
+      War, he was a vocal advocate of the bombing campaigns ordered by President Lyndon
+      B. Johnson and US Secretary of Defense Robert McNamara, such as Operation Rolling
+      Thunder against North Vietnam. Robert McNamara quotes LeMay in Errol Morris’ documentary
+      film “ The Fog of War ” (2003) as follows: „LeMay said, if we had lost the war,
+      we would have all been prosecuted for war crimes. And I think he’s right. He,
+      and I’d say I, were behaving as war criminals. LeMay recognized that.“ Robert
+      McNamara Robert H. Jackson was the chief prosecutor for the United States at the
+      Nuremberg Trials against the major war criminals after World War II. In his opening
+      statement on November 21, 1945, he stated: “We must never forget that the standard
+      by which we judge these defendants today is the standard by which history will
+      judge us tomorrow.” (Robert H. Jackson – IMT, Vol. 2, p. 154) Video Conclusion
+      Our Western justice system not only reflects the spirit of the times, but also
+      depends on the respective balance of power. Clear legal principles can become
+      blurred depending on the mental state of society. What is crystal clear on paper
+      (and according to the will of the international community) is often turned into
+      its opposite in practice. However, this does not alter the fact that the original
+      principles of international law, particularly with regard to human rights, are
+      an expression of the natural morality of humankind. They therefore have a natural
+      validity that cannot be overridden by any amount of legal wrangling or propaganda.
+      Those responsible must not escape the punishment they deserve. Peter Hanseler
+      is a geopolitical analyst who reports from Moscow. Peter was born in Zurich, Switzerland.
+      He holds a J.D. (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School
+      and Master in International Commercial Law (LL.M.) from Georgetown University
+      Law School, Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand
+      and Russia. Peter is independent, his work is not supported by government or private
+      entities. Peter’s website Forumgeopolitica.com publishes its content in English,
+      Russian, German and French.'
+    one_sentence_summary: The article argues that Western politicians and media are
+      complicit in the ongoing genocide in Palestine, facilitated by their support for
+      Israel's actions, which are characterized as ethnic cleansing and violations of
+      international law.
+    paragraph_summary: The article argues that Western politicians, media, and other
+      influential figures are complicit in the ongoing genocide in Palestine, facilitated
+      by their support for Israel's actions over the past eighty years, which include
+      ethnic cleansing and violations of international law. It suggests that the establishment
+      of Israel was a strategic move by Anglo-Saxon powers to dominate the Middle East,
+      leading to chaos and destruction in the region. The piece criticizes the superficial
+      responses from Western nations, such as France's symbolic recognition of a Palestinian
+      state and the EU's weak warnings, labeling these actions as empty gestures that
+      ultimately shield Israel from accountability. The author contends that this collective
+      inaction is not mere indifference but a form of complicity that echoes historical
+      atrocities.
+    published: '2025-08-02T14:42:38+00:00'
+  - title: Trump Escalates Nuclear Threat to Russia… Taking the World to the Brink of
+      Nuclear War
+    url: https://sonar21.com/trump-escalates-nuclear-threat-to-russia-taking-the-world-to-the-brink-of-nuclear-war/
+    text: 'Donald Trump is behaving like some drugged-out teenage girl with his social
+      media posts. Trump— the wannabe “Art of the Deal” emperor — is panic‑posting the
+      world to the threshold of nuclear war and taking other actions that Russia can
+      only view as the US preparing to attack the motherland. The latest escalation
+      started with this tantrum by Trump: Medvedev, who is an Olympic-class troller,
+      punched back with this warning: About Trump’s threats against me on his personal
+      network Truth, which he banned from operating in our country If some words of
+      the former president of Russia cause such a nervous reaction from such a formidable
+      US president, it means Russia is right in everything and will continue on its
+      own path. And about the “dead economy” of India and Russia and the “entering dangerous
+      territory” – well, let him remember his favorite movies about “the walking dead,”
+      as well as how dangerous the non-existent in nature “dead hand” can be. Trump,
+      in a continuing display of ignorance, apparently took this as a Russian threat
+      to launch a preemptive attack on the United States. The Russian “Dead Hand,” also
+      known as the “Perimeter” system, is an automatic or semi-automatic nuclear command
+      and control system developed by the Soviet Union during the Cold War and is reportedly
+      still operational today. Its purpose is to guarantee a retaliatory nuclear strike
+      against an enemy even if Russia’s leadership and command structure are destroyed
+      in a decapitating attack. Medvedev was simply warning Trump that a decapitation
+      strike on Moscow would still produce a retaliatory strike on the United States.
+      Instead of keeping his mouth shut, Trump bombastically huffed and puffed , like
+      an impotent Big Bad Wolf , and announced that two nuclear submarines were heading
+      toward Russia, just because Dmitry Medvedev roasted him online. I have ordered
+      two Nuclear Submarines to be positioned in the appropriate regions, just in case
+      these foolish and inflammatory statements are more than just that. — Donald J.
+      Trump We do not know if this means that Trump has dispatched two additional submarines
+      to reinforce the ones already in the Atlantic and the Pacific. But simply making
+      this announcement represents a threat that Russia must take seriously. But this
+      is not the first escalation on the nuclear front. During the last two weeks, there
+      have been two actions — both presumably endorsed by or carried out per a presidential
+      order — that have pushed the Doomsday clock closer to midnight. The first was
+      a speech to NATO by General Christopher Donahue, the current head of US European
+      Command. The second was the US reversing its policy on nuclear weapons in Europe.
+      DONAHUE : During the mid-July 2025 during the Association of the US Army conference
+      in Germany, General Christopher Donahue stated that NATO and US allied forces
+      now have the capability to “neutralize” or “take down” the Russian exclave of
+      Kaliningrad from the ground in an unprecedented and much faster timeframe than
+      previously possible. He described Kaliningrad as being about 47 miles wide and
+      surrounded on all sides by NATO countries, making it vulnerable to ground operations.
+      This statement was made in the context of NATO’s “Eastern Flank Deterrence Line”
+      plan, which aims to bolster ground-based military capabilities and readiness in
+      the Baltic region. Donahue emphasized the importance of the land domain in modern
+      warfare and NATO’s enhanced ability to counter Russia’s “mass and momentum problem”
+      using new capabilities developed based on lessons from the conflict in Ukraine.
+      However, he did not provide specific operational details of how this capability
+      would be executed. Donahue’s ill-advised remarks ignited a furious reaction among
+      politicians and citizens in Russia. Leonid Slutsky, chairman of the Russian State
+      Duma’s International Affairs Committee, warned that an assault on Kaliningrad
+      would be considered an attack on Russia itself, triggering all necessary retaliatory
+      measures under Russia’s nuclear doctrine. The Russian side views Kaliningrad as
+      strategically vital and any NATO attack on it as a major escalation possibly provoking
+      nuclear response. Words are one thing, but actions speak louder than words , and
+      Trump authorized an action that leaves the Russians with no alternative but to
+      conclude that the United States is preparing to attack Russia… He ordered sending
+      nuclear weapons to Europe. B61-12 Gravity Bombs: Throughout the 1990s, the US
+      closed or consolidated many bases. Weapons were withdrawn from some national bases
+      and concentrated at fewer main air bases rather than fully returned to the US.
+      For example, bombs were moved from minor bases in Germany, Italy, and Turkey to
+      Ramstein, Ghedi Torre, and Incirlik, respectively. All US nuclear weapons were
+      withdrawn from Greece in the early 2000s, and the last bombs were removed from
+      the UK’s RAF Lakenheath around 2007, ending more than 50 years of US nuclear presence
+      there. Now, in a major reversal, the United States has deployed the B61-12 gravity
+      bombs to Europe. Deployment locations for B61-12 gravity bombs in 2025: • RAF
+      Lakenheath (United Kingdom): The B61-12 returned to the UK for the first time
+      since 2008, with confirmed deliveries to RAF Lakenheath in July 2025. • Kleine
+      Brogel Air Base (Belgium) • Büchel Air Base (Germany) • Aviano and Ghedi Air Bases
+      (Italy) • Volkel Air Base (Netherlands) • Incirlik Air Base (Turkey) These bombs
+      are now distributed across these six main bases in five NATO countries, with around
+      100–150 US B61-12 bombs forward deployed in total. The deployment to RAF Lakenheath
+      in the UK represents a significant strategic signal, as it marks the first return
+      of US tactical nuclear weapons to British soil in over 15 years. What do you think
+      Russia is doing? Sitting on its ass and ignoring these provocations? Or taking
+      the necessary preparations to eliminate these threats if things heat up? I am
+      betting on the latter course of action. Trump’s announcement about the submarines
+      had not been made when Colonel Wilkerson and I chatted with Nima this morning.
+      I think I won the shirt competition. We discussed a range of issues, but agreed
+      on one thing… Trump’s foreign policy is a mess: Ray and I had a chance to react
+      to Trump’s submarine decision during our weekly chat with Judge Napolitano: I
+      thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article criticizes Donald Trump's erratic social media
+      behavior, likening it to that of a troubled teenager, and highlights how his provocative
+      posts are escalating tensions with Russia, prompting a dismissive response from
+      Russian officials.
+    paragraph_summary: The article criticizes Donald Trump's erratic behavior on social
+      media, likening it to that of a "drugged-out teenage girl," particularly in the
+      context of escalating tensions with Russia. Trump's recent posts, which he interprets
+      as defensive against perceived threats from Russia, have led to a misunderstanding
+      of Russian Deputy Chairman Dmitry Medvedev's comments about the "Dead Hand" nuclear
+      system, which is meant to ensure a retaliatory strike even if Russia's leadership
+      is incapacitated. Instead of de-escalating the situation, Trump responded with
+      a provocative announcement of positioning two nuclear submarines near Russia,
+      further heightening fears of potential conflict and showcasing his lack of understanding
+      of the geopolitical implications of his actions.
+    published: '2025-08-02T02:25:28+00:00'
+  - title: Trump Escalates Nuclear Threat to Russia… Taking the World to the Brink of
+      Nuclear War
+    url: https://sonar21.com/trump-escalates-nuclear-threat-to-russia-taking-the-world-to-the-brink-of-nuclear-war/
+    text: 'Donald Trump is behaving like some drugged-out teenage girl with his social
+      media posts. Trump— the wannabe “Art of the Deal” emperor — is panic‑posting the
+      world to the threshold of nuclear war and taking other actions that Russia can
+      only view as the US preparing to attack the motherland. The latest escalation
+      started with this tantrum by Trump: Medvedev, who is an Olympic-class troller,
+      punched back with this warning: About Trump’s threats against me on his personal
+      network Truth, which he banned from operating in our country If some words of
+      the former president of Russia cause such a nervous reaction from such a formidable
+      US president, it means Russia is right in everything and will continue on its
+      own path. And about the “dead economy” of India and Russia and the “entering dangerous
+      territory” – well, let him remember his favorite movies about “the walking dead,”
+      as well as how dangerous the non-existent in nature “dead hand” can be. Trump,
+      in a continuing display of ignorance, apparently took this as a Russian threat
+      to launch a preemptive attack on the United States. The Russian “Dead Hand,” also
+      known as the “Perimeter” system, is an automatic or semi-automatic nuclear command
+      and control system developed by the Soviet Union during the Cold War and is reportedly
+      still operational today. Its purpose is to guarantee a retaliatory nuclear strike
+      against an enemy even if Russia’s leadership and command structure are destroyed
+      in a decapitating attack. Medvedev was simply warning Trump that a decapitation
+      strike on Moscow would still produce a retaliatory strike on the United States.
+      Instead of keeping his mouth shut, Trump bombastically huffed and puffed , like
+      an impotent Big Bad Wolf , and announced that two nuclear submarines were heading
+      toward Russia, just because Dmitry Medvedev roasted him online. I have ordered
+      two Nuclear Submarines to be positioned in the appropriate regions, just in case
+      these foolish and inflammatory statements are more than just that. — Donald J.
+      Trump We do not know if this means that Trump has dispatched two additional submarines
+      to reinforce the ones already in the Atlantic and the Pacific. But simply making
+      this announcement represents a threat that Russia must take seriously. But this
+      is not the first escalation on the nuclear front. During the last two weeks, there
+      have been two actions — both presumably endorsed by or carried out per a presidential
+      order — that have pushed the Doomsday clock closer to midnight. The first was
+      a speech to NATO by General Christopher Donahue, the current head of US European
+      Command. The second was the US reversing its policy on nuclear weapons in Europe.
+      DONAHUE : During the mid-July 2025 during the Association of the US Army conference
+      in Germany, General Christopher Donahue stated that NATO and US allied forces
+      now have the capability to “neutralize” or “take down” the Russian exclave of
+      Kaliningrad from the ground in an unprecedented and much faster timeframe than
+      previously possible. He described Kaliningrad as being about 47 miles wide and
+      surrounded on all sides by NATO countries, making it vulnerable to ground operations.
+      This statement was made in the context of NATO’s “Eastern Flank Deterrence Line”
+      plan, which aims to bolster ground-based military capabilities and readiness in
+      the Baltic region. Donahue emphasized the importance of the land domain in modern
+      warfare and NATO’s enhanced ability to counter Russia’s “mass and momentum problem”
+      using new capabilities developed based on lessons from the conflict in Ukraine.
+      However, he did not provide specific operational details of how this capability
+      would be executed. Donahue’s ill-advised remarks ignited a furious reaction among
+      politicians and citizens in Russia. Leonid Slutsky, chairman of the Russian State
+      Duma’s International Affairs Committee, warned that an assault on Kaliningrad
+      would be considered an attack on Russia itself, triggering all necessary retaliatory
+      measures under Russia’s nuclear doctrine. The Russian side views Kaliningrad as
+      strategically vital and any NATO attack on it as a major escalation possibly provoking
+      nuclear response. Words are one thing, but actions speak louder than words , and
+      Trump authorized an action that leaves the Russians with no alternative but to
+      conclude that the United States is preparing to attack Russia… He ordered sending
+      nuclear weapons to Europe. B61-12 Gravity Bombs: Throughout the 1990s, the US
+      closed or consolidated many bases. Weapons were withdrawn from some national bases
+      and concentrated at fewer main air bases rather than fully returned to the US.
+      For example, bombs were moved from minor bases in Germany, Italy, and Turkey to
+      Ramstein, Ghedi Torre, and Incirlik, respectively. All US nuclear weapons were
+      withdrawn from Greece in the early 2000s, and the last bombs were removed from
+      the UK’s RAF Lakenheath around 2007, ending more than 50 years of US nuclear presence
+      there. Now, in a major reversal, the United States has deployed the B61-12 gravity
+      bombs to Europe. Deployment locations for B61-12 gravity bombs in 2025: • RAF
+      Lakenheath (United Kingdom): The B61-12 returned to the UK for the first time
+      since 2008, with confirmed deliveries to RAF Lakenheath in July 2025. • Kleine
+      Brogel Air Base (Belgium) • Büchel Air Base (Germany) • Aviano and Ghedi Air Bases
+      (Italy) • Volkel Air Base (Netherlands) • Incirlik Air Base (Turkey) These bombs
+      are now distributed across these six main bases in five NATO countries, with around
+      100–150 US B61-12 bombs forward deployed in total. The deployment to RAF Lakenheath
+      in the UK represents a significant strategic signal, as it marks the first return
+      of US tactical nuclear weapons to British soil in over 15 years. What do you think
+      Russia is doing? Sitting on its ass and ignoring these provocations? Or taking
+      the necessary preparations to eliminate these threats if things heat up? I am
+      betting on the latter course of action. Trump’s announcement about the submarines
+      had not been made when Colonel Wilkerson and I chatted with Nima this morning.
+      I think I won the shirt competition. We discussed a range of issues, but agreed
+      on one thing… Trump’s foreign policy is a mess: Ray and I had a chance to react
+      to Trump’s submarine decision during our weekly chat with Judge Napolitano: I
+      thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article criticizes Donald Trump's erratic social media
+      behavior, likening it to that of a troubled teenager, and highlights how his provocative
+      posts are escalating tensions with Russia, prompting a dismissive response from
+      Russian officials.
+    paragraph_summary: The article criticizes Donald Trump's erratic behavior on social
+      media, likening it to that of a "drugged-out teenage girl," particularly in the
+      context of escalating tensions with Russia. Trump's recent posts, which he interprets
+      as defensive against perceived threats from Russia, have led to a misunderstanding
+      of Russian Deputy Chairman Dmitry Medvedev's comments about the "Dead Hand" nuclear
+      system, which is meant to ensure a retaliatory strike even if Russia's leadership
+      is incapacitated. Instead of de-escalating the situation, Trump responded with
+      a provocative announcement of positioning two nuclear submarines near Russia,
+      further heightening fears of potential conflict and showcasing his lack of understanding
+      of the geopolitical implications of his actions.
+    published: '2025-08-02T02:25:28+00:00'
+  - title: US Complicit in a War Crime in Gaza, According to a Recently Retired US Army
+      Officer
+    url: https://sonar21.com/us-complicit-in-a-war-crime-in-gaza-according-to-a-recently-retired-us-army-officer/
+    text: '[NOTICE–THE COMMENT FUNCTION HAS BEEN HACKED. WORKING TO RESOLVE IT. THANKS
+      FOR YOUR PATIENCE.] Tucker’s interview with retired US Army Lt. Col Aguilar is
+      a MUST watch. Spread this video. Make it go viral. The US is facilitating a war
+      crime in Gaza. God bless Col. Aguilar. I have no words to enhance his description
+      of the horror. And God bless Tucker Carlson. He is standing up to the genocidists
+      who claim to be people chosen by God. The Zionists are scum. Please watch: Here
+      is my conversation today with Garland Nixon: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article promotes a must-watch interview between Tucker
+      Carlson and retired Lt. Col. Aguilar, condemning the US's role in the Gaza conflict
+      and criticizing Zionist actions, while also encouraging viewers to support the
+      content creator's work.
+    paragraph_summary: The article highlights an interview between Tucker Carlson and
+      retired US Army Lt. Col. Aguilar, which the author describes as essential viewing,
+      urging readers to share it widely. The discussion focuses on allegations of war
+      crimes in Gaza, with the author expressing strong condemnation of those they label
+      as "Zionists" and praising Carlson for opposing what they perceive as genocide.
+      The author emphasizes their commitment to providing accessible content without
+      charging fees or accepting advertisements, while also inviting donations for support.
+    published: '2025-08-01T02:14:11+00:00'
+  - title: US Complicit in a War Crime in Gaza, According to a Recently Retired US Army
+      Officer
+    url: https://sonar21.com/us-complicit-in-a-war-crime-in-gaza-according-to-a-recently-retired-us-army-officer/
+    text: '[NOTICE–THE COMMENT FUNCTION HAS BEEN HACKED. WORKING TO RESOLVE IT. THANKS
+      FOR YOUR PATIENCE.] Tucker’s interview with retired US Army Lt. Col Aguilar is
+      a MUST watch. Spread this video. Make it go viral. The US is facilitating a war
+      crime in Gaza. God bless Col. Aguilar. I have no words to enhance his description
+      of the horror. And God bless Tucker Carlson. He is standing up to the genocidists
+      who claim to be people chosen by God. The Zionists are scum. Please watch: Here
+      is my conversation today with Garland Nixon: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article promotes a must-watch interview between Tucker
+      Carlson and retired Lt. Col. Aguilar, condemning the US's role in the Gaza conflict
+      and criticizing Zionist actions, while also encouraging viewers to support the
+      content creator's work.
+    paragraph_summary: The article highlights an interview between Tucker Carlson and
+      retired US Army Lt. Col. Aguilar, which the author describes as essential viewing,
+      urging readers to share it widely. The discussion focuses on allegations of war
+      crimes in Gaza, with the author expressing strong condemnation of those they label
+      as "Zionists" and praising Carlson for opposing what they perceive as genocide.
+      The author emphasizes their commitment to providing accessible content without
+      charging fees or accepting advertisements, while also inviting donations for support.
+    published: '2025-08-01T02:14:11+00:00'
+  - title: Is Trump’s Tariff Tirade a Pyrrhic Victory?
+    url: https://sonar21.com/is-trumps-tariff-tirade-a-pyrrhic-victory/
+    text: 'Cartoon by NEMO The Trump team are thumping their chest after sealing two
+      “tariff” deals this week — one with the European Union (EU) and one with South
+      Korea. Yeah, boy!!! Happy Days are here again. If you sweep aside the hype, these
+      deals are ephemeral at best. Turns out that Ursula von der Leyen had no authority
+      to make the deal trumpeted by Trump, and it is far from certain that the European
+      states will be able to allocate the $600 billion promised by von der Leyen. And
+      South Korea? I was told today by a source with access, that the South Koreans
+      are pissed at Trump’s bullying and are contemplating moving closer to China on
+      the economic front. To top it off, Trump spent part of the day threatening India
+      and China with punitive tariffs because of their trade relations with Russia.
+      I think much of the world is growing weary of Trump’s childish tariff tirades
+      . What about China? I want to give credit to Kevin Wamsley, who hosts the Inside
+      China Business channel on YouTube . I have lifted the following transcript from
+      his most recent broadcast (the full video is posted below). According to Kevin:
+      The issue on the China side though is that the Chinese economy has diversified
+      away from the United States. Forbes pointed out that China is now just the third
+      largest trade partner for the US, a distant third behind Mexico and Canada. In
+      the month of May, China was less than 6% of US trade, which was the lowest level
+      in over 20 years. These are the ASEAN countries, and together they have a population
+      twice as large as the United States, over 700 million people. These are also some
+      of the fastest growing consumer markets in the world with a fast growing middle
+      class. And this group of countries is now China’s largest trading partner by far,
+      way ahead of the European Union and the United States. Looking at trade data from
+      just the first five months of 2025. The first column is exports from China. Next
+      column is exports to China. Then the rolling year-over-year percentage difference
+      over the past five years. The United States overall trade is down 9.3%. Exports
+      are down 9.9. But here are the biggest trading partners in the ASEAN block. Exports
+      to Vietnam up 21%, Thailand up 23%, Indonesia up 16. Foreign direct investment
+      between China and the block is also strong, growing over 34% year-over-year and
+      now at over $25 billion. China is also dramatically increasing its trade with
+      South America. In 2000, China was less than 2% of Latin American trade. That’s
+      South America plus Central America. Since this trade is growing at 31% per year
+      and in 2024 came in at $518 billion and continues to rise. China is now South
+      America’s top trading partner…. Liquefied natural gas imports from the United
+      States are down two-thirds from last year. Crude oil imports also down two-thirds
+      . Coking coal down 87%. In agriculture, US exports to China of corn down over
+      90%. Beef down 9%. China’s imports of American soybeans and pork went to zero.
+      Here are two fascinating graphics from Kevin’s presentation. The following shows
+      that the US was the largest trading partner with most of the world in the year
+      2000: Now, 24 years later, the situation is reversed… China is now the largest
+      trading partner with most of the world: Here is Kevin’s full video… It’s less
+      than nine minutes playing time: What Trump and his advisors fail to appreciate
+      is that the US position with respect to international trade has shifted significantly
+      in favor of China. Trump’s tariff strategy might have made sense (and cents) 24
+      years ago, but it is no longer in a position to dictate to China. In fact, China
+      holds some serious cards in terms of critical minerals and batteries that the
+      US cannot live without… Not to mention pharmaceuticals as well. I can give you
+      a personal anecdote on how Trump’s posturing towards China is screwing up supply
+      chains. My son’s I-Pad crapped out a month ago. After weeks of waiting, he finally
+      received the replacement today… only it was a small version because the large
+      screen version was not available. I discussed the trade and tariff issues with
+      Danny Davis today: And here is my conversation with James Carrigan, who hosts
+      a podcast on Rumble : I thank you for your invaluable support by taking time to
+      read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article critiques the Trump administration's recent tariff
+      deals with the EU and South Korea, suggesting they are largely superficial and
+      may lead to further tensions, particularly with South Korea potentially shifting
+      closer to China in response to Trump's aggressive trade tactics.
+    paragraph_summary: The article critiques the recent tariff deals announced by the
+      Trump administration with the European Union and South Korea, suggesting they
+      are more hype than substance. It highlights that Ursula von der Leyen lacked the
+      authority to finalize the EU deal and questions the feasibility of the promised
+      $600 billion investment. Additionally, it notes South Korea's dissatisfaction
+      with Trump's aggressive tactics, which may push them closer to China economically.
+      The article also points out that China's trade relationship with the U.S. has
+      significantly diminished, with China now being a distant third in trade partners,
+      as ASEAN countries have become China's largest trading partners, reflecting a
+      shift in global economic dynamics.
+    published: '2025-07-31T01:47:26+00:00'
+  - title: Is Trump’s Tariff Tirade a Pyrrhic Victory?
+    url: https://sonar21.com/is-trumps-tariff-tirade-a-pyrrhic-victory/
+    text: 'Cartoon by NEMO The Trump team are thumping their chest after sealing two
+      “tariff” deals this week — one with the European Union (EU) and one with South
+      Korea. Yeah, boy!!! Happy Days are here again. If you sweep aside the hype, these
+      deals are ephemeral at best. Turns out that Ursula von der Leyen had no authority
+      to make the deal trumpeted by Trump, and it is far from certain that the European
+      states will be able to allocate the $600 billion promised by von der Leyen. And
+      South Korea? I was told today by a source with access, that the South Koreans
+      are pissed at Trump’s bullying and are contemplating moving closer to China on
+      the economic front. To top it off, Trump spent part of the day threatening India
+      and China with punitive tariffs because of their trade relations with Russia.
+      I think much of the world is growing weary of Trump’s childish tariff tirades
+      . What about China? I want to give credit to Kevin Wamsley, who hosts the Inside
+      China Business channel on YouTube . I have lifted the following transcript from
+      his most recent broadcast (the full video is posted below). According to Kevin:
+      The issue on the China side though is that the Chinese economy has diversified
+      away from the United States. Forbes pointed out that China is now just the third
+      largest trade partner for the US, a distant third behind Mexico and Canada. In
+      the month of May, China was less than 6% of US trade, which was the lowest level
+      in over 20 years. These are the ASEAN countries, and together they have a population
+      twice as large as the United States, over 700 million people. These are also some
+      of the fastest growing consumer markets in the world with a fast growing middle
+      class. And this group of countries is now China’s largest trading partner by far,
+      way ahead of the European Union and the United States. Looking at trade data from
+      just the first five months of 2025. The first column is exports from China. Next
+      column is exports to China. Then the rolling year-over-year percentage difference
+      over the past five years. The United States overall trade is down 9.3%. Exports
+      are down 9.9. But here are the biggest trading partners in the ASEAN block. Exports
+      to Vietnam up 21%, Thailand up 23%, Indonesia up 16. Foreign direct investment
+      between China and the block is also strong, growing over 34% year-over-year and
+      now at over $25 billion. China is also dramatically increasing its trade with
+      South America. In 2000, China was less than 2% of Latin American trade. That’s
+      South America plus Central America. Since this trade is growing at 31% per year
+      and in 2024 came in at $518 billion and continues to rise. China is now South
+      America’s top trading partner…. Liquefied natural gas imports from the United
+      States are down two-thirds from last year. Crude oil imports also down two-thirds
+      . Coking coal down 87%. In agriculture, US exports to China of corn down over
+      90%. Beef down 9%. China’s imports of American soybeans and pork went to zero.
+      Here are two fascinating graphics from Kevin’s presentation. The following shows
+      that the US was the largest trading partner with most of the world in the year
+      2000: Now, 24 years later, the situation is reversed… China is now the largest
+      trading partner with most of the world: Here is Kevin’s full video… It’s less
+      than nine minutes playing time: What Trump and his advisors fail to appreciate
+      is that the US position with respect to international trade has shifted significantly
+      in favor of China. Trump’s tariff strategy might have made sense (and cents) 24
+      years ago, but it is no longer in a position to dictate to China. In fact, China
+      holds some serious cards in terms of critical minerals and batteries that the
+      US cannot live without… Not to mention pharmaceuticals as well. I can give you
+      a personal anecdote on how Trump’s posturing towards China is screwing up supply
+      chains. My son’s I-Pad crapped out a month ago. After weeks of waiting, he finally
+      received the replacement today… only it was a small version because the large
+      screen version was not available. I discussed the trade and tariff issues with
+      Danny Davis today: And here is my conversation with James Carrigan, who hosts
+      a podcast on Rumble : I thank you for your invaluable support by taking time to
+      read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article critiques the Trump administration's recent tariff
+      deals with the EU and South Korea, suggesting they are largely superficial and
+      may lead to further tensions, particularly with South Korea potentially shifting
+      closer to China in response to Trump's aggressive trade tactics.
+    paragraph_summary: The article critiques the recent tariff deals announced by the
+      Trump administration with the European Union and South Korea, suggesting they
+      are more hype than substance. It highlights that Ursula von der Leyen lacked the
+      authority to finalize the EU deal and questions the feasibility of the promised
+      $600 billion investment. Additionally, it notes South Korea's dissatisfaction
+      with Trump's aggressive tactics, which may push them closer to China economically.
+      The article also points out that China's trade relationship with the U.S. has
+      significantly diminished, with China now being a distant third in trade partners,
+      as ASEAN countries have become China's largest trading partners, reflecting a
+      shift in global economic dynamics.
+    published: '2025-07-31T01:47:26+00:00'
   - title: Why is US Intelligence Providing Bogus Numbers of Dead Russian Soldiers?
     url: https://sonar21.com/why-is-us-intelligence-providing-bogus-numbers-of-dead-russian-soldiers/
     text: 'I am sort of surprised that no one has done what I am going to do… Provide

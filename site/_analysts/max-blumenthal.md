@@ -7,16 +7,218 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  Recent reporting continues to highlight the deep entanglement of intelligence agencies, political influence operations, and the ongoing militarization of foreign and domestic policy in the US and its allies. Over the last weeks, scrutiny has intensified regarding the use of security narratives to surveil and marginalize dissenting voices, as well as the growing influence of private and state-linked actors in shaping both policy and public perception.
+  The latest disclosures continue to underscore the deep entanglement of Western governments in controversial foreign interventions and domestic surveillance, with new evidence emerging on both historical and ongoing fronts.
   
-  The latest revelations from **Max Blumenthal** show that the FBI surveilled a 2018 panel featuring The Grayzone’s own journalists, including Blumenthal and Anya Parampil. This surveillance, justified under the Trump-Russia collusion narrative, underscores a broader pattern where intelligence agencies target anti-establishment figures and journalists. Blumenthal notes that such actions raise “serious concerns about the weaponization of national security claims to suppress dissent,” a sentiment echoed by civil liberties advocates.
+  Newly uncovered files have shed light on the premeditated nature of the ethnic cleansing of Serbs during Operation Storm in the 1990s. According to **Max Blumenthal**, these documents reveal that US diplomat Richard Holbrooke privately endorsed the Croatian operation, despite public statements of concern. This revelation challenges the long-standing narrative of US neutrality and suggests a more active role in supporting actions that led to the displacement of hundreds of thousands of Serbs.
   
-  In Bolivia, former President Evo Morales has provided new evidence of corruption within the electoral council, specifically implicating a member who allegedly accepted bribes to disqualify Morales from running for president. In an interview with The Grayzone, Morales described the ongoing political crisis as a “second coup,” emphasizing both the persistence of external interference and his continued popularity among grassroots supporters. This development points to a likely period of heightened instability in Bolivia, with Morales’ movement remaining a significant force.
+  Meanwhile, scrutiny of Western support for Israel has intensified. Despite Canada’s public stance of recognizing a Palestinian state and officially halting military aid to Israel, a recent report cited by **Max Blumenthal** finds that Canadian arms and equipment continue to flow to Israeli forces. This contradiction raises questions about the sincerity of Ottawa’s policy shift and highlights the persistent influence of the defense sector on foreign policy decisions.
   
-  Meanwhile, the aftermath of the Trump administration’s budget proposals continues to reverberate. According to **Blumenthal**, the so-called “BBB” bill slashes domestic and veterans’ funding by $1.7 trillion, redirecting resources to major arms manufacturers and AI surveillance firms. This shift signals a prioritization of military-industrial interests over social welfare, a trend that is “most definitely” set to accelerate given the current political climate in Washington.
+  In the realm of global surveillance, Israeli spyware firms remain at the center of controversy. **Max Blumenthal** reports that these companies are enabling Western governments to implement authoritarian measures under the guise of democracy, as seen in the arrest of peaceful protestors in the UK. The proliferation of such technologies is contributing to a growing surveillance state, with civil liberties increasingly at risk.
   
-  Looking ahead, the convergence of intelligence agency overreach, privatized militarism, and political influence operations is expected to deepen. There is high confidence that surveillance of dissent and the marginalization of anti-establishment voices will persist, while the intertwining of corporate, intelligence, and political interests—especially around issues like Gaza, Iran, and Latin America—will continue to shape global and domestic policy outcomes. The majority of independent analysts agree: these trends are not only entrenched but are likely to intensify in the near term.
+  Looking ahead, the trend of Western complicity in both foreign and domestic abuses is likely to persist. There is a high chance that further documentation will emerge, exposing additional layers of involvement by US and allied officials in past and present conflicts. The continued export of surveillance technology and military hardware, despite official denials, is most definitely set to fuel further criticism and calls for accountability. The erosion of democratic norms through surveillance and covert support for controversial operations remains a defining feature of the current geopolitical landscape.
 articles:
+  - title: US backed ethnic cleansing of Serbs, top diplomat secretly told Croat leader
+    url: https://thegrayzone.com/2025/08/04/us-ethnic-cleansing-serbs-croat/
+    text: 'The ethnic cleansing of hundreds of thousands of Serbs by a US-backed Croatian
+      leader was premeditated, according to newly-uncovered files revealing the operation’s
+      planning. After the bloodshed subsided, Richard Holbrooke, a top US diplomat,
+      assured him: “We said publicly… that we were concerned, but privately, you knew
+      what we wanted.” August 4 marks the 30th anniversary of Operation Storm. Little
+      known outside the former Yugoslavia, the military campaign unleashed a genocidal
+      cataclysm that violently expelled Croatia’s entire Serb population. Dubbed […]
+      The post US backed ethnic cleansing of Serbs, top diplomat secretly told Croat
+      leader first appeared on The Grayzone . The post US backed ethnic cleansing of
+      Serbs, top diplomat secretly told Croat leader appeared first on The Grayzone
+      .'
+    one_sentence_summary: Newly uncovered files reveal that the ethnic cleansing of
+      hundreds of thousands of Serbs by a US-backed Croatian leader during Operation
+      Storm was premeditated, with US diplomat Richard Holbrooke privately endorsing
+      the operation despite public concerns.
+    paragraph_summary: Newly uncovered files indicate that the ethnic cleansing of hundreds
+      of thousands of Serbs in Croatia, orchestrated by a US-backed leader, was a premeditated
+      operation. As the violence of Operation Storm, which occurred 30 years ago on
+      August 4, subsided, US diplomat Richard Holbrooke privately reassured the Croatian
+      leader that despite public concerns, the US supported the campaign. This military
+      operation resulted in the violent expulsion of the entire Serb population from
+      Croatia, marking a significant and brutal chapter in the region's history that
+      remains largely unknown outside the former Yugoslavia.
+    published: '2025-08-04T19:32:25+00:00'
+  - title: US backed ethnic cleansing of Serbs, top diplomat secretly told Croat leader
+    url: https://thegrayzone.com/2025/08/04/us-ethnic-cleansing-serbs-croat/
+    text: 'The ethnic cleansing of hundreds of thousands of Serbs by a US-backed Croatian
+      leader was premeditated, according to newly-uncovered files revealing the operation’s
+      planning. After the bloodshed subsided, Richard Holbrooke, a top US diplomat,
+      assured him: “We said publicly… that we were concerned, but privately, you knew
+      what we wanted.” August 4 marks the 30th anniversary of Operation Storm. Little
+      known outside the former Yugoslavia, the military campaign unleashed a genocidal
+      cataclysm that violently expelled Croatia’s entire Serb population. Dubbed […]
+      The post US backed ethnic cleansing of Serbs, top diplomat secretly told Croat
+      leader first appeared on The Grayzone . The post US backed ethnic cleansing of
+      Serbs, top diplomat secretly told Croat leader appeared first on The Grayzone
+      .'
+    one_sentence_summary: Newly uncovered files reveal that the ethnic cleansing of
+      hundreds of thousands of Serbs by a US-backed Croatian leader during Operation
+      Storm was premeditated, with US diplomat Richard Holbrooke privately endorsing
+      the operation despite public concerns.
+    paragraph_summary: Newly uncovered files indicate that the ethnic cleansing of hundreds
+      of thousands of Serbs in Croatia, orchestrated by a US-backed leader, was a premeditated
+      operation. As the violence of Operation Storm, which occurred 30 years ago on
+      August 4, subsided, US diplomat Richard Holbrooke privately reassured the Croatian
+      leader that despite public concerns, the US supported the campaign. This military
+      operation resulted in the violent expulsion of the entire Serb population from
+      Croatia, marking a significant and brutal chapter in the region's history that
+      remains largely unknown outside the former Yugoslavia.
+    published: '2025-08-04T19:32:25+00:00'
+  - title: Canada still arming Israel despite official ban, report finds
+    url: https://thegrayzone.com/2025/08/01/canada-arming-israel-despite-ban/
+    text: In the course of a week, Canada accused Israel of violating international
+      law, announced Ottawa will recognize a Palestinian state, and sent aid to be airlifted
+      to Gaza. But a shocking new report makes clear that the proposed 51st state still
+      arms Israel’s death machine. Canada sent at least 391 shipments containing bullets,
+      military equipment, weapons parts, aircraft components, and communication devices
+      to Israel since late 2023, despite Ottawa’s repeated claims to have ended weapons
+      deliveries to the apartheid state, […] The post Canada still arming Israel despite
+      official ban, report finds first appeared on The Grayzone . The post Canada still
+      arming Israel despite official ban, report finds appeared first on The Grayzone
+      .
+    one_sentence_summary: Despite Canada's recent accusations against Israel and its
+      announcement to recognize a Palestinian state, a report reveals that Canada has
+      continued to supply military aid to Israel, including weapons and equipment, contradicting
+      its claims of halting such deliveries.
+    paragraph_summary: In a week marked by significant diplomatic actions, Canada accused
+      Israel of breaching international law, announced its intention to recognize a
+      Palestinian state, and facilitated aid to Gaza. However, a recent report reveals
+      a contradiction in Canada's stance, as it has reportedly sent at least 391 shipments
+      of military supplies, including bullets and weapons components, to Israel since
+      late 2023, despite claims from Ottawa that it had ceased arms deliveries to the
+      country.
+    published: '2025-08-01T22:52:08+00:00'
+  - title: Canada still arming Israel despite official ban, report finds
+    url: https://thegrayzone.com/2025/08/01/canada-arming-israel-despite-ban/
+    text: In the course of a week, Canada accused Israel of violating international
+      law, announced Ottawa will recognize a Palestinian state, and sent aid to be airlifted
+      to Gaza. But a shocking new report makes clear that the proposed 51st state still
+      arms Israel’s death machine. Canada sent at least 391 shipments containing bullets,
+      military equipment, weapons parts, aircraft components, and communication devices
+      to Israel since late 2023, despite Ottawa’s repeated claims to have ended weapons
+      deliveries to the apartheid state, […] The post Canada still arming Israel despite
+      official ban, report finds first appeared on The Grayzone . The post Canada still
+      arming Israel despite official ban, report finds appeared first on The Grayzone
+      .
+    one_sentence_summary: Despite Canada's recent accusations against Israel and its
+      announcement to recognize a Palestinian state, a report reveals that Canada has
+      continued to supply military aid to Israel, including weapons and equipment, contradicting
+      its claims of halting such deliveries.
+    paragraph_summary: In a week marked by significant diplomatic actions, Canada accused
+      Israel of breaching international law, announced its intention to recognize a
+      Palestinian state, and facilitated aid to Gaza. However, a recent report reveals
+      a contradiction in Canada's stance, as it has reportedly sent at least 391 shipments
+      of military supplies, including bullets and weapons components, to Israel since
+      late 2023, despite claims from Ottawa that it had ceased arms deliveries to the
+      country.
+    published: '2025-08-01T22:52:08+00:00'
+  - title: Gaza Humanitarian Foundation partner endorsed Hitler, called Muslims ‘rapists’
+      and Palestine a ‘shit hole’
+    url: https://thegrayzone.com/2025/07/31/gaza-aid-partner-endorsed-hitler/
+    text: Matthew Murphy, a former Green Beret and president of Sentinel Foundation,
+      has recently praised Hitler on Instagram and claimed to be conducting ‘manhunting’
+      for an unnamed African prime minister. His foundation is closely partnered with
+      the notorious Gaza Humanitarian Foundation “aid” operation. This article was originally
+      published by Jack Poulson at All-Source Intelligence. “I do exorcisms now, all
+      day, pretty much,” stated Dr. Michael Cocchini, the author of the book “The War
+      Within,” during a gathering of ‘Christian warriors’ at the late country music
+      […] The post Gaza Humanitarian Foundation partner endorsed Hitler, called Muslims
+      ‘rapists’ and Palestine a ‘shit hole’ first appeared on The Grayzone . The post
+      Gaza Humanitarian Foundation partner endorsed Hitler, called Muslims ‘rapists’
+      and Palestine a ‘shit hole’ appeared first on The Grayzone .
+    one_sentence_summary: Matthew Murphy, a former Green Beret and president of the
+      Sentinel Foundation, has come under fire for praising Hitler on Instagram and
+      claiming to conduct 'manhunting' for an African prime minister, while his foundation
+      is linked to the controversial Gaza Humanitarian Foundation.
+    paragraph_summary: Matthew Murphy, a former Green Beret and president of the Sentinel
+      Foundation, has come under scrutiny for praising Hitler on Instagram and claiming
+      to be involved in 'manhunting' for an unnamed African prime minister. His foundation
+      has ties to the controversial Gaza Humanitarian Foundation, which is associated
+      with aid operations in the region. Additionally, Dr. Michael Cocchini, author
+      of "The War Within," made provocative statements at a gathering of 'Christian
+      warriors,' further highlighting the troubling rhetoric surrounding these figures,
+      which includes derogatory comments about Muslims and Palestine.
+    published: '2025-07-31T16:03:15+00:00'
+  - title: Gaza Humanitarian Foundation partner endorsed Hitler, called Muslims ‘rapists’
+      and Palestine a ‘shit hole’
+    url: https://thegrayzone.com/2025/07/31/gaza-aid-partner-endorsed-hitler/
+    text: Matthew Murphy, a former Green Beret and president of Sentinel Foundation,
+      has recently praised Hitler on Instagram and claimed to be conducting ‘manhunting’
+      for an unnamed African prime minister. His foundation is closely partnered with
+      the notorious Gaza Humanitarian Foundation “aid” operation. This article was originally
+      published by Jack Poulson at All-Source Intelligence. “I do exorcisms now, all
+      day, pretty much,” stated Dr. Michael Cocchini, the author of the book “The War
+      Within,” during a gathering of ‘Christian warriors’ at the late country music
+      […] The post Gaza Humanitarian Foundation partner endorsed Hitler, called Muslims
+      ‘rapists’ and Palestine a ‘shit hole’ first appeared on The Grayzone . The post
+      Gaza Humanitarian Foundation partner endorsed Hitler, called Muslims ‘rapists’
+      and Palestine a ‘shit hole’ appeared first on The Grayzone .
+    one_sentence_summary: Matthew Murphy, a former Green Beret and president of the
+      Sentinel Foundation, has come under fire for praising Hitler on Instagram and
+      claiming to conduct 'manhunting' for an African prime minister, while his foundation
+      is linked to the controversial Gaza Humanitarian Foundation.
+    paragraph_summary: Matthew Murphy, a former Green Beret and president of the Sentinel
+      Foundation, has come under scrutiny for praising Hitler on Instagram and claiming
+      to be involved in 'manhunting' for an unnamed African prime minister. His foundation
+      has ties to the controversial Gaza Humanitarian Foundation, which is associated
+      with aid operations in the region. Additionally, Dr. Michael Cocchini, author
+      of "The War Within," made provocative statements at a gathering of 'Christian
+      warriors,' further highlighting the troubling rhetoric surrounding these figures,
+      which includes derogatory comments about Muslims and Palestine.
+    published: '2025-07-31T16:03:15+00:00'
+  - title: Israeli spyware firms are fueling the global surveillance state
+    url: https://thegrayzone.com/2025/07/31/israeli-spyware-surveillance-state/
+    text: The Pegasus hacking tool was just the beginning. A new survey of spyware firms
+      reveals Israeli companies are being used by agencies in Western nations to build
+      perfect dictatorships under democratic guise. This article was originally published
+      by ¡Do Not Panic! Last week another batch of peaceful pro-Palestine protestors
+      were arrested by British police on suspicion of terrorism offenses, including
+      a disabled man in a wheelchair, as the UK continues its descent into authoritarianism
+      on behalf of Israel. If any of […] The post Israeli spyware firms are fueling
+      the global surveillance state first appeared on The Grayzone . The post Israeli
+      spyware firms are fueling the global surveillance state appeared first on The
+      Grayzone .
+    one_sentence_summary: Israeli spyware companies are reportedly enabling Western
+      nations to establish authoritarian regimes disguised as democracies, as evidenced
+      by recent arrests of peaceful protestors in the UK.
+    paragraph_summary: The article discusses the role of Israeli spyware firms in enabling
+      Western nations to establish authoritarian regimes while maintaining a facade
+      of democracy. It highlights a recent survey revealing that these companies, known
+      for tools like Pegasus, are being utilized by government agencies to enhance surveillance
+      capabilities. The piece also references the arrest of peaceful pro-Palestine protestors
+      in the UK, including a disabled individual, as indicative of the country's increasing
+      authoritarianism in support of Israel. Overall, it critiques the growing influence
+      of Israeli spyware in the global surveillance landscape.
+    published: '2025-07-31T04:44:52+00:00'
+  - title: Israeli spyware firms are fueling the global surveillance state
+    url: https://thegrayzone.com/2025/07/31/israeli-spyware-surveillance-state/
+    text: The Pegasus hacking tool was just the beginning. A new survey of spyware firms
+      reveals Israeli companies are being used by agencies in Western nations to build
+      perfect dictatorships under democratic guise. This article was originally published
+      by ¡Do Not Panic! Last week another batch of peaceful pro-Palestine protestors
+      were arrested by British police on suspicion of terrorism offenses, including
+      a disabled man in a wheelchair, as the UK continues its descent into authoritarianism
+      on behalf of Israel. If any of […] The post Israeli spyware firms are fueling
+      the global surveillance state first appeared on The Grayzone . The post Israeli
+      spyware firms are fueling the global surveillance state appeared first on The
+      Grayzone .
+    one_sentence_summary: Israeli spyware companies are reportedly enabling Western
+      nations to establish authoritarian regimes disguised as democracies, as evidenced
+      by recent arrests of peaceful protestors in the UK.
+    paragraph_summary: The article discusses the role of Israeli spyware firms in enabling
+      Western nations to establish authoritarian regimes while maintaining a facade
+      of democracy. It highlights a recent survey revealing that these companies, known
+      for tools like Pegasus, are being utilized by government agencies to enhance surveillance
+      capabilities. The piece also references the arrest of peaceful pro-Palestine protestors
+      in the UK, including a disabled individual, as indicative of the country's increasing
+      authoritarianism in support of Israel. Overall, it critiques the growing influence
+      of Israeli spyware in the global surveillance landscape.
+    published: '2025-07-31T04:44:52+00:00'
   - title: FBI surveilled 2018 ‘Russia & Wikileaks’ panel featuring The Grayzone, files
       show
     url: https://thegrayzone.com/2025/07/24/fbi-surveilled-2018-russia-wikileaks-panel-featuring-the-grayzone-files-show/

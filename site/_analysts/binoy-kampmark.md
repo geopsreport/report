@@ -7,14 +7,283 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The ongoing crisis in Gaza continues to dominate the geopolitical landscape, with mounting evidence and testimony from Israeli human rights organizations intensifying international scrutiny. In the latest development, **Binoy Kampmark** highlights that groups such as B’Tselem and Physicians for Human Rights-Israel now openly characterize Israel’s actions in Gaza as genocide, citing systematic policies of dehumanization, targeted violence, and the deliberate destruction of essential infrastructure. These organizations are urging the global community to recognize the scale of the crisis and intervene to prevent further atrocities.
+  As of early August 2025, the geopolitical landscape is marked by intensifying debates over digital regulation in Western democracies and the ongoing humanitarian crisis in Gaza, with both issues drawing significant international scrutiny.
   
-  This escalation in rhetoric comes amid a worsening humanitarian situation, as previously reported by **Kampmark**, where the blockade and military operations have led to widespread starvation and civilian casualties. The international response remains largely limited to statements of condemnation, with little substantive action to alleviate the suffering or hold perpetrators accountable. The proposal to create a so-called “humanitarian city” for displaced Palestinians—effectively a concentration camp—has drawn further condemnation and is seen by analysts as a move that entrenches ethnic cleansing under the guise of humanitarianism.
+  The UK’s recent implementation of the Online Safety Act stands out as a major development in digital governance. The Act, which introduces mandatory age verification for online content, is presented by the government as a measure to protect children. However, **Binoy Kampmark** notes that critics are raising alarms about privacy violations, censorship, and the feasibility of enforcement. Despite these concerns, a significant portion of the British public appears to support the restrictions, reflecting a broader societal willingness to accept limitations on digital freedoms in the name of safety. This trend is mirrored in Australia, where similar age verification and social media restrictions for users under 16 are being rolled out with minimal public debate. According to **Kampmark**, these measures are driven by a “paternalistic” mindset and risk normalizing censorship and surveillance.
   
-  Looking at broader trends, militarization is on the rise globally, with advanced economies increasing defense spending and arms exports, often at the expense of diplomatic or humanitarian initiatives. This, coupled with the impotence of international bodies in responding to the Gaza crisis, signals a shift toward normalization of extreme measures in conflict zones.
+  Meanwhile, the situation in Gaza continues to deteriorate. Israeli human rights organizations, including B’Tselem and Physicians for Human Rights-Israel, have publicly labeled Israel’s actions as genocide, citing systematic violence, dehumanization, and destruction of essential infrastructure. **Kampmark** emphasizes the urgent calls from these groups for international recognition and intervention, warning that the humanitarian crisis is deepening amid ineffective international responses. The blockade and ongoing military actions have led to widespread starvation and civilian suffering, with aid efforts hampered by violence and logistical barriers.
   
-  Given these developments, there is a high chance that the humanitarian situation in Gaza will deteriorate further unless there is a significant change in international engagement. The growing consensus among Israeli and international human rights organizations will most definitely increase pressure on governments and multilateral institutions, but, as **Kampmark** notes, without concrete intervention, the cycle of violence and deprivation is likely to persist. The current trajectory suggests that the crisis in Gaza will remain a central issue in global geopolitics, with little hope for immediate resolution.
+  Looking ahead, the prevailing trends suggest a high likelihood that Western governments will continue tightening digital controls, often with public support, despite ongoing debates about civil liberties. In the Middle East, the majority of independent analysts, as reflected by **Kampmark**, believe that without substantial international intervention, the humanitarian situation in Gaza will most definitely worsen, with little hope for meaningful policy change from the Israeli government or its allies in the near term. The confidence in these predictions is high, given the entrenched positions and recent legislative and military actions.
 articles:
+  - title: 'Misusing the Children: The UK Online Safety Act, Privacy and Censorship'
+    url: https://www.counterpunch.org/2025/08/04/misusing-the-children-the-uk-online-safety-act-privacy-and-censorship/
+    text: 'The United Kingdom can always be relied upon to supply us with the eccentric,
+      the admirably dotty, and the odd extreme bit of adventure in policy. Lately, those
+      mad protectors and censors with their shields of false virtue and hollow intellect
+      have decided to launch an assault on the users of the Internet. In this, they
+      are joining the platoons of hysteria from such countries as Australia, where age
+      verification restrictions on platforms are all the rage. It’s all about the children,
+      and when adults start meddling with children, all sorts of trouble arise.
+
+
+      Much in line with the foolish, and potentially dangerous efforts being made by
+      the eCommissioner (not a misspelling) in Australia to impose “industry codes”
+      of child safety, the UK Online Safety Act (OSA) is being used to blanket social
+      media, search engines and virtually any other site of service with age verification
+      restrictions. The OSA lists three categories that are said to be harmful to children:
+      primary priority content, priority content and non-designated content.
+
+
+      Primary priority content is a British favourite of the repressed classes: pornography,
+      and content that supposedly encourages suicide, self-harm, or various behaviours
+      and disorders with eating. (If only there was a form of pornography that might
+      encourage good eating habits.) Priority harmful content covers abuse relevant
+      to race, religion, sex, sexual orientation, disability or gender reassignment
+      and any content that incites hatred against such people. To this, among others,
+      can be added bullying, the promotion of “serious violence, and depiction of serious
+      violence” whether authentic or fictional.
+
+
+      To make things even more expansively ludicrous, the regulations cover content
+      that is non-designated (NDC), which might as well be the entire body of knowledge
+      and existence on this planet and beyond seen by the regulators of the day as dangerous.
+      Examples are skimpy, and do not mention the enriching apple in the Garden of Eden
+      offered to Eve by the opportunistic serpent. Something, however, is “NDC if it
+      presents a material risk of significant harm to an appreciable number of children
+      in the UK”. What a triumph of insufferable vagueness.
+
+
+      The onus is placed on the online service providers to ascertain whether the hosted
+      content is harmful to children. “As the regulator, we won’t be accessing individual
+      pieces of content, or telling online services to remove legal material,” states
+      the UK Office of Communications, Ofcom. They are, in effect, being enlisted by
+      the government as moral, vigilant guardians, never the wisest thing when it comes
+      to technology companies. If the providers in question determine the material to
+      be harmful, they must implement various mitigation measures. Ofcom lists some
+      of them: “highly effective age assurance to protect children from [harmful content
+      online]”; safer algorithms to limit access to such harmful content (goodbye much
+      literature and culture); effective moderation; transparent reporting and complaints
+      processes; supportive information for children and “strong governance and accountability”.
+      This constituted a true charter for docile imbecility.
+
+
+      The platforms are told to implement an age verification process that is “technically
+      accurate, robust, reliable and fair.” These include, among a range of options,
+      facial age estimation, granting the age-check service access to bank information,
+      digital identity services, which include digital identity wallets, credit card
+      age checks, mobile network operator age checks and uploaded photo-IDs. Social
+      media platforms such as Reddit, Bluesky, Discord, and have already imposed age
+      checks to comply with the July 25 deadline. Ditto Pornhub, the most visited pornographic
+      online provider in the UK, Tube 8, YouPorn and RedTube.
+
+
+      The well named Carl Dong, Obscura VPN founder, is not shy in calling the law a
+      “ticking time-bomb for the privacy of UK citizens.” The broader consequences of
+      the OSA are snappily summed up by Paige Collings, senior speech and privacy activist
+      at the Electronic Frontier Foundation: the OSA is nothing less than a “threat
+      to the privacy of users,” a restriction on free expression by arbitrating online
+      speech, an imposition of “algorithmic discrimination through face checks” and
+      excludes “millions of people without a personal device or form of ID […] from
+      accessing the internet.”
+
+
+      The cleverer users will simply make a mockery of the whole show by using other
+      means of regulatory subversion, including installing a VPN (Virtual Private Network)
+      and browsing the web as if the user was from another country where age-verification
+      rules do not apply. “The logistics,” explains Graeme Stewart, head of public sector
+      at Check Point Software, “are near impossible. You could, in theory, ban the sale
+      of VPN equipment, or instruct ISPs not to accept VPN traffic. But even then, people
+      will find workarounds. All you’d achieve is pushing VPN underground, creating
+      a black market for VPN contractors.”
+
+
+      A rush for the most appropriate VPNs has already been ushered in while a petition
+      featuring over 481,000 signatures urging the repeal of the OSA has gathered steam.
+      On July 28, the government responded in the customary tone deaf manner, admitting
+      to having “no plans to repeal the Online Safety Act”. Instead, it was “working
+      with Ofcom to implement the Act as quickly as possible to enable UK users to benefit
+      from its protections.”
+
+
+      Critics of these digital walls of restriction and exclusion face a body of manipulated
+      public opinion. Gone are the days when everyone could post, mention and vent on
+      any topic with merry impunity and noisy enthusiasm. Information superhighways
+      have become potholes fought over by tribes and regulatory zealots inoculated against
+      debate. Many members of the public seem to want censorship as a form of stand-in
+      parenting, and a YouGov poll found a majority of Britons satisfied with the law
+      (the latest figure as of July 31 comes in at 69%). Yet again, such an encroachment
+      is being done in the name of the children, who are to be left permanently immature
+      and unspoiled by the richer, more complicated life.'
+    one_sentence_summary: The UK government's implementation of the Online Safety Act,
+      which imposes age verification restrictions on online content in the name of protecting
+      children, has sparked criticism for its potential infringement on privacy, free
+      expression, and the practicality of enforcement, while a significant portion of
+      the public appears to support these measures despite concerns over censorship
+      and the impact on internet access.
+    paragraph_summary: The United Kingdom's recent implementation of the Online Safety
+      Act (OSA) reflects a growing trend of stringent internet regulations aimed at
+      protecting children, similar to measures seen in Australia. The OSA categorizes
+      online content into three levels of harm, with a broad definition of what constitutes
+      "harmful" material, including pornography and content related to self-harm, hate
+      speech, and violence. Online service providers are tasked with enforcing age verification
+      processes, which critics argue threaten user privacy and free expression, potentially
+      leading to algorithmic discrimination and exclusion of those without proper identification.
+      Despite widespread opposition and a petition with over 481,000 signatures calling
+      for its repeal, the UK government remains committed to enforcing the OSA, citing
+      public support for the law. This regulatory approach has sparked concerns about
+      censorship and the infantilization of online discourse, as many citizens seem
+      to favor such restrictions in the name of child safety.
+    published: '2025-08-04T05:55:52+00:00'
+  - title: 'The Paranoia of Officialdom: Age Verification and Using the Internet in
+      Australia'
+    url: https://www.counterpunch.org/2025/08/01/the-paranoia-of-officialdom-age-verification-and-using-the-internet-in-australia/
+    text: 'Australia, in keeping with its penal history, has a long record of paranoid
+      officialdom and paternalistic wowsers. Be it perceived threats to morality, the
+      tendency of the populace to be corrupted, and a general, gnawing fear about what
+      knowledge might do, Australia’s governing authorities have prized censorship.
+
+
+      This recent trend is most conspicuous in an ongoing regulatory war being waged
+      against the Internet and the corporate citizens that inhabit it. Terrified that
+      Australia’s tender children will suffer ruination at the hand of online platforms,
+      the entire population of the country will be subjected to age verification checks.
+      Preparations are already underway in the country to impose a social media ban
+      for users under the age of 16, ostensibly to protect the mental health and wellbeing
+      of children. The Online Safety Amendment (Social Media Minimum Age) Bill 2024
+      was passed in November last year to amend the Online Safety Act 2021, requiring
+      “age-restricted social media platforms” to observe a “minimum age obligation”
+      to prevent Australians under the age of 16 to have accounts. It also vests that
+      ghastly office of the eSafety Commissioner and the Information Commissioner with
+      powers to seek information regarding relevant compliance by the platforms, along
+      with the power to issue and publish notices of non-compliance.
+
+
+      While the press were falling over to note the significance of such changes, little
+      debate has accompanied the last month’s registration of a new industry code by
+      the eSafety Commissioner, Julie Inman Grant. In fact, Inman Grant is proving most
+      busy, having already registered three such codes, with a further six to be registered
+      by the end of this year. All serve to target the behaviour of internet service
+      companies in Australia. All have not been subject to parliamentary debate, let
+      alone broader public consultation.
+
+
+      The Paranoia of Officialdom: Age Verification and Using the Internet in Australia
+
+
+      Australia, in keeping with its penal history, has a long record of paranoid officialdom
+      and paternalistic wowsers. Be it perceived threats to morality, the tendency of
+      the populace to be corrupted, and a general, gnawing fear about what knowledge
+      might do, Australia’s governing authorities have prized censorship.
+
+
+      This recent trend is most conspicuous in an ongoing regulatory war being waged
+      against the Internet and the corporate citizens that inhabit it. Terrified that
+      Australia’s tender children will suffer ruination at the hand of online platforms,
+      the entire population of the country will be subjected to age verification checks.
+      Preparations are already underway in the country to impose a social media ban
+      for users under the age of 16, ostensibly to protect the mental health and wellbeing
+      of children. The Online Safety Amendment (Social Media Minimum Age) Bill 2024
+      was passed in November last year to amend the Online Safety Act 2021, requiring
+      “age-restricted social media platforms” to observe a “minimum age obligation”
+      to prevent Australians under the age of 16 to have accounts. It also vests that
+      ghastly office of the eSafety Commissioner and the Information Commissioner with
+      powers to seek information regarding relevant compliance by the platforms, along
+      with the power to issue and publish notices of non-compliance.
+
+
+      While the press were falling over to note the significance of such changes, little
+      debate has accompanied the last month’s registration of a new industry code by
+      the eSafety Commissioner, Julie Inman Grant. In fact, Inman Grant is proving most
+      busy, having already registered three such codes, with a further six to be registered
+      by the end of this year. All serve to target the behaviour of internet service
+      companies in Australia. All have not been subject to parliamentary debate, let
+      alone broader public consultation.
+
+
+      Inman Grant has been less than forthcoming about the implications of these codes,
+      most notably on the issue of mandatory age-assurance limits. That said, some crumbs
+      have been left for those paying attention to her innate obsession with hiving
+      off the Internet from Australian users. In her address to the National Press Club
+      in Canberra on June 24, she did give some clue about where the country is heading:
+      “Today, I am […] announcing that through the Online Safety Act’s codes and standards
+      framework, we will be moving to register three industry-prepared codes designed
+      to limit children’s access to high impact, harmful material like pornography,
+      violent content, themes of suicide, self-harm and disordered eating.” (Is there
+      no limit to this commissar’s fears?) Under such codes, companies would “agree
+      to apply safety measures up and down the technology stack – including age assurance
+      protections.”
+
+
+      With messianic fervour, Inman Grant explained that the codes would “serve as a
+      bulwark and operate in concern with the new social media age limits, distributing
+      more responsibility and accountability across eight sectors of the tech industry.”
+      These would also not be limited in scope, applicable to enterprise hosting services,
+      internet carriage services, and various “access providers and search engines.
+      I have concluded that each of these codes provide appropriate community safeguards.”
+
+
+      From December 27, such technology giants as Google and Microsoft will have to
+      use age-assurance technology for account holders when they sign in and “apply
+      tools and/or settings, like ‘safe search’ functionality, at the highest safety
+      setting by default for an account holders its age verification systems indicate
+      is likely to be an Australian child, designed to protect and prevent Australian
+      children from accessing or being exposed to online pornography and high impact
+      violence material in search results.” This is pursuant to Schedule 3 – Internet
+      Search Engine Services Online Safety Code (Class 1C and Class 2 Material).
+
+
+      How this will be undertaken has not, as yet, been clarified by Google or Microsoft.
+      The companies have, however, been in the business of trialling a number of technologies.
+      These include Zero-Knowledge Proof (ZKP) cryptography, which permits people to
+      prove that an aspect of themselves is true without surrendering any other data;
+      using large language models (LLMs) to discern an account holder’s age based on
+      browsing history; or the use of selfie verification and government ID tools.
+
+
+      Specialists in the field of information technology have been left baffled and
+      worried. “I have not seen anything like this anywhere else in the world,” remarks
+      IT researcher Lisa Given. This had “kind of popped out, seemingly out of the blue.”
+      Digital Rights Watch chair, Lizzie O’Shea, is of the view that “the public deserves
+      more of a say in how to balance these important human rights issues” while Justin
+      Warren, founder of the tech analysis company PivotNine, sees it as “a massive
+      overreaction after years of police inaction to curtail the power of a handful
+      of large foreign technology companies.”
+
+
+      Then comes the issue of efficacy. Using the safety of children in censoring content
+      and restricting technology is a government favourite. Whether the regulations
+      actually protect children is quite another matter. John Pane, chair of Electronic
+      Frontiers Australia (EFA), was less than impressed by the results from a recent
+      age-assurance technology trial conducted to examine the effect of the teen social
+      media ban. And all of this cannot ignore the innovative guile of young users,
+      ever ready to circumvent any imposed restrictions.
+
+
+      Inman Grant, in her attempts to limit the use of the Internet and infantilise
+      the population, sees these age restricting measures as “building a culture of
+      online safety, using multiple interventions – just as we have done so successfully
+      on our beaches.” This nonsensical analogy excludes the central theme of her policies,
+      common to all censors in history: The people are not to be trusted, and paternalistic
+      governors and regulators know better.'
+    one_sentence_summary: Australia is implementing stringent age verification measures
+      and social media restrictions for users under 16, driven by a paternalistic approach
+      to online safety that raises concerns about censorship and the lack of public
+      debate on the implications of these regulations.
+    paragraph_summary: Australia's history of censorship and paternalistic governance
+      is manifesting in a new wave of regulations targeting the internet, particularly
+      aimed at protecting children from perceived online dangers. The recently passed
+      Online Safety Amendment (Social Media Minimum Age) Bill 2024 mandates age verification
+      checks for social media users under 16, empowering the eSafety Commissioner to
+      enforce compliance among platforms. Despite significant media attention, there
+      has been little public debate regarding the new industry codes being registered
+      by the eSafety Commissioner, Julie Inman Grant, which aim to limit children's
+      access to harmful content. Critics argue that these measures, which include mandatory
+      age-assurance technologies for tech giants like Google and Microsoft, lack clarity
+      and may not effectively safeguard children, raising concerns about overreach and
+      the need for public input in balancing safety and rights. Inman Grant's approach
+      reflects a broader distrust of the populace, echoing historical tendencies of
+      Australian authorities to impose restrictions based on moral panic.
+    published: '2025-08-01T05:54:44+00:00'
   - title: 'When Israelis Call It Out: Finding Genocide in Gaza'
     url: https://www.counterpunch.org/2025/07/29/when-israelis-call-it-out-finding-genocide-in-gaza/
     text: 'It’s been almost an article of faith among Israeli officials: the state they

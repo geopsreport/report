@@ -7,14 +7,1502 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  As the war in Gaza enters its second year, the humanitarian situation continues to deteriorate amid stalled ceasefire negotiations and escalating rhetoric from Israeli leadership. Recent statements by Israeli Defence Minister Israel Katz, threatening to "open the gates of hell" on Gaza if hostages are not released, underscore what **Elijah J. Magnier** describes as a deepening "moral disconnect" within the Israeli government. These threats come as the population of Gaza faces intensifying famine, systematic displacement, and ongoing violence.
+  The ongoing conflict in Gaza continues to reshape regional and international dynamics, with recent developments highlighting Israel’s covert diplomatic efforts and the shifting credibility of Western actors.
   
-  Despite mounting international calls for a ceasefire, Israeli military operations have not abated. The most recent offensives, particularly around Deir al-Balah, signal that the Israeli government is prioritizing military objectives over diplomatic progress. **Elijah J. Magnier** notes that negotiations led by the US and Israel are widely perceived as being conducted in bad faith, with humanitarian aid and relief efforts deliberately restricted as a means of exerting pressure on Palestinian factions.
+  In the latest reports, **Elijah J. Magnier** reveals that Israeli intelligence, under Mossad Director David Barnea, has intensified a secret campaign to persuade third countries to accept Palestinians displaced by the Gaza war. This initiative follows Egypt’s categorical rejection of proposals to resettle Gazans in the Sinai desert. According to Magnier, this move is widely perceived as an attempt at “ethnic cleansing disguised as humanitarian aid,” a sentiment echoed by critics across the region. The campaign’s secrecy and the targeting of multiple countries underscore Israel’s determination to find a solution outside its borders, despite mounting international criticism.
   
-  The broader regional context remains fraught, with minority communities—especially Christians—across the Middle East expressing growing fears of abandonment and existential threat. As previously reported, these communities face increasing hostility and a collapse of both domestic and international protections, leading to a sense of isolation and vulnerability.
+  Meanwhile, the humanitarian situation in Gaza remains dire. Previous reports established that famine is not a result of logistical failure but a deliberate strategy, with Western complicity enabling Israel’s blockade of essential resources. The recent visit by US Presidential Envoy Steve Witkoff, who dismissed the famine as “narratively exaggerated,” has further eroded American credibility, especially among countries advocating for Palestinian rights. **Magnier** notes that this has triggered a “significant decline in American moral authority and credibility on the global stage,” particularly in the Global South.
   
-  Looking ahead, the prevailing analysis suggests little likelihood of a meaningful ceasefire or improvement in humanitarian conditions in Gaza in the immediate term. Based on the current trajectory and the intransigence of the Israeli leadership, I guarantee that the suffering in Gaza will persist, with further escalation possible if negotiations continue to stall and military threats are carried out. The regional trend points toward deepening instability, with minority populations at heightened risk and diplomatic solutions remaining elusive.
+  Looking ahead, the majority of sources agree that Israel’s diplomatic push to relocate Gazans is unlikely to succeed in the near term, given the strong opposition from neighboring states and the growing international scrutiny. The humanitarian crisis is expected to persist, with Western governments facing increasing pressure to reconsider their support for current Israeli policies. Based on current trends, I guarantee that the issue of forced displacement and the legitimacy of Western involvement will remain central to the geopolitical discourse in the coming weeks.
 articles:
+  - title: 'De crisis exporteren: Israëls stille campagne om Gazanen naar derde landen
+      te verdrijven'
+    url: https://ejmagnier.com/2025/08/05/de-crisis-exporteren-israels-stille-campagne-om-gazanen-naar-derde-landen-te-verdrijven/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. In een
+      ontwikkeling die diplomaten, rechtsgeleerden en mensenrechtenwaarnemers ernstig
+      verontrust, heeft de Israëlische inlichtingendienst – onder leiding van Mossad-directeur
+      David Barnea – een geheime diplomatieke campagne gelanceerd om derde landen te
+      overtuigen grote aantallen Palestijnen op te nemen die door de oorlog in Gaza
+      ontheemd zijn geraakt. Tijdens het bezoek van Barnea aan Washington in juli 2025
+      werd het voorstel formeel voorgelegd aan Amerikaanse functionarissen, met Ethiopië,
+      Indonesië en Libië als mogelijke gastlanden. Dit komt nadat Egypte het Israëlische
+      voorstel om een deel van de Sinaïwoestijn aan te wijzen voor wat de Israëlische
+      autoriteiten eufemistisch omschrijven als een “vrijwillige humanitaire hervestiging”
+      resoluut heeft afgewezen. In werkelijkheid komt dit initiatief neer op etnische
+      zuivering van Palestijnen – een beleid dat verschillende Israëlische ministers
+      openlijk en met toenemende brutaliteit verdedigen, waarbij elke schijn van subtiliteit
+      of legaliteit wordt weggenomen. Achter de humanitaire retoriek gaat echter een
+      grimmige en controversiële realiteit schuil. Critici stellen dat wat wordt voorgesteld
+      als een goedaardige oplossing voor een humanitaire noodsituatie in feite een vorm
+      van gedwongen verplaatsing is, die wordt uitgevoerd in de schaduw van een verwoestende
+      militaire campagne die de bevolking van Gaza zonder veilige toevluchtsoorden,
+      voedselzekerheid en toegang tot functionerende infrastructuur heeft achtergelaten.
+      Volgens Israëlische berichten zijn functionarissen gesprekken begonnen met ten
+      minste vijf niet nader genoemde landen, waarvan er drie openbaar zijn gemaakt.
+      Hoewel Israëlische bronnen beweren dat er in deze gesprekken “enige openheid”
+      is getoond, heeft geen van de betrokken landen een overeenkomst bevestigd en hebben
+      verschillende landen dit ronduit ontkend. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: De Israëlische inlichtingendienst heeft onder leiding van
+      Mossad-directeur David Barnea een geheime diplomatieke campagne gestart om derde
+      landen te overtuigen Palestijnen die ontheemd zijn door de oorlog in Gaza op te
+      nemen, na de afwijzing van Egypte om een deel van de Sinaïwoestijn voor hervestiging
+      aan te wijzen, wat door critici wordt gezien als een poging tot etnische zuivering.
+    paragraph_summary: In een zorgwekkende ontwikkeling heeft de Israëlische inlichtingendienst,
+      onder leiding van Mossad-directeur David Barnea, een geheime diplomatieke campagne
+      gestart om derde landen te overtuigen grote aantallen ontheemde Palestijnen uit
+      Gaza op te nemen. Dit voorstel werd in juli 2025 formeel gepresenteerd aan Amerikaanse
+      functionarissen, met Ethiopië, Indonesië en Libië als mogelijke gastlanden, nadat
+      Egypte had geweigerd een deel van de Sinaïwoestijn voor "vrijwillige humanitaire
+      hervestiging" aan te wijzen. Critici beschouwen deze campagne als een vorm van
+      etnische zuivering, waarbij de Israëlische autoriteiten hun beleid openlijk verdedigen
+      zonder enige schijn van legaliteit. Achter de humanitaire retoriek schuilt een
+      grimmige realiteit van gedwongen verplaatsing, terwijl de bevolking van Gaza lijdt
+      onder een verwoestende militaire campagne. Hoewel Israëlische functionarissen
+      gesprekken hebben gevoerd met meerdere landen, hebben geen van deze landen een
+      overeenkomst bevestigd en hebben sommige dit ontkend.
+    published: '2025-08-05T03:26:21+00:00'
+  - title: 'De crisis exporteren: Israëls stille campagne om Gazanen naar derde landen
+      te verdrijven'
+    url: https://ejmagnier.com/2025/08/05/de-crisis-exporteren-israels-stille-campagne-om-gazanen-naar-derde-landen-te-verdrijven/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. In een
+      ontwikkeling die diplomaten, rechtsgeleerden en mensenrechtenwaarnemers ernstig
+      verontrust, heeft de Israëlische inlichtingendienst – onder leiding van Mossad-directeur
+      David Barnea – een geheime diplomatieke campagne gelanceerd om derde landen te
+      overtuigen grote aantallen Palestijnen op te nemen die door de oorlog in Gaza
+      ontheemd zijn geraakt. Tijdens het bezoek van Barnea aan Washington in juli 2025
+      werd het voorstel formeel voorgelegd aan Amerikaanse functionarissen, met Ethiopië,
+      Indonesië en Libië als mogelijke gastlanden. Dit komt nadat Egypte het Israëlische
+      voorstel om een deel van de Sinaïwoestijn aan te wijzen voor wat de Israëlische
+      autoriteiten eufemistisch omschrijven als een “vrijwillige humanitaire hervestiging”
+      resoluut heeft afgewezen. In werkelijkheid komt dit initiatief neer op etnische
+      zuivering van Palestijnen – een beleid dat verschillende Israëlische ministers
+      openlijk en met toenemende brutaliteit verdedigen, waarbij elke schijn van subtiliteit
+      of legaliteit wordt weggenomen. Achter de humanitaire retoriek gaat echter een
+      grimmige en controversiële realiteit schuil. Critici stellen dat wat wordt voorgesteld
+      als een goedaardige oplossing voor een humanitaire noodsituatie in feite een vorm
+      van gedwongen verplaatsing is, die wordt uitgevoerd in de schaduw van een verwoestende
+      militaire campagne die de bevolking van Gaza zonder veilige toevluchtsoorden,
+      voedselzekerheid en toegang tot functionerende infrastructuur heeft achtergelaten.
+      Volgens Israëlische berichten zijn functionarissen gesprekken begonnen met ten
+      minste vijf niet nader genoemde landen, waarvan er drie openbaar zijn gemaakt.
+      Hoewel Israëlische bronnen beweren dat er in deze gesprekken “enige openheid”
+      is getoond, heeft geen van de betrokken landen een overeenkomst bevestigd en hebben
+      verschillende landen dit ronduit ontkend. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: De Israëlische inlichtingendienst heeft onder leiding van
+      Mossad-directeur David Barnea een geheime diplomatieke campagne gestart om derde
+      landen te overtuigen Palestijnen die ontheemd zijn door de oorlog in Gaza op te
+      nemen, na de afwijzing van Egypte om een deel van de Sinaïwoestijn voor hervestiging
+      aan te wijzen, wat door critici wordt gezien als een poging tot etnische zuivering.
+    paragraph_summary: In een zorgwekkende ontwikkeling heeft de Israëlische inlichtingendienst,
+      onder leiding van Mossad-directeur David Barnea, een geheime diplomatieke campagne
+      gestart om derde landen te overtuigen grote aantallen ontheemde Palestijnen uit
+      Gaza op te nemen. Dit voorstel werd in juli 2025 formeel gepresenteerd aan Amerikaanse
+      functionarissen, met Ethiopië, Indonesië en Libië als mogelijke gastlanden, nadat
+      Egypte had geweigerd een deel van de Sinaïwoestijn voor "vrijwillige humanitaire
+      hervestiging" aan te wijzen. Critici beschouwen deze campagne als een vorm van
+      etnische zuivering, waarbij de Israëlische autoriteiten hun beleid openlijk verdedigen
+      zonder enige schijn van legaliteit. Achter de humanitaire retoriek schuilt een
+      grimmige realiteit van gedwongen verplaatsing, terwijl de bevolking van Gaza lijdt
+      onder een verwoestende militaire campagne. Hoewel Israëlische functionarissen
+      gesprekken hebben gevoerd met meerdere landen, hebben geen van deze landen een
+      overeenkomst bevestigd en hebben sommige dit ontkend.
+    published: '2025-08-05T03:26:21+00:00'
+  - title: 'Exporting the Crisis: Israel’s Quiet Campaign to Relocate Gazans to Third
+      Countries'
+    url: https://ejmagnier.com/2025/08/04/exporting-the-crisis-israels-quiet-campaign-to-relocate-gazans-to-third-countries/
+    text: Tweet By Elijah J. Magnier – In a development that has deeply alarmed diplomats,
+      legal scholars, and human rights observers, Israeli intelligence—led by Mossad
+      Director David Barnea—has launched a covert diplomatic campaign aimed at persuading
+      third countries to absorb large numbers of Palestinians displaced by the war on
+      Gaza. During Barnea’s July 2025 visit to Washington, the proposal was formally
+      presented to U.S. officials and included Ethiopia, Indonesia, and Libya as potential
+      host countries. This comes after Egypt firmly rejected Israeli overtures to designate
+      part of the Sinai Desert for what Israeli authorities euphemistically describe
+      as a “voluntary humanitarian relocation.” In reality, this initiative amounts
+      to the ethnic cleansing of Palestinians—a policy that several Israeli ministers
+      have openly championed with increasing brazenness, stripping away any pretence
+      of subtlety or legality. Behind the language of humanitarianism, however, lies
+      a stark and controversial reality. Critics argue that what is being portrayed
+      as a benign solution to a humanitarian emergency is in fact a form of forced displacement—engineered
+      under the shadow of a devastating military campaign that has left Gaza’s population
+      without safe refuge, food security, or access to functioning infrastructure. According
+      to Israeli reports, officials have initiated discussions with at least five unnamed
+      countries, three of which have been publicly identified. While Israeli sources
+      claim that “some openness” has been expressed in these talks, none of the targeted
+      nations has acknowledged any agreement, and several have issued outright denials.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet
+    one_sentence_summary: Israeli intelligence, led by Mossad Director David Barnea,
+      is covertly seeking to persuade third countries to accept large numbers of Palestinians
+      displaced by the Gaza war, a move critics label as ethnic cleansing disguised
+      as humanitarian aid, particularly after Egypt rejected similar proposals for relocation.
+    paragraph_summary: Israeli intelligence, led by Mossad Director David Barnea, has
+      initiated a covert diplomatic campaign to persuade third countries, including
+      Ethiopia, Indonesia, and Libya, to accept large numbers of Palestinians displaced
+      by the ongoing war in Gaza. This proposal was presented to U.S. officials during
+      Barnea's visit to Washington in July 2025, following Egypt's rejection of Israeli
+      plans to use part of the Sinai Desert for what is termed a “voluntary humanitarian
+      relocation.” Critics argue that this initiative constitutes ethnic cleansing,
+      as it seeks to forcibly displace Palestinians under the guise of humanitarian
+      aid amidst a devastating military campaign that has left Gaza's population in
+      dire conditions. While discussions have reportedly taken place with at least five
+      countries, none have confirmed any agreements, with several issuing denials regarding
+      their involvement.
+    published: '2025-08-04T18:31:45+00:00'
+  - title: 'Exporting the Crisis: Israel’s Quiet Campaign to Relocate Gazans to Third
+      Countries'
+    url: https://ejmagnier.com/2025/08/04/exporting-the-crisis-israels-quiet-campaign-to-relocate-gazans-to-third-countries/
+    text: Tweet By Elijah J. Magnier – In a development that has deeply alarmed diplomats,
+      legal scholars, and human rights observers, Israeli intelligence—led by Mossad
+      Director David Barnea—has launched a covert diplomatic campaign aimed at persuading
+      third countries to absorb large numbers of Palestinians displaced by the war on
+      Gaza. During Barnea’s July 2025 visit to Washington, the proposal was formally
+      presented to U.S. officials and included Ethiopia, Indonesia, and Libya as potential
+      host countries. This comes after Egypt firmly rejected Israeli overtures to designate
+      part of the Sinai Desert for what Israeli authorities euphemistically describe
+      as a “voluntary humanitarian relocation.” In reality, this initiative amounts
+      to the ethnic cleansing of Palestinians—a policy that several Israeli ministers
+      have openly championed with increasing brazenness, stripping away any pretence
+      of subtlety or legality. Behind the language of humanitarianism, however, lies
+      a stark and controversial reality. Critics argue that what is being portrayed
+      as a benign solution to a humanitarian emergency is in fact a form of forced displacement—engineered
+      under the shadow of a devastating military campaign that has left Gaza’s population
+      without safe refuge, food security, or access to functioning infrastructure. According
+      to Israeli reports, officials have initiated discussions with at least five unnamed
+      countries, three of which have been publicly identified. While Israeli sources
+      claim that “some openness” has been expressed in these talks, none of the targeted
+      nations has acknowledged any agreement, and several have issued outright denials.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet
+    one_sentence_summary: Israeli intelligence, led by Mossad Director David Barnea,
+      is covertly seeking to persuade third countries to accept large numbers of Palestinians
+      displaced by the Gaza war, a move critics label as ethnic cleansing disguised
+      as humanitarian aid, particularly after Egypt rejected similar proposals for relocation.
+    paragraph_summary: Israeli intelligence, led by Mossad Director David Barnea, has
+      initiated a covert diplomatic campaign to persuade third countries, including
+      Ethiopia, Indonesia, and Libya, to accept large numbers of Palestinians displaced
+      by the ongoing war in Gaza. This proposal was presented to U.S. officials during
+      Barnea's visit to Washington in July 2025, following Egypt's rejection of Israeli
+      plans to use part of the Sinai Desert for what is termed a “voluntary humanitarian
+      relocation.” Critics argue that this initiative constitutes ethnic cleansing,
+      as it seeks to forcibly displace Palestinians under the guise of humanitarian
+      aid amidst a devastating military campaign that has left Gaza's population in
+      dire conditions. While discussions have reportedly taken place with at least five
+      countries, none have confirmed any agreements, with several issuing denials regarding
+      their involvement.
+    published: '2025-08-04T18:31:45+00:00'
+  - title: 'Exporter la crise : la campagne silencieuse d’Israël pour relocaliser les
+      Gazaouis dans des pays tiers'
+    url: https://ejmagnier.com/2025/08/04/exporter-la-crise-la-campagne-silencieuse-disrael-pour-relocaliser-les-gazaouis-dans-des-pays-tiers/
+    text: Tweet Par Elijah J. Magnier Dans un développement qui a profondément alarmé
+      les diplomates, les juristes et les défenseurs des droits humains, les services
+      de renseignement israéliens — dirigés par le chef du Mossad David Barnea — ont
+      lancé une campagne diplomatique secrète visant à convaincre des pays tiers d’accueillir
+      un grand nombre de Palestiniens déplacés par la guerre à Gaza. Lors de sa visite
+      à Washington en juillet 2025, Barnea a présenté formellement cette proposition
+      aux responsables américains, désignant l’Éthiopie, l’Indonésie et la Libye comme
+      pays hôtes potentiels. Cela fait suite au rejet catégorique par l’Égypte des propositions
+      israéliennes visant à désigner une partie du désert du Sinaï pour ce que les autorités
+      israéliennes qualifient, de manière euphémique, de « relocalisation humanitaire
+      volontaire ». En réalité, cette initiative équivaut à un nettoyage ethnique des
+      Palestiniens — une politique que plusieurs ministres israéliens défendent désormais
+      ouvertement, avec une audace croissante, abandonnant tout semblant de subtilité
+      ou de légalité. Derrière le vernis humanitaire se cache une réalité brutale et
+      controversée. Les critiques affirment que ce qui est présenté comme une solution
+      bienveillante à une urgence humanitaire n’est en réalité qu’une forme de déplacement
+      forcé — orchestrée dans l’ombre d’une campagne militaire dévastatrice ayant privé
+      la population de Gaza de tout refuge sûr, de sécurité alimentaire ou d’infrastructures
+      fonctionnelles. Selon des rapports israéliens, des discussions ont été engagées
+      avec au moins cinq pays, dont trois ont été identifiés publiquement. Bien que
+      des sources israéliennes évoquent une « certaine ouverture » dans ces pourparlers,
+      aucun des pays concernés n’a confirmé un quelconque accord, et plusieurs ont même
+      démenti catégoriquement. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet
+    one_sentence_summary: Les services de renseignement israéliens, dirigés par le chef
+      du Mossad, ont lancé une campagne secrète pour persuader des pays tiers d'accueillir
+      des Palestiniens déplacés par la guerre à Gaza, après le rejet par l'Égypte d'une
+      proposition de relocalisation dans le désert du Sinaï, une initiative perçue comme
+      un nettoyage ethnique.
+    paragraph_summary: Israeli intelligence, led by Mossad chief David Barnea, has initiated
+      a covert diplomatic campaign to persuade third countries to accept a large number
+      of Palestinians displaced by the Gaza conflict, following Egypt's rejection of
+      proposals to relocate them to the Sinai desert. During a visit to Washington in
+      July 2025, Barnea identified Ethiopia, Indonesia, and Libya as potential host
+      nations. Critics argue that this initiative, framed as a "voluntary humanitarian
+      relocation," is essentially a form of ethnic cleansing, as it seeks to forcibly
+      displace Palestinians amidst a devastating military campaign that has stripped
+      Gaza's population of safety and basic needs. While discussions have reportedly
+      taken place with at least five countries, none have confirmed any agreements,
+      with several outright denying involvement.
+    published: '2025-08-04T18:30:09+00:00'
+  - title: 'Exporter la crise : la campagne silencieuse d’Israël pour relocaliser les
+      Gazaouis dans des pays tiers'
+    url: https://ejmagnier.com/2025/08/04/exporter-la-crise-la-campagne-silencieuse-disrael-pour-relocaliser-les-gazaouis-dans-des-pays-tiers/
+    text: Tweet Par Elijah J. Magnier Dans un développement qui a profondément alarmé
+      les diplomates, les juristes et les défenseurs des droits humains, les services
+      de renseignement israéliens — dirigés par le chef du Mossad David Barnea — ont
+      lancé une campagne diplomatique secrète visant à convaincre des pays tiers d’accueillir
+      un grand nombre de Palestiniens déplacés par la guerre à Gaza. Lors de sa visite
+      à Washington en juillet 2025, Barnea a présenté formellement cette proposition
+      aux responsables américains, désignant l’Éthiopie, l’Indonésie et la Libye comme
+      pays hôtes potentiels. Cela fait suite au rejet catégorique par l’Égypte des propositions
+      israéliennes visant à désigner une partie du désert du Sinaï pour ce que les autorités
+      israéliennes qualifient, de manière euphémique, de « relocalisation humanitaire
+      volontaire ». En réalité, cette initiative équivaut à un nettoyage ethnique des
+      Palestiniens — une politique que plusieurs ministres israéliens défendent désormais
+      ouvertement, avec une audace croissante, abandonnant tout semblant de subtilité
+      ou de légalité. Derrière le vernis humanitaire se cache une réalité brutale et
+      controversée. Les critiques affirment que ce qui est présenté comme une solution
+      bienveillante à une urgence humanitaire n’est en réalité qu’une forme de déplacement
+      forcé — orchestrée dans l’ombre d’une campagne militaire dévastatrice ayant privé
+      la population de Gaza de tout refuge sûr, de sécurité alimentaire ou d’infrastructures
+      fonctionnelles. Selon des rapports israéliens, des discussions ont été engagées
+      avec au moins cinq pays, dont trois ont été identifiés publiquement. Bien que
+      des sources israéliennes évoquent une « certaine ouverture » dans ces pourparlers,
+      aucun des pays concernés n’a confirmé un quelconque accord, et plusieurs ont même
+      démenti catégoriquement. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet
+    one_sentence_summary: Les services de renseignement israéliens, dirigés par le chef
+      du Mossad, ont lancé une campagne secrète pour persuader des pays tiers d'accueillir
+      des Palestiniens déplacés par la guerre à Gaza, après le rejet par l'Égypte d'une
+      proposition de relocalisation dans le désert du Sinaï, une initiative perçue comme
+      un nettoyage ethnique.
+    paragraph_summary: Israeli intelligence, led by Mossad chief David Barnea, has initiated
+      a covert diplomatic campaign to persuade third countries to accept a large number
+      of Palestinians displaced by the Gaza conflict, following Egypt's rejection of
+      proposals to relocate them to the Sinai desert. During a visit to Washington in
+      July 2025, Barnea identified Ethiopia, Indonesia, and Libya as potential host
+      nations. Critics argue that this initiative, framed as a "voluntary humanitarian
+      relocation," is essentially a form of ethnic cleansing, as it seeks to forcibly
+      displace Palestinians amidst a devastating military campaign that has stripped
+      Gaza's population of safety and basic needs. While discussions have reportedly
+      taken place with at least five countries, none have confirmed any agreements,
+      with several outright denying involvement.
+    published: '2025-08-04T18:30:09+00:00'
+  - title: 'Export der Krise: Israels stille Kampagne zur Umsiedlung von Gazanern in
+      Drittländer'
+    url: https://ejmagnier.com/2025/08/04/export-der-krise-israels-stille-kampagne-zur-umsiedlung-von-gazanern-in-drittlander/
+    text: Tweet Von Elijah J. Magnier – In einer Entwicklung, die Diplomaten, Rechtswissenschaftler
+      und Menschenrechtsbeobachter zutiefst beunruhigt, hat der israelische Geheimdienst
+      unter der Führung von Mossad-Direktor David Barnea eine verdeckte diplomatische
+      Kampagne gestartet, um Drittländer davon zu überzeugen, eine große Zahl von Palästinensern
+      aufzunehmen, die durch den Krieg im Gazastreifen vertrieben wurden. Während Barneas
+      Besuch in Washington im Juli 2025 wurde der Vorschlag US-Beamten offiziell vorgelegt
+      und umfasste Äthiopien, Indonesien und Libyen als potenzielle Aufnahmeländer.
+      Dies geschah, nachdem Ägypten die israelischen Angebote, einen Teil der Sinai-Wüste
+      für das, was die israelischen Behörden euphemistisch als „freiwillige humanitäre
+      Umsiedlung“ bezeichnen, fest abgelehnt hatte. In Wirklichkeit läuft diese Initiative
+      auf eine ethnische Säuberung der Palästinenser hinaus – eine Politik, für die
+      sich mehrere israelische Minister mit zunehmender Dreistigkeit offen einsetzen
+      und dabei jeden Anschein von Subtilität oder Legalität ablegen. Hinter der humanitären
+      Rhetorik verbirgt sich jedoch eine harte und umstrittene Realität. Kritiker argumentieren,
+      dass das, was als harmlose Lösung für eine humanitäre Notlage dargestellt wird,
+      in Wirklichkeit eine Form der Zwangsumsiedlung ist – inszeniert im Schatten einer
+      verheerenden Militäroffensive, die die Bevölkerung Gazas ohne sichere Zuflucht,
+      Nahrungsversorgung und Zugang zu funktionierender Infrastruktur zurückgelassen
+      hat. Laut israelischen Berichten haben Beamte Gespräche mit mindestens fünf nicht
+      genannten Ländern aufgenommen, von denen drei öffentlich bekannt sind. Während
+      israelische Quellen behaupten, dass in diesen Gesprächen „eine gewisse Offenheit“
+      zum Ausdruck gekommen sei, hat keines der betroffenen Länder eine Vereinbarung
+      bestätigt, und mehrere haben dies sogar ausdrücklich dementiert. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Der israelische Geheimdienst hat unter der Leitung von Mossad-Direktor
+      David Barnea eine geheime diplomatische Kampagne gestartet, um Drittländer zur
+      Aufnahme von Palästinensern zu bewegen, die durch den Gaza-Konflikt vertrieben
+      wurden, was von vielen als ethnische Säuberung angesehen wird.
+    paragraph_summary: In a concerning development, Israeli intelligence, led by Mossad
+      Director David Barnea, has initiated a covert diplomatic campaign to persuade
+      third countries to accept a significant number of Palestinians displaced by the
+      Gaza conflict. This proposal, presented to U.S. officials during Barnea's July
+      2025 visit to Washington, includes Ethiopia, Indonesia, and Libya as potential
+      host nations, following Egypt's rejection of Israeli offers for a "voluntary humanitarian
+      resettlement" in the Sinai Peninsula. Critics argue that this initiative amounts
+      to ethnic cleansing, as it is framed under humanitarian rhetoric while being executed
+      amidst a devastating military offensive that has left Gaza's population without
+      safe refuge or basic necessities. Although Israeli officials claim to have engaged
+      in discussions with at least five unnamed countries, none have confirmed any agreements,
+      and several have outright denied involvement.
+    published: '2025-08-04T18:26:59+00:00'
+  - title: 'Export der Krise: Israels stille Kampagne zur Umsiedlung von Gazanern in
+      Drittländer'
+    url: https://ejmagnier.com/2025/08/04/export-der-krise-israels-stille-kampagne-zur-umsiedlung-von-gazanern-in-drittlander/
+    text: Tweet Von Elijah J. Magnier – In einer Entwicklung, die Diplomaten, Rechtswissenschaftler
+      und Menschenrechtsbeobachter zutiefst beunruhigt, hat der israelische Geheimdienst
+      unter der Führung von Mossad-Direktor David Barnea eine verdeckte diplomatische
+      Kampagne gestartet, um Drittländer davon zu überzeugen, eine große Zahl von Palästinensern
+      aufzunehmen, die durch den Krieg im Gazastreifen vertrieben wurden. Während Barneas
+      Besuch in Washington im Juli 2025 wurde der Vorschlag US-Beamten offiziell vorgelegt
+      und umfasste Äthiopien, Indonesien und Libyen als potenzielle Aufnahmeländer.
+      Dies geschah, nachdem Ägypten die israelischen Angebote, einen Teil der Sinai-Wüste
+      für das, was die israelischen Behörden euphemistisch als „freiwillige humanitäre
+      Umsiedlung“ bezeichnen, fest abgelehnt hatte. In Wirklichkeit läuft diese Initiative
+      auf eine ethnische Säuberung der Palästinenser hinaus – eine Politik, für die
+      sich mehrere israelische Minister mit zunehmender Dreistigkeit offen einsetzen
+      und dabei jeden Anschein von Subtilität oder Legalität ablegen. Hinter der humanitären
+      Rhetorik verbirgt sich jedoch eine harte und umstrittene Realität. Kritiker argumentieren,
+      dass das, was als harmlose Lösung für eine humanitäre Notlage dargestellt wird,
+      in Wirklichkeit eine Form der Zwangsumsiedlung ist – inszeniert im Schatten einer
+      verheerenden Militäroffensive, die die Bevölkerung Gazas ohne sichere Zuflucht,
+      Nahrungsversorgung und Zugang zu funktionierender Infrastruktur zurückgelassen
+      hat. Laut israelischen Berichten haben Beamte Gespräche mit mindestens fünf nicht
+      genannten Ländern aufgenommen, von denen drei öffentlich bekannt sind. Während
+      israelische Quellen behaupten, dass in diesen Gesprächen „eine gewisse Offenheit“
+      zum Ausdruck gekommen sei, hat keines der betroffenen Länder eine Vereinbarung
+      bestätigt, und mehrere haben dies sogar ausdrücklich dementiert. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Der israelische Geheimdienst hat unter der Leitung von Mossad-Direktor
+      David Barnea eine geheime diplomatische Kampagne gestartet, um Drittländer zur
+      Aufnahme von Palästinensern zu bewegen, die durch den Gaza-Konflikt vertrieben
+      wurden, was von vielen als ethnische Säuberung angesehen wird.
+    paragraph_summary: In a concerning development, Israeli intelligence, led by Mossad
+      Director David Barnea, has initiated a covert diplomatic campaign to persuade
+      third countries to accept a significant number of Palestinians displaced by the
+      Gaza conflict. This proposal, presented to U.S. officials during Barnea's July
+      2025 visit to Washington, includes Ethiopia, Indonesia, and Libya as potential
+      host nations, following Egypt's rejection of Israeli offers for a "voluntary humanitarian
+      resettlement" in the Sinai Peninsula. Critics argue that this initiative amounts
+      to ethnic cleansing, as it is framed under humanitarian rhetoric while being executed
+      amidst a devastating military offensive that has left Gaza's population without
+      safe refuge or basic necessities. Although Israeli officials claim to have engaged
+      in discussions with at least five unnamed countries, none have confirmed any agreements,
+      and several have outright denied involvement.
+    published: '2025-08-04T18:26:59+00:00'
+  - title: Witkoff Visit Triggers A Crisis of Credibility: Gaza’s Suffering and Famine
+      Are An Illusion.
+    url: https://ejmagnier.com/2025/08/03/witkoff-visit-triggers-a-crisis-of-credibility-gazas-suffering-and-famine-are-an-illusion/
+    text: 'Tweet By Elijah J. Magnier – When US Presidential Envoy Steve Witkoff stood
+      in Gaza and dismissed the famine—painstakingly documented by UN agencies and humanitarian
+      NGOs—as “narratively exaggerated,” it was more than a political gesture. It marked
+      a defining moment in the erosion of American moral authority on the world stage.
+      A long-simmering crisis of US credibility has now reached a boiling point, not
+      only at the United Nations but across the Global South, where Washington’s legitimacy
+      as a defender of international norms is facing unprecedented scrutiny. Witkoff’s
+      presence was not merely symbolic. It was a direct message to the global community,
+      especially to the more than 140 countries that have now recognised Palestine as
+      a state. At a time when much of the world was rallying around calls for accountability,
+      humanitarian access, and ceasefire enforcement, Washington doubled down on denialism.
+      By casting doubt on the starvation of over two and a half million besieged civilians—an
+      assessment confirmed by the UN Integrated Food Security Phase Classification (IPC)—Witkoff
+      gave diplomatic cover to an unfolding man-made catastrophe and famine, orchestrated
+      by Israel and sanitised by its closest ally. Washington’s Attempt to Silence the
+      Global Majority Witkoff’s mission in Gaza was not only to support Prime Minister
+      Benjamin Netanyahu’s government, but also to reassert American hegemony over Middle
+      Eastern discourse. The subtext of his visit was unmistakable: the US alone decides
+      what is true, what is false, and what the world is allowed to say about Gaza.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: US Presidential Envoy Steve Witkoff's dismissal of the documented
+      famine in Gaza as "narratively exaggerated" symbolizes a significant decline in
+      American moral authority and credibility on the global stage, particularly among
+      nations advocating for Palestinian recognition and humanitarian intervention.
+    paragraph_summary: In a recent tweet, Elijah J. Magnier critiques US Presidential
+      Envoy Steve Witkoff's dismissal of the famine in Gaza as "narratively exaggerated,"
+      arguing that this statement signifies a significant decline in American moral
+      authority globally. Magnier highlights that Witkoff's visit to Gaza was not just
+      symbolic but served to reinforce US support for Israel while undermining the humanitarian
+      crisis faced by over two and a half million civilians, as documented by UN agencies.
+      This incident reflects a broader crisis of US credibility, particularly among
+      the Global South, where Washington's role as a defender of international norms
+      is increasingly questioned. By casting doubt on the severity of the situation
+      in Gaza, Witkoff's actions are seen as an attempt to control the narrative surrounding
+      the conflict and assert American dominance in Middle Eastern discourse.
+    published: '2025-08-03T18:29:01+00:00'
+  - title: Witkoff Visit Triggers A Crisis of Credibility: Gaza’s Suffering and Famine
+      Are An Illusion.
+    url: https://ejmagnier.com/2025/08/03/witkoff-visit-triggers-a-crisis-of-credibility-gazas-suffering-and-famine-are-an-illusion/
+    text: 'Tweet By Elijah J. Magnier – When US Presidential Envoy Steve Witkoff stood
+      in Gaza and dismissed the famine—painstakingly documented by UN agencies and humanitarian
+      NGOs—as “narratively exaggerated,” it was more than a political gesture. It marked
+      a defining moment in the erosion of American moral authority on the world stage.
+      A long-simmering crisis of US credibility has now reached a boiling point, not
+      only at the United Nations but across the Global South, where Washington’s legitimacy
+      as a defender of international norms is facing unprecedented scrutiny. Witkoff’s
+      presence was not merely symbolic. It was a direct message to the global community,
+      especially to the more than 140 countries that have now recognised Palestine as
+      a state. At a time when much of the world was rallying around calls for accountability,
+      humanitarian access, and ceasefire enforcement, Washington doubled down on denialism.
+      By casting doubt on the starvation of over two and a half million besieged civilians—an
+      assessment confirmed by the UN Integrated Food Security Phase Classification (IPC)—Witkoff
+      gave diplomatic cover to an unfolding man-made catastrophe and famine, orchestrated
+      by Israel and sanitised by its closest ally. Washington’s Attempt to Silence the
+      Global Majority Witkoff’s mission in Gaza was not only to support Prime Minister
+      Benjamin Netanyahu’s government, but also to reassert American hegemony over Middle
+      Eastern discourse. The subtext of his visit was unmistakable: the US alone decides
+      what is true, what is false, and what the world is allowed to say about Gaza.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: US Presidential Envoy Steve Witkoff's dismissal of the documented
+      famine in Gaza as "narratively exaggerated" symbolizes a significant decline in
+      American moral authority and credibility on the global stage, particularly among
+      nations advocating for Palestinian recognition and humanitarian intervention.
+    paragraph_summary: In a recent tweet, Elijah J. Magnier critiques US Presidential
+      Envoy Steve Witkoff's dismissal of the famine in Gaza as "narratively exaggerated,"
+      arguing that this statement signifies a significant decline in American moral
+      authority globally. Magnier highlights that Witkoff's visit to Gaza was not just
+      symbolic but served to reinforce US support for Israel while undermining the humanitarian
+      crisis faced by over two and a half million civilians, as documented by UN agencies.
+      This incident reflects a broader crisis of US credibility, particularly among
+      the Global South, where Washington's role as a defender of international norms
+      is increasingly questioned. By casting doubt on the severity of the situation
+      in Gaza, Witkoff's actions are seen as an attempt to control the narrative surrounding
+      the conflict and assert American dominance in Middle Eastern discourse.
+    published: '2025-08-03T18:29:01+00:00'
+  - title: 'La visite de Witkoff déclenche une crise de crédibilité : la souffrance
+      et la famine à Gaza seraient une illusion'
+    url: https://ejmagnier.com/2025/08/03/la-visite-de-witkoff-declenche-une-crise-de-credibilite-la-souffrance-et-la-famine-a-gaza-seraient-une-illusion/
+    text: 'Tweet Par Elijah J. Magnier Lorsque l’émissaire présidentiel américain Steve
+      Witkoff s’est rendu à Gaza et a qualifié de « narrativement exagérée » la famine
+      pourtant rigoureusement documentée par les agences de l’ONU et les ONG humanitaires,
+      il ne s’agissait pas simplement d’un geste politique. Ce fut un moment décisif
+      dans l’effondrement de l’autorité morale des États-Unis sur la scène internationale.
+      Une crise de crédibilité, latente depuis longtemps, a atteint son point d’ébullition
+      — non seulement à l’ONU, mais aussi à travers l’ensemble du Sud global, où la
+      légitimité de Washington en tant que défenseur des normes internationales est
+      remise en cause comme jamais auparavant. La présence de Witkoff n’était pas que
+      symbolique. Elle constituait un message direct à la communauté internationale,
+      notamment aux plus de 140 États qui ont désormais reconnu la Palestine comme un
+      État. Alors que la majorité du monde appelait à des comptes, à un accès humanitaire
+      et à l’instauration d’un cessez-le-feu, Washington a choisi d’approfondir sa posture
+      de négationnisme. En semant le doute sur la famine qui touche plus de 2,5 millions
+      de civils assiégés — une évaluation confirmée par la Classification intégrée de
+      la sécurité alimentaire de l’ONU (IPC) — Witkoff a offert une couverture diplomatique
+      à une catastrophe humanitaire d’origine humaine, orchestrée par Israël et aseptisée
+      par son plus proche allié. La tentative américaine de faire taire la majorité
+      mondiale La mission de Witkoff à Gaza n’avait pas pour seul objectif de soutenir
+      le gouvernement du Premier ministre Benjamin Netanyahou, mais également de réaffirmer
+      l’hégémonie américaine sur le discours relatif au Moyen-Orient. Le sous-texte
+      de sa visite était sans équivoque : seuls les États-Unis décident de ce qui est
+      vrai ou faux, et de ce que le monde est autorisé à dire sur Gaza. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: La visite de l'émissaire américain Steve Witkoff à Gaza, où
+      il a minimisé la famine documentée par des agences humanitaires, a marqué un tournant
+      dans la perte de crédibilité des États-Unis sur la scène internationale, remettant
+      en question leur légitimité en tant que défenseurs des normes internationales.
+    paragraph_summary: L'émissaire présidentiel américain Steve Witkoff a récemment
+      visité Gaza et a qualifié de « narrativement exagérée » la famine sévissant dans
+      la région, une affirmation en contradiction avec les rapports des agences de l'ONU
+      et des ONG. Cet événement marque un tournant dans la crédibilité des États-Unis
+      sur la scène internationale, où leur autorité morale est de plus en plus contestée,
+      notamment par plus de 140 États ayant reconnu la Palestine. Alors que la communauté
+      internationale appelle à un accès humanitaire et à un cessez-le-feu, Washington
+      semble adopter une posture de déni, minimisant une crise humanitaire causée par
+      des actions israéliennes. La mission de Witkoff visait non seulement à soutenir
+      le gouvernement israélien, mais aussi à réaffirmer la domination américaine sur
+      le discours concernant le Moyen-Orient, insinuant que seuls les États-Unis peuvent
+      déterminer la vérité sur la situation à Gaza.
+    published: '2025-08-03T18:27:02+00:00'
+  - title: 'La visite de Witkoff déclenche une crise de crédibilité : la souffrance
+      et la famine à Gaza seraient une illusion'
+    url: https://ejmagnier.com/2025/08/03/la-visite-de-witkoff-declenche-une-crise-de-credibilite-la-souffrance-et-la-famine-a-gaza-seraient-une-illusion/
+    text: 'Tweet Par Elijah J. Magnier Lorsque l’émissaire présidentiel américain Steve
+      Witkoff s’est rendu à Gaza et a qualifié de « narrativement exagérée » la famine
+      pourtant rigoureusement documentée par les agences de l’ONU et les ONG humanitaires,
+      il ne s’agissait pas simplement d’un geste politique. Ce fut un moment décisif
+      dans l’effondrement de l’autorité morale des États-Unis sur la scène internationale.
+      Une crise de crédibilité, latente depuis longtemps, a atteint son point d’ébullition
+      — non seulement à l’ONU, mais aussi à travers l’ensemble du Sud global, où la
+      légitimité de Washington en tant que défenseur des normes internationales est
+      remise en cause comme jamais auparavant. La présence de Witkoff n’était pas que
+      symbolique. Elle constituait un message direct à la communauté internationale,
+      notamment aux plus de 140 États qui ont désormais reconnu la Palestine comme un
+      État. Alors que la majorité du monde appelait à des comptes, à un accès humanitaire
+      et à l’instauration d’un cessez-le-feu, Washington a choisi d’approfondir sa posture
+      de négationnisme. En semant le doute sur la famine qui touche plus de 2,5 millions
+      de civils assiégés — une évaluation confirmée par la Classification intégrée de
+      la sécurité alimentaire de l’ONU (IPC) — Witkoff a offert une couverture diplomatique
+      à une catastrophe humanitaire d’origine humaine, orchestrée par Israël et aseptisée
+      par son plus proche allié. La tentative américaine de faire taire la majorité
+      mondiale La mission de Witkoff à Gaza n’avait pas pour seul objectif de soutenir
+      le gouvernement du Premier ministre Benjamin Netanyahou, mais également de réaffirmer
+      l’hégémonie américaine sur le discours relatif au Moyen-Orient. Le sous-texte
+      de sa visite était sans équivoque : seuls les États-Unis décident de ce qui est
+      vrai ou faux, et de ce que le monde est autorisé à dire sur Gaza. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: La visite de l'émissaire américain Steve Witkoff à Gaza, où
+      il a minimisé la famine documentée par des agences humanitaires, a marqué un tournant
+      dans la perte de crédibilité des États-Unis sur la scène internationale, remettant
+      en question leur légitimité en tant que défenseurs des normes internationales.
+    paragraph_summary: L'émissaire présidentiel américain Steve Witkoff a récemment
+      visité Gaza et a qualifié de « narrativement exagérée » la famine sévissant dans
+      la région, une affirmation en contradiction avec les rapports des agences de l'ONU
+      et des ONG. Cet événement marque un tournant dans la crédibilité des États-Unis
+      sur la scène internationale, où leur autorité morale est de plus en plus contestée,
+      notamment par plus de 140 États ayant reconnu la Palestine. Alors que la communauté
+      internationale appelle à un accès humanitaire et à un cessez-le-feu, Washington
+      semble adopter une posture de déni, minimisant une crise humanitaire causée par
+      des actions israéliennes. La mission de Witkoff visait non seulement à soutenir
+      le gouvernement israélien, mais aussi à réaffirmer la domination américaine sur
+      le discours concernant le Moyen-Orient, insinuant que seuls les États-Unis peuvent
+      déterminer la vérité sur la situation à Gaza.
+    published: '2025-08-03T18:27:02+00:00'
+  - title: 'Witkoffs Besuch löst Glaubwürdigkeitskrise aus: Das Leiden und die Hungersnot
+      in Gaza sind eine Illusion.'
+    url: https://ejmagnier.com/2025/08/03/witkoffs-besuch-lost-glaubwurdigkeitskrise-aus-das-leiden-und-die-hungersnot-in-gaza-sind-eine-illusion/
+    text: 'Tweet Von Elijah J. Magnier – Als der US-Sondergesandte Steve Witkoff in
+      Gaza stand und die von UN-Organisationen und humanitären NGOs sorgfältig dokumentierte
+      Hungersnot als „narrativ übertrieben” abtat, war dies mehr als nur eine politische
+      Geste. Es war ein entscheidender Moment in der Erosion der moralischen Autorität
+      der USA auf der Weltbühne. Eine seit langem schwelende Krise der Glaubwürdigkeit
+      der USA hat nun einen Siedepunkt erreicht, nicht nur bei den Vereinten Nationen,
+      sondern in den gesamten Ländern des Globalen Südens, wo die Legitimität Washingtons
+      als Verteidiger internationaler Normen einer beispiellosen Prüfung unterzogen
+      wird. Witkoffs Anwesenheit war nicht nur symbolisch. Es war eine direkte Botschaft
+      an die Weltgemeinschaft, insbesondere an die mehr als 140 Länder, die Palästina
+      inzwischen als Staat anerkannt haben. In einer Zeit, in der sich ein Großteil
+      der Welt für Rechenschaftspflicht, humanitären Zugang und die Durchsetzung eines
+      Waffenstillstands einsetzte, verdoppelte Washington seine Leugnungspolitik. Indem
+      er die Hungersnot von über zweieinhalb Millionen belagerten Zivilisten anzweifelte
+      – eine Einschätzung, die von der Integrierten Phase-Klassifizierung der Ernährungssicherheit
+      (IPC) der Vereinten Nationen bestätigt wurde –, gab Witkoff einer sich abzeichnenden,
+      von Menschen verursachten Katastrophe und Hungersnot diplomatischen Rückhalt,
+      die von Israel inszeniert und von seinem engsten Verbündeten beschönigt wurde.
+      Washingtons Versuch, die globale Mehrheit zum Schweigen zu bringen Witkoffs Mission
+      in Gaza bestand nicht nur darin, die Regierung von Premierminister Benjamin Netanjahu
+      zu unterstützen, sondern auch die amerikanische Vorherrschaft über den Nahost-Diskurs
+      zu bekräftigen. Die Botschaft seines Besuchs war unmissverständlich: Die USA allein
+      entscheiden, was wahr ist, was falsch ist und was die Welt über Gaza sagen darf.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Die Äußerungen des US-Sondergesandten Steve Witkoff zur humanitären
+      Krise in Gaza verdeutlichen den dramatischen Rückgang der moralischen Autorität
+      der USA und deren Glaubwürdigkeit als Verteidiger internationaler Normen, insbesondere
+      im Globalen Süden.
+    paragraph_summary: In a recent tweet, Elijah J. Magnier highlighted a significant
+      moment in the erosion of the United States' moral authority on the global stage,
+      marked by the visit of U.S. Special Envoy Steve Witkoff to Gaza. During his visit,
+      Witkoff dismissed the documented famine affecting over 2.5 million besieged civilians
+      as an "exaggerated narrative," reflecting a broader crisis of U.S. credibility,
+      particularly among nations in the Global South. This dismissal not only undermined
+      humanitarian concerns but also reinforced Washington's denial policies amidst
+      a growing call for accountability and a ceasefire. Witkoff's presence served as
+      a direct message to the international community, particularly to the 140 countries
+      that recognize Palestine as a state, asserting U.S. dominance in defining the
+      narrative around Gaza and signaling that the U.S. would dictate the truth regarding
+      the situation.
+    published: '2025-08-03T18:25:48+00:00'
+  - title: 'Witkoffs Besuch löst Glaubwürdigkeitskrise aus: Das Leiden und die Hungersnot
+      in Gaza sind eine Illusion.'
+    url: https://ejmagnier.com/2025/08/03/witkoffs-besuch-lost-glaubwurdigkeitskrise-aus-das-leiden-und-die-hungersnot-in-gaza-sind-eine-illusion/
+    text: 'Tweet Von Elijah J. Magnier – Als der US-Sondergesandte Steve Witkoff in
+      Gaza stand und die von UN-Organisationen und humanitären NGOs sorgfältig dokumentierte
+      Hungersnot als „narrativ übertrieben” abtat, war dies mehr als nur eine politische
+      Geste. Es war ein entscheidender Moment in der Erosion der moralischen Autorität
+      der USA auf der Weltbühne. Eine seit langem schwelende Krise der Glaubwürdigkeit
+      der USA hat nun einen Siedepunkt erreicht, nicht nur bei den Vereinten Nationen,
+      sondern in den gesamten Ländern des Globalen Südens, wo die Legitimität Washingtons
+      als Verteidiger internationaler Normen einer beispiellosen Prüfung unterzogen
+      wird. Witkoffs Anwesenheit war nicht nur symbolisch. Es war eine direkte Botschaft
+      an die Weltgemeinschaft, insbesondere an die mehr als 140 Länder, die Palästina
+      inzwischen als Staat anerkannt haben. In einer Zeit, in der sich ein Großteil
+      der Welt für Rechenschaftspflicht, humanitären Zugang und die Durchsetzung eines
+      Waffenstillstands einsetzte, verdoppelte Washington seine Leugnungspolitik. Indem
+      er die Hungersnot von über zweieinhalb Millionen belagerten Zivilisten anzweifelte
+      – eine Einschätzung, die von der Integrierten Phase-Klassifizierung der Ernährungssicherheit
+      (IPC) der Vereinten Nationen bestätigt wurde –, gab Witkoff einer sich abzeichnenden,
+      von Menschen verursachten Katastrophe und Hungersnot diplomatischen Rückhalt,
+      die von Israel inszeniert und von seinem engsten Verbündeten beschönigt wurde.
+      Washingtons Versuch, die globale Mehrheit zum Schweigen zu bringen Witkoffs Mission
+      in Gaza bestand nicht nur darin, die Regierung von Premierminister Benjamin Netanjahu
+      zu unterstützen, sondern auch die amerikanische Vorherrschaft über den Nahost-Diskurs
+      zu bekräftigen. Die Botschaft seines Besuchs war unmissverständlich: Die USA allein
+      entscheiden, was wahr ist, was falsch ist und was die Welt über Gaza sagen darf.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Die Äußerungen des US-Sondergesandten Steve Witkoff zur humanitären
+      Krise in Gaza verdeutlichen den dramatischen Rückgang der moralischen Autorität
+      der USA und deren Glaubwürdigkeit als Verteidiger internationaler Normen, insbesondere
+      im Globalen Süden.
+    paragraph_summary: In a recent tweet, Elijah J. Magnier highlighted a significant
+      moment in the erosion of the United States' moral authority on the global stage,
+      marked by the visit of U.S. Special Envoy Steve Witkoff to Gaza. During his visit,
+      Witkoff dismissed the documented famine affecting over 2.5 million besieged civilians
+      as an "exaggerated narrative," reflecting a broader crisis of U.S. credibility,
+      particularly among nations in the Global South. This dismissal not only undermined
+      humanitarian concerns but also reinforced Washington's denial policies amidst
+      a growing call for accountability and a ceasefire. Witkoff's presence served as
+      a direct message to the international community, particularly to the 140 countries
+      that recognize Palestine as a state, asserting U.S. dominance in defining the
+      narrative around Gaza and signaling that the U.S. would dictate the truth regarding
+      the situation.
+    published: '2025-08-03T18:25:48+00:00'
+  - title: 'UIthongering als strategie: de medeplichtigheid van het Westen aan de door
+      mensen veroorzaakte hongersnood in Gaza'
+    url: https://ejmagnier.com/2025/08/02/uithongering-als-strategie-de-medeplichtigheid-van-het-westen-aan-de-door-mensen-veroorzaakte-hongersnood-in-gaza/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. In Gaza
+      is hongersnood niet het gevolg van oorlog, maar is het oorlog zelf. Het is geen
+      falen van de logistiek, maar een succes van de strategie. En in deze zich ontvouwende
+      catastrofe is het Westen geen toeschouwer, maar een centrale speler. Terwijl de
+      Israëlische regering onder premier Benjamin Netanyahu de belegering van Gaza verscherpt,
+      worden miljoenen burgers geconfronteerd met een opzettelijk veroorzaakte hongersnood.
+      Dit is geen toeval. Het is het resultaat van weloverwogen beslissingen: het afsluiten
+      van voedsel, water, elektriciteit, brandstof en humanitaire hulp, en het tegenhouden
+      van hulpkonvooien. Wat zich afspeelt is geen natuurramp, maar een door mensen
+      veroorzaakte hongersnood, die met klinische precisie wordt opgelegd. Ondanks overweldigend
+      bewijs en internationale verontwaardiging weigeren de Verenigde Staten en de Europese
+      Unie Israël ter verantwoording te roepen. Erger nog, ze blijven de entiteit die
+      verantwoordelijk is voor een van de meest brute blokkades van de 21e eeuw bewapenen,
+      financieren en beschermen. De regering van Netanyahu gebruikt hongersnood om een
+      politiek cynisch doel te bereiken: de etnische zuivering van de Palestijnse bevolking
+      uit Gaza. Deze strategie sluit op verontrustende wijze aan bij opmerkingen van
+      de Amerikaanse president Donald Trump in zijn eerste week als president, toen
+      hij naar verluidt voorstelde om van Gaza een “Riviera” en een lucratief vastgoedproject
+      te maken, een ambitie die aansluit bij zijn commerciële successen in Manhattan.
+      Als een huiveringwekkend symbool van medeplichtigheid bezocht Trumps adviseur,
+      speciaal gezant en vastgoedmagnaat Steve Witkoff Gaza en verbleef hij vijf uur
+      lang in een voedseluitdeelpunt in Rafah – berucht als de “dodelijke valstrikzone”
+      – waar Palestijnen die hulp zoeken regelmatig het doelwit zijn. De boodschap was
+      duidelijk: de Verenigde Staten zijn niet alleen toeschouwers, maar nemen ook deel
+      aan de uitvoering van dit beleid van hongersnood als wapen en aan de bredere campagne
+      van gedwongen demografische verandering. De tragedie wordt nog verergerd door
+      de bijna volledige medeplichtigheid van de Israëlische samenleving, waar het publieke
+      debat wordt gedomineerd door het lot van 20 Israëlische gevangenen, terwijl 2,5
+      miljoen uitgehongerde en belegerde Palestijnen grotendeels onopgemerkt blijven.
+      Trump sprak ook over hoe “klein het grondgebied van Israël is” en dat het “moet
+      worden uitgebreid” – een discours dat perfect aansluit bij de visie van een “Groot-Israël”
+      die wordt omarmd door de extreemrechtse coalitie die momenteel aan de macht is
+      in Israël. Deze oorlog is dus niet alleen een militaire campagne, maar maakt deel
+      uit van een bredere expansionistische agenda. Terwijl Gaza met bommen en hongersnood
+      wordt platgewalst, zet hetzelfde ideologische apparaat de annexatie van de Westelijke
+      Jordaanoever voort, met steun van de VS en instemming van Europa. Een weloverwogen
+      hongersnood Hongersnoden ontstaan niet van de ene op de andere dag. Het zijn geen
+      spontane verschijnselen die voortkomen uit chaos. Ze vereisen voortdurende obstructie
+      – van handelsroutes, hulpverlening, landbouw, sanitaire voorzieningen en civiele
+      infrastructuur. In het geval van Gaza is de blokkade veel verder gegaan dan een
+      oorlogsmaatregel; het is een instrument van bevolkingscontrole geworden. Het kabinet
+      van Netanyahu maakte deze intentie al vroeg in de oorlog duidelijk, toen (voormalig)
+      minister van Defensie Yoav Gallant een “volledige belegering” afkondigde en eraan
+      toevoegde: “geen elektriciteit, geen voedsel, geen brandstof… alles is gesloten.”
+      Vanaf dat moment sloegen humanitaire organisaties alarm. Dezelfde verklaring wordt
+      vaak herhaald door de waarnemend ministers van Financiën Bezalel Smotrich en Veiligheid
+      Itamar ben Gvir en talrijke Likud-partijleden van de Knesset. De Integrated Food
+      Security Phase Classification (IPC), de erkende autoriteit van de VN op het gebied
+      van hongersnood, waarschuwde dat Gaza het hoogste niveau van voedselonzekerheid
+      had bereikt. UNICEF en het Wereldvoedselprogramma verklaarden dat kinderen stierven
+      door ondervoeding en uitdroging. Ondanks de sombere consensus onder internationale
+      instanties werd hulp geblokkeerd of gebombardeerd. Konvooien met meel werden aangevallen.
+      Hulpverleners werden gedood. Bakkerijen werden het doelwit. De bedoeling is duidelijk:
+      Gaza uithongeren tot het zich onderwerpt. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: In Gaza, the famine is a deliberate strategy of war rather
+      than a logistical failure, with the West playing a central role in enabling the
+      Israeli government's actions that systematically cut off essential resources to
+      civilians.
+    paragraph_summary: In een tweet van Elijah J. Magnier, vertaald door Francis J.,
+      wordt betoogd dat de hongersnood in Gaza niet het gevolg is van oorlog, maar een
+      strategisch middel van de Israëlische regering onder premier Benjamin Netanyahu.
+      De opzettelijke blokkade van voedsel, water, elektriciteit en humanitaire hulp
+      is een weloverwogen tactiek die leidt tot een door mensen veroorzaakte catastrofe,
+      waarbij het Westen, met name de Verenigde Staten en de Europese Unie, als medeplichtigen
+      worden gezien door Israël niet ter verantwoording te roepen en zelfs te blijven
+      steunen. De situatie wordt gekarakteriseerd als een poging tot etnische zuivering
+      van de Palestijnse bevolking, met verwijzingen naar eerdere opmerkingen van Donald
+      Trump over het omvormen van Gaza tot een lucratief vastgoedproject. De betrokkenheid
+      van Amerikaanse functionarissen, zoals Steve Witkoff, die Gaza bezocht, benadrukt
+      de actieve rol van de VS in deze crisis.
+    published: '2025-08-02T18:45:50+00:00'
+  - title: 'UIthongering als strategie: de medeplichtigheid van het Westen aan de door
+      mensen veroorzaakte hongersnood in Gaza'
+    url: https://ejmagnier.com/2025/08/02/uithongering-als-strategie-de-medeplichtigheid-van-het-westen-aan-de-door-mensen-veroorzaakte-hongersnood-in-gaza/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. In Gaza
+      is hongersnood niet het gevolg van oorlog, maar is het oorlog zelf. Het is geen
+      falen van de logistiek, maar een succes van de strategie. En in deze zich ontvouwende
+      catastrofe is het Westen geen toeschouwer, maar een centrale speler. Terwijl de
+      Israëlische regering onder premier Benjamin Netanyahu de belegering van Gaza verscherpt,
+      worden miljoenen burgers geconfronteerd met een opzettelijk veroorzaakte hongersnood.
+      Dit is geen toeval. Het is het resultaat van weloverwogen beslissingen: het afsluiten
+      van voedsel, water, elektriciteit, brandstof en humanitaire hulp, en het tegenhouden
+      van hulpkonvooien. Wat zich afspeelt is geen natuurramp, maar een door mensen
+      veroorzaakte hongersnood, die met klinische precisie wordt opgelegd. Ondanks overweldigend
+      bewijs en internationale verontwaardiging weigeren de Verenigde Staten en de Europese
+      Unie Israël ter verantwoording te roepen. Erger nog, ze blijven de entiteit die
+      verantwoordelijk is voor een van de meest brute blokkades van de 21e eeuw bewapenen,
+      financieren en beschermen. De regering van Netanyahu gebruikt hongersnood om een
+      politiek cynisch doel te bereiken: de etnische zuivering van de Palestijnse bevolking
+      uit Gaza. Deze strategie sluit op verontrustende wijze aan bij opmerkingen van
+      de Amerikaanse president Donald Trump in zijn eerste week als president, toen
+      hij naar verluidt voorstelde om van Gaza een “Riviera” en een lucratief vastgoedproject
+      te maken, een ambitie die aansluit bij zijn commerciële successen in Manhattan.
+      Als een huiveringwekkend symbool van medeplichtigheid bezocht Trumps adviseur,
+      speciaal gezant en vastgoedmagnaat Steve Witkoff Gaza en verbleef hij vijf uur
+      lang in een voedseluitdeelpunt in Rafah – berucht als de “dodelijke valstrikzone”
+      – waar Palestijnen die hulp zoeken regelmatig het doelwit zijn. De boodschap was
+      duidelijk: de Verenigde Staten zijn niet alleen toeschouwers, maar nemen ook deel
+      aan de uitvoering van dit beleid van hongersnood als wapen en aan de bredere campagne
+      van gedwongen demografische verandering. De tragedie wordt nog verergerd door
+      de bijna volledige medeplichtigheid van de Israëlische samenleving, waar het publieke
+      debat wordt gedomineerd door het lot van 20 Israëlische gevangenen, terwijl 2,5
+      miljoen uitgehongerde en belegerde Palestijnen grotendeels onopgemerkt blijven.
+      Trump sprak ook over hoe “klein het grondgebied van Israël is” en dat het “moet
+      worden uitgebreid” – een discours dat perfect aansluit bij de visie van een “Groot-Israël”
+      die wordt omarmd door de extreemrechtse coalitie die momenteel aan de macht is
+      in Israël. Deze oorlog is dus niet alleen een militaire campagne, maar maakt deel
+      uit van een bredere expansionistische agenda. Terwijl Gaza met bommen en hongersnood
+      wordt platgewalst, zet hetzelfde ideologische apparaat de annexatie van de Westelijke
+      Jordaanoever voort, met steun van de VS en instemming van Europa. Een weloverwogen
+      hongersnood Hongersnoden ontstaan niet van de ene op de andere dag. Het zijn geen
+      spontane verschijnselen die voortkomen uit chaos. Ze vereisen voortdurende obstructie
+      – van handelsroutes, hulpverlening, landbouw, sanitaire voorzieningen en civiele
+      infrastructuur. In het geval van Gaza is de blokkade veel verder gegaan dan een
+      oorlogsmaatregel; het is een instrument van bevolkingscontrole geworden. Het kabinet
+      van Netanyahu maakte deze intentie al vroeg in de oorlog duidelijk, toen (voormalig)
+      minister van Defensie Yoav Gallant een “volledige belegering” afkondigde en eraan
+      toevoegde: “geen elektriciteit, geen voedsel, geen brandstof… alles is gesloten.”
+      Vanaf dat moment sloegen humanitaire organisaties alarm. Dezelfde verklaring wordt
+      vaak herhaald door de waarnemend ministers van Financiën Bezalel Smotrich en Veiligheid
+      Itamar ben Gvir en talrijke Likud-partijleden van de Knesset. De Integrated Food
+      Security Phase Classification (IPC), de erkende autoriteit van de VN op het gebied
+      van hongersnood, waarschuwde dat Gaza het hoogste niveau van voedselonzekerheid
+      had bereikt. UNICEF en het Wereldvoedselprogramma verklaarden dat kinderen stierven
+      door ondervoeding en uitdroging. Ondanks de sombere consensus onder internationale
+      instanties werd hulp geblokkeerd of gebombardeerd. Konvooien met meel werden aangevallen.
+      Hulpverleners werden gedood. Bakkerijen werden het doelwit. De bedoeling is duidelijk:
+      Gaza uithongeren tot het zich onderwerpt. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: In Gaza, the famine is a deliberate strategy of war rather
+      than a logistical failure, with the West playing a central role in enabling the
+      Israeli government's actions that systematically cut off essential resources to
+      civilians.
+    paragraph_summary: In een tweet van Elijah J. Magnier, vertaald door Francis J.,
+      wordt betoogd dat de hongersnood in Gaza niet het gevolg is van oorlog, maar een
+      strategisch middel van de Israëlische regering onder premier Benjamin Netanyahu.
+      De opzettelijke blokkade van voedsel, water, elektriciteit en humanitaire hulp
+      is een weloverwogen tactiek die leidt tot een door mensen veroorzaakte catastrofe,
+      waarbij het Westen, met name de Verenigde Staten en de Europese Unie, als medeplichtigen
+      worden gezien door Israël niet ter verantwoording te roepen en zelfs te blijven
+      steunen. De situatie wordt gekarakteriseerd als een poging tot etnische zuivering
+      van de Palestijnse bevolking, met verwijzingen naar eerdere opmerkingen van Donald
+      Trump over het omvormen van Gaza tot een lucratief vastgoedproject. De betrokkenheid
+      van Amerikaanse functionarissen, zoals Steve Witkoff, die Gaza bezocht, benadrukt
+      de actieve rol van de VS in deze crisis.
+    published: '2025-08-02T18:45:50+00:00'
+  - title: 'Starvation as Strategy: The West’s Complicity in Gaza’s Man-Made Famine'
+    url: https://ejmagnier.com/2025/08/02/starvation-as-strategy-the-wests-complicity-in-gazas-man-made-famine/
+    text: 'Tweet By Elijah J. Magnier – In Gaza, famine is not the product of war—it
+      is the war. It is not a failure of logistics, but a success of strategy. And in
+      this unfolding catastrophe, the West is not a bystander; it is a central actor.
+      While the Israeli government, under Prime Minister Benjamin Netanyahu, tightens
+      its siege on Gaza, millions of civilians face engineered starvation. This is not
+      accidental. It is the outcome of deliberate decisions: to cut off food, water,
+      electricity, fuel, and humanitarian aid, and to obstruct relief convoys. What
+      is occurring is not a natural disaster but a man-made famine, imposed with clinical
+      precision. Despite overwhelming evidence and international outcry, the United
+      States and the European Union have refused to hold Israel accountable. Worse,
+      they continue to arm, fund, and shield the entity responsible for one of the most
+      brutal blockades of the 21st century. Netanyahu’s government is using famine to
+      achieve a politically cynical objective: the ethnic cleansing of the Palestinian
+      population from Gaza. This strategy aligns disturbingly with comments made by
+      U.S. President Donald Trump in his first week in office, when he reportedly suggested
+      turning Gaza into a “Riviera” and a lucrative real estate project, an ambition
+      echoing his commercial triumphs in Manhattan. In a chilling symbol of complicity,
+      Trump’s advisor, special envoy and real estate magnate Steve Witkoff visited Gaza
+      and remained for five hours at a food distribution point in Rafah—infamously dubbed
+      the “death trap zone”—where Palestinians seeking aid are routinely targeted. The
+      message was clear: the United States is not only observing but participating in
+      the execution of this policy of the enforcement of famine as a weapon and in the
+      broader campaign of forced demographic change. Compounding the tragedy is the
+      near-total complicity of Israeli society, where public discourse is consumed by
+      the fate of 20 Israeli prisoners, while 2.5 million starving and besieged Palestinians
+      remain largely unacknowledged. Trump also spoke about how “small is Israel’s geography”
+      and its “need to be enlarged”—a discourse that aligns perfectly with the “Greater
+      Israel” vision embraced by the far-right coalition currently ruling Israel. This
+      war, therefore, is not merely a military campaign but part of a broader expansionist
+      agenda. While Gaza is being flattened through bombs and famine, the same ideological
+      apparatus continues to pursue annexation in the West Bank, with U.S. support and
+      European acquiescence. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: The article argues that the famine in Gaza is a deliberate
+      strategy of the Israeli government, supported by the West, aimed at achieving
+      political objectives through the systematic deprivation of essential resources
+      for civilians.
+    paragraph_summary: In a recent tweet, Elijah J. Magnier argues that the famine in
+      Gaza is a deliberate strategy of war rather than a logistical failure, with the
+      Israeli government under Prime Minister Benjamin Netanyahu intentionally cutting
+      off essential resources like food, water, and humanitarian aid to achieve ethnic
+      cleansing of the Palestinian population. He asserts that the West, particularly
+      the United States and the European Union, plays a crucial role in this crisis
+      by failing to hold Israel accountable and continuing to provide military and financial
+      support. Magnier highlights the chilling complicity of U.S. officials, including
+      President Trump and his advisor Steve Witkoff, who have shown an interest in transforming
+      Gaza into a lucrative real estate project, further emphasizing the man-made nature
+      of the famine. He concludes by noting the troubling indifference of Israeli society,
+      which focuses more on the plight of a few Israeli prisoners than on the suffering
+      of millions of Palestinians.
+    published: '2025-08-02T18:40:04+00:00'
+  - title: 'Starvation as Strategy: The West’s Complicity in Gaza’s Man-Made Famine'
+    url: https://ejmagnier.com/2025/08/02/starvation-as-strategy-the-wests-complicity-in-gazas-man-made-famine/
+    text: 'Tweet By Elijah J. Magnier – In Gaza, famine is not the product of war—it
+      is the war. It is not a failure of logistics, but a success of strategy. And in
+      this unfolding catastrophe, the West is not a bystander; it is a central actor.
+      While the Israeli government, under Prime Minister Benjamin Netanyahu, tightens
+      its siege on Gaza, millions of civilians face engineered starvation. This is not
+      accidental. It is the outcome of deliberate decisions: to cut off food, water,
+      electricity, fuel, and humanitarian aid, and to obstruct relief convoys. What
+      is occurring is not a natural disaster but a man-made famine, imposed with clinical
+      precision. Despite overwhelming evidence and international outcry, the United
+      States and the European Union have refused to hold Israel accountable. Worse,
+      they continue to arm, fund, and shield the entity responsible for one of the most
+      brutal blockades of the 21st century. Netanyahu’s government is using famine to
+      achieve a politically cynical objective: the ethnic cleansing of the Palestinian
+      population from Gaza. This strategy aligns disturbingly with comments made by
+      U.S. President Donald Trump in his first week in office, when he reportedly suggested
+      turning Gaza into a “Riviera” and a lucrative real estate project, an ambition
+      echoing his commercial triumphs in Manhattan. In a chilling symbol of complicity,
+      Trump’s advisor, special envoy and real estate magnate Steve Witkoff visited Gaza
+      and remained for five hours at a food distribution point in Rafah—infamously dubbed
+      the “death trap zone”—where Palestinians seeking aid are routinely targeted. The
+      message was clear: the United States is not only observing but participating in
+      the execution of this policy of the enforcement of famine as a weapon and in the
+      broader campaign of forced demographic change. Compounding the tragedy is the
+      near-total complicity of Israeli society, where public discourse is consumed by
+      the fate of 20 Israeli prisoners, while 2.5 million starving and besieged Palestinians
+      remain largely unacknowledged. Trump also spoke about how “small is Israel’s geography”
+      and its “need to be enlarged”—a discourse that aligns perfectly with the “Greater
+      Israel” vision embraced by the far-right coalition currently ruling Israel. This
+      war, therefore, is not merely a military campaign but part of a broader expansionist
+      agenda. While Gaza is being flattened through bombs and famine, the same ideological
+      apparatus continues to pursue annexation in the West Bank, with U.S. support and
+      European acquiescence. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: The article argues that the famine in Gaza is a deliberate
+      strategy of the Israeli government, supported by the West, aimed at achieving
+      political objectives through the systematic deprivation of essential resources
+      for civilians.
+    paragraph_summary: In a recent tweet, Elijah J. Magnier argues that the famine in
+      Gaza is a deliberate strategy of war rather than a logistical failure, with the
+      Israeli government under Prime Minister Benjamin Netanyahu intentionally cutting
+      off essential resources like food, water, and humanitarian aid to achieve ethnic
+      cleansing of the Palestinian population. He asserts that the West, particularly
+      the United States and the European Union, plays a crucial role in this crisis
+      by failing to hold Israel accountable and continuing to provide military and financial
+      support. Magnier highlights the chilling complicity of U.S. officials, including
+      President Trump and his advisor Steve Witkoff, who have shown an interest in transforming
+      Gaza into a lucrative real estate project, further emphasizing the man-made nature
+      of the famine. He concludes by noting the troubling indifference of Israeli society,
+      which focuses more on the plight of a few Israeli prisoners than on the suffering
+      of millions of Palestinians.
+    published: '2025-08-02T18:40:04+00:00'
+  - title: 'La famine comme stratégie : la complicité de l’Occident dans la famine provoquée
+      à Gaza'
+    url: https://ejmagnier.com/2025/08/02/la-famine-comme-strategie-la-complicite-de-loccident-dans-la-famine-provoquee-a-gaza/
+    text: 'Tweet La famine comme stratégie : la complicité de l’Occident dans la famine
+      provoquée à Gaza Par Elijah J. Magnier À Gaza, la famine n’est pas une conséquence
+      de la guerre : elle est la guerre. Il ne s’agit pas d’un échec logistique, mais
+      d’un succès stratégique. Et dans cette catastrophe en cours, l’Occident n’est
+      pas un simple spectateur : il est un acteur central. Alors que le gouvernement
+      israélien, dirigé par le Premier ministre Benjamin Netanyahu, resserre son blocus
+      sur Gaza, des millions de civils sont confrontés à une famine planifiée. Ce n’est
+      pas un accident. C’est le résultat de décisions délibérées : couper l’approvisionnement
+      en nourriture, en eau, en électricité, en carburant et en aide humanitaire, et
+      bloquer les convois de secours. Ce qui se déroule n’est pas une catastrophe naturelle,
+      mais une famine provoquée par l’homme, imposée avec une précision clinique. Malgré
+      des preuves accablantes et une indignation internationale, les États-Unis et l’Union
+      européenne ont refusé de tenir Israël pour responsable. Pire encore, ils continuent
+      d’armer, de financer et de protéger l’entité responsable de l’un des blocus les
+      plus brutaux du XXIe siècle. Le gouvernement de Netanyahu utilise la famine pour
+      atteindre un objectif politique cynique : le nettoyage ethnique de la population
+      palestinienne de Gaza. Cette stratégie est en troublante harmonie avec les propos
+      du président américain Donald Trump, qui, dès sa première semaine en fonction,
+      aurait suggéré de transformer Gaza en une « Riviera » et en un projet immobilier
+      lucratif, ambition faisant écho à ses succès commerciaux à Manhattan. Symbole
+      glaçant de cette complicité, le conseiller spécial de Trump et magnat de l’immobilier
+      Steve Witkoff a visité Gaza, passant cinq heures à un point de distribution alimentaire
+      à Rafah – tristement surnommé la « zone piège mortel » – où les Palestiniens cherchant
+      de l’aide sont régulièrement pris pour cibles. Le message était clair : les États-Unis
+      ne se contentent pas d’observer, ils participent activement à la mise en œuvre
+      de cette politique de famine stratégique et de changement démographique forcé.
+      À cela s’ajoute la complicité quasi-totale de la société israélienne, dont le
+      débat public est obsédé par le sort de 20 prisonniers israéliens, tandis que les
+      2,5 millions de Palestiniens affamés et assiégés sont largement ignorés. Trump
+      a également évoqué la « petitesse géographique d’Israël » et son « besoin d’agrandissement
+      » – un discours qui s’inscrit parfaitement dans la vision du « Grand Israël »
+      défendue par la coalition d’extrême droite actuellement au pouvoir. Cette guerre
+      n’est donc pas simplement une opération militaire, mais fait partie intégrante
+      d’un projet expansionniste plus vaste. Tandis que Gaza est réduite en poussière
+      par les bombes et la faim, la même machine idéologique poursuit son œuvre d’annexion
+      en Cisjordanie, avec le soutien des États-Unis et la passivité européenne. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Tweet'
+    one_sentence_summary: L'article souligne que la famine à Gaza est une stratégie
+      délibérée de guerre orchestrée par le gouvernement israélien, avec la complicité
+      active de l'Occident, qui contribue à la crise humanitaire en bloquant l'accès
+      à la nourriture, à l'eau et à l'aide humanitaire.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne que la famine à Gaza est
+      une stratégie délibérée de guerre, orchestrée par le gouvernement israélien sous
+      Benjamin Netanyahu, plutôt qu'un simple effet collatéral du conflit. Il décrit
+      comment le blocus israélien, qui coupe l'accès à la nourriture, à l'eau et à l'aide
+      humanitaire, constitue une famine provoquée par l'homme, soutenue par la complicité
+      des États-Unis et de l'Union européenne, qui continuent de soutenir militairement
+      et financièrement Israël malgré les preuves de violations des droits humains.
+      Magnier évoque également des commentaires de Donald Trump sur la transformation
+      de Gaza en un projet immobilier, illustrant une vision cynique qui coïncide avec
+      les actions israéliennes visant à un nettoyage ethnique des Palestiniens.
+    published: '2025-08-02T18:39:21+00:00'
+  - title: 'La famine comme stratégie : la complicité de l’Occident dans la famine provoquée
+      à Gaza'
+    url: https://ejmagnier.com/2025/08/02/la-famine-comme-strategie-la-complicite-de-loccident-dans-la-famine-provoquee-a-gaza/
+    text: 'Tweet La famine comme stratégie : la complicité de l’Occident dans la famine
+      provoquée à Gaza Par Elijah J. Magnier À Gaza, la famine n’est pas une conséquence
+      de la guerre : elle est la guerre. Il ne s’agit pas d’un échec logistique, mais
+      d’un succès stratégique. Et dans cette catastrophe en cours, l’Occident n’est
+      pas un simple spectateur : il est un acteur central. Alors que le gouvernement
+      israélien, dirigé par le Premier ministre Benjamin Netanyahu, resserre son blocus
+      sur Gaza, des millions de civils sont confrontés à une famine planifiée. Ce n’est
+      pas un accident. C’est le résultat de décisions délibérées : couper l’approvisionnement
+      en nourriture, en eau, en électricité, en carburant et en aide humanitaire, et
+      bloquer les convois de secours. Ce qui se déroule n’est pas une catastrophe naturelle,
+      mais une famine provoquée par l’homme, imposée avec une précision clinique. Malgré
+      des preuves accablantes et une indignation internationale, les États-Unis et l’Union
+      européenne ont refusé de tenir Israël pour responsable. Pire encore, ils continuent
+      d’armer, de financer et de protéger l’entité responsable de l’un des blocus les
+      plus brutaux du XXIe siècle. Le gouvernement de Netanyahu utilise la famine pour
+      atteindre un objectif politique cynique : le nettoyage ethnique de la population
+      palestinienne de Gaza. Cette stratégie est en troublante harmonie avec les propos
+      du président américain Donald Trump, qui, dès sa première semaine en fonction,
+      aurait suggéré de transformer Gaza en une « Riviera » et en un projet immobilier
+      lucratif, ambition faisant écho à ses succès commerciaux à Manhattan. Symbole
+      glaçant de cette complicité, le conseiller spécial de Trump et magnat de l’immobilier
+      Steve Witkoff a visité Gaza, passant cinq heures à un point de distribution alimentaire
+      à Rafah – tristement surnommé la « zone piège mortel » – où les Palestiniens cherchant
+      de l’aide sont régulièrement pris pour cibles. Le message était clair : les États-Unis
+      ne se contentent pas d’observer, ils participent activement à la mise en œuvre
+      de cette politique de famine stratégique et de changement démographique forcé.
+      À cela s’ajoute la complicité quasi-totale de la société israélienne, dont le
+      débat public est obsédé par le sort de 20 prisonniers israéliens, tandis que les
+      2,5 millions de Palestiniens affamés et assiégés sont largement ignorés. Trump
+      a également évoqué la « petitesse géographique d’Israël » et son « besoin d’agrandissement
+      » – un discours qui s’inscrit parfaitement dans la vision du « Grand Israël »
+      défendue par la coalition d’extrême droite actuellement au pouvoir. Cette guerre
+      n’est donc pas simplement une opération militaire, mais fait partie intégrante
+      d’un projet expansionniste plus vaste. Tandis que Gaza est réduite en poussière
+      par les bombes et la faim, la même machine idéologique poursuit son œuvre d’annexion
+      en Cisjordanie, avec le soutien des États-Unis et la passivité européenne. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Tweet'
+    one_sentence_summary: L'article souligne que la famine à Gaza est une stratégie
+      délibérée de guerre orchestrée par le gouvernement israélien, avec la complicité
+      active de l'Occident, qui contribue à la crise humanitaire en bloquant l'accès
+      à la nourriture, à l'eau et à l'aide humanitaire.
+    paragraph_summary: L'article d'Elijah J. Magnier souligne que la famine à Gaza est
+      une stratégie délibérée de guerre, orchestrée par le gouvernement israélien sous
+      Benjamin Netanyahu, plutôt qu'un simple effet collatéral du conflit. Il décrit
+      comment le blocus israélien, qui coupe l'accès à la nourriture, à l'eau et à l'aide
+      humanitaire, constitue une famine provoquée par l'homme, soutenue par la complicité
+      des États-Unis et de l'Union européenne, qui continuent de soutenir militairement
+      et financièrement Israël malgré les preuves de violations des droits humains.
+      Magnier évoque également des commentaires de Donald Trump sur la transformation
+      de Gaza en un projet immobilier, illustrant une vision cynique qui coïncide avec
+      les actions israéliennes visant à un nettoyage ethnique des Palestiniens.
+    published: '2025-08-02T18:39:21+00:00'
+  - title: 'Hunger als Strategie: Die Mitschuld des Westens an der von Menschen verursachten
+      Hungersnot in Gaza'
+    url: https://ejmagnier.com/2025/08/02/hunger-als-strategie-die-mitschuld-des-westens-an-der-von-menschen-verursachten-hungersnot-in-gaza/
+    text: 'Tweet Von Elijah J. Magnier – In Gaza ist die Hungersnot nicht das Ergebnis
+      eines Krieges – sie ist der Krieg. Sie ist kein Versagen der Logistik, sondern
+      ein Erfolg der Strategie. Und in dieser sich ausbreitenden Katastrophe ist der
+      Westen kein Zuschauer, sondern ein zentraler Akteur. Während die israelische Regierung
+      unter Premierminister Benjamin Netanjahu ihre Belagerung des Gazastreifens verschärft,
+      sind Millionen Zivilisten von einer künstlich herbeigeführten Hungersnot bedroht.
+      Das ist kein Zufall. Es ist das Ergebnis bewusster Entscheidungen: die Unterbrechung
+      der Versorgung mit Lebensmitteln, Wasser, Strom, Treibstoff und humanitärer Hilfe
+      sowie die Behinderung von Hilfskonvois. Was hier geschieht, ist keine Naturkatastrophe,
+      sondern eine künstlich herbeigeführte Hungersnot, die mit klinischer Präzision
+      durchgeführt wird. Trotz überwältigender Beweise und internationaler Proteste
+      weigern sich die Vereinigten Staaten und die Europäische Union, Israel zur Rechenschaft
+      zu ziehen. Schlimmer noch, sie rüsten die für eine der brutalsten Blockaden des
+      21. Jahrhunderts verantwortliche Instanz weiterhin auf, finanzieren sie und schützen
+      sie. Die Regierung Netanjahu nutzt die Hungersnot, um ein politisch zynisches
+      Ziel zu erreichen: die ethnische Säuberung der palästinensischen Bevölkerung aus
+      dem Gazastreifen. Diese Strategie steht in beunruhigendem Einklang mit Äußerungen
+      von US-Präsident Donald Trump in seiner ersten Amtswoche, als er Berichten zufolge
+      vorschlug, den Gazastreifen in eine „Riviera” und ein lukratives Immobilienprojekt
+      zu verwandeln – ein Ziel, das an seine kommerziellen Erfolge in Manhattan erinnert.
+      Als erschreckendes Symbol dieser Komplizenschaft besuchte Trumps Berater, Sonderbeauftragter
+      und Immobilienmagnat Steve Witkoff den Gazastreifen und hielt sich fünf Stunden
+      lang an einer Lebensmittelverteilungsstelle in Rafah auf – einem Ort, der als
+      „Todesfalle“ bekannt ist und wo Palästinenser, die Hilfe suchen, regelmäßig angegriffen
+      werden. Die Botschaft war klar: Die Vereinigten Staaten beobachten nicht nur die
+      Umsetzung dieser Politik der Hungersnot als Waffe und der umfassenderen Kampagne
+      zur erzwungenen demografischen Veränderung, sondern beteiligen sich auch daran.
+      Die Tragödie wird noch verschärft durch die fast vollständige Komplizenschaft
+      der israelischen Gesellschaft, in der die öffentliche Debatte vom Schicksal von
+      20 israelischen Gefangenen beherrscht wird, während 2,5 Millionen hungernde und
+      belagerte Palästinenser weitgehend ignoriert werden. Trump sprach auch davon,
+      wie „klein Israel geografisch ist“ und dass es „vergrößert werden muss“ – ein
+      Diskurs, der perfekt mit der Vision eines „Großisraels“ übereinstimmt, die von
+      der derzeit in Israel regierenden rechtsextremen Koalition vertreten wird. Dieser
+      Krieg ist daher nicht nur eine militärische Kampagne, sondern Teil einer umfassenderen
+      expansionistischen Agenda. Während Gaza durch Bomben und Hungersnot dem Erdboden
+      gleichgemacht wird, verfolgt derselbe ideologische Apparat mit Unterstützung der
+      USA und stillschweigender Zustimmung Europas weiterhin die Annexion des Westjordanlandes.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Elijah J. Magnier argues that the famine in Gaza is not a
+      consequence of war but rather a strategic element of it, driven by deliberate
+      actions of the Israeli government and supported by the West, which refuses to
+      hold Israel accountable despite clear evidence of the humanitarian crisis.
+    paragraph_summary: In einem Tweet argumentiert Elijah J. Magnier, dass die Hungersnot
+      in Gaza nicht nur eine Folge des Krieges, sondern dessen eigentliche Strategie
+      ist, orchestriert durch die israelische Regierung unter Premierminister Benjamin
+      Netanjahu. Diese künstlich herbeigeführte Hungersnot, die durch die gezielte Unterbrechung
+      der Versorgung mit lebensnotwendigen Gütern und die Behinderung humanitärer Hilfe
+      verursacht wird, wird von den westlichen Ländern, insbesondere den USA und der
+      EU, nicht nur ignoriert, sondern aktiv unterstützt. Magnier kritisiert die Komplizenschaft
+      des Westens, der Israel weiterhin aufrüstet und finanziert, während die palästinensische
+      Bevölkerung im Gazastreifen ethnisch gereinigt werden soll. Er zieht Parallelen
+      zu früheren Äußerungen von Donald Trump, der den Gazastreifen als potenzielles
+      Immobilienprojekt sah, und hebt die besorgniserregende Rolle von Trumps Berater
+      Steve Witkoff hervor, der in einem gefährlichen Gebiet in Gaza präsent war.
+    published: '2025-08-02T18:38:21+00:00'
+  - title: 'Hunger als Strategie: Die Mitschuld des Westens an der von Menschen verursachten
+      Hungersnot in Gaza'
+    url: https://ejmagnier.com/2025/08/02/hunger-als-strategie-die-mitschuld-des-westens-an-der-von-menschen-verursachten-hungersnot-in-gaza/
+    text: 'Tweet Von Elijah J. Magnier – In Gaza ist die Hungersnot nicht das Ergebnis
+      eines Krieges – sie ist der Krieg. Sie ist kein Versagen der Logistik, sondern
+      ein Erfolg der Strategie. Und in dieser sich ausbreitenden Katastrophe ist der
+      Westen kein Zuschauer, sondern ein zentraler Akteur. Während die israelische Regierung
+      unter Premierminister Benjamin Netanjahu ihre Belagerung des Gazastreifens verschärft,
+      sind Millionen Zivilisten von einer künstlich herbeigeführten Hungersnot bedroht.
+      Das ist kein Zufall. Es ist das Ergebnis bewusster Entscheidungen: die Unterbrechung
+      der Versorgung mit Lebensmitteln, Wasser, Strom, Treibstoff und humanitärer Hilfe
+      sowie die Behinderung von Hilfskonvois. Was hier geschieht, ist keine Naturkatastrophe,
+      sondern eine künstlich herbeigeführte Hungersnot, die mit klinischer Präzision
+      durchgeführt wird. Trotz überwältigender Beweise und internationaler Proteste
+      weigern sich die Vereinigten Staaten und die Europäische Union, Israel zur Rechenschaft
+      zu ziehen. Schlimmer noch, sie rüsten die für eine der brutalsten Blockaden des
+      21. Jahrhunderts verantwortliche Instanz weiterhin auf, finanzieren sie und schützen
+      sie. Die Regierung Netanjahu nutzt die Hungersnot, um ein politisch zynisches
+      Ziel zu erreichen: die ethnische Säuberung der palästinensischen Bevölkerung aus
+      dem Gazastreifen. Diese Strategie steht in beunruhigendem Einklang mit Äußerungen
+      von US-Präsident Donald Trump in seiner ersten Amtswoche, als er Berichten zufolge
+      vorschlug, den Gazastreifen in eine „Riviera” und ein lukratives Immobilienprojekt
+      zu verwandeln – ein Ziel, das an seine kommerziellen Erfolge in Manhattan erinnert.
+      Als erschreckendes Symbol dieser Komplizenschaft besuchte Trumps Berater, Sonderbeauftragter
+      und Immobilienmagnat Steve Witkoff den Gazastreifen und hielt sich fünf Stunden
+      lang an einer Lebensmittelverteilungsstelle in Rafah auf – einem Ort, der als
+      „Todesfalle“ bekannt ist und wo Palästinenser, die Hilfe suchen, regelmäßig angegriffen
+      werden. Die Botschaft war klar: Die Vereinigten Staaten beobachten nicht nur die
+      Umsetzung dieser Politik der Hungersnot als Waffe und der umfassenderen Kampagne
+      zur erzwungenen demografischen Veränderung, sondern beteiligen sich auch daran.
+      Die Tragödie wird noch verschärft durch die fast vollständige Komplizenschaft
+      der israelischen Gesellschaft, in der die öffentliche Debatte vom Schicksal von
+      20 israelischen Gefangenen beherrscht wird, während 2,5 Millionen hungernde und
+      belagerte Palästinenser weitgehend ignoriert werden. Trump sprach auch davon,
+      wie „klein Israel geografisch ist“ und dass es „vergrößert werden muss“ – ein
+      Diskurs, der perfekt mit der Vision eines „Großisraels“ übereinstimmt, die von
+      der derzeit in Israel regierenden rechtsextremen Koalition vertreten wird. Dieser
+      Krieg ist daher nicht nur eine militärische Kampagne, sondern Teil einer umfassenderen
+      expansionistischen Agenda. Während Gaza durch Bomben und Hungersnot dem Erdboden
+      gleichgemacht wird, verfolgt derselbe ideologische Apparat mit Unterstützung der
+      USA und stillschweigender Zustimmung Europas weiterhin die Annexion des Westjordanlandes.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Elijah J. Magnier argues that the famine in Gaza is not a
+      consequence of war but rather a strategic element of it, driven by deliberate
+      actions of the Israeli government and supported by the West, which refuses to
+      hold Israel accountable despite clear evidence of the humanitarian crisis.
+    paragraph_summary: In einem Tweet argumentiert Elijah J. Magnier, dass die Hungersnot
+      in Gaza nicht nur eine Folge des Krieges, sondern dessen eigentliche Strategie
+      ist, orchestriert durch die israelische Regierung unter Premierminister Benjamin
+      Netanjahu. Diese künstlich herbeigeführte Hungersnot, die durch die gezielte Unterbrechung
+      der Versorgung mit lebensnotwendigen Gütern und die Behinderung humanitärer Hilfe
+      verursacht wird, wird von den westlichen Ländern, insbesondere den USA und der
+      EU, nicht nur ignoriert, sondern aktiv unterstützt. Magnier kritisiert die Komplizenschaft
+      des Westens, der Israel weiterhin aufrüstet und finanziert, während die palästinensische
+      Bevölkerung im Gazastreifen ethnisch gereinigt werden soll. Er zieht Parallelen
+      zu früheren Äußerungen von Donald Trump, der den Gazastreifen als potenzielles
+      Immobilienprojekt sah, und hebt die besorgniserregende Rolle von Trumps Berater
+      Steve Witkoff hervor, der in einem gefährlichen Gebiet in Gaza präsent war.
+    published: '2025-08-02T18:38:21+00:00'
+  - title: 'Israel’s Strategy Towards Gaza: From Military Campaign to Gradual Annexation'
+    url: https://ejmagnier.com/2025/07/30/israels-strategy-towards-gaza-from-military-campaign-to-gradual-annexation/
+    text: 'Tweet By Elijah J. Magnier – Israel has begun conditioning its population
+      to accept a long-term military presence in Gaza, portraying it as a necessary
+      step to ensure security and deter Hamas. Defence Minister Israel Katz has publicly
+      proposed a permanent Israeli deployment in Gaza and its periphery, akin to operations
+      in the West Bank—even if the cost is high. Katz has ignored the logistical and
+      ideological obstacles: Gaza’s resistance factions are not disarmed, nor are they
+      politically aligned with the Palestinian Authority in Ramallah who collaborate
+      with Israel’s security services against the Palestinian resistance. Prime Minister
+      Benjamin Netanyahu, for his part, appears to be using ceasefire negotiations as
+      a survival political tool. His message to Hamas is blunt: accept a ceasefire on
+      Israel’s terms—including a permanent military presence in Rafah—or face destruction
+      and total occupation. With the international community largely impotent and Washington
+      backing Israel, Netanyahu is seizing the opportunity to push through irreversible
+      regional and demographic changes on the ground to please his far-right wing government
+      he is leading. However, this war has not come without cost to Israel. Operation
+      “Gideon’s Chariots”—a more than two-month-long campaign—claimed the lives of over
+      50 Israeli soldiers and officers without achieving its objectives to destroy Hamas
+      and liberate 20 Israeli prisoners. Despite repeated incursions, the Israeli army
+      has failed to secure permanent footholds inside Gaza due to ongoing Palestinian
+      resistance operations. Reports suggest that Israeli Chief of Staff Eyal Zamir
+      advised the government that holding territory in Gaza would require at least a
+      year of continuous military operations, with open-ended mobilisation and massive
+      human and material costs. While seemingly aligned with Netanyahu’s goals, Zamir
+      has reportedly warned against politically driven military expansion, cautioning
+      that it could exhaust the Israeli army without delivering sustainable strategic
+      results. During the government meeting, Finance Minister Bezalel Smotrich launched
+      a scathing attack on Chief of Staff Eyal Zamir, accusing him of incompetence in
+      failing to secure Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Israel is preparing its population for a long-term military
+      presence in Gaza, with Defense Minister Katz advocating for permanent deployment
+      despite significant challenges, while Prime Minister Netanyahu uses ceasefire
+      negotiations to pressure Hamas into accepting Israel's terms.
+    paragraph_summary: Israel is preparing its population for a prolonged military presence
+      in Gaza, framed as essential for security and deterring Hamas. Defence Minister
+      Israel Katz has suggested a permanent Israeli deployment similar to operations
+      in the West Bank, despite the challenges posed by Gaza's armed factions and their
+      lack of cooperation with the Palestinian Authority. Prime Minister Benjamin Netanyahu
+      is leveraging ceasefire negotiations to pressure Hamas into accepting terms that
+      include this military presence, while also pushing for significant regional changes
+      to satisfy his far-right government. However, Israel's ongoing military campaign,
+      Operation "Gideon’s Chariots," has resulted in over 50 Israeli soldiers' deaths
+      without achieving its goals, and the Israeli army struggles to maintain control
+      in Gaza amid persistent resistance. Chief of Staff Eyal Zamir has cautioned that
+      sustaining territory in Gaza would require extensive military efforts and could
+      strain the Israeli forces if driven by political motives.
+    published: '2025-07-30T17:42:04+00:00'
+  - title: 'Israel’s Strategy Towards Gaza: From Military Campaign to Gradual Annexation'
+    url: https://ejmagnier.com/2025/07/30/israels-strategy-towards-gaza-from-military-campaign-to-gradual-annexation/
+    text: 'Tweet By Elijah J. Magnier – Israel has begun conditioning its population
+      to accept a long-term military presence in Gaza, portraying it as a necessary
+      step to ensure security and deter Hamas. Defence Minister Israel Katz has publicly
+      proposed a permanent Israeli deployment in Gaza and its periphery, akin to operations
+      in the West Bank—even if the cost is high. Katz has ignored the logistical and
+      ideological obstacles: Gaza’s resistance factions are not disarmed, nor are they
+      politically aligned with the Palestinian Authority in Ramallah who collaborate
+      with Israel’s security services against the Palestinian resistance. Prime Minister
+      Benjamin Netanyahu, for his part, appears to be using ceasefire negotiations as
+      a survival political tool. His message to Hamas is blunt: accept a ceasefire on
+      Israel’s terms—including a permanent military presence in Rafah—or face destruction
+      and total occupation. With the international community largely impotent and Washington
+      backing Israel, Netanyahu is seizing the opportunity to push through irreversible
+      regional and demographic changes on the ground to please his far-right wing government
+      he is leading. However, this war has not come without cost to Israel. Operation
+      “Gideon’s Chariots”—a more than two-month-long campaign—claimed the lives of over
+      50 Israeli soldiers and officers without achieving its objectives to destroy Hamas
+      and liberate 20 Israeli prisoners. Despite repeated incursions, the Israeli army
+      has failed to secure permanent footholds inside Gaza due to ongoing Palestinian
+      resistance operations. Reports suggest that Israeli Chief of Staff Eyal Zamir
+      advised the government that holding territory in Gaza would require at least a
+      year of continuous military operations, with open-ended mobilisation and massive
+      human and material costs. While seemingly aligned with Netanyahu’s goals, Zamir
+      has reportedly warned against politically driven military expansion, cautioning
+      that it could exhaust the Israeli army without delivering sustainable strategic
+      results. During the government meeting, Finance Minister Bezalel Smotrich launched
+      a scathing attack on Chief of Staff Eyal Zamir, accusing him of incompetence in
+      failing to secure Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Israel is preparing its population for a long-term military
+      presence in Gaza, with Defense Minister Katz advocating for permanent deployment
+      despite significant challenges, while Prime Minister Netanyahu uses ceasefire
+      negotiations to pressure Hamas into accepting Israel's terms.
+    paragraph_summary: Israel is preparing its population for a prolonged military presence
+      in Gaza, framed as essential for security and deterring Hamas. Defence Minister
+      Israel Katz has suggested a permanent Israeli deployment similar to operations
+      in the West Bank, despite the challenges posed by Gaza's armed factions and their
+      lack of cooperation with the Palestinian Authority. Prime Minister Benjamin Netanyahu
+      is leveraging ceasefire negotiations to pressure Hamas into accepting terms that
+      include this military presence, while also pushing for significant regional changes
+      to satisfy his far-right government. However, Israel's ongoing military campaign,
+      Operation "Gideon’s Chariots," has resulted in over 50 Israeli soldiers' deaths
+      without achieving its goals, and the Israeli army struggles to maintain control
+      in Gaza amid persistent resistance. Chief of Staff Eyal Zamir has cautioned that
+      sustaining territory in Gaza would require extensive military efforts and could
+      strain the Israeli forces if driven by political motives.
+    published: '2025-07-30T17:42:04+00:00'
+  - title: 'Israëls strategie jegens Gaza: van militaire campagne naar geleidelijke
+      annexatie'
+    url: https://ejmagnier.com/2025/07/30/israels-strategie-jegens-gaza-van-militaire-campagne-naar-geleidelijke-annexatie/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Israël
+      is begonnen zijn bevolking voor te bereiden op een langdurige militaire aanwezigheid
+      in Gaza, door dit af te schilderen als een noodzakelijke stap om de veiligheid
+      te waarborgen en Hamas af te schrikken. Minister van Defensie Israël Katz heeft
+      publiekelijk voorgesteld om Israëlische troepen permanent in Gaza en de omgeving
+      daarvan te stationeren, vergelijkbaar met de operaties op de Westelijke Jordaanoever,
+      zelfs als de kosten hoog zijn. Katz negeert de logistieke en ideologische obstakels:
+      de verzetsgroeperingen in Gaza zijn niet ontwapend en staan politiek niet aan
+      de kant van de Palestijnse Autoriteit in Ramallah, die samenwerkt met de Israëlische
+      veiligheidsdiensten tegen het Palestijnse verzet. Premier Benjamin Netanyahu lijkt
+      de onderhandelingen over een staakt-het-vuren te gebruiken als een politiek overlevingsinstrument.
+      Zijn boodschap aan Hamas is duidelijk: accepteer een staakt-het-vuren op Israëls
+      voorwaarden – inclusief een permanente militaire aanwezigheid in Rafah – of word
+      vernietigd en volledig bezet. Nu de internationale gemeenschap grotendeels machteloos
+      is en Washington achter Israël staat, grijpt Netanyahu de kans om onomkeerbare
+      regionale en demografische veranderingen door te voeren om zijn extreemrechtse
+      regering tevreden te stellen. Deze oorlog heeft Israël echter niet zonder kosten
+      gebracht. Operatie “Gideon’s Chariots” – een meer dan twee maanden durende campagne
+      – heeft het leven gekost aan meer dan 50 Israëlische soldaten en officieren, zonder
+      dat het doel ervan, namelijk de vernietiging van Hamas en de bevrijding van 20
+      Israëlische gevangenen, is bereikt. Ondanks herhaalde invallen is het Israëlische
+      leger er niet in geslaagd een permanente voet aan de grond te krijgen in Gaza
+      vanwege de aanhoudende Palestijnse verzetsoperaties. Volgens berichten heeft de
+      Israëlische stafchef Eyal Zamir de regering laten weten dat het behoud van het
+      grondgebied in Gaza minstens een jaar van voortdurende militaire operaties zou
+      vergen, met een mobilisatie van onbepaalde duur en enorme kosten in mensenlevens
+      en materieel. Hoewel Zamir zich schijnbaar aansluit bij de doelstellingen van
+      Netanyahu, zou hij hebben gewaarschuwd voor een politiek gemotiveerde militaire
+      expansie, omdat deze het Israëlische leger zou kunnen uitputten zonder duurzame
+      strategische resultaten op te leveren. Tijdens de regeringsvergadering heeft minister
+      van Financiën Bezalel Smotrich een vernietigende aanval op stafchef Eyal Zamir
+      gelanceerd, waarbij hij hem Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israël bereidt zijn bevolking voor op een langdurige militaire
+      aanwezigheid in Gaza om de veiligheid te waarborgen en Hamas af te schrikken,
+      terwijl minister van Defensie Katz pleit voor permanente troepen in de regio,
+      ondanks de aanzienlijke logistieke en ideologische obstakels.
+    paragraph_summary: Israël bereidt zijn bevolking voor op een langdurige militaire
+      aanwezigheid in Gaza, waarbij minister van Defensie Israël Katz pleit voor een
+      permanente stationering van troepen, ondanks de hoge kosten en de aanhoudende
+      weerstand van verzetsgroepen. Premier Benjamin Netanyahu lijkt onderhandelingen
+      over een staakt-het-vuren te gebruiken om zijn politieke positie te versterken,
+      met de boodschap aan Hamas dat zij moeten instemmen met Israëlische voorwaarden
+      of geconfronteerd worden met volledige bezetting. Terwijl de internationale gemeenschap
+      grotendeels machteloos is, probeert Netanyahu onomkeerbare veranderingen door
+      te voeren om zijn extreemrechtse regering tevreden te stellen. De operatie "Gideon’s
+      Chariots" heeft echter meer dan 50 Israëlische soldaten het leven gekost zonder
+      het beoogde doel van de vernietiging van Hamas te bereiken, en het Israëlische
+      leger heeft moeite om een blijvende controle over Gaza te vestigen door de voortdurende
+      Palestijnse verzetsacties.
+    published: '2025-07-30T17:37:07+00:00'
+  - title: 'Israëls strategie jegens Gaza: van militaire campagne naar geleidelijke
+      annexatie'
+    url: https://ejmagnier.com/2025/07/30/israels-strategie-jegens-gaza-van-militaire-campagne-naar-geleidelijke-annexatie/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Israël
+      is begonnen zijn bevolking voor te bereiden op een langdurige militaire aanwezigheid
+      in Gaza, door dit af te schilderen als een noodzakelijke stap om de veiligheid
+      te waarborgen en Hamas af te schrikken. Minister van Defensie Israël Katz heeft
+      publiekelijk voorgesteld om Israëlische troepen permanent in Gaza en de omgeving
+      daarvan te stationeren, vergelijkbaar met de operaties op de Westelijke Jordaanoever,
+      zelfs als de kosten hoog zijn. Katz negeert de logistieke en ideologische obstakels:
+      de verzetsgroeperingen in Gaza zijn niet ontwapend en staan politiek niet aan
+      de kant van de Palestijnse Autoriteit in Ramallah, die samenwerkt met de Israëlische
+      veiligheidsdiensten tegen het Palestijnse verzet. Premier Benjamin Netanyahu lijkt
+      de onderhandelingen over een staakt-het-vuren te gebruiken als een politiek overlevingsinstrument.
+      Zijn boodschap aan Hamas is duidelijk: accepteer een staakt-het-vuren op Israëls
+      voorwaarden – inclusief een permanente militaire aanwezigheid in Rafah – of word
+      vernietigd en volledig bezet. Nu de internationale gemeenschap grotendeels machteloos
+      is en Washington achter Israël staat, grijpt Netanyahu de kans om onomkeerbare
+      regionale en demografische veranderingen door te voeren om zijn extreemrechtse
+      regering tevreden te stellen. Deze oorlog heeft Israël echter niet zonder kosten
+      gebracht. Operatie “Gideon’s Chariots” – een meer dan twee maanden durende campagne
+      – heeft het leven gekost aan meer dan 50 Israëlische soldaten en officieren, zonder
+      dat het doel ervan, namelijk de vernietiging van Hamas en de bevrijding van 20
+      Israëlische gevangenen, is bereikt. Ondanks herhaalde invallen is het Israëlische
+      leger er niet in geslaagd een permanente voet aan de grond te krijgen in Gaza
+      vanwege de aanhoudende Palestijnse verzetsoperaties. Volgens berichten heeft de
+      Israëlische stafchef Eyal Zamir de regering laten weten dat het behoud van het
+      grondgebied in Gaza minstens een jaar van voortdurende militaire operaties zou
+      vergen, met een mobilisatie van onbepaalde duur en enorme kosten in mensenlevens
+      en materieel. Hoewel Zamir zich schijnbaar aansluit bij de doelstellingen van
+      Netanyahu, zou hij hebben gewaarschuwd voor een politiek gemotiveerde militaire
+      expansie, omdat deze het Israëlische leger zou kunnen uitputten zonder duurzame
+      strategische resultaten op te leveren. Tijdens de regeringsvergadering heeft minister
+      van Financiën Bezalel Smotrich een vernietigende aanval op stafchef Eyal Zamir
+      gelanceerd, waarbij hij hem Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israël bereidt zijn bevolking voor op een langdurige militaire
+      aanwezigheid in Gaza om de veiligheid te waarborgen en Hamas af te schrikken,
+      terwijl minister van Defensie Katz pleit voor permanente troepen in de regio,
+      ondanks de aanzienlijke logistieke en ideologische obstakels.
+    paragraph_summary: Israël bereidt zijn bevolking voor op een langdurige militaire
+      aanwezigheid in Gaza, waarbij minister van Defensie Israël Katz pleit voor een
+      permanente stationering van troepen, ondanks de hoge kosten en de aanhoudende
+      weerstand van verzetsgroepen. Premier Benjamin Netanyahu lijkt onderhandelingen
+      over een staakt-het-vuren te gebruiken om zijn politieke positie te versterken,
+      met de boodschap aan Hamas dat zij moeten instemmen met Israëlische voorwaarden
+      of geconfronteerd worden met volledige bezetting. Terwijl de internationale gemeenschap
+      grotendeels machteloos is, probeert Netanyahu onomkeerbare veranderingen door
+      te voeren om zijn extreemrechtse regering tevreden te stellen. De operatie "Gideon’s
+      Chariots" heeft echter meer dan 50 Israëlische soldaten het leven gekost zonder
+      het beoogde doel van de vernietiging van Hamas te bereiken, en het Israëlische
+      leger heeft moeite om een blijvende controle over Gaza te vestigen door de voortdurende
+      Palestijnse verzetsacties.
+    published: '2025-07-30T17:37:07+00:00'
+  - title: 'La stratégie d’Israël envers Gaza : de la campagne militaire à l’annexion
+      progressive'
+    url: https://ejmagnier.com/2025/07/30/la-strategie-disrael-envers-gaza-de-la-campagne-militaire-a-lannexion-progressive/
+    text: 'Tweet Par Elijah J. Magnier Israël a commencé à préparer son opinion publique
+      à accepter une présence militaire de long terme à Gaza, la présentant comme une
+      étape nécessaire pour garantir la sécurité et dissuader le Hamas. Le ministre
+      de la Défense, Israël Katz, a publiquement proposé un déploiement israélien permanent
+      à Gaza et dans ses environs, à l’image des opérations menées en Cisjordanie —
+      même si le coût est élevé. Katz passe sous silence les obstacles logistiques et
+      idéologiques : les factions de la résistance à Gaza ne sont ni désarmées ni politiquement
+      alignées avec l’Autorité palestinienne de Ramallah, qui collabore avec les services
+      de sécurité israéliens contre la résistance palestinienne. Le Premier ministre
+      Benjamin Netanyahou, de son côté, semble utiliser les négociations de cessez-le-feu
+      comme un outil politique de survie. Son message au Hamas est sans détour : acceptez
+      un cessez-le-feu selon les conditions d’Israël — incluant une présence militaire
+      permanente à Rafah — ou faites face à la destruction et à l’occupation totale.
+      Face à l’impuissance de la communauté internationale et au soutien indéfectible
+      de Washington, Netanyahou saisit l’occasion pour imposer des transformations régionales
+      et démographiques irréversibles, afin de satisfaire l’aile extrémiste de son gouvernement.
+      Cependant, cette guerre n’est pas sans coût pour Israël. L’opération « Les Chariots
+      de Gédéon », une campagne de plus de deux mois, a coûté la vie à plus de 50 soldats
+      et officiers israéliens sans atteindre ses objectifs : anéantir le Hamas et libérer
+      une vingtaine de prisonniers israéliens. Malgré les incursions répétées, l’armée
+      israélienne n’est pas parvenue à établir de positions durables à Gaza en raison
+      de la résistance continue des factions palestiniennes. Des rapports indiquent
+      que le chef d’état-major israélien, Eyal Zamir, a averti le gouvernement que le
+      contrôle de Gaza nécessiterait au moins une année d’opérations militaires ininterrompues,
+      avec une mobilisation illimitée et des coûts humains et matériels colossaux. Bien
+      qu’il semble en accord avec les objectifs de Netanyahou, Zamir aurait mis en garde
+      contre une expansion militaire dictée par des considérations politiques, susceptible
+      d’épuiser l’armée sans apporter de gains stratégiques durables. Lors d’une réunion
+      gouvernementale, le ministre des Finances, Bezalel Smotrich, a Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israël prépare son opinion publique à accepter une présence
+      militaire permanente à Gaza, présentée comme nécessaire pour la sécurité, tandis
+      que le ministre de la Défense propose un déploiement similaire à celui en Cisjordanie,
+      malgré des défis logistiques et idéologiques, et que le Premier ministre Netanyahou
+      utilise les négociations de cessez-le-feu comme levier politique.
+    paragraph_summary: Israël prépare son opinion publique à accepter une présence militaire
+      permanente à Gaza, présentée comme essentielle pour garantir la sécurité et dissuader
+      le Hamas, selon le ministre de la Défense, Israël Katz. Ce dernier propose un
+      déploiement similaire à celui en Cisjordanie, malgré les défis logistiques et
+      idéologiques, car les factions de résistance à Gaza ne sont pas désarmées ni alignées
+      avec l'Autorité palestinienne. Le Premier ministre Benjamin Netanyahou utilise
+      les négociations de cessez-le-feu pour renforcer sa position, menaçant le Hamas
+      d'une destruction totale s'il n'accepte pas les conditions israéliennes, y compris
+      une présence militaire à Rafah. Malgré le soutien international, la guerre a coûté
+      la vie à plus de 50 soldats israéliens sans atteindre ses objectifs, et l'armée
+      peine à établir des positions durables à Gaza face à la résistance palestinienne.
+      Des avertissements du chef d'état-major israélien soulignent que le contrôle de
+      Gaza nécessiterait au moins un an d'opérations militaires continues.
+    published: '2025-07-30T17:33:19+00:00'
+  - title: 'La stratégie d’Israël envers Gaza : de la campagne militaire à l’annexion
+      progressive'
+    url: https://ejmagnier.com/2025/07/30/la-strategie-disrael-envers-gaza-de-la-campagne-militaire-a-lannexion-progressive/
+    text: 'Tweet Par Elijah J. Magnier Israël a commencé à préparer son opinion publique
+      à accepter une présence militaire de long terme à Gaza, la présentant comme une
+      étape nécessaire pour garantir la sécurité et dissuader le Hamas. Le ministre
+      de la Défense, Israël Katz, a publiquement proposé un déploiement israélien permanent
+      à Gaza et dans ses environs, à l’image des opérations menées en Cisjordanie —
+      même si le coût est élevé. Katz passe sous silence les obstacles logistiques et
+      idéologiques : les factions de la résistance à Gaza ne sont ni désarmées ni politiquement
+      alignées avec l’Autorité palestinienne de Ramallah, qui collabore avec les services
+      de sécurité israéliens contre la résistance palestinienne. Le Premier ministre
+      Benjamin Netanyahou, de son côté, semble utiliser les négociations de cessez-le-feu
+      comme un outil politique de survie. Son message au Hamas est sans détour : acceptez
+      un cessez-le-feu selon les conditions d’Israël — incluant une présence militaire
+      permanente à Rafah — ou faites face à la destruction et à l’occupation totale.
+      Face à l’impuissance de la communauté internationale et au soutien indéfectible
+      de Washington, Netanyahou saisit l’occasion pour imposer des transformations régionales
+      et démographiques irréversibles, afin de satisfaire l’aile extrémiste de son gouvernement.
+      Cependant, cette guerre n’est pas sans coût pour Israël. L’opération « Les Chariots
+      de Gédéon », une campagne de plus de deux mois, a coûté la vie à plus de 50 soldats
+      et officiers israéliens sans atteindre ses objectifs : anéantir le Hamas et libérer
+      une vingtaine de prisonniers israéliens. Malgré les incursions répétées, l’armée
+      israélienne n’est pas parvenue à établir de positions durables à Gaza en raison
+      de la résistance continue des factions palestiniennes. Des rapports indiquent
+      que le chef d’état-major israélien, Eyal Zamir, a averti le gouvernement que le
+      contrôle de Gaza nécessiterait au moins une année d’opérations militaires ininterrompues,
+      avec une mobilisation illimitée et des coûts humains et matériels colossaux. Bien
+      qu’il semble en accord avec les objectifs de Netanyahou, Zamir aurait mis en garde
+      contre une expansion militaire dictée par des considérations politiques, susceptible
+      d’épuiser l’armée sans apporter de gains stratégiques durables. Lors d’une réunion
+      gouvernementale, le ministre des Finances, Bezalel Smotrich, a Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israël prépare son opinion publique à accepter une présence
+      militaire permanente à Gaza, présentée comme nécessaire pour la sécurité, tandis
+      que le ministre de la Défense propose un déploiement similaire à celui en Cisjordanie,
+      malgré des défis logistiques et idéologiques, et que le Premier ministre Netanyahou
+      utilise les négociations de cessez-le-feu comme levier politique.
+    paragraph_summary: Israël prépare son opinion publique à accepter une présence militaire
+      permanente à Gaza, présentée comme essentielle pour garantir la sécurité et dissuader
+      le Hamas, selon le ministre de la Défense, Israël Katz. Ce dernier propose un
+      déploiement similaire à celui en Cisjordanie, malgré les défis logistiques et
+      idéologiques, car les factions de résistance à Gaza ne sont pas désarmées ni alignées
+      avec l'Autorité palestinienne. Le Premier ministre Benjamin Netanyahou utilise
+      les négociations de cessez-le-feu pour renforcer sa position, menaçant le Hamas
+      d'une destruction totale s'il n'accepte pas les conditions israéliennes, y compris
+      une présence militaire à Rafah. Malgré le soutien international, la guerre a coûté
+      la vie à plus de 50 soldats israéliens sans atteindre ses objectifs, et l'armée
+      peine à établir des positions durables à Gaza face à la résistance palestinienne.
+      Des avertissements du chef d'état-major israélien soulignent que le contrôle de
+      Gaza nécessiterait au moins un an d'opérations militaires continues.
+    published: '2025-07-30T17:33:19+00:00'
   - title: 'Die Farce des Waffenstillstands: Wie die USA und Israel Gaza aushungern,
       während sie in böser Absicht verhandeln'
     url: https://ejmagnier.com/2025/07/29/die-farce-des-waffenstillstands-wie-die-usa-und-israel-gaza-aushungern-wahrend-sie-in-boser-absicht-verhandeln/

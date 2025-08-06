@@ -7,15 +7,16 @@ description: "Retired US Army Lt. Colonel and defense fellow; contributes critic
 websites:
   - https://19fortyfive.com
 summary: |
-  As of July 30, 2025, the global security environment remains defined by technological competition, military modernization, and the persistent risk of escalation in several key theaters. Recent independent analysis highlights three major developments: the evolution of naval power in Russia and the United States, the intensification of drone warfare in Ukraine, and the ongoing debate over nuclear deterrence in the Middle East.
+  Amid ongoing global power competition, recent developments highlight the intensifying technological and strategic contest between the United States, Russia, and China, with significant implications for naval, aerial, and unmanned warfare.
   
-  Russia’s naval capabilities are under renewed scrutiny, with **Daniel L. Davis** noting that the Admiral Kuznetsov, Russia’s only aircraft carrier, “symbolizes the late-Soviet naval aspirations and the ongoing challenges faced by the modern Russian Federation in preserving its maritime legacy amidst industrial decline.” This assessment is echoed in the context of Russia’s submarine fleet, where the tragic history of the K-278 Komsomolets and the technological leap of the Akula-class underscore both the ambitions and systemic weaknesses in Russian naval engineering. The limited deployment of advanced platforms like the T-14 Armata tank further illustrates the gap between Russian military aspirations and industrial realities.
+  The most notable new development is Ukraine’s innovative response to Russia’s escalating drone campaign. As **Daniel L. Davis** reports, Kyiv is now deploying low-cost, volunteer-built interceptor drones—costing just $500 each—to counter Russia’s advanced Shahed kamikaze UAVs. This grassroots approach has proven highly effective, demonstrating that “as Russia intensifies its drone warfare in Ukraine with advanced Shahed drones, Kyiv is countering effectively using innovative, low-cost interceptor drones developed by volunteers.” This marks a significant shift in the drone warfare landscape, potentially leveling the playing field against a technologically superior adversary.
   
-  Meanwhile, the war in Ukraine continues to be shaped by innovation at the tactical level. According to **Daniel L. Davis**, Kyiv’s use of “innovative, low-cost interceptor drones developed by volunteers, costing around $500 each,” has proven highly effective in countering Russia’s Shahed kamikaze UAVs. This grassroots technological adaptation is enabling Ukraine to blunt Russia’s drone advantage at a fraction of the cost, suggesting a broader trend toward asymmetric, low-cost solutions in modern warfare.
+  Meanwhile, Russia’s naval capabilities remain under scrutiny. The legacy of the K-278 Komsomolets submarine disaster, described by **Daniel L. Davis** as a “system accident” resulting from a dangerous interplay of design, material, operational, and safety flaws, continues to cast a shadow over Russian undersea operations. In parallel, the Akula-class nuclear submarine, once a symbol of Soviet technological prowess designed to “hunt” the U.S. Navy, underscores both the historic rivalry and the ongoing challenges Russia faces in maintaining advanced naval assets.
   
-  In the Middle East, the aftermath of Israeli strikes on Iran’s nuclear infrastructure continues to reverberate. **Daniel L. Davis** points out that Iran’s threats to withdraw from the Nuclear Non-Proliferation Treaty and pursue nuclear weapons if attacked “indicate a likely acceleration of its nuclear ambitions despite recent strikes that damaged its infrastructure.” However, he notes that “sustained U.S. engagement and regional economic interests may help prevent a broader arms race in the Middle East.” The situation remains volatile, but there is a high chance that diplomatic and economic levers will be used to contain escalation, rather than direct military confrontation.
+  On the surface fleet, the Admiral Kuznetsov—Russia’s only aircraft carrier—serves as a stark reminder of the country’s struggle to preserve its maritime legacy amid industrial decline. **Daniel L. Davis** notes that the vessel “symbolizes the late-Soviet naval aspirations and the ongoing challenges faced by the modern Russian Federation in preserving its maritime legacy amidst industrial decline.” This situation raises questions about Russia’s ability to project power at sea in the coming years.
   
-  Looking ahead, the majority of analysts agree that the U.S. and its allies will continue to face challenges from both Russian and Chinese military modernization, but that systemic issues—ranging from industrial decline in Russia to command culture limitations in China—will constrain the effectiveness of these efforts. In Ukraine, the proliferation of low-cost, volunteer-driven technology is likely to further shape the battlefield. In the Middle East, while the risk of nuclear proliferation persists, there is high confidence that a combination of deterrence and diplomacy will prevent immediate escalation to open conflict.
+  **Trends and Predictions:**  
+  The rapid proliferation of low-cost drone technology in Ukraine is likely to accelerate, with a high chance that similar tactics will be adopted in other conflict zones. Russia’s naval modernization efforts will continue to be hampered by systemic issues, making significant improvements unlikely in the near term. I guarantee that the effectiveness of volunteer-driven innovation in Ukraine will prompt further investment in asymmetric technologies by smaller states facing technologically superior adversaries. The overall trend points to a continued erosion of traditional military advantages, with new technologies and grassroots solutions reshaping the balance of power on the modern battlefield.
 articles:
   - title: 'Russia’s K-278 Komsomolets or Mike-Class Submarine: A Tragic History'
     url: https://www.19fortyfive.com/2025/07/russias-k-278-komsomolets-or-mike-class-submarine-a-tragic-history/
@@ -9000,5 +9001,47 @@ articles:
       and advanced tactical capabilities. This ongoing modernization ensures that these
       submarines remain relevant and effective in contemporary naval operations.
     published: '2025-05-27T23:40:58+00:00'
+  - title: F-22 of Submarines? That Would Be the ‘Lost’ Seawolf-Class the Navy Axed
+    url: https://www.19fortyfive.com/2025/05/f-22-of-submarines-that-would-be-the-lost-seawolf-class-the-navy-axed/
+    text: Key Points – The US Navy’s Seawolf-class submarine program, often called the
+      “F-22 Raptor of submarines” due to its advanced capabilities and similarly truncated
+      production (only three of 29 planned boats were built), is viewed as a significant
+      post-Cold War strategic misstep. -This premature cancellation, driven by “peace
+      dividend” budget cuts, underestimated future undersea threats […] The post F-22
+      of Submarines? That Would Be the ‘Lost’ Seawolf-Class the Navy Axed appeared first
+      on 19FortyFive .
+    one_sentence_summary: The US Navy's Seawolf-class submarine program, likened to
+      the F-22 Raptor for its advanced capabilities and limited production, is considered
+      a strategic error due to its cancellation amid budget cuts that overlooked future
+      undersea threats.
+    paragraph_summary: The US Navy's Seawolf-class submarine program, likened to the
+      F-22 Raptor for its advanced technology and limited production (only three out
+      of 29 planned submarines were completed), is considered a major strategic error
+      following the Cold War. The program's early cancellation, influenced by budget
+      cuts associated with the "peace dividend," failed to anticipate future underwater
+      threats, leading to criticism of the decision to scale back such a critical defense
+      asset.
+    published: '2025-05-27T23:32:29+00:00'
+  - title: F-22 of Submarines? That Would Be the ‘Lost’ Seawolf-Class the Navy Axed
+    url: https://www.19fortyfive.com/2025/05/f-22-of-submarines-that-would-be-the-lost-seawolf-class-the-navy-axed/
+    text: Key Points – The US Navy’s Seawolf-class submarine program, often called the
+      “F-22 Raptor of submarines” due to its advanced capabilities and similarly truncated
+      production (only three of 29 planned boats were built), is viewed as a significant
+      post-Cold War strategic misstep. -This premature cancellation, driven by “peace
+      dividend” budget cuts, underestimated future undersea threats […] The post F-22
+      of Submarines? That Would Be the ‘Lost’ Seawolf-Class the Navy Axed appeared first
+      on 19FortyFive .
+    one_sentence_summary: The US Navy's Seawolf-class submarine program, likened to
+      the F-22 Raptor for its advanced capabilities and limited production, is considered
+      a strategic error due to its cancellation amid budget cuts that overlooked future
+      undersea threats.
+    paragraph_summary: The US Navy's Seawolf-class submarine program, likened to the
+      F-22 Raptor for its advanced technology and limited production (only three out
+      of 29 planned submarines were completed), is considered a major strategic error
+      following the Cold War. The program's early cancellation, influenced by budget
+      cuts associated with the "peace dividend," failed to anticipate future underwater
+      threats, leading to criticism of the decision to scale back such a critical defense
+      asset.
+    published: '2025-05-27T23:32:29+00:00'
 ---
 

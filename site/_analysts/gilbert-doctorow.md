@@ -7,14 +7,2088 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  The geopolitical landscape remains dominated by the ongoing crisis in Ukraine, where the internal political situation is increasingly unstable. Recent days have seen a surge in anti-government protests in Kyiv, triggered by President Zelensky’s controversial move to weaken anti-corruption agencies. According to **Gilbert Doctorow**, the government’s restraint in handling demonstrators signals both the seriousness of the dissent and the administration’s precarious hold on power. The rapid reversal of Zelensky’s decision, following massive public demonstrations, underscores the depth of domestic opposition and raises questions about the sustainability of his leadership.
+  As the summer of 2025 progresses, the geopolitical landscape in Europe remains shaped by deepening divisions within the European Union, mounting pressure on Ukraine’s leadership, and continued scrutiny of Western policy prescriptions for post-communist states.
   
-  Meanwhile, Russia continues to push for a diplomatic resolution to the conflict, but only on terms favorable to Moscow. **Doctorow** notes that Kyiv has rejected the latest Russian peace offer, a move that coincides with growing U.S. involvement in Ukrainian internal affairs. Washington’s apparent efforts to undermine Zelensky—amid the anti-corruption law controversy—reflect a broader strategy to influence Ukraine’s political trajectory, possibly in anticipation of a leadership change.
+  The most recent commentary from **Gilbert Doctorow** critiques the influence of prominent Western economists like Jeffrey Sachs during the post-communist transitions in Poland and Russia. While Sachs is lauded for his articulate criticism of U.S. foreign policy, Doctorow notes that the actual economic transformation in Poland owed more to the return of Western-trained Polish professionals than to outside advisors. This perspective underscores a broader skepticism about the efficacy of Western-led reform models in Eastern Europe—a skepticism that is gaining traction as economic and political strains intensify across the region.
   
-  Beyond Ukraine, Russian-Iranian naval exercises in the Caspian Sea have attracted attention. These drills, intended to enhance maritime safety and cooperation among littoral states, have heightened U.S. concerns about deepening military ties between Moscow and Tehran. **Doctorow** highlights that the exercises also serve as a signal of potential mutual defense commitments and a challenge to longstanding U.S. influence in the region’s energy dynamics.
+  Meanwhile, the EU’s recent trade agreement with the United States continues to reverberate. Doctorow, in a recent interview, warns that the deal—widely perceived as a capitulation to U.S. interests—risks undermining both the EU’s internal cohesion and its transatlantic relationship. The agreement’s provisions, including a 15% tariff on European exports and increased commitments to import U.S. LNG and oil, are seen as detrimental to European manufacturing and energy competitiveness. There is a high chance, Doctorow argues, that these measures will further erode confidence in EU leadership and deepen economic vulnerabilities.
   
-  Looking ahead, the majority view among analysts, as synthesized by **Doctorow**, is that Ukraine’s political crisis is entering a decisive phase. There is a high chance that the current wave of protests marks the first stage of a broader regime change, with Zelensky’s position “most definitely” under threat. On the international front, the strengthening Russia-Iran partnership is “quite likely” to persist, further complicating Western efforts to contain Moscow’s regional ambitions. The overall trend points to increased volatility in both Ukrainian domestic politics and the wider Eurasian security environment.
+  On the Ukrainian front, the situation remains volatile. Recent weeks have seen massive protests against President Zelensky’s controversial anti-corruption law, leading to dissent within his party and speculation about imminent regime change. Doctorow and other analysts maintain that the U.S. is playing a significant role in shaping events in Kyiv, with Russia continuing to push for a diplomatic settlement on its own terms. The majority view is that Zelensky’s position is increasingly precarious, and there is a high chance of significant political upheaval in Ukraine in the near term.
+  
+  In summary, the prevailing trends point to growing instability in both the EU and Ukraine, with Western policy prescriptions facing mounting criticism and the likelihood of regime change in Kyiv increasing. I guarantee that the coming weeks will see further challenges to the current European and Ukrainian leadership, as internal and external pressures continue to mount.
 articles:
+  - title: Jeffrey Sachs is back to selling snake oil
+    url: https://gilbertdoctorow.com/2025/08/05/jeffrey-sachs-is-back-to-selling-snake-oil/
+    text: Jeffrey Sachs is a magnificent orator.  His speech in the European Parliament
+      a couple of months ago denouncing the decades-long destructive behavior of the
+      United States on the world stage was a tour de force . I take my hat off to him
+      for that. However, by professional training, he is an economist not an orator
+      and it is my intention to address that side of his activities in this brief essay.
+      In the 1990s, Sachs was a key foreign adviser to Poland and Russia in their transition
+      from Communist-led planned economies to market economies.  In Poland, this transition
+      was overly long but reasonably successful in the end as measured by growing prosperity
+      if not by economic sovereignty as the country became a colony of Germany. I always
+      considered that Poland’s success was due less to the sage advice of Sachs and
+      other carpetbaggers from U.S. universities and more to the return to Poland of
+      Western trained Polish business cadres from London, from the USA after the fall
+      of Communism. It is they who took leading positions in the economy. In Russia,
+      Sachs’ advice on drastic reforms, taken up by Prime Minister Yegor Gaidar and
+      his followers, resulted in catastrophic collapse of the economy, in generalized
+      pauperization of the population while a very few foxes among the sheep became
+      fabulously wealthy – those whom we in the West came to know as ‘oligarchs.’  The
+      entire process gave democracy and free markets a dirty name in Russia that the
+      population has still not outlived. To be sure, Sachs at the time and ever since
+      has said in exculpation that he had also advised the U.S. government at the time
+      to extend massive financial assistance to Russia to see it through the painful
+      period of transition. This Washington did not do, of course.  Nice words, but
+      they do nothing to mitigate the real damage, meaning the closing of most factories
+      and production facilities caused by the shock therapy urged by Sachs and other
+      Liberals. They came to Russia with an inflated sense of their own skills, ignoring
+      the fact that no one, NO ONE in the 1990s had relevant experience to see any country
+      the size of Russia through the shift to a market economy. In ordinary parlance,
+      we call that hubris.  Hubris is not just monopolized by the President and his
+      entourage in Washington. Let us now move forward to today.  Jeffrey Sachs’ latest
+      interviews, which are watched by vast audiences on youtube, persuade me that,
+      as they say, the dog has returned to his vomit.  He is selling highly partisan
+      anti-Trump economics. There are in this Community those who will object to my
+      criticizing so sharply and publicly another upstanding member of the Opposition
+      Movement to U.S. hegemonism.  I ask that you hold your fire and hear me out. 
+      First, because Sachs himself is directing ad hominem attacks against others in
+      public space. The commentators in The Washington Post are ‘idiots’ he tells us. 
+      They may be wrong-headed. They may be paid well to lie. But I don’t think they
+      are mentally deficient. The analysts producing papers promoting ‘American primacy’
+      are not analysts at all, Sachs tells us.  Really?  Misguided, I would say.  Dishonest,
+      I would say.  But that they are not analysts?  Really, Mr. Sachs, do clean up
+      your language if you expect others in the Movement like me to be more indulgent
+      towards you. ***** The interview which got my attention yesterday focused on U.S.
+      relations with China, which, said Sachs, were splendid from the mid-1970s up to
+      2010 when America’s foreign policy elites decided that China was growing too fast
+      and was threatening America’s national ambition to retain global ‘primacy.’  From
+      that point on, the demonization of Beijing set in. Defense alliances were constructed
+      to ‘contain’ China. Trade alliances were designed to isolate China. And so forth,
+      and so on, taking us to the present day when the American foreign policy establishment
+      is preparing the broad public for the idea of a military clash with China that
+      will remove the threat to American global hegemony once and for all. So, China
+      was no threat to the American economy? Says Sachs, it was all win-win.  American
+      companies prospered by manufacturing cheaply in China and participating in global
+      distribution.  California did stunningly well from the China trade, he tells us. 
+      OK, he concedes, sotto voce, the American Mid-West took a hit and industries there
+      suffered, but the problem could have been addressed by assistance from Washington,
+      if Washington had an industrial policy, which it stupidly (per Sachs) does not
+      have. Dear Mr. Sachs, I ask you to follow the current rules of transparency when
+      you issue your sweeping commentary like the foregoing.  You are wedded to globalization,
+      which was, above all, an economic policy backed by the Democrats and has been
+      their chief point of pride in economic policy.  Think of al those multilateral
+      free trade agreements that every Democratic president had to have on his CV. No
+      matter that the Dems are supposedly the party of the working class while globalization
+      has and always will strip away well-paying manufacturing jobs that allowed working
+      class people to live normal lives and to prepare their offspring for middle class
+      professional jobs, if they so wished. Those manufacturing jobs have been replaced
+      by part time work, gigs, delivery work for Uber Eats, at best jobs in McDonalds
+      flipping burgers.  All of this is not my personal discovery. It has been called
+      out long ago by many, including by the incumbent Republican president. I am not
+      saying that imposition of crippling tariffs on Chinese exports is justified. Moderation
+      always makes for better statesmanship.  But directionally, the USA has to undo
+      the excesses of outsourcing and to repeal the tax legislation that made production
+      abroad more profitable for US corporations than production at home. Such carve-outs
+      always provide greater advantages to certain industries and to certain companies
+      within those industries than to the economy as a whole.  While my peers all speak
+      in unison about the bribery of Congress by the military industrial complex, so
+      far I do not hear a word about the bribery of Congress by industries and by specific
+      companies within those industries seeking or enjoying the terms of multilateral
+      free trade pacts and the tax benefits of producing and retaining profits abroad.
+      Mr. Sachs, where are you on all of those issues?  Or are they also just the tomfoolery
+      of ‘idiots’? ©Gilbert Doctorow, 2025
+    one_sentence_summary: While Jeffrey Sachs is praised for his eloquent speeches,
+      particularly criticizing U.S. foreign policy, his economic advice during the transition
+      of Poland and Russia from communism to market economies is viewed as less impactful,
+      with greater credit given to the return of Western-trained Polish professionals.
+    paragraph_summary: Jeffrey Sachs, renowned for his eloquence, recently delivered
+      a powerful speech in the European Parliament criticizing the destructive actions
+      of the United States globally. However, the article focuses on his background
+      as an economist, particularly highlighting his role in the economic transitions
+      of Poland and Russia in the 1990s. While Poland's eventual success is attributed
+      more to the return of Western-trained Polish professionals than to Sachs' advice,
+      his recommendations for Russia led to disastrous outcomes, including economic
+      collapse and the rise of oligarchs, tarnishing the reputation of democracy and
+      free markets. Although Sachs has claimed that he advocated for U.S. financial
+      support for Russia during this tumultuous period, the article argues that his
+      shock therapy approach caused significant harm, leaving a lasting negative impact
+      on the Russian economy and society.
+    published: '2025-08-05T14:30:27+00:00'
+  - title: Jeffrey Sachs is back to selling snake oil
+    url: https://gilbertdoctorow.com/2025/08/05/jeffrey-sachs-is-back-to-selling-snake-oil/
+    text: Jeffrey Sachs is a magnificent orator.  His speech in the European Parliament
+      a couple of months ago denouncing the decades-long destructive behavior of the
+      United States on the world stage was a tour de force . I take my hat off to him
+      for that. However, by professional training, he is an economist not an orator
+      and it is my intention to address that side of his activities in this brief essay.
+      In the 1990s, Sachs was a key foreign adviser to Poland and Russia in their transition
+      from Communist-led planned economies to market economies.  In Poland, this transition
+      was overly long but reasonably successful in the end as measured by growing prosperity
+      if not by economic sovereignty as the country became a colony of Germany. I always
+      considered that Poland’s success was due less to the sage advice of Sachs and
+      other carpetbaggers from U.S. universities and more to the return to Poland of
+      Western trained Polish business cadres from London, from the USA after the fall
+      of Communism. It is they who took leading positions in the economy. In Russia,
+      Sachs’ advice on drastic reforms, taken up by Prime Minister Yegor Gaidar and
+      his followers, resulted in catastrophic collapse of the economy, in generalized
+      pauperization of the population while a very few foxes among the sheep became
+      fabulously wealthy – those whom we in the West came to know as ‘oligarchs.’  The
+      entire process gave democracy and free markets a dirty name in Russia that the
+      population has still not outlived. To be sure, Sachs at the time and ever since
+      has said in exculpation that he had also advised the U.S. government at the time
+      to extend massive financial assistance to Russia to see it through the painful
+      period of transition. This Washington did not do, of course.  Nice words, but
+      they do nothing to mitigate the real damage, meaning the closing of most factories
+      and production facilities caused by the shock therapy urged by Sachs and other
+      Liberals. They came to Russia with an inflated sense of their own skills, ignoring
+      the fact that no one, NO ONE in the 1990s had relevant experience to see any country
+      the size of Russia through the shift to a market economy. In ordinary parlance,
+      we call that hubris.  Hubris is not just monopolized by the President and his
+      entourage in Washington. Let us now move forward to today.  Jeffrey Sachs’ latest
+      interviews, which are watched by vast audiences on youtube, persuade me that,
+      as they say, the dog has returned to his vomit.  He is selling highly partisan
+      anti-Trump economics. There are in this Community those who will object to my
+      criticizing so sharply and publicly another upstanding member of the Opposition
+      Movement to U.S. hegemonism.  I ask that you hold your fire and hear me out. 
+      First, because Sachs himself is directing ad hominem attacks against others in
+      public space. The commentators in The Washington Post are ‘idiots’ he tells us. 
+      They may be wrong-headed. They may be paid well to lie. But I don’t think they
+      are mentally deficient. The analysts producing papers promoting ‘American primacy’
+      are not analysts at all, Sachs tells us.  Really?  Misguided, I would say.  Dishonest,
+      I would say.  But that they are not analysts?  Really, Mr. Sachs, do clean up
+      your language if you expect others in the Movement like me to be more indulgent
+      towards you. ***** The interview which got my attention yesterday focused on U.S.
+      relations with China, which, said Sachs, were splendid from the mid-1970s up to
+      2010 when America’s foreign policy elites decided that China was growing too fast
+      and was threatening America’s national ambition to retain global ‘primacy.’  From
+      that point on, the demonization of Beijing set in. Defense alliances were constructed
+      to ‘contain’ China. Trade alliances were designed to isolate China. And so forth,
+      and so on, taking us to the present day when the American foreign policy establishment
+      is preparing the broad public for the idea of a military clash with China that
+      will remove the threat to American global hegemony once and for all. So, China
+      was no threat to the American economy? Says Sachs, it was all win-win.  American
+      companies prospered by manufacturing cheaply in China and participating in global
+      distribution.  California did stunningly well from the China trade, he tells us. 
+      OK, he concedes, sotto voce, the American Mid-West took a hit and industries there
+      suffered, but the problem could have been addressed by assistance from Washington,
+      if Washington had an industrial policy, which it stupidly (per Sachs) does not
+      have. Dear Mr. Sachs, I ask you to follow the current rules of transparency when
+      you issue your sweeping commentary like the foregoing.  You are wedded to globalization,
+      which was, above all, an economic policy backed by the Democrats and has been
+      their chief point of pride in economic policy.  Think of al those multilateral
+      free trade agreements that every Democratic president had to have on his CV. No
+      matter that the Dems are supposedly the party of the working class while globalization
+      has and always will strip away well-paying manufacturing jobs that allowed working
+      class people to live normal lives and to prepare their offspring for middle class
+      professional jobs, if they so wished. Those manufacturing jobs have been replaced
+      by part time work, gigs, delivery work for Uber Eats, at best jobs in McDonalds
+      flipping burgers.  All of this is not my personal discovery. It has been called
+      out long ago by many, including by the incumbent Republican president. I am not
+      saying that imposition of crippling tariffs on Chinese exports is justified. Moderation
+      always makes for better statesmanship.  But directionally, the USA has to undo
+      the excesses of outsourcing and to repeal the tax legislation that made production
+      abroad more profitable for US corporations than production at home. Such carve-outs
+      always provide greater advantages to certain industries and to certain companies
+      within those industries than to the economy as a whole.  While my peers all speak
+      in unison about the bribery of Congress by the military industrial complex, so
+      far I do not hear a word about the bribery of Congress by industries and by specific
+      companies within those industries seeking or enjoying the terms of multilateral
+      free trade pacts and the tax benefits of producing and retaining profits abroad.
+      Mr. Sachs, where are you on all of those issues?  Or are they also just the tomfoolery
+      of ‘idiots’? ©Gilbert Doctorow, 2025
+    one_sentence_summary: While Jeffrey Sachs is praised for his eloquent speeches,
+      particularly criticizing U.S. foreign policy, his economic advice during the transition
+      of Poland and Russia from communism to market economies is viewed as less impactful,
+      with greater credit given to the return of Western-trained Polish professionals.
+    paragraph_summary: Jeffrey Sachs, renowned for his eloquence, recently delivered
+      a powerful speech in the European Parliament criticizing the destructive actions
+      of the United States globally. However, the article focuses on his background
+      as an economist, particularly highlighting his role in the economic transitions
+      of Poland and Russia in the 1990s. While Poland's eventual success is attributed
+      more to the return of Western-trained Polish professionals than to Sachs' advice,
+      his recommendations for Russia led to disastrous outcomes, including economic
+      collapse and the rise of oligarchs, tarnishing the reputation of democracy and
+      free markets. Although Sachs has claimed that he advocated for U.S. financial
+      support for Russia during this tumultuous period, the article argues that his
+      shock therapy approach caused significant harm, leaving a lasting negative impact
+      on the Russian economy and society.
+    published: '2025-08-05T14:30:27+00:00'
+  - title: Мозаика моей жизни –  Mosaic of my Life:  details on purchase
+    url: https://gilbertdoctorow.com/2025/08/03/%d0%bc%d0%be%d0%b7%d0%b0%d0%b8%d0%ba%d0%b0-%d0%bc%d0%be%d0%b5%d0%b9-%d0%b6%d0%b8%d0%b7%d0%bd%d0%b8-mosaic-of-my-life-details-on-purchase/
+    text: 'My Community is global and in the past couple of hours I have received emailed
+      queries from would-be buyers of Larisa’s novel “Mosaic of my Life” in English
+      or in Russian.  I write now to provide some guidance. First, when I provided the
+      book page to the novel in English on the Amazon website in the USA, I should have
+      added an explanation to those of you unfamiliar with the Amazon global sales.
+      They have country websites in many key markets around the globe which serve their
+      neighborhood.  So if you are in Canada and wish to buy the e-book (Kindle)or print
+      versions of this book, you have to go to the amazon.ca website since the U.S.
+      website may refuse to sell you the book. In Europe, there are Amazon websites
+      in France, Germany, the UK, Netherlands, Spain, Italy, Poland, etc Second, I erred
+      when I said that the Russian language edition of the book is available only as
+      an ebook.  Wrong: it is available only as a paperback.  And in 2020 there were
+      two publishers of the Russian language edition as paperback.  One was the U.S.
+      based publisher Author House, which is a Print on Demand firm, meaning that a
+      copy is printed for each new incoming order.  The Author House edition is distributed
+      by the global consortia who serve bookstores as well as online sellers, meaning
+      that if you object to purchasing from Amazon and getting immediate delivery, you
+      can place an order for the book, whether in Russian or in English, at the book
+      store nearest you by making reference to Author House, 2020 and the ISBN which
+      is on the Amazon.com pages But delivery via your bookstore may take some weeks.
+      Third, the Russian edition was also published separately in Russia by a St Petersburg
+      arts publisher called Liki Rossii. This was done in the traditional manner, with
+      a fixed number of copies printed at once.  For those of you in Russia, the book
+      can be ordered from Ozon or by writing directly to the publisher in Petersburg.
+      Here is the link to the U.S. publisher to purchase the Russian edition directly
+      from them: https://www.authorhouse.com/en/search?query=%D0%B7%D0%B0%D0%BB%D0%B5%D1%81%D0%BE%D0%B2%D0%B0+%D0%BC%D0%BE%D0%B7%D0%B0%D0%B8%D0%BA%D0%B0+%D0%BC%D0%BE%D0%B5%D0%B9+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8
+      Here is the link to the Amazon Germany website to order the Russian version for
+      delivery within Europe. Hopefully, this covers all questions.   Best of luck to
+      you and happy reading!'
+    one_sentence_summary: The article provides guidance on purchasing Larisa's novel
+      "Mosaic of my Life," clarifying that buyers must use their respective Amazon country
+      websites and correcting the information about the availability of the Russian
+      edition, which is only available in paperback, not as an e-book.
+    paragraph_summary: The article provides guidance for potential buyers of Larisa's
+      novel "Mosaic of My Life," addressing common queries about purchasing the book
+      in English or Russian. It explains that Amazon operates country-specific websites,
+      so buyers in Canada must use amazon.ca, while European customers should access
+      their respective Amazon sites. The author corrects a previous error regarding
+      the Russian edition, clarifying that it is available only as a paperback, published
+      by Author House in the U.S. and a St. Petersburg publisher, Liki Rossii. The Author
+      House edition can be ordered through local bookstores using the ISBN provided,
+      while those in Russia can purchase it from Ozon or directly from the publisher.
+    published: '2025-08-03T18:16:04+00:00'
+  - title: Мозаика моей жизни –  Mosaic of my Life:  details on purchase
+    url: https://gilbertdoctorow.com/2025/08/03/%d0%bc%d0%be%d0%b7%d0%b0%d0%b8%d0%ba%d0%b0-%d0%bc%d0%be%d0%b5%d0%b9-%d0%b6%d0%b8%d0%b7%d0%bd%d0%b8-mosaic-of-my-life-details-on-purchase/
+    text: 'My Community is global and in the past couple of hours I have received emailed
+      queries from would-be buyers of Larisa’s novel “Mosaic of my Life” in English
+      or in Russian.  I write now to provide some guidance. First, when I provided the
+      book page to the novel in English on the Amazon website in the USA, I should have
+      added an explanation to those of you unfamiliar with the Amazon global sales.
+      They have country websites in many key markets around the globe which serve their
+      neighborhood.  So if you are in Canada and wish to buy the e-book (Kindle)or print
+      versions of this book, you have to go to the amazon.ca website since the U.S.
+      website may refuse to sell you the book. In Europe, there are Amazon websites
+      in France, Germany, the UK, Netherlands, Spain, Italy, Poland, etc Second, I erred
+      when I said that the Russian language edition of the book is available only as
+      an ebook.  Wrong: it is available only as a paperback.  And in 2020 there were
+      two publishers of the Russian language edition as paperback.  One was the U.S.
+      based publisher Author House, which is a Print on Demand firm, meaning that a
+      copy is printed for each new incoming order.  The Author House edition is distributed
+      by the global consortia who serve bookstores as well as online sellers, meaning
+      that if you object to purchasing from Amazon and getting immediate delivery, you
+      can place an order for the book, whether in Russian or in English, at the book
+      store nearest you by making reference to Author House, 2020 and the ISBN which
+      is on the Amazon.com pages But delivery via your bookstore may take some weeks.
+      Third, the Russian edition was also published separately in Russia by a St Petersburg
+      arts publisher called Liki Rossii. This was done in the traditional manner, with
+      a fixed number of copies printed at once.  For those of you in Russia, the book
+      can be ordered from Ozon or by writing directly to the publisher in Petersburg.
+      Here is the link to the U.S. publisher to purchase the Russian edition directly
+      from them: https://www.authorhouse.com/en/search?query=%D0%B7%D0%B0%D0%BB%D0%B5%D1%81%D0%BE%D0%B2%D0%B0+%D0%BC%D0%BE%D0%B7%D0%B0%D0%B8%D0%BA%D0%B0+%D0%BC%D0%BE%D0%B5%D0%B9+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8
+      Here is the link to the Amazon Germany website to order the Russian version for
+      delivery within Europe. Hopefully, this covers all questions.   Best of luck to
+      you and happy reading!'
+    one_sentence_summary: The article provides guidance on purchasing Larisa's novel
+      "Mosaic of my Life," clarifying that buyers must use their respective Amazon country
+      websites and correcting the information about the availability of the Russian
+      edition, which is only available in paperback, not as an e-book.
+    paragraph_summary: The article provides guidance for potential buyers of Larisa's
+      novel "Mosaic of My Life," addressing common queries about purchasing the book
+      in English or Russian. It explains that Amazon operates country-specific websites,
+      so buyers in Canada must use amazon.ca, while European customers should access
+      their respective Amazon sites. The author corrects a previous error regarding
+      the Russian edition, clarifying that it is available only as a paperback, published
+      by Author House in the U.S. and a St. Petersburg publisher, Liki Rossii. The Author
+      House edition can be ordered through local bookstores using the ISBN provided,
+      while those in Russia can purchase it from Ozon or directly from the publisher.
+    published: '2025-08-03T18:16:04+00:00'
+  - title: All in the family
+    url: https://gilbertdoctorow.com/2025/08/03/all-in-the-family/
+    text: 'Luigi, a sharp-tongued colleague from my first corporate job in Brussels,
+      had many trenchant pieces of advice to share from his own life experience. One
+      of these was “two artists in the family is one too many.” Indeed, from the standpoint
+      of paying the monthly bills, that is all too often true. But there is another
+      dimension to his observation that has borne itself out very well in my family
+      life: a couple in which one spouse is academic minded and the other is artistic
+      minded can be a complementary and mutually reinforcing partnership. “Partnership”
+      may seem an odd way to describe matrimony to the younger readers in the Community
+      who know only about romance.  I myself was struck by the designation “partner”
+      which Prince Gremin uses when presenting his recent bride Tatyana to Onegin at
+      a ball in his palace (see Tchaikowsky, Yevgeny Onegin ). But then again, Gremin
+      is several decades her senior and after a certain age breeding ceases to be the
+      defining element in a relationship and other points in common take over, or the
+      relationship sours. I will not expand this introduction longer than needed. But
+      it is essential to make one other point here at the outset, a point which the
+      Harvard of my days never grasped and which American higher education in general
+      is unlikely to appreciate even today:  academic minds and artistic minds operate
+      in entirely different ways although they may arrive at the same Truth in the end
+      by their different pathways. Academic training prepares you to be a critic, meaning
+      straight lines and 90-degree angles. Artistic training prepares you to be creative,
+      meaning circuitous reasoning. And the final products of the two may meet up, but
+      only at the end of the working process. I have written narrative history based
+      on archival sources. That requires a certain imagination to breathe life into
+      dry papers. However, the names, facts about the historical personages are always
+      precisely supported by footnoted references.  Historical novels have no such limitations
+      on the imagination of the author. I write to present the best novel written by
+      my Russian wife, Larisa Vladimirovna Zalesova: Mosaic of my Life. Regrettably,
+      when it was first published the Covid pandemic, was about to strike and book promotion
+      was not on our agenda.  Now we seek to make amends. This is a sweeping history
+      of Russia in the 20 th century from the pre-Revolutionary normality through the
+      waves of suffering inflicted by Stalin on the broad population and horrors of
+      World War II straight up into the last quarter of the century. The heroine of
+      the novel is the daughter of an opera singer who performed in the Mariinsky Theater
+      in the circle of the great Russian basso Shalyapin, as well as in the Paris opera.
+      Some of the story line is taken from the reminiscences of the mother, whom my
+      wife interviewed in Paris. Other story elements come from the lives of members
+      of my wife’s family and friends in Petersburg. Readers will be surprised by various
+      adventures including the romance between the opera singer mother and a German
+      officer who saved them amidst the fighting in the South of Russia during the war.
+      But life is often filled with such contradictions to our expectations of relations.
+      I point out that the “Mosaic” in the title is not merely used in the abstract
+      sense of life experiences but in the concrete sense of Roman-era paintings in
+      stone: Crimea figures large in this novel, as it did in the life style of the
+      Russian aristocracy in the 19 th century and early 20 th . The opening pages describe
+      the fragments of Antique mosaics still found there which so impressed the heroine.
+      For those so interested, The Mosaic of My Life is also available in Russian in
+      an e-book version. Larisa in fact produced both English and Russian texts in parallel
+      so that both versions were released at the same time. I direct readers to the
+      Comments section at the bottom of the book’s Amazon.com web page. Yes, the reader
+      correctly identifies the Tolstoyan sweep of this historical novel.  Bulgakov told
+      us that ‘manuscripts do not burn” in his Master and Margarita . I suggest here
+      that novels published five years ago do not age.  I urge readers to use the Look
+      Inside function on Amazon to sample this work for themselves.'
+    one_sentence_summary: The author reflects on the advice of a former colleague about
+      the challenges of having two artists in a family, ultimately highlighting the
+      benefits of a partnership between an academically minded spouse and an artistically
+      inclined one.
+    paragraph_summary: In a reflection on the dynamics of partnerships, the author shares
+      insights from a former colleague, Luigi, who suggested that having two artists
+      in a family can complicate financial stability. However, the author argues that
+      a relationship where one partner is academically inclined and the other artistically
+      minded can create a complementary and enriching partnership. Drawing on the example
+      of Prince Gremin from Tchaikovsky's "Yevgeny Onegin," the author highlights that
+      as relationships mature, shared interests and mutual support become more significant
+      than traditional romantic notions. The author emphasizes the distinct ways academic
+      and artistic minds operate—academics favor structured, critical thinking while
+      artists embrace creativity and indirect reasoning—yet both can ultimately converge
+      on the same truths, as demonstrated in the author's own work in narrative history,
+      which blends factual rigor with imaginative storytelling.
+    published: '2025-08-03T08:36:48+00:00'
+  - title: All in the family
+    url: https://gilbertdoctorow.com/2025/08/03/all-in-the-family/
+    text: 'Luigi, a sharp-tongued colleague from my first corporate job in Brussels,
+      had many trenchant pieces of advice to share from his own life experience. One
+      of these was “two artists in the family is one too many.” Indeed, from the standpoint
+      of paying the monthly bills, that is all too often true. But there is another
+      dimension to his observation that has borne itself out very well in my family
+      life: a couple in which one spouse is academic minded and the other is artistic
+      minded can be a complementary and mutually reinforcing partnership. “Partnership”
+      may seem an odd way to describe matrimony to the younger readers in the Community
+      who know only about romance.  I myself was struck by the designation “partner”
+      which Prince Gremin uses when presenting his recent bride Tatyana to Onegin at
+      a ball in his palace (see Tchaikowsky, Yevgeny Onegin ). But then again, Gremin
+      is several decades her senior and after a certain age breeding ceases to be the
+      defining element in a relationship and other points in common take over, or the
+      relationship sours. I will not expand this introduction longer than needed. But
+      it is essential to make one other point here at the outset, a point which the
+      Harvard of my days never grasped and which American higher education in general
+      is unlikely to appreciate even today:  academic minds and artistic minds operate
+      in entirely different ways although they may arrive at the same Truth in the end
+      by their different pathways. Academic training prepares you to be a critic, meaning
+      straight lines and 90-degree angles. Artistic training prepares you to be creative,
+      meaning circuitous reasoning. And the final products of the two may meet up, but
+      only at the end of the working process. I have written narrative history based
+      on archival sources. That requires a certain imagination to breathe life into
+      dry papers. However, the names, facts about the historical personages are always
+      precisely supported by footnoted references.  Historical novels have no such limitations
+      on the imagination of the author. I write to present the best novel written by
+      my Russian wife, Larisa Vladimirovna Zalesova: Mosaic of my Life. Regrettably,
+      when it was first published the Covid pandemic, was about to strike and book promotion
+      was not on our agenda.  Now we seek to make amends. This is a sweeping history
+      of Russia in the 20 th century from the pre-Revolutionary normality through the
+      waves of suffering inflicted by Stalin on the broad population and horrors of
+      World War II straight up into the last quarter of the century. The heroine of
+      the novel is the daughter of an opera singer who performed in the Mariinsky Theater
+      in the circle of the great Russian basso Shalyapin, as well as in the Paris opera.
+      Some of the story line is taken from the reminiscences of the mother, whom my
+      wife interviewed in Paris. Other story elements come from the lives of members
+      of my wife’s family and friends in Petersburg. Readers will be surprised by various
+      adventures including the romance between the opera singer mother and a German
+      officer who saved them amidst the fighting in the South of Russia during the war.
+      But life is often filled with such contradictions to our expectations of relations.
+      I point out that the “Mosaic” in the title is not merely used in the abstract
+      sense of life experiences but in the concrete sense of Roman-era paintings in
+      stone: Crimea figures large in this novel, as it did in the life style of the
+      Russian aristocracy in the 19 th century and early 20 th . The opening pages describe
+      the fragments of Antique mosaics still found there which so impressed the heroine.
+      For those so interested, The Mosaic of My Life is also available in Russian in
+      an e-book version. Larisa in fact produced both English and Russian texts in parallel
+      so that both versions were released at the same time. I direct readers to the
+      Comments section at the bottom of the book’s Amazon.com web page. Yes, the reader
+      correctly identifies the Tolstoyan sweep of this historical novel.  Bulgakov told
+      us that ‘manuscripts do not burn” in his Master and Margarita . I suggest here
+      that novels published five years ago do not age.  I urge readers to use the Look
+      Inside function on Amazon to sample this work for themselves.'
+    one_sentence_summary: The author reflects on the advice of a former colleague about
+      the challenges of having two artists in a family, ultimately highlighting the
+      benefits of a partnership between an academically minded spouse and an artistically
+      inclined one.
+    paragraph_summary: In a reflection on the dynamics of partnerships, the author shares
+      insights from a former colleague, Luigi, who suggested that having two artists
+      in a family can complicate financial stability. However, the author argues that
+      a relationship where one partner is academically inclined and the other artistically
+      minded can create a complementary and enriching partnership. Drawing on the example
+      of Prince Gremin from Tchaikovsky's "Yevgeny Onegin," the author highlights that
+      as relationships mature, shared interests and mutual support become more significant
+      than traditional romantic notions. The author emphasizes the distinct ways academic
+      and artistic minds operate—academics favor structured, critical thinking while
+      artists embrace creativity and indirect reasoning—yet both can ultimately converge
+      on the same truths, as demonstrated in the author's own work in narrative history,
+      which blends factual rigor with imaginative storytelling.
+    published: '2025-08-03T08:36:48+00:00'
+  - title: Transcript of Glenn Diesen interview, 1 August
+    url: https://gilbertdoctorow.com/2025/08/02/transcript-of-glenn-diesen-interview-1-august/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=XEO16V1X7Fg
+      Prof. Glenn Diesen: 0:00 Hi everyone and welcome back. We’re joined today by Gilbert
+      Doctorow, an international affairs analyst, historian and author of books such
+      as “War Diaries: the Russia-Ukraine War”. So welcome to the show. I want to ask
+      you about the state of relations between the European Union and the United States,
+      because as we all know, von der Leyen and Trump, they reached a US-EU trade agreement.
+      And for many people, myself included, it looks more or less like a complete capitulation
+      and subordination, and something that could, I guess, change the relationship
+      between the EU and US, but also something that can undermine the internal cohesion
+      of the European Union itself. So given that you’re located there in Brussels,
+      what does this agreement actually include? And can you make any sense of it? Gilbert
+      Doctorow, PhD: 1:03 The agreement that was reached in Scotland has two important
+      sides to it. One is what everybody is talking about, the tariffs. And the tariffs
+      are now set at generally 15% down from a tentative 25% before an agreement was
+      reached. But that doesn’t cover all products and services. Airplanes or airplane
+      parts, for example, are not included in this. They are at a much lower tariff
+      rate. There are other products which will be negotiated still. For example, wines
+      and liquor, which are of great interest to one of the leading countries in the
+      EU, that is France, and that probably will be negotiated at a different level,
+      lower level, in the wishes of the French. But looking at the tariffs, that is
+      severe. It is compared to where we were at the start of the year. It is less than
+      the dramatic and ruinous tariffs that Trump had spoken about before he would negotiate
+      a deal. And will this bring European manufacturing across the ocean to the United
+      States at the expense of jobs in Europe? It’s not quite clear. There is very little
+      discussion of what Europe actually sells to the States and how vulnerable it is
+      to loss of market share due to price increases. That’s something we can perhaps
+      get into, but what I have in mind is that mass products, products that are bought
+      and used by the vast majority of the population, they are not typically European
+      products. They are Chinese products. European products include a lot of luxury
+      goods, and luxury goods are being sold to wealthy people for whom a 15% tariff
+      won’t make a big difference. 3:07 So the real impact on European sales in the
+      States from this agreement in Scotland still has to be refined. One cannot make
+      definitive statements yet, because it’s not complete. There are these negotiations
+      at the margins. But what was most outstanding and of course what impressed observers
+      of all political stripes by the way, not just observers who are anti-American
+      or pro-American. No, no. All observers came to one conclusion. It was, as you
+      say, a capitulation. To put it in other terms, it was an enormous humiliation
+      for Europe. Von der Leyen went to Scotland, cap in hand, as more or less a beggar
+      without any, not negotiating from strength, as I like to say these days. On the
+      contrary, she’s negotiating from weakness and from the fear that the failure to
+      reach an agreement would end in a tariff war that could cost Europe five million
+      jobs. So she was under enormous pressure to ingratiate herself with a man whom
+      she knows despises her. Trump has never made that a secret. And she came away
+      with something that isn’t too terrible. That’s the consensus, again, of observers
+      here in Europe. It’s not too terrible, but it’s bad and it’s particularly bad
+      for the way it was reached, because it demonstrated that there is no leverage
+      from the European side. 4:40 But that is one side of the story. The other side
+      of discussion was the commitment by Europe to purchase 650 billion dollars in
+      American hydrocarbons, that is, liquefied natural gas and petroleum, over the
+      next three years. That is potentially a far bigger impact on Europe from this
+      whole tariff discussion, because it locks in the non-competitive situation of
+      European wares on world markets. The single biggest factor in the deindustrialization
+      of Germany that has gone on for the last three years at least, when the Nord Stream
+      pipelines were destroyed, when Europe swore off buying more Russian pipeline gas
+      and cheap oil. That was a decisive factor making the German economy uncompetitive.
+      5:47 It was a decisive factor in whole sectors of industry shutting down completely,
+      those sectors that were highly dependent on cheap energy, like glass manufacturing,
+      for example. And fertilizers, of course. These were hit enormously. And the fertilizers
+      being hit, of course, has passed along to consumers in higher prices for all fresh
+      produce, which is produced with less efficiency, with lower yields when the fertilizers
+      are used more sparingly because it’s more expensive. So this aspect is not in
+      the featured news, when it deserves to be. As I said, it locks in the uncompetitive
+      status of European products on world markets. Now, can that figure be reached?
+      That is another question. Will they actually reach it? Will they actually achieve
+      that over the three-year period? These are quite big question marks. The United
+      States now exports 80 billion dollars a year of hydrocarbons to Europe. To go
+      from there to 215 billion dollars a year is a big stretch, particularly since
+      it’s not obvious that America has the production capacity to fill orders should
+      they come in. So that is all debatable. But if it were to be exercised, if in
+      some way the United States could achieve these exports and Europe could absorb
+      them, that will be a big dent in the European economies. And Europeans, the middle-of-the-road
+      supporters of Atlanticism, had been searching hard to explain why they were so
+      disadvantaged in the negotiations with Trump, how he was able to vanquish and
+      have von der Leyen kneeling before him and kissing the ring. This is something
+      that they’re debating. The Belgian leading French-speaking newspaper, “Le Soir”,
+      blames the problem on Europe’s over-dependence on exports to drive economic growth.
+      That is not a convincing argument to anyone who is aware of global trade, since
+      that is precisely the formula that China has used and continues to use so successfully
+      to achieve its enormous growth, presently 5% per annum, whereas in the first quarter
+      of ’25, the Europeans were displaying great pleasure to have 0.1% GDP growth.
+      Diesen: 8:33 Well, isn’t the real dilemma of the European Union then not that
+      they’re dependent on foreign trade, but that they’re excessively dependent on
+      the United States as a partner? Because it seems as if the EU wants to have a
+      reliable dependency on the United States as it had in previous decades. And in
+      order to do this, they have to win over the … I call it the good will or affection
+      of America by doing as they’re told, which includes reducing their economic ties
+      with countries such as Russia, China, Iran, and well, American adversaries. But
+      by trying to win over the love of Washington, they isolate themselves more in
+      the world and become more dependent on the United States. 9:25 So is this, by
+      committing themselves solely to the US, will this strengthen the relationship
+      with Washington, or will it undermine it by giving the Americans too much leverage
+      in this partnership? Doctorow: If “strengthen” means for both parties, of course
+      not. Strengthen the American leverage over Europe, definitely. The question is
+      why did Europe submit to this? Did it have to? What was the overriding consideration?
+      I think there is a certain understanding among many observers that the driving
+      force was defense. And they hope that by staying close to Trump, by submitting
+      to his will, they could maintain an ongoing conversation with him and persuade
+      him to do what they want most of all, which is to continue to support Ukraine
+      in its war on Russia, because they have made that, arbitrarily they have made
+      that an existential threat to themselves for the sake of the leadership staying
+      in power. That is to say, they’re singing and dancing and moving from the story
+      of last three years that “Russia has to be defeated” to the story of the present,
+      which is “We have to stay united. We need the present leadership in power because
+      this is the only way that we can rearm Europe and prepare for a war with Russia
+      that may take place as early as 2029.” That is the current story that the present
+      leadership in 25 out of 27 countries of the EU is putting forward to the press,
+      to the public at large, as their re-election bid and as their bid for support.
+      This is based on the same delusion that we’ve seen in their understanding of the
+      Russia-Ukraine war from the beginning. The delusion here is that they can persuade
+      Mr. Trump of anything. They can’t. And they’re listening to what he says, which
+      is a terrible mistake. Mr. Trump has nothing but contempt for the press. He has
+      nothing but contempt for most of the European leadership. He knows that they are
+      weak, that they are cowardly, they are conformist, and that they will be bullied.
+      And that is essentially what he is. He is a bully. He’s a bully who is successful
+      at this trick. And he is telling them one thing and doing something else. What
+      he’s doing is stopping supplies to Ukraine. What he’s doing– this is something
+      we can get into– is probably aiding and abetting the eviction of Zelensky from
+      office and his replacement by somebody who is capable of negotiating a peace treaty
+      with the Russians. So they are going to be bitterly disappointed. They’ve made
+      a bet, they have allowed themselves to be humiliated, for the sake of continuing
+      a war with American help, which will not happen. Diesen: 12:43 Yeah, this is a
+      comment I made all the way back in Munich when Vance gave this speech. And I was
+      making the point that the Europeans’ efforts to show their loyalty to the United
+      States instead of being rewarded, I think not just Trump, but at some general
+      level across the political class, they’re getting some contempt for the Europeans
+      for the, well, their spinelessness or the inability to stand up for their own
+      interests. So, and again, this is something I’ve heard from many people as well,
+      so the assumption here is you make a deal, a humiliating deal, a bit of subordination
+      and then somehow this would be rewarded by the United States locking in its presence
+      in Europe. But we also had the Ukrainians making the same assumption with this
+      minerals deal. If we just sign this deal, then Trump will be locked into the Ukraine
+      conflict. But a counter-argument would be then that he can come home to his own
+      people and say, “Look, I got our money back. Now we can leave.” I mean, do you
+      see this? You said they make a mistake by trusting that he will stay there. But
+      how do you see Trump’s commitment to Europe in the months to come, because he
+      has been making a lot more aggressive rhetoric towards the Russians. Is this essentially
+      what the Europeans bought themselves with this horrible trade agreement? Doctorow:
+      14:17 Well, he keeps everybody guessing, including those who have bet the House
+      on the unsuccessful relationship with Trump by the handshake agreement this past
+      weekend in Scotland. He keeps them all guessing. Even yesterday, there was this
+      expression of horror that was picked up by major media here in Western Europe
+      that Trump was about to do a deal, cut a deal with Vladimir Putin, that would
+      be vastly destructive of all the ambitions of the EU. I don’t think he’s going
+      to cut such a deal. I don’t think that he has anything to offer the Russians that
+      could persuade them to yield in any way on their conduct of the war, when the
+      victory on the ground is so close to being achieved. So that is also nonsense.
+      But they are uncertain. The Europeans here are hoping that they have him on line
+      and can persuade him by pointing to these terrible acts of bombing that the Russians
+      are committing now in Kiev and elsewhere. They can persuade him using Melanie
+      perhaps, all kinds of levers that they believe, want to believe, can get Trump
+      to change his mind in the hope that he is not a serious man, that he does not
+      have long-term vision, and that he can be changed from one day to the next by
+      somebody whispering in his ear. That is all false, completely false. Nonetheless,
+      it persists as a widespread notion of who Mr. Trump is, here in Western Europe.
+      And then you have the special relationship with Keir Starmer, which would seem
+      to demonstrate the validity of such assumptions about Trump. But also, Starmer
+      went to Scotland. Trump didn’t come down to London. 16:33 He was also a supplicant,
+      and the relationship there with the British, they have the most-favored tariff
+      deal out of all countries with the United States at present with a 10% tariff.
+      And they’re gloating over that. But they still have 50% tariffs on steel, which
+      were a very important export product to the United States. And so the British
+      have been given the hope that they have a favored position with the United States
+      as against Europe. But it can change at any moment. And I think that, again, looking
+      at politics, who stands where? Mr. Starmer, head of the Labor Party, which is
+      to the left, shall we say, of Mr. Trump’s politics. I don’t think he enjoys real
+      respect. Trump has it his way. And he gets a meeting with the king, that’s fine.
+      He likes pomp and circumstance. But I don’t think that he is genuinely influenced
+      in making policy on these superficial acts one way or another with this or that
+      state leader. He has his own determination to self-impose sanctions on the United
+      States by way of tariffs for the sake of re-industrializing the United States.
+      And I don’t think it’s a vain proposal. Diesen: 18:00 No, but some of these threats,
+      though, they seem to become actions. Well, I’m thinking then especially what Trump
+      is doing with the Indians, that is putting this additional tariffs on and justifying
+      it by their trade with the Russians. And this is why I was wondering as well,
+      these 10 days, which he has put on, well, it was 15, now it’s 10. Obviously, this
+      could become another 50 again. So these deadlines doesn’t necessarily have to
+      mean anything, but it does beg the question why he would make himself vulnerable
+      in terms of putting these deadlines to begin with. What is the thought process
+      here? What is it that he’s trying to achieve? And not if, when Russia predictably
+      ignores this, what will happen on day 10? Doctorow: 18:52 Well, let’s, there’s
+      speculation about day 11. But let me add to the complexity of the analysis, by
+      bringing in what Russians are talking about on their talk shows. I think it’s
+      a different perspective from what is being said by any of my peers in the United
+      States and Western Europe. And that is: why the 10 days, what is it all about?
+      It’s because 50 days, inconveniently, inconveniently expires on September 3rd.
+      And that is much too close to the celebration of the end of the World War II in
+      the Pacific, which will be marked by the visit of heads of state from all over
+      the place in Beijing. Putin will be there, I think 20, 30 or more heads of state
+      from around the world will be there. And Mr. Trump wants to be there. He wants
+      to have his face-to-face meeting with Xi during that time. And possibly he could
+      also have this, use that to have a face-to-face meeting with Putin. So I think
+      in consideration or reconsideration of how inconvenient the September 3rd closing
+      was in light of the new aspiration to meet with Xi in Beijing, which is supported
+      by a number of other things, namely his refusal to allow the president of Taiwan
+      to visit New York. I think their whole visit to the States was scrubbed with the
+      intent to avoid any embarrassing conflict with the Chinese that would interfere
+      with his being invited to the festivities in Beijing. So with that in mind, there’s
+      a different focus entirely on what his deadlines are about. There’s more than
+      one consideration when he sets these deadlines. Diesen: 20:57 When we look though
+      at the Europeans, there is a strange development. That is, they seem to solely
+      focus on foreign policy these days. This is as you mentioned with Starmer, this
+      is seemingly especially the case in the UK, where he spends very little time on
+      domestic issues. I guess you can say the same about Macron. And again, this trade
+      deal as well seems to sacrifice a lot of domestic priorities, that is to develop
+      an economy, deal with social issues. All of this is being, well, reduced in priority
+      in order to instead buy some favor with the Americans to, again, for foreign policy
+      objectives, no matter how foolish they might be, such as continuing the war in
+      Ukraine. But how long do you think this can go on for the Europeans? Because this
+      kind of doubles down on the disaster of first cutting themselves off from Russian
+      energy and then of course destroying, the destruction of Nord Stream. Did you
+      see the political instability permitting such an agreement to be passed, or not
+      really? Doctorow: 22:12 Well, one thing I wanted to bring up is what we mean when
+      we say “Europeans” and who makes European policy. I’ve been rereading my materials
+      going back to 2015 in preparation for the volume three of my memoirs. And I was
+      very focused on Germany in 2015, spoke about it at several conferences, and wrote
+      about it in what I consider to be a very important policy analysis that was published
+      in comparative politics of Megimo, the Russian university that prepares diplomats.
+      What I was saying then is the European policy is made in [Berlin], And this is
+      a well-kept secret. In 2015, just as in 2025, all the top posts in the European
+      institutions are German designated. They were appointed by Germans. And they have
+      appointed in this present case, von der Leyen has appointed people like Kallas,
+      people from Lithuania, people from Poland who are under her thumb. 23:33 They
+      are representing small countries, insignificant weight compared to the 450 million
+      population of the EU. They are often people with– intellectual lightweights like
+      Kallas who can be dominated by a strong and willful personality like von der Leyen.
+      And that is to say, the commissioner, the head of the president of the commission,
+      the head of the parliament, the president of the parliament, yes she’s Italian,
+      but she’s appointed by the majority which is dominated by the European People’s
+      Party which is dominated by the Christian Democrats. It all goes, but the strings
+      all go back to Berlin, just as they did in 2015 when Junker was there. Yes of
+      course, he was a Luxembourger, but he was a weak man who was … nominated and supported
+      by Merkel, because she knew she could controll him, because there were scandals
+      around, just as Tusk at that time. 24:37 He was made the president of the European
+      Council. Tusk, who could hardly speak English, but spoke very good German by the
+      way, was– she appointed him. And nobody bothered to think about what the German
+      connection was there. He was under her thumb. So that was how it was in 2015.
+      That’s how it is today. And just as– the only thing that’s changed is that Europe,
+      is that Germans today have come out behind, from behind the apron strings of EU
+      institutions and are saying openly that they want to become, for example, the
+      main military force in Europe. So the, who is Europe? Europe is Germany. Mr. Merz
+      is the decisive voice on whether the tariffs agreed by von der Leyen will go through.
+      And many other policy decisions. Your question about why foreign policy? That’s
+      what you do when you’re losing and you can’t control domestic policy. You’re speaking
+      about very unpopular leaders. 25:45 Keir Starmer has lost control of the Labour
+      Party on domestic issues. He had a very severe setback when his reforms on support
+      of the needy, of the wealth, of the benefits reforms were rejected by his own
+      party and watered down to almost nil where they hoped to save a lot of money in
+      the budget. Starmer on domestic issues is very weak. Therefore he can only hope
+      to shine on international issues where nobody can say much. The same is true of
+      Macron. His domestic standing is negligible. He has very little popular support.
+      And so he goes trotting around the globe, speaking like Mr. France and getting
+      the press to listen to him. This is normal politics of the losing side. Diesen:
+      26:46 What does it say about the future of the European Union though? Because
+      not only was this a terrible agreement being made, but as you suggested before,
+      the optics wasn’t great either. That is, von der Leyen coming to Trump’s golf
+      course in Scotland. And well, the general benefit, I guess, or attractiveness
+      of the European Union to begin with has always been this collective bargaining
+      power, that they can negotiate from a position of strength. With obviously the
+      US being the most important partner; that you can have some equality between Europe
+      and the US as opposed to having 27 member states stand on their own. But if we
+      look back in the ’90s, early 2000s, this was the main selling point of the European
+      Union as well. That is, it could set this asymmetrical interdependence with its
+      neighborhood in the wider world. That is, when the EU sat down to negotiate trade
+      with another state, Moldova or anyone, then the EU could dictate all the terms
+      and not only having a favorable economic agreement, but they can also translate
+      this into political power. So they set political conditions for trade, which became
+      a form of external governance, which is why many people in academia refer to the
+      EU as a regulatory power or regulatory superpower. If you want to trade with us,
+      you have to follow our rules. 28:12 And this imperial model is maybe a bit over
+      the top, but nonetheless, what will happen to the EU now? Because there is no
+      equality with the US. The EU has … kissed the ring of Trump and subordinated itself
+      and also with the rest of the world as the economic power of the EU continues
+      to decline, as its leaders look more and more incompetent and corrupt and unable
+      to reach proper agreements, this whole geopolitical EU, It seems to become more
+      of a burden. If you’re Germany, you want to have good trade deal with the Chinese,
+      you don’t bring the EU along because they will come with their geopolitical objective,
+      which means to insult the Chinese instead. So, well, what does this say about
+      the future of the European Union? Is this club, you know, is this a death sentence
+      or is it, you know, expiring? How are you reading it? It’s not a good sign at
+      least, I would say. Doctorow: 29:17 To relax, I often turn on YouTube and just
+      see what they’re proposing to look at. And mixed in with the geopolitical videos,
+      they have a lot of animal videos, particularly dogs. I think about one of these
+      little videos which has a German shepherd and a golden retriever. They’re in the
+      middle of a maze, And the golden retriever is saying, “We’re doomed.” Europe is
+      doomed. The present configuration is doomed. This cannot continue. They are driving
+      down the welfare of people directly in measurable ways. As I’ve written recently,
+      the rejuggling of the Belgian budget, which the new Flemish-dominated federal
+      government has put into place, takes away benefits from what has been outstanding
+      medical services, severe cuts. This is typical. The cuts are being made to make
+      room for the burgeoning re-armament program, which is all a result of a dead wrong
+      foreign policy. I’m just wondering when this will come out and we will have demonstrations
+      similar to what we saw in Kiev a week ago. 31:03 This cannot go on forever. It
+      defies gravity that the national leaderships in Belgium and in 25 out of 27 other
+      member states of the European Union are working directly against the interests
+      of the people who voted them into office. That is becoming more and more apparent
+      as the budgets are revised to take away benefits for the sake of raising arms
+      manufacturing, for the purpose of fighting a war which is unnecessary, which is
+      driven by the same personal ambition as Mr. Netanyahu and his war in Gaza. That
+      is called out by the Western press now openly. This is not just a supposition
+      of people like you and me. It is accepted as mainstream that Netanyahu is fighting
+      a war to keep himself from going to court and prison. I say the same thing about
+      all of the European leaders. They are pushing re-armament to avoid being put out
+      in the street where they belong, because the budgets that they are submitting
+      to the member states are anti-popular, they are against the people. It cannot
+      go on, and so I agree with that … golden retriever: we’re doomed. Diesen: 32:34
+      If, well, if you’re going to look at how this will affect Europe, then obviously,
+      given that the main purpose of this trade agreement was to tie the Americans in
+      and commit them to Project Ukraine. But also a lot of, as you said, a lot of the
+      political elites there, they see their hold on to power that is in Brussels, dependent
+      on the continuation of the Ukraine war again. Continuation of Ukraine war is necessary
+      to keep America in Europe, it’s necessary to keep these political elites in power.
+      But beyond that, we also see that not just the European Union, but the European
+      member states bet a lot of political legitimacy on defeating Russia. And not just
+      the political legitimacy, the entire economy has been thrown into this and sacrificed.
+      So what happens when the Ukraine war is eventually lost? And well, it depends
+      what a defeat looks like, but what the Europeans were promising, they’re destroying
+      Russia and having the Ukraine join NATO, all of this obviously is not going to
+      happen. 33:59 And I think that’s an important question now, that Zelensky looks
+      as if he is somewhat in a weaker position. He’s no longer the reincarnation of
+      Churchill, apparently. And suddenly the Europeans, you know, a few weeks ago,
+      it was Russian propaganda to say that he was an authoritarian. Now, suddenly,
+      it’s permitted. So what do you see happening with Zelensky and Ukraine? How does
+      this affect Europe once we eventually lose this war? Doctorow: 34:35 It’s permitted
+      not just to YouTube channels, it’s permitted to the “Financial Times”. They use
+      that word in a headline of an article dealing with the new law stripping the anti-corruption
+      agencies of their independence. He is damaged goods now. And he’s damaged goods
+      in the Anglo-Saxon press in particular, on both sides of the Atlantic. Now, the
+      question that I’ve had is: who was behind the enabling of the demonstrations that
+      took place, the mass demonstrations that took place in Kiev and in other major
+      cities in Ukraine over the course of several days, in the past week, against the
+      law, which ultimately ended in the revocation of the new law and restoration of
+      what is said to be the independence of these agencies. 35:36 The speculation,
+      and again, I will share with your audience what the Russians are saying about
+      this. They’re saying that we can expect in the immediate future, very scandalous
+      trials. Already yesterday’s indication [was] that the newly installed prime minister
+      was about to be charged with corrupt practices for having used together with Yermak,
+      the head of the presidential administration, Ukrainian airplanes which are only
+      to be used for state purposes. She as the prime minister has the right to use
+      it. Yermak didn’t. It was pretty obvious that she was doing the man who was behind
+      her, who protects her, Mr. Yermak, she was doing this trip with him for his benefit,
+      not for her own. So that’s the first shoe to fall. There are going to be some
+      very big accusations made in the next few weeks against people in the close entourage
+      of Zelensky and probably of Zelensky himself. 36:53 We are now in the last stages
+      of Zelensky’s time in office. The question is who is pushing this most? Is it
+      Britain with the MI6 who helped arrange that the Ukrainian police and military
+      would not attack the demonstrators? Or was it the CIA? There are two. These are
+      now, you could say in the past they were one and the same, but not any more, because
+      the United States and Britain have parted ways on the Ukraine war. For the Brits
+      to have done this, it would be to replace Zelensky probably with Zaluzhny. Let’s
+      remember for the last year and a half Zaluzhny, who was the head of the armed
+      forces of Ukraine for several years and who was viewed by Americans in particular
+      as being a good candidate to replace Zelensky, was moved out of Kiev and sent
+      off into exile to London precisely so that to avoid that eventuality, that he
+      would be on the inside, being able to muster support if the West nodded to him
+      as the one to succeed Zelensky. 38:16 Well, he’s been biding his time in London.
+      He’s been learning English, because he hardly could say two words when he arrived
+      there. And he got there because he had said at the time what was true, how badly
+      the Ukrainians were losing the war. And that was unacceptable to Zelensky. Now,
+      that is one possibility. Another candidate, one that I call out on the American
+      side is a very different story by saying Zaluzhny would be put in if the intent
+      was to continue the war and to have somebody who has more credibility with American
+      and West European suppliers of arms to Ukraine, because he is a genuine military
+      person, and his orders would not be for PR stunts like Zelensky’s were, but having
+      some genuine military foundation. Now, the other I’m saying is the Americans probably
+      have a different game. If they were behind this, then it is probably to install
+      somebody like Umerov, who is now the leader of negotiations in Istanbul. Umerov
+      is a civilian. Umerov is a Crimean Tatar, a Muslim by the way, probably speaks
+      some Arabic, some Turkish, it would be logical. He has been a leading personality
+      in Ukrainian meetings with the Gulf States. 39:45 More importantly for the United
+      States, he’s their boy. When he was in secondary school, he spent a year in the
+      United States living with an American family. When he went back, finished his
+      higher education, became a successful businessman in high tech area, made a lot
+      of money, he established fellowships for Ukrainians at Stanford University. Why
+      Stanford University? Why United States? So he has an American connection, which
+      is always looked upon. He doesn’t have an American wife, but you can’t get everything.
+      40:21 So he would suit the Americans very nicely as a stand-in and it is reasonable
+      to assume that he could and would negotiate a peace treaty with the Russians,
+      not on the ridiculous basis of Russian capitulation, but something close to Russian
+      demands. Diesen: 40:41 Yeah, this is interesting though. Of course, who Zelensky
+      is replaced with will be a good indication of what’s intended for Ukraine to go.
+      That is, is it continuing the war or not? But yeah, I remember back in the days
+      when it looked as if Zelensky was on very shaky grounds and I thought that he
+      might be going away and then instead of course he shipped Zaluzhny to London which
+      is an interesting thing. So I guess Zelensky would, well people like Aristović
+      have said he will probably leave. I mean, I would also expect him to go to Miami
+      or the south of France, but there will be a lot of pressure in the future to have
+      him return to Ukraine. He made himself a lot of enemies and it wouldn’t be very
+      difficult to put in a criminal case against him. However, how do you see, as I
+      guess my last question, how do you see the war progressing from here though? Is
+      peace agreement now completely off the table or will it depend on who comes after
+      Zelensky? Because it seems as if it would be possible to get an agreement on Ukraine’s
+      neutrality that is going back to Istanbul. The problem is the plus, Istanbul plus
+      the territorial concessions, especially humiliating would be to have a recognition
+      of territories which aren’t even seized by Russia yet, that is of the four regions.
+      But as Russia progresses on the territory, that humiliation wouldn’t it be reduced.
+      That is the Russians are controlling more and more territory. In other words,
+      the gap between what they demand and what they already have is reduced. Do you
+      see any possibility of anyone in Ukraine accepting these terms? Because you said
+      they’re quite draconian. It’s, you know, I’ll be the first to say that Russians
+      have some very high demands upon Ukraine. Doctorow: 42:59 They are especially
+      high demands when you’re demanding a concessionary territory that you haven’t
+      even won on the battlefield. I think that problem will be solved before September.
+      I think it’s entirely to be envisaged that Russia will sweep to the Dnieper. Chasov
+      Yar was fought over for more than six weeks, seven weeks. This is a logistics
+      center that was highly contested, very well armed, protected, fortified, and Russians
+      finally overran it in the last few days. The next big center is in Pakrovsk, which
+      the Russians call Krasnoyarsk, that is now facing Russian troops on the outskirts
+      of the city. This has been going on for months, of course, this progress. 43:58
+      The Russians draw it out because they have wanted to avoid close-contact fighting,
+      which can be very expensive in human life for both sides. They’ve mostly been
+      conducting their war on Pakrovsk with aerial bombing, artillery bombing, and so
+      forth, which costs them very little in lost soldiers and officers, but it’s quite
+      devastating to the Ukrainian side. Once they take Pakrovsk, it’s a clean sweep
+      across to the Dniepr. And so I think that if they take Pakrovsk in the next few
+      weeks, they will take the whole of Donetsk and possibly Zaporizhzhye by September.
+      And then the Russians can be generous in the terms of a settlement, because they
+      will not have to haggle over taking territory that they didn’t win on the ground.
+      45:04 So that would be a good time to look for a settlement. Again, coming close
+      to Mr. Trump’s original deadline of first days of September, in anticipation of
+      the general meeting of world powers in Beijing to celebrate the 80th anniversary
+      of the end of the war in the Pacific. I think these things come together. And
+      so I would look for a change of leadership in Kiev within that timeframe, engineered
+      either by the United States or by the Brits, depending on – now that will depend
+      whether a peace treaty can be negotiated. But on the ground, the Russians will
+      have gotten what they want. Diesen: 45:53 Yeah, it looks, yeah, I think people–
+      often you look at the defensive lines, obviously it’s not much west of Pakrovsk,
+      but as you pointed out in this war especially, the logistics is really important
+      and these logistics centers of Chasuviar, Kopiansk is what we can put in this.
+      And Pakrovsk I think will be very important to crack the final stretch towards
+      the Dnieper. So– Well, thank you as always. It’s always a great pleasure to get
+      your insights on this. So thanks again. And for people who want to follow you,
+      you have your Substack. And of course, I’ll leave a link to your book, anywhere
+      else people should look for you? Doctorow: No, no, that sums it up. If they look
+      at the substack, just look at the last few issues because I’m particularly proud
+      of, as I say, of 2015, which was quite a remarkable year for understanding who
+      is who in Europe. Diesen: 47:03 Oh, thanks again. Doctorow: All right.'
+    one_sentence_summary: In a discussion about the recent US-EU trade agreement, international
+      affairs analyst Gilbert Doctorow expresses concerns that it may signify a capitulation
+      of the EU to US interests, potentially undermining both the EU's internal cohesion
+      and its relationship with the United States.
+    paragraph_summary: In a recent discussion, Professor Glenn Diesen interviewed international
+      affairs analyst Gilbert Doctorow about the implications of a new US-EU trade agreement
+      reached in Scotland. Doctorow described the agreement as a significant shift,
+      reducing tariffs from a proposed 25% to 15%, although it does not encompass all
+      products, notably excluding airplanes and certain wines. He expressed concerns
+      that this deal could signify a capitulation of the EU to US interests, potentially
+      undermining the internal cohesion of the European Union. The long-term effects
+      on European manufacturing and job markets remain uncertain, as the agreement does
+      not clarify how it will impact what Europe exports.
+    published: '2025-08-02T17:36:00+00:00'
+  - title: Transcript of Glenn Diesen interview, 1 August
+    url: https://gilbertdoctorow.com/2025/08/02/transcript-of-glenn-diesen-interview-1-august/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=XEO16V1X7Fg
+      Prof. Glenn Diesen: 0:00 Hi everyone and welcome back. We’re joined today by Gilbert
+      Doctorow, an international affairs analyst, historian and author of books such
+      as “War Diaries: the Russia-Ukraine War”. So welcome to the show. I want to ask
+      you about the state of relations between the European Union and the United States,
+      because as we all know, von der Leyen and Trump, they reached a US-EU trade agreement.
+      And for many people, myself included, it looks more or less like a complete capitulation
+      and subordination, and something that could, I guess, change the relationship
+      between the EU and US, but also something that can undermine the internal cohesion
+      of the European Union itself. So given that you’re located there in Brussels,
+      what does this agreement actually include? And can you make any sense of it? Gilbert
+      Doctorow, PhD: 1:03 The agreement that was reached in Scotland has two important
+      sides to it. One is what everybody is talking about, the tariffs. And the tariffs
+      are now set at generally 15% down from a tentative 25% before an agreement was
+      reached. But that doesn’t cover all products and services. Airplanes or airplane
+      parts, for example, are not included in this. They are at a much lower tariff
+      rate. There are other products which will be negotiated still. For example, wines
+      and liquor, which are of great interest to one of the leading countries in the
+      EU, that is France, and that probably will be negotiated at a different level,
+      lower level, in the wishes of the French. But looking at the tariffs, that is
+      severe. It is compared to where we were at the start of the year. It is less than
+      the dramatic and ruinous tariffs that Trump had spoken about before he would negotiate
+      a deal. And will this bring European manufacturing across the ocean to the United
+      States at the expense of jobs in Europe? It’s not quite clear. There is very little
+      discussion of what Europe actually sells to the States and how vulnerable it is
+      to loss of market share due to price increases. That’s something we can perhaps
+      get into, but what I have in mind is that mass products, products that are bought
+      and used by the vast majority of the population, they are not typically European
+      products. They are Chinese products. European products include a lot of luxury
+      goods, and luxury goods are being sold to wealthy people for whom a 15% tariff
+      won’t make a big difference. 3:07 So the real impact on European sales in the
+      States from this agreement in Scotland still has to be refined. One cannot make
+      definitive statements yet, because it’s not complete. There are these negotiations
+      at the margins. But what was most outstanding and of course what impressed observers
+      of all political stripes by the way, not just observers who are anti-American
+      or pro-American. No, no. All observers came to one conclusion. It was, as you
+      say, a capitulation. To put it in other terms, it was an enormous humiliation
+      for Europe. Von der Leyen went to Scotland, cap in hand, as more or less a beggar
+      without any, not negotiating from strength, as I like to say these days. On the
+      contrary, she’s negotiating from weakness and from the fear that the failure to
+      reach an agreement would end in a tariff war that could cost Europe five million
+      jobs. So she was under enormous pressure to ingratiate herself with a man whom
+      she knows despises her. Trump has never made that a secret. And she came away
+      with something that isn’t too terrible. That’s the consensus, again, of observers
+      here in Europe. It’s not too terrible, but it’s bad and it’s particularly bad
+      for the way it was reached, because it demonstrated that there is no leverage
+      from the European side. 4:40 But that is one side of the story. The other side
+      of discussion was the commitment by Europe to purchase 650 billion dollars in
+      American hydrocarbons, that is, liquefied natural gas and petroleum, over the
+      next three years. That is potentially a far bigger impact on Europe from this
+      whole tariff discussion, because it locks in the non-competitive situation of
+      European wares on world markets. The single biggest factor in the deindustrialization
+      of Germany that has gone on for the last three years at least, when the Nord Stream
+      pipelines were destroyed, when Europe swore off buying more Russian pipeline gas
+      and cheap oil. That was a decisive factor making the German economy uncompetitive.
+      5:47 It was a decisive factor in whole sectors of industry shutting down completely,
+      those sectors that were highly dependent on cheap energy, like glass manufacturing,
+      for example. And fertilizers, of course. These were hit enormously. And the fertilizers
+      being hit, of course, has passed along to consumers in higher prices for all fresh
+      produce, which is produced with less efficiency, with lower yields when the fertilizers
+      are used more sparingly because it’s more expensive. So this aspect is not in
+      the featured news, when it deserves to be. As I said, it locks in the uncompetitive
+      status of European products on world markets. Now, can that figure be reached?
+      That is another question. Will they actually reach it? Will they actually achieve
+      that over the three-year period? These are quite big question marks. The United
+      States now exports 80 billion dollars a year of hydrocarbons to Europe. To go
+      from there to 215 billion dollars a year is a big stretch, particularly since
+      it’s not obvious that America has the production capacity to fill orders should
+      they come in. So that is all debatable. But if it were to be exercised, if in
+      some way the United States could achieve these exports and Europe could absorb
+      them, that will be a big dent in the European economies. And Europeans, the middle-of-the-road
+      supporters of Atlanticism, had been searching hard to explain why they were so
+      disadvantaged in the negotiations with Trump, how he was able to vanquish and
+      have von der Leyen kneeling before him and kissing the ring. This is something
+      that they’re debating. The Belgian leading French-speaking newspaper, “Le Soir”,
+      blames the problem on Europe’s over-dependence on exports to drive economic growth.
+      That is not a convincing argument to anyone who is aware of global trade, since
+      that is precisely the formula that China has used and continues to use so successfully
+      to achieve its enormous growth, presently 5% per annum, whereas in the first quarter
+      of ’25, the Europeans were displaying great pleasure to have 0.1% GDP growth.
+      Diesen: 8:33 Well, isn’t the real dilemma of the European Union then not that
+      they’re dependent on foreign trade, but that they’re excessively dependent on
+      the United States as a partner? Because it seems as if the EU wants to have a
+      reliable dependency on the United States as it had in previous decades. And in
+      order to do this, they have to win over the … I call it the good will or affection
+      of America by doing as they’re told, which includes reducing their economic ties
+      with countries such as Russia, China, Iran, and well, American adversaries. But
+      by trying to win over the love of Washington, they isolate themselves more in
+      the world and become more dependent on the United States. 9:25 So is this, by
+      committing themselves solely to the US, will this strengthen the relationship
+      with Washington, or will it undermine it by giving the Americans too much leverage
+      in this partnership? Doctorow: If “strengthen” means for both parties, of course
+      not. Strengthen the American leverage over Europe, definitely. The question is
+      why did Europe submit to this? Did it have to? What was the overriding consideration?
+      I think there is a certain understanding among many observers that the driving
+      force was defense. And they hope that by staying close to Trump, by submitting
+      to his will, they could maintain an ongoing conversation with him and persuade
+      him to do what they want most of all, which is to continue to support Ukraine
+      in its war on Russia, because they have made that, arbitrarily they have made
+      that an existential threat to themselves for the sake of the leadership staying
+      in power. That is to say, they’re singing and dancing and moving from the story
+      of last three years that “Russia has to be defeated” to the story of the present,
+      which is “We have to stay united. We need the present leadership in power because
+      this is the only way that we can rearm Europe and prepare for a war with Russia
+      that may take place as early as 2029.” That is the current story that the present
+      leadership in 25 out of 27 countries of the EU is putting forward to the press,
+      to the public at large, as their re-election bid and as their bid for support.
+      This is based on the same delusion that we’ve seen in their understanding of the
+      Russia-Ukraine war from the beginning. The delusion here is that they can persuade
+      Mr. Trump of anything. They can’t. And they’re listening to what he says, which
+      is a terrible mistake. Mr. Trump has nothing but contempt for the press. He has
+      nothing but contempt for most of the European leadership. He knows that they are
+      weak, that they are cowardly, they are conformist, and that they will be bullied.
+      And that is essentially what he is. He is a bully. He’s a bully who is successful
+      at this trick. And he is telling them one thing and doing something else. What
+      he’s doing is stopping supplies to Ukraine. What he’s doing– this is something
+      we can get into– is probably aiding and abetting the eviction of Zelensky from
+      office and his replacement by somebody who is capable of negotiating a peace treaty
+      with the Russians. So they are going to be bitterly disappointed. They’ve made
+      a bet, they have allowed themselves to be humiliated, for the sake of continuing
+      a war with American help, which will not happen. Diesen: 12:43 Yeah, this is a
+      comment I made all the way back in Munich when Vance gave this speech. And I was
+      making the point that the Europeans’ efforts to show their loyalty to the United
+      States instead of being rewarded, I think not just Trump, but at some general
+      level across the political class, they’re getting some contempt for the Europeans
+      for the, well, their spinelessness or the inability to stand up for their own
+      interests. So, and again, this is something I’ve heard from many people as well,
+      so the assumption here is you make a deal, a humiliating deal, a bit of subordination
+      and then somehow this would be rewarded by the United States locking in its presence
+      in Europe. But we also had the Ukrainians making the same assumption with this
+      minerals deal. If we just sign this deal, then Trump will be locked into the Ukraine
+      conflict. But a counter-argument would be then that he can come home to his own
+      people and say, “Look, I got our money back. Now we can leave.” I mean, do you
+      see this? You said they make a mistake by trusting that he will stay there. But
+      how do you see Trump’s commitment to Europe in the months to come, because he
+      has been making a lot more aggressive rhetoric towards the Russians. Is this essentially
+      what the Europeans bought themselves with this horrible trade agreement? Doctorow:
+      14:17 Well, he keeps everybody guessing, including those who have bet the House
+      on the unsuccessful relationship with Trump by the handshake agreement this past
+      weekend in Scotland. He keeps them all guessing. Even yesterday, there was this
+      expression of horror that was picked up by major media here in Western Europe
+      that Trump was about to do a deal, cut a deal with Vladimir Putin, that would
+      be vastly destructive of all the ambitions of the EU. I don’t think he’s going
+      to cut such a deal. I don’t think that he has anything to offer the Russians that
+      could persuade them to yield in any way on their conduct of the war, when the
+      victory on the ground is so close to being achieved. So that is also nonsense.
+      But they are uncertain. The Europeans here are hoping that they have him on line
+      and can persuade him by pointing to these terrible acts of bombing that the Russians
+      are committing now in Kiev and elsewhere. They can persuade him using Melanie
+      perhaps, all kinds of levers that they believe, want to believe, can get Trump
+      to change his mind in the hope that he is not a serious man, that he does not
+      have long-term vision, and that he can be changed from one day to the next by
+      somebody whispering in his ear. That is all false, completely false. Nonetheless,
+      it persists as a widespread notion of who Mr. Trump is, here in Western Europe.
+      And then you have the special relationship with Keir Starmer, which would seem
+      to demonstrate the validity of such assumptions about Trump. But also, Starmer
+      went to Scotland. Trump didn’t come down to London. 16:33 He was also a supplicant,
+      and the relationship there with the British, they have the most-favored tariff
+      deal out of all countries with the United States at present with a 10% tariff.
+      And they’re gloating over that. But they still have 50% tariffs on steel, which
+      were a very important export product to the United States. And so the British
+      have been given the hope that they have a favored position with the United States
+      as against Europe. But it can change at any moment. And I think that, again, looking
+      at politics, who stands where? Mr. Starmer, head of the Labor Party, which is
+      to the left, shall we say, of Mr. Trump’s politics. I don’t think he enjoys real
+      respect. Trump has it his way. And he gets a meeting with the king, that’s fine.
+      He likes pomp and circumstance. But I don’t think that he is genuinely influenced
+      in making policy on these superficial acts one way or another with this or that
+      state leader. He has his own determination to self-impose sanctions on the United
+      States by way of tariffs for the sake of re-industrializing the United States.
+      And I don’t think it’s a vain proposal. Diesen: 18:00 No, but some of these threats,
+      though, they seem to become actions. Well, I’m thinking then especially what Trump
+      is doing with the Indians, that is putting this additional tariffs on and justifying
+      it by their trade with the Russians. And this is why I was wondering as well,
+      these 10 days, which he has put on, well, it was 15, now it’s 10. Obviously, this
+      could become another 50 again. So these deadlines doesn’t necessarily have to
+      mean anything, but it does beg the question why he would make himself vulnerable
+      in terms of putting these deadlines to begin with. What is the thought process
+      here? What is it that he’s trying to achieve? And not if, when Russia predictably
+      ignores this, what will happen on day 10? Doctorow: 18:52 Well, let’s, there’s
+      speculation about day 11. But let me add to the complexity of the analysis, by
+      bringing in what Russians are talking about on their talk shows. I think it’s
+      a different perspective from what is being said by any of my peers in the United
+      States and Western Europe. And that is: why the 10 days, what is it all about?
+      It’s because 50 days, inconveniently, inconveniently expires on September 3rd.
+      And that is much too close to the celebration of the end of the World War II in
+      the Pacific, which will be marked by the visit of heads of state from all over
+      the place in Beijing. Putin will be there, I think 20, 30 or more heads of state
+      from around the world will be there. And Mr. Trump wants to be there. He wants
+      to have his face-to-face meeting with Xi during that time. And possibly he could
+      also have this, use that to have a face-to-face meeting with Putin. So I think
+      in consideration or reconsideration of how inconvenient the September 3rd closing
+      was in light of the new aspiration to meet with Xi in Beijing, which is supported
+      by a number of other things, namely his refusal to allow the president of Taiwan
+      to visit New York. I think their whole visit to the States was scrubbed with the
+      intent to avoid any embarrassing conflict with the Chinese that would interfere
+      with his being invited to the festivities in Beijing. So with that in mind, there’s
+      a different focus entirely on what his deadlines are about. There’s more than
+      one consideration when he sets these deadlines. Diesen: 20:57 When we look though
+      at the Europeans, there is a strange development. That is, they seem to solely
+      focus on foreign policy these days. This is as you mentioned with Starmer, this
+      is seemingly especially the case in the UK, where he spends very little time on
+      domestic issues. I guess you can say the same about Macron. And again, this trade
+      deal as well seems to sacrifice a lot of domestic priorities, that is to develop
+      an economy, deal with social issues. All of this is being, well, reduced in priority
+      in order to instead buy some favor with the Americans to, again, for foreign policy
+      objectives, no matter how foolish they might be, such as continuing the war in
+      Ukraine. But how long do you think this can go on for the Europeans? Because this
+      kind of doubles down on the disaster of first cutting themselves off from Russian
+      energy and then of course destroying, the destruction of Nord Stream. Did you
+      see the political instability permitting such an agreement to be passed, or not
+      really? Doctorow: 22:12 Well, one thing I wanted to bring up is what we mean when
+      we say “Europeans” and who makes European policy. I’ve been rereading my materials
+      going back to 2015 in preparation for the volume three of my memoirs. And I was
+      very focused on Germany in 2015, spoke about it at several conferences, and wrote
+      about it in what I consider to be a very important policy analysis that was published
+      in comparative politics of Megimo, the Russian university that prepares diplomats.
+      What I was saying then is the European policy is made in [Berlin], And this is
+      a well-kept secret. In 2015, just as in 2025, all the top posts in the European
+      institutions are German designated. They were appointed by Germans. And they have
+      appointed in this present case, von der Leyen has appointed people like Kallas,
+      people from Lithuania, people from Poland who are under her thumb. 23:33 They
+      are representing small countries, insignificant weight compared to the 450 million
+      population of the EU. They are often people with– intellectual lightweights like
+      Kallas who can be dominated by a strong and willful personality like von der Leyen.
+      And that is to say, the commissioner, the head of the president of the commission,
+      the head of the parliament, the president of the parliament, yes she’s Italian,
+      but she’s appointed by the majority which is dominated by the European People’s
+      Party which is dominated by the Christian Democrats. It all goes, but the strings
+      all go back to Berlin, just as they did in 2015 when Junker was there. Yes of
+      course, he was a Luxembourger, but he was a weak man who was … nominated and supported
+      by Merkel, because she knew she could controll him, because there were scandals
+      around, just as Tusk at that time. 24:37 He was made the president of the European
+      Council. Tusk, who could hardly speak English, but spoke very good German by the
+      way, was– she appointed him. And nobody bothered to think about what the German
+      connection was there. He was under her thumb. So that was how it was in 2015.
+      That’s how it is today. And just as– the only thing that’s changed is that Europe,
+      is that Germans today have come out behind, from behind the apron strings of EU
+      institutions and are saying openly that they want to become, for example, the
+      main military force in Europe. So the, who is Europe? Europe is Germany. Mr. Merz
+      is the decisive voice on whether the tariffs agreed by von der Leyen will go through.
+      And many other policy decisions. Your question about why foreign policy? That’s
+      what you do when you’re losing and you can’t control domestic policy. You’re speaking
+      about very unpopular leaders. 25:45 Keir Starmer has lost control of the Labour
+      Party on domestic issues. He had a very severe setback when his reforms on support
+      of the needy, of the wealth, of the benefits reforms were rejected by his own
+      party and watered down to almost nil where they hoped to save a lot of money in
+      the budget. Starmer on domestic issues is very weak. Therefore he can only hope
+      to shine on international issues where nobody can say much. The same is true of
+      Macron. His domestic standing is negligible. He has very little popular support.
+      And so he goes trotting around the globe, speaking like Mr. France and getting
+      the press to listen to him. This is normal politics of the losing side. Diesen:
+      26:46 What does it say about the future of the European Union though? Because
+      not only was this a terrible agreement being made, but as you suggested before,
+      the optics wasn’t great either. That is, von der Leyen coming to Trump’s golf
+      course in Scotland. And well, the general benefit, I guess, or attractiveness
+      of the European Union to begin with has always been this collective bargaining
+      power, that they can negotiate from a position of strength. With obviously the
+      US being the most important partner; that you can have some equality between Europe
+      and the US as opposed to having 27 member states stand on their own. But if we
+      look back in the ’90s, early 2000s, this was the main selling point of the European
+      Union as well. That is, it could set this asymmetrical interdependence with its
+      neighborhood in the wider world. That is, when the EU sat down to negotiate trade
+      with another state, Moldova or anyone, then the EU could dictate all the terms
+      and not only having a favorable economic agreement, but they can also translate
+      this into political power. So they set political conditions for trade, which became
+      a form of external governance, which is why many people in academia refer to the
+      EU as a regulatory power or regulatory superpower. If you want to trade with us,
+      you have to follow our rules. 28:12 And this imperial model is maybe a bit over
+      the top, but nonetheless, what will happen to the EU now? Because there is no
+      equality with the US. The EU has … kissed the ring of Trump and subordinated itself
+      and also with the rest of the world as the economic power of the EU continues
+      to decline, as its leaders look more and more incompetent and corrupt and unable
+      to reach proper agreements, this whole geopolitical EU, It seems to become more
+      of a burden. If you’re Germany, you want to have good trade deal with the Chinese,
+      you don’t bring the EU along because they will come with their geopolitical objective,
+      which means to insult the Chinese instead. So, well, what does this say about
+      the future of the European Union? Is this club, you know, is this a death sentence
+      or is it, you know, expiring? How are you reading it? It’s not a good sign at
+      least, I would say. Doctorow: 29:17 To relax, I often turn on YouTube and just
+      see what they’re proposing to look at. And mixed in with the geopolitical videos,
+      they have a lot of animal videos, particularly dogs. I think about one of these
+      little videos which has a German shepherd and a golden retriever. They’re in the
+      middle of a maze, And the golden retriever is saying, “We’re doomed.” Europe is
+      doomed. The present configuration is doomed. This cannot continue. They are driving
+      down the welfare of people directly in measurable ways. As I’ve written recently,
+      the rejuggling of the Belgian budget, which the new Flemish-dominated federal
+      government has put into place, takes away benefits from what has been outstanding
+      medical services, severe cuts. This is typical. The cuts are being made to make
+      room for the burgeoning re-armament program, which is all a result of a dead wrong
+      foreign policy. I’m just wondering when this will come out and we will have demonstrations
+      similar to what we saw in Kiev a week ago. 31:03 This cannot go on forever. It
+      defies gravity that the national leaderships in Belgium and in 25 out of 27 other
+      member states of the European Union are working directly against the interests
+      of the people who voted them into office. That is becoming more and more apparent
+      as the budgets are revised to take away benefits for the sake of raising arms
+      manufacturing, for the purpose of fighting a war which is unnecessary, which is
+      driven by the same personal ambition as Mr. Netanyahu and his war in Gaza. That
+      is called out by the Western press now openly. This is not just a supposition
+      of people like you and me. It is accepted as mainstream that Netanyahu is fighting
+      a war to keep himself from going to court and prison. I say the same thing about
+      all of the European leaders. They are pushing re-armament to avoid being put out
+      in the street where they belong, because the budgets that they are submitting
+      to the member states are anti-popular, they are against the people. It cannot
+      go on, and so I agree with that … golden retriever: we’re doomed. Diesen: 32:34
+      If, well, if you’re going to look at how this will affect Europe, then obviously,
+      given that the main purpose of this trade agreement was to tie the Americans in
+      and commit them to Project Ukraine. But also a lot of, as you said, a lot of the
+      political elites there, they see their hold on to power that is in Brussels, dependent
+      on the continuation of the Ukraine war again. Continuation of Ukraine war is necessary
+      to keep America in Europe, it’s necessary to keep these political elites in power.
+      But beyond that, we also see that not just the European Union, but the European
+      member states bet a lot of political legitimacy on defeating Russia. And not just
+      the political legitimacy, the entire economy has been thrown into this and sacrificed.
+      So what happens when the Ukraine war is eventually lost? And well, it depends
+      what a defeat looks like, but what the Europeans were promising, they’re destroying
+      Russia and having the Ukraine join NATO, all of this obviously is not going to
+      happen. 33:59 And I think that’s an important question now, that Zelensky looks
+      as if he is somewhat in a weaker position. He’s no longer the reincarnation of
+      Churchill, apparently. And suddenly the Europeans, you know, a few weeks ago,
+      it was Russian propaganda to say that he was an authoritarian. Now, suddenly,
+      it’s permitted. So what do you see happening with Zelensky and Ukraine? How does
+      this affect Europe once we eventually lose this war? Doctorow: 34:35 It’s permitted
+      not just to YouTube channels, it’s permitted to the “Financial Times”. They use
+      that word in a headline of an article dealing with the new law stripping the anti-corruption
+      agencies of their independence. He is damaged goods now. And he’s damaged goods
+      in the Anglo-Saxon press in particular, on both sides of the Atlantic. Now, the
+      question that I’ve had is: who was behind the enabling of the demonstrations that
+      took place, the mass demonstrations that took place in Kiev and in other major
+      cities in Ukraine over the course of several days, in the past week, against the
+      law, which ultimately ended in the revocation of the new law and restoration of
+      what is said to be the independence of these agencies. 35:36 The speculation,
+      and again, I will share with your audience what the Russians are saying about
+      this. They’re saying that we can expect in the immediate future, very scandalous
+      trials. Already yesterday’s indication [was] that the newly installed prime minister
+      was about to be charged with corrupt practices for having used together with Yermak,
+      the head of the presidential administration, Ukrainian airplanes which are only
+      to be used for state purposes. She as the prime minister has the right to use
+      it. Yermak didn’t. It was pretty obvious that she was doing the man who was behind
+      her, who protects her, Mr. Yermak, she was doing this trip with him for his benefit,
+      not for her own. So that’s the first shoe to fall. There are going to be some
+      very big accusations made in the next few weeks against people in the close entourage
+      of Zelensky and probably of Zelensky himself. 36:53 We are now in the last stages
+      of Zelensky’s time in office. The question is who is pushing this most? Is it
+      Britain with the MI6 who helped arrange that the Ukrainian police and military
+      would not attack the demonstrators? Or was it the CIA? There are two. These are
+      now, you could say in the past they were one and the same, but not any more, because
+      the United States and Britain have parted ways on the Ukraine war. For the Brits
+      to have done this, it would be to replace Zelensky probably with Zaluzhny. Let’s
+      remember for the last year and a half Zaluzhny, who was the head of the armed
+      forces of Ukraine for several years and who was viewed by Americans in particular
+      as being a good candidate to replace Zelensky, was moved out of Kiev and sent
+      off into exile to London precisely so that to avoid that eventuality, that he
+      would be on the inside, being able to muster support if the West nodded to him
+      as the one to succeed Zelensky. 38:16 Well, he’s been biding his time in London.
+      He’s been learning English, because he hardly could say two words when he arrived
+      there. And he got there because he had said at the time what was true, how badly
+      the Ukrainians were losing the war. And that was unacceptable to Zelensky. Now,
+      that is one possibility. Another candidate, one that I call out on the American
+      side is a very different story by saying Zaluzhny would be put in if the intent
+      was to continue the war and to have somebody who has more credibility with American
+      and West European suppliers of arms to Ukraine, because he is a genuine military
+      person, and his orders would not be for PR stunts like Zelensky’s were, but having
+      some genuine military foundation. Now, the other I’m saying is the Americans probably
+      have a different game. If they were behind this, then it is probably to install
+      somebody like Umerov, who is now the leader of negotiations in Istanbul. Umerov
+      is a civilian. Umerov is a Crimean Tatar, a Muslim by the way, probably speaks
+      some Arabic, some Turkish, it would be logical. He has been a leading personality
+      in Ukrainian meetings with the Gulf States. 39:45 More importantly for the United
+      States, he’s their boy. When he was in secondary school, he spent a year in the
+      United States living with an American family. When he went back, finished his
+      higher education, became a successful businessman in high tech area, made a lot
+      of money, he established fellowships for Ukrainians at Stanford University. Why
+      Stanford University? Why United States? So he has an American connection, which
+      is always looked upon. He doesn’t have an American wife, but you can’t get everything.
+      40:21 So he would suit the Americans very nicely as a stand-in and it is reasonable
+      to assume that he could and would negotiate a peace treaty with the Russians,
+      not on the ridiculous basis of Russian capitulation, but something close to Russian
+      demands. Diesen: 40:41 Yeah, this is interesting though. Of course, who Zelensky
+      is replaced with will be a good indication of what’s intended for Ukraine to go.
+      That is, is it continuing the war or not? But yeah, I remember back in the days
+      when it looked as if Zelensky was on very shaky grounds and I thought that he
+      might be going away and then instead of course he shipped Zaluzhny to London which
+      is an interesting thing. So I guess Zelensky would, well people like Aristović
+      have said he will probably leave. I mean, I would also expect him to go to Miami
+      or the south of France, but there will be a lot of pressure in the future to have
+      him return to Ukraine. He made himself a lot of enemies and it wouldn’t be very
+      difficult to put in a criminal case against him. However, how do you see, as I
+      guess my last question, how do you see the war progressing from here though? Is
+      peace agreement now completely off the table or will it depend on who comes after
+      Zelensky? Because it seems as if it would be possible to get an agreement on Ukraine’s
+      neutrality that is going back to Istanbul. The problem is the plus, Istanbul plus
+      the territorial concessions, especially humiliating would be to have a recognition
+      of territories which aren’t even seized by Russia yet, that is of the four regions.
+      But as Russia progresses on the territory, that humiliation wouldn’t it be reduced.
+      That is the Russians are controlling more and more territory. In other words,
+      the gap between what they demand and what they already have is reduced. Do you
+      see any possibility of anyone in Ukraine accepting these terms? Because you said
+      they’re quite draconian. It’s, you know, I’ll be the first to say that Russians
+      have some very high demands upon Ukraine. Doctorow: 42:59 They are especially
+      high demands when you’re demanding a concessionary territory that you haven’t
+      even won on the battlefield. I think that problem will be solved before September.
+      I think it’s entirely to be envisaged that Russia will sweep to the Dnieper. Chasov
+      Yar was fought over for more than six weeks, seven weeks. This is a logistics
+      center that was highly contested, very well armed, protected, fortified, and Russians
+      finally overran it in the last few days. The next big center is in Pakrovsk, which
+      the Russians call Krasnoyarsk, that is now facing Russian troops on the outskirts
+      of the city. This has been going on for months, of course, this progress. 43:58
+      The Russians draw it out because they have wanted to avoid close-contact fighting,
+      which can be very expensive in human life for both sides. They’ve mostly been
+      conducting their war on Pakrovsk with aerial bombing, artillery bombing, and so
+      forth, which costs them very little in lost soldiers and officers, but it’s quite
+      devastating to the Ukrainian side. Once they take Pakrovsk, it’s a clean sweep
+      across to the Dniepr. And so I think that if they take Pakrovsk in the next few
+      weeks, they will take the whole of Donetsk and possibly Zaporizhzhye by September.
+      And then the Russians can be generous in the terms of a settlement, because they
+      will not have to haggle over taking territory that they didn’t win on the ground.
+      45:04 So that would be a good time to look for a settlement. Again, coming close
+      to Mr. Trump’s original deadline of first days of September, in anticipation of
+      the general meeting of world powers in Beijing to celebrate the 80th anniversary
+      of the end of the war in the Pacific. I think these things come together. And
+      so I would look for a change of leadership in Kiev within that timeframe, engineered
+      either by the United States or by the Brits, depending on – now that will depend
+      whether a peace treaty can be negotiated. But on the ground, the Russians will
+      have gotten what they want. Diesen: 45:53 Yeah, it looks, yeah, I think people–
+      often you look at the defensive lines, obviously it’s not much west of Pakrovsk,
+      but as you pointed out in this war especially, the logistics is really important
+      and these logistics centers of Chasuviar, Kopiansk is what we can put in this.
+      And Pakrovsk I think will be very important to crack the final stretch towards
+      the Dnieper. So– Well, thank you as always. It’s always a great pleasure to get
+      your insights on this. So thanks again. And for people who want to follow you,
+      you have your Substack. And of course, I’ll leave a link to your book, anywhere
+      else people should look for you? Doctorow: No, no, that sums it up. If they look
+      at the substack, just look at the last few issues because I’m particularly proud
+      of, as I say, of 2015, which was quite a remarkable year for understanding who
+      is who in Europe. Diesen: 47:03 Oh, thanks again. Doctorow: All right.'
+    one_sentence_summary: In a discussion about the recent US-EU trade agreement, international
+      affairs analyst Gilbert Doctorow expresses concerns that it may signify a capitulation
+      of the EU to US interests, potentially undermining both the EU's internal cohesion
+      and its relationship with the United States.
+    paragraph_summary: In a recent discussion, Professor Glenn Diesen interviewed international
+      affairs analyst Gilbert Doctorow about the implications of a new US-EU trade agreement
+      reached in Scotland. Doctorow described the agreement as a significant shift,
+      reducing tariffs from a proposed 25% to 15%, although it does not encompass all
+      products, notably excluding airplanes and certain wines. He expressed concerns
+      that this deal could signify a capitulation of the EU to US interests, potentially
+      undermining the internal cohesion of the European Union. The long-term effects
+      on European manufacturing and job markets remain uncertain, as the agreement does
+      not clarify how it will impact what Europe exports.
+    published: '2025-08-02T17:36:00+00:00'
+  - title: Interview with Professor Glenn Diesen:  Europe is doomed, Regime change in
+      Kiev
+    url: https://gilbertdoctorow.com/2025/08/01/interview-with-professor-glenn-diesen-europe-is-doomed-regime-change-in-kiev/
+    text: 'This 47 minute discussion with Professor Diesen was concentrated on the two
+      interrelated issues in the headline. Europe is doomed because 25 of the 27 heads
+      of government of the European Member States presently have no interest in the
+      prosperity and wellbeing of their citizens and are interested only in holding
+      on to power, for which purpose maintaining support for Ukraine in its war with
+      Russia and rearming Europe in preparation for a NATO-Russia war in 2029 are their
+      top priority. Europe’s capitulation to Trump over tariffs may be explained by
+      the hope it would keep Trump on side over further aid to Ukraine.  This, of course,
+      is utterly delusional, since Trump has clearly shown he wants the USA to exit
+      that war as soon as possible without any regard for Europe’s wishes. Regime change
+      in Kiev is coming soon. Thanks to the scandal over a new law that stripped the
+      anti-corruption agencies in Ukraine of their independence, Zelensky lost credibility
+      both in the USA and in Europe. Major media now speak of him as authoritarian,
+      meaning anti-democratic. The wave of protests in Kiev and other major Ukrainian
+      cities was unprecedented in the three years of war and suggests to me the active
+      intervention of one or another Western power to bring down Zelensky and achieve
+      regime change.  The question of the day: was it the Brits, who surely would like
+      to install as president General Zaluzhny, former commander in chief of the Ukrainian
+      armed forces, who has been serving as Ukrainian ambassador to the UK these past
+      18 months.  Zaluzhny as president would mean continuation of the war under the
+      direction of someone who actually understands military strategy as opposed to
+      the PR driven direction of the armed forces from Zelensky.  For their part, the
+      Americans surely would favor as successor Zelensky Umerov, the current head of
+      the Ukrainian negotiating team in talks with the Russians in Istanbul.  Umerov
+      is a civilian who made a fortune in high tech commerce and who has a clear connection
+      to the USA going back to his secondary school year spent in America.  Umerov,
+      we may assume, could negotiate a peace with the Russians if he were his own man,
+      not a subordinate to Zelensky as he is presently. ©Gilbert Doctorow, 2025 Interview
+      with Professor Glenn Diesen:  Europe is doomed, Regime change in Kiev This 47
+      minute discussion with Professor Diesen was concentrated on the two interrelated
+      issues in the headline. Europe is doomed because 25 of the 27 heads of government
+      of the European Member States presently have no interest in the prosperity and
+      wellbeing of their citizens and are interested only in holding on to power, for
+      which purpose maintaining support for Ukraine in its war with Russia and rearming
+      Europe in preparation for a NATO-Russia war in 2029 are their top priority. Europe’s
+      capitulation to Trump over tariffs may be explained by the hope it would keep
+      Trump on side over further aid to Ukraine.  This, of course, is utterly delusional,
+      since Trump has clearly shown he wants the USA to exit that war as soon as possible
+      without any regard for Europe’s wishes. Regime change in Kiev is coming soon.
+      Thanks to the scandal over a new law that stripped the anti-corruption agencies
+      in Ukraine of their independence, Zelensky lost credibility both in the USA and
+      in Europe. Major media now speak of him as authoritarian, meaning anti-democratic.
+      The wave of protests in Kiev and other major Ukrainian cities was unprecedented
+      in the three years of war and suggests to me the active intervention of one or
+      another Western power to bring down Zelensky and achieve regime change.  The question
+      of the day: was it the Brits, who surely would like to install as president General
+      Zaluzhny, former commander in chief of the Ukrainian armed forces, who has been
+      serving as Ukrainian ambassador to the UK these past 18 months.  Zaluzhny as president
+      would mean continuation of the war under the direction of someone who actually
+      understands military strategy as opposed to the PR driven direction of the armed
+      forces from Zelensky.  For their part, the Americans surely would favor as successor
+      Zelensky Umerov, the current head of the Ukrainian negotiating team in talks with
+      the Russians in Istanbul.  Umerov is a civilian who made a fortune in high tech
+      commerce and who has a clear connection to the USA going back to his secondary
+      school year spent in America.  Umerov, we may assume, could negotiate a peace
+      with the Russians if he were his own man, not a subordinate to Zelensky as he
+      is presently. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: In a discussion with Professor Diesen, it was argued that
+      Europe faces dire prospects due to the self-serving priorities of its leaders,
+      who are focused on maintaining power through support for Ukraine and military
+      rearmament, while neglecting the welfare of their citizens and facing impending
+      regime change in Ukraine amid growing disillusionment with President Zelensky.
+    paragraph_summary: In a recent 47-minute discussion with Professor Diesen, the focus
+      was on the bleak future of Europe, where 25 out of 27 European leaders prioritize
+      their political power over the welfare of their citizens, primarily by supporting
+      Ukraine in its conflict with Russia and preparing for a potential NATO-Russia
+      war in 2029. Diesen argues that Europe's capitulation to Trump regarding tariffs
+      reflects a misguided hope for continued U.S. support for Ukraine, despite Trump's
+      apparent desire to withdraw from the conflict. He highlights the loss of credibility
+      for Ukrainian President Zelensky due to a controversial law undermining anti-corruption
+      agencies, leading to unprecedented protests in Ukraine and speculation about imminent
+      regime change. Potential successors to Zelensky are discussed, including General
+      Zaluzhny, favored by the UK for his military expertise, and Umerov, the current
+      head of Ukraine's negotiating team, who may align more closely with American interests.
+    published: '2025-08-01T19:44:44+00:00'
+  - title: Interview with Professor Glenn Diesen:  Europe is doomed, Regime change in
+      Kiev
+    url: https://gilbertdoctorow.com/2025/08/01/interview-with-professor-glenn-diesen-europe-is-doomed-regime-change-in-kiev/
+    text: 'This 47 minute discussion with Professor Diesen was concentrated on the two
+      interrelated issues in the headline. Europe is doomed because 25 of the 27 heads
+      of government of the European Member States presently have no interest in the
+      prosperity and wellbeing of their citizens and are interested only in holding
+      on to power, for which purpose maintaining support for Ukraine in its war with
+      Russia and rearming Europe in preparation for a NATO-Russia war in 2029 are their
+      top priority. Europe’s capitulation to Trump over tariffs may be explained by
+      the hope it would keep Trump on side over further aid to Ukraine.  This, of course,
+      is utterly delusional, since Trump has clearly shown he wants the USA to exit
+      that war as soon as possible without any regard for Europe’s wishes. Regime change
+      in Kiev is coming soon. Thanks to the scandal over a new law that stripped the
+      anti-corruption agencies in Ukraine of their independence, Zelensky lost credibility
+      both in the USA and in Europe. Major media now speak of him as authoritarian,
+      meaning anti-democratic. The wave of protests in Kiev and other major Ukrainian
+      cities was unprecedented in the three years of war and suggests to me the active
+      intervention of one or another Western power to bring down Zelensky and achieve
+      regime change.  The question of the day: was it the Brits, who surely would like
+      to install as president General Zaluzhny, former commander in chief of the Ukrainian
+      armed forces, who has been serving as Ukrainian ambassador to the UK these past
+      18 months.  Zaluzhny as president would mean continuation of the war under the
+      direction of someone who actually understands military strategy as opposed to
+      the PR driven direction of the armed forces from Zelensky.  For their part, the
+      Americans surely would favor as successor Zelensky Umerov, the current head of
+      the Ukrainian negotiating team in talks with the Russians in Istanbul.  Umerov
+      is a civilian who made a fortune in high tech commerce and who has a clear connection
+      to the USA going back to his secondary school year spent in America.  Umerov,
+      we may assume, could negotiate a peace with the Russians if he were his own man,
+      not a subordinate to Zelensky as he is presently. ©Gilbert Doctorow, 2025 Interview
+      with Professor Glenn Diesen:  Europe is doomed, Regime change in Kiev This 47
+      minute discussion with Professor Diesen was concentrated on the two interrelated
+      issues in the headline. Europe is doomed because 25 of the 27 heads of government
+      of the European Member States presently have no interest in the prosperity and
+      wellbeing of their citizens and are interested only in holding on to power, for
+      which purpose maintaining support for Ukraine in its war with Russia and rearming
+      Europe in preparation for a NATO-Russia war in 2029 are their top priority. Europe’s
+      capitulation to Trump over tariffs may be explained by the hope it would keep
+      Trump on side over further aid to Ukraine.  This, of course, is utterly delusional,
+      since Trump has clearly shown he wants the USA to exit that war as soon as possible
+      without any regard for Europe’s wishes. Regime change in Kiev is coming soon.
+      Thanks to the scandal over a new law that stripped the anti-corruption agencies
+      in Ukraine of their independence, Zelensky lost credibility both in the USA and
+      in Europe. Major media now speak of him as authoritarian, meaning anti-democratic.
+      The wave of protests in Kiev and other major Ukrainian cities was unprecedented
+      in the three years of war and suggests to me the active intervention of one or
+      another Western power to bring down Zelensky and achieve regime change.  The question
+      of the day: was it the Brits, who surely would like to install as president General
+      Zaluzhny, former commander in chief of the Ukrainian armed forces, who has been
+      serving as Ukrainian ambassador to the UK these past 18 months.  Zaluzhny as president
+      would mean continuation of the war under the direction of someone who actually
+      understands military strategy as opposed to the PR driven direction of the armed
+      forces from Zelensky.  For their part, the Americans surely would favor as successor
+      Zelensky Umerov, the current head of the Ukrainian negotiating team in talks with
+      the Russians in Istanbul.  Umerov is a civilian who made a fortune in high tech
+      commerce and who has a clear connection to the USA going back to his secondary
+      school year spent in America.  Umerov, we may assume, could negotiate a peace
+      with the Russians if he were his own man, not a subordinate to Zelensky as he
+      is presently. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: In a discussion with Professor Diesen, it was argued that
+      Europe faces dire prospects due to the self-serving priorities of its leaders,
+      who are focused on maintaining power through support for Ukraine and military
+      rearmament, while neglecting the welfare of their citizens and facing impending
+      regime change in Ukraine amid growing disillusionment with President Zelensky.
+    paragraph_summary: In a recent 47-minute discussion with Professor Diesen, the focus
+      was on the bleak future of Europe, where 25 out of 27 European leaders prioritize
+      their political power over the welfare of their citizens, primarily by supporting
+      Ukraine in its conflict with Russia and preparing for a potential NATO-Russia
+      war in 2029. Diesen argues that Europe's capitulation to Trump regarding tariffs
+      reflects a misguided hope for continued U.S. support for Ukraine, despite Trump's
+      apparent desire to withdraw from the conflict. He highlights the loss of credibility
+      for Ukrainian President Zelensky due to a controversial law undermining anti-corruption
+      agencies, leading to unprecedented protests in Ukraine and speculation about imminent
+      regime change. Potential successors to Zelensky are discussed, including General
+      Zaluzhny, favored by the UK for his military expertise, and Umerov, the current
+      head of Ukraine's negotiating team, who may align more closely with American interests.
+    published: '2025-08-01T19:44:44+00:00'
+  - title: Transcript of ‘Judging Freedom,’ 30 July
+    url: https://gilbertdoctorow.com/2025/07/30/transcript-of-judging-freedom-30-july/
+    text: 'Transcription submitted by a reader https://www.youtube.com/watch?v=K1Bud26z87M
+      Napolitano: 0:34 Hi, everyone. Judge Andrew Napolitano here for “Judging Freedom”.
+      Today is Wednesday, July 30th, 2025. Professor Gilbert Doctorow will be here with
+      us in just a moment on “The European Union capitulates to Trump”. What’s behind
+      it? But first this. [commercial message] 2:01 Professor Doctorow, good day to
+      you, my dear friend. Thank you very much for joining me today. Thanks for accommodating
+      my schedule. What has been the general reaction amongst European leaders and European
+      media to the announcement by Ursula von der Leyen and Donald Trump the other day
+      about this agreement for 15% tariffs for everything the EU wants to sell in the
+      US? Gilbert Doctorow, PhD: I don’t know of anyone who was rejoicing on that here
+      in Europe. On the contrary, the consensus is that this is a tragic moment for
+      Europe, that this will cost them dearly in future investments in manufacturing,
+      which will now be directed to the United States by their local manufacturers here,
+      because it is the only way for them to save their market share in the States under
+      the new regime of US duties. So jobs will move to the States, jobs will be lost
+      here, and there is the understanding that the very low growth, or negative growth
+      in some countries, that has prevailed in Europe for the last two to three years
+      will continue indefinitely when this new system is applied. The question is how
+      do you explain the capitulation? 3:33 I think most everyone understands that von
+      der Leyen was kissing Trump’s ring, bending the knee, and that Europe was a supplicant
+      and not an equal partner in negotiations. Napolitano: Some of your colleagues
+      on this show have criticized the agreement, arguing as you did, but in addition,
+      we can’t even read it because it’s not even been reduced to writing. Is that true?
+      Have they just agreed on the 15% and nothing has been reduced to writing yet?
+      Doctorow: There is nothing more than a handshake as far as we know. But that is
+      sufficient for these purposes because there [is] a lot of detail work that has
+      to be done. This is not assumed to be the comprehensive and complete agreement.
+      There will be some discussions at the margins. For example, over the fate of automobiles,
+      will they be at the 25% or indeed at 15%, such as liquor, which was not a subject
+      of agreement during that meeting in Scotland. So there are these little bits and
+      pieces along the way, but the general understanding is a 15 percent blanket tariff
+      on all European wares. That may be accepted as a solid fact, not as a speculation.
+      Napolitano: Back to what you said a few minutes ago, I suppose you could manufacture
+      a Mercedes-Benz automobile in Tennessee, but you can’t make French champagne in
+      New Jersey. So some of the goods and products unique to Europe cannot be put together
+      here. Impossible. Doctorow: 5:21 Yes, that’s true. So they will forego some of
+      their sales volume in products like champagne or fine wines. That is a given.
+      And that is part of what some critics say is wrong with the European economy that
+      has been very dependent on exports for future growth. This was precisely the line
+      of critique in the leading Belgian French-speaking newspaper, Le Soir, a couple
+      of days ago. They’re looking for explanations. How was it that we were so weak
+      in these negotiations? Of course, that logic doesn’t hold up when you consider
+      that China is another part of the world where exports have driven growth. 6:08
+      And they record five percent GDP annual growth, not 0.1 percent as the Europeans
+      are now boasting about the first quarter results in 2025. So that is an excuse
+      that this paper, that people like this paper, who are supporters of the status
+      quo in Europe, are exploring to explain what went wrong. But in their discussion,
+      there is a fact which really is evident when you look at it closely, and that
+      is they capitulated to Trump on the trade agreement because they’re hoping to
+      keep him in play. They’re hoping that they can agree with Trump on further support
+      to Ukraine, which is the leading issue of all of the heads of state and prime
+      ministers in Europe. Napollitano: I want to get into that in some depth with you,
+      but before we do, one or two more questions about the Trump-Von der Leyen agreement.
+      What’s the next step for the agreement? I mean, is this it, or do the French who’ve
+      condemned it and the Germans who’ve condemned it have the ability to veto or modify
+      or create carve-outs? Doctorow: Well, they do. This is not just on the say-so
+      of von der Leyen that a treaty is agreed and is imposed on all the 27 member states.
+      It has to go through parliament. It requires a ratification. And that is going
+      to take a lot of negotiation within Europe. Considering that the largest economy
+      in Europe, Germany, headed by a defeatist leader in terms of the tarif war, but
+      a bold leader in terms of the future war with Russia, considering his role, how
+      he and his party, the Christian Democrats, are leaders of the European People’s
+      Party, which is the most important party in the European Parliament. And he, Merz,
+      has come out two days ago saying that this is, yes, it’s a black day for Europe,
+      but, but, but … but this is the best that we could get. That assumes that the
+      Germans will vote for the deal. 8:37 The French are going to put up a lot of resistance.
+      Let’s remember that the major economies are the ones that are most interested
+      in the nature of the agreement with the States because they have the biggest trade
+      flows with the States. The smaller countries, the smaller economies here are,
+      well, let’s say, bystanders. They are not going to have a decisive say. They will
+      follow what they are told to do by the likes of Germany. So the French are the
+      single biggest points of resistance to the agreement that von der Leyen has set
+      down, not just the the so-called far right of Marine Le Pen, who instantly came
+      out condemning this, but even the centrist Bayrou, the prime minister installed
+      by Macron to manage the difficulties he has with his parliament, he came out against
+      it as well. 9:38 So the French are going to dig in their deals and they will certainly
+      demand concessions, though I doubt that they will overturn the agreement that
+      von der Leyen reached, because so many other countries will follow Germany’s lead.
+      Napolitano: Is it a simple majority vote in the European Parliament? Is it country
+      by country? Is it two-thirds? How does it work? Doctorow: No, to my knowledge
+      it would be a majority vote. Napolitano: All right, and you’re of the view that
+      not withstanding this disenchantment for other reasons, which we’ll get into presently,
+      this will likely be ratified. Doctorow: I think it will be. There will be modifications.
+      Napolitano: Is she popular, von der Leyen, or is she not popular? That’s an inartful
+      question. Is she popular with the folks in the streets? Is she popular with elites?
+      Doctorow: No, I think it’s with elites. And “popular” is not an adjective I would
+      apply here. Respected, willing to accept her judgment. However, let’s remember
+      from the last several weeks, she was under fierce challenge in the parliament,
+      and this was covered in the daily news. So the broader public, and even among
+      elites, they are aware that she has opposition for the way she has managed the
+      parliament and the European institutions. So she doesn’t have a free ride any
+      more. Her situation is more tenuous than it was before the challenge to the way
+      she negotiated the covid vaccine contracts. 11:14 That has put her in some jeopardy.
+      And I think the broad public is aware of that, though it has other problems to
+      worry about and isn’t very concerned about Madame van der Leyen. Napolitano: I
+      mean, let’s just suppose, this may be fantastical, but let’s just suppose Marie
+      Le Pen becomes the President of France. What can she do, if anything, to get out
+      of this? Doctorow: Well, let’s look first as what von der Leyen is doing to get
+      us into this. She has appointed the commissioners, all of whom, or a large majority
+      of the important or key positions, she’s assigned to the non-entity countries,
+      the Baltics and other East European countries, which are under German sway. She
+      has appointed people who are intellectually inferior in the expectation that she
+      could dominate them, and that has turned out to be true. Now, if Marine Le Pen
+      came in, all of these people would be thrown out, and you might have a chance
+      of seeing competent people who represent the 450 million people, a population
+      of the European Union, and not people like Kallas, who comes from a country with
+      one million population, who are drawing Europe around by the nose for the sake
+      of their anti-Russian positions. So everything could change in policies, because
+      the policies now are made by those who are under the direct instruction and control
+      of von der Leyen. Anyone who replaces her will certainly not enjoy that position
+      of strength to appoint all of the commissioners and to control the whole of European
+      policy the way von der Leyen has in the last several years. Napolitano: 13:04
+      Okay, got it. But if the agreement with Trump is reduced to writing and ratified,
+      and if France rebels, there’s nothing much they could do about it, right? This
+      is part of the treaty that created the EU. They’re subject to this, or am I wrong?
+      Doctorow: No, you’re right. But again, there is something here that we have to
+      call out. There are parts of this agreement which are utterly unenforceable and
+      which are probably the most damaging to the European economy. Napolitano: What
+      are they? Doctorow: Not the 15 percent tariff, but the obligation to buy 650 billion
+      dollars of American energy. That is the single biggest factor weighing on the
+      weak European economies, starting with the German economy. This, the dependence
+      on liquefied natural gas at world prices, which has been the case ever since the
+      destruction of the North Stream pipelines and the decisions in Parliament to phase
+      out as quickly as possible use of Russian energy supplies — that has been the
+      destructive factor in European economies more than this 15 percent tariff can
+      possibly be. And the obligation to buy this, well, an obligation. What kind of
+      obligations did the Chinese have in previous agreements with the United States?
+      They never were effected. 14:34 And I doubt that this one ever will be carried
+      out because the people who have signed onto it will not be in office. Napolitano:
+      Got it. I don’t want to put you out on a limb, but which is the greater threat
+      to European economic stability? Russia or the United States? Doctorow: At this
+      point it’s the United States. To anyone with eyes to see what Mr. Trump has just
+      done, the complete humiliation of Europe, the imposition of tariffs and purchase
+      obligations from the United States, that is destructive of the European economy.
+      It is not the act of a friend. And in that context, you have to ask, well, why
+      are they going along with this? And there you have to look for the small print.
+      15:26 And is I said, even in the “Soir” editorial, it was, if you looked closely
+      at the text, you found the answer. The answer is to keep up relations with Trump.
+      And why do they want to keep up relations with Trump? In order to rope him in
+      to continue American support for the Ukrainians in the war with Russia. This is
+      the big, idee fixe of von der Leyen and her colleagues in the European institutions.
+      And it is not an economic concern. They don’t give a damn about the welfare of
+      the broad populations in European countries. Their concern is their own holding
+      onto power, which is made possible by this war with Russia because it gives them
+      reason. Napolitano: Is it a coincidence that while all this is going on, France
+      has announced a recognition of the state of Palestine and Great Britain with a
+      little bit of wiggle room has announced that it is likely to do so by September.
+      Doctorow: 16:39 These are acts of impotence. They are giving Mr. Trump the finger
+      in their pocket, which is what, which is a very common– Napolitano: In other words,
+      giving him the finger and he can’t see them doing it. Doctorow: Exactly right.
+      Napolitano: There’s a case in New Jersey where a guy gave a finger to the police.
+      Oh, the prosecution went on for years. The Supreme Court said it was protected
+      speech, but it was not in his pocket. Doctorow: Well, this is a Russian expression,
+      by the way. So you see, they do have a sense of humor. It is a sign of impotence.
+      They cannot say this openly. They are defying Trump. That’s what this recognition
+      of the Palestine state is all about. It will change nothing, but it is holding
+      up Trump to general opprobrium and criticism. Napolitano: 17:36 Is this Epstein
+      saga resonating in Europe? I mean, I was there for the past week and a half and
+      talking to all kinds of folks, academics, elites, professionals, longtime friends,
+      cab drivers. It wasn’t what Tulsi Gabbard was revealing. It was Epstein, Epstein,
+      Epstein. Is it the same in Northern Europe where you are? Doctorow: Oh yes, and
+      that’s certainly the Epstein story, it’s on the front page every day, and Ghislaine
+      Maxwell’s picture is in the newspapers. But the emphasis, I think, is on one feature
+      which is also covered in the States The aspect of it that is watched most closely
+      in European papers is what this says about the … MAGA. Are they a genuine revolt?
+      Is there some loss of strength, political strength by Trump? That is the angle
+      that interests them most, not the details of pedophilia or whatever. That side
+      of it is not in the front pages. Napolitano: How close to the end of his days
+      in office is President Zelensky? Doctorow: 18:57 I think it’s very close, and
+      I think he’s being prepared for eviction by the United States. And I say that
+      with reference to very specific events that I followed from an angle I don’t see
+      other people covering, strange to say. The events that persuade me that Zelensky
+      is on the way out have been the demonstrations in Kiev and other major cities
+      around Ukraine last week, and these were as many as 10,000 demonstrators out on
+      the streets, against the newly-passed law that stripped the anti-corruption agencies
+      of their independence. That, the fact that everyone speaks about this having happened
+      is if it were a natural thing. It’s not the least bit natural. Everyone is ignoring
+      the authoritarian, dictatorial exercise of power by Zelensky and his immediate
+      followers that [has] made it impossible to protest without getting your skull
+      broken or getting yourself killed in a prison cell. No, there have not been demonstrations,
+      not because the Ukrainian public was satisfied with Zelensky, because nobody dared.
+      20:20 Now, what changed? How is it that these demonstrations could take place?
+      How is it that instructions were given to the Ukrainian army not to take part
+      in the demonstrations wearing their uniforms? This is incredible. I say that there
+      was an outside intervention. Some organization imposed on the powers that be in
+      Ukraine not to dare to fire on the demonstrators. Napolitano: Well, there’s only
+      two organizations that could do that, I think: CIA and MI6. Doctorow: Well, I
+      originally came down on the side of MI6, but received some very interesting comments
+      from readers who pointed me in the other direction. MI6, after all, they have
+      been the providers of security for Zelensky. They are his bodyguards. It is less
+      than likely that they would be behind acts which are going to bring him down.
+      The United States and the CIA is a different story. Here it fits in perfectly
+      with everything that Mr. Trump is doing, not with what he’s saying, of course
+      not, but what he’s doing. De facto, arms are being shipped [to a] much lesser
+      extent and of much lesser use to Ukraine than his words would have indicated.
+      The famous Patriots are going to take eight months to get there, if they get there
+      at all. So on the side of Trump, who is by his actions, by his deeds, not by his
+      words, in fact, been abandoning Zelensky, this would fit in perfectly to get him
+      out over his violation of rule of law, which has been picked up by Western newspapers.
+      Even the very anti-Russian “Financial Times”, day after day, is speaking about
+      Zelensky having lost credibility because of this authoritarian behavior to neuter
+      the agencies against corruption. So the way– the public is being prepared for
+      his removal, because the guy is no longer a saint; he’s turning out to be a devil.
+      And I believe that the Americans are behind this. [But that someone would agree.]
+      Napolitano: If you’re correct, and you make a compelling case, Professor, you
+      truly do, then the Americans would choose his successor. Doctorow: Yes. But of
+      course, this is the thing that people immediately object to. “Well, it’s more
+      of the same.” Why do they assume that? There are, you have to look closely, but
+      there are some people in Kiev who are not neo-Nazis and who are not of the same
+      mindset as the present rulers. And I think of Mr. Umerov, the one who is the head
+      of the Ukrainian delegation to the peace talks in Istanbul, as a possible candidate.
+      There are others. And the Americans certainly would know about it. Umerov– Napolitano:
+      How about the fellow that’s the, I forget the name, Ukrainian ambassador to London.
+      Doctorow: 23:37 Zaluzhny. That’s also possible. There’s a lot of talk about it.
+      That’s why he’s in London and not in Kiev, because Zelensky understood that the
+      Americans were winking at Zaluzhny, because Zaluzhny told the truth about the
+      real state of the military efforts, that they were losing badly, and it was time
+      to get him out of the way. Now Mr. Umerov is another candidate. The interesting
+      thing about him is his pure civilian background, a man who spent a year in the
+      States living with a family while he was in secondary school, and so he’s fluent
+      in English and knows American situation, and who has become very frankly wealthy
+      by dint of his wits in high tech, and wealthy enough to have established fellowships
+      in Stanford University. 24:33 So the man had an interest in the States. It would
+      fit in nicely with the kind of leaders that Americans think– Napolitano: He will
+      be the CIA’s type of guy. Professor Doctorow, thank you very much. A fascinating,
+      as always, a fascinating conversation. I missed you in the past two weeks. I’m
+      glad we’re all back together. Thank you for your time. We’ll look forward to seeing
+      you next week. Doctorow: Very good. Napolitano: Thank you. And coming up later
+      today, I’ve missed everybody, including all of you. At 11 o’clock this morning,
+      Colonel Douglas Macgregor. At one this afternoon, Professor Glenn Diesen; at two
+      this afternoon, Max Blumenthal; at three this afternoon, Phil Giroldi. 25:12 Judge
+      Napolitano for “Judging Freedom”.'
+    one_sentence_summary: In a discussion on "Judging Freedom," Judge Andrew Napolitano
+      and Professor Gilbert Doctorow analyze the negative European reaction to the recent
+      agreement between Ursula von der Leyen and Donald Trump regarding 15% tariffs,
+      viewing it as a detrimental development for Europe's manufacturing investments.
+    paragraph_summary: In a recent episode of "Judging Freedom," Judge Andrew Napolitano
+      discusses the implications of a new trade agreement between the European Union
+      and Donald Trump, featuring insights from Professor Gilbert Doctorow. The agreement,
+      which sets a 15% tariff on EU goods sold in the U.S., has been met with widespread
+      disapproval among European leaders and media, who view it as a detrimental capitulation
+      that could lead to significant job losses and hinder future investments in Europe.
+      Doctorow emphasizes that the deal reflects a power imbalance, with Europe appearing
+      as a supplicant rather than an equal partner in negotiations, and notes that the
+      agreement has not yet been formally documented, existing only as a verbal commitment.
+    published: '2025-07-30T17:38:59+00:00'
+  - title: Transcript of ‘Judging Freedom,’ 30 July
+    url: https://gilbertdoctorow.com/2025/07/30/transcript-of-judging-freedom-30-july/
+    text: 'Transcription submitted by a reader https://www.youtube.com/watch?v=K1Bud26z87M
+      Napolitano: 0:34 Hi, everyone. Judge Andrew Napolitano here for “Judging Freedom”.
+      Today is Wednesday, July 30th, 2025. Professor Gilbert Doctorow will be here with
+      us in just a moment on “The European Union capitulates to Trump”. What’s behind
+      it? But first this. [commercial message] 2:01 Professor Doctorow, good day to
+      you, my dear friend. Thank you very much for joining me today. Thanks for accommodating
+      my schedule. What has been the general reaction amongst European leaders and European
+      media to the announcement by Ursula von der Leyen and Donald Trump the other day
+      about this agreement for 15% tariffs for everything the EU wants to sell in the
+      US? Gilbert Doctorow, PhD: I don’t know of anyone who was rejoicing on that here
+      in Europe. On the contrary, the consensus is that this is a tragic moment for
+      Europe, that this will cost them dearly in future investments in manufacturing,
+      which will now be directed to the United States by their local manufacturers here,
+      because it is the only way for them to save their market share in the States under
+      the new regime of US duties. So jobs will move to the States, jobs will be lost
+      here, and there is the understanding that the very low growth, or negative growth
+      in some countries, that has prevailed in Europe for the last two to three years
+      will continue indefinitely when this new system is applied. The question is how
+      do you explain the capitulation? 3:33 I think most everyone understands that von
+      der Leyen was kissing Trump’s ring, bending the knee, and that Europe was a supplicant
+      and not an equal partner in negotiations. Napolitano: Some of your colleagues
+      on this show have criticized the agreement, arguing as you did, but in addition,
+      we can’t even read it because it’s not even been reduced to writing. Is that true?
+      Have they just agreed on the 15% and nothing has been reduced to writing yet?
+      Doctorow: There is nothing more than a handshake as far as we know. But that is
+      sufficient for these purposes because there [is] a lot of detail work that has
+      to be done. This is not assumed to be the comprehensive and complete agreement.
+      There will be some discussions at the margins. For example, over the fate of automobiles,
+      will they be at the 25% or indeed at 15%, such as liquor, which was not a subject
+      of agreement during that meeting in Scotland. So there are these little bits and
+      pieces along the way, but the general understanding is a 15 percent blanket tariff
+      on all European wares. That may be accepted as a solid fact, not as a speculation.
+      Napolitano: Back to what you said a few minutes ago, I suppose you could manufacture
+      a Mercedes-Benz automobile in Tennessee, but you can’t make French champagne in
+      New Jersey. So some of the goods and products unique to Europe cannot be put together
+      here. Impossible. Doctorow: 5:21 Yes, that’s true. So they will forego some of
+      their sales volume in products like champagne or fine wines. That is a given.
+      And that is part of what some critics say is wrong with the European economy that
+      has been very dependent on exports for future growth. This was precisely the line
+      of critique in the leading Belgian French-speaking newspaper, Le Soir, a couple
+      of days ago. They’re looking for explanations. How was it that we were so weak
+      in these negotiations? Of course, that logic doesn’t hold up when you consider
+      that China is another part of the world where exports have driven growth. 6:08
+      And they record five percent GDP annual growth, not 0.1 percent as the Europeans
+      are now boasting about the first quarter results in 2025. So that is an excuse
+      that this paper, that people like this paper, who are supporters of the status
+      quo in Europe, are exploring to explain what went wrong. But in their discussion,
+      there is a fact which really is evident when you look at it closely, and that
+      is they capitulated to Trump on the trade agreement because they’re hoping to
+      keep him in play. They’re hoping that they can agree with Trump on further support
+      to Ukraine, which is the leading issue of all of the heads of state and prime
+      ministers in Europe. Napollitano: I want to get into that in some depth with you,
+      but before we do, one or two more questions about the Trump-Von der Leyen agreement.
+      What’s the next step for the agreement? I mean, is this it, or do the French who’ve
+      condemned it and the Germans who’ve condemned it have the ability to veto or modify
+      or create carve-outs? Doctorow: Well, they do. This is not just on the say-so
+      of von der Leyen that a treaty is agreed and is imposed on all the 27 member states.
+      It has to go through parliament. It requires a ratification. And that is going
+      to take a lot of negotiation within Europe. Considering that the largest economy
+      in Europe, Germany, headed by a defeatist leader in terms of the tarif war, but
+      a bold leader in terms of the future war with Russia, considering his role, how
+      he and his party, the Christian Democrats, are leaders of the European People’s
+      Party, which is the most important party in the European Parliament. And he, Merz,
+      has come out two days ago saying that this is, yes, it’s a black day for Europe,
+      but, but, but … but this is the best that we could get. That assumes that the
+      Germans will vote for the deal. 8:37 The French are going to put up a lot of resistance.
+      Let’s remember that the major economies are the ones that are most interested
+      in the nature of the agreement with the States because they have the biggest trade
+      flows with the States. The smaller countries, the smaller economies here are,
+      well, let’s say, bystanders. They are not going to have a decisive say. They will
+      follow what they are told to do by the likes of Germany. So the French are the
+      single biggest points of resistance to the agreement that von der Leyen has set
+      down, not just the the so-called far right of Marine Le Pen, who instantly came
+      out condemning this, but even the centrist Bayrou, the prime minister installed
+      by Macron to manage the difficulties he has with his parliament, he came out against
+      it as well. 9:38 So the French are going to dig in their deals and they will certainly
+      demand concessions, though I doubt that they will overturn the agreement that
+      von der Leyen reached, because so many other countries will follow Germany’s lead.
+      Napolitano: Is it a simple majority vote in the European Parliament? Is it country
+      by country? Is it two-thirds? How does it work? Doctorow: No, to my knowledge
+      it would be a majority vote. Napolitano: All right, and you’re of the view that
+      not withstanding this disenchantment for other reasons, which we’ll get into presently,
+      this will likely be ratified. Doctorow: I think it will be. There will be modifications.
+      Napolitano: Is she popular, von der Leyen, or is she not popular? That’s an inartful
+      question. Is she popular with the folks in the streets? Is she popular with elites?
+      Doctorow: No, I think it’s with elites. And “popular” is not an adjective I would
+      apply here. Respected, willing to accept her judgment. However, let’s remember
+      from the last several weeks, she was under fierce challenge in the parliament,
+      and this was covered in the daily news. So the broader public, and even among
+      elites, they are aware that she has opposition for the way she has managed the
+      parliament and the European institutions. So she doesn’t have a free ride any
+      more. Her situation is more tenuous than it was before the challenge to the way
+      she negotiated the covid vaccine contracts. 11:14 That has put her in some jeopardy.
+      And I think the broad public is aware of that, though it has other problems to
+      worry about and isn’t very concerned about Madame van der Leyen. Napolitano: I
+      mean, let’s just suppose, this may be fantastical, but let’s just suppose Marie
+      Le Pen becomes the President of France. What can she do, if anything, to get out
+      of this? Doctorow: Well, let’s look first as what von der Leyen is doing to get
+      us into this. She has appointed the commissioners, all of whom, or a large majority
+      of the important or key positions, she’s assigned to the non-entity countries,
+      the Baltics and other East European countries, which are under German sway. She
+      has appointed people who are intellectually inferior in the expectation that she
+      could dominate them, and that has turned out to be true. Now, if Marine Le Pen
+      came in, all of these people would be thrown out, and you might have a chance
+      of seeing competent people who represent the 450 million people, a population
+      of the European Union, and not people like Kallas, who comes from a country with
+      one million population, who are drawing Europe around by the nose for the sake
+      of their anti-Russian positions. So everything could change in policies, because
+      the policies now are made by those who are under the direct instruction and control
+      of von der Leyen. Anyone who replaces her will certainly not enjoy that position
+      of strength to appoint all of the commissioners and to control the whole of European
+      policy the way von der Leyen has in the last several years. Napolitano: 13:04
+      Okay, got it. But if the agreement with Trump is reduced to writing and ratified,
+      and if France rebels, there’s nothing much they could do about it, right? This
+      is part of the treaty that created the EU. They’re subject to this, or am I wrong?
+      Doctorow: No, you’re right. But again, there is something here that we have to
+      call out. There are parts of this agreement which are utterly unenforceable and
+      which are probably the most damaging to the European economy. Napolitano: What
+      are they? Doctorow: Not the 15 percent tariff, but the obligation to buy 650 billion
+      dollars of American energy. That is the single biggest factor weighing on the
+      weak European economies, starting with the German economy. This, the dependence
+      on liquefied natural gas at world prices, which has been the case ever since the
+      destruction of the North Stream pipelines and the decisions in Parliament to phase
+      out as quickly as possible use of Russian energy supplies — that has been the
+      destructive factor in European economies more than this 15 percent tariff can
+      possibly be. And the obligation to buy this, well, an obligation. What kind of
+      obligations did the Chinese have in previous agreements with the United States?
+      They never were effected. 14:34 And I doubt that this one ever will be carried
+      out because the people who have signed onto it will not be in office. Napolitano:
+      Got it. I don’t want to put you out on a limb, but which is the greater threat
+      to European economic stability? Russia or the United States? Doctorow: At this
+      point it’s the United States. To anyone with eyes to see what Mr. Trump has just
+      done, the complete humiliation of Europe, the imposition of tariffs and purchase
+      obligations from the United States, that is destructive of the European economy.
+      It is not the act of a friend. And in that context, you have to ask, well, why
+      are they going along with this? And there you have to look for the small print.
+      15:26 And is I said, even in the “Soir” editorial, it was, if you looked closely
+      at the text, you found the answer. The answer is to keep up relations with Trump.
+      And why do they want to keep up relations with Trump? In order to rope him in
+      to continue American support for the Ukrainians in the war with Russia. This is
+      the big, idee fixe of von der Leyen and her colleagues in the European institutions.
+      And it is not an economic concern. They don’t give a damn about the welfare of
+      the broad populations in European countries. Their concern is their own holding
+      onto power, which is made possible by this war with Russia because it gives them
+      reason. Napolitano: Is it a coincidence that while all this is going on, France
+      has announced a recognition of the state of Palestine and Great Britain with a
+      little bit of wiggle room has announced that it is likely to do so by September.
+      Doctorow: 16:39 These are acts of impotence. They are giving Mr. Trump the finger
+      in their pocket, which is what, which is a very common– Napolitano: In other words,
+      giving him the finger and he can’t see them doing it. Doctorow: Exactly right.
+      Napolitano: There’s a case in New Jersey where a guy gave a finger to the police.
+      Oh, the prosecution went on for years. The Supreme Court said it was protected
+      speech, but it was not in his pocket. Doctorow: Well, this is a Russian expression,
+      by the way. So you see, they do have a sense of humor. It is a sign of impotence.
+      They cannot say this openly. They are defying Trump. That’s what this recognition
+      of the Palestine state is all about. It will change nothing, but it is holding
+      up Trump to general opprobrium and criticism. Napolitano: 17:36 Is this Epstein
+      saga resonating in Europe? I mean, I was there for the past week and a half and
+      talking to all kinds of folks, academics, elites, professionals, longtime friends,
+      cab drivers. It wasn’t what Tulsi Gabbard was revealing. It was Epstein, Epstein,
+      Epstein. Is it the same in Northern Europe where you are? Doctorow: Oh yes, and
+      that’s certainly the Epstein story, it’s on the front page every day, and Ghislaine
+      Maxwell’s picture is in the newspapers. But the emphasis, I think, is on one feature
+      which is also covered in the States The aspect of it that is watched most closely
+      in European papers is what this says about the … MAGA. Are they a genuine revolt?
+      Is there some loss of strength, political strength by Trump? That is the angle
+      that interests them most, not the details of pedophilia or whatever. That side
+      of it is not in the front pages. Napolitano: How close to the end of his days
+      in office is President Zelensky? Doctorow: 18:57 I think it’s very close, and
+      I think he’s being prepared for eviction by the United States. And I say that
+      with reference to very specific events that I followed from an angle I don’t see
+      other people covering, strange to say. The events that persuade me that Zelensky
+      is on the way out have been the demonstrations in Kiev and other major cities
+      around Ukraine last week, and these were as many as 10,000 demonstrators out on
+      the streets, against the newly-passed law that stripped the anti-corruption agencies
+      of their independence. That, the fact that everyone speaks about this having happened
+      is if it were a natural thing. It’s not the least bit natural. Everyone is ignoring
+      the authoritarian, dictatorial exercise of power by Zelensky and his immediate
+      followers that [has] made it impossible to protest without getting your skull
+      broken or getting yourself killed in a prison cell. No, there have not been demonstrations,
+      not because the Ukrainian public was satisfied with Zelensky, because nobody dared.
+      20:20 Now, what changed? How is it that these demonstrations could take place?
+      How is it that instructions were given to the Ukrainian army not to take part
+      in the demonstrations wearing their uniforms? This is incredible. I say that there
+      was an outside intervention. Some organization imposed on the powers that be in
+      Ukraine not to dare to fire on the demonstrators. Napolitano: Well, there’s only
+      two organizations that could do that, I think: CIA and MI6. Doctorow: Well, I
+      originally came down on the side of MI6, but received some very interesting comments
+      from readers who pointed me in the other direction. MI6, after all, they have
+      been the providers of security for Zelensky. They are his bodyguards. It is less
+      than likely that they would be behind acts which are going to bring him down.
+      The United States and the CIA is a different story. Here it fits in perfectly
+      with everything that Mr. Trump is doing, not with what he’s saying, of course
+      not, but what he’s doing. De facto, arms are being shipped [to a] much lesser
+      extent and of much lesser use to Ukraine than his words would have indicated.
+      The famous Patriots are going to take eight months to get there, if they get there
+      at all. So on the side of Trump, who is by his actions, by his deeds, not by his
+      words, in fact, been abandoning Zelensky, this would fit in perfectly to get him
+      out over his violation of rule of law, which has been picked up by Western newspapers.
+      Even the very anti-Russian “Financial Times”, day after day, is speaking about
+      Zelensky having lost credibility because of this authoritarian behavior to neuter
+      the agencies against corruption. So the way– the public is being prepared for
+      his removal, because the guy is no longer a saint; he’s turning out to be a devil.
+      And I believe that the Americans are behind this. [But that someone would agree.]
+      Napolitano: If you’re correct, and you make a compelling case, Professor, you
+      truly do, then the Americans would choose his successor. Doctorow: Yes. But of
+      course, this is the thing that people immediately object to. “Well, it’s more
+      of the same.” Why do they assume that? There are, you have to look closely, but
+      there are some people in Kiev who are not neo-Nazis and who are not of the same
+      mindset as the present rulers. And I think of Mr. Umerov, the one who is the head
+      of the Ukrainian delegation to the peace talks in Istanbul, as a possible candidate.
+      There are others. And the Americans certainly would know about it. Umerov– Napolitano:
+      How about the fellow that’s the, I forget the name, Ukrainian ambassador to London.
+      Doctorow: 23:37 Zaluzhny. That’s also possible. There’s a lot of talk about it.
+      That’s why he’s in London and not in Kiev, because Zelensky understood that the
+      Americans were winking at Zaluzhny, because Zaluzhny told the truth about the
+      real state of the military efforts, that they were losing badly, and it was time
+      to get him out of the way. Now Mr. Umerov is another candidate. The interesting
+      thing about him is his pure civilian background, a man who spent a year in the
+      States living with a family while he was in secondary school, and so he’s fluent
+      in English and knows American situation, and who has become very frankly wealthy
+      by dint of his wits in high tech, and wealthy enough to have established fellowships
+      in Stanford University. 24:33 So the man had an interest in the States. It would
+      fit in nicely with the kind of leaders that Americans think– Napolitano: He will
+      be the CIA’s type of guy. Professor Doctorow, thank you very much. A fascinating,
+      as always, a fascinating conversation. I missed you in the past two weeks. I’m
+      glad we’re all back together. Thank you for your time. We’ll look forward to seeing
+      you next week. Doctorow: Very good. Napolitano: Thank you. And coming up later
+      today, I’ve missed everybody, including all of you. At 11 o’clock this morning,
+      Colonel Douglas Macgregor. At one this afternoon, Professor Glenn Diesen; at two
+      this afternoon, Max Blumenthal; at three this afternoon, Phil Giroldi. 25:12 Judge
+      Napolitano for “Judging Freedom”.'
+    one_sentence_summary: In a discussion on "Judging Freedom," Judge Andrew Napolitano
+      and Professor Gilbert Doctorow analyze the negative European reaction to the recent
+      agreement between Ursula von der Leyen and Donald Trump regarding 15% tariffs,
+      viewing it as a detrimental development for Europe's manufacturing investments.
+    paragraph_summary: In a recent episode of "Judging Freedom," Judge Andrew Napolitano
+      discusses the implications of a new trade agreement between the European Union
+      and Donald Trump, featuring insights from Professor Gilbert Doctorow. The agreement,
+      which sets a 15% tariff on EU goods sold in the U.S., has been met with widespread
+      disapproval among European leaders and media, who view it as a detrimental capitulation
+      that could lead to significant job losses and hinder future investments in Europe.
+      Doctorow emphasizes that the deal reflects a power imbalance, with Europe appearing
+      as a supplicant rather than an equal partner in negotiations, and notes that the
+      agreement has not yet been formally documented, existing only as a verbal commitment.
+    published: '2025-07-30T17:38:59+00:00'
+  - title: '‘Judging Freedom,’ 30 July: EU Capitulates to Trump'
+    url: https://gilbertdoctorow.com/2025/07/30/judging-freedom-30-july-eu-capitulates-to-trump/
+    text: ‘ Today’s session with Judge Andrew Napolitano centered on the von der Leyen
+      – Trump agreement in Scotland on a 15%  tariff for European exports to the USA,
+      which was in effect a humiliating defeat for the EU. Bad as that sounds, the far
+      worse point agreed was for the EU to greatly expand its LNG and oil imports from
+      the USA, with the figure 650 billion euros specifically named.  Of course, this
+      obligation will likely never be met, just as similar obligations on China to import
+      US agricultural products at certain target levels never were met. But the principle,
+      if actually applied, will condemn European manufacturing to excessive costs, meaning
+      to uncompetitive export prices and loss of markets abroad. As I have noted elsewhere,
+      the capitulation on tariffs was clearly motivated by the hopes of von der Leyen
+      and of those European leaders supporting her that this concession will keep open
+      relations with Washington and, in particular, lead to continuation of the common
+      Euro-Atlantic stand on giving Ukraine the financial and flow of military equipment
+      it needs to continue the war with Russia.  What I did not say in the interview
+      but should be mentioned here is that the expectation of further U.S. assistance
+      to Ukraine is delusional.  Trump wants out of the war and there is no way that
+      Europe can so ingratiate itself with him as to change his mind on that cardinal
+      point of U.S. foreign policy. Our brief discussion of the Epstein scandal that
+      currently fascinates Washington, of the decision by Britain and France to recognize
+      the Palestine state in September and of likely CIA hand in the anti Zelensky demonstrations
+      that swept Ukraine last week  may also interest viewers.
+    one_sentence_summary: The session with Judge Andrew Napolitano highlighted the EU's
+      agreement with Trump on a 15% tariff for European exports to the USA and a commitment
+      to significantly increase LNG and oil imports from the US, which could harm European
+      manufacturing competitiveness despite likely being unfulfilled.
+    paragraph_summary: In a recent session with Judge Andrew Napolitano, the discussion
+      focused on the agreement between Ursula von der Leyen and Donald Trump regarding
+      a 15% tariff on European exports to the U.S., which many view as a significant
+      setback for the EU. More critically, the agreement includes a commitment for the
+      EU to significantly increase its imports of liquefied natural gas (LNG) and oil
+      from the U.S., with a target of 650 billion euros, a goal likely to remain unmet,
+      similar to previous commitments made by China. This potential obligation could
+      lead to higher manufacturing costs in Europe, making exports less competitive.
+      The concessions appear to be aimed at maintaining strong relations with Washington,
+      particularly in support of Ukraine amid its ongoing conflict with Russia; however,
+      the expectation of continued U.S. assistance to Ukraine under Trump is seen as
+      unrealistic. The conversation also touched on the Epstein scandal, the recognition
+      of Palestine by Britain and France, and alleged CIA involvement in recent anti-Zelensky
+      protests in Ukraine.
+    published: '2025-07-30T15:00:04+00:00'
+  - title: '‘Judging Freedom,’ 30 July: EU Capitulates to Trump'
+    url: https://gilbertdoctorow.com/2025/07/30/judging-freedom-30-july-eu-capitulates-to-trump/
+    text: ‘ Today’s session with Judge Andrew Napolitano centered on the von der Leyen
+      – Trump agreement in Scotland on a 15%  tariff for European exports to the USA,
+      which was in effect a humiliating defeat for the EU. Bad as that sounds, the far
+      worse point agreed was for the EU to greatly expand its LNG and oil imports from
+      the USA, with the figure 650 billion euros specifically named.  Of course, this
+      obligation will likely never be met, just as similar obligations on China to import
+      US agricultural products at certain target levels never were met. But the principle,
+      if actually applied, will condemn European manufacturing to excessive costs, meaning
+      to uncompetitive export prices and loss of markets abroad. As I have noted elsewhere,
+      the capitulation on tariffs was clearly motivated by the hopes of von der Leyen
+      and of those European leaders supporting her that this concession will keep open
+      relations with Washington and, in particular, lead to continuation of the common
+      Euro-Atlantic stand on giving Ukraine the financial and flow of military equipment
+      it needs to continue the war with Russia.  What I did not say in the interview
+      but should be mentioned here is that the expectation of further U.S. assistance
+      to Ukraine is delusional.  Trump wants out of the war and there is no way that
+      Europe can so ingratiate itself with him as to change his mind on that cardinal
+      point of U.S. foreign policy. Our brief discussion of the Epstein scandal that
+      currently fascinates Washington, of the decision by Britain and France to recognize
+      the Palestine state in September and of likely CIA hand in the anti Zelensky demonstrations
+      that swept Ukraine last week  may also interest viewers.
+    one_sentence_summary: The session with Judge Andrew Napolitano highlighted the EU's
+      agreement with Trump on a 15% tariff for European exports to the USA and a commitment
+      to significantly increase LNG and oil imports from the US, which could harm European
+      manufacturing competitiveness despite likely being unfulfilled.
+    paragraph_summary: In a recent session with Judge Andrew Napolitano, the discussion
+      focused on the agreement between Ursula von der Leyen and Donald Trump regarding
+      a 15% tariff on European exports to the U.S., which many view as a significant
+      setback for the EU. More critically, the agreement includes a commitment for the
+      EU to significantly increase its imports of liquefied natural gas (LNG) and oil
+      from the U.S., with a target of 650 billion euros, a goal likely to remain unmet,
+      similar to previous commitments made by China. This potential obligation could
+      lead to higher manufacturing costs in Europe, making exports less competitive.
+      The concessions appear to be aimed at maintaining strong relations with Washington,
+      particularly in support of Ukraine amid its ongoing conflict with Russia; however,
+      the expectation of continued U.S. assistance to Ukraine under Trump is seen as
+      unrealistic. The conversation also touched on the Epstein scandal, the recognition
+      of Palestine by Britain and France, and alleged CIA involvement in recent anti-Zelensky
+      protests in Ukraine.
+    published: '2025-07-30T15:00:04+00:00'
   - title: 'NewsX World: Kremlin Says Kyiv Rejects Russia’s Peace Offer | Russia Ukraine
       Peace Talks'
     url: https://gilbertdoctorow.com/2025/07/27/newsx-world-kremlin-says-kyiv-rejects-russias-peace-offer-russia-ukraine-peace-talks/

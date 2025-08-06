@@ -7,16 +7,1182 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  The geopolitical landscape continues to be dominated by the fallout from the ongoing humanitarian crisis in Gaza and the broader implications of US and Israeli policy in the region. In recent days, a significant development has emerged with US Secretary of State Marco Rubio imposing sanctions on Francesca Albanese, the UN Special Rapporteur for the Occupied Palestinian Territories. This unprecedented move marks the first time an unpaid UN officeholder has been targeted in this way, drawing sharp criticism from the United Nations and independent observers.
+  The geopolitical landscape continues to be shaped by escalating tensions surrounding the Israeli-Palestinian conflict, with recent developments highlighting both the intensification of punitive measures against UN officials and the persistent humanitarian crisis in Gaza. The US government’s decision to sanction Francesca Albanese, the UN Special Rapporteur for the Occupied Palestinian Territories, marks a significant escalation in the politicization of international law and the suppression of critical voices.
   
-  **Richard Falk** highlights that the sanctions, which bar Albanese from entering the US and freeze any American assets, are justified by Rubio through an executive order previously used to sanction International Criminal Court officials. The move is widely seen as an escalation in efforts to delegitimize international scrutiny of Israeli actions in Palestine, particularly as Albanese is a prominent female figure in the UN and has been outspoken about the humanitarian situation in Gaza. The UN has objected strongly, warning of the chilling effect such actions could have on the independence and effectiveness of international human rights mechanisms.
+  According to **Richard Falk**, the US Secretary of State Marco Rubio’s move to bar Albanese from US soil and freeze her assets is unprecedented, targeting an unpaid UN officeholder for her outspoken advocacy on Palestinian human rights. Falk underscores that this action not only undermines the independence of UN mechanisms but also signals a broader trend of “trampling on law, justice, and truth.” The sanctions have drawn sharp rebuke from the UN and civil society, with concerns that such measures could deter future officials from taking principled stances on contentious issues.
   
-  Meanwhile, the humanitarian crisis in Gaza remains acute. Civil society initiatives, such as the Gaza Peoples Tribunal, continue to gain traction as alternative forums for accountability and advocacy. The Tribunal, established in response to the perceived failures of the International Court of Justice and the International Criminal Court, recently concluded its first public assembly in Sarajevo. The resulting Sarajevo Declaration reaffirms the right of Palestinians to self-determination and calls for global solidarity and civic action to pressure Israel and its allies to end the violence and address the ongoing suffering.
+  Meanwhile, the humanitarian situation in Gaza remains dire. As detailed in Falk’s recent interviews and reporting, Israeli military actions have led to severe civilian suffering, including mass hunger and water scarcity. Despite mounting global protests and limited criticism from Western allies such as France, Canada, and Germany, the US and UK continue to provide unconditional support to Israel. This dynamic has prompted the formation of alternative accountability mechanisms, notably the Gaza Peoples Tribunal, which seeks to mobilize civic pressure in the face of perceived failures by international legal bodies.
   
-  On the regional security front, the aftermath of Israeli and US strikes on Iranian nuclear facilities remains a subject of debate. While the immediate impact of these attacks is still unclear, analysts agree that the strikes have heightened tensions and underscored the fragility of the regional balance of power. There is a growing consensus among independent experts that the dual objectives of these operations—disrupting Iran’s nuclear ambitions and fostering internal regime change—are unlikely to be fully realized in the near term.
+  On the regional front, the aftermath of Israeli and US strikes on Iranian nuclear facilities continues to reverberate. While the effectiveness of these operations remains uncertain, analysts such as **Stephen Zunes** and **Lawrence Davidson** have noted the dual objectives of disrupting Iran’s nuclear ambitions and fostering internal regime change. The divided response within Iran and the broader Middle East underscores the complexity of the situation and the potential for further instability.
   
-  Looking ahead, the majority of analysts, including **Richard Falk**, predict with high confidence that US policy will continue to prioritize support for Israel, even in the face of mounting international criticism and legal challenges. Civil society efforts, such as the Gaza Peoples Tribunal, are expected to intensify, drawing on historical precedents from the anti-apartheid and anti-war movements. However, the prospects for meaningful change in official policy remain limited in the short term, with the humanitarian situation in Gaza likely to persist absent a significant shift in international political will.
+  Looking ahead, the prevailing trend is one of deepening polarization and erosion of international legal norms. There is a high chance that US actions against UN officials will embolden other states to pursue similar tactics, further weakening multilateral institutions. The humanitarian crisis in Gaza is most definitely set to persist absent a dramatic shift in Western policy or a breakthrough in civic mobilization. Regional tensions, particularly involving Iran, are quite likely to remain volatile, with the risk of escalation ever-present.
 articles:
+  - title: 'Countering Genocide: An Interview'
+    url: https://richardfalk.org/2025/08/02/countering-genocide-an-interview/
+    text: 'SU This article appears in the August 1, 2025 issue of Executive Intelligence
+      Review. l Prefatory Note : An interview with Mike Billington of the Schiller Institute
+      on array of topics. Published in the August issue of Execuitve Intellligence Review}
+      [Print version of this article] Richard Falk is a professor emeritus of international
+      law at Princeton University. He is a prolific author who has written extensively
+      on international law and the United Nations. From 2008 to 2014 he served as the
+      United Nations Special Rapporteur on the situation of human rights in the Palestinian
+      territories occupied since 1967. The interview was conducted on July 23, 2025
+      by EIR ’s Michael Billington. Subheads have been added. Mike Billington: Welcome.
+      This is Mike Billington with the Schiller Institute and the Executive Intelligence
+      Review . I’m very pleased to once again have the opportunity to do an interview
+      with Professor Richard Falk. Professor Falk is a professor emeritus of international
+      law and practice at Princeton University. He is also the former United Nations
+      Human Rights Rapporteur in Palestine and the Occupied Territories. He also is
+      a member of the editorial board of the magazine The Nation , in which he published
+      a recent article on the issues that we’re going to discuss. He’s the president
+      of the Gaza Tribunal, which we will also discuss. Welcome, Professor Falk, and
+      thank you for joining us. View full size UN Photo/JC McIlwaine Richard Falk, former
+      UN Special Rapporteur on the situation of human rights in the Palestinian territories
+      occupied since 1967. Prof. Richard Falk: Thank you, Mike, for having me. Glad
+      to be with you again. Billington: In your article in The Nation on July 15, which
+      was titled “Sanctioning Francesca Albanese—Marco Rubio Tramples on the Law, Justice
+      and Truth,” in that article, you review the heroic role of Francesca Albanese
+      as the UN Special Rapporteur for the Occupied Palestinian Territories of East
+      Jerusalem, West Bank and Gaza, which is a position you held from 2008 to 2014,
+      in two three-year terms. In the article you denounced the sanctions imposed by
+      U.S. Secretary of State Marco Rubio on Ms. Albanese. What is the background to
+      this situation? Prof. Falk: Well, the background, as far as the U.S. government
+      is concerned, relates to the arrest warrants that the International Criminal Court
+      issued some months ago, to arrest, for crimes, Prime Minister Netanyahu of Israel
+      and the former Israeli Defense Minister, Yoav Gallant. In February of this year
+      the U.S. imposed sanctions on the four judges that participated in the endorsement
+      of the prosecutors’ recommendation that the arrest warrants be issued. The ICC
+      was sanctioned through the denial of entry to the U.S. to these individuals and
+      their immediate families, and their assets that were within the U.S. were frozen.
+      The ostensible reason that the U.S. government gave for sanctioning Francesca
+      Albanese was that she, in her last report, which has the title “From the Economics
+      of Occupation to the Economics of Genocide,” singled out 48 American and international
+      corporations that were profiting from the genocidal policies being pursued by
+      Israel, and recommended that the ICC investigate and possibly prosecute individuals
+      associated with these companies. The reason, I think, for the linkage to the ICC
+      in her case, was that the Trump executive order that originally was issued after
+      the ICC arrest warrants, implicated the ICC in imposing these arrest warrants
+      against Israel, in violation of America’s U.S. political interests. This was backed
+      up by the claim that, because the U.S. and Israel are not members of the ICC—they’re
+      not parties to the Rome Statute setting up the ICC—they’re not subject to its
+      authority, and therefore the ICC and the prosecutor and these judges were overreaching
+      their authority. View full size CC/Laryllian Francesca Albanese, UN Special Rapporteur
+      on the situation of human rights in the Palestinian territories occupied since
+      1967, whom Prof. Falk characterizes as “the world’s leading candidate for the
+      2026 Nobel Peace Prize.” Francesca’s recent report really didn’t have very much
+      to do with the ICC, except for that recommendation at the end. But it was a kind
+      of a link to the executive order that gave at least the appearance of being a
+      legal foundation for sanctioning her. Rubio, in his statement, made clear that
+      that was not the only grievance that they had against her. He made a statement
+      that she was maliciously associated with anti-Semitism and did harm to U.S. and
+      Israeli economic and political interests, and in fact, accused her of engaging
+      in economic warfare. It was a quite intemperate statement for a prominent U.S.
+      official to make. And it represented, I think, a long term campaign by Zionist
+      NGOs and by Israel to get rid of her, or at least to discredit her in a kind of
+      distinctive and punitive manner. That was the attempt. It had the exact reverse
+      effect. Because now she’s, I suppose, the world’s leading candidate for the 2026
+      Nobel Peace Prize. And she’s even being mentioned as the ideal candidate to be
+      the first woman Secretary-General of the United Nations. So, it is an interesting
+      polarization between this kind of satanic image of her misdeeds, and the sense
+      of praise for what she has accomplished in the course of being a Special Rapporteur
+      of the UN at a difficult time, when the UN itself has proved to be unable to do
+      anything effective to stop the genocide. Billington: Right. You yourself wrote
+      an article calling on Albanese to be awarded the Nobel Peace Prize, rather than
+      the sanctions that she had been given by Rubio and the U.S. Prof. Falk: I also
+      added that a President respectful of the rule of law and international justice,
+      would have requested Rubio’s resignation after making such an outrageous action.
+      Billington: I was going to add to that there’s a petition now circulating which
+      has well over 300,000 signatures calling on Francesca Albanese to be awarded the
+      Nobel Peace Prize. What do you think will be the impact of that, if she actually
+      gets that award or if she gets appointed as the Secretary-General of the UN, as
+      you mentioned? Prof. Falk: As far as the Nobel Peace Prize is concerned, I’ve
+      tried to warn people not to have the appearance of a campaign on her behalf for
+      the Peace Prize, that will hurt her prospects. I’ve been nominated a few times
+      myself, and I know from the committee in Oslo that they are very put off by the
+      sense that they’re giving the award in response to a campaign on behalf of a candidate.
+      So, I wish this petition wasn’t being circulated because they’re quite capable
+      of reaching their own independent assessment, and they might well react to the
+      feeling that they don’t want to seem to be succumbing to political pressure to
+      give her the award. Acts Destructive of Justice Billington: You state in the article
+      that you had in The Nation that the sanctions being imposed are “contrary to international
+      law and morality.” In general, what does this say about the fact that the U.S.
+      role in the world is now increasingly seen as an imposer of sanctions and dictates,
+      rather than any kind of policy for supporting development and progress? Prof.
+      Falk: I think it’s a very concrete instance of punishing a person that should
+      be given an honorific recognition for her bravery and trustworthy reporting under
+      a very difficult situation. So, it’s symbolic of a broader spectrum of acts destructive
+      of justice and world order, of which the U.S. had taken pride in establishing
+      after World War Two. It was established with certain notable deficiencies, but
+      it did respond to public pressure for a war prevention and global security framework
+      that would be more in keeping with the global public interest of peoples, and
+      less an instrument of either capitalist expansion or militarist domination. Unfortunately,
+      after the Cold War, the U.S. chose this path of promoting its national economic
+      and geopolitical interests at the expense of the public good. Billington: Francesca
+      Albanese was a featured speaker at a meeting that took place in what’s called
+      The Hague Group in Bogotá, Colombia, over this last week. This is a group of over
+      a dozen countries that are led by South Africa and Colombia to address the question
+      of the Palestine genocide and the question of statehood for Palestine. I’d like
+      to read a short excerpt from her presentation there, about which I’d like to hear
+      your comment. She said that “Each state should immediately review and suspend
+      all ties with Israel…. I mean, cutting ties with Israel as a whole…. And to consider
+      first and foremost what must we do to stop the genocidal onslaught.” She also
+      said there’s a revolutionary shift going on in the mood of the world. “We are
+      seeing the rise of a new multilateralism: principled, courageous, increasingly
+      led by the Global Majority,” often called the Global South. “…I say the Hague
+      Group has the potential to signal not just a coalition, but a new moral center
+      in world politics…. Millions are watching, hoping for leadership that can birth
+      a new global order rooted in justice, humanity and collective liberation. This
+      is not just about Palestine. This is about all of us. Principled states must rise
+      to this moment….” And “Palestine will have written this tumultuous chapter … as
+      the newest verse in a centuries-long saga of peoples who have risen against injustice,
+      colonialism, and today, more than ever, neoliberal tyranny.” Do you have anything
+      you’d like to add to that? A Glimmer of Light in a Dark Sky Prof. Falk: I think
+      it’s a very eloquent and idealistic vision of a different world order, with values
+      that are much more in keeping with the well-being of humanity as a whole and more
+      conducive to the promotion of peace and justice in the world. They do give a kind
+      of a glimmer of light in a dark sky. There have been several such glimmers of
+      light recently. And they do have the potential, far from the certainty, but the
+      potential of a change in the political atmosphere and in the way in which global
+      security and war prevention and development policies are pursued. It involves
+      curtailing the impact of predatory capitalism and militarist geopolitics. That
+      will not happen without overcoming the entrenched commitment of the established
+      order to things as they are. And we have a very unimpressive set of global leaders
+      in the important countries of the world at this time of global challenge. A more
+      skeptical response to what Francesca has said would be to criticize the short
+      term, performance orientations of the elites of the world, both the corporate
+      elites and the political elites. Corporate elites thinking of the profit, near-term
+      term profits, political elites thinking of their re-election or their legacy,
+      but in a manner that doesn’t address the fundamental issues that confront the
+      world at this time, ranging from climate change to mass poverty, to very severe
+      forms of continuing political violence in many places, and of course, to the centrality
+      of this ongoing genocide that has been a challenge to even the political language
+      that is used by the U.S. government and other supporters of Israel, which present
+      the most transparent genocide as if it were a routine exercise in justifiable
+      self-defense. That involves, I think, one of the worst Orwellian reversals of
+      reality that has occurred in my lifetime. And it is at the cost of this massive,
+      prolonged suffering endured by all Palestinians, but most especially those living
+      in Gaza and the West Bank. Billington: You mentioned other glimmers of hope of
+      a major change like this. Do you want to comment on any of the other glimmers
+      you were thinking of? Prof. Falk: One of the other glimmers is the victory of
+      Zoran Mamdani in the New York mayoralty primary, which defied pollsters and political
+      conventional wisdom that a Muslim progressive had no chance politically to prevail.
+      He was outspent 10 to 1. And he evoked this sense, that also Francesca was projecting,
+      that there is another possibility, another set of possibilities for how one copes
+      with the problems of equity, fairness and the issues that are on the top of the
+      political and economic agenda. What we see in response is the backlash from the
+      darker forces that are bipartisan in character, both the Democratic and Republican
+      establishments. The two-party system wants no part of the political ownership
+      of a man [with] Mamdani’s kind of revolutionary politics. But at least in this
+      arena, one encounters the sense that there could be an alternative. But it’s only
+      a glimmer of light at this point. It has to be reinforced by a popular movement
+      of people and the engagement with the ongoing conflicts, especially Gaza and Ukraine,
+      in ways that bring a more stable future to world politics and allow the focus
+      to be placed more on what people need to lead a decent life, and what the world
+      and the planet needs to be ecologically resilient under growing threats of instability.
+      Objectives of the Gaza Tribunal Billington: You are also the president of the
+      Gaza Tribunal, which was founded at a conference in Sarajevo in May. The resolution
+      which was signed there by the founders, including yourself, condemned the failure
+      of the UN, the growing public protests and leading governments, whose actions
+      have thus far not stopped the ongoing genocide by war and starvation of the Palestinian
+      people. What is the purpose of this Tribunal, and what do you think has been the
+      impact in its founding? Prof. Falk: I was asked to be the president by some sponsors
+      in Türkiye of this undertaking, and they convinced me that it was a worthwhile
+      undertaking. I’m not normally very comfortable in quasi-administrative roles and
+      also not very confident in them, but I was unsuccessful in persuading them to
+      seek an alternative to myself. And I thought it was important. I’ve participated
+      as a judge in past people’s tribunals and found them to be a useful way of narrating
+      a conflict in a manner that is progressive and free from media manipulations and
+      government control and self-censorship and so on. And in the context of the Gaza
+      situation, the formation of such a tribunal takes place after the formal system
+      exhibited an inability to enforce international law. It did some positive things,
+      such as the International Court of Justice’s response to the South African submission
+      that Israel was, in carrying out its policies in Gaza, was violating the International
+      Convention on Genocide. It was very professional and juridically impressive in
+      responding to that submission by issuing some interim orders that acknowledge
+      the plausibility of alleging genocide, and condemned Israel’s disruption of international
+      delivery of humanitarian assistance. View full size UNRWA/Ashraf Amra A mother
+      in Gaza cries for her four-year-old daughter, who lost her life due to starvation
+      and lack of treatment, brought about by Israel’s genocide policy against the Palestinians.
+      These interim rulings were directed to Israel, but were defied, as expected, and
+      so an enforcement gap was made clear that the ICJ could declare authoritatively
+      the law, but its enforcement, if a state such as Israel refused to voluntarily
+      comply, and was subject to the veto of the only part of the UN system that had
+      enforcement capabilities and authorities, the Security Council, that meant that
+      the UN was paralyzed in dealing with enforcement or accountability or complicity.
+      The objective of the Gaza People’s Tribunal is to close these gaps, or at least
+      to exert pressure on these gaps, by activating people in civil society to exhibit
+      solidarity initiatives that support the Palestinian struggle, by both placing
+      pressure on governments to stop supplying arms, to cut diplomatic relations, to
+      do various things that would indicate more than a verbal commitment to end this
+      genocide. It is shameful that the Arab governments that could exert decisive pressure
+      have proved to be passive or even indirectly supportive of Israel’s tactics in
+      Gaza. So, the two main objectives of the Tribunal are stimulating activism by
+      civil society individuals and other collective actors, NGOs and so on. And the
+      second one is to document in an objective and comprehensive way the crimes that
+      have been committed centering on the genocide, which, even if the ICJ eventually
+      comes with a favorable decision, will not be rendered for a couple of years at
+      best. So, this promises a quicker result and a result guided more by the pursuit
+      of justice than a legalistic conception of wrongdoing. In other words, a formal
+      court is bound by the technical rules of a legal process. And that means impartiality
+      and due process for the accused side. This Tribunal starts with the premise of
+      Israeli guilt, and it makes no attempt at appraising the arguments advanced by
+      Israel in an objective manner. But it does try to treat the evidence available
+      to it as objectively as possible, and to proceed along the line, somewhat similar
+      to what the Special Rapporteur Francesca Albanese has done in her three genocide
+      reports, to create an archive that is authoritative as to the criminality of the
+      Israeli policies. So, it’s action oriented and archival, stimulated, archivally
+      ambitious, and has involved a good many highly qualified people. A Jury of Conscience
+      Billington: You plan a follow-up meeting in October. What are your plans or your
+      expectations for that event? Prof. Falk: Let me preface this by saying the launch
+      [of the Gaza Tribunal] was in London a few months before the Sarajevo meeting.
+      The Sarajevo meeting tried to assemble a series of reports that addressed these
+      two sets of objectives, and it will be an input into the final session in Istanbul,
+      which will feature a jury of conscience, again trying to distinguish itself from
+      a court of law. It is not. It is motivated by morality as much as by the attempt
+      to identify and apply relevant law. Law is not irrelevant, but it isn’t the controlling
+      criteria of how one assesses behavior in this sort of context, and it tries to
+      be representative of all parts of the world and has members of its broader advisory
+      council that come from different countries. The jury of conscience will also try
+      to be representative and not composed of jurists alone, but of persons who have
+      reputations as moral authority figures. Billington: You have particularly protested
+      the use by governments and by the press of calling anybody who protests the horror
+      going on in Gaza as “anti-Semitic” or “supporters of terrorism.” What do you think
+      about those repeated accusations? Prof. Falk: I think they are a shamefully effective
+      means of deflecting attention in the media and in the public from the message
+      and trying to get people to talk about the credibility of the messenger. It somewhat
+      works, reflecting the maxim that “where there’s smoke, there’s fire.” Most people,
+      and even the media, are sufficiently uninformed that they’re easily susceptible
+      to this kind of manipulation. In the case of the use of this so-called weaponization
+      of anti-Semitism against political figures, like Jeremy Corbyn in the UK and the
+      three special rapporteurs on Palestine prior to Frances Francesca Albanese, there’s
+      utterly no truth to the accusation that these individuals have any record or attitudes
+      that are hostile to Jews as people. They are hostile to Zionism as an ideology
+      that has made the Palestinians persecuted strangers in their own homeland. And
+      that’s something that has also been manipulated in the press to a great degree,
+      where the reality of Israel is fused with the ideology of Zionism. I grew up in
+      a Jewish home myself in New York City, but in an atmosphere of anti-Zionism. and
+      I guess I’ve maintained that kind of identity throughout my life. I was a close
+      friend of Edward Said, who was one of the principal Palestinian advocates of a
+      just peace and an outcome that recognized the Palestinian rights, but also didn’t
+      favor the forced displacement of Jews that were already in Israel. It did presuppose
+      the dismantling of a Zionist set of rationales for the way in which Israel was
+      governed, which involves, even prior to the genocide, a clear commitment to an
+      apartheid structure, which is also a serious international crime, and was validated
+      by such human rights NGOs as Human Rights Watch and Amnesty International. I also
+      collaborated with Virginia Tilley in a study sponsored by the UN Commission for
+      the Middle East, on how to interpret the allegations of apartheid in terms of
+      Israel’s policies and practices. That’s all part of the pre–October 7th [2023]
+      reality that was effectively erased after the Hamas attack in such a way as to
+      validate this reaction as if it came in a political vacuum—as the UN Secretary-General
+      pointed out, and paid the price of being declared persona non grata in Israel
+      even though he has refrained, as have many high officials in Europe and the UN,
+      from using the G word. Truth Is Getting Out Billington: Speaking of the growing
+      Jewish resistance to this Zionist genocidal policy, you probably saw this article
+      by Dr. Omer Bartov, the professor at Brown University, which was published in
+      The New York Times , which we were all quite surprised that The New York Times
+      allowed such a thing to get through their strict restraint on any truth. But anyway,
+      they did run this article, and he pointed out that the Israeli policy is clearly
+      genocide. He said that not only is he Jewish, but he grew up in a Zionist family,
+      that he lived in Israel for a long time, he served in the IDF and that he has
+      spent his life teaching and researching war crimes and the Holocaust, so he recognizes
+      genocide when he sees it, and this is it. You probably know also that even the
+      former Israeli Prime Minister, Ehud Olmert, has declared that the building of
+      a so-called “humanitarian city” is nothing but an excuse for building a concentration
+      camp, which, of course, in Israel brings up very powerful images for people who
+      lost many of their family in Nazi concentration camps. Do you think there is a
+      shift going on in getting the truth out, getting this narrative out? Prof. Falk:
+      Yes. I think there is a normalization of language, which includes even The New
+      York Times being somewhat receptive to using illuminating terminology rather than
+      obfuscating terminology, which they had been using, describing this as a war,
+      or as a “justifiable defensive response” to the isolated attack on October 7th.
+      But you should take note of the fact that today, the lead editorial in The New
+      York Times by Brett Stevens, a militant or ultra-Zionist, has the descriptive
+      headline: “No, Israel Is Not Committing Genocide.” It is an intelligent but highly
+      selective way of saying that Israel is engaged in a traditional war scenario,
+      and that bad things happen in wars, but this has nothing to do with trying to
+      kill Palestinians because they’re Palestinians. The casualty totals would be much
+      higher if that was the Israeli objective, he claims. They could kill many more
+      people with the technology that they have and the absence of any meaningful capability
+      to resist, which very seldom is taken note of in the West. This is the most extreme
+      of asymmetric conflicts, where one side is totally vulnerable, and the other side
+      just decides what it wants to destroy and faces no meaningful resistance. The
+      Fascist Roots of Zionism Billington: Just the fact that such a headline would
+      be published demonstrates that they’re increasingly frantic about the fact that
+      the world does recognize that this is genocide. So, thou dost protest too much,
+      as they say. You used the term “political Zionism.” What do you mean by that term?
+      Prof. Falk: I mean that it is an ideology that started in the 19th Century and
+      was a reaction to European anti-Semitism and a biblically rooted idea that Jews
+      would flourish again if they could recover Palestine and make it into a Jewish
+      promised land. They proceeded, in their early stages, under secular leadership.
+      Very antagonistic actually, to diaspora Jews, while quite pragmatic in their dealing
+      with the Nazi leadership in the early years. They shared with the Nazis, before
+      the Final Solution was adopted by the Nazis, a shared objective of removing Jews.
+      Zionists wanted to coerce emigration to what was then Palestine, and the early
+      Nazis wanted to exclude as many Jews as possible, a kind of ethnic cleansing,
+      and even made favorable economic arrangements with Zionists to allow those who
+      agreed to emigrate to take their property with them, to liquidate their real property
+      and take the liquid assets with them. So there’s a long collaboration, a kind
+      of ruthless pragmatism. Zionists were responsible for blowing up a synagogue in
+      Iraq in order to again persuade Jews that they had no future if they didn’t come
+      to Israel. And several of the European countries helped give the Zionist militias
+      weapons and training. So, there was a kind of joint project, orientalist in its
+      character. The residents of Palestine, the Arab residents, were never consulted.
+      This was partly a British colonial policy that wanted to divide and rule Palestine
+      after World War One, the famous Balfour Declaration. Balfour himself, who was
+      Foreign Secretary of the UK, was known to be an anti-Semite and welcomed the idea
+      of Jews migrating to Israel, and supported not a state, but a homeland. The tactics
+      of political Zionism from the beginning have been to take what they could get
+      at any given time, but not regard it as a satisfaction of their project. In other
+      words, it was the pursuit of so-called salami tactics where you proceed by small
+      steps toward the ultimate objective. In my view, their response to October 7th
+      was their attempt to pursue the end game of the Zionist political project, which
+      the Netanyahu coalition, which came to power several months before October 7th,
+      made rather clear: that their objective was to promote the settler militancy on
+      the West Bank with the objective of annexation, and to secure the erasure of Palestinian
+      political identity and goals. Netanyahu came before the UN General Assembly several
+      weeks before October 7th and waved a map at the delegates which showed what he
+      called the “new Middle East” with no Palestinian entity acknowledged. Therefore,
+      I think October 7th in the broader context of what was called, even by Washington,
+      the most extreme Israeli government ever to govern, was [used to justify] this
+      kind of onslaught on Gaza as a way of terminating any Palestinian expectations
+      of statehood or of continued resistance. It’s well known that Netanyahu and the
+      Israeli leadership had several very reliable warnings of the impending Gaza attack,
+      including from Washington, months before the event, and that this was either deliberately
+      ignored, or certainly not responded to with any kind of typical Israeli security
+      preoccupations. View full size CC/Avital Efrat Lord Balfour’s visit to Binyamin,
+      Palestine, in 1925. Sitting from left to right: Vera Weizmann, Chaim Weizmann,
+      Balfour, Nahum Sokolov. Standing: British Mandate officials and PKA officials.
+      Billington: This all goes back to Jabotinsky and Bibi’s father, who worked with
+      Jabotinsky. That whole history was covered extensively in a book by one of the
+      leading members of your Gaza Tribunal, Avi Shlaim. Prof. Falk: He’s a professor
+      at Oxford. Billington: My associate, Harley Schlanger, has written an extensive
+      report on the book by Avi Shlaim, which we published in the Executive Intelligence
+      Review , which goes into that whole history, and touches on the role of Bibi Netanyahu’s
+      father and Jabotinsky and others in doing what you described. So this is very
+      important. Prof. Falk: Fascism, particularly in Italy, was a powerful influence
+      on the Jabotinsky view, which in a certain sense was realistic in viewing the
+      fact that the Palestinians would not just abandon their own nationalism. And either
+      Israel would have to face a continuing challenge, or it would have to erect an
+      Iron Wall and have the Palestinians effectively behind that wall. Billington:
+      Right. The resolution of the Gaza Tribunal states that “self-determination is
+      a universal rule not subject to exception and binding on all states.” But obviously
+      this is not being followed, not being honored. How do you account for that and
+      what has to be done? Prof. Falk: I think that the liberation of the Palestinian
+      people depends on the realization of their basic rights that have long been denied.
+      The aspiration for self-determination has a certain legal and moral foundation,
+      in being endorsed by the UN General Assembly and being the subject of an important
+      General Assembly resolution which talks about cooperation and friendly relations
+      among states, and affirms not only the right of self-determination, but also the
+      right of a people to struggle with weapons if necessary, to achieve these rights.
+      So, there is a right of armed resistance to a situation characterized widely now
+      as colonialism or settler colonialism. View full size Jabotinsky Institute Archives
+      Pictured here, Ze’ev Jabotinsky (bottom right) meeting with Betar leaders in Warsaw,
+      Poland, circa 1939. Betar is a right-wing youth movement that arose at that time
+      and adopted special salutes and uniforms influenced by fascism. Bottom left is
+      Menachem Begin, future Prime Minister of Israel. I think that’s a very important
+      background reality. Of course there is resistance to its fulfillment in various
+      settings, most prominently now in Gaza, but also in Kashmir, Western Sahara and
+      other places in the world. There’s been a lot of discussion of the rights of the
+      people in Chechnya in Russia, and in Xinjiang Province in China; Puerto Rico and
+      Hawaii in the U.S. context. So, there are many unresolved issues of self-determination.
+      It’s also somewhat confused by a second principle in international law, which
+      is that the rights of self-determination cannot be achieved by the coercive fracturing
+      of existing states. That really confuses the issue. The last thing I would mention
+      or call attention to is that both of the covenants of human rights, which are
+      the basic instruments for the protection and an articulation of human rights,
+      have as their common Article 1 the inalienable right of self-determination of
+      a people. So, it has a real rootedness in the evolution of international law,
+      post 1945. Are We No Better than Animals? Billington: On another subject, you
+      have worked with our mutual friend Chandra Muzaffar, who is the founder of JUST
+      International, based in Malaysia. Recently, the former prime minister of Malaysia,
+      Dr. Mahathir Mohamad, who just turned 100 years old by the way, a week or so ago,
+      issued a very powerful statement which goes after the question—it’s based a lot
+      on Palestine—but it’s basically going after the collapse of civilization that
+      we’re living through. Let me read a short section from this and get your response.
+      He starts by saying, “For centuries we have been ridding ourselves of barbarism
+      in human society, of injustices, of the oppression of man by man.” He goes on
+      about that, but then he says: “But can we say we are still civilized? Now, over
+      the last three decades especially, we have destroyed most of the ethical values
+      that we had built up. Now we’re seeing an orgy of killing. We’re seeing genocide
+      being perpetrated before our own eyes, where the genocide is actually being promoted
+      and defended, perpetuated by the so-called great leaders of our civilization,
+      by a great nation, the United States of America…. I feel ashamed. We should feel
+      ashamed in the eyes of the animals we consider to be wild. We are worse than them….
+      I hide my face, I am ashamed. Civilization is no more the norm.” Your thoughts
+      on that? View full size UN Photo/Loey Felipe Mahathir bin Mohamad, former Prime
+      Minister of Malaysia. Prof. Falk: I think it’s a very strong and powerful statement.
+      I had the pleasure of meeting Mahathir some years ago, and he has very strong,
+      impressive convictions, and he’s not afraid to express them in relation to what
+      he feels is the abusive behavior of the West. He’s controversial, of course, in
+      Malaysia itself. He’s harsh toward his own opposition within Malaysia. The present
+      Prime Minister of Malaysia [Anwar Ibrahim] is a former protégé, but also became
+      an adversary of his. So he’s a very interesting figure and one of the few great
+      leaders that is still alive at that age, and active at that age, which I can only
+      envy. But I think that he overstates to some extent the degree of what was being
+      done before this most recent period, since the end of the Cold War. The 30 years
+      he refers to was also characterized by barbarism of various sorts, not least of
+      which was the bombing of Hiroshima and Nagasaki—of which this is the 80th anniversary
+      year, and one that was exempt from legal scrutiny because it was perpetrated against
+      an Asian country. If it had been used against, say, European cities, there’s no
+      doubt that they would have been punished as war criminals, the surviving leaders,
+      and the nuclear weapons might well have been prohibited as permissible weaponry,
+      that is now in the possession of at least nine sovereign states that are very
+      reluctant to give them up—give up that weaponry—because it gives them a hegemonic
+      relationship to the non-nuclear countries. Iran has just recently paid the price
+      of not having nuclear weapons. That Iran war, the 12-day war that supposedly was
+      trying to destroy the enrichment facilities of Iran, was a clear case of aggression
+      under the UN Charter and under disgraceful double standards. Israel is a country
+      that acquired nuclear weapons covertly, with the help of the liberal democracies
+      of the West that championed the Non-Proliferation Treaty. When it comes to Iran,
+      they ignore that much-worse behavior on the part of Israel. This was an issue
+      in the Kennedy Presidency in the early 1960s. So, the idea that the West was somehow
+      not responsible for very destructive and unjust policies during the Cold War era
+      is, I think, somewhat misleading, in the degree to which the Vietnam War was fought
+      in a way that has certain resemblances to what’s happening in Gaza: high technology
+      capabilities being used against a low technology society with no adequate means
+      of defending itself or retaliating. The apartheid system in South Africa, the
+      vestiges of colonialism—there were many things in the post 1945 period that ended
+      with the fall of the Berlin Wall, that were quite reprehensible from the perspective
+      of law, morality and justice. So, I welcome Mahathir’s statement because of its
+      general sentiments, but I think it overstates the situation that has emerged in
+      the last period. Viability of a Two-State Solution Billington: Right. So, as I’m
+      sure you know, on July 28 and 29, the UN General Assembly will be holding a session,
+      delayed from an earlier planned meeting in June which was disrupted by the Iran
+      war. The new session will address the call for a two-state solution for the Middle
+      East. The meeting was called by France and Saudi Arabia. We issued a statement
+      by the Schiller Institute and the Executive Intelligence Review called “A Two-State
+      Solution, Not a Final Solution.” Of course, we are not the only people to make
+      references to the Nazi regime and their Final Solution to what’s taking place
+      today in Gaza, but it’s worth recalling. View full size Karel Vereycken, May 2024
+      In our proposal, we are calling for what’s called the Oasis Plan . This is a proposal
+      first issued by Lyndon LaRouche in the 1970s. He had been looking at this throughout
+      his life, to create a massive water and power development plan in the region,
+      centered on Gaza, but extending throughout the broader region as the only basis
+      for creating a situation which will actually address the needs of both the Palestinians
+      and the Israelis, based on the concept that only by addressing the lack of water,
+      and creating an abundance of water and energy, can we create the equality needed
+      for a Palestinian state and the Israeli state to coexist. Your thoughts on that?
+      Prof. Falk: Well, I think it made more sense in the 1970s than it does today,
+      in my judgment, because I don’t see either side agreeing. The one thing the Israelis
+      and Palestinians seem to agree about is the non viability of a two-state solution.
+      The Israelis don’t want Palestinian statehood of any kind. And the Palestinians
+      don’t want to have a Bantustan emerge out of a supposed solution that is drafted
+      without their consent and participation, which has been there a lot from the beginning.
+      Every step, including the Balfour Declaration, the UN Partition Plan [for Palestine,
+      1947], and the various negotiations, have all been carried out without meaningful
+      Palestinian participation. To expect the Palestinians to accept a demilitarized
+      state for themselves in collaboration with Israel, which remains a regional superpower,
+      is, again, I think, quite unrealistic. Israel, unless it sheds its Zionist mantle,
+      is certainly unwilling to demilitarize, and it’s unwilling to have any Palestinian
+      entity legitimately militarized. So, I’m much more sympathetic with an equally
+      difficult resolution to put into practice with the Edward Said vision of a single
+      secular state based on human equality and premised on a thorough commission of
+      reconciliation, which addresses the history of grievances of the Palestinian people.
+      I feel that has at least a glimmer of a chance of making the transition from this
+      horrifying spectacle of one sided genocide, to a sustainable, durable peace. Billington:
+      The idea of the Oasis Plan— It’s pretty clear that what you just said is true,
+      that as long as you have this genocidal policy being dominant in Israel, nothing’s
+      going to happen of use. But the idea is to put on the table, especially for this
+      conference coming up at the UN, to put on the table the fact that there is a solution;
+      that if both sides work together on an actual development policy, what the Pope
+      [Paul VI] once described as “the new name for peace is development,” that if you
+      have a joint plan that addresses the actual needs of transforming the region—
+      Obviously China knows they could get involved with their Belt and Road process,
+      to do the kind of thing they’ve done to transform their deserts into blossoming
+      agricultural regions. They could be part of this. The Belt and Road could be part.
+      And the idea is to put on the table, especially for this conference, a discussion
+      about the only real solution that exists. View full size UN Photo/ICJ-CIJ/Frank
+      van Beek. Courtesy of the ICJ Vusimuzi Madonsela (right), South African Ambassador
+      to the Netherlands, and Dr. Naledi Pandor, Minister of International Relations
+      and Cooperation of the Republic of South Africa, addressing the International
+      Court of Justice at The Hague, Netherlands, Jan. 26, 2024. Let me add that you
+      brought up the question of reconciliation. I’m sure you know Dr. Naledi Pandor,
+      the former Minister of International Relations and Cooperation in South Africa,
+      who took Israel to the International Court of Justice over the genocide. She has
+      been participating in our Schiller Institute conferences. In an interview with
+      Helga Zepp-LaRouche in February, she said the following about the Oasis Plan and
+      linked it to the question of South Africa’s history. She said: “I think the Oasis
+      Plan presents a set of very useful proposals that could be looked at by groupings
+      that are in contention as the basis for further discussion, from our own experience
+      as South Africa, having agreed 30 years ago that we would enter into negotiations
+      with those who had oppressed us for many, many decades. We know that once you
+      get around the table, it is the former oppressed who must determine what future
+      they would like to see.” So, this addresses the question you brought up, but in
+      a way which locates the need for a policy on the table to demonstrate that there
+      are solutions, and that, as Helga has said in her Ten Principles , the fact that
+      the lack of development is the cause of poverty in almost every case, but it is
+      also true that this is due to man. And since it’s due to man, it’s also reversible;
+      it can be corrected. We have to put that into people’s heads, that these are issues
+      that can be resolved. There are solutions. It’s only the lack of will to solve
+      these issues. That has to be the basis for our discussion worldwide. Do you want
+      to say anything more on that? A Positive Solution Invites Discussion Prof. Falk:
+      I think that in a situation which I would characterize as desperate, I think that’s
+      a constructive initiative which deserves to be tested. I am a little bit skeptical
+      of whether the elites representing those that will meet at this UN conference
+      will be receptive. But at least, as you suggest, putting a solution on the table
+      invites discussion. View full size www.freebarghouti.org Marwan Barghouti, a Palestinian
+      leader, who has been held as a political prisoner by Israel since 2002. There’s
+      a second problem of who will decide who represents the Palestinians at that table.
+      There’s a grave doubt as to the legitimacy of the Palestinian Authority in Ramallah
+      as the appropriate representatives of the Palestinian people at this time. Remember
+      that when the South African elite made its decision to entertain the sort of discussion
+      that former Minister Pandor refers to, they agreed to release Nelson Mandela from
+      prison, and he had a stature that enabled him to provide a legitimate representation.
+      The only possible person that could do that in the Palestinian situation is Marwan
+      Barghouti, who is in prison on multiple criminal charges, which are not thought
+      to be valid. If Israel had any interest in really coming to a mutually beneficial
+      solution, it would at least consider releasing Barghouti from prison. He seems
+      to be the only person capable of unifying Palestinian representation. Billington:
+      Do you see any glimmer of hope, as the term you used, that in fact, he will be
+      released, perhaps in one of these prisoner exchanges? Prof. Falk: I think the
+      South African precedent was coupled with a political affirmation that Mandela
+      was released in a context which looked forward to a transformation of the South
+      African governing structure. And I think just releasing Barghouti in a prisoner
+      exchange without endowing him with a show of Israeli confidence that they are
+      prepared to negotiate with him and to respect him, will not be very fruitful.
+      There’s another Barghouti—it’s a big family—Mustafa Barghouti, who’s an opposition
+      figure living in Palestine, living in the West Bank. But I don’t think he has
+      the same charismatic potential that Marwan Barghouti has. He’s very respected.
+      He has a somewhat similar background, actually, to Mahathir. They were both doctors,
+      medical doctors originally, and went into politics. He’s involved with our Gaza
+      Tribunal. We’ve tried to involve Palestinians who seem to be more representative
+      of their real aspirations than the Ramallah group under Muhammad Mahmoud Abbas,
+      which was a sort of creature of the Oslo diplomacy, given legitimacy by the West,
+      but never by the Palestinians. They’ve collaborated, the Palestinian Authority
+      so-called, has collaborated with Israel and the U.S. in security arrangements
+      on the West Bank. So they’re viewed with considerable suspicion. They’re also
+      extremely anti-Hamas. They were pushed out of Gaza by Hamas. The PLO was quite
+      corrupt there. I don’t know the full merits of the conflict, but it’s quite complicated.
+      View full size Fotopedia/Paul Williams Nelson Mandela at his 90th birthday celebration.
+      Billington: Right. I appreciate this very much. We will definitely get this discussion
+      widely circulated, especially going into this meeting at the UN on the 28th and
+      29th of July, which we’re committed to making a turning point, using the Hague
+      Group work in Colombia and the work you’re doing with the Gaza Tribunal and other
+      developments that are taking place. Do you have any sort of final thoughts you’d
+      like to convey to our audience? Prof. Falk: I think you’ve covered the ground.
+      We didn’t say much about Ukraine, but I think I found it a fruitful exchange.
+      Billington: Well, we can do another discussion if you’d like to touch on the obviously
+      still very sensitive and very dangerous situation around Ukraine and the question
+      of whether there will actually be a reconciliation between the U.S. and Russia
+      or not. It’s certainly not clear that there will be, given the rather volatile
+      attitude coming from the U.S. Presidency at this point, which seems to change
+      every five minutes. But perhaps we can have another discussion if you’d like to
+      go into the broader issues. Prof. Falk: Yes. Let’s wait a couple of weeks and
+      see how things work out. It’s possible that the Oasis Plan would have more traction
+      at this point with Ukraine and Russia. Or trilateral, some sort of trilateral
+      adaptation. Billington: We certainly think that the Russia-China cooperation and
+      how that led into the BRICS and the process which the BRICS represents as an alternative
+      to the horror that’s being implemented by almost the entire Western leadership
+      at this point is extremely important. We don’t want to see this break down into
+      two “blocs.” We have to figure out a way of getting the Western leaders to recognize
+      their own fate is dependent upon their collaboration with China, especially, and
+      with Russia strategically as well as economically. And if they do recognize that
+      before the whole Western financial system collapses, as it’s heading right now,
+      then we have a chance of a new global architecture which recognizes both the security
+      and the development of every single country—which is, obviously, what you and
+      what Francesca Albanese and others are promoting. The point is that we have to
+      change the direction of civilization as a whole if we’re going to get out of this
+      unfortunate rapid descent into the threat of global war and even a nuclear war.
+      Prof. Falk: I completely share that view. Billington: So, yes, let’s consider
+      a second discussion, which could look broader. And thank you very much for this.'
+    one_sentence_summary: In an interview with Mike Billington, Professor Richard Falk
+      discusses various topics related to international law and human rights, drawing
+      on his extensive experience, including his role as the UN Special Rapporteur on
+      Palestinian territories.
+    paragraph_summary: In an interview conducted by Mike Billington for the Executive
+      Intelligence Review, Professor Richard Falk, a prominent figure in international
+      law and former UN Special Rapporteur on Palestinian human rights, discusses various
+      topics including his recent article in The Nation that critiques U.S. Senator
+      Marco Rubio's actions against Francesca Albanese, the current UN Special Rapporteur
+      for the Occupied Palestinian Territories. Falk highlights Albanese's courageous
+      stance in addressing the human rights situation in these areas and emphasizes
+      the importance of upholding justice and truth in the face of political challenges.
+      The conversation reflects on Falk's extensive experience in international law
+      and his ongoing commitment to advocating for Palestinian rights.
+    published: '2025-08-02T15:48:31+00:00'
+  - title: 'Countering Genocide: An Interview'
+    url: https://richardfalk.org/2025/08/02/countering-genocide-an-interview/
+    text: 'SU This article appears in the August 1, 2025 issue of Executive Intelligence
+      Review. l Prefatory Note : An interview with Mike Billington of the Schiller Institute
+      on array of topics. Published in the August issue of Execuitve Intellligence Review}
+      [Print version of this article] Richard Falk is a professor emeritus of international
+      law at Princeton University. He is a prolific author who has written extensively
+      on international law and the United Nations. From 2008 to 2014 he served as the
+      United Nations Special Rapporteur on the situation of human rights in the Palestinian
+      territories occupied since 1967. The interview was conducted on July 23, 2025
+      by EIR ’s Michael Billington. Subheads have been added. Mike Billington: Welcome.
+      This is Mike Billington with the Schiller Institute and the Executive Intelligence
+      Review . I’m very pleased to once again have the opportunity to do an interview
+      with Professor Richard Falk. Professor Falk is a professor emeritus of international
+      law and practice at Princeton University. He is also the former United Nations
+      Human Rights Rapporteur in Palestine and the Occupied Territories. He also is
+      a member of the editorial board of the magazine The Nation , in which he published
+      a recent article on the issues that we’re going to discuss. He’s the president
+      of the Gaza Tribunal, which we will also discuss. Welcome, Professor Falk, and
+      thank you for joining us. View full size UN Photo/JC McIlwaine Richard Falk, former
+      UN Special Rapporteur on the situation of human rights in the Palestinian territories
+      occupied since 1967. Prof. Richard Falk: Thank you, Mike, for having me. Glad
+      to be with you again. Billington: In your article in The Nation on July 15, which
+      was titled “Sanctioning Francesca Albanese—Marco Rubio Tramples on the Law, Justice
+      and Truth,” in that article, you review the heroic role of Francesca Albanese
+      as the UN Special Rapporteur for the Occupied Palestinian Territories of East
+      Jerusalem, West Bank and Gaza, which is a position you held from 2008 to 2014,
+      in two three-year terms. In the article you denounced the sanctions imposed by
+      U.S. Secretary of State Marco Rubio on Ms. Albanese. What is the background to
+      this situation? Prof. Falk: Well, the background, as far as the U.S. government
+      is concerned, relates to the arrest warrants that the International Criminal Court
+      issued some months ago, to arrest, for crimes, Prime Minister Netanyahu of Israel
+      and the former Israeli Defense Minister, Yoav Gallant. In February of this year
+      the U.S. imposed sanctions on the four judges that participated in the endorsement
+      of the prosecutors’ recommendation that the arrest warrants be issued. The ICC
+      was sanctioned through the denial of entry to the U.S. to these individuals and
+      their immediate families, and their assets that were within the U.S. were frozen.
+      The ostensible reason that the U.S. government gave for sanctioning Francesca
+      Albanese was that she, in her last report, which has the title “From the Economics
+      of Occupation to the Economics of Genocide,” singled out 48 American and international
+      corporations that were profiting from the genocidal policies being pursued by
+      Israel, and recommended that the ICC investigate and possibly prosecute individuals
+      associated with these companies. The reason, I think, for the linkage to the ICC
+      in her case, was that the Trump executive order that originally was issued after
+      the ICC arrest warrants, implicated the ICC in imposing these arrest warrants
+      against Israel, in violation of America’s U.S. political interests. This was backed
+      up by the claim that, because the U.S. and Israel are not members of the ICC—they’re
+      not parties to the Rome Statute setting up the ICC—they’re not subject to its
+      authority, and therefore the ICC and the prosecutor and these judges were overreaching
+      their authority. View full size CC/Laryllian Francesca Albanese, UN Special Rapporteur
+      on the situation of human rights in the Palestinian territories occupied since
+      1967, whom Prof. Falk characterizes as “the world’s leading candidate for the
+      2026 Nobel Peace Prize.” Francesca’s recent report really didn’t have very much
+      to do with the ICC, except for that recommendation at the end. But it was a kind
+      of a link to the executive order that gave at least the appearance of being a
+      legal foundation for sanctioning her. Rubio, in his statement, made clear that
+      that was not the only grievance that they had against her. He made a statement
+      that she was maliciously associated with anti-Semitism and did harm to U.S. and
+      Israeli economic and political interests, and in fact, accused her of engaging
+      in economic warfare. It was a quite intemperate statement for a prominent U.S.
+      official to make. And it represented, I think, a long term campaign by Zionist
+      NGOs and by Israel to get rid of her, or at least to discredit her in a kind of
+      distinctive and punitive manner. That was the attempt. It had the exact reverse
+      effect. Because now she’s, I suppose, the world’s leading candidate for the 2026
+      Nobel Peace Prize. And she’s even being mentioned as the ideal candidate to be
+      the first woman Secretary-General of the United Nations. So, it is an interesting
+      polarization between this kind of satanic image of her misdeeds, and the sense
+      of praise for what she has accomplished in the course of being a Special Rapporteur
+      of the UN at a difficult time, when the UN itself has proved to be unable to do
+      anything effective to stop the genocide. Billington: Right. You yourself wrote
+      an article calling on Albanese to be awarded the Nobel Peace Prize, rather than
+      the sanctions that she had been given by Rubio and the U.S. Prof. Falk: I also
+      added that a President respectful of the rule of law and international justice,
+      would have requested Rubio’s resignation after making such an outrageous action.
+      Billington: I was going to add to that there’s a petition now circulating which
+      has well over 300,000 signatures calling on Francesca Albanese to be awarded the
+      Nobel Peace Prize. What do you think will be the impact of that, if she actually
+      gets that award or if she gets appointed as the Secretary-General of the UN, as
+      you mentioned? Prof. Falk: As far as the Nobel Peace Prize is concerned, I’ve
+      tried to warn people not to have the appearance of a campaign on her behalf for
+      the Peace Prize, that will hurt her prospects. I’ve been nominated a few times
+      myself, and I know from the committee in Oslo that they are very put off by the
+      sense that they’re giving the award in response to a campaign on behalf of a candidate.
+      So, I wish this petition wasn’t being circulated because they’re quite capable
+      of reaching their own independent assessment, and they might well react to the
+      feeling that they don’t want to seem to be succumbing to political pressure to
+      give her the award. Acts Destructive of Justice Billington: You state in the article
+      that you had in The Nation that the sanctions being imposed are “contrary to international
+      law and morality.” In general, what does this say about the fact that the U.S.
+      role in the world is now increasingly seen as an imposer of sanctions and dictates,
+      rather than any kind of policy for supporting development and progress? Prof.
+      Falk: I think it’s a very concrete instance of punishing a person that should
+      be given an honorific recognition for her bravery and trustworthy reporting under
+      a very difficult situation. So, it’s symbolic of a broader spectrum of acts destructive
+      of justice and world order, of which the U.S. had taken pride in establishing
+      after World War Two. It was established with certain notable deficiencies, but
+      it did respond to public pressure for a war prevention and global security framework
+      that would be more in keeping with the global public interest of peoples, and
+      less an instrument of either capitalist expansion or militarist domination. Unfortunately,
+      after the Cold War, the U.S. chose this path of promoting its national economic
+      and geopolitical interests at the expense of the public good. Billington: Francesca
+      Albanese was a featured speaker at a meeting that took place in what’s called
+      The Hague Group in Bogotá, Colombia, over this last week. This is a group of over
+      a dozen countries that are led by South Africa and Colombia to address the question
+      of the Palestine genocide and the question of statehood for Palestine. I’d like
+      to read a short excerpt from her presentation there, about which I’d like to hear
+      your comment. She said that “Each state should immediately review and suspend
+      all ties with Israel…. I mean, cutting ties with Israel as a whole…. And to consider
+      first and foremost what must we do to stop the genocidal onslaught.” She also
+      said there’s a revolutionary shift going on in the mood of the world. “We are
+      seeing the rise of a new multilateralism: principled, courageous, increasingly
+      led by the Global Majority,” often called the Global South. “…I say the Hague
+      Group has the potential to signal not just a coalition, but a new moral center
+      in world politics…. Millions are watching, hoping for leadership that can birth
+      a new global order rooted in justice, humanity and collective liberation. This
+      is not just about Palestine. This is about all of us. Principled states must rise
+      to this moment….” And “Palestine will have written this tumultuous chapter … as
+      the newest verse in a centuries-long saga of peoples who have risen against injustice,
+      colonialism, and today, more than ever, neoliberal tyranny.” Do you have anything
+      you’d like to add to that? A Glimmer of Light in a Dark Sky Prof. Falk: I think
+      it’s a very eloquent and idealistic vision of a different world order, with values
+      that are much more in keeping with the well-being of humanity as a whole and more
+      conducive to the promotion of peace and justice in the world. They do give a kind
+      of a glimmer of light in a dark sky. There have been several such glimmers of
+      light recently. And they do have the potential, far from the certainty, but the
+      potential of a change in the political atmosphere and in the way in which global
+      security and war prevention and development policies are pursued. It involves
+      curtailing the impact of predatory capitalism and militarist geopolitics. That
+      will not happen without overcoming the entrenched commitment of the established
+      order to things as they are. And we have a very unimpressive set of global leaders
+      in the important countries of the world at this time of global challenge. A more
+      skeptical response to what Francesca has said would be to criticize the short
+      term, performance orientations of the elites of the world, both the corporate
+      elites and the political elites. Corporate elites thinking of the profit, near-term
+      term profits, political elites thinking of their re-election or their legacy,
+      but in a manner that doesn’t address the fundamental issues that confront the
+      world at this time, ranging from climate change to mass poverty, to very severe
+      forms of continuing political violence in many places, and of course, to the centrality
+      of this ongoing genocide that has been a challenge to even the political language
+      that is used by the U.S. government and other supporters of Israel, which present
+      the most transparent genocide as if it were a routine exercise in justifiable
+      self-defense. That involves, I think, one of the worst Orwellian reversals of
+      reality that has occurred in my lifetime. And it is at the cost of this massive,
+      prolonged suffering endured by all Palestinians, but most especially those living
+      in Gaza and the West Bank. Billington: You mentioned other glimmers of hope of
+      a major change like this. Do you want to comment on any of the other glimmers
+      you were thinking of? Prof. Falk: One of the other glimmers is the victory of
+      Zoran Mamdani in the New York mayoralty primary, which defied pollsters and political
+      conventional wisdom that a Muslim progressive had no chance politically to prevail.
+      He was outspent 10 to 1. And he evoked this sense, that also Francesca was projecting,
+      that there is another possibility, another set of possibilities for how one copes
+      with the problems of equity, fairness and the issues that are on the top of the
+      political and economic agenda. What we see in response is the backlash from the
+      darker forces that are bipartisan in character, both the Democratic and Republican
+      establishments. The two-party system wants no part of the political ownership
+      of a man [with] Mamdani’s kind of revolutionary politics. But at least in this
+      arena, one encounters the sense that there could be an alternative. But it’s only
+      a glimmer of light at this point. It has to be reinforced by a popular movement
+      of people and the engagement with the ongoing conflicts, especially Gaza and Ukraine,
+      in ways that bring a more stable future to world politics and allow the focus
+      to be placed more on what people need to lead a decent life, and what the world
+      and the planet needs to be ecologically resilient under growing threats of instability.
+      Objectives of the Gaza Tribunal Billington: You are also the president of the
+      Gaza Tribunal, which was founded at a conference in Sarajevo in May. The resolution
+      which was signed there by the founders, including yourself, condemned the failure
+      of the UN, the growing public protests and leading governments, whose actions
+      have thus far not stopped the ongoing genocide by war and starvation of the Palestinian
+      people. What is the purpose of this Tribunal, and what do you think has been the
+      impact in its founding? Prof. Falk: I was asked to be the president by some sponsors
+      in Türkiye of this undertaking, and they convinced me that it was a worthwhile
+      undertaking. I’m not normally very comfortable in quasi-administrative roles and
+      also not very confident in them, but I was unsuccessful in persuading them to
+      seek an alternative to myself. And I thought it was important. I’ve participated
+      as a judge in past people’s tribunals and found them to be a useful way of narrating
+      a conflict in a manner that is progressive and free from media manipulations and
+      government control and self-censorship and so on. And in the context of the Gaza
+      situation, the formation of such a tribunal takes place after the formal system
+      exhibited an inability to enforce international law. It did some positive things,
+      such as the International Court of Justice’s response to the South African submission
+      that Israel was, in carrying out its policies in Gaza, was violating the International
+      Convention on Genocide. It was very professional and juridically impressive in
+      responding to that submission by issuing some interim orders that acknowledge
+      the plausibility of alleging genocide, and condemned Israel’s disruption of international
+      delivery of humanitarian assistance. View full size UNRWA/Ashraf Amra A mother
+      in Gaza cries for her four-year-old daughter, who lost her life due to starvation
+      and lack of treatment, brought about by Israel’s genocide policy against the Palestinians.
+      These interim rulings were directed to Israel, but were defied, as expected, and
+      so an enforcement gap was made clear that the ICJ could declare authoritatively
+      the law, but its enforcement, if a state such as Israel refused to voluntarily
+      comply, and was subject to the veto of the only part of the UN system that had
+      enforcement capabilities and authorities, the Security Council, that meant that
+      the UN was paralyzed in dealing with enforcement or accountability or complicity.
+      The objective of the Gaza People’s Tribunal is to close these gaps, or at least
+      to exert pressure on these gaps, by activating people in civil society to exhibit
+      solidarity initiatives that support the Palestinian struggle, by both placing
+      pressure on governments to stop supplying arms, to cut diplomatic relations, to
+      do various things that would indicate more than a verbal commitment to end this
+      genocide. It is shameful that the Arab governments that could exert decisive pressure
+      have proved to be passive or even indirectly supportive of Israel’s tactics in
+      Gaza. So, the two main objectives of the Tribunal are stimulating activism by
+      civil society individuals and other collective actors, NGOs and so on. And the
+      second one is to document in an objective and comprehensive way the crimes that
+      have been committed centering on the genocide, which, even if the ICJ eventually
+      comes with a favorable decision, will not be rendered for a couple of years at
+      best. So, this promises a quicker result and a result guided more by the pursuit
+      of justice than a legalistic conception of wrongdoing. In other words, a formal
+      court is bound by the technical rules of a legal process. And that means impartiality
+      and due process for the accused side. This Tribunal starts with the premise of
+      Israeli guilt, and it makes no attempt at appraising the arguments advanced by
+      Israel in an objective manner. But it does try to treat the evidence available
+      to it as objectively as possible, and to proceed along the line, somewhat similar
+      to what the Special Rapporteur Francesca Albanese has done in her three genocide
+      reports, to create an archive that is authoritative as to the criminality of the
+      Israeli policies. So, it’s action oriented and archival, stimulated, archivally
+      ambitious, and has involved a good many highly qualified people. A Jury of Conscience
+      Billington: You plan a follow-up meeting in October. What are your plans or your
+      expectations for that event? Prof. Falk: Let me preface this by saying the launch
+      [of the Gaza Tribunal] was in London a few months before the Sarajevo meeting.
+      The Sarajevo meeting tried to assemble a series of reports that addressed these
+      two sets of objectives, and it will be an input into the final session in Istanbul,
+      which will feature a jury of conscience, again trying to distinguish itself from
+      a court of law. It is not. It is motivated by morality as much as by the attempt
+      to identify and apply relevant law. Law is not irrelevant, but it isn’t the controlling
+      criteria of how one assesses behavior in this sort of context, and it tries to
+      be representative of all parts of the world and has members of its broader advisory
+      council that come from different countries. The jury of conscience will also try
+      to be representative and not composed of jurists alone, but of persons who have
+      reputations as moral authority figures. Billington: You have particularly protested
+      the use by governments and by the press of calling anybody who protests the horror
+      going on in Gaza as “anti-Semitic” or “supporters of terrorism.” What do you think
+      about those repeated accusations? Prof. Falk: I think they are a shamefully effective
+      means of deflecting attention in the media and in the public from the message
+      and trying to get people to talk about the credibility of the messenger. It somewhat
+      works, reflecting the maxim that “where there’s smoke, there’s fire.” Most people,
+      and even the media, are sufficiently uninformed that they’re easily susceptible
+      to this kind of manipulation. In the case of the use of this so-called weaponization
+      of anti-Semitism against political figures, like Jeremy Corbyn in the UK and the
+      three special rapporteurs on Palestine prior to Frances Francesca Albanese, there’s
+      utterly no truth to the accusation that these individuals have any record or attitudes
+      that are hostile to Jews as people. They are hostile to Zionism as an ideology
+      that has made the Palestinians persecuted strangers in their own homeland. And
+      that’s something that has also been manipulated in the press to a great degree,
+      where the reality of Israel is fused with the ideology of Zionism. I grew up in
+      a Jewish home myself in New York City, but in an atmosphere of anti-Zionism. and
+      I guess I’ve maintained that kind of identity throughout my life. I was a close
+      friend of Edward Said, who was one of the principal Palestinian advocates of a
+      just peace and an outcome that recognized the Palestinian rights, but also didn’t
+      favor the forced displacement of Jews that were already in Israel. It did presuppose
+      the dismantling of a Zionist set of rationales for the way in which Israel was
+      governed, which involves, even prior to the genocide, a clear commitment to an
+      apartheid structure, which is also a serious international crime, and was validated
+      by such human rights NGOs as Human Rights Watch and Amnesty International. I also
+      collaborated with Virginia Tilley in a study sponsored by the UN Commission for
+      the Middle East, on how to interpret the allegations of apartheid in terms of
+      Israel’s policies and practices. That’s all part of the pre–October 7th [2023]
+      reality that was effectively erased after the Hamas attack in such a way as to
+      validate this reaction as if it came in a political vacuum—as the UN Secretary-General
+      pointed out, and paid the price of being declared persona non grata in Israel
+      even though he has refrained, as have many high officials in Europe and the UN,
+      from using the G word. Truth Is Getting Out Billington: Speaking of the growing
+      Jewish resistance to this Zionist genocidal policy, you probably saw this article
+      by Dr. Omer Bartov, the professor at Brown University, which was published in
+      The New York Times , which we were all quite surprised that The New York Times
+      allowed such a thing to get through their strict restraint on any truth. But anyway,
+      they did run this article, and he pointed out that the Israeli policy is clearly
+      genocide. He said that not only is he Jewish, but he grew up in a Zionist family,
+      that he lived in Israel for a long time, he served in the IDF and that he has
+      spent his life teaching and researching war crimes and the Holocaust, so he recognizes
+      genocide when he sees it, and this is it. You probably know also that even the
+      former Israeli Prime Minister, Ehud Olmert, has declared that the building of
+      a so-called “humanitarian city” is nothing but an excuse for building a concentration
+      camp, which, of course, in Israel brings up very powerful images for people who
+      lost many of their family in Nazi concentration camps. Do you think there is a
+      shift going on in getting the truth out, getting this narrative out? Prof. Falk:
+      Yes. I think there is a normalization of language, which includes even The New
+      York Times being somewhat receptive to using illuminating terminology rather than
+      obfuscating terminology, which they had been using, describing this as a war,
+      or as a “justifiable defensive response” to the isolated attack on October 7th.
+      But you should take note of the fact that today, the lead editorial in The New
+      York Times by Brett Stevens, a militant or ultra-Zionist, has the descriptive
+      headline: “No, Israel Is Not Committing Genocide.” It is an intelligent but highly
+      selective way of saying that Israel is engaged in a traditional war scenario,
+      and that bad things happen in wars, but this has nothing to do with trying to
+      kill Palestinians because they’re Palestinians. The casualty totals would be much
+      higher if that was the Israeli objective, he claims. They could kill many more
+      people with the technology that they have and the absence of any meaningful capability
+      to resist, which very seldom is taken note of in the West. This is the most extreme
+      of asymmetric conflicts, where one side is totally vulnerable, and the other side
+      just decides what it wants to destroy and faces no meaningful resistance. The
+      Fascist Roots of Zionism Billington: Just the fact that such a headline would
+      be published demonstrates that they’re increasingly frantic about the fact that
+      the world does recognize that this is genocide. So, thou dost protest too much,
+      as they say. You used the term “political Zionism.” What do you mean by that term?
+      Prof. Falk: I mean that it is an ideology that started in the 19th Century and
+      was a reaction to European anti-Semitism and a biblically rooted idea that Jews
+      would flourish again if they could recover Palestine and make it into a Jewish
+      promised land. They proceeded, in their early stages, under secular leadership.
+      Very antagonistic actually, to diaspora Jews, while quite pragmatic in their dealing
+      with the Nazi leadership in the early years. They shared with the Nazis, before
+      the Final Solution was adopted by the Nazis, a shared objective of removing Jews.
+      Zionists wanted to coerce emigration to what was then Palestine, and the early
+      Nazis wanted to exclude as many Jews as possible, a kind of ethnic cleansing,
+      and even made favorable economic arrangements with Zionists to allow those who
+      agreed to emigrate to take their property with them, to liquidate their real property
+      and take the liquid assets with them. So there’s a long collaboration, a kind
+      of ruthless pragmatism. Zionists were responsible for blowing up a synagogue in
+      Iraq in order to again persuade Jews that they had no future if they didn’t come
+      to Israel. And several of the European countries helped give the Zionist militias
+      weapons and training. So, there was a kind of joint project, orientalist in its
+      character. The residents of Palestine, the Arab residents, were never consulted.
+      This was partly a British colonial policy that wanted to divide and rule Palestine
+      after World War One, the famous Balfour Declaration. Balfour himself, who was
+      Foreign Secretary of the UK, was known to be an anti-Semite and welcomed the idea
+      of Jews migrating to Israel, and supported not a state, but a homeland. The tactics
+      of political Zionism from the beginning have been to take what they could get
+      at any given time, but not regard it as a satisfaction of their project. In other
+      words, it was the pursuit of so-called salami tactics where you proceed by small
+      steps toward the ultimate objective. In my view, their response to October 7th
+      was their attempt to pursue the end game of the Zionist political project, which
+      the Netanyahu coalition, which came to power several months before October 7th,
+      made rather clear: that their objective was to promote the settler militancy on
+      the West Bank with the objective of annexation, and to secure the erasure of Palestinian
+      political identity and goals. Netanyahu came before the UN General Assembly several
+      weeks before October 7th and waved a map at the delegates which showed what he
+      called the “new Middle East” with no Palestinian entity acknowledged. Therefore,
+      I think October 7th in the broader context of what was called, even by Washington,
+      the most extreme Israeli government ever to govern, was [used to justify] this
+      kind of onslaught on Gaza as a way of terminating any Palestinian expectations
+      of statehood or of continued resistance. It’s well known that Netanyahu and the
+      Israeli leadership had several very reliable warnings of the impending Gaza attack,
+      including from Washington, months before the event, and that this was either deliberately
+      ignored, or certainly not responded to with any kind of typical Israeli security
+      preoccupations. View full size CC/Avital Efrat Lord Balfour’s visit to Binyamin,
+      Palestine, in 1925. Sitting from left to right: Vera Weizmann, Chaim Weizmann,
+      Balfour, Nahum Sokolov. Standing: British Mandate officials and PKA officials.
+      Billington: This all goes back to Jabotinsky and Bibi’s father, who worked with
+      Jabotinsky. That whole history was covered extensively in a book by one of the
+      leading members of your Gaza Tribunal, Avi Shlaim. Prof. Falk: He’s a professor
+      at Oxford. Billington: My associate, Harley Schlanger, has written an extensive
+      report on the book by Avi Shlaim, which we published in the Executive Intelligence
+      Review , which goes into that whole history, and touches on the role of Bibi Netanyahu’s
+      father and Jabotinsky and others in doing what you described. So this is very
+      important. Prof. Falk: Fascism, particularly in Italy, was a powerful influence
+      on the Jabotinsky view, which in a certain sense was realistic in viewing the
+      fact that the Palestinians would not just abandon their own nationalism. And either
+      Israel would have to face a continuing challenge, or it would have to erect an
+      Iron Wall and have the Palestinians effectively behind that wall. Billington:
+      Right. The resolution of the Gaza Tribunal states that “self-determination is
+      a universal rule not subject to exception and binding on all states.” But obviously
+      this is not being followed, not being honored. How do you account for that and
+      what has to be done? Prof. Falk: I think that the liberation of the Palestinian
+      people depends on the realization of their basic rights that have long been denied.
+      The aspiration for self-determination has a certain legal and moral foundation,
+      in being endorsed by the UN General Assembly and being the subject of an important
+      General Assembly resolution which talks about cooperation and friendly relations
+      among states, and affirms not only the right of self-determination, but also the
+      right of a people to struggle with weapons if necessary, to achieve these rights.
+      So, there is a right of armed resistance to a situation characterized widely now
+      as colonialism or settler colonialism. View full size Jabotinsky Institute Archives
+      Pictured here, Ze’ev Jabotinsky (bottom right) meeting with Betar leaders in Warsaw,
+      Poland, circa 1939. Betar is a right-wing youth movement that arose at that time
+      and adopted special salutes and uniforms influenced by fascism. Bottom left is
+      Menachem Begin, future Prime Minister of Israel. I think that’s a very important
+      background reality. Of course there is resistance to its fulfillment in various
+      settings, most prominently now in Gaza, but also in Kashmir, Western Sahara and
+      other places in the world. There’s been a lot of discussion of the rights of the
+      people in Chechnya in Russia, and in Xinjiang Province in China; Puerto Rico and
+      Hawaii in the U.S. context. So, there are many unresolved issues of self-determination.
+      It’s also somewhat confused by a second principle in international law, which
+      is that the rights of self-determination cannot be achieved by the coercive fracturing
+      of existing states. That really confuses the issue. The last thing I would mention
+      or call attention to is that both of the covenants of human rights, which are
+      the basic instruments for the protection and an articulation of human rights,
+      have as their common Article 1 the inalienable right of self-determination of
+      a people. So, it has a real rootedness in the evolution of international law,
+      post 1945. Are We No Better than Animals? Billington: On another subject, you
+      have worked with our mutual friend Chandra Muzaffar, who is the founder of JUST
+      International, based in Malaysia. Recently, the former prime minister of Malaysia,
+      Dr. Mahathir Mohamad, who just turned 100 years old by the way, a week or so ago,
+      issued a very powerful statement which goes after the question—it’s based a lot
+      on Palestine—but it’s basically going after the collapse of civilization that
+      we’re living through. Let me read a short section from this and get your response.
+      He starts by saying, “For centuries we have been ridding ourselves of barbarism
+      in human society, of injustices, of the oppression of man by man.” He goes on
+      about that, but then he says: “But can we say we are still civilized? Now, over
+      the last three decades especially, we have destroyed most of the ethical values
+      that we had built up. Now we’re seeing an orgy of killing. We’re seeing genocide
+      being perpetrated before our own eyes, where the genocide is actually being promoted
+      and defended, perpetuated by the so-called great leaders of our civilization,
+      by a great nation, the United States of America…. I feel ashamed. We should feel
+      ashamed in the eyes of the animals we consider to be wild. We are worse than them….
+      I hide my face, I am ashamed. Civilization is no more the norm.” Your thoughts
+      on that? View full size UN Photo/Loey Felipe Mahathir bin Mohamad, former Prime
+      Minister of Malaysia. Prof. Falk: I think it’s a very strong and powerful statement.
+      I had the pleasure of meeting Mahathir some years ago, and he has very strong,
+      impressive convictions, and he’s not afraid to express them in relation to what
+      he feels is the abusive behavior of the West. He’s controversial, of course, in
+      Malaysia itself. He’s harsh toward his own opposition within Malaysia. The present
+      Prime Minister of Malaysia [Anwar Ibrahim] is a former protégé, but also became
+      an adversary of his. So he’s a very interesting figure and one of the few great
+      leaders that is still alive at that age, and active at that age, which I can only
+      envy. But I think that he overstates to some extent the degree of what was being
+      done before this most recent period, since the end of the Cold War. The 30 years
+      he refers to was also characterized by barbarism of various sorts, not least of
+      which was the bombing of Hiroshima and Nagasaki—of which this is the 80th anniversary
+      year, and one that was exempt from legal scrutiny because it was perpetrated against
+      an Asian country. If it had been used against, say, European cities, there’s no
+      doubt that they would have been punished as war criminals, the surviving leaders,
+      and the nuclear weapons might well have been prohibited as permissible weaponry,
+      that is now in the possession of at least nine sovereign states that are very
+      reluctant to give them up—give up that weaponry—because it gives them a hegemonic
+      relationship to the non-nuclear countries. Iran has just recently paid the price
+      of not having nuclear weapons. That Iran war, the 12-day war that supposedly was
+      trying to destroy the enrichment facilities of Iran, was a clear case of aggression
+      under the UN Charter and under disgraceful double standards. Israel is a country
+      that acquired nuclear weapons covertly, with the help of the liberal democracies
+      of the West that championed the Non-Proliferation Treaty. When it comes to Iran,
+      they ignore that much-worse behavior on the part of Israel. This was an issue
+      in the Kennedy Presidency in the early 1960s. So, the idea that the West was somehow
+      not responsible for very destructive and unjust policies during the Cold War era
+      is, I think, somewhat misleading, in the degree to which the Vietnam War was fought
+      in a way that has certain resemblances to what’s happening in Gaza: high technology
+      capabilities being used against a low technology society with no adequate means
+      of defending itself or retaliating. The apartheid system in South Africa, the
+      vestiges of colonialism—there were many things in the post 1945 period that ended
+      with the fall of the Berlin Wall, that were quite reprehensible from the perspective
+      of law, morality and justice. So, I welcome Mahathir’s statement because of its
+      general sentiments, but I think it overstates the situation that has emerged in
+      the last period. Viability of a Two-State Solution Billington: Right. So, as I’m
+      sure you know, on July 28 and 29, the UN General Assembly will be holding a session,
+      delayed from an earlier planned meeting in June which was disrupted by the Iran
+      war. The new session will address the call for a two-state solution for the Middle
+      East. The meeting was called by France and Saudi Arabia. We issued a statement
+      by the Schiller Institute and the Executive Intelligence Review called “A Two-State
+      Solution, Not a Final Solution.” Of course, we are not the only people to make
+      references to the Nazi regime and their Final Solution to what’s taking place
+      today in Gaza, but it’s worth recalling. View full size Karel Vereycken, May 2024
+      In our proposal, we are calling for what’s called the Oasis Plan . This is a proposal
+      first issued by Lyndon LaRouche in the 1970s. He had been looking at this throughout
+      his life, to create a massive water and power development plan in the region,
+      centered on Gaza, but extending throughout the broader region as the only basis
+      for creating a situation which will actually address the needs of both the Palestinians
+      and the Israelis, based on the concept that only by addressing the lack of water,
+      and creating an abundance of water and energy, can we create the equality needed
+      for a Palestinian state and the Israeli state to coexist. Your thoughts on that?
+      Prof. Falk: Well, I think it made more sense in the 1970s than it does today,
+      in my judgment, because I don’t see either side agreeing. The one thing the Israelis
+      and Palestinians seem to agree about is the non viability of a two-state solution.
+      The Israelis don’t want Palestinian statehood of any kind. And the Palestinians
+      don’t want to have a Bantustan emerge out of a supposed solution that is drafted
+      without their consent and participation, which has been there a lot from the beginning.
+      Every step, including the Balfour Declaration, the UN Partition Plan [for Palestine,
+      1947], and the various negotiations, have all been carried out without meaningful
+      Palestinian participation. To expect the Palestinians to accept a demilitarized
+      state for themselves in collaboration with Israel, which remains a regional superpower,
+      is, again, I think, quite unrealistic. Israel, unless it sheds its Zionist mantle,
+      is certainly unwilling to demilitarize, and it’s unwilling to have any Palestinian
+      entity legitimately militarized. So, I’m much more sympathetic with an equally
+      difficult resolution to put into practice with the Edward Said vision of a single
+      secular state based on human equality and premised on a thorough commission of
+      reconciliation, which addresses the history of grievances of the Palestinian people.
+      I feel that has at least a glimmer of a chance of making the transition from this
+      horrifying spectacle of one sided genocide, to a sustainable, durable peace. Billington:
+      The idea of the Oasis Plan— It’s pretty clear that what you just said is true,
+      that as long as you have this genocidal policy being dominant in Israel, nothing’s
+      going to happen of use. But the idea is to put on the table, especially for this
+      conference coming up at the UN, to put on the table the fact that there is a solution;
+      that if both sides work together on an actual development policy, what the Pope
+      [Paul VI] once described as “the new name for peace is development,” that if you
+      have a joint plan that addresses the actual needs of transforming the region—
+      Obviously China knows they could get involved with their Belt and Road process,
+      to do the kind of thing they’ve done to transform their deserts into blossoming
+      agricultural regions. They could be part of this. The Belt and Road could be part.
+      And the idea is to put on the table, especially for this conference, a discussion
+      about the only real solution that exists. View full size UN Photo/ICJ-CIJ/Frank
+      van Beek. Courtesy of the ICJ Vusimuzi Madonsela (right), South African Ambassador
+      to the Netherlands, and Dr. Naledi Pandor, Minister of International Relations
+      and Cooperation of the Republic of South Africa, addressing the International
+      Court of Justice at The Hague, Netherlands, Jan. 26, 2024. Let me add that you
+      brought up the question of reconciliation. I’m sure you know Dr. Naledi Pandor,
+      the former Minister of International Relations and Cooperation in South Africa,
+      who took Israel to the International Court of Justice over the genocide. She has
+      been participating in our Schiller Institute conferences. In an interview with
+      Helga Zepp-LaRouche in February, she said the following about the Oasis Plan and
+      linked it to the question of South Africa’s history. She said: “I think the Oasis
+      Plan presents a set of very useful proposals that could be looked at by groupings
+      that are in contention as the basis for further discussion, from our own experience
+      as South Africa, having agreed 30 years ago that we would enter into negotiations
+      with those who had oppressed us for many, many decades. We know that once you
+      get around the table, it is the former oppressed who must determine what future
+      they would like to see.” So, this addresses the question you brought up, but in
+      a way which locates the need for a policy on the table to demonstrate that there
+      are solutions, and that, as Helga has said in her Ten Principles , the fact that
+      the lack of development is the cause of poverty in almost every case, but it is
+      also true that this is due to man. And since it’s due to man, it’s also reversible;
+      it can be corrected. We have to put that into people’s heads, that these are issues
+      that can be resolved. There are solutions. It’s only the lack of will to solve
+      these issues. That has to be the basis for our discussion worldwide. Do you want
+      to say anything more on that? A Positive Solution Invites Discussion Prof. Falk:
+      I think that in a situation which I would characterize as desperate, I think that’s
+      a constructive initiative which deserves to be tested. I am a little bit skeptical
+      of whether the elites representing those that will meet at this UN conference
+      will be receptive. But at least, as you suggest, putting a solution on the table
+      invites discussion. View full size www.freebarghouti.org Marwan Barghouti, a Palestinian
+      leader, who has been held as a political prisoner by Israel since 2002. There’s
+      a second problem of who will decide who represents the Palestinians at that table.
+      There’s a grave doubt as to the legitimacy of the Palestinian Authority in Ramallah
+      as the appropriate representatives of the Palestinian people at this time. Remember
+      that when the South African elite made its decision to entertain the sort of discussion
+      that former Minister Pandor refers to, they agreed to release Nelson Mandela from
+      prison, and he had a stature that enabled him to provide a legitimate representation.
+      The only possible person that could do that in the Palestinian situation is Marwan
+      Barghouti, who is in prison on multiple criminal charges, which are not thought
+      to be valid. If Israel had any interest in really coming to a mutually beneficial
+      solution, it would at least consider releasing Barghouti from prison. He seems
+      to be the only person capable of unifying Palestinian representation. Billington:
+      Do you see any glimmer of hope, as the term you used, that in fact, he will be
+      released, perhaps in one of these prisoner exchanges? Prof. Falk: I think the
+      South African precedent was coupled with a political affirmation that Mandela
+      was released in a context which looked forward to a transformation of the South
+      African governing structure. And I think just releasing Barghouti in a prisoner
+      exchange without endowing him with a show of Israeli confidence that they are
+      prepared to negotiate with him and to respect him, will not be very fruitful.
+      There’s another Barghouti—it’s a big family—Mustafa Barghouti, who’s an opposition
+      figure living in Palestine, living in the West Bank. But I don’t think he has
+      the same charismatic potential that Marwan Barghouti has. He’s very respected.
+      He has a somewhat similar background, actually, to Mahathir. They were both doctors,
+      medical doctors originally, and went into politics. He’s involved with our Gaza
+      Tribunal. We’ve tried to involve Palestinians who seem to be more representative
+      of their real aspirations than the Ramallah group under Muhammad Mahmoud Abbas,
+      which was a sort of creature of the Oslo diplomacy, given legitimacy by the West,
+      but never by the Palestinians. They’ve collaborated, the Palestinian Authority
+      so-called, has collaborated with Israel and the U.S. in security arrangements
+      on the West Bank. So they’re viewed with considerable suspicion. They’re also
+      extremely anti-Hamas. They were pushed out of Gaza by Hamas. The PLO was quite
+      corrupt there. I don’t know the full merits of the conflict, but it’s quite complicated.
+      View full size Fotopedia/Paul Williams Nelson Mandela at his 90th birthday celebration.
+      Billington: Right. I appreciate this very much. We will definitely get this discussion
+      widely circulated, especially going into this meeting at the UN on the 28th and
+      29th of July, which we’re committed to making a turning point, using the Hague
+      Group work in Colombia and the work you’re doing with the Gaza Tribunal and other
+      developments that are taking place. Do you have any sort of final thoughts you’d
+      like to convey to our audience? Prof. Falk: I think you’ve covered the ground.
+      We didn’t say much about Ukraine, but I think I found it a fruitful exchange.
+      Billington: Well, we can do another discussion if you’d like to touch on the obviously
+      still very sensitive and very dangerous situation around Ukraine and the question
+      of whether there will actually be a reconciliation between the U.S. and Russia
+      or not. It’s certainly not clear that there will be, given the rather volatile
+      attitude coming from the U.S. Presidency at this point, which seems to change
+      every five minutes. But perhaps we can have another discussion if you’d like to
+      go into the broader issues. Prof. Falk: Yes. Let’s wait a couple of weeks and
+      see how things work out. It’s possible that the Oasis Plan would have more traction
+      at this point with Ukraine and Russia. Or trilateral, some sort of trilateral
+      adaptation. Billington: We certainly think that the Russia-China cooperation and
+      how that led into the BRICS and the process which the BRICS represents as an alternative
+      to the horror that’s being implemented by almost the entire Western leadership
+      at this point is extremely important. We don’t want to see this break down into
+      two “blocs.” We have to figure out a way of getting the Western leaders to recognize
+      their own fate is dependent upon their collaboration with China, especially, and
+      with Russia strategically as well as economically. And if they do recognize that
+      before the whole Western financial system collapses, as it’s heading right now,
+      then we have a chance of a new global architecture which recognizes both the security
+      and the development of every single country—which is, obviously, what you and
+      what Francesca Albanese and others are promoting. The point is that we have to
+      change the direction of civilization as a whole if we’re going to get out of this
+      unfortunate rapid descent into the threat of global war and even a nuclear war.
+      Prof. Falk: I completely share that view. Billington: So, yes, let’s consider
+      a second discussion, which could look broader. And thank you very much for this.'
+    one_sentence_summary: In an interview with Mike Billington, Professor Richard Falk
+      discusses various topics related to international law and human rights, drawing
+      on his extensive experience, including his role as the UN Special Rapporteur on
+      Palestinian territories.
+    paragraph_summary: In an interview conducted by Mike Billington for the Executive
+      Intelligence Review, Professor Richard Falk, a prominent figure in international
+      law and former UN Special Rapporteur on Palestinian human rights, discusses various
+      topics including his recent article in The Nation that critiques U.S. Senator
+      Marco Rubio's actions against Francesca Albanese, the current UN Special Rapporteur
+      for the Occupied Palestinian Territories. Falk highlights Albanese's courageous
+      stance in addressing the human rights situation in these areas and emphasizes
+      the importance of upholding justice and truth in the face of political challenges.
+      The conversation reflects on Falk's extensive experience in international law
+      and his ongoing commitment to advocating for Palestinian rights.
+    published: '2025-08-02T15:48:31+00:00'
   - title: 'USG Sanctioning Francesca Albanese: Marco Rubio Tramples on Law, Justice,
       and Truth'
     url: https://richardfalk.org/2025/07/27/usg-sanctioning-francesca-albanese-marco-rubio-tramples-on-law-justice-and-truth/

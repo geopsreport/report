@@ -7,18 +7,188 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  The geopolitical landscape remains tense as Western policies and narratives continue to shape international relations, with recent developments highlighting growing friction over sanctions, technological competition, and the future of regional stability.
+  As of August 6, 2025, the global geopolitical landscape remains marked by both persistent tensions and emerging calls for positive change. Recent independent analysis highlights several key developments and ongoing debates.
   
-  In the wake of the US government’s decision to sanction Francesca Albanese, a UN official, there has been significant backlash from legal and human rights communities. **Jan Oberg** sharply criticizes Senator Marco Rubio’s justification for the sanctions, arguing that it undermines the principles of law, justice, and truth. Oberg contends that such actions not only damage the credibility of US foreign policy but also set a dangerous precedent for targeting individuals engaged in legitimate international work.
+  **Growing Momentum for Palestinian State Recognition**
   
-  Meanwhile, the debate over China’s technological leadership persists, particularly in the fields of quantum physics and artificial intelligence. **Jan Oberg** notes that the ongoing discussion about whether China is “leading” is ultimately futile, as it distracts from the more pressing need for global cooperation and mutual benefit in science and technology. He warns that framing technological progress as a zero-sum competition risks fueling further mistrust and division between major powers.
+  A significant shift is underway in Europe regarding the Israeli-Palestinian conflict. According to **Jan Oberg**, mounting public pressure is compelling European politicians, particularly in Britain, to reconsider long-standing policies. Britain, historically implicated in the origins of the conflict, is now poised to recognize a Palestinian state. This move is seen as a response to widespread advocacy and a changing public mood across the continent. **Oberg** notes that this recognition is "most definitely" on the horizon, reflecting a high-confidence prediction that further European states may follow suit, potentially reshaping diplomatic dynamics in the region.
   
-  Turning to the Middle East, the question of Iran’s political trajectory remains unresolved. In a recent online conference, **Farhang Jahanpour** explored whether Iran is more likely to experience a peaceful transition or a revolution. The consensus among analysts is that, while internal pressures for change are mounting, the path forward is uncertain. However, Oberg assesses with medium confidence that there is a high chance of gradual reform rather than abrupt upheaval, given the resilience of existing institutions and the lack of unified opposition.
+  **Advocacy for Positive Vision and Non-Violence**
   
-  Looking ahead, the prevailing trends suggest that Western reliance on sanctions and adversarial rhetoric is likely to persist, especially in dealings with international organizations and rival states. The technological rivalry with China will continue to be framed in competitive terms, despite calls for more collaborative approaches. In the case of Iran, incremental change appears more probable than revolutionary transformation, though the situation remains fluid.
+  In the face of ongoing global crises, there is a renewed emphasis on fostering a positive vision for humanity. **Jan Oberg** stresses the importance of "embracing the present moment" and promoting peace, drawing on the philosophy of non-violence as articulated by Gandhi. This perspective is gaining traction among civil society actors who argue that constructive engagement and public education on peaceful conflict resolution are essential alternatives to militarism.
   
-  In summary, the current trajectory points toward sustained geopolitical tension, with legal and diplomatic norms under strain and the risk of further polarization in both technological and regional arenas. Most definitely, these dynamics will shape the global order in the months to come.
+  **China’s Development Initiatives in Xinjiang**
+  
+  On the ground in China, a recent fact-finding mission by the Transnational Foundation for Peace and Future Research (TFF) observed a strong local desire for development in Xinjiang Province. **Oberg** and colleagues report that efforts are underway to establish a public education library, reflecting broader ambitions for social and educational progress. While the international debate over China’s global leadership continues, local initiatives such as these highlight a focus on internal development rather than external competition.
+  
+  **Trends and Predictions**
+  
+  The prevailing trend across these issues is a gradual but discernible shift toward diplomatic engagement, public advocacy, and non-violent solutions. The anticipated recognition of a Palestinian state by Britain is likely to accelerate similar moves elsewhere in Europe, with **Oberg** expressing high confidence in this trajectory. Meanwhile, the promotion of positive, peaceful alternatives to conflict is expected to gain further momentum among both policymakers and grassroots movements. In China, local development projects are set to continue, with a high chance of increased international attention on educational and social initiatives rather than solely on geopolitical rivalry.
+  
+  Overall, the current period is characterized by cautious optimism, with new opportunities for peace and constructive change emerging alongside persistent challenges.
 articles:
+  - title: 'Joie de Vivre: Reclaiming a Positive Vision in Troubled Times'
+    url: https://transnational.live/2025/08/05/joie-de-vivre-reclaiming-a-positive-vision-in-troubled-times/
+    text: 'Joie De Vivre, 1946 by Pablo Picasso Not recognizing the magic of the present
+      moment may just be a crime against our humanity. David Andersson August 5, 2025
+      TFF publishes this with particular joy because, while we have always been pro-peace,
+      future-oriented and proposal-making, we need even more of that now: Peace is to
+      be […] The post Joie de Vivre: Reclaiming a Positive Vision in Troubled Times
+      appeared first on The Transnational .'
+    one_sentence_summary: The article emphasizes the importance of recognizing and embracing
+      the present moment as a vital aspect of humanity, advocating for a positive vision
+      and peace in challenging times.
+    paragraph_summary: The article "Joie De Vivre, 1946" by Pablo Picasso, discussed
+      by David Andersson, emphasizes the importance of recognizing and appreciating
+      the present moment as a fundamental aspect of our humanity. Published by TFF,
+      the piece advocates for a renewed focus on peace and positive vision in challenging
+      times, highlighting the necessity of proactive and constructive approaches to
+      foster a hopeful future. The message underscores the urgency of embracing joy
+      and optimism amidst adversity.
+    published: '2025-08-05T12:26:15+00:00'
+  - title: 'Joie de Vivre: Reclaiming a Positive Vision in Troubled Times'
+    url: https://transnational.live/2025/08/05/joie-de-vivre-reclaiming-a-positive-vision-in-troubled-times/
+    text: 'Joie De Vivre, 1946 by Pablo Picasso Not recognizing the magic of the present
+      moment may just be a crime against our humanity. David Andersson August 5, 2025
+      TFF publishes this with particular joy because, while we have always been pro-peace,
+      future-oriented and proposal-making, we need even more of that now: Peace is to
+      be […] The post Joie de Vivre: Reclaiming a Positive Vision in Troubled Times
+      appeared first on The Transnational .'
+    one_sentence_summary: The article emphasizes the importance of recognizing and embracing
+      the present moment as a vital aspect of humanity, advocating for a positive vision
+      and peace in challenging times.
+    paragraph_summary: The article "Joie De Vivre, 1946" by Pablo Picasso, discussed
+      by David Andersson, emphasizes the importance of recognizing and appreciating
+      the present moment as a fundamental aspect of our humanity. Published by TFF,
+      the piece advocates for a renewed focus on peace and positive vision in challenging
+      times, highlighting the necessity of proactive and constructive approaches to
+      foster a hopeful future. The message underscores the urgency of embracing joy
+      and optimism amidst adversity.
+    published: '2025-08-05T12:26:15+00:00'
+  - title: Britain, which created the Israeli-Palestinian Mess, will Finally Recognize
+      Palestinian State
+    url: https://transnational.live/2025/08/04/britain-which-created-the-israeli-palestinian-mess-will-finally-recognize-palestinian-state/
+    text: Farhang Jahanpour Professor emeritus, TFF Associate August 4, 2025 Oxford
+      (Special to Informed Comment; Feature) The dam has burst. Netanyahu and his far-right
+      regime have gone too far. Public pressure on politicians in Europe and many other
+      countries has become irresistible, forcing them to change course. Most countries,
+      147 of the UN’s 193 members, have […] The post Britain, which created the Israeli-Palestinian
+      Mess, will Finally Recognize Palestinian State appeared first on The Transnational
+      .
+    one_sentence_summary: The article discusses how growing public pressure in Europe
+      and beyond is compelling politicians to shift their stance, leading to the anticipated
+      recognition of a Palestinian state by Britain, which historically contributed
+      to the Israeli-Palestinian conflict.
+    paragraph_summary: In an article by Farhang Jahanpour, it is noted that the actions
+      of Netanyahu's far-right regime in Israel have sparked significant public pressure
+      across Europe and beyond, leading to a shift in political stances regarding the
+      Israeli-Palestinian conflict. As a result, 147 out of 193 UN member countries
+      are now moving towards recognizing Palestinian statehood, with Britain, historically
+      responsible for the complexities of the conflict, poised to join this recognition.
+      This change reflects a growing international consensus against the current Israeli
+      policies and a desire for a resolution to the longstanding conflict.
+    published: '2025-08-04T12:25:52+00:00'
+  - title: Britain, which created the Israeli-Palestinian Mess, will Finally Recognize
+      Palestinian State
+    url: https://transnational.live/2025/08/04/britain-which-created-the-israeli-palestinian-mess-will-finally-recognize-palestinian-state/
+    text: Farhang Jahanpour Professor emeritus, TFF Associate August 4, 2025 Oxford
+      (Special to Informed Comment; Feature) The dam has burst. Netanyahu and his far-right
+      regime have gone too far. Public pressure on politicians in Europe and many other
+      countries has become irresistible, forcing them to change course. Most countries,
+      147 of the UN’s 193 members, have […] The post Britain, which created the Israeli-Palestinian
+      Mess, will Finally Recognize Palestinian State appeared first on The Transnational
+      .
+    one_sentence_summary: The article discusses how growing public pressure in Europe
+      and beyond is compelling politicians to shift their stance, leading to the anticipated
+      recognition of a Palestinian state by Britain, which historically contributed
+      to the Israeli-Palestinian conflict.
+    paragraph_summary: In an article by Farhang Jahanpour, it is noted that the actions
+      of Netanyahu's far-right regime in Israel have sparked significant public pressure
+      across Europe and beyond, leading to a shift in political stances regarding the
+      Israeli-Palestinian conflict. As a result, 147 out of 193 UN member countries
+      are now moving towards recognizing Palestinian statehood, with Britain, historically
+      responsible for the complexities of the conflict, poised to join this recognition.
+      This change reflects a growing international consensus against the current Israeli
+      policies and a desire for a resolution to the longstanding conflict.
+    published: '2025-08-04T12:25:52+00:00'
+  - title: ✅ TFF Share Blog, News & Notes from 2021 till today
+    url: https://transnational.live/2025/07/31/%f0%9f%94%97-tff-in-the-news-notes-2021/
+    text: Below are TFF-related media mentions, comments, videos and social media posts
+      published elsewhere but not on this homepage. We happen to catch and list only
+      a fraction. Regarding video comments and debates, we recommend that you go to
+      the TFF Video Channel on Substack where many of them are reproduced. Jan Oberg
+      is a contributor […] The post ✅ TFF Share Blog, News & Notes from 2021 till today
+      appeared first on The Transnational .
+    one_sentence_summary: The article highlights various media mentions and discussions
+      related to TFF, encouraging readers to explore additional content on the TFF Video
+      Channel on Substack.
+    paragraph_summary: The article provides an overview of various media mentions, comments,
+      videos, and social media posts related to TFF (Transnational Foundation for Peace
+      and Future Research) that have been published outside of its main homepage. It
+      notes that the listed content represents only a small portion of what is available
+      and encourages readers to visit the TFF Video Channel on Substack for a broader
+      selection of video comments and discussions. Jan Oberg is mentioned as a contributor
+      to the content shared.
+    published: '2025-07-31T15:20:00+00:00'
+  - title: ✅ TFF Share Blog, News & Notes from 2021 till today
+    url: https://transnational.live/2025/07/31/%f0%9f%94%97-tff-in-the-news-notes-2021/
+    text: Below are TFF-related media mentions, comments, videos and social media posts
+      published elsewhere but not on this homepage. We happen to catch and list only
+      a fraction. Regarding video comments and debates, we recommend that you go to
+      the TFF Video Channel on Substack where many of them are reproduced. Jan Oberg
+      is a contributor […] The post ✅ TFF Share Blog, News & Notes from 2021 till today
+      appeared first on The Transnational .
+    one_sentence_summary: The article highlights various media mentions and discussions
+      related to TFF, encouraging readers to explore additional content on the TFF Video
+      Channel on Substack.
+    paragraph_summary: The article provides an overview of various media mentions, comments,
+      videos, and social media posts related to TFF (Transnational Foundation for Peace
+      and Future Research) that have been published outside of its main homepage. It
+      notes that the listed content represents only a small portion of what is available
+      and encourages readers to visit the TFF Video Channel on Substack for a broader
+      selection of video comments and discussions. Jan Oberg is mentioned as a contributor
+      to the content shared.
+    published: '2025-07-31T15:20:00+00:00'
+  - title: Xinjiang – A Public Education Library in the Making
+    url: https://transnational.live/2025/07/30/xinjiang-a-public-education-library-in-the-making/
+    text: Photo collage © Jan Oberg 2024 Launched on November 17, 2024Updated with new
+      materials regularly TFF Associates Editor Jan Oberg TFF Board members Thore Vestby
+      and Jan Oberg participated in a week-long Nordic fact-finding mission to the Xinjiang
+      Province in China in September 2024. Everywhere, the delegation was met with a
+      sincere wish to develop […] The post Xinjiang – A Public Education Library in
+      the Making appeared first on The Transnational .
+    one_sentence_summary: A delegation from TFF, including board members Thore Vestby
+      and Jan Oberg, conducted a week-long fact-finding mission in Xinjiang Province,
+      China, in September 2024, where they encountered a strong desire for development
+      and the establishment of a public education library.
+    paragraph_summary: In September 2024, TFF Associates Editor Jan Oberg and TFF Board
+      member Thore Vestby undertook a week-long fact-finding mission to Xinjiang Province,
+      China, where they encountered a strong desire among local communities to foster
+      development. Their visit aimed to gather insights and materials for creating a
+      public education library, reflecting ongoing efforts to enhance educational resources
+      in the region. The initiative is part of a broader commitment to promote understanding
+      and knowledge sharing about Xinjiang.
+    published: '2025-07-30T22:14:12+00:00'
+  - title: Xinjiang – A Public Education Library in the Making
+    url: https://transnational.live/2025/07/30/xinjiang-a-public-education-library-in-the-making/
+    text: Photo collage © Jan Oberg 2024 Launched on November 17, 2024Updated with new
+      materials regularly TFF Associates Editor Jan Oberg TFF Board members Thore Vestby
+      and Jan Oberg participated in a week-long Nordic fact-finding mission to the Xinjiang
+      Province in China in September 2024. Everywhere, the delegation was met with a
+      sincere wish to develop […] The post Xinjiang – A Public Education Library in
+      the Making appeared first on The Transnational .
+    one_sentence_summary: A delegation from TFF, including board members Thore Vestby
+      and Jan Oberg, conducted a week-long fact-finding mission in Xinjiang Province,
+      China, in September 2024, where they encountered a strong desire for development
+      and the establishment of a public education library.
+    paragraph_summary: In September 2024, TFF Associates Editor Jan Oberg and TFF Board
+      member Thore Vestby undertook a week-long fact-finding mission to Xinjiang Province,
+      China, where they encountered a strong desire among local communities to foster
+      development. Their visit aimed to gather insights and materials for creating a
+      public education library, reflecting ongoing efforts to enhance educational resources
+      in the region. The initiative is part of a broader commitment to promote understanding
+      and knowledge sharing about Xinjiang.
+    published: '2025-07-30T22:14:12+00:00'
   - title: 'Sanctioning Francesca Albanese: Marco Rubio Tramples on Law, Justice, and
       Truth'
     url: https://transnational.live/2025/07/28/sanctioning-francesca-albanese-marco-rubio-tramples-on-law-justice-and-truth/
