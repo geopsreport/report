@@ -7,16 +7,248 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  The geopolitical landscape continues to be shaped by escalating tensions surrounding the Israeli-Palestinian conflict, with recent developments highlighting both the intensification of punitive measures against UN officials and the persistent humanitarian crisis in Gaza. The US government’s decision to sanction Francesca Albanese, the UN Special Rapporteur for the Occupied Palestinian Territories, marks a significant escalation in the politicization of international law and the suppression of critical voices.
+  The geopolitical landscape in the Middle East remains highly volatile as Israel’s National Security Cabinet has recently approved Prime Minister Netanyahu’s escalation plan in Gaza, intensifying debates both within Israel and among international observers. The focus has shifted toward the potential full occupation of the Gaza Strip, with sharp divisions emerging between Israeli military leaders and ultra-right cabinet members such as Ben Gvir and Smotrich. According to **Richard Falk**, military officials are wary that “aggressive tactics could lead to substantial casualties and further conflict,” while the far-right pushes for a complete takeover and even ethnic cleansing of Palestinians.
   
-  According to **Richard Falk**, the US Secretary of State Marco Rubio’s move to bar Albanese from US soil and freeze her assets is unprecedented, targeting an unpaid UN officeholder for her outspoken advocacy on Palestinian human rights. Falk underscores that this action not only undermines the independence of UN mechanisms but also signals a broader trend of “trampling on law, justice, and truth.” The sanctions have drawn sharp rebuke from the UN and civil society, with concerns that such measures could deter future officials from taking principled stances on contentious issues.
+  A central point of contention is the question of governance in Gaza after any occupation. Netanyahu’s proposal to install non-PA Arab forces is widely seen as lacking feasibility and long-term viability, raising concerns about the sustainability of such an arrangement and the risk of deepening the humanitarian crisis. The ongoing suffering in Gaza, marked by mass hunger and water scarcity, continues to draw international condemnation, though the U.S. and U.K. maintain their support for Israel, with only tepid criticism from other Western states.
   
-  Meanwhile, the humanitarian situation in Gaza remains dire. As detailed in Falk’s recent interviews and reporting, Israeli military actions have led to severe civilian suffering, including mass hunger and water scarcity. Despite mounting global protests and limited criticism from Western allies such as France, Canada, and Germany, the US and UK continue to provide unconditional support to Israel. This dynamic has prompted the formation of alternative accountability mechanisms, notably the Gaza Peoples Tribunal, which seeks to mobilize civic pressure in the face of perceived failures by international legal bodies.
+  Meanwhile, the international legal response remains fragmented. The establishment of the Gaza Peoples Tribunal in Sarajevo earlier this year reflects growing frustration with the perceived ineffectiveness of official bodies like the ICJ and ICC. As **Falk** notes, the tribunal “seeks to mobilize civic pressure akin to historical movements against apartheid and the Vietnam War,” aiming to hold Israel accountable and advocate for Palestinian self-determination.
   
-  On the regional front, the aftermath of Israeli and US strikes on Iranian nuclear facilities continues to reverberate. While the effectiveness of these operations remains uncertain, analysts such as **Stephen Zunes** and **Lawrence Davidson** have noted the dual objectives of disrupting Iran’s nuclear ambitions and fostering internal regime change. The divided response within Iran and the broader Middle East underscores the complexity of the situation and the potential for further instability.
-  
-  Looking ahead, the prevailing trend is one of deepening polarization and erosion of international legal norms. There is a high chance that US actions against UN officials will embolden other states to pursue similar tactics, further weakening multilateral institutions. The humanitarian crisis in Gaza is most definitely set to persist absent a dramatic shift in Western policy or a breakthrough in civic mobilization. Regional tensions, particularly involving Iran, are quite likely to remain volatile, with the risk of escalation ever-present.
+  Looking ahead, the internal divisions within Israel’s leadership are likely to persist, complicating both military operations and post-conflict governance. The humanitarian situation in Gaza is expected to worsen if current trends continue, with little indication of a meaningful shift in Western policy. There is a high chance that civic and international legal initiatives will gain momentum, but their immediate impact on the ground remains uncertain. Most definitely, the legitimacy war over Gaza will intensify, with growing global scrutiny and activism challenging the status quo.
 articles:
+  - title: Israel’s National Security Cabinet Approves Netanyahu’s Escalation, Hiding
+      Defeat in the Legitimacy War
+    url: https://richardfalk.org/2025/08/08/israels-national-security-cabinet-approves-netanyahus-escalation-hiding-defeat-in-the-legitimacy-war/
+    text: '[Prefatory Note: In modified form, these responses were originally made in
+      response to questions posed by a Brazilian journalist, Rodrigo Craveiro, on August
+      8, 2025} Netanyahu wants to military occupy whole Gaza and hand it over to non-PA
+      Arab forces. What do you think about this plan? The Netanyahu plan of taking over
+      the entire Gaza Strip as publicly proposed in various venues recently seems temporarily
+      scaled back to the Israeli conquest of Gaza City still under Palestinian control.
+      It is coupled with a favorable outlook on Israel’s part, contested by the religious
+      Cabinet extremists Ben Gvir and Smotrich intention to turn over post-genocide
+      governance of Gaza to Arab governments hostile to Hamas uncertain is uncertain
+      in general and as to the form it might take politically if it does happen, and
+      for how long it would last. Israeli reports suggest that even the Palestinian
+      Authority, despite its collaborationist and anti-Hamas credentials, would be unacceptable
+      to Israel when it comes to post-genocide Gaza governance. Zionist tactics have
+      over the years been content to proceed by stages or phases if the political atmosphere
+      within Israel or externally is resistant to an immediate realization of maximalist
+      ambitions. Preliminary reports analyzing even this limited yet further escalation
+      of Israel’s military operations in Gaza suggest opposition opposition from the
+      country’s military leadership and differently from cabinet ministers Ben Gvir
+      and Smotrich, representing the religious ultra-right, who demand nothing less
+      than the takeover of the entire Gaza Strip. And beyond this, the substantial ethnic
+      cleansing of surviving Palestinians together with assertions of Israel sovereignty
+      and renewal of settlements. Netanyahu and the religious part of his coaltion government
+      believe, somewhat plausibly, that without such totalism Hamas will not be defeated
+      and survive to fight another day. Somewhat differently, the military opposition
+      fears that it will cost the lives of the remaining alive Israeli hostages still
+      and pose serious risks for IDF forces assigned such a mission. Overall, 25% of
+      Gaza has managed to elude Israeli control so far despite multiple evacuation orders
+      imposed over its 22+ months of genocidal assault that included the devastation
+      of Gaza urban spaces. 2- Is the Israel idea to dismantle Gaza Strip and transfer
+      power to Arabs. What do you think about such a plan? I hope it never happens as
+      it would make Arab governments that have so far watched this genocide unfold without
+      any meaningful opposition even more complicit in perpetrating the underlying crime
+      of genocide. These government would become participants in shaping a punitive
+      outcome on Gazans, and of course Hamas, in the face of genocide. The Israeli view
+      as articulated frequently by Netanyahu and other leading Cabinet members is to
+      regard Hamas as an inherently terrorist entity despite its indisputable political
+      victory in 2006 internationally monitored elections that it was persuaded to enter
+      due to encouragement from the US Government. True, Hamas was not expected to win
+      a democratic election. It was this unwelcome outcome that evidently scuttled the
+      US plan to normalize relations with Hamas. Instead with pressure from Israel, 
+      Hamas was kept on the terrorist list, rendering meaningless its willingness to
+      abandon armed struggle in its struggle for Palestinian rights, once again being
+      relegated to an illegitimate status as a political entity. Israel sealed this
+      style of response by facilitating a coup attempt by fatah forces aligned with
+      the Palestine Authority that failed leading Israel to impose a harsh punitive
+      blockade that damaged the Gaza economy, reinforced by massive military incursions
+      every few years, and resulting in a repressive regime that was damaging to the
+      mental health and physical security of the entire Palestinian population prior
+      to October 7, and contextualizes the Gaza attack on southern Israel as more of
+      ‘a slave revolt’ or ‘prison riot’ than, as globally portrayed, as a terrorist
+      assault on Israeli civilian society, although it was that as well with atrocities
+      included. However, categorized this single incident should not be the justification
+      for depriving the people of Gaza of a future in accord with the norms of international
+      humanitarian law. To reward Israel after its perpetration of genocide, and punish
+      Hamas and the Palestinian people after their ordeal of acute massive victimization
+      is to compound the already grave injustice, an Orwellian reversal of how legal
+      responsibility for the post-October 7 developments should be properly evaluated.
+      It is also a final sign that neither international law nor elemental notions of
+      criminal accountability apply to Israel, as shielded by Western countries and
+      the UN paralyzed by design and unscrupulous geopolitics. Given these conditions
+      only activism among the peoples of the world can bring a semblance of justice
+      to the situation in Gaza. Under somewhat analogous yet less severe circumstances,
+      justice eventually prevailed in racist South Africa thanks to the mobilization
+      of civil society forces in the course of the anti-apartheid campaign. This rising
+      populist tide with respect to Israel and the US has resulting in mainstream moves
+      to name Israel’s sustained violence against civilian targets and dehumanizing
+      political language as ‘genocide’ after a long period of evading the spectacle
+      of daily atrocities committed by Israel in Gaza. Among other hopeful, although
+      somewhat ambiguous developments, is the belated recognition of Palestinian statehood,
+      over vigorous Israeli and US objections, by France, the UK, and Canada. Even more
+      significant, is the German imposition of an arms embargo against Israel. Relations
+      with the Trump presidency seem to be fraying, for the moment, because of Israel’s
+      stubborn refusal to allow food, water, and medicines to reach starving Palestinians.
+      Even more significant, is the German imposition of an arms embargo against Israel,
+      although the language used by Chancellor Friedrich Merz well illustrates the distortions
+      of language that accompany these long overdue measures to restrain Israel that
+      Merz announced on August 8: “Israel has the right to defend itself against the
+      terror of Hamas,” Merz said in a statement. “The release of the hostages and determined
+      negotiations on a ceasefire are our top priority. The disarmament of Hamas is
+      essential. Hamas must not play a role in the future of Gaza.” Relations with the
+      Trump presidency somewhat surprisingly seem to be finally fraying, but likely
+      only for the moment. The announced cause of this mini-break seems to be Israel’s
+      stubborn refusal to allow food, water, and medicines to reach starving Palestinians
+      rather than the controversy inside and outside of Israel to extend military operation
+      to the yet unoccupied parts of Gaza City.'
+    one_sentence_summary: Netanyahu's plan to militarily occupy Gaza and transfer governance
+      to non-PA Arab forces faces uncertainty and opposition, particularly from extremist
+      members of his Cabinet, as the feasibility and political implications of such
+      a move remain unclear.
+    paragraph_summary: In a recent discussion, Israeli Prime Minister Netanyahu's plan
+      to occupy the entire Gaza Strip has been met with mixed reactions, particularly
+      regarding the governance of the territory post-occupation. While Netanyahu's strategy
+      appears to be temporarily focused on capturing Gaza City, there is significant
+      internal debate within Israel, especially between military leaders and ultra-right
+      cabinet members like Ben Gvir and Smotrich, who advocate for a complete takeover
+      and ethnic cleansing of Palestinians. The military leadership expresses concern
+      that such aggressive tactics could lead to substantial casualties and further
+      conflict, while the proposed governance by non-PA Arab forces raises questions
+      about its feasibility and longevity. Overall, the situation reflects a complex
+      interplay of military strategy, political ambitions, and the ongoing humanitarian
+      crisis in Gaza.
+    published: '2025-08-08T14:35:57+00:00'
+  - title: Israel’s National Security Cabinet Approves Netanyahu’s Escalation, Hiding
+      Defeat in the Legitimacy War
+    url: https://richardfalk.org/2025/08/08/israels-national-security-cabinet-approves-netanyahus-escalation-hiding-defeat-in-the-legitimacy-war/
+    text: '[Prefatory Note: In modified form, these responses were originally made in
+      response to questions posed by a Brazilian journalist, Rodrigo Craveiro, on August
+      8, 2025} Netanyahu wants to military occupy whole Gaza and hand it over to non-PA
+      Arab forces. What do you think about this plan? The Netanyahu plan of taking over
+      the entire Gaza Strip as publicly proposed in various venues recently seems temporarily
+      scaled back to the Israeli conquest of Gaza City still under Palestinian control.
+      It is coupled with a favorable outlook on Israel’s part, contested by the religious
+      Cabinet extremists Ben Gvir and Smotrich intention to turn over post-genocide
+      governance of Gaza to Arab governments hostile to Hamas uncertain is uncertain
+      in general and as to the form it might take politically if it does happen, and
+      for how long it would last. Israeli reports suggest that even the Palestinian
+      Authority, despite its collaborationist and anti-Hamas credentials, would be unacceptable
+      to Israel when it comes to post-genocide Gaza governance. Zionist tactics have
+      over the years been content to proceed by stages or phases if the political atmosphere
+      within Israel or externally is resistant to an immediate realization of maximalist
+      ambitions. Preliminary reports analyzing even this limited yet further escalation
+      of Israel’s military operations in Gaza suggest opposition opposition from the
+      country’s military leadership and differently from cabinet ministers Ben Gvir
+      and Smotrich, representing the religious ultra-right, who demand nothing less
+      than the takeover of the entire Gaza Strip. And beyond this, the substantial ethnic
+      cleansing of surviving Palestinians together with assertions of Israel sovereignty
+      and renewal of settlements. Netanyahu and the religious part of his coaltion government
+      believe, somewhat plausibly, that without such totalism Hamas will not be defeated
+      and survive to fight another day. Somewhat differently, the military opposition
+      fears that it will cost the lives of the remaining alive Israeli hostages still
+      and pose serious risks for IDF forces assigned such a mission. Overall, 25% of
+      Gaza has managed to elude Israeli control so far despite multiple evacuation orders
+      imposed over its 22+ months of genocidal assault that included the devastation
+      of Gaza urban spaces. 2- Is the Israel idea to dismantle Gaza Strip and transfer
+      power to Arabs. What do you think about such a plan? I hope it never happens as
+      it would make Arab governments that have so far watched this genocide unfold without
+      any meaningful opposition even more complicit in perpetrating the underlying crime
+      of genocide. These government would become participants in shaping a punitive
+      outcome on Gazans, and of course Hamas, in the face of genocide. The Israeli view
+      as articulated frequently by Netanyahu and other leading Cabinet members is to
+      regard Hamas as an inherently terrorist entity despite its indisputable political
+      victory in 2006 internationally monitored elections that it was persuaded to enter
+      due to encouragement from the US Government. True, Hamas was not expected to win
+      a democratic election. It was this unwelcome outcome that evidently scuttled the
+      US plan to normalize relations with Hamas. Instead with pressure from Israel, 
+      Hamas was kept on the terrorist list, rendering meaningless its willingness to
+      abandon armed struggle in its struggle for Palestinian rights, once again being
+      relegated to an illegitimate status as a political entity. Israel sealed this
+      style of response by facilitating a coup attempt by fatah forces aligned with
+      the Palestine Authority that failed leading Israel to impose a harsh punitive
+      blockade that damaged the Gaza economy, reinforced by massive military incursions
+      every few years, and resulting in a repressive regime that was damaging to the
+      mental health and physical security of the entire Palestinian population prior
+      to October 7, and contextualizes the Gaza attack on southern Israel as more of
+      ‘a slave revolt’ or ‘prison riot’ than, as globally portrayed, as a terrorist
+      assault on Israeli civilian society, although it was that as well with atrocities
+      included. However, categorized this single incident should not be the justification
+      for depriving the people of Gaza of a future in accord with the norms of international
+      humanitarian law. To reward Israel after its perpetration of genocide, and punish
+      Hamas and the Palestinian people after their ordeal of acute massive victimization
+      is to compound the already grave injustice, an Orwellian reversal of how legal
+      responsibility for the post-October 7 developments should be properly evaluated.
+      It is also a final sign that neither international law nor elemental notions of
+      criminal accountability apply to Israel, as shielded by Western countries and
+      the UN paralyzed by design and unscrupulous geopolitics. Given these conditions
+      only activism among the peoples of the world can bring a semblance of justice
+      to the situation in Gaza. Under somewhat analogous yet less severe circumstances,
+      justice eventually prevailed in racist South Africa thanks to the mobilization
+      of civil society forces in the course of the anti-apartheid campaign. This rising
+      populist tide with respect to Israel and the US has resulting in mainstream moves
+      to name Israel’s sustained violence against civilian targets and dehumanizing
+      political language as ‘genocide’ after a long period of evading the spectacle
+      of daily atrocities committed by Israel in Gaza. Among other hopeful, although
+      somewhat ambiguous developments, is the belated recognition of Palestinian statehood,
+      over vigorous Israeli and US objections, by France, the UK, and Canada. Even more
+      significant, is the German imposition of an arms embargo against Israel. Relations
+      with the Trump presidency seem to be fraying, for the moment, because of Israel’s
+      stubborn refusal to allow food, water, and medicines to reach starving Palestinians.
+      Even more significant, is the German imposition of an arms embargo against Israel,
+      although the language used by Chancellor Friedrich Merz well illustrates the distortions
+      of language that accompany these long overdue measures to restrain Israel that
+      Merz announced on August 8: “Israel has the right to defend itself against the
+      terror of Hamas,” Merz said in a statement. “The release of the hostages and determined
+      negotiations on a ceasefire are our top priority. The disarmament of Hamas is
+      essential. Hamas must not play a role in the future of Gaza.” Relations with the
+      Trump presidency somewhat surprisingly seem to be finally fraying, but likely
+      only for the moment. The announced cause of this mini-break seems to be Israel’s
+      stubborn refusal to allow food, water, and medicines to reach starving Palestinians
+      rather than the controversy inside and outside of Israel to extend military operation
+      to the yet unoccupied parts of Gaza City.'
+    one_sentence_summary: Netanyahu's plan to militarily occupy Gaza and transfer governance
+      to non-PA Arab forces faces uncertainty and opposition, particularly from extremist
+      members of his Cabinet, as the feasibility and political implications of such
+      a move remain unclear.
+    paragraph_summary: In a recent discussion, Israeli Prime Minister Netanyahu's plan
+      to occupy the entire Gaza Strip has been met with mixed reactions, particularly
+      regarding the governance of the territory post-occupation. While Netanyahu's strategy
+      appears to be temporarily focused on capturing Gaza City, there is significant
+      internal debate within Israel, especially between military leaders and ultra-right
+      cabinet members like Ben Gvir and Smotrich, who advocate for a complete takeover
+      and ethnic cleansing of Palestinians. The military leadership expresses concern
+      that such aggressive tactics could lead to substantial casualties and further
+      conflict, while the proposed governance by non-PA Arab forces raises questions
+      about its feasibility and longevity. Overall, the situation reflects a complex
+      interplay of military strategy, political ambitions, and the ongoing humanitarian
+      crisis in Gaza.
+    published: '2025-08-08T14:35:57+00:00'
+  - title: 'Interview: Mike Billington of the Schiller Institute'
+    url: https://richardfalk.org/2025/08/08/interview-mike-billington-of-the-schiller-institute/
+    text: 'Richard Falk
+
+
+
+
+      Richard Falk is an international law and international relations scholar who taught
+      at Princeton University for forty years. Since 2002 he has lived in Santa Barbara,
+      California, and taught at the local campus of the University of California in
+      Global and International Studies and since 2005 chaired the Board of the Nuclear
+      Age Peace Foundation. He initiated this blog partly in celebration of his 80th
+      birthday.'
+    one_sentence_summary: Richard Falk, a prominent scholar in international law and
+      relations who taught at Princeton for forty years, now resides in Santa Barbara,
+      California, where he teaches at UC and chairs the Nuclear Age Peace Foundation,
+      and has started a blog to commemorate his 80th birthday.
+    paragraph_summary: Richard Falk is a prominent scholar in international law and
+      relations, having spent four decades teaching at Princeton University. Since 2002,
+      he has resided in Santa Barbara, California, where he teaches Global and International
+      Studies at a local University of California campus and has chaired the Board of
+      the Nuclear Age Peace Foundation since 2005. He started his blog as a way to celebrate
+      his 80th birthday.
+    published: '2025-08-08T07:57:01+00:00'
   - title: 'Countering Genocide: An Interview'
     url: https://richardfalk.org/2025/08/02/countering-genocide-an-interview/
     text: 'SU This article appears in the August 1, 2025 issue of Executive Intelligence

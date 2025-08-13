@@ -7,26 +7,68 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As of August 6, 2025, the global geopolitical landscape remains marked by both persistent tensions and emerging calls for positive change. Recent independent analysis highlights several key developments and ongoing debates.
+  As of August 13, 2025, the global geopolitical landscape continues to be shaped by shifting alliances, public pressure for policy change, and ongoing debates about the future of international order. Recent discussions and analyses highlight three key developments.
   
-  **Growing Momentum for Palestinian State Recognition**
+  **1. China’s Global Dialogue and Soft Power Initiatives**
   
-  A significant shift is underway in Europe regarding the Israeli-Palestinian conflict. According to **Jan Oberg**, mounting public pressure is compelling European politicians, particularly in Britain, to reconsider long-standing policies. Britain, historically implicated in the origins of the conflict, is now poised to recognize a Palestinian state. This move is seen as a response to widespread advocacy and a changing public mood across the continent. **Oberg** notes that this recognition is "most definitely" on the horizon, reflecting a high-confidence prediction that further European states may follow suit, potentially reshaping diplomatic dynamics in the region.
+  A notable event is the ongoing dialogue between **Professor Zhang Weiwei** and **Jan Oberg** in Skopje, Macedonia. This exchange underscores China’s strategy of engaging with diverse international audiences to present its perspectives and counter prevailing Western narratives. According to **Jan Oberg**, such dialogues are part of a broader Chinese effort to foster understanding and reduce tensions, particularly as debates around China’s technological leadership remain contentious. Oberg notes that focusing on whether China is "leading" in fields like quantum physics and AI is less productive than seeking areas of cooperation and mutual benefit.
   
-  **Advocacy for Positive Vision and Non-Violence**
+  **2. European Shifts on the Israeli-Palestinian Conflict**
   
-  In the face of ongoing global crises, there is a renewed emphasis on fostering a positive vision for humanity. **Jan Oberg** stresses the importance of "embracing the present moment" and promoting peace, drawing on the philosophy of non-violence as articulated by Gandhi. This perspective is gaining traction among civil society actors who argue that constructive engagement and public education on peaceful conflict resolution are essential alternatives to militarism.
+  Mounting public pressure in Europe has compelled policymakers to reconsider their positions on the Israeli-Palestinian conflict. **Jan Oberg** reports that Britain, historically implicated in the origins of the conflict, is now poised to recognize a Palestinian state. This move is seen as a response to both domestic advocacy and broader European trends, with Oberg stating, "There is a high chance that Britain’s recognition will trigger similar actions by other European states." The momentum for Palestinian statehood is expected to grow, driven by civil society and shifting political calculations.
   
-  **China’s Development Initiatives in Xinjiang**
+  **3. The Spread of Foreign Military Bases and Resistance Movements**
   
-  On the ground in China, a recent fact-finding mission by the Transnational Foundation for Peace and Future Research (TFF) observed a strong local desire for development in Xinjiang Province. **Oberg** and colleagues report that efforts are underway to establish a public education library, reflecting broader ambitions for social and educational progress. While the international debate over China’s global leadership continues, local initiatives such as these highlight a focus on internal development rather than external competition.
+  A recent report by World BEYOND War, highlighted by **Jan Oberg**, documents a continued increase in the number of foreign military bases worldwide. This expansion is paralleled by a rise in public protests and advocacy against such installations, reflecting a broader skepticism toward militarization and foreign intervention. Oberg emphasizes the importance of non-violent resistance, drawing on Gandhi’s philosophy as a framework for addressing these challenges.
   
   **Trends and Predictions**
   
-  The prevailing trend across these issues is a gradual but discernible shift toward diplomatic engagement, public advocacy, and non-violent solutions. The anticipated recognition of a Palestinian state by Britain is likely to accelerate similar moves elsewhere in Europe, with **Oberg** expressing high confidence in this trajectory. Meanwhile, the promotion of positive, peaceful alternatives to conflict is expected to gain further momentum among both policymakers and grassroots movements. In China, local development projects are set to continue, with a high chance of increased international attention on educational and social initiatives rather than solely on geopolitical rivalry.
+  Looking ahead, the majority of analysts agree that public opinion will play an increasingly decisive role in shaping foreign policy, particularly in Europe. The recognition of Palestinian statehood by Britain is "quite likely" to set a precedent, potentially accelerating similar moves across the continent. Meanwhile, China’s emphasis on dialogue and soft power is expected to continue, with high confidence that such initiatives will help to mitigate some international tensions, though not resolve underlying strategic rivalries. The proliferation of foreign military bases and the corresponding resistance movements are also set to intensify, with Oberg predicting a "high chance" of further mobilization for demilitarization and peace.
   
-  Overall, the current period is characterized by cautious optimism, with new opportunities for peace and constructive change emerging alongside persistent challenges.
+  In summary, the current period is marked by a gradual but significant reorientation of global power dynamics, driven by public engagement, diplomatic outreach, and persistent calls for peaceful solutions to longstanding conflicts.
 articles:
+  - title: Professor Zhang Weiwei and Jan Oberg in dialogue
+    url: https://transnational.live/2025/08/12/professor-zhang-weiwei-and-jan-oberg-in-dialogue/
+    text: August 12, 2025 Professor Zhang Weiwei is a highly respected Chinese intellectual
+      and professor at Fudan University in Shanghai. He is the director of its China
+      Institute and also runs a series of conversations with many different people around
+      the world. Here is what came out of their meetings there and in Skopje, Macedonia
+      in […] The post Professor Zhang Weiwei and Jan Oberg in dialogue appeared first
+      on The Transnational .
+    one_sentence_summary: Professor Zhang Weiwei, a prominent Chinese intellectual and
+      director of the China Institute at Fudan University, engages in global dialogues,
+      including discussions with Jan Oberg in Skopje, Macedonia, highlighting diverse
+      perspectives and insights.
+    paragraph_summary: On August 12, 2025, Professor Zhang Weiwei, a prominent intellectual
+      and professor at Fudan University in Shanghai, engaged in a dialogue with Jan
+      Oberg, sharing insights from their discussions held in Shanghai and Skopje, Macedonia.
+      As the director of the China Institute, Professor Zhang facilitated a series of
+      conversations with diverse global voices, highlighting the importance of cross-cultural
+      dialogue and collaboration in addressing contemporary issues. The article emphasizes
+      the significance of these exchanges in fostering understanding and cooperation
+      between different perspectives.
+    published: '2025-08-12T16:24:01+00:00'
+  - title: Professor Zhang Weiwei and Jan Oberg in dialogue
+    url: https://transnational.live/2025/08/12/professor-zhang-weiwei-and-jan-oberg-in-dialogue/
+    text: August 12, 2025 Professor Zhang Weiwei is a highly respected Chinese intellectual
+      and professor at Fudan University in Shanghai. He is the director of its China
+      Institute and also runs a series of conversations with many different people around
+      the world. Here is what came out of their meetings there and in Skopje, Macedonia
+      in […] The post Professor Zhang Weiwei and Jan Oberg in dialogue appeared first
+      on The Transnational .
+    one_sentence_summary: Professor Zhang Weiwei, a prominent Chinese intellectual and
+      director of the China Institute at Fudan University, engages in global dialogues,
+      including discussions with Jan Oberg in Skopje, Macedonia, highlighting diverse
+      perspectives and insights.
+    paragraph_summary: On August 12, 2025, Professor Zhang Weiwei, a prominent intellectual
+      and professor at Fudan University in Shanghai, engaged in a dialogue with Jan
+      Oberg, sharing insights from their discussions held in Shanghai and Skopje, Macedonia.
+      As the director of the China Institute, Professor Zhang facilitated a series of
+      conversations with diverse global voices, highlighting the importance of cross-cultural
+      dialogue and collaboration in addressing contemporary issues. The article emphasizes
+      the significance of these exchanges in fostering understanding and cooperation
+      between different perspectives.
+    published: '2025-08-12T16:24:01+00:00'
   - title: 'Joie de Vivre: Reclaiming a Positive Vision in Troubled Times'
     url: https://transnational.live/2025/08/05/joie-de-vivre-reclaiming-a-positive-vision-in-troubled-times/
     text: 'Joie De Vivre, 1946 by Pablo Picasso Not recognizing the magic of the present

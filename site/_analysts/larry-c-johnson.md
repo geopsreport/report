@@ -7,15 +7,2866 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  Rising global tensions continue to define the geopolitical landscape as of August 6, 2025. The most significant recent development is Russia’s formal withdrawal from the Intermediate-Range Nuclear Forces (INF) Treaty, a move that **Larry C. Johnson** describes as a direct response to escalating U.S. provocations. This decision marks a sharp escalation in the ongoing standoff between Washington and Moscow, with Johnson warning that it “brings the world closer to the threat of nuclear conflict.” The Kremlin’s posture is now unmistakably more assertive, signaling that Russia is “locked and loaded” and prepared to counter what it perceives as Western aggression.
+  With the highly anticipated Trump-Putin summit just days away, geopolitical tensions and intrigue are mounting. The backdrop is a rapidly shifting global order, with Russia advancing its multipolar agenda despite unprecedented Western sanctions, and the United States navigating internal and external pressures over its Ukraine policy.
   
-  Meanwhile, fallout continues from the reported capture of two high-ranking British Army officers and a British MI-6 agent by Russian Special Forces in Ohakiv, Ukraine. According to **Larry C. Johnson**, this incident underscores the deepening covert dimensions of the Ukraine conflict and highlights the direct involvement of NATO personnel on the ground. The fate of these individuals remains uncertain, but their capture is likely to further strain already fraught relations between Russia and the UK.
+  The most recent and striking development is an unverified report, cited by **Larry C. Johnson**, that U.S. Special Forces killed a Ukrainian assassin in Alaska in the days leading up to the Trump-Putin meeting. While the details remain unconfirmed and lack corroboration from other media, the story underscores the heightened security concerns and the lengths to which some actors may go to disrupt the summit. Johnson notes, "the details remain unverified and lack corroboration," highlighting the need for caution in interpreting these claims, but the timing alone has fueled speculation about covert operations and Ukraine’s desperation to influence the outcome.
   
-  On the Middle Eastern front, the crisis in Gaza persists, with mounting international condemnation of Israeli actions and U.S. support. Johnson’s recent analysis points to growing calls for concrete measures, such as expelling Israel from the United Nations and imposing oil embargoes, reflecting a shift from rhetoric to advocacy for direct action. The article also notes increasing domestic pressure within the United States for a policy change, as public outrage over the situation intensifies.
+  Expectations for the summit itself are soaring, with Johnson comparing the event to "an arranged marriage with unrealistic expectations." Both leaders have a history of cordial, even relaxed, personal interactions, but the stakes are higher than ever as the war in Ukraine grinds on and Western unity shows signs of strain. The summit coincides with the anniversary of Japan’s World War II surrender, a date Johnson points out is laden with historical symbolism, particularly for Russia, which seeks to remind the world of its decisive role in ending the conflict.
+  
+  Meanwhile, the West’s military and diplomatic posture continues to be questioned. Johnson draws parallels between current Western anxiety over Russia’s offensive in Ukraine and the panic following Ukraine’s defeat at Debaltseve in 2015, suggesting that this historical memory is shaping U.S. policy—specifically, Trump’s decision to shorten the ceasefire deadline. The implication is that Washington may be acting from a position of weakness rather than strategic clarity.
   
   **Trends and Predictions:**  
-  The majority of analysis suggests that the risk of direct confrontation between Russia and the U.S. is now at its highest since the Cold War, particularly in light of the INF Treaty withdrawal. I guarantee that, barring a significant diplomatic breakthrough, both sides will continue to escalate their military posturing in the coming weeks. The Ukraine conflict is likely to see further covert operations and potential prisoner exchanges, but no immediate de-escalation. In the Middle East, international pressure on Israel and its Western backers will most definitely increase, with a high chance of new sanctions or diplomatic initiatives emerging in the near term.
+  - The Trump-Putin summit is almost certain to proceed, despite attempts at disruption. I guarantee that the meeting will take place, though the outcomes may fall short of the lofty expectations being set.
+  - Security concerns around the summit will remain high, with a high chance of further reports—verified or not—of attempts to interfere.
+  - The West’s approach to Russia and Ukraine is likely to remain reactive and fragmented, as internal divisions and historical anxieties continue to shape policy.
+  - Russia’s push for a multipolar world and its ability to withstand sanctions will most definitely continue, with growing alignment among countries outside the Western bloc.
+  
+  In summary, the coming days will be defined by high drama around the Trump-Putin summit, persistent security risks, and a broader realignment of global power. The world watches closely, but the path forward remains fraught with uncertainty and competing agendas.
 articles:
+  - title: Ukraine Reportedly Working Frantically to Disrupt Putin and Trump Summit
+    url: https://sonar21.com/ukraine-reportedly-working-frantically-to-disrupt-putin-and-trump-summit/
+    text: 'Daniel Defense DDM4 with Optic Let’s start with a very interesting post from
+      Joe Tuzara’s Substack . I don’t know if this is true because I have not found
+      any other media source reporting on it, and there are some problems with the details
+      reported. Here is the claim: White Hats on Sunday killed a Ukrainian assassin
+      in Wasilla, Alaska, five days before President Trump is scheduled to meet with
+      Vladimir Putin at a currently undisclosed venue in The Last Frontier. At approximately
+      10:00 p.m., soldiers from the 10th Special Forces Group stormed a bungalow on
+      Front Street, near Lake Lucille, and shot dead 42-year-old Stefan Orestovych,
+      a resident of Kyiv and former employee of Ukraine’s Ministry of Defense. He was
+      also a trained sniper, having spent a decade with the Ukrainian army’s Special
+      Operations Forces. US Special Forces had to kill him, a White Hat source told
+      Real Raw News, for he had pulled a pistol on them as they charged through the
+      doorway. After neutralizing the threat, the soldiers found two Sig P229 pistols,
+      a scoped and suppressor-fitted Daniel Defense DDM4 AR-style rifle, and the expertly
+      forged passport that Orestovych had used to enter the US via Anchorage. This is
+      an entertaining story, but I have my doubts about its veracity. I have the Daniel
+      Defense DDM4 rifle — it is chambered for 5.56×45mm NATO — and it is not a cheap
+      firearm, nor is it commonly stocked in gun stores. How did he get his hands on
+      that rifle? It is not a sniper rifle. With a first-class optic — again, not cheap
+      — a trained shooter can hit a target with accuracy out to 300 yards. How did a
+      Ukrainian citizen arrive in Alaska, pick up a DDM4 , and obtain an expensive optic
+      and silencer? Even if he brought the optic and silencer with him to the US there
+      is an additional question: How did he get those through customs? Once he was in
+      place in Alaska, he still needed to find a gun range where he could zero the rifle.
+      You don’t just slap the optic on the rifle without firing shots at a target to
+      make sure the bullet is hitting where you are aiming. I also am skeptical that
+      such a mission — since it was not time critical — would be given to some 10th
+      Special Forces soldiers. Don’t get me wrong. Those guys are skilled soldiers,
+      but they are not trained for this kind of mission. The Secret Service has a SWAT
+      team capable of carrying out the mission or, alternatively, FBI’s HRT could have
+      been dispatched. Let’s just say I have my doubts about this. A more realistic
+      tactic to disrupt the Summit comes from a Russian Telegram channel, and was posted
+      on Andrei Martyanov’s blog : Kiev is preparing a provocation to disrupt the negotiations
+      scheduled for August 15 between Putin and Trump, warned the Russian Ministry of
+      Defense. According to available data, on Friday the Armed Forces of Ukraine have
+      planned a provocative strike using UAVs and missiles on one of the densely populated
+      residential areas or a hospital in the Kharkiv region. The consequences are to
+      be “documented” by Western journalists brought in. For this purpose, a group of
+      foreign media journalists was delivered to the city of Chuhuiv the day before
+      under the pretext of “preparing a series of reports about the residents of the
+      city in the frontline zone.” The Kiev regime plans to place all responsibility
+      for the strike on the Russian Armed Forces to create a negative media background
+      and conditions for disrupting the negotiations. Provocations are also possible
+      in other settlements controlled by the Kiev regime, – added the Russian Ministry
+      of Defense. Maybe this is just a piece of information warfare , i.e. propaganda.
+      We will just have to wait-and-see . I interviewed Alastair Crooke on Friday, and
+      the video was posted on Counter Currents last night. Alastair, as always, offers
+      his superb analysis: I also did my regular Tuesday chat with Marcello: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: A report claims that U.S. Special Forces killed a Ukrainian
+      assassin in Alaska just days before a scheduled meeting between President Trump
+      and Vladimir Putin, but the details remain unverified and lack corroboration from
+      other media sources.
+    paragraph_summary: An article from Joe Tuzara's Substack discusses a claim that
+      U.S. Special Forces killed a Ukrainian assassin named Stefan Orestovych in Wasilla,
+      Alaska, just days before a scheduled meeting between President Trump and Vladimir
+      Putin. Orestovych, a trained sniper and former employee of Ukraine’s Ministry
+      of Defense, reportedly pulled a gun on the soldiers during their raid on his bungalow.
+      The Special Forces found multiple firearms, including a Daniel Defense DDM4 rifle
+      equipped with a scope and suppressor, as well as a forged passport. However, the
+      author expresses skepticism about the story's credibility, questioning how Orestovych,
+      a Ukrainian citizen, could have acquired such expensive and specialized equipment
+      in the U.S. and navigated customs regulations.
+    published: '2025-08-13T02:15:55+00:00'
+  - title: Ukraine Reportedly Working Frantically to Disrupt Putin and Trump Summit
+    url: https://sonar21.com/ukraine-reportedly-working-frantically-to-disrupt-putin-and-trump-summit/
+    text: 'Daniel Defense DDM4 with Optic Let’s start with a very interesting post from
+      Joe Tuzara’s Substack . I don’t know if this is true because I have not found
+      any other media source reporting on it, and there are some problems with the details
+      reported. Here is the claim: White Hats on Sunday killed a Ukrainian assassin
+      in Wasilla, Alaska, five days before President Trump is scheduled to meet with
+      Vladimir Putin at a currently undisclosed venue in The Last Frontier. At approximately
+      10:00 p.m., soldiers from the 10th Special Forces Group stormed a bungalow on
+      Front Street, near Lake Lucille, and shot dead 42-year-old Stefan Orestovych,
+      a resident of Kyiv and former employee of Ukraine’s Ministry of Defense. He was
+      also a trained sniper, having spent a decade with the Ukrainian army’s Special
+      Operations Forces. US Special Forces had to kill him, a White Hat source told
+      Real Raw News, for he had pulled a pistol on them as they charged through the
+      doorway. After neutralizing the threat, the soldiers found two Sig P229 pistols,
+      a scoped and suppressor-fitted Daniel Defense DDM4 AR-style rifle, and the expertly
+      forged passport that Orestovych had used to enter the US via Anchorage. This is
+      an entertaining story, but I have my doubts about its veracity. I have the Daniel
+      Defense DDM4 rifle — it is chambered for 5.56×45mm NATO — and it is not a cheap
+      firearm, nor is it commonly stocked in gun stores. How did he get his hands on
+      that rifle? It is not a sniper rifle. With a first-class optic — again, not cheap
+      — a trained shooter can hit a target with accuracy out to 300 yards. How did a
+      Ukrainian citizen arrive in Alaska, pick up a DDM4 , and obtain an expensive optic
+      and silencer? Even if he brought the optic and silencer with him to the US there
+      is an additional question: How did he get those through customs? Once he was in
+      place in Alaska, he still needed to find a gun range where he could zero the rifle.
+      You don’t just slap the optic on the rifle without firing shots at a target to
+      make sure the bullet is hitting where you are aiming. I also am skeptical that
+      such a mission — since it was not time critical — would be given to some 10th
+      Special Forces soldiers. Don’t get me wrong. Those guys are skilled soldiers,
+      but they are not trained for this kind of mission. The Secret Service has a SWAT
+      team capable of carrying out the mission or, alternatively, FBI’s HRT could have
+      been dispatched. Let’s just say I have my doubts about this. A more realistic
+      tactic to disrupt the Summit comes from a Russian Telegram channel, and was posted
+      on Andrei Martyanov’s blog : Kiev is preparing a provocation to disrupt the negotiations
+      scheduled for August 15 between Putin and Trump, warned the Russian Ministry of
+      Defense. According to available data, on Friday the Armed Forces of Ukraine have
+      planned a provocative strike using UAVs and missiles on one of the densely populated
+      residential areas or a hospital in the Kharkiv region. The consequences are to
+      be “documented” by Western journalists brought in. For this purpose, a group of
+      foreign media journalists was delivered to the city of Chuhuiv the day before
+      under the pretext of “preparing a series of reports about the residents of the
+      city in the frontline zone.” The Kiev regime plans to place all responsibility
+      for the strike on the Russian Armed Forces to create a negative media background
+      and conditions for disrupting the negotiations. Provocations are also possible
+      in other settlements controlled by the Kiev regime, – added the Russian Ministry
+      of Defense. Maybe this is just a piece of information warfare , i.e. propaganda.
+      We will just have to wait-and-see . I interviewed Alastair Crooke on Friday, and
+      the video was posted on Counter Currents last night. Alastair, as always, offers
+      his superb analysis: I also did my regular Tuesday chat with Marcello: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: A report claims that U.S. Special Forces killed a Ukrainian
+      assassin in Alaska just days before a scheduled meeting between President Trump
+      and Vladimir Putin, but the details remain unverified and lack corroboration from
+      other media sources.
+    paragraph_summary: An article from Joe Tuzara's Substack discusses a claim that
+      U.S. Special Forces killed a Ukrainian assassin named Stefan Orestovych in Wasilla,
+      Alaska, just days before a scheduled meeting between President Trump and Vladimir
+      Putin. Orestovych, a trained sniper and former employee of Ukraine’s Ministry
+      of Defense, reportedly pulled a gun on the soldiers during their raid on his bungalow.
+      The Special Forces found multiple firearms, including a Daniel Defense DDM4 rifle
+      equipped with a scope and suppressor, as well as a forged passport. However, the
+      author expresses skepticism about the story's credibility, questioning how Orestovych,
+      a Ukrainian citizen, could have acquired such expensive and specialized equipment
+      in the U.S. and navigated customs regulations.
+    published: '2025-08-13T02:15:55+00:00'
+  - title: Expectations Soaring for Friday’s Putin / Trump Summit
+    url: https://sonar21.com/expectations-soaring-for-fridays-putin-trump-summit/
+    text: 'I suppose because it is August, with most pundits and all of Europe on vacation,
+      that the thirst for a story is making the upcoming summit between Putin and Trump
+      the current center of the universe. My previous two posts on this meeting have
+      belabored all of the key points and dynamics that will likely affect the outcome
+      of the meeting. I described it on the podcast with Danny Haiphong and Colonel
+      Lawrence Wilkerson as the expectations surrounding an arranged marriage: a groom
+      is told he’s going to marry the most beautiful woman in the world, but when he
+      gets the first glimpse at his new bride, it is Jabba the Hutt wearing a wedding
+      gown. Good-bye romance. One important point that I neglected to address in my
+      previous posts on this issue is the fact that Putin and Trump have met at least
+      three times previously, and those meetings were friendly and relaxed. I’ve spoken
+      to a couple of people who have had private meetings with Trump and, according
+      to them, Trump is a completely different person in a private setting. He is terribly
+      insecure and he wants desperately to be liked. Accordingly, he does not engage
+      in the bullying and insults that are part of his public persona. This may be one
+      reason that Vladimir Putin wants to talk to Donald Trump face-to-face . Putin
+      has the advantage in this meeting. The Russian military’s offensive against Ukraine
+      is accelerating and Ukraine is unable to slow it down; Russia’s economy is under
+      control, with inflation projected to fall to 12% by years end; BRICS is now a
+      very viable project, with India and Brazil especially energized to boost its financial
+      mechanisms in the wake of Trump’s ill-advised tariff attacks on both countries;
+      and Putin continues to enjoy enormous public support in Russia. Trump needs a
+      win, though you would not think so if you only listened to his self-congratulatory
+      public comments, e.g., “I’ve stopped six wars.” Not true, but he is obsessed with
+      that meme . Normally a meeting like this would require some serious advance work
+      by Russian and US Sherpas . A diplomatic Sherpa is a high-ranking diplomat or
+      senior government official who acts as the personal representative of a country’s
+      leader in preparing for major international summit meetings, such as the G7, G20.
+      Sherpas “do the heavy lifting,” which includes overseeing strategic planning,
+      agenda setting, and detailed negotiations before the actual meeting of heads of
+      state. They often draft summit communiqués, coordinate positions among nations,
+      and resolve conflicts. Marco Rubio did drop a hint a week ago that he has held
+      at least one discussion with Russian diplomats (he did not specify who he talked
+      to). So I cannot rule out that there has been some Sherpa activity going on behind
+      the scenes. We will find out on Friday. I participated in three podcasts today:
+      the first with Nima, followed by my regular Monday chat with Judge Napolitano,
+      and roundtable with Danny Haiphong and Colonel Lawrence Wilkerson: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article discusses the heightened anticipation surrounding
+      the upcoming summit between Putin and Trump, comparing it to an arranged marriage
+      with unrealistic expectations, while noting that their previous meetings have
+      been friendly and relaxed.
+    paragraph_summary: The anticipation surrounding the upcoming summit between Putin
+      and Trump is heightened due to the summer lull in political discourse, with many
+      analysts likening the situation to an arranged marriage fraught with unrealistic
+      expectations. The article highlights that despite their previous friendly encounters,
+      Trump is known to be insecure and seeks approval in private settings, which may
+      influence his demeanor during the meeting. Currently, Putin holds the upper hand,
+      as Russia's military actions in Ukraine are intensifying, its economy remains
+      stable, and it enjoys strong domestic support, while Trump is in need of a significant
+      diplomatic win despite his public bravado. The dynamics of their past interactions
+      and the current geopolitical landscape suggest that the meeting could be pivotal,
+      yet fraught with challenges.
+    published: '2025-08-12T04:00:36+00:00'
+  - title: Expectations Soaring for Friday’s Putin / Trump Summit
+    url: https://sonar21.com/expectations-soaring-for-fridays-putin-trump-summit/
+    text: 'I suppose because it is August, with most pundits and all of Europe on vacation,
+      that the thirst for a story is making the upcoming summit between Putin and Trump
+      the current center of the universe. My previous two posts on this meeting have
+      belabored all of the key points and dynamics that will likely affect the outcome
+      of the meeting. I described it on the podcast with Danny Haiphong and Colonel
+      Lawrence Wilkerson as the expectations surrounding an arranged marriage: a groom
+      is told he’s going to marry the most beautiful woman in the world, but when he
+      gets the first glimpse at his new bride, it is Jabba the Hutt wearing a wedding
+      gown. Good-bye romance. One important point that I neglected to address in my
+      previous posts on this issue is the fact that Putin and Trump have met at least
+      three times previously, and those meetings were friendly and relaxed. I’ve spoken
+      to a couple of people who have had private meetings with Trump and, according
+      to them, Trump is a completely different person in a private setting. He is terribly
+      insecure and he wants desperately to be liked. Accordingly, he does not engage
+      in the bullying and insults that are part of his public persona. This may be one
+      reason that Vladimir Putin wants to talk to Donald Trump face-to-face . Putin
+      has the advantage in this meeting. The Russian military’s offensive against Ukraine
+      is accelerating and Ukraine is unable to slow it down; Russia’s economy is under
+      control, with inflation projected to fall to 12% by years end; BRICS is now a
+      very viable project, with India and Brazil especially energized to boost its financial
+      mechanisms in the wake of Trump’s ill-advised tariff attacks on both countries;
+      and Putin continues to enjoy enormous public support in Russia. Trump needs a
+      win, though you would not think so if you only listened to his self-congratulatory
+      public comments, e.g., “I’ve stopped six wars.” Not true, but he is obsessed with
+      that meme . Normally a meeting like this would require some serious advance work
+      by Russian and US Sherpas . A diplomatic Sherpa is a high-ranking diplomat or
+      senior government official who acts as the personal representative of a country’s
+      leader in preparing for major international summit meetings, such as the G7, G20.
+      Sherpas “do the heavy lifting,” which includes overseeing strategic planning,
+      agenda setting, and detailed negotiations before the actual meeting of heads of
+      state. They often draft summit communiqués, coordinate positions among nations,
+      and resolve conflicts. Marco Rubio did drop a hint a week ago that he has held
+      at least one discussion with Russian diplomats (he did not specify who he talked
+      to). So I cannot rule out that there has been some Sherpa activity going on behind
+      the scenes. We will find out on Friday. I participated in three podcasts today:
+      the first with Nima, followed by my regular Monday chat with Judge Napolitano,
+      and roundtable with Danny Haiphong and Colonel Lawrence Wilkerson: I thank you
+      for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article discusses the heightened anticipation surrounding
+      the upcoming summit between Putin and Trump, comparing it to an arranged marriage
+      with unrealistic expectations, while noting that their previous meetings have
+      been friendly and relaxed.
+    paragraph_summary: The anticipation surrounding the upcoming summit between Putin
+      and Trump is heightened due to the summer lull in political discourse, with many
+      analysts likening the situation to an arranged marriage fraught with unrealistic
+      expectations. The article highlights that despite their previous friendly encounters,
+      Trump is known to be insecure and seeks approval in private settings, which may
+      influence his demeanor during the meeting. Currently, Putin holds the upper hand,
+      as Russia's military actions in Ukraine are intensifying, its economy remains
+      stable, and it enjoys strong domestic support, while Trump is in need of a significant
+      diplomatic win despite his public bravado. The dynamics of their past interactions
+      and the current geopolitical landscape suggest that the meeting could be pivotal,
+      yet fraught with challenges.
+    published: '2025-08-12T04:00:36+00:00'
+  - title: Is Vladimir Putin Naive in Pursuing a Meeting with Donald Trump?
+    url: https://sonar21.com/is-vladimir-putin-naive-in-pursuing-a-meeting-with-donald-trump/
+    text: 'I don’t pretend to know what Vladimir Putin is thinking, nor do I know his
+      motivation for agreeing to meet Donald Trump in Alaska on Friday, August 15. I
+      note that the date is significant because it marks the day in 1945 that Emperor
+      Hirohito announced Japan’s unconditional surrender, effectively ending the war
+      in the Pacific. The Soviet Union played a decisive role in pressuring Japan to
+      end World War II by launching a massive invasion of Japanese-held territories
+      in Manchuria and declaring war on Japan on August 8, 1945, two days after the
+      atomic bombing of Hiroshima. Joseph Stalin delivered on the promise he had made
+      to President Roosevelt at the Yalta Conference in February 1945. This action shattered
+      Japan’s hopes of using Moscow as a mediator to negotiate peace and threatened
+      a total military collapse by opening a new, overwhelming front. Soviet advances
+      were swift and devastating, revealing Japan’s defenselessness in the north and
+      generating panic among Japanese leaders. Many historians argue that the Soviet
+      attack weighed as heavily, or more so, than the atomic bombs in Japan’s decision
+      to surrender. Japanese policymakers had previously considered Soviet neutrality
+      vital for any negotiated surrender; the sudden reversal left continued resistance
+      hopeless and risked occupation by communist forces. I would not be surprised that
+      President Putin will remind Donald Trump of this past cooperation, i.e., that
+      the US and Russia have a history of working together to achieve peace. I think
+      President Putin’s objective in meeting with Donald Trump is to secure a commitment
+      that the US will end its support for Ukraine. Do I think that is a realistic objective?
+      No. But it is a legitimate objective because Putin does not want the war to escalate
+      into a global conflagration. I also think that Trump and his deluded team of national
+      security advisors genuinely believe that Russia has suffered massive casualties
+      and is on the brink of economic disaster. As I have pointed out in previous posts,
+      both assumptions are foolishly wrong. I do believe that Putin will try to educate
+      Trump on the true situation on the ground in Ukraine and will reinforce Russia’s
+      longstanding position that this is not a territorial war with Ukraine… This is
+      a proxy war with NATO. While I have chided Putin — comparing him to Charlie Brown
+      — I think that the Russian president fully understands the duplicity and the malevolence
+      of the West, especially that of the US. Over the last 25 years, Putin has been
+      repeatedly rebuffed in his attempt to join NATO and ignored in his warnings to
+      the West to put a halt to efforts to incorporate Georgia. He wisely kept Russia
+      out of a direct military confrontation with the West in the wake of the February
+      2014 Western-backed coup in Ukraine, while continuing to try to secure an agreement
+      with the West that addressed Russia’s security concerns. Then there was the January
+      2022 rejection by the US of Putin’s draft treaty for a security deal that would
+      have put an end to the eastward expansion of NATO. Putin was harshly criticized
+      in Russia for his decision to withdraw Russian forces from the Kiev region at
+      the end of March 2022 as a gesture of Russia’s seriousness about concluding a
+      peace agreement with Ukraine — an agreement that would have left Ukraine with
+      the Donbas. Yet Putin did not hesitate to order the mobilization of reserves in
+      September 2022 and the conscription of 120,000 new soldiers. It was at that moment
+      that Putin realized that Russia would have to bring greater military pressure
+      in order to crush Western ambitions. My main point is this: I think Putin firmly
+      and completely understands the threat from the West, but he also knows that Russia’s
+      military might has expanded dramatically during the course of the Special Military
+      Operation. It is not only the growth in the size of the Russian military that
+      has boosted Putin’s confidence; it also is the fact that Russia has surpassed
+      anything the West can field in terms of hypersonic missiles, drones, tank production,
+      artillery and shell manufacturing, FAB bombs and electronic warfare. Putin clearly
+      understands that Trump’s urgent request for a face-to-face meeting is a direct
+      result of the crisis on the battlefield that is enveloping both Ukraine and NATO.
+      Russian forces are showing no signs of slowing their advance or pulling their
+      punches in anticipation of the summit scheduled for Friday in Alaska. I cannot
+      rule out that Zelensky, with the full backing of his erstwhile European allies,
+      will try to execute a dramatic military strike on Russia before Friday. If that
+      happens, and significant damage is inflicted on Russia, then the summit will likely
+      be derailed, unless Donald Trump strongly condemns the Ukrainian action and immediately
+      curtails support for Ukraine. A successful attack without condemnation from Washington
+      will be seen in Russia as just another act of US duplicity and further confirmation
+      that the US has no serious intent on ending the war. At that point, Vladimir Putin
+      will decide that there is no alternative but a military victory imposed by force.
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses the significance of Vladimir Putin's
+      meeting with Donald Trump on August 15, 2023, coinciding with the anniversary
+      of Japan's surrender in World War II, highlighting the Soviet Union's crucial
+      role in ending the war by launching an invasion of Japanese-held territories.
+    paragraph_summary: The article discusses the significance of Vladimir Putin's meeting
+      with Donald Trump in Alaska on August 15, a date that marks the anniversary of
+      Japan's surrender in World War II, influenced significantly by the Soviet Union's
+      military actions. The author reflects on the historical context of Soviet involvement
+      in ending the war, suggesting that Putin may use this history to remind Trump
+      of past US-Russia cooperation for peace. The author speculates that Putin's primary
+      goal in the meeting is to secure a commitment from the US to cease its support
+      for Ukraine, although they doubt the realism of this objective. Additionally,
+      the author critiques Trump's national security team for their misconceptions about
+      Russia's military and economic situation.
+    published: '2025-08-11T03:46:45+00:00'
+  - title: Is Vladimir Putin Naive in Pursuing a Meeting with Donald Trump?
+    url: https://sonar21.com/is-vladimir-putin-naive-in-pursuing-a-meeting-with-donald-trump/
+    text: 'I don’t pretend to know what Vladimir Putin is thinking, nor do I know his
+      motivation for agreeing to meet Donald Trump in Alaska on Friday, August 15. I
+      note that the date is significant because it marks the day in 1945 that Emperor
+      Hirohito announced Japan’s unconditional surrender, effectively ending the war
+      in the Pacific. The Soviet Union played a decisive role in pressuring Japan to
+      end World War II by launching a massive invasion of Japanese-held territories
+      in Manchuria and declaring war on Japan on August 8, 1945, two days after the
+      atomic bombing of Hiroshima. Joseph Stalin delivered on the promise he had made
+      to President Roosevelt at the Yalta Conference in February 1945. This action shattered
+      Japan’s hopes of using Moscow as a mediator to negotiate peace and threatened
+      a total military collapse by opening a new, overwhelming front. Soviet advances
+      were swift and devastating, revealing Japan’s defenselessness in the north and
+      generating panic among Japanese leaders. Many historians argue that the Soviet
+      attack weighed as heavily, or more so, than the atomic bombs in Japan’s decision
+      to surrender. Japanese policymakers had previously considered Soviet neutrality
+      vital for any negotiated surrender; the sudden reversal left continued resistance
+      hopeless and risked occupation by communist forces. I would not be surprised that
+      President Putin will remind Donald Trump of this past cooperation, i.e., that
+      the US and Russia have a history of working together to achieve peace. I think
+      President Putin’s objective in meeting with Donald Trump is to secure a commitment
+      that the US will end its support for Ukraine. Do I think that is a realistic objective?
+      No. But it is a legitimate objective because Putin does not want the war to escalate
+      into a global conflagration. I also think that Trump and his deluded team of national
+      security advisors genuinely believe that Russia has suffered massive casualties
+      and is on the brink of economic disaster. As I have pointed out in previous posts,
+      both assumptions are foolishly wrong. I do believe that Putin will try to educate
+      Trump on the true situation on the ground in Ukraine and will reinforce Russia’s
+      longstanding position that this is not a territorial war with Ukraine… This is
+      a proxy war with NATO. While I have chided Putin — comparing him to Charlie Brown
+      — I think that the Russian president fully understands the duplicity and the malevolence
+      of the West, especially that of the US. Over the last 25 years, Putin has been
+      repeatedly rebuffed in his attempt to join NATO and ignored in his warnings to
+      the West to put a halt to efforts to incorporate Georgia. He wisely kept Russia
+      out of a direct military confrontation with the West in the wake of the February
+      2014 Western-backed coup in Ukraine, while continuing to try to secure an agreement
+      with the West that addressed Russia’s security concerns. Then there was the January
+      2022 rejection by the US of Putin’s draft treaty for a security deal that would
+      have put an end to the eastward expansion of NATO. Putin was harshly criticized
+      in Russia for his decision to withdraw Russian forces from the Kiev region at
+      the end of March 2022 as a gesture of Russia’s seriousness about concluding a
+      peace agreement with Ukraine — an agreement that would have left Ukraine with
+      the Donbas. Yet Putin did not hesitate to order the mobilization of reserves in
+      September 2022 and the conscription of 120,000 new soldiers. It was at that moment
+      that Putin realized that Russia would have to bring greater military pressure
+      in order to crush Western ambitions. My main point is this: I think Putin firmly
+      and completely understands the threat from the West, but he also knows that Russia’s
+      military might has expanded dramatically during the course of the Special Military
+      Operation. It is not only the growth in the size of the Russian military that
+      has boosted Putin’s confidence; it also is the fact that Russia has surpassed
+      anything the West can field in terms of hypersonic missiles, drones, tank production,
+      artillery and shell manufacturing, FAB bombs and electronic warfare. Putin clearly
+      understands that Trump’s urgent request for a face-to-face meeting is a direct
+      result of the crisis on the battlefield that is enveloping both Ukraine and NATO.
+      Russian forces are showing no signs of slowing their advance or pulling their
+      punches in anticipation of the summit scheduled for Friday in Alaska. I cannot
+      rule out that Zelensky, with the full backing of his erstwhile European allies,
+      will try to execute a dramatic military strike on Russia before Friday. If that
+      happens, and significant damage is inflicted on Russia, then the summit will likely
+      be derailed, unless Donald Trump strongly condemns the Ukrainian action and immediately
+      curtails support for Ukraine. A successful attack without condemnation from Washington
+      will be seen in Russia as just another act of US duplicity and further confirmation
+      that the US has no serious intent on ending the war. At that point, Vladimir Putin
+      will decide that there is no alternative but a military victory imposed by force.
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses the significance of Vladimir Putin's
+      meeting with Donald Trump on August 15, 2023, coinciding with the anniversary
+      of Japan's surrender in World War II, highlighting the Soviet Union's crucial
+      role in ending the war by launching an invasion of Japanese-held territories.
+    paragraph_summary: The article discusses the significance of Vladimir Putin's meeting
+      with Donald Trump in Alaska on August 15, a date that marks the anniversary of
+      Japan's surrender in World War II, influenced significantly by the Soviet Union's
+      military actions. The author reflects on the historical context of Soviet involvement
+      in ending the war, suggesting that Putin may use this history to remind Trump
+      of past US-Russia cooperation for peace. The author speculates that Putin's primary
+      goal in the meeting is to secure a commitment from the US to cease its support
+      for Ukraine, although they doubt the realism of this objective. Additionally,
+      the author critiques Trump's national security team for their misconceptions about
+      Russia's military and economic situation.
+    published: '2025-08-11T03:46:45+00:00'
+  - title: Has Putin Learned the Lessons of the Battle of Debaltseve and Minsk II?
+    url: https://sonar21.com/has-putin-learned-the-lessons-of-the-battle-of-debaltseve-and-minsk-ii/
+    text: 'Battle of Debaltseve I will answer my question right up front: Yes ! The
+      reaction of the West, especially that of Donald Trump, to Russia’s current offensive
+      all along the line of contact, is reminiscent of the panic that seized the West
+      in 2015 following Ukraine’s loss in the Battle of Debaltseve . That battle came
+      about in part because of the failure of Minsk I , and was the impetus for Minsk
+      II . So what does this have to do with the current situation in Ukraine? I believe
+      that the primary reason Donald Trump dramatically shortened his 50-day deadline
+      for Russia to agree to a ceasefire to 10 days, was because of the dire situation
+      Ukraine now faces all along the line of contact. Debaltseve was just one battle,
+      which Ukraine lost. The current battles underway are far larger and encompass
+      the following agglomerations: Toretsk (Donetsk Oblast): Intense battles are ongoing
+      near Toretsk, including Ukrainian advances within Katerynivka and Shcherbynivka,
+      and Russian advances in nearby areas such as Rusyn Yar and Poltavka. Russian and
+      Ukrainian forces are contesting several settlements along key axes northwest and
+      west of Toretsk. Elements of Russia’s 20th Motorized Rifle Division, supported
+      by artillery and drones, are actively engaged in the area. Pokrovsk: Pokrovsk
+      faces concentrated Russian assaults and is currently a focal point of fighting,
+      with Russian forces intensifying attacks across the front. Ukrainian defenders
+      confront urgent threats within and around the city as Russia adapts new offensive
+      tactics. Chasiv Yar (Donetsk Oblast): Russia recently captured Chasiv Yar, a heavily
+      fortified eastern city. This victory allows Russia to target Ukraine’s so-called
+      “fortress belt,” a network of defensive strongholds, and opens further offensive
+      opportunities in the region. Zaporizhia Region: Russia maintains high-intensity
+      bombardments—over 400 airstrikes on 16 settlements—leading to heavy casualties
+      and destruction, marking continued contestation in this southern front. Let’s
+      first review the importance of the Battle of Debaltseve , which was fought between
+      January and February 2015, and marked a major setback for Ukraine the Donbas region.
+      Its importance stems from several key factors: Strategic Location : Debaltseve
+      was a critical transportation hub, particularly for its railway junction connecting
+      the Russian-backed separatist-controlled cities of Donetsk and Luhansk. Control
+      over Debaltseve allowed influence over supply lines and movement in the region,
+      making it a focal point for both Ukrainian forces and Russian/separatist forces.
+      Ceasefire Violations and Minsk II : The battle occurred during a period of intense
+      fighting despite the Minsk Protocol (September 2014), which aimed to establish
+      a ceasefire. The escalation at Debaltseve exposed the fragility of the ceasefire
+      and led to the signing of the Minsk II agreement on February 12, 2015, as international
+      mediators (France, Germany, Ukraine, and Russia) sought to halt the violence.
+      However, fighting continued even after the agreement, undermining trust in the
+      peace process. Military and Political Implications : The battle resulted in a
+      significant defeat for Ukrainian forces, who were encircled and forced to withdraw
+      under heavy pressure from Russian-backed separatists, supported by regular Russian
+      troops (as reported by Ukrainian and Western sources). The loss highlighted Ukraine’s
+      military vulnerabilities at the time, including issues with coordination, logistics,
+      and equipment, while boosting the morale and territorial control of separatist
+      forces. Human Cost and Humanitarian Impact : The battle caused significant casualties,
+      with estimates of hundreds killed (both military and civilian) and thousands displaced.
+      The intense shelling and fighting devastated Debaltseve, exacerbating the humanitarian
+      crisis in the Donbas region and drawing international attention to the plight
+      of civilians caught in the conflict. Geopolitical Ramifications : The battle underscored
+      Russia’s direct involvement in the conflict, as Western governments and organizations
+      like NATO cited evidence of Russian military equipment and personnel in Debaltseve.
+      This intensified sanctions and diplomatic pressure on Russia, further straining
+      its relations with the West and solidifying Ukraine’s push for international support.
+      Long-Term Impact on the Conflict : The fall of Debaltseve consolidated separatist
+      control over key areas of the Donbas, setting a precedent for the protracted,
+      low-intensity conflict that followed. It also shaped Ukraine’s subsequent military
+      reforms and increased its reliance on Western military aid to counter Russian
+      aggression. We subsequently learned that Minsk II was a sham devised by the West
+      to permit Ukraine to rebuild its military force. Angela Merkel made statements
+      about the Minsk II agreement in interviews in 2022, specifically in June and December.
+      In a June 2022 interview with Der Spiegel , she indicated that the Minsk talks
+      helped Ukraine “buy time” to strengthen itself against Russia. She elaborated
+      in a December 2022 interview with Die Zeit , stating, “The 2014 Minsk agreement
+      was an attempt to give Ukraine time. Ukraine used this time to become stronger,
+      as you can see today. The Ukraine of 2014/15 is not the Ukraine of today.” Following
+      Merkel’s confession of the real purpose of Minsk II , Vladimir Putin publicly
+      admitted that he had been deceived by the Minsk II agreements in statements made
+      in November and December 2022. In a conversation cited in the book, Vladimir Putin.
+      From the Annals of the XXI Century, Putin described the Minsk agreements as “nothing
+      but sheer deception” and said that Western leaders used the process to buy time
+      and prepare Ukraine for war. In December 2022, Putin elaborated that “no one was
+      going to fulfill the Minsk agreements,” admitting, “It turns out that they also
+      deceived us, and the point was only to pump Ukraine with weapons and prepare for
+      combat operations. Apparently, we got our bearings late, to be honest.” Now we
+      have Donald Trump begging for a personal meeting with Vladimir Putin. While some
+      in Russia have expressed fears that Putin is once again being offered the Charlie
+      Brown meme of kicking the football, I think Mr. Putin has learned his lesson and
+      is not going to reverse his stated policy. While many in the West are pushing
+      the narrative that Putin will give up claims to Zaporizhia and Kherson, that is
+      not true. Those two former oblasts of Ukraine are now, according to the Russian
+      Constitution, legally part of Russia. Putin does not have the authority to change
+      that fact without legislative action by the Russian Duma. Given this fact, I believe
+      the deal that Putin will offer to Donald Trump is a halt to military operations
+      in Sumy and Kharkiv if, and only if, Ukraine withdraws its military forces from
+      Donetsk, Luhansk, Zaporizhia and Kherson; that NATO end all military support for
+      Ukraine; and that the United States agrees to negotiate based on the draft treaty
+      Putin presented to Joe Biden in December 2022. If Trump does not take that deal,
+      the war will continue until Russia consolidates all territory east of the Dnieper
+      River. I recorded a monologue on Thursday — before all the details about the meeting
+      in Alaska had been announced — about what to expect from the Putin Trump summit:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article draws a parallel between the West's reaction to
+      Russia's current offensive in Ukraine and the panic following Ukraine's loss in
+      the Battle of Debaltseve in 2015, suggesting that this historical context influenced
+      Donald Trump's decision to shorten the ceasefire deadline amid escalating conflicts
+      in the region.
+    paragraph_summary: The article draws parallels between the current situation in
+      Ukraine and the 2015 Battle of Debaltseve, highlighting the West's alarm, particularly
+      from Donald Trump, regarding Russia's ongoing military offensives. The author
+      suggests that Trump's decision to shorten the ceasefire deadline from 50 days
+      to 10 days reflects the urgent and dire circumstances Ukraine faces along the
+      front lines. The article details intense battles in various regions, including
+      Toretsk, where both Russian and Ukrainian forces are engaged in fierce combat,
+      and Pokrovsk, which is under concentrated Russian assault. Additionally, the capture
+      of Chasiv Yar by Russian forces poses a significant threat to Ukraine's defensive
+      positions, while the Zaporizhia region experiences heavy bombardments, resulting
+      in substantial casualties and destruction.
+    published: '2025-08-10T01:39:35+00:00'
+  - title: Has Putin Learned the Lessons of the Battle of Debaltseve and Minsk II?
+    url: https://sonar21.com/has-putin-learned-the-lessons-of-the-battle-of-debaltseve-and-minsk-ii/
+    text: 'Battle of Debaltseve I will answer my question right up front: Yes ! The
+      reaction of the West, especially that of Donald Trump, to Russia’s current offensive
+      all along the line of contact, is reminiscent of the panic that seized the West
+      in 2015 following Ukraine’s loss in the Battle of Debaltseve . That battle came
+      about in part because of the failure of Minsk I , and was the impetus for Minsk
+      II . So what does this have to do with the current situation in Ukraine? I believe
+      that the primary reason Donald Trump dramatically shortened his 50-day deadline
+      for Russia to agree to a ceasefire to 10 days, was because of the dire situation
+      Ukraine now faces all along the line of contact. Debaltseve was just one battle,
+      which Ukraine lost. The current battles underway are far larger and encompass
+      the following agglomerations: Toretsk (Donetsk Oblast): Intense battles are ongoing
+      near Toretsk, including Ukrainian advances within Katerynivka and Shcherbynivka,
+      and Russian advances in nearby areas such as Rusyn Yar and Poltavka. Russian and
+      Ukrainian forces are contesting several settlements along key axes northwest and
+      west of Toretsk. Elements of Russia’s 20th Motorized Rifle Division, supported
+      by artillery and drones, are actively engaged in the area. Pokrovsk: Pokrovsk
+      faces concentrated Russian assaults and is currently a focal point of fighting,
+      with Russian forces intensifying attacks across the front. Ukrainian defenders
+      confront urgent threats within and around the city as Russia adapts new offensive
+      tactics. Chasiv Yar (Donetsk Oblast): Russia recently captured Chasiv Yar, a heavily
+      fortified eastern city. This victory allows Russia to target Ukraine’s so-called
+      “fortress belt,” a network of defensive strongholds, and opens further offensive
+      opportunities in the region. Zaporizhia Region: Russia maintains high-intensity
+      bombardments—over 400 airstrikes on 16 settlements—leading to heavy casualties
+      and destruction, marking continued contestation in this southern front. Let’s
+      first review the importance of the Battle of Debaltseve , which was fought between
+      January and February 2015, and marked a major setback for Ukraine the Donbas region.
+      Its importance stems from several key factors: Strategic Location : Debaltseve
+      was a critical transportation hub, particularly for its railway junction connecting
+      the Russian-backed separatist-controlled cities of Donetsk and Luhansk. Control
+      over Debaltseve allowed influence over supply lines and movement in the region,
+      making it a focal point for both Ukrainian forces and Russian/separatist forces.
+      Ceasefire Violations and Minsk II : The battle occurred during a period of intense
+      fighting despite the Minsk Protocol (September 2014), which aimed to establish
+      a ceasefire. The escalation at Debaltseve exposed the fragility of the ceasefire
+      and led to the signing of the Minsk II agreement on February 12, 2015, as international
+      mediators (France, Germany, Ukraine, and Russia) sought to halt the violence.
+      However, fighting continued even after the agreement, undermining trust in the
+      peace process. Military and Political Implications : The battle resulted in a
+      significant defeat for Ukrainian forces, who were encircled and forced to withdraw
+      under heavy pressure from Russian-backed separatists, supported by regular Russian
+      troops (as reported by Ukrainian and Western sources). The loss highlighted Ukraine’s
+      military vulnerabilities at the time, including issues with coordination, logistics,
+      and equipment, while boosting the morale and territorial control of separatist
+      forces. Human Cost and Humanitarian Impact : The battle caused significant casualties,
+      with estimates of hundreds killed (both military and civilian) and thousands displaced.
+      The intense shelling and fighting devastated Debaltseve, exacerbating the humanitarian
+      crisis in the Donbas region and drawing international attention to the plight
+      of civilians caught in the conflict. Geopolitical Ramifications : The battle underscored
+      Russia’s direct involvement in the conflict, as Western governments and organizations
+      like NATO cited evidence of Russian military equipment and personnel in Debaltseve.
+      This intensified sanctions and diplomatic pressure on Russia, further straining
+      its relations with the West and solidifying Ukraine’s push for international support.
+      Long-Term Impact on the Conflict : The fall of Debaltseve consolidated separatist
+      control over key areas of the Donbas, setting a precedent for the protracted,
+      low-intensity conflict that followed. It also shaped Ukraine’s subsequent military
+      reforms and increased its reliance on Western military aid to counter Russian
+      aggression. We subsequently learned that Minsk II was a sham devised by the West
+      to permit Ukraine to rebuild its military force. Angela Merkel made statements
+      about the Minsk II agreement in interviews in 2022, specifically in June and December.
+      In a June 2022 interview with Der Spiegel , she indicated that the Minsk talks
+      helped Ukraine “buy time” to strengthen itself against Russia. She elaborated
+      in a December 2022 interview with Die Zeit , stating, “The 2014 Minsk agreement
+      was an attempt to give Ukraine time. Ukraine used this time to become stronger,
+      as you can see today. The Ukraine of 2014/15 is not the Ukraine of today.” Following
+      Merkel’s confession of the real purpose of Minsk II , Vladimir Putin publicly
+      admitted that he had been deceived by the Minsk II agreements in statements made
+      in November and December 2022. In a conversation cited in the book, Vladimir Putin.
+      From the Annals of the XXI Century, Putin described the Minsk agreements as “nothing
+      but sheer deception” and said that Western leaders used the process to buy time
+      and prepare Ukraine for war. In December 2022, Putin elaborated that “no one was
+      going to fulfill the Minsk agreements,” admitting, “It turns out that they also
+      deceived us, and the point was only to pump Ukraine with weapons and prepare for
+      combat operations. Apparently, we got our bearings late, to be honest.” Now we
+      have Donald Trump begging for a personal meeting with Vladimir Putin. While some
+      in Russia have expressed fears that Putin is once again being offered the Charlie
+      Brown meme of kicking the football, I think Mr. Putin has learned his lesson and
+      is not going to reverse his stated policy. While many in the West are pushing
+      the narrative that Putin will give up claims to Zaporizhia and Kherson, that is
+      not true. Those two former oblasts of Ukraine are now, according to the Russian
+      Constitution, legally part of Russia. Putin does not have the authority to change
+      that fact without legislative action by the Russian Duma. Given this fact, I believe
+      the deal that Putin will offer to Donald Trump is a halt to military operations
+      in Sumy and Kharkiv if, and only if, Ukraine withdraws its military forces from
+      Donetsk, Luhansk, Zaporizhia and Kherson; that NATO end all military support for
+      Ukraine; and that the United States agrees to negotiate based on the draft treaty
+      Putin presented to Joe Biden in December 2022. If Trump does not take that deal,
+      the war will continue until Russia consolidates all territory east of the Dnieper
+      River. I recorded a monologue on Thursday — before all the details about the meeting
+      in Alaska had been announced — about what to expect from the Putin Trump summit:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article draws a parallel between the West's reaction to
+      Russia's current offensive in Ukraine and the panic following Ukraine's loss in
+      the Battle of Debaltseve in 2015, suggesting that this historical context influenced
+      Donald Trump's decision to shorten the ceasefire deadline amid escalating conflicts
+      in the region.
+    paragraph_summary: The article draws parallels between the current situation in
+      Ukraine and the 2015 Battle of Debaltseve, highlighting the West's alarm, particularly
+      from Donald Trump, regarding Russia's ongoing military offensives. The author
+      suggests that Trump's decision to shorten the ceasefire deadline from 50 days
+      to 10 days reflects the urgent and dire circumstances Ukraine faces along the
+      front lines. The article details intense battles in various regions, including
+      Toretsk, where both Russian and Ukrainian forces are engaged in fierce combat,
+      and Pokrovsk, which is under concentrated Russian assault. Additionally, the capture
+      of Chasiv Yar by Russian forces poses a significant threat to Ukraine's defensive
+      positions, while the Zaporizhia region experiences heavy bombardments, resulting
+      in substantial casualties and destruction.
+    published: '2025-08-10T01:39:35+00:00'
+  - title: While Trump Talks Peace, is the US Setting the Stage for More War?
+    url: https://sonar21.com/while-trump-talks-peace-is-the-us-setting-the-stage-for-more-war/
+    text: 'Aliyev, Trump and Pashinyan Trump and a raft of pundits and US intelligence
+      officials continue to operate on a set of false assumptions and delusional beliefs
+      about Russia and the war in Ukraine. Sy Hersh is out with a new article , and
+      the quotes from his source (or sources) in the Trump administration illustrate
+      this. The article is titled, WILL TRUMP MEET PUTIN? As of now, the answer is,
+      yes . The meeting is set for next Friday in Alaska. I want to focus on four paragraphs
+      from Sy’s piece that illustrate the continued failure of the West to understand
+      what Putin means by “ root causes .” Here are the choice quotes from Sy’s article:
+      Putin talks to Witkoff because he understands he’s got power and speaks for the
+      boss,” a knowledgeable US official told me. He said it was Witkoff who understood
+      that the way to get Putin’s attention was to cut off his access to the oil markets
+      in India and China by increasing the US secondary tariffs on both buyers. Interest
+      rates in Russia have risen to 18 percent and the economy, hit hard by the cost
+      of the ongoing war, is limping along in part due to Putin’s ability to keep on
+      selling government bonds to Russian banks. The official told me that in essence
+      Witkoff “has said to Putin: You need the oil money and we can control the market.
+      . . . The official’s point was that Trump, along with many elsewhere in the world,
+      views settling the war in Ukraine as an acknowledgement that Russia has seized
+      large chunks of Ukraine and any settlement would involve agreements about new
+      international borders. In other words, it has been just another territorial war.
+      Early in Trump’s second presidency, there was a one-sided hope from Washington
+      that Putin would join him in real estate investments and rare earth mineral extraction
+      in the Ukrainian territories seized by Russia. Unless there is a last-minute breakthrough
+      in diplomacy, such US investments are off the table. I was told by the US official
+      and other experts on the war that Putin and those in his government want more
+      than a big chunk of Ukraine. They want to keep Ukraine demilitarized, out of Western
+      hands, and especially out of NATO. Put another way, they want a guarantee that
+      Ukraine will never be a serious threat to Russia again. President Volodymyr Zelensky
+      of Ukraine wants to join NATO and to remain in power, but he is playing a losing
+      hand in the war and has been slipping in recent polling Here is the first flawed
+      assumption: “It has been just another territorial war.” Russia does not need the
+      territory because it already is a massive land mass that covers 11 time zones.
+      This war was provoked by NATO expansion to the east. That’s the point that Trump
+      and his team still do not grasp. The draft treaty that Putin presented to Biden
+      in December 2021 was all about pushing NATO away from Russia’s borders, which
+      explains one of Putin’s goals for the Special Military Operation (SMO)… Demilitarization
+      . Then there is the false belief that the US can cut off Russia’s access to the
+      oil markets in China and India: The official told me that in essence Witkoff “has
+      said to Putin: You need the oil money and we can control the market. . . . Since
+      Trump announced his tariffs against China and India, both governments have rejected
+      the Trump tariffs as irresponsible interference with their economies, and they
+      are continuing to buy oil from Russia. If Witkoff is so dumb as to believe that
+      was a credible threat for Putin, then Trump is being set up for failure when he
+      meets with Putin. Sy, who is not an economist, gets it completely wrong when he
+      suggests that Russia’s economy is in trouble because Russian interest rates: have
+      risen to 18 percent and the economy, hit hard by the cost of the ongoing war,
+      is limping along in part due to Putin’s ability to keep on selling government
+      bonds to Russian banks. Wrong. Russia’s central banker raised the interest rates
+      to 21% in October 2024 in order to combat inflation. During the 2nd quarter, the
+      rate was dropped to 20%, followed by another cut to 18% in the 3rd quarter. This
+      was sound fiscal policy, which achieved the goal of slowing the growth of Russia’s
+      economy to 1.4% in the second quarter. The Russian central bank is going to make
+      addition cuts, probably in September, and is projecting that the economy will
+      grow by 3% in the fourth quarter. Here again, Sy is being fed a line of Western
+      bullshit that is still predicated on the assumption that Russia is a gas station
+      masquerading as a country . Sy’s source finally gets one thing right: “T hey want
+      to keep Ukraine demilitarized, out of Western hands, and especially out of NATO.
+      ” Which brings me to the title of my article. Today’s White House ceremony that
+      featured the leaders of Armenia and Azerbaijan signing an agreement to end their
+      conflict, with Armenia coughing up major territorial concessions, is just an extension
+      of the plan the US tried to execute against Russia using Ukraine as a proxy. While
+      not included in the agreement, Armenia reportedly plans to withdraw from CSTO
+      by early 2026. (The CSTO is the Russian founded military alliance in Eurasia consisting
+      of six post-Soviet states: Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia, and
+      Tajikistan.) Moreover, the US also reportedly secretly promised NATO membership
+      to Armenia and Azerbaijan for signing on to this deal, which would give NATO access
+      to the Caspian Sea by virtue of the Zangezur corridor. And here is the kicker
+      (if true): Some telegram channels claim that US troops are set to be deployed
+      in Armenia within the next 48 hours. In other words, rather than ratchet down
+      tensions and reduce the threat of NATO, Trump is signing off on a plan to continue
+      the NATO encirclement of Russia. So yes, Trump is setting the stage for World
+      War 3 if he is serious about adding Armenia and Azerbaijan to NATO. Friday was
+      roundtable day . Nima hosted Larry Wilkerson and me this morning, and the Judge
+      held his regularly scheduled Intelligence Roundtable with me and Ray McGovern:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses the misconceptions held by Trump, pundits,
+      and US intelligence officials regarding Russia and the Ukraine war, highlighting
+      an upcoming meeting between Trump and Putin in Alaska and emphasizing the West's
+      failure to grasp the underlying motivations behind Putin's actions.
+    paragraph_summary: The article discusses the misconceptions held by former President
+      Trump, pundits, and US intelligence officials regarding Russia and the ongoing
+      war in Ukraine, as highlighted by investigative journalist Sy Hersh. It reveals
+      that Trump is set to meet Putin in Alaska, and emphasizes a critical misunderstanding
+      of the "root causes" of the conflict. A knowledgeable US official notes that Putin's
+      power dynamics and economic struggles are being misinterpreted, suggesting that
+      the West's approach to negotiating peace in Ukraine is flawed. The official argues
+      that Trump and others mistakenly view the conflict as a typical territorial dispute,
+      overlooking the complexities of the situation and the implications of potential
+      US investments in the region, which are now unlikely without significant diplomatic
+      progress.
+    published: '2025-08-09T02:07:27+00:00'
+  - title: While Trump Talks Peace, is the US Setting the Stage for More War?
+    url: https://sonar21.com/while-trump-talks-peace-is-the-us-setting-the-stage-for-more-war/
+    text: 'Aliyev, Trump and Pashinyan Trump and a raft of pundits and US intelligence
+      officials continue to operate on a set of false assumptions and delusional beliefs
+      about Russia and the war in Ukraine. Sy Hersh is out with a new article , and
+      the quotes from his source (or sources) in the Trump administration illustrate
+      this. The article is titled, WILL TRUMP MEET PUTIN? As of now, the answer is,
+      yes . The meeting is set for next Friday in Alaska. I want to focus on four paragraphs
+      from Sy’s piece that illustrate the continued failure of the West to understand
+      what Putin means by “ root causes .” Here are the choice quotes from Sy’s article:
+      Putin talks to Witkoff because he understands he’s got power and speaks for the
+      boss,” a knowledgeable US official told me. He said it was Witkoff who understood
+      that the way to get Putin’s attention was to cut off his access to the oil markets
+      in India and China by increasing the US secondary tariffs on both buyers. Interest
+      rates in Russia have risen to 18 percent and the economy, hit hard by the cost
+      of the ongoing war, is limping along in part due to Putin’s ability to keep on
+      selling government bonds to Russian banks. The official told me that in essence
+      Witkoff “has said to Putin: You need the oil money and we can control the market.
+      . . . The official’s point was that Trump, along with many elsewhere in the world,
+      views settling the war in Ukraine as an acknowledgement that Russia has seized
+      large chunks of Ukraine and any settlement would involve agreements about new
+      international borders. In other words, it has been just another territorial war.
+      Early in Trump’s second presidency, there was a one-sided hope from Washington
+      that Putin would join him in real estate investments and rare earth mineral extraction
+      in the Ukrainian territories seized by Russia. Unless there is a last-minute breakthrough
+      in diplomacy, such US investments are off the table. I was told by the US official
+      and other experts on the war that Putin and those in his government want more
+      than a big chunk of Ukraine. They want to keep Ukraine demilitarized, out of Western
+      hands, and especially out of NATO. Put another way, they want a guarantee that
+      Ukraine will never be a serious threat to Russia again. President Volodymyr Zelensky
+      of Ukraine wants to join NATO and to remain in power, but he is playing a losing
+      hand in the war and has been slipping in recent polling Here is the first flawed
+      assumption: “It has been just another territorial war.” Russia does not need the
+      territory because it already is a massive land mass that covers 11 time zones.
+      This war was provoked by NATO expansion to the east. That’s the point that Trump
+      and his team still do not grasp. The draft treaty that Putin presented to Biden
+      in December 2021 was all about pushing NATO away from Russia’s borders, which
+      explains one of Putin’s goals for the Special Military Operation (SMO)… Demilitarization
+      . Then there is the false belief that the US can cut off Russia’s access to the
+      oil markets in China and India: The official told me that in essence Witkoff “has
+      said to Putin: You need the oil money and we can control the market. . . . Since
+      Trump announced his tariffs against China and India, both governments have rejected
+      the Trump tariffs as irresponsible interference with their economies, and they
+      are continuing to buy oil from Russia. If Witkoff is so dumb as to believe that
+      was a credible threat for Putin, then Trump is being set up for failure when he
+      meets with Putin. Sy, who is not an economist, gets it completely wrong when he
+      suggests that Russia’s economy is in trouble because Russian interest rates: have
+      risen to 18 percent and the economy, hit hard by the cost of the ongoing war,
+      is limping along in part due to Putin’s ability to keep on selling government
+      bonds to Russian banks. Wrong. Russia’s central banker raised the interest rates
+      to 21% in October 2024 in order to combat inflation. During the 2nd quarter, the
+      rate was dropped to 20%, followed by another cut to 18% in the 3rd quarter. This
+      was sound fiscal policy, which achieved the goal of slowing the growth of Russia’s
+      economy to 1.4% in the second quarter. The Russian central bank is going to make
+      addition cuts, probably in September, and is projecting that the economy will
+      grow by 3% in the fourth quarter. Here again, Sy is being fed a line of Western
+      bullshit that is still predicated on the assumption that Russia is a gas station
+      masquerading as a country . Sy’s source finally gets one thing right: “T hey want
+      to keep Ukraine demilitarized, out of Western hands, and especially out of NATO.
+      ” Which brings me to the title of my article. Today’s White House ceremony that
+      featured the leaders of Armenia and Azerbaijan signing an agreement to end their
+      conflict, with Armenia coughing up major territorial concessions, is just an extension
+      of the plan the US tried to execute against Russia using Ukraine as a proxy. While
+      not included in the agreement, Armenia reportedly plans to withdraw from CSTO
+      by early 2026. (The CSTO is the Russian founded military alliance in Eurasia consisting
+      of six post-Soviet states: Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia, and
+      Tajikistan.) Moreover, the US also reportedly secretly promised NATO membership
+      to Armenia and Azerbaijan for signing on to this deal, which would give NATO access
+      to the Caspian Sea by virtue of the Zangezur corridor. And here is the kicker
+      (if true): Some telegram channels claim that US troops are set to be deployed
+      in Armenia within the next 48 hours. In other words, rather than ratchet down
+      tensions and reduce the threat of NATO, Trump is signing off on a plan to continue
+      the NATO encirclement of Russia. So yes, Trump is setting the stage for World
+      War 3 if he is serious about adding Armenia and Azerbaijan to NATO. Friday was
+      roundtable day . Nima hosted Larry Wilkerson and me this morning, and the Judge
+      held his regularly scheduled Intelligence Roundtable with me and Ray McGovern:
+      I thank you for your invaluable support by taking time to read or comment. I do
+      not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses the misconceptions held by Trump, pundits,
+      and US intelligence officials regarding Russia and the Ukraine war, highlighting
+      an upcoming meeting between Trump and Putin in Alaska and emphasizing the West's
+      failure to grasp the underlying motivations behind Putin's actions.
+    paragraph_summary: The article discusses the misconceptions held by former President
+      Trump, pundits, and US intelligence officials regarding Russia and the ongoing
+      war in Ukraine, as highlighted by investigative journalist Sy Hersh. It reveals
+      that Trump is set to meet Putin in Alaska, and emphasizes a critical misunderstanding
+      of the "root causes" of the conflict. A knowledgeable US official notes that Putin's
+      power dynamics and economic struggles are being misinterpreted, suggesting that
+      the West's approach to negotiating peace in Ukraine is flawed. The official argues
+      that Trump and others mistakenly view the conflict as a typical territorial dispute,
+      overlooking the complexities of the situation and the implications of potential
+      US investments in the region, which are now unlikely without significant diplomatic
+      progress.
+    published: '2025-08-09T02:07:27+00:00'
+  - title: Donald Trump’s nuclear war threat – only a storm in a teacup?
+    url: https://sonar21.com/donald-trumps-nuclear-war-threat-only-a-storm-in-a-teacup/
+    text: 'The wars waged by the West in Europe and the Middle East and Far East are
+      aimed, among other things, at bringing about a change of power in the respective
+      countries through a military decapitation strike. Are we facing a nuclear war?
+      And where is the peace movement? By Andreas Mylaeus and Peter Hanseler Picture:
+      Andreas Mylaeus – bing.com Introduction The West is losing its military wars in
+      Europe and in the Middle East. Russia is now crushing the third “Ukrainian” army
+      equipped by NATO and financed by the West. Iran’s counterstrike against USraeli
+      aggression recently destroyed Israel to such an extent that further open acts
+      of war by the West against Iran had to be suspended for the time being. Western
+      air defenses had and still have no effective means against the superior Russian
+      and Iranian missiles and drones. As a result, the West no longer has any means
+      of escalation dominance in conventional warfare. This now lies entirely with Russia
+      and Iran. However, since the West has not abandoned its war aims of regime change
+      in Russia (in order to subsequently fillet and gut the country) and in Iran (in
+      order to regain control of the Middle East), the countries concerned must continue
+      to prepare themselves for corresponding decapitation strikes. As a military means,
+      the West ultimately has no choice but to resort to nuclear weapons, because its
+      conventional weapons are failing. Against this backdrop, Dmitry Medvedev (President
+      of the Russian Federation from 2008 to 2012, 2012–2020 Prime Minister of Russia,
+      since 2020 Deputy Chairman of the Security Council) pointed out in a post on July
+      31, 2025, in response to provocations by Donald Trump, that Russia still has defensive
+      means against an American first strike with nuclear weapons. Donald Trump responded
+      with a nuclear escalation in the submarine war. So are we really heading for a
+      nuclear escalation that will end in the destruction of the world, or is this just
+      a storm in a teacup? In our view: neither – nor. An analysis. Social media squabbling
+      with a serious background Medvedev and Trump; Sputnik/Alexei Maishev and REUTERS/Evelyn
+      Hockstein In the hybrid war against Russia and those whom Donald Trump considers
+      to be Russia’s supporters, he announced on Truth Social on July 30, 2025, a 25%
+      import tax on goods from India starting August 1, citing India’s energy and arms
+      purchases from Russia as one of the reasons. At the same time, he threatened secondary
+      tariffs of up to 100% if India or other countries continued to import Russian
+      oil, unless Russia agreed to a ceasefire by around August 8. Dmitry Medvedev described
+      Trump’s ultimatums not only as threats, but specifically as blackmail, and warned
+      urgently of a possible escalation of the conflict. In a post on X (formerly Twitter),
+      he wrote: “The language of ultimatums, blackmail, and threats is unacceptable
+      to us.” Medvedev on X “Every new ultimatum is a threat and a step toward war.
+      Not with Russia or Ukraine, but with his own country.” Medvedev on X Trump’s response
+      came promptly on Truth Social (July 30/31, 2025): „I don’t care what India does
+      with Russia. They can take their dead economies down together, for all I care.
+      We have done very little business with India, their Tariffs are too high, among
+      the highest in the World. Likewise, Russia and the USA do almost no business together.
+      Let’s keep it that way, and tell Medvedev, the failed former President of Russia,
+      who thinks he’s still President, to watch his words. He’s entering very dangerous
+      territory!“ Trump on Truth Social Medvedev responded via Telegram on July 31,
+      2025 ( commented with a laughing emoji): „If a few words from the former president
+      of Russia provoke such a nervous reaction from the mighty US president, then Russia
+      must be completely in the right (…) And as for the ‘dead economies’ of India and
+      Russia and ‘entering dangerous territory’ – perhaps he should revisit his favourite
+      zombie movies and recall just how dangerous the mythical ‘Dead Hand’ can be.“
+      Dmitry Medvedev via Telegram This was followed by this statement from Donald Trump:
+      „Based on the highly provocative statements of the Former President of Russia,
+      Dmitry Medvedev, who is now the Deputy Chairman of the Security Council of the
+      Russian Federation, I have ordered two Nuclear Submarines to be positioned in
+      the appropriate regions , just in case these foolish and inflammatory statements
+      are more than just that. Words are very important, and can often lead to unintended
+      consequences, I hope this will not be one of those instances.“ Trump on Truth
+      Social Medvedev’s warning The mythical “dead hand” The Dead Hand (Russian: Мёртвая
+      рука, officially Система «Периметр») is a nuclear weapons command system of the
+      former Soviet Union and now Russia, which has existed since the 1980s. It is an
+      automated control system designed to automatically or semi-automatically launch
+      an all-out counterattack in the event of a nuclear decapitation strike that renders
+      the country’s leadership incapable of acting (a mythical “dead hand” can still
+      strike back). In the event of a nuclear attack, checks are carried out to determine
+      whether there have been massive seismic or nuclear detonations, whether communications
+      links to the leadership have been interrupted, and whether certain military conditions
+      have been met. If, after activation, all criteria are met and no human counterattack
+      order is given, Perimetr launches one or more special command missiles. These
+      fly over Russian territory and send launch commands to all remaining strategic
+      nuclear weapons – land-, sea- or air-based. It is therefore a kind of “last automatic
+      strike,” even in the event of complete loss of leadership. In other words, Medvedev
+      is reminding the US that it will not get away with a nuclear attack on Russia,
+      but that this would also mean its own complete destruction – a clear warning against
+      a US first strike and not an active Russian threat with nuclear weapons, as propagated
+      in the Western media. Do the Russians have any reason to make such a threat to
+      the West? The answer can be found in the American Nuclear Weapons Employment Planning
+      Guidance. This is a classified directive approved by the US president—most recently
+      by Joe Biden in spring 2024—that sets out how the Department of Defense develops
+      doctrines and options for the possible use of nuclear weapons. Joe Biden and his
+      ice cream cone Nuclear Weapons Employment Planning Guidance Scott Ritter, a former
+      US intelligence officer and former UNSCOM inspector, has repeatedly and increasingly
+      pointed out in recent years that there is a mindset within the US defense and
+      planning bureaucracies that is working toward a potentially “winnable” nuclear
+      conflict. In this context, Ritter recalls, among other things, statements made
+      by Rear Admiral Thomas R. “T.R.” Buchanan. Rear Admiral Thomas Buchanan , Director
+      of Planning and Policy at J5 (Strategy, Planning, and Policy) of the US Strategic
+      Command (USSTRATCOM), the unified command responsible for deterring strategic
+      attacks (i.e., nuclear wars). Buchanan has been the head of the Plans & Policy
+      Directorate (J5) at the United States Strategic Command (USSTRATCOM) since June
+      2024, where he is heavily involved in planning and defining US nuclear strategy.
+      This directorate is responsible for developing and maintaining the national nuclear
+      strategy, in particular for preparing and updating the nuclear deployment plans
+      available to the president in the event of an escalation, developing planning
+      options in accordance with the guidelines of the president, the secretary of defense,
+      and the chief of the Joint Staff, and continuously analyzing and evaluating military
+      scenarios and incorporating them into strategic planning. Scott Ritter reports
+      as follows: On November 20, 2024, Admiral Buchanan was the keynote speaker at
+      the Center for Strategic and International Studies conference on nuclear issues
+      in Washington, DC, where he drew on his experience as the person responsible for
+      implementing the President’s directives in the preparation and execution of the
+      United States’ nuclear war plans. When asked about the concept of “winning” a
+      nuclear war, Buchanan replied: “It’s certainly complex because we take many different
+      approaches to discussing what the situation in the United States would look like
+      after a nuclear exchange. And that’s a scenario we want to avoid, isn’t it? So
+      when we talk about non-nuclear and nuclear capabilities, we certainly don’t want
+      an exchange, do we?” Rear Admiral Thomas R. “T.R.” Buchanan Right. It would have
+      been best if he had just stopped there. But Admiral Buchanan continued. “I think
+      everyone would agree that if we have to have an exchange , we want to do so on
+      terms that are most acceptable to the United States . So, terms that are most
+      acceptable to the United States, that allow us to continue to play a leadership
+      role in the world, right? So we are widely regarded as a world leader. And are
+      we a world leader in an area where we have accepted losses? The answer is no,
+      right? So it would go to a point where we would have to maintain sufficient capacity—we
+      would have to have sufficient capacity. We would have to have reserve capacity.
+      You wouldn’t spend all your resources to win, would you? Because then you would
+      have nothing left to deter them with at that point.“ Rear Admiral Thomas R. ”T.R.”
+      Buchanan According to Ritter, two things can be inferred from this statement.
+      First, the idea that the United States believes it can engage in a nuclear “exchange”
+      with Russia and win. Second, the idea that the United States can not only win
+      a nuclear war with Russia, but also retain enough strategic nuclear capabilities
+      to prevent the rest of the world from entering into another nuclear war after
+      the nuclear war with Russia. “Winning” a nuclear war with Russia means that the
+      United States has a plan not only to win the war, but also a plan that allows
+      the United States to retain enough nuclear weapons in its arsenal to remain a
+      “world power” after a nuclear war by maintaining its doctrine of nuclear deterrence.
+      There is only one scenario in which the US could attempt to achieve this (in reality
+      completely impossible) goal. This scenario involves a preventive nuclear strike
+      against Russia’s strategic nuclear forces, aimed at destroying the majority of
+      Russia’s nuclear weapons. Such an attack can only be carried out with Trident
+      missiles stationed on board the US Navy’s Ohio-class submarines . US experts such
+      as the Arms Control Association insist that the primary purpose remains deterrence,
+      not active warfare. Its use would be limited to “extreme cases” (such as if NATO
+      loses against Russia?). And Russia is supposed to rely on that? This would be
+      completely naive for the following reasons. Firstly, retired Lieutenant General
+      Keith Kellogg, who served as national security adviser to Vice President Mike
+      Pence during Trump’s presidency and is now Donald Trump’s special envoy in Kiev,
+      has suggested that the US should deploy all its ballistic missile submarines (!)
+      to see if Putin is “bluffing.” Second, the bloody history of regime change tactics
+      involving murder and manslaughter by the US around the world, as outlined below,
+      must be taken into account. Regime change with deadly consequences The list of
+      Western regime change actions that ended with the death of a sitting or deposed
+      head of government is a historically documented topic. Here is a list (not exhaustive)
+      of such cases since the 20th century, in each of which Western influence (primarily
+      through the US, the UK, or their allies) was decisive: Patrice Lumumba (Congo,
+      1961), former Prime Minister of Congo, was assassinated. The background to this
+      was that after Congo gained independence from Belgium, Lumumba became a target
+      of Western intelligence agencies because of his pro-independence policies and
+      alleged ties to the Soviet Union. The CIA and the Belgian secret service supported
+      his political opponent Mobutu. Lumumba was eventually captured, tortured, and
+      murdered. Ngo Dinh Diem (South Vietnam, 1963), former president of South Vietnam,
+      was assassinated after a military coup against him. The background to this was
+      that Diem had lost the support of the US due to his unpopular rule and repressive
+      policies. The CIA tacitly supported the military coup in which he was killed.
+      Salvador Allende (Chile, 1973), former president of Chile, allegedly committed
+      suicide during the coup against him. Allende was a democratically elected socialist.
+      The US (under Nixon/Kissinger) actively supported the destabilization of his government.
+      During the military coup led by Pinochet (with CIA support), Allende allegedly
+      took his own life during the storming of the presidential palace. Saddam Hussein
+      (Iraq, 2006), former president of Iraq. He was “legally” executed after being
+      captured by US troops. The US-led invasion in 2003 overthrew Saddam under the
+      false pretext of weapons of mass destruction. He was later sentenced to death
+      by an Iraqi court and hanged under US supervision. Muammar al-Gaddafi (Libya,
+      2011), former revolutionary leader and head of state. He was captured and murdered
+      after a Western air war. During the Arab Spring, Western states (NATO, especially
+      France, Britain, and the US) supported the rebellion against Gaddafi. After NATO
+      air strikes on his convoy, Gaddafi was captured, abused, and killed. Additional
+      cases (without fatalities, but failed or attempted regime change): Iran 1953 (overthrow
+      of Prime Minister Mossadegh by the CIA/MI6 – he survived but remained under house
+      arrest); Venezuela (several coup attempts against Hugo Chávez and Nicolás Maduro);
+      Ukraine (after the Ukrainian government under President Viktor Yanukovych did
+      not sign the association agreement with the EU at short notice and instead wanted
+      to deepen relations with Russia, Yanukovych had to flee to Russia to escape assassination);
+      Syria (regime change against Assad, who was able to flee to Russia in time); Decapitation
+      strike against Hezbollah and the failed decapitation strike against the Iranian
+      government. These bloody events from the past 60 years show that there is no reason
+      to believe that the US will abandon these methods. Russia is well aware of these
+      events and world history and will act accordingly. Donald Trump’s threat with
+      nuclear submarines Against this backdrop, Donald Trump’s aforementioned announcement
+      on August 1, 2025, to position two nuclear submarines “in the appropriate regions,”
+      i.e., in the direction of Russian waters, takes on a serious character. However,
+      the facts must also be gathered here. Ohio submarines of the US Navy In the center,
+      the Michigan during construction on December 8, 1979, with the Ohio to the right.
+      Halfway into the hall: Florida.US Navy photo courtesy of globalsecurity.org web
+      site. http://www.navsource.org/archives/08/0872618.jpg The US Navy’s Ohio-class
+      submarines (which will be replaced by the Columbia class in the future) are nuclear-powered
+      and can operate submerged for months at a time, making them extremely difficult
+      to detect. Their most important strength is their invisibility. Their main mission
+      is to remain undetected, which is why they avoid coastal areas and shallow waters.
+      They usually operate at great depths (>200 m) with a low sonar profile to avoid
+      detection. The strategic version of the Ohio class (Ship, Submersible, Ballistic,
+      Nuclear – SSBN) carries up to 24 Trident II D5 intercontinental submarine-launched
+      ballistic missiles (SLBMs) with multiple nuclear warheads (MIRVs). These missiles
+      have ranges of over 11,000 km and can hit multiple targets simultaneously. They
+      are equipped with solid fuel, so they do not need to be refuelled before launch
+      and are always ready for immediate use. Trident II being launched from a submerged
+      submarine; Source The principle of “mutual assured destruction” (MAD) is central
+      to the nuclear strategy of the US (and other nuclear powers). A potential enemy
+      must know that a nuclear attack will not go unanswered without devastating retaliation.
+      Ohio-class submarines are the most reliable means of ensuring this, as they are
+      highly likely to survive even a surprise attack and strike back. This is why they
+      are also referred to as classic second-strike weapons. The mission zones of American
+      strategic submarines (especially the Ohio-class SSBNs) are secret, but publicly
+      available sources provide a fairly good picture of where these boats typically
+      patrol. These zones are called “Strategic Deterrent Patrol Areas.” They are: the
+      North Atlantic between North America, Iceland, and Norway; partly south of Greenland
+      due to its proximity to Russia (North Sea) and Europe; west of Norway, north of
+      Scotland (observation of northern Russian fleet movements); Arctic Ocean, occasionally
+      under ice (costly, but provides maximum concealment, proximity to northern Russia);
+      Caribbean & Western Atlantic (close to the east coast of the US, sometimes as
+      far as Bermuda, safe retreat, ideal for undetected launches); Western Pacific,
+      Philippine Sea, near the Mariana Trench, between Guam, Japan, Taiwan (close to
+      China, North Korea, and Russia); South China Sea; Bering Sea/Aleutian Islands,
+      North Pacific, west of Alaska (observation of Russian Pacific Fleet). First strike
+      or second strike weapon – a bogus debate Our sleepy-headed media and some otherwise
+      serious analysts are trying to appease the world with the argument that these
+      nuclear submarines are purely second-strike weapons and that Russia (and the rest
+      of the world, which is concerned about a nuclear war) need not worry because these
+      weapons would only be used for defense and deterrence after Russia had launched
+      a nuclear attack first. This fairy tale is simply dismissed by authoritative voices.
+      John Bolton with Trump during his first term in office John Bolton , former National
+      Security Advisor in the first Trump administration, said the following in an interview
+      (at minute 37:00) on CNN on August 3, 2025: „And as I said, while the ballistic
+      missile submarines are core to our second strike capability, they are also perfectly
+      capable of being part of a first strike on Russia . So you could see people in
+      the Kremlin obviously always nervous about our capabilities, believe that Trump
+      is trying to insinuate that he may be considering a first strike , which is even
+      more dangerous.“ John Bolton Even without extensive military training, it is easy
+      to understand that such equipment can be reprogrammed without any problems. Propaganda
+      noise or a serious threat from Trump? In a conversation with Judge Napolitano
+      on August 1, 2025, Scott Ritter explained the dangers to world peace that Trump’s
+      announcement could pose. [ SPECIAL ] – Scott Ritter: Trump deploys Nuclear Subs
+      to Russia over Social Media Rift Ritter explains: Of the 14 Ohio-class submarines
+      that are likely to exist, between six and nine are operational. The others are
+      being maintained and equipped in port or are en route to their destination. At
+      least two are permanently stationed in the Atlantic and two in the Pacific, where
+      their missiles can attack any potential threat to the US. Additional submarines
+      can be deployed on certain occasions. This was recently the case, for example,
+      when an additional Ohio-class submarine was ordered to the Indian Ocean, whose
+      Trident missiles with their W76-2 warheads with low explosive power (“low yield”)
+      could have attacked Iran on the orders of the president. It did not happen, but
+      the preparations were made. So if Trump now orders two additional ships closer
+      to Russian waters, this poses a serious additional threat to Russia because the
+      distance to the target and thus the warning time for countermeasures is reduced.
+      In addition, the ballistic missiles will fly toward their targets on a much flatter
+      trajectory, causing additional problems for radar detection. Further escalation
+      by the US on European soil General Christopher Donahue on Kaliningrad Larry Johnson
+      reports that General Christopher Donahue stated in mid-July 2025 during the Association
+      of the US Army conference in Germany that NATO and US-allied forces are now capable
+      of “neutralizing” or “taking out” the Russian exclave of Kaliningrad from the
+      ground in an unprecedented and much faster timeframe than previously possible.
+      He described Kaliningrad as approximately 47 miles wide and surrounded on all
+      sides by NATO countries, making it vulnerable to ground operations. This statement
+      was made in connection with NATO’s “Eastern Flank Deterrence” plan, which aims
+      to strengthen military capabilities and readiness in the Baltic Sea region. Donahue’s
+      remarks sparked strong reactions from politicians and citizens in Russia. Leonid
+      Slutsky, chairman of the Russian State Duma’s Committee on International Affairs,
+      warned that an attack on Kaliningrad would be considered an attack on Russia itself
+      and would trigger all necessary retaliatory measures in accordance with Russia’s
+      nuclear doctrine. The Russian side considers Kaliningrad to be strategically important
+      and any NATO attack on it to be a significant escalation that could potentially
+      provoke a nuclear response. Words are one thing, but actions speak louder than
+      words, and Trump has approved a measure that leaves the Russians no choice but
+      to conclude that the United States is preparing an attack on Russia … He has ordered
+      the deployment of nuclear weapons to Europe. Deployment of nuclear weapons to
+      Europe In the 1990s, the US closed or consolidated many bases. Weapons were withdrawn
+      from some national bases and concentrated at fewer main air bases instead of being
+      returned to the US. For example, bombs were moved from smaller bases in Germany,
+      Italy, and Turkey to Ramstein, Ghedi Torre, and Incirlik. In the early 2000s,
+      all US nuclear weapons were withdrawn from Greece, and around 2007, the last bombs
+      were removed from the British air base RAF Lakenheath, ending more than 50 years
+      of US nuclear weapons presence in the UK. Now, in a significant U-turn, the US
+      has stationed B61-12 free-fall bombs in Europe . Deployment locations for B61-12
+      free-fall bombs in 2025: • RAF Lakenheath (United Kingdom): The B61-12 returned
+      to the UK for the first time since 2008, with delivery to RAF Lakenheath confirmed
+      for July 2025. • Kleine Brogel Air Base (Belgium) • Büchel Air Base (Germany)
+      • Aviano and Ghedi Air Bases (Italy) • Volkel Air Base (Netherlands) • Incirlik
+      Air Base (Turkey) This is once again being stored in Europe: 50 B61 nuclear bombs,
+      here in an “igloo” at Nellis Air Force Base in Nevada. US nuclear weapons are
+      believed to be stored at 24 sites in 11 US states and five European countries.
+      The number of sites will increase over the next ten years as three bomber bases
+      are expanded to include nuclear weapons storage facilities. ( Federation of American
+      Scientists ) These bombs are now distributed among these six main bases in five
+      NATO countries , with a total of approximately 100 to 150 US B61-12 bombs forward-deployed.
+      The deployment at RAF Lakenheath in the United Kingdom is a significant strategic
+      signal, as it marks the first return of US tactical nuclear weapons to British
+      soil in over 15 years. Attacks on radar stations During the night of May 22-23,
+      2025, the strategic Voronezh-DM/M radar stations in Armavir (Krasnodar Krai, southern
+      Russia) were damaged. These images show damage to the building structures housing
+      this radar installation. On May 26, 2025, another attack took place near Orsk
+      on the Kazakh border, approximately 1,800 km deep inside Russian territory. There
+      are indications of damage to the radar station. These radar systems serve as part
+      of Russia’s nuclear early warning system and are therefore part of the nuclear
+      triad – specifically as part of reconnaissance. Attacks on Russian nuclear bombers
+      In an operation codenamed “Spider Web,” Western intelligence forces carried out
+      a drone attack on at least four Russian air bases in Siberia (including Irkutsk,
+      Murmansk, Ryazan, and Ivanovo) on June 1, 2025. The targets were strategic bombers
+      (Tu-95, Tu-22M3) and A-50 early warning aircraft – all part of the nuclear-capable
+      air force. Intermediate-range ballistic missiles (IRBMs) and other long-range
+      weapons in Europe The Trump administration has also announced plans to deploy
+      intermediate-range ballistic missiles (IRBMs) and other long-range weapons in
+      Europe starting in 2026, with Germany being the first “host nation” for these
+      systems. This deployment includes, in particular, advanced missile systems such
+      as Typhoon and Dark Eagle, which have been mentioned in recent official communications
+      and news reports. The Typhoon missile system (medium-range capability) is a mobile,
+      ground-based system capable of firing multiple types of missiles (it is not a
+      missile itself, but a multi-missile platform). It can fire the Tomahawk land attack
+      missile with a range of 1,500–2,500 km or the SM-6 with a range of 320 km. The
+      Dark Eagle is a long-range hypersonic weapon, also known as LRHW, with a range
+      of 2,775 km. The Dark Eagle hypersonic missile was successfully tested after several
+      failed attempts between 2021 and 2023. The system completed its first successful
+      end-to-end flight test in June 2024, followed by a second successful test in December
+      2024. A Russian response Russia had already announced the production of the new
+      medium-range missile “Oreshnik” in November 2024. Series production is now underway.
+      Russia’s response should also be seen in close connection with the end of the
+      INF Treaty (1987). The US withdrew from the agreement in 2019 and has since planned
+      to deploy similar missiles in Europe (see above). In November 2024, Russia also
+      changed its nuclear threshold. According to the new doctrine, nuclear options
+      could be considered in the event of a critical attack on Russia’s territory or
+      sovereignty – even by states without their own nuclear weapons. On August 5, 2025,
+      Russia declared that it would no longer observe a self-imposed moratorium on the
+      deployment of medium-range weapons, including nuclear-capable variants. Kremlin
+      spokesman Dmitry Peskov justified the new line as a necessary response to the
+      West’s “destabilizing missile potential.” Putin also announced the serial production
+      of the “Oreshnik” hypersonic missile in Belarus, which he described as virtually
+      impossible to intercept. The situation is similar to that of August 1914 Against
+      this backdrop, Ritter refers to Barbara Tuchmann’s book: It describes the events
+      and political decisions that led to the outbreak of World War I in August 1914.
+      People thought, “Well, there’s mobilization, but there won’t be a war—there can’t
+      be—nobody wants a war.” And then suddenly it was there and destroyed the whole
+      of Europe. Ritter believes that we are now in a similar situation. „Right now,
+      there are moves being made that if they’re not stopped and reversed are going
+      to lead to a general nuclear exchange between the United States and Russia. This
+      is the direction we’re heading. And I want to remind your audience that the CIA
+      said last year there’s a greater than 50% chance that there will be a nuclear
+      war between the United States and Russia during the last months of the Biden administration.
+      What the Biden administration was doing, as provocative as it was, pales in comparison
+      to what this administration is doing. We’re above 50% right now, Judge. We’re
+      heading into extraordinarily dangerous territory.“ Scott Ritter in conversation
+      with Judge Napolitano on August 1, 2025 Level-headed voices from the American
+      establishment John Bolton, known as an ultra-hardliner In an interview with CNN
+      on the program “The Source” with host Kaitlan Collins, former National Security
+      Advisor John Bolton expressed strong criticism of President Trump’s order to position
+      two nuclear-capable Ohio-class submarines near Russia. Former National Security
+      Advisor John Bolton appears on CNN’s Kaitlan Collins, August 3, 2025 – LIVE |
+      Trump’s former NSA chief John Bolton criticizes the president’s decision to send
+      nuclear submarines near Russia. When asked by Kaitlan Collins whether he believed
+      that President Trump’s actions in this case were justified, Bolton replied as
+      follows: „No, I don’t. I think it’s very risky business for a lot of reasons.
+      Most significantly, it seems to reveal that Trump doesn’t really understand how
+      our nuclear Navy works and and what their plan of operation is. (…) What Trump
+      may not be understanding here and which the Kremlin could be misreading is how
+      the ballistic missile, nuclear submarines that we have operate and how they function
+      and serve basically as our second strike capability in the event of a nuclear
+      war. The Ohio class submarines, the ones that carry the ballistic missiles, don’t
+      sit around in port. They’re out in a complex obviously highly classified schedule
+      to on what are called extended deterrence patrols. That is to say, there are a
+      sufficient number of them in position right now to retaliate against a Russian
+      nuclear attack. That’s why they’re put out there. So they don’t have to go anywhere.
+      They’re already there and are hopefully undetectable so that a Russian or later
+      a Chinese first strike can’t take them out at the beginning. So to say he’s going
+      to move those kinds of submarines anywhere indicates he doesn’t know how they
+      work right now.“ John Bolton And when asked whether anyone from his national security
+      team is discussing this with Trump, Bolton replies: „I have no idea. I certainly
+      know from my own experience that you could find a tweet coming out any hour of
+      the day or night on some national security issue that came directly from Trump.
+      So, it’s possible that’s what happened here. I hope somebody from the Pentagon
+      who understands the disposition of the nuclear force explains this to Trump at
+      some stage.“ John Bolton No comment from the Pentagon The official statement from
+      the Pentagon was : „The U.S. Navy and the Pentagon declined to comment about Trump’s
+      remarks … and referred all questions from reporters to the White House.“ Pentagon
+      Details about possible submarine deployments have not been confirmed. Such reticence
+      is standard practice in sensitive military operations such as the deployment of
+      nuclear submarines, whose locations and deployment plans are usually kept secret.
+      According to Reuters , “security experts” described Trump’s move as a rhetorical
+      escalation toward Moscow, but not necessarily a military escalation, as the United
+      States already has nuclear-powered submarines that are operational and capable
+      of attacking Russia. The Russian response Russia said on Monday, August 4, 2025,
+      that everyone should be “very, very careful” with nuclear rhetoric. In its first
+      public response to Trump’s remarks, the Kremlin downplayed their significance
+      and said it did not want to engage in a public dispute with Trump on this issue.
+      During a press conference, Kremlin spokesman Dmitry Peskov explicitly said that
+      nothing had changed in the military situation: “American nuclear submarines are
+      conducting combat patrols without any need for explanations from politicians.”
+      Dmitry Peskov Conclusion There is speculation as to whether Trump is engaging
+      in this sabre-rattling because the Deep State and his sponsors are making life
+      difficult for him with the Epstein affair and he needs to show that he is still
+      in control. Whatever the case, the question posed at the outset remains: Are we
+      really heading toward a nuclear escalation that will end in the destruction of
+      the world, or is this just a storm in a teacup? Based on the above analysis, the
+      answer is neither – nor. We have been able to show that a nuclear escalation on
+      the part of the West is observable. However, it must be denied that this will
+      necessarily lead to nuclear war. Fortunately, even among the warmongers, there
+      are still people who have not forgotten that nuclear war means the end of the
+      world. Actually putting this into action (the Samson Option) is reserved for doomsday
+      apologists, who currently do not hold the levers of power. It seems that the concept
+      of MAD – Mutual Assured Destruction – still works: no player can “win,” so no
+      one attacks. On the other hand, however, we must not overlook the signs of a spiral
+      of escalation similar to that which preceded previous World Wars. It is the task
+      of diplomacy (which, unfortunately, is currently unreliable) and, above all, of
+      the people of all countries, at all levels, to work to break this spiral and strive
+      for peace. Let’s go! Back to the days of 1983! Where is the peace movement? At
+      that time, many people knew that Europe would become a nuclear battlefield if
+      these missiles were deployed. On October 10, 1983, over 300,000 people demonstrated
+      in the then federal capital. A human chain stretching around 108 km formed between
+      Stuttgart and Neu-Ulm. These protests were nonviolent but very impressive due
+      to their sheer size. Large demonstration on October 22, 1983, in Bonn’s Hofgarten
+      park On October 22, 1983, large demonstrations took place in several cities. In
+      Bonn there were around 500,000 people this time. Similar events took place in
+      Hamburg, Stuttgart, Mutlangen (one of the deployment sites), and many other German
+      cities. Despite a ban, soldiers of the German Armed Forces in uniform take part
+      in a large rally in Bonn’s Hofgarten on October 22, 1983, demonstrating against
+      NATO rearmament with a banner and a Pershing II mock-up. One month later, the
+      Bundestag approved the stationing of US medium-range missiles in Germany by a
+      narrow majority. (© picture-alliance/dpa) Where are they all now? And what about
+      politicians like Willy Wimmers? Willy Wimmer, former CDU member of the Bundestag
+      and long-time state secretary in the Ministry of Defense, recommended at the time
+      that Chancellor Helmut Kohl should withdraw Germany from NATO exercises involving
+      nuclear weapons. This recommendation was made in connection with NATO’s so-called
+      nuclear sharing exercises: “Able Archer,” a command and communications exercise
+      for conducting a nuclear war in Europe—held annually in the 1970s and 1980s, with
+      Able Archer 83 in November 1983 being particularly notorious; “Steadfast Noon,”
+      a practical air force exercise as part of nuclear sharing, held annually, even
+      today. Among other things, they practiced how US nuclear bombs (such as the B61
+      bombs stored in Büchel) could be delivered to their targets (e.g., Dresden, which
+      was taken by the Soviets after the war game – inhabited by Germans) by German
+      aircraft. This is happening again today, and our politicians are ducking away
+      and burying their heads in the sand. Peter Hanseler is a geopolitical analyst
+      who reports from Moscow. Peter was born in Zurich, Switzerland. He holds a J.D.
+      (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School and Master
+      in International Commercial Law (LL.M.) from Georgetown University Law School,
+      Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand and Russia.
+      Peter is independent, his work is not supported by government or private entities.
+      Peter’s website Forumgeopolitica.com publishes its content in English, Russian,
+      German and French. Dr. Andreas Mylaeus, born 1950, earned a high school certificate
+      in North Carolina (1968/69) and Abitur (1970). He studied law in Freiburg, Cologne,
+      and Munich (1971–1976), passing both State Law Examinations with honors (1975,
+      1980). He studied psychology at the University of Zurich (1979–1984), graduating
+      as a clinical psychologist, and trained at the Zurich School of Psychology. He
+      taught at vocational schools in Zurich (1984–1995) and earned a federal teaching
+      diploma (1993). Since 2015, he has been a freelance analyst and speaker. Fluent
+      in German, Swiss German, and English. He is one of the main contributors of Forumgeopolitica.com
+      .'
+    one_sentence_summary: The article discusses the West's military failures in Europe
+      and the Middle East, highlighting Russia and Iran's growing dominance in conventional
+      warfare and questioning the potential for nuclear conflict and the role of the
+      peace movement.
+    paragraph_summary: The article discusses the current military conflicts involving
+      the West in Europe, the Middle East, and the Far East, highlighting a perceived
+      loss of military dominance as Russia and Iran successfully counter Western aggression.
+      The authors, Andreas Mylaeus and Peter Hanseler, argue that the West's attempts
+      at regime change in these countries are failing, leading to a situation where
+      conventional warfare is ineffective, and the West may resort to nuclear weapons
+      as a last resort. They reference recent comments by Dmitry Medvedev regarding
+      Russia's defensive capabilities against a potential U.S. nuclear strike, and the
+      escalating tensions with Donald Trump’s nuclear posturing. Ultimately, the authors
+      question whether this situation is leading towards nuclear war or if it is merely
+      a temporary crisis, suggesting that the implications of these conflicts are profound
+      and warrant serious consideration.
+    published: '2025-08-08T05:50:32+00:00'
+  - title: Donald Trump’s nuclear war threat – only a storm in a teacup?
+    url: https://sonar21.com/donald-trumps-nuclear-war-threat-only-a-storm-in-a-teacup/
+    text: 'The wars waged by the West in Europe and the Middle East and Far East are
+      aimed, among other things, at bringing about a change of power in the respective
+      countries through a military decapitation strike. Are we facing a nuclear war?
+      And where is the peace movement? By Andreas Mylaeus and Peter Hanseler Picture:
+      Andreas Mylaeus – bing.com Introduction The West is losing its military wars in
+      Europe and in the Middle East. Russia is now crushing the third “Ukrainian” army
+      equipped by NATO and financed by the West. Iran’s counterstrike against USraeli
+      aggression recently destroyed Israel to such an extent that further open acts
+      of war by the West against Iran had to be suspended for the time being. Western
+      air defenses had and still have no effective means against the superior Russian
+      and Iranian missiles and drones. As a result, the West no longer has any means
+      of escalation dominance in conventional warfare. This now lies entirely with Russia
+      and Iran. However, since the West has not abandoned its war aims of regime change
+      in Russia (in order to subsequently fillet and gut the country) and in Iran (in
+      order to regain control of the Middle East), the countries concerned must continue
+      to prepare themselves for corresponding decapitation strikes. As a military means,
+      the West ultimately has no choice but to resort to nuclear weapons, because its
+      conventional weapons are failing. Against this backdrop, Dmitry Medvedev (President
+      of the Russian Federation from 2008 to 2012, 2012–2020 Prime Minister of Russia,
+      since 2020 Deputy Chairman of the Security Council) pointed out in a post on July
+      31, 2025, in response to provocations by Donald Trump, that Russia still has defensive
+      means against an American first strike with nuclear weapons. Donald Trump responded
+      with a nuclear escalation in the submarine war. So are we really heading for a
+      nuclear escalation that will end in the destruction of the world, or is this just
+      a storm in a teacup? In our view: neither – nor. An analysis. Social media squabbling
+      with a serious background Medvedev and Trump; Sputnik/Alexei Maishev and REUTERS/Evelyn
+      Hockstein In the hybrid war against Russia and those whom Donald Trump considers
+      to be Russia’s supporters, he announced on Truth Social on July 30, 2025, a 25%
+      import tax on goods from India starting August 1, citing India’s energy and arms
+      purchases from Russia as one of the reasons. At the same time, he threatened secondary
+      tariffs of up to 100% if India or other countries continued to import Russian
+      oil, unless Russia agreed to a ceasefire by around August 8. Dmitry Medvedev described
+      Trump’s ultimatums not only as threats, but specifically as blackmail, and warned
+      urgently of a possible escalation of the conflict. In a post on X (formerly Twitter),
+      he wrote: “The language of ultimatums, blackmail, and threats is unacceptable
+      to us.” Medvedev on X “Every new ultimatum is a threat and a step toward war.
+      Not with Russia or Ukraine, but with his own country.” Medvedev on X Trump’s response
+      came promptly on Truth Social (July 30/31, 2025): „I don’t care what India does
+      with Russia. They can take their dead economies down together, for all I care.
+      We have done very little business with India, their Tariffs are too high, among
+      the highest in the World. Likewise, Russia and the USA do almost no business together.
+      Let’s keep it that way, and tell Medvedev, the failed former President of Russia,
+      who thinks he’s still President, to watch his words. He’s entering very dangerous
+      territory!“ Trump on Truth Social Medvedev responded via Telegram on July 31,
+      2025 ( commented with a laughing emoji): „If a few words from the former president
+      of Russia provoke such a nervous reaction from the mighty US president, then Russia
+      must be completely in the right (…) And as for the ‘dead economies’ of India and
+      Russia and ‘entering dangerous territory’ – perhaps he should revisit his favourite
+      zombie movies and recall just how dangerous the mythical ‘Dead Hand’ can be.“
+      Dmitry Medvedev via Telegram This was followed by this statement from Donald Trump:
+      „Based on the highly provocative statements of the Former President of Russia,
+      Dmitry Medvedev, who is now the Deputy Chairman of the Security Council of the
+      Russian Federation, I have ordered two Nuclear Submarines to be positioned in
+      the appropriate regions , just in case these foolish and inflammatory statements
+      are more than just that. Words are very important, and can often lead to unintended
+      consequences, I hope this will not be one of those instances.“ Trump on Truth
+      Social Medvedev’s warning The mythical “dead hand” The Dead Hand (Russian: Мёртвая
+      рука, officially Система «Периметр») is a nuclear weapons command system of the
+      former Soviet Union and now Russia, which has existed since the 1980s. It is an
+      automated control system designed to automatically or semi-automatically launch
+      an all-out counterattack in the event of a nuclear decapitation strike that renders
+      the country’s leadership incapable of acting (a mythical “dead hand” can still
+      strike back). In the event of a nuclear attack, checks are carried out to determine
+      whether there have been massive seismic or nuclear detonations, whether communications
+      links to the leadership have been interrupted, and whether certain military conditions
+      have been met. If, after activation, all criteria are met and no human counterattack
+      order is given, Perimetr launches one or more special command missiles. These
+      fly over Russian territory and send launch commands to all remaining strategic
+      nuclear weapons – land-, sea- or air-based. It is therefore a kind of “last automatic
+      strike,” even in the event of complete loss of leadership. In other words, Medvedev
+      is reminding the US that it will not get away with a nuclear attack on Russia,
+      but that this would also mean its own complete destruction – a clear warning against
+      a US first strike and not an active Russian threat with nuclear weapons, as propagated
+      in the Western media. Do the Russians have any reason to make such a threat to
+      the West? The answer can be found in the American Nuclear Weapons Employment Planning
+      Guidance. This is a classified directive approved by the US president—most recently
+      by Joe Biden in spring 2024—that sets out how the Department of Defense develops
+      doctrines and options for the possible use of nuclear weapons. Joe Biden and his
+      ice cream cone Nuclear Weapons Employment Planning Guidance Scott Ritter, a former
+      US intelligence officer and former UNSCOM inspector, has repeatedly and increasingly
+      pointed out in recent years that there is a mindset within the US defense and
+      planning bureaucracies that is working toward a potentially “winnable” nuclear
+      conflict. In this context, Ritter recalls, among other things, statements made
+      by Rear Admiral Thomas R. “T.R.” Buchanan. Rear Admiral Thomas Buchanan , Director
+      of Planning and Policy at J5 (Strategy, Planning, and Policy) of the US Strategic
+      Command (USSTRATCOM), the unified command responsible for deterring strategic
+      attacks (i.e., nuclear wars). Buchanan has been the head of the Plans & Policy
+      Directorate (J5) at the United States Strategic Command (USSTRATCOM) since June
+      2024, where he is heavily involved in planning and defining US nuclear strategy.
+      This directorate is responsible for developing and maintaining the national nuclear
+      strategy, in particular for preparing and updating the nuclear deployment plans
+      available to the president in the event of an escalation, developing planning
+      options in accordance with the guidelines of the president, the secretary of defense,
+      and the chief of the Joint Staff, and continuously analyzing and evaluating military
+      scenarios and incorporating them into strategic planning. Scott Ritter reports
+      as follows: On November 20, 2024, Admiral Buchanan was the keynote speaker at
+      the Center for Strategic and International Studies conference on nuclear issues
+      in Washington, DC, where he drew on his experience as the person responsible for
+      implementing the President’s directives in the preparation and execution of the
+      United States’ nuclear war plans. When asked about the concept of “winning” a
+      nuclear war, Buchanan replied: “It’s certainly complex because we take many different
+      approaches to discussing what the situation in the United States would look like
+      after a nuclear exchange. And that’s a scenario we want to avoid, isn’t it? So
+      when we talk about non-nuclear and nuclear capabilities, we certainly don’t want
+      an exchange, do we?” Rear Admiral Thomas R. “T.R.” Buchanan Right. It would have
+      been best if he had just stopped there. But Admiral Buchanan continued. “I think
+      everyone would agree that if we have to have an exchange , we want to do so on
+      terms that are most acceptable to the United States . So, terms that are most
+      acceptable to the United States, that allow us to continue to play a leadership
+      role in the world, right? So we are widely regarded as a world leader. And are
+      we a world leader in an area where we have accepted losses? The answer is no,
+      right? So it would go to a point where we would have to maintain sufficient capacity—we
+      would have to have sufficient capacity. We would have to have reserve capacity.
+      You wouldn’t spend all your resources to win, would you? Because then you would
+      have nothing left to deter them with at that point.“ Rear Admiral Thomas R. ”T.R.”
+      Buchanan According to Ritter, two things can be inferred from this statement.
+      First, the idea that the United States believes it can engage in a nuclear “exchange”
+      with Russia and win. Second, the idea that the United States can not only win
+      a nuclear war with Russia, but also retain enough strategic nuclear capabilities
+      to prevent the rest of the world from entering into another nuclear war after
+      the nuclear war with Russia. “Winning” a nuclear war with Russia means that the
+      United States has a plan not only to win the war, but also a plan that allows
+      the United States to retain enough nuclear weapons in its arsenal to remain a
+      “world power” after a nuclear war by maintaining its doctrine of nuclear deterrence.
+      There is only one scenario in which the US could attempt to achieve this (in reality
+      completely impossible) goal. This scenario involves a preventive nuclear strike
+      against Russia’s strategic nuclear forces, aimed at destroying the majority of
+      Russia’s nuclear weapons. Such an attack can only be carried out with Trident
+      missiles stationed on board the US Navy’s Ohio-class submarines . US experts such
+      as the Arms Control Association insist that the primary purpose remains deterrence,
+      not active warfare. Its use would be limited to “extreme cases” (such as if NATO
+      loses against Russia?). And Russia is supposed to rely on that? This would be
+      completely naive for the following reasons. Firstly, retired Lieutenant General
+      Keith Kellogg, who served as national security adviser to Vice President Mike
+      Pence during Trump’s presidency and is now Donald Trump’s special envoy in Kiev,
+      has suggested that the US should deploy all its ballistic missile submarines (!)
+      to see if Putin is “bluffing.” Second, the bloody history of regime change tactics
+      involving murder and manslaughter by the US around the world, as outlined below,
+      must be taken into account. Regime change with deadly consequences The list of
+      Western regime change actions that ended with the death of a sitting or deposed
+      head of government is a historically documented topic. Here is a list (not exhaustive)
+      of such cases since the 20th century, in each of which Western influence (primarily
+      through the US, the UK, or their allies) was decisive: Patrice Lumumba (Congo,
+      1961), former Prime Minister of Congo, was assassinated. The background to this
+      was that after Congo gained independence from Belgium, Lumumba became a target
+      of Western intelligence agencies because of his pro-independence policies and
+      alleged ties to the Soviet Union. The CIA and the Belgian secret service supported
+      his political opponent Mobutu. Lumumba was eventually captured, tortured, and
+      murdered. Ngo Dinh Diem (South Vietnam, 1963), former president of South Vietnam,
+      was assassinated after a military coup against him. The background to this was
+      that Diem had lost the support of the US due to his unpopular rule and repressive
+      policies. The CIA tacitly supported the military coup in which he was killed.
+      Salvador Allende (Chile, 1973), former president of Chile, allegedly committed
+      suicide during the coup against him. Allende was a democratically elected socialist.
+      The US (under Nixon/Kissinger) actively supported the destabilization of his government.
+      During the military coup led by Pinochet (with CIA support), Allende allegedly
+      took his own life during the storming of the presidential palace. Saddam Hussein
+      (Iraq, 2006), former president of Iraq. He was “legally” executed after being
+      captured by US troops. The US-led invasion in 2003 overthrew Saddam under the
+      false pretext of weapons of mass destruction. He was later sentenced to death
+      by an Iraqi court and hanged under US supervision. Muammar al-Gaddafi (Libya,
+      2011), former revolutionary leader and head of state. He was captured and murdered
+      after a Western air war. During the Arab Spring, Western states (NATO, especially
+      France, Britain, and the US) supported the rebellion against Gaddafi. After NATO
+      air strikes on his convoy, Gaddafi was captured, abused, and killed. Additional
+      cases (without fatalities, but failed or attempted regime change): Iran 1953 (overthrow
+      of Prime Minister Mossadegh by the CIA/MI6 – he survived but remained under house
+      arrest); Venezuela (several coup attempts against Hugo Chávez and Nicolás Maduro);
+      Ukraine (after the Ukrainian government under President Viktor Yanukovych did
+      not sign the association agreement with the EU at short notice and instead wanted
+      to deepen relations with Russia, Yanukovych had to flee to Russia to escape assassination);
+      Syria (regime change against Assad, who was able to flee to Russia in time); Decapitation
+      strike against Hezbollah and the failed decapitation strike against the Iranian
+      government. These bloody events from the past 60 years show that there is no reason
+      to believe that the US will abandon these methods. Russia is well aware of these
+      events and world history and will act accordingly. Donald Trump’s threat with
+      nuclear submarines Against this backdrop, Donald Trump’s aforementioned announcement
+      on August 1, 2025, to position two nuclear submarines “in the appropriate regions,”
+      i.e., in the direction of Russian waters, takes on a serious character. However,
+      the facts must also be gathered here. Ohio submarines of the US Navy In the center,
+      the Michigan during construction on December 8, 1979, with the Ohio to the right.
+      Halfway into the hall: Florida.US Navy photo courtesy of globalsecurity.org web
+      site. http://www.navsource.org/archives/08/0872618.jpg The US Navy’s Ohio-class
+      submarines (which will be replaced by the Columbia class in the future) are nuclear-powered
+      and can operate submerged for months at a time, making them extremely difficult
+      to detect. Their most important strength is their invisibility. Their main mission
+      is to remain undetected, which is why they avoid coastal areas and shallow waters.
+      They usually operate at great depths (>200 m) with a low sonar profile to avoid
+      detection. The strategic version of the Ohio class (Ship, Submersible, Ballistic,
+      Nuclear – SSBN) carries up to 24 Trident II D5 intercontinental submarine-launched
+      ballistic missiles (SLBMs) with multiple nuclear warheads (MIRVs). These missiles
+      have ranges of over 11,000 km and can hit multiple targets simultaneously. They
+      are equipped with solid fuel, so they do not need to be refuelled before launch
+      and are always ready for immediate use. Trident II being launched from a submerged
+      submarine; Source The principle of “mutual assured destruction” (MAD) is central
+      to the nuclear strategy of the US (and other nuclear powers). A potential enemy
+      must know that a nuclear attack will not go unanswered without devastating retaliation.
+      Ohio-class submarines are the most reliable means of ensuring this, as they are
+      highly likely to survive even a surprise attack and strike back. This is why they
+      are also referred to as classic second-strike weapons. The mission zones of American
+      strategic submarines (especially the Ohio-class SSBNs) are secret, but publicly
+      available sources provide a fairly good picture of where these boats typically
+      patrol. These zones are called “Strategic Deterrent Patrol Areas.” They are: the
+      North Atlantic between North America, Iceland, and Norway; partly south of Greenland
+      due to its proximity to Russia (North Sea) and Europe; west of Norway, north of
+      Scotland (observation of northern Russian fleet movements); Arctic Ocean, occasionally
+      under ice (costly, but provides maximum concealment, proximity to northern Russia);
+      Caribbean & Western Atlantic (close to the east coast of the US, sometimes as
+      far as Bermuda, safe retreat, ideal for undetected launches); Western Pacific,
+      Philippine Sea, near the Mariana Trench, between Guam, Japan, Taiwan (close to
+      China, North Korea, and Russia); South China Sea; Bering Sea/Aleutian Islands,
+      North Pacific, west of Alaska (observation of Russian Pacific Fleet). First strike
+      or second strike weapon – a bogus debate Our sleepy-headed media and some otherwise
+      serious analysts are trying to appease the world with the argument that these
+      nuclear submarines are purely second-strike weapons and that Russia (and the rest
+      of the world, which is concerned about a nuclear war) need not worry because these
+      weapons would only be used for defense and deterrence after Russia had launched
+      a nuclear attack first. This fairy tale is simply dismissed by authoritative voices.
+      John Bolton with Trump during his first term in office John Bolton , former National
+      Security Advisor in the first Trump administration, said the following in an interview
+      (at minute 37:00) on CNN on August 3, 2025: „And as I said, while the ballistic
+      missile submarines are core to our second strike capability, they are also perfectly
+      capable of being part of a first strike on Russia . So you could see people in
+      the Kremlin obviously always nervous about our capabilities, believe that Trump
+      is trying to insinuate that he may be considering a first strike , which is even
+      more dangerous.“ John Bolton Even without extensive military training, it is easy
+      to understand that such equipment can be reprogrammed without any problems. Propaganda
+      noise or a serious threat from Trump? In a conversation with Judge Napolitano
+      on August 1, 2025, Scott Ritter explained the dangers to world peace that Trump’s
+      announcement could pose. [ SPECIAL ] – Scott Ritter: Trump deploys Nuclear Subs
+      to Russia over Social Media Rift Ritter explains: Of the 14 Ohio-class submarines
+      that are likely to exist, between six and nine are operational. The others are
+      being maintained and equipped in port or are en route to their destination. At
+      least two are permanently stationed in the Atlantic and two in the Pacific, where
+      their missiles can attack any potential threat to the US. Additional submarines
+      can be deployed on certain occasions. This was recently the case, for example,
+      when an additional Ohio-class submarine was ordered to the Indian Ocean, whose
+      Trident missiles with their W76-2 warheads with low explosive power (“low yield”)
+      could have attacked Iran on the orders of the president. It did not happen, but
+      the preparations were made. So if Trump now orders two additional ships closer
+      to Russian waters, this poses a serious additional threat to Russia because the
+      distance to the target and thus the warning time for countermeasures is reduced.
+      In addition, the ballistic missiles will fly toward their targets on a much flatter
+      trajectory, causing additional problems for radar detection. Further escalation
+      by the US on European soil General Christopher Donahue on Kaliningrad Larry Johnson
+      reports that General Christopher Donahue stated in mid-July 2025 during the Association
+      of the US Army conference in Germany that NATO and US-allied forces are now capable
+      of “neutralizing” or “taking out” the Russian exclave of Kaliningrad from the
+      ground in an unprecedented and much faster timeframe than previously possible.
+      He described Kaliningrad as approximately 47 miles wide and surrounded on all
+      sides by NATO countries, making it vulnerable to ground operations. This statement
+      was made in connection with NATO’s “Eastern Flank Deterrence” plan, which aims
+      to strengthen military capabilities and readiness in the Baltic Sea region. Donahue’s
+      remarks sparked strong reactions from politicians and citizens in Russia. Leonid
+      Slutsky, chairman of the Russian State Duma’s Committee on International Affairs,
+      warned that an attack on Kaliningrad would be considered an attack on Russia itself
+      and would trigger all necessary retaliatory measures in accordance with Russia’s
+      nuclear doctrine. The Russian side considers Kaliningrad to be strategically important
+      and any NATO attack on it to be a significant escalation that could potentially
+      provoke a nuclear response. Words are one thing, but actions speak louder than
+      words, and Trump has approved a measure that leaves the Russians no choice but
+      to conclude that the United States is preparing an attack on Russia … He has ordered
+      the deployment of nuclear weapons to Europe. Deployment of nuclear weapons to
+      Europe In the 1990s, the US closed or consolidated many bases. Weapons were withdrawn
+      from some national bases and concentrated at fewer main air bases instead of being
+      returned to the US. For example, bombs were moved from smaller bases in Germany,
+      Italy, and Turkey to Ramstein, Ghedi Torre, and Incirlik. In the early 2000s,
+      all US nuclear weapons were withdrawn from Greece, and around 2007, the last bombs
+      were removed from the British air base RAF Lakenheath, ending more than 50 years
+      of US nuclear weapons presence in the UK. Now, in a significant U-turn, the US
+      has stationed B61-12 free-fall bombs in Europe . Deployment locations for B61-12
+      free-fall bombs in 2025: • RAF Lakenheath (United Kingdom): The B61-12 returned
+      to the UK for the first time since 2008, with delivery to RAF Lakenheath confirmed
+      for July 2025. • Kleine Brogel Air Base (Belgium) • Büchel Air Base (Germany)
+      • Aviano and Ghedi Air Bases (Italy) • Volkel Air Base (Netherlands) • Incirlik
+      Air Base (Turkey) This is once again being stored in Europe: 50 B61 nuclear bombs,
+      here in an “igloo” at Nellis Air Force Base in Nevada. US nuclear weapons are
+      believed to be stored at 24 sites in 11 US states and five European countries.
+      The number of sites will increase over the next ten years as three bomber bases
+      are expanded to include nuclear weapons storage facilities. ( Federation of American
+      Scientists ) These bombs are now distributed among these six main bases in five
+      NATO countries , with a total of approximately 100 to 150 US B61-12 bombs forward-deployed.
+      The deployment at RAF Lakenheath in the United Kingdom is a significant strategic
+      signal, as it marks the first return of US tactical nuclear weapons to British
+      soil in over 15 years. Attacks on radar stations During the night of May 22-23,
+      2025, the strategic Voronezh-DM/M radar stations in Armavir (Krasnodar Krai, southern
+      Russia) were damaged. These images show damage to the building structures housing
+      this radar installation. On May 26, 2025, another attack took place near Orsk
+      on the Kazakh border, approximately 1,800 km deep inside Russian territory. There
+      are indications of damage to the radar station. These radar systems serve as part
+      of Russia’s nuclear early warning system and are therefore part of the nuclear
+      triad – specifically as part of reconnaissance. Attacks on Russian nuclear bombers
+      In an operation codenamed “Spider Web,” Western intelligence forces carried out
+      a drone attack on at least four Russian air bases in Siberia (including Irkutsk,
+      Murmansk, Ryazan, and Ivanovo) on June 1, 2025. The targets were strategic bombers
+      (Tu-95, Tu-22M3) and A-50 early warning aircraft – all part of the nuclear-capable
+      air force. Intermediate-range ballistic missiles (IRBMs) and other long-range
+      weapons in Europe The Trump administration has also announced plans to deploy
+      intermediate-range ballistic missiles (IRBMs) and other long-range weapons in
+      Europe starting in 2026, with Germany being the first “host nation” for these
+      systems. This deployment includes, in particular, advanced missile systems such
+      as Typhoon and Dark Eagle, which have been mentioned in recent official communications
+      and news reports. The Typhoon missile system (medium-range capability) is a mobile,
+      ground-based system capable of firing multiple types of missiles (it is not a
+      missile itself, but a multi-missile platform). It can fire the Tomahawk land attack
+      missile with a range of 1,500–2,500 km or the SM-6 with a range of 320 km. The
+      Dark Eagle is a long-range hypersonic weapon, also known as LRHW, with a range
+      of 2,775 km. The Dark Eagle hypersonic missile was successfully tested after several
+      failed attempts between 2021 and 2023. The system completed its first successful
+      end-to-end flight test in June 2024, followed by a second successful test in December
+      2024. A Russian response Russia had already announced the production of the new
+      medium-range missile “Oreshnik” in November 2024. Series production is now underway.
+      Russia’s response should also be seen in close connection with the end of the
+      INF Treaty (1987). The US withdrew from the agreement in 2019 and has since planned
+      to deploy similar missiles in Europe (see above). In November 2024, Russia also
+      changed its nuclear threshold. According to the new doctrine, nuclear options
+      could be considered in the event of a critical attack on Russia’s territory or
+      sovereignty – even by states without their own nuclear weapons. On August 5, 2025,
+      Russia declared that it would no longer observe a self-imposed moratorium on the
+      deployment of medium-range weapons, including nuclear-capable variants. Kremlin
+      spokesman Dmitry Peskov justified the new line as a necessary response to the
+      West’s “destabilizing missile potential.” Putin also announced the serial production
+      of the “Oreshnik” hypersonic missile in Belarus, which he described as virtually
+      impossible to intercept. The situation is similar to that of August 1914 Against
+      this backdrop, Ritter refers to Barbara Tuchmann’s book: It describes the events
+      and political decisions that led to the outbreak of World War I in August 1914.
+      People thought, “Well, there’s mobilization, but there won’t be a war—there can’t
+      be—nobody wants a war.” And then suddenly it was there and destroyed the whole
+      of Europe. Ritter believes that we are now in a similar situation. „Right now,
+      there are moves being made that if they’re not stopped and reversed are going
+      to lead to a general nuclear exchange between the United States and Russia. This
+      is the direction we’re heading. And I want to remind your audience that the CIA
+      said last year there’s a greater than 50% chance that there will be a nuclear
+      war between the United States and Russia during the last months of the Biden administration.
+      What the Biden administration was doing, as provocative as it was, pales in comparison
+      to what this administration is doing. We’re above 50% right now, Judge. We’re
+      heading into extraordinarily dangerous territory.“ Scott Ritter in conversation
+      with Judge Napolitano on August 1, 2025 Level-headed voices from the American
+      establishment John Bolton, known as an ultra-hardliner In an interview with CNN
+      on the program “The Source” with host Kaitlan Collins, former National Security
+      Advisor John Bolton expressed strong criticism of President Trump’s order to position
+      two nuclear-capable Ohio-class submarines near Russia. Former National Security
+      Advisor John Bolton appears on CNN’s Kaitlan Collins, August 3, 2025 – LIVE |
+      Trump’s former NSA chief John Bolton criticizes the president’s decision to send
+      nuclear submarines near Russia. When asked by Kaitlan Collins whether he believed
+      that President Trump’s actions in this case were justified, Bolton replied as
+      follows: „No, I don’t. I think it’s very risky business for a lot of reasons.
+      Most significantly, it seems to reveal that Trump doesn’t really understand how
+      our nuclear Navy works and and what their plan of operation is. (…) What Trump
+      may not be understanding here and which the Kremlin could be misreading is how
+      the ballistic missile, nuclear submarines that we have operate and how they function
+      and serve basically as our second strike capability in the event of a nuclear
+      war. The Ohio class submarines, the ones that carry the ballistic missiles, don’t
+      sit around in port. They’re out in a complex obviously highly classified schedule
+      to on what are called extended deterrence patrols. That is to say, there are a
+      sufficient number of them in position right now to retaliate against a Russian
+      nuclear attack. That’s why they’re put out there. So they don’t have to go anywhere.
+      They’re already there and are hopefully undetectable so that a Russian or later
+      a Chinese first strike can’t take them out at the beginning. So to say he’s going
+      to move those kinds of submarines anywhere indicates he doesn’t know how they
+      work right now.“ John Bolton And when asked whether anyone from his national security
+      team is discussing this with Trump, Bolton replies: „I have no idea. I certainly
+      know from my own experience that you could find a tweet coming out any hour of
+      the day or night on some national security issue that came directly from Trump.
+      So, it’s possible that’s what happened here. I hope somebody from the Pentagon
+      who understands the disposition of the nuclear force explains this to Trump at
+      some stage.“ John Bolton No comment from the Pentagon The official statement from
+      the Pentagon was : „The U.S. Navy and the Pentagon declined to comment about Trump’s
+      remarks … and referred all questions from reporters to the White House.“ Pentagon
+      Details about possible submarine deployments have not been confirmed. Such reticence
+      is standard practice in sensitive military operations such as the deployment of
+      nuclear submarines, whose locations and deployment plans are usually kept secret.
+      According to Reuters , “security experts” described Trump’s move as a rhetorical
+      escalation toward Moscow, but not necessarily a military escalation, as the United
+      States already has nuclear-powered submarines that are operational and capable
+      of attacking Russia. The Russian response Russia said on Monday, August 4, 2025,
+      that everyone should be “very, very careful” with nuclear rhetoric. In its first
+      public response to Trump’s remarks, the Kremlin downplayed their significance
+      and said it did not want to engage in a public dispute with Trump on this issue.
+      During a press conference, Kremlin spokesman Dmitry Peskov explicitly said that
+      nothing had changed in the military situation: “American nuclear submarines are
+      conducting combat patrols without any need for explanations from politicians.”
+      Dmitry Peskov Conclusion There is speculation as to whether Trump is engaging
+      in this sabre-rattling because the Deep State and his sponsors are making life
+      difficult for him with the Epstein affair and he needs to show that he is still
+      in control. Whatever the case, the question posed at the outset remains: Are we
+      really heading toward a nuclear escalation that will end in the destruction of
+      the world, or is this just a storm in a teacup? Based on the above analysis, the
+      answer is neither – nor. We have been able to show that a nuclear escalation on
+      the part of the West is observable. However, it must be denied that this will
+      necessarily lead to nuclear war. Fortunately, even among the warmongers, there
+      are still people who have not forgotten that nuclear war means the end of the
+      world. Actually putting this into action (the Samson Option) is reserved for doomsday
+      apologists, who currently do not hold the levers of power. It seems that the concept
+      of MAD – Mutual Assured Destruction – still works: no player can “win,” so no
+      one attacks. On the other hand, however, we must not overlook the signs of a spiral
+      of escalation similar to that which preceded previous World Wars. It is the task
+      of diplomacy (which, unfortunately, is currently unreliable) and, above all, of
+      the people of all countries, at all levels, to work to break this spiral and strive
+      for peace. Let’s go! Back to the days of 1983! Where is the peace movement? At
+      that time, many people knew that Europe would become a nuclear battlefield if
+      these missiles were deployed. On October 10, 1983, over 300,000 people demonstrated
+      in the then federal capital. A human chain stretching around 108 km formed between
+      Stuttgart and Neu-Ulm. These protests were nonviolent but very impressive due
+      to their sheer size. Large demonstration on October 22, 1983, in Bonn’s Hofgarten
+      park On October 22, 1983, large demonstrations took place in several cities. In
+      Bonn there were around 500,000 people this time. Similar events took place in
+      Hamburg, Stuttgart, Mutlangen (one of the deployment sites), and many other German
+      cities. Despite a ban, soldiers of the German Armed Forces in uniform take part
+      in a large rally in Bonn’s Hofgarten on October 22, 1983, demonstrating against
+      NATO rearmament with a banner and a Pershing II mock-up. One month later, the
+      Bundestag approved the stationing of US medium-range missiles in Germany by a
+      narrow majority. (© picture-alliance/dpa) Where are they all now? And what about
+      politicians like Willy Wimmers? Willy Wimmer, former CDU member of the Bundestag
+      and long-time state secretary in the Ministry of Defense, recommended at the time
+      that Chancellor Helmut Kohl should withdraw Germany from NATO exercises involving
+      nuclear weapons. This recommendation was made in connection with NATO’s so-called
+      nuclear sharing exercises: “Able Archer,” a command and communications exercise
+      for conducting a nuclear war in Europe—held annually in the 1970s and 1980s, with
+      Able Archer 83 in November 1983 being particularly notorious; “Steadfast Noon,”
+      a practical air force exercise as part of nuclear sharing, held annually, even
+      today. Among other things, they practiced how US nuclear bombs (such as the B61
+      bombs stored in Büchel) could be delivered to their targets (e.g., Dresden, which
+      was taken by the Soviets after the war game – inhabited by Germans) by German
+      aircraft. This is happening again today, and our politicians are ducking away
+      and burying their heads in the sand. Peter Hanseler is a geopolitical analyst
+      who reports from Moscow. Peter was born in Zurich, Switzerland. He holds a J.D.
+      (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School and Master
+      in International Commercial Law (LL.M.) from Georgetown University Law School,
+      Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand and Russia.
+      Peter is independent, his work is not supported by government or private entities.
+      Peter’s website Forumgeopolitica.com publishes its content in English, Russian,
+      German and French. Dr. Andreas Mylaeus, born 1950, earned a high school certificate
+      in North Carolina (1968/69) and Abitur (1970). He studied law in Freiburg, Cologne,
+      and Munich (1971–1976), passing both State Law Examinations with honors (1975,
+      1980). He studied psychology at the University of Zurich (1979–1984), graduating
+      as a clinical psychologist, and trained at the Zurich School of Psychology. He
+      taught at vocational schools in Zurich (1984–1995) and earned a federal teaching
+      diploma (1993). Since 2015, he has been a freelance analyst and speaker. Fluent
+      in German, Swiss German, and English. He is one of the main contributors of Forumgeopolitica.com
+      .'
+    one_sentence_summary: The article discusses the West's military failures in Europe
+      and the Middle East, highlighting Russia and Iran's growing dominance in conventional
+      warfare and questioning the potential for nuclear conflict and the role of the
+      peace movement.
+    paragraph_summary: The article discusses the current military conflicts involving
+      the West in Europe, the Middle East, and the Far East, highlighting a perceived
+      loss of military dominance as Russia and Iran successfully counter Western aggression.
+      The authors, Andreas Mylaeus and Peter Hanseler, argue that the West's attempts
+      at regime change in these countries are failing, leading to a situation where
+      conventional warfare is ineffective, and the West may resort to nuclear weapons
+      as a last resort. They reference recent comments by Dmitry Medvedev regarding
+      Russia's defensive capabilities against a potential U.S. nuclear strike, and the
+      escalating tensions with Donald Trump’s nuclear posturing. Ultimately, the authors
+      question whether this situation is leading towards nuclear war or if it is merely
+      a temporary crisis, suggesting that the implications of these conflicts are profound
+      and warrant serious consideration.
+    published: '2025-08-08T05:50:32+00:00'
+  - title: Trump Is Not Serious About Peace in Ukraine
+    url: https://sonar21.com/trump-is-not-serious-about-peace-in-ukraine/
+    text: 'You may ask: “What does Trump’s post on Truth Social have to do with the
+      war in Ukraine?” The Friday ceremony in Washington is not about Trump trying to
+      settle a conflict pitting Christian Armenians against Shia Muslims in Azerbaijan.
+      This is a malevolent charade, in which the leaders of Armenia and Azerbaijan are
+      actively participating. The US has a darker, more dangerous goal. Get control
+      of the South Caucus Region in order to weaken and to ultimately topple the governments
+      of Russia and Iran. This is a power move disguised as a peace initiative. US intervention
+      in the South Caucus is taking place at the same time that Trump is claiming, falsely
+      in my view, a genuine desire to make a deal with Putin. Russia reminds me of Charlie
+      Brown , the cartoon character, who became a meme for being repeatedly tempted
+      by Lucy to kick a football, only to have Lucy yank the football away at the last
+      minute as Charlie Brown flails at empty air and lands on his ass. Vladimir Putin
+      is routinely portrayed in the US media as an evil authoritarian. Boy, do they
+      have that wrong. While Putin is highly intelligent, and has done a masterful job
+      of rebuilding Russia into a great power, I think he has more in common with Charlie
+      Brown when it comes to trying to forge a relationship with the United States.
+      He is too trusting. I have a simple message for my friends in Russia: The United
+      States is not to be trusted. We are worse than Lucy . Our garments are soaked
+      with the blood of millions… in Ukraine, in Gaza and in Iran. Ignore our words.
+      Look at what we do. Yesterday, Trump declared Russia a national security threat…
+      That is bureaucratic speak for enemy . Trump did this while Steve Witkoff was
+      persuading President Putin to meet in person with Donald Trump. Yet, within hours
+      of concluding that deal, the US changed the terms and insisted — at least according
+      to some media reports — that Ukraine’s Zelensky must be part of the talks. Has
+      President Putin forgotten the US treachery of assisting Ukraine in its failed
+      attempt in late May to kill him while he was enroute to Kursk? Has President Putin
+      forgotten Operation Spiderweb , whereby drones hidden in semi-trucks were launched
+      in a surprise attack on Russia’s strategic air assets, just two days before Russia
+      and Ukraine met for negotiations in Istanbul? The US also had a hand in that by
+      virtue of supplying Ukraine with intelligence. While the Russian government continues
+      to present a positive attitude towards the impending meeting, Trump’s team is
+      fueling doubts that the meeting will even take place. According to the Washington
+      Post : President Donald Trump’s abrupt shift from frustration with Russian President
+      Vladimir Putin’s intransigence to a potential one-on-one meeting soon — despite
+      Putin’s refusal to halt attacks on Ukraine or back away from Russia’s core war
+      aims — handed the Russian leader a diplomatic coup, which the Kremlin embraced
+      Thursday. After mixed signals in which the U.S. special envoy, Steve Witkoff,
+      met with Putin for three hours Wednesday in Moscow and the White House then imposed
+      stiff new tariffs on India , citing its support for Russia’s war economy, Trump
+      suddenly announced that he intended to meet with Putin “very soon” and that “there’s
+      a very good chance” of reaching an agreement on the conflict in Ukraine. . . .
+      A White House official, who like others in this story spoke on the condition of
+      anonymity to discuss sensitive diplomacy, said Thursday afternoon that Trump would
+      meet Putin only if Putin also agreed to meet Ukrainian President Volodymyr Zelensky
+      — something the Russian leader said Thursday would be premature at this stage.
+      But the White House later softened its stance rhetoric, emphasizing that Trump
+      wishes to meet both leaders, but that other options remain on the table. Trump
+      and the neocons who surround him believe that Putin is weak and desperate. It
+      is a confabulation. They genuinely believe the lie. The Russian position on how
+      to end this conflict has been repeatedly confirmed since Putin’s speech to the
+      Russian Foreign Ministry in June 2024: Withdrawal of all Ukrainian forces from
+      the four regions Russia claims to have annexed (Donetsk, Luhansk, Kherson, and
+      Zaporizhzhia), including areas not currently controlled by Russia. Formal renunciation
+      by Ukraine of its intention to join NATO. He also restated older demands, like
+      the demilitarization of Ukraine and lifting of sanctions against Russia as part
+      of a final settlement. Putin also said that if Ukraine “really begins withdrawing
+      troops” and officially abandons its NATO aspirations, Russia would “immediately”
+      cease fire and start negotiations. He added that if these conditions were rejected,
+      Russia’s demands in the future would change, implying they could become even stricter.
+      I don’t see a way in which Putin reverses himself and is able to remain in power
+      in Russia. While I welcome President Putin’s desire to achieve a diplomatic settlement
+      to the conflict rather than having to settle the matter on the battlefield, the
+      reality is that the West has no appetite for an agreement that leaves Putin in
+      control of the four former oblasts of Ukraine and Crimea. This is not a war between
+      Russia and Ukraine. It is a war between Russia and NATO, with Ukraine relegated
+      to being a deadly pawn. I discussed some of this on Wednesday with my friend,
+      George Galloway. We also touched on the horror in Gaza:'
+    one_sentence_summary: The article argues that the U.S. is using a peace initiative
+      in the South Caucus, involving Armenia and Azerbaijan, as a strategic maneuver
+      to undermine Russia and Iran, while simultaneously critiquing Trump's claims of
+      wanting to negotiate with Putin as disingenuous.
+    paragraph_summary: The article critiques the U.S. involvement in the South Caucus
+      region, particularly regarding the conflict between Armenia and Azerbaijan, suggesting
+      that it is a strategic move to undermine Russia and Iran rather than a genuine
+      peace initiative. It argues that U.S. actions, including Trump's contradictory
+      statements about wanting to negotiate with Putin while labeling Russia a national
+      security threat, reflect a deeper agenda of power manipulation. The author likens
+      Putin to Charlie Brown, suggesting he is too trusting of U.S. intentions, which
+      are portrayed as deceitful and harmful, drawing attention to the bloodshed caused
+      by U.S. actions in various global conflicts. The piece ultimately warns Russia
+      to be wary of U.S. promises, emphasizing that actions speak louder than words.
+    published: '2025-08-08T02:07:03+00:00'
+  - title: Trump Is Not Serious About Peace in Ukraine
+    url: https://sonar21.com/trump-is-not-serious-about-peace-in-ukraine/
+    text: 'You may ask: “What does Trump’s post on Truth Social have to do with the
+      war in Ukraine?” The Friday ceremony in Washington is not about Trump trying to
+      settle a conflict pitting Christian Armenians against Shia Muslims in Azerbaijan.
+      This is a malevolent charade, in which the leaders of Armenia and Azerbaijan are
+      actively participating. The US has a darker, more dangerous goal. Get control
+      of the South Caucus Region in order to weaken and to ultimately topple the governments
+      of Russia and Iran. This is a power move disguised as a peace initiative. US intervention
+      in the South Caucus is taking place at the same time that Trump is claiming, falsely
+      in my view, a genuine desire to make a deal with Putin. Russia reminds me of Charlie
+      Brown , the cartoon character, who became a meme for being repeatedly tempted
+      by Lucy to kick a football, only to have Lucy yank the football away at the last
+      minute as Charlie Brown flails at empty air and lands on his ass. Vladimir Putin
+      is routinely portrayed in the US media as an evil authoritarian. Boy, do they
+      have that wrong. While Putin is highly intelligent, and has done a masterful job
+      of rebuilding Russia into a great power, I think he has more in common with Charlie
+      Brown when it comes to trying to forge a relationship with the United States.
+      He is too trusting. I have a simple message for my friends in Russia: The United
+      States is not to be trusted. We are worse than Lucy . Our garments are soaked
+      with the blood of millions… in Ukraine, in Gaza and in Iran. Ignore our words.
+      Look at what we do. Yesterday, Trump declared Russia a national security threat…
+      That is bureaucratic speak for enemy . Trump did this while Steve Witkoff was
+      persuading President Putin to meet in person with Donald Trump. Yet, within hours
+      of concluding that deal, the US changed the terms and insisted — at least according
+      to some media reports — that Ukraine’s Zelensky must be part of the talks. Has
+      President Putin forgotten the US treachery of assisting Ukraine in its failed
+      attempt in late May to kill him while he was enroute to Kursk? Has President Putin
+      forgotten Operation Spiderweb , whereby drones hidden in semi-trucks were launched
+      in a surprise attack on Russia’s strategic air assets, just two days before Russia
+      and Ukraine met for negotiations in Istanbul? The US also had a hand in that by
+      virtue of supplying Ukraine with intelligence. While the Russian government continues
+      to present a positive attitude towards the impending meeting, Trump’s team is
+      fueling doubts that the meeting will even take place. According to the Washington
+      Post : President Donald Trump’s abrupt shift from frustration with Russian President
+      Vladimir Putin’s intransigence to a potential one-on-one meeting soon — despite
+      Putin’s refusal to halt attacks on Ukraine or back away from Russia’s core war
+      aims — handed the Russian leader a diplomatic coup, which the Kremlin embraced
+      Thursday. After mixed signals in which the U.S. special envoy, Steve Witkoff,
+      met with Putin for three hours Wednesday in Moscow and the White House then imposed
+      stiff new tariffs on India , citing its support for Russia’s war economy, Trump
+      suddenly announced that he intended to meet with Putin “very soon” and that “there’s
+      a very good chance” of reaching an agreement on the conflict in Ukraine. . . .
+      A White House official, who like others in this story spoke on the condition of
+      anonymity to discuss sensitive diplomacy, said Thursday afternoon that Trump would
+      meet Putin only if Putin also agreed to meet Ukrainian President Volodymyr Zelensky
+      — something the Russian leader said Thursday would be premature at this stage.
+      But the White House later softened its stance rhetoric, emphasizing that Trump
+      wishes to meet both leaders, but that other options remain on the table. Trump
+      and the neocons who surround him believe that Putin is weak and desperate. It
+      is a confabulation. They genuinely believe the lie. The Russian position on how
+      to end this conflict has been repeatedly confirmed since Putin’s speech to the
+      Russian Foreign Ministry in June 2024: Withdrawal of all Ukrainian forces from
+      the four regions Russia claims to have annexed (Donetsk, Luhansk, Kherson, and
+      Zaporizhzhia), including areas not currently controlled by Russia. Formal renunciation
+      by Ukraine of its intention to join NATO. He also restated older demands, like
+      the demilitarization of Ukraine and lifting of sanctions against Russia as part
+      of a final settlement. Putin also said that if Ukraine “really begins withdrawing
+      troops” and officially abandons its NATO aspirations, Russia would “immediately”
+      cease fire and start negotiations. He added that if these conditions were rejected,
+      Russia’s demands in the future would change, implying they could become even stricter.
+      I don’t see a way in which Putin reverses himself and is able to remain in power
+      in Russia. While I welcome President Putin’s desire to achieve a diplomatic settlement
+      to the conflict rather than having to settle the matter on the battlefield, the
+      reality is that the West has no appetite for an agreement that leaves Putin in
+      control of the four former oblasts of Ukraine and Crimea. This is not a war between
+      Russia and Ukraine. It is a war between Russia and NATO, with Ukraine relegated
+      to being a deadly pawn. I discussed some of this on Wednesday with my friend,
+      George Galloway. We also touched on the horror in Gaza:'
+    one_sentence_summary: The article argues that the U.S. is using a peace initiative
+      in the South Caucus, involving Armenia and Azerbaijan, as a strategic maneuver
+      to undermine Russia and Iran, while simultaneously critiquing Trump's claims of
+      wanting to negotiate with Putin as disingenuous.
+    paragraph_summary: The article critiques the U.S. involvement in the South Caucus
+      region, particularly regarding the conflict between Armenia and Azerbaijan, suggesting
+      that it is a strategic move to undermine Russia and Iran rather than a genuine
+      peace initiative. It argues that U.S. actions, including Trump's contradictory
+      statements about wanting to negotiate with Putin while labeling Russia a national
+      security threat, reflect a deeper agenda of power manipulation. The author likens
+      Putin to Charlie Brown, suggesting he is too trusting of U.S. intentions, which
+      are portrayed as deceitful and harmful, drawing attention to the bloodshed caused
+      by U.S. actions in various global conflicts. The piece ultimately warns Russia
+      to be wary of U.S. promises, emphasizing that actions speak louder than words.
+    published: '2025-08-08T02:07:03+00:00'
+  - title: Wake-up call for Switzerland
+    url: https://sonar21.com/wake-up-call-for-switzerland/
+    text: 'Incompetent leadership, pandering to countries that behave disloyally toward
+      Switzerland. A country that set standards is sinking into Stockholm syndrome and
+      losing its footing. Solution: Return to old values. Introduction The US has slapped
+      Switzerland with a 39% tariff. Before Trump, it was 0%, by the way. Switzerland
+      has one of the most expensive infrastructures in the world. Everything has to
+      be top notch. However, this also requires the country and its government to be
+      top notch in terms of education, employment, and political assertiveness. If Switzerland
+      can muster the energy and courage to step out of its comfort zone and get the
+      population on board, the problem can be solved—otherwise, it cannot. From proud
+      David to anonymous follower Small and poor Switzerland has always been small and,
+      for a long time, poor – so poor that many people emigrated or had to offer their
+      services as mercenaries in order to survive. I come from such a family of farmers
+      and mercenaries: 12 children and five pairs of shoes – that’s how my grandfather
+      described his childhood. Luck also plays a part: neutrality But we have also been
+      lucky. For example, when we were granted the privilege of neutrality at the Congress
+      of Vienna in 1815, incidentally on the initiative of Tsar Alexander II, whose
+      former Swiss tutor Frédéric-César de La Harpe successfully persuaded the young
+      tsar to do so. Yes, Switzerland owes its neutrality to Russia and repays Russia
+      by trampling on both Russia and its neutrality. I already dealt with the misguided
+      path Switzerland is taking in detail in 2023 in “ Die Schweiz ist in Gefahr ”
+      (Switzerland is in danger). Hard-earned respect The Swiss not only accepted the
+      gift of neutrality, they turned their poor Alpine republic into a jewel through
+      hard work, skill, tenacity, and modest but consistent diplomatic action, which
+      spared the country from both world wars. All this was recognized and respected
+      internationally, with the result that Switzerland’s good offices were gladly accepted
+      by many countries and world powers. The Red Cross, founded by Swiss citizen Henri
+      Dunant, the League of Nations, the Olympic Committee, the UN in Geneva, and many
+      other international organizations settled in Switzerland, not only but also as
+      a sign of recognition of Switzerland’s good offices. Switzerland as a role model
+      The modest and hardworking Swiss have long been regarded as role models around
+      the world. The last time a vote caused an international stir was in 2012, when
+      66.5% of Swiss voters rejected an initiative calling for six weeks’ vacation for
+      all employees – the people believed that this would be bad for the economy and
+      were willing to take less vacation in order to keep the economy strong overall.
+      I consider pride to be a dangerous emotion, but because of these characteristics,
+      as a Swiss citizen, I was proud of my country. The profile-raising neuroses of
+      incompetent do-gooders destroyed neutrality It is difficult to judge when Switzerland
+      strayed from the path of virtue that made our country so strong. Great recognition
+      and success always carry the risk of arrogance. People think it doesn’t matter
+      and that they can afford to choose the path of least resistance, which is more
+      comfortable. “Micheline Calmy-Rey: Sense of mission instead of competence.” Neutrality
+      means not taking sides. It’s as simple as that. However, this also means keeping
+      your personal opinions to yourself, otherwise neutrality does not work: that is
+      why self-discipline is also necessary. A country that is consistently neutral
+      and does not allow itself to be pressured earns the respect of the great powers,
+      with the result that no one dares to attack it – either militarily or diplomatically.
+      But you have to be consistent. The first clear weakening of neutrality came with
+      Switzerland’s accession to the UN. This heralded the era of profile-raising neurosis,
+      and our politicians felt called upon to dictate to other countries how they should
+      live. Our Federal Councilor Michelin Calmy-Rey spoke of active neutrality and
+      considered the concept of neutrality to be outdated. She is very likely the pioneer
+      of the destruction of our neutrality: a sense of mission instead of competence.
+      Federal Councillor Micheline Calmy-Rey (2003–2011): A sense of mission rather
+      than competence. Without neutrality no backbone With the erosion of neutrality
+      came a lack of backbone toward our greatest friend: the US. Over the past thirty
+      years, Swiss politicians have repeatedly caved in to our big “friends,” either
+      directly or via Brussels: the Holocaust compensation affair, banking secrecy,
+      EU treaties, automatic adoption of EU sanctions. The Federal Council did not even
+      notice that Switzerland was forced by the US to save the global banking system
+      by “rescuing” Credit Suisse. We reported on this: “ Derivatives bomb – Credit
+      Suisse rescue – Everyone was lied to ” and which Federal Councillor was responsible
+      for this? – That’s right, Ms. Keller-Suter. Her cabinet colleague Viola Amherd
+      managed to sign a contract for the purchase of F-35s and believed that they had
+      secured a fixed price. Clearly, we no longer have anyone in Bern who is capable
+      of reading and even understanding a contract. Washington and Brussels have realized
+      that all they have to do is shout and the wimps in Bern will cave in. That wouldn’t
+      have happened 40 years ago – our politicians have brought this on us. Smarter
+      politics during the Cold War than now Between 1991 and recently, the US was the
+      undisputed hegemon – the sole power holder. During the Cold War, Switzerland was
+      more skilful in dealing with the blocs. Although the Swiss were closer to the
+      US, communication with the Soviet Union was surprisingly good. Now that the Iron
+      Curtain fell over 30 years ago, Switzerland is slavishly following the Americans,
+      who want to weaken Russia for geopolitical reasons. The Americans treat Switzerland
+      extremely badly, yet we kiss their feet and stir up sentiment against Russia,
+      nota bene against a country that has never done anything to Switzerland. Whenever
+      there are differences, the Americans put a knife to the Swiss’s throat. They do
+      this because they know we will cave in – diplomatic customary law. Weak executive
+      The Swiss executive consists of a seven-member collegial body known as the Federal
+      Council. Its members are not elected by the people, but by the joint Federal Assembly
+      (National Council and Council of States), which corresponds to the US House of
+      Representatives and Senate. This poses two problems: First, before every election,
+      a bazaar begins in which the 26 cantons compete for positions based on the principle
+      of “I want a turn, and I haven’t had one in a long time.” Then there is another
+      problem: the quota for women – women must have more power. Whether candidates
+      are qualified for office is completely irrelevant. It is important to be able
+      to fit in – in other words, to be a candidate who appeals to everyone, preferably
+      without any rough edges. The result is then not long in coming. In 2022, for example,
+      Federal Councillor Elisabeth Baum-Schneider was elected to the Federal Council
+      from the small canton of Jura. A small canton thus came into its own and a woman
+      was found. She took over the Federal Department of Justice and Police (Eidgenössisches
+      Justiz- und Polizeidepartement, EJPD). She had no idea about the job and was then
+      “transferred” to the Federal Department of Home Affairs (Eidgenössisches Departement
+      des Innern, EDI) in 2024. A sigh of relief went through the EJPD and the officials
+      at the EDI received condolences – now they have the hot potato that no one wants.
+      The fact that the selection of Federal Councillors is handled so disastrously
+      is thanks to the members of parliament. Apparatschiks in parliament In the past,
+      the Federal Parliament was a militia parliament, i.e. it was a part-time position
+      and the idea was to bring independent and competent people into the Swiss legislature
+      who would work part-time for the interests of Switzerland. Today, there are fewer
+      and fewer successful citizens in parliament and more and more apparatchiks who
+      live the good life at the expense of taxpayers, collecting attendance fees and
+      association allowances and thus achieving a lifestyle that they would never be
+      able to attain in the free economy due to their lack of competence, education,
+      and willingness to work. These parasites haggle over positions and pursue one
+      interest above all else: to live off doing nothing for as long as possible and
+      to protect other apparatchiks so that they too can be protected. Are they all
+      like that? No, but too many are, because the result shows that their ranks produce
+      incompetent Federal Councillors. Solution The big problem is that Switzerland
+      is still doing far too well and most voters are completely unaware of the slippery
+      slope the country is on. The solution would be simple: stop electing losers and
+      parasites to parliament. People who cannot demonstrate a clear track record of
+      achievement should not have a chance of getting into parliament. You wouldn’t
+      get on a plane piloted by an idiot who just wants to fly, would you? Can an idiot
+      fly? Furthermore, Parliament – and not the Federal Council – would have to allocate
+      the departments by seeking and selecting a leading expert in the relevant field
+      for each department. It would then no longer matter which canton a candidate comes
+      from or whether they are male or female, but rather whether they have the skills
+      to do the job. The solution is therefore simple, but it will probably remain a
+      pipe dream. How should the government respond? Negotiating – or, as Trump likes
+      to say, “making a deal” – is ultimately a matter of communication. Our Federal
+      Council has no idea how Trump works as a person, and yes, that is important. His
+      erratic behavior, his vanity, his tendency to surround himself with beautiful
+      women in his administration, his delight in deal-making are all behavioral patterns
+      that should not be criticized, but understood and classified so that the insights
+      gained can then be used in Switzerland’s interests. Trump has no intellect whatsoever,
+      does not read, is completely gut-driven, and loves to be flattered. The horizons
+      and intuition of an interpreter born in Niederuzwil then led precisely to the
+      debacle she caused. The Swiss press wrote that our Federal Councillor came across
+      as “schoolmarmish” to Trump, according to a source in the White House. Thank you,
+      Ms. Keller-Suter. Looks as competent as she is – Federal Councilor Keller-Suter
+      explains the debacle There are thousands of Swiss citizens who have lived, studied,
+      and worked in the US for decades. Would it perhaps be a good idea to consult such
+      people when drawing up the negotiation strategy, or are we just pulling ideas
+      out of thin air and thinking that the Toggenburg flair will also strike a chord
+      with Trump? This is a wake-up call. The Swiss population must realize what is
+      going on and react. The first step will be taken in the next elections. Incompetent
+      windbags, woke idiots, do-gooders, and those who put the interests of Brussels
+      above those of Switzerland will no longer be elected and will be replaced by people
+      who have already achieved something. Then everything will be fine. Peter Hanseler
+      is a geopolitical analyst who reports from Moscow. Peter was born in Zurich, Switzerland.
+      He holds a J.D. (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School
+      and Master in International Commercial Law (LL.M.) from Georgetown University
+      Law School, Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand
+      and Russia. Peter is independent, his work is not supported by government or private
+      entities. Peter’s website Forumgeopolitica.com publishes its content in English,
+      Russian, German and French.'
+    one_sentence_summary: The article criticizes Switzerland's leadership for compromising
+      its values and standards in response to external pressures, particularly from
+      the US, and advocates for a return to its traditional strengths to regain its
+      standing.
+    paragraph_summary: The article critiques Switzerland's current leadership and its
+      approach to international relations, particularly in light of a recent 39% tariff
+      imposed by the US, a significant increase from the previous rate of 0%. It argues
+      that Switzerland, once a proud and independent nation known for its neutrality
+      and high standards, is now compromising its values and becoming overly accommodating
+      to disloyal countries. The author calls for a return to the country's traditional
+      values, emphasizing the need for strong education, employment, and political assertiveness
+      to regain its footing on the global stage. The piece reflects on Switzerland's
+      historical journey from poverty to prosperity, attributing its success to hard
+      work and diplomatic efforts that preserved its neutrality during the world wars,
+      and warns against the dangers of losing its identity and respect in the international
+      community.
+    published: '2025-08-07T16:02:37+00:00'
+  - title: Wake-up call for Switzerland
+    url: https://sonar21.com/wake-up-call-for-switzerland/
+    text: 'Incompetent leadership, pandering to countries that behave disloyally toward
+      Switzerland. A country that set standards is sinking into Stockholm syndrome and
+      losing its footing. Solution: Return to old values. Introduction The US has slapped
+      Switzerland with a 39% tariff. Before Trump, it was 0%, by the way. Switzerland
+      has one of the most expensive infrastructures in the world. Everything has to
+      be top notch. However, this also requires the country and its government to be
+      top notch in terms of education, employment, and political assertiveness. If Switzerland
+      can muster the energy and courage to step out of its comfort zone and get the
+      population on board, the problem can be solved—otherwise, it cannot. From proud
+      David to anonymous follower Small and poor Switzerland has always been small and,
+      for a long time, poor – so poor that many people emigrated or had to offer their
+      services as mercenaries in order to survive. I come from such a family of farmers
+      and mercenaries: 12 children and five pairs of shoes – that’s how my grandfather
+      described his childhood. Luck also plays a part: neutrality But we have also been
+      lucky. For example, when we were granted the privilege of neutrality at the Congress
+      of Vienna in 1815, incidentally on the initiative of Tsar Alexander II, whose
+      former Swiss tutor Frédéric-César de La Harpe successfully persuaded the young
+      tsar to do so. Yes, Switzerland owes its neutrality to Russia and repays Russia
+      by trampling on both Russia and its neutrality. I already dealt with the misguided
+      path Switzerland is taking in detail in 2023 in “ Die Schweiz ist in Gefahr ”
+      (Switzerland is in danger). Hard-earned respect The Swiss not only accepted the
+      gift of neutrality, they turned their poor Alpine republic into a jewel through
+      hard work, skill, tenacity, and modest but consistent diplomatic action, which
+      spared the country from both world wars. All this was recognized and respected
+      internationally, with the result that Switzerland’s good offices were gladly accepted
+      by many countries and world powers. The Red Cross, founded by Swiss citizen Henri
+      Dunant, the League of Nations, the Olympic Committee, the UN in Geneva, and many
+      other international organizations settled in Switzerland, not only but also as
+      a sign of recognition of Switzerland’s good offices. Switzerland as a role model
+      The modest and hardworking Swiss have long been regarded as role models around
+      the world. The last time a vote caused an international stir was in 2012, when
+      66.5% of Swiss voters rejected an initiative calling for six weeks’ vacation for
+      all employees – the people believed that this would be bad for the economy and
+      were willing to take less vacation in order to keep the economy strong overall.
+      I consider pride to be a dangerous emotion, but because of these characteristics,
+      as a Swiss citizen, I was proud of my country. The profile-raising neuroses of
+      incompetent do-gooders destroyed neutrality It is difficult to judge when Switzerland
+      strayed from the path of virtue that made our country so strong. Great recognition
+      and success always carry the risk of arrogance. People think it doesn’t matter
+      and that they can afford to choose the path of least resistance, which is more
+      comfortable. “Micheline Calmy-Rey: Sense of mission instead of competence.” Neutrality
+      means not taking sides. It’s as simple as that. However, this also means keeping
+      your personal opinions to yourself, otherwise neutrality does not work: that is
+      why self-discipline is also necessary. A country that is consistently neutral
+      and does not allow itself to be pressured earns the respect of the great powers,
+      with the result that no one dares to attack it – either militarily or diplomatically.
+      But you have to be consistent. The first clear weakening of neutrality came with
+      Switzerland’s accession to the UN. This heralded the era of profile-raising neurosis,
+      and our politicians felt called upon to dictate to other countries how they should
+      live. Our Federal Councilor Michelin Calmy-Rey spoke of active neutrality and
+      considered the concept of neutrality to be outdated. She is very likely the pioneer
+      of the destruction of our neutrality: a sense of mission instead of competence.
+      Federal Councillor Micheline Calmy-Rey (2003–2011): A sense of mission rather
+      than competence. Without neutrality no backbone With the erosion of neutrality
+      came a lack of backbone toward our greatest friend: the US. Over the past thirty
+      years, Swiss politicians have repeatedly caved in to our big “friends,” either
+      directly or via Brussels: the Holocaust compensation affair, banking secrecy,
+      EU treaties, automatic adoption of EU sanctions. The Federal Council did not even
+      notice that Switzerland was forced by the US to save the global banking system
+      by “rescuing” Credit Suisse. We reported on this: “ Derivatives bomb – Credit
+      Suisse rescue – Everyone was lied to ” and which Federal Councillor was responsible
+      for this? – That’s right, Ms. Keller-Suter. Her cabinet colleague Viola Amherd
+      managed to sign a contract for the purchase of F-35s and believed that they had
+      secured a fixed price. Clearly, we no longer have anyone in Bern who is capable
+      of reading and even understanding a contract. Washington and Brussels have realized
+      that all they have to do is shout and the wimps in Bern will cave in. That wouldn’t
+      have happened 40 years ago – our politicians have brought this on us. Smarter
+      politics during the Cold War than now Between 1991 and recently, the US was the
+      undisputed hegemon – the sole power holder. During the Cold War, Switzerland was
+      more skilful in dealing with the blocs. Although the Swiss were closer to the
+      US, communication with the Soviet Union was surprisingly good. Now that the Iron
+      Curtain fell over 30 years ago, Switzerland is slavishly following the Americans,
+      who want to weaken Russia for geopolitical reasons. The Americans treat Switzerland
+      extremely badly, yet we kiss their feet and stir up sentiment against Russia,
+      nota bene against a country that has never done anything to Switzerland. Whenever
+      there are differences, the Americans put a knife to the Swiss’s throat. They do
+      this because they know we will cave in – diplomatic customary law. Weak executive
+      The Swiss executive consists of a seven-member collegial body known as the Federal
+      Council. Its members are not elected by the people, but by the joint Federal Assembly
+      (National Council and Council of States), which corresponds to the US House of
+      Representatives and Senate. This poses two problems: First, before every election,
+      a bazaar begins in which the 26 cantons compete for positions based on the principle
+      of “I want a turn, and I haven’t had one in a long time.” Then there is another
+      problem: the quota for women – women must have more power. Whether candidates
+      are qualified for office is completely irrelevant. It is important to be able
+      to fit in – in other words, to be a candidate who appeals to everyone, preferably
+      without any rough edges. The result is then not long in coming. In 2022, for example,
+      Federal Councillor Elisabeth Baum-Schneider was elected to the Federal Council
+      from the small canton of Jura. A small canton thus came into its own and a woman
+      was found. She took over the Federal Department of Justice and Police (Eidgenössisches
+      Justiz- und Polizeidepartement, EJPD). She had no idea about the job and was then
+      “transferred” to the Federal Department of Home Affairs (Eidgenössisches Departement
+      des Innern, EDI) in 2024. A sigh of relief went through the EJPD and the officials
+      at the EDI received condolences – now they have the hot potato that no one wants.
+      The fact that the selection of Federal Councillors is handled so disastrously
+      is thanks to the members of parliament. Apparatschiks in parliament In the past,
+      the Federal Parliament was a militia parliament, i.e. it was a part-time position
+      and the idea was to bring independent and competent people into the Swiss legislature
+      who would work part-time for the interests of Switzerland. Today, there are fewer
+      and fewer successful citizens in parliament and more and more apparatchiks who
+      live the good life at the expense of taxpayers, collecting attendance fees and
+      association allowances and thus achieving a lifestyle that they would never be
+      able to attain in the free economy due to their lack of competence, education,
+      and willingness to work. These parasites haggle over positions and pursue one
+      interest above all else: to live off doing nothing for as long as possible and
+      to protect other apparatchiks so that they too can be protected. Are they all
+      like that? No, but too many are, because the result shows that their ranks produce
+      incompetent Federal Councillors. Solution The big problem is that Switzerland
+      is still doing far too well and most voters are completely unaware of the slippery
+      slope the country is on. The solution would be simple: stop electing losers and
+      parasites to parliament. People who cannot demonstrate a clear track record of
+      achievement should not have a chance of getting into parliament. You wouldn’t
+      get on a plane piloted by an idiot who just wants to fly, would you? Can an idiot
+      fly? Furthermore, Parliament – and not the Federal Council – would have to allocate
+      the departments by seeking and selecting a leading expert in the relevant field
+      for each department. It would then no longer matter which canton a candidate comes
+      from or whether they are male or female, but rather whether they have the skills
+      to do the job. The solution is therefore simple, but it will probably remain a
+      pipe dream. How should the government respond? Negotiating – or, as Trump likes
+      to say, “making a deal” – is ultimately a matter of communication. Our Federal
+      Council has no idea how Trump works as a person, and yes, that is important. His
+      erratic behavior, his vanity, his tendency to surround himself with beautiful
+      women in his administration, his delight in deal-making are all behavioral patterns
+      that should not be criticized, but understood and classified so that the insights
+      gained can then be used in Switzerland’s interests. Trump has no intellect whatsoever,
+      does not read, is completely gut-driven, and loves to be flattered. The horizons
+      and intuition of an interpreter born in Niederuzwil then led precisely to the
+      debacle she caused. The Swiss press wrote that our Federal Councillor came across
+      as “schoolmarmish” to Trump, according to a source in the White House. Thank you,
+      Ms. Keller-Suter. Looks as competent as she is – Federal Councilor Keller-Suter
+      explains the debacle There are thousands of Swiss citizens who have lived, studied,
+      and worked in the US for decades. Would it perhaps be a good idea to consult such
+      people when drawing up the negotiation strategy, or are we just pulling ideas
+      out of thin air and thinking that the Toggenburg flair will also strike a chord
+      with Trump? This is a wake-up call. The Swiss population must realize what is
+      going on and react. The first step will be taken in the next elections. Incompetent
+      windbags, woke idiots, do-gooders, and those who put the interests of Brussels
+      above those of Switzerland will no longer be elected and will be replaced by people
+      who have already achieved something. Then everything will be fine. Peter Hanseler
+      is a geopolitical analyst who reports from Moscow. Peter was born in Zurich, Switzerland.
+      He holds a J.D. (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School
+      and Master in International Commercial Law (LL.M.) from Georgetown University
+      Law School, Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand
+      and Russia. Peter is independent, his work is not supported by government or private
+      entities. Peter’s website Forumgeopolitica.com publishes its content in English,
+      Russian, German and French.'
+    one_sentence_summary: The article criticizes Switzerland's leadership for compromising
+      its values and standards in response to external pressures, particularly from
+      the US, and advocates for a return to its traditional strengths to regain its
+      standing.
+    paragraph_summary: The article critiques Switzerland's current leadership and its
+      approach to international relations, particularly in light of a recent 39% tariff
+      imposed by the US, a significant increase from the previous rate of 0%. It argues
+      that Switzerland, once a proud and independent nation known for its neutrality
+      and high standards, is now compromising its values and becoming overly accommodating
+      to disloyal countries. The author calls for a return to the country's traditional
+      values, emphasizing the need for strong education, employment, and political assertiveness
+      to regain its footing on the global stage. The piece reflects on Switzerland's
+      historical journey from poverty to prosperity, attributing its success to hard
+      work and diplomatic efforts that preserved its neutrality during the world wars,
+      and warns against the dangers of losing its identity and respect in the international
+      community.
+    published: '2025-08-07T16:02:37+00:00'
+  - title: Eastern Economic Forum – cooperation for peace and prosperity
+    url: https://sonar21.com/eastern-economic-forum-cooperation-for-peace-and-prosperity/
+    text: 'Despite 30,000 sanctions, Russia is taking a step towards a multipolar world.
+      [Source: forumvostok ] We are currently witnessing world history unfolding before
+      our eyes. The destruction of the financial and international relations system
+      by Western countries is contributing to global changes in the world economy and
+      the development of a multipolar world order. These circumstances are most actively
+      manifested in relation to those countries whose governments are unwelcome to the
+      Western regime. Among such countries persecuted by NATO, we can single out Russia,
+      China, Iran, and North Korea. Russia undoubtedly ranks first in the world in terms
+      of the number of international sanctions imposed on it. Since 2014, more than
+      30,000 sanctions have been imposed on Russia, 92% of which were introduced since
+      2022. In mid-July 2025, the eighteenth package of economic and individual restrictive
+      measures was adopted in the energy and banking sectors, as well as in trade with
+      the EU [1] . As a result, the total number of restrictions on individuals and
+      legal entities exceeded 2,500. [Source: statista.com ] The United States has imposed
+      the most restrictions on Russia, accounting for 24.5% of all measures introduced
+      by countries, or about 7,384. Next comes Canada with a share of 13.1% (3,956)
+      and Switzerland with a share of 11.8% (3,561). At present, taking into account
+      the 18th package of sanctions, the EU has imposed 2,906 restrictions (9.6%) on
+      Russia. It is followed by Norway, which has imposed about 2,678 (8.9%), Iceland
+      and Switzerland – 2,482 (8.2%), the United Kingdom – 2,204 (7.3%), New Zealand
+      with 1,860 (6.2%), Australia with 1,658 (5.5%), and Japan with 1,441 (4.8%). Currently,
+      the number of sanctions imposed on Russia exceeds 30,200, which surpasses all
+      restrictions against the rest of the world. [2] . Sanctions and geopolitical instability
+      have forced the Russian economy to adapt to new conditions. Studies conducted
+      by Western companies show that in 2024–2025, Russia’s foreign trade turnover grew,
+      reaching US$278 billion in value terms. At the same time, Russian suppliers focused
+      primarily on Asia, Africa, and the CIS countries. Asian countries became the leaders
+      in terms of export volume over the past year, accounting for US$209.2 billion
+      [3] . Despite sanctions, the European Union ranks second. Exports to the EU amounted
+      to US$43.8 billion last year. Africa ranks third, with total exports amounting
+      to US$16.4 billion. It is worth noting that if current trends in relations between
+      the European Union and Africa continue, the African continent will become a more
+      important trading partner for Moscow than Brussels. Russia’s trade turnover with
+      countries in Asia, Africa, and Latin America has increased 1.5 times over the
+      past four years. Economic relations with Middle Eastern countries are also developing.
+      According to Abdullah Ahmed Al Saleh, Deputy Minister of Economy of the UAE, trade
+      turnover between Russia and the United Arab Emirates has grown 2.7 times over
+      the past three years [4] . Overall, Russian exports could reach around US$290
+      billion by the end of 2025, while imports could reach US$190 billion. Despite
+      the decline in imports to Russia, its domestic economy is growing, and the country’s
+      nominal GDP currently stands at around US$2.24 trillion [5] . [Source: russiaspivottoasia.com
+      ] Despite the fact that in 2022 more than 1,000 foreign companies announced a
+      reduction in their activities in Russia, in 2025 many of these companies are seeking
+      to return to the Russian market. According to an analysis conducted by Yale University,
+      Western companies lost $107 billion by leaving Russia, including lost revenue
+      [6] . [Source: som.yale.edu ] In addition, the withdrawal of European and American
+      companies from the Russian market led to a decline of more than 60% in the volume
+      of goods supplied from the EU and the US to Russia. These circumstances contributed
+      to a decline in production volumes in the EU, especially in the automotive and
+      machine tool industries, and to the actual entry of Asian manufacturers into the
+      Russian market. According to data from the UN Department of International Trade,
+      China’s exports to Russia in 2024 amounted to US$115.28 billion, and further increases
+      in supply volumes are forecast for 2025. [Source: tradingeconomics.com ] A significant
+      increase in sanctions on hydrocarbon supplies also failed to have a significant
+      impact on Russia’s revenues. Most experts note that the restrictions imposed have
+      actually led to a reorientation of such supplies and their increased cost for
+      EU countries, which is also contributing to the bankruptcy of a number of European
+      manufacturers. [Source: energyandcleanair.org ] Despite the sanctions imposed,
+      the European Union countries themselves continue to purchase hydrocarbons from
+      Russia due to their low cost and high quality compared to American ones. Thus,
+      in June, Belgium’s purchases of Russian LNG increased by 12% compared to the previous
+      month and amounted to €300 million [7] . [Source: energyandcleanair.org ] It should
+      be noted that some European and American companies continue to operate in Russia
+      without any difficulties. For example, Steffen Groebler, CEO of the Metro AG retail
+      chain, previously stated that continuing business in Russia is in the interests
+      of the German company and its shareholders [8] . ПAt the same time, Metro doubled
+      its profits over the past year and earned more than €2.4 billion in Russia. This
+      income exceeds sales on the domestic market in Germany several times over [9]
+      . Many other Western manufacturers also continued their operations in Russia and
+      increased their profits several times over. For example, the German pharmaceutical
+      company Bayer earned €930 million on the Russian market last year [10] , Beiersdorf
+      (Nivea) – €148 million [11] , Hochland food manufacturer – €460 million [12] .
+      Porsche Automobil Holding, whose profits in Russia increased by more than 20%
+      over the past year, compared to a 39% decline in global sales, can be noted as
+      a company that has left but continues to support product distribution channels
+      in Russia [13] . When exiting the Russian market, companies such as McDonald’s,
+      Renault, Henkel, and Knauf agreed on options for repurchasing assets. French company
+      Renault sold its controlling stake in Russian car manufacturer AvtoVAZ in May
+      2022 for just one ruble, but the agreement provides for a six-year option to buy
+      back the shares. German car manufacturer Mercedes-Benz reached a similar agreement
+      on the buyback of shares. According to CNN, many companies remaining in Russia,
+      including those operating in the food and healthcare sectors, such as Procter
+      & Gamble, PepsiCo, and Mondelez, claim that their activities are not subject to
+      sanctions and that they have remained for humanitarian reasons in order to continue
+      supplying Russian consumers with essential goods [14] . Most experts note that
+      in today’s economic conditions of close international cooperation and mutually
+      beneficial collaboration, the sanctions imposed by the West are in fact incapable
+      of significantly affecting Russia’s economy and are doing more harm to Europe
+      itself than to Moscow. In addition, the restrictions being imposed are pushing
+      other countries, primarily China, India, and the UAE, to accelerate the construction
+      of a multipolar world and abandon the Western model of world order. At the same
+      time, many experts note Moscow’s significant successes in developing international
+      relations with most countries of the world and adapting the country’s economy.
+      Thus, from September 3 to 6, 2025, the Russian city of Vladivostok will host the
+      10th International Eastern Economic Forum, which is expected to be attended by
+      more than 7,000 participants, including leaders from more than 70 countries around
+      the world. [Source: arabnews.com ] Every year, the forum’s events take the form
+      of panel sessions, round tables, televised debates, business breakfasts, and business
+      dialogues dedicated to the development of Russia’s relations with various countries
+      around the world. At the previous forum, held in 2024, Russian President Vladimir
+      Putin held talks with dozens of his colleagues from the Asia-Pacific region, the
+      Arab world, and Latin American countries. The Eastern Economic Forum was attended
+      by foreign official delegations including Malaysian Prime Minister Anwar Ibrahim,
+      Vice President of the People’s Republic of China Han Zheng, Deputy Prime Minister
+      of Myanmar Myat Tun Oo, First Deputy Prime Minister of Kazakhstan Roman Sklyar,
+      and Deputy Prime Minister of the Republic of Serbia Aleksandar Vulin. [Source:
+      forumvostok ] The forum was also attended by representatives from the United States,
+      the United Kingdom, Germany, France, Switzerland, Japan, Denmark, Italy, the Netherlands,
+      the Republic of Cyprus, Singapore, the Republic of Korea, Australia, Belgium,
+      and Bulgaria. The largest delegations were from China, Malaysia, Bulgaria, Vietnam,
+      and Myanmar. [Source: v.daum.net ] In 2024, eight heads of foreign ministries
+      also attended the 9th Eastern Economic Forum: Malaysian Foreign Minister Mohamad
+      bin Haji Hassan, Malaysian Minister of Investment, Trade, and Industry Tengku
+      Zafrul bin Tengku Abdul Aziz, Mongolian Minister of Finance Bold Javhlan, Myanmar
+      Minister of Agriculture, Livestock and Irrigation Naung Min, Myanmar Minister
+      of Commerce Tun Ohn, Myanmar Minister of Electricity Nyan Tun, Myanmar Minister
+      of Hotels and Tourism Thet Thet Hnee, and Myanmar Minister of Industry Charlie
+      Tan. [Source: thestar.com ] Presentations at the forum were delivered by Leang
+      Chea, Attorney General of the Supreme Court of the Kingdom of Cambodia; Ksaysana
+      Khothpothon, Supreme People’s Prosecutor of the Lao People’s Democratic Republic;
+      and Amnat Jedcharoenrak, Attorney General of the Kingdom of Thailand. High-ranking
+      representatives from 75 countries attended the 9th Eastern Economic Forum in 2024,
+      despite international sanctions. As a result of the forum, 313 international agreements
+      worth more than US$7 billion were signed. In 2025, an increase in the number of
+      international leaders and business representatives planning to attend the forum
+      in Russia is expected. Russia is currently reviewing its multilateral cooperation
+      strategy, paying particular attention to developing relations with countries in
+      Southeast Asia, the Middle East, Africa, and Latin America. This strategy responds
+      to changing geopolitical and economic priorities and aims to develop mutually
+      beneficial economic relations [15] . Many countries around the world, recognizing
+      the stability of the Russian economy and seeking to fill the vacancies previously
+      occupied by European and American companies, are actively negotiating with Russia
+      to return to the Russian market. According to a report by the Korea Automobile
+      Technology Institute [16] , Major South Korean automakers, namely Hyundai and
+      Kia, are currently engaged in active negotiations regarding their return to Russia
+      following their departure in 2023.  In particular, the South Korean automaker
+      sold its Russian plants in December 2023 for a symbolic sum of US$100. However,
+      the agreement signed by the South Korean side provides for the possibility of
+      repurchasing them within a few years [17] . Hyundai and Kia led the way in terms
+      of car sales in Russia. Their combined sales totaled 354,000 vehicles in 2021.
+      [Source: koreaherald.com ] Confirmation of the return of these South Korean automakers
+      to the Russian market is also provided by the fact that in 2025, Hyundai and Kia
+      registered more than 20 trademarks in Russia in the categories of vehicles, spare
+      parts, and accessories, which were approved by the Russian Patent Office. [18]
+      . In addition, Kia unveiled its updated global sales strategy in mid-April 2025,
+      which includes the Russian market. The company set a sales target of 770,000 vehicles
+      in Europe, including Russia. Japanese company Toyota also plans to return to the
+      Russian market, having filed 33 trademark registration applications for dozens
+      of its vehicles on March 31, 2025 [19] . Following the departure of Western companies,
+      the Russian economy has undergone significant changes, and European companies
+      will now have to work twice as hard to regain their positions. Returning to the
+      market may prove particularly difficult for Western automakers, as Chinese competitors
+      have captured more than 80% of the market, compared to less than 10% three years
+      ago. [Source: bloomberg.com ] Many international experts note that the financial
+      losses from the departure of companies such as Mercedes-Benz, Volkswagen, BMW,
+      Audi, Opel, Skoda, Nissan, Toyota, Renault, and Ford from the Russian market amounted
+      to more than €10 billion [20] . According to Bloomberg, in addition to automakers,
+      representatives of companies such as IKEA, Adidas, McDonald’s, Coca-Cola, Danone
+      SA, Nike, Zara, LG Electronics, and Ariston Holding are actively discussing a
+      return to the Russian market [21] . At the same time, a number of European companies
+      such as Raiffeisen Bank, LG Electronics, Carlsberg, Procter & Gamble, Pepsi Co,
+      and Mondelez have relaunched their representative offices in Russia [22] . Thus,
+      many international experts agree that the situation around Russia will stabilize
+      in the near future and that European and American companies that decide to return
+      to the Russian market sooner will benefit the most. Meanwhile, representatives
+      of Western companies are actively preparing to participate in the 10th Eastern
+      Economic Forum, where they plan to begin active negotiations on returning to the
+      Russian market. [Source: globaltimes.cn ] [1] [1] https://www.consilium.europa.eu/en/press/press-releases/2025/07/18/russia-s-war-of-aggression-against-ukraine-eu-adopts-18th-package-of-economic-and-individual-measures/
+      [2] [2] https://www.consilium.europa.eu/en/press/press-releases/2025/07/18/russia-s-war-of-aggression-against-ukraine-eu-adopts-18th-package-of-economic-and-individual-measures/
+      [3] [3] https://cepa.org/comprehensive-reports/going-steady-china-and-russias-economic-ties-are-deeper-than-washington-thinks/
+      [4] [4] https://russiaspivottoasia.com/russia-uae-bilateral-trade-booms-analysis/
+      [5] [5] https://russiaspivottoasia.com/russias-foreign-trade-2024-changes-and-2025-trends/
+      [6] [6] https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain
+      [7] [7] https://energyandcleanair.org/june-2025-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/
+      [8] [8] https://tass.com/economy/1743235 [9] [9] https://cognitivemarketresearch.com/metro-market-report
+      [10] [10] https://bayer.com/en/investors/integrated-annual-reports [11] [11] https://reports.beiersdorf.com/annual-report/2024
+      [12] [12] https://hochland-group.com/en/facts/key-figures.htm [13] [13] https://investorrelations.porsche.com/en/financial-figures
+      [14] [14] https://edition.cnn.com/2025/02/20/business/trump-ukraine-western-companies-return-russia-intl
+      [15] [15] https://moderndiplomacy.eu/2025/05/17/russias-strategic-pivot-to-southeast-asia-energy-climate-and-geopolitics/
+      [16] [16] https://www.koreaherald.com/article/10483874 [17] [17] https://www.businesskorea.co.kr
+      [18] [18] https://electrek.co/2025/05/16/despite-ongoing-war-in-ukraine-is-hyundai-positioning-for-return-to-russia/
+      [19] [19] https://www.koreatimes.co.kr/business/companies/20250413/hyundai-motor-group-looks-to-restart-russian-business
+      [20] [20] https://www.koreaherald.com/article/10483874 [21] [21] https://www.bloomberg.com/news/articles/2025-04-17/russia-western-firms-balk-at-price-of-admission-for-post-war-return
+      [22] [22] https://edition.cnn.com/2025/02/20/business/trump-ukraine-western-companies-return-russia-intl'
+    one_sentence_summary: Despite facing over 30,000 sanctions, Russia is advancing
+      towards a multipolar world order, driven by the destabilization of the existing
+      financial and international relations system by Western countries, particularly
+      affecting nations like China, Iran, and North Korea.
+    paragraph_summary: Despite facing over 30,000 sanctions, primarily from Western
+      nations, Russia is navigating towards a multipolar world order as geopolitical
+      dynamics shift. The sanctions, which have intensified since 2022, have been largely
+      driven by the U.S., Canada, and the EU, targeting various sectors such as energy
+      and banking. This extensive imposition of restrictions, with the latest package
+      introduced in July 2025, has led to significant economic adaptations within Russia.
+      The ongoing sanctions and the resulting geopolitical instability are prompting
+      a reevaluation of international relations, particularly among countries that oppose
+      Western influence, including China, Iran, and North Korea, as they collectively
+      seek to establish a more diversified global economic landscape.
+    published: '2025-08-07T06:28:22+00:00'
+  - title: Eastern Economic Forum – cooperation for peace and prosperity
+    url: https://sonar21.com/eastern-economic-forum-cooperation-for-peace-and-prosperity/
+    text: 'Despite 30,000 sanctions, Russia is taking a step towards a multipolar world.
+      [Source: forumvostok ] We are currently witnessing world history unfolding before
+      our eyes. The destruction of the financial and international relations system
+      by Western countries is contributing to global changes in the world economy and
+      the development of a multipolar world order. These circumstances are most actively
+      manifested in relation to those countries whose governments are unwelcome to the
+      Western regime. Among such countries persecuted by NATO, we can single out Russia,
+      China, Iran, and North Korea. Russia undoubtedly ranks first in the world in terms
+      of the number of international sanctions imposed on it. Since 2014, more than
+      30,000 sanctions have been imposed on Russia, 92% of which were introduced since
+      2022. In mid-July 2025, the eighteenth package of economic and individual restrictive
+      measures was adopted in the energy and banking sectors, as well as in trade with
+      the EU [1] . As a result, the total number of restrictions on individuals and
+      legal entities exceeded 2,500. [Source: statista.com ] The United States has imposed
+      the most restrictions on Russia, accounting for 24.5% of all measures introduced
+      by countries, or about 7,384. Next comes Canada with a share of 13.1% (3,956)
+      and Switzerland with a share of 11.8% (3,561). At present, taking into account
+      the 18th package of sanctions, the EU has imposed 2,906 restrictions (9.6%) on
+      Russia. It is followed by Norway, which has imposed about 2,678 (8.9%), Iceland
+      and Switzerland – 2,482 (8.2%), the United Kingdom – 2,204 (7.3%), New Zealand
+      with 1,860 (6.2%), Australia with 1,658 (5.5%), and Japan with 1,441 (4.8%). Currently,
+      the number of sanctions imposed on Russia exceeds 30,200, which surpasses all
+      restrictions against the rest of the world. [2] . Sanctions and geopolitical instability
+      have forced the Russian economy to adapt to new conditions. Studies conducted
+      by Western companies show that in 2024–2025, Russia’s foreign trade turnover grew,
+      reaching US$278 billion in value terms. At the same time, Russian suppliers focused
+      primarily on Asia, Africa, and the CIS countries. Asian countries became the leaders
+      in terms of export volume over the past year, accounting for US$209.2 billion
+      [3] . Despite sanctions, the European Union ranks second. Exports to the EU amounted
+      to US$43.8 billion last year. Africa ranks third, with total exports amounting
+      to US$16.4 billion. It is worth noting that if current trends in relations between
+      the European Union and Africa continue, the African continent will become a more
+      important trading partner for Moscow than Brussels. Russia’s trade turnover with
+      countries in Asia, Africa, and Latin America has increased 1.5 times over the
+      past four years. Economic relations with Middle Eastern countries are also developing.
+      According to Abdullah Ahmed Al Saleh, Deputy Minister of Economy of the UAE, trade
+      turnover between Russia and the United Arab Emirates has grown 2.7 times over
+      the past three years [4] . Overall, Russian exports could reach around US$290
+      billion by the end of 2025, while imports could reach US$190 billion. Despite
+      the decline in imports to Russia, its domestic economy is growing, and the country’s
+      nominal GDP currently stands at around US$2.24 trillion [5] . [Source: russiaspivottoasia.com
+      ] Despite the fact that in 2022 more than 1,000 foreign companies announced a
+      reduction in their activities in Russia, in 2025 many of these companies are seeking
+      to return to the Russian market. According to an analysis conducted by Yale University,
+      Western companies lost $107 billion by leaving Russia, including lost revenue
+      [6] . [Source: som.yale.edu ] In addition, the withdrawal of European and American
+      companies from the Russian market led to a decline of more than 60% in the volume
+      of goods supplied from the EU and the US to Russia. These circumstances contributed
+      to a decline in production volumes in the EU, especially in the automotive and
+      machine tool industries, and to the actual entry of Asian manufacturers into the
+      Russian market. According to data from the UN Department of International Trade,
+      China’s exports to Russia in 2024 amounted to US$115.28 billion, and further increases
+      in supply volumes are forecast for 2025. [Source: tradingeconomics.com ] A significant
+      increase in sanctions on hydrocarbon supplies also failed to have a significant
+      impact on Russia’s revenues. Most experts note that the restrictions imposed have
+      actually led to a reorientation of such supplies and their increased cost for
+      EU countries, which is also contributing to the bankruptcy of a number of European
+      manufacturers. [Source: energyandcleanair.org ] Despite the sanctions imposed,
+      the European Union countries themselves continue to purchase hydrocarbons from
+      Russia due to their low cost and high quality compared to American ones. Thus,
+      in June, Belgium’s purchases of Russian LNG increased by 12% compared to the previous
+      month and amounted to €300 million [7] . [Source: energyandcleanair.org ] It should
+      be noted that some European and American companies continue to operate in Russia
+      without any difficulties. For example, Steffen Groebler, CEO of the Metro AG retail
+      chain, previously stated that continuing business in Russia is in the interests
+      of the German company and its shareholders [8] . ПAt the same time, Metro doubled
+      its profits over the past year and earned more than €2.4 billion in Russia. This
+      income exceeds sales on the domestic market in Germany several times over [9]
+      . Many other Western manufacturers also continued their operations in Russia and
+      increased their profits several times over. For example, the German pharmaceutical
+      company Bayer earned €930 million on the Russian market last year [10] , Beiersdorf
+      (Nivea) – €148 million [11] , Hochland food manufacturer – €460 million [12] .
+      Porsche Automobil Holding, whose profits in Russia increased by more than 20%
+      over the past year, compared to a 39% decline in global sales, can be noted as
+      a company that has left but continues to support product distribution channels
+      in Russia [13] . When exiting the Russian market, companies such as McDonald’s,
+      Renault, Henkel, and Knauf agreed on options for repurchasing assets. French company
+      Renault sold its controlling stake in Russian car manufacturer AvtoVAZ in May
+      2022 for just one ruble, but the agreement provides for a six-year option to buy
+      back the shares. German car manufacturer Mercedes-Benz reached a similar agreement
+      on the buyback of shares. According to CNN, many companies remaining in Russia,
+      including those operating in the food and healthcare sectors, such as Procter
+      & Gamble, PepsiCo, and Mondelez, claim that their activities are not subject to
+      sanctions and that they have remained for humanitarian reasons in order to continue
+      supplying Russian consumers with essential goods [14] . Most experts note that
+      in today’s economic conditions of close international cooperation and mutually
+      beneficial collaboration, the sanctions imposed by the West are in fact incapable
+      of significantly affecting Russia’s economy and are doing more harm to Europe
+      itself than to Moscow. In addition, the restrictions being imposed are pushing
+      other countries, primarily China, India, and the UAE, to accelerate the construction
+      of a multipolar world and abandon the Western model of world order. At the same
+      time, many experts note Moscow’s significant successes in developing international
+      relations with most countries of the world and adapting the country’s economy.
+      Thus, from September 3 to 6, 2025, the Russian city of Vladivostok will host the
+      10th International Eastern Economic Forum, which is expected to be attended by
+      more than 7,000 participants, including leaders from more than 70 countries around
+      the world. [Source: arabnews.com ] Every year, the forum’s events take the form
+      of panel sessions, round tables, televised debates, business breakfasts, and business
+      dialogues dedicated to the development of Russia’s relations with various countries
+      around the world. At the previous forum, held in 2024, Russian President Vladimir
+      Putin held talks with dozens of his colleagues from the Asia-Pacific region, the
+      Arab world, and Latin American countries. The Eastern Economic Forum was attended
+      by foreign official delegations including Malaysian Prime Minister Anwar Ibrahim,
+      Vice President of the People’s Republic of China Han Zheng, Deputy Prime Minister
+      of Myanmar Myat Tun Oo, First Deputy Prime Minister of Kazakhstan Roman Sklyar,
+      and Deputy Prime Minister of the Republic of Serbia Aleksandar Vulin. [Source:
+      forumvostok ] The forum was also attended by representatives from the United States,
+      the United Kingdom, Germany, France, Switzerland, Japan, Denmark, Italy, the Netherlands,
+      the Republic of Cyprus, Singapore, the Republic of Korea, Australia, Belgium,
+      and Bulgaria. The largest delegations were from China, Malaysia, Bulgaria, Vietnam,
+      and Myanmar. [Source: v.daum.net ] In 2024, eight heads of foreign ministries
+      also attended the 9th Eastern Economic Forum: Malaysian Foreign Minister Mohamad
+      bin Haji Hassan, Malaysian Minister of Investment, Trade, and Industry Tengku
+      Zafrul bin Tengku Abdul Aziz, Mongolian Minister of Finance Bold Javhlan, Myanmar
+      Minister of Agriculture, Livestock and Irrigation Naung Min, Myanmar Minister
+      of Commerce Tun Ohn, Myanmar Minister of Electricity Nyan Tun, Myanmar Minister
+      of Hotels and Tourism Thet Thet Hnee, and Myanmar Minister of Industry Charlie
+      Tan. [Source: thestar.com ] Presentations at the forum were delivered by Leang
+      Chea, Attorney General of the Supreme Court of the Kingdom of Cambodia; Ksaysana
+      Khothpothon, Supreme People’s Prosecutor of the Lao People’s Democratic Republic;
+      and Amnat Jedcharoenrak, Attorney General of the Kingdom of Thailand. High-ranking
+      representatives from 75 countries attended the 9th Eastern Economic Forum in 2024,
+      despite international sanctions. As a result of the forum, 313 international agreements
+      worth more than US$7 billion were signed. In 2025, an increase in the number of
+      international leaders and business representatives planning to attend the forum
+      in Russia is expected. Russia is currently reviewing its multilateral cooperation
+      strategy, paying particular attention to developing relations with countries in
+      Southeast Asia, the Middle East, Africa, and Latin America. This strategy responds
+      to changing geopolitical and economic priorities and aims to develop mutually
+      beneficial economic relations [15] . Many countries around the world, recognizing
+      the stability of the Russian economy and seeking to fill the vacancies previously
+      occupied by European and American companies, are actively negotiating with Russia
+      to return to the Russian market. According to a report by the Korea Automobile
+      Technology Institute [16] , Major South Korean automakers, namely Hyundai and
+      Kia, are currently engaged in active negotiations regarding their return to Russia
+      following their departure in 2023.  In particular, the South Korean automaker
+      sold its Russian plants in December 2023 for a symbolic sum of US$100. However,
+      the agreement signed by the South Korean side provides for the possibility of
+      repurchasing them within a few years [17] . Hyundai and Kia led the way in terms
+      of car sales in Russia. Their combined sales totaled 354,000 vehicles in 2021.
+      [Source: koreaherald.com ] Confirmation of the return of these South Korean automakers
+      to the Russian market is also provided by the fact that in 2025, Hyundai and Kia
+      registered more than 20 trademarks in Russia in the categories of vehicles, spare
+      parts, and accessories, which were approved by the Russian Patent Office. [18]
+      . In addition, Kia unveiled its updated global sales strategy in mid-April 2025,
+      which includes the Russian market. The company set a sales target of 770,000 vehicles
+      in Europe, including Russia. Japanese company Toyota also plans to return to the
+      Russian market, having filed 33 trademark registration applications for dozens
+      of its vehicles on March 31, 2025 [19] . Following the departure of Western companies,
+      the Russian economy has undergone significant changes, and European companies
+      will now have to work twice as hard to regain their positions. Returning to the
+      market may prove particularly difficult for Western automakers, as Chinese competitors
+      have captured more than 80% of the market, compared to less than 10% three years
+      ago. [Source: bloomberg.com ] Many international experts note that the financial
+      losses from the departure of companies such as Mercedes-Benz, Volkswagen, BMW,
+      Audi, Opel, Skoda, Nissan, Toyota, Renault, and Ford from the Russian market amounted
+      to more than €10 billion [20] . According to Bloomberg, in addition to automakers,
+      representatives of companies such as IKEA, Adidas, McDonald’s, Coca-Cola, Danone
+      SA, Nike, Zara, LG Electronics, and Ariston Holding are actively discussing a
+      return to the Russian market [21] . At the same time, a number of European companies
+      such as Raiffeisen Bank, LG Electronics, Carlsberg, Procter & Gamble, Pepsi Co,
+      and Mondelez have relaunched their representative offices in Russia [22] . Thus,
+      many international experts agree that the situation around Russia will stabilize
+      in the near future and that European and American companies that decide to return
+      to the Russian market sooner will benefit the most. Meanwhile, representatives
+      of Western companies are actively preparing to participate in the 10th Eastern
+      Economic Forum, where they plan to begin active negotiations on returning to the
+      Russian market. [Source: globaltimes.cn ] [1] [1] https://www.consilium.europa.eu/en/press/press-releases/2025/07/18/russia-s-war-of-aggression-against-ukraine-eu-adopts-18th-package-of-economic-and-individual-measures/
+      [2] [2] https://www.consilium.europa.eu/en/press/press-releases/2025/07/18/russia-s-war-of-aggression-against-ukraine-eu-adopts-18th-package-of-economic-and-individual-measures/
+      [3] [3] https://cepa.org/comprehensive-reports/going-steady-china-and-russias-economic-ties-are-deeper-than-washington-thinks/
+      [4] [4] https://russiaspivottoasia.com/russia-uae-bilateral-trade-booms-analysis/
+      [5] [5] https://russiaspivottoasia.com/russias-foreign-trade-2024-changes-and-2025-trends/
+      [6] [6] https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain
+      [7] [7] https://energyandcleanair.org/june-2025-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/
+      [8] [8] https://tass.com/economy/1743235 [9] [9] https://cognitivemarketresearch.com/metro-market-report
+      [10] [10] https://bayer.com/en/investors/integrated-annual-reports [11] [11] https://reports.beiersdorf.com/annual-report/2024
+      [12] [12] https://hochland-group.com/en/facts/key-figures.htm [13] [13] https://investorrelations.porsche.com/en/financial-figures
+      [14] [14] https://edition.cnn.com/2025/02/20/business/trump-ukraine-western-companies-return-russia-intl
+      [15] [15] https://moderndiplomacy.eu/2025/05/17/russias-strategic-pivot-to-southeast-asia-energy-climate-and-geopolitics/
+      [16] [16] https://www.koreaherald.com/article/10483874 [17] [17] https://www.businesskorea.co.kr
+      [18] [18] https://electrek.co/2025/05/16/despite-ongoing-war-in-ukraine-is-hyundai-positioning-for-return-to-russia/
+      [19] [19] https://www.koreatimes.co.kr/business/companies/20250413/hyundai-motor-group-looks-to-restart-russian-business
+      [20] [20] https://www.koreaherald.com/article/10483874 [21] [21] https://www.bloomberg.com/news/articles/2025-04-17/russia-western-firms-balk-at-price-of-admission-for-post-war-return
+      [22] [22] https://edition.cnn.com/2025/02/20/business/trump-ukraine-western-companies-return-russia-intl'
+    one_sentence_summary: Despite facing over 30,000 sanctions, Russia is advancing
+      towards a multipolar world order, driven by the destabilization of the existing
+      financial and international relations system by Western countries, particularly
+      affecting nations like China, Iran, and North Korea.
+    paragraph_summary: Despite facing over 30,000 sanctions, primarily from Western
+      nations, Russia is navigating towards a multipolar world order as geopolitical
+      dynamics shift. The sanctions, which have intensified since 2022, have been largely
+      driven by the U.S., Canada, and the EU, targeting various sectors such as energy
+      and banking. This extensive imposition of restrictions, with the latest package
+      introduced in July 2025, has led to significant economic adaptations within Russia.
+      The ongoing sanctions and the resulting geopolitical instability are prompting
+      a reevaluation of international relations, particularly among countries that oppose
+      Western influence, including China, Iran, and North Korea, as they collectively
+      seek to establish a more diversified global economic landscape.
+    published: '2025-08-07T06:28:22+00:00'
+  - title: Looks Like Trump Has Zero Interest in Stopping the War in Ukraine
+    url: https://sonar21.com/looks-like-trump-has-zero-interest-in-stopping-the-war-in-ukraine/
+    text: 'Cartoon by Nemo I’ve included the latest cartoon from Nemo because it simply
+      tells a terrible story. But this is not the theme of this piece. Although Trump’s
+      envoy, Steve Witkoff, had a pleasant meeting with Vladimir Putin, Donald Trump’s
+      actions today seem designed to sabotage any chance for a negotiated settlement
+      to the war in Ukraine. Trump celebrated Witkoff’s meeting with this Truth Social
+      post: Later in the day, Trump’s team leaked to the press that he might meet with
+      Putin, perhaps as early as next week. I doubt it. Even before Trump talked to
+      Witkoff, he issued the following executive order: ADDRESSING THREATS TO THE UNITED
+      STATES BY THE GOVERNMENT OF THE RUSSIAN FEDERATION Section 1.  Background.  Executive
+      Order 14066 of March 8, 2022 (Prohibiting Certain Imports and New Investments
+      With Respect to Continued Russian Federation Efforts To Undermine the Sovereignty
+      and Territorial Integrity of Ukraine), expanded the scope of the national emergency
+      declared in Executive Order 14024 of April 15, 2021 (Blocking Property With Respect
+      To Specified Harmful Foreign Activities of the Government of the Russian Federation),
+      to include the actions taken against Ukraine by the Government of the Russian
+      Federation.  To address that unusual and extraordinary threat to the national
+      security and foreign policy of the United States, Executive Order 14066 prohibited,
+      among other things, the importation into the United States of certain products
+      of Russian Federation origin, including crude oil; petroleum; and petroleum fuels,
+      oils, and products of their distillation. I have received additional information
+      from various senior officials on, among other things, the actions of the Government
+      of the Russian Federation with respect to the situation in Ukraine.  After considering
+      this additional information, among other things, I find that the national emergency
+      described in Executive Order 14066 continues and that the actions and policies
+      of the Government of the Russian Federation continue to pose an unusual and extraordinary
+      threat to the national security and foreign policy of the United States. How in
+      the hell is Russia threatening the United States? It is not. The opposite is true…
+      The United States, by its provision of intelligence and weapons to Ukraine, is
+      threatening Russia. But put that point aside for the moment. Trump is using this
+      bellicose language because it is the only way he can impose tariffs via an executive
+      order, i.e., he is responding to a national security threat. Trump is lying. Maybe
+      this is just another example of confabulation , i.e., saying something that is
+      false while genuinely believing it is true. As of this writing, Russia has not
+      released a readout of its account of the three hour chat with Witkoff. I wonder
+      if they will choose to ignore Trump’s bombast. The real target of this order is
+      India… Trump is using the fabricated excuse of a Russian threat to justify punishing
+      India for buying Russian oil. This really has nothing to do with the war in Ukraine.
+      This is all about Trump’s new, undeclared war on BRICS . To deal with the national
+      emergency described in Executive Order 14066, I determine that it is necessary
+      and appropriate to impose an additional ad valorem duty on imports of articles
+      of India, which is directly or indirectly importing Russian Federation oil.  In
+      my judgment, imposing tariffs, as described below, in addition to maintaining
+      the other measures taken to address the national emergency described in Executive
+      Order 14066, will more effectively deal with the national emergency described
+      in Executive Order 14066. Sec. 2.  Imposition of Tariffs.  (a)  I find that the
+      Government of India is currently directly or indirectly importing Russian Federation
+      oil. Trump labors under the illusion that the US has economic leverage over India.
+      It appears his team of mental midgets who came up with this scheme did not take
+      the time to do basic economic research regarding the potential economic impact
+      of the tariffs on India… It is negligible. India’s trade with the US—specifically
+      merchandise exports to the US—accounts for about 2% of India’s GDP as of 2025.
+      This figure comes from India’s annual exports to the US of approximately $87 billion,
+      a modest share of its economy. Additionally, detailed economic impact assessments
+      confirm that even significant changes in US-India trade, such as new tariffs,
+      would only affect Indian GDP by around 0.19%, underscoring that the overall share
+      remains in the low single digits relative to the country’s total GDP. What Trump
+      has achieved is souring relations between Washington and New Delhi. I don’t think
+      Prime Minister Modi is eager to kiss Donald Trump’s ample ass . Maybe this is
+      a secret Trump strategy to win the Nobel Peace Prize. How so? In tandem with this
+      action, Modi announced that he will be traveling to China for a personal meeting
+      with Xi. Way to go Trump! You have convinced the Indians and the Chinese to set
+      aside their previously rancorous relations and intensify negotiations between
+      the two ancient civilizations. I am sure Modi and Xi will have some choice words
+      about Donald Trump and his erratic behavior. I think Trump’s decision to use tariffs
+      as a form of political sanctions will backfire. He cannot produce one piece of
+      evidence to demonstrate that Russia selling oil to India harms US national security.
+      It is a fantastical lie and the courts are likely to overturn these tariffs. Danny
+      Davis and I discussed the Putin/Witkoff meeting: Following my chat with Danny,
+      Dr. David Oualaalou hosted me. We had an unplanned shirt competition and he clearly
+      kicked my ass. Congrats Dr. David, you won: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article discusses how Donald Trump's actions, including
+      a recent executive order and a leaked potential meeting with Vladimir Putin, appear
+      to undermine efforts for a negotiated settlement to the war in Ukraine, despite
+      a positive meeting between Trump's envoy and the Russian leader.
+    paragraph_summary: The article discusses a recent cartoon by Nemo that highlights
+      a troubling narrative regarding Donald Trump's actions related to the war in Ukraine.
+      While Trump’s envoy, Steve Witkoff, had a positive meeting with Vladimir Putin,
+      Trump appears to be undermining potential peace negotiations through his statements
+      and actions. He celebrated Witkoff's meeting on social media and hinted at a possible
+      meeting with Putin, although skepticism surrounds this claim. Additionally, the
+      article references Trump's executive order aimed at addressing threats from the
+      Russian government, which expanded previous sanctions and prohibited the import
+      of certain Russian goods, indicating a continued national emergency regarding
+      Russia's actions in Ukraine.
+    published: '2025-08-07T03:49:38+00:00'
+  - title: Looks Like Trump Has Zero Interest in Stopping the War in Ukraine
+    url: https://sonar21.com/looks-like-trump-has-zero-interest-in-stopping-the-war-in-ukraine/
+    text: 'Cartoon by Nemo I’ve included the latest cartoon from Nemo because it simply
+      tells a terrible story. But this is not the theme of this piece. Although Trump’s
+      envoy, Steve Witkoff, had a pleasant meeting with Vladimir Putin, Donald Trump’s
+      actions today seem designed to sabotage any chance for a negotiated settlement
+      to the war in Ukraine. Trump celebrated Witkoff’s meeting with this Truth Social
+      post: Later in the day, Trump’s team leaked to the press that he might meet with
+      Putin, perhaps as early as next week. I doubt it. Even before Trump talked to
+      Witkoff, he issued the following executive order: ADDRESSING THREATS TO THE UNITED
+      STATES BY THE GOVERNMENT OF THE RUSSIAN FEDERATION Section 1.  Background.  Executive
+      Order 14066 of March 8, 2022 (Prohibiting Certain Imports and New Investments
+      With Respect to Continued Russian Federation Efforts To Undermine the Sovereignty
+      and Territorial Integrity of Ukraine), expanded the scope of the national emergency
+      declared in Executive Order 14024 of April 15, 2021 (Blocking Property With Respect
+      To Specified Harmful Foreign Activities of the Government of the Russian Federation),
+      to include the actions taken against Ukraine by the Government of the Russian
+      Federation.  To address that unusual and extraordinary threat to the national
+      security and foreign policy of the United States, Executive Order 14066 prohibited,
+      among other things, the importation into the United States of certain products
+      of Russian Federation origin, including crude oil; petroleum; and petroleum fuels,
+      oils, and products of their distillation. I have received additional information
+      from various senior officials on, among other things, the actions of the Government
+      of the Russian Federation with respect to the situation in Ukraine.  After considering
+      this additional information, among other things, I find that the national emergency
+      described in Executive Order 14066 continues and that the actions and policies
+      of the Government of the Russian Federation continue to pose an unusual and extraordinary
+      threat to the national security and foreign policy of the United States. How in
+      the hell is Russia threatening the United States? It is not. The opposite is true…
+      The United States, by its provision of intelligence and weapons to Ukraine, is
+      threatening Russia. But put that point aside for the moment. Trump is using this
+      bellicose language because it is the only way he can impose tariffs via an executive
+      order, i.e., he is responding to a national security threat. Trump is lying. Maybe
+      this is just another example of confabulation , i.e., saying something that is
+      false while genuinely believing it is true. As of this writing, Russia has not
+      released a readout of its account of the three hour chat with Witkoff. I wonder
+      if they will choose to ignore Trump’s bombast. The real target of this order is
+      India… Trump is using the fabricated excuse of a Russian threat to justify punishing
+      India for buying Russian oil. This really has nothing to do with the war in Ukraine.
+      This is all about Trump’s new, undeclared war on BRICS . To deal with the national
+      emergency described in Executive Order 14066, I determine that it is necessary
+      and appropriate to impose an additional ad valorem duty on imports of articles
+      of India, which is directly or indirectly importing Russian Federation oil.  In
+      my judgment, imposing tariffs, as described below, in addition to maintaining
+      the other measures taken to address the national emergency described in Executive
+      Order 14066, will more effectively deal with the national emergency described
+      in Executive Order 14066. Sec. 2.  Imposition of Tariffs.  (a)  I find that the
+      Government of India is currently directly or indirectly importing Russian Federation
+      oil. Trump labors under the illusion that the US has economic leverage over India.
+      It appears his team of mental midgets who came up with this scheme did not take
+      the time to do basic economic research regarding the potential economic impact
+      of the tariffs on India… It is negligible. India’s trade with the US—specifically
+      merchandise exports to the US—accounts for about 2% of India’s GDP as of 2025.
+      This figure comes from India’s annual exports to the US of approximately $87 billion,
+      a modest share of its economy. Additionally, detailed economic impact assessments
+      confirm that even significant changes in US-India trade, such as new tariffs,
+      would only affect Indian GDP by around 0.19%, underscoring that the overall share
+      remains in the low single digits relative to the country’s total GDP. What Trump
+      has achieved is souring relations between Washington and New Delhi. I don’t think
+      Prime Minister Modi is eager to kiss Donald Trump’s ample ass . Maybe this is
+      a secret Trump strategy to win the Nobel Peace Prize. How so? In tandem with this
+      action, Modi announced that he will be traveling to China for a personal meeting
+      with Xi. Way to go Trump! You have convinced the Indians and the Chinese to set
+      aside their previously rancorous relations and intensify negotiations between
+      the two ancient civilizations. I am sure Modi and Xi will have some choice words
+      about Donald Trump and his erratic behavior. I think Trump’s decision to use tariffs
+      as a form of political sanctions will backfire. He cannot produce one piece of
+      evidence to demonstrate that Russia selling oil to India harms US national security.
+      It is a fantastical lie and the courts are likely to overturn these tariffs. Danny
+      Davis and I discussed the Putin/Witkoff meeting: Following my chat with Danny,
+      Dr. David Oualaalou hosted me. We had an unplanned shirt competition and he clearly
+      kicked my ass. Congrats Dr. David, you won: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: The article discusses how Donald Trump's actions, including
+      a recent executive order and a leaked potential meeting with Vladimir Putin, appear
+      to undermine efforts for a negotiated settlement to the war in Ukraine, despite
+      a positive meeting between Trump's envoy and the Russian leader.
+    paragraph_summary: The article discusses a recent cartoon by Nemo that highlights
+      a troubling narrative regarding Donald Trump's actions related to the war in Ukraine.
+      While Trump’s envoy, Steve Witkoff, had a positive meeting with Vladimir Putin,
+      Trump appears to be undermining potential peace negotiations through his statements
+      and actions. He celebrated Witkoff's meeting on social media and hinted at a possible
+      meeting with Putin, although skepticism surrounds this claim. Additionally, the
+      article references Trump's executive order aimed at addressing threats from the
+      Russian government, which expanded previous sanctions and prohibited the import
+      of certain Russian goods, indicating a continued national emergency regarding
+      Russia's actions in Ukraine.
+    published: '2025-08-07T03:49:38+00:00'
   - title: Putin Subtly Puts the US on Notice… Russia is Locked and Loaded
     url: https://sonar21.com/putin-subtly-puts-the-us-on-notice-russia-is-locked-and-loaded/
     text: 'Following two months of provocations and threats from the United States,

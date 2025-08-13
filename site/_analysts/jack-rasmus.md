@@ -7,17 +7,801 @@ description: "Jack Rasmus is an American economist, author, and radio show host 
 websites:
   - https://jackrasmus.com/
 summary: |
-  The geopolitical landscape continues to be shaped by the Trump administration’s aggressive foreign policy maneuvers and mounting domestic fiscal pressures. Over the past weeks, U.S. actions in the Middle East and Eastern Europe, alongside a deepening fiscal crisis at home, have signaled a period of heightened instability and strategic recalibration.
+  As the global geopolitical landscape remains volatile, recent developments point to significant shifts in US foreign and economic policy, with potential repercussions for international stability and the global economy.
   
-  The most significant recent development is President Trump’s initiation of airstrikes against Iran on June 21, 2025. Despite campaign promises to end “forever wars,” Trump authorized unilateral military action without congressional or international approval. **Jack Rasmus** draws parallels to “Japan’s surprise attack on Pearl Harbor,” emphasizing the element of deception: “Trump engaged in deceptive negotiations with Iran just prior to the bombings, suggesting a potential deal while secretly preparing for military action.” The operation was executed without the involvement of U.S. allies or the United Nations, and appears to have been heavily influenced by neoconservative advisors and Israeli Prime Minister Netanyahu. This approach has raised alarms about the personal and unchecked nature of Trump’s foreign policy decision-making.
+  The most immediate focus is the upcoming meeting between Vladimir Putin and Donald Trump in Alaska, scheduled for around August 15, 2025. While mainstream US media frames this as a possible breakthrough to end the war in Ukraine, **Jack Rasmus** offers a more nuanced interpretation. He suggests Trump may leverage the meeting as a justification for a US military withdrawal from Ukraine, regardless of ongoing support for the conflict. Rasmus also highlights the possibility of the meeting reviving US-Russia economic talks, especially around Russian commodities, and speculates that Trump could push for a ceasefire involving Ukrainian territorial concessions. The broader implication, according to Rasmus, is that this encounter could reshape both US foreign policy and economic relations with Russia, marking a departure from previous strategies.
   
-  Meanwhile, the U.S.-Ukraine relationship has undergone a notable shift following the finalization of the Ukraine Minerals Deal 2.0. The new agreement, as **Jack Rasmus** reports, represents a clear retreat from earlier U.S. demands that Ukraine use mineral revenues to repay military and economic aid. The revised deal omits any formal U.S. security guarantees for Ukraine and ensures that all revenues are reinvested in Ukraine for the next decade. Only one of the three signed documents has been disclosed, fueling speculation about possible undisclosed side agreements. The deal’s structure, which now allows U.S. weapons sent to Ukraine to count as reinvestment, reflects a pragmatic compromise but also signals diminished U.S. leverage and a possible “capitulation” by the Trump administration.
+  On the domestic front, the US economy shows signs of acute stress. The July jobs report revealed only 73,000 new jobs, with downward revisions to previous months, resulting in a mere 50,000 jobs added over three months. This, combined with a concerning preliminary Q2 GDP report and Trump's recent announcement of sweeping tariff hikes on over 40 countries—including China and Canada—has fueled recession fears. The Federal Reserve’s decision to hold interest rates steady for at least six more weeks adds to the uncertainty. As **Jack Rasmus** notes, “labor market conditions are deteriorating rapidly,” countering official claims of economic strength.
   
-  Domestically, the U.S. faces a looming fiscal crisis, driven by decades of tax cuts, rising defense spending, and ballooning interest payments on the national debt. **Jack Rasmus** warns that “interest payments are already exceeding $1 trillion annually and could rise to $1.7 trillion by 2034,” with the debt projected to reach $38 trillion by the end of 2025. He attributes 60% of budget deficits to insufficient tax revenues, exacerbated by recent $5 trillion in tax cuts. The persistent prioritization of tax reductions for corporations and the wealthy, alongside unchecked military and healthcare expenditures, is fueling concerns about the sustainability of U.S. fiscal policy.
+  These economic strains are compounded by a long-term fiscal crisis. Rasmus points to the cumulative effect of 25 years of tax cuts, surging defense spending, and mounting interest costs on the national debt, projected to hit $38 trillion by year’s end. Annual interest payments have already surpassed $1 trillion and could reach $1.7 trillion by 2034. Rasmus argues that persistent tax reductions for corporations and the wealthy, combined with unchecked military and healthcare spending, are the primary drivers of the deficit, with 60% of budget shortfalls attributed to inadequate tax revenues.
   
   **Trends and Predictions:**  
-  The convergence of unilateral military action, weakened diplomatic leverage, and deepening fiscal instability points to a period of accelerating American decline. As **Jack Rasmus** asserts, while “the Empire is not on the verge of collapse, it is experiencing a significant and accelerating decline across political, economic, cultural, and technological dimensions.” There is a high chance that U.S. global influence will continue to erode, particularly as allies distance themselves from unpredictable American policies and as fiscal constraints limit future strategic options. Most definitely, the current trajectory will force the U.S. to confront hard choices about its role in the world and the sustainability of its domestic priorities.
+  Looking ahead, there is a high likelihood that the Alaska summit will be used by Trump to justify a shift in US policy on Ukraine, potentially paving the way for reduced military engagement and a new phase in US-Russia economic relations. Domestically, the risk of a US recession is “quite likely,” given the weak labor market and the destabilizing impact of new tariffs. The fiscal trajectory remains unsustainable, with no signs of a reversal in tax or spending policies. As Rasmus concludes, these converging crises signal an accelerating decline in US global influence and economic stability—a trend that is “most definitely” set to continue barring significant policy changes.
 articles:
+  - title: 'Putin-Trump Meeting: Endgame or PR Event'
+    url: https://jackrasmus.com/2025/08/11/putin-trump-meeting-endgame-or-pr-event/
+    text: 'by Dr. Jack Rasmus August 10, 2025 Putin and Trump last week agreed to meet
+      at a location in Alaska. Indications are the meeting will occur as soon as August
+      15, 2025 or soon after. In other words, in just days. Or perhaps a week or so
+      at most. If we’re to believe the US media, the meeting is about Trump and Putin
+      negotiating an end to the war in Ukraine. But does the meeting signify the start
+      of serious negotiations and the beginning of the end of the war in Ukraine? Not
+      necessarily. There are other possible interpretations for the meeting in Alaska:
+      A meeting with Putin may provide the cover for Trump to finally start an actual
+      US withdrawal from the conflict. After all, during the past nine months the US
+      has continued to send weapons, money and provide extensive military assistance
+      to Ukraine. While calling for Ukraine and Russia to stop fighting, the US has
+      continued to participate directly and deeply in the conflict providing general
+      tactical planning by high level US officers, intelligence, surveillance, reconnaissance,
+      communications, missile targeting, manning of technical equipment like Patriot
+      systems, training, and so on. Perhaps Trump wants to withdraw from these activities.
+      To do so he needs to show some kind of agreement with Putin as a justification.
+      Another interpretation is that the meeting is really about restarting discussions
+      on future US-Russia economic relations. These began in the months before April
+      2025, showed some initial progress, but then were quietly suspended. Trump would
+      no doubt like to ink some deals on Russian commodities, especially rare earths
+      that China has recently decided not to export to the US. And perhaps deepening
+      US-Russia economic relations sends a message to the Chinese the US is intensifying
+      efforts to split Russia from it. Yet another interpretation is that the purpose
+      of the meeting is to get Putin to agree to a general ceasefire by conceding a
+      ‘piece of the pie’, i.e. of one or two Ukraine provinces in the east where the
+      fighting is mostly occurring. Russia has already taken all of the Lughansk province.
+      Perhaps Trump will offer to Russia what it already has in Lughansk. More likely
+      is the offer of the second province of Donetsk where Russia has been gaining territory
+      daily but has only captured perhaps 60% of the total territory. By offering him
+      the two provinces in exchange for a general ceasefire everywhere before starting
+      negotiations on other issues, Trump is revising his original ‘Kellogg Plan’ that
+      called for ceasefire everywhere in exchange for nothing—which Russia has consistently
+      rejected since Trump took office. A fourth interpretation is that the meeting
+      is just another clever ruse by NATO and the west to lull Russia into a general
+      ceasefire, with no intention of Ukraine actually withdrawing forces anywhere.
+      According to this interpretation, Trump will offer a verbal or even written promise
+      that Ukraine will then negotiate in good faith. But if this case, it is a repeat
+      of the 2015 Minsk agreement signed by Ukraine and by Germany and France on behalf
+      of NATO, the purpose of which was to convince Russia to halt its destruction of
+      Ukraine’s forces at Debaltsovo that year which save the Ukraine army from defeat.
+      The Minsk agreement of 2015 provided Ukraine and NATO with a diplomatic victory
+      that halted Russia militarily and bought time for Ukraine to rebuild its military
+      and defensive fortifications in the east the next six years in preparation for
+      war. A fifth interpretation is the most likely, however. That argues the meeting
+      is just a last minute maneuver by Trump to stage a grand PR event, to be followed
+      by statements of agreements in principle by US and Russia which neither side expects
+      will take effect. Trump thereby gets a media event in which he brags he’s successfully
+      gotten the Russians to move toward a final agreement—after he failed to do so
+      the past six months. Trump thus declares a media ‘win’ for himself, even though
+      nothing changes on the ground in the aftermath and the war continues. A typical
+      Trump ‘smoke and mirrors’ event. Putin may even agree to such an offer and let
+      Trump have his much needed media victory. Even if it’s just a PR event enabling
+      Trump to exaggerate, misrepresent and brag about, it still puts pressure on the
+      Zelensky government and its European allies to respond. If Zelensky’s response
+      is an adamant ‘no deal’—which is almost certain—then it shows Russia is willing
+      to move off its negotiating position to get a peace deal but Ukraine (and Europe)
+      are not. And that weakens US neocon support to continue the war in turn—undermining
+      their current proposals so far held up in Congress to impose 500% tariffs on Russia,
+      secondary sanctions on buyers of Russian oil, and to provide Ukraine another $55
+      billion from the US Treasury. If Ukraine and Europe reject outright whatever comes
+      out of Alaska, Russia need not agree to any general ceasefire since the minimum
+      precondition likely for such ceasefire is for Ukraine to totally withdraw its
+      forces from Donetsk. It is already evident Zelensky and Europe will reject anything
+      coming out of Alaska. Just the announcement of the possible meeting in Alaska
+      elicited the immediate response by Zelensky and his government that they will
+      never agree to give Russia even one province (Donetsk) in exchange for a general
+      ceasefire. Similarly, Ukraine’s European allies also rejected the idea of any
+      concession and within 24 hours of the Alaska announcement publicly told Zelensky
+      he must continue the war. US Mainstream Media Leaks Events that got the ball rolling
+      toward a meeting in Alaska were set in motion by Trump’s sending his second special
+      envoy, Steve Witkoff, to Moscow last week. (Trump’s other envoy is General Kellogg
+      who had carried the water for the US neocons’ demands for Russia to ceasefire
+      first, then negotiate). What provoked Trump to send Witkoff? It may have been
+      Putin’s signal that Russia has now only two major demands: No NATO in Ukraine
+      and Ukraine acceptance that the four provinces (+ Crimea) are now part of Russia.
+      This appears as a concession without Russia actually making one. Putin’s demands
+      since June 2024, when he stated them succinctly, include both these preceding
+      prime demands but also several more: political neutrality by Ukraine, reduction
+      of Ukraine’s military to a force no larger than 80,000, denazification of its
+      government, and restoration of rights for ethnic Russian Ukrainians. These latter
+      points were not referenced by Putin who emphasized just the first two. That may
+      have been interpreted by Witkoff, who then convinced Trump the Russians may be
+      open to direct negotiations and a meeting. It was highly likely it was then that
+      Trump sent Witkoff to Moscow. That this was the likely scenario that led to the
+      announcement of a meeting was leaked by the Wall St. Journal and Bloomberg News
+      late last week. As the Journal suggested, Witkoff carried Trump’s proposal to
+      Putin for Russia to agree to a general ceasefire, providing Ukraine withdraw all
+      its forces remaining in Donetsk where fighting is the heaviest. In exchange for
+      the withdrawal, Putin would agree to ‘freeze in place’ immediately all Russia
+      forces elsewhere in Ukraine. The Journal and Bloomberg interpreted this to also
+      mean Russia would in turn give up the unoccupied areas of Kherson and Zaparozhie
+      provinces. But there’s no evidence of this and it is impossible Russia would,
+      given that all the provinces have been formally integrated into the Russian Constitution
+      and Putin could never agree to do so short of changing the Constitution. Of course,
+      Zelensky has also declared the four provinces and Crimea are part of the Ukrainian
+      Constitution and are non-negotiable. What this means is one side or the other
+      has to confront a Constitutional crisis in order to negotiate an end to the war.
+      That will not happen. It is likely there can never be a compromised, negotiated
+      settlement to the war—short of one side or the other (Ukraine or Russia) capitulating
+      completely on the battlefield. So why did Trump ever think he could single handedly
+      negotiate a settlement to the war? Was he so blinded by his ego to think it was
+      no different than negotiating some phony business deal? Was he misled by his neocon
+      advisers the past six months not communicating the actual positions of the parties?
+      Perhaps he wants a meeting to hear for himself? Not what his advisers tell him.
+      Does Trump know so little about the origins and history of this conflict and their
+      respective publics’ support? Why did Trump abandon his initial efforts to withdraw
+      the US from the conflict and around April bend to the demands of the neocons and
+      US Deep State and their EU allies, none of whom actually want an end to the war
+      on any terms. Their Kellogg Plan got nowhere. Now Trump is desperate to try something
+      else. So he grabbed at the possible shift by Putin and sent Witkoff to offer Putin
+      something more substantial. The Kellogg Plan is DOA, as the saying goes. So what
+      does Trump do now? By pushing the Kellogg Plan the past six months, Trump put
+      himself in the corner, appeared to have failed by August, thereafter threw out
+      some threats and an ultimatum that Putin had 50 days to end the war, then cut
+      it to 12, rattled his saber about sending US nuclear subs closer to Russia, and
+      sent some old nuclear gravity bombs to Britain. He then flip flopped again just
+      days before the 12 day deadline was up and sent Witkoff off to Moscow. What’s
+      Next Post Alaska? It doesn’t matter what’s discussed at the Alaska meeting. Or
+      what is or isn’t agreed to or announced afterward in the official ‘read out’ summary
+      report of the meeting, as it’s called. Nothing will change on the ground. The
+      war will continue. Why? Because Zelensky, his European backers Starmer, Merz,
+      Macron, and their US Deep State allies (Graham, Blumenthal, CIA , State Department)—along
+      with mainstream US corporate media outlets like NY Times, Washington Post, MSNBC
+      et. al.—all want the war to continue. Zelensky and the Europeans will reject whatever
+      comes out of the Alaska meeting. Moreover, they will try to do everything they
+      can to scuttle it before—with the cooperation and assistance of their US neocon
+      friends. Both the Europeans and Zelensky will desperately try to get to Trump
+      before the Alaska meeting. Both know face time is the key to turning Trump around.
+      It’s worked before. It was how last spring when Trump was in Rome and the Vatican
+      they got to him personally. He flipped and assumed a neocon position and had Kellogg
+      take the lead. Witkoff was ‘back-burnered’. Europeans have learned the formula
+      for dealing with Trump: appeal to his ego, inveigle him with flattery, grovel
+      if necessary. They even call him ‘daddy Trump’—as NATO’s director Rutte recently
+      did—when they meet with him. They’ve reportedly even dangled arranging a Nobel
+      peace prize for him. Both Zelensky and the Europeans will try desperately to inject
+      themselves into the Alaska meeting. They’ll work out a plan with their US neocon
+      friends to step up the pressure on Trump at home in Congress. Their security services
+      may even try to float a false flag threat that if Putin goes something dangerous
+      will happen to him, hoping the Russians thereby cancel. One should not discount
+      any of these possible counters or that Trump may be convinced to shift gears once
+      again. One need only remember Trump’s aborted efforts in his first term to meet
+      with North Korea’s president Kim and with China’s Xi, both initiatives were thwarted
+      by his neocon advisers and Deep State policy makers. For it is increasingly clear
+      the past half century at least that US presidents don’t determine US foreign policy
+      or its wars. They are but one of many political ‘nodes’ in the system that do.
+      And the neocons and Deep State—along with Israel and its deep influence over the
+      US government—are the arbiters and deciders of US foreign policy in the 21st century.
+      In conclusion therefore, one should not expect much from the upcoming Alaska meeting
+      between Trump and Putin, assuming it even comes off. Much can and will happen
+      in the next five days. At best it will be a media and PR event by Trump. It will
+      have little to no effect on the continuation of the war in Ukraine. And there
+      will be no Minsk III or IV or even Istanbul 2.0. The war will be decided on the
+      front line, as has always been the case. The war in Ukraine will continue so long
+      as Zelensky and his crew are in power. They will remain in power so long as the
+      Europeans want to continue the war. European leaders want to continue in order
+      to rescue their two decade old stagnant economy, hoping they can revive it with
+      a $1 trillion new expenditure and weapons industry by 2030. And the US neocons
+      who remain deeply entrenched in the US political system want it. Their combined
+      grand strategy is to keep Trump in check for the next three years, block and thwart
+      his foreign policy initiatives, wait him out, replace him in 2029 with another
+      more amenable US president again, hope that Putin disappears from the political
+      scene by then—and then escalate the war again. Jack Rasmus is author of the recently
+      published book, ‘The Scourge of Neoliberalism: US Economic Policy from Reagan
+      to Trump’, Clarity Press, 2020. He publishes at Predicting the Global Economic
+      Crisis'
+    one_sentence_summary: Dr. Jack Rasmus discusses the upcoming meeting between Putin
+      and Trump in Alaska, suggesting that while it may be framed as a negotiation to
+      end the Ukraine war, it could also serve as a pretext for Trump to initiate a
+      US withdrawal from the conflict amidst ongoing military support for Ukraine.
+    paragraph_summary: In a recent article, Dr. Jack Rasmus discusses the upcoming meeting
+      between Vladimir Putin and Donald Trump in Alaska, anticipated to take place around
+      August 15, 2025. While the U.S. media suggests the meeting aims to negotiate an
+      end to the war in Ukraine, Rasmus presents alternative interpretations. He posits
+      that Trump may seek to use the meeting as a pretext for a U.S. withdrawal from
+      military involvement in Ukraine, despite ongoing support for the conflict. Additionally,
+      the meeting could signal a revival of U.S.-Russia economic discussions, particularly
+      regarding Russian commodities, as well as an effort to persuade Putin to agree
+      to a ceasefire that involves territorial concessions in Ukraine. Overall, the
+      meeting's implications extend beyond mere peace negotiations, potentially reshaping
+      U.S. foreign policy and economic relations with Russia.
+    published: '2025-08-11T18:58:46+00:00'
+  - title: 'Putin-Trump Meeting: Endgame or PR Event'
+    url: https://jackrasmus.com/2025/08/11/putin-trump-meeting-endgame-or-pr-event/
+    text: 'by Dr. Jack Rasmus August 10, 2025 Putin and Trump last week agreed to meet
+      at a location in Alaska. Indications are the meeting will occur as soon as August
+      15, 2025 or soon after. In other words, in just days. Or perhaps a week or so
+      at most. If we’re to believe the US media, the meeting is about Trump and Putin
+      negotiating an end to the war in Ukraine. But does the meeting signify the start
+      of serious negotiations and the beginning of the end of the war in Ukraine? Not
+      necessarily. There are other possible interpretations for the meeting in Alaska:
+      A meeting with Putin may provide the cover for Trump to finally start an actual
+      US withdrawal from the conflict. After all, during the past nine months the US
+      has continued to send weapons, money and provide extensive military assistance
+      to Ukraine. While calling for Ukraine and Russia to stop fighting, the US has
+      continued to participate directly and deeply in the conflict providing general
+      tactical planning by high level US officers, intelligence, surveillance, reconnaissance,
+      communications, missile targeting, manning of technical equipment like Patriot
+      systems, training, and so on. Perhaps Trump wants to withdraw from these activities.
+      To do so he needs to show some kind of agreement with Putin as a justification.
+      Another interpretation is that the meeting is really about restarting discussions
+      on future US-Russia economic relations. These began in the months before April
+      2025, showed some initial progress, but then were quietly suspended. Trump would
+      no doubt like to ink some deals on Russian commodities, especially rare earths
+      that China has recently decided not to export to the US. And perhaps deepening
+      US-Russia economic relations sends a message to the Chinese the US is intensifying
+      efforts to split Russia from it. Yet another interpretation is that the purpose
+      of the meeting is to get Putin to agree to a general ceasefire by conceding a
+      ‘piece of the pie’, i.e. of one or two Ukraine provinces in the east where the
+      fighting is mostly occurring. Russia has already taken all of the Lughansk province.
+      Perhaps Trump will offer to Russia what it already has in Lughansk. More likely
+      is the offer of the second province of Donetsk where Russia has been gaining territory
+      daily but has only captured perhaps 60% of the total territory. By offering him
+      the two provinces in exchange for a general ceasefire everywhere before starting
+      negotiations on other issues, Trump is revising his original ‘Kellogg Plan’ that
+      called for ceasefire everywhere in exchange for nothing—which Russia has consistently
+      rejected since Trump took office. A fourth interpretation is that the meeting
+      is just another clever ruse by NATO and the west to lull Russia into a general
+      ceasefire, with no intention of Ukraine actually withdrawing forces anywhere.
+      According to this interpretation, Trump will offer a verbal or even written promise
+      that Ukraine will then negotiate in good faith. But if this case, it is a repeat
+      of the 2015 Minsk agreement signed by Ukraine and by Germany and France on behalf
+      of NATO, the purpose of which was to convince Russia to halt its destruction of
+      Ukraine’s forces at Debaltsovo that year which save the Ukraine army from defeat.
+      The Minsk agreement of 2015 provided Ukraine and NATO with a diplomatic victory
+      that halted Russia militarily and bought time for Ukraine to rebuild its military
+      and defensive fortifications in the east the next six years in preparation for
+      war. A fifth interpretation is the most likely, however. That argues the meeting
+      is just a last minute maneuver by Trump to stage a grand PR event, to be followed
+      by statements of agreements in principle by US and Russia which neither side expects
+      will take effect. Trump thereby gets a media event in which he brags he’s successfully
+      gotten the Russians to move toward a final agreement—after he failed to do so
+      the past six months. Trump thus declares a media ‘win’ for himself, even though
+      nothing changes on the ground in the aftermath and the war continues. A typical
+      Trump ‘smoke and mirrors’ event. Putin may even agree to such an offer and let
+      Trump have his much needed media victory. Even if it’s just a PR event enabling
+      Trump to exaggerate, misrepresent and brag about, it still puts pressure on the
+      Zelensky government and its European allies to respond. If Zelensky’s response
+      is an adamant ‘no deal’—which is almost certain—then it shows Russia is willing
+      to move off its negotiating position to get a peace deal but Ukraine (and Europe)
+      are not. And that weakens US neocon support to continue the war in turn—undermining
+      their current proposals so far held up in Congress to impose 500% tariffs on Russia,
+      secondary sanctions on buyers of Russian oil, and to provide Ukraine another $55
+      billion from the US Treasury. If Ukraine and Europe reject outright whatever comes
+      out of Alaska, Russia need not agree to any general ceasefire since the minimum
+      precondition likely for such ceasefire is for Ukraine to totally withdraw its
+      forces from Donetsk. It is already evident Zelensky and Europe will reject anything
+      coming out of Alaska. Just the announcement of the possible meeting in Alaska
+      elicited the immediate response by Zelensky and his government that they will
+      never agree to give Russia even one province (Donetsk) in exchange for a general
+      ceasefire. Similarly, Ukraine’s European allies also rejected the idea of any
+      concession and within 24 hours of the Alaska announcement publicly told Zelensky
+      he must continue the war. US Mainstream Media Leaks Events that got the ball rolling
+      toward a meeting in Alaska were set in motion by Trump’s sending his second special
+      envoy, Steve Witkoff, to Moscow last week. (Trump’s other envoy is General Kellogg
+      who had carried the water for the US neocons’ demands for Russia to ceasefire
+      first, then negotiate). What provoked Trump to send Witkoff? It may have been
+      Putin’s signal that Russia has now only two major demands: No NATO in Ukraine
+      and Ukraine acceptance that the four provinces (+ Crimea) are now part of Russia.
+      This appears as a concession without Russia actually making one. Putin’s demands
+      since June 2024, when he stated them succinctly, include both these preceding
+      prime demands but also several more: political neutrality by Ukraine, reduction
+      of Ukraine’s military to a force no larger than 80,000, denazification of its
+      government, and restoration of rights for ethnic Russian Ukrainians. These latter
+      points were not referenced by Putin who emphasized just the first two. That may
+      have been interpreted by Witkoff, who then convinced Trump the Russians may be
+      open to direct negotiations and a meeting. It was highly likely it was then that
+      Trump sent Witkoff to Moscow. That this was the likely scenario that led to the
+      announcement of a meeting was leaked by the Wall St. Journal and Bloomberg News
+      late last week. As the Journal suggested, Witkoff carried Trump’s proposal to
+      Putin for Russia to agree to a general ceasefire, providing Ukraine withdraw all
+      its forces remaining in Donetsk where fighting is the heaviest. In exchange for
+      the withdrawal, Putin would agree to ‘freeze in place’ immediately all Russia
+      forces elsewhere in Ukraine. The Journal and Bloomberg interpreted this to also
+      mean Russia would in turn give up the unoccupied areas of Kherson and Zaparozhie
+      provinces. But there’s no evidence of this and it is impossible Russia would,
+      given that all the provinces have been formally integrated into the Russian Constitution
+      and Putin could never agree to do so short of changing the Constitution. Of course,
+      Zelensky has also declared the four provinces and Crimea are part of the Ukrainian
+      Constitution and are non-negotiable. What this means is one side or the other
+      has to confront a Constitutional crisis in order to negotiate an end to the war.
+      That will not happen. It is likely there can never be a compromised, negotiated
+      settlement to the war—short of one side or the other (Ukraine or Russia) capitulating
+      completely on the battlefield. So why did Trump ever think he could single handedly
+      negotiate a settlement to the war? Was he so blinded by his ego to think it was
+      no different than negotiating some phony business deal? Was he misled by his neocon
+      advisers the past six months not communicating the actual positions of the parties?
+      Perhaps he wants a meeting to hear for himself? Not what his advisers tell him.
+      Does Trump know so little about the origins and history of this conflict and their
+      respective publics’ support? Why did Trump abandon his initial efforts to withdraw
+      the US from the conflict and around April bend to the demands of the neocons and
+      US Deep State and their EU allies, none of whom actually want an end to the war
+      on any terms. Their Kellogg Plan got nowhere. Now Trump is desperate to try something
+      else. So he grabbed at the possible shift by Putin and sent Witkoff to offer Putin
+      something more substantial. The Kellogg Plan is DOA, as the saying goes. So what
+      does Trump do now? By pushing the Kellogg Plan the past six months, Trump put
+      himself in the corner, appeared to have failed by August, thereafter threw out
+      some threats and an ultimatum that Putin had 50 days to end the war, then cut
+      it to 12, rattled his saber about sending US nuclear subs closer to Russia, and
+      sent some old nuclear gravity bombs to Britain. He then flip flopped again just
+      days before the 12 day deadline was up and sent Witkoff off to Moscow. What’s
+      Next Post Alaska? It doesn’t matter what’s discussed at the Alaska meeting. Or
+      what is or isn’t agreed to or announced afterward in the official ‘read out’ summary
+      report of the meeting, as it’s called. Nothing will change on the ground. The
+      war will continue. Why? Because Zelensky, his European backers Starmer, Merz,
+      Macron, and their US Deep State allies (Graham, Blumenthal, CIA , State Department)—along
+      with mainstream US corporate media outlets like NY Times, Washington Post, MSNBC
+      et. al.—all want the war to continue. Zelensky and the Europeans will reject whatever
+      comes out of the Alaska meeting. Moreover, they will try to do everything they
+      can to scuttle it before—with the cooperation and assistance of their US neocon
+      friends. Both the Europeans and Zelensky will desperately try to get to Trump
+      before the Alaska meeting. Both know face time is the key to turning Trump around.
+      It’s worked before. It was how last spring when Trump was in Rome and the Vatican
+      they got to him personally. He flipped and assumed a neocon position and had Kellogg
+      take the lead. Witkoff was ‘back-burnered’. Europeans have learned the formula
+      for dealing with Trump: appeal to his ego, inveigle him with flattery, grovel
+      if necessary. They even call him ‘daddy Trump’—as NATO’s director Rutte recently
+      did—when they meet with him. They’ve reportedly even dangled arranging a Nobel
+      peace prize for him. Both Zelensky and the Europeans will try desperately to inject
+      themselves into the Alaska meeting. They’ll work out a plan with their US neocon
+      friends to step up the pressure on Trump at home in Congress. Their security services
+      may even try to float a false flag threat that if Putin goes something dangerous
+      will happen to him, hoping the Russians thereby cancel. One should not discount
+      any of these possible counters or that Trump may be convinced to shift gears once
+      again. One need only remember Trump’s aborted efforts in his first term to meet
+      with North Korea’s president Kim and with China’s Xi, both initiatives were thwarted
+      by his neocon advisers and Deep State policy makers. For it is increasingly clear
+      the past half century at least that US presidents don’t determine US foreign policy
+      or its wars. They are but one of many political ‘nodes’ in the system that do.
+      And the neocons and Deep State—along with Israel and its deep influence over the
+      US government—are the arbiters and deciders of US foreign policy in the 21st century.
+      In conclusion therefore, one should not expect much from the upcoming Alaska meeting
+      between Trump and Putin, assuming it even comes off. Much can and will happen
+      in the next five days. At best it will be a media and PR event by Trump. It will
+      have little to no effect on the continuation of the war in Ukraine. And there
+      will be no Minsk III or IV or even Istanbul 2.0. The war will be decided on the
+      front line, as has always been the case. The war in Ukraine will continue so long
+      as Zelensky and his crew are in power. They will remain in power so long as the
+      Europeans want to continue the war. European leaders want to continue in order
+      to rescue their two decade old stagnant economy, hoping they can revive it with
+      a $1 trillion new expenditure and weapons industry by 2030. And the US neocons
+      who remain deeply entrenched in the US political system want it. Their combined
+      grand strategy is to keep Trump in check for the next three years, block and thwart
+      his foreign policy initiatives, wait him out, replace him in 2029 with another
+      more amenable US president again, hope that Putin disappears from the political
+      scene by then—and then escalate the war again. Jack Rasmus is author of the recently
+      published book, ‘The Scourge of Neoliberalism: US Economic Policy from Reagan
+      to Trump’, Clarity Press, 2020. He publishes at Predicting the Global Economic
+      Crisis'
+    one_sentence_summary: Dr. Jack Rasmus discusses the upcoming meeting between Putin
+      and Trump in Alaska, suggesting that while it may be framed as a negotiation to
+      end the Ukraine war, it could also serve as a pretext for Trump to initiate a
+      US withdrawal from the conflict amidst ongoing military support for Ukraine.
+    paragraph_summary: In a recent article, Dr. Jack Rasmus discusses the upcoming meeting
+      between Vladimir Putin and Donald Trump in Alaska, anticipated to take place around
+      August 15, 2025. While the U.S. media suggests the meeting aims to negotiate an
+      end to the war in Ukraine, Rasmus presents alternative interpretations. He posits
+      that Trump may seek to use the meeting as a pretext for a U.S. withdrawal from
+      military involvement in Ukraine, despite ongoing support for the conflict. Additionally,
+      the meeting could signal a revival of U.S.-Russia economic discussions, particularly
+      regarding Russian commodities, as well as an effort to persuade Putin to agree
+      to a ceasefire that involves territorial concessions in Ukraine. Overall, the
+      meeting's implications extend beyond mere peace negotiations, potentially reshaping
+      U.S. foreign policy and economic relations with Russia.
+    published: '2025-08-11T18:58:46+00:00'
+  - title: Recession Door Opens in US
+    url: https://jackrasmus.com/2025/08/06/recession-door-opens-in-us/
+    text: 'This past week was punctuated by a perfect storm of negative US economic
+      reports and events. Together they mean the door to recession in the US has now
+      opened—quite contrary to all of Trump’s hype that the US economy is doing great.
+      The reports in question are the July jobs report lasts Friday and the advanced
+      (preliminary) US GDP report for the 2 nd quarter (April-June) released a few days
+      before. The events associated with these reports were (1)Trump’s announcement
+      imposing widespread tariff hikes ranging from 15% to 41% on more than 40 countries,
+      with even higher tariffs previously announced on China, Russia, Mexico, Canada
+      as well as ‘across the board’ global tariffs steel, aluminum, copper and other
+      commodities; (2) and The Federal Reserve bank’s decision to keep US interest rates
+      at current levels for at least another six weeks. If last week’s 2 nd quarter
+      GDP data unlocked the door to recession, then last Friday’s Jobs data kicked it
+      wide open. And Trump’s tariffs coming behind threaten to blow it off its hinges.
+      The Jobs Data Tsunami It’s generally acknowledged that jobs are a lagging indicator
+      of the condition of the US economy. If so, the July Jobs report shows that there’s
+      no more lag. Jobs have caught up and Friday’s August 1, 2025 report shows Labor
+      Market conditions in the US economy are now flashing red. According to the US
+      Labor Department’s Establishment Survey (CES) only 73,000 net new jobs were created
+      in July. Moreover, this number is likely to be downward revised, since the July
+      jobs report also revised its previous May and June reports downward big time:
+      for May, the jobs created were reduced from an initially reported 144,000 jobs
+      created that month to only 19,000 in fact: for June, the revision was from 147,000
+      to 14,000. So when July is similarly revised, it’s highly likely the 73,000 will
+      be reduced dramatically as well. This will mean the total jobs created over the
+      past three months will be barely 50,000! It’s generally acknowledged the economy
+      has 125,000 new workers entering the labor force and economy every month. The
+      economy must therefore create that many jobs every month just to absorb new entrants,
+      mostly youths seeking jobs for the first time. Only 50,000 created means more
+      than 300,000 are entering the ranks of the unemployed not gainful employment.
+      The US Labor Department has a second jobs survey to the CES, which covers mostly
+      large companies. The second survey is called the Current Population Survey or
+      CPS. It covers more small and medium sized businesses as well as unemployment
+      levels the CES does not report. The CPS report on Friday showed that new entrants’
+      unemployment rise by 275,000 in July. The plight of new workers seeking employment
+      is not the only negative indicator of a rapidly deteriorating US labor market
+      this summer. Here’s some other telling job indicators: The general level of employment
+      in July fell by -260,000. It would have been an even greater decline had the level
+      of part time employment not also risen by 433,000 as well. No doubt many companies
+      converted their full time employed workers to part time in lieu of laying them
+      off. Conversion of full time to part time typically occurs with the onset of early
+      stages of recession. Beyond just July, the CPS revealed that since May 1 the Employment
+      level for the US economy in general declined by -863,000. The unemployment rate,
+      also indicated by the CPS only, remains at approximately 8% for the entire US
+      labor force of 170 million—not the ‘official unemployment rate of 4.2% one consistently
+      reported by the mainstream media and hyped by politicians. The 8% includes the
+      50 million plus part time, temp, discouraged, independent contractor, gig and
+      similar job categories that the ‘official’ 4.2% excludes. The 8% means there’s
+      roughly 14 million US workers unemployed or underemployed. Of that 14 million,
+      those unemployed long term (more than 27 weeks) has risen sharply as well over
+      the summer. In July alone their numbers rose by 179,000. Multiple statistics show
+      the band-aid has been ripped off the obfuscation of the real condition of the
+      labor market that has prevailed for at least this past year, exposing the long
+      festering wound beneath. The labor market has been weak for some time, as this
+      writer has been reporting repeatedly over the past year. One needed only to look
+      behind the mainstream media’s cherry picked reporting of the most favorable numbers
+      in the two jobs reports, ignoring other data in the same reports that were growing
+      consistently weaker. What’s different the past three months, and in the July report
+      in particular, is that the real rot in the jobs market could no longer be covered
+      up by selective media reporting or by politicians’ hype. Trump’s response to the
+      recent jobs data has been to shoot the messenger, as he quickly announced his
+      firing of the Labor Department’s statistics chief. But there’s no politically
+      ‘cooked numbers’ to make him look bad here, as Trump claims. It’s just that the
+      facts have now deteriorated to such an extent that even efforts to pave over the
+      pot holes with marginal under-reporting and selective media reporting can no longer
+      cover up the true condition of the deteriorating jobs ‘road-bed’. The US GDP April-June
+      Report The second report indicating the US economy now balances on the precipice
+      of recession is the advance (preliminary) US GDP report for the 2 nd Quarter 2025.
+      Here’s just three reasons why the announced 3% growth rate is not actually 3%.
+      First, readers should understand the US, virtually alone among advanced economies,
+      puffs up its quarterly GDP numbers by multiplying the quarter change from the
+      previous quarter by annualizing it. That is, 3% for the 2 nd quarter is actually
+      4 times roughly what the economy actually grew from the previous 1 st quarter.
+       3% sounds a lot better than 0.75% if one is publicly hyping the growth rate in
+      the media. However, even the 3%(0.75%) is grossly over-estimated for several reasons.
+      Here’s just two of many: First, real GDP is artificially boosted by under-estimating
+      the real rate of inflation. This occurs every report. Second, in the case of the
+      2 nd quarter GDP report, the 3% is grossly over-estimated by temporary effects
+      due to Trump’s current tariffs policies now rolling out which has dramatically
+      distorted the contribution to GDP from what is called ‘net exports’—i.e. the difference
+      and gap between imports into the US and US exports to the rest of the world.  For
+      decades, imports have significantly exceeded exports. The result is that ‘net
+      exports’, as the gap is called, has been a consistent subtraction from GDP from
+      other categories like consumer spending, business investment, and government spending.
+      Let’s look at the under-reporting of real GDP due to low-balling inflation, and
+      then the volatile impact of Trump’s tariffs on GDP for the entire first half of
+      2025. (How Under-Estimating Inflation Over-Estimates GDP) When the government
+      reports GDP it’s for what’s called ‘real’ GDP. Real means adjusted for inflation
+      (unadjusted is called ‘nominal’ GDP). The media reports the ‘real’. For the 2
+      nd quarter that was the 3%. The problem is the inflation adjustment used greatly
+      understates actual inflation. And the more it underestimates actual inflation,
+      the more in turn real GDP is over-estimated. The price index used to estimate
+      real GDP is called the PCE. For the 2 nd quarter the PCE was 2.1%. In the first
+      quarter it was higher, at 3.7%. So simply by reducing PCE from 3.7% to 2.1%, all
+      things equal the real GDP of 3% was boosted by a 1.6% lower PCE in the 2 nd quarter.
+       If PCE in the 2 nd quarter was 3.7% as in the 1 st quarter, then 2 nd quarter
+      real GDP would be 1.4% instead of the reported 3%. Ok. Some will argue perhaps
+      inflation did abate significantly in the 2 nd quarter compared to the first. Perhaps
+      inflation was indeed 40%+ less in the 2 nd compared to the 1 st . But whichever
+      the quarter PCE grossly underestimates actual inflation for dozens of reasons
+      due to faulty assumptions and questionable methodologies used by the government
+      to get PCE. Don’t think the government actually goes out and surveys price changes
+      by businesses to get the PCE, like it does the other price index called the Consumer
+      Price Index. It doesn’t. PCE is determined totally by estimating prices from other
+      sources than the actual prices charged by businesses. For example, let’s take
+      insurance costs for home, auto, etc. which have been surging the past year. Insurance
+      prices aren’t surveyed. They are extrapolated from insurance company profits.
+      If the big insurance companies hide their profits in order to pay less taxes—which
+      they do—then insurance inflation is grossly underestimated. But that’s what happens
+      with PCE. How about rent inflation. Rents in the PCE index are calculated from
+      reported new rental contracts from a subset of big apartment owners. Landlord
+      price hikes for renters with existing contracts do not report price hikes within
+      the term of the rental contract. There are dozens such examples that result in
+      PCE underestimating actual inflation. Nonethless, PCE is used to low ball actual
+      inflation in order in turn to over-estimate reported ‘real’ GDP. In short, 3%
+      GDP in 2 nd quarter is not actual GDP because PCE inflation is not actual inflation.
+      There are many other ways GDP in general is always over-estimated, apart from
+      the faulty inflation adjustment. There are issues with seasonality adjustment
+      methodologies. There are issues with how GDP is periodically re-defined in order
+      to make it look larger. The latest such example was in 2013 when the government
+      included as business investment items like business logos, trademarks, R&D expenses,
+      IP and other similarly un-estimable values. The government simply accepts whatever
+      businesses tell it are the increase in value (and thus price) of these ephemeral
+      items, and then adds them to GDP.  When first introduced more than a decade ago,
+      this boosted real GDP from business investment by more than $500 billion a year.
+      Thus real business investment and its contribution to GDP is, and has been, less
+      than reported every year. Trump Tariffs & Volatile Net Exports The even bigger
+      reason why the 2 nd quarter GDP growth of 3% is misrepresented has to do with
+      Trump’s recent tariffs and trade policies. Briefly stated: nearly all of the 2
+      nd quarter 3% GDP growth was due to the collapse of imports to the US economy
+      in the quarter in response to Trump’s tariffs. In the 1 st quarter 2025, companies
+      increased their imports excessively in anticipation of Trump’s coming tariffs.
+      That artificially exacerbated the gap between exports from the US and imports
+      to the US. A big negative number resulted, as imports exceeded exports by a wide
+      margin. Imports thus subtracted from overall GDP calculation in the 1 st quarter,
+      overwhelming the effect on GDP from government spending, consumption, and business
+      investment. GDP thus contracted by -0.5% in the first quarter. Virtually all due
+      to the effect of import surge. This flipped in the 2 nd quarter. Imports that
+      formerly surged in the 1 st quarter collapsed in the 2 nd . The difference between
+      imports and exports now added to GDP. How much? Around 5% or 2% more than the
+      actual 3% GDP. So what subtracted from the 5% to get the 3%? Business investment
+      contracted, government spending flattened to virtually zero and consumption slowed.
+      That knocked 2% off the 5% from imports-exports to get to the 3%. Considering
+      both quarters, it’s clear tariff policy and its impact on exports and imports,
+      especially the latter, is distorting the numbers for GDP in the first half of
+      the year 2025. But beneath this what’s happening is business investment, a more
+      permanent and less volatile factor in GDP determination, is steadily falling.
+      In part due to tariff and trade volatility but also due to more fundamental forces
+      and developments within the US economy. The same can be said for consumer spending,
+      now steadily slowing even if still growing. In addition, Trump fiscal policies—spending
+      cuts for social programs, government employment, and department dismantling are
+      also building pressure toward less government GDP contribution. US Economy Next
+      6-12 Months The US economy is now at the precipice of recession and will likely
+      deteriorate further over the next 6 to 12 months, and especially so in 2026. Here’s
+      why: Trump’s ‘big beautiful bill’ Act just passed by the Congress will have a
+      net negative impact on GDP, and will not boost US economic growth as Trump claims.
+      Most of the at least $3 trillion in corporate and individual (and estate) tax
+      cuts are just a continuation of previous 2018 cuts. The effect of the 2025 bill
+      is just to make them permanent. That’s not net new fiscal stimulus from tax cutting.
+      Meanwhile, the so-called working class $500 billion tax cuts in the bill—for tips,
+      overtime pay, social security, interest on new cars, etc.—have been dramatically
+      reduced and made temporary. In contrast, the program and employment spending cuts
+      in the bill—for Medicaid, ACA subsidies, education, layoffs of federal workers,
+      and so on—amount to at least $1.5 trillion and take effect immediately. They will
+      significantly reduce current consumer spending this year and next. Furthermore,
+      Trump’s cuts in spending and layoffs will soon begin to spill over to state and
+      local government spending cuts and layoffs, as the states will have to make up
+      for reduced Federal government support and find ways to continue education, health
+      and other spending from their own budgets. They too will have to begin layoffs
+      and cuts to programs, both of which will exacerbate consumer spending in their
+      states. Add to all this what economists call the ‘multiplier effects’. Tax cut
+      multiplier effects are less than spending cuts multiplier effects. Tax cuts don’t
+      immediately result in more investment by businesses or wealthy investors. They
+      lag. Moreover, the more the cuts accrue to the more wealthy and corporations,
+      the less is actually spent of the total cuts. Some of the cuts are just hoarded.
+      Some are distributed to shareholders as stock buybacks and dividend payouts. Some
+      are invested in financial asset markets, none of which add to GDP. And some are
+      redirected to offshore investment which also contributes nothing to US GDP. So
+      tax multiplier positive effects are relatively low, and increasingly so in the
+      21 st century as the US economy has globalized and financialized. In contrast,
+      the multiplier negative effects from spending on programs and jobs are immediate
+      and much higher. This is especially more so, to the extent the spending cuts negatively
+      impact incomes of middle to low income levels, which the Trump spending cuts clearly
+      target. In other words, the composition of the Trump tax and spending cuts are
+      net negative and exacerbate the negative multiplier effects of the combined tax
+      and spending cuts as well. In summary, over the next year US GDP is likely to
+      weaken due to less consumer spending—as state and local government layoffs rise
+      and Trump spending cuts take effect as well as due to less immediate and historically
+      low impacts of tax cuts on the real economy—while the short term positive effect
+      on Imports-Exports on 2 nd quarter GDP dissipates. The recent Jobs and GDP reports
+      reveal the door to near term recession has opened. Trump tariff, tax and spending
+      policies will likely kick it wide open as they take effect. Jack Rasmus'
+    one_sentence_summary: Recent negative economic reports and events, including disappointing
+      job and GDP data, coupled with President Trump's aggressive tariff hikes, have
+      signaled that the US economy may be heading towards recession, contradicting previous
+      claims of economic strength.
+    paragraph_summary: Recent US economic reports indicate a troubling trend, suggesting
+      that the country may be on the brink of recession, countering President Trump's
+      assertions of a strong economy. The July jobs report revealed only 73,000 new
+      jobs created, with significant downward revisions to previous months' figures,
+      indicating a total of around 50,000 jobs added over three months. Additionally,
+      the preliminary GDP report for the second quarter raised concerns, while Trump's
+      announcement of substantial tariff hikes on over 40 countries, including major
+      economies like China and Canada, further exacerbates the situation. The Federal
+      Reserve's decision to maintain current interest rates for at least six more weeks
+      adds to the uncertainty, suggesting that the labor market conditions are deteriorating
+      rapidly.
+    published: '2025-08-06T18:20:09+00:00'
+  - title: Recession Door Opens in US
+    url: https://jackrasmus.com/2025/08/06/recession-door-opens-in-us/
+    text: 'This past week was punctuated by a perfect storm of negative US economic
+      reports and events. Together they mean the door to recession in the US has now
+      opened—quite contrary to all of Trump’s hype that the US economy is doing great.
+      The reports in question are the July jobs report lasts Friday and the advanced
+      (preliminary) US GDP report for the 2 nd quarter (April-June) released a few days
+      before. The events associated with these reports were (1)Trump’s announcement
+      imposing widespread tariff hikes ranging from 15% to 41% on more than 40 countries,
+      with even higher tariffs previously announced on China, Russia, Mexico, Canada
+      as well as ‘across the board’ global tariffs steel, aluminum, copper and other
+      commodities; (2) and The Federal Reserve bank’s decision to keep US interest rates
+      at current levels for at least another six weeks. If last week’s 2 nd quarter
+      GDP data unlocked the door to recession, then last Friday’s Jobs data kicked it
+      wide open. And Trump’s tariffs coming behind threaten to blow it off its hinges.
+      The Jobs Data Tsunami It’s generally acknowledged that jobs are a lagging indicator
+      of the condition of the US economy. If so, the July Jobs report shows that there’s
+      no more lag. Jobs have caught up and Friday’s August 1, 2025 report shows Labor
+      Market conditions in the US economy are now flashing red. According to the US
+      Labor Department’s Establishment Survey (CES) only 73,000 net new jobs were created
+      in July. Moreover, this number is likely to be downward revised, since the July
+      jobs report also revised its previous May and June reports downward big time:
+      for May, the jobs created were reduced from an initially reported 144,000 jobs
+      created that month to only 19,000 in fact: for June, the revision was from 147,000
+      to 14,000. So when July is similarly revised, it’s highly likely the 73,000 will
+      be reduced dramatically as well. This will mean the total jobs created over the
+      past three months will be barely 50,000! It’s generally acknowledged the economy
+      has 125,000 new workers entering the labor force and economy every month. The
+      economy must therefore create that many jobs every month just to absorb new entrants,
+      mostly youths seeking jobs for the first time. Only 50,000 created means more
+      than 300,000 are entering the ranks of the unemployed not gainful employment.
+      The US Labor Department has a second jobs survey to the CES, which covers mostly
+      large companies. The second survey is called the Current Population Survey or
+      CPS. It covers more small and medium sized businesses as well as unemployment
+      levels the CES does not report. The CPS report on Friday showed that new entrants’
+      unemployment rise by 275,000 in July. The plight of new workers seeking employment
+      is not the only negative indicator of a rapidly deteriorating US labor market
+      this summer. Here’s some other telling job indicators: The general level of employment
+      in July fell by -260,000. It would have been an even greater decline had the level
+      of part time employment not also risen by 433,000 as well. No doubt many companies
+      converted their full time employed workers to part time in lieu of laying them
+      off. Conversion of full time to part time typically occurs with the onset of early
+      stages of recession. Beyond just July, the CPS revealed that since May 1 the Employment
+      level for the US economy in general declined by -863,000. The unemployment rate,
+      also indicated by the CPS only, remains at approximately 8% for the entire US
+      labor force of 170 million—not the ‘official unemployment rate of 4.2% one consistently
+      reported by the mainstream media and hyped by politicians. The 8% includes the
+      50 million plus part time, temp, discouraged, independent contractor, gig and
+      similar job categories that the ‘official’ 4.2% excludes. The 8% means there’s
+      roughly 14 million US workers unemployed or underemployed. Of that 14 million,
+      those unemployed long term (more than 27 weeks) has risen sharply as well over
+      the summer. In July alone their numbers rose by 179,000. Multiple statistics show
+      the band-aid has been ripped off the obfuscation of the real condition of the
+      labor market that has prevailed for at least this past year, exposing the long
+      festering wound beneath. The labor market has been weak for some time, as this
+      writer has been reporting repeatedly over the past year. One needed only to look
+      behind the mainstream media’s cherry picked reporting of the most favorable numbers
+      in the two jobs reports, ignoring other data in the same reports that were growing
+      consistently weaker. What’s different the past three months, and in the July report
+      in particular, is that the real rot in the jobs market could no longer be covered
+      up by selective media reporting or by politicians’ hype. Trump’s response to the
+      recent jobs data has been to shoot the messenger, as he quickly announced his
+      firing of the Labor Department’s statistics chief. But there’s no politically
+      ‘cooked numbers’ to make him look bad here, as Trump claims. It’s just that the
+      facts have now deteriorated to such an extent that even efforts to pave over the
+      pot holes with marginal under-reporting and selective media reporting can no longer
+      cover up the true condition of the deteriorating jobs ‘road-bed’. The US GDP April-June
+      Report The second report indicating the US economy now balances on the precipice
+      of recession is the advance (preliminary) US GDP report for the 2 nd Quarter 2025.
+      Here’s just three reasons why the announced 3% growth rate is not actually 3%.
+      First, readers should understand the US, virtually alone among advanced economies,
+      puffs up its quarterly GDP numbers by multiplying the quarter change from the
+      previous quarter by annualizing it. That is, 3% for the 2 nd quarter is actually
+      4 times roughly what the economy actually grew from the previous 1 st quarter.
+       3% sounds a lot better than 0.75% if one is publicly hyping the growth rate in
+      the media. However, even the 3%(0.75%) is grossly over-estimated for several reasons.
+      Here’s just two of many: First, real GDP is artificially boosted by under-estimating
+      the real rate of inflation. This occurs every report. Second, in the case of the
+      2 nd quarter GDP report, the 3% is grossly over-estimated by temporary effects
+      due to Trump’s current tariffs policies now rolling out which has dramatically
+      distorted the contribution to GDP from what is called ‘net exports’—i.e. the difference
+      and gap between imports into the US and US exports to the rest of the world.  For
+      decades, imports have significantly exceeded exports. The result is that ‘net
+      exports’, as the gap is called, has been a consistent subtraction from GDP from
+      other categories like consumer spending, business investment, and government spending.
+      Let’s look at the under-reporting of real GDP due to low-balling inflation, and
+      then the volatile impact of Trump’s tariffs on GDP for the entire first half of
+      2025. (How Under-Estimating Inflation Over-Estimates GDP) When the government
+      reports GDP it’s for what’s called ‘real’ GDP. Real means adjusted for inflation
+      (unadjusted is called ‘nominal’ GDP). The media reports the ‘real’. For the 2
+      nd quarter that was the 3%. The problem is the inflation adjustment used greatly
+      understates actual inflation. And the more it underestimates actual inflation,
+      the more in turn real GDP is over-estimated. The price index used to estimate
+      real GDP is called the PCE. For the 2 nd quarter the PCE was 2.1%. In the first
+      quarter it was higher, at 3.7%. So simply by reducing PCE from 3.7% to 2.1%, all
+      things equal the real GDP of 3% was boosted by a 1.6% lower PCE in the 2 nd quarter.
+       If PCE in the 2 nd quarter was 3.7% as in the 1 st quarter, then 2 nd quarter
+      real GDP would be 1.4% instead of the reported 3%. Ok. Some will argue perhaps
+      inflation did abate significantly in the 2 nd quarter compared to the first. Perhaps
+      inflation was indeed 40%+ less in the 2 nd compared to the 1 st . But whichever
+      the quarter PCE grossly underestimates actual inflation for dozens of reasons
+      due to faulty assumptions and questionable methodologies used by the government
+      to get PCE. Don’t think the government actually goes out and surveys price changes
+      by businesses to get the PCE, like it does the other price index called the Consumer
+      Price Index. It doesn’t. PCE is determined totally by estimating prices from other
+      sources than the actual prices charged by businesses. For example, let’s take
+      insurance costs for home, auto, etc. which have been surging the past year. Insurance
+      prices aren’t surveyed. They are extrapolated from insurance company profits.
+      If the big insurance companies hide their profits in order to pay less taxes—which
+      they do—then insurance inflation is grossly underestimated. But that’s what happens
+      with PCE. How about rent inflation. Rents in the PCE index are calculated from
+      reported new rental contracts from a subset of big apartment owners. Landlord
+      price hikes for renters with existing contracts do not report price hikes within
+      the term of the rental contract. There are dozens such examples that result in
+      PCE underestimating actual inflation. Nonethless, PCE is used to low ball actual
+      inflation in order in turn to over-estimate reported ‘real’ GDP. In short, 3%
+      GDP in 2 nd quarter is not actual GDP because PCE inflation is not actual inflation.
+      There are many other ways GDP in general is always over-estimated, apart from
+      the faulty inflation adjustment. There are issues with seasonality adjustment
+      methodologies. There are issues with how GDP is periodically re-defined in order
+      to make it look larger. The latest such example was in 2013 when the government
+      included as business investment items like business logos, trademarks, R&D expenses,
+      IP and other similarly un-estimable values. The government simply accepts whatever
+      businesses tell it are the increase in value (and thus price) of these ephemeral
+      items, and then adds them to GDP.  When first introduced more than a decade ago,
+      this boosted real GDP from business investment by more than $500 billion a year.
+      Thus real business investment and its contribution to GDP is, and has been, less
+      than reported every year. Trump Tariffs & Volatile Net Exports The even bigger
+      reason why the 2 nd quarter GDP growth of 3% is misrepresented has to do with
+      Trump’s recent tariffs and trade policies. Briefly stated: nearly all of the 2
+      nd quarter 3% GDP growth was due to the collapse of imports to the US economy
+      in the quarter in response to Trump’s tariffs. In the 1 st quarter 2025, companies
+      increased their imports excessively in anticipation of Trump’s coming tariffs.
+      That artificially exacerbated the gap between exports from the US and imports
+      to the US. A big negative number resulted, as imports exceeded exports by a wide
+      margin. Imports thus subtracted from overall GDP calculation in the 1 st quarter,
+      overwhelming the effect on GDP from government spending, consumption, and business
+      investment. GDP thus contracted by -0.5% in the first quarter. Virtually all due
+      to the effect of import surge. This flipped in the 2 nd quarter. Imports that
+      formerly surged in the 1 st quarter collapsed in the 2 nd . The difference between
+      imports and exports now added to GDP. How much? Around 5% or 2% more than the
+      actual 3% GDP. So what subtracted from the 5% to get the 3%? Business investment
+      contracted, government spending flattened to virtually zero and consumption slowed.
+      That knocked 2% off the 5% from imports-exports to get to the 3%. Considering
+      both quarters, it’s clear tariff policy and its impact on exports and imports,
+      especially the latter, is distorting the numbers for GDP in the first half of
+      the year 2025. But beneath this what’s happening is business investment, a more
+      permanent and less volatile factor in GDP determination, is steadily falling.
+      In part due to tariff and trade volatility but also due to more fundamental forces
+      and developments within the US economy. The same can be said for consumer spending,
+      now steadily slowing even if still growing. In addition, Trump fiscal policies—spending
+      cuts for social programs, government employment, and department dismantling are
+      also building pressure toward less government GDP contribution. US Economy Next
+      6-12 Months The US economy is now at the precipice of recession and will likely
+      deteriorate further over the next 6 to 12 months, and especially so in 2026. Here’s
+      why: Trump’s ‘big beautiful bill’ Act just passed by the Congress will have a
+      net negative impact on GDP, and will not boost US economic growth as Trump claims.
+      Most of the at least $3 trillion in corporate and individual (and estate) tax
+      cuts are just a continuation of previous 2018 cuts. The effect of the 2025 bill
+      is just to make them permanent. That’s not net new fiscal stimulus from tax cutting.
+      Meanwhile, the so-called working class $500 billion tax cuts in the bill—for tips,
+      overtime pay, social security, interest on new cars, etc.—have been dramatically
+      reduced and made temporary. In contrast, the program and employment spending cuts
+      in the bill—for Medicaid, ACA subsidies, education, layoffs of federal workers,
+      and so on—amount to at least $1.5 trillion and take effect immediately. They will
+      significantly reduce current consumer spending this year and next. Furthermore,
+      Trump’s cuts in spending and layoffs will soon begin to spill over to state and
+      local government spending cuts and layoffs, as the states will have to make up
+      for reduced Federal government support and find ways to continue education, health
+      and other spending from their own budgets. They too will have to begin layoffs
+      and cuts to programs, both of which will exacerbate consumer spending in their
+      states. Add to all this what economists call the ‘multiplier effects’. Tax cut
+      multiplier effects are less than spending cuts multiplier effects. Tax cuts don’t
+      immediately result in more investment by businesses or wealthy investors. They
+      lag. Moreover, the more the cuts accrue to the more wealthy and corporations,
+      the less is actually spent of the total cuts. Some of the cuts are just hoarded.
+      Some are distributed to shareholders as stock buybacks and dividend payouts. Some
+      are invested in financial asset markets, none of which add to GDP. And some are
+      redirected to offshore investment which also contributes nothing to US GDP. So
+      tax multiplier positive effects are relatively low, and increasingly so in the
+      21 st century as the US economy has globalized and financialized. In contrast,
+      the multiplier negative effects from spending on programs and jobs are immediate
+      and much higher. This is especially more so, to the extent the spending cuts negatively
+      impact incomes of middle to low income levels, which the Trump spending cuts clearly
+      target. In other words, the composition of the Trump tax and spending cuts are
+      net negative and exacerbate the negative multiplier effects of the combined tax
+      and spending cuts as well. In summary, over the next year US GDP is likely to
+      weaken due to less consumer spending—as state and local government layoffs rise
+      and Trump spending cuts take effect as well as due to less immediate and historically
+      low impacts of tax cuts on the real economy—while the short term positive effect
+      on Imports-Exports on 2 nd quarter GDP dissipates. The recent Jobs and GDP reports
+      reveal the door to near term recession has opened. Trump tariff, tax and spending
+      policies will likely kick it wide open as they take effect. Jack Rasmus'
+    one_sentence_summary: Recent negative economic reports and events, including disappointing
+      job and GDP data, coupled with President Trump's aggressive tariff hikes, have
+      signaled that the US economy may be heading towards recession, contradicting previous
+      claims of economic strength.
+    paragraph_summary: Recent US economic reports indicate a troubling trend, suggesting
+      that the country may be on the brink of recession, countering President Trump's
+      assertions of a strong economy. The July jobs report revealed only 73,000 new
+      jobs created, with significant downward revisions to previous months' figures,
+      indicating a total of around 50,000 jobs added over three months. Additionally,
+      the preliminary GDP report for the second quarter raised concerns, while Trump's
+      announcement of substantial tariff hikes on over 40 countries, including major
+      economies like China and Canada, further exacerbates the situation. The Federal
+      Reserve's decision to maintain current interest rates for at least six more weeks
+      adds to the uncertainty, suggesting that the labor market conditions are deteriorating
+      rapidly.
+    published: '2025-08-06T18:20:09+00:00'
   - title: America’s 25 Year Tax Cutting & Fiscal Train Wreck
     url: https://jackrasmus.com/2025/07/11/americas-25-year-tax-cutting-fiscal-train-wreck/
     text: 'by Jack Rasmus Last week the US Congress passed the Trump Tax Cuts. The mainstream

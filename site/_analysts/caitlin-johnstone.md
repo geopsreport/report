@@ -7,17 +7,1188 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The ongoing crisis in Gaza continues to dominate independent analysis, with increasing scrutiny on Western media narratives and public discourse. Over the past 24 hours, new commentary has focused on the role of prominent media figures and the shifting boundaries of acceptable debate in the West.
+  The ongoing crisis in Gaza remains the focal point of global geopolitical discourse, with recent developments further deepening skepticism about diplomatic solutions and intensifying scrutiny of Israel’s military conduct. The situation is widely recognized by independent analysts as emblematic of broader issues—imperialism, colonialism, and systemic injustice—making it, as **Caitlin Johnstone** puts it, “the moral question of our time.”
   
-  **Caitlin Johnstone**’s latest edition, "A Stark Raving Mad Society," singles out Piers Morgan for his controversial media tactics and moral posturing regarding genocide. Johnstone argues that such figures are emblematic of a broader Western media environment that prioritizes spectacle and selective outrage over substantive engagement with atrocities, particularly those committed in Gaza. This critique comes amid mounting frustration over the persistent denial or minimization of what Johnstone and a growing number of observers now openly call genocide.
+  The latest analysis underscores a growing consensus that the two-state solution, long touted as the path to peace, has become a “sham.” According to **Johnstone** (August 13), Israel’s entrenched militaristic and colonial policies render any prospect of genuine Palestinian sovereignty unattainable. She argues that “the two-state solution for Palestinians is unrealistic and unlikely to lead to true sovereignty or peace,” reflecting a majority view among critical observers that current diplomatic frameworks are fundamentally flawed.
   
-  Recent analysis also highlights the increasing disconnect between public awareness and official narratives. As Johnstone notes, “it is unacceptable for informed adults to deny the realities of the situation in Gaza,” referencing the deliberate starvation, destruction of healthcare infrastructure, and restrictions on foreign journalists as evidence of intent and systematic policy. The majority view among independent analysts is that the Western public is being shielded from the full extent of the crisis through both media framing and government policy.
+  Meanwhile, the humanitarian situation in Gaza continues to deteriorate. **Johnstone** (August 12) frames the ongoing violence as a genocide, urging that “stopping the Gaza holocaust is the first step toward a healthy world.” This perspective is gaining traction as reports of deliberate starvation, targeted killings—including the assassination of journalists—and the destruction of healthcare infrastructure circulate widely. The targeting of media workers, especially the recent killing of five Al Jazeera journalists, is seen as part of a broader strategy to obscure the realities on the ground and suppress independent reporting.
   
-  This environment of distraction and apathy is further explored in Johnstone’s "In This Dystopia," which critiques society’s tendency to focus on entertainment and trivialities while ignoring systemic atrocities. The implication is that, absent a significant shift in public consciousness and media accountability, the situation in Gaza is likely to persist with little meaningful intervention from Western powers.
-  
-  **Trends and Predictions:**  
-  The trend toward greater acknowledgment of genocide among both liberal Israelis and Western commentators is accelerating, but this is matched by entrenched resistance within mainstream media and political circles. There is a high chance that public pressure—such as the recent mass protests in Australia—will continue to grow, but without a corresponding shift in elite discourse, policy change remains unlikely in the near term. I guarantee that the information environment will remain a key battleground, with independent voices pushing against the dominant narratives and calling for greater transparency and accountability.
+  Looking ahead, the prevailing trend is one of escalating international outrage and mobilization, as evidenced by mass protests and increasing calls for accountability. However, analysts remain deeply pessimistic about the prospects for meaningful change in the near term. Based on the current trajectory and the entrenched positions of key actors, there is a high chance that the crisis will persist, with **Johnstone** and others expressing “high confidence” that neither diplomatic breakthroughs nor substantive policy shifts are imminent. The expectation is that the situation in Gaza will continue to serve as a litmus test for global justice, with mounting pressure on governments and institutions to respond to what is increasingly recognized as a defining atrocity of the era.
 articles:
+  - title: The Two-State Solution Sham, And Other Reader Questions
+    url: https://www.caitlinjohnst.one/p/the-two-state-solution-sham-and-other
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      I’m just going to answer questions from readers for a while. ❖ Lorna asks on Facebook,
+      “Is the 2 state solution a solution …or a delusion??” Israeli officials have been
+      telling us themselves that it’s a delusion for a while now, and I think we should
+      believe them. Everything about Israel is stacked against allowing the creation
+      of a Palestinian state, and even if the Palestinians do get a meaningful state
+      somehow, what then? Israel is constantly at war with its neighbors who refuse
+      to obey its dictates, so a “Palestinian state” would likely either be (A) Israel
+      continuing to bomb and massacre Palestinians just like they’re doing now, or (B)
+      Palestinians obeying the dictates of Tel Aviv and not being meaningfully sovereign.
+      The truth is that Palestinians will never be free as long as Israel exists as
+      the hypermilitaristic racist settler-colonialist state that it is. The way to
+      have peace and freedom is to give everyone equal rights, grant right of return
+      for displaced Palestinians, right the wrongs of the past, and for Israel and its
+      western allies to pay so many reparations to Palestinians that the wounds of the
+      past are no longer felt by future generations. Israelis will never go along with
+      this unless they are forced to, but they won’t stop any of their evils unless
+      they are forced to anyway. The world is going to have to force them to stop, just
+      like it had to force Nazi Germany to stop. ❖ Christine asks on Substack, “What
+      do you do for self care? You spend so much time fighting the good cause, does
+      Mr F look after you well?” Mr F (my husband Tim Foley for those who don’t know)
+      gives me a full-body massage for one hour every day. We go through so many massage
+      oils I’ve been ordering big professional-sized jugs from an industrial supplier.
+      I also take baths when I’m feeling overwhelmed. Mostly though the key for both
+      of us is tons of inner work. We’ve got an energetic practice we developed on our
+      own for healing trauma and getting rid of inner fixations, and when we’re feeling
+      overwhelmed we can just discharge the energy. Tim places more emphasis on nonduality
+      and eastern spirituality in his practice, while my practices are more somatic
+      in nature. Over the years we’ve gotten very good at talking each other through
+      whatever issues we’re going through at any point in time. I don’t understand how
+      anyone engages with this stuff without tons of inner work. I know I personally
+      would have drowned in the darkness of the world a long time ago if I wasn’t healing
+      my way through this thing. ❖ Naterian asks on Twitter, “When did you first become
+      aware of the injustice in palestine? What year, what age were you, what event
+      was it that fully opened your eyes to how dire the situation was?” My father taught
+      me about the plight of the Palestinians back in the early eighties, which he had
+      initially learned about from some people distributing literature in the city mall.
+      After that it was a few different experiences over the years that opened my eyes
+      wider bit by bit, including my troubling encounters with Israeli tourists while
+      traveling in South America and watching Israeli snipers fire on unarmed protesters
+      in 2018. And actually my eyes are still being opened. Israel still finds ways
+      to shock me with its abusiveness and depravity to this very day. Just when I think
+      I’ve seen the full scope of its evil, I find more. I’m learning more about the
+      kind of malice and tyranny that Palestinians have been living under every day.
+      ❖ Tom asks on Substack, “What’s going to happen after recognition?” It’s not clear
+      at this time that much of anything will happen after governments like the UK,
+      France, Canada and Australia go through with their planned recognition of a Palestinian
+      state. What are they going to do, plant a Palestinian flag in the rubble of Gaza?
+      Hand people Palestinian passports while they’re being rounded up in concentration
+      camps in preparation for mass deportations? The immediate problem right now isn’t
+      that Palestinians don’t have a state, it’s that Israel has spent the last two
+      years capitalizing on the rare window of political will which was afforded by
+      October 7 to rapidly push through as many of its pre-existing military agendas
+      as it possibly can. That’s not going to be stopped by giving a diplomatic thumbs-up
+      to Palestinian statehood, it’s going to be stopped by imposing costs which outweigh
+      the benefits of what Israel is doing. Hard economic sanctions. The termination
+      of military and arms agreements. Making Israel a pariah state in every possible
+      way. Collectively threatening to terminate alliances with the United States in
+      order to pressure the US to bring Israel to heel. Israelis have an acute understanding
+      of the difference between narrative and real material benefits. They’re happy
+      to keep doing what they like and grabbing as many hard material benefits as they
+      can while western governments make performative gestures that amount to nothing
+      but narrative. They’ll let us have our narratives as long as they get the material
+      land grabs and strategic gains they’re after. It’s not until the material costs
+      outweigh the material benefits that they’ll stop acting the way they are acting.
+      ❖ Barbarism Critic writes on Twitter, “As a budding writer who loves your work
+      I would love to hear your best advice for how to stay fresh and write consistently
+      when you start to feel like your retreading the same waters again and again.”
+      I think being really obsessive helps, to be honest. Making a vocation out of this
+      thing instead of just something you do here and there means you’re always pointing
+      at it and coming up with different angles and fresh ideas, even when the news
+      cycle hasn’t changed much. The daily news is an endless source of new material.
+      Right now Antiwar.com and Drop Site News are the best resources for finding important
+      news updates on what the empire is up to from day to day, and Antiwar’s Dave DeCamp
+      has a great show on YouTube which he puts out every weekday breaking down the
+      latest moves of the imperial war machine. You can pick any story that sparks your
+      interest and just write whatever you reckon about it. And again I have to point
+      toward inner work as an essential component of this. Writing can’t flow freely
+      from expansive directions if you’re in a state of inner turmoil all the time,
+      and as you explore your psyche you’ll have all kinds of new insights which tie
+      into what’s going on in the world in all kinds of ways. Also please remember that
+      there are two of me; everything you read here comes from both me and Tim, so you
+      shouldn’t see it as a problem if your volume isn’t the same as ours. Being a team
+      of two means we’ve got twice as much time and energy for both writing and research,
+      and if one of us gets busy or has an off day the other can pick up the slack.
+      We’re also constantly in conversation about this stuff inspiring each other and
+      coming up with new ideas. I’ve seen individual writers beat themselves up about
+      not being able to write new stuff every day like Caitlin Johnstone does, as though
+      “Caitlin Johnstone” is just one person and not a team of two. ❖ Sinwa asks on
+      Facebook, “Where do you think it will all end?” Honestly? I reckon we win this
+      thing. In the short term things look ugly, but in the big picture people are waking
+      up to the reality of the empire at a rate that would have been unthinkable a few
+      years ago. As a species we’re getting better and better at networking and sharing
+      information with each other, while the empire is getting more ham-fisted and obvious
+      every day. I can’t see that trajectory continuing in a way that works out well
+      for our rulers. It’s taboo to express optimism on the internet, but I’m honestly
+      more optimistic about beating these bastards than I’ve ever been before. It’s
+      scary and nasty now, but the scariest and nastiest moments in my abusive first
+      marriage happened right before I got out. If I told you I’m pessimistic about
+      our future, I’d be lying. I think we win, and I think we get a healthy world.
+      If you have a question you’d like answered, just write it in the comments section
+      of whatever platform you’re reading this on and I’ll try to get to it. ____________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that the two-state solution for Palestinians
+      is unrealistic and unlikely to lead to true sovereignty or peace, as Israel's
+      militaristic and colonial policies prevent genuine freedom for Palestinians.
+    paragraph_summary: In response to a reader's question about the viability of the
+      two-state solution for Israel and Palestine, the article argues that it is more
+      of a delusion than a feasible resolution, as Israeli officials have indicated.
+      The author contends that the current political and military dynamics make true
+      Palestinian sovereignty impossible, suggesting that any future Palestinian state
+      would either be subject to ongoing violence from Israel or lack genuine autonomy.
+      The author advocates for a more equitable approach that includes equal rights
+      for all, the right of return for displaced Palestinians, and reparations from
+      Israel and its allies to address historical injustices. The piece concludes with
+      a personal note on self-care practices, highlighting the author's reliance on
+      daily massages from her husband and the importance of inner work for both of them.
+    published: '2025-08-13T02:35:05+00:00'
+  - title: The Two-State Solution Sham, And Other Reader Questions
+    url: https://www.caitlinjohnst.one/p/the-two-state-solution-sham-and-other
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      I’m just going to answer questions from readers for a while. ❖ Lorna asks on Facebook,
+      “Is the 2 state solution a solution …or a delusion??” Israeli officials have been
+      telling us themselves that it’s a delusion for a while now, and I think we should
+      believe them. Everything about Israel is stacked against allowing the creation
+      of a Palestinian state, and even if the Palestinians do get a meaningful state
+      somehow, what then? Israel is constantly at war with its neighbors who refuse
+      to obey its dictates, so a “Palestinian state” would likely either be (A) Israel
+      continuing to bomb and massacre Palestinians just like they’re doing now, or (B)
+      Palestinians obeying the dictates of Tel Aviv and not being meaningfully sovereign.
+      The truth is that Palestinians will never be free as long as Israel exists as
+      the hypermilitaristic racist settler-colonialist state that it is. The way to
+      have peace and freedom is to give everyone equal rights, grant right of return
+      for displaced Palestinians, right the wrongs of the past, and for Israel and its
+      western allies to pay so many reparations to Palestinians that the wounds of the
+      past are no longer felt by future generations. Israelis will never go along with
+      this unless they are forced to, but they won’t stop any of their evils unless
+      they are forced to anyway. The world is going to have to force them to stop, just
+      like it had to force Nazi Germany to stop. ❖ Christine asks on Substack, “What
+      do you do for self care? You spend so much time fighting the good cause, does
+      Mr F look after you well?” Mr F (my husband Tim Foley for those who don’t know)
+      gives me a full-body massage for one hour every day. We go through so many massage
+      oils I’ve been ordering big professional-sized jugs from an industrial supplier.
+      I also take baths when I’m feeling overwhelmed. Mostly though the key for both
+      of us is tons of inner work. We’ve got an energetic practice we developed on our
+      own for healing trauma and getting rid of inner fixations, and when we’re feeling
+      overwhelmed we can just discharge the energy. Tim places more emphasis on nonduality
+      and eastern spirituality in his practice, while my practices are more somatic
+      in nature. Over the years we’ve gotten very good at talking each other through
+      whatever issues we’re going through at any point in time. I don’t understand how
+      anyone engages with this stuff without tons of inner work. I know I personally
+      would have drowned in the darkness of the world a long time ago if I wasn’t healing
+      my way through this thing. ❖ Naterian asks on Twitter, “When did you first become
+      aware of the injustice in palestine? What year, what age were you, what event
+      was it that fully opened your eyes to how dire the situation was?” My father taught
+      me about the plight of the Palestinians back in the early eighties, which he had
+      initially learned about from some people distributing literature in the city mall.
+      After that it was a few different experiences over the years that opened my eyes
+      wider bit by bit, including my troubling encounters with Israeli tourists while
+      traveling in South America and watching Israeli snipers fire on unarmed protesters
+      in 2018. And actually my eyes are still being opened. Israel still finds ways
+      to shock me with its abusiveness and depravity to this very day. Just when I think
+      I’ve seen the full scope of its evil, I find more. I’m learning more about the
+      kind of malice and tyranny that Palestinians have been living under every day.
+      ❖ Tom asks on Substack, “What’s going to happen after recognition?” It’s not clear
+      at this time that much of anything will happen after governments like the UK,
+      France, Canada and Australia go through with their planned recognition of a Palestinian
+      state. What are they going to do, plant a Palestinian flag in the rubble of Gaza?
+      Hand people Palestinian passports while they’re being rounded up in concentration
+      camps in preparation for mass deportations? The immediate problem right now isn’t
+      that Palestinians don’t have a state, it’s that Israel has spent the last two
+      years capitalizing on the rare window of political will which was afforded by
+      October 7 to rapidly push through as many of its pre-existing military agendas
+      as it possibly can. That’s not going to be stopped by giving a diplomatic thumbs-up
+      to Palestinian statehood, it’s going to be stopped by imposing costs which outweigh
+      the benefits of what Israel is doing. Hard economic sanctions. The termination
+      of military and arms agreements. Making Israel a pariah state in every possible
+      way. Collectively threatening to terminate alliances with the United States in
+      order to pressure the US to bring Israel to heel. Israelis have an acute understanding
+      of the difference between narrative and real material benefits. They’re happy
+      to keep doing what they like and grabbing as many hard material benefits as they
+      can while western governments make performative gestures that amount to nothing
+      but narrative. They’ll let us have our narratives as long as they get the material
+      land grabs and strategic gains they’re after. It’s not until the material costs
+      outweigh the material benefits that they’ll stop acting the way they are acting.
+      ❖ Barbarism Critic writes on Twitter, “As a budding writer who loves your work
+      I would love to hear your best advice for how to stay fresh and write consistently
+      when you start to feel like your retreading the same waters again and again.”
+      I think being really obsessive helps, to be honest. Making a vocation out of this
+      thing instead of just something you do here and there means you’re always pointing
+      at it and coming up with different angles and fresh ideas, even when the news
+      cycle hasn’t changed much. The daily news is an endless source of new material.
+      Right now Antiwar.com and Drop Site News are the best resources for finding important
+      news updates on what the empire is up to from day to day, and Antiwar’s Dave DeCamp
+      has a great show on YouTube which he puts out every weekday breaking down the
+      latest moves of the imperial war machine. You can pick any story that sparks your
+      interest and just write whatever you reckon about it. And again I have to point
+      toward inner work as an essential component of this. Writing can’t flow freely
+      from expansive directions if you’re in a state of inner turmoil all the time,
+      and as you explore your psyche you’ll have all kinds of new insights which tie
+      into what’s going on in the world in all kinds of ways. Also please remember that
+      there are two of me; everything you read here comes from both me and Tim, so you
+      shouldn’t see it as a problem if your volume isn’t the same as ours. Being a team
+      of two means we’ve got twice as much time and energy for both writing and research,
+      and if one of us gets busy or has an off day the other can pick up the slack.
+      We’re also constantly in conversation about this stuff inspiring each other and
+      coming up with new ideas. I’ve seen individual writers beat themselves up about
+      not being able to write new stuff every day like Caitlin Johnstone does, as though
+      “Caitlin Johnstone” is just one person and not a team of two. ❖ Sinwa asks on
+      Facebook, “Where do you think it will all end?” Honestly? I reckon we win this
+      thing. In the short term things look ugly, but in the big picture people are waking
+      up to the reality of the empire at a rate that would have been unthinkable a few
+      years ago. As a species we’re getting better and better at networking and sharing
+      information with each other, while the empire is getting more ham-fisted and obvious
+      every day. I can’t see that trajectory continuing in a way that works out well
+      for our rulers. It’s taboo to express optimism on the internet, but I’m honestly
+      more optimistic about beating these bastards than I’ve ever been before. It’s
+      scary and nasty now, but the scariest and nastiest moments in my abusive first
+      marriage happened right before I got out. If I told you I’m pessimistic about
+      our future, I’d be lying. I think we win, and I think we get a healthy world.
+      If you have a question you’d like answered, just write it in the comments section
+      of whatever platform you’re reading this on and I’ll try to get to it. ____________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that the two-state solution for Palestinians
+      is unrealistic and unlikely to lead to true sovereignty or peace, as Israel's
+      militaristic and colonial policies prevent genuine freedom for Palestinians.
+    paragraph_summary: In response to a reader's question about the viability of the
+      two-state solution for Israel and Palestine, the article argues that it is more
+      of a delusion than a feasible resolution, as Israeli officials have indicated.
+      The author contends that the current political and military dynamics make true
+      Palestinian sovereignty impossible, suggesting that any future Palestinian state
+      would either be subject to ongoing violence from Israel or lack genuine autonomy.
+      The author advocates for a more equitable approach that includes equal rights
+      for all, the right of return for displaced Palestinians, and reparations from
+      Israel and its allies to address historical injustices. The piece concludes with
+      a personal note on self-care practices, highlighting the author's reliance on
+      daily massages from her husband and the importance of inner work for both of them.
+    published: '2025-08-13T02:35:05+00:00'
+  - title: Stopping The Gaza Holocaust Is The First Step Toward A Healthy World
+    url: https://www.caitlinjohnst.one/p/stopping-the-gaza-holocaust-is-the
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Nicole on Facebook writes, “I would love to hear you explain how Palestine is
+      the moral question of our time. Why it’s so important. How it’s related to every
+      movement and should be a concern to everyone.” Palestine is the moral question
+      of our time because the abuse of the Palestinians is the most glaring, in-your-face
+      symptom of the imperial disease. You can see the effects of so many of the empire’s
+      abusive dynamics in how this thing is playing out, from racism to colonialism
+      to militarism to war profiteering to mass media propaganda to empire-building
+      to government corruption to suppression of free speech to ecocide to the heartless,
+      mindless, soul-eating nature of the capitalist system under which we all live.
+      But there’s more to it than that. The primary reason to place Palestine front
+      and center as the moral issue of our time is because if we can’t sort out the
+      morality of an active genocide backed by our own western governments, we’re not
+      going to be able to sort out anything else. Stopping the Gaza holocaust and bringing
+      justice to the Palestinians is the very first step toward a healthy civilization.
+      Palestine is the moral issue of our time for the same reason if you saw someone
+      in your family torturing another member of your family to death, it would be the
+      most urgent matter happening in your life at that moment. You’d have other problems
+      in your life, but that would come first. If we’re the sort of society that would
+      allow a live-streamed genocide to take place with the support of our own government
+      and its allies, then we’re not the sort of society that can steer away from its
+      trajectory toward dystopia and armageddon. If you’re the sort of individual who
+      would allow a live-streamed genocide to take place with the support of your own
+      government and its allies, then you’re not the sort of individual who can help
+      steer our species away from disaster. Gaza is not the only thing that matters
+      in the world. But if you’re not forcefully opposing the Gaza holocaust, you definitely
+      don’t have a healthy enough conscience to address any of the world’s other problems.
+      I sometimes see Israel supporters refer to pro-Palestine sentiment as “virtue
+      signaling”, which is funny because it means they view themselves as holding the
+      unpopular, unvirtuous position. But really there’s nothing particularly virtuous
+      about supporting Gaza, and it’s not some cool, special thing you’d want to signal
+      about yourself. It’s just what you do when you’re not an extremely shitty person.
+      It’s the basic, bare-minimum expectation of normal human morality. I don’t want
+      to be friends with anyone who doesn’t oppose the Gaza holocaust. I don’t want
+      to follow any commentators or analysts who don’t speak out against the Gaza holocaust.
+      At this point I don’t even want to listen to any music or read any poetry from
+      people who don’t take a stand against the Gaza holocaust. Since 2023 I’ve moved
+      from rejecting anyone who actively sided with Israel to rejecting anyone who is
+      even complicit in their silence. The other day I saw some Australian influencer
+      forcefully trying to assert that it’s okay not to take a position on Gaza, and
+      nobody in her replies was buying it. Supporting Israel and aligning with US foreign
+      policy comes with a lot of career benefits for high-profile individuals, and you
+      don’t get to both enjoy those perks and also keep ethical people interested in
+      what you have to say. You can’t have it both ways. You have to choose between
+      the perks and the people. You actually do. Opposition to the Gaza holocaust is
+      the very first step in assessing if someone is worth my time. If you can’t even
+      meet the basic, bare-minimum expectation of opposing an active genocide, then
+      you are too callous and apathetic to be my friend. If you can’t even get this
+      basic, kindergarten-level moral question right, then your mind is too shallow
+      and your heart too hardened for me to be interested in your analysis, your ideas,
+      your politics, or your art. There are so many terrible things in our world, and
+      there is so much work that needs to be done to address them. I don’t know what
+      ideas, strategies and movements will get us out of this mess, but I do know that
+      if any are going to emerge they’re going to come from the people who’ve been taking
+      a strong stand against Israel and its western allies these last two years. Those
+      are the individuals, movements, and political factions to pay attention to going
+      forward. Nobody else is equipped to help. ____________ Caitlin’s Newsletter is
+      a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image by Tony Webster via Wikimedia
+      Commons (CC BY 2.0)'
+    one_sentence_summary: The situation in Palestine is considered the moral question
+      of our time as it exemplifies the broader issues of imperialism, racism, colonialism,
+      and capitalism, highlighting the urgent need to address the ongoing genocide and
+      its implications for global justice.
+    paragraph_summary: The article argues that the situation in Palestine represents
+      the most pressing moral issue of our time, highlighting the abuse of Palestinians
+      as a clear manifestation of broader imperial dynamics, including racism, colonialism,
+      and militarism. It asserts that addressing the ongoing genocide in Gaza, which
+      is supported by Western governments, is crucial for the moral integrity of society
+      and for the potential to rectify other societal issues. The author emphasizes
+      that if individuals and governments can tolerate such atrocities, it signals a
+      deeper moral failure that threatens the future of civilization. The urgency of
+      the Palestinian struggle is likened to witnessing a family member being harmed,
+      suggesting that it should take precedence over other concerns in order to foster
+      a healthier society.
+    published: '2025-08-12T23:01:45+00:00'
+  - title: Stopping The Gaza Holocaust Is The First Step Toward A Healthy World
+    url: https://www.caitlinjohnst.one/p/stopping-the-gaza-holocaust-is-the
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Nicole on Facebook writes, “I would love to hear you explain how Palestine is
+      the moral question of our time. Why it’s so important. How it’s related to every
+      movement and should be a concern to everyone.” Palestine is the moral question
+      of our time because the abuse of the Palestinians is the most glaring, in-your-face
+      symptom of the imperial disease. You can see the effects of so many of the empire’s
+      abusive dynamics in how this thing is playing out, from racism to colonialism
+      to militarism to war profiteering to mass media propaganda to empire-building
+      to government corruption to suppression of free speech to ecocide to the heartless,
+      mindless, soul-eating nature of the capitalist system under which we all live.
+      But there’s more to it than that. The primary reason to place Palestine front
+      and center as the moral issue of our time is because if we can’t sort out the
+      morality of an active genocide backed by our own western governments, we’re not
+      going to be able to sort out anything else. Stopping the Gaza holocaust and bringing
+      justice to the Palestinians is the very first step toward a healthy civilization.
+      Palestine is the moral issue of our time for the same reason if you saw someone
+      in your family torturing another member of your family to death, it would be the
+      most urgent matter happening in your life at that moment. You’d have other problems
+      in your life, but that would come first. If we’re the sort of society that would
+      allow a live-streamed genocide to take place with the support of our own government
+      and its allies, then we’re not the sort of society that can steer away from its
+      trajectory toward dystopia and armageddon. If you’re the sort of individual who
+      would allow a live-streamed genocide to take place with the support of your own
+      government and its allies, then you’re not the sort of individual who can help
+      steer our species away from disaster. Gaza is not the only thing that matters
+      in the world. But if you’re not forcefully opposing the Gaza holocaust, you definitely
+      don’t have a healthy enough conscience to address any of the world’s other problems.
+      I sometimes see Israel supporters refer to pro-Palestine sentiment as “virtue
+      signaling”, which is funny because it means they view themselves as holding the
+      unpopular, unvirtuous position. But really there’s nothing particularly virtuous
+      about supporting Gaza, and it’s not some cool, special thing you’d want to signal
+      about yourself. It’s just what you do when you’re not an extremely shitty person.
+      It’s the basic, bare-minimum expectation of normal human morality. I don’t want
+      to be friends with anyone who doesn’t oppose the Gaza holocaust. I don’t want
+      to follow any commentators or analysts who don’t speak out against the Gaza holocaust.
+      At this point I don’t even want to listen to any music or read any poetry from
+      people who don’t take a stand against the Gaza holocaust. Since 2023 I’ve moved
+      from rejecting anyone who actively sided with Israel to rejecting anyone who is
+      even complicit in their silence. The other day I saw some Australian influencer
+      forcefully trying to assert that it’s okay not to take a position on Gaza, and
+      nobody in her replies was buying it. Supporting Israel and aligning with US foreign
+      policy comes with a lot of career benefits for high-profile individuals, and you
+      don’t get to both enjoy those perks and also keep ethical people interested in
+      what you have to say. You can’t have it both ways. You have to choose between
+      the perks and the people. You actually do. Opposition to the Gaza holocaust is
+      the very first step in assessing if someone is worth my time. If you can’t even
+      meet the basic, bare-minimum expectation of opposing an active genocide, then
+      you are too callous and apathetic to be my friend. If you can’t even get this
+      basic, kindergarten-level moral question right, then your mind is too shallow
+      and your heart too hardened for me to be interested in your analysis, your ideas,
+      your politics, or your art. There are so many terrible things in our world, and
+      there is so much work that needs to be done to address them. I don’t know what
+      ideas, strategies and movements will get us out of this mess, but I do know that
+      if any are going to emerge they’re going to come from the people who’ve been taking
+      a strong stand against Israel and its western allies these last two years. Those
+      are the individuals, movements, and political factions to pay attention to going
+      forward. Nobody else is equipped to help. ____________ Caitlin’s Newsletter is
+      a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image by Tony Webster via Wikimedia
+      Commons (CC BY 2.0)'
+    one_sentence_summary: The situation in Palestine is considered the moral question
+      of our time as it exemplifies the broader issues of imperialism, racism, colonialism,
+      and capitalism, highlighting the urgent need to address the ongoing genocide and
+      its implications for global justice.
+    paragraph_summary: The article argues that the situation in Palestine represents
+      the most pressing moral issue of our time, highlighting the abuse of Palestinians
+      as a clear manifestation of broader imperial dynamics, including racism, colonialism,
+      and militarism. It asserts that addressing the ongoing genocide in Gaza, which
+      is supported by Western governments, is crucial for the moral integrity of society
+      and for the potential to rectify other societal issues. The author emphasizes
+      that if individuals and governments can tolerate such atrocities, it signals a
+      deeper moral failure that threatens the future of civilization. The urgency of
+      the Palestinian struggle is likened to witnessing a family member being harmed,
+      suggesting that it should take precedence over other concerns in order to foster
+      a healthier society.
+    published: '2025-08-12T23:01:45+00:00'
+  - title: Israel Assassinates More Journalists To Hide Its Planned War Crimes
+    url: https://www.caitlinjohnst.one/p/israel-assassinates-more-journalists
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now Ahead of a planned Israeli assault on Gaza
+      City which UN officials warn will further exacerbate death and suffering for the
+      Palestinian people, Israel has chosen to assassinate five Al Jazeera journalists
+      who’ve been stationed there. Among those killed was Anas al-Sharif, one of the
+      most high-profile surviving reporters in Gaza. The IDF is of course claiming that
+      al-Sharif was Hamas, because that’s what they always do. They’ve been murdering
+      a historically unprecedented number of journalists and defending their systematic
+      effort to blind the world to their actions in Gaza by claiming that every journalist
+      they kill is Hamas. The journalists are Hamas, the hospitals are Hamas, the UN
+      is Hamas, the peace activists are Hamas, the demonstrations are Hamas, telling
+      the truth is Hamas, human empathy is Hamas, objective reality is Hamas. It’s all
+      Hamas. That Israel would feel the need to draw attention to its depravity with
+      this targeted strike at this time shows it has some very ugly intentions for Gaza
+      City that it doesn’t want the world to see. ❖ One of the many plot holes in Israel’s
+      claim that it can’t let foreign journalists into Gaza because it’s not safe is
+      that there are now huge areas which have been completely captured and controlled
+      by the IDF. That’s where the GHF sites are, which is where journalists are most
+      sorely needed right now. It’s not like it’s 2023/2024 and journalists would need
+      to follow Israeli forces into Gaza City to document gun battles with Hamas or
+      take their crews through areas where the IDF could be carrying out air strikes.
+      They could safely just set up their cameras at aid distribution sites and document
+      what’s happening. The only reason this hasn’t occurred is because Israel doesn’t
+      want the world to see what it’s doing at those aid distribution sites. There is
+      absolutely no other explanation. ❖ British police arrested 522 people for holding
+      signs saying “I oppose genocide, I support Palestine Action” in response to their
+      government banning the activist group as a terrorist organization. Nearly half
+      of those arrested were over sixty years old. When I was young and naive I thought
+      terrorism looks like someone detonating a car bomb or crashing planes into skyscrapers.
+      Now that I’m mature and educated I know that terrorism actually looks like an
+      elderly woman holding a sign saying people should be allowed to oppose genocide.
+      This is a society that has gone stark raving insane. ❖ U2 frontman Bono has finally
+      issued a statement calling for peace in Gaza two years into a genocide, and however
+      bad you expected it to be I guarantee it’s worse. He works his way through pretty
+      much every pro-genocide Israeli talking point while pretending to care about Palestinians.
+      He spends paragraphs on October 7, mentions the word “Hamas” 14 times, falsely
+      claims “Hamas are using starvation as a weapon in the war,” says “Hamas had deliberately
+      positioned themselves under civilian targets, having tunneled their way from school
+      to mosque to hospital,” babbles about the 1988 Hamas charter while ignoring its
+      2017 revisions , blames the whole thing on Netanyahu, and of course mentions “Israel’s
+      right to exist.” I seriously think he hit every major hasbara talking point. I
+      don’t think he missed a single one. It’s genocide propaganda disguised as humanitarianism.
+      Bono is a piece of shit. ❖ I judge the character of Jewish people based on how
+      much they oppose the genocide in Gaza. This is also how I judge the character
+      of anyone who is not Jewish. ❖ As soon as someone says they support Israel for
+      religious reasons, you can dismiss anything they say in defense of Israel’s actions,
+      because you know they’ll tell any lie and promote any kind of propaganda in order
+      to advance their religious mission. They’re not engaging the subject to share
+      facts and communicate, they’re engaging it to obtain promised rewards in the afterlife
+      and please an invisible deity. They’ll say whatever they need to say in order
+      to make this happen. Think about it. If you sincerely held the religious belief
+      that Israel needs to be supported no matter what in order to fulfill some kind
+      of prophecy, or that if you don’t promote the interests of Israel you’ll be tortured
+      for eternity in Hell, or that Actual Metaphysical Yahweh has commanded that helping
+      Israel is the single most important thing in the world, would you not say whatever
+      you need to say and promote whatever narratives you need to promote in order to
+      help make that happen? Of course you would. It’s not about facts and truth for
+      such people, it’s about getting into Heaven and bringing back Jesus and stuff.
+      The instant someone admits to supporting Israel for religious reasons, there’s
+      no reason to believe anything else they say. Because you know they’ll say things
+      they don’t really know to be true and pretend to believe things they don’t really
+      believe in order to do what they’ve been told is the most important thing they
+      can possibly do with their lives. It’s impossible to have a truth-based conversation
+      with such a person. _____________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image is a screen grab from Al Jazeera English (Fair Use).'
+    one_sentence_summary: In the lead-up to a planned assault on Gaza City, Israel has
+      assassinated five Al Jazeera journalists, including prominent reporter Anas al-Sharif,
+      while justifying these actions by labeling them as Hamas affiliates, reflecting
+      a broader strategy to obscure the realities of its military operations in Gaza.
+    paragraph_summary: Ahead of an anticipated Israeli offensive on Gaza City, Israel
+      has assassinated five Al Jazeera journalists, including prominent reporter Anas
+      al-Sharif, amid claims that they were affiliated with Hamas. The Israeli Defense
+      Forces (IDF) have consistently justified the killing of journalists by labeling
+      them as Hamas operatives, thereby attempting to obscure the reality of their actions
+      in Gaza. This pattern of violence against the press reflects Israel's intent to
+      prevent global scrutiny of its operations, particularly in areas where aid is
+      being distributed, suggesting a deliberate effort to conceal the humanitarian
+      crisis unfolding in the region. The article highlights the contradiction in Israel's
+      claims about safety for foreign journalists, noting that secure areas exist where
+      coverage could occur without risk, further implying that the true motive is to
+      hide the extent of the suffering in Gaza.
+    published: '2025-08-11T02:39:47+00:00'
+  - title: Israel Assassinates More Journalists To Hide Its Planned War Crimes
+    url: https://www.caitlinjohnst.one/p/israel-assassinates-more-journalists
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now Ahead of a planned Israeli assault on Gaza
+      City which UN officials warn will further exacerbate death and suffering for the
+      Palestinian people, Israel has chosen to assassinate five Al Jazeera journalists
+      who’ve been stationed there. Among those killed was Anas al-Sharif, one of the
+      most high-profile surviving reporters in Gaza. The IDF is of course claiming that
+      al-Sharif was Hamas, because that’s what they always do. They’ve been murdering
+      a historically unprecedented number of journalists and defending their systematic
+      effort to blind the world to their actions in Gaza by claiming that every journalist
+      they kill is Hamas. The journalists are Hamas, the hospitals are Hamas, the UN
+      is Hamas, the peace activists are Hamas, the demonstrations are Hamas, telling
+      the truth is Hamas, human empathy is Hamas, objective reality is Hamas. It’s all
+      Hamas. That Israel would feel the need to draw attention to its depravity with
+      this targeted strike at this time shows it has some very ugly intentions for Gaza
+      City that it doesn’t want the world to see. ❖ One of the many plot holes in Israel’s
+      claim that it can’t let foreign journalists into Gaza because it’s not safe is
+      that there are now huge areas which have been completely captured and controlled
+      by the IDF. That’s where the GHF sites are, which is where journalists are most
+      sorely needed right now. It’s not like it’s 2023/2024 and journalists would need
+      to follow Israeli forces into Gaza City to document gun battles with Hamas or
+      take their crews through areas where the IDF could be carrying out air strikes.
+      They could safely just set up their cameras at aid distribution sites and document
+      what’s happening. The only reason this hasn’t occurred is because Israel doesn’t
+      want the world to see what it’s doing at those aid distribution sites. There is
+      absolutely no other explanation. ❖ British police arrested 522 people for holding
+      signs saying “I oppose genocide, I support Palestine Action” in response to their
+      government banning the activist group as a terrorist organization. Nearly half
+      of those arrested were over sixty years old. When I was young and naive I thought
+      terrorism looks like someone detonating a car bomb or crashing planes into skyscrapers.
+      Now that I’m mature and educated I know that terrorism actually looks like an
+      elderly woman holding a sign saying people should be allowed to oppose genocide.
+      This is a society that has gone stark raving insane. ❖ U2 frontman Bono has finally
+      issued a statement calling for peace in Gaza two years into a genocide, and however
+      bad you expected it to be I guarantee it’s worse. He works his way through pretty
+      much every pro-genocide Israeli talking point while pretending to care about Palestinians.
+      He spends paragraphs on October 7, mentions the word “Hamas” 14 times, falsely
+      claims “Hamas are using starvation as a weapon in the war,” says “Hamas had deliberately
+      positioned themselves under civilian targets, having tunneled their way from school
+      to mosque to hospital,” babbles about the 1988 Hamas charter while ignoring its
+      2017 revisions , blames the whole thing on Netanyahu, and of course mentions “Israel’s
+      right to exist.” I seriously think he hit every major hasbara talking point. I
+      don’t think he missed a single one. It’s genocide propaganda disguised as humanitarianism.
+      Bono is a piece of shit. ❖ I judge the character of Jewish people based on how
+      much they oppose the genocide in Gaza. This is also how I judge the character
+      of anyone who is not Jewish. ❖ As soon as someone says they support Israel for
+      religious reasons, you can dismiss anything they say in defense of Israel’s actions,
+      because you know they’ll tell any lie and promote any kind of propaganda in order
+      to advance their religious mission. They’re not engaging the subject to share
+      facts and communicate, they’re engaging it to obtain promised rewards in the afterlife
+      and please an invisible deity. They’ll say whatever they need to say in order
+      to make this happen. Think about it. If you sincerely held the religious belief
+      that Israel needs to be supported no matter what in order to fulfill some kind
+      of prophecy, or that if you don’t promote the interests of Israel you’ll be tortured
+      for eternity in Hell, or that Actual Metaphysical Yahweh has commanded that helping
+      Israel is the single most important thing in the world, would you not say whatever
+      you need to say and promote whatever narratives you need to promote in order to
+      help make that happen? Of course you would. It’s not about facts and truth for
+      such people, it’s about getting into Heaven and bringing back Jesus and stuff.
+      The instant someone admits to supporting Israel for religious reasons, there’s
+      no reason to believe anything else they say. Because you know they’ll say things
+      they don’t really know to be true and pretend to believe things they don’t really
+      believe in order to do what they’ve been told is the most important thing they
+      can possibly do with their lives. It’s impossible to have a truth-based conversation
+      with such a person. _____________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image is a screen grab from Al Jazeera English (Fair Use).'
+    one_sentence_summary: In the lead-up to a planned assault on Gaza City, Israel has
+      assassinated five Al Jazeera journalists, including prominent reporter Anas al-Sharif,
+      while justifying these actions by labeling them as Hamas affiliates, reflecting
+      a broader strategy to obscure the realities of its military operations in Gaza.
+    paragraph_summary: Ahead of an anticipated Israeli offensive on Gaza City, Israel
+      has assassinated five Al Jazeera journalists, including prominent reporter Anas
+      al-Sharif, amid claims that they were affiliated with Hamas. The Israeli Defense
+      Forces (IDF) have consistently justified the killing of journalists by labeling
+      them as Hamas operatives, thereby attempting to obscure the reality of their actions
+      in Gaza. This pattern of violence against the press reflects Israel's intent to
+      prevent global scrutiny of its operations, particularly in areas where aid is
+      being distributed, suggesting a deliberate effort to conceal the humanitarian
+      crisis unfolding in the region. The article highlights the contradiction in Israel's
+      claims about safety for foreign journalists, noting that secure areas exist where
+      coverage could occur without risk, further implying that the true motive is to
+      hide the extent of the suffering in Gaza.
+    published: '2025-08-11T02:39:47+00:00'
+  - title: Debating Israel Supporters Is Pointless, Because They Don't Care About Facts
+      Or Morality
+    url: https://www.caitlinjohnst.one/p/debating-israel-supporters-is-pointless
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      If you follow me on Twitter you’ve probably seen me engaging with Israel supporters
+      to address their arguments, but please don’t take this as a suggestion that engaging
+      with Israel supporters is a good idea generally. It isn’t. I engage Zionists online
+      in order to make sure their hasbara damages Israel more than it helps it by using
+      their comments to show everyone that these people always lie about everything,
+      and to familiarize myself with the hasbara talking points of the day so that I
+      can attack them. I do this because I’m a visible figure who writes about this
+      stuff every day for a living, and I’ve found a very energy-efficient strategy
+      for doing so which doesn’t consume too much of my time and focus. For most people
+      there’s no good reason to ever engage these freaks at all. Israel supporters are
+      never, ever engaging in good faith — at least not the ones you’re likely to encounter
+      in online spaces. Their goal is never to communicate or to have a conversation,
+      it’s to advance the information interests of a genocidal apartheid state. They
+      will say whatever they need to say, and pretend to believe whatever they need
+      to pretend to believe, in order to accomplish this. If you engage them you’re
+      not having a normal conversation with a normal person, you’re having a conversation
+      with a psychological operation aimed at manipulating public perception. You’re
+      dumping your mental and emotional energy into a black hole, and they are happy
+      to have you waste your energy in that way. You will never change a Zionist’s mind
+      with facts and logic or convince them to reconsider their position using robust
+      argumentation. This is a rare thing to accomplish on any topic because human minds
+      in general tend to bias toward maintaining their preconceived notions, but it’s
+      absolutely unheard of when it comes to Israel’s supporters. They’re not even really
+      listening to you, they’re just machine gunning you with whatever words they think
+      will help improve Israel’s public image and undermine public trust in its critics.
+      It is very fruitful to engage and educate people who aren’t sure about the genocide
+      in Gaza. It can be fruitful to engage the mainstream liberals who previously defended
+      Biden on Gaza or the Trump voters who are now shaky on the president’s Israel
+      First policies. Any normal person with an open mind can be shown the facts and
+      find their way to a truthful and moral understanding of this issue. But you will
+      never move an Israel supporter no matter what you say, because Israel supporters
+      are not interested in facts or morality like normal people are. If I think of
+      an interesting point to make in response to an Israel supporter online, I’ll often
+      just make an article out of it rather than wasting it on them. You can do this
+      too; if you come up with something interesting to say to someone who’s defending
+      Israel’s atrocities, just turn it into real content for people who are being real.
+      Make a tweet, a blog post, a video, a zine, an email to your local member — something
+      you can aim in a useful direction rather than a completely useless one. Israelis
+      and their supporters have a much better understanding of the power of manipulating
+      worldwide public perception than the average person. That’s why they have a special
+      Hebrew word, hasbara, for this manipulation. Their understanding is so acute that
+      Israel’s Foreign Ministry recently changed the name from hasbara to toda’a , because
+      the word hasbara has become too closely associated with genocide propaganda in
+      western minds. Human consciousness is dominated by mental narrative, so if you
+      can control the narratives which humans are telling about what’s going on in the
+      world, you can control the humans. Skillful manipulators understand that power
+      is the ability to control what happens, but true power is the ability to control
+      what people THINK about what happens. That’s what we are seeing in all the mass-scale
+      psychological manipulation aimed at making it seem like genocide and ethnic cleansing
+      are totally normal and appropriate things to be happening right now. Luckily there’s
+      only so much manipulation you can use to cover up what people are seeing right
+      in front of their faces. In the short term things look ugly, but in the long term
+      I have a hard time imagining Israel ever recovering from this. All the young people
+      who’ve witnessed history’s first live-streamed genocide are going to be running
+      the world someday, and they are not going to want to have anything to do with
+      the state of Israel. So anyway, yeah, don’t waste your time and energy engaging
+      Zionists. They don’t care if anything they’re saying is based on truth and morality,
+      and they won’t care if anything you say is based on truth and morality. Block
+      them and use your energy on normal people who actually care about telling the
+      truth and doing the right thing, so we can actually bring a stop to this nightmare.
+      ________________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The author engages with Israel supporters online to expose
+      their dishonesty and familiarize themselves with their arguments, but advises
+      that most people should avoid such interactions as they are rarely conducted in
+      good faith.
+    paragraph_summary: The author discusses their strategy of engaging with Israel supporters,
+      or Zionists, on social media, emphasizing that this approach is not advisable
+      for most people. They argue that such interactions are often unproductive, as
+      these supporters are typically not engaging in good faith but rather promoting
+      the interests of what the author describes as a "genocidal apartheid state." The
+      author aims to expose the dishonesty of these supporters and familiarize themselves
+      with current talking points to effectively counter them. However, they caution
+      that engaging with these individuals is largely a waste of mental and emotional
+      energy, as it is unlikely to change their minds or lead to meaningful dialogue.
+      Instead, the author views these interactions as a form of psychological manipulation
+      rather than genuine conversation.
+    published: '2025-08-10T01:46:24+00:00'
+  - title: Debating Israel Supporters Is Pointless, Because They Don't Care About Facts
+      Or Morality
+    url: https://www.caitlinjohnst.one/p/debating-israel-supporters-is-pointless
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      If you follow me on Twitter you’ve probably seen me engaging with Israel supporters
+      to address their arguments, but please don’t take this as a suggestion that engaging
+      with Israel supporters is a good idea generally. It isn’t. I engage Zionists online
+      in order to make sure their hasbara damages Israel more than it helps it by using
+      their comments to show everyone that these people always lie about everything,
+      and to familiarize myself with the hasbara talking points of the day so that I
+      can attack them. I do this because I’m a visible figure who writes about this
+      stuff every day for a living, and I’ve found a very energy-efficient strategy
+      for doing so which doesn’t consume too much of my time and focus. For most people
+      there’s no good reason to ever engage these freaks at all. Israel supporters are
+      never, ever engaging in good faith — at least not the ones you’re likely to encounter
+      in online spaces. Their goal is never to communicate or to have a conversation,
+      it’s to advance the information interests of a genocidal apartheid state. They
+      will say whatever they need to say, and pretend to believe whatever they need
+      to pretend to believe, in order to accomplish this. If you engage them you’re
+      not having a normal conversation with a normal person, you’re having a conversation
+      with a psychological operation aimed at manipulating public perception. You’re
+      dumping your mental and emotional energy into a black hole, and they are happy
+      to have you waste your energy in that way. You will never change a Zionist’s mind
+      with facts and logic or convince them to reconsider their position using robust
+      argumentation. This is a rare thing to accomplish on any topic because human minds
+      in general tend to bias toward maintaining their preconceived notions, but it’s
+      absolutely unheard of when it comes to Israel’s supporters. They’re not even really
+      listening to you, they’re just machine gunning you with whatever words they think
+      will help improve Israel’s public image and undermine public trust in its critics.
+      It is very fruitful to engage and educate people who aren’t sure about the genocide
+      in Gaza. It can be fruitful to engage the mainstream liberals who previously defended
+      Biden on Gaza or the Trump voters who are now shaky on the president’s Israel
+      First policies. Any normal person with an open mind can be shown the facts and
+      find their way to a truthful and moral understanding of this issue. But you will
+      never move an Israel supporter no matter what you say, because Israel supporters
+      are not interested in facts or morality like normal people are. If I think of
+      an interesting point to make in response to an Israel supporter online, I’ll often
+      just make an article out of it rather than wasting it on them. You can do this
+      too; if you come up with something interesting to say to someone who’s defending
+      Israel’s atrocities, just turn it into real content for people who are being real.
+      Make a tweet, a blog post, a video, a zine, an email to your local member — something
+      you can aim in a useful direction rather than a completely useless one. Israelis
+      and their supporters have a much better understanding of the power of manipulating
+      worldwide public perception than the average person. That’s why they have a special
+      Hebrew word, hasbara, for this manipulation. Their understanding is so acute that
+      Israel’s Foreign Ministry recently changed the name from hasbara to toda’a , because
+      the word hasbara has become too closely associated with genocide propaganda in
+      western minds. Human consciousness is dominated by mental narrative, so if you
+      can control the narratives which humans are telling about what’s going on in the
+      world, you can control the humans. Skillful manipulators understand that power
+      is the ability to control what happens, but true power is the ability to control
+      what people THINK about what happens. That’s what we are seeing in all the mass-scale
+      psychological manipulation aimed at making it seem like genocide and ethnic cleansing
+      are totally normal and appropriate things to be happening right now. Luckily there’s
+      only so much manipulation you can use to cover up what people are seeing right
+      in front of their faces. In the short term things look ugly, but in the long term
+      I have a hard time imagining Israel ever recovering from this. All the young people
+      who’ve witnessed history’s first live-streamed genocide are going to be running
+      the world someday, and they are not going to want to have anything to do with
+      the state of Israel. So anyway, yeah, don’t waste your time and energy engaging
+      Zionists. They don’t care if anything they’re saying is based on truth and morality,
+      and they won’t care if anything you say is based on truth and morality. Block
+      them and use your energy on normal people who actually care about telling the
+      truth and doing the right thing, so we can actually bring a stop to this nightmare.
+      ________________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The author engages with Israel supporters online to expose
+      their dishonesty and familiarize themselves with their arguments, but advises
+      that most people should avoid such interactions as they are rarely conducted in
+      good faith.
+    paragraph_summary: The author discusses their strategy of engaging with Israel supporters,
+      or Zionists, on social media, emphasizing that this approach is not advisable
+      for most people. They argue that such interactions are often unproductive, as
+      these supporters are typically not engaging in good faith but rather promoting
+      the interests of what the author describes as a "genocidal apartheid state." The
+      author aims to expose the dishonesty of these supporters and familiarize themselves
+      with current talking points to effectively counter them. However, they caution
+      that engaging with these individuals is largely a waste of mental and emotional
+      energy, as it is unlikely to change their minds or lead to meaningful dialogue.
+      Instead, the author views these interactions as a form of psychological manipulation
+      rather than genuine conversation.
+    published: '2025-08-10T01:46:24+00:00'
+  - title: 'To Future Generations: They Knew. They All Knew What Was Happening In Gaza.'
+    url: https://www.caitlinjohnst.one/p/to-future-generations-they-knew-they
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now A note to future generations for historical
+      record: Every pundit, politician and reporter of our time who claims they didn’t
+      know what was happening in Gaza is lying. They knew what was happening. They knew
+      Israel was telling lies. They knew about everything. They had access to the same
+      information as all the rest of us. We watched them make excuses and ignore indisputable
+      facts every step of the way. There was absolutely no confusion about what they
+      were looking at. It was all right out in the open. Don’t let them get away with
+      saying they didn’t know. They knew. They knew the entire time. Brand them permanently
+      with this shame, and force them to carry it with them for the rest of their lives.
+      https://x.com/MosabAbuToha/status/1953240295216136395 ❖ I hate all genocide supporters
+      equally, regardless of their religion. Telling me your religion is like telling
+      me about your dreams: it’s completely uninteresting to me. If you support an active
+      genocide you’re a bad person who deserves to be shunned and reviled, regardless
+      of what your religion happens to be. It’s so wild how Jewish people will just
+      stride confidently into public discourse about Gaza while strongly emphasizing
+      their Jewishness, as though their support for genocide is somehow special and
+      different from any other asshole’s support for genocide. Wanting to starve civilians
+      and mass murder children makes you a piece of shit, whether you are Jewish, Mormon,
+      Buddhist, or atheist. Nobody cares what religious belief systems you happen to
+      hold in your head while you advocate massacring civilians, they care about the
+      fact that you advocate massacring civilians. Being Jewish doesn’t give you some
+      kind of magical immunity from being held to basic moral standards and being judged
+      by society for supporting a mass atrocity. It’s got nothing to do with anything.
+      ❖ After a whistleblower on the so-called Gaza Humanitarian Foundation named Tony
+      Aguilar shared the heartbreaking story about a boy named Amir who became one of
+      the many Palestinians massacred by Israeli forces while trying to obtain food
+      at an aid site, his family reported that he had been missing since that day and
+      they hadn’t known what had happened to him. They still don’t know where his body
+      is. The fact that people just “go missing” in Gaza after being killed indicates
+      Israel often buries the bodies of victims to cover up their deaths — something
+      they’ve been caught doing before . This is one of many reasons why we can be sure
+      that the actual death toll is much higher than the official record. ❖ Still can’t
+      believe Israel supporters spent days yelling “Israel isn’t starving children,
+      it’s starving SICK children!” and thought that was an awesome argument. ❖ Friendly
+      periodic reminder that the “Israel bombs hospitals because the hospitals are Hamas
+      bases” narrative was conclusively debunked when IDF soldiers were repeatedly documented
+      entering the hospitals they attacked and destroying individual pieces of medical
+      equipment, one by one. Hamas isn’t the target, healthcare is the target. That
+      has been irrefutably established. ❖ Opposing the Gaza genocide has meant being
+      proven right about everything from the very beginning every step of the way, hating
+      being proven right, and then having the liberals who kept yelling at you for your
+      rightness slowly begin to acknowledge that you were right, while still finding
+      excuses to hate you for being right anyway. ❖ A new poll by the Israel Democracy
+      Institute has found that only 6.7 percent of Jewish Israelis say they are “very
+      troubled” by reports of starvation and suffering in Gaza, with 67 percent saying
+      they are either “not at all troubled” or “not so troubled” by the news. That means
+      those who are pretty much fine with deliberately starving children outnumber those
+      who hold a normal attitude on the matter ten to one. Poll after poll after poll
+      shows that Jewish Israelis are horrible people who are quantifiably much more
+      cruel and immoral than pretty much any other population. At a certain point you
+      have to stop thinking the polls might be mistaken and see that the only real mistake
+      is Israel. ❖ Meanwhile, Ukrainian support for the war with Russia has plunged
+      even further, with a new Gallup poll finding that just 24 percent of Ukrainians
+      now support continuing the fight until victory. A 69 percent supermajority now
+      say they want peace negotiations as soon as possible. I get called a Putin-loving
+      cryptofascist vatnik tankie Kremlin agent whenever I say this, but a majority
+      of Ukrainians have wanted this war to end for a while now. At this point the only
+      ones who want more war are westerners, plus some of the Ukrainians who live far
+      away from the fighting. We’re being told the holocaust in Gaza can’t be ended,
+      and we’re being told the war nobody wants in Ukraine must continue. We are ruled
+      by monsters. ______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image is a screen grab from TeN TV (Fair Use).'
+    one_sentence_summary: The article asserts that all pundits, politicians, and reporters
+      who claim ignorance about the situation in Gaza are lying, as they had access
+      to the same information as the public and chose to ignore the truth, urging future
+      generations to hold them accountable for their complicity.
+    paragraph_summary: The article emphasizes that all pundits, politicians, and reporters
+      who claim ignorance about the situation in Gaza are being dishonest, as they had
+      access to the same information as the public and chose to ignore it. It asserts
+      that there should be accountability for those who supported or excused genocide,
+      regardless of their religious background, arguing that advocating for the mass
+      murder of civilians is morally indefensible. The author expresses disdain for
+      anyone who supports genocide, stating that religious identity does not exempt
+      individuals from moral scrutiny or societal judgment for their actions. The piece
+      calls for a permanent branding of shame on those who have turned a blind eye to
+      these atrocities.
+    published: '2025-08-09T02:24:07+00:00'
+  - title: 'To Future Generations: They Knew. They All Knew What Was Happening In Gaza.'
+    url: https://www.caitlinjohnst.one/p/to-future-generations-they-knew-they
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now A note to future generations for historical
+      record: Every pundit, politician and reporter of our time who claims they didn’t
+      know what was happening in Gaza is lying. They knew what was happening. They knew
+      Israel was telling lies. They knew about everything. They had access to the same
+      information as all the rest of us. We watched them make excuses and ignore indisputable
+      facts every step of the way. There was absolutely no confusion about what they
+      were looking at. It was all right out in the open. Don’t let them get away with
+      saying they didn’t know. They knew. They knew the entire time. Brand them permanently
+      with this shame, and force them to carry it with them for the rest of their lives.
+      https://x.com/MosabAbuToha/status/1953240295216136395 ❖ I hate all genocide supporters
+      equally, regardless of their religion. Telling me your religion is like telling
+      me about your dreams: it’s completely uninteresting to me. If you support an active
+      genocide you’re a bad person who deserves to be shunned and reviled, regardless
+      of what your religion happens to be. It’s so wild how Jewish people will just
+      stride confidently into public discourse about Gaza while strongly emphasizing
+      their Jewishness, as though their support for genocide is somehow special and
+      different from any other asshole’s support for genocide. Wanting to starve civilians
+      and mass murder children makes you a piece of shit, whether you are Jewish, Mormon,
+      Buddhist, or atheist. Nobody cares what religious belief systems you happen to
+      hold in your head while you advocate massacring civilians, they care about the
+      fact that you advocate massacring civilians. Being Jewish doesn’t give you some
+      kind of magical immunity from being held to basic moral standards and being judged
+      by society for supporting a mass atrocity. It’s got nothing to do with anything.
+      ❖ After a whistleblower on the so-called Gaza Humanitarian Foundation named Tony
+      Aguilar shared the heartbreaking story about a boy named Amir who became one of
+      the many Palestinians massacred by Israeli forces while trying to obtain food
+      at an aid site, his family reported that he had been missing since that day and
+      they hadn’t known what had happened to him. They still don’t know where his body
+      is. The fact that people just “go missing” in Gaza after being killed indicates
+      Israel often buries the bodies of victims to cover up their deaths — something
+      they’ve been caught doing before . This is one of many reasons why we can be sure
+      that the actual death toll is much higher than the official record. ❖ Still can’t
+      believe Israel supporters spent days yelling “Israel isn’t starving children,
+      it’s starving SICK children!” and thought that was an awesome argument. ❖ Friendly
+      periodic reminder that the “Israel bombs hospitals because the hospitals are Hamas
+      bases” narrative was conclusively debunked when IDF soldiers were repeatedly documented
+      entering the hospitals they attacked and destroying individual pieces of medical
+      equipment, one by one. Hamas isn’t the target, healthcare is the target. That
+      has been irrefutably established. ❖ Opposing the Gaza genocide has meant being
+      proven right about everything from the very beginning every step of the way, hating
+      being proven right, and then having the liberals who kept yelling at you for your
+      rightness slowly begin to acknowledge that you were right, while still finding
+      excuses to hate you for being right anyway. ❖ A new poll by the Israel Democracy
+      Institute has found that only 6.7 percent of Jewish Israelis say they are “very
+      troubled” by reports of starvation and suffering in Gaza, with 67 percent saying
+      they are either “not at all troubled” or “not so troubled” by the news. That means
+      those who are pretty much fine with deliberately starving children outnumber those
+      who hold a normal attitude on the matter ten to one. Poll after poll after poll
+      shows that Jewish Israelis are horrible people who are quantifiably much more
+      cruel and immoral than pretty much any other population. At a certain point you
+      have to stop thinking the polls might be mistaken and see that the only real mistake
+      is Israel. ❖ Meanwhile, Ukrainian support for the war with Russia has plunged
+      even further, with a new Gallup poll finding that just 24 percent of Ukrainians
+      now support continuing the fight until victory. A 69 percent supermajority now
+      say they want peace negotiations as soon as possible. I get called a Putin-loving
+      cryptofascist vatnik tankie Kremlin agent whenever I say this, but a majority
+      of Ukrainians have wanted this war to end for a while now. At this point the only
+      ones who want more war are westerners, plus some of the Ukrainians who live far
+      away from the fighting. We’re being told the holocaust in Gaza can’t be ended,
+      and we’re being told the war nobody wants in Ukraine must continue. We are ruled
+      by monsters. ______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image is a screen grab from TeN TV (Fair Use).'
+    one_sentence_summary: The article asserts that all pundits, politicians, and reporters
+      who claim ignorance about the situation in Gaza are lying, as they had access
+      to the same information as the public and chose to ignore the truth, urging future
+      generations to hold them accountable for their complicity.
+    paragraph_summary: The article emphasizes that all pundits, politicians, and reporters
+      who claim ignorance about the situation in Gaza are being dishonest, as they had
+      access to the same information as the public and chose to ignore it. It asserts
+      that there should be accountability for those who supported or excused genocide,
+      regardless of their religious background, arguing that advocating for the mass
+      murder of civilians is morally indefensible. The author expresses disdain for
+      anyone who supports genocide, stating that religious identity does not exempt
+      individuals from moral scrutiny or societal judgment for their actions. The piece
+      calls for a permanent branding of shame on those who have turned a blind eye to
+      these atrocities.
+    published: '2025-08-09T02:24:07+00:00'
+  - title: Israel Is Beginning To Choke On Its Own Lies
+    url: https://www.caitlinjohnst.one/p/israel-is-beginning-to-choke-on-its
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Netanyahu has confirmed reports that Israel plans an extreme escalation in Gaza
+      which will entail the total military occupation of the entire enclave and the
+      ethnic cleansing of Palestinians , which the Israeli spin machine has termed “voluntary
+      migration”. To be clear, anyone who says the expulsion of Palestinians from Gaza
+      would be “voluntary” is lying. Starving a population and deliberately making their
+      land uninhabitable is exactly the same as forcing them out at gunpoint. Saying
+      “leave or you’ll starve” is not meaningfully different from saying “leave or I’ll
+      shoot you in the head”. Israel’s planned mass expulsion will be as forced and
+      involuntary as any in recorded history. President Trump has fully signed off on
+      this move, washing his hands of the mass atrocity he is cosigning by telling the
+      press that it’s going to be “pretty much up to Israel.” Trump is lying. It’s up
+      to him. That’s why more than 600 former senior Israeli security officials from
+      Mossad and Shin Bet just sent Trump a letter urging him to compel Netanyahu to
+      make peace in Gaza. They understand that the US president has always had the power
+      to end the Gaza holocaust; numerous Israeli insiders have said that this mass
+      atrocity would not be possible without US assistance. Trump could end all this
+      at any time, and chooses not to. This makes him one of the most evil people in
+      the world. https://x.com/DropSiteNews/status/1953518909300388205 This whole genocide
+      is powered by lies. Netanyahu just told Fox News that the horrifying aerial footage
+      of the destruction in Gaza that we’ve been seeing is because every single building
+      in Gaza was booby trapped with explosives by Hamas. “The reason you see the flattened
+      buildings is because Hamas booby traps every single building,” Netanyahu said.
+      “So when we come in, we first have the population moved even though Hamas tries
+      to keep them in the combat zones. But after they move, and we start to move into
+      the neighborhoods that are now populated only by terrorists, they ignite these
+      booby traps. So what we do is we put in an APC, an armored personnel carrier,
+      with a lot of explosives. Detonate it. It sets off all the booby traps and the
+      buildings begin to collapse as a result of that. They’re empty buildings, they’re
+      not populated buildings.” Absolutely nobody believes this is true. Not one single
+      person alive on this earth sincerely believes that Gaza now looks like a gravel
+      parking lot because Hamas placed explosives inside every single building. Netanyahu
+      doesn’t believe it. Israel’s most venomous supporters don’t believe it. It’s just
+      part of the nonstop fountain of lies they are spewing to avoid acknowledging what
+      we all know we’re looking at. They’ve told so many lies by now that they’ve got
+      to keep lying and lying just to stay afloat, like a man desperately treading water
+      to avoid drowning. This genocide is one nonstop insult to our intelligence. It’s
+      actually degrading at this point. The lies Israel and its supporters have to pretend
+      to believe are getting so ridiculous that supporting Israel is now an act of public
+      humiliation and self-debasement. https://x.com/KyleAnzalone_/status/1953240187804209452
+      Former Israeli prime minister Naftali Bennett has a long rant on his social media
+      accounts complaining that Israel’s “status in the United States is collapsing”,
+      including among Republicans, with public sentiment turning against them because
+      of what is happening in Gaza. As you might expect, Bennett does not frame this
+      as a sign that Israel should stop committing genocide in Gaza, but rather complains
+      of a crisis of “antisemitism” in the United States, and accuses Netanyahu of failing
+      to adequately propagandize Americans. “Jews in the United States are subject to
+      a torrential wave of anti-Semitism, like him I don’t remember in my life,” Bennett
+      moans, adding, “Antisemites increase to compare the ‘hunger’ in Gaza to the Holocaust,
+      and thus reduce the memory of the Holocaust. They act that the hunger accusation
+      will haunt israel its citizens, our soldiers, for generations.” “If Netanyahu’s
+      propaganda men worked against the enemies of Israel *outside* a tenth of the talent,
+      speed and dedication with which they operate the propaganda machine against their
+      political rivals *inside* israel our situation would be amazing,” Bennet writes,
+      saying he wants to “re-establish a rapid and synchronized explanation headquarters”.
+      “Explanation” is the literal translation of the Hebrew word “hasbara”, i.e. pro-Israel
+      propaganda. https://x.com/briantashman/status/1951325158813159661 Meanwhile the
+      term “hasbara” itself is reportedly being abandoned by the Israeli Foreign Ministry,
+      as westerners have come to associate the term with genocide propaganda. The Times
+      of Israel reports : “Long referred to as hasbara , a term used to denote both
+      public relations and propaganda that has been freighted with negative baggage
+      in recent years, the ministry now brands its approach as toda’a — which translates
+      to ‘awareness’ or ‘consciousness’ — an apparent shift toward broader, more proactive
+      messaging.” So they’re not abandoning the genocide, and they’re not abandoning
+      the genocide propaganda, they’re just abandoning the word for the genocide propaganda
+      because people have come to associate that word with propaganda in support of
+      genocide. The entire Zionist project is built on a foundation of lies. And their
+      lies are starting to catch up with them. They’re now at a point where the lies
+      are beginning to damage the public image they’re intended to protect. When a liar
+      is recognized as a liar, his lies will forevermore work only as an antidote to
+      his past lies, and as a light to further expose his intent. From that point on
+      any lie he tells just shows people how ugly his character and intentions really
+      are. There is no other weapon that works that way. No other weapon which when
+      it’s seen immediately stops working, actively disarms the attacker, starts fixing
+      what he broke, and starts attacking him. Truth will win in the end. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image by The Trump White House via Wikimedia Commons (Public Domain) .'
+    one_sentence_summary: Israeli Prime Minister Netanyahu has confirmed plans for a
+      total military occupation of Gaza and the forced expulsion of Palestinians, which
+      is being misleadingly labeled as "voluntary migration," with President Trump endorsing
+      the actions despite their implications of mass atrocity.
+    paragraph_summary: Israeli Prime Minister Netanyahu has confirmed plans for a significant
+      military escalation in Gaza, which includes total occupation and what has been
+      described as the ethnic cleansing of Palestinians, misleadingly termed "voluntary
+      migration." Critics argue that the conditions imposed by Israel, such as starvation
+      and making land uninhabitable, equate to forced expulsion. Former President Trump
+      has been accused of enabling this situation by distancing himself from the consequences,
+      despite having the power to influence peace efforts, as highlighted by a letter
+      from over 600 former Israeli security officials urging him to intervene. The article
+      asserts that the narrative surrounding the destruction in Gaza, including claims
+      that buildings were booby-trapped by Hamas, is part of a broader campaign of misinformation
+      that obscures the reality of the humanitarian crisis unfolding in the region.
+    published: '2025-08-08T02:55:31+00:00'
+  - title: Israel Is Beginning To Choke On Its Own Lies
+    url: https://www.caitlinjohnst.one/p/israel-is-beginning-to-choke-on-its
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Netanyahu has confirmed reports that Israel plans an extreme escalation in Gaza
+      which will entail the total military occupation of the entire enclave and the
+      ethnic cleansing of Palestinians , which the Israeli spin machine has termed “voluntary
+      migration”. To be clear, anyone who says the expulsion of Palestinians from Gaza
+      would be “voluntary” is lying. Starving a population and deliberately making their
+      land uninhabitable is exactly the same as forcing them out at gunpoint. Saying
+      “leave or you’ll starve” is not meaningfully different from saying “leave or I’ll
+      shoot you in the head”. Israel’s planned mass expulsion will be as forced and
+      involuntary as any in recorded history. President Trump has fully signed off on
+      this move, washing his hands of the mass atrocity he is cosigning by telling the
+      press that it’s going to be “pretty much up to Israel.” Trump is lying. It’s up
+      to him. That’s why more than 600 former senior Israeli security officials from
+      Mossad and Shin Bet just sent Trump a letter urging him to compel Netanyahu to
+      make peace in Gaza. They understand that the US president has always had the power
+      to end the Gaza holocaust; numerous Israeli insiders have said that this mass
+      atrocity would not be possible without US assistance. Trump could end all this
+      at any time, and chooses not to. This makes him one of the most evil people in
+      the world. https://x.com/DropSiteNews/status/1953518909300388205 This whole genocide
+      is powered by lies. Netanyahu just told Fox News that the horrifying aerial footage
+      of the destruction in Gaza that we’ve been seeing is because every single building
+      in Gaza was booby trapped with explosives by Hamas. “The reason you see the flattened
+      buildings is because Hamas booby traps every single building,” Netanyahu said.
+      “So when we come in, we first have the population moved even though Hamas tries
+      to keep them in the combat zones. But after they move, and we start to move into
+      the neighborhoods that are now populated only by terrorists, they ignite these
+      booby traps. So what we do is we put in an APC, an armored personnel carrier,
+      with a lot of explosives. Detonate it. It sets off all the booby traps and the
+      buildings begin to collapse as a result of that. They’re empty buildings, they’re
+      not populated buildings.” Absolutely nobody believes this is true. Not one single
+      person alive on this earth sincerely believes that Gaza now looks like a gravel
+      parking lot because Hamas placed explosives inside every single building. Netanyahu
+      doesn’t believe it. Israel’s most venomous supporters don’t believe it. It’s just
+      part of the nonstop fountain of lies they are spewing to avoid acknowledging what
+      we all know we’re looking at. They’ve told so many lies by now that they’ve got
+      to keep lying and lying just to stay afloat, like a man desperately treading water
+      to avoid drowning. This genocide is one nonstop insult to our intelligence. It’s
+      actually degrading at this point. The lies Israel and its supporters have to pretend
+      to believe are getting so ridiculous that supporting Israel is now an act of public
+      humiliation and self-debasement. https://x.com/KyleAnzalone_/status/1953240187804209452
+      Former Israeli prime minister Naftali Bennett has a long rant on his social media
+      accounts complaining that Israel’s “status in the United States is collapsing”,
+      including among Republicans, with public sentiment turning against them because
+      of what is happening in Gaza. As you might expect, Bennett does not frame this
+      as a sign that Israel should stop committing genocide in Gaza, but rather complains
+      of a crisis of “antisemitism” in the United States, and accuses Netanyahu of failing
+      to adequately propagandize Americans. “Jews in the United States are subject to
+      a torrential wave of anti-Semitism, like him I don’t remember in my life,” Bennett
+      moans, adding, “Antisemites increase to compare the ‘hunger’ in Gaza to the Holocaust,
+      and thus reduce the memory of the Holocaust. They act that the hunger accusation
+      will haunt israel its citizens, our soldiers, for generations.” “If Netanyahu’s
+      propaganda men worked against the enemies of Israel *outside* a tenth of the talent,
+      speed and dedication with which they operate the propaganda machine against their
+      political rivals *inside* israel our situation would be amazing,” Bennet writes,
+      saying he wants to “re-establish a rapid and synchronized explanation headquarters”.
+      “Explanation” is the literal translation of the Hebrew word “hasbara”, i.e. pro-Israel
+      propaganda. https://x.com/briantashman/status/1951325158813159661 Meanwhile the
+      term “hasbara” itself is reportedly being abandoned by the Israeli Foreign Ministry,
+      as westerners have come to associate the term with genocide propaganda. The Times
+      of Israel reports : “Long referred to as hasbara , a term used to denote both
+      public relations and propaganda that has been freighted with negative baggage
+      in recent years, the ministry now brands its approach as toda’a — which translates
+      to ‘awareness’ or ‘consciousness’ — an apparent shift toward broader, more proactive
+      messaging.” So they’re not abandoning the genocide, and they’re not abandoning
+      the genocide propaganda, they’re just abandoning the word for the genocide propaganda
+      because people have come to associate that word with propaganda in support of
+      genocide. The entire Zionist project is built on a foundation of lies. And their
+      lies are starting to catch up with them. They’re now at a point where the lies
+      are beginning to damage the public image they’re intended to protect. When a liar
+      is recognized as a liar, his lies will forevermore work only as an antidote to
+      his past lies, and as a light to further expose his intent. From that point on
+      any lie he tells just shows people how ugly his character and intentions really
+      are. There is no other weapon that works that way. No other weapon which when
+      it’s seen immediately stops working, actively disarms the attacker, starts fixing
+      what he broke, and starts attacking him. Truth will win in the end. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image by The Trump White House via Wikimedia Commons (Public Domain) .'
+    one_sentence_summary: Israeli Prime Minister Netanyahu has confirmed plans for a
+      total military occupation of Gaza and the forced expulsion of Palestinians, which
+      is being misleadingly labeled as "voluntary migration," with President Trump endorsing
+      the actions despite their implications of mass atrocity.
+    paragraph_summary: Israeli Prime Minister Netanyahu has confirmed plans for a significant
+      military escalation in Gaza, which includes total occupation and what has been
+      described as the ethnic cleansing of Palestinians, misleadingly termed "voluntary
+      migration." Critics argue that the conditions imposed by Israel, such as starvation
+      and making land uninhabitable, equate to forced expulsion. Former President Trump
+      has been accused of enabling this situation by distancing himself from the consequences,
+      despite having the power to influence peace efforts, as highlighted by a letter
+      from over 600 former Israeli security officials urging him to intervene. The article
+      asserts that the narrative surrounding the destruction in Gaza, including claims
+      that buildings were booby-trapped by Hamas, is part of a broader campaign of misinformation
+      that obscures the reality of the humanitarian crisis unfolding in the region.
+    published: '2025-08-08T02:55:31+00:00'
   - title: 'The New Issue Of JOHNSTONE: A Stark Raving Mad Society'
     url: https://www.caitlinjohnst.one/p/the-new-issue-of-johnstone-a-stark
     text: 'Subscribe now The new edition of JOHNSTONE is now available to order in print

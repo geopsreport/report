@@ -7,14 +7,248 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  As of early August 2025, the geopolitical landscape is marked by intensifying debates over digital regulation in Western democracies and the ongoing humanitarian crisis in Gaza, with both issues drawing significant international scrutiny.
+  The geopolitical landscape remains dominated by the intensifying crisis in Gaza, with Israel’s recent cabinet approval for a full military takeover of Gaza City marking a significant escalation. As **Binoy Kampmark** reports, Prime Minister Benjamin Netanyahu’s push for direct control is proceeding despite “significant opposition from military leaders and international criticism regarding the humanitarian implications and the potential for escalating violence.” This move signals a hardening of Israeli policy, prioritizing military objectives over diplomatic or humanitarian considerations.
   
-  The UK’s recent implementation of the Online Safety Act stands out as a major development in digital governance. The Act, which introduces mandatory age verification for online content, is presented by the government as a measure to protect children. However, **Binoy Kampmark** notes that critics are raising alarms about privacy violations, censorship, and the feasibility of enforcement. Despite these concerns, a significant portion of the British public appears to support the restrictions, reflecting a broader societal willingness to accept limitations on digital freedoms in the name of safety. This trend is mirrored in Australia, where similar age verification and social media restrictions for users under 16 are being rolled out with minimal public debate. According to **Kampmark**, these measures are driven by a “paternalistic” mindset and risk normalizing censorship and surveillance.
+  Public response to the Gaza conflict continues to grow, with mass mobilizations such as the recent Sydney Harbour Bridge March. According to **Binoy Kampmark**, “approximately 100,000 people participated in a peaceful March for Humanity... highlighting a significant public demand for action that contrasted with governmental inaction.” This groundswell of civil society activism underscores the widening gap between public sentiment and official policy in Western democracies, particularly regarding the perceived inadequacy of international responses to the crisis.
   
-  Meanwhile, the situation in Gaza continues to deteriorate. Israeli human rights organizations, including B’Tselem and Physicians for Human Rights-Israel, have publicly labeled Israel’s actions as genocide, citing systematic violence, dehumanization, and destruction of essential infrastructure. **Kampmark** emphasizes the urgent calls from these groups for international recognition and intervention, warning that the humanitarian crisis is deepening amid ineffective international responses. The blockade and ongoing military actions have led to widespread starvation and civilian suffering, with aid efforts hampered by violence and logistical barriers.
+  Meanwhile, the debate over digital rights and state surveillance intensifies in the UK and Australia. The UK’s Online Safety Act, as detailed by **Binoy Kampmark**, is facing criticism for “potential infringement on privacy, free expression, and the practicality of enforcement,” even as public support for child protection measures remains strong. Australia’s similar trajectory, with stringent age verification and social media restrictions for minors, reflects a broader trend toward paternalistic digital governance—raising concerns about censorship and the erosion of open internet principles.
   
-  Looking ahead, the prevailing trends suggest a high likelihood that Western governments will continue tightening digital controls, often with public support, despite ongoing debates about civil liberties. In the Middle East, the majority of independent analysts, as reflected by **Kampmark**, believe that without substantial international intervention, the humanitarian situation in Gaza will most definitely worsen, with little hope for meaningful policy change from the Israeli government or its allies in the near term. The confidence in these predictions is high, given the entrenched positions and recent legislative and military actions.
+  **Trends and Predictions:**  
+  The majority of sources indicate that Israel’s military occupation of Gaza is likely to deepen, with a high probability of further humanitarian deterioration and international condemnation. Civil society pressure on Western governments to act is mounting, but meaningful policy shifts remain unlikely in the immediate term. In digital policy, there is a high chance that the UK and Australia will continue tightening online regulations, despite ongoing debates about privacy and free speech. Most definitely, these trends point toward a more securitized and polarized global environment, both in physical conflict zones and the digital sphere.
 articles:
+  - title: 'Occupation and Slaughter: Netanyahu and Taking Over Gaza'
+    url: https://www.counterpunch.org/2025/08/11/occupation-and-slaughter-netanyahu-and-taking-over-gaza/
+    text: 'To say that Israel’s Prime Minister, Benjamin Netanyahu, had lost the plot
+      is to assume he ever had one. With a dearth of ideas as to how to come up with
+      a “final solution” to the Palestinian problem, he has received a majority approval
+      from his cabinet colleagues to take over Gaza City. It took a late-night meeting
+      with the security cabinet lasting some ten hours.
+
+
+      A statement released on the morning of August 8 from his office mentioned a five-point
+      plan intended to defeat Hamas and conclude the war. None of this is an improved
+      version of what has come before: the intended disarming of Hamas, the return of
+      all hostages, demilitarising the Gaza Strip, assuming security control of the
+      territory and creating “an alternative civil administration that is neither Hamas
+      nor the Palestinian Authority”.
+
+
+      There is also not much difference here from recent proposals made by the French
+      President Emmanuel Macron, UK Prime Minister Sir Keir Starmer, and Canadian Prime
+      Minister Mark Carney, with one fundamental difference: the Israelis want no current
+      Palestinian representative authority to govern the people they so loathe. What
+      all the proposals share is a core belief that the Palestinians be reduced to subordinate
+      status, forever policed and monitored by watchful authorities. Their representatives
+      are to be vetted by the Israelis and any number of international partners. Genuine
+      sovereignty can sod off.
+
+
+      The Israeli military has announced that it “will prepare to take control of Gaza
+      City while providing humanitarian aid to the civilian population outside the combat
+      zones”. Little change then given the current model of aid distribution that features
+      daily massacres of the desperate and the starving overseen by trigger itchy personnel
+      from both the IDF and the obscenely named Gaza Humanitarian Foundation. OHCHR,
+      the United Nations human rights office, claims that at least 1,373 Palestinians
+      seeking food have been killed since May 27, 859 in proximity of the GHF’s distribution
+      points. Another 514 have perished along the routes traversed by food convoys.
+
+
+      The UN Human Rights chief Volker Türk has done his best to reiterate a certain
+      ghastly obviousness in the plan. The military takeover “runs contrary to the ruling
+      of the International Court of Justice that Israel bring its occupation to an end
+      as soon as possible, to the realisation of the agreed two-State solution and to
+      the right of Palestinians to self-determination.” The takeover would entail further
+      escalation, resulting in “more massive forced displacement, more killing, more
+      unbearable suffering, senseless destruction and atrocity crimes.”
+
+
+      The IDF’s chief of staff, Lt. General Eyal Zamier, is not a fan of the plan, concerned
+      that it would do more to imperil the surviving Israeli hostages held in the Strip.
+      The New York Times reports that the country’s military leadership would prefer
+      a fresh ceasefire, with the IDF suffering from the effects of attrition from the
+      conflict. The head of Israel’s National Security Council, Tzachi Hanegbi, is in
+      furious agreement: such an operation would further endanger the surviving Israeli
+      hostages. Mossad’s director, David Barnea, also adds his name to the list of sceptics.
+
+
+      Israeli opposition leader Yair Lapid did not shy away from excoriating the cabinet
+      decision, something he called “a disaster” that would breed further disasters.
+      The far-right figures of Itamar Ben-Gvir and Bezalel Smotrich had “dragged” the
+      Prime Minister into a strategy that would lead to the death of the hostages and
+      Israeli troops while costing billions to the Israeli taxpayer.
+
+
+      An announcement from Hamas proved suitably contemptuous of the latest Netanyahu
+      gambit. “We warn the criminal occupation that this criminal adventure will cost
+      it dearly. It will not be a walk in the park. Our people and their resistance
+      are resilient to defeat or surrender, and Netanyahu’s plans, ambitions, and delusions
+      will fail miserably.” The group also thought it fitting to name the United States
+      as “fully responsible for the occupation’s crimes, due to its political cover
+      and direct military support for its aggression.”
+
+
+      In a turn up for the books for those opposing Netanyahu’s blood-soaked adventurism,
+      some of Israel’s closest allies are going beyond muttering criticism. Modest as
+      it is, Germany has announced that weapons exports to Israel for use in the Strip
+      had been suspended “until further notice”. (Between 2020 and 2024, the country
+      accounted for a third of Israel’s arms imports.) A statement from German Chancellor
+      Friedrich Merz, while acknowledging the usual proviso that Israel had “the right
+      to defend itself against Hamas terrorism,” expressed concern that “even tougher
+      military action by the Israeli army in the Gaza Strip” undermined prospects for
+      releasing the hostages and pursuing negotiations for a ceasefire. Merz further
+      warned that Israel “not take any further steps toward annexing the West Bank.”
+
+
+      For his part, Starmer called Israel’s “decision to further escalate its offensive
+      in Gaza […] wrong, and we urge it to reconsider immediately. This action will
+      do nothing to bring an end to this conflict or to help secure the release of the
+      hostages. It will only bring more bloodshed.”
+
+
+      Türk, if somewhat hollowly, demands an end to the war in Gaza with a rosy vision:
+      an arrangement where Israelis and Palestinians are “allowed to live side by side
+      in peace.” Admirable as this aspiration is, optimistic in its transcendence, it
+      misunderstands the currency of hate and vengeance currently traded in Netanyahu’s
+      cabinet and swathes of the Israeli populace. This is not a matter of side by side,
+      but above and below, living in a state of permanent conflict, suppression and
+      suspicion.'
+    one_sentence_summary: Israel's Prime Minister Benjamin Netanyahu has received cabinet
+      approval for a military takeover of Gaza City, aiming to defeat Hamas and establish
+      control, despite significant opposition from military leaders and international
+      criticism regarding the humanitarian implications and the potential for escalating
+      violence.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu's recent cabinet decision
+      to take control of Gaza City has sparked widespread criticism and concern, both
+      domestically and internationally. Following a lengthy security cabinet meeting,
+      Netanyahu unveiled a five-point plan aimed at defeating Hamas, which includes
+      disarming the group and establishing a new civil administration in Gaza. However,
+      this plan has drawn parallels to previous proposals that seek to diminish Palestinian
+      sovereignty and maintain their subordinate status. The Israeli military's intent
+      to prepare for a takeover has raised alarms about potential escalations in violence
+      and humanitarian crises, with opposition leaders and military officials expressing
+      skepticism about the plan's efficacy and its risks to Israeli hostages. Meanwhile,
+      international allies, including Germany and the UK, have voiced their disapproval
+      of further military escalation, emphasizing the need for negotiations and a ceasefire.
+      The situation remains tense, with Hamas warning that any military action will
+      have severe consequences, highlighting the deep-seated animosity and conflict
+      that characterizes the Israeli-Palestinian relationship.
+    published: '2025-08-11T05:55:30+00:00'
+  - title: 'Foiling the Anti-Protest Sceptics: The Pro-Palestinian Sydney Harbour Bridge
+      March'
+    url: https://www.counterpunch.org/2025/08/06/foiling-the-anti-protest-sceptics-the-pro-palestinian-sydney-harbour-bridge-march/
+    text: 'There were the doomsdayers, the moaners and, let’s face it, the ill-wishers,
+      hoping that a march across one of the most famous bridges in Australia would not
+      take place. Despite this, some 100,000 people attended the March for Humanity
+      gathering which began in Sydney’s central business district on August 3rd, before
+      crossing to the Sydney Harbour Bridge to North Sydney. The pressing topic: a demand
+      to end the barbarous conflict in Gaza. Instances of drama, violence, and mayhem,
+      were conspicuously lacking. “There was nothing of the sort, there was a beautiful,
+      peaceful mass protest without any incidents,” said Palestine Action Group organiser
+      Joshua Lees.
+
+
+      The numbers of those attending are not clear, though they far exceeded what organisers
+      envisaged. The PAG claim that the numbers may well have been as high as 300,000;
+      NSW police put it at 90,000. It would have never taken place had the NSW Labor
+      government had its way. Premier Chris Minns had vocally opposed the protest, claiming
+      in a statement on July 28 that his government could not “support a protest of
+      this scale and nature taking place on Sydney Harbour Bridge, especially with one
+      week’s notice”. The city could not be allowed to “descend into chaos.” This apocalyptic
+      drivel was unsurprising given NSW’s continuing dislike of lawful assembly and
+      peaceful protest.
+
+
+      The NSW police had also sought, and failed, to obtain a prohibition order in the
+      state Supreme Court. The order would not have banned attendees to the protest
+      but would have removed any protections from prosecution under various laws, including
+      the blocking of roads and traffic. On August 2, Justice Belinda Rigg explained
+      her reasons for rejecting the police request citing the compelling case advanced
+      by Lees. “The public interest in freedom of expression at this time, in the manner
+      contemplated for the reasons advanced, is very high.” Ditto that of “not being
+      disrupted or having safety risked”. But imposing a year’s planning schedule, or
+      that of many months was “not a practical reality in the circumstances in which
+      this particular exercise of freedom of expression is sought to be achieved.” Rigg
+      was also reassured by PAG’s “commitment to and experience in prosocial protest,
+      the expertise of their organisers and marshals, and the significant history of
+      their active communication and co-operation with police.”
+
+
+      The approach from the police was typically jittery, nervous, worried. “I can honestly
+      say in my 35 years of policing, that was a perilous situation,” reflected acting
+      Assistant Commissioner Adam Johnson. “I was honestly worried that we were going
+      to have a major incident with potential loss of life.” He went on to insist that
+      any reservations on his part and his fellow officers had nothing to do with being
+      against the protest but the dictates of public safety. “Quite clearly today showed
+      us that we had to scramble … We had to really think about how we could get people
+      safely out of that confined space and back into the city safely.”
+
+
+      At around 3pm, the march was halted, with protestors told that they had to turn
+      around and return back to the CBD. According to Acting Deputy Commissioner Peter
+      McKenna, “We could not get those people, the number, the significant size of that
+      crowd off the northern egress route without risking crowd crush.” While regarding
+      the operation “a success in that no-one was hurt” he was not recommending a rerun
+      “every Sunday at that short notice.”
+
+
+      The numbers also left the New South Wales Police Minister Yasmin Catley worried.
+      What mattered to her was the cool organising of an event, free of risk, and free
+      of passionate imagination. It did not matter to her whether the subject matter
+      entailed protesting against dead children, famine or grotesque foreign wars; what
+      mattered was good organisation on the home front. “Something of this magnitude
+      would take absolute months, many months [to plan]. In fact the [Sydney] marathon
+      takes at least 10 months to organise the logistics to ensure that happens without
+      incident.” How wrong she and the police commissioners proved to be.
+
+
+      Senator David Shoebridge of the Greens thought this display of support for Palestinians
+      and a swift conclusion of the conflict more emphatic than anything done by the
+      federal government in response to the crisis. “Over 100,000 Australians marched
+      across the symbolic heart of Sydney today, and together we showed more leadership
+      on one rainy afternoon than our PM and Foreign Minister have shown in 2 years
+      from the comfort of their offices.” In somewhat mangled words in the Guardian
+      Australia, Sarah Malik gave the impression attendees had fought off a supernatural
+      event: “The rain couldn’t stop us.” This “felt like a collective wave of energy,
+      hope and determination against institutional and governmental intransigence, denial,
+      obfuscation and enabling that has so many of us feeling despairing, disgusted
+      and disquieted.”
+
+
+      The display of flag waving, placards and banners was impressive. But such events
+      can risk becoming objects isolated from tangible fruition. Those participating
+      can then claim that this was the first event to shift the tide, or an event that
+      finally convinced those decision makers that something should be done. Marches
+      can provide murmurs and trembles. They do not necessarily shake the edifice or
+      threaten foundations. What the march across the bridge did was reveal to the Albanese
+      government that something critical must be done beyond platitudes that claim balance
+      and eschew anger. His political strategists will be taking note.
+
+
+      In a modest way, the protest most probably encouraged Canberra’s approval of an
+      additional A$20 million in humanitarian aid to Gaza. But the hardened sceptics
+      suspicious of lawful assembly remain, none more so than Minns himself. For the
+      state premier, people surely had better things to do than worry and vent in public
+      about humanitarian issues in a distant conflict. Think about the economics of
+      the whole thing instead: “we can’t shut down the bridge every weekend”. And just
+      to sour matters, he publicly stated that legislation that would ban protests across
+      the Harbour Bridge had not been ruled out. How woefully predictable.'
+    one_sentence_summary: Despite initial opposition and concerns from authorities,
+      approximately 100,000 people participated in a peaceful March for Humanity across
+      Sydney Harbour Bridge to advocate for an end to the conflict in Gaza, highlighting
+      a significant public demand for action that contrasted with governmental inaction.
+    paragraph_summary: On August 3rd, approximately 100,000 people participated in the
+      March for Humanity in Sydney, advocating for an end to the conflict in Gaza, despite
+      opposition from the NSW Labor government and police concerns about public safety.
+      The protest, which began in the central business district and crossed the iconic
+      Sydney Harbour Bridge, was marked by its peaceful nature, contradicting fears
+      of chaos. Organizers claimed attendance could have reached 300,000, while police
+      estimated it at 90,000. The event highlighted a significant public demand for
+      action regarding humanitarian issues, prompting discussions about the government's
+      response, including a potential increase in aid to Gaza. Despite the successful
+      execution of the protest, Premier Chris Minns expressed skepticism about such
+      large gatherings, suggesting future legislation to restrict protests on the bridge,
+      reflecting ongoing tensions between public assembly rights and governmental apprehensions.
+    published: '2025-08-06T05:54:23+00:00'
   - title: 'Misusing the Children: The UK Online Safety Act, Privacy and Censorship'
     url: https://www.counterpunch.org/2025/08/04/misusing-the-children-the-uk-online-safety-act-privacy-and-censorship/
     text: 'The United Kingdom can always be relied upon to supply us with the eccentric,

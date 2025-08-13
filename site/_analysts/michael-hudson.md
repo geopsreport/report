@@ -8,16 +8,921 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  As the global order continues to shift in the wake of ongoing economic and geopolitical realignments, the latest developments highlight the deepening asymmetries between the United States and its allies, as well as the persistent vulnerabilities within Western economies.
+  As of August 13, 2025, the global geopolitical landscape is marked by intensifying debates over economic sovereignty, the persistence of financial colonialism, and the shifting dynamics of international alliances. Recent analyses underscore the growing determination of Global South nations to challenge the structures that have historically favored North American and Western European interests.
   
-  The most immediate concern is the ongoing power outages in New York City, which, according to **Michael Hudson**, are a direct result of surging air conditioning usage overwhelming the city’s aging electrical infrastructure. The reliance on temporary diesel generators underscores a broader pattern of underinvestment in public utilities, a trend that Hudson links to the prioritization of private over public interests in recent decades. This infrastructure fragility is not isolated, but symptomatic of a wider regression in the management of essential services, with Hudson noting, “the 20th century saw efforts to address these issues regress, with rising land and resource rents still benefiting private interests.”
+  The latest report from **Michael Hudson** highlights the structural advantages embedded in the international financial system, which, he argues, are designed to benefit North American corporations while perpetuating dependency and exploitation in the Global South. Hudson points to the increasing momentum among these countries to resist what he terms "US neocolonialism," advocating for strategies such as coordinated debt repudiation, the establishment of alternative payment systems, and the taxation of land and resource rents to reclaim economic sovereignty. According to Hudson, "the only way forward for the Global Majority is to break free from the mechanisms that enforce perpetual indebtedness and resource extraction." There is a high chance that these efforts will accelerate, especially as BRICS and other coalitions seek to build parallel institutions.
   
-  On the international front, the recently concluded trade agreement between the European Union and the United States has drawn sharp criticism. **Michael Hudson** argues that the EU’s attempt to negotiate as an equal partner has failed, resulting in a deal that “favors the U.S. significantly.” This outcome, he suggests, reflects the broader inability of European leadership to assert economic sovereignty, and signals a continued imbalance in transatlantic relations. The agreement is seen as part of a pattern where the U.S. leverages its dominant position to extract concessions, further entrenching its economic advantage.
+  Meanwhile, the recent EU-US trade agreement has come under scrutiny. **Michael Hudson** asserts that the European Union has once again failed to negotiate as an equal partner, resulting in a deal that disproportionately favors the United States. This outcome, he notes, reflects the broader trend of European economic policy being shaped by US interests, with little room for genuine autonomy. The majority view across sources is that Europe’s economic sovereignty continues to erode, and there is high confidence that this imbalance will persist unless the EU fundamentally rethinks its approach to international trade and finance.
   
-  Meanwhile, the manipulation of economic perceptions remains a key issue in the U.S. political landscape. In a recent discussion, **Radhika Desai** and Hudson highlight the growing disconnect between stock market performance and the lived reality of the broader population. They point out that selective use of statistics by political leaders, particularly Donald Trump, obscures the widening disparity in wealth distribution and masks underlying economic vulnerabilities.
+  On the domestic front, the United States faces infrastructural challenges, as evidenced by ongoing power outages in New York City. Hudson attributes these disruptions to surges in air conditioning use and aging infrastructure, noting the temporary reliance on diesel generators as a stopgap measure. This situation, while localized, is emblematic of broader vulnerabilities in US infrastructure, which could have knock-on effects for economic stability and public confidence.
   
-  Looking ahead, the prevailing trend is one of increasing strain on Western economic and political systems. The persistent infrastructure challenges in the U.S., combined with Europe’s inability to secure equitable trade terms, suggest that the current order is unsustainable. Based on the majority view across sources, there is a high chance that these imbalances will continue to deepen, with Hudson predicting that unless there is a fundamental shift in policy, “the global economic landscape will most definitely move further away from free trade towards more protectionist and unequal arrangements.” The confidence in this prediction is high, as the underlying structural issues show no sign of immediate resolution.
+  Looking ahead, the prevailing trend is a gradual but unmistakable shift away from US-led financial hegemony. The confidence level is high that Global South nations will intensify their push for economic independence, and there is a high chance that the EU will continue to struggle for parity in its dealings with the US. The persistence of infrastructural weaknesses in the US is also likely to remain a point of concern, with potential implications for both domestic and international stability.
 articles:
+  - title: 'How the world can free itself from US financial colonialism: Economist Michael
+      Hudson explains'
+    url: https://geopoliticaleconomy.com/2025/08/06/world-us-financial-colonialism-economist-michael-hudson/
+    text: 'Economist Michael Hudson describes how the Western powers designed the international
+      financial, legal, and political system in a way that benefits North American corporations
+      at the expense of the countries of the Global South.
+
+
+      Hudson also proposes ways for the Global Majority to resist US neocolonialism,
+      in this interview with host Ben Norton.
+
+
+      Video
+
+
+      Podcast
+
+
+      Transcript
+
+
+      (Introduction)
+
+
+      BEN NORTON: We are all living in a time of great change. There are massive geopolitical
+      shifts happening in the world today, and we see the rise of new organizations
+      like BRICs, which now represents more than 50% of the global population.
+
+
+      The 20 countries of the extended BRICS+ now also make up more than 40% of world
+      GDP, when measured at purchasing power parity (PPP).
+
+
+      These new Global South-led organizations like BRICS represent the Global Majority.
+      But there’s still a problem, which is that the most powerful international organizations
+      today are largely dominated by the United States and the Western powers.
+
+
+      This includes institutions like the International Monetary Fund (IMF) or the World
+      Bank. These are organizations where the U.S. is the only country on Earth that
+      has veto power.
+
+
+      Even in the United Nations Security Council, we see that power was concentrated
+      in the Security Council, and the U.S. has been abusing its veto power to prevent
+      any other countries from taking actions at the UN that the U.S. doesn’t like,
+      even if those actions have the support of the vast majority of the planet.
+
+
+      At the same time, we see the return of Donald Trump as U.S. president, and he
+      has threatened tariffs on countries all around the world. He is using tariffs
+      as a political weapon, to attack countries whose policies he doesn’t like — like,
+      for instance, the left-wing president of Brazil, Lula da Silva. Trump is trying
+      to punish him and the Brazilian government by imposing 50% tariffs on Brazil.
+
+
+      Nevertheless, Trump did not start this policy of the weaponization of the dollar.
+      This goes back decades. Many U.S. presidents, both Republicans and Democrats —
+      including Barack Obama, Joe Biden, and George W. Bush — also weaponized the US
+      dollar and the US-dominated so-called “international” financial system — which
+      is not really that international when the US controls it.
+
+
+      All of these US presidents imposed unilateral sanctions, which violate international
+      law, to punish countries whose policies they didn’t like, and to try to block
+      other countries from accessing the US-dominated so-called “international” financial
+      system — countries like Venezuela, Cuba, Iran, even Russia.
+
+
+      We have gotten to a point today where so many countries have been sanctioned by
+      the US. One-third of all countries on Earth and 60% of low-income countries have
+      been sanctioned, which has forced them to seek new economic and financial alternatives.
+
+
+      Now, with Trump threatening tariffs on countries all around the world, more and
+      more nations are seeking alternatives to trade with the US. They no longer want
+      to be dependent on trading with the United States.
+
+
+      So the entire international order — the economic order, the financial order, the
+      geopolitical order — all of it is in flux, and we are seeing the creation of alternatives.
+
+
+      So this is why today I have the privilege of doing an interview with the renowned
+      economist Michael Hudson, who is the author of many books, including Super Imperialism:
+      The Economic Strategy of American Empire.
+
+
+      Michael published a very important article titled “How the Global Majority can
+      free itself from US financial colonialism”.
+
+
+      What exactly is the Global Majority? Well, the Western powers only represent a
+      small minority of the world population, although the Western powers did colonize
+      the vast majority of countries on Earth.
+
+
+      The West only represents around 13-14% of the world population. That is the US,
+      Canada, Europe, Australia, and New Zealand. These are the countries of the collective
+      West. The rest of the world, the other 86-87% of the world, is the Global Majority.
+
+
+      In this article that Michael wrote, and in our interview today, he explains how
+      the countries of the Global Majority can continue to develop alternatives to what
+      he calls “US-centered financial colonialism”, how China has managed to create
+      its own alternatives, and how China can be a model for other countries around
+      the world.
+
+
+      Before I go to the interview, I am going to play a few highlights here that summarize
+      some of Michael’s most important points.
+
+
+      MICHAEL HUDSON: The international legal system that the United States and Europe
+      have put in place prevent other countries from exerting the national sovereignty
+      over their own tax system. It prevents them from recovering the valuation of their
+      oil output and their mineral output; it prevents them from recovering the monopoly
+      extraction from the railroads, and airports, and ports, and other public utilities
+      that have been turned into monopolies, because their economies have been Thatcher-ized.
+
+
+      The Global South countries have been suffering from Thatcherism and Reaganomics,
+      just like England and the United States have been devastated by neoliberalism.
+
+
+      So what is confronting the Global Majority and the Global South is not only moving
+      to free itself from its equivalent of inheriting feudalism. It didn’t inherit
+      feudalism like Europe inherited a domestic landlord class, but something even
+      worse: the landlords and the investors in the Global South countries are foreign,
+      not domestic.
+
+
+      To some extent, of course, their client oligarchies are part of all this, to support
+      this whole system of rent extraction. But basically the governments do not have
+      the power to operate their own economy, and that is not sovereignty.
+
+
+      (Interview)
+
+
+      BEN NORTON: Michael, it’s always a real pleasure having you. Thanks for joining
+      us today.
+
+
+      Let’s talk about this idea of US-centered financial colonialism that you articulated
+      in this article. What do you mean by financial colonialism? Can you describe what
+      this system is, and outline a kind of brief history of how it developed and how
+      we got to where we are today?
+
+
+      MICHAEL HUDSON: European colonialism was largely military. They took over countries
+      and took over the government, and were able to appropriate their natural resources
+      and their public utilities.
+
+
+      Financial colonialism didn’t need military coercion. And if you look at, beginning
+      in the around 1820s, you had countries like Haiti in the Caribbean, Mexico, Brazil;
+      you had the Ottoman Empire countries; Greece in 1825; later, Egypt and Tunisia,
+      these countries essentially declared their freedom. Often they needed a revolution.
+
+
+      They threw off the colonial masters, but they then faced the problem: How are
+      we going to build up the economy? Because we’re left without any money at all.
+      The former colonial powers that dominated us took all of our money, and they didn’t
+      leave us with any industrial, base. They didn’t leave us with an infrastructure
+      base. And they took all the money.
+
+
+      What they had to do was borrow. You had, in the 1820s, one country after another,
+      Haiti, Greece, they were all issued bonds by British and French bankers. [David]
+      Ricardo’s brothers ran the firm that lent the money to Greece.
+
+
+      What is interesting is these bonds defaulted almost right away. And there was
+      one series of defaults after another, refinancing, refinancing, refinancing. And
+      each time, the accrued interest was added to the debt of these countries that
+      were politically free from colonialism, no longer colonies, but they were not
+      financially free, because they had borrowed so much money that, by the late 18th
+      century, you had the governments of the creditor nations — Britain, France, Germany,
+      others — establishing either central banks or national monetary commissions.
+
+
+      Egypt is the leading example. But you also had exactly the same thing in Haiti,
+      and Tunisia, and other countries.
+
+
+      The national commission would say, well, you have defaulted; you owe us the money
+      that we lent you to develop the Suez Canal, to develop your economy. You have
+      to put us in control. This was before the International Monetary Fund existed.
+
+
+      So they essentially installed, often by military force, a bureaucracy of occupation
+      that took control of the fiscal policy of countries. Well, what government turns
+      out to be, when you look at it, is basically fiscal policy, because it’s the fiscal
+      policy — whom are you going to tax, and who is going to have to pay the taxes,
+      on what kind of income? And what are you going to spend the money on? Is it going
+      to be on special interests? Is it going to be on national growth?
+
+
+      Fiscal policy is what governments are. And the national monetary commissions,
+      and their equivalent, the central banks, that represented the commercial bankers,
+      mainly the foreign bankers, that turned out to be in charge of national development,
+      and they steered the development of these nominally free, post-colonial nations
+      along the lines of financial dependency.
+
+
+      You can look at the model for what Britain did with its American colonies in the
+      18th century, before the revolution. Britain prevented the colonies from creating
+      their own money; it wanted the colonies in America to be dependent on British
+      lenders. The only source of money was to borrow it from British creditors.
+
+
+      Well, the colonies — Massachusetts, Pennsylvania, and others — tried to create
+      their own currency. And this was very much like the greenbacks that the American
+      government printed during the Civil War. They printed their own currency as their
+      own money. The British tried to prevent this. They fought about this.
+
+
+      This was one of the major conflicts that led to the Revolutionary War in the United
+      States.
+
+
+      Well, other countries outside of the American colonies, outside of the United
+      States, didn’t have this kind of a fight. There had been rudimentary developments
+      of national money by Brazil, Egypt, and others. But the kind of money that was
+      still being used in the 19th century was basically bullion, gold bullion, and
+      in Asia, silver bullion.
+
+
+      There was a commercial bank paper credit superstructure that was created, on the
+      basis of this credit. This paper money superstructure was limited primarily to
+      the industrial capitalist nations.
+
+
+      Britain, France, Germany, and the United States had their own overall monetary
+      system. Other countries had to use British money, sterling; or French francs;
+      or simply gold and silver; and did not have control of their money supply to create
+      the ability to spend into the economy money that they would give value to by accepting
+      it as taxes, to develop their own infrastructure.
+
+
+      That is what created this dual economy. And as these countries were steered into
+      not competing with the industrial products of Western Europe, or the industrial
+      nations, but producing raw materials — cotton in Egypt, not their own industry,
+      that some of their early leaders tried to build up — then you had the split between
+      the raw materials producers, on the one hand, and the industrial nations on the
+      other.
+
+
+      The industrial nations ran surpluses that enabled them to become creditor nations.
+      And the raw materials producers ended up debtor countries. And as they became
+      debtor countries, they lost their national sovereignty, their ability to use the
+      tax system and the spending of their taxes to develop their own economies, along
+      the lines that Western Europe and the United States did.
+
+
+      That created two different kinds of international economy, that have lasted for
+      the last two centuries.
+
+
+      There’s the problem that the Global South countries, and many other Global Majority
+      countries, find themselves in: What are they going to do today to try to develop
+      their economy?
+
+
+      Suppose they rely on each other’s currencies instead of on U.S. dollars. How do
+      they get not only their monetary freedom by de-dollarizing? But de-dollarizing
+      really means breaking from the entire Western system of tax philosophy, trade,
+      and development that was created and enforced by the United States at the end
+      of World War Two, in 1944 and 1945, with the creation of the International Monetary
+      Fund and the World Bank.
+
+
+      How are these countries going to be able to use the money to develop themselves?
+
+
+      Well, this question has become urgent under Donald Trump and his tariff policy,
+      imposing tariffs of, I think, up to 60% on countries like Laos and other Asian
+      countries, and 50% on Brazil.
+
+
+      The tariffs that Donald Trump has imposed make it impossible for countries to
+      export enough goods to the United States or its European satellites in order to
+      obtain the dollars to pay the foreign debt. So the United States has prevented
+      these countries from paying the foreign debt.
+
+
+      Well, the IMF has gone to countries — like, most notoriously Argentina — and says,
+      we will lend you the money to pay the foreign debt, but you will have to raise
+      dollars by selling off whatever is left of your public utilities; whatever is
+      left of your mineral resources, your oil resources, your mining, your forests,
+      your land; whatever public assets you have, you will have to sell off.
+
+
+      Well, this leaves these countries with, basically, hardly any net worth. And the
+      United States has introduced a system of investor-state dispute settlement (ISDS).
+
+
+      In other words, when a government tries to say, let’s raise taxes and begin to
+      tax the monopoly rent that the oil companies and the mining companies are getting;
+      we want to have the same kind of tax that Adam Smith, and John Stuart Mill, and
+      every economist of the classical school in the 19th century advocated.
+
+
+      Well, the [investor-state dispute settlement] court will say, you’re going to
+      have to pay reparations; you’re not allowed to change any law that is adverse
+      to an American or a satellite corporation. Their hands are tied.
+
+
+      The international legal system that the United States and Europe have put in place
+      prevent other countries from exerting the national sovereignty over their own
+      tax system. It prevents them from recovering the valuation of their oil output
+      and their mineral output; it prevents them from recovering the monopoly extraction
+      from the railroads, and airports, and ports, and other public utilities that have
+      been turned into monopolies, because their economies have been Thatcher-ized.
+
+
+      The Global South countries have been suffering from Thatcherism and Reaganomics,
+      just like England and the United States have been devastated by neoliberalism.
+
+
+      So what is confronting the Global Majority and the Global South is not only moving
+      to free itself from its equivalent of inheriting feudalism. It didn’t inherit
+      feudalism like Europe inherited a domestic landlord class, but something even
+      worse: the landlords and the investors in the Global South countries are foreign,
+      not domestic.
+
+
+      To some extent, of course, their client oligarchies are part of all this, to support
+      this whole system of rent extraction. But basically the governments do not have
+      the power to operate their own economy, and that is not sovereignty.
+
+
+      So if we are defining international law as permitting the sovereignty of nations,
+      how will the Global South countries and the Global Majority be sovereign countries
+      if they have to start off from a position of paying the foreign debts?
+
+
+      They’re in the same position that Haiti, Greece, Egypt, and Tunisia were in throughout
+      the entire 19th century, getting deeper, and deeper, and deeper into debt, and
+      having to sell more and more of their national patrimony, their resources, to
+      foreigners.
+
+
+      For countries like Haiti, which is one of the worst victims, they agreed to pay
+      reparations to France by reimbursing it for the value of the slaves that were
+      freed. And when Haiti freed the slaves, it said, now we’re a free country. And
+      it was free in the sense that slavery was banned.
+
+
+      But in order to develop, it took on foreign debts, and the French bankers essentially
+      put in such a bank-oriented, creditor-oriented system that the condition of Haitian
+      labor didn’t really improve that much over what it was under slavery.
+
+
+      The same thing happened in many Latin American countries. The same thing happened
+      in Egypt, and the other countries that had nominal political freedom. But because
+      of their foreign debt, they were not in charge of their own policy. And they were
+      prevented from industrializing.
+
+
+      Well, what happened in the 19th century is now the norm for Latin America, Africa,
+      and the post-colonial countries of the world, the countries that have become debtor
+      countries.
+
+
+      So there is no way that these debts can be paid. And to the extent that they were
+      taken on and supervised by the International Monetary Fund, saying, well, what
+      we teach in all of our universities, what people are given Nobel Prizes for for
+      economics, is for showing how efficient it is to borrow money to develop, and
+      to be able to pay your debts by lowering the price of labor. All you need is a
+      class war; if you can impoverish your labor sufficiently, then you’ll be more
+      competitive.
+
+
+      Well, of course, that’s nonsense. And throughout the 19th century, especially
+      in the United States, it was realized that high-wage labor was more productive
+      than pauper labor. That was the word, pauper labor versus high-wage labor.
+
+
+      And the American School of economists pointed out that well-educated, well-fed,
+      well-housed labor was much more productive than pauper labor. But all that required
+      social reform, and the United States prevented social reform in other countries,
+      especially it prevented land reform in other countries.
+
+
+      Since 1945, the World Bank has blocked any loans to countries entailing land reform.
+      The Guatemalan government was overthrown [in a CIA-sponsored coup] in 1953, because
+      of that.
+
+
+      U.S. investors and European investors would make loans to develop plantation agriculture,
+      to export tropical crops, but not to compete in growing grain food crops to feed
+      themselves in competition with U.S. agriculture, and later with Europe’s common
+      agriculture policy that was equally protectionist.
+
+
+      The industrial nations of the United States and Western Europe have a major strength
+      of their international trade in food exports and agricultural exports because
+      they have industrialized agriculture, into agribusiness.
+
+
+      But other countries have been blocked by a combination of the World Bank, the
+      IMF, American foreign policy, and especially by CIA, and dozens and dozens of
+      political assassinations [and coups], to prevent other countries from growing
+      their own food crops, to become independent of reliance on the United States,
+      so that the United States can do what it tried to do to China, in the 1950s, after
+      Mao’s revolution.
+
+
+      They wanted to be able to say, well, we’re going to cut off and impose sanctions
+      on any country exporting food to you; we’re going to starve you out, if you don’t
+      follow the U.S. system.
+
+
+      Well, in the 1950s, it was actually Canada that broke the American sanctions and
+      sent food to China, and helped it survive. And as a result, China decided, we’re
+      not going to be dependent on any other country for food. You have to have self-sufficiency
+      in food in order to protect your own political and economic sovereignty.
+
+
+      Other countries have been blocked from this, by essentially the neoliberal trade
+      policy and investment policy that is subsidized by the United States and imposed
+      by force.
+
+
+      It’s no longer a military occupation — except in Syria, Iraq, Libya, Chile, Argentina,
+      and about 20 or 30 other countries; of course, it’s military. But it’s not a land
+      invasion; it’s not an occupation as colonialism was. It’s a combination of election
+      interference, targeted assassinations, and all the other techniques that rentier
+      capitalism uses that it calls a “free market” and “democracy”, with the ideals
+      of the two countries that are basically juxtaposed as “democracies” are Ukraine
+      and Israel.
+
+
+      The “autocracies” are countries that are developed by a government strong enough,
+      such as China, to prevent a domestic oligarchy from developing, and to take control
+      of their own natural resources, food production, financial system especially,
+      and basic public utilities — health system and educational system. This is basically
+      how the world is developed.
+
+
+      And the challenge to the Global South and Global Majority countries is very much
+      like the challenge that Europe faced 200 years ago, saying, how do we escape from
+      feudalism and domination by the hereditary landlord class, to create an industrial
+      class aimed at becoming self-sufficient, lowering the cost of production, and
+      preventing people from making income in their sleep? How do we develop?
+
+
+      Well, that’s the whole [problem]. How do they develop when they’re already faced
+      not only with a domestic oligarchy, but with the whole international force, backed
+      not only by physical force, but by the mental force of ideology? There is no longer
+      an ideology that what developed in the 19th century, under industrial capitalism
+      was evolving into socialism.
+
+
+      By the late 19th century, everybody was talking about socialism in one way or
+      another. There were Christian socialists; there were communitarian socialists;
+      there were Marxian socialists; there were Henry George [Georgist] libertarian
+      socialists, who were against big government, but for taxing the land.
+
+
+      There were all sorts of socialists. And everyone realized that the common denominator
+      of industrial countries was you need an increasing role of government to provide
+      basic services, education, health care, transportation, the post office, communications,
+      so that the employees that industrialists hire do not have to pay out of their
+      own wages for their education, or for their health care; that the government picks
+      up all of these external costs, to minimize the cost of labor that has to be paid
+      by the industrial employers.
+
+
+      The cost of labor was not minimized by lowering living standards, but went hand
+      in hand with rising living standards. But more and more of this rising living
+      standard was provided by public investment and social investment, in social reform,
+      in protection of consumers, protection of the sick.
+
+
+      That philosophy is what was all overthrown by the “free market”, a change in what
+      a free market meant, in the late 20th century.
+
+
+      BEN NORTON: Well, Michael, you mentioned so many interesting ideas, and raised
+      so many fascinating points.
+
+
+      There are so many questions I could raise, but I want to go back to this idea
+      of US-centered financial colonialism. You described the development of it, and
+      you mentioned some important organizations, like the IMF and the World Bank.
+
+
+      Now, something that you have always emphasized, Michael, is that the United States
+      has always refused to become part of an organization if it does not have veto
+      power.
+
+
+      So we saw the end of World War Two, the U.S. recognized that it had this opportunity,
+      these imperial strategists in the U.S., they saw that the European empires were
+      collapsing, because in World War Two, their militaries were destroyed; they didn’t
+      have the ability to maintain their empires. You had this wave of decolonization,
+      just on the horizon. And these U.S imperial strategists saw that this is the moment
+      to create a U.S. empire.
+
+
+      But, as you pointed out, it was different from the classical colonialism of European
+      empires, that physically controlled other countries. The U.S. had a more indirect
+      empire.
+
+
+      And the U.S. helped to create organizations that it claimed to be multilateral,
+      but in reality they were not multilateral; they were U.S.-dominated.
+
+
+      So in the United Nations, we saw that the power was concentrated in the Security
+      Council, and the U.S. and its allies were given veto power. Of course, this included
+      the U.S., France, the UK, and even the former Soviet Union and China. But at that
+      time, this was before the socialist revolution in China in 1949, so China was
+      governed by the Guomindang, the Nationalists, who were allied with the U.S. And
+      then even the Soviet Union was technically allied with the U.S., although we saw
+      that even before World War Two ended, the U.S. began the Cold War against the
+      Soviet Union.
+
+
+      But the point is that let’s not forget that, when the US designed this system,
+      the veto power was given to US allies in China, and the People’s Republic of China
+      was not recognized by the United Nations until 1971.
+
+
+      So the US dominates the UN. And still today, the US abuses its veto power in the
+      security Council. We see this over Gaza, where the US vetoes every resolution,
+      under both Joe Biden and Donald Trump, to continue this brutal ethnic cleansing
+      in Gaza. So that’s the United Nations.
+
+
+      Then you have, in the Bretton Woods Conference, which was held in the US, in New
+      England, the US was given veto power in the IMF and the World Bank.
+
+
+      Even the World Trade Organization, the US has paralyzed the WTO by preventing
+      the appellate body from appointing the new officials, the new judges, needed to
+      actually adjudicate these cases.
+
+
+      So the US has destroyed the WTO. We see that the IMF and the World Bank, their
+      reputation is in the complete gutter among countries in the Global South.
+
+
+      Actually the ultimate irony is that countries in the Global South learned what
+      happened in the ‘80s and ‘90s. You described this kind of neocolonial takeover
+      of these economies in the peak of the neoliberal era, by the IMF and the World
+      Bank imposing structural adjustment and all of this.
+
+
+      So the irony is that what ended up happening is that, now, many countries prefer
+      selling sovereign bonds in the capital markets, largely on Wall Street denominated
+      in US dollars, because at the very least, even though they’re paying 10% to 20%
+      yields on these bonds they sell, at least they don’t have to impose the “structural
+      adjustment” austerity measures demanded by the World Bank, if they borrow from
+      the World Bank.
+
+
+      So we see that this system that the US designed, at the end of World War Two,
+      is on its last legs. It is clearly dying.
+
+
+      And in your article, you noted that Marco Rubio — the current US secretary of
+      state and the US national security adviser, making him the second ever US official
+      to simultaneously serve as secretary of state and national security advisor, after
+      Henry Kissinger, the notorious war criminal — well, Marco Rubio, during his Senate
+      confirmation hearing, he said clearly that “the postwar global order is not just
+      obsolete; it is now a weapon”. And he absurdly claimed that it’s a weapon being
+      used against the US, which is not what is happening.
+
+
+      MARCO RUBIO: The postwar global order is not just obsolete; it is now a weapon
+      being used against us. And all this has led to a moment in which we must now confront
+      the single greatest risk of geopolitical instability, and of generational global
+      crisis, in the lifetime of anyone alive and in this room today.
+
+
+      BEN NORTON: But what is clearly happening is that the US empire now is destroying
+      this system that it had created to serve its own interests after World War Two.
+
+
+      And we see Trump now moving away from even the farce, the illusion that the US
+      supports free trade. As you pointed out, there always are many different examples
+      of hypocrisy and double standards — you know, US subsidies for the agricultural
+      sector and fossil fuel industry, the list goes on and on.
+
+
+      But Trump is now destroying this system. What could the new system look like in
+      this multipolar world? And in particular, how can the Global Majority take advantage
+      of this moment where the US is destroying the system it created?
+
+
+      And how can the Global Majority create an actual system that serves the interests
+      of the majority, and not the small minority of colonizing powers?
+
+
+      MICHAEL HUDSON: Well, you’ve put the problem in a nutshell, Ben.
+
+
+      When the United States insisted on veto power, it said that, we’re a sovereign
+      nation; the definition of a sovereign nation is that no other country has the
+      power to dictate one’s own policy. To be independent and sovereign, a country
+      has to be immune from foreign interference.
+
+
+      And the United States [says], we want veto power so that no other country can
+      interfere with us by telling us what to do. We can bomb who we want. We can interfere
+      when we want to do anything, because we’re sovereign.
+
+
+      Well, what if other countries would say, we want the same definition of sovereignty
+      that the United States imposed after World War Two. Then that means that we have
+      to become independent of subjugation to foreign directions.
+
+
+      Now, let’s look at the IMF and the World Bank. At the last BRICS meeting, you
+      have the same request that they have been making for a couple of years now: we
+      want Global South countries to have more representation in the IMF, and the World
+      Bank, and the Security Council.
+
+
+      I think that’s a terrible, terrible idea. The problem isn’t to get more representation
+      in an IMF whose guiding philosophy is to impose class war in the form of economic
+      austerity; to lower wages; to make labor unions illegal, so that you can keep
+      the cost of labor low; in the pretense that this makes countries more competitive
+      and solvent.
+
+
+      It doesn’t matter how many votes you have in a corporation that is basically rotten
+      to the core. Same thing is in the world Bank.
+
+
+      It doesn’t matter if you have Global South members increasing their voting power
+      in an organization whose very philosophy of development is a philosophy of backwardness,
+      not development, that patronizingly calls the Global South countries “developing
+      countries”, as if they’re developing in the same way that Britain, France, Germany,
+      and America developed, when what they are is a travesty of the kind of industrial-capitalist
+      free market that developed in the 19th century.
+
+
+      What is called for is an alternative set of international organizations to the
+      International Monetary Fund and to the World Bank, and even to the United Nations.
+
+
+      The United Nations has failed. You’re seeing that in Israel. You’re seeing that
+      in Ukraine. You’ve seen that in the last few wars that the Americans have fought
+      in the in the Middle East.
+
+
+      The United Nations is unable to enforce the rules of agreement and the international
+      philosophy that was under its founding documents. And this crippling of its enforcement
+      power, the ability of the United States to put anti-Global Majority rulers in
+      charge of the United Nations, like [Secretary-General António] Guterres; the willingness
+      of America to assassinate, heads of the United Nations, as they did over the [Patrice]
+      Lumumba case 50 years ago.
+
+
+      There has to be a new international organization that will not include the United
+      States or its satellites, such as, Germany and European countries that are going
+      to the far right, and what used to be called fascism, and what the Germans themselves
+      called neo-Nazism.
+
+
+      The leader [Friedrich] Merz says we will rebuild Wehrmacht, like it was before,
+      and this time we are going to win. It’s as if Germany wants to restart World War
+      Two.
+
+
+      Well, the United Nations was formed in the wreckage of World War Two, to prevent
+      that happening again. It hasn’t been able to prevent it.
+
+
+      You need a whole new set of international organizations that will represent the
+      real global majority, not the 15% of the “garden” of Europe, against the 85% “jungle”
+      of the majority.
+
+
+      You need an organization of the economic “jungle” into what will really be the
+      kind of garden that industrial capitalism promised to create in the 19th century.
+
+
+      BEN NORTON: Yeah, and I think we see the kind of seeds of these new organizations.
+      Even if these organizations themselves are not the end goal; they can be the start
+      of it, an alternative being developed, in organizations like BRICS, for instance.
+
+
+      BRICS has the New Development Bank, the NDB, previously known as the BRICS Bank,
+      which was created as an alternative to the World Bank.
+
+
+      And they also have the poorly named Contingent Reserve Arrangement, the CRA, which
+      was created as an alternative to the IMF. The CRA is still very much in its early
+      stages. It needs a lot of work.
+
+
+      But in the last two BRICS summits; in 2024, in Kazan, Russia; and then this year,
+      2025, in Rio de Janeiro, in Brazil; in both of the joint declaration signed by
+      the BRICS countries, they talked about the importance of strengthening those organizations.
+
+
+      And there are many other smaller organizations, including, offshore or including,
+      commodity exchanges that can be used — for instance, a gold exchange — to settle
+      trade imbalances among BRICS countries.
+
+
+      Then there are other organizations. We have the Shanghai Cooperation Organization.
+
+
+      But I think, again, this is not the end of this. This is not the fully developed
+      alternative that the world needs. I think this is just an example of the direction
+      the world is moving in.
+
+
+      And this brings me to the question I was going to ask you, Michael, which is that,
+      you know, you talked about the importance of developing alternatives. In your
+      article, you also talk about other potential strategies, including the possibility
+      of the Global Majority countries in the Global South, which largely are trapped
+      in dollar-denominated debt that they can’t pay; it’s impossible for them to pay
+      it.
+
+
+      So they should simply not pay it. And they should come together and say, they
+      should collectively decide, that they’re not going to pay, that they’re going
+      to default, and let the owners of their sovereign bonds, which include many financial
+      firms on Wall Street, and you know, these financial firms known as vulture funds,
+      led by people like billionaire Paul Singer at Elliott Management.
+
+
+      They should they should take a massive haircut, or should simply lose all of their
+      investment. They knew that they were investing in very risky bonds. They should
+      simply not be paid.
+
+
+      So that’s one idea you proposed. As we move toward concluding here, can you talk
+      about ideas, tangible ideas, for actions that the Global Majority can take to
+      develop a tangible alternative?
+
+
+      MICHAEL HUDSON: Well, what is lacking in the BRICS so far is a distinct economic
+      philosophy. What they have talked about is how can we improve our position within
+      the existing neoliberal economic philosophy, and even within the IMF and the World
+      Bank.
+
+
+      The IMF has been very clever. It has found the most reactionary Global South representatives
+      to join the board of directors. And because they’re Uncle South — haha, I mean,
+      I was going to say Uncle Toms — because they represent, they’re from the Global
+      South countries.
+
+
+      There’s an illusion that, if you appoint a right-wing, neoliberal, pro-rentier,
+      pro-creditor appointee, then somehow that’s going to represent the country that
+      that appointee is selected from, who has emerged from the domestic creditor oligarchy
+      that is part of this.
+
+
+      This is a travesty. A strategy of tactics within the IMF, World Bank, and the
+      U.N. isn’t enough. You need the guiding philosophy.
+
+
+      You have rightly focused on, what do you do about foreign debt? The distinction
+      already was drawn a century ago, the concept of odious debt. An odious debt is
+      defined as a debt that is imposed without the benefit of the borrowing country.
+
+
+      Suppose that the Global South countries would enact the following law: a creditor
+      has an obligation to judge the creditworthiness of the country to which it is
+      lending. And if there’s a loan to a country like Argentina by the IMF that is
+      made to simply impose the murderous neo-fascist oligarchy, the terrorist oligarchy
+      that the Americans installed, and to fight against any kind of socialist reform;
+      if loans are made to countries with no visible means of payment; if loans are
+      made to Ukraine, in the middle of a war, against all of the IMF rules against
+      lending to countries in war, against all the IMF rules against countries with
+      no visible means of repayment; that is an odious debt, illegal under law.
+
+
+      The fact is that, by now, the entire Global South debt is odious, because it was
+      extended without any responsibility of the bondholders, and the governments and
+      IMF institutions that have joined as creditors, to make sure that the loans are
+      being able to enable these countries to generate the means of repayment.
+
+
+      If a loan is made to a country without any idea of how it can repay, it’s by definition
+      an odious debt. It’s a bad loan. And these bad loans should be wiped out under
+      international law.
+
+
+      If you’re making a new alternative to the United Nations that actually will serve
+      the world, the united 85% of the world’s nations, that should be absolutely the
+      center for the law: the distinction between productive and unproductive credit.
+
+
+      The same thing should be extended to the difference between productive and unproductive
+      investment. Making a loan to a country, and buying a public utility, then just
+      raising the rates that it charges for public services, is not a productive investment;
+      it’s a rent-extracting investment. Rent-extracting investments are not in the
+      interest of the country whose income is being extracted. It’s, again, an odious
+      investment.
+
+
+      The whole classical distinction between productive and unproductive credit, productive
+      and unproductive labor, productive and unproductive investment — all of this discussion
+      that was central to the entire 19th-century flowering of classical political economy
+      needs to be revived, and as the center guiding definition of what it means to
+      be a sovereign nation in charge of their own development, charged with putting
+      the interest of their own economic development, their own labor, their own country,
+      before that of foreign creditors, before that of bondholders, before that of the
+      rentiers.
+
+
+      That’s what the whole 19th-century revolution was all about. That’s what industrial
+      capitalist value theory and rent theory was all about. That has to be the core
+      of reform throughout the global self.
+
+
+      Well, the problem is that many of these Global South countries are run by client
+      oligarchies that have been installed by political interference by the United States,
+      especially throughout Latin America, from the 1950s; from all of the dictators
+      that it imposed, the governments that it overthrew on behalf of the United Fruit
+      Company; the attack on Chile, when it elected a social democratic leader [Salvador
+      Allende] and was overthrown by Pinochet, and Kissinger, and Nixon, that then set
+      up a whole terrorist organization throughout Latin America [Operation Condor],
+      extending to Argentina, that imposed similar fascist dictatorships throughout
+      much of Latin America.
+
+
+      All of this has to be cleared away just as feudalism had to be cleared away in
+      Europe. That’s that’s the challenge.
+
+
+      And it’s not a tactical challenge; it’s a strategic idea of development. How do
+      you really design a United Nations that would work this time? Instead of letting
+      itself be hijacked by the United States, and by the establishment of international
+      courts such as the investor-state dispute court, that prevents other countries
+      from sovereign fiscal policy.
+
+
+      BEN NORTON: Michael, again, you always raise so many fascinating points and provide
+      so much important historical context.
+
+
+      Was there anything else that you wanted to add before we conclude? Because what
+      you said there, actually, was a very good segue to the part two of this discussion.
+
+
+      So in this first part, we have been discussing what you describe as a system of
+      U.S.-centered financial colonialism, how it developed, what it looks like, what
+      are the institutions that make up the system, and how countries in the Global
+      Majority can develop alternatives.
+
+
+      You argued that China has developed a tangible alternative, and it’s a good model
+      that other countries can learn from.
+
+
+      In the second part, we’re going to be going into depth talking about the growth
+      of this kind of neo-feudal landlord aristocracy, and how rent, rent extraction,
+      has become the dominant form of economic activity in Western financialized neoliberal
+      economies, as opposed to the production, which was the center of industrial capitalism.
+
+
+      So that is going to be part two of our discussion here. As we conclude part one,
+      do you have any final thoughts?
+
+
+      MICHAEL HUDSON: No, that sounds wonderful. You have summarized it quite well,
+      Ben.
+
+
+      BEN NORTON: Well, thanks for joining me. We were speaking with Michael Hudson,
+      the renowned economist and author of many books.
+
+
+      His article, which we were discussing today, is titled “How the Global Majority
+      can free itself from US financial colonialism”.
+
+
+      As I said, this was part one of our discussion. Definitely check out part two.
+
+
+      Thanks again, Michael, for joining us. It’s always a real pleasure.
+
+
+      MICHAEL HUDSON: Well, thanks for having me, Ben.'
+    one_sentence_summary: Economist Michael Hudson argues that the international financial
+      and political systems are structured to benefit North American corporations while
+      exploiting Global South countries, and he offers strategies for these nations
+      to resist US neocolonialism.
+    paragraph_summary: In an interview with Ben Norton, economist Michael Hudson critiques
+      the international financial and political systems established by Western powers,
+      which he argues primarily benefit North American corporations while undermining
+      the sovereignty and economic independence of countries in the Global South. Hudson
+      describes this phenomenon as "US-centered financial colonialism," where nations
+      that gained political freedom post-colonialism remain trapped in a cycle of debt
+      and dependency due to exploitative financial practices and legal frameworks imposed
+      by institutions like the IMF and World Bank. He emphasizes that many countries
+      in the Global Majority are forced to seek alternatives to the US-dominated financial
+      system, particularly as they face increasing tariffs and sanctions from the US.
+      Hudson advocates for a collective effort among these nations to reclaim their
+      economic sovereignty, drawing parallels to historical struggles for independence
+      and highlighting the need for self-sufficiency in food and resource management
+      to break free from foreign control.
+    published: '2025-08-06T12:00:42+00:00'
   - title: Von der Leyen’s Surrender
     url: https://michael-hudson.com/2025/08/von-der-leyens-surrender/
     text: 'NIMA ALKHORSHID: Hi everybody, today’s Thursday, July 31st, 2025, and our

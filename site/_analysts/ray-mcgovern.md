@@ -7,14 +7,648 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As the world marks the 80th anniversary of the atomic bombings of Hiroshima and Nagasaki, debate continues over the enduring narratives that have shaped public understanding of these events. **John LaForge** contends that U.S. government propaganda has long overstated the necessity and humanitarian justification for the bombings, arguing that the deaths of over 200,000 civilians were not, in fact, a means of saving lives. This reassessment comes at a time of renewed scrutiny of official narratives and the role of historical memory in current geopolitics.
+  The ongoing crisis in Gaza continues to dominate geopolitical analysis, with recent reports highlighting both the West’s slow response and the intensifying violence against journalists. The broader context remains one of mounting international scrutiny of Israel’s actions, as well as growing calls for accountability and a reassessment of Western policy.
   
-  In the United States, a significant legal battle is underway regarding the executive branch's authority over trade policy. **Andrew P. Napolitano** highlights the government's appeal against a lower court decision that found former President Trump's unilateral tariffs on certain goods unconstitutional. The outcome of this case could have far-reaching implications for the balance of power between the executive and legislative branches in setting economic policy, with a high chance that the Supreme Court will be called to clarify the limits of presidential authority.
+  The latest development, as discussed by **Ramzy Baroud**, is the West’s persistent reluctance to fully acknowledge the scale and nature of Israel’s operations in Gaza. Baroud argues this reflects a “longstanding pattern of denying Palestinians the opportunity to narrate their own experiences,” suggesting that Western governments are still prioritizing strategic alliances over human rights concerns. This delay in recognition is fueling frustration among advocates and is seen as a betrayal by many in the region.
   
-  Meanwhile, the ongoing crisis in Gaza remains a focal point of international concern. **Jonathan Cook** criticizes Western media figures for their delayed recognition of the scale of violence in Gaza, noting that recent acknowledgments of possible genocide come too late to offer meaningful relief. The situation is further complicated by legal and political battles over the designation of activist groups, as **Huda Ammori**'s successful appeal for a judicial review of Palestine Action's terrorist label demonstrates the persistence of repression and contested narratives.
+  Domestically in the United States, **Max Richtman** has raised alarms about potential threats to Medicare, which just marked its 60th anniversary. Richtman calls on Americans to defend the program from possible cuts by the White House and Congress, emphasizing its legacy as a cornerstone of the Great Society. This development signals that social policy debates are intensifying in Washington, with significant implications for millions of Americans.
   
-  Looking ahead, it is quite likely that debates over historical memory, executive authority, and the framing of conflicts will intensify, especially as legal and political outcomes in the U.S. and internationally remain unresolved. There is a high chance that the Gaza crisis will continue to drive activism and legal challenges, with global attention focused on both humanitarian and political dimensions.
+  Looking at the trends, the majority of analysts agree that Western governments are under increasing pressure to reassess their positions on Israel and Palestine, especially as public protests and international condemnation grow. There is a high chance that, if current patterns persist, Western acknowledgment of Palestinian suffering will remain limited and delayed, but grassroots activism and legal challenges may gradually shift the discourse. On the domestic front in the U.S., it is quite likely that Medicare will become a central issue in the coming political cycle, with advocacy groups mobilizing to resist proposed cutbacks.
+  
+  In summary, the geopolitical landscape is marked by a slow but steady shift in Western attitudes toward Israel’s actions in Gaza, alongside renewed domestic debates over social welfare in the United States. I guarantee that these issues will remain at the forefront of both international and domestic agendas in the near term.
 articles:
+  - title: The West’s Calculations & Gaza’s Betrayal
+    url: https://consortiumnews.com/2025/08/12/the-wests-calculations-gazas-betrayal/
+    text: Ramzy Baroud says Western institutions’ delayed recognition of Israel’s Gaza
+      genocide is consistent with an historic erasure of Palestinians’ telling their
+      own story. By Ramzy Baroud Z Network The Israeli human rights organization B’Tselem
+      released a comprehensive report on July 27… Read more →
+    one_sentence_summary: Ramzy Baroud argues that the West's slow acknowledgment of
+      Israel's actions in Gaza reflects a longstanding pattern of denying Palestinians
+      the opportunity to narrate their own experiences.
+    paragraph_summary: Ramzy Baroud argues that the delayed acknowledgment by Western
+      institutions of the genocide occurring in Gaza reflects a longstanding trend of
+      sidelining Palestinian narratives. He highlights a report from the Israeli human
+      rights organization B’Tselem, which underscores the urgent need for recognition
+      and accountability regarding the violence faced by Palestinians. Baroud emphasizes
+      that this historical erasure of Palestinian voices not only distorts their experiences
+      but also perpetuates a cycle of injustice and impunity.
+    published: '2025-08-12T18:00:28+00:00'
+  - title: The West’s Calculations & Gaza’s Betrayal
+    url: https://consortiumnews.com/2025/08/12/the-wests-calculations-gazas-betrayal/
+    text: Ramzy Baroud says Western institutions’ delayed recognition of Israel’s Gaza
+      genocide is consistent with an historic erasure of Palestinians’ telling their
+      own story. By Ramzy Baroud Z Network The Israeli human rights organization B’Tselem
+      released a comprehensive report on July 27… Read more →
+    one_sentence_summary: Ramzy Baroud argues that the West's slow acknowledgment of
+      Israel's actions in Gaza reflects a longstanding pattern of denying Palestinians
+      the opportunity to narrate their own experiences.
+    paragraph_summary: Ramzy Baroud argues that the delayed acknowledgment by Western
+      institutions of the genocide occurring in Gaza reflects a longstanding trend of
+      sidelining Palestinian narratives. He highlights a report from the Israeli human
+      rights organization B’Tselem, which underscores the urgent need for recognition
+      and accountability regarding the violence faced by Palestinians. Baroud emphasizes
+      that this historical erasure of Palestinian voices not only distorts their experiences
+      but also perpetuates a cycle of injustice and impunity.
+    published: '2025-08-12T18:00:28+00:00'
+  - title: Preserving US Medicare 60 Years Later
+    url: https://consortiumnews.com/2025/08/12/preserving-us-medicare-60-years-later/
+    text: As Medicare turned 60, Max Richtman urges Americans to stop the White House
+      and Congress from shredding one of the greatest legacies of LBJ’s Great Society.
+      By Max Richtman Common Dreams Medicare recently turned 60 years old, marking the
+      day… Read more →
+    one_sentence_summary: Max Richtman calls on Americans to protect Medicare, which
+      recently celebrated its 60th anniversary, from potential cuts by the White House
+      and Congress, emphasizing its significance as a key achievement of LBJ's Great
+      Society.
+    paragraph_summary: In an article commemorating the 60th anniversary of Medicare,
+      Max Richtman emphasizes the importance of preserving this vital program, which
+      he views as a significant achievement of Lyndon B. Johnson's Great Society. He
+      calls on Americans to take action against potential efforts by the White House
+      and Congress to undermine Medicare, advocating for the protection of its legacy
+      and the health security it provides to millions of citizens.
+    published: '2025-08-12T15:00:45+00:00'
+  - title: Preserving US Medicare 60 Years Later
+    url: https://consortiumnews.com/2025/08/12/preserving-us-medicare-60-years-later/
+    text: As Medicare turned 60, Max Richtman urges Americans to stop the White House
+      and Congress from shredding one of the greatest legacies of LBJ’s Great Society.
+      By Max Richtman Common Dreams Medicare recently turned 60 years old, marking the
+      day… Read more →
+    one_sentence_summary: Max Richtman calls on Americans to protect Medicare, which
+      recently celebrated its 60th anniversary, from potential cuts by the White House
+      and Congress, emphasizing its significance as a key achievement of LBJ's Great
+      Society.
+    paragraph_summary: In an article commemorating the 60th anniversary of Medicare,
+      Max Richtman emphasizes the importance of preserving this vital program, which
+      he views as a significant achievement of Lyndon B. Johnson's Great Society. He
+      calls on Americans to take action against potential efforts by the White House
+      and Congress to undermine Medicare, advocating for the protection of its legacy
+      and the health security it provides to millions of citizens.
+    published: '2025-08-12T15:00:45+00:00'
+  - title: 'Jonathan Cook: ‘Blood Libel’ Paradox & Israel’s Genocide'
+    url: https://consortiumnews.com/2025/08/11/jonathan-cook-blood-libel-paradox-israels-genocide/
+    text: The more depraved Israel’s actions, the more antisemitic it is to point out
+      the truth. This is win-win for colonialism, lose-lose for humanity.  By Jonathan
+      Cook Jonathan-Cook.net There’s a dangerous paradox that helps to dissuade people,
+      especially public figures, from… Read more →
+    one_sentence_summary: The article discusses how highlighting Israel's actions can
+      be perceived as antisemitic, creating a paradox that benefits colonialism while
+      harming humanity.
+    paragraph_summary: In his article, Jonathan Cook discusses the troubling paradox
+      where the more egregious Israel's actions become, the more pointing them out is
+      labeled as antisemitic. This dynamic serves the interests of colonialism while
+      undermining humanity, creating a situation where criticism of Israel is stifled
+      despite the severity of its actions. Cook argues that this phenomenon discourages
+      open dialogue and accountability, ultimately benefiting oppressive systems at
+      the expense of ethical discourse and human rights.
+    published: '2025-08-11T21:57:43+00:00'
+  - title: 'Jonathan Cook: ‘Blood Libel’ Paradox & Israel’s Genocide'
+    url: https://consortiumnews.com/2025/08/11/jonathan-cook-blood-libel-paradox-israels-genocide/
+    text: The more depraved Israel’s actions, the more antisemitic it is to point out
+      the truth. This is win-win for colonialism, lose-lose for humanity.  By Jonathan
+      Cook Jonathan-Cook.net There’s a dangerous paradox that helps to dissuade people,
+      especially public figures, from… Read more →
+    one_sentence_summary: The article discusses how highlighting Israel's actions can
+      be perceived as antisemitic, creating a paradox that benefits colonialism while
+      harming humanity.
+    paragraph_summary: In his article, Jonathan Cook discusses the troubling paradox
+      where the more egregious Israel's actions become, the more pointing them out is
+      labeled as antisemitic. This dynamic serves the interests of colonialism while
+      undermining humanity, creating a situation where criticism of Israel is stifled
+      despite the severity of its actions. Cook argues that this phenomenon discourages
+      open dialogue and accountability, ultimately benefiting oppressive systems at
+      the expense of ethical discourse and human rights.
+    published: '2025-08-11T21:57:43+00:00'
+  - title: Outrage Over Israel’s Assassination of Five More Gaza Journalists
+    url: https://consortiumnews.com/2025/08/11/outrage-over-israels-assassination-of-five-more-gaza-journalists/
+    text: Israel targeted a press tent in Gaza on Sunday and massacred five more Al
+      Jazeera journalists. This adds to Israel’s historic slaughter of journalists,
+      many of whom are now facing starvation. By Jake Johnson Common Dreams The Israeli
+      military on… Read more →
+    one_sentence_summary: Israel's military attacked a press tent in Gaza, resulting
+      in the deaths of five Al Jazeera journalists, highlighting the ongoing violence
+      against journalists in the region.
+    paragraph_summary: On Sunday, the Israeli military targeted a press tent in Gaza,
+      resulting in the deaths of five Al Jazeera journalists, further contributing to
+      a troubling pattern of violence against media professionals in the region. This
+      incident highlights the ongoing dangers faced by journalists in conflict zones,
+      many of whom are now experiencing severe hardships, including starvation. The
+      article by Jake Johnson for Common Dreams underscores the historical context of
+      such attacks and the broader implications for press freedom and safety in war-torn
+      areas.
+    published: '2025-08-11T21:35:21+00:00'
+  - title: Outrage Over Israel’s Assassination of Five More Gaza Journalists
+    url: https://consortiumnews.com/2025/08/11/outrage-over-israels-assassination-of-five-more-gaza-journalists/
+    text: Israel targeted a press tent in Gaza on Sunday and massacred five more Al
+      Jazeera journalists. This adds to Israel’s historic slaughter of journalists,
+      many of whom are now facing starvation. By Jake Johnson Common Dreams The Israeli
+      military on… Read more →
+    one_sentence_summary: Israel's military attacked a press tent in Gaza, resulting
+      in the deaths of five Al Jazeera journalists, highlighting the ongoing violence
+      against journalists in the region.
+    paragraph_summary: On Sunday, the Israeli military targeted a press tent in Gaza,
+      resulting in the deaths of five Al Jazeera journalists, further contributing to
+      a troubling pattern of violence against media professionals in the region. This
+      incident highlights the ongoing dangers faced by journalists in conflict zones,
+      many of whom are now experiencing severe hardships, including starvation. The
+      article by Jake Johnson for Common Dreams underscores the historical context of
+      such attacks and the broader implications for press freedom and safety in war-torn
+      areas.
+    published: '2025-08-11T21:35:21+00:00'
+  - title: 'Vijay Prashad: Wars Without Bullets'
+    url: https://consortiumnews.com/2025/08/11/vijay-prashad-wars-without-bullets/
+    text: 'Economic sanctions lead to half a million civilian deaths a year, according
+      to a study in The Lancet. Those imposed unilaterally and illegally by the EU and
+      U.S. are the most lethal. By Vijay Prashad Tricontinental: Institute for Social
+      Research Those… Read more →'
+    one_sentence_summary: A study published in The Lancet reveals that economic sanctions,
+      particularly those unilaterally imposed by the EU and U.S., result in approximately
+      500,000 civilian deaths annually.
+    paragraph_summary: A study published in The Lancet reveals that economic sanctions
+      result in approximately half a million civilian deaths annually, with unilateral
+      and illegal sanctions imposed by the EU and U.S. being the most deadly. The research
+      highlights the severe humanitarian impact of such sanctions, prompting a call
+      for reevaluation of their use in international relations.
+    published: '2025-08-11T16:10:56+00:00'
+  - title: 'Vijay Prashad: Wars Without Bullets'
+    url: https://consortiumnews.com/2025/08/11/vijay-prashad-wars-without-bullets/
+    text: 'Economic sanctions lead to half a million civilian deaths a year, according
+      to a study in The Lancet. Those imposed unilaterally and illegally by the EU and
+      U.S. are the most lethal. By Vijay Prashad Tricontinental: Institute for Social
+      Research Those… Read more →'
+    one_sentence_summary: A study published in The Lancet reveals that economic sanctions,
+      particularly those unilaterally imposed by the EU and U.S., result in approximately
+      500,000 civilian deaths annually.
+    paragraph_summary: A study published in The Lancet reveals that economic sanctions
+      result in approximately half a million civilian deaths annually, with unilateral
+      and illegal sanctions imposed by the EU and U.S. being the most deadly. The research
+      highlights the severe humanitarian impact of such sanctions, prompting a call
+      for reevaluation of their use in international relations.
+    published: '2025-08-11T16:10:56+00:00'
+  - title: Russia Says Israel Has Forgotten Lessons of the Holocaust
+    url: https://consortiumnews.com/2025/08/10/russia-says-israel-has-forgotten-lessons-of-the-holocaust/
+    text: Russia’s deputy representative to the United Nations told the Security Council
+      on Sunday that Israel is putting “Palestinians in ghettos” and seeks their “complete
+      annihilation.” ?????????? By Joe Lauria Special to Consortium News Dmitry A. Polyanskiy,
+      Russia’s deputy permanent representative… Read more →
+    one_sentence_summary: Russia's deputy representative to the UN accused Israel of
+      confining Palestinians to ghettos and aiming for their total destruction during
+      a Security Council meeting.
+    paragraph_summary: Russia's deputy representative to the United Nations, Dmitry
+      A. Polyanskiy, accused Israel of confining Palestinians to "ghettos" and pursuing
+      their "complete annihilation" during a Security Council meeting. His remarks reflect
+      Russia's stance on the Israeli-Palestinian conflict, highlighting concerns over
+      the treatment of Palestinians and escalating tensions in the region.
+    published: '2025-08-11T02:12:45+00:00'
+  - title: Russia Says Israel Has Forgotten Lessons of the Holocaust
+    url: https://consortiumnews.com/2025/08/10/russia-says-israel-has-forgotten-lessons-of-the-holocaust/
+    text: Russia’s deputy representative to the United Nations told the Security Council
+      on Sunday that Israel is putting “Palestinians in ghettos” and seeks their “complete
+      annihilation.” ?????????? By Joe Lauria Special to Consortium News Dmitry A. Polyanskiy,
+      Russia’s deputy permanent representative… Read more →
+    one_sentence_summary: Russia's deputy representative to the UN accused Israel of
+      confining Palestinians to ghettos and aiming for their total destruction during
+      a Security Council meeting.
+    paragraph_summary: Russia's deputy representative to the United Nations, Dmitry
+      A. Polyanskiy, accused Israel of confining Palestinians to "ghettos" and pursuing
+      their "complete annihilation" during a Security Council meeting. His remarks reflect
+      Russia's stance on the Israeli-Palestinian conflict, highlighting concerns over
+      the treatment of Palestinians and escalating tensions in the region.
+    published: '2025-08-11T02:12:45+00:00'
+  - title: 'WATCH: March That Sent Message to Israel: You’re Losing the West'
+    url: https://consortiumnews.com/2025/08/10/watch-march-that-sent-message-to-israel-youre-losing-the-west/
+    text: As many as 300,000 people, including WikiLeaks founder Julian Assange, marched
+      across Sydney’s Harbour Bridge last weekend with the support of the Supreme Court
+      and Sydney’s mayor in a sign of Western resistance to genocide. In a dramatic
+      march that… Read more →
+    one_sentence_summary: Around 300,000 people, including Julian Assange, participated
+      in a significant march across Sydney's Harbour Bridge to protest against genocide,
+      receiving backing from the Supreme Court and the city's mayor.
+    paragraph_summary: Last weekend, approximately 300,000 people, including WikiLeaks
+      founder Julian Assange, participated in a significant march across Sydney's Harbour
+      Bridge, demonstrating a strong stance against genocide. The event received backing
+      from the Supreme Court and Sydney's mayor, highlighting a collective Western resistance
+      to such atrocities. The dramatic march served as a powerful expression of solidarity
+      and activism for human rights.
+    published: '2025-08-10T22:21:08+00:00'
+  - title: 'WATCH: March That Sent Message to Israel: You’re Losing the West'
+    url: https://consortiumnews.com/2025/08/10/watch-march-that-sent-message-to-israel-youre-losing-the-west/
+    text: As many as 300,000 people, including WikiLeaks founder Julian Assange, marched
+      across Sydney’s Harbour Bridge last weekend with the support of the Supreme Court
+      and Sydney’s mayor in a sign of Western resistance to genocide. In a dramatic
+      march that… Read more →
+    one_sentence_summary: Around 300,000 people, including Julian Assange, participated
+      in a significant march across Sydney's Harbour Bridge to protest against genocide,
+      receiving backing from the Supreme Court and the city's mayor.
+    paragraph_summary: Last weekend, approximately 300,000 people, including WikiLeaks
+      founder Julian Assange, participated in a significant march across Sydney's Harbour
+      Bridge, demonstrating a strong stance against genocide. The event received backing
+      from the Supreme Court and Sydney's mayor, highlighting a collective Western resistance
+      to such atrocities. The dramatic march served as a powerful expression of solidarity
+      and activism for human rights.
+    published: '2025-08-10T22:21:08+00:00'
+  - title: 'ATOMIC BOMBINGS AT 80: The Mystery of the Nagasaki Bomb'
+    url: https://consortiumnews.com/2025/08/09/atomic-bombings-at-80-the-mystery-of-the-nagasaki-bomb/
+    text: On Aug. 9, 1945, as Japan’s high command met on surrender plans, the U.S.
+      dropped a second bomb on Nagasaki killing 74,000 people instantly, a decision
+      that’s never been adequately explained, writes John LaForge. By John LaForge “The
+      rights and… Read more →
+    one_sentence_summary: On August 9, 1945, the U.S. dropped a second atomic bomb on
+      Nagasaki, resulting in the immediate deaths of 74,000 people, a decision that
+      remains insufficiently justified according to John LaForge.
+    paragraph_summary: On August 9, 1945, while Japan's leadership was discussing surrender,
+      the United States dropped a second atomic bomb on Nagasaki, resulting in the immediate
+      deaths of 74,000 people. John LaForge highlights that this decision has never
+      been sufficiently justified, raising questions about the moral and strategic reasoning
+      behind the use of such devastating force at that critical moment in history.
+    published: '2025-08-09T07:42:20+00:00'
+  - title: 'ATOMIC BOMBINGS AT 80: The Mystery of the Nagasaki Bomb'
+    url: https://consortiumnews.com/2025/08/09/atomic-bombings-at-80-the-mystery-of-the-nagasaki-bomb/
+    text: On Aug. 9, 1945, as Japan’s high command met on surrender plans, the U.S.
+      dropped a second bomb on Nagasaki killing 74,000 people instantly, a decision
+      that’s never been adequately explained, writes John LaForge. By John LaForge “The
+      rights and… Read more →
+    one_sentence_summary: On August 9, 1945, the U.S. dropped a second atomic bomb on
+      Nagasaki, resulting in the immediate deaths of 74,000 people, a decision that
+      remains insufficiently justified according to John LaForge.
+    paragraph_summary: On August 9, 1945, while Japan's leadership was discussing surrender,
+      the United States dropped a second atomic bomb on Nagasaki, resulting in the immediate
+      deaths of 74,000 people. John LaForge highlights that this decision has never
+      been sufficiently justified, raising questions about the moral and strategic reasoning
+      behind the use of such devastating force at that critical moment in history.
+    published: '2025-08-09T07:42:20+00:00'
+  - title: 'ATOMIC BOMBINGS AT 80: The Very Un-Christian Nagasaki Bomb'
+    url: https://consortiumnews.com/2025/08/09/atomic-bombings-at-80-the-very-un-christian-nagasaki-bomb/
+    text: An all-Christian American crew used the steeple of Japan’s most prominent
+      Christian church as the target for an act of unspeakable barbarism, writes Gary
+      G. Kohls. What Imperial Japan Couldn’t Do in 250 Years American Christians Did
+      in Nine Seconds… Read more →
+    one_sentence_summary: Gary G. Kohls criticizes an American Christian crew for committing
+      a horrific act against the steeple of Japan's most prominent Christian church,
+      highlighting the contrast between the historical actions of Imperial Japan and
+      the destructive behavior of the American crew in a matter of seconds.
+    paragraph_summary: In his article, Gary G. Kohls critiques an incident where an
+      all-Christian American crew targeted the steeple of Japan's most significant Christian
+      church, likening this act of destruction to a form of barbarism that Imperial
+      Japan could not achieve in 250 years. He emphasizes the shocking nature of this
+      attack, suggesting it reflects a deeper moral failing within the American Christian
+      community, as they perpetrated violence against a symbol of faith in a matter
+      of seconds. Kohls raises questions about the implications of such actions and
+      the responsibilities of those who identify with the Christian faith in the context
+      of war and violence.
+    published: '2025-08-09T07:27:41+00:00'
+  - title: 'ATOMIC BOMBINGS AT 80: The Very Un-Christian Nagasaki Bomb'
+    url: https://consortiumnews.com/2025/08/09/atomic-bombings-at-80-the-very-un-christian-nagasaki-bomb/
+    text: An all-Christian American crew used the steeple of Japan’s most prominent
+      Christian church as the target for an act of unspeakable barbarism, writes Gary
+      G. Kohls. What Imperial Japan Couldn’t Do in 250 Years American Christians Did
+      in Nine Seconds… Read more →
+    one_sentence_summary: Gary G. Kohls criticizes an American Christian crew for committing
+      a horrific act against the steeple of Japan's most prominent Christian church,
+      highlighting the contrast between the historical actions of Imperial Japan and
+      the destructive behavior of the American crew in a matter of seconds.
+    paragraph_summary: In his article, Gary G. Kohls critiques an incident where an
+      all-Christian American crew targeted the steeple of Japan's most significant Christian
+      church, likening this act of destruction to a form of barbarism that Imperial
+      Japan could not achieve in 250 years. He emphasizes the shocking nature of this
+      attack, suggesting it reflects a deeper moral failing within the American Christian
+      community, as they perpetrated violence against a symbol of faith in a matter
+      of seconds. Kohls raises questions about the implications of such actions and
+      the responsibilities of those who identify with the Christian faith in the context
+      of war and violence.
+    published: '2025-08-09T07:27:41+00:00'
+  - title: 'Chris Hedges Report: Israel Also Sponsored a Genocide in Guatemala'
+    url: https://consortiumnews.com/2025/08/09/chris-hedges-report-israel-also-sponsored-a-genocide-in-guatemala/
+    text: Author and attorney Jennifer Harbury describes the “Silent Holocaust” in Guatemala
+      and its links to the genocide in Gaza, using “any methods of barbarity necessary.”
+      By Chris Hedges The Chris Hedges Report Known as the “Silent Holocaust,” the genocide
+      in… Read more →
+    one_sentence_summary: Author and attorney Jennifer Harbury highlights the "Silent
+      Holocaust" in Guatemala and its connections to the genocide in Gaza, emphasizing
+      the use of extreme brutality in both contexts.
+    paragraph_summary: In her article, author and attorney Jennifer Harbury discusses
+      the "Silent Holocaust" in Guatemala, highlighting its parallels to the genocide
+      occurring in Gaza. She emphasizes the brutal tactics employed in both situations,
+      which she describes as involving "any methods of barbarity necessary." Harbury's
+      analysis draws attention to the historical context of violence and oppression
+      in Guatemala while linking it to contemporary issues in Gaza, underscoring the
+      ongoing nature of such atrocities and the need for awareness and action against
+      them.
+    published: '2025-08-09T06:26:15+00:00'
+  - title: 'Chris Hedges Report: Israel Also Sponsored a Genocide in Guatemala'
+    url: https://consortiumnews.com/2025/08/09/chris-hedges-report-israel-also-sponsored-a-genocide-in-guatemala/
+    text: Author and attorney Jennifer Harbury describes the “Silent Holocaust” in Guatemala
+      and its links to the genocide in Gaza, using “any methods of barbarity necessary.”
+      By Chris Hedges The Chris Hedges Report Known as the “Silent Holocaust,” the genocide
+      in… Read more →
+    one_sentence_summary: Author and attorney Jennifer Harbury highlights the "Silent
+      Holocaust" in Guatemala and its connections to the genocide in Gaza, emphasizing
+      the use of extreme brutality in both contexts.
+    paragraph_summary: In her article, author and attorney Jennifer Harbury discusses
+      the "Silent Holocaust" in Guatemala, highlighting its parallels to the genocide
+      occurring in Gaza. She emphasizes the brutal tactics employed in both situations,
+      which she describes as involving "any methods of barbarity necessary." Harbury's
+      analysis draws attention to the historical context of violence and oppression
+      in Guatemala while linking it to contemporary issues in Gaza, underscoring the
+      ongoing nature of such atrocities and the need for awareness and action against
+      them.
+    published: '2025-08-09T06:26:15+00:00'
+  - title: Breaking America’s Bonds With Israel
+    url: https://consortiumnews.com/2025/08/08/breaking-americas-bonds-with-israel/
+    text: Taking a cue from the Declaration of Independence, M. Reza Behnam submits
+      facts “to a candid world” that impel the dissolution of a destructive liaison.
+      By M. Reza Behnam Z-Network It has become abundantly clear that after 250 years,
+      a… Read more →
+    one_sentence_summary: M. Reza Behnam argues for the dissolution of a harmful relationship
+      by presenting compelling evidence, drawing inspiration from the Declaration of
+      Independence.
+    paragraph_summary: In his article, M. Reza Behnam draws inspiration from the Declaration
+      of Independence to present compelling arguments for ending a harmful relationship
+      that has persisted for 250 years. He outlines various facts and grievances that
+      highlight the destructive nature of this alliance, urging a candid acknowledgment
+      of the need for change and the dissolution of this detrimental connection.
+    published: '2025-08-08T18:00:25+00:00'
+  - title: Breaking America’s Bonds With Israel
+    url: https://consortiumnews.com/2025/08/08/breaking-americas-bonds-with-israel/
+    text: Taking a cue from the Declaration of Independence, M. Reza Behnam submits
+      facts “to a candid world” that impel the dissolution of a destructive liaison.
+      By M. Reza Behnam Z-Network It has become abundantly clear that after 250 years,
+      a… Read more →
+    one_sentence_summary: M. Reza Behnam argues for the dissolution of a harmful relationship
+      by presenting compelling evidence, drawing inspiration from the Declaration of
+      Independence.
+    paragraph_summary: In his article, M. Reza Behnam draws inspiration from the Declaration
+      of Independence to present compelling arguments for ending a harmful relationship
+      that has persisted for 250 years. He outlines various facts and grievances that
+      highlight the destructive nature of this alliance, urging a candid acknowledgment
+      of the need for change and the dissolution of this detrimental connection.
+    published: '2025-08-08T18:00:25+00:00'
+  - title: 'Patrick Lawrence: Yes, It’s Genocide'
+    url: https://consortiumnews.com/2025/08/08/patrick-lawrence-yes-its-genocide/
+    text: Now the countless images of starving Palestinians — men, women, children,
+      ordinary people, doctors, nurses, aid workers — have pushed matters to the point
+      we can now call genocide by its proper name. By Patrick Lawrence  ScheerPost Correct
+      nomenclature, as I… Read more →
+    one_sentence_summary: The article argues that the widespread suffering and starvation
+      of Palestinians has reached a level that warrants the classification of their
+      situation as genocide.
+    paragraph_summary: In his article, Patrick Lawrence argues that the widespread and
+      distressing images of starving Palestinians, including various demographics such
+      as families and healthcare workers, have reached a critical point that necessitates
+      labeling the situation as genocide. He emphasizes the importance of using accurate
+      terminology to describe the humanitarian crisis, highlighting the severity of
+      the conditions faced by the Palestinian people.
+    published: '2025-08-08T15:00:16+00:00'
+  - title: 'Patrick Lawrence: Yes, It’s Genocide'
+    url: https://consortiumnews.com/2025/08/08/patrick-lawrence-yes-its-genocide/
+    text: Now the countless images of starving Palestinians — men, women, children,
+      ordinary people, doctors, nurses, aid workers — have pushed matters to the point
+      we can now call genocide by its proper name. By Patrick Lawrence  ScheerPost Correct
+      nomenclature, as I… Read more →
+    one_sentence_summary: The article argues that the widespread suffering and starvation
+      of Palestinians has reached a level that warrants the classification of their
+      situation as genocide.
+    paragraph_summary: In his article, Patrick Lawrence argues that the widespread and
+      distressing images of starving Palestinians, including various demographics such
+      as families and healthcare workers, have reached a critical point that necessitates
+      labeling the situation as genocide. He emphasizes the importance of using accurate
+      terminology to describe the humanitarian crisis, highlighting the severity of
+      the conditions faced by the Palestinian people.
+    published: '2025-08-08T15:00:16+00:00'
+  - title: With Five Eyes on China, FBI Bulks Up in New Zealand
+    url: https://consortiumnews.com/2025/08/07/with-five-eyes-on-china-fbi-bulks-up-in-new-zealand/
+    text: Mick Hall covers the upgrade of the U.S. intelligence agency’s Wellington
+      operation to “counter the CCP” as another milestone of U.S. meddling in the Asia-Pacific.
+      By Mick Hall in Whangarei, New Zealand Special to Consortium News The opening
+      of a… Read more →
+    one_sentence_summary: Mick Hall discusses the upgrade of the U.S. intelligence agency's
+      Wellington operation aimed at countering the Chinese Communist Party, highlighting
+      it as another instance of U.S. interference in the Asia-Pacific region.
+    paragraph_summary: Mick Hall discusses the recent enhancement of the U.S. intelligence
+      agency's operations in Wellington, New Zealand, aimed at countering the influence
+      of the Chinese Communist Party (CCP) in the Asia-Pacific region. He views this
+      development as a significant instance of U.S. intervention in the area, highlighting
+      the broader implications of American strategic maneuvers in response to perceived
+      threats from China.
+    published: '2025-08-07T21:00:20+00:00'
+  - title: With Five Eyes on China, FBI Bulks Up in New Zealand
+    url: https://consortiumnews.com/2025/08/07/with-five-eyes-on-china-fbi-bulks-up-in-new-zealand/
+    text: Mick Hall covers the upgrade of the U.S. intelligence agency’s Wellington
+      operation to “counter the CCP” as another milestone of U.S. meddling in the Asia-Pacific.
+      By Mick Hall in Whangarei, New Zealand Special to Consortium News The opening
+      of a… Read more →
+    one_sentence_summary: Mick Hall discusses the upgrade of the U.S. intelligence agency's
+      Wellington operation aimed at countering the Chinese Communist Party, highlighting
+      it as another instance of U.S. interference in the Asia-Pacific region.
+    paragraph_summary: Mick Hall discusses the recent enhancement of the U.S. intelligence
+      agency's operations in Wellington, New Zealand, aimed at countering the influence
+      of the Chinese Communist Party (CCP) in the Asia-Pacific region. He views this
+      development as a significant instance of U.S. intervention in the area, highlighting
+      the broader implications of American strategic maneuvers in response to perceived
+      threats from China.
+    published: '2025-08-07T21:00:20+00:00'
+  - title: Palestinian Solidarity Is Achieving Critical Mass
+    url: https://consortiumnews.com/2025/08/07/palestinian-solidarity-is-achieving-critical-mass/
+    text: Palestinians and all supporters of justice worldwide should urgently seize
+      this critical opportunity to decisively defeat the Israeli Hasbara for good, writes
+      Ramzy Baroud. By Ramzy Baroud Common Dreams I rarely visit Rome without stopping
+      at the Campo de’ Fiori to… Read more →
+    one_sentence_summary: Ramzy Baroud emphasizes the urgent need for Palestinians and
+      global supporters of justice to capitalize on a pivotal moment to effectively
+      counter Israeli propaganda.
+    paragraph_summary: In his article, Ramzy Baroud emphasizes the urgent need for Palestinians
+      and global supporters of justice to capitalize on a pivotal moment to effectively
+      counter Israeli propaganda, known as Hasbara. He reflects on his experiences in
+      Rome, particularly at Campo de’ Fiori, and calls for a collective effort to challenge
+      and dismantle the narratives that perpetuate injustice against Palestinians. Baroud
+      advocates for a unified and decisive response to promote awareness and support
+      for the Palestinian cause.
+    published: '2025-08-07T17:00:34+00:00'
+  - title: Palestinian Solidarity Is Achieving Critical Mass
+    url: https://consortiumnews.com/2025/08/07/palestinian-solidarity-is-achieving-critical-mass/
+    text: Palestinians and all supporters of justice worldwide should urgently seize
+      this critical opportunity to decisively defeat the Israeli Hasbara for good, writes
+      Ramzy Baroud. By Ramzy Baroud Common Dreams I rarely visit Rome without stopping
+      at the Campo de’ Fiori to… Read more →
+    one_sentence_summary: Ramzy Baroud emphasizes the urgent need for Palestinians and
+      global supporters of justice to capitalize on a pivotal moment to effectively
+      counter Israeli propaganda.
+    paragraph_summary: In his article, Ramzy Baroud emphasizes the urgent need for Palestinians
+      and global supporters of justice to capitalize on a pivotal moment to effectively
+      counter Israeli propaganda, known as Hasbara. He reflects on his experiences in
+      Rome, particularly at Campo de’ Fiori, and calls for a collective effort to challenge
+      and dismantle the narratives that perpetuate injustice against Palestinians. Baroud
+      advocates for a unified and decisive response to promote awareness and support
+      for the Palestinian cause.
+    published: '2025-08-07T17:00:34+00:00'
+  - title: Dockworkers in Italy Block Arms Shipment to Israel
+    url: https://consortiumnews.com/2025/08/07/dockworkers-in-italy-block-arms-shipment-to-israel/
+    text: This outcome adds to a growing list of union-led actions across Europe in
+      solidarity with Palestine and against the ongoing genocide in Gaza, Ana Vracar
+      reports. By Ana Vracar Peoples Dispatch Italian port workers secured a significant
+      win last week… Read more →
+    one_sentence_summary: Italian port workers achieved a notable victory in their union-led
+      efforts supporting Palestine and opposing the ongoing violence in Gaza, contributing
+      to a broader movement across Europe.
+    paragraph_summary: Italian port workers achieved a notable victory in their solidarity
+      actions for Palestine, joining a broader wave of union-led initiatives across
+      Europe that oppose the ongoing violence in Gaza. This movement reflects a growing
+      commitment among labor organizations to advocate for Palestinian rights and highlight
+      the humanitarian crisis in the region, as reported by Ana Vracar for Peoples Dispatch.
+    published: '2025-08-07T15:00:57+00:00'
+  - title: Dockworkers in Italy Block Arms Shipment to Israel
+    url: https://consortiumnews.com/2025/08/07/dockworkers-in-italy-block-arms-shipment-to-israel/
+    text: This outcome adds to a growing list of union-led actions across Europe in
+      solidarity with Palestine and against the ongoing genocide in Gaza, Ana Vracar
+      reports. By Ana Vracar Peoples Dispatch Italian port workers secured a significant
+      win last week… Read more →
+    one_sentence_summary: Italian port workers achieved a notable victory in their union-led
+      efforts supporting Palestine and opposing the ongoing violence in Gaza, contributing
+      to a broader movement across Europe.
+    paragraph_summary: Italian port workers achieved a notable victory in their solidarity
+      actions for Palestine, joining a broader wave of union-led initiatives across
+      Europe that oppose the ongoing violence in Gaza. This movement reflects a growing
+      commitment among labor organizations to advocate for Palestinian rights and highlight
+      the humanitarian crisis in the region, as reported by Ana Vracar for Peoples Dispatch.
+    published: '2025-08-07T15:00:57+00:00'
+  - title: 'ATOMIC BOMBINGS AT 80: John Pilger — Another Hiroshima is Coming — Unless
+      We Stop It Now'
+    url: https://consortiumnews.com/2025/08/06/atomic-bombings-at-80-john-pilger-another-hiroshima-is-coming-unless-we-stop-it-now/
+    text: Hiroshima and Nagasaki were acts of premeditated mass murder unleashing a
+      weapon of intrinsic criminality. It was justified by lies that form the bedrock
+      of 21st century U.S. war propaganda, casting a new enemy, and target — China.
+      By John Pilger… Read more →
+    one_sentence_summary: The article by John Pilger argues that the atomic bombings
+      of Hiroshima and Nagasaki were deliberate acts of mass murder justified by deceitful
+      narratives that now serve as a foundation for contemporary U.S. war propaganda
+      against China.
+    paragraph_summary: In his article, John Pilger argues that the atomic bombings of
+      Hiroshima and Nagasaki were deliberate acts of mass murder, characterized by the
+      use of a weapon that embodies intrinsic criminality. He contends that these actions
+      were justified through false narratives that have become foundational to contemporary
+      U.S. war propaganda, particularly in framing China as a new adversary. Pilger
+      critiques the moral implications of these bombings and their lasting impact on
+      international relations and perceptions of warfare.
+    published: '2025-08-07T00:00:53+00:00'
+  - title: 'ATOMIC BOMBINGS AT 80: John Pilger — Another Hiroshima is Coming — Unless
+      We Stop It Now'
+    url: https://consortiumnews.com/2025/08/06/atomic-bombings-at-80-john-pilger-another-hiroshima-is-coming-unless-we-stop-it-now/
+    text: Hiroshima and Nagasaki were acts of premeditated mass murder unleashing a
+      weapon of intrinsic criminality. It was justified by lies that form the bedrock
+      of 21st century U.S. war propaganda, casting a new enemy, and target — China.
+      By John Pilger… Read more →
+    one_sentence_summary: The article by John Pilger argues that the atomic bombings
+      of Hiroshima and Nagasaki were deliberate acts of mass murder justified by deceitful
+      narratives that now serve as a foundation for contemporary U.S. war propaganda
+      against China.
+    paragraph_summary: In his article, John Pilger argues that the atomic bombings of
+      Hiroshima and Nagasaki were deliberate acts of mass murder, characterized by the
+      use of a weapon that embodies intrinsic criminality. He contends that these actions
+      were justified through false narratives that have become foundational to contemporary
+      U.S. war propaganda, particularly in framing China as a new adversary. Pilger
+      critiques the moral implications of these bombings and their lasting impact on
+      international relations and perceptions of warfare.
+    published: '2025-08-07T00:00:53+00:00'
+  - title: 'ATOMIC BOMBINGS AT 80: When Time Stopped in Hiroshima — and When it Was
+      Stolen'
+    url: https://consortiumnews.com/2025/08/06/atomic-bombings-at-80-when-time-stopped-in-hiroshima-and-when-it-was-stolen/
+    text: The first atomic bomb burst at 8:15 a.m. over the city of Hiroshima leaving
+      its impression on a watch that disappeared 44 years later, reports Joe Lauria.
+      On the 80th anniversary of the atomic bombing of Hiroshima, Joe Lauria retells…
+      Read more →
+    one_sentence_summary: On the 80th anniversary of the atomic bombing of Hiroshima,
+      Joe Lauria recounts the lasting impact of the event, symbolized by a watch that
+      recorded the moment of the explosion at 8:15 a.m. and vanished 44 years later.
+    paragraph_summary: On the 80th anniversary of the atomic bombing of Hiroshima, Joe
+      Lauria reflects on the devastating impact of the first atomic bomb, which detonated
+      at 8:15 a.m. and left a lasting mark on a watch that would vanish 44 years later.
+      The article serves as a poignant reminder of the horrors of nuclear warfare and
+      the enduring legacy of the event on the city and its survivors.
+    published: '2025-08-06T21:00:42+00:00'
+  - title: 'ATOMIC BOMBINGS AT 80: When Time Stopped in Hiroshima — and When it Was
+      Stolen'
+    url: https://consortiumnews.com/2025/08/06/atomic-bombings-at-80-when-time-stopped-in-hiroshima-and-when-it-was-stolen/
+    text: The first atomic bomb burst at 8:15 a.m. over the city of Hiroshima leaving
+      its impression on a watch that disappeared 44 years later, reports Joe Lauria.
+      On the 80th anniversary of the atomic bombing of Hiroshima, Joe Lauria retells…
+      Read more →
+    one_sentence_summary: On the 80th anniversary of the atomic bombing of Hiroshima,
+      Joe Lauria recounts the lasting impact of the event, symbolized by a watch that
+      recorded the moment of the explosion at 8:15 a.m. and vanished 44 years later.
+    paragraph_summary: On the 80th anniversary of the atomic bombing of Hiroshima, Joe
+      Lauria reflects on the devastating impact of the first atomic bomb, which detonated
+      at 8:15 a.m. and left a lasting mark on a watch that would vanish 44 years later.
+      The article serves as a poignant reminder of the horrors of nuclear warfare and
+      the enduring legacy of the event on the city and its survivors.
+    published: '2025-08-06T21:00:42+00:00'
+  - title: 'ATOMIC BOMBINGS AT 80: Truman’s ‘Human Sacrifice’ to Subdue Moscow'
+    url: https://consortiumnews.com/2025/08/06/atomic-bombings-at-80-trumans-human-sacrifice-to-subdue-moscow/
+    text: In this introduction to the memoir of a Nagasaki bombing victim, historian
+      Peter Kuznick shows why the bombs were dropped and how some victims’ anger propelled
+      the Japanese anti-nuclear movement. By Peter Kuznick Sumiteru Taniguchi was one
+      of the “lucky”… Read more →
+    one_sentence_summary: Historian Peter Kuznick's introduction to the memoir of Nagasaki
+      bombing victim Sumiteru Taniguchi explores the reasons behind the bombings and
+      highlights how the anger of survivors fueled the Japanese anti-nuclear movement.
+    paragraph_summary: In his introduction to the memoir of Nagasaki bombing survivor
+      Sumiteru Taniguchi, historian Peter Kuznick explores the reasons behind the atomic
+      bombings and highlights how the profound suffering of victims like Taniguchi fueled
+      the Japanese anti-nuclear movement. Kuznick emphasizes Taniguchi's experience
+      as a testament to the resilience of those affected and the broader implications
+      of nuclear warfare, illustrating how personal narratives can drive collective
+      action against nuclear weapons.
+    published: '2025-08-06T18:00:41+00:00'
+  - title: 'ATOMIC BOMBINGS AT 80: Truman’s ‘Human Sacrifice’ to Subdue Moscow'
+    url: https://consortiumnews.com/2025/08/06/atomic-bombings-at-80-trumans-human-sacrifice-to-subdue-moscow/
+    text: In this introduction to the memoir of a Nagasaki bombing victim, historian
+      Peter Kuznick shows why the bombs were dropped and how some victims’ anger propelled
+      the Japanese anti-nuclear movement. By Peter Kuznick Sumiteru Taniguchi was one
+      of the “lucky”… Read more →
+    one_sentence_summary: Historian Peter Kuznick's introduction to the memoir of Nagasaki
+      bombing victim Sumiteru Taniguchi explores the reasons behind the bombings and
+      highlights how the anger of survivors fueled the Japanese anti-nuclear movement.
+    paragraph_summary: In his introduction to the memoir of Nagasaki bombing survivor
+      Sumiteru Taniguchi, historian Peter Kuznick explores the reasons behind the atomic
+      bombings and highlights how the profound suffering of victims like Taniguchi fueled
+      the Japanese anti-nuclear movement. Kuznick emphasizes Taniguchi's experience
+      as a testament to the resilience of those affected and the broader implications
+      of nuclear warfare, illustrating how personal narratives can drive collective
+      action against nuclear weapons.
+    published: '2025-08-06T18:00:41+00:00'
+  - title: 'ATOMIC BOMBINGS AT 80:  How US Spies Secured the Hiroshima Uranium'
+    url: https://consortiumnews.com/2025/08/06/atomic-bombings-at-80-how-us-spies-secured-the-hiroshima-uranium/
+    text: A dark secret behind the Hiroshima bomb is where the uranium came from, a
+      spy-vs.-spy race to secure naturally enriched uranium from Congo to fuel the Manhattan
+      Project and keep the rare mineral out of Nazi hands, reports Joe Lauria.… Read
+      more →
+    one_sentence_summary: The article reveals that the uranium used in the Hiroshima
+      bomb was sourced through a covert competition to obtain naturally enriched uranium
+      from Congo, aimed at fueling the Manhattan Project while preventing it from falling
+      into Nazi hands.
+    paragraph_summary: The article reveals a hidden aspect of the Hiroshima bomb's development,
+      focusing on the race to obtain naturally enriched uranium from the Congo for the
+      Manhattan Project. It highlights the espionage efforts to secure this critical
+      resource and prevent it from falling into Nazi hands, emphasizing the geopolitical
+      tensions and secretive maneuvers involved in the wartime effort to produce the
+      atomic bomb.
+    published: '2025-08-06T15:30:16+00:00'
+  - title: 'ATOMIC BOMBINGS AT 80:  How US Spies Secured the Hiroshima Uranium'
+    url: https://consortiumnews.com/2025/08/06/atomic-bombings-at-80-how-us-spies-secured-the-hiroshima-uranium/
+    text: A dark secret behind the Hiroshima bomb is where the uranium came from, a
+      spy-vs.-spy race to secure naturally enriched uranium from Congo to fuel the Manhattan
+      Project and keep the rare mineral out of Nazi hands, reports Joe Lauria.… Read
+      more →
+    one_sentence_summary: The article reveals that the uranium used in the Hiroshima
+      bomb was sourced through a covert competition to obtain naturally enriched uranium
+      from Congo, aimed at fueling the Manhattan Project while preventing it from falling
+      into Nazi hands.
+    paragraph_summary: The article reveals a hidden aspect of the Hiroshima bomb's development,
+      focusing on the race to obtain naturally enriched uranium from the Congo for the
+      Manhattan Project. It highlights the espionage efforts to secure this critical
+      resource and prevent it from falling into Nazi hands, emphasizing the geopolitical
+      tensions and secretive maneuvers involved in the wartime effort to produce the
+      atomic bomb.
+    published: '2025-08-06T15:30:16+00:00'
   - title: 'ATOMIC BOMBINGS AT 80: The Enduring Myth of Hiroshima & Nagasaki'
     url: https://consortiumnews.com/2025/08/05/atomic-bombings-at-80-the-enduring-myth-of-hiroshima-nagasaki/
     text: After the U.S. atomic bombings of Hiroshima and Nagasaki On Aug. 6 and Aug.

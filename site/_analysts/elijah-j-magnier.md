@@ -7,14 +7,1328 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  The ongoing conflict in Gaza continues to reshape regional and international dynamics, with recent developments highlighting Israel’s covert diplomatic efforts and the shifting credibility of Western actors.
+  Tensions in the Middle East and the South Caucasus remain high following a series of escalatory moves over the past weeks. The aftermath of the June 2025 Israeli-U.S. strikes on Iran’s nuclear facilities continues to reverberate, while the recently signed “Trump Bridge” corridor agreement between Azerbaijan and Armenia is reshaping regional alliances and rivalries.
   
-  In the latest reports, **Elijah J. Magnier** reveals that Israeli intelligence, under Mossad Director David Barnea, has intensified a secret campaign to persuade third countries to accept Palestinians displaced by the Gaza war. This initiative follows Egypt’s categorical rejection of proposals to resettle Gazans in the Sinai desert. According to Magnier, this move is widely perceived as an attempt at “ethnic cleansing disguised as humanitarian aid,” a sentiment echoed by critics across the region. The campaign’s secrecy and the targeting of multiple countries underscore Israel’s determination to find a solution outside its borders, despite mounting international criticism.
+  The most recent development is Iran’s adoption of a “nuclear blackout” strategy. In response to the strikes, Tehran has ceased cooperation with international nuclear inspectors and is withholding information about its uranium enrichment levels. According to **Elijah J. Magnier**, Iran is now setting stringent preconditions for any future negotiations with the West, while the European Union debates new sanctions. Russia and China have publicly urged restraint, but their influence appears limited as the crisis deepens.
   
-  Meanwhile, the humanitarian situation in Gaza remains dire. Previous reports established that famine is not a result of logistical failure but a deliberate strategy, with Western complicity enabling Israel’s blockade of essential resources. The recent visit by US Presidential Envoy Steve Witkoff, who dismissed the famine as “narratively exaggerated,” has further eroded American credibility, especially among countries advocating for Palestinian rights. **Magnier** notes that this has triggered a “significant decline in American moral authority and credibility on the global stage,” particularly in the Global South.
+  Meanwhile, the South Caucasus has witnessed a significant diplomatic shift. The U.S.-brokered transit agreement, signed at the White House by Azerbaijani President Ilham Aliyev and Armenian Prime Minister Nikol Pashinyan, establishes a corridor connecting Azerbaijan to its Nakhchivan exclave through Armenian territory. Both Iran and Russia have voiced strong opposition, viewing the corridor as a threat to their regional interests and influence. **Elijah J. Magnier** notes that this deal could “redraw the strategic map of the Caucasus,” with the potential to trigger further friction between regional powers.
   
-  Looking ahead, the majority of sources agree that Israel’s diplomatic push to relocate Gazans is unlikely to succeed in the near term, given the strong opposition from neighboring states and the growing international scrutiny. The humanitarian crisis is expected to persist, with Western governments facing increasing pressure to reconsider their support for current Israeli policies. Based on current trends, I guarantee that the issue of forced displacement and the legitimacy of Western involvement will remain central to the geopolitical discourse in the coming weeks.
+  In Gaza, Israel’s preparations for a major ground assault on Gaza City have led to a breakdown in ceasefire talks with Hamas. The planned operation, described by Israeli officials as a move from “occupation” to “control,” is expected to result in prolonged fighting and mass displacement. **Elijah J. Magnier** reports that the offensive could last up to three months, with significant humanitarian consequences for the civilian population.
+  
+  Looking ahead, the trends point to further instability. Iran’s nuclear blackout is likely to prolong the standoff with the West, and I guarantee that negotiations will remain stalled unless there is a significant shift in U.S. or EU policy. The “Trump Bridge” corridor will most definitely increase tensions between Azerbaijan, Armenia, Iran, and Russia, with a high chance of new security dilemmas emerging in the region. In Gaza, the Israeli offensive is quite likely to escalate, deepening the humanitarian crisis and reducing prospects for a negotiated ceasefire in the near term.
 articles:
+  - title: 'Iran – US: A New Era of Astute Diplomacy and Nuclear Blackout'
+    url: https://ejmagnier.com/2025/08/11/iran-us-a-new-era-of-astute-diplomacy-and-nuclear-blackout/
+    text: 'Tweet By Elijah J. Magnier Summary: After the June 2025 Israeli–U.S. strikes
+      on Fordow, Natanz, and Esfahan, Iran has adopted a calculated “nuclear blackout”
+      strategy—agreeing to meet IAEA deputy chief Lydie Evrard but denying inspections
+      and refusing to disclose the fate of its 20% and 60% enriched uranium stockpiles.
+      Tehran cites Western silence over the attacks, accuses IAEA chief Rafael Grossi
+      of leaking intelligence to Israel, and sets tough new preconditions for talks,
+      including U.S. compensation and security guarantees. The EU is edging toward triggering
+      UN snapback sanctions, while Russia and China urge restraint. Although the extent
+      of damage to Iran’s nuclear infrastructure remains unclear, the country possessed
+      nearly 22,000 centrifuges and the capacity for rapid enrichment before the war,
+      along with the technical expertise to rebuild. Both Washington and Tehran remain
+      locked in irreconcilable positions—zero enrichment versus NPT rights—leaving diplomacy
+      stalled and “armed diplomacy” as Iran’s chosen course. Article : Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: After the June 2025 Israeli-U.S. strikes on its nuclear facilities,
+      Iran has implemented a "nuclear blackout" strategy by refusing inspections and
+      disclosing its enriched uranium stockpiles, while setting tough preconditions
+      for negotiations amidst escalating tensions with the West and calls for sanctions
+      from the EU.
+    paragraph_summary: Following the June 2025 Israeli-U.S. strikes on key Iranian nuclear
+      sites, Iran has implemented a "nuclear blackout" strategy, engaging with the IAEA
+      while denying inspections and withholding information about its enriched uranium
+      stockpiles. Tehran accuses the IAEA of leaking intelligence to Israel and has
+      set stringent preconditions for future negotiations, including demands for U.S.
+      compensation and security guarantees. Meanwhile, the EU is considering reactivating
+      UN sanctions, and Russia and China are calling for restraint. Despite the unclear
+      damage to Iran's nuclear capabilities, which include nearly 22,000 centrifuges,
+      both Washington and Tehran remain at an impasse over enrichment rights, leading
+      Iran to adopt a stance of "armed diplomacy."
+    published: '2025-08-11T17:51:00+00:00'
+  - title: 'Iran – US: A New Era of Astute Diplomacy and Nuclear Blackout'
+    url: https://ejmagnier.com/2025/08/11/iran-us-a-new-era-of-astute-diplomacy-and-nuclear-blackout/
+    text: 'Tweet By Elijah J. Magnier Summary: After the June 2025 Israeli–U.S. strikes
+      on Fordow, Natanz, and Esfahan, Iran has adopted a calculated “nuclear blackout”
+      strategy—agreeing to meet IAEA deputy chief Lydie Evrard but denying inspections
+      and refusing to disclose the fate of its 20% and 60% enriched uranium stockpiles.
+      Tehran cites Western silence over the attacks, accuses IAEA chief Rafael Grossi
+      of leaking intelligence to Israel, and sets tough new preconditions for talks,
+      including U.S. compensation and security guarantees. The EU is edging toward triggering
+      UN snapback sanctions, while Russia and China urge restraint. Although the extent
+      of damage to Iran’s nuclear infrastructure remains unclear, the country possessed
+      nearly 22,000 centrifuges and the capacity for rapid enrichment before the war,
+      along with the technical expertise to rebuild. Both Washington and Tehran remain
+      locked in irreconcilable positions—zero enrichment versus NPT rights—leaving diplomacy
+      stalled and “armed diplomacy” as Iran’s chosen course. Article : Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: After the June 2025 Israeli-U.S. strikes on its nuclear facilities,
+      Iran has implemented a "nuclear blackout" strategy by refusing inspections and
+      disclosing its enriched uranium stockpiles, while setting tough preconditions
+      for negotiations amidst escalating tensions with the West and calls for sanctions
+      from the EU.
+    paragraph_summary: Following the June 2025 Israeli-U.S. strikes on key Iranian nuclear
+      sites, Iran has implemented a "nuclear blackout" strategy, engaging with the IAEA
+      while denying inspections and withholding information about its enriched uranium
+      stockpiles. Tehran accuses the IAEA of leaking intelligence to Israel and has
+      set stringent preconditions for future negotiations, including demands for U.S.
+      compensation and security guarantees. Meanwhile, the EU is considering reactivating
+      UN sanctions, and Russia and China are calling for restraint. Despite the unclear
+      damage to Iran's nuclear capabilities, which include nearly 22,000 centrifuges,
+      both Washington and Tehran remain at an impasse over enrichment rights, leading
+      Iran to adopt a stance of "armed diplomacy."
+    published: '2025-08-11T17:51:00+00:00'
+  - title: 'Iran – États-Unis : Une nouvelle ère de diplomatie avisée et de blackout
+      nucléaire'
+    url: https://ejmagnier.com/2025/08/11/iran-etats-unis-une-nouvelle-ere-de-diplomatie-avisee-et-de-blackout-nucleaire/
+    text: 'Tweet Par Elijah J. Magnier Résumé : Après les frappes israélo-américaines
+      de juin 2025 contre Fordow, Natanz et Ispahan, l’Iran a adopté une stratégie calculée
+      de « blackout nucléaire » — acceptant de rencontrer la directrice adjointe de
+      l’AIEA, Lydie Evrard, mais refusant toute inspection et tout dévoilement du sort
+      de ses stocks d’uranium enrichi à 20 % et 60 %. Téhéran dénonce le silence occidental
+      face aux attaques, accuse le directeur de l’AIEA, Rafael Grossi, d’avoir transmis
+      des renseignements à Israël, et fixe de nouvelles conditions strictes pour toute
+      reprise des discussions, dont une compensation américaine et des garanties de
+      sécurité. L’UE se rapproche du déclenchement des sanctions automatiques de l’ONU,
+      tandis que la Russie et la Chine appellent à la retenue. Bien que l’ampleur des
+      dégâts infligés à l’infrastructure nucléaire iranienne reste incertaine, le pays
+      disposait avant-guerre de près de 22 000 centrifugeuses et d’une capacité d’enrichissement
+      rapide, ainsi que de l’expertise technique pour reconstruire. Washington et Téhéran
+      restent enfermés dans des positions irréconciliables — zéro enrichissement contre
+      droits prévus par le TNP — laissant la diplomatie dans l’impasse et la « diplomatie
+      armée » comme voie privilégiée par l’Iran. Article : Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Après les frappes israélo-américaines de juin 2025 sur des
+      installations nucléaires iraniennes, l'Iran a adopté une stratégie de "blackout
+      nucléaire", refusant les inspections de l'AIEA tout en dénonçant le silence occidental
+      et en posant de nouvelles conditions pour des négociations, tandis que l'UE envisage
+      des sanctions et que la Russie et la Chine appellent à la retenue.
+    paragraph_summary: After the Israeli-American strikes in June 2025 targeting Iran's
+      nuclear facilities at Fordow, Natanz, and Isfahan, Iran has implemented a "nuclear
+      blackout" strategy, engaging with the IAEA's deputy director while refusing inspections
+      or disclosure of its enriched uranium stocks. Tehran criticizes the West's silence
+      on the attacks, accuses IAEA chief Rafael Grossi of leaking information to Israel,
+      and sets strict new conditions for resuming negotiations, including U.S. compensation
+      and security guarantees. The EU is nearing the activation of automatic UN sanctions,
+      while Russia and China urge restraint. Despite uncertainty about the damage to
+      Iran's nuclear infrastructure, the country retains significant enrichment capabilities
+      and technical expertise. The diplomatic standoff continues, with Washington and
+      Tehran holding irreconcilable positions—zero enrichment versus rights under the
+      NPT—leading Iran to favor "armed diplomacy."
+    published: '2025-08-11T17:49:42+00:00'
+  - title: 'Iran – États-Unis : Une nouvelle ère de diplomatie avisée et de blackout
+      nucléaire'
+    url: https://ejmagnier.com/2025/08/11/iran-etats-unis-une-nouvelle-ere-de-diplomatie-avisee-et-de-blackout-nucleaire/
+    text: 'Tweet Par Elijah J. Magnier Résumé : Après les frappes israélo-américaines
+      de juin 2025 contre Fordow, Natanz et Ispahan, l’Iran a adopté une stratégie calculée
+      de « blackout nucléaire » — acceptant de rencontrer la directrice adjointe de
+      l’AIEA, Lydie Evrard, mais refusant toute inspection et tout dévoilement du sort
+      de ses stocks d’uranium enrichi à 20 % et 60 %. Téhéran dénonce le silence occidental
+      face aux attaques, accuse le directeur de l’AIEA, Rafael Grossi, d’avoir transmis
+      des renseignements à Israël, et fixe de nouvelles conditions strictes pour toute
+      reprise des discussions, dont une compensation américaine et des garanties de
+      sécurité. L’UE se rapproche du déclenchement des sanctions automatiques de l’ONU,
+      tandis que la Russie et la Chine appellent à la retenue. Bien que l’ampleur des
+      dégâts infligés à l’infrastructure nucléaire iranienne reste incertaine, le pays
+      disposait avant-guerre de près de 22 000 centrifugeuses et d’une capacité d’enrichissement
+      rapide, ainsi que de l’expertise technique pour reconstruire. Washington et Téhéran
+      restent enfermés dans des positions irréconciliables — zéro enrichissement contre
+      droits prévus par le TNP — laissant la diplomatie dans l’impasse et la « diplomatie
+      armée » comme voie privilégiée par l’Iran. Article : Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Après les frappes israélo-américaines de juin 2025 sur des
+      installations nucléaires iraniennes, l'Iran a adopté une stratégie de "blackout
+      nucléaire", refusant les inspections de l'AIEA tout en dénonçant le silence occidental
+      et en posant de nouvelles conditions pour des négociations, tandis que l'UE envisage
+      des sanctions et que la Russie et la Chine appellent à la retenue.
+    paragraph_summary: After the Israeli-American strikes in June 2025 targeting Iran's
+      nuclear facilities at Fordow, Natanz, and Isfahan, Iran has implemented a "nuclear
+      blackout" strategy, engaging with the IAEA's deputy director while refusing inspections
+      or disclosure of its enriched uranium stocks. Tehran criticizes the West's silence
+      on the attacks, accuses IAEA chief Rafael Grossi of leaking information to Israel,
+      and sets strict new conditions for resuming negotiations, including U.S. compensation
+      and security guarantees. The EU is nearing the activation of automatic UN sanctions,
+      while Russia and China urge restraint. Despite uncertainty about the damage to
+      Iran's nuclear infrastructure, the country retains significant enrichment capabilities
+      and technical expertise. The diplomatic standoff continues, with Washington and
+      Tehran holding irreconcilable positions—zero enrichment versus rights under the
+      NPT—leading Iran to favor "armed diplomacy."
+    published: '2025-08-11T17:49:42+00:00'
+  - title: 'The “Trump Bridge” Corridor: Why Russia and Iran Are Pushing Back'
+    url: https://ejmagnier.com/2025/08/10/the-trump-bridge-corridor-why-russia-and-iran-are-pushing-back/
+    text: 'Tweet By Elijah J. Magnier – Last Friday, Azerbaijani President Ilham Aliyev
+      and Armenian Prime Minister Nikol Pashinyan signed a landmark transit deal at
+      the White House, mediated and hosted by U.S. President Donald Trump. The agreement
+      grants development rights for a strategic transport corridor connecting mainland
+      Azerbaijan to its Nakhchivan exclave via Armenia’s southern Syunik province—rebranded
+      by Washington as the “Trump Route for International Peace and Prosperity” (TRIPP)
+      and informally referred to as the “Trump bridge.” President Trump hailed the project
+      as a driver of economic revitalisation and regional connectivity, pledging substantial
+      U.S. investment as part of a broader effort to cement American influence in the
+      South Caucasus. However, the initiative has drawn sharp opposition from Tehran
+      and Moscow. Ali Akbar Velayati, senior adviser to Iran’s Supreme Leader Sayyed
+      Ali Khamenei, warned that Iran would act—with or without Russian support—to prevent
+      the corridor’s realisation. For Iran and Russia, the project represents far more
+      than an infrastructure venture. Strategically, it offers a direct bypass that
+      could weaken their longstanding dominance in the region, potentially shifting
+      the geopolitical balance toward Turkey and the United States. The plan revives,
+      in modern form, the old Soviet-era link that once connected Azerbaijan proper
+      to Nakhchivan via Armenian territory. Those lines collapsed during the first Nagorno-Karabakh
+      war in the late 1980s and early 1990s. The 2020 ceasefire, brokered by Russia
+      after the Second Karabakh War, mentioned “unblocking” regional communications
+      but stopped short of requiring an extraterritorial corridor. What Washington has
+      now engineered is far more geopolitically charged: a through-route under Armenian
+      sovereignty but opened to Azerbaijani traffic with U.S. and EU guarantees, excluding
+      both Russia and Iran from operational control. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Azerbaijani President Ilham Aliyev and Armenian Prime Minister
+      Nikol Pashinyan signed a significant transit deal at the White House, mediated
+      by President Trump, to establish a transport corridor between Azerbaijan and its
+      Nakhchivan exclave, which has faced strong opposition from Iran and Russia.
+    paragraph_summary: Azerbaijani President Ilham Aliyev and Armenian Prime Minister
+      Nikol Pashinyan recently signed a significant transit deal at the White House,
+      facilitated by U.S. President Donald Trump, which establishes a transport corridor
+      linking Azerbaijan to its Nakhchivan exclave through Armenia's Syunik province.
+      Dubbed the "Trump Route for International Peace and Prosperity" (TRIPP), the agreement
+      aims to enhance regional connectivity and economic growth with substantial U.S.
+      investment, while simultaneously increasing American influence in the South Caucasus.
+      However, the initiative has faced strong opposition from Iran and Russia, who
+      view it as a threat to their regional dominance, as it could shift the geopolitical
+      balance in favor of Turkey and the U.S. The project revives a historical Soviet-era
+      route that had been disrupted during past conflicts, and it is characterized by
+      U.S. and EU guarantees that exclude Iranian and Russian control, raising tensions
+      in the region.
+    published: '2025-08-10T18:51:24+00:00'
+  - title: 'The “Trump Bridge” Corridor: Why Russia and Iran Are Pushing Back'
+    url: https://ejmagnier.com/2025/08/10/the-trump-bridge-corridor-why-russia-and-iran-are-pushing-back/
+    text: 'Tweet By Elijah J. Magnier – Last Friday, Azerbaijani President Ilham Aliyev
+      and Armenian Prime Minister Nikol Pashinyan signed a landmark transit deal at
+      the White House, mediated and hosted by U.S. President Donald Trump. The agreement
+      grants development rights for a strategic transport corridor connecting mainland
+      Azerbaijan to its Nakhchivan exclave via Armenia’s southern Syunik province—rebranded
+      by Washington as the “Trump Route for International Peace and Prosperity” (TRIPP)
+      and informally referred to as the “Trump bridge.” President Trump hailed the project
+      as a driver of economic revitalisation and regional connectivity, pledging substantial
+      U.S. investment as part of a broader effort to cement American influence in the
+      South Caucasus. However, the initiative has drawn sharp opposition from Tehran
+      and Moscow. Ali Akbar Velayati, senior adviser to Iran’s Supreme Leader Sayyed
+      Ali Khamenei, warned that Iran would act—with or without Russian support—to prevent
+      the corridor’s realisation. For Iran and Russia, the project represents far more
+      than an infrastructure venture. Strategically, it offers a direct bypass that
+      could weaken their longstanding dominance in the region, potentially shifting
+      the geopolitical balance toward Turkey and the United States. The plan revives,
+      in modern form, the old Soviet-era link that once connected Azerbaijan proper
+      to Nakhchivan via Armenian territory. Those lines collapsed during the first Nagorno-Karabakh
+      war in the late 1980s and early 1990s. The 2020 ceasefire, brokered by Russia
+      after the Second Karabakh War, mentioned “unblocking” regional communications
+      but stopped short of requiring an extraterritorial corridor. What Washington has
+      now engineered is far more geopolitically charged: a through-route under Armenian
+      sovereignty but opened to Azerbaijani traffic with U.S. and EU guarantees, excluding
+      both Russia and Iran from operational control. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Azerbaijani President Ilham Aliyev and Armenian Prime Minister
+      Nikol Pashinyan signed a significant transit deal at the White House, mediated
+      by President Trump, to establish a transport corridor between Azerbaijan and its
+      Nakhchivan exclave, which has faced strong opposition from Iran and Russia.
+    paragraph_summary: Azerbaijani President Ilham Aliyev and Armenian Prime Minister
+      Nikol Pashinyan recently signed a significant transit deal at the White House,
+      facilitated by U.S. President Donald Trump, which establishes a transport corridor
+      linking Azerbaijan to its Nakhchivan exclave through Armenia's Syunik province.
+      Dubbed the "Trump Route for International Peace and Prosperity" (TRIPP), the agreement
+      aims to enhance regional connectivity and economic growth with substantial U.S.
+      investment, while simultaneously increasing American influence in the South Caucasus.
+      However, the initiative has faced strong opposition from Iran and Russia, who
+      view it as a threat to their regional dominance, as it could shift the geopolitical
+      balance in favor of Turkey and the U.S. The project revives a historical Soviet-era
+      route that had been disrupted during past conflicts, and it is characterized by
+      U.S. and EU guarantees that exclude Iranian and Russian control, raising tensions
+      in the region.
+    published: '2025-08-10T18:51:24+00:00'
+  - title: 'Le corridor du « Pont Trump » : pourquoi la Russie et l’Iran s’y opposent'
+    url: https://ejmagnier.com/2025/08/10/le-corridor-du-pont-trump-pourquoi-la-russie-et-liran-sy-opposent/
+    text: Tweet Par Elijah J. Magnier – Vendredi dernier, le président azerbaïdjanais
+      Ilham Aliev et le Premier ministre arménien Nikol Pachinian ont signé à la Maison
+      Blanche un accord historique de transit, sous la médiation et l’égide du président
+      américain Donald Trump. L’accord accorde des droits de développement pour un corridor
+      de transport stratégique reliant l’Azerbaïdjan continental à son exclave du Nakhitchevan
+      via la province arménienne méridionale du Syunik – rebaptisé par Washington «
+      Trump Route for International Peace and Prosperity » (TRIPP) et surnommé officieusement
+      le « Pont Trump ». Le président Trump a présenté ce projet comme un moteur de
+      revitalisation économique et de connectivité régionale, promettant d’importants
+      investissements américains dans le cadre d’un effort plus large pour asseoir l’influence
+      des États-Unis dans le Caucase du Sud. Cependant, l’initiative a suscité une vive
+      opposition à Téhéran et à Moscou. Ali Akbar Velayati, conseiller principal du
+      Guide suprême iranien, Sayyed Ali Khamenei, a averti que l’Iran agirait – avec
+      ou sans le soutien de la Russie – pour empêcher la réalisation du corridor. Pour
+      l’Iran et la Russie, ce projet représente bien plus qu’une simple infrastructure.
+      Stratégiquement, il offre une voie de contournement directe susceptible d’affaiblir
+      leur domination de longue date dans la région, en déplaçant potentiellement l’équilibre
+      géopolitique en faveur de la Turquie et des États-Unis. Subscribe Subscribe to
+      get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Le président azerbaïdjanais Ilham Aliev et le Premier ministre
+      arménien Nikol Pachinian ont signé un accord historique de transit à la Maison
+      Blanche, médié par Donald Trump, qui établit un corridor de transport stratégique
+      entre l'Azerbaïdjan et son exclave de Nakhitchevan, mais qui suscite des oppositions
+      de la part de Téhéran et Moscou.
+    paragraph_summary: Last Friday, Azerbaijani President Ilham Aliyev and Armenian
+      Prime Minister Nikol Pashinyan signed a historic transit agreement at the White
+      House, mediated by U.S. President Donald Trump. This agreement grants development
+      rights for a strategic transport corridor linking mainland Azerbaijan to its exclave
+      of Nakhchivan through Armenia's southern Syunik province, dubbed the "Trump Route
+      for International Peace and Prosperity" (TRIPP) or informally the "Trump Bridge."
+      Trump touted the initiative as a means to boost economic revitalization and regional
+      connectivity, promising significant American investments to enhance U.S. influence
+      in the South Caucasus. However, the project has faced strong opposition from Tehran
+      and Moscow, with Iranian officials warning that Iran would take action to prevent
+      the corridor's establishment, viewing it as a threat to their longstanding regional
+      dominance and a shift in the geopolitical balance favoring Turkey and the U.S.
+    published: '2025-08-10T18:47:27+00:00'
+  - title: 'Le corridor du « Pont Trump » : pourquoi la Russie et l’Iran s’y opposent'
+    url: https://ejmagnier.com/2025/08/10/le-corridor-du-pont-trump-pourquoi-la-russie-et-liran-sy-opposent/
+    text: Tweet Par Elijah J. Magnier – Vendredi dernier, le président azerbaïdjanais
+      Ilham Aliev et le Premier ministre arménien Nikol Pachinian ont signé à la Maison
+      Blanche un accord historique de transit, sous la médiation et l’égide du président
+      américain Donald Trump. L’accord accorde des droits de développement pour un corridor
+      de transport stratégique reliant l’Azerbaïdjan continental à son exclave du Nakhitchevan
+      via la province arménienne méridionale du Syunik – rebaptisé par Washington «
+      Trump Route for International Peace and Prosperity » (TRIPP) et surnommé officieusement
+      le « Pont Trump ». Le président Trump a présenté ce projet comme un moteur de
+      revitalisation économique et de connectivité régionale, promettant d’importants
+      investissements américains dans le cadre d’un effort plus large pour asseoir l’influence
+      des États-Unis dans le Caucase du Sud. Cependant, l’initiative a suscité une vive
+      opposition à Téhéran et à Moscou. Ali Akbar Velayati, conseiller principal du
+      Guide suprême iranien, Sayyed Ali Khamenei, a averti que l’Iran agirait – avec
+      ou sans le soutien de la Russie – pour empêcher la réalisation du corridor. Pour
+      l’Iran et la Russie, ce projet représente bien plus qu’une simple infrastructure.
+      Stratégiquement, il offre une voie de contournement directe susceptible d’affaiblir
+      leur domination de longue date dans la région, en déplaçant potentiellement l’équilibre
+      géopolitique en faveur de la Turquie et des États-Unis. Subscribe Subscribe to
+      get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Le président azerbaïdjanais Ilham Aliev et le Premier ministre
+      arménien Nikol Pachinian ont signé un accord historique de transit à la Maison
+      Blanche, médié par Donald Trump, qui établit un corridor de transport stratégique
+      entre l'Azerbaïdjan et son exclave de Nakhitchevan, mais qui suscite des oppositions
+      de la part de Téhéran et Moscou.
+    paragraph_summary: Last Friday, Azerbaijani President Ilham Aliyev and Armenian
+      Prime Minister Nikol Pashinyan signed a historic transit agreement at the White
+      House, mediated by U.S. President Donald Trump. This agreement grants development
+      rights for a strategic transport corridor linking mainland Azerbaijan to its exclave
+      of Nakhchivan through Armenia's southern Syunik province, dubbed the "Trump Route
+      for International Peace and Prosperity" (TRIPP) or informally the "Trump Bridge."
+      Trump touted the initiative as a means to boost economic revitalization and regional
+      connectivity, promising significant American investments to enhance U.S. influence
+      in the South Caucasus. However, the project has faced strong opposition from Tehran
+      and Moscow, with Iranian officials warning that Iran would take action to prevent
+      the corridor's establishment, viewing it as a threat to their longstanding regional
+      dominance and a shift in the geopolitical balance favoring Turkey and the U.S.
+    published: '2025-08-10T18:47:27+00:00'
+  - title: 'De ‘Trump Bridge’-corridor: waarom Rusland en Iran zich verzetten'
+    url: https://ejmagnier.com/2025/08/10/de-trump-bridge-corridor-waarom-rusland-en-iran-zich-verzetten/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Afgelopen
+      vrijdag hebben de Azerbeidzjaanse president Ilham Aliyev en de Armeense premier
+      Nikol Pashinyan in het Witte Huis een historische transitovereenkomst ondertekend,
+      bemiddeld en georganiseerd door de Amerikaanse president Donald Trump. De overeenkomst
+      verleent ontwikkelingsrechten voor een strategische transportcorridor die het
+      vasteland van Azerbeidzjan via de zuidelijke provincie Syunik van Armenië verbindt
+      met de exclave Nakhchivan. Deze corridor is door Washington omgedoopt tot de ‘Trump
+      Route for International Peace and Prosperity’ (TRIPP) en wordt informeel de ‘Trump-brug’
+      genoemd. President Trump prees het project als een motor voor economische revitalisering
+      en regionale connectiviteit en beloofde aanzienlijke Amerikaanse investeringen
+      als onderdeel van een bredere inspanning om de Amerikaanse invloed in de Zuid-Kaukasus
+      te versterken. Het initiatief stuit echter op fel verzet van Teheran en Moskou.
+      Ali Akbar Velayati, senior adviseur van de Iraanse opperbevelhebber Sayyed Ali
+      Khamenei, waarschuwde dat Iran – met of zonder Russische steun – actie zal ondernemen
+      om de realisatie van de corridor te verhinderen. Voor Iran en Rusland is het project
+      veel meer dan een infrastructuurproject. Strategisch gezien biedt het een directe
+      bypass die hun langdurige overheersing in de regio zou kunnen verzwakken en mogelijk
+      het geopolitieke evenwicht zou kunnen verschuiven naar Turkije en de Verenigde
+      Staten. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet
+    one_sentence_summary: Azerbaijan's President Ilham Aliyev and Armenia's Prime Minister
+      Nikol Pashinyan signed a historic transit agreement in the White House, facilitated
+      by President Trump, to establish a strategic transport corridor linking Azerbaijan
+      to its exclave Nakhchivan through Armenia, despite strong opposition from Tehran
+      and Moscow.
+    paragraph_summary: Afgelopen vrijdag hebben de Azerbeidzjaanse president Ilham Aliyev
+      en de Armeense premier Nikol Pashinyan een belangrijke transitovereenkomst ondertekend
+      in het Witte Huis, bemiddeld door president Donald Trump. Deze overeenkomst, die
+      de ontwikkeling van een strategische transportcorridor mogelijk maakt tussen Azerbeidzjan
+      en de Armeense exclave Nakhchivan, is door de VS aangeduid als de ‘Trump Route
+      for International Peace and Prosperity’ (TRIPP). Trump heeft het project geprezen
+      als een kans voor economische groei en regionale samenwerking, met beloften van
+      aanzienlijke Amerikaanse investeringen. Echter, het initiatief stuit op hevig
+      verzet van Iran en Rusland, die vrezen dat de corridor hun invloed in de regio
+      zou ondermijnen en het geopolitieke evenwicht zou verschuiven ten gunste van Turkije
+      en de VS.
+    published: '2025-08-10T18:45:20+00:00'
+  - title: 'De ‘Trump Bridge’-corridor: waarom Rusland en Iran zich verzetten'
+    url: https://ejmagnier.com/2025/08/10/de-trump-bridge-corridor-waarom-rusland-en-iran-zich-verzetten/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Afgelopen
+      vrijdag hebben de Azerbeidzjaanse president Ilham Aliyev en de Armeense premier
+      Nikol Pashinyan in het Witte Huis een historische transitovereenkomst ondertekend,
+      bemiddeld en georganiseerd door de Amerikaanse president Donald Trump. De overeenkomst
+      verleent ontwikkelingsrechten voor een strategische transportcorridor die het
+      vasteland van Azerbeidzjan via de zuidelijke provincie Syunik van Armenië verbindt
+      met de exclave Nakhchivan. Deze corridor is door Washington omgedoopt tot de ‘Trump
+      Route for International Peace and Prosperity’ (TRIPP) en wordt informeel de ‘Trump-brug’
+      genoemd. President Trump prees het project als een motor voor economische revitalisering
+      en regionale connectiviteit en beloofde aanzienlijke Amerikaanse investeringen
+      als onderdeel van een bredere inspanning om de Amerikaanse invloed in de Zuid-Kaukasus
+      te versterken. Het initiatief stuit echter op fel verzet van Teheran en Moskou.
+      Ali Akbar Velayati, senior adviseur van de Iraanse opperbevelhebber Sayyed Ali
+      Khamenei, waarschuwde dat Iran – met of zonder Russische steun – actie zal ondernemen
+      om de realisatie van de corridor te verhinderen. Voor Iran en Rusland is het project
+      veel meer dan een infrastructuurproject. Strategisch gezien biedt het een directe
+      bypass die hun langdurige overheersing in de regio zou kunnen verzwakken en mogelijk
+      het geopolitieke evenwicht zou kunnen verschuiven naar Turkije en de Verenigde
+      Staten. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet
+    one_sentence_summary: Azerbaijan's President Ilham Aliyev and Armenia's Prime Minister
+      Nikol Pashinyan signed a historic transit agreement in the White House, facilitated
+      by President Trump, to establish a strategic transport corridor linking Azerbaijan
+      to its exclave Nakhchivan through Armenia, despite strong opposition from Tehran
+      and Moscow.
+    paragraph_summary: Afgelopen vrijdag hebben de Azerbeidzjaanse president Ilham Aliyev
+      en de Armeense premier Nikol Pashinyan een belangrijke transitovereenkomst ondertekend
+      in het Witte Huis, bemiddeld door president Donald Trump. Deze overeenkomst, die
+      de ontwikkeling van een strategische transportcorridor mogelijk maakt tussen Azerbeidzjan
+      en de Armeense exclave Nakhchivan, is door de VS aangeduid als de ‘Trump Route
+      for International Peace and Prosperity’ (TRIPP). Trump heeft het project geprezen
+      als een kans voor economische groei en regionale samenwerking, met beloften van
+      aanzienlijke Amerikaanse investeringen. Echter, het initiatief stuit op hevig
+      verzet van Iran en Rusland, die vrezen dat de corridor hun invloed in de regio
+      zou ondermijnen en het geopolitieke evenwicht zou verschuiven ten gunste van Turkije
+      en de VS.
+    published: '2025-08-10T18:45:20+00:00'
+  - title: 'Der „Trump-Brücken“-Korridor: Warum Russland und der Iran sich wehren'
+    url: https://ejmagnier.com/2025/08/10/der-trump-brucken-korridor-warum-russland-und-der-iran-sich-wehren/
+    text: Tweet Von Elijah J. Magnier – Am vergangenen Freitag unterzeichneten der aserbaidschanische
+      Präsident Ilham Aliyev und der armenische Premierminister Nikol Pashinyan im Weißen
+      Haus ein wegweisendes Transitabkommen, das von US-Präsident Donald Trump vermittelt
+      und moderiert wurde. Das Abkommen gewährt Entwicklungsrechte für einen strategischen
+      Transportkorridor, der das aserbaidschanische Festland über die südliche Provinz
+      Syunik in Armenien mit der Exklave Nachitschewan verbindet – von Washington umbenannt
+      in „Trump Route for International Peace and Prosperity“ (TRIPP) und informell
+      als „Trump-Brücke“ bezeichnet. Präsident Trump lobte das Projekt als Motor für
+      die wirtschaftliche Wiederbelebung und die regionale Anbindung und versprach umfangreiche
+      US-Investitionen als Teil einer umfassenderen Initiative zur Festigung des amerikanischen
+      Einflusses im Südkaukasus. Die Initiative stößt jedoch auf scharfen Widerstand
+      aus Teheran und Moskau. Ali Akbar Velayati, hochrangiger Berater des iranischen
+      Obersten Führers Sayyed Ali Khamenei, warnte, dass der Iran mit oder ohne russische
+      Unterstützung alles tun werde, um die Verwirklichung des Korridors zu verhindern.
+      Für den Iran und Russland ist das Projekt weit mehr als ein Infrastrukturvorhaben.
+      Strategisch gesehen bietet es eine direkte Umgehungsmöglichkeit, die ihre langjährige
+      Dominanz in der Region schwächen und möglicherweise das geopolitische Gleichgewicht
+      zugunsten der Türkei und der Vereinigten Staaten verschieben könnte. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Azerbaijan's President Ilham Aliyev and Armenia's Prime Minister
+      Nikol Pashinyan signed a significant transit agreement mediated by U.S. President
+      Donald Trump, establishing a strategic transport corridor linking Azerbaijan to
+      its exclave Nakhchivan through Armenia, amidst strong opposition from Iran and
+      Russia.
+    paragraph_summary: On Friday, Azerbaijani President Ilham Aliyev and Armenian Prime
+      Minister Nikol Pashinyan signed a significant transit agreement at the White House,
+      mediated by former President Donald Trump. This agreement grants development rights
+      for a strategic transport corridor linking mainland Azerbaijan to its exclave
+      Nakhchivan through Armenia's Syunik province, dubbed the "Trump Route for International
+      Peace and Prosperity" (TRIPP) or informally the "Trump Bridge." Trump hailed the
+      project as a catalyst for economic revival and regional connectivity, promising
+      substantial U.S. investments to bolster American influence in the South Caucasus.
+      However, the initiative faces strong opposition from Iran and Russia, who view
+      it as a threat to their longstanding dominance in the region and a potential shift
+      in the geopolitical balance favoring Turkey and the U.S.
+    published: '2025-08-10T18:42:39+00:00'
+  - title: 'Der „Trump-Brücken“-Korridor: Warum Russland und der Iran sich wehren'
+    url: https://ejmagnier.com/2025/08/10/der-trump-brucken-korridor-warum-russland-und-der-iran-sich-wehren/
+    text: Tweet Von Elijah J. Magnier – Am vergangenen Freitag unterzeichneten der aserbaidschanische
+      Präsident Ilham Aliyev und der armenische Premierminister Nikol Pashinyan im Weißen
+      Haus ein wegweisendes Transitabkommen, das von US-Präsident Donald Trump vermittelt
+      und moderiert wurde. Das Abkommen gewährt Entwicklungsrechte für einen strategischen
+      Transportkorridor, der das aserbaidschanische Festland über die südliche Provinz
+      Syunik in Armenien mit der Exklave Nachitschewan verbindet – von Washington umbenannt
+      in „Trump Route for International Peace and Prosperity“ (TRIPP) und informell
+      als „Trump-Brücke“ bezeichnet. Präsident Trump lobte das Projekt als Motor für
+      die wirtschaftliche Wiederbelebung und die regionale Anbindung und versprach umfangreiche
+      US-Investitionen als Teil einer umfassenderen Initiative zur Festigung des amerikanischen
+      Einflusses im Südkaukasus. Die Initiative stößt jedoch auf scharfen Widerstand
+      aus Teheran und Moskau. Ali Akbar Velayati, hochrangiger Berater des iranischen
+      Obersten Führers Sayyed Ali Khamenei, warnte, dass der Iran mit oder ohne russische
+      Unterstützung alles tun werde, um die Verwirklichung des Korridors zu verhindern.
+      Für den Iran und Russland ist das Projekt weit mehr als ein Infrastrukturvorhaben.
+      Strategisch gesehen bietet es eine direkte Umgehungsmöglichkeit, die ihre langjährige
+      Dominanz in der Region schwächen und möglicherweise das geopolitische Gleichgewicht
+      zugunsten der Türkei und der Vereinigten Staaten verschieben könnte. Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Azerbaijan's President Ilham Aliyev and Armenia's Prime Minister
+      Nikol Pashinyan signed a significant transit agreement mediated by U.S. President
+      Donald Trump, establishing a strategic transport corridor linking Azerbaijan to
+      its exclave Nakhchivan through Armenia, amidst strong opposition from Iran and
+      Russia.
+    paragraph_summary: On Friday, Azerbaijani President Ilham Aliyev and Armenian Prime
+      Minister Nikol Pashinyan signed a significant transit agreement at the White House,
+      mediated by former President Donald Trump. This agreement grants development rights
+      for a strategic transport corridor linking mainland Azerbaijan to its exclave
+      Nakhchivan through Armenia's Syunik province, dubbed the "Trump Route for International
+      Peace and Prosperity" (TRIPP) or informally the "Trump Bridge." Trump hailed the
+      project as a catalyst for economic revival and regional connectivity, promising
+      substantial U.S. investments to bolster American influence in the South Caucasus.
+      However, the initiative faces strong opposition from Iran and Russia, who view
+      it as a threat to their longstanding dominance in the region and a potential shift
+      in the geopolitical balance favoring Turkey and the U.S.
+    published: '2025-08-10T18:42:39+00:00'
+  - title: Gaza From Occupation to Control: A Legal and Political Illusion For Netanyahu
+      to Commit More Crimes
+    url: https://ejmagnier.com/2025/08/09/gaza-from-occupation-to-control-a-legal-and-political-illusion-for-netanyahu-to-commit-more-crimes/
+    text: Tweet By Elijah J. Magnier – Israel has announced plans for a major ground
+      assault to seize and “control” Gaza City—strategically located between the Mefalsim
+      and Netzarim corridors and once home to some 750,000 Palestinians. The move is
+      widely viewed as the primary reason for Israel’s abrupt withdrawal from the latest
+      ceasefire talks with Hamas in Qatar. According to Israeli media, the war cabinet
+      has already approved a broader strategy to “control” (not occupy) the entire Gaza
+      Strip, with the capture of Gaza City set as the next phase—following the takeover
+      of the northern and southern sectors during 22 months of relentless fighting. According
+      to Israeli military assessments, fully taking the city—an operation officials
+      insist on calling “control” rather than “occupation”—would require three months
+      of fighting and the forcible displacement of its remaining residents. It is unlikely
+      to secure the release of Israeli prisoners held in the area; instead, it risks
+      triggering their execution, as Hamas has repeatedly warned. Prime Minister Benjamin
+      Netanyahu may be rethinking the plan under mounting international pressure and
+      threats to suspend cooperation with Israel. Among several European countries,
+      even Germany—supplier of roughly 30% of Israel’s military components—has announced restrictions
+      if the assault proceeds. Yet for Netanyahu, Gaza City is only a step to maintain
+      his government’s coalition. The goal is to prepare for full control of the entire
+      Gaza Strip in a later phase, framed in official discourse as “control”, a deliberate
+      choice to minimise legal obligations while cementing long-term dominance.This
+      military push, and the language used to justify it, is part of Israel’s broader
+      strategy to reshape Gaza’s legal status while retaining absolute authority over
+      its land, sea, and air. As the war on Gaza enters a new phase in August 2025,
+      Israeli officials have dropped the term “occupation” altogether. Instead, they
+      speak of “control”—a seemingly subtle shift with far-reaching legal, political,
+      and moral consequences. It is not merely a linguistic adjustment, but a calculated
+      manoeuvre to avoid accountability while tightening Israel’s grip over Gaza’s most
+      strategic areas. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet
+    one_sentence_summary: Israel plans a major ground assault to seize control of Gaza
+      City, a strategic location previously home to 750,000 Palestinians, which has
+      led to its withdrawal from ceasefire talks with Hamas and is expected to involve
+      significant fighting and displacement of residents.
+    paragraph_summary: Israel has announced plans for a significant ground assault aimed
+      at seizing and "controlling" Gaza City, a strategic location previously home to
+      around 750,000 Palestinians, which has led to its withdrawal from ceasefire talks
+      with Hamas. The Israeli war cabinet has approved a strategy to control the entire
+      Gaza Strip, with Gaza City as the next target following previous territorial gains.
+      Military assessments suggest that capturing the city would require three months
+      of fighting and the forced displacement of residents, potentially endangering
+      Israeli prisoners held by Hamas. Despite international pressure and threats from
+      European nations, including Germany, to restrict military cooperation, Prime Minister
+      Benjamin Netanyahu appears committed to the operation as a means to solidify his
+      government's coalition. This military initiative reflects a broader Israeli strategy
+      to redefine Gaza's legal status while maintaining authority over its territories,
+      with officials increasingly opting for the term "control" instead of "occupation"
+      to minimize legal responsibilities and reinforce long-term dominance.
+    published: '2025-08-09T18:05:49+00:00'
+  - title: Gaza From Occupation to Control: A Legal and Political Illusion For Netanyahu
+      to Commit More Crimes
+    url: https://ejmagnier.com/2025/08/09/gaza-from-occupation-to-control-a-legal-and-political-illusion-for-netanyahu-to-commit-more-crimes/
+    text: Tweet By Elijah J. Magnier – Israel has announced plans for a major ground
+      assault to seize and “control” Gaza City—strategically located between the Mefalsim
+      and Netzarim corridors and once home to some 750,000 Palestinians. The move is
+      widely viewed as the primary reason for Israel’s abrupt withdrawal from the latest
+      ceasefire talks with Hamas in Qatar. According to Israeli media, the war cabinet
+      has already approved a broader strategy to “control” (not occupy) the entire Gaza
+      Strip, with the capture of Gaza City set as the next phase—following the takeover
+      of the northern and southern sectors during 22 months of relentless fighting. According
+      to Israeli military assessments, fully taking the city—an operation officials
+      insist on calling “control” rather than “occupation”—would require three months
+      of fighting and the forcible displacement of its remaining residents. It is unlikely
+      to secure the release of Israeli prisoners held in the area; instead, it risks
+      triggering their execution, as Hamas has repeatedly warned. Prime Minister Benjamin
+      Netanyahu may be rethinking the plan under mounting international pressure and
+      threats to suspend cooperation with Israel. Among several European countries,
+      even Germany—supplier of roughly 30% of Israel’s military components—has announced restrictions
+      if the assault proceeds. Yet for Netanyahu, Gaza City is only a step to maintain
+      his government’s coalition. The goal is to prepare for full control of the entire
+      Gaza Strip in a later phase, framed in official discourse as “control”, a deliberate
+      choice to minimise legal obligations while cementing long-term dominance.This
+      military push, and the language used to justify it, is part of Israel’s broader
+      strategy to reshape Gaza’s legal status while retaining absolute authority over
+      its land, sea, and air. As the war on Gaza enters a new phase in August 2025,
+      Israeli officials have dropped the term “occupation” altogether. Instead, they
+      speak of “control”—a seemingly subtle shift with far-reaching legal, political,
+      and moral consequences. It is not merely a linguistic adjustment, but a calculated
+      manoeuvre to avoid accountability while tightening Israel’s grip over Gaza’s most
+      strategic areas. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet
+    one_sentence_summary: Israel plans a major ground assault to seize control of Gaza
+      City, a strategic location previously home to 750,000 Palestinians, which has
+      led to its withdrawal from ceasefire talks with Hamas and is expected to involve
+      significant fighting and displacement of residents.
+    paragraph_summary: Israel has announced plans for a significant ground assault aimed
+      at seizing and "controlling" Gaza City, a strategic location previously home to
+      around 750,000 Palestinians, which has led to its withdrawal from ceasefire talks
+      with Hamas. The Israeli war cabinet has approved a strategy to control the entire
+      Gaza Strip, with Gaza City as the next target following previous territorial gains.
+      Military assessments suggest that capturing the city would require three months
+      of fighting and the forced displacement of residents, potentially endangering
+      Israeli prisoners held by Hamas. Despite international pressure and threats from
+      European nations, including Germany, to restrict military cooperation, Prime Minister
+      Benjamin Netanyahu appears committed to the operation as a means to solidify his
+      government's coalition. This military initiative reflects a broader Israeli strategy
+      to redefine Gaza's legal status while maintaining authority over its territories,
+      with officials increasingly opting for the term "control" instead of "occupation"
+      to minimize legal responsibilities and reinforce long-term dominance.
+    published: '2025-08-09T18:05:49+00:00'
+  - title: 'Gaza : De l’occupation au « contrôle » – Une illusion juridique et politique
+      pour permettre à Netanyahu de commettre davantage de crimes'
+    url: https://ejmagnier.com/2025/08/09/gaza-de-loccupation-au-controle-une-illusion-juridique-et-politique-pour-permettre-a-netanyahu-de-commettre-davantage-de-crimes/
+    text: Tweet Par Elijah J. Magnier – Israël a annoncé préparer une vaste offensive
+      terrestre visant à s’emparer et à « contrôler » la ville de Gaza — située stratégiquement
+      entre les corridors de Mefalsim et de Netzarim — autrefois habitée par environ
+      750 000 Palestiniens. Cette initiative est largement perçue comme la principale
+      raison du retrait soudain d’Israël du dernier cycle de pourparlers de cessez-le-feu
+      avec le Hamas au Qatar. Selon les médias israéliens, le cabinet de guerre a déjà
+      approuvé une stratégie plus large visant à « contrôler » (et non à occuper) l’ensemble
+      de la bande de Gaza, la prise de la ville de Gaza constituant la prochaine étape
+      — après l’occupation des secteurs nord et sud au cours de 22 mois de combats acharnés.
+      D’après les évaluations militaires israéliennes, la prise complète de la ville
+      — une opération que les responsables insistent pour qualifier de « contrôle »
+      plutôt que d’« occupation » — nécessiterait trois mois de combats et le déplacement
+      forcé des habitants restants. Il est peu probable qu’elle permette de libérer
+      les prisonniers israéliens détenus dans la zone ; au contraire, elle risque de
+      provoquer leur exécution, comme le Hamas l’a à plusieurs reprises averti. Le Premier
+      ministre Benyamin Netanyahu pourrait reconsidérer le plan sous la pression internationale
+      croissante et face aux menaces de suspension de coopération avec Israël. Parmi
+      plusieurs pays européens, même l’Allemagne — qui fournit environ 30 % des composants
+      militaires israéliens — a annoncé des restrictions si l’assaut devait avoir lieu.
+      Pourtant, pour Netanyahu, Gaza-Ville n’est qu’une étape destinée à maintenir la
+      cohésion de sa coalition gouvernementale. L’objectif est de préparer, dans une
+      phase ultérieure, le contrôle total de l’ensemble de la bande de Gaza, en présentant
+      officiellement cette prise comme un « contrôle » — un choix délibéré visant à
+      minimiser les obligations juridiques tout en consolidant une domination à long
+      terme. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet
+    one_sentence_summary: Israël prépare une offensive terrestre pour contrôler la ville
+      de Gaza, ce qui a conduit à son retrait des pourparlers de cessez-le-feu avec
+      le Hamas, et cette opération, qualifiée de "contrôle" plutôt que d'"occupation",
+      pourrait nécessiter trois mois de combats et le déplacement forcé des habitants.
+    paragraph_summary: Israël a annoncé son intention de lancer une vaste offensive
+      terrestre pour s'emparer et "contrôler" la ville de Gaza, un territoire stratégique
+      qui était autrefois habité par 750 000 Palestiniens. Cette décision est perçue
+      comme la raison principale du retrait d'Israël des négociations de cessez-le-feu
+      avec le Hamas au Qatar. Le cabinet israélien a approuvé une stratégie visant à
+      "contrôler" l'ensemble de la bande de Gaza, avec la prise de la ville de Gaza
+      comme prochaine étape après des combats intenses dans le nord et le sud. Les militaires
+      estiment que cette opération nécessiterait trois mois de combats et entraînerait
+      le déplacement forcé des habitants restants, sans garantir la libération des prisonniers
+      israéliens, ce qui pourrait même mener à leur exécution. Face à une pression internationale
+      croissante, y compris des menaces de restrictions de coopération de la part de
+      certains pays européens, le Premier ministre Benyamin Netanyahu pourrait être
+      amené à reconsidérer ses plans, bien que la prise de Gaza-Ville soit perçue comme
+      un moyen de maintenir la cohésion de sa coalition gouvernementale et de préparer
+      un contrôle à long terme de
+    published: '2025-08-09T18:04:49+00:00'
+  - title: 'Gaza : De l’occupation au « contrôle » – Une illusion juridique et politique
+      pour permettre à Netanyahu de commettre davantage de crimes'
+    url: https://ejmagnier.com/2025/08/09/gaza-de-loccupation-au-controle-une-illusion-juridique-et-politique-pour-permettre-a-netanyahu-de-commettre-davantage-de-crimes/
+    text: Tweet Par Elijah J. Magnier – Israël a annoncé préparer une vaste offensive
+      terrestre visant à s’emparer et à « contrôler » la ville de Gaza — située stratégiquement
+      entre les corridors de Mefalsim et de Netzarim — autrefois habitée par environ
+      750 000 Palestiniens. Cette initiative est largement perçue comme la principale
+      raison du retrait soudain d’Israël du dernier cycle de pourparlers de cessez-le-feu
+      avec le Hamas au Qatar. Selon les médias israéliens, le cabinet de guerre a déjà
+      approuvé une stratégie plus large visant à « contrôler » (et non à occuper) l’ensemble
+      de la bande de Gaza, la prise de la ville de Gaza constituant la prochaine étape
+      — après l’occupation des secteurs nord et sud au cours de 22 mois de combats acharnés.
+      D’après les évaluations militaires israéliennes, la prise complète de la ville
+      — une opération que les responsables insistent pour qualifier de « contrôle »
+      plutôt que d’« occupation » — nécessiterait trois mois de combats et le déplacement
+      forcé des habitants restants. Il est peu probable qu’elle permette de libérer
+      les prisonniers israéliens détenus dans la zone ; au contraire, elle risque de
+      provoquer leur exécution, comme le Hamas l’a à plusieurs reprises averti. Le Premier
+      ministre Benyamin Netanyahu pourrait reconsidérer le plan sous la pression internationale
+      croissante et face aux menaces de suspension de coopération avec Israël. Parmi
+      plusieurs pays européens, même l’Allemagne — qui fournit environ 30 % des composants
+      militaires israéliens — a annoncé des restrictions si l’assaut devait avoir lieu.
+      Pourtant, pour Netanyahu, Gaza-Ville n’est qu’une étape destinée à maintenir la
+      cohésion de sa coalition gouvernementale. L’objectif est de préparer, dans une
+      phase ultérieure, le contrôle total de l’ensemble de la bande de Gaza, en présentant
+      officiellement cette prise comme un « contrôle » — un choix délibéré visant à
+      minimiser les obligations juridiques tout en consolidant une domination à long
+      terme. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet
+    one_sentence_summary: Israël prépare une offensive terrestre pour contrôler la ville
+      de Gaza, ce qui a conduit à son retrait des pourparlers de cessez-le-feu avec
+      le Hamas, et cette opération, qualifiée de "contrôle" plutôt que d'"occupation",
+      pourrait nécessiter trois mois de combats et le déplacement forcé des habitants.
+    paragraph_summary: Israël a annoncé son intention de lancer une vaste offensive
+      terrestre pour s'emparer et "contrôler" la ville de Gaza, un territoire stratégique
+      qui était autrefois habité par 750 000 Palestiniens. Cette décision est perçue
+      comme la raison principale du retrait d'Israël des négociations de cessez-le-feu
+      avec le Hamas au Qatar. Le cabinet israélien a approuvé une stratégie visant à
+      "contrôler" l'ensemble de la bande de Gaza, avec la prise de la ville de Gaza
+      comme prochaine étape après des combats intenses dans le nord et le sud. Les militaires
+      estiment que cette opération nécessiterait trois mois de combats et entraînerait
+      le déplacement forcé des habitants restants, sans garantir la libération des prisonniers
+      israéliens, ce qui pourrait même mener à leur exécution. Face à une pression internationale
+      croissante, y compris des menaces de restrictions de coopération de la part de
+      certains pays européens, le Premier ministre Benyamin Netanyahu pourrait être
+      amené à reconsidérer ses plans, bien que la prise de Gaza-Ville soit perçue comme
+      un moyen de maintenir la cohésion de sa coalition gouvernementale et de préparer
+      un contrôle à long terme de
+    published: '2025-08-09T18:04:49+00:00'
+  - title: 'Gaza van bezetting naar controle: een juridische en politieke illusie voor
+      Netanyahu om meer misdaden te begaan'
+    url: https://ejmagnier.com/2025/08/09/gaza-van-bezetting-naar-controle-een-juridische-en-politieke-illusie-voor-netanyahu-om-meer-misdaden-te-begaan/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Frabcis J. Israël
+      heeft plannen aangekondigd voor een grootschalige grondaanval om Gaza-stad in
+      te nemen en te ‘controleren’. Deze stad ligt strategisch tussen de corridors Mefalsim
+      en Netzarim en was ooit de thuisbasis van ongeveer 750.000 Palestijnen. Deze stap
+      wordt algemeen gezien als de belangrijkste reden voor de abrupte terugtrekking
+      van Israël uit de laatste vredesbesprekingen met Hamas in Qatar. Volgens Israëlische
+      media heeft het oorlogskabinet al een bredere strategie goedgekeurd om de hele
+      Gazastrook te ‘controleren’ (niet te bezetten), met de verovering van Gaza-stad
+      als volgende fase – na de verovering van het noordelijke en zuidelijke deel tijdens
+      22 maanden van meedogenloze gevechten. Volgens Israëlische militaire schattingen
+      zou de volledige inname van de stad – een operatie die door functionarissen “controle”
+      in plaats van “bezetting” wordt genoemd – drie maanden van gevechten en de gedwongen
+      verplaatsing van de resterende inwoners vereisen. Het is onwaarschijnlijk dat
+      dit de vrijlating van Israëlische gevangenen in het gebied zal garanderen; in
+      plaats daarvan dreigt het hun executie uit te lokken, zoals Hamas herhaaldelijk
+      heeft gewaarschuwd. Premier Benjamin Netanyahu zou het plan heroverwegen onder
+      toenemende internationale druk en dreigingen om de samenwerking met Israël op
+      te schorten. Onder verschillende Europese landen heeft zelfs Duitsland – dat ongeveer
+      30% van de militaire componenten van Israël levert – beperkingen aangekondigd
+      als de aanval doorgaat. Voor Netanyahu is Gaza-stad echter slechts een stap om
+      de coalitie van zijn regering in stand te houden. Het doel is om in een latere
+      fase de volledige controle over de hele Gazastrook voor te bereiden, in het officiële
+      discours omschreven als ‘controle’, een bewuste keuze om de wettelijke verplichtingen
+      tot een minimum te beperken en tegelijkertijd de overheersing op lange termijn
+      te versterken. Deze militaire opmars en de taal die wordt gebruikt om deze te
+      rechtvaardigen, maken deel uit van een bredere strategie van Israël om de juridische
+      status van Gaza te hervormen en tegelijkertijd de absolute macht over het land,
+      de zee en de lucht te behouden. Nu de oorlog tegen Gaza in augustus 2025 een nieuwe
+      fase ingaat, hebben Israëlische functionarissen de term “bezetting” volledig geschrapt.
+      In plaats daarvan spreken ze van “controle” – een ogenschijnlijk subtiele verschuiving
+      met verstrekkende juridische, politieke en morele gevolgen. Het is niet louter
+      een taalkundige aanpassing, maar een berekende manoeuvre om verantwoordingsplicht
+      te ontlopen en tegelijkertijd de greep van Israël op de meest strategische gebieden
+      van Gaza te versterken. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet
+    one_sentence_summary: Israël heeft plannen aangekondigd voor een grootschalige grondaanval
+      op Gaza-stad, met als doel de controle over de stad te verkrijgen, wat wordt gezien
+      als een belangrijke reden voor de terugtrekking uit vredesbesprekingen met Hamas.
+    paragraph_summary: Israël heeft plannen aangekondigd voor een grootschalige grondaanval
+      op Gaza-stad, die strategisch gelegen is tussen belangrijke corridors en ooit
+      de thuisbasis was van ongeveer 750.000 Palestijnen. Deze actie wordt gezien als
+      de belangrijkste reden voor de plotselinge terugtrekking van Israël uit de vredesbesprekingen
+      met Hamas in Qatar. Het Israëlische oorlogskabinet heeft een bredere strategie
+      goedgekeurd om de controle over de gehele Gazastrook te verkrijgen, met Gaza-stad
+      als volgende fase na eerdere veroveringen. De operatie, die als "controle" wordt
+      aangeduid, zou drie maanden van gevechten en gedwongen verplaatsingen van inwoners
+      vereisen, maar het garandeert niet de vrijlating van Israëlische gevangenen en
+      kan zelfs hun executie uitlokken. Premier Netanyahu overweegt het plan opnieuw
+      onder internationale druk, terwijl hij de controle over Gaza-stad ziet als een
+      manier om zijn regering te stabiliseren en de juridische verantwoordelijkheden
+      te minimaliseren.
+    published: '2025-08-09T18:00:48+00:00'
+  - title: 'Gaza van bezetting naar controle: een juridische en politieke illusie voor
+      Netanyahu om meer misdaden te begaan'
+    url: https://ejmagnier.com/2025/08/09/gaza-van-bezetting-naar-controle-een-juridische-en-politieke-illusie-voor-netanyahu-om-meer-misdaden-te-begaan/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Frabcis J. Israël
+      heeft plannen aangekondigd voor een grootschalige grondaanval om Gaza-stad in
+      te nemen en te ‘controleren’. Deze stad ligt strategisch tussen de corridors Mefalsim
+      en Netzarim en was ooit de thuisbasis van ongeveer 750.000 Palestijnen. Deze stap
+      wordt algemeen gezien als de belangrijkste reden voor de abrupte terugtrekking
+      van Israël uit de laatste vredesbesprekingen met Hamas in Qatar. Volgens Israëlische
+      media heeft het oorlogskabinet al een bredere strategie goedgekeurd om de hele
+      Gazastrook te ‘controleren’ (niet te bezetten), met de verovering van Gaza-stad
+      als volgende fase – na de verovering van het noordelijke en zuidelijke deel tijdens
+      22 maanden van meedogenloze gevechten. Volgens Israëlische militaire schattingen
+      zou de volledige inname van de stad – een operatie die door functionarissen “controle”
+      in plaats van “bezetting” wordt genoemd – drie maanden van gevechten en de gedwongen
+      verplaatsing van de resterende inwoners vereisen. Het is onwaarschijnlijk dat
+      dit de vrijlating van Israëlische gevangenen in het gebied zal garanderen; in
+      plaats daarvan dreigt het hun executie uit te lokken, zoals Hamas herhaaldelijk
+      heeft gewaarschuwd. Premier Benjamin Netanyahu zou het plan heroverwegen onder
+      toenemende internationale druk en dreigingen om de samenwerking met Israël op
+      te schorten. Onder verschillende Europese landen heeft zelfs Duitsland – dat ongeveer
+      30% van de militaire componenten van Israël levert – beperkingen aangekondigd
+      als de aanval doorgaat. Voor Netanyahu is Gaza-stad echter slechts een stap om
+      de coalitie van zijn regering in stand te houden. Het doel is om in een latere
+      fase de volledige controle over de hele Gazastrook voor te bereiden, in het officiële
+      discours omschreven als ‘controle’, een bewuste keuze om de wettelijke verplichtingen
+      tot een minimum te beperken en tegelijkertijd de overheersing op lange termijn
+      te versterken. Deze militaire opmars en de taal die wordt gebruikt om deze te
+      rechtvaardigen, maken deel uit van een bredere strategie van Israël om de juridische
+      status van Gaza te hervormen en tegelijkertijd de absolute macht over het land,
+      de zee en de lucht te behouden. Nu de oorlog tegen Gaza in augustus 2025 een nieuwe
+      fase ingaat, hebben Israëlische functionarissen de term “bezetting” volledig geschrapt.
+      In plaats daarvan spreken ze van “controle” – een ogenschijnlijk subtiele verschuiving
+      met verstrekkende juridische, politieke en morele gevolgen. Het is niet louter
+      een taalkundige aanpassing, maar een berekende manoeuvre om verantwoordingsplicht
+      te ontlopen en tegelijkertijd de greep van Israël op de meest strategische gebieden
+      van Gaza te versterken. Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet
+    one_sentence_summary: Israël heeft plannen aangekondigd voor een grootschalige grondaanval
+      op Gaza-stad, met als doel de controle over de stad te verkrijgen, wat wordt gezien
+      als een belangrijke reden voor de terugtrekking uit vredesbesprekingen met Hamas.
+    paragraph_summary: Israël heeft plannen aangekondigd voor een grootschalige grondaanval
+      op Gaza-stad, die strategisch gelegen is tussen belangrijke corridors en ooit
+      de thuisbasis was van ongeveer 750.000 Palestijnen. Deze actie wordt gezien als
+      de belangrijkste reden voor de plotselinge terugtrekking van Israël uit de vredesbesprekingen
+      met Hamas in Qatar. Het Israëlische oorlogskabinet heeft een bredere strategie
+      goedgekeurd om de controle over de gehele Gazastrook te verkrijgen, met Gaza-stad
+      als volgende fase na eerdere veroveringen. De operatie, die als "controle" wordt
+      aangeduid, zou drie maanden van gevechten en gedwongen verplaatsingen van inwoners
+      vereisen, maar het garandeert niet de vrijlating van Israëlische gevangenen en
+      kan zelfs hun executie uitlokken. Premier Netanyahu overweegt het plan opnieuw
+      onder internationale druk, terwijl hij de controle over Gaza-stad ziet als een
+      manier om zijn regering te stabiliseren en de juridische verantwoordelijkheden
+      te minimaliseren.
+    published: '2025-08-09T18:00:48+00:00'
+  - title: 'Gaza Von der Besatzung zur Kontrolle: Eine rechtliche und politische Illusion,
+      damit Netanjahu weitere Verbrechen begehen kann'
+    url: https://ejmagnier.com/2025/08/09/gaza-von-der-besatzung-zur-kontrolle-eine-rechtliche-und-politische-illusion-damit-netanjahu-weitere-verbrechen-begehen-kann/
+    text: Tweet Von Elijah J. Magnier – Israel hat Pläne für eine groß angelegte Bodenoffensive
+      angekündigt, um die strategisch günstig zwischen den Korridoren Mefalsim und Netzarim
+      gelegene Stadt Gaza einzunehmen und zu „kontrollieren“, in der einst rund 750.000
+      Palästinenser lebten. Dieser Schritt wird weithin als Hauptgrund für Israels abrupten
+      Rückzug aus den jüngsten Waffenstillstandsverhandlungen mit der Hamas in Katar
+      angesehen. Laut israelischen Medien hat das Kriegskabinett bereits eine umfassendere
+      Strategie zur „Kontrolle“ (nicht Besetzung) des gesamten Gazastreifens beschlossen,
+      wobei die Einnahme von Gaza-Stadt als nächste Phase vorgesehen ist – nach der
+      Eroberung des nördlichen und südlichen Sektors während 22 Monaten unerbittlicher
+      Kämpfe. Nach Einschätzungen des israelischen Militärs würde die vollständige Einnahme
+      der Stadt – eine Operation, die von offiziellen Stellen beharrlich als „Kontrolle”
+      und nicht als „Besetzung” bezeichnet wird – drei Monate Kampfhandlungen und die
+      gewaltsame Vertreibung der verbliebenen Einwohner erfordern. Es ist unwahrscheinlich,
+      dass damit die Freilassung der in dem Gebiet festgehaltenen israelischen Gefangenen
+      erreicht werden kann; stattdessen besteht die Gefahr, dass sie hingerichtet werden,
+      wie die Hamas wiederholt gewarnt hat. Premierminister Benjamin Netanjahu könnte
+      den Plan angesichts des wachsenden internationalen Drucks und der Drohungen, die
+      Zusammenarbeit mit Israel auszusetzen, überdenken. Unter mehreren europäischen
+      Ländern hat sogar Deutschland – Lieferant von rund 30 % der israelischen Militärkomponenten
+      – Restriktionen angekündigt, sollte der Angriff fortgesetzt werden. Für Netanjahu
+      ist Gaza-Stadt jedoch nur ein Schritt, um die Koalition seiner Regierung aufrechtzuerhalten.
+      Das Ziel ist die Vorbereitung der vollständigen Kontrolle über den gesamten Gazastreifen
+      in einer späteren Phase, die in der offiziellen Rhetorik als „Kontrolle” bezeichnet
+      wird – eine bewusste Entscheidung, um rechtliche Verpflichtungen zu minimieren
+      und gleichzeitig die langfristige Vorherrschaft zu festigen. Dieser militärische
+      Vorstoß und die Sprache, mit der er gerechtfertigt wird, sind Teil einer umfassenderen
+      Strategie Israels, den rechtlichen Status des Gazastreifens neu zu definieren
+      und gleichzeitig die absolute Kontrolle über Land, See und Luft zu behalten. Mit
+      dem Eintritt in eine neue Phase des Krieges gegen den Gazastreifen im August 2025
+      haben israelische Regierungsvertreter den Begriff „Besatzung” gänzlich fallen
+      gelassen. Stattdessen sprechen sie von „Kontrolle“ – eine scheinbar subtile Verschiebung
+      mit weitreichenden rechtlichen, politischen und moralischen Konsequenzen. Es handelt
+      sich nicht nur um eine sprachliche Anpassung, sondern um ein kalkuliertes Manöver,
+      um sich der Rechenschaftspflicht zu entziehen und gleichzeitig Israels Kontrolle
+      über die strategisch wichtigsten Gebiete Gazas zu verschärfen. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israel hat Pläne für eine umfassende Bodenoffensive angekündigt,
+      um die Stadt Gaza einzunehmen und zu kontrollieren, was als Hauptgrund für den
+      Rückzug aus den Waffenstillstandsverhandlungen mit der Hamas angesehen wird.
+    paragraph_summary: Israel hat Pläne für eine groß angelegte Bodenoffensive angekündigt,
+      um die Stadt Gaza zu erobern und zu kontrollieren, was als Hauptgrund für den
+      abrupten Rückzug aus den Waffenstillstandsverhandlungen mit der Hamas angesehen
+      wird. Das israelische Kriegskabinett hat eine Strategie zur Kontrolle des gesamten
+      Gazastreifens beschlossen, wobei die Einnahme von Gaza-Stadt als nächste Phase
+      nach den Kämpfen in den nördlichen und südlichen Sektoren vorgesehen ist. Diese
+      Operation könnte drei Monate intensiver Kämpfe und die gewaltsame Vertreibung
+      der verbleibenden Einwohner erfordern, während die Freilassung israelischer Gefangener
+      unwahrscheinlich bleibt. Premierminister Benjamin Netanjahu könnte den Plan aufgrund
+      internationalen Drucks und drohender Restriktionen, insbesondere von Deutschland,
+      überdenken, sieht jedoch die Kontrolle über Gaza-Stadt als notwendig an, um die
+      Stabilität seiner Regierung zu gewährleisten.
+    published: '2025-08-09T17:57:43+00:00'
+  - title: 'Gaza Von der Besatzung zur Kontrolle: Eine rechtliche und politische Illusion,
+      damit Netanjahu weitere Verbrechen begehen kann'
+    url: https://ejmagnier.com/2025/08/09/gaza-von-der-besatzung-zur-kontrolle-eine-rechtliche-und-politische-illusion-damit-netanjahu-weitere-verbrechen-begehen-kann/
+    text: Tweet Von Elijah J. Magnier – Israel hat Pläne für eine groß angelegte Bodenoffensive
+      angekündigt, um die strategisch günstig zwischen den Korridoren Mefalsim und Netzarim
+      gelegene Stadt Gaza einzunehmen und zu „kontrollieren“, in der einst rund 750.000
+      Palästinenser lebten. Dieser Schritt wird weithin als Hauptgrund für Israels abrupten
+      Rückzug aus den jüngsten Waffenstillstandsverhandlungen mit der Hamas in Katar
+      angesehen. Laut israelischen Medien hat das Kriegskabinett bereits eine umfassendere
+      Strategie zur „Kontrolle“ (nicht Besetzung) des gesamten Gazastreifens beschlossen,
+      wobei die Einnahme von Gaza-Stadt als nächste Phase vorgesehen ist – nach der
+      Eroberung des nördlichen und südlichen Sektors während 22 Monaten unerbittlicher
+      Kämpfe. Nach Einschätzungen des israelischen Militärs würde die vollständige Einnahme
+      der Stadt – eine Operation, die von offiziellen Stellen beharrlich als „Kontrolle”
+      und nicht als „Besetzung” bezeichnet wird – drei Monate Kampfhandlungen und die
+      gewaltsame Vertreibung der verbliebenen Einwohner erfordern. Es ist unwahrscheinlich,
+      dass damit die Freilassung der in dem Gebiet festgehaltenen israelischen Gefangenen
+      erreicht werden kann; stattdessen besteht die Gefahr, dass sie hingerichtet werden,
+      wie die Hamas wiederholt gewarnt hat. Premierminister Benjamin Netanjahu könnte
+      den Plan angesichts des wachsenden internationalen Drucks und der Drohungen, die
+      Zusammenarbeit mit Israel auszusetzen, überdenken. Unter mehreren europäischen
+      Ländern hat sogar Deutschland – Lieferant von rund 30 % der israelischen Militärkomponenten
+      – Restriktionen angekündigt, sollte der Angriff fortgesetzt werden. Für Netanjahu
+      ist Gaza-Stadt jedoch nur ein Schritt, um die Koalition seiner Regierung aufrechtzuerhalten.
+      Das Ziel ist die Vorbereitung der vollständigen Kontrolle über den gesamten Gazastreifen
+      in einer späteren Phase, die in der offiziellen Rhetorik als „Kontrolle” bezeichnet
+      wird – eine bewusste Entscheidung, um rechtliche Verpflichtungen zu minimieren
+      und gleichzeitig die langfristige Vorherrschaft zu festigen. Dieser militärische
+      Vorstoß und die Sprache, mit der er gerechtfertigt wird, sind Teil einer umfassenderen
+      Strategie Israels, den rechtlichen Status des Gazastreifens neu zu definieren
+      und gleichzeitig die absolute Kontrolle über Land, See und Luft zu behalten. Mit
+      dem Eintritt in eine neue Phase des Krieges gegen den Gazastreifen im August 2025
+      haben israelische Regierungsvertreter den Begriff „Besatzung” gänzlich fallen
+      gelassen. Stattdessen sprechen sie von „Kontrolle“ – eine scheinbar subtile Verschiebung
+      mit weitreichenden rechtlichen, politischen und moralischen Konsequenzen. Es handelt
+      sich nicht nur um eine sprachliche Anpassung, sondern um ein kalkuliertes Manöver,
+      um sich der Rechenschaftspflicht zu entziehen und gleichzeitig Israels Kontrolle
+      über die strategisch wichtigsten Gebiete Gazas zu verschärfen. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Israel hat Pläne für eine umfassende Bodenoffensive angekündigt,
+      um die Stadt Gaza einzunehmen und zu kontrollieren, was als Hauptgrund für den
+      Rückzug aus den Waffenstillstandsverhandlungen mit der Hamas angesehen wird.
+    paragraph_summary: Israel hat Pläne für eine groß angelegte Bodenoffensive angekündigt,
+      um die Stadt Gaza zu erobern und zu kontrollieren, was als Hauptgrund für den
+      abrupten Rückzug aus den Waffenstillstandsverhandlungen mit der Hamas angesehen
+      wird. Das israelische Kriegskabinett hat eine Strategie zur Kontrolle des gesamten
+      Gazastreifens beschlossen, wobei die Einnahme von Gaza-Stadt als nächste Phase
+      nach den Kämpfen in den nördlichen und südlichen Sektoren vorgesehen ist. Diese
+      Operation könnte drei Monate intensiver Kämpfe und die gewaltsame Vertreibung
+      der verbleibenden Einwohner erfordern, während die Freilassung israelischer Gefangener
+      unwahrscheinlich bleibt. Premierminister Benjamin Netanjahu könnte den Plan aufgrund
+      internationalen Drucks und drohender Restriktionen, insbesondere von Deutschland,
+      überdenken, sieht jedoch die Kontrolle über Gaza-Stadt als notwendig an, um die
+      Stabilität seiner Regierung zu gewährleisten.
+    published: '2025-08-09T17:57:43+00:00'
+  - title: 'Echos von Hiroshima in Gaza: Was die Welt als Nächstes sehen wird'
+    url: https://ejmagnier.com/2025/08/06/echos-von-hiroshima-in-gaza-was-die-welt-als-nachstes-sehen-wird/
+    text: 'Tweet Während sich der Staub des Krieges über Gaza langsam legt, kündigt
+      sich ein entscheidender Moment an – einer, den israelische Entscheidungsträger
+      verzweifelt hinauszögern wollten: die Rückkehr eines unabhängigen, unzensierten
+      Journalismus. Seit fast zwei Jahren wurden ausländische Reporter entweder ausgeschlossen
+      oder unter starke Einschränkungen gestellt, ihr Zugang streng vom israelischen
+      Militär kontrolliert. Doch keine Informationsblockade ist von Dauer. Und wenn
+      die weithin bekannten Pläne zur massiven Zerstörung, menschlichen Auslöschung
+      und erzwungenen Vertreibung der Palästinenser letztlich scheitern – wenn die ethnische
+      Säuberung nicht „greift“ – wird das, was diese Journalisten aufdecken, Konsequenzen
+      haben, auf die Israels politisches und militärisches Establishment nicht vorbereitet
+      ist. Diese Woche gedenkt die Welt der US-amerikanischen Atombombenabwürfe auf
+      Hiroshima und Nagasaki – Taten, die 1945 zwei Städte in Schutt und Asche legten
+      und das menschliche Gewissen dauerhaft prägten. Fast achtzig Jahre später erlebt
+      Gaza Bombardierungen, deren kumulative Sprengkraft nach Expertenmeinung jene von
+      Hiroshima um ein Mehrfaches übersteigt. Auch wenn keine Atombombe gefallen ist,
+      sind die Folgen – Vernichtung, Hunger, Massenvertreibung – erschreckend ähnlich.
+      Und wenn die Kameras zurückkehren, könnte auch das moralische Urteil ebenso unausweichlich
+      sein. Einer der Hauptgründe, warum Israel – auf direkte Anweisung von Premierminister
+      Benjamin Netanjahu – internationalen Journalisten den Zugang zu Gaza untersagt
+      hat, ist das katastrophale Ausmaß menschlichen Leids. Ganze Familien wurden ausgelöscht.
+      Straßen, einst voller Leben, sind nur noch Ruinen. Vor allem aber ist es das schiere
+      Ausmaß der Zerstörung durch israelische Luftangriffe, das Tel Aviv verbergen will.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Die Rückkehr unabhängigen und unzensierten Journalismus in
+      Gaza steht bevor, nachdem ausländische Reporter fast zwei Jahre lang stark eingeschränkt
+      wurden, was potenziell weitreichende Konsequenzen für Israels politische und militärische
+      Strategien haben könnte.
+    paragraph_summary: 'As the dust of war settles over Gaza, a pivotal moment approaches:
+      the return of independent, uncensored journalism, which Israeli officials have
+      sought to delay for nearly two years by restricting foreign reporters'' access.
+      Despite stringent military controls, information blockades are ultimately unsustainable,
+      and should the plans for widespread destruction and ethnic cleansing of Palestinians
+      fail, the revelations from these journalists could have unforeseen consequences
+      for Israel''s political and military leadership. The article draws parallels between
+      the current devastation in Gaza and the atomic bombings of Hiroshima and Nagasaki,
+      suggesting that the scale of destruction in Gaza may exceed that of the bombings,
+      resulting in similar humanitarian crises. The Israeli government''s efforts to
+      restrict media access are primarily aimed at concealing the catastrophic human
+      suffering and extensive destruction caused by airstrikes, as entire families are
+      obliterated and once-vibrant streets are reduced to ruins.'
+    published: '2025-08-06T19:14:40+00:00'
+  - title: 'Echos von Hiroshima in Gaza: Was die Welt als Nächstes sehen wird'
+    url: https://ejmagnier.com/2025/08/06/echos-von-hiroshima-in-gaza-was-die-welt-als-nachstes-sehen-wird/
+    text: 'Tweet Während sich der Staub des Krieges über Gaza langsam legt, kündigt
+      sich ein entscheidender Moment an – einer, den israelische Entscheidungsträger
+      verzweifelt hinauszögern wollten: die Rückkehr eines unabhängigen, unzensierten
+      Journalismus. Seit fast zwei Jahren wurden ausländische Reporter entweder ausgeschlossen
+      oder unter starke Einschränkungen gestellt, ihr Zugang streng vom israelischen
+      Militär kontrolliert. Doch keine Informationsblockade ist von Dauer. Und wenn
+      die weithin bekannten Pläne zur massiven Zerstörung, menschlichen Auslöschung
+      und erzwungenen Vertreibung der Palästinenser letztlich scheitern – wenn die ethnische
+      Säuberung nicht „greift“ – wird das, was diese Journalisten aufdecken, Konsequenzen
+      haben, auf die Israels politisches und militärisches Establishment nicht vorbereitet
+      ist. Diese Woche gedenkt die Welt der US-amerikanischen Atombombenabwürfe auf
+      Hiroshima und Nagasaki – Taten, die 1945 zwei Städte in Schutt und Asche legten
+      und das menschliche Gewissen dauerhaft prägten. Fast achtzig Jahre später erlebt
+      Gaza Bombardierungen, deren kumulative Sprengkraft nach Expertenmeinung jene von
+      Hiroshima um ein Mehrfaches übersteigt. Auch wenn keine Atombombe gefallen ist,
+      sind die Folgen – Vernichtung, Hunger, Massenvertreibung – erschreckend ähnlich.
+      Und wenn die Kameras zurückkehren, könnte auch das moralische Urteil ebenso unausweichlich
+      sein. Einer der Hauptgründe, warum Israel – auf direkte Anweisung von Premierminister
+      Benjamin Netanjahu – internationalen Journalisten den Zugang zu Gaza untersagt
+      hat, ist das katastrophale Ausmaß menschlichen Leids. Ganze Familien wurden ausgelöscht.
+      Straßen, einst voller Leben, sind nur noch Ruinen. Vor allem aber ist es das schiere
+      Ausmaß der Zerstörung durch israelische Luftangriffe, das Tel Aviv verbergen will.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Die Rückkehr unabhängigen und unzensierten Journalismus in
+      Gaza steht bevor, nachdem ausländische Reporter fast zwei Jahre lang stark eingeschränkt
+      wurden, was potenziell weitreichende Konsequenzen für Israels politische und militärische
+      Strategien haben könnte.
+    paragraph_summary: 'As the dust of war settles over Gaza, a pivotal moment approaches:
+      the return of independent, uncensored journalism, which Israeli officials have
+      sought to delay for nearly two years by restricting foreign reporters'' access.
+      Despite stringent military controls, information blockades are ultimately unsustainable,
+      and should the plans for widespread destruction and ethnic cleansing of Palestinians
+      fail, the revelations from these journalists could have unforeseen consequences
+      for Israel''s political and military leadership. The article draws parallels between
+      the current devastation in Gaza and the atomic bombings of Hiroshima and Nagasaki,
+      suggesting that the scale of destruction in Gaza may exceed that of the bombings,
+      resulting in similar humanitarian crises. The Israeli government''s efforts to
+      restrict media access are primarily aimed at concealing the catastrophic human
+      suffering and extensive destruction caused by airstrikes, as entire families are
+      obliterated and once-vibrant streets are reduced to ruins.'
+    published: '2025-08-06T19:14:40+00:00'
+  - title: 'Echo’s van Hiroshima in Gaza: wat de wereld te wachten staat'
+    url: https://ejmagnier.com/2025/08/06/echos-van-hiroshima-in-gaza-wat-de-wereld-te-wachten-staat/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Nu het
+      stof van de oorlog boven Gaza begint neer te dalen, nadert een beslissend moment
+      – een moment dat Israëlische beleidsmakers wanhopig hebben proberen uit te stellen:
+      de terugkeer van onafhankelijke, onbeperkte journalistiek. Bijna twee jaar lang
+      zijn buitenlandse verslaggevers geweerd of onderworpen aan strenge beperkingen,
+      waarbij hun toegang streng werd gecontroleerd door het Israëlische leger. Maar
+      geen enkele informatieblokkade is permanent. En als de veelbesproken plannen voor
+      massale vernietiging, uitroeiing van mensen en gedwongen verplaatsing van Palestijnen
+      uiteindelijk mislukken – als etnische zuivering niet “gerealiseerd” wordt – dan
+      kan wat die journalisten aan het licht brengen gevolgen hebben waar het Israëlische
+      politieke en militaire establishment niet op is voorbereid. Deze week herdenkt
+      de wereld de Amerikaanse atoombommen op Hiroshima en Nagasaki – daden die in 1945
+      twee steden in de as legden en een litteken achterlieten op het geweten van de
+      mensheid. Bijna tachtig jaar later wordt Gaza geconfronteerd met een bombardement
+      waarvan de totale explosieve kracht volgens deskundigen nu vele malen groter is
+      dan die van Hiroshima. Hoewel er geen kernkoppen zijn afgeworpen, is het resultaat
+      – vernietiging, hongersnood, massale ontheemding – griezelig herkenbaar. En wanneer
+      de camera’s weer verdwijnen, zal de morele afrekening wellicht even blijvend zijn.
+      Een van de belangrijkste redenen waarom Israël, op directe instructie van premier
+      Benjamin Netanyahu, internationale journalisten de toegang tot Gaza heeft verboden,
+      is de catastrofale omvang van het menselijk leed. Hele families zijn uitgeroeid.
+      Straten die ooit bruisten van het leven, zijn nu onherkenbare ruïnes. Maar bovenal
+      is het de enorme omvang van de verwoesting door de Israëlische luchtbombardementen
+      die Tel Aviv wil verbergen. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: De terugkeer van onafhankelijke journalistiek in Gaza, na
+      bijna twee jaar van strikte beperkingen door Israël, kan cruciale informatie onthullen
+      die het politieke en militaire establishment van Israël niet heeft voorzien, vooral
+      als plannen voor etnische zuivering falen.
+    paragraph_summary: As the conflict in Gaza begins to settle, a crucial moment approaches
+      for the return of independent journalism, which has been heavily restricted for
+      nearly two years by Israeli authorities. Foreign reporters have faced bans and
+      strict controls, limiting their ability to report on the humanitarian crisis and
+      destruction caused by Israeli airstrikes, which experts claim surpass the devastation
+      of Hiroshima. The article highlights the potential consequences of revealing the
+      extent of human suffering and destruction in Gaza, as Israel's government, under
+      Prime Minister Benjamin Netanyahu, seeks to prevent the international community
+      from witnessing the catastrophic impact of its military actions. With the looming
+      return of journalists, the narrative surrounding the conflict may shift dramatically,
+      exposing the realities of the situation that Israel has tried to conceal.
+    published: '2025-08-06T19:13:27+00:00'
+  - title: 'Echo’s van Hiroshima in Gaza: wat de wereld te wachten staat'
+    url: https://ejmagnier.com/2025/08/06/echos-van-hiroshima-in-gaza-wat-de-wereld-te-wachten-staat/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Nu het
+      stof van de oorlog boven Gaza begint neer te dalen, nadert een beslissend moment
+      – een moment dat Israëlische beleidsmakers wanhopig hebben proberen uit te stellen:
+      de terugkeer van onafhankelijke, onbeperkte journalistiek. Bijna twee jaar lang
+      zijn buitenlandse verslaggevers geweerd of onderworpen aan strenge beperkingen,
+      waarbij hun toegang streng werd gecontroleerd door het Israëlische leger. Maar
+      geen enkele informatieblokkade is permanent. En als de veelbesproken plannen voor
+      massale vernietiging, uitroeiing van mensen en gedwongen verplaatsing van Palestijnen
+      uiteindelijk mislukken – als etnische zuivering niet “gerealiseerd” wordt – dan
+      kan wat die journalisten aan het licht brengen gevolgen hebben waar het Israëlische
+      politieke en militaire establishment niet op is voorbereid. Deze week herdenkt
+      de wereld de Amerikaanse atoombommen op Hiroshima en Nagasaki – daden die in 1945
+      twee steden in de as legden en een litteken achterlieten op het geweten van de
+      mensheid. Bijna tachtig jaar later wordt Gaza geconfronteerd met een bombardement
+      waarvan de totale explosieve kracht volgens deskundigen nu vele malen groter is
+      dan die van Hiroshima. Hoewel er geen kernkoppen zijn afgeworpen, is het resultaat
+      – vernietiging, hongersnood, massale ontheemding – griezelig herkenbaar. En wanneer
+      de camera’s weer verdwijnen, zal de morele afrekening wellicht even blijvend zijn.
+      Een van de belangrijkste redenen waarom Israël, op directe instructie van premier
+      Benjamin Netanyahu, internationale journalisten de toegang tot Gaza heeft verboden,
+      is de catastrofale omvang van het menselijk leed. Hele families zijn uitgeroeid.
+      Straten die ooit bruisten van het leven, zijn nu onherkenbare ruïnes. Maar bovenal
+      is het de enorme omvang van de verwoesting door de Israëlische luchtbombardementen
+      die Tel Aviv wil verbergen. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: De terugkeer van onafhankelijke journalistiek in Gaza, na
+      bijna twee jaar van strikte beperkingen door Israël, kan cruciale informatie onthullen
+      die het politieke en militaire establishment van Israël niet heeft voorzien, vooral
+      als plannen voor etnische zuivering falen.
+    paragraph_summary: As the conflict in Gaza begins to settle, a crucial moment approaches
+      for the return of independent journalism, which has been heavily restricted for
+      nearly two years by Israeli authorities. Foreign reporters have faced bans and
+      strict controls, limiting their ability to report on the humanitarian crisis and
+      destruction caused by Israeli airstrikes, which experts claim surpass the devastation
+      of Hiroshima. The article highlights the potential consequences of revealing the
+      extent of human suffering and destruction in Gaza, as Israel's government, under
+      Prime Minister Benjamin Netanyahu, seeks to prevent the international community
+      from witnessing the catastrophic impact of its military actions. With the looming
+      return of journalists, the narrative surrounding the conflict may shift dramatically,
+      exposing the realities of the situation that Israel has tried to conceal.
+    published: '2025-08-06T19:13:27+00:00'
+  - title: 'Echoes of Hiroshima in Gaza: What the World Will See Next'
+    url: https://ejmagnier.com/2025/08/06/echoes-of-hiroshima-in-gaza-what-the-world-will-see-next/
+    text: 'Tweet By Elijah J. Magnier – As the dust of war begins to settle over Gaza,
+      a defining moment looms—one that Israeli policymakers have sought desperately
+      to delay: the return of independent, unrestricted journalism. For nearly two years,
+      foreign reporters have been barred or subjected to heavy restrictions, their access
+      tightly managed by the Israeli military. Yet no information blockade is permanent.
+      And if the widely reported plans for mass destruction, human obliteration, and
+      the forced displacement of Palestinians ultimately fail—if ethnic cleansing does
+      not “materialise”—then what those journalists will uncover may provoke consequences
+      the Israeli political and military establishment is ill-prepared to face. This
+      week, the world commemorates the US atomic bombings of Hiroshima and Nagasaki—acts
+      that incinerated two cities in 1945 and left a scar on human conscience. Nearly
+      eighty years later, Gaza faces a bombardment whose cumulative explosive yield,
+      according to experts, now exceeds that of Hiroshima several times over. While
+      no nuclear warhead has been dropped, the result—obliteration, starvation, mass
+      displacement—is eerily resonant. And when the cameras return, the moral reckoning
+      may prove just as lasting. Indeed, one of the primary reasons Israel, on direct
+      instruction from Prime Minister Benjamin Netanyahu, has forbidden international
+      journalists from entering Gaza is the catastrophic scale of human suffering. Entire
+      families have been obliterated. Streets, once teeming with life, are now unrecognisable
+      ruins. But above all, it is the sheer volume of destruction wrought by Israel’s
+      aerial bombardment that Tel Aviv wishes to conceal. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: As the situation in Gaza evolves, the anticipated return of
+      independent journalism poses a significant challenge to Israeli policymakers,
+      particularly if reports reveal the extent of destruction and potential ethnic
+      cleansing that contradicts their narrative.
+    paragraph_summary: Elijah J. Magnier's article highlights the urgent need for independent
+      journalism in Gaza as the aftermath of war unfolds, emphasizing that Israeli authorities
+      have imposed strict restrictions on foreign reporters for nearly two years. With
+      the potential for mass destruction and forced displacement of Palestinians looming,
+      the return of journalists could reveal the extent of human suffering and devastation,
+      which Israeli officials, particularly Prime Minister Benjamin Netanyahu, have
+      sought to conceal. The article draws a parallel between the current bombardment
+      of Gaza and the atomic bombings of Hiroshima and Nagasaki, noting that the scale
+      of destruction in Gaza may surpass that of Hiroshima. As the world reflects on
+      past atrocities, the anticipated return of journalists could lead to significant
+      moral and political repercussions for Israel, exposing the catastrophic impact
+      of its military actions.
+    published: '2025-08-06T16:58:59+00:00'
+  - title: 'Echoes of Hiroshima in Gaza: What the World Will See Next'
+    url: https://ejmagnier.com/2025/08/06/echoes-of-hiroshima-in-gaza-what-the-world-will-see-next/
+    text: 'Tweet By Elijah J. Magnier – As the dust of war begins to settle over Gaza,
+      a defining moment looms—one that Israeli policymakers have sought desperately
+      to delay: the return of independent, unrestricted journalism. For nearly two years,
+      foreign reporters have been barred or subjected to heavy restrictions, their access
+      tightly managed by the Israeli military. Yet no information blockade is permanent.
+      And if the widely reported plans for mass destruction, human obliteration, and
+      the forced displacement of Palestinians ultimately fail—if ethnic cleansing does
+      not “materialise”—then what those journalists will uncover may provoke consequences
+      the Israeli political and military establishment is ill-prepared to face. This
+      week, the world commemorates the US atomic bombings of Hiroshima and Nagasaki—acts
+      that incinerated two cities in 1945 and left a scar on human conscience. Nearly
+      eighty years later, Gaza faces a bombardment whose cumulative explosive yield,
+      according to experts, now exceeds that of Hiroshima several times over. While
+      no nuclear warhead has been dropped, the result—obliteration, starvation, mass
+      displacement—is eerily resonant. And when the cameras return, the moral reckoning
+      may prove just as lasting. Indeed, one of the primary reasons Israel, on direct
+      instruction from Prime Minister Benjamin Netanyahu, has forbidden international
+      journalists from entering Gaza is the catastrophic scale of human suffering. Entire
+      families have been obliterated. Streets, once teeming with life, are now unrecognisable
+      ruins. But above all, it is the sheer volume of destruction wrought by Israel’s
+      aerial bombardment that Tel Aviv wishes to conceal. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: As the situation in Gaza evolves, the anticipated return of
+      independent journalism poses a significant challenge to Israeli policymakers,
+      particularly if reports reveal the extent of destruction and potential ethnic
+      cleansing that contradicts their narrative.
+    paragraph_summary: Elijah J. Magnier's article highlights the urgent need for independent
+      journalism in Gaza as the aftermath of war unfolds, emphasizing that Israeli authorities
+      have imposed strict restrictions on foreign reporters for nearly two years. With
+      the potential for mass destruction and forced displacement of Palestinians looming,
+      the return of journalists could reveal the extent of human suffering and devastation,
+      which Israeli officials, particularly Prime Minister Benjamin Netanyahu, have
+      sought to conceal. The article draws a parallel between the current bombardment
+      of Gaza and the atomic bombings of Hiroshima and Nagasaki, noting that the scale
+      of destruction in Gaza may surpass that of Hiroshima. As the world reflects on
+      past atrocities, the anticipated return of journalists could lead to significant
+      moral and political repercussions for Israel, exposing the catastrophic impact
+      of its military actions.
+    published: '2025-08-06T16:58:59+00:00'
+  - title: 'Échos d’Hiroshima à Gaza : Ce que le monde va découvrir'
+    url: https://ejmagnier.com/2025/08/06/echos-dhiroshima-a-gaza-ce-que-le-monde-va-decouvrir/
+    text: 'Tweet Par Elijah J. Magnier – Alors que la poussière de la guerre commence
+      à retomber sur Gaza, un moment décisif se profile — un moment que les décideurs
+      israéliens ont désespérément cherché à retarder : le retour d’un journalisme indépendant
+      et sans entrave. Depuis près de deux ans, les journalistes étrangers sont soit
+      interdits d’entrée, soit soumis à de fortes restrictions, leur accès étant étroitement
+      contrôlé par l’armée israélienne. Mais aucun blocus de l’information n’est éternel.
+      Et si les plans largement rapportés de destruction massive, d’anéantissement humain
+      et de déplacement forcé des Palestiniens échouent — si le nettoyage ethnique ne
+      « se matérialise » pas —, alors ce que ces journalistes découvriront pourrait
+      entraîner des conséquences pour lesquelles l’establishment politique et militaire
+      israélien n’est pas préparé. Cette semaine, le monde commémore les bombardements
+      atomiques américains d’Hiroshima et de Nagasaki — des actes qui ont réduit en
+      cendres deux villes en 1945 et laissé une cicatrice dans la conscience humaine.
+      Près de quatre-vingts ans plus tard, Gaza subit un bombardement dont la charge
+      explosive cumulée, selon des experts, dépasse désormais plusieurs fois celle d’Hiroshima.
+      Bien qu’aucune ogive nucléaire n’ait été utilisée, le résultat — anéantissement,
+      famine, déplacement de masse — résonne étrangement. Et lorsque les caméras reviendront,
+      le choc moral pourrait être tout aussi durable. L’une des raisons principales
+      pour lesquelles Israël, sur instruction directe du Premier ministre Benjamin Netanyahou,
+      a interdit l’entrée de journalistes internationaux à Gaza est l’ampleur catastrophique
+      des souffrances humaines. Des familles entières ont été anéanties. Des rues autrefois
+      animées sont désormais méconnaissables. Mais c’est surtout le volume de destruction
+      causé par les bombardements aériens israéliens que Tel-Aviv cherche à dissimuler.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: L'article souligne que, alors que la guerre à Gaza s'apaise,
+      un retour imminent à un journalisme indépendant pourrait exposer des vérités dérangeantes
+      sur les actions israéliennes, malgré les efforts de l'État israélien pour contrôler
+      l'information et éviter des conséquences imprévues.
+    paragraph_summary: Elijah J. Magnier's tweet highlights the impending return of
+      independent journalism in Gaza as the aftermath of the recent war begins to settle.
+      For nearly two years, foreign journalists have faced entry bans and strict restrictions
+      imposed by the Israeli military, aimed at controlling the narrative surrounding
+      the conflict. However, if plans for mass destruction and ethnic cleansing of Palestinians
+      fail, the revelations from these journalists could have unforeseen consequences
+      for the Israeli political and military establishment. The article draws a parallel
+      between the catastrophic bombings of Hiroshima and Nagasaki and the current situation
+      in Gaza, where the cumulative explosive power of recent airstrikes reportedly
+      surpasses that of the atomic bombings, leading to widespread devastation and humanitarian
+      crises. The Israeli government, under Prime Minister Benjamin Netanyahu, has restricted
+      media access to conceal the extent of human suffering and destruction caused by
+      its military actions.
+    published: '2025-08-06T16:57:12+00:00'
+  - title: 'Échos d’Hiroshima à Gaza : Ce que le monde va découvrir'
+    url: https://ejmagnier.com/2025/08/06/echos-dhiroshima-a-gaza-ce-que-le-monde-va-decouvrir/
+    text: 'Tweet Par Elijah J. Magnier – Alors que la poussière de la guerre commence
+      à retomber sur Gaza, un moment décisif se profile — un moment que les décideurs
+      israéliens ont désespérément cherché à retarder : le retour d’un journalisme indépendant
+      et sans entrave. Depuis près de deux ans, les journalistes étrangers sont soit
+      interdits d’entrée, soit soumis à de fortes restrictions, leur accès étant étroitement
+      contrôlé par l’armée israélienne. Mais aucun blocus de l’information n’est éternel.
+      Et si les plans largement rapportés de destruction massive, d’anéantissement humain
+      et de déplacement forcé des Palestiniens échouent — si le nettoyage ethnique ne
+      « se matérialise » pas —, alors ce que ces journalistes découvriront pourrait
+      entraîner des conséquences pour lesquelles l’establishment politique et militaire
+      israélien n’est pas préparé. Cette semaine, le monde commémore les bombardements
+      atomiques américains d’Hiroshima et de Nagasaki — des actes qui ont réduit en
+      cendres deux villes en 1945 et laissé une cicatrice dans la conscience humaine.
+      Près de quatre-vingts ans plus tard, Gaza subit un bombardement dont la charge
+      explosive cumulée, selon des experts, dépasse désormais plusieurs fois celle d’Hiroshima.
+      Bien qu’aucune ogive nucléaire n’ait été utilisée, le résultat — anéantissement,
+      famine, déplacement de masse — résonne étrangement. Et lorsque les caméras reviendront,
+      le choc moral pourrait être tout aussi durable. L’une des raisons principales
+      pour lesquelles Israël, sur instruction directe du Premier ministre Benjamin Netanyahou,
+      a interdit l’entrée de journalistes internationaux à Gaza est l’ampleur catastrophique
+      des souffrances humaines. Des familles entières ont été anéanties. Des rues autrefois
+      animées sont désormais méconnaissables. Mais c’est surtout le volume de destruction
+      causé par les bombardements aériens israéliens que Tel-Aviv cherche à dissimuler.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: L'article souligne que, alors que la guerre à Gaza s'apaise,
+      un retour imminent à un journalisme indépendant pourrait exposer des vérités dérangeantes
+      sur les actions israéliennes, malgré les efforts de l'État israélien pour contrôler
+      l'information et éviter des conséquences imprévues.
+    paragraph_summary: Elijah J. Magnier's tweet highlights the impending return of
+      independent journalism in Gaza as the aftermath of the recent war begins to settle.
+      For nearly two years, foreign journalists have faced entry bans and strict restrictions
+      imposed by the Israeli military, aimed at controlling the narrative surrounding
+      the conflict. However, if plans for mass destruction and ethnic cleansing of Palestinians
+      fail, the revelations from these journalists could have unforeseen consequences
+      for the Israeli political and military establishment. The article draws a parallel
+      between the catastrophic bombings of Hiroshima and Nagasaki and the current situation
+      in Gaza, where the cumulative explosive power of recent airstrikes reportedly
+      surpasses that of the atomic bombings, leading to widespread devastation and humanitarian
+      crises. The Israeli government, under Prime Minister Benjamin Netanyahu, has restricted
+      media access to conceal the extent of human suffering and destruction caused by
+      its military actions.
+    published: '2025-08-06T16:57:12+00:00'
   - title: 'De crisis exporteren: Israëls stille campagne om Gazanen naar derde landen
       te verdrijven'
     url: https://ejmagnier.com/2025/08/05/de-crisis-exporteren-israels-stille-campagne-om-gazanen-naar-derde-landen-te-verdrijven/

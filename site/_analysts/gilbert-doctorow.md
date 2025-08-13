@@ -7,16 +7,1795 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As the summer of 2025 progresses, the geopolitical landscape in Europe remains shaped by deepening divisions within the European Union, mounting pressure on Ukraine’s leadership, and continued scrutiny of Western policy prescriptions for post-communist states.
+  As anticipation builds for the upcoming Trump-Putin summit, the geopolitical landscape remains in flux, with recent diplomatic maneuvers and media dynamics shaping expectations. The context is defined by the ongoing Russia-Ukraine conflict, persistent mistrust between NATO and Moscow, and renewed efforts—primarily from the U.S. side—to broker a peace settlement.
   
-  The most recent commentary from **Gilbert Doctorow** critiques the influence of prominent Western economists like Jeffrey Sachs during the post-communist transitions in Poland and Russia. While Sachs is lauded for his articulate criticism of U.S. foreign policy, Doctorow notes that the actual economic transformation in Poland owed more to the return of Western-trained Polish professionals than to outside advisors. This perspective underscores a broader skepticism about the efficacy of Western-led reform models in Eastern Europe—a skepticism that is gaining traction as economic and political strains intensify across the region.
+  The most notable recent development is the confirmation of the Trump-Putin meeting, with **Gilbert Doctorow** emphasizing the symbolism of Trump as the initiator. This is seen as a significant gesture, suggesting a possible shift in U.S. policy tone and a willingness to engage directly with Moscow. According to Doctorow, “the very fact that Trump is the initiator of the meeting is of great importance,” underlining the potential for a new diplomatic opening.
   
-  Meanwhile, the EU’s recent trade agreement with the United States continues to reverberate. Doctorow, in a recent interview, warns that the deal—widely perceived as a capitulation to U.S. interests—risks undermining both the EU’s internal cohesion and its transatlantic relationship. The agreement’s provisions, including a 15% tariff on European exports and increased commitments to import U.S. LNG and oil, are seen as detrimental to European manufacturing and energy competitiveness. There is a high chance, Doctorow argues, that these measures will further erode confidence in EU leadership and deepen economic vulnerabilities.
+  Meanwhile, the aftermath of Steve Witkoff’s high-profile visit to Moscow continues to reverberate. As discussed by **Professor Glenn Diesen** in a recent interview, there is “some optimism about the potential for a peaceful resolution to the Russia-Ukraine war,” though he cautions that the historical context of NATO-Russia relations—marked by deception and broken promises—tempers expectations. The Russian side has called the latest U.S. peace plan “acceptable,” but the details and implementation remain uncertain.
   
-  On the Ukrainian front, the situation remains volatile. Recent weeks have seen massive protests against President Zelensky’s controversial anti-corruption law, leading to dissent within his party and speculation about imminent regime change. Doctorow and other analysts maintain that the U.S. is playing a significant role in shaping events in Kyiv, with Russia continuing to push for a diplomatic settlement on its own terms. The majority view is that Zelensky’s position is increasingly precarious, and there is a high chance of significant political upheaval in Ukraine in the near term.
+  On the media front, Doctorow contrasts Russian and U.S. coverage, arguing that Russian outlets, particularly RT, allow for greater freedom of expression on sensitive topics like Ukraine. He notes, “the lack of censorship in live broadcasts” stands in stark contrast to the “selective editing practices of US media,” which may influence public perceptions and diplomatic messaging.
   
-  In summary, the prevailing trends point to growing instability in both the EU and Ukraine, with Western policy prescriptions facing mounting criticism and the likelihood of regime change in Kyiv increasing. I guarantee that the coming weeks will see further challenges to the current European and Ukrainian leadership, as internal and external pressures continue to mount.
+  Looking ahead, the majority view among analysts is that the Trump-Putin summit could mark a turning point, but the outcome is far from guaranteed. There is a high chance that diplomatic engagement will continue, with both sides testing the waters for a possible ceasefire or broader settlement. However, given the entrenched mistrust and complex interests at play, a comprehensive resolution remains elusive in the short term.
+  
+  **Trends and Predictions:**  
+  - The Trump-Putin summit is most definitely a pivotal event, with the potential to reshape the diplomatic landscape, though the specifics of any agreement are still unclear.
+  - There is a high chance that both Russian and U.S. media will continue to frame developments to suit their respective narratives, influencing both domestic and international opinion.
+  - While optimism has increased, especially following Witkoff’s Moscow visit, the majority opinion is that any peace process will be incremental and subject to setbacks, given the historical record of failed negotiations.
+  
+  In summary, the coming days are likely to be decisive, with the Trump-Putin meeting serving as a critical barometer for the prospects of de-escalation in the Russia-Ukraine conflict.
 articles:
+  - title: Transcript of RT Interview, 8 August
+    url: https://gilbertdoctorow.com/2025/08/10/transcript-of-rt-interview-8-august/
+    text: 'Transcript submitted by a reader RT: 0:00 Let’s discuss this topic now with
+      author, historian and geopolitical analyst Gilbert Doctorow. Gilbert, thanks a
+      lot for joining us on the program. I just want to ask you, what do you think about
+      this, your thoughts on the upcoming Putin-Trump meeting? Gilbert Doctorow, PhD:
+      Well, as your colleague at RT said a little bit earlier, this whole event is filled
+      with symbolism, and I would like to unwrap some of the symbolism. Some of my colleagues
+      have tried to parse the language of Mr Ushakov when he was describing the agreement
+      to meet with the American president. I say that the skills needed for this are
+      not criminology. The skills are those of someone entering the Easter egg hunt.
+      And what I mean by that is that we have to look at who initiated everything that
+      is about to happen. That is Mr. Trump. Mr. Trump is known as a real estate man.
+      And I haven’t heard anybody pay attention to what that means in a given instance
+      other than to say that territory will be swapped. That’s the least of it. 1:04
+      As you just pointed out, swapping a little bit of Sumi, a little bit of Kharkov
+      against a substantial amount of land in the Donbass that is not yet occupied by
+      Russians, that isn’t a very interesting swap, is it? However, the swap will take
+      place because something else is involved. Now, before I get to that something
+      else involved, I want to look at another symbolism, the date. The date is the
+      15th of August. To most Americans, that doesn’t mean much. To Europeans, it means
+      a lot. To Catholics, it means a lot. The 15th of August is known as the feast
+      of the Assumption of the Virgin Mary. However, it all goes back 2,000 years to
+      the Emperor Augustus, from which the month of August is named. And this date,
+      15th of August, is the Feira Agosto. That is the celebration feast day of the
+      Emperor Augustus. And who was Augustus? He was the founder of the Roman Empire,
+      and he was the founder of the Pax Romana, the perpetual peace enforced by the
+      Roman Empire. Mr. Trump is today’s Emperor Augustus, and he would like to be known
+      for his Pax Trumpiana. The point is that the day was not arbitrary. It’s highly
+      symbolic. The place was not arbitrary. It’s highly symbolic. And the fact that
+      it’s only two miles away from separating Russia and the United States is coincidental,
+      but not decisive. 2:35 What is decisive is how did this territory become American?
+      I haven’t heard a word about that. By the way, it was bought. It was bought. It
+      was sold by the Russian Tsar, and it was bought by the Americans. And that’s what
+      we’re going to see now in Ukraine. And nobody’s saying a word about it. But let’s
+      use our minds. Let’s expand a little bit. Let’s be extravagant like Mr. Trump
+      is. The Russians have $350 billion worth of assets that are now frozen in the
+      West. Practically speaking, they have written that off. In their bookkeeping internally,
+      they recouped most of that money by the extraordinary profitability of selling
+      hydrocarbons in the first days of the war. So $350 billion, well, you can buy
+      a lot in Ukraine with that, can’t you? And the opinion of Mr. Zelensky about refusing
+      or accepting the $350 billion in exchange for all of the territory of Ukraine
+      that Russia wants, which is the whole Donbass, the four oblasts that were named.
+      Well, that’s a deal. That is Mr. Trump’s great art of the deal. And I haven’t
+      heard anybody talk about it yet, but it’s just hanging there, low-hanging fruit
+      in front of our very noses. So I expect that there will be a deal. And I expect
+      that whatever Mr. Zelensky thinks, if he doesn’t like it, they’ll be overthrown
+      at once because the Ukrainian people would like to have that money to rebuild.
+      RT: 4:04 That’s a fascinating take, to be honest, about Augustus; and of course
+      you have a deep understanding of the history of Alaska and Russian-US relations
+      obviously. But I want to ask you, why do you think Zelensky himself, all things
+      considered, wasn’t invited to this summit in the first place? Doctorow: His opinion
+      is not wanted, because the decision at the end will not be his. It will be the
+      decision of the Ukrainian people. Either he goes with what the polls are saying,
+      which is that 70 percent of the Ukrainians now want the war to end, or he’ll be
+      overthrown. So to invite his opinion is useless. In fact, it’s counterproductive.
+      The parties, the United States and Russia, will tell him what his deal is. The
+      Ukrainian people will go for that deal, because it’s fantastic for them. And that
+      will be it, whether Zelensky stays or goes, that will be his decision, but it
+      will have no influence on the outcome of this war. RT: 5:01 Well, you mentioned
+      the art of the deal, how obviously Trump is approaching this as a businessman
+      in large part. And the Kremlin also pointed out that these two countries, they’re
+      neighbors, right? And both Alaska and the Arctic, they both hold great potential
+      for joint projects. So do you think that this could be in part an attempt to come
+      to a peace agreement, but also in part to expand some sort of joint projects there?
+      Doctorow: Joint projects, of course. Kirill Dmitriev, the head of the Direct Investment
+      Fund, has been an integral part of all discussions. And everyone knows that he
+      is a backer of the old idea of a tunnel bridge connecting Russia and the United
+      States over the Bering Strait. So that, of course, is an element that cannot be
+      excluded. At the same time, the real possibilities for further development of
+      whatever is reached on the 15th of August are on a different level. They are at
+      global security. 6:00 The time on the New START treaty, the arms limitation treaty,
+      is expiring in ’26. It is entirely predictable that if the parties reach an agreement
+      on the 15th in the little petty business of the Ukraine war, they will move on
+      to the big global issues of arms control, removing the threat of intermediate-range
+      missiles in Europe, which would come with the introduction of American missiles
+      in ’26 in Germany. These issues will then be next on the agenda. So what we’re
+      looking forward to is a big rollout of a global realignment for which the first
+      step will happen on the 15th of August. RT: 6:48 Well, you brought up a lot of
+      good reasons for why this meeting is set to take place in Alaska. But also, there
+      were other options that we heard about before, right? The United Arab Emirates
+      was brought up. And of course, there are other more neutral countries that could
+      have been chosen. Again, Alaska is not neutral territory. It’s a state of the
+      United States. What do you think was the main factor in them choosing Alaska over
+      these other potential venues? Doctorow: 7:13 Well, Mr. Trump’s a showman, first
+      of all, and nothing could be showier and more symbolic than having it in Alaska,
+      which was purchased by the United States from Russia. And that is what he probably
+      has put on the table to Mr. Putin, that Russia purchase the land that it now occupies
+      and that it claims as part of the Russian Federation from Ukraine on condition
+      that there be a complete and permanent peace between the countries, which puts
+      an end to any Ukrainian claims against Russia, and puts a big “Nyet” on all the
+      hopes of warmongers in Europe to continue this conflict. Now, why Alaska? There
+      are other reasons, one of which nobody has mentioned, security. To reach this
+      meeting in Alaska, Mr. Putin flies only over Russian territory. That’s not a bad
+      solution. He doesn’t have to cross anybody’s territory and doesn’t have to have
+      20 jets accompanying his jet so he isn’t shot down. This is reality. This is the
+      world we live in today. And I believe that was another factor. RT: 8:30 All right.
+      Well, we have a little bit more time left, but if you could give me a pretty short
+      answer to this next question, right? Donald Trump ran on peacemaking. I mean,
+      the Ukraine conflict was one of the main things that he said he was going to fix
+      during his campaign trail. But he’s put a lot of things on the back burner in
+      terms of things he promised on the campaign trail. So after, let’s say this is
+      done with in Alaska and a peace deal is reached, where do you think Trump is going
+      to go next in terms of promises that he made on the campaign trail or different
+      foreign policies that he’s looking to establish? Doctorow: 9:03 The big outstanding
+      contradiction to his peace mission is, of course, the genocide in Gaza. And that
+      is an issue that will not go away even after this deal is signed or is reached
+      on the 15th of August. It won’t go away for a little bit of time because the general
+      accommodation with Russia, that is Mr. Trump’s intent, and I would say possibly
+      also, however paradoxical it may sound, an accommodation with China, which may
+      come in September if the next Yalta meeting is held there for the celebration
+      of the 80th anniversary in Beijing of the end of the war in the Pacific. 9:51
+      These accommodations have to go through Congress. And Mr. Trump is very dependent
+      in Congress on the Zionist majority in both houses, pro-Zionists. People say the
+      Israeli lobby, well, the Israeli lobby was a factor, but there are also other
+      factors. There are these born-again Christians who are Zionists also. And so Mr.
+      Trump has this problem of navigating Congress, and he is stuck with this Zionist
+      presence in Congress. And he cannot, he doesn’t have much wiggle room in dealing
+      with Israel for that reason. For this very reason, it is incumbent on Europe to
+      do something and to take a lead and do something of importance on the world stage
+      and not just kick the tires about Trump’s policies here and there. So, Europe
+      has a great opportunity to lead peace in Palestine. I hope they take it. Mr. Trump,
+      unfortunately, because of political realities, cannot do that on the other burning
+      issue of world peace. RT: 11:07 All right, Gilbert Doctorow, author, historian
+      and geopolitical analyst, thanks a lot for joining us on the program. Doctorow:
+      My pleasure.'
+    one_sentence_summary: Historian Gilbert Doctorow discusses the symbolism behind
+      the upcoming meeting between Putin and Trump, emphasizing the significance of
+      Trump's role as the initiator of the event.
+    paragraph_summary: In a discussion about the upcoming meeting between Vladimir Putin
+      and Donald Trump, historian and geopolitical analyst Gilbert Doctorow emphasizes
+      the symbolic significance of the event, particularly the date of August 15. He
+      suggests that the meeting, initiated by Trump, could involve territorial negotiations,
+      such as a land swap in Ukraine, but implies that the implications extend beyond
+      mere geography. Doctorow connects the date to historical and cultural meanings,
+      noting its importance to both Catholics and Europeans, as it coincides with the
+      feast of the Assumption of the Virgin Mary and the celebration of Emperor Augustus,
+      who established the Roman Empire and the concept of Pax Romana, or enforced peace.
+      This context suggests that the meeting may carry deeper historical and geopolitical
+      connotations.
+    published: '2025-08-10T05:00:47+00:00'
+  - title: Transcript of RT Interview, 8 August
+    url: https://gilbertdoctorow.com/2025/08/10/transcript-of-rt-interview-8-august/
+    text: 'Transcript submitted by a reader RT: 0:00 Let’s discuss this topic now with
+      author, historian and geopolitical analyst Gilbert Doctorow. Gilbert, thanks a
+      lot for joining us on the program. I just want to ask you, what do you think about
+      this, your thoughts on the upcoming Putin-Trump meeting? Gilbert Doctorow, PhD:
+      Well, as your colleague at RT said a little bit earlier, this whole event is filled
+      with symbolism, and I would like to unwrap some of the symbolism. Some of my colleagues
+      have tried to parse the language of Mr Ushakov when he was describing the agreement
+      to meet with the American president. I say that the skills needed for this are
+      not criminology. The skills are those of someone entering the Easter egg hunt.
+      And what I mean by that is that we have to look at who initiated everything that
+      is about to happen. That is Mr. Trump. Mr. Trump is known as a real estate man.
+      And I haven’t heard anybody pay attention to what that means in a given instance
+      other than to say that territory will be swapped. That’s the least of it. 1:04
+      As you just pointed out, swapping a little bit of Sumi, a little bit of Kharkov
+      against a substantial amount of land in the Donbass that is not yet occupied by
+      Russians, that isn’t a very interesting swap, is it? However, the swap will take
+      place because something else is involved. Now, before I get to that something
+      else involved, I want to look at another symbolism, the date. The date is the
+      15th of August. To most Americans, that doesn’t mean much. To Europeans, it means
+      a lot. To Catholics, it means a lot. The 15th of August is known as the feast
+      of the Assumption of the Virgin Mary. However, it all goes back 2,000 years to
+      the Emperor Augustus, from which the month of August is named. And this date,
+      15th of August, is the Feira Agosto. That is the celebration feast day of the
+      Emperor Augustus. And who was Augustus? He was the founder of the Roman Empire,
+      and he was the founder of the Pax Romana, the perpetual peace enforced by the
+      Roman Empire. Mr. Trump is today’s Emperor Augustus, and he would like to be known
+      for his Pax Trumpiana. The point is that the day was not arbitrary. It’s highly
+      symbolic. The place was not arbitrary. It’s highly symbolic. And the fact that
+      it’s only two miles away from separating Russia and the United States is coincidental,
+      but not decisive. 2:35 What is decisive is how did this territory become American?
+      I haven’t heard a word about that. By the way, it was bought. It was bought. It
+      was sold by the Russian Tsar, and it was bought by the Americans. And that’s what
+      we’re going to see now in Ukraine. And nobody’s saying a word about it. But let’s
+      use our minds. Let’s expand a little bit. Let’s be extravagant like Mr. Trump
+      is. The Russians have $350 billion worth of assets that are now frozen in the
+      West. Practically speaking, they have written that off. In their bookkeeping internally,
+      they recouped most of that money by the extraordinary profitability of selling
+      hydrocarbons in the first days of the war. So $350 billion, well, you can buy
+      a lot in Ukraine with that, can’t you? And the opinion of Mr. Zelensky about refusing
+      or accepting the $350 billion in exchange for all of the territory of Ukraine
+      that Russia wants, which is the whole Donbass, the four oblasts that were named.
+      Well, that’s a deal. That is Mr. Trump’s great art of the deal. And I haven’t
+      heard anybody talk about it yet, but it’s just hanging there, low-hanging fruit
+      in front of our very noses. So I expect that there will be a deal. And I expect
+      that whatever Mr. Zelensky thinks, if he doesn’t like it, they’ll be overthrown
+      at once because the Ukrainian people would like to have that money to rebuild.
+      RT: 4:04 That’s a fascinating take, to be honest, about Augustus; and of course
+      you have a deep understanding of the history of Alaska and Russian-US relations
+      obviously. But I want to ask you, why do you think Zelensky himself, all things
+      considered, wasn’t invited to this summit in the first place? Doctorow: His opinion
+      is not wanted, because the decision at the end will not be his. It will be the
+      decision of the Ukrainian people. Either he goes with what the polls are saying,
+      which is that 70 percent of the Ukrainians now want the war to end, or he’ll be
+      overthrown. So to invite his opinion is useless. In fact, it’s counterproductive.
+      The parties, the United States and Russia, will tell him what his deal is. The
+      Ukrainian people will go for that deal, because it’s fantastic for them. And that
+      will be it, whether Zelensky stays or goes, that will be his decision, but it
+      will have no influence on the outcome of this war. RT: 5:01 Well, you mentioned
+      the art of the deal, how obviously Trump is approaching this as a businessman
+      in large part. And the Kremlin also pointed out that these two countries, they’re
+      neighbors, right? And both Alaska and the Arctic, they both hold great potential
+      for joint projects. So do you think that this could be in part an attempt to come
+      to a peace agreement, but also in part to expand some sort of joint projects there?
+      Doctorow: Joint projects, of course. Kirill Dmitriev, the head of the Direct Investment
+      Fund, has been an integral part of all discussions. And everyone knows that he
+      is a backer of the old idea of a tunnel bridge connecting Russia and the United
+      States over the Bering Strait. So that, of course, is an element that cannot be
+      excluded. At the same time, the real possibilities for further development of
+      whatever is reached on the 15th of August are on a different level. They are at
+      global security. 6:00 The time on the New START treaty, the arms limitation treaty,
+      is expiring in ’26. It is entirely predictable that if the parties reach an agreement
+      on the 15th in the little petty business of the Ukraine war, they will move on
+      to the big global issues of arms control, removing the threat of intermediate-range
+      missiles in Europe, which would come with the introduction of American missiles
+      in ’26 in Germany. These issues will then be next on the agenda. So what we’re
+      looking forward to is a big rollout of a global realignment for which the first
+      step will happen on the 15th of August. RT: 6:48 Well, you brought up a lot of
+      good reasons for why this meeting is set to take place in Alaska. But also, there
+      were other options that we heard about before, right? The United Arab Emirates
+      was brought up. And of course, there are other more neutral countries that could
+      have been chosen. Again, Alaska is not neutral territory. It’s a state of the
+      United States. What do you think was the main factor in them choosing Alaska over
+      these other potential venues? Doctorow: 7:13 Well, Mr. Trump’s a showman, first
+      of all, and nothing could be showier and more symbolic than having it in Alaska,
+      which was purchased by the United States from Russia. And that is what he probably
+      has put on the table to Mr. Putin, that Russia purchase the land that it now occupies
+      and that it claims as part of the Russian Federation from Ukraine on condition
+      that there be a complete and permanent peace between the countries, which puts
+      an end to any Ukrainian claims against Russia, and puts a big “Nyet” on all the
+      hopes of warmongers in Europe to continue this conflict. Now, why Alaska? There
+      are other reasons, one of which nobody has mentioned, security. To reach this
+      meeting in Alaska, Mr. Putin flies only over Russian territory. That’s not a bad
+      solution. He doesn’t have to cross anybody’s territory and doesn’t have to have
+      20 jets accompanying his jet so he isn’t shot down. This is reality. This is the
+      world we live in today. And I believe that was another factor. RT: 8:30 All right.
+      Well, we have a little bit more time left, but if you could give me a pretty short
+      answer to this next question, right? Donald Trump ran on peacemaking. I mean,
+      the Ukraine conflict was one of the main things that he said he was going to fix
+      during his campaign trail. But he’s put a lot of things on the back burner in
+      terms of things he promised on the campaign trail. So after, let’s say this is
+      done with in Alaska and a peace deal is reached, where do you think Trump is going
+      to go next in terms of promises that he made on the campaign trail or different
+      foreign policies that he’s looking to establish? Doctorow: 9:03 The big outstanding
+      contradiction to his peace mission is, of course, the genocide in Gaza. And that
+      is an issue that will not go away even after this deal is signed or is reached
+      on the 15th of August. It won’t go away for a little bit of time because the general
+      accommodation with Russia, that is Mr. Trump’s intent, and I would say possibly
+      also, however paradoxical it may sound, an accommodation with China, which may
+      come in September if the next Yalta meeting is held there for the celebration
+      of the 80th anniversary in Beijing of the end of the war in the Pacific. 9:51
+      These accommodations have to go through Congress. And Mr. Trump is very dependent
+      in Congress on the Zionist majority in both houses, pro-Zionists. People say the
+      Israeli lobby, well, the Israeli lobby was a factor, but there are also other
+      factors. There are these born-again Christians who are Zionists also. And so Mr.
+      Trump has this problem of navigating Congress, and he is stuck with this Zionist
+      presence in Congress. And he cannot, he doesn’t have much wiggle room in dealing
+      with Israel for that reason. For this very reason, it is incumbent on Europe to
+      do something and to take a lead and do something of importance on the world stage
+      and not just kick the tires about Trump’s policies here and there. So, Europe
+      has a great opportunity to lead peace in Palestine. I hope they take it. Mr. Trump,
+      unfortunately, because of political realities, cannot do that on the other burning
+      issue of world peace. RT: 11:07 All right, Gilbert Doctorow, author, historian
+      and geopolitical analyst, thanks a lot for joining us on the program. Doctorow:
+      My pleasure.'
+    one_sentence_summary: Historian Gilbert Doctorow discusses the symbolism behind
+      the upcoming meeting between Putin and Trump, emphasizing the significance of
+      Trump's role as the initiator of the event.
+    paragraph_summary: In a discussion about the upcoming meeting between Vladimir Putin
+      and Donald Trump, historian and geopolitical analyst Gilbert Doctorow emphasizes
+      the symbolic significance of the event, particularly the date of August 15. He
+      suggests that the meeting, initiated by Trump, could involve territorial negotiations,
+      such as a land swap in Ukraine, but implies that the implications extend beyond
+      mere geography. Doctorow connects the date to historical and cultural meanings,
+      noting its importance to both Catholics and Europeans, as it coincides with the
+      feast of the Assumption of the Virgin Mary and the celebration of Emperor Augustus,
+      who established the Roman Empire and the concept of Pax Romana, or enforced peace.
+      This context suggests that the meeting may carry deeper historical and geopolitical
+      connotations.
+    published: '2025-08-10T05:00:47+00:00'
+  - title: An extraordinary interview on RT International that must have the producers
+      scratching their heads
+    url: https://gilbertdoctorow.com/2025/08/09/an-extraordinary-interview-on-rt-international-that-must-have-the-producers-scratching-their-heads/
+    text: An extraordinary interview on RT International that must have the producers
+      scratching their heads Long ago, to be precise in 2016, when I appeared multiple
+      times on different domestic Russian talk shows, I saw firsthand that Russia does
+      not censor those who appear on live television, nor do they make cuts when the
+      videotaped programs are put up on the internet. That freedom of expression stands
+      in stark contrast to the production methods in the USA. In the USA, you give 15
+      minutes of interview to CNN and maybe they put on air 2 minutes of what their
+      producers want to hear. When in 2015 I said on air on a Euronews panel discussion
+      that Russian media were freer with respect to Ukraine coverage than US media,
+      my fellow panelist, Elmar Brok, chairman of the European Parliament committee
+      on foreign affairs, said rudely, offensively:  how much did the Kremlin pay you
+      to say that? What I said in 2015-2016 I repeat today with regard to RT.  My answers
+      to their prepared questions in this afternoon’s interview about the US-Russia
+      summit in Alaska next week must have left some of the producers gasping.  BUT
+      not a word of what I said has been cut in the video they just posted on the internet.
+      I hope that the Community will find value in this and share my appreciation for
+      freedom of expression in Russia today. https://drive.google.com/file/d/1dD6Em_63MjRgRh_pAlcPeKJ5vWLDU65n/view?usp=sharing
+    one_sentence_summary: The article discusses the author's experience with Russian
+      media, highlighting the lack of censorship in live broadcasts compared to the
+      selective editing practices of US media, and reiterates their belief that Russian
+      media offers greater freedom of expression, particularly in relation to coverage
+      of Ukraine.
+    paragraph_summary: In a recent interview on RT International, the author reflects
+      on their experiences with media freedom in Russia compared to the United States,
+      highlighting that Russian television does not censor live broadcasts or edit content
+      for online distribution, unlike American networks that often selectively air interviews.
+      The author recalls a past incident in 2015 where they asserted that Russian media
+      offered more freedom in covering Ukraine than U.S. media, which prompted a dismissive
+      response from a fellow panelist. They express satisfaction that their unedited
+      responses during the recent interview on U.S.-Russia relations were fully preserved
+      in the online posting, emphasizing their appreciation for the freedom of expression
+      in Russia.
+    published: '2025-08-09T15:46:33+00:00'
+  - title: An extraordinary interview on RT International that must have the producers
+      scratching their heads
+    url: https://gilbertdoctorow.com/2025/08/09/an-extraordinary-interview-on-rt-international-that-must-have-the-producers-scratching-their-heads/
+    text: An extraordinary interview on RT International that must have the producers
+      scratching their heads Long ago, to be precise in 2016, when I appeared multiple
+      times on different domestic Russian talk shows, I saw firsthand that Russia does
+      not censor those who appear on live television, nor do they make cuts when the
+      videotaped programs are put up on the internet. That freedom of expression stands
+      in stark contrast to the production methods in the USA. In the USA, you give 15
+      minutes of interview to CNN and maybe they put on air 2 minutes of what their
+      producers want to hear. When in 2015 I said on air on a Euronews panel discussion
+      that Russian media were freer with respect to Ukraine coverage than US media,
+      my fellow panelist, Elmar Brok, chairman of the European Parliament committee
+      on foreign affairs, said rudely, offensively:  how much did the Kremlin pay you
+      to say that? What I said in 2015-2016 I repeat today with regard to RT.  My answers
+      to their prepared questions in this afternoon’s interview about the US-Russia
+      summit in Alaska next week must have left some of the producers gasping.  BUT
+      not a word of what I said has been cut in the video they just posted on the internet.
+      I hope that the Community will find value in this and share my appreciation for
+      freedom of expression in Russia today. https://drive.google.com/file/d/1dD6Em_63MjRgRh_pAlcPeKJ5vWLDU65n/view?usp=sharing
+    one_sentence_summary: The article discusses the author's experience with Russian
+      media, highlighting the lack of censorship in live broadcasts compared to the
+      selective editing practices of US media, and reiterates their belief that Russian
+      media offers greater freedom of expression, particularly in relation to coverage
+      of Ukraine.
+    paragraph_summary: In a recent interview on RT International, the author reflects
+      on their experiences with media freedom in Russia compared to the United States,
+      highlighting that Russian television does not censor live broadcasts or edit content
+      for online distribution, unlike American networks that often selectively air interviews.
+      The author recalls a past incident in 2015 where they asserted that Russian media
+      offered more freedom in covering Ukraine than U.S. media, which prompted a dismissive
+      response from a fellow panelist. They express satisfaction that their unedited
+      responses during the recent interview on U.S.-Russia relations were fully preserved
+      in the online posting, emphasizing their appreciation for the freedom of expression
+      in Russia.
+    published: '2025-08-09T15:46:33+00:00'
+  - title: Transcript of Diesen interview, 8 August
+    url: https://gilbertdoctorow.com/2025/08/09/transcript-of-diesen-interview-8-august/
+    text: 'Transcript submitted by a reader Prof. Glenn Diesen: 0:00 Hi everyone and
+      welcome back. We are joined today by Gilbert Doktorow, a historian, international
+      affairs analyst and also author of books such as “The War Diaries: The Russia-Ukraine
+      War”. So I tend to be more pessimistic than you in terms of the future of this
+      war, the ability to reach some peaceful settlement. But I was struck a bit by
+      some optimism now with this recent meeting, that is Witkoff going to Moscow. And
+      again, anyone familiar with the NATO-Russia relations over the past 30 years is
+      probably aware that deception has been a key component. But what we saw is the
+      deadline expired. That is what began as a 50-day, then became a 10-day deadline.
+      Instead of sending weapons and sanctions, at least for now, Witkoff went to Moscow
+      and his peers were getting a meeting between Putin and Trump. What are you reading
+      into this quick development? Do you see something which has happened behind the
+      scenes, or is this just noise? Gilbert Doctorow, PhD: 1:15 Well, a lot of things
+      clearly have happened behind the scenes, and for that reason it’s difficult to
+      judge the degree of agreement that Witoff reached with his Russian counterparts,
+      Putin and this Shakov and who else was there, Mikhail Dmitriev. Look, in my recent
+      interviews, I look at comments, one of them was, “Oh, Doctorow has become really
+      an apologist for Trump.” I consider this progress, because before, six months
+      ago, they would have said Doctorow was an apologist for Putin. So we’re getting
+      there. I tried not to be an apologist for anybody. And if Trump is doing something
+      stupid, I will not hesitate to say that. If what he’s doing is unlikely to succeed
+      to my knowledge, I will also say that. There is one troubling note here in the
+      brief information that has been sent out as to what was discussed and how our
+      preparations are being made for the Trump-Putin meeting in the near future, meaning
+      possibly in the coming week. That is the– what I find disturbing is the notion
+      that Zelensky would have been invited. Because that goes contrary to what I understood
+      was the hopeful sign coming out of the Witkoff- Putin talks. 2:51 The hopeful
+      sign being that the discussions would go far beyond the particulars of the Ukraine
+      crisis, the territories that each side would retain or have to give up, the question
+      of Ukraine in NATO and the rest of it. And they would talk about bigger issues,
+      constructive discussion they had. I think Ushakov said it was, there was the probability,
+      likelihood, of discussing strategic cooperation. Well, yes, that would definitely
+      interest the Russians and would bring Mr. Putin together with Mr. Trump, but Mr.
+      Zelensky doesn’t fit into that at all. And so if indeed Zelensky were to be invited,
+      that puts in question the first point. Are they discussing only Ukraine and only
+      the terms of the ceasefire, or are they discussing the issues which the Russians
+      really want to talk about? 3:50 Now what are the issues the Russians want to talk
+      about? One of your recent guests put out some ideas. And he is well informed;
+      I’d say he’s probably a centrist person within the American foreign policy establishment.
+      And he was saying, yes, they would talk about cooperation in the Arctic, and they
+      would talk about ending the sanctions and reintegrating Russia into the greater
+      world, the Western world. Because as he said, Russians in general consider themselves
+      to be Europeans, to be part of Western civilization, and they are very disappointed
+      that they are excluded from that context, from that place where they believe they
+      belong to be, by the sanctions which are caused by the war. 4:44 Here I disagree
+      completely. Five years ago, yes, that would have been an accurate statement. As
+      I have been saying for some time, and this is not just my own observation; the
+      Russians have been talking about it with great insistence. The war has brought
+      forward new elites. The war has made even among the intellectuals who are almost
+      by definition not supporters of the Putin regime, so to speak, that they had become
+      patriotic and that they were less concerned that they couldn’t spend a summer
+      vacation in Paris or elsewhere in Western Europe or even visit the States. So
+      if they could come back with a lot of stories to discuss with their friends. 5:36
+      That’s over. Russia may not feel comfortable with Chinese cars. That’s now being
+      discussed, how these cars are being accepted or rejected by Russian consumers.
+      They may not feel comfortable with spending a summer vacation on North Korea’s
+      latest tourist beaches, But they certainly will not exchange the loss in treasure
+      and in life of the last three years for the sake of going back to the status quo
+      ante and being integrated into Western economy and society. 6:15 That’s gone.
+      That is over, and it will not come back. There will be some accommodation with
+      the West, but not in the sense that existed before. No one talks about it, but
+      I’ll say it right here and now. Russia had a big inferiority complex across the
+      board. Anyone you spoke to, other than a handful of super patriots, before this
+      war, the predominant feeling in Russia was, “we can’t make anything”. This takes
+      me back to late 1990s. I remember a very smart taxi driver was taking my wife
+      and me around downtown Petersburg and he remarked, we Russians, we make very cute
+      babies, but we’re lousy at making cars. Now, that was a widespread belief. And
+      I think that the last three years and the re-industrialization of Russia and the
+      import substitution in Russia and the takeover of Western companies by Russian
+      entrepreneurs or the Russian state producing virtually the same products under
+      a different name. That’s changed it all. Russia didn’t produce any cheese before.
+      Ridiculous. They didn’t produce cheese. In 1912, Russia was supplying butter to
+      Denmark. This is not my guess. I have a yearbook on my library shelf. A 1912 yearbook
+      was published in the UK, all describing all the trade relations between Russia
+      and UK and the West, and they were exporting butter to Denmark. Well, they can’t,
+      they weren’t making any cheese. Well, they’re making all kinds of cheese now.
+      The, as I said before, what Mr. Trump wants to do with his tariffs is to imitate
+      what the Russians have done, thanks to Western sanctions, to re-industrialize.
+      So the game has changed. The idea that this could be an issue for discussion that
+      would bring Mr. Putin, Mr. Shakov, Dmitriev to the table and, “Yeah, well, let’s
+      get on with it. We’ll have an immediate ceasefire, and you’ll put us back into
+      the European and American markets.” That’s gone. So what could they talk about?
+      What is the big issue that would have persuaded Mr. Putin and his close advisors
+      that they should meet with Trump now? What could Mr. Witkoff have brought with
+      him? Well, I think he had to have addressed the core issues. What he could have
+      done to make the whole thing palatable to all sides, meaning also the Ukrainians
+      if they are strong-armed and the Europeans, is to speak about phasing in what
+      is essentially the Russian solution and presenting it in such a way that it would
+      not look like what it is, which is virtual surrender. Virtual surrender is not
+      acceptable to NATO, is not acceptable to the United States. 9:20 Mr. Trump will
+      be pilloried if he does nothing to sweeten the settlement and to make it seem
+      as though he’s in control. All the news we see on every possible subject these
+      weeks has one newsmaker, and his name is Donald Trump. It gives you the sense
+      that he’s in control of things even if he absolutely is not. And he is certainly
+      not in control of how this war will end. But he has to have the appearance of
+      that. And so he has decided that he should meet with Mr. Putin. And Mr. Putin
+      has responded. Although if you read yesterday’s and today’s “Financial Times”,
+      oh, no, sorry, if you listened to the BBC this morning, you would understand that
+      Putin was eagerly pursuing Trump for a meeting, because that will restore his
+      prestige as an international player. That’s how they turn everything on its head.
+      Well, coming back to this answer to your question, I’ve been a bit long-winded,
+      but the answer to your question: the Americans probably brought a phasing in,
+      stage one, stage two, stage three, which makes it possible to sit and negotiate.
+      The end result will be very much in accordance with the Russians’ demands, which
+      are not maximalist. They haven’t changed one iota from where they were in June
+      2024, when Mr. Putin reiterated what he first said in February 2022, what Russia’s
+      ambition is, although he put it more clearly and in easier-to- understand terms.
+      But essentially it came to the same thing, what this denazification, well that’s
+      regime change, the demilitarization, well the Ukrainian army goes, but mostly
+      it’s evaporating in front of our eyes. So these things are being achieved and
+      now they want to codify it, but they cannot do it in one session. That will be
+      too awful for the West. 11:28 So I think the issue to discuss is how to phase
+      this in, in a way that leaves Mr. Trump at least with an off-ramp that’s respectable
+      and the Europeans can go to hell. They’ll have to accommodate to whatever the
+      Americans and the Russians agree, because they will have no weapons to supply
+      to the Ukraine and Ukraine will sink. So that is what I see coming, a discussion
+      of the timetable for arriving at the Russians’ Dzerak, their requirements for
+      peace treaty. Diesen: 12:04 I was told by a credible American source that not
+      only was Washington becoming much more eager to find a settlement because of the
+      disaster happening on the front. That is, it looks like a total collapse could
+      happen within the next few months. But I was also told that Zelensky, that he
+      had apparently changed a bit as well. While in the past viewed himself as being
+      this new Churchill who will bring back the glory of Ukraine and defeat Russia,
+      all of this has now begun to fade away. And if the Americans put something in
+      front of him and pressured him, he would likely sign. So it’s again, it’s none
+      of the certainty. 12:53 And indeed the Russians are asking for a lot. But now
+      this, yeah, Kremlin advisor Yuri Ushakov, he was in the news arguing that the
+      Americans had put forward a proposal, which they, which he said was seemingly
+      acceptable to Moscow. This is, I never heard this language before. And given how
+      far the parts, the two different sides have been apart, it seems as if something
+      significant must have shifted. Because my first impression was perhaps this Witkoff
+      going to Moscow, talking about a Trump-Putin meeting is just a way to get Trump,
+      well, save face after he made this silly, you know, 10 day deadline, which I don’t
+      understand. But there seems to actually be some substance in place here. But did
+      you read the comments by Oshokov the same way? And if so, what do you think such
+      a deal must include? Because again, the Russians aren’t going to, after 30 years
+      of struggling over the European security architecture, more than three years of
+      losing men on the front lines. Now, finally, at the cusp of victory, it’s going
+      to just throw it away. 14:14 I assume that there’s a reason why they’re able to
+      put these harsh demands. So what do you think might be in this deal that Osakoff
+      is referring to? Doctorow: I’m not quite sure, but there are sticking points here.
+      Again, to address that question with being an apologist for Trump, I have no illusions
+      about the humanitarian motives that are absent from his peace seeking. Nor do
+      I accept the notion that the man is so vain that he’s doing everything for the
+      sake of getting the Nobel Peace Prize. I don’t think even Mr. Trump is that vain,
+      to put aside national interest of the United States and the lives of all the other
+      parties to this conflict, for the sake of getting that piece of paper, that little
+      award which Obama received for doing nothing whatsoever, just for not being Bush.
+      I think there’s much more to it, but it’s in conflict in my mind. What exactly?
+      The overall overarching concept could be “separate the Russians from the Chinese
+      so we can proceed with taking on China”. 15:31 However, that falls flat. There
+      is no way conceivable that Russia is going to betray China. No way. When I said
+      the other day that one, that Mr. Witoff could have been talking to Dmitriyev about
+      getting access to Russian-produced rare metals, rare-earth metals, as the point
+      for negotiation or preparing for negotiation with the Chinese in the coming week
+      or two, where the Chinese are withholding those urgently needed materials to frustrate
+      any plans of punishing tariffs or any limitations on export of technology to China
+      by Mr. Trump. It is inconceivable that Mr. Putin will give free access to Russian
+      rare-earth metals to spite China. That is off the table. 16:37 So what exactly
+      Mr. Trump hopes to achieve considering that Russia and China are inseparable,
+      I’m not quite sure. So we really have to look a little bit further. And I’m not
+      sure that Mr. Trump is, his advisors are blind to that reality. I also have mentioned
+      the timing coming back to why 10 days or what 50 days because September 3rd is
+      inconvenient. It’s too close to the convening of this end of the Pacific war for
+      World War Two the 80th anniversary celebrations will be in Beijing, to which Mr.
+      Trump presumably is desperate to be invited. That is possible. It suggests that
+      the Yalta type meeting that we all thought might possibly happen, when Moscow
+      celebrated the 80th anniversary of the end of the European war, and didn’t happen.
+      Maybe would happen now in the Pacific, in Beijing. It’s possible. 17:46 As I’ve
+      said recently, I don’t have a microphone under Mr. Putin’s pillow. We really don’t
+      have a microphone under Mr. Trump’s pillow. And there are contradictory objectives
+      when you look at what he says and even what he does, to complicate our reading
+      of these tea leaves, our attempting to make sense out of it all. It could be that
+      they still have some illusions or delusions with respect to separating Russia
+      from China. I find it hard to believe, but Americans can be peculiar. What else
+      could be going through their minds? What else [could they] be using to reach a
+      quick accommodation with Mr. Putin without looking like they’ve lost the war?
+      And I think Putin will be very amenable to helping them off the off-ramp. He’s
+      certainly smart enough. He did that with Obama with respect to the bombing Syria
+      over the alleged use of chemical weapons. So he knows how to let his opponents
+      off the hook, getting what he wants without embarrassing them to the point where
+      he’s got enemies. But for me right now, it’s a bit hard to say just how this trick
+      will be done. Diesen: 19:16 Yeah, I would have been more reassured if I heard
+      some talks about actually the European security architecture, because so far there’s
+      been too much reference to an unconditional ceasefire and Trump still in his language.
+      I mean, there’s a contradiction. His language still refers to this as as if it
+      would be a war between Ukraine and Russia, which is problematic for the peace
+      efforts if it takes NATO and America’s role out of this. On the other hand, he
+      calls the war Biden’s war, which Biden began by pushing NATO. So it’s not very
+      consistent. If it’s Biden’s war, how is it only limited between Ukraine and Russia?
+      But again, with Trump, you never know what is the noise and what does he actually
+      know. I was wondering though, how you read his, if you think Trump is misinformed
+      either deliberately or just out of ignorance by his advisors, because from Trump
+      we hear these comments such as, I think he said, there’s 20,000 Russians dying
+      a month, which is, it doesn’t make any sense in any way. It’s quite outlandish.
+      And also when he was asked about what’s happening in Ukraine, people elderly people
+      being dragged to the front. And he said, Oh, I don’t know anything about that.
+      And now of course, putting this deadline to begin with, the 10-day deadline …
+      if he knows that Russia considers this to be an existential threat, they’re willing
+      to fight this all the way, why would he think that they would capitulate now,
+      in other words, accept freezing the front lines and allowing NATO to revive the
+      conflict in the future if they would need to put pressure on Russia. I mean, it
+      doesn’t make any sense that this was always ridiculous, that the Russians would
+      accept this. Is this misinformed or is it just, you know, talking to his own base
+      or what is he? I have a very hard time understanding some of the strange information
+      and decisions which are coming out. 21:35 Well, they’ll confuse the other side,
+      but don’t confuse yourself. I would take as an operating assumption that he is
+      not confused and that all of these confusing and oftentimes very bizarre statements
+      that come out of him are intended, are a demonstration of his contempt for the
+      press and for his opponents who are the most vocal elements of society at large.
+      The silent majority doesn’t say much. His opponents say a lot and are hurt a lot
+      and what they say is picked up by media. 22:11 There are contradictions here,
+      and I think It’s much too early for us to present with clarity what is going to
+      happen when they meet and what is the intended outcome, why the Russians would
+      have agreed to this meeting when it goes against all of their rules. Russian television
+      is informing us that yes, contrary to the general rule of preparing in great detail
+      and over considerable time for summit meetings, the Russians are prepared this
+      time to make an exception and to hold this very quickly, and they’re working like
+      mad. The Americans are working like mad to observe this shortened schedule. Supposedly
+      it’s about agreeing a ceasefire, but I don’t believe that. 23:07 There’s no way
+      that the Russians can accept a ceasefire when the Europeans are not present at
+      this. The Americans, by definition, are not going to be supplying further weapons
+      to Ukraine. The Europeans are. And the Russians do not accept under any condition
+      that a ceasefire will take place while weapons are being dispatched into Ukraine.
+      So that is a non-starter. There’s something else going on in Ukraine. We don’t
+      know it. But I think it’s best not to assume that people are ill-informed, that
+      some maliciousness is at work. The advisors to Putin, to Trump, or I should say
+      even to Putin one of one very well-known former economist and at a high level
+      in American politics is insisting that Mr. Putin is being deceived and misled
+      by his advisors. 24:04 I think it would be safe just to hold back and let’s see
+      what happens at this meeting. But there are definite contradictions in the structure
+      of the meeting, which is what is called out now. How can you agree on a ceasefire
+      when Europeans aren’t present? The only person who was called out, the need for
+      Europeans has been Urban, who came out yesterday with a statement that Merz and
+      the French Macron should go to Moscow now, or after the meeting that Trump has
+      with Putin, and present the European position to Moscow, because the EU institutions
+      are totally incapable of doing that. 24:47 Well, I agree with him on that point.
+      But whether or not much will be achieved by Macron and Merz going to Moscow …
+      well, better to talk than not to talk. That can’t see a solution on the ceasefire
+      without the Europeans being brought in. But obviously not at the first meeting,
+      just as it’s senseless to have Zelensky there when the only thing that could have
+      motivated the Russians to agree to a meeting has nothing to do directly with the
+      Ukraine conflict. It has to do, as you said, with revising the security architecture
+      of Europe, for which Mr. Zelensky has no place at the table. 25:26 So there are
+      confusing signals that you and I have detected, and I suppose others as well,
+      which make it difficult to predict what the outcome of this meeting would be.
+      Diesen: I got that impression both from some Americans and Russians that they
+      need to first get the big pieces in place, that is the European security order,
+      which effectively means the relationship between the Americans and the Russians.
+      And then once this is an order, then the Ukrainian issue can be resolved. So you
+      want to deal with it in the right order and also been told that yeah that they
+      have the same both the Moscow and Washington have the same views of the Europeans,
+      that yes, they have to be brought in, but first after the decisions have been
+      made. So, and then, you know, if you can get the Washington, Moscow, and then
+      get the Kiev to sign under then the Europeans will just be a formality, I guess.
+      But let’s say this, I wonder what the post-war settlement might look like when
+      the war is done. Because in terms of the wider European order, if you thought
+      about this, let’s say next week they hash out the deal, I’m not so that optimistic,
+      but the war can come to an end within a few weeks. The Russians make the point
+      that they have to deal with the Americans because they have to. America remains
+      a very important part of the international system. And also, if you want the world
+      to function and have stability, Russia and America always have to work together.
+      But as you suggested before, there is a longing to return to Europe. It seems
+      to be gone. 27:15 Indeed, when you talk to migrants from Russia in Europe, many
+      say that they were initially surprised. They knew that Russia was always a bit
+      mocked for being an economic mess, but they were surprised about how much hatred
+      there is towards Russians. But now, of course, this inferiority complex, it’s
+      more or less gone. I guess this is what happens when you defeat NATO on the battlefield,
+      but it’s also the sense of admiration for Europe, which is gone. I mean, throughout
+      the Cold War, yes, there was some animosity towards Western governments, as you
+      would [think], but overall there was some admiration for the way society was organized.
+      The economies we had, the social systems, the technologies, there seemed to be
+      some moral or values. But now, of course, a lot of this is seen as decaying and
+      indeed the culture wars we’re having where everything has to be deconstructed.
+      This has become a source of mockery in the Russian media. What do you think, or
+      your sense, what kind of relationship do you think the Russians want with Europe
+      once this war is actually over? Doctorow: 28:28 Well, I think they would be very
+      happy to go back to their position as very close economic partners of Europe without
+      taking it to the embarrassing extreme that Macron described several years ago,
+      that Russia was a big, great supplier of raw materials. I think that notion is
+      not satisfactory or sufficient for restoring economic ties with Europe. But let
+      me just make an attempt. What could they possibly have said to President Putin,
+      what Witkoff could have brought with him, that would be considered constructive
+      and could justify this meeting? And let’s take, put it in the historical context.
+      What did the Americans and the Russians, who disliked one another, who didn’t
+      necessarily respect one another, always put forward as the first topic for discussion?
+      Arms control. 29:26 Arms control. That is the most value-neutral thing that they
+      could discuss next week, which would set the tone for solving all the other issues,
+      which would receive the undeserved acclaim in Europe and the United States. If
+      they were to discuss restoring the intermediate and short-range missile agreement
+      in a new form and preventing or removing the advance-positioned Russian missiles
+      and the plans for stationing American missiles in Germany next year, that would
+      be hailed by everybody. And from that good atmosphere, they could proceed to the
+      really tough and miserable discussions about concluding the Ukraine war. So there
+      might be something, I say this completely off the table, but nobody’s talking
+      about it because it’s all been kept very highly secret from all of us, whereas
+      it should be till now. 30:37 So I wouldn’t eliminate the possibility some concrete
+      positive and promising could come out of a meeting between Putin and Trump in
+      a week’s time, one which has no need whatsoever for Mr. Zelensky or for the Europeans
+      to be present. And that could set the tones I’d say for dealing with the really
+      tough questions of resolving the Ukraine war and also revising European architecture.
+      If you take off this five-minute long delivery strike times of missiles within
+      the European theatre, life gets a lot easier. You can breathe much easier, and
+      the tension over European security would be toned down considerably. So that could
+      be it, but it’s a guess, nothing more than a guess. Diesen: 31:31 Well, you know,
+      this is a problem when the diplomacy, of course, is behind closed doors. Just
+      my last question though is, if this peace agreement goes through, if they actually
+      deal with the European security architecture, what happens to NATO? Again, I think
+      that one of the reasons why the Europeans are or seem to prefer keeping the war
+      going is as long as you have a conflict, then NATO will still have a purpose and
+      it will keep the Americans on the continent. You and I discussed before that the
+      fear of the Europeans is once the Americans get to leave Ukraine, they will also
+      likely leave Europe to a large extent, both resource priorities and everything
+      going to Asia. So do you think peace in Ukraine could destroy NATO? Doctorow:
+      32:27 Again, if it’s taken by itself, yes. If it’s put in a broader context, such
+      as I just was mentioning, just on the arms control or also with regard to new
+      technologies and putting a lid on drone warfare, putting a lid on AI warfare,
+      robotics, putting a lid on these new technologies, which are awesome, frightening,
+      and drive the anxiety on all sides, then these other issues, the traditional issues
+      of territory and language rights and the rest of it, become much easier to deal
+      with. And NATO’s fading away is almost an afterthought rather than the first urgent
+      concern, which it is today for Europeans. So I don’t know how smart these people
+      are. I don’t know how wide, broad their perspective is, whether they’ve taken
+      it in, in a sense that I just presented it or not. 33:41 But I would give them
+      the benefit of the doubt. I don’t think, unlike Craig Roberts, I don’t think Mr.
+      Putin is being managed by his advisors, who are all lovers of foie gras and the
+      Mediterranean coast. I think that there are some serious people on the Russian
+      side. I hope they’re equally serious people. I don’t consider Witkoff to be anything
+      but a very serious man. And I don’t think he would have wasted his time on this
+      mission if he saw it as hopeless. I’m being an optimist. I don’t deny the right
+      of pessimists to also claim the same territory. Diesen: 34:34 Well, this week
+      at least, we’re much closer to your optimism as, yeah, there seems to be some
+      movement, which you suggested in the past as well, that there are things happening
+      in the background. But yeah, well, as you said before, you used to be referred
+      to as a Putin apologist. Now you’re a Trump apologist. I do think this is one
+      of the wider problems we’re having though. It’s always during wars. So you see
+      that if you’re not sufficiently, for example, anti-Russian, then you can be accused
+      of being pro-Russian. So everything is so polarized. It’s either black or white
+      and all gray is just eliminated. So this is one of the things I’m most fearful
+      of now in the West as well, the inability to consider the security concerns of
+      opponents. I always make this comment that the media, the politicians, I never
+      hear anyone talk about the Russian security concerns, the Iranian, the Chinese.
+      It’s always, it’s always colored in the language of just being belligerent and
+      evil, essentially. I think this is a, makes it much more difficult to understand
+      our opponents. But unfortunately, if you try to understand Trump, that label fits
+      as well, then you’re a Trump apologist. Doctorow: Well, as we gather today, the
+      tea hasn’t even been poured. One week from today, we can read tea leaves. Diesen:
+      Well, as always, thank you so much for your insights, and have a great weekend.
+      Doctorow: 36:10 You too, thanks.'
+    one_sentence_summary: In a discussion between Prof. Glenn Diesen and historian Gilbert
+      Doktorow, they explore the recent diplomatic meeting in Moscow involving Witkoff,
+      which has sparked some optimism about the potential for a peaceful resolution
+      to the Russia-Ukraine war, despite the historical context of deception in NATO-Russia
+      relations.
+    paragraph_summary: In a discussion between Prof. Glenn Diesen and historian Gilbert
+      Doktorow, the focus is on recent developments in the Russia-Ukraine war, particularly
+      a meeting involving Witkoff in Moscow, which has sparked some optimism regarding
+      potential peace negotiations. Doktorow notes that while there has been a history
+      of deception in NATO-Russia relations, the recent diplomatic engagement suggests
+      that significant behind-the-scenes discussions have occurred. He expresses a cautious
+      view on the outcomes of these talks, acknowledging a shift in perception about
+      his stance on political figures like Trump and Putin. However, he raises concerns
+      about the implications of the upcoming Trump-Putin meeting, indicating that not
+      all aspects of the discussions are reassuring.
+    published: '2025-08-09T05:36:22+00:00'
+  - title: Transcript of Diesen interview, 8 August
+    url: https://gilbertdoctorow.com/2025/08/09/transcript-of-diesen-interview-8-august/
+    text: 'Transcript submitted by a reader Prof. Glenn Diesen: 0:00 Hi everyone and
+      welcome back. We are joined today by Gilbert Doktorow, a historian, international
+      affairs analyst and also author of books such as “The War Diaries: The Russia-Ukraine
+      War”. So I tend to be more pessimistic than you in terms of the future of this
+      war, the ability to reach some peaceful settlement. But I was struck a bit by
+      some optimism now with this recent meeting, that is Witkoff going to Moscow. And
+      again, anyone familiar with the NATO-Russia relations over the past 30 years is
+      probably aware that deception has been a key component. But what we saw is the
+      deadline expired. That is what began as a 50-day, then became a 10-day deadline.
+      Instead of sending weapons and sanctions, at least for now, Witkoff went to Moscow
+      and his peers were getting a meeting between Putin and Trump. What are you reading
+      into this quick development? Do you see something which has happened behind the
+      scenes, or is this just noise? Gilbert Doctorow, PhD: 1:15 Well, a lot of things
+      clearly have happened behind the scenes, and for that reason it’s difficult to
+      judge the degree of agreement that Witoff reached with his Russian counterparts,
+      Putin and this Shakov and who else was there, Mikhail Dmitriev. Look, in my recent
+      interviews, I look at comments, one of them was, “Oh, Doctorow has become really
+      an apologist for Trump.” I consider this progress, because before, six months
+      ago, they would have said Doctorow was an apologist for Putin. So we’re getting
+      there. I tried not to be an apologist for anybody. And if Trump is doing something
+      stupid, I will not hesitate to say that. If what he’s doing is unlikely to succeed
+      to my knowledge, I will also say that. There is one troubling note here in the
+      brief information that has been sent out as to what was discussed and how our
+      preparations are being made for the Trump-Putin meeting in the near future, meaning
+      possibly in the coming week. That is the– what I find disturbing is the notion
+      that Zelensky would have been invited. Because that goes contrary to what I understood
+      was the hopeful sign coming out of the Witkoff- Putin talks. 2:51 The hopeful
+      sign being that the discussions would go far beyond the particulars of the Ukraine
+      crisis, the territories that each side would retain or have to give up, the question
+      of Ukraine in NATO and the rest of it. And they would talk about bigger issues,
+      constructive discussion they had. I think Ushakov said it was, there was the probability,
+      likelihood, of discussing strategic cooperation. Well, yes, that would definitely
+      interest the Russians and would bring Mr. Putin together with Mr. Trump, but Mr.
+      Zelensky doesn’t fit into that at all. And so if indeed Zelensky were to be invited,
+      that puts in question the first point. Are they discussing only Ukraine and only
+      the terms of the ceasefire, or are they discussing the issues which the Russians
+      really want to talk about? 3:50 Now what are the issues the Russians want to talk
+      about? One of your recent guests put out some ideas. And he is well informed;
+      I’d say he’s probably a centrist person within the American foreign policy establishment.
+      And he was saying, yes, they would talk about cooperation in the Arctic, and they
+      would talk about ending the sanctions and reintegrating Russia into the greater
+      world, the Western world. Because as he said, Russians in general consider themselves
+      to be Europeans, to be part of Western civilization, and they are very disappointed
+      that they are excluded from that context, from that place where they believe they
+      belong to be, by the sanctions which are caused by the war. 4:44 Here I disagree
+      completely. Five years ago, yes, that would have been an accurate statement. As
+      I have been saying for some time, and this is not just my own observation; the
+      Russians have been talking about it with great insistence. The war has brought
+      forward new elites. The war has made even among the intellectuals who are almost
+      by definition not supporters of the Putin regime, so to speak, that they had become
+      patriotic and that they were less concerned that they couldn’t spend a summer
+      vacation in Paris or elsewhere in Western Europe or even visit the States. So
+      if they could come back with a lot of stories to discuss with their friends. 5:36
+      That’s over. Russia may not feel comfortable with Chinese cars. That’s now being
+      discussed, how these cars are being accepted or rejected by Russian consumers.
+      They may not feel comfortable with spending a summer vacation on North Korea’s
+      latest tourist beaches, But they certainly will not exchange the loss in treasure
+      and in life of the last three years for the sake of going back to the status quo
+      ante and being integrated into Western economy and society. 6:15 That’s gone.
+      That is over, and it will not come back. There will be some accommodation with
+      the West, but not in the sense that existed before. No one talks about it, but
+      I’ll say it right here and now. Russia had a big inferiority complex across the
+      board. Anyone you spoke to, other than a handful of super patriots, before this
+      war, the predominant feeling in Russia was, “we can’t make anything”. This takes
+      me back to late 1990s. I remember a very smart taxi driver was taking my wife
+      and me around downtown Petersburg and he remarked, we Russians, we make very cute
+      babies, but we’re lousy at making cars. Now, that was a widespread belief. And
+      I think that the last three years and the re-industrialization of Russia and the
+      import substitution in Russia and the takeover of Western companies by Russian
+      entrepreneurs or the Russian state producing virtually the same products under
+      a different name. That’s changed it all. Russia didn’t produce any cheese before.
+      Ridiculous. They didn’t produce cheese. In 1912, Russia was supplying butter to
+      Denmark. This is not my guess. I have a yearbook on my library shelf. A 1912 yearbook
+      was published in the UK, all describing all the trade relations between Russia
+      and UK and the West, and they were exporting butter to Denmark. Well, they can’t,
+      they weren’t making any cheese. Well, they’re making all kinds of cheese now.
+      The, as I said before, what Mr. Trump wants to do with his tariffs is to imitate
+      what the Russians have done, thanks to Western sanctions, to re-industrialize.
+      So the game has changed. The idea that this could be an issue for discussion that
+      would bring Mr. Putin, Mr. Shakov, Dmitriev to the table and, “Yeah, well, let’s
+      get on with it. We’ll have an immediate ceasefire, and you’ll put us back into
+      the European and American markets.” That’s gone. So what could they talk about?
+      What is the big issue that would have persuaded Mr. Putin and his close advisors
+      that they should meet with Trump now? What could Mr. Witkoff have brought with
+      him? Well, I think he had to have addressed the core issues. What he could have
+      done to make the whole thing palatable to all sides, meaning also the Ukrainians
+      if they are strong-armed and the Europeans, is to speak about phasing in what
+      is essentially the Russian solution and presenting it in such a way that it would
+      not look like what it is, which is virtual surrender. Virtual surrender is not
+      acceptable to NATO, is not acceptable to the United States. 9:20 Mr. Trump will
+      be pilloried if he does nothing to sweeten the settlement and to make it seem
+      as though he’s in control. All the news we see on every possible subject these
+      weeks has one newsmaker, and his name is Donald Trump. It gives you the sense
+      that he’s in control of things even if he absolutely is not. And he is certainly
+      not in control of how this war will end. But he has to have the appearance of
+      that. And so he has decided that he should meet with Mr. Putin. And Mr. Putin
+      has responded. Although if you read yesterday’s and today’s “Financial Times”,
+      oh, no, sorry, if you listened to the BBC this morning, you would understand that
+      Putin was eagerly pursuing Trump for a meeting, because that will restore his
+      prestige as an international player. That’s how they turn everything on its head.
+      Well, coming back to this answer to your question, I’ve been a bit long-winded,
+      but the answer to your question: the Americans probably brought a phasing in,
+      stage one, stage two, stage three, which makes it possible to sit and negotiate.
+      The end result will be very much in accordance with the Russians’ demands, which
+      are not maximalist. They haven’t changed one iota from where they were in June
+      2024, when Mr. Putin reiterated what he first said in February 2022, what Russia’s
+      ambition is, although he put it more clearly and in easier-to- understand terms.
+      But essentially it came to the same thing, what this denazification, well that’s
+      regime change, the demilitarization, well the Ukrainian army goes, but mostly
+      it’s evaporating in front of our eyes. So these things are being achieved and
+      now they want to codify it, but they cannot do it in one session. That will be
+      too awful for the West. 11:28 So I think the issue to discuss is how to phase
+      this in, in a way that leaves Mr. Trump at least with an off-ramp that’s respectable
+      and the Europeans can go to hell. They’ll have to accommodate to whatever the
+      Americans and the Russians agree, because they will have no weapons to supply
+      to the Ukraine and Ukraine will sink. So that is what I see coming, a discussion
+      of the timetable for arriving at the Russians’ Dzerak, their requirements for
+      peace treaty. Diesen: 12:04 I was told by a credible American source that not
+      only was Washington becoming much more eager to find a settlement because of the
+      disaster happening on the front. That is, it looks like a total collapse could
+      happen within the next few months. But I was also told that Zelensky, that he
+      had apparently changed a bit as well. While in the past viewed himself as being
+      this new Churchill who will bring back the glory of Ukraine and defeat Russia,
+      all of this has now begun to fade away. And if the Americans put something in
+      front of him and pressured him, he would likely sign. So it’s again, it’s none
+      of the certainty. 12:53 And indeed the Russians are asking for a lot. But now
+      this, yeah, Kremlin advisor Yuri Ushakov, he was in the news arguing that the
+      Americans had put forward a proposal, which they, which he said was seemingly
+      acceptable to Moscow. This is, I never heard this language before. And given how
+      far the parts, the two different sides have been apart, it seems as if something
+      significant must have shifted. Because my first impression was perhaps this Witkoff
+      going to Moscow, talking about a Trump-Putin meeting is just a way to get Trump,
+      well, save face after he made this silly, you know, 10 day deadline, which I don’t
+      understand. But there seems to actually be some substance in place here. But did
+      you read the comments by Oshokov the same way? And if so, what do you think such
+      a deal must include? Because again, the Russians aren’t going to, after 30 years
+      of struggling over the European security architecture, more than three years of
+      losing men on the front lines. Now, finally, at the cusp of victory, it’s going
+      to just throw it away. 14:14 I assume that there’s a reason why they’re able to
+      put these harsh demands. So what do you think might be in this deal that Osakoff
+      is referring to? Doctorow: I’m not quite sure, but there are sticking points here.
+      Again, to address that question with being an apologist for Trump, I have no illusions
+      about the humanitarian motives that are absent from his peace seeking. Nor do
+      I accept the notion that the man is so vain that he’s doing everything for the
+      sake of getting the Nobel Peace Prize. I don’t think even Mr. Trump is that vain,
+      to put aside national interest of the United States and the lives of all the other
+      parties to this conflict, for the sake of getting that piece of paper, that little
+      award which Obama received for doing nothing whatsoever, just for not being Bush.
+      I think there’s much more to it, but it’s in conflict in my mind. What exactly?
+      The overall overarching concept could be “separate the Russians from the Chinese
+      so we can proceed with taking on China”. 15:31 However, that falls flat. There
+      is no way conceivable that Russia is going to betray China. No way. When I said
+      the other day that one, that Mr. Witoff could have been talking to Dmitriyev about
+      getting access to Russian-produced rare metals, rare-earth metals, as the point
+      for negotiation or preparing for negotiation with the Chinese in the coming week
+      or two, where the Chinese are withholding those urgently needed materials to frustrate
+      any plans of punishing tariffs or any limitations on export of technology to China
+      by Mr. Trump. It is inconceivable that Mr. Putin will give free access to Russian
+      rare-earth metals to spite China. That is off the table. 16:37 So what exactly
+      Mr. Trump hopes to achieve considering that Russia and China are inseparable,
+      I’m not quite sure. So we really have to look a little bit further. And I’m not
+      sure that Mr. Trump is, his advisors are blind to that reality. I also have mentioned
+      the timing coming back to why 10 days or what 50 days because September 3rd is
+      inconvenient. It’s too close to the convening of this end of the Pacific war for
+      World War Two the 80th anniversary celebrations will be in Beijing, to which Mr.
+      Trump presumably is desperate to be invited. That is possible. It suggests that
+      the Yalta type meeting that we all thought might possibly happen, when Moscow
+      celebrated the 80th anniversary of the end of the European war, and didn’t happen.
+      Maybe would happen now in the Pacific, in Beijing. It’s possible. 17:46 As I’ve
+      said recently, I don’t have a microphone under Mr. Putin’s pillow. We really don’t
+      have a microphone under Mr. Trump’s pillow. And there are contradictory objectives
+      when you look at what he says and even what he does, to complicate our reading
+      of these tea leaves, our attempting to make sense out of it all. It could be that
+      they still have some illusions or delusions with respect to separating Russia
+      from China. I find it hard to believe, but Americans can be peculiar. What else
+      could be going through their minds? What else [could they] be using to reach a
+      quick accommodation with Mr. Putin without looking like they’ve lost the war?
+      And I think Putin will be very amenable to helping them off the off-ramp. He’s
+      certainly smart enough. He did that with Obama with respect to the bombing Syria
+      over the alleged use of chemical weapons. So he knows how to let his opponents
+      off the hook, getting what he wants without embarrassing them to the point where
+      he’s got enemies. But for me right now, it’s a bit hard to say just how this trick
+      will be done. Diesen: 19:16 Yeah, I would have been more reassured if I heard
+      some talks about actually the European security architecture, because so far there’s
+      been too much reference to an unconditional ceasefire and Trump still in his language.
+      I mean, there’s a contradiction. His language still refers to this as as if it
+      would be a war between Ukraine and Russia, which is problematic for the peace
+      efforts if it takes NATO and America’s role out of this. On the other hand, he
+      calls the war Biden’s war, which Biden began by pushing NATO. So it’s not very
+      consistent. If it’s Biden’s war, how is it only limited between Ukraine and Russia?
+      But again, with Trump, you never know what is the noise and what does he actually
+      know. I was wondering though, how you read his, if you think Trump is misinformed
+      either deliberately or just out of ignorance by his advisors, because from Trump
+      we hear these comments such as, I think he said, there’s 20,000 Russians dying
+      a month, which is, it doesn’t make any sense in any way. It’s quite outlandish.
+      And also when he was asked about what’s happening in Ukraine, people elderly people
+      being dragged to the front. And he said, Oh, I don’t know anything about that.
+      And now of course, putting this deadline to begin with, the 10-day deadline …
+      if he knows that Russia considers this to be an existential threat, they’re willing
+      to fight this all the way, why would he think that they would capitulate now,
+      in other words, accept freezing the front lines and allowing NATO to revive the
+      conflict in the future if they would need to put pressure on Russia. I mean, it
+      doesn’t make any sense that this was always ridiculous, that the Russians would
+      accept this. Is this misinformed or is it just, you know, talking to his own base
+      or what is he? I have a very hard time understanding some of the strange information
+      and decisions which are coming out. 21:35 Well, they’ll confuse the other side,
+      but don’t confuse yourself. I would take as an operating assumption that he is
+      not confused and that all of these confusing and oftentimes very bizarre statements
+      that come out of him are intended, are a demonstration of his contempt for the
+      press and for his opponents who are the most vocal elements of society at large.
+      The silent majority doesn’t say much. His opponents say a lot and are hurt a lot
+      and what they say is picked up by media. 22:11 There are contradictions here,
+      and I think It’s much too early for us to present with clarity what is going to
+      happen when they meet and what is the intended outcome, why the Russians would
+      have agreed to this meeting when it goes against all of their rules. Russian television
+      is informing us that yes, contrary to the general rule of preparing in great detail
+      and over considerable time for summit meetings, the Russians are prepared this
+      time to make an exception and to hold this very quickly, and they’re working like
+      mad. The Americans are working like mad to observe this shortened schedule. Supposedly
+      it’s about agreeing a ceasefire, but I don’t believe that. 23:07 There’s no way
+      that the Russians can accept a ceasefire when the Europeans are not present at
+      this. The Americans, by definition, are not going to be supplying further weapons
+      to Ukraine. The Europeans are. And the Russians do not accept under any condition
+      that a ceasefire will take place while weapons are being dispatched into Ukraine.
+      So that is a non-starter. There’s something else going on in Ukraine. We don’t
+      know it. But I think it’s best not to assume that people are ill-informed, that
+      some maliciousness is at work. The advisors to Putin, to Trump, or I should say
+      even to Putin one of one very well-known former economist and at a high level
+      in American politics is insisting that Mr. Putin is being deceived and misled
+      by his advisors. 24:04 I think it would be safe just to hold back and let’s see
+      what happens at this meeting. But there are definite contradictions in the structure
+      of the meeting, which is what is called out now. How can you agree on a ceasefire
+      when Europeans aren’t present? The only person who was called out, the need for
+      Europeans has been Urban, who came out yesterday with a statement that Merz and
+      the French Macron should go to Moscow now, or after the meeting that Trump has
+      with Putin, and present the European position to Moscow, because the EU institutions
+      are totally incapable of doing that. 24:47 Well, I agree with him on that point.
+      But whether or not much will be achieved by Macron and Merz going to Moscow …
+      well, better to talk than not to talk. That can’t see a solution on the ceasefire
+      without the Europeans being brought in. But obviously not at the first meeting,
+      just as it’s senseless to have Zelensky there when the only thing that could have
+      motivated the Russians to agree to a meeting has nothing to do directly with the
+      Ukraine conflict. It has to do, as you said, with revising the security architecture
+      of Europe, for which Mr. Zelensky has no place at the table. 25:26 So there are
+      confusing signals that you and I have detected, and I suppose others as well,
+      which make it difficult to predict what the outcome of this meeting would be.
+      Diesen: I got that impression both from some Americans and Russians that they
+      need to first get the big pieces in place, that is the European security order,
+      which effectively means the relationship between the Americans and the Russians.
+      And then once this is an order, then the Ukrainian issue can be resolved. So you
+      want to deal with it in the right order and also been told that yeah that they
+      have the same both the Moscow and Washington have the same views of the Europeans,
+      that yes, they have to be brought in, but first after the decisions have been
+      made. So, and then, you know, if you can get the Washington, Moscow, and then
+      get the Kiev to sign under then the Europeans will just be a formality, I guess.
+      But let’s say this, I wonder what the post-war settlement might look like when
+      the war is done. Because in terms of the wider European order, if you thought
+      about this, let’s say next week they hash out the deal, I’m not so that optimistic,
+      but the war can come to an end within a few weeks. The Russians make the point
+      that they have to deal with the Americans because they have to. America remains
+      a very important part of the international system. And also, if you want the world
+      to function and have stability, Russia and America always have to work together.
+      But as you suggested before, there is a longing to return to Europe. It seems
+      to be gone. 27:15 Indeed, when you talk to migrants from Russia in Europe, many
+      say that they were initially surprised. They knew that Russia was always a bit
+      mocked for being an economic mess, but they were surprised about how much hatred
+      there is towards Russians. But now, of course, this inferiority complex, it’s
+      more or less gone. I guess this is what happens when you defeat NATO on the battlefield,
+      but it’s also the sense of admiration for Europe, which is gone. I mean, throughout
+      the Cold War, yes, there was some animosity towards Western governments, as you
+      would [think], but overall there was some admiration for the way society was organized.
+      The economies we had, the social systems, the technologies, there seemed to be
+      some moral or values. But now, of course, a lot of this is seen as decaying and
+      indeed the culture wars we’re having where everything has to be deconstructed.
+      This has become a source of mockery in the Russian media. What do you think, or
+      your sense, what kind of relationship do you think the Russians want with Europe
+      once this war is actually over? Doctorow: 28:28 Well, I think they would be very
+      happy to go back to their position as very close economic partners of Europe without
+      taking it to the embarrassing extreme that Macron described several years ago,
+      that Russia was a big, great supplier of raw materials. I think that notion is
+      not satisfactory or sufficient for restoring economic ties with Europe. But let
+      me just make an attempt. What could they possibly have said to President Putin,
+      what Witkoff could have brought with him, that would be considered constructive
+      and could justify this meeting? And let’s take, put it in the historical context.
+      What did the Americans and the Russians, who disliked one another, who didn’t
+      necessarily respect one another, always put forward as the first topic for discussion?
+      Arms control. 29:26 Arms control. That is the most value-neutral thing that they
+      could discuss next week, which would set the tone for solving all the other issues,
+      which would receive the undeserved acclaim in Europe and the United States. If
+      they were to discuss restoring the intermediate and short-range missile agreement
+      in a new form and preventing or removing the advance-positioned Russian missiles
+      and the plans for stationing American missiles in Germany next year, that would
+      be hailed by everybody. And from that good atmosphere, they could proceed to the
+      really tough and miserable discussions about concluding the Ukraine war. So there
+      might be something, I say this completely off the table, but nobody’s talking
+      about it because it’s all been kept very highly secret from all of us, whereas
+      it should be till now. 30:37 So I wouldn’t eliminate the possibility some concrete
+      positive and promising could come out of a meeting between Putin and Trump in
+      a week’s time, one which has no need whatsoever for Mr. Zelensky or for the Europeans
+      to be present. And that could set the tones I’d say for dealing with the really
+      tough questions of resolving the Ukraine war and also revising European architecture.
+      If you take off this five-minute long delivery strike times of missiles within
+      the European theatre, life gets a lot easier. You can breathe much easier, and
+      the tension over European security would be toned down considerably. So that could
+      be it, but it’s a guess, nothing more than a guess. Diesen: 31:31 Well, you know,
+      this is a problem when the diplomacy, of course, is behind closed doors. Just
+      my last question though is, if this peace agreement goes through, if they actually
+      deal with the European security architecture, what happens to NATO? Again, I think
+      that one of the reasons why the Europeans are or seem to prefer keeping the war
+      going is as long as you have a conflict, then NATO will still have a purpose and
+      it will keep the Americans on the continent. You and I discussed before that the
+      fear of the Europeans is once the Americans get to leave Ukraine, they will also
+      likely leave Europe to a large extent, both resource priorities and everything
+      going to Asia. So do you think peace in Ukraine could destroy NATO? Doctorow:
+      32:27 Again, if it’s taken by itself, yes. If it’s put in a broader context, such
+      as I just was mentioning, just on the arms control or also with regard to new
+      technologies and putting a lid on drone warfare, putting a lid on AI warfare,
+      robotics, putting a lid on these new technologies, which are awesome, frightening,
+      and drive the anxiety on all sides, then these other issues, the traditional issues
+      of territory and language rights and the rest of it, become much easier to deal
+      with. And NATO’s fading away is almost an afterthought rather than the first urgent
+      concern, which it is today for Europeans. So I don’t know how smart these people
+      are. I don’t know how wide, broad their perspective is, whether they’ve taken
+      it in, in a sense that I just presented it or not. 33:41 But I would give them
+      the benefit of the doubt. I don’t think, unlike Craig Roberts, I don’t think Mr.
+      Putin is being managed by his advisors, who are all lovers of foie gras and the
+      Mediterranean coast. I think that there are some serious people on the Russian
+      side. I hope they’re equally serious people. I don’t consider Witkoff to be anything
+      but a very serious man. And I don’t think he would have wasted his time on this
+      mission if he saw it as hopeless. I’m being an optimist. I don’t deny the right
+      of pessimists to also claim the same territory. Diesen: 34:34 Well, this week
+      at least, we’re much closer to your optimism as, yeah, there seems to be some
+      movement, which you suggested in the past as well, that there are things happening
+      in the background. But yeah, well, as you said before, you used to be referred
+      to as a Putin apologist. Now you’re a Trump apologist. I do think this is one
+      of the wider problems we’re having though. It’s always during wars. So you see
+      that if you’re not sufficiently, for example, anti-Russian, then you can be accused
+      of being pro-Russian. So everything is so polarized. It’s either black or white
+      and all gray is just eliminated. So this is one of the things I’m most fearful
+      of now in the West as well, the inability to consider the security concerns of
+      opponents. I always make this comment that the media, the politicians, I never
+      hear anyone talk about the Russian security concerns, the Iranian, the Chinese.
+      It’s always, it’s always colored in the language of just being belligerent and
+      evil, essentially. I think this is a, makes it much more difficult to understand
+      our opponents. But unfortunately, if you try to understand Trump, that label fits
+      as well, then you’re a Trump apologist. Doctorow: Well, as we gather today, the
+      tea hasn’t even been poured. One week from today, we can read tea leaves. Diesen:
+      Well, as always, thank you so much for your insights, and have a great weekend.
+      Doctorow: 36:10 You too, thanks.'
+    one_sentence_summary: In a discussion between Prof. Glenn Diesen and historian Gilbert
+      Doktorow, they explore the recent diplomatic meeting in Moscow involving Witkoff,
+      which has sparked some optimism about the potential for a peaceful resolution
+      to the Russia-Ukraine war, despite the historical context of deception in NATO-Russia
+      relations.
+    paragraph_summary: In a discussion between Prof. Glenn Diesen and historian Gilbert
+      Doktorow, the focus is on recent developments in the Russia-Ukraine war, particularly
+      a meeting involving Witkoff in Moscow, which has sparked some optimism regarding
+      potential peace negotiations. Doktorow notes that while there has been a history
+      of deception in NATO-Russia relations, the recent diplomatic engagement suggests
+      that significant behind-the-scenes discussions have occurred. He expresses a cautious
+      view on the outcomes of these talks, acknowledging a shift in perception about
+      his stance on political figures like Trump and Putin. However, he raises concerns
+      about the implications of the upcoming Trump-Putin meeting, indicating that not
+      all aspects of the discussions are reassuring.
+    published: '2025-08-09T05:36:22+00:00'
+  - title: 'Interview with Glenn Diesen: Russia Calls U.S. Peace Plan Acceptable, Trump-Putin
+      Meeting Is Confirmed'
+    url: https://gilbertdoctorow.com/2025/08/08/interview-with-glenn-diesen-russia-calls-u-s-peace-plan-acceptable-trump-putin-meeting-is-confirmed/
+    text: Perhaps it is a misnomer to call today’s video with Professor Glenn Diesen
+      an interview, because that suggests an imbalance in the discussion that is very
+      clearly not present in what you will find here. In fact, both sides have questions,
+      both sides point to contradictions in the information being fed to the public.
+      What is presented in this video is ‘brainstorming’ because neither questioner
+      nor interviewee came to the show with a solid understanding of what is going on
+      between the Trump and Putin teams that led them to agree to a face-to-face meeting
+      within the coming week.  And we were both thinking on our feet, so to say. Some
+      viewers may find this refreshing; others may well be disappointed that neither
+      of us has certainty about what comes next. The fact that a summit will take place
+      indicates that a lot of work has been going on behind closed doors. That is the
+      way diplomacy should function, even if it leaves us commentators in an awkward
+      spot. Happily, public diplomacy which was briefly so popular at the start of this
+      millennium has been brushed into the wastebin of history. I take it as an operating
+      assumption that Trump and Putin are not fools, that they are acting rationally,
+      and that, somehow, they are approaching agreement on the acceptable outcome of
+      the Ukraine war, as well as on much bigger issues like reinstating arms control
+      agreements, revising the security architecture of Europe and generally reducing
+      security concerns on all sides.  In a week we will likely know better to what
+      extent these operating assumptions are valid.
+    one_sentence_summary: The video featuring Professor Glenn Diesen presents a balanced
+      and spontaneous discussion between the questioner and interviewee about the complexities
+      and uncertainties surrounding the upcoming Trump-Putin summit, highlighting the
+      behind-the-scenes diplomatic efforts while acknowledging the lack of clear answers.
+    paragraph_summary: The video featuring Professor Glenn Diesen is characterized more
+      as a brainstorming session than a traditional interview, as both the questioner
+      and the interviewee engage in a balanced dialogue, questioning the information
+      presented to the public regarding the upcoming meeting between Trump and Putin.
+      Neither party claims to have a definitive understanding of the dynamics at play,
+      which some viewers may find refreshing while others may find disappointing. The
+      imminent summit suggests significant behind-the-scenes negotiations have occurred,
+      reflecting the nature of diplomacy, even if it leaves commentators uncertain.
+      The discussion assumes that both leaders are rational actors who are potentially
+      working towards agreements on critical issues such as the Ukraine war, arms control,
+      and European security, with more clarity expected in the week following the meeting.
+    published: '2025-08-08T20:37:05+00:00'
+  - title: 'Interview with Glenn Diesen: Russia Calls U.S. Peace Plan Acceptable, Trump-Putin
+      Meeting Is Confirmed'
+    url: https://gilbertdoctorow.com/2025/08/08/interview-with-glenn-diesen-russia-calls-u-s-peace-plan-acceptable-trump-putin-meeting-is-confirmed/
+    text: Perhaps it is a misnomer to call today’s video with Professor Glenn Diesen
+      an interview, because that suggests an imbalance in the discussion that is very
+      clearly not present in what you will find here. In fact, both sides have questions,
+      both sides point to contradictions in the information being fed to the public.
+      What is presented in this video is ‘brainstorming’ because neither questioner
+      nor interviewee came to the show with a solid understanding of what is going on
+      between the Trump and Putin teams that led them to agree to a face-to-face meeting
+      within the coming week.  And we were both thinking on our feet, so to say. Some
+      viewers may find this refreshing; others may well be disappointed that neither
+      of us has certainty about what comes next. The fact that a summit will take place
+      indicates that a lot of work has been going on behind closed doors. That is the
+      way diplomacy should function, even if it leaves us commentators in an awkward
+      spot. Happily, public diplomacy which was briefly so popular at the start of this
+      millennium has been brushed into the wastebin of history. I take it as an operating
+      assumption that Trump and Putin are not fools, that they are acting rationally,
+      and that, somehow, they are approaching agreement on the acceptable outcome of
+      the Ukraine war, as well as on much bigger issues like reinstating arms control
+      agreements, revising the security architecture of Europe and generally reducing
+      security concerns on all sides.  In a week we will likely know better to what
+      extent these operating assumptions are valid.
+    one_sentence_summary: The video featuring Professor Glenn Diesen presents a balanced
+      and spontaneous discussion between the questioner and interviewee about the complexities
+      and uncertainties surrounding the upcoming Trump-Putin summit, highlighting the
+      behind-the-scenes diplomatic efforts while acknowledging the lack of clear answers.
+    paragraph_summary: The video featuring Professor Glenn Diesen is characterized more
+      as a brainstorming session than a traditional interview, as both the questioner
+      and the interviewee engage in a balanced dialogue, questioning the information
+      presented to the public regarding the upcoming meeting between Trump and Putin.
+      Neither party claims to have a definitive understanding of the dynamics at play,
+      which some viewers may find refreshing while others may find disappointing. The
+      imminent summit suggests significant behind-the-scenes negotiations have occurred,
+      reflecting the nature of diplomacy, even if it leaves commentators uncertain.
+      The discussion assumes that both leaders are rational actors who are potentially
+      working towards agreements on critical issues such as the Ukraine war, arms control,
+      and European security, with more clarity expected in the week following the meeting.
+    published: '2025-08-08T20:37:05+00:00'
+  - title: What may we expect from the Trump-Putin meeting next week?
+    url: https://gilbertdoctorow.com/2025/08/08/what-may-we-expect-from-the-trump-putin-meeting-next-week/
+    text: What may we expect from the Trump-Putin meeting next week?  Various opinions
+      set out by Sputnik Globe in the past hour Now that both American and Russian spokespersons
+      have confirmed that a face-to-face meeting between the presidents is likely before
+      the end of next week, with Dubai in the United Arab Emirates designated tentatively
+      as the venue, news agencies on all sides are busy collecting expert opinions on
+      what we may come out of the summit. Earlier today, I had a 45-minute discussion
+      of this very question with Professor Glenn Diesen of the University of Southeast
+      Norway.  When the video becomes freely available I will re-post it here. Do not
+      expect more than guesswork.  It is simply not possible to read tea leaves before
+      the tea has been served. However, I have tried to be imaginative in describing
+      what would have justified Vladimir Putin to accede so quickly to the proposal
+      of a meeting with Trump initiated by the American side and what might be achieved
+      when they do get together. Readers/viewers may well be surprised by my predictions.
+      In the meantime, I offer below the link to an article just published by Sputnik
+      International offering the views of several experts, myself included. https://sputnikglobe.com/20250808/russia-holds-all-cards-in-trump-talks-1122579635.html
+    one_sentence_summary: As preparations for a potential Trump-Putin meeting in Dubai
+      next week unfold, experts speculate on the possible outcomes and motivations behind
+      the summit, though definitive predictions remain elusive.
+    paragraph_summary: As a face-to-face meeting between Presidents Trump and Putin
+      is anticipated to take place in Dubai next week, various experts are weighing
+      in on potential outcomes of the summit. While the discussion remains speculative,
+      Professor Glenn Diesen from the University of Southeast Norway shared insights
+      during a recent conversation about the significance of Putin's swift agreement
+      to the meeting, initiated by the U.S. side. The article emphasizes the uncertainty
+      surrounding the meeting's results, highlighting that predictions are largely guesswork
+      until the actual discussions occur. Additionally, a link to a recently published
+      article by Sputnik International featuring expert opinions, including Diesen's,
+      is provided for further insights.
+    published: '2025-08-08T19:29:37+00:00'
+  - title: What may we expect from the Trump-Putin meeting next week?
+    url: https://gilbertdoctorow.com/2025/08/08/what-may-we-expect-from-the-trump-putin-meeting-next-week/
+    text: What may we expect from the Trump-Putin meeting next week?  Various opinions
+      set out by Sputnik Globe in the past hour Now that both American and Russian spokespersons
+      have confirmed that a face-to-face meeting between the presidents is likely before
+      the end of next week, with Dubai in the United Arab Emirates designated tentatively
+      as the venue, news agencies on all sides are busy collecting expert opinions on
+      what we may come out of the summit. Earlier today, I had a 45-minute discussion
+      of this very question with Professor Glenn Diesen of the University of Southeast
+      Norway.  When the video becomes freely available I will re-post it here. Do not
+      expect more than guesswork.  It is simply not possible to read tea leaves before
+      the tea has been served. However, I have tried to be imaginative in describing
+      what would have justified Vladimir Putin to accede so quickly to the proposal
+      of a meeting with Trump initiated by the American side and what might be achieved
+      when they do get together. Readers/viewers may well be surprised by my predictions.
+      In the meantime, I offer below the link to an article just published by Sputnik
+      International offering the views of several experts, myself included. https://sputnikglobe.com/20250808/russia-holds-all-cards-in-trump-talks-1122579635.html
+    one_sentence_summary: As preparations for a potential Trump-Putin meeting in Dubai
+      next week unfold, experts speculate on the possible outcomes and motivations behind
+      the summit, though definitive predictions remain elusive.
+    paragraph_summary: As a face-to-face meeting between Presidents Trump and Putin
+      is anticipated to take place in Dubai next week, various experts are weighing
+      in on potential outcomes of the summit. While the discussion remains speculative,
+      Professor Glenn Diesen from the University of Southeast Norway shared insights
+      during a recent conversation about the significance of Putin's swift agreement
+      to the meeting, initiated by the U.S. side. The article emphasizes the uncertainty
+      surrounding the meeting's results, highlighting that predictions are largely guesswork
+      until the actual discussions occur. Additionally, a link to a recently published
+      article by Sputnik International featuring expert opinions, including Diesen's,
+      is provided for further insights.
+    published: '2025-08-08T19:29:37+00:00'
+  - title: Transcript of ‘Judging Freedom’ edition of 6 August
+    url: https://gilbertdoctorow.com/2025/08/07/transcript-of-judging-freedom-edition-of-6-august/
+    text: 'Napolitano: 0:32 Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
+      Today is Wednesday, August 6th, 2025. Professor Gilbert Doctor will be here with
+      us in just a moment on, Is Moscow Optimistic? But first this. [commercial message]
+      1:58 Professor Doctorow, good day to you, my friend. Welcome here. Thank you for
+      accommodating my schedule. It’s always a pleasure to chat with you on these Wednesdays.
+      In the past couple of weeks, the United States has delivered nuclear- armed weaponry
+      to Great Britain and other allies. And last Friday, President Trump famously issued
+      a statement on his own social media in response to some taunting that went back
+      and forth between him and former Russian President Medvedev to the effect that
+      President Trump had ordered American nuclear-powered and -capable submarines to
+      an appropriate place, meaning somewhere closer to Russia. Are you able to get
+      your thumb on the pulse of the Kremlin? Are you able to assess how the Kremlin
+      feels from and after these events? Gilbert Doctorow, PhD: 3:02 Well, I’m going
+      to do that indirectly, of course. I don’t have a microphone under President Putin’s
+      pillow. So what we have to do is use the entourage, those who speak for official
+      Russia. And one of these programs, which I follow closely, is “60 Minutes”. That
+      has two co-hosts. One is Mr. Popov, who is a Duma member today, and his wife,
+      Olga Skabieva. And I believe it was Monday they had a program which encouraged
+      me to believe that the Kremlin is very confident, that they are not alarmed, they
+      are not looking to escalate the conflict with the United States and with NATO
+      over these various peculiar things that the United States has done in the last
+      week or so. By peculiar, of course, you mentioned the outstanding case of the
+      dispatch of these two nuclear-carrying, nuclear-arms-carrying submarines closer
+      to Russia. 4:04 And the other thing which has been in the news as well, General
+      Donahue’s statements about capturing Kaliningrad in lightning speed, Donahue being
+      the senior US military officer in Europe. These could be alarming, but they’re
+      not alarming to Moscow. And why is that so? First, because they understand very
+      well the context in which Mr. Trump works. They understand that he has in his
+      own party a certain Lindsey Graham, who is a rabid nationalist and rabidly anti-Russian
+      and who makes all kinds of weird proposals that Mr. Trump cannot ignore. And so
+      to keep Graham happy and quiet, he pretends to do things which are, shall we say,
+      bizarre, shall we say chest thumping, like these two that I mentioned. From the
+      standpoint of the Russians, the idea of the dispatch of these nuclear submarines
+      was meaningless. As they say, as they said on this program, panelists who know
+      military affairs, the range of the missiles on board those American submarines
+      is 15,000 kilometers. In other words, even if they stayed at their home ports
+      on the west coast and the east coast of the United States, they could hit any
+      target they would want in Russia anyway. So the idea of moving them so-called
+      “closer to Russia” doesn’t change the threat of these weapons from what they were
+      before they were moved one inch. The other point, it’s something like Donahue,
+      it’s well known what the Russian response will be to any attempt to capture Kaliningrad,
+      however many kilometers wide it is and how many assets the United States and NATO
+      have all around Kaliningrad, So they take it. Let’s say they take it. The next
+      day, the United States will cease to exist. That is clear. The Russians said any
+      threat to their territory will bring a nuclear response. So they don’t take seriously
+      what Donahue is saying. Napolitano: I want to follow up on that in just a minute,
+      but first a little breaking news. “Russia Today” reports President Putin’s meeting
+      with US President’s, I’m quoting, special envoy Steve Witkoff just wrapped up.
+      It lasted nearly three hours. Can you extrapolate at all from the duration, well,
+      the fact of the meeting and the duration of the meeting, what was likely discussed?
+      Doctorow: 6:46 The length of the meeting confirms what the panelists were saying
+      on the “60 Minutes” program, that they had a lot to discuss, and Ukraine directly
+      is a lesser part of it, shall we say. One thing that was noted by the panelists,
+      which is underlined by Mr. Witkoff’s arrangements on his visit to Moscow: he came
+      in yesterday, and he was taken around by Kirill Demitriev, who is the head of
+      the Russian Direct Investment Corporation. So he is a man with great business
+      experience in the United States, and he is a partner for Mr. Witkoff to talk business.
+      And what could they talk about? Well, this panel were speculating they would talk
+      about rare earth. The United States is in its final negotiations with China, over
+      tariffs. And the biggest threat that China has, which mitigates all of the alarming
+      plans of Mr. Trump to impose tariffs and other restrictions on China, is that
+      their near-monopoly on global supplies of rare earth metals, which are essential
+      for military production and most modern electronics. Now the Russians have it
+      also. And so it’s not, it’s quite possible that Dmitriyev and Witkoff were discussing
+      precisely these rare-earth metals, which the United States would like to know
+      the position of Russia, before they go into final talks with China. That’s one
+      of them. Napolitano: We are watching, forgive my interruption, we’re watching,
+      live, Mr. Witkoff’s entourage leaving the Kremlin. All right, back to where we
+      were before we learned about this meeting and thank you for your thoughts on it.
+      What would the reaction in the Kremlin be, or what has been the reaction in the
+      Kremlin, to the delivery, the rather quiet delivery of nuclear weapons to Great
+      Britain and other allies? I don’t know where they were delivered. The Guardian
+      keeps reporting six of them. Can you enlighten us on this? Doctorow: Well, this
+      is posturing, just like moving those submarines was posturing. It doesn’t change
+      anything. The United States has complete control over the use of those weapons.
+      So whether they are nominally sitting on British soil or German soil or whatever,
+      it’s the United States that will give instructions to use them or not to use them.
+      In that sense, the responsibility remains with the United States in its direct
+      relationship with Russia. And the European allies, whoever are hosting these weapons,
+      are just bit players, the same way that Lukashenko in Belarus is a bit player
+      when we speak about the nuclear armed Oreshniks being dispatched to Belarus. That’s
+      fine. But without the say-so from Putin, Lukashenko could do nothing with those
+      weapons. So these are theatrics. They are show. They are posturing. They don’t
+      change the reality. 10:06 The reality is that Ukraine is badly losing the war,
+      and that this drama that Trump and company are creating on the world stage is
+      to cover up that fact and to pretend that they are in control of events, when
+      they absolutely are not in control of events. The Russians are. Napolitano: 10:25
+      How, I mean, the reports out of Ukraine are indicative of the end of empire, conscripting
+      males over the age of 60, sending young men from bars and dance halls directly
+      to the front line with literally no training whatsoever, barely time to put a
+      uniform on and a weapon in their hands. How confident is the Kremlin that this
+      will be over soon when the Ukrainian military collapses? Or will these drones,
+      these Ukrainian drones, keep the special military operation going on and on and
+      on? Doctorow: Well, the drones, of course, are a factor. They can be produced
+      and they can be supplied from Britain and other countries to keep the war going
+      on and on and on. But the reality is that there is politics in Ukraine. It’s not
+      a dead country. And at a certain point, there was political opposition to the
+      war and to the suffering will take hold. I have mentioned in our last discussion
+      the speculation that the United States is looking to evict Mr. Zelensky from office
+      and to replace him possibly with Umerov, who is the head of the negotiating team.
+      11:48 Other people have spoken about his replacement, as illusioning. But today
+      I was reading in Russian news that there are Ukrainian parliament members, they
+      call their parliament, they call it the Rada, who are considered to be real potential
+      replacements for Zelensky. And one of them is a certain 35-year-old parliamentarian
+      who was formerly in his party, the Servants of the People, before she was evicted
+      for opposing various policy elements. This is an Anaskar Hord, who’s made as her
+      main point to the public to gain support precisely to stop the strong-arm recruitment
+      from the streets and from the bars and what else, that the Ukrainian government
+      is now practicing, who says to the press that there are 400,000 deserters from
+      the Russian army, from the Ukrainian army, that is, and that she supports desertion
+      because these poor soldiers have had no rotation, have had no chance to return
+      to their families, and are being maintained in the state of suspense [before their
+      death]. Napolitano: Oh my God, Is that dangerous, publicly to support desertion?
+      Is that a potential crime under Ukrainian law? I mean, I can understand the deserters,
+      but for a government official to say, “I support the desertion”? Doctorow: 13:14
+      Leave the law out of it. They also mention in the same article that she happens
+      to have US support and that she has support from an unnamed businessman who is
+      a close friend of Trump. Napolitano: Gee, I wonder who that is. Did we just watch
+      him leaving the Kremlin in a Mercedes? I want to play for you– it’s a little long,
+      it’s a minute and a half, but it will give you much to comment on– a series of
+      questions to President Trump yesterday in which he repeats three times “Ukraine
+      is Biden’s war”. Nobody believes that here in the West any more, but I’d like
+      your thoughts on it. He also addresses the conscripts. He said he never heard
+      of the 60-year-old men, but It’s Trump rambling on and on and on, but there’s
+      a basis in here for you and I to talk about it. Chris, cut number four. Questioner:
+      14:08 President Zelensky just signed a law allowing for citizens age 60 and above
+      to serve in the military. We’ve seen dozens of videos of young men being hauled
+      into vans and dragged to the front lines against their will. And we’ve even seen
+      videos of a young man with Down’s syndrome serving on the front line. You, when
+      you campaigned, you said you wanted to see the people stop dying. A lot of people
+      admired that statement. Now the people dying are elderly, mentally handicapped,
+      and conscripts. So even if a ceasefire doesn’t work out, why should Americans
+      continue to fund a foreign military that’s scraping the bottom of the barrel of
+      its population like this? Trump: 14:44 Well, you have to understand very importantly,
+      this is Biden’s war. This is not my war. I’m here to get us out of it. It’s a
+      mess. And I’m here to get us out. I haven’t heard that when you say about 60 year
+      old men and, you know, et cetera. But this is Biden’s war. And we’re working very
+      hard to get us out. I stopped five wars in the last five months, actually. And
+      I’d like this to be the sixth, frankly. And that doesn’t even include Iran obliterating
+      their nuclear haul, because they would have had nuclear weapons within two months.
+      But stopped a lot of wars. You just take a look at the ones just over the last
+      two or three months. It’s been amazing. This is the one I’m trying to stop. This
+      is the one we’re working hardest on. The other ones I stopped with in a matter
+      of days, almost every one of them, including India and Pakistan. And I could go
+      over the whole list, but you know the list as well as I do. But this is the one
+      we’d like to see. I have not heard that, but this is Biden’s war. And it’s a war
+      that he got us into or indirectly got us into. It should have never happened.
+      It would have never happened had I been president. Yeah, next. Napolitano: 15:49
+      Who can take that seriously? What does the Kremlin think when they hear this rambling
+      and disingenuous efforts to blame everything on Joe Biden? Doctorow: They agree
+      with it. They are saying that this is Biden’s war. And let me turn things around
+      and look beyond the obvious. Mr. Trump is trying to end the war, but not in the
+      way that most people think. The more extravagant his intentions to impose sanctions
+      on Russia, the faster the Russians are accelerating their destruction of Ukraine.
+      Do you see my point? Napolitano: I do see your point. Doctorow: It is moving faster
+      and faster. When they say that they are going to penalize in a way as yet not
+      usd, penalize the shadow fleet carrying Russian oil around the world, well you
+      can bet that that has taken the length of this war down by several months, because
+      the Russians are not going to sit around on their hands waiting to lose their
+      exports because of these crazy new restrictions that we put on their fleet. The
+      fleet will in any case go out. It will be defended by Russian warships who will
+      frighten away everybody from doing anything to those ships. But it will be a nerve-racking
+      period. 17:14 And I think for this reason, the moves to reach the Dnieper are
+      going faster and faster. The territory captured each week is greater in square
+      kilometers than it was at any former point in this war. And the likelihood of
+      capture of all of the Donetsk, meaning the eastern part of Ukraine from east of
+      the Dnieper River, is entirely doable within the next month or two, not the next
+      year or two. For that we can thank Mr. Trump. He is really helping to end this
+      war. Napolitano: Very, very interesting observation, which I will surely run past
+      Scott Ritter and the others with whom I’ll be speaking later today. Before we
+      go, I want to switch to Gaza. I don’t usually ask you about Gaza, but do you,
+      does the Kremlin see the line between the slaughter and the starvation and the
+      genocide in Gaza and another attack on Iran? Does the Kremlin care about what’s
+      happening in Gaza? Because surely they care about whether or not Trump bombs Iran
+      again. And apparently Israeli Prime Minister Netanyahu has begun to beat those
+      drums with Trump’s inner circle. Doctorow: 18:38 Well, Putin has been speaking
+      to Netanyahu two weeks consecutively by phone. I think the Russians are very interested
+      in ending this Gaza nightmare as soon as possible, without military intervention
+      on their part. Of course they could do it, but it would complicate the situation
+      in the Middle East vastly, and so they’re holding back. The connection between
+      the Gaza genocide and a possible attack on Iran: well, I don’t believe there will
+      be any attack on Iran, simply because Iran is capable of annihilating Israel in
+      a day or two if they want to use those several thousand ballistic missiles that
+      are safely stored underground and which the Israelis were unable to damage. 19:29
+      Therefore, there’s a lot of talk about attacking Iran. The Israelis by themselves,
+      unless they use nuclear weapons, will achieve nothing. And if they do use a nuclear
+      weapon, they probably will have a nuclear weapon coming back at them, because
+      there is a lot of talk that Iran actually has the bomb. Napolitano: Well, Ted
+      Postel, Professor Postel, who’s arguably the foremost physicist in the United
+      States, emeritus at Massachusetts Institute of Technology, has articulated to
+      friends of yours and mine that not only did the United States not set back the
+      Iran nuclear program, but they effectively have a nuclear weapon as we speak and
+      had it before the Americans attacked. Does the Kremlin recognize that? Does the
+      Kremlin agree with Professor Postel? Doctorow: 20:27 I imagine they do, and it
+      is another example of the perverse effects of what looks like America’s saber
+      rattling and chest beating. The achievements are precisely opposite of what they’re
+      supposed to be. Napolitano: Right. Professor Doctorow, thank you very much. A
+      fascinating, fascinating conversation. I can’t wait to run past Scott Ritter this
+      afternoon because sometimes you guys agree and sometimes you disagree on your
+      theory about secondary tariffs accelerating the special military operation. It’s
+      a brilliant observation on your part, and I’m grateful for your having articulated
+      it here on our show. Thank you, Professor. We look forward to seeing you next
+      week. Doctorow: Goodbye. Napolitano: Of course. All the best. And the aforementioned
+      Scott Ritter will be here today at 1 o’clock, followed by Max Blumenthal at 2,
+      followed by Phil Giraldi at 3. A great afternoon lineup for you. 21:28 Thank you
+      for watching. Judge Napolitano for “Judging Freedom”.'
+    one_sentence_summary: Judge Andrew Napolitano discusses recent U.S. nuclear arms
+      deliveries to allies and President Trump's provocative statements regarding military
+      positioning near Russia, while engaging with Professor Gilbert Doctorow on the
+      Kremlin's perspective.
+    paragraph_summary: In a recent episode of "Judging Freedom," Judge Andrew Napolitano
+      discusses the current geopolitical climate with Professor Gilbert Doctorow, particularly
+      focusing on the Kremlin's response to recent U.S. military actions, including
+      the deployment of nuclear-armed submarines to closer proximity to Russia. Doctorow,
+      analyzing Russian media and official statements, conveys that the Kremlin appears
+      confident and unalarmed by these developments, suggesting they do not intend to
+      escalate tensions with the U.S. or NATO despite the provocative nature of the
+      U.S. actions. The conversation highlights the complexities of international relations
+      and the varying perceptions of threat and confidence between the two nations.
+    published: '2025-08-07T06:14:02+00:00'
+  - title: Transcript of ‘Judging Freedom’ edition of 6 August
+    url: https://gilbertdoctorow.com/2025/08/07/transcript-of-judging-freedom-edition-of-6-august/
+    text: 'Napolitano: 0:32 Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
+      Today is Wednesday, August 6th, 2025. Professor Gilbert Doctor will be here with
+      us in just a moment on, Is Moscow Optimistic? But first this. [commercial message]
+      1:58 Professor Doctorow, good day to you, my friend. Welcome here. Thank you for
+      accommodating my schedule. It’s always a pleasure to chat with you on these Wednesdays.
+      In the past couple of weeks, the United States has delivered nuclear- armed weaponry
+      to Great Britain and other allies. And last Friday, President Trump famously issued
+      a statement on his own social media in response to some taunting that went back
+      and forth between him and former Russian President Medvedev to the effect that
+      President Trump had ordered American nuclear-powered and -capable submarines to
+      an appropriate place, meaning somewhere closer to Russia. Are you able to get
+      your thumb on the pulse of the Kremlin? Are you able to assess how the Kremlin
+      feels from and after these events? Gilbert Doctorow, PhD: 3:02 Well, I’m going
+      to do that indirectly, of course. I don’t have a microphone under President Putin’s
+      pillow. So what we have to do is use the entourage, those who speak for official
+      Russia. And one of these programs, which I follow closely, is “60 Minutes”. That
+      has two co-hosts. One is Mr. Popov, who is a Duma member today, and his wife,
+      Olga Skabieva. And I believe it was Monday they had a program which encouraged
+      me to believe that the Kremlin is very confident, that they are not alarmed, they
+      are not looking to escalate the conflict with the United States and with NATO
+      over these various peculiar things that the United States has done in the last
+      week or so. By peculiar, of course, you mentioned the outstanding case of the
+      dispatch of these two nuclear-carrying, nuclear-arms-carrying submarines closer
+      to Russia. 4:04 And the other thing which has been in the news as well, General
+      Donahue’s statements about capturing Kaliningrad in lightning speed, Donahue being
+      the senior US military officer in Europe. These could be alarming, but they’re
+      not alarming to Moscow. And why is that so? First, because they understand very
+      well the context in which Mr. Trump works. They understand that he has in his
+      own party a certain Lindsey Graham, who is a rabid nationalist and rabidly anti-Russian
+      and who makes all kinds of weird proposals that Mr. Trump cannot ignore. And so
+      to keep Graham happy and quiet, he pretends to do things which are, shall we say,
+      bizarre, shall we say chest thumping, like these two that I mentioned. From the
+      standpoint of the Russians, the idea of the dispatch of these nuclear submarines
+      was meaningless. As they say, as they said on this program, panelists who know
+      military affairs, the range of the missiles on board those American submarines
+      is 15,000 kilometers. In other words, even if they stayed at their home ports
+      on the west coast and the east coast of the United States, they could hit any
+      target they would want in Russia anyway. So the idea of moving them so-called
+      “closer to Russia” doesn’t change the threat of these weapons from what they were
+      before they were moved one inch. The other point, it’s something like Donahue,
+      it’s well known what the Russian response will be to any attempt to capture Kaliningrad,
+      however many kilometers wide it is and how many assets the United States and NATO
+      have all around Kaliningrad, So they take it. Let’s say they take it. The next
+      day, the United States will cease to exist. That is clear. The Russians said any
+      threat to their territory will bring a nuclear response. So they don’t take seriously
+      what Donahue is saying. Napolitano: I want to follow up on that in just a minute,
+      but first a little breaking news. “Russia Today” reports President Putin’s meeting
+      with US President’s, I’m quoting, special envoy Steve Witkoff just wrapped up.
+      It lasted nearly three hours. Can you extrapolate at all from the duration, well,
+      the fact of the meeting and the duration of the meeting, what was likely discussed?
+      Doctorow: 6:46 The length of the meeting confirms what the panelists were saying
+      on the “60 Minutes” program, that they had a lot to discuss, and Ukraine directly
+      is a lesser part of it, shall we say. One thing that was noted by the panelists,
+      which is underlined by Mr. Witkoff’s arrangements on his visit to Moscow: he came
+      in yesterday, and he was taken around by Kirill Demitriev, who is the head of
+      the Russian Direct Investment Corporation. So he is a man with great business
+      experience in the United States, and he is a partner for Mr. Witkoff to talk business.
+      And what could they talk about? Well, this panel were speculating they would talk
+      about rare earth. The United States is in its final negotiations with China, over
+      tariffs. And the biggest threat that China has, which mitigates all of the alarming
+      plans of Mr. Trump to impose tariffs and other restrictions on China, is that
+      their near-monopoly on global supplies of rare earth metals, which are essential
+      for military production and most modern electronics. Now the Russians have it
+      also. And so it’s not, it’s quite possible that Dmitriyev and Witkoff were discussing
+      precisely these rare-earth metals, which the United States would like to know
+      the position of Russia, before they go into final talks with China. That’s one
+      of them. Napolitano: We are watching, forgive my interruption, we’re watching,
+      live, Mr. Witkoff’s entourage leaving the Kremlin. All right, back to where we
+      were before we learned about this meeting and thank you for your thoughts on it.
+      What would the reaction in the Kremlin be, or what has been the reaction in the
+      Kremlin, to the delivery, the rather quiet delivery of nuclear weapons to Great
+      Britain and other allies? I don’t know where they were delivered. The Guardian
+      keeps reporting six of them. Can you enlighten us on this? Doctorow: Well, this
+      is posturing, just like moving those submarines was posturing. It doesn’t change
+      anything. The United States has complete control over the use of those weapons.
+      So whether they are nominally sitting on British soil or German soil or whatever,
+      it’s the United States that will give instructions to use them or not to use them.
+      In that sense, the responsibility remains with the United States in its direct
+      relationship with Russia. And the European allies, whoever are hosting these weapons,
+      are just bit players, the same way that Lukashenko in Belarus is a bit player
+      when we speak about the nuclear armed Oreshniks being dispatched to Belarus. That’s
+      fine. But without the say-so from Putin, Lukashenko could do nothing with those
+      weapons. So these are theatrics. They are show. They are posturing. They don’t
+      change the reality. 10:06 The reality is that Ukraine is badly losing the war,
+      and that this drama that Trump and company are creating on the world stage is
+      to cover up that fact and to pretend that they are in control of events, when
+      they absolutely are not in control of events. The Russians are. Napolitano: 10:25
+      How, I mean, the reports out of Ukraine are indicative of the end of empire, conscripting
+      males over the age of 60, sending young men from bars and dance halls directly
+      to the front line with literally no training whatsoever, barely time to put a
+      uniform on and a weapon in their hands. How confident is the Kremlin that this
+      will be over soon when the Ukrainian military collapses? Or will these drones,
+      these Ukrainian drones, keep the special military operation going on and on and
+      on? Doctorow: Well, the drones, of course, are a factor. They can be produced
+      and they can be supplied from Britain and other countries to keep the war going
+      on and on and on. But the reality is that there is politics in Ukraine. It’s not
+      a dead country. And at a certain point, there was political opposition to the
+      war and to the suffering will take hold. I have mentioned in our last discussion
+      the speculation that the United States is looking to evict Mr. Zelensky from office
+      and to replace him possibly with Umerov, who is the head of the negotiating team.
+      11:48 Other people have spoken about his replacement, as illusioning. But today
+      I was reading in Russian news that there are Ukrainian parliament members, they
+      call their parliament, they call it the Rada, who are considered to be real potential
+      replacements for Zelensky. And one of them is a certain 35-year-old parliamentarian
+      who was formerly in his party, the Servants of the People, before she was evicted
+      for opposing various policy elements. This is an Anaskar Hord, who’s made as her
+      main point to the public to gain support precisely to stop the strong-arm recruitment
+      from the streets and from the bars and what else, that the Ukrainian government
+      is now practicing, who says to the press that there are 400,000 deserters from
+      the Russian army, from the Ukrainian army, that is, and that she supports desertion
+      because these poor soldiers have had no rotation, have had no chance to return
+      to their families, and are being maintained in the state of suspense [before their
+      death]. Napolitano: Oh my God, Is that dangerous, publicly to support desertion?
+      Is that a potential crime under Ukrainian law? I mean, I can understand the deserters,
+      but for a government official to say, “I support the desertion”? Doctorow: 13:14
+      Leave the law out of it. They also mention in the same article that she happens
+      to have US support and that she has support from an unnamed businessman who is
+      a close friend of Trump. Napolitano: Gee, I wonder who that is. Did we just watch
+      him leaving the Kremlin in a Mercedes? I want to play for you– it’s a little long,
+      it’s a minute and a half, but it will give you much to comment on– a series of
+      questions to President Trump yesterday in which he repeats three times “Ukraine
+      is Biden’s war”. Nobody believes that here in the West any more, but I’d like
+      your thoughts on it. He also addresses the conscripts. He said he never heard
+      of the 60-year-old men, but It’s Trump rambling on and on and on, but there’s
+      a basis in here for you and I to talk about it. Chris, cut number four. Questioner:
+      14:08 President Zelensky just signed a law allowing for citizens age 60 and above
+      to serve in the military. We’ve seen dozens of videos of young men being hauled
+      into vans and dragged to the front lines against their will. And we’ve even seen
+      videos of a young man with Down’s syndrome serving on the front line. You, when
+      you campaigned, you said you wanted to see the people stop dying. A lot of people
+      admired that statement. Now the people dying are elderly, mentally handicapped,
+      and conscripts. So even if a ceasefire doesn’t work out, why should Americans
+      continue to fund a foreign military that’s scraping the bottom of the barrel of
+      its population like this? Trump: 14:44 Well, you have to understand very importantly,
+      this is Biden’s war. This is not my war. I’m here to get us out of it. It’s a
+      mess. And I’m here to get us out. I haven’t heard that when you say about 60 year
+      old men and, you know, et cetera. But this is Biden’s war. And we’re working very
+      hard to get us out. I stopped five wars in the last five months, actually. And
+      I’d like this to be the sixth, frankly. And that doesn’t even include Iran obliterating
+      their nuclear haul, because they would have had nuclear weapons within two months.
+      But stopped a lot of wars. You just take a look at the ones just over the last
+      two or three months. It’s been amazing. This is the one I’m trying to stop. This
+      is the one we’re working hardest on. The other ones I stopped with in a matter
+      of days, almost every one of them, including India and Pakistan. And I could go
+      over the whole list, but you know the list as well as I do. But this is the one
+      we’d like to see. I have not heard that, but this is Biden’s war. And it’s a war
+      that he got us into or indirectly got us into. It should have never happened.
+      It would have never happened had I been president. Yeah, next. Napolitano: 15:49
+      Who can take that seriously? What does the Kremlin think when they hear this rambling
+      and disingenuous efforts to blame everything on Joe Biden? Doctorow: They agree
+      with it. They are saying that this is Biden’s war. And let me turn things around
+      and look beyond the obvious. Mr. Trump is trying to end the war, but not in the
+      way that most people think. The more extravagant his intentions to impose sanctions
+      on Russia, the faster the Russians are accelerating their destruction of Ukraine.
+      Do you see my point? Napolitano: I do see your point. Doctorow: It is moving faster
+      and faster. When they say that they are going to penalize in a way as yet not
+      usd, penalize the shadow fleet carrying Russian oil around the world, well you
+      can bet that that has taken the length of this war down by several months, because
+      the Russians are not going to sit around on their hands waiting to lose their
+      exports because of these crazy new restrictions that we put on their fleet. The
+      fleet will in any case go out. It will be defended by Russian warships who will
+      frighten away everybody from doing anything to those ships. But it will be a nerve-racking
+      period. 17:14 And I think for this reason, the moves to reach the Dnieper are
+      going faster and faster. The territory captured each week is greater in square
+      kilometers than it was at any former point in this war. And the likelihood of
+      capture of all of the Donetsk, meaning the eastern part of Ukraine from east of
+      the Dnieper River, is entirely doable within the next month or two, not the next
+      year or two. For that we can thank Mr. Trump. He is really helping to end this
+      war. Napolitano: Very, very interesting observation, which I will surely run past
+      Scott Ritter and the others with whom I’ll be speaking later today. Before we
+      go, I want to switch to Gaza. I don’t usually ask you about Gaza, but do you,
+      does the Kremlin see the line between the slaughter and the starvation and the
+      genocide in Gaza and another attack on Iran? Does the Kremlin care about what’s
+      happening in Gaza? Because surely they care about whether or not Trump bombs Iran
+      again. And apparently Israeli Prime Minister Netanyahu has begun to beat those
+      drums with Trump’s inner circle. Doctorow: 18:38 Well, Putin has been speaking
+      to Netanyahu two weeks consecutively by phone. I think the Russians are very interested
+      in ending this Gaza nightmare as soon as possible, without military intervention
+      on their part. Of course they could do it, but it would complicate the situation
+      in the Middle East vastly, and so they’re holding back. The connection between
+      the Gaza genocide and a possible attack on Iran: well, I don’t believe there will
+      be any attack on Iran, simply because Iran is capable of annihilating Israel in
+      a day or two if they want to use those several thousand ballistic missiles that
+      are safely stored underground and which the Israelis were unable to damage. 19:29
+      Therefore, there’s a lot of talk about attacking Iran. The Israelis by themselves,
+      unless they use nuclear weapons, will achieve nothing. And if they do use a nuclear
+      weapon, they probably will have a nuclear weapon coming back at them, because
+      there is a lot of talk that Iran actually has the bomb. Napolitano: Well, Ted
+      Postel, Professor Postel, who’s arguably the foremost physicist in the United
+      States, emeritus at Massachusetts Institute of Technology, has articulated to
+      friends of yours and mine that not only did the United States not set back the
+      Iran nuclear program, but they effectively have a nuclear weapon as we speak and
+      had it before the Americans attacked. Does the Kremlin recognize that? Does the
+      Kremlin agree with Professor Postel? Doctorow: 20:27 I imagine they do, and it
+      is another example of the perverse effects of what looks like America’s saber
+      rattling and chest beating. The achievements are precisely opposite of what they’re
+      supposed to be. Napolitano: Right. Professor Doctorow, thank you very much. A
+      fascinating, fascinating conversation. I can’t wait to run past Scott Ritter this
+      afternoon because sometimes you guys agree and sometimes you disagree on your
+      theory about secondary tariffs accelerating the special military operation. It’s
+      a brilliant observation on your part, and I’m grateful for your having articulated
+      it here on our show. Thank you, Professor. We look forward to seeing you next
+      week. Doctorow: Goodbye. Napolitano: Of course. All the best. And the aforementioned
+      Scott Ritter will be here today at 1 o’clock, followed by Max Blumenthal at 2,
+      followed by Phil Giraldi at 3. A great afternoon lineup for you. 21:28 Thank you
+      for watching. Judge Napolitano for “Judging Freedom”.'
+    one_sentence_summary: Judge Andrew Napolitano discusses recent U.S. nuclear arms
+      deliveries to allies and President Trump's provocative statements regarding military
+      positioning near Russia, while engaging with Professor Gilbert Doctorow on the
+      Kremlin's perspective.
+    paragraph_summary: In a recent episode of "Judging Freedom," Judge Andrew Napolitano
+      discusses the current geopolitical climate with Professor Gilbert Doctorow, particularly
+      focusing on the Kremlin's response to recent U.S. military actions, including
+      the deployment of nuclear-armed submarines to closer proximity to Russia. Doctorow,
+      analyzing Russian media and official statements, conveys that the Kremlin appears
+      confident and unalarmed by these developments, suggesting they do not intend to
+      escalate tensions with the U.S. or NATO despite the provocative nature of the
+      U.S. actions. The conversation highlights the complexities of international relations
+      and the varying perceptions of threat and confidence between the two nations.
+    published: '2025-08-07T06:14:02+00:00'
+  - title: '‘Judging Freedom,’ 6 August 2025: Is Moscow Optimistic?'
+    url: https://gilbertdoctorow.com/2025/08/06/judging-freedom-6-august-2025-is-moscow-optimistic/
+    text: Today’s chat focused on the visit of Trump’s envoy Steve Witkoff to Moscow
+      in which he spent just under three hours with President Putin. The very length
+      of their meeting suggests that there was a lot more going on than the delivery
+      by Witkoff of Trump’s ultimatum over ending the war at once. This is further confirmed
+      by Witkoff’s walk yesterday in the Zaryadye park next to Red Square in the company
+      of Kiril Dmitriev, head of Russia Direct Investment and the man best prepared
+      to discuss with the Americans prospective cooperative projects, not escalation
+      of the confrontation. I made the point that the seemingly bizarre actions of Trump
+      in the past week – namely the dispatch of two U.S. nuclear missile bearing submarines
+      closer to Russia, the delivery of nuclear weapons to the U.K. and the declaration
+      by the senior U.S. military officer in Europe Christopher Donahue that the U.S.
+      has ready plans to seize the Kaliningrad enclave of the Russian Federation – were
+      just posturing to appease Senator Lindsey Graham and other radical politicians
+      supporting Trump in Congress and were seen as such by the Kremlin. None of this
+      creates new existential threats to Russia. However, my main point, which Judge
+      Napolitano now plans to put to Scott Ritter for comment later today is that the
+      more pressure Trump & Co. place on Russia by introducing new sanctions, such as
+      those directed against the shadow fleet of oil tankers delivering Russian oil
+      to India and other global markets, the faster the Russian armed forces are taking
+      territory and destroying the military assets of Ukraine. The attempted bullying
+      only has a perverse effect of bringing peace nearer by hastening the Russian victory.
+      I enjoyed the opportunity to pass along to viewers speculation in Russian news
+      today that a young parliamentarian in the Ukrainian Verkhovna Rada, 35 year old
+      Anna Skorokhod is being mentioned as a possible candidate to replace Zelensky
+      now that the Americans are intent on his removal. Skorokhod has been loudly criticizing
+      the forcible recruitment of youths and seniors into the Ukrainian army. She has
+      said to the press that there are 400,000 deserters from the Ukrainian army today
+      and she supports them. They say that Skorokhod has the support of a close business
+      associate of Donald Trump. Could this be Witkoff?
+    one_sentence_summary: The article discusses Steve Witkoff's meeting with President
+      Putin in Moscow, suggesting that the lengthy discussion involved more than just
+      delivering Trump's ultimatum to end the war, as evidenced by Witkoff's subsequent
+      interactions with Russian officials focused on potential cooperation rather than
+      confrontation.
+    paragraph_summary: The recent visit of Trump's envoy Steve Witkoff to Moscow, where
+      he met with President Putin for nearly three hours, suggests that the discussions
+      went beyond merely delivering an ultimatum to end the war. Witkoff's interactions,
+      including a walk in Zaryadye park with Kiril Dmitriev, indicate a focus on potential
+      cooperative projects rather than escalating tensions. The article highlights that
+      Trump's recent military posturing, including deploying nuclear submarines and
+      making aggressive statements, is largely seen as political theater aimed at appeasing
+      hardline supporters in Congress, and does not pose new threats to Russia. Instead,
+      the introduction of new sanctions by the U.S. may inadvertently accelerate Russian
+      military successes in Ukraine. Additionally, speculation arises about the potential
+      political shift in Ukraine, with young parliamentarian Anna Skorokhod being mentioned
+      as a possible successor to President Zelensky amid U.S. intentions for change
+      in leadership.
+    published: '2025-08-06T13:21:01+00:00'
+  - title: '‘Judging Freedom,’ 6 August 2025: Is Moscow Optimistic?'
+    url: https://gilbertdoctorow.com/2025/08/06/judging-freedom-6-august-2025-is-moscow-optimistic/
+    text: Today’s chat focused on the visit of Trump’s envoy Steve Witkoff to Moscow
+      in which he spent just under three hours with President Putin. The very length
+      of their meeting suggests that there was a lot more going on than the delivery
+      by Witkoff of Trump’s ultimatum over ending the war at once. This is further confirmed
+      by Witkoff’s walk yesterday in the Zaryadye park next to Red Square in the company
+      of Kiril Dmitriev, head of Russia Direct Investment and the man best prepared
+      to discuss with the Americans prospective cooperative projects, not escalation
+      of the confrontation. I made the point that the seemingly bizarre actions of Trump
+      in the past week – namely the dispatch of two U.S. nuclear missile bearing submarines
+      closer to Russia, the delivery of nuclear weapons to the U.K. and the declaration
+      by the senior U.S. military officer in Europe Christopher Donahue that the U.S.
+      has ready plans to seize the Kaliningrad enclave of the Russian Federation – were
+      just posturing to appease Senator Lindsey Graham and other radical politicians
+      supporting Trump in Congress and were seen as such by the Kremlin. None of this
+      creates new existential threats to Russia. However, my main point, which Judge
+      Napolitano now plans to put to Scott Ritter for comment later today is that the
+      more pressure Trump & Co. place on Russia by introducing new sanctions, such as
+      those directed against the shadow fleet of oil tankers delivering Russian oil
+      to India and other global markets, the faster the Russian armed forces are taking
+      territory and destroying the military assets of Ukraine. The attempted bullying
+      only has a perverse effect of bringing peace nearer by hastening the Russian victory.
+      I enjoyed the opportunity to pass along to viewers speculation in Russian news
+      today that a young parliamentarian in the Ukrainian Verkhovna Rada, 35 year old
+      Anna Skorokhod is being mentioned as a possible candidate to replace Zelensky
+      now that the Americans are intent on his removal. Skorokhod has been loudly criticizing
+      the forcible recruitment of youths and seniors into the Ukrainian army. She has
+      said to the press that there are 400,000 deserters from the Ukrainian army today
+      and she supports them. They say that Skorokhod has the support of a close business
+      associate of Donald Trump. Could this be Witkoff?
+    one_sentence_summary: The article discusses Steve Witkoff's meeting with President
+      Putin in Moscow, suggesting that the lengthy discussion involved more than just
+      delivering Trump's ultimatum to end the war, as evidenced by Witkoff's subsequent
+      interactions with Russian officials focused on potential cooperation rather than
+      confrontation.
+    paragraph_summary: The recent visit of Trump's envoy Steve Witkoff to Moscow, where
+      he met with President Putin for nearly three hours, suggests that the discussions
+      went beyond merely delivering an ultimatum to end the war. Witkoff's interactions,
+      including a walk in Zaryadye park with Kiril Dmitriev, indicate a focus on potential
+      cooperative projects rather than escalating tensions. The article highlights that
+      Trump's recent military posturing, including deploying nuclear submarines and
+      making aggressive statements, is largely seen as political theater aimed at appeasing
+      hardline supporters in Congress, and does not pose new threats to Russia. Instead,
+      the introduction of new sanctions by the U.S. may inadvertently accelerate Russian
+      military successes in Ukraine. Additionally, speculation arises about the potential
+      political shift in Ukraine, with young parliamentarian Anna Skorokhod being mentioned
+      as a possible successor to President Zelensky amid U.S. intentions for change
+      in leadership.
+    published: '2025-08-06T13:21:01+00:00'
   - title: Jeffrey Sachs is back to selling snake oil
     url: https://gilbertdoctorow.com/2025/08/05/jeffrey-sachs-is-back-to-selling-snake-oil/
     text: Jeffrey Sachs is a magnificent orator.  His speech in the European Parliament

@@ -8,15 +8,116 @@ websites:
   - https://responsiblestatecraft.org/author/alieven/
   - https://quincyinst.org/author/anatol-lieven/
 summary: |
-  Amid ongoing global tensions and the persistent war in Ukraine, recent developments highlight the continued reliance on political theatrics over substantive diplomacy between the United States and Russia. The latest exchange between President Donald Trump and former Russian President Dmitri Medvedev—marked by Trump’s order to position U.S. nuclear submarines in response to Medvedev’s provocative remarks—has been widely interpreted as performative posturing rather than a genuine escalation. As **Anatol Lieven** notes, “both leaders are playing to their domestic audiences,” with little expectation that such rhetoric will alter the underlying stalemate or prompt meaningful Russian concessions on Ukraine.
+  As the Ukraine conflict grinds on into August 2025, the geopolitical landscape remains defined by shifting U.S. policy, exhausted populations, and persistent risks of escalation. The Trump administration’s latest approach—moving away from demands for an unconditional ceasefire and instead proposing specific terms to Russia—marks a significant development. According to **Anatol Lieven**, this new U.S. stance may include recognizing Russia’s annexation of Crimea and the Donbas, reflecting a pragmatic response to Ukraine’s inability to reclaim these territories after the failed 2023 counter-offensive. While President Zelensky has rejected any territorial concessions, public sentiment in both Russia and Ukraine increasingly favors an early end to the war.
   
-  Meanwhile, attention is turning northward as Arctic security and climate change re-emerge as critical issues. A recent conference organized by the Quincy Institute and the Arctic Institute underscored the erosion of “Arctic exceptionalism”—the tradition of peaceful cooperation in the region—due to heightened militarization and great power rivalry following the Ukraine conflict. Participants stressed, in **Lieven**’s words, that “the greatest threat to the Arctic stems from climate change rather than military rivalry,” and called for renewed international collaboration, including engagement with Russia, to address both environmental and security challenges.
+  Key unresolved issues include Russia’s insistence on Ukrainian neutrality and controversial demands such as “denazification” and demilitarization. **Lieven** notes that a compromise—however imperfect—could be the only realistic path to peace, especially as U.S. support for Ukraine is now explicitly tied to Kyiv’s willingness to accept these terms. Should Ukraine or European leaders refuse, they risk losing American backing and prolonging a conflict that both societies are weary of.
   
-  On the diplomatic front, there remains little progress toward a negotiated settlement in Ukraine. Both Kyiv and Moscow continue to present incompatible demands, with Ukraine insisting on a full ceasefire and Russia demanding territorial concessions. The U.S. is seen as the only actor capable of brokering a compromise, but as **Lieven** observes, “current tensions, including military actions and proposed sanctions, threaten to escalate the conflict further.” Without robust U.S. engagement and a willingness to pressure both sides toward compromise, the prospects for peace remain bleak.
+  Meanwhile, the broader security environment remains tense. The recent exchange of nuclear threats between President Trump and former Russian President Medvedev is widely seen as political theater. **Lieven** argues that “both leaders should avoid empty rhetoric regarding nuclear threats and instead focus on serious, private discussions to achieve peace in Ukraine.” Despite the posturing, neither side appears willing to escalate to nuclear confrontation, and there is little expectation that new sanctions will force a change in Russian behavior.
+  
+  Beyond Ukraine, the Arctic region is emerging as a new arena of concern. A recent conference hosted by the Quincy Institute and the Arctic Institute underscored the urgent need for renewed cooperation among Arctic nations to address climate change and prevent further militarization. The consensus, as reported by **Lieven**, is that “the greatest threat to the Arctic stems from climate change rather than military rivalry,” and that restoring “Arctic exceptionalism” is essential for regional and global security.
   
   **Trends and Predictions:**  
-  The prevailing trend is one of rhetorical escalation without substantive movement toward peace, both in Ukraine and in broader U.S.-Russia relations. The militarization of the Arctic and the lack of progress in Ukraine negotiations suggest that, absent a shift in strategy, tensions will persist. There is a high chance that, as **Lieven** predicts, “both leaders will continue to avoid real diplomacy in favor of public posturing,” and that the U.S. will remain the only credible mediator for any future settlement. Regarding the Arctic, there is a high chance that climate and security concerns will force renewed dialogue, but only if stakeholders—including Russia—are meaningfully engaged. Overall, the outlook for de-escalation or a durable peace agreement in Ukraine remains pessimistic in the near term.
+  The majority of analysts agree that the U.S. is now prioritizing a negotiated settlement in Ukraine, even if it means accepting Russian territorial gains—a shift that is “most definitely” setting the stage for a compromise peace. There is a high chance that, unless Ukraine and its European allies accept the emerging terms, U.S. support will wane, increasing the risk of a protracted and destabilizing war. In the Arctic, the trend toward militarization will likely continue unless there is a concerted diplomatic effort to refocus on climate and cooperative security. Overall, the geopolitical environment remains fragile, but the momentum is moving toward pragmatic, if uncomfortable, compromises to prevent further escalation.
 articles:
+  - title: Trump's terms for Russia-Ukraine on the right course for peace
+    url: https://responsiblestatecraft.org/trump-putin-alaska/
+    text: 'The Trump administration has reportedly taken an essential step towards a
+      peace settlement in Ukraine. It has stopped calling for an unconditional early
+      ceasefire — which the Russians have always rejected — and instead offered concrete
+      and detailed terms to Moscow.
+
+
+      If as reported these terms include recognition of the Russian annexation of Crimea
+      and the Donbas, this makes excellent sense. It has been obvious since the failure
+      of the Ukrainian counter-offensive in 2023 that Ukraine cannot recover these territories
+      either by force or through negotiation.
+
+
+      Far better to draw a line under this issue rather than allow it to fester — especially
+      since it is clear that most of the population of Crimea and much of that of the
+      Donbas do not want to return to Ukraine.
+
+
+      Swapping the remainder of Ukrainian-held Donbas for Russian-held territory elsewhere,
+      as Trump has apparently proposed, would be deeply painful for Kyiv, and has already
+      been rejected by President Zelensky. He is also encouraging European leaders to
+      reject it. However, Russia has already captured most of the region and is now
+      very close to taking the key town of Pokrovsk.
+
+
+      If the war continues, it is reasonable to assume that Russia will take the rest
+      of the Donbas in the year to come. If Ukraine rejects this deal, and Trump ends
+      U.S. aid to Ukraine, Russia will likely take very much more. However painful,
+      accepting this part of the deal is therefore the wise and patriotic choice for
+      Ukraine — though only if Russia moderates other demands.
+
+
+      Crucial issues still remain unanswered. Russia has always categorically demanded
+      Ukrainian neutrality. Will Moscow be satisfied with a mere statement by Trump
+      that NATO membership for Ukraine is permanently excluded? Or will it demand that
+      the Ukrainian parliament re-install the commitment to neutrality that formed part
+      of the Ukrainian constitution before 2014?
+
+
+      Will Russia demand that NATO formally rescind the proposal for long-term Ukrainian
+      NATO membership announced by NATO in 2008? If so, to push this through would take
+      huge pressure on Ukraine and Europe by the Trump administration.
+
+
+      Meanwhile, Russia will need drastically to scale back its demands for Ukrainian
+      "denazification" and demilitarization", which in their extreme form would mean
+      Ukrainian regime change and disarmament — which no government in Kyiv could or
+      should accept.
+
+
+      If compromise can be reached on these issues, then the Russian, Ukrainian, and
+      European governments would all be extremely foolish to reject a deal.
+
+
+      If Russia chooses to snub Trump, it would commit itself to the search for complete
+      victory, which may be unattainable. It would also lose a unique opportunity to
+      restore decent relations with the United States moving forward.
+
+
+      If Ukraine rejects the terms, it would most probably forfeit future U.S. military
+      and financial aid, and be forced to rely on far more limited help from Europe.
+      Even if Ukraine could continue to retreat slowly rather than collapsing, no future
+      peace deal would bring better terms. In both Russia and Ukraine, opinion polls
+      show majorities of the population anxious for an early peace.
+
+
+      As to the European governments, if they block a peace settlement they will commit
+      themselves to support Ukraine indefinitely without the U.S. — something that their
+      own populations are increasingly opposed to.
+
+
+      There is no perfect settlement to end this war. The one now apparently taking
+      shape does, however, look about right in terms of what could realistically be
+      achieved. For the sake of the tens or hundreds of thousands of Ukrainians and
+      Russians who will die if the war continues, all parties have a duty to abandon
+      maximalist dreams.'
+    one_sentence_summary: The Trump administration has shifted its approach to the Ukraine
+      conflict by proposing concrete terms to Russia, including potential recognition
+      of Crimea and Donbas annexations, which, despite being painful for Ukraine, may
+      be necessary for a realistic peace settlement amid ongoing military challenges
+      and public sentiment favoring an end to the war.
+    paragraph_summary: The Trump administration has shifted its approach to the Ukraine
+      conflict by moving away from demanding an unconditional ceasefire and instead
+      proposing specific terms to Russia, which may include recognizing the annexation
+      of Crimea and the Donbas region. This change comes in light of Ukraine's inability
+      to reclaim these territories following a failed counter-offensive in 2023, and
+      it suggests that accepting some loss could be a pragmatic choice for Ukraine,
+      despite President Zelensky's rejection of the proposal to swap territories. Key
+      unresolved issues remain, such as Russia's demands for Ukrainian neutrality and
+      the extent of its other conditions, including the controversial "denazification"
+      and demilitarization. A compromise could lead to a peace settlement that benefits
+      all parties, especially as public sentiment in both Russia and Ukraine leans towards
+      an early resolution to the conflict. If Ukraine or European leaders reject the
+      deal, they risk losing U.S. support and facing prolonged conflict, which the populations
+      increasingly oppose. Ultimately, while no perfect solution exists, the emerging
+      terms may represent a realistic path to peace that all sides should consider to
+      prevent further loss of life.
+    published: '2025-08-09T15:39:22+00:00'
   - title: 'Trump vs. Medvedev: When talking tough is plain turkey'
     url: https://responsiblestatecraft.org/medvedev-trump/
     text: 'President Donald Trump ordered U.S. nuclear submarines to be positioned in

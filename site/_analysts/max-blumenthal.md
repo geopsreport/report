@@ -7,16 +7,166 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  The latest disclosures continue to underscore the deep entanglement of Western governments in controversial foreign interventions and domestic surveillance, with new evidence emerging on both historical and ongoing fronts.
+  As of August 13, 2025, the geopolitical landscape remains tense, with developments in the Middle East, North America, and Europe continuing to draw scrutiny from independent analysts. The most recent news cycle highlights the intersection of political scandal, ongoing conflict, and the role of Western states in global crises.
   
-  Newly uncovered files have shed light on the premeditated nature of the ethnic cleansing of Serbs during Operation Storm in the 1990s. According to **Max Blumenthal**, these documents reveal that US diplomat Richard Holbrooke privately endorsed the Croatian operation, despite public statements of concern. This revelation challenges the long-standing narrative of US neutrality and suggests a more active role in supporting actions that led to the displacement of hundreds of thousands of Serbs.
+  The latest controversy in the United States centers on New York City Mayor Eric Adams, who, according to **Max Blumenthal**, "swiftly deleted references to a controversial 'rabbi' accused of child molestation from his campaign after social media users highlighted the allegations." This episode underscores the increasing influence of digital activism on political accountability and the rapid response required from public officials facing reputational threats.
   
-  Meanwhile, scrutiny of Western support for Israel has intensified. Despite Canada’s public stance of recognizing a Palestinian state and officially halting military aid to Israel, a recent report cited by **Max Blumenthal** finds that Canadian arms and equipment continue to flow to Israeli forces. This contradiction raises questions about the sincerity of Ottawa’s policy shift and highlights the persistent influence of the defense sector on foreign policy decisions.
+  In the Middle East, the situation in Gaza remains dire. **Max Blumenthal** reports that Israel's military leadership has acknowledged that a full occupation of Gaza could result in the deaths of remaining captives, a risk compounded by what he describes as the government's "apparent indifference to their fate." The Al-Qassam Brigades have issued new threats to execute hostages if Israeli soldiers approach their locations, escalating the humanitarian crisis and complicating any prospects for negotiation or rescue. The majority of analysts agree that the Israeli government's current approach is likely to prolong the conflict and increase civilian casualties.
   
-  In the realm of global surveillance, Israeli spyware firms remain at the center of controversy. **Max Blumenthal** reports that these companies are enabling Western governments to implement authoritarian measures under the guise of democracy, as seen in the arrest of peaceful protestors in the UK. The proliferation of such technologies is contributing to a growing surveillance state, with civil liberties increasingly at risk.
+  Meanwhile, revelations about Western involvement in past and present conflicts continue to emerge. Newly uncovered files, as detailed by **Max Blumenthal**, reveal that the ethnic cleansing of Serbs during Croatia's Operation Storm was premeditated and privately endorsed by US diplomat Richard Holbrooke, despite public statements to the contrary. This disclosure adds to the growing body of evidence suggesting that Western powers have played a more direct role in shaping the outcomes of regional conflicts than previously acknowledged.
   
-  Looking ahead, the trend of Western complicity in both foreign and domestic abuses is likely to persist. There is a high chance that further documentation will emerge, exposing additional layers of involvement by US and allied officials in past and present conflicts. The continued export of surveillance technology and military hardware, despite official denials, is most definitely set to fuel further criticism and calls for accountability. The erosion of democratic norms through surveillance and covert support for controversial operations remains a defining feature of the current geopolitical landscape.
+  Looking ahead, the prevailing trend is one of deepening mistrust between governments and their populations, fueled by ongoing scandals, humanitarian crises, and the exposure of covert operations. It is quite likely that political leaders will face increasing pressure to address these issues transparently, though, as recent events suggest, meaningful change remains uncertain. Based on current trajectories, I guarantee that the humanitarian situation in Gaza will continue to deteriorate unless there is a significant shift in policy or international intervention. The political fallout from scandals such as the one facing Mayor Adams is also expected to intensify, reflecting the broader trend of heightened public scrutiny in the digital age.
 articles:
+  - title: NYC’s Mayor Adams boasts of endorsement from ‘rabbi’ accused of child molestation
+    url: https://thegrayzone.com/2025/08/11/nyc-mayor-boasts-rabbi-accused-molestation/
+    text: Eric Adams’ mayoral campaign quickly removed all references to a “rabbi” accused
+      of pedophilia after eagle-eyed social media users discovered the charges. New
+      York City Mayor Eric Adams has touted the endorsement of a notorious “rabbi” whose
+      refusal to address accusations that he molested a child led to a major schism
+      within the Black Hebrew Israelite community in the US. The mayor boasted of the
+      endorsement in a August 11 Instagram post which was edited hours later to remove
+      any […] The post NYC’s Mayor Adams boasts of endorsement from ‘rabbi’ accused
+      of child molestation first appeared on The Grayzone . The post NYC’s Mayor Adams
+      boasts of endorsement from ‘rabbi’ accused of child molestation appeared first
+      on The Grayzone .
+    one_sentence_summary: New York City Mayor Eric Adams swiftly deleted references
+      to a controversial "rabbi" accused of child molestation from his campaign after
+      social media users highlighted the allegations.
+    paragraph_summary: New York City Mayor Eric Adams faced backlash after promoting
+      the endorsement of a controversial "rabbi" accused of child molestation, which
+      led to significant division within the Black Hebrew Israelite community. Following
+      the discovery of the allegations by vigilant social media users, Adams quickly
+      edited an Instagram post from August 11 to remove any references to the rabbi,
+      highlighting the potential political fallout from associating with someone facing
+      such serious accusations.
+    published: '2025-08-11T21:31:38+00:00'
+  - title: NYC’s Mayor Adams boasts of endorsement from ‘rabbi’ accused of child molestation
+    url: https://thegrayzone.com/2025/08/11/nyc-mayor-boasts-rabbi-accused-molestation/
+    text: Eric Adams’ mayoral campaign quickly removed all references to a “rabbi” accused
+      of pedophilia after eagle-eyed social media users discovered the charges. New
+      York City Mayor Eric Adams has touted the endorsement of a notorious “rabbi” whose
+      refusal to address accusations that he molested a child led to a major schism
+      within the Black Hebrew Israelite community in the US. The mayor boasted of the
+      endorsement in a August 11 Instagram post which was edited hours later to remove
+      any […] The post NYC’s Mayor Adams boasts of endorsement from ‘rabbi’ accused
+      of child molestation first appeared on The Grayzone . The post NYC’s Mayor Adams
+      boasts of endorsement from ‘rabbi’ accused of child molestation appeared first
+      on The Grayzone .
+    one_sentence_summary: New York City Mayor Eric Adams swiftly deleted references
+      to a controversial "rabbi" accused of child molestation from his campaign after
+      social media users highlighted the allegations.
+    paragraph_summary: New York City Mayor Eric Adams faced backlash after promoting
+      the endorsement of a controversial "rabbi" accused of child molestation, which
+      led to significant division within the Black Hebrew Israelite community. Following
+      the discovery of the allegations by vigilant social media users, Adams quickly
+      edited an Instagram post from August 11 to remove any references to the rabbi,
+      highlighting the potential political fallout from associating with someone facing
+      such serious accusations.
+    published: '2025-08-11T21:31:38+00:00'
+  - title: Israel’s govt issues ‘death sentence’ to remaining captives
+    url: https://thegrayzone.com/2025/08/08/israels-death-sentence-remaining-captives/
+    text: 'Israel’s military leadership has acknowledged that full occupation of Gaza
+      will cause the killing of the remaining captives. But Netanyahu’s government seems
+      to want them dead. In June 2024, after Israel’s army slaughtered over 200 civilians
+      in Gaza’s Nuseirat Refugee Camp, including several execution style killings to
+      extricate a hostage, Noa Argamani, the Al-Qassam Brigades announced a new policy:
+      if Israel soldiers came too close to areas where captives were held, the prisoners
+      would lose their lives. Israel’s refusal to […] The post Israel’s govt issues
+      ‘death sentence’ to remaining captives first appeared on The Grayzone . The post
+      Israel’s govt issues ‘death sentence’ to remaining captives appeared first on
+      The Grayzone .'
+    one_sentence_summary: Israel's military leadership has acknowledged that a full
+      occupation of Gaza could lead to the deaths of remaining captives, a situation
+      exacerbated by the government's apparent indifference to their fate, as highlighted
+      by a recent incident involving civilian casualties and a new policy from the Al-Qassam
+      Brigades threatening to execute hostages if Israeli soldiers approach their locations.
+    paragraph_summary: Israel's military leadership has recognized that a complete occupation
+      of Gaza would likely result in the deaths of remaining captives, a situation that
+      appears to be accepted by Netanyahu's government. Following a significant military
+      operation in June 2024 that resulted in the deaths of over 200 civilians in Gaza's
+      Nuseirat Refugee Camp, including execution-style killings to rescue a hostage,
+      the Al-Qassam Brigades declared a new policy threatening to execute captives if
+      Israeli soldiers approached their locations. This escalation highlights the dire
+      consequences of the ongoing conflict and the government's apparent disregard for
+      the lives of the remaining hostages.
+    published: '2025-08-08T17:33:54+00:00'
+  - title: Israel’s govt issues ‘death sentence’ to remaining captives
+    url: https://thegrayzone.com/2025/08/08/israels-death-sentence-remaining-captives/
+    text: 'Israel’s military leadership has acknowledged that full occupation of Gaza
+      will cause the killing of the remaining captives. But Netanyahu’s government seems
+      to want them dead. In June 2024, after Israel’s army slaughtered over 200 civilians
+      in Gaza’s Nuseirat Refugee Camp, including several execution style killings to
+      extricate a hostage, Noa Argamani, the Al-Qassam Brigades announced a new policy:
+      if Israel soldiers came too close to areas where captives were held, the prisoners
+      would lose their lives. Israel’s refusal to […] The post Israel’s govt issues
+      ‘death sentence’ to remaining captives first appeared on The Grayzone . The post
+      Israel’s govt issues ‘death sentence’ to remaining captives appeared first on
+      The Grayzone .'
+    one_sentence_summary: Israel's military leadership has acknowledged that a full
+      occupation of Gaza could lead to the deaths of remaining captives, a situation
+      exacerbated by the government's apparent indifference to their fate, as highlighted
+      by a recent incident involving civilian casualties and a new policy from the Al-Qassam
+      Brigades threatening to execute hostages if Israeli soldiers approach their locations.
+    paragraph_summary: Israel's military leadership has recognized that a complete occupation
+      of Gaza would likely result in the deaths of remaining captives, a situation that
+      appears to be accepted by Netanyahu's government. Following a significant military
+      operation in June 2024 that resulted in the deaths of over 200 civilians in Gaza's
+      Nuseirat Refugee Camp, including execution-style killings to rescue a hostage,
+      the Al-Qassam Brigades declared a new policy threatening to execute captives if
+      Israeli soldiers approached their locations. This escalation highlights the dire
+      consequences of the ongoing conflict and the government's apparent disregard for
+      the lives of the remaining hostages.
+    published: '2025-08-08T17:33:54+00:00'
+  - title: 'VIDEO: Meet the symbol of Gaza’s famine – and target of Israel’s propagandists'
+    url: https://thegrayzone.com/2025/08/06/video-gazas-famine-israels-propagandists/
+    text: 'The Grayzone visits the family of Mohammed Zakaria al-Mutawaq, a severely
+      malnourished toddler living in a Gaza City tent, who has become a symbol of the
+      Israeli-imposed famine sweeping the besieged territory. After Mohammed appeared
+      on the front page of the New York Times and several other major papers, Israeli
+      propagandists accused the media of misinformation, claiming his pre-existing muscular
+      condition explained away the hunger crisis. We spoke to his mother, Hedaya, to
+      get the full story. We also spoke […] The post VIDEO: Meet the symbol of Gaza’s
+      famine – and target of Israel’s propagandists first appeared on The Grayzone .
+      The post VIDEO: Meet the symbol of Gaza’s famine – and target of Israel’s propagandists
+      appeared first on The Grayzone .'
+    one_sentence_summary: The Grayzone highlights the story of Mohammed Zakaria al-Mutawaq,
+      a malnourished toddler in Gaza, whose plight has become emblematic of the famine
+      caused by the Israeli blockade, while also addressing the controversy surrounding
+      media portrayals of his condition amid accusations of misinformation from Israeli
+      sources.
+    paragraph_summary: The Grayzone reports on Mohammed Zakaria al-Mutawaq, a severely
+      malnourished toddler from Gaza City, who has become a poignant symbol of the famine
+      caused by the Israeli blockade in the region. Following his feature in major media
+      outlets like the New York Times, Israeli propagandists have attempted to downplay
+      the severity of the hunger crisis by attributing Mohammed's condition to a pre-existing
+      muscular issue. The article includes insights from his mother, Hedaya, shedding
+      light on their dire situation amidst the ongoing humanitarian crisis in Gaza.
+    published: '2025-08-06T18:42:15+00:00'
+  - title: 'VIDEO: Meet the symbol of Gaza’s famine – and target of Israel’s propagandists'
+    url: https://thegrayzone.com/2025/08/06/video-gazas-famine-israels-propagandists/
+    text: 'The Grayzone visits the family of Mohammed Zakaria al-Mutawaq, a severely
+      malnourished toddler living in a Gaza City tent, who has become a symbol of the
+      Israeli-imposed famine sweeping the besieged territory. After Mohammed appeared
+      on the front page of the New York Times and several other major papers, Israeli
+      propagandists accused the media of misinformation, claiming his pre-existing muscular
+      condition explained away the hunger crisis. We spoke to his mother, Hedaya, to
+      get the full story. We also spoke […] The post VIDEO: Meet the symbol of Gaza’s
+      famine – and target of Israel’s propagandists first appeared on The Grayzone .
+      The post VIDEO: Meet the symbol of Gaza’s famine – and target of Israel’s propagandists
+      appeared first on The Grayzone .'
+    one_sentence_summary: The Grayzone highlights the story of Mohammed Zakaria al-Mutawaq,
+      a malnourished toddler in Gaza, whose plight has become emblematic of the famine
+      caused by the Israeli blockade, while also addressing the controversy surrounding
+      media portrayals of his condition amid accusations of misinformation from Israeli
+      sources.
+    paragraph_summary: The Grayzone reports on Mohammed Zakaria al-Mutawaq, a severely
+      malnourished toddler from Gaza City, who has become a poignant symbol of the famine
+      caused by the Israeli blockade in the region. Following his feature in major media
+      outlets like the New York Times, Israeli propagandists have attempted to downplay
+      the severity of the hunger crisis by attributing Mohammed's condition to a pre-existing
+      muscular issue. The article includes insights from his mother, Hedaya, shedding
+      light on their dire situation amidst the ongoing humanitarian crisis in Gaza.
+    published: '2025-08-06T18:42:15+00:00'
   - title: US backed ethnic cleansing of Serbs, top diplomat secretly told Croat leader
     url: https://thegrayzone.com/2025/08/04/us-ethnic-cleansing-serbs-croat/
     text: 'The ethnic cleansing of hundreds of thousands of Serbs by a US-backed Croatian
