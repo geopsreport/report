@@ -7,23 +7,1432 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  As anticipation builds for the upcoming Trump-Putin summit, the geopolitical landscape remains in flux, with recent diplomatic maneuvers and media dynamics shaping expectations. The context is defined by the ongoing Russia-Ukraine conflict, persistent mistrust between NATO and Moscow, and renewed efforts—primarily from the U.S. side—to broker a peace settlement.
+  The geopolitical landscape remains dominated by the aftermath of the Trump-Putin summit in Alaska and its reverberations across the Ukraine conflict, Western alliances, and the evolving BRICS dynamic. Over the past days, the focus has shifted from speculation about the summit’s content to its concrete diplomatic and public opinion impacts.
   
-  The most notable recent development is the confirmation of the Trump-Putin meeting, with **Gilbert Doctorow** emphasizing the symbolism of Trump as the initiator. This is seen as a significant gesture, suggesting a possible shift in U.S. policy tone and a willingness to engage directly with Moscow. According to Doctorow, “the very fact that Trump is the initiator of the meeting is of great importance,” underlining the potential for a new diplomatic opening.
+  A recent reflection by **Gilbert Doctorow** on his participation in international panel discussions underscores the deepening polarization in Western media narratives regarding Ukraine and Russia. Doctorow contrasts a former NY Times journalist’s “unfounded accusations” against Trump with the “extreme” positions of some Canadian commentators, illustrating the fragmented nature of Western discourse. This polarization, Doctorow suggests, is symptomatic of a broader inability in the West to engage in balanced debate over the Ukraine crisis and the Trump-Putin rapprochement.
   
-  Meanwhile, the aftermath of Steve Witkoff’s high-profile visit to Moscow continues to reverberate. As discussed by **Professor Glenn Diesen** in a recent interview, there is “some optimism about the potential for a peaceful resolution to the Russia-Ukraine war,” though he cautions that the historical context of NATO-Russia relations—marked by deception and broken promises—tempers expectations. The Russian side has called the latest U.S. peace plan “acceptable,” but the details and implementation remain uncertain.
+  Meanwhile, the Trump-Putin meeting continues to generate “mixed reactions, from optimism to panic,” as described in Doctorow’s conversation with **Glenn Diesen**. The summit has broken a three-and-a-half-year period of Western diplomatic isolation of Russia, and its implications are being closely watched in both Washington and Moscow. Diesen points to the possibility of “undisclosed agreements” between Trump and Putin, which may shape the agenda for Ukrainian President Zelensky’s upcoming White House visit. While the details remain opaque, the majority view among analysts is that the Alaska summit marks a turning point, with a “high chance” of renewed negotiations over Ukraine’s future territorial status and security guarantees.
   
-  On the media front, Doctorow contrasts Russian and U.S. coverage, arguing that Russian outlets, particularly RT, allow for greater freedom of expression on sensitive topics like Ukraine. He notes, “the lack of censorship in live broadcasts” stands in stark contrast to the “selective editing practices of US media,” which may influence public perceptions and diplomatic messaging.
+  Another notable development is the shift in Indian public opinion, as highlighted in Doctorow’s interview with WION. Indian audiences are reportedly adopting a more “balanced view” of both Russia and the US, coupled with increasing “contempt for Zelensky.” This trend reflects a broader realignment in the Global South, where skepticism toward Western narratives and support for multipolarity are on the rise.
   
-  Looking ahead, the majority view among analysts is that the Trump-Putin summit could mark a turning point, but the outcome is far from guaranteed. There is a high chance that diplomatic engagement will continue, with both sides testing the waters for a possible ceasefire or broader settlement. However, given the entrenched mistrust and complex interests at play, a comprehensive resolution remains elusive in the short term.
-  
-  **Trends and Predictions:**  
-  - The Trump-Putin summit is most definitely a pivotal event, with the potential to reshape the diplomatic landscape, though the specifics of any agreement are still unclear.
-  - There is a high chance that both Russian and U.S. media will continue to frame developments to suit their respective narratives, influencing both domestic and international opinion.
-  - While optimism has increased, especially following Witkoff’s Moscow visit, the majority opinion is that any peace process will be incremental and subject to setbacks, given the historical record of failed negotiations.
-  
-  In summary, the coming days are likely to be decisive, with the Trump-Putin meeting serving as a critical barometer for the prospects of de-escalation in the Russia-Ukraine conflict.
+  In summary, the prevailing trend is one of cautious optimism among independent analysts regarding the prospects for a negotiated settlement in Ukraine, driven by the Trump-Putin dialogue and the recalibration of global alliances. There is a “high chance” that the coming weeks will see intensified diplomatic activity, with the BRICS bloc and non-Western actors playing a more assertive role. As Doctorow concludes, the situation remains fluid, but the momentum is shifting away from confrontation and toward pragmatic engagement—though the outcome is far from guaranteed.
 articles:
+  - title: Press TV (Iran):  Prospect of Peace in Ukraine, ‘Spotlight’
+    url: https://gilbertdoctorow.com/2025/08/19/press-tv-iran-prospect-of-peace-in-ukraine-spotlight/
+    text: In the various, shall we say ‘exotic’ panel discussion programs that I occasionally
+      agree to participate in, you never know whom you will be matched with or what
+      questions will be thrown your way, assuming you can actually hear the questions
+      (which was not really the case yesterday in my session on Press TV, hence my not
+      answering the first question thrown out to me). Two days ago I appeared on a News
+      X World (India) program in which I was matched with a former NY Times staff journalist
+      and holder of the Pulitzer Prize who is a wholly committed Neocon and spouted
+      the most outrageous calumny against Trump including all the Russia-gate accusations
+      over interference in the 2016 elections that Tulsi Gabbard recently proved were
+      fabricated and were backed by both Hilary Clinton and Barack Obama in violation
+      of federal law. Last night I was matched with John Bosnitch, a journalist and
+      political activist from Canada who probably has a Communist Party of the Soviet
+      Union membership card in his back pocket. That is the roll of the dice. It makes
+      me all the more appreciative of the efforts of hosts like Judge Andrew Napolitano
+      and University of Southeast Norway professor Glenn Diesen to bring serious discussants
+      to the attention of their large audiences on their youtube channels. Enjoy the
+      show! https://www.urmedium.net/c/presstv/134305
+    one_sentence_summary: The author reflects on their experiences participating in
+      diverse panel discussions, highlighting a recent encounter with a former NY Times
+      journalist who made unfounded accusations against Trump, and contrasting it with
+      a discussion with a Canadian journalist perceived to have extreme political views.
+    paragraph_summary: In a recent panel discussion on Press TV, the author reflects
+      on the unpredictability of participating in such programs, highlighting their
+      experiences with diverse and often extreme viewpoints from fellow panelists. They
+      recount a previous appearance on News X World in India, where they debated a former
+      NY Times journalist who espoused strong Neocon beliefs and made unfounded accusations
+      against Trump related to the 2016 election, which have been challenged by figures
+      like Tulsi Gabbard. The author also mentions their encounter with Canadian journalist
+      John Bosnitch, suggesting a stark ideological divide. They express gratitude for
+      hosts like Judge Andrew Napolitano and Professor Glenn Diesen, who strive to feature
+      serious and credible discussants on their platforms.
+    published: '2025-08-19T08:36:46+00:00'
+  - title: Press TV (Iran):  Prospect of Peace in Ukraine, ‘Spotlight’
+    url: https://gilbertdoctorow.com/2025/08/19/press-tv-iran-prospect-of-peace-in-ukraine-spotlight/
+    text: In the various, shall we say ‘exotic’ panel discussion programs that I occasionally
+      agree to participate in, you never know whom you will be matched with or what
+      questions will be thrown your way, assuming you can actually hear the questions
+      (which was not really the case yesterday in my session on Press TV, hence my not
+      answering the first question thrown out to me). Two days ago I appeared on a News
+      X World (India) program in which I was matched with a former NY Times staff journalist
+      and holder of the Pulitzer Prize who is a wholly committed Neocon and spouted
+      the most outrageous calumny against Trump including all the Russia-gate accusations
+      over interference in the 2016 elections that Tulsi Gabbard recently proved were
+      fabricated and were backed by both Hilary Clinton and Barack Obama in violation
+      of federal law. Last night I was matched with John Bosnitch, a journalist and
+      political activist from Canada who probably has a Communist Party of the Soviet
+      Union membership card in his back pocket. That is the roll of the dice. It makes
+      me all the more appreciative of the efforts of hosts like Judge Andrew Napolitano
+      and University of Southeast Norway professor Glenn Diesen to bring serious discussants
+      to the attention of their large audiences on their youtube channels. Enjoy the
+      show! https://www.urmedium.net/c/presstv/134305
+    one_sentence_summary: The author reflects on their experiences participating in
+      diverse panel discussions, highlighting a recent encounter with a former NY Times
+      journalist who made unfounded accusations against Trump, and contrasting it with
+      a discussion with a Canadian journalist perceived to have extreme political views.
+    paragraph_summary: In a recent panel discussion on Press TV, the author reflects
+      on the unpredictability of participating in such programs, highlighting their
+      experiences with diverse and often extreme viewpoints from fellow panelists. They
+      recount a previous appearance on News X World in India, where they debated a former
+      NY Times journalist who espoused strong Neocon beliefs and made unfounded accusations
+      against Trump related to the 2016 election, which have been challenged by figures
+      like Tulsi Gabbard. The author also mentions their encounter with Canadian journalist
+      John Bosnitch, suggesting a stark ideological divide. They express gratitude for
+      hosts like Judge Andrew Napolitano and Professor Glenn Diesen, who strive to feature
+      serious and credible discussants on their platforms.
+    published: '2025-08-19T08:36:46+00:00'
+  - title: Transcript of conversation with Glenn Diesen, 17 August 2025
+    url: https://gilbertdoctorow.com/2025/08/18/transcript-of-conversation-with-glenn-diesen-17-august-2025/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=tyzGNH5vO0g
+      Diesen: Hi everyone and welcome back. We are joined today by Gilbert Doktorow,
+      historian and international affairs analyst and author of books such as “War Diaries
+      – the Russia-Ukraine War”. And yeah, thank you for coming back on the program.
+      Doctorow: My pleasure. Diesen So, yeah, the big news obviously is the Trump and
+      Putin meeting in Alaska. And, yeah, after three and a half years since Russia
+      launched its a special military operation, well, most of this time, the West boycotted
+      diplomacy in an effort to isolate Russia. We now had a meeting between the Russian
+      and American president. And the immediate reactions of course have ranged from
+      extreme optimism to utter panic, especially then in Europe. And well, the media
+      especially is hostile to their diplomatic efforts. And there’s been these efforts
+      to portray Trump as weak unless he is tough on Russia, which is usually what we
+      demand of all politicians, which effectively translates into prolonging the war,
+      I think. But again, it’s an important summit. And I wanted to ask you, what are
+      your main takeaways from this summit? Doctorow: 1:20 Well, if we had this discussion
+      24 hours ago, I would be at a loss to say something that my peers had not already
+      said, because everybody had a microphone in front of them in the minutes following
+      the closing of the conversation. But since we are speaking today, a lot of fresh
+      news has come in, which I hope we can go through, because it answers the question
+      that immediately came up following the press briefings– so I think it was 12 minutes,
+      15 minutes, it was very short– that took place immediately following the summit
+      talks in Anchorage. The question that arose was what did the Russians and the
+      Americans agree on? Because Mr. Putin said, yes, we’ve come closer to solving
+      the problem. Well, how did they come closer? It was not– there was no information
+      given out by either party in the minutes following the summit. And all of that
+      has come out both by intent and by a subversive release to the press by people,
+      I’m sure, like Macron. He couldn’t possibly resist the temptation to call reporters
+      in to show how much he knew that was of interest to them. What I’m saying is that
+      the basic agreements that Trump and Putin made have come out in the last 24 hours.
+      The first shoe to drop was soon afterwards and the most important information
+      only came out I would guess in the middle of the night or early this morning.
+      The last and very important information I read extensively reported in the “Financial
+      Times”, their online edition this morning, talking about the territorial issue,
+      specifically saying that Putin had proposed that Russia would receive or should
+      receive all of the territory of the Donbass, that is, of the two oblasts of Donetsk
+      and Lugansk, and that it would compromise on the other two, the other two oblasts
+      which form the new Russia and these are Zaporozhzhia and Kherson. In those two
+      last two oblasts or regions, Russia would agree to a freeze at the line of confrontation.
+      In the first two, strictly speaking Donbass, Donetsk and Lugansk, they would insist
+      that Ukraine would withdraw completely from those territories, so that Russia
+      would receive now a territory that it had not conquered. Our lying press has said,
+      ah yes, the Russians only hold about 50% of the territory they’re now demanding
+      be turned over. First of all, out of the two oblasts, the Russians have 98%, maybe
+      99% of Lugansk. Lugansk was the easiest for them to recapture; from the very first
+      days of the Special Military Operation, that was the case. With respect to Donetsk,
+      before this summer offensive got underway, the Russians had about 50% of that.
+      Now they have 70%. So from the get-go, what our CNN and BBC are telling us is
+      fabricated. The concession is one of time, time and lives, because it is apparent
+      to anybody with military knowledge that the Russians will take the whole of Donbas
+      in a matter of weeks. The story coming out of Kiev is that by giving up Slavyansk
+      and Kramatorsk– these are fortified towns between the present line of confrontation
+      around Pokrovsk to the east and the Dnieper River– Ukraine would be giving up
+      its ability to resist a further Russian onslaught across the Dnieper into the
+      rest of Ukraine. Well, this is the same lies and fabrication that have been behind
+      the Ukrainian story, which was repeated endlessly by the United States and the
+      European allies over the last three years. I think most of us who have our brains
+      screwed in right understand that Russia would never willingly take any Ukrainian
+      territory in West Ukraine, because that would be really an occupation and not
+      a governance, and they would expect a lot of difficulty ruling that area. 6:34
+      So the whole story of what the Russians want is now clear. The other, smaller
+      issue which came out, which is the first shoe to drop, which I didn’t mention
+      a moment ago, was that Mr. Trump announced he had switched his view, and essentially
+      he’s aligned with Vladimir Putin, on what sort of an agreement is now before us.
+      He had previously been aligned with the Europeans and with Kiev, saying we must
+      have immediate unconditional ceasefire. And that was about to be imposed on Russia.
+      This summit was supposed to end in the signing off by Putin of such a ceasefire
+      and so forth. What we have now is Trump aligned with Putin in saying that that
+      is senseless, that is only provisional, it can be reversed, and what we need is
+      a genuine peace treaty. The difference is very great. The Ukrainians are doing
+      their best to confuse the general public about what the difference is and to suggest
+      that a genuine peace is only setting the stage for further Russian offensive against
+      them. The Europeans are trying to rope in Trump to the notion that when we have
+      this peace signed, that we need to have peacekeepers to enforce the peace. These
+      are absolute propaganda and lies. Then the point of Mr. Putin is: we have to resolve
+      the underlying issues behind this war and we have to remove the issues that separate
+      us and have caused conflict. And if you have that enshrined in a peace treaty,
+      there’s no need for peacekeepers, because there’s no conflict to break out again.
+      So this is where we are today, with Europe digging in their heels, finding any
+      logic, however impossible and possibly irrational it is, like what I just described,
+      that a peace treaty is only setting the stage for the next war. Well, this is
+      a very interesting interpretation of what peace treaties are about. Oh yes, when
+      you have peace treaties that are disastrous like Versailles, that’s true. But
+      if you have peace treaties designed with people of intelligence and compromise
+      and diplomacy and goodwill, then a peace treaty is a peace treaty. And you don’t
+      have to confuse it with a truce. So this has happened in the last 24 hours, and
+      it is illuminating. If I can just go one step further, I don’t want this to be
+      a lengthy talk here, a lecture. I want to say that we really, Glenn, we’re living
+      in a dark age. It’s very sad to say, but I listened to your interview yesterday
+      with the minister, the member of parliament, the German former UN official talking
+      about lack of respect, lack of diplomacy. Let me just change the term for this.
+      We’re living in the Dark Ages. This is a period of hate, a period of vile propaganda,
+      a period of impunity. And where those who have committed crimes, including high
+      crimes and treason, walk away without ever being brought to court and with no
+      fear that their crimes will be fully exposed and that they will pay for them.
+      This is where we are today, and it is terrible. I take it back in the United States
+      to Mr. Obama who never did anything about those guilty for the invasion of Iraq.
+      Though they all were sitting, Mr. Cheney was out there. Oh yes, my last comment
+      is on the first response of the British press and also some of the US press. How
+      do they respond to the warmth and cordiality of Mr. Trump’s reception of Putin?
+      11:23 Well, either that Mr. Trump is being played by Putin, which is peculiar,
+      since they hadn’t even met. The warmth and cordiality preceded the talks. As what
+      do they do, they remind us, hey, they’re meeting in Alaska because there are not
+      too many places where Mr. Putin and Trump can meet because, hey, remember that
+      Mr. Putin is an international, is a war criminal, a war criminal, and he has been
+      condemned by the International Court of Justice. Well, they pulled that one out
+      of the hat, in case any of us forgot, that complete miscarriage of justice over
+      the supposed kidnapping of thousands, or maybe it was several dozen Ukrainian
+      children who were in the middle of the war zone without parents or custodians.
+      Anyway, that’s my lengthy introduction to where we are today. Diesen: Well, you’re
+      right on the hate part and the rest for that sake, but the hate part is quite
+      interesting because during the Cold War, when we’re speaking to Stalin or Khrushchev
+      or anyone from the other side, there would nonetheless be some respect. You wouldn’t–
+      you would address them properly. You would have diplomacy. You would be able to
+      discuss what are the real security concerns? How might we be intensifying them?
+      How may we alleviate it? None of this exists today. 12:53 Instead, I get the sentiment
+      that you’re obliged to hate. The hate becomes a source of, it displays our morality.
+      So how can you meet a war criminal? I even had people from the military ask me,
+      how can you have diplomacy when someone has attacked another one? This is when
+      you have diplomacy. I mean, these are people who are in leadership position, and
+      they talk this excessive moralism, which makes it impossible to actually do any
+      good in the world by talking to the other side. But in terms of what seems as
+      a key achievement though, for the, I guess, achievement of peace would be that
+      Trump, he moved away, as you said, from the ceasefire, which doesn’t mean peace,
+      and moved towards addressing the root causes. And for me, this is interesting
+      because in Europe since the 1990s, we decided let’s create a new Europe organized
+      around the EU and NATO. Everyone should be part of it except for Russia. And also
+      Russia shouldn’t have a veto or say over what we do because they’re not part of
+      NATO. So essentially we created, institutionalized Russia’s exclusion from Europe,
+      and we kind of wished Russia away. But in reality, all you do is when you deny
+      Russia any voice in international institutions to defend its and represent its
+      security interest, the only thing to do is leave the military option as the only
+      one. And then by now creating the conditions for, well, only a ceasefire, then
+      we put peacekeepers or whatever you might call them there. It’s not going to work.
+      It’s just, it makes common sense. If you want to end the military conflict, you
+      have to open up a political one, institutions where the Russians can also sit
+      at the table and say, listen, you can’t put your missiles on our borders. We can’t
+      put them in Mexico. You can’t put them there and then find a common agreement.
+      This used to be common sense, but again, it used to be common sense to talk to
+      each other with basic respect and not criminalized diplomacy, but it does appear
+      to be a bygone thing. 15:07 But in terms of, yes, resolving the Ukraine issue
+      is quite important. And I think accepting the Russian premise that we have to
+      address the root causes is quite interesting. We kind of got that confirmed by
+      all the Europeans who are now in full panic. But what I thought was interesting
+      though is there appeared to be also a heavy focus on bilateralism. That is, Russia
+      and the US aren’t simply hostages to what happens in Europe. I was wondering how
+      you read into this focus on bilateral relations. Doctorow: Well, I’ll get to that
+      in one moment, but I want to go back to the hate issue and to the issue of respect,
+      the lack of respect that you’ve touched upon. Some time ago, when I was in regular
+      correspondence with Professor Stephen Cohen, he insisted to me when I was about
+      to write something regarding George Soros’s visit to Brussels and his inability
+      to remember anything on stage, I was about to mention the senility in my article.
+      And he cautioned me, this was 10 years ago, the man is still alive. He cautioned
+      me that ad hominem argumentation is really unacceptable in academic discourse.
+      I disagreed, and I continue to disagree. I, Russians of– you probably noticed,
+      since you spent good time there, they don’t believe in phrenology any more. They
+      don’t take the shape of somebody’s skull as meaning very much. I mean, the top
+      part, for example, or the back part, but they do take physiognomy very seriously.
+      They take facial expression very seriously. 16:58 And Americans, pretend it doesn’t
+      exist. Anybody who was following Dick Cheney must have understood the man was
+      mentally ill just by his crooked smile. But you couldn’t really speak about it
+      because that’s an ad-homonym remark I mean, but his smile, you know, finally,
+      unlike his nose or his ears, the smile is something you make. And it tells you
+      something about what’s behind the face. The Mogherini, she became mentally ill
+      in service. She became, you could see in her face the tension and she lost concentration.
+      She wasn’t up to the job. All right. I made my point that what can you say about
+      the descent of political culture in the West? We know about the United States
+      descent: never rose very high, with a few exceptions, but even from that medium
+      bar, it’s descended since the 1990s. In Europe, it’s collapsed, an intellectual
+      collapse. When I was growing up in the States, people said, “The British, oh,
+      they speak so well. They always have really upper-crust people running the government.”
+      You can’t say that now. They’ve had a succession of idiots, which they themselves,
+      which the City of London called out. When they threw out, was it Truss, I forget
+      who, who lasted like six weeks, lasted less time than iceberg lettuce. Because
+      she was intellectually incompetent. What can you say about Kallas? She’s a laughing
+      stock of Russia. What can you say about Annalena Baerbock? That Germany would
+      have in its cabinet, a moron like that, I mean she’s a moron, is unthinkable.
+      And so how can you look for respect, diplomacy, and the rest of it for people
+      who are savages, uneducated, no knowledge of anything, people who speak about
+      a 360-degree change of opinion? This is beneath contempt. I think we have to look
+      at the democratic processes that are putting these morons in power. Before we
+      can start saying, well, they see this or they don’t see that. This has to be reexamined.
+      Here in Belgium, we have very good political scientists who spend a lot of time
+      working, talking about electoral processes, because we have to: we have this crazy
+      situation of two nations under one roof, the Flemings and the Francophones. And
+      so they try to find very inventive, progressive solutions to these problems. 20:04
+      That kind of creativity has to be used more within Europe to find solutions to
+      bring out competent people to the floor. They are not there. And under those circumstances,
+      you have the crazy reaction to yesterday’s summit that we see on the front pages
+      of the European newspapers. They simply are not up to the challenge. I know you
+      have addressed in some of your recent programs this question about Europe becoming
+      geopolitically irrelevant because of the low level of political culture in present-day
+      Europe. There are no great people. There’s some brave people like Orban and Fico,
+      but there are no great people. I don’t mean to say that great people are always
+      wise people or likable people, but their intellectual capacities, their ability
+      to look at big picture issues, it’s not here today. So that’s, I’m sorry, now
+      that I’ve gone off on this tangent, I’ve lost the line of your question. Could
+      you just remind me? Diesen: Oh, no, I’ll, no, I wanted to move on and ask about
+      the focus on the bilateralism. But if I can just first, a quick comment on the
+      … interview I did with Mikael von der Schürrnberg yesterday, again, he’s not just
+      a member of the EU Parliament, but as Assistant Secretary General of the United
+      Nations, he spent 34 years in conflict zones. He didn’t live in Germany and fly
+      out. He resided there. He had houses. He lived in the conflict zones for 34 years.
+      And to now see him, you know, he saw hope in all of those areas, but in Europe
+      now he just seems gutted, like this may, there’s no, he doesn’t see any solutions,
+      because there’s no one addressing the problems. And I got that impression in this
+      country as well, if you criticize, because I’ve been told I criticize Europe a
+      lot, but yeah, I do. I think you criticize for course correction, but if you didn’t
+      like it, then you shouldn’t live here any more. I mean, this is the mentality.
+      If you like Europe, then you have to support all the policies of Kallas, Van der
+      Leyen and the rest of this insane asylum. Or also if you care about Ukraine, then
+      you’re just going to pump in more weapons, keep the war going. Even though I know
+      that this is just going to lead to the destruction of that nation. They’re never
+      going to be able to rebuild. They’re not going to have the territory, the people,
+      the infrastructure. I mean, that makes no sense. But this is the mentality in
+      Europe now. Just do as you’re told and support any insane policies. Otherwise
+      you’re on the enemy’s side. It’s just, it’s something — the whole reason has shut
+      down, I think. 22:56 Anyways, yeah, you know, I think the bilateralism was the
+      direction I was going. Well, this has been in the past, going back to the fall
+      of the Soviet Union, the bright new era that opened up in the 90s. I had colleagues
+      who were so enthusiastic about the opportunity for American-Russian friendship,
+      cooperation, strategic cooperation in all domains. For my take, well by the end
+      of the 90s, they were still saying that. And I was saying, my goodness, we’re
+      just lucky we’re not at one another’s throats at this moment. And you want to
+      be strategic allies? It just is unreasonable. But going back to what underpins
+      such strategic cooperation, sually business is part of it, and trade is part of
+      it. When Mr. Nixon did his detente with the Soviet Union, he was actively encouraging
+      American business executives to go there and do business, to trade, and to invest
+      in manufacturing capacity there. In the case– my understanding though, is that
+      this basis for bilateralism really doesn’t exist between the United States and
+      Russia. Their economies have never been complementary in the same way as Russian-European
+      relations were. The amount of trade done between the two countries never was very
+      big. It’s not that it fell from great heights. It never reached any heights, not
+      because of lack of will, but because the economics didn’t push people together
+      the way they pushed Germans and Russians together, for example, in energy supply
+      and raw material supply, which was something that Mr. Macron held out when he
+      was still thinking about Russia in positive terms. 25:07 So that very strong foundation
+      for genuine bilateralism doesn’t exist. And those who are calling out the project
+      of train, tunnel, bridge across the Bering Strait, these are toys. This is not
+      serious. That is not how to build a foundation for genuine bilateralism. The US
+      and Russians have interests in world governance, which should be enough to justify
+      decent relations and cooperation in many areas of security, global security. But
+      to build it out, they’re going to have cultural relations, they’re going to have
+      economic ties of a great magnitude — is unreasonable, looking at the basic conditions
+      for who produces what and who buys what. It’s not there. Still, as I said, the
+      geopolitical common interests should be sufficient for bilateralism. As for the
+      rest of the world, well, bilateralism does not exclude their both participating
+      in regional societies of trade and other interests, including technological interests.
+      It’s not an exclusive thing. Certainly Russia is not going to close the door on
+      BRICS for the sake of warm relations with the United States. As for Mr. Trump,
+      he’s busy closing the door on the world. So that question for him doesn’t exist.
+      Have I covered that? I mean, in the way that you expected, have I not answered
+      the question in the manner you looked for? Diesen: 27:11 Yeah. No, well, I think,
+      yeah, there’s of course limits to the economic participation. But as you said,
+      the geopolitical, the arms control, there’s a lot of other things to do. But even
+      with the economic sphere, I don’t think Russia’s going to shift away from BRICS.
+      I think this greater-Eurasia initiative they’re pursuing now which replaced their
+      goal of a Greater Europe, which included Russia, I think is very much permanent.
+      But the Russians do want, I guess, more of a balance of dependence. So you don’t
+      want excessive dependence on an actor like China, which is more powerful than
+      you, given that Russia will always be more dependent on China than China is on
+      Russia. They can’t be equal economies. But the asymmetry can be offset if they
+      just diversify, have more partners, don’t put all eggs in one basket. 28:04 And
+      I think from this perspective it would be in their interest to have better trade
+      relations with the US, also more predictability, I would say, which would be good
+      for both sides. But no, I think if the ambitions of Trump is for Russia to turn
+      its back on China, you know, I think it’s fantasy, it’s not going to happen. But
+      in terms of what can be learned from the summit in Alaska is, I guess one of the
+      reasons why more can be learned now as opposed to 24 hours ago is that a meeting
+      is going to be set up between Trump and Zelensky on Monday already if I’m not
+      mistaken, which is a few hours from now. But based on what they’re going to discuss,
+      do you know what this will be all about? And does it tell you anything about how
+      the meeting went between Putin and Trump? Doctorow: Well, the Europeans are counting
+      on, they’re preparing Zelensky for the meeting with Trump on the assumption that
+      if he’s properly programmed, he can avoid crossing sensitive points with Trump,
+      can avoid the kind of blow up that happened six months ago when they met in the
+      Oval Office, and that he can turn Trump around. After all, we all know that Putin
+      played Trump, that Trump was talking ceasefire, when he went to the summit; he
+      was talking peace treaty when he left the summit. So well, I could tell you again,
+      I think they’re missing the point. What Trump has only let out false information,
+      misleading information to keep his opponents off balance, to keep the press off
+      balance, without his being turned by anybody. 30:05 He’s only very gradually putting
+      into place what he surely had in mind before. This brings up the whole question,
+      what does he know? So many of my peers assume that he is a lightweight, that he
+      has no concentration, that he changes his opinion from day to day, and that he’s
+      ill-informed. When he repeats that the Russians have lost a million men or they’re
+      losing 30,000 a month, they’re saying, “Oh, you see, he’s being fed bad information
+      by his assistants.” I really am stunned by the lack of imagination of former CIA
+      analysts. It is depressing. Well, maybe it’s good news. It tells you the CIA doesn’t
+      really have much analytic talent at any given moment, which is, I don’t mean to
+      say that the whole institution is that way. But when I look at some of the analysts’
+      remarks, I’m stunned. To think that Trump would know less than they know is very
+      peculiar. I’m sure he knows it all. When he said Russia is a war machine, that
+      tells you the whole story. He doesn’t have to go into the figures, the killer
+      figures. He was repeating the rubbish that the press is talking about. Again,
+      to keep them off balance, to let them think that he thinks the way they do, when
+      it is most improbable that he thinks the way they do or that he has accepted any
+      of the rubbish reports on what the battlefield really looks like. So I think he
+      is well informed, I think he has his own course how this will go and that takes
+      us into the question that you just raised: what’s going to happen tomorrow? I
+      think that he will repeat what he has told Zelensky on the phone, that he has
+      adopted the position of the Russians with respect to how this war should end and
+      in what time. And that part of the war ending is Ukraine conceding once and for
+      all, not temporarily, probably de jure, that it has lost the Donbass and parts
+      of the other two regions that I mentioned, the part of new Russia that is Zaporozhzhya
+      and Kherson, and that it will not have an army above a certain force, and that
+      it will not be part of, enter NATO. When you look at the comments coming from
+      Europe, as recently as yesterday, that, “Oh, it’s just temporarily they can’t
+      enter NATO”, they’re not listening. They’re not listening to Trump. He has made
+      it clear: never. Then you’ve got the whole question of the “coalition of the willing”
+      readiness to put troops’ boots on the ground in Ukraine for the sake of protecting
+      Ukraine from further Russian aggression. I think that the news that the Europeans
+      have put out, that Trump is on board, though they don’t know to what extent the
+      United States will participate, I think that is fake news. I think they are trying
+      to, again, to entrap him, putting in his mouth words that he never spoke or, if
+      he spoke them, words that he never intended to implement, because his way of dealing
+      with his enemies is not, generally speaking, not to contradict them directly but
+      to say what they want to hear and then go off and do what he wants to do. So the
+      meeting tomorrow, I think, will be very tough for Mr. Zelensky. I think the Europeans
+      will not get any satisfaction out of it. And I imagine that Trump is setting up
+      the case for turning his back on Ukraine and the Europeans, when they show that
+      they are putting a monkey wrench into the works, as Mr. Putin said in his press
+      briefing after the summit. Diesen: 34:46 Yeah, well, there’s, I guess, two different
+      hypotheses in terms of Trump’s rhetoric, which is often shifting. And as you said,
+      the first one, which I hear, I guess most often is, you know, he’s uninformed,
+      doesn’t know what he’s saying, or he’s just stupid. But alternatively, as you
+      suggest, one also has to recognize the reality that he’s in a difficult spot though,
+      because he has to navigate between two positions which seemingly can’t be bridged.
+      On one side you have not just hostile allies in Europe, Zelensky and indeed the
+      Washington political establishment, which wants none of this at all, what he’s
+      trying to do. And on the other side, you have Russia with fairly high demands
+      in terms of what it wants in this peace agreement, given that this has been going
+      on unresolved now for 30 years. And it did remind me a bit about, I did an interview
+      with Fyodor Lukyanov. He’s got actually several positions. We used to work together
+      in same department in Moscow and well every year at the Valdai discussion club
+      he’s the one sitting next to Putin interviewing him. And he was making the point,
+      because I asked him, what do you make of Trump’s rhetoric shifting back and forth?
+      And he had a good point, though, which is, well, we have to see at what point
+      he starts, because Europeans, of course, they boycott all diplomacy. They don’t
+      want to talk to Russia. Zelensky, he ruled out talking to Russia. He wants no
+      negotiations, no diplomacy, just more weapons. Anything else is unacceptable.
+      But he was making a point. Well, just look at the gradual steps. And now two months
+      down the road, you have in France, they’re now discussing whether or not they
+      should reopen diplomacy with Russia. You’re having Zelensky. Yeah, well, he’s
+      sending his team. They’re meeting with the Russians, talking. They’re looking
+      for a way to resolve this. So there has to be a step by step. So it’s, I mean,
+      maybe it’s a bit of both. Maybe some of the information Trump isn’t really on
+      top of, But I think ignoring, as you say, ignoring this difficult positions between
+      demanding Russians and very unflexible and demanding Europeans and Zelensky that
+      he has to navigate the space, I’m not sure. But also I’ve heard another theory
+      that, well, which I also see as probable, that the United States isn’t necessarily
+      that eager to give up all containment of Russia, but they rather want to outsource
+      it to the Europeans. I was wondering what you thought about this. Doctorow: 37:37
+      Well, this would have been certainly a good interpretation before Mr. Trump and
+      his associates gutted the CIA, gutted the National Foundation of Democracy, before
+      they took all the bad guys that they could find out of the federal government.
+      I don’t know who is continuing this type of intervention, neocon intervention.
+      Maybe it’s just the Soros foundation or similar organizations. Certainly, the
+      Brits are deep in this, probably much more responsible for any of these nefarious
+      developments than the Americans are. The problem with Trump, and which puts me
+      in an awkward position is the sharp contrast between what he is doing as a peacemaker
+      in Ukraine and what he is doing as an enabler of genocide in Gaza. When I listened,
+      I think it was Politico, it was being interviewed this morning by the BBC about
+      Mr. Trump as a peacemaker and how it pains him to hear about people being killed
+      in war. What can I say? That is not the Trump that I am an apologist for, so to
+      speak. I am in favor of what he’s doing in Ukraine. I believe it is well planned
+      that he has very able assistance, in Steve Witkoff, to keep him in line, to keep
+      his thinking solid. But of course, he is working with the same Witkoff doing this
+      very, very nasty cooperation with Netanyahu’s government in genocide. So it’s
+      a mixed picture, a very mixed picture. But to think that he shifts from day to
+      day, well, I can’t abide that. There is clearly a very heavy commitment of that
+      man to find a peace in Ukraine, not because he loves peace and is worried about
+      people being killed, but because of much bigger things, how he wants to reshape
+      global geopolitics. And yes, of course, you’re right. The idea of separating Russia
+      from China is an idee fixe of many people in his circle, starting with Rubio,
+      his secretary of state. So that is certainly guiding his attention to Russia and
+      his attempts to deal diplomatically and cordially with Mr. Putin. Diesen: 40:43
+      I think Russia would have been more vulnerable to be swayed by this earlier, because
+      from ’94 when they established the OSCE, they thought, okay, now finally we have
+      an inclusive Europe. And then came 1999 with the NATO expansion. And then they
+      always tried to find an agreement. Under Medvedev in 2008, they had this proposal
+      for a new European security architecture in 2010. Putin pushed forward this idea
+      of a EU-Russia union, and all the way up to 2014. But 2014, I think this is when
+      things began to break and they began to shift from greater Europe to greater Eurasia.
+      However, yeah, in 2022, I think that sealed the deal for certain. But if this
+      would have been back in 2008, 2007, eight, well, seven, when Putin made that speech
+      at Munich, I think that was kind of the last chance to accept, including Russia
+      into this Europe they were building. I think it’s just too late at this point.
+      They also don’t see a future in Europe, although this is the important thing as
+      well. It’s not only to see Europe as hostile and stagnant, but also the Russians
+      have less historical baggage in Asia and there’s more giants there. They’re not
+      feared or hated as much. And economies are better. It’s hard to argue against.
+      If you take the point of departure, what is in Russia’s interest, it kind of makes
+      sense why they’re not really looking to Europe any more. Doctorow: 42:32 Let’s
+      not speak about Europe. Let’s speak about who runs Europe. Who runs Europe is
+      Germany. And the responsibility for this lost opportunity I put directly at the
+      door of Angela Merkel in 2008. You have mentioned the Medvedev initiative. I followed
+      that very closely when it was made. It was very badly prepared by the Russians.
+      Mr. Lavrov made an attempt to revive that after it was cursorily dismissed by
+      Merkel, to breathe some life into it because the text that Medvedev released,
+      and I think he released it on social media, he was trying to be very, very “with
+      it”, very up to date. America still had public diplomacy as a flag they were flying,
+      and he used that. Anyway, it was badly done. Nonetheless, she dismissed it out
+      of hand. “We have security done. It’s called NATO. Don’t bother us.” And that
+      was a disastrous, lost opportunity because Mr. Medvedev say he was the stand-in
+      for Putin, but he was the president. And he didn’t have “stand-in here” across
+      his chest. He could do something and sign something and negotiate something. And
+      everyone said, “Oh, Merkel, she speaks Russian. She gets on with them. She is
+      the intercessor with the Russians” and so on. She hated the Russians from her
+      childhood, obviously. And she was dismissive of them in the most crude way. When
+      in 2012 she ended all talk about visa-free travel saying they just– “We’re not
+      going to let those crooks into our country”, as if every Russian was an oligarch.
+      And those thieving oligarchs all got into the country anyway, but normal citizens
+      were not able to. She was the point of departure for where we are today. I say
+      that because she had control of the appointment of the president of the Commission.
+      Wienker was put in at her suggestion because he was manageable, in the usual sense.
+      That’s to say they had the goods on him. So he was under her control. The parliament,
+      the European parliament, was under her control effectively because the European
+      People’s Party even back then, in circa 2015, had complete control of the European
+      Parliament. And she missed the opportunity. The German, why? It wasn’t an accident.
+      Because Germany had done a switch. Germany was no longer interested in the East.
+      Germany was interested in Mittel Europa. Germany had found very good colonies
+      in Poland and the Czech Republic for very cheap labor to facilitate its export
+      industry of manufactured goods. They never put in to the, particularly in Poland,
+      complete cycle production. They put in “bits and parts” production. So the Poles
+      had nothing, the Germans had everything. They had all the profit coming from the
+      exports. 46:03 And given that the economic interests of Germany, the number of
+      Germans employed, thanks to Mittel Europa, no doubt many times exceeded the 400,000
+      Germans in 2015 who were said to owe their jobs to the Russian trade, Germany
+      economically decided, the Mittelstand decided that the Mittel Europa friends within
+      the former Soviet bloc were more valuable to them than good relations with Russia.
+      And it so happened that those countries, Poland and the Baltics, they’re Russian-hating.
+      And Germany joined the Russian-hating gang. So, I say we can talk about Europe’s
+      mistakes, but I think we’re missing the point. We’re missing the point today,
+      considering where Mr. Merz is. He didn’t come from nowhere. He’s in direct line
+      of this German turn against Russia. He’s an aggravated case. He’s an ugly case,
+      but it’s the same line that you can find in 2008, and still better in 2014 with
+      the Minsk Accords, to which she was a party. She was anti-Russian, and she and
+      Germany controlled the European institutions. Diesen: Yeah, just as we said, the
+      2008 proposal by Medvedev for new European security architecture, It didn’t actually
+      call for replacing NATO or disbanding NATO. It recognized solely that we need
+      a wider pan-European umbrella over this because NATO is a military block. It has
+      zero-sum security. It does not subscribe to indivisible security. So in order
+      not to end up in a situation where the borderline states, be it Ukraine, Moldova,
+      Georgia, have to choose between East and West and we rip up the society and pull
+      them in each direction that we have some common security architecture so we don’t
+      end up that everything is zero sum. This was it, and they poured cold water on
+      it. Doctorow: They poured cold water on him. And this was a terrible mistake.
+      They didn’t have good Russian knowledge. They should have understood that this
+      is the most optimistic, sunny man running Russia for, I don’t know, 200 years.
+      There was no one like Medvedev. He was very well disposed to the West. He was
+      a very outgoing person. And to confuse him with Medvedev today is a tremendous
+      mistake. He was a potential good friend of Europe. And they spurned him. They
+      humiliated him. Diesen: 48:47 Yeah, Now I remember then when I lived in Russia,
+      the way they talked about him, “Ah, he’s weak, blah, blah, blah.” You know, he
+      put himself out there and they humiliated him. So again, it’s indistinguishable
+      from the Medvedev you see today though has become, I guess, learned from his past
+      and become very hawkish. My last question, though, was just, I guess, is a smaller
+      question. What do you make sense of the meeting which took place in Alaska? Is
+      this, as some have suggested, just to get as far away from Europe as possible,
+      unburdened by this conflict? Doctorow: No, I think that Trump was advised, I don’t
+      think that he initiated this, but certainly got very clever advisors who did,
+      for symbolism, so many elements of symbolism, taking Alaska. Some of them have
+      been called out, including by Putin at the press briefing after the summit. But
+      others which have not been called out generally, as I said the first thing that
+      I wanted to call out is that it was bought. And it could be a model for how to
+      end the Ukraine War if somebody would like to take it up, but it seems like nobody
+      does. 50:08 And the other thing is that despite its [being] outside of Russian
+      control since 1857– I think that was the year of the purchase, the Seward Purchase–
+      there is a lively Russian community there, including the patriarch, sorry, the
+      Metropolit, whom Putin met yesterday to give him two icons from Moscow, and the
+      how many communities that are, Orthodox church communities, in Alaska, with mostly
+      Eskimos in there as congregants, Inuits it is, properly speaking. And the physical
+      proximity, to remind everyone that Russia and the United States are not separated
+      by oceans, but are separated by four kilometers of sea. The two islands that they
+      both hold in the middle of the Bering Strait. This is important. It also would
+      be, as it is on American soil, it’s the possibilities of wiretapping. “Wiretapping”,
+      it’s an old-fashioned term. Simply of snooping on the exchanges if it were taking
+      place in the United Arab Emirates or Saudi Arabia. Let’s not kid ourselves, it
+      must be bugged like hell. And if they want to have complete confidentiality, until
+      of course, they pass the bomb to Macron for what they decided, when it confidentially
+      ended. Nonetheless, if they wanted to have a few moments of confidentiality, it
+      was best assured of the United States. It also gave Mr. Trump the opportunity
+      to have a B-2 fly over them. Just to remind Mr. Putin, in case he forgot, the
+      Americans do have a little bit of military technology out there. So in many respects,
+      it was very convenient. 52:14 Also, the issue of flight rights, if it were to
+      be in some places, it would be difficult for the Russians to get the flight passage
+      authorization. Here there was no issue of the sort. They just flew over their
+      own territory till they flew into American air space. These were reasons. Of course,
+      the opportunity for Putin to pay his respects to the nine Soviet Russian airmen
+      whose tombs are just near that base and whom he visited after the summit. All
+      of these are very important, symbolically, and to separate it from all other meetings
+      that have been had and will be had as the negotiation and the war continues. Diesen:
+      53:19 Yeah, whenever the Russians want to reach out to the Americans, they usually
+      point out the shared war effort in the Second World War. But I guess this could
+      be also a positive one, that they have this shared cultural heritage found in
+      Alaska. The fact that it was also purchased in 1867 after the Civil War as opposed
+      to taken by force, it makes it easier to celebrate a common heritage there as
+      opposed to if it would have shifted hands in a more brutal manner. But yeah, I
+      don’t know. I thought it did take me by surprise. I had my money on United Arab
+      Emirates or Saudi Arabia. So I, yeah, I was mistaken on this. Gilbert, Doctorow,
+      thank you so much for your time. Doctorow: 54:11 Thanks for inviting me.'
+    one_sentence_summary: The article discusses the recent meeting between Trump and
+      Putin in Alaska, highlighting the mixed reactions it has generated, from optimism
+      to panic, amidst a backdrop of Western diplomatic isolation of Russia over the
+      past three and a half years.
+    paragraph_summary: In a recent discussion, historian Gilbert Doktorow analyzed the
+      significant meeting between Presidents Trump and Putin in Alaska, marking a notable
+      shift in diplomatic relations after years of Western efforts to isolate Russia
+      following its military actions in Ukraine. The summit elicited mixed reactions,
+      ranging from optimism to panic, particularly in Europe, as media narratives often
+      frame Trump as weak unless he adopts a tough stance against Russia, which some
+      argue prolongs the conflict. Doktorow emphasized the importance of the summit,
+      noting that while initial press briefings provided little clarity on the agreements
+      reached, subsequent developments hinted at a potential rapprochement between the
+      two nations.
+    published: '2025-08-18T13:42:34+00:00'
+  - title: Transcript of conversation with Glenn Diesen, 17 August 2025
+    url: https://gilbertdoctorow.com/2025/08/18/transcript-of-conversation-with-glenn-diesen-17-august-2025/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=tyzGNH5vO0g
+      Diesen: Hi everyone and welcome back. We are joined today by Gilbert Doktorow,
+      historian and international affairs analyst and author of books such as “War Diaries
+      – the Russia-Ukraine War”. And yeah, thank you for coming back on the program.
+      Doctorow: My pleasure. Diesen So, yeah, the big news obviously is the Trump and
+      Putin meeting in Alaska. And, yeah, after three and a half years since Russia
+      launched its a special military operation, well, most of this time, the West boycotted
+      diplomacy in an effort to isolate Russia. We now had a meeting between the Russian
+      and American president. And the immediate reactions of course have ranged from
+      extreme optimism to utter panic, especially then in Europe. And well, the media
+      especially is hostile to their diplomatic efforts. And there’s been these efforts
+      to portray Trump as weak unless he is tough on Russia, which is usually what we
+      demand of all politicians, which effectively translates into prolonging the war,
+      I think. But again, it’s an important summit. And I wanted to ask you, what are
+      your main takeaways from this summit? Doctorow: 1:20 Well, if we had this discussion
+      24 hours ago, I would be at a loss to say something that my peers had not already
+      said, because everybody had a microphone in front of them in the minutes following
+      the closing of the conversation. But since we are speaking today, a lot of fresh
+      news has come in, which I hope we can go through, because it answers the question
+      that immediately came up following the press briefings– so I think it was 12 minutes,
+      15 minutes, it was very short– that took place immediately following the summit
+      talks in Anchorage. The question that arose was what did the Russians and the
+      Americans agree on? Because Mr. Putin said, yes, we’ve come closer to solving
+      the problem. Well, how did they come closer? It was not– there was no information
+      given out by either party in the minutes following the summit. And all of that
+      has come out both by intent and by a subversive release to the press by people,
+      I’m sure, like Macron. He couldn’t possibly resist the temptation to call reporters
+      in to show how much he knew that was of interest to them. What I’m saying is that
+      the basic agreements that Trump and Putin made have come out in the last 24 hours.
+      The first shoe to drop was soon afterwards and the most important information
+      only came out I would guess in the middle of the night or early this morning.
+      The last and very important information I read extensively reported in the “Financial
+      Times”, their online edition this morning, talking about the territorial issue,
+      specifically saying that Putin had proposed that Russia would receive or should
+      receive all of the territory of the Donbass, that is, of the two oblasts of Donetsk
+      and Lugansk, and that it would compromise on the other two, the other two oblasts
+      which form the new Russia and these are Zaporozhzhia and Kherson. In those two
+      last two oblasts or regions, Russia would agree to a freeze at the line of confrontation.
+      In the first two, strictly speaking Donbass, Donetsk and Lugansk, they would insist
+      that Ukraine would withdraw completely from those territories, so that Russia
+      would receive now a territory that it had not conquered. Our lying press has said,
+      ah yes, the Russians only hold about 50% of the territory they’re now demanding
+      be turned over. First of all, out of the two oblasts, the Russians have 98%, maybe
+      99% of Lugansk. Lugansk was the easiest for them to recapture; from the very first
+      days of the Special Military Operation, that was the case. With respect to Donetsk,
+      before this summer offensive got underway, the Russians had about 50% of that.
+      Now they have 70%. So from the get-go, what our CNN and BBC are telling us is
+      fabricated. The concession is one of time, time and lives, because it is apparent
+      to anybody with military knowledge that the Russians will take the whole of Donbas
+      in a matter of weeks. The story coming out of Kiev is that by giving up Slavyansk
+      and Kramatorsk– these are fortified towns between the present line of confrontation
+      around Pokrovsk to the east and the Dnieper River– Ukraine would be giving up
+      its ability to resist a further Russian onslaught across the Dnieper into the
+      rest of Ukraine. Well, this is the same lies and fabrication that have been behind
+      the Ukrainian story, which was repeated endlessly by the United States and the
+      European allies over the last three years. I think most of us who have our brains
+      screwed in right understand that Russia would never willingly take any Ukrainian
+      territory in West Ukraine, because that would be really an occupation and not
+      a governance, and they would expect a lot of difficulty ruling that area. 6:34
+      So the whole story of what the Russians want is now clear. The other, smaller
+      issue which came out, which is the first shoe to drop, which I didn’t mention
+      a moment ago, was that Mr. Trump announced he had switched his view, and essentially
+      he’s aligned with Vladimir Putin, on what sort of an agreement is now before us.
+      He had previously been aligned with the Europeans and with Kiev, saying we must
+      have immediate unconditional ceasefire. And that was about to be imposed on Russia.
+      This summit was supposed to end in the signing off by Putin of such a ceasefire
+      and so forth. What we have now is Trump aligned with Putin in saying that that
+      is senseless, that is only provisional, it can be reversed, and what we need is
+      a genuine peace treaty. The difference is very great. The Ukrainians are doing
+      their best to confuse the general public about what the difference is and to suggest
+      that a genuine peace is only setting the stage for further Russian offensive against
+      them. The Europeans are trying to rope in Trump to the notion that when we have
+      this peace signed, that we need to have peacekeepers to enforce the peace. These
+      are absolute propaganda and lies. Then the point of Mr. Putin is: we have to resolve
+      the underlying issues behind this war and we have to remove the issues that separate
+      us and have caused conflict. And if you have that enshrined in a peace treaty,
+      there’s no need for peacekeepers, because there’s no conflict to break out again.
+      So this is where we are today, with Europe digging in their heels, finding any
+      logic, however impossible and possibly irrational it is, like what I just described,
+      that a peace treaty is only setting the stage for the next war. Well, this is
+      a very interesting interpretation of what peace treaties are about. Oh yes, when
+      you have peace treaties that are disastrous like Versailles, that’s true. But
+      if you have peace treaties designed with people of intelligence and compromise
+      and diplomacy and goodwill, then a peace treaty is a peace treaty. And you don’t
+      have to confuse it with a truce. So this has happened in the last 24 hours, and
+      it is illuminating. If I can just go one step further, I don’t want this to be
+      a lengthy talk here, a lecture. I want to say that we really, Glenn, we’re living
+      in a dark age. It’s very sad to say, but I listened to your interview yesterday
+      with the minister, the member of parliament, the German former UN official talking
+      about lack of respect, lack of diplomacy. Let me just change the term for this.
+      We’re living in the Dark Ages. This is a period of hate, a period of vile propaganda,
+      a period of impunity. And where those who have committed crimes, including high
+      crimes and treason, walk away without ever being brought to court and with no
+      fear that their crimes will be fully exposed and that they will pay for them.
+      This is where we are today, and it is terrible. I take it back in the United States
+      to Mr. Obama who never did anything about those guilty for the invasion of Iraq.
+      Though they all were sitting, Mr. Cheney was out there. Oh yes, my last comment
+      is on the first response of the British press and also some of the US press. How
+      do they respond to the warmth and cordiality of Mr. Trump’s reception of Putin?
+      11:23 Well, either that Mr. Trump is being played by Putin, which is peculiar,
+      since they hadn’t even met. The warmth and cordiality preceded the talks. As what
+      do they do, they remind us, hey, they’re meeting in Alaska because there are not
+      too many places where Mr. Putin and Trump can meet because, hey, remember that
+      Mr. Putin is an international, is a war criminal, a war criminal, and he has been
+      condemned by the International Court of Justice. Well, they pulled that one out
+      of the hat, in case any of us forgot, that complete miscarriage of justice over
+      the supposed kidnapping of thousands, or maybe it was several dozen Ukrainian
+      children who were in the middle of the war zone without parents or custodians.
+      Anyway, that’s my lengthy introduction to where we are today. Diesen: Well, you’re
+      right on the hate part and the rest for that sake, but the hate part is quite
+      interesting because during the Cold War, when we’re speaking to Stalin or Khrushchev
+      or anyone from the other side, there would nonetheless be some respect. You wouldn’t–
+      you would address them properly. You would have diplomacy. You would be able to
+      discuss what are the real security concerns? How might we be intensifying them?
+      How may we alleviate it? None of this exists today. 12:53 Instead, I get the sentiment
+      that you’re obliged to hate. The hate becomes a source of, it displays our morality.
+      So how can you meet a war criminal? I even had people from the military ask me,
+      how can you have diplomacy when someone has attacked another one? This is when
+      you have diplomacy. I mean, these are people who are in leadership position, and
+      they talk this excessive moralism, which makes it impossible to actually do any
+      good in the world by talking to the other side. But in terms of what seems as
+      a key achievement though, for the, I guess, achievement of peace would be that
+      Trump, he moved away, as you said, from the ceasefire, which doesn’t mean peace,
+      and moved towards addressing the root causes. And for me, this is interesting
+      because in Europe since the 1990s, we decided let’s create a new Europe organized
+      around the EU and NATO. Everyone should be part of it except for Russia. And also
+      Russia shouldn’t have a veto or say over what we do because they’re not part of
+      NATO. So essentially we created, institutionalized Russia’s exclusion from Europe,
+      and we kind of wished Russia away. But in reality, all you do is when you deny
+      Russia any voice in international institutions to defend its and represent its
+      security interest, the only thing to do is leave the military option as the only
+      one. And then by now creating the conditions for, well, only a ceasefire, then
+      we put peacekeepers or whatever you might call them there. It’s not going to work.
+      It’s just, it makes common sense. If you want to end the military conflict, you
+      have to open up a political one, institutions where the Russians can also sit
+      at the table and say, listen, you can’t put your missiles on our borders. We can’t
+      put them in Mexico. You can’t put them there and then find a common agreement.
+      This used to be common sense, but again, it used to be common sense to talk to
+      each other with basic respect and not criminalized diplomacy, but it does appear
+      to be a bygone thing. 15:07 But in terms of, yes, resolving the Ukraine issue
+      is quite important. And I think accepting the Russian premise that we have to
+      address the root causes is quite interesting. We kind of got that confirmed by
+      all the Europeans who are now in full panic. But what I thought was interesting
+      though is there appeared to be also a heavy focus on bilateralism. That is, Russia
+      and the US aren’t simply hostages to what happens in Europe. I was wondering how
+      you read into this focus on bilateral relations. Doctorow: Well, I’ll get to that
+      in one moment, but I want to go back to the hate issue and to the issue of respect,
+      the lack of respect that you’ve touched upon. Some time ago, when I was in regular
+      correspondence with Professor Stephen Cohen, he insisted to me when I was about
+      to write something regarding George Soros’s visit to Brussels and his inability
+      to remember anything on stage, I was about to mention the senility in my article.
+      And he cautioned me, this was 10 years ago, the man is still alive. He cautioned
+      me that ad hominem argumentation is really unacceptable in academic discourse.
+      I disagreed, and I continue to disagree. I, Russians of– you probably noticed,
+      since you spent good time there, they don’t believe in phrenology any more. They
+      don’t take the shape of somebody’s skull as meaning very much. I mean, the top
+      part, for example, or the back part, but they do take physiognomy very seriously.
+      They take facial expression very seriously. 16:58 And Americans, pretend it doesn’t
+      exist. Anybody who was following Dick Cheney must have understood the man was
+      mentally ill just by his crooked smile. But you couldn’t really speak about it
+      because that’s an ad-homonym remark I mean, but his smile, you know, finally,
+      unlike his nose or his ears, the smile is something you make. And it tells you
+      something about what’s behind the face. The Mogherini, she became mentally ill
+      in service. She became, you could see in her face the tension and she lost concentration.
+      She wasn’t up to the job. All right. I made my point that what can you say about
+      the descent of political culture in the West? We know about the United States
+      descent: never rose very high, with a few exceptions, but even from that medium
+      bar, it’s descended since the 1990s. In Europe, it’s collapsed, an intellectual
+      collapse. When I was growing up in the States, people said, “The British, oh,
+      they speak so well. They always have really upper-crust people running the government.”
+      You can’t say that now. They’ve had a succession of idiots, which they themselves,
+      which the City of London called out. When they threw out, was it Truss, I forget
+      who, who lasted like six weeks, lasted less time than iceberg lettuce. Because
+      she was intellectually incompetent. What can you say about Kallas? She’s a laughing
+      stock of Russia. What can you say about Annalena Baerbock? That Germany would
+      have in its cabinet, a moron like that, I mean she’s a moron, is unthinkable.
+      And so how can you look for respect, diplomacy, and the rest of it for people
+      who are savages, uneducated, no knowledge of anything, people who speak about
+      a 360-degree change of opinion? This is beneath contempt. I think we have to look
+      at the democratic processes that are putting these morons in power. Before we
+      can start saying, well, they see this or they don’t see that. This has to be reexamined.
+      Here in Belgium, we have very good political scientists who spend a lot of time
+      working, talking about electoral processes, because we have to: we have this crazy
+      situation of two nations under one roof, the Flemings and the Francophones. And
+      so they try to find very inventive, progressive solutions to these problems. 20:04
+      That kind of creativity has to be used more within Europe to find solutions to
+      bring out competent people to the floor. They are not there. And under those circumstances,
+      you have the crazy reaction to yesterday’s summit that we see on the front pages
+      of the European newspapers. They simply are not up to the challenge. I know you
+      have addressed in some of your recent programs this question about Europe becoming
+      geopolitically irrelevant because of the low level of political culture in present-day
+      Europe. There are no great people. There’s some brave people like Orban and Fico,
+      but there are no great people. I don’t mean to say that great people are always
+      wise people or likable people, but their intellectual capacities, their ability
+      to look at big picture issues, it’s not here today. So that’s, I’m sorry, now
+      that I’ve gone off on this tangent, I’ve lost the line of your question. Could
+      you just remind me? Diesen: Oh, no, I’ll, no, I wanted to move on and ask about
+      the focus on the bilateralism. But if I can just first, a quick comment on the
+      … interview I did with Mikael von der Schürrnberg yesterday, again, he’s not just
+      a member of the EU Parliament, but as Assistant Secretary General of the United
+      Nations, he spent 34 years in conflict zones. He didn’t live in Germany and fly
+      out. He resided there. He had houses. He lived in the conflict zones for 34 years.
+      And to now see him, you know, he saw hope in all of those areas, but in Europe
+      now he just seems gutted, like this may, there’s no, he doesn’t see any solutions,
+      because there’s no one addressing the problems. And I got that impression in this
+      country as well, if you criticize, because I’ve been told I criticize Europe a
+      lot, but yeah, I do. I think you criticize for course correction, but if you didn’t
+      like it, then you shouldn’t live here any more. I mean, this is the mentality.
+      If you like Europe, then you have to support all the policies of Kallas, Van der
+      Leyen and the rest of this insane asylum. Or also if you care about Ukraine, then
+      you’re just going to pump in more weapons, keep the war going. Even though I know
+      that this is just going to lead to the destruction of that nation. They’re never
+      going to be able to rebuild. They’re not going to have the territory, the people,
+      the infrastructure. I mean, that makes no sense. But this is the mentality in
+      Europe now. Just do as you’re told and support any insane policies. Otherwise
+      you’re on the enemy’s side. It’s just, it’s something — the whole reason has shut
+      down, I think. 22:56 Anyways, yeah, you know, I think the bilateralism was the
+      direction I was going. Well, this has been in the past, going back to the fall
+      of the Soviet Union, the bright new era that opened up in the 90s. I had colleagues
+      who were so enthusiastic about the opportunity for American-Russian friendship,
+      cooperation, strategic cooperation in all domains. For my take, well by the end
+      of the 90s, they were still saying that. And I was saying, my goodness, we’re
+      just lucky we’re not at one another’s throats at this moment. And you want to
+      be strategic allies? It just is unreasonable. But going back to what underpins
+      such strategic cooperation, sually business is part of it, and trade is part of
+      it. When Mr. Nixon did his detente with the Soviet Union, he was actively encouraging
+      American business executives to go there and do business, to trade, and to invest
+      in manufacturing capacity there. In the case– my understanding though, is that
+      this basis for bilateralism really doesn’t exist between the United States and
+      Russia. Their economies have never been complementary in the same way as Russian-European
+      relations were. The amount of trade done between the two countries never was very
+      big. It’s not that it fell from great heights. It never reached any heights, not
+      because of lack of will, but because the economics didn’t push people together
+      the way they pushed Germans and Russians together, for example, in energy supply
+      and raw material supply, which was something that Mr. Macron held out when he
+      was still thinking about Russia in positive terms. 25:07 So that very strong foundation
+      for genuine bilateralism doesn’t exist. And those who are calling out the project
+      of train, tunnel, bridge across the Bering Strait, these are toys. This is not
+      serious. That is not how to build a foundation for genuine bilateralism. The US
+      and Russians have interests in world governance, which should be enough to justify
+      decent relations and cooperation in many areas of security, global security. But
+      to build it out, they’re going to have cultural relations, they’re going to have
+      economic ties of a great magnitude — is unreasonable, looking at the basic conditions
+      for who produces what and who buys what. It’s not there. Still, as I said, the
+      geopolitical common interests should be sufficient for bilateralism. As for the
+      rest of the world, well, bilateralism does not exclude their both participating
+      in regional societies of trade and other interests, including technological interests.
+      It’s not an exclusive thing. Certainly Russia is not going to close the door on
+      BRICS for the sake of warm relations with the United States. As for Mr. Trump,
+      he’s busy closing the door on the world. So that question for him doesn’t exist.
+      Have I covered that? I mean, in the way that you expected, have I not answered
+      the question in the manner you looked for? Diesen: 27:11 Yeah. No, well, I think,
+      yeah, there’s of course limits to the economic participation. But as you said,
+      the geopolitical, the arms control, there’s a lot of other things to do. But even
+      with the economic sphere, I don’t think Russia’s going to shift away from BRICS.
+      I think this greater-Eurasia initiative they’re pursuing now which replaced their
+      goal of a Greater Europe, which included Russia, I think is very much permanent.
+      But the Russians do want, I guess, more of a balance of dependence. So you don’t
+      want excessive dependence on an actor like China, which is more powerful than
+      you, given that Russia will always be more dependent on China than China is on
+      Russia. They can’t be equal economies. But the asymmetry can be offset if they
+      just diversify, have more partners, don’t put all eggs in one basket. 28:04 And
+      I think from this perspective it would be in their interest to have better trade
+      relations with the US, also more predictability, I would say, which would be good
+      for both sides. But no, I think if the ambitions of Trump is for Russia to turn
+      its back on China, you know, I think it’s fantasy, it’s not going to happen. But
+      in terms of what can be learned from the summit in Alaska is, I guess one of the
+      reasons why more can be learned now as opposed to 24 hours ago is that a meeting
+      is going to be set up between Trump and Zelensky on Monday already if I’m not
+      mistaken, which is a few hours from now. But based on what they’re going to discuss,
+      do you know what this will be all about? And does it tell you anything about how
+      the meeting went between Putin and Trump? Doctorow: Well, the Europeans are counting
+      on, they’re preparing Zelensky for the meeting with Trump on the assumption that
+      if he’s properly programmed, he can avoid crossing sensitive points with Trump,
+      can avoid the kind of blow up that happened six months ago when they met in the
+      Oval Office, and that he can turn Trump around. After all, we all know that Putin
+      played Trump, that Trump was talking ceasefire, when he went to the summit; he
+      was talking peace treaty when he left the summit. So well, I could tell you again,
+      I think they’re missing the point. What Trump has only let out false information,
+      misleading information to keep his opponents off balance, to keep the press off
+      balance, without his being turned by anybody. 30:05 He’s only very gradually putting
+      into place what he surely had in mind before. This brings up the whole question,
+      what does he know? So many of my peers assume that he is a lightweight, that he
+      has no concentration, that he changes his opinion from day to day, and that he’s
+      ill-informed. When he repeats that the Russians have lost a million men or they’re
+      losing 30,000 a month, they’re saying, “Oh, you see, he’s being fed bad information
+      by his assistants.” I really am stunned by the lack of imagination of former CIA
+      analysts. It is depressing. Well, maybe it’s good news. It tells you the CIA doesn’t
+      really have much analytic talent at any given moment, which is, I don’t mean to
+      say that the whole institution is that way. But when I look at some of the analysts’
+      remarks, I’m stunned. To think that Trump would know less than they know is very
+      peculiar. I’m sure he knows it all. When he said Russia is a war machine, that
+      tells you the whole story. He doesn’t have to go into the figures, the killer
+      figures. He was repeating the rubbish that the press is talking about. Again,
+      to keep them off balance, to let them think that he thinks the way they do, when
+      it is most improbable that he thinks the way they do or that he has accepted any
+      of the rubbish reports on what the battlefield really looks like. So I think he
+      is well informed, I think he has his own course how this will go and that takes
+      us into the question that you just raised: what’s going to happen tomorrow? I
+      think that he will repeat what he has told Zelensky on the phone, that he has
+      adopted the position of the Russians with respect to how this war should end and
+      in what time. And that part of the war ending is Ukraine conceding once and for
+      all, not temporarily, probably de jure, that it has lost the Donbass and parts
+      of the other two regions that I mentioned, the part of new Russia that is Zaporozhzhya
+      and Kherson, and that it will not have an army above a certain force, and that
+      it will not be part of, enter NATO. When you look at the comments coming from
+      Europe, as recently as yesterday, that, “Oh, it’s just temporarily they can’t
+      enter NATO”, they’re not listening. They’re not listening to Trump. He has made
+      it clear: never. Then you’ve got the whole question of the “coalition of the willing”
+      readiness to put troops’ boots on the ground in Ukraine for the sake of protecting
+      Ukraine from further Russian aggression. I think that the news that the Europeans
+      have put out, that Trump is on board, though they don’t know to what extent the
+      United States will participate, I think that is fake news. I think they are trying
+      to, again, to entrap him, putting in his mouth words that he never spoke or, if
+      he spoke them, words that he never intended to implement, because his way of dealing
+      with his enemies is not, generally speaking, not to contradict them directly but
+      to say what they want to hear and then go off and do what he wants to do. So the
+      meeting tomorrow, I think, will be very tough for Mr. Zelensky. I think the Europeans
+      will not get any satisfaction out of it. And I imagine that Trump is setting up
+      the case for turning his back on Ukraine and the Europeans, when they show that
+      they are putting a monkey wrench into the works, as Mr. Putin said in his press
+      briefing after the summit. Diesen: 34:46 Yeah, well, there’s, I guess, two different
+      hypotheses in terms of Trump’s rhetoric, which is often shifting. And as you said,
+      the first one, which I hear, I guess most often is, you know, he’s uninformed,
+      doesn’t know what he’s saying, or he’s just stupid. But alternatively, as you
+      suggest, one also has to recognize the reality that he’s in a difficult spot though,
+      because he has to navigate between two positions which seemingly can’t be bridged.
+      On one side you have not just hostile allies in Europe, Zelensky and indeed the
+      Washington political establishment, which wants none of this at all, what he’s
+      trying to do. And on the other side, you have Russia with fairly high demands
+      in terms of what it wants in this peace agreement, given that this has been going
+      on unresolved now for 30 years. And it did remind me a bit about, I did an interview
+      with Fyodor Lukyanov. He’s got actually several positions. We used to work together
+      in same department in Moscow and well every year at the Valdai discussion club
+      he’s the one sitting next to Putin interviewing him. And he was making the point,
+      because I asked him, what do you make of Trump’s rhetoric shifting back and forth?
+      And he had a good point, though, which is, well, we have to see at what point
+      he starts, because Europeans, of course, they boycott all diplomacy. They don’t
+      want to talk to Russia. Zelensky, he ruled out talking to Russia. He wants no
+      negotiations, no diplomacy, just more weapons. Anything else is unacceptable.
+      But he was making a point. Well, just look at the gradual steps. And now two months
+      down the road, you have in France, they’re now discussing whether or not they
+      should reopen diplomacy with Russia. You’re having Zelensky. Yeah, well, he’s
+      sending his team. They’re meeting with the Russians, talking. They’re looking
+      for a way to resolve this. So there has to be a step by step. So it’s, I mean,
+      maybe it’s a bit of both. Maybe some of the information Trump isn’t really on
+      top of, But I think ignoring, as you say, ignoring this difficult positions between
+      demanding Russians and very unflexible and demanding Europeans and Zelensky that
+      he has to navigate the space, I’m not sure. But also I’ve heard another theory
+      that, well, which I also see as probable, that the United States isn’t necessarily
+      that eager to give up all containment of Russia, but they rather want to outsource
+      it to the Europeans. I was wondering what you thought about this. Doctorow: 37:37
+      Well, this would have been certainly a good interpretation before Mr. Trump and
+      his associates gutted the CIA, gutted the National Foundation of Democracy, before
+      they took all the bad guys that they could find out of the federal government.
+      I don’t know who is continuing this type of intervention, neocon intervention.
+      Maybe it’s just the Soros foundation or similar organizations. Certainly, the
+      Brits are deep in this, probably much more responsible for any of these nefarious
+      developments than the Americans are. The problem with Trump, and which puts me
+      in an awkward position is the sharp contrast between what he is doing as a peacemaker
+      in Ukraine and what he is doing as an enabler of genocide in Gaza. When I listened,
+      I think it was Politico, it was being interviewed this morning by the BBC about
+      Mr. Trump as a peacemaker and how it pains him to hear about people being killed
+      in war. What can I say? That is not the Trump that I am an apologist for, so to
+      speak. I am in favor of what he’s doing in Ukraine. I believe it is well planned
+      that he has very able assistance, in Steve Witkoff, to keep him in line, to keep
+      his thinking solid. But of course, he is working with the same Witkoff doing this
+      very, very nasty cooperation with Netanyahu’s government in genocide. So it’s
+      a mixed picture, a very mixed picture. But to think that he shifts from day to
+      day, well, I can’t abide that. There is clearly a very heavy commitment of that
+      man to find a peace in Ukraine, not because he loves peace and is worried about
+      people being killed, but because of much bigger things, how he wants to reshape
+      global geopolitics. And yes, of course, you’re right. The idea of separating Russia
+      from China is an idee fixe of many people in his circle, starting with Rubio,
+      his secretary of state. So that is certainly guiding his attention to Russia and
+      his attempts to deal diplomatically and cordially with Mr. Putin. Diesen: 40:43
+      I think Russia would have been more vulnerable to be swayed by this earlier, because
+      from ’94 when they established the OSCE, they thought, okay, now finally we have
+      an inclusive Europe. And then came 1999 with the NATO expansion. And then they
+      always tried to find an agreement. Under Medvedev in 2008, they had this proposal
+      for a new European security architecture in 2010. Putin pushed forward this idea
+      of a EU-Russia union, and all the way up to 2014. But 2014, I think this is when
+      things began to break and they began to shift from greater Europe to greater Eurasia.
+      However, yeah, in 2022, I think that sealed the deal for certain. But if this
+      would have been back in 2008, 2007, eight, well, seven, when Putin made that speech
+      at Munich, I think that was kind of the last chance to accept, including Russia
+      into this Europe they were building. I think it’s just too late at this point.
+      They also don’t see a future in Europe, although this is the important thing as
+      well. It’s not only to see Europe as hostile and stagnant, but also the Russians
+      have less historical baggage in Asia and there’s more giants there. They’re not
+      feared or hated as much. And economies are better. It’s hard to argue against.
+      If you take the point of departure, what is in Russia’s interest, it kind of makes
+      sense why they’re not really looking to Europe any more. Doctorow: 42:32 Let’s
+      not speak about Europe. Let’s speak about who runs Europe. Who runs Europe is
+      Germany. And the responsibility for this lost opportunity I put directly at the
+      door of Angela Merkel in 2008. You have mentioned the Medvedev initiative. I followed
+      that very closely when it was made. It was very badly prepared by the Russians.
+      Mr. Lavrov made an attempt to revive that after it was cursorily dismissed by
+      Merkel, to breathe some life into it because the text that Medvedev released,
+      and I think he released it on social media, he was trying to be very, very “with
+      it”, very up to date. America still had public diplomacy as a flag they were flying,
+      and he used that. Anyway, it was badly done. Nonetheless, she dismissed it out
+      of hand. “We have security done. It’s called NATO. Don’t bother us.” And that
+      was a disastrous, lost opportunity because Mr. Medvedev say he was the stand-in
+      for Putin, but he was the president. And he didn’t have “stand-in here” across
+      his chest. He could do something and sign something and negotiate something. And
+      everyone said, “Oh, Merkel, she speaks Russian. She gets on with them. She is
+      the intercessor with the Russians” and so on. She hated the Russians from her
+      childhood, obviously. And she was dismissive of them in the most crude way. When
+      in 2012 she ended all talk about visa-free travel saying they just– “We’re not
+      going to let those crooks into our country”, as if every Russian was an oligarch.
+      And those thieving oligarchs all got into the country anyway, but normal citizens
+      were not able to. She was the point of departure for where we are today. I say
+      that because she had control of the appointment of the president of the Commission.
+      Wienker was put in at her suggestion because he was manageable, in the usual sense.
+      That’s to say they had the goods on him. So he was under her control. The parliament,
+      the European parliament, was under her control effectively because the European
+      People’s Party even back then, in circa 2015, had complete control of the European
+      Parliament. And she missed the opportunity. The German, why? It wasn’t an accident.
+      Because Germany had done a switch. Germany was no longer interested in the East.
+      Germany was interested in Mittel Europa. Germany had found very good colonies
+      in Poland and the Czech Republic for very cheap labor to facilitate its export
+      industry of manufactured goods. They never put in to the, particularly in Poland,
+      complete cycle production. They put in “bits and parts” production. So the Poles
+      had nothing, the Germans had everything. They had all the profit coming from the
+      exports. 46:03 And given that the economic interests of Germany, the number of
+      Germans employed, thanks to Mittel Europa, no doubt many times exceeded the 400,000
+      Germans in 2015 who were said to owe their jobs to the Russian trade, Germany
+      economically decided, the Mittelstand decided that the Mittel Europa friends within
+      the former Soviet bloc were more valuable to them than good relations with Russia.
+      And it so happened that those countries, Poland and the Baltics, they’re Russian-hating.
+      And Germany joined the Russian-hating gang. So, I say we can talk about Europe’s
+      mistakes, but I think we’re missing the point. We’re missing the point today,
+      considering where Mr. Merz is. He didn’t come from nowhere. He’s in direct line
+      of this German turn against Russia. He’s an aggravated case. He’s an ugly case,
+      but it’s the same line that you can find in 2008, and still better in 2014 with
+      the Minsk Accords, to which she was a party. She was anti-Russian, and she and
+      Germany controlled the European institutions. Diesen: Yeah, just as we said, the
+      2008 proposal by Medvedev for new European security architecture, It didn’t actually
+      call for replacing NATO or disbanding NATO. It recognized solely that we need
+      a wider pan-European umbrella over this because NATO is a military block. It has
+      zero-sum security. It does not subscribe to indivisible security. So in order
+      not to end up in a situation where the borderline states, be it Ukraine, Moldova,
+      Georgia, have to choose between East and West and we rip up the society and pull
+      them in each direction that we have some common security architecture so we don’t
+      end up that everything is zero sum. This was it, and they poured cold water on
+      it. Doctorow: They poured cold water on him. And this was a terrible mistake.
+      They didn’t have good Russian knowledge. They should have understood that this
+      is the most optimistic, sunny man running Russia for, I don’t know, 200 years.
+      There was no one like Medvedev. He was very well disposed to the West. He was
+      a very outgoing person. And to confuse him with Medvedev today is a tremendous
+      mistake. He was a potential good friend of Europe. And they spurned him. They
+      humiliated him. Diesen: 48:47 Yeah, Now I remember then when I lived in Russia,
+      the way they talked about him, “Ah, he’s weak, blah, blah, blah.” You know, he
+      put himself out there and they humiliated him. So again, it’s indistinguishable
+      from the Medvedev you see today though has become, I guess, learned from his past
+      and become very hawkish. My last question, though, was just, I guess, is a smaller
+      question. What do you make sense of the meeting which took place in Alaska? Is
+      this, as some have suggested, just to get as far away from Europe as possible,
+      unburdened by this conflict? Doctorow: No, I think that Trump was advised, I don’t
+      think that he initiated this, but certainly got very clever advisors who did,
+      for symbolism, so many elements of symbolism, taking Alaska. Some of them have
+      been called out, including by Putin at the press briefing after the summit. But
+      others which have not been called out generally, as I said the first thing that
+      I wanted to call out is that it was bought. And it could be a model for how to
+      end the Ukraine War if somebody would like to take it up, but it seems like nobody
+      does. 50:08 And the other thing is that despite its [being] outside of Russian
+      control since 1857– I think that was the year of the purchase, the Seward Purchase–
+      there is a lively Russian community there, including the patriarch, sorry, the
+      Metropolit, whom Putin met yesterday to give him two icons from Moscow, and the
+      how many communities that are, Orthodox church communities, in Alaska, with mostly
+      Eskimos in there as congregants, Inuits it is, properly speaking. And the physical
+      proximity, to remind everyone that Russia and the United States are not separated
+      by oceans, but are separated by four kilometers of sea. The two islands that they
+      both hold in the middle of the Bering Strait. This is important. It also would
+      be, as it is on American soil, it’s the possibilities of wiretapping. “Wiretapping”,
+      it’s an old-fashioned term. Simply of snooping on the exchanges if it were taking
+      place in the United Arab Emirates or Saudi Arabia. Let’s not kid ourselves, it
+      must be bugged like hell. And if they want to have complete confidentiality, until
+      of course, they pass the bomb to Macron for what they decided, when it confidentially
+      ended. Nonetheless, if they wanted to have a few moments of confidentiality, it
+      was best assured of the United States. It also gave Mr. Trump the opportunity
+      to have a B-2 fly over them. Just to remind Mr. Putin, in case he forgot, the
+      Americans do have a little bit of military technology out there. So in many respects,
+      it was very convenient. 52:14 Also, the issue of flight rights, if it were to
+      be in some places, it would be difficult for the Russians to get the flight passage
+      authorization. Here there was no issue of the sort. They just flew over their
+      own territory till they flew into American air space. These were reasons. Of course,
+      the opportunity for Putin to pay his respects to the nine Soviet Russian airmen
+      whose tombs are just near that base and whom he visited after the summit. All
+      of these are very important, symbolically, and to separate it from all other meetings
+      that have been had and will be had as the negotiation and the war continues. Diesen:
+      53:19 Yeah, whenever the Russians want to reach out to the Americans, they usually
+      point out the shared war effort in the Second World War. But I guess this could
+      be also a positive one, that they have this shared cultural heritage found in
+      Alaska. The fact that it was also purchased in 1867 after the Civil War as opposed
+      to taken by force, it makes it easier to celebrate a common heritage there as
+      opposed to if it would have shifted hands in a more brutal manner. But yeah, I
+      don’t know. I thought it did take me by surprise. I had my money on United Arab
+      Emirates or Saudi Arabia. So I, yeah, I was mistaken on this. Gilbert, Doctorow,
+      thank you so much for your time. Doctorow: 54:11 Thanks for inviting me.'
+    one_sentence_summary: The article discusses the recent meeting between Trump and
+      Putin in Alaska, highlighting the mixed reactions it has generated, from optimism
+      to panic, amidst a backdrop of Western diplomatic isolation of Russia over the
+      past three and a half years.
+    paragraph_summary: In a recent discussion, historian Gilbert Doktorow analyzed the
+      significant meeting between Presidents Trump and Putin in Alaska, marking a notable
+      shift in diplomatic relations after years of Western efforts to isolate Russia
+      following its military actions in Ukraine. The summit elicited mixed reactions,
+      ranging from optimism to panic, particularly in Europe, as media narratives often
+      frame Trump as weak unless he adopts a tough stance against Russia, which some
+      argue prolongs the conflict. Doktorow emphasized the importance of the summit,
+      noting that while initial press briefings provided little clarity on the agreements
+      reached, subsequent developments hinted at a potential rapprochement between the
+      two nations.
+    published: '2025-08-18T13:42:34+00:00'
+  - title: 'Glenn Diesen interview: the hidden Trump-Putin agreements in Alaska'
+    url: https://gilbertdoctorow.com/2025/08/17/glenn-diesen-interview-the-hidden-trump-putin-agreements-in-alaska/
+    text: I can strongly recommend this lengthy interview to the Community, because
+      it is far-ranging  and deals with the points on which Trump and Putin agreed in
+      their Summit but which were not divulged in the press briefing that immediately
+      followed their talks in Alaska. Though the plans of the European backers of Zelensky
+      to join his visit to the White House tomorrow was not yet known when Glenn Diesen
+      recorded our chat, everthing in the video will be useful to make sense of what
+      happens tomorrow.
+    one_sentence_summary: The article recommends a detailed interview that explores
+      the undisclosed agreements between Trump and Putin during their Summit, which
+      may provide context for Zelensky's upcoming visit to the White House.
+    paragraph_summary: The article recommends a comprehensive interview that explores
+      the undisclosed agreements between Trump and Putin during their summit, which
+      were not covered in the subsequent press briefing. The discussion provides valuable
+      insights that could help contextualize upcoming events, particularly regarding
+      Zelensky's anticipated visit to the White House, which was not known at the time
+      of the interview. Overall, the content is deemed useful for understanding the
+      implications of the summit and the unfolding political landscape.
+    published: '2025-08-17T19:44:23+00:00'
+  - title: 'Glenn Diesen interview: the hidden Trump-Putin agreements in Alaska'
+    url: https://gilbertdoctorow.com/2025/08/17/glenn-diesen-interview-the-hidden-trump-putin-agreements-in-alaska/
+    text: I can strongly recommend this lengthy interview to the Community, because
+      it is far-ranging  and deals with the points on which Trump and Putin agreed in
+      their Summit but which were not divulged in the press briefing that immediately
+      followed their talks in Alaska. Though the plans of the European backers of Zelensky
+      to join his visit to the White House tomorrow was not yet known when Glenn Diesen
+      recorded our chat, everthing in the video will be useful to make sense of what
+      happens tomorrow.
+    one_sentence_summary: The article recommends a detailed interview that explores
+      the undisclosed agreements between Trump and Putin during their Summit, which
+      may provide context for Zelensky's upcoming visit to the White House.
+    paragraph_summary: The article recommends a comprehensive interview that explores
+      the undisclosed agreements between Trump and Putin during their summit, which
+      were not covered in the subsequent press briefing. The discussion provides valuable
+      insights that could help contextualize upcoming events, particularly regarding
+      Zelensky's anticipated visit to the White House, which was not known at the time
+      of the interview. Overall, the content is deemed useful for understanding the
+      implications of the summit and the unfolding political landscape.
+    published: '2025-08-17T19:44:23+00:00'
+  - title: 'WION: Trump-Putin Meet: Trump Puts Pressure on Zelensky, Europe'
+    url: https://gilbertdoctorow.com/2025/08/16/wion-trump-putin-meet-trump-puts-pressure-on-zelensky-europe/
+    text: This morning’s interview with India’s largest global broadcaster in English,
+      WION, has received a significant number of views. I found it interesting to peruse
+      the Comments section, which indicates a shift in Indian public opinion away from
+      pro-US to more balanced praise for both Russia and the US compared to Comments
+      in my earlier appearances on this station going back a year or more.  Contempt
+      for Zelensky seems to be firmly established now. I am pleased that WION has not
+      made any cuts in my statements, though their senior editors are unlikely to have
+      been happy with it all.
+    one_sentence_summary: An interview with WION has garnered considerable views, revealing
+      a shift in Indian public opinion towards a more balanced view of both Russia and
+      the US, alongside a growing contempt for Zelensky, despite potential discontent
+      from the broadcaster's senior editors regarding the content.
+    paragraph_summary: An interview this morning with WION, India's largest English-language
+      global broadcaster, garnered significant viewership and revealed a notable shift
+      in Indian public opinion, moving from a pro-US stance to a more balanced appreciation
+      for both Russia and the US. The comments section reflected a growing contempt
+      for Ukrainian President Zelensky, contrasting with sentiments from previous interviews
+      over the past year. The interview was aired in full without edits, although it
+      likely did not sit well with WION's senior editors.
+    published: '2025-08-16T18:13:10+00:00'
+  - title: 'WION: Trump-Putin Meet: Trump Puts Pressure on Zelensky, Europe'
+    url: https://gilbertdoctorow.com/2025/08/16/wion-trump-putin-meet-trump-puts-pressure-on-zelensky-europe/
+    text: This morning’s interview with India’s largest global broadcaster in English,
+      WION, has received a significant number of views. I found it interesting to peruse
+      the Comments section, which indicates a shift in Indian public opinion away from
+      pro-US to more balanced praise for both Russia and the US compared to Comments
+      in my earlier appearances on this station going back a year or more.  Contempt
+      for Zelensky seems to be firmly established now. I am pleased that WION has not
+      made any cuts in my statements, though their senior editors are unlikely to have
+      been happy with it all.
+    one_sentence_summary: An interview with WION has garnered considerable views, revealing
+      a shift in Indian public opinion towards a more balanced view of both Russia and
+      the US, alongside a growing contempt for Zelensky, despite potential discontent
+      from the broadcaster's senior editors regarding the content.
+    paragraph_summary: An interview this morning with WION, India's largest English-language
+      global broadcaster, garnered significant viewership and revealed a notable shift
+      in Indian public opinion, moving from a pro-US stance to a more balanced appreciation
+      for both Russia and the US. The comments section reflected a growing contempt
+      for Ukrainian President Zelensky, contrasting with sentiments from previous interviews
+      over the past year. The interview was aired in full without edits, although it
+      likely did not sit well with WION's senior editors.
+    published: '2025-08-16T18:13:10+00:00'
+  - title: '‘Judging Freedom’: Alaska Preview'
+    url: https://gilbertdoctorow.com/2025/08/14/judging-freedom-alaska-preview/
+    text: Those in the Community who read my essay this morning on Substack will be
+      heartened by what I had to say a few minutes ago in my weekly chat with Judge
+      Andrew Napolitano. I introduced a pessimistic note this morning with reference
+      to the discussions Donald Trump had with European leaders and with Volodymyr Zelensky
+      via video conference. Trump was said to have promised Zelensky not to deal with
+      the territorial issue when speaking to Vladimir Putin, nor would he discuss anything
+      other than the Ukraine cease fire. Moreover, other sources said yesterday that
+      Trump threatens Putin with “consequences” if he does not agree to a ceasefire
+      tomorrow. All of this sounded as if Trump had caved in to European pressure and
+      reversed his position on the “summit,” essentially depriving it of any reason
+      to be held. However, in the couple of hours before the start of ‘Judging Freedom’
+      I listened to the latest broadcast of the authoritative Russian state television
+      news and commentary show ‘Sixty Minutes’ and to a news wrap-up of Rossiya 1. This
+      made it clear that Russia remains optimistic about the meeting with Trump and
+      expects it to be substantive and successful. They named the five members of the
+      Russian negotiating team – Minister of Defense Belousov, Foreign Minister Lavrov,
+      Head of the Foreign Direct Investment Fund Dmitriev, Presidential advisor Ushakov
+      and Finance Minister Siluanov. This indicates that a broad program of discussions
+      is anticipated, including surely restoration of normal trade ties. The Russian
+      commentary indicated that stabilization of global politics has been put on the
+      agenda by the Russians. As I said to Judge Napolitano, it is clear that Trump
+      is lying to someone – either to the Europeans or to Putin.  I choose to believe
+      that he is lying to the Europeans and that he will come back and put them in their
+      place if he indeed reaches an amicable agreement on the major issues with Vladimir
+      Putin, as his envoy Steve Witkoff seems to have done when the notion of a summit
+      was discussed. I used the opportunity in the interview to mention that the Russians
+      have made stunning advances of more than 21 km yesterday in their ongoing offensive
+      along the line of confrontation in Donbas.  This greatly accelerated  advance
+      proves that the pace of Russian military action in the war is not dictated by
+      the cautious rules of war of attrition alone but is susceptible to political scaling
+      up as the geopolitical situation demands.  Should these talks tomorrow fail, I
+      have little doubt that the Russians will make a very fast advance on the still
+      untouched Ukrainian oblasts of Nikolaevsk and Odessa, reducing Ukraine to a land-locked
+      rump state in preparation for its military obliteration. ©Gilbert Doctorow, 2025
+    one_sentence_summary: In a recent discussion, the author expressed initial pessimism
+      about Donald Trump's approach to Ukraine and Russia, suggesting he may have yielded
+      to European pressure, but later noted insights from a Russian state television
+      broadcast that could provide a different perspective.
+    paragraph_summary: In a recent discussion with Judge Andrew Napolitano, the author
+      reflected on Donald Trump's diplomatic interactions with European leaders and
+      Ukrainian President Volodymyr Zelensky, expressing initial pessimism regarding
+      Trump's commitment to address territorial issues with Vladimir Putin. Despite
+      reports suggesting Trump had yielded to European pressure and limited the scope
+      of negotiations, recent commentary from Russian state media indicated optimism
+      about the upcoming meeting with Trump, highlighting a robust Russian negotiating
+      team and the expectation of substantive discussions, including the potential restoration
+      of trade ties. The author speculated that Trump may be misleading either the Europeans
+      or Putin, leaning towards the belief that he is deceiving the Europeans and may
+      ultimately assert a stronger position in negotiations with Russia.
+    published: '2025-08-14T13:12:34+00:00'
+  - title: '‘Judging Freedom’: Alaska Preview'
+    url: https://gilbertdoctorow.com/2025/08/14/judging-freedom-alaska-preview/
+    text: Those in the Community who read my essay this morning on Substack will be
+      heartened by what I had to say a few minutes ago in my weekly chat with Judge
+      Andrew Napolitano. I introduced a pessimistic note this morning with reference
+      to the discussions Donald Trump had with European leaders and with Volodymyr Zelensky
+      via video conference. Trump was said to have promised Zelensky not to deal with
+      the territorial issue when speaking to Vladimir Putin, nor would he discuss anything
+      other than the Ukraine cease fire. Moreover, other sources said yesterday that
+      Trump threatens Putin with “consequences” if he does not agree to a ceasefire
+      tomorrow. All of this sounded as if Trump had caved in to European pressure and
+      reversed his position on the “summit,” essentially depriving it of any reason
+      to be held. However, in the couple of hours before the start of ‘Judging Freedom’
+      I listened to the latest broadcast of the authoritative Russian state television
+      news and commentary show ‘Sixty Minutes’ and to a news wrap-up of Rossiya 1. This
+      made it clear that Russia remains optimistic about the meeting with Trump and
+      expects it to be substantive and successful. They named the five members of the
+      Russian negotiating team – Minister of Defense Belousov, Foreign Minister Lavrov,
+      Head of the Foreign Direct Investment Fund Dmitriev, Presidential advisor Ushakov
+      and Finance Minister Siluanov. This indicates that a broad program of discussions
+      is anticipated, including surely restoration of normal trade ties. The Russian
+      commentary indicated that stabilization of global politics has been put on the
+      agenda by the Russians. As I said to Judge Napolitano, it is clear that Trump
+      is lying to someone – either to the Europeans or to Putin.  I choose to believe
+      that he is lying to the Europeans and that he will come back and put them in their
+      place if he indeed reaches an amicable agreement on the major issues with Vladimir
+      Putin, as his envoy Steve Witkoff seems to have done when the notion of a summit
+      was discussed. I used the opportunity in the interview to mention that the Russians
+      have made stunning advances of more than 21 km yesterday in their ongoing offensive
+      along the line of confrontation in Donbas.  This greatly accelerated  advance
+      proves that the pace of Russian military action in the war is not dictated by
+      the cautious rules of war of attrition alone but is susceptible to political scaling
+      up as the geopolitical situation demands.  Should these talks tomorrow fail, I
+      have little doubt that the Russians will make a very fast advance on the still
+      untouched Ukrainian oblasts of Nikolaevsk and Odessa, reducing Ukraine to a land-locked
+      rump state in preparation for its military obliteration. ©Gilbert Doctorow, 2025
+    one_sentence_summary: In a recent discussion, the author expressed initial pessimism
+      about Donald Trump's approach to Ukraine and Russia, suggesting he may have yielded
+      to European pressure, but later noted insights from a Russian state television
+      broadcast that could provide a different perspective.
+    paragraph_summary: In a recent discussion with Judge Andrew Napolitano, the author
+      reflected on Donald Trump's diplomatic interactions with European leaders and
+      Ukrainian President Volodymyr Zelensky, expressing initial pessimism regarding
+      Trump's commitment to address territorial issues with Vladimir Putin. Despite
+      reports suggesting Trump had yielded to European pressure and limited the scope
+      of negotiations, recent commentary from Russian state media indicated optimism
+      about the upcoming meeting with Trump, highlighting a robust Russian negotiating
+      team and the expectation of substantive discussions, including the potential restoration
+      of trade ties. The author speculated that Trump may be misleading either the Europeans
+      or Putin, leaning towards the belief that he is deceiving the Europeans and may
+      ultimately assert a stronger position in negotiations with Russia.
+    published: '2025-08-14T13:12:34+00:00'
+  - title: 'Sputnik Globe: Putin’s Master-Move: How BRICS Has Become the World’s New
+      Control Room'
+    url: https://gilbertdoctorow.com/2025/08/13/sputnik-globe-putins-master-move-how-brics-has-become-the-worlds-new-control-room/
+    text: 'Sputnik Globe: Putin’s Master-Move: How BRICS Has Become the World’s New
+      Control Room This brief commentary on why Vladimir Putin reached out to BRICS
+      leaders following his acceptance of the Alaska summit with Donald Trump underscores
+      the cohesion of BRICS I was pleased to be one of the respondents to Sputnik on
+      this issue. To what they have quoted here, I add the point they did not put up: 
+      that just as Joe Biden’s sanctions and encirclement policies drove together Russia
+      and China, Russia and Iran, so Donald Trump perversely is strengthening greatly
+      the alliance in BRICS of India, Russia, China and South Africa by his bullying.
+      https://sputnikglobe.com/20250812/putins-master-move-how-brics-has-become-the-worlds-new-control-room-1122599591.html'
+    one_sentence_summary: The article discusses how Vladimir Putin's outreach to BRICS
+      leaders, particularly in response to U.S. sanctions and policies under both Donald
+      Trump and Joe Biden, has strengthened the alliance among BRICS nations—India,
+      Russia, China, and South Africa—transforming it into a significant global power
+      bloc.
+    paragraph_summary: The article discusses how Vladimir Putin's outreach to BRICS
+      leaders, particularly following his acceptance of the Alaska summit with Donald
+      Trump, highlights the growing cohesion within the BRICS alliance, which includes
+      Brazil, Russia, India, China, and South Africa. It argues that the sanctions and
+      encirclement policies of both Joe Biden and Donald Trump have inadvertently strengthened
+      this alliance, as their aggressive tactics have driven Russia closer to China
+      and Iran, while also solidifying ties among the BRICS nations. The commentary
+      emphasizes that Trump's bullying has paradoxically reinforced the unity and influence
+      of BRICS on the global stage.
+    published: '2025-08-13T08:41:08+00:00'
+  - title: 'Sputnik Globe: Putin’s Master-Move: How BRICS Has Become the World’s New
+      Control Room'
+    url: https://gilbertdoctorow.com/2025/08/13/sputnik-globe-putins-master-move-how-brics-has-become-the-worlds-new-control-room/
+    text: 'Sputnik Globe: Putin’s Master-Move: How BRICS Has Become the World’s New
+      Control Room This brief commentary on why Vladimir Putin reached out to BRICS
+      leaders following his acceptance of the Alaska summit with Donald Trump underscores
+      the cohesion of BRICS I was pleased to be one of the respondents to Sputnik on
+      this issue. To what they have quoted here, I add the point they did not put up: 
+      that just as Joe Biden’s sanctions and encirclement policies drove together Russia
+      and China, Russia and Iran, so Donald Trump perversely is strengthening greatly
+      the alliance in BRICS of India, Russia, China and South Africa by his bullying.
+      https://sputnikglobe.com/20250812/putins-master-move-how-brics-has-become-the-worlds-new-control-room-1122599591.html'
+    one_sentence_summary: The article discusses how Vladimir Putin's outreach to BRICS
+      leaders, particularly in response to U.S. sanctions and policies under both Donald
+      Trump and Joe Biden, has strengthened the alliance among BRICS nations—India,
+      Russia, China, and South Africa—transforming it into a significant global power
+      bloc.
+    paragraph_summary: The article discusses how Vladimir Putin's outreach to BRICS
+      leaders, particularly following his acceptance of the Alaska summit with Donald
+      Trump, highlights the growing cohesion within the BRICS alliance, which includes
+      Brazil, Russia, India, China, and South Africa. It argues that the sanctions and
+      encirclement policies of both Joe Biden and Donald Trump have inadvertently strengthened
+      this alliance, as their aggressive tactics have driven Russia closer to China
+      and Iran, while also solidifying ties among the BRICS nations. The commentary
+      emphasizes that Trump's bullying has paradoxically reinforced the unity and influence
+      of BRICS on the global stage.
+    published: '2025-08-13T08:41:08+00:00'
+  - title: 'News X World: World Report | Trump – Putin Summit | 12 August 2025'
+    url: https://gilbertdoctorow.com/2025/08/13/news-x-world-world-report-trump-putin-summit-12-august-2025/
+    text: I have not appeared on News X World (not to be confused with a competing Indian
+      broadcaster, News X) for a couple of months because our schedules did not mesh. 
+      However, when the production team finally did reach me yesterday for an interview
+      on the current state of the Russia-Ukraine war ahead of the Alaska summit between
+      Donald Trump and Vladimir Putin, they decided to make the most of it. Consequently
+      in their 37 minute “World Report” yesterday they gave me a series of segments
+      for analysis of different aspects of the war, from the situation on the ground
+      in Ukraine today to the notion of an exchange of territories in the context of
+      a global settlement of the war as suggested by Donald Trump, to the voices of
+      European opponents to any settlement of the war in which they and the Ukrainians
+      do not participate.   My appearance begins on minute 3.00 and end on minute 18.
+      Please note that I did not mince words. My statements constitute a forceful defense
+      of the peace efforts of Donald Trump and a condemnation of the false friends of
+      Ukraine in Western Europe who do not want to see the war end because its continuation
+      is essential for them to continue to hold power and to divert the budgets of their
+      countries away from social benefits and towards military production.  All of this
+      has been reproduced by News X World from the live broadcast to the video presented
+      in the link below.
+    one_sentence_summary: The author discusses their recent interview on News X World
+      regarding the Russia-Ukraine war, where they provided in-depth analysis on various
+      aspects of the conflict, including territory exchanges and European opposition
+      to settlements, while strongly defending Donald Trump's peace efforts.
+    paragraph_summary: The author discusses their recent appearance on News X World
+      after a two-month hiatus, where they provided an in-depth analysis of the ongoing
+      Russia-Ukraine war in light of the upcoming Alaska summit between Donald Trump
+      and Vladimir Putin. The interview covered various topics, including the current
+      situation in Ukraine, the potential for territorial exchanges as part of a global
+      settlement, and the perspectives of European leaders opposed to any resolution
+      that excludes their involvement. The author strongly defended Trump's peace initiatives
+      while criticizing certain Western European leaders for perpetuating the conflict
+      to maintain their power and redirect national budgets from social programs to
+      military spending. The segment can be viewed in the provided link.
+    published: '2025-08-13T06:21:51+00:00'
+  - title: 'News X World: World Report | Trump – Putin Summit | 12 August 2025'
+    url: https://gilbertdoctorow.com/2025/08/13/news-x-world-world-report-trump-putin-summit-12-august-2025/
+    text: I have not appeared on News X World (not to be confused with a competing Indian
+      broadcaster, News X) for a couple of months because our schedules did not mesh. 
+      However, when the production team finally did reach me yesterday for an interview
+      on the current state of the Russia-Ukraine war ahead of the Alaska summit between
+      Donald Trump and Vladimir Putin, they decided to make the most of it. Consequently
+      in their 37 minute “World Report” yesterday they gave me a series of segments
+      for analysis of different aspects of the war, from the situation on the ground
+      in Ukraine today to the notion of an exchange of territories in the context of
+      a global settlement of the war as suggested by Donald Trump, to the voices of
+      European opponents to any settlement of the war in which they and the Ukrainians
+      do not participate.   My appearance begins on minute 3.00 and end on minute 18.
+      Please note that I did not mince words. My statements constitute a forceful defense
+      of the peace efforts of Donald Trump and a condemnation of the false friends of
+      Ukraine in Western Europe who do not want to see the war end because its continuation
+      is essential for them to continue to hold power and to divert the budgets of their
+      countries away from social benefits and towards military production.  All of this
+      has been reproduced by News X World from the live broadcast to the video presented
+      in the link below.
+    one_sentence_summary: The author discusses their recent interview on News X World
+      regarding the Russia-Ukraine war, where they provided in-depth analysis on various
+      aspects of the conflict, including territory exchanges and European opposition
+      to settlements, while strongly defending Donald Trump's peace efforts.
+    paragraph_summary: The author discusses their recent appearance on News X World
+      after a two-month hiatus, where they provided an in-depth analysis of the ongoing
+      Russia-Ukraine war in light of the upcoming Alaska summit between Donald Trump
+      and Vladimir Putin. The interview covered various topics, including the current
+      situation in Ukraine, the potential for territorial exchanges as part of a global
+      settlement, and the perspectives of European leaders opposed to any resolution
+      that excludes their involvement. The author strongly defended Trump's peace initiatives
+      while criticizing certain Western European leaders for perpetuating the conflict
+      to maintain their power and redirect national budgets from social programs to
+      military spending. The segment can be viewed in the provided link.
+    published: '2025-08-13T06:21:51+00:00'
   - title: Transcript of RT Interview, 8 August
     url: https://gilbertdoctorow.com/2025/08/10/transcript-of-rt-interview-8-august/
     text: 'Transcript submitted by a reader RT: 0:00 Let’s discuss this topic now with

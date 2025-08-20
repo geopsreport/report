@@ -9,16 +9,218 @@ websites:
   - https://www.counterpunch.org/author/rwolff0998/
   - https://www.laprogressive.com/author/richard-d-wolff
 summary: |
-  As the global economic order continues to shift in mid-August 2025, the latest analyses highlight deepening contradictions within Western capitalism, the growing assertiveness of the BRICS bloc, and mounting social tensions in the U.S. and Europe. The context remains defined by the ongoing decline of U.S. and G7 economic influence, the rise of China and BRICS, and intensifying class and political conflicts within advanced economies.
+  As the global order continues to shift in the wake of Western economic stagnation and the rise of alternative power blocs, several key developments are shaping the geopolitical landscape.
   
-  **Richard D. Wolff** underscores that the U.S. faces a “decisive Russian advantage” in Ukraine, a result of Western misjudgments and overextensions that reflect broader imperial decline. This military setback is compounded by economic stagnation: the G7, particularly the U.K., is projected to contract, while China and other BRICS nations continue to post robust growth. According to Wolff, “the denial and pretenses within the G7 regarding systemic economic issues” are becoming increasingly untenable, as the global balance of power shifts toward a multipolar order.
+  The persistence of **military Keynesianism** in the U.S. and its adoption in Europe, as detailed by **Richard D. Wolff**, reflects ongoing efforts by Western governments to stimulate their economies through military spending. This approach, rooted in responses to the Great Depression, has become a structural feature of capitalism in crisis. Wolff notes that while such policies can temporarily mask underlying economic contradictions, they also risk provoking both international conflict and domestic unrest. There is a high chance, he argues, that this reliance on military expenditure will continue to fuel tensions both within and between states, especially as economic inequalities deepen.
   
-  Domestically, the U.S. is grappling with the consequences of decades-long deindustrialization and the offshoring of capital, which have eroded the middle class and fueled widespread disillusionment. Wolff notes that the “pursuit of profit has led to deindustrialization, economic inequality, and social crises,” with both major parties now embracing economic nationalism and tariffs that have failed to deliver promised job protection. This has contributed to the fragmentation of the employee class and a surge in right-wing populism, as seen in the ongoing Biden-Trump rematch.
+  Meanwhile, the **decline of U.S. and G7 economic influence** is becoming increasingly apparent. Wolff highlights the contrast between the projected contraction of the UK economy and the robust growth of China and other BRICS nations. This trend is reinforced by the G7’s apparent denial of systemic issues, as Western leaders struggle to adapt to a multipolar world. The majority of analysts now agree that the global economic center of gravity is shifting away from the traditional Western powers, a process that is “most definitely” accelerating.
   
-  Meanwhile, social unrest is intensifying, with recent reports revealing that university leaders, under pressure from wealthy donors, have suppressed peaceful student protests calling for a Gaza ceasefire. Wolff warns that such actions “prioritize donor interests over free speech and the public’s right to protest urgent social issues,” signaling a broader erosion of democratic norms within Western institutions.
+  On the domestic front, the **fragmentation of the U.S. working and middle classes** is fueling political polarization and social unrest. As capital continues to relocate abroad in search of higher profits, deindustrialization and job losses have eroded the economic security of large segments of the population. Wolff observes that this has led to a growing sense of betrayal among workers and a rise in support for right-wing populism, particularly as mainstream parties fail to address the root causes of discontent.
   
-  Looking ahead, the majority of independent analysts agree that the decline of U.S. and G7 hegemony is most definitely accelerating, with high confidence that BRICS and China will continue to gain economic and geopolitical ground. Domestically, there is a high chance that social and political polarization will deepen, especially if mainstream parties fail to address the root causes of economic inequality and discontent. The trend toward workplace democratization and renewed interest in alternative economic models, such as worker cooperatives, is likely to grow, though systemic change remains a medium-term prospect.
+  Looking ahead, the majority of independent analysts predict with high confidence that these trends—military-driven economic policy, the decline of Western economic dominance, and rising domestic instability—will persist. The likelihood of peaceful adaptation to the new multipolar order remains uncertain, but the risks of intensified conflict, both within societies and between major powers, are “quite likely” to increase unless systemic reforms are undertaken.
 articles:
+  - title: How Military Keynesianism Works
+    url: https://www.laprogressive.com/author/richard-d-wolff/war-and-peace/military-keynesianism
+    text: 'The defining moment of 20th-century capitalism was its great crash, 1929–1941,
+      also known as the Great Depression. Capitalism’s celebrants and advocates had
+      prepared neither themselves nor their followers for the possibility of such a
+      collapse. Likewise, their repression and ignorance of capitalism’s major critics,
+      and especially the Marxists, only deepened that lack of preparedness. One crucial
+      result was the sequence of ineffective governmental efforts to render the crash
+      short and shallow. Despite inventing some useful government initiatives, government
+      policies to overcome the crash failed across the 1930s. That failure only deepened
+      the Depression’s lasting impression on everyone. Some registered that impression
+      consciously and explicitly; most did not.
+
+
+      As is well known, only World War II finally pulled the capitalist system out of
+      its collapse. Millions of workers, including many of the unemployed, were drafted
+      into the military. Millions more of the unemployed got either new jobs producing
+      weapons and supplies for the military or replaced workers who had been drafted.
+      The fact that it took a war to finally overcome the Great Depression guaranteed
+      that when World War II ended in 1945 and a beloved wartime president died, the
+      desperate national fear was that the country would return to the Great Depression.
+
+
+
+
+      The Truman and subsequent administrations groped their way quickly to the only
+      solution they could imagine or support. The boost to the economy provided by government
+      spending on World War II was funded in large part by wartime borrowing. Running
+      federal budget deficits to increase military spending was the historical moment’s
+      solution. The inconvenient fact that, post-World War II, no actual war justified
+      such spending provoked a substitute justification. It emerged from and reinforced
+      the heavily advertised push toward consumerism of the immediate post-war years.
+      Alliances of U.S. business leaders (including owners of media firms), their subservient
+      politicians, and equally subservient academics rebranded the Soviet Union from
+      a loyal wartime ally against fascism to a demonic, evil empire threatening to
+      overthrow the United States. The same alliance rebranded U.S. communists, socialists,
+      and unionists: instead of militant leaders of the New Deal coalition working with
+      President Franklin D. Roosevelt they became traitorous “un-American” agents of
+      the same evil, demonic empire.
+
+
+
+
+      Because policymakers feared capitalism’s regression back into depression, they
+      adopted an aggressive military Keynesianism. That is, they deliberately spent
+      more than total federal tax revenues, thereby running a government budget deficit
+      to stimulate the economy. The politically easiest way to justify the borrowing
+      to enable that excess of government expenditures above revenues was to argue that
+      national security required the military. Paying for wars and defense via taxes
+      risked provoking more domestic opposition than paying for them by government borrowing.
+      (Adopting the kind of expansionary fiscal policy proposed by John Maynard Keynes,
+      but embodying it in and rationalizing it by military spending, is what we mean
+      by “military Keynesianism.”)
+
+
+
+
+      Spending extravagantly on the military—more than all other major nations by large
+      margins—and increasing that spending significantly and regularly, the United States
+      committed itself to military Keynesianism shortly after World War II ended. It
+      has sustained that policy commitment ever since. The institutional foundation
+      for that purpose was already taking shape clearly enough for President Dwight
+      Eisenhower (1953–1961) to recognize and name it the “military-industrial complex”
+      and warn against it in his farewell address. U.S. politicians would generously
+      fund the military. Military contracts would bring profits to key basic industries
+      across the United States. In turn, those industries’ donations would fund the
+      appropriately pro-military politicians and remove dissenters. Military spending
+      recast as Keynesian fiscal policy would function as a useful veneer, much as anti-communism
+      did, to justify the perpetual war economy as a necessary protection against America’s
+      enemies, foreign and domestic.
+
+
+
+
+      Of course, other contemporary influences—political, cultural, and economic—also
+      played a role in overdetermining the U.S. fiscal policy of military Keynesianism.
+      Other treatments of this period and these issues usually overstress the other
+      influences and downplay the economic factors. That is why my stress here is precisely
+      on what those other treatments ignore or underplay.
+
+
+
+
+      In the immediate post-World War II period government spending took other nonmilitary
+      forms that are well known. These included the G.I. Bill, which funded college
+      educations for returning soldiers, and the building of public housing and interstate
+      highways. Because these and other programs lacked sufficiently widespread political
+      support or well-developed industrial connections, and because of the anti-government
+      ideology pushed by the Republicans, they failed to sustain themselves past the
+      1950s and 1970s, let alone grow.
+
+
+
+
+      Quite similarly, Europe had to process the trauma of capitalist collapse. However,
+      it did so with a deeper and wider socialist and pro-labor tradition. It also had
+      to absorb the costly final disintegration of what remained of its former empires.
+      The United States took over those empires and operated an informal U.S. empire
+      following the Bretton Woods Agreement in 1944. (The agreement established a new
+      international monetary system and created the International Monetary Fund and
+      the World Bank.) That fit well with the United States wanting to play the role
+      of global policeman, offering up the U.S. military to defend Europe from communism
+      and the Soviet Union. Europe accepted the offer in good part because it enabled
+      European governments to meet the social democratic demands of its people. Those
+      demands had become ever louder while the political prestige of socialists and
+      communists making the demands had been sharply enhanced by their leading roles
+      in Europe’s anti-fascist resistance during World War II. What they saved in defense
+      spending European leaders added to Marshall Plan loans to swiftly rebuild after
+      the war, meet some of the social service demands of their people, and avoid heavily
+      taxing corporations and the rich.
+
+
+      Military Keynesianism Today
+
+
+      Today, European leaders are borrowing the old playbook from U.S. leaders after
+      World War II. President Donald Trump is withdrawing military protection for Europe
+      while demanding that European countries fund their own militaries and NATO. Europe
+      must therefore reorganize its finances or risk worsening an already serious economic
+      decline, which has been exacerbated by the Ukraine War’s effects and has provoked
+      social conflict. Europe is now copying what the United States did after 1945.
+      To justify a European military Keynesianism to boost and support capitalist industries,
+      European leaders have revived and surpassed the post-1945 U.S. in demonizing Russia
+      as an evil, demonic threat to Europe. On that basis, Germany’s Chancellor Friedrich
+      Merz has led the way in massive deficit borrowing for military rearmament. British
+      Prime Minister Keir Starmer is also moving the United Kingdom in that direction
+      as President Emmanuel Macron will try to do in France as well. Given the already
+      significant amount of European government debt, to fund NATO plus military Keynesianism
+      and not tax their corporations and their rich, the government cannot only finance
+      these efforts with still more debt. It requires gutting government social services.
+      What the recently created so-called “Department of Government Efficiency” (DOGE)
+      is doing in the United States requires an equal effort in Europe, a revival of
+      European austerity. The modalities of those efforts will vary but their underlying
+      logic and goals are the same.
+
+
+
+
+      The basic message of this brief history of U.S. and European military Keynesianism
+      is that modern capitalism has increasingly generated wars. World War I and World
+      War II have been the worst so far. However, capitalism’s cyclical depressions,
+      never yet avoided, have provoked the building of systemic supports based on military
+      Keynesianism, or, as Trump used to called it, “endless wars.” They follow from
+      the endless arms production, upgrading of arsenals, and arms races among nations
+      that provoke disputes and lead to wars. Wars accelerate contracts to replace used-up
+      arms and thereby profit military-industrial complexes. The capital-intensive tendencies
+      of modern warfare require ever larger governmental spending. The wars facilitate
+      deficit spending as much as the reverse.
+
+
+
+
+      Trump’s campaign boasts that he could and would quickly stop those endless wars
+      have already been undone. Half a year after taking office in 2025, he has not
+      ended the wars he inherited (Ukraine and Gaza) and has actually started another
+      (Iran). The historical linkage between capitalism and the military-industrial
+      complex, which has served as its necessary fiscal support, has proved to be stronger
+      than any president, despite Eisenhower’s warning and Trump’s boasting. Both World
+      War I and World War II led to huge gains for socialists who won over many with
+      anti-war feelings to join them in blaming war on capitalism.
+
+
+
+
+      Alongside provoking war, capitalism provokes civil conflict through its tendency
+      to produce income and wealth inequality. Sooner or later, massive opposition arises
+      among populations in capitalist societies: against war, or against inequality,
+      or against both. Those opposed recognize capitalism’s contradictions. The system
+      produces wealth and growth but also their opposites via war and civil conflict.
+      Sometimes that recognition produces no more than yet another effort to find a
+      solution that leaves the capitalist system intact. The human race has been there
+      and done that repeatedly, yet the contradictions repeat and deepen. Eventually,
+      we may at least hope, the lesson learned will be that the capitalist system itself
+      is the problem and that changing to another system is the best solution. We can
+      do better than capitalism just as slaves eventually did better than slavery and
+      serfs better than feudalism. British Prime Minister Margaret Thatcher’s quip that
+      “there is no alternative” was wrong. There are always alternatives.
+
+
+      Dollars & Sense'
+    one_sentence_summary: The article discusses how the Great Depression exposed the
+      vulnerabilities of 20th-century capitalism, leading to the adoption of military
+      Keynesianism as a means to stimulate the economy through government spending,
+      a policy that has persisted in the U.S. and is now being mirrored in Europe, while
+      highlighting the inherent contradictions of capitalism that provoke both war and
+      civil conflict.
+    paragraph_summary: The article discusses the historical trajectory of capitalism,
+      particularly focusing on the Great Depression (1929-1941) and its aftermath, which
+      led to the adoption of "military Keynesianism" in the United States. Following
+      the economic collapse, ineffective government responses failed to alleviate the
+      depression, which persisted until World War II, when military mobilization and
+      spending revived the economy. Post-war, U.S. administrations continued to justify
+      budget deficits through military spending, framing it as necessary for national
+      security against perceived threats like communism. This approach established a
+      military-industrial complex that has persisted, influencing fiscal policies and
+      justifying ongoing military expenditures. The article draws parallels with contemporary
+      Europe, where leaders are adopting similar strategies in response to economic
+      challenges and geopolitical tensions, particularly regarding Russia. Ultimately,
+      it argues that capitalism's inherent contradictions—leading to both war and inequality—may
+      necessitate a reevaluation of the system itself, suggesting that alternatives
+      to capitalism exist and should be explored.
+    published: '2025-08-16T05:52:36.549455+00:00'
   - title: Is Capitalism Leaving the U.S. in Search of Profit?
     url: https://www.laprogressive.com/author/richard-d-wolff/economic-equality/capitalism-leaving-the-u-s
     text: 'Early U.S. capitalism was centered in New England. After some time, the pursuit

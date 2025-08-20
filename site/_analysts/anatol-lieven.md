@@ -8,17 +8,292 @@ websites:
   - https://responsiblestatecraft.org/author/alieven/
   - https://quincyinst.org/author/anatol-lieven/
 summary: |
-  As the Ukraine conflict grinds on into August 2025, the geopolitical landscape remains defined by shifting U.S. policy, exhausted populations, and persistent risks of escalation. The Trump administration’s latest approach—moving away from demands for an unconditional ceasefire and instead proposing specific terms to Russia—marks a significant development. According to **Anatol Lieven**, this new U.S. stance may include recognizing Russia’s annexation of Crimea and the Donbas, reflecting a pragmatic response to Ukraine’s inability to reclaim these territories after the failed 2023 counter-offensive. While President Zelensky has rejected any territorial concessions, public sentiment in both Russia and Ukraine increasingly favors an early end to the war.
+  Amid ongoing efforts to end the Russia-Ukraine war, recent diplomatic activity has focused on the shape and substance of security guarantees for Ukraine. President Trump’s latest meetings with European and Ukrainian leaders have produced a tentative agreement on such guarantees, but the specifics remain highly contentious. **Anatol Lieven** notes that while these talks echo earlier proposals, “loose, abstract talk of ‘guarantees’ could sink Ukraine peace,” as the details of military support and the extent of NATO involvement remain unresolved. Russia’s longstanding red lines regarding NATO’s role continue to pose a major obstacle.
   
-  Key unresolved issues include Russia’s insistence on Ukrainian neutrality and controversial demands such as “denazification” and demilitarization. **Lieven** notes that a compromise—however imperfect—could be the only realistic path to peace, especially as U.S. support for Ukraine is now explicitly tied to Kyiv’s willingness to accept these terms. Should Ukraine or European leaders refuse, they risk losing American backing and prolonging a conflict that both societies are weary of.
+  The Trump administration’s evolving approach—shifting from calls for an unconditional ceasefire to advocating a comprehensive peace agreement—has been met with cautious optimism among analysts. This shift is seen as aligning more closely with the realities on the ground, where neither side appears capable of achieving a decisive military victory. **Anatol Lieven** argues that “Trump’s terms for Russia-Ukraine are on the right course for peace,” suggesting that painful concessions, such as potential recognition of Russian control over Crimea and Donbas, may be necessary for a realistic settlement.
   
-  Meanwhile, the broader security environment remains tense. The recent exchange of nuclear threats between President Trump and former Russian President Medvedev is widely seen as political theater. **Lieven** argues that “both leaders should avoid empty rhetoric regarding nuclear threats and instead focus on serious, private discussions to achieve peace in Ukraine.” Despite the posturing, neither side appears willing to escalate to nuclear confrontation, and there is little expectation that new sanctions will force a change in Russian behavior.
+  Meanwhile, the broader European security context remains tense. The EU’s continued sanctions campaign against Russia’s “shadow fleet” of oil tankers and Sweden’s willingness to inspect and seize suspect vessels have raised the risk of direct confrontation. However, the majority view among analysts is that neither Moscow nor Washington seeks genuine escalation, with much of the recent rhetoric described as “theatrical posturing.”
   
-  Beyond Ukraine, the Arctic region is emerging as a new arena of concern. A recent conference hosted by the Quincy Institute and the Arctic Institute underscored the urgent need for renewed cooperation among Arctic nations to address climate change and prevent further militarization. The consensus, as reported by **Lieven**, is that “the greatest threat to the Arctic stems from climate change rather than military rivalry,” and that restoring “Arctic exceptionalism” is essential for regional and global security.
-  
-  **Trends and Predictions:**  
-  The majority of analysts agree that the U.S. is now prioritizing a negotiated settlement in Ukraine, even if it means accepting Russian territorial gains—a shift that is “most definitely” setting the stage for a compromise peace. There is a high chance that, unless Ukraine and its European allies accept the emerging terms, U.S. support will wane, increasing the risk of a protracted and destabilizing war. In the Arctic, the trend toward militarization will likely continue unless there is a concerted diplomatic effort to refocus on climate and cooperative security. Overall, the geopolitical environment remains fragile, but the momentum is moving toward pragmatic, if uncomfortable, compromises to prevent further escalation.
+  Looking ahead, the trend is toward cautious, U.S.-led diplomacy, with the Trump administration positioned as the essential broker for any substantive peace deal. There is a high chance that negotiations will continue to center on security guarantees and territorial concessions, with the U.S. leveraging its influence to bridge gaps between Ukrainian and Russian demands. I guarantee that without concrete, detailed agreements—particularly on security arrangements and the status of contested territories—any peace process will remain fragile and vulnerable to collapse. The coming weeks will likely see intensified diplomatic maneuvering, but a final settlement remains elusive.
 articles:
+  - title: Loose, abstract talk of 'guarantees' could sink Ukraine peace
+    url: https://responsiblestatecraft.org/ukraine-peace-security-guarantees/
+    text: 'President Trump''s meetings on Monday with his European and Ukrainian counterparts
+      generated what appeared to be a consensus on a host of key war termination issues,
+      the biggest among them being a format for viable security guarantees to Ukraine.
+
+
+      Trump suggested that Russian President Vladimir Putin has acquiesced to “Article
+      5-like” guarantees for Kyiv, a development that drew praise from Ukrainian President
+      Volodymyr Zelenskyy and the European leaders in attendance.
+
+
+      This proposal is not new. Indeed, it harkens back to the 2022 Istanbul peace talks
+      , which stipulated that Ukraine was to receive guarantees similar to NATO’s collective
+      defense provision from a coalition of guarantor states. That coalition was to
+      include Russia itself and, at a later stage in those negotiations, Moscow introduced
+      a clause requiring unanimous consent from all signatory states before the collective
+      defense provision could be triggered.
+
+
+      Ukrainian negotiators rejected that revision on the grounds that it amounted to
+      Moscow’s veto over the West’s ability to defend Ukraine in the event of a future
+      Russian re-invasion. Yet there are other potential issues with Article 5-like
+      guarantees that, though quite not as glaring, can nonetheless derail the White
+      House’s ongoing peace initiative if not addressed directly.
+
+
+      Though Moscow has clearly accepted the principle that Kyiv should come out of
+      this war with a viable defensive deterrent against future aggression, the devil
+      is in the details on precisely what form this deterrent can take.
+
+
+      Over the past three years, Moscow has consistently rejected any scheme for security
+      guarantees that would greenlight the permanent deployment of NATO or Western troops
+      on Ukrainian soil. The Kremlin has demonstrated a degree of flexibility in other
+      areas, including on freezing the lines in the southeast and not attempting to
+      block Ukraine’s path to EU membership. There is, however, no indication that it
+      has budged on what has been its bright red lines surrounding Western contingents
+      in Ukraine. The Kremlin reiterated its stance during the Monday meeting, which
+      also included a phone call between President Trump and Putin.
+
+
+      “We reaffirm our repeatedly stated position on our categorical rejection of any
+      scenarios that envisage the appearance in Ukraine of a military contingent with
+      the participation of NATO countries,” read a statement by Russia’s Foreign Ministry.
+
+
+      Yet even on this point, there are nuances that will have to be sifted through
+      by U.S. and Russian negotiators. Russia stridently rejects the preemptive deployment
+      of Western troops in Ukraine after a peace deal is reached, but that is a different
+      proposition from a situation where a European contingent is inserted in response
+      to a future Russian reinvasion.
+
+
+      In either case, it will have to be determined what function these European troops
+      (as President Trump has categorically ruled out U.S. boots on the ground) will
+      play. Will they join the Ukrainian military in engaging Russian forces along the
+      line of contact, or would their role be confined to logistics, support, and manning
+      rear lines? These points should be elucidated by European leaders not just to
+      provide Kyiv with clarity on what the West is and is not willing to do, but for
+      the sake of European publics that deserve to know if their governments are committing
+      themselves to go to war against Russia over Ukraine if hostilities resume.
+
+
+      On the issue of preemptive deployments, it remains to be seen if the Kremlin is
+      willing to demonstrate any flexibility in agreeing to small European contingents
+      whose role is strictly limited to training and maintenance work. In that rather
+      unlikely scenario, the Kremlin would push for strict verification mechanisms and
+      ironclad assurances that such a force neither gradually grows in size nor takes
+      on more direct military functions.
+
+
+      In practice, “Article 5-like” guarantees to Ukraine can look a lot like what the
+      West is already doing for Ukraine, but with additional functions that may or may
+      not include the imposition of no-fly-zones and aerial support. If Moscow gets
+      enough of what it wants in terms of the other components of a settlement — particularly
+      on sanctions relief, not just a prohibition against Ukraine’s NATO membership
+      but documented guarantees against the alliance’s eastward expansion, and a satisfactory
+      resolution of territorial issues — then it may find that it has reasons to settle
+      for some version of a Taiwan-style strategic ambiguity model that leaves the door
+      open on European deployments in response to a future invasion but does not commit
+      any Western country to fight for Ukraine.
+
+
+      It is clear that Russia has red lines on these questions, and it is of paramount
+      importance at this advanced stage in negotiations to identify exactly where they
+      lie. Unlike in Istanbul 2022, Ukraine now has a group of guarantors willing to
+      provide meaningful security assurances. Yet the window for a peace deal is not
+      infinite, and there may not be another opportunity to settle this war in the short
+      to medium term if these talks fall flat.
+
+
+      The security concerns at play are far too important both for Moscow and Ukraine
+      not to be spelled out and explicitly agreed, lest they become a diplomatic poison
+      pill that threatens to undo the substantial progress made in Alaska and in the
+      White House over the past week.'
+    one_sentence_summary: President Trump's recent meetings with European and Ukrainian
+      leaders resulted in a tentative agreement on security guarantees for Ukraine,
+      echoing past proposals, but significant challenges remain regarding the specifics
+      of military support and Russia's red lines on NATO involvement.
+    paragraph_summary: President Trump's recent meetings with European and Ukrainian
+      leaders resulted in a consensus on key issues regarding security guarantees for
+      Ukraine, with Trump suggesting that Russian President Putin has accepted "Article
+      5-like" guarantees for Kyiv, a concept reminiscent of the 2022 Istanbul peace
+      talks. While this proposal has garnered support from Ukrainian President Zelenskyy
+      and European leaders, it faces challenges, particularly regarding the presence
+      of NATO or Western troops in Ukraine, which Russia has consistently opposed. The
+      Kremlin's stance remains firm against any permanent deployment of Western forces,
+      although it may consider limited European contingents for training purposes. The
+      negotiations must clarify the roles of any potential European troops and address
+      Moscow's red lines to ensure a viable peace deal, as the urgency for resolution
+      grows amid the ongoing conflict.
+    published: '2025-08-20T04:05:03+00:00'
+  - title: Why Trump gets it right on Ukraine peace
+    url: https://responsiblestatecraft.org/trump-ukraine-russia-agreement/
+    text: 'Most of the Western commentary on the Alaska summit is criticizing President
+      Trump for precisely the wrong reason. The accusation is that by abandoning his
+      call for an unconditional ceasefire as the first step in peace talks, Trump has
+      surrendered a key position and “ aligned himself with Putin.”
+
+
+      This is nonsense. What Trump has done is to align himself with reality, and the
+      real charge against him is that he should probably have done this from the start,
+      and saved six months of fruitless negotiations and thousands of Ukrainian and
+      Russian lives. Moreover, by continually emphasising a prior ceasefire as his key
+      goal, Trump set himself up for precisely the kind of criticism that he is now
+      receiving.
+
+
+      He is now entirely correct in saying that he wants “to go directly to a Peace
+      Agreement, which would end the war, and not a mere Ceasefire, which often times
+      do not hold up.”
+
+
+      The Russian side made clear from the very start of negotiations that they would
+      not agree to an unconditional ceasefire. Indeed it would have been completely
+      illogical for them to do so, given that military pressure on Ukraine, and advances
+      on the battlefield, are by far the most important leverage that Russia can bring
+      to bear at the negotiating table.
+
+
+      The refusal to recognize this on the part of Western analysts and European governments
+      betrays either an inability to understand obvious realities or a desire that the
+      war should continue indefinitely, in the hope that Russia will eventually accede
+      to present Ukrainian conditions for peace. That would make sense if Ukrainian
+      conditions were realistic, and if developments on the battlefield were in Ukraine’s
+      favor. But some of Ukraine’s demands are completely unacceptable to Moscow, and
+      Ukraine and the West have no way of compelling Russia’s agreement, since it is
+      the Russian army that is advancing (albeit slowly) on the ground and the West
+      cannot provide soldiers to supplement Ukraine’s increasingly outnumbered and depleted
+      forces.
+
+
+      The call for a ceasefire without a peace agreement is also contrary to the real
+      interests of Ukraine and Europe. Such a ceasefire would be extremely fragile,
+      and even if (mostly) observed by the two sides, would lead to a semi-frozen conflict
+      at permanent risk of erupting again. This would make it vastly more difficult
+      for Ukraine to carry out the reforms and economic development necessary for it
+      to even begin to proceed towards membership of the European Union.
+
+
+      It is understandable that NATO governments are distrustful of Moscow’s intentions;
+      but if they are to take a practical and viable approach to peace negotiations
+      they have to recognize that Russians are also distrustful of their intentions,
+      and in part with good reason. In international affairs — and history — there is
+      also no such thing as a permanent and absolute security guarantee, as presently
+      demanded by the Europeans.
+
+
+      Short of the complete defeat and subjugation of one side — which is out of the
+      question in Russia’s case — the best that can realistically be hoped for is a
+      combination of deterrents and incentives that will discourage a return to arms
+      for a long time to come.
+
+
+      A semi-frozen conflict would also be bad for the European continent as a whole.
+      It would create a long-term risk of a return to war in Ukraine and European entanglement
+      in the war, when long-term U.S. military support for Europe in these circumstances
+      is all too obviously no longer guaranteed.
+
+
+      On the other hand, as highlighted last week in Responsible Statecraft, the resulting
+      need and hope for U.S. support would force the EU and European states into deeper
+      and deeper dependence on an undependable U.S., resulting in more of the kind of
+      economic surrender over tariffs and subservience to U.S.-agendas in the Middle
+      East that we have seen in recent months. If continued, such humiliations will
+      undermine the domestic prestige of European establishments and threaten civil
+      peace and liberal democracy in ways that Moscow could never hope to achieve.
+
+
+      Worst of all, at least according to its latest statement , the so-called European
+      “coalition of the willing” might try to use a ceasefire to insert a European military
+      force into Ukraine, even without a comprehensive agreement:
+
+
+      “Ukraine must have robust and credible security guarantees to effectively defend
+      its sovereignty and territorial integrity. The Coalition of the Willing is ready
+      to play an active role, including through plans by those willing to deploy a reassurance
+      force once hostilities have ceased. No limitations should be placed on Ukraine’s
+      armed forces or on its cooperation with third countries. Russia could not have
+      a veto against Ukraine‘s pathway to EU and NATO.”
+
+
+      This is either insanity or duplicity because every European government (and the
+      Biden administration) has already stated that they are not prepared to go to war
+      to defend Ukraine. Even the government of Poland ruled out sending troops to Ukraine.
+      The British government has been foremost in proposing such a force - but has also
+      said that it can only take place with a guaranteed U.S. “backstop” which the Trump
+      administration has so far ruled out. Opinion polls show European publics deeply
+      divided on the question of sending troops to Ukraine.
+
+
+      Are European governments really prepared to send wholly inadequate numbers of
+      their soldiers into the middle of an unsolved conflict? Or given that Russia has
+      categorically ruled out accepting such a force as part of a peace settlement,
+      is this really a duplicitous way of trying to block an agreement?
+
+
+      The same is true of the statement that Ukraine’s path to NATO should remain open.
+      Preventing this was a key part of Moscow’s motivation for launching this war.
+      Insisting on this condition would therefore block a peace agreement — and yet
+      at the same time be completely empty and hypocritical, given the stated and demonstrated
+      refusal of NATO governments to go to war to defend Ukraine. Official statements
+      about European states’ “unwavering solidarity” is pointless, since the Russians
+      do not believe it - and extremely dangerous, if the Ukrainians do believe it.
+
+
+      None of this should be taken as saying that all of Russia’s conditions are acceptable
+      or should be accepted. Putin appears to have dropped one impossible demand, that
+      Ukraine withdrawal from the whole of Kherson and Zaporizhia provinces. The remaining
+      Russian demand is for the Ukrainian army’s withdrawal from the part of Donetsk
+      that it holds, in return for Russian withdrawal from much smaller parts of Kharkiv
+      and other provinces.
+
+
+      Trump is reportedly advising the Ukrainian government to accept this. They are
+      refusing to do so, which is very understandable, but also mistaken if by accepting
+      this they can get a stable peace and Russian compromise in other areas - notably,
+      in Moscow’s demand for Ukrainian “demilitarization”. For realistically speaking,
+      the Ukrainian army seem to be in the process of losing this land anyway.
+
+
+      We will know much more about present Russian conditions when Trump meets with
+      President Zelensky on Monday. Trump is engaged in a form of shuttle diplomacy
+      between the two combatants; and the only fairly unusual thing about this is that
+      it is the U.S. President who is doing this, rather than the Secretary of State
+      or National Security Advisor.
+
+
+      Is Trump wise to place the prestige of the U.S. presidency on the line in this
+      way? We should at least give him credit for moral courage. It is also true however
+      that while Putin is hardly the “global pariah” of Western political and media
+      rhetoric he is clearly eager to restore relations with the U.S. and maintain them
+      with Trump; and if a personal meeting with the American President and a ride in
+      the presidential limousine are the price of reducing Russian demands on Ukraine,
+      it is a price well worth paying.'
+    one_sentence_summary: The article argues that President Trump's shift from advocating
+      for an unconditional ceasefire to pursuing a direct peace agreement in the Ukraine
+      conflict aligns with reality and could have saved lives, while criticizing Western
+      analysts for failing to recognize the impracticality of a ceasefire without a
+      comprehensive peace deal, which risks perpetuating a fragile and potentially dangerous
+      status quo.
+    paragraph_summary: The article critiques Western commentary on President Trump's
+      approach to the Alaska summit, arguing that the criticism for abandoning an unconditional
+      ceasefire as a precondition for peace talks is misguided. Instead, it suggests
+      that Trump is aligning with the reality of the situation, where Russia has made
+      it clear that it would not agree to such a ceasefire, and emphasizes the need
+      for a comprehensive peace agreement to end the war rather than a fragile ceasefire
+      that could lead to a semi-frozen conflict. The author contends that a ceasefire
+      without a peace agreement would hinder Ukraine's ability to pursue necessary reforms
+      and could lead to long-term instability in Europe. Furthermore, the article questions
+      the sincerity of European governments' commitments to military support for Ukraine,
+      highlighting the risks of a continued conflict and the potential for European
+      dependence on U.S. military backing. Ultimately, it argues that while not all
+      of Russia's demands are acceptable, a pragmatic approach to negotiations is essential
+      for achieving a stable peace, and suggests that Trump's shuttle diplomacy could
+      play a crucial role in this process.
+    published: '2025-08-17T04:05:03+00:00'
   - title: Trump's terms for Russia-Ukraine on the right course for peace
     url: https://responsiblestatecraft.org/trump-putin-alaska/
     text: 'The Trump administration has reportedly taken an essential step towards a

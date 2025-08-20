@@ -8,16 +8,2362 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  As of August 13, 2025, the global geopolitical landscape is marked by intensifying debates over economic sovereignty, the persistence of financial colonialism, and the shifting dynamics of international alliances. Recent analyses underscore the growing determination of Global South nations to challenge the structures that have historically favored North American and Western European interests.
+  As the global economic landscape continues to shift, recent analysis underscores the intensifying influence of large investment firms in Western housing markets, the mounting challenges to U.S. dollar hegemony, and the persistent imbalance in transatlantic trade relations.
   
-  The latest report from **Michael Hudson** highlights the structural advantages embedded in the international financial system, which, he argues, are designed to benefit North American corporations while perpetuating dependency and exploitation in the Global South. Hudson points to the increasing momentum among these countries to resist what he terms "US neocolonialism," advocating for strategies such as coordinated debt repudiation, the establishment of alternative payment systems, and the taxation of land and resource rents to reclaim economic sovereignty. According to Hudson, "the only way forward for the Global Majority is to break free from the mechanisms that enforce perpetual indebtedness and resource extraction." There is a high chance that these efforts will accelerate, especially as BRICS and other coalitions seek to build parallel institutions.
+  A major new development, highlighted by **Michael Hudson** in his August 19 report, is the accelerating dominance of firms like Blackstone in the U.S. and European housing sectors. This trend is driving up rents and exacerbating homelessness, not only in major American cities but increasingly across Western Europe. Hudson notes, "The concentration of housing ownership in the hands of a few investment giants is fueling a crisis of affordability and social instability." The implication is clear: unless regulatory interventions are enacted, the social fabric in these regions will continue to fray. I guarantee that, without policy change, homelessness and rent burdens will worsen in the coming year.
   
-  Meanwhile, the recent EU-US trade agreement has come under scrutiny. **Michael Hudson** asserts that the European Union has once again failed to negotiate as an equal partner, resulting in a deal that disproportionately favors the United States. This outcome, he notes, reflects the broader trend of European economic policy being shaped by US interests, with little room for genuine autonomy. The majority view across sources is that Europe’s economic sovereignty continues to erode, and there is high confidence that this imbalance will persist unless the EU fundamentally rethinks its approach to international trade and finance.
+  On the international front, the debate around the future of the U.S. dollar remains heated. In a recent discussion, **Richard Wolff** and **Michael Hudson** analyze Donald Trump’s rhetoric regarding the BRICS nations. Trump’s threats of tariffs against BRICS members are seen as a reaction to what he perceives as a coordinated challenge to dollar supremacy. The majority view among analysts is that these threats are unlikely to reverse the gradual erosion of dollar dominance, as more countries seek alternatives for trade and reserves. There is a high chance that the dollar’s global role will continue to diminish, especially if U.S. policy remains confrontational.
   
-  On the domestic front, the United States faces infrastructural challenges, as evidenced by ongoing power outages in New York City. Hudson attributes these disruptions to surges in air conditioning use and aging infrastructure, noting the temporary reliance on diesel generators as a stopgap measure. This situation, while localized, is emblematic of broader vulnerabilities in US infrastructure, which could have knock-on effects for economic stability and public confidence.
+  Meanwhile, the aftermath of the latest EU-U.S. trade agreement continues to reverberate. **Michael Hudson** argues that the EU has failed to secure a balanced deal, with the U.S. emerging as the clear beneficiary. This outcome, he contends, reflects the broader pattern of European economic subordination to American interests. Most definitely, this dynamic will persist unless the EU develops a more assertive and independent economic strategy.
   
-  Looking ahead, the prevailing trend is a gradual but unmistakable shift away from US-led financial hegemony. The confidence level is high that Global South nations will intensify their push for economic independence, and there is a high chance that the EU will continue to struggle for parity in its dealings with the US. The persistence of infrastructural weaknesses in the US is also likely to remain a point of concern, with potential implications for both domestic and international stability.
+  In summary, the prevailing trends point toward increasing social and economic polarization within Western societies, persistent challenges to U.S. financial hegemony, and a continued imbalance in transatlantic relations. Without significant policy shifts, these trajectories are set to deepen over the next year.
 articles:
+  - title: America’s Free Lunch Economy
+    url: https://michael-hudson.com/2025/08/americas-free-lunch-economy/
+    text: 'August 10 2025, Landlords taking over society Transcript (Introduction) BEN
+      NORTON : Landlords are taking over society. For many average working people, it
+      has become impossible to buy a house. And the cost of renting housing has become
+      prohibitively expensive. This problem is especially bad in the United States.
+      But it’s not only a problem in the US; it’s a problem in many countries around
+      the world — especially in Western countries in North America and Europe, whose
+      economies have become financialized. In the United States, for instance, the largest
+      landlord is not an individual; it’s a massive Wall Street investment firm: Blackstone,
+      the private equity fund. Blackstone owned more than 300,000 rental housing units
+      in the US as of 2023. The number has only increased since then. Blackstone and
+      other Wall Street investment funds have been gobbling up residential housing.
+      Then they ratchet up the cost of rent, which has fueled homelessness, as many
+      people are being evicted from their homes. By the way, the billionaire CEO of
+      Blackstone, Stephen Schwarzman, who is the highest paid CEO on Wall Street, was
+      one of the main funders of Donald Trump’s 2024 presidential campaign . Now that
+      Trump has returned as U.S. president, this gives billionaire Stephen Schwarzman
+      and Blackstone a lot of influence in Trump’s policymaking. Of course, Trump has
+      been massively cutting taxes on the rich — benefiting billionaires like Stephen
+      Schwarzman, who helped to fund his campaign. 69% of the tax cuts in Trump’s “Big
+      Beautiful Bill” go to the richest 20% of Americans. Just 6% go to the poorest
+      40%. The US government is implementing many other policies that benefit these
+      corporate landlords on Wall Street who are gobbling up houses all across the country.
+      Business Insider reported in 2022 that U.S. institutional investors bought 25%
+      of the single-family homes flipped in the third quarter of 2022. Flipping a home
+      means an investor buys up a home — usually an old, dilapidated one — and then
+      maybe invests a few thousand dollars in renovating it. Then they sell it, and
+      they make huge profits of tens of thousands or even hundreds of thousands of dollars.
+      It’s not just mom-and-pop people doing this. More and more, it’s institutional
+      investors, many from Wall Street. Business Insider reported that investors were
+      behind 44% of the purchases of US single-family homes flips in the third quarter
+      of 2022. And this problem is only getting worse. CNBC reported that Wall Street
+      financial firms have bought hundreds of thousands of single-family homes since
+      the Great Recession, which Wall Street itself caused in 2008 and 2009. That crisis
+      also led millions of Americans to lose their homes in the first place. So Wall
+      Street is responsible for so many of these problems. CNBC recorded an incredible
+      statistic, estimating, “Institutional investors may control 40% of U.S. single-family
+      rental homes by 2030”. These are the new feudal lords. These are corporate landlords
+      that are gobbling up homes in the US. The US government has played a role in supporting
+      these private equity funds and other Wall Street firms that are buying up all
+      of these homes — these Wall Street landlords. CNBC noted that the “single-family
+      rental industry got its start with government backing in the fallout after the
+      2008 financial crisis” — which, once again, was caused by Wall Street. The CNBC
+      report quoted the California congressman Ro Khanna, who said, “What’s outrageous
+      is your tax dollars are helping Wall Street buy up single-family homes”. The New
+      York Times published an article that explained how Wall Street financial firms
+      are buying up basically all of the residential homes in entire blocks in neighborhoods
+      in the US. The Times showed the example of a small neighborhood in Charlotte,
+      North Carolina, called Bradfield Farms that has 34 homes. Investors have bought
+      up 33 of those homes. All of them, except for one, now are owned by investors,
+      who are renting out these homes. And, of course, they massively increase the cost
+      of rent. As the New York Times put it, “a newcomer is more likely to rent a house
+      from a corporate landlord”. The newspaper added, “Wall Street has come for the
+      starter home”. The New York Times looked at several different cities where investors
+      are gobbling up residential homes, including Atlanta, Memphis, Orlando, Tampa,
+      Las Vegas, Houston, and San Antonio. This report noted that investors are largely
+      targeting middle-income and working-class neighborhoods, especially with large
+      Black and Latino populations. So we see more and more that working-class Americans,
+      in particular, Black and Latino working-class Americans, are now unable to own
+      a home, because the houses are being bought up by these landlords, these investors,
+      including corporate landlords on Wall Street, and they have to pay higher and
+      higher rents to the landlord class. This is a big reason why homelessness is exploding
+      in the U.S. Just in 2024, the official number of recognized homeless people increased
+      by 18% , in one year. And that is very likely a conservative estimate, because
+      a lot of homeless people don’t go to shelters and are not registered as part of
+      the system. However, I should emphasize, this is not just a problem unique to
+      the United States. This is happening in countries all around the world, especially
+      in Western financialized economies. A good example of this is Spain. The New York
+      Times published another very interesting report looking at how, in Madrid, U.S.
+      investment firms from Wall Street have also been buying up homes , over across
+      the pond, across the Atlantic Ocean, in Europe. I already talked about how the
+      private equity fund Blackstone is the largest landlord in the US, with over 300,000
+      rental units that it owns. Well, Blackstone has also become the second-largest
+      owner of all houses in the country of Spain. And Blackstone is the single largest
+      private owner of residential real estate in Madrid, the Spanish capital. Blackstone
+      owns 13,000 housing units just in Madrid, and nearly 20,000 rental units across
+      all of Spain. The New York Times reported that, “Across Spain, around 185,000
+      rental properties are now owned by large corporations, half of those by firms
+      based in the United States”, largely on Wall Street. And surprise, surprise, as
+      these corporate landlords are gobbling up homes, rental prices have increased
+      57% since 2015, in a decade, and home prices have increased by 47% in Spain. So
+      what we are seeing is that landlords are taking over society, in the West in particular.
+      In order to discuss this today, I have the privilege of interviewing the renowned
+      economist Michael Hudson, the author of many books, including Killing the Host
+      : How Financial Parasites and Debt Bondage Destroy the Global Economy . Today
+      we talk about how capitalism has evolved from industrial capitalism into financial
+      capitalism, especially in the neoliberal era, since the rise of the “free-market”
+      fundamentalists like Ronald Reagan in the US and Margaret Thatcher in the UK in
+      the 1980s. They talk about so-called “free markets”, but, as Michael Hudson points
+      out, when they say free markets, they mean the freedom of corporate landlords
+      and Wall Street to buy up all of the existing assets, of monopolists to monopolize
+      entire industries and extract monopoly rents. Michael Hudson discusses how they
+      are destroying the economy of the US and the broader West, and how people can
+      fight back against these corporate landlords. This is part two of a discussion
+      that I held with Michael Hudson, based on an article that he published, titled
+      “ How the Global Majority can free itself from US financial colonialism ”. Now
+      I am going to play some highlights of the main points that Michael Hudson made,
+      and then we’ll go straight to part two of our discussion. (Highlights) MICHAEL
+      HUDSON : Rent is what John Stuart Mill said landlords make in their sleep. They
+      make it without work. They do not play a productive role. … When modern economists
+      talk about the “free market”, they’re not talking about what Adam Smith and John
+      Stuart Mill and the others talked about. They meant a market free from economic
+      rent, free from the landlord class levying rents, that had to be paid out of the
+      budgets of the employees. … One of the problems with the Global South countries,
+      and the Global Majority, is they have sent their most promising students to the
+      United States to be educated in economics. And the economic curriculum that is
+      taught today doesn’t talk about any of this kind of a free market, or the free
+      market reforms as freeing economies from economic rent. There was a counter-revolution
+      in the United States and Europe against the industrial-capitalist reforms. The
+      rentiers fought back. … What China did that the other nations, the Western nations,
+      didn’t do was it completed the industrial capitalist revolution by keeping banks
+      and money creation in the public domain. So in China, it’s the People’s Bank of
+      China that creates money and determines who is going to get the credit and on
+      what terms. That’s not the case in the West. In the West, it’s the commercial
+      banks that determine who is going to get the money and create credit for. All
+      they’re concerned about is making the quickest gain possible. And the quickest
+      gain is possible by lending money to a corporate raider, to take over a corporation,
+      essentially splitting it up in parts, selling off its real estate, and leasing
+      it back, using the sales price as a special dividend. Corporations will borrow
+      even to buy their own stock. They’ll borrow at low rates under quantitative easing,
+      and buy stock yielding a higher rate. The Western banks are in unproductive lending,
+      and China focuses on productive lending. (Interview) BEN NORTON : Michael, it’s
+      always a real pleasure having you. Thanks for joining us today. So, Michael, this
+      is the second part of our discussion. In the first part , we discussed the idea
+      of “U.S.-centered financial colonialism” that you discussed in your article .
+      You talked about ways in which countries can create alternatives in a more multipolar
+      world, and how, in particular, they can challenge the debt that they’re trapped
+      in; and how, ultimately, it’s impossible to pay off this large dollar-denominated
+      debt, so they shouldn’t pay it; instead, they should seek alternatives. Here,
+      in part two, we’re going to talk about how landlords are taking over society and
+      making the cost of living prohibitively expensive for working people. In order
+      to understand why this is happening, we have to understand the idea of economic
+      rent, and how it’s different from value and profit. Let’s just start with a very
+      broad question. Can you explain why you felt it was important to write this article?
+      You described it as almost a kind of manifesto of sorts. And what is the main
+      argument you’re making about how the Global Majority can free itself from US-dominated
+      financial colonialism? MICHAEL HUDSON : Well, I wrote the article because there
+      is a tendency for the Global Majority, and especially for the Global South, only
+      to go halfway, and not to confront the fact that, for the last 200 years, ever
+      since the industrial revolution, the whole dynamic of the industrial nations —
+      Britain, France, Germany, and the United States — has been revolutionary. They
+      got rid of their vestiges of feudalism. They got rid of the rentier class. They
+      defined the free market as a market free from economic rent, land rent, monopoly
+      rent. And they wanted to reform finance. And they did many of these things. But
+      in their foreign investment, from the early 19th century on, they wanted other
+      countries not to protect their industry, but to supply the industrial nations
+      with raw materials, and essentially to let the countries running trade surpluses,
+      the industrial nations, use these surpluses to obtain the money to lend to the
+      raw materials producers and invest in their land, and natural resources, and public
+      infrastructure. So what was created was a mirror-image economy. You had the world
+      divided into two kinds of economy: a reformist, industrial capitalist economy
+      in the industrial nations; and rentier economies, largely foreign-owned, as the
+      rentiers were foreign, in the whole rest of the world that did not protect itself,
+      did not have governments strong enough to support their own industry, because
+      of the foreign domination. A map of the core and periphery according to dependency
+      theory These countries have never been able to go beyond the residue of foreign
+      colonialism and financial imperialism, we can call it. And what they face is very
+      much the same kind of problem that Britain and Europe faced: How do industrial
+      capitalists minimize their cost of production by getting rid of all of the rentier
+      overcharges? By essentially having the government pick up many of the economy’s
+      charges, by freeing the economy from monopolies; by taxing income progressively,
+      especially raw materials income and land income. Just the opposite is the case
+      with the the Global South countries. Foreigners own their raw materials. Foreigners
+      essentially have been able to use debt leverage to say, well, we will use the
+      International Monetary Fund, the World Bank, in the United States, to lend you
+      money so that you can afford to finance your trade deficits that come from your
+      not industrializing. But this lending is going to be on terms that enable us to
+      buy up your industry, to privatize your public domain, to privatize your natural
+      monopolies, and charge monopoly rent, instead of providing public services, health,
+      education, communications, transportation at a subsidized rate to help make a
+      competitive industrial economy. Unless the Global Majority, and especially the
+      Global South countries, restructure their economy in the same radical way that
+      Europe restructured its economy, it is not going to be able to escape from the
+      existing specialization of world labor, and investment, and economic dependency.
+      That’s really what it’s all about. What is needed in terms of domestic policy
+      for countries to be sovereign and really independent, instead of having to spend
+      all of their tax revenues and reorganize their economy just to pay their foreign
+      dollar debts and enable the foreign investors to send all the land rent, and natural
+      resource rent, and monopoly rent out of their countries, to the industrial creditor
+      nations. BEN NORTON : Thanks, Michael. That was a great summary of your main argument.
+      Let’s talk more about this idea of the rentier class. You point out that the classical
+      political economists, people like Adam Smith and David Ricardo, who are so often
+      cited by mainstream neoliberal economists today, they often don’t really read
+      those political economists’ work. If you go back and read the classical political
+      economists, you see that they were viciously critical of the landlord class, and
+      they saw these landlords as remnants of the feudal aristocrats, who used their
+      control over monopolies, natural monopolies and land, in order to charge monopoly
+      rents. They didn’t produce anything; they didn’t contribute anything productive
+      to the economy. Here are some quotes from Adam Smith in his magnum opus, The Wealth
+      of Nations , written in 1776 (emphasis added): “As soon as the land of any country
+      has all become private property, the landlords, like all other men, love to reap
+      where they never sowed , and demand a rent even for its natural produce” (Book
+      1, chapter 6). “The landlord demands a rent even for unimproved land , and the
+      supposed interest or profit upon the expence of improvement is generally an addition
+      to this original rent. Those improvements, besides, are not always made by the
+      stock of the landlord, but sometimes by that of the tenant. When the lease comes
+      to be renewed, however, the landlord commonly demands the same augmentation of
+      rent, as if they had been all made by his own” (Book 1, chapter 11). “The rent
+      of land, therefore, considered as the price paid for the use of the land, is naturally
+      a monopoly price . It is not at all proportioned to what the landlord may have
+      laid out upon the improvement of the land , or to what he can afford to take;
+      but to what the farmer can afford to give” (Book 1, chapter 11). For the classical
+      political economists, landlords were differentiated from industrial capitalists
+      — who, yes, were exploiting labor. And this is something that Karl Marx, of course,
+      emphasized later on, the surplus value extracted from workers. However, there’s
+      this idea that Marx was completely different from the classical political economists
+      like Adam Smith. But, in reality, Marx had much more in common with Smith and
+      Ricardo than do today’s neoclassical, marginalist economists, who do not support
+      the labor theory of value — whereas Smith, Ricardo, and Marx all agreed on the
+      labor theory of value, that value ultimately comes from workers producing something.
+      So the rentier class does not produce anything. And this is why the classical
+      political economist saw the industrial capitalists as revolutionary compared to
+      the landlords. Even Marx himself. Go read the Communist Manifesto. The beginning
+      of the first chapter praises capitalism as a revolutionary force against feudalism.
+      Marx and Engels wrote : The bourgeoisie, historically, has played a most revolutionary
+      part. The bourgeoisie, wherever it has got the upper hand, has put an end to all
+      feudal, patriarchal, idyllic relations. … The bourgeoisie cannot exist without
+      constantly revolutionising the instruments of production, and thereby the relations
+      of production, and with them the whole relations of society. Your argument, Michael,
+      is that, with the increasing financialization of capitalism, capitalism has moved
+      away from that progressive element that maybe was true in the very early days,
+      and has become more and more monopolized, with less and less competition, less
+      and less actual productivity, less and less innovation, and more and more exploitation,
+      and more and more extraction of monopoly rents. Can you talk more about this idea?
+      MICHAEL HUDSON : Yes, it’s more complicated than that. The term labor theory of
+      value is very misleading. It’s really a labor theory of economic rent. What we’re
+      dealing with, and what the classical economists all had in common, leading up
+      to Marx, and later to Thorstein Veblen and other people, was a theory of value,
+      price, and rent. Price was the excess of value, which is the basic cost of production.
+      Value was defined as what does an economy need as a necessary cost of production
+      to the industrialist? And how much is unnecessary? Well, what Marx described industrial
+      capitalism as doing, looking back on the 100 years just before he wrote, was that
+      the capitalist wants to get rid of all the unnecessary costs of production, the
+      costs that are really not part of nature, not real costs, but they’re legal costs
+      — the legal right for landlords to charge rent, instead of having the rent collected
+      by the state as its natural tax base, which is what Adam Smith, and [David] Ricardo,
+      and John Stuart Mill, and most of all Marx and the socialists developed. The whole
+      idea of value and price theory was to bring prices down to the actual value, the
+      cost of production. Calling it the labor theory of value meant that, ultimately,
+      the real cost of production is labor. Land was produced freely, by nature. There
+      is no cost to production for land, but landlords charge for it. Monopolies are
+      created by laws. They’re not natural. They are monopoly privileges, often that
+      were created in the medieval period by governments, with the help of their bankers,
+      to figure out a way of extracting monopoly rents from the economy, to raise the
+      money to pay interest on the war debts that the European kingdoms took on. Banking
+      also does not have to be privatized and run for the benefit of creditors. As a
+      matter of fact, Adam Smith — apart from Ricardo, who was a bank spokesman — almost
+      all the economists from the middle 18th century wrote about how banks did not
+      lend for industry and development; they didn’t provide James Watt with the money
+      to build those steam engines. He had to take a mortgage out. Especially English
+      and American banking didn’t lend for industrial purposes; it was usury banking.
+      It was lent mainly for rent-seeking powers, to buy rent-seeking property like
+      land, or monopolies — like foreign railroad investment was the most important
+      thing in the 19th-century stock market. Communications, port development, road
+      development were were all things that were financed, that were added to the cost
+      of production, all sorts of monopoly charges that the classical theory of value,
+      price, and rent wanted to get rid of. When, modern economists talk about the “free
+      market”, they’re not talking about what Adam Smith, and John Stuart Mill, and
+      the others talked about; they meant a market free from economic rent, free from
+      the landlord class levying rents that had to be paid out of the budgets of the
+      employees. As long as land was owned by the landlords, and as long as the landlords,
+      especially in Britain, imposed special agricultural tariffs, such as the Corn
+      Laws — that prevented Britain from importing low-priced food to feed the labor,
+      so that they could make higher agricultural rents on their land, yielding very
+      high-priced costs — there was no way that Britain could have competed with other
+      industrial countries. That was the whole theme of David Ricardo. Even though he
+      was a spokesman for the bankers, he criticized the landlord class, because, if
+      England would protect its landlords, its landowners, then England would not be
+      the workshop of the world. And if England were not the workshop of the world,
+      then British bankers would not be able to make profits and interest on their major
+      market, which was financing foreign trade and foreign-exchange transfers. So the
+      whole idea of the industrialists and the banking class, working together, was
+      to get rid of the land rents and monopoly rents, to make Britain so much more
+      streamlined and competitive, by bringing its prices down to the actual cost value,
+      by getting rid of the economic rent, so that they could under-price other countries.
+      Then, by supporting free trade instead of agricultural protectionism — and this
+      was at a time when the landlord class still controlled the House of Lords, the
+      upper house of government, and was able to dictate its own self-interest — the
+      whole idea was that parliamentary reform to free politics from the landlord class
+      enabled the reformers, the industrialists and the bankers, to free markets from
+      the power of the landlord class to impose rents, the power of the monopolists
+      to charge high rates, by getting rid of the monopolies, by enforcing competition,
+      such as the United States did in with its anti-monopoly laws. Countries such as
+      Germany, at the end of the 19th century, transformed banking. Instead of letting
+      banks lend money for unproductive purposes, for basically what Marx called usury
+      banking, Germany took the lead in industrializing banking, and making money creation
+      and bank credit focused on financing capital investment in industry, which is
+      what enabled Germany to rise so rapidly to become an industrial power. Well, none
+      of this occurred in foreign countries. Britain adopted free trade and made a political
+      deal with other countries when it abolished the Corn Laws in 1846, and it told
+      the United States, Latin America, and other countries, “We will let you into the
+      British market, without tariffs, if you let us into your market. Why don’t you
+      buy it in the cheapest market? We have a head start. We spent a hundred years,
+      giving ourselves a head start and reforming our economy so that we can provide
+      you with industry much cheaper. Why don’t you export your raw materials in exchange
+      for our industry? It will be one happy, unified world economy. Everybody produces
+      what they are best at”. David Ricardo made a mathematical example of British cloth
+      exchanging for Portuguese wine. And in Ricardo’s example, he was so dishonest,
+      so rhetorical that he made Portugal, the raw material supplier, the “winner”,
+      in the gains from trade. The kind of international trade theory [of comparative
+      advantage] that is taught, even down to today, is all based on Ricardian free-trade
+      theory. It leaves out of account the political dimension, the social dimension,
+      the whole idea of what is the role of economic rent in determining international
+      price structures and competition. Well, one of the problems with the Global South
+      countries, and the Global Majority, is they have sent their most promising students
+      to the United States to be educated in economics. And the economic curriculum
+      that is taught today doesn’t talk about any of this kind of a free market, or
+      the free market reforms as freeing economies from economic rent. There was a counter-revolution
+      in the United States and Europe against the industrial capitalist reforms. The
+      rentiers fought back. By the late 19th century, you had John Bates Clark in the
+      United States, you had the Austrians in Europe, and the British sort of liberals,
+      all saying, “Well, there’s really no such thing as economic rent. There is no
+      difference between price and value. Whatever a good or a service is sold for is
+      what actually consumers decide to pay. It’s all consumer demand for everything.
+      Everybody earns whatever they get. There’s no economic rent”. That is what students
+      are taught here. And then they go back to their countries. And there’s a belief
+      in these countries — I’ve even seen it in China, where, my students there complain
+      that students educated in the United States are given preference in jobs, but
+      they certainly don’t learn Marxism in the United States. The only group that is
+      still talking about Adam Smith, John Stuart Mill, Ricardo, and the whole classical
+      economics school, were the Marxists, because all of this logic of value, price,
+      and rent sort of culminated in Marx, who really was the patron saint of economic
+      accounting. He actually worked on the balance sheets of industiral companies,
+      and made a model of the economy. And in this model, he distinguished industrial
+      capitalism from what went before, from the feudal time, basically, and from the
+      rentiers. He said, Adam Smith was right. John Stuart Mill was right. Rent is what
+      John Stuart Mill said landlords make in their sleep. They make it without work.
+      They do not play a productive role. And the economy is divided into two halves:
+      the economy of production and the economy of circulation. Now, it’s true, as you
+      pointed out a few minutes ago, that the industrialist does sell the products that
+      his employees make; he sells these products of labor at more than it costs him
+      to hire the labor force. But Marx said this is creating value. The industrialist
+      actually organizes production. The industrialist doesn’t make profits in his sleep.
+      He organizes a supply chain of raw materials. He develops markets, and a whole
+      marketing system. He organizes industry. He modernizes other means of production,
+      constantly. So Marx included industrial profits as an element of value, and he
+      said, if you look at the production part of the economy that produces value, that
+      will certainly include industrial profits, but it will exclude land rent, natural
+      resource rent, monopoly rent, and financial interest, that is made just because
+      banks have bought the monopoly power to create money and credit, that’s accepted
+      as legal tender for payment of taxes. This is a legal creation that is not necessary.
+      Well, just imagine if you were making a model of national income and product account,
+      or the gross domestic product, the United States and Europe, all the countries
+      in the world under the United Nations, sort of formatting of gross domestic product,
+      they include land rent, and financial services, and monopoly rent in this. In
+      the United States, for instance, I tried to separate rent seeking from the actual
+      real value of the GDP from the excessive economic rent in the GDP. I asked the
+      Department of Commerce, when a bank imposes late charges of 20% or 30% on credit
+      card users, raising their interest charge from 19% to over 30%, where does this
+      appear in the GDP? They said, oh, that’s providing a financial service. So it’s
+      considered as a service. Well, the classical economist said monopolists, bankers,
+      and landlords don’t provide a service. They have a special privilege of obtaining
+      money. But that’s not a product. Late fees are not a product. Receiving interest
+      and receiving income from the interest you get is not a profit. Rising housing
+      prices that really are just the increase in the price of land, not of building,
+      but the price goes up despite the fact that the building stays what it is; all
+      of that is not a product; it’s essentially financial price inflation. The rent
+      of this location that is going up, the land rent, is used to pay interest to the
+      banks. And so the United States and Europe got rid of a feudal hereditary landlord
+      class. We don’t have a landlord class anymore. We have democratized housing and
+      commercial real estate. Anybody can buy a house, buy commercial real estate. But
+      most people have to do so by taking out a mortgage. And how do they get a mortgage?
+      They bid against each other, and the winner is the buyer who promises to pay the
+      most of the land rent and other rental income to the bank as interest. So you
+      have somehow had the Western economy turn into a rentier economy, and that has
+      led to deindustrialization. Unless the Global South countries and Global Majority
+      countries do what Britain, France, Germany, and America did in the 19th century,
+      or what China did after the 1949 revolution, they’re not going to be able to have
+      an economic alternative that is going to enable them to be competitive industrial
+      powers, in charge of their own income. Instead of transferring all of the economic
+      rent in their economy to the foreign owners, to the foreign investors in their
+      mining, their oil industry, their public infrastructure, that’s all developed
+      and has left them with this whole superstructure of foreign debt, that prevents
+      their governments from investing to support the economy; to invest in their own,
+      new infrastructure to serve the economy, instead of roads and ports for foreign
+      investors. There’s a whole structural revolution in the organization of the economy
+      and society that is needed here, just like the whole parliamentary political system
+      in Europe had to be restructured, in order to introduce the economic reforms that
+      made the industrial nations so much more efficient, and the countries they invested
+      in so much less efficient. BEN NORTON : Very important analysis there, Michael.
+      What you said there reminded me of the work of Giovanni Arrighi, the political
+      economist who unfortunately passed away in 2009. In 2007, he wrote a very interesting
+      book, right before the U.S. caused a massive financial crisis, which was Adam
+      Smith in Beijing . In this book, he argued that, again, that Marx was critiquing
+      Adam Smith, but actually there was much more in common between Smith and Marx
+      than with many neoclassical economists today. Arrighi described the idea of what
+      he called “Smithian socialism”, or a kind of market socialism, which is very similar
+      to the Chinese model today, which includes public ownership of the commanding
+      heights of the economy, the natural monopolies, land, resources, telecommunications,
+      infrastructure, and, most importantly, finance; but also a robust internal market
+      economy, with lots of competition that drives down profit margins. Because, as
+      you pointed out, the original, classical political economists like Smith recognized
+      that, if you have perfect competition, profits go to zero. And actually, capitalists
+      in many ways are incentivized to monopolize their respective industries, so they
+      can maximize their profit margins. Today we actually see this expressed pretty
+      openly, by people like Peter Thiel, who is a major supporter of Donald Trump.
+      Peter Thiel is a billionaire from Silicon Valley, a major venture capitalist.
+      And he also employed U.S. vice president JD Vance. Peter Thiel, for years, has
+      argued in defense of monopolies. He published an oped in The Wall Street Journal
+      titled “ Competition Is for Losers ”, in which he lamented the fact that, if you
+      do have lots of competition, profit margins fall to zero. He said that that’s
+      why all capitalists want a monopoly, and he argued that’s a good thing. Whereas,
+      you look at China’s socialist market economy today, you actually have all these
+      capitalists are, you know, engaged in blood sport. They’re all fighting each other
+      to the death in this cutthroat competition. Profit margins are basically going
+      to zero in China, whereas in the US, the profits of corporations are at an all
+      time high — and the labor share of income is falling and falling, as corporate
+      profits are at an all time high. So this to me seems to be empirical substantiation
+      of exactly what you’re arguing about, how, when you have this monopolized system,
+      like in the US, you have very high profits. When you have this system in China
+      that guarantees competition and minimizes monopolies, you have very low profits.
+      And it’s clear which system is actually providing a better standard of living
+      for its people. MICHAEL HUDSON : Well, Arrighi’s big point is quite correct, but
+      his title for it, Adam Smith in Beijing , is very unfortunate. What actually happened
+      was, in the late 1970s, the Chinese decided, we don’t want our kind of socialism
+      to be what Stalinism had in Russia. I was asked, initially, do you want to go
+      to this Shanghai institute that was having the Chicago school people go, Milton
+      Friedman and his colleagues. I said, “Gee, that sounds pretty wonderful”. This
+      was like 1979. And I said, “You know, it probably helps that I’m a Marxist. I
+      grew up in a Marxist household”. And they said, “Oh, dear, you better not go.
+      They don’t want any sign of Marxism”. Well, what happened was that Milton Friedman
+      went, and he convinced them to let a hundred flowers bloom. He said, “You can’t
+      have the state design everything. You have to leave room for innovation to occur”.
+      That’s what happened in Britain, and happened in Germany. BEN NORTON : I’m sorry
+      to cut you off, Michael. Definitely, you are right that in China, they did have
+      this idea of let a hundred flowers bloom. And there was a lot of pragmatism and
+      experimentation. But just on the specific issue of Milton Friedman, this is often
+      misunderstood. And David Harvey did a lot of damage with this false idea that
+      China adopted neoliberalism and they listened to Milton Friedman. Actually, this
+      is described very well in the book How China Escaped Shock Therapy by Isabella
+      Weber. She looks at the archival evidence from China and shows how, yes, you’re
+      right that Friedman did go, along with many other economic advisors from all around
+      the world, because the Chinese leadership, led by Deng Xiaoping at that time,
+      wanted to hear many different opinions. So Milton Friedman was one among thousands
+      of different economists who was invited. But actually, in her book, Isabella Weber
+      showed that they largely ignored what Milton Friedman recommended, and instead
+      listened to the advice of other economists who were not extreme neoliberals like
+      Friedman. So, for instance, on the issue of price liberalization, Friedman called
+      for a “big bang”; he wanted liberalization of all prices immediately. Weber shows
+      in her book how actually the Chinese government had an incrementalist, gradualist
+      approach, and they did not adopt the “big bang” theory; they did not adopt that
+      approach of Friedman. MICHAEL HUDSON : You’re quite right. I just cited him because
+      he’s the most well known. And, of course, he’s such an extremist that any realistic
+      person would realize that he’s almost a nutcase. What China did that the other
+      nations, the Western nations, didn’t do was it completed the industrial capitalist
+      revolution by keeping banks and money creation in the public domain. So in China,
+      it’s the People’s Bank of China that creates money and determines who is going
+      to get the credit and on what terms. That’s not the case in the West. In the West,
+      it’s the commercial banks that determine who is going to get the money and create
+      credit for. All they’re concerned about is making the quickest gain possible.
+      And the quickest gain is possible by lending money to a corporate raider, to take
+      over a corporation, essentially splitting it up in parts, selling off its real
+      estate, and leasing it back, using the sales price as a special dividend. Corporations
+      will borrow even to buy their own stock. They’ll borrow at low rates under quantitative
+      easing, and buy stock yielding a higher rate. The Western banks are in unproductive
+      lending, and China focuses on productive lending. However, the one thing that
+      China does not do is what Adam Smith urged most of all. He said, you’ve got to
+      avoid land rent. Land rent is the natural public source of tax revenue. It’s the
+      natural tax base, not taxes on labor’s wages or industrial profits, but the land.
+      Well, Marx, spent volume one of Capital talking about what you and I were just
+      mentioning: How does a capitalist make his profit productively? By employing labor
+      to produce a surplus, to produce profit, the surplus value in this. That’s how
+      Marx explained, well, what is the labor theory of value? Are we referring to the
+      price that labor received for its wages, or the price at which labor’s product
+      is sold for? There’s a surplus over and above value there. Marx did not call that
+      surplus economic rent; he said it’s still value, but it’s profit, not rent. In
+      order to understand that, you have to understand the whole economic body of economic
+      discussion for the hundred years leading up to him, from Adam Smith and Ricardo,
+      Malthus, Mill, all of that. That is what is not taught here. After Marx said,
+      well, here’s what I’m adding to classical value theory, he then spent volumes
+      two and three of Capital discussing rent and financial returns. And he essentially
+      wrote what used to be called volume four, which he had originally meant to be
+      the first volume of Capital , in his theories of surplus value, which was really
+      the first history of economic theory that was published in the West. Marx, in
+      his theories of surplus value, discussed all of the development of economic thought
+      regarding value, price, and rent theory, from William Petty through Davenant and
+      the Physiocrats, and all of the minor economists, whose names probably are unfamiliar
+      to most of your audience. Well, the Chinese that I’ve spoken to, and I was a professor
+      of economics at Peking University, at the School of Marxism Studies, so I’m pretty
+      familiar with what they taught. I was invited to the first international Marxist
+      conference, and I said, in order to understand Marxism, you have to read volumes
+      two and three of Capital , and theories of surplus value as well. Well, that didn’t
+      go over very well, because I was focusing on economic rent. I said, we’re seeing
+      an increase in housing prices in real estate. And the problem is the relationship
+      between China’s central government and the localities. A part of their, you know,
+      let a hundred flowers bloom philosophy is, well, let’s let each of the villages
+      and the towns develop their own organization, and we’ll see what develops the
+      best. Well, a common denominator in the Chinese localities is they finance their
+      public spending by selling, or leasing, land to real estate developers. And the
+      real estate developers buy this and develop into housing. And over time, this
+      housing is sold at rising prices. This rise in housing prices, or commercial real
+      estate prices, is really an increase in land rent. It was the increase in price
+      that John Stuart Mill was referring to, when he said landlords make profits in
+      their sleep. He meant landlords make what today are called capital gains, which
+      are really rent valuation gains, in their sleep. Well, China has not has not specifically
+      addressed this rent problem that underlies the strains in national and local finances,
+      that led to the whole real estate crash of overbuilding. Well, at the second Marxist
+      conference, David Harvey came. I gave one of the special speeches at the first
+      conference. David Harvey was given the corresponding keynote speech at the second
+      conference, because his books have sold very well in China. And Harvey said, all
+      you have to do is just what Michael Hudson said: you have to read volumes two
+      and three of Capital in order to get the full Marxist grounding. With Adam Smith
+      and classical economics, it’s all one evolving system that explains why Europe
+      developed and the rest of the world didn’t — apart from the United States, that
+      was the other protectionist industrial nation, that became a creditor nation as
+      a result. Well, David Harvey did not receive any more of a positive response than
+      I received. And there’s a hesitancy in China to study volumes two and three of
+      Capital , just as in the United States, there’s no discussion of classical economics;
+      there’s very little. What China has done in a way you could say is to reinvent
+      the wheel spontaneously, just by the internal logic of economic development. China
+      has replicated the policies of Britain, France, Germany, and the United States,
+      and industrial capitalism itself. It has replicated it above all by preventing
+      monopolies, and by preventing a banking sector that has become what it was in
+      America, the mother of trusts, by creating monopolies and funding, and lobbying
+      for the creation of monopolies — which you have under Donald Trump’s regime so
+      far in the United States. Under Trump, for the last half year, he has abolished
+      almost all implementation of America’s anti-monopoly legislation. Well, China
+      has done almost every prevention of rentier income, economic rent, except that
+      of land rent, which is why so many absentee owners of real estate have developed
+      in China, buying a property in order to rent it out as landlords. That’s what
+      led President Xi to say, housing should be for living; it shouldn’t be an investment
+      vehicle. To the extent that land is an investment vehicle, it is because of land
+      rent that is not being collected as the tax base. Well, China will say, well,
+      we really don’t need a tax base, because we can create our own income. We don’t
+      need to borrow from a financial class, because when there was a revolution, in
+      1945-49, we got rid of the landlord class; we got rid of the financial class.
+      So the government had to just survive by creating its own money, just like the
+      United States created greenbacks during the Civil War, for instance; or the American
+      colonies created their own currency. This is universal. China just followed the
+      logical path of least resistance, without any opposition from a rentier vested
+      interest that said, “No, no, you have to make money most easily by economic rent,
+      not by industrialization, not by investing”. That was really China’s advantage.
+      But it didn’t follow the number one emphasis of Adam Smith on land rent. BEN NORTON
+      : Again, Michael, you raised so many interesting points there. It’s hard to know
+      which exactly to respond to. I want to raise this interesting idea that we’ve
+      seen become this kind of trope that is very popular in social media today, on
+      finance TikTok and Twitter, which is the idea of “passive income”. I’m sure you’ve
+      seen this. And what’s actually quite funny is you’ve often cited this very important
+      quote from the 19th-century political economist John Stuart Mill, who said: “Landlords
+      grow rich in their sleep without working, risking, or economizing. The increase
+      in the value of land, arising as it does from the efforts of an entire community,
+      should belong to the community and not to the individual who might hold title”.
+      Now, when you see the full quote, it’s clear that he’s saying that these landlords
+      should not be receiving this rental income that they get, this rent extraction
+      from simply owning this land and monopolizing this land. But what’s hilarious,
+      in a kind of sadistic way, a very sad way, is if you look up the quote, “Landlords
+      grow rich in their sleep”, from John Stuart Mill, you can find many social media
+      posts from realtor companies , different realtors quoting that and saying this
+      is why you should buy a house and you should become a landlord. Especially for
+      younger people, there’s this big trope of “passive income”. There are millions
+      of videos on social media of people trying to teach you how you can earn passive
+      income by becoming a landlord. In the US economy, so much revolves around this
+      idea today of everyone trying to become their own landlord, so they don’t have
+      to work, and this is seen as something positive. But obviously this is extremely
+      destructive for society and the economy. It’s also a side product, a byproduct,
+      of the fact that the economy has been completely financialized, and people feel
+      like they have no economic alternative, so they all just want to become a landlord.
+      MICHAEL HUDSON : Well, this is what’s taught in business schools. This is how
+      to make money. This is what is taught in the economic curriculum. So just imagine
+      if the Global South countries send their students to the United States — very
+      often the students of the wealthiest families, that can afford to pay the $50,000
+      to $80,000 a year that it costs for a prestige US university — you can imagine
+      what happens when they go back to their country. They are not taught about how
+      to create an economy that is rent free, but you get an economy that provides a
+      free lunch — income without working, a free lunch economy. Milton Friedman said
+      “there is no such thing as a free lunch”, but a free lunch is what finance capitalism
+      is all about. It wasn’t what industrial capitalism was all about. But we’ve turned
+      into the free lunch economy, without the academic curriculum taking note of this,
+      and without the whole official statistical picture of economists drawing a distinction
+      between real GDP, the actual cost of production sector; and fictitious GDP, the
+      economic rent. Well, what this means is suppose you’re comparing China’s GDP to
+      the US GDP. That’s misleading. Of course it shows China in the lead there, but
+      the lead is actually much faster than the statistics show. Because if you say,
+      well, what’s the comparison between the real GDP of the United States and the
+      real GDP of China, in terms of what’s actually produced, China is way ahead, because
+      it doesn’t have the fictitious GDP that the United States and the Western economies
+      have. The only fictitious element is the increase in real estate prices, which
+      is an increase in price, not value. And to do that, you have to have the classical
+      distinction between value, price, and economic rent. That simple distinction is
+      so easy to say in words, but, generation after generation, there were debates
+      to refine what that meant, refine the concept. What’s the necessary cost to production?
+      What’s an unnecessary cost to production? What’s value, and what’s price in excess
+      of value? All of this took a hundred years to develop. And after it developed,
+      by the late 19th century, as I said, the rentiers fought back and introduced a
+      century of junk economics, the Chicago School, the “free-market” economics that
+      became a free market for the rentiers, not for the rest of the economy. BEN NORTON
+      : Michael, I think that’s the perfect note to end our discussion. This was part
+      two of my interview with the economist Michael Hudson. This-two part discussion
+      is about Michael’s article titled “ How the Global Majority can free itself from
+      US financial colonialism ”. In part one of this interview , Michael discusses
+      the development of this system he describes as “US-centered financial colonialism”,
+      how it developed, what institutions make up this system, and how countries in
+      the Global Majority can develop alternatives to this system. So with that said,
+      Michael, any last thoughts you want to add here? MICHAEL HUDSON : No, you’ve said
+      it all. BEN NORTON : All right, well, thanks for joining us, Michael. Michael
+      Hudson is a world-renowned economist and the author of many books. Thanks a lot,
+      Michael. It’s always a pleasure. MICHAEL HUDSON : Thanks for having me. The post
+      America’s Free Lunch Economy first appeared on Michael Hudson .'
+    one_sentence_summary: The article discusses the growing dominance of large investment
+      firms, particularly Blackstone, in the housing market, leading to skyrocketing
+      rents and increased homelessness, a trend observed not only in the United States
+      but also in many Western countries.
+    paragraph_summary: In the article, Ben Norton discusses the growing dominance of
+      landlords, particularly large Wall Street investment firms like Blackstone, in
+      the housing market, which has made homeownership unattainable for many working-class
+      individuals and driven up rental costs significantly. This trend is not limited
+      to the United States but is prevalent in many Western countries, where financialization
+      of the economy has exacerbated housing issues. Blackstone, the largest landlord
+      in the U.S., has acquired over 300,000 rental units and continues to increase
+      rents, contributing to rising homelessness and evictions. The article highlights
+      the influence of wealthy individuals like Blackstone's CEO Stephen Schwarzman
+      on political decisions, particularly under the Trump administration, which has
+      enacted tax cuts favoring the rich and policies that benefit corporate landlords,
+      further entrenching the challenges faced by average citizens in securing affordable
+      housing.
+    published: '2025-08-19T12:50:57+00:00'
+  - title: America’s Free Lunch Economy
+    url: https://michael-hudson.com/2025/08/americas-free-lunch-economy/
+    text: 'August 10 2025, Landlords taking over society Transcript (Introduction) BEN
+      NORTON : Landlords are taking over society. For many average working people, it
+      has become impossible to buy a house. And the cost of renting housing has become
+      prohibitively expensive. This problem is especially bad in the United States.
+      But it’s not only a problem in the US; it’s a problem in many countries around
+      the world — especially in Western countries in North America and Europe, whose
+      economies have become financialized. In the United States, for instance, the largest
+      landlord is not an individual; it’s a massive Wall Street investment firm: Blackstone,
+      the private equity fund. Blackstone owned more than 300,000 rental housing units
+      in the US as of 2023. The number has only increased since then. Blackstone and
+      other Wall Street investment funds have been gobbling up residential housing.
+      Then they ratchet up the cost of rent, which has fueled homelessness, as many
+      people are being evicted from their homes. By the way, the billionaire CEO of
+      Blackstone, Stephen Schwarzman, who is the highest paid CEO on Wall Street, was
+      one of the main funders of Donald Trump’s 2024 presidential campaign . Now that
+      Trump has returned as U.S. president, this gives billionaire Stephen Schwarzman
+      and Blackstone a lot of influence in Trump’s policymaking. Of course, Trump has
+      been massively cutting taxes on the rich — benefiting billionaires like Stephen
+      Schwarzman, who helped to fund his campaign. 69% of the tax cuts in Trump’s “Big
+      Beautiful Bill” go to the richest 20% of Americans. Just 6% go to the poorest
+      40%. The US government is implementing many other policies that benefit these
+      corporate landlords on Wall Street who are gobbling up houses all across the country.
+      Business Insider reported in 2022 that U.S. institutional investors bought 25%
+      of the single-family homes flipped in the third quarter of 2022. Flipping a home
+      means an investor buys up a home — usually an old, dilapidated one — and then
+      maybe invests a few thousand dollars in renovating it. Then they sell it, and
+      they make huge profits of tens of thousands or even hundreds of thousands of dollars.
+      It’s not just mom-and-pop people doing this. More and more, it’s institutional
+      investors, many from Wall Street. Business Insider reported that investors were
+      behind 44% of the purchases of US single-family homes flips in the third quarter
+      of 2022. And this problem is only getting worse. CNBC reported that Wall Street
+      financial firms have bought hundreds of thousands of single-family homes since
+      the Great Recession, which Wall Street itself caused in 2008 and 2009. That crisis
+      also led millions of Americans to lose their homes in the first place. So Wall
+      Street is responsible for so many of these problems. CNBC recorded an incredible
+      statistic, estimating, “Institutional investors may control 40% of U.S. single-family
+      rental homes by 2030”. These are the new feudal lords. These are corporate landlords
+      that are gobbling up homes in the US. The US government has played a role in supporting
+      these private equity funds and other Wall Street firms that are buying up all
+      of these homes — these Wall Street landlords. CNBC noted that the “single-family
+      rental industry got its start with government backing in the fallout after the
+      2008 financial crisis” — which, once again, was caused by Wall Street. The CNBC
+      report quoted the California congressman Ro Khanna, who said, “What’s outrageous
+      is your tax dollars are helping Wall Street buy up single-family homes”. The New
+      York Times published an article that explained how Wall Street financial firms
+      are buying up basically all of the residential homes in entire blocks in neighborhoods
+      in the US. The Times showed the example of a small neighborhood in Charlotte,
+      North Carolina, called Bradfield Farms that has 34 homes. Investors have bought
+      up 33 of those homes. All of them, except for one, now are owned by investors,
+      who are renting out these homes. And, of course, they massively increase the cost
+      of rent. As the New York Times put it, “a newcomer is more likely to rent a house
+      from a corporate landlord”. The newspaper added, “Wall Street has come for the
+      starter home”. The New York Times looked at several different cities where investors
+      are gobbling up residential homes, including Atlanta, Memphis, Orlando, Tampa,
+      Las Vegas, Houston, and San Antonio. This report noted that investors are largely
+      targeting middle-income and working-class neighborhoods, especially with large
+      Black and Latino populations. So we see more and more that working-class Americans,
+      in particular, Black and Latino working-class Americans, are now unable to own
+      a home, because the houses are being bought up by these landlords, these investors,
+      including corporate landlords on Wall Street, and they have to pay higher and
+      higher rents to the landlord class. This is a big reason why homelessness is exploding
+      in the U.S. Just in 2024, the official number of recognized homeless people increased
+      by 18% , in one year. And that is very likely a conservative estimate, because
+      a lot of homeless people don’t go to shelters and are not registered as part of
+      the system. However, I should emphasize, this is not just a problem unique to
+      the United States. This is happening in countries all around the world, especially
+      in Western financialized economies. A good example of this is Spain. The New York
+      Times published another very interesting report looking at how, in Madrid, U.S.
+      investment firms from Wall Street have also been buying up homes , over across
+      the pond, across the Atlantic Ocean, in Europe. I already talked about how the
+      private equity fund Blackstone is the largest landlord in the US, with over 300,000
+      rental units that it owns. Well, Blackstone has also become the second-largest
+      owner of all houses in the country of Spain. And Blackstone is the single largest
+      private owner of residential real estate in Madrid, the Spanish capital. Blackstone
+      owns 13,000 housing units just in Madrid, and nearly 20,000 rental units across
+      all of Spain. The New York Times reported that, “Across Spain, around 185,000
+      rental properties are now owned by large corporations, half of those by firms
+      based in the United States”, largely on Wall Street. And surprise, surprise, as
+      these corporate landlords are gobbling up homes, rental prices have increased
+      57% since 2015, in a decade, and home prices have increased by 47% in Spain. So
+      what we are seeing is that landlords are taking over society, in the West in particular.
+      In order to discuss this today, I have the privilege of interviewing the renowned
+      economist Michael Hudson, the author of many books, including Killing the Host
+      : How Financial Parasites and Debt Bondage Destroy the Global Economy . Today
+      we talk about how capitalism has evolved from industrial capitalism into financial
+      capitalism, especially in the neoliberal era, since the rise of the “free-market”
+      fundamentalists like Ronald Reagan in the US and Margaret Thatcher in the UK in
+      the 1980s. They talk about so-called “free markets”, but, as Michael Hudson points
+      out, when they say free markets, they mean the freedom of corporate landlords
+      and Wall Street to buy up all of the existing assets, of monopolists to monopolize
+      entire industries and extract monopoly rents. Michael Hudson discusses how they
+      are destroying the economy of the US and the broader West, and how people can
+      fight back against these corporate landlords. This is part two of a discussion
+      that I held with Michael Hudson, based on an article that he published, titled
+      “ How the Global Majority can free itself from US financial colonialism ”. Now
+      I am going to play some highlights of the main points that Michael Hudson made,
+      and then we’ll go straight to part two of our discussion. (Highlights) MICHAEL
+      HUDSON : Rent is what John Stuart Mill said landlords make in their sleep. They
+      make it without work. They do not play a productive role. … When modern economists
+      talk about the “free market”, they’re not talking about what Adam Smith and John
+      Stuart Mill and the others talked about. They meant a market free from economic
+      rent, free from the landlord class levying rents, that had to be paid out of the
+      budgets of the employees. … One of the problems with the Global South countries,
+      and the Global Majority, is they have sent their most promising students to the
+      United States to be educated in economics. And the economic curriculum that is
+      taught today doesn’t talk about any of this kind of a free market, or the free
+      market reforms as freeing economies from economic rent. There was a counter-revolution
+      in the United States and Europe against the industrial-capitalist reforms. The
+      rentiers fought back. … What China did that the other nations, the Western nations,
+      didn’t do was it completed the industrial capitalist revolution by keeping banks
+      and money creation in the public domain. So in China, it’s the People’s Bank of
+      China that creates money and determines who is going to get the credit and on
+      what terms. That’s not the case in the West. In the West, it’s the commercial
+      banks that determine who is going to get the money and create credit for. All
+      they’re concerned about is making the quickest gain possible. And the quickest
+      gain is possible by lending money to a corporate raider, to take over a corporation,
+      essentially splitting it up in parts, selling off its real estate, and leasing
+      it back, using the sales price as a special dividend. Corporations will borrow
+      even to buy their own stock. They’ll borrow at low rates under quantitative easing,
+      and buy stock yielding a higher rate. The Western banks are in unproductive lending,
+      and China focuses on productive lending. (Interview) BEN NORTON : Michael, it’s
+      always a real pleasure having you. Thanks for joining us today. So, Michael, this
+      is the second part of our discussion. In the first part , we discussed the idea
+      of “U.S.-centered financial colonialism” that you discussed in your article .
+      You talked about ways in which countries can create alternatives in a more multipolar
+      world, and how, in particular, they can challenge the debt that they’re trapped
+      in; and how, ultimately, it’s impossible to pay off this large dollar-denominated
+      debt, so they shouldn’t pay it; instead, they should seek alternatives. Here,
+      in part two, we’re going to talk about how landlords are taking over society and
+      making the cost of living prohibitively expensive for working people. In order
+      to understand why this is happening, we have to understand the idea of economic
+      rent, and how it’s different from value and profit. Let’s just start with a very
+      broad question. Can you explain why you felt it was important to write this article?
+      You described it as almost a kind of manifesto of sorts. And what is the main
+      argument you’re making about how the Global Majority can free itself from US-dominated
+      financial colonialism? MICHAEL HUDSON : Well, I wrote the article because there
+      is a tendency for the Global Majority, and especially for the Global South, only
+      to go halfway, and not to confront the fact that, for the last 200 years, ever
+      since the industrial revolution, the whole dynamic of the industrial nations —
+      Britain, France, Germany, and the United States — has been revolutionary. They
+      got rid of their vestiges of feudalism. They got rid of the rentier class. They
+      defined the free market as a market free from economic rent, land rent, monopoly
+      rent. And they wanted to reform finance. And they did many of these things. But
+      in their foreign investment, from the early 19th century on, they wanted other
+      countries not to protect their industry, but to supply the industrial nations
+      with raw materials, and essentially to let the countries running trade surpluses,
+      the industrial nations, use these surpluses to obtain the money to lend to the
+      raw materials producers and invest in their land, and natural resources, and public
+      infrastructure. So what was created was a mirror-image economy. You had the world
+      divided into two kinds of economy: a reformist, industrial capitalist economy
+      in the industrial nations; and rentier economies, largely foreign-owned, as the
+      rentiers were foreign, in the whole rest of the world that did not protect itself,
+      did not have governments strong enough to support their own industry, because
+      of the foreign domination. A map of the core and periphery according to dependency
+      theory These countries have never been able to go beyond the residue of foreign
+      colonialism and financial imperialism, we can call it. And what they face is very
+      much the same kind of problem that Britain and Europe faced: How do industrial
+      capitalists minimize their cost of production by getting rid of all of the rentier
+      overcharges? By essentially having the government pick up many of the economy’s
+      charges, by freeing the economy from monopolies; by taxing income progressively,
+      especially raw materials income and land income. Just the opposite is the case
+      with the the Global South countries. Foreigners own their raw materials. Foreigners
+      essentially have been able to use debt leverage to say, well, we will use the
+      International Monetary Fund, the World Bank, in the United States, to lend you
+      money so that you can afford to finance your trade deficits that come from your
+      not industrializing. But this lending is going to be on terms that enable us to
+      buy up your industry, to privatize your public domain, to privatize your natural
+      monopolies, and charge monopoly rent, instead of providing public services, health,
+      education, communications, transportation at a subsidized rate to help make a
+      competitive industrial economy. Unless the Global Majority, and especially the
+      Global South countries, restructure their economy in the same radical way that
+      Europe restructured its economy, it is not going to be able to escape from the
+      existing specialization of world labor, and investment, and economic dependency.
+      That’s really what it’s all about. What is needed in terms of domestic policy
+      for countries to be sovereign and really independent, instead of having to spend
+      all of their tax revenues and reorganize their economy just to pay their foreign
+      dollar debts and enable the foreign investors to send all the land rent, and natural
+      resource rent, and monopoly rent out of their countries, to the industrial creditor
+      nations. BEN NORTON : Thanks, Michael. That was a great summary of your main argument.
+      Let’s talk more about this idea of the rentier class. You point out that the classical
+      political economists, people like Adam Smith and David Ricardo, who are so often
+      cited by mainstream neoliberal economists today, they often don’t really read
+      those political economists’ work. If you go back and read the classical political
+      economists, you see that they were viciously critical of the landlord class, and
+      they saw these landlords as remnants of the feudal aristocrats, who used their
+      control over monopolies, natural monopolies and land, in order to charge monopoly
+      rents. They didn’t produce anything; they didn’t contribute anything productive
+      to the economy. Here are some quotes from Adam Smith in his magnum opus, The Wealth
+      of Nations , written in 1776 (emphasis added): “As soon as the land of any country
+      has all become private property, the landlords, like all other men, love to reap
+      where they never sowed , and demand a rent even for its natural produce” (Book
+      1, chapter 6). “The landlord demands a rent even for unimproved land , and the
+      supposed interest or profit upon the expence of improvement is generally an addition
+      to this original rent. Those improvements, besides, are not always made by the
+      stock of the landlord, but sometimes by that of the tenant. When the lease comes
+      to be renewed, however, the landlord commonly demands the same augmentation of
+      rent, as if they had been all made by his own” (Book 1, chapter 11). “The rent
+      of land, therefore, considered as the price paid for the use of the land, is naturally
+      a monopoly price . It is not at all proportioned to what the landlord may have
+      laid out upon the improvement of the land , or to what he can afford to take;
+      but to what the farmer can afford to give” (Book 1, chapter 11). For the classical
+      political economists, landlords were differentiated from industrial capitalists
+      — who, yes, were exploiting labor. And this is something that Karl Marx, of course,
+      emphasized later on, the surplus value extracted from workers. However, there’s
+      this idea that Marx was completely different from the classical political economists
+      like Adam Smith. But, in reality, Marx had much more in common with Smith and
+      Ricardo than do today’s neoclassical, marginalist economists, who do not support
+      the labor theory of value — whereas Smith, Ricardo, and Marx all agreed on the
+      labor theory of value, that value ultimately comes from workers producing something.
+      So the rentier class does not produce anything. And this is why the classical
+      political economist saw the industrial capitalists as revolutionary compared to
+      the landlords. Even Marx himself. Go read the Communist Manifesto. The beginning
+      of the first chapter praises capitalism as a revolutionary force against feudalism.
+      Marx and Engels wrote : The bourgeoisie, historically, has played a most revolutionary
+      part. The bourgeoisie, wherever it has got the upper hand, has put an end to all
+      feudal, patriarchal, idyllic relations. … The bourgeoisie cannot exist without
+      constantly revolutionising the instruments of production, and thereby the relations
+      of production, and with them the whole relations of society. Your argument, Michael,
+      is that, with the increasing financialization of capitalism, capitalism has moved
+      away from that progressive element that maybe was true in the very early days,
+      and has become more and more monopolized, with less and less competition, less
+      and less actual productivity, less and less innovation, and more and more exploitation,
+      and more and more extraction of monopoly rents. Can you talk more about this idea?
+      MICHAEL HUDSON : Yes, it’s more complicated than that. The term labor theory of
+      value is very misleading. It’s really a labor theory of economic rent. What we’re
+      dealing with, and what the classical economists all had in common, leading up
+      to Marx, and later to Thorstein Veblen and other people, was a theory of value,
+      price, and rent. Price was the excess of value, which is the basic cost of production.
+      Value was defined as what does an economy need as a necessary cost of production
+      to the industrialist? And how much is unnecessary? Well, what Marx described industrial
+      capitalism as doing, looking back on the 100 years just before he wrote, was that
+      the capitalist wants to get rid of all the unnecessary costs of production, the
+      costs that are really not part of nature, not real costs, but they’re legal costs
+      — the legal right for landlords to charge rent, instead of having the rent collected
+      by the state as its natural tax base, which is what Adam Smith, and [David] Ricardo,
+      and John Stuart Mill, and most of all Marx and the socialists developed. The whole
+      idea of value and price theory was to bring prices down to the actual value, the
+      cost of production. Calling it the labor theory of value meant that, ultimately,
+      the real cost of production is labor. Land was produced freely, by nature. There
+      is no cost to production for land, but landlords charge for it. Monopolies are
+      created by laws. They’re not natural. They are monopoly privileges, often that
+      were created in the medieval period by governments, with the help of their bankers,
+      to figure out a way of extracting monopoly rents from the economy, to raise the
+      money to pay interest on the war debts that the European kingdoms took on. Banking
+      also does not have to be privatized and run for the benefit of creditors. As a
+      matter of fact, Adam Smith — apart from Ricardo, who was a bank spokesman — almost
+      all the economists from the middle 18th century wrote about how banks did not
+      lend for industry and development; they didn’t provide James Watt with the money
+      to build those steam engines. He had to take a mortgage out. Especially English
+      and American banking didn’t lend for industrial purposes; it was usury banking.
+      It was lent mainly for rent-seeking powers, to buy rent-seeking property like
+      land, or monopolies — like foreign railroad investment was the most important
+      thing in the 19th-century stock market. Communications, port development, road
+      development were were all things that were financed, that were added to the cost
+      of production, all sorts of monopoly charges that the classical theory of value,
+      price, and rent wanted to get rid of. When, modern economists talk about the “free
+      market”, they’re not talking about what Adam Smith, and John Stuart Mill, and
+      the others talked about; they meant a market free from economic rent, free from
+      the landlord class levying rents that had to be paid out of the budgets of the
+      employees. As long as land was owned by the landlords, and as long as the landlords,
+      especially in Britain, imposed special agricultural tariffs, such as the Corn
+      Laws — that prevented Britain from importing low-priced food to feed the labor,
+      so that they could make higher agricultural rents on their land, yielding very
+      high-priced costs — there was no way that Britain could have competed with other
+      industrial countries. That was the whole theme of David Ricardo. Even though he
+      was a spokesman for the bankers, he criticized the landlord class, because, if
+      England would protect its landlords, its landowners, then England would not be
+      the workshop of the world. And if England were not the workshop of the world,
+      then British bankers would not be able to make profits and interest on their major
+      market, which was financing foreign trade and foreign-exchange transfers. So the
+      whole idea of the industrialists and the banking class, working together, was
+      to get rid of the land rents and monopoly rents, to make Britain so much more
+      streamlined and competitive, by bringing its prices down to the actual cost value,
+      by getting rid of the economic rent, so that they could under-price other countries.
+      Then, by supporting free trade instead of agricultural protectionism — and this
+      was at a time when the landlord class still controlled the House of Lords, the
+      upper house of government, and was able to dictate its own self-interest — the
+      whole idea was that parliamentary reform to free politics from the landlord class
+      enabled the reformers, the industrialists and the bankers, to free markets from
+      the power of the landlord class to impose rents, the power of the monopolists
+      to charge high rates, by getting rid of the monopolies, by enforcing competition,
+      such as the United States did in with its anti-monopoly laws. Countries such as
+      Germany, at the end of the 19th century, transformed banking. Instead of letting
+      banks lend money for unproductive purposes, for basically what Marx called usury
+      banking, Germany took the lead in industrializing banking, and making money creation
+      and bank credit focused on financing capital investment in industry, which is
+      what enabled Germany to rise so rapidly to become an industrial power. Well, none
+      of this occurred in foreign countries. Britain adopted free trade and made a political
+      deal with other countries when it abolished the Corn Laws in 1846, and it told
+      the United States, Latin America, and other countries, “We will let you into the
+      British market, without tariffs, if you let us into your market. Why don’t you
+      buy it in the cheapest market? We have a head start. We spent a hundred years,
+      giving ourselves a head start and reforming our economy so that we can provide
+      you with industry much cheaper. Why don’t you export your raw materials in exchange
+      for our industry? It will be one happy, unified world economy. Everybody produces
+      what they are best at”. David Ricardo made a mathematical example of British cloth
+      exchanging for Portuguese wine. And in Ricardo’s example, he was so dishonest,
+      so rhetorical that he made Portugal, the raw material supplier, the “winner”,
+      in the gains from trade. The kind of international trade theory [of comparative
+      advantage] that is taught, even down to today, is all based on Ricardian free-trade
+      theory. It leaves out of account the political dimension, the social dimension,
+      the whole idea of what is the role of economic rent in determining international
+      price structures and competition. Well, one of the problems with the Global South
+      countries, and the Global Majority, is they have sent their most promising students
+      to the United States to be educated in economics. And the economic curriculum
+      that is taught today doesn’t talk about any of this kind of a free market, or
+      the free market reforms as freeing economies from economic rent. There was a counter-revolution
+      in the United States and Europe against the industrial capitalist reforms. The
+      rentiers fought back. By the late 19th century, you had John Bates Clark in the
+      United States, you had the Austrians in Europe, and the British sort of liberals,
+      all saying, “Well, there’s really no such thing as economic rent. There is no
+      difference between price and value. Whatever a good or a service is sold for is
+      what actually consumers decide to pay. It’s all consumer demand for everything.
+      Everybody earns whatever they get. There’s no economic rent”. That is what students
+      are taught here. And then they go back to their countries. And there’s a belief
+      in these countries — I’ve even seen it in China, where, my students there complain
+      that students educated in the United States are given preference in jobs, but
+      they certainly don’t learn Marxism in the United States. The only group that is
+      still talking about Adam Smith, John Stuart Mill, Ricardo, and the whole classical
+      economics school, were the Marxists, because all of this logic of value, price,
+      and rent sort of culminated in Marx, who really was the patron saint of economic
+      accounting. He actually worked on the balance sheets of industiral companies,
+      and made a model of the economy. And in this model, he distinguished industrial
+      capitalism from what went before, from the feudal time, basically, and from the
+      rentiers. He said, Adam Smith was right. John Stuart Mill was right. Rent is what
+      John Stuart Mill said landlords make in their sleep. They make it without work.
+      They do not play a productive role. And the economy is divided into two halves:
+      the economy of production and the economy of circulation. Now, it’s true, as you
+      pointed out a few minutes ago, that the industrialist does sell the products that
+      his employees make; he sells these products of labor at more than it costs him
+      to hire the labor force. But Marx said this is creating value. The industrialist
+      actually organizes production. The industrialist doesn’t make profits in his sleep.
+      He organizes a supply chain of raw materials. He develops markets, and a whole
+      marketing system. He organizes industry. He modernizes other means of production,
+      constantly. So Marx included industrial profits as an element of value, and he
+      said, if you look at the production part of the economy that produces value, that
+      will certainly include industrial profits, but it will exclude land rent, natural
+      resource rent, monopoly rent, and financial interest, that is made just because
+      banks have bought the monopoly power to create money and credit, that’s accepted
+      as legal tender for payment of taxes. This is a legal creation that is not necessary.
+      Well, just imagine if you were making a model of national income and product account,
+      or the gross domestic product, the United States and Europe, all the countries
+      in the world under the United Nations, sort of formatting of gross domestic product,
+      they include land rent, and financial services, and monopoly rent in this. In
+      the United States, for instance, I tried to separate rent seeking from the actual
+      real value of the GDP from the excessive economic rent in the GDP. I asked the
+      Department of Commerce, when a bank imposes late charges of 20% or 30% on credit
+      card users, raising their interest charge from 19% to over 30%, where does this
+      appear in the GDP? They said, oh, that’s providing a financial service. So it’s
+      considered as a service. Well, the classical economist said monopolists, bankers,
+      and landlords don’t provide a service. They have a special privilege of obtaining
+      money. But that’s not a product. Late fees are not a product. Receiving interest
+      and receiving income from the interest you get is not a profit. Rising housing
+      prices that really are just the increase in the price of land, not of building,
+      but the price goes up despite the fact that the building stays what it is; all
+      of that is not a product; it’s essentially financial price inflation. The rent
+      of this location that is going up, the land rent, is used to pay interest to the
+      banks. And so the United States and Europe got rid of a feudal hereditary landlord
+      class. We don’t have a landlord class anymore. We have democratized housing and
+      commercial real estate. Anybody can buy a house, buy commercial real estate. But
+      most people have to do so by taking out a mortgage. And how do they get a mortgage?
+      They bid against each other, and the winner is the buyer who promises to pay the
+      most of the land rent and other rental income to the bank as interest. So you
+      have somehow had the Western economy turn into a rentier economy, and that has
+      led to deindustrialization. Unless the Global South countries and Global Majority
+      countries do what Britain, France, Germany, and America did in the 19th century,
+      or what China did after the 1949 revolution, they’re not going to be able to have
+      an economic alternative that is going to enable them to be competitive industrial
+      powers, in charge of their own income. Instead of transferring all of the economic
+      rent in their economy to the foreign owners, to the foreign investors in their
+      mining, their oil industry, their public infrastructure, that’s all developed
+      and has left them with this whole superstructure of foreign debt, that prevents
+      their governments from investing to support the economy; to invest in their own,
+      new infrastructure to serve the economy, instead of roads and ports for foreign
+      investors. There’s a whole structural revolution in the organization of the economy
+      and society that is needed here, just like the whole parliamentary political system
+      in Europe had to be restructured, in order to introduce the economic reforms that
+      made the industrial nations so much more efficient, and the countries they invested
+      in so much less efficient. BEN NORTON : Very important analysis there, Michael.
+      What you said there reminded me of the work of Giovanni Arrighi, the political
+      economist who unfortunately passed away in 2009. In 2007, he wrote a very interesting
+      book, right before the U.S. caused a massive financial crisis, which was Adam
+      Smith in Beijing . In this book, he argued that, again, that Marx was critiquing
+      Adam Smith, but actually there was much more in common between Smith and Marx
+      than with many neoclassical economists today. Arrighi described the idea of what
+      he called “Smithian socialism”, or a kind of market socialism, which is very similar
+      to the Chinese model today, which includes public ownership of the commanding
+      heights of the economy, the natural monopolies, land, resources, telecommunications,
+      infrastructure, and, most importantly, finance; but also a robust internal market
+      economy, with lots of competition that drives down profit margins. Because, as
+      you pointed out, the original, classical political economists like Smith recognized
+      that, if you have perfect competition, profits go to zero. And actually, capitalists
+      in many ways are incentivized to monopolize their respective industries, so they
+      can maximize their profit margins. Today we actually see this expressed pretty
+      openly, by people like Peter Thiel, who is a major supporter of Donald Trump.
+      Peter Thiel is a billionaire from Silicon Valley, a major venture capitalist.
+      And he also employed U.S. vice president JD Vance. Peter Thiel, for years, has
+      argued in defense of monopolies. He published an oped in The Wall Street Journal
+      titled “ Competition Is for Losers ”, in which he lamented the fact that, if you
+      do have lots of competition, profit margins fall to zero. He said that that’s
+      why all capitalists want a monopoly, and he argued that’s a good thing. Whereas,
+      you look at China’s socialist market economy today, you actually have all these
+      capitalists are, you know, engaged in blood sport. They’re all fighting each other
+      to the death in this cutthroat competition. Profit margins are basically going
+      to zero in China, whereas in the US, the profits of corporations are at an all
+      time high — and the labor share of income is falling and falling, as corporate
+      profits are at an all time high. So this to me seems to be empirical substantiation
+      of exactly what you’re arguing about, how, when you have this monopolized system,
+      like in the US, you have very high profits. When you have this system in China
+      that guarantees competition and minimizes monopolies, you have very low profits.
+      And it’s clear which system is actually providing a better standard of living
+      for its people. MICHAEL HUDSON : Well, Arrighi’s big point is quite correct, but
+      his title for it, Adam Smith in Beijing , is very unfortunate. What actually happened
+      was, in the late 1970s, the Chinese decided, we don’t want our kind of socialism
+      to be what Stalinism had in Russia. I was asked, initially, do you want to go
+      to this Shanghai institute that was having the Chicago school people go, Milton
+      Friedman and his colleagues. I said, “Gee, that sounds pretty wonderful”. This
+      was like 1979. And I said, “You know, it probably helps that I’m a Marxist. I
+      grew up in a Marxist household”. And they said, “Oh, dear, you better not go.
+      They don’t want any sign of Marxism”. Well, what happened was that Milton Friedman
+      went, and he convinced them to let a hundred flowers bloom. He said, “You can’t
+      have the state design everything. You have to leave room for innovation to occur”.
+      That’s what happened in Britain, and happened in Germany. BEN NORTON : I’m sorry
+      to cut you off, Michael. Definitely, you are right that in China, they did have
+      this idea of let a hundred flowers bloom. And there was a lot of pragmatism and
+      experimentation. But just on the specific issue of Milton Friedman, this is often
+      misunderstood. And David Harvey did a lot of damage with this false idea that
+      China adopted neoliberalism and they listened to Milton Friedman. Actually, this
+      is described very well in the book How China Escaped Shock Therapy by Isabella
+      Weber. She looks at the archival evidence from China and shows how, yes, you’re
+      right that Friedman did go, along with many other economic advisors from all around
+      the world, because the Chinese leadership, led by Deng Xiaoping at that time,
+      wanted to hear many different opinions. So Milton Friedman was one among thousands
+      of different economists who was invited. But actually, in her book, Isabella Weber
+      showed that they largely ignored what Milton Friedman recommended, and instead
+      listened to the advice of other economists who were not extreme neoliberals like
+      Friedman. So, for instance, on the issue of price liberalization, Friedman called
+      for a “big bang”; he wanted liberalization of all prices immediately. Weber shows
+      in her book how actually the Chinese government had an incrementalist, gradualist
+      approach, and they did not adopt the “big bang” theory; they did not adopt that
+      approach of Friedman. MICHAEL HUDSON : You’re quite right. I just cited him because
+      he’s the most well known. And, of course, he’s such an extremist that any realistic
+      person would realize that he’s almost a nutcase. What China did that the other
+      nations, the Western nations, didn’t do was it completed the industrial capitalist
+      revolution by keeping banks and money creation in the public domain. So in China,
+      it’s the People’s Bank of China that creates money and determines who is going
+      to get the credit and on what terms. That’s not the case in the West. In the West,
+      it’s the commercial banks that determine who is going to get the money and create
+      credit for. All they’re concerned about is making the quickest gain possible.
+      And the quickest gain is possible by lending money to a corporate raider, to take
+      over a corporation, essentially splitting it up in parts, selling off its real
+      estate, and leasing it back, using the sales price as a special dividend. Corporations
+      will borrow even to buy their own stock. They’ll borrow at low rates under quantitative
+      easing, and buy stock yielding a higher rate. The Western banks are in unproductive
+      lending, and China focuses on productive lending. However, the one thing that
+      China does not do is what Adam Smith urged most of all. He said, you’ve got to
+      avoid land rent. Land rent is the natural public source of tax revenue. It’s the
+      natural tax base, not taxes on labor’s wages or industrial profits, but the land.
+      Well, Marx, spent volume one of Capital talking about what you and I were just
+      mentioning: How does a capitalist make his profit productively? By employing labor
+      to produce a surplus, to produce profit, the surplus value in this. That’s how
+      Marx explained, well, what is the labor theory of value? Are we referring to the
+      price that labor received for its wages, or the price at which labor’s product
+      is sold for? There’s a surplus over and above value there. Marx did not call that
+      surplus economic rent; he said it’s still value, but it’s profit, not rent. In
+      order to understand that, you have to understand the whole economic body of economic
+      discussion for the hundred years leading up to him, from Adam Smith and Ricardo,
+      Malthus, Mill, all of that. That is what is not taught here. After Marx said,
+      well, here’s what I’m adding to classical value theory, he then spent volumes
+      two and three of Capital discussing rent and financial returns. And he essentially
+      wrote what used to be called volume four, which he had originally meant to be
+      the first volume of Capital , in his theories of surplus value, which was really
+      the first history of economic theory that was published in the West. Marx, in
+      his theories of surplus value, discussed all of the development of economic thought
+      regarding value, price, and rent theory, from William Petty through Davenant and
+      the Physiocrats, and all of the minor economists, whose names probably are unfamiliar
+      to most of your audience. Well, the Chinese that I’ve spoken to, and I was a professor
+      of economics at Peking University, at the School of Marxism Studies, so I’m pretty
+      familiar with what they taught. I was invited to the first international Marxist
+      conference, and I said, in order to understand Marxism, you have to read volumes
+      two and three of Capital , and theories of surplus value as well. Well, that didn’t
+      go over very well, because I was focusing on economic rent. I said, we’re seeing
+      an increase in housing prices in real estate. And the problem is the relationship
+      between China’s central government and the localities. A part of their, you know,
+      let a hundred flowers bloom philosophy is, well, let’s let each of the villages
+      and the towns develop their own organization, and we’ll see what develops the
+      best. Well, a common denominator in the Chinese localities is they finance their
+      public spending by selling, or leasing, land to real estate developers. And the
+      real estate developers buy this and develop into housing. And over time, this
+      housing is sold at rising prices. This rise in housing prices, or commercial real
+      estate prices, is really an increase in land rent. It was the increase in price
+      that John Stuart Mill was referring to, when he said landlords make profits in
+      their sleep. He meant landlords make what today are called capital gains, which
+      are really rent valuation gains, in their sleep. Well, China has not has not specifically
+      addressed this rent problem that underlies the strains in national and local finances,
+      that led to the whole real estate crash of overbuilding. Well, at the second Marxist
+      conference, David Harvey came. I gave one of the special speeches at the first
+      conference. David Harvey was given the corresponding keynote speech at the second
+      conference, because his books have sold very well in China. And Harvey said, all
+      you have to do is just what Michael Hudson said: you have to read volumes two
+      and three of Capital in order to get the full Marxist grounding. With Adam Smith
+      and classical economics, it’s all one evolving system that explains why Europe
+      developed and the rest of the world didn’t — apart from the United States, that
+      was the other protectionist industrial nation, that became a creditor nation as
+      a result. Well, David Harvey did not receive any more of a positive response than
+      I received. And there’s a hesitancy in China to study volumes two and three of
+      Capital , just as in the United States, there’s no discussion of classical economics;
+      there’s very little. What China has done in a way you could say is to reinvent
+      the wheel spontaneously, just by the internal logic of economic development. China
+      has replicated the policies of Britain, France, Germany, and the United States,
+      and industrial capitalism itself. It has replicated it above all by preventing
+      monopolies, and by preventing a banking sector that has become what it was in
+      America, the mother of trusts, by creating monopolies and funding, and lobbying
+      for the creation of monopolies — which you have under Donald Trump’s regime so
+      far in the United States. Under Trump, for the last half year, he has abolished
+      almost all implementation of America’s anti-monopoly legislation. Well, China
+      has done almost every prevention of rentier income, economic rent, except that
+      of land rent, which is why so many absentee owners of real estate have developed
+      in China, buying a property in order to rent it out as landlords. That’s what
+      led President Xi to say, housing should be for living; it shouldn’t be an investment
+      vehicle. To the extent that land is an investment vehicle, it is because of land
+      rent that is not being collected as the tax base. Well, China will say, well,
+      we really don’t need a tax base, because we can create our own income. We don’t
+      need to borrow from a financial class, because when there was a revolution, in
+      1945-49, we got rid of the landlord class; we got rid of the financial class.
+      So the government had to just survive by creating its own money, just like the
+      United States created greenbacks during the Civil War, for instance; or the American
+      colonies created their own currency. This is universal. China just followed the
+      logical path of least resistance, without any opposition from a rentier vested
+      interest that said, “No, no, you have to make money most easily by economic rent,
+      not by industrialization, not by investing”. That was really China’s advantage.
+      But it didn’t follow the number one emphasis of Adam Smith on land rent. BEN NORTON
+      : Again, Michael, you raised so many interesting points there. It’s hard to know
+      which exactly to respond to. I want to raise this interesting idea that we’ve
+      seen become this kind of trope that is very popular in social media today, on
+      finance TikTok and Twitter, which is the idea of “passive income”. I’m sure you’ve
+      seen this. And what’s actually quite funny is you’ve often cited this very important
+      quote from the 19th-century political economist John Stuart Mill, who said: “Landlords
+      grow rich in their sleep without working, risking, or economizing. The increase
+      in the value of land, arising as it does from the efforts of an entire community,
+      should belong to the community and not to the individual who might hold title”.
+      Now, when you see the full quote, it’s clear that he’s saying that these landlords
+      should not be receiving this rental income that they get, this rent extraction
+      from simply owning this land and monopolizing this land. But what’s hilarious,
+      in a kind of sadistic way, a very sad way, is if you look up the quote, “Landlords
+      grow rich in their sleep”, from John Stuart Mill, you can find many social media
+      posts from realtor companies , different realtors quoting that and saying this
+      is why you should buy a house and you should become a landlord. Especially for
+      younger people, there’s this big trope of “passive income”. There are millions
+      of videos on social media of people trying to teach you how you can earn passive
+      income by becoming a landlord. In the US economy, so much revolves around this
+      idea today of everyone trying to become their own landlord, so they don’t have
+      to work, and this is seen as something positive. But obviously this is extremely
+      destructive for society and the economy. It’s also a side product, a byproduct,
+      of the fact that the economy has been completely financialized, and people feel
+      like they have no economic alternative, so they all just want to become a landlord.
+      MICHAEL HUDSON : Well, this is what’s taught in business schools. This is how
+      to make money. This is what is taught in the economic curriculum. So just imagine
+      if the Global South countries send their students to the United States — very
+      often the students of the wealthiest families, that can afford to pay the $50,000
+      to $80,000 a year that it costs for a prestige US university — you can imagine
+      what happens when they go back to their country. They are not taught about how
+      to create an economy that is rent free, but you get an economy that provides a
+      free lunch — income without working, a free lunch economy. Milton Friedman said
+      “there is no such thing as a free lunch”, but a free lunch is what finance capitalism
+      is all about. It wasn’t what industrial capitalism was all about. But we’ve turned
+      into the free lunch economy, without the academic curriculum taking note of this,
+      and without the whole official statistical picture of economists drawing a distinction
+      between real GDP, the actual cost of production sector; and fictitious GDP, the
+      economic rent. Well, what this means is suppose you’re comparing China’s GDP to
+      the US GDP. That’s misleading. Of course it shows China in the lead there, but
+      the lead is actually much faster than the statistics show. Because if you say,
+      well, what’s the comparison between the real GDP of the United States and the
+      real GDP of China, in terms of what’s actually produced, China is way ahead, because
+      it doesn’t have the fictitious GDP that the United States and the Western economies
+      have. The only fictitious element is the increase in real estate prices, which
+      is an increase in price, not value. And to do that, you have to have the classical
+      distinction between value, price, and economic rent. That simple distinction is
+      so easy to say in words, but, generation after generation, there were debates
+      to refine what that meant, refine the concept. What’s the necessary cost to production?
+      What’s an unnecessary cost to production? What’s value, and what’s price in excess
+      of value? All of this took a hundred years to develop. And after it developed,
+      by the late 19th century, as I said, the rentiers fought back and introduced a
+      century of junk economics, the Chicago School, the “free-market” economics that
+      became a free market for the rentiers, not for the rest of the economy. BEN NORTON
+      : Michael, I think that’s the perfect note to end our discussion. This was part
+      two of my interview with the economist Michael Hudson. This-two part discussion
+      is about Michael’s article titled “ How the Global Majority can free itself from
+      US financial colonialism ”. In part one of this interview , Michael discusses
+      the development of this system he describes as “US-centered financial colonialism”,
+      how it developed, what institutions make up this system, and how countries in
+      the Global Majority can develop alternatives to this system. So with that said,
+      Michael, any last thoughts you want to add here? MICHAEL HUDSON : No, you’ve said
+      it all. BEN NORTON : All right, well, thanks for joining us, Michael. Michael
+      Hudson is a world-renowned economist and the author of many books. Thanks a lot,
+      Michael. It’s always a pleasure. MICHAEL HUDSON : Thanks for having me. The post
+      America’s Free Lunch Economy first appeared on Michael Hudson .'
+    one_sentence_summary: The article discusses the growing dominance of large investment
+      firms, particularly Blackstone, in the housing market, leading to skyrocketing
+      rents and increased homelessness, a trend observed not only in the United States
+      but also in many Western countries.
+    paragraph_summary: In the article, Ben Norton discusses the growing dominance of
+      landlords, particularly large Wall Street investment firms like Blackstone, in
+      the housing market, which has made homeownership unattainable for many working-class
+      individuals and driven up rental costs significantly. This trend is not limited
+      to the United States but is prevalent in many Western countries, where financialization
+      of the economy has exacerbated housing issues. Blackstone, the largest landlord
+      in the U.S., has acquired over 300,000 rental units and continues to increase
+      rents, contributing to rising homelessness and evictions. The article highlights
+      the influence of wealthy individuals like Blackstone's CEO Stephen Schwarzman
+      on political decisions, particularly under the Trump administration, which has
+      enacted tax cuts favoring the rich and policies that benefit corporate landlords,
+      further entrenching the challenges faced by average citizens in securing affordable
+      housing.
+    published: '2025-08-19T12:50:57+00:00'
+  - title: Dollar on the Brink
+    url: https://michael-hudson.com/2025/08/dollar-on-the-brink/
+    text: 'NIMA ALKHORSHID: Hi everybody. Today is Thursday, July 24, 2025, and our
+      friends Richard Wolff and Michael Hudson are back with us. RICHARD WOLFF: Good
+      to be here. NIMA ALKHORSHID: I want to start with what’s going on with a new article
+      in the Financial Times, but before going there, here is what Donald Trump said
+      about BRICS. [clip starts] Donald Trump said, “BRICS, it’s fading out fast. But
+      BRICS is, they wanted to try and take over the dollar, the dominance of the dollar
+      and the standard of the dollar. And I said, anybody that’s in the BRICS Consortium
+      of Nations, we’re going to tariff you 10%. And they had a meeting the following
+      day, and almost nobody showed up. They said, leave me alone. They didn’t want
+      to be tariffed. That’s amazing. No, we’re not going to let the dollar slide. If
+      we have a smart president, you’re never going to let the dollar slide. If you
+      have a dummy, that could happen, like the last one. If you ever asked him about
+      the dollar slider, he would have no idea. But we can’t let that ever happen again.”
+      [clip ends] NIMA ALKHORSHID: He’s not interested in having dollars sliding. Michael,
+      how does this administration behave in terms of blocking or somehow avoiding the
+      sliding of dollars? MICHAEL HUDSON: Well, Trump has been saying from the time
+      he took office that he wants the dollar to go down. He believes that if the dollar
+      can fall in exchange rate, that’s somehow going to help the exports become more
+      competitive and employ more industry. What he neglected to notice was that there
+      isn’t any industry to export. We’ve deindustrialized. So, much of his policy hasn’t
+      worked at all. But in fact, everything he’s doing is leading foreign investors
+      to reduce their dollar holdings because they’re seeing Trump’s policy, the tariff
+      policy, and his recent refusal to prosecute monopolies and to replace the Biden
+      administration. One thing that it did well was prevent monopoly pricing. He’s
+      told all the companies, charge whatever you want. We’re not going to prosecute
+      you. It’s a free market for you. Well, when there’s this much price inflation
+      in the dollar, these sort of traditional money managers think, well, if prices
+      are going to go up steadily in the United States, that’s going to reduce the value
+      of our dollar holdings. And we’re going to better get out of them now. And there’s
+      been a sustained movement out of the dollar by just about everybody, including
+      China, certainly by foreign central banks that are not adding to the dollars.
+      They’re very slowly reducing their dollars, some faster than others. And there’s
+      a movement into gold. So the dollar is going down, gold prices are going up, even
+      Bitcoin prices are going up. People are looking for an alternative to the dollar
+      because of Trump’s threats. Well, we’re thinking of putting tariffs and special
+      fees on foreign investors buying treasury bonds or any corporate bonds or stocks.
+      We’re going to charge fees to prevent them from doing that. So everything he’s
+      doing has been designed or has the effect of driving down the dollar. That should
+      not surprise people at all. So what you have in the United States is something
+      that nobody can really make sense of. I’ve been forecasting interest rates for
+      over half a century, and there’s never been a situation where interest rates go
+      up and – usually the effect is to draw foreign capital into the market to make
+      arbitrage gains, but the currency is going down. And that’s exactly it. You have
+      the stock market going up as if somehow the economy is supposed to be prospering,
+      but the dollar is going down and down and down. And that means that not only foreign
+      central banks, but the investment funds, and the money managers who make trillions
+      of dollars, have decided that Trump’s policies and the U.S. policies are basically
+      guaranteed to lose your money. And even if the interest rates go up on treasury
+      bonds, for instance, 4.5%, for the 10-year Treasury bond, if the dollar goes down
+      by 10%, which it has already, and it’s still going down, then you’re actually
+      losing five percent already on what you’ve held in the dollars, as this is measured
+      in your own currency. So a European or a Chinese or any other foreign holder of
+      US corporate bonds or treasury bonds is going to take a capital loss as measured
+      in their own currency. They’re all trying to avoid this. They see that the tendency
+      of the United States is rising inflation because of the tariffs and the other
+      policies that Trump is imposing, accelerated balance of payments deficit because
+      of his military policies, and a further decline in the dollar, meaning a loss
+      on their investments. NIMA ALKHORSHID: Go ahead, Richard, your take on that. RICHARD
+      WOLFF: I would just add that, as always, there are larger social contexts, in
+      a sense, for this as well. You know, many billions of dollars that came in as
+      a demand for dollars, for example, by tourists. All the signs indicate that there’s
+      a tremendous fall-off in European, Canadian, and many other tourists who are simply,
+      you know, they see one more picture of masked ICE agents arresting an 80-year-old
+      man at the border who’s a longtime citizen and deporting him to Guatemala before
+      they can straighten out, if they can, their mistake. They don’t want this experience.
+      And the experience is being repeated over and over again. The reward for a really
+      disastrous six months of horrible publicity for ICE was a tax bill that gives
+      ICE many billions more dollars to presumably do more of this horrific policy.
+      A Gallup poll this last week indicated a dramatic shift among Republicans in those
+      who were in favor of harsh deportation and those who now say that immigration
+      is a good thing for the United States. This is very, very bad news for Mr. Trump
+      in terms of his signature immigration issue as a way to get support. But it also
+      is a decline in the demand for the dollar. I have friends in New York City who
+      tell me that fancy housing in the United States used to be a major purchase by
+      foreigners to park their money in the United States. Well, if you understand the
+      logic, the foreigner has to buy dollars with which then to make the purchase of
+      the property here. And if they don’t want the property, they don’t buy the dollars.
+      And if they sell the property, they then sell the dollars that they got for selling
+      the property. Okay, that’s like a diminution in buying, an increase in the selling
+      of the dollar has to be factored into what’s shaping the value of the dollar.
+      And I think what you’re seeing in the growth of the BRICS, which Mr. Trump himself
+      glimpses a little bit, is the growth of a block that has less and less interest
+      in holding dollars and more and more interest in replacing them. I don’t think
+      they’re quite so clear in their minds as to what to replace them with. They’re
+      either going to trade in their own currencies or they’re going to trade in some
+      new composite substitute currency, you know, something that blockchain or others
+      can handle for them. But this is all bad news for the value of the dollar. And
+      another way to make Michael’s point is to say that a traditional tool of policy
+      is a devaluation of your currency one way or another in order to stimulate exports.
+      Listening to Mr. Trump, I think someone gave him the right idea. If you lower
+      the value, you improve exports. But if you haven’t taken into account that the
+      world is not buying most of what you have to sell, that problem negates the benefit
+      you had expected to reach from the devaluation. And so all of these things are
+      kind of coming together with the decline of the U.S. Empire as the broad conceptual
+      framework to give you these anomalous results, these situations where you have
+      a policy to raise or to sustain the value of the dollar, but instead you see it
+      ebbing away. And just for those who are not familiar with the number, a decline
+      in the value of the dollar, if I understand it, from the date of his inauguration,
+      January 20, to right now, a devaluation of your currency by 8% to 10% in six months
+      is an extraordinary decline. This is not the way currency markets work. They don’t
+      bounce around that way. So something significant is going on to give you that
+      kind of a fall even before you ask the question, how do you get that, when the
+      objective officially was to do the opposite, to raise the value. MICHAEL HUDSON:
+      And the dollar has even fallen more against the Euro, which, surprisingly enough,
+      has gone up. The fact that Trump doesn’t understand the point that you’ve just
+      made, Richard, is sort of clear in the agreement he made two days ago with Japan.
+      Japan announced that it’s willing now to import without tariffs, American cars
+      and American rice and food. And when I first read this, I thought, well, there
+      are no details yet. How can Japan let itself be appropriated like that? And then
+      it occurred to me: yes, they’ve abolished the tariffs, but the Japanese don’t
+      want to buy American cars because the American cars are SUVs. They’re big. They’re
+      too big for the Japanese parking spaces. They’re gas guzzlers and they don’t want
+      to buy American rice or other food because they say it doesn’t taste as good as
+      Japanese rice. They’re very nationalistic, or even as good as Korean rice. So
+      the fact is that Trump believes that somehow the deal that he’s made, along with
+      the depreciation and the tariff levies, is going to spur exports, and it isn’t.
+      So what’s he going to do if he tries to live up to the speech that he just gave
+      and said, well, we’re going to prevent the dollar from going down anymore. Well,
+      last week, Nouriel Roubini, the sort of economic futurist, forecasted that interest
+      rates are going to rise to 8% by 2030. He said the only way that the administration
+      can stop the decline in the dollar is to raise interest rates so much that people
+      are going to borrow inexpensively from Japanese banks for the carry trade and
+      from European banks to invest in the dollar to get higher interest rates. And
+      at 8%, it’s going to pay them to buy the dollar. But if you have 8% interest rates,
+      that’s going to crash the bond market, crash the stock market, and all of this
+      Ponzi scheme that was introduced since the Obama administration with its quantitative
+      easing is going to be dismantled. So there’s no solution to America’s situation.
+      It’s in a quandary. It’s not a problem that can be solved. Whatever Trump does
+      is going to make things worse. So, as mathematicians say, America is in the optimum
+      position right now. This is as good as it gets. Anything Trump does is going to
+      make things worse. It’s a hard time to be president. RICHARD WOLFF: I think it
+      might be useful as a corrective for people who learned crappy economics. I’m going
+      to give a couple of examples of what I suspect the Japanese are about to do. It
+      basically fleshes out what Michael just said. Let’s take rice. I will make you
+      a prediction. On the grocery shelves across Japan, there will now be two packages
+      of rice where before there was one package. One package will say, this is Japanese
+      or perhaps Korean rice. It is the traditional rice that we love. There’ll be a
+      Japanese flag right across the front of it. Next to it will be a package saying,
+      Uncle Sam rice sent to you by Donald Trump. You know, the guy who just hit our
+      country with a tariff, even though we’re the most loyal ally he has in Asia. These
+      are called non-tariff barriers. But as anyone who’s ever studied this knows, they
+      can be as or more important than the price variable, right? Now, you have a moment
+      when the whole of Japan has been treated to the notion that their loyalty to the
+      United States has been rewarded by nothing, by being tariffed the way he tariffs
+      everybody else. The same lesson is being learned by Canada, Mexico, and all the
+      others. So, he’s going to have a government that gives their people the explanation
+      that the Americans are hurting us economically, which they are. They have their
+      problems, and they’re taking it out on us in order to ease their problems. That’s
+      a good reason when you pass the two packages of rice on the shelf to pick the
+      one that enables you to say something. It’s like the Canadians who have stopped
+      buying American bourbon, or the Mexicans who are coming up with new ways to use
+      their corn because they don’t want to bring in biologically transformed American
+      corn, on and on. This is going on really everywhere, everywhere. Every country’s
+      leader now has an excuse, whether they’re a good leader or a bad leader, it doesn’t
+      matter, an excuse to justify their own economic problems and their own failures
+      to solve those economic problems by blaming Trump and America. And there’ll be
+      a grain of truth to it, even if it’s wildly exaggerated. Mr. Trump has declared
+      economic war on the rest of the world at a time when the United States’ global
+      position is weaker than it’s been in 75 years. This is not a smart move. This
+      is an act of desperation that reminds me of what you learned if you ever take
+      a life-saving course. A drowning person flails around. You have to be very careful
+      when you help a drowning person, lest they pull you under. That’s not their intent.
+      But they’re desperate. You’ve got to take that into account. And I think all of
+      these countries are not only doing what we see on the surface, but they’re going
+      to take the steps to make sure that the intent of these agreements they’re signing
+      is not realized. And that within a few years, either Mr. Trump will change or
+      Mr. Epstein will sweep him out of office or fill in the blank, he’ll be replaced
+      by somebody else who won’t do that. That’s the logical thing for them to do. And
+      here’s the logical thing for them to do that people are not understanding as well.
+      Foreign companies or American companies that currently locate their production
+      in China or India or Brazil or anywhere else, they are not going to come to the
+      United States because of this. They aren’t coming. There is no sign, no sign of
+      any kind of mass movement in this direction. And their reason is very clear. It
+      would be a very stupid, unwise decision. You don’t know. Why would you come to
+      America? I’ll give you an example. You’re producing rice or anything else in some
+      place in the world. And Mr. Trump said, I’m going to tariff. I’m going to open
+      up the market. Come here to the United States. But you know what I just said.
+      You know that there’s going to be selection against American exports. That’s a
+      very important reason not to relocate to the United States. And you don’t need
+      that many. You don’t want to do it. Mr. Trump can’t guarantee anything more than
+      another at most three years. Well, that’s how long it would take to move production.
+      So you will have moved it in time for the rationale for moving it to be no longer
+      present. And that would lose you your job as vice president for location in a
+      big company. You’re not going to do it. You’re not going to do it. And your superiors
+      are going to understand why you don’t do it. MICHAEL HUDSON: Well, regarding foreign
+      leaders that you mentioned, it’s not only the leaders. Look at Japan’s election
+      last weekend. It was the right-wing nationalist parties that ended up becoming
+      the dominant force in Japan, just as the nationalist parties in Europe are rising.
+      It’s unfortunate that the nationalist parties are the right-wing in foreign countries
+      instead of the left-wing. It shows a success in the United States of supporting
+      the right-wing and just untracking the left wing. But you’re having, no matter
+      what, if the leaders do not do what you’re pointing out, what is in their political
+      advantage to do, then they’re going to be voted out of office by nationalists
+      on an anti-American program. And that’s what you’re seeing all the way from Japan
+      to the alternative for Deutschland and similar parties throughout Europe. RICHARD
+      WOLFF: Yeah, the German thing is for me, since I follow events in Germany, particularly
+      amazing to watch. MICHAEL HUDSON: Yep. Yeah, something has to give. At some point,
+      you’re going to have countries acting in their own self-interest. And their own
+      self-interest is going to be: let’s somehow figure out a way of going it alone
+      with our closest allies. And the closest allies are economies that are growing
+      the most rapidly. And the most rapidly growing economy is China. So I don’t see
+      how America’s anti-China, anti-Russia, and Cold War coalition are going to be
+      able to withstand the force of just economic determinism from Europe to Latin
+      America to Africa to Asia. RICHARD WOLFF: Yeah, and Germany, you know, I shake
+      my head in disbelief. They’re about to dismantle their social democracy safety
+      net in order to become a military superpower to fight whom? What? What is this
+      about? And the United States is pulling out of Ukraine. The Germans are replacing
+      them to fight a war that they will lose. This is, you shake your head. Mr. Merz,
+      there’s no future for what he’s doing. I don’t see why he’s doing it. I mean he’s
+      an American friend, I understand that. He worked for BlackRock or Blackstone,
+      one of them, and was the head of the German division of that company. But this
+      is crazy. This is so crazy that you kind of wonder how long it will last before
+      the German middle and the German left, both of which are very large, much larger
+      than American media, let you know, before they blow these people away. And then
+      they’re going to have an incentive to move to Europe in just the way Michael hinted.
+      They’ll ask very new questions about what the relationship to Russia and China
+      would be. And if you don’t believe me that way, let me put it to you another:
+      If the right wing were to win the Alternative für Deutschland, if that were to
+      actually win, they’re even more interested in changing the relationship with Russia
+      and China. So this is a dead end for the old traditional politics, which is what
+      Mr. Merz represents. NIMA ALKHORSHID: Michael, here is the article that I was
+      talking about when these talks started. The article in the Financial Times shows
+      that the foreign holdings of U.S. Treasuries, you look at China, and since 2010,
+      when many believe that the economic war between the United States and China started,
+      you see it shows them steadily going down and reducing. And coming to 2025, it
+      seems it’s below the UK. And on the top of the graphs, you see Japan is there,
+      and the blue one that is going up is the United Kingdom. We have another blue
+      one right below that light blue; it’s a little darker than the UK one, and it
+      is the Cayman Islands, and it’s going up as well. Your take on the way that China
+      for more than a decade, for 15 years, has been reducing their holdings of the
+      U.S. Treasury? MICHAEL HUDSON: Well, it’s not simply that they’re reducing their
+      foreign exchange reserves, it’s specifically the United States. And what are they
+      replacing it with? Gold and other currencies of other countries. I want to focus
+      on this Cayman Islands increase and the vast increase in Cayman Islands. The Cayman
+      Islands really doesn’t have any money of its own. I was at Chase Manhattan Bank
+      when the State Department decided in 1965 to try to support the dollar by making
+      America the home of criminal capital throughout the world. I was asked by Chase
+      Manhattan, who is their balance of payments analyst, to calculate what’s the volume
+      of criminal capital every year that goes into countries like Switzerland and London
+      and others. And how can we get that? How can we attract that criminal capital?
+      How can we make America the home for drug dealers, for tax avoiders, for dictators
+      who are stealing money? That’s how we will finance the Vietnam War, which was
+      still going on, remember, until the 1970s. And I did a rough analysis, and the
+      government, the Treasury, went to Chase Manhattan and other banks and said, Could
+      you please set up branches in the Cayman Islands? The Cayman Islands had declared
+      independence from Britain, and they very quickly reversed independence so they
+      could be part of the British economy, literally part of Britain, no longer independent,
+      using the stable currency. And so the American banks set up branches in the Cayman
+      Islands. And every three months, the Treasury Bulletin would publish figures for
+      the smaller countries throughout the Caribbean. And Wall Street firms asked me
+      to begin to calculate the inflows from the Cayman Islands. And almost all the
+      inflows were from foreign branches of American banks to the head offices. So the
+      American banks followed the Treasury request to help finance the dollar by setting
+      up branches and  letting other money go through the Cayman Islands with no questions
+      asked. So right now, it’s not only a drug dealing capital, it’s not only foreign
+      dictators, it’s not merely Zelensky’s $10 million billion dollars a year that
+      he’s taking, it’s Bitcoin. And now I think you’re seeing what Trump has… let’s
+      say Trump has advisers looking at this chart and they’re saying, aha, one way
+      that we can support the value of the dollar is to make a whole new area of financial
+      criminality. Bitcoin and cryptocurrencies for everyone who’s a tax avoider, tax
+      evader, and criminal. Everyone who doesn’t want the government to know how much
+      income they actually have are going to be putting their money in, well, not only
+      do they no longer have to do it in the Cayman Islands or into other offshore banking
+      centers, they can do it in cryptocurrency. And so by pushing that, what is the
+      cryptocurrency backed by? It’s supposed to be backed by U.S. Treasury securities.
+      There’s a lot of it that really isn’t. They say it’s backed by cryptocurrencies,
+      but most of it’s a scam. There are, I think, thousands of cryptocurrency companies,
+      little ones that have taken off. They’re hyped up by stock manipulators like Donald
+      Trump for his and Melania’s cryptocurrency. Insiders get in at the beginning,
+      push it up, then they all bail out and they leave the holders, the suckers, holding
+      the bag, and the cryptocurrency collapses in price again. This kind of a scam
+      is one of the main supports for the United States dollar. Well, it beats industrialization.
+      If you industrialize, you’re going to raise wages. This doesn’t raise wages. This
+      simply takes away the savings of wage earners who’ve been suckered into buying
+      cryptocurrency. RICHARD WOLFF: I look at that graph, and I see something that
+      really kind of blows my mind. And it’s very useful, the graph, for that reason.
+      First, the Chinese since 2010 have unloaded what looks like, you know, not that
+      much less than a trillion dollars worth of money. If the graph is to be believed,
+      they had one and a half trillion worth of dollars, and now they have, well, a
+      bit more. So three quarters of a trillion dollars, $750 billion. Well, if the
+      dollar has lost 10% of its value, 8 to 10%, in the six months that Mr. Trump has
+      been president, which it has, then the Chinese, by divesting themselves of $700
+      billion worth of U.S. dollar treasuries, have avoided losing 8% to 10% of the
+      value of their holdings because they sold before the dollar went down. And in
+      contrast, all of the others, allies of the United States who held on to, or in
+      the case of the rising lines, increased their holdings of dollars in the years
+      leading up to Mr. Trump’s presidency have been rewarded for that accumulation
+      of dollars by losing 8 to 10% of the value of what they accumulated. Therefore,
+      Mr. Trump’s government, in addition to the damage done to them by the tariffs,
+      are suffering the damage done to their holdings of dollars, which they have increased.
+      And if you take a look at the number 3 country, the United Kingdom, whose economy
+      is a disaster by their own account, they have spent the last many years not only
+      not developing their own economy, but investing in the dollars held in the U.S.
+      treasuries while the value of the dollar was undone. I mean, you are looking at
+      the United States punishing its allies for being allies. And you’re giving them
+      a bigger and bigger reason to consider joining the BRICS, rethinking and refashioning
+      their relationships with China, Russia, and the rest of the BRICS as a defense
+      against what is happening to their economies through their association with the
+      United States. And that’s part of the larger picture called a declining American
+      capitalist empire. That these are the ways that works out. And I think it’s important
+      to see the utter damage being done. And so, if yes, the countries that are being
+      hit with a tariff are joining the BRICS, I am not at all surprised. MICHAEL HUDSON:
+      I think there are a lot of people who see the argument that you and I have been
+      making. And you can see that people have already looked way forward and they began
+      to sell stocks short and bonds short, hoping to make a killing. And yet, they’ve
+      been sort of premature pessimists. And, obviously, the bond prices and stocks
+      are going up. So you’d think that being right in the long run may lose money in
+      the short run because, as Keynes said, the market can stay irrational longer than
+      short sellers can stay solvent. If you sell a stock short and it doesn’t go down,
+      you have to buy it back at the higher price, and you lose a lot of money. So,
+      the result is an unprecedented volatility, up and down, and up and down. There’s
+      an enormous amount of speculative gambling by all of the really big financial
+      institutions. And the result is that last week was the week in which the American
+      banks and companies announced their earnings for the year. And the earnings for
+      the New York banks, the money market banks, are way, way up all on speculative
+      financial trading, options, and derivatives, and all of this. The American banks
+      that are local banks and don’t deal with speculation so much with this outside
+      of the New York area have not made that particularly large earnings. They’ve been
+      squeezed, if anything. So, you’re having the whole transition of the American
+      financial system into finance capitalism, not industrial capitalism. And it’s
+      all a kind of gambling of how rapidly the pace of American decline will be along
+      the lines that you and I have been describing. RICHARD WOLFF: Yeah, and I’d like
+      to point out that it is beginning to have the effects that I think you and I,
+      Michael, and you, Nima, were expecting and were hoping for. You know, when I awoke
+      this morning, the headline that captured me was the announcement in Britain of
+      the formation of a new left-wing British political party to be led by Jeremy Corbyn
+      and a woman named Sultana, both of them former Labour Party members of parliament.
+      Corbyn was the head of the Labour Party and was replaced by Mr. Starmer, who is
+      following Mr. Trump in terms of popularity these days, even without an Epstein
+      story to tell. It is going to be, I predict, it’s going to be one of the positions
+      of this new party to expose the subordination of a declining England to the United
+      States in a way that has to stop. And I think you’re going to see an enormous
+      number of British people from all walks of life and all political persuasions
+      who are going to be able to be rallied under that because of the last few years
+      of economic history, culminating in Mr. Trump, who’s creating this political possibility.
+      MICHAEL HUDSON: And if that works out in England, imagine how it’s going to work
+      out in other countries. They’re going to say, ah, there is a left-wing alternative
+      to the right-wing alternative. So, look at all of the counter-reactions that Trump
+      is inspiring that he obviously did not intend to do, but that’s what’s happening.
+      NIMA ALKHORSHID: Richard, we see what’s going on between Brazil and the United
+      States as well as the broader picture. Lindsay Graham has announced that they’re
+      going to crush the economies of Brazil, China, and India if they keep buying Russian
+      energy and all of this. They’re trying to put pressure on Russia. But to put pressure
+      on Russia, they have to go against these three big countries, they’re huge in
+      terms of their economy and population. I don’t know about the capabilities of
+      the United States at this particular moment that they’re in. Is that a viable
+      choice for the Trump administration to go in that direction? RICHARD WOLFF: No,
+      I don’t think so. But I think what you’re seeing, and I really don’t mean to keep
+      saying this, but the questions lead back to this all the time. Nothing is more
+      typical of a declining empire than for the people who lead it to say to the mass
+      of their constituents, I’m here to reassure you. And by that, they mean to deny
+      the reality of a declining empire. And so we get the intonation of Mr. Trump and
+      of Lindsey Graham and all the others. We are big, we can do what we used to do:
+      threaten annihilation, threaten to control it, because we had enough control that
+      you could go far enough, even if not quite to what they threatened. And people
+      were afraid, and people made accommodations. It is becoming clearer and clearer
+      to more and more countries and people that the United States is not in that position.
+      In Europe now, it is pretty well understood that the United States is not in a
+      position to provide Ukraine with many, many weapons because it cannot produce
+      them. It can’t. At this point, not without exhausting its own stockpiles. The
+      Europeans have exhausted their stockpiles and they didn’t have much. So they are
+      being constructed. This is a reality that no one foresaw. The United States military
+      establishment was represented for the last 50 years as, you know, I remember a
+      table: We spend more on the military than the next 10 countries combined spend
+      on it. But we can’t anymore. We can’t do it. And this is a terrible, terrible
+      problem. And so it means that the people who are actually in charge, who actually
+      have the meeting with our military leaders and talk about, can we invade and control
+      Iran?… That’s a good example these days. People should understand the importance
+      of Iran is that it is not a big country like China. It is not a big country like
+      Russia. It is a big country, but not that scale. And yet, it now too is no longer
+      willing and no longer feels the need to bend over when the United States threatens
+      militarily. Bring on your bombing. Come on, you do your bombing. We will survive.
+      And so will our military. And so will our nuclear military. That’s what they showed
+      a few weeks ago. This is extraordinarily important because it isn’t Russia and
+      China. Or even Indonesia, other bigger countries. It’s significantly smaller.
+      And that’s a very powerful message. So when you see Trump sit down with his generals,
+      they explain to him: you can bomb those centers, but it has to be a 10-day war.
+      We can’t have a three-year war the way we do with Ukraine. We can’t do it. It’s
+      not that it’s not a good idea. We can’t do it. We can’t do it. And the Russians,
+      the Chinese, and the Iranians together can produce a resistance we can’t handle.
+      Lindsey Graham doesn’t have to have that meeting. He sits in another building
+      and he can act out the fantasy of denial. We’re gonna crush them. Until he becomes
+      the president, when they will sit down and say, if you do that, it’s over for
+      us. Look at Mr. Trump, he bloviated just like Mr. Lindsey Graham. He was willing
+      to make all these, he can’t do it. And Americans, I know we don’t want to face
+      it. I understand it. I even have compassion for it. I do. Who wants to admit all
+      of this? But it is the reality. And not admitting it won’t change it. The only
+      way to solve these problems is to sit down with the Chinese and the Russians and
+      work something out. And if you don’t do that, you’re continuing down this road
+      and you are losing. This is the reality. And that’s what we have to face. And
+      I think people like us in our conversations have to put that forward because I
+      think Americans are so concerned about what’s the feeling they have, which I get
+      in the street every day. Everything’s falling apart. Everything’s falling apart.
+      People understand there’s something very bad. The Epstein, you know, we’re now
+      all upset about Epstein. You know, sleazy, horrible. And what we see is not only
+      our government wrapped up in it, but the whole media, the whole circus. This is
+      what this country is doing. As literally everything’s falling apart around it.
+      People want an understanding. We actually have the basis of that. That’s why this
+      stuff is so important to get out. MICHAEL HUDSON: Richard, it’s almost like you
+      and I are playing a game. The situation is even worse than you say. You mentioned
+      that America doesn’t have the weapons for more than a 10-day war. Here’s the real
+      problem: the American weapons don’t work. For those who listen to Nima’s interviews
+      with his military people that he’s been doing, the lesson of the war in Ukraine
+      is that Russia can penetrate the American air defenses. It will. They can shoot
+      down the American missiles. It will. The fighting in Ukraine with American weapons
+      is a counter-advertisement. It’s showing other countries: if you buy our F-16s,
+      if you buy our Patriot missiles, you’re going to be spending enormous amounts
+      of money for weapons that don’t work against anyone except maybe Libya or Iraq
+      or Palestine, the Palestinian populations, but they’re not going to work against
+      sophisticated countries like Russia, China, or even Iran. So the war has almost
+      destroyed, you’d think, the market for American weapons, which is how America
+      had expected to pay for the oil from OPEC. It had expected Saudi Arabia to recycle
+      its money into American weaponry, for Europe to recycle its money into American
+      weaponry, as Trump is insisting that it does. But there must be people, if not
+      the European generals, then the European politicians on the nationalist right
+      or left who will say, look, why are we buying these missiles that are ineffective
+      for the kind of war that we’re talking about against Russia, China, and Ukraine?
+      They don’t work. I think the fighting between Iran and Israel has shown that they
+      don’t work. America’s Iron Dome version, or Trump’s Golden Dome, that he says
+      will take a trillion dollars to finance, it won’t work against the Russian hypersonic
+      missiles and what apparently are now a new generation of Chinese hypersonic missiles
+      to go along with those of Iran. So the one industrial sector that America had
+      thought, here we have to buttress our trade, along with our agricultural exports
+      and our raw materials exports and our oil trade, is not working any more than
+      the American auto industry works. RICHARD WOLFF: For me, these are again, these
+      are the accumulating signs. You spend all this money, but you don’t understand
+      the hunger of the people you oppress around the world. And they’re going to figure
+      out how to get around your limits. You don’t have that pressure. You think you’re
+      sitting on top of the world. You just develop and you’re confident somehow that
+      you’re alone, that you will not be competed against. It’s amazing. You know, they
+      celebrate competition and then don’t understand what competition actually can
+      do to the position of somebody who’s on top. You know, I teach in economics that
+      monopolies generate enormous profits that create enormous incentives for others
+      to come along and destroy the monopoly. Monopoly breeds its own negation. Very
+      Hegelian, very Marxian. But you have to have that idea in your mind. Otherwise,
+      you imagine that the monopoly lasts forever. It never does. Competition destroys
+      itself into monopoly, which then destroys itself into competition. That’s the
+      reality. But if you don’t see it, then you become what will later be called lazy
+      or unaware. None of that’s really quite true. It’s getting caught up. MICHAEL
+      HUDSON: Let’s get back to the chart that Nima talked about. What are other countries
+      going to do to escape from this? What’s their alternative going to do? Obviously,
+      they’re going to create some alternative vehicle just as they’ve created a different
+      means of payment so they don’t have to depend on the SWIFT bank clearing system
+      that enabled the United States to grab Russian money. Trump has said that any
+      attempt by the BRICS to create alternative vehicles to the dollar is going to
+      be hit by 500% tariffs. These are empty threats. Let them try. The whole world
+      is going to be hit by America saying, the American market is closed to you. You
+      can’t export anything to us. You can’t buy anything from us. America is isolated.
+      If Trump meant what he threatened, America will exist all by itself with its own
+      resources. And it has enough natural resources to be independent. It could impose
+      industry, but prices will go up 300, 400, 500% as you have to create a labor force,
+      an industrial labor force that’s trained to do this, unlike what most graduates
+      are trained in today’s university and schooling system. So it’s, again, the Americans
+      are in a quandary in the sense that they cannot survive not only as an empire,
+      but as a viable economy to avoid being a failed state and a failed economy without
+      being something other than they are. Something that for many countries requires
+      a revolution. I don’t see a revolution here. I see various infighting. I see division.
+      I see breakup and dissolution. But it’s not a pre-revolutionary situation until
+      there is an alternative that’s put forth for the United States. And the only alternative
+      I can think of is why is China and why are other countries growing and America
+      is not? Why are they industrializing and why did America deindustrialize? There
+      has to be a whole analysis with the scope that you and I are talking about. It’s
+      not only Marx, it’s all of classical economics. It’s Adam Smith, John Stuart Mill.
+      It’s the whole 19th-century idea of how to create a viable industrial economy.
+      All that’s been replaced by the American sort of predatory economy. And it took
+      a long time for Britain to come to indeed have a real left-wing leader under Corbyn
+      go it alone, away from being tied up into the British Labour Party, as it became
+      just taken over by the post-Thatcherites, by Tony Blair, etc. Well, in America,
+      you’d have to have an alternative to the Democratic Party opposing the Republican
+      Party. I don’t see that because of the American constitutional two-party system
+      that makes it almost impossible for a third party. So I see the rest of the world
+      being able to solve the problems along the lines that you and I have been discussing
+      for years. I don’t see America even beginning to make the preconditions for solving
+      this problem. RICHARD WOLFF: I wanted to also comment on the dollar because just
+      to remind everyone of a history that I assume many of you know. At the end of
+      World War II, there’s this famous conference in the woods of New Hampshire, if
+      I’m not mistaken, Bretton Woods. It’s called pretty famous in the history of global
+      monetary affairs. And it had two very sharp economists, probably the greatest
+      at the time, John Maynard Keynes, who represents Great Britain and is there to
+      assert, I think it’s fair to say, the importance of Britain in the world at that
+      time. And that led him to propose a global economic arrangement in which the British
+      pound continued to play maybe a bit lesser, but nonetheless, the dominant global
+      currency, which it had been for more than a century at that point. And there is
+      an unknown Harry Dexter White, by name, an economist, who basically says, no,
+      you’re not going to be the global currency. That’s now passed to us. We’re going
+      to do it. And they fight and they argue and they reach a kind of compromise, but
+      it isn’t such a compromise. It really is another step in diminishing the pound,
+      not as much as they might otherwise have wanted to, and elevating the dollar,
+      perhaps not as much as they might have wanted. But the direction was unmistakable,
+      and everybody sees it in the years that follow. Okay, but let’s keep that in mind.
+      What happened to the pound relative to the dollar is now happening to the dollar
+      relative to what comes next. It shouldn’t surprise you, it shouldn’t amaze you,
+      it isn’t the end of the world, none of that. It is a reflection. World War II
+      wrecked the British Empire. They didn’t want to face it. They believed they were
+      still the empire, but they weren’t. And within five years, most of the empire
+      led by India was no longer part of the empire. They lost it. And World War II
+      was crucial. They were gone. And the United States, by contrast, emerged unequaled
+      in its power because everybody else had been destroyed by the war. Britain, France,
+      Germany, Japan, Russia, and China, all of them wrecked by the war. MICHAEL HUDSON:
+      Well, Richard, that’s a story that I talked about in Superimperialism. That’s
+      the whole center. And before Bretton Woods, the United States had already made
+      a deal with Britain, the British loan, and the condition of the British loan was
+      that they could not maintain the empire’s preference. In other words, all the
+      money that India, as you pointed out, and other countries, many global south countries,
+      had built up during the war as part of the Sterling area, had to spend their money
+      under the old rules in Britain. And that was how Britain had hoped to create a
+      market for its industry, maintaining its role as the workshop of the world. But
+      Britain was forced to end empire preference and let free trade. And the result
+      of the free trade was that India and South Africa and other countries were freed
+      to spend their money on the United States exports. And the result was that the
+      United States increased its ownership of monetary gold from 1945 to 1950, to 80%
+      of the world’s gold. That was what broke the British Empire. And the move to free
+      trade, as the new Foreign Secretary Rubio said, no longer serves the American
+      interest any longer than it served England. It destroyed England’s interest. Free
+      trade now, if there really were free trade without tariffs, America would be completely
+      uncompetitive and unable to do all of the tricks and the arm-twisting and regime
+      change and the other special pressure points that Trump and his predecessors have
+      tried to push. The whole world order that was created after World War II is ending,
+      and all that the United States can do is protest against it, trying to stall for
+      time, trying to keep what it has as long as it can to give the really wealthy
+      1% chance to jump ship and move all their money out of the country along with
+      foreign investors. RICHARD WOLFF: And the irony is that the graph you showed us,
+      Nima, from the Financial Times, shows that the British, the rich establishment
+      of Britain continues to buy American treasuries, not to develop its own economy,
+      not to develop its own society, not to compensate for the loss of its empire,
+      but by becoming a sad junior investor. They’re the limited partners. America’s
+      the general partner. They’re the limited partners. They give their money. They
+      get a small cut of the action. That’s all that’s left to them. But it will fund
+      a very wealthy upper crust of that society who can live off the dividends and
+      be the very rentiers that their most illustrious economics profession made fun
+      of two centuries ago. MICHAEL HUDSON: Well, nothing’s more limited than being
+      a limited partner of the United States. It’s sort of like being a limited partner
+      of the New York Yankees under Steinbrenner. RICHARD WOLFF: Yes. Or a limited partner
+      of the Titanic on a fateful voyage. MICHAEL HUDSON: Right. NIMA ALKHORSHID: Thank
+      you so much, Richard and Michael. Great pleasure, as always. MICHAEL HUDSON: Thank
+      you. NIMA ALKHORSHID : See you soon. RICHARD WOLFF: Thank you for having the program,
+      Nima. Transcription and Diarization: hudsearch Editing and Review: Harrison Betts
+      Photo by Patrick Hendry on Unsplash The post Dollar on the Brink first appeared
+      on Michael Hudson .'
+    one_sentence_summary: In a discussion led by Nima Alkhorchid, Richard Wolff and
+      Michael Hudson analyze Donald Trump's comments on the BRICS nations and their
+      perceived threat to the U.S. dollar's dominance, highlighting his stance on imposing
+      tariffs on BRICS members.
+    paragraph_summary: In a discussion on July 24, 2025, Nima Alkhorchid, Richard Wolff,
+      and Michael Hudson analyzed Donald Trump's remarks regarding the BRICS nations
+      and the U.S. dollar's dominance. Trump claimed that BRICS is losing influence
+      and threatened tariffs on member countries to maintain dollar supremacy. Hudson
+      countered that Trump's policies, which aim to lower the dollar's value to boost
+      exports, are ineffective due to the U.S.'s deindustrialization. He noted that
+      Trump's approach is prompting foreign investors to decrease their dollar holdings,
+      contrasting it with the Biden administration's efforts to combat monopoly pricing.
+      Overall, the conversation highlighted the complexities of U.S. economic policy
+      and its implications for the dollar's standing in the global market.
+    published: '2025-08-13T21:07:36+00:00'
+  - title: Dollar on the Brink
+    url: https://michael-hudson.com/2025/08/dollar-on-the-brink/
+    text: 'NIMA ALKHORSHID: Hi everybody. Today is Thursday, July 24, 2025, and our
+      friends Richard Wolff and Michael Hudson are back with us. RICHARD WOLFF: Good
+      to be here. NIMA ALKHORSHID: I want to start with what’s going on with a new article
+      in the Financial Times, but before going there, here is what Donald Trump said
+      about BRICS. [clip starts] Donald Trump said, “BRICS, it’s fading out fast. But
+      BRICS is, they wanted to try and take over the dollar, the dominance of the dollar
+      and the standard of the dollar. And I said, anybody that’s in the BRICS Consortium
+      of Nations, we’re going to tariff you 10%. And they had a meeting the following
+      day, and almost nobody showed up. They said, leave me alone. They didn’t want
+      to be tariffed. That’s amazing. No, we’re not going to let the dollar slide. If
+      we have a smart president, you’re never going to let the dollar slide. If you
+      have a dummy, that could happen, like the last one. If you ever asked him about
+      the dollar slider, he would have no idea. But we can’t let that ever happen again.”
+      [clip ends] NIMA ALKHORSHID: He’s not interested in having dollars sliding. Michael,
+      how does this administration behave in terms of blocking or somehow avoiding the
+      sliding of dollars? MICHAEL HUDSON: Well, Trump has been saying from the time
+      he took office that he wants the dollar to go down. He believes that if the dollar
+      can fall in exchange rate, that’s somehow going to help the exports become more
+      competitive and employ more industry. What he neglected to notice was that there
+      isn’t any industry to export. We’ve deindustrialized. So, much of his policy hasn’t
+      worked at all. But in fact, everything he’s doing is leading foreign investors
+      to reduce their dollar holdings because they’re seeing Trump’s policy, the tariff
+      policy, and his recent refusal to prosecute monopolies and to replace the Biden
+      administration. One thing that it did well was prevent monopoly pricing. He’s
+      told all the companies, charge whatever you want. We’re not going to prosecute
+      you. It’s a free market for you. Well, when there’s this much price inflation
+      in the dollar, these sort of traditional money managers think, well, if prices
+      are going to go up steadily in the United States, that’s going to reduce the value
+      of our dollar holdings. And we’re going to better get out of them now. And there’s
+      been a sustained movement out of the dollar by just about everybody, including
+      China, certainly by foreign central banks that are not adding to the dollars.
+      They’re very slowly reducing their dollars, some faster than others. And there’s
+      a movement into gold. So the dollar is going down, gold prices are going up, even
+      Bitcoin prices are going up. People are looking for an alternative to the dollar
+      because of Trump’s threats. Well, we’re thinking of putting tariffs and special
+      fees on foreign investors buying treasury bonds or any corporate bonds or stocks.
+      We’re going to charge fees to prevent them from doing that. So everything he’s
+      doing has been designed or has the effect of driving down the dollar. That should
+      not surprise people at all. So what you have in the United States is something
+      that nobody can really make sense of. I’ve been forecasting interest rates for
+      over half a century, and there’s never been a situation where interest rates go
+      up and – usually the effect is to draw foreign capital into the market to make
+      arbitrage gains, but the currency is going down. And that’s exactly it. You have
+      the stock market going up as if somehow the economy is supposed to be prospering,
+      but the dollar is going down and down and down. And that means that not only foreign
+      central banks, but the investment funds, and the money managers who make trillions
+      of dollars, have decided that Trump’s policies and the U.S. policies are basically
+      guaranteed to lose your money. And even if the interest rates go up on treasury
+      bonds, for instance, 4.5%, for the 10-year Treasury bond, if the dollar goes down
+      by 10%, which it has already, and it’s still going down, then you’re actually
+      losing five percent already on what you’ve held in the dollars, as this is measured
+      in your own currency. So a European or a Chinese or any other foreign holder of
+      US corporate bonds or treasury bonds is going to take a capital loss as measured
+      in their own currency. They’re all trying to avoid this. They see that the tendency
+      of the United States is rising inflation because of the tariffs and the other
+      policies that Trump is imposing, accelerated balance of payments deficit because
+      of his military policies, and a further decline in the dollar, meaning a loss
+      on their investments. NIMA ALKHORSHID: Go ahead, Richard, your take on that. RICHARD
+      WOLFF: I would just add that, as always, there are larger social contexts, in
+      a sense, for this as well. You know, many billions of dollars that came in as
+      a demand for dollars, for example, by tourists. All the signs indicate that there’s
+      a tremendous fall-off in European, Canadian, and many other tourists who are simply,
+      you know, they see one more picture of masked ICE agents arresting an 80-year-old
+      man at the border who’s a longtime citizen and deporting him to Guatemala before
+      they can straighten out, if they can, their mistake. They don’t want this experience.
+      And the experience is being repeated over and over again. The reward for a really
+      disastrous six months of horrible publicity for ICE was a tax bill that gives
+      ICE many billions more dollars to presumably do more of this horrific policy.
+      A Gallup poll this last week indicated a dramatic shift among Republicans in those
+      who were in favor of harsh deportation and those who now say that immigration
+      is a good thing for the United States. This is very, very bad news for Mr. Trump
+      in terms of his signature immigration issue as a way to get support. But it also
+      is a decline in the demand for the dollar. I have friends in New York City who
+      tell me that fancy housing in the United States used to be a major purchase by
+      foreigners to park their money in the United States. Well, if you understand the
+      logic, the foreigner has to buy dollars with which then to make the purchase of
+      the property here. And if they don’t want the property, they don’t buy the dollars.
+      And if they sell the property, they then sell the dollars that they got for selling
+      the property. Okay, that’s like a diminution in buying, an increase in the selling
+      of the dollar has to be factored into what’s shaping the value of the dollar.
+      And I think what you’re seeing in the growth of the BRICS, which Mr. Trump himself
+      glimpses a little bit, is the growth of a block that has less and less interest
+      in holding dollars and more and more interest in replacing them. I don’t think
+      they’re quite so clear in their minds as to what to replace them with. They’re
+      either going to trade in their own currencies or they’re going to trade in some
+      new composite substitute currency, you know, something that blockchain or others
+      can handle for them. But this is all bad news for the value of the dollar. And
+      another way to make Michael’s point is to say that a traditional tool of policy
+      is a devaluation of your currency one way or another in order to stimulate exports.
+      Listening to Mr. Trump, I think someone gave him the right idea. If you lower
+      the value, you improve exports. But if you haven’t taken into account that the
+      world is not buying most of what you have to sell, that problem negates the benefit
+      you had expected to reach from the devaluation. And so all of these things are
+      kind of coming together with the decline of the U.S. Empire as the broad conceptual
+      framework to give you these anomalous results, these situations where you have
+      a policy to raise or to sustain the value of the dollar, but instead you see it
+      ebbing away. And just for those who are not familiar with the number, a decline
+      in the value of the dollar, if I understand it, from the date of his inauguration,
+      January 20, to right now, a devaluation of your currency by 8% to 10% in six months
+      is an extraordinary decline. This is not the way currency markets work. They don’t
+      bounce around that way. So something significant is going on to give you that
+      kind of a fall even before you ask the question, how do you get that, when the
+      objective officially was to do the opposite, to raise the value. MICHAEL HUDSON:
+      And the dollar has even fallen more against the Euro, which, surprisingly enough,
+      has gone up. The fact that Trump doesn’t understand the point that you’ve just
+      made, Richard, is sort of clear in the agreement he made two days ago with Japan.
+      Japan announced that it’s willing now to import without tariffs, American cars
+      and American rice and food. And when I first read this, I thought, well, there
+      are no details yet. How can Japan let itself be appropriated like that? And then
+      it occurred to me: yes, they’ve abolished the tariffs, but the Japanese don’t
+      want to buy American cars because the American cars are SUVs. They’re big. They’re
+      too big for the Japanese parking spaces. They’re gas guzzlers and they don’t want
+      to buy American rice or other food because they say it doesn’t taste as good as
+      Japanese rice. They’re very nationalistic, or even as good as Korean rice. So
+      the fact is that Trump believes that somehow the deal that he’s made, along with
+      the depreciation and the tariff levies, is going to spur exports, and it isn’t.
+      So what’s he going to do if he tries to live up to the speech that he just gave
+      and said, well, we’re going to prevent the dollar from going down anymore. Well,
+      last week, Nouriel Roubini, the sort of economic futurist, forecasted that interest
+      rates are going to rise to 8% by 2030. He said the only way that the administration
+      can stop the decline in the dollar is to raise interest rates so much that people
+      are going to borrow inexpensively from Japanese banks for the carry trade and
+      from European banks to invest in the dollar to get higher interest rates. And
+      at 8%, it’s going to pay them to buy the dollar. But if you have 8% interest rates,
+      that’s going to crash the bond market, crash the stock market, and all of this
+      Ponzi scheme that was introduced since the Obama administration with its quantitative
+      easing is going to be dismantled. So there’s no solution to America’s situation.
+      It’s in a quandary. It’s not a problem that can be solved. Whatever Trump does
+      is going to make things worse. So, as mathematicians say, America is in the optimum
+      position right now. This is as good as it gets. Anything Trump does is going to
+      make things worse. It’s a hard time to be president. RICHARD WOLFF: I think it
+      might be useful as a corrective for people who learned crappy economics. I’m going
+      to give a couple of examples of what I suspect the Japanese are about to do. It
+      basically fleshes out what Michael just said. Let’s take rice. I will make you
+      a prediction. On the grocery shelves across Japan, there will now be two packages
+      of rice where before there was one package. One package will say, this is Japanese
+      or perhaps Korean rice. It is the traditional rice that we love. There’ll be a
+      Japanese flag right across the front of it. Next to it will be a package saying,
+      Uncle Sam rice sent to you by Donald Trump. You know, the guy who just hit our
+      country with a tariff, even though we’re the most loyal ally he has in Asia. These
+      are called non-tariff barriers. But as anyone who’s ever studied this knows, they
+      can be as or more important than the price variable, right? Now, you have a moment
+      when the whole of Japan has been treated to the notion that their loyalty to the
+      United States has been rewarded by nothing, by being tariffed the way he tariffs
+      everybody else. The same lesson is being learned by Canada, Mexico, and all the
+      others. So, he’s going to have a government that gives their people the explanation
+      that the Americans are hurting us economically, which they are. They have their
+      problems, and they’re taking it out on us in order to ease their problems. That’s
+      a good reason when you pass the two packages of rice on the shelf to pick the
+      one that enables you to say something. It’s like the Canadians who have stopped
+      buying American bourbon, or the Mexicans who are coming up with new ways to use
+      their corn because they don’t want to bring in biologically transformed American
+      corn, on and on. This is going on really everywhere, everywhere. Every country’s
+      leader now has an excuse, whether they’re a good leader or a bad leader, it doesn’t
+      matter, an excuse to justify their own economic problems and their own failures
+      to solve those economic problems by blaming Trump and America. And there’ll be
+      a grain of truth to it, even if it’s wildly exaggerated. Mr. Trump has declared
+      economic war on the rest of the world at a time when the United States’ global
+      position is weaker than it’s been in 75 years. This is not a smart move. This
+      is an act of desperation that reminds me of what you learned if you ever take
+      a life-saving course. A drowning person flails around. You have to be very careful
+      when you help a drowning person, lest they pull you under. That’s not their intent.
+      But they’re desperate. You’ve got to take that into account. And I think all of
+      these countries are not only doing what we see on the surface, but they’re going
+      to take the steps to make sure that the intent of these agreements they’re signing
+      is not realized. And that within a few years, either Mr. Trump will change or
+      Mr. Epstein will sweep him out of office or fill in the blank, he’ll be replaced
+      by somebody else who won’t do that. That’s the logical thing for them to do. And
+      here’s the logical thing for them to do that people are not understanding as well.
+      Foreign companies or American companies that currently locate their production
+      in China or India or Brazil or anywhere else, they are not going to come to the
+      United States because of this. They aren’t coming. There is no sign, no sign of
+      any kind of mass movement in this direction. And their reason is very clear. It
+      would be a very stupid, unwise decision. You don’t know. Why would you come to
+      America? I’ll give you an example. You’re producing rice or anything else in some
+      place in the world. And Mr. Trump said, I’m going to tariff. I’m going to open
+      up the market. Come here to the United States. But you know what I just said.
+      You know that there’s going to be selection against American exports. That’s a
+      very important reason not to relocate to the United States. And you don’t need
+      that many. You don’t want to do it. Mr. Trump can’t guarantee anything more than
+      another at most three years. Well, that’s how long it would take to move production.
+      So you will have moved it in time for the rationale for moving it to be no longer
+      present. And that would lose you your job as vice president for location in a
+      big company. You’re not going to do it. You’re not going to do it. And your superiors
+      are going to understand why you don’t do it. MICHAEL HUDSON: Well, regarding foreign
+      leaders that you mentioned, it’s not only the leaders. Look at Japan’s election
+      last weekend. It was the right-wing nationalist parties that ended up becoming
+      the dominant force in Japan, just as the nationalist parties in Europe are rising.
+      It’s unfortunate that the nationalist parties are the right-wing in foreign countries
+      instead of the left-wing. It shows a success in the United States of supporting
+      the right-wing and just untracking the left wing. But you’re having, no matter
+      what, if the leaders do not do what you’re pointing out, what is in their political
+      advantage to do, then they’re going to be voted out of office by nationalists
+      on an anti-American program. And that’s what you’re seeing all the way from Japan
+      to the alternative for Deutschland and similar parties throughout Europe. RICHARD
+      WOLFF: Yeah, the German thing is for me, since I follow events in Germany, particularly
+      amazing to watch. MICHAEL HUDSON: Yep. Yeah, something has to give. At some point,
+      you’re going to have countries acting in their own self-interest. And their own
+      self-interest is going to be: let’s somehow figure out a way of going it alone
+      with our closest allies. And the closest allies are economies that are growing
+      the most rapidly. And the most rapidly growing economy is China. So I don’t see
+      how America’s anti-China, anti-Russia, and Cold War coalition are going to be
+      able to withstand the force of just economic determinism from Europe to Latin
+      America to Africa to Asia. RICHARD WOLFF: Yeah, and Germany, you know, I shake
+      my head in disbelief. They’re about to dismantle their social democracy safety
+      net in order to become a military superpower to fight whom? What? What is this
+      about? And the United States is pulling out of Ukraine. The Germans are replacing
+      them to fight a war that they will lose. This is, you shake your head. Mr. Merz,
+      there’s no future for what he’s doing. I don’t see why he’s doing it. I mean he’s
+      an American friend, I understand that. He worked for BlackRock or Blackstone,
+      one of them, and was the head of the German division of that company. But this
+      is crazy. This is so crazy that you kind of wonder how long it will last before
+      the German middle and the German left, both of which are very large, much larger
+      than American media, let you know, before they blow these people away. And then
+      they’re going to have an incentive to move to Europe in just the way Michael hinted.
+      They’ll ask very new questions about what the relationship to Russia and China
+      would be. And if you don’t believe me that way, let me put it to you another:
+      If the right wing were to win the Alternative für Deutschland, if that were to
+      actually win, they’re even more interested in changing the relationship with Russia
+      and China. So this is a dead end for the old traditional politics, which is what
+      Mr. Merz represents. NIMA ALKHORSHID: Michael, here is the article that I was
+      talking about when these talks started. The article in the Financial Times shows
+      that the foreign holdings of U.S. Treasuries, you look at China, and since 2010,
+      when many believe that the economic war between the United States and China started,
+      you see it shows them steadily going down and reducing. And coming to 2025, it
+      seems it’s below the UK. And on the top of the graphs, you see Japan is there,
+      and the blue one that is going up is the United Kingdom. We have another blue
+      one right below that light blue; it’s a little darker than the UK one, and it
+      is the Cayman Islands, and it’s going up as well. Your take on the way that China
+      for more than a decade, for 15 years, has been reducing their holdings of the
+      U.S. Treasury? MICHAEL HUDSON: Well, it’s not simply that they’re reducing their
+      foreign exchange reserves, it’s specifically the United States. And what are they
+      replacing it with? Gold and other currencies of other countries. I want to focus
+      on this Cayman Islands increase and the vast increase in Cayman Islands. The Cayman
+      Islands really doesn’t have any money of its own. I was at Chase Manhattan Bank
+      when the State Department decided in 1965 to try to support the dollar by making
+      America the home of criminal capital throughout the world. I was asked by Chase
+      Manhattan, who is their balance of payments analyst, to calculate what’s the volume
+      of criminal capital every year that goes into countries like Switzerland and London
+      and others. And how can we get that? How can we attract that criminal capital?
+      How can we make America the home for drug dealers, for tax avoiders, for dictators
+      who are stealing money? That’s how we will finance the Vietnam War, which was
+      still going on, remember, until the 1970s. And I did a rough analysis, and the
+      government, the Treasury, went to Chase Manhattan and other banks and said, Could
+      you please set up branches in the Cayman Islands? The Cayman Islands had declared
+      independence from Britain, and they very quickly reversed independence so they
+      could be part of the British economy, literally part of Britain, no longer independent,
+      using the stable currency. And so the American banks set up branches in the Cayman
+      Islands. And every three months, the Treasury Bulletin would publish figures for
+      the smaller countries throughout the Caribbean. And Wall Street firms asked me
+      to begin to calculate the inflows from the Cayman Islands. And almost all the
+      inflows were from foreign branches of American banks to the head offices. So the
+      American banks followed the Treasury request to help finance the dollar by setting
+      up branches and  letting other money go through the Cayman Islands with no questions
+      asked. So right now, it’s not only a drug dealing capital, it’s not only foreign
+      dictators, it’s not merely Zelensky’s $10 million billion dollars a year that
+      he’s taking, it’s Bitcoin. And now I think you’re seeing what Trump has… let’s
+      say Trump has advisers looking at this chart and they’re saying, aha, one way
+      that we can support the value of the dollar is to make a whole new area of financial
+      criminality. Bitcoin and cryptocurrencies for everyone who’s a tax avoider, tax
+      evader, and criminal. Everyone who doesn’t want the government to know how much
+      income they actually have are going to be putting their money in, well, not only
+      do they no longer have to do it in the Cayman Islands or into other offshore banking
+      centers, they can do it in cryptocurrency. And so by pushing that, what is the
+      cryptocurrency backed by? It’s supposed to be backed by U.S. Treasury securities.
+      There’s a lot of it that really isn’t. They say it’s backed by cryptocurrencies,
+      but most of it’s a scam. There are, I think, thousands of cryptocurrency companies,
+      little ones that have taken off. They’re hyped up by stock manipulators like Donald
+      Trump for his and Melania’s cryptocurrency. Insiders get in at the beginning,
+      push it up, then they all bail out and they leave the holders, the suckers, holding
+      the bag, and the cryptocurrency collapses in price again. This kind of a scam
+      is one of the main supports for the United States dollar. Well, it beats industrialization.
+      If you industrialize, you’re going to raise wages. This doesn’t raise wages. This
+      simply takes away the savings of wage earners who’ve been suckered into buying
+      cryptocurrency. RICHARD WOLFF: I look at that graph, and I see something that
+      really kind of blows my mind. And it’s very useful, the graph, for that reason.
+      First, the Chinese since 2010 have unloaded what looks like, you know, not that
+      much less than a trillion dollars worth of money. If the graph is to be believed,
+      they had one and a half trillion worth of dollars, and now they have, well, a
+      bit more. So three quarters of a trillion dollars, $750 billion. Well, if the
+      dollar has lost 10% of its value, 8 to 10%, in the six months that Mr. Trump has
+      been president, which it has, then the Chinese, by divesting themselves of $700
+      billion worth of U.S. dollar treasuries, have avoided losing 8% to 10% of the
+      value of their holdings because they sold before the dollar went down. And in
+      contrast, all of the others, allies of the United States who held on to, or in
+      the case of the rising lines, increased their holdings of dollars in the years
+      leading up to Mr. Trump’s presidency have been rewarded for that accumulation
+      of dollars by losing 8 to 10% of the value of what they accumulated. Therefore,
+      Mr. Trump’s government, in addition to the damage done to them by the tariffs,
+      are suffering the damage done to their holdings of dollars, which they have increased.
+      And if you take a look at the number 3 country, the United Kingdom, whose economy
+      is a disaster by their own account, they have spent the last many years not only
+      not developing their own economy, but investing in the dollars held in the U.S.
+      treasuries while the value of the dollar was undone. I mean, you are looking at
+      the United States punishing its allies for being allies. And you’re giving them
+      a bigger and bigger reason to consider joining the BRICS, rethinking and refashioning
+      their relationships with China, Russia, and the rest of the BRICS as a defense
+      against what is happening to their economies through their association with the
+      United States. And that’s part of the larger picture called a declining American
+      capitalist empire. That these are the ways that works out. And I think it’s important
+      to see the utter damage being done. And so, if yes, the countries that are being
+      hit with a tariff are joining the BRICS, I am not at all surprised. MICHAEL HUDSON:
+      I think there are a lot of people who see the argument that you and I have been
+      making. And you can see that people have already looked way forward and they began
+      to sell stocks short and bonds short, hoping to make a killing. And yet, they’ve
+      been sort of premature pessimists. And, obviously, the bond prices and stocks
+      are going up. So you’d think that being right in the long run may lose money in
+      the short run because, as Keynes said, the market can stay irrational longer than
+      short sellers can stay solvent. If you sell a stock short and it doesn’t go down,
+      you have to buy it back at the higher price, and you lose a lot of money. So,
+      the result is an unprecedented volatility, up and down, and up and down. There’s
+      an enormous amount of speculative gambling by all of the really big financial
+      institutions. And the result is that last week was the week in which the American
+      banks and companies announced their earnings for the year. And the earnings for
+      the New York banks, the money market banks, are way, way up all on speculative
+      financial trading, options, and derivatives, and all of this. The American banks
+      that are local banks and don’t deal with speculation so much with this outside
+      of the New York area have not made that particularly large earnings. They’ve been
+      squeezed, if anything. So, you’re having the whole transition of the American
+      financial system into finance capitalism, not industrial capitalism. And it’s
+      all a kind of gambling of how rapidly the pace of American decline will be along
+      the lines that you and I have been describing. RICHARD WOLFF: Yeah, and I’d like
+      to point out that it is beginning to have the effects that I think you and I,
+      Michael, and you, Nima, were expecting and were hoping for. You know, when I awoke
+      this morning, the headline that captured me was the announcement in Britain of
+      the formation of a new left-wing British political party to be led by Jeremy Corbyn
+      and a woman named Sultana, both of them former Labour Party members of parliament.
+      Corbyn was the head of the Labour Party and was replaced by Mr. Starmer, who is
+      following Mr. Trump in terms of popularity these days, even without an Epstein
+      story to tell. It is going to be, I predict, it’s going to be one of the positions
+      of this new party to expose the subordination of a declining England to the United
+      States in a way that has to stop. And I think you’re going to see an enormous
+      number of British people from all walks of life and all political persuasions
+      who are going to be able to be rallied under that because of the last few years
+      of economic history, culminating in Mr. Trump, who’s creating this political possibility.
+      MICHAEL HUDSON: And if that works out in England, imagine how it’s going to work
+      out in other countries. They’re going to say, ah, there is a left-wing alternative
+      to the right-wing alternative. So, look at all of the counter-reactions that Trump
+      is inspiring that he obviously did not intend to do, but that’s what’s happening.
+      NIMA ALKHORSHID: Richard, we see what’s going on between Brazil and the United
+      States as well as the broader picture. Lindsay Graham has announced that they’re
+      going to crush the economies of Brazil, China, and India if they keep buying Russian
+      energy and all of this. They’re trying to put pressure on Russia. But to put pressure
+      on Russia, they have to go against these three big countries, they’re huge in
+      terms of their economy and population. I don’t know about the capabilities of
+      the United States at this particular moment that they’re in. Is that a viable
+      choice for the Trump administration to go in that direction? RICHARD WOLFF: No,
+      I don’t think so. But I think what you’re seeing, and I really don’t mean to keep
+      saying this, but the questions lead back to this all the time. Nothing is more
+      typical of a declining empire than for the people who lead it to say to the mass
+      of their constituents, I’m here to reassure you. And by that, they mean to deny
+      the reality of a declining empire. And so we get the intonation of Mr. Trump and
+      of Lindsey Graham and all the others. We are big, we can do what we used to do:
+      threaten annihilation, threaten to control it, because we had enough control that
+      you could go far enough, even if not quite to what they threatened. And people
+      were afraid, and people made accommodations. It is becoming clearer and clearer
+      to more and more countries and people that the United States is not in that position.
+      In Europe now, it is pretty well understood that the United States is not in a
+      position to provide Ukraine with many, many weapons because it cannot produce
+      them. It can’t. At this point, not without exhausting its own stockpiles. The
+      Europeans have exhausted their stockpiles and they didn’t have much. So they are
+      being constructed. This is a reality that no one foresaw. The United States military
+      establishment was represented for the last 50 years as, you know, I remember a
+      table: We spend more on the military than the next 10 countries combined spend
+      on it. But we can’t anymore. We can’t do it. And this is a terrible, terrible
+      problem. And so it means that the people who are actually in charge, who actually
+      have the meeting with our military leaders and talk about, can we invade and control
+      Iran?… That’s a good example these days. People should understand the importance
+      of Iran is that it is not a big country like China. It is not a big country like
+      Russia. It is a big country, but not that scale. And yet, it now too is no longer
+      willing and no longer feels the need to bend over when the United States threatens
+      militarily. Bring on your bombing. Come on, you do your bombing. We will survive.
+      And so will our military. And so will our nuclear military. That’s what they showed
+      a few weeks ago. This is extraordinarily important because it isn’t Russia and
+      China. Or even Indonesia, other bigger countries. It’s significantly smaller.
+      And that’s a very powerful message. So when you see Trump sit down with his generals,
+      they explain to him: you can bomb those centers, but it has to be a 10-day war.
+      We can’t have a three-year war the way we do with Ukraine. We can’t do it. It’s
+      not that it’s not a good idea. We can’t do it. We can’t do it. And the Russians,
+      the Chinese, and the Iranians together can produce a resistance we can’t handle.
+      Lindsey Graham doesn’t have to have that meeting. He sits in another building
+      and he can act out the fantasy of denial. We’re gonna crush them. Until he becomes
+      the president, when they will sit down and say, if you do that, it’s over for
+      us. Look at Mr. Trump, he bloviated just like Mr. Lindsey Graham. He was willing
+      to make all these, he can’t do it. And Americans, I know we don’t want to face
+      it. I understand it. I even have compassion for it. I do. Who wants to admit all
+      of this? But it is the reality. And not admitting it won’t change it. The only
+      way to solve these problems is to sit down with the Chinese and the Russians and
+      work something out. And if you don’t do that, you’re continuing down this road
+      and you are losing. This is the reality. And that’s what we have to face. And
+      I think people like us in our conversations have to put that forward because I
+      think Americans are so concerned about what’s the feeling they have, which I get
+      in the street every day. Everything’s falling apart. Everything’s falling apart.
+      People understand there’s something very bad. The Epstein, you know, we’re now
+      all upset about Epstein. You know, sleazy, horrible. And what we see is not only
+      our government wrapped up in it, but the whole media, the whole circus. This is
+      what this country is doing. As literally everything’s falling apart around it.
+      People want an understanding. We actually have the basis of that. That’s why this
+      stuff is so important to get out. MICHAEL HUDSON: Richard, it’s almost like you
+      and I are playing a game. The situation is even worse than you say. You mentioned
+      that America doesn’t have the weapons for more than a 10-day war. Here’s the real
+      problem: the American weapons don’t work. For those who listen to Nima’s interviews
+      with his military people that he’s been doing, the lesson of the war in Ukraine
+      is that Russia can penetrate the American air defenses. It will. They can shoot
+      down the American missiles. It will. The fighting in Ukraine with American weapons
+      is a counter-advertisement. It’s showing other countries: if you buy our F-16s,
+      if you buy our Patriot missiles, you’re going to be spending enormous amounts
+      of money for weapons that don’t work against anyone except maybe Libya or Iraq
+      or Palestine, the Palestinian populations, but they’re not going to work against
+      sophisticated countries like Russia, China, or even Iran. So the war has almost
+      destroyed, you’d think, the market for American weapons, which is how America
+      had expected to pay for the oil from OPEC. It had expected Saudi Arabia to recycle
+      its money into American weaponry, for Europe to recycle its money into American
+      weaponry, as Trump is insisting that it does. But there must be people, if not
+      the European generals, then the European politicians on the nationalist right
+      or left who will say, look, why are we buying these missiles that are ineffective
+      for the kind of war that we’re talking about against Russia, China, and Ukraine?
+      They don’t work. I think the fighting between Iran and Israel has shown that they
+      don’t work. America’s Iron Dome version, or Trump’s Golden Dome, that he says
+      will take a trillion dollars to finance, it won’t work against the Russian hypersonic
+      missiles and what apparently are now a new generation of Chinese hypersonic missiles
+      to go along with those of Iran. So the one industrial sector that America had
+      thought, here we have to buttress our trade, along with our agricultural exports
+      and our raw materials exports and our oil trade, is not working any more than
+      the American auto industry works. RICHARD WOLFF: For me, these are again, these
+      are the accumulating signs. You spend all this money, but you don’t understand
+      the hunger of the people you oppress around the world. And they’re going to figure
+      out how to get around your limits. You don’t have that pressure. You think you’re
+      sitting on top of the world. You just develop and you’re confident somehow that
+      you’re alone, that you will not be competed against. It’s amazing. You know, they
+      celebrate competition and then don’t understand what competition actually can
+      do to the position of somebody who’s on top. You know, I teach in economics that
+      monopolies generate enormous profits that create enormous incentives for others
+      to come along and destroy the monopoly. Monopoly breeds its own negation. Very
+      Hegelian, very Marxian. But you have to have that idea in your mind. Otherwise,
+      you imagine that the monopoly lasts forever. It never does. Competition destroys
+      itself into monopoly, which then destroys itself into competition. That’s the
+      reality. But if you don’t see it, then you become what will later be called lazy
+      or unaware. None of that’s really quite true. It’s getting caught up. MICHAEL
+      HUDSON: Let’s get back to the chart that Nima talked about. What are other countries
+      going to do to escape from this? What’s their alternative going to do? Obviously,
+      they’re going to create some alternative vehicle just as they’ve created a different
+      means of payment so they don’t have to depend on the SWIFT bank clearing system
+      that enabled the United States to grab Russian money. Trump has said that any
+      attempt by the BRICS to create alternative vehicles to the dollar is going to
+      be hit by 500% tariffs. These are empty threats. Let them try. The whole world
+      is going to be hit by America saying, the American market is closed to you. You
+      can’t export anything to us. You can’t buy anything from us. America is isolated.
+      If Trump meant what he threatened, America will exist all by itself with its own
+      resources. And it has enough natural resources to be independent. It could impose
+      industry, but prices will go up 300, 400, 500% as you have to create a labor force,
+      an industrial labor force that’s trained to do this, unlike what most graduates
+      are trained in today’s university and schooling system. So it’s, again, the Americans
+      are in a quandary in the sense that they cannot survive not only as an empire,
+      but as a viable economy to avoid being a failed state and a failed economy without
+      being something other than they are. Something that for many countries requires
+      a revolution. I don’t see a revolution here. I see various infighting. I see division.
+      I see breakup and dissolution. But it’s not a pre-revolutionary situation until
+      there is an alternative that’s put forth for the United States. And the only alternative
+      I can think of is why is China and why are other countries growing and America
+      is not? Why are they industrializing and why did America deindustrialize? There
+      has to be a whole analysis with the scope that you and I are talking about. It’s
+      not only Marx, it’s all of classical economics. It’s Adam Smith, John Stuart Mill.
+      It’s the whole 19th-century idea of how to create a viable industrial economy.
+      All that’s been replaced by the American sort of predatory economy. And it took
+      a long time for Britain to come to indeed have a real left-wing leader under Corbyn
+      go it alone, away from being tied up into the British Labour Party, as it became
+      just taken over by the post-Thatcherites, by Tony Blair, etc. Well, in America,
+      you’d have to have an alternative to the Democratic Party opposing the Republican
+      Party. I don’t see that because of the American constitutional two-party system
+      that makes it almost impossible for a third party. So I see the rest of the world
+      being able to solve the problems along the lines that you and I have been discussing
+      for years. I don’t see America even beginning to make the preconditions for solving
+      this problem. RICHARD WOLFF: I wanted to also comment on the dollar because just
+      to remind everyone of a history that I assume many of you know. At the end of
+      World War II, there’s this famous conference in the woods of New Hampshire, if
+      I’m not mistaken, Bretton Woods. It’s called pretty famous in the history of global
+      monetary affairs. And it had two very sharp economists, probably the greatest
+      at the time, John Maynard Keynes, who represents Great Britain and is there to
+      assert, I think it’s fair to say, the importance of Britain in the world at that
+      time. And that led him to propose a global economic arrangement in which the British
+      pound continued to play maybe a bit lesser, but nonetheless, the dominant global
+      currency, which it had been for more than a century at that point. And there is
+      an unknown Harry Dexter White, by name, an economist, who basically says, no,
+      you’re not going to be the global currency. That’s now passed to us. We’re going
+      to do it. And they fight and they argue and they reach a kind of compromise, but
+      it isn’t such a compromise. It really is another step in diminishing the pound,
+      not as much as they might otherwise have wanted to, and elevating the dollar,
+      perhaps not as much as they might have wanted. But the direction was unmistakable,
+      and everybody sees it in the years that follow. Okay, but let’s keep that in mind.
+      What happened to the pound relative to the dollar is now happening to the dollar
+      relative to what comes next. It shouldn’t surprise you, it shouldn’t amaze you,
+      it isn’t the end of the world, none of that. It is a reflection. World War II
+      wrecked the British Empire. They didn’t want to face it. They believed they were
+      still the empire, but they weren’t. And within five years, most of the empire
+      led by India was no longer part of the empire. They lost it. And World War II
+      was crucial. They were gone. And the United States, by contrast, emerged unequaled
+      in its power because everybody else had been destroyed by the war. Britain, France,
+      Germany, Japan, Russia, and China, all of them wrecked by the war. MICHAEL HUDSON:
+      Well, Richard, that’s a story that I talked about in Superimperialism. That’s
+      the whole center. And before Bretton Woods, the United States had already made
+      a deal with Britain, the British loan, and the condition of the British loan was
+      that they could not maintain the empire’s preference. In other words, all the
+      money that India, as you pointed out, and other countries, many global south countries,
+      had built up during the war as part of the Sterling area, had to spend their money
+      under the old rules in Britain. And that was how Britain had hoped to create a
+      market for its industry, maintaining its role as the workshop of the world. But
+      Britain was forced to end empire preference and let free trade. And the result
+      of the free trade was that India and South Africa and other countries were freed
+      to spend their money on the United States exports. And the result was that the
+      United States increased its ownership of monetary gold from 1945 to 1950, to 80%
+      of the world’s gold. That was what broke the British Empire. And the move to free
+      trade, as the new Foreign Secretary Rubio said, no longer serves the American
+      interest any longer than it served England. It destroyed England’s interest. Free
+      trade now, if there really were free trade without tariffs, America would be completely
+      uncompetitive and unable to do all of the tricks and the arm-twisting and regime
+      change and the other special pressure points that Trump and his predecessors have
+      tried to push. The whole world order that was created after World War II is ending,
+      and all that the United States can do is protest against it, trying to stall for
+      time, trying to keep what it has as long as it can to give the really wealthy
+      1% chance to jump ship and move all their money out of the country along with
+      foreign investors. RICHARD WOLFF: And the irony is that the graph you showed us,
+      Nima, from the Financial Times, shows that the British, the rich establishment
+      of Britain continues to buy American treasuries, not to develop its own economy,
+      not to develop its own society, not to compensate for the loss of its empire,
+      but by becoming a sad junior investor. They’re the limited partners. America’s
+      the general partner. They’re the limited partners. They give their money. They
+      get a small cut of the action. That’s all that’s left to them. But it will fund
+      a very wealthy upper crust of that society who can live off the dividends and
+      be the very rentiers that their most illustrious economics profession made fun
+      of two centuries ago. MICHAEL HUDSON: Well, nothing’s more limited than being
+      a limited partner of the United States. It’s sort of like being a limited partner
+      of the New York Yankees under Steinbrenner. RICHARD WOLFF: Yes. Or a limited partner
+      of the Titanic on a fateful voyage. MICHAEL HUDSON: Right. NIMA ALKHORSHID: Thank
+      you so much, Richard and Michael. Great pleasure, as always. MICHAEL HUDSON: Thank
+      you. NIMA ALKHORSHID : See you soon. RICHARD WOLFF: Thank you for having the program,
+      Nima. Transcription and Diarization: hudsearch Editing and Review: Harrison Betts
+      Photo by Patrick Hendry on Unsplash The post Dollar on the Brink first appeared
+      on Michael Hudson .'
+    one_sentence_summary: In a discussion led by Nima Alkhorchid, Richard Wolff and
+      Michael Hudson analyze Donald Trump's comments on the BRICS nations and their
+      perceived threat to the U.S. dollar's dominance, highlighting his stance on imposing
+      tariffs on BRICS members.
+    paragraph_summary: In a discussion on July 24, 2025, Nima Alkhorchid, Richard Wolff,
+      and Michael Hudson analyzed Donald Trump's remarks regarding the BRICS nations
+      and the U.S. dollar's dominance. Trump claimed that BRICS is losing influence
+      and threatened tariffs on member countries to maintain dollar supremacy. Hudson
+      countered that Trump's policies, which aim to lower the dollar's value to boost
+      exports, are ineffective due to the U.S.'s deindustrialization. He noted that
+      Trump's approach is prompting foreign investors to decrease their dollar holdings,
+      contrasting it with the Biden administration's efforts to combat monopoly pricing.
+      Overall, the conversation highlighted the complexities of U.S. economic policy
+      and its implications for the dollar's standing in the global market.
+    published: '2025-08-13T21:07:36+00:00'
   - title: 'How the world can free itself from US financial colonialism: Economist Michael
       Hudson explains'
     url: https://geopoliticaleconomy.com/2025/08/06/world-us-financial-colonialism-economist-michael-hudson/

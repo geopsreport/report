@@ -7,22 +7,1509 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  With the highly anticipated Trump-Putin summit just days away, geopolitical tensions and intrigue are mounting. The backdrop is a rapidly shifting global order, with Russia advancing its multipolar agenda despite unprecedented Western sanctions, and the United States navigating internal and external pressures over its Ukraine policy.
+  The ongoing conflict in Ukraine continues to dominate geopolitical discourse, with recent developments underscoring the deepening complexities and the diminishing prospects for a negotiated settlement. The destruction of the SOCAR Oil Terminal in Odessa marks a significant escalation, highlighting, as **Larry C. Johnson** notes, “the futility of negotiations to end the war in Ukraine.” Johnson argues that former President Trump’s attempts to mediate are hampered by a fundamental misunderstanding of the conflict’s roots, viewing it as a personal dispute between leaders rather than a clash over territorial claims and non-negotiable conditions set by Moscow.
   
-  The most recent and striking development is an unverified report, cited by **Larry C. Johnson**, that U.S. Special Forces killed a Ukrainian assassin in Alaska in the days leading up to the Trump-Putin meeting. While the details remain unconfirmed and lack corroboration from other media, the story underscores the heightened security concerns and the lengths to which some actors may go to disrupt the summit. Johnson notes, "the details remain unverified and lack corroboration," highlighting the need for caution in interpreting these claims, but the timing alone has fueled speculation about covert operations and Ukraine’s desperation to influence the outcome.
+  Meanwhile, the aftermath of the Alaska summit between Trump and Putin remains a focal point. Despite Western narratives suggesting Russian economic instability, Johnson reports that President Putin described the meeting as “timely and productive,” with both sides addressing the Ukrainian crisis and broader cooperation. This positive Russian readout stands in contrast to persistent Western skepticism and media portrayals.
   
-  Expectations for the summit itself are soaring, with Johnson comparing the event to "an arranged marriage with unrealistic expectations." Both leaders have a history of cordial, even relaxed, personal interactions, but the stakes are higher than ever as the war in Ukraine grinds on and Western unity shows signs of strain. The summit coincides with the anniversary of Japan’s World War II surrender, a date Johnson points out is laden with historical symbolism, particularly for Russia, which seeks to remind the world of its decisive role in ending the conflict.
-  
-  Meanwhile, the West’s military and diplomatic posture continues to be questioned. Johnson draws parallels between current Western anxiety over Russia’s offensive in Ukraine and the panic following Ukraine’s defeat at Debaltseve in 2015, suggesting that this historical memory is shaping U.S. policy—specifically, Trump’s decision to shorten the ceasefire deadline. The implication is that Washington may be acting from a position of weakness rather than strategic clarity.
+  On the transatlantic front, Johnson critiques the prevailing American belief that Europe will indefinitely sustain Ukraine, characterizing such views as “shallow and propagandistic.” There is growing doubt, even among U.S. analysts, about Europe’s long-term political and economic willingness to underwrite Kyiv’s war effort, especially as the conflict drags on and internal EU divisions deepen.
   
   **Trends and Predictions:**  
-  - The Trump-Putin summit is almost certain to proceed, despite attempts at disruption. I guarantee that the meeting will take place, though the outcomes may fall short of the lofty expectations being set.
-  - Security concerns around the summit will remain high, with a high chance of further reports—verified or not—of attempts to interfere.
-  - The West’s approach to Russia and Ukraine is likely to remain reactive and fragmented, as internal divisions and historical anxieties continue to shape policy.
-  - Russia’s push for a multipolar world and its ability to withstand sanctions will most definitely continue, with growing alignment among countries outside the Western bloc.
-  
-  In summary, the coming days will be defined by high drama around the Trump-Putin summit, persistent security risks, and a broader realignment of global power. The world watches closely, but the path forward remains fraught with uncertainty and competing agendas.
+  The majority of independent analysis suggests that the war in Ukraine is set to continue with high intensity and little chance for diplomatic breakthrough in the near term. The destruction of critical infrastructure like the Odessa oil terminal signals a hardening of positions. Johnson expresses high confidence that “negotiations remain futile under current conditions,” and that Western unity on Ukraine will face increasing strain. The Alaska summit, while symbolically important, has not shifted the underlying dynamics. Looking ahead, it is most definite that the conflict’s trajectory will be shaped by battlefield developments and the evolving resolve of European backers, rather than diplomatic overtures from Washington.
 articles:
+  - title: Trump Still Fails to Understand Russia’s Fundamental Reason for the Special
+      Military Operation, But He is Trying
+    url: https://sonar21.com/trump-still-fails-to-understand-russias-fundamental-reason-for-the-special-military-operation-but-he-is-trying/
+    text: 'SOCAR Oil Terminal Destroyed in Odessa Despite claims from the Trump administration
+      about the success of Monday’s meeting with Zelensky and the European pimp delegation,
+      the prospect for a successful negotiation to end the war in Ukraine is zero. Trump
+      continues to mistakenly believe that he simply needs to get Putin and Zelensky
+      together, who will hammer out a deal. Trump labors under the false assumption
+      that the war in Ukraine was caused in part by a personal tiff between Putin and
+      Zelensky. Putin has been very clear that he will only meet with Zelensky once
+      the details of a Ukrainian surrender have been agreed upon. Trump also thinks
+      that is nothing more than a dispute over land, and that land swaps is a key to
+      achieving a peace agreement. Here again, Trump displays profound ignorance about
+      the legal status of Zaporhyzhia and Kherson republics under the Russian Constitution.
+      Putin cannot concede any of that territory to Ukraine any more than Trump can
+      give Alaska back to Russia. But there is some good news: Notwithstanding Trump’s
+      ignorance of Russia’s reasons for starting the Special Military Operation (SMO)
+      in February 2022, he is sincere about reestablishing dialogue and normal diplomatic
+      relations with Russia… at least that is what the Russians believe. During the
+      Biden term in office, communication with Russia ended in January 2022. Now they
+      have someone to talk to… actually several someones, which includes Trump, Rubio,
+      Ratcliffe and Witkoff. Russia is not going to back away from increasing military
+      pressure on Ukraine. In the last 24 hours, Russia hit two key oil refineries –i.e.,
+      the Kremenchug oil refinery in the Poltava oblast and the SOCAR oil terminal/depot
+      in Odessa. The Kremenchug Oil Refinery is owned by PJSC Ukrtatnafta. The ownership
+      structure of Ukrtatnafta includes: • The Ukrainian state, through Naftogaz of
+      Ukraine NJSC, holding about 43% of shares. • The Privat Group, controlled by Ukrainian
+      businessman Ihor Kolomoyskyi and Oleksandr Yaroslavsky, holding about 56% via
+      offshore entities. In case you forgot, Ihor Kolomoyskyi is a prominent Ukrainian
+      oligarch who played a significant role in Volodymyr Zelensky’s rise to power during
+      the 2019 presidential election. This support included: • Media Support: Kolomoyskyi
+      owned the 1+1 Media Group, whose main TV channel (1+1) broadcast “Servant of the
+      People,” the hit political satire starring Zelensky. This show helped propel Zelensky’s
+      national profile and popularity. Kolomoyskyi’s media outlets gave extensive, supportive
+      coverage to Zelensky throughout his campaign. • Business and Personal Connections:
+      Zelensky’s production company, Kvartal 95, had business ties with Kolomoyskyi’s
+      media group. During the campaign, Zelensky appointed Kolomoyskyi’s personal lawyer
+      as a key adviser, and he travelled to meet Kolomoyskyi abroad on multiple occasions
+      while Kolomoyskyi was in exile. • Perceptions of Influence: These connections
+      fueled perceptions, especially among critics and political opponents, that Zelensky
+      was “Kolomoyskyi’s candidate” or a potential puppet of the oligarch. His campaign
+      benefited from Kolomoyskyi’s resources and media influence, leading to skepticism
+      about the independence of his anti-oligarch platform While Kolomoyskyi and Zelensky
+      have since parted ways, Ihor is still a major economic force in Ukraine, and this
+      hit him where it counts. It also damages Ukraine’s lines of communication with
+      respect to getting fuel to Ukrainian military vehicles. The bombing of SOCAR in
+      Odessa is even bigger news. SOCAR is the State Oil Company of the Azerbaijan Republic.
+      It’s Azerbaijan’s national oil and gas corporation and operates fuel stations,
+      terminals, and logistics facilities in several countries, including Ukraine. The
+      Odessa depot serves as a gateway for fuel products destined for European markets
+      and for Israel. The destruction of SOCAR’s Odessa oil depot is a significant financial
+      blow for Azerbaijan, leading to reduced market access, increased cost burdens,
+      and forcing a reassessment of both commercial and diplomatic strategies for Azerbaijan
+      in Ukraine, in Israel and in Europe. Consider this: SOCAR operates around 60 fuel
+      stations across Ukraine and has invested in oil storage and network infrastructure
+      in the Kiev, Odessa, and Nikolayev regions. This is not just an attack against
+      the leader of Azerbaijan; it also is a severe blow to Ukraine’s ability to supply
+      oil and fuel to its military forces. Putin sent a clear message to the Azeri leader,
+      Aliyev, who has been way too chummy with Zelensky, Israel and the United States…
+      FAFO . If you want to know what Putin’s government is thinking in the wake of
+      Monday’s meeting in Washington between Trump and Zelensky, set aside 20 minutes
+      to listen to Sergei Lavrov: I had my usual Tuesday chat with Marcello: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The destruction of the SOCAR Oil Terminal in Odessa highlights
+      the futility of negotiations to end the war in Ukraine, as Trump misinterprets
+      the conflict as a personal dispute between Putin and Zelensky, overlooking the
+      complexities of territorial claims and the conditions set by Putin for any potential
+      dialogue.
+    paragraph_summary: The article discusses the ongoing conflict in Ukraine, emphasizing
+      the futility of negotiations between President Trump and Russian President Putin
+      regarding the war. It critiques Trump's belief that the conflict stems from a
+      personal disagreement between Putin and Ukrainian President Zelensky, arguing
+      that Putin's stance requires Ukrainian surrender before any meeting can occur.
+      The article highlights Trump's misunderstanding of the territorial issues involved,
+      particularly regarding Zaporhyzhia and Kherson, which Russia cannot concede. Despite
+      these misconceptions, Trump is seen as a potential channel for dialogue with Russia,
+      a communication avenue that has been largely absent during Biden's presidency.
+      Meanwhile, Russia continues to escalate military actions, recently targeting key
+      oil facilities in Ukraine, including the SOCAR oil terminal in Odessa and the
+      Kremenchug oil refinery.
+    published: '2025-08-20T01:55:13+00:00'
+  - title: Trump Still Fails to Understand Russia’s Fundamental Reason for the Special
+      Military Operation, But He is Trying
+    url: https://sonar21.com/trump-still-fails-to-understand-russias-fundamental-reason-for-the-special-military-operation-but-he-is-trying/
+    text: 'SOCAR Oil Terminal Destroyed in Odessa Despite claims from the Trump administration
+      about the success of Monday’s meeting with Zelensky and the European pimp delegation,
+      the prospect for a successful negotiation to end the war in Ukraine is zero. Trump
+      continues to mistakenly believe that he simply needs to get Putin and Zelensky
+      together, who will hammer out a deal. Trump labors under the false assumption
+      that the war in Ukraine was caused in part by a personal tiff between Putin and
+      Zelensky. Putin has been very clear that he will only meet with Zelensky once
+      the details of a Ukrainian surrender have been agreed upon. Trump also thinks
+      that is nothing more than a dispute over land, and that land swaps is a key to
+      achieving a peace agreement. Here again, Trump displays profound ignorance about
+      the legal status of Zaporhyzhia and Kherson republics under the Russian Constitution.
+      Putin cannot concede any of that territory to Ukraine any more than Trump can
+      give Alaska back to Russia. But there is some good news: Notwithstanding Trump’s
+      ignorance of Russia’s reasons for starting the Special Military Operation (SMO)
+      in February 2022, he is sincere about reestablishing dialogue and normal diplomatic
+      relations with Russia… at least that is what the Russians believe. During the
+      Biden term in office, communication with Russia ended in January 2022. Now they
+      have someone to talk to… actually several someones, which includes Trump, Rubio,
+      Ratcliffe and Witkoff. Russia is not going to back away from increasing military
+      pressure on Ukraine. In the last 24 hours, Russia hit two key oil refineries –i.e.,
+      the Kremenchug oil refinery in the Poltava oblast and the SOCAR oil terminal/depot
+      in Odessa. The Kremenchug Oil Refinery is owned by PJSC Ukrtatnafta. The ownership
+      structure of Ukrtatnafta includes: • The Ukrainian state, through Naftogaz of
+      Ukraine NJSC, holding about 43% of shares. • The Privat Group, controlled by Ukrainian
+      businessman Ihor Kolomoyskyi and Oleksandr Yaroslavsky, holding about 56% via
+      offshore entities. In case you forgot, Ihor Kolomoyskyi is a prominent Ukrainian
+      oligarch who played a significant role in Volodymyr Zelensky’s rise to power during
+      the 2019 presidential election. This support included: • Media Support: Kolomoyskyi
+      owned the 1+1 Media Group, whose main TV channel (1+1) broadcast “Servant of the
+      People,” the hit political satire starring Zelensky. This show helped propel Zelensky’s
+      national profile and popularity. Kolomoyskyi’s media outlets gave extensive, supportive
+      coverage to Zelensky throughout his campaign. • Business and Personal Connections:
+      Zelensky’s production company, Kvartal 95, had business ties with Kolomoyskyi’s
+      media group. During the campaign, Zelensky appointed Kolomoyskyi’s personal lawyer
+      as a key adviser, and he travelled to meet Kolomoyskyi abroad on multiple occasions
+      while Kolomoyskyi was in exile. • Perceptions of Influence: These connections
+      fueled perceptions, especially among critics and political opponents, that Zelensky
+      was “Kolomoyskyi’s candidate” or a potential puppet of the oligarch. His campaign
+      benefited from Kolomoyskyi’s resources and media influence, leading to skepticism
+      about the independence of his anti-oligarch platform While Kolomoyskyi and Zelensky
+      have since parted ways, Ihor is still a major economic force in Ukraine, and this
+      hit him where it counts. It also damages Ukraine’s lines of communication with
+      respect to getting fuel to Ukrainian military vehicles. The bombing of SOCAR in
+      Odessa is even bigger news. SOCAR is the State Oil Company of the Azerbaijan Republic.
+      It’s Azerbaijan’s national oil and gas corporation and operates fuel stations,
+      terminals, and logistics facilities in several countries, including Ukraine. The
+      Odessa depot serves as a gateway for fuel products destined for European markets
+      and for Israel. The destruction of SOCAR’s Odessa oil depot is a significant financial
+      blow for Azerbaijan, leading to reduced market access, increased cost burdens,
+      and forcing a reassessment of both commercial and diplomatic strategies for Azerbaijan
+      in Ukraine, in Israel and in Europe. Consider this: SOCAR operates around 60 fuel
+      stations across Ukraine and has invested in oil storage and network infrastructure
+      in the Kiev, Odessa, and Nikolayev regions. This is not just an attack against
+      the leader of Azerbaijan; it also is a severe blow to Ukraine’s ability to supply
+      oil and fuel to its military forces. Putin sent a clear message to the Azeri leader,
+      Aliyev, who has been way too chummy with Zelensky, Israel and the United States…
+      FAFO . If you want to know what Putin’s government is thinking in the wake of
+      Monday’s meeting in Washington between Trump and Zelensky, set aside 20 minutes
+      to listen to Sergei Lavrov: I had my usual Tuesday chat with Marcello: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The destruction of the SOCAR Oil Terminal in Odessa highlights
+      the futility of negotiations to end the war in Ukraine, as Trump misinterprets
+      the conflict as a personal dispute between Putin and Zelensky, overlooking the
+      complexities of territorial claims and the conditions set by Putin for any potential
+      dialogue.
+    paragraph_summary: The article discusses the ongoing conflict in Ukraine, emphasizing
+      the futility of negotiations between President Trump and Russian President Putin
+      regarding the war. It critiques Trump's belief that the conflict stems from a
+      personal disagreement between Putin and Ukrainian President Zelensky, arguing
+      that Putin's stance requires Ukrainian surrender before any meeting can occur.
+      The article highlights Trump's misunderstanding of the territorial issues involved,
+      particularly regarding Zaporhyzhia and Kherson, which Russia cannot concede. Despite
+      these misconceptions, Trump is seen as a potential channel for dialogue with Russia,
+      a communication avenue that has been largely absent during Biden's presidency.
+      Meanwhile, Russia continues to escalate military actions, recently targeting key
+      oil facilities in Ukraine, including the SOCAR oil terminal in Odessa and the
+      Kremenchug oil refinery.
+    published: '2025-08-20T01:55:13+00:00'
+  - title: Is Trump Making a Bad Bet by Counting on Europe to Keep Ukraine Afloat?
+    url: https://sonar21.com/is-trump-making-a-bad-bet-by-counting-on-europe-to-keep-ukraine-afloat/
+    text: 'I want to share with you an email I received today from someone who fancies
+      their self as an astute analyst. This person falls far short of astute in my opinion,
+      but the thinking revealed in the email does reflect the views held by many Americans
+      with respect to what happened today in Washington when Trump met with Zelensky
+      and his European pimps. Let me emphasize that what you are about to read is mostly
+      shallow and steeped in propaganda, but I think it captures the widely shared false
+      beliefs and sentiments about Russia and Ukraine that fuels the narrative in the
+      Washington, DC world of policy and punditry . So we begin: While there is every
+      reason to believe they have a very long way to go to get a real deal singed, and
+      Putin may never agree to end the war, what Trump pulled off is historic and quite
+      extraordinary. Trump 1 saw these same leaders ridicule Trump and laugh at him.
+      Today they came to the White House to meet with Trump as their leader. Never in
+      history has there been a meeting like this at the White House. Never has there
+      been such a showing of support and coordination on such a critical topic. Putin
+      was a huge loser today. Zelenskyy and Trump were like best buddies, and the whole
+      group was united. Putin has failed totally to drive a wedge between Trump and
+      Europe. He has failed to take the extra land he thought he could before any negotiation.
+      In 2022 he controlled approximately 46,000 sq miles. Today has about 44,600, just
+      19%  of Ukraine after losing enormous numbers of men, whether it is the 1 million
+      the whole world believes or 700,000, it is a giant cost to have gained zero, at
+      a huge financial and economic cost, while at the same time destroying the economy,
+      which the entire world including the Russian Finance minister says is now headed
+      to recession. The focus on military production has caused the civilian sector
+      to have declining production-down 1.9% last quarter, increasing bankruptcies and
+      continuing high inflation and very high loan rates. He is now faced with the prospect
+      of a untied front that will impose oil sanctions and enforce them with India,
+      and will  put China in a tough spot. As I indicated in my introduction, the author
+      of the email is a person living in a delusional world. For starters, when Trump
+      assembled the European leaders in attendance in the East Room, along with Zelensky
+      and the reps of NATO and the EU, he allowed each to speak. Merz of Germany, Macron
+      of France, Starmer of the UK, NATO Secretary General Rutte, and the EU’s von der
+      Leyen all emphasized the need for a ceasefire. Trump rebuffed all of them. He
+      knows as a result of his meeting with Putin on Friday that is a non-negotiable
+      item for the Russians. While the Europeans were polite and showed deference of
+      a sort to Trump, they were still pushing hard for a ceasefire and bone-crunching
+      sanctions on Russia and its partners. The neocons and their acolytes continue
+      to rely on false assumptions about Putin, about Russia’s military goals and, as
+      I explained in yesterday’s post, about the Russian economy. Putin and Russia are
+      not measuring success in terms of the amount of territory captured from Ukraine.
+      Russia’s goal from the outset remains the same: demilitarize and de-nazify. Notwithstanding
+      the wishful thinking in the West that Putin will abandon these objectives to secure
+      a fraudulent peace with the West, Putin is not going to accept any deal that fails
+      to achieve these objectives. Were he to do so, I believe he would be removed from
+      office. Many in the West fail to appreciate that there is significant opinion
+      in Russia that Putin has been too soft and too accommodating of the US and NATO.
+      What the person who wrote the nonsense that I quoted above fails to grasp is that
+      the US, not Russia, is becoming more isolated in the world. The economic damage
+      inflicted by Trump’s tariff scheme will only start being felt in September and
+      October, but it already has caused political damage to US foreign relaitons by
+      alienating countries, such as India and Brazil. Can Europe shoulder the burden
+      of keeping Ukraine afloat as Trump appears very committed to stop sending the
+      folks in Ukraine free weapons and plenty of cash? Just take a look at the debt-to-GDP
+      status of eight of the NATO countries: Greece: 152.5% Italy: 137.9% France: 114.1%
+      Belgium: 106.8% Spain: 103.5% UK: 100% Portugal: Approximately 99% Finland: Near
+      89% Seven of these eight countries are experiencing virtually no GDP growth in
+      2025 (i.e., 0.3% to 0.6%) Portugal fares only a little better… it is projected
+      to have a 1.5% rate of growth for 2025. Although Germany does not have as serious
+      a debt problem as the others, it too is barely growing, with a projected rate
+      of 0.3% for 2025. Where are these countries going to find the cash to buy expensive
+      weapons from the United States in order to supply them to Ukraine? Take out more
+      loans? Cartoon by NEMO I followed my Monday routine, starting with Nima and 10
+      am, followed by Judge Napolitano at 11:30 am. I interviewed Pepe Escobar on Saturday
+      to get his reaction to the Alaska summit. That was posted earlier today at Counter
+      Currents : I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article critiques an email from someone who misinterprets
+      the significance of Trump's meeting with Zelensky and European leaders, arguing
+      that it reflects shallow and propagandistic views held by many Americans regarding
+      the Russia-Ukraine conflict.
+    paragraph_summary: The article discusses an email from an individual who presents
+      themselves as an insightful analyst but, according to the author, demonstrates
+      a shallow understanding of the complex geopolitical dynamics surrounding the recent
+      meeting between Trump and Zelensky in Washington. The author critiques the email
+      for reflecting widespread misconceptions about Russia and Ukraine, suggesting
+      that while the meeting was portrayed as historic and a significant show of unity
+      against Putin, it oversimplifies the ongoing conflict and the challenges ahead.
+      The email claims that Putin has failed to achieve his goals in Ukraine, losing
+      territory and facing severe economic repercussions, while emphasizing the perceived
+      camaraderie between Trump and Zelensky. Overall, the author views the sentiments
+      expressed in the email as indicative of a broader, misguided narrative prevalent
+      in Washington's policy discussions.
+    published: '2025-08-19T03:36:21+00:00'
+  - title: Is Trump Making a Bad Bet by Counting on Europe to Keep Ukraine Afloat?
+    url: https://sonar21.com/is-trump-making-a-bad-bet-by-counting-on-europe-to-keep-ukraine-afloat/
+    text: 'I want to share with you an email I received today from someone who fancies
+      their self as an astute analyst. This person falls far short of astute in my opinion,
+      but the thinking revealed in the email does reflect the views held by many Americans
+      with respect to what happened today in Washington when Trump met with Zelensky
+      and his European pimps. Let me emphasize that what you are about to read is mostly
+      shallow and steeped in propaganda, but I think it captures the widely shared false
+      beliefs and sentiments about Russia and Ukraine that fuels the narrative in the
+      Washington, DC world of policy and punditry . So we begin: While there is every
+      reason to believe they have a very long way to go to get a real deal singed, and
+      Putin may never agree to end the war, what Trump pulled off is historic and quite
+      extraordinary. Trump 1 saw these same leaders ridicule Trump and laugh at him.
+      Today they came to the White House to meet with Trump as their leader. Never in
+      history has there been a meeting like this at the White House. Never has there
+      been such a showing of support and coordination on such a critical topic. Putin
+      was a huge loser today. Zelenskyy and Trump were like best buddies, and the whole
+      group was united. Putin has failed totally to drive a wedge between Trump and
+      Europe. He has failed to take the extra land he thought he could before any negotiation.
+      In 2022 he controlled approximately 46,000 sq miles. Today has about 44,600, just
+      19%  of Ukraine after losing enormous numbers of men, whether it is the 1 million
+      the whole world believes or 700,000, it is a giant cost to have gained zero, at
+      a huge financial and economic cost, while at the same time destroying the economy,
+      which the entire world including the Russian Finance minister says is now headed
+      to recession. The focus on military production has caused the civilian sector
+      to have declining production-down 1.9% last quarter, increasing bankruptcies and
+      continuing high inflation and very high loan rates. He is now faced with the prospect
+      of a untied front that will impose oil sanctions and enforce them with India,
+      and will  put China in a tough spot. As I indicated in my introduction, the author
+      of the email is a person living in a delusional world. For starters, when Trump
+      assembled the European leaders in attendance in the East Room, along with Zelensky
+      and the reps of NATO and the EU, he allowed each to speak. Merz of Germany, Macron
+      of France, Starmer of the UK, NATO Secretary General Rutte, and the EU’s von der
+      Leyen all emphasized the need for a ceasefire. Trump rebuffed all of them. He
+      knows as a result of his meeting with Putin on Friday that is a non-negotiable
+      item for the Russians. While the Europeans were polite and showed deference of
+      a sort to Trump, they were still pushing hard for a ceasefire and bone-crunching
+      sanctions on Russia and its partners. The neocons and their acolytes continue
+      to rely on false assumptions about Putin, about Russia’s military goals and, as
+      I explained in yesterday’s post, about the Russian economy. Putin and Russia are
+      not measuring success in terms of the amount of territory captured from Ukraine.
+      Russia’s goal from the outset remains the same: demilitarize and de-nazify. Notwithstanding
+      the wishful thinking in the West that Putin will abandon these objectives to secure
+      a fraudulent peace with the West, Putin is not going to accept any deal that fails
+      to achieve these objectives. Were he to do so, I believe he would be removed from
+      office. Many in the West fail to appreciate that there is significant opinion
+      in Russia that Putin has been too soft and too accommodating of the US and NATO.
+      What the person who wrote the nonsense that I quoted above fails to grasp is that
+      the US, not Russia, is becoming more isolated in the world. The economic damage
+      inflicted by Trump’s tariff scheme will only start being felt in September and
+      October, but it already has caused political damage to US foreign relaitons by
+      alienating countries, such as India and Brazil. Can Europe shoulder the burden
+      of keeping Ukraine afloat as Trump appears very committed to stop sending the
+      folks in Ukraine free weapons and plenty of cash? Just take a look at the debt-to-GDP
+      status of eight of the NATO countries: Greece: 152.5% Italy: 137.9% France: 114.1%
+      Belgium: 106.8% Spain: 103.5% UK: 100% Portugal: Approximately 99% Finland: Near
+      89% Seven of these eight countries are experiencing virtually no GDP growth in
+      2025 (i.e., 0.3% to 0.6%) Portugal fares only a little better… it is projected
+      to have a 1.5% rate of growth for 2025. Although Germany does not have as serious
+      a debt problem as the others, it too is barely growing, with a projected rate
+      of 0.3% for 2025. Where are these countries going to find the cash to buy expensive
+      weapons from the United States in order to supply them to Ukraine? Take out more
+      loans? Cartoon by NEMO I followed my Monday routine, starting with Nima and 10
+      am, followed by Judge Napolitano at 11:30 am. I interviewed Pepe Escobar on Saturday
+      to get his reaction to the Alaska summit. That was posted earlier today at Counter
+      Currents : I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article critiques an email from someone who misinterprets
+      the significance of Trump's meeting with Zelensky and European leaders, arguing
+      that it reflects shallow and propagandistic views held by many Americans regarding
+      the Russia-Ukraine conflict.
+    paragraph_summary: The article discusses an email from an individual who presents
+      themselves as an insightful analyst but, according to the author, demonstrates
+      a shallow understanding of the complex geopolitical dynamics surrounding the recent
+      meeting between Trump and Zelensky in Washington. The author critiques the email
+      for reflecting widespread misconceptions about Russia and Ukraine, suggesting
+      that while the meeting was portrayed as historic and a significant show of unity
+      against Putin, it oversimplifies the ongoing conflict and the challenges ahead.
+      The email claims that Putin has failed to achieve his goals in Ukraine, losing
+      territory and facing severe economic repercussions, while emphasizing the perceived
+      camaraderie between Trump and Zelensky. Overall, the author views the sentiments
+      expressed in the email as indicative of a broader, misguided narrative prevalent
+      in Washington's policy discussions.
+    published: '2025-08-19T03:36:21+00:00'
+  - title: Putin’s Positive Readout Following the Alaska Summit, While Western Propaganda
+      Pushes the Meme that Russia Faces Economic Turmoil at Home
+    url: https://sonar21.com/putins-positive-readout-following-the-alaska-summit-while-western-propaganda-pushes-the-meme-that-russia-faces-economic-turmoil-at-home/
+    text: 'Let’s start with President Putin’s post-summit briefing of his economic and
+      national security team on the Alaska meeting with President Trump: Dear colleagues,
+      good afternoon! I have asked you to come together in order to inform you about
+      the results of our visit , the visit of our delegation to the United States, to
+      Alaska. I would like to say right away that the visit was timely and very useful. We
+      talked about almost all aspects of our cooperation, but above all, of course,
+      we talked about a possible resolution of the Ukrainian crisis on a fair basis. And
+      of course, we had the opportunity, which we took advantage of, to talk about the
+      genesis and causes of this crisis. It is the elimination of these root causes
+      that should be the basis for a settlement. It has been a long time since we have
+      directly negotiated at this level. I repeat, we had the opportunity to calmly
+      and in detail reiterate our position. Of course, we respect the position of the
+      American administration, which recognizes the need for an early end to hostilities. We
+      also want to resolve all issues through peaceful means. The conversation was very
+      frank and informative, and I believe it brings us closer to the right solutions.
+      Putin addressed the same group of folks that he briefed last Thursday before heading
+      to Alaska: Mikhail Vladimirovich Mishustin – Chairman of the Government Vyacheslav
+      Viktorovich VOLODIN – Chairman of the State Duma VAYNO Anton Eduardovich – Head
+      of the Presidential Administration Dmitry Anatolyevich MEDVEDEV – Deputy Chairman
+      of the Security Council Sergey Kuzhugetovich SHOIGU – Secretary of the Security
+      Council Denis Valentinovich Manturov – First Deputy Prime Minister Alexey Alekseyevich
+      GROMOV is the First Deputy Head of the Presidential Administration Sergey Vladilenovich
+      KIRIENKO is the First Deputy Head of the Presidential Administration NOVAK Alexander
+      Valentinovich – Deputy Prime Minister Dmitry Sergeevich PESKOV – Deputy Head of
+      the Presidential Administration – Presidential Press Secretary MEDINSKY, Vladimir
+      Rostislavovich – Assistant to the President YURY VIKTOROVICH USHAKOV – Assistant
+      to the President Andrey Belousov – Minister of Defense Sergey Viktorovich Lavrov
+      – Minister of Foreign Affairs Reshetnikov Maxim Gennadievich – Minister of Economic
+      Development Anton Germanovich SILUANOV – Minister of Finance Nabiullina Elvira
+      Sakhipzadovna – Chairman of the Central Bank BORTNIKOV, Alexander Vasilyevich
+      – Director of the Federal Security Service Sergey Evgenievich Naryshkin – Director
+      of the Foreign Intelligence Service Valery Vasilyevich GERASIMOV – Chief of the
+      General Staff of the Armed Forces of the Russian Federation – First Deputy Minister
+      of Defense Dmitriev Kirill Aleksandrovich is the Special Representative of the
+      President for Investment and Economic Cooperation with Foreign Countries and the
+      General Director of the Russian Direct Investment Fund While President Putin appears
+      content with the outcome of the summit, the desperation in the West — especially
+      in Europe — is palpable. An old meme, which claims that Russia’s economy is in
+      trouble, is once again circulating in an effort to persuade the Trump team that
+      victory is achievable because the Russian economy is in trouble. Western press
+      coverage since January describes the Russian economy as increasingly strained
+      and distorted by the ongoing war in Ukraine, international sanctions, and rising
+      internal pressures: • Wartime Focus and Inflation: Russia has refocused its economy
+      on military production, with large sums channeled to defense industries and recruitment.
+      This has led to pockets of economic growth—especially in manufacturing and defense—but
+      fueled high inflation (over 10%) and interest rates (peaking at 21% in October
+      2025). • Growth Slowdown and Recession Risks: After a period of “overheated growth,”
+      Russia’s economic expansion has slowed rapidly, with official forecasts for GDP
+      growth around 1.4–2% and some experts warning of an impending recession. The IMF
+      expects even lower growth, and Russia’s own Finance Ministry has reduced its economic
+      outlook as oil revenues fall. • Labor Market Distortions: The unemployment rate
+      is very low (around 2.2–2.3%), but this is mostly due to war recruitment drawing
+      men away from civilian jobs, causing labor shortages in critical sectors and fueling
+      wage growth. • Budget and Debt Pressures: Western outlets report a “fiscal crunch”
+      due to soaring war-related expenditures and declining energy revenues. Russia’s
+      budget deficit has widened to the highest level in decades, and state finances
+      are increasingly dependent on oil and gas, which remain vulnerable to global price
+      changes and sanctions. • Social Strains and Regional Inequality: There are growing
+      reports of companies behind on wage payments and regional governments cutting
+      recruitment bonuses. Social spending is heavily skewed toward veterans and military
+      needs, causing public discontent and risk of local instability. • Sanctions and
+      Chinese Dependence: Western analysts highlight how Russia faces deepening isolation
+      from global trade, forcing greater reliance on China, which now exerts increased
+      economic influence and benefits from favorable trade terms. The ruble has weakened,
+      and Russia is portrayed as sliding toward subordinate economic partner status
+      relative to China. • Structural Weaknesses: The press emphasizes that high-tech
+      and civilian industries are stagnating while low-productivity, labor-intensive
+      sectors expand, raising concerns about reverse industrialization and long-term
+      economic sustainability But much of this is quite misleading. Did you notice the
+      ridiculous claim that Russia is on a path to become China’s bitch ? Or that Russia
+      is on the cusp of a recession because the Russian Central Bank (RCB) took proactive
+      steps starting in late 2024 to tacke inflation? I am not saying that everything
+      is rosy in Russia, but its economic house is in much better shape than that of
+      Germany, France and the UK, who reportedly want to continue to fund Ukraine’s
+      war machine. Let’s look at the facts: Russia’s current GDP, using Purchasing Power
+      Parity (PPP), is estimated at $7.1 trillion, making it the fourth largest economy
+      in the world by this metric, and larger than any single other European economy,
+      according to IMF estimates for 2025. In comparison: • Germany: Germany remains
+      the largest European economy in terms of nominal GDP but is slightly below Russia
+      in PPP terms, according to recent reports. • France: France’s GDP (PPP) for 2025
+      is forecast at $3.3 trillion, significantly less than Russia’s. Per capita, France’s
+      GDP (PPP) is around $61,322 to $65,626. • United Kingdom: The UK’s GDP (PPP) is
+      estimated at around $3.7 trillion for 2025, also less than Russia’s PPP GDP. As
+      you can see, Russia surpasses France, Germany, and the UK in overall economic
+      size. This PPP advantage for Russia reflects the lower cost of living and prices
+      for goods and services within Russia, because PPP adjusts for these factors. That
+      means the average Russian is not suffering economic pain, despite high interest
+      rates. But Russia’s relative advantage does not stop there. Russia’s debt-to-GDP
+      ratio in 2025 is projected to be about 19% of its GDP (PPP), which remains markedly
+      lower than those of major Western European economies. Here’s how Russia compares
+      to Germany, France, and the UK: Russia reports a very low debt load, helped by
+      conservative fiscal policy and limited external borrowing, while Germany, France,
+      and the UK have much higher ratios, reflecting larger welfare expenditures, legacy
+      debts, and heavier government spending (especially post-pandemic). Russia’s fiscal
+      profile is generally seen as more conservative—with less reliance on debt markets—compared
+      to Western peers. This not only provides insulation against international financial
+      shocks, it means that Russia has more depth and more financial tools to weather
+      economic problems. When a country’s debt-to-GDP ratio exceeds 100%, it signals
+      that the total government debt is larger than the country’s annual economic output.
+      The financial implications of this situation can be significant and include: Reduced
+      Economic Growth : High debt levels can act as a drag on economic growth. Studies
+      show that when debt surpasses certain thresholds (often cited around 77-90%, though
+      without a strict “magic” number), it can reduce GDP growth by crowding out private
+      investment and increasing borrowing costs. For example, rising national debt in
+      the U.S. is projected to reduce the country’s GDP substantially over the long
+      term. Higher Borrowing Costs and Risk of Default : The higher the debt-to-GDP
+      ratio, the greater the risk perceived by lenders regarding the country’s ability
+      to repay. This can lead to increased interest rates on government debt and greater
+      borrowing expenses. In extreme cases, it could trigger defaults or financial panics.
+      Crowding Out Private Investment : Large government borrowing absorbs capital that
+      might otherwise finance private sector investment, potentially retarding innovation,
+      job creation, and economic dynamism. Reduced Fiscal Space : Governments with high
+      debt loads have less flexibility to respond to economic shocks or invest in growth-enhancing
+      projects due to the burden of servicing debt interest. Lower Wages and Job Losses
+      : Rising debt can translate into fewer jobs, lower wages, and reduced economic
+      opportunities over time as the government spends more on debt servicing rather
+      than productive investments What about employment? The Western media insists that
+      Russia’s unemployment rate in 2025, which has reached an all-time low of 2.2%
+      as of May and June, marking one of the lowest official rates worldwide and a significant
+      decrease from previous years, is a clear indicator of big trouble ahead. And the
+      Western media pushes this narrative, while ignoring the conditions in Germany,
+      France and the UK. So let me help out. Here are the numbers: The unemployment
+      rate in Germany is around 5.4% in 2025, slightly up from recent years due to slower
+      economic growth. France’s unemployment rate is approximately 7.5% in 2025, reflecting
+      ongoing labor market challenges and economic reforms. The UK’s unemployment rate
+      stands near 4.1% in 2025, which is considered low by historical standards but
+      higher than Russia’s current rate. To summarize, Russia has low unemployment,
+      inflation is declining and it has a decisively lower debt-to-GDP ratio than all
+      of the major European economies. The UK and France are on an unsustainable economic
+      path, especially if they can’t find some gullible suckers out their to continue
+      buying their debt. Oh, did I mention, that the US debt-to-GDP ratio is around
+      125%? The US, France and the UK are living on borrowed time, err… I mean borrowed
+      money. If the world is hit with a global financial crisis, Russia is in a far
+      better position to weather the storm than the US and its NATO allies. Moreover,
+      if the US decides to stop funding the war in Ukraine, the UK, France and Germany
+      lack the financial muscle to prop up Zelensky and his band of thieves. I wonder
+      if Trump and the Europeans will discuss that on Monday? I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: President Putin described the recent Alaska meeting with President
+      Trump as timely and productive, focusing on various aspects of cooperation, particularly
+      the resolution of the Ukrainian crisis and its underlying causes.
+    paragraph_summary: In a post-summit briefing, President Putin reported to his economic
+      and national security team on the recent meeting with President Trump in Alaska,
+      emphasizing the visit's timeliness and usefulness. He highlighted discussions
+      focused on various aspects of cooperation, particularly the resolution of the
+      Ukrainian crisis, which he believes should be addressed by tackling its root causes.
+      Putin noted the importance of direct negotiations and expressed respect for the
+      American administration's desire for an end to hostilities, advocating for peaceful
+      resolutions. He described the conversation as frank and informative, suggesting
+      it could lead to closer alignment on solutions.
+    published: '2025-08-18T04:15:34+00:00'
+  - title: Putin’s Positive Readout Following the Alaska Summit, While Western Propaganda
+      Pushes the Meme that Russia Faces Economic Turmoil at Home
+    url: https://sonar21.com/putins-positive-readout-following-the-alaska-summit-while-western-propaganda-pushes-the-meme-that-russia-faces-economic-turmoil-at-home/
+    text: 'Let’s start with President Putin’s post-summit briefing of his economic and
+      national security team on the Alaska meeting with President Trump: Dear colleagues,
+      good afternoon! I have asked you to come together in order to inform you about
+      the results of our visit , the visit of our delegation to the United States, to
+      Alaska. I would like to say right away that the visit was timely and very useful. We
+      talked about almost all aspects of our cooperation, but above all, of course,
+      we talked about a possible resolution of the Ukrainian crisis on a fair basis. And
+      of course, we had the opportunity, which we took advantage of, to talk about the
+      genesis and causes of this crisis. It is the elimination of these root causes
+      that should be the basis for a settlement. It has been a long time since we have
+      directly negotiated at this level. I repeat, we had the opportunity to calmly
+      and in detail reiterate our position. Of course, we respect the position of the
+      American administration, which recognizes the need for an early end to hostilities. We
+      also want to resolve all issues through peaceful means. The conversation was very
+      frank and informative, and I believe it brings us closer to the right solutions.
+      Putin addressed the same group of folks that he briefed last Thursday before heading
+      to Alaska: Mikhail Vladimirovich Mishustin – Chairman of the Government Vyacheslav
+      Viktorovich VOLODIN – Chairman of the State Duma VAYNO Anton Eduardovich – Head
+      of the Presidential Administration Dmitry Anatolyevich MEDVEDEV – Deputy Chairman
+      of the Security Council Sergey Kuzhugetovich SHOIGU – Secretary of the Security
+      Council Denis Valentinovich Manturov – First Deputy Prime Minister Alexey Alekseyevich
+      GROMOV is the First Deputy Head of the Presidential Administration Sergey Vladilenovich
+      KIRIENKO is the First Deputy Head of the Presidential Administration NOVAK Alexander
+      Valentinovich – Deputy Prime Minister Dmitry Sergeevich PESKOV – Deputy Head of
+      the Presidential Administration – Presidential Press Secretary MEDINSKY, Vladimir
+      Rostislavovich – Assistant to the President YURY VIKTOROVICH USHAKOV – Assistant
+      to the President Andrey Belousov – Minister of Defense Sergey Viktorovich Lavrov
+      – Minister of Foreign Affairs Reshetnikov Maxim Gennadievich – Minister of Economic
+      Development Anton Germanovich SILUANOV – Minister of Finance Nabiullina Elvira
+      Sakhipzadovna – Chairman of the Central Bank BORTNIKOV, Alexander Vasilyevich
+      – Director of the Federal Security Service Sergey Evgenievich Naryshkin – Director
+      of the Foreign Intelligence Service Valery Vasilyevich GERASIMOV – Chief of the
+      General Staff of the Armed Forces of the Russian Federation – First Deputy Minister
+      of Defense Dmitriev Kirill Aleksandrovich is the Special Representative of the
+      President for Investment and Economic Cooperation with Foreign Countries and the
+      General Director of the Russian Direct Investment Fund While President Putin appears
+      content with the outcome of the summit, the desperation in the West — especially
+      in Europe — is palpable. An old meme, which claims that Russia’s economy is in
+      trouble, is once again circulating in an effort to persuade the Trump team that
+      victory is achievable because the Russian economy is in trouble. Western press
+      coverage since January describes the Russian economy as increasingly strained
+      and distorted by the ongoing war in Ukraine, international sanctions, and rising
+      internal pressures: • Wartime Focus and Inflation: Russia has refocused its economy
+      on military production, with large sums channeled to defense industries and recruitment.
+      This has led to pockets of economic growth—especially in manufacturing and defense—but
+      fueled high inflation (over 10%) and interest rates (peaking at 21% in October
+      2025). • Growth Slowdown and Recession Risks: After a period of “overheated growth,”
+      Russia’s economic expansion has slowed rapidly, with official forecasts for GDP
+      growth around 1.4–2% and some experts warning of an impending recession. The IMF
+      expects even lower growth, and Russia’s own Finance Ministry has reduced its economic
+      outlook as oil revenues fall. • Labor Market Distortions: The unemployment rate
+      is very low (around 2.2–2.3%), but this is mostly due to war recruitment drawing
+      men away from civilian jobs, causing labor shortages in critical sectors and fueling
+      wage growth. • Budget and Debt Pressures: Western outlets report a “fiscal crunch”
+      due to soaring war-related expenditures and declining energy revenues. Russia’s
+      budget deficit has widened to the highest level in decades, and state finances
+      are increasingly dependent on oil and gas, which remain vulnerable to global price
+      changes and sanctions. • Social Strains and Regional Inequality: There are growing
+      reports of companies behind on wage payments and regional governments cutting
+      recruitment bonuses. Social spending is heavily skewed toward veterans and military
+      needs, causing public discontent and risk of local instability. • Sanctions and
+      Chinese Dependence: Western analysts highlight how Russia faces deepening isolation
+      from global trade, forcing greater reliance on China, which now exerts increased
+      economic influence and benefits from favorable trade terms. The ruble has weakened,
+      and Russia is portrayed as sliding toward subordinate economic partner status
+      relative to China. • Structural Weaknesses: The press emphasizes that high-tech
+      and civilian industries are stagnating while low-productivity, labor-intensive
+      sectors expand, raising concerns about reverse industrialization and long-term
+      economic sustainability But much of this is quite misleading. Did you notice the
+      ridiculous claim that Russia is on a path to become China’s bitch ? Or that Russia
+      is on the cusp of a recession because the Russian Central Bank (RCB) took proactive
+      steps starting in late 2024 to tacke inflation? I am not saying that everything
+      is rosy in Russia, but its economic house is in much better shape than that of
+      Germany, France and the UK, who reportedly want to continue to fund Ukraine’s
+      war machine. Let’s look at the facts: Russia’s current GDP, using Purchasing Power
+      Parity (PPP), is estimated at $7.1 trillion, making it the fourth largest economy
+      in the world by this metric, and larger than any single other European economy,
+      according to IMF estimates for 2025. In comparison: • Germany: Germany remains
+      the largest European economy in terms of nominal GDP but is slightly below Russia
+      in PPP terms, according to recent reports. • France: France’s GDP (PPP) for 2025
+      is forecast at $3.3 trillion, significantly less than Russia’s. Per capita, France’s
+      GDP (PPP) is around $61,322 to $65,626. • United Kingdom: The UK’s GDP (PPP) is
+      estimated at around $3.7 trillion for 2025, also less than Russia’s PPP GDP. As
+      you can see, Russia surpasses France, Germany, and the UK in overall economic
+      size. This PPP advantage for Russia reflects the lower cost of living and prices
+      for goods and services within Russia, because PPP adjusts for these factors. That
+      means the average Russian is not suffering economic pain, despite high interest
+      rates. But Russia’s relative advantage does not stop there. Russia’s debt-to-GDP
+      ratio in 2025 is projected to be about 19% of its GDP (PPP), which remains markedly
+      lower than those of major Western European economies. Here’s how Russia compares
+      to Germany, France, and the UK: Russia reports a very low debt load, helped by
+      conservative fiscal policy and limited external borrowing, while Germany, France,
+      and the UK have much higher ratios, reflecting larger welfare expenditures, legacy
+      debts, and heavier government spending (especially post-pandemic). Russia’s fiscal
+      profile is generally seen as more conservative—with less reliance on debt markets—compared
+      to Western peers. This not only provides insulation against international financial
+      shocks, it means that Russia has more depth and more financial tools to weather
+      economic problems. When a country’s debt-to-GDP ratio exceeds 100%, it signals
+      that the total government debt is larger than the country’s annual economic output.
+      The financial implications of this situation can be significant and include: Reduced
+      Economic Growth : High debt levels can act as a drag on economic growth. Studies
+      show that when debt surpasses certain thresholds (often cited around 77-90%, though
+      without a strict “magic” number), it can reduce GDP growth by crowding out private
+      investment and increasing borrowing costs. For example, rising national debt in
+      the U.S. is projected to reduce the country’s GDP substantially over the long
+      term. Higher Borrowing Costs and Risk of Default : The higher the debt-to-GDP
+      ratio, the greater the risk perceived by lenders regarding the country’s ability
+      to repay. This can lead to increased interest rates on government debt and greater
+      borrowing expenses. In extreme cases, it could trigger defaults or financial panics.
+      Crowding Out Private Investment : Large government borrowing absorbs capital that
+      might otherwise finance private sector investment, potentially retarding innovation,
+      job creation, and economic dynamism. Reduced Fiscal Space : Governments with high
+      debt loads have less flexibility to respond to economic shocks or invest in growth-enhancing
+      projects due to the burden of servicing debt interest. Lower Wages and Job Losses
+      : Rising debt can translate into fewer jobs, lower wages, and reduced economic
+      opportunities over time as the government spends more on debt servicing rather
+      than productive investments What about employment? The Western media insists that
+      Russia’s unemployment rate in 2025, which has reached an all-time low of 2.2%
+      as of May and June, marking one of the lowest official rates worldwide and a significant
+      decrease from previous years, is a clear indicator of big trouble ahead. And the
+      Western media pushes this narrative, while ignoring the conditions in Germany,
+      France and the UK. So let me help out. Here are the numbers: The unemployment
+      rate in Germany is around 5.4% in 2025, slightly up from recent years due to slower
+      economic growth. France’s unemployment rate is approximately 7.5% in 2025, reflecting
+      ongoing labor market challenges and economic reforms. The UK’s unemployment rate
+      stands near 4.1% in 2025, which is considered low by historical standards but
+      higher than Russia’s current rate. To summarize, Russia has low unemployment,
+      inflation is declining and it has a decisively lower debt-to-GDP ratio than all
+      of the major European economies. The UK and France are on an unsustainable economic
+      path, especially if they can’t find some gullible suckers out their to continue
+      buying their debt. Oh, did I mention, that the US debt-to-GDP ratio is around
+      125%? The US, France and the UK are living on borrowed time, err… I mean borrowed
+      money. If the world is hit with a global financial crisis, Russia is in a far
+      better position to weather the storm than the US and its NATO allies. Moreover,
+      if the US decides to stop funding the war in Ukraine, the UK, France and Germany
+      lack the financial muscle to prop up Zelensky and his band of thieves. I wonder
+      if Trump and the Europeans will discuss that on Monday? I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: President Putin described the recent Alaska meeting with President
+      Trump as timely and productive, focusing on various aspects of cooperation, particularly
+      the resolution of the Ukrainian crisis and its underlying causes.
+    paragraph_summary: In a post-summit briefing, President Putin reported to his economic
+      and national security team on the recent meeting with President Trump in Alaska,
+      emphasizing the visit's timeliness and usefulness. He highlighted discussions
+      focused on various aspects of cooperation, particularly the resolution of the
+      Ukrainian crisis, which he believes should be addressed by tackling its root causes.
+      Putin noted the importance of direct negotiations and expressed respect for the
+      American administration's desire for an end to hostilities, advocating for peaceful
+      resolutions. He described the conversation as frank and informative, suggesting
+      it could lead to closer alignment on solutions.
+    published: '2025-08-18T04:15:34+00:00'
+  - title: Hypocrisy, Thy Name is Europe
+    url: https://sonar21.com/hypocrisy-thy-name-is-europe/
+    text: This image tells the whole story. The US is not a signatory to the ICC treaty…
+      in fact, the US is threatening the International Criminal Court (ICC) and its
+      prosecutors with sanctions and arrests. Europe, by contrast is a signatory, but
+      appears ready to ignore the legitimate charges against Netanyahu for his role
+      in the Palestinian genocide. Europe has become a cesspool of turpitude. Did you
+      hear the heads exploding all over Europe on Friday at the conclusion of the summit
+      between Putin and Trump? Years of a massive, coordinated propaganda effort to
+      paint President Putin as the reincarnation of Adolf Hitler and Joseph Stalin was
+      demolished by the images of the two smiling Presidents exchanging warm greetings,
+      and by Vladimir Putin’s scripted remarks at the concluding press gaggle. I am
+      pretty sure that Trump entered the first meeting with Putin in Alaska believing
+      that he could persuade Vladimir — because he is Trump, the master negotiator —
+      to agree to a ceasefire. What Trump did not anticipate is that Putin came prepared
+      to explain in meticulous detail the root causes of the war — i.e., specifically
+      Joe Biden’s rejection in January 2022 of Putin’s draft treaty to address the security
+      of Russia and of Europe — and Russia’s willingness to negotiate a comprehensive
+      end to the war… not just in Ukraine, but with NATO. John Helmer made the astute
+      observation, as only John can do, that Trump changed the scheduled one-on-one
+      meeting with Putin to a three-by-three chat, that included Lavrov and Ushakov
+      on the Russian side, and Rubio and Witkoff on the American side. Why? Because
+      Trump realized he could not handle Putin by himself. Putin presented in person
+      the same deal he outlined in his 14 June 2024 speech to the Russian Foreign Ministry
+      officials — i.e., recognition of the five former Ukrainian oblasts as permanent
+      Russian territory, withdrawal of Ukrainian forces to the west of the River Dnieper,
+      and a firm pledge to not bring Ukraine into NATO. While maintaining that as an
+      inflexible Russian demand, Putin emphasized that he was willing to engage Trump
+      in a comprehensive security negotiation that, if successfully concluded, would
+      represent an historic achievement and seal Donald Trump’s legacy as a legendary
+      maker of peace. All Trump has to do is convince the Europeans. That will be, to
+      put it mildly, a challenge. Monday is now scheduled to be a new day of press frenzy
+      . The European clown car is loading up and is heading for Washington with Zelensky,
+      aka the Green Goblin , in tow. They will put enormous pressure on Trump to impose
+      the bone-crunching sanctions that he had threatened to put in place when his ten-day
+      deadline expired a week ago Friday. I hope that Trump has some steel in his spine
+      and will rebuff their demand, especially now that he understands, based on his
+      meeting with Putin, that the Russians are not worried about more sanctions, because
+      they have weathered everything that the US and Europe have imposed on Russia over
+      the last 42 months. Meanwhile, Russia will continue its military operation in
+      Ukraine, armed with the full confidence that there is nothing that the US and
+      Europe can do to prevent the inevitable collapse of the Ukrainian army. Here are
+      three more podcasts I did on Friday (I did eight interviews in total). I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .
+    one_sentence_summary: The article criticizes the U.S. for threatening the ICC while
+      Europe, despite being a signatory, seems to overlook charges against Netanyahu,
+      and it reflects on the fallout from the Trump-Putin summit, which undermined years
+      of negative propaganda against Putin.
+    paragraph_summary: The article discusses the contrasting positions of the US and
+      Europe regarding the International Criminal Court (ICC) and the recent summit
+      between Presidents Trump and Putin. While the US is not a signatory to the ICC
+      treaty and threatens the court with sanctions, Europe, despite being a signatory,
+      seems to overlook serious charges against Israeli Prime Minister Netanyahu related
+      to the Palestinian conflict. The article highlights the backlash in Europe following
+      the summit, where Trump's attempts to negotiate a ceasefire with Putin were met
+      with a detailed explanation from the Russian leader about the war's root causes,
+      particularly referencing Biden's rejection of a treaty in early 2022. The meeting
+      format was altered to include additional American and Russian officials, indicating
+      Trump's realization that he needed support in dealing with Putin. Ultimately,
+      Putin reiterated his demands for recognizing certain Ukrainian territories as
+      Russian and pledging not to include Ukraine in NATO.
+    published: '2025-08-17T03:52:29+00:00'
+  - title: Hypocrisy, Thy Name is Europe
+    url: https://sonar21.com/hypocrisy-thy-name-is-europe/
+    text: This image tells the whole story. The US is not a signatory to the ICC treaty…
+      in fact, the US is threatening the International Criminal Court (ICC) and its
+      prosecutors with sanctions and arrests. Europe, by contrast is a signatory, but
+      appears ready to ignore the legitimate charges against Netanyahu for his role
+      in the Palestinian genocide. Europe has become a cesspool of turpitude. Did you
+      hear the heads exploding all over Europe on Friday at the conclusion of the summit
+      between Putin and Trump? Years of a massive, coordinated propaganda effort to
+      paint President Putin as the reincarnation of Adolf Hitler and Joseph Stalin was
+      demolished by the images of the two smiling Presidents exchanging warm greetings,
+      and by Vladimir Putin’s scripted remarks at the concluding press gaggle. I am
+      pretty sure that Trump entered the first meeting with Putin in Alaska believing
+      that he could persuade Vladimir — because he is Trump, the master negotiator —
+      to agree to a ceasefire. What Trump did not anticipate is that Putin came prepared
+      to explain in meticulous detail the root causes of the war — i.e., specifically
+      Joe Biden’s rejection in January 2022 of Putin’s draft treaty to address the security
+      of Russia and of Europe — and Russia’s willingness to negotiate a comprehensive
+      end to the war… not just in Ukraine, but with NATO. John Helmer made the astute
+      observation, as only John can do, that Trump changed the scheduled one-on-one
+      meeting with Putin to a three-by-three chat, that included Lavrov and Ushakov
+      on the Russian side, and Rubio and Witkoff on the American side. Why? Because
+      Trump realized he could not handle Putin by himself. Putin presented in person
+      the same deal he outlined in his 14 June 2024 speech to the Russian Foreign Ministry
+      officials — i.e., recognition of the five former Ukrainian oblasts as permanent
+      Russian territory, withdrawal of Ukrainian forces to the west of the River Dnieper,
+      and a firm pledge to not bring Ukraine into NATO. While maintaining that as an
+      inflexible Russian demand, Putin emphasized that he was willing to engage Trump
+      in a comprehensive security negotiation that, if successfully concluded, would
+      represent an historic achievement and seal Donald Trump’s legacy as a legendary
+      maker of peace. All Trump has to do is convince the Europeans. That will be, to
+      put it mildly, a challenge. Monday is now scheduled to be a new day of press frenzy
+      . The European clown car is loading up and is heading for Washington with Zelensky,
+      aka the Green Goblin , in tow. They will put enormous pressure on Trump to impose
+      the bone-crunching sanctions that he had threatened to put in place when his ten-day
+      deadline expired a week ago Friday. I hope that Trump has some steel in his spine
+      and will rebuff their demand, especially now that he understands, based on his
+      meeting with Putin, that the Russians are not worried about more sanctions, because
+      they have weathered everything that the US and Europe have imposed on Russia over
+      the last 42 months. Meanwhile, Russia will continue its military operation in
+      Ukraine, armed with the full confidence that there is nothing that the US and
+      Europe can do to prevent the inevitable collapse of the Ukrainian army. Here are
+      three more podcasts I did on Friday (I did eight interviews in total). I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .
+    one_sentence_summary: The article criticizes the U.S. for threatening the ICC while
+      Europe, despite being a signatory, seems to overlook charges against Netanyahu,
+      and it reflects on the fallout from the Trump-Putin summit, which undermined years
+      of negative propaganda against Putin.
+    paragraph_summary: The article discusses the contrasting positions of the US and
+      Europe regarding the International Criminal Court (ICC) and the recent summit
+      between Presidents Trump and Putin. While the US is not a signatory to the ICC
+      treaty and threatens the court with sanctions, Europe, despite being a signatory,
+      seems to overlook serious charges against Israeli Prime Minister Netanyahu related
+      to the Palestinian conflict. The article highlights the backlash in Europe following
+      the summit, where Trump's attempts to negotiate a ceasefire with Putin were met
+      with a detailed explanation from the Russian leader about the war's root causes,
+      particularly referencing Biden's rejection of a treaty in early 2022. The meeting
+      format was altered to include additional American and Russian officials, indicating
+      Trump's realization that he needed support in dealing with Putin. Ultimately,
+      Putin reiterated his demands for recognizing certain Ukrainian territories as
+      Russian and pledging not to include Ukraine in NATO.
+    published: '2025-08-17T03:52:29+00:00'
+  - title: Declassified FBI Files Expose 19 Hidden Clinton Foundation Bank Accounts
+      – Where Did the Money Go?
+    url: https://sonar21.com/declassified-fbi-files-expose-19-hidden-clinton-foundation-bank-accounts-where-did-the-money-go/
+    text: Via American Thinker The Just the News website has published a declassified
+      internal FBI document that outlines the timeline of investigations concerning
+      the Clinton Foundation. This timeline reveals a conspiracy of obstruction of justice
+      involving several appointees from President Obama’s administration, including
+      Deputy Attorney General Sally Yates, Deputy FBI Director Andrew McCabe, FBI Director
+      James Comey, and Attorney General Loretta Lynch. The investigation focused on
+      then-Secretary of State Hillary Clinton’s alleged pay-to-play scheme involving
+      the Clinton Foundation. Notably, the document indicates that the FBI’s Los Angeles
+      office was also investigating a separate campaign finance fraud case, which uncovered
+      19 previously undisclosed accounts associated with the Clinton Foundation. The
+      Foundation, which is designated solely as a presidential archive, undertook numerous
+      initiatives in foreign countries with bank accounts. These undisclosed and overseas
+      accounts operated as secret slush funds meant for bribery and facilitating illicit
+      activities. In 2018, I filed a formal complaint against the Clinton Foundation’s
+      audit and tax firm, BKD, LLP, which has since merged with another national firm
+      to become Forvis, LLP. The complaint was based on their negligence in addressing
+      significant irregularities in the audited financial statements and tax returns.
+      As a result of my action, the firm signed a consent order acknowledging that it
+      failed to “exercise due professional care in the performance of professional services.”
+      My investigation was featured as an exclusive guest post on Gateway Pundit. The
+      investigation found that the foundation relied on Microsoft Excel as its financial
+      system. Using spreadsheets instead of verifiable accounting software raises significant
+      concerns. Unlike enterprise software that secures transactions in a reliable ledger
+      and generates clear audit trails, spreadsheets can be easily manipulated. Numbers
+      can be changed, moved, or deleted without leaving a trace, leading to transparency
+      issues and obscuring any potential irregularities. Additionally, by compiling
+      and auditing the Foundation’s financial statements, BKD compromised the ethical
+      standards of independence, integrity, and objectivity. In light of the shocking
+      disclosure of 19 undisclosed bank accounts, I have taken the important step of
+      submitting a FOIA request to the FBI to seek clarity and transparency on this
+      matter, as detailed below. The Department of Justice (DOJ) must take urgent action
+      by subpoenaing the banks associated with the 19 accounts and conducting a thorough
+      audit of all transactions linked to the sources of their deposits, payments to
+      payees, and other connected accounts. A detailed forensic audit could reveal critical
+      evidence of tax evasion, bribery, and violations of the Foreign Agents Registration
+      Act (FARA). Such findings could seriously jeopardize the Clinton Foundation’s
+      non-profit status and lead to criminal investigations of those implicated. Bob
+      Bishop is a forensic investigator and a retired CPA .
+    one_sentence_summary: A declassified FBI document reveals a timeline of investigations
+      into the Clinton Foundation, highlighting alleged obstruction of justice by several
+      Obama administration officials and uncovering undisclosed accounts linked to a
+      potential pay-to-play scheme involving then-Secretary of State Hillary Clinton.
+    paragraph_summary: A declassified internal FBI document published by Just the News
+      reveals a timeline of investigations into the Clinton Foundation, highlighting
+      alleged obstruction of justice by several officials from the Obama administration,
+      including Deputy Attorney General Sally Yates and FBI Director James Comey. The
+      investigation centered on claims of a pay-to-play scheme involving then-Secretary
+      of State Hillary Clinton and uncovered 19 undisclosed accounts linked to the Foundation,
+      which operated as secret slush funds for bribery and illicit activities. Additionally,
+      a formal complaint was filed against the Foundation's audit firm for negligence
+      in addressing financial irregularities, leading to a consent order acknowledging
+      their failure to maintain professional standards. Concerns were raised about the
+      Foundation's reliance on Microsoft Excel for financial management, as it lacks
+      the security and reliability of proper accounting software, allowing for potential
+      manipulation of financial data.
+    published: '2025-08-16T13:55:58+00:00'
+  - title: Declassified FBI Files Expose 19 Hidden Clinton Foundation Bank Accounts
+      – Where Did the Money Go?
+    url: https://sonar21.com/declassified-fbi-files-expose-19-hidden-clinton-foundation-bank-accounts-where-did-the-money-go/
+    text: Via American Thinker The Just the News website has published a declassified
+      internal FBI document that outlines the timeline of investigations concerning
+      the Clinton Foundation. This timeline reveals a conspiracy of obstruction of justice
+      involving several appointees from President Obama’s administration, including
+      Deputy Attorney General Sally Yates, Deputy FBI Director Andrew McCabe, FBI Director
+      James Comey, and Attorney General Loretta Lynch. The investigation focused on
+      then-Secretary of State Hillary Clinton’s alleged pay-to-play scheme involving
+      the Clinton Foundation. Notably, the document indicates that the FBI’s Los Angeles
+      office was also investigating a separate campaign finance fraud case, which uncovered
+      19 previously undisclosed accounts associated with the Clinton Foundation. The
+      Foundation, which is designated solely as a presidential archive, undertook numerous
+      initiatives in foreign countries with bank accounts. These undisclosed and overseas
+      accounts operated as secret slush funds meant for bribery and facilitating illicit
+      activities. In 2018, I filed a formal complaint against the Clinton Foundation’s
+      audit and tax firm, BKD, LLP, which has since merged with another national firm
+      to become Forvis, LLP. The complaint was based on their negligence in addressing
+      significant irregularities in the audited financial statements and tax returns.
+      As a result of my action, the firm signed a consent order acknowledging that it
+      failed to “exercise due professional care in the performance of professional services.”
+      My investigation was featured as an exclusive guest post on Gateway Pundit. The
+      investigation found that the foundation relied on Microsoft Excel as its financial
+      system. Using spreadsheets instead of verifiable accounting software raises significant
+      concerns. Unlike enterprise software that secures transactions in a reliable ledger
+      and generates clear audit trails, spreadsheets can be easily manipulated. Numbers
+      can be changed, moved, or deleted without leaving a trace, leading to transparency
+      issues and obscuring any potential irregularities. Additionally, by compiling
+      and auditing the Foundation’s financial statements, BKD compromised the ethical
+      standards of independence, integrity, and objectivity. In light of the shocking
+      disclosure of 19 undisclosed bank accounts, I have taken the important step of
+      submitting a FOIA request to the FBI to seek clarity and transparency on this
+      matter, as detailed below. The Department of Justice (DOJ) must take urgent action
+      by subpoenaing the banks associated with the 19 accounts and conducting a thorough
+      audit of all transactions linked to the sources of their deposits, payments to
+      payees, and other connected accounts. A detailed forensic audit could reveal critical
+      evidence of tax evasion, bribery, and violations of the Foreign Agents Registration
+      Act (FARA). Such findings could seriously jeopardize the Clinton Foundation’s
+      non-profit status and lead to criminal investigations of those implicated. Bob
+      Bishop is a forensic investigator and a retired CPA .
+    one_sentence_summary: A declassified FBI document reveals a timeline of investigations
+      into the Clinton Foundation, highlighting alleged obstruction of justice by several
+      Obama administration officials and uncovering undisclosed accounts linked to a
+      potential pay-to-play scheme involving then-Secretary of State Hillary Clinton.
+    paragraph_summary: A declassified internal FBI document published by Just the News
+      reveals a timeline of investigations into the Clinton Foundation, highlighting
+      alleged obstruction of justice by several officials from the Obama administration,
+      including Deputy Attorney General Sally Yates and FBI Director James Comey. The
+      investigation centered on claims of a pay-to-play scheme involving then-Secretary
+      of State Hillary Clinton and uncovered 19 undisclosed accounts linked to the Foundation,
+      which operated as secret slush funds for bribery and illicit activities. Additionally,
+      a formal complaint was filed against the Foundation's audit firm for negligence
+      in addressing financial irregularities, leading to a consent order acknowledging
+      their failure to maintain professional standards. Concerns were raised about the
+      Foundation's reliance on Microsoft Excel for financial management, as it lacks
+      the security and reliability of proper accounting software, allowing for potential
+      manipulation of financial data.
+    published: '2025-08-16T13:55:58+00:00'
+  - title: 'The Putin Trump Summit: A Triumph for Putin, A Disaster for the Neocons'
+    url: https://sonar21.com/the-putin-trump-summit-a-triumph-for-putin-a-disaster-for-the-neocons/
+    text: 'If you were watching the US news channels [I put that word in italics to
+      emphasize sarcasm], the buildup to the press conference was the equivalent of
+      a virgin waiting for his first sexual experience. Man, what a letdown, after hours
+      of frenzied anticipation, when Putin and Trump finally spoke. I chose to watch
+      Fox News , and was not disappointed by the froth, fury and falsehoods voiced by
+      an array of knuckleheads, which included General Jack Keane and Trey Gowdy. Before
+      Trump and Putin appeared before the assembled press, the commentators repeatedly
+      trashed Putin as a monster, a killer, an evil authoritarian and a baby killer.
+      And their insults were echoed by many of the so-called journalists and anchors
+      . It was pathetic. Everyone who spoke on the Fox News coverage also regurgitated
+      the propaganda that Putin was in a desperate situation; that the Russian economy
+      is nearing collapse; and that the Russian military is failing to vanquish the
+      plucky Ukrainians. My wife thought I was having a stroke because I was yelling
+      at the TV in response to this stupidity. When Putin stepped to the microphone
+      and began to speak, the neocon world imploded. Instead of a chastened Putin begging
+      Trump for relief, the Russian President spoke calmly, initially focusing on the
+      historical importance of Alaska as an air bridge that provided Russia with essential
+      supplies during World War II. Throughout his remarks, Putin praised Trump for
+      being a reliable negotiator and for putting in place a dialogue that brings a
+      promise of normalized relations. Putin did not retreat from a single position
+      he had previously presented regarding Russia’s requirements to bring an end to
+      the war in Ukraine. He reiterated that the heart of the matter is root causes
+      , i.e., NATO’s expansion to the east. Trump drove the silver spike through the
+      heart of the neocon vampires , who were salivating in anticipation of hearing
+      that Trump had forced Putin to accept a ceasefire, because Putin, at least in
+      their delusional world, was desperate for a deal. Nope. Trump praised Putin and
+      said that their conversations had been productive, though some issues remain unresolved.
+      Here’s a sampling of the disappointed reaction from the print media propagandists:
+      Aug. 15, 2025, 7:12 p.m. ET1 hour ago David E. Sanger Reporting from Joint Base
+      Elmendorf-Richardson After three hours of talks, President Trump and President
+      Vladimir Putin of Russia told reporters that they had made progress on unspecified
+      issues, but they gave no details, took no questions, and most importantly failed
+      to announce a cease-fire of any kind. Aug. 15, 2025, 7:11 p.m. ET1 hour ago Katie
+      Rogers Traveling with President TrumpBoth men referred to an agreement and didn’t
+      detail it. Trump ignored shouted questions about what just happened and what the
+      agreement was. Those of us traveling with him have just been scooted out toward
+      Air Force One. This was a long way to come. Trump pulled out the red-carpet stops,
+      and he is going home empty-handed. Aug. 15, 2025, 7:10 p.m. ET1 hour ago Maggie
+      Haberman White House reporterPutin has come away from the meeting with some wins.
+      He has gotten a visit to the United States — on a military base, no less — and
+      visuals of a warm greeting from Trump, along with yet another delay on secondary
+      sanctions against Russia. Aug. 15, 2025, 7:07 p.m. ET1 hour ago Erica L. Green
+      White House reporter​While it’s not clear what, if any, agreements were made,
+      Putin is demonstrating that he is still not backing down from his position that
+      no matter what Trump says, he’s pursuing his own goals in the war. He said while
+      Trump, who has emphasized the economic benefits to Russia stopping its invasion,
+      is interested in the prosperity of America, Trump also understands that “Russia
+      has its own national interests. That has included seizing land from Ukraine. Aug.
+      15, 2025, 7:03 p.m. ET1 hour ago Anatoly Kurmanaev As Putin talks about the need
+      to eliminate “root causes” of the war in Ukraine, he is using his usual shorthand
+      for a list of demands that have been categorically rejected by Ukraine and Europe.
+      This suggest he is maintaining his hardline position. Aug. 15, 2025, 8:09 p.m.
+      ET6 minutes ago Constant Méheut Reporting from Kyiv, UkraineWe’re now waiting
+      to hear from Zelensky and other European leaders, whom Trump said he would call
+      to brief them on his meeting with Putin. But the inconclusive nature of the meeting
+      suggests to some in Ukraine that a peace deal remains highly unlikely. “It seems
+      Putin has bought himself more time,” Oleksiy Honcharenko, a Ukrainian lawmaker
+      wrote on social media. “No cease-fire or any kind of de-escalation has been agreed
+      upon.” Simply hilarious getting to watch the press squirm and spin. The sad fact
+      is that the Western establishment is so infected with an intense hatred of Putin
+      and Russia that they are incapable of actually listening to what Putin said. Kelly
+      Anne Conway, for example, disgraced herself by ridiculing President Putin for
+      mentioning the importance of Orthodox Christianity as part of Russian culture.
+      The next meeting, if there is one, will be in Moscow… probably in late September
+      or early October. I anticipate that the weekend news cycle will be consumed with
+      howls of outrage from most of the European leaders and from Zelensky and his crew.
+      This is nothing more than impotence-fueled frustration. Here is only 50% of the
+      podcasts I did today, with most of the commentary focused on what to expect from
+      the summit. I also am including a chat I had on Wednesday with the Expat American
+      — a Floridian who emigrated to Russia, where he now lives with his family: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article critiques the sensationalist and negative portrayal
+      of Putin by Fox News commentators leading up to the Trump-Putin press conference,
+      describing their coverage as filled with exaggerated insults and unfounded claims
+      about Russia's situation.
+    paragraph_summary: The article critiques the sensationalist coverage by US news
+      channels, particularly Fox News, leading up to the press conference between Trump
+      and Putin, describing it as overly dramatic and filled with unfounded accusations
+      against Putin. The author expresses frustration at the commentators' portrayal
+      of Putin as a desperate figure, contrasting it with Putin's composed demeanor
+      during the press conference, where he praised Trump and reiterated his positions
+      on NATO and the Ukraine conflict. The author suggests that the expectations set
+      by the media were misguided, as Putin did not concede to any demands and instead
+      presented a confident stance, undermining the narrative pushed by neocon commentators
+      who anticipated a different outcome.
+    published: '2025-08-16T03:01:56+00:00'
+  - title: 'The Putin Trump Summit: A Triumph for Putin, A Disaster for the Neocons'
+    url: https://sonar21.com/the-putin-trump-summit-a-triumph-for-putin-a-disaster-for-the-neocons/
+    text: 'If you were watching the US news channels [I put that word in italics to
+      emphasize sarcasm], the buildup to the press conference was the equivalent of
+      a virgin waiting for his first sexual experience. Man, what a letdown, after hours
+      of frenzied anticipation, when Putin and Trump finally spoke. I chose to watch
+      Fox News , and was not disappointed by the froth, fury and falsehoods voiced by
+      an array of knuckleheads, which included General Jack Keane and Trey Gowdy. Before
+      Trump and Putin appeared before the assembled press, the commentators repeatedly
+      trashed Putin as a monster, a killer, an evil authoritarian and a baby killer.
+      And their insults were echoed by many of the so-called journalists and anchors
+      . It was pathetic. Everyone who spoke on the Fox News coverage also regurgitated
+      the propaganda that Putin was in a desperate situation; that the Russian economy
+      is nearing collapse; and that the Russian military is failing to vanquish the
+      plucky Ukrainians. My wife thought I was having a stroke because I was yelling
+      at the TV in response to this stupidity. When Putin stepped to the microphone
+      and began to speak, the neocon world imploded. Instead of a chastened Putin begging
+      Trump for relief, the Russian President spoke calmly, initially focusing on the
+      historical importance of Alaska as an air bridge that provided Russia with essential
+      supplies during World War II. Throughout his remarks, Putin praised Trump for
+      being a reliable negotiator and for putting in place a dialogue that brings a
+      promise of normalized relations. Putin did not retreat from a single position
+      he had previously presented regarding Russia’s requirements to bring an end to
+      the war in Ukraine. He reiterated that the heart of the matter is root causes
+      , i.e., NATO’s expansion to the east. Trump drove the silver spike through the
+      heart of the neocon vampires , who were salivating in anticipation of hearing
+      that Trump had forced Putin to accept a ceasefire, because Putin, at least in
+      their delusional world, was desperate for a deal. Nope. Trump praised Putin and
+      said that their conversations had been productive, though some issues remain unresolved.
+      Here’s a sampling of the disappointed reaction from the print media propagandists:
+      Aug. 15, 2025, 7:12 p.m. ET1 hour ago David E. Sanger Reporting from Joint Base
+      Elmendorf-Richardson After three hours of talks, President Trump and President
+      Vladimir Putin of Russia told reporters that they had made progress on unspecified
+      issues, but they gave no details, took no questions, and most importantly failed
+      to announce a cease-fire of any kind. Aug. 15, 2025, 7:11 p.m. ET1 hour ago Katie
+      Rogers Traveling with President TrumpBoth men referred to an agreement and didn’t
+      detail it. Trump ignored shouted questions about what just happened and what the
+      agreement was. Those of us traveling with him have just been scooted out toward
+      Air Force One. This was a long way to come. Trump pulled out the red-carpet stops,
+      and he is going home empty-handed. Aug. 15, 2025, 7:10 p.m. ET1 hour ago Maggie
+      Haberman White House reporterPutin has come away from the meeting with some wins.
+      He has gotten a visit to the United States — on a military base, no less — and
+      visuals of a warm greeting from Trump, along with yet another delay on secondary
+      sanctions against Russia. Aug. 15, 2025, 7:07 p.m. ET1 hour ago Erica L. Green
+      White House reporter​While it’s not clear what, if any, agreements were made,
+      Putin is demonstrating that he is still not backing down from his position that
+      no matter what Trump says, he’s pursuing his own goals in the war. He said while
+      Trump, who has emphasized the economic benefits to Russia stopping its invasion,
+      is interested in the prosperity of America, Trump also understands that “Russia
+      has its own national interests. That has included seizing land from Ukraine. Aug.
+      15, 2025, 7:03 p.m. ET1 hour ago Anatoly Kurmanaev As Putin talks about the need
+      to eliminate “root causes” of the war in Ukraine, he is using his usual shorthand
+      for a list of demands that have been categorically rejected by Ukraine and Europe.
+      This suggest he is maintaining his hardline position. Aug. 15, 2025, 8:09 p.m.
+      ET6 minutes ago Constant Méheut Reporting from Kyiv, UkraineWe’re now waiting
+      to hear from Zelensky and other European leaders, whom Trump said he would call
+      to brief them on his meeting with Putin. But the inconclusive nature of the meeting
+      suggests to some in Ukraine that a peace deal remains highly unlikely. “It seems
+      Putin has bought himself more time,” Oleksiy Honcharenko, a Ukrainian lawmaker
+      wrote on social media. “No cease-fire or any kind of de-escalation has been agreed
+      upon.” Simply hilarious getting to watch the press squirm and spin. The sad fact
+      is that the Western establishment is so infected with an intense hatred of Putin
+      and Russia that they are incapable of actually listening to what Putin said. Kelly
+      Anne Conway, for example, disgraced herself by ridiculing President Putin for
+      mentioning the importance of Orthodox Christianity as part of Russian culture.
+      The next meeting, if there is one, will be in Moscow… probably in late September
+      or early October. I anticipate that the weekend news cycle will be consumed with
+      howls of outrage from most of the European leaders and from Zelensky and his crew.
+      This is nothing more than impotence-fueled frustration. Here is only 50% of the
+      podcasts I did today, with most of the commentary focused on what to expect from
+      the summit. I also am including a chat I had on Wednesday with the Expat American
+      — a Floridian who emigrated to Russia, where he now lives with his family: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: The article critiques the sensationalist and negative portrayal
+      of Putin by Fox News commentators leading up to the Trump-Putin press conference,
+      describing their coverage as filled with exaggerated insults and unfounded claims
+      about Russia's situation.
+    paragraph_summary: The article critiques the sensationalist coverage by US news
+      channels, particularly Fox News, leading up to the press conference between Trump
+      and Putin, describing it as overly dramatic and filled with unfounded accusations
+      against Putin. The author expresses frustration at the commentators' portrayal
+      of Putin as a desperate figure, contrasting it with Putin's composed demeanor
+      during the press conference, where he praised Trump and reiterated his positions
+      on NATO and the Ukraine conflict. The author suggests that the expectations set
+      by the media were misguided, as Putin did not concede to any demands and instead
+      presented a confident stance, undermining the narrative pushed by neocon commentators
+      who anticipated a different outcome.
+    published: '2025-08-16T03:01:56+00:00'
+  - title: Russia’s Summit Preparation Sends an Unmistakable Message to Washington and
+      the World
+    url: https://sonar21.com/russias-summit-preparation-sends-an-unmistakable-message-to-washington-and-the-world/
+    text: 'Last Meeting Between the US and Russia in Helsinki I don’t know what the
+      outcome of Friday’s summit between Russia and the US will be, but I do know that
+      Russia is putting on a full-court press to show the rest of the world that it
+      is serious about negotiating with the US, and is backing its words by the stature
+      of the delegation it is sending. Based on Yuri Ushakov’s description of the schedule
+      and the composition of the Russian delegation, the topic of how to end the war
+      in Ukraine is not Russia’s only priority. I say this because the only Russian
+      military rep who will attend the summit is the Defense Minister, Andrey Belousov.
+      If the two sides were going to get into the nitty gritty of the war, I believe
+      that General Gerasimov would have been included in the delegation. Given the scant
+      comments from the Trump administration about the schedule and the topics for discussion,
+      it appears that Trump is deliberately obscuring the intent of the conference from
+      Washington’s neocons and Ukraine’s ardent supporters. We have heard nothing about
+      US preparations, but Vladimir Putin made sure that the world was informed today
+      in detail about what Russia is doing to prepare for the meeting. President Putin
+      convened a meeting of his national security, foreign policy and economic advisors
+      at the Kremlin on Thursday, and opened the session with the following statement:
+      Dear colleagues, good afternoon! I have asked you to come here today to inform
+      you about the progress of the negotiations on the Ukrainian crisis and the bilateral
+      negotiations with the Ukrainian delegation. Of course, many of you are already
+      familiar with the situation, but I will provide you with more details. This is
+      the first point. The second is to tell you about the stage we are at with the
+      current American administration, which, as everyone knows, is making what I believe
+      to be a very energetic and sincere effort to end the fighting, end the crisis,
+      and reach agreements that are of interest to all parties involved in this conflict,
+      in order to create long-term peace conditions between our countries, in Europe,
+      and in the world as a whole, if we reach agreements on strategic offensive arms
+      control by the next stage. This is what I wanted to say at the beginning. Besides
+      Putin, there were 21 key Russian officials at the meeting: VAYNO Anton Eduardovich
+      – Head of the Presidential Administration of the Russian Federation Dmitry Anatolyevich
+      MEDVEDEV – Deputy Chairman of the Security Council of the Russian Federation Sergey
+      Kuzhugetovich SHOIGU – Secretary of the Security Council of the Russian Federation
+      Denis Valentinovich Manturov is the First Deputy Chairman of the Government of
+      the Russian Federation Alexey Alekseyevich GROMOV is the First Deputy Head of
+      the Presidential Administration of the Russian Federation Sergey Vladilenovich
+      KIRIENKO is the First Deputy Head of the Presidential Administration of the Russian
+      Federation NOVAK Alexander Valentinovich – Deputy Chairman of the Government of
+      the Russian Federation Maxim Stanislavovich Oreshkin is Deputy Head of the Presidential
+      Administration of the Russian Federation Peskov Dmitry Sergeyevich – Deputy Head
+      of the Presidential Administration of the Russian Federation – Press Secretary
+      of the President of the Russian Federation MEDINSKY, Vladimir Rostislavovich –
+      Assistant to the President of the Russian Federation YURY VIKTOROVICH USHAKOV
+      – Assistant to the President of the Russian Federation Andrey Belousov – Minister
+      of Defense of the Russian Federation Sergey Viktorovich Lavrov – Minister of Foreign
+      Affairs of the Russian Federation Anton Germanovich SILUANOV – Minister of Finance
+      of the Russian Federation Nabiullina Elvira Sakhipzadovna – Chairman of the Central
+      Bank of the Russian Federation BORTNIKOV Alexander Vasilyevich – Director of the
+      Federal Security Service of the Russian Federation Viktor Vasilyevich ZOLOTOV
+      – Director of the Federal Service of the National Guard of the Russian Federation
+      – Commander-in-Chief of the National Guard of the Russian Federation Sergey Evgenievich
+      Naryshkin – Director of the Foreign Intelligence Service of the Russian Federation
+      Sergey Sobyanin is the Mayor of Moscow Valery Vasilyevich GERASIMOV – Chief of
+      the General Staff of the Armed Forces of the Russian Federation – First Deputy
+      Minister of Defense of the Russian Federation Kirill Aleksandrovich DMITRIEV is
+      the Special Representative of the President of the Russian Federation for Investment
+      and Economic Cooperation with Foreign Countries and the General Director of the
+      Russian Direct Investment Fund.5, 13:50 Other than Belousov, only General Gerasimov,
+      Chief of the General Staff, represented the military. If the substance of the
+      meeting is defined by its participants, I come to the conclusion that Russia’s
+      objective is to focus on foreign policy and economic relations with the US. Yuri
+      Ushakov provided a more fulsome outline of what to expect: Dear colleagues! The
+      preparations for the meeting between the Russian and U.S. presidents have entered
+      the final phase. Given that the meeting was announced only five days ago, on the
+      night of last Friday to Saturday, everything is being done on an intensive basis,
+      and a lot of technical issues, including visa issues, are being resolved. Of course,
+      the political aspects of the summit are being actively discussed. I can tell you
+      that the leaders’ meeting program has been agreed upon. As you all know, this
+      meeting will take place in Alaska, in Anchorage, specifically in one of the facilities
+      at the Joint Military Base Elmendorf-Richardson. The meeting is scheduled to begin
+      tomorrow, August 15, at approximately 11:30 a.m. local time, with a conversation
+      between Vladimir Vladimirovich Putin and Donald Trump . This conversation will
+      be held in a private setting, with the participation of interpreters. Then, the
+      delegations will hold negotiations, which will continue at a working breakfast.
+      The composition of the participants has already been determined. Given that very
+      important and sensitive topics will be discussed, the number of participants in
+      the negotiations is limited. I will name the members of the Russian delegation: these
+      are the Minister of Foreign Affairs Sergey , Assistant to the President for Foreign
+      Policy Yuri Ushakov , Minister of Defense Andrey Belousov , Minister of Finance
+      Anton Siluanov and Special Representative of the President for Investment and
+      Economic Cooperation . The composition of the American delegation is also known,
+      but it would probably be appropriate to wait for an announcement from our American
+      partners. This means that in addition to the presidents, there will be five members
+      of each delegation participating in the negotiations. Of course, there will also
+      be a group of experts present. After the talks are over, Vladimir Putin and Donald
+      Trump will hold a joint press conference to sum up the results of the talks. As
+      for the summit’s agenda, it’s probably clear to everyone that the central topic
+      will be the resolution of the Ukrainian crisis, including the discussions that
+      were held in the Kremlin on August 6, with the participation of US President’s
+      Special Envoy, Stephen Whitcoff. However, the summit will also address broader
+      issues related to peace and security, as well as pressing international and regional
+      concerns. There will be an exchange of views on the further development of bilateral
+      cooperation, including in the trade and economic spheres. I would like to note
+      that this cooperation has enormous potential that has not yet been fully utilized.
+      What else would you like to mention? Next to the military base where the negotiations
+      will take place, nine Soviet pilots are buried in the memorial cemetery, as well
+      as two servicemen and two civilians who died in 1942-1945 years when aircraft
+      from the United States were transported to the Soviet Union under Lend-lease. So
+      the meeting will be held near such a historically important place, which reminds
+      of the military brotherhood of the peoples of our countries. And this is especially
+      symbolic in the year of the 80th anniversary of the Victory over Nazi Germany
+      and militaristic Japan. Dear colleagues, this is about what I wanted to tell you
+      about the visit, which, as I mentioned, will begin tomorrow morning local time.
+      Thank you. The ball is now in the US court. If Trump ends the meeting with Putin
+      and walks away, Putin and his delegation will have no doubts that the diplomatic
+      opening to the US is dead. I hope that does not happen. I suspect that President
+      Trump is looking forward to holding a press conference, accompanied by President
+      Putin. There will be questions from US and Russian correspondents. That likely
+      will happen around 1900 hours Washington time, which is 0200 hours in Moscow.
+      I did three separate interviews today… with Glenn Diesen, Garland Nixon and Rasheed
+      Muhammad: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The upcoming US-Russia summit in Helsinki is being framed
+      by Russia as a serious negotiation effort, but the limited military representation
+      suggests that the focus may extend beyond just the Ukraine conflict.
+    paragraph_summary: The article discusses the recent summit between the US and Russia
+      in Helsinki, highlighting Russia's strategic approach to the negotiations, particularly
+      regarding the war in Ukraine. It notes that Russia is showcasing its commitment
+      to dialogue through a high-profile delegation, led by Defense Minister Andrey
+      Belousov, although the absence of military leaders like General Gerasimov suggests
+      that the focus may extend beyond just the conflict in Ukraine. The article also
+      points out the lack of transparency from the Trump administration regarding the
+      summit's agenda, indicating a deliberate effort to keep the details from critics
+      in Washington and Ukraine. Additionally, President Putin has briefed his advisors
+      on the negotiations, emphasizing Russia's proactive stance in addressing the crisis
+      and engaging with the current US administration.
+    published: '2025-08-15T01:30:54+00:00'
+  - title: Russia’s Summit Preparation Sends an Unmistakable Message to Washington and
+      the World
+    url: https://sonar21.com/russias-summit-preparation-sends-an-unmistakable-message-to-washington-and-the-world/
+    text: 'Last Meeting Between the US and Russia in Helsinki I don’t know what the
+      outcome of Friday’s summit between Russia and the US will be, but I do know that
+      Russia is putting on a full-court press to show the rest of the world that it
+      is serious about negotiating with the US, and is backing its words by the stature
+      of the delegation it is sending. Based on Yuri Ushakov’s description of the schedule
+      and the composition of the Russian delegation, the topic of how to end the war
+      in Ukraine is not Russia’s only priority. I say this because the only Russian
+      military rep who will attend the summit is the Defense Minister, Andrey Belousov.
+      If the two sides were going to get into the nitty gritty of the war, I believe
+      that General Gerasimov would have been included in the delegation. Given the scant
+      comments from the Trump administration about the schedule and the topics for discussion,
+      it appears that Trump is deliberately obscuring the intent of the conference from
+      Washington’s neocons and Ukraine’s ardent supporters. We have heard nothing about
+      US preparations, but Vladimir Putin made sure that the world was informed today
+      in detail about what Russia is doing to prepare for the meeting. President Putin
+      convened a meeting of his national security, foreign policy and economic advisors
+      at the Kremlin on Thursday, and opened the session with the following statement:
+      Dear colleagues, good afternoon! I have asked you to come here today to inform
+      you about the progress of the negotiations on the Ukrainian crisis and the bilateral
+      negotiations with the Ukrainian delegation. Of course, many of you are already
+      familiar with the situation, but I will provide you with more details. This is
+      the first point. The second is to tell you about the stage we are at with the
+      current American administration, which, as everyone knows, is making what I believe
+      to be a very energetic and sincere effort to end the fighting, end the crisis,
+      and reach agreements that are of interest to all parties involved in this conflict,
+      in order to create long-term peace conditions between our countries, in Europe,
+      and in the world as a whole, if we reach agreements on strategic offensive arms
+      control by the next stage. This is what I wanted to say at the beginning. Besides
+      Putin, there were 21 key Russian officials at the meeting: VAYNO Anton Eduardovich
+      – Head of the Presidential Administration of the Russian Federation Dmitry Anatolyevich
+      MEDVEDEV – Deputy Chairman of the Security Council of the Russian Federation Sergey
+      Kuzhugetovich SHOIGU – Secretary of the Security Council of the Russian Federation
+      Denis Valentinovich Manturov is the First Deputy Chairman of the Government of
+      the Russian Federation Alexey Alekseyevich GROMOV is the First Deputy Head of
+      the Presidential Administration of the Russian Federation Sergey Vladilenovich
+      KIRIENKO is the First Deputy Head of the Presidential Administration of the Russian
+      Federation NOVAK Alexander Valentinovich – Deputy Chairman of the Government of
+      the Russian Federation Maxim Stanislavovich Oreshkin is Deputy Head of the Presidential
+      Administration of the Russian Federation Peskov Dmitry Sergeyevich – Deputy Head
+      of the Presidential Administration of the Russian Federation – Press Secretary
+      of the President of the Russian Federation MEDINSKY, Vladimir Rostislavovich –
+      Assistant to the President of the Russian Federation YURY VIKTOROVICH USHAKOV
+      – Assistant to the President of the Russian Federation Andrey Belousov – Minister
+      of Defense of the Russian Federation Sergey Viktorovich Lavrov – Minister of Foreign
+      Affairs of the Russian Federation Anton Germanovich SILUANOV – Minister of Finance
+      of the Russian Federation Nabiullina Elvira Sakhipzadovna – Chairman of the Central
+      Bank of the Russian Federation BORTNIKOV Alexander Vasilyevich – Director of the
+      Federal Security Service of the Russian Federation Viktor Vasilyevich ZOLOTOV
+      – Director of the Federal Service of the National Guard of the Russian Federation
+      – Commander-in-Chief of the National Guard of the Russian Federation Sergey Evgenievich
+      Naryshkin – Director of the Foreign Intelligence Service of the Russian Federation
+      Sergey Sobyanin is the Mayor of Moscow Valery Vasilyevich GERASIMOV – Chief of
+      the General Staff of the Armed Forces of the Russian Federation – First Deputy
+      Minister of Defense of the Russian Federation Kirill Aleksandrovich DMITRIEV is
+      the Special Representative of the President of the Russian Federation for Investment
+      and Economic Cooperation with Foreign Countries and the General Director of the
+      Russian Direct Investment Fund.5, 13:50 Other than Belousov, only General Gerasimov,
+      Chief of the General Staff, represented the military. If the substance of the
+      meeting is defined by its participants, I come to the conclusion that Russia’s
+      objective is to focus on foreign policy and economic relations with the US. Yuri
+      Ushakov provided a more fulsome outline of what to expect: Dear colleagues! The
+      preparations for the meeting between the Russian and U.S. presidents have entered
+      the final phase. Given that the meeting was announced only five days ago, on the
+      night of last Friday to Saturday, everything is being done on an intensive basis,
+      and a lot of technical issues, including visa issues, are being resolved. Of course,
+      the political aspects of the summit are being actively discussed. I can tell you
+      that the leaders’ meeting program has been agreed upon. As you all know, this
+      meeting will take place in Alaska, in Anchorage, specifically in one of the facilities
+      at the Joint Military Base Elmendorf-Richardson. The meeting is scheduled to begin
+      tomorrow, August 15, at approximately 11:30 a.m. local time, with a conversation
+      between Vladimir Vladimirovich Putin and Donald Trump . This conversation will
+      be held in a private setting, with the participation of interpreters. Then, the
+      delegations will hold negotiations, which will continue at a working breakfast.
+      The composition of the participants has already been determined. Given that very
+      important and sensitive topics will be discussed, the number of participants in
+      the negotiations is limited. I will name the members of the Russian delegation: these
+      are the Minister of Foreign Affairs Sergey , Assistant to the President for Foreign
+      Policy Yuri Ushakov , Minister of Defense Andrey Belousov , Minister of Finance
+      Anton Siluanov and Special Representative of the President for Investment and
+      Economic Cooperation . The composition of the American delegation is also known,
+      but it would probably be appropriate to wait for an announcement from our American
+      partners. This means that in addition to the presidents, there will be five members
+      of each delegation participating in the negotiations. Of course, there will also
+      be a group of experts present. After the talks are over, Vladimir Putin and Donald
+      Trump will hold a joint press conference to sum up the results of the talks. As
+      for the summit’s agenda, it’s probably clear to everyone that the central topic
+      will be the resolution of the Ukrainian crisis, including the discussions that
+      were held in the Kremlin on August 6, with the participation of US President’s
+      Special Envoy, Stephen Whitcoff. However, the summit will also address broader
+      issues related to peace and security, as well as pressing international and regional
+      concerns. There will be an exchange of views on the further development of bilateral
+      cooperation, including in the trade and economic spheres. I would like to note
+      that this cooperation has enormous potential that has not yet been fully utilized.
+      What else would you like to mention? Next to the military base where the negotiations
+      will take place, nine Soviet pilots are buried in the memorial cemetery, as well
+      as two servicemen and two civilians who died in 1942-1945 years when aircraft
+      from the United States were transported to the Soviet Union under Lend-lease. So
+      the meeting will be held near such a historically important place, which reminds
+      of the military brotherhood of the peoples of our countries. And this is especially
+      symbolic in the year of the 80th anniversary of the Victory over Nazi Germany
+      and militaristic Japan. Dear colleagues, this is about what I wanted to tell you
+      about the visit, which, as I mentioned, will begin tomorrow morning local time.
+      Thank you. The ball is now in the US court. If Trump ends the meeting with Putin
+      and walks away, Putin and his delegation will have no doubts that the diplomatic
+      opening to the US is dead. I hope that does not happen. I suspect that President
+      Trump is looking forward to holding a press conference, accompanied by President
+      Putin. There will be questions from US and Russian correspondents. That likely
+      will happen around 1900 hours Washington time, which is 0200 hours in Moscow.
+      I did three separate interviews today… with Glenn Diesen, Garland Nixon and Rasheed
+      Muhammad: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The upcoming US-Russia summit in Helsinki is being framed
+      by Russia as a serious negotiation effort, but the limited military representation
+      suggests that the focus may extend beyond just the Ukraine conflict.
+    paragraph_summary: The article discusses the recent summit between the US and Russia
+      in Helsinki, highlighting Russia's strategic approach to the negotiations, particularly
+      regarding the war in Ukraine. It notes that Russia is showcasing its commitment
+      to dialogue through a high-profile delegation, led by Defense Minister Andrey
+      Belousov, although the absence of military leaders like General Gerasimov suggests
+      that the focus may extend beyond just the conflict in Ukraine. The article also
+      points out the lack of transparency from the Trump administration regarding the
+      summit's agenda, indicating a deliberate effort to keep the details from critics
+      in Washington and Ukraine. Additionally, President Putin has briefed his advisors
+      on the negotiations, emphasizing Russia's proactive stance in addressing the crisis
+      and engaging with the current US administration.
+    published: '2025-08-15T01:30:54+00:00'
+  - title: 'Who is the Real Terrorist Organization: Hamas or Hay’at Tahrir al-Sham?'
+    url: https://sonar21.com/who-is-the-real-terrorist-organization-hamas-or-hayat-tahrir-al-sham/
+    text: 'Syria’s HTS President Why is the US willing to embrace a Syrian government
+      led by a bona fide Sunni Islamic terrorist, whose group — Hay’at Tahrir al-Sham
+      — has carried out more terrorist attacks and killed more people in six years than
+      have the Palestinians in 25 years? The US government, along with most members
+      of Congress, excuse the Zionist genocide of the Palestinians because Hamas is
+      a terrorist organization. Last year I published an article using the statistics
+      compiled by the Israeli Foreign Ministry, aka IFM , where the Foreign Ministry
+      lists the number of terrorist attacks by Palestinians (i.e., all Palestinian groups,
+      not just Hamas ): The Stats on Palestinian Terrorism — 2000 to April 2024 . If
+      you go the link for the Israeli Foreign Ministry, you will find the following
+      sub-title: 1,521 people have been killed by Palestinian violence and terrorism
+      since September 2000. Because the US declares Hamas as a terrorist organization,
+      the Trump administration, like its predecessor, refuses to negotiate directly
+      with Hamas . Here are the two essential paragraphs from my previous post: I have
+      completed the initial cleanup of the data posted on the website of the Israeli
+      Foreign Ministry , which lists all suspected Palestinian terrorist attacks during
+      the 23-year, four-month period (i.e., 2000 to April 26, 2024). During this period,
+      the Israeli Government identifies 672 terrorist attacks blamed on the Palestinians.
+      . . . Now here are the really interesting numbers. 105 of the attacks are attributed
+      to Hamas. 58 to Islamic Jihad and 5 to Hezbollah. In other words, only 25% of
+      the attacks are associated with a specific Palestinian group. The remaining 75%
+      are blamed on nameless culprits. The total number killed by Palestinian violence
+      during this 23-year-plus period is 1,455. That is the number of victims listed
+      at the Israeli Ministry of Foreign Affairs site. And, as I noted in my recent
+      article ( Hamas is a Third-Rate Terrorist Organization ), the Israelis killed
+      7,065 Palestinians during the same period of time. In other words, the Israelis
+      killed almost five times the number of Palestinians. This may explain why the
+      Palestinians carried out “terrorist” attacks — they were seeking vengeance, retribution.
+      Now let’s look at the statistics for Hay’at Tahrir al-Sham , aka HTS . That organization,
+      which separated from ISIS , was formed on January 28, 2017. It originated through
+      a merger of several armed groups in Syria, including Jaysh al-Ahrar, Jabhat Fateh
+      al-Sham, Ansar al-Din Front, Jaysh al-Sunna, Liwa al-Haqq, and the Nour al-Din
+      al-Zenki Movement. This merger was announced as a strategic unification of major
+      Islamist factions during the Syrian civil war. During the next six years — 2018
+      through 2023 — HTS was credited by the CIA with 674 incidents and killed 2,143
+      people. So let us compare: Hamas , over a 25-year period, was credited with 105
+      attacks, an average of 4.2 per year; HTS , in just six years, launched 674 attacks,
+      which is an average of 112 per year. In other words, HTS was carrying out 27 times
+      the number of attacks per year compared to Hamas . Yet the US embraces and funds
+      HTS while facilitating the genocide of the Palestinians. Yeah, makes sense. We
+      see similar results when it comes to fatalities: According to the IFM stats, the
+      Palestinians killed 1,521 Israelis over the 25-year period, which is an average
+      of 61 per year; HTS, by contrast, ended the lives of 2,142 people, which is a
+      yearly average of 357. While the Palestinians fight to survive the Zionist genocide,
+      HTS continues to slaughter Christians, Shia and Alawites in Syria, and the US,
+      along with Europe and Turkey, funnel money and diplomatic support to HTS . This
+      is the definition of obscenity . So the next time you hear some US official decrying
+      Hamas as a terrorist organization, you are fully entitled to call out his or her
+      bullshit . Instead of fighting terrorism, the US is enabling it. That’s the cold,
+      hard reality. If you’re still in the mood for some more commentary on the upcoming
+      Putin/Trump summit, I did 45 minutes with Danny Davis today: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article questions the U.S. government's willingness to
+      engage with Syria's HTS, a Sunni Islamic terrorist group responsible for significant
+      violence, while simultaneously justifying its stance against Palestinian groups
+      like Hamas, highlighting a perceived hypocrisy in U.S. foreign policy.
+    paragraph_summary: The article discusses the apparent contradiction in U.S. foreign
+      policy regarding terrorism, specifically focusing on the U.S. government's willingness
+      to engage with Syria's Hay’at Tahrir al-Sham (HTS), a group led by a Sunni Islamic
+      terrorist, despite its history of violence that exceeds that of Palestinian groups
+      over a longer period. The author contrasts this with the U.S. stance on Hamas,
+      which is labeled a terrorist organization, leading to a refusal to negotiate with
+      them. Citing statistics from the Israeli Foreign Ministry, the article highlights
+      that while 1,521 people have been killed by Palestinian violence since 2000, only
+      a fraction of attacks can be attributed to specific groups like Hamas, suggesting
+      a broader context of violence that complicates the narrative surrounding Palestinian
+      terrorism. The piece ultimately critiques the selective application of labels
+      and the implications for U.S. diplomatic relations in the region.
+    published: '2025-08-14T02:10:25+00:00'
+  - title: 'Who is the Real Terrorist Organization: Hamas or Hay’at Tahrir al-Sham?'
+    url: https://sonar21.com/who-is-the-real-terrorist-organization-hamas-or-hayat-tahrir-al-sham/
+    text: 'Syria’s HTS President Why is the US willing to embrace a Syrian government
+      led by a bona fide Sunni Islamic terrorist, whose group — Hay’at Tahrir al-Sham
+      — has carried out more terrorist attacks and killed more people in six years than
+      have the Palestinians in 25 years? The US government, along with most members
+      of Congress, excuse the Zionist genocide of the Palestinians because Hamas is
+      a terrorist organization. Last year I published an article using the statistics
+      compiled by the Israeli Foreign Ministry, aka IFM , where the Foreign Ministry
+      lists the number of terrorist attacks by Palestinians (i.e., all Palestinian groups,
+      not just Hamas ): The Stats on Palestinian Terrorism — 2000 to April 2024 . If
+      you go the link for the Israeli Foreign Ministry, you will find the following
+      sub-title: 1,521 people have been killed by Palestinian violence and terrorism
+      since September 2000. Because the US declares Hamas as a terrorist organization,
+      the Trump administration, like its predecessor, refuses to negotiate directly
+      with Hamas . Here are the two essential paragraphs from my previous post: I have
+      completed the initial cleanup of the data posted on the website of the Israeli
+      Foreign Ministry , which lists all suspected Palestinian terrorist attacks during
+      the 23-year, four-month period (i.e., 2000 to April 26, 2024). During this period,
+      the Israeli Government identifies 672 terrorist attacks blamed on the Palestinians.
+      . . . Now here are the really interesting numbers. 105 of the attacks are attributed
+      to Hamas. 58 to Islamic Jihad and 5 to Hezbollah. In other words, only 25% of
+      the attacks are associated with a specific Palestinian group. The remaining 75%
+      are blamed on nameless culprits. The total number killed by Palestinian violence
+      during this 23-year-plus period is 1,455. That is the number of victims listed
+      at the Israeli Ministry of Foreign Affairs site. And, as I noted in my recent
+      article ( Hamas is a Third-Rate Terrorist Organization ), the Israelis killed
+      7,065 Palestinians during the same period of time. In other words, the Israelis
+      killed almost five times the number of Palestinians. This may explain why the
+      Palestinians carried out “terrorist” attacks — they were seeking vengeance, retribution.
+      Now let’s look at the statistics for Hay’at Tahrir al-Sham , aka HTS . That organization,
+      which separated from ISIS , was formed on January 28, 2017. It originated through
+      a merger of several armed groups in Syria, including Jaysh al-Ahrar, Jabhat Fateh
+      al-Sham, Ansar al-Din Front, Jaysh al-Sunna, Liwa al-Haqq, and the Nour al-Din
+      al-Zenki Movement. This merger was announced as a strategic unification of major
+      Islamist factions during the Syrian civil war. During the next six years — 2018
+      through 2023 — HTS was credited by the CIA with 674 incidents and killed 2,143
+      people. So let us compare: Hamas , over a 25-year period, was credited with 105
+      attacks, an average of 4.2 per year; HTS , in just six years, launched 674 attacks,
+      which is an average of 112 per year. In other words, HTS was carrying out 27 times
+      the number of attacks per year compared to Hamas . Yet the US embraces and funds
+      HTS while facilitating the genocide of the Palestinians. Yeah, makes sense. We
+      see similar results when it comes to fatalities: According to the IFM stats, the
+      Palestinians killed 1,521 Israelis over the 25-year period, which is an average
+      of 61 per year; HTS, by contrast, ended the lives of 2,142 people, which is a
+      yearly average of 357. While the Palestinians fight to survive the Zionist genocide,
+      HTS continues to slaughter Christians, Shia and Alawites in Syria, and the US,
+      along with Europe and Turkey, funnel money and diplomatic support to HTS . This
+      is the definition of obscenity . So the next time you hear some US official decrying
+      Hamas as a terrorist organization, you are fully entitled to call out his or her
+      bullshit . Instead of fighting terrorism, the US is enabling it. That’s the cold,
+      hard reality. If you’re still in the mood for some more commentary on the upcoming
+      Putin/Trump summit, I did 45 minutes with Danny Davis today: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article questions the U.S. government's willingness to
+      engage with Syria's HTS, a Sunni Islamic terrorist group responsible for significant
+      violence, while simultaneously justifying its stance against Palestinian groups
+      like Hamas, highlighting a perceived hypocrisy in U.S. foreign policy.
+    paragraph_summary: The article discusses the apparent contradiction in U.S. foreign
+      policy regarding terrorism, specifically focusing on the U.S. government's willingness
+      to engage with Syria's Hay’at Tahrir al-Sham (HTS), a group led by a Sunni Islamic
+      terrorist, despite its history of violence that exceeds that of Palestinian groups
+      over a longer period. The author contrasts this with the U.S. stance on Hamas,
+      which is labeled a terrorist organization, leading to a refusal to negotiate with
+      them. Citing statistics from the Israeli Foreign Ministry, the article highlights
+      that while 1,521 people have been killed by Palestinian violence since 2000, only
+      a fraction of attacks can be attributed to specific groups like Hamas, suggesting
+      a broader context of violence that complicates the narrative surrounding Palestinian
+      terrorism. The piece ultimately critiques the selective application of labels
+      and the implications for U.S. diplomatic relations in the region.
+    published: '2025-08-14T02:10:25+00:00'
   - title: Ukraine Reportedly Working Frantically to Disrupt Putin and Trump Summit
     url: https://sonar21.com/ukraine-reportedly-working-frantically-to-disrupt-putin-and-trump-summit/
     text: 'Daniel Defense DDM4 with Optic Let’s start with a very interesting post from

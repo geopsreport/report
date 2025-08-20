@@ -7,15 +7,239 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The geopolitical landscape remains dominated by the intensifying crisis in Gaza, with Israel’s recent cabinet approval for a full military takeover of Gaza City marking a significant escalation. As **Binoy Kampmark** reports, Prime Minister Benjamin Netanyahu’s push for direct control is proceeding despite “significant opposition from military leaders and international criticism regarding the humanitarian implications and the potential for escalating violence.” This move signals a hardening of Israeli policy, prioritizing military objectives over diplomatic or humanitarian considerations.
+  The ongoing humanitarian catastrophe in Gaza continues to dominate the geopolitical landscape, with Israeli Prime Minister Benjamin Netanyahu intensifying efforts to deflect international criticism. As **Binoy Kampmark** reports, Netanyahu’s recent press conference sought to shift blame for the crisis—now accounting for over 60,000 deaths—onto Hamas, while promoting a contentious vision for Gaza’s future. This narrative, however, is widely viewed as detached from the realities on the ground and has failed to quell mounting global outrage.
   
-  Public response to the Gaza conflict continues to grow, with mass mobilizations such as the recent Sydney Harbour Bridge March. According to **Binoy Kampmark**, “approximately 100,000 people participated in a peaceful March for Humanity... highlighting a significant public demand for action that contrasted with governmental inaction.” This groundswell of civil society activism underscores the widening gap between public sentiment and official policy in Western democracies, particularly regarding the perceived inadequacy of international responses to the crisis.
+  A particularly alarming development is the targeted killing of journalists. The death of Al Jazeera’s Anas al-Sharif and colleagues in a drone strike by Israeli forces has heightened concerns about press freedom and the deliberate silencing of independent reporting. The Israeli military’s justification, based on unsubstantiated claims of ties to Hamas, has been met with skepticism and condemnation. **Kampmark** underscores that such incidents further erode Israel’s international standing and fuel accusations of systematic repression.
   
-  Meanwhile, the debate over digital rights and state surveillance intensifies in the UK and Australia. The UK’s Online Safety Act, as detailed by **Binoy Kampmark**, is facing criticism for “potential infringement on privacy, free expression, and the practicality of enforcement,” even as public support for child protection measures remains strong. Australia’s similar trajectory, with stringent age verification and social media restrictions for minors, reflects a broader trend toward paternalistic digital governance—raising concerns about censorship and the erosion of open internet principles.
+  Meanwhile, the Israeli cabinet’s approval of a full military takeover of Gaza City marks a significant escalation. Despite internal dissent from military leaders and widespread international criticism, Netanyahu’s government appears committed to this course, raising fears of intensified violence and deepening humanitarian disaster. The majority of independent analysts cited by **Kampmark** agree that these policies are likely to prolong the conflict and exacerbate civilian suffering.
   
-  **Trends and Predictions:**  
-  The majority of sources indicate that Israel’s military occupation of Gaza is likely to deepen, with a high probability of further humanitarian deterioration and international condemnation. Civil society pressure on Western governments to act is mounting, but meaningful policy shifts remain unlikely in the immediate term. In digital policy, there is a high chance that the UK and Australia will continue tightening online regulations, despite ongoing debates about privacy and free speech. Most definitely, these trends point toward a more securitized and polarized global environment, both in physical conflict zones and the digital sphere.
+  Looking ahead, the trends point to continued Israeli military operations in Gaza, persistent targeting of journalists, and growing international isolation for Netanyahu’s government. There is a high chance that humanitarian conditions will deteriorate further, with little prospect for meaningful diplomatic intervention in the immediate term. As **Kampmark** notes, “the gap between official rhetoric and the grim reality in Gaza is widening,” and unless there is a dramatic policy shift, the crisis is most definitely set to deepen.
 articles:
+  - title: 'A Shield of Lies: Netanyahu’s Battle Against the World'
+    url: https://www.counterpunch.org/2025/08/14/a-shield-of-lies-netanyahus-battle-against-the-world/
+    text: 'It was a sign of someone desperate that his message has failed to take wing
+      and make its way to better lands. With the strategy of Israeli Prime Minister
+      Benjamin Netanyahu in the Gaza Strip sundered and falling over, leaving only a
+      thick butcher’s bill (over 60,000 deaths for starters), extraordinary suffering
+      and humanitarian catastrophe, he thought it wise to confront foreign press outlets
+      on a late Sunday in the hope that the tide might turn away from his exemplary
+      viciousness. There had been, he moaned like a wounded starlet, a “global campaign
+      of lies” about Israel’s war in Gaza. In doing so, he merely inflated the arguments
+      against him with boisterous credit and almost irrefutable plausibility.
+
+
+      The conference, which gave “an opportunity to puncture the lies and tell the truth,”
+      involved the following points: Hamas still has thousands of fighters in Gaza;
+      it vowed to repeat what it had done on October 7, 2023; it continued to expound
+      the goal of wishing to destroy Israel even as it subjugated Gazans, stole their
+      precious food, and shot those seeking to move to safe zones, the latter term being
+      itself a monstrosity in the context of this conflict. Paternally, Netanyahu as
+      the punishing father figure, thought he had deciphered the true desire of those
+      in Gaza, which presumably would not have entailed the killing of Palestinians
+      by the tens of thousands and starving the rest. Everything could be blamed on
+      a militant organisation he had done so much to praise as a countering force against
+      Fatah in the West Bank. As things stood now, Gazans seemed to be suffering from
+      a highly developed sense of Stockholm’s syndrome, “begging us, and they’re begging
+      the world: ‘Free us, Free us, and free Gaza from Hamas’.”
+
+
+      With a solid body of mendacity to work with, Netanyahu proceeded to build an edifice
+      of fantasy few others outside Israel could contend with: that the same Israeli
+      forces who starve, kill and maim the civilian populace of the Strip have no wish
+      to impose an occupation but “free it from Hamas terrorists. The war can end tomorrow
+      if Gaza, or rather if Hamas lays down its arms and releases all the remaining
+      hostages.” Israeli policy was not one of starving the Palestinians into famine
+      wrecks, skeletal ruin and physiological malfunction. That hideous criminal pursuit
+      fell to Hamas, apparently responsible for the violent looting of aid trucks and
+      the deliberate creation of “a shortage of supply.” Fantastically, Netanyahu blamed
+      the United Nations for refusing “to distribute the thousands of trucks that we
+      let into Gaza through the Kerem Shalom crossing,” a delightful complaint given
+      his government’s overt hatred for a body he always wished to be rid of from the
+      occupied territories. The synapses in Netanyahu-Land seemed frailer than ever,
+      if not altogether snapped.
+
+
+      He then belted out the now familiar five-point vision of the Strip once Hamas
+      is defeated. This elusive “day after” includes the following objectives: the disarming
+      of Hamas, the freeing of all hostages, the demilitarising of the Gaza Strip, granting
+      Israel “overriding security control”, the creation of a non-Israeli administration
+      that will not “educate its children for terror, doesn’t pay terrorists and doesn’t
+      launch terrorist attacks against Israel.” Unlike other proposals advanced by France,
+      the UK and Canada, the Palestinian Authority is also excluded from the arrangements,
+      since no Palestinian politician is worth the Israeli PM’s time. Netanyahu’s idea
+      of a politically viable Palestinian is one manacled to the security regime of
+      other powers.
+
+
+      The stage for the next slaughter is set, namely, the dismantling of “the two remaining
+      Hamas strongholds in Gaza City and the Central Camps. Contrary to false claims,
+      this is the best way to end the war, and the best way to end it speedily.” Netanyahu
+      feigns a humanitarian streak in stating that the civilian population will be allowed
+      to “leave the combat areas to designated safe zones.” The process of ethnic cleansing,
+      or simply cleansing of the population, is to simply continue.
+
+
+      Oblivious to Netanyahu’s fortified wall of prejudice is that much of the groundwork
+      for precisely those outcomes he hopes to avoid have already been laid. Whether
+      it be Hamas or any other militant organisation, the notion of pacifist subordinate
+      figures content with their status in any territory where Israel has the last word
+      on everything is absurdly unrealistic.
+
+
+      Doing everything to make his case even less convincing, Netanyahu then told Israeli
+      journalists after seeing the foreign scribblers off that he had never halted all
+      humanitarian aid to Gaza. Even the patriotic Times of Israel found this a bit
+      rich, noting that “his government had enacted that policy earlier this year.”
+      The paper went on to quote the announcement from the premier’s office on March
+      2: “Prime Minister Netanyahu has decided that, as of this morning, all entry of
+      goods and supplies into the Gaza Strip will cease.”
+
+
+      Netanyahu also refused to accept the proposition that Gaza’s population was starving.
+      Shortages in supply yes; starvation no. “If we had wanted starvation, if that
+      had been our policy, 2 million Gazans wouldn’t be living today after 20 months.”
+      The same could be said about the supreme crime of all: “if we wanted to commit
+      genocide, it would have taken exactly one afternoon.” A wise head might have told
+      him that few who commit genocide or engineer circumstances of mass murder ever
+      make the intention that obvious.'
+    one_sentence_summary: Israeli Prime Minister Benjamin Netanyahu, facing criticism
+      for the humanitarian catastrophe in Gaza and over 60,000 deaths, held a press
+      conference to counter claims against his government's actions, blaming Hamas for
+      the suffering while promoting a controversial vision for Gaza's future that many
+      see as unrealistic and steeped in denial of the ongoing crisis.
+    paragraph_summary: Israeli Prime Minister Benjamin Netanyahu recently held a press
+      conference in an attempt to counteract the negative global perception of Israel's
+      actions in Gaza, which have resulted in over 60,000 deaths and a humanitarian
+      crisis. He claimed that there is a "global campaign of lies" against Israel, asserting
+      that Hamas is responsible for the suffering of Gazans and that Israeli forces
+      aim to "free" the region from Hamas rather than impose an occupation. Netanyahu
+      outlined a five-point vision for Gaza's future post-Hamas, which includes disarming
+      the group and establishing a non-Israeli administration, while dismissing the
+      Palestinian Authority as a viable partner. Despite his assertions, he faced criticism
+      for his government's prior policies that have led to humanitarian aid restrictions
+      and food shortages in Gaza, with even Israeli media questioning his claims about
+      the situation. Overall, Netanyahu's narrative appears increasingly disconnected
+      from the realities on the ground, as he struggles to justify the ongoing violence
+      and suffering in the region.
+    published: '2025-08-14T05:54:14+00:00'
+  - title: 'Slaying and Censoring the Journalists: The Murder of Anas al-Sharif'
+    url: https://www.counterpunch.org/2025/08/13/slaying-and-censoring-the-journalists-the-murder-of-anas-al-sharif/
+    text: '“Assassination,” wrote George Bernard Shaw in The Shewing-Up of Blanco Posnet,
+      “is the extreme form of censorship”. Such extremism visited Al Jazeera journalist
+      Anas al-Sharif and his colleagues in Gaza City late on August 10. Resting in a
+      tent located outside the main gate of Gaza City’s al-Shifa Hospital, he was killed
+      alongside Al Jazeera correspondent Mohammed Qreiqeh, camera operators Ibrahim
+      Zaher, Mohammed Noufal and Moamen Aliwa, and freelance reporter Mohammed al-Khaldi.
+
+
+      Palestinian journalist Wadi Abu al-Saud recalls the drone attack taking place
+      at 11.22pm. Having entered the tent opposite, he had raised his phone to make
+      a call when an explosion occurred. “A piece of shrapnel hit my phone. I looked
+      back and saw people burning in flames. I tried to extinguish them. Anas and the
+      others had died instantly from the airstrike.” In two subsequent videos, al-Saud
+      vows to “return to my life as a citizen. The truth has died and the coverage has
+      ended.”
+
+
+      IDF international spokesman Lt. Colonel Nadav Shoshani, straining verisimilitude,
+      claimed that intelligence obtained prior to the strike proved that “Sharif was
+      an active Hamas military wing operative at the time of his elimination”. The reporter
+      must have been frightfully busy then, able to juggle his tasks with Al Jazeera,
+      filing news bulletins while playing the ambitious militant. But distinctions are
+      meaningless for Shoshani, who went on to accuse the slain journalist of receiving
+      “a salary from the Hamas terror group and terrorist supporters, Al-Jazeera, at
+      the same time.”
+
+
+      Evidence is typically sketchy, but the Lt. Colonel was untroubled, as the “declassified
+      portion of our intelligence on al-Sharif” was merely small relative to the whole
+      picture. That picture, the IDF contends, revealed Sharif’s credentials as leader
+      of a rocket-launching squad alongside membership of the Nukhba Force company in
+      Hamas’s East Jabalia Battalion. This proved far from convincing to Muhammed Shehada,
+      analyst at the Euro-Med Human Rights Monitor, who made the solid, pertinent observation
+      that al-Sharif’s “entire daily routine was standing in front of a camera from
+      morning to evening.”
+
+
+      Particularly troubling in this killing is that the IDF seemed to be laying the
+      groundwork for justified assassination last month, when army spokesman Avichai
+      Adraee reshared a video on social media making the accusation that al-Sharif was
+      a member of Hamas’s military wing. This proved chilling for the United Nations
+      special rapporteur on freedom of expression, Irene Khan. “Fears for al-Sharif’s
+      safety are well-founded as there is growing evidence that journalists in Gaza
+      have been targeted and killed by the Israeli army on the basis of unsubstantiated
+      claims that they are Hamas terrorists.”
+
+
+      The Committee to Protect Journalists was suitably perturbed by Adraee’s remarks
+      to issue a demand last month that the “international community” protect al-Sharif.
+      “This is not the first time Al-Sharif has been targeted by the Israeli military,
+      but the danger to his life is now acute,” said CPJ Regional Director Sara Qudah.
+      “Israel has killed at least six Al Jazeera journalists in Gaza during the war.
+      These latest unfounded accusations represent an effort to manufacture consent
+      to kill Al-Sharif.”
+
+
+      The other journalists killed in the strike are not deemed worthy of mention by
+      the IDF, affirming the tendency in Israeli military doctrine to kill those around
+      the designated target as a perfectly tolerable practice. Again, the rulebook of
+      international humanitarian war is discarded in favour of a normalised murderousness.
+
+
+      The rulebook has also been abandoned regarding journalists working in Gaza, conforming
+      to a pattern of indifference to distinctions between militants or civilians in
+      Israel’s sanguinary targeting. By December 2023, the Committee to Protect Journalists
+      was already declaring that the war in the Strip had been the deadliest ever recorded
+      by the organisation for press members. (The number currently stands at over 190;
+      the global total for 2020-23 was 165.) “Israel is murdering the messengers,” concludes
+      Qudah. “Israel wiped out an entire news crew. It has made no claims that any of
+      the other journalists were terrorists. That’s murder. Plain and simple.”
+
+
+      In a statement, Al Jazeera Media Network described the killings as “yet another
+      blatant and premeditated attack on press freedom.” The order to kill al-Sharif,
+      “one of Gaza’s bravest journalists, and his colleagues, is a desperate attempt
+      to silence the voices exposing the impending seizure and occupation of Gaza.”
+
+
+      The murder of al-Sharif and his colleagues by Israeli forces constituted the effective
+      wiping out of Al Jazeera’s team, one of the few able to offer consistent, unsmothered
+      coverage about the IDF’s remorseless campaign in Gaza. Since the October 7, 2023
+      attacks by Hamas, Israel has prohibited foreign reporters from entering Gaza except
+      under strict invigilation by the Israeli military. Those accompanied by the IDF
+      have been at the mercy of Israeli selectiveness as to where to go and barred from
+      speaking to Palestinians.
+
+
+      In a note to be published in the event of his death, al-Sharif stated that he
+      “lived the pain in all its details”, tasting “grief and loss repeatedly”. This
+      did not deter him from conveying “the truth as it is, without distortion or misrepresentation,
+      hoping that God would witness those who remained silent, those who accepted our
+      killing, and those who suffocated our very breaths.” He also reflected on what
+      images of sheer barbarity had failed to do, with “the mangled bodies of our children
+      and women” failing to move hearts or stop massacres. In dying along with his colleagues,
+      al-Sharif had been butchered in a climate of hyper normalised violence, thinly
+      veiled by the barbaric justifications of Israeli national security.'
+    one_sentence_summary: Al Jazeera journalist Anas al-Sharif and several colleagues
+      were killed in a drone strike by Israeli forces in Gaza City, raising serious
+      concerns about the targeting of journalists and press freedom amidst the ongoing
+      conflict, as the Israeli military justified the attack with unsubstantiated claims
+      of al-Sharif's alleged ties to Hamas.
+    paragraph_summary: On August 10, Al Jazeera journalist Anas al-Sharif and several
+      colleagues were killed in a drone strike by Israeli forces while resting outside
+      Gaza City's al-Shifa Hospital, an event described as a severe form of censorship
+      reminiscent of George Bernard Shaw's assertion that "assassination is the extreme
+      form of censorship." Witnesses reported the chaos of the attack, which left al-Sharif
+      and his team dead almost instantly. The Israeli Defense Forces (IDF) claimed al-Sharif
+      was an active member of Hamas, a justification that has been met with skepticism
+      by human rights advocates and journalists, who argue that such unfounded accusations
+      have led to a dangerous precedent of targeting media personnel. The Committee
+      to Protect Journalists highlighted the increasing risk faced by journalists in
+      Gaza, noting that the ongoing conflict has resulted in the highest recorded fatalities
+      for press members. Al Jazeera condemned the killings as a blatant attack on press
+      freedom, while al-Sharif's own reflections revealed his commitment to truth-telling
+      amidst a backdrop of violence and repression.
+    published: '2025-08-13T05:55:54+00:00'
   - title: 'Occupation and Slaughter: Netanyahu and Taking Over Gaza'
     url: https://www.counterpunch.org/2025/08/11/occupation-and-slaughter-netanyahu-and-taking-over-gaza/
     text: 'To say that Israel’s Prime Minister, Benjamin Netanyahu, had lost the plot

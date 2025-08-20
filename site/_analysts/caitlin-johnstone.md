@@ -7,14 +7,1470 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The ongoing crisis in Gaza remains the focal point of global geopolitical discourse, with recent developments further deepening skepticism about diplomatic solutions and intensifying scrutiny of Israel’s military conduct. The situation is widely recognized by independent analysts as emblematic of broader issues—imperialism, colonialism, and systemic injustice—making it, as **Caitlin Johnstone** puts it, “the moral question of our time.”
+  The ongoing crisis in Gaza remains at the center of international attention, with recent developments highlighting both the humanitarian catastrophe and the political complexities surrounding U.S. and Israeli policy. The latest reports underscore a deepening moral and political divide in Western responses to the conflict.
   
-  The latest analysis underscores a growing consensus that the two-state solution, long touted as the path to peace, has become a “sham.” According to **Johnstone** (August 13), Israel’s entrenched militaristic and colonial policies render any prospect of genuine Palestinian sovereignty unattainable. She argues that “the two-state solution for Palestinians is unrealistic and unlikely to lead to true sovereignty or peace,” reflecting a majority view among critical observers that current diplomatic frameworks are fundamentally flawed.
+  In a notable shift, U.S. Representative Marjorie Taylor Greene has publicly called for the United States to admit wounded children from Gaza for medical treatment and to prosecute Israeli nationals implicated in child exploitation. **Caitlin Johnstone** points out the significance of this statement, emphasizing that “it’s a damning indictment of U.S. policy that such basic calls for decency are even necessary in the current climate.” This development signals a growing willingness among some U.S. lawmakers to challenge the longstanding bipartisan consensus on unconditional support for Israel, particularly as civilian casualties in Gaza continue to mount.
   
-  Meanwhile, the humanitarian situation in Gaza continues to deteriorate. **Johnstone** (August 12) frames the ongoing violence as a genocide, urging that “stopping the Gaza holocaust is the first step toward a healthy world.” This perspective is gaining traction as reports of deliberate starvation, targeted killings—including the assassination of journalists—and the destruction of healthcare infrastructure circulate widely. The targeting of media workers, especially the recent killing of five Al Jazeera journalists, is seen as part of a broader strategy to obscure the realities on the ground and suppress independent reporting.
+  Meanwhile, appeals from Israeli hostages and their families for former President Trump to intervene in brokering a peace deal have gained traction. As **Caitlin Johnstone** observes, these appeals reflect a widespread belief within Israel that Trump possesses the unique influence needed to end the violence and secure the release of remaining hostages. This dynamic illustrates the extent to which U.S. political figures are perceived as central actors in the conflict’s resolution, even as the Biden administration faces mounting criticism for its handling of the crisis.
   
-  Looking ahead, the prevailing trend is one of escalating international outrage and mobilization, as evidenced by mass protests and increasing calls for accountability. However, analysts remain deeply pessimistic about the prospects for meaningful change in the near term. Based on the current trajectory and the entrenched positions of key actors, there is a high chance that the crisis will persist, with **Johnstone** and others expressing “high confidence” that neither diplomatic breakthroughs nor substantive policy shifts are imminent. The expectation is that the situation in Gaza will continue to serve as a litmus test for global justice, with mounting pressure on governments and institutions to respond to what is increasingly recognized as a defining atrocity of the era.
+  The broader context remains one of entrenched narratives and media manipulation. Recent coverage has highlighted the role of Israeli military public relations units, such as the so-called “Legitimization Cell,” in shaping international perceptions and justifying controversial military actions. This underscores the challenges faced by independent analysts and activists in countering official narratives and advocating for accountability.
+  
+  Looking ahead, the prevailing trend is toward increased polarization in Western political discourse regarding Israel and Palestine. There is a high chance that calls for accountability and humanitarian intervention will intensify, particularly as the humanitarian situation in Gaza deteriorates further. However, absent a major shift in U.S. policy or a breakthrough in negotiations, it is quite likely that the status quo will persist in the near term. The confidence among Israeli stakeholders in Trump’s potential to broker peace suggests that the upcoming U.S. election cycle may become a critical juncture for the conflict’s trajectory.
 articles:
+  - title: The US Treats Israeli Pedophiles Nicer Than Wounded Palestinian Kids
+    url: https://www.caitlinjohnst.one/p/the-us-treats-israeli-pedophiles
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now Antiwar has a story out right now with
+      the headline “ Rep. Greene: US Should Let Gaza Children in for Medical Treatment,
+      Prosecute Israeli Child Predators .” It’s a headline that says so much about what’s
+      going on in the world in just a few words. Is the US really not letting Gaza children
+      in for medical treatment? Is the US really failing to prosecute Israelis who prey
+      on children? Why are these necessary things to say? And why is it being left to
+      Marjorie Taylor Greene to say them? What’s crazy is that these are entirely true
+      and legitimate grievances, as Antiwar’s Dave DeCamp explains: “The Georgia representative
+      was referring to a recent State Department decision to block visas for Palestinians
+      from Gaza in response to outrage from pro-Trump activist Laura Loomer over wounded
+      Palestinian children arriving for medical treatment, and the case of Tom Alexandrovich
+      , a senior Israeli cybersecurity official who was arrested in a sting operation
+      in Nevada for attempting to lure a child for sexual purposes but was allowed to
+      go back to Israel.” I mean, damn. Things are so fucked up that the only way to
+      get wounded Palestinian children in and out of the United States for medical treatment
+      these days would be to disguise them as Israeli pedophiles. ❖ Israel apologists
+      are still trying to make “we’re not starving children, we’re starving SICK children”
+      work. Bari Weiss’s media outlet The Free Press has a new genocide apologia article
+      out noting that twelve of the emaciated children we’ve seen in photos distributed
+      by the mainstream press have had preexisting conditions like “cystic fibrosis,
+      rickets, or other serious ailments.” This argument is exactly the same as starting
+      a fire in a crowded building and then claiming you can’t be guilty of murder by
+      arson because many of the people who died in the fire were handicapped and elderly
+      individuals who couldn’t escape quickly enough. Everyone knows the people who
+      suffer first and worst in a famine are small children, the elderly, and the sick.
+      As others have pointed out , it really shows how desperate the Israel spinmeisters
+      are getting that they would cite “rickets” as a pre-existing condition in their
+      argument to dismiss concerns about starvation in Gaza, given that rickets is a
+      condition caused by malnutrition . ❖ Israel: We have to kill all the journalists
+      in Gaza because they’re Hamas. Western journalists: Okay so let us in so at least
+      someone’s there to report what’s happening in Gaza. Israel: We can’t, it’s not
+      safe for you. Western journalists: Why not? Israel: Because then YOU’D be Hamas.
+      ❖ Saw a tweet from former Israeli prime minister Naftali Bennett complaining that
+      “Europe is becoming Islamized,” fearmongering about the number of Muslims who
+      now live in some of Europe’s major cities. Israelis are something else, man. They
+      don’t want Muslims to live in the middle east, they don’t want Muslims to live
+      in Europe. Kinda seems like they just don’t want Muslims to live. ❖ The New York
+      Post has an article out with the headline “ Queens bodega named ‘Gaza Deli and
+      Grill’ ignites fear among Jewish New Yorkers — including Oct. 7 survivor: ‘I’m
+      still not safe’ ”. It’s just as ridiculous as it sounds. There’s a bodega in New
+      York called “Gaza Deli and Grill” and Jewish locals are saying it makes them feel
+      unsafe. This happens as an active genocide continues in Gaza, with Israel calling
+      upon 60,000 IDF reservists in preparation for the planned ethnic cleansing of
+      a million civilians from Gaza City. Whenever you see the western press centering
+      the feelings of western Jews with extreme aggression, it’s a safe bet that Israel
+      has something especially ugly in the works. ❖ The plan has always been to pace
+      us from “It’s a complicated conflict and Hamas attacked on October 7 and gosh
+      you sure are obsessed with Jews,” to “Well it’s too late to do anything about
+      it now,” to “Oh come on Gaza was so long ago and there’s nothing we can do to
+      change the past.” It really seems to have taken the empire by surprise that the
+      public has not played along with this. They really expected us to forget about
+      Gaza within the first few weeks and let it fade into the background. The fact
+      that the outcry has only gotten louder says encouraging things about ordinary
+      members of the public, and about the future of the human species. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article discusses Rep. Marjorie Taylor Greene's call for
+      the U.S. to allow Gaza children in for medical treatment and to prosecute Israeli
+      individuals who exploit children, highlighting the troubling realities of U.S.
+      policy and the need for such statements in the current political climate.
+    paragraph_summary: The article discusses a controversial statement by Rep. Marjorie
+      Taylor Greene, who suggested that the U.S. should allow Gaza children to enter
+      for medical treatment and prosecute Israeli individuals who exploit children.
+      This statement highlights significant issues, such as the U.S. blocking visas
+      for Palestinian children needing medical care and the lack of accountability for
+      Israeli officials involved in child exploitation. The author critiques the narrative
+      that attempts to downplay the suffering of Palestinian children by claiming that
+      only those with preexisting conditions are affected, likening it to justifying
+      harm to vulnerable populations. The piece underscores the troubling dynamics of
+      the current geopolitical situation and the moral implications of these actions.
+    published: '2025-08-20T02:10:37+00:00'
+  - title: The US Treats Israeli Pedophiles Nicer Than Wounded Palestinian Kids
+    url: https://www.caitlinjohnst.one/p/the-us-treats-israeli-pedophiles
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now Antiwar has a story out right now with
+      the headline “ Rep. Greene: US Should Let Gaza Children in for Medical Treatment,
+      Prosecute Israeli Child Predators .” It’s a headline that says so much about what’s
+      going on in the world in just a few words. Is the US really not letting Gaza children
+      in for medical treatment? Is the US really failing to prosecute Israelis who prey
+      on children? Why are these necessary things to say? And why is it being left to
+      Marjorie Taylor Greene to say them? What’s crazy is that these are entirely true
+      and legitimate grievances, as Antiwar’s Dave DeCamp explains: “The Georgia representative
+      was referring to a recent State Department decision to block visas for Palestinians
+      from Gaza in response to outrage from pro-Trump activist Laura Loomer over wounded
+      Palestinian children arriving for medical treatment, and the case of Tom Alexandrovich
+      , a senior Israeli cybersecurity official who was arrested in a sting operation
+      in Nevada for attempting to lure a child for sexual purposes but was allowed to
+      go back to Israel.” I mean, damn. Things are so fucked up that the only way to
+      get wounded Palestinian children in and out of the United States for medical treatment
+      these days would be to disguise them as Israeli pedophiles. ❖ Israel apologists
+      are still trying to make “we’re not starving children, we’re starving SICK children”
+      work. Bari Weiss’s media outlet The Free Press has a new genocide apologia article
+      out noting that twelve of the emaciated children we’ve seen in photos distributed
+      by the mainstream press have had preexisting conditions like “cystic fibrosis,
+      rickets, or other serious ailments.” This argument is exactly the same as starting
+      a fire in a crowded building and then claiming you can’t be guilty of murder by
+      arson because many of the people who died in the fire were handicapped and elderly
+      individuals who couldn’t escape quickly enough. Everyone knows the people who
+      suffer first and worst in a famine are small children, the elderly, and the sick.
+      As others have pointed out , it really shows how desperate the Israel spinmeisters
+      are getting that they would cite “rickets” as a pre-existing condition in their
+      argument to dismiss concerns about starvation in Gaza, given that rickets is a
+      condition caused by malnutrition . ❖ Israel: We have to kill all the journalists
+      in Gaza because they’re Hamas. Western journalists: Okay so let us in so at least
+      someone’s there to report what’s happening in Gaza. Israel: We can’t, it’s not
+      safe for you. Western journalists: Why not? Israel: Because then YOU’D be Hamas.
+      ❖ Saw a tweet from former Israeli prime minister Naftali Bennett complaining that
+      “Europe is becoming Islamized,” fearmongering about the number of Muslims who
+      now live in some of Europe’s major cities. Israelis are something else, man. They
+      don’t want Muslims to live in the middle east, they don’t want Muslims to live
+      in Europe. Kinda seems like they just don’t want Muslims to live. ❖ The New York
+      Post has an article out with the headline “ Queens bodega named ‘Gaza Deli and
+      Grill’ ignites fear among Jewish New Yorkers — including Oct. 7 survivor: ‘I’m
+      still not safe’ ”. It’s just as ridiculous as it sounds. There’s a bodega in New
+      York called “Gaza Deli and Grill” and Jewish locals are saying it makes them feel
+      unsafe. This happens as an active genocide continues in Gaza, with Israel calling
+      upon 60,000 IDF reservists in preparation for the planned ethnic cleansing of
+      a million civilians from Gaza City. Whenever you see the western press centering
+      the feelings of western Jews with extreme aggression, it’s a safe bet that Israel
+      has something especially ugly in the works. ❖ The plan has always been to pace
+      us from “It’s a complicated conflict and Hamas attacked on October 7 and gosh
+      you sure are obsessed with Jews,” to “Well it’s too late to do anything about
+      it now,” to “Oh come on Gaza was so long ago and there’s nothing we can do to
+      change the past.” It really seems to have taken the empire by surprise that the
+      public has not played along with this. They really expected us to forget about
+      Gaza within the first few weeks and let it fade into the background. The fact
+      that the outcry has only gotten louder says encouraging things about ordinary
+      members of the public, and about the future of the human species. _______________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article discusses Rep. Marjorie Taylor Greene's call for
+      the U.S. to allow Gaza children in for medical treatment and to prosecute Israeli
+      individuals who exploit children, highlighting the troubling realities of U.S.
+      policy and the need for such statements in the current political climate.
+    paragraph_summary: The article discusses a controversial statement by Rep. Marjorie
+      Taylor Greene, who suggested that the U.S. should allow Gaza children to enter
+      for medical treatment and prosecute Israeli individuals who exploit children.
+      This statement highlights significant issues, such as the U.S. blocking visas
+      for Palestinian children needing medical care and the lack of accountability for
+      Israeli officials involved in child exploitation. The author critiques the narrative
+      that attempts to downplay the suffering of Palestinian children by claiming that
+      only those with preexisting conditions are affected, likening it to justifying
+      harm to vulnerable populations. The piece underscores the troubling dynamics of
+      the current geopolitical situation and the moral implications of these actions.
+    published: '2025-08-20T02:10:37+00:00'
+  - title: Israelis Understand That Trump Can End The Nightmare In Gaza. Americans Should
+      Know This Too.
+    url: https://www.caitlinjohnst.one/p/israelis-understand-that-trump-can
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s so revealing how Israelis keep begging Trump to end the killing in Gaza,
+      because they understand that the US president has the power to force Israel to
+      stop. It seems like Israelis understand this far better than Americans do. Six
+      former Israeli hostages and the widow of a slain hostage have released a video
+      pleading with President Trump in English to support a comprehensive deal to make
+      peace in Gaza so that the remaining hostages can be freed. “You have the power
+      to make history, to be the president of peace, the one who ended the war, ended
+      the suffering, and brought every hostage home, including my little brother,” implores
+      one of the hostages. “President Trump, please act now before it’s too late for
+      them, too,” pleads the widow. https://x.com/Antiwarcom/status/1957239113142141003
+      This is not the first time Israelis have begged Trump to force an end to the slaughter.
+      Earlier this month more than 600 former senior Israeli security officials from
+      Mossad and Shin Bet sent Trump a letter urging him to compel Netanyahu to make
+      peace in Gaza. They did this because they understand something that many Americans
+      do not: that the US president has always had the power to end the Gaza holocaust.
+      It’s crazy how many times I’ve encountered Americans telling me that this is “Israel’s
+      war” and there’s nothing the president can do to end it. It was mostly Democrats
+      doing this back when Biden was president and I was slamming Genocide Joe for continuing
+      this mass atrocity, and now that Trump is in office it’s his supporters who show
+      up in my comments section white knighting for the president. “It’s not our war
+      and we should stay out of it,” they sometimes claim, mistakenly thinking that
+      critics of the US-backed genocide are asking for some kind of US intervention.
+      But the call isn’t for the US to intervene, it’s for the US to stop intervening.
+      To end the US interventionism that has been underway for two years. The Gaza holocaust
+      can be ended by the US simply ceasing to add wood to the fire. https://x.com/Antiwarcom/status/1952708443015348499
+      Israeli military insiders have been saying again and again that the onslaught
+      in Gaza would not be possible without US support. A senior Israeli air force official
+      told Haaretz last year that “without the Americans’ supply of weapons to the Israel
+      Defense Forces, especially the air force, Israel would have had a hard time sustaining
+      its war for more than a few months.” In November 2023 retired Israeli Major General
+      Yitzhak Brick told Jewish News Syndicate that, “All of our missiles, the ammunition,
+      the precision-guided bombs, all the airplanes and bombs, it’s all from the US.
+      The minute they turn off the tap, you can’t keep fighting. You have no capability.
+      … Everyone understands that we can’t fight this war without the United States.
+      Period.” Former Israeli prime minister Ehud Olmert wrote the following last year:
+      “The entire Israel Air Force relies completely on American aircraft: fighter planes,
+      transport planes, refueler planes and helicopters. All of Israel’s air power is
+      based on the American commitment to defend Israel. We have no other reliable source
+      for essential supplies of equipment, munitions and advanced weapons that Israel
+      cannot manufacture on its own. In recent months, hundreds of American transport
+      planes have landed at IAF bases carrying thousands of tons of advanced, vital
+      military equipment and munitions.” https://x.com/Antiwarcom/status/1831050016276037735
+      The Israelis clearly understand that they’ve been entirely dependent on the US
+      for the IDF’s acts of butchery in Gaza this entire time, and they clearly understand
+      that the US president has the ability to turn off the tap whenever he wants. And
+      now they are begging the president to do so with increasing urgency, because it’s
+      been made clear to them that their own government isn’t going to stop until it
+      is forced to stop. They can’t stop the gunman, so they’re turning to the man who’s
+      feeding him the ammo. It would be good if Americans understood this as well. Trump
+      is committing genocide in Gaza, just as surely as Netanyahu is, and he could end
+      it at any time. The fact that he still has not chosen to do so makes him one of
+      the most evil people on earth. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Wikimedia Commons/The White
+      House (Public Domain) .'
+    one_sentence_summary: Israeli hostages and their families are urgently appealing
+      to President Trump to intervene and broker a peace deal to halt the violence in
+      Gaza and secure the release of remaining hostages, highlighting their belief in
+      his influence over the situation.
+    paragraph_summary: The article highlights the urgent pleas from Israelis, including
+      former hostages and their families, urging President Trump to intervene and end
+      the violence in Gaza, emphasizing that he has the power to influence Israel's
+      actions. These appeals underscore a broader understanding among Israelis that
+      the U.S. president can play a crucial role in facilitating peace, a notion that
+      seems less recognized by many Americans who often view the conflict as solely
+      Israel's responsibility. The piece critiques the prevailing sentiment among some
+      Americans that the U.S. should remain uninvolved, arguing instead for a cessation
+      of U.S. support for what the author describes as a "Gaza holocaust." The calls
+      for action reflect a desire for the U.S. to stop its interventionist policies
+      rather than to engage militarily.
+    published: '2025-08-19T02:28:13+00:00'
+  - title: Israelis Understand That Trump Can End The Nightmare In Gaza. Americans Should
+      Know This Too.
+    url: https://www.caitlinjohnst.one/p/israelis-understand-that-trump-can
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      It’s so revealing how Israelis keep begging Trump to end the killing in Gaza,
+      because they understand that the US president has the power to force Israel to
+      stop. It seems like Israelis understand this far better than Americans do. Six
+      former Israeli hostages and the widow of a slain hostage have released a video
+      pleading with President Trump in English to support a comprehensive deal to make
+      peace in Gaza so that the remaining hostages can be freed. “You have the power
+      to make history, to be the president of peace, the one who ended the war, ended
+      the suffering, and brought every hostage home, including my little brother,” implores
+      one of the hostages. “President Trump, please act now before it’s too late for
+      them, too,” pleads the widow. https://x.com/Antiwarcom/status/1957239113142141003
+      This is not the first time Israelis have begged Trump to force an end to the slaughter.
+      Earlier this month more than 600 former senior Israeli security officials from
+      Mossad and Shin Bet sent Trump a letter urging him to compel Netanyahu to make
+      peace in Gaza. They did this because they understand something that many Americans
+      do not: that the US president has always had the power to end the Gaza holocaust.
+      It’s crazy how many times I’ve encountered Americans telling me that this is “Israel’s
+      war” and there’s nothing the president can do to end it. It was mostly Democrats
+      doing this back when Biden was president and I was slamming Genocide Joe for continuing
+      this mass atrocity, and now that Trump is in office it’s his supporters who show
+      up in my comments section white knighting for the president. “It’s not our war
+      and we should stay out of it,” they sometimes claim, mistakenly thinking that
+      critics of the US-backed genocide are asking for some kind of US intervention.
+      But the call isn’t for the US to intervene, it’s for the US to stop intervening.
+      To end the US interventionism that has been underway for two years. The Gaza holocaust
+      can be ended by the US simply ceasing to add wood to the fire. https://x.com/Antiwarcom/status/1952708443015348499
+      Israeli military insiders have been saying again and again that the onslaught
+      in Gaza would not be possible without US support. A senior Israeli air force official
+      told Haaretz last year that “without the Americans’ supply of weapons to the Israel
+      Defense Forces, especially the air force, Israel would have had a hard time sustaining
+      its war for more than a few months.” In November 2023 retired Israeli Major General
+      Yitzhak Brick told Jewish News Syndicate that, “All of our missiles, the ammunition,
+      the precision-guided bombs, all the airplanes and bombs, it’s all from the US.
+      The minute they turn off the tap, you can’t keep fighting. You have no capability.
+      … Everyone understands that we can’t fight this war without the United States.
+      Period.” Former Israeli prime minister Ehud Olmert wrote the following last year:
+      “The entire Israel Air Force relies completely on American aircraft: fighter planes,
+      transport planes, refueler planes and helicopters. All of Israel’s air power is
+      based on the American commitment to defend Israel. We have no other reliable source
+      for essential supplies of equipment, munitions and advanced weapons that Israel
+      cannot manufacture on its own. In recent months, hundreds of American transport
+      planes have landed at IAF bases carrying thousands of tons of advanced, vital
+      military equipment and munitions.” https://x.com/Antiwarcom/status/1831050016276037735
+      The Israelis clearly understand that they’ve been entirely dependent on the US
+      for the IDF’s acts of butchery in Gaza this entire time, and they clearly understand
+      that the US president has the ability to turn off the tap whenever he wants. And
+      now they are begging the president to do so with increasing urgency, because it’s
+      been made clear to them that their own government isn’t going to stop until it
+      is forced to stop. They can’t stop the gunman, so they’re turning to the man who’s
+      feeding him the ammo. It would be good if Americans understood this as well. Trump
+      is committing genocide in Gaza, just as surely as Netanyahu is, and he could end
+      it at any time. The fact that he still has not chosen to do so makes him one of
+      the most evil people on earth. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Wikimedia Commons/The White
+      House (Public Domain) .'
+    one_sentence_summary: Israeli hostages and their families are urgently appealing
+      to President Trump to intervene and broker a peace deal to halt the violence in
+      Gaza and secure the release of remaining hostages, highlighting their belief in
+      his influence over the situation.
+    paragraph_summary: The article highlights the urgent pleas from Israelis, including
+      former hostages and their families, urging President Trump to intervene and end
+      the violence in Gaza, emphasizing that he has the power to influence Israel's
+      actions. These appeals underscore a broader understanding among Israelis that
+      the U.S. president can play a crucial role in facilitating peace, a notion that
+      seems less recognized by many Americans who often view the conflict as solely
+      Israel's responsibility. The piece critiques the prevailing sentiment among some
+      Americans that the U.S. should remain uninvolved, arguing instead for a cessation
+      of U.S. support for what the author describes as a "Gaza holocaust." The calls
+      for action reflect a desire for the U.S. to stop its interventionist policies
+      rather than to engage militarily.
+    published: '2025-08-19T02:28:13+00:00'
+  - title: Some Suggestions
+    url: https://www.caitlinjohnst.one/p/some-suggestions
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Pay attention to the mainstream media, but only so you’re aware what the bastards
+      want you to think. The western press are plutocrat-controlled propaganda services
+      for the US-centralized capitalist empire, and they frame their output accordingly.
+      Don’t trust them. Be aware of online echo chambers and confirmation bias, and
+      be humble enough to understand that these things affect you. Make sure you’re
+      getting information from a variety of sources, including ones you disagree with
+      ideologically. It’s easy to spin off into erroneous perspectives if you don’t
+      have any other feedback keeping you in check. Ignore our society’s ideas about
+      what an ideal or successful life looks like. This is a sick civilization whose
+      madness is driving us all into dystopia and disaster. Blaze your own path, and
+      set your own standards for what a good and worthy life would look like. Make a
+      practice of noticing beauty everywhere. Everything has beauty, even the ugliest
+      things you can imagine. If you can’t see the beauty in what you are perceiving
+      in a given moment, the failure is in the eye of the beholder. Beauty is just the
+      experience of having truly seen something. Feel your feelings fully and courageously,
+      all the way through. If you have forgotten how to cry, re-learn. Don’t repress
+      your feelings, but don’t make them anyone else’s problem either. Feelings are
+      meant to be felt. That’s all. Face your inner demons and heal them. Don’t hurt
+      anyone else with them. If you have children, make this a priority of the most
+      urgent order, because you will pass your woundedness onto them if you don’t. You
+      can’t heal all that’s wrong in the world, but you can heal all that’s wrong in
+      you. Put love before everything in life. No one ever went to their grave wishing
+      they had loved less, or had placed their career or ambition above their children
+      or their partner. Love with everything in you; hold nothing back. Loss is inevitable
+      in a mortal life, but love anyway, because it’s the only thing that makes a mortal
+      incarnation worth it in the first place. Learn to love yourself. This looks like
+      bringing a passionate, unconditional “YES” to everything that shows up inside
+      you — all your thoughts, feelings, sensations etc, even the ones you don’t like
+      very much right now. If you feel resistance to this, bring a “YES” to that resistance.
+      Keep YESing all the resistances until you work your way in. You can only love
+      others to the extent that you love yourself. Hold no loyalties to the collective
+      delusions of your family, your social circle, or your culture. If you know they’re
+      wrong or ridiculous about something, there’s no reason to protect it or act like
+      it’s legitimate. Be free from the psychological shackles of conformism. Life is
+      too short for that shit. Open yourself up to new music, films and art, and increase
+      your capacity for appreciating and enjoying culture outside your comfort zone.
+      Learning how to appreciate more things will make life more enjoyable for you.
+      Be discerning about what you put into your body. A system of food production and
+      distribution which is guided entirely by the pursuit of profit will not have your
+      health interests at heart in the options it presents you with. Be kind to people
+      who struggle with neuroses, but try your best to free yourself from your own.
+      Certain segments of our society have become far too glorifying of psychological
+      dysfunction and far too encouraging of learned helplessness and irresponsibility.
+      Be a mature adult and heal everything you are capable of healing, and for everything
+      else try to find adaptations and strategies to get by. Cultivate a serene mind.
+      If you feel called to, pursue spiritual enlightenment. It’s entirely achievable
+      and readily available. Do as much as you can to make the world a better place,
+      and be content with your efforts regardless of whether or not they are successful.
+      You’ll never be able to save the world single-handedly no matter what you can
+      do; all you can do is make one person’s worth of effort. Make peace with that.
+      ______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article advises readers to critically engage with mainstream
+      media, seek diverse perspectives, reject societal norms of success, and cultivate
+      personal definitions of a meaningful life while appreciating beauty in the world.
+    paragraph_summary: The article emphasizes the importance of critically engaging
+      with mainstream media, which it characterizes as propaganda for a capitalist agenda,
+      while also warning against the dangers of echo chambers and confirmation bias.
+      It encourages individuals to seek diverse perspectives, challenge societal norms
+      about success, and define their own paths in life. The author advocates for recognizing
+      beauty in all things, fully experiencing and expressing emotions, and confronting
+      personal demons to prevent passing trauma onto future generations. Ultimately,
+      it underscores the primacy of love in life, suggesting that prioritizing relationships
+      over ambition leads to a more fulfilling existence.
+    published: '2025-08-18T11:37:29+00:00'
+  - title: Some Suggestions
+    url: https://www.caitlinjohnst.one/p/some-suggestions
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Pay attention to the mainstream media, but only so you’re aware what the bastards
+      want you to think. The western press are plutocrat-controlled propaganda services
+      for the US-centralized capitalist empire, and they frame their output accordingly.
+      Don’t trust them. Be aware of online echo chambers and confirmation bias, and
+      be humble enough to understand that these things affect you. Make sure you’re
+      getting information from a variety of sources, including ones you disagree with
+      ideologically. It’s easy to spin off into erroneous perspectives if you don’t
+      have any other feedback keeping you in check. Ignore our society’s ideas about
+      what an ideal or successful life looks like. This is a sick civilization whose
+      madness is driving us all into dystopia and disaster. Blaze your own path, and
+      set your own standards for what a good and worthy life would look like. Make a
+      practice of noticing beauty everywhere. Everything has beauty, even the ugliest
+      things you can imagine. If you can’t see the beauty in what you are perceiving
+      in a given moment, the failure is in the eye of the beholder. Beauty is just the
+      experience of having truly seen something. Feel your feelings fully and courageously,
+      all the way through. If you have forgotten how to cry, re-learn. Don’t repress
+      your feelings, but don’t make them anyone else’s problem either. Feelings are
+      meant to be felt. That’s all. Face your inner demons and heal them. Don’t hurt
+      anyone else with them. If you have children, make this a priority of the most
+      urgent order, because you will pass your woundedness onto them if you don’t. You
+      can’t heal all that’s wrong in the world, but you can heal all that’s wrong in
+      you. Put love before everything in life. No one ever went to their grave wishing
+      they had loved less, or had placed their career or ambition above their children
+      or their partner. Love with everything in you; hold nothing back. Loss is inevitable
+      in a mortal life, but love anyway, because it’s the only thing that makes a mortal
+      incarnation worth it in the first place. Learn to love yourself. This looks like
+      bringing a passionate, unconditional “YES” to everything that shows up inside
+      you — all your thoughts, feelings, sensations etc, even the ones you don’t like
+      very much right now. If you feel resistance to this, bring a “YES” to that resistance.
+      Keep YESing all the resistances until you work your way in. You can only love
+      others to the extent that you love yourself. Hold no loyalties to the collective
+      delusions of your family, your social circle, or your culture. If you know they’re
+      wrong or ridiculous about something, there’s no reason to protect it or act like
+      it’s legitimate. Be free from the psychological shackles of conformism. Life is
+      too short for that shit. Open yourself up to new music, films and art, and increase
+      your capacity for appreciating and enjoying culture outside your comfort zone.
+      Learning how to appreciate more things will make life more enjoyable for you.
+      Be discerning about what you put into your body. A system of food production and
+      distribution which is guided entirely by the pursuit of profit will not have your
+      health interests at heart in the options it presents you with. Be kind to people
+      who struggle with neuroses, but try your best to free yourself from your own.
+      Certain segments of our society have become far too glorifying of psychological
+      dysfunction and far too encouraging of learned helplessness and irresponsibility.
+      Be a mature adult and heal everything you are capable of healing, and for everything
+      else try to find adaptations and strategies to get by. Cultivate a serene mind.
+      If you feel called to, pursue spiritual enlightenment. It’s entirely achievable
+      and readily available. Do as much as you can to make the world a better place,
+      and be content with your efforts regardless of whether or not they are successful.
+      You’ll never be able to save the world single-handedly no matter what you can
+      do; all you can do is make one person’s worth of effort. Make peace with that.
+      ______________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article advises readers to critically engage with mainstream
+      media, seek diverse perspectives, reject societal norms of success, and cultivate
+      personal definitions of a meaningful life while appreciating beauty in the world.
+    paragraph_summary: The article emphasizes the importance of critically engaging
+      with mainstream media, which it characterizes as propaganda for a capitalist agenda,
+      while also warning against the dangers of echo chambers and confirmation bias.
+      It encourages individuals to seek diverse perspectives, challenge societal norms
+      about success, and define their own paths in life. The author advocates for recognizing
+      beauty in all things, fully experiencing and expressing emotions, and confronting
+      personal demons to prevent passing trauma onto future generations. Ultimately,
+      it underscores the primacy of love in life, suggesting that prioritizing relationships
+      over ambition leads to a more fulfilling existence.
+    published: '2025-08-18T11:37:29+00:00'
+  - title: Alternate Reality Israel, And Other Reader Questions
+    url: https://www.caitlinjohnst.one/p/alternate-reality-israel-and-other
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Let’s take some more reader questions. ❖ Freeman asks on Facebook, “I have quite
+      a few friends/people in my life who somehow are against the occupation and genocide
+      while also being for Israel. How would you tactfully explain to them why this
+      is a problem?” The most culturally consequential fictional fantasy land ever authored
+      is not Oz or Narnia or Middle Earth, but the liberal Zionist creation of Alternate
+      Reality Israel. In the minds of its authors, Alternate Reality Israel exists in
+      a parallel universe at the geographic location of actual real-life Israel, but
+      never became a genocidal apartheid state. In this fictional timeline, Alternate
+      Reality Israel magically came into existence without the mass murder, ethnic cleansing
+      and land theft which would normally be required for the creation of a brand-new
+      ethnostate dropped on top of a pre-existing civilization. Because of magic, Alternate
+      Reality Israel has not needed to use nonstop violence and tyranny to maintain
+      its existence as a theocratic ethnostate, and has instead been able to exist in
+      peace and harmony with all the populations who were living in the area prior to
+      its creation. The position of the liberal Zionist is therefore not self-contradictory,
+      because the existence of Alternate Reality Israel is not at all incompatible with
+      progressive values. The problem, of course, is that Alternate Reality Israel does
+      not exist, and has never existed. There is no alternate version of Israel that
+      anyone can point to which does not include genocide, apartheid and abuse. The
+      Zionist experiment has been run, and what we see before us is the one and only
+      result of that experiment. This is it. There are no other timelines to compare
+      and contrast this existing reality with. So when someone says they are “for Israel”
+      but against Israel’s occupation and genocide, maybe ask them which “Israel” they
+      are referring to. It can’t possibly be the one that exists in this universe, because
+      they said they oppose occupation and genocide. So where is it? Do they have some
+      sort of magical crystal ball which enables them to peer into an alternate universe
+      where Israel somehow isn’t doing these things? Show me this kindly, beneficent
+      version of Israel, please. There isn’t any. There never has been. It turns out
+      it was always impossible to create a new state where people were already living
+      and say that a new group of people gets to show up by the millions and run things
+      there, without it looking like nonstop mass-scale abuse. There was never any magical
+      way for that to happen in a way that aligns with human rights and liberal values.
+      Israel was always headed toward this, and everything we’re witnessing is the result
+      of what Israel has always been. If liberals could point to any other Israel (or
+      indeed any other brand new ethnostate placed overtop of a preexisting civilization
+      of a differing ethnicity) which has existed without tremendous injustice, tyranny
+      and abusiveness, then it would be reasonable to say that you support that thing
+      that you are pointing to but not the thing that Israel is now. If they could go
+      “Well with a bit of tweaking Israel could be like the thriving east Asian ethnostate
+      of Zim-Zam” or whatever, then maybe that could be a position with some standing.
+      But no such place exists. All they can say is that they don’t support the way
+      Israel actually is in real life. Once they see that, they’re seeing clearly. ❖
+      Timothy on YouTube asks, “Why do you not support Zelensky?” Anyone who still supports
+      Ukrainian president Volodymyr Zelensky is against Ukraine, because Zelensky is
+      acting directly against the will of the overwhelming majority of Ukrainians. Ukrainian
+      men are being violently assaulted and dragged off to fight in a war that a supermajority
+      of Ukrainians now oppose. A recent Gallup poll found that 69 percent of Ukrainians
+      now want a negotiated end to the fighting as soon as possible, with only 24 percent
+      wanting to push on to victory. But I also opposed the proxy war from the very
+      beginning, because it was a completely unnecessary waste of human life which risked
+      nuclear armageddon and could have been easily avoided with a little diplomacy.
+      It is an extensively documented fact that this war was actively provoked by NATO
+      powers, which was why so many western experts and analysts spent years warning
+      ahead of time that the west’s actions were going to lead to war in Ukraine . No
+      other major power would have allowed a rival power to amass a credible military
+      threat on its border the way NATO was doing to Russia in Ukraine ; the last time
+      anyone tried to place a military threat near the United States, Washington responded
+      so aggressively that the world almost ended . It’s an unforgivable nightmare that
+      should never have happened, and Zelensky’s cronyism toward the US empire helped
+      make it happen. ❖ Isaiah on Substack asks, “When you’re not actively fighting
+      evil or doing inner work to recover, what do you do for fun?” Not much, honestly.
+      Tim and I will spend time hanging out with family, we’ll sometimes watch a movie
+      or a show to unwind, and I’ll play games on my phone here and there, but this
+      is pretty much a 24/7 vocation for us. We don’t really have a social life, and
+      fun doesn’t feature much. We’re generally either working, talking about working,
+      doing inner work, or just loving each other. We get our enjoyment of life from
+      appreciating beauty everywhere we see it, and from loving, and from our work.
+      To keep things fresh we’ll just change up what “work” looks like — that’s what
+      the poems and paintings and other art stuff is about. We laugh and joke around
+      a lot, but looking at the way we live our life you’d probably say that we’re very
+      serious people. ❖ Snow Himbo asks on Twitter, “Given how horrifying reality is
+      at present, what are some things you still have hope in?” I still have hope in
+      young people. Gen Z haven’t just been outperforming all of us on Gaza, they’ve
+      been leading the charge. They’re simply a superior generation to the rest of us.
+      This may be because they didn’t grown up marinating in the brainwashing of the
+      mainstream media. It may also be because they’re the first generation in human
+      history ever to have the ability to create their own culture without having culture
+      imposed upon them by older generations; they’re learning about the world from
+      streamers their own age discussing ideas while playing video games and TikTok
+      personalities explaining politics while putting on makeup. The rest of us got
+      our culture solely from our parents, teachers, Hollywood, and mass media propaganda.
+      We were way more dumbed down, because knowledge was gate-kept from us. I have
+      hope in the expansion of consciousness. We’re growing so much more aware in so
+      many ways, even as things apparently get darker and darker. Gaza is opening eyes
+      at an unprecedented rate. We’re growing more and more acutely aware that all the
+      people around the world are human beings with hopes and dreams and feelings and
+      families just like us, even the people who our government and our nation exploit
+      and abuse. People understand the concept of psychological trauma and healing exponentially
+      better than they did just a few short years ago. We’re growing less racist and
+      more accepting of differences, despite the most frenetic efforts of the worst
+      among us. I still have hope in the collaborative power of the internet. They’ve
+      tried and tried to shut that down and manipulate it, but we’re still finding ways
+      to network and share information at a wildly unprecedented rate, and this has
+      dramatically altered our minds and hearts in some very interesting ways. Because
+      of widespread internet access humanity has arguably changed more in the last twenty
+      years than in the previous twenty thousand, even though we might look and talk
+      more or less the same as we did in the nineties. I still have hope in activism,
+      because it’s working. I have renewed hope in artists. We’re seeing more and more
+      art being made about real things all of a sudden now that they’re starting to
+      see how exciting and inspiring it can be to fight back against the war machine.
+      I still have hope in spiritual awakening. Humanity has a latent potential for
+      radical internal transformation which we haven’t really tapped into yet, and it’s
+      entirely possible for this potential to emerge as our existential crises push
+      us into the adapt-or-perish moment for our species. If realized at mass scale
+      this could turn things around on a dime. I still have hope in miracles. I have
+      witnessed far too many in my own life to rule out the possibility of something
+      unexpected coming from way out of left field to knock us off our trajectory toward
+      disaster and dystopia. I know from my own experience that there are dragons lurking
+      within us that are waiting to be uncaged. I still have hope because of the Palestinians.
+      If they can keep going despite everything they’ve been through, then we’ve got
+      a shot too. The other day I saw a guy in Gaza planting a tomato seed in a cut
+      open milk jug, and he was laughing with his friend. They’re still finding ways
+      to not only stay alive, but to keep the spark of living alive too. Life finds
+      a way, man. We will find a way. If you have a question you’d like answered, just
+      write it in the comments section of whatever platform you’re reading this on and
+      I’ll try to get to it. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article discusses the concept of "Alternate Reality Israel,"
+      a fictional representation of Israel that exists without the historical context
+      of violence and oppression, and addresses the challenge of explaining this discrepancy
+      to those who support Israel while opposing its actions.
+    paragraph_summary: The article addresses the contradiction faced by some individuals
+      who support Israel while opposing its occupation and actions that could be characterized
+      as genocidal. It introduces the concept of "Alternate Reality Israel," a fictional
+      version of the state that exists without the historical context of violence, ethnic
+      cleansing, and oppression that accompanied its establishment. This imagined Israel
+      aligns with progressive values and does not engage in the abuses associated with
+      the real Israel. The author argues that this alternate version does not exist,
+      and thus, those who claim to support Israel while denouncing its actions must
+      clarify which version they mean, as the reality of Israel is inextricably linked
+      to its history of conflict and oppression.
+    published: '2025-08-18T02:10:11+00:00'
+  - title: Alternate Reality Israel, And Other Reader Questions
+    url: https://www.caitlinjohnst.one/p/alternate-reality-israel-and-other
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Let’s take some more reader questions. ❖ Freeman asks on Facebook, “I have quite
+      a few friends/people in my life who somehow are against the occupation and genocide
+      while also being for Israel. How would you tactfully explain to them why this
+      is a problem?” The most culturally consequential fictional fantasy land ever authored
+      is not Oz or Narnia or Middle Earth, but the liberal Zionist creation of Alternate
+      Reality Israel. In the minds of its authors, Alternate Reality Israel exists in
+      a parallel universe at the geographic location of actual real-life Israel, but
+      never became a genocidal apartheid state. In this fictional timeline, Alternate
+      Reality Israel magically came into existence without the mass murder, ethnic cleansing
+      and land theft which would normally be required for the creation of a brand-new
+      ethnostate dropped on top of a pre-existing civilization. Because of magic, Alternate
+      Reality Israel has not needed to use nonstop violence and tyranny to maintain
+      its existence as a theocratic ethnostate, and has instead been able to exist in
+      peace and harmony with all the populations who were living in the area prior to
+      its creation. The position of the liberal Zionist is therefore not self-contradictory,
+      because the existence of Alternate Reality Israel is not at all incompatible with
+      progressive values. The problem, of course, is that Alternate Reality Israel does
+      not exist, and has never existed. There is no alternate version of Israel that
+      anyone can point to which does not include genocide, apartheid and abuse. The
+      Zionist experiment has been run, and what we see before us is the one and only
+      result of that experiment. This is it. There are no other timelines to compare
+      and contrast this existing reality with. So when someone says they are “for Israel”
+      but against Israel’s occupation and genocide, maybe ask them which “Israel” they
+      are referring to. It can’t possibly be the one that exists in this universe, because
+      they said they oppose occupation and genocide. So where is it? Do they have some
+      sort of magical crystal ball which enables them to peer into an alternate universe
+      where Israel somehow isn’t doing these things? Show me this kindly, beneficent
+      version of Israel, please. There isn’t any. There never has been. It turns out
+      it was always impossible to create a new state where people were already living
+      and say that a new group of people gets to show up by the millions and run things
+      there, without it looking like nonstop mass-scale abuse. There was never any magical
+      way for that to happen in a way that aligns with human rights and liberal values.
+      Israel was always headed toward this, and everything we’re witnessing is the result
+      of what Israel has always been. If liberals could point to any other Israel (or
+      indeed any other brand new ethnostate placed overtop of a preexisting civilization
+      of a differing ethnicity) which has existed without tremendous injustice, tyranny
+      and abusiveness, then it would be reasonable to say that you support that thing
+      that you are pointing to but not the thing that Israel is now. If they could go
+      “Well with a bit of tweaking Israel could be like the thriving east Asian ethnostate
+      of Zim-Zam” or whatever, then maybe that could be a position with some standing.
+      But no such place exists. All they can say is that they don’t support the way
+      Israel actually is in real life. Once they see that, they’re seeing clearly. ❖
+      Timothy on YouTube asks, “Why do you not support Zelensky?” Anyone who still supports
+      Ukrainian president Volodymyr Zelensky is against Ukraine, because Zelensky is
+      acting directly against the will of the overwhelming majority of Ukrainians. Ukrainian
+      men are being violently assaulted and dragged off to fight in a war that a supermajority
+      of Ukrainians now oppose. A recent Gallup poll found that 69 percent of Ukrainians
+      now want a negotiated end to the fighting as soon as possible, with only 24 percent
+      wanting to push on to victory. But I also opposed the proxy war from the very
+      beginning, because it was a completely unnecessary waste of human life which risked
+      nuclear armageddon and could have been easily avoided with a little diplomacy.
+      It is an extensively documented fact that this war was actively provoked by NATO
+      powers, which was why so many western experts and analysts spent years warning
+      ahead of time that the west’s actions were going to lead to war in Ukraine . No
+      other major power would have allowed a rival power to amass a credible military
+      threat on its border the way NATO was doing to Russia in Ukraine ; the last time
+      anyone tried to place a military threat near the United States, Washington responded
+      so aggressively that the world almost ended . It’s an unforgivable nightmare that
+      should never have happened, and Zelensky’s cronyism toward the US empire helped
+      make it happen. ❖ Isaiah on Substack asks, “When you’re not actively fighting
+      evil or doing inner work to recover, what do you do for fun?” Not much, honestly.
+      Tim and I will spend time hanging out with family, we’ll sometimes watch a movie
+      or a show to unwind, and I’ll play games on my phone here and there, but this
+      is pretty much a 24/7 vocation for us. We don’t really have a social life, and
+      fun doesn’t feature much. We’re generally either working, talking about working,
+      doing inner work, or just loving each other. We get our enjoyment of life from
+      appreciating beauty everywhere we see it, and from loving, and from our work.
+      To keep things fresh we’ll just change up what “work” looks like — that’s what
+      the poems and paintings and other art stuff is about. We laugh and joke around
+      a lot, but looking at the way we live our life you’d probably say that we’re very
+      serious people. ❖ Snow Himbo asks on Twitter, “Given how horrifying reality is
+      at present, what are some things you still have hope in?” I still have hope in
+      young people. Gen Z haven’t just been outperforming all of us on Gaza, they’ve
+      been leading the charge. They’re simply a superior generation to the rest of us.
+      This may be because they didn’t grown up marinating in the brainwashing of the
+      mainstream media. It may also be because they’re the first generation in human
+      history ever to have the ability to create their own culture without having culture
+      imposed upon them by older generations; they’re learning about the world from
+      streamers their own age discussing ideas while playing video games and TikTok
+      personalities explaining politics while putting on makeup. The rest of us got
+      our culture solely from our parents, teachers, Hollywood, and mass media propaganda.
+      We were way more dumbed down, because knowledge was gate-kept from us. I have
+      hope in the expansion of consciousness. We’re growing so much more aware in so
+      many ways, even as things apparently get darker and darker. Gaza is opening eyes
+      at an unprecedented rate. We’re growing more and more acutely aware that all the
+      people around the world are human beings with hopes and dreams and feelings and
+      families just like us, even the people who our government and our nation exploit
+      and abuse. People understand the concept of psychological trauma and healing exponentially
+      better than they did just a few short years ago. We’re growing less racist and
+      more accepting of differences, despite the most frenetic efforts of the worst
+      among us. I still have hope in the collaborative power of the internet. They’ve
+      tried and tried to shut that down and manipulate it, but we’re still finding ways
+      to network and share information at a wildly unprecedented rate, and this has
+      dramatically altered our minds and hearts in some very interesting ways. Because
+      of widespread internet access humanity has arguably changed more in the last twenty
+      years than in the previous twenty thousand, even though we might look and talk
+      more or less the same as we did in the nineties. I still have hope in activism,
+      because it’s working. I have renewed hope in artists. We’re seeing more and more
+      art being made about real things all of a sudden now that they’re starting to
+      see how exciting and inspiring it can be to fight back against the war machine.
+      I still have hope in spiritual awakening. Humanity has a latent potential for
+      radical internal transformation which we haven’t really tapped into yet, and it’s
+      entirely possible for this potential to emerge as our existential crises push
+      us into the adapt-or-perish moment for our species. If realized at mass scale
+      this could turn things around on a dime. I still have hope in miracles. I have
+      witnessed far too many in my own life to rule out the possibility of something
+      unexpected coming from way out of left field to knock us off our trajectory toward
+      disaster and dystopia. I know from my own experience that there are dragons lurking
+      within us that are waiting to be uncaged. I still have hope because of the Palestinians.
+      If they can keep going despite everything they’ve been through, then we’ve got
+      a shot too. The other day I saw a guy in Gaza planting a tomato seed in a cut
+      open milk jug, and he was laughing with his friend. They’re still finding ways
+      to not only stay alive, but to keep the spark of living alive too. Life finds
+      a way, man. We will find a way. If you have a question you’d like answered, just
+      write it in the comments section of whatever platform you’re reading this on and
+      I’ll try to get to it. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article discusses the concept of "Alternate Reality Israel,"
+      a fictional representation of Israel that exists without the historical context
+      of violence and oppression, and addresses the challenge of explaining this discrepancy
+      to those who support Israel while opposing its actions.
+    paragraph_summary: The article addresses the contradiction faced by some individuals
+      who support Israel while opposing its occupation and actions that could be characterized
+      as genocidal. It introduces the concept of "Alternate Reality Israel," a fictional
+      version of the state that exists without the historical context of violence, ethnic
+      cleansing, and oppression that accompanied its establishment. This imagined Israel
+      aligns with progressive values and does not engage in the abuses associated with
+      the real Israel. The author argues that this alternate version does not exist,
+      and thus, those who claim to support Israel while denouncing its actions must
+      clarify which version they mean, as the reality of Israel is inextricably linked
+      to its history of conflict and oppression.
+    published: '2025-08-18T02:10:11+00:00'
+  - title: Israel Is So Evil That It Has A Military Unit Dedicated To Excusing Atrocities
+    url: https://www.caitlinjohnst.one/p/israel-is-so-evil-that-it-has-a-military
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now Israel is so fucking evil that it has a
+      military unit dedicated to coming up with excuses for the IDF’s atrocities. +972
+      reports that the IDF has a special unit it calls the “Legitimization Cell”, because
+      it is tasked with finding justifications to legitimize the assassination of journalists
+      and other war crimes for the purpose of “public relations”. Probably goes without
+      saying, but if Israel was on the side of truth and morality it would not have
+      a military unit dedicated to manipulating the public narrative about actions which
+      normal people would see as extremely evil. ❖ Israel: We can’t allow Palestinian
+      journalists to remain alive in Gaza because all the Palestinian journalists are
+      Hamas. Western journalists: Okay so let us in, that way there can be journalists
+      documenting what’s happening in Gaza who aren’t Hamas. Israel: [long pause] …
+      No. ❖ I have never been less open to people with different opinions than I am
+      with Gaza. I am simply correct, and if you disagree with me you are wrong and
+      I hate you. I have alienated various readers and online factions over the years
+      with the things I have written, but that has usually been unintentional; normally
+      I don’t like to alienate people who resonate with my work. Gaza was the first
+      time I’ve been happy to lose anyone who disagreed with me. It was like, You’re
+      leaving? Good. Get the fuck out. I’m going to keep saying what I’m saying and
+      if you don’t like it then I don’t like you. If you don’t leave then I’ll kick
+      you out myself. I like to stay open to different perspectives, and I like to have
+      people with different perspectives stay open to me. But Gaza is such an easy and
+      obvious moral question that I stand nothing to gain from any contact with anybody
+      who answers that question incorrectly. I’ve never been so fast and so confident
+      in making enemies than I have over this issue. I’m nearly as impatient with people
+      who haven’t taken a forceful side on this. It’s a sign of developing maturity
+      to be able to see both sides of an issue, but it’s a sign of further maturity
+      to understand that just because you can see both sides doesn’t mean you shouldn’t
+      take sides on important and relevant moral issues with a clear right and wrong
+      side. Stop fence-sitting on a genocide and grow the fuck up. ❖ https://x.com/caitoz/status/1955609544547352709
+      ❖ If a guy tries to rob you or rape you or murder you make sure you ask him his
+      religion before trying to stop him, because you don’t want to be accidentally
+      antisemitic. ❖ Nothing creates support for Hamas more than Israel’s actions in
+      Gaza. Nothing creates hatred of Israel more than Israel’s actions in Gaza. Nothing
+      creates hatred of Jews more than Israel’s actions in Gaza. Everything Israel’s
+      supporters complain most about is caused by Israel. ❖ The strongest argument that
+      Israel is committing genocide is that all major human rights groups say it’s a
+      genocide , including Human Rights Watch, Amnesty International, and Israeli rights
+      groups like B’Tselem, along with the overwhelming majority of genocide scholars
+      and human rights experts. The debate is over. This is a settled matter. The hasbara
+      machine hasn’t come up with a counter-argument for this. They hate it. Whenever
+      I use it they always try to push the debate in some other direction where they
+      have a counter-argument they’ve been trained to regurgitate, but when I stick
+      to the universal consensus among human rights groups they always get mad and rage
+      quit. ❖ It’s so undignified how western governments and news outlets keep talking
+      about Israel’s officially stated reasons for its actions in Gaza like we don’t
+      all know they want to get rid of the Palestinians who live there and have been
+      trying to get rid of them for generations. ❖ I love when I criticize Israel for
+      something and someone goes “Oh yeah well America does that too!” Like that’s a
+      defense. It’s like yes, those are both evil states who do evil things constantly,
+      and they work in conjunction with each other and are not meaningfully separate.
+      Yes. ❖ Being an ally of Israel or the United States is immoral for many reasons,
+      but this is especially the case during their joint genocide project in Gaza. They
+      should both be made pariah states. ❖ Start recognizing Palestinian humanity and
+      then maybe I’ll take you seriously when you talk about recognizing a Palestinian
+      state. ❖ https://x.com/caitoz/status/1955027223624421525 ❖ Opposition to the Gaza
+      holocaust has always been led from the bottom up. It started with Palestinians
+      documenting their own genocide, then ordinary westerners saw this and began opposing
+      it, then slowly the media and mainstream human rights organizations began following
+      the leadership of the people and applying scrutiny to Israel’s atrocities, and
+      then, even more slowly, western governments began feebly pushing back on Israel.
+      This has all happened in response to widespread public outcry forcing the western
+      political/media class to respond. The mass media cannot retain its legitimacy
+      in the eyes of the public if it keeps churning out brazen genocide propaganda
+      without ever scrutinizing Israel. Governments cannot retain the consent of the
+      governed if they completely ignore a mass atrocity that the public cares deeply
+      about. So they were forced to start moving, or else risk the public turning on
+      them. The primary lesson here is that we must keep pushing this issue as hard
+      as we can, because it’s working. They can’t ignore us anymore, and they’re feeling
+      the pressure. Their response has been painfully weak and inadequate, but it’s
+      infinitely more than we were seeing in the early months of the genocide. We need
+      to keep hammering this thing. The second lesson here is that our “leaders” are
+      not actually our leaders. We are leading them on the most important moral issue
+      of our time, and they are following us. It is an absolute certainty that western
+      governments and media would be ignoring Gaza if the public had ignored it too.
+      They definitely wanted us to ignore it, and for a long time it really seemed like
+      they expected us to get exhausted and drop it. It wasn’t until we made it clear
+      that this isn’t getting shuffled down the memory hole with the daily news churn
+      that we really began to see things change. We are leading this dance. So we need
+      to keep leading. Keep driving. Keep pushing. The louder our voices get, the more
+      movement we see from them. So don’t stop. ________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via IDF/Wikimedia Commons .'
+    one_sentence_summary: The article criticizes Israel for having a military unit called
+      the "Legitimization Cell," which is responsible for creating justifications for
+      the IDF's actions, including the assassination of journalists and other war crimes,
+      highlighting the moral implications of such a unit in the context of public relations.
+    paragraph_summary: The article discusses Israel's military unit known as the "Legitimization
+      Cell," which is responsible for creating justifications for the Israeli Defense
+      Forces' (IDF) actions, including the assassination of journalists and other war
+      crimes, primarily for public relations purposes. The author expresses strong condemnation
+      of Israel's tactics, arguing that a morally upright nation would not need such
+      a unit to manipulate narratives around its actions. The piece also highlights
+      the author's personal stance on the Gaza conflict, stating a firm rejection of
+      differing opinions on the matter and a willingness to alienate those who disagree,
+      emphasizing that the moral clarity of the situation leaves no room for debate.
+    published: '2025-08-17T02:22:58+00:00'
+  - title: Israel Is So Evil That It Has A Military Unit Dedicated To Excusing Atrocities
+    url: https://www.caitlinjohnst.one/p/israel-is-so-evil-that-it-has-a-military
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now Israel is so fucking evil that it has a
+      military unit dedicated to coming up with excuses for the IDF’s atrocities. +972
+      reports that the IDF has a special unit it calls the “Legitimization Cell”, because
+      it is tasked with finding justifications to legitimize the assassination of journalists
+      and other war crimes for the purpose of “public relations”. Probably goes without
+      saying, but if Israel was on the side of truth and morality it would not have
+      a military unit dedicated to manipulating the public narrative about actions which
+      normal people would see as extremely evil. ❖ Israel: We can’t allow Palestinian
+      journalists to remain alive in Gaza because all the Palestinian journalists are
+      Hamas. Western journalists: Okay so let us in, that way there can be journalists
+      documenting what’s happening in Gaza who aren’t Hamas. Israel: [long pause] …
+      No. ❖ I have never been less open to people with different opinions than I am
+      with Gaza. I am simply correct, and if you disagree with me you are wrong and
+      I hate you. I have alienated various readers and online factions over the years
+      with the things I have written, but that has usually been unintentional; normally
+      I don’t like to alienate people who resonate with my work. Gaza was the first
+      time I’ve been happy to lose anyone who disagreed with me. It was like, You’re
+      leaving? Good. Get the fuck out. I’m going to keep saying what I’m saying and
+      if you don’t like it then I don’t like you. If you don’t leave then I’ll kick
+      you out myself. I like to stay open to different perspectives, and I like to have
+      people with different perspectives stay open to me. But Gaza is such an easy and
+      obvious moral question that I stand nothing to gain from any contact with anybody
+      who answers that question incorrectly. I’ve never been so fast and so confident
+      in making enemies than I have over this issue. I’m nearly as impatient with people
+      who haven’t taken a forceful side on this. It’s a sign of developing maturity
+      to be able to see both sides of an issue, but it’s a sign of further maturity
+      to understand that just because you can see both sides doesn’t mean you shouldn’t
+      take sides on important and relevant moral issues with a clear right and wrong
+      side. Stop fence-sitting on a genocide and grow the fuck up. ❖ https://x.com/caitoz/status/1955609544547352709
+      ❖ If a guy tries to rob you or rape you or murder you make sure you ask him his
+      religion before trying to stop him, because you don’t want to be accidentally
+      antisemitic. ❖ Nothing creates support for Hamas more than Israel’s actions in
+      Gaza. Nothing creates hatred of Israel more than Israel’s actions in Gaza. Nothing
+      creates hatred of Jews more than Israel’s actions in Gaza. Everything Israel’s
+      supporters complain most about is caused by Israel. ❖ The strongest argument that
+      Israel is committing genocide is that all major human rights groups say it’s a
+      genocide , including Human Rights Watch, Amnesty International, and Israeli rights
+      groups like B’Tselem, along with the overwhelming majority of genocide scholars
+      and human rights experts. The debate is over. This is a settled matter. The hasbara
+      machine hasn’t come up with a counter-argument for this. They hate it. Whenever
+      I use it they always try to push the debate in some other direction where they
+      have a counter-argument they’ve been trained to regurgitate, but when I stick
+      to the universal consensus among human rights groups they always get mad and rage
+      quit. ❖ It’s so undignified how western governments and news outlets keep talking
+      about Israel’s officially stated reasons for its actions in Gaza like we don’t
+      all know they want to get rid of the Palestinians who live there and have been
+      trying to get rid of them for generations. ❖ I love when I criticize Israel for
+      something and someone goes “Oh yeah well America does that too!” Like that’s a
+      defense. It’s like yes, those are both evil states who do evil things constantly,
+      and they work in conjunction with each other and are not meaningfully separate.
+      Yes. ❖ Being an ally of Israel or the United States is immoral for many reasons,
+      but this is especially the case during their joint genocide project in Gaza. They
+      should both be made pariah states. ❖ Start recognizing Palestinian humanity and
+      then maybe I’ll take you seriously when you talk about recognizing a Palestinian
+      state. ❖ https://x.com/caitoz/status/1955027223624421525 ❖ Opposition to the Gaza
+      holocaust has always been led from the bottom up. It started with Palestinians
+      documenting their own genocide, then ordinary westerners saw this and began opposing
+      it, then slowly the media and mainstream human rights organizations began following
+      the leadership of the people and applying scrutiny to Israel’s atrocities, and
+      then, even more slowly, western governments began feebly pushing back on Israel.
+      This has all happened in response to widespread public outcry forcing the western
+      political/media class to respond. The mass media cannot retain its legitimacy
+      in the eyes of the public if it keeps churning out brazen genocide propaganda
+      without ever scrutinizing Israel. Governments cannot retain the consent of the
+      governed if they completely ignore a mass atrocity that the public cares deeply
+      about. So they were forced to start moving, or else risk the public turning on
+      them. The primary lesson here is that we must keep pushing this issue as hard
+      as we can, because it’s working. They can’t ignore us anymore, and they’re feeling
+      the pressure. Their response has been painfully weak and inadequate, but it’s
+      infinitely more than we were seeing in the early months of the genocide. We need
+      to keep hammering this thing. The second lesson here is that our “leaders” are
+      not actually our leaders. We are leading them on the most important moral issue
+      of our time, and they are following us. It is an absolute certainty that western
+      governments and media would be ignoring Gaza if the public had ignored it too.
+      They definitely wanted us to ignore it, and for a long time it really seemed like
+      they expected us to get exhausted and drop it. It wasn’t until we made it clear
+      that this isn’t getting shuffled down the memory hole with the daily news churn
+      that we really began to see things change. We are leading this dance. So we need
+      to keep leading. Keep driving. Keep pushing. The louder our voices get, the more
+      movement we see from them. So don’t stop. ________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via IDF/Wikimedia Commons .'
+    one_sentence_summary: The article criticizes Israel for having a military unit called
+      the "Legitimization Cell," which is responsible for creating justifications for
+      the IDF's actions, including the assassination of journalists and other war crimes,
+      highlighting the moral implications of such a unit in the context of public relations.
+    paragraph_summary: The article discusses Israel's military unit known as the "Legitimization
+      Cell," which is responsible for creating justifications for the Israeli Defense
+      Forces' (IDF) actions, including the assassination of journalists and other war
+      crimes, primarily for public relations purposes. The author expresses strong condemnation
+      of Israel's tactics, arguing that a morally upright nation would not need such
+      a unit to manipulate narratives around its actions. The piece also highlights
+      the author's personal stance on the Gaza conflict, stating a firm rejection of
+      differing opinions on the matter and a willingness to alienate those who disagree,
+      emphasizing that the moral clarity of the situation leaves no room for debate.
+    published: '2025-08-17T02:22:58+00:00'
+  - title: Stop Giving Israeli Officials A Media Platform To Spout Lies
+    url: https://www.caitlinjohnst.one/p/stop-giving-israeli-officials-a-media
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Australia’s state broadcaster the ABC gave extensive airtime to Israeli deputy
+      foreign affairs minister Sharren Haskel on Friday, allowing her to voice her objections
+      to Australian demonstrations against the very genocide that she and her government
+      are presently committing in Gaza. Haskel’s statements were then picked up and
+      printed in outlets like The Guardian , quoting at length her lies denying Israel’s
+      deliberate starvation of Palestinians and her assertion that anti-genocide protesters
+      are “useful idiots” who fell for “terrorist propaganda”. In an effort to give
+      equal weight to both sides of the issue, The Guardian also quotes a response from
+      a spokesperson for the Palestine Action Group, which helped coordinate the massive
+      march over the Sydney Harbour Bridge earlier this month. “The only useful idiots
+      here are those in the media who continue to print Israeli propaganda despite two
+      years of being consistently lied to,” the spokesperson said. I don’t know how
+      anyone could possibly disagree with this. It’s absolutely ridiculous to be giving
+      these freaks a platform to spout lies in the latter half of the year 2025. https://x.com/EddyJokovich/status/1956216779174502465
+      Stop platforming Israeli government officials and professional genocide apologists.
+      Stop asking them what they think. Stop presenting their lies and manipulations
+      as news stories. Stop asking them if they agree with their critics. Stop doing
+      it. Stop. Who cares if the government official who is perpetrating a genocide
+      is offended by people saying she’s committing genocide? Who cares if a murderer
+      dislikes being called a murderer while in the middle of an act of murder? Who
+      cares if it hurts their feelings to be told they’re doing the thing that they
+      are doing? Who gives a single solitary fuck? Of course the people committing the
+      genocide don’t want people saying they’re committing genocide. Of course they
+      don’t. It does not matter. It’s completely irrelevant. Stop treating that like
+      it’s a news story. Every major human rights group on earth says this is a genocide
+      , including Israeli groups. Genocide scholars and human rights experts around
+      the world are in overwhelming in agreement on this. Once a consensus has been
+      reached on that scale, there is no longer any journalistic obligation to keep
+      asking the people doing the genocide whether they agree that it’s a genocide or
+      how it makes their feelings feel to hear people say that it is. The facts at this
+      point are so well-established that continuing to give them a broad platform and
+      report on what they say is the same as platforming people who believe Hitler was
+      a good guy who should have finished the job. The only moral difference is that
+      Hitler’s genocide is over so news outlets wouldn’t be actively helping him perpetrate
+      an active genocide like they are in the case of Israel. https://x.com/caitoz/status/1953585294017691799
+      We need to make Israel and its supporters own the shame of their lies. When you’ve
+      got Netanyahu telling Fox News that Gaza looks the way it looks because Hamas
+      put explosives inside “ every single building ”, that’s the kind of lie that’s
+      meant to humiliate you. It’s commanding a slave to believe two plus two equals
+      five just to demonstrate how completely dominated they are. It’s a public humiliation
+      ritual, and they should be the ones who are humiliated. In a normal situation,
+      someone saying that Gaza looks like a gravel parking lot because Hamas put explosives
+      in all the buildings would be looked at like they were wearing a gimp mask while
+      covered in bodily fluids in public. It’s just so submissive and cucky. The hospitals
+      are all Hamas bases. UNRWA is a Hamas stronghold. The journalists are all terrorists.
+      The starving civilians aren’t really starving. Civilians are dying in such high
+      numbers because there are Hamas members hiding behind all the civilians. The UN,
+      Human Rights Watch, Amnesty International and all major human rights groups all
+      say the things they say because they secretly hate Jews. This obvious land grab
+      is actually about hostages and October 7. Stating self-evident facts is antisemitic
+      blood libel. These aren’t just lies, they are insults to our intelligence. They
+      are intended to degrade and humiliate us. To believe them is an exercise in self-debasement.
+      They may as well be literally urinating on us and demanding that we say it’s raining.
+      This is backwards. We’re not the ones who should feel humiliated. We’re not the
+      ones presenting these ridiculous fairytales as true. We’re not the ones committing
+      genocide. This is their shame. It belongs to them. And we will know we’ve won
+      when this is how their lies and atrocities get treated in mainstream discourse.
+      The shame will be placed directly where it belongs. We will know things have moved
+      toward health when the standard response to an Israel apologist telling obvious
+      lies is a knee-jerk “How embarrassing for you to have to say that like you think
+      it’s true. You’re either a liar or a sucker, and either way, shame on you. You’re
+      either a deceitful freak trying to psychologically manipulate me into supporting
+      the worst things in the world, or you’re a moronic dupe who’s debased themselves
+      by swallowing obvious lies. Either way it’s a pathetic, disgusting, shameful way
+      to live.” When we’ve moved toward health this will be the standard response, whether
+      it’s in day to day conversation, online interactions, or someone spouting lies
+      on a mainstream punditry show. This is the healthy response to atrociously shameful
+      behavior. _______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image is a screen grab from Fox News (Fair Use).'
+    one_sentence_summary: Australia's ABC provided significant airtime to Israeli deputy
+      foreign affairs minister Sharren Haskel to express her views against Australian
+      protests regarding the Gaza conflict, which were subsequently reported by The
+      Guardian alongside a response from the Palestine Action Group criticizing the
+      media's portrayal of the situation.
+    paragraph_summary: The article criticizes Australia's ABC for providing a platform
+      to Israeli Deputy Foreign Affairs Minister Sharren Haskel, allowing her to express
+      objections to Australian protests against Israel's actions in Gaza, which the
+      author characterizes as genocide. Haskel's claims, including denials of Israel's
+      deliberate starvation of Palestinians and her labeling of anti-genocide protesters
+      as "useful idiots," were reported by outlets like The Guardian, which also included
+      a counter-response from the Palestine Action Group. The author argues against
+      giving voice to Israeli officials who are perceived as propagating lies while
+      committing acts of violence, asserting that the media should not prioritize their
+      feelings or perspectives over the realities of their actions.
+    published: '2025-08-16T02:39:25+00:00'
+  - title: Stop Giving Israeli Officials A Media Platform To Spout Lies
+    url: https://www.caitlinjohnst.one/p/stop-giving-israeli-officials-a-media
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Australia’s state broadcaster the ABC gave extensive airtime to Israeli deputy
+      foreign affairs minister Sharren Haskel on Friday, allowing her to voice her objections
+      to Australian demonstrations against the very genocide that she and her government
+      are presently committing in Gaza. Haskel’s statements were then picked up and
+      printed in outlets like The Guardian , quoting at length her lies denying Israel’s
+      deliberate starvation of Palestinians and her assertion that anti-genocide protesters
+      are “useful idiots” who fell for “terrorist propaganda”. In an effort to give
+      equal weight to both sides of the issue, The Guardian also quotes a response from
+      a spokesperson for the Palestine Action Group, which helped coordinate the massive
+      march over the Sydney Harbour Bridge earlier this month. “The only useful idiots
+      here are those in the media who continue to print Israeli propaganda despite two
+      years of being consistently lied to,” the spokesperson said. I don’t know how
+      anyone could possibly disagree with this. It’s absolutely ridiculous to be giving
+      these freaks a platform to spout lies in the latter half of the year 2025. https://x.com/EddyJokovich/status/1956216779174502465
+      Stop platforming Israeli government officials and professional genocide apologists.
+      Stop asking them what they think. Stop presenting their lies and manipulations
+      as news stories. Stop asking them if they agree with their critics. Stop doing
+      it. Stop. Who cares if the government official who is perpetrating a genocide
+      is offended by people saying she’s committing genocide? Who cares if a murderer
+      dislikes being called a murderer while in the middle of an act of murder? Who
+      cares if it hurts their feelings to be told they’re doing the thing that they
+      are doing? Who gives a single solitary fuck? Of course the people committing the
+      genocide don’t want people saying they’re committing genocide. Of course they
+      don’t. It does not matter. It’s completely irrelevant. Stop treating that like
+      it’s a news story. Every major human rights group on earth says this is a genocide
+      , including Israeli groups. Genocide scholars and human rights experts around
+      the world are in overwhelming in agreement on this. Once a consensus has been
+      reached on that scale, there is no longer any journalistic obligation to keep
+      asking the people doing the genocide whether they agree that it’s a genocide or
+      how it makes their feelings feel to hear people say that it is. The facts at this
+      point are so well-established that continuing to give them a broad platform and
+      report on what they say is the same as platforming people who believe Hitler was
+      a good guy who should have finished the job. The only moral difference is that
+      Hitler’s genocide is over so news outlets wouldn’t be actively helping him perpetrate
+      an active genocide like they are in the case of Israel. https://x.com/caitoz/status/1953585294017691799
+      We need to make Israel and its supporters own the shame of their lies. When you’ve
+      got Netanyahu telling Fox News that Gaza looks the way it looks because Hamas
+      put explosives inside “ every single building ”, that’s the kind of lie that’s
+      meant to humiliate you. It’s commanding a slave to believe two plus two equals
+      five just to demonstrate how completely dominated they are. It’s a public humiliation
+      ritual, and they should be the ones who are humiliated. In a normal situation,
+      someone saying that Gaza looks like a gravel parking lot because Hamas put explosives
+      in all the buildings would be looked at like they were wearing a gimp mask while
+      covered in bodily fluids in public. It’s just so submissive and cucky. The hospitals
+      are all Hamas bases. UNRWA is a Hamas stronghold. The journalists are all terrorists.
+      The starving civilians aren’t really starving. Civilians are dying in such high
+      numbers because there are Hamas members hiding behind all the civilians. The UN,
+      Human Rights Watch, Amnesty International and all major human rights groups all
+      say the things they say because they secretly hate Jews. This obvious land grab
+      is actually about hostages and October 7. Stating self-evident facts is antisemitic
+      blood libel. These aren’t just lies, they are insults to our intelligence. They
+      are intended to degrade and humiliate us. To believe them is an exercise in self-debasement.
+      They may as well be literally urinating on us and demanding that we say it’s raining.
+      This is backwards. We’re not the ones who should feel humiliated. We’re not the
+      ones presenting these ridiculous fairytales as true. We’re not the ones committing
+      genocide. This is their shame. It belongs to them. And we will know we’ve won
+      when this is how their lies and atrocities get treated in mainstream discourse.
+      The shame will be placed directly where it belongs. We will know things have moved
+      toward health when the standard response to an Israel apologist telling obvious
+      lies is a knee-jerk “How embarrassing for you to have to say that like you think
+      it’s true. You’re either a liar or a sucker, and either way, shame on you. You’re
+      either a deceitful freak trying to psychologically manipulate me into supporting
+      the worst things in the world, or you’re a moronic dupe who’s debased themselves
+      by swallowing obvious lies. Either way it’s a pathetic, disgusting, shameful way
+      to live.” When we’ve moved toward health this will be the standard response, whether
+      it’s in day to day conversation, online interactions, or someone spouting lies
+      on a mainstream punditry show. This is the healthy response to atrociously shameful
+      behavior. _______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image is a screen grab from Fox News (Fair Use).'
+    one_sentence_summary: Australia's ABC provided significant airtime to Israeli deputy
+      foreign affairs minister Sharren Haskel to express her views against Australian
+      protests regarding the Gaza conflict, which were subsequently reported by The
+      Guardian alongside a response from the Palestine Action Group criticizing the
+      media's portrayal of the situation.
+    paragraph_summary: The article criticizes Australia's ABC for providing a platform
+      to Israeli Deputy Foreign Affairs Minister Sharren Haskel, allowing her to express
+      objections to Australian protests against Israel's actions in Gaza, which the
+      author characterizes as genocide. Haskel's claims, including denials of Israel's
+      deliberate starvation of Palestinians and her labeling of anti-genocide protesters
+      as "useful idiots," were reported by outlets like The Guardian, which also included
+      a counter-response from the Palestine Action Group. The author argues against
+      giving voice to Israeli officials who are perceived as propagating lies while
+      committing acts of violence, asserting that the media should not prioritize their
+      feelings or perspectives over the realities of their actions.
+    published: '2025-08-16T02:39:25+00:00'
+  - title: Gaza Doesn't Need Our Tears, It Needs Our Anger
+    url: https://www.caitlinjohnst.one/p/gaza-doesnt-need-our-tears-it-needs
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Celebrities are finally speaking out about Gaza after two years of genocide, but
+      there’s been something off about it that hasn’t been sitting right. A Palestinian
+      named Maria Odeh Fakhouri made a great point on Instagram which put her finger
+      on it: Notice how celebrities speaking up now aren’t really all that angry. Their
+      statements are about “heartbreak” and sadness. They are modeling passivity to
+      the masses as we enter into this next stage of societal awareness. They communicate
+      to their fans: be sad about genocide but ignore it for awhile first. And then
+      start talking about how sad it is a couple of years later. They are agents of
+      colonial brainwashing. https://x.com/MintPressNews/status/1956026799248343231
+      I feel this so hard. Gaza doesn’t need our sadness, it needs out anger. It needs
+      our rage. That’s the only appropriate response to a live-streamed genocide supported
+      by your own government. Sadness and grief are for natural disasters. Cancer diagnoses.
+      Terrible accidents. This is not something that has passively happened to the people
+      of Gaza, it’s something that’s been done to them by other people, and the people
+      who are doing it have names and faces. It’s not a tragedy, it’s a crime. A crime
+      that is still currently being perpetrated and urgently needs to be stopped, by
+      any means necessary. The correct response is rage. Rage toward the people who
+      are responsible for this mass atrocity. The officials of the Israeli government
+      and all their western allies. Their apologists and propagandists in the mainstream
+      press. The war profiteers who are benefiting from an active genocide. Individual
+      members of the IDF. The hasbarists who swarm social media and pollute our information
+      ecosystem with manipulation and lies. Celebrities and influencers who urge us
+      to weep for Gaza are pushing us into passivity and defeatism by urging us to treat
+      this like an unavoidable tragedy that has already happened instead of an unforgivable
+      atrocity that is still underway. This is power-serving propaganda, and it deserves
+      nothing but scorn. https://x.com/Kahlissee/status/1955373270628438364 People often
+      use anger in unwholesome ways in our society, but that doesn’t mean there’s not
+      a healthy place for it. Every human emotion has healthy applications and unhealthy
+      applications, and anger is no different. When someone is crossing a line which
+      does harm to someone else, anger is an entirely appropriate and correct response
+      in that moment, and when it’s applied consciously and with care it can yield very
+      positive results. Sometimes people need to be pushed back to the other side of
+      the line they are crossing with red hot heat. Emotions are tools; they only become
+      unhealthy when those tools are pointed at things other than their intended purpose.
+      Anger at someone who made an innocent mistake. Delight in the suffering of others.
+      Sadness and heartbreak in the face of monstrous injustice. These are emotions
+      applied incorrectly. Do not weep for Gaza. Rage for Gaza. Protest for Gaza. Take
+      direct action for Gaza. Ruin people’s day for Gaza. Ruin people’s careers for
+      Gaza. Don’t let the facilitators of this nightmare have a moment’s peace. Don’t
+      let them go on with their lives like what they did was no big deal. This isn’t
+      sad, it’s enraging. And it deserves a response of unmitigated forceful aggression.
+      ___________________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image by Jaber Jehad Badwan via Wikimedia Commons .'
+    one_sentence_summary: Celebrities are finally addressing the situation in Gaza after
+      years of violence, but their focus on sadness rather than anger is seen as a passive
+      response that fails to inspire meaningful action against the ongoing genocide.
+    paragraph_summary: Celebrities have begun to speak out about the ongoing situation
+      in Gaza, but their responses have been criticized for lacking the necessary anger
+      and urgency. Palestinian activist Maria Odeh Fakhouri highlighted that these public
+      figures often express sadness rather than outrage, which may inadvertently promote
+      passivity among their followers. The article argues that Gaza requires a response
+      of rage against the perpetrators of the violence, including the Israeli government
+      and its allies, rather than mere expressions of heartbreak. It emphasizes that
+      the situation is not a tragic accident but an ongoing crime that demands immediate
+      action and accountability, rather than a resigned acceptance of grief.
+    published: '2025-08-15T01:16:41+00:00'
+  - title: Gaza Doesn't Need Our Tears, It Needs Our Anger
+    url: https://www.caitlinjohnst.one/p/gaza-doesnt-need-our-tears-it-needs
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Celebrities are finally speaking out about Gaza after two years of genocide, but
+      there’s been something off about it that hasn’t been sitting right. A Palestinian
+      named Maria Odeh Fakhouri made a great point on Instagram which put her finger
+      on it: Notice how celebrities speaking up now aren’t really all that angry. Their
+      statements are about “heartbreak” and sadness. They are modeling passivity to
+      the masses as we enter into this next stage of societal awareness. They communicate
+      to their fans: be sad about genocide but ignore it for awhile first. And then
+      start talking about how sad it is a couple of years later. They are agents of
+      colonial brainwashing. https://x.com/MintPressNews/status/1956026799248343231
+      I feel this so hard. Gaza doesn’t need our sadness, it needs out anger. It needs
+      our rage. That’s the only appropriate response to a live-streamed genocide supported
+      by your own government. Sadness and grief are for natural disasters. Cancer diagnoses.
+      Terrible accidents. This is not something that has passively happened to the people
+      of Gaza, it’s something that’s been done to them by other people, and the people
+      who are doing it have names and faces. It’s not a tragedy, it’s a crime. A crime
+      that is still currently being perpetrated and urgently needs to be stopped, by
+      any means necessary. The correct response is rage. Rage toward the people who
+      are responsible for this mass atrocity. The officials of the Israeli government
+      and all their western allies. Their apologists and propagandists in the mainstream
+      press. The war profiteers who are benefiting from an active genocide. Individual
+      members of the IDF. The hasbarists who swarm social media and pollute our information
+      ecosystem with manipulation and lies. Celebrities and influencers who urge us
+      to weep for Gaza are pushing us into passivity and defeatism by urging us to treat
+      this like an unavoidable tragedy that has already happened instead of an unforgivable
+      atrocity that is still underway. This is power-serving propaganda, and it deserves
+      nothing but scorn. https://x.com/Kahlissee/status/1955373270628438364 People often
+      use anger in unwholesome ways in our society, but that doesn’t mean there’s not
+      a healthy place for it. Every human emotion has healthy applications and unhealthy
+      applications, and anger is no different. When someone is crossing a line which
+      does harm to someone else, anger is an entirely appropriate and correct response
+      in that moment, and when it’s applied consciously and with care it can yield very
+      positive results. Sometimes people need to be pushed back to the other side of
+      the line they are crossing with red hot heat. Emotions are tools; they only become
+      unhealthy when those tools are pointed at things other than their intended purpose.
+      Anger at someone who made an innocent mistake. Delight in the suffering of others.
+      Sadness and heartbreak in the face of monstrous injustice. These are emotions
+      applied incorrectly. Do not weep for Gaza. Rage for Gaza. Protest for Gaza. Take
+      direct action for Gaza. Ruin people’s day for Gaza. Ruin people’s careers for
+      Gaza. Don’t let the facilitators of this nightmare have a moment’s peace. Don’t
+      let them go on with their lives like what they did was no big deal. This isn’t
+      sad, it’s enraging. And it deserves a response of unmitigated forceful aggression.
+      ___________________ Caitlin’s Newsletter is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image by Jaber Jehad Badwan via Wikimedia Commons .'
+    one_sentence_summary: Celebrities are finally addressing the situation in Gaza after
+      years of violence, but their focus on sadness rather than anger is seen as a passive
+      response that fails to inspire meaningful action against the ongoing genocide.
+    paragraph_summary: Celebrities have begun to speak out about the ongoing situation
+      in Gaza, but their responses have been criticized for lacking the necessary anger
+      and urgency. Palestinian activist Maria Odeh Fakhouri highlighted that these public
+      figures often express sadness rather than outrage, which may inadvertently promote
+      passivity among their followers. The article argues that Gaza requires a response
+      of rage against the perpetrators of the violence, including the Israeli government
+      and its allies, rather than mere expressions of heartbreak. It emphasizes that
+      the situation is not a tragic accident but an ongoing crime that demands immediate
+      action and accountability, rather than a resigned acceptance of grief.
+    published: '2025-08-15T01:16:41+00:00'
+  - title: The Biblical Case For Supporting Israel
+    url: https://www.caitlinjohnst.one/p/the-biblical-case-for-supporting
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      During a speech in South Carolina, US Senator Lindsey Graham warned that God will
+      “pull the plug” on Americans if they stop supporting Israel. “This is not a hard
+      choice if you’re an American. It’s not a hard choice if you’re a Christian,” Graham
+      said . “A word of warning: if America pulls the plug on Israel, God will pull
+      the plug on us. And we’re not going to let that happen.” https://x.com/LindseyGrahamSC/status/1955724036346142993
+      The senator is correct, of course. What, do you doubt him? God clearly and explicitly
+      commands Christians to support the modern state of Israel. It’s right here in
+      the Holy Bible; give me a moment and I’ll find the verse for you. Aha! Got it.
+      Exodus 20:13, “You shall not murder.” Wait, hold on, that’s not it. Here it is,
+      Matthew 5:9, “Blessed are the peacemakers.” Hang on, shoot, that’s not the one.
+      What I meant to say is Lamentations 2:19, “Lift your hands to him for the lives
+      of your children, who faint for hunger at the head of every street.” Ah, wrong
+      one, lemme thumb through this a bit more. Got it! Proverbs 24:11, “Rescue those
+      who are being taken away to death; hold back those who are stumbling to the slaughter.”
+      Wait, sorry, no, it’s Psalm 101:7, “No one who practices deceit shall dwell in
+      my house; no one who utters lies shall continue before my eyes.” Oh no actually
+      it’s Proverbs 6:16–19, “There are six things that the Lord hates, seven that are
+      an abomination to him: haughty eyes, a lying tongue, and hands that shed innocent
+      blood, a heart that devises wicked plans, feet that make haste to run to evil,
+      a false witness who breathes out lies, and one who sows discord among brothers.”
+      Oops, no, it’s definitely not that one. Actually it’s Deuteronomy 27:25, “Cursed
+      be anyone who takes a bribe to shed innocent blood.” No, dang it, that makes AIPAC
+      recipients sound bad. Gimme a minute. Ah! Mark 12:31, “You shall love your neighbor
+      as yourself.” No, wait, got it! Here it is, Romans 14:19, “Let us therefore make
+      every effort to do what leads to peace and to mutual edification.” Oh no, that
+      isn’t the one I was looking for, it was Second Corinthians 13:11, “Strive for
+      full restoration, encourage one another, be of one mind, live in peace. And the
+      God of love and peace will be with you.” Oh actually that one sounds kind of antisemitic
+      in this context, gimme a sec. Got it! Ephesians 4:3, “Make every effort to keep
+      the unity of the Spirit through the bond of peace.” Hold on, that’s not it either.
+      The one I meant to cite was Hebrews 12:14, “Make every effort to live in peace
+      with everyone and to be holy; without holiness no one will see the Lord.” Oh boy,
+      this really isn’t going well. Lemme see… oh! James 3:18, “Peacemakers who sow
+      in peace reap a harvest of righteousness.” Gosh darn it, I made a mistake. The
+      verse I meant to point to was First Peter 3:11, “They must turn from evil and
+      do good; they must seek peace and pursue it.” Wait, no, it was Galatians 5:22,
+      “But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness,
+      faithfulness, gentleness and self-control.” Actually it was Luke 6:35–36, “But
+      love your enemies, do good to them, and lend to them without expecting to get
+      anything back. Then your reward will be great, and you will be children of the
+      Most High, because he is kind to the ungrateful and wicked. Be merciful, just
+      as your Father is merciful.” Oops, no, nope. Man this is way harder than I thought
+      it was going to be. Oh! Hey! Found it! It was right here in Genesis the whole
+      time, chapter 12, verse 3: “I will bless those who bless you, and whoever curses
+      you I will curse; and all peoples on earth will be blessed through you.” There!
+      See? It’s right there in black and white. God’s saying we are commanded to support
+      a modern state that we created in 1948, no matter what it does. The Bible is entirely
+      clear and unequivocal about this, and says absolutely nothing to the contrary.
+      Checkmate, heathen. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Gage Skidmore ( CC BY-SA
+      2.0 ).'
+    one_sentence_summary: During a speech in South Carolina, Senator Lindsey Graham
+      warned that if America stops supporting Israel, it risks divine retribution, asserting
+      that this is a clear moral obligation for Americans and Christians.
+    paragraph_summary: During a speech in South Carolina, Senator Lindsey Graham emphasized
+      the importance of American support for Israel, warning that a lack of support
+      could lead to divine repercussions, stating, “if America pulls the plug on Israel,
+      God will pull the plug on us.” He framed the issue as a clear moral choice for
+      Americans and Christians alike. The article humorously critiques Graham's assertion
+      by playfully searching for biblical verses that supposedly command support for
+      Israel, ultimately highlighting the difficulty in finding specific scriptural
+      backing for his claims while pointing out the broader themes of compassion and
+      justice found in the Bible.
+    published: '2025-08-14T01:51:55+00:00'
+  - title: The Biblical Case For Supporting Israel
+    url: https://www.caitlinjohnst.one/p/the-biblical-case-for-supporting
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      During a speech in South Carolina, US Senator Lindsey Graham warned that God will
+      “pull the plug” on Americans if they stop supporting Israel. “This is not a hard
+      choice if you’re an American. It’s not a hard choice if you’re a Christian,” Graham
+      said . “A word of warning: if America pulls the plug on Israel, God will pull
+      the plug on us. And we’re not going to let that happen.” https://x.com/LindseyGrahamSC/status/1955724036346142993
+      The senator is correct, of course. What, do you doubt him? God clearly and explicitly
+      commands Christians to support the modern state of Israel. It’s right here in
+      the Holy Bible; give me a moment and I’ll find the verse for you. Aha! Got it.
+      Exodus 20:13, “You shall not murder.” Wait, hold on, that’s not it. Here it is,
+      Matthew 5:9, “Blessed are the peacemakers.” Hang on, shoot, that’s not the one.
+      What I meant to say is Lamentations 2:19, “Lift your hands to him for the lives
+      of your children, who faint for hunger at the head of every street.” Ah, wrong
+      one, lemme thumb through this a bit more. Got it! Proverbs 24:11, “Rescue those
+      who are being taken away to death; hold back those who are stumbling to the slaughter.”
+      Wait, sorry, no, it’s Psalm 101:7, “No one who practices deceit shall dwell in
+      my house; no one who utters lies shall continue before my eyes.” Oh no actually
+      it’s Proverbs 6:16–19, “There are six things that the Lord hates, seven that are
+      an abomination to him: haughty eyes, a lying tongue, and hands that shed innocent
+      blood, a heart that devises wicked plans, feet that make haste to run to evil,
+      a false witness who breathes out lies, and one who sows discord among brothers.”
+      Oops, no, it’s definitely not that one. Actually it’s Deuteronomy 27:25, “Cursed
+      be anyone who takes a bribe to shed innocent blood.” No, dang it, that makes AIPAC
+      recipients sound bad. Gimme a minute. Ah! Mark 12:31, “You shall love your neighbor
+      as yourself.” No, wait, got it! Here it is, Romans 14:19, “Let us therefore make
+      every effort to do what leads to peace and to mutual edification.” Oh no, that
+      isn’t the one I was looking for, it was Second Corinthians 13:11, “Strive for
+      full restoration, encourage one another, be of one mind, live in peace. And the
+      God of love and peace will be with you.” Oh actually that one sounds kind of antisemitic
+      in this context, gimme a sec. Got it! Ephesians 4:3, “Make every effort to keep
+      the unity of the Spirit through the bond of peace.” Hold on, that’s not it either.
+      The one I meant to cite was Hebrews 12:14, “Make every effort to live in peace
+      with everyone and to be holy; without holiness no one will see the Lord.” Oh boy,
+      this really isn’t going well. Lemme see… oh! James 3:18, “Peacemakers who sow
+      in peace reap a harvest of righteousness.” Gosh darn it, I made a mistake. The
+      verse I meant to point to was First Peter 3:11, “They must turn from evil and
+      do good; they must seek peace and pursue it.” Wait, no, it was Galatians 5:22,
+      “But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness,
+      faithfulness, gentleness and self-control.” Actually it was Luke 6:35–36, “But
+      love your enemies, do good to them, and lend to them without expecting to get
+      anything back. Then your reward will be great, and you will be children of the
+      Most High, because he is kind to the ungrateful and wicked. Be merciful, just
+      as your Father is merciful.” Oops, no, nope. Man this is way harder than I thought
+      it was going to be. Oh! Hey! Found it! It was right here in Genesis the whole
+      time, chapter 12, verse 3: “I will bless those who bless you, and whoever curses
+      you I will curse; and all peoples on earth will be blessed through you.” There!
+      See? It’s right there in black and white. God’s saying we are commanded to support
+      a modern state that we created in 1948, no matter what it does. The Bible is entirely
+      clear and unequivocal about this, and says absolutely nothing to the contrary.
+      Checkmate, heathen. _______________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Gage Skidmore ( CC BY-SA
+      2.0 ).'
+    one_sentence_summary: During a speech in South Carolina, Senator Lindsey Graham
+      warned that if America stops supporting Israel, it risks divine retribution, asserting
+      that this is a clear moral obligation for Americans and Christians.
+    paragraph_summary: During a speech in South Carolina, Senator Lindsey Graham emphasized
+      the importance of American support for Israel, warning that a lack of support
+      could lead to divine repercussions, stating, “if America pulls the plug on Israel,
+      God will pull the plug on us.” He framed the issue as a clear moral choice for
+      Americans and Christians alike. The article humorously critiques Graham's assertion
+      by playfully searching for biblical verses that supposedly command support for
+      Israel, ultimately highlighting the difficulty in finding specific scriptural
+      backing for his claims while pointing out the broader themes of compassion and
+      justice found in the Bible.
+    published: '2025-08-14T01:51:55+00:00'
   - title: The Two-State Solution Sham, And Other Reader Questions
     url: https://www.caitlinjohnst.one/p/the-two-state-solution-sham-and-other
     text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now

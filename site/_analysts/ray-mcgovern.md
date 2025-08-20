@@ -7,16 +7,652 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  The ongoing crisis in Gaza continues to dominate geopolitical analysis, with recent reports highlighting both the West’s slow response and the intensifying violence against journalists. The broader context remains one of mounting international scrutiny of Israel’s actions, as well as growing calls for accountability and a reassessment of Western policy.
+  As of August 20, 2025, the geopolitical landscape remains shaped by persistent crises in Ukraine and Gaza, with new developments in diplomatic recognition and Western policy responses.
   
-  The latest development, as discussed by **Ramzy Baroud**, is the West’s persistent reluctance to fully acknowledge the scale and nature of Israel’s operations in Gaza. Baroud argues this reflects a “longstanding pattern of denying Palestinians the opportunity to narrate their own experiences,” suggesting that Western governments are still prioritizing strategic alliances over human rights concerns. This delay in recognition is fueling frustration among advocates and is seen as a betrayal by many in the region.
+  The Ukraine conflict continues to dominate headlines, but **Joe Lauria** cautions that the recent uptick in high-level diplomatic activity may be less significant than portrayed. According to Lauria, “real progress hinges on Donald Trump’s uncertain commitment,” suggesting that the outcome of negotiations is closely tied to the unpredictable U.S. political environment. This view is echoed by **Ray McGovern**, who highlights doubts about the so-called “Seven Dwarfs”—a group of Western allies—being able or willing to sustain the necessary arms and financial support for Ukraine. This raises questions about the durability of Western backing for President Zelensky’s government and rhetoric.
   
-  Domestically in the United States, **Max Richtman** has raised alarms about potential threats to Medicare, which just marked its 60th anniversary. Richtman calls on Americans to defend the program from possible cuts by the White House and Congress, emphasizing its legacy as a cornerstone of the Great Society. This development signals that social policy debates are intensifying in Washington, with significant implications for millions of Americans.
+  Meanwhile, the Palestinian issue has seen a notable shift. The U.N. Secretary General’s acceptance of Palestine’s membership application is interpreted by **Ray McGovern** as de facto recognition of Palestinian statehood, since only states are eligible to apply. This procedural development is reinforced by a growing trend among European countries to recognize Palestine, largely in response to the ongoing humanitarian crisis in Gaza. Three Al Shabaka policy experts, cited by McGovern, argue that this recognition is a direct reaction to the situation on the ground, signaling a shift in international attitudes even as the conflict remains unresolved.
   
-  Looking at the trends, the majority of analysts agree that Western governments are under increasing pressure to reassess their positions on Israel and Palestine, especially as public protests and international condemnation grow. There is a high chance that, if current patterns persist, Western acknowledgment of Palestinian suffering will remain limited and delayed, but grassroots activism and legal challenges may gradually shift the discourse. On the domestic front in the U.S., it is quite likely that Medicare will become a central issue in the coming political cycle, with advocacy groups mobilizing to resist proposed cutbacks.
+  Looking ahead, the majority of analysts agree that the trajectory of the Ukraine war will depend heavily on U.S. political decisions, with a high chance that Western support could waver if Trump’s stance remains inconsistent. On the Palestinian front, there is high confidence that international recognition will continue to grow, but with limited immediate impact on the realities of occupation and conflict in Gaza.
   
-  In summary, the geopolitical landscape is marked by a slow but steady shift in Western attitudes toward Israel’s actions in Gaza, alongside renewed domestic debates over social welfare in the United States. I guarantee that these issues will remain at the forefront of both international and domestic agendas in the near term.
+  In summary, the latest developments underscore the fragility of diplomatic efforts in Ukraine and the incremental but symbolically important gains for Palestinian statehood. The prevailing trend is one of cautious skepticism about Western resolve in Ukraine and growing, though largely symbolic, international support for Palestine.
 articles:
+  - title: 'WATCH: Out-Flattering a Capricious Trump'
+    url: https://consortiumnews.com/2025/08/19/watch-out-flattering-a-capricious-trump/
+    text: 'CN editor Joe Lauria tells RT News the significance of the recent flurry
+      of high-level diplomatic activity on Ukraine may be overblown and that tangible
+      progress depends on Donald Trump’s shaky resolve. RT: And let’s discuss this live
+      with Joe… Read more →'
+    one_sentence_summary: CN editor Joe Lauria suggests that the recent surge in high-level
+      diplomatic efforts regarding Ukraine may be exaggerated in importance, with real
+      progress hinging on Donald Trump's uncertain commitment.
+    paragraph_summary: CN editor Joe Lauria discusses the recent surge in high-level
+      diplomatic efforts regarding Ukraine, suggesting that their significance may be
+      exaggerated. He emphasizes that any meaningful progress in the situation is heavily
+      reliant on Donald Trump's uncertain commitment to the issue.
+    published: '2025-08-20T01:52:01+00:00'
+  - title: 'WATCH: Out-Flattering a Capricious Trump'
+    url: https://consortiumnews.com/2025/08/19/watch-out-flattering-a-capricious-trump/
+    text: 'CN editor Joe Lauria tells RT News the significance of the recent flurry
+      of high-level diplomatic activity on Ukraine may be overblown and that tangible
+      progress depends on Donald Trump’s shaky resolve. RT: And let’s discuss this live
+      with Joe… Read more →'
+    one_sentence_summary: CN editor Joe Lauria suggests that the recent surge in high-level
+      diplomatic efforts regarding Ukraine may be exaggerated in importance, with real
+      progress hinging on Donald Trump's uncertain commitment.
+    paragraph_summary: CN editor Joe Lauria discusses the recent surge in high-level
+      diplomatic efforts regarding Ukraine, suggesting that their significance may be
+      exaggerated. He emphasizes that any meaningful progress in the situation is heavily
+      reliant on Donald Trump's uncertain commitment to the issue.
+    published: '2025-08-20T01:52:01+00:00'
+  - title: 'RAY McGOVERN: Trump & the Seven Dwarfs'
+    url: https://consortiumnews.com/2025/08/19/ray-mcgovern-trump-the-seven-dwarfs/
+    text: The Dwarfs had to slink away. Will they, at long last, tell Zelensky they
+      cannot back up their rhetoric with the needed arms and financial support? By Ray
+      McGovern Special to Consortium News I shall not make the de-rigueur disclaimer…
+      Read more →
+    one_sentence_summary: The article discusses the Dwarfs' potential inability to provide
+      the necessary arms and financial support to Ukraine, raising questions about their
+      commitment to backing Zelensky's rhetoric.
+    paragraph_summary: In the article by Ray McGovern, the author discusses the challenges
+      faced by the Dwarfs, likely referring to smaller nations or allies, in providing
+      adequate military and financial support to Ukraine amidst its ongoing conflict.
+      The piece raises questions about whether these nations will finally admit to Ukrainian
+      President Zelensky that they are unable to fulfill their promises of support,
+      highlighting the gap between rhetoric and reality in international relations.
+    published: '2025-08-20T00:32:58+00:00'
+  - title: 'RAY McGOVERN: Trump & the Seven Dwarfs'
+    url: https://consortiumnews.com/2025/08/19/ray-mcgovern-trump-the-seven-dwarfs/
+    text: The Dwarfs had to slink away. Will they, at long last, tell Zelensky they
+      cannot back up their rhetoric with the needed arms and financial support? By Ray
+      McGovern Special to Consortium News I shall not make the de-rigueur disclaimer…
+      Read more →
+    one_sentence_summary: The article discusses the Dwarfs' potential inability to provide
+      the necessary arms and financial support to Ukraine, raising questions about their
+      commitment to backing Zelensky's rhetoric.
+    paragraph_summary: In the article by Ray McGovern, the author discusses the challenges
+      faced by the Dwarfs, likely referring to smaller nations or allies, in providing
+      adequate military and financial support to Ukraine amidst its ongoing conflict.
+      The piece raises questions about whether these nations will finally admit to Ukrainian
+      President Zelensky that they are unable to fulfill their promises of support,
+      highlighting the gap between rhetoric and reality in international relations.
+    published: '2025-08-20T00:32:58+00:00'
+  - title: Why Palestine Is Already a State
+    url: https://consortiumnews.com/2025/08/19/why-palestine-is-already-a-state-2/
+    text: The very act of the U.N. Secretary General accepting a Palestinian membership
+      application was an acknowledgement from the U.N. that Palestine is already a state,
+      since only states can apply, wrote Joe Lauria. As a U.N. observer state, Palestine
+      became… Read more →
+    one_sentence_summary: The acceptance of a Palestinian membership application by
+      the U.N. Secretary General signifies the organization's recognition of Palestine
+      as a state, as only states are eligible to apply for membership.
+    paragraph_summary: The acceptance of a Palestinian membership application by the
+      U.N. Secretary General signifies an acknowledgment of Palestine as a state, as
+      only recognized states have the capacity to apply for membership, according to
+      Joe Lauria. This move builds on Palestine's status as a U.N. observer state, further
+      solidifying its recognition in the international community.
+    published: '2025-08-19T16:09:09+00:00'
+  - title: Why Palestine Is Already a State
+    url: https://consortiumnews.com/2025/08/19/why-palestine-is-already-a-state-2/
+    text: The very act of the U.N. Secretary General accepting a Palestinian membership
+      application was an acknowledgement from the U.N. that Palestine is already a state,
+      since only states can apply, wrote Joe Lauria. As a U.N. observer state, Palestine
+      became… Read more →
+    one_sentence_summary: The acceptance of a Palestinian membership application by
+      the U.N. Secretary General signifies the organization's recognition of Palestine
+      as a state, as only states are eligible to apply for membership.
+    paragraph_summary: The acceptance of a Palestinian membership application by the
+      U.N. Secretary General signifies an acknowledgment of Palestine as a state, as
+      only recognized states have the capacity to apply for membership, according to
+      Joe Lauria. This move builds on Palestine's status as a U.N. observer state, further
+      solidifying its recognition in the international community.
+    published: '2025-08-19T16:09:09+00:00'
+  - title: Palestinian Statehood Without Liberation
+    url: https://consortiumnews.com/2025/08/19/palestinian-statehood-without-liberation/
+    text: Why are European countries shifting towards recognizing Palestinian statehood
+      at this late stage of Israel’s genocide in Gaza? Three Al Shabaka policy analysts
+      weigh in. By Inès Abdel Razek, Yara Hawari and Diana Buttu  Al Shabaka Since October
+      2023, Israel’s assault… Read more →
+    one_sentence_summary: European countries are increasingly recognizing Palestinian
+      statehood in response to the ongoing humanitarian crisis in Gaza, as analyzed
+      by three Al Shabaka policy experts.
+    paragraph_summary: In the wake of Israel's intensified military actions in Gaza
+      since October 2023, several European countries are increasingly moving towards
+      recognizing Palestinian statehood. Al Shabaka policy analysts Inès Abdel Razek,
+      Yara Hawari, and Diana Buttu explore the motivations behind this shift, suggesting
+      that the ongoing humanitarian crisis and widespread condemnation of Israel's actions
+      have prompted a reevaluation of diplomatic stances. They argue that this recognition
+      is not only a response to the immediate situation but also reflects a broader
+      shift in international perspectives on the Israeli-Palestinian conflict, emphasizing
+      the need for a just resolution that acknowledges Palestinian rights and sovereignty.
+    published: '2025-08-19T15:59:53+00:00'
+  - title: Palestinian Statehood Without Liberation
+    url: https://consortiumnews.com/2025/08/19/palestinian-statehood-without-liberation/
+    text: Why are European countries shifting towards recognizing Palestinian statehood
+      at this late stage of Israel’s genocide in Gaza? Three Al Shabaka policy analysts
+      weigh in. By Inès Abdel Razek, Yara Hawari and Diana Buttu  Al Shabaka Since October
+      2023, Israel’s assault… Read more →
+    one_sentence_summary: European countries are increasingly recognizing Palestinian
+      statehood in response to the ongoing humanitarian crisis in Gaza, as analyzed
+      by three Al Shabaka policy experts.
+    paragraph_summary: In the wake of Israel's intensified military actions in Gaza
+      since October 2023, several European countries are increasingly moving towards
+      recognizing Palestinian statehood. Al Shabaka policy analysts Inès Abdel Razek,
+      Yara Hawari, and Diana Buttu explore the motivations behind this shift, suggesting
+      that the ongoing humanitarian crisis and widespread condemnation of Israel's actions
+      have prompted a reevaluation of diplomatic stances. They argue that this recognition
+      is not only a response to the immediate situation but also reflects a broader
+      shift in international perspectives on the Israeli-Palestinian conflict, emphasizing
+      the need for a just resolution that acknowledges Palestinian rights and sovereignty.
+    published: '2025-08-19T15:59:53+00:00'
+  - title: 'Jonathan Cook: The BBC Helped Kill Anas Al-Sharif'
+    url: https://consortiumnews.com/2025/08/19/jonathan-cook-the-bbc-helped-kill-anas-al-sharif/
+    text: The media are legitimising Israel’s murder of journalists — and they are doing
+      it because they are racist propagandists for a system of Western colonial control
+      in the Middle East. By Jonathan Cook Jonathan-Cook.net How is it possible for
+      a… Read more →
+    one_sentence_summary: The article argues that the media is complicit in justifying
+      the killing of journalists in Israel due to their alignment with Western colonial
+      interests and a perceived racial bias.
+    paragraph_summary: In his article, Jonathan Cook argues that the media is complicit
+      in legitimizing the killing of journalists in Israel, attributing this to a broader
+      agenda of Western colonialism in the Middle East. He contends that the media's
+      portrayal of these events reflects a racist bias, serving as propaganda that supports
+      a system of control rather than holding accountable those responsible for violence
+      against journalists. Cook critiques the media's failure to adequately address
+      the implications of these actions, suggesting that their narratives contribute
+      to a dangerous normalization of violence in the region.
+    published: '2025-08-19T12:43:58+00:00'
+  - title: 'Jonathan Cook: The BBC Helped Kill Anas Al-Sharif'
+    url: https://consortiumnews.com/2025/08/19/jonathan-cook-the-bbc-helped-kill-anas-al-sharif/
+    text: The media are legitimising Israel’s murder of journalists — and they are doing
+      it because they are racist propagandists for a system of Western colonial control
+      in the Middle East. By Jonathan Cook Jonathan-Cook.net How is it possible for
+      a… Read more →
+    one_sentence_summary: The article argues that the media is complicit in justifying
+      the killing of journalists in Israel due to their alignment with Western colonial
+      interests and a perceived racial bias.
+    paragraph_summary: In his article, Jonathan Cook argues that the media is complicit
+      in legitimizing the killing of journalists in Israel, attributing this to a broader
+      agenda of Western colonialism in the Middle East. He contends that the media's
+      portrayal of these events reflects a racist bias, serving as propaganda that supports
+      a system of control rather than holding accountable those responsible for violence
+      against journalists. Cook critiques the media's failure to adequately address
+      the implications of these actions, suggesting that their narratives contribute
+      to a dangerous normalization of violence in the region.
+    published: '2025-08-19T12:43:58+00:00'
+  - title: 'Vijay Prashad: The Neocolonial Trap'
+    url: https://consortiumnews.com/2025/08/18/vijay-prashad-the-neocolonial-trap/
+    text: 'Burkina Faso has been trapped in neocolonial underdevelopment for nearly
+      all of its post-independence history – can the new government of Ibrahim Traoré
+      follow in Thomas Sankara’s footsteps and change course? By Vijay Prashad Tricontinental:
+      Institute for Social Research In the months… Read more →'
+    one_sentence_summary: The article discusses Burkina Faso's long-standing neocolonial
+      underdevelopment and explores whether the new government under Ibrahim Traoré
+      can emulate Thomas Sankara's transformative leadership to alter the country's
+      trajectory.
+    paragraph_summary: The article by Vijay Prashad discusses Burkina Faso's long-standing
+      struggle with neocolonial underdevelopment since gaining independence, highlighting
+      the potential for change under the new government led by Ibrahim Traoré. It draws
+      parallels to the revolutionary leadership of Thomas Sankara, who sought to transform
+      the nation through self-reliance and social justice. The piece explores whether
+      Traoré can adopt similar principles to redirect the country towards a more equitable
+      and independent future, amidst ongoing challenges and the legacy of past governance.
+    published: '2025-08-18T18:00:09+00:00'
+  - title: 'Vijay Prashad: The Neocolonial Trap'
+    url: https://consortiumnews.com/2025/08/18/vijay-prashad-the-neocolonial-trap/
+    text: 'Burkina Faso has been trapped in neocolonial underdevelopment for nearly
+      all of its post-independence history – can the new government of Ibrahim Traoré
+      follow in Thomas Sankara’s footsteps and change course? By Vijay Prashad Tricontinental:
+      Institute for Social Research In the months… Read more →'
+    one_sentence_summary: The article discusses Burkina Faso's long-standing neocolonial
+      underdevelopment and explores whether the new government under Ibrahim Traoré
+      can emulate Thomas Sankara's transformative leadership to alter the country's
+      trajectory.
+    paragraph_summary: The article by Vijay Prashad discusses Burkina Faso's long-standing
+      struggle with neocolonial underdevelopment since gaining independence, highlighting
+      the potential for change under the new government led by Ibrahim Traoré. It draws
+      parallels to the revolutionary leadership of Thomas Sankara, who sought to transform
+      the nation through self-reliance and social justice. The piece explores whether
+      Traoré can adopt similar principles to redirect the country towards a more equitable
+      and independent future, amidst ongoing challenges and the legacy of past governance.
+    published: '2025-08-18T18:00:09+00:00'
+  - title: 'WATCH: Chris Smalls — From Amazon to Gaza'
+    url: https://consortiumnews.com/2025/08/18/watch-chris-smalls-from-amazon-to-gaza/
+    text: From organizing an Amazon.com shop to be being arrested on an aid ship bound
+      for Gaza, Chris Smalls has become a dynamic political figure speaking for a new
+      generation of Americans dissidence. Chris Smalls catapulted to prominence as the
+      first… Read more →
+    one_sentence_summary: Chris Smalls has emerged as a prominent political figure representing
+      a new generation of American dissent, transitioning from running an Amazon shop
+      to being arrested on an aid ship headed for Gaza.
+    paragraph_summary: Chris Smalls has emerged as a significant political figure representing
+      a new wave of American dissent, transitioning from managing an Amazon.com shop
+      to being arrested on an aid ship headed for Gaza. He gained recognition as the
+      first Amazon worker to lead a successful unionization effort, highlighting labor
+      rights and social justice issues. Smalls' activism resonates with a younger generation
+      seeking change, making him a prominent voice in contemporary political discourse.
+    published: '2025-08-18T16:00:57+00:00'
+  - title: 'WATCH: Chris Smalls — From Amazon to Gaza'
+    url: https://consortiumnews.com/2025/08/18/watch-chris-smalls-from-amazon-to-gaza/
+    text: From organizing an Amazon.com shop to be being arrested on an aid ship bound
+      for Gaza, Chris Smalls has become a dynamic political figure speaking for a new
+      generation of Americans dissidence. Chris Smalls catapulted to prominence as the
+      first… Read more →
+    one_sentence_summary: Chris Smalls has emerged as a prominent political figure representing
+      a new generation of American dissent, transitioning from running an Amazon shop
+      to being arrested on an aid ship headed for Gaza.
+    paragraph_summary: Chris Smalls has emerged as a significant political figure representing
+      a new wave of American dissent, transitioning from managing an Amazon.com shop
+      to being arrested on an aid ship headed for Gaza. He gained recognition as the
+      first Amazon worker to lead a successful unionization effort, highlighting labor
+      rights and social justice issues. Smalls' activism resonates with a younger generation
+      seeking change, making him a prominent voice in contemporary political discourse.
+    published: '2025-08-18T16:00:57+00:00'
+  - title: US, UK Spy Flights & the Murder of Gazan Innocents
+    url: https://consortiumnews.com/2025/08/18/us-uk-spy-flights-the-murder-of-gazan-innocents/
+    text: The presence of U.S. aircraft alongside RAF spy planes raises questions about
+      whether British intelligence assisted Israel’s targeting of the Nuseirat refugee
+      camp in Gaza, writes Iain Overton. By Iain Overton Declassified UK On the evening
+      of Dec. 12, 2024,… Read more →
+    one_sentence_summary: The presence of U.S. aircraft with RAF spy planes has sparked
+      concerns about potential British intelligence involvement in Israel's targeting
+      of the Nuseirat refugee camp in Gaza.
+    paragraph_summary: The article by Iain Overton discusses the implications of U.S.
+      aircraft operating alongside RAF spy planes, suggesting that British intelligence
+      may have played a role in Israel's targeting of the Nuseirat refugee camp in Gaza.
+      This collaboration raises concerns about the extent of U.S. and UK involvement
+      in military actions in the region, particularly in light of the humanitarian impact
+      on civilians.
+    published: '2025-08-18T12:04:45+00:00'
+  - title: US, UK Spy Flights & the Murder of Gazan Innocents
+    url: https://consortiumnews.com/2025/08/18/us-uk-spy-flights-the-murder-of-gazan-innocents/
+    text: The presence of U.S. aircraft alongside RAF spy planes raises questions about
+      whether British intelligence assisted Israel’s targeting of the Nuseirat refugee
+      camp in Gaza, writes Iain Overton. By Iain Overton Declassified UK On the evening
+      of Dec. 12, 2024,… Read more →
+    one_sentence_summary: The presence of U.S. aircraft with RAF spy planes has sparked
+      concerns about potential British intelligence involvement in Israel's targeting
+      of the Nuseirat refugee camp in Gaza.
+    paragraph_summary: The article by Iain Overton discusses the implications of U.S.
+      aircraft operating alongside RAF spy planes, suggesting that British intelligence
+      may have played a role in Israel's targeting of the Nuseirat refugee camp in Gaza.
+      This collaboration raises concerns about the extent of U.S. and UK involvement
+      in military actions in the region, particularly in light of the humanitarian impact
+      on civilians.
+    published: '2025-08-18T12:04:45+00:00'
+  - title: 'Vijay Prashad: To Those Who Died So Young'
+    url: https://consortiumnews.com/2025/08/15/vijay-prashad-to-those-who-died-so-young/
+    text: 'The early deaths of Patrice Lumumba, Franz Fanon and other African revolutionary
+      leaders underline the brutality of imperialism. If a radical appears to lead a
+      people to sovereignty, the radical cannot be allowed to survive. By Vijay Prashad
+      Tricontinental: Institute for… Read more →'
+    one_sentence_summary: The early deaths of African revolutionary leaders like Patrice
+      Lumumba and Franz Fanon highlight the violent repression of imperialism against
+      those who strive for sovereignty and radical change.
+    paragraph_summary: The article by Vijay Prashad highlights the tragic early deaths
+      of African revolutionary leaders like Patrice Lumumba and Franz Fanon, emphasizing
+      how their assassinations reflect the violent nature of imperialism. It argues
+      that when a radical leader emerges to guide their people towards sovereignty,
+      imperial powers often resort to extreme measures to eliminate them, underscoring
+      the lengths to which these forces will go to maintain control and suppress movements
+      for liberation. Through this lens, the piece critiques the systemic brutality
+      faced by those who challenge imperialist structures.
+    published: '2025-08-16T02:48:34+00:00'
+  - title: 'Vijay Prashad: To Those Who Died So Young'
+    url: https://consortiumnews.com/2025/08/15/vijay-prashad-to-those-who-died-so-young/
+    text: 'The early deaths of Patrice Lumumba, Franz Fanon and other African revolutionary
+      leaders underline the brutality of imperialism. If a radical appears to lead a
+      people to sovereignty, the radical cannot be allowed to survive. By Vijay Prashad
+      Tricontinental: Institute for… Read more →'
+    one_sentence_summary: The early deaths of African revolutionary leaders like Patrice
+      Lumumba and Franz Fanon highlight the violent repression of imperialism against
+      those who strive for sovereignty and radical change.
+    paragraph_summary: The article by Vijay Prashad highlights the tragic early deaths
+      of African revolutionary leaders like Patrice Lumumba and Franz Fanon, emphasizing
+      how their assassinations reflect the violent nature of imperialism. It argues
+      that when a radical leader emerges to guide their people towards sovereignty,
+      imperial powers often resort to extreme measures to eliminate them, underscoring
+      the lengths to which these forces will go to maintain control and suppress movements
+      for liberation. Through this lens, the piece critiques the systemic brutality
+      faced by those who challenge imperialist structures.
+    published: '2025-08-16T02:48:34+00:00'
+  - title: 'Interview: Richard Sakwa on Russia Since Perestroika'
+    url: https://consortiumnews.com/2025/08/15/interview-richard-sakwa-on-russia-since-perestroika/
+    text: Natalyie Baldwin asks the British author about the Soviet collapse, the 1990s,
+      Vladimir Putin’s governance, the rise of a new cold war and the Russia-Ukraine
+      conflict. By Natylie Baldwin Special to Consortium News Richard Sakwa is a British 
+      academic expert who… Read more →
+    one_sentence_summary: In an interview, British academic Richard Sakwa discusses
+      the Soviet collapse, the tumultuous 1990s, Vladimir Putin's leadership, the resurgence
+      of a new Cold War, and the ongoing Russia-Ukraine conflict.
+    paragraph_summary: In an interview with Natylie Baldwin, British academic Richard
+      Sakwa discusses various significant topics related to Russia, including the collapse
+      of the Soviet Union, the tumultuous 1990s, and Vladimir Putin's governance. He
+      also addresses the emergence of a new cold war and the ongoing conflict between
+      Russia and Ukraine, providing insights into the historical and political contexts
+      that have shaped these developments.
+    published: '2025-08-15T17:28:00+00:00'
+  - title: 'Interview: Richard Sakwa on Russia Since Perestroika'
+    url: https://consortiumnews.com/2025/08/15/interview-richard-sakwa-on-russia-since-perestroika/
+    text: Natalyie Baldwin asks the British author about the Soviet collapse, the 1990s,
+      Vladimir Putin’s governance, the rise of a new cold war and the Russia-Ukraine
+      conflict. By Natylie Baldwin Special to Consortium News Richard Sakwa is a British 
+      academic expert who… Read more →
+    one_sentence_summary: In an interview, British academic Richard Sakwa discusses
+      the Soviet collapse, the tumultuous 1990s, Vladimir Putin's leadership, the resurgence
+      of a new Cold War, and the ongoing Russia-Ukraine conflict.
+    paragraph_summary: In an interview with Natylie Baldwin, British academic Richard
+      Sakwa discusses various significant topics related to Russia, including the collapse
+      of the Soviet Union, the tumultuous 1990s, and Vladimir Putin's governance. He
+      also addresses the emergence of a new cold war and the ongoing conflict between
+      Russia and Ukraine, providing insights into the historical and political contexts
+      that have shaped these developments.
+    published: '2025-08-15T17:28:00+00:00'
+  - title: What the CIA’s Covert Websites Were Hiding
+    url: https://consortiumnews.com/2025/08/15/what-the-cias-covert-websites-were-hiding/
+    text: Alan MacLeod on Langley’s sprawling network of hidden websites that served
+      as global spy terminals disguised as harmless blogs, news hubs and fan pages.
+      By Alan MacLeod MintPress News The C.I.A. didn’t just infiltrate governments;
+      it infiltrated the internet itself.… Read more →
+    one_sentence_summary: Alan MacLeod reveals how the CIA created a vast network of
+      covert websites masquerading as benign blogs and news platforms to conduct global
+      espionage.
+    paragraph_summary: In his article, Alan MacLeod reveals how the CIA established
+      a vast network of covert websites that masqueraded as benign blogs, news platforms,
+      and fan pages, effectively serving as global spy terminals. This infiltration
+      of the internet allowed the agency to gather intelligence and influence public
+      discourse, illustrating a sophisticated strategy that extended beyond traditional
+      espionage to manipulate online spaces. MacLeod's investigation highlights the
+      extent of the CIA's operations in the digital realm, raising concerns about privacy
+      and the integrity of information on the internet.
+    published: '2025-08-15T16:00:40+00:00'
+  - title: What the CIA’s Covert Websites Were Hiding
+    url: https://consortiumnews.com/2025/08/15/what-the-cias-covert-websites-were-hiding/
+    text: Alan MacLeod on Langley’s sprawling network of hidden websites that served
+      as global spy terminals disguised as harmless blogs, news hubs and fan pages.
+      By Alan MacLeod MintPress News The C.I.A. didn’t just infiltrate governments;
+      it infiltrated the internet itself.… Read more →
+    one_sentence_summary: Alan MacLeod reveals how the CIA created a vast network of
+      covert websites masquerading as benign blogs and news platforms to conduct global
+      espionage.
+    paragraph_summary: In his article, Alan MacLeod reveals how the CIA established
+      a vast network of covert websites that masqueraded as benign blogs, news platforms,
+      and fan pages, effectively serving as global spy terminals. This infiltration
+      of the internet allowed the agency to gather intelligence and influence public
+      discourse, illustrating a sophisticated strategy that extended beyond traditional
+      espionage to manipulate online spaces. MacLeod's investigation highlights the
+      extent of the CIA's operations in the digital realm, raising concerns about privacy
+      and the integrity of information on the internet.
+    published: '2025-08-15T16:00:40+00:00'
+  - title: 'Craig Murray: The UK Home Secretary is Lying'
+    url: https://consortiumnews.com/2025/08/14/craig-murray-the-uk-home-secretary-is-lying/
+    text: Here is a little antiseptic daylight on Yvette Cooper’s arguments that Palestine
+      Action, a nonviolent, direct-action group, deserved the “terrorist” proscription
+      that the home secretary slapped on it. By Craig Murray CraigMurray.org.uk Yvette
+      Cooper has continually lied about Palestine Action… Read more →
+    one_sentence_summary: The article critiques Yvette Cooper's claims that the nonviolent
+      group Palestine Action deserves a "terrorist" designation, alleging that she has
+      consistently misrepresented the group's actions.
+    paragraph_summary: In an article by Craig Murray, the author critiques Yvette Cooper's
+      claims that Palestine Action, a nonviolent direct-action group, warrants a "terrorist"
+      designation imposed by the home secretary. Murray argues that Cooper has consistently
+      misrepresented the group's activities and intentions, suggesting that her assertions
+      are misleading and unfounded. The piece aims to shed light on the discrepancies
+      in Cooper's arguments and defend Palestine Action against the accusations of terrorism.
+    published: '2025-08-15T02:05:39+00:00'
+  - title: 'Craig Murray: The UK Home Secretary is Lying'
+    url: https://consortiumnews.com/2025/08/14/craig-murray-the-uk-home-secretary-is-lying/
+    text: Here is a little antiseptic daylight on Yvette Cooper’s arguments that Palestine
+      Action, a nonviolent, direct-action group, deserved the “terrorist” proscription
+      that the home secretary slapped on it. By Craig Murray CraigMurray.org.uk Yvette
+      Cooper has continually lied about Palestine Action… Read more →
+    one_sentence_summary: The article critiques Yvette Cooper's claims that the nonviolent
+      group Palestine Action deserves a "terrorist" designation, alleging that she has
+      consistently misrepresented the group's actions.
+    paragraph_summary: In an article by Craig Murray, the author critiques Yvette Cooper's
+      claims that Palestine Action, a nonviolent direct-action group, warrants a "terrorist"
+      designation imposed by the home secretary. Murray argues that Cooper has consistently
+      misrepresented the group's activities and intentions, suggesting that her assertions
+      are misleading and unfounded. The piece aims to shed light on the discrepancies
+      in Cooper's arguments and defend Palestine Action against the accusations of terrorism.
+    published: '2025-08-15T02:05:39+00:00'
+  - title: 'RAY McGOVERN: Applying the Lost Art of Kremlinology'
+    url: https://consortiumnews.com/2025/08/14/ray-mcgovern-applying-the-lost-art-of-kremlinology/
+    text: 'ALASKA SUMMIT: If Moscow wants to avoid its own Vietnam in Ukraine, Putin
+      may accept a “negotiated solution” that applies copious lipstick to the pig of
+      actual defeat for the U.S., NATO and Ukraine. By Ray McGovern Special to Consortium…
+      Read more →'
+    one_sentence_summary: The article suggests that to prevent a scenario akin to Vietnam
+      in Ukraine, Putin might consider a "negotiated solution" that superficially masks
+      a significant defeat for the U.S., NATO, and Ukraine.
+    paragraph_summary: In the article, Ray McGovern discusses the potential for a negotiated
+      solution in the Ukraine conflict, suggesting that Russian President Vladimir Putin
+      may seek to avoid a scenario akin to the Vietnam War for Russia. McGovern argues
+      that such a solution could be framed in a way that allows Russia to save face
+      while effectively acknowledging a defeat for the U.S., NATO, and Ukraine. The
+      piece highlights the complexities of the geopolitical situation and the implications
+      of negotiations for all parties involved.
+    published: '2025-08-14T18:29:36+00:00'
+  - title: 'RAY McGOVERN: Applying the Lost Art of Kremlinology'
+    url: https://consortiumnews.com/2025/08/14/ray-mcgovern-applying-the-lost-art-of-kremlinology/
+    text: 'ALASKA SUMMIT: If Moscow wants to avoid its own Vietnam in Ukraine, Putin
+      may accept a “negotiated solution” that applies copious lipstick to the pig of
+      actual defeat for the U.S., NATO and Ukraine. By Ray McGovern Special to Consortium…
+      Read more →'
+    one_sentence_summary: The article suggests that to prevent a scenario akin to Vietnam
+      in Ukraine, Putin might consider a "negotiated solution" that superficially masks
+      a significant defeat for the U.S., NATO, and Ukraine.
+    paragraph_summary: In the article, Ray McGovern discusses the potential for a negotiated
+      solution in the Ukraine conflict, suggesting that Russian President Vladimir Putin
+      may seek to avoid a scenario akin to the Vietnam War for Russia. McGovern argues
+      that such a solution could be framed in a way that allows Russia to save face
+      while effectively acknowledging a defeat for the U.S., NATO, and Ukraine. The
+      piece highlights the complexities of the geopolitical situation and the implications
+      of negotiations for all parties involved.
+    published: '2025-08-14T18:29:36+00:00'
+  - title: The New Normal of US Domestic Spying
+    url: https://consortiumnews.com/2025/08/14/the-new-normal-of-us-domestic-spying/
+    text: Every American’s inalienable right to be left alone is violated by the federal
+      government so thoroughly, quietly and continuously that we don’t even notice it,
+      writes Andrew P. Napolitano By Andrew P. Napolitano What if the federal government
+      captures in… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that the federal government systematically
+      and subtly infringes on Americans' fundamental right to privacy without them even
+      realizing it.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that the federal
+      government systematically infringes upon Americans' fundamental right to privacy,
+      often in ways that go unnoticed by the public. He highlights the extensive surveillance
+      and data collection practices employed by the government, suggesting that these
+      actions undermine individual freedoms and the principle of being left alone. Napolitano
+      calls for greater awareness and scrutiny of these governmental overreach practices
+      to protect citizens' rights.
+    published: '2025-08-14T16:00:47+00:00'
+  - title: The New Normal of US Domestic Spying
+    url: https://consortiumnews.com/2025/08/14/the-new-normal-of-us-domestic-spying/
+    text: Every American’s inalienable right to be left alone is violated by the federal
+      government so thoroughly, quietly and continuously that we don’t even notice it,
+      writes Andrew P. Napolitano By Andrew P. Napolitano What if the federal government
+      captures in… Read more →
+    one_sentence_summary: Andrew P. Napolitano argues that the federal government systematically
+      and subtly infringes on Americans' fundamental right to privacy without them even
+      realizing it.
+    paragraph_summary: In his article, Andrew P. Napolitano argues that the federal
+      government systematically infringes upon Americans' fundamental right to privacy,
+      often in ways that go unnoticed by the public. He highlights the extensive surveillance
+      and data collection practices employed by the government, suggesting that these
+      actions undermine individual freedoms and the principle of being left alone. Napolitano
+      calls for greater awareness and scrutiny of these governmental overreach practices
+      to protect citizens' rights.
+    published: '2025-08-14T16:00:47+00:00'
+  - title: ‘Putin Will Play Trump Like a Stradivarius’
+    url: https://consortiumnews.com/2025/08/13/putin-will-play-trump-like-a-stradivarius/
+    text: 'ALASKA SUMMIT: CN Editor Joe Lauria joined Jackson Hinkle’s Legitimate Targets
+      to discuss the Putin-Trump meeting and the Middle East. What was once Seward’s
+      Folly may become Trump’s as the U.S. and Russian presidents meet this Friday in
+      Alaska.  CN‘s… Read more →'
+    one_sentence_summary: CN Editor Joe Lauria appeared on Jackson Hinkle's Legitimate
+      Targets to discuss the upcoming meeting between Presidents Putin and Trump in
+      Alaska, highlighting its historical significance.
+    paragraph_summary: In a recent discussion on Jackson Hinkle’s Legitimate Targets,
+      CN Editor Joe Lauria analyzed the upcoming meeting between U.S. President Donald
+      Trump and Russian President Vladimir Putin, which is set to take place in Alaska.
+      Lauria highlighted the significance of this meeting, referencing Alaska's historical
+      context as "Seward’s Folly," and explored the implications for U.S.-Russia relations
+      and the broader geopolitical landscape, particularly in the Middle East.
+    published: '2025-08-14T02:09:06+00:00'
+  - title: ‘Putin Will Play Trump Like a Stradivarius’
+    url: https://consortiumnews.com/2025/08/13/putin-will-play-trump-like-a-stradivarius/
+    text: 'ALASKA SUMMIT: CN Editor Joe Lauria joined Jackson Hinkle’s Legitimate Targets
+      to discuss the Putin-Trump meeting and the Middle East. What was once Seward’s
+      Folly may become Trump’s as the U.S. and Russian presidents meet this Friday in
+      Alaska.  CN‘s… Read more →'
+    one_sentence_summary: CN Editor Joe Lauria appeared on Jackson Hinkle's Legitimate
+      Targets to discuss the upcoming meeting between Presidents Putin and Trump in
+      Alaska, highlighting its historical significance.
+    paragraph_summary: In a recent discussion on Jackson Hinkle’s Legitimate Targets,
+      CN Editor Joe Lauria analyzed the upcoming meeting between U.S. President Donald
+      Trump and Russian President Vladimir Putin, which is set to take place in Alaska.
+      Lauria highlighted the significance of this meeting, referencing Alaska's historical
+      context as "Seward’s Folly," and explored the implications for U.S.-Russia relations
+      and the broader geopolitical landscape, particularly in the Middle East.
+    published: '2025-08-14T02:09:06+00:00'
+  - title: Prospects for Trump & Putin in Alaska
+    url: https://consortiumnews.com/2025/08/13/prospects-for-trump-putin-in-alaska/
+    text: 'ALASKA SUMMIT: Those who hope for progress when the two leaders meet for
+      their “feeling-out” summit are gloomy and anxious, writes Tony Kevin. But the
+      warmongers are gloomy and anxious  too. By Tony Kevin Special to Consortium News
+      There is an… Read more →'
+    one_sentence_summary: In his article, Tony Kevin expresses skepticism about the
+      potential for meaningful progress at the upcoming summit between two leaders,
+      noting that both hopeful advocates for peace and proponents of conflict share
+      a sense of gloom and anxiety.
+    paragraph_summary: In his article for Consortium News, Tony Kevin expresses a sense
+      of pessimism regarding the upcoming summit between two leaders, highlighting that
+      both hopeful advocates for progress and proponents of conflict share feelings
+      of gloom and anxiety. The article suggests that expectations for meaningful advancements
+      during the meeting are low, reflecting broader concerns about the state of international
+      relations and the challenges facing diplomacy in a contentious global environment.
+    published: '2025-08-14T00:38:55+00:00'
+  - title: Prospects for Trump & Putin in Alaska
+    url: https://consortiumnews.com/2025/08/13/prospects-for-trump-putin-in-alaska/
+    text: 'ALASKA SUMMIT: Those who hope for progress when the two leaders meet for
+      their “feeling-out” summit are gloomy and anxious, writes Tony Kevin. But the
+      warmongers are gloomy and anxious  too. By Tony Kevin Special to Consortium News
+      There is an… Read more →'
+    one_sentence_summary: In his article, Tony Kevin expresses skepticism about the
+      potential for meaningful progress at the upcoming summit between two leaders,
+      noting that both hopeful advocates for peace and proponents of conflict share
+      a sense of gloom and anxiety.
+    paragraph_summary: In his article for Consortium News, Tony Kevin expresses a sense
+      of pessimism regarding the upcoming summit between two leaders, highlighting that
+      both hopeful advocates for progress and proponents of conflict share feelings
+      of gloom and anxiety. The article suggests that expectations for meaningful advancements
+      during the meeting are low, reflecting broader concerns about the state of international
+      relations and the challenges facing diplomacy in a contentious global environment.
+    published: '2025-08-14T00:38:55+00:00'
+  - title: A Landmark Complaint vs Pro-Israel Group Silencing Dissent
+    url: https://consortiumnews.com/2025/08/13/a-landmark-complaint-vs-pro-israel-group-silencing-dissent/
+    text: John McEvoy reports on a complaint against UK Lawyers for Israel for threatening
+      civil society groups and operating as an unregulated legal firm in their effort
+      to silence support for Palestine. By John McEvoy Declassified UK “We will not
+      allow… Read more →
+    one_sentence_summary: John McEvoy reports on a complaint against UK Lawyers for
+      Israel, alleging that they threaten civil society groups and operate as an unregulated
+      legal firm to suppress support for Palestine.
+    paragraph_summary: John McEvoy reports on a complaint against UK Lawyers for Israel,
+      which alleges that the organization is threatening civil society groups and functioning
+      as an unregulated legal firm in an attempt to suppress support for Palestine.
+      The complaint highlights concerns about the group's tactics to intimidate those
+      advocating for Palestinian rights, raising questions about their legal status
+      and the implications for free speech and activism in the UK.
+    published: '2025-08-13T18:00:59+00:00'
+  - title: A Landmark Complaint vs Pro-Israel Group Silencing Dissent
+    url: https://consortiumnews.com/2025/08/13/a-landmark-complaint-vs-pro-israel-group-silencing-dissent/
+    text: John McEvoy reports on a complaint against UK Lawyers for Israel for threatening
+      civil society groups and operating as an unregulated legal firm in their effort
+      to silence support for Palestine. By John McEvoy Declassified UK “We will not
+      allow… Read more →
+    one_sentence_summary: John McEvoy reports on a complaint against UK Lawyers for
+      Israel, alleging that they threaten civil society groups and operate as an unregulated
+      legal firm to suppress support for Palestine.
+    paragraph_summary: John McEvoy reports on a complaint against UK Lawyers for Israel,
+      which alleges that the organization is threatening civil society groups and functioning
+      as an unregulated legal firm in an attempt to suppress support for Palestine.
+      The complaint highlights concerns about the group's tactics to intimidate those
+      advocating for Palestinian rights, raising questions about their legal status
+      and the implications for free speech and activism in the UK.
+    published: '2025-08-13T18:00:59+00:00'
+  - title: 'WATCH: Tribute to Journalists Killed by Israel'
+    url: https://consortiumnews.com/2025/08/13/watch-tribute-to-journalists-killed-by-israel/
+    text: Protestors gathered outside the Washington offices of NBC and Fox News near
+      the Capitol to decry the most recent assassinations of Palestinian journalists
+      by the IDF. The last words of Anas Al Sharif, Al Jazeera journalist in Gaza, read
+      by… Read more →
+    one_sentence_summary: Protestors rallied outside NBC and Fox News offices in Washington
+      to condemn the recent killings of Palestinian journalists by the IDF, highlighting
+      the final words of Al Jazeera journalist Anas Al Sharif.
+    paragraph_summary: Protesters assembled outside the Washington offices of NBC and
+      Fox News to condemn the recent killings of Palestinian journalists by the Israeli
+      Defense Forces (IDF). The demonstration highlighted the tragic last words of Anas
+      Al Sharif, an Al Jazeera journalist in Gaza, emphasizing the urgent call for accountability
+      and awareness regarding the violence faced by journalists in conflict zones.
+    published: '2025-08-13T15:55:43+00:00'
+  - title: 'WATCH: Tribute to Journalists Killed by Israel'
+    url: https://consortiumnews.com/2025/08/13/watch-tribute-to-journalists-killed-by-israel/
+    text: Protestors gathered outside the Washington offices of NBC and Fox News near
+      the Capitol to decry the most recent assassinations of Palestinian journalists
+      by the IDF. The last words of Anas Al Sharif, Al Jazeera journalist in Gaza, read
+      by… Read more →
+    one_sentence_summary: Protestors rallied outside NBC and Fox News offices in Washington
+      to condemn the recent killings of Palestinian journalists by the IDF, highlighting
+      the final words of Al Jazeera journalist Anas Al Sharif.
+    paragraph_summary: Protesters assembled outside the Washington offices of NBC and
+      Fox News to condemn the recent killings of Palestinian journalists by the Israeli
+      Defense Forces (IDF). The demonstration highlighted the tragic last words of Anas
+      Al Sharif, an Al Jazeera journalist in Gaza, emphasizing the urgent call for accountability
+      and awareness regarding the violence faced by journalists in conflict zones.
+    published: '2025-08-13T15:55:43+00:00'
+  - title: Starving Indigenous Peoples — Then & Now
+    url: https://consortiumnews.com/2025/08/13/starving-indigenous-peoples-then-now/
+    text: Israel’s use of starvation as a weapon of war in Gaza repeats the history
+      of the U.S. and Canada where settler colonizers destroyed Indigenous communities’
+      access to food, writes Rosalyn R. LaPier. By Rosalyn R. LaPier The Conversation 
+      There is increasing… Read more →
+    one_sentence_summary: The article by Rosalyn R. LaPier argues that Israel's use
+      of starvation as a tactic in Gaza mirrors historical actions by the U.S. and Canada,
+      where settler colonizers systematically undermined Indigenous communities' access
+      to food.
+    paragraph_summary: In her article, Rosalyn R. LaPier draws parallels between Israel's
+      use of starvation as a tactic in the Gaza conflict and historical actions taken
+      by settler colonizers in the U.S. and Canada, who systematically dismantled Indigenous
+      communities' access to food as a means of control and oppression. LaPier argues
+      that this strategy of weaponizing food scarcity reflects a broader pattern of
+      colonial violence aimed at undermining the resilience and survival of marginalized
+      populations. The article highlights the devastating impact of such tactics on
+      communities and calls for a recognition of these historical injustices in contemporary
+      discussions of conflict and humanitarian crises.
+    published: '2025-08-13T13:25:28+00:00'
+  - title: Starving Indigenous Peoples — Then & Now
+    url: https://consortiumnews.com/2025/08/13/starving-indigenous-peoples-then-now/
+    text: Israel’s use of starvation as a weapon of war in Gaza repeats the history
+      of the U.S. and Canada where settler colonizers destroyed Indigenous communities’
+      access to food, writes Rosalyn R. LaPier. By Rosalyn R. LaPier The Conversation 
+      There is increasing… Read more →
+    one_sentence_summary: The article by Rosalyn R. LaPier argues that Israel's use
+      of starvation as a tactic in Gaza mirrors historical actions by the U.S. and Canada,
+      where settler colonizers systematically undermined Indigenous communities' access
+      to food.
+    paragraph_summary: In her article, Rosalyn R. LaPier draws parallels between Israel's
+      use of starvation as a tactic in the Gaza conflict and historical actions taken
+      by settler colonizers in the U.S. and Canada, who systematically dismantled Indigenous
+      communities' access to food as a means of control and oppression. LaPier argues
+      that this strategy of weaponizing food scarcity reflects a broader pattern of
+      colonial violence aimed at undermining the resilience and survival of marginalized
+      populations. The article highlights the devastating impact of such tactics on
+      communities and calls for a recognition of these historical injustices in contemporary
+      discussions of conflict and humanitarian crises.
+    published: '2025-08-13T13:25:28+00:00'
   - title: The West’s Calculations & Gaza’s Betrayal
     url: https://consortiumnews.com/2025/08/12/the-wests-calculations-gazas-betrayal/
     text: Ramzy Baroud says Western institutions’ delayed recognition of Israel’s Gaza

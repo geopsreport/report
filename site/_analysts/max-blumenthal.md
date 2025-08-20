@@ -7,16 +7,62 @@ description: "Investigative journalist and filmmaker; founder of The Grayzone; c
 websites:
   - https://thegrayzone.com
 summary: |
-  As of August 13, 2025, the geopolitical landscape remains tense, with developments in the Middle East, North America, and Europe continuing to draw scrutiny from independent analysts. The most recent news cycle highlights the intersection of political scandal, ongoing conflict, and the role of Western states in global crises.
+  The past week has seen a series of revelations and controversies that underscore the deepening crises in Western intelligence, Middle Eastern conflict, and the credibility of humanitarian and political actors. The latest disclosures, as reported by **Max Blumenthal**, shed light on covert operations, ongoing humanitarian disasters, and the erosion of democratic norms under the guise of security.
   
-  The latest controversy in the United States centers on New York City Mayor Eric Adams, who, according to **Max Blumenthal**, "swiftly deleted references to a controversial 'rabbi' accused of child molestation from his campaign after social media users highlighted the allegations." This episode underscores the increasing influence of digital activism on political accountability and the rapid response required from public officials facing reputational threats.
+  The most significant new development centers on the release of newly unredacted files implicating former CIA counterintelligence chief James Angleton in facilitating Israeli espionage against the United States. According to **Blumenthal**, Angleton covertly enabled Israel’s acquisition of U.S. nuclear materials, bypassing oversight and betraying American interests. This revelation is likely to fuel further scrutiny of U.S.-Israel intelligence cooperation and could prompt calls for congressional investigations. Given the gravity of these disclosures and the historical context of U.S.-Israeli relations, I guarantee that this will remain a major point of contention in Washington’s intelligence community and among policymakers.
   
-  In the Middle East, the situation in Gaza remains dire. **Max Blumenthal** reports that Israel's military leadership has acknowledged that a full occupation of Gaza could result in the deaths of remaining captives, a risk compounded by what he describes as the government's "apparent indifference to their fate." The Al-Qassam Brigades have issued new threats to execute hostages if Israeli soldiers approach their locations, escalating the humanitarian crisis and complicating any prospects for negotiation or rescue. The majority of analysts agree that the Israeli government's current approach is likely to prolong the conflict and increase civilian casualties.
+  In parallel, the humanitarian situation in Gaza continues to deteriorate, with Israeli military policy drawing increased criticism. As previously reported, Israel’s leadership has acknowledged that a full occupation of Gaza may result in the deaths of remaining captives, a position exacerbated by the Al-Qassam Brigades’ threats to execute hostages if Israeli forces approach. The case of Mohammed Zakaria al-Mutawaq, a malnourished toddler, has become emblematic of the famine caused by the ongoing blockade. **Blumenthal** highlights how media portrayals of Gaza’s suffering are being challenged by Israeli sources, who accuse international outlets of misinformation. The majority of analysts agree that, absent a dramatic policy shift, the humanitarian crisis in Gaza will intensify, with a high chance of further civilian casualties and international condemnation.
   
-  Meanwhile, revelations about Western involvement in past and present conflicts continue to emerge. Newly uncovered files, as detailed by **Max Blumenthal**, reveal that the ethnic cleansing of Serbs during Croatia's Operation Storm was premeditated and privately endorsed by US diplomat Richard Holbrooke, despite public statements to the contrary. This disclosure adds to the growing body of evidence suggesting that Western powers have played a more direct role in shaping the outcomes of regional conflicts than previously acknowledged.
+  Elsewhere, the exposure of Canadian arms shipments to Israel despite an official ban has sparked controversy over Ottawa’s credibility. **Blumenthal** reports that, despite Canada’s public recognition of a Palestinian state and its stated halt of military aid, weapons and equipment continue to flow to Israel. This contradiction is likely to undermine Canada’s diplomatic standing and could lead to increased pressure from domestic and international actors for greater transparency and accountability. There is a high chance that further investigative reporting will reveal similar patterns among other Western states.
   
-  Looking ahead, the prevailing trend is one of deepening mistrust between governments and their populations, fueled by ongoing scandals, humanitarian crises, and the exposure of covert operations. It is quite likely that political leaders will face increasing pressure to address these issues transparently, though, as recent events suggest, meaningful change remains uncertain. Based on current trajectories, I guarantee that the humanitarian situation in Gaza will continue to deteriorate unless there is a significant shift in policy or international intervention. The political fallout from scandals such as the one facing Mayor Adams is also expected to intensify, reflecting the broader trend of heightened public scrutiny in the digital age.
+  Looking ahead, the trends point to escalating tensions between Western governments’ public stances and their covert actions, especially regarding Israel and intelligence operations. The erosion of oversight and the persistence of humanitarian crises are likely to fuel public distrust and calls for reform. Most definitely, these issues will remain at the forefront of geopolitical debate in the coming weeks.
 articles:
+  - title: Israel’s man inside the CIA betrayed the US, new files show
+    url: https://thegrayzone.com/2025/08/15/cias-angleton-israeli-spy-ring-files/
+    text: CIA spymaster James Angleton shaped the US-Israeli relationship in secrecy.
+      Newly unredacted files shed light on his wanton betrayal of his country to assist
+      Israel’s theft of US nuclear material and global spying operations.  Veteran CIA
+      counterintelligence chief James Angleton secretly oversaw a top-level spy ring
+      involving Jewish émigrés and Israeli operatives without “any clearances” from
+      Congress or Langley itself, according to recently declassified documents published
+      as part of the Trump administration’s pledge to disclose all available information
+      on the […] The post Israel’s man inside the CIA betrayed the US, new files show
+      first appeared on The Grayzone . The post Israel’s man inside the CIA betrayed
+      the US, new files show appeared first on The Grayzone .
+    one_sentence_summary: Newly unredacted files reveal that CIA spymaster James Angleton
+      covertly facilitated Israel's espionage and acquisition of U.S. nuclear materials,
+      betraying his country without proper oversight.
+    paragraph_summary: Newly unredacted files reveal that CIA counterintelligence chief
+      James Angleton played a pivotal role in clandestinely shaping the US-Israeli relationship,
+      facilitating Israel's acquisition of US nuclear materials and espionage activities
+      without proper oversight from Congress or the CIA. Angleton managed a covert spy
+      network involving Jewish émigrés and Israeli agents, highlighting a significant
+      betrayal of US interests in favor of Israel. These revelations come as part of
+      the Trump administration's efforts to release previously classified information.
+    published: '2025-08-15T19:12:26+00:00'
+  - title: Israel’s man inside the CIA betrayed the US, new files show
+    url: https://thegrayzone.com/2025/08/15/cias-angleton-israeli-spy-ring-files/
+    text: CIA spymaster James Angleton shaped the US-Israeli relationship in secrecy.
+      Newly unredacted files shed light on his wanton betrayal of his country to assist
+      Israel’s theft of US nuclear material and global spying operations.  Veteran CIA
+      counterintelligence chief James Angleton secretly oversaw a top-level spy ring
+      involving Jewish émigrés and Israeli operatives without “any clearances” from
+      Congress or Langley itself, according to recently declassified documents published
+      as part of the Trump administration’s pledge to disclose all available information
+      on the […] The post Israel’s man inside the CIA betrayed the US, new files show
+      first appeared on The Grayzone . The post Israel’s man inside the CIA betrayed
+      the US, new files show appeared first on The Grayzone .
+    one_sentence_summary: Newly unredacted files reveal that CIA spymaster James Angleton
+      covertly facilitated Israel's espionage and acquisition of U.S. nuclear materials,
+      betraying his country without proper oversight.
+    paragraph_summary: Newly unredacted files reveal that CIA counterintelligence chief
+      James Angleton played a pivotal role in clandestinely shaping the US-Israeli relationship,
+      facilitating Israel's acquisition of US nuclear materials and espionage activities
+      without proper oversight from Congress or the CIA. Angleton managed a covert spy
+      network involving Jewish émigrés and Israeli agents, highlighting a significant
+      betrayal of US interests in favor of Israel. These revelations come as part of
+      the Trump administration's efforts to release previously classified information.
+    published: '2025-08-15T19:12:26+00:00'
   - title: NYC’s Mayor Adams boasts of endorsement from ‘rabbi’ accused of child molestation
     url: https://thegrayzone.com/2025/08/11/nyc-mayor-boasts-rabbi-accused-molestation/
     text: Eric Adams’ mayoral campaign quickly removed all references to a “rabbi” accused

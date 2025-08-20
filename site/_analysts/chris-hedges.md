@@ -7,14 +7,8757 @@ description: "Pulitzer-winning journalist, ex–NYT war correspondent; radical r
 websites:
   - https://scheerpost.com
 summary: |
-  The humanitarian crisis in Gaza continues to deepen, with new reports underscoring the scale of suffering amid Israel’s ongoing siege. According to the Gaza Health Ministry, over 100 children have now died from severe hunger, bringing total hunger-related deaths among Palestinians to 222. This dire situation has prompted renewed calls from the United Nations for a cease-fire and an immediate increase in humanitarian aid. **Chris Hedges** highlights that the international community’s outrage is mounting, particularly as Israeli officials, such as Foreign Minister Gideon Sa’ar, continue to attribute civilian casualties solely to Hamas, a stance sharply criticized by **Jeffrey D. Sachs** for failing to acknowledge the broader consequences of Israeli military actions.
+  The geopolitical landscape remains tense as new revelations and diplomatic maneuvers shape the global order. The aftermath of the recent Alaska summit between President Trump and President Putin continues to reverberate, with no agreements reached on a Ukraine ceasefire or sanctions, as reported by **Patrick Lawrence**. The meeting, held at a military base in Anchorage, ended abruptly, underscoring the persistent deadlock over Ukraine and signaling that substantive progress remains elusive.
   
-  Meanwhile, Israeli Prime Minister Netanyahu’s confirmation of plans to occupy all of Gaza directly contradicts a recent International Court of Justice ruling declaring such occupation illegal. The Palestinian death toll has now exceeded 61,000, intensifying scrutiny of Israel’s actions and further isolating it diplomatically. Solidarity efforts are growing internationally, with figures like Amazon Labor Union leader Christian Smalls joining a medical aid mission to Gaza and calling for U.S. labor unions to block arms shipments to Israel, signaling a potential shift in grassroots activism.
+  In a related development, President Trump announced efforts to broker a direct meeting between Russian President Vladimir Putin and Ukrainian President Volodymyr Zelensky. According to **Chris Hedges**, this initiative follows consultations with Zelensky and European officials at the White House. While the move is being framed as a potential breakthrough, skepticism remains high given the lack of progress at the Alaska summit and the entrenched positions of both Moscow and Kyiv.
   
-  Domestically in the United States, tensions over immigration enforcement remain high. The recent arrest and subsequent release of community organizer Amanda Trebach, who was documenting ICE raids, has galvanized grassroots opposition to the agency’s tactics under the Trump administration. **Chris Hedges** notes that this backlash reflects broader anxieties about the direction of American society, which **Michael Brenner** characterizes as a slide toward a form of “American fascism,” driven by internal divisions and a focus on perceived threats.
+  Meanwhile, domestic U.S. policy is under scrutiny after a congressional report warned that President Trump’s tariffs have already resulted in the loss of 37,000 manufacturing jobs, with projections of nearly half a trillion dollars in losses for the sector by decade’s end. This directly challenges Trump’s narrative of a trade war benefiting American industry, with **Chris Hedges** highlighting the growing economic and political costs.
   
-  Looking ahead, the majority of analysts agree that unless there is a significant policy shift—either from the Israeli government or its international backers—the humanitarian catastrophe in Gaza will most definitely worsen. The likelihood of increased international pressure, including from grassroots movements and labor unions, is high. In the U.S., the current trajectory suggests that social and political polarization will continue, with a high chance of further confrontations between state agencies and activist groups. I guarantee that without meaningful intervention, both the Gaza crisis and domestic unrest in the U.S. will escalate in the coming weeks.
+  On the intelligence front, newly declassified documents reveal that former CIA counterintelligence chief James Angleton operated a covert spy ring involving Israeli operatives and Jewish émigrés, facilitating Israel’s acquisition of nuclear materials and shaping U.S.-Israel relations without proper oversight. **Chris Hedges** notes the profound implications for historical and current intelligence cooperation between Washington and Tel Aviv.
+  
+  **Trends and Predictions:**  
+  The diplomatic stalemate over Ukraine is likely to persist, with only a moderate chance of breakthrough talks in the near term, given the entrenched positions and recent summit outcomes. The economic fallout from U.S. tariffs is expected to deepen, with high confidence that manufacturing losses will mount if current policies remain unchanged. The Angleton revelations may prompt renewed scrutiny of intelligence-sharing protocols, but significant policy changes are unlikely in the short term. The overall trajectory points to continued instability and incremental, rather than transformative, shifts in the global order.
 articles:
+  - title: Israel’s Man Inside the CIA Betrayed the US, New Files Show
+    url: https://scheerpost.com/2025/08/19/israels-man-inside-the-cia-betrayed-the-us-new-files-show/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Kit
+      Klarenberg and Wyatt Reed / The Grayzone Veteran CIA counterintelligence chief
+      James Angleton secretly oversaw a top-level spy ring involving Jewish émigrés
+      and Israeli operatives without “any clearances” from Congress or Langley itself,
+      according to recently declassified documents published as part of the Trump administration’s
+      pledge to disclose all available information on the assassination of President
+      John F. Kennedy. The files provide a fresh and often disturbing look at a spy
+      described by historian Jefferson Morley as “a leading architect of America’s strategic
+      relationship with Israel,” detailing Angleton’s role in transforming the Mossad
+      into a fearsome agency with global reach, while assisting Israel’s theft of US
+      nuclear material and protecting Zionist terrorists. Angleton established the Jewish
+      emigre spying network in the aftermath of WWII, with the apparent goal of infiltrating
+      the Soviet Union. But as the files show, the spymaster considered his “most important”
+      task to be maintaining the supply of Jewish immigrants flowing from the Soviet
+      Union towards the burgeoning Israeli state. According to Angelton, his Jewish
+      assets were responsible for 22,000 reports on the USSR, generating several intelligence
+      masterstrokes. Chief among them was the publication of Soviet Prime Minister Nikita
+      Kruschev’s famous 1956 secret speech denouncing Stalin, which the spymaster boasted
+      “practically created revolutions in Hungary and Poland.” Elsewhere, Angleton bragged
+      that his arrangement with Israel had produced “500 Polish intelligence officers
+      who were Jewish” who “knew more about Polish intelligence than the Poles.” Other
+      passages appear to show Angleton taking credit for securing the “release” of several
+      Zionist terrorists affiliated with the Irgun militia before they could be convicted
+      for bombing the British embassy in Rome. Though the group had been captured by
+      Italian authorities, the newly-disclosed files indicate the terror cell was freed
+      on the orders of the CIA. The information was originally divulged in 1975 to senators
+      serving on the Church Committee, which probed widespread abuses by US intelligence
+      in the decades prior. Congress was particularly interested in claims by New York
+      Times foreign correspondent Tad Szulc, who testified under oath that Angleton
+      had personally informed him that the US provided technical information on nuclear
+      devices to Israel in the late 1950s. The new documents show that Angleton was
+      deceptive under questioning, and evaded questions on Israel’s nuclear espionage
+      efforts on the record. Additional unsealed FBI documents, which refer to Israel’s
+      Mossad as Angleton’s “primary source” of information, confirm that the CIA’s head
+      of counterintelligence relied heavily on Tel Aviv to solidify his position within
+      the Agency – and also add to the growing body of evidence that Angleton may not
+      have been operating with US interests in mind throughout his 21-year tenure. Other
+      newly declassified files from the FBI have shown that Angleton maintained a wildly
+      lopsided relationship with the Bureau, which saw federal agents deferring to the
+      CIA counterintelligence chief after they caught him surveilling the correspondence
+      of huge numbers of Americans. The files show Angleton openly admitting he would
+      have been fired if Langley caught wind of his leaks to the Bureau. A side-by-side
+      analysis of the now-unredacted Church Committee files compared with their previously-released
+      versions from 2018 demonstrates that even after 70 years, Washington felt compelled
+      to conceal details of its real relationship with Israel’s founders. Over a dozen
+      references to “Israel,” “Tel Aviv,” or descriptions of figures as “Jewish,” which
+      were scrubbed from the 2018 release , can now be viewed on the National Archives
+      site . The documents reveal that Angleton repeatedly lied to multiple Congressional
+      bodies, including the Church Committee, which investigated CIA abuses, and the
+      House Select Committee on Assassinations, which probed the murders of John F.
+      Kennedy and Martin Luther King, Jr. Angleton was similarly evasive when interrogated
+      over Israel’s nuclear weapons program, and about CIA knowledge or complicity in
+      the scheme. Those documents also reveal that Angleton’s CIA counterintelligence
+      staff ordered Lee Harvey Oswald’s removal from federal watchlists six weeks before
+      Kennedy’s assassination, despite his classification as a high security risk. The
+      surveillance of Oswald was personally overseen by a member of Angleton’s intelligence
+      network of Jewish emigres, Reuben Efron, a CIA spy from Lithuania. Angleton had
+      placed Efron in charge of an Agency program called HT/Lingual which intercepted
+      and read correspondences between Oswald and his family. Numerous historians have
+      questioned why the CIA counterintelligence chief insisted for decades on personally
+      overseeing what he described as the “Israeli account.” Though several off-the-record
+      interactions remain impossible to parse, the documents show that when grilled
+      about his “unusually close” connections to the Israeli Mossad, Angleton acknowledged
+      forming an “arrangement” in which, “in most simplistic terms, [the Israelis] were
+      informed that we would not work with them against the Arabs, [but] that we would
+      work with them on Soviet bloc Intelligence and communism.” Freeing Zionist terrorists
+      One of the earliest instances of Angleton’s cooperation with Zionist elements
+      came as Zionist militants embarked on a terrorist campaign to pressure the British
+      colonial authorities to leave Mandate Palestine. In October 1946, three months
+      after they bombed the British administrative headquarters at the King David Hotel
+      in Jerusalem, members of the right-wing Irgun militia planted explosives in the
+      British embassy in Rome in a failed bid to assassinate the UK’s ambassador to
+      Italy. According to Angleton, after the Irgun “blew up the British embassy in
+      Rome” in 1946, the CIA intervened to ensure they escaped Italy without prosecution.
+      “We had the members of the group, and then we had the dilemma again as to whether
+      we turned them over to the British authorities,” noted Angleton, who had served
+      as counterintelligence chief for the Italian branch of the Office of Strategic
+      Services, the CIA’s predecessor. “And we were in a position to make the decision
+      one way or the other. And eventually we came down on the side of releasing them.”
+      A secret deal with the Mossad As Washington sought to manage the political ruptures
+      caused by the creation of Israel, and monitor the wave of Soviet migrants pouring
+      into the self-proclaimed Jewish state, Angleton framed his takeover of “the Israeli
+      account” as a convenient way for US intelligence to kill two birds with one stone.
+      “The other side of the Israeli problem was that you had thousands coming from
+      the Soviet Union and you had the Soviets making use of the immigration for the
+      purpose of sending illegal agents into the West and breaking down all the travel
+      control, identifications and so on. And so there was both a security problem and
+      a political problem.” To manage these “problems,” the US and Israelis brokered
+      a deal involving the secret exchange of “papers and signals, communications intelligence,
+      [and] the other products of intelligence action,” Angleton stated. The spy chief
+      claimed the only records of the 1951 arrangement held by the US side would be
+      in the possession of the Agency, and admitted US Congress had been left in the
+      dark, telling senators, “I don’t think there were any clearances obtained from
+      the Hill.” Asked by one legislator how it was “possible for succeeding directors
+      of the intelligence agency to understand what the agreements were between” US
+      and Israeli intelligence, Angleton responded: “Very simple. They saw the production
+      to begin with. And they met with directors or the head of Israeli intelligence.
+      And they met with Ambassadors and prime ministers. And they were very much involved.”
+      Grooming Zionist spies “outside the structure” of the CIA Angleton was especially
+      protective of what he called “the fiduciary relationship” with Tel Aviv, assembling
+      a close-knit clique of Jewish Americans with dubious loyalties to manage it as
+      World War Two drew to a close. “I started from the south side with two Jewish
+      men who worked with me during the war,” he explained. Having “sent them over as
+      ordinary people under cover” to get their bearings in newly-formed Israel, Angleton
+      “brought over six others and put them through some months of training, outside
+      of the structure” of the CIA. “To break down the fiduciary relationship – which
+      is after all a personal business – all the men I have had, were men who stayed
+      in it and came back to headquarters and went back to Tel Aviv, they went to the
+      National Security Council, and went back to Tel Aviv, et cetera.” “It was probably
+      the most economical operation that has ever been devised in the U.S. Government,”
+      Angleton crowed. “I don’t think there was [sic] more than 10 people that were
+      hired in the same process.” Having trained these spies “outside of the structure”
+      of the CIA, it’s unclear how Angleton ensured they remained faithful to US national
+      security objectives, or whether he ever intended to. Enabling Israeli theft of
+      US nuclear material, spying on America Angleton’s role in enabling Israel’s wanton
+      theft of nuclear material from an American facility is one of the more shocking
+      episodes in the US-Israeli relationship. The scene of the crime was the Nuclear
+      Materials and Equipment Corporation, or NUMEC, a uranium processing facility in
+      Apollo, Pennsylvania owned by a Zionist financier named David Lowenthal. In 1965,
+      Zalman Shapiro, a fellow Zionist hired by Lowenthal to run the plant, illegally
+      diverted hundreds of kilograms of nuclear fissile material to Israel. Posing as
+      a scientist, the notorious Mossad spy Rafi Eitan visited NUMEC three years later
+      to continue the heist. As Jefferson Morley documented in his biography of Angleton,
+      “The Ghost,” the late CIA counterintelligence chief made sure the CIA looked the
+      other way as Israel constructed its first nuclear weapon out of the stolen fissile
+      material. According to Morley , “Angleton, it is fair to say, thought collaboration
+      with Israel was more important than U.S. non-proliferation policy.” A 1977 investigation
+      by the US Government Accountability Office found that the CIA withheld information
+      about the NUMEC nuclear theft from the FBI and Department of Energy, and “found
+      that certain key individuals had not been contacted by the FBI almost 2 years
+      into the FBI’s current investigation.” The latest batch of Church Committee files
+      add new detail about Angleton’s compromising of US national security to benefit
+      Israel, and his attempts to cover up his betrayal. During his testimony before
+      the Committee, Angleton was pressed about media reports alleging that he and his
+      counterintelligence unit provided Israel with technical support for constructing
+      nuclear weapons. He strenuously denied the charges, insisting the CIA had never
+      played any role in providing Tel Aviv with nuclear materials . However, when questioned
+      about whether “Israeli intelligence efforts” were ever conducted in the US “aimed
+      at acquiring… nuclear technology,” Angleton equivocated. First, he blustered,
+      “there have been many efforts by many countries to acquire technical knowledge
+      in this country, and that doesn’t exclude the Israelis.” Asked if CIA counterintelligence
+      had “certain knowledge” of Israeli agents “trying to acquire nuclear secrets in
+      the US,” Angleton pleaded, “Do I have to respond to that?” The Committee then
+      went “off record” at the senators’ request, making Angleton’s responses impossible
+      to scrutinize. In a secret 1975 memorandum to the FBI, the ousted CIA counterintelligence
+      chief disclosed that he had “avoided any direct answers” during his Senate testimony
+      on Israel’s spies carrying out “intelligence collection” to gather “nuclear information”
+      in the United States. Just days later, a Bureau report on “Israeli intelligence
+      collection capabilities” revealed Angleton entertained “frequent personal liaison
+      contacts” with Mossad representatives at Israel’s Washington DC embassy between
+      February 1969 and October 1972. This “special relationship” involved “the exchange
+      of extremely sensitive information.” Further, the 1975 FBI memo on Angleton disclosed
+      the Israeli embassy’s establishment of a “technical intelligence network” seven
+      years earlier which was directed by an Israel scientist who worked on Tel Aviv’s
+      nuclear program. This may explain why Angleton was so cagey under Senate questioning.
+      “Israeli matters” trigger Angleton’s downfall The Church Committee files show
+      Angleton bristled at then-CIA Director William Colby’s efforts to apply a modicum
+      of transparency to the Agency’s activities, especially as they related to Israel.
+      The spymaster warned that if the USSR ever caught wind of Langley’s use of the
+      self-proclaimed Jewish state as a de facto halfway house for communist turncoats,
+      they would almost certainly end their policy of encouraging Eastern European Jews
+      to migrate to Israel: “This idea of opening the doors and letting the light in,
+      and breaking down compartmentation, and breaking down the need to know, would
+      inevitably put in jeopardy the immigration, if the Soviets should learn the extent
+      of the activities,” Angleton stated. Colby fired Angleton in 1974 after the New
+      York Times revealed that he devised an illegal program of domestic spying targeting
+      antiwar American dissidents. In his testimony, Angleton framed their clash as
+      an interpersonal conflict, describing Colby as “not my cup of tea professionally
+      or in any other way.” Yet Angleton also acknowledged to Senate that a “dispute
+      in connection with these Israeli matters” between himself and Colby contributed
+      to his departure from the Agency. Was this a reference to the former spook’s involvement
+      in Israeli theft of US nuclear secrets, enabling Israel to acquire the bomb? Whatever
+      the case, it was clear why Angleton would be remembered more fondly in Israel
+      than inside the country he ostensibly served. On December 4, 1987, the director
+      of Israel’s Mossad and Shin Bet intelligence services gathered in secret on a
+      hillside in Jerusalem to plant a tree in honor of Angleton. They were joined there
+      by five former Israeli spy chiefs and three former military intelligence officers.
+      Despite attempts to keep the ceremony under wraps, two local reporters managed
+      to evade the cordon to record the ceremony for the former CIA counter-intelligence
+      director, who had died seven months prior. Together, the Israeli spooks laid a
+      memorial stone that read, “In memory of a dear friend, James (Jim) Angleton.”
+      Please share this story and help us grow our network! Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Kit Klarenberg
+      Kit Klarenberg is an investigative journalist and MintPress News contributor exploring
+      the role of intelligence services in shaping politics and perceptions. His work
+      has previously appeared in The Cradle, Declassified UK, and Grayzone. Follow him
+      on Twitter @KitKlarenberg . Author Site Wyatt Reed Wyatt Reed is a correspondent
+      and managing editor of The Grayzone. Follow him on Twitter at @wyattreed13. Author
+      Site'
+    one_sentence_summary: Declassified documents reveal that former CIA counterintelligence
+      chief James Angleton ran a covert spy ring involving Jewish émigrés and Israeli
+      operatives without proper oversight, highlighting his significant influence in
+      shaping U.S.-Israel relations and facilitating Israel's acquisition of nuclear
+      materials.
+    paragraph_summary: Recently declassified documents reveal that former CIA counterintelligence
+      chief James Angleton led a covert spy network involving Jewish émigrés and Israeli
+      operatives without congressional or agency oversight. These files, part of the
+      Trump administration's release related to the JFK assassination, highlight Angleton's
+      pivotal role in strengthening the Mossad and facilitating Israel's acquisition
+      of U.S. nuclear materials while also aiding Zionist terrorists. Established post-WWII,
+      this network aimed to infiltrate the Soviet Union and maintain a steady flow of
+      Jewish immigrants to Israel. Angleton claimed credit for significant intelligence
+      achievements, including the dissemination of Nikita Khrushchev's 1956 speech denouncing
+      Stalin, which incited revolutions in Eastern Europe, and for training Jewish Polish
+      intelligence officers who surpassed their native counterparts in knowledge.
+    published: '2025-08-19T10:04:00+00:00'
+  - title: Israel’s Man Inside the CIA Betrayed the US, New Files Show
+    url: https://scheerpost.com/2025/08/19/israels-man-inside-the-cia-betrayed-the-us-new-files-show/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Kit
+      Klarenberg and Wyatt Reed / The Grayzone Veteran CIA counterintelligence chief
+      James Angleton secretly oversaw a top-level spy ring involving Jewish émigrés
+      and Israeli operatives without “any clearances” from Congress or Langley itself,
+      according to recently declassified documents published as part of the Trump administration’s
+      pledge to disclose all available information on the assassination of President
+      John F. Kennedy. The files provide a fresh and often disturbing look at a spy
+      described by historian Jefferson Morley as “a leading architect of America’s strategic
+      relationship with Israel,” detailing Angleton’s role in transforming the Mossad
+      into a fearsome agency with global reach, while assisting Israel’s theft of US
+      nuclear material and protecting Zionist terrorists. Angleton established the Jewish
+      emigre spying network in the aftermath of WWII, with the apparent goal of infiltrating
+      the Soviet Union. But as the files show, the spymaster considered his “most important”
+      task to be maintaining the supply of Jewish immigrants flowing from the Soviet
+      Union towards the burgeoning Israeli state. According to Angelton, his Jewish
+      assets were responsible for 22,000 reports on the USSR, generating several intelligence
+      masterstrokes. Chief among them was the publication of Soviet Prime Minister Nikita
+      Kruschev’s famous 1956 secret speech denouncing Stalin, which the spymaster boasted
+      “practically created revolutions in Hungary and Poland.” Elsewhere, Angleton bragged
+      that his arrangement with Israel had produced “500 Polish intelligence officers
+      who were Jewish” who “knew more about Polish intelligence than the Poles.” Other
+      passages appear to show Angleton taking credit for securing the “release” of several
+      Zionist terrorists affiliated with the Irgun militia before they could be convicted
+      for bombing the British embassy in Rome. Though the group had been captured by
+      Italian authorities, the newly-disclosed files indicate the terror cell was freed
+      on the orders of the CIA. The information was originally divulged in 1975 to senators
+      serving on the Church Committee, which probed widespread abuses by US intelligence
+      in the decades prior. Congress was particularly interested in claims by New York
+      Times foreign correspondent Tad Szulc, who testified under oath that Angleton
+      had personally informed him that the US provided technical information on nuclear
+      devices to Israel in the late 1950s. The new documents show that Angleton was
+      deceptive under questioning, and evaded questions on Israel’s nuclear espionage
+      efforts on the record. Additional unsealed FBI documents, which refer to Israel’s
+      Mossad as Angleton’s “primary source” of information, confirm that the CIA’s head
+      of counterintelligence relied heavily on Tel Aviv to solidify his position within
+      the Agency – and also add to the growing body of evidence that Angleton may not
+      have been operating with US interests in mind throughout his 21-year tenure. Other
+      newly declassified files from the FBI have shown that Angleton maintained a wildly
+      lopsided relationship with the Bureau, which saw federal agents deferring to the
+      CIA counterintelligence chief after they caught him surveilling the correspondence
+      of huge numbers of Americans. The files show Angleton openly admitting he would
+      have been fired if Langley caught wind of his leaks to the Bureau. A side-by-side
+      analysis of the now-unredacted Church Committee files compared with their previously-released
+      versions from 2018 demonstrates that even after 70 years, Washington felt compelled
+      to conceal details of its real relationship with Israel’s founders. Over a dozen
+      references to “Israel,” “Tel Aviv,” or descriptions of figures as “Jewish,” which
+      were scrubbed from the 2018 release , can now be viewed on the National Archives
+      site . The documents reveal that Angleton repeatedly lied to multiple Congressional
+      bodies, including the Church Committee, which investigated CIA abuses, and the
+      House Select Committee on Assassinations, which probed the murders of John F.
+      Kennedy and Martin Luther King, Jr. Angleton was similarly evasive when interrogated
+      over Israel’s nuclear weapons program, and about CIA knowledge or complicity in
+      the scheme. Those documents also reveal that Angleton’s CIA counterintelligence
+      staff ordered Lee Harvey Oswald’s removal from federal watchlists six weeks before
+      Kennedy’s assassination, despite his classification as a high security risk. The
+      surveillance of Oswald was personally overseen by a member of Angleton’s intelligence
+      network of Jewish emigres, Reuben Efron, a CIA spy from Lithuania. Angleton had
+      placed Efron in charge of an Agency program called HT/Lingual which intercepted
+      and read correspondences between Oswald and his family. Numerous historians have
+      questioned why the CIA counterintelligence chief insisted for decades on personally
+      overseeing what he described as the “Israeli account.” Though several off-the-record
+      interactions remain impossible to parse, the documents show that when grilled
+      about his “unusually close” connections to the Israeli Mossad, Angleton acknowledged
+      forming an “arrangement” in which, “in most simplistic terms, [the Israelis] were
+      informed that we would not work with them against the Arabs, [but] that we would
+      work with them on Soviet bloc Intelligence and communism.” Freeing Zionist terrorists
+      One of the earliest instances of Angleton’s cooperation with Zionist elements
+      came as Zionist militants embarked on a terrorist campaign to pressure the British
+      colonial authorities to leave Mandate Palestine. In October 1946, three months
+      after they bombed the British administrative headquarters at the King David Hotel
+      in Jerusalem, members of the right-wing Irgun militia planted explosives in the
+      British embassy in Rome in a failed bid to assassinate the UK’s ambassador to
+      Italy. According to Angleton, after the Irgun “blew up the British embassy in
+      Rome” in 1946, the CIA intervened to ensure they escaped Italy without prosecution.
+      “We had the members of the group, and then we had the dilemma again as to whether
+      we turned them over to the British authorities,” noted Angleton, who had served
+      as counterintelligence chief for the Italian branch of the Office of Strategic
+      Services, the CIA’s predecessor. “And we were in a position to make the decision
+      one way or the other. And eventually we came down on the side of releasing them.”
+      A secret deal with the Mossad As Washington sought to manage the political ruptures
+      caused by the creation of Israel, and monitor the wave of Soviet migrants pouring
+      into the self-proclaimed Jewish state, Angleton framed his takeover of “the Israeli
+      account” as a convenient way for US intelligence to kill two birds with one stone.
+      “The other side of the Israeli problem was that you had thousands coming from
+      the Soviet Union and you had the Soviets making use of the immigration for the
+      purpose of sending illegal agents into the West and breaking down all the travel
+      control, identifications and so on. And so there was both a security problem and
+      a political problem.” To manage these “problems,” the US and Israelis brokered
+      a deal involving the secret exchange of “papers and signals, communications intelligence,
+      [and] the other products of intelligence action,” Angleton stated. The spy chief
+      claimed the only records of the 1951 arrangement held by the US side would be
+      in the possession of the Agency, and admitted US Congress had been left in the
+      dark, telling senators, “I don’t think there were any clearances obtained from
+      the Hill.” Asked by one legislator how it was “possible for succeeding directors
+      of the intelligence agency to understand what the agreements were between” US
+      and Israeli intelligence, Angleton responded: “Very simple. They saw the production
+      to begin with. And they met with directors or the head of Israeli intelligence.
+      And they met with Ambassadors and prime ministers. And they were very much involved.”
+      Grooming Zionist spies “outside the structure” of the CIA Angleton was especially
+      protective of what he called “the fiduciary relationship” with Tel Aviv, assembling
+      a close-knit clique of Jewish Americans with dubious loyalties to manage it as
+      World War Two drew to a close. “I started from the south side with two Jewish
+      men who worked with me during the war,” he explained. Having “sent them over as
+      ordinary people under cover” to get their bearings in newly-formed Israel, Angleton
+      “brought over six others and put them through some months of training, outside
+      of the structure” of the CIA. “To break down the fiduciary relationship – which
+      is after all a personal business – all the men I have had, were men who stayed
+      in it and came back to headquarters and went back to Tel Aviv, they went to the
+      National Security Council, and went back to Tel Aviv, et cetera.” “It was probably
+      the most economical operation that has ever been devised in the U.S. Government,”
+      Angleton crowed. “I don’t think there was [sic] more than 10 people that were
+      hired in the same process.” Having trained these spies “outside of the structure”
+      of the CIA, it’s unclear how Angleton ensured they remained faithful to US national
+      security objectives, or whether he ever intended to. Enabling Israeli theft of
+      US nuclear material, spying on America Angleton’s role in enabling Israel’s wanton
+      theft of nuclear material from an American facility is one of the more shocking
+      episodes in the US-Israeli relationship. The scene of the crime was the Nuclear
+      Materials and Equipment Corporation, or NUMEC, a uranium processing facility in
+      Apollo, Pennsylvania owned by a Zionist financier named David Lowenthal. In 1965,
+      Zalman Shapiro, a fellow Zionist hired by Lowenthal to run the plant, illegally
+      diverted hundreds of kilograms of nuclear fissile material to Israel. Posing as
+      a scientist, the notorious Mossad spy Rafi Eitan visited NUMEC three years later
+      to continue the heist. As Jefferson Morley documented in his biography of Angleton,
+      “The Ghost,” the late CIA counterintelligence chief made sure the CIA looked the
+      other way as Israel constructed its first nuclear weapon out of the stolen fissile
+      material. According to Morley , “Angleton, it is fair to say, thought collaboration
+      with Israel was more important than U.S. non-proliferation policy.” A 1977 investigation
+      by the US Government Accountability Office found that the CIA withheld information
+      about the NUMEC nuclear theft from the FBI and Department of Energy, and “found
+      that certain key individuals had not been contacted by the FBI almost 2 years
+      into the FBI’s current investigation.” The latest batch of Church Committee files
+      add new detail about Angleton’s compromising of US national security to benefit
+      Israel, and his attempts to cover up his betrayal. During his testimony before
+      the Committee, Angleton was pressed about media reports alleging that he and his
+      counterintelligence unit provided Israel with technical support for constructing
+      nuclear weapons. He strenuously denied the charges, insisting the CIA had never
+      played any role in providing Tel Aviv with nuclear materials . However, when questioned
+      about whether “Israeli intelligence efforts” were ever conducted in the US “aimed
+      at acquiring… nuclear technology,” Angleton equivocated. First, he blustered,
+      “there have been many efforts by many countries to acquire technical knowledge
+      in this country, and that doesn’t exclude the Israelis.” Asked if CIA counterintelligence
+      had “certain knowledge” of Israeli agents “trying to acquire nuclear secrets in
+      the US,” Angleton pleaded, “Do I have to respond to that?” The Committee then
+      went “off record” at the senators’ request, making Angleton’s responses impossible
+      to scrutinize. In a secret 1975 memorandum to the FBI, the ousted CIA counterintelligence
+      chief disclosed that he had “avoided any direct answers” during his Senate testimony
+      on Israel’s spies carrying out “intelligence collection” to gather “nuclear information”
+      in the United States. Just days later, a Bureau report on “Israeli intelligence
+      collection capabilities” revealed Angleton entertained “frequent personal liaison
+      contacts” with Mossad representatives at Israel’s Washington DC embassy between
+      February 1969 and October 1972. This “special relationship” involved “the exchange
+      of extremely sensitive information.” Further, the 1975 FBI memo on Angleton disclosed
+      the Israeli embassy’s establishment of a “technical intelligence network” seven
+      years earlier which was directed by an Israel scientist who worked on Tel Aviv’s
+      nuclear program. This may explain why Angleton was so cagey under Senate questioning.
+      “Israeli matters” trigger Angleton’s downfall The Church Committee files show
+      Angleton bristled at then-CIA Director William Colby’s efforts to apply a modicum
+      of transparency to the Agency’s activities, especially as they related to Israel.
+      The spymaster warned that if the USSR ever caught wind of Langley’s use of the
+      self-proclaimed Jewish state as a de facto halfway house for communist turncoats,
+      they would almost certainly end their policy of encouraging Eastern European Jews
+      to migrate to Israel: “This idea of opening the doors and letting the light in,
+      and breaking down compartmentation, and breaking down the need to know, would
+      inevitably put in jeopardy the immigration, if the Soviets should learn the extent
+      of the activities,” Angleton stated. Colby fired Angleton in 1974 after the New
+      York Times revealed that he devised an illegal program of domestic spying targeting
+      antiwar American dissidents. In his testimony, Angleton framed their clash as
+      an interpersonal conflict, describing Colby as “not my cup of tea professionally
+      or in any other way.” Yet Angleton also acknowledged to Senate that a “dispute
+      in connection with these Israeli matters” between himself and Colby contributed
+      to his departure from the Agency. Was this a reference to the former spook’s involvement
+      in Israeli theft of US nuclear secrets, enabling Israel to acquire the bomb? Whatever
+      the case, it was clear why Angleton would be remembered more fondly in Israel
+      than inside the country he ostensibly served. On December 4, 1987, the director
+      of Israel’s Mossad and Shin Bet intelligence services gathered in secret on a
+      hillside in Jerusalem to plant a tree in honor of Angleton. They were joined there
+      by five former Israeli spy chiefs and three former military intelligence officers.
+      Despite attempts to keep the ceremony under wraps, two local reporters managed
+      to evade the cordon to record the ceremony for the former CIA counter-intelligence
+      director, who had died seven months prior. Together, the Israeli spooks laid a
+      memorial stone that read, “In memory of a dear friend, James (Jim) Angleton.”
+      Please share this story and help us grow our network! Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Kit Klarenberg
+      Kit Klarenberg is an investigative journalist and MintPress News contributor exploring
+      the role of intelligence services in shaping politics and perceptions. His work
+      has previously appeared in The Cradle, Declassified UK, and Grayzone. Follow him
+      on Twitter @KitKlarenberg . Author Site Wyatt Reed Wyatt Reed is a correspondent
+      and managing editor of The Grayzone. Follow him on Twitter at @wyattreed13. Author
+      Site'
+    one_sentence_summary: Declassified documents reveal that former CIA counterintelligence
+      chief James Angleton ran a covert spy ring involving Jewish émigrés and Israeli
+      operatives without proper oversight, highlighting his significant influence in
+      shaping U.S.-Israel relations and facilitating Israel's acquisition of nuclear
+      materials.
+    paragraph_summary: Recently declassified documents reveal that former CIA counterintelligence
+      chief James Angleton led a covert spy network involving Jewish émigrés and Israeli
+      operatives without congressional or agency oversight. These files, part of the
+      Trump administration's release related to the JFK assassination, highlight Angleton's
+      pivotal role in strengthening the Mossad and facilitating Israel's acquisition
+      of U.S. nuclear materials while also aiding Zionist terrorists. Established post-WWII,
+      this network aimed to infiltrate the Soviet Union and maintain a steady flow of
+      Jewish immigrants to Israel. Angleton claimed credit for significant intelligence
+      achievements, including the dissemination of Nikita Khrushchev's 1956 speech denouncing
+      Stalin, which incited revolutions in Eastern Europe, and for training Jewish Polish
+      intelligence officers who surpassed their native counterparts in knowledge.
+    published: '2025-08-19T10:04:00+00:00'
+  - title: Trump Says He’s Working To Arrange a Meeting Between Putin and Zelensky
+    url: https://scheerpost.com/2025/08/19/trump-says-hes-working-to-arrange-a-meeting-between-putin-and-zelensky/
+    text: 'Trump and Zelensky in the Oval Office on August 18, 2025 (White House photo)
+      By Dave DeCamp / Antiwar.com President Trump said on Monday that he was working
+      on arranging a meeting between Russian President Vladimir Putin and Ukrainian
+      President Volodymyr Zelensky, comments that came after a day of hosting the Ukrainian
+      leader and several European officials at the White House. “At the conclusion of
+      the meetings, I called President Putin, and began the arrangements for a meeting,
+      at a location to be determined, between President Putin and President Zelensky,”
+      the president wrote on Truth Social. Trump said that once Putin and Zelensky meet,
+      he would join them for a three-way talk. “After that meeting takes place, we will
+      have a Trilat, which would be the two Presidents, plus myself,” he wrote. Yury
+      Ushakov, an aide to Putin, said that during the call with Trump , the Russian
+      leader “expressed support for direct negotiations between the delegations of Russia
+      and Ukraine.” Trump said that one topic of discussion with Zelensky and European
+      leaders on Monday was the potential security guarantees Ukraine would receive
+      from Western nations as part of a peace deal, which will likely be a major sticking
+      point in negotiations with Russia. “During the meeting we discussed Security Guarantees
+      for Ukraine, which Guarantees would be provided by the various European Countries,
+      with a coordination with the United States of America,” he said. European leaders,
+      led by British Prime Minister Keir Starmer and French President Emmanuel Macron,
+      are calling for a troop deployment to Ukraine to uphold any potential peace deal.
+      When asked if the US would send troops to Ukraine, Trump didn’t rule out the idea.
+      But Russia has made clear that it’s strongly opposed to the idea of the deployment
+      of troops from NATO countries to Ukraine, a position it reiterated on Monday.
+      “We reiterate our repeatedly expressed position that we deny any scenarios that
+      envisage the deployment of a military contingent to Ukraine with the participation
+      of Nato states, which could lead to an uncontrollable escalation of the conflict
+      with unpredictable consequences,” said Russian Foreign Ministry spokeswoman Maria
+      Zakharova. The other major sticking point is the issue of territory. Russia has
+      reportedly offered to end the war if Ukraine withdraws from the Donbas region
+      and the lines are frozen in the southern Kherson and Zaporizhzhia oblasts, but
+      Zelensky continues to publicly reject the idea of ceding territory. Zelensky has
+      received strong backing from the European leaders who joined him in Washington
+      and held talks with them to coordinate their position ahead of the meetings with
+      Trump. According to a press release from Zelensky’s office, he and the Europeans
+      “stressed their firm support for Ukraine’s sovereignty and territorial integrity
+      and the unacceptability of changing internationally recognized state borders by
+      force.” The statement said they also “welcomed the readiness of the United States
+      to participate in guaranteeing security for Ukraine” and that “one of the key
+      issues in the negotiations with President Trump will be the joint participation
+      of the United States and Europe in creating the future security architecture for
+      Ukraine and, consequently, for the entire European continent.” Zelensky was joined
+      in Washington by Starmer, Macron, German Chancellor Friedrich Merz, Italian Prime
+      Minister Giorgia Meloni, Finnish President Alexander Stubb, European Commission
+      President Ursula von der Leyen, and NATO Secretary-General Mark Rutte. Please
+      share this story and help us grow our network! Editor’s Note : A t a moment when
+      the once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave DeCamp
+      is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author Site'
+    one_sentence_summary: President Trump announced he is facilitating a meeting between
+      Russian President Vladimir Putin and Ukrainian President Volodymyr Zelensky, following
+      discussions with Zelensky and European officials at the White House.
+    paragraph_summary: On August 18, 2025, President Trump announced his efforts to
+      arrange a meeting between Russian President Vladimir Putin and Ukrainian President
+      Volodymyr Zelensky, following discussions with Zelensky and European leaders at
+      the White House. Trump indicated that he would participate in a subsequent trilateral
+      meeting after the two leaders convene. During discussions, the potential security
+      guarantees for Ukraine from Western nations emerged as a critical issue for future
+      negotiations with Russia. European leaders, including British Prime Minister Keir
+      Starmer and French President Emmanuel Macron, advocated for troop deployments
+      to Ukraine to support any peace agreement, a notion Trump did not dismiss. However,
+      Russia firmly opposed the idea of NATO troop deployment, reiterating its stance
+      against such scenarios.
+    published: '2025-08-19T10:00:00+00:00'
+  - title: Trump Says He’s Working To Arrange a Meeting Between Putin and Zelensky
+    url: https://scheerpost.com/2025/08/19/trump-says-hes-working-to-arrange-a-meeting-between-putin-and-zelensky/
+    text: 'Trump and Zelensky in the Oval Office on August 18, 2025 (White House photo)
+      By Dave DeCamp / Antiwar.com President Trump said on Monday that he was working
+      on arranging a meeting between Russian President Vladimir Putin and Ukrainian
+      President Volodymyr Zelensky, comments that came after a day of hosting the Ukrainian
+      leader and several European officials at the White House. “At the conclusion of
+      the meetings, I called President Putin, and began the arrangements for a meeting,
+      at a location to be determined, between President Putin and President Zelensky,”
+      the president wrote on Truth Social. Trump said that once Putin and Zelensky meet,
+      he would join them for a three-way talk. “After that meeting takes place, we will
+      have a Trilat, which would be the two Presidents, plus myself,” he wrote. Yury
+      Ushakov, an aide to Putin, said that during the call with Trump , the Russian
+      leader “expressed support for direct negotiations between the delegations of Russia
+      and Ukraine.” Trump said that one topic of discussion with Zelensky and European
+      leaders on Monday was the potential security guarantees Ukraine would receive
+      from Western nations as part of a peace deal, which will likely be a major sticking
+      point in negotiations with Russia. “During the meeting we discussed Security Guarantees
+      for Ukraine, which Guarantees would be provided by the various European Countries,
+      with a coordination with the United States of America,” he said. European leaders,
+      led by British Prime Minister Keir Starmer and French President Emmanuel Macron,
+      are calling for a troop deployment to Ukraine to uphold any potential peace deal.
+      When asked if the US would send troops to Ukraine, Trump didn’t rule out the idea.
+      But Russia has made clear that it’s strongly opposed to the idea of the deployment
+      of troops from NATO countries to Ukraine, a position it reiterated on Monday.
+      “We reiterate our repeatedly expressed position that we deny any scenarios that
+      envisage the deployment of a military contingent to Ukraine with the participation
+      of Nato states, which could lead to an uncontrollable escalation of the conflict
+      with unpredictable consequences,” said Russian Foreign Ministry spokeswoman Maria
+      Zakharova. The other major sticking point is the issue of territory. Russia has
+      reportedly offered to end the war if Ukraine withdraws from the Donbas region
+      and the lines are frozen in the southern Kherson and Zaporizhzhia oblasts, but
+      Zelensky continues to publicly reject the idea of ceding territory. Zelensky has
+      received strong backing from the European leaders who joined him in Washington
+      and held talks with them to coordinate their position ahead of the meetings with
+      Trump. According to a press release from Zelensky’s office, he and the Europeans
+      “stressed their firm support for Ukraine’s sovereignty and territorial integrity
+      and the unacceptability of changing internationally recognized state borders by
+      force.” The statement said they also “welcomed the readiness of the United States
+      to participate in guaranteeing security for Ukraine” and that “one of the key
+      issues in the negotiations with President Trump will be the joint participation
+      of the United States and Europe in creating the future security architecture for
+      Ukraine and, consequently, for the entire European continent.” Zelensky was joined
+      in Washington by Starmer, Macron, German Chancellor Friedrich Merz, Italian Prime
+      Minister Giorgia Meloni, Finnish President Alexander Stubb, European Commission
+      President Ursula von der Leyen, and NATO Secretary-General Mark Rutte. Please
+      share this story and help us grow our network! Editor’s Note : A t a moment when
+      the once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave DeCamp
+      is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author Site'
+    one_sentence_summary: President Trump announced he is facilitating a meeting between
+      Russian President Vladimir Putin and Ukrainian President Volodymyr Zelensky, following
+      discussions with Zelensky and European officials at the White House.
+    paragraph_summary: On August 18, 2025, President Trump announced his efforts to
+      arrange a meeting between Russian President Vladimir Putin and Ukrainian President
+      Volodymyr Zelensky, following discussions with Zelensky and European leaders at
+      the White House. Trump indicated that he would participate in a subsequent trilateral
+      meeting after the two leaders convene. During discussions, the potential security
+      guarantees for Ukraine from Western nations emerged as a critical issue for future
+      negotiations with Russia. European leaders, including British Prime Minister Keir
+      Starmer and French President Emmanuel Macron, advocated for troop deployments
+      to Ukraine to support any peace agreement, a notion Trump did not dismiss. However,
+      Russia firmly opposed the idea of NATO troop deployment, reiterating its stance
+      against such scenarios.
+    published: '2025-08-19T10:00:00+00:00'
+  - title: 'Decapitations, Murder and Drug Trafficking: New Book Exposes Fort Bragg
+      Cartel'
+    url: https://scheerpost.com/2025/08/19/decapitations-murder-and-drug-trafficking-new-book-exposes-fort-bragg-cartel/
+    text: 'By Krystal Ball and Saagar Enjeti / Breaking Points Krystal and Saagar are
+      joined by Seth Harp to discuss his new book on Fort Bragg. Please share this story
+      and help us grow our network! Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Krystal Ball Krystal Marie Ball (born
+      November 24, 1981) is an American political commentator and media host. She was
+      previously a political candidate, as well as a television host at MSNBC , a regular
+      contributor to The Huffington Post , and a co-host of The Hill ‘s Rising along
+      with Saagar Enjeti . [2] [3] [4] In May 2021, Ball and Enjeti announced that they
+      were leaving the show in order to launch their own independent project titled
+      Breaking Points with Krystal and Saagar . [3] [2] [5] Ball is a co-host with her
+      husband Kyle Kulinski on the podcast Krystal Kyle & Friends . Author Site Saagar
+      Enjeti Saagar Enjeti (born April 21, 1992) is an American journalist , podcast
+      host and political commentator currently co-hosting the American political news
+      and opinion series Breaking Points alongside Krystal Ball . Previously he hosted
+      The Realignment with Marshall Kosloff. Author Site'
+    one_sentence_summary: Krystal Ball and Saagar Enjeti discuss Seth Harp's new book
+      on Fort Bragg, highlighting the need for independent journalism amidst the influence
+      of corporate interests.
+    paragraph_summary: In a recent episode of "Breaking Points," hosts Krystal Ball
+      and Saagar Enjeti interview author Seth Harp about his new book focusing on Fort
+      Bragg, highlighting the need for independent journalism amidst a landscape dominated
+      by corporate interests. The article emphasizes the importance of alternatives
+      like ScheerPost, which aim to provide integrity-driven news, and encourages readers
+      to support such independent platforms through donations. Ball and Enjeti, both
+      seasoned political commentators, previously worked at major networks before launching
+      their own project, reflecting their commitment to delivering unfiltered political
+      discourse.
+    published: '2025-08-19T09:45:00+00:00'
+  - title: 'Decapitations, Murder and Drug Trafficking: New Book Exposes Fort Bragg
+      Cartel'
+    url: https://scheerpost.com/2025/08/19/decapitations-murder-and-drug-trafficking-new-book-exposes-fort-bragg-cartel/
+    text: 'By Krystal Ball and Saagar Enjeti / Breaking Points Krystal and Saagar are
+      joined by Seth Harp to discuss his new book on Fort Bragg. Please share this story
+      and help us grow our network! Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Krystal Ball Krystal Marie Ball (born
+      November 24, 1981) is an American political commentator and media host. She was
+      previously a political candidate, as well as a television host at MSNBC , a regular
+      contributor to The Huffington Post , and a co-host of The Hill ‘s Rising along
+      with Saagar Enjeti . [2] [3] [4] In May 2021, Ball and Enjeti announced that they
+      were leaving the show in order to launch their own independent project titled
+      Breaking Points with Krystal and Saagar . [3] [2] [5] Ball is a co-host with her
+      husband Kyle Kulinski on the podcast Krystal Kyle & Friends . Author Site Saagar
+      Enjeti Saagar Enjeti (born April 21, 1992) is an American journalist , podcast
+      host and political commentator currently co-hosting the American political news
+      and opinion series Breaking Points alongside Krystal Ball . Previously he hosted
+      The Realignment with Marshall Kosloff. Author Site'
+    one_sentence_summary: Krystal Ball and Saagar Enjeti discuss Seth Harp's new book
+      on Fort Bragg, highlighting the need for independent journalism amidst the influence
+      of corporate interests.
+    paragraph_summary: In a recent episode of "Breaking Points," hosts Krystal Ball
+      and Saagar Enjeti interview author Seth Harp about his new book focusing on Fort
+      Bragg, highlighting the need for independent journalism amidst a landscape dominated
+      by corporate interests. The article emphasizes the importance of alternatives
+      like ScheerPost, which aim to provide integrity-driven news, and encourages readers
+      to support such independent platforms through donations. Ball and Enjeti, both
+      seasoned political commentators, previously worked at major networks before launching
+      their own project, reflecting their commitment to delivering unfiltered political
+      discourse.
+    published: '2025-08-19T09:45:00+00:00'
+  - title: 'Patrick Lawrence: That Big, Beautiful Summit in Alaska'
+    url: https://scheerpost.com/2025/08/19/patrick-lawrence-that-big-beautiful-summit-in-alaska/
+    text: 'President Donald J. Trump on the phone with President Putin in the Oval Office.
+      (White House photo) By Patrick Lawrence / Original to ScheerPost No, the Trump–Putin
+      summit at a joint-forces military base in Anchorage last Friday did not produce
+      an agreement on a ceasefire in Ukraine. President Trump made no reference to “severe
+      consequences” if Vladimir Putin did not consent to such an accord. Nothing was
+      said about new sanctions against Russia and nothing about sanctions against nations
+      that trade with Russia. Trump appears not to have mentioned those nuclear-armed
+      submarines he ordered to “appropriate regions” a couple of weeks ago, and Putin
+      seems not to have asked about them. No, there was no such talk at Joint Base Elmendorf–Richardson.
+      After not quite three hours behind closed doors with the Russian president, Trump
+      departed Anchorage ahead of schedule, dropping the thought that he and Putin might
+      linger so that Volodymyr Zelensky, president of the autocratic Ukrainian regime,
+      could join them for further talks. And so the story got written after the summit
+      concluded. “ No ceasefire, no deal ,” the BBC concluded curtly. “ Trump and Putin
+      Put on a Show of Friendship but Come Away Without a Deal ,” The New York Times
+      reported late Friday. And from CNN, which had a dozen reporters on the story beneath
+      this headline: “ Trump–Putin summit ends without concrete deal .” How yesterday,
+      how swiftly passé all that early coverage proves but three days after Trump returned
+      to Washington and Putin to Moscow. As of follow-on talks at the White House Monday
+      with Zelensky and a swarm of European leaders, Trump seems to have rendered a
+      ceasefire utterly beside the point in favor of an agreement he is fashioning with
+      Putin that, if it comes to be — and we must stay with “if” for now — will prove
+      stunningly concrete. Trump is after an enduring peace now — this as a subset of
+      a new era in U.S.–Russian relations. Pull this off and he will improve his place
+      in the history texts by magnitudes. We do not know, and may never know, precisely
+      what the two leaders said to one another behind closed doors as their interpreters
+      and their foreign ministers, Sergei Lavrov and Marco Rubio, sat beside them. But
+      it did not take long for Trump to start unpacking the plan he and Putin began
+      to fashion during their talks. In post-summit interviews and social media posts,
+      and in his encounters with Zelensky and his European sponsors at the White House
+      Monday, Trump has made it plain as rain that an awful lot of something was discussed
+      at a summit where nothing was reported to get done. Within hours of the summit,
+      Trump said in an interview with Fox News that he and Putin were near an agreement
+      on an exchange of territories between Russia and Ukraine and that there would
+      be security guarantees for the latter after the cessation of hostilities. “There
+      are points that we negotiated and those points that we largely have agreed on,”
+      Trump told Sean Hannity. There is no telling how close or far Washington, Moscow,
+      Kiev and (to the extent they matter) the Europeans may be from a comprehensive
+      settlement. “Largely” covers an infinitude of near misses and failures, and Donald
+      Trump is, after all, Donald Trump. But I read in this quick pencil-sketch a suggestion
+      of the give-and-take dynamic between Trump and Putin: Russia will get some of
+      the land it has fought for these past three years, which, if you look at a map,
+      amounts to a security guarantee against the aggressions of viscerally Russophobic
+      Ukrainians; the United States and the Western powers will cease arming the Kiev
+      regime — another kind of guarantee. The Ukrainians will give up land but get security
+      guarantees of their own. Does this strike you as an unbalanced proposition? It
+      should. Implicit in it is something Trump understands but Ukraine, the Europeans
+      and the hawks in Washington simply refuse to accept: However long the fighting
+      may drag pointlessly on, Ukraine is the vanquished in this war; Russia the victor.
+      We have had a slow roll of revelations since the Fox News interview. Reuters reported
+      a day after the summit that Trump told Zelensky during a post-summit telephone
+      call that it was time to “make a deal” with Moscow, which must include ceding
+      some land to Russian sovereignty. “Russia is a very big power, and you’re not,”
+      Trump reportedly told the Ukrainian president. Reuters said it reflected Putin’s
+      demand in Anchorage that the Kiev regime recognize Russian sovereignty over all
+      of the Donbas, the eastern regions of Ukraine that Russia formally annexed in
+      September 2022 and parts of which, but not all, are under Russian military control.
+      Later Saturday came the big one, or a big one, as the post-summit situation is
+      nothing if not kinetic. “It was determined by all,” Trump declared on his Truth
+      Social platform , “that the best way to end the horrific war between Russia and
+      Ukraine is to go directly to a Peace Agreement, which would end the war, and not
+      a mere Ceasefire Agreement, which oftentimes do not hold up.” “A mere ceasefire.”
+      Wow. So much for that. A peace agreement instead of a ceasefire, cap “P” and cap
+      “A,” if you please. Wow times 10. This is a major, major departure from the demands
+      long advanced by all of the Western powers and Ukraine — an implicit rejection,
+      this is to say, of the prevalent anti–Russian orthodoxy. No Western leader, if
+      you have not noticed, has ever called for an end to the war. None among them has
+      ever mentioned a peace accord for the simple reason the Western powers do not
+      want peace with Russia. It is with this statement, then, that Trump signaled his
+      determination to chart new territory. Zelensky’s intent as he made plans to see
+      Trump Monday was to persuade him to pull him back from the frightening idea of
+      a peace agreement and reinvest in the demand for a ceasefire. This was also what
+      the crew from across the Atlantic had in mind. Kier Starmer, Emmanuel Macron,
+      Friedrich Merz: The British, French and German leaders were there. So were Mark
+      Rutte, the NATO sec-gen, and Ursula von der Leyen, the president of the European
+      Commission. Hawks all, this crowd. They arrived, as news reports indicated, in
+      a state somewhere between alarm and panic. Trump appears to have heard these people
+      out on the ceasefire question, as was to be expected. But there is no indication
+      that the thought went much beyond hypothetical notions of what might be discussed
+      in an also hypothetical summit between Zelensky and Putin. And there is every
+      indication Trump holds to his early post-summit disclosures, of which there is
+      now more yet-to-be-confirmed detail, notably in the land-for-guarantees line and
+      what Trump has meant in his mentions of “land swaps.” After holding referendums
+      three years ago, Russia formally annexed four regions of eastern Ukraine, Luhansk,
+      Donetsk, Zaporizhzhia and Kherson. The first two of these comprise the Donbas
+      and are the most strategically important to the Russians — who hold more or less
+      all of Luhansk but only part of Donetsk. It now appears that Russia may be willing
+      to give up its claims to Zaporizhzhia and Kherson in exchange for recognition
+      of its sovereignty over the whole of the Donbas. Steve Witkoff, who serves as
+      Trump’s special envoy, hinted at this in an interview with CNN on Sunday. No clarity
+      on the lend question came out of the White House Monday. But Trump gave Zelensky
+      one bit of reassurance that has raised many eyebrows in many places. “We will
+      give them very good protection, very good security,” Trump said as he recounted
+      his discussions with Zelensky on the question of security guarantees. “That’s
+      part of it.” This has been widely read as a suggestion that U.S. forces may participate
+      in one or another kind of security cordon in postwar Ukraine, and Trump has not
+      ruled out a U.S. military presence. But at this early stage of the diplomatic
+      process Anchorage set in motion, all such questions are for now wet cement. “There
+      are no details how it will work, and what America’s role will be, what Europe’s
+      role will be,” Zelensky said Monday afternoon of whatever security guarantees
+      are under discussion. I have to say I find the thought of either Americans or
+      Europeans operating on Ukrainian soil as guarantors of security something close
+      to preposterous. Where and when in history have combatants or the sponsors of
+      combatants switched to the role of peacekeepers? I am not at all surprised to
+      read that the Russians, watching all this from afar, issued a vigorous objection
+      Monday to the talk of American or European guarantors in a postwar environment.
+      Read the wording here carefully: “We reaffirm our repeatedly stated position of
+      categorical rejection of any scenarios involving the presence of a military contingent
+      from NATO countries in Ukraine.” Moscow’s problem is not only the thought of a
+      NATO contingent. It is with any contingent from any NATO member. The obvious conclusions
+      here, and I do not see any avoiding either, are that Washington and Moscow are
+      very, very far from signatures on paper, and it is well to listen to Donald Trump
+      without drawing any conclusions other than these. As his record shows, Trump places
+      a heavy weight on his personal relations with other leaders. As the post–Anchorage
+      process continues, he is likely to discover this mode of operating has its limits.
+      On Monday, according to a European diplomat quoted in Reuters, he immediately
+      telephoned Putin after his talks at the White House “and began the arrangements
+      for a meeting, at a location to be determined, between President Putin and President
+      Zelensky,” as he, Trump, put it on Truth Social. This is sheer showmanship, in
+      my read. I have serious doubts Putin’s relations with Trump are such that he would
+      find this kind of informality appropriate. ■ Trump’s call for a peace pact is
+      a reversal even of what he insisted upon less than two weeks ago. But most saliently
+      to the point, it is an affirmation of the Kremlin’s position for who knows how
+      long. The war must end, but a temporary ceasefire is of no use, the Kremlin has
+      incessantly asserted. Ending the war decisively requires all sides to negotiate
+      the circumstances that led to the war — the “root causes,” as Putin, Lavrov and
+      every other Russian official speaking on the subject puts it. Even before the
+      encounter in Anchorage, we read countless reports in mainstream media that such
+      a summit was a bad idea bearing with it a perilous risk that Trump would be “played”
+      by the wily Russian president. Predictably enough, this is now the standard analysis.
+      Trump “aligned with Putin,” The New York Times reported, “giving Russia an advantage
+      in talks to end the fighting.” A story over the weekend in The Telegraph appeared
+      under the headline, “Putin got exactly what he wanted from Trump.” There are bales
+      of this stuff coming out in mainstream media as we speak. More of same comes daily.
+      The American Prospect ran a piece Monday under the headline “ Putin’s Poodle .”
+      In a positively disgraceful post on official “X” account, the Democratic Party
+      published an AI–generated simulation of Trump on a leash held by Putin. Serious
+      discourse, anyone? Inevitably, we read again the damning cliché. “He got played
+      again,” Ivo Daalder, a been-around-forever militarist and America’s ambassador
+      to NATO during the Obama years, said in an interview with The Times’s Peter Baker.
+      This locution —  “so-and-so got played,” or “so-and-so played so-and-so” — has
+      fascinated me for years. This is because it always serves as a veil, purporting
+      to mean something but with no meaning. What actually happens when someone plays
+      another or someone gets played? So far as I can make out, this is when two people
+      agree on something the person using this vulgar phrase does not like. Corollary:
+      Smart people don’t get played; only stupid people get played. The caker in the
+      coverage this past weekend belongs to Peter Baker, The Times’s reliably sycophantic
+      White House correspondent. “Even in the annals of Mr. Trump’s erratic presidency,”
+      he writes, “the Anchorage meeting with Mr. Putin now stands out as a reversal
+      of historic proportions.” So far, so good. What happened in Anchorage is potentially
+      historic. But then: “ The net effect was to give Mr. Putin a free pass to continue
+      his war against his neighbor indefinitely without further penalty, pending time-consuming
+      negotiations for a more sweeping deal that appears elusive at best. Instead of
+      a halt to the slaughter — ‘I’m in this to stop the killing,’ Mr. Trump had said
+      on the way to Alaska — the president left Anchorage with pictures of him and Mr.
+      Putin joshing on a red carpet and in the presidential limousine…” Yes, seeking
+      peace is enabling war, just as Orwell had it, and negotiating an enduring settlement
+      covering causes would take too long to bother about. And those photographs: Horrible.
+      They prolonged the slaughter. If Trump hadn’t greeted the Russian president civilly
+      he could’ve got the ceasefire we want instead of an end to the war, which the
+      people for whom I clerk do not want. I’ve come to rely on Peter Baker for sound
+      logic and good writing of this kind, honestly. It’s a form of fun over morning
+      coffee. ■ Trump sinned against the orthodoxy during those hours with Vladimir
+      Putin in Anchorage. Twice, by my count. Either he did not read the catechism or
+      he read it and put it aside. And the extent to which the summit proves an historic
+      turn will be precisely the extent to which Trump continues in his sinful ways.
+      As noted, it remains unclear what exactly was said and what of substance will
+      come of the Trump–Putin summit—what terms for a cessation of hostilities in Ukraine,
+      the future of U.S.–Russian relations, etc. But in the course of his talks with
+      Putin Donald Trump got one big, beautiful thing done: The president of the United
+      States listened as the president of the Russian Federation spoke. Of this we can
+      be certain, given Putin’s demeanor afterward and Trump’s post-summit interviews,
+      social media posts and public statements. Trump listened as the world watched.
+      This amounts to a public assertion that Russia’s perspectives on the various crises
+      at issue—apart from Ukraine there is NATO’s eastward advance, arms control, and
+      a new security framework for East–West relations — must be heard and considered
+      in the course of comprehensive negotiations. This, Trump’s first sin, is potentially
+      an opening to a new geopolitical era, the door to that neo-détente some of us
+      thought Trump would put in place during his first term until the Deep State sank
+      his project by way of the Russiagate hoax — yes, Trump’s term is good enough —
+      and various other disinformation and subterfuge operations. The “centrist” leadership
+      in Washington and the European capitals has refused to listen to Moscow for many
+      years now; the media that publish the bulletins of these trans–Atlantic elites
+      routinely make the case that anything Putin says is by definition the opposite
+      of true and that listening to the Russians on any topic is beyond all the fence
+      posts, irretrievably out-of-bounds. It is hard to overstate the magnitude of Trump’s
+      transgression against this background. Trump’s second sin is his evident embrace
+      of reality. And reality, like listening, has also been off-limits for the centrist
+      elites and those clerking for them in media on both sides of the Atlantic. This
+      has been so at last since the U.S.–cultivated coup that brought the current regime
+      of crooks and neo–Nazis to power 11 years ago. Those dwelling in the Kingdom of
+      Pretend have carried on for months as if the Kiev regime can set the terms for
+      any kind of settlement and Moscow will have no choice but to accept them. “Ukraine
+      is also determined not to let Russia set the terms and structure of future peace
+      talks,” The Times reported from Kiev in a pre-summit curtain raiser . Not to let
+      Russia…? Along comes Trump to assert in so many words the war is lost — I have
+      written this severally for more than a year — and that Kiev simply has no grounds
+      to dictate the terms of what will at some point amount to its surrender even if
+      it is never called by its name. Negotiate, yes. Insist upon, out of the question.
+      The yet-greater reality Trump now imposes on the proceedings has to do with the
+      Russian position. The Western powers — and of course media — habitually dismiss
+      Moscow’s concerns out of hand as if they are “unreasonable,” a common descriptive,
+      or “nonstarters,” or have something to do with Putin’s grand plan to reconstitute
+      — these people cannot make up their minds — either the Tzarist empire or the Soviet
+      Union. Headline in The Times’s Sunday editions: “ Putin Sees Ukraine Through a
+      Lens of Grievance Over Lost Glory .” A claim to historicity disguising a complete
+      denial of history. Nothing in this piece, or virtually anywhere else in mainstream
+      media, about the West’s post–Soviet betrayals, NATO’s near-complete encirclement
+      of the Russian Federation, Putin’s years of efforts in behalf of a renovated security
+      framework that — first rule in this kind of statecraft — benefits both sides and
+      so stands the best chance of enduring. If you read the transcript of the remarks
+      Putin and Trump made after their talks — and here is the version published on
+      the Kremlin’s web site — you detect easily enough the awareness of chronology
+      and causality the two shared. Trump did not, in a phrase, erase the history preceding
+      this moment — which is, now I think of it, yet a third of his sins. We should
+      all join him in this. History is essential to understanding how things turned
+      out in Anchorage. To say Trump aligned with Putin, or got played or otherwise
+      capitulated, is another way, a simpleton’s or cynic’s way, of denying or veiling
+      reality. In my read, Trump listened to Putin’s case and has concluded, Yes, he
+      is right. This is the ultimate reality long at issue and long unsayable. Trump
+      has done no less and no more than speak this truth at last. The rest is rubbish.
+      Let us sin along with Trump, then, if we haven’t already. Let us all look past
+      the mountain ranges of propaganda, cognitive warfare, perception management and
+      what have you and say what Trump is now saying: It is time to acknowledge forthrightly
+      that Putin is right about the war and its causes, about the Biden regime’s purposeful
+      provocations, about the larger questions of which it is merely a subset and about
+      how most sensibly to negotiate a lasting settlement in the borderlands between
+      Europe and Russia and altogether between West and East. ■ One of the most freighted
+      moments during the time Putin and Trump spoke at their podiums after their talks
+      — Putin first, Trump afterward — occurred when Putin suggested that Trump join
+      him for another summit, this one in the Russian capital. “Next time in Moscow,”
+      Putin said, apparently in English. Trump’s reply weighs five hundred pounds. “Oh,
+      that’s interesting,” he said. “I don’t know. I’ll get a little heat on that one,
+      but I could see it possibly happening.” We are left with two questions. They are
+      closely related; one is easily disposed of, the other is a graver matter. How
+      did Trump get from the incessant threats he leveled at Russia prior to the summit
+      to the cordiality on display at Anchorage? What happened? What is the nature of
+      the transformation? I have little trouble with this. Setting aside Trump’s ever-shifting
+      views on any given question, it looks to me now that all his pre-summit huffing
+      and puffing was intended not for Putin’s ears but to mollify the choruses of Russophobes
+      long prevalent in Washington’s policy circles. Before the summit you had Lindsey
+      Graham banging on about “crushing the Russian economy” and “breaking the bones
+      of the Russian economy” if Putin didn’t end the war within one or the other of
+      those deadlines Trump set and then ignored. And the supercilious senator from
+      South Carolina is among the squeakier voices among the hawks running around our
+      nation’s capital. Let us not forget: Amid all Trump’s inconstancy, he has never
+      swerved from his desire to reconstruct relations with Russia just as he now appears
+      intent on doing. In my read the real Donald Trump has just stood up. Will he be
+      able to get this done? This is the more serious line of inquiry. Trump meetings
+      Monday do not appear to have blown him off course. In my read Zelensky and the
+      Europeans probably did a lot more listening than talking and are unlikely to get
+      further than marginal adjustments in his determination to continue chasing his
+      White Whale. No, Trump’s bigger challenge has not yet made an appearance. Trump
+      tried during his first term to bring to a close a couple of the Deep State’s most
+      essential theaters of animosity, and the apparatus — the intelligence agencies,
+      the Pentagon, the defense contractors, the think tanks, national security plants
+      in media, the advisers these constituencies imposed on Trump — destroyed these
+      efforts P.D.Q. One of these was Trump’s plan for a new détente with Moscow, which
+      resulted in all those memorable Russiagate years. The other was an accord with
+      North Korea that would have defused any decades of highly militarized tension
+      in Northeast Asia. This was in the spring of 2019. As brilliantly reported by
+      two Reuters correspondents , John Bolton, the fanatic then serving as Trump’s
+      national security adviser, scuttled Trump’s ship the very day he was to structure
+      an accord with Kim Jong-un during talks in Hanoi. In the best of circumstances
+      you never know what is next with Donald Trump. I mention these occasions because
+      the more ambitious his plans for big policy breakthroughs the less we can be certain
+      of their outcome. Peace is always a very dangerous topic to raise in Washington.
+      Let us watch these next weeks and months, then — vigilantly, I mean. Please share
+      this story and help us grow our network! Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Patrick Lawrence Patrick
+      Lawrence , a correspondent abroad for many years, chiefly for the International
+      Herald Tribune , is a media critic, essayist, author and lecturer. His new book,
+      Journalists and Their Shadows , is out now from Clarity Press . His website is
+      Patrick Lawrence . Support his work via his Patreon site . Author Site'
+    one_sentence_summary: During a recent summit at a military base in Anchorage, President
+      Trump and President Putin did not reach any agreements on a ceasefire in Ukraine,
+      nor did they discuss sanctions or military matters, leading to an early departure
+      from the meeting.
+    paragraph_summary: The recent summit between President Donald Trump and President
+      Vladimir Putin at Joint Base Elmendorf–Richardson in Anchorage did not yield any
+      agreements on a ceasefire in Ukraine, nor did it address potential sanctions against
+      Russia or its trading partners. The meeting concluded without significant discussions
+      on military matters, and Trump departed early, dismissing the possibility of further
+      talks with Ukrainian President Volodymyr Zelensky. Initial media coverage highlighted
+      the lack of a deal, but in subsequent discussions at the White House, Trump appeared
+      to shift focus towards crafting a more substantial agreement with Putin aimed
+      at establishing enduring peace and a new era in U.S.–Russian relations, which
+      could enhance his historical legacy if successful.
+    published: '2025-08-19T09:00:00+00:00'
+  - title: 'Patrick Lawrence: That Big, Beautiful Summit in Alaska'
+    url: https://scheerpost.com/2025/08/19/patrick-lawrence-that-big-beautiful-summit-in-alaska/
+    text: 'President Donald J. Trump on the phone with President Putin in the Oval Office.
+      (White House photo) By Patrick Lawrence / Original to ScheerPost No, the Trump–Putin
+      summit at a joint-forces military base in Anchorage last Friday did not produce
+      an agreement on a ceasefire in Ukraine. President Trump made no reference to “severe
+      consequences” if Vladimir Putin did not consent to such an accord. Nothing was
+      said about new sanctions against Russia and nothing about sanctions against nations
+      that trade with Russia. Trump appears not to have mentioned those nuclear-armed
+      submarines he ordered to “appropriate regions” a couple of weeks ago, and Putin
+      seems not to have asked about them. No, there was no such talk at Joint Base Elmendorf–Richardson.
+      After not quite three hours behind closed doors with the Russian president, Trump
+      departed Anchorage ahead of schedule, dropping the thought that he and Putin might
+      linger so that Volodymyr Zelensky, president of the autocratic Ukrainian regime,
+      could join them for further talks. And so the story got written after the summit
+      concluded. “ No ceasefire, no deal ,” the BBC concluded curtly. “ Trump and Putin
+      Put on a Show of Friendship but Come Away Without a Deal ,” The New York Times
+      reported late Friday. And from CNN, which had a dozen reporters on the story beneath
+      this headline: “ Trump–Putin summit ends without concrete deal .” How yesterday,
+      how swiftly passé all that early coverage proves but three days after Trump returned
+      to Washington and Putin to Moscow. As of follow-on talks at the White House Monday
+      with Zelensky and a swarm of European leaders, Trump seems to have rendered a
+      ceasefire utterly beside the point in favor of an agreement he is fashioning with
+      Putin that, if it comes to be — and we must stay with “if” for now — will prove
+      stunningly concrete. Trump is after an enduring peace now — this as a subset of
+      a new era in U.S.–Russian relations. Pull this off and he will improve his place
+      in the history texts by magnitudes. We do not know, and may never know, precisely
+      what the two leaders said to one another behind closed doors as their interpreters
+      and their foreign ministers, Sergei Lavrov and Marco Rubio, sat beside them. But
+      it did not take long for Trump to start unpacking the plan he and Putin began
+      to fashion during their talks. In post-summit interviews and social media posts,
+      and in his encounters with Zelensky and his European sponsors at the White House
+      Monday, Trump has made it plain as rain that an awful lot of something was discussed
+      at a summit where nothing was reported to get done. Within hours of the summit,
+      Trump said in an interview with Fox News that he and Putin were near an agreement
+      on an exchange of territories between Russia and Ukraine and that there would
+      be security guarantees for the latter after the cessation of hostilities. “There
+      are points that we negotiated and those points that we largely have agreed on,”
+      Trump told Sean Hannity. There is no telling how close or far Washington, Moscow,
+      Kiev and (to the extent they matter) the Europeans may be from a comprehensive
+      settlement. “Largely” covers an infinitude of near misses and failures, and Donald
+      Trump is, after all, Donald Trump. But I read in this quick pencil-sketch a suggestion
+      of the give-and-take dynamic between Trump and Putin: Russia will get some of
+      the land it has fought for these past three years, which, if you look at a map,
+      amounts to a security guarantee against the aggressions of viscerally Russophobic
+      Ukrainians; the United States and the Western powers will cease arming the Kiev
+      regime — another kind of guarantee. The Ukrainians will give up land but get security
+      guarantees of their own. Does this strike you as an unbalanced proposition? It
+      should. Implicit in it is something Trump understands but Ukraine, the Europeans
+      and the hawks in Washington simply refuse to accept: However long the fighting
+      may drag pointlessly on, Ukraine is the vanquished in this war; Russia the victor.
+      We have had a slow roll of revelations since the Fox News interview. Reuters reported
+      a day after the summit that Trump told Zelensky during a post-summit telephone
+      call that it was time to “make a deal” with Moscow, which must include ceding
+      some land to Russian sovereignty. “Russia is a very big power, and you’re not,”
+      Trump reportedly told the Ukrainian president. Reuters said it reflected Putin’s
+      demand in Anchorage that the Kiev regime recognize Russian sovereignty over all
+      of the Donbas, the eastern regions of Ukraine that Russia formally annexed in
+      September 2022 and parts of which, but not all, are under Russian military control.
+      Later Saturday came the big one, or a big one, as the post-summit situation is
+      nothing if not kinetic. “It was determined by all,” Trump declared on his Truth
+      Social platform , “that the best way to end the horrific war between Russia and
+      Ukraine is to go directly to a Peace Agreement, which would end the war, and not
+      a mere Ceasefire Agreement, which oftentimes do not hold up.” “A mere ceasefire.”
+      Wow. So much for that. A peace agreement instead of a ceasefire, cap “P” and cap
+      “A,” if you please. Wow times 10. This is a major, major departure from the demands
+      long advanced by all of the Western powers and Ukraine — an implicit rejection,
+      this is to say, of the prevalent anti–Russian orthodoxy. No Western leader, if
+      you have not noticed, has ever called for an end to the war. None among them has
+      ever mentioned a peace accord for the simple reason the Western powers do not
+      want peace with Russia. It is with this statement, then, that Trump signaled his
+      determination to chart new territory. Zelensky’s intent as he made plans to see
+      Trump Monday was to persuade him to pull him back from the frightening idea of
+      a peace agreement and reinvest in the demand for a ceasefire. This was also what
+      the crew from across the Atlantic had in mind. Kier Starmer, Emmanuel Macron,
+      Friedrich Merz: The British, French and German leaders were there. So were Mark
+      Rutte, the NATO sec-gen, and Ursula von der Leyen, the president of the European
+      Commission. Hawks all, this crowd. They arrived, as news reports indicated, in
+      a state somewhere between alarm and panic. Trump appears to have heard these people
+      out on the ceasefire question, as was to be expected. But there is no indication
+      that the thought went much beyond hypothetical notions of what might be discussed
+      in an also hypothetical summit between Zelensky and Putin. And there is every
+      indication Trump holds to his early post-summit disclosures, of which there is
+      now more yet-to-be-confirmed detail, notably in the land-for-guarantees line and
+      what Trump has meant in his mentions of “land swaps.” After holding referendums
+      three years ago, Russia formally annexed four regions of eastern Ukraine, Luhansk,
+      Donetsk, Zaporizhzhia and Kherson. The first two of these comprise the Donbas
+      and are the most strategically important to the Russians — who hold more or less
+      all of Luhansk but only part of Donetsk. It now appears that Russia may be willing
+      to give up its claims to Zaporizhzhia and Kherson in exchange for recognition
+      of its sovereignty over the whole of the Donbas. Steve Witkoff, who serves as
+      Trump’s special envoy, hinted at this in an interview with CNN on Sunday. No clarity
+      on the lend question came out of the White House Monday. But Trump gave Zelensky
+      one bit of reassurance that has raised many eyebrows in many places. “We will
+      give them very good protection, very good security,” Trump said as he recounted
+      his discussions with Zelensky on the question of security guarantees. “That’s
+      part of it.” This has been widely read as a suggestion that U.S. forces may participate
+      in one or another kind of security cordon in postwar Ukraine, and Trump has not
+      ruled out a U.S. military presence. But at this early stage of the diplomatic
+      process Anchorage set in motion, all such questions are for now wet cement. “There
+      are no details how it will work, and what America’s role will be, what Europe’s
+      role will be,” Zelensky said Monday afternoon of whatever security guarantees
+      are under discussion. I have to say I find the thought of either Americans or
+      Europeans operating on Ukrainian soil as guarantors of security something close
+      to preposterous. Where and when in history have combatants or the sponsors of
+      combatants switched to the role of peacekeepers? I am not at all surprised to
+      read that the Russians, watching all this from afar, issued a vigorous objection
+      Monday to the talk of American or European guarantors in a postwar environment.
+      Read the wording here carefully: “We reaffirm our repeatedly stated position of
+      categorical rejection of any scenarios involving the presence of a military contingent
+      from NATO countries in Ukraine.” Moscow’s problem is not only the thought of a
+      NATO contingent. It is with any contingent from any NATO member. The obvious conclusions
+      here, and I do not see any avoiding either, are that Washington and Moscow are
+      very, very far from signatures on paper, and it is well to listen to Donald Trump
+      without drawing any conclusions other than these. As his record shows, Trump places
+      a heavy weight on his personal relations with other leaders. As the post–Anchorage
+      process continues, he is likely to discover this mode of operating has its limits.
+      On Monday, according to a European diplomat quoted in Reuters, he immediately
+      telephoned Putin after his talks at the White House “and began the arrangements
+      for a meeting, at a location to be determined, between President Putin and President
+      Zelensky,” as he, Trump, put it on Truth Social. This is sheer showmanship, in
+      my read. I have serious doubts Putin’s relations with Trump are such that he would
+      find this kind of informality appropriate. ■ Trump’s call for a peace pact is
+      a reversal even of what he insisted upon less than two weeks ago. But most saliently
+      to the point, it is an affirmation of the Kremlin’s position for who knows how
+      long. The war must end, but a temporary ceasefire is of no use, the Kremlin has
+      incessantly asserted. Ending the war decisively requires all sides to negotiate
+      the circumstances that led to the war — the “root causes,” as Putin, Lavrov and
+      every other Russian official speaking on the subject puts it. Even before the
+      encounter in Anchorage, we read countless reports in mainstream media that such
+      a summit was a bad idea bearing with it a perilous risk that Trump would be “played”
+      by the wily Russian president. Predictably enough, this is now the standard analysis.
+      Trump “aligned with Putin,” The New York Times reported, “giving Russia an advantage
+      in talks to end the fighting.” A story over the weekend in The Telegraph appeared
+      under the headline, “Putin got exactly what he wanted from Trump.” There are bales
+      of this stuff coming out in mainstream media as we speak. More of same comes daily.
+      The American Prospect ran a piece Monday under the headline “ Putin’s Poodle .”
+      In a positively disgraceful post on official “X” account, the Democratic Party
+      published an AI–generated simulation of Trump on a leash held by Putin. Serious
+      discourse, anyone? Inevitably, we read again the damning cliché. “He got played
+      again,” Ivo Daalder, a been-around-forever militarist and America’s ambassador
+      to NATO during the Obama years, said in an interview with The Times’s Peter Baker.
+      This locution —  “so-and-so got played,” or “so-and-so played so-and-so” — has
+      fascinated me for years. This is because it always serves as a veil, purporting
+      to mean something but with no meaning. What actually happens when someone plays
+      another or someone gets played? So far as I can make out, this is when two people
+      agree on something the person using this vulgar phrase does not like. Corollary:
+      Smart people don’t get played; only stupid people get played. The caker in the
+      coverage this past weekend belongs to Peter Baker, The Times’s reliably sycophantic
+      White House correspondent. “Even in the annals of Mr. Trump’s erratic presidency,”
+      he writes, “the Anchorage meeting with Mr. Putin now stands out as a reversal
+      of historic proportions.” So far, so good. What happened in Anchorage is potentially
+      historic. But then: “ The net effect was to give Mr. Putin a free pass to continue
+      his war against his neighbor indefinitely without further penalty, pending time-consuming
+      negotiations for a more sweeping deal that appears elusive at best. Instead of
+      a halt to the slaughter — ‘I’m in this to stop the killing,’ Mr. Trump had said
+      on the way to Alaska — the president left Anchorage with pictures of him and Mr.
+      Putin joshing on a red carpet and in the presidential limousine…” Yes, seeking
+      peace is enabling war, just as Orwell had it, and negotiating an enduring settlement
+      covering causes would take too long to bother about. And those photographs: Horrible.
+      They prolonged the slaughter. If Trump hadn’t greeted the Russian president civilly
+      he could’ve got the ceasefire we want instead of an end to the war, which the
+      people for whom I clerk do not want. I’ve come to rely on Peter Baker for sound
+      logic and good writing of this kind, honestly. It’s a form of fun over morning
+      coffee. ■ Trump sinned against the orthodoxy during those hours with Vladimir
+      Putin in Anchorage. Twice, by my count. Either he did not read the catechism or
+      he read it and put it aside. And the extent to which the summit proves an historic
+      turn will be precisely the extent to which Trump continues in his sinful ways.
+      As noted, it remains unclear what exactly was said and what of substance will
+      come of the Trump–Putin summit—what terms for a cessation of hostilities in Ukraine,
+      the future of U.S.–Russian relations, etc. But in the course of his talks with
+      Putin Donald Trump got one big, beautiful thing done: The president of the United
+      States listened as the president of the Russian Federation spoke. Of this we can
+      be certain, given Putin’s demeanor afterward and Trump’s post-summit interviews,
+      social media posts and public statements. Trump listened as the world watched.
+      This amounts to a public assertion that Russia’s perspectives on the various crises
+      at issue—apart from Ukraine there is NATO’s eastward advance, arms control, and
+      a new security framework for East–West relations — must be heard and considered
+      in the course of comprehensive negotiations. This, Trump’s first sin, is potentially
+      an opening to a new geopolitical era, the door to that neo-détente some of us
+      thought Trump would put in place during his first term until the Deep State sank
+      his project by way of the Russiagate hoax — yes, Trump’s term is good enough —
+      and various other disinformation and subterfuge operations. The “centrist” leadership
+      in Washington and the European capitals has refused to listen to Moscow for many
+      years now; the media that publish the bulletins of these trans–Atlantic elites
+      routinely make the case that anything Putin says is by definition the opposite
+      of true and that listening to the Russians on any topic is beyond all the fence
+      posts, irretrievably out-of-bounds. It is hard to overstate the magnitude of Trump’s
+      transgression against this background. Trump’s second sin is his evident embrace
+      of reality. And reality, like listening, has also been off-limits for the centrist
+      elites and those clerking for them in media on both sides of the Atlantic. This
+      has been so at last since the U.S.–cultivated coup that brought the current regime
+      of crooks and neo–Nazis to power 11 years ago. Those dwelling in the Kingdom of
+      Pretend have carried on for months as if the Kiev regime can set the terms for
+      any kind of settlement and Moscow will have no choice but to accept them. “Ukraine
+      is also determined not to let Russia set the terms and structure of future peace
+      talks,” The Times reported from Kiev in a pre-summit curtain raiser . Not to let
+      Russia…? Along comes Trump to assert in so many words the war is lost — I have
+      written this severally for more than a year — and that Kiev simply has no grounds
+      to dictate the terms of what will at some point amount to its surrender even if
+      it is never called by its name. Negotiate, yes. Insist upon, out of the question.
+      The yet-greater reality Trump now imposes on the proceedings has to do with the
+      Russian position. The Western powers — and of course media — habitually dismiss
+      Moscow’s concerns out of hand as if they are “unreasonable,” a common descriptive,
+      or “nonstarters,” or have something to do with Putin’s grand plan to reconstitute
+      — these people cannot make up their minds — either the Tzarist empire or the Soviet
+      Union. Headline in The Times’s Sunday editions: “ Putin Sees Ukraine Through a
+      Lens of Grievance Over Lost Glory .” A claim to historicity disguising a complete
+      denial of history. Nothing in this piece, or virtually anywhere else in mainstream
+      media, about the West’s post–Soviet betrayals, NATO’s near-complete encirclement
+      of the Russian Federation, Putin’s years of efforts in behalf of a renovated security
+      framework that — first rule in this kind of statecraft — benefits both sides and
+      so stands the best chance of enduring. If you read the transcript of the remarks
+      Putin and Trump made after their talks — and here is the version published on
+      the Kremlin’s web site — you detect easily enough the awareness of chronology
+      and causality the two shared. Trump did not, in a phrase, erase the history preceding
+      this moment — which is, now I think of it, yet a third of his sins. We should
+      all join him in this. History is essential to understanding how things turned
+      out in Anchorage. To say Trump aligned with Putin, or got played or otherwise
+      capitulated, is another way, a simpleton’s or cynic’s way, of denying or veiling
+      reality. In my read, Trump listened to Putin’s case and has concluded, Yes, he
+      is right. This is the ultimate reality long at issue and long unsayable. Trump
+      has done no less and no more than speak this truth at last. The rest is rubbish.
+      Let us sin along with Trump, then, if we haven’t already. Let us all look past
+      the mountain ranges of propaganda, cognitive warfare, perception management and
+      what have you and say what Trump is now saying: It is time to acknowledge forthrightly
+      that Putin is right about the war and its causes, about the Biden regime’s purposeful
+      provocations, about the larger questions of which it is merely a subset and about
+      how most sensibly to negotiate a lasting settlement in the borderlands between
+      Europe and Russia and altogether between West and East. ■ One of the most freighted
+      moments during the time Putin and Trump spoke at their podiums after their talks
+      — Putin first, Trump afterward — occurred when Putin suggested that Trump join
+      him for another summit, this one in the Russian capital. “Next time in Moscow,”
+      Putin said, apparently in English. Trump’s reply weighs five hundred pounds. “Oh,
+      that’s interesting,” he said. “I don’t know. I’ll get a little heat on that one,
+      but I could see it possibly happening.” We are left with two questions. They are
+      closely related; one is easily disposed of, the other is a graver matter. How
+      did Trump get from the incessant threats he leveled at Russia prior to the summit
+      to the cordiality on display at Anchorage? What happened? What is the nature of
+      the transformation? I have little trouble with this. Setting aside Trump’s ever-shifting
+      views on any given question, it looks to me now that all his pre-summit huffing
+      and puffing was intended not for Putin’s ears but to mollify the choruses of Russophobes
+      long prevalent in Washington’s policy circles. Before the summit you had Lindsey
+      Graham banging on about “crushing the Russian economy” and “breaking the bones
+      of the Russian economy” if Putin didn’t end the war within one or the other of
+      those deadlines Trump set and then ignored. And the supercilious senator from
+      South Carolina is among the squeakier voices among the hawks running around our
+      nation’s capital. Let us not forget: Amid all Trump’s inconstancy, he has never
+      swerved from his desire to reconstruct relations with Russia just as he now appears
+      intent on doing. In my read the real Donald Trump has just stood up. Will he be
+      able to get this done? This is the more serious line of inquiry. Trump meetings
+      Monday do not appear to have blown him off course. In my read Zelensky and the
+      Europeans probably did a lot more listening than talking and are unlikely to get
+      further than marginal adjustments in his determination to continue chasing his
+      White Whale. No, Trump’s bigger challenge has not yet made an appearance. Trump
+      tried during his first term to bring to a close a couple of the Deep State’s most
+      essential theaters of animosity, and the apparatus — the intelligence agencies,
+      the Pentagon, the defense contractors, the think tanks, national security plants
+      in media, the advisers these constituencies imposed on Trump — destroyed these
+      efforts P.D.Q. One of these was Trump’s plan for a new détente with Moscow, which
+      resulted in all those memorable Russiagate years. The other was an accord with
+      North Korea that would have defused any decades of highly militarized tension
+      in Northeast Asia. This was in the spring of 2019. As brilliantly reported by
+      two Reuters correspondents , John Bolton, the fanatic then serving as Trump’s
+      national security adviser, scuttled Trump’s ship the very day he was to structure
+      an accord with Kim Jong-un during talks in Hanoi. In the best of circumstances
+      you never know what is next with Donald Trump. I mention these occasions because
+      the more ambitious his plans for big policy breakthroughs the less we can be certain
+      of their outcome. Peace is always a very dangerous topic to raise in Washington.
+      Let us watch these next weeks and months, then — vigilantly, I mean. Please share
+      this story and help us grow our network! Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Patrick Lawrence Patrick
+      Lawrence , a correspondent abroad for many years, chiefly for the International
+      Herald Tribune , is a media critic, essayist, author and lecturer. His new book,
+      Journalists and Their Shadows , is out now from Clarity Press . His website is
+      Patrick Lawrence . Support his work via his Patreon site . Author Site'
+    one_sentence_summary: During a recent summit at a military base in Anchorage, President
+      Trump and President Putin did not reach any agreements on a ceasefire in Ukraine,
+      nor did they discuss sanctions or military matters, leading to an early departure
+      from the meeting.
+    paragraph_summary: The recent summit between President Donald Trump and President
+      Vladimir Putin at Joint Base Elmendorf–Richardson in Anchorage did not yield any
+      agreements on a ceasefire in Ukraine, nor did it address potential sanctions against
+      Russia or its trading partners. The meeting concluded without significant discussions
+      on military matters, and Trump departed early, dismissing the possibility of further
+      talks with Ukrainian President Volodymyr Zelensky. Initial media coverage highlighted
+      the lack of a deal, but in subsequent discussions at the White House, Trump appeared
+      to shift focus towards crafting a more substantial agreement with Putin aimed
+      at establishing enduring peace and a new era in U.S.–Russian relations, which
+      could enhance his historical legacy if successful.
+    published: '2025-08-19T09:00:00+00:00'
+  - title: House Report Warns Trump Tariffs Could Stymie US Manufacturing for ‘Years
+      to Come’
+    url: https://scheerpost.com/2025/08/19/house-report-warns-trump-tariffs-could-stymie-us-manufacturing-for-years-to-come/
+    text: 'White House photo In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Brett Wilkins / Common Dreams US President Donald Trump’s tariff
+      whiplash has already harmed domestic manufacturing and could continue to do so
+      through at least the end of this decade to the tune of nearly half a trillion
+      dollars, a report published Monday by congressional Democrats on a key economic
+      committee warned. The Joint Economic Committee (JEC)-Minority said that recent
+      data belied Trump’s claim that his global trade war would boost domestic manufacturing,
+      pointing to the 37,000 manufacturing jobs lost since the president announced his
+      so-called “Liberation Day” tariffs in April. “Hiring in the manufacturing sector
+      has dropped to its lowest level in nearly a decade,” the Democrats on the committee
+      wrote. “In addition, many experts have noted that in and of itself, the uncertainty
+      created by the administration so far could significantly damage the broader economy
+      long-term.” “Based on both US business investment projections and economic analyses
+      of the UK in the aftermath of Brexit, the Joint Economic Committee-Minority calculates
+      that a similarly prolonged period of uncertainty in the US could result in an
+      average of 13% less manufacturing investment per year, amounting to approximately
+      $490 billion in foregone investment by 2029,” the report states. “Although businesses
+      have received additional clarity on reciprocal tariff rates in recent days, uncertainty
+      over outstanding negotiations is likely to continue to delay long-term investments
+      and pricing decisions,” the publication adds. “Furthermore, even if the uncertainty
+      about the US economy were to end tomorrow, evidence suggests that the uncertainty
+      that businesses have already faced in recent months would still have long-term
+      consequences for the manufacturing sector.” According to the JEC Democrats, the
+      Trump administration has made nearly 100 different tariff policy decisions since
+      April—”including threats, delays, and reversals”—creating uncertainty and insecurity
+      in markets and economies around the world. It’s not just manufacturing and markets—economic
+      data released last week by the Bureau of Labor Statistics showed that businesses
+      in some sectors are passing the costs of Trump’s tariffs on to consumers. As the
+      new JEC minority report notes: As independent research has shown , businesses
+      are less likely to make long-term investments when they face high uncertainty
+      about future policies and economic conditions. For manufacturers, decisions to
+      expand production—which often entail major, irreversible investments in equipment
+      and new facilities that typically take years to complete—require an especially
+      high degree of confidence that these expenses will pay off. This barrier, along
+      with other factors, makes manufacturing the sector most likely to see its growth
+      affected by trade policy uncertainty, as noted recently by analysts at Goldman
+      Sachs . “Strengthening American manufacturing is critical to the future of our
+      economy and our national security,” Joint Economic Committee Ranking Member Maggie
+      Hassan (D-N.H.) said in a statement Monday. “While President Trump promised that
+      he would expand our manufacturing sector, this report shows that, instead, the
+      chaos and uncertainty created by his tariffs has placed a burden on American manufacturers
+      that could weigh our country down for years to come.” Please share this story
+      and help us grow our network! Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Brett Wilkins Brett Wilkins is a staff
+      writer for Common Dreams. Author Site'
+    one_sentence_summary: A report by congressional Democrats warns that President Trump's
+      tariffs have already led to the loss of 37,000 manufacturing jobs and could cost
+      the domestic manufacturing sector nearly half a trillion dollars by the end of
+      the decade, contradicting his claims of a trade war benefiting American industry.
+    paragraph_summary: A report from the Joint Economic Committee-Minority, published
+      by congressional Democrats, warns that President Trump's tariffs could lead to
+      significant harm for domestic manufacturing, potentially costing nearly half a
+      trillion dollars by 2029. Since the announcement of the tariffs in April, the
+      U.S. has lost 37,000 manufacturing jobs, with hiring in the sector hitting its
+      lowest level in nearly a decade. The report highlights that the uncertainty created
+      by the administration's trade policies could result in an average of 13% less
+      manufacturing investment annually, totaling approximately $490 billion in lost
+      investment. Even recent clarity on tariff rates may not alleviate the long-term
+      negative impacts of the uncertainty on business decisions and the broader economy.
+    published: '2025-08-19T08:59:00+00:00'
+  - title: House Report Warns Trump Tariffs Could Stymie US Manufacturing for ‘Years
+      to Come’
+    url: https://scheerpost.com/2025/08/19/house-report-warns-trump-tariffs-could-stymie-us-manufacturing-for-years-to-come/
+    text: 'White House photo In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Brett Wilkins / Common Dreams US President Donald Trump’s tariff
+      whiplash has already harmed domestic manufacturing and could continue to do so
+      through at least the end of this decade to the tune of nearly half a trillion
+      dollars, a report published Monday by congressional Democrats on a key economic
+      committee warned. The Joint Economic Committee (JEC)-Minority said that recent
+      data belied Trump’s claim that his global trade war would boost domestic manufacturing,
+      pointing to the 37,000 manufacturing jobs lost since the president announced his
+      so-called “Liberation Day” tariffs in April. “Hiring in the manufacturing sector
+      has dropped to its lowest level in nearly a decade,” the Democrats on the committee
+      wrote. “In addition, many experts have noted that in and of itself, the uncertainty
+      created by the administration so far could significantly damage the broader economy
+      long-term.” “Based on both US business investment projections and economic analyses
+      of the UK in the aftermath of Brexit, the Joint Economic Committee-Minority calculates
+      that a similarly prolonged period of uncertainty in the US could result in an
+      average of 13% less manufacturing investment per year, amounting to approximately
+      $490 billion in foregone investment by 2029,” the report states. “Although businesses
+      have received additional clarity on reciprocal tariff rates in recent days, uncertainty
+      over outstanding negotiations is likely to continue to delay long-term investments
+      and pricing decisions,” the publication adds. “Furthermore, even if the uncertainty
+      about the US economy were to end tomorrow, evidence suggests that the uncertainty
+      that businesses have already faced in recent months would still have long-term
+      consequences for the manufacturing sector.” According to the JEC Democrats, the
+      Trump administration has made nearly 100 different tariff policy decisions since
+      April—”including threats, delays, and reversals”—creating uncertainty and insecurity
+      in markets and economies around the world. It’s not just manufacturing and markets—economic
+      data released last week by the Bureau of Labor Statistics showed that businesses
+      in some sectors are passing the costs of Trump’s tariffs on to consumers. As the
+      new JEC minority report notes: As independent research has shown , businesses
+      are less likely to make long-term investments when they face high uncertainty
+      about future policies and economic conditions. For manufacturers, decisions to
+      expand production—which often entail major, irreversible investments in equipment
+      and new facilities that typically take years to complete—require an especially
+      high degree of confidence that these expenses will pay off. This barrier, along
+      with other factors, makes manufacturing the sector most likely to see its growth
+      affected by trade policy uncertainty, as noted recently by analysts at Goldman
+      Sachs . “Strengthening American manufacturing is critical to the future of our
+      economy and our national security,” Joint Economic Committee Ranking Member Maggie
+      Hassan (D-N.H.) said in a statement Monday. “While President Trump promised that
+      he would expand our manufacturing sector, this report shows that, instead, the
+      chaos and uncertainty created by his tariffs has placed a burden on American manufacturers
+      that could weigh our country down for years to come.” Please share this story
+      and help us grow our network! Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Brett Wilkins Brett Wilkins is a staff
+      writer for Common Dreams. Author Site'
+    one_sentence_summary: A report by congressional Democrats warns that President Trump's
+      tariffs have already led to the loss of 37,000 manufacturing jobs and could cost
+      the domestic manufacturing sector nearly half a trillion dollars by the end of
+      the decade, contradicting his claims of a trade war benefiting American industry.
+    paragraph_summary: A report from the Joint Economic Committee-Minority, published
+      by congressional Democrats, warns that President Trump's tariffs could lead to
+      significant harm for domestic manufacturing, potentially costing nearly half a
+      trillion dollars by 2029. Since the announcement of the tariffs in April, the
+      U.S. has lost 37,000 manufacturing jobs, with hiring in the sector hitting its
+      lowest level in nearly a decade. The report highlights that the uncertainty created
+      by the administration's trade policies could result in an average of 13% less
+      manufacturing investment annually, totaling approximately $490 billion in lost
+      investment. Even recent clarity on tariff rates may not alleviate the long-term
+      negative impacts of the uncertainty on business decisions and the broader economy.
+    published: '2025-08-19T08:59:00+00:00'
+  - title: Trump and Putin’s Summit in Alaska Explained (w/ Ray McGovern)
+    url: https://scheerpost.com/2025/08/18/trump-and-putins-summit-in-alaska-explained-w-ray-mcgovern-2/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Ray
+      McGovern and Robert Scheer / Original to ScheerPost Click to subscribe on: Apple
+      / Spotify / Amazon / YouTube / Rumble Welcome to another compelling edition of
+      the Bob and Ray Show, where insightful journalism meets deep expertise. I’m your
+      host, Robert Scheer, joined by Ray McGovern, a former CIA analyst with a rich
+      background in Russian affairs. With 27 years at the CIA and a knowledge base that
+      spans decades, Ray is uniquely positioned to dissect the intricacies of international
+      relations, particularly concerning Russia and the ongoing conflict in Ukraine.
+      In today’s episode, we delve into the recent Alaska summit, a meeting many pundits
+      dismissed as inconsequential, labeling it a “nothing burger.” But as we’ll discuss,
+      both President Trump and President Putin emerged from the summit with differing
+      takes, raising critical questions about the shifting power dynamics on the global
+      stage. Trump proclaimed the discussions a success, while Putin appeared to reinforce
+      his position of strength, particularly regarding the Ukraine conflict. As we explore
+      this topic, we’ll reflect on the changing landscape of power relations, the implications
+      of Trump’s negotiating stance, and the broader ramifications for U.S. foreign
+      policy. Join us as we unpack these complex issues, challenge prevailing narratives,
+      and consider what this means for the future of international diplomacy and the
+      Ukrainian people caught in the crossfire. Transcript [00:00] Robert Scheer: Hi,
+      this is Robert Scheer with another edition of the Ray and Bob or the Bob and Ray
+      show. Ray McGovern, Bob Scheer. I’m the journalist. I’ve been at this for a long
+      time. Ray was actually one of the top Russia and Soviet experts at the CIA. He
+      was at the CIA for 27 years and was in Army intelligence before that. [00:22]
+      Robert Scheer: Ray recently returned from Russia, where he spoke at a forum that
+      Putin also attended and was quoted by TASS today. He has a strong international
+      reputation for his insights into Russian affairs and the Ukraine war. Today, we’re
+      going to discuss the Alaska summit. [00:45] Robert Scheer: I wanted to reach out
+      to Ray now because I was quite irritated after watching CNN, where they had a
+      panel of 12 people, including Bolton and Fareed Zakaria, who all claimed to understand
+      global affairs. They dismissed the Alaska summit as a “nothing burger.” They said
+      Putin got some photo ops and red carpet treatment, but that Trump was essentially
+      boxed out. [01:14] Robert Scheer: I didn’t see it that way, especially after listening
+      to Trump himself on Fox News with Hannity before he boarded the plane. He described
+      the conversation as a “10” and a great success. He indicated that he accepted
+      Putin’s view that a ceasefire wouldn’t make sense right now. [01:37] Robert Scheer:
+      Putin is speaking from a position of strength. The war is going well from his
+      perspective. So, I want to turn to Ray. I believe it wasn’t a nothing burger;
+      it signifies a recognition that power relations have changed in the world. [01:50]
+      Robert Scheer: I remember you told me early in our discussions, “Hey, Bob, it’s
+      like when we were kids in the Bronx, and there’s a guy on the street corner talking
+      to a big bully. The guy can push him around, but he knows he has his brother backing
+      him up.” Now, it’s different; Russia has China. [02:10] Robert Scheer: You can’t
+      just tell China they can’t buy oil from Russia without jeopardizing trade deals.
+      So, Ray, I’ll turn it over to you. I’m not the president; you’ve briefed presidents
+      like Reagan and Nixon. [02:28] Ray McGovern: Thanks for mentioning that TASS had
+      a whole article on my views of what happened yesterday. I was going to brag about
+      finally getting back into mainstream media after eight or nine years, but you’re
+      going to ask me whether it was Reuters or ABC. No, it was TASS, the Russian news
+      agency. [02:55] Ray McGovern: They called me up for a comment, and it ended up
+      being about what had already happened by that time. What happened was that Putin
+      had warned about excessive expectations a week ago. [03:20] Ray McGovern: He said,
+      “Be careful. We’re going to discuss Ukraine, but don’t have excessive expectations.”
+      And wouldn’t you know it, President Trump had excessive expectations based on
+      his persuasive abilities. [03:36] Ray McGovern: On the plane to Anchorage, he
+      told a Fox News reporter that he would be very disappointed if they didn’t come
+      up with some kind of agreement regarding a ceasefire. [03:59] Ray McGovern: They
+      spent three hours together. When asked about a ceasefire, Putin said no. Trump
+      had inflated expectations, and Putin turned him down. [05:06] Ray McGovern: It
+      became clear that Trump no longer thought a ceasefire was absolutely necessary
+      as the first step. Just two weeks ago, Kiev and its European allies insisted that
+      meaningful peace talks could only begin after a ceasefire. [05:40] Ray McGovern:
+      Trump likely told Putin, “Leave it to me. I may have to give something to old
+      Vlad, but I’ll get you a ceasefire.” And he failed miserably. [06:02] Ray McGovern:
+      Now, he’s saying a ceasefire shouldn’t be a sticking point; instead, they’re going
+      for a peace agreement directly—without a ceasefire. That’s a big shift. [06:13]
+      Ray McGovern: Next up, Zelensky is coming to the Oval Office. We remember how
+      J.D. Vance lit into him last time. [06:25] Ray McGovern: Vance is going to tell
+      him that we’re done supplying arms or money to Ukraine. If the Europeans want
+      to do that, let them. [06:59] Ray McGovern: Zelensky is going to face a tough
+      reality. Russia has already won on the battlefield. [07:22] Ray McGovern: As President
+      Obama stated back in 2015, it would be foolish to give Ukrainians the idea that
+      they could prevail against a Russia that is so much larger and better armed right
+      on their border. [08:38] Ray McGovern: This is Biden’s war. And Trump has a way
+      to deflect criticism. The truth is, the Ukrainians and the West have lost. Trump
+      wants a negotiated settlement to put a favorable spin on this defeat. [09:30]
+      Ray McGovern: He says he wants to stop the killing, which is something he often
+      repeats. [09:53] Robert Scheer: Let’s push back a bit. You’re making it sound
+      like a football game. We’re talking about people’s aspirations for freedom—whether
+      they are Ukrainian or Russian-speaking individuals in Ukraine. [10:24] Robert
+      Scheer: This isn’t just a matter of power; it’s about national identities and
+      the pain involved. Trump often brings up the killing and the war’s ramifications.
+      [10:40] Robert Scheer: He claims that if he were president, this war wouldn’t
+      have happened. He argues that it was not a necessary war and that there was an
+      understanding that could have prevented it. [11:21] Robert Scheer: Now we have
+      to negotiate an agreement that acknowledges this reality. This is similar to what
+      happened during the Vietnam War negotiations. [11:37] Robert Scheer: This was
+      a war of choice, and we must recognize the historical context that led to this
+      situation. [12:10] Robert Scheer: Trump is suggesting this is the best deal available.
+      If Zelensky doesn’t accept it, it becomes the Europeans’ war. [12:40] Robert Scheer:
+      Zelensky has indicated he wants to do what’s best for the Ukrainian people. If
+      he truly means that, a quick understanding will be necessary. [13:07] Robert Scheer:
+      This is not a nothing burger; it signifies a shift in how we conduct foreign policy.
+      Many neocons can’t accept it. [13:30] Robert Scheer: If they can end this war,
+      even with compromises, it could be seen as a success for Trump and Putin. [14:05]
+      Ray McGovern: Both leaders are saying this is a step toward resolution. But let’s
+      be honest: Obama refused to give Ukraine offensive weaponry, while Trump provided
+      Javelins and bragged about it. [14:38] Ray McGovern: Trump came in hoping for
+      a ceasefire, but Putin made it clear that was not in the cards. [15:03] Ray McGovern:
+      Now, Trump is saying they’re not going for just a ceasefire; they’re aiming for
+      a peace agreement. [15:19] Ray McGovern: Zelensky is going to face tough scrutiny
+      in the Oval Office. [15:45] Ray McGovern: Zelensky will likely be under pressure
+      since people in Ukraine are not willing to sacrifice themselves for this war.
+      [16:35] Ray McGovern: The Europeans have convinced him they can come in and help,
+      which is unrealistic. They don’t have the resources or weaponry. [17:17] Ray McGovern:
+      Unless Zelensky recognizes the reality, he may resist negotiations with inflated
+      expectations. [18:16] Robert Scheer: I’m curious to know if Trump is showing seriousness
+      about where power lies globally. [19:03] Robert Scheer: He points out the disparities
+      between Russia and China and how U.S. policy has pushed them together. [19:36]
+      Robert Scheer: Despite different ideologies, Russia and China are getting along
+      better now. [20:31] Robert Scheer: Trump believes he can work with these countries
+      regardless of their ideologies to create a deal that benefits America. [21:30]
+      Robert Scheer: I see this as a significant shift in global relations, marking
+      the end of the old Cold War. [22:20] Ray McGovern: I agree; it’s a tectonic shift.
+      We’re witnessing a balance of power change with Russia and China against the U.S.
+      [23:01] Ray McGovern: The last face-to-face summit was in June 2021. Biden was
+      confident, but this current situation is different. [23:32] Ray McGovern: Biden
+      seemed unaware of the threat posed by China to Russia, and now it’s clear they
+      are aligned against the U.S. [25:38] Ray McGovern: Now, Trump is trying to navigate
+      a very complex situation, hoping to stop the killing in Ukraine. [29:01] Ray McGovern:
+      Putin doesn’t want to push too far; he only seeks a buffer zone. There’s room
+      for negotiation if handled wisely. [30:40] Ray McGovern: Putin wants a resolution
+      that allows him to save face without demanding unconditional surrender. [31:41]
+      Robert Scheer: Thank you, Ray, for your insights. I appreciate the time you’ve
+      taken, and it’s always enlightening to have these discussions. [32:50] Robert
+      Scheer: This wraps up this edition of the Ray and Bob Show. We’ll be back next
+      week. Thanks to our producer, Max Jones, and everyone involved in bringing this
+      show together. [32:53] Ray McGovern: Thanks, Bob. Please share this story and
+      help us grow our network! Ray McGovern Ray McGovern works with Tell the Word,
+      a publishing arm of the ecumenical Church of the Saviour in inner-city Washington.
+      His 27 years as a C.I.A. analyst included leading the Soviet Foreign Policy Branch
+      and conducting the morning briefings of the President’s Daily Brief. In retirement
+      he co-founded Veteran Intelligence Professionals for Sanity (VIPS). Author Site
+      Robert Scheer Robert Scheer, publisher of ScheerPost and award-winning journalist
+      and author of a dozen books, has a reputation for strong social and political
+      writing over his nearly 60 years as a journalist. His award-winning journalism
+      has appeared in publications nationwide—he was Vietnam correspondent and editor
+      of Ramparts magazine, national correspondent and columnist for the Los Angeles
+      Times—and his in-depth interviews with Jimmy Carter, Richard Nixon, Ronald Reagan,
+      Bill Clinton, Mikhail Gorbachev and others made headlines. He co-hosted KCRW’s
+      political program Left, Right and Center and now hosts Scheer Intelligence , an
+      independent ScheerPost podcast with people who discuss the day’s most important
+      issues. Author Site'
+    one_sentence_summary: ScheerPost is seeking financial support to continue providing
+      insightful journalism, as hosts Robert Scheer and Ray McGovern analyze the significance
+      of the recent Alaska summit amidst ongoing international tensions, particularly
+      regarding Russia and Ukraine.
+    paragraph_summary: In a recent episode of the Bob and Ray Show, hosts Robert Scheer
+      and Ray McGovern, a former CIA analyst with extensive experience in Russian affairs,
+      discuss the implications of the recent Alaska summit between President Trump and
+      President Putin. While some commentators dismissed the meeting as trivial, the
+      hosts argue that it revealed significant insights into the evolving global power
+      dynamics, with Trump labeling the talks a success and Putin asserting his strength
+      in the context of the Ukraine conflict. The conversation aims to challenge mainstream
+      narratives and explore the potential consequences for U.S. foreign policy and
+      the ongoing situation in Ukraine, emphasizing the need for thoughtful journalism
+      amidst a landscape filled with misinformation. Additionally, ScheerPost appeals
+      for donations to support their work in delivering such critical analyses.
+    published: '2025-08-18T10:10:00+00:00'
+  - title: Trump and Putin’s Summit in Alaska Explained (w/ Ray McGovern)
+    url: https://scheerpost.com/2025/08/18/trump-and-putins-summit-in-alaska-explained-w-ray-mcgovern-2/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Ray
+      McGovern and Robert Scheer / Original to ScheerPost Click to subscribe on: Apple
+      / Spotify / Amazon / YouTube / Rumble Welcome to another compelling edition of
+      the Bob and Ray Show, where insightful journalism meets deep expertise. I’m your
+      host, Robert Scheer, joined by Ray McGovern, a former CIA analyst with a rich
+      background in Russian affairs. With 27 years at the CIA and a knowledge base that
+      spans decades, Ray is uniquely positioned to dissect the intricacies of international
+      relations, particularly concerning Russia and the ongoing conflict in Ukraine.
+      In today’s episode, we delve into the recent Alaska summit, a meeting many pundits
+      dismissed as inconsequential, labeling it a “nothing burger.” But as we’ll discuss,
+      both President Trump and President Putin emerged from the summit with differing
+      takes, raising critical questions about the shifting power dynamics on the global
+      stage. Trump proclaimed the discussions a success, while Putin appeared to reinforce
+      his position of strength, particularly regarding the Ukraine conflict. As we explore
+      this topic, we’ll reflect on the changing landscape of power relations, the implications
+      of Trump’s negotiating stance, and the broader ramifications for U.S. foreign
+      policy. Join us as we unpack these complex issues, challenge prevailing narratives,
+      and consider what this means for the future of international diplomacy and the
+      Ukrainian people caught in the crossfire. Transcript [00:00] Robert Scheer: Hi,
+      this is Robert Scheer with another edition of the Ray and Bob or the Bob and Ray
+      show. Ray McGovern, Bob Scheer. I’m the journalist. I’ve been at this for a long
+      time. Ray was actually one of the top Russia and Soviet experts at the CIA. He
+      was at the CIA for 27 years and was in Army intelligence before that. [00:22]
+      Robert Scheer: Ray recently returned from Russia, where he spoke at a forum that
+      Putin also attended and was quoted by TASS today. He has a strong international
+      reputation for his insights into Russian affairs and the Ukraine war. Today, we’re
+      going to discuss the Alaska summit. [00:45] Robert Scheer: I wanted to reach out
+      to Ray now because I was quite irritated after watching CNN, where they had a
+      panel of 12 people, including Bolton and Fareed Zakaria, who all claimed to understand
+      global affairs. They dismissed the Alaska summit as a “nothing burger.” They said
+      Putin got some photo ops and red carpet treatment, but that Trump was essentially
+      boxed out. [01:14] Robert Scheer: I didn’t see it that way, especially after listening
+      to Trump himself on Fox News with Hannity before he boarded the plane. He described
+      the conversation as a “10” and a great success. He indicated that he accepted
+      Putin’s view that a ceasefire wouldn’t make sense right now. [01:37] Robert Scheer:
+      Putin is speaking from a position of strength. The war is going well from his
+      perspective. So, I want to turn to Ray. I believe it wasn’t a nothing burger;
+      it signifies a recognition that power relations have changed in the world. [01:50]
+      Robert Scheer: I remember you told me early in our discussions, “Hey, Bob, it’s
+      like when we were kids in the Bronx, and there’s a guy on the street corner talking
+      to a big bully. The guy can push him around, but he knows he has his brother backing
+      him up.” Now, it’s different; Russia has China. [02:10] Robert Scheer: You can’t
+      just tell China they can’t buy oil from Russia without jeopardizing trade deals.
+      So, Ray, I’ll turn it over to you. I’m not the president; you’ve briefed presidents
+      like Reagan and Nixon. [02:28] Ray McGovern: Thanks for mentioning that TASS had
+      a whole article on my views of what happened yesterday. I was going to brag about
+      finally getting back into mainstream media after eight or nine years, but you’re
+      going to ask me whether it was Reuters or ABC. No, it was TASS, the Russian news
+      agency. [02:55] Ray McGovern: They called me up for a comment, and it ended up
+      being about what had already happened by that time. What happened was that Putin
+      had warned about excessive expectations a week ago. [03:20] Ray McGovern: He said,
+      “Be careful. We’re going to discuss Ukraine, but don’t have excessive expectations.”
+      And wouldn’t you know it, President Trump had excessive expectations based on
+      his persuasive abilities. [03:36] Ray McGovern: On the plane to Anchorage, he
+      told a Fox News reporter that he would be very disappointed if they didn’t come
+      up with some kind of agreement regarding a ceasefire. [03:59] Ray McGovern: They
+      spent three hours together. When asked about a ceasefire, Putin said no. Trump
+      had inflated expectations, and Putin turned him down. [05:06] Ray McGovern: It
+      became clear that Trump no longer thought a ceasefire was absolutely necessary
+      as the first step. Just two weeks ago, Kiev and its European allies insisted that
+      meaningful peace talks could only begin after a ceasefire. [05:40] Ray McGovern:
+      Trump likely told Putin, “Leave it to me. I may have to give something to old
+      Vlad, but I’ll get you a ceasefire.” And he failed miserably. [06:02] Ray McGovern:
+      Now, he’s saying a ceasefire shouldn’t be a sticking point; instead, they’re going
+      for a peace agreement directly—without a ceasefire. That’s a big shift. [06:13]
+      Ray McGovern: Next up, Zelensky is coming to the Oval Office. We remember how
+      J.D. Vance lit into him last time. [06:25] Ray McGovern: Vance is going to tell
+      him that we’re done supplying arms or money to Ukraine. If the Europeans want
+      to do that, let them. [06:59] Ray McGovern: Zelensky is going to face a tough
+      reality. Russia has already won on the battlefield. [07:22] Ray McGovern: As President
+      Obama stated back in 2015, it would be foolish to give Ukrainians the idea that
+      they could prevail against a Russia that is so much larger and better armed right
+      on their border. [08:38] Ray McGovern: This is Biden’s war. And Trump has a way
+      to deflect criticism. The truth is, the Ukrainians and the West have lost. Trump
+      wants a negotiated settlement to put a favorable spin on this defeat. [09:30]
+      Ray McGovern: He says he wants to stop the killing, which is something he often
+      repeats. [09:53] Robert Scheer: Let’s push back a bit. You’re making it sound
+      like a football game. We’re talking about people’s aspirations for freedom—whether
+      they are Ukrainian or Russian-speaking individuals in Ukraine. [10:24] Robert
+      Scheer: This isn’t just a matter of power; it’s about national identities and
+      the pain involved. Trump often brings up the killing and the war’s ramifications.
+      [10:40] Robert Scheer: He claims that if he were president, this war wouldn’t
+      have happened. He argues that it was not a necessary war and that there was an
+      understanding that could have prevented it. [11:21] Robert Scheer: Now we have
+      to negotiate an agreement that acknowledges this reality. This is similar to what
+      happened during the Vietnam War negotiations. [11:37] Robert Scheer: This was
+      a war of choice, and we must recognize the historical context that led to this
+      situation. [12:10] Robert Scheer: Trump is suggesting this is the best deal available.
+      If Zelensky doesn’t accept it, it becomes the Europeans’ war. [12:40] Robert Scheer:
+      Zelensky has indicated he wants to do what’s best for the Ukrainian people. If
+      he truly means that, a quick understanding will be necessary. [13:07] Robert Scheer:
+      This is not a nothing burger; it signifies a shift in how we conduct foreign policy.
+      Many neocons can’t accept it. [13:30] Robert Scheer: If they can end this war,
+      even with compromises, it could be seen as a success for Trump and Putin. [14:05]
+      Ray McGovern: Both leaders are saying this is a step toward resolution. But let’s
+      be honest: Obama refused to give Ukraine offensive weaponry, while Trump provided
+      Javelins and bragged about it. [14:38] Ray McGovern: Trump came in hoping for
+      a ceasefire, but Putin made it clear that was not in the cards. [15:03] Ray McGovern:
+      Now, Trump is saying they’re not going for just a ceasefire; they’re aiming for
+      a peace agreement. [15:19] Ray McGovern: Zelensky is going to face tough scrutiny
+      in the Oval Office. [15:45] Ray McGovern: Zelensky will likely be under pressure
+      since people in Ukraine are not willing to sacrifice themselves for this war.
+      [16:35] Ray McGovern: The Europeans have convinced him they can come in and help,
+      which is unrealistic. They don’t have the resources or weaponry. [17:17] Ray McGovern:
+      Unless Zelensky recognizes the reality, he may resist negotiations with inflated
+      expectations. [18:16] Robert Scheer: I’m curious to know if Trump is showing seriousness
+      about where power lies globally. [19:03] Robert Scheer: He points out the disparities
+      between Russia and China and how U.S. policy has pushed them together. [19:36]
+      Robert Scheer: Despite different ideologies, Russia and China are getting along
+      better now. [20:31] Robert Scheer: Trump believes he can work with these countries
+      regardless of their ideologies to create a deal that benefits America. [21:30]
+      Robert Scheer: I see this as a significant shift in global relations, marking
+      the end of the old Cold War. [22:20] Ray McGovern: I agree; it’s a tectonic shift.
+      We’re witnessing a balance of power change with Russia and China against the U.S.
+      [23:01] Ray McGovern: The last face-to-face summit was in June 2021. Biden was
+      confident, but this current situation is different. [23:32] Ray McGovern: Biden
+      seemed unaware of the threat posed by China to Russia, and now it’s clear they
+      are aligned against the U.S. [25:38] Ray McGovern: Now, Trump is trying to navigate
+      a very complex situation, hoping to stop the killing in Ukraine. [29:01] Ray McGovern:
+      Putin doesn’t want to push too far; he only seeks a buffer zone. There’s room
+      for negotiation if handled wisely. [30:40] Ray McGovern: Putin wants a resolution
+      that allows him to save face without demanding unconditional surrender. [31:41]
+      Robert Scheer: Thank you, Ray, for your insights. I appreciate the time you’ve
+      taken, and it’s always enlightening to have these discussions. [32:50] Robert
+      Scheer: This wraps up this edition of the Ray and Bob Show. We’ll be back next
+      week. Thanks to our producer, Max Jones, and everyone involved in bringing this
+      show together. [32:53] Ray McGovern: Thanks, Bob. Please share this story and
+      help us grow our network! Ray McGovern Ray McGovern works with Tell the Word,
+      a publishing arm of the ecumenical Church of the Saviour in inner-city Washington.
+      His 27 years as a C.I.A. analyst included leading the Soviet Foreign Policy Branch
+      and conducting the morning briefings of the President’s Daily Brief. In retirement
+      he co-founded Veteran Intelligence Professionals for Sanity (VIPS). Author Site
+      Robert Scheer Robert Scheer, publisher of ScheerPost and award-winning journalist
+      and author of a dozen books, has a reputation for strong social and political
+      writing over his nearly 60 years as a journalist. His award-winning journalism
+      has appeared in publications nationwide—he was Vietnam correspondent and editor
+      of Ramparts magazine, national correspondent and columnist for the Los Angeles
+      Times—and his in-depth interviews with Jimmy Carter, Richard Nixon, Ronald Reagan,
+      Bill Clinton, Mikhail Gorbachev and others made headlines. He co-hosted KCRW’s
+      political program Left, Right and Center and now hosts Scheer Intelligence , an
+      independent ScheerPost podcast with people who discuss the day’s most important
+      issues. Author Site'
+    one_sentence_summary: ScheerPost is seeking financial support to continue providing
+      insightful journalism, as hosts Robert Scheer and Ray McGovern analyze the significance
+      of the recent Alaska summit amidst ongoing international tensions, particularly
+      regarding Russia and Ukraine.
+    paragraph_summary: In a recent episode of the Bob and Ray Show, hosts Robert Scheer
+      and Ray McGovern, a former CIA analyst with extensive experience in Russian affairs,
+      discuss the implications of the recent Alaska summit between President Trump and
+      President Putin. While some commentators dismissed the meeting as trivial, the
+      hosts argue that it revealed significant insights into the evolving global power
+      dynamics, with Trump labeling the talks a success and Putin asserting his strength
+      in the context of the Ukraine conflict. The conversation aims to challenge mainstream
+      narratives and explore the potential consequences for U.S. foreign policy and
+      the ongoing situation in Ukraine, emphasizing the need for thoughtful journalism
+      amidst a landscape filled with misinformation. Additionally, ScheerPost appeals
+      for donations to support their work in delivering such critical analyses.
+    published: '2025-08-18T10:10:00+00:00'
+  - title: 'Declassified: CIA’s Covert Ukraine Invasion Plan'
+    url: https://scheerpost.com/2025/08/18/declassified-cias-covert-ukraine-invasion-plan/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Kit
+      Klarenberg / Substack On August 7th , US polling giant Gallup published the remarkable
+      results of a survey of Ukrainians. Public support for Kiev “fighting until victory”
+      has plummeted to a record low “across all segments” of the population, “regardless
+      of region or demographic group.” In a “nearly complete reversal from public opinion
+      in 2022,” 69% of citizens “favor a negotiated end to the war as soon as possible.”
+      Just 24% wish to keep fighting.  However, vanishingly few believe the proxy war
+      will end anytime soon. The reasons for Ukrainian pessimism on this point are unstated,
+      but an obvious explanation is the intransigence of President Volodymyr Zelensky,
+      encouraged by his overseas backers – Britain in particular. London’s reverie of
+      breaking up Russia into readily-exploitable chunks dates back centuries, and became
+      turbocharged in the wake of the February 2014 Maidan coup . In July that year,
+      a precise blueprint for the current proxy conflict was published by the Institute
+      for Statecraft, a NATO/MI6 cutout founded by veteran British military intelligence
+      apparatchik Chris Donnelly . In response to the Donbass civil war , Statecraft
+      advocated targeting Moscow with a variety of “anti-subversive measures”. This
+      included “economic boycott, breach of diplomatic relations,” as well as “propaganda
+      and counter-propaganda, pressure on neutrals.” The objective was to produce “armed
+      conflict of the old-fashioned sort” with Russia, which “Britain and the West could
+      win.” While we are now witnessing in real-time the brutal unravelling of Donnelly’s
+      monstrous plot, Anglo-American designs of using Ukraine as a beachhead for all-out
+      war with Moscow date back far further. In August 1957 , the CIA secretly drew
+      up elaborate plans for an invasion of Ukraine by US special forces. It was hoped
+      neighbourhood anti-Communist agitators would be mobilized as footsoldiers to assist
+      in the effort. A detailed 200-page report, Resistance Factors and Special Forces
+      Areas , set out demographic, economic, geographical, historical and political
+      factors throughout the then-Soviet Socialist Republic that could facilitate, or
+      impede, Washington’s quest to ignite local insurrection, and in turn the USSR’s
+      ultimate collapse. The mission was forecast to be a delicate and difficult balancing
+      act, as much of Ukraine’s population held “few grievances” against Russians or
+      Communist rule, which could be exploited to foment an armed uprising. Just as
+      problematically, “the long history of union between Russia and Ukraine, which
+      stretches in an almost unbroken line from 1654 to the present day,” resulted in
+      “many Ukrainians” having “adopted the Russian way of life”. Problematically, there
+      was thus a pronounced lack of “resistance to Soviet rule” among the population.
+      The “great influence” of Russian culture over Ukrainians, “many influential positions”
+      in local government being held “by Russians or Ukrainians sympathetic to [Communist]
+      rule, and “relative similarity” of their “languages, customs, and backgrounds”,
+      meant there were “fewer points of conflict between the Ukrainians and Russians”
+      than in Warsaw Pact nations. Throughout those satellite states, the CIA had to
+      varying success already recruited clandestine networks of “freedom fighters” as
+      anti-Communist Fifth Columnists. Yet, the Agency remained keen to identify potential
+      “resistance” actors in Ukraine: “Some Ukrainians are apparently only slightly
+      aware of the differences which set them apart from Russians and feel little national
+      antagonism. Nevertheless, important grievances exist, and among other Ukrainians
+      there is opposition to Soviet authority which often has assumed a nationalist
+      form. Under favorable conditions, these people might be expected to assist American
+      Special Forces in fighting against the regime.” ‘Nationalist Activity’ A CIA map
+      split Ukraine into 12 separate zones, ranked on “resistance” potential, and how
+      “favorable population attitudes [are] toward the Soviet regime.” South and eastern
+      regions, particularly Crimea and Donbass, rated poorly. Their populations were
+      judged “strongly loyal” to Moscow, having never “displayed nationalist feelings
+      or indicated any hostility to the regime,” while viewing themselves as “a Russian
+      island in the Ukrainian sea.” In fact, as the study recorded, during and after
+      World War I, when Germany created a fascist puppet state in Ukraine: “Inhabitants
+      of Donbass strongly resisted Ukrainian nationalists and at one point created a
+      separate republic, independent of the rest of Ukraine. In the following years,
+      they defended Soviet rule and Russian interests, often attacking the Ukrainian
+      nationalists with more zeal than the Russian leaders themselves. During the German
+      occupation in the Second World War, there was not a single recorded case of support
+      for the Ukrainian nationalists or Germans.” Still, invading and occupying Crimea
+      was considered of paramount importance. On top of its strategic significance,
+      the peninsula’s landscape was forecast as ideal for guerrilla warfare. The terrain
+      offered “excellent opportunities for concealment and evasion,” the CIA report
+      noted. While “troops operating in these sectors must be specially trained and
+      equipped,” it was forecast the local Tatar population, “which fought so fiercely”
+      against the Soviets in World War II, “would probably be willing to help” invading
+      US forces. Areas of western Ukraine, including former regions of Poland such as
+      Lviv, Rivne, Transcarpathia and Volyn, which were heavily under control of “Ukrainian
+      insurgents” – adherents of MI6-supported Stepan Bandera – during World War II,
+      were judged most fruitful “resistance” launchpads. There, “nationalist activity
+      was extensive” during World War II, with armed militias opposing “pro-Soviet partisans
+      with some success.” Conveniently too, mass extermination of Jews, Poles and Russians
+      by Banderites in these regions meant there was virtually no non-ethnic Ukrainian
+      population left. Furthermore, in the post-war period, “resistance to Soviet rule”
+      had been “expressed on a great scale” in western Ukraine. Despite “extensive deportations”,
+      “many nationalists” resided in Lviv et al, and “nationalist cells” created by
+      Bandera’s “task forces” were dotted around the Republic. For example, anti-Communist
+      “partisan bands” had taken up residence in the Carpathian Mountains. The review
+      concluded, “it is in this region [US] Special Forces could expect considerable
+      support from the local Ukrainian population, including active participation in
+      measures directed against the Soviet regime.” It was also determined that “Ukrainian
+      nationalist, anti-Soviet sentiment” in Kiev was “apparently moderately strong,”
+      and elements of the population “might be expected to provide active assistance
+      to Special Forces.” The capital’s “large Ukrainian population” was reportedly
+      “little affected by Russian influence,” and during the Russian Revolution “provided
+      greater support than any other region for Ukrainian, nationalist, anti-Soviet
+      forces.” Resultantly, “uncertainty about the attitudes of the local population”
+      prompted Moscow to designate Kharkov the Ukrainian SSR’s capital, which it remained
+      until 1934. The CIA document further offered highly detailed assessments of Ukrainian
+      territory, based on their utility for warfare. For example, “generally forbidding”
+      Polesia – near Belarus – was noted to be “almost impossible” to traverse during
+      spring. Conversely, winter provided “most favorable to movement, depending on
+      the depth to which the ground freezes.” Overall, the area had “proved its worth
+      as an excellent refuge and evasion area by supporting large-scale guerilla activities
+      in the past.” Meanwhile, “swampy valleys of the Dnieper and Desna rivers” were
+      of particular interest: “The area is densely forested in its north-western part,
+      where there are excellent opportunities for concealment and manoeuvre…There are
+      extensive swamps, interspersed with patches of forest, which also provide good
+      hiding places for the Special Forces. Conditions in the Volyno-Podolskaya Highlands
+      are less suitable, although small groups may find temporary shelter in the sparse
+      forests.” ‘Strongly Anti-Nationalist’ The CIA’s invasion plan never formally came
+      to pass. Yet, areas of Ukraine forecast by the Agency to be most welcoming of
+      US special forces were precisely where support for the Maidan coup was highest.
+      Moreover, in a largely unknown chapter of the Maidan saga, fascist Right Sector
+      militants were bussed en masse to Crimea prior to Moscow’s seizure of the peninsula.
+      Had they succeeded in overrunning the territory, Right Sector would’ve fulfilled
+      the CIA’s objective, as outlined in Resistance Factors and Special Forces Areas
+      . Given what transpired elsewhere in Ukraine following February 2014, other sections
+      of the CIA report take on a distinctly eerie character. For instance, despite
+      its strategic position facing the Black Sea, the Agency warned against attempting
+      to foment anti-Soviet rebellion in Odessa. The agency noted the city is “the most
+      cosmopolitan area in Ukraine, with a heterogeneous population including significant
+      numbers of Greeks, Moldovans and Bulgarians, as well as Russians and Jews.” As
+      such: “Odessa…has developed a less nationalistic character. Historically, it has
+      been considered more Russian than Ukrainian territory. There was little evidence
+      of nationalist or anti-Russian sentiment here during the Second World War, and
+      the city…was in fact controlled by a strongly anti-nationalist local administration
+      [during the conflict].” Odessa became a key battleground between pro- and anti-Maidan
+      elements, from the moment the protests erupted in November 2013. By March the
+      next year, Russophone Ukrainians had occupied the city’s historic Kulykove Pole
+      Square, and were calling for a referendum on the establishment of an “Odessa Autonomous
+      Republic”. Tensions came to a head on May 2nd, when fascist football ultras –
+      who subsequently formed Azov Battalion – stormed Odessa and forced dozens of anti-Maidan
+      activists into Trade Unions House, before setting it ablaze. In all, 42 people
+      were killed and hundreds injured, while Odessa’s anti-Maidan movement was comprehensively
+      neutralised. In March this year, the European Court of Human Rights issued a damning
+      ruling against Kiev over the massacre. It concluded local police and fire services
+      “deliberately” failed to respond appropriately to the inferno, and authorities
+      insulated culpable officials and perpetrators from prosecution despite possessing
+      incontrovertible evidence. Lethal “negligence” by officials on the day, and ever
+      after, was found to go far “beyond an error of judgment or carelessness.” The
+      ECHR was apparently unwilling to consider the incineration of anti-Maidan activists
+      was an intentional and premeditated act of mass murder, conceived and directed
+      by Kiev’s US-installed fascist government . However, the findings of a Ukrainian
+      parliamentary commission point ineluctably towards this conclusion. Whether, in
+      turn, the Odessa massacre was intended to trigger Russian intervention in Ukraine,
+      thus precipitating “armed conflict of the old-fashioned sort” with Moscow that
+      “Britain and the West could win” is a matter of speculation – although the Institute
+      for Statecraft was present in the country at the time. Please share this story
+      and help us grow our network! Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Kit Klarenberg Kit Klarenberg is an
+      investigative journalist and MintPress News contributor exploring the role of
+      intelligence services in shaping politics and perceptions. His work has previously
+      appeared in The Cradle, Declassified UK, and Grayzone. Follow him on Twitter @KitKlarenberg
+      . Author Site'
+    one_sentence_summary: A recent Gallup survey reveals that support among Ukrainians
+      for continuing the war has drastically decreased, with 69% now favoring a negotiated
+      end, reflecting a significant shift in public opinion since 2022, largely attributed
+      to President Zelensky's steadfastness and the influence of foreign allies like
+      Britain.
+    paragraph_summary: A recent Gallup survey reveals a significant shift in Ukrainian
+      public opinion regarding the ongoing war, with support for continuing the fight
+      until victory dropping to a record low of 24%, while 69% now favor a negotiated
+      end to the conflict. This change marks a stark contrast to the sentiments expressed
+      in 2022 and is observed across various demographics. The article suggests that
+      this pessimism stems from President Volodymyr Zelensky's steadfastness, bolstered
+      by support from Western allies, particularly Britain, which has long harbored
+      ambitions to weaken Russia. The piece highlights historical efforts, such as a
+      2014 blueprint by the Institute for Statecraft, aimed at escalating tensions with
+      Moscow, indicating that the current conflict is part of a broader, long-standing
+      strategy by Anglo-American interests to use Ukraine as a strategic front against
+      Russia.
+    published: '2025-08-18T10:00:00+00:00'
+  - title: 'Declassified: CIA’s Covert Ukraine Invasion Plan'
+    url: https://scheerpost.com/2025/08/18/declassified-cias-covert-ukraine-invasion-plan/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Kit
+      Klarenberg / Substack On August 7th , US polling giant Gallup published the remarkable
+      results of a survey of Ukrainians. Public support for Kiev “fighting until victory”
+      has plummeted to a record low “across all segments” of the population, “regardless
+      of region or demographic group.” In a “nearly complete reversal from public opinion
+      in 2022,” 69% of citizens “favor a negotiated end to the war as soon as possible.”
+      Just 24% wish to keep fighting.  However, vanishingly few believe the proxy war
+      will end anytime soon. The reasons for Ukrainian pessimism on this point are unstated,
+      but an obvious explanation is the intransigence of President Volodymyr Zelensky,
+      encouraged by his overseas backers – Britain in particular. London’s reverie of
+      breaking up Russia into readily-exploitable chunks dates back centuries, and became
+      turbocharged in the wake of the February 2014 Maidan coup . In July that year,
+      a precise blueprint for the current proxy conflict was published by the Institute
+      for Statecraft, a NATO/MI6 cutout founded by veteran British military intelligence
+      apparatchik Chris Donnelly . In response to the Donbass civil war , Statecraft
+      advocated targeting Moscow with a variety of “anti-subversive measures”. This
+      included “economic boycott, breach of diplomatic relations,” as well as “propaganda
+      and counter-propaganda, pressure on neutrals.” The objective was to produce “armed
+      conflict of the old-fashioned sort” with Russia, which “Britain and the West could
+      win.” While we are now witnessing in real-time the brutal unravelling of Donnelly’s
+      monstrous plot, Anglo-American designs of using Ukraine as a beachhead for all-out
+      war with Moscow date back far further. In August 1957 , the CIA secretly drew
+      up elaborate plans for an invasion of Ukraine by US special forces. It was hoped
+      neighbourhood anti-Communist agitators would be mobilized as footsoldiers to assist
+      in the effort. A detailed 200-page report, Resistance Factors and Special Forces
+      Areas , set out demographic, economic, geographical, historical and political
+      factors throughout the then-Soviet Socialist Republic that could facilitate, or
+      impede, Washington’s quest to ignite local insurrection, and in turn the USSR’s
+      ultimate collapse. The mission was forecast to be a delicate and difficult balancing
+      act, as much of Ukraine’s population held “few grievances” against Russians or
+      Communist rule, which could be exploited to foment an armed uprising. Just as
+      problematically, “the long history of union between Russia and Ukraine, which
+      stretches in an almost unbroken line from 1654 to the present day,” resulted in
+      “many Ukrainians” having “adopted the Russian way of life”. Problematically, there
+      was thus a pronounced lack of “resistance to Soviet rule” among the population.
+      The “great influence” of Russian culture over Ukrainians, “many influential positions”
+      in local government being held “by Russians or Ukrainians sympathetic to [Communist]
+      rule, and “relative similarity” of their “languages, customs, and backgrounds”,
+      meant there were “fewer points of conflict between the Ukrainians and Russians”
+      than in Warsaw Pact nations. Throughout those satellite states, the CIA had to
+      varying success already recruited clandestine networks of “freedom fighters” as
+      anti-Communist Fifth Columnists. Yet, the Agency remained keen to identify potential
+      “resistance” actors in Ukraine: “Some Ukrainians are apparently only slightly
+      aware of the differences which set them apart from Russians and feel little national
+      antagonism. Nevertheless, important grievances exist, and among other Ukrainians
+      there is opposition to Soviet authority which often has assumed a nationalist
+      form. Under favorable conditions, these people might be expected to assist American
+      Special Forces in fighting against the regime.” ‘Nationalist Activity’ A CIA map
+      split Ukraine into 12 separate zones, ranked on “resistance” potential, and how
+      “favorable population attitudes [are] toward the Soviet regime.” South and eastern
+      regions, particularly Crimea and Donbass, rated poorly. Their populations were
+      judged “strongly loyal” to Moscow, having never “displayed nationalist feelings
+      or indicated any hostility to the regime,” while viewing themselves as “a Russian
+      island in the Ukrainian sea.” In fact, as the study recorded, during and after
+      World War I, when Germany created a fascist puppet state in Ukraine: “Inhabitants
+      of Donbass strongly resisted Ukrainian nationalists and at one point created a
+      separate republic, independent of the rest of Ukraine. In the following years,
+      they defended Soviet rule and Russian interests, often attacking the Ukrainian
+      nationalists with more zeal than the Russian leaders themselves. During the German
+      occupation in the Second World War, there was not a single recorded case of support
+      for the Ukrainian nationalists or Germans.” Still, invading and occupying Crimea
+      was considered of paramount importance. On top of its strategic significance,
+      the peninsula’s landscape was forecast as ideal for guerrilla warfare. The terrain
+      offered “excellent opportunities for concealment and evasion,” the CIA report
+      noted. While “troops operating in these sectors must be specially trained and
+      equipped,” it was forecast the local Tatar population, “which fought so fiercely”
+      against the Soviets in World War II, “would probably be willing to help” invading
+      US forces. Areas of western Ukraine, including former regions of Poland such as
+      Lviv, Rivne, Transcarpathia and Volyn, which were heavily under control of “Ukrainian
+      insurgents” – adherents of MI6-supported Stepan Bandera – during World War II,
+      were judged most fruitful “resistance” launchpads. There, “nationalist activity
+      was extensive” during World War II, with armed militias opposing “pro-Soviet partisans
+      with some success.” Conveniently too, mass extermination of Jews, Poles and Russians
+      by Banderites in these regions meant there was virtually no non-ethnic Ukrainian
+      population left. Furthermore, in the post-war period, “resistance to Soviet rule”
+      had been “expressed on a great scale” in western Ukraine. Despite “extensive deportations”,
+      “many nationalists” resided in Lviv et al, and “nationalist cells” created by
+      Bandera’s “task forces” were dotted around the Republic. For example, anti-Communist
+      “partisan bands” had taken up residence in the Carpathian Mountains. The review
+      concluded, “it is in this region [US] Special Forces could expect considerable
+      support from the local Ukrainian population, including active participation in
+      measures directed against the Soviet regime.” It was also determined that “Ukrainian
+      nationalist, anti-Soviet sentiment” in Kiev was “apparently moderately strong,”
+      and elements of the population “might be expected to provide active assistance
+      to Special Forces.” The capital’s “large Ukrainian population” was reportedly
+      “little affected by Russian influence,” and during the Russian Revolution “provided
+      greater support than any other region for Ukrainian, nationalist, anti-Soviet
+      forces.” Resultantly, “uncertainty about the attitudes of the local population”
+      prompted Moscow to designate Kharkov the Ukrainian SSR’s capital, which it remained
+      until 1934. The CIA document further offered highly detailed assessments of Ukrainian
+      territory, based on their utility for warfare. For example, “generally forbidding”
+      Polesia – near Belarus – was noted to be “almost impossible” to traverse during
+      spring. Conversely, winter provided “most favorable to movement, depending on
+      the depth to which the ground freezes.” Overall, the area had “proved its worth
+      as an excellent refuge and evasion area by supporting large-scale guerilla activities
+      in the past.” Meanwhile, “swampy valleys of the Dnieper and Desna rivers” were
+      of particular interest: “The area is densely forested in its north-western part,
+      where there are excellent opportunities for concealment and manoeuvre…There are
+      extensive swamps, interspersed with patches of forest, which also provide good
+      hiding places for the Special Forces. Conditions in the Volyno-Podolskaya Highlands
+      are less suitable, although small groups may find temporary shelter in the sparse
+      forests.” ‘Strongly Anti-Nationalist’ The CIA’s invasion plan never formally came
+      to pass. Yet, areas of Ukraine forecast by the Agency to be most welcoming of
+      US special forces were precisely where support for the Maidan coup was highest.
+      Moreover, in a largely unknown chapter of the Maidan saga, fascist Right Sector
+      militants were bussed en masse to Crimea prior to Moscow’s seizure of the peninsula.
+      Had they succeeded in overrunning the territory, Right Sector would’ve fulfilled
+      the CIA’s objective, as outlined in Resistance Factors and Special Forces Areas
+      . Given what transpired elsewhere in Ukraine following February 2014, other sections
+      of the CIA report take on a distinctly eerie character. For instance, despite
+      its strategic position facing the Black Sea, the Agency warned against attempting
+      to foment anti-Soviet rebellion in Odessa. The agency noted the city is “the most
+      cosmopolitan area in Ukraine, with a heterogeneous population including significant
+      numbers of Greeks, Moldovans and Bulgarians, as well as Russians and Jews.” As
+      such: “Odessa…has developed a less nationalistic character. Historically, it has
+      been considered more Russian than Ukrainian territory. There was little evidence
+      of nationalist or anti-Russian sentiment here during the Second World War, and
+      the city…was in fact controlled by a strongly anti-nationalist local administration
+      [during the conflict].” Odessa became a key battleground between pro- and anti-Maidan
+      elements, from the moment the protests erupted in November 2013. By March the
+      next year, Russophone Ukrainians had occupied the city’s historic Kulykove Pole
+      Square, and were calling for a referendum on the establishment of an “Odessa Autonomous
+      Republic”. Tensions came to a head on May 2nd, when fascist football ultras –
+      who subsequently formed Azov Battalion – stormed Odessa and forced dozens of anti-Maidan
+      activists into Trade Unions House, before setting it ablaze. In all, 42 people
+      were killed and hundreds injured, while Odessa’s anti-Maidan movement was comprehensively
+      neutralised. In March this year, the European Court of Human Rights issued a damning
+      ruling against Kiev over the massacre. It concluded local police and fire services
+      “deliberately” failed to respond appropriately to the inferno, and authorities
+      insulated culpable officials and perpetrators from prosecution despite possessing
+      incontrovertible evidence. Lethal “negligence” by officials on the day, and ever
+      after, was found to go far “beyond an error of judgment or carelessness.” The
+      ECHR was apparently unwilling to consider the incineration of anti-Maidan activists
+      was an intentional and premeditated act of mass murder, conceived and directed
+      by Kiev’s US-installed fascist government . However, the findings of a Ukrainian
+      parliamentary commission point ineluctably towards this conclusion. Whether, in
+      turn, the Odessa massacre was intended to trigger Russian intervention in Ukraine,
+      thus precipitating “armed conflict of the old-fashioned sort” with Moscow that
+      “Britain and the West could win” is a matter of speculation – although the Institute
+      for Statecraft was present in the country at the time. Please share this story
+      and help us grow our network! Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Kit Klarenberg Kit Klarenberg is an
+      investigative journalist and MintPress News contributor exploring the role of
+      intelligence services in shaping politics and perceptions. His work has previously
+      appeared in The Cradle, Declassified UK, and Grayzone. Follow him on Twitter @KitKlarenberg
+      . Author Site'
+    one_sentence_summary: A recent Gallup survey reveals that support among Ukrainians
+      for continuing the war has drastically decreased, with 69% now favoring a negotiated
+      end, reflecting a significant shift in public opinion since 2022, largely attributed
+      to President Zelensky's steadfastness and the influence of foreign allies like
+      Britain.
+    paragraph_summary: A recent Gallup survey reveals a significant shift in Ukrainian
+      public opinion regarding the ongoing war, with support for continuing the fight
+      until victory dropping to a record low of 24%, while 69% now favor a negotiated
+      end to the conflict. This change marks a stark contrast to the sentiments expressed
+      in 2022 and is observed across various demographics. The article suggests that
+      this pessimism stems from President Volodymyr Zelensky's steadfastness, bolstered
+      by support from Western allies, particularly Britain, which has long harbored
+      ambitions to weaken Russia. The piece highlights historical efforts, such as a
+      2014 blueprint by the Institute for Statecraft, aimed at escalating tensions with
+      Moscow, indicating that the current conflict is part of a broader, long-standing
+      strategy by Anglo-American interests to use Ukraine as a strategic front against
+      Russia.
+    published: '2025-08-18T10:00:00+00:00'
+  - title: 'Glenn Greenwald: Trump’s DC Takeover'
+    url: https://scheerpost.com/2025/08/18/glenn-greenwald-trumps-dc-takeover/
+    text: 'By Glenn Greenwald / System Update Please share this story and help us grow
+      our network! Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Glenn Greenwald Glenn Greenwald is a journalist, constitutional
+      lawyer, and author of four New York Times best-selling books on politics and law.
+      He broke the Snowden leaks in 2013. Greenwald currently hosts a political commentary
+      show for Rumble called “System Update.” Author Site'
+    one_sentence_summary: Glenn Greenwald emphasizes the need for independent journalism,
+      like ScheerPost, as a counter to the influence of billionaires and corporate interests
+      on traditional media.
+    paragraph_summary: In his article, Glenn Greenwald emphasizes the urgent need for
+      independent journalism in an era where traditional media is often compromised
+      by the interests of wealthy owners and corporate agendas. He highlights ScheerPost
+      as a vital alternative that upholds journalistic integrity and calls for support
+      through donations to sustain its operations. Greenwald, a prominent journalist
+      known for his work on the Snowden leaks and his current political commentary show
+      "System Update," advocates for contributions to ensure the continuation of credible
+      news sources amidst a landscape dominated by self-serving narratives.
+    published: '2025-08-18T09:45:00+00:00'
+  - title: 'Glenn Greenwald: Trump’s DC Takeover'
+    url: https://scheerpost.com/2025/08/18/glenn-greenwald-trumps-dc-takeover/
+    text: 'By Glenn Greenwald / System Update Please share this story and help us grow
+      our network! Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Glenn Greenwald Glenn Greenwald is a journalist, constitutional
+      lawyer, and author of four New York Times best-selling books on politics and law.
+      He broke the Snowden leaks in 2013. Greenwald currently hosts a political commentary
+      show for Rumble called “System Update.” Author Site'
+    one_sentence_summary: Glenn Greenwald emphasizes the need for independent journalism,
+      like ScheerPost, as a counter to the influence of billionaires and corporate interests
+      on traditional media.
+    paragraph_summary: In his article, Glenn Greenwald emphasizes the urgent need for
+      independent journalism in an era where traditional media is often compromised
+      by the interests of wealthy owners and corporate agendas. He highlights ScheerPost
+      as a vital alternative that upholds journalistic integrity and calls for support
+      through donations to sustain its operations. Greenwald, a prominent journalist
+      known for his work on the Snowden leaks and his current political commentary show
+      "System Update," advocates for contributions to ensure the continuation of credible
+      news sources amidst a landscape dominated by self-serving narratives.
+    published: '2025-08-18T09:45:00+00:00'
+  - title: 'Vijay Prashad: To Those Who Died So Young'
+    url: https://scheerpost.com/2025/08/18/vijay-prashad-to-those-who-died-so-young/
+    text: 'Frantz Fanon at a press conference during a writers’ conference in Tunis,
+      1957. (Unknown/Wikimedia Commons) In one of the scariest moments in modern history,
+      we''re doing our best at ScheerPost to pierce the fog of lies that conceal it
+      but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Vijay Prashad / Tricontinental: Institute for Social Research T
+      hough they died young, revolutionaries like Frantz Fanon and Patrice Lumumba made
+      invaluable contributions to anti-colonial and national liberation struggles. In
+      July, a few days after the centenary of Frantz Fanon’s birth, I had lunch with
+      his daughter, Mireille Fanon Mendès-France. When I commented that Fanon had died
+      so young, at 39, Mireille corrected me: “No, 36.” Even three more years would
+      have been a gift — to him because he might have been able to finish other work
+      and spend more time with his family, and to us because we might have gotten the
+      book that would have come after The Wretched of the Earth — perhaps one on how
+      to construct a national project that would not succumb to the pitfalls of narrow
+      nationalism.  But that was not to be. Thinking of my conversation with Mireille
+      and the legacy her father left behind, I asked the Tricontinental: Institute for
+      Social Research team to help me make a list of revolutionary leaders and intellectuals
+      who died before their 40th birthday. The names came tumbling out, and before I
+      knew it, I had several pages before me, a digital memorial to people who had been
+      assassinated for their views, the list moving from Mozambique’s Josina Machel
+      (25 years old) to Cuba’s Che Guevara (39 years old). I was tempted to publish
+      a short version of the list in this article, but I held back. How does one shorten
+      a list that is already inadequate, since so many people, leaders and intellectuals,
+      in so many localities have been assassinated by the immense structures of repression
+      set up by the imperialist system? Moke Fils, Democratic Republic of Congo, La
+      Vie de Lumumba, 2017 (Via Tricontinental: Institute for Social Research) In lieu
+      of producing an inadequate list, we will stay for a moment with Fanon, who published
+      two books during his short lifetime: Black Skin, White Masks in 1952, and The
+      Wretched of the Earth , published in 1961, just a few months before his death.
+      Two more, A Dying Colonialism , written in 1959, and Toward the African Revolution
+      , a collection of essays written between 1952 and 1961, were published posthumously,
+      in 1964. It is impossible to take this oeuvre and say that this is Fanon, that
+      this is all he would have produced, and that everything he did — his psychiatric
+      practice, his work for the Algerian liberation movement — is all he would have
+      contributed.  Scholars treat Fanon as a finished collection, but in fact he had
+      not even reached his peak. The clarity of the argumentation in his final book
+      opened new lines of enquiry that he would have followed up on after 1961 if his
+      life had not been cut short — especially considering the evidence that soon emerged
+      about the internal and external limitations placed on post-colonial states. Five
+      years ago, Tricontinental: Institute for Social Research published a dossier on
+      Fanon, The Brightness of Metal (March 2020), which made a provisional case for
+      Fanon’s thought on national liberation. But it is only provisional — Fanon’s theory
+      remained incomplete at the moment of his premature death. Elements of the book
+      that would have come after The Wretched of the Earth are evident in the essay
+      Fanon wrote after the assassination of 35-year-old Patrice Lumumba on Jan. 17,
+      1961. Published in Afrique Action in February 1961, the argument in “Lumumba’s
+      Death: Could We Do Otherwise?” is summarized in one powerful paragraph: “Our mistake,
+      the mistake we Africans made, was to have forgotten that the enemy never withdraws
+      sincerely. He never understands. He capitulates, but he does not become converted.
+      Our mistake is to have believed that the enemy had lost his combativeness and
+      his harmfulness. If Lumumba is in the way, Lumumba disappears. Hesitation in murder
+      has never characterised imperialism.” Indeed, imperialism is never generous or
+      humanitarian. Barthe’le’my Toguo, Cameroon, Déluge IV , 2016 (Via Tricontinental:
+      Institute for Social Research) In his essay on Lumumba, Fanon also mentions two
+      names but does not go into any depth about them: “Look at ben M’hidi, look at
+      Moumié, look at Lumumba.” Mohammed Larbi ben M’hidi, 1923 to 1957, was one of
+      the six founding members of the Algerian National Liberation Front (FLN). Known
+      as “Larbi the Wise,” he was the commander of the Wilaya V military zone in the
+      Oran region and later led the FLN in the Battle of Algiers. He was captured in
+      February 1957, brutally tortured, and executed a month later at the age of 33.
+      France would not tolerate this upright Algerian. Félix-Roland Moumié, 1925 to
+      1960, led the Union of the Peoples of Cameroon throughout the country’s independence
+      struggle, which broke out in 1955. As in Algeria, French repression in Cameroon
+      was diabolical, resulting in the killing of tens of thousands of people in harsh
+      attacks on civilian centres. This history has been largely forgotten. Moumié was
+      assassinated in Geneva by a member of the French security services, who poisoned
+      him with thallium. He was 35. The deaths of M’hidi, Moumié, and Lumumba — all
+      of whom Fanon knew personally – underlined the brutality of imperialism. If a
+      radical appears on the horizon to lead a people to sovereignty, then the radical
+      cannot be allowed to survive. Lumumba was a radical, a man “sold to Africa,” Fanon
+      wrote, meaning that his heart was with the people of Africa and had not been sold
+      out to imperialism. That is why he was killed. Baya Mahieddine, Algeria, Musique,
+      1974 (Via Tricontinental: Institute for Social Research) Belgium, Britain, France
+      and Portugal refused to withdraw from their African colonies peacefully. They
+      used every tactic, including those used by the Nazis and the Japanese in World
+      War II; tactics which were subsequently declared to be war crimes during the Nuremberg
+      and Tokyo Trials, respectively. If the definition used in these trials were applied
+      to the colonial wars from Algeria to Cameroon, the military and civilian leaders
+      of these European countries would have been hanged. General Tomoyuki Yamashita
+      of the Imperial Japanese Army, for instance, was hanged in 1946 after the Tokyo
+      tribunal found him guilty under the principle of command responsibility for atrocities
+      committed by his troops against civilians in the Philippines. If this standard
+      (later known as the Yamashita Standard) were applied consistently, British Field
+      Marshal Gerald Walter Robert Templer would have been hanged for his role in the
+      Malayan Emergency (1948–1960), including the use by the British of internment
+      camps and herbicidal warfare against the general population, which prefigured
+      the later use of Agent Orange by the U.S. in Vietnam. By the same measure, French
+      generals Jean-Marie Lamberton and Max Briand would have been hanged for their
+      role in the war in Cameroon (1955–1964), where French forces used extreme brutality
+      against insurgents and civilians alike, including documented massacres and reported
+      use of decapitations as psychological warfare. But, of course, they all died with
+      medals covering their chests. It is important to recall that toward the end of
+      the war, the French tested their nuclear bomb in Algeria’s Reggane, in the Sahara
+      Desert, on Feb. 13, 1960, making France the fourth country in the world to possess
+      nuclear weapons. France refused to join the Partial Nuclear Test-Ban Treaty of
+      1963. Algeria won its independence in 1962, but France retained a five-year lease
+      to continue nuclear weapons testing in Reggane, which it did until 1966. After
+      that, France shifted its tests to the Fangataufa and Moruroa atolls in the Pacific
+      Ocean, where it conducted 193 nuclear tests over the next 30 years. As France
+      tested its atomic bombs in Reggane, Fanon wrote in The Wretched of the Earth :
+      “those literally astronomical sums of money which are invested in military research,
+      those engineers who are transformed into technicians of nuclear war, could in
+      the space of fifteen years raise the standard of living of underdeveloped countries
+      by 60 percent.” While he wrote about the tests in economic terms, he could just
+      as well have written about them in terms of political threats: if assassinations
+      didn’t work, the atomic bomb, too, was available for France to use against its
+      rebellious colonies. (Via Tricontinental: Institute for Social Research) Fanon
+      met Lumumba and Moumié on behalf of the Algerian provisional government at the
+      1958 All-African People’s Conference organised by Ghana’s Prime Minister Kwame
+      Nkrumah in Accra. They talked about the necessity of national liberation struggles,
+      how to best protect themselves from the brutality of imperialist force, and how
+      to advance beyond the tentacles of the neocolonial structure. Fanon was interested
+      in the creation of an African Legion, a military force for the continent’s wars
+      of liberation that would be trained by the Algerians and their allies. In his
+      notes from these meetings, Fanon wrote about Moumié’s death: “An abstract death
+      striking the most concrete, the most alive, the most impetuous man. Félix’s tone
+      was constantly high. Aggressive, violent, full of anger, in love with his country,
+      hating cowards and maneuverers. Austere, hard, incorruptible. A bundle of revolutionary
+      spirit packed into sixty kilos of muscle and bone.” These sentences about Moumié
+      could very well define Fanon. The official record of Fanon’s death is bronchial
+      pneumonia, but that is just what it says on the certificate. There was a man from
+      the Central Intelligence Agency, C. Oliver Iselin, present when he died. So it
+      goes. Please share this story and help us grow our network! Editor’s Note : A
+      t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Vijay Prashad
+      Vijay Prashad is an Indian historian, editor and journalist. He is a writing fellow
+      and chief correspondent at Globetrotter. He is an editor of LeftWord Books and
+      the director of Tricontinental: Institute for Social Research . He is a senior
+      non-resident fellow at Chongyang Institute for Financial Studies , Renmin University
+      of China. He has written more than 20 books, including The Darker Nations and
+      The Poorer Nations . His latest books are Struggle Makes Us Human: Learning from
+      Movements for Socialism and (with Noam Chomsky) The Withdrawal: Iraq, Libya, Afghanistan,
+      and the Fragility of U.S. Power . Author Site'
+    one_sentence_summary: The article reflects on the significant contributions of revolutionaries
+      Frantz Fanon and Patrice Lumumba to anti-colonial movements, highlighting a conversation
+      with Fanon's daughter that emphasizes the loss felt from his early death at 36.
+    paragraph_summary: The article reflects on the significant yet tragically brief
+      lives of revolutionary figures like Frantz Fanon and Patrice Lumumba, who made
+      profound contributions to anti-colonial and national liberation movements before
+      their untimely deaths. Author Vijay Prashad recounts a conversation with Fanon's
+      daughter, Mireille Fanon Mendès-France, highlighting the potential impact of Fanon's
+      work had he lived longer. This prompts Prashad to compile a list of revolutionary
+      leaders and intellectuals who were assassinated before the age of 40, emphasizing
+      the broader theme of repression faced by those who challenge imperialist structures.
+      The piece serves as a digital memorial to these figures, acknowledging the loss
+      of their voices and ideas in the struggle for justice and liberation.
+    published: '2025-08-18T09:30:00+00:00'
+  - title: 'Vijay Prashad: To Those Who Died So Young'
+    url: https://scheerpost.com/2025/08/18/vijay-prashad-to-those-who-died-so-young/
+    text: 'Frantz Fanon at a press conference during a writers’ conference in Tunis,
+      1957. (Unknown/Wikimedia Commons) In one of the scariest moments in modern history,
+      we''re doing our best at ScheerPost to pierce the fog of lies that conceal it
+      but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Vijay Prashad / Tricontinental: Institute for Social Research T
+      hough they died young, revolutionaries like Frantz Fanon and Patrice Lumumba made
+      invaluable contributions to anti-colonial and national liberation struggles. In
+      July, a few days after the centenary of Frantz Fanon’s birth, I had lunch with
+      his daughter, Mireille Fanon Mendès-France. When I commented that Fanon had died
+      so young, at 39, Mireille corrected me: “No, 36.” Even three more years would
+      have been a gift — to him because he might have been able to finish other work
+      and spend more time with his family, and to us because we might have gotten the
+      book that would have come after The Wretched of the Earth — perhaps one on how
+      to construct a national project that would not succumb to the pitfalls of narrow
+      nationalism.  But that was not to be. Thinking of my conversation with Mireille
+      and the legacy her father left behind, I asked the Tricontinental: Institute for
+      Social Research team to help me make a list of revolutionary leaders and intellectuals
+      who died before their 40th birthday. The names came tumbling out, and before I
+      knew it, I had several pages before me, a digital memorial to people who had been
+      assassinated for their views, the list moving from Mozambique’s Josina Machel
+      (25 years old) to Cuba’s Che Guevara (39 years old). I was tempted to publish
+      a short version of the list in this article, but I held back. How does one shorten
+      a list that is already inadequate, since so many people, leaders and intellectuals,
+      in so many localities have been assassinated by the immense structures of repression
+      set up by the imperialist system? Moke Fils, Democratic Republic of Congo, La
+      Vie de Lumumba, 2017 (Via Tricontinental: Institute for Social Research) In lieu
+      of producing an inadequate list, we will stay for a moment with Fanon, who published
+      two books during his short lifetime: Black Skin, White Masks in 1952, and The
+      Wretched of the Earth , published in 1961, just a few months before his death.
+      Two more, A Dying Colonialism , written in 1959, and Toward the African Revolution
+      , a collection of essays written between 1952 and 1961, were published posthumously,
+      in 1964. It is impossible to take this oeuvre and say that this is Fanon, that
+      this is all he would have produced, and that everything he did — his psychiatric
+      practice, his work for the Algerian liberation movement — is all he would have
+      contributed.  Scholars treat Fanon as a finished collection, but in fact he had
+      not even reached his peak. The clarity of the argumentation in his final book
+      opened new lines of enquiry that he would have followed up on after 1961 if his
+      life had not been cut short — especially considering the evidence that soon emerged
+      about the internal and external limitations placed on post-colonial states. Five
+      years ago, Tricontinental: Institute for Social Research published a dossier on
+      Fanon, The Brightness of Metal (March 2020), which made a provisional case for
+      Fanon’s thought on national liberation. But it is only provisional — Fanon’s theory
+      remained incomplete at the moment of his premature death. Elements of the book
+      that would have come after The Wretched of the Earth are evident in the essay
+      Fanon wrote after the assassination of 35-year-old Patrice Lumumba on Jan. 17,
+      1961. Published in Afrique Action in February 1961, the argument in “Lumumba’s
+      Death: Could We Do Otherwise?” is summarized in one powerful paragraph: “Our mistake,
+      the mistake we Africans made, was to have forgotten that the enemy never withdraws
+      sincerely. He never understands. He capitulates, but he does not become converted.
+      Our mistake is to have believed that the enemy had lost his combativeness and
+      his harmfulness. If Lumumba is in the way, Lumumba disappears. Hesitation in murder
+      has never characterised imperialism.” Indeed, imperialism is never generous or
+      humanitarian. Barthe’le’my Toguo, Cameroon, Déluge IV , 2016 (Via Tricontinental:
+      Institute for Social Research) In his essay on Lumumba, Fanon also mentions two
+      names but does not go into any depth about them: “Look at ben M’hidi, look at
+      Moumié, look at Lumumba.” Mohammed Larbi ben M’hidi, 1923 to 1957, was one of
+      the six founding members of the Algerian National Liberation Front (FLN). Known
+      as “Larbi the Wise,” he was the commander of the Wilaya V military zone in the
+      Oran region and later led the FLN in the Battle of Algiers. He was captured in
+      February 1957, brutally tortured, and executed a month later at the age of 33.
+      France would not tolerate this upright Algerian. Félix-Roland Moumié, 1925 to
+      1960, led the Union of the Peoples of Cameroon throughout the country’s independence
+      struggle, which broke out in 1955. As in Algeria, French repression in Cameroon
+      was diabolical, resulting in the killing of tens of thousands of people in harsh
+      attacks on civilian centres. This history has been largely forgotten. Moumié was
+      assassinated in Geneva by a member of the French security services, who poisoned
+      him with thallium. He was 35. The deaths of M’hidi, Moumié, and Lumumba — all
+      of whom Fanon knew personally – underlined the brutality of imperialism. If a
+      radical appears on the horizon to lead a people to sovereignty, then the radical
+      cannot be allowed to survive. Lumumba was a radical, a man “sold to Africa,” Fanon
+      wrote, meaning that his heart was with the people of Africa and had not been sold
+      out to imperialism. That is why he was killed. Baya Mahieddine, Algeria, Musique,
+      1974 (Via Tricontinental: Institute for Social Research) Belgium, Britain, France
+      and Portugal refused to withdraw from their African colonies peacefully. They
+      used every tactic, including those used by the Nazis and the Japanese in World
+      War II; tactics which were subsequently declared to be war crimes during the Nuremberg
+      and Tokyo Trials, respectively. If the definition used in these trials were applied
+      to the colonial wars from Algeria to Cameroon, the military and civilian leaders
+      of these European countries would have been hanged. General Tomoyuki Yamashita
+      of the Imperial Japanese Army, for instance, was hanged in 1946 after the Tokyo
+      tribunal found him guilty under the principle of command responsibility for atrocities
+      committed by his troops against civilians in the Philippines. If this standard
+      (later known as the Yamashita Standard) were applied consistently, British Field
+      Marshal Gerald Walter Robert Templer would have been hanged for his role in the
+      Malayan Emergency (1948–1960), including the use by the British of internment
+      camps and herbicidal warfare against the general population, which prefigured
+      the later use of Agent Orange by the U.S. in Vietnam. By the same measure, French
+      generals Jean-Marie Lamberton and Max Briand would have been hanged for their
+      role in the war in Cameroon (1955–1964), where French forces used extreme brutality
+      against insurgents and civilians alike, including documented massacres and reported
+      use of decapitations as psychological warfare. But, of course, they all died with
+      medals covering their chests. It is important to recall that toward the end of
+      the war, the French tested their nuclear bomb in Algeria’s Reggane, in the Sahara
+      Desert, on Feb. 13, 1960, making France the fourth country in the world to possess
+      nuclear weapons. France refused to join the Partial Nuclear Test-Ban Treaty of
+      1963. Algeria won its independence in 1962, but France retained a five-year lease
+      to continue nuclear weapons testing in Reggane, which it did until 1966. After
+      that, France shifted its tests to the Fangataufa and Moruroa atolls in the Pacific
+      Ocean, where it conducted 193 nuclear tests over the next 30 years. As France
+      tested its atomic bombs in Reggane, Fanon wrote in The Wretched of the Earth :
+      “those literally astronomical sums of money which are invested in military research,
+      those engineers who are transformed into technicians of nuclear war, could in
+      the space of fifteen years raise the standard of living of underdeveloped countries
+      by 60 percent.” While he wrote about the tests in economic terms, he could just
+      as well have written about them in terms of political threats: if assassinations
+      didn’t work, the atomic bomb, too, was available for France to use against its
+      rebellious colonies. (Via Tricontinental: Institute for Social Research) Fanon
+      met Lumumba and Moumié on behalf of the Algerian provisional government at the
+      1958 All-African People’s Conference organised by Ghana’s Prime Minister Kwame
+      Nkrumah in Accra. They talked about the necessity of national liberation struggles,
+      how to best protect themselves from the brutality of imperialist force, and how
+      to advance beyond the tentacles of the neocolonial structure. Fanon was interested
+      in the creation of an African Legion, a military force for the continent’s wars
+      of liberation that would be trained by the Algerians and their allies. In his
+      notes from these meetings, Fanon wrote about Moumié’s death: “An abstract death
+      striking the most concrete, the most alive, the most impetuous man. Félix’s tone
+      was constantly high. Aggressive, violent, full of anger, in love with his country,
+      hating cowards and maneuverers. Austere, hard, incorruptible. A bundle of revolutionary
+      spirit packed into sixty kilos of muscle and bone.” These sentences about Moumié
+      could very well define Fanon. The official record of Fanon’s death is bronchial
+      pneumonia, but that is just what it says on the certificate. There was a man from
+      the Central Intelligence Agency, C. Oliver Iselin, present when he died. So it
+      goes. Please share this story and help us grow our network! Editor’s Note : A
+      t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Vijay Prashad
+      Vijay Prashad is an Indian historian, editor and journalist. He is a writing fellow
+      and chief correspondent at Globetrotter. He is an editor of LeftWord Books and
+      the director of Tricontinental: Institute for Social Research . He is a senior
+      non-resident fellow at Chongyang Institute for Financial Studies , Renmin University
+      of China. He has written more than 20 books, including The Darker Nations and
+      The Poorer Nations . His latest books are Struggle Makes Us Human: Learning from
+      Movements for Socialism and (with Noam Chomsky) The Withdrawal: Iraq, Libya, Afghanistan,
+      and the Fragility of U.S. Power . Author Site'
+    one_sentence_summary: The article reflects on the significant contributions of revolutionaries
+      Frantz Fanon and Patrice Lumumba to anti-colonial movements, highlighting a conversation
+      with Fanon's daughter that emphasizes the loss felt from his early death at 36.
+    paragraph_summary: The article reflects on the significant yet tragically brief
+      lives of revolutionary figures like Frantz Fanon and Patrice Lumumba, who made
+      profound contributions to anti-colonial and national liberation movements before
+      their untimely deaths. Author Vijay Prashad recounts a conversation with Fanon's
+      daughter, Mireille Fanon Mendès-France, highlighting the potential impact of Fanon's
+      work had he lived longer. This prompts Prashad to compile a list of revolutionary
+      leaders and intellectuals who were assassinated before the age of 40, emphasizing
+      the broader theme of repression faced by those who challenge imperialist structures.
+      The piece serves as a digital memorial to these figures, acknowledging the loss
+      of their voices and ideas in the struggle for justice and liberation.
+    published: '2025-08-18T09:30:00+00:00'
+  - title: 'Interview: Richard Sakwa on Russia Since Perestroika'
+    url: https://scheerpost.com/2025/08/18/interview-richard-sakwa-on-russia-since-perestroika/
+    text: 'Richard Sakwa in 2014. (Jwh, Wikimedia Commons, CC BY-SA 3.0) In one of the
+      scariest moments in modern history, we''re doing our best at ScheerPost to pierce
+      the fog of lies that conceal it but we need some help to pay our writers and staff.
+      Please consider a tax-deductible donation . By Natylie Baldwin / Consortium News
+      R ichard Sakwa is a British  academic expert who has been a prolific author of
+      books and articles on the Soviet Union and Russia. He is known as one of the best
+      and most fair-minded experts on Russia in the English-speaking world. In this
+      wide-ranging interview, Sakwa discusses many topics, from the collapse of the
+      Soviet Union; Russia during the 1990’s; the nature of VladimirPutin’s governance;
+      the rise of a new cold war and the Russia-Ukraine War. Natylie Baldwin: According
+      to Vladislav Zubok in his book Collapse: The Fall of the Soviet Union , while
+      there were definitely systemic problems, the flaws in Mikhail Gorbachev as a leader
+      seemed to ultimately be responsible for driving the Soviet Union off the proverbial
+      cliff. On page four of his book, he writes: “It is axiomatic that the Soviet economic
+      system was wasteful, ruinous, and could not deliver goods to people…[But] scholars
+      who studied the Soviet economy concluded that the economic system was destroyed
+      not by its structural faults, but by Gorbachev-era reforms.  The purposeful as
+      well as unintended destruction of the Soviet economy, along with its finances,
+      may be considered the best candidate as a principal cause of Soviet disintegration.”
+      Do you agree with this assessment? Richard Sakwa: In broad terms, I agree with
+      Zubok’s assessment. His book on the subject is among the best studies so far of
+      Gorbachev’s reforms, along with William Taubman’s biography of Gorbachev. Zubok
+      is right to note the structural flaws of the Soviet economic system, but at the
+      same time dispassionate economists (ie, those without anti-Soviet axes to grind)
+      agree that prior to perestroika the economy could have muddled on indefinitely.
+      It was perestroika and ill-thought-out reforms that terminally destabilised the
+      economy. Natylie Baldwin: Zubok implies that Gorbachev’s philosophical reliance
+      on Bolshevik leader Vladimir Lenin was what destroyed the Soviet Union as he had
+      romanticized Lenin since his days as a student, believing that Lenin was the good
+      guy of the revolution as opposed to Joseph Stalin being the bad guy, and Gorbachev
+      surrounded himself with others who shared his views.  Do you think his over reliance
+      on Lenin was a major contributor to his mistakes or is that aspect overblown in
+      your opinion? Richard Sakwa: Perestroika was launched in the belief that a return
+      to Lenin would provide the antidote to Stalinist excesses. In this spirit Gorbachev
+      revived the slogan “All Power to the Soviets” and made some moves towards reviving
+      the power of legislatures. He also spoke in terms of reviving “socialist legality,”
+      and much else in the Leninist spirit. The neo-Leninist version of reform remained
+      dominant until, roughly, the 19th Party Conference, held in June-July that year.
+      After that point, Gorbachev veered towards a more liberal vision of socialism,
+      culminating in the presentation of the draft party programme “Towards a Humane,
+      Democratic Socialism” at the proposed Party congress in July-August 1991. If Gorbachev’s
+      adherence to neo-Leninism can be criticised, then so, too, is his continued belief
+      in some form of democratic socialism. A number of issues emerge. First, what sort
+      of Leninism are we talking about? Stephen Cohen famously resurrected the Bukharinist
+      model, which in his reading prefigured some of the aspects revived by Gorbachev.
+      This in turn raises the fundamental questions that were debated in the early years
+      of Soviet power. The Democratic Centralists, for example, in 1919 precisely demanded
+      a more balanced relationship between the Bolshevik Party and the Soviets. They
+      of course were defeated. No less important, the Workers’ Opposition in 1920 sought
+      to ensure greater responsibility for the trade unions. Above all, there is the
+      question of violence and coercion. Lenin accepted the New Economic Policy in 1921,
+      but at the same time clamped down on inner-party discussions through his “ban
+      on factions,” which allowed Stalin to consolidate his power, and then end the
+      NEP in the late 1920s. Second, to what degree did the neo-Leninist approach consciously
+      model itself on Deng Xiaoping’s reforms in China from 1978? This in turn raises
+      the question about the degree to which the Chinese reforms were applicable to
+      a very different socio-economic context in the U.S.S.R. There is an extensive
+      literature on this. The way I conceptualise the debate is to distinguish between
+      “reform communism,” of the sort practiced by Gorbachev, and the “communism of
+      reform,” the Deng Xiaoping model implemented in China. Reform communism drew on
+      the Czechoslovak experience of “socialism with a human face” in 1968. Gorbachev
+      met one of the future Czech reformers while at Moscow State University in the
+      early 1950s and stayed in touch. Reform communism is a very different model, in
+      which the party stays in charge and implements market reforms. The bottom line
+      ultimately is that Gorbachev tended towards the former, but never really had a
+      clear idea of how to go about this and certainly was unable to enthuse the people
+      to follow this model. The problem was that Gorbachev’s reforms came 20 years too
+      late. The Soviet-led invasion of Czechoslovakia in August 1968 was the greatest
+      self-invasion in history: blocking reform in the Soviet Union itself, and then
+      when they came, they had lost their historical relevance. In short, the question
+      of Lenin is a fascinating one. In the end, Gorbachev even jettisoned the liberal
+      Leninism (communism of reform) and entered into an intellectual dead zone, allowing
+      all sorts of ideological entrepreneurs to fill the vacuum , usually with pre-digested
+      ideas of the Soviet Union joining the main highway of civilisation — as if a “rectifying
+      revolution” (to use Habermas’ term) solved all the problems and did away with
+      the need for a genuinely political process of substantive debate, constrained
+      in the first instance by the reformed power system. Instead, Gorbachev delegitimated
+      that power system, then dismantled it, but was unable to provide coherent intellectual
+      or institutional alternatives. Natalyie Baldwin: My takeaway from the Zubok book
+      is that Gorbachev had grandiose goals and ideas but no understanding of how to
+      actually reform the economy.  He likely meant well, but he was afflicted with
+      a problem common with intellectuals who immerse themselves in abstractions but
+      don’t have practical knowledge of how to get things done constructively in the
+      real world.  It also seems that he became more preoccupied in later years with
+      getting approval from the West than getting a handle on concrete problems in his
+      own country.  What do you think? Richard Sakwa: Some of this was covered in my
+      previous response but let me add some comments on the West. On one level, the
+      charge of excessive Westernism is a fair one. The New Political Thinking in foreign
+      policy junked much of what was considered the excessively dogmatic Marxist-Leninist
+      approach to foreign policy. This was not Gorbachev’s choice alone. The NPT had
+      long been maturing in the Institutes of the Soviet Academy of Sciences (above
+      all IMEMO) and rejected some of the fundamental postulates of earlier thinking:
+      that the capitalist powers were inherently militaristic and aggressive and that
+      an enduring rapprochement with them was possible. It turns out that the Soviet
+      critique of the capitalist powers had more to it than some of the reformers believed,
+      especially on the essential militarism and expansionism. Nevertheless, it is important
+      to stress that when Gorbachev brought the Cold War to an end, he was not capitulating
+      to the “collective West’s” model of world order. Instead, he returned to the Soviet
+      aspirations at the end of the Second World War — that some sort of system of great-power
+      comity could overcome the logic of cold war. In turn, this was based on a common
+      vision of allowing the international system established at that time in the form
+      of the United Nations to be allowed to work as its creators hoped in 1945. Thus,
+      Gorbachev was appealing to the Charter International System, and not to what I
+      call the Political West’s model of world order. Alternative models of world order
+      — the socialist and the capitalist — in his view could coexist amicably. This
+      was naïve, but the issue remains on the agenda — in a far more tragic and polarised
+      form – to this day. Instead, it was Boris Yeltsin who hoped to join the Political
+      West. He was soon disabused of this notion, with NATO expansion taking the place
+      of the Partnership for Peace in 1994, although many in the Russian elite entertain
+      the idea to this day. Vladimir Putin in the early years of his leadership, although
+      more cautiously, believed that Russia could join the Political West as an equal.
+      When he understood that this was not possible, the long road to war began. At
+      the same time, the notion of “the West” needs to be disaggregated. There is the
+      Political West created during the Cold War and shaped by cold war thinking. Today
+      we are witnessing a gradual divorce between the two wings of this Atlantic power
+      system, Brussels and Washington, but that is another question. There is also the
+      Civilisational West, the era of global expansion from 1492, which is also the
+      backdrop to many debates today, with the anti-colonial motif part of the Russian
+      repertoire, explicitly since September 2022. Western countries are also still
+      trying to come to terms with their imperial and colonialist pasts. Finally, there
+      is Cultural Europe, a distinctive representation of the West drawing on its Judaeo-Christian
+      heritage and Greco-Roman-Byzantine legacy. Russia is an integral part of this
+      West, and it is one that means that any “post-Western” Russia will always remain
+      European in this form. Natalyie Baldwin: In his book, Soviet Fates and Lost Alternatives
+      and in various writings and presentations , the late Stephen F. Cohen suggested
+      that it was a combination of the personalities of Gorbachev (who had a major will
+      for reform — including the tendency to derogate power away from himself) and Boris
+      Yeltsin (who had a major will to power — on behalf of which he was able to exploit
+      Gorbachev’s derogation of his own power) and the greed of the various Soviet elites
+      for the country’s wealth. He also seems to suggest that the Soviet Union could
+      have been reformed as it had been several times in its past (Lenin’s NEP program
+      and Khrushchev’s various reforms).  What do you think of Cohen’s explanation for
+      the end of the Soviet Union?  Do you agree that it may have been reformable? Richard
+      Sakwa: One has to praise Stephen Cohen for the boldness and originality of his
+      thinking, and the courage with which he pursued his ideas. As for his core argument,
+      that the Soviet Union was reformable – he was proved right. The country did reform.
+      By 1988 the Soviet Union was no longer recognisably communist. However, as noted
+      earlier, although the society became more open, with “glasnost” in full flood,
+      the back-handed pursuit of an anachronistic model of communism of reform while
+      dismantling the “communism” part of the equation led to disaster. The “dissolution”
+      of communism was one thing: but the “disintegration” of the institutions of state
+      power, and ultimately the country itself, in another. Cohen was also right about
+      the destructive character of the Yeltsinite insurgency. While promoted through
+      democratic rhetoric, the Yeltsinite attack on Gorbachev was populist to the core.
+      However, its demagogic power came from identifying genuine problems with Gorbachev’s
+      approach, above all his endless procrastination over the appropriate model of
+      economic reform. In the end, Yeltsin used the power of Russian nationalism to
+      destroy the Soviet Union and to seize power from Gorbachev. He soon found that
+      the under-institutionalisation of the new state rendered it susceptible to the
+      plunderers and bootleggers of the “shock therapy” era. In short, there are two
+      questions here. First, could Soviet communism be reformed? The answer is unequivocally
+      yes, with wiser leadership and a clear strategic direction, with neo-Leninism
+      giving way to liberal Leninism and then some sort of substantive post-Leninist
+      equilibrium. However, this intersects catastrophically with the second question:
+      could the Soviet Union survive? Gorbachev certainly believed that some sort of
+      confederated Union of Sovereign States could have been created. With hindsight,
+      we could argue that this would have been the best solution, without perhaps the
+      Baltic and South Caucasus republics. Yeltsin wrenched history in another direction.
+      We have still not found an adequate security framework and political order for
+      North Eurasia. Natalyie Baldwin: Last December, the National Security Archive
+      published a 1994 memo by E. Wayne Merry, a U.S. diplomat in Moscow who provided
+      an on-the-ground assessment of U.S. policies toward a Russia that was in chaos.
+      In his memo — sent by telegram — Merry criticized the U.S. tendency to prioritize
+      experimental shock therapy rather than laying the foundation for the rule of law.
+      He also said that Russia’s historical and cultural experience was not conducive
+      to the same lionization of unfettered free markets that Americans had. What are
+      your thoughts on Merry’s memo?  Why do you think decision makers in Washington
+      were not able to understand Merry’s critique of U.S. policy toward Russia at that
+      time and act accordingly? Richard Sakwa: Merry’s document is one of the most powerful
+      critiques of the economic policies of the early 1990s. His arguments fell on deaf
+      ears in Washington. This was the heyday of the Clintonite vision of an expansive
+      West, in the guise of “globalisation” and the unfettered dominance of capital,
+      accompanied by the erosion of state capacity and the neoliberal de-legitimation
+      of state activism in the economic sphere (except in saving capitalism — occasionally
+      — from its excesses). The inability to understand the historical and cultural
+      experience of other civilisations and states remains to this day. This was the
+      era in which liberal globalism was radicalised by the fall of the alternative,
+      Soviet-led, order, giving rise to hubristic notions that the experience of the
+      Political West was of universal applicability. We are still coming to terms with
+      the illusions of that era. Liberal globalism combines a political project based
+      on reified notions of “freedom;” an economic agenda demanding free markets, open
+      trade and minimum state management of the economy; and a geopolitical ambition
+      to maintain the primacy of the U.S. These three elements were not always compatible
+      but nevertheless created a powerful model of world order in the first eight postwar
+      decades. Liberal globalism, variously described as the liberal international order,
+      liberal hegemony or the rules-based international order, entailed an entitlement,
+      if not obligation, to interfere in the internal affairs of states if they are
+      believed to have contravened elements of the normative order represented by the
+      Political West. Today, as liberal globalism gives way to Trumpian mercantile globalism,
+      the imperial dynamic remains, but in a more fragmented and incoherent form. Putin’s
+      Governance Natalyie Baldwin: You’ve written a series of political biographies
+      of Vladimir Putin in which you cover different periods of his rule.  Your most
+      recent book on this is The Putin Paradox in which you describe in detail how Putin
+      governs, why and what has influenced him. You mention that the two historical
+      events that have most influenced Putin are World War II and the collapse of the
+      ’90s.  We just discussed the collapse of the Soviet Union, can you explain how
+      that shaped Putin’s thinking both in terms of his relations with the West and
+      his domestic policy?  How does the legacy of World War II affect Putin’s decision-making?
+      Richard Sakwa: The final point first. Russian society remains traumatised by the
+      Second World War. The loss of 27 million people is never going to be forgotten.
+      The war also brought the U.S.S.R. to its pinnacle as a great power. This was semi-institutionalised
+      in the form of permanent membership of the U.N. Security Council; but more than
+      this, in 1945 Moscow believed that the great power comity forged in the war against
+      Nazi Germany (and Japan) would continue. Instead, it was abruptly terminated.
+      This is not the place to go into the origins of the Cold War, but the key point
+      is that an alternative dynamic was possible, as outlined by, for example, Henry
+      Wallace at the time; and of course, Roosevelt himself earlier. The Soviet victory
+      is plugged for all it is worth in the Russian media today, but the enduring legacy
+      and memory of the war is also an autonomous feature of Russian society — exploited
+      no doubt by the regime, but genuine in its own terms. As for societal and economic
+      collapse and disintegration in the “terrible nineties,” some Western commentators
+      argue that Russia and Putin personally exaggerate the damage, and no doubt they
+      do — but that does not take away the extent of the near societal collapse of the
+      time: an economic collapse greater than in the Great Depression of the 1930s,
+      the rise of criminality, high mortality etc. There is also the “Moscow is silent”
+      syndrome; the collapse in state capacity and ability to defend Russia’s national
+      interests. Already in the late 1990s Evgeny Primakov addressed these issues, hence
+      the high standing he enjoys today. Already in his Millennium Manifesto in the
+      last days of 1999 Putin vowed to restore state capacity, and to do so in manner
+      consonant with Russian traditions. And he has gone on to do so, in his own way.
+      In the first instance he curbed the power of the “oligarchs,” thus preventing
+      the development of an independent bourgeoisie; and no less important, he fought
+      back against the development of semi-autonomous fiefdoms in the regions and republics.
+      This has allowed a genuinely national market to be consolidated; but admittedly,
+      at a high cost in terms of genuine federalism and a competitive democracy. Natalyie
+      Baldwin: We hear many people in the Western political and media class talk about
+      Putin’s past as a KGB officer as though that is the single most important factor
+      in shaping him. I’m sure that has had an influence on Putin, but I think there
+      are other factors that are just as important such as the fact that he’s a trained
+      lawyer.  You state on page seven of The Putin Paradox that Putin’s legal training
+      provides a check on his pragmatic inclination to get things done and achieve results:
+      “[S]o even if ends shape means, formal adherence to the law and regulations remain
+      paramount in his statecraft. Although the foundations of a capitalist democracy
+      were established in the 90s, the Putin years saw the development of the legal
+      and regulatory framework for a market economy and a liberal democracy.” There’s
+      a lot to unpack there. First, can you talk about how Putin’s legal training has
+      influenced him in general as a leader? Second, can you explain specifically what
+      he did to provide a foundation for the legal/regulatory framework of a market
+      economy and a liberal democracy? When I bring these things up to people, they
+      not only tend to be completely unaware of them, they are shocked at the idea that
+      Putin has done anything to build democracy and the rule of law. Richard Sakwa:
+      The Putin system of governance is based on legal formalism: a positivist view
+      of law, applied as an instrument of governance. This is apparent, for example,
+      in the endless tinkering with laws regulating party formation and governing elections.
+      This is based on the dual state idea. In my view, this already emerged in the
+      1990s (and has much deeper historical roots). On the one hand, until 2020 at least,
+      Putin assiduously developed the formal framework of the constitutional state,
+      and on this based the legitimacy of his rule. Elections are held with punctilious
+      (over) regulation, parliamentary procedures observed, and political parties formally
+      contend. However, all this was increasingly over-shadowed by the political regime
+      (the administrative state), based in the Kremlin but cascading across the country.
+      This entails micro-management of politics on a grand scale. The constitutional
+      “reform” of 2020, which allowed Putin to run for two more terms, represents a
+      rupture in this model, with elements introduced into the 1993 constitution that
+      are antithetical to the liberal and democratic spirit of that era; and perhaps
+      worse from the perspective of the positivist pragmatism of high Putinism, introduced
+      destabilizing elements, including making the instrumentalisation of rule  by law
+      more obvious than earlier. However, focusing on your question, the economy has
+      developed within a market framework. Even today the wartime “military Keynesianism”
+      has so far only intensified dirigisme rather than replacing it with a fully-fledged
+      planned or directed economy. Natalyie Baldwin: I recall an academic expert on
+      Russia — it may have been you — saying that there had been a steady move toward
+      more democracy — or at least, not any backsliding on it — through about 2018 and
+      then there started to be more repressive actions.  Is that true and, if so, why
+      do you think there was a change in 2018-2019? Obviously, there was more repression
+      of free speech after February of 2022. Do you think there will be a relaxation
+      of these measures after the war ends? Richard Sakwa: It was not me. I have charted
+      how competitive democracy has been on the retreat since 1991, and in a different
+      way after 2000. There was however a high degree of societal pluralism within the
+      system, although eviscerated in the constitutional state. The form remains, but
+      not the content, which requires a vibrant and independent media and public sphere.
+      Things became worse after 2018 and after the staging of the FIFA World Cup for
+      one simple reason: the confrontation over Ukraine, and prospect of intensified
+      conflict. The regime prepared for a preventive war once the impasse in relations
+      with the Political West reached breaking point. Natalyie Baldwin: In your book
+      you describe how there is an administrative state that exists alongside the formal
+      constitutional state in Russia. Can you explain what the administrative state
+      is in Russia, how it works and the tensions between it and the constitutional
+      state?  What are the consequences — both good and bad — of this dichotomy?  Does
+      the existence of the administrative state benefit or hinder Putin?  What would
+      need to happen to advance the constitutional state and lessen the influence of
+      the administrative state? Richard Sakwa: The administrative state works and is
+      a viable form of public administration, but it inevitably suffers from intensifying
+      internal contradictions: corruption, nepotism, removal of independent sources
+      of innovation and initiative. In other words, it provides mechanical stability
+      by endless manual interventions, just as in the Soviet Union — and we know how
+      that ended. It prevents the emergence of more organic forms of stability, and
+      stasis sets in. However, there is one key point. Russia has a highly personal
+      system of rule, focused on the top man himself, but I would hesitate to go so
+      far as to call it “personalistic.” Procedures are followed, the institutions work
+      according to their normative precepts, and the source of legitimacy remains the
+      constitution and its forms, although flouted in spirit and ignored when necessary.
+      However, the exception has not yet become the rule. That is why, like Stephen
+      Cohen about the Soviet Union, I believe that there remains the potential for an
+      evolution towards a more open and competitive political order. A radical rupture
+      in the form of a revolution would undermine the existing gains. I have continued
+      to visit Russia in recent years, and I have been struck by the continuing vibrancy
+      of the political culture. In simple terms, a lot of people, within the political
+      elite, the academic community and the business world, irrespective of whether
+      supportive or critical of the present regime, understand that mechanical stability
+      has to give way at a certain point to more organic forms. Otherwise, the Russia
+      of today will suffer the same fate as that of the Soviet Union. Natalyie Baldwin:
+      You state in your book that, despite the fact that elections aren’t as competitive
+      as they could be and the constitutional state competes with the administrative
+      state, the Kremlin keeps a finger on the pulse of broad public opinion and doesn’t
+      try to stray from that. It reminded me a bit of China and how it has other means
+      of being responsive to public opinion in the absence of elections.  This admittedly
+      reflects a more philosophical issue, but is it possible for a government to have
+      popular legitimacy without all of the formal trappings of democracy that the West
+      claims a government must have?  If so, to what degree is that the case for Russia?
+      Richard Sakwa: That is exactly the point. There are many ways in which public
+      goods can be delivered, and liberal democracy is from this perspective not always
+      the most effective way of doing so. This is the argument that Daniel A. Bell Makes
+      about China ( The China Model: Political Meritocracy and the Limits of Democracy
+      , 2015). In addition, it’s clear that the democracy that we have in the U.K. and
+      the U.S. is increasingly dysfunctional, condemning generations to marginalisation,
+      poverty and subject to the whims of unaccountable political and economic power.
+      Further, as we see in the cancellation of the result of the November 2024 Romanian
+      presidential election, democratism — the subordination of democratic outcomes
+      to external manipulation – is rampant throughout the Political West. It is eroding
+      the foundations and legitimacy of the Political West itself. All that being said,
+      these are not arguments to jettison democracy but to improve it; both at home
+      and abroad. At home, the tide is turning against the neoliberal deconstruction
+      of the democratic state. Abroad, we need to move away from liberal globalism towards
+      greater respect for the sovereign internationalism at the heart of the Charter
+      International System. This means engaging in a spirit of humility and pluralism
+      vis-à-vis the way that other countries deal with these issues — as long as they
+      remain constrained by the principles of the U.N. Charter. Democracy in the advanced
+      capitalist countries is exhausted: out of ideas, and organisationally dysfunctional
+      (as Colin Crouch argued two decades ago in his book Postdemocracy ). The challenge
+      is to revive it. Natalyie Baldwin: In regards to what some still refer to in Russia
+      as oligarchy, many have heard about the meeting Putin held with the Yeltsin-era
+      oligarchs at the beginning of his rule in which he told them essentially that
+      in order to keep their ill-gotten gains they had to pay taxes and stay out of
+      politics. Can you explain the difference between how these rich tycoons operated
+      in the Yeltsin era compared to the Putin era? On page 93 of your book, you state:
+      “Although [Putin] changed the terms of the relationship between the state and
+      top oligarchs, he inserted himself into the system and was unable or unwilling
+      to challenge the underlying archaic culture of power and property driven by codes
+      of loyalty and motives of personal profit.” Can you explain what you meant by
+      this? Richard Sakwa: Putin’s famous meeting with leading oligarchs in July 2000
+      established the “rules of the road,” with business leaders told to stay out of
+      state affairs and in return the authorities would allow business to get on with
+      business. This effectively entailed the end of the oligarchs as a class, something
+      that Putin vowed to achieve. The definition of an oligarch is someone with economic
+      clout seeking to exercise or shape political power, and after 2000 this no longer
+      applied to the Russian business elite as a whole. All business became vulnerable
+      to the predatory behaviour of the regime and its officials. State capture gave
+      way to business capture. Business leaders became part of a semi-corporatist flexible
+      arrangement between the business elite and the Kremlin administration. This fostered
+      meta-corruption, favouring certain favoured business leaders over others, accompanied
+      by kickbacks, rent skimming and uncompetitive tendering for major contracts. This
+      cannot be described as “crony state capitalism,” since Russia in the first two
+      Putin decades was far from monolithic. Not everyone was a “Putin crony” or subordinated
+      to the meta-corruption exercised by the regime. Russia retained elements of systemic
+      pluralism, with macroeconomic policy in the hands of liberal economists. A notable
+      example is the career of the liberal economist Alexei Kudrin. He served as finance
+      minister from 2000 to 2011, stabilising the rouble and finances. He opposed the
+      diversion of scarce resources to military needs, and it was over this issue that
+      he was sacked by President Dmitry Medvedev in September 2011. Later that year
+      he publicly supported more democratic and competitive elections, speaking at the
+      protest rallies against electoral fraud. He later established the Centre for Strategic
+      Research (CSR), an analytical group drafting economic reform ideas, and headed
+      the Audit Chamber from 2018 to 2022. The economic liberals remain dominant, much
+      to the chagrin of other factions. The economic liberals pursue an orthodox macroeconomic
+      policy seeking to achieve balanced budgets and low inflation through tight credit
+      and a reduced national debt, accompanied by a diversification strategy to reduce
+      dependency on energy rents. Far from being governed by an omnipotent “vertical
+      of power,” there was a relatively broad horizontal dispersion of authority. The
+      liberal economic faction competed against the authoritarian political vertical.
+      This created space for autonomous companies to thrive (Tinkoff Bank, Yandex and
+      many more), even if they had to be cognisant of the new conditions. And these
+      conditions are what I mean by the archaic structures of power. The term “autocracy”
+      is often applied to describe Russia, but it is misleading. Despite many changes
+      of system — Muscovy, Russian Empire, Soviet and “democratic” — Russia is an almost
+      ungovernable country. Excessive hierarchy seeks to counter irremediable centrifugal
+      forces This gives rise to heterarchy — the horizontal dispersion of power and
+      influence. Hence, as I have written elsewhere, there is a constant struggle between
+      chaos and control — leading to the permanent reinvention of archaic methods to
+      control the chaos. A positive gloss on this would be to argue that Russia’s intrinsic
+      pluralism, strongly evident in the ideological sphere where no single idea dominates,
+      remains the foundation for the democratic evolution of the polity. Natalyie Baldwin:
+      You point out that from 1999 to 2011, technocracy was the focus of the Putin government,
+      but from 2012 on there was a shift to cultural issues that reflected moderate
+      conservatism.  Can you elaborate on this shift and why it happened? Richard Sakwa:
+      At the macro-level, the administrative regime stands above a divided society and
+      a fragmented party-representative system. Four major ideational-factional blocs
+      shape Russian political society, each with its perspective on how Russia should
+      be governed. The four are internally divided, but they share interests, ideological
+      perspectives and in some cases a professional commonality. The so-called ‘conservative
+      turn’ focused on certain identity issues but did not fundamentally change the
+      enduring factional character of Russian politics. At least four macro-factions
+      can be identified. First, the views of the liberal bloc are far more influential
+      than the paltry proportion of votes won in recent elections. The bloc is divided
+      between economic liberals, focusing on macroeconomic stability; legal constitutionalists,
+      the inheritors of Boris Chicherin’s statism; and radicals, who look to the West
+      for inspiration. They are challenged by the second group, the okhraniteli – siloviki
+      (those working in or affiliated with the security apparatus). They consider themselves
+      responsible for ‘guarding’ Russia from domestic and foreign enemies, part of Russia’s
+      long ‘guardianship’ ( okhranitel’ ) tradition. They view Russia as a besieged
+      fortress, and it is their sacred duty to defend the country from internal and
+      external enemies. Pursuing a sacred duty to defend ‘fortress Russia’, they have
+      also claimed certain privileges, including personal enrichment. The group is deeply
+      factionalised, between and within its constituent institutions, generating complex
+      mechanisms of internal control. Some have used their powers for personal enrichment
+      and at the margins merge with the criminals. The military is naturally part of
+      this bloc, but their concern is defending the country whereas the okhraniteli
+      – siloviki focus on defending the regime. In his third term, particularly in his
+      Crimea unification speech of 18 March 2014, Putin adopted some of the language
+      of this faction. Third, the diverse bloc of neo-traditionalists ranges from monarchists,
+      neo-imperialists, neo-Stalinists to Russian nationalists to moderate conservates.
+      The use of the term ‘traditionalist’ highlights the backward-looking character
+      of this group, seeking the model of Russia’s future in representations of the
+      past, while the “neo” prefix means that the traditionalism is adapted to present-day
+      concerns. Neo-traditionalists defend Russian exceptionalism (hence become nationalists,
+      even when they reject the word) and assert statism at home and great power concerns
+      abroad. The main platform for the bloc since 2012 has been the Izborsky Club,
+      founded to preserve Russia’s “national and spiritual identity” and to provide
+      an intellectual alternative to liberalism. They felt that their moment had come
+      with the onset of the so-called Russian Spring in early 2014, and some even dreamed
+      of bringing the Donbas insurgency to Moscow to sweep out the liberals and even
+      the endlessly temporising Putin. Putin survived over two decades in power not
+      for nothing and soon cut them back to size. The neo-traditionalist bid for hegemony
+      was thwarted, but with the onset of war in Ukraine they have reasserted their
+      dominance. From 2012, with the notion of Russia as a civilisation state, the intensification
+      of anti-liberal measures in the sphere of identity politics (restrictions on the
+      LGBT+ community) and much else, Putin tilted towards the neo-traditionalists —
+      but even then, characteristically, he kept his options open — as he has done to
+      this day. Eurasianists comprise the fourth category, in part overlapping in personnel
+      and views with the neo-traditionalists, and many of them participate in the work
+      of the Izborsky Club. However, there is an important distinction. Neo-traditionalists
+      are critical of the West, but the reference point for their modernisation agenda
+      and cultural matrix remains essentially European. They wish to overcome the stigma
+      of backwardness to make Russia a great power, but within the framework of a Western
+      hierarchy of power and values. By contrast, the ideology of the Eurasianists is
+      rooted in a foundational anti-Westernism. They have devised a whole cosmology
+      explaining why Russia and what they call “Romano-Germanic” civilisation are incompatible.
+      Although torn by divisions, they are united in the view that there is a fundamental
+      incompatibility between Russia and the West. Thinkers such as Alexander Dugin
+      maintain the earlier uncompromising hostility accompanied by much speculation
+      on geopolitics, the coming apocalypse and Heideggerian notions of the existential
+      exhaustion of Western civilisation. Dugin has never been an advisor to the Kremlin
+      and he can only dream of the success of the Bannonite alt-right in America. None
+      of these four paradigms has become hegemonic and together they represent the character
+      of contemporary Russian society. The Putin leadership draws on all of the blocs
+      but is dependent on none (including the siloviki , despite his background in the
+      security services). Competing groups and ideas are kept in permanent balance,
+      drawing on them all but not dominated by any. Putin acts as the arbiter between
+      the macro-factions, which involves mediating between elite groups and institutions.
+      Each participates in policy making and the political process in general, but none
+      has yet captured the state or set its own line as that of the regime. Macro-factional
+      balancing ensures that intra-elite conflict is minimised, and Putin can rule with
+      a minimum of coercion. Even today, in the middle of a dreadful war, there are
+      some 2,000 political prisoners: that’s 2,000 too many, but it could obviously
+      be far worse. Natalyie Baldwin: With respect to conservatism in Russia, can you
+      talk about what that means compared to conservatism in the U.S./West?  According
+      to surveys I’m aware of, the majority of Russians are fine with women and men
+      sharing the responsibilities of heading a household, there doesn’t seem to be
+      a serious movement to place more restrictions on abortion, and Putin has declined
+      in the past to bring back the death penalty.  While Russians may have more religious
+      sentiment than westerners, they also seem to still support keeping a formal separation
+      of church and state. Is it accurate to say that Russians are mainly culturally
+      conservative on gay and trans issues or is it more complicated? Richard Sakwa:
+      I think you have formulated it very well. There is strong pressure from the neo-traditionalists,
+      okhraniteli and others to move from conservatism to obscurantism and full-scale
+      revanchism against liberals, but this remains at the elite level. The society
+      remains tolerant — in a paradoxical way, in part a legacy of the Enlightenment
+      values proclaimed by Soviet-style socialism. Natalyie Baldwin: I found your assertion
+      that the Putin government views Russian ethnic nationalists as more threatening
+      than liberals to be very interesting.  Can you explain why you think that?  Also,
+      can you tell us the distinction you make between ethnic nationalism and your characterization
+      of Putin as a civic nationalist or statist? Richard Sakwa: Putin warned from the
+      beginning that unleashing Russian (or any other) ethno-nationalism would destroy
+      the foundations of the Russian state. According to official statistics, ethnic
+      Russians comprise just under 80 percent of the total population of 144 million
+      in the 83 core regions, but the rest are made up of at least 146 autochthonous
+      peoples, and a total of some 200 different nationalities. In response, Putin stresses
+      loyalty to the Russian state, its traditions and the formal institutions of the
+      constitutional state. However, he did make a concession to the ethno-nationalists
+      in the 2020 constitutional amendments, with the Russian language described as
+      ‘state forming’. This is as far as he would go, disappointing those who wanted
+      to see Russians as a group described as state forming. The regime is also under
+      great pressure from neo-traditionalists, above all in the Russian Orthodox Church,
+      severely to restrict abortion, but so far this has been largely resisted. Natalyie
+      Baldwin: What do you think will come after Putin — collapse of the current Putin
+      system or will something similar to it carry on?  It seems to me a lot depends
+      on how wisely Putin chooses/grooms a successor. Richard Sakwa: This is a question
+      that will be raised with increasing urgency. As Putin enters his 70s, there is
+      much speculation about a successor. One of the most frequent names mentioned,
+      with all the appropriate characteristics — loyalty, experience and ideological
+      commonality — is Alexei Dyumin. For years he had been part of the security team
+      protecting Putin and had then led the Special Operations Forces in the annexation
+      of Crimea. In May 2024 Putin appointed Dyumin secretary of the State Council,
+      a body designed to provide Putin with a haven in the event of his retirement.
+      From there Putin could act as a senior statesman, removed from current matters
+      but overseeing the overall strategic direction of the country. This would follow
+      the pattern set by Deng in China and Lee Kuan Yew in Singapore. Above all, as
+      argued above, an evolutionary outcome in my view is not only possible, but essential.
+      A new “time of troubles” or another 1917 or 1991 has to be avoided at all reasonable
+      costs. Those calling for regime change and even the forceful removal of the “Putin
+      regime,” however desirable change may be, should be aware that the disintegration
+      of a country with some 6,000 nuclear weapons and a diverse population would be
+      catastrophic for all concerned. Above all, as I have suggested earlier, there
+      is an inherent pluralism in society, and there is no reason why this cannot be
+      given more organic political expression, above all in the form of a more competitive
+      party system, adjudicated by an impartial state. The outcome of free and fair
+      elections may well not be to the liking of the West, since the alienation from
+      the Political West runs very deep. Natalyie Baldwin: The policy missteps that
+      the Obama and Biden administrations in particular have made with respect to Putin
+      and which have led to blowback (reinforcing Putin’s power and popularity as opposed
+      to regime change, strengthening the Russian economy and weakening the EU’s, provoking
+      the 2022 invasion of Ukraine, etc.) seem to reflect a profound incompetence in
+      understanding the country and consequently counterproductive policies.  Can you
+      comment on this?  Is it poor education of Western elites in the post-Soviet era
+      of Russia studies, is it hubris, is it ideological blinders? Richard Sakwa: It
+      is a combination of all these factors. They can be combined under the rubric of
+      cold war. In my recent book The Culture of the Second Cold War , I argue that
+      the founding of the U.N. represented a moment when a positive peace order appeared
+      in prospect — what can be called “the spirit of 1945.” The meeting of Soviet and
+      American forces on the Elbe in April 1945 demonstrated the possibility of cooperation
+      between the great powers to achieve common goals. Coming out of the most catastrophic
+      war in its history, in establishing the Charter International System humanity
+      vowed that it could do better. “Never again” was the resounding anima of the time.
+      In the event, within two years Cold War I was in full flood. In a cold war, the
+      practices of a negative peace predominate, where the potential for war is ever-present,
+      but all parties strive to limit escalation under the shadow of the nuclear cloud.
+      The spirit of 1945 was revived at the end of the Cold War in 1989. The potential
+      for a positive peace order was restored. Once again, the opportunity was squandered
+      (as described in my book The Lost Peace ). The failure to build a European security
+      order encompassing all of the states from Lisbon to Vladivostok generated tensions
+      that ended in renewed cold war, and worse. Today, even a negative peace would
+      be an achievement. The constraints and guardrails of the earlier cold war have
+      not only been dismantled but the culture that generated them has been lost. It
+      remains a puzzle to me as to why this is the case. When I give talks, the most
+      frequent question is why — why we have once again become embroiled in a cold war?
+      Have we learned nothing from the past? I certainly do not have the definitive
+      answer, but the following factors are involved. First, the generation who participated
+      in and then lived in the shadow of the Second World War is dying out, and with
+      it the visceral horror of war. This is what gave impetus to the various anti-nuclear
+      and peace movements from the 1950s to the 1980s, but the energy behind them has
+      now dissipated — just when we need it the most. War as the continuation of policy,
+      now armed by the moral certitude of having history on your side, has become normalised.
+      Second, following from the first point, the nuclear apocalypse seems to have lost
+      some of its terror. A certain irresponsible recklessness has overtaken society,
+      as if the earlier red lines no longer matter, in the belief that a nuclear war
+      could be fought and won. There is even talk of the possibility of a ‘small’ and
+      limited nuclear exchange. We are living through a slow-motion Cuban missile crisis,
+      and if we survived by extraordinary chance the first-time round, we may not be
+      so lucky this time. Third, the new generation of Western leaders has been socialised
+      into accepting and policing the hyper-normality into which they were born. Moral
+      righteousness accompanied by ignorance and disdain for the “abnormality” outside
+      of their garden of civilisation reinforces the recklessness and irresponsibility
+      that their forebears would have considered contemptible. This point could — and
+      should be — greatly developed, but I will leave it there for now. Fourth, elements
+      of the missionary zeal of 19th century liberal imperialism have been restored.
+      This takes many forms, including a revival of the Russophobia that characterised
+      that century, with a particular intensity during the Crimean War of 1853-56. Fifth,
+      there has been much talk over the years about the “strategic autonomy” of Europe.
+      As we have seen in the recent period, this autonomy can take many forms, but without
+      a genuine shift away from cold war thinking, that autonomy will be placed at the
+      service of continued militarisation rather than developing a peace and security
+      order for the whole continent. Natalyie Baldwin: How do you think the Trump administration
+      is performing with respect to its policy toward Russia and the Russia-Ukraine
+      war? Richard Sakwa: U.S. policy under Trump is inconsistent and contradictory.
+      For a brief moment at the beginning of Trump’s second term there was a prospect
+      of him fulfilling his purported first term programme — to seek rapprochement with
+      Russia. Without that, there can be no basis for any lasting agreement. In the
+      event, Trump unleashed has been a Trump even more untamed than before. In  brief,
+      Trump in my view is undertaking four major defections (none complete, and some
+      possibly reversible): —from the Political West, with Washington and Brussels drifting
+      apart, if not fully divorcing; — from the Charter International System, including
+      contempt for international law and Charter principles; — from the U.S. Constitution,
+      with law fare and executive orders taking the place of legislation; — and from
+      the American state, which is in one way or another being ‘deconstructed’, as per
+      Bannon, leading to bad governance on an epic scale. Natalyie Baldwin: How do you
+      see the Russia-Ukraine war ending? Richard Sakwa: There are many scenarios, and
+      very few of them good. The bottom line is that the current Ukrainian leadership
+      (whether in the form of Zelensky or some more amenable leader) will have to be
+      coerced into making peace; but this reflects the overwhelming sentiments of the
+      Ukrainian people, as reflected in recent surveys. The EU/U.K. leaders actively
+      oppose such a strategy, hence it will have to come from Washington, or it won’t
+      come at all — apart from after even more severe battlefield defeats, if not a
+      full-scale frontline collapse. It is important to remember that the Russo-Ukrainian
+      war is being fought in the foothills of the Third World war, and it will not take
+      much to push it up that deadly hill. This could end very badly, and quite possibly
+      with the extermination of the human race. I have been warning about the dangers
+      for three decades – above all, the failure of the Political West to open up and
+      move beyond Cold War trajectories. A different question is how I would like to
+      see the war end. I would like to see a North Eurasian confederation, from Lisbon
+      to Vladivostok (at last), post-American (but not anti-American), in which existing
+      institutions may fit (EU, NATO, EEU, CSTO and others), to provide a framework
+      for European pan-continental rapprochement and security. This would transcend
+      geopolitical dividing lines across North Eurasia, and above all allow Ukraine
+      to rebuild as a multilingual, multi-confessional, pluralistic and genuinely multi-vector
+      and inclusive polity, living in harmony with itself and its neighbours. I have
+      been calling for this for three decades, earlier in the idiom of the common European
+      home, Greater Europe, de-Gaulle’s Europe from Lisbon to the Urals, and Francois
+      Mitterrand’s European Confederation. It didn’t happen then, and I doubt that it
+      will happen now. But it’s our only chance of avoiding a big war. Natalyie Baldwin:
+      The Grayzone reported a few months ago that you were the victim of a coordinated
+      smear campaign by British intelligence in an attempt to silence voices who don’t
+      parrot the establishment view on Russia. Can you briefly tell us what happened? 
+      How has this affected your work? Richard Sakwa: So far it has not affected my
+      work, but it may in the end affect far more than just my work. I need to look
+      into this myself. In the last few months, I have focused on finishing my book
+      The Russo-Ukrainian War: Follies of Empire and have not had time (or to be honest,
+      the inclination) to look into the matter. I can only add that on 13 June 2025
+      I was detained at Heathrow airport on my return from conferences in Tbilisi and
+      Belgrade. Under the terms of the 2019 Counter-Terrorism Act, you can be kept for
+      six hours, and silence is taken as an indication of having something to hide,
+      leading to even worse consequences. They questioned me for four hours and impounded
+      my mobile phone and laptop (later returned, but with all contents downloaded),
+      took fingerprints of fingers and palm, photographs from eight angles, and took
+      my DNA. All this without a predicate — evidence of wrongdoing. I was an academic
+      going about lawful academic business. More than that, I am a professor of Russian
+      politics (emeritus) and have been studying Russia and the Soviet Union for decades.
+      That is my business, and it is now equated with subversion. This is an evident
+      and obvious instance of political repression. It is as bad, if not worse, than
+      anything during the first Cold War. McCarthyism has come home. The absurdity of
+      the case is evident from the following, and I will let it speak for itself: “We
+      have reason to believe that you, Mr Sakwa, may be conducting hostile activity
+      on behalf of the Russian state. Information indicates that you have been interviewed
+      by individuals connected to the Russian state and Russian state media. The Russian
+      state may therefore view you as a credible voice for propagating pro-Russian narratives
+      seeking to undermine U.K. democracy. Should you maintain a relationship with individuals
+      connected to the Russian state, these relationships may be connected with activity
+      of national security concern.” Please share this story and help us grow our network!
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Natylie Baldwin Natylie Baldwin is the author of The View from Moscow:
+      Understanding Russia and U.S.-Russia Relations. Her writing has appeared in various
+      publications including The Grayzone, Antiwar.com, Covert Action Magazine, RT,
+      OpEd News, The Globe Post, The New York Journal of Books and Dissident Voice.
+      She blogs at natyliesbaldwin.com .  Twitter: @natyliesb. Author Site'
+    one_sentence_summary: In a recent interview, British academic Richard Sakwa discusses
+      his insights on the Soviet Union's collapse, Russia in the 1990s, Vladimir Putin's
+      governance, and the ongoing tensions of the new cold war and the Russia-Ukraine
+      conflict.
+    paragraph_summary: In a recent interview, British academic Richard Sakwa, an expert
+      on the Soviet Union and Russia, discusses the complexities surrounding the collapse
+      of the Soviet Union, the governance of Vladimir Putin, and the ongoing tensions
+      of the new Cold War and the Russia-Ukraine conflict. Sakwa aligns with Vladislav
+      Zubok's assessment that while the Soviet economic system had inherent flaws, the
+      reforms initiated by Mikhail Gorbachev were pivotal in exacerbating these issues
+      and ultimately leading to the disintegration of the USSR. He emphasizes that,
+      despite the system's inefficiencies, there were opportunities for improvement
+      before Gorbachev's policies took effect, highlighting the nuanced interplay between
+      leadership and systemic challenges in this historical context.
+    published: '2025-08-18T09:15:00+00:00'
+  - title: 'Interview: Richard Sakwa on Russia Since Perestroika'
+    url: https://scheerpost.com/2025/08/18/interview-richard-sakwa-on-russia-since-perestroika/
+    text: 'Richard Sakwa in 2014. (Jwh, Wikimedia Commons, CC BY-SA 3.0) In one of the
+      scariest moments in modern history, we''re doing our best at ScheerPost to pierce
+      the fog of lies that conceal it but we need some help to pay our writers and staff.
+      Please consider a tax-deductible donation . By Natylie Baldwin / Consortium News
+      R ichard Sakwa is a British  academic expert who has been a prolific author of
+      books and articles on the Soviet Union and Russia. He is known as one of the best
+      and most fair-minded experts on Russia in the English-speaking world. In this
+      wide-ranging interview, Sakwa discusses many topics, from the collapse of the
+      Soviet Union; Russia during the 1990’s; the nature of VladimirPutin’s governance;
+      the rise of a new cold war and the Russia-Ukraine War. Natylie Baldwin: According
+      to Vladislav Zubok in his book Collapse: The Fall of the Soviet Union , while
+      there were definitely systemic problems, the flaws in Mikhail Gorbachev as a leader
+      seemed to ultimately be responsible for driving the Soviet Union off the proverbial
+      cliff. On page four of his book, he writes: “It is axiomatic that the Soviet economic
+      system was wasteful, ruinous, and could not deliver goods to people…[But] scholars
+      who studied the Soviet economy concluded that the economic system was destroyed
+      not by its structural faults, but by Gorbachev-era reforms.  The purposeful as
+      well as unintended destruction of the Soviet economy, along with its finances,
+      may be considered the best candidate as a principal cause of Soviet disintegration.”
+      Do you agree with this assessment? Richard Sakwa: In broad terms, I agree with
+      Zubok’s assessment. His book on the subject is among the best studies so far of
+      Gorbachev’s reforms, along with William Taubman’s biography of Gorbachev. Zubok
+      is right to note the structural flaws of the Soviet economic system, but at the
+      same time dispassionate economists (ie, those without anti-Soviet axes to grind)
+      agree that prior to perestroika the economy could have muddled on indefinitely.
+      It was perestroika and ill-thought-out reforms that terminally destabilised the
+      economy. Natylie Baldwin: Zubok implies that Gorbachev’s philosophical reliance
+      on Bolshevik leader Vladimir Lenin was what destroyed the Soviet Union as he had
+      romanticized Lenin since his days as a student, believing that Lenin was the good
+      guy of the revolution as opposed to Joseph Stalin being the bad guy, and Gorbachev
+      surrounded himself with others who shared his views.  Do you think his over reliance
+      on Lenin was a major contributor to his mistakes or is that aspect overblown in
+      your opinion? Richard Sakwa: Perestroika was launched in the belief that a return
+      to Lenin would provide the antidote to Stalinist excesses. In this spirit Gorbachev
+      revived the slogan “All Power to the Soviets” and made some moves towards reviving
+      the power of legislatures. He also spoke in terms of reviving “socialist legality,”
+      and much else in the Leninist spirit. The neo-Leninist version of reform remained
+      dominant until, roughly, the 19th Party Conference, held in June-July that year.
+      After that point, Gorbachev veered towards a more liberal vision of socialism,
+      culminating in the presentation of the draft party programme “Towards a Humane,
+      Democratic Socialism” at the proposed Party congress in July-August 1991. If Gorbachev’s
+      adherence to neo-Leninism can be criticised, then so, too, is his continued belief
+      in some form of democratic socialism. A number of issues emerge. First, what sort
+      of Leninism are we talking about? Stephen Cohen famously resurrected the Bukharinist
+      model, which in his reading prefigured some of the aspects revived by Gorbachev.
+      This in turn raises the fundamental questions that were debated in the early years
+      of Soviet power. The Democratic Centralists, for example, in 1919 precisely demanded
+      a more balanced relationship between the Bolshevik Party and the Soviets. They
+      of course were defeated. No less important, the Workers’ Opposition in 1920 sought
+      to ensure greater responsibility for the trade unions. Above all, there is the
+      question of violence and coercion. Lenin accepted the New Economic Policy in 1921,
+      but at the same time clamped down on inner-party discussions through his “ban
+      on factions,” which allowed Stalin to consolidate his power, and then end the
+      NEP in the late 1920s. Second, to what degree did the neo-Leninist approach consciously
+      model itself on Deng Xiaoping’s reforms in China from 1978? This in turn raises
+      the question about the degree to which the Chinese reforms were applicable to
+      a very different socio-economic context in the U.S.S.R. There is an extensive
+      literature on this. The way I conceptualise the debate is to distinguish between
+      “reform communism,” of the sort practiced by Gorbachev, and the “communism of
+      reform,” the Deng Xiaoping model implemented in China. Reform communism drew on
+      the Czechoslovak experience of “socialism with a human face” in 1968. Gorbachev
+      met one of the future Czech reformers while at Moscow State University in the
+      early 1950s and stayed in touch. Reform communism is a very different model, in
+      which the party stays in charge and implements market reforms. The bottom line
+      ultimately is that Gorbachev tended towards the former, but never really had a
+      clear idea of how to go about this and certainly was unable to enthuse the people
+      to follow this model. The problem was that Gorbachev’s reforms came 20 years too
+      late. The Soviet-led invasion of Czechoslovakia in August 1968 was the greatest
+      self-invasion in history: blocking reform in the Soviet Union itself, and then
+      when they came, they had lost their historical relevance. In short, the question
+      of Lenin is a fascinating one. In the end, Gorbachev even jettisoned the liberal
+      Leninism (communism of reform) and entered into an intellectual dead zone, allowing
+      all sorts of ideological entrepreneurs to fill the vacuum , usually with pre-digested
+      ideas of the Soviet Union joining the main highway of civilisation — as if a “rectifying
+      revolution” (to use Habermas’ term) solved all the problems and did away with
+      the need for a genuinely political process of substantive debate, constrained
+      in the first instance by the reformed power system. Instead, Gorbachev delegitimated
+      that power system, then dismantled it, but was unable to provide coherent intellectual
+      or institutional alternatives. Natalyie Baldwin: My takeaway from the Zubok book
+      is that Gorbachev had grandiose goals and ideas but no understanding of how to
+      actually reform the economy.  He likely meant well, but he was afflicted with
+      a problem common with intellectuals who immerse themselves in abstractions but
+      don’t have practical knowledge of how to get things done constructively in the
+      real world.  It also seems that he became more preoccupied in later years with
+      getting approval from the West than getting a handle on concrete problems in his
+      own country.  What do you think? Richard Sakwa: Some of this was covered in my
+      previous response but let me add some comments on the West. On one level, the
+      charge of excessive Westernism is a fair one. The New Political Thinking in foreign
+      policy junked much of what was considered the excessively dogmatic Marxist-Leninist
+      approach to foreign policy. This was not Gorbachev’s choice alone. The NPT had
+      long been maturing in the Institutes of the Soviet Academy of Sciences (above
+      all IMEMO) and rejected some of the fundamental postulates of earlier thinking:
+      that the capitalist powers were inherently militaristic and aggressive and that
+      an enduring rapprochement with them was possible. It turns out that the Soviet
+      critique of the capitalist powers had more to it than some of the reformers believed,
+      especially on the essential militarism and expansionism. Nevertheless, it is important
+      to stress that when Gorbachev brought the Cold War to an end, he was not capitulating
+      to the “collective West’s” model of world order. Instead, he returned to the Soviet
+      aspirations at the end of the Second World War — that some sort of system of great-power
+      comity could overcome the logic of cold war. In turn, this was based on a common
+      vision of allowing the international system established at that time in the form
+      of the United Nations to be allowed to work as its creators hoped in 1945. Thus,
+      Gorbachev was appealing to the Charter International System, and not to what I
+      call the Political West’s model of world order. Alternative models of world order
+      — the socialist and the capitalist — in his view could coexist amicably. This
+      was naïve, but the issue remains on the agenda — in a far more tragic and polarised
+      form – to this day. Instead, it was Boris Yeltsin who hoped to join the Political
+      West. He was soon disabused of this notion, with NATO expansion taking the place
+      of the Partnership for Peace in 1994, although many in the Russian elite entertain
+      the idea to this day. Vladimir Putin in the early years of his leadership, although
+      more cautiously, believed that Russia could join the Political West as an equal.
+      When he understood that this was not possible, the long road to war began. At
+      the same time, the notion of “the West” needs to be disaggregated. There is the
+      Political West created during the Cold War and shaped by cold war thinking. Today
+      we are witnessing a gradual divorce between the two wings of this Atlantic power
+      system, Brussels and Washington, but that is another question. There is also the
+      Civilisational West, the era of global expansion from 1492, which is also the
+      backdrop to many debates today, with the anti-colonial motif part of the Russian
+      repertoire, explicitly since September 2022. Western countries are also still
+      trying to come to terms with their imperial and colonialist pasts. Finally, there
+      is Cultural Europe, a distinctive representation of the West drawing on its Judaeo-Christian
+      heritage and Greco-Roman-Byzantine legacy. Russia is an integral part of this
+      West, and it is one that means that any “post-Western” Russia will always remain
+      European in this form. Natalyie Baldwin: In his book, Soviet Fates and Lost Alternatives
+      and in various writings and presentations , the late Stephen F. Cohen suggested
+      that it was a combination of the personalities of Gorbachev (who had a major will
+      for reform — including the tendency to derogate power away from himself) and Boris
+      Yeltsin (who had a major will to power — on behalf of which he was able to exploit
+      Gorbachev’s derogation of his own power) and the greed of the various Soviet elites
+      for the country’s wealth. He also seems to suggest that the Soviet Union could
+      have been reformed as it had been several times in its past (Lenin’s NEP program
+      and Khrushchev’s various reforms).  What do you think of Cohen’s explanation for
+      the end of the Soviet Union?  Do you agree that it may have been reformable? Richard
+      Sakwa: One has to praise Stephen Cohen for the boldness and originality of his
+      thinking, and the courage with which he pursued his ideas. As for his core argument,
+      that the Soviet Union was reformable – he was proved right. The country did reform.
+      By 1988 the Soviet Union was no longer recognisably communist. However, as noted
+      earlier, although the society became more open, with “glasnost” in full flood,
+      the back-handed pursuit of an anachronistic model of communism of reform while
+      dismantling the “communism” part of the equation led to disaster. The “dissolution”
+      of communism was one thing: but the “disintegration” of the institutions of state
+      power, and ultimately the country itself, in another. Cohen was also right about
+      the destructive character of the Yeltsinite insurgency. While promoted through
+      democratic rhetoric, the Yeltsinite attack on Gorbachev was populist to the core.
+      However, its demagogic power came from identifying genuine problems with Gorbachev’s
+      approach, above all his endless procrastination over the appropriate model of
+      economic reform. In the end, Yeltsin used the power of Russian nationalism to
+      destroy the Soviet Union and to seize power from Gorbachev. He soon found that
+      the under-institutionalisation of the new state rendered it susceptible to the
+      plunderers and bootleggers of the “shock therapy” era. In short, there are two
+      questions here. First, could Soviet communism be reformed? The answer is unequivocally
+      yes, with wiser leadership and a clear strategic direction, with neo-Leninism
+      giving way to liberal Leninism and then some sort of substantive post-Leninist
+      equilibrium. However, this intersects catastrophically with the second question:
+      could the Soviet Union survive? Gorbachev certainly believed that some sort of
+      confederated Union of Sovereign States could have been created. With hindsight,
+      we could argue that this would have been the best solution, without perhaps the
+      Baltic and South Caucasus republics. Yeltsin wrenched history in another direction.
+      We have still not found an adequate security framework and political order for
+      North Eurasia. Natalyie Baldwin: Last December, the National Security Archive
+      published a 1994 memo by E. Wayne Merry, a U.S. diplomat in Moscow who provided
+      an on-the-ground assessment of U.S. policies toward a Russia that was in chaos.
+      In his memo — sent by telegram — Merry criticized the U.S. tendency to prioritize
+      experimental shock therapy rather than laying the foundation for the rule of law.
+      He also said that Russia’s historical and cultural experience was not conducive
+      to the same lionization of unfettered free markets that Americans had. What are
+      your thoughts on Merry’s memo?  Why do you think decision makers in Washington
+      were not able to understand Merry’s critique of U.S. policy toward Russia at that
+      time and act accordingly? Richard Sakwa: Merry’s document is one of the most powerful
+      critiques of the economic policies of the early 1990s. His arguments fell on deaf
+      ears in Washington. This was the heyday of the Clintonite vision of an expansive
+      West, in the guise of “globalisation” and the unfettered dominance of capital,
+      accompanied by the erosion of state capacity and the neoliberal de-legitimation
+      of state activism in the economic sphere (except in saving capitalism — occasionally
+      — from its excesses). The inability to understand the historical and cultural
+      experience of other civilisations and states remains to this day. This was the
+      era in which liberal globalism was radicalised by the fall of the alternative,
+      Soviet-led, order, giving rise to hubristic notions that the experience of the
+      Political West was of universal applicability. We are still coming to terms with
+      the illusions of that era. Liberal globalism combines a political project based
+      on reified notions of “freedom;” an economic agenda demanding free markets, open
+      trade and minimum state management of the economy; and a geopolitical ambition
+      to maintain the primacy of the U.S. These three elements were not always compatible
+      but nevertheless created a powerful model of world order in the first eight postwar
+      decades. Liberal globalism, variously described as the liberal international order,
+      liberal hegemony or the rules-based international order, entailed an entitlement,
+      if not obligation, to interfere in the internal affairs of states if they are
+      believed to have contravened elements of the normative order represented by the
+      Political West. Today, as liberal globalism gives way to Trumpian mercantile globalism,
+      the imperial dynamic remains, but in a more fragmented and incoherent form. Putin’s
+      Governance Natalyie Baldwin: You’ve written a series of political biographies
+      of Vladimir Putin in which you cover different periods of his rule.  Your most
+      recent book on this is The Putin Paradox in which you describe in detail how Putin
+      governs, why and what has influenced him. You mention that the two historical
+      events that have most influenced Putin are World War II and the collapse of the
+      ’90s.  We just discussed the collapse of the Soviet Union, can you explain how
+      that shaped Putin’s thinking both in terms of his relations with the West and
+      his domestic policy?  How does the legacy of World War II affect Putin’s decision-making?
+      Richard Sakwa: The final point first. Russian society remains traumatised by the
+      Second World War. The loss of 27 million people is never going to be forgotten.
+      The war also brought the U.S.S.R. to its pinnacle as a great power. This was semi-institutionalised
+      in the form of permanent membership of the U.N. Security Council; but more than
+      this, in 1945 Moscow believed that the great power comity forged in the war against
+      Nazi Germany (and Japan) would continue. Instead, it was abruptly terminated.
+      This is not the place to go into the origins of the Cold War, but the key point
+      is that an alternative dynamic was possible, as outlined by, for example, Henry
+      Wallace at the time; and of course, Roosevelt himself earlier. The Soviet victory
+      is plugged for all it is worth in the Russian media today, but the enduring legacy
+      and memory of the war is also an autonomous feature of Russian society — exploited
+      no doubt by the regime, but genuine in its own terms. As for societal and economic
+      collapse and disintegration in the “terrible nineties,” some Western commentators
+      argue that Russia and Putin personally exaggerate the damage, and no doubt they
+      do — but that does not take away the extent of the near societal collapse of the
+      time: an economic collapse greater than in the Great Depression of the 1930s,
+      the rise of criminality, high mortality etc. There is also the “Moscow is silent”
+      syndrome; the collapse in state capacity and ability to defend Russia’s national
+      interests. Already in the late 1990s Evgeny Primakov addressed these issues, hence
+      the high standing he enjoys today. Already in his Millennium Manifesto in the
+      last days of 1999 Putin vowed to restore state capacity, and to do so in manner
+      consonant with Russian traditions. And he has gone on to do so, in his own way.
+      In the first instance he curbed the power of the “oligarchs,” thus preventing
+      the development of an independent bourgeoisie; and no less important, he fought
+      back against the development of semi-autonomous fiefdoms in the regions and republics.
+      This has allowed a genuinely national market to be consolidated; but admittedly,
+      at a high cost in terms of genuine federalism and a competitive democracy. Natalyie
+      Baldwin: We hear many people in the Western political and media class talk about
+      Putin’s past as a KGB officer as though that is the single most important factor
+      in shaping him. I’m sure that has had an influence on Putin, but I think there
+      are other factors that are just as important such as the fact that he’s a trained
+      lawyer.  You state on page seven of The Putin Paradox that Putin’s legal training
+      provides a check on his pragmatic inclination to get things done and achieve results:
+      “[S]o even if ends shape means, formal adherence to the law and regulations remain
+      paramount in his statecraft. Although the foundations of a capitalist democracy
+      were established in the 90s, the Putin years saw the development of the legal
+      and regulatory framework for a market economy and a liberal democracy.” There’s
+      a lot to unpack there. First, can you talk about how Putin’s legal training has
+      influenced him in general as a leader? Second, can you explain specifically what
+      he did to provide a foundation for the legal/regulatory framework of a market
+      economy and a liberal democracy? When I bring these things up to people, they
+      not only tend to be completely unaware of them, they are shocked at the idea that
+      Putin has done anything to build democracy and the rule of law. Richard Sakwa:
+      The Putin system of governance is based on legal formalism: a positivist view
+      of law, applied as an instrument of governance. This is apparent, for example,
+      in the endless tinkering with laws regulating party formation and governing elections.
+      This is based on the dual state idea. In my view, this already emerged in the
+      1990s (and has much deeper historical roots). On the one hand, until 2020 at least,
+      Putin assiduously developed the formal framework of the constitutional state,
+      and on this based the legitimacy of his rule. Elections are held with punctilious
+      (over) regulation, parliamentary procedures observed, and political parties formally
+      contend. However, all this was increasingly over-shadowed by the political regime
+      (the administrative state), based in the Kremlin but cascading across the country.
+      This entails micro-management of politics on a grand scale. The constitutional
+      “reform” of 2020, which allowed Putin to run for two more terms, represents a
+      rupture in this model, with elements introduced into the 1993 constitution that
+      are antithetical to the liberal and democratic spirit of that era; and perhaps
+      worse from the perspective of the positivist pragmatism of high Putinism, introduced
+      destabilizing elements, including making the instrumentalisation of rule  by law
+      more obvious than earlier. However, focusing on your question, the economy has
+      developed within a market framework. Even today the wartime “military Keynesianism”
+      has so far only intensified dirigisme rather than replacing it with a fully-fledged
+      planned or directed economy. Natalyie Baldwin: I recall an academic expert on
+      Russia — it may have been you — saying that there had been a steady move toward
+      more democracy — or at least, not any backsliding on it — through about 2018 and
+      then there started to be more repressive actions.  Is that true and, if so, why
+      do you think there was a change in 2018-2019? Obviously, there was more repression
+      of free speech after February of 2022. Do you think there will be a relaxation
+      of these measures after the war ends? Richard Sakwa: It was not me. I have charted
+      how competitive democracy has been on the retreat since 1991, and in a different
+      way after 2000. There was however a high degree of societal pluralism within the
+      system, although eviscerated in the constitutional state. The form remains, but
+      not the content, which requires a vibrant and independent media and public sphere.
+      Things became worse after 2018 and after the staging of the FIFA World Cup for
+      one simple reason: the confrontation over Ukraine, and prospect of intensified
+      conflict. The regime prepared for a preventive war once the impasse in relations
+      with the Political West reached breaking point. Natalyie Baldwin: In your book
+      you describe how there is an administrative state that exists alongside the formal
+      constitutional state in Russia. Can you explain what the administrative state
+      is in Russia, how it works and the tensions between it and the constitutional
+      state?  What are the consequences — both good and bad — of this dichotomy?  Does
+      the existence of the administrative state benefit or hinder Putin?  What would
+      need to happen to advance the constitutional state and lessen the influence of
+      the administrative state? Richard Sakwa: The administrative state works and is
+      a viable form of public administration, but it inevitably suffers from intensifying
+      internal contradictions: corruption, nepotism, removal of independent sources
+      of innovation and initiative. In other words, it provides mechanical stability
+      by endless manual interventions, just as in the Soviet Union — and we know how
+      that ended. It prevents the emergence of more organic forms of stability, and
+      stasis sets in. However, there is one key point. Russia has a highly personal
+      system of rule, focused on the top man himself, but I would hesitate to go so
+      far as to call it “personalistic.” Procedures are followed, the institutions work
+      according to their normative precepts, and the source of legitimacy remains the
+      constitution and its forms, although flouted in spirit and ignored when necessary.
+      However, the exception has not yet become the rule. That is why, like Stephen
+      Cohen about the Soviet Union, I believe that there remains the potential for an
+      evolution towards a more open and competitive political order. A radical rupture
+      in the form of a revolution would undermine the existing gains. I have continued
+      to visit Russia in recent years, and I have been struck by the continuing vibrancy
+      of the political culture. In simple terms, a lot of people, within the political
+      elite, the academic community and the business world, irrespective of whether
+      supportive or critical of the present regime, understand that mechanical stability
+      has to give way at a certain point to more organic forms. Otherwise, the Russia
+      of today will suffer the same fate as that of the Soviet Union. Natalyie Baldwin:
+      You state in your book that, despite the fact that elections aren’t as competitive
+      as they could be and the constitutional state competes with the administrative
+      state, the Kremlin keeps a finger on the pulse of broad public opinion and doesn’t
+      try to stray from that. It reminded me a bit of China and how it has other means
+      of being responsive to public opinion in the absence of elections.  This admittedly
+      reflects a more philosophical issue, but is it possible for a government to have
+      popular legitimacy without all of the formal trappings of democracy that the West
+      claims a government must have?  If so, to what degree is that the case for Russia?
+      Richard Sakwa: That is exactly the point. There are many ways in which public
+      goods can be delivered, and liberal democracy is from this perspective not always
+      the most effective way of doing so. This is the argument that Daniel A. Bell Makes
+      about China ( The China Model: Political Meritocracy and the Limits of Democracy
+      , 2015). In addition, it’s clear that the democracy that we have in the U.K. and
+      the U.S. is increasingly dysfunctional, condemning generations to marginalisation,
+      poverty and subject to the whims of unaccountable political and economic power.
+      Further, as we see in the cancellation of the result of the November 2024 Romanian
+      presidential election, democratism — the subordination of democratic outcomes
+      to external manipulation – is rampant throughout the Political West. It is eroding
+      the foundations and legitimacy of the Political West itself. All that being said,
+      these are not arguments to jettison democracy but to improve it; both at home
+      and abroad. At home, the tide is turning against the neoliberal deconstruction
+      of the democratic state. Abroad, we need to move away from liberal globalism towards
+      greater respect for the sovereign internationalism at the heart of the Charter
+      International System. This means engaging in a spirit of humility and pluralism
+      vis-à-vis the way that other countries deal with these issues — as long as they
+      remain constrained by the principles of the U.N. Charter. Democracy in the advanced
+      capitalist countries is exhausted: out of ideas, and organisationally dysfunctional
+      (as Colin Crouch argued two decades ago in his book Postdemocracy ). The challenge
+      is to revive it. Natalyie Baldwin: In regards to what some still refer to in Russia
+      as oligarchy, many have heard about the meeting Putin held with the Yeltsin-era
+      oligarchs at the beginning of his rule in which he told them essentially that
+      in order to keep their ill-gotten gains they had to pay taxes and stay out of
+      politics. Can you explain the difference between how these rich tycoons operated
+      in the Yeltsin era compared to the Putin era? On page 93 of your book, you state:
+      “Although [Putin] changed the terms of the relationship between the state and
+      top oligarchs, he inserted himself into the system and was unable or unwilling
+      to challenge the underlying archaic culture of power and property driven by codes
+      of loyalty and motives of personal profit.” Can you explain what you meant by
+      this? Richard Sakwa: Putin’s famous meeting with leading oligarchs in July 2000
+      established the “rules of the road,” with business leaders told to stay out of
+      state affairs and in return the authorities would allow business to get on with
+      business. This effectively entailed the end of the oligarchs as a class, something
+      that Putin vowed to achieve. The definition of an oligarch is someone with economic
+      clout seeking to exercise or shape political power, and after 2000 this no longer
+      applied to the Russian business elite as a whole. All business became vulnerable
+      to the predatory behaviour of the regime and its officials. State capture gave
+      way to business capture. Business leaders became part of a semi-corporatist flexible
+      arrangement between the business elite and the Kremlin administration. This fostered
+      meta-corruption, favouring certain favoured business leaders over others, accompanied
+      by kickbacks, rent skimming and uncompetitive tendering for major contracts. This
+      cannot be described as “crony state capitalism,” since Russia in the first two
+      Putin decades was far from monolithic. Not everyone was a “Putin crony” or subordinated
+      to the meta-corruption exercised by the regime. Russia retained elements of systemic
+      pluralism, with macroeconomic policy in the hands of liberal economists. A notable
+      example is the career of the liberal economist Alexei Kudrin. He served as finance
+      minister from 2000 to 2011, stabilising the rouble and finances. He opposed the
+      diversion of scarce resources to military needs, and it was over this issue that
+      he was sacked by President Dmitry Medvedev in September 2011. Later that year
+      he publicly supported more democratic and competitive elections, speaking at the
+      protest rallies against electoral fraud. He later established the Centre for Strategic
+      Research (CSR), an analytical group drafting economic reform ideas, and headed
+      the Audit Chamber from 2018 to 2022. The economic liberals remain dominant, much
+      to the chagrin of other factions. The economic liberals pursue an orthodox macroeconomic
+      policy seeking to achieve balanced budgets and low inflation through tight credit
+      and a reduced national debt, accompanied by a diversification strategy to reduce
+      dependency on energy rents. Far from being governed by an omnipotent “vertical
+      of power,” there was a relatively broad horizontal dispersion of authority. The
+      liberal economic faction competed against the authoritarian political vertical.
+      This created space for autonomous companies to thrive (Tinkoff Bank, Yandex and
+      many more), even if they had to be cognisant of the new conditions. And these
+      conditions are what I mean by the archaic structures of power. The term “autocracy”
+      is often applied to describe Russia, but it is misleading. Despite many changes
+      of system — Muscovy, Russian Empire, Soviet and “democratic” — Russia is an almost
+      ungovernable country. Excessive hierarchy seeks to counter irremediable centrifugal
+      forces This gives rise to heterarchy — the horizontal dispersion of power and
+      influence. Hence, as I have written elsewhere, there is a constant struggle between
+      chaos and control — leading to the permanent reinvention of archaic methods to
+      control the chaos. A positive gloss on this would be to argue that Russia’s intrinsic
+      pluralism, strongly evident in the ideological sphere where no single idea dominates,
+      remains the foundation for the democratic evolution of the polity. Natalyie Baldwin:
+      You point out that from 1999 to 2011, technocracy was the focus of the Putin government,
+      but from 2012 on there was a shift to cultural issues that reflected moderate
+      conservatism.  Can you elaborate on this shift and why it happened? Richard Sakwa:
+      At the macro-level, the administrative regime stands above a divided society and
+      a fragmented party-representative system. Four major ideational-factional blocs
+      shape Russian political society, each with its perspective on how Russia should
+      be governed. The four are internally divided, but they share interests, ideological
+      perspectives and in some cases a professional commonality. The so-called ‘conservative
+      turn’ focused on certain identity issues but did not fundamentally change the
+      enduring factional character of Russian politics. At least four macro-factions
+      can be identified. First, the views of the liberal bloc are far more influential
+      than the paltry proportion of votes won in recent elections. The bloc is divided
+      between economic liberals, focusing on macroeconomic stability; legal constitutionalists,
+      the inheritors of Boris Chicherin’s statism; and radicals, who look to the West
+      for inspiration. They are challenged by the second group, the okhraniteli – siloviki
+      (those working in or affiliated with the security apparatus). They consider themselves
+      responsible for ‘guarding’ Russia from domestic and foreign enemies, part of Russia’s
+      long ‘guardianship’ ( okhranitel’ ) tradition. They view Russia as a besieged
+      fortress, and it is their sacred duty to defend the country from internal and
+      external enemies. Pursuing a sacred duty to defend ‘fortress Russia’, they have
+      also claimed certain privileges, including personal enrichment. The group is deeply
+      factionalised, between and within its constituent institutions, generating complex
+      mechanisms of internal control. Some have used their powers for personal enrichment
+      and at the margins merge with the criminals. The military is naturally part of
+      this bloc, but their concern is defending the country whereas the okhraniteli
+      – siloviki focus on defending the regime. In his third term, particularly in his
+      Crimea unification speech of 18 March 2014, Putin adopted some of the language
+      of this faction. Third, the diverse bloc of neo-traditionalists ranges from monarchists,
+      neo-imperialists, neo-Stalinists to Russian nationalists to moderate conservates.
+      The use of the term ‘traditionalist’ highlights the backward-looking character
+      of this group, seeking the model of Russia’s future in representations of the
+      past, while the “neo” prefix means that the traditionalism is adapted to present-day
+      concerns. Neo-traditionalists defend Russian exceptionalism (hence become nationalists,
+      even when they reject the word) and assert statism at home and great power concerns
+      abroad. The main platform for the bloc since 2012 has been the Izborsky Club,
+      founded to preserve Russia’s “national and spiritual identity” and to provide
+      an intellectual alternative to liberalism. They felt that their moment had come
+      with the onset of the so-called Russian Spring in early 2014, and some even dreamed
+      of bringing the Donbas insurgency to Moscow to sweep out the liberals and even
+      the endlessly temporising Putin. Putin survived over two decades in power not
+      for nothing and soon cut them back to size. The neo-traditionalist bid for hegemony
+      was thwarted, but with the onset of war in Ukraine they have reasserted their
+      dominance. From 2012, with the notion of Russia as a civilisation state, the intensification
+      of anti-liberal measures in the sphere of identity politics (restrictions on the
+      LGBT+ community) and much else, Putin tilted towards the neo-traditionalists —
+      but even then, characteristically, he kept his options open — as he has done to
+      this day. Eurasianists comprise the fourth category, in part overlapping in personnel
+      and views with the neo-traditionalists, and many of them participate in the work
+      of the Izborsky Club. However, there is an important distinction. Neo-traditionalists
+      are critical of the West, but the reference point for their modernisation agenda
+      and cultural matrix remains essentially European. They wish to overcome the stigma
+      of backwardness to make Russia a great power, but within the framework of a Western
+      hierarchy of power and values. By contrast, the ideology of the Eurasianists is
+      rooted in a foundational anti-Westernism. They have devised a whole cosmology
+      explaining why Russia and what they call “Romano-Germanic” civilisation are incompatible.
+      Although torn by divisions, they are united in the view that there is a fundamental
+      incompatibility between Russia and the West. Thinkers such as Alexander Dugin
+      maintain the earlier uncompromising hostility accompanied by much speculation
+      on geopolitics, the coming apocalypse and Heideggerian notions of the existential
+      exhaustion of Western civilisation. Dugin has never been an advisor to the Kremlin
+      and he can only dream of the success of the Bannonite alt-right in America. None
+      of these four paradigms has become hegemonic and together they represent the character
+      of contemporary Russian society. The Putin leadership draws on all of the blocs
+      but is dependent on none (including the siloviki , despite his background in the
+      security services). Competing groups and ideas are kept in permanent balance,
+      drawing on them all but not dominated by any. Putin acts as the arbiter between
+      the macro-factions, which involves mediating between elite groups and institutions.
+      Each participates in policy making and the political process in general, but none
+      has yet captured the state or set its own line as that of the regime. Macro-factional
+      balancing ensures that intra-elite conflict is minimised, and Putin can rule with
+      a minimum of coercion. Even today, in the middle of a dreadful war, there are
+      some 2,000 political prisoners: that’s 2,000 too many, but it could obviously
+      be far worse. Natalyie Baldwin: With respect to conservatism in Russia, can you
+      talk about what that means compared to conservatism in the U.S./West?  According
+      to surveys I’m aware of, the majority of Russians are fine with women and men
+      sharing the responsibilities of heading a household, there doesn’t seem to be
+      a serious movement to place more restrictions on abortion, and Putin has declined
+      in the past to bring back the death penalty.  While Russians may have more religious
+      sentiment than westerners, they also seem to still support keeping a formal separation
+      of church and state. Is it accurate to say that Russians are mainly culturally
+      conservative on gay and trans issues or is it more complicated? Richard Sakwa:
+      I think you have formulated it very well. There is strong pressure from the neo-traditionalists,
+      okhraniteli and others to move from conservatism to obscurantism and full-scale
+      revanchism against liberals, but this remains at the elite level. The society
+      remains tolerant — in a paradoxical way, in part a legacy of the Enlightenment
+      values proclaimed by Soviet-style socialism. Natalyie Baldwin: I found your assertion
+      that the Putin government views Russian ethnic nationalists as more threatening
+      than liberals to be very interesting.  Can you explain why you think that?  Also,
+      can you tell us the distinction you make between ethnic nationalism and your characterization
+      of Putin as a civic nationalist or statist? Richard Sakwa: Putin warned from the
+      beginning that unleashing Russian (or any other) ethno-nationalism would destroy
+      the foundations of the Russian state. According to official statistics, ethnic
+      Russians comprise just under 80 percent of the total population of 144 million
+      in the 83 core regions, but the rest are made up of at least 146 autochthonous
+      peoples, and a total of some 200 different nationalities. In response, Putin stresses
+      loyalty to the Russian state, its traditions and the formal institutions of the
+      constitutional state. However, he did make a concession to the ethno-nationalists
+      in the 2020 constitutional amendments, with the Russian language described as
+      ‘state forming’. This is as far as he would go, disappointing those who wanted
+      to see Russians as a group described as state forming. The regime is also under
+      great pressure from neo-traditionalists, above all in the Russian Orthodox Church,
+      severely to restrict abortion, but so far this has been largely resisted. Natalyie
+      Baldwin: What do you think will come after Putin — collapse of the current Putin
+      system or will something similar to it carry on?  It seems to me a lot depends
+      on how wisely Putin chooses/grooms a successor. Richard Sakwa: This is a question
+      that will be raised with increasing urgency. As Putin enters his 70s, there is
+      much speculation about a successor. One of the most frequent names mentioned,
+      with all the appropriate characteristics — loyalty, experience and ideological
+      commonality — is Alexei Dyumin. For years he had been part of the security team
+      protecting Putin and had then led the Special Operations Forces in the annexation
+      of Crimea. In May 2024 Putin appointed Dyumin secretary of the State Council,
+      a body designed to provide Putin with a haven in the event of his retirement.
+      From there Putin could act as a senior statesman, removed from current matters
+      but overseeing the overall strategic direction of the country. This would follow
+      the pattern set by Deng in China and Lee Kuan Yew in Singapore. Above all, as
+      argued above, an evolutionary outcome in my view is not only possible, but essential.
+      A new “time of troubles” or another 1917 or 1991 has to be avoided at all reasonable
+      costs. Those calling for regime change and even the forceful removal of the “Putin
+      regime,” however desirable change may be, should be aware that the disintegration
+      of a country with some 6,000 nuclear weapons and a diverse population would be
+      catastrophic for all concerned. Above all, as I have suggested earlier, there
+      is an inherent pluralism in society, and there is no reason why this cannot be
+      given more organic political expression, above all in the form of a more competitive
+      party system, adjudicated by an impartial state. The outcome of free and fair
+      elections may well not be to the liking of the West, since the alienation from
+      the Political West runs very deep. Natalyie Baldwin: The policy missteps that
+      the Obama and Biden administrations in particular have made with respect to Putin
+      and which have led to blowback (reinforcing Putin’s power and popularity as opposed
+      to regime change, strengthening the Russian economy and weakening the EU’s, provoking
+      the 2022 invasion of Ukraine, etc.) seem to reflect a profound incompetence in
+      understanding the country and consequently counterproductive policies.  Can you
+      comment on this?  Is it poor education of Western elites in the post-Soviet era
+      of Russia studies, is it hubris, is it ideological blinders? Richard Sakwa: It
+      is a combination of all these factors. They can be combined under the rubric of
+      cold war. In my recent book The Culture of the Second Cold War , I argue that
+      the founding of the U.N. represented a moment when a positive peace order appeared
+      in prospect — what can be called “the spirit of 1945.” The meeting of Soviet and
+      American forces on the Elbe in April 1945 demonstrated the possibility of cooperation
+      between the great powers to achieve common goals. Coming out of the most catastrophic
+      war in its history, in establishing the Charter International System humanity
+      vowed that it could do better. “Never again” was the resounding anima of the time.
+      In the event, within two years Cold War I was in full flood. In a cold war, the
+      practices of a negative peace predominate, where the potential for war is ever-present,
+      but all parties strive to limit escalation under the shadow of the nuclear cloud.
+      The spirit of 1945 was revived at the end of the Cold War in 1989. The potential
+      for a positive peace order was restored. Once again, the opportunity was squandered
+      (as described in my book The Lost Peace ). The failure to build a European security
+      order encompassing all of the states from Lisbon to Vladivostok generated tensions
+      that ended in renewed cold war, and worse. Today, even a negative peace would
+      be an achievement. The constraints and guardrails of the earlier cold war have
+      not only been dismantled but the culture that generated them has been lost. It
+      remains a puzzle to me as to why this is the case. When I give talks, the most
+      frequent question is why — why we have once again become embroiled in a cold war?
+      Have we learned nothing from the past? I certainly do not have the definitive
+      answer, but the following factors are involved. First, the generation who participated
+      in and then lived in the shadow of the Second World War is dying out, and with
+      it the visceral horror of war. This is what gave impetus to the various anti-nuclear
+      and peace movements from the 1950s to the 1980s, but the energy behind them has
+      now dissipated — just when we need it the most. War as the continuation of policy,
+      now armed by the moral certitude of having history on your side, has become normalised.
+      Second, following from the first point, the nuclear apocalypse seems to have lost
+      some of its terror. A certain irresponsible recklessness has overtaken society,
+      as if the earlier red lines no longer matter, in the belief that a nuclear war
+      could be fought and won. There is even talk of the possibility of a ‘small’ and
+      limited nuclear exchange. We are living through a slow-motion Cuban missile crisis,
+      and if we survived by extraordinary chance the first-time round, we may not be
+      so lucky this time. Third, the new generation of Western leaders has been socialised
+      into accepting and policing the hyper-normality into which they were born. Moral
+      righteousness accompanied by ignorance and disdain for the “abnormality” outside
+      of their garden of civilisation reinforces the recklessness and irresponsibility
+      that their forebears would have considered contemptible. This point could — and
+      should be — greatly developed, but I will leave it there for now. Fourth, elements
+      of the missionary zeal of 19th century liberal imperialism have been restored.
+      This takes many forms, including a revival of the Russophobia that characterised
+      that century, with a particular intensity during the Crimean War of 1853-56. Fifth,
+      there has been much talk over the years about the “strategic autonomy” of Europe.
+      As we have seen in the recent period, this autonomy can take many forms, but without
+      a genuine shift away from cold war thinking, that autonomy will be placed at the
+      service of continued militarisation rather than developing a peace and security
+      order for the whole continent. Natalyie Baldwin: How do you think the Trump administration
+      is performing with respect to its policy toward Russia and the Russia-Ukraine
+      war? Richard Sakwa: U.S. policy under Trump is inconsistent and contradictory.
+      For a brief moment at the beginning of Trump’s second term there was a prospect
+      of him fulfilling his purported first term programme — to seek rapprochement with
+      Russia. Without that, there can be no basis for any lasting agreement. In the
+      event, Trump unleashed has been a Trump even more untamed than before. In  brief,
+      Trump in my view is undertaking four major defections (none complete, and some
+      possibly reversible): —from the Political West, with Washington and Brussels drifting
+      apart, if not fully divorcing; — from the Charter International System, including
+      contempt for international law and Charter principles; — from the U.S. Constitution,
+      with law fare and executive orders taking the place of legislation; — and from
+      the American state, which is in one way or another being ‘deconstructed’, as per
+      Bannon, leading to bad governance on an epic scale. Natalyie Baldwin: How do you
+      see the Russia-Ukraine war ending? Richard Sakwa: There are many scenarios, and
+      very few of them good. The bottom line is that the current Ukrainian leadership
+      (whether in the form of Zelensky or some more amenable leader) will have to be
+      coerced into making peace; but this reflects the overwhelming sentiments of the
+      Ukrainian people, as reflected in recent surveys. The EU/U.K. leaders actively
+      oppose such a strategy, hence it will have to come from Washington, or it won’t
+      come at all — apart from after even more severe battlefield defeats, if not a
+      full-scale frontline collapse. It is important to remember that the Russo-Ukrainian
+      war is being fought in the foothills of the Third World war, and it will not take
+      much to push it up that deadly hill. This could end very badly, and quite possibly
+      with the extermination of the human race. I have been warning about the dangers
+      for three decades – above all, the failure of the Political West to open up and
+      move beyond Cold War trajectories. A different question is how I would like to
+      see the war end. I would like to see a North Eurasian confederation, from Lisbon
+      to Vladivostok (at last), post-American (but not anti-American), in which existing
+      institutions may fit (EU, NATO, EEU, CSTO and others), to provide a framework
+      for European pan-continental rapprochement and security. This would transcend
+      geopolitical dividing lines across North Eurasia, and above all allow Ukraine
+      to rebuild as a multilingual, multi-confessional, pluralistic and genuinely multi-vector
+      and inclusive polity, living in harmony with itself and its neighbours. I have
+      been calling for this for three decades, earlier in the idiom of the common European
+      home, Greater Europe, de-Gaulle’s Europe from Lisbon to the Urals, and Francois
+      Mitterrand’s European Confederation. It didn’t happen then, and I doubt that it
+      will happen now. But it’s our only chance of avoiding a big war. Natalyie Baldwin:
+      The Grayzone reported a few months ago that you were the victim of a coordinated
+      smear campaign by British intelligence in an attempt to silence voices who don’t
+      parrot the establishment view on Russia. Can you briefly tell us what happened? 
+      How has this affected your work? Richard Sakwa: So far it has not affected my
+      work, but it may in the end affect far more than just my work. I need to look
+      into this myself. In the last few months, I have focused on finishing my book
+      The Russo-Ukrainian War: Follies of Empire and have not had time (or to be honest,
+      the inclination) to look into the matter. I can only add that on 13 June 2025
+      I was detained at Heathrow airport on my return from conferences in Tbilisi and
+      Belgrade. Under the terms of the 2019 Counter-Terrorism Act, you can be kept for
+      six hours, and silence is taken as an indication of having something to hide,
+      leading to even worse consequences. They questioned me for four hours and impounded
+      my mobile phone and laptop (later returned, but with all contents downloaded),
+      took fingerprints of fingers and palm, photographs from eight angles, and took
+      my DNA. All this without a predicate — evidence of wrongdoing. I was an academic
+      going about lawful academic business. More than that, I am a professor of Russian
+      politics (emeritus) and have been studying Russia and the Soviet Union for decades.
+      That is my business, and it is now equated with subversion. This is an evident
+      and obvious instance of political repression. It is as bad, if not worse, than
+      anything during the first Cold War. McCarthyism has come home. The absurdity of
+      the case is evident from the following, and I will let it speak for itself: “We
+      have reason to believe that you, Mr Sakwa, may be conducting hostile activity
+      on behalf of the Russian state. Information indicates that you have been interviewed
+      by individuals connected to the Russian state and Russian state media. The Russian
+      state may therefore view you as a credible voice for propagating pro-Russian narratives
+      seeking to undermine U.K. democracy. Should you maintain a relationship with individuals
+      connected to the Russian state, these relationships may be connected with activity
+      of national security concern.” Please share this story and help us grow our network!
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Natylie Baldwin Natylie Baldwin is the author of The View from Moscow:
+      Understanding Russia and U.S.-Russia Relations. Her writing has appeared in various
+      publications including The Grayzone, Antiwar.com, Covert Action Magazine, RT,
+      OpEd News, The Globe Post, The New York Journal of Books and Dissident Voice.
+      She blogs at natyliesbaldwin.com .  Twitter: @natyliesb. Author Site'
+    one_sentence_summary: In a recent interview, British academic Richard Sakwa discusses
+      his insights on the Soviet Union's collapse, Russia in the 1990s, Vladimir Putin's
+      governance, and the ongoing tensions of the new cold war and the Russia-Ukraine
+      conflict.
+    paragraph_summary: In a recent interview, British academic Richard Sakwa, an expert
+      on the Soviet Union and Russia, discusses the complexities surrounding the collapse
+      of the Soviet Union, the governance of Vladimir Putin, and the ongoing tensions
+      of the new Cold War and the Russia-Ukraine conflict. Sakwa aligns with Vladislav
+      Zubok's assessment that while the Soviet economic system had inherent flaws, the
+      reforms initiated by Mikhail Gorbachev were pivotal in exacerbating these issues
+      and ultimately leading to the disintegration of the USSR. He emphasizes that,
+      despite the system's inefficiencies, there were opportunities for improvement
+      before Gorbachev's policies took effect, highlighting the nuanced interplay between
+      leadership and systemic challenges in this historical context.
+    published: '2025-08-18T09:15:00+00:00'
+  - title: Palestinian Youth Movement Vows to Make Genocide Support Too Costly for Maersk
+    url: https://scheerpost.com/2025/08/17/palestinian-youth-movement-vows-to-make-genocide-support-too-costly-for-maersk/
+    text: 'People in their tens of thousands rally in Melbourne in support of Palestine
+      and in solidarity with the Palestinian people as the State of Israel continues
+      its bombing attacks of Gaza, resulting in the killing of thousands of civilians
+      and displacement of hundreds of thousands more – with no means of escape (by Matt
+      Hrkac , Wikimedia Commons) In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Tyler Walicek / Truthout After two years of continuous effort in
+      research, agitation and direct action, the organizers of the Palestinian Youth
+      Movement (PYM) celebrated a landmark organizing victory in late June. Their “Mask
+      Off Maersk” campaign had sought to prove the complicity of the Danish freight-logistics
+      titan A.P. Møller – Maersk A/S in the genocide in Gaza. Maersk, as it’s generally
+      known, was found by PYM to be contributing to the ongoing crimes against humanity
+      in Gaza by shipping arms transfers to the perpetrating Israeli military; these
+      shipments included critical parts for the F-35 fighters that have been used to
+      bomb Gaza’s civilian population . Aligning with the broad strategy of the Boycott,
+      Divestment, Sanctions (BDS) movement , PYM organized to make a material difference
+      by interrupting Israel’s still-unfolding campaign of ethnic cleansing, mass displacement
+      and, incontrovertibly, genocide . PYM’s efforts ultimately applied sufficient
+      pressure to Maersk to enact real, meaningful change: the company agreed to halt
+      its work providing commercial shipping for enterprises that operate in illegal
+      Israeli settlements. With this strategy, pro-Palestine activists are seeking to
+      exploit the strategic weak point that is the global logistics apparatus. As the
+      Israeli military, having reduced its aerial bombing, continues to prosecute a
+      genocide by other means — manipulating an aid system that is insufficient by design
+      , creating distribution sites that are veritable death traps , and intentionally
+      proliferating forced starvation and deprivation alongside active murder — the
+      world’s most powerful nations and corporations continue to show up for duty as
+      Israel’s reliable accomplices — and, of course, as eager profiteers. Some, though,
+      are more susceptible to subversion than others. The ability of the U.S. to blithely
+      ignore international law, in service of abetting the supreme human crime of genocide,
+      has thrown into relief the impunity enjoyed by the Global North in perpetrating
+      even the most grievous legal and ethical violations. Despite the many measures
+      taken to enact embargoes or other types of meaningful sanctions, leading global
+      institutions have still proven unable to impose meaningful restraint on Israel
+      and its main benefactor and arms dealer, our decaying superpower. Where the most
+      vaunted chambers of international law have fallen short, it has been left to Palestinians
+      themselves, and the vast and horrified publics worldwide that stand with them,
+      to do all in their power to halt the genocidal machine. Point of Intervention
+      Anti-genocide activists are doing all they can to slow the ever-mounting death
+      toll. PYM is a globally distributed network of (not exclusively) young activists,
+      many Palestinian themselves; their efforts have earned them a considerable following
+      and a leading role in the cause. PYM’s sense of urgency matches the ethical stakes:
+      Their tone and moral seriousness, mocked by genocide deniers, has been so absent
+      on cable television and the organs of the mainstream consensus. PYM organizer
+      Aisha Nazar, a lead coordinator of the Mask Off Maersk project, characterized
+      the group’s initial line of questioning in an interview with Truthout : “Where
+      is the crack in the armor of genocide? Where can we be the wedge that forces it
+      open?” Their answer proved tactically savvy. It’s much easier, after all, to sway
+      a shipping company to wind down a controversial part of its business, a mere fraction
+      — as a logistics business would have many other clients — than to somehow induce
+      a full-fledged arms corporation to dissolve itself. And by targeting logistics
+      lines rather than the original sites of arms producers, noted Nazar, “instead
+      of going after one arms manufacturer, with this target, we are going after them
+      all.” Initially, PYM organizers pursued research — detailed analyses of cargo
+      manifests, bills of lading and other logistics minutiae were required to prove
+      conclusively that the F-35 fighter jet parts that Maersk ships were indeed destined
+      for Israeli military use. They found evidence that left Maersk’s complicity beyond
+      question . The company, researchers determined, was also contracted to transport
+      goods from companies based in Israeli settlements on Palestinian territory — colonial
+      intrusions deemed illegal by the UN and even, at times, the U.S . The UN’s foremost
+      human rights assembly, the Office of the High Commissioner for Human Rights (OHCHR),
+      following Human Rights Council Resolution 31/36 , maintains a database of commercial
+      enterprises that are operating in these illegal settlements and are therefore
+      complicit in infringements upon, per the UN , “the civil, political, economic,
+      social and cultural rights of the Palestinian people.” Maersk, PYM researchers
+      found, was contracting with settlement-based companies on the OHCHR list, some
+      of which were also arms manufacturers. The organizers released these findings
+      publicly in a series of reports, compiling information that the company was not
+      eager to publicize. PYM’s attention then turned to running direct actions, which
+      included protests, sit-ins, and facility shutdowns at Maersk offices in New York,
+      Copenhagen , Rotterdam, and elsewhere over the first half of 2025. As Nazar described,
+      PYM members showed up at Maersk and generally “flooded the streets, confronted
+      our politicians, disrupted their events [and] mobilized to city council meetings
+      to pressure our governments and elected officials to sanction Israel and cut off
+      arms.” Nazar pointed out that Maersk’s globally distributed operation “allows
+      us to employ a diverse set of tactics and demonstrates our movement’s strength
+      by consolidating internationally.” By identifying and pressing into service a
+      wide array of potential allies, their protests were able to bring together everyone
+      from “environmental groups, to the labor sector, to migrant justice advocates,”
+      as well as members of Parliament, lawyers, and more . They also employed tactics
+      that were gleaned from a range of struggles like “city divestment, campus boycott[s],”
+      and organized labor. Mask Off Maersk and its allies mobilized a pointed intervention
+      in March 2025, when, via an online campaign , they successfully urged Maersk shareholders
+      to bring forth a resolution about its complicity. The company dismissed their
+      resolution, but the secrecy was broken; at the meeting, Nazar said, “Maersk was
+      forced to admit [to its shareholders] that it does indeed ship military cargo
+      to Israel.” Those revelations led to legal challenges against Maersk from the
+      Spanish government , a country that does have an embargo on Israel and has called
+      for the rest of the European Union to follow suit. To avert inspection and investigation,
+      the company elected to simply halt the use of the Spanish port of Algeciras by
+      cargo ships en route to Israel. Then, in June, French dockworker unionists refused
+      to work on Maersk’s Israel-bound ships, forcing the company to further reroute
+      arms shipments; a similar labor protest action took place in Morocco . Naturally,
+      these inconvenient workarounds are costly for the company. PYM worked to ensure
+      that the cost of Maersk’s material support for genocide extended to their reputation,
+      and their stock price. Clearly, Maersk corporate leaders must have rerun their
+      cost/benefit analyses: in June, they acceded to a major demand, agreeing to halt
+      commercial dealings with companies in Israeli settlements and promising that they
+      would be “aligning [their] screening process with reference to UN standards.”
+      Veteran investigative journalist and author of The Palestine Laboratory Antony
+      Loewenstein told Truthout that PYM’s approach was worth replicating, as they’ve
+      located a vulnerable node in the global war materiel network. “With every Western
+      state refusing to impose any economic price on Israel for its endless genocide
+      in Gaza,” Loewenstein remarked, “it’s up to civil society to rise up.” He raised
+      a historical example: “American dockworkers were central in the global fight against
+      South African apartheid, and such people can again be a vital cog in stopping
+      the shipment of weapons and defense equipment to Israel.” Nazar has also noted
+      that PYM’s findings are “bolstering arms embargo laws and targeting the supply
+      line to Zionism across Tunisia, Morocco, France, the Netherlands, Denmark, and
+      Spain … A couple of volunteer researchers and youth organizers created diplomatic
+      crises for one of the biggest shipping giants in the world; what this tells us
+      is that an arms embargo is possible, and it is within our grasp.” PYM continues
+      to center a “ People’s Arms Embargo ” as a key demand, hoping to build upon the
+      Maersk win to further thwart the lines of industry and logistics that fuel the
+      military machine of genocide. They are not alone: Palestine Action, the British
+      “direct action network,” conducts direct subterfuge against military equipment
+      and arms contractors like Elbit Systems (acts for which the group is now under
+      severe censure and suppression ), while, as Truthout reported, groups like Jews
+      For Racial & Economic Justice and Port Workers and Communities for Palestine have
+      also sought ways to interrupt the operations of companies like Atlas Air, ZIM,
+      All-Ways Forwarding and others involved, to various degrees, in the flow of arms.
+      International Impotence And yet why, we should ask, has it fallen to a small group
+      of young activists to enforce the responsibilities of states under the 1948 Genocide
+      Convention, not to mention numerous other strictures of international law? It’s
+      not as if nation-states haven’t used legal and institutional means to register
+      their dissent, even if that has not halted the unrestrained slaughter. In one
+      notable example, South Africa has pursued a high-profile legal case charging Israel
+      with genocide. And quite a few states, countries of the Global South in particular,
+      have signaled substantial support for the patchwork of existing sanctions, embargoes,
+      and arms limitations. Recently, at the Emergency Ministerial Conference on Palestine,
+      convened by the Hague Group in Bogota, Colombia , in July, a dozen countries agreed
+      to enforce arms transfer limitations. However, even the grander declarations of
+      dissent have not always been matched by sustained material action aimed at slowing
+      the unfolding of a genocide, and the rulings of the International Court of Justice
+      (ICJ) have so far more closely resembled symbolic gestures than legal enforcement.
+      Such measures are not without worth — but hopes must be tempered. Israeli Prime
+      Minister Benjamin Netanyahu is already wanted for arrest by the International
+      Criminal Court for egregious crimes against humanity, but it’s not yet clear that
+      he will ever face consequences of any sort, and several countries have also expressed
+      their lack of interest in holding him accountable. As Jake Romm wrote for The
+      Baffler , the international human rights model as it stands is structurally limited
+      by the primacy it affords to the treaty-making nation-state: “States are ultimately
+      able to decide whether they conform to [international laws] and the treaties on
+      which they are based. All international human rights law thus … carries more or
+      less persuasive power (but not coercive power) depending on the political moment.”
+      But the loftier ambitions of liberal internationalism tend to quickly run up against
+      contrary prerogatives of capital and power. In this contest, it is clear which
+      party is most often the victor. Between 2013 and 2023, Israel received more than
+      65 percent of its weaponry from the U.S., approximately 30 percent from Germany,
+      and almost all of the remaining 5 percent from Italy. The genocide could not continue
+      without U.S. largesse. This state of affairs, of course, leaves arms-exporting
+      countries in the position of greatest leverage — though there are certainly other
+      avenues that Israel’s powerful Western allies or other foreign critics could pursue.
+      In one telling example, a Dutch appeals court ruled in a landmark decision that
+      the Netherlands must stop exporting F-35 parts to Israel. Yet, unfortunately,
+      it seems compliance has been won merely in letter and not spirit; the Dutch state
+      is now shipping the parts to the U.S ., which subsequently sends them straight
+      to the Israeli military. A wider ban on other arms exports was also rejected by
+      Dutch courts. The international armature of capitalist allies’ mutually reinforcing
+      power, epitomized by the United States and its unflinching defense of its client
+      state, have proved immune to even some of the harshest judgments of the liberal
+      international order. In turn, U.S. unaccountability and flouting of the law reveal
+      the fundamental hollowness of that order: a framework of justice based largely
+      on rhetoric, bereft of economic considerations. This framework also unduly constrains
+      the legal right to armed resistance to national entities alone. Likewise, the
+      moral space of international human rights is invariably warped and compromised
+      by contradictions that owe their existence to the messy allowances necessary to
+      legitimize state-perpetrated traditional war. It should be noted that the U.S.
+      is equally cavalier about flouting its own standards. For one, the Leahy Law —
+      which prevents arms transfers to countries engaged in gross human rights violations
+      — clearly applies in this case. (The eponymous former Sen. Patrick Leahy himself
+      agrees .) So, too, does the Foreign Assistance Act of 1961 , which states, “No
+      assistance may be provided … to the government of any country which engages in
+      a consistent pattern of gross violations of internationally recognized human rights[.]”
+      Germany, for its role, has also faced internal calls for embargo and divestment
+      from civil servants and academics , as well as legal challenges . Though it has
+      at times slowed the passage of arms through its export review process in the course
+      of legal review , Germany has been cagey at best with international courts. (Among
+      other challenges, the nation of Nicaragua has charged Germany with Geneva Convention
+      violations in the ICJ.) After a massive uptick, German weapons shipments have
+      sunk back down “amid growing legal and political pressure domestically and internationally,”
+      per Politico . Germany also recently announced a more widespread embargo — but
+      there are signs its staunchly pro-Israel stance may be unchanged; as the BDS movement
+      has charged , Germany has claimed to be imposing a comparable ban before, and
+      may well continue to issue arms licenses via loopholes, contra public assurances.
+      The United States has done, basically, the complete opposite of anything like
+      a ban, escalating massive continual deliveries — although the Biden administration
+      would have liked you to think it was far more doubting and hesitant. Incredibly,
+      former President Joe Biden and his diplomats pretended to be locked in debate
+      with Netanyahu: a callow effort to manipulate the public’s perception in order
+      to show far more U.S. reluctance (and moral backbone, it seems) than they ever
+      really had. It was finally admitted by Biden staffers — after Kamala Harris lost
+      — that at no point did the White House harbor the slightest intention of staying
+      Israel’s hand. And naturally, the Trump administration has gleefully taken up
+      that mantle, promising even more repugnant catastrophes extending to the wholesale
+      ethnic cleansing and appropriation of Gaza. To be clear, the many efforts of nations
+      and organizations to impede the slaughter have been far from worthless; at minimum,
+      they have measured the true degree of the world’s revulsion. But — with international
+      law having run up against the immovable obstacle of the United States, which throws
+      its weight around like a swaggering mob boss — it is everyday people who have
+      broadened the boundaries of possibility and turned the world against a moral atrocity.
+      It is the work of international organizers, and, most of all, Palestinians themselves
+      — as journalists , or with their phones or their words — that have refused to
+      let the world look away from this world-historical crime. As Aisha Nazar said
+      determinedly, “We know the truth. An arms embargo will not happen until the tidal
+      wave of people power forces it to happen. We must enforce an arms embargo ourselves.”
+      It is safe to say that, when future generations reminisce on these events, the
+      Palestinian people, PYM, and all those who saw this for what it was — those who
+      full-throatedly condemned an utter evil and sought to put their bodies upon the
+      gears and wheels of this odious machine, as Mario Savio famously put it — will
+      be seen as figures of exemplary moral courage. Those who have posed gleefully
+      with its top perpetrator , meanwhile, seem destined to be cast by history in a
+      very different light. Please share this story and help us grow our network! Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Tyler Walicek
+      Tyler Walicek is a freelance writer and journalist in Portland, Oregon. Author
+      Site'
+    one_sentence_summary: Tens of thousands rallied in Melbourne in support of Palestine
+      amid ongoing Israeli bombings in Gaza, which have resulted in significant civilian
+      casualties and displacement, while the Palestinian Youth Movement celebrated a
+      victory in their campaign against the Danish shipping company Maersk for its alleged
+      complicity in the conflict.
+    paragraph_summary: Tens of thousands rallied in Melbourne to support Palestine amid
+      ongoing Israeli bombings in Gaza, which have resulted in significant civilian
+      casualties and displacement. In a notable achievement, the Palestinian Youth Movement
+      (PYM) celebrated a victory with their "Mask Off Maersk" campaign, which exposed
+      the Danish shipping company A.P. Møller – Maersk's involvement in supplying arms
+      to the Israeli military, including parts for F-35 fighters used in attacks on
+      civilians. Aligning with the Boycott, Divestment, Sanctions (BDS) movement, PYM
+      successfully pressured Maersk to cease its operations with companies in illegal
+      Israeli settlements, aiming to disrupt the global logistics network that supports
+      Israel's military actions. As the Israeli military shifts tactics, activists continue
+      to seek ways to challenge the ongoing humanitarian crisis in Gaza.
+    published: '2025-08-17T11:18:42+00:00'
+  - title: Palestinian Youth Movement Vows to Make Genocide Support Too Costly for Maersk
+    url: https://scheerpost.com/2025/08/17/palestinian-youth-movement-vows-to-make-genocide-support-too-costly-for-maersk/
+    text: 'People in their tens of thousands rally in Melbourne in support of Palestine
+      and in solidarity with the Palestinian people as the State of Israel continues
+      its bombing attacks of Gaza, resulting in the killing of thousands of civilians
+      and displacement of hundreds of thousands more – with no means of escape (by Matt
+      Hrkac , Wikimedia Commons) In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Tyler Walicek / Truthout After two years of continuous effort in
+      research, agitation and direct action, the organizers of the Palestinian Youth
+      Movement (PYM) celebrated a landmark organizing victory in late June. Their “Mask
+      Off Maersk” campaign had sought to prove the complicity of the Danish freight-logistics
+      titan A.P. Møller – Maersk A/S in the genocide in Gaza. Maersk, as it’s generally
+      known, was found by PYM to be contributing to the ongoing crimes against humanity
+      in Gaza by shipping arms transfers to the perpetrating Israeli military; these
+      shipments included critical parts for the F-35 fighters that have been used to
+      bomb Gaza’s civilian population . Aligning with the broad strategy of the Boycott,
+      Divestment, Sanctions (BDS) movement , PYM organized to make a material difference
+      by interrupting Israel’s still-unfolding campaign of ethnic cleansing, mass displacement
+      and, incontrovertibly, genocide . PYM’s efforts ultimately applied sufficient
+      pressure to Maersk to enact real, meaningful change: the company agreed to halt
+      its work providing commercial shipping for enterprises that operate in illegal
+      Israeli settlements. With this strategy, pro-Palestine activists are seeking to
+      exploit the strategic weak point that is the global logistics apparatus. As the
+      Israeli military, having reduced its aerial bombing, continues to prosecute a
+      genocide by other means — manipulating an aid system that is insufficient by design
+      , creating distribution sites that are veritable death traps , and intentionally
+      proliferating forced starvation and deprivation alongside active murder — the
+      world’s most powerful nations and corporations continue to show up for duty as
+      Israel’s reliable accomplices — and, of course, as eager profiteers. Some, though,
+      are more susceptible to subversion than others. The ability of the U.S. to blithely
+      ignore international law, in service of abetting the supreme human crime of genocide,
+      has thrown into relief the impunity enjoyed by the Global North in perpetrating
+      even the most grievous legal and ethical violations. Despite the many measures
+      taken to enact embargoes or other types of meaningful sanctions, leading global
+      institutions have still proven unable to impose meaningful restraint on Israel
+      and its main benefactor and arms dealer, our decaying superpower. Where the most
+      vaunted chambers of international law have fallen short, it has been left to Palestinians
+      themselves, and the vast and horrified publics worldwide that stand with them,
+      to do all in their power to halt the genocidal machine. Point of Intervention
+      Anti-genocide activists are doing all they can to slow the ever-mounting death
+      toll. PYM is a globally distributed network of (not exclusively) young activists,
+      many Palestinian themselves; their efforts have earned them a considerable following
+      and a leading role in the cause. PYM’s sense of urgency matches the ethical stakes:
+      Their tone and moral seriousness, mocked by genocide deniers, has been so absent
+      on cable television and the organs of the mainstream consensus. PYM organizer
+      Aisha Nazar, a lead coordinator of the Mask Off Maersk project, characterized
+      the group’s initial line of questioning in an interview with Truthout : “Where
+      is the crack in the armor of genocide? Where can we be the wedge that forces it
+      open?” Their answer proved tactically savvy. It’s much easier, after all, to sway
+      a shipping company to wind down a controversial part of its business, a mere fraction
+      — as a logistics business would have many other clients — than to somehow induce
+      a full-fledged arms corporation to dissolve itself. And by targeting logistics
+      lines rather than the original sites of arms producers, noted Nazar, “instead
+      of going after one arms manufacturer, with this target, we are going after them
+      all.” Initially, PYM organizers pursued research — detailed analyses of cargo
+      manifests, bills of lading and other logistics minutiae were required to prove
+      conclusively that the F-35 fighter jet parts that Maersk ships were indeed destined
+      for Israeli military use. They found evidence that left Maersk’s complicity beyond
+      question . The company, researchers determined, was also contracted to transport
+      goods from companies based in Israeli settlements on Palestinian territory — colonial
+      intrusions deemed illegal by the UN and even, at times, the U.S . The UN’s foremost
+      human rights assembly, the Office of the High Commissioner for Human Rights (OHCHR),
+      following Human Rights Council Resolution 31/36 , maintains a database of commercial
+      enterprises that are operating in these illegal settlements and are therefore
+      complicit in infringements upon, per the UN , “the civil, political, economic,
+      social and cultural rights of the Palestinian people.” Maersk, PYM researchers
+      found, was contracting with settlement-based companies on the OHCHR list, some
+      of which were also arms manufacturers. The organizers released these findings
+      publicly in a series of reports, compiling information that the company was not
+      eager to publicize. PYM’s attention then turned to running direct actions, which
+      included protests, sit-ins, and facility shutdowns at Maersk offices in New York,
+      Copenhagen , Rotterdam, and elsewhere over the first half of 2025. As Nazar described,
+      PYM members showed up at Maersk and generally “flooded the streets, confronted
+      our politicians, disrupted their events [and] mobilized to city council meetings
+      to pressure our governments and elected officials to sanction Israel and cut off
+      arms.” Nazar pointed out that Maersk’s globally distributed operation “allows
+      us to employ a diverse set of tactics and demonstrates our movement’s strength
+      by consolidating internationally.” By identifying and pressing into service a
+      wide array of potential allies, their protests were able to bring together everyone
+      from “environmental groups, to the labor sector, to migrant justice advocates,”
+      as well as members of Parliament, lawyers, and more . They also employed tactics
+      that were gleaned from a range of struggles like “city divestment, campus boycott[s],”
+      and organized labor. Mask Off Maersk and its allies mobilized a pointed intervention
+      in March 2025, when, via an online campaign , they successfully urged Maersk shareholders
+      to bring forth a resolution about its complicity. The company dismissed their
+      resolution, but the secrecy was broken; at the meeting, Nazar said, “Maersk was
+      forced to admit [to its shareholders] that it does indeed ship military cargo
+      to Israel.” Those revelations led to legal challenges against Maersk from the
+      Spanish government , a country that does have an embargo on Israel and has called
+      for the rest of the European Union to follow suit. To avert inspection and investigation,
+      the company elected to simply halt the use of the Spanish port of Algeciras by
+      cargo ships en route to Israel. Then, in June, French dockworker unionists refused
+      to work on Maersk’s Israel-bound ships, forcing the company to further reroute
+      arms shipments; a similar labor protest action took place in Morocco . Naturally,
+      these inconvenient workarounds are costly for the company. PYM worked to ensure
+      that the cost of Maersk’s material support for genocide extended to their reputation,
+      and their stock price. Clearly, Maersk corporate leaders must have rerun their
+      cost/benefit analyses: in June, they acceded to a major demand, agreeing to halt
+      commercial dealings with companies in Israeli settlements and promising that they
+      would be “aligning [their] screening process with reference to UN standards.”
+      Veteran investigative journalist and author of The Palestine Laboratory Antony
+      Loewenstein told Truthout that PYM’s approach was worth replicating, as they’ve
+      located a vulnerable node in the global war materiel network. “With every Western
+      state refusing to impose any economic price on Israel for its endless genocide
+      in Gaza,” Loewenstein remarked, “it’s up to civil society to rise up.” He raised
+      a historical example: “American dockworkers were central in the global fight against
+      South African apartheid, and such people can again be a vital cog in stopping
+      the shipment of weapons and defense equipment to Israel.” Nazar has also noted
+      that PYM’s findings are “bolstering arms embargo laws and targeting the supply
+      line to Zionism across Tunisia, Morocco, France, the Netherlands, Denmark, and
+      Spain … A couple of volunteer researchers and youth organizers created diplomatic
+      crises for one of the biggest shipping giants in the world; what this tells us
+      is that an arms embargo is possible, and it is within our grasp.” PYM continues
+      to center a “ People’s Arms Embargo ” as a key demand, hoping to build upon the
+      Maersk win to further thwart the lines of industry and logistics that fuel the
+      military machine of genocide. They are not alone: Palestine Action, the British
+      “direct action network,” conducts direct subterfuge against military equipment
+      and arms contractors like Elbit Systems (acts for which the group is now under
+      severe censure and suppression ), while, as Truthout reported, groups like Jews
+      For Racial & Economic Justice and Port Workers and Communities for Palestine have
+      also sought ways to interrupt the operations of companies like Atlas Air, ZIM,
+      All-Ways Forwarding and others involved, to various degrees, in the flow of arms.
+      International Impotence And yet why, we should ask, has it fallen to a small group
+      of young activists to enforce the responsibilities of states under the 1948 Genocide
+      Convention, not to mention numerous other strictures of international law? It’s
+      not as if nation-states haven’t used legal and institutional means to register
+      their dissent, even if that has not halted the unrestrained slaughter. In one
+      notable example, South Africa has pursued a high-profile legal case charging Israel
+      with genocide. And quite a few states, countries of the Global South in particular,
+      have signaled substantial support for the patchwork of existing sanctions, embargoes,
+      and arms limitations. Recently, at the Emergency Ministerial Conference on Palestine,
+      convened by the Hague Group in Bogota, Colombia , in July, a dozen countries agreed
+      to enforce arms transfer limitations. However, even the grander declarations of
+      dissent have not always been matched by sustained material action aimed at slowing
+      the unfolding of a genocide, and the rulings of the International Court of Justice
+      (ICJ) have so far more closely resembled symbolic gestures than legal enforcement.
+      Such measures are not without worth — but hopes must be tempered. Israeli Prime
+      Minister Benjamin Netanyahu is already wanted for arrest by the International
+      Criminal Court for egregious crimes against humanity, but it’s not yet clear that
+      he will ever face consequences of any sort, and several countries have also expressed
+      their lack of interest in holding him accountable. As Jake Romm wrote for The
+      Baffler , the international human rights model as it stands is structurally limited
+      by the primacy it affords to the treaty-making nation-state: “States are ultimately
+      able to decide whether they conform to [international laws] and the treaties on
+      which they are based. All international human rights law thus … carries more or
+      less persuasive power (but not coercive power) depending on the political moment.”
+      But the loftier ambitions of liberal internationalism tend to quickly run up against
+      contrary prerogatives of capital and power. In this contest, it is clear which
+      party is most often the victor. Between 2013 and 2023, Israel received more than
+      65 percent of its weaponry from the U.S., approximately 30 percent from Germany,
+      and almost all of the remaining 5 percent from Italy. The genocide could not continue
+      without U.S. largesse. This state of affairs, of course, leaves arms-exporting
+      countries in the position of greatest leverage — though there are certainly other
+      avenues that Israel’s powerful Western allies or other foreign critics could pursue.
+      In one telling example, a Dutch appeals court ruled in a landmark decision that
+      the Netherlands must stop exporting F-35 parts to Israel. Yet, unfortunately,
+      it seems compliance has been won merely in letter and not spirit; the Dutch state
+      is now shipping the parts to the U.S ., which subsequently sends them straight
+      to the Israeli military. A wider ban on other arms exports was also rejected by
+      Dutch courts. The international armature of capitalist allies’ mutually reinforcing
+      power, epitomized by the United States and its unflinching defense of its client
+      state, have proved immune to even some of the harshest judgments of the liberal
+      international order. In turn, U.S. unaccountability and flouting of the law reveal
+      the fundamental hollowness of that order: a framework of justice based largely
+      on rhetoric, bereft of economic considerations. This framework also unduly constrains
+      the legal right to armed resistance to national entities alone. Likewise, the
+      moral space of international human rights is invariably warped and compromised
+      by contradictions that owe their existence to the messy allowances necessary to
+      legitimize state-perpetrated traditional war. It should be noted that the U.S.
+      is equally cavalier about flouting its own standards. For one, the Leahy Law —
+      which prevents arms transfers to countries engaged in gross human rights violations
+      — clearly applies in this case. (The eponymous former Sen. Patrick Leahy himself
+      agrees .) So, too, does the Foreign Assistance Act of 1961 , which states, “No
+      assistance may be provided … to the government of any country which engages in
+      a consistent pattern of gross violations of internationally recognized human rights[.]”
+      Germany, for its role, has also faced internal calls for embargo and divestment
+      from civil servants and academics , as well as legal challenges . Though it has
+      at times slowed the passage of arms through its export review process in the course
+      of legal review , Germany has been cagey at best with international courts. (Among
+      other challenges, the nation of Nicaragua has charged Germany with Geneva Convention
+      violations in the ICJ.) After a massive uptick, German weapons shipments have
+      sunk back down “amid growing legal and political pressure domestically and internationally,”
+      per Politico . Germany also recently announced a more widespread embargo — but
+      there are signs its staunchly pro-Israel stance may be unchanged; as the BDS movement
+      has charged , Germany has claimed to be imposing a comparable ban before, and
+      may well continue to issue arms licenses via loopholes, contra public assurances.
+      The United States has done, basically, the complete opposite of anything like
+      a ban, escalating massive continual deliveries — although the Biden administration
+      would have liked you to think it was far more doubting and hesitant. Incredibly,
+      former President Joe Biden and his diplomats pretended to be locked in debate
+      with Netanyahu: a callow effort to manipulate the public’s perception in order
+      to show far more U.S. reluctance (and moral backbone, it seems) than they ever
+      really had. It was finally admitted by Biden staffers — after Kamala Harris lost
+      — that at no point did the White House harbor the slightest intention of staying
+      Israel’s hand. And naturally, the Trump administration has gleefully taken up
+      that mantle, promising even more repugnant catastrophes extending to the wholesale
+      ethnic cleansing and appropriation of Gaza. To be clear, the many efforts of nations
+      and organizations to impede the slaughter have been far from worthless; at minimum,
+      they have measured the true degree of the world’s revulsion. But — with international
+      law having run up against the immovable obstacle of the United States, which throws
+      its weight around like a swaggering mob boss — it is everyday people who have
+      broadened the boundaries of possibility and turned the world against a moral atrocity.
+      It is the work of international organizers, and, most of all, Palestinians themselves
+      — as journalists , or with their phones or their words — that have refused to
+      let the world look away from this world-historical crime. As Aisha Nazar said
+      determinedly, “We know the truth. An arms embargo will not happen until the tidal
+      wave of people power forces it to happen. We must enforce an arms embargo ourselves.”
+      It is safe to say that, when future generations reminisce on these events, the
+      Palestinian people, PYM, and all those who saw this for what it was — those who
+      full-throatedly condemned an utter evil and sought to put their bodies upon the
+      gears and wheels of this odious machine, as Mario Savio famously put it — will
+      be seen as figures of exemplary moral courage. Those who have posed gleefully
+      with its top perpetrator , meanwhile, seem destined to be cast by history in a
+      very different light. Please share this story and help us grow our network! Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Tyler Walicek
+      Tyler Walicek is a freelance writer and journalist in Portland, Oregon. Author
+      Site'
+    one_sentence_summary: Tens of thousands rallied in Melbourne in support of Palestine
+      amid ongoing Israeli bombings in Gaza, which have resulted in significant civilian
+      casualties and displacement, while the Palestinian Youth Movement celebrated a
+      victory in their campaign against the Danish shipping company Maersk for its alleged
+      complicity in the conflict.
+    paragraph_summary: Tens of thousands rallied in Melbourne to support Palestine amid
+      ongoing Israeli bombings in Gaza, which have resulted in significant civilian
+      casualties and displacement. In a notable achievement, the Palestinian Youth Movement
+      (PYM) celebrated a victory with their "Mask Off Maersk" campaign, which exposed
+      the Danish shipping company A.P. Møller – Maersk's involvement in supplying arms
+      to the Israeli military, including parts for F-35 fighters used in attacks on
+      civilians. Aligning with the Boycott, Divestment, Sanctions (BDS) movement, PYM
+      successfully pressured Maersk to cease its operations with companies in illegal
+      Israeli settlements, aiming to disrupt the global logistics network that supports
+      Israel's military actions. As the Israeli military shifts tactics, activists continue
+      to seek ways to challenge the ongoing humanitarian crisis in Gaza.
+    published: '2025-08-17T11:18:42+00:00'
+  - title: Trump and Putin’s Summit in Alaska Explained (w/ Ray McGovern)
+    url: https://scheerpost.com/2025/08/17/trump-and-putins-summit-in-alaska-explained-w-ray-mcgovern/
+    text: In one of the scariest moments in modern history, we're doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Ray
+      McGovern and Robert Scheer / Original to ScheerPost Veteran journalist Robert
+      Scheer and ex-CIA analyst and Presidential Daily Briefer Ray McGovern discuss
+      the significance of Trump’s and Putin’s recent summit in Alaska on today’s episode
+      of the Bob and Ray Show. Please share this story and help us grow our network!
+      Ray McGovern Ray McGovern works with Tell the Word, a publishing arm of the ecumenical
+      Church of the Saviour in inner-city Washington. His 27 years as a C.I.A. analyst
+      included leading the Soviet Foreign Policy Branch and conducting the morning briefings
+      of the President’s Daily Brief. In retirement he co-founded Veteran Intelligence
+      Professionals for Sanity (VIPS). Author Site Robert Scheer Robert Scheer, publisher
+      of ScheerPost and award-winning journalist and author of a dozen books, has a
+      reputation for strong social and political writing over his nearly 60 years as
+      a journalist. His award-winning journalism has appeared in publications nationwide—he
+      was Vietnam correspondent and editor of Ramparts magazine, national correspondent
+      and columnist for the Los Angeles Times—and his in-depth interviews with Jimmy
+      Carter, Richard Nixon, Ronald Reagan, Bill Clinton, Mikhail Gorbachev and others
+      made headlines. He co-hosted KCRW’s political program Left, Right and Center and
+      now hosts Scheer Intelligence , an independent ScheerPost podcast with people
+      who discuss the day’s most important issues. Author Site
+    one_sentence_summary: Veteran journalist Robert Scheer and ex-CIA analyst Ray McGovern
+      discuss the implications of the recent Trump-Putin summit in Alaska on their show,
+      while also seeking donations to support their work at ScheerPost.
+    paragraph_summary: In a recent episode of the Bob and Ray Show, veteran journalist
+      Robert Scheer and former CIA analyst Ray McGovern analyze the implications of
+      the recent summit between Trump and Putin in Alaska, emphasizing the need for
+      transparency in a time filled with misinformation. They highlight the importance
+      of their work at ScheerPost, which aims to uncover the truth amidst the chaos,
+      and appeal for tax-deductible donations to support their writers and staff. McGovern,
+      with a rich background in CIA analysis and co-founder of Veteran Intelligence
+      Professionals for Sanity, and Scheer, an esteemed journalist with decades of experience,
+      aim to foster informed discussions on critical political issues through their
+      platform.
+    published: '2025-08-17T11:12:38+00:00'
+  - title: Trump and Putin’s Summit in Alaska Explained (w/ Ray McGovern)
+    url: https://scheerpost.com/2025/08/17/trump-and-putins-summit-in-alaska-explained-w-ray-mcgovern/
+    text: In one of the scariest moments in modern history, we're doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Ray
+      McGovern and Robert Scheer / Original to ScheerPost Veteran journalist Robert
+      Scheer and ex-CIA analyst and Presidential Daily Briefer Ray McGovern discuss
+      the significance of Trump’s and Putin’s recent summit in Alaska on today’s episode
+      of the Bob and Ray Show. Please share this story and help us grow our network!
+      Ray McGovern Ray McGovern works with Tell the Word, a publishing arm of the ecumenical
+      Church of the Saviour in inner-city Washington. His 27 years as a C.I.A. analyst
+      included leading the Soviet Foreign Policy Branch and conducting the morning briefings
+      of the President’s Daily Brief. In retirement he co-founded Veteran Intelligence
+      Professionals for Sanity (VIPS). Author Site Robert Scheer Robert Scheer, publisher
+      of ScheerPost and award-winning journalist and author of a dozen books, has a
+      reputation for strong social and political writing over his nearly 60 years as
+      a journalist. His award-winning journalism has appeared in publications nationwide—he
+      was Vietnam correspondent and editor of Ramparts magazine, national correspondent
+      and columnist for the Los Angeles Times—and his in-depth interviews with Jimmy
+      Carter, Richard Nixon, Ronald Reagan, Bill Clinton, Mikhail Gorbachev and others
+      made headlines. He co-hosted KCRW’s political program Left, Right and Center and
+      now hosts Scheer Intelligence , an independent ScheerPost podcast with people
+      who discuss the day’s most important issues. Author Site
+    one_sentence_summary: Veteran journalist Robert Scheer and ex-CIA analyst Ray McGovern
+      discuss the implications of the recent Trump-Putin summit in Alaska on their show,
+      while also seeking donations to support their work at ScheerPost.
+    paragraph_summary: In a recent episode of the Bob and Ray Show, veteran journalist
+      Robert Scheer and former CIA analyst Ray McGovern analyze the implications of
+      the recent summit between Trump and Putin in Alaska, emphasizing the need for
+      transparency in a time filled with misinformation. They highlight the importance
+      of their work at ScheerPost, which aims to uncover the truth amidst the chaos,
+      and appeal for tax-deductible donations to support their writers and staff. McGovern,
+      with a rich background in CIA analysis and co-founder of Veteran Intelligence
+      Professionals for Sanity, and Scheer, an esteemed journalist with decades of experience,
+      aim to foster informed discussions on critical political issues through their
+      platform.
+    published: '2025-08-17T11:12:38+00:00'
+  - title: 'Juan Cole: Earth Hottest On Record Again, as CO2 Still Climbs and Glaciers
+      Wilt'
+    url: https://scheerpost.com/2025/08/17/juan-cole-earth-hottest-on-record-again-as-co2-still-climbs-and-glaciers-wilt/
+    text: 'Photo of Dominican Republic, 2024, by Aldward Castillo on Unsplash In one
+      of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Juan Cole / Informed
+      Comment Ann Arbor (Informed Comment) – The American Meteorological Society has
+      issued its annual climate report, this one summarizing changes in 2024 now that
+      all the data is in. It paints an alarming picture, especially at a moment when
+      Big Oil has taken over the US government via its Republican puppets and is spiking
+      all our efforts to reduce carbon dioxide emissions and to move to green energy.
+      Carbon dioxide is a dangerous greenhouse gas, which keeps the sun’s heat from
+      radiating back out into space, and acts like someone set off atomic bombs in the
+      atmosphere. People think nothing of burning gasoline in their cars, or coal and
+      fossil gas for heating or electricity, but would be freaked out if someone detonated
+      atomic bombs in the sky over their homes every day. But it comes to the same thing.
+      AMS says that the global average of carbon dioxide in the atmosphere rose to about
+      422.8 parts per million in 2024, a 52% increase over the level of about 278 ppm
+      that had prevailed in the 18th and previous centuries before the Industrial Revolution.
+      The last time the atmosphere held this much CO2 was the Pliocene era from 5 to
+      2 million years ago. Half of Florida was under water and sea level was many feet
+      higher. The seas may not rise as much in our era because we’re coming off a cold
+      period. But Louisiana, Washington, D.C., New York City and the whole countries
+      of Egypt and Bangladesh would suffer tremendously even with just a 15 to 20 foot
+      sea level rise. Really bad news: from 2023 to 2024, CO2 concentrations in the
+      atmosphere rose by a whopping 3.4 parts per million. That equals the growth from
+      2015 to 2016, the highest rate recorded since the 1960s. Folks, we’re supposed
+      to cut additional carbon dioxide emissions to zero, not increase them by record
+      amounts. The average surface temperature of the earth for last year was the hottest
+      ever on record going back to 1850, which probably means the hottest since about
+      122,000 years ago before recent episodes of ice age. That’s hot. Some of the extra
+      heat was owing to the El Niño in the first half of the year, but El Niños are
+      cyclical, occurring every few years because of shifting wind and current patterns
+      in Pacific, and you don’t get ever increasing heat records only because of a cyclical
+      phenomenon. The secular increase is because of the significant augments in CO2.
+      Many new record temperatures were set. The AMS says these temperature highs were
+      reported by those countries that are keeping records. The United States under
+      Trump may fall out of that category, though many individual American states will
+      likely go on keeping their own records. Entire glaciers definitively died off,
+      including all the ones in Venezuela and the Conejeres in Colombia. Those that
+      survive were put on a diet by the heat; the authors say, “Glaciers lost a record
+      amount of their mass in 2024; all 58 reference glaciers across the globe reported
+      loss.” The earth is a big place and regional climate varies, so it is unusual
+      that all 58 reference glaciers should shrink in concert. It only ever happened
+      once before, in 2023. Things are getting worse. The oceans used to be cool, but
+      they are rapidly heating up, too. Last year’s average sea surface temperature
+      was hotter than at any time since records began being kept 171 years ago. Heatwaves
+      struck almost everywhere in the oceans, sparing only 9% of their surface. Global
+      heating and climate breakdown cause hurricanes to be more intense and to drop
+      more water when they make landfall. While there were not more hurricanes than
+      usual in the past two years, the ones we had were doozies. Yagi in the Pacific
+      rose to the level of super typhoon and devastated Vietnam and China, killing 800
+      people. Hurricane Helene blew down trees and houses from Florida up into the Appalachians
+      and flooded out the latter, killing 200 people. Not since Hurricane Katrina devastated
+      New Orleans in 2005 had a storm taken that many American lives. Then Milton hit
+      Florida again, only 12 days later. More heat leads to more evaporation of water
+      and more moisture in the atmosphere, which leads to more rain and more flooding.
+      You’d think the least likely place for the international airport to be shut down
+      by heavy rainfall and flooding would be Dubai, not far from the Arabian Empty
+      Quarter desert. But that’s what happened last year. A sudden downpour in Valencia
+      in Spain killed over 200 people and did extensive damage, and got the mayor and
+      even the central government in trouble. The prime minister and his cabinet were
+      just cleared in late July of criminal negligence. Locals had charged that they
+      didn’t send the necessary warnings from Madrid to Valencia in time to save all
+      those lives, but the high court could find no evidence for any negligence. Ironically,
+      the socialist government of Pedro Sanchez has been the best on green energy in
+      Spain’s modern history. But the episode suggests to me that as climate disasters
+      get worse and more frequent, politicians like those in the US Republican Party
+      who are seen by the public as responsible will increasingly face risks from angry
+      constituents. Of course, Spain’s public may be less misinformed than those of
+      the backward US, which suffers from media monopolies like that of Rupert Murdoch
+      that deliberately falsify the news about issues like climate change. Abraham Lincoln,
+      though, pointed out that you can’t fool all the people all the time. Please share
+      this story and help us grow our network! Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Juan Cole Juan Cole,
+      a TomDispatch regular , is the Richard P. Mitchell collegiate professor of history
+      at the University of Michigan. He is the author of The Rubaiyat of Omar Khayyam:
+      A New Translation From the Persian and Muhammad: Prophet of Peace Amid the Clash
+      of Empires . His latest book is Peace Movements in Islam . His award-winning blog
+      is Informed Comment . He is also a non-resident Fellow of the Center for Conflict
+      and Humanitarian Studies in Doha and of Democracy for the Arab World Now (DAWN).
+      Author Site'
+    one_sentence_summary: The American Meteorological Society's 2024 climate report
+      highlights alarming changes exacerbated by the influence of Big Oil on U.S. government
+      policies, hindering efforts to reduce carbon emissions and transition to green
+      energy.
+    paragraph_summary: The American Meteorological Society's 2024 climate report reveals
+      alarming increases in atmospheric carbon dioxide, reaching approximately 422.8
+      parts per million, a 52% rise since the pre-Industrial Revolution levels. This
+      significant increase, the highest rate since the 1960s, poses severe risks, particularly
+      as the U.S. government, influenced by Big Oil, hampers efforts to curb emissions
+      and transition to green energy. The report highlights the historical context of
+      these levels, reminiscent of the Pliocene era when sea levels were much higher,
+      threatening coastal cities like New York, Washington D.C., and entire nations
+      such as Egypt and Bangladesh with potential flooding from rising seas. The urgency
+      of addressing climate change is underscored by the stark contrast between everyday
+      fossil fuel use and the catastrophic implications of unchecked greenhouse gas
+      emissions.
+    published: '2025-08-17T11:07:51+00:00'
+  - title: 'Juan Cole: Earth Hottest On Record Again, as CO2 Still Climbs and Glaciers
+      Wilt'
+    url: https://scheerpost.com/2025/08/17/juan-cole-earth-hottest-on-record-again-as-co2-still-climbs-and-glaciers-wilt/
+    text: 'Photo of Dominican Republic, 2024, by Aldward Castillo on Unsplash In one
+      of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Juan Cole / Informed
+      Comment Ann Arbor (Informed Comment) – The American Meteorological Society has
+      issued its annual climate report, this one summarizing changes in 2024 now that
+      all the data is in. It paints an alarming picture, especially at a moment when
+      Big Oil has taken over the US government via its Republican puppets and is spiking
+      all our efforts to reduce carbon dioxide emissions and to move to green energy.
+      Carbon dioxide is a dangerous greenhouse gas, which keeps the sun’s heat from
+      radiating back out into space, and acts like someone set off atomic bombs in the
+      atmosphere. People think nothing of burning gasoline in their cars, or coal and
+      fossil gas for heating or electricity, but would be freaked out if someone detonated
+      atomic bombs in the sky over their homes every day. But it comes to the same thing.
+      AMS says that the global average of carbon dioxide in the atmosphere rose to about
+      422.8 parts per million in 2024, a 52% increase over the level of about 278 ppm
+      that had prevailed in the 18th and previous centuries before the Industrial Revolution.
+      The last time the atmosphere held this much CO2 was the Pliocene era from 5 to
+      2 million years ago. Half of Florida was under water and sea level was many feet
+      higher. The seas may not rise as much in our era because we’re coming off a cold
+      period. But Louisiana, Washington, D.C., New York City and the whole countries
+      of Egypt and Bangladesh would suffer tremendously even with just a 15 to 20 foot
+      sea level rise. Really bad news: from 2023 to 2024, CO2 concentrations in the
+      atmosphere rose by a whopping 3.4 parts per million. That equals the growth from
+      2015 to 2016, the highest rate recorded since the 1960s. Folks, we’re supposed
+      to cut additional carbon dioxide emissions to zero, not increase them by record
+      amounts. The average surface temperature of the earth for last year was the hottest
+      ever on record going back to 1850, which probably means the hottest since about
+      122,000 years ago before recent episodes of ice age. That’s hot. Some of the extra
+      heat was owing to the El Niño in the first half of the year, but El Niños are
+      cyclical, occurring every few years because of shifting wind and current patterns
+      in Pacific, and you don’t get ever increasing heat records only because of a cyclical
+      phenomenon. The secular increase is because of the significant augments in CO2.
+      Many new record temperatures were set. The AMS says these temperature highs were
+      reported by those countries that are keeping records. The United States under
+      Trump may fall out of that category, though many individual American states will
+      likely go on keeping their own records. Entire glaciers definitively died off,
+      including all the ones in Venezuela and the Conejeres in Colombia. Those that
+      survive were put on a diet by the heat; the authors say, “Glaciers lost a record
+      amount of their mass in 2024; all 58 reference glaciers across the globe reported
+      loss.” The earth is a big place and regional climate varies, so it is unusual
+      that all 58 reference glaciers should shrink in concert. It only ever happened
+      once before, in 2023. Things are getting worse. The oceans used to be cool, but
+      they are rapidly heating up, too. Last year’s average sea surface temperature
+      was hotter than at any time since records began being kept 171 years ago. Heatwaves
+      struck almost everywhere in the oceans, sparing only 9% of their surface. Global
+      heating and climate breakdown cause hurricanes to be more intense and to drop
+      more water when they make landfall. While there were not more hurricanes than
+      usual in the past two years, the ones we had were doozies. Yagi in the Pacific
+      rose to the level of super typhoon and devastated Vietnam and China, killing 800
+      people. Hurricane Helene blew down trees and houses from Florida up into the Appalachians
+      and flooded out the latter, killing 200 people. Not since Hurricane Katrina devastated
+      New Orleans in 2005 had a storm taken that many American lives. Then Milton hit
+      Florida again, only 12 days later. More heat leads to more evaporation of water
+      and more moisture in the atmosphere, which leads to more rain and more flooding.
+      You’d think the least likely place for the international airport to be shut down
+      by heavy rainfall and flooding would be Dubai, not far from the Arabian Empty
+      Quarter desert. But that’s what happened last year. A sudden downpour in Valencia
+      in Spain killed over 200 people and did extensive damage, and got the mayor and
+      even the central government in trouble. The prime minister and his cabinet were
+      just cleared in late July of criminal negligence. Locals had charged that they
+      didn’t send the necessary warnings from Madrid to Valencia in time to save all
+      those lives, but the high court could find no evidence for any negligence. Ironically,
+      the socialist government of Pedro Sanchez has been the best on green energy in
+      Spain’s modern history. But the episode suggests to me that as climate disasters
+      get worse and more frequent, politicians like those in the US Republican Party
+      who are seen by the public as responsible will increasingly face risks from angry
+      constituents. Of course, Spain’s public may be less misinformed than those of
+      the backward US, which suffers from media monopolies like that of Rupert Murdoch
+      that deliberately falsify the news about issues like climate change. Abraham Lincoln,
+      though, pointed out that you can’t fool all the people all the time. Please share
+      this story and help us grow our network! Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Juan Cole Juan Cole,
+      a TomDispatch regular , is the Richard P. Mitchell collegiate professor of history
+      at the University of Michigan. He is the author of The Rubaiyat of Omar Khayyam:
+      A New Translation From the Persian and Muhammad: Prophet of Peace Amid the Clash
+      of Empires . His latest book is Peace Movements in Islam . His award-winning blog
+      is Informed Comment . He is also a non-resident Fellow of the Center for Conflict
+      and Humanitarian Studies in Doha and of Democracy for the Arab World Now (DAWN).
+      Author Site'
+    one_sentence_summary: The American Meteorological Society's 2024 climate report
+      highlights alarming changes exacerbated by the influence of Big Oil on U.S. government
+      policies, hindering efforts to reduce carbon emissions and transition to green
+      energy.
+    paragraph_summary: The American Meteorological Society's 2024 climate report reveals
+      alarming increases in atmospheric carbon dioxide, reaching approximately 422.8
+      parts per million, a 52% rise since the pre-Industrial Revolution levels. This
+      significant increase, the highest rate since the 1960s, poses severe risks, particularly
+      as the U.S. government, influenced by Big Oil, hampers efforts to curb emissions
+      and transition to green energy. The report highlights the historical context of
+      these levels, reminiscent of the Pliocene era when sea levels were much higher,
+      threatening coastal cities like New York, Washington D.C., and entire nations
+      such as Egypt and Bangladesh with potential flooding from rising seas. The urgency
+      of addressing climate change is underscored by the stark contrast between everyday
+      fossil fuel use and the catastrophic implications of unchecked greenhouse gas
+      emissions.
+    published: '2025-08-17T11:07:51+00:00'
+  - title: John Mearsheimer Breaks Down Trump Putin Summit
+    url: https://scheerpost.com/2025/08/17/john-mearsheimer-breaks-down-trump-putin-summit/
+    text: 'By Saagar Enjeti / Breaking Points Saagar and Ryan sit down with Professor
+      John Mearsheimer to discuss the Trump Putin summit and where the Ukraine war goes
+      from here. Please share this story and help us grow our network! Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Saagar Enjeti
+      Saagar Enjeti (born April 21, 1992) is an American journalist , podcast host and
+      political commentator currently co-hosting the American political news and opinion
+      series Breaking Points alongside Krystal Ball . Previously he hosted The Realignment
+      with Marshall Kosloff. Author Site'
+    one_sentence_summary: Saagar Enjeti and Ryan interview Professor John Mearsheimer
+      about the implications of the Trump-Putin summit and the future of the Ukraine
+      war, while emphasizing the need for independent journalism amidst corporate influence.
+    paragraph_summary: In a recent discussion on Breaking Points, Saagar Enjeti and
+      Ryan interview Professor John Mearsheimer about the implications of the Trump-Putin
+      summit and the future of the Ukraine war. The conversation highlights the need
+      for alternative journalism amidst a landscape dominated by corporate interests,
+      emphasizing the importance of independent platforms like ScheerPost. Enjeti, a
+      political commentator and journalist, advocates for supporting such outlets to
+      ensure the continuation of vital news coverage.
+    published: '2025-08-17T10:51:53+00:00'
+  - title: John Mearsheimer Breaks Down Trump Putin Summit
+    url: https://scheerpost.com/2025/08/17/john-mearsheimer-breaks-down-trump-putin-summit/
+    text: 'By Saagar Enjeti / Breaking Points Saagar and Ryan sit down with Professor
+      John Mearsheimer to discuss the Trump Putin summit and where the Ukraine war goes
+      from here. Please share this story and help us grow our network! Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Saagar Enjeti
+      Saagar Enjeti (born April 21, 1992) is an American journalist , podcast host and
+      political commentator currently co-hosting the American political news and opinion
+      series Breaking Points alongside Krystal Ball . Previously he hosted The Realignment
+      with Marshall Kosloff. Author Site'
+    one_sentence_summary: Saagar Enjeti and Ryan interview Professor John Mearsheimer
+      about the implications of the Trump-Putin summit and the future of the Ukraine
+      war, while emphasizing the need for independent journalism amidst corporate influence.
+    paragraph_summary: In a recent discussion on Breaking Points, Saagar Enjeti and
+      Ryan interview Professor John Mearsheimer about the implications of the Trump-Putin
+      summit and the future of the Ukraine war. The conversation highlights the need
+      for alternative journalism amidst a landscape dominated by corporate interests,
+      emphasizing the importance of independent platforms like ScheerPost. Enjeti, a
+      political commentator and journalist, advocates for supporting such outlets to
+      ensure the continuation of vital news coverage.
+    published: '2025-08-17T10:51:53+00:00'
+  - title: Another Israel-Iran War Is Coming Soon (w/ Dave DeCamp)
+    url: https://scheerpost.com/2025/08/16/another-israel-iran-war-is-coming-soon-w-dave-decamp/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Krystal
+      Ball and Saagar Enjeti / Breaking Points Krystal and Saagar talk to Dave DeCamp
+      from AntiWar.com for a discussion around Israel’s intent to re enter war with
+      Iran soon. Please share this story and help us grow our network! Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Krystal Ball
+      Krystal Marie Ball (born November 24, 1981) is an American political commentator
+      and media host. She was previously a political candidate, as well as a television
+      host at MSNBC , a regular contributor to The Huffington Post , and a co-host of
+      The Hill ‘s Rising along with Saagar Enjeti . [2] [3] [4] In May 2021, Ball and
+      Enjeti announced that they were leaving the show in order to launch their own
+      independent project titled Breaking Points with Krystal and Saagar . [3] [2] [5]
+      Ball is a co-host with her husband Kyle Kulinski on the podcast Krystal Kyle &
+      Friends . Author Site Saagar Enjeti Saagar Enjeti (born April 21, 1992) is an
+      American journalist , podcast host and political commentator currently co-hosting
+      the American political news and opinion series Breaking Points alongside Krystal
+      Ball . Previously he hosted The Realignment with Marshall Kosloff. Author Site'
+    one_sentence_summary: ScheerPost is seeking financial support to sustain its independent
+      journalism amid concerns over Israel's potential re-engagement in conflict with
+      Iran, as discussed by Krystal Ball, Saagar Enjeti, and Dave DeCamp.
+    paragraph_summary: ScheerPost is seeking financial support to continue its independent
+      journalism amid a climate where traditional media is often influenced by corporate
+      interests. In a recent discussion, Krystal Ball and Saagar Enjeti from Breaking
+      Points spoke with Dave DeCamp from AntiWar.com about the potential for Israel
+      to re-enter conflict with Iran. The article emphasizes the need for alternative
+      media outlets that prioritize integrity and truth, urging readers to contribute
+      through donations to sustain their operations. Ball and Enjeti, both experienced
+      political commentators, previously worked together on The Hill’s Rising before
+      launching their own independent project.
+    published: '2025-08-16T10:05:00+00:00'
+  - title: Another Israel-Iran War Is Coming Soon (w/ Dave DeCamp)
+    url: https://scheerpost.com/2025/08/16/another-israel-iran-war-is-coming-soon-w-dave-decamp/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Krystal
+      Ball and Saagar Enjeti / Breaking Points Krystal and Saagar talk to Dave DeCamp
+      from AntiWar.com for a discussion around Israel’s intent to re enter war with
+      Iran soon. Please share this story and help us grow our network! Editor’s Note
+      : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Krystal Ball
+      Krystal Marie Ball (born November 24, 1981) is an American political commentator
+      and media host. She was previously a political candidate, as well as a television
+      host at MSNBC , a regular contributor to The Huffington Post , and a co-host of
+      The Hill ‘s Rising along with Saagar Enjeti . [2] [3] [4] In May 2021, Ball and
+      Enjeti announced that they were leaving the show in order to launch their own
+      independent project titled Breaking Points with Krystal and Saagar . [3] [2] [5]
+      Ball is a co-host with her husband Kyle Kulinski on the podcast Krystal Kyle &
+      Friends . Author Site Saagar Enjeti Saagar Enjeti (born April 21, 1992) is an
+      American journalist , podcast host and political commentator currently co-hosting
+      the American political news and opinion series Breaking Points alongside Krystal
+      Ball . Previously he hosted The Realignment with Marshall Kosloff. Author Site'
+    one_sentence_summary: ScheerPost is seeking financial support to sustain its independent
+      journalism amid concerns over Israel's potential re-engagement in conflict with
+      Iran, as discussed by Krystal Ball, Saagar Enjeti, and Dave DeCamp.
+    paragraph_summary: ScheerPost is seeking financial support to continue its independent
+      journalism amid a climate where traditional media is often influenced by corporate
+      interests. In a recent discussion, Krystal Ball and Saagar Enjeti from Breaking
+      Points spoke with Dave DeCamp from AntiWar.com about the potential for Israel
+      to re-enter conflict with Iran. The article emphasizes the need for alternative
+      media outlets that prioritize integrity and truth, urging readers to contribute
+      through donations to sustain their operations. Ball and Enjeti, both experienced
+      political commentators, previously worked together on The Hill’s Rising before
+      launching their own independent project.
+    published: '2025-08-16T10:05:00+00:00'
+  - title: 'Gooning For Apartheid: How Israel Uses Sex to Whitewash Genocide'
+    url: https://scheerpost.com/2025/08/16/gooning-for-apartheid-how-israel-uses-sex-to-whitewash-genocide/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Alan
+      MacLeod / MintPressNews Amid an ongoing assault on its neighbors, the Israeli
+      Defense Forces (IDF) is attempting to improve its image by posting highly sexually
+      suggestive content featuring its soldiers, changing the prevailing emotion of
+      onlookers from outrage to lust. A wide range of IDF thirst trap accounts—many
+      with hundreds of thousands, if not millions, of followers—proliferate on social
+      media. These accounts are quietly sanctioned by the Israeli government, in an
+      attempt, in its own words, to “appeal” to a young male demographic. MintPress
+      News explores the phenomenon of Israel using sex to whitewash its actions. Babes
+      Carrying Out Massacres Since the October 7, 2023, attacks, virtually every user
+      on social media has been exposed to images of Israeli attacks on civilian infrastructure.
+      But a large subsection of the internet—particularly young males—also see another
+      side of the Israeli military. A myriad of IDF thirst trap accounts also pepper
+      the internet. Pages like “ IDF Babes ,” “ Hot IDF Girls ,” and “ Girls Defense
+      ,”—each with hundreds of thousands of followers across different platforms—post
+      content sexualizing and lionizing female Israeli soldiers in equal measures. The
+      images and videos often come with explicit political messages. This weekend, for
+      example, IDF babes posted a picture of an IDF soldier in nothing but a bikini,
+      with the caption, “Corporal Dina stumbled across a Syrian T-34/85 tank in our
+      Golan Heights,” thereby explicitly claiming the Golan Heights—Syrian territory
+      illegally occupied since 1968—as Israeli. Another common template for posting
+      is the “ on/off ” format, featuring two pictures of the same woman, side by side:
+      one in a combat uniform and another wearing little or nothing. Source: IDF Babes
+      X Some Israeli soldiers have their own thirst trap accounts. The best-known of
+      these is Natalia Fadeev, a military police reservist also known as Gun Waifu .
+      Posting highly sexually suggestive content alongside passionate defenses of Israel,
+      Fadeev is the undisputed queen of Israeli military social media, racking up millions
+      of followers across social media. (This included 2.7 million on TikTok alone,
+      before her account was suspended). Her content mixes open hostility for Muslims
+      with not-so-subtle denial of Israeli atrocities. “Get in loser, we’re going to
+      capture some Mohammads!” reads one caption . Another asks her young male audience,
+      “Look me in the eyes, do you really think I could commit war crimes?” Horny For
+      The Dead The practice of publishing images of scantily clad female Israeli soldiers
+      is not limited to thirst trap accounts. Established media regularly do the same,
+      even when announcing the deaths of said women. In July, pro-Israel journalist
+      Mazelit Airaksinen wrote a memorial for an Israeli woman killed on October 7.
+      “Karin Vernikov had just finished her time in the IDF and had just got home from
+      a horse riding trip to South Africa, when Hamas attacked on October 7. She was
+      only 22,” she wrote, adding words from her mother: “My little girl won’t come
+      back, I can’t hug you. How can I go on, how can I breathe without you?” The image
+      Airaksinen used to illustrate the deceased Vernikov, however, was so inappropriately
+      suggestive that it caused the note to go viral. In the photo, Vernikov is wearing
+      extremely tight-fitting orange yoga pants and looking over her back, down at the
+      photographer, exposing her rear to the camera. “Using her ass cheeks to get sympathy
+      is a new low,” replied one user. “What is with this soft core porn obituary like
+      what even is this?” read another top-rated reply. Airaksinen is far from the only
+      journalistic source to use images more appropriate for an OnlyFans account in
+      their obituaries, however. The Times of Israel illustrated their article on the
+      killing of Romi Eliyahu Bernat with a highly suggestive back shot. And for the
+      obituary of Liraz Nisan, who died while fleeing the Supernova Music Festival,
+      they chose a picture of the 20-year-old wearing only a bra. This sort of posting
+      is evidently state-endorsed, as the government of Israel regularly partakes in
+      it itself. A prominent case in point is that of Shani Louk, another young Israeli
+      woman killed on October 7, 2023. Israel has posted multiple suggestive images
+      of Louk on its official Instagram page, even as it announced her death. It has
+      also commented on the looks of other Israeli women killed in the violence. Moreover,
+      the idea to post thirst traps and to explicitly present IDF women as a sexualized
+      force was a creation of the Israeli government itself. In 2017, it initiated a
+      public relations campaign to enhance the country’s image within the United States.
+      It began looking for U.S. partners to distribute semi-pornographic photos of its
+      soldiers. The result was a series of collaborations with men’s magazine Maxim
+      , with the headlines: “Meet the Sexy Israeli Army Soldier Who’s Got the Internet
+      All Fired Up,” “Check Out the Smoking Hot Instagram of This Israeli Army Girl
+      Turned Swimsuit Model,” “Behold, 12 More Smoldering Soldiers From the ‘Hot Israeli
+      Army Girls’ Instagram Account,” and, “Gal Gadot, Bar Refaeli and 14 More Smoldering-Hot
+      Israeli Women.” Explaining the rationale behind the campaign, David Dorfman, a
+      media adviser with the Israeli Consulate of the United States, told the BBC: “Males
+      that age have no feeling toward Israel one way or another, and we view that as
+      a problem, so we came up with an idea that would be appealing to them.” Other
+      attempts to improve the IDF’s image have included inviting American celebrities
+      to spend time with all-female units. In 2017, comedian Conan O’Brien traveled
+      to Israel and filmed a segment where he trained with female IDF soldiers. Two
+      years later, actress and singer Hailee Steinfeld also went there on a state-funded
+      PR trip. Birthright as Sex Tourism Under Israeli law, all Jews have the right
+      to an Israeli passport and to move to Israel. To encourage this process, the government
+      provides free trips to Israel costing thousands of dollars each to all diaspora
+      Jews (once they have been screened for pro-Palestine views). Nearly one million
+      young people have gone on these Birthright trips. On these trips, sex between
+      local (Jews) and visitors is, according to staffers, actively “ encouraged .”
+      Birthright organizers facilitate what they call “hormonal encounters” by employing
+      good-looking IDF soldiers to accompany the groups wherever they go. These soldiers
+      understand their role very well. Many groups do not stay in hotels, but together
+      in Bedouin-style tents, “a setup conducive to first kisses,” one report notes.
+      Many visitors report feeling pressured into fornication on what is commonly described
+      as a free, ten-day “sex vacation.” For the government, the utility of all this
+      is clear. It has calculated that impressionable teens who lose their virginity
+      in Israel are much more likely to develop a deeper, emotional connection to the
+      State of Israel. Birthright alumni move to Israel in greater numbers than those
+      who did not receive a free trip, and are 160% more likely to marry a Jewish spouse.
+      This helps alleviate the country’s demographic problem, i.e., building a Jewish
+      supremacist state in a region where they are still a minority. To that end, then,
+      Birthright employs open-minded individuals whose services allow the job to be
+      done. Between these hormonal encounters, visitors are shown a sanitized history
+      of the country, brought to key buildings and monuments, and often have the chance
+      to meet Prime Minister Netanyahu, who has pledged over $100 million in government
+      funding to support the project. War Crimes as Dating App Profile Pics Another
+      way in which Israeli soldiers have associated military life with sex is in their
+      dating profiles. Images of soldiers serving in Gaza proliferate on Israeli dating
+      apps. One estimate suggests that over one-third of all profiles feature men and
+      women in IDF uniforms. The pictures on these profiles range from smiling faces
+      in uniforms, brandishing weapons, to soldiers displaying stolen Palestinian property,
+      posing in bombed-out buildings, reveling in the destruction of Gaza, and even
+      some in which individuals openly desecrate mosques. Israeli feminism is when a
+      woman can use "genocide pride" photos on dating apps, just like Israeli male genociders.
+      Israeli soldier Topaz Efrati posed on a looted bike on the ruins of a Palestinian
+      home and used the photo for her Bumble profile. Genocide isn''t sexy, you cunts.
+      https://t.co/tAaGteINHO pic.twitter.com/EHaPKRmLg3 — B.M. (@ireallyhateyou) February
+      17, 2025 While this phenomenon has shocked many international onlookers, in the
+      Israeli dating market, soldiers are hot commodities. “I feel that girls are throwing
+      themselves at me since I started my reserve duty,” one reservist told Israeli
+      newspaper, Haaretz. “After I uploaded photos of myself in uniform, girls seemed
+      more attracted and interested in me… I feel that a photo in my uniform is like
+      standing next to a Ferrari. It’s a status symbol,” he added. Israel is not the
+      only country attempting to shore up support for its military by sanctioning the
+      posting of thirst traps; the United States does it , too. Yet it has strongly
+      and very publicly leaned into this portrayal of itself, in a way that the U.S.
+      Army has not. Realizing that Western support is crucial for its project of colonization,
+      the Israeli government oversees an enormous public relations operation. The Ministry
+      of Foreign Affairs’ PR budget has increased by over 2,000% , now standing at $150
+      million. Part of this goes towards targeting young people, with campaigns to sexualize
+      its soldiers. It is far from clear, however, how effective this campaign is. Only
+      nine percent of Americans aged under 35 years old approve of Israel’s actions
+      in Gaza, compared to 49% of those 55 and older. This aversion to Israel extends
+      to young American Jews, a plurality of whom believed that, even before October
+      7, 2023, it was an Apartheid state. This massive disparity in opinion can be partially
+      explained by the different media the generations consume. Older Americans, still
+      reliant on newspapers and cable news, continue to support Israel. Younger generations,
+      exposed to a wider variety of viewpoints on social media, however, have abandoned
+      Israel. As Jonathan Greenblatt, CEO of the pro-Israel group, the Anti-Defamation
+      League, explained , “we have a major TikTok problem.” It was this perceived anti-Israel
+      bias that, in March, led American lawmakers to ban the platform. Israel and its
+      supporters have been forced into creative methods to defend their actions and
+      change the subject. One method has been to push highly sexualized images of its
+      military into the social media feeds of young men worldwide. Yet these thirst
+      traps have not managed to stem the tide of negative sentiment towards Israel and
+      its policies in Palestine, Syria, Lebanon, and beyond. Despite Israel’s best efforts
+      to do so, it turns out that you can’t whitewash a genocide with cum. Please share
+      this story and help us grow our network! Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Alan MacLeod Alan
+      MacLeod is Senior Staff Writer for MintPress News. After completing his PhD in
+      2017 he published two books: Bad News From Venezuela: Twenty Years of Fake News
+      and Misreporting and Propaganda in the Information Age: Still Manufacturing Consent
+      , as well as a number of academic articles . He has also contributed to FAIR.org
+      , The Guardian , Salon , The Grayzone , Jacobin Magazine , and Common Dreams .
+      Author Site'
+    one_sentence_summary: The article discusses how the Israeli Defense Forces are using
+      sexually suggestive social media content to improve their image and distract from
+      their military actions, particularly in the wake of the October 7, 2023 attacks,
+      with government-sanctioned accounts targeting a young male audience.
+    paragraph_summary: Amid ongoing conflicts, the Israeli Defense Forces (IDF) are
+      attempting to reshape their public image through social media by promoting sexually
+      suggestive content featuring their soldiers, particularly targeting a young male
+      audience. These "thirst trap" accounts, such as "IDF Babes" and "Hot IDF Girls,"
+      which have garnered significant followings, are sanctioned by the Israeli government
+      to divert attention from the military's actions and appeal to a demographic that
+      may otherwise be outraged by the violence. The content often combines sexualization
+      with political messaging, reinforcing territorial claims, such as the Golan Heights,
+      while simultaneously portraying female soldiers in a provocative light. This strategy
+      reflects a broader effort to mitigate negative perceptions of the IDF amidst international
+      scrutiny.
+    published: '2025-08-16T10:00:00+00:00'
+  - title: 'Gooning For Apartheid: How Israel Uses Sex to Whitewash Genocide'
+    url: https://scheerpost.com/2025/08/16/gooning-for-apartheid-how-israel-uses-sex-to-whitewash-genocide/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Alan
+      MacLeod / MintPressNews Amid an ongoing assault on its neighbors, the Israeli
+      Defense Forces (IDF) is attempting to improve its image by posting highly sexually
+      suggestive content featuring its soldiers, changing the prevailing emotion of
+      onlookers from outrage to lust. A wide range of IDF thirst trap accounts—many
+      with hundreds of thousands, if not millions, of followers—proliferate on social
+      media. These accounts are quietly sanctioned by the Israeli government, in an
+      attempt, in its own words, to “appeal” to a young male demographic. MintPress
+      News explores the phenomenon of Israel using sex to whitewash its actions. Babes
+      Carrying Out Massacres Since the October 7, 2023, attacks, virtually every user
+      on social media has been exposed to images of Israeli attacks on civilian infrastructure.
+      But a large subsection of the internet—particularly young males—also see another
+      side of the Israeli military. A myriad of IDF thirst trap accounts also pepper
+      the internet. Pages like “ IDF Babes ,” “ Hot IDF Girls ,” and “ Girls Defense
+      ,”—each with hundreds of thousands of followers across different platforms—post
+      content sexualizing and lionizing female Israeli soldiers in equal measures. The
+      images and videos often come with explicit political messages. This weekend, for
+      example, IDF babes posted a picture of an IDF soldier in nothing but a bikini,
+      with the caption, “Corporal Dina stumbled across a Syrian T-34/85 tank in our
+      Golan Heights,” thereby explicitly claiming the Golan Heights—Syrian territory
+      illegally occupied since 1968—as Israeli. Another common template for posting
+      is the “ on/off ” format, featuring two pictures of the same woman, side by side:
+      one in a combat uniform and another wearing little or nothing. Source: IDF Babes
+      X Some Israeli soldiers have their own thirst trap accounts. The best-known of
+      these is Natalia Fadeev, a military police reservist also known as Gun Waifu .
+      Posting highly sexually suggestive content alongside passionate defenses of Israel,
+      Fadeev is the undisputed queen of Israeli military social media, racking up millions
+      of followers across social media. (This included 2.7 million on TikTok alone,
+      before her account was suspended). Her content mixes open hostility for Muslims
+      with not-so-subtle denial of Israeli atrocities. “Get in loser, we’re going to
+      capture some Mohammads!” reads one caption . Another asks her young male audience,
+      “Look me in the eyes, do you really think I could commit war crimes?” Horny For
+      The Dead The practice of publishing images of scantily clad female Israeli soldiers
+      is not limited to thirst trap accounts. Established media regularly do the same,
+      even when announcing the deaths of said women. In July, pro-Israel journalist
+      Mazelit Airaksinen wrote a memorial for an Israeli woman killed on October 7.
+      “Karin Vernikov had just finished her time in the IDF and had just got home from
+      a horse riding trip to South Africa, when Hamas attacked on October 7. She was
+      only 22,” she wrote, adding words from her mother: “My little girl won’t come
+      back, I can’t hug you. How can I go on, how can I breathe without you?” The image
+      Airaksinen used to illustrate the deceased Vernikov, however, was so inappropriately
+      suggestive that it caused the note to go viral. In the photo, Vernikov is wearing
+      extremely tight-fitting orange yoga pants and looking over her back, down at the
+      photographer, exposing her rear to the camera. “Using her ass cheeks to get sympathy
+      is a new low,” replied one user. “What is with this soft core porn obituary like
+      what even is this?” read another top-rated reply. Airaksinen is far from the only
+      journalistic source to use images more appropriate for an OnlyFans account in
+      their obituaries, however. The Times of Israel illustrated their article on the
+      killing of Romi Eliyahu Bernat with a highly suggestive back shot. And for the
+      obituary of Liraz Nisan, who died while fleeing the Supernova Music Festival,
+      they chose a picture of the 20-year-old wearing only a bra. This sort of posting
+      is evidently state-endorsed, as the government of Israel regularly partakes in
+      it itself. A prominent case in point is that of Shani Louk, another young Israeli
+      woman killed on October 7, 2023. Israel has posted multiple suggestive images
+      of Louk on its official Instagram page, even as it announced her death. It has
+      also commented on the looks of other Israeli women killed in the violence. Moreover,
+      the idea to post thirst traps and to explicitly present IDF women as a sexualized
+      force was a creation of the Israeli government itself. In 2017, it initiated a
+      public relations campaign to enhance the country’s image within the United States.
+      It began looking for U.S. partners to distribute semi-pornographic photos of its
+      soldiers. The result was a series of collaborations with men’s magazine Maxim
+      , with the headlines: “Meet the Sexy Israeli Army Soldier Who’s Got the Internet
+      All Fired Up,” “Check Out the Smoking Hot Instagram of This Israeli Army Girl
+      Turned Swimsuit Model,” “Behold, 12 More Smoldering Soldiers From the ‘Hot Israeli
+      Army Girls’ Instagram Account,” and, “Gal Gadot, Bar Refaeli and 14 More Smoldering-Hot
+      Israeli Women.” Explaining the rationale behind the campaign, David Dorfman, a
+      media adviser with the Israeli Consulate of the United States, told the BBC: “Males
+      that age have no feeling toward Israel one way or another, and we view that as
+      a problem, so we came up with an idea that would be appealing to them.” Other
+      attempts to improve the IDF’s image have included inviting American celebrities
+      to spend time with all-female units. In 2017, comedian Conan O’Brien traveled
+      to Israel and filmed a segment where he trained with female IDF soldiers. Two
+      years later, actress and singer Hailee Steinfeld also went there on a state-funded
+      PR trip. Birthright as Sex Tourism Under Israeli law, all Jews have the right
+      to an Israeli passport and to move to Israel. To encourage this process, the government
+      provides free trips to Israel costing thousands of dollars each to all diaspora
+      Jews (once they have been screened for pro-Palestine views). Nearly one million
+      young people have gone on these Birthright trips. On these trips, sex between
+      local (Jews) and visitors is, according to staffers, actively “ encouraged .”
+      Birthright organizers facilitate what they call “hormonal encounters” by employing
+      good-looking IDF soldiers to accompany the groups wherever they go. These soldiers
+      understand their role very well. Many groups do not stay in hotels, but together
+      in Bedouin-style tents, “a setup conducive to first kisses,” one report notes.
+      Many visitors report feeling pressured into fornication on what is commonly described
+      as a free, ten-day “sex vacation.” For the government, the utility of all this
+      is clear. It has calculated that impressionable teens who lose their virginity
+      in Israel are much more likely to develop a deeper, emotional connection to the
+      State of Israel. Birthright alumni move to Israel in greater numbers than those
+      who did not receive a free trip, and are 160% more likely to marry a Jewish spouse.
+      This helps alleviate the country’s demographic problem, i.e., building a Jewish
+      supremacist state in a region where they are still a minority. To that end, then,
+      Birthright employs open-minded individuals whose services allow the job to be
+      done. Between these hormonal encounters, visitors are shown a sanitized history
+      of the country, brought to key buildings and monuments, and often have the chance
+      to meet Prime Minister Netanyahu, who has pledged over $100 million in government
+      funding to support the project. War Crimes as Dating App Profile Pics Another
+      way in which Israeli soldiers have associated military life with sex is in their
+      dating profiles. Images of soldiers serving in Gaza proliferate on Israeli dating
+      apps. One estimate suggests that over one-third of all profiles feature men and
+      women in IDF uniforms. The pictures on these profiles range from smiling faces
+      in uniforms, brandishing weapons, to soldiers displaying stolen Palestinian property,
+      posing in bombed-out buildings, reveling in the destruction of Gaza, and even
+      some in which individuals openly desecrate mosques. Israeli feminism is when a
+      woman can use "genocide pride" photos on dating apps, just like Israeli male genociders.
+      Israeli soldier Topaz Efrati posed on a looted bike on the ruins of a Palestinian
+      home and used the photo for her Bumble profile. Genocide isn''t sexy, you cunts.
+      https://t.co/tAaGteINHO pic.twitter.com/EHaPKRmLg3 — B.M. (@ireallyhateyou) February
+      17, 2025 While this phenomenon has shocked many international onlookers, in the
+      Israeli dating market, soldiers are hot commodities. “I feel that girls are throwing
+      themselves at me since I started my reserve duty,” one reservist told Israeli
+      newspaper, Haaretz. “After I uploaded photos of myself in uniform, girls seemed
+      more attracted and interested in me… I feel that a photo in my uniform is like
+      standing next to a Ferrari. It’s a status symbol,” he added. Israel is not the
+      only country attempting to shore up support for its military by sanctioning the
+      posting of thirst traps; the United States does it , too. Yet it has strongly
+      and very publicly leaned into this portrayal of itself, in a way that the U.S.
+      Army has not. Realizing that Western support is crucial for its project of colonization,
+      the Israeli government oversees an enormous public relations operation. The Ministry
+      of Foreign Affairs’ PR budget has increased by over 2,000% , now standing at $150
+      million. Part of this goes towards targeting young people, with campaigns to sexualize
+      its soldiers. It is far from clear, however, how effective this campaign is. Only
+      nine percent of Americans aged under 35 years old approve of Israel’s actions
+      in Gaza, compared to 49% of those 55 and older. This aversion to Israel extends
+      to young American Jews, a plurality of whom believed that, even before October
+      7, 2023, it was an Apartheid state. This massive disparity in opinion can be partially
+      explained by the different media the generations consume. Older Americans, still
+      reliant on newspapers and cable news, continue to support Israel. Younger generations,
+      exposed to a wider variety of viewpoints on social media, however, have abandoned
+      Israel. As Jonathan Greenblatt, CEO of the pro-Israel group, the Anti-Defamation
+      League, explained , “we have a major TikTok problem.” It was this perceived anti-Israel
+      bias that, in March, led American lawmakers to ban the platform. Israel and its
+      supporters have been forced into creative methods to defend their actions and
+      change the subject. One method has been to push highly sexualized images of its
+      military into the social media feeds of young men worldwide. Yet these thirst
+      traps have not managed to stem the tide of negative sentiment towards Israel and
+      its policies in Palestine, Syria, Lebanon, and beyond. Despite Israel’s best efforts
+      to do so, it turns out that you can’t whitewash a genocide with cum. Please share
+      this story and help us grow our network! Editor’s Note : A t a moment when the
+      once vaunted model of responsible journalism is overwhelmingly the play thing
+      of self-serving billionaires and their corporate scribes, alternatives of integrity
+      are desperately needed, and ScheerPost is one of them. Please support our independent
+      journalism by contributing to our online donation platform, Network for Good,
+      or send a check to our new PO Box. We can’t thank you enough, and promise to keep
+      bringing you this kind of vital news. Donate Online Send a Check You can also
+      make a donation to our PayPal or subscribe to our Patreon . Alan MacLeod Alan
+      MacLeod is Senior Staff Writer for MintPress News. After completing his PhD in
+      2017 he published two books: Bad News From Venezuela: Twenty Years of Fake News
+      and Misreporting and Propaganda in the Information Age: Still Manufacturing Consent
+      , as well as a number of academic articles . He has also contributed to FAIR.org
+      , The Guardian , Salon , The Grayzone , Jacobin Magazine , and Common Dreams .
+      Author Site'
+    one_sentence_summary: The article discusses how the Israeli Defense Forces are using
+      sexually suggestive social media content to improve their image and distract from
+      their military actions, particularly in the wake of the October 7, 2023 attacks,
+      with government-sanctioned accounts targeting a young male audience.
+    paragraph_summary: Amid ongoing conflicts, the Israeli Defense Forces (IDF) are
+      attempting to reshape their public image through social media by promoting sexually
+      suggestive content featuring their soldiers, particularly targeting a young male
+      audience. These "thirst trap" accounts, such as "IDF Babes" and "Hot IDF Girls,"
+      which have garnered significant followings, are sanctioned by the Israeli government
+      to divert attention from the military's actions and appeal to a demographic that
+      may otherwise be outraged by the violence. The content often combines sexualization
+      with political messaging, reinforcing territorial claims, such as the Golan Heights,
+      while simultaneously portraying female soldiers in a provocative light. This strategy
+      reflects a broader effort to mitigate negative perceptions of the IDF amidst international
+      scrutiny.
+    published: '2025-08-16T10:00:00+00:00'
+  - title: 'Bob’s Newswire: August 15, 2025'
+    url: https://scheerpost.com/2025/08/16/bobs-newswire-august-15-2025/
+    text: 'Aug 15, 2025 Gaza Genocide and the Middle East The Trauma of Childhood in
+      Gaza – The New York Times Academia Columbia Will Make Direct Payments to Jewish
+      Employees. Not All of Them Are Happy About It – The Chronicle of Higher Education
+      July 31, 2025 Gaza Genocide and the Middle East 60,000 Gazans have been killed.
+      18,500 were children. These are their names. – Washington Post Palestinian Killed
+      by Settler in West Bank Was Shot From a Distance Inside a Community Center – Haaretz
+      ‘I Did It for the Money, Then for Revenge’: The Israelis Profiting From Razing
+      Buildings in Gaza – Haaretz What Americans think about Israel’s military action
+      in Gaza, according to a new Gallup poll – Associated Press UK to recognise Palestinian
+      state in September unless Israel meets conditions, PM says – South China Morning
+      Post (SCMP) IMF raises China’s GDP outlook more than any other economy after strong
+      first-half data – SCMP Francesca Albanese says US sanctions over her criticism
+      of Israel will seriously impact her life – Associated Press Canada will recognize
+      a Palestinian state in September in latest push against Israel’s Gaza policies
+      – Associated Press ‘His Golden Land Wasn’t Palestine – It Was America’: Ben Shahn’s
+      Defiantly Ethical Jewishness – Haaretz Gaza Officials Report Over 100 Killed in
+      Israeli Strikes; Netanyahu Meets Witkoff in Jerusalem – Haaretz Would You Like
+      a Killing Field in Gaza With Your Overpriced, Israeli-cool Pita? – Haaretz How
+      Europe’s Cautious Diplomacy on Gaza Could Hit Israel Where It Hurts Most – Haaretz
+      Sweden’s PM demands that the EU stop free trade with Israel – Haaretz Trump and
+      US Politics Trump says Epstein ‘stole’ young women from Mar-a-Lago spa, including
+      Virginia Giuffre – Associated Press Sen. Cory Booker in angry outburst says ‘complicit’
+      Democrats need a ‘wake-up call’ – Associated Press Trump administration is launching
+      a new private health tracking system with Big Tech’s help – Associated Press Senate
+      rejects bid to halt sale of bombs and rifles to Israel, but Democratic opposition
+      grows – Associated Press China Will China win renewables race while US pivots
+      to fossil fuels and nuclear? – South China Morning Post (SCMP) ‘Extreme limits’:
+      China-led mission finds thriving oasis in Earth’s deepest reaches – South China
+      Morning Post July 28, 2025 Gaza Genocide and the Middle East The latest child
+      to starve to death in Gaza weighed less than when she was born – Associated Press
+      Mandy Patinkin on the ‘Revenge Business’: ‘Consider What Netanyahu Is Doing to
+      the Jews’ – Haaretz This Week, Israel Starved 43 People to Death by Wednesday
+      Afternoon. The Gaza War Is in a Fatal New Phase – Haaretz Israeli MKs, Arab Committee
+      Announce Hunger Strike in Response to Gaza Starvation – Haaretz ‘The Children
+      Haunt Me at Night’: The Protest That’s Forcing Israelis to Face Kids Killed in
+      Gaza – Haaretz Please share this story and help us grow our network! Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon .'
+    one_sentence_summary: The article discusses the ongoing humanitarian crisis in Gaza,
+      highlighting the significant loss of life, particularly among children, and the
+      complex geopolitical dynamics involving Israel, Palestine, and international reactions,
+      including financial and political implications for various stakeholders.
+    paragraph_summary: The ongoing conflict in Gaza has resulted in a catastrophic humanitarian
+      crisis, with reports indicating that approximately 60,000 Gazans, including 18,500
+      children, have been killed amid escalating violence. Various media outlets highlight
+      the trauma experienced by children in Gaza, the impact of Israeli military actions,
+      and the international response, including potential recognition of a Palestinian
+      state by Canada and the UK. Additionally, there are discussions on the implications
+      of US sanctions on individuals critical of Israel, as well as the economic outlook
+      for China amid global tensions. The situation remains dire, with calls for changes
+      in diplomatic and trade relations with Israel from European leaders, while domestic
+      political dynamics in the US continue to evolve, particularly regarding figures
+      like Trump and his controversial statements.
+    published: '2025-08-16T09:00:00+00:00'
+  - title: 'Bob’s Newswire: August 15, 2025'
+    url: https://scheerpost.com/2025/08/16/bobs-newswire-august-15-2025/
+    text: 'Aug 15, 2025 Gaza Genocide and the Middle East The Trauma of Childhood in
+      Gaza – The New York Times Academia Columbia Will Make Direct Payments to Jewish
+      Employees. Not All of Them Are Happy About It – The Chronicle of Higher Education
+      July 31, 2025 Gaza Genocide and the Middle East 60,000 Gazans have been killed.
+      18,500 were children. These are their names. – Washington Post Palestinian Killed
+      by Settler in West Bank Was Shot From a Distance Inside a Community Center – Haaretz
+      ‘I Did It for the Money, Then for Revenge’: The Israelis Profiting From Razing
+      Buildings in Gaza – Haaretz What Americans think about Israel’s military action
+      in Gaza, according to a new Gallup poll – Associated Press UK to recognise Palestinian
+      state in September unless Israel meets conditions, PM says – South China Morning
+      Post (SCMP) IMF raises China’s GDP outlook more than any other economy after strong
+      first-half data – SCMP Francesca Albanese says US sanctions over her criticism
+      of Israel will seriously impact her life – Associated Press Canada will recognize
+      a Palestinian state in September in latest push against Israel’s Gaza policies
+      – Associated Press ‘His Golden Land Wasn’t Palestine – It Was America’: Ben Shahn’s
+      Defiantly Ethical Jewishness – Haaretz Gaza Officials Report Over 100 Killed in
+      Israeli Strikes; Netanyahu Meets Witkoff in Jerusalem – Haaretz Would You Like
+      a Killing Field in Gaza With Your Overpriced, Israeli-cool Pita? – Haaretz How
+      Europe’s Cautious Diplomacy on Gaza Could Hit Israel Where It Hurts Most – Haaretz
+      Sweden’s PM demands that the EU stop free trade with Israel – Haaretz Trump and
+      US Politics Trump says Epstein ‘stole’ young women from Mar-a-Lago spa, including
+      Virginia Giuffre – Associated Press Sen. Cory Booker in angry outburst says ‘complicit’
+      Democrats need a ‘wake-up call’ – Associated Press Trump administration is launching
+      a new private health tracking system with Big Tech’s help – Associated Press Senate
+      rejects bid to halt sale of bombs and rifles to Israel, but Democratic opposition
+      grows – Associated Press China Will China win renewables race while US pivots
+      to fossil fuels and nuclear? – South China Morning Post (SCMP) ‘Extreme limits’:
+      China-led mission finds thriving oasis in Earth’s deepest reaches – South China
+      Morning Post July 28, 2025 Gaza Genocide and the Middle East The latest child
+      to starve to death in Gaza weighed less than when she was born – Associated Press
+      Mandy Patinkin on the ‘Revenge Business’: ‘Consider What Netanyahu Is Doing to
+      the Jews’ – Haaretz This Week, Israel Starved 43 People to Death by Wednesday
+      Afternoon. The Gaza War Is in a Fatal New Phase – Haaretz Israeli MKs, Arab Committee
+      Announce Hunger Strike in Response to Gaza Starvation – Haaretz ‘The Children
+      Haunt Me at Night’: The Protest That’s Forcing Israelis to Face Kids Killed in
+      Gaza – Haaretz Please share this story and help us grow our network! Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon .'
+    one_sentence_summary: The article discusses the ongoing humanitarian crisis in Gaza,
+      highlighting the significant loss of life, particularly among children, and the
+      complex geopolitical dynamics involving Israel, Palestine, and international reactions,
+      including financial and political implications for various stakeholders.
+    paragraph_summary: The ongoing conflict in Gaza has resulted in a catastrophic humanitarian
+      crisis, with reports indicating that approximately 60,000 Gazans, including 18,500
+      children, have been killed amid escalating violence. Various media outlets highlight
+      the trauma experienced by children in Gaza, the impact of Israeli military actions,
+      and the international response, including potential recognition of a Palestinian
+      state by Canada and the UK. Additionally, there are discussions on the implications
+      of US sanctions on individuals critical of Israel, as well as the economic outlook
+      for China amid global tensions. The situation remains dire, with calls for changes
+      in diplomatic and trade relations with Israel from European leaders, while domestic
+      political dynamics in the US continue to evolve, particularly regarding figures
+      like Trump and his controversial statements.
+    published: '2025-08-16T09:00:00+00:00'
+  - title: 'Israel vs Iran: On the Brink of War? Can Trump Bring Peace with Russia?'
+    url: https://scheerpost.com/2025/08/16/israel-vs-iran-on-the-brink-of-war-can-trump-bring-peace-with-russia/
+    text: 'By Jackson Hinkle Tensions are escalating in the Middle East as Israel and
+      Iran stand on the edge of another possible war. Veteran journalist Joe Lauria
+      joins Jackson Hinkle to explore whether Donald Trump can secure peace with Russia
+      and prevent a catastrophic conflict between Israel and Iran. From secret diplomatic
+      moves to high-stakes military tensions — this discussion dives deep into the truth
+      behind the headlines. Please share this story and help us grow our network! Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon .'
+    one_sentence_summary: Tensions between Israel and Iran are rising, prompting a discussion
+      with journalist Joe Lauria on whether Donald Trump can broker peace and avert
+      war, amidst a backdrop of secret diplomacy and military threats.
+    paragraph_summary: Tensions are rising in the Middle East as Israel and Iran face
+      the prospect of war, prompting veteran journalist Joe Lauria to join Jackson Hinkle
+      in a discussion about the potential for Donald Trump to broker peace with Russia
+      and avert a larger conflict. The conversation delves into the complexities of
+      secret diplomatic efforts and escalating military pressures, aiming to uncover
+      the realities behind the news. Amidst this critical moment, the article emphasizes
+      the need for independent journalism, urging support for platforms like ScheerPost
+      that prioritize integrity over corporate interests.
+    published: '2025-08-16T07:28:46+00:00'
+  - title: 'Israel vs Iran: On the Brink of War? Can Trump Bring Peace with Russia?'
+    url: https://scheerpost.com/2025/08/16/israel-vs-iran-on-the-brink-of-war-can-trump-bring-peace-with-russia/
+    text: 'By Jackson Hinkle Tensions are escalating in the Middle East as Israel and
+      Iran stand on the edge of another possible war. Veteran journalist Joe Lauria
+      joins Jackson Hinkle to explore whether Donald Trump can secure peace with Russia
+      and prevent a catastrophic conflict between Israel and Iran. From secret diplomatic
+      moves to high-stakes military tensions — this discussion dives deep into the truth
+      behind the headlines. Please share this story and help us grow our network! Editor’s
+      Note : A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon .'
+    one_sentence_summary: Tensions between Israel and Iran are rising, prompting a discussion
+      with journalist Joe Lauria on whether Donald Trump can broker peace and avert
+      war, amidst a backdrop of secret diplomacy and military threats.
+    paragraph_summary: Tensions are rising in the Middle East as Israel and Iran face
+      the prospect of war, prompting veteran journalist Joe Lauria to join Jackson Hinkle
+      in a discussion about the potential for Donald Trump to broker peace with Russia
+      and avert a larger conflict. The conversation delves into the complexities of
+      secret diplomatic efforts and escalating military pressures, aiming to uncover
+      the realities behind the news. Amidst this critical moment, the article emphasizes
+      the need for independent journalism, urging support for platforms like ScheerPost
+      that prioritize integrity over corporate interests.
+    published: '2025-08-16T07:28:46+00:00'
+  - title: 'Trump on Summit with Putin: We Made Great Progress Today'
+    url: https://scheerpost.com/2025/08/16/trump-on-summit-with-putin-we-made-great-progress-today/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Kyle
+      Anzalone / Antiwar.com Following a three-hour meeting between Russian President
+      Vladimir Putin and President Donald Trump, the leaders delivered brief statements
+      at a press conference, stating that the talks were productive and constructive.
+      Putin spoke first, telling the press that the talks were in a “constructive atmosphere
+      of mutual respect. We had very thorough negotiations.” He added that he hoped
+      European governments and Ukraine would receive the agreements made with Trump
+      “constructively” and that they would not interfere with the progress. The Russian
+      leader also blamed former US President Joe Biden for starting the war in Ukraine
+      and argued that the invasion would not have happened if Trump had been the president.
+      Trump has often claimed the conflict in Ukraine was Biden’s war, and he could
+      have prevented the war from breaking out. Putin noted that before the start of
+      the war in 2022, Moscow sent Washington a proposal that would have stopped the
+      Russian invasion of Ukraine. A core issue for the Kremlin was the growing ties
+      between NATO and Ukraine. However, the Biden administration refused to negotiate
+      on this point, and Putin ordered the invasion. The Russian President said that
+      during the Biden administration, US and Russian relations hit a post-Cold War
+      low point. Putin expressed hope that the summit would be the start of the process
+      to repair the ties and resolve the Ukrainian crisis. “I believe we had a very
+      productive meeting. There were many, many points we agreed on, I would say most
+      of them,” Trump said. “A couple of big ones we haven’t quite gotten there, but
+      we made some headway.” Trump explained that no final agreement was made. “So there’s
+      no deal until there’s a deal,” he added. He went on to say he would call European
+      leaders and Ukrainian President Zelensky. He added that it was ultimately up to
+      the Ukrainians to accept any agreement. The President did not specify what issues
+      were left unresolved, but later in his statement, he mentioned that the “most
+      significant” issue remains unsettled. At the end of the press conference, Putin
+      extended an invitation to Trump to attend a summit in Moscow. “That is an interesting
+      one. I will get a little heat on that one. But I can see it possibly happening,”
+      Trump replied. Friday’s meeting in Alaska also included Secretary of State Marco
+      Rubio, envoy Steve Witkoff, Foreign Minister Sergei Lavrov, and aide Yury Ushakov.
+      Please share this story and help us grow our network! Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave
+      DeCamp is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author
+      Site'
+    one_sentence_summary: In a recent press conference following a three-hour meeting,
+      Russian President Vladimir Putin and former U.S. President Donald Trump described
+      their discussions as productive, with Putin attributing the Ukraine conflict to
+      former President Joe Biden and suggesting it would not have occurred under Trump's
+      leadership.
+    paragraph_summary: In a recent meeting between Russian President Vladimir Putin
+      and former U.S. President Donald Trump, both leaders described their discussions
+      as productive and constructive, with hopes of improving U.S.-Russia relations
+      and addressing the ongoing crisis in Ukraine. Putin criticized the Biden administration
+      for its handling of the situation, claiming that the war could have been avoided
+      if Trump had been in office, and emphasized that prior negotiations to prevent
+      the invasion were dismissed by the U.S. Trump echoed this sentiment, stating that
+      while they made progress on several issues, no final agreements were reached,
+      and he expressed intentions to communicate further with European leaders regarding
+      the outcomes of their talks.
+    published: '2025-08-16T07:03:33+00:00'
+  - title: 'Trump on Summit with Putin: We Made Great Progress Today'
+    url: https://scheerpost.com/2025/08/16/trump-on-summit-with-putin-we-made-great-progress-today/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Kyle
+      Anzalone / Antiwar.com Following a three-hour meeting between Russian President
+      Vladimir Putin and President Donald Trump, the leaders delivered brief statements
+      at a press conference, stating that the talks were productive and constructive.
+      Putin spoke first, telling the press that the talks were in a “constructive atmosphere
+      of mutual respect. We had very thorough negotiations.” He added that he hoped
+      European governments and Ukraine would receive the agreements made with Trump
+      “constructively” and that they would not interfere with the progress. The Russian
+      leader also blamed former US President Joe Biden for starting the war in Ukraine
+      and argued that the invasion would not have happened if Trump had been the president.
+      Trump has often claimed the conflict in Ukraine was Biden’s war, and he could
+      have prevented the war from breaking out. Putin noted that before the start of
+      the war in 2022, Moscow sent Washington a proposal that would have stopped the
+      Russian invasion of Ukraine. A core issue for the Kremlin was the growing ties
+      between NATO and Ukraine. However, the Biden administration refused to negotiate
+      on this point, and Putin ordered the invasion. The Russian President said that
+      during the Biden administration, US and Russian relations hit a post-Cold War
+      low point. Putin expressed hope that the summit would be the start of the process
+      to repair the ties and resolve the Ukrainian crisis. “I believe we had a very
+      productive meeting. There were many, many points we agreed on, I would say most
+      of them,” Trump said. “A couple of big ones we haven’t quite gotten there, but
+      we made some headway.” Trump explained that no final agreement was made. “So there’s
+      no deal until there’s a deal,” he added. He went on to say he would call European
+      leaders and Ukrainian President Zelensky. He added that it was ultimately up to
+      the Ukrainians to accept any agreement. The President did not specify what issues
+      were left unresolved, but later in his statement, he mentioned that the “most
+      significant” issue remains unsettled. At the end of the press conference, Putin
+      extended an invitation to Trump to attend a summit in Moscow. “That is an interesting
+      one. I will get a little heat on that one. But I can see it possibly happening,”
+      Trump replied. Friday’s meeting in Alaska also included Secretary of State Marco
+      Rubio, envoy Steve Witkoff, Foreign Minister Sergei Lavrov, and aide Yury Ushakov.
+      Please share this story and help us grow our network! Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave
+      DeCamp is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author
+      Site'
+    one_sentence_summary: In a recent press conference following a three-hour meeting,
+      Russian President Vladimir Putin and former U.S. President Donald Trump described
+      their discussions as productive, with Putin attributing the Ukraine conflict to
+      former President Joe Biden and suggesting it would not have occurred under Trump's
+      leadership.
+    paragraph_summary: In a recent meeting between Russian President Vladimir Putin
+      and former U.S. President Donald Trump, both leaders described their discussions
+      as productive and constructive, with hopes of improving U.S.-Russia relations
+      and addressing the ongoing crisis in Ukraine. Putin criticized the Biden administration
+      for its handling of the situation, claiming that the war could have been avoided
+      if Trump had been in office, and emphasized that prior negotiations to prevent
+      the invasion were dismissed by the U.S. Trump echoed this sentiment, stating that
+      while they made progress on several issues, no final agreements were reached,
+      and he expressed intentions to communicate further with European leaders regarding
+      the outcomes of their talks.
+    published: '2025-08-16T07:03:33+00:00'
+  - title: US-Based Companies Announce Record Number of Impending Layoffs
+    url: https://scheerpost.com/2025/08/15/us-based-companies-announce-record-number-of-impending-layoffs/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Elizabeth
+      Weill-Greenberg / Truthout Companies based in the U.S. announced in July that
+      they plan to eliminate a record number of jobs, more than double the amount announced
+      in the same month last year, according to a new report . The report, from recruitment
+      firm Challenger, Gray & Christmas, tracks U.S.-based employers’ announcements
+      about layoffs, which do not indicate the number of job losses that have occurred
+      or when the positions will be eliminated. The estimates can change based on a
+      variety of factors, including, in the case of government layoffs, litigation,
+      explained Gbenga Ajilore, chief economist at the Center on Budget and Policy Priorities.
+      “These are job cut announcements versus actual people losing a job,” Ajilore told
+      Truthout . Ajilore says the Challenger’s report demonstrates companies’ feelings
+      of “uncertainty about the labor market,” which he attributes to Trump’s immigration
+      policies, tariffs, and cuts to the federal workforce. Economist Dean Baker, co-founder
+      of the Center for Economic and Policy Research, noted that the announced layoffs,
+      if they ultimately occur, may take place over the course of a year or longer,
+      which is why the Challenger report does not “directly correlate with our other
+      data about the economy.” “You always want to look at it in conjunction with other
+      data that we’re getting about the economy,” Baker said. “In this case, it fits
+      very well.” So far this year, employers have announced plans to cut more than
+      800,000 jobs, the highest number since the start of the COVID-19 pandemic. The
+      so-called Department of Government Efficiency (DOGE), which has eliminated thousands
+      of federal jobs , was the number one reason cited by employers for their planned
+      job cuts. Experts estimate that DOGE’s actions may end up costing the United States
+      billions of dollars. “‘DOGE Impact’ remains the leading reason for job cut announcements
+      in 2025,” the report says. “An additional 13,056 cuts have been attributed to
+      DOGE Downstream Impact, such as the loss of funding to private non-profits and
+      affiliated organizations.” Employers’ second-most cited reason was “Market and
+      Economic Conditions,” which the report says “reflects a continued response to
+      economic uncertainty, inflation, and shifting demand across multiple sectors.”
+      The industries that announced the most planned layoffs were government, technology,
+      retail, nonprofits and automotive. Retailers, who will be hit particularly hard
+      by Trump’s tariffs, said that they plan to eliminate more than 80,000 jobs, an
+      increase of nearly 250 percent from the same period last year. Despite Trump’s
+      claims that the U.S. economy is thriving, there’s cause for concern. The latest
+      data from the consumer price index (CPI) shows that prices were 2.7 percent higher
+      in July than the same time a year ago. Earlier this month, Trump fired the head
+      of the Bureau of Labor Statistics after the agency published numbers that showed
+      fewer jobs were added in May, June and July than initially projected. “We’re definitely
+      looking at a weakening economy, and that means slower job growth, almost certainly
+      slower wage growth,” Baker told Truthout . “The path we’re currently on,” he said,
+      is “slowing growth so that we’re basically growing at a crawl.” Please share this
+      story and help us grow our network! Editor’s Note : A t a moment when the once
+      vaunted model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Elizabeth Weill-Greenberg Elizabeth
+      Weill-Greenberg is a reporter based in New Jersey. Follow her on Twitter: @elizabethweill
+      . Author Site'
+    one_sentence_summary: A report reveals that U.S. companies announced a record number
+      of job cuts in July, more than doubling last year's figures, though these announcements
+      do not reflect actual job losses or timelines for layoffs.
+    paragraph_summary: In July, U.S. companies announced plans to eliminate a record
+      number of jobs, more than double the figure from the same month last year, according
+      to a report by recruitment firm Challenger, Gray & Christmas. This surge in layoff
+      announcements reflects companies' uncertainty about the labor market, influenced
+      by factors such as immigration policies and tariffs. While over 800,000 job cuts
+      have been announced this year—the highest since the COVID-19 pandemic—these figures
+      do not directly correlate with actual job losses, as the timing and execution
+      of layoffs can vary. Economists emphasize the importance of considering these
+      announcements alongside other economic data to gain a clearer picture of the labor
+      market's health. The Department of Government Efficiency (DOGE) has been a significant
+      contributor to these planned job cuts, having already eliminated thousands of
+      federal positions.
+    published: '2025-08-15T09:47:21+00:00'
+  - title: US-Based Companies Announce Record Number of Impending Layoffs
+    url: https://scheerpost.com/2025/08/15/us-based-companies-announce-record-number-of-impending-layoffs/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Elizabeth
+      Weill-Greenberg / Truthout Companies based in the U.S. announced in July that
+      they plan to eliminate a record number of jobs, more than double the amount announced
+      in the same month last year, according to a new report . The report, from recruitment
+      firm Challenger, Gray & Christmas, tracks U.S.-based employers’ announcements
+      about layoffs, which do not indicate the number of job losses that have occurred
+      or when the positions will be eliminated. The estimates can change based on a
+      variety of factors, including, in the case of government layoffs, litigation,
+      explained Gbenga Ajilore, chief economist at the Center on Budget and Policy Priorities.
+      “These are job cut announcements versus actual people losing a job,” Ajilore told
+      Truthout . Ajilore says the Challenger’s report demonstrates companies’ feelings
+      of “uncertainty about the labor market,” which he attributes to Trump’s immigration
+      policies, tariffs, and cuts to the federal workforce. Economist Dean Baker, co-founder
+      of the Center for Economic and Policy Research, noted that the announced layoffs,
+      if they ultimately occur, may take place over the course of a year or longer,
+      which is why the Challenger report does not “directly correlate with our other
+      data about the economy.” “You always want to look at it in conjunction with other
+      data that we’re getting about the economy,” Baker said. “In this case, it fits
+      very well.” So far this year, employers have announced plans to cut more than
+      800,000 jobs, the highest number since the start of the COVID-19 pandemic. The
+      so-called Department of Government Efficiency (DOGE), which has eliminated thousands
+      of federal jobs , was the number one reason cited by employers for their planned
+      job cuts. Experts estimate that DOGE’s actions may end up costing the United States
+      billions of dollars. “‘DOGE Impact’ remains the leading reason for job cut announcements
+      in 2025,” the report says. “An additional 13,056 cuts have been attributed to
+      DOGE Downstream Impact, such as the loss of funding to private non-profits and
+      affiliated organizations.” Employers’ second-most cited reason was “Market and
+      Economic Conditions,” which the report says “reflects a continued response to
+      economic uncertainty, inflation, and shifting demand across multiple sectors.”
+      The industries that announced the most planned layoffs were government, technology,
+      retail, nonprofits and automotive. Retailers, who will be hit particularly hard
+      by Trump’s tariffs, said that they plan to eliminate more than 80,000 jobs, an
+      increase of nearly 250 percent from the same period last year. Despite Trump’s
+      claims that the U.S. economy is thriving, there’s cause for concern. The latest
+      data from the consumer price index (CPI) shows that prices were 2.7 percent higher
+      in July than the same time a year ago. Earlier this month, Trump fired the head
+      of the Bureau of Labor Statistics after the agency published numbers that showed
+      fewer jobs were added in May, June and July than initially projected. “We’re definitely
+      looking at a weakening economy, and that means slower job growth, almost certainly
+      slower wage growth,” Baker told Truthout . “The path we’re currently on,” he said,
+      is “slowing growth so that we’re basically growing at a crawl.” Please share this
+      story and help us grow our network! Editor’s Note : A t a moment when the once
+      vaunted model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Elizabeth Weill-Greenberg Elizabeth
+      Weill-Greenberg is a reporter based in New Jersey. Follow her on Twitter: @elizabethweill
+      . Author Site'
+    one_sentence_summary: A report reveals that U.S. companies announced a record number
+      of job cuts in July, more than doubling last year's figures, though these announcements
+      do not reflect actual job losses or timelines for layoffs.
+    paragraph_summary: In July, U.S. companies announced plans to eliminate a record
+      number of jobs, more than double the figure from the same month last year, according
+      to a report by recruitment firm Challenger, Gray & Christmas. This surge in layoff
+      announcements reflects companies' uncertainty about the labor market, influenced
+      by factors such as immigration policies and tariffs. While over 800,000 job cuts
+      have been announced this year—the highest since the COVID-19 pandemic—these figures
+      do not directly correlate with actual job losses, as the timing and execution
+      of layoffs can vary. Economists emphasize the importance of considering these
+      announcements alongside other economic data to gain a clearer picture of the labor
+      market's health. The Department of Government Efficiency (DOGE) has been a significant
+      contributor to these planned job cuts, having already eliminated thousands of
+      federal positions.
+    published: '2025-08-15T09:47:21+00:00'
+  - title: Whistleblower Exposes Real 2016 US Election Meddling
+    url: https://scheerpost.com/2025/08/15/whistleblower-exposes-real-2016-us-election-meddling/
+    text: 'President Donald J. Trump and President Vladimir Putin of the Russian Federation
+      | July 16, 2018 (Official White House Photo by Shealah Craighead) By Kit Klarenberg
+      / Global Delinquents On July 30th, the ODNI declassified damning evidence from
+      a US intelligence community whistleblower. They attest to being aggressively –
+      but unsuccessfully – pressured by superiors into signing off on the infamous 2017
+      Intelligence Community Assessment, which expressed “high confidence” Russia interfered
+      in the previous year’s Presidential election to ensure Donald Trump’s victory.
+      Their testimony indicates senior US spy agency officials not only well-knew the
+      ICA’s findings were bogus, but consciously ignored and suppressed far more compelling
+      evidence of widespread, non-Russian meddling in the vote. The whistleblower is
+      a US intelligence veteran who 2015 – 2020 served as Deputy National Intelligence
+      Officer, at the ODNI-overseen National Intelligence Council. They specialised
+      in “cyber issues”, including “cyber-enabled information operations”. Prior to
+      the 2016 vote, they led the production of an ICA on “cyber threats” to US elections,
+      at the order of Director of National Intelligence James Clapper, for which they
+      were “commended”. They were then tasked by the outgoing Obama administration to
+      assist in the 2017 ICA’s production. That Assessment purported to expose “Russian
+      activities and intentions” in the Presidential election. The whistleblower’s role
+      was to investigate alleged attempts by Moscow “to access US election-related infrastructure”,
+      as “reporting suggested many Russia-attributed IP addresses were making connection
+      attempts that the [US intelligence community] could not explain the purpose of.”
+      However, an official – name redacted – subsequently “directed us to abandon any
+      further study of the subject,” on the basis it was “something else.” For the whistleblower,
+      the “abrupt dismissal of the study effort” raised significant concerns about the
+      true nature and source of the “Russia-attributed cyber activity.” They suspected
+      their superiors were attempting to conceal how state or non-state actors closer
+      to home may have been engaged in “Domain Name Service (DNS) record manipulation”,
+      to falsely ascribe cyber meddling efforts to Moscow. Their anxieties only multiplied
+      when superiors rebuffed their attempts to include references to “other nations’
+      efforts to influence the 2016 Presidential election” in the 2017 ICA. The whistleblower’s
+      “professional judgment…was multiple nations were seeking to shape the views of
+      the US electorate,” and therefore influence their voting preferences. This assessment
+      was based not only on relentless negative media coverage of Trump in allied countries
+      – especially Britain, and other “NATO partners” – but the “interception of electronic
+      communications from members of [Trump’s] incoming Presidential administration.”
+      The source of this interception is redacted. So too is the identity of an official
+      who repeatedly demanded the whistleblower conceal this from the National Security
+      Council. ‘Tradecraft Standards’ The ICA’s release on January 6th 2017, 11 days
+      prior to Trump’s inauguraration, ignited a media frenzy over the President-elect’s
+      potential ties to Russia, and the Kremlin’s purported role in installing him in
+      the White House. The New York Times dubbed the document a “damning and surprisingly
+      detailed account” of Moscow’s “efforts to undermine the American electoral system.”
+      The Washington Post boldly described it as “a remarkably blunt assessment”, and
+      “extraordinary postmortem of a Russian assault on a pillar of American democracy.”
+      In reality, the ICA offered zero evidence to support any of its bombastic headline
+      conclusions. This glaring deficit was justified on the basis “full supporting
+      information on key elements of [Russia’s] influence campaign” was “highly classified”.
+      Bizarrely, much of the Assessment’s content focused instead on the output of Russian
+      media – both for domestic and international audiences – with no relevance whatsoever
+      to the 2016 election. This included RT America coverage of topics including police
+      brutality, fracking, and “alleged Wall Street greed.” When the whistleblower learned
+      the ICA was so heavily dependent on a “simplistic treatment” of “English language
+      Russian media articles”, they expressed “substantial concern” over the “legitimacy”
+      of the Assessment’s “analytic tradecraft”. They moreover “could not concur in
+      good conscience based on information available,” and their “professional analytic
+      judgement,” of a “decisive Russian preference” for Trump’s victory, as concluded
+      by the ICA. The whistleblower thus refused to sign off on its findings. Excerpt
+      from January 2017 ICA This was not well-received by a senior US intelligence official,
+      name redacted. Leading up to the ICA’s release, they sought to harass and suborn
+      the whistleblower into endorsing the Assessment. After multiple failed attempts
+      to bully the whistleblower to “abandon” their “tradecraft standards” and simply
+      “trust” there was “reporting you are not allowed to see,” which “if you saw it,
+      you would agree,” the official strongly implied the whistleblower’s subsequent
+      promotion was contingent on their agreement. When this approach didn’t work, the
+      “visibly frustrated” official fulminated, “I need you to agree with these judgments,
+      so that DIA [Defense Intelligence Agency] will go along with them.” This prompted
+      discussion between the pair about the DIA’s “supposed trust” in the whistleblower,
+      and “the necessity” of them proving their “bona fides” as an intelligence community
+      officer “by doing what it took to bring DIA on board as an additional [intelligence]
+      Agency signing on to the 2017 ICA.” Refusing to compromise on “standards, tradecraft,
+      and ethics”, the whistleblower defied his superior’s direct order “to misrepresent
+      my views to DIA.” While unexplored in the declassified file, the official’s desperation
+      for the DIA to endorse the ICA is understandable. In September 2020 , it was revealed
+      the entire US intelligence community had no “confidence” in the Assessment. In
+      fact, then-CIA director John Brennan personally wrote the report’s incendiary
+      conclusions, before selecting a coterie of his close Agency confidantes to sign
+      off. Many US intelligence analysts conversely assessed Russia favoured Hillary
+      Clinton’s victory, and viewed Trump as a potentially dangerous “wild card”. As
+      such, creating the false impression of US intelligence community unanimity over
+      Brennan’s concocted conclusion was of paramount importance to the CIA chief. In
+      the end, only the Agency, FBI, and NSA publicly endorsed the ICA’s findings. Even
+      then, the NSA – which closely monitors communications of Russian officials, and
+      could therefore detect any high-level discussions about the 2016 election in Moscow
+      – merely expressed “moderate confidence”. ‘Something Else’ The whistleblower was
+      surprised the FBI expressed “high confidence” in the 2017 ICA. They were aware
+      “as recently as September 2016,” the Bureau “pushed back” against suggestions
+      “of Russian intent to influence” the Presidential election, believing “such a
+      judgement would be misleading.” The whistleblower notes the FBI “altered its positions…without
+      any new data other than the election’s unexpected result [emphasis added] and
+      public speculation Russia had ‘hacked’ the vote – a scenario [US intelligence]
+      judged simply did not occur.” They were furthermore shocked to learn years later
+      disgraced former MI6 spy Christopher Steele’s ‘Trump-Russia’ dossier was a core
+      component of the “highly classified” material, upon which the ICA’s dynamite conclusions
+      heavily relied. It was their understanding the ODNI viewed the dossier at the
+      time “as non-credible sensationalism”, the Office’s chief James Clapper considered
+      it “untrustworthy”, and Steele’s ludicrous claims “had never been taken seriously”
+      by US intelligence more widely. The whistleblower’s grave, myriad qualms about
+      the Assessment’s construction led them to approach a variety of US government
+      oversight agencies, including the Intelligence Community Inspector General , with
+      what they knew. Despite receiving acknowledgement they “had witnessed malfeasance”,
+      the whistleblower was stonewalled, and their evidence never appears to have reached
+      any relevant authority, let alone been acted upon. Given the explosive nature
+      of the whistleblower’s insider testimony, ominous questions abound over why they
+      encountered such resistance – and where the non-Russian interference they identified
+      truly emanated from. The whistleblower’s account of being tasked to investigate
+      alleged Russian hacking of “election-related infrastructure” the US intelligence
+      community found inexplicable, only to be told to leave it alone as it was “something
+      else”, is particularly striking. There are several explanations for this activity,
+      all of which point to concerted attempts to falsely concoct the narrative of Russian
+      election interference for malign purposes. For example, in September 2016 , Hillary
+      Clinton-connected lawyer Michael Sussmann approached the FBI, claiming to possess
+      explosive evidence of Trump’s collusion with Moscow. The material comprised DNS
+      logs, supposedly indicating the Trump Organization used a secret server belonging
+      to Russia’s Alfa Bank for back-channel communications with the Kremlin. This was
+      fed to the media, and excitedly reported by certain liberal outlets prior to the
+      election. However, The Intercept rubbished the trove, given the DNS records supplied
+      couldn’t “prove anything at all, and certainly not ‘communication’ between Trump
+      and Alfa.” In sum, “no one…can show that a single message was exchanged between
+      Trump and Alfa.” An alternative may be the Department of Homeland Security was
+      responsible for targeting election infrastructure. In December 2016 , The Wall
+      Street Journal reported an attempted hack into the state of Georgia’s voter registration
+      database traced back to a DHS IP address. The incursion came at a time the Department
+      was lobbying for election systems to be regarded as “critical infrastructure”,
+      therefore making their protection part of the agency’s formal purview. On January
+      6th 2017, the same day the ICA dropped, DHS secretary Jeh Johnson jubilantly announced
+      he had designated “election infrastructure” part of the agency’s already vast
+      domestic spying remit. He acknowledged “many state and local election officials…are
+      opposed to this designation.” It was certainly a good day to bury bad news. And
+      assist the CIA and Clinton campaign in furthering nonsense conspiracy theories
+      about Russian attempts to “hack” the 2016 Presidential election, therefore hopefully
+      invalidating its “unexpected result”. Please share this story and help us grow
+      our network! Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Kit Klarenberg Kit Klarenberg is an investigative journalist
+      and MintPress News contributor exploring the role of intelligence services in
+      shaping politics and perceptions. His work has previously appeared in The Cradle,
+      Declassified UK, and Grayzone. Follow him on Twitter @KitKlarenberg . Author Site'
+    one_sentence_summary: A whistleblower from the US intelligence community has revealed
+      that senior officials pressured agents to endorse a flawed 2017 assessment claiming
+      high confidence in Russian interference in the 2016 election, while ignoring more
+      substantial evidence of non-Russian meddling.
+    paragraph_summary: On July 30th, a whistleblower from the U.S. intelligence community
+      revealed that senior officials had pressured them to endorse the controversial
+      2017 Intelligence Community Assessment (ICA), which claimed with "high confidence"
+      that Russia interfered in the 2016 Presidential election to help Donald Trump
+      win. The whistleblower, a veteran who had previously worked on cyber threats,
+      testified that officials were aware the ICA's findings were misleading and actively
+      suppressed more credible evidence of non-Russian interference. They described
+      an incident where they were instructed to halt further investigation into suspicious
+      activities attributed to Russia, raising concerns about the motivations behind
+      the dismissal and the integrity of the assessment process.
+    published: '2025-08-15T09:40:02+00:00'
+  - title: Whistleblower Exposes Real 2016 US Election Meddling
+    url: https://scheerpost.com/2025/08/15/whistleblower-exposes-real-2016-us-election-meddling/
+    text: 'President Donald J. Trump and President Vladimir Putin of the Russian Federation
+      | July 16, 2018 (Official White House Photo by Shealah Craighead) By Kit Klarenberg
+      / Global Delinquents On July 30th, the ODNI declassified damning evidence from
+      a US intelligence community whistleblower. They attest to being aggressively –
+      but unsuccessfully – pressured by superiors into signing off on the infamous 2017
+      Intelligence Community Assessment, which expressed “high confidence” Russia interfered
+      in the previous year’s Presidential election to ensure Donald Trump’s victory.
+      Their testimony indicates senior US spy agency officials not only well-knew the
+      ICA’s findings were bogus, but consciously ignored and suppressed far more compelling
+      evidence of widespread, non-Russian meddling in the vote. The whistleblower is
+      a US intelligence veteran who 2015 – 2020 served as Deputy National Intelligence
+      Officer, at the ODNI-overseen National Intelligence Council. They specialised
+      in “cyber issues”, including “cyber-enabled information operations”. Prior to
+      the 2016 vote, they led the production of an ICA on “cyber threats” to US elections,
+      at the order of Director of National Intelligence James Clapper, for which they
+      were “commended”. They were then tasked by the outgoing Obama administration to
+      assist in the 2017 ICA’s production. That Assessment purported to expose “Russian
+      activities and intentions” in the Presidential election. The whistleblower’s role
+      was to investigate alleged attempts by Moscow “to access US election-related infrastructure”,
+      as “reporting suggested many Russia-attributed IP addresses were making connection
+      attempts that the [US intelligence community] could not explain the purpose of.”
+      However, an official – name redacted – subsequently “directed us to abandon any
+      further study of the subject,” on the basis it was “something else.” For the whistleblower,
+      the “abrupt dismissal of the study effort” raised significant concerns about the
+      true nature and source of the “Russia-attributed cyber activity.” They suspected
+      their superiors were attempting to conceal how state or non-state actors closer
+      to home may have been engaged in “Domain Name Service (DNS) record manipulation”,
+      to falsely ascribe cyber meddling efforts to Moscow. Their anxieties only multiplied
+      when superiors rebuffed their attempts to include references to “other nations’
+      efforts to influence the 2016 Presidential election” in the 2017 ICA. The whistleblower’s
+      “professional judgment…was multiple nations were seeking to shape the views of
+      the US electorate,” and therefore influence their voting preferences. This assessment
+      was based not only on relentless negative media coverage of Trump in allied countries
+      – especially Britain, and other “NATO partners” – but the “interception of electronic
+      communications from members of [Trump’s] incoming Presidential administration.”
+      The source of this interception is redacted. So too is the identity of an official
+      who repeatedly demanded the whistleblower conceal this from the National Security
+      Council. ‘Tradecraft Standards’ The ICA’s release on January 6th 2017, 11 days
+      prior to Trump’s inauguraration, ignited a media frenzy over the President-elect’s
+      potential ties to Russia, and the Kremlin’s purported role in installing him in
+      the White House. The New York Times dubbed the document a “damning and surprisingly
+      detailed account” of Moscow’s “efforts to undermine the American electoral system.”
+      The Washington Post boldly described it as “a remarkably blunt assessment”, and
+      “extraordinary postmortem of a Russian assault on a pillar of American democracy.”
+      In reality, the ICA offered zero evidence to support any of its bombastic headline
+      conclusions. This glaring deficit was justified on the basis “full supporting
+      information on key elements of [Russia’s] influence campaign” was “highly classified”.
+      Bizarrely, much of the Assessment’s content focused instead on the output of Russian
+      media – both for domestic and international audiences – with no relevance whatsoever
+      to the 2016 election. This included RT America coverage of topics including police
+      brutality, fracking, and “alleged Wall Street greed.” When the whistleblower learned
+      the ICA was so heavily dependent on a “simplistic treatment” of “English language
+      Russian media articles”, they expressed “substantial concern” over the “legitimacy”
+      of the Assessment’s “analytic tradecraft”. They moreover “could not concur in
+      good conscience based on information available,” and their “professional analytic
+      judgement,” of a “decisive Russian preference” for Trump’s victory, as concluded
+      by the ICA. The whistleblower thus refused to sign off on its findings. Excerpt
+      from January 2017 ICA This was not well-received by a senior US intelligence official,
+      name redacted. Leading up to the ICA’s release, they sought to harass and suborn
+      the whistleblower into endorsing the Assessment. After multiple failed attempts
+      to bully the whistleblower to “abandon” their “tradecraft standards” and simply
+      “trust” there was “reporting you are not allowed to see,” which “if you saw it,
+      you would agree,” the official strongly implied the whistleblower’s subsequent
+      promotion was contingent on their agreement. When this approach didn’t work, the
+      “visibly frustrated” official fulminated, “I need you to agree with these judgments,
+      so that DIA [Defense Intelligence Agency] will go along with them.” This prompted
+      discussion between the pair about the DIA’s “supposed trust” in the whistleblower,
+      and “the necessity” of them proving their “bona fides” as an intelligence community
+      officer “by doing what it took to bring DIA on board as an additional [intelligence]
+      Agency signing on to the 2017 ICA.” Refusing to compromise on “standards, tradecraft,
+      and ethics”, the whistleblower defied his superior’s direct order “to misrepresent
+      my views to DIA.” While unexplored in the declassified file, the official’s desperation
+      for the DIA to endorse the ICA is understandable. In September 2020 , it was revealed
+      the entire US intelligence community had no “confidence” in the Assessment. In
+      fact, then-CIA director John Brennan personally wrote the report’s incendiary
+      conclusions, before selecting a coterie of his close Agency confidantes to sign
+      off. Many US intelligence analysts conversely assessed Russia favoured Hillary
+      Clinton’s victory, and viewed Trump as a potentially dangerous “wild card”. As
+      such, creating the false impression of US intelligence community unanimity over
+      Brennan’s concocted conclusion was of paramount importance to the CIA chief. In
+      the end, only the Agency, FBI, and NSA publicly endorsed the ICA’s findings. Even
+      then, the NSA – which closely monitors communications of Russian officials, and
+      could therefore detect any high-level discussions about the 2016 election in Moscow
+      – merely expressed “moderate confidence”. ‘Something Else’ The whistleblower was
+      surprised the FBI expressed “high confidence” in the 2017 ICA. They were aware
+      “as recently as September 2016,” the Bureau “pushed back” against suggestions
+      “of Russian intent to influence” the Presidential election, believing “such a
+      judgement would be misleading.” The whistleblower notes the FBI “altered its positions…without
+      any new data other than the election’s unexpected result [emphasis added] and
+      public speculation Russia had ‘hacked’ the vote – a scenario [US intelligence]
+      judged simply did not occur.” They were furthermore shocked to learn years later
+      disgraced former MI6 spy Christopher Steele’s ‘Trump-Russia’ dossier was a core
+      component of the “highly classified” material, upon which the ICA’s dynamite conclusions
+      heavily relied. It was their understanding the ODNI viewed the dossier at the
+      time “as non-credible sensationalism”, the Office’s chief James Clapper considered
+      it “untrustworthy”, and Steele’s ludicrous claims “had never been taken seriously”
+      by US intelligence more widely. The whistleblower’s grave, myriad qualms about
+      the Assessment’s construction led them to approach a variety of US government
+      oversight agencies, including the Intelligence Community Inspector General , with
+      what they knew. Despite receiving acknowledgement they “had witnessed malfeasance”,
+      the whistleblower was stonewalled, and their evidence never appears to have reached
+      any relevant authority, let alone been acted upon. Given the explosive nature
+      of the whistleblower’s insider testimony, ominous questions abound over why they
+      encountered such resistance – and where the non-Russian interference they identified
+      truly emanated from. The whistleblower’s account of being tasked to investigate
+      alleged Russian hacking of “election-related infrastructure” the US intelligence
+      community found inexplicable, only to be told to leave it alone as it was “something
+      else”, is particularly striking. There are several explanations for this activity,
+      all of which point to concerted attempts to falsely concoct the narrative of Russian
+      election interference for malign purposes. For example, in September 2016 , Hillary
+      Clinton-connected lawyer Michael Sussmann approached the FBI, claiming to possess
+      explosive evidence of Trump’s collusion with Moscow. The material comprised DNS
+      logs, supposedly indicating the Trump Organization used a secret server belonging
+      to Russia’s Alfa Bank for back-channel communications with the Kremlin. This was
+      fed to the media, and excitedly reported by certain liberal outlets prior to the
+      election. However, The Intercept rubbished the trove, given the DNS records supplied
+      couldn’t “prove anything at all, and certainly not ‘communication’ between Trump
+      and Alfa.” In sum, “no one…can show that a single message was exchanged between
+      Trump and Alfa.” An alternative may be the Department of Homeland Security was
+      responsible for targeting election infrastructure. In December 2016 , The Wall
+      Street Journal reported an attempted hack into the state of Georgia’s voter registration
+      database traced back to a DHS IP address. The incursion came at a time the Department
+      was lobbying for election systems to be regarded as “critical infrastructure”,
+      therefore making their protection part of the agency’s formal purview. On January
+      6th 2017, the same day the ICA dropped, DHS secretary Jeh Johnson jubilantly announced
+      he had designated “election infrastructure” part of the agency’s already vast
+      domestic spying remit. He acknowledged “many state and local election officials…are
+      opposed to this designation.” It was certainly a good day to bury bad news. And
+      assist the CIA and Clinton campaign in furthering nonsense conspiracy theories
+      about Russian attempts to “hack” the 2016 Presidential election, therefore hopefully
+      invalidating its “unexpected result”. Please share this story and help us grow
+      our network! Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon . Kit Klarenberg Kit Klarenberg is an investigative journalist
+      and MintPress News contributor exploring the role of intelligence services in
+      shaping politics and perceptions. His work has previously appeared in The Cradle,
+      Declassified UK, and Grayzone. Follow him on Twitter @KitKlarenberg . Author Site'
+    one_sentence_summary: A whistleblower from the US intelligence community has revealed
+      that senior officials pressured agents to endorse a flawed 2017 assessment claiming
+      high confidence in Russian interference in the 2016 election, while ignoring more
+      substantial evidence of non-Russian meddling.
+    paragraph_summary: On July 30th, a whistleblower from the U.S. intelligence community
+      revealed that senior officials had pressured them to endorse the controversial
+      2017 Intelligence Community Assessment (ICA), which claimed with "high confidence"
+      that Russia interfered in the 2016 Presidential election to help Donald Trump
+      win. The whistleblower, a veteran who had previously worked on cyber threats,
+      testified that officials were aware the ICA's findings were misleading and actively
+      suppressed more credible evidence of non-Russian interference. They described
+      an incident where they were instructed to halt further investigation into suspicious
+      activities attributed to Russia, raising concerns about the motivations behind
+      the dismissal and the integrity of the assessment process.
+    published: '2025-08-15T09:40:02+00:00'
+  - title: Smotrich Announces Major West Bank Settlement Expansion To ‘Bury the Idea
+      of a Palestinian State’
+    url: https://scheerpost.com/2025/08/15/smotrich-announces-major-west-bank-settlement-expansion-to-bury-the-idea-of-a-palestinian-state/
+    text: 'Ambassador Friedman visit to Sderot “Yeshivat Sderot’s” hesder yeshiva.  October
+      08, 2017 (Wikimedia Commons) In one of the scariest moments in modern history,
+      we''re doing our best at ScheerPost to pierce the fog of lies that conceal it
+      but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Dave DeCamp / Antiwar.com The Israeli government is moving forward
+      with a plan for the massive expansion of illegal Jewish settlements in the Israeli-occupied
+      West Bank that would cut off the northern part of the Palestinian territory from
+      its southern regions, a plan Israeli Finance Minister Bezalel Smotrich said will
+      “bury the idea of a Palestinian state.” Smotrich, who also holds a position in
+      the Defense Ministry that allows him to expand settlements, announced that he
+      plans to approve the construction of 3,401 housing units for the controversial
+      E1 settlement project, which has been frozen for decades due to international
+      opposition. “They will talk about a Palestinian dream, and we will continue to
+      build a Jewish reality,” Smotrich said at a press conference at the site of the
+      planned construction. “This reality is what will permanently bury the idea of
+      a Palestinian state, because there is nothing to recognize and no one to recognize.”
+      In an earlier statement, Smotrich said , “After decades of international pressure
+      and freezes, we are breaking conventions and connecting Ma’ale Adumim to Jerusalem.
+      This is Zionism at its best – building, settling, and strengthening our sovereignty
+      in the Land of Israel.” The announcement appears to be Smotrich’s response to
+      several Western countries, including the UK, France, Canada, and Australia, announcing
+      plans to recognize a Palestinian state by September if certain conditions are
+      met. The Israeli settlement watchdog Peace Now said the Israeli government’s Higher
+      Planning Council is set to hold a hearing next Wednesday, August 20, for the final
+      approval of the settlement construction. The group said the hearing was scheduled
+      at “record speed.” “The E1 plan is deadly for the future of Israel and for any
+      chance of achieving a peaceful two-state solution. We are standing at the edge
+      of an abyss, and the government is driving us forward at full speed,” Peace Now
+      said in a statement. “There is a solution to the Israeli-Palestinian conflict
+      and to the terrible war in Gaza — the establishment of a Palestinian state alongside
+      Israel — and it will ultimately come. The government’s annexation moves are taking
+      us further away from this solution and guaranteeing many more years of bloodshed,”
+      the group added. The news was also strongly condemned by Palestinian officials
+      . The presidency of the Palestinian National Council said the settlement expansion
+      was a “systemic plan to steal land, Judaize it, and impose biblical and Talmudic
+      facts on the conflict.” Please share this story and help us grow our network!
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Dave DeCamp Dave DeCamp is the news editor of Antiwar.com, follow
+      him on Twitter @decampdave. Author Site'
+    one_sentence_summary: The Israeli government, led by Finance Minister Bezalel Smotrich,
+      is advancing a plan to significantly expand illegal Jewish settlements in the
+      West Bank, which Smotrich claims will effectively eliminate the prospect of a
+      Palestinian state.
+    paragraph_summary: The Israeli government, led by Finance Minister Bezalel Smotrich,
+      is advancing a significant expansion of illegal Jewish settlements in the West
+      Bank, specifically through the controversial E1 settlement project, which has
+      been stalled for years due to international opposition. Smotrich announced plans
+      to construct 3,401 housing units, asserting that this development will effectively
+      "bury the idea of a Palestinian state" by severing connections between northern
+      and southern Palestinian territories. His statements reflect a defiance against
+      recent moves by several Western nations to recognize Palestinian statehood, framing
+      the settlement expansion as an assertion of Israeli sovereignty and a continuation
+      of Zionist objectives. The Israeli settlement watchdog Peace Now has indicated
+      that a hearing for final approval of the construction is scheduled soon.
+    published: '2025-08-15T09:28:11+00:00'
+  - title: Smotrich Announces Major West Bank Settlement Expansion To ‘Bury the Idea
+      of a Palestinian State’
+    url: https://scheerpost.com/2025/08/15/smotrich-announces-major-west-bank-settlement-expansion-to-bury-the-idea-of-a-palestinian-state/
+    text: 'Ambassador Friedman visit to Sderot “Yeshivat Sderot’s” hesder yeshiva.  October
+      08, 2017 (Wikimedia Commons) In one of the scariest moments in modern history,
+      we''re doing our best at ScheerPost to pierce the fog of lies that conceal it
+      but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Dave DeCamp / Antiwar.com The Israeli government is moving forward
+      with a plan for the massive expansion of illegal Jewish settlements in the Israeli-occupied
+      West Bank that would cut off the northern part of the Palestinian territory from
+      its southern regions, a plan Israeli Finance Minister Bezalel Smotrich said will
+      “bury the idea of a Palestinian state.” Smotrich, who also holds a position in
+      the Defense Ministry that allows him to expand settlements, announced that he
+      plans to approve the construction of 3,401 housing units for the controversial
+      E1 settlement project, which has been frozen for decades due to international
+      opposition. “They will talk about a Palestinian dream, and we will continue to
+      build a Jewish reality,” Smotrich said at a press conference at the site of the
+      planned construction. “This reality is what will permanently bury the idea of
+      a Palestinian state, because there is nothing to recognize and no one to recognize.”
+      In an earlier statement, Smotrich said , “After decades of international pressure
+      and freezes, we are breaking conventions and connecting Ma’ale Adumim to Jerusalem.
+      This is Zionism at its best – building, settling, and strengthening our sovereignty
+      in the Land of Israel.” The announcement appears to be Smotrich’s response to
+      several Western countries, including the UK, France, Canada, and Australia, announcing
+      plans to recognize a Palestinian state by September if certain conditions are
+      met. The Israeli settlement watchdog Peace Now said the Israeli government’s Higher
+      Planning Council is set to hold a hearing next Wednesday, August 20, for the final
+      approval of the settlement construction. The group said the hearing was scheduled
+      at “record speed.” “The E1 plan is deadly for the future of Israel and for any
+      chance of achieving a peaceful two-state solution. We are standing at the edge
+      of an abyss, and the government is driving us forward at full speed,” Peace Now
+      said in a statement. “There is a solution to the Israeli-Palestinian conflict
+      and to the terrible war in Gaza — the establishment of a Palestinian state alongside
+      Israel — and it will ultimately come. The government’s annexation moves are taking
+      us further away from this solution and guaranteeing many more years of bloodshed,”
+      the group added. The news was also strongly condemned by Palestinian officials
+      . The presidency of the Palestinian National Council said the settlement expansion
+      was a “systemic plan to steal land, Judaize it, and impose biblical and Talmudic
+      facts on the conflict.” Please share this story and help us grow our network!
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Dave DeCamp Dave DeCamp is the news editor of Antiwar.com, follow
+      him on Twitter @decampdave. Author Site'
+    one_sentence_summary: The Israeli government, led by Finance Minister Bezalel Smotrich,
+      is advancing a plan to significantly expand illegal Jewish settlements in the
+      West Bank, which Smotrich claims will effectively eliminate the prospect of a
+      Palestinian state.
+    paragraph_summary: The Israeli government, led by Finance Minister Bezalel Smotrich,
+      is advancing a significant expansion of illegal Jewish settlements in the West
+      Bank, specifically through the controversial E1 settlement project, which has
+      been stalled for years due to international opposition. Smotrich announced plans
+      to construct 3,401 housing units, asserting that this development will effectively
+      "bury the idea of a Palestinian state" by severing connections between northern
+      and southern Palestinian territories. His statements reflect a defiance against
+      recent moves by several Western nations to recognize Palestinian statehood, framing
+      the settlement expansion as an assertion of Israeli sovereignty and a continuation
+      of Zionist objectives. The Israeli settlement watchdog Peace Now has indicated
+      that a hearing for final approval of the construction is scheduled soon.
+    published: '2025-08-15T09:28:11+00:00'
+  - title: 'Trump Said It: ‘There’s No Better Word Than Stupid’'
+    url: https://scheerpost.com/2025/08/15/trump-said-it-theres-no-better-word-than-stupid/
+    text: 'White House photo (public domain) In one of the scariest moments in modern
+      history, we''re doing our best at ScheerPost to pierce the fog of lies that conceal
+      it but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Edward Curtin / Behind the Curtain For anyone who still thinks Donald
+      Trump does not represent the interests of what is called “the deep state” but
+      is actually the shallow or official U.S. state, it is time to think again. If
+      he is not a figurehead for those alleged hidden forces, then he will agree to
+      a Russia-Ukraine settlement on Russia’s fundamental terms – that is, a mutual
+      security agreement that stipulates the pulling back of U.S./NATO forces encircling
+      Russia, etc. – when he meets with Putin in Alaska this Friday. There will be no
+      further delay. This, however, is extremely unlikely. Trump knows little but bullying
+      and the use of the English language as a hammer. “I’m very highly educated,” he
+      has said, without a scintilla of irony, “I know words, I know the best words.
+      But there’s no better word than stupid.” On the latter assertion he is right:
+      there is no better word than stupid when it’s applied correctly. During his campaign
+      for the presidency, Trump used words more than fifty times to say that he would
+      end the war in Ukraine “within twenty-four hours” of assuming the presidency.
+      He could have accomplished this on day one by issuing an executive order (beside
+      all he did issue), stopping all military aide to Ukraine, but he didn’t. Seven
+      months of game-playing have elapsed and the war goes on with Trump’s backing laced
+      with doubletalk about how he is seeking peace in Ukraine, is a man of peace, is
+      bringing all American troops back home, and of course he gave a grateful ah-shucks
+      when his brother-in-genocide, Benjamin Netanyahu, showed him a letter nominating
+      him for the Nobel Peace Prize. He fully supports the destabilization of Russia,
+      overtly or covertly, as have his predecessors, and this in incompatible with any
+      deal Russia can agree to when he meets with Putin in Alaska. This past weekend,
+      and starting up again late Tuesday in the more conservative corporate media, August
+      12 th as I write, CNN , The NY Times , and the Washington Post , three prominent
+      establishment media (organs of propaganda) published their usual reminders to
+      all presidents that they are watching: CNN : “Trump-Putin summit in Alaska resembles
+      a slow defeat for Ukraine” The New Tork Times : “After Almost Losing Trump, Putin
+      Gets His Ideal Summit” Max Boot op ed, the Washington Post : “Putin is setting
+      up Trump for another Munich” For these media know that the Russians are coming
+      still, as they have been for nearly a century, so don’t swim too far out into
+      the Atlantic or Pacific, for they are waiting with Jaws to seize you. They are
+      red and ravenous and have huge teeth. Some claim these articles, and many more
+      to come, are an example of how the “deep state” is pressuring Trump to continue
+      to encircle Russia and degrade its military and economic strength (even try to
+      oust Putin, as Biden said) despite Trump’s sincere desire to end the U.S./NATO
+      war against Russia as a means to peaceful cooperation. This would assume Trump
+      is radically different from every U.S. president in the last eighty years (with
+      the exception of JFK, especially in the last year of his presidency) whose policies
+      were all malignantly opposed to the USSR and then Russia. In one respective way
+      Trump is different, for he has stepped straight out of an updated version of a
+      Twain bitter satire or Melville’s Confidence Man , a dangerous ignorant liar whose
+      mask hides yet reveals the agenda he serves so faithfully. The man, after all,
+      was a reality-television star and has long reveled in radical reversals of previous
+      statements and intentions. For example, in his first term, he often talked of
+      withdrawing from NATO but never did; NATO, in fact, expanded under his watch.
+      He talked about ending the U.S./NATO support for Ukraine’s bombing of Russian-speaking
+      areas of eastern Ukraine, only to withdraw from the Minsk Accords and send military
+      equipment to Ukraine to bomb those areas. A mimic of the severest neurotic, he
+      reverses himself so often that it is obvious that it is a part of the strategic
+      script he is performing. Confuse, confound, keep the audience is constant anticipation
+      of the switch-back. It assumes as well that Trump’s support for Israel and its
+      genocide of the Palestinians is somehow divorced from the U.S.’s overall geopolitical
+      strategy throughout the Middle East, West Asia, Eastern Europe, Russia, and its
+      desperate efforts throughout the world to counter the ascendency of the BRICS
+      nations (Brazil, Russia, India, China, South Africa, Egypt, Ethiopia, Indonesia,
+      Iran, Saudi Arabia, and the United Arab Emirates) as the U.S. debt skyrockets
+      and its world dominance diminishes. Trump’s recent flim-flam plan is to pull a
+      Richard Nixon Vietnamization hoax with NATOization of the war against Russia through
+      Ukraine. I am convinced that the US/NATO war against Russia will not be ending
+      unless NATO is dissolved, which Trump is not proposing. He only wishes to strengthen
+      NATO with European money, not that of the U.S. NATO’s only current raison d’être
+      is to destroy Russia as an independent country and create regime change there
+      through multiple means. This has long been so. It is why the Obama administration
+      engineered a coup d’ état in Ukraine in 2014. It is why NATO has existed for so
+      long and has expanded. Open warfare in Ukraine is just one means among many they
+      have used over the years. You can even “end” the overt war and continue the covert.
+      If NATO is not dissolved, the undermining of Russia will continue under Trump,
+      who may –  I emphasize “may” – recognize that the proxy war is lost on the battlefield,
+      a fact obvious for years despite U.S. government and mainstream media propaganda
+      to the contrary – propaganda so blatantly false that it raises questions about
+      people’s gullibility, but not about the mainstream media’s lies. How many foreign
+      leaders do such media need to call the new Hitler before people wise up? As the
+      man said, “There’s no better word than stupid.” Please share this story and help
+      us grow our network! Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Edward J. Curtin Jr. Edward Curtin is an
+      independent writer whose work has appeared widely over many years. Born and raised
+      in the Bronx, N.Y., he is a retired professor of sociology at various universities,
+      his last being Massachusetts College of Liberal Arts where he taught for 24 years.
+      His last book is Seeking Truth in a Country of Lies and his forthcoming one (Spring
+      2025), At the Lost and Found , both from Clarity Press. His website is edwardcurtin.com
+      Author Site'
+    one_sentence_summary: The article argues that Donald Trump's actions and rhetoric
+      suggest he aligns with the interests of the U.S. state rather than opposing it,
+      and it expresses skepticism about his willingness to negotiate a settlement with
+      Russia regarding Ukraine.
+    paragraph_summary: The article by Edward Curtin argues that Donald Trump, contrary
+      to some beliefs, aligns with the interests of the U.S. establishment, often referred
+      to as the "deep state." It suggests that if Trump were genuinely independent,
+      he would pursue a settlement in the Russia-Ukraine conflict based on Russia's
+      terms during his upcoming meeting with Putin. However, the author expresses skepticism
+      about this happening, citing Trump's history of using aggressive rhetoric and
+      failing to act decisively to end the war in Ukraine despite his claims. The piece
+      critiques Trump's contradictory stance on peace and his support for U.S. military
+      involvement, ultimately portraying him as a figure who perpetuates the status
+      quo rather than challenging it.
+    published: '2025-08-15T09:25:16+00:00'
+  - title: 'Trump Said It: ‘There’s No Better Word Than Stupid’'
+    url: https://scheerpost.com/2025/08/15/trump-said-it-theres-no-better-word-than-stupid/
+    text: 'White House photo (public domain) In one of the scariest moments in modern
+      history, we''re doing our best at ScheerPost to pierce the fog of lies that conceal
+      it but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Edward Curtin / Behind the Curtain For anyone who still thinks Donald
+      Trump does not represent the interests of what is called “the deep state” but
+      is actually the shallow or official U.S. state, it is time to think again. If
+      he is not a figurehead for those alleged hidden forces, then he will agree to
+      a Russia-Ukraine settlement on Russia’s fundamental terms – that is, a mutual
+      security agreement that stipulates the pulling back of U.S./NATO forces encircling
+      Russia, etc. – when he meets with Putin in Alaska this Friday. There will be no
+      further delay. This, however, is extremely unlikely. Trump knows little but bullying
+      and the use of the English language as a hammer. “I’m very highly educated,” he
+      has said, without a scintilla of irony, “I know words, I know the best words.
+      But there’s no better word than stupid.” On the latter assertion he is right:
+      there is no better word than stupid when it’s applied correctly. During his campaign
+      for the presidency, Trump used words more than fifty times to say that he would
+      end the war in Ukraine “within twenty-four hours” of assuming the presidency.
+      He could have accomplished this on day one by issuing an executive order (beside
+      all he did issue), stopping all military aide to Ukraine, but he didn’t. Seven
+      months of game-playing have elapsed and the war goes on with Trump’s backing laced
+      with doubletalk about how he is seeking peace in Ukraine, is a man of peace, is
+      bringing all American troops back home, and of course he gave a grateful ah-shucks
+      when his brother-in-genocide, Benjamin Netanyahu, showed him a letter nominating
+      him for the Nobel Peace Prize. He fully supports the destabilization of Russia,
+      overtly or covertly, as have his predecessors, and this in incompatible with any
+      deal Russia can agree to when he meets with Putin in Alaska. This past weekend,
+      and starting up again late Tuesday in the more conservative corporate media, August
+      12 th as I write, CNN , The NY Times , and the Washington Post , three prominent
+      establishment media (organs of propaganda) published their usual reminders to
+      all presidents that they are watching: CNN : “Trump-Putin summit in Alaska resembles
+      a slow defeat for Ukraine” The New Tork Times : “After Almost Losing Trump, Putin
+      Gets His Ideal Summit” Max Boot op ed, the Washington Post : “Putin is setting
+      up Trump for another Munich” For these media know that the Russians are coming
+      still, as they have been for nearly a century, so don’t swim too far out into
+      the Atlantic or Pacific, for they are waiting with Jaws to seize you. They are
+      red and ravenous and have huge teeth. Some claim these articles, and many more
+      to come, are an example of how the “deep state” is pressuring Trump to continue
+      to encircle Russia and degrade its military and economic strength (even try to
+      oust Putin, as Biden said) despite Trump’s sincere desire to end the U.S./NATO
+      war against Russia as a means to peaceful cooperation. This would assume Trump
+      is radically different from every U.S. president in the last eighty years (with
+      the exception of JFK, especially in the last year of his presidency) whose policies
+      were all malignantly opposed to the USSR and then Russia. In one respective way
+      Trump is different, for he has stepped straight out of an updated version of a
+      Twain bitter satire or Melville’s Confidence Man , a dangerous ignorant liar whose
+      mask hides yet reveals the agenda he serves so faithfully. The man, after all,
+      was a reality-television star and has long reveled in radical reversals of previous
+      statements and intentions. For example, in his first term, he often talked of
+      withdrawing from NATO but never did; NATO, in fact, expanded under his watch.
+      He talked about ending the U.S./NATO support for Ukraine’s bombing of Russian-speaking
+      areas of eastern Ukraine, only to withdraw from the Minsk Accords and send military
+      equipment to Ukraine to bomb those areas. A mimic of the severest neurotic, he
+      reverses himself so often that it is obvious that it is a part of the strategic
+      script he is performing. Confuse, confound, keep the audience is constant anticipation
+      of the switch-back. It assumes as well that Trump’s support for Israel and its
+      genocide of the Palestinians is somehow divorced from the U.S.’s overall geopolitical
+      strategy throughout the Middle East, West Asia, Eastern Europe, Russia, and its
+      desperate efforts throughout the world to counter the ascendency of the BRICS
+      nations (Brazil, Russia, India, China, South Africa, Egypt, Ethiopia, Indonesia,
+      Iran, Saudi Arabia, and the United Arab Emirates) as the U.S. debt skyrockets
+      and its world dominance diminishes. Trump’s recent flim-flam plan is to pull a
+      Richard Nixon Vietnamization hoax with NATOization of the war against Russia through
+      Ukraine. I am convinced that the US/NATO war against Russia will not be ending
+      unless NATO is dissolved, which Trump is not proposing. He only wishes to strengthen
+      NATO with European money, not that of the U.S. NATO’s only current raison d’être
+      is to destroy Russia as an independent country and create regime change there
+      through multiple means. This has long been so. It is why the Obama administration
+      engineered a coup d’ état in Ukraine in 2014. It is why NATO has existed for so
+      long and has expanded. Open warfare in Ukraine is just one means among many they
+      have used over the years. You can even “end” the overt war and continue the covert.
+      If NATO is not dissolved, the undermining of Russia will continue under Trump,
+      who may –  I emphasize “may” – recognize that the proxy war is lost on the battlefield,
+      a fact obvious for years despite U.S. government and mainstream media propaganda
+      to the contrary – propaganda so blatantly false that it raises questions about
+      people’s gullibility, but not about the mainstream media’s lies. How many foreign
+      leaders do such media need to call the new Hitler before people wise up? As the
+      man said, “There’s no better word than stupid.” Please share this story and help
+      us grow our network! Editor’s Note : A t a moment when the once vaunted model
+      of responsible journalism is overwhelmingly the play thing of self-serving billionaires
+      and their corporate scribes, alternatives of integrity are desperately needed,
+      and ScheerPost is one of them. Please support our independent journalism by contributing
+      to our online donation platform, Network for Good, or send a check to our new
+      PO Box. We can’t thank you enough, and promise to keep bringing you this kind
+      of vital news. Donate Online Send a Check You can also make a donation to our
+      PayPal or subscribe to our Patreon . Edward J. Curtin Jr. Edward Curtin is an
+      independent writer whose work has appeared widely over many years. Born and raised
+      in the Bronx, N.Y., he is a retired professor of sociology at various universities,
+      his last being Massachusetts College of Liberal Arts where he taught for 24 years.
+      His last book is Seeking Truth in a Country of Lies and his forthcoming one (Spring
+      2025), At the Lost and Found , both from Clarity Press. His website is edwardcurtin.com
+      Author Site'
+    one_sentence_summary: The article argues that Donald Trump's actions and rhetoric
+      suggest he aligns with the interests of the U.S. state rather than opposing it,
+      and it expresses skepticism about his willingness to negotiate a settlement with
+      Russia regarding Ukraine.
+    paragraph_summary: The article by Edward Curtin argues that Donald Trump, contrary
+      to some beliefs, aligns with the interests of the U.S. establishment, often referred
+      to as the "deep state." It suggests that if Trump were genuinely independent,
+      he would pursue a settlement in the Russia-Ukraine conflict based on Russia's
+      terms during his upcoming meeting with Putin. However, the author expresses skepticism
+      about this happening, citing Trump's history of using aggressive rhetoric and
+      failing to act decisively to end the war in Ukraine despite his claims. The piece
+      critiques Trump's contradictory stance on peace and his support for U.S. military
+      involvement, ultimately portraying him as a figure who perpetuates the status
+      quo rather than challenging it.
+    published: '2025-08-15T09:25:16+00:00'
+  - title: Pete Buttigieg’s Revealing Israel Answer on Pod Save America
+    url: https://scheerpost.com/2025/08/15/pete-buttigiegs-revealing-israel-answer-on-pod-save-america/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Glenn
+      Greenwald / System Update Please share this story and help us grow our network!
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Glenn Greenwald Glenn Greenwald is a journalist, constitutional
+      lawyer, and author of four New York Times best-selling books on politics and law.
+      He broke the Snowden leaks in 2013. Greenwald currently hosts a political commentary
+      show for Rumble called “System Update.” Author Site'
+    one_sentence_summary: ScheerPost is seeking financial support to sustain its independent
+      journalism amidst a landscape dominated by corporate media, emphasizing the need
+      for alternatives that uphold integrity.
+    paragraph_summary: ScheerPost is seeking financial support to sustain its independent
+      journalism amidst a landscape dominated by corporate interests and billionaires,
+      as highlighted by Glenn Greenwald in his appeal for donations. He emphasizes the
+      importance of alternative media that upholds integrity and truth, urging readers
+      to contribute through various platforms to help maintain their operations and
+      continue delivering critical news. Greenwald, a renowned journalist and constitutional
+      lawyer known for his work on the Snowden leaks, currently hosts a political commentary
+      show called "System Update."
+    published: '2025-08-15T08:41:00+00:00'
+  - title: Pete Buttigieg’s Revealing Israel Answer on Pod Save America
+    url: https://scheerpost.com/2025/08/15/pete-buttigiegs-revealing-israel-answer-on-pod-save-america/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Glenn
+      Greenwald / System Update Please share this story and help us grow our network!
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Glenn Greenwald Glenn Greenwald is a journalist, constitutional
+      lawyer, and author of four New York Times best-selling books on politics and law.
+      He broke the Snowden leaks in 2013. Greenwald currently hosts a political commentary
+      show for Rumble called “System Update.” Author Site'
+    one_sentence_summary: ScheerPost is seeking financial support to sustain its independent
+      journalism amidst a landscape dominated by corporate media, emphasizing the need
+      for alternatives that uphold integrity.
+    paragraph_summary: ScheerPost is seeking financial support to sustain its independent
+      journalism amidst a landscape dominated by corporate interests and billionaires,
+      as highlighted by Glenn Greenwald in his appeal for donations. He emphasizes the
+      importance of alternative media that upholds integrity and truth, urging readers
+      to contribute through various platforms to help maintain their operations and
+      continue delivering critical news. Greenwald, a renowned journalist and constitutional
+      lawyer known for his work on the Snowden leaks, currently hosts a political commentary
+      show called "System Update."
+    published: '2025-08-15T08:41:00+00:00'
+  - title: 'Ray McGovern: Applying the Lost Art of Kremlinology'
+    url: https://scheerpost.com/2025/08/14/ray-mcgovern-applying-the-lost-art-of-kremlinology/
+    text: 'Russian President Vladimir Putin with U.S. presidential envoy Steve Witkoff
+      at the Kremlin on Aug. 6. Putin’s key aide Yuri Ushakov, in background. (Kremlin.ru/
+      Wikimedia Commons/CC BY 4.0) By Ray McGovern / Consortium News H ow are the Russians
+      approaching Friday’s summit with President Donald Trump? The short answer? With
+      confidence, curiosity, some nervousness and a modicum of hope – despite the mercurial
+      behavior of President Donald Trump. This can be gleaned from applying the methodology
+      of Kremlinology/media analysis – a discipline that seems to be an endangered species.
+      Trump had foolishly set a deadline of Aug. 8 for Russia to end the war in Ukraine,
+      or else! It was a hollow threat, brandishing “bone-crushing” sanctions that were
+      doomed to failure and embarrassment. Two days before the latest deadline, Steve
+      Witkoff, Trump’s envoy, arrived in Moscow to ask Russian President Vladimir Putin
+      to help bail Trump out. Voila : There is to be an early summit — forget the sanctions!
+      It took Witkoff three hours to get Putin to agree to the summit. No doubt Witkoff
+      had sweeteners for Putin; we may know more about that tomorrow. But Trump’s climbdown on
+      the misbegotten sanctions, and breakthrough of Ukrainian fortifications in Donetsk
+      , may have been enough to prompt Putin to agree to meet – and size up – second-term
+      Trump in person. Would Trump, at long last, be able to understand and take into
+      account the realities on the ground in Ukraine? Ukraine Must Take Back Seat to
+      Rapprochement The all-important backdrop, lost on many observers, is that Moscow’s
+      fundamental, overriding aim is to improve relations with the U.S. I do not expect
+      readers to take my word for it, but this might help. Here’s what Yuriy Ushakov,
+      Putin’s right-hand man on Ukraine, gave pride of place to at the start of the
+      readout from the Putin-Witkoff meeting: “This meeting took place in a business-like
+      atmosphere and was quite constructive. … The discussion focused on … resolving
+      the Ukraine crisis. Once again, it was noted that Russia-US relations can be placed
+      on a totally different, mutually beneficial footing, which would be in stark contrast
+      with the way these relations have evolved in recent years .” [Emphasis added.]
+      Why should that surprise? Putin sees a possibly educable president who says he
+      wants to deal; who keeps saying “this is Biden’s war;” who wants to claim credit
+      for ending the killing; and, not least, is smart enough to realize he has been
+      given a very poor hand to play. Vladimir Putin On March 27, while visiting a submarine
+      in Murmansk, Putin was asked by a petty officer about talks between Russia and
+      the U.S . Putin’s reply is typical of the attitude he has expressed on several
+      occasions this year: “The president of the United States sincerely wants to end
+      this conflict for a number of reasons – I won’t even [list them] now, there are
+      many. But, in my opinion, this is a sincere desire. … We are in favor of solving
+      these issues by peaceful means, but also in the elimination of the root causes
+      that led to today’s situation. We need to ensure security for Russia for a long
+      historical perspective. Any step directed to solve this problem we will welcome,
+      and we will work with any partner who aspires to do so.” Foreign Minister Lavrov
+      Sergey Lavrov has said some more tantalizing things on prospects for better relations, but
+      old-pro Lavrov does not negotiate via the media. On July 11, the Russian foreign
+      minister was asked about his 50-minute talk with Secretary of State Marco Rubio
+      on the sidelines of the just concluded Association of Southeast Asian Nations
+      (ASEAN) meeting in Malaysia. Question: “Yesterday, after a meeting with you, U.S.
+      State Secretary Marco Rubio said a new plan for Ukraine had been discussed. Which
+      side proposed new approaches, what are they about, and what makes them fundamentally
+      different from the previous ones? Are U.S. weapon supplies also part of the plan?”
+      Lavrov: “I will use President Trump’s words to answer your question ‘I’m not going
+      to tell you. We are going to have a very big announcement to make.’ I’m not sure
+      about a ‘big announcement,’ though, but you, as someone familiar with the diplomatic
+      work and who often accompany us in our travels, know that there are things that
+      are not commented on. Yes, we discussed Ukraine. …” Rubio was less tight-lipped. He
+      said the U.S. and Russia exchanged new ideas for Ukraine peace talks after he
+      met with his Russian counterpart in Malaysia. “I think it’s a new and a different
+      approach,” Rubio told reporters after talks with Lavrov. “I wouldn’t characterize
+      it as something that guarantees a peace, but it’s a concept that, you know, that
+      I’ll take back to the president. We need to see a roadmap moving forward about how
+      this conflict can conclude. And then we shared some ideas about what that might look
+      like. We’re going to continue to stay involved where we see opportunities to make
+      a difference.” Deputy Foreign Minister Sergey Ryabkov On Aug. 10, Deputy Foreign
+      Minister Sergey Ryabkov, in an interview with Rossiya-1 TV, noted that “some sprouts
+      of common sense are appearing in the dialogue with the U.S., which have been sorely lacking
+      in recent months and years.” Sprouts? This brought to mind what Putin said after
+      his June 16, 2021, summit with former U.S. President Joe Biden in Geneva. Asked
+      if he had reached “a new level of trust” with President Biden, Putin quoted Leo
+      Tolstoy: “Tolstoy once said, there is no happiness in life, only lightening flashes
+      of it — cherish them. I believe that in this situation some kind of family trust
+      is not possible. However, it seems to me we have seen ‘lightening flashes’ of
+      it.” Putin was only too aware that the Military-Industrial-Congressional-Intelligence-Media-Academia-Think-Tank
+      complex (MICIMATT) and other domestic political forces, have amply demonstrated
+      their ability to poor cold water on many a hopeful “lightening flash.” For those
+      interested in a fledging U.S.-Russia rapprochement, one can but hope that — as
+      in nature – sprouts prove to be more long lasting than sparks. Flexibility I offer
+      the above to suggest there is reason to expect some flexibility on the margins
+      of the basic terms Putin set down in June 2024. If you believe, as I do, that
+      Moscow wants to avoid creating its own Vietnam by going West of the Dnepr , you
+      can foresee that Putin may eventually show enough flexibility to allow Trump to
+      claim they “worked it out together.” It would be a “negotiated solution,” applying
+      copious lipstick to the pig of actual defeat for U.S./NATO/Ukraine. That kind
+      of flexibility could also set the stage for eventual Russian agreement to a limited
+      ceasefire, perhaps in return for a definitive NO to NATO membership for Ukraine, together
+      with a promise to cease all military and intelligence support for Kyiv once and for
+      all. This was my best guess when TASS interviewed me several days ago. Guess is the
+      key word. I would also guess that working groups on arms control issues may be created
+      tomorrow. Trump: Paragon of Unpredictability Yogi Berra’s quip about how tough
+      it is to make predictions — especially about the future — applies to Trump in
+      spades. And in his case the future includes today and tomorrow. It is small solace
+      that there does seem to be mutual agreement to meet again, next time in Russia.
+      Sadly, media analysis cannot provide much help, because there is no discipline.
+      Suffice it to add that I believe Putin is correct in thinking Trump is “sincere”
+      in trying to put “Biden’s war” behind him. The Russians are also painfully aware
+      of the formidable obstacles in his path toward rapprochement. If further fog were
+      needed, State Department spokesperson Tammy Bruce told the media yesterday that
+      the Friday summit is “not a negotiation” (sic). (I pity the Russian intelligence
+      briefer whom Putin asks to interpret that remark.) Is It Just Me? A comment beneath
+      a comment I posted on X yesterday helped put things into better, wider perspective.
+      “@LastBloomer” asked: “Hey Ray: is it just me? I am getting the vibe that the
+      Financial Times is pining for a Trump failure. It is a win when leaders of nations
+      can meet &amp; discuss the cessation of war, is it not?” Please share this story
+      and help us grow our network! Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Ray McGovern Ray McGovern works with
+      Tell the Word, a publishing arm of the ecumenical Church of the Saviour in inner-city
+      Washington. His 27 years as a C.I.A. analyst included leading the Soviet Foreign
+      Policy Branch and conducting the morning briefings of the President’s Daily Brief.
+      In retirement he co-founded Veteran Intelligence Professionals for Sanity (VIPS).
+      Author Site'
+    one_sentence_summary: Russian officials approach the upcoming summit with President
+      Trump with a mix of confidence and nervousness, viewing it as an opportunity despite
+      his unpredictable behavior and empty threats regarding sanctions over the Ukraine
+      conflict.
+    paragraph_summary: Ahead of a summit between Russian President Vladimir Putin and
+      U.S. President Donald Trump, the Russian approach is characterized by a mix of
+      confidence, curiosity, nervousness, and cautious optimism, despite Trump's unpredictable
+      behavior. The backdrop includes Trump's ultimatum for Russia to end the war in
+      Ukraine by August 8, which was perceived as an empty threat, leading to a diplomatic
+      effort by Trump's envoy, Steve Witkoff, who successfully negotiated an early summit
+      with Putin. This meeting, described as constructive by Putin's aide Yuriy Ushakov,
+      highlights Russia's primary goal of improving relations with the U.S., even as
+      the ongoing conflict in Ukraine remains a significant issue.
+    published: '2025-08-14T21:59:43+00:00'
+  - title: 'Ray McGovern: Applying the Lost Art of Kremlinology'
+    url: https://scheerpost.com/2025/08/14/ray-mcgovern-applying-the-lost-art-of-kremlinology/
+    text: 'Russian President Vladimir Putin with U.S. presidential envoy Steve Witkoff
+      at the Kremlin on Aug. 6. Putin’s key aide Yuri Ushakov, in background. (Kremlin.ru/
+      Wikimedia Commons/CC BY 4.0) By Ray McGovern / Consortium News H ow are the Russians
+      approaching Friday’s summit with President Donald Trump? The short answer? With
+      confidence, curiosity, some nervousness and a modicum of hope – despite the mercurial
+      behavior of President Donald Trump. This can be gleaned from applying the methodology
+      of Kremlinology/media analysis – a discipline that seems to be an endangered species.
+      Trump had foolishly set a deadline of Aug. 8 for Russia to end the war in Ukraine,
+      or else! It was a hollow threat, brandishing “bone-crushing” sanctions that were
+      doomed to failure and embarrassment. Two days before the latest deadline, Steve
+      Witkoff, Trump’s envoy, arrived in Moscow to ask Russian President Vladimir Putin
+      to help bail Trump out. Voila : There is to be an early summit — forget the sanctions!
+      It took Witkoff three hours to get Putin to agree to the summit. No doubt Witkoff
+      had sweeteners for Putin; we may know more about that tomorrow. But Trump’s climbdown on
+      the misbegotten sanctions, and breakthrough of Ukrainian fortifications in Donetsk
+      , may have been enough to prompt Putin to agree to meet – and size up – second-term
+      Trump in person. Would Trump, at long last, be able to understand and take into
+      account the realities on the ground in Ukraine? Ukraine Must Take Back Seat to
+      Rapprochement The all-important backdrop, lost on many observers, is that Moscow’s
+      fundamental, overriding aim is to improve relations with the U.S. I do not expect
+      readers to take my word for it, but this might help. Here’s what Yuriy Ushakov,
+      Putin’s right-hand man on Ukraine, gave pride of place to at the start of the
+      readout from the Putin-Witkoff meeting: “This meeting took place in a business-like
+      atmosphere and was quite constructive. … The discussion focused on … resolving
+      the Ukraine crisis. Once again, it was noted that Russia-US relations can be placed
+      on a totally different, mutually beneficial footing, which would be in stark contrast
+      with the way these relations have evolved in recent years .” [Emphasis added.]
+      Why should that surprise? Putin sees a possibly educable president who says he
+      wants to deal; who keeps saying “this is Biden’s war;” who wants to claim credit
+      for ending the killing; and, not least, is smart enough to realize he has been
+      given a very poor hand to play. Vladimir Putin On March 27, while visiting a submarine
+      in Murmansk, Putin was asked by a petty officer about talks between Russia and
+      the U.S . Putin’s reply is typical of the attitude he has expressed on several
+      occasions this year: “The president of the United States sincerely wants to end
+      this conflict for a number of reasons – I won’t even [list them] now, there are
+      many. But, in my opinion, this is a sincere desire. … We are in favor of solving
+      these issues by peaceful means, but also in the elimination of the root causes
+      that led to today’s situation. We need to ensure security for Russia for a long
+      historical perspective. Any step directed to solve this problem we will welcome,
+      and we will work with any partner who aspires to do so.” Foreign Minister Lavrov
+      Sergey Lavrov has said some more tantalizing things on prospects for better relations, but
+      old-pro Lavrov does not negotiate via the media. On July 11, the Russian foreign
+      minister was asked about his 50-minute talk with Secretary of State Marco Rubio
+      on the sidelines of the just concluded Association of Southeast Asian Nations
+      (ASEAN) meeting in Malaysia. Question: “Yesterday, after a meeting with you, U.S.
+      State Secretary Marco Rubio said a new plan for Ukraine had been discussed. Which
+      side proposed new approaches, what are they about, and what makes them fundamentally
+      different from the previous ones? Are U.S. weapon supplies also part of the plan?”
+      Lavrov: “I will use President Trump’s words to answer your question ‘I’m not going
+      to tell you. We are going to have a very big announcement to make.’ I’m not sure
+      about a ‘big announcement,’ though, but you, as someone familiar with the diplomatic
+      work and who often accompany us in our travels, know that there are things that
+      are not commented on. Yes, we discussed Ukraine. …” Rubio was less tight-lipped. He
+      said the U.S. and Russia exchanged new ideas for Ukraine peace talks after he
+      met with his Russian counterpart in Malaysia. “I think it’s a new and a different
+      approach,” Rubio told reporters after talks with Lavrov. “I wouldn’t characterize
+      it as something that guarantees a peace, but it’s a concept that, you know, that
+      I’ll take back to the president. We need to see a roadmap moving forward about how
+      this conflict can conclude. And then we shared some ideas about what that might look
+      like. We’re going to continue to stay involved where we see opportunities to make
+      a difference.” Deputy Foreign Minister Sergey Ryabkov On Aug. 10, Deputy Foreign
+      Minister Sergey Ryabkov, in an interview with Rossiya-1 TV, noted that “some sprouts
+      of common sense are appearing in the dialogue with the U.S., which have been sorely lacking
+      in recent months and years.” Sprouts? This brought to mind what Putin said after
+      his June 16, 2021, summit with former U.S. President Joe Biden in Geneva. Asked
+      if he had reached “a new level of trust” with President Biden, Putin quoted Leo
+      Tolstoy: “Tolstoy once said, there is no happiness in life, only lightening flashes
+      of it — cherish them. I believe that in this situation some kind of family trust
+      is not possible. However, it seems to me we have seen ‘lightening flashes’ of
+      it.” Putin was only too aware that the Military-Industrial-Congressional-Intelligence-Media-Academia-Think-Tank
+      complex (MICIMATT) and other domestic political forces, have amply demonstrated
+      their ability to poor cold water on many a hopeful “lightening flash.” For those
+      interested in a fledging U.S.-Russia rapprochement, one can but hope that — as
+      in nature – sprouts prove to be more long lasting than sparks. Flexibility I offer
+      the above to suggest there is reason to expect some flexibility on the margins
+      of the basic terms Putin set down in June 2024. If you believe, as I do, that
+      Moscow wants to avoid creating its own Vietnam by going West of the Dnepr , you
+      can foresee that Putin may eventually show enough flexibility to allow Trump to
+      claim they “worked it out together.” It would be a “negotiated solution,” applying
+      copious lipstick to the pig of actual defeat for U.S./NATO/Ukraine. That kind
+      of flexibility could also set the stage for eventual Russian agreement to a limited
+      ceasefire, perhaps in return for a definitive NO to NATO membership for Ukraine, together
+      with a promise to cease all military and intelligence support for Kyiv once and for
+      all. This was my best guess when TASS interviewed me several days ago. Guess is the
+      key word. I would also guess that working groups on arms control issues may be created
+      tomorrow. Trump: Paragon of Unpredictability Yogi Berra’s quip about how tough
+      it is to make predictions — especially about the future — applies to Trump in
+      spades. And in his case the future includes today and tomorrow. It is small solace
+      that there does seem to be mutual agreement to meet again, next time in Russia.
+      Sadly, media analysis cannot provide much help, because there is no discipline.
+      Suffice it to add that I believe Putin is correct in thinking Trump is “sincere”
+      in trying to put “Biden’s war” behind him. The Russians are also painfully aware
+      of the formidable obstacles in his path toward rapprochement. If further fog were
+      needed, State Department spokesperson Tammy Bruce told the media yesterday that
+      the Friday summit is “not a negotiation” (sic). (I pity the Russian intelligence
+      briefer whom Putin asks to interpret that remark.) Is It Just Me? A comment beneath
+      a comment I posted on X yesterday helped put things into better, wider perspective.
+      “@LastBloomer” asked: “Hey Ray: is it just me? I am getting the vibe that the
+      Financial Times is pining for a Trump failure. It is a win when leaders of nations
+      can meet &amp; discuss the cessation of war, is it not?” Please share this story
+      and help us grow our network! Editor’s Note : A t a moment when the once vaunted
+      model of responsible journalism is overwhelmingly the play thing of self-serving
+      billionaires and their corporate scribes, alternatives of integrity are desperately
+      needed, and ScheerPost is one of them. Please support our independent journalism
+      by contributing to our online donation platform, Network for Good, or send a check
+      to our new PO Box. We can’t thank you enough, and promise to keep bringing you
+      this kind of vital news. Donate Online Send a Check You can also make a donation
+      to our PayPal or subscribe to our Patreon . Ray McGovern Ray McGovern works with
+      Tell the Word, a publishing arm of the ecumenical Church of the Saviour in inner-city
+      Washington. His 27 years as a C.I.A. analyst included leading the Soviet Foreign
+      Policy Branch and conducting the morning briefings of the President’s Daily Brief.
+      In retirement he co-founded Veteran Intelligence Professionals for Sanity (VIPS).
+      Author Site'
+    one_sentence_summary: Russian officials approach the upcoming summit with President
+      Trump with a mix of confidence and nervousness, viewing it as an opportunity despite
+      his unpredictable behavior and empty threats regarding sanctions over the Ukraine
+      conflict.
+    paragraph_summary: Ahead of a summit between Russian President Vladimir Putin and
+      U.S. President Donald Trump, the Russian approach is characterized by a mix of
+      confidence, curiosity, nervousness, and cautious optimism, despite Trump's unpredictable
+      behavior. The backdrop includes Trump's ultimatum for Russia to end the war in
+      Ukraine by August 8, which was perceived as an empty threat, leading to a diplomatic
+      effort by Trump's envoy, Steve Witkoff, who successfully negotiated an early summit
+      with Putin. This meeting, described as constructive by Putin's aide Yuriy Ushakov,
+      highlights Russia's primary goal of improving relations with the U.S., even as
+      the ongoing conflict in Ukraine remains a significant issue.
+    published: '2025-08-14T21:59:43+00:00'
+  - title: The West is in panic as Israel’s plan for ‘full control’ of Gaza heralds
+      a new Nakba
+    url: https://scheerpost.com/2025/08/14/the-west-is-in-panic-as-israels-plan-for-full-control-of-gaza-heralds-a-new-nakba/
+    text: 'Photo from Jonathan Cook Substack In one of the scariest moments in modern
+      history, we''re doing our best at ScheerPost to pierce the fog of lies that conceal
+      it but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Jonathan Cook / Substack If you thought western capitals were finally
+      losing patience with Israel’s engineering of a famine in Gaza nearly two years
+      into the genocide, you may be disappointed. As ever, events have moved on – even
+      if the extreme hunger and malnourishment of the two million people of Gaza have
+      not abated. Western leaders are now expressing “outrage”, as the media call it,
+      at Israeli Prime Minister Benjamin Netanyahu’s plan to “take full control” of
+      Gaza and “occupy” it. At some point in the future, Israel is apparently ready
+      to hand the enclave over to outside forces unconnected to the Palestinian people.
+      The Israeli cabinet agreed last Friday on the first step: a takeover of Gaza City
+      , where hundreds of thousands of Palestinians are huddled in the ruins, being
+      starved to death. The city will be encircled, systematically depopulated and destroyed,
+      with survivors presumably herded southwards to a “humanitarian city” – Israel’s
+      new term for a concentration camp – where they will be penned up , awaiting death
+      or expulsion. At the weekend, foreign ministers from the UK, Germany, Italy, Australia
+      and other western nations issued a joint statement decrying the move, warning
+      it would “aggravate the catastrophic humanitarian situation, endanger the lives
+      of the hostages, and further risk the mass displacement of civilians”. Germany,
+      Israel’s most fervent backer in Europe and its second-biggest arms supplier, is
+      apparently so dismayed that it has vowed to “suspend” – that is, delay – weapons
+      shipments that have helped Israel to murder and maim hundreds of thousands of
+      Palestinians over the past 22 months. Netanyahu is not likely to be too perturbed.
+      Doubtless, Washington will step in and pick up any slack for its main client state
+      in the oil-rich Middle East. Meanwhile, Netanyahu has once again shifted the West’s
+      all-too-belated focus on the indisputable proof of Israel’s ongoing genocidal
+      actions – evidenced by Gaza’s skeletal children – to an entirely different story.
+      Now, the front pages are all about the Israeli prime minister’s strategy in launching
+      another “ground operation”, how much pushback he is getting from his military
+      commanders, what the implications will be for the Israelis still held captive
+      in the enclave, whether the Israeli army is now overstretched, and whether Hamas
+      can ever be “defeated” and the enclave “demilitarised”. We are returning once
+      again to logistical analyses of the genocide – analyses whose premises ignore
+      the genocide itself. Might that not be integral to Netanyahu’s strategy? Life
+      and death It ought to be shocking that Germany has been provoked into stopping
+      its arming of Israel – assuming it follows through – not because of months of
+      images of Gaza’s skin-and-bones children that echo those from Auschwitz, but only
+      because Israel has declared that it wants to “take control” of Gaza. It should
+      be noted, of course, that Israel never stopped controlling Gaza and the rest of
+      the Palestinian territories – in contravention of the fundamentals of international
+      law, as the International Court of Justice ruled last year. Israel has had absolute
+      control over the lives and deaths of Gaza’s people every day – bar one – since
+      its occupation of the tiny coastal enclave many decades ago. On 7 October 2023,
+      thousands of Palestinian fighters briefly broke out of the besieged prison camp
+      they and their families had endured after Israel momentarily dropped its guard.
+      Gaza has long been a prison that the Israeli military illegally controlled by
+      land, sea and air, determining who could enter and leave. It kept Gaza’s economy
+      throttled, and put the enclave’s population “ on a diet ” that saw rocketing malnourishment
+      among its children long before the current starvation campaign. Trapped behind
+      a highly militarised fence since the early 1990s, unable to access their own coastal
+      waters, and with Israeli drones constantly surveilling them and raining down death
+      from the air, the people of Gaza viewed it more as a modernised concentration
+      camp . But Germany and the rest of the West were fine supporting all that. They
+      have continued selling Israel arms, providing it with special trading status,
+      and offering diplomatic cover. Only as Israel carries through to a logical conclusion
+      its settler-colonial agenda of replacing the native Palestinian people with Jews,
+      is it apparently time for the West to vent its rhetorical “outrage”. Two-state
+      trickery Why the pushback now? In part, it is because Netanyahu is pulling the
+      rug out from under their cherished, decades-long pretext for supporting Israel’s
+      ever-greater criminality: the fabled two-state solution. Israel conspired in that
+      trickery with the signing of the Oslo Accords in the mid-1990s. The goal was never
+      the realisation of a two-state solution. Rather, Oslo created a “diplomatic horizon”
+      for “final status issues” – which, like the physical horizon, always remained
+      equally distant, however much ostensible movement there was on the ground. Lisa
+      Nandy, Britain’s culture secretary, peddled precisely this same deceit last week
+      as she extolled the virtues of the two-state solution. She told Sky News : “Our
+      message to the Palestinian people is very, very clear: There is hope on the horizon.”
+      Every Palestinian understood her real message, which could be paraphrased as:
+      “We’ve lied to you about a Palestinian state for decades, and we’ve allowed a
+      genocide to unfold before the world’s eyes for the past two years. But hey, trust
+      us this time. We’re on your side.” In truth, the promise of Palestinian statehood
+      was always treated by the West as little more than a threat – and one directed
+      at Palestinian leaders. Palestinian officials must be more obedient, quieter.
+      They had to first prove their willingness to police Israel’s occupation on Israel’s
+      behalf by repressing their own people. Hamas, of course, failed that test in Gaza.
+      But Mahmoud Abbas, head of the Palestinian Authority (PA) in the occupied West
+      Bank, bent over backwards to reassure his examiners, casting as “sacred” his lightly
+      armed security forces’ so-called “cooperation” with Israel. In reality, they are
+      there to do its dirty work. Nonetheless, despite the PA’s endless good behaviour,
+      Israel has continued to expel ordinary Palestinians from their land, then steal
+      that land – which was supposed to form the basis of a Palestinian state – and
+      hand it over to extremist Jewish settlers backed by the Israeli army. Former US
+      President Barack Obama briefly and feebly tried to halt what the West misleadingly
+      calls Jewish “settlement expansion” – in reality, the ethnic cleansing of Palestinians
+      – but rolled over at the first sign of intransigence from Netanyahu. Israel has
+      stepped up the process of ethnic cleansing in the occupied West Bank even more
+      aggressively over the past two years, while global attention has been on Gaza
+      – with the Israeli newspaper Haaretz warning this week that settlers have been
+      given “free rein”. A small window into the impunity granted to settlers as they
+      wage their campaign of violence to depopulate Palestinian communities was highlighted
+      at the weekend, when B’Tselem released footage of a Palestinian activist, Awdah
+      Hathaleen, inadvertently filming his own killing. Extremist settler Yinon Levi
+      was released on grounds of self-defence , even though the video shows him singling
+      out Hathaleen from afar, taking aim and shooting. Alibi gone It is noticeable
+      that, having stopped making reference to Palestinian statehood for many years,
+      western leaders have revived their interest only now – as Israel is making a two-state
+      solution unrealisable. That was graphically illustrated by footage broadcast this
+      month by ITV. Shot from an aid plane, it showed the wholesale destruction of Gaza
+      – its homes, schools, hospitals, universities, bakeries, shops, mosques and churches
+      gone. Gaza is in ruins. Its reconstruction will take decades . Occupied East Jerusalem
+      and its holy sites were long ago seized and Judaised by Israel, with western assent.
+      Suddenly, western capitals are noticing that the last remnants of the proposed
+      Palestinian state are about to be swallowed whole by Israel, too. Germany recently
+      warned Israel that it must not take “any further steps toward annexing the West
+      Bank”. US President Donald Trump is on his own path. But this is the moment when
+      other major western powers – led by France , Britain and Canada – have started
+      threatening to recognise a Palestinian state, even as the possibility of such
+      a state has been obliterated by Israel. Australia announced it would join them
+      this week after its foreign minister, a few days earlier, said the quiet part
+      out loud, warning: “There is a risk there will be no Palestine left to recognise
+      if the international community don’t move to create that pathway to a two-state
+      solution.” That is something they dare not countenance, because with it goes their
+      alibi for supporting all these years the apartheid state of Israel, now deep into
+      the final stages of a genocide in Gaza. That was why British Prime Minister Keir
+      Starmer desperately switched tack recently. Instead of dangling recognition of
+      Palestinian statehood as a carrot encouraging Palestinians to be more obedient
+      – British policy for decades – he wielded it as a threat, and a largely hollow
+      one, against Israel. He would recognise a Palestinian state if Israel refused
+      to agree to a ceasefire in Gaza and proceeded with the West Bank’s annexation.
+      In other words, Starmer backed recognising a state of Palestine – after Israel
+      has gone ahead with its complete erasure. Extracting concessions Still, France
+      and Britain’s recognition threat is not simply too late. It serves two other purposes.
+      Firstly, it provides a new alibi for inaction. There are plenty of far more effective
+      ways for the West to halt Israel’s genocide. Western capitals could embargo arms
+      sales, stop intelligence sharing, impose economic sanctions, sever ties with Israeli
+      institutions, expel Israeli ambassadors, and downgrade diplomatic relations. They
+      are choosing to do none of those things. And secondly, recognition is designed
+      to extract from the Palestinians “concessions” that will make them even more vulnerable
+      to Israeli violence. According to France’s foreign affairs minister, Jean-Noel
+      Barrot: “Recognising a State of Palestine today means standing with the Palestinians
+      who have chosen non-violence, who have renounced terrorism, and are prepared to
+      recognise Israel.” In other words, in the West’s view, the “good Palestinians”
+      are those who recognise and lay down before the state committing genocide against
+      them. Western leaders have long envisioned a Palestinian state only on condition
+      that it is demilitarised. Recognition this time is premised on Hamas agreeing
+      to disarm and its departure from Gaza, leaving Abbas to take on the enclave and
+      presumably continue the “sacred” mission of “cooperating” with a genocidal Israeli
+      army. As part of the price for recognition, all 22 members of the Arab League
+      publicly condemned Hamas and demanded its removal from Gaza. Boot on Gaza’s neck
+      How does all of this fit with Netanyahu’s “ground offensive”? Israel isn’t “taking
+      over” Gaza, as he claims. Its boot has been on the enclave’s neck for decades.
+      While western capitals contemplate a two-state solution, Israel is preparing a
+      final mass ethnic cleansing campaign in Gaza. Starmer’s government, for one, knew
+      this was coming. Flight data shows that the UK has been constantly operating surveillance
+      missions over Gaza on Israel’s behalf from the Royal Air Force base Akrotiri on
+      Cyprus. Downing Street has been following the enclave’s erasure step by step.
+      Netanyahu’s plan is to encircle, besiege and bomb the last remaining populated
+      areas in northern and central Gaza, and drive Palestinians towards a giant holding
+      pen – misnamed a “ humanitarian city ” – alongside the enclave’s short border
+      with Egypt. Israel will then probably employ the same contractors it has been
+      using elsewhere in Gaza to go street to street to bulldoze or blow up any surviving
+      buildings. The next stage, given the trajectory of the last two years, is not
+      difficult to predict. Locked up in their dystopian “humanitarian city”, the people
+      of Gaza will continue to be starved and bombed whenever Israel claims it has identified
+      a Hamas fighter in their midst, until Egypt or other Arab states can be persuaded
+      to take them in, as a further “humanitarian” gesture. Then, the only matter to
+      be settled will be what happens to the real estate: build some version of Trump’s
+      gleaming “Riviera” scheme, or construct another tawdry patchwork of Jewish settlements
+      of the kind envisioned by Netanyahu’s openly fascist allies, Bezalel Smotrich
+      and Itamar Ben Gvir. There is a well-established template to be drawn on, one
+      that was used in 1948 during Israel’s violent creation. Palestinians were driven
+      from their cities and villages, in what was then called Palestine, across the
+      borders into neighbouring states. The new state of Israel, backed by western powers,
+      then set about methodically destroying every home in those hundreds of villages.
+      Over subsequent years, they were landscaped either with forests or exclusive Jewish
+      communities, often engaged in farming, to make Palestinian return impossible and
+      stifle any memory of Israel’s crimes. Generations of western politicians, intellectuals
+      and cultural figures have celebrated all of this. Former British Prime Minister
+      Boris Johnson and former Austrian President Heinz Fischer are among those who
+      went to Israel in their youth to work on these farming communities. Most came
+      back as emissaries for a Jewish state built on the ruins of a Palestinian homeland.
+      An emptied Gaza can be similarly re-landscaped. But it is much harder to imagine
+      that this time the world will forget or forgive the crimes committed by Israel
+      – or those who enabled them. Please share this story and help us grow our network!
+      Jonathan Cook Jonathan Cook is a MintPress contributor. Cook won the Martha Gellhorn
+      Special Prize for Journalism. His latest books are Israel and the Clash of Civilisations:
+      Iraq, Iran and the Plan to Remake the Middle East (Pluto Press) and Disappearing
+      Palestine: Israel’s Experiments in Human Despair (Zed Books). His website is www.jonathan-cook.net
+      . Author Site Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon .'
+    one_sentence_summary: Despite growing international outrage over Israel's plans
+      to fully occupy Gaza amid ongoing famine and humanitarian crises, Western leaders
+      appear to be shifting focus rather than addressing the dire situation faced by
+      its two million residents.
+    paragraph_summary: In a critical analysis of the ongoing humanitarian crisis in
+      Gaza, Jonathan Cook highlights the alarming situation as Western leaders express
+      outrage over Israeli Prime Minister Benjamin Netanyahu's plans to take full control
+      of Gaza, which could lead to further suffering for the two million residents facing
+      extreme hunger and malnourishment. Despite international condemnation, including
+      a joint statement from foreign ministers of several Western nations warning against
+      exacerbating the humanitarian crisis, Israel's strategy appears to involve encircling
+      and depopulating Gaza City, potentially confining survivors to a so-called "humanitarian
+      city." While Germany has indicated it may suspend arms shipments to Israel, Cook
+      suggests that the U.S. is likely to intervene to support Israel, indicating a
+      continuation of the cycle of violence and neglect towards the Palestinian people.
+    published: '2025-08-14T11:11:00+00:00'
+  - title: The West is in panic as Israel’s plan for ‘full control’ of Gaza heralds
+      a new Nakba
+    url: https://scheerpost.com/2025/08/14/the-west-is-in-panic-as-israels-plan-for-full-control-of-gaza-heralds-a-new-nakba/
+    text: 'Photo from Jonathan Cook Substack In one of the scariest moments in modern
+      history, we''re doing our best at ScheerPost to pierce the fog of lies that conceal
+      it but we need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Jonathan Cook / Substack If you thought western capitals were finally
+      losing patience with Israel’s engineering of a famine in Gaza nearly two years
+      into the genocide, you may be disappointed. As ever, events have moved on – even
+      if the extreme hunger and malnourishment of the two million people of Gaza have
+      not abated. Western leaders are now expressing “outrage”, as the media call it,
+      at Israeli Prime Minister Benjamin Netanyahu’s plan to “take full control” of
+      Gaza and “occupy” it. At some point in the future, Israel is apparently ready
+      to hand the enclave over to outside forces unconnected to the Palestinian people.
+      The Israeli cabinet agreed last Friday on the first step: a takeover of Gaza City
+      , where hundreds of thousands of Palestinians are huddled in the ruins, being
+      starved to death. The city will be encircled, systematically depopulated and destroyed,
+      with survivors presumably herded southwards to a “humanitarian city” – Israel’s
+      new term for a concentration camp – where they will be penned up , awaiting death
+      or expulsion. At the weekend, foreign ministers from the UK, Germany, Italy, Australia
+      and other western nations issued a joint statement decrying the move, warning
+      it would “aggravate the catastrophic humanitarian situation, endanger the lives
+      of the hostages, and further risk the mass displacement of civilians”. Germany,
+      Israel’s most fervent backer in Europe and its second-biggest arms supplier, is
+      apparently so dismayed that it has vowed to “suspend” – that is, delay – weapons
+      shipments that have helped Israel to murder and maim hundreds of thousands of
+      Palestinians over the past 22 months. Netanyahu is not likely to be too perturbed.
+      Doubtless, Washington will step in and pick up any slack for its main client state
+      in the oil-rich Middle East. Meanwhile, Netanyahu has once again shifted the West’s
+      all-too-belated focus on the indisputable proof of Israel’s ongoing genocidal
+      actions – evidenced by Gaza’s skeletal children – to an entirely different story.
+      Now, the front pages are all about the Israeli prime minister’s strategy in launching
+      another “ground operation”, how much pushback he is getting from his military
+      commanders, what the implications will be for the Israelis still held captive
+      in the enclave, whether the Israeli army is now overstretched, and whether Hamas
+      can ever be “defeated” and the enclave “demilitarised”. We are returning once
+      again to logistical analyses of the genocide – analyses whose premises ignore
+      the genocide itself. Might that not be integral to Netanyahu’s strategy? Life
+      and death It ought to be shocking that Germany has been provoked into stopping
+      its arming of Israel – assuming it follows through – not because of months of
+      images of Gaza’s skin-and-bones children that echo those from Auschwitz, but only
+      because Israel has declared that it wants to “take control” of Gaza. It should
+      be noted, of course, that Israel never stopped controlling Gaza and the rest of
+      the Palestinian territories – in contravention of the fundamentals of international
+      law, as the International Court of Justice ruled last year. Israel has had absolute
+      control over the lives and deaths of Gaza’s people every day – bar one – since
+      its occupation of the tiny coastal enclave many decades ago. On 7 October 2023,
+      thousands of Palestinian fighters briefly broke out of the besieged prison camp
+      they and their families had endured after Israel momentarily dropped its guard.
+      Gaza has long been a prison that the Israeli military illegally controlled by
+      land, sea and air, determining who could enter and leave. It kept Gaza’s economy
+      throttled, and put the enclave’s population “ on a diet ” that saw rocketing malnourishment
+      among its children long before the current starvation campaign. Trapped behind
+      a highly militarised fence since the early 1990s, unable to access their own coastal
+      waters, and with Israeli drones constantly surveilling them and raining down death
+      from the air, the people of Gaza viewed it more as a modernised concentration
+      camp . But Germany and the rest of the West were fine supporting all that. They
+      have continued selling Israel arms, providing it with special trading status,
+      and offering diplomatic cover. Only as Israel carries through to a logical conclusion
+      its settler-colonial agenda of replacing the native Palestinian people with Jews,
+      is it apparently time for the West to vent its rhetorical “outrage”. Two-state
+      trickery Why the pushback now? In part, it is because Netanyahu is pulling the
+      rug out from under their cherished, decades-long pretext for supporting Israel’s
+      ever-greater criminality: the fabled two-state solution. Israel conspired in that
+      trickery with the signing of the Oslo Accords in the mid-1990s. The goal was never
+      the realisation of a two-state solution. Rather, Oslo created a “diplomatic horizon”
+      for “final status issues” – which, like the physical horizon, always remained
+      equally distant, however much ostensible movement there was on the ground. Lisa
+      Nandy, Britain’s culture secretary, peddled precisely this same deceit last week
+      as she extolled the virtues of the two-state solution. She told Sky News : “Our
+      message to the Palestinian people is very, very clear: There is hope on the horizon.”
+      Every Palestinian understood her real message, which could be paraphrased as:
+      “We’ve lied to you about a Palestinian state for decades, and we’ve allowed a
+      genocide to unfold before the world’s eyes for the past two years. But hey, trust
+      us this time. We’re on your side.” In truth, the promise of Palestinian statehood
+      was always treated by the West as little more than a threat – and one directed
+      at Palestinian leaders. Palestinian officials must be more obedient, quieter.
+      They had to first prove their willingness to police Israel’s occupation on Israel’s
+      behalf by repressing their own people. Hamas, of course, failed that test in Gaza.
+      But Mahmoud Abbas, head of the Palestinian Authority (PA) in the occupied West
+      Bank, bent over backwards to reassure his examiners, casting as “sacred” his lightly
+      armed security forces’ so-called “cooperation” with Israel. In reality, they are
+      there to do its dirty work. Nonetheless, despite the PA’s endless good behaviour,
+      Israel has continued to expel ordinary Palestinians from their land, then steal
+      that land – which was supposed to form the basis of a Palestinian state – and
+      hand it over to extremist Jewish settlers backed by the Israeli army. Former US
+      President Barack Obama briefly and feebly tried to halt what the West misleadingly
+      calls Jewish “settlement expansion” – in reality, the ethnic cleansing of Palestinians
+      – but rolled over at the first sign of intransigence from Netanyahu. Israel has
+      stepped up the process of ethnic cleansing in the occupied West Bank even more
+      aggressively over the past two years, while global attention has been on Gaza
+      – with the Israeli newspaper Haaretz warning this week that settlers have been
+      given “free rein”. A small window into the impunity granted to settlers as they
+      wage their campaign of violence to depopulate Palestinian communities was highlighted
+      at the weekend, when B’Tselem released footage of a Palestinian activist, Awdah
+      Hathaleen, inadvertently filming his own killing. Extremist settler Yinon Levi
+      was released on grounds of self-defence , even though the video shows him singling
+      out Hathaleen from afar, taking aim and shooting. Alibi gone It is noticeable
+      that, having stopped making reference to Palestinian statehood for many years,
+      western leaders have revived their interest only now – as Israel is making a two-state
+      solution unrealisable. That was graphically illustrated by footage broadcast this
+      month by ITV. Shot from an aid plane, it showed the wholesale destruction of Gaza
+      – its homes, schools, hospitals, universities, bakeries, shops, mosques and churches
+      gone. Gaza is in ruins. Its reconstruction will take decades . Occupied East Jerusalem
+      and its holy sites were long ago seized and Judaised by Israel, with western assent.
+      Suddenly, western capitals are noticing that the last remnants of the proposed
+      Palestinian state are about to be swallowed whole by Israel, too. Germany recently
+      warned Israel that it must not take “any further steps toward annexing the West
+      Bank”. US President Donald Trump is on his own path. But this is the moment when
+      other major western powers – led by France , Britain and Canada – have started
+      threatening to recognise a Palestinian state, even as the possibility of such
+      a state has been obliterated by Israel. Australia announced it would join them
+      this week after its foreign minister, a few days earlier, said the quiet part
+      out loud, warning: “There is a risk there will be no Palestine left to recognise
+      if the international community don’t move to create that pathway to a two-state
+      solution.” That is something they dare not countenance, because with it goes their
+      alibi for supporting all these years the apartheid state of Israel, now deep into
+      the final stages of a genocide in Gaza. That was why British Prime Minister Keir
+      Starmer desperately switched tack recently. Instead of dangling recognition of
+      Palestinian statehood as a carrot encouraging Palestinians to be more obedient
+      – British policy for decades – he wielded it as a threat, and a largely hollow
+      one, against Israel. He would recognise a Palestinian state if Israel refused
+      to agree to a ceasefire in Gaza and proceeded with the West Bank’s annexation.
+      In other words, Starmer backed recognising a state of Palestine – after Israel
+      has gone ahead with its complete erasure. Extracting concessions Still, France
+      and Britain’s recognition threat is not simply too late. It serves two other purposes.
+      Firstly, it provides a new alibi for inaction. There are plenty of far more effective
+      ways for the West to halt Israel’s genocide. Western capitals could embargo arms
+      sales, stop intelligence sharing, impose economic sanctions, sever ties with Israeli
+      institutions, expel Israeli ambassadors, and downgrade diplomatic relations. They
+      are choosing to do none of those things. And secondly, recognition is designed
+      to extract from the Palestinians “concessions” that will make them even more vulnerable
+      to Israeli violence. According to France’s foreign affairs minister, Jean-Noel
+      Barrot: “Recognising a State of Palestine today means standing with the Palestinians
+      who have chosen non-violence, who have renounced terrorism, and are prepared to
+      recognise Israel.” In other words, in the West’s view, the “good Palestinians”
+      are those who recognise and lay down before the state committing genocide against
+      them. Western leaders have long envisioned a Palestinian state only on condition
+      that it is demilitarised. Recognition this time is premised on Hamas agreeing
+      to disarm and its departure from Gaza, leaving Abbas to take on the enclave and
+      presumably continue the “sacred” mission of “cooperating” with a genocidal Israeli
+      army. As part of the price for recognition, all 22 members of the Arab League
+      publicly condemned Hamas and demanded its removal from Gaza. Boot on Gaza’s neck
+      How does all of this fit with Netanyahu’s “ground offensive”? Israel isn’t “taking
+      over” Gaza, as he claims. Its boot has been on the enclave’s neck for decades.
+      While western capitals contemplate a two-state solution, Israel is preparing a
+      final mass ethnic cleansing campaign in Gaza. Starmer’s government, for one, knew
+      this was coming. Flight data shows that the UK has been constantly operating surveillance
+      missions over Gaza on Israel’s behalf from the Royal Air Force base Akrotiri on
+      Cyprus. Downing Street has been following the enclave’s erasure step by step.
+      Netanyahu’s plan is to encircle, besiege and bomb the last remaining populated
+      areas in northern and central Gaza, and drive Palestinians towards a giant holding
+      pen – misnamed a “ humanitarian city ” – alongside the enclave’s short border
+      with Egypt. Israel will then probably employ the same contractors it has been
+      using elsewhere in Gaza to go street to street to bulldoze or blow up any surviving
+      buildings. The next stage, given the trajectory of the last two years, is not
+      difficult to predict. Locked up in their dystopian “humanitarian city”, the people
+      of Gaza will continue to be starved and bombed whenever Israel claims it has identified
+      a Hamas fighter in their midst, until Egypt or other Arab states can be persuaded
+      to take them in, as a further “humanitarian” gesture. Then, the only matter to
+      be settled will be what happens to the real estate: build some version of Trump’s
+      gleaming “Riviera” scheme, or construct another tawdry patchwork of Jewish settlements
+      of the kind envisioned by Netanyahu’s openly fascist allies, Bezalel Smotrich
+      and Itamar Ben Gvir. There is a well-established template to be drawn on, one
+      that was used in 1948 during Israel’s violent creation. Palestinians were driven
+      from their cities and villages, in what was then called Palestine, across the
+      borders into neighbouring states. The new state of Israel, backed by western powers,
+      then set about methodically destroying every home in those hundreds of villages.
+      Over subsequent years, they were landscaped either with forests or exclusive Jewish
+      communities, often engaged in farming, to make Palestinian return impossible and
+      stifle any memory of Israel’s crimes. Generations of western politicians, intellectuals
+      and cultural figures have celebrated all of this. Former British Prime Minister
+      Boris Johnson and former Austrian President Heinz Fischer are among those who
+      went to Israel in their youth to work on these farming communities. Most came
+      back as emissaries for a Jewish state built on the ruins of a Palestinian homeland.
+      An emptied Gaza can be similarly re-landscaped. But it is much harder to imagine
+      that this time the world will forget or forgive the crimes committed by Israel
+      – or those who enabled them. Please share this story and help us grow our network!
+      Jonathan Cook Jonathan Cook is a MintPress contributor. Cook won the Martha Gellhorn
+      Special Prize for Journalism. His latest books are Israel and the Clash of Civilisations:
+      Iraq, Iran and the Plan to Remake the Middle East (Pluto Press) and Disappearing
+      Palestine: Israel’s Experiments in Human Despair (Zed Books). His website is www.jonathan-cook.net
+      . Author Site Editor’s Note : A t a moment when the once vaunted model of responsible
+      journalism is overwhelmingly the play thing of self-serving billionaires and their
+      corporate scribes, alternatives of integrity are desperately needed, and ScheerPost
+      is one of them. Please support our independent journalism by contributing to our
+      online donation platform, Network for Good, or send a check to our new PO Box.
+      We can’t thank you enough, and promise to keep bringing you this kind of vital
+      news. Donate Online Send a Check You can also make a donation to our PayPal or
+      subscribe to our Patreon .'
+    one_sentence_summary: Despite growing international outrage over Israel's plans
+      to fully occupy Gaza amid ongoing famine and humanitarian crises, Western leaders
+      appear to be shifting focus rather than addressing the dire situation faced by
+      its two million residents.
+    paragraph_summary: In a critical analysis of the ongoing humanitarian crisis in
+      Gaza, Jonathan Cook highlights the alarming situation as Western leaders express
+      outrage over Israeli Prime Minister Benjamin Netanyahu's plans to take full control
+      of Gaza, which could lead to further suffering for the two million residents facing
+      extreme hunger and malnourishment. Despite international condemnation, including
+      a joint statement from foreign ministers of several Western nations warning against
+      exacerbating the humanitarian crisis, Israel's strategy appears to involve encircling
+      and depopulating Gaza City, potentially confining survivors to a so-called "humanitarian
+      city." While Germany has indicated it may suspend arms shipments to Israel, Cook
+      suggests that the U.S. is likely to intervene to support Israel, indicating a
+      continuation of the cycle of violence and neglect towards the Palestinian people.
+    published: '2025-08-14T11:11:00+00:00'
+  - title: '‘Just Tell Us What You Believe’: Buttigieg Torched Over Non-Answer on Israel-Palestine'
+    url: https://scheerpost.com/2025/08/14/just-tell-us-what-you-believe-buttigieg-torched-over-non-answer-on-israel-palestine/
+    text: 'Photo from Flickr In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Stephen Prager / Common Dreams Pete Buttigieg , one of the top contenders
+      for the Democratic presidential nomination in 2028, is facing a bevy of criticism,
+      including from his supporters, after he gave a largely incoherent answer about
+      his preferred policy towards Israel and Palestine . Over the past several weeks,
+      the genocidal nature of Israel’s actions in the Gaza Strip has become undeniable
+      to much of the world. Israeli leaders have openly discussed the goal of clearing
+      the strip of Palestinians and, to that end, have inflicted a punishing blockade
+      that has resulted in mass starvation. Though official estimates from the Gaza
+      Health Ministry put the death count around 60,000, many expert analyses have found
+      that it will have likely eclipsed 100,000 or potentially 200,000 once all indirect
+      deaths from disease and starvation are accounted for. In an interview on Pod Save
+      America, the former South Bend mayor and Biden transportation secretary was asked
+      if he would support efforts backed by a majority of Senate Democrats to halt weapons
+      sales to Israel. Buttigieg began by acknowledging that taxpayer money should not
+      be going to “things that shock the conscience,” adding that “we see images every
+      day that shock the conscience” out of Gaza. “So much of this is complicated,”
+      he continued. “But what’s not complicated is that if a child is starving because
+      of a choice made by a government, that is unconscionable.” Saying ‘so much of
+      this is complicated’ two years into the most well documented live streamed genocide
+      in history is a disqualifying answer. Both as a politician and a human being.
+      Ghouls like Pete cannot be allowed to run in 2028. https://t.co/2YFcal0zZD — Mac
+      (@GoodPoliticGuy) August 10, 2025 After this brief acknowledgment, however, Buttigieg
+      proceeded to give an answer that Gal Debored of the Quincy Institute for Responsible
+      Statecraft called “a beautiful example of sounding like you care about genocide
+      while actually saying nothing at all.” Buttigieg spent the bulk of his time discussing
+      how Israelis were being affected. He discussed the necessity of “including the
+      voices of those who care about Israel, who believe in Israel’s right to exist,
+      who have stood with Israel in response to the unbelievable cruelty and terrorism
+      of October 7th.” He said what was happening in Gaza was a “catastrophe for Israel
+      in the long run,” before describing the United States as “Israel’s strongest ally
+      and friend.” “You put your arm around your friend when there’s something like
+      this going on,” he said, “and talk about what we’re prepared to do together.”
+      William Lafi Youmans, a professor at the George Washington School of Media and
+      Public Affairs, described this as rhetorically identical to former U.S. President
+      Joe Biden’s approach to Israel. “Biden wanted to ‘bear hug’ Israel to constrain
+      it via friendship,” he said, noting that it “ended in genocide.” When asked whether
+      he’d support recognizing a Palestinian state, Buttigieg said it was “a profound
+      question that arouses a lot of the biggest problems that have happened with Israel’s
+      survival.” Zeteo founder Mehdi Hasan responded : “Answer the fricking question.”
+      Buttigieg later seemed to contradict his previous statement, saying he’d support
+      a “two-state solution” to end the conflict. J.P. Hill, the author of the Substack
+      newsletter New Means , called out Buttigieg’s unwillingness to take a clear stance.
+      “Pete Buttigieg talking about Palestine,” Hill said , “is what happens when someone
+      who wants to perfectly triangulate a middle position on every issue runs into
+      an issue where [there] is no middle ground for him to hide in.” Even Ben Rhodes,
+      a foreign policy official for former President Barack Obama and a co-host on the
+      Democrat-friendly network that produces Pod Save America , was left bewildered.
+      “Pete is a smart guy and I admire a lot of what he’s done,” Rhodes said on X .
+      “But I have absolutely no idea what he thinks based on these answers. Just tell
+      us what you believe.” These outraged comments reflect a now overwhelming dissatisfaction
+      among Democratic voters with the party’s near-unwavering devotion to Israel. In
+      a July Gallup poll, just 33% of them described themselves as having a favorable
+      view of Israel. While Buttigieg continues to find himself on the wrong side of
+      that increasingly yawning chasm of public opinion, other Democrats have become
+      much more willing to call for swift action to be taken to constrain Israel. Rep.
+      Ro Khanna (D-Calif.), another potential 2028 candidate who introduced a resolution
+      calling for the U.S. to recognize Palestinian statehood and urged his fellow Democrats
+      to support a bill that would block weapons to Israel, also denounced Buttigieg’s
+      feckless response. “I respect Pete. But we need moral clarity,” Khanna wrote on
+      X . “[President Donald] Trump AND Biden disastrously failed on Gaza, and we need
+      a new human rights-centered vision.” Please share this story and help us grow
+      our network! Stephen Prager Stephen Prager is a staff writer for Common Dreams.
+      Author Site'
+    one_sentence_summary: Pete Buttigieg is facing significant backlash, including from
+      his own supporters, for his unclear stance on Israel and Palestine amid the escalating
+      humanitarian crisis in Gaza, where the death toll is believed to be much higher
+      than official estimates suggest.
+    paragraph_summary: Pete Buttigieg, a leading candidate for the 2028 Democratic presidential
+      nomination, is facing significant backlash for his vague response regarding U.S.
+      policy on Israel and Palestine during an interview on "Pod Save America." Amid
+      escalating violence and humanitarian crises in Gaza, where the death toll is estimated
+      to be between 60,000 and potentially 200,000 due to Israeli actions, Buttigieg's
+      comments about the complexities of the situation and the need for taxpayer money
+      to avoid "shocking" actions have drawn criticism, even from his supporters. Critics
+      argue that his failure to take a clear stance against the ongoing violence and
+      suffering in Gaza is disqualifying for his political aspirations.
+    published: '2025-08-14T10:00:00+00:00'
+  - title: '‘Just Tell Us What You Believe’: Buttigieg Torched Over Non-Answer on Israel-Palestine'
+    url: https://scheerpost.com/2025/08/14/just-tell-us-what-you-believe-buttigieg-torched-over-non-answer-on-israel-palestine/
+    text: 'Photo from Flickr In one of the scariest moments in modern history, we''re
+      doing our best at ScheerPost to pierce the fog of lies that conceal it but we
+      need some help to pay our writers and staff. Please consider a tax-deductible
+      donation . By Stephen Prager / Common Dreams Pete Buttigieg , one of the top contenders
+      for the Democratic presidential nomination in 2028, is facing a bevy of criticism,
+      including from his supporters, after he gave a largely incoherent answer about
+      his preferred policy towards Israel and Palestine . Over the past several weeks,
+      the genocidal nature of Israel’s actions in the Gaza Strip has become undeniable
+      to much of the world. Israeli leaders have openly discussed the goal of clearing
+      the strip of Palestinians and, to that end, have inflicted a punishing blockade
+      that has resulted in mass starvation. Though official estimates from the Gaza
+      Health Ministry put the death count around 60,000, many expert analyses have found
+      that it will have likely eclipsed 100,000 or potentially 200,000 once all indirect
+      deaths from disease and starvation are accounted for. In an interview on Pod Save
+      America, the former South Bend mayor and Biden transportation secretary was asked
+      if he would support efforts backed by a majority of Senate Democrats to halt weapons
+      sales to Israel. Buttigieg began by acknowledging that taxpayer money should not
+      be going to “things that shock the conscience,” adding that “we see images every
+      day that shock the conscience” out of Gaza. “So much of this is complicated,”
+      he continued. “But what’s not complicated is that if a child is starving because
+      of a choice made by a government, that is unconscionable.” Saying ‘so much of
+      this is complicated’ two years into the most well documented live streamed genocide
+      in history is a disqualifying answer. Both as a politician and a human being.
+      Ghouls like Pete cannot be allowed to run in 2028. https://t.co/2YFcal0zZD — Mac
+      (@GoodPoliticGuy) August 10, 2025 After this brief acknowledgment, however, Buttigieg
+      proceeded to give an answer that Gal Debored of the Quincy Institute for Responsible
+      Statecraft called “a beautiful example of sounding like you care about genocide
+      while actually saying nothing at all.” Buttigieg spent the bulk of his time discussing
+      how Israelis were being affected. He discussed the necessity of “including the
+      voices of those who care about Israel, who believe in Israel’s right to exist,
+      who have stood with Israel in response to the unbelievable cruelty and terrorism
+      of October 7th.” He said what was happening in Gaza was a “catastrophe for Israel
+      in the long run,” before describing the United States as “Israel’s strongest ally
+      and friend.” “You put your arm around your friend when there’s something like
+      this going on,” he said, “and talk about what we’re prepared to do together.”
+      William Lafi Youmans, a professor at the George Washington School of Media and
+      Public Affairs, described this as rhetorically identical to former U.S. President
+      Joe Biden’s approach to Israel. “Biden wanted to ‘bear hug’ Israel to constrain
+      it via friendship,” he said, noting that it “ended in genocide.” When asked whether
+      he’d support recognizing a Palestinian state, Buttigieg said it was “a profound
+      question that arouses a lot of the biggest problems that have happened with Israel’s
+      survival.” Zeteo founder Mehdi Hasan responded : “Answer the fricking question.”
+      Buttigieg later seemed to contradict his previous statement, saying he’d support
+      a “two-state solution” to end the conflict. J.P. Hill, the author of the Substack
+      newsletter New Means , called out Buttigieg’s unwillingness to take a clear stance.
+      “Pete Buttigieg talking about Palestine,” Hill said , “is what happens when someone
+      who wants to perfectly triangulate a middle position on every issue runs into
+      an issue where [there] is no middle ground for him to hide in.” Even Ben Rhodes,
+      a foreign policy official for former President Barack Obama and a co-host on the
+      Democrat-friendly network that produces Pod Save America , was left bewildered.
+      “Pete is a smart guy and I admire a lot of what he’s done,” Rhodes said on X .
+      “But I have absolutely no idea what he thinks based on these answers. Just tell
+      us what you believe.” These outraged comments reflect a now overwhelming dissatisfaction
+      among Democratic voters with the party’s near-unwavering devotion to Israel. In
+      a July Gallup poll, just 33% of them described themselves as having a favorable
+      view of Israel. While Buttigieg continues to find himself on the wrong side of
+      that increasingly yawning chasm of public opinion, other Democrats have become
+      much more willing to call for swift action to be taken to constrain Israel. Rep.
+      Ro Khanna (D-Calif.), another potential 2028 candidate who introduced a resolution
+      calling for the U.S. to recognize Palestinian statehood and urged his fellow Democrats
+      to support a bill that would block weapons to Israel, also denounced Buttigieg’s
+      feckless response. “I respect Pete. But we need moral clarity,” Khanna wrote on
+      X . “[President Donald] Trump AND Biden disastrously failed on Gaza, and we need
+      a new human rights-centered vision.” Please share this story and help us grow
+      our network! Stephen Prager Stephen Prager is a staff writer for Common Dreams.
+      Author Site'
+    one_sentence_summary: Pete Buttigieg is facing significant backlash, including from
+      his own supporters, for his unclear stance on Israel and Palestine amid the escalating
+      humanitarian crisis in Gaza, where the death toll is believed to be much higher
+      than official estimates suggest.
+    paragraph_summary: Pete Buttigieg, a leading candidate for the 2028 Democratic presidential
+      nomination, is facing significant backlash for his vague response regarding U.S.
+      policy on Israel and Palestine during an interview on "Pod Save America." Amid
+      escalating violence and humanitarian crises in Gaza, where the death toll is estimated
+      to be between 60,000 and potentially 200,000 due to Israeli actions, Buttigieg's
+      comments about the complexities of the situation and the need for taxpayer money
+      to avoid "shocking" actions have drawn criticism, even from his supporters. Critics
+      argue that his failure to take a clear stance against the ongoing violence and
+      suffering in Gaza is disqualifying for his political aspirations.
+    published: '2025-08-14T10:00:00+00:00'
+  - title: The Shame And The Pain
+    url: https://scheerpost.com/2025/08/14/the-shame-and-the-pain/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By MJ Rosenberg
+      / Substack A prominent historian is working on a book about AIPAC and interviewed
+      me. Although they’re fairly mainstream, it was clear from their questions that
+      this will be an exposé focused heavily on AIPAC’s interference in U.S. elections,
+      beginning in the late 1990s. I told them everything I knew. My memories from that
+      era come not from working at AIPAC—which I did from 1982 to 1986—but from my time
+      on Capitol Hill, where I dealt with them regularly as a staffer. Although even
+      during my time there, I witnessed them arranging the shipment of cash deliveries
+      to favored candidates, that was nothing compared to the $1.6 million they give
+      to House Democratic Leader Hakeem Jeffries alone now! (In case you are wondering
+      why the #1 Democrat in Congress refuses to endorse Zohran Mamdani, the Democratic
+      nominee for mayor of his own city). I won’t go into what I said. Anyone who reads
+      my Substack already knows what I think: that AIPAC’s existence has inflicted incalculable
+      harm on the United States, on American Jews, on Israel’s long-term survival as
+      a Jewish homeland, and on Judaism. I didn’t even need to mention the damage—”harm”
+      is too soft a word—done to the Palestinian people. AIPAC is not merely complicit
+      in genocide; if AIPAC did not exist Joe Biden would have stopped it before it
+      started, not because he isn’t a true-blue Israel lover but because (I think) even
+      for him, genocide is a bridge too far. He could have ended it with a single phone
+      call, the way President Reagan ended the bombing of Beirut. (PLEASE read Reagan’s
+      diary entry here. ) I also made clear that I didn’t always feel this way. I left
+      AIPAC amicably in 1986. I was the most dovish person on staff, but I didn’t leave
+      in protest. I left simply for another job. It was 10 years before I realized what
+      AIPAC was, but it was another four years before I came to understand what Israel
+      is. That was in 2000 when Prime Minister Ehud Barak sabotaged the Oslo peace process
+      that Yitzhak Rabin had launched. Instead of following through with a withdrawal
+      from the West Bank, Gaza, and East Jerusalem in exchange for peace and normalization,
+      Barak offered noncontiguous slices of land that could never constitute anything
+      remotely like a Palestinian state. Cheering him on was the U.S. “peace team,”
+      led by Dennis Ross, a fervent Zionist, who worked hand in glove with their Israeli
+      counterparts. The Palestinians—who naively thought they were negotiating with
+      the Israelis, with the US serving as mediators—sensed, and then saw the evidence,
+      that they were negotiating with a combined US-Israel team. One team: all Zionists.
+      In fact, President Clinton had privately assured Barak that if the summit failed,
+      he’d pin the blame on the Palestinians no matter who was responsible. He kept
+      that promise—and later came to regret it. That’s when I began to reexamine everything
+      I thought I knew about Israel. That process hasn’t stopped. Today, I support a
+      single democratic state for all the people of Israel and Palestine—equal rights,
+      no state religion but freedom of religion or no religion for all, security guaranteed
+      by an international force like NATO. None of this will surprise anyone who reads
+      me. But during the interview, the historian asked a question that caught me off
+      guard. He said he found my career interesting—he was impressed I’d discussed the
+      Middle East and AIPAC with every Democratic president since Carter—and wanted
+      to know which part of my career I was most proud of. I gave a modest but truthful
+      answer because the truth is, I never held any power. I was never important but
+      had some influence at the margins—nothing more. But I told him honestly: this
+      is the part of my career I’m proudest of. I’m retired. No one pays me a salary.
+      I don’t “do meetings” on the Hill or the White House. I’m just proud that I was
+      smart enough to recognize that what I’d believed for most of my life was propaganda,
+      grounded in ethnic identity, not facts. The Six-Day War made me a Zionist. I stayed
+      one for 33 years. Then it ended. I’ve been to Israel dozens of times. I loved
+      Tel Aviv. But I doubt I’ll ever go back—unless, by some miracle, Israel becomes
+      a real democracy for both peoples. At 77, I don’t expect to see that. Nor, I expect,
+      will anyone else. These are terrible times. My own country has been captured by
+      a racist, fascist clique—a nonmilitary junta. And Israel, a country I once loved,
+      has become an international pariah, deservedly so, for its genocidal war in Gaza
+      and 58 years of occupation in the West Bank. Judaism—for thousands of years a
+      light in a dark world—has been stained by the crimes committed in its name, and
+      in the name of the Jewish people. And yet, it will survive and flourish. As most
+      Jews outside the (10%) Orthodox minority turn away from Israel, many—especially
+      the young—are rediscovering the richness of Jewish culture and faith on their
+      own terms. I myself have one source of peace, besides family and friends: I woke
+      up in time. I saw through the lies. And I’ve raised my small voice against one
+      of the great crimes of any century—the destruction of Palestine. Feeling good
+      about oneself at this age is no small thing. The truth does set you free. But
+      it does nothing to ease the shame and the pain. Please share this story and help
+      us grow our network! MJ Rosenberg During a long career in Washington, M.J. Rosenberg
+      worked as a Senate and House aide, at the State Department, at the American Israel
+      Public Affairs Committee (AIPAC), at Israel Policy Forum, and at Media Matters
+      For America. Author Site'
+    one_sentence_summary: A historian is writing an exposé on AIPAC's significant influence
+      in U.S. elections since the late 1990s, drawing on insights from former staffers,
+      including accounts of financial contributions to political candidates.
+    paragraph_summary: In a recent article, MJ Rosenberg discusses his insights from
+      an interview with a historian writing an exposé on AIPAC, focusing on its significant
+      influence in U.S. elections since the late 1990s. Rosenberg, who worked at AIPAC
+      from 1982 to 1986 and later on Capitol Hill, reflects on the organization's financial
+      contributions to political figures, including a staggering $1.6 million to House
+      Democratic Leader Hakeem Jeffries. He argues that AIPAC has caused profound harm
+      not only to the U.S. and American Jews but also to Israel's future and the Palestinian
+      people, suggesting that its existence has perpetuated violence and genocide. While
+      he acknowledges his past support for AIPAC, he now believes that its influence
+      has detrimental effects that could have been mitigated by political leaders like
+      President Biden.
+    published: '2025-08-14T09:00:00+00:00'
+  - title: The Shame And The Pain
+    url: https://scheerpost.com/2025/08/14/the-shame-and-the-pain/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By MJ Rosenberg
+      / Substack A prominent historian is working on a book about AIPAC and interviewed
+      me. Although they’re fairly mainstream, it was clear from their questions that
+      this will be an exposé focused heavily on AIPAC’s interference in U.S. elections,
+      beginning in the late 1990s. I told them everything I knew. My memories from that
+      era come not from working at AIPAC—which I did from 1982 to 1986—but from my time
+      on Capitol Hill, where I dealt with them regularly as a staffer. Although even
+      during my time there, I witnessed them arranging the shipment of cash deliveries
+      to favored candidates, that was nothing compared to the $1.6 million they give
+      to House Democratic Leader Hakeem Jeffries alone now! (In case you are wondering
+      why the #1 Democrat in Congress refuses to endorse Zohran Mamdani, the Democratic
+      nominee for mayor of his own city). I won’t go into what I said. Anyone who reads
+      my Substack already knows what I think: that AIPAC’s existence has inflicted incalculable
+      harm on the United States, on American Jews, on Israel’s long-term survival as
+      a Jewish homeland, and on Judaism. I didn’t even need to mention the damage—”harm”
+      is too soft a word—done to the Palestinian people. AIPAC is not merely complicit
+      in genocide; if AIPAC did not exist Joe Biden would have stopped it before it
+      started, not because he isn’t a true-blue Israel lover but because (I think) even
+      for him, genocide is a bridge too far. He could have ended it with a single phone
+      call, the way President Reagan ended the bombing of Beirut. (PLEASE read Reagan’s
+      diary entry here. ) I also made clear that I didn’t always feel this way. I left
+      AIPAC amicably in 1986. I was the most dovish person on staff, but I didn’t leave
+      in protest. I left simply for another job. It was 10 years before I realized what
+      AIPAC was, but it was another four years before I came to understand what Israel
+      is. That was in 2000 when Prime Minister Ehud Barak sabotaged the Oslo peace process
+      that Yitzhak Rabin had launched. Instead of following through with a withdrawal
+      from the West Bank, Gaza, and East Jerusalem in exchange for peace and normalization,
+      Barak offered noncontiguous slices of land that could never constitute anything
+      remotely like a Palestinian state. Cheering him on was the U.S. “peace team,”
+      led by Dennis Ross, a fervent Zionist, who worked hand in glove with their Israeli
+      counterparts. The Palestinians—who naively thought they were negotiating with
+      the Israelis, with the US serving as mediators—sensed, and then saw the evidence,
+      that they were negotiating with a combined US-Israel team. One team: all Zionists.
+      In fact, President Clinton had privately assured Barak that if the summit failed,
+      he’d pin the blame on the Palestinians no matter who was responsible. He kept
+      that promise—and later came to regret it. That’s when I began to reexamine everything
+      I thought I knew about Israel. That process hasn’t stopped. Today, I support a
+      single democratic state for all the people of Israel and Palestine—equal rights,
+      no state religion but freedom of religion or no religion for all, security guaranteed
+      by an international force like NATO. None of this will surprise anyone who reads
+      me. But during the interview, the historian asked a question that caught me off
+      guard. He said he found my career interesting—he was impressed I’d discussed the
+      Middle East and AIPAC with every Democratic president since Carter—and wanted
+      to know which part of my career I was most proud of. I gave a modest but truthful
+      answer because the truth is, I never held any power. I was never important but
+      had some influence at the margins—nothing more. But I told him honestly: this
+      is the part of my career I’m proudest of. I’m retired. No one pays me a salary.
+      I don’t “do meetings” on the Hill or the White House. I’m just proud that I was
+      smart enough to recognize that what I’d believed for most of my life was propaganda,
+      grounded in ethnic identity, not facts. The Six-Day War made me a Zionist. I stayed
+      one for 33 years. Then it ended. I’ve been to Israel dozens of times. I loved
+      Tel Aviv. But I doubt I’ll ever go back—unless, by some miracle, Israel becomes
+      a real democracy for both peoples. At 77, I don’t expect to see that. Nor, I expect,
+      will anyone else. These are terrible times. My own country has been captured by
+      a racist, fascist clique—a nonmilitary junta. And Israel, a country I once loved,
+      has become an international pariah, deservedly so, for its genocidal war in Gaza
+      and 58 years of occupation in the West Bank. Judaism—for thousands of years a
+      light in a dark world—has been stained by the crimes committed in its name, and
+      in the name of the Jewish people. And yet, it will survive and flourish. As most
+      Jews outside the (10%) Orthodox minority turn away from Israel, many—especially
+      the young—are rediscovering the richness of Jewish culture and faith on their
+      own terms. I myself have one source of peace, besides family and friends: I woke
+      up in time. I saw through the lies. And I’ve raised my small voice against one
+      of the great crimes of any century—the destruction of Palestine. Feeling good
+      about oneself at this age is no small thing. The truth does set you free. But
+      it does nothing to ease the shame and the pain. Please share this story and help
+      us grow our network! MJ Rosenberg During a long career in Washington, M.J. Rosenberg
+      worked as a Senate and House aide, at the State Department, at the American Israel
+      Public Affairs Committee (AIPAC), at Israel Policy Forum, and at Media Matters
+      For America. Author Site'
+    one_sentence_summary: A historian is writing an exposé on AIPAC's significant influence
+      in U.S. elections since the late 1990s, drawing on insights from former staffers,
+      including accounts of financial contributions to political candidates.
+    paragraph_summary: In a recent article, MJ Rosenberg discusses his insights from
+      an interview with a historian writing an exposé on AIPAC, focusing on its significant
+      influence in U.S. elections since the late 1990s. Rosenberg, who worked at AIPAC
+      from 1982 to 1986 and later on Capitol Hill, reflects on the organization's financial
+      contributions to political figures, including a staggering $1.6 million to House
+      Democratic Leader Hakeem Jeffries. He argues that AIPAC has caused profound harm
+      not only to the U.S. and American Jews but also to Israel's future and the Palestinian
+      people, suggesting that its existence has perpetuated violence and genocide. While
+      he acknowledges his past support for AIPAC, he now believes that its influence
+      has detrimental effects that could have been mitigated by political leaders like
+      President Biden.
+    published: '2025-08-14T09:00:00+00:00'
+  - title: When Religious Mafia & Rightwing Extremists Take Over (w/ Rollo Romig) |
+      The Chris Hedges Report
+    url: https://scheerpost.com/2025/08/13/when-religious-mafia-rightwing-extremists-take-over-w-rollo-romig-the-chris-hedges-report/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Chris
+      Hedges / The Chris Hedges Report This interview is also available on podcast platforms
+      and Rumble . One of the most stark examples of the expanding tide of authoritarianism
+      worldwide was the 2017 murder of Gauri Lankesh, an Indian journalist and activist,
+      allegedly assassinated by a far-right religious group in India for her fearless
+      journalism. Joining host Chris Hedges on this episode of The Chris Hedges Report
+      is Rollo Romig, a journalist whose Pulitzer Prize-finalist book, I Am On the Hit
+      List: A Journalist’s Murder and the Ruse of Autocracy in India , examines the
+      historic and political context of Lankesh’s murder. Romig chronicles the rise
+      of Hindu nationalist extremism in India, linking it to India’s current authoritarian
+      policies under Narendra Modi and his Bharatiya Janata Party (BJP). The group accused
+      of Lankesh’s assassination, Sanatan Sanstha, operates on the vision “of making
+      India an officially Hindu country and, equally importantly, relegating all non-Hindus
+      to second-class citizenship and ostracizing, particularly, Muslims from Hindu
+      society,” according to Romig. Much like in the United States, Romig and Hedges
+      argue that such fringe groups serve a strategic purpose of mainstreaming extremist
+      ideologies that ultimately benefit the ruling class. Gauri’s work represented
+      a threat to far-right political movements in India and she was often subjected
+      to fierce intimidation campaigns, including, as the title of Romig’s book suggests,
+      being placed on murder hit lists. NOTE TO SCHEERPOST READERS FROM CHRIS HEDGES:
+      There is now no way left for me to continue to write a weekly column for ScheerPost
+      and produce my weekly television show without your help. The walls are closing
+      in, with startling rapidity, on independent journalism , with the elites, including
+      the Democratic Party elites, clamoring for more and more censorship. Bob Scheer,
+      who runs ScheerPost on a shoestring budget, and I will not waver in our commitment
+      to independent and honest journalism, and we will never put ScheerPost behind
+      a paywall, charge a subscription for it, sell your data or accept advertising.
+      Please, if you can, sign up at chrishedges.substack.com so I can continue to post
+      my now weekly Monday column on ScheerPost and produce my weekly television show,
+      The Chris Hedges Report. Host Chris Hedges Producer: Max Jones Intro: Diego Ramos
+      Crew: Diego Ramos, Sofia Menemenlis and Thomas Hedges Transcript: Diego Ramos
+      Transcript Transcript Chris Hedges The rise of authoritarian regimes has made
+      the work of journalists, or at least those journalists who still believe it is
+      our job to hold the powerful to account, deadlier and deadlier. One of the journalistic
+      legends we lost is Gauri Lankesh, the editor and publisher of a Bangalore weekly,
+      The Gauri Lankesh Patrike. She was a fierce and uncompromising critic of Prime
+      Minister Narendra Modi and his ruling BJP party (Bharatiya Janata Party). Her
+      defiance, although her publication did not have a wide audience and was written
+      in the local dialect, saw her assassinated in September 2017 outside her home.
+      These regimes seek to stamp out the truth, even when it smolders on the far edges
+      of the media landscape. Those who will not be cowed and intimidated are silenced,
+      either by prison or assassination. India is one of the world’s most dangerous
+      countries to be a reporter. Two to three journalists a year are killed. Journalists
+      are smeared in well-orchestrated campaigns of character assassination by state-controlled
+      media as traitors and enemies of Hinduism. The government regularly shuts down
+      social media, television stations, and newspapers, especially in places like Kashmir.
+      Reporters’ phones are tapped. They are harassed in big and small ways, including
+      being denied hotel rooms, hit with lawsuits and receiving constant death threats.
+      The ruling BJP is allied with some 30 far-right Hindu groups who subscribe to
+      the virulent brand of Hindu nationalism. These groups carry out lynchings, bombings,
+      mob attacks, rape, dismemberment, incarceration, and hanging to silence opponents
+      and terrorize Muslims. According to the 2024 Press Freedom Index compiled by Reporters
+      Without Borders, India ranked 151st out of 180 countries. The United States is
+      ranked 57th. Gauri’s assassination ignited protests and vigils throughout India.
+      Posters and giant, colorful puppets proclaimed “I am Gauri.” None of these tactics
+      are confined, however, to India. They are the familiar methods employed by all
+      authoritarian regimes, including the emergent authoritarianism in the United States.
+      Joining me to discuss the life and work of Gauri Lankesh and its ramification
+      for India, and for us, is Rollo Romig. He manages the Solutions Insights Lab at
+      Solutions Journalism Network. His book on Gauri, I Am On the Hit List: A Journalist’s
+      Murder and the Ruse of Autocracy in India , was a finalist for the Pulitzer Prize,
+      General Nonfiction, in 2025. So this story is, which I think the power of the
+      book is that you just peel back every layer of the onion to get to all of the
+      internal mechanisms that go into the reconfiguring of Indian democracy into an
+      authoritarian or an ethno-nationalist Hindu state. And boy, it just resonates
+      with everything that’s happening in the United States. Let’s just lay out who
+      Gauri was, what made her so unique aside from her deep integrity and courage and
+      what she was up against. There was one point in the book where you were talking
+      about or you were quoting her and she talked about her love of multiculturalism
+      and pluralism, all of the things that go to create a functioning society, open
+      society, all of which of course we are now seeing taken from us. But just, for
+      those who haven’t read the book, talk about her and talk about what she did and
+      why she was so unique. Rollo Romig Yeah, thanks Chris. I really felt she was an
+      extraordinary person. It was a privilege to be able to spend so much time immersed
+      in her life. And it’s interesting because as you noted, her platform was actually
+      pretty small. Her newspaper had a small circulation. She was really struggling
+      by the end of her life. Journalists everywhere are struggling to keep their publications
+      afloat. And even in the weeks right before she was killed, she thought she was
+      probably going to have to close her paper permanently. So that was immediately
+      a really interesting question to me, that there was such an incredible outpouring,
+      especially in Bangalore, her home city, in response to her murder, even though
+      the thing that she was most noted for, doing journalism, had become increasingly
+      a struggle for her to even continue doing. And one thing I really realized as
+      I looked into it wasn’t just that tens of thousands of people came out in the
+      streets of Bangalore after she was murdered. It was the incredible variety of
+      people who came out. People from every religious group, people from every walk
+      of life, from street sweepers to students to trans people. And she seemed to have
+      touched all these different groups. It was, to a degree, a surprise to even her
+      closest friends and family. And that was really interesting to me. And what I
+      eventually learned about her was I think such an important lesson for extraordinary
+      people in general that often we misidentify their talents or what’s most significant
+      about them. And of course since her job title was journalist, there’s this assumption
+      especially in the international coverage of her murder that what was most notable
+      about her was that she was a journalist and that she was maybe one of India’s
+      biggest journalists. Of course her role as a journalist was incredibly important,
+      but that was just one thing. First of all, she increasingly saw herself as a journalist
+      activist. Or even at the end of her life, she kind of flipped the equation. She
+      described herself as an activist journalist. And she increasingly saw her journalism
+      as in service to her activism, primarily on a number of issues, but especially
+      as you note this idea of defending a pluralist India. It’s an incredibly diverse
+      country, not least religiously, and the erosion of this pluralism, the attacks
+      on this pluralism really unnerved her and worried her. And so she really focused
+      on that by the end of her life as an activist and a journalist. It was a real
+      shift for her because she started her career as a much more conventional journalist,
+      working for big national English language papers. Doing solid work but in a pretty
+      like you know traditional approach striving for neutrality keeping her political
+      opinions to herself. She really came to a band in that position completely by
+      the end of her life and we’re really radicalized her was, maybe more than anything,
+      was that she shifted to writing in her local language, Kannada, which really put
+      her… You know, I’ve heard Indian journalists say before when you’re writing in
+      English, you don’t know who your audience is. It could be anyone around the world.
+      It’s this amorphous audience. When you’re writing in a specific local language
+      in India, you know exactly who your audience is, and you’re directly in conversation
+      with them, and they’re directly in conversation with you in return. That makes
+      you especially dangerous, though. And it’s no accident that nearly all of the
+      journalists, the many journalists who’ve been killed in India over the decades,
+      have been journalists writing in languages other than English. Chris Hedges I
+      just want to interrupt you there because I found that a fascinating point because
+      we have to remember that the BJP controls all of the major media platforms, including,
+      of course, the electronic media. So they saturate the media landscape. And I mean,
+      I didn’t know this until I read your book. And yet the people they obviously fear
+      the most are these figures like Gauri. Why? Rollo Romig Well, you’re right that
+      they have enormous control over the national media and they exert pressure in
+      every way that you can imagine. And you give a long list of the ways that they
+      mention that’s not even, it goes on, you know, tax raids on newsrooms who go against
+      the ruling party line, terrorism charges against specific journalists, especially
+      if they’re Muslim. I mean, even Arundhati Roy, one of India’s most internationally
+      famous novelists, has a terrorism case against her for something she said in a
+      speech over ten years ago. No one seriously believes that Arundhati Roy is guilty
+      of terrorism. The illogic of it is part of the point, you know? But yeah, so they
+      have enormous control, enormous sway over the big national publications, particularly
+      in Hindi, which is the biggest language in India, but not even a majority language
+      in India. There’s so many big languages in India. But they can’t control everyone.
+      It’s too big, it’s too diverse, there’s too much dissent, you know? So it’s impossible
+      for them to keep everyone down. And then these local journalists are in much more
+      direct contact with not just their readers, but with the local problems that are
+      happening on the ground and actually have a chance… I mean, this is just a lesson
+      for all of us everywhere. It’s the local journalists that have a lot more of an
+      ability to affect change actually in an immediate way. We all, in these big countries,
+      India and the U.S,. we all tend to be so much more focused on national politics,
+      national media, national news stories. But where do things actually make a difference?
+      So often this engagement of things on, this obsession with things on a national
+      level leaves us feeling completely impotent. When actually the areas in which
+      we can actually affect change and where we can see change happen is in our local
+      level. And that’s where, I mean, you know, I’ll tell you for myself personally,
+      just getting more engaged in local politics is just giving me life right now.
+      It’s saving me from despair of just my complete impotence in the face of all these
+      horrors that we’re seeing on the national level. And that’s where you keep the
+      flame alive is in these local struggles. So they recognize this. Chris Hedges
+      But it’s interesting that these monolithic forces will target people within the
+      media landscape, and as you said, her paper was, I mean, she didn’t have much
+      reach. She was writing in a fairly obscure dialect. And yet they were terrified
+      of her. Rollo Romig Yeah. And it’s interesting because there’s this whole… So
+      the people who seem to have killed her, the trial’s ongoing because the trial
+      actually started three years ago, but the Indian justice system is incredibly
+      slow. And the lawyers for the defense have been using every tactic possible to
+      slow things down. If you’re determined to slow a trial down, it’s actually very
+      easy to do so in India. There are many ways of doing it. Chris Hedges I think
+      in the book you quote somebody who says a good lawyer can keep this going for
+      10, 15 years, the trial. Rollo Romig Exactly. So we’ll see how long it takes.
+      I mean the murder happened in 2017. The police arrested so far a total of 17 men
+      for conspiring to kill Gauri, mostly in 2018. That’s seven years ago. This trial
+      is trying to get through hundreds of witnesses. In this, over seven years, many
+      have forgotten what they knew. Many have turned hostile under pressure. But all
+      these men who have been accused of conspiring to kill Gauri were associated in
+      one way or another with this fringe religious group called Sanatan Sanstha. They’re
+      based in Goa, this ashram out of Goa. They’re led by this guru who’s very reclusive,
+      hasn’t been seen publicly in decades. And they’re not officially a part of the
+      government but they are very politically aligned with the government. They’ve
+      got the same political program as the BJP government, which is this program, as
+      you mentioned, Hindutva, and specifically this question of a Hindu Rashtra, which
+      just means Hindu nation. This idea, basically, of making India an officially Hindu
+      country and, equally importantly, relegating all non-Hindus to second-class citizenship
+      and ostracizing, particularly, Muslims from Hindu society. And they’re very much
+      in line with the BJP in this program. The BJP has actually made a lot of progress
+      with that agenda. And it’s one of these things, we see this same dynamic here
+      in the U.S. with so-called fringe groups in relation to the kind of Republican
+      establishment and its whole constellation of organizations, think tanks, et cetera.
+      These fringe groups say outrageous things, they do outrageous things but they’re
+      pushing the window of what’s acceptable to say. And then the kind of conventional
+      parties are able to embrace them or distance themselves from these fringe groups
+      depending on how the wind is blowing politically. Narendra Modi, this group, Sanatan
+      Sanstha, that’s been associated with not just this murder, but a series of murders,
+      a series of four murders of writers, as well as a long series of terrorist bombings
+      particularly of movies and plays that they disagreed with that they found offensive
+      for one way or another. Narendra Modi actually sent a letter of congratulation
+      to their yearly convention about 10 years ago and his regrets that he couldn’t
+      make it in his support for their cause. So we see that here with all these groups.
+      You see [Donald] Trump’s whole dance with these white supremacists, embracing
+      them, distancing himself from them. It’s all part of the program. Chris Hedges
+      You raise a really important point. You talk at one point in the book about the
+      traditional mafia in India and how they were much easier to break until the mafia
+      became religious, which is of course what you’re describing and what we are experiencing
+      here, because it’s not just the rhetoric they push, but it’s acts of violence.
+      And you know, I don’t want to draw too many parallels to the early years of Nazism,
+      but that’s the role of the Brownshirts. So if you look closely, Hitler, when he
+      was chancellor, kept distancing himself and even at a certain point condemning
+      actions of the Brownshirts, but the Brownshirts, the Nazi militia which had three
+      million members, was doing precisely what you just said. They kept pushing the
+      boundaries, pushing the boundaries in the service of this radical agenda that
+      was embraced by the fascists or is embraced by Modi. So let’s just talk a little
+      bit about that transformation of the underworld because these people come out
+      of the underworld. That’s the interesting thing. And I covered Al-Qaeda for the
+      New York Times. And the traditional profile of an Al-Qaeda member was that they
+      were a criminal. They came out of the criminal class. They didn’t come out of
+      religious households. They weren’t raised in strict Muslim households. Rollo Romig
+      They’re largely ignorant of religion. Chris Hedges They’re largely ignorant of
+      religion. And having written a book on the Christian right, American Fascists:
+      The Christian Right and the War On America , and being a divinity school graduate,
+      the same is true here and the same is true in India, which is the point that you
+      make in the book. So talk about that. Rollo Romig Yeah, that’s exactly right.
+      So there’s a strong religious motivation among these men who conspired to assassinate
+      Gauri. But these are men who are hungry for instruction in religion and hungry
+      for instruction in life. These guys weren’t scholars. They were waiting to be
+      told by people who supposedly knew better what the scriptures say and importantly
+      how to interpret the scriptures. So, this guru who I referred to, Jayant Balaji,
+      who’s this reclusive guru of this group, he… and by the way, he’s completely been
+      untouched by this. You know, he’s been investigated pretty lackadaisically a few
+      times over the years. Never been charged with anything. Chris Hedges Let me just
+      interrupt you because wasn’t there, I think I have this right, there was like
+      a flood or a rainstorm. And in the neighboring field, they found like thousands
+      of used condoms that had washed down out of his compound. Rollo Romig That’s right.
+      Exactly. And then there was another time that, I’m glad they’re enjoying themselves,
+      but it kind of, it indicates… Chris Hedges Well, probably at the expense of a
+      lot of women. Rollo Romig Well right and it indicates this kind of cult-like environment
+      in this place, they’ve often been described as a cult. I’m no expert on cults
+      but the Sanatan Sanstha actually fits a lot of the hallmarks. And one of the few
+      times that the ashram was actually raided after one of these bombings that they
+      were associated with, they found enormous quantities of psychotropic drugs on
+      the premises. Many people have noted that before he became a guru, he was a trained
+      hypnotherapist. So you could use your imagination there on how that works. And
+      they’re often, when people join the group, and especially when they join the ashram,
+      they’re strongly encouraged to distance themselves from their families. Chris
+      Hedges That’s true with all cults. And the Christian right does the same thing,
+      by the way. Rollo Romig That’s true, all those hallmarks. Sorry, I forget where
+      I was going with that, with the initial question. Chris Hedges Well, we were talking
+      about the religious, you know, these people who essentially present themselves
+      as religious jihadists. Actually, they tend not to come out of a strong religious
+      tradition. They tend to come out of the criminal class. And then you were talking
+      about how they are essentially indoctrinated. And just to make the correlation
+      with the Christian right having spent a lot of time with them as soon as they
+      knew I was a divinity school graduate, they never wanted to speak about the Bible,
+      and I think this is the point you make in your book, because they don’t know the
+      Bible. They know those particular passages or lines that they have been fed to
+      bolster their ideological orientation but it’s a very selective kind of literacy
+      and I think that’s the point you’re making too. Rollo Romig Yeah, absolutely.
+      And so that was part of the program too, in this ashram. One of the members who
+      got out of the ashram, and one of few people who’s actually spoken publicly about
+      getting out of that situation, said that they were actually strongly discouraged
+      from reading Hindu scriptures at all. And you can see why. That they were only
+      supposed to read the guru’s interpretations of the scriptures. And he actually
+      wrote a book that several of the conspirators were found in possession of, that
+      is… It’s an outrageous book. It’s actually written in English, so there’s no loss
+      in translation. I’ve read the book. And it is a manual for murder in the name
+      of murder. It’s as direct as you possibly could imagine. It’s a program for identifying
+      suspects to kill and how to go about shooting them. And he repeatedly says things
+      like, you may think I’m speaking metaphorically here. I’m not. I’m talking about
+      literally killing people. And yet he still remains untouched. So this is how he’s
+      interpreting the scriptures. So yeah, and this is interpreting things like the
+      Mahabharata, which is one of the great Hindu epics, one of the great works of
+      literature from human history. And it’s, of course, about a war. And most Hindu
+      teachers are going to tell you that this is metaphorical, you know. It’s not about
+      literally killing people. It’s about internal struggles and so on. But of course
+      his interpretation is always about literal violence in defense of the religion.
+      And it’s interesting, like what you say about the kind of ignorance of the religion
+      among a lot of these people who are even willing to go so far as to kill in the
+      name of their religion, that one of the things that seems to agitate this group
+      the most is when they perceived blasphemy on the part of various speakers, including
+      Gauri. Like, it seemed like really motivated them to kill Gauri was the sense
+      that she had blasphemed Hinduism. There’s actually no concept of blasphemy in
+      Hinduism until incredibly recently. Have any Hindus talked about blasphemy? It’s
+      a concept from the Abrahamic tradition. And so you see this thing also where,
+      like, Hindutva’s greatest enemy is Islam. But in their, I don’t know what it is,
+      in their obsession with Islam, they’re increasingly mimicking what they see in
+      Islam and borrowing concepts from Islam and codifying their religion into a more
+      Abrahamic and in many ways more Islamic form. Chris Hedges Yeah and she held up
+      these multicultural events where nuns were doing, it’s in your book, Hindu dances.
+      And at one point she said she wants to go visit friends and get a good plate of
+      beef, which, of course, Hindus are not supposed to eat beef. Rollo Romig Right.
+      Although there’s a lot of disagreement even among Hindus on that point, you know?
+      Chris Hedges Yes, there you go. But I want to talk about social media. So you
+      have these assassins who come out of this kind of fringe group that, of course,
+      is tolerated and sanctioned by the BJP for the reasons we talked about. But social
+      media plays a big role in demonizing her and demonizing those who are seen as
+      opponents of Hindu nationalism. Rollo Romig Absolutely. So there are very targeted,
+      very ugly social media campaigns against any critics of the government. And you
+      mentioned how Indian journalists are often targeted very directly in kind of like
+      state-controlled media. Another thing that happens is they actually have a troll
+      army employed by the government, they euphemistically refer to it as the IT cell.
+      Chris Hedges That’s what the Israelis do, by the way. Rollo Romig Yeah, so they
+      have a whole bureau that’s devoted to trolling critics on the internet and on
+      social media in the ugliest terms imaginable. And of course they’re particularly
+      ugly in the way that they go after women journalists with rape threats. Some of
+      these things we don’t know the origin of them, but you know Muslim women journalists
+      come in for just unbelievably ugly… Trolling isn’t even the word for it. I mean
+      they’re having their faces pasted by AI [artificial intelligence] onto pornography
+      clips and circulated. They’re holding mock auctions for their right to rape Muslim
+      women journalists. It’s just as ugly as you can possibly imagine, and many of
+      this is actually orchestrated directly by the government. And Gauri was, of course,
+      a constant subject of these kinds of attacks on social media. Nonetheless, she
+      was a devoted social media user. She was such a true believer, even as she despaired
+      of the fascist direction that her country had gone in, and knew better than anyone
+      how ugly and violent things had gotten, she was still a true believer in that
+      just dialogue could get through to people. So she would actually respond to her
+      trolls and invite them out for coffee, you know, to have a conversation. They
+      never took her up on it, but this kind of spoke to just her belief that she wouldn’t
+      hold a grudge even against someone who’d kind of verbally assaulted her. Chris
+      Hedges She was Hindu. I mean, and one of the things I learned covering war is
+      that the first people who are assassinated, this is certainly true in the war
+      in Bosnia, by for instance the Serbs, or in this case the Croats, were not the
+      Muslims on the other side of town because they wanted to essentially create a
+      kind of parallel radicalism or fanaticism. It was those within their own community,
+      like Gauri, who insisted on building bridges with demonized communities. Those
+      were the first people to be killed. Rollo Romig That’s 100% correct. And so when
+      these guys were putting together a hit list, and by the way the title of the book
+      is I Am On The Hit List , this is actually a quote from Gauri. This was a joke
+      that she would make. She and her friends figured there was an assassination list
+      because there were writers being assassinated by similar patterns. And they would
+      kind of calculate with gallows humor who might be next and she would jokingly
+      say I am on the hit list. Unfortunately she was correct both that she was on the
+      list and that there was, there were these literal lists. But when they were putting
+      together these lists, the police found that different members of the conspiracy
+      would propose possible targets. And the leaders said, no, don’t include Muslims,
+      don’t include communists. What we’re after is Hindus. We’re after Hindu traitors
+      is our first target for exactly the reasons that you’re saying. It’s interesting
+      though, the question of whether Gauri was a Hindu is kind of an open question.
+      She would have said no. She was an atheist, first of all. But she came out of
+      this tradition, just because of how complex India is, she was a Lingayat. Her
+      family came from this Lingayat background, and the Lingayat community is very
+      divided over whether they are Hindus or not. This was a really hot political topic
+      at the moment that she was killed, too. And she was agitating for the idea that
+      Lingayats are not Hindus. Lingayats have a fascinating history of being one of
+      the first prominent, adamantly anti-caste groups. I’m talking the 11th century,
+      and many of them died for their overt opposition to caste in all its forms. They
+      would orchestrate weddings between Brahmins and so-called untouchables, much to
+      the outrage of many of their contemporaries. And even today, their whole approach
+      is very highly debated but they have an incredible millennium-long history of
+      progressivism and also incredible poetry. They were all known as poets too. It’s
+      really worth looking up Lingayat poetry. A.K. Ramanujan has a gorgeous book of
+      Lingayat poetry in translation from the 11th century that was actually a huge
+      influence on many American poets when it came out. Chris Hedges Well Gauri’s father
+      was a poet, among other things. Rollo Romig Absolutely. Yeah, very prominent poet.
+      Chris Hedges You should have written a book about him, you can do that next. Rollo
+      Romig Yes, exactly. Fascinating guy. Chris Hedges He was great I mean you have
+      a wonderful profile of him in there. I just want to read this passage I told you
+      before that so many of the undercurrents, you know, the changing demographics,
+      the alienation, the rise of IT with a money class that’s not rooted in the traditions
+      of the city. Pankaj Mishra does a wonderful job explaining all of this in his
+      book, The Age of Anger . You write, “The murder of Gauri Lankesh offers a key
+      to India’s current crisis and its many facets. The dysfunction and capture of
+      India’s entire judicial system, from policing to trial, the collapse of the press
+      under the pressure of the ruling party, the increasing criminalization of all
+      dissent, the dominance of an enormously popular demagogue, who leads an ultra-nationalist
+      movement that seeks, among other things, to obliterate regional and religious
+      variety in favor of homogenized Hindu Rashtra, or Hindu nation, in which hundreds
+      of millions of non-Hindus are to be second-class citizens, and the real danger
+      of genocide, as the forces of hate are further empowered and emboldened. The situation
+      is, I fear, much worse than even many engaged observers realize. And Gauri’s story
+      illustrates how it got there and where it’s going.” Well, I mean, I read that
+      and I wonder if you’re not writing about the United States. But let’s talk a little
+      bit about what the BJP has done to Indian democracy, especially with Modi. And
+      I mean, you do go into it in the book, but the roots of this, the RSS [Rashtriya
+      Swayamsevak Sangh], the militia that fed the political party, overtly copied,
+      in particular Benito Mussolini’s fascism, this wasn’t, this was the model. Rollo
+      Romig Yeah, absolutely. So they’ve had this century-long program that they’ve
+      been very methodically working towards. We can see the parallel there with the
+      Republican Party here, how they’ve played a really long game. And that many of
+      these ideas that, again, I always want to put the word fringe in quotes, these
+      “fringe” ideas, they’re not fringe anymore. Both there and here, you know, they’re
+      mainstream ideas now. They’re outrageous ideas. They’re offensive ideas. But they’re
+      not fringe anymore. But yeah, like you said, the BJP, whose parent organization
+      is the RSS, this paramilitary group, that’s actually, I’ve heard that it’s the
+      largest organization of any kind in the world. It’s got untold members of Indians,
+      and they’re paramilitary in that they conduct these military drills. That’s kind
+      of what they’re most known for. It’s also like a show of force. They often do
+      it in public squares, these quasi-military drills. There are many different groups
+      who are associated with the RSS. The BJP is their political arm and they took
+      direct inspiration from the fascist movement as it was happening when the organization
+      was being built in the 1920s and 1930s. And you made the allusion earlier to like
+      Nazi comparisons in the U.S. and we all try to be a little careful by going too
+      far with that. I’m feeling like a lot of us were scolded for making Nazi comparisons
+      during the first Trump term. I think we should have listened to those a little
+      more, because now we can see the truth of them a lot more clearly. There’s an
+      extremely direct lineage with this stuff, and there’s a playbook with this stuff.
+      And Modi and Trump are taking cues from each other. They’re close allies. So the
+      BJP had this program. They were not a popular political group. When they first
+      came along, they looked like they were going nowhere, but slowly built support,
+      often through violence. Chris Hedges Let me just interrupt you there. They also
+      built support because the ruling Congress party, like the Democratic party, became
+      disconnected from the rest of the Indian population and phenomenally corrupt.
+      Again, those parallels struck me when I read your book. Rollo Romig Yeah, absolutely.
+      I think the Congress Party and the Democratic Party have a lot in common. The
+      Congress Party started off as being the party of the freedom movement. It was
+      the party of [Mahatma] Gandhi and [Jawaharlal] Nehru. But like any party that
+      actually won revolutionary freedom for a country, it’s only downhill from there.
+      And so over the years, they’ve really embarrassed themselves. And now it’s really
+      difficult to identify what they stand for. The BJP vilifies them as the party
+      that only cares about Muslims. Unfortunately, the Congress Party actually does
+      very little for Muslims. They’re scared to actually stand up for Muslims by and
+      large because they’re scared of that criticism. By the way, India has one of the
+      very largest Muslim populations in the entire world. It’s 200 million Muslims
+      in India. It’s the largest minority of any kind in the world. And second only
+      to Pakistan, and I’m sorry, second only to Indonesia, probably equal to Pakistan,
+      maybe even a little more Muslims in India than Pakistan. And so the threat to
+      Muslims there, it’s a threat to this incredibly large population, equal to two
+      thirds of the United States that’s being vilified, ostracized, segregated in their
+      own country with a playbook that very often resembles Jim Crow in the United States
+      and all of its particulars, including the criminalization of intermarriage in
+      many cases across religious lines. So yeah, it’s been this long program. And you’re
+      right, the Congress Party’s failings left an enormous opening for the BJP. A lot
+      of people voted for the BJP at first and even now because they want to see reform.
+      They just want to see something different from the Congress Party which dominated.
+      Chris Hedges Well, that’s why people voted for Trump, a lot of them. Rollo Romig
+      Yeah, exactly. And so a lot of these people aren’t dyed in the wool white supremacists,
+      but they’re very unhappy with how things are going. I don’t want to downplay,
+      though, the appeal that authoritarianism has to a lot of people. I mean, I think
+      that liberals often underestimate that authoritarianism actually has a very enthusiastic
+      constituency. People who want the strong man who claims that he can fix everything.
+      That there is actually a large constituent of people who don’t like democracy
+      and who want an autocratic ruler. Chris Hedges Well, this goes back to the whole
+      cult, because if you read Margaret Singer’s Cults in Our Midst , and if you think
+      of Trump or Modi as a cult figure, then what they do makes sense, because in a
+      cult, you want your cult leader to be omnipotent, completely all-powerful, because
+      the cult leader, in your own sense of powerlessness, the cult leader becomes your
+      ability to be empowered. It’s completely different from a political party. That’s
+      why I thought that your highlighting of the cult that spawned these assassins
+      was so important. But the dynamics of a cult are such that, you’re right, that
+      the attraction is less and less freedom, more and more control by the demagogue
+      or the cult leader to compensate for your own sense of frustration, stagnation,
+      powerless, and that’s what Singer, in her book on cults, writes. Rollo Romig Yeah,
+      that’s right. And the fact that Trump so frequently says things that are nonsensical,
+      outrageous, offensive, that’s actually part of the program. I mean I think he’s
+      operating by instinct, by and large, but it’s kind of a test of how committed
+      you are to the cult, if you’re able to integrate things that are absolutely indefensible.
+      And yeah, a lot of people are passing that test, right now. Chris Hedges Let’s
+      talk about what this did to India. I mean, one of the things that I didn’t know
+      until I read your book was that newspapers are thriving in India. They’re not
+      thriving anywhere else. How many are there? Like, what did you, there was some
+      incredible number of… Rollo Romig Oh god, I don’t remember the number. It’s always,
+      since it’s now the largest country in the world too by population, it’s always
+      a little bit difficult to have perspective in those numbers. But even by any metric,
+      even just by per capita, the number of newspapers, their variety in languages
+      is just incredible. There’s no parallel anywhere in the world. And yeah, there’s
+      definitely been erosion of physical newspaper readership with the rise of smartphones.
+      A lot slower than virtually anywhere else, though. And it’s an interesting paradox
+      because we’ve been talking about how incredibly threatened Indian journalism is,
+      and it’s absolutely true, and yet it’s still thriving in many ways as a profession.
+      And so what accounts for that? It’s an interesting question. Partly the press
+      appears to be a lot more free than it is. There’s a lot more restriction on… it
+      doesn’t look censored often, because a lot of the censorship happens very quietly
+      and behind the scenes. There’s also still a lot of really remarkably brave journalists
+      who are just persisting in this environment. I find it just astonishing, and it’s
+      really what my whole book is built on, you know? Like, I couldn’t have written
+      a sentence of my book without the work of these hundreds of Indian journalists
+      who my bibliography is devoted to. It’s all just built on their work, you know?
+      Like, obviously, I did the shoe leather thing in India a lot. I covered a lot
+      of ground talking to people, but it would have been nothing without building on
+      these journalists who are doing what they do under incredible personal threat.
+      I have no, there’s no equivalent for me in terms of the personal threat. It’s
+      easy for me to parachute in there and do my work. And so I really tried to see
+      it as an opportunity to kind of leverage my privilege there to elevate what these
+      really brave journalists who are doing what they’re doing under enormous price,
+      to elevate and platform what they’re saying and the work they’re doing. Chris
+      Hedges When you talked about the cult figure, I ran into this little passage in
+      your book about, “For the national stage, Modi expanded his use of holograms,
+      broadcasting his image to a hundred locations at a time. His speaking style had
+      become famous-macho, authoritative, sarcastic, sometimes almost scolding, always
+      delivered as a direct address to common people. He likes to refer to himself in
+      the third person. ‘Modi does not lose, does not die,’ and often boasts, especially
+      about his tireless work ethic, but also about his mythic childhood and feats of
+      daring. He has claimed that as a boy, he liked to swim in a lake full of crocodiles
+      and that he’s able to survive the ingestion of any kind of poison like Trump and
+      like Gauri, he had a penchant for assigning insulting nicknames to his opponents.”
+      I just wanted to pick up that passage. Probably the difference between Trump and
+      Modi is I don’t sense that Modi is as stupid as Trump. Rollo Romig No, he’s much
+      smarter. Chris Hedges It actually strikes me as pretty unfrighteningly intelligent
+      like JD Vance. But again, I mean just to pick up on that sense of we have to stop
+      looking at these figures as political leaders, but as cult leaders. And that passage
+      sort of, I think, illustrates that. I mean, these assassinations, and it’s not
+      just Gauri and others, they’re designed to send a message. I mean, they’re not
+      just designed to silence a voice. And that message, I sense from your book, works.
+      Rollo Romig Oh yeah, I mean it’s definitely had a chilling effect. How could it
+      not? You know, I can’t blame people for being chilled by this. There’s so many
+      people I spoke to who found out that they were on these lists, like after the
+      police. And this is the thing, you know, so this is a large conspiracy where they
+      charged 18 people, arrested 17. The 18th is still on the run. But it came out
+      in the interrogations that they’d actually trained dozens of young men in violent
+      techniques in shooting, in bombing, to line them up for future attacks. And it
+      was really unclear even after they’d kind of broken the conspiracy, like did this
+      still have enough legs to keep going? Would the murders continue? These assassinations
+      in this particular pattern have not continued. There were four in a row spread
+      out over several years. Chris Hedges And can I just interrupt you, I got this
+      from your book. The methods were all the same. It was a motorbike, it was a 7.62,
+      what do you call them, ghost guns. Each one was a replica of the next. Rollo Romig
+      Exactly, exact same MO [modus operandi], exactly right. And so it was pretty clear
+      there was a pattern there. Weird thing was, no one took credit for these murders.
+      Which is actually, India unfortunately has a long history of political assassination,
+      much like the U.S. But what it used to be in the old days when there were major
+      political assassinations, it would be usually very famous figures and the person
+      who committed the assassination would usually surrender and then say why they
+      did it, you know? I mean, that’s what happened with Gandhi’s assassin, Nathuram
+      Godse. Chris Hedges Who, and I don’t want to keep interrupting you, who the BJP
+      and the RSS hold up as a hero. Rollo Romig Absolutely. So that’s a big shift now.
+      This is a big narrative change where now they malign Gandhi as much as possible.
+      Are there reasons to criticize Gandhi? Sure, but those aren’t the points that
+      they’re criticizing him on. They’re criticizing him as being, you know, they have
+      this whole narrative that he’s submissive to Muslims and all this kind of stuff.
+      So yeah, Godse is now, like they erect statues to Godse, they praise him as a
+      patriot. This has become mainstream. Chris Hedges This is the assassin. This is
+      Gandhi’s assassin. Rollo Romig This is Gandhi’s assassin. It’s become a mainstream
+      position within the last decade to praise him as a hero. So when he, in court,
+      he delivered actually quite eloquently, even though his reasons were horrific,
+      he defended his position very straightforwardly. It was published as a book, you
+      know, Godse’s defense. Gauri’s killers, it was baffling until the police actually
+      tracked it down. Why did they do this? And so it didn’t, there were all these
+      theories on what the specific message that was being sent was. No one knew what
+      the specific message was. But I think the point is, like you’re saying, the point
+      wasn’t a specific message. The point was to instill a more generalized fear and
+      a more generalized chilling effect. And it became a thing where, to this day,
+      journalists get, part of the trolling is to send messages to journalists and say
+      what happened to Gauri Lankesh is going to happen to you. Chris Hedges Right.
+      And is this coming to us? Rollo Romig Yeah, when I wrote that passage that you
+      read earlier and pointed out that it sounds like I could have been describing
+      what’s happening here now. Certainly didn’t imagine that at the time that I wrote
+      it. I wrote it before Trump came back. The book was published before Trump came
+      back. Now it feels like it’s frightening to me how much what I described in that
+      book seems to be describing what happened here. In many ways it feels like we’re
+      speed running this program. Yeah, I can’t say what’s gonna happen next. What I
+      can say is we have to watch out for this playbook and be ready for what’s next.
+      Because they move fast and they do 20 different things at once. And it’s so easy
+      for these things to happen and for them to barely register because they know how
+      to not just dominate a news cycle, but completely overwhelm it. So that some of
+      the most outrageous things don’t even really make it to the news or penetrate
+      the general consciousness of citizens. And so we have to think ahead, actually.
+      We have to study these playbooks and how they’ve been pulled out, because they’re
+      going through these things point by point. Obviously, there was a program, Project
+      2025. It was often dismissed how much this would be a program, including by Trump.
+      And now we can see that they’re working through it very systematically, just the
+      way that the BJP has worked through this century-long program very systematically
+      and very effectively. And so it’s not enough for us to respond. It’s actually
+      impossible at the speed in which they’re doing it because it’s so easy to break
+      things if you have decided that you’re willing to do that. It’s not enough for
+      us just to respond to things being broken. We have to think ahead, what is the
+      next thing they’re going to target and shore up defenses around that thing. Chris
+      Hedges Right. Thanks, Rollo. And I want to thank Diego [Ramos], Sofia [Menemenlis],
+      Max [Jones], and Thomas [Hedges], who produced the show. You can find me at ChrisHedges.Substack.com
+      . Please share this story and help us grow our network! Editor’s Note : A t a
+      moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Chris Hedges
+      Chris Hedges is a Pulitzer Prize–winning journalist who was a foreign correspondent
+      for fifteen years for The New York Times, where he served as the Middle East Bureau
+      Chief and Balkan Bureau Chief for the paper. He previously worked overseas for
+      The Dallas Morning News , The Christian Science Monitor , and NPR. He is the host
+      of show The Chris Hedges Report. He was a member of the team that won the 2002
+      Pulitzer Prize for Explanatory Reporting for The New York Times coverage of global
+      terrorism, and he received the 2002 Amnesty International Global Award for Human
+      Rights Journalism. Hedges, who holds a Master of Divinity from Harvard Divinity
+      School, is the author of the bestsellers American Fascists: The Christian Right
+      and the War on America , Empire of Illusion: The End of Literacy and the Triumph
+      of Spectacle and was a National Book Critics Circle finalist for his book War
+      Is a Force That Gives Us Meaning . He writes an online column for the website
+      ScheerPost . He has taught at Columbia University, New York University, Princeton
+      University and the University of Toronto. Author Site'
+    one_sentence_summary: The article discusses the assassination of Indian journalist
+      Gauri Lankesh by a far-right group, highlighting the rise of Hindu nationalist
+      extremism and authoritarianism in India under Narendra Modi, as explored in Rollo
+      Romig's Pulitzer Prize-finalist book.
+    paragraph_summary: 'In a recent episode of The Chris Hedges Report, host Chris Hedges
+      interviews journalist Rollo Romig about the 2017 assassination of Indian journalist
+      Gauri Lankesh, who was killed by a far-right group for her courageous reporting.
+      Romig''s Pulitzer Prize-finalist book, "I Am On the Hit List: A Journalist’s Murder
+      and the Ruse of Autocracy in India," explores the rise of Hindu nationalist extremism
+      under Prime Minister Narendra Modi and the Bharatiya Janata Party (BJP), linking
+      it to broader authoritarian trends. He highlights how groups like Sanatan Sanstha
+      aim to establish India as a Hindu nation while marginalizing non-Hindus, particularly
+      Muslims. Both Hedges and Romig draw parallels between this situation in India
+      and the mainstreaming of extremist ideologies in the United States, emphasizing
+      the threats faced by independent journalism. Hedges also appeals for financial
+      support to sustain their work at ScheerPost amidst growing challenges to independent
+      media.'
+    published: '2025-08-14T01:43:13+00:00'
+  - title: When Religious Mafia & Rightwing Extremists Take Over (w/ Rollo Romig) |
+      The Chris Hedges Report
+    url: https://scheerpost.com/2025/08/13/when-religious-mafia-rightwing-extremists-take-over-w-rollo-romig-the-chris-hedges-report/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Chris
+      Hedges / The Chris Hedges Report This interview is also available on podcast platforms
+      and Rumble . One of the most stark examples of the expanding tide of authoritarianism
+      worldwide was the 2017 murder of Gauri Lankesh, an Indian journalist and activist,
+      allegedly assassinated by a far-right religious group in India for her fearless
+      journalism. Joining host Chris Hedges on this episode of The Chris Hedges Report
+      is Rollo Romig, a journalist whose Pulitzer Prize-finalist book, I Am On the Hit
+      List: A Journalist’s Murder and the Ruse of Autocracy in India , examines the
+      historic and political context of Lankesh’s murder. Romig chronicles the rise
+      of Hindu nationalist extremism in India, linking it to India’s current authoritarian
+      policies under Narendra Modi and his Bharatiya Janata Party (BJP). The group accused
+      of Lankesh’s assassination, Sanatan Sanstha, operates on the vision “of making
+      India an officially Hindu country and, equally importantly, relegating all non-Hindus
+      to second-class citizenship and ostracizing, particularly, Muslims from Hindu
+      society,” according to Romig. Much like in the United States, Romig and Hedges
+      argue that such fringe groups serve a strategic purpose of mainstreaming extremist
+      ideologies that ultimately benefit the ruling class. Gauri’s work represented
+      a threat to far-right political movements in India and she was often subjected
+      to fierce intimidation campaigns, including, as the title of Romig’s book suggests,
+      being placed on murder hit lists. NOTE TO SCHEERPOST READERS FROM CHRIS HEDGES:
+      There is now no way left for me to continue to write a weekly column for ScheerPost
+      and produce my weekly television show without your help. The walls are closing
+      in, with startling rapidity, on independent journalism , with the elites, including
+      the Democratic Party elites, clamoring for more and more censorship. Bob Scheer,
+      who runs ScheerPost on a shoestring budget, and I will not waver in our commitment
+      to independent and honest journalism, and we will never put ScheerPost behind
+      a paywall, charge a subscription for it, sell your data or accept advertising.
+      Please, if you can, sign up at chrishedges.substack.com so I can continue to post
+      my now weekly Monday column on ScheerPost and produce my weekly television show,
+      The Chris Hedges Report. Host Chris Hedges Producer: Max Jones Intro: Diego Ramos
+      Crew: Diego Ramos, Sofia Menemenlis and Thomas Hedges Transcript: Diego Ramos
+      Transcript Transcript Chris Hedges The rise of authoritarian regimes has made
+      the work of journalists, or at least those journalists who still believe it is
+      our job to hold the powerful to account, deadlier and deadlier. One of the journalistic
+      legends we lost is Gauri Lankesh, the editor and publisher of a Bangalore weekly,
+      The Gauri Lankesh Patrike. She was a fierce and uncompromising critic of Prime
+      Minister Narendra Modi and his ruling BJP party (Bharatiya Janata Party). Her
+      defiance, although her publication did not have a wide audience and was written
+      in the local dialect, saw her assassinated in September 2017 outside her home.
+      These regimes seek to stamp out the truth, even when it smolders on the far edges
+      of the media landscape. Those who will not be cowed and intimidated are silenced,
+      either by prison or assassination. India is one of the world’s most dangerous
+      countries to be a reporter. Two to three journalists a year are killed. Journalists
+      are smeared in well-orchestrated campaigns of character assassination by state-controlled
+      media as traitors and enemies of Hinduism. The government regularly shuts down
+      social media, television stations, and newspapers, especially in places like Kashmir.
+      Reporters’ phones are tapped. They are harassed in big and small ways, including
+      being denied hotel rooms, hit with lawsuits and receiving constant death threats.
+      The ruling BJP is allied with some 30 far-right Hindu groups who subscribe to
+      the virulent brand of Hindu nationalism. These groups carry out lynchings, bombings,
+      mob attacks, rape, dismemberment, incarceration, and hanging to silence opponents
+      and terrorize Muslims. According to the 2024 Press Freedom Index compiled by Reporters
+      Without Borders, India ranked 151st out of 180 countries. The United States is
+      ranked 57th. Gauri’s assassination ignited protests and vigils throughout India.
+      Posters and giant, colorful puppets proclaimed “I am Gauri.” None of these tactics
+      are confined, however, to India. They are the familiar methods employed by all
+      authoritarian regimes, including the emergent authoritarianism in the United States.
+      Joining me to discuss the life and work of Gauri Lankesh and its ramification
+      for India, and for us, is Rollo Romig. He manages the Solutions Insights Lab at
+      Solutions Journalism Network. His book on Gauri, I Am On the Hit List: A Journalist’s
+      Murder and the Ruse of Autocracy in India , was a finalist for the Pulitzer Prize,
+      General Nonfiction, in 2025. So this story is, which I think the power of the
+      book is that you just peel back every layer of the onion to get to all of the
+      internal mechanisms that go into the reconfiguring of Indian democracy into an
+      authoritarian or an ethno-nationalist Hindu state. And boy, it just resonates
+      with everything that’s happening in the United States. Let’s just lay out who
+      Gauri was, what made her so unique aside from her deep integrity and courage and
+      what she was up against. There was one point in the book where you were talking
+      about or you were quoting her and she talked about her love of multiculturalism
+      and pluralism, all of the things that go to create a functioning society, open
+      society, all of which of course we are now seeing taken from us. But just, for
+      those who haven’t read the book, talk about her and talk about what she did and
+      why she was so unique. Rollo Romig Yeah, thanks Chris. I really felt she was an
+      extraordinary person. It was a privilege to be able to spend so much time immersed
+      in her life. And it’s interesting because as you noted, her platform was actually
+      pretty small. Her newspaper had a small circulation. She was really struggling
+      by the end of her life. Journalists everywhere are struggling to keep their publications
+      afloat. And even in the weeks right before she was killed, she thought she was
+      probably going to have to close her paper permanently. So that was immediately
+      a really interesting question to me, that there was such an incredible outpouring,
+      especially in Bangalore, her home city, in response to her murder, even though
+      the thing that she was most noted for, doing journalism, had become increasingly
+      a struggle for her to even continue doing. And one thing I really realized as
+      I looked into it wasn’t just that tens of thousands of people came out in the
+      streets of Bangalore after she was murdered. It was the incredible variety of
+      people who came out. People from every religious group, people from every walk
+      of life, from street sweepers to students to trans people. And she seemed to have
+      touched all these different groups. It was, to a degree, a surprise to even her
+      closest friends and family. And that was really interesting to me. And what I
+      eventually learned about her was I think such an important lesson for extraordinary
+      people in general that often we misidentify their talents or what’s most significant
+      about them. And of course since her job title was journalist, there’s this assumption
+      especially in the international coverage of her murder that what was most notable
+      about her was that she was a journalist and that she was maybe one of India’s
+      biggest journalists. Of course her role as a journalist was incredibly important,
+      but that was just one thing. First of all, she increasingly saw herself as a journalist
+      activist. Or even at the end of her life, she kind of flipped the equation. She
+      described herself as an activist journalist. And she increasingly saw her journalism
+      as in service to her activism, primarily on a number of issues, but especially
+      as you note this idea of defending a pluralist India. It’s an incredibly diverse
+      country, not least religiously, and the erosion of this pluralism, the attacks
+      on this pluralism really unnerved her and worried her. And so she really focused
+      on that by the end of her life as an activist and a journalist. It was a real
+      shift for her because she started her career as a much more conventional journalist,
+      working for big national English language papers. Doing solid work but in a pretty
+      like you know traditional approach striving for neutrality keeping her political
+      opinions to herself. She really came to a band in that position completely by
+      the end of her life and we’re really radicalized her was, maybe more than anything,
+      was that she shifted to writing in her local language, Kannada, which really put
+      her… You know, I’ve heard Indian journalists say before when you’re writing in
+      English, you don’t know who your audience is. It could be anyone around the world.
+      It’s this amorphous audience. When you’re writing in a specific local language
+      in India, you know exactly who your audience is, and you’re directly in conversation
+      with them, and they’re directly in conversation with you in return. That makes
+      you especially dangerous, though. And it’s no accident that nearly all of the
+      journalists, the many journalists who’ve been killed in India over the decades,
+      have been journalists writing in languages other than English. Chris Hedges I
+      just want to interrupt you there because I found that a fascinating point because
+      we have to remember that the BJP controls all of the major media platforms, including,
+      of course, the electronic media. So they saturate the media landscape. And I mean,
+      I didn’t know this until I read your book. And yet the people they obviously fear
+      the most are these figures like Gauri. Why? Rollo Romig Well, you’re right that
+      they have enormous control over the national media and they exert pressure in
+      every way that you can imagine. And you give a long list of the ways that they
+      mention that’s not even, it goes on, you know, tax raids on newsrooms who go against
+      the ruling party line, terrorism charges against specific journalists, especially
+      if they’re Muslim. I mean, even Arundhati Roy, one of India’s most internationally
+      famous novelists, has a terrorism case against her for something she said in a
+      speech over ten years ago. No one seriously believes that Arundhati Roy is guilty
+      of terrorism. The illogic of it is part of the point, you know? But yeah, so they
+      have enormous control, enormous sway over the big national publications, particularly
+      in Hindi, which is the biggest language in India, but not even a majority language
+      in India. There’s so many big languages in India. But they can’t control everyone.
+      It’s too big, it’s too diverse, there’s too much dissent, you know? So it’s impossible
+      for them to keep everyone down. And then these local journalists are in much more
+      direct contact with not just their readers, but with the local problems that are
+      happening on the ground and actually have a chance… I mean, this is just a lesson
+      for all of us everywhere. It’s the local journalists that have a lot more of an
+      ability to affect change actually in an immediate way. We all, in these big countries,
+      India and the U.S,. we all tend to be so much more focused on national politics,
+      national media, national news stories. But where do things actually make a difference?
+      So often this engagement of things on, this obsession with things on a national
+      level leaves us feeling completely impotent. When actually the areas in which
+      we can actually affect change and where we can see change happen is in our local
+      level. And that’s where, I mean, you know, I’ll tell you for myself personally,
+      just getting more engaged in local politics is just giving me life right now.
+      It’s saving me from despair of just my complete impotence in the face of all these
+      horrors that we’re seeing on the national level. And that’s where you keep the
+      flame alive is in these local struggles. So they recognize this. Chris Hedges
+      But it’s interesting that these monolithic forces will target people within the
+      media landscape, and as you said, her paper was, I mean, she didn’t have much
+      reach. She was writing in a fairly obscure dialect. And yet they were terrified
+      of her. Rollo Romig Yeah. And it’s interesting because there’s this whole… So
+      the people who seem to have killed her, the trial’s ongoing because the trial
+      actually started three years ago, but the Indian justice system is incredibly
+      slow. And the lawyers for the defense have been using every tactic possible to
+      slow things down. If you’re determined to slow a trial down, it’s actually very
+      easy to do so in India. There are many ways of doing it. Chris Hedges I think
+      in the book you quote somebody who says a good lawyer can keep this going for
+      10, 15 years, the trial. Rollo Romig Exactly. So we’ll see how long it takes.
+      I mean the murder happened in 2017. The police arrested so far a total of 17 men
+      for conspiring to kill Gauri, mostly in 2018. That’s seven years ago. This trial
+      is trying to get through hundreds of witnesses. In this, over seven years, many
+      have forgotten what they knew. Many have turned hostile under pressure. But all
+      these men who have been accused of conspiring to kill Gauri were associated in
+      one way or another with this fringe religious group called Sanatan Sanstha. They’re
+      based in Goa, this ashram out of Goa. They’re led by this guru who’s very reclusive,
+      hasn’t been seen publicly in decades. And they’re not officially a part of the
+      government but they are very politically aligned with the government. They’ve
+      got the same political program as the BJP government, which is this program, as
+      you mentioned, Hindutva, and specifically this question of a Hindu Rashtra, which
+      just means Hindu nation. This idea, basically, of making India an officially Hindu
+      country and, equally importantly, relegating all non-Hindus to second-class citizenship
+      and ostracizing, particularly, Muslims from Hindu society. And they’re very much
+      in line with the BJP in this program. The BJP has actually made a lot of progress
+      with that agenda. And it’s one of these things, we see this same dynamic here
+      in the U.S. with so-called fringe groups in relation to the kind of Republican
+      establishment and its whole constellation of organizations, think tanks, et cetera.
+      These fringe groups say outrageous things, they do outrageous things but they’re
+      pushing the window of what’s acceptable to say. And then the kind of conventional
+      parties are able to embrace them or distance themselves from these fringe groups
+      depending on how the wind is blowing politically. Narendra Modi, this group, Sanatan
+      Sanstha, that’s been associated with not just this murder, but a series of murders,
+      a series of four murders of writers, as well as a long series of terrorist bombings
+      particularly of movies and plays that they disagreed with that they found offensive
+      for one way or another. Narendra Modi actually sent a letter of congratulation
+      to their yearly convention about 10 years ago and his regrets that he couldn’t
+      make it in his support for their cause. So we see that here with all these groups.
+      You see [Donald] Trump’s whole dance with these white supremacists, embracing
+      them, distancing himself from them. It’s all part of the program. Chris Hedges
+      You raise a really important point. You talk at one point in the book about the
+      traditional mafia in India and how they were much easier to break until the mafia
+      became religious, which is of course what you’re describing and what we are experiencing
+      here, because it’s not just the rhetoric they push, but it’s acts of violence.
+      And you know, I don’t want to draw too many parallels to the early years of Nazism,
+      but that’s the role of the Brownshirts. So if you look closely, Hitler, when he
+      was chancellor, kept distancing himself and even at a certain point condemning
+      actions of the Brownshirts, but the Brownshirts, the Nazi militia which had three
+      million members, was doing precisely what you just said. They kept pushing the
+      boundaries, pushing the boundaries in the service of this radical agenda that
+      was embraced by the fascists or is embraced by Modi. So let’s just talk a little
+      bit about that transformation of the underworld because these people come out
+      of the underworld. That’s the interesting thing. And I covered Al-Qaeda for the
+      New York Times. And the traditional profile of an Al-Qaeda member was that they
+      were a criminal. They came out of the criminal class. They didn’t come out of
+      religious households. They weren’t raised in strict Muslim households. Rollo Romig
+      They’re largely ignorant of religion. Chris Hedges They’re largely ignorant of
+      religion. And having written a book on the Christian right, American Fascists:
+      The Christian Right and the War On America , and being a divinity school graduate,
+      the same is true here and the same is true in India, which is the point that you
+      make in the book. So talk about that. Rollo Romig Yeah, that’s exactly right.
+      So there’s a strong religious motivation among these men who conspired to assassinate
+      Gauri. But these are men who are hungry for instruction in religion and hungry
+      for instruction in life. These guys weren’t scholars. They were waiting to be
+      told by people who supposedly knew better what the scriptures say and importantly
+      how to interpret the scriptures. So, this guru who I referred to, Jayant Balaji,
+      who’s this reclusive guru of this group, he… and by the way, he’s completely been
+      untouched by this. You know, he’s been investigated pretty lackadaisically a few
+      times over the years. Never been charged with anything. Chris Hedges Let me just
+      interrupt you because wasn’t there, I think I have this right, there was like
+      a flood or a rainstorm. And in the neighboring field, they found like thousands
+      of used condoms that had washed down out of his compound. Rollo Romig That’s right.
+      Exactly. And then there was another time that, I’m glad they’re enjoying themselves,
+      but it kind of, it indicates… Chris Hedges Well, probably at the expense of a
+      lot of women. Rollo Romig Well right and it indicates this kind of cult-like environment
+      in this place, they’ve often been described as a cult. I’m no expert on cults
+      but the Sanatan Sanstha actually fits a lot of the hallmarks. And one of the few
+      times that the ashram was actually raided after one of these bombings that they
+      were associated with, they found enormous quantities of psychotropic drugs on
+      the premises. Many people have noted that before he became a guru, he was a trained
+      hypnotherapist. So you could use your imagination there on how that works. And
+      they’re often, when people join the group, and especially when they join the ashram,
+      they’re strongly encouraged to distance themselves from their families. Chris
+      Hedges That’s true with all cults. And the Christian right does the same thing,
+      by the way. Rollo Romig That’s true, all those hallmarks. Sorry, I forget where
+      I was going with that, with the initial question. Chris Hedges Well, we were talking
+      about the religious, you know, these people who essentially present themselves
+      as religious jihadists. Actually, they tend not to come out of a strong religious
+      tradition. They tend to come out of the criminal class. And then you were talking
+      about how they are essentially indoctrinated. And just to make the correlation
+      with the Christian right having spent a lot of time with them as soon as they
+      knew I was a divinity school graduate, they never wanted to speak about the Bible,
+      and I think this is the point you make in your book, because they don’t know the
+      Bible. They know those particular passages or lines that they have been fed to
+      bolster their ideological orientation but it’s a very selective kind of literacy
+      and I think that’s the point you’re making too. Rollo Romig Yeah, absolutely.
+      And so that was part of the program too, in this ashram. One of the members who
+      got out of the ashram, and one of few people who’s actually spoken publicly about
+      getting out of that situation, said that they were actually strongly discouraged
+      from reading Hindu scriptures at all. And you can see why. That they were only
+      supposed to read the guru’s interpretations of the scriptures. And he actually
+      wrote a book that several of the conspirators were found in possession of, that
+      is… It’s an outrageous book. It’s actually written in English, so there’s no loss
+      in translation. I’ve read the book. And it is a manual for murder in the name
+      of murder. It’s as direct as you possibly could imagine. It’s a program for identifying
+      suspects to kill and how to go about shooting them. And he repeatedly says things
+      like, you may think I’m speaking metaphorically here. I’m not. I’m talking about
+      literally killing people. And yet he still remains untouched. So this is how he’s
+      interpreting the scriptures. So yeah, and this is interpreting things like the
+      Mahabharata, which is one of the great Hindu epics, one of the great works of
+      literature from human history. And it’s, of course, about a war. And most Hindu
+      teachers are going to tell you that this is metaphorical, you know. It’s not about
+      literally killing people. It’s about internal struggles and so on. But of course
+      his interpretation is always about literal violence in defense of the religion.
+      And it’s interesting, like what you say about the kind of ignorance of the religion
+      among a lot of these people who are even willing to go so far as to kill in the
+      name of their religion, that one of the things that seems to agitate this group
+      the most is when they perceived blasphemy on the part of various speakers, including
+      Gauri. Like, it seemed like really motivated them to kill Gauri was the sense
+      that she had blasphemed Hinduism. There’s actually no concept of blasphemy in
+      Hinduism until incredibly recently. Have any Hindus talked about blasphemy? It’s
+      a concept from the Abrahamic tradition. And so you see this thing also where,
+      like, Hindutva’s greatest enemy is Islam. But in their, I don’t know what it is,
+      in their obsession with Islam, they’re increasingly mimicking what they see in
+      Islam and borrowing concepts from Islam and codifying their religion into a more
+      Abrahamic and in many ways more Islamic form. Chris Hedges Yeah and she held up
+      these multicultural events where nuns were doing, it’s in your book, Hindu dances.
+      And at one point she said she wants to go visit friends and get a good plate of
+      beef, which, of course, Hindus are not supposed to eat beef. Rollo Romig Right.
+      Although there’s a lot of disagreement even among Hindus on that point, you know?
+      Chris Hedges Yes, there you go. But I want to talk about social media. So you
+      have these assassins who come out of this kind of fringe group that, of course,
+      is tolerated and sanctioned by the BJP for the reasons we talked about. But social
+      media plays a big role in demonizing her and demonizing those who are seen as
+      opponents of Hindu nationalism. Rollo Romig Absolutely. So there are very targeted,
+      very ugly social media campaigns against any critics of the government. And you
+      mentioned how Indian journalists are often targeted very directly in kind of like
+      state-controlled media. Another thing that happens is they actually have a troll
+      army employed by the government, they euphemistically refer to it as the IT cell.
+      Chris Hedges That’s what the Israelis do, by the way. Rollo Romig Yeah, so they
+      have a whole bureau that’s devoted to trolling critics on the internet and on
+      social media in the ugliest terms imaginable. And of course they’re particularly
+      ugly in the way that they go after women journalists with rape threats. Some of
+      these things we don’t know the origin of them, but you know Muslim women journalists
+      come in for just unbelievably ugly… Trolling isn’t even the word for it. I mean
+      they’re having their faces pasted by AI [artificial intelligence] onto pornography
+      clips and circulated. They’re holding mock auctions for their right to rape Muslim
+      women journalists. It’s just as ugly as you can possibly imagine, and many of
+      this is actually orchestrated directly by the government. And Gauri was, of course,
+      a constant subject of these kinds of attacks on social media. Nonetheless, she
+      was a devoted social media user. She was such a true believer, even as she despaired
+      of the fascist direction that her country had gone in, and knew better than anyone
+      how ugly and violent things had gotten, she was still a true believer in that
+      just dialogue could get through to people. So she would actually respond to her
+      trolls and invite them out for coffee, you know, to have a conversation. They
+      never took her up on it, but this kind of spoke to just her belief that she wouldn’t
+      hold a grudge even against someone who’d kind of verbally assaulted her. Chris
+      Hedges She was Hindu. I mean, and one of the things I learned covering war is
+      that the first people who are assassinated, this is certainly true in the war
+      in Bosnia, by for instance the Serbs, or in this case the Croats, were not the
+      Muslims on the other side of town because they wanted to essentially create a
+      kind of parallel radicalism or fanaticism. It was those within their own community,
+      like Gauri, who insisted on building bridges with demonized communities. Those
+      were the first people to be killed. Rollo Romig That’s 100% correct. And so when
+      these guys were putting together a hit list, and by the way the title of the book
+      is I Am On The Hit List , this is actually a quote from Gauri. This was a joke
+      that she would make. She and her friends figured there was an assassination list
+      because there were writers being assassinated by similar patterns. And they would
+      kind of calculate with gallows humor who might be next and she would jokingly
+      say I am on the hit list. Unfortunately she was correct both that she was on the
+      list and that there was, there were these literal lists. But when they were putting
+      together these lists, the police found that different members of the conspiracy
+      would propose possible targets. And the leaders said, no, don’t include Muslims,
+      don’t include communists. What we’re after is Hindus. We’re after Hindu traitors
+      is our first target for exactly the reasons that you’re saying. It’s interesting
+      though, the question of whether Gauri was a Hindu is kind of an open question.
+      She would have said no. She was an atheist, first of all. But she came out of
+      this tradition, just because of how complex India is, she was a Lingayat. Her
+      family came from this Lingayat background, and the Lingayat community is very
+      divided over whether they are Hindus or not. This was a really hot political topic
+      at the moment that she was killed, too. And she was agitating for the idea that
+      Lingayats are not Hindus. Lingayats have a fascinating history of being one of
+      the first prominent, adamantly anti-caste groups. I’m talking the 11th century,
+      and many of them died for their overt opposition to caste in all its forms. They
+      would orchestrate weddings between Brahmins and so-called untouchables, much to
+      the outrage of many of their contemporaries. And even today, their whole approach
+      is very highly debated but they have an incredible millennium-long history of
+      progressivism and also incredible poetry. They were all known as poets too. It’s
+      really worth looking up Lingayat poetry. A.K. Ramanujan has a gorgeous book of
+      Lingayat poetry in translation from the 11th century that was actually a huge
+      influence on many American poets when it came out. Chris Hedges Well Gauri’s father
+      was a poet, among other things. Rollo Romig Absolutely. Yeah, very prominent poet.
+      Chris Hedges You should have written a book about him, you can do that next. Rollo
+      Romig Yes, exactly. Fascinating guy. Chris Hedges He was great I mean you have
+      a wonderful profile of him in there. I just want to read this passage I told you
+      before that so many of the undercurrents, you know, the changing demographics,
+      the alienation, the rise of IT with a money class that’s not rooted in the traditions
+      of the city. Pankaj Mishra does a wonderful job explaining all of this in his
+      book, The Age of Anger . You write, “The murder of Gauri Lankesh offers a key
+      to India’s current crisis and its many facets. The dysfunction and capture of
+      India’s entire judicial system, from policing to trial, the collapse of the press
+      under the pressure of the ruling party, the increasing criminalization of all
+      dissent, the dominance of an enormously popular demagogue, who leads an ultra-nationalist
+      movement that seeks, among other things, to obliterate regional and religious
+      variety in favor of homogenized Hindu Rashtra, or Hindu nation, in which hundreds
+      of millions of non-Hindus are to be second-class citizens, and the real danger
+      of genocide, as the forces of hate are further empowered and emboldened. The situation
+      is, I fear, much worse than even many engaged observers realize. And Gauri’s story
+      illustrates how it got there and where it’s going.” Well, I mean, I read that
+      and I wonder if you’re not writing about the United States. But let’s talk a little
+      bit about what the BJP has done to Indian democracy, especially with Modi. And
+      I mean, you do go into it in the book, but the roots of this, the RSS [Rashtriya
+      Swayamsevak Sangh], the militia that fed the political party, overtly copied,
+      in particular Benito Mussolini’s fascism, this wasn’t, this was the model. Rollo
+      Romig Yeah, absolutely. So they’ve had this century-long program that they’ve
+      been very methodically working towards. We can see the parallel there with the
+      Republican Party here, how they’ve played a really long game. And that many of
+      these ideas that, again, I always want to put the word fringe in quotes, these
+      “fringe” ideas, they’re not fringe anymore. Both there and here, you know, they’re
+      mainstream ideas now. They’re outrageous ideas. They’re offensive ideas. But they’re
+      not fringe anymore. But yeah, like you said, the BJP, whose parent organization
+      is the RSS, this paramilitary group, that’s actually, I’ve heard that it’s the
+      largest organization of any kind in the world. It’s got untold members of Indians,
+      and they’re paramilitary in that they conduct these military drills. That’s kind
+      of what they’re most known for. It’s also like a show of force. They often do
+      it in public squares, these quasi-military drills. There are many different groups
+      who are associated with the RSS. The BJP is their political arm and they took
+      direct inspiration from the fascist movement as it was happening when the organization
+      was being built in the 1920s and 1930s. And you made the allusion earlier to like
+      Nazi comparisons in the U.S. and we all try to be a little careful by going too
+      far with that. I’m feeling like a lot of us were scolded for making Nazi comparisons
+      during the first Trump term. I think we should have listened to those a little
+      more, because now we can see the truth of them a lot more clearly. There’s an
+      extremely direct lineage with this stuff, and there’s a playbook with this stuff.
+      And Modi and Trump are taking cues from each other. They’re close allies. So the
+      BJP had this program. They were not a popular political group. When they first
+      came along, they looked like they were going nowhere, but slowly built support,
+      often through violence. Chris Hedges Let me just interrupt you there. They also
+      built support because the ruling Congress party, like the Democratic party, became
+      disconnected from the rest of the Indian population and phenomenally corrupt.
+      Again, those parallels struck me when I read your book. Rollo Romig Yeah, absolutely.
+      I think the Congress Party and the Democratic Party have a lot in common. The
+      Congress Party started off as being the party of the freedom movement. It was
+      the party of [Mahatma] Gandhi and [Jawaharlal] Nehru. But like any party that
+      actually won revolutionary freedom for a country, it’s only downhill from there.
+      And so over the years, they’ve really embarrassed themselves. And now it’s really
+      difficult to identify what they stand for. The BJP vilifies them as the party
+      that only cares about Muslims. Unfortunately, the Congress Party actually does
+      very little for Muslims. They’re scared to actually stand up for Muslims by and
+      large because they’re scared of that criticism. By the way, India has one of the
+      very largest Muslim populations in the entire world. It’s 200 million Muslims
+      in India. It’s the largest minority of any kind in the world. And second only
+      to Pakistan, and I’m sorry, second only to Indonesia, probably equal to Pakistan,
+      maybe even a little more Muslims in India than Pakistan. And so the threat to
+      Muslims there, it’s a threat to this incredibly large population, equal to two
+      thirds of the United States that’s being vilified, ostracized, segregated in their
+      own country with a playbook that very often resembles Jim Crow in the United States
+      and all of its particulars, including the criminalization of intermarriage in
+      many cases across religious lines. So yeah, it’s been this long program. And you’re
+      right, the Congress Party’s failings left an enormous opening for the BJP. A lot
+      of people voted for the BJP at first and even now because they want to see reform.
+      They just want to see something different from the Congress Party which dominated.
+      Chris Hedges Well, that’s why people voted for Trump, a lot of them. Rollo Romig
+      Yeah, exactly. And so a lot of these people aren’t dyed in the wool white supremacists,
+      but they’re very unhappy with how things are going. I don’t want to downplay,
+      though, the appeal that authoritarianism has to a lot of people. I mean, I think
+      that liberals often underestimate that authoritarianism actually has a very enthusiastic
+      constituency. People who want the strong man who claims that he can fix everything.
+      That there is actually a large constituent of people who don’t like democracy
+      and who want an autocratic ruler. Chris Hedges Well, this goes back to the whole
+      cult, because if you read Margaret Singer’s Cults in Our Midst , and if you think
+      of Trump or Modi as a cult figure, then what they do makes sense, because in a
+      cult, you want your cult leader to be omnipotent, completely all-powerful, because
+      the cult leader, in your own sense of powerlessness, the cult leader becomes your
+      ability to be empowered. It’s completely different from a political party. That’s
+      why I thought that your highlighting of the cult that spawned these assassins
+      was so important. But the dynamics of a cult are such that, you’re right, that
+      the attraction is less and less freedom, more and more control by the demagogue
+      or the cult leader to compensate for your own sense of frustration, stagnation,
+      powerless, and that’s what Singer, in her book on cults, writes. Rollo Romig Yeah,
+      that’s right. And the fact that Trump so frequently says things that are nonsensical,
+      outrageous, offensive, that’s actually part of the program. I mean I think he’s
+      operating by instinct, by and large, but it’s kind of a test of how committed
+      you are to the cult, if you’re able to integrate things that are absolutely indefensible.
+      And yeah, a lot of people are passing that test, right now. Chris Hedges Let’s
+      talk about what this did to India. I mean, one of the things that I didn’t know
+      until I read your book was that newspapers are thriving in India. They’re not
+      thriving anywhere else. How many are there? Like, what did you, there was some
+      incredible number of… Rollo Romig Oh god, I don’t remember the number. It’s always,
+      since it’s now the largest country in the world too by population, it’s always
+      a little bit difficult to have perspective in those numbers. But even by any metric,
+      even just by per capita, the number of newspapers, their variety in languages
+      is just incredible. There’s no parallel anywhere in the world. And yeah, there’s
+      definitely been erosion of physical newspaper readership with the rise of smartphones.
+      A lot slower than virtually anywhere else, though. And it’s an interesting paradox
+      because we’ve been talking about how incredibly threatened Indian journalism is,
+      and it’s absolutely true, and yet it’s still thriving in many ways as a profession.
+      And so what accounts for that? It’s an interesting question. Partly the press
+      appears to be a lot more free than it is. There’s a lot more restriction on… it
+      doesn’t look censored often, because a lot of the censorship happens very quietly
+      and behind the scenes. There’s also still a lot of really remarkably brave journalists
+      who are just persisting in this environment. I find it just astonishing, and it’s
+      really what my whole book is built on, you know? Like, I couldn’t have written
+      a sentence of my book without the work of these hundreds of Indian journalists
+      who my bibliography is devoted to. It’s all just built on their work, you know?
+      Like, obviously, I did the shoe leather thing in India a lot. I covered a lot
+      of ground talking to people, but it would have been nothing without building on
+      these journalists who are doing what they do under incredible personal threat.
+      I have no, there’s no equivalent for me in terms of the personal threat. It’s
+      easy for me to parachute in there and do my work. And so I really tried to see
+      it as an opportunity to kind of leverage my privilege there to elevate what these
+      really brave journalists who are doing what they’re doing under enormous price,
+      to elevate and platform what they’re saying and the work they’re doing. Chris
+      Hedges When you talked about the cult figure, I ran into this little passage in
+      your book about, “For the national stage, Modi expanded his use of holograms,
+      broadcasting his image to a hundred locations at a time. His speaking style had
+      become famous-macho, authoritative, sarcastic, sometimes almost scolding, always
+      delivered as a direct address to common people. He likes to refer to himself in
+      the third person. ‘Modi does not lose, does not die,’ and often boasts, especially
+      about his tireless work ethic, but also about his mythic childhood and feats of
+      daring. He has claimed that as a boy, he liked to swim in a lake full of crocodiles
+      and that he’s able to survive the ingestion of any kind of poison like Trump and
+      like Gauri, he had a penchant for assigning insulting nicknames to his opponents.”
+      I just wanted to pick up that passage. Probably the difference between Trump and
+      Modi is I don’t sense that Modi is as stupid as Trump. Rollo Romig No, he’s much
+      smarter. Chris Hedges It actually strikes me as pretty unfrighteningly intelligent
+      like JD Vance. But again, I mean just to pick up on that sense of we have to stop
+      looking at these figures as political leaders, but as cult leaders. And that passage
+      sort of, I think, illustrates that. I mean, these assassinations, and it’s not
+      just Gauri and others, they’re designed to send a message. I mean, they’re not
+      just designed to silence a voice. And that message, I sense from your book, works.
+      Rollo Romig Oh yeah, I mean it’s definitely had a chilling effect. How could it
+      not? You know, I can’t blame people for being chilled by this. There’s so many
+      people I spoke to who found out that they were on these lists, like after the
+      police. And this is the thing, you know, so this is a large conspiracy where they
+      charged 18 people, arrested 17. The 18th is still on the run. But it came out
+      in the interrogations that they’d actually trained dozens of young men in violent
+      techniques in shooting, in bombing, to line them up for future attacks. And it
+      was really unclear even after they’d kind of broken the conspiracy, like did this
+      still have enough legs to keep going? Would the murders continue? These assassinations
+      in this particular pattern have not continued. There were four in a row spread
+      out over several years. Chris Hedges And can I just interrupt you, I got this
+      from your book. The methods were all the same. It was a motorbike, it was a 7.62,
+      what do you call them, ghost guns. Each one was a replica of the next. Rollo Romig
+      Exactly, exact same MO [modus operandi], exactly right. And so it was pretty clear
+      there was a pattern there. Weird thing was, no one took credit for these murders.
+      Which is actually, India unfortunately has a long history of political assassination,
+      much like the U.S. But what it used to be in the old days when there were major
+      political assassinations, it would be usually very famous figures and the person
+      who committed the assassination would usually surrender and then say why they
+      did it, you know? I mean, that’s what happened with Gandhi’s assassin, Nathuram
+      Godse. Chris Hedges Who, and I don’t want to keep interrupting you, who the BJP
+      and the RSS hold up as a hero. Rollo Romig Absolutely. So that’s a big shift now.
+      This is a big narrative change where now they malign Gandhi as much as possible.
+      Are there reasons to criticize Gandhi? Sure, but those aren’t the points that
+      they’re criticizing him on. They’re criticizing him as being, you know, they have
+      this whole narrative that he’s submissive to Muslims and all this kind of stuff.
+      So yeah, Godse is now, like they erect statues to Godse, they praise him as a
+      patriot. This has become mainstream. Chris Hedges This is the assassin. This is
+      Gandhi’s assassin. Rollo Romig This is Gandhi’s assassin. It’s become a mainstream
+      position within the last decade to praise him as a hero. So when he, in court,
+      he delivered actually quite eloquently, even though his reasons were horrific,
+      he defended his position very straightforwardly. It was published as a book, you
+      know, Godse’s defense. Gauri’s killers, it was baffling until the police actually
+      tracked it down. Why did they do this? And so it didn’t, there were all these
+      theories on what the specific message that was being sent was. No one knew what
+      the specific message was. But I think the point is, like you’re saying, the point
+      wasn’t a specific message. The point was to instill a more generalized fear and
+      a more generalized chilling effect. And it became a thing where, to this day,
+      journalists get, part of the trolling is to send messages to journalists and say
+      what happened to Gauri Lankesh is going to happen to you. Chris Hedges Right.
+      And is this coming to us? Rollo Romig Yeah, when I wrote that passage that you
+      read earlier and pointed out that it sounds like I could have been describing
+      what’s happening here now. Certainly didn’t imagine that at the time that I wrote
+      it. I wrote it before Trump came back. The book was published before Trump came
+      back. Now it feels like it’s frightening to me how much what I described in that
+      book seems to be describing what happened here. In many ways it feels like we’re
+      speed running this program. Yeah, I can’t say what’s gonna happen next. What I
+      can say is we have to watch out for this playbook and be ready for what’s next.
+      Because they move fast and they do 20 different things at once. And it’s so easy
+      for these things to happen and for them to barely register because they know how
+      to not just dominate a news cycle, but completely overwhelm it. So that some of
+      the most outrageous things don’t even really make it to the news or penetrate
+      the general consciousness of citizens. And so we have to think ahead, actually.
+      We have to study these playbooks and how they’ve been pulled out, because they’re
+      going through these things point by point. Obviously, there was a program, Project
+      2025. It was often dismissed how much this would be a program, including by Trump.
+      And now we can see that they’re working through it very systematically, just the
+      way that the BJP has worked through this century-long program very systematically
+      and very effectively. And so it’s not enough for us to respond. It’s actually
+      impossible at the speed in which they’re doing it because it’s so easy to break
+      things if you have decided that you’re willing to do that. It’s not enough for
+      us just to respond to things being broken. We have to think ahead, what is the
+      next thing they’re going to target and shore up defenses around that thing. Chris
+      Hedges Right. Thanks, Rollo. And I want to thank Diego [Ramos], Sofia [Menemenlis],
+      Max [Jones], and Thomas [Hedges], who produced the show. You can find me at ChrisHedges.Substack.com
+      . Please share this story and help us grow our network! Editor’s Note : A t a
+      moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Chris Hedges
+      Chris Hedges is a Pulitzer Prize–winning journalist who was a foreign correspondent
+      for fifteen years for The New York Times, where he served as the Middle East Bureau
+      Chief and Balkan Bureau Chief for the paper. He previously worked overseas for
+      The Dallas Morning News , The Christian Science Monitor , and NPR. He is the host
+      of show The Chris Hedges Report. He was a member of the team that won the 2002
+      Pulitzer Prize for Explanatory Reporting for The New York Times coverage of global
+      terrorism, and he received the 2002 Amnesty International Global Award for Human
+      Rights Journalism. Hedges, who holds a Master of Divinity from Harvard Divinity
+      School, is the author of the bestsellers American Fascists: The Christian Right
+      and the War on America , Empire of Illusion: The End of Literacy and the Triumph
+      of Spectacle and was a National Book Critics Circle finalist for his book War
+      Is a Force That Gives Us Meaning . He writes an online column for the website
+      ScheerPost . He has taught at Columbia University, New York University, Princeton
+      University and the University of Toronto. Author Site'
+    one_sentence_summary: The article discusses the assassination of Indian journalist
+      Gauri Lankesh by a far-right group, highlighting the rise of Hindu nationalist
+      extremism and authoritarianism in India under Narendra Modi, as explored in Rollo
+      Romig's Pulitzer Prize-finalist book.
+    paragraph_summary: 'In a recent episode of The Chris Hedges Report, host Chris Hedges
+      interviews journalist Rollo Romig about the 2017 assassination of Indian journalist
+      Gauri Lankesh, who was killed by a far-right group for her courageous reporting.
+      Romig''s Pulitzer Prize-finalist book, "I Am On the Hit List: A Journalist’s Murder
+      and the Ruse of Autocracy in India," explores the rise of Hindu nationalist extremism
+      under Prime Minister Narendra Modi and the Bharatiya Janata Party (BJP), linking
+      it to broader authoritarian trends. He highlights how groups like Sanatan Sanstha
+      aim to establish India as a Hindu nation while marginalizing non-Hindus, particularly
+      Muslims. Both Hedges and Romig draw parallels between this situation in India
+      and the mainstreaming of extremist ideologies in the United States, emphasizing
+      the threats faced by independent journalism. Hedges also appeals for financial
+      support to sustain their work at ScheerPost amidst growing challenges to independent
+      media.'
+    published: '2025-08-14T01:43:13+00:00'
+  - title: Twenty-Four US-Allied Nations Urge Israel To Lift All Restrictions on Aid
+      Entering Gaza
+    url: https://scheerpost.com/2025/08/13/twenty-four-us-allied-nations-urge-israel-to-lift-all-restrictions-on-aid-entering-gaza/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Dave
+      DeCamp / Antiwar.com Twenty-four US-allied nations and three senior EU officials
+      have signed a joint statement calling for Israel to lift all restrictions on aid
+      entering the Gaza Strip, warning that the Israeli-imposed famine has reached “unimaginable
+      levels.” The statement, published by the British Foreign Ministry , comes as Palestinians
+      continue to starve to death every day in Gaza due to the US-backed Israeli blockade.
+      “The humanitarian suffering in Gaza has reached unimaginable levels. Famine is
+      unfolding before our eyes. Urgent action is needed now to halt and reverse starvation.
+      Humanitarian space must be protected, and aid should never be politicized,” the
+      statement reads. The statement warned that new restrictions could force aid groups
+      and other NGOs to leave the Occupied Palestinian Territories, which would worsen
+      the humanitarian situation. “We call on the government of Israel to provide authorisation
+      for all international NGO aid shipments and to unblock essential humanitarian
+      actors from operating,” the statement says. “Immediate, permanent and concrete
+      steps must be taken to facilitate safe, large-scale access for the UN, international
+      NGOs and humanitarian partners. All crossings and routes must be used to allow
+      a flood of aid into Gaza, including food, nutrition supplies, shelter, fuel, clean
+      water, medicine and medical equipment,” the statement adds. US and Israeli officials
+      have been denying that Israel is responsible for the starvation in Gaza, but a
+      report published by the Israeli newspaper Haaretz on Tuesday detailed how Israeli
+      restrictions are responsible for the famine. The US is increasingly on its own
+      in providing unconditional military and political support for Israel, as more
+      and more European countries are offering sharp criticism and restricting arms
+      exports to Israel. The statement signed by 24 nations also said that “Lethal force
+      must not be used at distribution sites, and civilians, humanitarians and medical
+      workers must be protected,” a reference to the daily massacres of desperate Palestinians
+      seeking aid that have been committed by the IDF. The statement was signed by the
+      foreign ministers of Australia, Belgium, Canada, Cyprus, Denmark, Estonia, Finland,
+      France, Greece, Iceland, Ireland, Japan, Lithuania, Luxembourg, Malta, the Netherlands,
+      Norway, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, and the UK.
+      Please share this story and help us grow our network! Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave
+      DeCamp is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author
+      Site'
+    one_sentence_summary: Twenty-four US-allied nations and three senior EU officials
+      have urged Israel to lift restrictions on aid to Gaza, highlighting a severe humanitarian
+      crisis and the urgent need for action to prevent famine amid the ongoing blockade.
+    paragraph_summary: Twenty-four US-allied nations and three senior EU officials have
+      issued a joint statement urging Israel to lift restrictions on aid to the Gaza
+      Strip, highlighting the severe humanitarian crisis and famine affecting Palestinians
+      due to the ongoing Israeli blockade. The statement, released by the British Foreign
+      Ministry, emphasizes the urgent need for action to alleviate the suffering, calling
+      for unhindered access for international NGOs and humanitarian organizations to
+      deliver essential supplies such as food, water, and medical aid. Despite denials
+      from US and Israeli officials regarding their role in the crisis, a report from
+      Haaretz attributes the famine directly to Israeli-imposed restrictions, indicating
+      a growing divide as more European countries distance themselves from unconditional
+      support for Israel.
+    published: '2025-08-13T09:45:00+00:00'
+  - title: Twenty-Four US-Allied Nations Urge Israel To Lift All Restrictions on Aid
+      Entering Gaza
+    url: https://scheerpost.com/2025/08/13/twenty-four-us-allied-nations-urge-israel-to-lift-all-restrictions-on-aid-entering-gaza/
+    text: 'In one of the scariest moments in modern history, we''re doing our best at
+      ScheerPost to pierce the fog of lies that conceal it but we need some help to
+      pay our writers and staff. Please consider a tax-deductible donation . By Dave
+      DeCamp / Antiwar.com Twenty-four US-allied nations and three senior EU officials
+      have signed a joint statement calling for Israel to lift all restrictions on aid
+      entering the Gaza Strip, warning that the Israeli-imposed famine has reached “unimaginable
+      levels.” The statement, published by the British Foreign Ministry , comes as Palestinians
+      continue to starve to death every day in Gaza due to the US-backed Israeli blockade.
+      “The humanitarian suffering in Gaza has reached unimaginable levels. Famine is
+      unfolding before our eyes. Urgent action is needed now to halt and reverse starvation.
+      Humanitarian space must be protected, and aid should never be politicized,” the
+      statement reads. The statement warned that new restrictions could force aid groups
+      and other NGOs to leave the Occupied Palestinian Territories, which would worsen
+      the humanitarian situation. “We call on the government of Israel to provide authorisation
+      for all international NGO aid shipments and to unblock essential humanitarian
+      actors from operating,” the statement says. “Immediate, permanent and concrete
+      steps must be taken to facilitate safe, large-scale access for the UN, international
+      NGOs and humanitarian partners. All crossings and routes must be used to allow
+      a flood of aid into Gaza, including food, nutrition supplies, shelter, fuel, clean
+      water, medicine and medical equipment,” the statement adds. US and Israeli officials
+      have been denying that Israel is responsible for the starvation in Gaza, but a
+      report published by the Israeli newspaper Haaretz on Tuesday detailed how Israeli
+      restrictions are responsible for the famine. The US is increasingly on its own
+      in providing unconditional military and political support for Israel, as more
+      and more European countries are offering sharp criticism and restricting arms
+      exports to Israel. The statement signed by 24 nations also said that “Lethal force
+      must not be used at distribution sites, and civilians, humanitarians and medical
+      workers must be protected,” a reference to the daily massacres of desperate Palestinians
+      seeking aid that have been committed by the IDF. The statement was signed by the
+      foreign ministers of Australia, Belgium, Canada, Cyprus, Denmark, Estonia, Finland,
+      France, Greece, Iceland, Ireland, Japan, Lithuania, Luxembourg, Malta, the Netherlands,
+      Norway, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, and the UK.
+      Please share this story and help us grow our network! Editor’s Note : A t a moment
+      when the once vaunted model of responsible journalism is overwhelmingly the play
+      thing of self-serving billionaires and their corporate scribes, alternatives of
+      integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Dave DeCamp Dave
+      DeCamp is the news editor of Antiwar.com, follow him on Twitter @decampdave. Author
+      Site'
+    one_sentence_summary: Twenty-four US-allied nations and three senior EU officials
+      have urged Israel to lift restrictions on aid to Gaza, highlighting a severe humanitarian
+      crisis and the urgent need for action to prevent famine amid the ongoing blockade.
+    paragraph_summary: Twenty-four US-allied nations and three senior EU officials have
+      issued a joint statement urging Israel to lift restrictions on aid to the Gaza
+      Strip, highlighting the severe humanitarian crisis and famine affecting Palestinians
+      due to the ongoing Israeli blockade. The statement, released by the British Foreign
+      Ministry, emphasizes the urgent need for action to alleviate the suffering, calling
+      for unhindered access for international NGOs and humanitarian organizations to
+      deliver essential supplies such as food, water, and medical aid. Despite denials
+      from US and Israeli officials regarding their role in the crisis, a report from
+      Haaretz attributes the famine directly to Israeli-imposed restrictions, indicating
+      a growing divide as more European countries distance themselves from unconditional
+      support for Israel.
+    published: '2025-08-13T09:45:00+00:00'
+  - title: Israel’s Secret Role In the Guatemalan Genocide (w/ Jennifer Harbury)
+    url: https://scheerpost.com/2025/08/13/israels-secret-role-in-the-guatemalan-genocide-w-jennifer-harbury/
+    text: 'By Chris Hedges / The Chris Hedges Report Jennifer Harbury describes how
+      Israel facilitated the brutal genocide of indigenous Guatemalans in the 1980s
+      with funds, training, building of surveillance systems and violent repression
+      tactics. Please share this story and help us grow our network! Editor’s Note :
+      A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Chris Hedges
+      Chris Hedges is a Pulitzer Prize–winning journalist who was a foreign correspondent
+      for fifteen years for The New York Times, where he served as the Middle East Bureau
+      Chief and Balkan Bureau Chief for the paper. He previously worked overseas for
+      The Dallas Morning News , The Christian Science Monitor , and NPR. He is the host
+      of show The Chris Hedges Report. He was a member of the team that won the 2002
+      Pulitzer Prize for Explanatory Reporting for The New York Times coverage of global
+      terrorism, and he received the 2002 Amnesty International Global Award for Human
+      Rights Journalism. Hedges, who holds a Master of Divinity from Harvard Divinity
+      School, is the author of the bestsellers American Fascists: The Christian Right
+      and the War on America , Empire of Illusion: The End of Literacy and the Triumph
+      of Spectacle and was a National Book Critics Circle finalist for his book War
+      Is a Force That Gives Us Meaning . He writes an online column for the website
+      ScheerPost . He has taught at Columbia University, New York University, Princeton
+      University and the University of Toronto. Author Site'
+    one_sentence_summary: The article by Chris Hedges highlights Jennifer Harbury's
+      account of Israel's involvement in the genocide of indigenous Guatemalans during
+      the 1980s through financial support, training, and oppressive tactics.
+    paragraph_summary: In a recent report, Jennifer Harbury reveals how Israel played
+      a significant role in the genocide of indigenous Guatemalans during the 1980s
+      by providing financial support, military training, and advanced surveillance systems
+      to the Guatemalan government, which employed violent repression tactics against
+      its own people. The article underscores the need for independent journalism amidst
+      a landscape dominated by corporate interests, highlighting the importance of platforms
+      like ScheerPost in delivering critical news. Chris Hedges, a Pulitzer Prize-winning
+      journalist and host of The Chris Hedges Report, emphasizes the urgency of supporting
+      such independent outlets to ensure the continuation of responsible journalism.
+    published: '2025-08-13T09:30:00+00:00'
+  - title: Israel’s Secret Role In the Guatemalan Genocide (w/ Jennifer Harbury)
+    url: https://scheerpost.com/2025/08/13/israels-secret-role-in-the-guatemalan-genocide-w-jennifer-harbury/
+    text: 'By Chris Hedges / The Chris Hedges Report Jennifer Harbury describes how
+      Israel facilitated the brutal genocide of indigenous Guatemalans in the 1980s
+      with funds, training, building of surveillance systems and violent repression
+      tactics. Please share this story and help us grow our network! Editor’s Note :
+      A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Chris Hedges
+      Chris Hedges is a Pulitzer Prize–winning journalist who was a foreign correspondent
+      for fifteen years for The New York Times, where he served as the Middle East Bureau
+      Chief and Balkan Bureau Chief for the paper. He previously worked overseas for
+      The Dallas Morning News , The Christian Science Monitor , and NPR. He is the host
+      of show The Chris Hedges Report. He was a member of the team that won the 2002
+      Pulitzer Prize for Explanatory Reporting for The New York Times coverage of global
+      terrorism, and he received the 2002 Amnesty International Global Award for Human
+      Rights Journalism. Hedges, who holds a Master of Divinity from Harvard Divinity
+      School, is the author of the bestsellers American Fascists: The Christian Right
+      and the War on America , Empire of Illusion: The End of Literacy and the Triumph
+      of Spectacle and was a National Book Critics Circle finalist for his book War
+      Is a Force That Gives Us Meaning . He writes an online column for the website
+      ScheerPost . He has taught at Columbia University, New York University, Princeton
+      University and the University of Toronto. Author Site'
+    one_sentence_summary: The article by Chris Hedges highlights Jennifer Harbury's
+      account of Israel's involvement in the genocide of indigenous Guatemalans during
+      the 1980s through financial support, training, and oppressive tactics.
+    paragraph_summary: In a recent report, Jennifer Harbury reveals how Israel played
+      a significant role in the genocide of indigenous Guatemalans during the 1980s
+      by providing financial support, military training, and advanced surveillance systems
+      to the Guatemalan government, which employed violent repression tactics against
+      its own people. The article underscores the need for independent journalism amidst
+      a landscape dominated by corporate interests, highlighting the importance of platforms
+      like ScheerPost in delivering critical news. Chris Hedges, a Pulitzer Prize-winning
+      journalist and host of The Chris Hedges Report, emphasizes the urgency of supporting
+      such independent outlets to ensure the continuation of responsible journalism.
+    published: '2025-08-13T09:30:00+00:00'
+  - title: Andrew Cuomo Freaks Out As Polls Show Zohran Dominating
+    url: https://scheerpost.com/2025/08/13/andrew-cuomo-freaks-out-as-polls-show-zohran-dominating/
+    text: 'By Krystal Ball and Ryan Grim / Breaking Points In one of the scariest moments
+      in modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . Please share this story and help us grow our network!
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Krystal Ball Krystal Marie Ball (born November 24, 1981) is an American
+      political commentator and media host. She was previously a political candidate,
+      as well as a television host at MSNBC , a regular contributor to The Huffington
+      Post , and a co-host of The Hill ‘s Rising along with Saagar Enjeti . [2] [3]
+      [4] In May 2021, Ball and Enjeti announced that they were leaving the show in
+      order to launch their own independent project titled Breaking Points with Krystal
+      and Saagar . [3] [2] [5] Ball is a co-host with her husband Kyle Kulinski on the
+      podcast Krystal Kyle & Friends . Author Site Ryan Grim Ryan W. Grim (born March
+      23, 1978) [1] is an American author and journalist. Grim was Washington, D.C.
+      , bureau chief for HuffPost and formerly the Washington, D.C., bureau chief for
+      The Intercept . [2] [3] In July 2024, Grim and The Intercept ‘s co-founder Jeremy
+      Scahill left The Intercept to co-found Drop Site News . [4] He is an author and
+      has published some of his books through Strong Arm Press, an independent progressive
+      publishing house he cofounded. [5] [6] Grim and conservative journalist Emily
+      Jashinsky were the regular Friday hosts of Rising before they resigned in September
+      2022 and joined Breaking Points , where they host the show Counterpoints. [7]
+      Author Site'
+    one_sentence_summary: ScheerPost is seeking financial support to maintain its independent
+      journalism amidst a landscape dominated by corporate interests, emphasizing the
+      need for alternatives that prioritize integrity.
+    paragraph_summary: In a call to action for financial support, Krystal Ball and Ryan
+      Grim emphasize the need for independent journalism amidst a landscape dominated
+      by corporate interests and billionaire influence. They highlight the importance
+      of ScheerPost as a source of integrity in reporting and urge readers to contribute
+      through various donation platforms to help sustain their work. The article also
+      provides brief backgrounds on the authors, noting Ball's experience as a political
+      commentator and host, and Grim's roles in journalism and publishing, underscoring
+      their commitment to delivering vital news.
+    published: '2025-08-13T09:00:00+00:00'
+  - title: Andrew Cuomo Freaks Out As Polls Show Zohran Dominating
+    url: https://scheerpost.com/2025/08/13/andrew-cuomo-freaks-out-as-polls-show-zohran-dominating/
+    text: 'By Krystal Ball and Ryan Grim / Breaking Points In one of the scariest moments
+      in modern history, we''re doing our best at ScheerPost to pierce the fog of lies
+      that conceal it but we need some help to pay our writers and staff. Please consider
+      a tax-deductible donation . Please share this story and help us grow our network!
+      Editor’s Note : A t a moment when the once vaunted model of responsible journalism
+      is overwhelmingly the play thing of self-serving billionaires and their corporate
+      scribes, alternatives of integrity are desperately needed, and ScheerPost is one
+      of them. Please support our independent journalism by contributing to our online
+      donation platform, Network for Good, or send a check to our new PO Box. We can’t
+      thank you enough, and promise to keep bringing you this kind of vital news. Donate
+      Online Send a Check You can also make a donation to our PayPal or subscribe to
+      our Patreon . Krystal Ball Krystal Marie Ball (born November 24, 1981) is an American
+      political commentator and media host. She was previously a political candidate,
+      as well as a television host at MSNBC , a regular contributor to The Huffington
+      Post , and a co-host of The Hill ‘s Rising along with Saagar Enjeti . [2] [3]
+      [4] In May 2021, Ball and Enjeti announced that they were leaving the show in
+      order to launch their own independent project titled Breaking Points with Krystal
+      and Saagar . [3] [2] [5] Ball is a co-host with her husband Kyle Kulinski on the
+      podcast Krystal Kyle & Friends . Author Site Ryan Grim Ryan W. Grim (born March
+      23, 1978) [1] is an American author and journalist. Grim was Washington, D.C.
+      , bureau chief for HuffPost and formerly the Washington, D.C., bureau chief for
+      The Intercept . [2] [3] In July 2024, Grim and The Intercept ‘s co-founder Jeremy
+      Scahill left The Intercept to co-found Drop Site News . [4] He is an author and
+      has published some of his books through Strong Arm Press, an independent progressive
+      publishing house he cofounded. [5] [6] Grim and conservative journalist Emily
+      Jashinsky were the regular Friday hosts of Rising before they resigned in September
+      2022 and joined Breaking Points , where they host the show Counterpoints. [7]
+      Author Site'
+    one_sentence_summary: ScheerPost is seeking financial support to maintain its independent
+      journalism amidst a landscape dominated by corporate interests, emphasizing the
+      need for alternatives that prioritize integrity.
+    paragraph_summary: In a call to action for financial support, Krystal Ball and Ryan
+      Grim emphasize the need for independent journalism amidst a landscape dominated
+      by corporate interests and billionaire influence. They highlight the importance
+      of ScheerPost as a source of integrity in reporting and urge readers to contribute
+      through various donation platforms to help sustain their work. The article also
+      provides brief backgrounds on the authors, noting Ball's experience as a political
+      commentator and host, and Grim's roles in journalism and publishing, underscoring
+      their commitment to delivering vital news.
+    published: '2025-08-13T09:00:00+00:00'
+  - title: Pentagon to Create ‘Domestic Civil Disturbance Quick Reaction Force’
+    url: https://scheerpost.com/2025/08/13/pentagon-to-create-domestic-civil-disturbance-quick-reaction-force/
+    text: 'A Mississippi National Guard Airman assigned to the 172nd Security Forces
+      Squadron searches for simulated enemy combatants during Operation: Dustoff at
+      Thompson Field, Jackson, Mississippi May 22, 2022. Operation: Dustoff was a readiness
+      exercise that reinforced the Wing’s ability to deploy, operate and defend under
+      demanding circumstances. (U.S. Air National Guard photo by Staff Sgt. Jared Bounds)
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Kyle Anzalone / The
+      Libertarian Institute The Department of Defense is planning to create a rapid
+      response force of National Guard troops to quickly deploy to American cities where
+      protests or unrest are occurring. On Tuesday, The Washington Post reported that
+      it obtained documents showing the Pentagon is creating a “Domestic Civil Disturbance
+      Quick Reaction Force.” “The plan calls for 600 troops to be on standby at all
+      times so they can deploy in as little as one hour,” the outlet explained. “They
+      would be split into two groups of 300 and stationed at military bases in Alabama
+      and Arizona, with purview of regions east and west of the Mississippi River, respectively.”
+      One hundred troops at each base would be on standby to deploy within an hour,
+      while the entire quick force would begin operations within 12 hours. The National
+      Guard will be equipped with weapons and riot gear, and the deployments will be
+      limited to 90 days to prevent burnout among the troops. On Monday, Trump announced
+      a major crackdown on crime in Washington, DC, by federalizing the Metropolitan
+      DC police and deploying 800 National Guard troops to the capital city. “This is
+      Liberation Day in DC, and we’re going to take our capital back,” Trump said during
+      a press conference at the White House. “I’m officially invoking the District of
+      Columbia Home Rule Act. And placing the DC Metropolitan Police under direct federal
+      control.” “In addition, I’m deploying the National Guard to help restore law,
+      order and public safety,” he added. Defense Secretary Pete Hegseth said residents
+      of DC will soon see the National Guard in the capital. “You will see them flowing
+      into the streets of Washington in the coming week,” he explained. “At your direction
+      as well, sir, there are other units we are prepared to bring in — other National
+      Guard units, other specialized units. They will be strong, they will be tough
+      and they will stand with their law enforcement partners.” The new quick reaction
+      force may be deployed to other American cities if Trump perceives that there is
+      too much crime. Trump threatened to take similar steps in other major cities,
+      noting he hopes some of them “self-clean up.” “If we need to, we’re going to do
+      the same thing in Chicago, which is a disaster,” the president said. The planned
+      force could face legal barriers as it attempts to deploy to American cities. Many
+      Democratic led-cities may object to a Republican President deploying troops. Additionally,
+      federal law limits the National Guard’s ability to conduct law enforcement within
+      the US. Please share this story and help us grow our network! Editor’s Note :
+      A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Kyle Anzalone
+      Kyle Anzalone is the opinion editor of Antiwar.com, news editor of the Libertarian
+      Institute , and co-host of Conflicts of Interest . Author link'
+    one_sentence_summary: 'A Mississippi National Guard Airman participated in Operation:
+      Dustoff, a readiness exercise aimed at enhancing the Wing''s operational capabilities,
+      while the Department of Defense plans to establish a rapid response force of National
+      Guard troops for domestic unrest.'
+    paragraph_summary: The article discusses the Department of Defense's plan to establish
+      a "Domestic Civil Disturbance Quick Reaction Force" comprising 600 National Guard
+      troops ready to respond to protests or unrest in American cities. According to
+      a report from The Washington Post, these troops will be stationed at military
+      bases in Alabama and Arizona, with the capability to deploy within one hour and
+      begin operations within 12 hours. The force will be equipped with weapons and
+      riot gear, and deployments will be limited to 90 days to avoid troop burnout.
+      Additionally, the article mentions former President Trump's announcement of a
+      crackdown on crime in Washington, D.C., which includes federalizing the Metropolitan
+      DC police and deploying 800 National Guard troops to the capital.
+    published: '2025-08-13T07:26:24+00:00'
+  - title: Pentagon to Create ‘Domestic Civil Disturbance Quick Reaction Force’
+    url: https://scheerpost.com/2025/08/13/pentagon-to-create-domestic-civil-disturbance-quick-reaction-force/
+    text: 'A Mississippi National Guard Airman assigned to the 172nd Security Forces
+      Squadron searches for simulated enemy combatants during Operation: Dustoff at
+      Thompson Field, Jackson, Mississippi May 22, 2022. Operation: Dustoff was a readiness
+      exercise that reinforced the Wing’s ability to deploy, operate and defend under
+      demanding circumstances. (U.S. Air National Guard photo by Staff Sgt. Jared Bounds)
+      In one of the scariest moments in modern history, we''re doing our best at ScheerPost
+      to pierce the fog of lies that conceal it but we need some help to pay our writers
+      and staff. Please consider a tax-deductible donation . By Kyle Anzalone / The
+      Libertarian Institute The Department of Defense is planning to create a rapid
+      response force of National Guard troops to quickly deploy to American cities where
+      protests or unrest are occurring. On Tuesday, The Washington Post reported that
+      it obtained documents showing the Pentagon is creating a “Domestic Civil Disturbance
+      Quick Reaction Force.” “The plan calls for 600 troops to be on standby at all
+      times so they can deploy in as little as one hour,” the outlet explained. “They
+      would be split into two groups of 300 and stationed at military bases in Alabama
+      and Arizona, with purview of regions east and west of the Mississippi River, respectively.”
+      One hundred troops at each base would be on standby to deploy within an hour,
+      while the entire quick force would begin operations within 12 hours. The National
+      Guard will be equipped with weapons and riot gear, and the deployments will be
+      limited to 90 days to prevent burnout among the troops. On Monday, Trump announced
+      a major crackdown on crime in Washington, DC, by federalizing the Metropolitan
+      DC police and deploying 800 National Guard troops to the capital city. “This is
+      Liberation Day in DC, and we’re going to take our capital back,” Trump said during
+      a press conference at the White House. “I’m officially invoking the District of
+      Columbia Home Rule Act. And placing the DC Metropolitan Police under direct federal
+      control.” “In addition, I’m deploying the National Guard to help restore law,
+      order and public safety,” he added. Defense Secretary Pete Hegseth said residents
+      of DC will soon see the National Guard in the capital. “You will see them flowing
+      into the streets of Washington in the coming week,” he explained. “At your direction
+      as well, sir, there are other units we are prepared to bring in — other National
+      Guard units, other specialized units. They will be strong, they will be tough
+      and they will stand with their law enforcement partners.” The new quick reaction
+      force may be deployed to other American cities if Trump perceives that there is
+      too much crime. Trump threatened to take similar steps in other major cities,
+      noting he hopes some of them “self-clean up.” “If we need to, we’re going to do
+      the same thing in Chicago, which is a disaster,” the president said. The planned
+      force could face legal barriers as it attempts to deploy to American cities. Many
+      Democratic led-cities may object to a Republican President deploying troops. Additionally,
+      federal law limits the National Guard’s ability to conduct law enforcement within
+      the US. Please share this story and help us grow our network! Editor’s Note :
+      A t a moment when the once vaunted model of responsible journalism is overwhelmingly
+      the play thing of self-serving billionaires and their corporate scribes, alternatives
+      of integrity are desperately needed, and ScheerPost is one of them. Please support
+      our independent journalism by contributing to our online donation platform, Network
+      for Good, or send a check to our new PO Box. We can’t thank you enough, and promise
+      to keep bringing you this kind of vital news. Donate Online Send a Check You can
+      also make a donation to our PayPal or subscribe to our Patreon . Kyle Anzalone
+      Kyle Anzalone is the opinion editor of Antiwar.com, news editor of the Libertarian
+      Institute , and co-host of Conflicts of Interest . Author link'
+    one_sentence_summary: 'A Mississippi National Guard Airman participated in Operation:
+      Dustoff, a readiness exercise aimed at enhancing the Wing''s operational capabilities,
+      while the Department of Defense plans to establish a rapid response force of National
+      Guard troops for domestic unrest.'
+    paragraph_summary: The article discusses the Department of Defense's plan to establish
+      a "Domestic Civil Disturbance Quick Reaction Force" comprising 600 National Guard
+      troops ready to respond to protests or unrest in American cities. According to
+      a report from The Washington Post, these troops will be stationed at military
+      bases in Alabama and Arizona, with the capability to deploy within one hour and
+      begin operations within 12 hours. The force will be equipped with weapons and
+      riot gear, and deployments will be limited to 90 days to avoid troop burnout.
+      Additionally, the article mentions former President Trump's announcement of a
+      crackdown on crime in Washington, D.C., which includes federalizing the Metropolitan
+      DC police and deploying 800 National Guard troops to the capital.
+    published: '2025-08-13T07:26:24+00:00'
   - title: 'Jeffrey Sachs: Open Letter to Israel Foreign Minister Sa’ar'
     url: https://scheerpost.com/2025/08/12/jeffrey-sachs-open-letter-to-israel-foreign-minister-saar/
     text: 'Photo by Flickr By Jeffrey D. Sachs H.E. Gideon Sa’ar Foreign Minister Government

@@ -7,14 +7,1403 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  The geopolitical landscape in the Middle East remains highly volatile as Israel’s National Security Cabinet has recently approved Prime Minister Netanyahu’s escalation plan in Gaza, intensifying debates both within Israel and among international observers. The focus has shifted toward the potential full occupation of the Gaza Strip, with sharp divisions emerging between Israeli military leaders and ultra-right cabinet members such as Ben Gvir and Smotrich. According to **Richard Falk**, military officials are wary that “aggressive tactics could lead to substantial casualties and further conflict,” while the far-right pushes for a complete takeover and even ethnic cleansing of Palestinians.
+  The ongoing crisis in Gaza continues to dominate the geopolitical landscape, with recent developments highlighting the intensification of information warfare and the targeting of journalists. As the humanitarian situation remains dire, the strategies employed by both Israeli and US actors are increasingly scrutinized for their impact on the flow of information and the broader legitimacy battle surrounding the conflict.
   
-  A central point of contention is the question of governance in Gaza after any occupation. Netanyahu’s proposal to install non-PA Arab forces is widely seen as lacking feasibility and long-term viability, raising concerns about the sustainability of such an arrangement and the risk of deepening the humanitarian crisis. The ongoing suffering in Gaza, marked by mass hunger and water scarcity, continues to draw international condemnation, though the U.S. and U.K. maintain their support for Israel, with only tepid criticism from other Western states.
+  In his latest analysis, **Richard Falk** underscores the "weaponization of information" as a central feature of the current conflict, particularly noting the deliberate targeting of Palestinian journalists. Falk argues that these actions are not isolated incidents but part of a broader strategy by Israel and the US to suppress dissent and control the narrative emerging from Gaza. He states, "The manipulation of the information landscape is designed to marginalize critical voices and shield military operations from accountability." This approach, according to Falk, has contributed to a chilling effect on independent reporting and further complicates efforts to document alleged violations of international law.
   
-  Meanwhile, the international legal response remains fragmented. The establishment of the Gaza Peoples Tribunal in Sarajevo earlier this year reflects growing frustration with the perceived ineffectiveness of official bodies like the ICJ and ICC. As **Falk** notes, the tribunal “seeks to mobilize civic pressure akin to historical movements against apartheid and the Vietnam War,” aiming to hold Israel accountable and advocate for Palestinian self-determination.
+  Meanwhile, the Israeli government’s internal dynamics remain fraught. Prime Minister Netanyahu’s plan to occupy Gaza militarily and transfer governance to non-PA Arab forces faces significant opposition, especially from hardline elements within his own Cabinet. As previously reported, the feasibility and political ramifications of such a move are highly uncertain, with Falk noting that "the Cabinet’s divisions reflect deeper uncertainties about Israel’s long-term strategy in Gaza and the region."
   
-  Looking ahead, the internal divisions within Israel’s leadership are likely to persist, complicating both military operations and post-conflict governance. The humanitarian situation in Gaza is expected to worsen if current trends continue, with little indication of a meaningful shift in Western policy. There is a high chance that civic and international legal initiatives will gain momentum, but their immediate impact on the ground remains uncertain. Most definitely, the legitimacy war over Gaza will intensify, with growing global scrutiny and activism challenging the status quo.
+  On the international stage, the US continues to provide unconditional support to Israel, despite mounting global protests and criticism. The recent US sanctions against UN Special Rapporteur Francesca Albanese, as critiqued by Falk, exemplify Washington’s willingness to undermine international legal mechanisms when they conflict with its strategic interests.
+  
+  **Trends and Predictions:**  
+  The majority of analysts, including Falk, agree that the information war will intensify, with further targeting of journalists and efforts to delegitimize independent reporting. The humanitarian crisis in Gaza is expected to worsen, given the lack of meaningful policy shifts from major actors. There is a high chance that internal Israeli political divisions will persist, hampering any coherent long-term strategy for Gaza. Most definitely, international civil society will continue to mobilize in response to perceived injustices, but without significant policy changes from the US or Israel, the prospects for a negotiated resolution remain bleak.
 articles:
+  - title: The Assassination of Palestinian Journalists
+    url: https://richardfalk.org/2025/08/19/the-assassination-of-palestinian-journalists/
+    text: 'Articles CP+ Subscribe Donate Books Login Podcasts Merch Archives ☰ Facebook
+      Twitter Reddit Email Bluesky August 15, 2025 Richard Falk – Daniel Falcone Facebook
+      Twitter Reddit Bluesky Email Image courtesy of Al Jazeera. In contemporary conflict
+      the “ weaponization of information ” or “ targeting of journalists ” shows a pattern
+      of squashing dissent. Analysts like Martin Libicki and John Arquilla argue how
+      information itself becomes a battlefield in what they call noopolitik . The U.S.
+      and Israel are historically accustomed to exploiting land, sea and air. Manipulating
+      the information space is also nothing new. + 972 Magazine’s Yuval Abraham indicated
+      that Israeli intelligence, or Aman , formed Legitimization Cells to preempt Gaza
+      journalists as Hamas members when Palestinian reporting was spot on, although
+      the press with a political affiliation is commonly accepted elsewhere in the world.
+      In this Q&A, legal scholar and international relations expert Richard Falk discusses
+      the August 10, 2025, Israeli airstrike that killed four Al Jazeera journalists
+      and two others in Gaza. Falk argues that discrediting truth-tellers and murdering
+      the press is consistent with the apartheid worldview that dominates Zionist ideology.
+      Daniel Falcone: When we first spoke on the ruthless censorship of Palestinian
+      journalism , you emphasized how they play a crucial role in challenging the symbolic
+      dominance of the Israeli narrative, often costing their lives . How do you interpret
+      the ongoing deliberate censorship of Palestinian journalism in both Israel and
+      the U.S. and what does that say about the perceived threat of their reporting
+      to dominant geopolitical interests? Richard Falk: When our eyes and ears are conveying
+      a sense of reality that collides with the strategic interests of autocratically
+      disposed governance, the established elites and special interests attached to
+      the status quo become anxious. One response is to exert pressure on private sector
+      media, including advertisers, to engage in self-censorship of a character that
+      obscures perception with ambiguities and false accusations. Israel, with Euro-American
+      acquiescence has gone along with the weaponization of antisemitism to situate
+      criticisms of Israel and Zionism in a zone of uncertainty that blunts action-oriented
+      responses based on international law or shared values, while discrediting or punishing
+      those critics however strong their credentials as skilled analysts and trustworthy
+      presenters of reality as honestly perceived. The prolonged reluctance of influential
+      media in the West to name the assertion of Jewish primacy in various domains of
+      Israeli life as racial or ethnic discrimination that constituted an institutional
+      adoption of a governance style that violated the 1973 International Convention
+      on the Prevention and Punishment of the Crime of Apartheid is a striking pre-October
+      7 example of this phenomenon. Both Western governments, especially, the United
+      States and its NATO partners, remained silent about these apartheid accusations
+      even in the face of a series of academic style reports by the most respected international
+      human rights NGOs (Human Rights Watch, Amnesty International), the UN ( ESCWA
+      2017 ), and even the leading Israeli human rights NGO ( B’Tselem ) each documented
+      the apartheid allegation. Despite these responsibly asserted apartheid accusations
+      they were neither substantively challenged nor commented upon but completely ignored.
+      Indeed, the most forthcoming response, although not intended as such, was from
+      Israel, which indirectly confirmed apartheid allegations in the Knesset Basic
+      Law adopted in 2018. This type of legislation enjoys the highest status in Israel,
+      which has no constitution. The 2018 law explicitly identified Israel as the state
+      of the Jewish people exclusively enjoying the right of self-determination, privileging
+      Hebrew as the official language , and oblivious to the human rights of Palestinians
+      and other minorities living in Israel as well as in the Palestinian Territories
+      of Gaza , the West Bank , and East Jerusalem . This slippage of Israel’s formal
+      democracy into the silent embrace of apartheid was revealingly not treated as
+      relevant in any way to a proper appraisal of Palestinian resistance in the context
+      of the October 7 attack. Instead, public discourse almost totally decontextualized
+      October 7 without reference to the harsh Israeli blockade of Gaza maintained since
+      2007 or the periodic massive Israeli military incursions of 2008-09 , 2012 , 2014
+      or the failure to even explore the diplomatic initiative of Hamas for a long-term
+      ceasefire with a duration of up to 50 years. The response to the publication of
+      the UN ESCWA (Economic and Social Commission of West Asia) report, of which I
+      was co-author along with Virginia Tilley , seems especially illustrative of this
+      impulse to fight back against fact-based scholarship, journalism, and independent
+      experts. Shortly after its issuance in March 2017 our report was attacked in a
+      Security Council meeting by the Israeli and American diplomats in a typical diatribe
+      that was obviously intended to divert attention from the apartheid allegations
+      to claims that the authors were biased against Israel. Seeming to expect self-censoring
+      discipline even at the UN after October 7, the Trump chief representative at the
+      UN, Ambassador Nikki Haley , dutifully launched a venomous personal attack on
+      me (“What’s wrong with this Falk guy?”) and threatened U.S. defunding of the UN
+      if the recently selected UN Secretary General, António Guterres, did not repudiate
+      apartheid report. In response, Guterres appeased the U.S. by ordering the report
+      withdrawn from the ESCWA website , where it was reported to be receiving record
+      number of requests, but stopped short of repudiating its contents. It was enough
+      of a cave in to prompt the principled resignation of the Executive Secretary of
+      ESCWA, Rima Khalif , to resign. [See “ Dismissing Israel apartheid report is an
+      abuse of power writes author ,” Middle East Monitor , April 26, 2017.] This ESCWA
+      anecdote is significant because it demonstrates that the diversionary formula
+      of silence + defamation + naming inhibitions + threats was relied upon before
+      October 7 to protect Israel not only from allegations of serious international
+      crimes but from truth-telling efforts by experts and scholars to name the realities
+      reported upon in a truthful, recognizable language by individuals whose work was
+      highly respected in professional circles. It should not occasion surprise that
+      the same tactics of deflection have been used with even greater vigor to obscure
+      the shameful realities of Gaza genocide. These tactics are losing their self-censoring
+      implementation in recent months as the persistence of genocidal language and tactics
+      by Israeli leaders become increasingly undeniable, not so much by words as by
+      the daily images of dying children and starving Palestinians being shot and often
+      killed at crowded and unruly U.S./Israeli administered aid sites while struggling
+      for death-averting sacks of food . Daniel Falcone: The recent Israeli strike that
+      killed several Al Jazeera journalists outside Al-Shifa Hospital, including Anas
+      al-Sharif , was later accused posthumously of being a Hamas operative, a practice
+      from allies and outlets with actual problematic connections . How does international
+      law evaluate such retroactive justifications for targeting press members in conflict
+      zones ? Richard Falk: I regard as this post-hoc justification for targeting and
+      killing Anas al-Sharif in a Gaza hospital safe zone as an extension of Israel’s
+      determination to destroy, discredit, and inhibit scathing criticism of its genocidal
+      campaign against a defenseless civilian population, estimated at about 2 million
+      survivors of an October 7 population of 2.3 million. Israel tries here to envelop
+      brave Gaza journalists in an intentionally dense ‘ fog of war ,’ reinforced in
+      relation to Anas al-Sharif by the inflammatory accusation without any accompanying
+      evidence that he is an undercover Hamas operative. Ever since this military onslaught
+      commenced nearly two years ago, Israel has been targeting the most influential
+      journalists by relying on advanced surveillance techniques being developed by
+      Palantir and Anduril , companies mentioned by name in the UN Special Rapporteur
+      in her report that led to her formal sanctioning by the U.S. Government on July
+      9. The report to the UN entitled “ From the Economics of Occupation to the Occupation
+      of Genocide ,” devoted to depicting corporate complicity drawing upon a large
+      data base. This continues Israel’s policies of non-cooperation with the most carefully
+      crafted critical journalism that justifies punitive action against truth-telling
+      journalists by an appeal to economic and political national interests. The U.S.
+      Government acting outside the combat zones in Gaza or neighboring Israel has been
+      experimenting with less lethal tactics that have similar goals of inducing confusion,
+      silence, and uncertainty, reinforced by strongly discouraging naming of the carnage
+      and accompanying dehumanizing language as ‘genocide’ on principal media platforms.
+      The defunding of leading university research programs by claiming to be reacting
+      to campus antisemitism and the mounting challenges to undocumented foreign students
+      seems both integral to the commitment to silence Israel’s critics and an aspect
+      of the wider Trump agenda to discredit knowledge based governance , which would
+      make the citizenry even more susceptible to the ultra-right belief-based agenda
+      of the MAGA base, which includes waging a regressive epistemological war against
+      reliance on science-oriented experts. Such a worldview diverts attention from
+      the gravity of increased global warming and indulges the most rapacious dimensions
+      of capitalism. Let me conclude my response by grieving over Anas al-Sharif’s untimely
+      and vengeful assassination by quoting his words indicting our silence and passivity:
+      “If this madness doesn’t end, its people’s voices silenced, their faces erased—and
+      history will remember you as a silent witness to a genocide you chose not to stop.”
+      Daniel Falcone: Al Jazeera has long accused the IDF of running a campaign of incitement
+      against its journalists, calling it a tactic to justify the targeting. How do
+      you view this use of dehumanizing language in priming the public for violence
+      against media workers? Richard Falk: I regard Al Jazeera’s accusations as well
+      founded as a first approximation. The fact that more than 230 journalists have
+      been killed by Israel firepower in Gaza since October 2023, many by design and
+      at close range does give these accusations what lawyers call a prima facie case.
+      It would seem consistent with the stress that Israel has long put on the control
+      of the public discourse pertaining to the underlying Israel/Palestine conflict
+      with tactics shifting as the context shifts. The gravity of the sustained assault
+      on Gaza has gradually turned the tide of public opinion against Israel including
+      its escalations of attempts by Israel to suppress journalistic realism and smear
+      brave journalist as they try to cover the deepening humanitarian crisis in Gaza
+      and the weakening of Western support for the Zionist Project . Al Jazeera has
+      led this effort to tell it like it is, generating extreme hostility among the
+      war planners and political leaders in Tel Aviv. It still not appreciated that
+      this genocide is reaching the point of no return, where the next phase of lament
+      will be in the spirit of ‘we did too little too late.’ Israelis have ‘a need not
+      to know,’ and that places a strain on its highly effective state propaganda machine
+      given what is seen and heard daily throughout the world with decreasing or abandoned
+      filters. For journalism to flourish in this era it needs to be liberated from
+      the beliefs of the ruling elites and get back to addressing the facts as impartially
+      interpreted. There is no other means of assuring a revival of reality-based journalism
+      that is not life threatening to the journalist, but this will depend on the educating
+      the citizenry to demand the protection and valuing of such reportage by organizing
+      civil society pressure on government and special interest private sector lobbying.
+      As suggested earlier in the moving words of Anas al-Sharif it may be already too
+      late, even if such pressures arise forcefully to help end the suffering of Gaza
+      survivors, but we owe it to ourselves and to the human future to shed cautious
+      impulses, and go all out to end this horrifying spectacle of genocide and seek
+      an edifying process by which the perpetrators are held accountable. At present
+      it seems a dream, but some dreams are indirect agents of change. Daniel Falcone:
+      The journalists killed at the gates of the hospital were at a protected site under
+      international law. This compounds the violation. Does this all suggest a greater
+      erosion of respect for international humanitarian norms in Gaza? Richard Falk:
+      Such targeted assassinations aggravate the criminal offense of killing journalists
+      properly identified. This assessment is especially true in relation to Gaza which
+      remains an Occupied Territory subject to compliance by Israel with the framework
+      of international humanitarian law, especially as set forth in the Geneva Convention
+      IV governing Belligerent Occupation . The manner by which these Al Jazeera journalists
+      were targeted should also be legally and morally condemned as forming a vital
+      component of the ongoing genocide by its obvious intention of punishing an influential
+      journalist who conveyed to readers the true nature of the Israeli tactics, thereby
+      warning surviving journalists to avoid truth-telling if they hope to live, a terrifying
+      message that hopes to insulate this Israeli genocide from scrutiny and sanctions.
+      Daniel Falcone: Reports indicate possibly 186 journalists killed in Gaza since
+      October 2023 . Are we witnessing a collapse of traditional protections for war
+      correspondents (Also see: “ the limits of the war photograph ” – Mary Turfah )?
+      Or does this mark a change in how information and its messengers are deliberately
+      neutralized as part of military strategy? Israel almost seems proud of this rogue
+      element and technique to state building through state violence. Richard Falk:
+      You pose an essential question that it is difficult for me to offer a helpful
+      response as I lack necessary familiarity with developing doctrine and how reporting
+      the news is manipulated to avoid friction with public support for military operation.
+      One of the learning lessons of Washington think tanks and foreign policy advisors
+      was the misleading belief that ‘ the war was lost in American living rooms ,’
+      and especially seeing flag-draped coffins on TV carrying the remains of combat
+      casualties. The solution devised, which conveniently relieved the military strategists
+      for the political outcome of the Vietnam War was to embed journalists in combat
+      units, supposing more favorable coverage of military operations and less emphasis
+      on depicting casualties. Israel seems to have followed a much cruder approach
+      in relation to allegations of genocide -given plausibility by fearless journalists
+      reporting from Gaza’s many ground-zero sites of devastation and suffering. Simply
+      put, it is a matter of discrediting truth-telling journalists and other experts
+      if the damaging reports are from Westerners, assassinating if from Palestinians,
+      a pattern borne out by the statistics so far compiled and consistent with the
+      apartheid worldview that dominates Zionist ideology and is subscribed to by a
+      broad echelon of high-level Israeli advisors. For Further Reading: Abraham, Yuval
+      – +972 Magazine Albanese, Francesca – UN Human Rights Council Davidson, Lawrence
+      – To the Point Analysis El-Ad, Hagai – B’Tselem Falk, Richard and Tilley, Virginia
+      – UN ESCWA report, …The Question of Apartheid (2017) Levy, Gideon – Haaretz Loewenstein,
+      Antony – Middle East Eye Mansour, Sherif – Committee to Protect Journalists (CPJ)
+      Morayef, Heba – Foreign Policy Paul, Ari – FAIR, The Battleground Reporters Without
+      Borders (RSF) Nassar, Tamara – The Electronic Intifada Pappé, Ilan – Al Jazeera,
+      The Guardian Shakir, Omar – Human Rights Watch Turfah, Mary – Los Angeles Review
+      of Books Zunes, Stephen – The Progressive'
+    one_sentence_summary: In a Q&A, Richard Falk examines the "weaponization of information"
+      and the targeting of journalists in contemporary conflicts, highlighting how U.S.
+      and Israeli strategies manipulate the information landscape to suppress dissent,
+      particularly in the context of Gaza reporting.
+    paragraph_summary: In a recent discussion, legal scholar Richard Falk addressed
+      the alarming trend of targeting journalists and weaponizing information in contemporary
+      conflicts, particularly in the context of the Israeli airstrike that killed four
+      Al Jazeera journalists in Gaza. Falk highlighted how Israeli intelligence has
+      sought to undermine Palestinian reporting, which often challenges the dominant
+      Israeli narrative, by labeling journalists as affiliated with Hamas. He argues
+      that this censorship reflects a broader apartheid mindset inherent in Zionist
+      ideology, where discrediting truth-tellers is a tactic used by those in power
+      to protect their geopolitical interests. Falk's insights underscore the dangers
+      faced by journalists in conflict zones and the implications of suppressing dissenting
+      voices in the media.
+    published: '2025-08-19T07:40:08+00:00'
+  - title: The Assassination of Palestinian Journalists
+    url: https://richardfalk.org/2025/08/19/the-assassination-of-palestinian-journalists/
+    text: 'Articles CP+ Subscribe Donate Books Login Podcasts Merch Archives ☰ Facebook
+      Twitter Reddit Email Bluesky August 15, 2025 Richard Falk – Daniel Falcone Facebook
+      Twitter Reddit Bluesky Email Image courtesy of Al Jazeera. In contemporary conflict
+      the “ weaponization of information ” or “ targeting of journalists ” shows a pattern
+      of squashing dissent. Analysts like Martin Libicki and John Arquilla argue how
+      information itself becomes a battlefield in what they call noopolitik . The U.S.
+      and Israel are historically accustomed to exploiting land, sea and air. Manipulating
+      the information space is also nothing new. + 972 Magazine’s Yuval Abraham indicated
+      that Israeli intelligence, or Aman , formed Legitimization Cells to preempt Gaza
+      journalists as Hamas members when Palestinian reporting was spot on, although
+      the press with a political affiliation is commonly accepted elsewhere in the world.
+      In this Q&A, legal scholar and international relations expert Richard Falk discusses
+      the August 10, 2025, Israeli airstrike that killed four Al Jazeera journalists
+      and two others in Gaza. Falk argues that discrediting truth-tellers and murdering
+      the press is consistent with the apartheid worldview that dominates Zionist ideology.
+      Daniel Falcone: When we first spoke on the ruthless censorship of Palestinian
+      journalism , you emphasized how they play a crucial role in challenging the symbolic
+      dominance of the Israeli narrative, often costing their lives . How do you interpret
+      the ongoing deliberate censorship of Palestinian journalism in both Israel and
+      the U.S. and what does that say about the perceived threat of their reporting
+      to dominant geopolitical interests? Richard Falk: When our eyes and ears are conveying
+      a sense of reality that collides with the strategic interests of autocratically
+      disposed governance, the established elites and special interests attached to
+      the status quo become anxious. One response is to exert pressure on private sector
+      media, including advertisers, to engage in self-censorship of a character that
+      obscures perception with ambiguities and false accusations. Israel, with Euro-American
+      acquiescence has gone along with the weaponization of antisemitism to situate
+      criticisms of Israel and Zionism in a zone of uncertainty that blunts action-oriented
+      responses based on international law or shared values, while discrediting or punishing
+      those critics however strong their credentials as skilled analysts and trustworthy
+      presenters of reality as honestly perceived. The prolonged reluctance of influential
+      media in the West to name the assertion of Jewish primacy in various domains of
+      Israeli life as racial or ethnic discrimination that constituted an institutional
+      adoption of a governance style that violated the 1973 International Convention
+      on the Prevention and Punishment of the Crime of Apartheid is a striking pre-October
+      7 example of this phenomenon. Both Western governments, especially, the United
+      States and its NATO partners, remained silent about these apartheid accusations
+      even in the face of a series of academic style reports by the most respected international
+      human rights NGOs (Human Rights Watch, Amnesty International), the UN ( ESCWA
+      2017 ), and even the leading Israeli human rights NGO ( B’Tselem ) each documented
+      the apartheid allegation. Despite these responsibly asserted apartheid accusations
+      they were neither substantively challenged nor commented upon but completely ignored.
+      Indeed, the most forthcoming response, although not intended as such, was from
+      Israel, which indirectly confirmed apartheid allegations in the Knesset Basic
+      Law adopted in 2018. This type of legislation enjoys the highest status in Israel,
+      which has no constitution. The 2018 law explicitly identified Israel as the state
+      of the Jewish people exclusively enjoying the right of self-determination, privileging
+      Hebrew as the official language , and oblivious to the human rights of Palestinians
+      and other minorities living in Israel as well as in the Palestinian Territories
+      of Gaza , the West Bank , and East Jerusalem . This slippage of Israel’s formal
+      democracy into the silent embrace of apartheid was revealingly not treated as
+      relevant in any way to a proper appraisal of Palestinian resistance in the context
+      of the October 7 attack. Instead, public discourse almost totally decontextualized
+      October 7 without reference to the harsh Israeli blockade of Gaza maintained since
+      2007 or the periodic massive Israeli military incursions of 2008-09 , 2012 , 2014
+      or the failure to even explore the diplomatic initiative of Hamas for a long-term
+      ceasefire with a duration of up to 50 years. The response to the publication of
+      the UN ESCWA (Economic and Social Commission of West Asia) report, of which I
+      was co-author along with Virginia Tilley , seems especially illustrative of this
+      impulse to fight back against fact-based scholarship, journalism, and independent
+      experts. Shortly after its issuance in March 2017 our report was attacked in a
+      Security Council meeting by the Israeli and American diplomats in a typical diatribe
+      that was obviously intended to divert attention from the apartheid allegations
+      to claims that the authors were biased against Israel. Seeming to expect self-censoring
+      discipline even at the UN after October 7, the Trump chief representative at the
+      UN, Ambassador Nikki Haley , dutifully launched a venomous personal attack on
+      me (“What’s wrong with this Falk guy?”) and threatened U.S. defunding of the UN
+      if the recently selected UN Secretary General, António Guterres, did not repudiate
+      apartheid report. In response, Guterres appeased the U.S. by ordering the report
+      withdrawn from the ESCWA website , where it was reported to be receiving record
+      number of requests, but stopped short of repudiating its contents. It was enough
+      of a cave in to prompt the principled resignation of the Executive Secretary of
+      ESCWA, Rima Khalif , to resign. [See “ Dismissing Israel apartheid report is an
+      abuse of power writes author ,” Middle East Monitor , April 26, 2017.] This ESCWA
+      anecdote is significant because it demonstrates that the diversionary formula
+      of silence + defamation + naming inhibitions + threats was relied upon before
+      October 7 to protect Israel not only from allegations of serious international
+      crimes but from truth-telling efforts by experts and scholars to name the realities
+      reported upon in a truthful, recognizable language by individuals whose work was
+      highly respected in professional circles. It should not occasion surprise that
+      the same tactics of deflection have been used with even greater vigor to obscure
+      the shameful realities of Gaza genocide. These tactics are losing their self-censoring
+      implementation in recent months as the persistence of genocidal language and tactics
+      by Israeli leaders become increasingly undeniable, not so much by words as by
+      the daily images of dying children and starving Palestinians being shot and often
+      killed at crowded and unruly U.S./Israeli administered aid sites while struggling
+      for death-averting sacks of food . Daniel Falcone: The recent Israeli strike that
+      killed several Al Jazeera journalists outside Al-Shifa Hospital, including Anas
+      al-Sharif , was later accused posthumously of being a Hamas operative, a practice
+      from allies and outlets with actual problematic connections . How does international
+      law evaluate such retroactive justifications for targeting press members in conflict
+      zones ? Richard Falk: I regard as this post-hoc justification for targeting and
+      killing Anas al-Sharif in a Gaza hospital safe zone as an extension of Israel’s
+      determination to destroy, discredit, and inhibit scathing criticism of its genocidal
+      campaign against a defenseless civilian population, estimated at about 2 million
+      survivors of an October 7 population of 2.3 million. Israel tries here to envelop
+      brave Gaza journalists in an intentionally dense ‘ fog of war ,’ reinforced in
+      relation to Anas al-Sharif by the inflammatory accusation without any accompanying
+      evidence that he is an undercover Hamas operative. Ever since this military onslaught
+      commenced nearly two years ago, Israel has been targeting the most influential
+      journalists by relying on advanced surveillance techniques being developed by
+      Palantir and Anduril , companies mentioned by name in the UN Special Rapporteur
+      in her report that led to her formal sanctioning by the U.S. Government on July
+      9. The report to the UN entitled “ From the Economics of Occupation to the Occupation
+      of Genocide ,” devoted to depicting corporate complicity drawing upon a large
+      data base. This continues Israel’s policies of non-cooperation with the most carefully
+      crafted critical journalism that justifies punitive action against truth-telling
+      journalists by an appeal to economic and political national interests. The U.S.
+      Government acting outside the combat zones in Gaza or neighboring Israel has been
+      experimenting with less lethal tactics that have similar goals of inducing confusion,
+      silence, and uncertainty, reinforced by strongly discouraging naming of the carnage
+      and accompanying dehumanizing language as ‘genocide’ on principal media platforms.
+      The defunding of leading university research programs by claiming to be reacting
+      to campus antisemitism and the mounting challenges to undocumented foreign students
+      seems both integral to the commitment to silence Israel’s critics and an aspect
+      of the wider Trump agenda to discredit knowledge based governance , which would
+      make the citizenry even more susceptible to the ultra-right belief-based agenda
+      of the MAGA base, which includes waging a regressive epistemological war against
+      reliance on science-oriented experts. Such a worldview diverts attention from
+      the gravity of increased global warming and indulges the most rapacious dimensions
+      of capitalism. Let me conclude my response by grieving over Anas al-Sharif’s untimely
+      and vengeful assassination by quoting his words indicting our silence and passivity:
+      “If this madness doesn’t end, its people’s voices silenced, their faces erased—and
+      history will remember you as a silent witness to a genocide you chose not to stop.”
+      Daniel Falcone: Al Jazeera has long accused the IDF of running a campaign of incitement
+      against its journalists, calling it a tactic to justify the targeting. How do
+      you view this use of dehumanizing language in priming the public for violence
+      against media workers? Richard Falk: I regard Al Jazeera’s accusations as well
+      founded as a first approximation. The fact that more than 230 journalists have
+      been killed by Israel firepower in Gaza since October 2023, many by design and
+      at close range does give these accusations what lawyers call a prima facie case.
+      It would seem consistent with the stress that Israel has long put on the control
+      of the public discourse pertaining to the underlying Israel/Palestine conflict
+      with tactics shifting as the context shifts. The gravity of the sustained assault
+      on Gaza has gradually turned the tide of public opinion against Israel including
+      its escalations of attempts by Israel to suppress journalistic realism and smear
+      brave journalist as they try to cover the deepening humanitarian crisis in Gaza
+      and the weakening of Western support for the Zionist Project . Al Jazeera has
+      led this effort to tell it like it is, generating extreme hostility among the
+      war planners and political leaders in Tel Aviv. It still not appreciated that
+      this genocide is reaching the point of no return, where the next phase of lament
+      will be in the spirit of ‘we did too little too late.’ Israelis have ‘a need not
+      to know,’ and that places a strain on its highly effective state propaganda machine
+      given what is seen and heard daily throughout the world with decreasing or abandoned
+      filters. For journalism to flourish in this era it needs to be liberated from
+      the beliefs of the ruling elites and get back to addressing the facts as impartially
+      interpreted. There is no other means of assuring a revival of reality-based journalism
+      that is not life threatening to the journalist, but this will depend on the educating
+      the citizenry to demand the protection and valuing of such reportage by organizing
+      civil society pressure on government and special interest private sector lobbying.
+      As suggested earlier in the moving words of Anas al-Sharif it may be already too
+      late, even if such pressures arise forcefully to help end the suffering of Gaza
+      survivors, but we owe it to ourselves and to the human future to shed cautious
+      impulses, and go all out to end this horrifying spectacle of genocide and seek
+      an edifying process by which the perpetrators are held accountable. At present
+      it seems a dream, but some dreams are indirect agents of change. Daniel Falcone:
+      The journalists killed at the gates of the hospital were at a protected site under
+      international law. This compounds the violation. Does this all suggest a greater
+      erosion of respect for international humanitarian norms in Gaza? Richard Falk:
+      Such targeted assassinations aggravate the criminal offense of killing journalists
+      properly identified. This assessment is especially true in relation to Gaza which
+      remains an Occupied Territory subject to compliance by Israel with the framework
+      of international humanitarian law, especially as set forth in the Geneva Convention
+      IV governing Belligerent Occupation . The manner by which these Al Jazeera journalists
+      were targeted should also be legally and morally condemned as forming a vital
+      component of the ongoing genocide by its obvious intention of punishing an influential
+      journalist who conveyed to readers the true nature of the Israeli tactics, thereby
+      warning surviving journalists to avoid truth-telling if they hope to live, a terrifying
+      message that hopes to insulate this Israeli genocide from scrutiny and sanctions.
+      Daniel Falcone: Reports indicate possibly 186 journalists killed in Gaza since
+      October 2023 . Are we witnessing a collapse of traditional protections for war
+      correspondents (Also see: “ the limits of the war photograph ” – Mary Turfah )?
+      Or does this mark a change in how information and its messengers are deliberately
+      neutralized as part of military strategy? Israel almost seems proud of this rogue
+      element and technique to state building through state violence. Richard Falk:
+      You pose an essential question that it is difficult for me to offer a helpful
+      response as I lack necessary familiarity with developing doctrine and how reporting
+      the news is manipulated to avoid friction with public support for military operation.
+      One of the learning lessons of Washington think tanks and foreign policy advisors
+      was the misleading belief that ‘ the war was lost in American living rooms ,’
+      and especially seeing flag-draped coffins on TV carrying the remains of combat
+      casualties. The solution devised, which conveniently relieved the military strategists
+      for the political outcome of the Vietnam War was to embed journalists in combat
+      units, supposing more favorable coverage of military operations and less emphasis
+      on depicting casualties. Israel seems to have followed a much cruder approach
+      in relation to allegations of genocide -given plausibility by fearless journalists
+      reporting from Gaza’s many ground-zero sites of devastation and suffering. Simply
+      put, it is a matter of discrediting truth-telling journalists and other experts
+      if the damaging reports are from Westerners, assassinating if from Palestinians,
+      a pattern borne out by the statistics so far compiled and consistent with the
+      apartheid worldview that dominates Zionist ideology and is subscribed to by a
+      broad echelon of high-level Israeli advisors. For Further Reading: Abraham, Yuval
+      – +972 Magazine Albanese, Francesca – UN Human Rights Council Davidson, Lawrence
+      – To the Point Analysis El-Ad, Hagai – B’Tselem Falk, Richard and Tilley, Virginia
+      – UN ESCWA report, …The Question of Apartheid (2017) Levy, Gideon – Haaretz Loewenstein,
+      Antony – Middle East Eye Mansour, Sherif – Committee to Protect Journalists (CPJ)
+      Morayef, Heba – Foreign Policy Paul, Ari – FAIR, The Battleground Reporters Without
+      Borders (RSF) Nassar, Tamara – The Electronic Intifada Pappé, Ilan – Al Jazeera,
+      The Guardian Shakir, Omar – Human Rights Watch Turfah, Mary – Los Angeles Review
+      of Books Zunes, Stephen – The Progressive'
+    one_sentence_summary: In a Q&A, Richard Falk examines the "weaponization of information"
+      and the targeting of journalists in contemporary conflicts, highlighting how U.S.
+      and Israeli strategies manipulate the information landscape to suppress dissent,
+      particularly in the context of Gaza reporting.
+    paragraph_summary: In a recent discussion, legal scholar Richard Falk addressed
+      the alarming trend of targeting journalists and weaponizing information in contemporary
+      conflicts, particularly in the context of the Israeli airstrike that killed four
+      Al Jazeera journalists in Gaza. Falk highlighted how Israeli intelligence has
+      sought to undermine Palestinian reporting, which often challenges the dominant
+      Israeli narrative, by labeling journalists as affiliated with Hamas. He argues
+      that this censorship reflects a broader apartheid mindset inherent in Zionist
+      ideology, where discrediting truth-tellers is a tactic used by those in power
+      to protect their geopolitical interests. Falk's insights underscore the dangers
+      faced by journalists in conflict zones and the implications of suppressing dissenting
+      voices in the media.
+    published: '2025-08-19T07:40:08+00:00'
+  - title: Gaza’s Urgency and Lessons for the Future
+    url: https://richardfalk.org/2025/08/17/gazas-urgency-and-lessons-for-the-future/
+    text: '[Prefatory Note: Interview text of responses to question]s posed by Naman
+      Bakaç, an idependent journalist in Turkey. The interview was published by FOCUS,
+      an independent online media platform. The link can be found at the link below:
+      https://www.fokusplus.com/roportaj/prof-dr-richard-falk-bm-ve-kuresel-hukuk-filistin-halkinin-haklarini-koruyamadi?s=09
+      ] 1. Let’s start with your book ‘Genocide in Gaza: Voices of Global Conscience,’
+      which you co-edited with Ahmet Davutoğlu and was published in June 2025. The book
+      includes articles by more than 30 politicians, academics, diplomats, intellectuals,
+      and statesmen from 17 countries. Who are the contributors in this book? What motivations
+      led to the creation of this book? What message do you aim to convey to the global
+      public through this book? Response : As we explain in the Preface, the contributors
+      were selected from a much larger group of distinguished signatories of a Declaration
+      of Conscience, drafted by the former Prime Minister of Turkey, Ahmet Davutoglu
+      and myself, and issued in late 2023 not long after the October 7 events. The Hamas-led
+      attack was designed to be an anguished protest against the failure of governments
+      and the UN to bring what seemed to us almost from its outset to be a transparent
+      genocide carried out in real time and by digital technology brought to the awareness
+      of the eyes and ears of the world. The issuance of our Declaration was met with
+      unexpected enthusiasm from frustrated citizens in many countries that resulted
+      in the private funding of a conference in London on 27 March 2024. By coincidence,
+      the conference was held the day after the International Court of Justice made
+      its historic initial interim rulings in response to requests from South Africa
+      that had submitted a legal dispute with Israel as to whether Israeli violence
+      was of a nature that violated the International Convention on Genocide, as well
+      as whether Israel was legally obliged to stop obstructing the international delivery
+      of humanitarian aid to the civilian population of Gaza. Naturally, we were encouraged
+      by these ICJ rulings to the effect that Israeli indiscriminate violence against
+      the civilian population of Gaza coupled with the Israeli official decrees prohibiting
+      entry of food, fuel, and water made allegations of genocide ‘plausible.’ As well,
+      the ICJ in a second near unanimous judicial ruling ordered Israel to stop interfering
+      with the delivery of urgently needed humanitarian aid. These ICJ rulings encouraged
+      us to continue our effort to mobilize civil society on the basis of a justice-driven
+      interpretation of law to engage with this unfolding human tragedy through the
+      activation of nonviolent solidarity initiatives. If a single message emerges from
+      such a multi-authored book gathering between its pages distinguished public personalities
+      from around the world with diverse perspectives on global issues, yet united in
+      condemning the genocide, it is this: when the existing normative order of rules,
+      procedures, and institutions established by governments and international institutions,
+      especially those falling within the UN System, fails to meet an urgent challenge
+      to peace and human rights, it is time for the peoples of the world to act in resolute
+      opposition. In our search for participants, we wanted to focus on people whose
+      view were similar to ourselves who were not presently holders of high positions
+      in governments or inter-governmental institutions but were widely respected as
+      moral authority figures. Our influence and ‘weapons’ were of the mind, heart,
+      and spirit that were best expressed by engaged citizenship, trust in the guidance
+      of conscience, and existential belief in the power of people in the service of
+      truth. We hope our book conveys that message, which includes the conviction that
+      conscience in extreme situations demands action as well as rhetorical utterances.
+      Words unsupported by action in the face of genocide is an unacceptable form of
+      silence. We regard our efforts as playing a small but determined part in an emergent
+      global solidarity movement of people in support of the Palestinian struggle for
+      basic rights, above all, the right of self- determination. From the London Conference
+      devoted to exploring the implications of the Gaza Declaration, the idea of a book
+      emerged as a matter of course, encouraged by a publishing commitment by Clarity
+      Press. Our intention was to have this varied collection of writings exhibit both
+      shared values and diverse policy judgments, and stimulate creative solidarity
+      actions throughout the world, thereby confirming the view that the Gaza Genocide
+      is not just an urgent challenge to all of humanity, but is also a test of whether
+      the peoples of the world can develop moral agency to challenge dark challenges
+      to the human future. As far as the book is concerned, I think the range and quality
+      of the contributions exceeded our expectations, although admittedly its impacts
+      on human behavior remain unknowable, and even after 21 months such initiatives
+      have not extinguished the need for intensifying activism in support of the Palestinian
+      struggle. 2. In December 2023, you published a text calling for international
+      justice and conscience conference on Palestine was held in London. Could these
+      civil initiatives you undertook out of a sense of responsibility turn into a global
+      civil movement to enforce international law and order? Has it already turned into
+      one? Can wesay that, while the UN and international law have failed in the face
+      of the Gazagenocide, you are moving from words to action with this civil movement?
+      Afterall, the unifying theme of the London Conference was that words are not enough
+      and action is imperative., which included some of the names in your new book.
+      Response : Although we were motivated to make what contribution we could to change
+      the political atmosphere sufficiently to stop the genocide, we had no illusions
+      that our pleas for humane politics would be heeded in the short run. Yet we felt
+      that silence in its two forms was unacceptable, that is, refusing to name the
+      violence of the Israeli response as ‘genocide,’ given its clear intentionality
+      as further exhibited in its actions. Since naming gave rise to various forms of
+      punitive pushback, especially in Europe and North America during the months after
+      October 7, to name the violence ‘genocide’ was not only a word but became an action
+      in defiance of Zionist worldwide efforts to treat evidenced- based criticism of
+      Israel as a hateful form of antisemitism. As the genocide has persisted now for
+      more almost two years genocide as the accepted descripted term has been somewhat
+      normalized even in the mainstream media. It is still true that few governmental
+      or officials in international institutions of the West speak of ‘genocide’ even
+      when condemning the prolonged Israeli violence, and even UN top officials while
+      highly critical of Israel’s behavior continue to refrain from characterizing the
+      violence in Gaza as genocide. It is notable that Francesca Albanese, the fearless
+      UN Special Rapporteur for Occupied Palestine has been admirably forthright when
+      it coming to naming, devoting three of her semi-annual official reports to different
+      facets of genocide, including the depiction of the Zionist Project as a prime
+      instance of ‘settler colonialism’ and complicit behavior of supporting governments
+      and profit-making corporations as integral to Israel’s criminal responsibility
+      for genocide. It is not surprising in view of this that Ms. Albanese has been
+      singled out by the US Government and sanctioned in her personal capacity, being
+      denied entry to the US and having her American assets frozen, a vindicative response
+      to truthful witnessing on behalf of the public good, illustrative of UN functioning
+      with courage and effectiveness despite contrary systemic pressures according to
+      the high ideals of the Preamble to the UN Charter. As indicated in my response
+      to your first question, the confinement of criticism of Israel’s onslaught on
+      Gaza to words of condemnation are insufficient in the face of prolonged and transparent
+      genocide, with cruel and aggravating tendencies for more than 22 months. Action
+      must be proposed and acted upon, whether the actors are governments, institutions,
+      civil society activist, or individuals and collectivities of various sorts. The
+      political suicide of Aaron Bushnell in 2023, an American airman in front of Israel’s
+      embassy in Washington is illustrative of an extreme humanistic sacrifice or self-martyrdom,
+      an enactment of the repudiation of genocide as well as a desperate appeal to others
+      to take action aimed at stopping the genocide. The action of Madleen Freedom Flotilla
+      mission undertaken by Greta Thunberg and other brave and dedicated activists is
+      another example of anti-genocidal activism, with an emphasis on both highlighting
+      and circumventing Israel’s disruptions of the international delivery of urgently
+      needed humanitarian aid, an initiative that combines a care-giving gesture in
+      the context of the humanitarian emergency in Gaza with an unspoken yet powerful
+      appeal to others to engage actively, given their personal situation, in a variety
+      of ways that involves truth-telling and solidarity with the victimized population
+      of Gaza. The importance of conscience as a motive for political action is gives
+      rise to expressions of bravery in situations of risk without knowing whether controversial
+      utterances will engender a response from those hitherto on the sidelines that
+      might grow into a movement with transformative capabilities valuable for their
+      own sake. In that sense, opposing genocide in Gaza is both an intrinsic reaction
+      of conscience and a distinct action that has political goals of motivating others
+      to join the struggle. In retrospect, it is obvious that from feeble solidarity
+      initiatives early on, a civil society movement of many distinct parts has grown
+      to the point where Israel’s legitimacy as a state is increasingly drawn into question,
+      both symbolically and substantively. One manifestation of this solidarity trend
+      is the intensity of growing calls for Israel’s suspension from UN activities,
+      as well as proposals for arms embargoes, denial of visas to Israeli citizens,
+      boycotts of cultural and sporting events, solidarity fasts and cutting diplomatic
+      and economic relations with Israel. Even though Israel has continued to follow
+      its lawless, abusive path, its behavior and identity has been slowly delegitimized
+      by public discourse even in the most influential civil society media platforms
+      of the West, reflecting the symbolic defeat of Israel when it comes to controlling
+      the high normative ground of law and morality. As I have argued in the past the
+      side that wins the Legitimacy War fought over symbolic entitlements of legality
+      and morality tends to prevail politically in the end despite being defeated on
+      the battlefield due to inferior military capabilities. The Palestinians of Gaza,
+      with the help of global supportive solidarity and Palestinian resistance and sumud,
+      have clearly won the Legitimacy War despite the tragic costs paid by participants
+      in such anti-colonial liberation struggles. As with other anti-colonial uprisings,
+      the uncertainty is whether the Palestinians have the national stamina to gain
+      the fruits of such a victory, that is, national liberation embodying the realization
+      of the ultimate human right, that of self-determination. Israel under the sway
+      of Zionist ideology and the Masada Complex seems prepared to pay a far higher
+      price in blood, treasure, and reputation than have been other recent settler colonial
+      projects to exterminate opposition its goals of eliminating resistance by the
+      native or homeland residents. 3.The Israel-Iran war raises many questions as to
+      what kinds of changes will it bring to the regional and global order? What do
+      you think is the real reason behind Israel targeting Iran after Gaza, Lebanon,
+      Syria, and Yemen? What do you think are the geopolitical and the political goals
+      of the Israel-US duo? Response : Israel has made clear in its foreign policy pronouncements
+      that it seeks to prevent any country in the region from becoming strong or bold
+      enough to challenge Israel’s military preeminence. Its extension of the Gaza combat
+      zone to several Middle Eastern countries signals its resolve to eliminate or severely
+      weaken any Islamic non-state movement that is aligned with the Palestinian struggle
+      for national liberation, the exercise of its long-denied rights of self-determination
+      and perceived in Tel Aviv to pose a challenge to Israel’s strategic and hegemonic
+      ambitions. The inflamed atmosphere caused by the prolonged genocide in Gaza give
+      rise to a context in which rising global discontent with Israel create incentives
+      to strike at its actual and imagined regional adversaries. Iran above all is singled
+      out as Enemy No. 1, in part to divert attention from the grim happenings in Gaza
+      and the West Bank, to carry out its long-time strategy of remaking the Middle
+      East to its liking, and to address Iran’s supposed security threat centered on
+      its potential acquisition of nuclear weapons. The Israeli justifications involve
+      preempting security threats before they can materialize or striking disproportionately
+      (along the lines of the Dahiya Doctrine) in response to behavior perceived as
+      hostile to the Zionist game plan that features the minimization of a Palestinian
+      presence within an enlarged reconfigured Israel that erases Palestine from the
+      map of what Netanyahu likes to call ‘the New Middle East’ or ‘Greater Israel.’
+      Such ambitions would compel the massive physical displacement and psychological
+      marginalization of Palestinians. It also seeks to coerce the most defeatist representatives
+      of Palestine to agree to the surrender of national political goals, including
+      the most basic rights embodied in international law, especially in relation to
+      human rights. The 12-day Iran War exemplifies this approach, with the proclaimed
+       goal of eliminating, or at least substantially delaying, Iran’s alleged threat
+      to acquire nuclear weapons. A secondary rarely openly acknowledged goal is to
+      stimulate a restive Iranian opposition to seize the moment to launch a campaign
+      to achieve regime change in Tehran. Underlying these, is an unspoken third goal
+      of renewing fear of Israel’s deterrent capabilities and preventive war mindset
+      in a potentially hostile post-Assad Syria feared to emerge as a destabilizing
+      presence in the Middle East. The attack on Iran also created an opportunity that
+      came to fruition to involve the US directly in the coercive administration of
+      Middle East politics. Israel’s dependence on US supplementing its initial attacks
+      by enlisting B2 planes that the US alone possessed delivering Blockbuster Bombs
+      on underground Iranian nuclear sites demonstrated the strength of Israel’s leverage
+      in Washington and the limits of Israel’s purported military dominance in the Middle
+      East. The Israel/US duo in the region has two imperial objectives. The first is
+      assuring friendly governments control the energy resources of the region. The
+      other is to contain the spread of Islam beyond the vital civilizational fault
+      lines in the Middle East. This second goal helps explain the blind eye that the
+      Western liberal democracies turned toward the prolonged genocidal assault on the
+      civilian population of Gaza while actually exhibiting complicity in the commission
+      of this crime. This crime simultaneously denied the right to life, right to peace,
+      and a rebuff of fundamental individual and collective legal entitlements of national
+      self- determination to all peoples. 4.You previously served as the UN Special
+      Rapporteur on Palestine. Prof. Michael Lynk, who served as the UN Special Rapporteur
+      on Palestine between 2016 and 2022, recently stated at Boğaziçi University’s conference
+      ‘Rethinking International Law after Gaza’ that international law alone cannot
+      ensure Palestine’s liberation and that there must also be international resolve.
+      What concrete proposals do you have for establishing the resolve to implement
+      the principles and decisions of internation al law? Resp onse: I share Michael
+      Lynk’s view about the inability of international legal authority to be self-enforcing
+      in situations of defiant non-compliance that Israel has manifested in all aspects
+      of its relations with the Palestinian people and most dramatically over the course
+      of more than 22 months of a genocidal assault on the civilian population of Gaza
+      and the devastation of physical infrastructure of Gazan society casting doubt
+      of its viability as a place fit for human habitation. This is especially the case,
+      as here, where the violator enjoys geopolitical support from the US and the European
+      Union. There are several steps that can be taken on levels of policy and others
+      of a more systemic character. Civil Society Solidarity Initiatives . There are
+      variety of ways that people can act to close the enforcement, accountability,
+      and complicity gaps when the UN and organized normative order fails, as it has
+      in Gaza, and more generally with regard to protecting the basic rights of the
+      Palestinian people. The struggle against the South African apartheid regime illustrates
+      the impact of civil society activism in the struggle to combat racist criminality.
+      Such initiatives as the BDS movement, featuring nationalist boycotts of cultural
+      and sporting events by refusals to perform in South Africa and mounting pressure
+      to exclude participation by South African performers and athletes elsewhere contributed
+      to anti-apartheid struggle, as well as seeking to discourage new investments and
+      to divest from past investments, and sanctions by way of arms embargoes and other
+      punitive actions were expressions of moral outrage directed at the South African
+      regime, and although unacknowledged, are widely thought to have contributed to
+      the unexpected and sudden decision by South African leaders to abandon apartheid,
+      free Nelson Mandela from prison after 27 years, and arrange free elections of
+      all South African inhabitants to select a new leadership and establish a constitutional
+      structure based on racial equality and human rights for all. There are a variety
+      of other solidarity initiatives that can be mentioned: waging a Legitimacy War
+      to control public discourse, with the winner controlling the high ground of law
+      and morality; exertions of a variety of pressures on media and government in complicit
+      countries; protests by global voices of conscience demanding arms embargoes; individual
+      actions such as tax refusal and self- martyrdom in protest. Collective Governmental
+      Coalition . The Hague Group, originally formed by states of the Global South,
+      provides a venue for opposing Israel’s Gaza genocide, including a statement of
+      purpose and the recommendation of action-oriented measures intended to exert pressure
+      on Israel in relation to its behavior in Occupied Palestine. The Hague Group met
+      in Bogotá at an emergency meeting at the joint invitation of Colombia and South
+      Africa. A Declaration signed by the 30 participating governments and the adoption
+      of a commitment to impose a series of anti-Israeli measure by 12 of the participating
+      states. The event is an important indication of the emergence of the Global South
+      from a period of post- colonial passivity and suggests a revival under altered
+      circumstances of the Bandung Spirit, which challenged the preoccupations of the
+      Cold War by giving priorities to liberation struggles and development priorities,
+      and projecting a different conception of global security and international legitimacy
+      at the UN and elsewhere. UN Reform . There are variety of UN Reforms that would
+      enhance respect for international law and enforcement/accountability prospects.
+      The most promising reforms to achieve a more effective UN that seek to serve global
+      public interests with respect to war prevention and global security include the
+      following: empowerment of the General Assembly via implementation of the Uniting
+      for Peace Resolution and Responsibility to Protect (R2P), direct enforcement without
+      recourse to Security Council of ICJ judgments; elimination or curtailment of the
+      right of veto in the Security Council and in other decision points in the UN System;
+      expediting ICJ proceedings in emergency situations; renaming ‘Advisory Opinions’
+      of ICJ as ‘Authoritative Legal Judgments;’ adding layers of protections to the
+      work of Special Procedures to ensure political independence and immunity from
+      defamation and sanctions. Seldom discussed is the enhancement of status of UN
+      Special Rapporteurs, including more explicit responsibilities of the UN Secretariat
+      to offer protection extending to disallowing defamatory attacks by NGOs within
+      UN arenas of appraisal such as the Human Rights Council. Vesting increased war
+      prevention authority in the office of the Secretary General. New Pedagogical Paradigm
+      . Legal education is deficient in its approach to international law, especially
+      in relation to core public order issues of conflict, human rights, and development.
+      It focuses on the vocational preparation of students to be practicing lawyers
+      within the confines of nation states. International law is seen as a discretionary
+      subject at the margins of the law school curricula and is not well understood
+      even within democratic societies governed in accord with constitutional commitments
+      to uphold the ‘rule of law.’ A pedagogy of international law that would be more
+      supportive of a global normative order that was more geared to the realization
+      of values associated with peace, justice, and sustainable development would view
+      legal education as a vital source of civic education in relation to engaged citizenship.
+      The goals would be to require all graduates of law schools and other law programs
+      to grasp the relevance of an effective just world order to human interests in
+      overcoming global challenges. Educational reform would also include course offerings
+      on the history of international relations. Courses would feature critiques of
+      ‘political realism’ that continues to be the shared operational code of planners
+      and advisors that shape the worldviews and foreign policy of almost all leading
+      governments. The ‘group think’ of foreign policy elites create an atmosphere in
+      which strategic ambitions and security calculations take precedence, limiting
+      international law in its regulative role to policy settings in which mutuality
+      is seen to exist. With respect to global security context the propaganda role
+      of international law tends to be paramount, serving as a foreign policy instrument
+      for mobilizing opposition against international enemies while dismissing international
+      law when its constraints are violated by the national government or its allies.
+      Law is not law that treats equals unequally as was the Global West’s appeal to
+      international law when dealing with Russia’s attack on Ukraine and its dismissal
+      when responding to more serious allegations of genocide made against Israel. 5.What
+      kind of global order and international law was built after World War II such that
+      no power, mechanism, legality, or institution can stop Israel’s genocidal, expansionist,
+      and occupationist policies? If this inability continues, what kind of global order
+      and international law awaits us? As an experienced scholar who has conducted academic
+      and field studies in international law and practices for more than 40 years,and
+      who has written books on the legitimacy of global order, legality, and the future
+      of international law, how do you think the global order and international law
+      will beshaped after Gaza? What kind of world order awaits us? How would you name
+      this new order? Is it similar to past versions of Pax Am erica? Response : To
+      some extent the last part of my response to the prior question anticipates your
+      concerns here. As suggested, the overriding of international law by the political
+      realist control of foreign policy results in world order being shaped by power
+      rather than by the restraints and procedures of law and the guidelines of ethics
+      and justice, at least in relation to global security and war/peace issues. More
+      specifically, what emerged from World War II was not a genuine war prevention
+      or global security framework as pledged in Preamble to the UN Charter. Instead,
+      the international normative order deliberately marginalized the UN, and international
+      law generally, although with certain potentially significant exceptions. The global
+      normative order that has evolved since 1945 was designed to give the winners in
+      the war against fascism freedom of action to pursue their strategic interests
+      exempt from the rule of law and international law by virtue of a right of veto
+      given to the five winners that also turned out to be the five countries allowed
+      to acquire nuclear weaponry. Such a great power hegemonic world system was also
+      evident in the war crimes trials at Nuremberg and Tokyo, which only prosecuted
+      German and Japanese military and political officials, that is, the crimes of the
+      losers in the war. No legal scrutiny led to investigations, much less prosecutions
+      of the major crimes of the winners, including indiscriminate strategic bombing
+      and the use of atom bombs against two Japanese cities despite their scant military
+      importance. A great liberal show was made of the limited due process offered to
+      these surviving high officials of Nazi Germany and imperial Japan, but the one-sidedness
+      of the legal proceedings made a mockery of claims that a new of international
+      criminal justice had commenced at the war crimes trials. A further irony is that
+      the agreement to establish these tribunals were set by the Allied Power in London
+      on August 8, that is on the day between dropping an atomic bomb on Hiroshima and
+      a second bomb on Nagasaki, a historic display of humanitarian insensitivity by
+      the self-righteous winners of World War II. A second phase of such a hegemonic
+      normative order emerged from the collapse of the Soviet Union bringing the Cold
+      War to an end in the early 1990s with victory by the West. To fill the geopolitical
+      vacuum that existed, the US proceeded to project its power throughout the planet
+      by becoming the first ‘global state’ enabled by a network of hundreds of foreign
+      military bases, naval units in every ocean, and an aggressive space program to
+      safeguard dominance on earth. By so acting, the US ignored the possibilities at
+      the end of the Cold War of achieving nuclear disarmament, demilitarization, a
+      justice-oriented approach to global policy, and prosperity resting on an ecologically
+      resilient approach to economic and social development. This missed opportunity
+      for global reform has generated chaos, violent conflict, wasted resources, widening
+      wealth/income gaps, the rise of chauvinistic autocratic rule in many leading countries,
+      and dangerous levels of ecological instability affecting adversely global warming
+      and food security. Pax America is most accurately interpreted as an historic period
+      of post-colonialism that is best described as US dominated Western imperialism.’
+      It is also illuminating to regard the interval between the end of the Cold War
+      in the early 1990s and the Russian attack on Ukraine in 2022 as an enactment of
+      Pax America, with less Pax and more America. It featured US armed interventions
+      with the goal of achieving regime- change, as in Afghanistan and Iraq, followed
+      by lengthy occupations committed to state-building along capitalist, constitutional
+      lines at great expense, and disappointing outcomes given the motivations of the
+      intervenors. Dubbed ‘wars of choice’ and ‘forever wars’ these attempts to impose
+      Western models of pollical and economic structures and alignments in accord with
+      the postulates of neoliberal globalization were not only carried out with scant
+      attention to the constraints of international law but resulted in political failures.
+      The US experience in the Vietnam War is paradigmatic: enduring political defeat
+      despite battlefield dominance. 6.While the people of Gaza are living through a
+      live genocide under bombs, hunger, diseases, and blockade, as a theorist in the
+      field of global order and international law, how do you think this genocide can
+      be resolved by Netanyahu and Hamas? Hamas and Netanyahu are not stepping back
+      from their core arguments. How can this deadlock be overcome? What is your concrete
+      proposal? Response : To begin with, Netanyahu and Hamas are not equal or symmetrically
+      situated. Israel enjoys total military control of the political space and enjoys
+      material and diplomatic support from the NATO members of the UN Security Council,
+      as well as the backing of these countries in the West on such legal and moral
+      issues as whether Israeli use of force should be viewed as ‘genocide’ or ‘self-defense.’
+      All ‘two sides’ approaches to the Israel/Palestine past, present, and future are
+      tainted by their tacit acceptance of master/slave structures of interpretation
+      and advocacy. Hamas has few cards to play when it comes to diplomatic negotiations.
+      The only obvious one, and it is tenuous and contingent, is the retention of Israeli
+      hostages taken on October 7, some alive, some dead. In addition, Israel’s leaders
+      have manifested on many occasions that the return of the hostages is not a high
+      priority justifying significant concessions. The only just way to manage conflict
+      resolution is to balance a long-term ceasefire against an assured path to meaningful
+      realization of the long deferred Palestinian right of self-determination in a
+      form that is not another instance of Israeli/US ‘breadcrumb diplomacy,’ exchanging
+      Israeli territorial expansion for a demilitarized Palestinian Bantustan put forward
+      as the fulfillment of ‘the two-state solution.’ Palestinian representation must
+      be legitimate and endowed with agency at any day-after diplomatic process seeking
+      reconciliation. From a detached perspective, for a variety of reasons, a single
+      secular state with equal rights for both peoples seems like the only durable justice-driven
+      solution, but it is up to Israeli and Palestinians to arrive awhat now appears
+      a ‘utopian’ solution. 7.Since October 7, 2023, if we ask you to analyze the stances
+      and actions of the following actors in the face of Netanyahu, Hamas, and the genocide,
+      what picture would you paint for us? The Mahmoud Abbas Government, Egypt, Qatar,
+      and Turkey . Response : — Mahmoud Abbas Governmen t: At its best, a pragmatic
+      adjustment to the victimization of the Palestinian people living in the Occupied
+      Territories of East Jerusalem, West Bank, and Gaza, privileging a matter of getting
+      on with daily life as well as possible, while continuing to represent Palestine
+      in international negotiations and endorse to the ‘two state solution’; at its
+      worst, collaborating with Israel in maintaining security on the West Bank, supporting
+      anti-Hamas tactics of Israel including the punitive blockade on Gaza imposed in
+      2007 in reaction to the unexpected Hamas electoral victory the prior year; failure
+      to win support from most Palestinians living in foreign countries as refugees
+      or exiles; by and large, the Ramallah government operates within the comfort zone
+      of Israel and United States, as does settler violence land-grabbing; in my judgment
+      the Abbas government is not playing a satisfactory role of international representation
+      of the Palestinian resistance focused on the exercise of basic rights, especially
+      the inalienable right of self- determination; — Egypt : In keeping with the behavior
+      of other Arab governments Egypt has verbally criticized Israeli behavior in Gaza,
+      but has carefully refrained from engaging in any act that might provoke hostile
+      reactions by Israel; in this sense, Egypt has remained nervously on the sidelines,
+      although resisting pressures to date to accept large numbers of Palestinians forcibly
+      displaced from Gaza; Egypt as aligned with the US and Saudi Arabia exhibits hostility
+      to Hamas as an extension of its domestic antipathy toward the Muslim Brotherhood
+      within its own borders. Compared to Nasser’s Egypt the current government has
+      lost popular support and regional respect, especially in civil society circles
+      of influence; — Qatar : As a small country hosting a major US military base and
+      vulnerable to hostile action by other Gulf monarchies, Qatar has few choices,
+      although it has maneuvered skillfully to give itself the unique position of being
+      the Switzerland of the Middle East, useful to all sides in the multidimensional
+      conflicts that have brought chaos and misery to many countries in the region;
+      Qatar’s leaders have been careful to appear neutral in relation to the conflict
+      between Israel and Palestine, although it has long provided a safe haven for top
+      Hamas leaders living in exile, and extended hospitality to other Palestinian notables,
+      such as Azmi Bishara, no longer to feel secure in Israel; in the current high
+      profile Gaza ceasefire negotiations only Qatar was considered suitable, providing
+      security and facilities; — Turkey : Only Turkey has played effectively a somewhat
+      contradictory role. On the one side Turkey, as much as any government in the region
+      aside from Iran is second to none in the fierceness of its denunciation of Israel’s
+      behavior in Gaza since October 7, with its top leadership in Ankara not hesitant
+      to categorize Israel’s violence as ‘genocide’ and to provide a domestic setting
+      supportive of the Palestinian struggle for basic rights, including such initiatives
+      as the Gaza Peoples Tribunal scheduled to have its final session in Istanbul at
+      the end of October; at the same time, Turkey seeks to maintain good economic and
+      political relations with the European Union and the United States. The Turkish
+      government has also been criticized, and accused of moral hypocrisy, due to its
+      failure to shut down the pipeline supplying Israel with oil sent from Azerbaijan
+      and supposedly vital for its war effort. 8. In your book translated into Turkish
+      as ‘Globalization and Religion: Humanitarian Global Governance,’ you list several
+      reasons for your new idea of ‘Humanitarian Global Governance’ as follows: ‘Part
+      of the appeal of religion is an antidote to the homogenizing effects of out-of-control
+      consumerism and pseudo-universalism.’ You also state, ‘I have never gotten along
+      well with the morality or knowledge system of scientific humanism in my approach
+      to law and politics.’ Could you elaborate on your perspective that religion serves
+      as an antidote? Also, why do you not get along well with scientific humanism?
+      Which paradigm do you currently align with in your approach to law and politics?
+      Response : The book’s title and central idea are unfortunately mistranslated.
+      In English the key word is ‘humane,’ not ‘humanitarian, which has a different
+      meaning and resonance. Humanitarian or humanitarianism refers to acts of relief,
+      undertakings designed to mitigate human suffering, or simply acts of kindness
+      toward those in need. ‘Humane’ refers to a worldview animated by love, justice,
+      fairness to all human beings, and an affirmation of the spiritual dimensions of
+      reality. It can be coherently brought to reality or nurtured by certain patterns
+      of governance that reflect shared societal values often transmitted by way of
+      organized religion, but more often betrayed by repressive and corrupt governance
+      and by despiritualized religious institutions and practices. My ambivalence toward
+      ‘scientific humanism’ is a consequence of its epistemological stance, which devalues
+      spirituality in all its forms, substituting rationality and scientific validation
+      of knowledge. These understandable reactions to the shortcomings of religion led
+      to the liberation of superstition and marginalization of metaphysical abstractions
+      (such as ‘God’) from the workings of society, leading to the substitution of the
+      Enlightenment view of knowledge and to the rise of modernity in the West with
+      its vision of progress reliant on dynamic technological innovation. What was sacrificed
+      in the process was a sense of human community including the ethics of empathy
+      and a politics of compassion, as well as the denial of spirituality. The aspirations
+      of a ‘humane’ approach is to restore the virtues of the pre-modern without losing
+      the benefits of modernity as conditioned by the extension of human rights, the
+      curtailment of militarism and nuclearism, and care for ecological stability. To
+      reorient modernity to overcome these dangerous deficiencies is what I intend by
+      the stress on a ‘humane’ worldview. It calls for an ethics and politics of moderation,
+      enlivened by spiritual awareness and practices, reflecting a realistic appreciation
+      of global challenges. Among governance frameworks, the most congenial for me is
+      that of ecologically conditioned varieties of democratic socialism in a global
+      setting finally inclined toward denuclearization and demilitarization, as well
+      as the repudiation of predatory capitalism and the kind of excessive individualism
+      that arises when the market is entrusted with the promotion of human wellbeing
+      in all its facets.'
+    one_sentence_summary: 'In an interview with independent journalist Naman Bakaç,
+      Prof. Dr. Richard Falk discusses his book "Genocide in Gaza: Voices of Global
+      Conscience," co-edited with Ahmet Davutoğlu, which features contributions from
+      over 30 global figures and aims to raise awareness about the plight of the Palestinian
+      people.'
+    paragraph_summary: 'In an interview with independent journalist Naman Bakaç, Prof.
+      Dr. Richard Falk discusses his co-edited book, "Genocide in Gaza: Voices of Global
+      Conscience," published in June 2025. The book features contributions from over
+      30 distinguished figures, including politicians, academics, and diplomats from
+      17 countries, who were motivated by a shared concern over the perceived genocide
+      occurring in Gaza, particularly following the Hamas-led attack on October 7, 2023.
+      The contributors were selected from a larger group that endorsed a Declaration
+      of Conscience, initiated by Falk and former Turkish Prime Minister Ahmet Davutoğlu,
+      which aimed to raise global awareness and prompt action regarding the humanitarian
+      crisis. Falk highlights the book''s intention to convey a powerful message about
+      the urgent need for international accountability and intervention in the face
+      of ongoing violence and human rights violations in the region.'
+    published: '2025-08-17T16:00:03+00:00'
+  - title: Gaza’s Urgency and Lessons for the Future
+    url: https://richardfalk.org/2025/08/17/gazas-urgency-and-lessons-for-the-future/
+    text: '[Prefatory Note: Interview text of responses to question]s posed by Naman
+      Bakaç, an idependent journalist in Turkey. The interview was published by FOCUS,
+      an independent online media platform. The link can be found at the link below:
+      https://www.fokusplus.com/roportaj/prof-dr-richard-falk-bm-ve-kuresel-hukuk-filistin-halkinin-haklarini-koruyamadi?s=09
+      ] 1. Let’s start with your book ‘Genocide in Gaza: Voices of Global Conscience,’
+      which you co-edited with Ahmet Davutoğlu and was published in June 2025. The book
+      includes articles by more than 30 politicians, academics, diplomats, intellectuals,
+      and statesmen from 17 countries. Who are the contributors in this book? What motivations
+      led to the creation of this book? What message do you aim to convey to the global
+      public through this book? Response : As we explain in the Preface, the contributors
+      were selected from a much larger group of distinguished signatories of a Declaration
+      of Conscience, drafted by the former Prime Minister of Turkey, Ahmet Davutoglu
+      and myself, and issued in late 2023 not long after the October 7 events. The Hamas-led
+      attack was designed to be an anguished protest against the failure of governments
+      and the UN to bring what seemed to us almost from its outset to be a transparent
+      genocide carried out in real time and by digital technology brought to the awareness
+      of the eyes and ears of the world. The issuance of our Declaration was met with
+      unexpected enthusiasm from frustrated citizens in many countries that resulted
+      in the private funding of a conference in London on 27 March 2024. By coincidence,
+      the conference was held the day after the International Court of Justice made
+      its historic initial interim rulings in response to requests from South Africa
+      that had submitted a legal dispute with Israel as to whether Israeli violence
+      was of a nature that violated the International Convention on Genocide, as well
+      as whether Israel was legally obliged to stop obstructing the international delivery
+      of humanitarian aid to the civilian population of Gaza. Naturally, we were encouraged
+      by these ICJ rulings to the effect that Israeli indiscriminate violence against
+      the civilian population of Gaza coupled with the Israeli official decrees prohibiting
+      entry of food, fuel, and water made allegations of genocide ‘plausible.’ As well,
+      the ICJ in a second near unanimous judicial ruling ordered Israel to stop interfering
+      with the delivery of urgently needed humanitarian aid. These ICJ rulings encouraged
+      us to continue our effort to mobilize civil society on the basis of a justice-driven
+      interpretation of law to engage with this unfolding human tragedy through the
+      activation of nonviolent solidarity initiatives. If a single message emerges from
+      such a multi-authored book gathering between its pages distinguished public personalities
+      from around the world with diverse perspectives on global issues, yet united in
+      condemning the genocide, it is this: when the existing normative order of rules,
+      procedures, and institutions established by governments and international institutions,
+      especially those falling within the UN System, fails to meet an urgent challenge
+      to peace and human rights, it is time for the peoples of the world to act in resolute
+      opposition. In our search for participants, we wanted to focus on people whose
+      view were similar to ourselves who were not presently holders of high positions
+      in governments or inter-governmental institutions but were widely respected as
+      moral authority figures. Our influence and ‘weapons’ were of the mind, heart,
+      and spirit that were best expressed by engaged citizenship, trust in the guidance
+      of conscience, and existential belief in the power of people in the service of
+      truth. We hope our book conveys that message, which includes the conviction that
+      conscience in extreme situations demands action as well as rhetorical utterances.
+      Words unsupported by action in the face of genocide is an unacceptable form of
+      silence. We regard our efforts as playing a small but determined part in an emergent
+      global solidarity movement of people in support of the Palestinian struggle for
+      basic rights, above all, the right of self- determination. From the London Conference
+      devoted to exploring the implications of the Gaza Declaration, the idea of a book
+      emerged as a matter of course, encouraged by a publishing commitment by Clarity
+      Press. Our intention was to have this varied collection of writings exhibit both
+      shared values and diverse policy judgments, and stimulate creative solidarity
+      actions throughout the world, thereby confirming the view that the Gaza Genocide
+      is not just an urgent challenge to all of humanity, but is also a test of whether
+      the peoples of the world can develop moral agency to challenge dark challenges
+      to the human future. As far as the book is concerned, I think the range and quality
+      of the contributions exceeded our expectations, although admittedly its impacts
+      on human behavior remain unknowable, and even after 21 months such initiatives
+      have not extinguished the need for intensifying activism in support of the Palestinian
+      struggle. 2. In December 2023, you published a text calling for international
+      justice and conscience conference on Palestine was held in London. Could these
+      civil initiatives you undertook out of a sense of responsibility turn into a global
+      civil movement to enforce international law and order? Has it already turned into
+      one? Can wesay that, while the UN and international law have failed in the face
+      of the Gazagenocide, you are moving from words to action with this civil movement?
+      Afterall, the unifying theme of the London Conference was that words are not enough
+      and action is imperative., which included some of the names in your new book.
+      Response : Although we were motivated to make what contribution we could to change
+      the political atmosphere sufficiently to stop the genocide, we had no illusions
+      that our pleas for humane politics would be heeded in the short run. Yet we felt
+      that silence in its two forms was unacceptable, that is, refusing to name the
+      violence of the Israeli response as ‘genocide,’ given its clear intentionality
+      as further exhibited in its actions. Since naming gave rise to various forms of
+      punitive pushback, especially in Europe and North America during the months after
+      October 7, to name the violence ‘genocide’ was not only a word but became an action
+      in defiance of Zionist worldwide efforts to treat evidenced- based criticism of
+      Israel as a hateful form of antisemitism. As the genocide has persisted now for
+      more almost two years genocide as the accepted descripted term has been somewhat
+      normalized even in the mainstream media. It is still true that few governmental
+      or officials in international institutions of the West speak of ‘genocide’ even
+      when condemning the prolonged Israeli violence, and even UN top officials while
+      highly critical of Israel’s behavior continue to refrain from characterizing the
+      violence in Gaza as genocide. It is notable that Francesca Albanese, the fearless
+      UN Special Rapporteur for Occupied Palestine has been admirably forthright when
+      it coming to naming, devoting three of her semi-annual official reports to different
+      facets of genocide, including the depiction of the Zionist Project as a prime
+      instance of ‘settler colonialism’ and complicit behavior of supporting governments
+      and profit-making corporations as integral to Israel’s criminal responsibility
+      for genocide. It is not surprising in view of this that Ms. Albanese has been
+      singled out by the US Government and sanctioned in her personal capacity, being
+      denied entry to the US and having her American assets frozen, a vindicative response
+      to truthful witnessing on behalf of the public good, illustrative of UN functioning
+      with courage and effectiveness despite contrary systemic pressures according to
+      the high ideals of the Preamble to the UN Charter. As indicated in my response
+      to your first question, the confinement of criticism of Israel’s onslaught on
+      Gaza to words of condemnation are insufficient in the face of prolonged and transparent
+      genocide, with cruel and aggravating tendencies for more than 22 months. Action
+      must be proposed and acted upon, whether the actors are governments, institutions,
+      civil society activist, or individuals and collectivities of various sorts. The
+      political suicide of Aaron Bushnell in 2023, an American airman in front of Israel’s
+      embassy in Washington is illustrative of an extreme humanistic sacrifice or self-martyrdom,
+      an enactment of the repudiation of genocide as well as a desperate appeal to others
+      to take action aimed at stopping the genocide. The action of Madleen Freedom Flotilla
+      mission undertaken by Greta Thunberg and other brave and dedicated activists is
+      another example of anti-genocidal activism, with an emphasis on both highlighting
+      and circumventing Israel’s disruptions of the international delivery of urgently
+      needed humanitarian aid, an initiative that combines a care-giving gesture in
+      the context of the humanitarian emergency in Gaza with an unspoken yet powerful
+      appeal to others to engage actively, given their personal situation, in a variety
+      of ways that involves truth-telling and solidarity with the victimized population
+      of Gaza. The importance of conscience as a motive for political action is gives
+      rise to expressions of bravery in situations of risk without knowing whether controversial
+      utterances will engender a response from those hitherto on the sidelines that
+      might grow into a movement with transformative capabilities valuable for their
+      own sake. In that sense, opposing genocide in Gaza is both an intrinsic reaction
+      of conscience and a distinct action that has political goals of motivating others
+      to join the struggle. In retrospect, it is obvious that from feeble solidarity
+      initiatives early on, a civil society movement of many distinct parts has grown
+      to the point where Israel’s legitimacy as a state is increasingly drawn into question,
+      both symbolically and substantively. One manifestation of this solidarity trend
+      is the intensity of growing calls for Israel’s suspension from UN activities,
+      as well as proposals for arms embargoes, denial of visas to Israeli citizens,
+      boycotts of cultural and sporting events, solidarity fasts and cutting diplomatic
+      and economic relations with Israel. Even though Israel has continued to follow
+      its lawless, abusive path, its behavior and identity has been slowly delegitimized
+      by public discourse even in the most influential civil society media platforms
+      of the West, reflecting the symbolic defeat of Israel when it comes to controlling
+      the high normative ground of law and morality. As I have argued in the past the
+      side that wins the Legitimacy War fought over symbolic entitlements of legality
+      and morality tends to prevail politically in the end despite being defeated on
+      the battlefield due to inferior military capabilities. The Palestinians of Gaza,
+      with the help of global supportive solidarity and Palestinian resistance and sumud,
+      have clearly won the Legitimacy War despite the tragic costs paid by participants
+      in such anti-colonial liberation struggles. As with other anti-colonial uprisings,
+      the uncertainty is whether the Palestinians have the national stamina to gain
+      the fruits of such a victory, that is, national liberation embodying the realization
+      of the ultimate human right, that of self-determination. Israel under the sway
+      of Zionist ideology and the Masada Complex seems prepared to pay a far higher
+      price in blood, treasure, and reputation than have been other recent settler colonial
+      projects to exterminate opposition its goals of eliminating resistance by the
+      native or homeland residents. 3.The Israel-Iran war raises many questions as to
+      what kinds of changes will it bring to the regional and global order? What do
+      you think is the real reason behind Israel targeting Iran after Gaza, Lebanon,
+      Syria, and Yemen? What do you think are the geopolitical and the political goals
+      of the Israel-US duo? Response : Israel has made clear in its foreign policy pronouncements
+      that it seeks to prevent any country in the region from becoming strong or bold
+      enough to challenge Israel’s military preeminence. Its extension of the Gaza combat
+      zone to several Middle Eastern countries signals its resolve to eliminate or severely
+      weaken any Islamic non-state movement that is aligned with the Palestinian struggle
+      for national liberation, the exercise of its long-denied rights of self-determination
+      and perceived in Tel Aviv to pose a challenge to Israel’s strategic and hegemonic
+      ambitions. The inflamed atmosphere caused by the prolonged genocide in Gaza give
+      rise to a context in which rising global discontent with Israel create incentives
+      to strike at its actual and imagined regional adversaries. Iran above all is singled
+      out as Enemy No. 1, in part to divert attention from the grim happenings in Gaza
+      and the West Bank, to carry out its long-time strategy of remaking the Middle
+      East to its liking, and to address Iran’s supposed security threat centered on
+      its potential acquisition of nuclear weapons. The Israeli justifications involve
+      preempting security threats before they can materialize or striking disproportionately
+      (along the lines of the Dahiya Doctrine) in response to behavior perceived as
+      hostile to the Zionist game plan that features the minimization of a Palestinian
+      presence within an enlarged reconfigured Israel that erases Palestine from the
+      map of what Netanyahu likes to call ‘the New Middle East’ or ‘Greater Israel.’
+      Such ambitions would compel the massive physical displacement and psychological
+      marginalization of Palestinians. It also seeks to coerce the most defeatist representatives
+      of Palestine to agree to the surrender of national political goals, including
+      the most basic rights embodied in international law, especially in relation to
+      human rights. The 12-day Iran War exemplifies this approach, with the proclaimed
+       goal of eliminating, or at least substantially delaying, Iran’s alleged threat
+      to acquire nuclear weapons. A secondary rarely openly acknowledged goal is to
+      stimulate a restive Iranian opposition to seize the moment to launch a campaign
+      to achieve regime change in Tehran. Underlying these, is an unspoken third goal
+      of renewing fear of Israel’s deterrent capabilities and preventive war mindset
+      in a potentially hostile post-Assad Syria feared to emerge as a destabilizing
+      presence in the Middle East. The attack on Iran also created an opportunity that
+      came to fruition to involve the US directly in the coercive administration of
+      Middle East politics. Israel’s dependence on US supplementing its initial attacks
+      by enlisting B2 planes that the US alone possessed delivering Blockbuster Bombs
+      on underground Iranian nuclear sites demonstrated the strength of Israel’s leverage
+      in Washington and the limits of Israel’s purported military dominance in the Middle
+      East. The Israel/US duo in the region has two imperial objectives. The first is
+      assuring friendly governments control the energy resources of the region. The
+      other is to contain the spread of Islam beyond the vital civilizational fault
+      lines in the Middle East. This second goal helps explain the blind eye that the
+      Western liberal democracies turned toward the prolonged genocidal assault on the
+      civilian population of Gaza while actually exhibiting complicity in the commission
+      of this crime. This crime simultaneously denied the right to life, right to peace,
+      and a rebuff of fundamental individual and collective legal entitlements of national
+      self- determination to all peoples. 4.You previously served as the UN Special
+      Rapporteur on Palestine. Prof. Michael Lynk, who served as the UN Special Rapporteur
+      on Palestine between 2016 and 2022, recently stated at Boğaziçi University’s conference
+      ‘Rethinking International Law after Gaza’ that international law alone cannot
+      ensure Palestine’s liberation and that there must also be international resolve.
+      What concrete proposals do you have for establishing the resolve to implement
+      the principles and decisions of internation al law? Resp onse: I share Michael
+      Lynk’s view about the inability of international legal authority to be self-enforcing
+      in situations of defiant non-compliance that Israel has manifested in all aspects
+      of its relations with the Palestinian people and most dramatically over the course
+      of more than 22 months of a genocidal assault on the civilian population of Gaza
+      and the devastation of physical infrastructure of Gazan society casting doubt
+      of its viability as a place fit for human habitation. This is especially the case,
+      as here, where the violator enjoys geopolitical support from the US and the European
+      Union. There are several steps that can be taken on levels of policy and others
+      of a more systemic character. Civil Society Solidarity Initiatives . There are
+      variety of ways that people can act to close the enforcement, accountability,
+      and complicity gaps when the UN and organized normative order fails, as it has
+      in Gaza, and more generally with regard to protecting the basic rights of the
+      Palestinian people. The struggle against the South African apartheid regime illustrates
+      the impact of civil society activism in the struggle to combat racist criminality.
+      Such initiatives as the BDS movement, featuring nationalist boycotts of cultural
+      and sporting events by refusals to perform in South Africa and mounting pressure
+      to exclude participation by South African performers and athletes elsewhere contributed
+      to anti-apartheid struggle, as well as seeking to discourage new investments and
+      to divest from past investments, and sanctions by way of arms embargoes and other
+      punitive actions were expressions of moral outrage directed at the South African
+      regime, and although unacknowledged, are widely thought to have contributed to
+      the unexpected and sudden decision by South African leaders to abandon apartheid,
+      free Nelson Mandela from prison after 27 years, and arrange free elections of
+      all South African inhabitants to select a new leadership and establish a constitutional
+      structure based on racial equality and human rights for all. There are a variety
+      of other solidarity initiatives that can be mentioned: waging a Legitimacy War
+      to control public discourse, with the winner controlling the high ground of law
+      and morality; exertions of a variety of pressures on media and government in complicit
+      countries; protests by global voices of conscience demanding arms embargoes; individual
+      actions such as tax refusal and self- martyrdom in protest. Collective Governmental
+      Coalition . The Hague Group, originally formed by states of the Global South,
+      provides a venue for opposing Israel’s Gaza genocide, including a statement of
+      purpose and the recommendation of action-oriented measures intended to exert pressure
+      on Israel in relation to its behavior in Occupied Palestine. The Hague Group met
+      in Bogotá at an emergency meeting at the joint invitation of Colombia and South
+      Africa. A Declaration signed by the 30 participating governments and the adoption
+      of a commitment to impose a series of anti-Israeli measure by 12 of the participating
+      states. The event is an important indication of the emergence of the Global South
+      from a period of post- colonial passivity and suggests a revival under altered
+      circumstances of the Bandung Spirit, which challenged the preoccupations of the
+      Cold War by giving priorities to liberation struggles and development priorities,
+      and projecting a different conception of global security and international legitimacy
+      at the UN and elsewhere. UN Reform . There are variety of UN Reforms that would
+      enhance respect for international law and enforcement/accountability prospects.
+      The most promising reforms to achieve a more effective UN that seek to serve global
+      public interests with respect to war prevention and global security include the
+      following: empowerment of the General Assembly via implementation of the Uniting
+      for Peace Resolution and Responsibility to Protect (R2P), direct enforcement without
+      recourse to Security Council of ICJ judgments; elimination or curtailment of the
+      right of veto in the Security Council and in other decision points in the UN System;
+      expediting ICJ proceedings in emergency situations; renaming ‘Advisory Opinions’
+      of ICJ as ‘Authoritative Legal Judgments;’ adding layers of protections to the
+      work of Special Procedures to ensure political independence and immunity from
+      defamation and sanctions. Seldom discussed is the enhancement of status of UN
+      Special Rapporteurs, including more explicit responsibilities of the UN Secretariat
+      to offer protection extending to disallowing defamatory attacks by NGOs within
+      UN arenas of appraisal such as the Human Rights Council. Vesting increased war
+      prevention authority in the office of the Secretary General. New Pedagogical Paradigm
+      . Legal education is deficient in its approach to international law, especially
+      in relation to core public order issues of conflict, human rights, and development.
+      It focuses on the vocational preparation of students to be practicing lawyers
+      within the confines of nation states. International law is seen as a discretionary
+      subject at the margins of the law school curricula and is not well understood
+      even within democratic societies governed in accord with constitutional commitments
+      to uphold the ‘rule of law.’ A pedagogy of international law that would be more
+      supportive of a global normative order that was more geared to the realization
+      of values associated with peace, justice, and sustainable development would view
+      legal education as a vital source of civic education in relation to engaged citizenship.
+      The goals would be to require all graduates of law schools and other law programs
+      to grasp the relevance of an effective just world order to human interests in
+      overcoming global challenges. Educational reform would also include course offerings
+      on the history of international relations. Courses would feature critiques of
+      ‘political realism’ that continues to be the shared operational code of planners
+      and advisors that shape the worldviews and foreign policy of almost all leading
+      governments. The ‘group think’ of foreign policy elites create an atmosphere in
+      which strategic ambitions and security calculations take precedence, limiting
+      international law in its regulative role to policy settings in which mutuality
+      is seen to exist. With respect to global security context the propaganda role
+      of international law tends to be paramount, serving as a foreign policy instrument
+      for mobilizing opposition against international enemies while dismissing international
+      law when its constraints are violated by the national government or its allies.
+      Law is not law that treats equals unequally as was the Global West’s appeal to
+      international law when dealing with Russia’s attack on Ukraine and its dismissal
+      when responding to more serious allegations of genocide made against Israel. 5.What
+      kind of global order and international law was built after World War II such that
+      no power, mechanism, legality, or institution can stop Israel’s genocidal, expansionist,
+      and occupationist policies? If this inability continues, what kind of global order
+      and international law awaits us? As an experienced scholar who has conducted academic
+      and field studies in international law and practices for more than 40 years,and
+      who has written books on the legitimacy of global order, legality, and the future
+      of international law, how do you think the global order and international law
+      will beshaped after Gaza? What kind of world order awaits us? How would you name
+      this new order? Is it similar to past versions of Pax Am erica? Response : To
+      some extent the last part of my response to the prior question anticipates your
+      concerns here. As suggested, the overriding of international law by the political
+      realist control of foreign policy results in world order being shaped by power
+      rather than by the restraints and procedures of law and the guidelines of ethics
+      and justice, at least in relation to global security and war/peace issues. More
+      specifically, what emerged from World War II was not a genuine war prevention
+      or global security framework as pledged in Preamble to the UN Charter. Instead,
+      the international normative order deliberately marginalized the UN, and international
+      law generally, although with certain potentially significant exceptions. The global
+      normative order that has evolved since 1945 was designed to give the winners in
+      the war against fascism freedom of action to pursue their strategic interests
+      exempt from the rule of law and international law by virtue of a right of veto
+      given to the five winners that also turned out to be the five countries allowed
+      to acquire nuclear weaponry. Such a great power hegemonic world system was also
+      evident in the war crimes trials at Nuremberg and Tokyo, which only prosecuted
+      German and Japanese military and political officials, that is, the crimes of the
+      losers in the war. No legal scrutiny led to investigations, much less prosecutions
+      of the major crimes of the winners, including indiscriminate strategic bombing
+      and the use of atom bombs against two Japanese cities despite their scant military
+      importance. A great liberal show was made of the limited due process offered to
+      these surviving high officials of Nazi Germany and imperial Japan, but the one-sidedness
+      of the legal proceedings made a mockery of claims that a new of international
+      criminal justice had commenced at the war crimes trials. A further irony is that
+      the agreement to establish these tribunals were set by the Allied Power in London
+      on August 8, that is on the day between dropping an atomic bomb on Hiroshima and
+      a second bomb on Nagasaki, a historic display of humanitarian insensitivity by
+      the self-righteous winners of World War II. A second phase of such a hegemonic
+      normative order emerged from the collapse of the Soviet Union bringing the Cold
+      War to an end in the early 1990s with victory by the West. To fill the geopolitical
+      vacuum that existed, the US proceeded to project its power throughout the planet
+      by becoming the first ‘global state’ enabled by a network of hundreds of foreign
+      military bases, naval units in every ocean, and an aggressive space program to
+      safeguard dominance on earth. By so acting, the US ignored the possibilities at
+      the end of the Cold War of achieving nuclear disarmament, demilitarization, a
+      justice-oriented approach to global policy, and prosperity resting on an ecologically
+      resilient approach to economic and social development. This missed opportunity
+      for global reform has generated chaos, violent conflict, wasted resources, widening
+      wealth/income gaps, the rise of chauvinistic autocratic rule in many leading countries,
+      and dangerous levels of ecological instability affecting adversely global warming
+      and food security. Pax America is most accurately interpreted as an historic period
+      of post-colonialism that is best described as US dominated Western imperialism.’
+      It is also illuminating to regard the interval between the end of the Cold War
+      in the early 1990s and the Russian attack on Ukraine in 2022 as an enactment of
+      Pax America, with less Pax and more America. It featured US armed interventions
+      with the goal of achieving regime- change, as in Afghanistan and Iraq, followed
+      by lengthy occupations committed to state-building along capitalist, constitutional
+      lines at great expense, and disappointing outcomes given the motivations of the
+      intervenors. Dubbed ‘wars of choice’ and ‘forever wars’ these attempts to impose
+      Western models of pollical and economic structures and alignments in accord with
+      the postulates of neoliberal globalization were not only carried out with scant
+      attention to the constraints of international law but resulted in political failures.
+      The US experience in the Vietnam War is paradigmatic: enduring political defeat
+      despite battlefield dominance. 6.While the people of Gaza are living through a
+      live genocide under bombs, hunger, diseases, and blockade, as a theorist in the
+      field of global order and international law, how do you think this genocide can
+      be resolved by Netanyahu and Hamas? Hamas and Netanyahu are not stepping back
+      from their core arguments. How can this deadlock be overcome? What is your concrete
+      proposal? Response : To begin with, Netanyahu and Hamas are not equal or symmetrically
+      situated. Israel enjoys total military control of the political space and enjoys
+      material and diplomatic support from the NATO members of the UN Security Council,
+      as well as the backing of these countries in the West on such legal and moral
+      issues as whether Israeli use of force should be viewed as ‘genocide’ or ‘self-defense.’
+      All ‘two sides’ approaches to the Israel/Palestine past, present, and future are
+      tainted by their tacit acceptance of master/slave structures of interpretation
+      and advocacy. Hamas has few cards to play when it comes to diplomatic negotiations.
+      The only obvious one, and it is tenuous and contingent, is the retention of Israeli
+      hostages taken on October 7, some alive, some dead. In addition, Israel’s leaders
+      have manifested on many occasions that the return of the hostages is not a high
+      priority justifying significant concessions. The only just way to manage conflict
+      resolution is to balance a long-term ceasefire against an assured path to meaningful
+      realization of the long deferred Palestinian right of self-determination in a
+      form that is not another instance of Israeli/US ‘breadcrumb diplomacy,’ exchanging
+      Israeli territorial expansion for a demilitarized Palestinian Bantustan put forward
+      as the fulfillment of ‘the two-state solution.’ Palestinian representation must
+      be legitimate and endowed with agency at any day-after diplomatic process seeking
+      reconciliation. From a detached perspective, for a variety of reasons, a single
+      secular state with equal rights for both peoples seems like the only durable justice-driven
+      solution, but it is up to Israeli and Palestinians to arrive awhat now appears
+      a ‘utopian’ solution. 7.Since October 7, 2023, if we ask you to analyze the stances
+      and actions of the following actors in the face of Netanyahu, Hamas, and the genocide,
+      what picture would you paint for us? The Mahmoud Abbas Government, Egypt, Qatar,
+      and Turkey . Response : — Mahmoud Abbas Governmen t: At its best, a pragmatic
+      adjustment to the victimization of the Palestinian people living in the Occupied
+      Territories of East Jerusalem, West Bank, and Gaza, privileging a matter of getting
+      on with daily life as well as possible, while continuing to represent Palestine
+      in international negotiations and endorse to the ‘two state solution’; at its
+      worst, collaborating with Israel in maintaining security on the West Bank, supporting
+      anti-Hamas tactics of Israel including the punitive blockade on Gaza imposed in
+      2007 in reaction to the unexpected Hamas electoral victory the prior year; failure
+      to win support from most Palestinians living in foreign countries as refugees
+      or exiles; by and large, the Ramallah government operates within the comfort zone
+      of Israel and United States, as does settler violence land-grabbing; in my judgment
+      the Abbas government is not playing a satisfactory role of international representation
+      of the Palestinian resistance focused on the exercise of basic rights, especially
+      the inalienable right of self- determination; — Egypt : In keeping with the behavior
+      of other Arab governments Egypt has verbally criticized Israeli behavior in Gaza,
+      but has carefully refrained from engaging in any act that might provoke hostile
+      reactions by Israel; in this sense, Egypt has remained nervously on the sidelines,
+      although resisting pressures to date to accept large numbers of Palestinians forcibly
+      displaced from Gaza; Egypt as aligned with the US and Saudi Arabia exhibits hostility
+      to Hamas as an extension of its domestic antipathy toward the Muslim Brotherhood
+      within its own borders. Compared to Nasser’s Egypt the current government has
+      lost popular support and regional respect, especially in civil society circles
+      of influence; — Qatar : As a small country hosting a major US military base and
+      vulnerable to hostile action by other Gulf monarchies, Qatar has few choices,
+      although it has maneuvered skillfully to give itself the unique position of being
+      the Switzerland of the Middle East, useful to all sides in the multidimensional
+      conflicts that have brought chaos and misery to many countries in the region;
+      Qatar’s leaders have been careful to appear neutral in relation to the conflict
+      between Israel and Palestine, although it has long provided a safe haven for top
+      Hamas leaders living in exile, and extended hospitality to other Palestinian notables,
+      such as Azmi Bishara, no longer to feel secure in Israel; in the current high
+      profile Gaza ceasefire negotiations only Qatar was considered suitable, providing
+      security and facilities; — Turkey : Only Turkey has played effectively a somewhat
+      contradictory role. On the one side Turkey, as much as any government in the region
+      aside from Iran is second to none in the fierceness of its denunciation of Israel’s
+      behavior in Gaza since October 7, with its top leadership in Ankara not hesitant
+      to categorize Israel’s violence as ‘genocide’ and to provide a domestic setting
+      supportive of the Palestinian struggle for basic rights, including such initiatives
+      as the Gaza Peoples Tribunal scheduled to have its final session in Istanbul at
+      the end of October; at the same time, Turkey seeks to maintain good economic and
+      political relations with the European Union and the United States. The Turkish
+      government has also been criticized, and accused of moral hypocrisy, due to its
+      failure to shut down the pipeline supplying Israel with oil sent from Azerbaijan
+      and supposedly vital for its war effort. 8. In your book translated into Turkish
+      as ‘Globalization and Religion: Humanitarian Global Governance,’ you list several
+      reasons for your new idea of ‘Humanitarian Global Governance’ as follows: ‘Part
+      of the appeal of religion is an antidote to the homogenizing effects of out-of-control
+      consumerism and pseudo-universalism.’ You also state, ‘I have never gotten along
+      well with the morality or knowledge system of scientific humanism in my approach
+      to law and politics.’ Could you elaborate on your perspective that religion serves
+      as an antidote? Also, why do you not get along well with scientific humanism?
+      Which paradigm do you currently align with in your approach to law and politics?
+      Response : The book’s title and central idea are unfortunately mistranslated.
+      In English the key word is ‘humane,’ not ‘humanitarian, which has a different
+      meaning and resonance. Humanitarian or humanitarianism refers to acts of relief,
+      undertakings designed to mitigate human suffering, or simply acts of kindness
+      toward those in need. ‘Humane’ refers to a worldview animated by love, justice,
+      fairness to all human beings, and an affirmation of the spiritual dimensions of
+      reality. It can be coherently brought to reality or nurtured by certain patterns
+      of governance that reflect shared societal values often transmitted by way of
+      organized religion, but more often betrayed by repressive and corrupt governance
+      and by despiritualized religious institutions and practices. My ambivalence toward
+      ‘scientific humanism’ is a consequence of its epistemological stance, which devalues
+      spirituality in all its forms, substituting rationality and scientific validation
+      of knowledge. These understandable reactions to the shortcomings of religion led
+      to the liberation of superstition and marginalization of metaphysical abstractions
+      (such as ‘God’) from the workings of society, leading to the substitution of the
+      Enlightenment view of knowledge and to the rise of modernity in the West with
+      its vision of progress reliant on dynamic technological innovation. What was sacrificed
+      in the process was a sense of human community including the ethics of empathy
+      and a politics of compassion, as well as the denial of spirituality. The aspirations
+      of a ‘humane’ approach is to restore the virtues of the pre-modern without losing
+      the benefits of modernity as conditioned by the extension of human rights, the
+      curtailment of militarism and nuclearism, and care for ecological stability. To
+      reorient modernity to overcome these dangerous deficiencies is what I intend by
+      the stress on a ‘humane’ worldview. It calls for an ethics and politics of moderation,
+      enlivened by spiritual awareness and practices, reflecting a realistic appreciation
+      of global challenges. Among governance frameworks, the most congenial for me is
+      that of ecologically conditioned varieties of democratic socialism in a global
+      setting finally inclined toward denuclearization and demilitarization, as well
+      as the repudiation of predatory capitalism and the kind of excessive individualism
+      that arises when the market is entrusted with the promotion of human wellbeing
+      in all its facets.'
+    one_sentence_summary: 'In an interview with independent journalist Naman Bakaç,
+      Prof. Dr. Richard Falk discusses his book "Genocide in Gaza: Voices of Global
+      Conscience," co-edited with Ahmet Davutoğlu, which features contributions from
+      over 30 global figures and aims to raise awareness about the plight of the Palestinian
+      people.'
+    paragraph_summary: 'In an interview with independent journalist Naman Bakaç, Prof.
+      Dr. Richard Falk discusses his co-edited book, "Genocide in Gaza: Voices of Global
+      Conscience," published in June 2025. The book features contributions from over
+      30 distinguished figures, including politicians, academics, and diplomats from
+      17 countries, who were motivated by a shared concern over the perceived genocide
+      occurring in Gaza, particularly following the Hamas-led attack on October 7, 2023.
+      The contributors were selected from a larger group that endorsed a Declaration
+      of Conscience, initiated by Falk and former Turkish Prime Minister Ahmet Davutoğlu,
+      which aimed to raise global awareness and prompt action regarding the humanitarian
+      crisis. Falk highlights the book''s intention to convey a powerful message about
+      the urgent need for international accountability and intervention in the face
+      of ongoing violence and human rights violations in the region.'
+    published: '2025-08-17T16:00:03+00:00'
   - title: Israel’s National Security Cabinet Approves Netanyahu’s Escalation, Hiding
       Defeat in the Legitimacy War
     url: https://richardfalk.org/2025/08/08/israels-national-security-cabinet-approves-netanyahus-escalation-hiding-defeat-in-the-legitimacy-war/

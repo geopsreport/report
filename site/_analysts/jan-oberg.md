@@ -7,26 +7,58 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As of August 13, 2025, the global geopolitical landscape continues to be shaped by shifting alliances, public pressure for policy change, and ongoing debates about the future of international order. Recent discussions and analyses highlight three key developments.
+  As the United Nations marks its 80th anniversary, the global geopolitical landscape remains defined by both persistent challenges and emerging shifts. **Jan Oberg** underscores that while the UN is still "humanity’s most important organisation," its capacity to address crises is systematically undermined by member states prioritizing militarism and national interests over collective action. This erosion of multilateralism is seen as a deliberate process, with Oberg warning that unless states reverse this trend, the UN’s relevance and effectiveness will continue to decline.
   
-  **1. China’s Global Dialogue and Soft Power Initiatives**
+  In parallel, Oberg highlights a significant development in European foreign policy: mounting public pressure is compelling governments to reconsider their stance on the Israeli-Palestinian conflict. The UK, historically implicated in the origins of the conflict, is now poised to recognize a Palestinian state. Oberg attributes this shift to "growing public pressure in Europe and beyond," suggesting that broader recognition across Europe is "most definitely" on the horizon.
   
-  A notable event is the ongoing dialogue between **Professor Zhang Weiwei** and **Jan Oberg** in Skopje, Macedonia. This exchange underscores China’s strategy of engaging with diverse international audiences to present its perspectives and counter prevailing Western narratives. According to **Jan Oberg**, such dialogues are part of a broader Chinese effort to foster understanding and reduce tensions, particularly as debates around China’s technological leadership remain contentious. Oberg notes that focusing on whether China is "leading" in fields like quantum physics and AI is less productive than seeking areas of cooperation and mutual benefit.
+  Meanwhile, global dialogues are gaining prominence as a means to bridge divides. The recent exchange between Professor Zhang Weiwei and Oberg in Skopje, Macedonia, exemplifies efforts to foster understanding between differing geopolitical perspectives, particularly between China and the West. These dialogues are seen as increasingly vital in an era marked by polarization and mistrust.
   
-  **2. European Shifts on the Israeli-Palestinian Conflict**
-  
-  Mounting public pressure in Europe has compelled policymakers to reconsider their positions on the Israeli-Palestinian conflict. **Jan Oberg** reports that Britain, historically implicated in the origins of the conflict, is now poised to recognize a Palestinian state. This move is seen as a response to both domestic advocacy and broader European trends, with Oberg stating, "There is a high chance that Britain’s recognition will trigger similar actions by other European states." The momentum for Palestinian statehood is expected to grow, driven by civil society and shifting political calculations.
-  
-  **3. The Spread of Foreign Military Bases and Resistance Movements**
-  
-  A recent report by World BEYOND War, highlighted by **Jan Oberg**, documents a continued increase in the number of foreign military bases worldwide. This expansion is paralleled by a rise in public protests and advocacy against such installations, reflecting a broader skepticism toward militarization and foreign intervention. Oberg emphasizes the importance of non-violent resistance, drawing on Gandhi’s philosophy as a framework for addressing these challenges.
-  
-  **Trends and Predictions**
-  
-  Looking ahead, the majority of analysts agree that public opinion will play an increasingly decisive role in shaping foreign policy, particularly in Europe. The recognition of Palestinian statehood by Britain is "quite likely" to set a precedent, potentially accelerating similar moves across the continent. Meanwhile, China’s emphasis on dialogue and soft power is expected to continue, with high confidence that such initiatives will help to mitigate some international tensions, though not resolve underlying strategic rivalries. The proliferation of foreign military bases and the corresponding resistance movements are also set to intensify, with Oberg predicting a "high chance" of further mobilization for demilitarization and peace.
-  
-  In summary, the current period is marked by a gradual but significant reorientation of global power dynamics, driven by public engagement, diplomatic outreach, and persistent calls for peaceful solutions to longstanding conflicts.
+  Looking ahead, the trends point to a continued weakening of multilateral institutions unless member states recommit to genuine cooperation. The recognition of Palestine by more European states is highly likely in the near term, reflecting a broader shift in public sentiment and political will. Dialogues between global intellectuals and policymakers are expected to play a growing role in shaping international relations, though their impact will depend on the willingness of states to act on shared insights.
 articles:
+  - title: 'The UN at 80: Still humanity’s most important organisation but member states
+      deliberately destroy it'
+    url: https://transnational.live/2025/08/13/the-un-at-80-still-humanitys-most-important-organisation-but-member-states-deliberately-destroy-it/
+    text: 'Editorial for Transcend Media Service, TMS, and published in an edited Q
+      & A version by the China Social Science Network-China Social Science News. See
+      also this follow-up, “Condemn all UN member states: They spend 100 times more
+      on militarism than on the entire UN system.” ◎ Jan ObergTFF Director July 9, 2025
+      ◩ The […] The post The UN at 80: Still humanity’s most important organisation
+      but member states deliberately destroy it appeared first on The Transnational
+      .'
+    one_sentence_summary: The editorial argues that while the United Nations remains
+      crucial for humanity at 80 years old, its effectiveness is undermined by member
+      states that prioritize militarism over supporting the UN system.
+    paragraph_summary: In an editorial for Transcend Media Service, TFF Director Jan
+      Oberg reflects on the United Nations' 80th anniversary, emphasizing its critical
+      role as humanity's most vital organization. However, he critiques member states
+      for undermining the UN's effectiveness by prioritizing militarism, spending significantly
+      more on military expenditures than on the UN system itself. Oberg calls for a
+      reevaluation of priorities among UN member states, highlighting the urgent need
+      for a collective commitment to strengthen the organization rather than allow it
+      to be eroded by nationalistic agendas.
+    published: '2025-08-13T10:06:06+00:00'
+  - title: 'The UN at 80: Still humanity’s most important organisation but member states
+      deliberately destroy it'
+    url: https://transnational.live/2025/08/13/the-un-at-80-still-humanitys-most-important-organisation-but-member-states-deliberately-destroy-it/
+    text: 'Editorial for Transcend Media Service, TMS, and published in an edited Q
+      & A version by the China Social Science Network-China Social Science News. See
+      also this follow-up, “Condemn all UN member states: They spend 100 times more
+      on militarism than on the entire UN system.” ◎ Jan ObergTFF Director July 9, 2025
+      ◩ The […] The post The UN at 80: Still humanity’s most important organisation
+      but member states deliberately destroy it appeared first on The Transnational
+      .'
+    one_sentence_summary: The editorial argues that while the United Nations remains
+      crucial for humanity at 80 years old, its effectiveness is undermined by member
+      states that prioritize militarism over supporting the UN system.
+    paragraph_summary: In an editorial for Transcend Media Service, TFF Director Jan
+      Oberg reflects on the United Nations' 80th anniversary, emphasizing its critical
+      role as humanity's most vital organization. However, he critiques member states
+      for undermining the UN's effectiveness by prioritizing militarism, spending significantly
+      more on military expenditures than on the UN system itself. Oberg calls for a
+      reevaluation of priorities among UN member states, highlighting the urgent need
+      for a collective commitment to strengthen the organization rather than allow it
+      to be eroded by nationalistic agendas.
+    published: '2025-08-13T10:06:06+00:00'
   - title: Professor Zhang Weiwei and Jan Oberg in dialogue
     url: https://transnational.live/2025/08/12/professor-zhang-weiwei-and-jan-oberg-in-dialogue/
     text: August 12, 2025 Professor Zhang Weiwei is a highly respected Chinese intellectual

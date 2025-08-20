@@ -8,24 +8,667 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  The Middle East remains at a critical juncture as diplomatic efforts and military tensions continue to shape the region’s future. Over the past weeks, the collapse of the Syrian government, ongoing U.S.-Iran negotiations, and shifting international stances on Israel’s policies have underscored the urgency for a comprehensive peace settlement.
+  The European Union’s foreign policy and its entanglement in global security dilemmas remain at the forefront of geopolitical analysis this week. According to **Jeffrey Sachs**, Europe is caught in a self-imposed economic and security trap, largely shaped by its deep-seated fears of Russia and China, and its resulting dependency on the United States. This dependency, Sachs argues, is not rooted in an objective assessment of Russian intentions but rather in a “false narrative about the Ukraine War” and a historical misreading of Russian actions, which he contends have been primarily defensive.
   
-  **Context and Recent Developments**
+  Sachs provides a detailed historical context, noting that Russia’s westward actions—often cited as evidence of expansionism—were in fact driven by security concerns, particularly in response to repeated invasions by Western powers. He highlights that the expansion of NATO, the abandonment of nuclear arms control treaties by the US, and Western interference in Ukraine’s politics have all contributed to Russia’s current posture. The EU’s alignment with US policy, including sanctions and military build-up, has led to significant economic costs, such as a sharp decline in exports to Russia and soaring energy prices, which have particularly impacted German industry.
   
-  The most significant new development is President Trump’s diplomatic push in the Gulf this week, where he seeks to secure investments and strategic partnerships. According to **Jeffrey Sachs**, this visit presents an “extraordinary opportunity” for regional peace, contingent on the U.S. lifting its veto on Palestine’s admission to the United Nations. Arab leaders are now making it clear that any partnership with the U.S.—and normalization with Israel—depends on a genuine commitment to the two-state solution. This marks a notable shift in leverage, with the Arab world presenting a unified front and linking economic cooperation directly to political progress on Palestine.
+  On the policy front, Sachs calls for a fundamental reassessment: direct diplomatic engagement with Moscow, a negotiated settlement in Ukraine that acknowledges Russian security concerns and pragmatic territorial adjustments, and a clear separation of EU foreign policy from NATO’s military agenda. He also urges Europe to reject militarization of relations with China and to focus on economic and climate cooperation instead. Sachs warns that Europe’s current trajectory—escalating military spending and cutting ties with both Russia and China—risks economic stagnation and increased vulnerability, not just to Russia but potentially to the US itself, should transatlantic relations deteriorate further.
   
-  Meanwhile, U.S.-Iran negotiations have entered a fourth round in Oman, with President Trump expressing optimism: “I think we’re going to make a deal with Iran.” This signals a pragmatic turn in U.S. foreign policy, emphasizing deal-making and direct engagement even with adversaries. The recent U.S.-brokered ceasefire with the Houthis in Yemen further demonstrates this approach, potentially stabilizing a key flashpoint for global trade.
+  In the Middle East, the ongoing crisis remains closely tied to the lack of progress on a two-state solution for Israel and Palestine. Sachs reiterates that the absence of Palestinian statehood is the central driver of instability, with Israel’s far-right government pursuing a strategy of regional dominance and regime change, often drawing the US into conflict. Recent US diplomatic overtures under President Trump, including direct talks with Iran and Hamas and a ceasefire with the Houthis, signal a shift toward pragmatic deal-making, but the core issue remains unresolved: US support for Palestinian admission to the United Nations as a sovereign state.
   
-  On the ground, Israel’s government remains isolated internationally, with even traditional allies like the United Kingdom now opposing any expansion of Israeli operations or annexation in Gaza. **Hamish Falconer**, UK Minister for the Middle East, stated: “Any attempt to annex land in Gaza would be unacceptable.” This growing isolation is a direct response to Israel’s ongoing military campaigns in Gaza, the West Bank, and its recent operations in Syria and Lebanon.
+  The broader trend, as identified by Sachs, is a growing global consensus—across the UN, Arab League, and Organization of Islamic Cooperation—on the necessity of a two-state solution and the end of Israeli occupation. However, Israel’s continued intransigence, backed by US veto power at the UN, perpetuates conflict and risks further escalation, including the possibility of a wider regional war involving Iran.
   
-  **Trends and Predictions**
+  **Predictions:**  
+  - There is a high chance (“I guarantee”) that without a fundamental shift in European foreign policy—toward direct diplomacy with Russia and a reduction in military dependency on the US—Europe will face continued economic stagnation and heightened security risks.
+  - In the Middle East, unless the US lifts its veto on Palestinian statehood and supports a comprehensive peace deal, the region will remain unstable, with a high chance of further conflict and diplomatic isolation for Israel.
+  - Sachs asserts that a negotiated settlement in Ukraine, based on neutrality and pragmatic territorial compromise, is “most definitely” achievable if Europe and the US prioritize diplomacy over militarization.
   
-  The consensus among analysts, as articulated by **Jeffrey Sachs**, is that the only viable path to regional stability is a comprehensive peace agreement centered on the two-state solution. The Arab Peace Initiative and recent UN resolutions have overwhelming international support, while Israel’s current policies are increasingly seen as untenable and counterproductive, even by former allies.
-  
-  Looking ahead, there is a high chance that the upcoming High-level International Conference on Palestine at the United Nations will serve as a focal point for renewed diplomatic pressure. If the U.S. lifts its veto, Sachs argues, “the Middle East would achieve normalcy and the basis for a surge of economic development, and both Israel and Palestine would live in peace.” There is high confidence that U.S. strategic interests now align with a decisive break from previous policies of unconditional support for Israel’s expansionism.
-  
-  In summary, the region stands on the threshold of historic change. The majority view is that a U.S.-backed two-state solution, coupled with normalization of relations and economic investment, is now more likely than at any point in recent decades. However, this outcome remains contingent on U.S. willingness to shift its longstanding diplomatic posture—an outcome that, given current trends, is quite likely in the coming months.
+  Overall, the dominant trend is a growing recognition among independent analysts that current Western strategies—both in Europe and the Middle East—are unsustainable and counterproductive, and that only a return to diplomacy and respect for international law can restore stability and security.
 articles:
+  - title: A New Foreign Policy for Europe
+    url: https://www.cirsd.org/en/horizons/horizons-summer-2025--issue-no-31/a-new-foreign-policy-for-europe
+    text: 'A New Foreign Policy for Europe
+
+
+      Jeffrey D. Sachs is University Professor and Director of the Center for Sustainable
+      Development at Columbia University, and President of the UN Sustainable Development
+      Solutions Network.
+
+
+      The European Union needs a new foreign policy based on Europe’s true economic
+      and security interests. Europe is currently in an economic and security trap of
+      its own making, characterized by its dangerous hostility with Russia, mutual distrust
+      with China, and extreme vulnerability to the United States. Europe’s foreign policy
+      is almost entirely driven by fear of Russia and China—which has resulted in a
+      security dependency on the United States.
+
+
+      “Not one inch eastward”: James Baker and Mikhail Gorbachev in 1991 | Source: Guliver
+      Image
+
+
+      Europe’s subservience to the U.S. stems almost entirely from its overriding fear
+      of Russia, a fear that has been amplified by the Russophobic states of Eastern
+      Europe and a false narrative about the Ukraine War. Based on the belief that its
+      greatest security threat is Russia, the EU subordinates all its other foreign
+      policy issues—economic, trade, environmental, technological, and diplomatic—to
+      the United States. Ironically, it clings close to Washington even as the United
+      States has become weaker, unstable, erratic, irrational, and dangerous in its
+      own foreign policy toward the EU, even to the point of overtly threatening European
+      sovereignty in Greenland.
+
+
+      To chart a new foreign policy, Europe will have to overcome the false premise
+      of its extreme vulnerability to Russia. The Brussels-NATO-UK narrative holds that
+      Russia is intrinsically expansionist and will overrun Europe if the opportunity
+      arises. The Soviet occupation of Eastern Europe from 1945 to 1991 supposedly proves
+      this threat today. This false narrative badly misconstrues Russian behavior in
+      both the past and present.
+
+
+      The first part of this essay aims to correct the false premise that Russia poses
+      a dire threat to Europe. The second part looks ahead to a new European foreign
+      policy, once Europe has moved beyond its irrational Russophobia.
+
+
+      The False Premise of Russia’s Westward Imperialism
+
+
+      Europe’s foreign policy is premised on Russia’s purported security threat to Europe.
+      Yet this premise is false. Russia has repeatedly been invaded by the major Western
+      powers (notably Britain, France, Germany, and the United States in the past two
+      centuries) and has long sought security through a buffer zone between itself and
+      the Western powers. The heavily contested buffer zone includes modern-day Poland,
+      Ukraine, Finland, and the Baltic states. This region in between the Western powers
+      and Russia accounts for the main security dilemmas facing Western Europe and Russia.
+
+
+      The major Western wars launched against Russia since 1800 include:
+
+
+      The French invasion of Russia in 1812 (Napoleonic Wars)
+
+
+      The British and French Invasion of Russia in 1853-1856 (Crimean War)
+
+
+      The German declaration of war against Russia on August 1st, 1914 (World War I)
+
+
+      The Allied intervention in the Russian Civil War, 1918-1922 (Russian Civil War)
+
+
+      The German invasion of Russia in 1941 (World War II)
+
+
+      Each of these wars posed an existential threat to Russia’s survival. From Russia’s
+      perspective, the failure to demilitarize Germany after World War II, the creation
+      of NATO, the incorporation of West Germany into NATO in 1955, the expansion of
+      NATO eastward after 1991, and the ongoing expansion of U.S. military bases and
+      missile systems across Eastern Europe near Russia’s borders have constituted the
+      gravest threats to Russia’s national security since World War II.
+
+
+      Russia has also invaded westward on several occasions:
+
+
+      Russia’s attack on East Prussia in 1914
+
+
+      The Ribbentrop-Molotov Pact in 1939, dividing Poland between Germany and the Soviet
+      Union and annexing the Baltic States in 1940
+
+
+      The invasion of Finland in November 1939 (the Winter War)
+
+
+      The Soviet Occupation of Eastern Europe from 1945 to 1989
+
+
+      The Russian invasion of Ukraine in February 2022
+
+
+      These Russian actions are taken by Europe as objective proof of Russia’s westward
+      expansionism, yet such a view is naïve, ahistorical, and propagandized. In all
+      five cases, Russia was acting to protect its national security—as it saw it—not
+      undertaking westward expansionism for its own sake. This basic truth is the key
+      to resolving the Europe-Russia conflict today. Russia is not seeking westward
+      expansion; Russia is seeking its core national security. Yet the West has long
+      failed to recognize, much less respect, Russia’s core national security interests.
+
+
+      Let us consider these five cases of Russia’s purported westward expansion.
+
+
+      The first case, Russia’s attack in East Prussia in 1914, can be immediately put
+      aside. The German Reich had moved first to declare war on Russia on August 1st,
+      1914. Russia’s invasion of East Prussia was in direct response to Germany’s declaration
+      of war.
+
+
+      The second case, Soviet Russia’s agreement with Hitler’s Third Reich to divide
+      Poland in 1939, and the annexation of the Baltic States in 1940, is taken in the
+      West as the purest proof of Russian perfidy. Again, this is a simplistic and mistaken
+      reading of history. As historians such as E. H. Carr, Stephen Kotkin, and Michael
+      Jabara Carley have carefully documented, Stalin reached out to Britain and France
+      in 1939 to form a defensive alliance against Hitler, who had declared his intention
+      to wage war against Russia in the East (for Lebensraum, Slavic slave labor, and
+      the defeat of Bolshevism). Stalin’s attempt to forge an alliance with the Western
+      powers was completely rebuffed. Poland refused to allow Soviet troops on Polish
+      soil in the event of a war with Germany. The Western elite’s hatred of Soviet
+      Communism was at least as great as their fear of Hitler. Indeed, a common phrase
+      among British right-wing elites in the late 1930s was “Better Hitlerism than Communism.”
+
+
+      Given the failure to secure a defense alliance, Stalin then aimed to create a
+      buffer zone against the impending German invasion of Russia. The partition of
+      Poland and annexation of the Baltic States were tactical, to win time for the
+      coming battle of Armageddon with Hitler’s armies, which arrived on June 22nd,
+      1941, with the German invasion of the Soviet Union in Operation Barbarossa. The
+      preceding division of Poland and the annexation of the Baltic States may well
+      have delayed the invasion and saved the Soviet Union from a quick defeat by Hitler.
+
+
+      The third case, Russia’s Winter War with Finland, is similarly regarded in Western
+      Europe (and especially in Finland) as proof of Russia’s expansionist nature. Yet
+      once again, the basic motivation of Russia was defensive, not offensive. Russia
+      feared that the German invasion would come in part through Finland, and that Leningrad
+      would quickly be captured by Hitler. The Soviet Union therefore proposed to Finland
+      that it swap territory with the Soviet Union (notably ceding the Karelian Isthmus
+      and some islands in the Gulf of Finland in return for Russian territories) to
+      enable the Russian defense of Leningrad. Finland refused this proposal, and the
+      Soviet Union invaded Finland on November 30th, 1939. Subsequently, Finland joined
+      Hitler’s armies in the war against the Soviet Union during the “Continuation War”
+      between 1941 and 1944.
+
+
+      The fourth case, the Soviet occupation of Eastern Europe (and continued annexation
+      of the Baltic States) during the Cold War, is taken in Europe as another bitter
+      proof of Russia’s fundamental threat to Europe’s security. The Soviet occupation
+      was indeed brutal, but it too had a defensive motivation that is completely overlooked
+      in the Western European and American narrative. The Soviet Union bore the brunt
+      of defeating Hitler, losing an astounding 27 million citizens in the war. Russia
+      had one overriding demand at the end of the war: that its security interests be
+      guaranteed by a treaty protecting it from future threats from Germany and the
+      West more generally. The West, led now by the United States, refused this basic
+      security demand. The Cold War is the result of the Western refusal to respect
+      Russia’s vital security concerns. Of course, the history of the Cold War as told
+      by the Western narrative is just the opposite—that the Cold War resulted solely
+      from Russia’s belligerent attempts to conquer the world!
+
+
+      Here is the actual story, known well to historians but almost completely unknown
+      to the public in the United States and Europe. At the end of the war, the Soviet
+      Union sought a peace treaty that would establish a unified, neutral, and demilitarized
+      Germany. At the Potsdam Conference in July 1945, attended by the leaders of the
+      Soviet Union, United Kingdom, and the United States, the three allied powers agreed
+      to “the complete disarmament and demilitarization of Germany and the elimination
+      or control of all German industry that could be used for military production.”
+      Germany would be unified, pacified, and demilitarized. All of this would be secured
+      by a treaty to end the war. In the event, the U.S. and UK worked diligently to
+      undermine this core principle.
+
+
+      Starting as early as May 1945, Winston Churchill tasked his military Chief of
+      Staff with formulating a war plan to launch a surprise attack against the Soviet
+      Union in mid-1945, code-named Operation Unthinkable. While such a war was deemed
+      impractical by the UK military planners, the notion that the Americans and the
+      British should prepare for a coming war with the Soviet Union quickly took hold.
+      The war planners deemed that the likely timing for such a war was the early 1950s.
+      Churchill’s aim, it appears, was to prevent Poland and other countries in Eastern
+      Europe from falling under a Soviet sphere of influence. In the United States too,
+      top military planners came to view the Soviet Union as America’s next enemy within
+      weeks of Germany’s surrender in May 1945. The U.S. and UK quickly recruited Nazi
+      scientists and senior intelligence operatives (such as Reinhard Gehlen, a Nazi
+      leader who would be supported by Washington to establish Germany’s postwar intelligence
+      agency) to begin planning the coming war with the Soviet Union.
+
+
+      The Cold War erupted mainly because the Americans and the Brits rejected German
+      reunification and demilitarization as agreed at Potsdam. Instead, the Western
+      powers abandoned German reunification by forming the Federal Republic of Germany
+      (FRG, or West Germany) out of the three occupation zones held by the United States,
+      United Kingdom, and France. The FRG would be reindustrialized and remilitarized
+      under the American aegis. By 1955, West Germany was admitted to NATO.
+
+
+      While historians ardently debate who did and did not live up to the agreements
+      at Potsdam (e.g., with the West pointing to the Soviet refusal to allow a truly
+      representative government in Poland, as agreed at Potsdam), there is no doubt
+      that the West’s remilitarization of the Federal Republic of Germany was the key
+      cause of the Cold War.
+
+
+      In 1952, Stalin proposed a reunification of Germany based on neutrality and demilitarization.
+      This proposal was rejected by the United States. In 1955, the Soviet Union and
+      Austria agreed that the Soviet Union would withdraw its occupying forces from
+      Austria in return for the latter’s pledge of permanent neutrality. The Austrian
+      State Treaty was signed on May 15th, 1955, by the Soviet Union, the United States,
+      France, and the United Kingdom, together with Austria, thereby leading to the
+      end of the occupation. The goal of the Soviet Union was not only to resolve the
+      tensions over Austria but also to show the United States a successful model of
+      Soviet withdrawal from Europe coupled with neutrality. Once again, the United
+      States rejected the Soviet appeal for ending the Cold War based on Germany’s neutrality
+      and demilitarization. As late as 1957, the American doyen of Soviet affairs, George
+      Kennan, was appealing publicly and ardently in his third Reith Lecture for the
+      BBC for the United States to agree with the Soviet Union on a mutual withdrawal
+      of troops from Europe. The Soviet Union, Kennan emphasized, was not aimed at or
+      interested in a military invasion of Western Europe. The U.S. Cold Warriors, led
+      by John Foster Dulles, would have none of it. No peace treaty was signed with
+      Germany to end World War II until German reunification in 1990.
+
+
+      It is worth underscoring that the Soviet Union respected the neutrality of Austria
+      after 1955, and indeed of the other neutral countries of Europe (including Sweden,
+      Finland, Switzerland, Ireland, Spain, and Portugal). Finnish President Alexander
+      Stubb has recently declared that Ukraine should reject neutrality based on Finland’s
+      adverse experience (with Finnish neutrality ending in 2024, when the country joined
+      NATO). This is a bizarre thought. Finland, under neutrality, remained at peace,
+      achieved remarkable economic prosperity, and shot to the very top of the world
+      leagues in happiness (according to the World Happiness Report).
+
+
+      President John F. Kennedy showed the potential path to end the Cold War based
+      on mutual respect for the security interests of all sides. Kennedy blocked the
+      attempt by German Chancellor Konrad Adenauer to acquire nuclear weapons from France
+      and thereby assuaged the Soviet concerns over a nuclear-armed Germany. On that
+      basis, JFK successfully negotiated the Partial Nuclear Test Ban Treaty with his
+      Soviet counterpart Nikita Khrushchev. Kennedy was most likely assassinated several
+      months later by a group of CIA operatives as the result of his peace initiative.
+      Documents released in 2025 confirm the long-held suspicion that Lee Harvey Oswald
+      was being directly handled by James Angleton, a top CIA official. The next U.S.
+      overture towards peace with the Soviet Union was led by Richard Nixon. He too
+      was brought down by the Watergate events, which also have signs of a CIA operation
+      that have never been clarified.
+
+
+      Mikhail Gorbachev eventually ended the Cold War by unilaterally disbanding the
+      Warsaw Pact and by actively promoting the democratization of Eastern Europe. I
+      was a participant in some of those events and witnessed some of Gorbachev’s peacemaking.
+      In the summer of 1989, for example, Gorbachev told the communist leadership of
+      Poland to form a coalition government with the opposition forces led by the Solidarity
+      movement. The end of the Warsaw Pact and the democratization of Eastern Europe,
+      all steered by Gorbachev, led quickly to the calls by the German Chancellor Helmut
+      Kohl for the reunification of Germany. This led to the 1990 reunification treaties
+      between the FRG and GDR, and to the so-called 2+4 Treaty between the two Germanys
+      and the four Allied powers: the U.S., UK, France, and Soviet Union. The United
+      States and Germany clearly promised Gorbachev in February 1990 that NATO “would
+      not shift one inch eastward” in the context of German reunification, a fact that
+      is now widely denied by the Western powers but that is easily verified. That key
+      promise not to proceed with NATO enlargement was made on several occasions, but
+      it was not included in the text of the 2+4 Agreement, since that agreement concerned
+      German reunification, not NATO’s eastward expansion.
+
+
+      The fifth case, Russia’s invasion of Ukraine in February 2022, is once again regarded
+      in the West as proof of Russia’s incorrigible westward imperialism. The favorite
+      word of Western media, pundits, and propagandists is that Russia’s invasion was
+      “unprovoked,” and therefore is proof of Putin’s implacable quest not only to reestablish
+      the Russian Empire but to move further westward, meaning that Europe should prepare
+      for war with Russia. This is a preposterous big lie, but it is repeated so often
+      by the mainstream media that it is widely believed in Europe.
+
+
+      The fact is that the Russian invasion in February 2022 was so thoroughly provoked
+      by the West that one suspects it was indeed an American design to lure Russians
+      into war to defeat or weaken Russia. This is a credible claim, as a long streak
+      of statements by numerous U.S. officials confirms. After the invasion, U.S. Secretary
+      of Defense Lloyd Austin declared that Washington’s aim was “to see Russia weakened
+      to the degree that it can’t do the kinds of things that it has done in invading
+      Ukraine. Ukraine can win if it has the right equipment, the right support.”
+
+
+      The overriding American provocation of Russia was to expand NATO eastward, contrary
+      to the 1990 promises, with one important aim: to surround Russia with NATO states
+      in the Black Sea region, thereby rendering Russia unable to project its Crimean-based
+      naval power into the Eastern Mediterranean and Middle East. In essence, the U.S.
+      aim was the same as the aim of Palmerston and Napoleon III in the Crimean War:
+      to banish the Russian fleet from the Black Sea. NATO members would include Ukraine,
+      Romania, Bulgaria, Turkey, and Georgia, thereby forming a noose to strangle Russia’s
+      Black Sea naval power. Brzezinski described this strategy in his 1997 book The
+      Grand Chessboard, where he asserted that Russia would surely bend to the Western
+      will, as it had no choice but to do so. Brzezinski specifically rejected the idea
+      that Russia would ever align with China against Europe.
+
+
+      The entire period after the demise of the Soviet Union in 1991 is one of Western
+      hubris (as historian Jonathan Haslam entitled his superb account), in which the
+      United States and Europe believed that they could drive NATO and American weapons
+      systems (such as Aegis missiles) eastward without any regard for Russia’s national
+      security concerns. The list of Western provocations is too long to provide in
+      detail here, but a summary includes the following.
+
+
+      First, contrary to promises made in 1990, the United States began NATO’s eastward
+      enlargement with then-President Bill Clinton’s announcements in 1994. At the time,
+      Clinton’s Secretary of Defense, William Perry, considered resigning over the recklessness
+      of the U.S. actions, contrary to previous promises. The first wave of NATO enlargement
+      occurred in 1999, including Poland, Hungary, and the Czech Republic. In that same
+      year, NATO forces bombed Russia’s ally Serbia for 78 days to break Serbia apart,
+      and NATO quickly placed a new major military base in the breakaway province of
+      Kosovo. In 2004, the second wave of NATO’s eastward expansion included seven countries,
+      including Russia’s direct neighbors in the Baltics, and two countries on the Black
+      Sea—Bulgaria and Romania. In 2008, most of the EU recognized Kosovo as an independent
+      state, contrary to the European protestations that European borders are sacrosanct.
+
+
+      Second, the United States abandoned the nuclear arms control framework by unilaterally
+      leaving the Anti-Ballistic Missile Treaty in 2002. In 2019, Washington similarly
+      abandoned the Intermediate-Range Nuclear Forces Treaty. Despite Russia’s strenuous
+      objections, the U.S. began to place anti-ballistic missile systems in Poland and
+      Romania, and in January 2022, reserved the right to place such systems in Ukraine.
+
+
+      Third, the United States deeply infiltrated Ukraine’s internal politics, spending
+      billions of dollars to shape public opinion, create media outlets, and steer Ukraine’s
+      domestic politics. The 2004–2005 election in Ukraine is widely regarded as a U.S.
+      color revolution, in which the United States used its covert and overt influence
+      and financing to steer the election in favor of the U.S.-backed candidates. In
+      2013-2014, the United States played a direct role in financing the Maidan protests
+      and in backing the violent coup that toppled the neutrality-minded President Viktor
+      Yanukovych, thereby paving the way for a Ukrainian regime supporting NATO membership.
+      Incidentally, I was invited to visit the Maidan soon after the violent February
+      22nd, 2014 coup that toppled Yanukovych. The role of American financing of the
+      protests was explained to me by a U.S. NGO that was deeply involved in the Maidan
+      events.
+
+
+      Fourth, beginning in 2008, over the objections of several European leaders, the
+      United States pushed NATO to commit to enlarging to Ukraine and Georgia. The U.S.
+      ambassador to Moscow at the time, William J. Burns, wired back to Washington a
+      now-infamous memo titled “Nyet Means Nyet: Russia’s NATO Enlargement Redlines,”
+      explaining that the entire Russian political class was deeply opposed to NATO
+      enlargement to Ukraine and that it worried such an effort would lead to civil
+      strife in Ukraine.
+
+
+      Fifth, following the Maidan coup, the ethnic Russian regions of Eastern Ukraine
+      (Donbas) broke away from the new Western Ukrainian government installed by the
+      coup. Russia and Germany quickly settled on the Minsk Agreements, according to
+      which the two breakaway regions (Donetsk and Lugansk) would remain part of Ukraine
+      but with local autonomy, modeled on the local autonomy of the ethnic-German region
+      of South Tyrol, Italy. Minsk II, which was backed by the UN Security Council,
+      could have ended the conflict, but the government in Kyiv, with the support of
+      Washington, decided not to implement autonomy. The failure to implement Minsk
+      II poisoned the diplomacy between Russia and the West.
+
+
+      Sixth, the United States steadily expanded Ukraine’s army (active plus reserve)
+      to around one million soldiers by 2020. Ukraine and its right-wing paramilitary
+      battalions (such as the Azov Battalion and the Right Sector) led repeated attacks
+      against the two breakaway regions, with thousands of civilian deaths in the Donbas
+      from Ukraine’s shelling.
+
+
+      Seventh, at the end of 2021, Russia put on the table a draft Russia-U.S. Security
+      Agreement, calling mainly for an end to NATO enlargement. The United States rejected
+      Russia’s call to end NATO’s eastward enlargement, recommitting to NATO’s “open-door”
+      policy, according to which third countries, such as Russia, would have no say
+      regarding NATO enlargement. The U.S. and European countries repeatedly reiterated
+      Ukraine’s eventual membership in NATO. The U.S. Secretary of State also reportedly
+      told the Russian Foreign Minister in January 2022 that the United States maintained
+      the right to deploy medium-range missiles in Ukraine, despite Russia’s objections.
+
+
+      Eighth, following the Russian invasion on February 24th, 2022, Ukraine quickly
+      agreed to peace negotiations based on a return to neutrality. These negotiations
+      took place in Istanbul with the mediation of Türkiye. At the end of March 2022,
+      Russia and Ukraine issued a joint memorandum reporting progress in a peace agreement.
+      On April 15th, a draft agreement was tabled that was close to an overall settlement.
+      At that stage, the United States intervened and told the Ukrainians that it would
+      not support the peace agreement but instead backed Ukraine to continue fighting.
+
+
+      The High Costs of a Failed Foreign Policy
+
+
+      Russia has not made any territorial claims against Western European countries,
+      nor has Russia threatened Western Europe aside from the right to retaliate against
+      Western-assisted missile strikes inside Russia. Up until the 2014 Maidan coup,
+      Russia made zero territorial claims on Ukraine. After the 2014 coup, and up through
+      late 2022, Russia’s only territorial demand was Crimea, to prevent Russia’s naval
+      base in Sevastopol from falling into Western hands. Only after the failure of
+      the Istanbul peace process—torpedoed by the United States—did Russia claim annexation
+      of Ukraine’s four oblasts (Donetsk, Lugansk, Kherson, and Zaporizhzhia). Russia’s
+      stated war aims today remain limited, including Ukraine’s neutrality, partial
+      demilitarization, permanent non-NATO membership, and transfer of Crimea and the
+      four oblasts to Russia, constituting roughly 19 percent of Ukraine’s 1991 territory.
+
+
+      This is not evidence of Russian westward imperialism. Nor are they unprovoked
+      demands. Russia’s war aims follow more than 30 years of Russian objections to
+      the eastward expansion of NATO, the arming of Ukraine, the American abandonment
+      of the nuclear arms framework, and the deep Western meddling in Ukraine’s internal
+      politics, including support for a violent coup in 2014 that put NATO and Russia
+      on a direct collision course.
+
+
+      Europe has chosen to interpret the events of the past 30 years as evidence of
+      Russia’s implacable and incorrigible westward expansionism—just as the West insisted
+      that the Soviet Union alone was responsible for the Cold War, when in fact the
+      Soviet Union repeatedly pointed the way to peace through the neutrality, unification,
+      and disarmament of Germany. Just as during the Cold War, the West chose to provoke
+      Russia rather than to acknowledge Russia’s wholly understandable security concerns.
+      Every Russian action has been interpreted maximally as a sign of Russian perfidy,
+      never acknowledging Russia’s side of the debate. This is a vivid example of the
+      classic security dilemma, in which adversaries completely speak past each other,
+      assuming the worst and acting aggressively on their faulty assumptions.
+
+
+      Europe’s choice to interpret the Cold War and the post-Cold War from this heavily
+      biased perspective has come at enormous cost to Europe, and the costs continue
+      to mount. Most importantly, Europe came to view itself as wholly dependent on
+      the United States for its security. If Russia is indeed incorrigibly expansionist,
+      then the United States truly is Europe’s necessary savior. If, by contrast, Russia’s
+      behavior in fact reflected its security concerns, then the Cold War could most
+      likely have ended decades earlier on the Austrian neutrality model, and the post-Cold
+      War era could have been a period of peace and growing trust between Russia and
+      Europe.
+
+
+      In fact, Europe and Russia are complementary economies, with Russia rich in primary
+      commodities (agriculture, minerals, hydrocarbons) and engineering, and Europe
+      home to energy-intensive industries and key high technologies. The United States
+      has long opposed the growing trade links between Europe and Russia that resulted
+      from this natural complementarity, viewing Russia’s energy industry as a competitor
+      to the U.S. energy sector, and more generally viewing close German-Russian trade
+      and investment ties as a threat to American political and economic predominance
+      in Western Europe. For those reasons, the United States opposed the Nord Stream
+      1 and 2 pipelines well before there was a conflict over Ukraine. For this reason,
+      Biden explicitly promised to end Nord Stream 2—as happened—in the event of a Russian
+      invasion of Ukraine. The U.S. opposition to Nord Stream, and to close German-Russian
+      economic ties, was on general principles: the EU and Russia should be kept at
+      arm’s length, lest the United States lose its clout in Europe.
+
+
+      The Ukraine War and Europe’s split with Russia have done great damage to the European
+      economy. Europe’s exports to Russia have plummeted, from around €90 billion in
+      2021 to just €30 billion in 2024. Energy costs have soared, as Europe has shifted
+      from low-cost Russian pipeline natural gas to U.S. liquefied natural gas, which
+      is several times more expensive. Germany’s industry has declined by around 10
+      percent since 2020, and both the German chemical sector and automobile sector
+      are reeling. The IMF projects EU economic growth of just 1 percent in 2025 and
+      around 1.5 percent for the balance of the decade.
+
+
+      German Chancellor Friedrich Merz has called for a permanent ban on reestablishing
+      Nord Stream gas flows, but this is almost an economic suicide pact for Germany.
+      It is based on Merz’s view that Russia aims for war with Germany, but the fact
+      is that Germany is provoking war with Russia by engaging in warmongering and a
+      massive military buildup. According to Merz, “a realistic view of Russia’s imperialist
+      aspirations is needed.” He states that “Part of our society has a deep-rooted
+      fear of war. I don’t share it, but I can understand it.” Most alarmingly, Merz
+      has declared that “the means of diplomacy have been exhausted,” even though he
+      has apparently not even tried to speak with Russian President Vladimir Putin since
+      coming to power. Moreover, he seems willfully blind to the near success of diplomacy
+      in 2022 in the Istanbul process—that is, before the United States put a stop to
+      the diplomacy.
+
+
+      The Western approach to China mirrors its approach to Russia. The West often attributes
+      nefarious intentions to China that are, in many ways, projections of its own hostile
+      intentions toward the People’s Republic. China’s rapid rise to economic preeminence
+      during 1980 to 2010 led American leaders and strategists to regard China’s further
+      economic rise as antithetical to U.S. interests. In 2015, U.S. strategists Robert
+      Blackwill and Ashley Tellis clearly explained that the U.S. grand strategy is
+      American hegemony, and that China is a threat to that hegemony because of China’s
+      size and success. Blackwill and Tellis advocated a set of measures by the United
+      States and its allies to hinder China’s future economic success, such as excluding
+      China from new trade blocs in the Asia-Pacific, restricting the export of Western
+      high-technology goods to China, imposing tariffs and other restrictions on China’s
+      exports, and other anti-China measures. Note that these measures were recommended
+      not because of specific wrongs that China had committed, but because, according
+      to the authors, China’s continued economic growth was contrary to American primacy.
+
+
+      Part of the foreign policy vis-à-vis both Russia and China is a media war to discredit
+      these ostensible foes of the West. In the case of China, the West has portrayed
+      it as committing a genocide in Xinjiang province against the Uyghur population.
+      This absurd and hyped charge came without any serious attempt at evidence, while
+      the West generally turns a blind eye to the actual ongoing genocide of tens of
+      thousands of Palestinians in Gaza at the hands of its ally, Israel. In addition,
+      the Western propaganda includes a host of absurd claims about the Chinese economy.
+      China’s highly valuable Belt and Road Initiative, which provides financing for
+      developing countries to build modern infrastructure, is derided as a “debt trap.”
+      China’s remarkable capacity to produce green technologies, such as solar modules
+      that the world urgently needs, is derided by the West as “overcapacity” that should
+      be curtailed or shut down.
+
+
+      On the military side, the security dilemma vis-à-vis China is interpreted in the
+      most ominous manner, just as with Russia. The United States has long proclaimed
+      its capacity to disrupt China’s vital sea lanes but then calls China militaristic
+      when it takes steps to build its own naval capacity in response. Rather than seeing
+      China’s military buildup as a classic security dilemma that should be resolved
+      through diplomacy, the U.S. Navy declares that it should prepare for war with
+      China by 2027. NATO increasingly calls for active engagement in East Asia, directed
+      against China. European allies of the United States generally conform with the
+      aggressive American approach towards China, both regarding trade and the military.
+
+
+      A New Foreign Policy for Europe
+
+
+      Europe has backed itself into a corner, making itself subservient to the United
+      States, resisting direct diplomacy with Russia, losing its economic edge through
+      sanctions and war, committing to massive and unaffordable increases in military
+      spending, and cutting long-term trade and investment links with both Russia and
+      China. The result is rising debts, economic stagnation, and a growing risk of
+      major war, which apparently does not frighten Merz but should terrify the rest
+      of us. Perhaps the most likely war is not with Russia but with the United States,
+      which under Trump threatened to seize Greenland if Denmark wouldn’t simply sell
+      or transfer Greenland to Washington’s sovereignty. It’s quite possible that Europe
+      will find itself without any real friends: neither Russia nor China, but also
+      not the United States, the Arab states (resentful of Europe’s blind eye to Israel’s
+      genocide), Africa (still smarting from European colonialism and post-colonialism),
+      and beyond.
+
+
+      There is, of course, another way—indeed a highly promising way, if European politicians
+      reassess Europe’s true security interests and risks, and reestablish diplomacy
+      at the center of Europe’s foreign policy. I propose 10 practical steps to achieve
+      a foreign policy that reflects Europe’s true needs.
+
+
+      First, open direct diplomatic communications with Moscow. Europe’s palpable failure
+      to engage in direct diplomacy with Russia is devastating. Europe perhaps even
+      believes its own foreign policy propaganda, since it fails to discuss the key
+      issues directly with its Russian counterpart.
+
+
+      Second, prepare for a negotiated peace with Russia regarding Ukraine and the future
+      of European collective security. Most importantly, Europe should agree with Russia
+      that the war should end based on a firm and irrevocable commitment that NATO will
+      not enlarge to Ukraine, Georgia, or other eastward destinations. Moreover, Europe
+      should accept some pragmatic territorial changes in Ukraine in Russia’s favor.
+
+
+      Third, Europe should reject the militarization of its relations with China, for
+      example by rejecting any role for NATO in East Asia. China is absolutely no threat
+      to Europe’s security, and Europe should stop blindly supporting American claims
+      to hegemony in Asia, which are dangerous and delusional enough even without Europe’s
+      support. To the contrary, Europe should strengthen its trade, investment, and
+      climate cooperation with China.
+
+
+      Fourth, Europe should decide on a sensible institutional mode of diplomacy. The
+      current mode is unworkable. The EU High Representative for Foreign Affairs and
+      Security Policy serves mainly as a mouthpiece for Russophobia, while actual high-level
+      diplomacy—to the extent that it exists—is confusingly and alternatively led by
+      individual European leaders, the EU High Representative, the President of the
+      European Commission, the President of the European Council, or some varying combination
+      of the above. In short, nobody speaks clearly for Europe, since there is no clear
+      EU foreign policy in the first place.
+
+
+      Fifth, Europe should recognize that EU foreign policy needs to be disassociated
+      from NATO. In fact, Europe does not need NATO, since Russia is not about to invade
+      the EU. Europe should indeed build its own military capacity independent of the
+      United States, but at far lower cost than 5 percent of GDP, which is an absurd
+      numerical target based on the utterly exaggerated assessment of the Russian threat.
+      Moreover, European defense should not be the same as European foreign policy,
+      though the two have become utterly confused in the recent past.
+
+
+      Sixth, the EU, Russia, India, and China should work together on the green, digital,
+      and transport modernization of the Eurasian space. Eurasia’s sustainable development
+      is a win-win-win-win for the EU, Russia, India, and China, and cannot occur other
+      than through peaceful cooperation among the four major Eurasian powers.
+
+
+      Seventh, Europe’s Global Gateway, the financing arm for infrastructure in non-EU
+      countries, should work together with China’s Belt and Road Initiative. Currently,
+      the Global Gateway is pitched as a competitor to BRI. In fact, the two should
+      join forces to co-finance the green energy, digital, and transport infrastructure
+      for Eurasia.
+
+
+      Eighth, the European Union should step up its financing of the European Green
+      Deal (EGD), accelerating Europe’s transformation to a low-carbon future, rather
+      than squandering 5 percent of GDP on military-related outlays of no need or benefit
+      for Europe. There are two benefits of increased outlays for the EGD. First, it
+      will deliver regional and global benefits in climate safety. Second, it will build
+      Europe’s competitiveness in the green and digital technologies of the future,
+      thereby creating a new viable growth model for Europe.
+
+
+      Ninth, the EU should partner with the African Union on a massive expansion of
+      education and skill-building through the AU member states. With a population of
+      1.4 billion rising to around 2.5 billion by mid-century, compared with the EU’s
+      population of around 450 million, Africa’s economic future will profoundly affect
+      Europe’s. The best hope for African prosperity is the rapid buildup of advanced
+      education and skills.
+
+
+      Tenth, the EU and the BRICS should tell the United States firmly and clearly that
+      the future world order is not based on hegemony but on the rule of law under the
+      UN Charter. That is the only path to Europe’s, and the world’s, true security.
+      Dependency on the U.S. and NATO is a cruel illusion, especially given the instability
+      of the United States itself. Reaffirmation of the UN Charter, by contrast, can
+      end wars (e.g., by ending Israel’s impunity and enforcing ICJ rulings for the
+      two-state solution) and prevent future conflicts.
+
+
+      Back to Table of Contents'
+    one_sentence_summary: Jeffrey D. Sachs argues that the European Union needs a new
+      foreign policy that prioritizes its own economic and security interests rather
+      than being driven by fear of Russia and China, which has led to a dangerous dependency
+      on the United States and a misunderstanding of Russia's historical motivations
+      and security concerns.
+    paragraph_summary: In "A New Foreign Policy for Europe," Jeffrey D. Sachs argues
+      that the European Union must redefine its foreign policy to align with its genuine
+      economic and security interests, moving away from its current dependency on the
+      United States, which is largely driven by an exaggerated fear of Russia and China.
+      He critiques the prevailing narrative that Russia poses an intrinsic threat to
+      Europe, asserting that this view misinterprets historical events and Russian motivations,
+      which have often been defensive rather than expansionist. Sachs contends that
+      Europe’s security dilemmas stem from a historical context of invasions by Western
+      powers and the failure to respect Russia's security concerns, particularly following
+      the Cold War. He calls for a reassessment of Europe's approach to Russia, advocating
+      for a foreign policy that recognizes mutual security interests and promotes peace
+      rather than conflict, ultimately suggesting that overcoming irrational Russophobia
+      is essential for a more autonomous and stable European foreign policy.
+    published: '2025-08-20T05:44:14.254332+00:00'
   - title: This is Trump’s moment to deliver peace to the Middle East
     url: https://www.aljazeera.com/opinions/2025/5/14/this-is-trumps-moment-to-deliver-peace-to-the-middle-east
     text: 'The Arab world stands at a crossroad – a moment of truth that hinges on the

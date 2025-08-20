@@ -7,16 +7,1790 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  Tensions in the Middle East and the South Caucasus remain high following a series of escalatory moves over the past weeks. The aftermath of the June 2025 Israeli-U.S. strikes on Iran’s nuclear facilities continues to reverberate, while the recently signed “Trump Bridge” corridor agreement between Azerbaijan and Armenia is reshaping regional alliances and rivalries.
+  After nearly two years of relentless conflict in Gaza, the region faces a critical juncture. The Israeli military, under Chief of Staff Yael Zamir, has submitted a new plan to Defense Minister Yisrael Katz for the occupation of Gaza, with the stated aim of dismantling Hamas and installing a new governing authority. This military proposal comes at a moment of diplomatic opportunity: Hamas has accepted a U.S.-mediated ceasefire initiative, which includes provisions for humanitarian aid and the possible release of Israeli prisoners.
   
-  The most recent development is Iran’s adoption of a “nuclear blackout” strategy. In response to the strikes, Tehran has ceased cooperation with international nuclear inspectors and is withholding information about its uranium enrichment levels. According to **Elijah J. Magnier**, Iran is now setting stringent preconditions for any future negotiations with the West, while the European Union debates new sanctions. Russia and China have publicly urged restraint, but their influence appears limited as the crisis deepens.
+  **Elijah J. Magnier** notes that this ceasefire, brokered with the involvement of Egypt and Qatar, is set for an initial 60-day period. The timing is significant, as it coincides with a parliamentary truce in Israel, granting Prime Minister Netanyahu a temporary political reprieve. The convergence of military and diplomatic strategies suggests a complex calculus in Tel Aviv, where the leadership must choose between pursuing the occupation plan, embracing the ceasefire, or stalling for further advantage.
   
-  Meanwhile, the South Caucasus has witnessed a significant diplomatic shift. The U.S.-brokered transit agreement, signed at the White House by Azerbaijani President Ilham Aliyev and Armenian Prime Minister Nikol Pashinyan, establishes a corridor connecting Azerbaijan to its Nakhchivan exclave through Armenian territory. Both Iran and Russia have voiced strong opposition, viewing the corridor as a threat to their regional interests and influence. **Elijah J. Magnier** notes that this deal could “redraw the strategic map of the Caucasus,” with the potential to trigger further friction between regional powers.
+  Analysts widely agree that Israel’s prolonged campaign in Gaza has not yielded decisive political gains, despite overwhelming military force. As **Magnier** emphasizes, “military dominance does not guarantee political victory”—a lesson increasingly apparent in the wake of widespread destruction and the threat of further displacement of Palestinians.
   
-  In Gaza, Israel’s preparations for a major ground assault on Gaza City have led to a breakdown in ceasefire talks with Hamas. The planned operation, described by Israeli officials as a move from “occupation” to “control,” is expected to result in prolonged fighting and mass displacement. **Elijah J. Magnier** reports that the offensive could last up to three months, with significant humanitarian consequences for the civilian population.
-  
-  Looking ahead, the trends point to further instability. Iran’s nuclear blackout is likely to prolong the standoff with the West, and I guarantee that negotiations will remain stalled unless there is a significant shift in U.S. or EU policy. The “Trump Bridge” corridor will most definitely increase tensions between Azerbaijan, Armenia, Iran, and Russia, with a high chance of new security dilemmas emerging in the region. In Gaza, the Israeli offensive is quite likely to escalate, deepening the humanitarian crisis and reducing prospects for a negotiated ceasefire in the near term.
+  Looking ahead, the majority view is that the next weeks will be pivotal. If Netanyahu’s government opts to accept the ceasefire and engage with the diplomatic process, there is a high chance (“I guarantee,” as Magnier would put it) of at least a temporary reduction in hostilities and improved humanitarian conditions. However, should the occupation plan proceed or the ceasefire be sabotaged, renewed escalation is almost certain, with the risk of deeper regional instability. The prevailing trend points to a fragile window for de-escalation, but the underlying political and military tensions remain unresolved.
 articles:
+  - title: Toward or Away from Peace? Historic Echoes and Netanyahu’s Calculus — Accept,
+      Sabotage, or Stall
+    url: https://ejmagnier.com/2025/08/19/toward-or-away-from-peace-historic-echoes-and-netanyahus-calculus-accept-sabotage-or-stall/
+    text: 'Tweet By Elijah J. Magnier Israeli Chief of Staff Yael Zamir has finally
+      presented to Defence Minister Yisrael Katz the long-awaited plan to occupy Gaza
+      — a blueprint designed both to end Hamas militarily existence in Gaza and find
+      another authority to rule the Strip. The timing is critical. With the Knesset
+      adjourned from 4 August until 27 October 2025, Prime Minister Benjamin Netanyahu
+      enjoys a rare reprieve: his far-right coalition partners, usually poised to threaten
+      his survival, are effectively disarmed during the recess. This political breathing
+      space coincides with a diplomatic opening. Hamas has formally accepted a U.S.-brokered
+      proposal, advanced by envoy Steve Witkoff and mediated by Egypt and Qatar, for
+      a 60-day cessation of hostilities. The agreement promises large-scale humanitarian
+      aid and, most importantly, the lifting of the man-made famine in Gaza. At its
+      core lies a pragmatic exchange: ten of the twenty Israeli soldiers still held
+      in captivity could be released in the first phase. For Netanyahu, this is the
+      clearest chance in months to reduce domestic unrest and soften international outrage
+      over Israel’s actions, which stand accused of war crimes, crimes against humanity,
+      and the deliberate starvation of civilians. Yet the central question remains:
+      will Netanyahu seize this rare opening, or will he manoeuvre to sabotage it —
+      stalling until his coalition regains its leverage and then dragging Israel back
+      into war? Is this ceasefire a genuine step toward ending one of the bloodiest
+      chapters in Gaza’s history, or merely a tactical pause, a breathing space before
+      the cycle of destruction resumes? Hamas – not Netanyahu – Accepts the Witkoff
+      Proposal Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Israeli Chief of Staff Yael Zamir has presented a plan to
+      occupy Gaza aimed at eliminating Hamas and establishing a new authority, coinciding
+      with a diplomatic opening as Hamas agrees to a U.S.-brokered ceasefire proposal
+      that includes humanitarian aid and the potential release of Israeli soldiers.
+    paragraph_summary: Israeli Chief of Staff Yael Zamir has presented a plan to Defence
+      Minister Yisrael Katz aimed at occupying Gaza to eliminate Hamas and establish
+      a new governing authority. This development comes at a politically advantageous
+      time for Prime Minister Benjamin Netanyahu, as the Knesset is in recess until
+      late October 2025, temporarily reducing pressure from his far-right coalition
+      partners. Concurrently, Hamas has accepted a U.S.-brokered proposal for a 60-day
+      ceasefire, which includes humanitarian aid and the potential release of Israeli
+      soldiers held captive. This situation presents Netanyahu with an opportunity to
+      alleviate domestic and international criticism of Israel's actions, which have
+      been condemned as war crimes. However, uncertainty looms over whether he will
+      genuinely pursue peace or use the ceasefire as a tactical pause before resuming
+      conflict.
+    published: '2025-08-19T18:39:52+00:00'
+  - title: Toward or Away from Peace? Historic Echoes and Netanyahu’s Calculus — Accept,
+      Sabotage, or Stall
+    url: https://ejmagnier.com/2025/08/19/toward-or-away-from-peace-historic-echoes-and-netanyahus-calculus-accept-sabotage-or-stall/
+    text: 'Tweet By Elijah J. Magnier Israeli Chief of Staff Yael Zamir has finally
+      presented to Defence Minister Yisrael Katz the long-awaited plan to occupy Gaza
+      — a blueprint designed both to end Hamas militarily existence in Gaza and find
+      another authority to rule the Strip. The timing is critical. With the Knesset
+      adjourned from 4 August until 27 October 2025, Prime Minister Benjamin Netanyahu
+      enjoys a rare reprieve: his far-right coalition partners, usually poised to threaten
+      his survival, are effectively disarmed during the recess. This political breathing
+      space coincides with a diplomatic opening. Hamas has formally accepted a U.S.-brokered
+      proposal, advanced by envoy Steve Witkoff and mediated by Egypt and Qatar, for
+      a 60-day cessation of hostilities. The agreement promises large-scale humanitarian
+      aid and, most importantly, the lifting of the man-made famine in Gaza. At its
+      core lies a pragmatic exchange: ten of the twenty Israeli soldiers still held
+      in captivity could be released in the first phase. For Netanyahu, this is the
+      clearest chance in months to reduce domestic unrest and soften international outrage
+      over Israel’s actions, which stand accused of war crimes, crimes against humanity,
+      and the deliberate starvation of civilians. Yet the central question remains:
+      will Netanyahu seize this rare opening, or will he manoeuvre to sabotage it —
+      stalling until his coalition regains its leverage and then dragging Israel back
+      into war? Is this ceasefire a genuine step toward ending one of the bloodiest
+      chapters in Gaza’s history, or merely a tactical pause, a breathing space before
+      the cycle of destruction resumes? Hamas – not Netanyahu – Accepts the Witkoff
+      Proposal Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Israeli Chief of Staff Yael Zamir has presented a plan to
+      occupy Gaza aimed at eliminating Hamas and establishing a new authority, coinciding
+      with a diplomatic opening as Hamas agrees to a U.S.-brokered ceasefire proposal
+      that includes humanitarian aid and the potential release of Israeli soldiers.
+    paragraph_summary: Israeli Chief of Staff Yael Zamir has presented a plan to Defence
+      Minister Yisrael Katz aimed at occupying Gaza to eliminate Hamas and establish
+      a new governing authority. This development comes at a politically advantageous
+      time for Prime Minister Benjamin Netanyahu, as the Knesset is in recess until
+      late October 2025, temporarily reducing pressure from his far-right coalition
+      partners. Concurrently, Hamas has accepted a U.S.-brokered proposal for a 60-day
+      ceasefire, which includes humanitarian aid and the potential release of Israeli
+      soldiers held captive. This situation presents Netanyahu with an opportunity to
+      alleviate domestic and international criticism of Israel's actions, which have
+      been condemned as war crimes. However, uncertainty looms over whether he will
+      genuinely pursue peace or use the ceasefire as a tactical pause before resuming
+      conflict.
+    published: '2025-08-19T18:39:52+00:00'
+  - title: Vers ou loin de la paix ? Échos historiques et le calcul de Netanyahu — Accepter,
+      saboter ou temporiser
+    url: https://ejmagnier.com/2025/08/19/vers-ou-loin-de-la-paix-echos-historiques-et-le-calcul-de-netanyahu-accepter-saboter-ou-temporiser/
+    text: 'Tweet Par Elijah J. Magnier Le chef d’état-major israélien, Yael Zamir, a
+      finalement présenté au ministre de la Défense Yisrael Katz le plan tant attendu
+      pour occuper Gaza — une feuille de route conçue à la fois pour mettre fin à l’existence
+      militaire du Hamas dans l’enclave et pour trouver une nouvelle autorité chargée
+      de gouverner le territoire. Le calendrier est crucial. Avec la Knesset ajournée
+      du 4 août au 27 octobre 2025, le Premier ministre Benyamin Netanyahu bénéficie
+      d’un répit rare : ses partenaires de coalition d’extrême droite, habituellement
+      prêts à menacer sa survie politique, sont de facto désarmés pendant la trêve parlementaire.
+      Cet espace politique coïncide avec une ouverture diplomatique. Le Hamas a formellement
+      accepté une proposition négociée par les États-Unis, avancée par l’émissaire Steve
+      Witkoff et médiée par l’Égypte et le Qatar, pour une cessation des hostilités
+      de 60 jours. L’accord promet une aide humanitaire massive et, surtout, la levée
+      de la famine provoquée par l’homme à Gaza. En son cœur réside un échange pragmatique
+      : dix des vingt soldats israéliens encore retenus en captivité pourraient être
+      libérés lors de la première phase. Pour Netanyahu, c’est la plus claire opportunité
+      depuis des mois de réduire les troubles intérieurs et d’atténuer l’indignation
+      internationale face aux actions israéliennes, accusées de crimes de guerre, de
+      crimes contre l’humanité et de famine délibérément infligée aux civils. La question
+      centrale demeure : Netanyahu saisira-t-il cette ouverture rare, ou manœuvrera-t-il
+      pour la saboter — temporisant jusqu’à ce que sa coalition retrouve son levier
+      d’action, avant de replonger Israël dans la guerre ? Ce cessez-le-feu constitue-t-il
+      une étape réelle vers la fin d’un des chapitres les plus sanglants de l’histoire
+      de Gaza, ou bien seulement une pause tactique, un espace de respiration avant
+      la reprise du cycle de destruction ? Le Hamas – pas Netanyahu – accepte la proposition
+      Witkoff Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Le chef d'état-major israélien a présenté un plan pour occuper
+      Gaza visant à éliminer le Hamas et établir une nouvelle autorité, tandis qu'une
+      trêve parlementaire offre au Premier ministre Netanyahu un répit politique, coïncidant
+      avec un accord de cessation des hostilités de 60 jours négocié par les États-Unis.
+    paragraph_summary: Le chef d'état-major israélien, Yael Zamir, a présenté un plan
+      au ministre de la Défense Yisrael Katz pour occuper Gaza, visant à éradiquer la
+      présence militaire du Hamas et à établir une nouvelle autorité sur le territoire.
+      Ce plan arrive à un moment crucial, alors que le Premier ministre Benyamin Netanyahu
+      bénéficie d'un répit politique en raison de l'ajournement de la Knesset, ce qui
+      lui permet de naviguer dans une ouverture diplomatique. Le Hamas a accepté une
+      proposition de cessez-le-feu de 60 jours, négociée par les États-Unis et médiée
+      par l'Égypte et le Qatar, qui inclut une aide humanitaire et la libération potentielle
+      de soldats israéliens captifs. Cela représente une opportunité pour Netanyahu
+      de réduire les tensions internes et de répondre aux critiques internationales,
+      mais la question demeure de savoir s'il saisira cette chance ou choisira de retarder
+      toute avancée pour préserver sa coalition. Ce cessez-le-feu pourrait-il marquer
+      un tournant vers la paix ou n'est-il qu'une pause temporaire avant de nouvelles
+      hostilités ?
+    published: '2025-08-19T18:38:43+00:00'
+  - title: Vers ou loin de la paix ? Échos historiques et le calcul de Netanyahu — Accepter,
+      saboter ou temporiser
+    url: https://ejmagnier.com/2025/08/19/vers-ou-loin-de-la-paix-echos-historiques-et-le-calcul-de-netanyahu-accepter-saboter-ou-temporiser/
+    text: 'Tweet Par Elijah J. Magnier Le chef d’état-major israélien, Yael Zamir, a
+      finalement présenté au ministre de la Défense Yisrael Katz le plan tant attendu
+      pour occuper Gaza — une feuille de route conçue à la fois pour mettre fin à l’existence
+      militaire du Hamas dans l’enclave et pour trouver une nouvelle autorité chargée
+      de gouverner le territoire. Le calendrier est crucial. Avec la Knesset ajournée
+      du 4 août au 27 octobre 2025, le Premier ministre Benyamin Netanyahu bénéficie
+      d’un répit rare : ses partenaires de coalition d’extrême droite, habituellement
+      prêts à menacer sa survie politique, sont de facto désarmés pendant la trêve parlementaire.
+      Cet espace politique coïncide avec une ouverture diplomatique. Le Hamas a formellement
+      accepté une proposition négociée par les États-Unis, avancée par l’émissaire Steve
+      Witkoff et médiée par l’Égypte et le Qatar, pour une cessation des hostilités
+      de 60 jours. L’accord promet une aide humanitaire massive et, surtout, la levée
+      de la famine provoquée par l’homme à Gaza. En son cœur réside un échange pragmatique
+      : dix des vingt soldats israéliens encore retenus en captivité pourraient être
+      libérés lors de la première phase. Pour Netanyahu, c’est la plus claire opportunité
+      depuis des mois de réduire les troubles intérieurs et d’atténuer l’indignation
+      internationale face aux actions israéliennes, accusées de crimes de guerre, de
+      crimes contre l’humanité et de famine délibérément infligée aux civils. La question
+      centrale demeure : Netanyahu saisira-t-il cette ouverture rare, ou manœuvrera-t-il
+      pour la saboter — temporisant jusqu’à ce que sa coalition retrouve son levier
+      d’action, avant de replonger Israël dans la guerre ? Ce cessez-le-feu constitue-t-il
+      une étape réelle vers la fin d’un des chapitres les plus sanglants de l’histoire
+      de Gaza, ou bien seulement une pause tactique, un espace de respiration avant
+      la reprise du cycle de destruction ? Le Hamas – pas Netanyahu – accepte la proposition
+      Witkoff Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Le chef d'état-major israélien a présenté un plan pour occuper
+      Gaza visant à éliminer le Hamas et établir une nouvelle autorité, tandis qu'une
+      trêve parlementaire offre au Premier ministre Netanyahu un répit politique, coïncidant
+      avec un accord de cessation des hostilités de 60 jours négocié par les États-Unis.
+    paragraph_summary: Le chef d'état-major israélien, Yael Zamir, a présenté un plan
+      au ministre de la Défense Yisrael Katz pour occuper Gaza, visant à éradiquer la
+      présence militaire du Hamas et à établir une nouvelle autorité sur le territoire.
+      Ce plan arrive à un moment crucial, alors que le Premier ministre Benyamin Netanyahu
+      bénéficie d'un répit politique en raison de l'ajournement de la Knesset, ce qui
+      lui permet de naviguer dans une ouverture diplomatique. Le Hamas a accepté une
+      proposition de cessez-le-feu de 60 jours, négociée par les États-Unis et médiée
+      par l'Égypte et le Qatar, qui inclut une aide humanitaire et la libération potentielle
+      de soldats israéliens captifs. Cela représente une opportunité pour Netanyahu
+      de réduire les tensions internes et de répondre aux critiques internationales,
+      mais la question demeure de savoir s'il saisira cette chance ou choisira de retarder
+      toute avancée pour préserver sa coalition. Ce cessez-le-feu pourrait-il marquer
+      un tournant vers la paix ou n'est-il qu'une pause temporaire avant de nouvelles
+      hostilités ?
+    published: '2025-08-19T18:38:43+00:00'
+  - title: Auf dem Weg zum Frieden oder davon weg? Historische Echos und Netanjahus
+      Kalkül – akzeptieren, sabotieren oder hinhalten
+    url: https://ejmagnier.com/2025/08/19/auf-dem-weg-zum-frieden-oder-davon-weg-historische-echos-und-netanjahus-kalkul-akzeptieren-sabotieren-oder-hinhalten/
+    text: 'Tweet Von Elijah J. Magnier Der israelische Generalstabschef Yael Zamir hat
+      Verteidigungsminister Yisrael Katz endlich den lang erwarteten Plan zur Besetzung
+      des Gazastreifens vorgelegt – einen Entwurf, der sowohl die militärische Existenz
+      der Hamas im Gazastreifen beenden als auch eine andere Autorität für die Herrschaft
+      über den Gazastreifen finden soll. Der Zeitpunkt ist entscheidend. Da die Knesset
+      vom 4. August bis zum 27. Oktober 2025 vertagt ist, genießt Premierminister Benjamin
+      Netanjahu eine seltene Atempause: Seine rechtsextremen Koalitionspartner, die
+      normalerweise seine Existenz bedrohen, sind während der Parlamentspause praktisch
+      handlungsunfähig. Diese politische Verschnaufpause fällt mit einer diplomatischen
+      Öffnung zusammen. Die Hamas hat einen von den USA ausgehandelten Vorschlag, der
+      von Gesandtem Steve Witkoff vorgebracht und von Ägypten und Katar vermittelt wurde,
+      für eine 60-tägige Einstellung der Feindseligkeiten offiziell angenommen. Das
+      Abkommen verspricht umfangreiche humanitäre Hilfe und vor allem die Beendigung
+      der von Menschen verursachten Hungersnot im Gazastreifen. Im Kern geht es um einen
+      pragmatischen Austausch: Zehn der zwanzig noch in Gefangenschaft befindlichen
+      israelischen Soldaten könnten in der ersten Phase freigelassen werden. Für Netanjahu
+      ist dies die klarste Chance seit Monaten, die innenpolitischen Unruhen zu verringern
+      und die internationale Empörung über Israels Vorgehen zu mildern, dem Kriegsverbrechen,
+      Verbrechen gegen die Menschlichkeit und die absichtliche Aushungerung der Zivilbevölkerung
+      vorgeworfen werden. Die zentrale Frage bleibt jedoch: Wird Netanjahu diese seltene
+      Chance nutzen oder wird er sie sabotieren – indem er Zeit schindet, bis seine
+      Koalition wieder mehr Einfluss hat, und Israel dann zurück in den Krieg zieht?
+      Ist dieser Waffenstillstand ein echter Schritt zur Beendigung eines der blutigsten
+      Kapitel in der Geschichte Gazas oder nur eine taktische Pause, eine Atempause,
+      bevor der Kreislauf der Zerstörung wieder von vorne beginnt? Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Der israelische Generalstabschef Yael Zamir hat Verteidigungsminister
+      Yisrael Katz einen Plan zur Besetzung des Gazastreifens vorgelegt, um die militärische
+      Präsenz der Hamas zu beenden und eine neue Autorität zu etablieren, während Premierminister
+      Benjamin Netanjahu von einer politischen Atempause profitiert und die Hamas ein
+      von den USA vermitteltes Angebot zur Einstellung der Feindseligkeiten angenommen
+      hat.
+    paragraph_summary: Der israelische Generalstabschef Yael Zamir hat Verteidigungsminister
+      Yisrael Katz einen Plan zur Besetzung des Gazastreifens vorgelegt, der darauf
+      abzielt, die militärische Präsenz der Hamas zu beenden und eine neue Autorität
+      für das Gebiet zu finden. Diese Entwicklung kommt zu einem strategisch günstigen
+      Zeitpunkt, da die Knesset bis Oktober 2025 vertagt ist und Premierminister Benjamin
+      Netanjahu eine politische Atempause hat, während seine rechtsextremen Koalitionspartner
+      handlungsunfähig sind. Gleichzeitig hat die Hamas einen von den USA vermittelten
+      Vorschlag für eine 60-tägige Waffenruhe akzeptiert, der humanitäre Hilfe und die
+      Freilassung israelischer Soldaten verspricht. Dies könnte Netanjahu helfen, innenpolitische
+      Unruhen zu verringern und internationale Kritik zu mildern, doch bleibt unklar,
+      ob er diese Gelegenheit nutzen oder sie durch Verzögerung sabotieren wird, was
+      die Möglichkeit eines erneuten Konflikts birgt.
+    published: '2025-08-19T18:37:37+00:00'
+  - title: Auf dem Weg zum Frieden oder davon weg? Historische Echos und Netanjahus
+      Kalkül – akzeptieren, sabotieren oder hinhalten
+    url: https://ejmagnier.com/2025/08/19/auf-dem-weg-zum-frieden-oder-davon-weg-historische-echos-und-netanjahus-kalkul-akzeptieren-sabotieren-oder-hinhalten/
+    text: 'Tweet Von Elijah J. Magnier Der israelische Generalstabschef Yael Zamir hat
+      Verteidigungsminister Yisrael Katz endlich den lang erwarteten Plan zur Besetzung
+      des Gazastreifens vorgelegt – einen Entwurf, der sowohl die militärische Existenz
+      der Hamas im Gazastreifen beenden als auch eine andere Autorität für die Herrschaft
+      über den Gazastreifen finden soll. Der Zeitpunkt ist entscheidend. Da die Knesset
+      vom 4. August bis zum 27. Oktober 2025 vertagt ist, genießt Premierminister Benjamin
+      Netanjahu eine seltene Atempause: Seine rechtsextremen Koalitionspartner, die
+      normalerweise seine Existenz bedrohen, sind während der Parlamentspause praktisch
+      handlungsunfähig. Diese politische Verschnaufpause fällt mit einer diplomatischen
+      Öffnung zusammen. Die Hamas hat einen von den USA ausgehandelten Vorschlag, der
+      von Gesandtem Steve Witkoff vorgebracht und von Ägypten und Katar vermittelt wurde,
+      für eine 60-tägige Einstellung der Feindseligkeiten offiziell angenommen. Das
+      Abkommen verspricht umfangreiche humanitäre Hilfe und vor allem die Beendigung
+      der von Menschen verursachten Hungersnot im Gazastreifen. Im Kern geht es um einen
+      pragmatischen Austausch: Zehn der zwanzig noch in Gefangenschaft befindlichen
+      israelischen Soldaten könnten in der ersten Phase freigelassen werden. Für Netanjahu
+      ist dies die klarste Chance seit Monaten, die innenpolitischen Unruhen zu verringern
+      und die internationale Empörung über Israels Vorgehen zu mildern, dem Kriegsverbrechen,
+      Verbrechen gegen die Menschlichkeit und die absichtliche Aushungerung der Zivilbevölkerung
+      vorgeworfen werden. Die zentrale Frage bleibt jedoch: Wird Netanjahu diese seltene
+      Chance nutzen oder wird er sie sabotieren – indem er Zeit schindet, bis seine
+      Koalition wieder mehr Einfluss hat, und Israel dann zurück in den Krieg zieht?
+      Ist dieser Waffenstillstand ein echter Schritt zur Beendigung eines der blutigsten
+      Kapitel in der Geschichte Gazas oder nur eine taktische Pause, eine Atempause,
+      bevor der Kreislauf der Zerstörung wieder von vorne beginnt? Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Der israelische Generalstabschef Yael Zamir hat Verteidigungsminister
+      Yisrael Katz einen Plan zur Besetzung des Gazastreifens vorgelegt, um die militärische
+      Präsenz der Hamas zu beenden und eine neue Autorität zu etablieren, während Premierminister
+      Benjamin Netanjahu von einer politischen Atempause profitiert und die Hamas ein
+      von den USA vermitteltes Angebot zur Einstellung der Feindseligkeiten angenommen
+      hat.
+    paragraph_summary: Der israelische Generalstabschef Yael Zamir hat Verteidigungsminister
+      Yisrael Katz einen Plan zur Besetzung des Gazastreifens vorgelegt, der darauf
+      abzielt, die militärische Präsenz der Hamas zu beenden und eine neue Autorität
+      für das Gebiet zu finden. Diese Entwicklung kommt zu einem strategisch günstigen
+      Zeitpunkt, da die Knesset bis Oktober 2025 vertagt ist und Premierminister Benjamin
+      Netanjahu eine politische Atempause hat, während seine rechtsextremen Koalitionspartner
+      handlungsunfähig sind. Gleichzeitig hat die Hamas einen von den USA vermittelten
+      Vorschlag für eine 60-tägige Waffenruhe akzeptiert, der humanitäre Hilfe und die
+      Freilassung israelischer Soldaten verspricht. Dies könnte Netanjahu helfen, innenpolitische
+      Unruhen zu verringern und internationale Kritik zu mildern, doch bleibt unklar,
+      ob er diese Gelegenheit nutzen oder sie durch Verzögerung sabotieren wird, was
+      die Möglichkeit eines erneuten Konflikts birgt.
+    published: '2025-08-19T18:37:37+00:00'
+  - title: Op weg naar vrede of juist verder weg? Historische echo’s en Netanyahu’s
+      berekeningen — accepteren, saboteren of vertragen
+    url: https://ejmagnier.com/2025/08/19/op-weg-naar-vrede-of-juist-verder-weg-historische-echos-en-netanyahus-berekeningen-accepteren-saboteren-of-vertragen/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De Israëlische
+      stafchef Yael Zamir heeft eindelijk het langverwachte plan voor de bezetting van
+      Gaza aan minister van Defensie Yisrael Katz gepresenteerd — een blauwdruk die
+      zowel bedoeld is om een einde te maken aan het militaire bestaan van Hamas in
+      Gaza als om een andere autoriteit te vinden om de Gazastrook te besturen. De timing
+      is cruciaal. Nu de Knesset van 4 augustus tot 27 oktober 2025 met reces is, geniet
+      premier Benjamin Netanyahu een zeldzaam uitstel: zijn extreemrechtse coalitiepartners,
+      die gewoonlijk zijn voortbestaan bedreigen, zijn tijdens het reces feitelijk ontwapend.
+      Deze politieke adempauze valt samen met een diplomatieke opening. Hamas heeft
+      formeel ingestemd met een door de VS bemiddeld voorstel, dat door gezant Steve
+      Witkoff is ingediend en door Egypte en Qatar is bemiddeld, voor een 60 dagen durende
+      stopzetting van de vijandelijkheden. De overeenkomst belooft grootschalige humanitaire
+      hulp en, nog belangrijker, het opheffen van de door mensen veroorzaakte hongersnood
+      in Gaza. De kern ervan is een pragmatische ruil: tien van de twintig Israëlische
+      soldaten die nog steeds gevangen worden gehouden, zouden in de eerste fase kunnen
+      worden vrijgelaten. Voor Netanyahu is dit de duidelijkste kans in maanden om de
+      binnenlandse onrust te verminderen en de internationale verontwaardiging over
+      het optreden van Israël, dat wordt beschuldigd van oorlogsmisdaden, misdaden tegen
+      de menselijkheid en het opzettelijk uithongeren van burgers, te temperen. De centrale
+      vraag blijft echter: zal Netanyahu deze zeldzame kans grijpen, of zal hij manoeuvreren
+      om deze te saboteren – tijd rekken totdat zijn coalitie weer invloed heeft en
+      Israël vervolgens terug de oorlog in slepen? Is dit staakt-het-vuren een oprechte
+      stap naar het beëindigen van een van de bloedigste hoofdstukken in de geschiedenis
+      van Gaza, of slechts een tactische pauze, een adempauze voordat de cyclus van
+      vernietiging weer begint? Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israëlische stafchef Yael Zamir heeft een plan gepresenteerd
+      aan minister van Defensie Yisrael Katz om Hamas in Gaza te ontmantelen en een
+      nieuwe autoriteit voor de Gazastrook te vinden, terwijl de timing van dit voorstel
+      samenvalt met een diplomatiek initiatief voor een 60 dagen durende wapenstilstand,
+      goedgekeurd door Hamas en bemiddeld door de VS, Egypte en Qatar.
+    paragraph_summary: Israëlische stafchef Yael Zamir heeft een plan gepresenteerd
+      aan minister van Defensie Yisrael Katz om de militaire aanwezigheid van Hamas
+      in Gaza te beëindigen en een nieuwe autoriteit voor de Gazastrook te vinden. Deze
+      ontwikkeling komt op een cruciaal moment, aangezien premier Benjamin Netanyahu
+      tijdelijk politieke ruimte heeft door het reces van de Knesset, wat zijn extreemrechtse
+      coalitiepartners verzwakt. Tegelijkertijd heeft Hamas ingestemd met een door de
+      VS bemiddeld voorstel voor een 60 dagen durende wapenstilstand, wat humanitaire
+      hulp en de vrijlating van enkele Israëlische soldaten belooft. Dit biedt Netanyahu
+      een kans om binnenlandse onrust te verminderen en internationale kritiek op Israël's
+      acties te verlichten, maar de vraag blijft of hij deze kans zal benutten of zal
+      proberen de situatie te saboteren voor zijn eigen politieke gewin.
+    published: '2025-08-19T18:36:44+00:00'
+  - title: Op weg naar vrede of juist verder weg? Historische echo’s en Netanyahu’s
+      berekeningen — accepteren, saboteren of vertragen
+    url: https://ejmagnier.com/2025/08/19/op-weg-naar-vrede-of-juist-verder-weg-historische-echos-en-netanyahus-berekeningen-accepteren-saboteren-of-vertragen/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De Israëlische
+      stafchef Yael Zamir heeft eindelijk het langverwachte plan voor de bezetting van
+      Gaza aan minister van Defensie Yisrael Katz gepresenteerd — een blauwdruk die
+      zowel bedoeld is om een einde te maken aan het militaire bestaan van Hamas in
+      Gaza als om een andere autoriteit te vinden om de Gazastrook te besturen. De timing
+      is cruciaal. Nu de Knesset van 4 augustus tot 27 oktober 2025 met reces is, geniet
+      premier Benjamin Netanyahu een zeldzaam uitstel: zijn extreemrechtse coalitiepartners,
+      die gewoonlijk zijn voortbestaan bedreigen, zijn tijdens het reces feitelijk ontwapend.
+      Deze politieke adempauze valt samen met een diplomatieke opening. Hamas heeft
+      formeel ingestemd met een door de VS bemiddeld voorstel, dat door gezant Steve
+      Witkoff is ingediend en door Egypte en Qatar is bemiddeld, voor een 60 dagen durende
+      stopzetting van de vijandelijkheden. De overeenkomst belooft grootschalige humanitaire
+      hulp en, nog belangrijker, het opheffen van de door mensen veroorzaakte hongersnood
+      in Gaza. De kern ervan is een pragmatische ruil: tien van de twintig Israëlische
+      soldaten die nog steeds gevangen worden gehouden, zouden in de eerste fase kunnen
+      worden vrijgelaten. Voor Netanyahu is dit de duidelijkste kans in maanden om de
+      binnenlandse onrust te verminderen en de internationale verontwaardiging over
+      het optreden van Israël, dat wordt beschuldigd van oorlogsmisdaden, misdaden tegen
+      de menselijkheid en het opzettelijk uithongeren van burgers, te temperen. De centrale
+      vraag blijft echter: zal Netanyahu deze zeldzame kans grijpen, of zal hij manoeuvreren
+      om deze te saboteren – tijd rekken totdat zijn coalitie weer invloed heeft en
+      Israël vervolgens terug de oorlog in slepen? Is dit staakt-het-vuren een oprechte
+      stap naar het beëindigen van een van de bloedigste hoofdstukken in de geschiedenis
+      van Gaza, of slechts een tactische pauze, een adempauze voordat de cyclus van
+      vernietiging weer begint? Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israëlische stafchef Yael Zamir heeft een plan gepresenteerd
+      aan minister van Defensie Yisrael Katz om Hamas in Gaza te ontmantelen en een
+      nieuwe autoriteit voor de Gazastrook te vinden, terwijl de timing van dit voorstel
+      samenvalt met een diplomatiek initiatief voor een 60 dagen durende wapenstilstand,
+      goedgekeurd door Hamas en bemiddeld door de VS, Egypte en Qatar.
+    paragraph_summary: Israëlische stafchef Yael Zamir heeft een plan gepresenteerd
+      aan minister van Defensie Yisrael Katz om de militaire aanwezigheid van Hamas
+      in Gaza te beëindigen en een nieuwe autoriteit voor de Gazastrook te vinden. Deze
+      ontwikkeling komt op een cruciaal moment, aangezien premier Benjamin Netanyahu
+      tijdelijk politieke ruimte heeft door het reces van de Knesset, wat zijn extreemrechtse
+      coalitiepartners verzwakt. Tegelijkertijd heeft Hamas ingestemd met een door de
+      VS bemiddeld voorstel voor een 60 dagen durende wapenstilstand, wat humanitaire
+      hulp en de vrijlating van enkele Israëlische soldaten belooft. Dit biedt Netanyahu
+      een kans om binnenlandse onrust te verminderen en internationale kritiek op Israël's
+      acties te verlichten, maar de vraag blijft of hij deze kans zal benutten of zal
+      proberen de situatie te saboteren voor zijn eigen politieke gewin.
+    published: '2025-08-19T18:36:44+00:00'
+  - title: 'Groß-Israel, schwächere Armee: Netanjahus Mythos trifft auf die Realität.'
+    url: https://ejmagnier.com/2025/08/18/gros-israel-schwachere-armee-netanjahus-mythos-trifft-auf-die-realitat/
+    text: 'Tweet Von Elijah J. Magnier – In den letzten zwei Jahren hat Israel einen
+      kaltblütigen Krieg in Gaza geführt, ein Massaker, das von den höchsten Regierungskreisen
+      sanktioniert wurde und tiefere Narben für kommende Generationen hinterlassen soll.
+      Es steht auf einer Stufe mit der Nakba von 1948, als Massaker in palästinensischen
+      Städten und Dörfern den Weg für Massenvertreibungen ebneten. Heute ist der Plan
+      nicht weniger brutal: eine zweite Vertreibung der Palästinenser aus dem Gazastreifen,
+      diesmal unter den Trümmern ihrer eigenen zerstörten Städte. Israel hat bereits
+      mehr als 70 % des Gazastreifens erobert. Seine Streitkräfte sind nun weniger als
+      anderthalb Kilometer vom Zentrum der Altstadt von Gaza-Stadt entfernt und bereiten
+      einen Großangriff vor, um 750.000 Einwohner zu vertreiben. Doch inmitten dieser
+      unerbittlichen Zerstörung sieht sich Israel mit einer Wahrheit konfrontiert, die
+      es lange geleugnet hat: Militärische Überlegenheit ist nicht gleichbedeutend mit
+      politischem Sieg. Seit fast zwei Jahren wird Gaza unter unerbittlichen Bombardements
+      in Schutt und Asche gelegt. Mehr als eine Viertelmillion Palästinenser wurden
+      getötet oder verletzt, ganze Stadtteile ausgelöscht, Krankenhäuser und Schulen
+      zerstört. Und dennoch hält der Widerstand an. Die israelische Armee – einst als
+      unbesiegbare Streitmacht mythologisiert – hat es nicht geschafft, auch nur 360
+      Quadratkilometer des belagerten Gebiets zu unterwerfen oder ihre eigenen gefangenen
+      Soldaten zu befreien. Diese Demütigung kommt trotz beispielloser Unterstützung
+      durch die Vereinigten Staaten und Großbritannien, die Echtzeit-Informationen,
+      moderne Waffen und sogar Militärberater an die Seite der israelischen Einheiten
+      gestellt haben. Was als schnelle und entschlossene Offensive angepriesen wurde,
+      ist stattdessen zu einem zermürbenden Abnutzungskrieg geworden, der die Grenzen
+      der israelischen Macht offenbart hat. In Tel Aviv klammert sich Premierminister
+      Benjamin Netanjahu an sein Amt, indem er den Konflikt verlängert, gefangen zwischen
+      Washingtons Forderungen nach Deeskalation und den Forderungen seiner rechtsextremen
+      Partner nach totaler Vorherrschaft. Im Ausland beobachten die Verbündeten mit
+      Unbehagen, wie Israel sein militärisches Ansehen und sein moralisches Kapital
+      verspielt. Im Inland werden die Israelis mit einer Realität konfrontiert, die
+      sie sich nie hätten vorstellen können: Ihre Armee, die freie Hand hatte, hat dennoch
+      versagt. Dieser Misserfolg mag Netanjahu kurzfristig schützen, indem er von seiner
+      persönlichen Verantwortung ablenkt, aber er hat dauerhafte Folgen für den Ruf
+      der israelischen Militärmaschine. Jahrzehntelang beruhte ihre Aura der Überlegenheit
+      auf schnellen Luftangriffen und einseitigen Siegen. Doch wenn sie zu langwierigen
+      Bodenkämpfen gegen entschlossenen Widerstand gezwungen wird, sieht das Bild ganz
+      anders aus: Die Armee kam 2006 und 2024 im Libanon zum Stillstand, und heute kämpft
+      sie darum, nur wenige Kilometer in den Gazastreifen vorzudringen. Schlimmer noch,
+      sie hat es nicht geschafft, Jemen und Iran daran zu hindern, mit Raketen und Drohnen
+      tief in israelisches Gebiet einzudringen und Städte einer Zerstörung auszusetzen,
+      wie sie in der Geschichte des Staates noch nie gesehen wurde. Netanjahu mag sich
+      damit brüsten, den Nahen Osten durch seine endlosen Kriege neu zu gestalten, aber
+      die Realität sieht anders aus: Israel ist nicht in der Lage, einen vollständigen
+      Sieg zu erringen, selbst wenn die Vereinigten Staaten effektiv an seiner Seite
+      kämpfen. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Elijah J. Magnier warnt, dass Israel in den letzten zwei Jahren
+      einen brutalen Krieg in Gaza führt, der mit der Nakba von 1948 vergleichbar ist
+      und darauf abzielt, die Palästinenser erneut zu vertreiben, während das Land sich
+      der Realität bewusst wird, dass militärische Überlegenheit nicht zu einem politischen
+      Sieg führt.
+    paragraph_summary: In a recent tweet, Elijah J. Magnier highlights the ongoing brutal
+      conflict in Gaza, likening it to the Nakba of 1948, where mass killings and displacements
+      of Palestinians occurred. He asserts that Israel is executing a systematic plan
+      to forcibly displace Palestinians from Gaza, having already captured over 70%
+      of the territory and preparing for a major assault on Gaza City, which threatens
+      to uproot 750,000 residents. Despite relentless bombardments resulting in significant
+      casualties and destruction of infrastructure, Magnier argues that Israel's military
+      superiority has not translated into a political victory, as the resistance continues
+      to persist. He notes that the Israeli army, despite extensive support from the
+      U.S. and U.K., has struggled to fully control the besieged area or rescue its
+      captured soldiers, revealing the limitations of its power in what has become a
+      protracted war. Meanwhile, Prime Minister Benjamin Netanyahu clings to his position
+      by perpetuating the conflict.
+    published: '2025-08-18T14:01:29+00:00'
+  - title: 'Groß-Israel, schwächere Armee: Netanjahus Mythos trifft auf die Realität.'
+    url: https://ejmagnier.com/2025/08/18/gros-israel-schwachere-armee-netanjahus-mythos-trifft-auf-die-realitat/
+    text: 'Tweet Von Elijah J. Magnier – In den letzten zwei Jahren hat Israel einen
+      kaltblütigen Krieg in Gaza geführt, ein Massaker, das von den höchsten Regierungskreisen
+      sanktioniert wurde und tiefere Narben für kommende Generationen hinterlassen soll.
+      Es steht auf einer Stufe mit der Nakba von 1948, als Massaker in palästinensischen
+      Städten und Dörfern den Weg für Massenvertreibungen ebneten. Heute ist der Plan
+      nicht weniger brutal: eine zweite Vertreibung der Palästinenser aus dem Gazastreifen,
+      diesmal unter den Trümmern ihrer eigenen zerstörten Städte. Israel hat bereits
+      mehr als 70 % des Gazastreifens erobert. Seine Streitkräfte sind nun weniger als
+      anderthalb Kilometer vom Zentrum der Altstadt von Gaza-Stadt entfernt und bereiten
+      einen Großangriff vor, um 750.000 Einwohner zu vertreiben. Doch inmitten dieser
+      unerbittlichen Zerstörung sieht sich Israel mit einer Wahrheit konfrontiert, die
+      es lange geleugnet hat: Militärische Überlegenheit ist nicht gleichbedeutend mit
+      politischem Sieg. Seit fast zwei Jahren wird Gaza unter unerbittlichen Bombardements
+      in Schutt und Asche gelegt. Mehr als eine Viertelmillion Palästinenser wurden
+      getötet oder verletzt, ganze Stadtteile ausgelöscht, Krankenhäuser und Schulen
+      zerstört. Und dennoch hält der Widerstand an. Die israelische Armee – einst als
+      unbesiegbare Streitmacht mythologisiert – hat es nicht geschafft, auch nur 360
+      Quadratkilometer des belagerten Gebiets zu unterwerfen oder ihre eigenen gefangenen
+      Soldaten zu befreien. Diese Demütigung kommt trotz beispielloser Unterstützung
+      durch die Vereinigten Staaten und Großbritannien, die Echtzeit-Informationen,
+      moderne Waffen und sogar Militärberater an die Seite der israelischen Einheiten
+      gestellt haben. Was als schnelle und entschlossene Offensive angepriesen wurde,
+      ist stattdessen zu einem zermürbenden Abnutzungskrieg geworden, der die Grenzen
+      der israelischen Macht offenbart hat. In Tel Aviv klammert sich Premierminister
+      Benjamin Netanjahu an sein Amt, indem er den Konflikt verlängert, gefangen zwischen
+      Washingtons Forderungen nach Deeskalation und den Forderungen seiner rechtsextremen
+      Partner nach totaler Vorherrschaft. Im Ausland beobachten die Verbündeten mit
+      Unbehagen, wie Israel sein militärisches Ansehen und sein moralisches Kapital
+      verspielt. Im Inland werden die Israelis mit einer Realität konfrontiert, die
+      sie sich nie hätten vorstellen können: Ihre Armee, die freie Hand hatte, hat dennoch
+      versagt. Dieser Misserfolg mag Netanjahu kurzfristig schützen, indem er von seiner
+      persönlichen Verantwortung ablenkt, aber er hat dauerhafte Folgen für den Ruf
+      der israelischen Militärmaschine. Jahrzehntelang beruhte ihre Aura der Überlegenheit
+      auf schnellen Luftangriffen und einseitigen Siegen. Doch wenn sie zu langwierigen
+      Bodenkämpfen gegen entschlossenen Widerstand gezwungen wird, sieht das Bild ganz
+      anders aus: Die Armee kam 2006 und 2024 im Libanon zum Stillstand, und heute kämpft
+      sie darum, nur wenige Kilometer in den Gazastreifen vorzudringen. Schlimmer noch,
+      sie hat es nicht geschafft, Jemen und Iran daran zu hindern, mit Raketen und Drohnen
+      tief in israelisches Gebiet einzudringen und Städte einer Zerstörung auszusetzen,
+      wie sie in der Geschichte des Staates noch nie gesehen wurde. Netanjahu mag sich
+      damit brüsten, den Nahen Osten durch seine endlosen Kriege neu zu gestalten, aber
+      die Realität sieht anders aus: Israel ist nicht in der Lage, einen vollständigen
+      Sieg zu erringen, selbst wenn die Vereinigten Staaten effektiv an seiner Seite
+      kämpfen. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Elijah J. Magnier warnt, dass Israel in den letzten zwei Jahren
+      einen brutalen Krieg in Gaza führt, der mit der Nakba von 1948 vergleichbar ist
+      und darauf abzielt, die Palästinenser erneut zu vertreiben, während das Land sich
+      der Realität bewusst wird, dass militärische Überlegenheit nicht zu einem politischen
+      Sieg führt.
+    paragraph_summary: In a recent tweet, Elijah J. Magnier highlights the ongoing brutal
+      conflict in Gaza, likening it to the Nakba of 1948, where mass killings and displacements
+      of Palestinians occurred. He asserts that Israel is executing a systematic plan
+      to forcibly displace Palestinians from Gaza, having already captured over 70%
+      of the territory and preparing for a major assault on Gaza City, which threatens
+      to uproot 750,000 residents. Despite relentless bombardments resulting in significant
+      casualties and destruction of infrastructure, Magnier argues that Israel's military
+      superiority has not translated into a political victory, as the resistance continues
+      to persist. He notes that the Israeli army, despite extensive support from the
+      U.S. and U.K., has struggled to fully control the besieged area or rescue its
+      captured soldiers, revealing the limitations of its power in what has become a
+      protracted war. Meanwhile, Prime Minister Benjamin Netanyahu clings to his position
+      by perpetuating the conflict.
+    published: '2025-08-18T14:01:29+00:00'
+  - title: 'Groter Israël, zwakker leger: Netanyahu’s mythe botst met de realiteit.'
+    url: https://ejmagnier.com/2025/08/18/groter-israel-zwakker-leger-netanyahus-mythe-botst-met-de-realiteit/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De afgelopen
+      twee jaar heeft Israël een koelbloedige oorlog gevoerd in Gaza, een bloedbad dat
+      door de hoogste regeringskringen is goedgekeurd en bedoeld is om diepe littekens
+      achter te laten voor de komende generaties. Het staat op één lijn met de Nakba
+      van 1948, toen bloedbaden in Palestijnse steden en dorpen de weg vrijmaakten voor
+      massale verdrijving. Vandaag is het plan niet minder wreed: een tweede verdrijving
+      van Palestijnen uit Gaza afdwingen, ditmaal onder het puin van hun eigen verwoeste
+      steden. Israël heeft al meer dan 70% van de Gazastrook in handen. Zijn troepen
+      zijn nu minder dan anderhalve kilometer van het centrum van de oude stad Gaza
+      verzameld en bereiden een grootschalige aanval voor om 750.000 inwoners te verdrijven.
+      Maar temidden van deze meedogenloze verwoesting wordt Israël geconfronteerd met
+      een waarheid die het lang heeft ontkend: militaire superioriteit staat niet gelijk
+      aan politieke overwinning. Bijna twee jaar lang is Gaza door onophoudelijke bombardementen
+      tot een ruïne verwoest. Minder dan een kwart miljoen Palestijnen zijn gedood of
+      gewond geraakt, hele wijken zijn van de kaart geveegd, ziekenhuizen en scholen
+      zijn verwoest. En toch houdt het verzet stand. Het Israëlische leger – ooit mythisch
+      als een onoverwinnelijke strijdmacht – is er niet in geslaagd om zelfs maar 360
+      vierkante kilometer belegerd gebied te onderwerpen of zijn eigen gevangen genomen
+      soldaten te redden. Deze vernedering komt ondanks ongekende steun van de Verenigde
+      Staten en Groot-Brittannië, die realtime inlichtingen, geavanceerde wapens en
+      zelfs militaire adviseurs hebben ingezet naast Israëlische eenheden. Wat werd
+      aangekondigd als een snelle en beslissende campagne is in plaats daarvan een slopende
+      uitputtingsoorlog geworden die de grenzen van de Israëlische macht blootlegt.
+      In Tel Aviv houdt premier Benjamin Netanyahu zich vast aan zijn ambt door het
+      conflict te verlengen, gevangen tussen de oproepen van Washington tot de-escalatie
+      en de eis van zijn extreemrechtse partners tot totale overheersing. In het buitenland
+      kijken bondgenoten met onbehagen toe hoe Israël zijn militaire prestige en moreel
+      kapitaal verspilt. Thuis worden de Israëli’s zich bewust van een realiteit die
+      ze zich nooit hadden kunnen voorstellen: hun leger, dat vrij spel kreeg, heeft
+      gefaald. Op korte termijn kan dit falen Netanyahu beschermen door de aandacht
+      af te leiden van zijn persoonlijke verantwoordelijkheid, maar het heeft blijvende
+      gevolgen voor de reputatie van het Israëlische leger. Decennialang berustte zijn
+      aura van superioriteit op snelle luchtcampagnes en eenzijdige overwinningen. Maar
+      wanneer het leger wordt gedwongen tot langdurige grondgevechten tegen vastberaden
+      verzet, is het patroon heel anders: het leger kwam in 2006 en 2024 tot stilstand
+      in Libanon en vandaag de dag heeft het moeite om slechts enkele kilometers op
+      te rukken in Gaza. Erger nog, het is er niet in geslaagd te voorkomen dat Jemen
+      en Iran met raketten en drones diep in Israëlisch grondgebied hebben toegeslagen,
+      waardoor steden zijn blootgesteld aan een verwoesting die zijn weerga niet kent
+      in de geschiedenis van de staat. Netanyahu mag dan opscheppen dat hij het Midden-Oosten
+      heeft hervormd door zijn eindeloze oorlogen, maar de realiteit vertelt een ander
+      verhaal: Israël is niet in staat een totale overwinning te behalen, zelfs niet
+      wanneer de Verenigde Staten effectief aan zijn zijde vechten. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Elijah J. Magnier's article, translated by Francis J., discusses
+      Israel's brutal military campaign in Gaza over the past two years, likening it
+      to the Nakba of 1948, and highlights the impending forced displacement of Palestinians
+      amidst widespread destruction, while emphasizing that military dominance does
+      not guarantee political victory.
+    paragraph_summary: In the past two years, Israel has conducted a brutal war in Gaza,
+      aiming to leave lasting scars reminiscent of the 1948 Nakba, which led to the
+      mass displacement of Palestinians. Currently, Israel controls over 70% of the
+      Gaza Strip and is preparing for a large-scale assault to displace 750,000 residents
+      from the ruins of their cities. Despite the relentless bombardment that has devastated
+      Gaza, resulting in significant casualties and destruction of infrastructure, Palestinian
+      resistance persists. The Israeli military, once viewed as invincible, has struggled
+      to conquer even a small portion of the besieged territory or rescue its captured
+      soldiers, revealing the limits of its power despite substantial support from the
+      U.S. and U.K. The conflict has turned into a protracted war of attrition, complicating
+      Prime Minister Benjamin Netanyahu's efforts to maintain his position amid growing
+      calls for resolution.
+    published: '2025-08-18T13:25:12+00:00'
+  - title: 'Groter Israël, zwakker leger: Netanyahu’s mythe botst met de realiteit.'
+    url: https://ejmagnier.com/2025/08/18/groter-israel-zwakker-leger-netanyahus-mythe-botst-met-de-realiteit/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De afgelopen
+      twee jaar heeft Israël een koelbloedige oorlog gevoerd in Gaza, een bloedbad dat
+      door de hoogste regeringskringen is goedgekeurd en bedoeld is om diepe littekens
+      achter te laten voor de komende generaties. Het staat op één lijn met de Nakba
+      van 1948, toen bloedbaden in Palestijnse steden en dorpen de weg vrijmaakten voor
+      massale verdrijving. Vandaag is het plan niet minder wreed: een tweede verdrijving
+      van Palestijnen uit Gaza afdwingen, ditmaal onder het puin van hun eigen verwoeste
+      steden. Israël heeft al meer dan 70% van de Gazastrook in handen. Zijn troepen
+      zijn nu minder dan anderhalve kilometer van het centrum van de oude stad Gaza
+      verzameld en bereiden een grootschalige aanval voor om 750.000 inwoners te verdrijven.
+      Maar temidden van deze meedogenloze verwoesting wordt Israël geconfronteerd met
+      een waarheid die het lang heeft ontkend: militaire superioriteit staat niet gelijk
+      aan politieke overwinning. Bijna twee jaar lang is Gaza door onophoudelijke bombardementen
+      tot een ruïne verwoest. Minder dan een kwart miljoen Palestijnen zijn gedood of
+      gewond geraakt, hele wijken zijn van de kaart geveegd, ziekenhuizen en scholen
+      zijn verwoest. En toch houdt het verzet stand. Het Israëlische leger – ooit mythisch
+      als een onoverwinnelijke strijdmacht – is er niet in geslaagd om zelfs maar 360
+      vierkante kilometer belegerd gebied te onderwerpen of zijn eigen gevangen genomen
+      soldaten te redden. Deze vernedering komt ondanks ongekende steun van de Verenigde
+      Staten en Groot-Brittannië, die realtime inlichtingen, geavanceerde wapens en
+      zelfs militaire adviseurs hebben ingezet naast Israëlische eenheden. Wat werd
+      aangekondigd als een snelle en beslissende campagne is in plaats daarvan een slopende
+      uitputtingsoorlog geworden die de grenzen van de Israëlische macht blootlegt.
+      In Tel Aviv houdt premier Benjamin Netanyahu zich vast aan zijn ambt door het
+      conflict te verlengen, gevangen tussen de oproepen van Washington tot de-escalatie
+      en de eis van zijn extreemrechtse partners tot totale overheersing. In het buitenland
+      kijken bondgenoten met onbehagen toe hoe Israël zijn militaire prestige en moreel
+      kapitaal verspilt. Thuis worden de Israëli’s zich bewust van een realiteit die
+      ze zich nooit hadden kunnen voorstellen: hun leger, dat vrij spel kreeg, heeft
+      gefaald. Op korte termijn kan dit falen Netanyahu beschermen door de aandacht
+      af te leiden van zijn persoonlijke verantwoordelijkheid, maar het heeft blijvende
+      gevolgen voor de reputatie van het Israëlische leger. Decennialang berustte zijn
+      aura van superioriteit op snelle luchtcampagnes en eenzijdige overwinningen. Maar
+      wanneer het leger wordt gedwongen tot langdurige grondgevechten tegen vastberaden
+      verzet, is het patroon heel anders: het leger kwam in 2006 en 2024 tot stilstand
+      in Libanon en vandaag de dag heeft het moeite om slechts enkele kilometers op
+      te rukken in Gaza. Erger nog, het is er niet in geslaagd te voorkomen dat Jemen
+      en Iran met raketten en drones diep in Israëlisch grondgebied hebben toegeslagen,
+      waardoor steden zijn blootgesteld aan een verwoesting die zijn weerga niet kent
+      in de geschiedenis van de staat. Netanyahu mag dan opscheppen dat hij het Midden-Oosten
+      heeft hervormd door zijn eindeloze oorlogen, maar de realiteit vertelt een ander
+      verhaal: Israël is niet in staat een totale overwinning te behalen, zelfs niet
+      wanneer de Verenigde Staten effectief aan zijn zijde vechten. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Elijah J. Magnier's article, translated by Francis J., discusses
+      Israel's brutal military campaign in Gaza over the past two years, likening it
+      to the Nakba of 1948, and highlights the impending forced displacement of Palestinians
+      amidst widespread destruction, while emphasizing that military dominance does
+      not guarantee political victory.
+    paragraph_summary: In the past two years, Israel has conducted a brutal war in Gaza,
+      aiming to leave lasting scars reminiscent of the 1948 Nakba, which led to the
+      mass displacement of Palestinians. Currently, Israel controls over 70% of the
+      Gaza Strip and is preparing for a large-scale assault to displace 750,000 residents
+      from the ruins of their cities. Despite the relentless bombardment that has devastated
+      Gaza, resulting in significant casualties and destruction of infrastructure, Palestinian
+      resistance persists. The Israeli military, once viewed as invincible, has struggled
+      to conquer even a small portion of the besieged territory or rescue its captured
+      soldiers, revealing the limits of its power despite substantial support from the
+      U.S. and U.K. The conflict has turned into a protracted war of attrition, complicating
+      Prime Minister Benjamin Netanyahu's efforts to maintain his position amid growing
+      calls for resolution.
+    published: '2025-08-18T13:25:12+00:00'
+  - title: 'Du Grand Israël à l’armée affaiblie : la chute d’un mythe'
+    url: https://ejmagnier.com/2025/08/17/du-grand-israel-a-larmee-affaiblie-la-chute-dun-mythe/
+    text: 'Tweet Par Elijah J. Magnier – Depuis deux ans, Israël mène une guerre froide
+      et sanglante à Gaza, un massacre décidé au plus haut niveau de l’État, conçu pour
+      marquer les générations comme une cicatrice indélébile. Cette opération s’inscrit
+      dans la continuité de la Nakba de 1948, lorsque les massacres dans plusieurs villes
+      et villages palestiniens avaient ouvert la voie à l’expulsion massive. Aujourd’hui,
+      le plan n’est pas moins brutal : provoquer un second déplacement des Palestiniens
+      de Gaza, cette fois sous les décombres de leurs propres cités détruites. Israël
+      occupe déjà plus de 70 % de la bande de Gaza. Son armée est massée à moins d’un
+      kilomètre et demi du cœur de la vieille ville de Gaza, préparant une offensive
+      totale destinée à expulser 750 000 habitants. Pourtant, au milieu de cette destruction
+      méthodique, Israël est confronté à une vérité qu’il a longtemps niée : la supériorité
+      militaire ne garantit pas la victoire politique. Depuis près de deux ans, Gaza
+      a été réduite en ruines sous des bombardements incessants. Moins d’un quart de
+      million de Palestiniens ont été tués ou blessés, des quartiers entiers rayés de
+      la carte, des hôpitaux et des écoles anéantis. Et malgré tout, la résistance tient.
+      L’armée israélienne — jadis mythifiée comme une force invincible — n’a pas réussi
+      à soumettre 360 km² de territoire assiégé, ni à libérer ses propres soldats captifs.
+      Cette humiliation survient malgré le soutien sans précédent des États-Unis et
+      du Royaume-Uni, qui ont fourni du renseignement en temps réel, des armes de pointe
+      et même des conseillers militaires intégrés aux unités israéliennes. Ce qui devait
+      être une campagne rapide et décisive est devenu une guerre d’usure qui a mis à
+      nu les limites de la puissance israélienne. À Tel-Aviv, le Premier ministre Benyamin
+      Netanyahu s’accroche au pouvoir en prolongeant le conflit, pris entre les appels
+      de Washington à la désescalade et l’exigence de domination totale de ses partenaires
+      d’extrême droite. À l’étranger, les alliés observent avec malaise Israël dilapider
+      son prestige militaire et son capital moral. Chez eux, les Israéliens découvrent
+      une réalité qu’ils n’auraient jamais imaginée : leur armée, laissée libre de commettre
+      tous les crimes sans contrainte, a malgré tout échoué. Cet échec peut protéger
+      temporairement Netanyahu en détournant l’attention de sa responsabilité personnelle,
+      mais il entraîne des conséquences durables pour la réputation de la machine militaire
+      israélienne. Pendant des décennies, son aura de suprématie reposait sur des campagnes
+      aériennes rapides et des victoires déséquilibrées. Mais face à des résistances
+      enracinées, la dynamique change : l’armée avait déjà échoué à imposer sa volonté
+      au Liban en 2006 et en 2024 ; aujourd’hui, elle peine à progresser de quelques
+      kilomètres dans Gaza. Plus grave encore, Israël n’a pas réussi à empêcher le Yémen
+      et l’Iran de frapper son territoire en profondeur avec missiles et drones, exposant
+      ses villes à un niveau de destruction inédit dans son histoire. Netanyahu peut
+      se vanter de remodeler le Moyen-Orient par ses guerres sans fin, mais la réalité
+      est inverse : une armée humiliée, une dissuasion brisée, des ennemis renforcés
+      — et Israël incapable de vaincre même avec les États-Unis combattant à ses côtés.
+      Le vœu de Trump, le piège de Netanyahu Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'article d'Elijah J. Magnier décrit la guerre froide et violente
+      menée par Israël à Gaza depuis deux ans, visant à provoquer un déplacement massif
+      des Palestiniens et à marquer les générations, tout en soulignant que la supériorité
+      militaire d'Israël ne garantit pas une victoire politique.
+    paragraph_summary: L'article d'Elijah J. Magnier décrit la guerre froide et violente
+      qu'Israël mène à Gaza depuis deux ans, qualifiant cette opération de massacre
+      planifié visant à marquer les générations, en rappelant la Nakba de 1948. Israël
+      cherche à provoquer un nouveau déplacement des Palestiniens, alors que son armée
+      se prépare à une offensive pour expulser 750 000 habitants de Gaza, déjà occupée
+      à plus de 70 %. Malgré des bombardements incessants ayant causé des centaines
+      de milliers de morts et de blessés, la résistance palestinienne persiste, révélant
+      les limites de la puissance militaire israélienne, même avec le soutien des États-Unis
+      et du Royaume-Uni. Le Premier ministre israélien, Benyamin Netanyahu, se retrouve
+      dans une position délicate, tiraillé entre les pressions internationales pour
+      une désescalade et les exigences de ses alliés d'extrême droite pour une domination
+      totale.
+    published: '2025-08-17T18:12:48+00:00'
+  - title: 'Du Grand Israël à l’armée affaiblie : la chute d’un mythe'
+    url: https://ejmagnier.com/2025/08/17/du-grand-israel-a-larmee-affaiblie-la-chute-dun-mythe/
+    text: 'Tweet Par Elijah J. Magnier – Depuis deux ans, Israël mène une guerre froide
+      et sanglante à Gaza, un massacre décidé au plus haut niveau de l’État, conçu pour
+      marquer les générations comme une cicatrice indélébile. Cette opération s’inscrit
+      dans la continuité de la Nakba de 1948, lorsque les massacres dans plusieurs villes
+      et villages palestiniens avaient ouvert la voie à l’expulsion massive. Aujourd’hui,
+      le plan n’est pas moins brutal : provoquer un second déplacement des Palestiniens
+      de Gaza, cette fois sous les décombres de leurs propres cités détruites. Israël
+      occupe déjà plus de 70 % de la bande de Gaza. Son armée est massée à moins d’un
+      kilomètre et demi du cœur de la vieille ville de Gaza, préparant une offensive
+      totale destinée à expulser 750 000 habitants. Pourtant, au milieu de cette destruction
+      méthodique, Israël est confronté à une vérité qu’il a longtemps niée : la supériorité
+      militaire ne garantit pas la victoire politique. Depuis près de deux ans, Gaza
+      a été réduite en ruines sous des bombardements incessants. Moins d’un quart de
+      million de Palestiniens ont été tués ou blessés, des quartiers entiers rayés de
+      la carte, des hôpitaux et des écoles anéantis. Et malgré tout, la résistance tient.
+      L’armée israélienne — jadis mythifiée comme une force invincible — n’a pas réussi
+      à soumettre 360 km² de territoire assiégé, ni à libérer ses propres soldats captifs.
+      Cette humiliation survient malgré le soutien sans précédent des États-Unis et
+      du Royaume-Uni, qui ont fourni du renseignement en temps réel, des armes de pointe
+      et même des conseillers militaires intégrés aux unités israéliennes. Ce qui devait
+      être une campagne rapide et décisive est devenu une guerre d’usure qui a mis à
+      nu les limites de la puissance israélienne. À Tel-Aviv, le Premier ministre Benyamin
+      Netanyahu s’accroche au pouvoir en prolongeant le conflit, pris entre les appels
+      de Washington à la désescalade et l’exigence de domination totale de ses partenaires
+      d’extrême droite. À l’étranger, les alliés observent avec malaise Israël dilapider
+      son prestige militaire et son capital moral. Chez eux, les Israéliens découvrent
+      une réalité qu’ils n’auraient jamais imaginée : leur armée, laissée libre de commettre
+      tous les crimes sans contrainte, a malgré tout échoué. Cet échec peut protéger
+      temporairement Netanyahu en détournant l’attention de sa responsabilité personnelle,
+      mais il entraîne des conséquences durables pour la réputation de la machine militaire
+      israélienne. Pendant des décennies, son aura de suprématie reposait sur des campagnes
+      aériennes rapides et des victoires déséquilibrées. Mais face à des résistances
+      enracinées, la dynamique change : l’armée avait déjà échoué à imposer sa volonté
+      au Liban en 2006 et en 2024 ; aujourd’hui, elle peine à progresser de quelques
+      kilomètres dans Gaza. Plus grave encore, Israël n’a pas réussi à empêcher le Yémen
+      et l’Iran de frapper son territoire en profondeur avec missiles et drones, exposant
+      ses villes à un niveau de destruction inédit dans son histoire. Netanyahu peut
+      se vanter de remodeler le Moyen-Orient par ses guerres sans fin, mais la réalité
+      est inverse : une armée humiliée, une dissuasion brisée, des ennemis renforcés
+      — et Israël incapable de vaincre même avec les États-Unis combattant à ses côtés.
+      Le vœu de Trump, le piège de Netanyahu Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'article d'Elijah J. Magnier décrit la guerre froide et violente
+      menée par Israël à Gaza depuis deux ans, visant à provoquer un déplacement massif
+      des Palestiniens et à marquer les générations, tout en soulignant que la supériorité
+      militaire d'Israël ne garantit pas une victoire politique.
+    paragraph_summary: L'article d'Elijah J. Magnier décrit la guerre froide et violente
+      qu'Israël mène à Gaza depuis deux ans, qualifiant cette opération de massacre
+      planifié visant à marquer les générations, en rappelant la Nakba de 1948. Israël
+      cherche à provoquer un nouveau déplacement des Palestiniens, alors que son armée
+      se prépare à une offensive pour expulser 750 000 habitants de Gaza, déjà occupée
+      à plus de 70 %. Malgré des bombardements incessants ayant causé des centaines
+      de milliers de morts et de blessés, la résistance palestinienne persiste, révélant
+      les limites de la puissance militaire israélienne, même avec le soutien des États-Unis
+      et du Royaume-Uni. Le Premier ministre israélien, Benyamin Netanyahu, se retrouve
+      dans une position délicate, tiraillé entre les pressions internationales pour
+      une désescalade et les exigences de ses alliés d'extrême droite pour une domination
+      totale.
+    published: '2025-08-17T18:12:48+00:00'
+  - title: 'Greater Israel, Weaker Army: Netanyahu’s Myth Meets Reality.'
+    url: https://ejmagnier.com/2025/08/17/greater-israel-weaker-army-netanyahus-myth-meets-reality/
+    text: 'Tweet By Elijah J. Magnier – In the last two years, Israel has waged a cold-blooded
+      war in Gaza, a massacre sanctioned at the highest levels of government, designed
+      to leave deep scars for generations to come. It stands on par with the 1948 Nakba,
+      when massacres in Palestinian towns and villages paved the way for mass expulsion.
+      Today, the plan is no less brutal: to force a second displacement of Palestinians
+      from Gaza, this time under the rubble of their own destroyed cities. Israel has
+      already seized more than 70% of the Strip. Its forces are now massed less than
+      a kilometre and a half from the heart of old Gaza City, preparing a full-scale
+      assault aimed at driving out 750,000 inhabitants. Yet amid this relentless destruction,
+      Israel is confronting a truth it has long denied: military superiority does not
+      equal political victory. For nearly two years, Gaza has been reduced to ruins
+      under unrelenting bombardment. Less than a quarter of a million Palestinians have
+      been killed or wounded, entire districts erased, hospitals and schools obliterated.
+      And still, the resistance endures. The Israeli army — once mythologised as an
+      invincible force — has failed to subdue even 360 square kilometres of besieged
+      land or rescue its own soldiers held captive. This humiliation comes despite unprecedented
+      support from the United States and Britain, who have poured in real-time intelligence,
+      advanced weaponry, and even embedded military advisers alongside Israeli units.
+      What was trumpeted as a swift and decisive campaign has instead become a grinding
+      war of attrition that has laid bare the limits of Israeli power. In Tel Aviv,
+      Prime Minister Benjamin Netanyahu clings to office by prolonging the conflict,
+      caught between Washington’s calls for de-escalation and his far-right partners’
+      demand for total domination. Abroad, allies look on with unease as Israel squanders
+      its military prestige and moral capital. At home, Israelis are waking up to a
+      reality they never imagined: their army, given licence to act without restraint,
+      has still failed. This failure may shield Netanyahu in the short term by distracting
+      from his personal responsibility, but it carries lasting consequences for the
+      reputation of Israel’s military machine. For decades, its aura of supremacy rested
+      on swift aerial campaigns and lopsided victories. Yet when forced into prolonged
+      ground battles against determined resistance, the pattern is very different: the
+      army stalled in Lebanon in 2006 and 2024, and today it struggles to advance only
+      a few kilometres inside Gaza. Worse still, it has failed to prevent Yemen and
+      Iran from striking deep into Israeli territory with missiles and drones, exposing
+      cities to a scale of destruction unseen in the state’s history. Netanyahu may
+      boast of reshaping the Middle East through his endless wars, but the reality tells
+      another story: Israel unable to achieve a total victory even when the United States
+      is effectively fighting at its side. Trump’s wish, Netanyahu’s trap Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Elijah J. Magnier's tweet asserts that Israel's recent military
+      actions in Gaza represent a brutal campaign akin to the 1948 Nakba, aimed at displacing
+      a significant portion of the population while highlighting that military dominance
+      does not guarantee political success.
+    paragraph_summary: In a recent tweet, Elijah J. Magnier highlights the ongoing conflict
+      in Gaza, characterizing Israel's actions over the past two years as a calculated
+      and brutal campaign aimed at displacing Palestinians and inflicting lasting trauma,
+      akin to the 1948 Nakba. He notes that Israel has already captured over 70% of
+      Gaza and is poised for a significant assault on Gaza City, targeting the displacement
+      of 750,000 residents. Despite the extensive destruction and high civilian casualties,
+      the Palestinian resistance persists, challenging the Israeli military's perceived
+      invincibility. Magnier emphasizes that, despite substantial support from the U.S.
+      and Britain, Israel's military efforts have devolved into a protracted war of
+      attrition, revealing the limitations of its power. Prime Minister Netanyahu faces
+      pressure from both international allies and domestic far-right factions, as the
+      Israeli public grapples with the stark reality of their military's struggles.
+    published: '2025-08-17T18:05:41+00:00'
+  - title: 'Greater Israel, Weaker Army: Netanyahu’s Myth Meets Reality.'
+    url: https://ejmagnier.com/2025/08/17/greater-israel-weaker-army-netanyahus-myth-meets-reality/
+    text: 'Tweet By Elijah J. Magnier – In the last two years, Israel has waged a cold-blooded
+      war in Gaza, a massacre sanctioned at the highest levels of government, designed
+      to leave deep scars for generations to come. It stands on par with the 1948 Nakba,
+      when massacres in Palestinian towns and villages paved the way for mass expulsion.
+      Today, the plan is no less brutal: to force a second displacement of Palestinians
+      from Gaza, this time under the rubble of their own destroyed cities. Israel has
+      already seized more than 70% of the Strip. Its forces are now massed less than
+      a kilometre and a half from the heart of old Gaza City, preparing a full-scale
+      assault aimed at driving out 750,000 inhabitants. Yet amid this relentless destruction,
+      Israel is confronting a truth it has long denied: military superiority does not
+      equal political victory. For nearly two years, Gaza has been reduced to ruins
+      under unrelenting bombardment. Less than a quarter of a million Palestinians have
+      been killed or wounded, entire districts erased, hospitals and schools obliterated.
+      And still, the resistance endures. The Israeli army — once mythologised as an
+      invincible force — has failed to subdue even 360 square kilometres of besieged
+      land or rescue its own soldiers held captive. This humiliation comes despite unprecedented
+      support from the United States and Britain, who have poured in real-time intelligence,
+      advanced weaponry, and even embedded military advisers alongside Israeli units.
+      What was trumpeted as a swift and decisive campaign has instead become a grinding
+      war of attrition that has laid bare the limits of Israeli power. In Tel Aviv,
+      Prime Minister Benjamin Netanyahu clings to office by prolonging the conflict,
+      caught between Washington’s calls for de-escalation and his far-right partners’
+      demand for total domination. Abroad, allies look on with unease as Israel squanders
+      its military prestige and moral capital. At home, Israelis are waking up to a
+      reality they never imagined: their army, given licence to act without restraint,
+      has still failed. This failure may shield Netanyahu in the short term by distracting
+      from his personal responsibility, but it carries lasting consequences for the
+      reputation of Israel’s military machine. For decades, its aura of supremacy rested
+      on swift aerial campaigns and lopsided victories. Yet when forced into prolonged
+      ground battles against determined resistance, the pattern is very different: the
+      army stalled in Lebanon in 2006 and 2024, and today it struggles to advance only
+      a few kilometres inside Gaza. Worse still, it has failed to prevent Yemen and
+      Iran from striking deep into Israeli territory with missiles and drones, exposing
+      cities to a scale of destruction unseen in the state’s history. Netanyahu may
+      boast of reshaping the Middle East through his endless wars, but the reality tells
+      another story: Israel unable to achieve a total victory even when the United States
+      is effectively fighting at its side. Trump’s wish, Netanyahu’s trap Subscribe
+      Subscribe to get access Read more of this content when you subscribe today. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Elijah J. Magnier's tweet asserts that Israel's recent military
+      actions in Gaza represent a brutal campaign akin to the 1948 Nakba, aimed at displacing
+      a significant portion of the population while highlighting that military dominance
+      does not guarantee political success.
+    paragraph_summary: In a recent tweet, Elijah J. Magnier highlights the ongoing conflict
+      in Gaza, characterizing Israel's actions over the past two years as a calculated
+      and brutal campaign aimed at displacing Palestinians and inflicting lasting trauma,
+      akin to the 1948 Nakba. He notes that Israel has already captured over 70% of
+      Gaza and is poised for a significant assault on Gaza City, targeting the displacement
+      of 750,000 residents. Despite the extensive destruction and high civilian casualties,
+      the Palestinian resistance persists, challenging the Israeli military's perceived
+      invincibility. Magnier emphasizes that, despite substantial support from the U.S.
+      and Britain, Israel's military efforts have devolved into a protracted war of
+      attrition, revealing the limitations of its power. Prime Minister Netanyahu faces
+      pressure from both international allies and domestic far-right factions, as the
+      Israeli public grapples with the stark reality of their military's struggles.
+    published: '2025-08-17T18:05:41+00:00'
+  - title: 'Hezbollah’s Disarmament Timeline: An Impossible Plan Built on Asymmetry
+      3/3'
+    url: https://ejmagnier.com/2025/08/15/hezbollahs-disarmament-timeline-an-impossible-plan-built-on-asymmetry-3-3/
+    text: 'Tweet By Elijah J. Magnier – In the previous instalment, we examined the
+      U.S.–Israeli “Barrack Document” — a framework that demands Hezbollah’s dismantlement
+      before resolving border disputes, halting Israeli strikes, or committing to withdrawal.
+      In this final part, we turn to its operational arm: the so-called “120-day disarmament
+      roadmap.” Presented as a path to stability, it is in fact a strategic ambush.
+      Its sequencing front-loads Lebanon’s concessions, its conditions are unenforceable
+      against Israel, and its assumptions ignore the military realities on the ground.
+      Far from securing peace, this plan risks creating a security vacuum that could
+      push Lebanon toward internal conflict and renewed external aggression. The so-called
+      120-day disarmament roadmap presents itself as a path to stability, but is in
+      fact a framework of coercion, imbalance, and dangerous assumptions. Its sequencing
+      ensures that Lebanon dismantles its primary deterrent long before Israel is bound
+      to any enforceable commitments. Phase One (Days 0–15): Disarm First, Hope for
+      the Best Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: The "120-day disarmament roadmap" presented as a means to
+      achieve stability in Lebanon is criticized as a coercive strategy that disproportionately
+      demands Lebanese concessions while leaving Israel unaccountable, potentially leading
+      to increased internal conflict and external aggression.
+    paragraph_summary: In the final part of his analysis on the U.S.–Israeli "Barrack
+      Document," Elijah J. Magnier critiques the "120-day disarmament roadmap" presented
+      as a means to achieve stability in Lebanon. He argues that this plan is fundamentally
+      flawed, as it requires Lebanon to make significant concessions upfront, including
+      the dismantlement of Hezbollah, without ensuring any enforceable commitments from
+      Israel in return. The roadmap's structure creates an imbalance that could lead
+      to a security vacuum, potentially igniting internal conflict in Lebanon and inviting
+      renewed aggression from external forces. Rather than fostering peace, the plan
+      is seen as a strategic ambush that ignores the complex military realities on the
+      ground.
+    published: '2025-08-15T04:41:11+00:00'
+  - title: 'Hezbollah’s Disarmament Timeline: An Impossible Plan Built on Asymmetry
+      3/3'
+    url: https://ejmagnier.com/2025/08/15/hezbollahs-disarmament-timeline-an-impossible-plan-built-on-asymmetry-3-3/
+    text: 'Tweet By Elijah J. Magnier – In the previous instalment, we examined the
+      U.S.–Israeli “Barrack Document” — a framework that demands Hezbollah’s dismantlement
+      before resolving border disputes, halting Israeli strikes, or committing to withdrawal.
+      In this final part, we turn to its operational arm: the so-called “120-day disarmament
+      roadmap.” Presented as a path to stability, it is in fact a strategic ambush.
+      Its sequencing front-loads Lebanon’s concessions, its conditions are unenforceable
+      against Israel, and its assumptions ignore the military realities on the ground.
+      Far from securing peace, this plan risks creating a security vacuum that could
+      push Lebanon toward internal conflict and renewed external aggression. The so-called
+      120-day disarmament roadmap presents itself as a path to stability, but is in
+      fact a framework of coercion, imbalance, and dangerous assumptions. Its sequencing
+      ensures that Lebanon dismantles its primary deterrent long before Israel is bound
+      to any enforceable commitments. Phase One (Days 0–15): Disarm First, Hope for
+      the Best Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: The "120-day disarmament roadmap" presented as a means to
+      achieve stability in Lebanon is criticized as a coercive strategy that disproportionately
+      demands Lebanese concessions while leaving Israel unaccountable, potentially leading
+      to increased internal conflict and external aggression.
+    paragraph_summary: In the final part of his analysis on the U.S.–Israeli "Barrack
+      Document," Elijah J. Magnier critiques the "120-day disarmament roadmap" presented
+      as a means to achieve stability in Lebanon. He argues that this plan is fundamentally
+      flawed, as it requires Lebanon to make significant concessions upfront, including
+      the dismantlement of Hezbollah, without ensuring any enforceable commitments from
+      Israel in return. The roadmap's structure creates an imbalance that could lead
+      to a security vacuum, potentially igniting internal conflict in Lebanon and inviting
+      renewed aggression from external forces. Rather than fostering peace, the plan
+      is seen as a strategic ambush that ignores the complex military realities on the
+      ground.
+    published: '2025-08-15T04:41:11+00:00'
+  - title: 'Calendrier de désarmement du Hezbollah : un plan impossible fondé sur l’asymétrie
+      3/3'
+    url: https://ejmagnier.com/2025/08/15/calendrier-de-desarmement-du-hezbollah-un-plan-impossible-fonde-sur-lasymetrie-3-3/
+    text: 'Tweet Par Elijah J. Magnier – Dans le précédent volet, nous avons examiné
+      le « document Barrack » américano-israélien — un cadre qui exige le démantèlement
+      du Hezbollah avant de résoudre les différends frontaliers, de cesser les frappes
+      israéliennes ou de s’engager à un retrait. Dans cette dernière partie, nous nous
+      penchons sur son bras opérationnel : la fameuse « feuille de route du désarmement
+      en 120 jours ». Présentée comme un chemin vers la stabilité, il s’agit en réalité
+      d’un guet-apens stratégique. Sa séquence place en première ligne les concessions
+      libanaises, ses conditions sont inapplicables à Israël et ses hypothèses ignorent
+      les réalités militaires du terrain. Loin de garantir la paix, ce plan risque de
+      créer un vide sécuritaire susceptible de pousser le Liban vers un conflit interne
+      et une nouvelle agression extérieure. La feuille de route dite des 120 jours se
+      présente comme un plan de stabilité, mais constitue en réalité un cadre de coercition,
+      de déséquilibre et d’hypothèses dangereuses. Sa séquence garantit que le Liban
+      démantèle son principal moyen de dissuasion bien avant qu’Israël ne soit lié par
+      un quelconque engagement contraignant. Phase 1 (Jours 0–15) : désarmer d’abord,
+      espérer ensuite Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: L'article analyse la "feuille de route du désarmement en 120
+      jours", présentée comme un plan de stabilité, mais qui, selon l'auteur, est en
+      réalité un piège stratégique favorisant des concessions libanaises et risquant
+      de créer un vide sécuritaire menant à des conflits internes et des agressions
+      extérieures.
+    paragraph_summary: Elijah J. Magnier critiques the "120-day disarmament roadmap,"
+      which is part of the American-Israeli framework requiring Hezbollah's dismantlement
+      before addressing border disputes or halting Israeli strikes. He argues that this
+      plan, presented as a pathway to stability, is actually a strategic trap that prioritizes
+      Lebanese concessions while imposing unrealistic conditions on Israel. The roadmap
+      overlooks the military realities on the ground and risks creating a security vacuum
+      in Lebanon, potentially leading to internal conflict and external aggression.
+      Ultimately, it serves as a coercive framework that undermines Lebanon's deterrent
+      capabilities before Israel commits to any binding agreements.
+    published: '2025-08-15T04:38:29+00:00'
+  - title: 'Calendrier de désarmement du Hezbollah : un plan impossible fondé sur l’asymétrie
+      3/3'
+    url: https://ejmagnier.com/2025/08/15/calendrier-de-desarmement-du-hezbollah-un-plan-impossible-fonde-sur-lasymetrie-3-3/
+    text: 'Tweet Par Elijah J. Magnier – Dans le précédent volet, nous avons examiné
+      le « document Barrack » américano-israélien — un cadre qui exige le démantèlement
+      du Hezbollah avant de résoudre les différends frontaliers, de cesser les frappes
+      israéliennes ou de s’engager à un retrait. Dans cette dernière partie, nous nous
+      penchons sur son bras opérationnel : la fameuse « feuille de route du désarmement
+      en 120 jours ». Présentée comme un chemin vers la stabilité, il s’agit en réalité
+      d’un guet-apens stratégique. Sa séquence place en première ligne les concessions
+      libanaises, ses conditions sont inapplicables à Israël et ses hypothèses ignorent
+      les réalités militaires du terrain. Loin de garantir la paix, ce plan risque de
+      créer un vide sécuritaire susceptible de pousser le Liban vers un conflit interne
+      et une nouvelle agression extérieure. La feuille de route dite des 120 jours se
+      présente comme un plan de stabilité, mais constitue en réalité un cadre de coercition,
+      de déséquilibre et d’hypothèses dangereuses. Sa séquence garantit que le Liban
+      démantèle son principal moyen de dissuasion bien avant qu’Israël ne soit lié par
+      un quelconque engagement contraignant. Phase 1 (Jours 0–15) : désarmer d’abord,
+      espérer ensuite Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: L'article analyse la "feuille de route du désarmement en 120
+      jours", présentée comme un plan de stabilité, mais qui, selon l'auteur, est en
+      réalité un piège stratégique favorisant des concessions libanaises et risquant
+      de créer un vide sécuritaire menant à des conflits internes et des agressions
+      extérieures.
+    paragraph_summary: Elijah J. Magnier critiques the "120-day disarmament roadmap,"
+      which is part of the American-Israeli framework requiring Hezbollah's dismantlement
+      before addressing border disputes or halting Israeli strikes. He argues that this
+      plan, presented as a pathway to stability, is actually a strategic trap that prioritizes
+      Lebanese concessions while imposing unrealistic conditions on Israel. The roadmap
+      overlooks the military realities on the ground and risks creating a security vacuum
+      in Lebanon, potentially leading to internal conflict and external aggression.
+      Ultimately, it serves as a coercive framework that undermines Lebanon's deterrent
+      capabilities before Israel commits to any binding agreements.
+    published: '2025-08-15T04:38:29+00:00'
+  - title: 'Der Zeitplan der Hisbollah für die Entwaffnung: Ein unmöglicher Plan, der
+      auf Asymmetrie basiert 3/3'
+    url: https://ejmagnier.com/2025/08/15/der-zeitplan-der-hisbollah-fur-die-entwaffnung-ein-unmoglicher-plan-der-auf-asymmetrie-basiert-3-3/
+    text: 'Tweet Von Elijah J. Magnier – Im vorherigen Teil haben wir das „Barrack-Dokument“
+      der USA und Israels untersucht – ein Rahmenwerk, das die Auflösung der Hisbollah
+      fordert, bevor Grenzstreitigkeiten beigelegt, israelische Angriffe eingestellt
+      oder ein Rückzug zugesagt werden. Im letzten Teil wenden wir uns dem operativen
+      Arm dieses Plans zu: dem sogenannten „120-Tage-Plan zur Entwaffnung“. Dieser wird
+      als Weg zur Stabilität präsentiert, ist aber in Wirklichkeit eine strategische
+      Falle. Er sieht vor, dass der Libanon zunächst Zugeständnisse macht, während die
+      Bedingungen für Israel nicht durchsetzbar sind und die militärischen Realitäten
+      vor Ort ignoriert werden. Dieser Plan ist weit davon entfernt, Frieden zu sichern,
+      sondern birgt vielmehr die Gefahr, ein Sicherheitsvakuum zu schaffen, das den
+      Libanon in einen internen Konflikt und erneute Aggressionen von außen treiben
+      könnte. Der sogenannte 120-Tage-Plan zur Entwaffnung präsentiert sich als Weg
+      zur Stabilität, ist jedoch in Wirklichkeit ein Rahmenwerk aus Zwang, Ungleichgewicht
+      und gefährlichen Annahmen. Seine Abfolge stellt sicher, dass der Libanon seine
+      wichtigste Abschreckungsmaßnahme lange bevor Israel zu irgendwelchen durchsetzbaren
+      Verpflichtungen gebunden ist, aufgibt. Phase Eins (Tage 0–15): Erst entwaffnen,
+      dann auf das Beste hoffen Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Der sogenannte "120-Tage-Plan zur Entwaffnung" wird als strategische
+      Falle dargestellt, die den Libanon dazu zwingt, Zugeständnisse zu machen, während
+      Israel unhaltbare Bedingungen aufstellt, was letztlich ein Sicherheitsvakuum schaffen
+      und zu internen Konflikten sowie externen Aggressionen führen könnte.
+    paragraph_summary: In einem Tweet von Elijah J. Magnier wird der sogenannte "120-Tage-Plan
+      zur Entwaffnung" thematisiert, der als Teil eines US-israelischen Rahmens zur
+      Auflösung der Hisbollah betrachtet wird. Der Plan fordert, dass der Libanon Zugeständnisse
+      macht, während Israel keine durchsetzbaren Verpflichtungen eingeht, was die militärischen
+      Realitäten vor Ort ignoriert. Magnier argumentiert, dass dieser Plan, der als
+      Weg zur Stabilität präsentiert wird, in Wirklichkeit eine strategische Falle darstellt,
+      die ein Sicherheitsvakuum schaffen könnte und den Libanon in interne Konflikte
+      sowie externe Aggressionen treiben könnte. Die erste Phase des Plans sieht vor,
+      dass der Libanon zuerst entwaffnet wird, ohne dass auf eine positive Entwicklung
+      gehofft werden kann.
+    published: '2025-08-15T04:36:57+00:00'
+  - title: 'Der Zeitplan der Hisbollah für die Entwaffnung: Ein unmöglicher Plan, der
+      auf Asymmetrie basiert 3/3'
+    url: https://ejmagnier.com/2025/08/15/der-zeitplan-der-hisbollah-fur-die-entwaffnung-ein-unmoglicher-plan-der-auf-asymmetrie-basiert-3-3/
+    text: 'Tweet Von Elijah J. Magnier – Im vorherigen Teil haben wir das „Barrack-Dokument“
+      der USA und Israels untersucht – ein Rahmenwerk, das die Auflösung der Hisbollah
+      fordert, bevor Grenzstreitigkeiten beigelegt, israelische Angriffe eingestellt
+      oder ein Rückzug zugesagt werden. Im letzten Teil wenden wir uns dem operativen
+      Arm dieses Plans zu: dem sogenannten „120-Tage-Plan zur Entwaffnung“. Dieser wird
+      als Weg zur Stabilität präsentiert, ist aber in Wirklichkeit eine strategische
+      Falle. Er sieht vor, dass der Libanon zunächst Zugeständnisse macht, während die
+      Bedingungen für Israel nicht durchsetzbar sind und die militärischen Realitäten
+      vor Ort ignoriert werden. Dieser Plan ist weit davon entfernt, Frieden zu sichern,
+      sondern birgt vielmehr die Gefahr, ein Sicherheitsvakuum zu schaffen, das den
+      Libanon in einen internen Konflikt und erneute Aggressionen von außen treiben
+      könnte. Der sogenannte 120-Tage-Plan zur Entwaffnung präsentiert sich als Weg
+      zur Stabilität, ist jedoch in Wirklichkeit ein Rahmenwerk aus Zwang, Ungleichgewicht
+      und gefährlichen Annahmen. Seine Abfolge stellt sicher, dass der Libanon seine
+      wichtigste Abschreckungsmaßnahme lange bevor Israel zu irgendwelchen durchsetzbaren
+      Verpflichtungen gebunden ist, aufgibt. Phase Eins (Tage 0–15): Erst entwaffnen,
+      dann auf das Beste hoffen Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Der sogenannte "120-Tage-Plan zur Entwaffnung" wird als strategische
+      Falle dargestellt, die den Libanon dazu zwingt, Zugeständnisse zu machen, während
+      Israel unhaltbare Bedingungen aufstellt, was letztlich ein Sicherheitsvakuum schaffen
+      und zu internen Konflikten sowie externen Aggressionen führen könnte.
+    paragraph_summary: In einem Tweet von Elijah J. Magnier wird der sogenannte "120-Tage-Plan
+      zur Entwaffnung" thematisiert, der als Teil eines US-israelischen Rahmens zur
+      Auflösung der Hisbollah betrachtet wird. Der Plan fordert, dass der Libanon Zugeständnisse
+      macht, während Israel keine durchsetzbaren Verpflichtungen eingeht, was die militärischen
+      Realitäten vor Ort ignoriert. Magnier argumentiert, dass dieser Plan, der als
+      Weg zur Stabilität präsentiert wird, in Wirklichkeit eine strategische Falle darstellt,
+      die ein Sicherheitsvakuum schaffen könnte und den Libanon in interne Konflikte
+      sowie externe Aggressionen treiben könnte. Die erste Phase des Plans sieht vor,
+      dass der Libanon zuerst entwaffnet wird, ohne dass auf eine positive Entwicklung
+      gehofft werden kann.
+    published: '2025-08-15T04:36:57+00:00'
+  - title: 'Het tijdschema voor de ontwapening van Hezbollah: een onmogelijk plan gebaseerd
+      op asymmetrie 3/3'
+    url: https://ejmagnier.com/2025/08/15/het-tijdschema-voor-de-ontwapening-van-hezbollah-een-onmogelijk-plan-gebaseerd-op-asymmetrie-3-3/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. In het
+      vorige deel hebben we het Amerikaans-Israëlische “Barrack-document” onderzocht
+      – een kader dat de ontmanteling van Hezbollah eist voordat grensgeschillen worden
+      opgelost, Israëlische aanvallen worden stopgezet of tot terugtrekking wordt besloten.
+      In dit laatste deel kijken we naar de operationele tak ervan: de zogenaamde “120-dagen-ontwapeningsroutekaart”.
+      Deze wordt gepresenteerd als een weg naar stabiliteit, maar is in feite een strategische
+      hinderlaag. De volgorde van de maatregelen legt de concessies van Libanon op de
+      lange baan, de voorwaarden zijn onuitvoerbaar tegen Israël en de aannames negeren
+      de militaire realiteit ter plaatse. In plaats van vrede te waarborgen, dreigt
+      dit plan een veiligheidsvacuüm te creëren dat Libanon in een intern conflict en
+      hernieuwde externe agressie kan storten. De zogenaamde 120-dagen-ontwapeningsroutekaart
+      wordt gepresenteerd als een weg naar stabiliteit, maar is in feite een kader van
+      dwang, onevenwichtigheid en gevaarlijke aannames. De volgorde zorgt ervoor dat
+      Libanon zijn belangrijkste afschrikmiddel ontmantelt lang voordat Israël gebonden
+      is aan enige afdwingbare verplichtingen. Fase één (dag 0-15): eerst ontwapenen,
+      dan het beste hopen Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: De "120-dagen-ontwapeningsroutekaart" wordt gepresenteerd
+      als een plan voor stabiliteit, maar is in werkelijkheid een strategische hinderlaag
+      die Libanon kan blootstellen aan interne conflicten en externe agressie.
+    paragraph_summary: In het artikel van Elijah J. Magnier, vertaald door Francis J.,
+      wordt de zogenaamde "120-dagen-ontwapeningsroutekaart" besproken, die wordt gepresenteerd
+      als een plan voor stabiliteit in de regio, maar in werkelijkheid wordt gezien
+      als een strategische hinderlaag voor Libanon. Het document, dat voortkomt uit
+      de Amerikaanse en Israëlische samenwerking, eist de ontmanteling van Hezbollah
+      voordat er enige vooruitgang wordt geboekt in grensgeschillen of Israëlische aanvallen
+      worden gestopt. De volgorde van de maatregelen in het plan legt de nadruk op de
+      concessies van Libanon en negeert de militaire realiteit, wat kan leiden tot een
+      veiligheidsvacuüm en mogelijk interne conflicten en externe agressie voor Libanon.
+      Het plan wordt gekarakteriseerd door dwang, onevenwichtigheid en gevaarlijke aannames,
+      waarbij Libanon zijn afschrikmiddel moet ontmantelen zonder dat Israël enige bindende
+      verplichtingen aangaat.
+    published: '2025-08-15T04:35:18+00:00'
+  - title: 'Het tijdschema voor de ontwapening van Hezbollah: een onmogelijk plan gebaseerd
+      op asymmetrie 3/3'
+    url: https://ejmagnier.com/2025/08/15/het-tijdschema-voor-de-ontwapening-van-hezbollah-een-onmogelijk-plan-gebaseerd-op-asymmetrie-3-3/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. In het
+      vorige deel hebben we het Amerikaans-Israëlische “Barrack-document” onderzocht
+      – een kader dat de ontmanteling van Hezbollah eist voordat grensgeschillen worden
+      opgelost, Israëlische aanvallen worden stopgezet of tot terugtrekking wordt besloten.
+      In dit laatste deel kijken we naar de operationele tak ervan: de zogenaamde “120-dagen-ontwapeningsroutekaart”.
+      Deze wordt gepresenteerd als een weg naar stabiliteit, maar is in feite een strategische
+      hinderlaag. De volgorde van de maatregelen legt de concessies van Libanon op de
+      lange baan, de voorwaarden zijn onuitvoerbaar tegen Israël en de aannames negeren
+      de militaire realiteit ter plaatse. In plaats van vrede te waarborgen, dreigt
+      dit plan een veiligheidsvacuüm te creëren dat Libanon in een intern conflict en
+      hernieuwde externe agressie kan storten. De zogenaamde 120-dagen-ontwapeningsroutekaart
+      wordt gepresenteerd als een weg naar stabiliteit, maar is in feite een kader van
+      dwang, onevenwichtigheid en gevaarlijke aannames. De volgorde zorgt ervoor dat
+      Libanon zijn belangrijkste afschrikmiddel ontmantelt lang voordat Israël gebonden
+      is aan enige afdwingbare verplichtingen. Fase één (dag 0-15): eerst ontwapenen,
+      dan het beste hopen Subscribe Subscribe to get access Read more of this content
+      when you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: De "120-dagen-ontwapeningsroutekaart" wordt gepresenteerd
+      als een plan voor stabiliteit, maar is in werkelijkheid een strategische hinderlaag
+      die Libanon kan blootstellen aan interne conflicten en externe agressie.
+    paragraph_summary: In het artikel van Elijah J. Magnier, vertaald door Francis J.,
+      wordt de zogenaamde "120-dagen-ontwapeningsroutekaart" besproken, die wordt gepresenteerd
+      als een plan voor stabiliteit in de regio, maar in werkelijkheid wordt gezien
+      als een strategische hinderlaag voor Libanon. Het document, dat voortkomt uit
+      de Amerikaanse en Israëlische samenwerking, eist de ontmanteling van Hezbollah
+      voordat er enige vooruitgang wordt geboekt in grensgeschillen of Israëlische aanvallen
+      worden gestopt. De volgorde van de maatregelen in het plan legt de nadruk op de
+      concessies van Libanon en negeert de militaire realiteit, wat kan leiden tot een
+      veiligheidsvacuüm en mogelijk interne conflicten en externe agressie voor Libanon.
+      Het plan wordt gekarakteriseerd door dwang, onevenwichtigheid en gevaarlijke aannames,
+      waarbij Libanon zijn afschrikmiddel moet ontmantelen zonder dat Israël enige bindende
+      verplichtingen aangaat.
+    published: '2025-08-15T04:35:18+00:00'
+  - title: 'The US–Israeli Disarmament Plan: A “Take It or Leave It” Blueprint 2/3'
+    url: https://ejmagnier.com/2025/08/14/the-us-israeli-disarmament-plan-a-take-it-or-leave-it-blueprint-2-3/
+    text: 'Tweet By Elijah J. Magnier – In the first part of this series, we saw how
+      Lebanon’s leadership — under heavy foreign pressure — placed Hezbollah’s disarmament
+      above Israeli withdrawal and reconstruction, reversing national priorities and
+      exposing the selective way “sovereignty” is invoked. Now we turn to the centrepiece
+      of that pressure: the “Barrack Document.” More than a proposal, it is a rigid
+      “take it or leave it” blueprint for dismantling Lebanon’s primary deterrent under
+      the guise of peace. Its clauses are designed to strip the country’s defences before
+      securing a single binding concession from Israel, relying instead on vague promises,
+      shifting timelines, and conditions that tilt the balance entirely toward Tel Aviv’s
+      advantage. The Lebanese government — headed by President Joseph Aoun and Prime
+      Minister Nawaf Salam — has already discussed a US–Israeli–imposed document laying
+      out, step-by-step, how Lebanon must proceed toward Hezbollah’s disarmament. Presented
+      on a strict “take it or leave it” basis, the plan offers no room for amendment
+      or negotiation. Instead of rejecting this brazen affront to national sovereignty,
+      officials in Beirut treated it almost as a diplomatic achievement, publicising
+      its terms without protest. On the day of his election, in the short interval between
+      the first and second rounds of voting, Joseph Aoun met for less than an hour with
+      a representative of the Amal Movement and Hezbollah — dominant among Lebanon’s
+      Shia parties and parliamentary bloc. According to sources close to both sides,
+      Aoun pledged to first secure Israel’s withdrawal from all occupied Lebanese territories,
+      then oversee the reconstruction of everything destroyed by the Israeli war following
+      the 2024 ceasefire. Only after these priorities, he promised, would he convene
+      national leaders to decide whether Hezbollah’s arms were a national asset or liability.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: The article discusses how Lebanon's leadership, under foreign
+      pressure, is prioritizing Hezbollah's disarmament over national sovereignty and
+      security, as outlined in the "Barrack Document," which imposes a one-sided framework
+      favoring Israel without guaranteeing any concrete concessions in return.
+    paragraph_summary: In the second part of Elijah J. Magnier's series, the focus shifts
+      to the "Barrack Document," a stringent US-Israeli proposal aimed at disarming
+      Hezbollah under the pretense of peace, which Lebanon's leadership has prioritized
+      over Israeli withdrawal and national reconstruction. This document outlines a
+      step-by-step process for dismantling Lebanon's defenses without securing any concrete
+      concessions from Israel, relying instead on vague assurances that favor Tel Aviv.
+      Despite its implications for national sovereignty, Lebanese officials, including
+      President Joseph Aoun and Prime Minister Nawaf Salam, have treated the document
+      as a diplomatic achievement, discussing its terms publicly without objection.
+      Aoun has indicated a commitment to first securing Israel's withdrawal and overseeing
+      reconstruction before addressing the status of Hezbollah's arms, highlighting
+      a significant shift in national priorities under external pressure.
+    published: '2025-08-14T03:46:17+00:00'
+  - title: 'The US–Israeli Disarmament Plan: A “Take It or Leave It” Blueprint 2/3'
+    url: https://ejmagnier.com/2025/08/14/the-us-israeli-disarmament-plan-a-take-it-or-leave-it-blueprint-2-3/
+    text: 'Tweet By Elijah J. Magnier – In the first part of this series, we saw how
+      Lebanon’s leadership — under heavy foreign pressure — placed Hezbollah’s disarmament
+      above Israeli withdrawal and reconstruction, reversing national priorities and
+      exposing the selective way “sovereignty” is invoked. Now we turn to the centrepiece
+      of that pressure: the “Barrack Document.” More than a proposal, it is a rigid
+      “take it or leave it” blueprint for dismantling Lebanon’s primary deterrent under
+      the guise of peace. Its clauses are designed to strip the country’s defences before
+      securing a single binding concession from Israel, relying instead on vague promises,
+      shifting timelines, and conditions that tilt the balance entirely toward Tel Aviv’s
+      advantage. The Lebanese government — headed by President Joseph Aoun and Prime
+      Minister Nawaf Salam — has already discussed a US–Israeli–imposed document laying
+      out, step-by-step, how Lebanon must proceed toward Hezbollah’s disarmament. Presented
+      on a strict “take it or leave it” basis, the plan offers no room for amendment
+      or negotiation. Instead of rejecting this brazen affront to national sovereignty,
+      officials in Beirut treated it almost as a diplomatic achievement, publicising
+      its terms without protest. On the day of his election, in the short interval between
+      the first and second rounds of voting, Joseph Aoun met for less than an hour with
+      a representative of the Amal Movement and Hezbollah — dominant among Lebanon’s
+      Shia parties and parliamentary bloc. According to sources close to both sides,
+      Aoun pledged to first secure Israel’s withdrawal from all occupied Lebanese territories,
+      then oversee the reconstruction of everything destroyed by the Israeli war following
+      the 2024 ceasefire. Only after these priorities, he promised, would he convene
+      national leaders to decide whether Hezbollah’s arms were a national asset or liability.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: The article discusses how Lebanon's leadership, under foreign
+      pressure, is prioritizing Hezbollah's disarmament over national sovereignty and
+      security, as outlined in the "Barrack Document," which imposes a one-sided framework
+      favoring Israel without guaranteeing any concrete concessions in return.
+    paragraph_summary: In the second part of Elijah J. Magnier's series, the focus shifts
+      to the "Barrack Document," a stringent US-Israeli proposal aimed at disarming
+      Hezbollah under the pretense of peace, which Lebanon's leadership has prioritized
+      over Israeli withdrawal and national reconstruction. This document outlines a
+      step-by-step process for dismantling Lebanon's defenses without securing any concrete
+      concessions from Israel, relying instead on vague assurances that favor Tel Aviv.
+      Despite its implications for national sovereignty, Lebanese officials, including
+      President Joseph Aoun and Prime Minister Nawaf Salam, have treated the document
+      as a diplomatic achievement, discussing its terms publicly without objection.
+      Aoun has indicated a commitment to first securing Israel's withdrawal and overseeing
+      reconstruction before addressing the status of Hezbollah's arms, highlighting
+      a significant shift in national priorities under external pressure.
+    published: '2025-08-14T03:46:17+00:00'
+  - title: 'Le plan de désarmement américano-israélien : un « à prendre ou à laisser
+      » 2/3'
+    url: https://ejmagnier.com/2025/08/14/le-plan-de-desarmement-americano-israelien-un-a-prendre-ou-a-laisser-2-3/
+    text: 'Tweet Par Elijah J. Magnier – Dans la première partie de cette série, nous
+      avons vu comment la direction libanaise — sous forte pression étrangère — a placé
+      le désarmement du Hezbollah avant le retrait israélien et la reconstruction, inversant
+      ainsi les priorités nationales et révélant la manière sélective dont la « souveraineté
+      » est invoquée. Nous en venons maintenant au cœur de cette pression : le « document
+      Barrack ». Plus qu’une simple proposition, c’est un plan rigide « à prendre ou
+      à laisser » visant à démanteler le principal moyen de dissuasion du Liban sous
+      couvert de paix. Ses clauses sont conçues pour dépouiller le pays de ses défenses
+      avant d’obtenir la moindre concession contraignante d’Israël, reposant à la place
+      sur des promesses vagues, des échéances mouvantes et des conditions qui font pencher
+      entièrement la balance en faveur de Tel-Aviv. Le gouvernement libanais — dirigé
+      par le président Joseph Aoun et le Premier ministre Nawaf Salam — a déjà examiné
+      un document imposé par les États-Unis et Israël, détaillant étape par étape comment
+      le Liban doit procéder au désarmement du Hezbollah. Présenté selon la formule
+      stricte du « à prendre ou à laisser », le plan n’offre aucune marge d’amendement
+      ni de négociation. Au lieu de rejeter cet affront flagrant à la souveraineté nationale,
+      les responsables à Beyrouth l’ont presque traité comme une réussite diplomatique,
+      en publiant ses termes sans protester. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'article d'Elijah J. Magnier souligne que le gouvernement
+      libanais, sous pression étrangère, privilégie le désarmement du Hezbollah avant
+      le retrait israélien, en examinant un plan rigide appelé "document Barrack" qui
+      vise à affaiblir les défenses du Liban sans garantir de concessions concrètes
+      de la part d'Israël.
+    paragraph_summary: In the first part of this series, the article discusses how the
+      Lebanese leadership, under significant foreign pressure, has prioritized the disarmament
+      of Hezbollah over the Israeli withdrawal and reconstruction efforts, highlighting
+      a selective interpretation of "sovereignty." The focus then shifts to the "Barrack
+      document," a rigid, take-it-or-leave-it plan aimed at dismantling Lebanon's primary
+      means of deterrence under the guise of peace. This plan, imposed by the U.S. and
+      Israel, outlines a step-by-step process for Hezbollah's disarmament, offering
+      no room for negotiation and heavily favoring Tel Aviv with vague promises and
+      shifting deadlines. Despite the affront to national sovereignty, Lebanese officials,
+      led by President Joseph Aoun and Prime Minister Nawaf Salam, have treated the
+      document as a diplomatic success, publicly sharing its terms without objection.
+    published: '2025-08-14T03:43:32+00:00'
+  - title: 'Le plan de désarmement américano-israélien : un « à prendre ou à laisser
+      » 2/3'
+    url: https://ejmagnier.com/2025/08/14/le-plan-de-desarmement-americano-israelien-un-a-prendre-ou-a-laisser-2-3/
+    text: 'Tweet Par Elijah J. Magnier – Dans la première partie de cette série, nous
+      avons vu comment la direction libanaise — sous forte pression étrangère — a placé
+      le désarmement du Hezbollah avant le retrait israélien et la reconstruction, inversant
+      ainsi les priorités nationales et révélant la manière sélective dont la « souveraineté
+      » est invoquée. Nous en venons maintenant au cœur de cette pression : le « document
+      Barrack ». Plus qu’une simple proposition, c’est un plan rigide « à prendre ou
+      à laisser » visant à démanteler le principal moyen de dissuasion du Liban sous
+      couvert de paix. Ses clauses sont conçues pour dépouiller le pays de ses défenses
+      avant d’obtenir la moindre concession contraignante d’Israël, reposant à la place
+      sur des promesses vagues, des échéances mouvantes et des conditions qui font pencher
+      entièrement la balance en faveur de Tel-Aviv. Le gouvernement libanais — dirigé
+      par le président Joseph Aoun et le Premier ministre Nawaf Salam — a déjà examiné
+      un document imposé par les États-Unis et Israël, détaillant étape par étape comment
+      le Liban doit procéder au désarmement du Hezbollah. Présenté selon la formule
+      stricte du « à prendre ou à laisser », le plan n’offre aucune marge d’amendement
+      ni de négociation. Au lieu de rejeter cet affront flagrant à la souveraineté nationale,
+      les responsables à Beyrouth l’ont presque traité comme une réussite diplomatique,
+      en publiant ses termes sans protester. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: L'article d'Elijah J. Magnier souligne que le gouvernement
+      libanais, sous pression étrangère, privilégie le désarmement du Hezbollah avant
+      le retrait israélien, en examinant un plan rigide appelé "document Barrack" qui
+      vise à affaiblir les défenses du Liban sans garantir de concessions concrètes
+      de la part d'Israël.
+    paragraph_summary: In the first part of this series, the article discusses how the
+      Lebanese leadership, under significant foreign pressure, has prioritized the disarmament
+      of Hezbollah over the Israeli withdrawal and reconstruction efforts, highlighting
+      a selective interpretation of "sovereignty." The focus then shifts to the "Barrack
+      document," a rigid, take-it-or-leave-it plan aimed at dismantling Lebanon's primary
+      means of deterrence under the guise of peace. This plan, imposed by the U.S. and
+      Israel, outlines a step-by-step process for Hezbollah's disarmament, offering
+      no room for negotiation and heavily favoring Tel Aviv with vague promises and
+      shifting deadlines. Despite the affront to national sovereignty, Lebanese officials,
+      led by President Joseph Aoun and Prime Minister Nawaf Salam, have treated the
+      document as a diplomatic success, publicly sharing its terms without objection.
+    published: '2025-08-14T03:43:32+00:00'
+  - title: 'Het Amerikaans-Israëlische ontwapeningsplan: een blauwdruk van “slikken
+      of stikken” 2/3'
+    url: https://ejmagnier.com/2025/08/14/het-amerikaans-israelische-ontwapeningsplan-een-blauwdruk-van-slikken-of-stikken-2-3/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. In het
+      eerste deel van deze reeks hebben we gezien hoe de Libanese leiders – onder zware
+      buitenlandse druk – de ontwapening van Hezbollah boven de terugtrekking van Israël
+      en de wederopbouw hebben geplaatst, waardoor de nationale prioriteiten zijn omgedraaid
+      en de selectieve manier waarop “soevereiniteit” wordt ingeroepen, aan het licht
+      is gekomen. Nu richten we ons op het middelpunt van die druk: het “Barrack-document”.
+      Dit is meer dan een voorstel, het is een rigide “take it or leave it”-blauwdruk
+      voor het ontmantelen van de belangrijkste afschrikking van Libanon onder het mom
+      van vrede. De bepalingen ervan zijn bedoeld om de verdedigingslinies van het land
+      te ontmantelen zonder ook maar één bindende concessie van Israël te verkrijgen,
+      en in plaats daarvan te vertrouwen op vage beloften, verschuivende tijdschema’s
+      en voorwaarden die de balans volledig in het voordeel van Tel Aviv doen doorslaan.
+      De Libanese regering – onder leiding van president Joseph Aoun en premier Nawaf
+      Salam – heeft al gesproken over een door de VS en Israël opgelegd document waarin
+      stap voor stap wordt uiteengezet hoe Libanon moet werk maken van de ontwapening
+      van Hezbollah. Het plan, dat op strikt “te nemen of te laten” basis is gepresenteerd,
+      biedt geen ruimte voor wijzigingen of onderhandelingen. In plaats van deze brutale
+      schending van de nationale soevereiniteit af te wijzen, hebben de functionarissen
+      in Beiroet het bijna als een diplomatieke prestatie behandeld en de voorwaarden
+      ervan zonder protest bekendgemaakt. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: In het artikel wordt besproken hoe de Libanese leiders, onder
+      druk van het "Barrack-document", de ontwapening van Hezbollah prioriteren boven
+      de terugtrekking van Israël en wederopbouw, wat leidt tot een ongelijkwaardige
+      situatie die de nationale soevereiniteit in gevaar brengt zonder echte concessies
+      van Israël.
+    paragraph_summary: In het artikel van Elijah J. Magnier, vertaald door Francis J.,
+      wordt besproken hoe de Libanese leiders, onder druk van buitenlandse machten,
+      prioriteit geven aan de ontwapening van Hezbollah boven de terugtrekking van Israël
+      en de wederopbouw van het land. Het "Barrack-document" wordt gepresenteerd als
+      een rigide en ononderhandelbaar plan dat gericht is op het ontmantelen van Libanons
+      defensieve capaciteiten zonder enige bindende concessies van Israël, en vertrouwt
+      in plaats daarvan op vage beloften en onduidelijke tijdschema's die in het voordeel
+      van Tel Aviv zijn. Ondanks de schending van de nationale soevereiniteit, behandelen
+      Libanese functionarissen dit document als een diplomatiek succes en hebben ze
+      de voorwaarden ervan zonder protest geaccepteerd.
+    published: '2025-08-14T03:41:35+00:00'
+  - title: 'Het Amerikaans-Israëlische ontwapeningsplan: een blauwdruk van “slikken
+      of stikken” 2/3'
+    url: https://ejmagnier.com/2025/08/14/het-amerikaans-israelische-ontwapeningsplan-een-blauwdruk-van-slikken-of-stikken-2-3/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. In het
+      eerste deel van deze reeks hebben we gezien hoe de Libanese leiders – onder zware
+      buitenlandse druk – de ontwapening van Hezbollah boven de terugtrekking van Israël
+      en de wederopbouw hebben geplaatst, waardoor de nationale prioriteiten zijn omgedraaid
+      en de selectieve manier waarop “soevereiniteit” wordt ingeroepen, aan het licht
+      is gekomen. Nu richten we ons op het middelpunt van die druk: het “Barrack-document”.
+      Dit is meer dan een voorstel, het is een rigide “take it or leave it”-blauwdruk
+      voor het ontmantelen van de belangrijkste afschrikking van Libanon onder het mom
+      van vrede. De bepalingen ervan zijn bedoeld om de verdedigingslinies van het land
+      te ontmantelen zonder ook maar één bindende concessie van Israël te verkrijgen,
+      en in plaats daarvan te vertrouwen op vage beloften, verschuivende tijdschema’s
+      en voorwaarden die de balans volledig in het voordeel van Tel Aviv doen doorslaan.
+      De Libanese regering – onder leiding van president Joseph Aoun en premier Nawaf
+      Salam – heeft al gesproken over een door de VS en Israël opgelegd document waarin
+      stap voor stap wordt uiteengezet hoe Libanon moet werk maken van de ontwapening
+      van Hezbollah. Het plan, dat op strikt “te nemen of te laten” basis is gepresenteerd,
+      biedt geen ruimte voor wijzigingen of onderhandelingen. In plaats van deze brutale
+      schending van de nationale soevereiniteit af te wijzen, hebben de functionarissen
+      in Beiroet het bijna als een diplomatieke prestatie behandeld en de voorwaarden
+      ervan zonder protest bekendgemaakt. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: In het artikel wordt besproken hoe de Libanese leiders, onder
+      druk van het "Barrack-document", de ontwapening van Hezbollah prioriteren boven
+      de terugtrekking van Israël en wederopbouw, wat leidt tot een ongelijkwaardige
+      situatie die de nationale soevereiniteit in gevaar brengt zonder echte concessies
+      van Israël.
+    paragraph_summary: In het artikel van Elijah J. Magnier, vertaald door Francis J.,
+      wordt besproken hoe de Libanese leiders, onder druk van buitenlandse machten,
+      prioriteit geven aan de ontwapening van Hezbollah boven de terugtrekking van Israël
+      en de wederopbouw van het land. Het "Barrack-document" wordt gepresenteerd als
+      een rigide en ononderhandelbaar plan dat gericht is op het ontmantelen van Libanons
+      defensieve capaciteiten zonder enige bindende concessies van Israël, en vertrouwt
+      in plaats daarvan op vage beloften en onduidelijke tijdschema's die in het voordeel
+      van Tel Aviv zijn. Ondanks de schending van de nationale soevereiniteit, behandelen
+      Libanese functionarissen dit document als een diplomatiek succes en hebben ze
+      de voorwaarden ervan zonder protest geaccepteerd.
+    published: '2025-08-14T03:41:35+00:00'
+  - title: 'Der US-amerikanisch-israelische Abrüstungsplan: Ein „Friss oder stirb“-Entwurf
+      2/3'
+    url: https://ejmagnier.com/2025/08/14/der-us-amerikanisch-israelische-abrustungsplan-ein-friss-oder-stirb-entwurf-2-3/
+    text: 'Tweet Von Elijah J. Magnier – Im ersten Teil dieser Serie haben wir gesehen,
+      wie die libanesische Führung – unter starkem Druck aus dem Ausland – die Entwaffnung
+      der Hisbollah über den Rückzug Israels und den Wiederaufbau gestellt hat, wodurch
+      sie die nationalen Prioritäten umgekehrt und die selektive Art und Weise, wie
+      „Souveränität“ geltend gemacht wird, offenbart hat. Nun wenden wir uns dem Kernstück
+      dieses Drucks zu: dem „Barrack-Dokument“. Es handelt sich dabei um mehr als einen
+      Vorschlag, nämlich um einen starren „Friss oder stirb“-Entwurf zur Demontage der
+      wichtigsten Abschreckungsmacht des Libanon unter dem Deckmantel des Friedens.
+      Seine Klauseln zielen darauf ab, die Verteidigung des Landes zu zerstören, ohne
+      auch nur ein einziges verbindliches Zugeständnis von Israel zu erhalten, und stattdessen
+      auf vage Versprechungen, verschobene Zeitpläne und Bedingungen zu setzen, die
+      das Gleichgewicht vollständig zugunsten Tel Avivs verschieben. Die libanesische
+      Regierung unter Präsident Joseph Aoun und Premierminister Nawaf Salam hat bereits
+      ein von den USA und Israel vorgelegtes Dokument diskutiert, in dem Schritt für
+      Schritt dargelegt wird, wie der Libanon die Entwaffnung der Hisbollah vorantreiben
+      muss. Der Plan wurde unter strikter „Friss oder stirb“-Bedingung vorgelegt und
+      lässt keinen Raum für Änderungen oder Verhandlungen. Anstatt diese dreiste Verletzung
+      der nationalen Souveränität zurückzuweisen, behandelten die Beamten in Beirut
+      sie fast wie einen diplomatischen Erfolg und veröffentlichten ihre Bedingungen
+      ohne Protest. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Der Artikel von Elijah J. Magnier beschreibt, wie die libanesische
+      Führung unter internationalem Druck die Entwaffnung der Hisbollah priorisiert,
+      während sie gleichzeitig einem strikten „Friss oder stirb“-Dokument zustimmt,
+      das die Verteidigung des Libanon gefährdet, ohne dass Israel verbindliche Zugeständnisse
+      macht.
+    paragraph_summary: In the first part of the series, Elijah J. Magnier discusses
+      how the Lebanese leadership, under significant foreign pressure, has prioritized
+      the disarmament of Hezbollah over Israel's withdrawal and national reconstruction,
+      revealing a selective approach to asserting "sovereignty." The article focuses
+      on the "Barrack Document," which is presented as a rigid ultimatum for dismantling
+      Lebanon's primary deterrent force under the guise of peace, aiming to undermine
+      the country's defense without securing any binding concessions from Israel. Instead,
+      it offers vague promises and conditions that favor Tel Aviv, while the Lebanese
+      government, led by President Joseph Aoun and Prime Minister Nawaf Salam, has engaged
+      in discussions about this U.S. and Israeli proposal without rejecting its infringement
+      on national sovereignty, treating it almost as a diplomatic achievement.
+    published: '2025-08-14T03:37:45+00:00'
+  - title: 'Der US-amerikanisch-israelische Abrüstungsplan: Ein „Friss oder stirb“-Entwurf
+      2/3'
+    url: https://ejmagnier.com/2025/08/14/der-us-amerikanisch-israelische-abrustungsplan-ein-friss-oder-stirb-entwurf-2-3/
+    text: 'Tweet Von Elijah J. Magnier – Im ersten Teil dieser Serie haben wir gesehen,
+      wie die libanesische Führung – unter starkem Druck aus dem Ausland – die Entwaffnung
+      der Hisbollah über den Rückzug Israels und den Wiederaufbau gestellt hat, wodurch
+      sie die nationalen Prioritäten umgekehrt und die selektive Art und Weise, wie
+      „Souveränität“ geltend gemacht wird, offenbart hat. Nun wenden wir uns dem Kernstück
+      dieses Drucks zu: dem „Barrack-Dokument“. Es handelt sich dabei um mehr als einen
+      Vorschlag, nämlich um einen starren „Friss oder stirb“-Entwurf zur Demontage der
+      wichtigsten Abschreckungsmacht des Libanon unter dem Deckmantel des Friedens.
+      Seine Klauseln zielen darauf ab, die Verteidigung des Landes zu zerstören, ohne
+      auch nur ein einziges verbindliches Zugeständnis von Israel zu erhalten, und stattdessen
+      auf vage Versprechungen, verschobene Zeitpläne und Bedingungen zu setzen, die
+      das Gleichgewicht vollständig zugunsten Tel Avivs verschieben. Die libanesische
+      Regierung unter Präsident Joseph Aoun und Premierminister Nawaf Salam hat bereits
+      ein von den USA und Israel vorgelegtes Dokument diskutiert, in dem Schritt für
+      Schritt dargelegt wird, wie der Libanon die Entwaffnung der Hisbollah vorantreiben
+      muss. Der Plan wurde unter strikter „Friss oder stirb“-Bedingung vorgelegt und
+      lässt keinen Raum für Änderungen oder Verhandlungen. Anstatt diese dreiste Verletzung
+      der nationalen Souveränität zurückzuweisen, behandelten die Beamten in Beirut
+      sie fast wie einen diplomatischen Erfolg und veröffentlichten ihre Bedingungen
+      ohne Protest. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Der Artikel von Elijah J. Magnier beschreibt, wie die libanesische
+      Führung unter internationalem Druck die Entwaffnung der Hisbollah priorisiert,
+      während sie gleichzeitig einem strikten „Friss oder stirb“-Dokument zustimmt,
+      das die Verteidigung des Libanon gefährdet, ohne dass Israel verbindliche Zugeständnisse
+      macht.
+    paragraph_summary: In the first part of the series, Elijah J. Magnier discusses
+      how the Lebanese leadership, under significant foreign pressure, has prioritized
+      the disarmament of Hezbollah over Israel's withdrawal and national reconstruction,
+      revealing a selective approach to asserting "sovereignty." The article focuses
+      on the "Barrack Document," which is presented as a rigid ultimatum for dismantling
+      Lebanon's primary deterrent force under the guise of peace, aiming to undermine
+      the country's defense without securing any binding concessions from Israel. Instead,
+      it offers vague promises and conditions that favor Tel Aviv, while the Lebanese
+      government, led by President Joseph Aoun and Prime Minister Nawaf Salam, has engaged
+      in discussions about this U.S. and Israeli proposal without rejecting its infringement
+      on national sovereignty, treating it almost as a diplomatic achievement.
+    published: '2025-08-14T03:37:45+00:00'
+  - title: 'The Disarmament Trap: How Foreign Dictates Push Lebanon Toward Collapse 1/3'
+    url: https://ejmagnier.com/2025/08/13/the-disarmament-trap-how-foreign-dictates-push-lebanon-toward-collapse-1-3/
+    text: Tweet By Elijah J. Magnier – Following the 2024 Israeli war, Hezbollah’s battlefield
+      position has shifted, but so has Lebanon’s political compass. What emerges is
+      a story of selective sovereignty, foreign dictates, and a government willing to
+      prioritise disarmament over ending the Israeli occupation, reconstruction and
+      survival. This is the opening chapter of a three-part investigation into how Lebanon
+      arrived at the edge of a disarmament trap. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Elijah J. Magnier's article explores the aftermath of the
+      2024 Israeli war, highlighting Lebanon's shifting political landscape and Hezbollah's
+      altered battlefield position, while addressing the complexities of sovereignty,
+      foreign influence, and the government's focus on disarmament over crucial issues
+      like Israeli occupation and national reconstruction.
+    paragraph_summary: In the aftermath of the 2024 Israeli war, Hezbollah's military
+      stance and Lebanon's political landscape have undergone significant changes, revealing
+      a complex narrative of selective sovereignty and external influences. The Lebanese
+      government appears to prioritize disarmament over crucial issues such as ending
+      the Israeli occupation, reconstruction, and national survival. This situation
+      sets the stage for a deeper exploration of Lebanon's precarious position regarding
+      disarmament, as outlined in the first part of a three-part investigation by Elijah
+      J. Magnier.
+    published: '2025-08-13T17:10:48+00:00'
+  - title: 'The Disarmament Trap: How Foreign Dictates Push Lebanon Toward Collapse 1/3'
+    url: https://ejmagnier.com/2025/08/13/the-disarmament-trap-how-foreign-dictates-push-lebanon-toward-collapse-1-3/
+    text: Tweet By Elijah J. Magnier – Following the 2024 Israeli war, Hezbollah’s battlefield
+      position has shifted, but so has Lebanon’s political compass. What emerges is
+      a story of selective sovereignty, foreign dictates, and a government willing to
+      prioritise disarmament over ending the Israeli occupation, reconstruction and
+      survival. This is the opening chapter of a three-part investigation into how Lebanon
+      arrived at the edge of a disarmament trap. Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Elijah J. Magnier's article explores the aftermath of the
+      2024 Israeli war, highlighting Lebanon's shifting political landscape and Hezbollah's
+      altered battlefield position, while addressing the complexities of sovereignty,
+      foreign influence, and the government's focus on disarmament over crucial issues
+      like Israeli occupation and national reconstruction.
+    paragraph_summary: In the aftermath of the 2024 Israeli war, Hezbollah's military
+      stance and Lebanon's political landscape have undergone significant changes, revealing
+      a complex narrative of selective sovereignty and external influences. The Lebanese
+      government appears to prioritize disarmament over crucial issues such as ending
+      the Israeli occupation, reconstruction, and national survival. This situation
+      sets the stage for a deeper exploration of Lebanon's precarious position regarding
+      disarmament, as outlined in the first part of a three-part investigation by Elijah
+      J. Magnier.
+    published: '2025-08-13T17:10:48+00:00'
+  - title: 'Le Piège du Désarmement : Comment les diktats étrangers poussent le Liban
+      vers l’effondrement – 1/3'
+    url: https://ejmagnier.com/2025/08/13/le-piege-du-desarmement-comment-les-diktats-etrangers-poussent-le-liban-vers-leffondrement-1-3/
+    text: Tweet Par Elijah J. Magnier – À la suite de la guerre israélienne de 2024,
+      la position de Hezbollah sur le champ de bataille a changé — tout comme la boussole
+      politique du Liban. Ce qui se dessine est l’histoire d’une souveraineté sélective,
+      de diktats étrangers et d’un gouvernement prêt à donner la priorité au désarmement
+      avant la fin de l’occupation israélienne, la reconstruction et la survie du pays.
+      Voici le premier chapitre d’une enquête en trois volets sur la manière dont le
+      Liban s’est retrouvé au bord du piège du désarmement. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: L'article d'Elijah J. Magnier examine comment la guerre israélienne
+      de 2024 a modifié la dynamique du Hezbollah et la politique libanaise, révélant
+      une tendance vers une souveraineté sélective et un gouvernement qui privilégie
+      le désarmement avant la fin de l'occupation israélienne et la reconstruction du
+      pays.
+    paragraph_summary: Elijah J. Magnier discusses the aftermath of the 2024 Israeli
+      war and its impact on Hezbollah's position and Lebanon's political landscape.
+      He highlights a shift towards selective sovereignty, influenced by foreign dictates,
+      with a government prioritizing disarmament over addressing the Israeli occupation,
+      reconstruction, and the nation's survival. This article marks the beginning of
+      a three-part investigation into how Lebanon is facing the challenges of disarmament.
+    published: '2025-08-13T17:09:30+00:00'
+  - title: 'Le Piège du Désarmement : Comment les diktats étrangers poussent le Liban
+      vers l’effondrement – 1/3'
+    url: https://ejmagnier.com/2025/08/13/le-piege-du-desarmement-comment-les-diktats-etrangers-poussent-le-liban-vers-leffondrement-1-3/
+    text: Tweet Par Elijah J. Magnier – À la suite de la guerre israélienne de 2024,
+      la position de Hezbollah sur le champ de bataille a changé — tout comme la boussole
+      politique du Liban. Ce qui se dessine est l’histoire d’une souveraineté sélective,
+      de diktats étrangers et d’un gouvernement prêt à donner la priorité au désarmement
+      avant la fin de l’occupation israélienne, la reconstruction et la survie du pays.
+      Voici le premier chapitre d’une enquête en trois volets sur la manière dont le
+      Liban s’est retrouvé au bord du piège du désarmement. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: L'article d'Elijah J. Magnier examine comment la guerre israélienne
+      de 2024 a modifié la dynamique du Hezbollah et la politique libanaise, révélant
+      une tendance vers une souveraineté sélective et un gouvernement qui privilégie
+      le désarmement avant la fin de l'occupation israélienne et la reconstruction du
+      pays.
+    paragraph_summary: Elijah J. Magnier discusses the aftermath of the 2024 Israeli
+      war and its impact on Hezbollah's position and Lebanon's political landscape.
+      He highlights a shift towards selective sovereignty, influenced by foreign dictates,
+      with a government prioritizing disarmament over addressing the Israeli occupation,
+      reconstruction, and the nation's survival. This article marks the beginning of
+      a three-part investigation into how Lebanon is facing the challenges of disarmament.
+    published: '2025-08-13T17:09:30+00:00'
+  - title: 'Wettrüsten: Wie ausländische Diktate den Libanon in den Ruin treiben'
+    url: https://ejmagnier.com/2025/08/13/wettrusten-wie-auslandische-diktate-den-libanon-in-den-ruin-treiben/
+    text: Tweet Von Elijah J. Magnier – Nach dem Krieg Israels im Jahr 2024 hat sich
+      die Position der Hisbollah auf dem Schlachtfeld verändert, aber auch der politische
+      Kompass des Libanon. Was sich abzeichnet, ist eine Geschichte von selektiver Souveränität,
+      ausländischer Bevormundung und einer Regierung, die bereit ist, die Entwaffnung
+      über die Beendigung der israelischen Besatzung, den Wiederaufbau und das Überleben
+      zu stellen. Dies ist das erste Kapitel einer dreiteiligen Untersuchung darüber,
+      wie der Libanon an den Rand einer Entwaffnungsfalle geraten ist. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Nach dem Krieg Israels im Jahr 2024 hat sich die Position
+      der Hisbollah im Libanon verändert, was zu einer selektiven Souveränität und ausländischer
+      Bevormundung führt, während die Regierung die Entwaffnung über die Beendigung
+      der israelischen Besatzung und den Wiederaufbau priorisiert.
+    paragraph_summary: Elijah J. Magnier's article discusses the shifting dynamics in
+      Lebanon following Israel's war in 2024, highlighting changes in Hezbollah's battlefield
+      position and the country's political landscape. It portrays a narrative of selective
+      sovereignty and foreign influence, with a Lebanese government prioritizing disarmament
+      over ending Israeli occupation, reconstruction, and survival. This piece marks
+      the beginning of a three-part analysis on Lebanon's precarious situation regarding
+      disarmament.
+    published: '2025-08-13T17:08:40+00:00'
+  - title: 'Wettrüsten: Wie ausländische Diktate den Libanon in den Ruin treiben'
+    url: https://ejmagnier.com/2025/08/13/wettrusten-wie-auslandische-diktate-den-libanon-in-den-ruin-treiben/
+    text: Tweet Von Elijah J. Magnier – Nach dem Krieg Israels im Jahr 2024 hat sich
+      die Position der Hisbollah auf dem Schlachtfeld verändert, aber auch der politische
+      Kompass des Libanon. Was sich abzeichnet, ist eine Geschichte von selektiver Souveränität,
+      ausländischer Bevormundung und einer Regierung, die bereit ist, die Entwaffnung
+      über die Beendigung der israelischen Besatzung, den Wiederaufbau und das Überleben
+      zu stellen. Dies ist das erste Kapitel einer dreiteiligen Untersuchung darüber,
+      wie der Libanon an den Rand einer Entwaffnungsfalle geraten ist. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Nach dem Krieg Israels im Jahr 2024 hat sich die Position
+      der Hisbollah im Libanon verändert, was zu einer selektiven Souveränität und ausländischer
+      Bevormundung führt, während die Regierung die Entwaffnung über die Beendigung
+      der israelischen Besatzung und den Wiederaufbau priorisiert.
+    paragraph_summary: Elijah J. Magnier's article discusses the shifting dynamics in
+      Lebanon following Israel's war in 2024, highlighting changes in Hezbollah's battlefield
+      position and the country's political landscape. It portrays a narrative of selective
+      sovereignty and foreign influence, with a Lebanese government prioritizing disarmament
+      over ending Israeli occupation, reconstruction, and survival. This piece marks
+      the beginning of a three-part analysis on Lebanon's precarious situation regarding
+      disarmament.
+    published: '2025-08-13T17:08:40+00:00'
+  - title: 'De ontwapeningsval: hoe buitenlandse dictaten Libanon naar de afgrond duwen
+      1/3'
+    url: https://ejmagnier.com/2025/08/13/de-ontwapeningsval-hoe-buitenlandse-dictaten-libanon-naar-de-afgrond-duwen-1-3/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Na de Israëlische
+      oorlog van 2024 is de positie van Hezbollah op het slagveld veranderd, maar dat
+      geldt ook voor het politieke kompas van Libanon. Wat naar voren komt is een verhaal
+      van selectieve soevereiniteit, buitenlandse dictaten en een regering die bereid
+      is ontwapening voorrang te geven boven het beëindigen van de Israëlische bezetting,
+      wederopbouw en overleving. Dit is het eerste hoofdstuk van een driedelig onderzoek
+      naar hoe Libanon aan de rand van een ontwapeningsval is beland. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Na de Israëlische oorlog van 2024 is de positie van Hezbollah
+      in Libanon veranderd, wat leidt tot een situatie van selectieve soevereiniteit
+      en een regering die ontwapening boven andere prioriteiten plaatst, wat de basis
+      vormt voor een driedelig onderzoek naar Libanons huidige crisis.
+    paragraph_summary: In de nasleep van de Israëlische oorlog van 2024 is de rol van
+      Hezbollah op het slagveld en de politieke situatie in Libanon aanzienlijk veranderd,
+      met een focus op selectieve soevereiniteit en buitenlandse invloeden. De Libanese
+      regering lijkt prioriteit te geven aan ontwapening boven het beëindigen van de
+      Israëlische bezetting, wederopbouw en de overleving van het land. Dit artikel
+      is het eerste deel van een driedelige analyse over hoe Libanon in een situatie
+      van mogelijke ontwapening is beland.
+    published: '2025-08-13T17:07:01+00:00'
+  - title: 'De ontwapeningsval: hoe buitenlandse dictaten Libanon naar de afgrond duwen
+      1/3'
+    url: https://ejmagnier.com/2025/08/13/de-ontwapeningsval-hoe-buitenlandse-dictaten-libanon-naar-de-afgrond-duwen-1-3/
+    text: Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Na de Israëlische
+      oorlog van 2024 is de positie van Hezbollah op het slagveld veranderd, maar dat
+      geldt ook voor het politieke kompas van Libanon. Wat naar voren komt is een verhaal
+      van selectieve soevereiniteit, buitenlandse dictaten en een regering die bereid
+      is ontwapening voorrang te geven boven het beëindigen van de Israëlische bezetting,
+      wederopbouw en overleving. Dit is het eerste hoofdstuk van een driedelig onderzoek
+      naar hoe Libanon aan de rand van een ontwapeningsval is beland. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet
+    one_sentence_summary: Na de Israëlische oorlog van 2024 is de positie van Hezbollah
+      in Libanon veranderd, wat leidt tot een situatie van selectieve soevereiniteit
+      en een regering die ontwapening boven andere prioriteiten plaatst, wat de basis
+      vormt voor een driedelig onderzoek naar Libanons huidige crisis.
+    paragraph_summary: In de nasleep van de Israëlische oorlog van 2024 is de rol van
+      Hezbollah op het slagveld en de politieke situatie in Libanon aanzienlijk veranderd,
+      met een focus op selectieve soevereiniteit en buitenlandse invloeden. De Libanese
+      regering lijkt prioriteit te geven aan ontwapening boven het beëindigen van de
+      Israëlische bezetting, wederopbouw en de overleving van het land. Dit artikel
+      is het eerste deel van een driedelige analyse over hoe Libanon in een situatie
+      van mogelijke ontwapening is beland.
+    published: '2025-08-13T17:07:01+00:00'
   - title: 'Iran – US: A New Era of Astute Diplomacy and Nuclear Blackout'
     url: https://ejmagnier.com/2025/08/11/iran-us-a-new-era-of-astute-diplomacy-and-nuclear-blackout/
     text: 'Tweet By Elijah J. Magnier Summary: After the June 2025 Israeli–U.S. strikes

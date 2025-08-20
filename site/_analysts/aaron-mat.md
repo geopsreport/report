@@ -7,16 +7,175 @@ description: "Journalist and producer; covers US foreign policy, Russiagate, and
 websites:
   - https://www.aaronmate.net/
 summary: |
-  As the global balance of power remains in flux, recent developments signal intensifying diplomatic maneuvering and military posturing among major actors. The most notable shift is President Trump’s announcement of an upcoming summit with Vladimir Putin, which aims to address the protracted Ukraine conflict amid what analysts increasingly describe as a new arms race.
+  Amid ongoing tensions in Ukraine and the Middle East, recent independent analysis highlights shifting responsibilities and narratives in the major geopolitical crises. The latest developments focus on the Ukraine conflict’s origins, the persistent fallout from the Russiagate controversy, and the evolving U.S.-Russia diplomatic dynamic.
   
-  According to **Aaron Maté**, the Trump-Putin summit marks a significant, if uncertain, attempt to resolve the Ukraine war, with discussions reportedly set to include proposals for territorial “swapping.” This follows months of stalled ceasefire efforts and threats of new sanctions against Russia. The summit’s agenda reflects growing recognition in Washington that the current military stalemate is unsustainable, and that a negotiated settlement—however controversial—may be the only viable path forward. There is a high chance that the talks will focus on pragmatic solutions rather than sweeping peace deals, with both sides seeking to secure strategic gains while avoiding further escalation.
+  A significant new perspective comes from **Benoit Paré**, a former French defense ministry analyst and OSCE monitor, who contends that Ukraine bears substantial responsibility for the breakdown of the Minsk accords. Paré emphasizes that ultra-nationalist factions within Ukraine remain a primary obstacle to peace, suggesting that Western narratives have underplayed Kyiv’s role in escalating the Donbas conflict. This assessment challenges the prevailing view that Russia was the sole provocateur and points to NATO’s involvement as a contributing factor.
   
-  Meanwhile, the humanitarian crisis in Gaza continues to deteriorate. President Trump has publicly acknowledged the severity of starvation in Gaza but has maintained support for Israel’s military campaign, urging Israeli leaders to “finish the job.” As **Aaron Maté** reports, the abandonment of ceasefire talks with Hamas has left the civilian population in dire straits, with international criticism mounting but little sign of a policy shift from Washington or Tel Aviv. The majority of analysts agree that, barring a dramatic change in US policy, the siege and its attendant humanitarian consequences will persist in the near term.
+  Meanwhile, the legacy of the Russiagate investigation continues to reverberate. Newly declassified documents, as reported by **Aaron Maté**, reveal that U.S. intelligence officials harbored significant doubts about the claim that Russia hacked and leaked Democratic Party emails to aid Donald Trump’s 2016 campaign. This undermines the long-standing narrative of Russian interference and raises questions about the credibility of U.S. intelligence assessments during that period.
   
-  On the intelligence front, newly declassified documents have cast further doubt on longstanding claims of Russian interference in the 2016 US election. As revealed by **Aaron Maté**, US intelligence officials harbored significant doubts about the narrative that Russia hacked and leaked Democratic Party materials to aid Trump’s campaign. This undermines years of political discourse and may fuel further calls for accountability within US intelligence agencies, though the likelihood of substantive legal consequences remains low.
+  On the diplomatic front, President Trump’s announcement of an upcoming summit with Vladimir Putin signals a potential shift in the Ukraine war’s trajectory. While Trump has floated the idea of territorial “swapping” as a possible resolution, previous threats of severe sanctions have not materialized into decisive action. Analysts note that the actual policy measures have been less transformative than anticipated, with bipartisan sanctions lacking the expected impact.
   
-  In summary, the coming days are set to be defined by high-stakes diplomacy between Washington and Moscow, ongoing humanitarian crises in the Middle East, and a deepening reckoning with the legacy of Russiagate. I guarantee that the Trump-Putin summit will dominate headlines and shape the trajectory of the Ukraine conflict, while the Gaza crisis and intelligence revelations will continue to generate controversy and debate, but with limited immediate policy impact.
+  **Trends and Predictions:**  
+  The majority of independent sources now argue that the Ukraine conflict’s roots are more complex than mainstream accounts suggest, with both Kyiv and Western actors sharing responsibility. The credibility of U.S. intelligence on Russian interference is increasingly in question, likely fueling further political polarization in Washington. Looking ahead, there is a high chance that the Trump-Putin summit will produce incremental diplomatic movement rather than a breakthrough, as entrenched positions on both sides persist. The prospects for a negotiated settlement in Ukraine remain limited unless significant pressure is brought to bear on Ukrainian ultra-nationalist elements—a scenario that, at present, appears quite unlikely.
 articles:
+  - title: 'French monitor: Ukraine, NATO provoked Russia in Donbas war'
+    url: https://www.aaronmate.net/p/french-monitor-ukraine-nato-provoked
+    text: 'Benoit Paré is a former French defense ministry analyst who worked as an
+      international monitor in eastern Ukraine from 2015 to 2022. In his first interview
+      with a US outlet, Paré speaks to The Grayzone ''s Aaron Maté about the hidden
+      reality of the Ukraine war in the Donbas region, where the US-backed Kyiv government
+      fought Russia-backed rebels following the 2014 Maidan coup. Russia now demands
+      that Ukraine accept its capture of the Donbas as a condition for ending the war.
+      When it comes to which party is responsible for the failure to implement the Minsk
+      accords, the 2015 peace pact that could have prevented the 2022 Russian invasion,
+      Paré says. "I will be very clear. For me the fault lies on Ukraine... by far."
+      Paré also warns that Ukrainian ultra-nationalists, who violently resisted the
+      Minsk accords, remain a major obstacle to peace. Paré worked as a monitor for
+      the Organization for Security and Co-operation in Europe (OSCE), a predominately
+      European group. He recounts his experience as an OSCE monitor in Ukraine in his
+      new book, "What I saw in Ukraine: 2015-2022, Diary of an International Observer."
+      Benoit Paré’s book: " What I saw in Ukraine: 2015-2022, Diary of an International
+      Observer ." Aaron Mate is a reader-supported publication. To receive new posts
+      and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: Benoit Paré, a former French defense ministry analyst and
+      OSCE monitor in eastern Ukraine, asserts that Ukraine bears significant responsibility
+      for the failure to implement the Minsk accords and warns that ultra-nationalists
+      pose a major barrier to peace in the ongoing conflict with Russia.
+    paragraph_summary: 'Benoit Paré, a former analyst for the French defense ministry
+      and international monitor in eastern Ukraine from 2015 to 2022, discusses the
+      complexities of the Ukraine war in an interview with The Grayzone''s Aaron Maté.
+      He highlights the ongoing conflict in the Donbas region, where the US-supported
+      Ukrainian government has been fighting Russia-backed rebels since the 2014 Maidan
+      coup. Paré asserts that Ukraine bears significant responsibility for the failure
+      to implement the Minsk accords, which could have averted the 2022 Russian invasion,
+      and warns that Ukrainian ultra-nationalists, who opposed the accords, pose a serious
+      barrier to achieving peace. His insights are drawn from his experiences as an
+      OSCE monitor, which he details in his new book, "What I Saw in Ukraine: 2015-2022,
+      Diary of an International Observer."'
+    published: '2025-08-18T16:20:41+00:00'
+  - title: 'French monitor: Ukraine, NATO provoked Russia in Donbas war'
+    url: https://www.aaronmate.net/p/french-monitor-ukraine-nato-provoked
+    text: 'Benoit Paré is a former French defense ministry analyst who worked as an
+      international monitor in eastern Ukraine from 2015 to 2022. In his first interview
+      with a US outlet, Paré speaks to The Grayzone ''s Aaron Maté about the hidden
+      reality of the Ukraine war in the Donbas region, where the US-backed Kyiv government
+      fought Russia-backed rebels following the 2014 Maidan coup. Russia now demands
+      that Ukraine accept its capture of the Donbas as a condition for ending the war.
+      When it comes to which party is responsible for the failure to implement the Minsk
+      accords, the 2015 peace pact that could have prevented the 2022 Russian invasion,
+      Paré says. "I will be very clear. For me the fault lies on Ukraine... by far."
+      Paré also warns that Ukrainian ultra-nationalists, who violently resisted the
+      Minsk accords, remain a major obstacle to peace. Paré worked as a monitor for
+      the Organization for Security and Co-operation in Europe (OSCE), a predominately
+      European group. He recounts his experience as an OSCE monitor in Ukraine in his
+      new book, "What I saw in Ukraine: 2015-2022, Diary of an International Observer."
+      Benoit Paré’s book: " What I saw in Ukraine: 2015-2022, Diary of an International
+      Observer ." Aaron Mate is a reader-supported publication. To receive new posts
+      and support my work, consider becoming a free or paid subscriber.'
+    one_sentence_summary: Benoit Paré, a former French defense ministry analyst and
+      OSCE monitor in eastern Ukraine, asserts that Ukraine bears significant responsibility
+      for the failure to implement the Minsk accords and warns that ultra-nationalists
+      pose a major barrier to peace in the ongoing conflict with Russia.
+    paragraph_summary: 'Benoit Paré, a former analyst for the French defense ministry
+      and international monitor in eastern Ukraine from 2015 to 2022, discusses the
+      complexities of the Ukraine war in an interview with The Grayzone''s Aaron Maté.
+      He highlights the ongoing conflict in the Donbas region, where the US-supported
+      Ukrainian government has been fighting Russia-backed rebels since the 2014 Maidan
+      coup. Paré asserts that Ukraine bears significant responsibility for the failure
+      to implement the Minsk accords, which could have averted the 2022 Russian invasion,
+      and warns that Ukrainian ultra-nationalists, who opposed the accords, pose a serious
+      barrier to achieving peace. His insights are drawn from his experiences as an
+      OSCE monitor, which he details in his new book, "What I Saw in Ukraine: 2015-2022,
+      Diary of an International Observer."'
+    published: '2025-08-18T16:20:41+00:00'
+  - title: As Trump and Putin meet, new evidence that 'Russian interference' was US
+      intel deception
+    url: https://www.aaronmate.net/p/as-trump-and-putin-meet-new-evidence
+    text: 'From left to right: DNI James Clapper, CIA Director John Brennan, and NSA
+      Director Mike Rogers, April 24 2015. (Photo by KEVIN DIETSCH/WHITE HOUSE POOL
+      (ISP POOL IMAGES)/Corbis/VCG via Getty Images) Three days before the first summit
+      meeting between Donald Trump and Vladimir Putin in July 2018, FBI Special Counsel
+      Robert Mueller accused Russian intelligence officers of hacking and leaking Democratic
+      Party emails to help Trump defeat Hillary Clinton. Mueller’s conspicuously timed
+      indictment inflamed the all-consuming controversy over Trump’s suspected complicity
+      in a “Russian interference” plot to install him in office. The innuendo reached
+      a fever pitch when Trump stood by Putin at a Helsinki news conference. Before
+      a room of Russiagate-addled journalists on high alert for signs of “collusion”
+      — or a confrontation that could disprove it — Trump said that he believed Putin’s
+      “extremely strong and powerful” denial of meddling in the 2016 election. Trump’s
+      refusal to accept what was widely portrayed as a US intelligence consensus on
+      Russian meddling triggered a political and media meltdown. CNN anchor Anderson
+      Cooper and Republican Sen. John McCain both agreed that Trump had delivered “one
+      of the most disgraceful performances by an American president” in US history.
+      A former U.S. ambassador to Russia, Michael McFaul, declared that with Trump’s
+      comments, the US was now “in the midst of a national security crisis.” CIA Director
+      turned MSNBC analyst John Brennan decreed that Trump’s heresy was not only impeachment-worthy,
+      but “nothing short of treasonous.” With a new Trump-Putin summit beginning today
+      in Alaska, a newly declassified document adds to a growing body of evidence showing
+      that the US president’s skepticism of “Russian interference” was in fact shared
+      at the highest levels of US intelligence. Read more'
+    one_sentence_summary: Three days before the Trump-Putin summit in July 2018, Special
+      Counsel Robert Mueller accused Russian intelligence of hacking Democratic emails
+      to aid Trump's election, intensifying the controversy over alleged Russian interference
+      and Trump's response to Putin's denial of meddling.
+    paragraph_summary: Three days before the first summit between Donald Trump and Vladimir
+      Putin in July 2018, FBI Special Counsel Robert Mueller accused Russian intelligence
+      officers of hacking Democratic Party emails to aid Trump's election against Hillary
+      Clinton, intensifying the controversy over alleged Russian interference. This
+      indictment coincided with Trump's controversial remarks at a Helsinki news conference,
+      where he sided with Putin's denial of meddling, leading to widespread condemnation
+      from media and political figures, including CNN's Anderson Cooper and Senator
+      John McCain, who labeled Trump's performance as disgraceful. The backlash escalated
+      to claims of a national security crisis, with former ambassador Michael McFaul
+      and former CIA Director John Brennan suggesting Trump's stance warranted impeachment
+      or was treasonous. As a new Trump-Putin summit approaches, a recently declassified
+      document indicates that Trump's skepticism about Russian interference was shared
+      by top US intelligence officials, adding complexity to the ongoing debate.
+    published: '2025-08-15T15:28:56+00:00'
+  - title: As Trump and Putin meet, new evidence that 'Russian interference' was US
+      intel deception
+    url: https://www.aaronmate.net/p/as-trump-and-putin-meet-new-evidence
+    text: 'From left to right: DNI James Clapper, CIA Director John Brennan, and NSA
+      Director Mike Rogers, April 24 2015. (Photo by KEVIN DIETSCH/WHITE HOUSE POOL
+      (ISP POOL IMAGES)/Corbis/VCG via Getty Images) Three days before the first summit
+      meeting between Donald Trump and Vladimir Putin in July 2018, FBI Special Counsel
+      Robert Mueller accused Russian intelligence officers of hacking and leaking Democratic
+      Party emails to help Trump defeat Hillary Clinton. Mueller’s conspicuously timed
+      indictment inflamed the all-consuming controversy over Trump’s suspected complicity
+      in a “Russian interference” plot to install him in office. The innuendo reached
+      a fever pitch when Trump stood by Putin at a Helsinki news conference. Before
+      a room of Russiagate-addled journalists on high alert for signs of “collusion”
+      — or a confrontation that could disprove it — Trump said that he believed Putin’s
+      “extremely strong and powerful” denial of meddling in the 2016 election. Trump’s
+      refusal to accept what was widely portrayed as a US intelligence consensus on
+      Russian meddling triggered a political and media meltdown. CNN anchor Anderson
+      Cooper and Republican Sen. John McCain both agreed that Trump had delivered “one
+      of the most disgraceful performances by an American president” in US history.
+      A former U.S. ambassador to Russia, Michael McFaul, declared that with Trump’s
+      comments, the US was now “in the midst of a national security crisis.” CIA Director
+      turned MSNBC analyst John Brennan decreed that Trump’s heresy was not only impeachment-worthy,
+      but “nothing short of treasonous.” With a new Trump-Putin summit beginning today
+      in Alaska, a newly declassified document adds to a growing body of evidence showing
+      that the US president’s skepticism of “Russian interference” was in fact shared
+      at the highest levels of US intelligence. Read more'
+    one_sentence_summary: Three days before the Trump-Putin summit in July 2018, Special
+      Counsel Robert Mueller accused Russian intelligence of hacking Democratic emails
+      to aid Trump's election, intensifying the controversy over alleged Russian interference
+      and Trump's response to Putin's denial of meddling.
+    paragraph_summary: Three days before the first summit between Donald Trump and Vladimir
+      Putin in July 2018, FBI Special Counsel Robert Mueller accused Russian intelligence
+      officers of hacking Democratic Party emails to aid Trump's election against Hillary
+      Clinton, intensifying the controversy over alleged Russian interference. This
+      indictment coincided with Trump's controversial remarks at a Helsinki news conference,
+      where he sided with Putin's denial of meddling, leading to widespread condemnation
+      from media and political figures, including CNN's Anderson Cooper and Senator
+      John McCain, who labeled Trump's performance as disgraceful. The backlash escalated
+      to claims of a national security crisis, with former ambassador Michael McFaul
+      and former CIA Director John Brennan suggesting Trump's stance warranted impeachment
+      or was treasonous. As a new Trump-Putin summit approaches, a recently declassified
+      document indicates that Trump's skepticism about Russian interference was shared
+      by top US intelligence officials, adding complexity to the ongoing debate.
+    published: '2025-08-15T15:28:56+00:00'
   - title: Trump-Putin summit to address Ukraine as new arms race looms
     url: https://www.aaronmate.net/p/trump-putin-summit-to-address-ukraine-d1e
     text: Read by Matthew Alford. Aaron Mate Trump-Putin summit to address Ukraine as
@@ -1057,6 +1216,40 @@ articles:
       by Trump's CIA Director, John Ratcliffe, continues the trend of insufficient accountability
       regarding the allegations surrounding Russiagate.
     published: '2025-07-07T14:20:04+00:00'
+  - title: Ukraine loses key US weapons as Iran takes center stage
+    url: https://www.aaronmate.net/p/ukraine-loses-key-us-weapons-as-iran
+    text: 'Share this post Copy link Facebook Email Notes More Aaron Mate Ukraine loses
+      key US weapons as Iran takes center stage 107 Share this post Copy link Facebook
+      Email Notes More 2 16 1× 0:00 Current time: 0:00 / Total time: -24:40 -24:40 Audio
+      playback is not supported on your browser. Please upgrade. Ukraine loses key US
+      weapons as Iran takes center stage Aaron Maté Jul 02, 2025 107 Share this post
+      Copy link Facebook Email Notes More 2 16 Share Transcript Video: Aaron Mate is
+      a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. Subscribe Discussion about this episode Comments
+      Restacks Share this post Copy link Facebook Email Notes More Aaron Mate Reporting
+      and analysis by award-winning independent journalist. Reporting and analysis by
+      award-winning independent journalist. Subscribe Authors Aaron Maté Recent Episodes
+      Trump-Putin summit to address Ukraine as new arms race looms Aug 11 • Aaron Maté
+      To occupy Gaza, Netanyahu only needs Trump Aug 5 • Aaron Maté Trump admits Gaza
+      is starving; Russiagate reckoning poised to grow Jul 29 • Aaron Maté Listen to
+      this article: As Gaza starves, Trump tells Israel to ''finish the job'' Jul 28
+      • Aaron Maté Listen to this article: US intel concealed high-level doubts about
+      "Russian interference" Jul 23 • Aaron Maté Audio: Trump’s ‘turning point’ on Ukraine
+      war is another empty threat against Russia Jul 15 • Aaron Maté For Trump, Ukraine
+      proxy war and Epstein hype come back to bite Jul 15 • Aaron Maté Audio: Under
+      Trump, the CIA is still covering up its Russiagate fraud Jul 8 • Aaron Maté'
+    one_sentence_summary: The article discusses the loss of key U.S. weapons by Ukraine
+      amid shifting geopolitical dynamics, particularly as Iran becomes a more prominent
+      focus in international relations.
+    paragraph_summary: In the article by Aaron Maté, it is reported that Ukraine is
+      experiencing a significant reduction in key U.S. weapons support amid shifting
+      geopolitical dynamics, particularly as Iran becomes a focal point in international
+      discussions. The piece highlights the implications of this loss for Ukraine's
+      defense capabilities and the broader context of U.S. foreign policy, which appears
+      to be increasingly influenced by developments in Iran. Maté's analysis underscores
+      the complexities of the ongoing conflict in Ukraine and the challenges it faces
+      in securing military aid as global attention pivots.
+    published: '2025-07-02T19:47:49+00:00'
   - title: The Iran war is Trump’s unconditional surrender to Israel
     url: https://www.aaronmate.net/p/the-iran-war-is-trumps-unconditional
     text: '(Photo by Scott Olson/Getty Images) [Note: this article has been updated
