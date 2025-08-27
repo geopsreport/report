@@ -7,16 +7,1554 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  The ongoing crisis in Gaza remains at the center of international attention, with recent developments highlighting both the humanitarian catastrophe and the political complexities surrounding U.S. and Israeli policy. The latest reports underscore a deepening moral and political divide in Western responses to the conflict.
+  As global tensions remain high over the ongoing crisis in Gaza and its international reverberations, recent developments have brought new geopolitical flashpoints to the fore. The humanitarian catastrophe in Gaza continues to dominate discourse, but fresh allegations against Iran and their diplomatic fallout are now shaping the broader regional narrative.
   
-  In a notable shift, U.S. Representative Marjorie Taylor Greene has publicly called for the United States to admit wounded children from Gaza for medical treatment and to prosecute Israeli nationals implicated in child exploitation. **Caitlin Johnstone** points out the significance of this statement, emphasizing that “it’s a damning indictment of U.S. policy that such basic calls for decency are even necessary in the current climate.” This development signals a growing willingness among some U.S. lawmakers to challenge the longstanding bipartisan consensus on unconditional support for Israel, particularly as civilian casualties in Gaza continue to mount.
+  The most significant new development comes from Australia, where Prime Minister Anthony Albanese has announced the expulsion of the Iranian ambassador and the intention to designate Iran’s Islamic Revolutionary Guard Corps as a terrorist organization. This move follows intelligence assessments alleging Iranian involvement in recent antisemitic arson attacks on Australian soil. However, as **Caitlin Johnstone** reports, “there is a conspicuous lack of evidence for these claims,” raising questions about the veracity and motivations behind the Australian government’s actions. The majority of independent analysts echo skepticism, noting the absence of publicly available proof and warning of the potential for escalation based on unsubstantiated intelligence.
   
-  Meanwhile, appeals from Israeli hostages and their families for former President Trump to intervene in brokering a peace deal have gained traction. As **Caitlin Johnstone** observes, these appeals reflect a widespread belief within Israel that Trump possesses the unique influence needed to end the violence and secure the release of remaining hostages. This dynamic illustrates the extent to which U.S. political figures are perceived as central actors in the conflict’s resolution, even as the Biden administration faces mounting criticism for its handling of the crisis.
+  Meanwhile, the humanitarian crisis in Gaza remains acute. Previous reports have established widespread starvation and civilian casualties, with at least 83 percent of those killed in Israeli attacks being civilians, according to a joint investigation by The Guardian and +972 Magazine. The narrative that Hamas is responsible for the famine by stealing aid has been debunked by both Israeli military officials and independent journalists. **Johnstone** stresses that “the dire conditions faced by civilians and the collapse of healthcare infrastructure” are well-documented, contradicting claims that the crisis is exaggerated or fabricated.
   
-  The broader context remains one of entrenched narratives and media manipulation. Recent coverage has highlighted the role of Israeli military public relations units, such as the so-called “Legitimization Cell,” in shaping international perceptions and justifying controversial military actions. This underscores the challenges faced by independent analysts and activists in countering official narratives and advocating for accountability.
+  In terms of broader trends, the internationalization of the Gaza conflict is becoming more pronounced, with Western governments increasingly taking hardline stances against Iran, often without transparent evidence. There is a high chance that this pattern will continue, with further diplomatic expulsions and sanctions quite likely in the coming weeks. The humanitarian situation in Gaza is most definitely set to worsen unless there is a significant shift in policy or international intervention, which at present appears unlikely.
   
-  Looking ahead, the prevailing trend is toward increased polarization in Western political discourse regarding Israel and Palestine. There is a high chance that calls for accountability and humanitarian intervention will intensify, particularly as the humanitarian situation in Gaza deteriorates further. However, absent a major shift in U.S. policy or a breakthrough in negotiations, it is quite likely that the status quo will persist in the near term. The confidence among Israeli stakeholders in Trump’s potential to broker peace suggests that the upcoming U.S. election cycle may become a critical juncture for the conflict’s trajectory.
+  In summary, the latest developments point to a hardening of Western positions against Iran amid ongoing humanitarian disaster in Gaza. The prevailing trend is one of escalating rhetoric and policy moves based on contested intelligence, with the risk of further regional destabilization. Most analysts predict that without a major change in diplomatic approach, these dynamics will persist and intensify.
 articles:
+  - title: 21 Questions About The Claim That Iran Orchestrated Antisemitic Attacks In
+      Australia
+    url: https://www.caitlinjohnst.one/p/21-questions-about-the-claim-that
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Australian prime minister Anthony Albanese has announced that Canberra will be
+      expelling the Iranian ambassador and legislating to list Iran’s Islamic Revolutionary
+      Guard Corps as a terrorist group. Albanese says the move is because an assessment
+      by the intelligence agency ASIO has concluded that Iran used a “complex web of
+      proxies” to orchestrate two antisemitic arson attacks in Australia in order to
+      “undermine social cohesion and sow discord”. As you might expect, not one shred
+      of evidence has been provided for this assertion, much less the giant mountain
+      of rock-solid proof required for intelligence agency credibility in a post-Iraq
+      invasion world. This hasn’t stopped the Murdoch press from going ballistic and
+      framing the assertion as a “bombshell revelation” of an established fact. It also
+      hasn’t stopped Australia’s state broadcaster the ABC from publishing an article
+      by Laura Tingle with the flagrantly propagandistic title “ Revelations Iran was
+      behind antisemitic attacks show IRGC tentacles have reached Australia ”. Evidence-free
+      assertions made by the government are not “revelations”, and to frame them as
+      such is journalistic malpractice. https://x.com/caitoz/status/1960284657062469682
+      The Israeli government has publicly claimed credit for pressuring Albanese to
+      take these actions, after Netanyahu personally inserted himself into Australian
+      affairs by repeatedly publicly expressing outrage about alleged antisemitic incidents
+      in Australia. Anyway, here are 21 questions we should all be asking about these
+      new claims: 1. Where is the evidence? 2. May we please see the evidence? 3. Why
+      can’t we see the evidence? 4. In what way would it benefit Iran to orchestrate
+      antisemitic attacks in Australia? 5. In what way would it benefit Iran to “undermine
+      social cohesion and sow discord” in Australia? 6. Please explain how orchestrating
+      antisemitic attacks in Australia would advance Iranian interests more than the
+      interests of some other state, like, say, just for example, Israel? 7. What foreign
+      intelligence agencies were involved in helping ASIO gather the information it
+      used to make its assessment about the Iranian involvement in these incidents?
+      8. What were the names of all the people in the “complex web of proxies” allegedly
+      used to conduct these attacks which ASIO claims ultimately traced back to Tehran?
+      9. Does Anthony Albanese’s announcement that Iran is staging antisemitic attacks
+      in Australia have anything to do with Benjamin Netanyahu’s stern letter to Albanese
+      a week earlier demanding that the prime minister take action on alleged antisemitic
+      incidents in Australia by the deadline of September 23? 10. Does Albanese’s announcement
+      that Iran is staging antisemitic attacks in Australia have anything to do with
+      the fact that Israel is reportedly very close to initiating another war with Iran
+      ? 11. Does Albanese’s announcement that Iran is staging antisemitic attacks in
+      Australia have anything to do with the way Australians have been filling the streets
+      in massive numbers to protest the Gaza holocaust? 12. Why kick out the Iranian
+      ambassador and designate the IRGC as a terrorist group while keeping the Israeli
+      ambassador in Australia and doing absolutely nothing to stop the IDF during an
+      active genocide? 13. Which state benefits more from the Australian government’s
+      efforts to stomp out free speech in the name of curbing antisemitic incidents
+      : Iran or Israel? 14. Which state would benefit more from fomenting hostilities
+      between Canberra and Tehran: Iran or Israel? 15. Are we being asked to forget
+      the way Australian intelligence services facilitated the lies that led to the
+      invasion of Iraq, or simply to ignore this? 16. Are we being asked to forget the
+      fact that we’ve been lied to and manipulated about all things involving Israel
+      for the last two years, or simply to ignore this? 17. Are we being asked to forget
+      that the claims about “antisemitic attacks” in Australia have been exposed as
+      bogus or riddled with glaring plot holes over and over again since 2023, or simply
+      to ignore this? 18. Are we being asked to forget that supporters of Israel have
+      an extensive history of staging false antisemitic incidents in order to advance
+      the interests of the Zionist state, or simply to ignore this? 19. Does the Australian
+      government believe Australians are all complete slobbering idiots? 2o. Does the
+      Australian government believe Australians are all high on ayahuasca? 21. What
+      specific mental illness, intellectual disability, or chemically-induced altered
+      state of consciousness does the Australian government believe Australians are
+      all suffering from which would cause us to accept these unfounded assertions as
+      true? https://x.com/caitoz/status/1960193991435235574 Of course none of these
+      questions will ever be answered by anyone with real power. The reason it’s ASIO
+      telling us this happened instead of police or investigative journalists is because
+      police and journalists are expected to lay out the evidence for their assertions,
+      while intelligence agencies are not. Whenever the powerful present us with evidence-free
+      incendiary claims of significant consequence, I like to remind my readers of Hitchens’
+      razor : “What can be asserted without evidence can also be dismissed without evidence.”
+      It sure was selfless of the Iranians to orchestrate these attacks against their
+      own interests, solely to benefit the interests of Israel, just as hundreds of
+      thousands of Australians are filling the streets in protest against Israel’s genocidal
+      atrocities, and just as Israel prepares for war with Iran. That sure was kind
+      and charitable of them. Bunch of top blokes, those Iranians. It’s too bad they’re
+      terrorists now. _______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image is a screen grab from ABC News (Fair Use).'
+    one_sentence_summary: Australian Prime Minister Anthony Albanese announced the expulsion
+      of the Iranian ambassador and plans to designate Iran's Islamic Revolutionary
+      Guard Corps as a terrorist group, citing intelligence assessments of Iran's involvement
+      in antisemitic arson attacks in Australia, despite the lack of evidence for these
+      claims.
+    paragraph_summary: Australian Prime Minister Anthony Albanese has announced the
+      expulsion of the Iranian ambassador and plans to designate Iran's Islamic Revolutionary
+      Guard Corps as a terrorist organization, following an assessment by the intelligence
+      agency ASIO that claims Iran orchestrated antisemitic arson attacks in Australia.
+      Albanese's assertions, however, lack evidence, raising concerns about the credibility
+      of the intelligence claims, particularly in light of past intelligence failures.
+      The Murdoch press has heavily reported on these claims, framing them as significant
+      revelations, while critics argue that such unsubstantiated assertions are a form
+      of journalistic malpractice. Additionally, the Israeli government has reportedly
+      influenced Albanese's decision, prompting questions about the motivations behind
+      the alleged Iranian actions and the absence of concrete evidence supporting the
+      government's claims.
+    published: '2025-08-27T02:52:41+00:00'
+  - title: 21 Questions About The Claim That Iran Orchestrated Antisemitic Attacks In
+      Australia
+    url: https://www.caitlinjohnst.one/p/21-questions-about-the-claim-that
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Australian prime minister Anthony Albanese has announced that Canberra will be
+      expelling the Iranian ambassador and legislating to list Iran’s Islamic Revolutionary
+      Guard Corps as a terrorist group. Albanese says the move is because an assessment
+      by the intelligence agency ASIO has concluded that Iran used a “complex web of
+      proxies” to orchestrate two antisemitic arson attacks in Australia in order to
+      “undermine social cohesion and sow discord”. As you might expect, not one shred
+      of evidence has been provided for this assertion, much less the giant mountain
+      of rock-solid proof required for intelligence agency credibility in a post-Iraq
+      invasion world. This hasn’t stopped the Murdoch press from going ballistic and
+      framing the assertion as a “bombshell revelation” of an established fact. It also
+      hasn’t stopped Australia’s state broadcaster the ABC from publishing an article
+      by Laura Tingle with the flagrantly propagandistic title “ Revelations Iran was
+      behind antisemitic attacks show IRGC tentacles have reached Australia ”. Evidence-free
+      assertions made by the government are not “revelations”, and to frame them as
+      such is journalistic malpractice. https://x.com/caitoz/status/1960284657062469682
+      The Israeli government has publicly claimed credit for pressuring Albanese to
+      take these actions, after Netanyahu personally inserted himself into Australian
+      affairs by repeatedly publicly expressing outrage about alleged antisemitic incidents
+      in Australia. Anyway, here are 21 questions we should all be asking about these
+      new claims: 1. Where is the evidence? 2. May we please see the evidence? 3. Why
+      can’t we see the evidence? 4. In what way would it benefit Iran to orchestrate
+      antisemitic attacks in Australia? 5. In what way would it benefit Iran to “undermine
+      social cohesion and sow discord” in Australia? 6. Please explain how orchestrating
+      antisemitic attacks in Australia would advance Iranian interests more than the
+      interests of some other state, like, say, just for example, Israel? 7. What foreign
+      intelligence agencies were involved in helping ASIO gather the information it
+      used to make its assessment about the Iranian involvement in these incidents?
+      8. What were the names of all the people in the “complex web of proxies” allegedly
+      used to conduct these attacks which ASIO claims ultimately traced back to Tehran?
+      9. Does Anthony Albanese’s announcement that Iran is staging antisemitic attacks
+      in Australia have anything to do with Benjamin Netanyahu’s stern letter to Albanese
+      a week earlier demanding that the prime minister take action on alleged antisemitic
+      incidents in Australia by the deadline of September 23? 10. Does Albanese’s announcement
+      that Iran is staging antisemitic attacks in Australia have anything to do with
+      the fact that Israel is reportedly very close to initiating another war with Iran
+      ? 11. Does Albanese’s announcement that Iran is staging antisemitic attacks in
+      Australia have anything to do with the way Australians have been filling the streets
+      in massive numbers to protest the Gaza holocaust? 12. Why kick out the Iranian
+      ambassador and designate the IRGC as a terrorist group while keeping the Israeli
+      ambassador in Australia and doing absolutely nothing to stop the IDF during an
+      active genocide? 13. Which state benefits more from the Australian government’s
+      efforts to stomp out free speech in the name of curbing antisemitic incidents
+      : Iran or Israel? 14. Which state would benefit more from fomenting hostilities
+      between Canberra and Tehran: Iran or Israel? 15. Are we being asked to forget
+      the way Australian intelligence services facilitated the lies that led to the
+      invasion of Iraq, or simply to ignore this? 16. Are we being asked to forget the
+      fact that we’ve been lied to and manipulated about all things involving Israel
+      for the last two years, or simply to ignore this? 17. Are we being asked to forget
+      that the claims about “antisemitic attacks” in Australia have been exposed as
+      bogus or riddled with glaring plot holes over and over again since 2023, or simply
+      to ignore this? 18. Are we being asked to forget that supporters of Israel have
+      an extensive history of staging false antisemitic incidents in order to advance
+      the interests of the Zionist state, or simply to ignore this? 19. Does the Australian
+      government believe Australians are all complete slobbering idiots? 2o. Does the
+      Australian government believe Australians are all high on ayahuasca? 21. What
+      specific mental illness, intellectual disability, or chemically-induced altered
+      state of consciousness does the Australian government believe Australians are
+      all suffering from which would cause us to accept these unfounded assertions as
+      true? https://x.com/caitoz/status/1960193991435235574 Of course none of these
+      questions will ever be answered by anyone with real power. The reason it’s ASIO
+      telling us this happened instead of police or investigative journalists is because
+      police and journalists are expected to lay out the evidence for their assertions,
+      while intelligence agencies are not. Whenever the powerful present us with evidence-free
+      incendiary claims of significant consequence, I like to remind my readers of Hitchens’
+      razor : “What can be asserted without evidence can also be dismissed without evidence.”
+      It sure was selfless of the Iranians to orchestrate these attacks against their
+      own interests, solely to benefit the interests of Israel, just as hundreds of
+      thousands of Australians are filling the streets in protest against Israel’s genocidal
+      atrocities, and just as Israel prepares for war with Iran. That sure was kind
+      and charitable of them. Bunch of top blokes, those Iranians. It’s too bad they’re
+      terrorists now. _______________ Caitlin’s Newsletter is a reader-supported publication.
+      To receive new posts and support my work, consider becoming a free or paid subscriber.
+      The best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image is a screen grab from ABC News (Fair Use).'
+    one_sentence_summary: Australian Prime Minister Anthony Albanese announced the expulsion
+      of the Iranian ambassador and plans to designate Iran's Islamic Revolutionary
+      Guard Corps as a terrorist group, citing intelligence assessments of Iran's involvement
+      in antisemitic arson attacks in Australia, despite the lack of evidence for these
+      claims.
+    paragraph_summary: Australian Prime Minister Anthony Albanese has announced the
+      expulsion of the Iranian ambassador and plans to designate Iran's Islamic Revolutionary
+      Guard Corps as a terrorist organization, following an assessment by the intelligence
+      agency ASIO that claims Iran orchestrated antisemitic arson attacks in Australia.
+      Albanese's assertions, however, lack evidence, raising concerns about the credibility
+      of the intelligence claims, particularly in light of past intelligence failures.
+      The Murdoch press has heavily reported on these claims, framing them as significant
+      revelations, while critics argue that such unsubstantiated assertions are a form
+      of journalistic malpractice. Additionally, the Israeli government has reportedly
+      influenced Albanese's decision, prompting questions about the motivations behind
+      the alleged Iranian actions and the absence of concrete evidence supporting the
+      government's claims.
+    published: '2025-08-27T02:52:41+00:00'
+  - title: Those Who Condemn Hamas Lack Empathy And Humility
+    url: https://www.caitlinjohnst.one/p/those-who-condemn-hamas-lack-empathy
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Whenever I see someone going out of their way to denounce the Palestinian resistance
+      while expressing some vaguely pro-Palestine sentiment, I take it as an admission
+      that they aren’t capable of basic human empathy. They look at October 7 and think
+      “I can’t imagine myself doing that,” and conclude from this that the perpetrators
+      of October 7 must be worse people than they are. They stop their examination there.
+      They never ask themselves what it would have been like to live the life of a young
+      man who ended up joining Hamas. They never ask themselves what it would have been
+      like to live one’s entire life in a giant concentration camp under the thumb a
+      genocidal apartheid state which routinely murders and abuses your countrymen.
+      They simply look at the actions of October 7 from the prism of their own experience
+      as a comfortable western suburbanite on the other side of the world and think,
+      “I would never conduct such an attack; I am much too virtuous and compassionate.”
+      No you’re just too comfortable and coddled, and you’re too much of an emotional
+      infant to consciously put yourself in someone else’s shoes. Any one of us who
+      lived their life in Gaza would have experienced the effects of the tyranny and
+      abusiveness of the Israeli regime, and our worldview would have been shaped accordingly.
+      You would come to hate those who hate you. If they were sufficiently abusive toward
+      you and your loved ones, at some point you would probably experience the desire
+      to return some of the violence your people have been receiving. This would not
+      make you a bad person. It would not mean that you are less moral or righteous
+      than some white westerner sitting on their couch condemning Hamas on social media
+      between mouthfuls of doritos. It would simply mean you were shaped by the conditions
+      of your life, just like everyone else. You can understand Israeli violence using
+      the exact same empathy tools, by the way. Rather than viewing Israelis as innocent
+      little victims responding defensively to unprovoked attacks by murderous savages,
+      or doing the opposite and viewing Jewish people as an inherently wicked race,
+      you can simply ask yourself what it would be like to grow up in an apartheid state
+      whose existence depends on dehumanizing those who don’t belong to the group which
+      that state empowers. How would it shape you to be raised in a very young ethnostate
+      which was dropped on top of a pre-existing civilization whose people never accepted
+      that they ought to be displaced, deprived of basic rights, and live as a permanent
+      lower caste just because they’re a different ethnicity? How would your mind and
+      conscience be formed if you were indoctrinated from a very young age to believe
+      there’s a perfectly good reason why you’re living a much better life than the
+      people in that other group, and that the reason is because the other group is
+      inherently inferior to yours? How would the formation of your worldview play out
+      if you were always being told that you’re surrounded by mindless barbarians who
+      want to kill you because of your religion and can only be brought to heel by brute
+      force? If you think you’d be any better than the average Israeli after such an
+      upbringing, you’re fooling yourself. With a little empathy and humility you can
+      understand that both the Israelis and the Palestinians are conditioned in different
+      ways by the circumstances of their lives and the systems under which they live.
+      The existence of this inherently racist and tyrannical state shapes everyone who
+      lives under it. The creation of a state which cannot be sustained without nonstop
+      violence and abuse was always going to give rise to hatred, trauma and enmity.
+      We were always headed for this point. Between the Palestinians and the Israelis
+      there is a very clear victim and a very clear victimizer, but that’s not because
+      anyone involved is inherently evil. It’s egoically comfortable to sit on our high
+      horse and see Virtuous Good Guys over here and Villainous Bad Guys over there,
+      but real life doesn’t work that way. In real life, any of us could have been Hamas,
+      and any of us could have been a genocidal IDF soldier. If you can’t see this,
+      it’s because you lack empathy and humility. That’s a character flaw, and you should
+      do what you can to change that about yourself. As with so much else, it’s not
+      about the individuals, it’s about the system. The unjust system upon which the
+      Zionist state is based has proved beyond a shadow of a doubt that it can never
+      exist without nonstop violence and abuse, so that system needs to be dismantled
+      and replaced with something radically different, just as was the case with Nazi
+      Germany and apartheid South Africa. And just as was the case with Nazi Germany
+      and apartheid South Africa, external pressures will probably need to play a role
+      in forcing that change to take place. That’s the only way forward. That’s the
+      only way there can be peace. __________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Mart Madigan ( CC BY 2.0
+      )'
+    one_sentence_summary: The article critiques those who condemn Palestinian resistance
+      while expressing vague support for Palestine, arguing that they lack empathy and
+      fail to consider the harsh realities faced by individuals living under oppressive
+      conditions, which can lead to extreme actions like those seen on October 7.
+    paragraph_summary: The article critiques individuals who condemn the Palestinian
+      resistance while expressing superficial pro-Palestine sentiments, arguing that
+      such attitudes reflect a lack of empathy and understanding of the complex realities
+      faced by those living under oppressive conditions, such as in Gaza. The author
+      suggests that many people, particularly those in comfortable Western environments,
+      fail to consider the life experiences that lead individuals to join groups like
+      Hamas, viewing violent actions solely through their own privileged perspectives.
+      By not empathizing with the struggles and trauma of those in conflict zones, these
+      individuals miss the broader context of violence and suffering, which shapes people's
+      responses to oppression. The piece calls for a deeper understanding of the motivations
+      behind such actions, emphasizing that experiencing violence and oppression can
+      lead to a desire for retaliation, which does not inherently make someone a bad
+      person.
+    published: '2025-08-26T01:25:13+00:00'
+  - title: Those Who Condemn Hamas Lack Empathy And Humility
+    url: https://www.caitlinjohnst.one/p/those-who-condemn-hamas-lack-empathy
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Whenever I see someone going out of their way to denounce the Palestinian resistance
+      while expressing some vaguely pro-Palestine sentiment, I take it as an admission
+      that they aren’t capable of basic human empathy. They look at October 7 and think
+      “I can’t imagine myself doing that,” and conclude from this that the perpetrators
+      of October 7 must be worse people than they are. They stop their examination there.
+      They never ask themselves what it would have been like to live the life of a young
+      man who ended up joining Hamas. They never ask themselves what it would have been
+      like to live one’s entire life in a giant concentration camp under the thumb a
+      genocidal apartheid state which routinely murders and abuses your countrymen.
+      They simply look at the actions of October 7 from the prism of their own experience
+      as a comfortable western suburbanite on the other side of the world and think,
+      “I would never conduct such an attack; I am much too virtuous and compassionate.”
+      No you’re just too comfortable and coddled, and you’re too much of an emotional
+      infant to consciously put yourself in someone else’s shoes. Any one of us who
+      lived their life in Gaza would have experienced the effects of the tyranny and
+      abusiveness of the Israeli regime, and our worldview would have been shaped accordingly.
+      You would come to hate those who hate you. If they were sufficiently abusive toward
+      you and your loved ones, at some point you would probably experience the desire
+      to return some of the violence your people have been receiving. This would not
+      make you a bad person. It would not mean that you are less moral or righteous
+      than some white westerner sitting on their couch condemning Hamas on social media
+      between mouthfuls of doritos. It would simply mean you were shaped by the conditions
+      of your life, just like everyone else. You can understand Israeli violence using
+      the exact same empathy tools, by the way. Rather than viewing Israelis as innocent
+      little victims responding defensively to unprovoked attacks by murderous savages,
+      or doing the opposite and viewing Jewish people as an inherently wicked race,
+      you can simply ask yourself what it would be like to grow up in an apartheid state
+      whose existence depends on dehumanizing those who don’t belong to the group which
+      that state empowers. How would it shape you to be raised in a very young ethnostate
+      which was dropped on top of a pre-existing civilization whose people never accepted
+      that they ought to be displaced, deprived of basic rights, and live as a permanent
+      lower caste just because they’re a different ethnicity? How would your mind and
+      conscience be formed if you were indoctrinated from a very young age to believe
+      there’s a perfectly good reason why you’re living a much better life than the
+      people in that other group, and that the reason is because the other group is
+      inherently inferior to yours? How would the formation of your worldview play out
+      if you were always being told that you’re surrounded by mindless barbarians who
+      want to kill you because of your religion and can only be brought to heel by brute
+      force? If you think you’d be any better than the average Israeli after such an
+      upbringing, you’re fooling yourself. With a little empathy and humility you can
+      understand that both the Israelis and the Palestinians are conditioned in different
+      ways by the circumstances of their lives and the systems under which they live.
+      The existence of this inherently racist and tyrannical state shapes everyone who
+      lives under it. The creation of a state which cannot be sustained without nonstop
+      violence and abuse was always going to give rise to hatred, trauma and enmity.
+      We were always headed for this point. Between the Palestinians and the Israelis
+      there is a very clear victim and a very clear victimizer, but that’s not because
+      anyone involved is inherently evil. It’s egoically comfortable to sit on our high
+      horse and see Virtuous Good Guys over here and Villainous Bad Guys over there,
+      but real life doesn’t work that way. In real life, any of us could have been Hamas,
+      and any of us could have been a genocidal IDF soldier. If you can’t see this,
+      it’s because you lack empathy and humility. That’s a character flaw, and you should
+      do what you can to change that about yourself. As with so much else, it’s not
+      about the individuals, it’s about the system. The unjust system upon which the
+      Zionist state is based has proved beyond a shadow of a doubt that it can never
+      exist without nonstop violence and abuse, so that system needs to be dismantled
+      and replaced with something radically different, just as was the case with Nazi
+      Germany and apartheid South Africa. And just as was the case with Nazi Germany
+      and apartheid South Africa, external pressures will probably need to play a role
+      in forcing that change to take place. That’s the only way forward. That’s the
+      only way there can be peace. __________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Mart Madigan ( CC BY 2.0
+      )'
+    one_sentence_summary: The article critiques those who condemn Palestinian resistance
+      while expressing vague support for Palestine, arguing that they lack empathy and
+      fail to consider the harsh realities faced by individuals living under oppressive
+      conditions, which can lead to extreme actions like those seen on October 7.
+    paragraph_summary: The article critiques individuals who condemn the Palestinian
+      resistance while expressing superficial pro-Palestine sentiments, arguing that
+      such attitudes reflect a lack of empathy and understanding of the complex realities
+      faced by those living under oppressive conditions, such as in Gaza. The author
+      suggests that many people, particularly those in comfortable Western environments,
+      fail to consider the life experiences that lead individuals to join groups like
+      Hamas, viewing violent actions solely through their own privileged perspectives.
+      By not empathizing with the struggles and trauma of those in conflict zones, these
+      individuals miss the broader context of violence and suffering, which shapes people's
+      responses to oppression. The piece calls for a deeper understanding of the motivations
+      behind such actions, emphasizing that experiencing violence and oppression can
+      lead to a desire for retaliation, which does not inherently make someone a bad
+      person.
+    published: '2025-08-26T01:25:13+00:00'
+  - title: '"Is Hamas Causing The Famine?", And Other Reader Questions'
+    url: https://www.caitlinjohnst.one/p/is-hamas-causing-the-famine-and-other
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Silvia asks on Facebook, “Many people in Europe are convinced that the famine
+      in Gaza is caused by Hamas stealing humanitarian supplies. Where is the truth?”
+      The truth is that this is a propaganda narrative which has been debunked by some
+      of the most pro-Israel, pro-establishment sources you can imagine. The New York
+      Times reported last month that senior Israeli military officials had said this
+      is false: “For nearly two years, Israel has accused Hamas of stealing aid provided
+      by the United Nations and other international organizations. The government has
+      used that claim as its main rationale for restricting food from entering Gaza.
+      “But the Israeli military never found proof that the Palestinian militant group
+      had systematically stolen aid from the United Nations, the biggest supplier of
+      emergency assistance to Gaza for most of the war, according to two senior Israeli
+      military officials and two other Israelis involved in the matter.” Also last month,
+      Reuters reported the following: An internal U.S. government analysis found no
+      evidence of systematic theft by the Palestinian militant group Hamas of U.S.-funded
+      humanitarian supplies, challenging the main rationale that Israel and the U.S.
+      give for backing a new armed private aid operation. The analysis, which has not
+      been previously reported, was conducted by a bureau within the U.S. Agency for
+      International Development and completed in late June. It examined 156 incidents
+      of theft or loss of U.S.-funded supplies reported by U.S. aid partner organizations
+      between October 2023 and this May. These are mainstream media sources citing Israeli
+      military officials and the US government, respectively. This claim could not be
+      more thoroughly debunked than it is, and it’s insane that I still see people trying
+      to push it. Every major human rights group is in agreement that people in Gaza
+      are starving because Israel is starving them, from Doctors Without Borders to
+      Amnesty International to Human Rights Watch to UN special rapporteurs to hundreds
+      of NGOs . This is a settled matter. ❖ We Are The Many, They Are The Few on Twitter
+      asks, “A question, how do you see yourself politically? You’ve mentioned you’re
+      not a Marxist, but you do seem close to it.” The best way I’ve been able to sum
+      up my politics is that I support shoving things as far to the left as possible
+      until we get a healthy world. Shoving as far away from capitalism, ecocide, militarism,
+      empire-building, oppression and exploitation as is necessary to have a peaceful
+      and harmonious world where everyone gets what they need and we’re not cannibalizing
+      our biosphere for shareholder profits. I probably am pretty close to a Marxist
+      in a lot of ways, but I avoid categorizing myself as such for a couple of personal
+      reasons which are unlikely to be of interest to many people. Firstly, I try to
+      avoid joining up with any ideological factions because humanity is still in a
+      state of extreme delusion at present, so even the best political groups will be
+      full of wildly dysfunctional individuals whose thinking and behavior I’d rather
+      keep at arm’s length to make sure I stay on the right track. I’ll help with leftist
+      movements and agendas where I can be of service in my own capacity like I am with
+      Palestine right now, but I personally don’t find that aligning myself with any
+      group is a safe move at this point in the human adventure. Secondly I try to avoid
+      limiting my thinking to anyone else’s -ists or -isms. I’ve seen a lot of Marxists
+      get super religious about it and close themselves off to whole aspects of human
+      psychology and spirituality just because of something some dead guy said in the
+      1880s. That’s something I find too confining as a writer, as a thinker, and as
+      a human organism. ❖ Teddy on Substack asks, “Your paintings absolutely rival your
+      writing. Have you had formal art training or are you a self discovered painter?”
+      Art was my best subject in school and I’ve always enjoyed it, but I never really
+      buckled down and pursued it in a disciplined way until Covid when I taught myself
+      oil painting through some online courses. Before that I mostly did watercolor,
+      block printing, and drawing. ❖ misschryss on Twitter asks, “Where do you find
+      the time to write so prolifically? And do you ever use AI to help you write? How
+      do you make a living?” I’m fortunate enough to be an entirely reader-funded writer
+      , with many small donors supporting this project so that I and my husband/cowriter
+      can work at this thing full-time. I have never used AI to help me write, and I
+      never will. I honestly don’t believe AI will ever be able to do what I do, because
+      so much of it comes from inspiration and insight that machines will never be able
+      to imitate. With regard to staying prolific (major overshare incoming), one indispensable
+      tool is maintaining high sexual energy. Men can train themselves to orgasm without
+      ejaculating, allowing a high level of sexual energy to be maintained at all times
+      which two partners can then keep stoked in each other with mutual attraction.
+      This allows for a fairly stable state of inspiration and creative output where
+      your intense attraction to each other turns you both into each other’s muse. ❖
+      The Revolution Continues asks on Substack, “Question for Caitlin and Tim: What
+      is your writing process like? Do you come up with ideas for a piece separately
+      and write the article separately, then come together and discuss and revise together
+      or is the opposite — you write and discuss together and then separately revise?
+      Thanks for letting us take a look into your heads!” The only thing I do separately
+      from Tim in this project is the painting; the writing is intimately collaborative.
+      Articles typically start with a conversation where one of us says something interesting
+      or insightful, and we unpack it verbally before turning it into text. The sparkliest
+      lines you’ll read here are usually a repetition of something we’d said out loud
+      to each other not long before, often verbatim. We live and work joined at the
+      hip; we’re both writers and we enjoy writing, but one of the main reasons we love
+      this job so much is because it has allowed us to be together every day. We had
+      a long-distance relationship from 2014 to 2016 before Tim came to Australia from
+      the US, and ever since we’ve been together we’ve avoided spending any time apart.
+      Being separate that whole time was excruciating, but it really made us appreciate
+      how much we like being near each other. In terms of what our individual roles
+      are, I’m more of the big-picture guiding vision for the overall spirit and direction
+      of the project, and Tim’s better at the details. One way of describing it is that
+      what we write is more Caitlin, how it’s written is more Tim. The general mood,
+      ideology, content and character of these writings is more Caitlin, but that one
+      liner or crackling bit of prose that stuck in your memory is more likely to have
+      come from Tim. But there’s extensive overlap in both of those areas too. Like
+      I said, it’s intimately collaborative. If you have a question or comment you’d
+      like a response to, just write it in the replies section of whatever platform
+      you’re reading this on and I’ll try to get to it. ______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that the narrative claiming Hamas is stealing
+      humanitarian supplies in Gaza, which has been used by Israel to justify food restrictions,
+      is false and unsupported by evidence, as confirmed by senior Israeli military
+      officials.
+    paragraph_summary: The article addresses the misconception that Hamas is stealing
+      humanitarian supplies in Gaza, which has been used by Israel to justify restrictions
+      on food and aid. It highlights that both Israeli military officials and a U.S.
+      government analysis have found no evidence supporting the claim of systematic
+      theft by Hamas. The New York Times reported that Israeli officials admitted they
+      had not proven such theft, while a U.S. Agency for International Development analysis
+      confirmed that allegations of theft of U.S.-funded supplies were unfounded. The
+      article emphasizes that major human rights organizations agree that the famine
+      in Gaza is primarily due to Israeli-imposed restrictions, not theft by Hamas.
+    published: '2025-08-25T02:59:20+00:00'
+  - title: '"Is Hamas Causing The Famine?", And Other Reader Questions'
+    url: https://www.caitlinjohnst.one/p/is-hamas-causing-the-famine-and-other
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Silvia asks on Facebook, “Many people in Europe are convinced that the famine
+      in Gaza is caused by Hamas stealing humanitarian supplies. Where is the truth?”
+      The truth is that this is a propaganda narrative which has been debunked by some
+      of the most pro-Israel, pro-establishment sources you can imagine. The New York
+      Times reported last month that senior Israeli military officials had said this
+      is false: “For nearly two years, Israel has accused Hamas of stealing aid provided
+      by the United Nations and other international organizations. The government has
+      used that claim as its main rationale for restricting food from entering Gaza.
+      “But the Israeli military never found proof that the Palestinian militant group
+      had systematically stolen aid from the United Nations, the biggest supplier of
+      emergency assistance to Gaza for most of the war, according to two senior Israeli
+      military officials and two other Israelis involved in the matter.” Also last month,
+      Reuters reported the following: An internal U.S. government analysis found no
+      evidence of systematic theft by the Palestinian militant group Hamas of U.S.-funded
+      humanitarian supplies, challenging the main rationale that Israel and the U.S.
+      give for backing a new armed private aid operation. The analysis, which has not
+      been previously reported, was conducted by a bureau within the U.S. Agency for
+      International Development and completed in late June. It examined 156 incidents
+      of theft or loss of U.S.-funded supplies reported by U.S. aid partner organizations
+      between October 2023 and this May. These are mainstream media sources citing Israeli
+      military officials and the US government, respectively. This claim could not be
+      more thoroughly debunked than it is, and it’s insane that I still see people trying
+      to push it. Every major human rights group is in agreement that people in Gaza
+      are starving because Israel is starving them, from Doctors Without Borders to
+      Amnesty International to Human Rights Watch to UN special rapporteurs to hundreds
+      of NGOs . This is a settled matter. ❖ We Are The Many, They Are The Few on Twitter
+      asks, “A question, how do you see yourself politically? You’ve mentioned you’re
+      not a Marxist, but you do seem close to it.” The best way I’ve been able to sum
+      up my politics is that I support shoving things as far to the left as possible
+      until we get a healthy world. Shoving as far away from capitalism, ecocide, militarism,
+      empire-building, oppression and exploitation as is necessary to have a peaceful
+      and harmonious world where everyone gets what they need and we’re not cannibalizing
+      our biosphere for shareholder profits. I probably am pretty close to a Marxist
+      in a lot of ways, but I avoid categorizing myself as such for a couple of personal
+      reasons which are unlikely to be of interest to many people. Firstly, I try to
+      avoid joining up with any ideological factions because humanity is still in a
+      state of extreme delusion at present, so even the best political groups will be
+      full of wildly dysfunctional individuals whose thinking and behavior I’d rather
+      keep at arm’s length to make sure I stay on the right track. I’ll help with leftist
+      movements and agendas where I can be of service in my own capacity like I am with
+      Palestine right now, but I personally don’t find that aligning myself with any
+      group is a safe move at this point in the human adventure. Secondly I try to avoid
+      limiting my thinking to anyone else’s -ists or -isms. I’ve seen a lot of Marxists
+      get super religious about it and close themselves off to whole aspects of human
+      psychology and spirituality just because of something some dead guy said in the
+      1880s. That’s something I find too confining as a writer, as a thinker, and as
+      a human organism. ❖ Teddy on Substack asks, “Your paintings absolutely rival your
+      writing. Have you had formal art training or are you a self discovered painter?”
+      Art was my best subject in school and I’ve always enjoyed it, but I never really
+      buckled down and pursued it in a disciplined way until Covid when I taught myself
+      oil painting through some online courses. Before that I mostly did watercolor,
+      block printing, and drawing. ❖ misschryss on Twitter asks, “Where do you find
+      the time to write so prolifically? And do you ever use AI to help you write? How
+      do you make a living?” I’m fortunate enough to be an entirely reader-funded writer
+      , with many small donors supporting this project so that I and my husband/cowriter
+      can work at this thing full-time. I have never used AI to help me write, and I
+      never will. I honestly don’t believe AI will ever be able to do what I do, because
+      so much of it comes from inspiration and insight that machines will never be able
+      to imitate. With regard to staying prolific (major overshare incoming), one indispensable
+      tool is maintaining high sexual energy. Men can train themselves to orgasm without
+      ejaculating, allowing a high level of sexual energy to be maintained at all times
+      which two partners can then keep stoked in each other with mutual attraction.
+      This allows for a fairly stable state of inspiration and creative output where
+      your intense attraction to each other turns you both into each other’s muse. ❖
+      The Revolution Continues asks on Substack, “Question for Caitlin and Tim: What
+      is your writing process like? Do you come up with ideas for a piece separately
+      and write the article separately, then come together and discuss and revise together
+      or is the opposite — you write and discuss together and then separately revise?
+      Thanks for letting us take a look into your heads!” The only thing I do separately
+      from Tim in this project is the painting; the writing is intimately collaborative.
+      Articles typically start with a conversation where one of us says something interesting
+      or insightful, and we unpack it verbally before turning it into text. The sparkliest
+      lines you’ll read here are usually a repetition of something we’d said out loud
+      to each other not long before, often verbatim. We live and work joined at the
+      hip; we’re both writers and we enjoy writing, but one of the main reasons we love
+      this job so much is because it has allowed us to be together every day. We had
+      a long-distance relationship from 2014 to 2016 before Tim came to Australia from
+      the US, and ever since we’ve been together we’ve avoided spending any time apart.
+      Being separate that whole time was excruciating, but it really made us appreciate
+      how much we like being near each other. In terms of what our individual roles
+      are, I’m more of the big-picture guiding vision for the overall spirit and direction
+      of the project, and Tim’s better at the details. One way of describing it is that
+      what we write is more Caitlin, how it’s written is more Tim. The general mood,
+      ideology, content and character of these writings is more Caitlin, but that one
+      liner or crackling bit of prose that stuck in your memory is more likely to have
+      come from Tim. But there’s extensive overlap in both of those areas too. Like
+      I said, it’s intimately collaborative. If you have a question or comment you’d
+      like a response to, just write it in the replies section of whatever platform
+      you’re reading this on and I’ll try to get to it. ______________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that the narrative claiming Hamas is stealing
+      humanitarian supplies in Gaza, which has been used by Israel to justify food restrictions,
+      is false and unsupported by evidence, as confirmed by senior Israeli military
+      officials.
+    paragraph_summary: The article addresses the misconception that Hamas is stealing
+      humanitarian supplies in Gaza, which has been used by Israel to justify restrictions
+      on food and aid. It highlights that both Israeli military officials and a U.S.
+      government analysis have found no evidence supporting the claim of systematic
+      theft by Hamas. The New York Times reported that Israeli officials admitted they
+      had not proven such theft, while a U.S. Agency for International Development analysis
+      confirmed that allegations of theft of U.S.-funded supplies were unfounded. The
+      article emphasizes that major human rights organizations agree that the famine
+      in Gaza is primarily due to Israeli-imposed restrictions, not theft by Hamas.
+    published: '2025-08-25T02:59:20+00:00'
+  - title: Never Forget The Lies They Told About Gaza. Never Forgive Them.
+    url: https://www.caitlinjohnst.one/p/never-forget-the-lies-they-told-about
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now A joint investigation by The Guardian and
+      +972 Magazine found that the IDF’s own records show that civilians make up at
+      least 83 percent of those killed in Israeli attacks on Gaza. The report notes
+      that the real number is likely significantly higher, since the number given doesn’t
+      include the thousands upon thousands of dead civilians who are still unaccounted
+      for in Gaza because they are trapped under the rubble, or those killed by indirect
+      means such as starvation or disease. The pro-Israel spin machine frantically tried
+      to discredit this report as soon as it came out, but their arguments have been
+      soundly debunked . They claimed that Israel has a phenomenally low civilian-to-combatant
+      casualty ratio, then Israel’s own data proved that civilians comprise the vast
+      majority of those killed by the IDF. They denied that Israel is starving Gaza,
+      then the IPC came out with a report saying that Israel is starving Gaza. They
+      tried to claim that the skeletal children we’re seeing in Gaza looked that way
+      because of pre-existing conditions, then the Israeli press published an extensive
+      report showing that children with no pre-existing conditions are being starved.
+      They tried to deny that Israeli soldiers were massacring civilians at aid sites,
+      then the Israeli soldiers themselves told the Israeli press that they were being
+      ordered to massacre civilians at aid sites. Never forget all the monsters who
+      tried to gaslight you and convince you that you are crazy and hateful for saying
+      these things are happening. Never, ever forgive them. https://x.com/caitoz/status/1959574734766809566
+      ❖ The IDF has admitted to uprooting thousands of olive trees in the West Bank
+      on Thursday. The routine destruction of Palestinian olive trees is not the most
+      shocking or evil thing that Israel does to the Palestinians, but it does speak
+      to what its true intentions are in a unique way. Similar to the way white people
+      killed off all the bison to help eliminate the American Indians , killing olive
+      trees deprives Palestinians of an important means of earning a living, and strikes
+      at an important aspect of Palestinian identity and culture. Olive trees can live
+      for thousands of years ; people with a strong attachment to the land treasure
+      and protect them, while the Israelis who claim to be “indigenous” to the area
+      are destroying them and replacing them with highly flammable foreign plants .
+      You can tell who the actual indigenous population is by watching their behavior.
+      ❖ Normal person: Genocide is bad Crazy person: Woah hey, let’s not get political
+      ❖ Right wingers are like “No no you don’t understand, Israel is protecting western
+      civilization. If we don’t help Israel genocide the Palestinians and starve their
+      children and burn their babies and bomb their hospitals and demolish their cities,
+      one day we could wind up ruled by evil murderous savages.” ❖ Normal person: Oh
+      no those people over there are committing genocide! Crazy person: Okay but what
+      religion are they? ❖ The way Zionists talk about Palestinian hatred of Jews you’d
+      think the Palestinians immigrated to Israel from somewhere else in 1948 in order
+      to attack Jewish people. ❖ In 1937, Winston Churchill stated the following while
+      arguing in favor of allowing Jews to settle in Palestine: “I do not admit that
+      the dog in the manger has the final right to the manger, even though he may have
+      lain there for a very long time. I do not admit that right. I do not admit, for
+      instance, that a great wrong has been done to the Red Indians of America, or the
+      black people of Australia. I do not admit that a wrong has been done to those
+      people by the fact that a stronger race, a higher-grade race, or, at any rate,
+      a more worldly-wise race, to put it that way, has come in and taken their place.
+      I do not admit it. I do not think the Red Indians had any right to say, The American
+      Continent belongs to us and we are not going to have any of these European settlers
+      coming in here. They had not the right, nor had they the power.” Churchill knew
+      exactly what he was looking at in the Zionist agenda to colonize Palestine . There
+      was no confusion whatsoever. It wasn’t until much later that history was revised
+      through propaganda to spin this as something other than the western settler-colonialist
+      project that it has always been. ❖ The other day I wrote the following in a rant
+      about religious Zionists: “Someone like Mike Huckabee is never telling the truth
+      or saying what he really thinks is going on when it comes to Israel and the Palestinians,
+      he’s just making whatever mouth noises he needs to make to help fulfill a Biblical
+      prophecy and secure his eternal reward. Such people have no place in the conversation.
+      They should be completely excluded from the debate, because they are not actually
+      participating in it. They’re just lying and manipulating for reasons that have
+      nothing to do with truth or morality.” The very next day, Antiwar published an
+      article titled “ Mike Huckabee Claims Israeli Settlements in the Occupied West
+      Bank Are Not Illegal Under International Law ”. Like I said. Huckabee does not
+      believe this obvious falsehood, he’s just saying whatever words he needs to say
+      to help advance the agendas of his weird Christian cult. These freaks consider
+      themselves so pious and righteous, but in reality they are some of the most conniving,
+      unethical deceivers our world has ever seen. ❖ It just occurred to me that at
+      some point in the future they’re going to try to demand that we condemn whatever
+      radicalized groups and militias wind up emerging as a result of the Gaza genocide.
+      That’s gonna be cute. __________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: A joint investigation by The Guardian and +972 Magazine reveals
+      that at least 83 percent of those killed in Israeli attacks on Gaza are civilians,
+      a figure likely underreported due to many unaccounted deaths, despite attempts
+      by pro-Israel advocates to discredit the findings.
+    paragraph_summary: A joint investigation by The Guardian and +972 Magazine reveals
+      that at least 83 percent of those killed in Israeli attacks on Gaza are civilians,
+      with the actual number likely being higher due to unaccounted casualties trapped
+      under rubble or dying from indirect causes like starvation and disease. Despite
+      attempts by pro-Israel advocates to discredit the report, their arguments have
+      been effectively debunked, as evidence shows a high civilian casualty rate and
+      ongoing starvation in Gaza. Additionally, Israeli soldiers have admitted to receiving
+      orders to target civilians at aid sites. The article emphasizes the importance
+      of remembering and not forgiving those who attempt to distort the truth about
+      these events. In a related development, the IDF has acknowledged the destruction
+      of thousands of olive trees in the West Bank, highlighting the broader implications
+      of Israel's actions against Palestinians.
+    published: '2025-08-24T12:09:12+00:00'
+  - title: Never Forget The Lies They Told About Gaza. Never Forgive Them.
+    url: https://www.caitlinjohnst.one/p/never-forget-the-lies-they-told-about
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now A joint investigation by The Guardian and
+      +972 Magazine found that the IDF’s own records show that civilians make up at
+      least 83 percent of those killed in Israeli attacks on Gaza. The report notes
+      that the real number is likely significantly higher, since the number given doesn’t
+      include the thousands upon thousands of dead civilians who are still unaccounted
+      for in Gaza because they are trapped under the rubble, or those killed by indirect
+      means such as starvation or disease. The pro-Israel spin machine frantically tried
+      to discredit this report as soon as it came out, but their arguments have been
+      soundly debunked . They claimed that Israel has a phenomenally low civilian-to-combatant
+      casualty ratio, then Israel’s own data proved that civilians comprise the vast
+      majority of those killed by the IDF. They denied that Israel is starving Gaza,
+      then the IPC came out with a report saying that Israel is starving Gaza. They
+      tried to claim that the skeletal children we’re seeing in Gaza looked that way
+      because of pre-existing conditions, then the Israeli press published an extensive
+      report showing that children with no pre-existing conditions are being starved.
+      They tried to deny that Israeli soldiers were massacring civilians at aid sites,
+      then the Israeli soldiers themselves told the Israeli press that they were being
+      ordered to massacre civilians at aid sites. Never forget all the monsters who
+      tried to gaslight you and convince you that you are crazy and hateful for saying
+      these things are happening. Never, ever forgive them. https://x.com/caitoz/status/1959574734766809566
+      ❖ The IDF has admitted to uprooting thousands of olive trees in the West Bank
+      on Thursday. The routine destruction of Palestinian olive trees is not the most
+      shocking or evil thing that Israel does to the Palestinians, but it does speak
+      to what its true intentions are in a unique way. Similar to the way white people
+      killed off all the bison to help eliminate the American Indians , killing olive
+      trees deprives Palestinians of an important means of earning a living, and strikes
+      at an important aspect of Palestinian identity and culture. Olive trees can live
+      for thousands of years ; people with a strong attachment to the land treasure
+      and protect them, while the Israelis who claim to be “indigenous” to the area
+      are destroying them and replacing them with highly flammable foreign plants .
+      You can tell who the actual indigenous population is by watching their behavior.
+      ❖ Normal person: Genocide is bad Crazy person: Woah hey, let’s not get political
+      ❖ Right wingers are like “No no you don’t understand, Israel is protecting western
+      civilization. If we don’t help Israel genocide the Palestinians and starve their
+      children and burn their babies and bomb their hospitals and demolish their cities,
+      one day we could wind up ruled by evil murderous savages.” ❖ Normal person: Oh
+      no those people over there are committing genocide! Crazy person: Okay but what
+      religion are they? ❖ The way Zionists talk about Palestinian hatred of Jews you’d
+      think the Palestinians immigrated to Israel from somewhere else in 1948 in order
+      to attack Jewish people. ❖ In 1937, Winston Churchill stated the following while
+      arguing in favor of allowing Jews to settle in Palestine: “I do not admit that
+      the dog in the manger has the final right to the manger, even though he may have
+      lain there for a very long time. I do not admit that right. I do not admit, for
+      instance, that a great wrong has been done to the Red Indians of America, or the
+      black people of Australia. I do not admit that a wrong has been done to those
+      people by the fact that a stronger race, a higher-grade race, or, at any rate,
+      a more worldly-wise race, to put it that way, has come in and taken their place.
+      I do not admit it. I do not think the Red Indians had any right to say, The American
+      Continent belongs to us and we are not going to have any of these European settlers
+      coming in here. They had not the right, nor had they the power.” Churchill knew
+      exactly what he was looking at in the Zionist agenda to colonize Palestine . There
+      was no confusion whatsoever. It wasn’t until much later that history was revised
+      through propaganda to spin this as something other than the western settler-colonialist
+      project that it has always been. ❖ The other day I wrote the following in a rant
+      about religious Zionists: “Someone like Mike Huckabee is never telling the truth
+      or saying what he really thinks is going on when it comes to Israel and the Palestinians,
+      he’s just making whatever mouth noises he needs to make to help fulfill a Biblical
+      prophecy and secure his eternal reward. Such people have no place in the conversation.
+      They should be completely excluded from the debate, because they are not actually
+      participating in it. They’re just lying and manipulating for reasons that have
+      nothing to do with truth or morality.” The very next day, Antiwar published an
+      article titled “ Mike Huckabee Claims Israeli Settlements in the Occupied West
+      Bank Are Not Illegal Under International Law ”. Like I said. Huckabee does not
+      believe this obvious falsehood, he’s just saying whatever words he needs to say
+      to help advance the agendas of his weird Christian cult. These freaks consider
+      themselves so pious and righteous, but in reality they are some of the most conniving,
+      unethical deceivers our world has ever seen. ❖ It just occurred to me that at
+      some point in the future they’re going to try to demand that we condemn whatever
+      radicalized groups and militias wind up emerging as a result of the Gaza genocide.
+      That’s gonna be cute. __________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2'
+    one_sentence_summary: A joint investigation by The Guardian and +972 Magazine reveals
+      that at least 83 percent of those killed in Israeli attacks on Gaza are civilians,
+      a figure likely underreported due to many unaccounted deaths, despite attempts
+      by pro-Israel advocates to discredit the findings.
+    paragraph_summary: A joint investigation by The Guardian and +972 Magazine reveals
+      that at least 83 percent of those killed in Israeli attacks on Gaza are civilians,
+      with the actual number likely being higher due to unaccounted casualties trapped
+      under rubble or dying from indirect causes like starvation and disease. Despite
+      attempts by pro-Israel advocates to discredit the report, their arguments have
+      been effectively debunked, as evidence shows a high civilian casualty rate and
+      ongoing starvation in Gaza. Additionally, Israeli soldiers have admitted to receiving
+      orders to target civilians at aid sites. The article emphasizes the importance
+      of remembering and not forgiving those who attempt to distort the truth about
+      these events. In a related development, the IDF has acknowledged the destruction
+      of thousands of olive trees in the West Bank, highlighting the broader implications
+      of Israel's actions against Palestinians.
+    published: '2025-08-24T12:09:12+00:00'
+  - title: Only Liars And Manipulators Say Gaza Isn't Starving
+    url: https://www.caitlinjohnst.one/p/only-liars-and-manipulators-say-gaza
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Israeli news outlet Haaretz has published a harrowing report on starvation in
+      Gaza which further discredits the Israeli narrative that the photos of skeletal
+      children we’ve been seeing are antisemitic Hamas propaganda, for anyone who’s
+      still clinging to delusions about such things. Haaretz reporters were taken by
+      doctors on video tours of hospitals in Gaza, conducting interviews with numerous
+      medical personnel and obtaining many photos of civilians showing signs of extreme
+      starvation. Throughout the report we encounter story after story of severely emaciated
+      children, mothers unable to breastfeed starving babies because of their own starvation,
+      people with preexisting conditions severely exacerbated by malnutrition, diseases
+      spreading due to crippled healthcare infrastructure and ruined immune systems,
+      and wounds failing to heal due to inadequate food intake. The article is one of
+      the more uncomfortable things I’ve seen throughout the entirety of this genocide,
+      and that’s saying something. “What we saw there left no room for doubt about the
+      scale of the horror,” write Haaretz reporters Yarden Michaeli and Nir Hasson.
+      “Seventeen youngsters had deteriorated into a state of severe malnutrition without
+      preexisting health conditions; 10 suffered from previous illnesses,” they write,
+      saying “Anyone who claims that the images of starvation in the Gaza Strip are
+      a result of acute genetic or other diseases, and not due to a grave shortage of
+      food, are lying to themselves.” https://x.com/haaretzcom/status/1959288050887848069
+      This comes as the UN-backed Integrated Food Security Phase Classification (IPC)
+      formally declares that the people of Gaza are suffering from a famine that “is
+      entirely man-made”, which must be halted and reversed with extreme urgency. Israel
+      has of course denounced the IPC’s findings as antisemitic Hamas propaganda, with
+      the Israeli Foreign Ministry saying that “The entire IPC document is based on
+      Hamas lies laundered through organizations with vested interests,” and Benjamin
+      Netanyahu branding the report “a modern blood libel, spreading like wildfire through
+      prejudice.” You might find this response ridiculous, and of course it is, but
+      really, what else does Israel have left? When all major human rights institutions
+      are accusing you of horrific crimes, your only options are either (A) admit the
+      obvious fact that there’s no way every single mainstream humanitarian organization
+      is lying about your actions, or (B) claim that they’re all in on a giant globe-spanning
+      conspiracy because of a nefarious prejudice against your religion. Of course they’re
+      going to go with (B). This is Israel we’re talking about, after all. https://x.com/tparsi/status/1958928158872182981
+      When a nation keeps having to publish denials that it is intentionally starving
+      civilians, you can safely assume it’s because that nation is intentionally starving
+      civilians. If you saw someone on social media loudly denying the latest allegations
+      that they are a child molester over and over again for two years, you probably
+      wouldn’t let them babysit your kids. I have never once felt the need to publish
+      a denial that I am intentionally starving people, because I have never intentionally
+      starved anyone. It’s not something I’ve ever found myself needing to say even
+      one time, let alone many many times constantly. You don’t see the government of
+      Ireland constantly denying that Ireland is intentionally starving civilians, because
+      Ireland is not intentionally starving civilians. You don’t see pro-China spinmeisters
+      frantically churning out propaganda denying that China is intentionally starving
+      civilians, because China is not intentionally starving civilians. You don’t see
+      Brazilian internet trolls aggressively swarming the comments of anyone who says
+      Brazil is intentionally starving civilians, because Brazil is not intentionally
+      starving civilians. You don’t see the Pakistani government paying social media
+      influencers to assert on their platforms that Pakistan is not intentionally starving
+      civilians, because Pakistan is not intentionally starving civilians. You see an
+      intense campaign of narrative management aimed at denying that Israel has been
+      intentionally starving civilians because Israel is intentionally starving civilians.
+      That’s why all the constant government denials, the endless propaganda and spin
+      pieces and PR stunts, and relentless online trolling operations have been necessary.
+      https://x.com/ggreenwald/status/1958924385793831305 Most Israel apologia at this
+      point is just people pretending to believe things they don’t really believe. Palestinians
+      aren’t really being starved. Gaza looks like a gravel parking lot because Hamas
+      put explosives in all the buildings. The IDF has a low civilian-to-combatant kill
+      ratio. Gaza’s entire healthcare infrastructure was destroyed because Hamas was
+      hiding under all the hospitals. Nobody actually believes these things. They’re
+      just pretending to believe them in order to justify genocidal atrocities and help
+      ensure that they continue. They’re really the worst people in the world. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Haaretz, captioned “4. Maryam, 9, photographed a week ago by
+      a UN staff member at Rantisi Hospital. Not known to have preexisting illnesses.
+      5. Baraa, 3 months old, photographed at the Patient Friends Association Hospital
+      by a UNICEF representative. 6. A baby girl photographed at the end of May at Nasser
+      Hospital by Dr. Graeme Groom, a volunteer doctor from the U.K.”'
+    one_sentence_summary: A report by Haaretz reveals the severe starvation crisis in
+      Gaza, contradicting claims that images of emaciated children are merely propaganda,
+      as it documents the dire conditions faced by civilians and the collapse of healthcare
+      infrastructure.
+    paragraph_summary: A recent report by Israeli news outlet Haaretz has exposed the
+      severe starvation crisis in Gaza, challenging the Israeli narrative that images
+      of emaciated children are merely propaganda from Hamas. Haaretz journalists, accompanied
+      by medical professionals, documented the dire conditions in hospitals, revealing
+      numerous cases of extreme malnutrition among children and adults, exacerbated
+      by a failing healthcare system and lack of food. The report highlights the suffering
+      of mothers unable to breastfeed due to their own starvation and the spread of
+      diseases linked to malnutrition. The UN-backed Integrated Food Security Phase
+      Classification has declared the famine in Gaza as "entirely man-made," a claim
+      that Israel has dismissed as antisemitic propaganda. The Haaretz reporters assert
+      that the evidence of starvation is undeniable, emphasizing the urgent need for
+      action to address the humanitarian crisis.
+    published: '2025-08-24T02:34:47+00:00'
+  - title: Only Liars And Manipulators Say Gaza Isn't Starving
+    url: https://www.caitlinjohnst.one/p/only-liars-and-manipulators-say-gaza
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Israeli news outlet Haaretz has published a harrowing report on starvation in
+      Gaza which further discredits the Israeli narrative that the photos of skeletal
+      children we’ve been seeing are antisemitic Hamas propaganda, for anyone who’s
+      still clinging to delusions about such things. Haaretz reporters were taken by
+      doctors on video tours of hospitals in Gaza, conducting interviews with numerous
+      medical personnel and obtaining many photos of civilians showing signs of extreme
+      starvation. Throughout the report we encounter story after story of severely emaciated
+      children, mothers unable to breastfeed starving babies because of their own starvation,
+      people with preexisting conditions severely exacerbated by malnutrition, diseases
+      spreading due to crippled healthcare infrastructure and ruined immune systems,
+      and wounds failing to heal due to inadequate food intake. The article is one of
+      the more uncomfortable things I’ve seen throughout the entirety of this genocide,
+      and that’s saying something. “What we saw there left no room for doubt about the
+      scale of the horror,” write Haaretz reporters Yarden Michaeli and Nir Hasson.
+      “Seventeen youngsters had deteriorated into a state of severe malnutrition without
+      preexisting health conditions; 10 suffered from previous illnesses,” they write,
+      saying “Anyone who claims that the images of starvation in the Gaza Strip are
+      a result of acute genetic or other diseases, and not due to a grave shortage of
+      food, are lying to themselves.” https://x.com/haaretzcom/status/1959288050887848069
+      This comes as the UN-backed Integrated Food Security Phase Classification (IPC)
+      formally declares that the people of Gaza are suffering from a famine that “is
+      entirely man-made”, which must be halted and reversed with extreme urgency. Israel
+      has of course denounced the IPC’s findings as antisemitic Hamas propaganda, with
+      the Israeli Foreign Ministry saying that “The entire IPC document is based on
+      Hamas lies laundered through organizations with vested interests,” and Benjamin
+      Netanyahu branding the report “a modern blood libel, spreading like wildfire through
+      prejudice.” You might find this response ridiculous, and of course it is, but
+      really, what else does Israel have left? When all major human rights institutions
+      are accusing you of horrific crimes, your only options are either (A) admit the
+      obvious fact that there’s no way every single mainstream humanitarian organization
+      is lying about your actions, or (B) claim that they’re all in on a giant globe-spanning
+      conspiracy because of a nefarious prejudice against your religion. Of course they’re
+      going to go with (B). This is Israel we’re talking about, after all. https://x.com/tparsi/status/1958928158872182981
+      When a nation keeps having to publish denials that it is intentionally starving
+      civilians, you can safely assume it’s because that nation is intentionally starving
+      civilians. If you saw someone on social media loudly denying the latest allegations
+      that they are a child molester over and over again for two years, you probably
+      wouldn’t let them babysit your kids. I have never once felt the need to publish
+      a denial that I am intentionally starving people, because I have never intentionally
+      starved anyone. It’s not something I’ve ever found myself needing to say even
+      one time, let alone many many times constantly. You don’t see the government of
+      Ireland constantly denying that Ireland is intentionally starving civilians, because
+      Ireland is not intentionally starving civilians. You don’t see pro-China spinmeisters
+      frantically churning out propaganda denying that China is intentionally starving
+      civilians, because China is not intentionally starving civilians. You don’t see
+      Brazilian internet trolls aggressively swarming the comments of anyone who says
+      Brazil is intentionally starving civilians, because Brazil is not intentionally
+      starving civilians. You don’t see the Pakistani government paying social media
+      influencers to assert on their platforms that Pakistan is not intentionally starving
+      civilians, because Pakistan is not intentionally starving civilians. You see an
+      intense campaign of narrative management aimed at denying that Israel has been
+      intentionally starving civilians because Israel is intentionally starving civilians.
+      That’s why all the constant government denials, the endless propaganda and spin
+      pieces and PR stunts, and relentless online trolling operations have been necessary.
+      https://x.com/ggreenwald/status/1958924385793831305 Most Israel apologia at this
+      point is just people pretending to believe things they don’t really believe. Palestinians
+      aren’t really being starved. Gaza looks like a gravel parking lot because Hamas
+      put explosives in all the buildings. The IDF has a low civilian-to-combatant kill
+      ratio. Gaza’s entire healthcare infrastructure was destroyed because Hamas was
+      hiding under all the hospitals. Nobody actually believes these things. They’re
+      just pretending to believe them in order to justify genocidal atrocities and help
+      ensure that they continue. They’re really the worst people in the world. _________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Haaretz, captioned “4. Maryam, 9, photographed a week ago by
+      a UN staff member at Rantisi Hospital. Not known to have preexisting illnesses.
+      5. Baraa, 3 months old, photographed at the Patient Friends Association Hospital
+      by a UNICEF representative. 6. A baby girl photographed at the end of May at Nasser
+      Hospital by Dr. Graeme Groom, a volunteer doctor from the U.K.”'
+    one_sentence_summary: A report by Haaretz reveals the severe starvation crisis in
+      Gaza, contradicting claims that images of emaciated children are merely propaganda,
+      as it documents the dire conditions faced by civilians and the collapse of healthcare
+      infrastructure.
+    paragraph_summary: A recent report by Israeli news outlet Haaretz has exposed the
+      severe starvation crisis in Gaza, challenging the Israeli narrative that images
+      of emaciated children are merely propaganda from Hamas. Haaretz journalists, accompanied
+      by medical professionals, documented the dire conditions in hospitals, revealing
+      numerous cases of extreme malnutrition among children and adults, exacerbated
+      by a failing healthcare system and lack of food. The report highlights the suffering
+      of mothers unable to breastfeed due to their own starvation and the spread of
+      diseases linked to malnutrition. The UN-backed Integrated Food Security Phase
+      Classification has declared the famine in Gaza as "entirely man-made," a claim
+      that Israel has dismissed as antisemitic propaganda. The Haaretz reporters assert
+      that the evidence of starvation is undeniable, emphasizing the urgent need for
+      action to address the humanitarian crisis.
+    published: '2025-08-24T02:34:47+00:00'
+  - title: '"Why Doesn''t Hamas Release The Hostages?", And Other Reader Questions'
+    url: https://www.caitlinjohnst.one/p/why-doesnt-hamas-release-the-hostages
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Nick on Patreon asks, “I don’t know if this is a question that you would know
+      the answer to, but it’s worth a try. The one Zionist question I have a hard time
+      answering is ‘why don’t Hamas release the hostages?’ Israel doesn’t give a shit
+      about killing its own citizens, so they don’t seem to be much of a bargaining
+      chip.” The most important thing to make clear here is that anyone who suggests
+      that Israel’s onslaught in Gaza has anything whatsoever to do with hostages is
+      either ignorant or lying. Netanyahu has explicitly said that Israel’s attack will
+      not end until Trump’s ethnic cleansing plan to permanently remove all Palestinians
+      from the Gaza Strip has been accomplished. This is not about freeing hostages,
+      this is about a land grab that Israel has been pursuing for generations . So when
+      people say “why don’t Hamas release the hostages?” in response to criticisms of
+      Israel’s genocidal atrocities in Gaza, they’re generally just throwing up a completely
+      fallacious red herring to nullify that criticism. It is of course true that the
+      Israeli government doesn’t care about the hostages, but it’s not accurate to say
+      the hostages aren’t a bargaining chip. Some 2.5 million Israelis are estimated
+      to have filled the streets this past Sunday demanding that their government secure
+      a deal to release the hostages — that’s a quarter of the nation’s population.
+      Numbers like that amount to political pressure, even if the Netanyahu regime itself
+      only cares about the land grab. They’re not protesting because they care about
+      stopping a genocide, they’re doing it because they care about their own. And of
+      course the argument can be made that taking hostages is illegal and immoral under
+      any circumstances, but most people tend to lose interest in this argument when
+      they learn that thousands of Palestinian political prisoners are held captive
+      by Israel without charge or trial as a matter of longstanding Israeli policy.
+      You can argue that two wrongs don’t make a right if you want, but it’s hard to
+      deny that Israel looks pretty ridiculous demanding the unconditional release of
+      its hostages while holding thousands of Palestinians hostage itself. Everything
+      Hamas has done to Israel are things Israel has been doing to Palestinians for
+      decades at a far greater scale. When you do nasty things to people, you leave
+      yourself open to retaliation in kind. ❖ Elizabeth on Twitter asks, “Who are the
+      journalists you read and admire?” Too many to list. Some favorites include Julian
+      Assange, Bisan Owda and everyone in Gaza who’s ever taken a photo or made a video
+      since 2023, the late great John Pilger, Chris Hedges, Joe Lauria and the folks
+      at Consortium News, Dave DeCamp and everyone at Antiwar, Ali Abunimah and Asa
+      Winstanley and everyone at Electronic Intifada, Aaron Maté and Max Blumenthal
+      and everyone at The Grayzone, Rania Khalek and everyone at BreakThrough News,
+      Ryan Grim and everyone at Drop Site News, Seymour Hersh, Glenn Greenwald, Muhammad
+      Shehada, Amanda Yee, that anonymous Zei Squirrel account on Twitter, Alan MacLeod,
+      Mark Ames, Yasha Levine, Kevin Gosztola, Sharmine Narwani, Arnaud Bertrand, the
+      Davids at Media Lens, and the Moon of Alabama blog. ❖ Jo on Substack asks, “Hi
+      Caitlin and Tim, apologies if you’d answered this before. You both write on here
+      and I think i can detect a difference in tone and could hazard a guess as to which
+      is which! I’m sure you agree on the big things; however, there must be things
+      that you disagree on. How does this inform your work?” Not really, to be honest.
+      We have too much in common and were both raised to be critical of the US war machine,
+      me by my journalist father and Tim by his Quaker upbringing. When we first got
+      together Tim was sympathetic to American libertarianism, but I’d converted him
+      into a godless commie using my womanly wiles before we started writing together.
+      We don’t really disagree on anything political, or actually on much of anything
+      these days. We used to have fights and arguments sometimes, but we don’t really
+      anymore. Our thing thrives on collaborative “yes, and”ing and mutual cheerleading;
+      we’re always trying to encourage each other and lift each other up. Some people’s
+      idea of a happy couple looks like debate and healthy competition and keeping each
+      other in check, but that sort of model has never worked for us. Ever since we
+      got together we’ve had this urge to merge into each other and become one, and
+      we’ve been getting closer and closer ever since we got together. ❖ Buddhadev asks
+      on Facebook, “You’ve said often that your hope for humanity lies in consciousness
+      raising and spiritual awakening. I used believe this but no longer do. I know
+      some incredibly experienced meditators, ayahuasca psychonauts, yogis/yoginis,
+      etc who are ardent defenders of the Narrative Managers’ takes on RussiaGate, Russia/Ukraine,
+      etc. On Gaza, many of them echo your ‘favorite’ corporate lib take wherein they
+      talk about it as uncaused ‘heartbreaking tragedy’ that has no culprit behind it.
+      Years of meeting people like this in ‘hippie woo woo’ communities (crystals, tarot,
+      astrology, reikki, psychedelics, etc) has disabused me of any notion that their
+      capacity for discernment is that much better than the general population. If you
+      disagree and still think spiritual practice or consciousness expansion is the
+      hope for ending war and tyranny, then what does such consciousness and spirituality
+      look like to you and what should people be doing?” There’s not really any connection
+      between being a good meditator/yogini/psychonaut etc and a proper awakening, which
+      is best understood as a radical shift in identity. People who wake up will often
+      have spent time doing those things, but you can easily meditate your whole life
+      without experiencing such a shift, and many have. Some of the most toxic, unconscious,
+      totally-asleep-at-the-wheel individuals I’ve ever encountered have had highly
+      spiritual personalities. Spiritual people are very often neurotic and miserable
+      psychological train wrecks, because miserable people often turn to spirituality
+      out of desperation to escape their suffering. Awakening isn’t about having a particular
+      kind of personality or becoming accomplished in a particular kind of spiritual
+      practice — the illusion of the self who would be doing those things is precisely
+      what’s awakened from . Awakening from the dream of selfing brings with it a drastic
+      change in the human organism’s relationship with mental narrative. Thoughts are
+      no longer seen as true facts which need to be believed but as mental noises or
+      energies which don’t require our attention. From there thought takes on the role
+      as a useful tool that can be picked up when it’s needed and set down when it’s
+      not, rather than the writer, director and star of the whole show. This has obvious
+      implications for seeing through the veil of propaganda. You’re much more aware
+      of how dominated human consciousness is by mental narrative, and how much effort
+      humans put into manipulating the narratives that other humans hold in their minds.
+      Since thoughts don’t demand belief like they used to, a narrative like “That Evil
+      Dictator needs to be removed!” is a lot less likely to be uncritically taken on
+      board. That said, you can also have a powerful and authentic awakening without
+      having a lucid understanding of what’s really going on in the world. If 100 percent
+      of your attention has gone into expanding your awareness of your internal processes,
+      then you haven’t been putting any effort into expanding your awareness of what’s
+      going on in the outer world. This is why you’ll sometimes see relatively awake
+      people regurgitating the CNN line on a given issue; they simply haven’t yet put
+      the effort into expanding their consciousness in that direction. You can be spiritually
+      enlightened while remaining clueless about Palestine in the same way you can be
+      clear on Palestine while remaining totally transfixed by egoic delusion; the call
+      is to expand consciousness both inwardly and outwardly. A sufficiently clear awakening
+      will bring with it a call to compassion and a deep caring about the plight of
+      humanity, which will naturally give rise to a curiosity about what factors are
+      driving all the dysfunction we see in our society today. In the information age
+      it’s not hard for that impulse to translate into a lucid perception of the abusive
+      systems and power structures which are driving our species to its doom. And really
+      to talk about it as “inward” and “outward” isn’t quite accurate. Past a certain
+      point of clarification you start to notice that all the dysfunction you see in
+      the world is mirrored in the dysfunctionality you’ve found in yourself. You can
+      see the Israel in you. The empire in you. The war profiteer in you. The propagandist
+      in you. You no longer see yourself as separate from the wrongs of the world, and
+      you just set about working to heal them wherever you see them — whether it’s in
+      your own psyche or in a bombing campaign overseas. They’re not separate things.
+      So you’re right, a simple entry-level awakening won’t be enough to save us. We’ve
+      got to become a truly conscious species by awakening to reality in all the ways
+      that are relevant to the human adventure. If you have a question or comment you’d
+      like a response to, just write it in the replies section of whatever platform
+      you’re reading this on and I’ll try to get to it. ___________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      by Nizzan Cohen via Wikimedia Commons (CC BY 4.0)'
+    one_sentence_summary: The article argues that the question of why Hamas doesn't
+      release hostages is misguided, as Israel's military actions in Gaza are driven
+      by a long-standing agenda of territorial expansion rather than hostage negotiations.
+    paragraph_summary: The article addresses a question about why Hamas does not release
+      hostages, arguing that the issue is a distraction from the broader context of
+      the Israeli-Palestinian conflict. It asserts that Israel's military actions in
+      Gaza are not primarily motivated by the desire to rescue hostages but rather by
+      a long-standing agenda to seize Palestinian land, as emphasized by Netanyahu's
+      statements. While some Israelis are protesting for the release of hostages, the
+      article suggests that their motivations are self-serving rather than humanitarian,
+      and it highlights the hypocrisy in the discourse surrounding hostages, given the
+      existence of numerous Palestinian political prisoners held by Israel. Ultimately,
+      the piece critiques the framing of the hostage situation as a central issue, viewing
+      it instead as a tactic to deflect from the ongoing violence and oppression faced
+      by Palestinians.
+    published: '2025-08-22T02:55:08+00:00'
+  - title: '"Why Doesn''t Hamas Release The Hostages?", And Other Reader Questions'
+    url: https://www.caitlinjohnst.one/p/why-doesnt-hamas-release-the-hostages
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Nick on Patreon asks, “I don’t know if this is a question that you would know
+      the answer to, but it’s worth a try. The one Zionist question I have a hard time
+      answering is ‘why don’t Hamas release the hostages?’ Israel doesn’t give a shit
+      about killing its own citizens, so they don’t seem to be much of a bargaining
+      chip.” The most important thing to make clear here is that anyone who suggests
+      that Israel’s onslaught in Gaza has anything whatsoever to do with hostages is
+      either ignorant or lying. Netanyahu has explicitly said that Israel’s attack will
+      not end until Trump’s ethnic cleansing plan to permanently remove all Palestinians
+      from the Gaza Strip has been accomplished. This is not about freeing hostages,
+      this is about a land grab that Israel has been pursuing for generations . So when
+      people say “why don’t Hamas release the hostages?” in response to criticisms of
+      Israel’s genocidal atrocities in Gaza, they’re generally just throwing up a completely
+      fallacious red herring to nullify that criticism. It is of course true that the
+      Israeli government doesn’t care about the hostages, but it’s not accurate to say
+      the hostages aren’t a bargaining chip. Some 2.5 million Israelis are estimated
+      to have filled the streets this past Sunday demanding that their government secure
+      a deal to release the hostages — that’s a quarter of the nation’s population.
+      Numbers like that amount to political pressure, even if the Netanyahu regime itself
+      only cares about the land grab. They’re not protesting because they care about
+      stopping a genocide, they’re doing it because they care about their own. And of
+      course the argument can be made that taking hostages is illegal and immoral under
+      any circumstances, but most people tend to lose interest in this argument when
+      they learn that thousands of Palestinian political prisoners are held captive
+      by Israel without charge or trial as a matter of longstanding Israeli policy.
+      You can argue that two wrongs don’t make a right if you want, but it’s hard to
+      deny that Israel looks pretty ridiculous demanding the unconditional release of
+      its hostages while holding thousands of Palestinians hostage itself. Everything
+      Hamas has done to Israel are things Israel has been doing to Palestinians for
+      decades at a far greater scale. When you do nasty things to people, you leave
+      yourself open to retaliation in kind. ❖ Elizabeth on Twitter asks, “Who are the
+      journalists you read and admire?” Too many to list. Some favorites include Julian
+      Assange, Bisan Owda and everyone in Gaza who’s ever taken a photo or made a video
+      since 2023, the late great John Pilger, Chris Hedges, Joe Lauria and the folks
+      at Consortium News, Dave DeCamp and everyone at Antiwar, Ali Abunimah and Asa
+      Winstanley and everyone at Electronic Intifada, Aaron Maté and Max Blumenthal
+      and everyone at The Grayzone, Rania Khalek and everyone at BreakThrough News,
+      Ryan Grim and everyone at Drop Site News, Seymour Hersh, Glenn Greenwald, Muhammad
+      Shehada, Amanda Yee, that anonymous Zei Squirrel account on Twitter, Alan MacLeod,
+      Mark Ames, Yasha Levine, Kevin Gosztola, Sharmine Narwani, Arnaud Bertrand, the
+      Davids at Media Lens, and the Moon of Alabama blog. ❖ Jo on Substack asks, “Hi
+      Caitlin and Tim, apologies if you’d answered this before. You both write on here
+      and I think i can detect a difference in tone and could hazard a guess as to which
+      is which! I’m sure you agree on the big things; however, there must be things
+      that you disagree on. How does this inform your work?” Not really, to be honest.
+      We have too much in common and were both raised to be critical of the US war machine,
+      me by my journalist father and Tim by his Quaker upbringing. When we first got
+      together Tim was sympathetic to American libertarianism, but I’d converted him
+      into a godless commie using my womanly wiles before we started writing together.
+      We don’t really disagree on anything political, or actually on much of anything
+      these days. We used to have fights and arguments sometimes, but we don’t really
+      anymore. Our thing thrives on collaborative “yes, and”ing and mutual cheerleading;
+      we’re always trying to encourage each other and lift each other up. Some people’s
+      idea of a happy couple looks like debate and healthy competition and keeping each
+      other in check, but that sort of model has never worked for us. Ever since we
+      got together we’ve had this urge to merge into each other and become one, and
+      we’ve been getting closer and closer ever since we got together. ❖ Buddhadev asks
+      on Facebook, “You’ve said often that your hope for humanity lies in consciousness
+      raising and spiritual awakening. I used believe this but no longer do. I know
+      some incredibly experienced meditators, ayahuasca psychonauts, yogis/yoginis,
+      etc who are ardent defenders of the Narrative Managers’ takes on RussiaGate, Russia/Ukraine,
+      etc. On Gaza, many of them echo your ‘favorite’ corporate lib take wherein they
+      talk about it as uncaused ‘heartbreaking tragedy’ that has no culprit behind it.
+      Years of meeting people like this in ‘hippie woo woo’ communities (crystals, tarot,
+      astrology, reikki, psychedelics, etc) has disabused me of any notion that their
+      capacity for discernment is that much better than the general population. If you
+      disagree and still think spiritual practice or consciousness expansion is the
+      hope for ending war and tyranny, then what does such consciousness and spirituality
+      look like to you and what should people be doing?” There’s not really any connection
+      between being a good meditator/yogini/psychonaut etc and a proper awakening, which
+      is best understood as a radical shift in identity. People who wake up will often
+      have spent time doing those things, but you can easily meditate your whole life
+      without experiencing such a shift, and many have. Some of the most toxic, unconscious,
+      totally-asleep-at-the-wheel individuals I’ve ever encountered have had highly
+      spiritual personalities. Spiritual people are very often neurotic and miserable
+      psychological train wrecks, because miserable people often turn to spirituality
+      out of desperation to escape their suffering. Awakening isn’t about having a particular
+      kind of personality or becoming accomplished in a particular kind of spiritual
+      practice — the illusion of the self who would be doing those things is precisely
+      what’s awakened from . Awakening from the dream of selfing brings with it a drastic
+      change in the human organism’s relationship with mental narrative. Thoughts are
+      no longer seen as true facts which need to be believed but as mental noises or
+      energies which don’t require our attention. From there thought takes on the role
+      as a useful tool that can be picked up when it’s needed and set down when it’s
+      not, rather than the writer, director and star of the whole show. This has obvious
+      implications for seeing through the veil of propaganda. You’re much more aware
+      of how dominated human consciousness is by mental narrative, and how much effort
+      humans put into manipulating the narratives that other humans hold in their minds.
+      Since thoughts don’t demand belief like they used to, a narrative like “That Evil
+      Dictator needs to be removed!” is a lot less likely to be uncritically taken on
+      board. That said, you can also have a powerful and authentic awakening without
+      having a lucid understanding of what’s really going on in the world. If 100 percent
+      of your attention has gone into expanding your awareness of your internal processes,
+      then you haven’t been putting any effort into expanding your awareness of what’s
+      going on in the outer world. This is why you’ll sometimes see relatively awake
+      people regurgitating the CNN line on a given issue; they simply haven’t yet put
+      the effort into expanding their consciousness in that direction. You can be spiritually
+      enlightened while remaining clueless about Palestine in the same way you can be
+      clear on Palestine while remaining totally transfixed by egoic delusion; the call
+      is to expand consciousness both inwardly and outwardly. A sufficiently clear awakening
+      will bring with it a call to compassion and a deep caring about the plight of
+      humanity, which will naturally give rise to a curiosity about what factors are
+      driving all the dysfunction we see in our society today. In the information age
+      it’s not hard for that impulse to translate into a lucid perception of the abusive
+      systems and power structures which are driving our species to its doom. And really
+      to talk about it as “inward” and “outward” isn’t quite accurate. Past a certain
+      point of clarification you start to notice that all the dysfunction you see in
+      the world is mirrored in the dysfunctionality you’ve found in yourself. You can
+      see the Israel in you. The empire in you. The war profiteer in you. The propagandist
+      in you. You no longer see yourself as separate from the wrongs of the world, and
+      you just set about working to heal them wherever you see them — whether it’s in
+      your own psyche or in a bombing campaign overseas. They’re not separate things.
+      So you’re right, a simple entry-level awakening won’t be enough to save us. We’ve
+      got to become a truly conscious species by awakening to reality in all the ways
+      that are relevant to the human adventure. If you have a question or comment you’d
+      like a response to, just write it in the replies section of whatever platform
+      you’re reading this on and I’ll try to get to it. ___________________ Caitlin’s
+      Newsletter is a reader-supported publication. To receive new posts and support
+      my work, consider becoming a free or paid subscriber. The best way to make sure
+      you see everything I write is to get on my free mailing list . My work is entirely
+      reader-supported , so if you enjoyed this piece here are some options where you
+      can toss some money into my tip jar if you want to. Click here for links for my
+      social media, books, merch, and audio/video versions of each article . All my
+      work is free to bootleg and use in any way, shape or form; republish it, translate
+      it, use it on merchandise; whatever you want. All works co-authored with my husband
+      Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image
+      by Nizzan Cohen via Wikimedia Commons (CC BY 4.0)'
+    one_sentence_summary: The article argues that the question of why Hamas doesn't
+      release hostages is misguided, as Israel's military actions in Gaza are driven
+      by a long-standing agenda of territorial expansion rather than hostage negotiations.
+    paragraph_summary: The article addresses a question about why Hamas does not release
+      hostages, arguing that the issue is a distraction from the broader context of
+      the Israeli-Palestinian conflict. It asserts that Israel's military actions in
+      Gaza are not primarily motivated by the desire to rescue hostages but rather by
+      a long-standing agenda to seize Palestinian land, as emphasized by Netanyahu's
+      statements. While some Israelis are protesting for the release of hostages, the
+      article suggests that their motivations are self-serving rather than humanitarian,
+      and it highlights the hypocrisy in the discourse surrounding hostages, given the
+      existence of numerous Palestinian political prisoners held by Israel. Ultimately,
+      the piece critiques the framing of the hostage situation as a central issue, viewing
+      it instead as a tactic to deflect from the ongoing violence and oppression faced
+      by Palestinians.
+    published: '2025-08-22T02:55:08+00:00'
+  - title: Zionism Is What It Does
+    url: https://www.caitlinjohnst.one/p/zionism-is-what-it-does
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now Israel apologists always attack anti-Zionists
+      by saying “Zionism just means self-determination for Jews! If you hate Zionism
+      then you hate Jews!” No, that’s not what Zionism means. Zionism means exactly
+      what we see before us today. Genocide. Ethnic cleansing. Apartheid. Nonstop violence
+      and abuse. That’s what Zionism means. And anti-Zionism means opposing these things.
+      There is simply no argument to the contrary. This is indisputably what Zionism
+      looks like. There is no other alternate reality iteration of Zionism you can point
+      to where genocide, ethnic cleansing, apartheid and nonstop violence and abuse
+      are not happening. This is the only way Zionism looks. The Zionist experiment
+      has been run, and these are the results. Trying to argue that Zionism doesn’t
+      mean genocide, ethnic cleansing, apartheid, and nonstop violence and abuse is
+      exactly the same as trying to argue that Nazism doesn’t mean all the things that
+      happened when the Nazism experiment was run. Nazism means all the things that
+      happened under Nazism. You can’t legitimately tell me “No, actually, Nazism just
+      means a safe and prosperous homeland for the German people.” We’ve seen what Nazism
+      looks like, and we’ve seen what Zionism looks like. To argue otherwise is to argue
+      with reality. It’s just so obnoxious how Israel supporters are like “Zionism means
+      these nice things and nice words, so if you’re against Zionism you’re against
+      the nice things and nice words!” No, asshole, that’s not how it works. You’re
+      entitled to your own opinion, but not your own reality. Israel is what it does.
+      Zionism is what it does. You can’t separate them from their actions. The debate
+      about the true nature of these things has been settled by the reality of what
+      is happening. It doesn’t matter if you believe Israel just wants to live in peace.
+      It doesn’t matter if you believe Zionism is just the idea that Jews deserve self-determination.
+      Reality says you’re wrong. Reality says Israel and Zionism mean nonstop violence
+      and abuse. Reality says Israel and Zionism necessarily entail genocide, apartheid
+      and ethnic cleansing. Because that’s the reality on the ground. Them’s the facts.
+      If you disagree with them, you are objectively wrong. ❖ I saw a clip of ABC host
+      Patricia Karvelas raking Netanyahu policy advisor Ophir Falk over the coals for
+      his denialism of Israel’s atrocities in Gaza, and the thought occurred to me that
+      Israel really has lost the normies. All the mainstream western empire loyalists
+      who dutifully toe the imperial line under normal circumstances are dropping away,
+      one by one. https://x.com/strangerous10/status/1958081658021634208 The fact that
+      Israel has managed to alienate western liberals is so funny, because they’d be
+      Israel’s biggest cheerleaders if they were given the tiniest bit of justification
+      for that position. So much about Israel fits in perfectly with western liberal
+      mythology. A US-aligned capitalist democracy run by a plucky religious minority
+      who survived horrific persecution, which embraces secular progressive values and
+      reinforces the dominant western narratives about the wonderful things the US-led
+      order has been able to accomplish since its triumphant glorious victory in the
+      second world war. All Israel had to do was give them something , anything, and
+      they’d still think Israel is the greatest thing in the world. They just needed
+      an excuse — even a very meager one. But Israel couldn’t even give them that. Genocide,
+      racism, apartheid, ethnic cleansing and expansionism were just too important to
+      its driving ideology. The Zionist project simply could not continue without going
+      mask-off at some point, so now they’ve lost all the mainstream moderate liberals
+      and pretty much everyone besides the “killing Muslims is good” far right extremists
+      and the “we have to support Israel because God commands it” Christian Zionists.
+      Eventually all the contradictions had to come out into the light. ❖ The Israeli
+      press are pushing the narrative that if people in Gaza are suffering so bad they
+      should leave, which is precisely the narrative I said we’d soon be hearing from
+      Israel in facilitation of its longstanding ethnic cleansing agenda. Last month
+      I wrote the following in an article titled “ They’re Starving Civilians To Steal
+      A Palestinian Territory, And They’re Lying About It ”: “Western governments are
+      beginning to speak out against the mass atrocity in Gaza, far too little and far
+      too late. We can expect Israel and the United States to respond to this outcry
+      by saying that Palestinians need to be evacuated out of Gaza as quickly as possible
+      in order to rescue them from this deliberately manufactured humanitarian crisis.
+      We can expect them to denounce anyone who opposes this ethnic cleansing operation
+      as evil monsters who want to starve the poor Palestinians.” The Jerusalem Post
+      has just published an opinion piece titled “ Gaza humanitarian crisis should expedite
+      Trump’s relocation plan ,” subtitled “Now that there is public awareness of a
+      humanitarian crisis in Gaza, it should be leveraged to garner support for Trump’s
+      Gaza relocation proposal.” The article’s author, Gol Kalev, complains that “the
+      Gazans” are being “denied the basic human right to flee a war” by the mean, nasty
+      Europeans who just want to accuse Israel of war crimes and atrocities. “They are
+      needed under the rubble in Gaza — not just by Hamas, who uses them as human shields,
+      but also by Europe and its proxies, who use them as pawns in their age-old opposition
+      to the Jewish state, and as a proxy assault on America,” Kalev writes, arguing
+      that public frustration “should not be directed at Israel, but at those standing
+      in the way of Trump’s relocation plan, including European leaders.” “Now that
+      there is public awareness of a humanitarian crisis in Gaza, it should be leveraged
+      to garner support for Trump’s Gaza relocation proposal — which could lead to safety
+      and prosperity for Gazans, and peace for the entire region,” writes Kalev. “The
+      public message must be clear: Let the Gazans be free — let them flee.” Just as
+      I said they would do, they’re disguising a naked ethnic cleansing operation as
+      humanitarianism and denouncing anyone who wants to provide Palestinians with a
+      massive relief effort in their historic homeland as an uncaring monster. We can
+      expect to see more of this messaging going forward. ❖ Anyone who tells you they
+      support Israel for religious reasons is telling you to stop trying to reason with
+      them. They’re saying their position is not based on facts, evidence, logic or
+      morality, but their blind faith in a collection of made up stories. So there’s
+      nothing you could possibly say to them that would change their mind or convince
+      them that they are wrong. Trying to debate or reason with such a person would
+      be the same as trying to convince someone that there is no God. It’s an entirely
+      unfalsifiable position about which no argument can be made using facts and evidence.
+      Someone like Mike Huckabee is never telling the truth or saying what he really
+      thinks is going on when it comes to Israel and the Palestinians, he’s just making
+      whatever mouth noises he needs to make to help fulfill a Biblical prophecy and
+      secure his eternal reward. Such people have no place in the conversation. They
+      should be completely excluded from the debate, because they are not actually participating
+      in it. They’re just lying and manipulating for reasons that have nothing to do
+      with truth or morality. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image by Fars Media Corporation via
+      Wikimedia Commons ( CC BY 4.0 )'
+    one_sentence_summary: The article asserts that Zionism is synonymous with genocide,
+      ethnic cleansing, apartheid, and violence, and that opposing these actions is
+      the essence of anti-Zionism, countering the claim that Zionism merely represents
+      Jewish self-determination.
+    paragraph_summary: The article argues that the term "Zionism" is inextricably linked
+      to actions such as genocide, ethnic cleansing, apartheid, and ongoing violence,
+      countering the narrative that it merely represents Jewish self-determination.
+      The author asserts that anti-Zionism is a stance against these harmful actions,
+      and equates the misrepresentation of Zionism to the denial of the atrocities committed
+      under Nazism. The piece emphasizes that one cannot separate the ideology of Zionism
+      from its real-world consequences, stating that the reality of Israel's actions
+      defines both Zionism and Israel itself, regardless of the intentions or beliefs
+      of its supporters.
+    published: '2025-08-21T02:42:55+00:00'
+  - title: Zionism Is What It Does
+    url: https://www.caitlinjohnst.one/p/zionism-is-what-it-does
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now Israel apologists always attack anti-Zionists
+      by saying “Zionism just means self-determination for Jews! If you hate Zionism
+      then you hate Jews!” No, that’s not what Zionism means. Zionism means exactly
+      what we see before us today. Genocide. Ethnic cleansing. Apartheid. Nonstop violence
+      and abuse. That’s what Zionism means. And anti-Zionism means opposing these things.
+      There is simply no argument to the contrary. This is indisputably what Zionism
+      looks like. There is no other alternate reality iteration of Zionism you can point
+      to where genocide, ethnic cleansing, apartheid and nonstop violence and abuse
+      are not happening. This is the only way Zionism looks. The Zionist experiment
+      has been run, and these are the results. Trying to argue that Zionism doesn’t
+      mean genocide, ethnic cleansing, apartheid, and nonstop violence and abuse is
+      exactly the same as trying to argue that Nazism doesn’t mean all the things that
+      happened when the Nazism experiment was run. Nazism means all the things that
+      happened under Nazism. You can’t legitimately tell me “No, actually, Nazism just
+      means a safe and prosperous homeland for the German people.” We’ve seen what Nazism
+      looks like, and we’ve seen what Zionism looks like. To argue otherwise is to argue
+      with reality. It’s just so obnoxious how Israel supporters are like “Zionism means
+      these nice things and nice words, so if you’re against Zionism you’re against
+      the nice things and nice words!” No, asshole, that’s not how it works. You’re
+      entitled to your own opinion, but not your own reality. Israel is what it does.
+      Zionism is what it does. You can’t separate them from their actions. The debate
+      about the true nature of these things has been settled by the reality of what
+      is happening. It doesn’t matter if you believe Israel just wants to live in peace.
+      It doesn’t matter if you believe Zionism is just the idea that Jews deserve self-determination.
+      Reality says you’re wrong. Reality says Israel and Zionism mean nonstop violence
+      and abuse. Reality says Israel and Zionism necessarily entail genocide, apartheid
+      and ethnic cleansing. Because that’s the reality on the ground. Them’s the facts.
+      If you disagree with them, you are objectively wrong. ❖ I saw a clip of ABC host
+      Patricia Karvelas raking Netanyahu policy advisor Ophir Falk over the coals for
+      his denialism of Israel’s atrocities in Gaza, and the thought occurred to me that
+      Israel really has lost the normies. All the mainstream western empire loyalists
+      who dutifully toe the imperial line under normal circumstances are dropping away,
+      one by one. https://x.com/strangerous10/status/1958081658021634208 The fact that
+      Israel has managed to alienate western liberals is so funny, because they’d be
+      Israel’s biggest cheerleaders if they were given the tiniest bit of justification
+      for that position. So much about Israel fits in perfectly with western liberal
+      mythology. A US-aligned capitalist democracy run by a plucky religious minority
+      who survived horrific persecution, which embraces secular progressive values and
+      reinforces the dominant western narratives about the wonderful things the US-led
+      order has been able to accomplish since its triumphant glorious victory in the
+      second world war. All Israel had to do was give them something , anything, and
+      they’d still think Israel is the greatest thing in the world. They just needed
+      an excuse — even a very meager one. But Israel couldn’t even give them that. Genocide,
+      racism, apartheid, ethnic cleansing and expansionism were just too important to
+      its driving ideology. The Zionist project simply could not continue without going
+      mask-off at some point, so now they’ve lost all the mainstream moderate liberals
+      and pretty much everyone besides the “killing Muslims is good” far right extremists
+      and the “we have to support Israel because God commands it” Christian Zionists.
+      Eventually all the contradictions had to come out into the light. ❖ The Israeli
+      press are pushing the narrative that if people in Gaza are suffering so bad they
+      should leave, which is precisely the narrative I said we’d soon be hearing from
+      Israel in facilitation of its longstanding ethnic cleansing agenda. Last month
+      I wrote the following in an article titled “ They’re Starving Civilians To Steal
+      A Palestinian Territory, And They’re Lying About It ”: “Western governments are
+      beginning to speak out against the mass atrocity in Gaza, far too little and far
+      too late. We can expect Israel and the United States to respond to this outcry
+      by saying that Palestinians need to be evacuated out of Gaza as quickly as possible
+      in order to rescue them from this deliberately manufactured humanitarian crisis.
+      We can expect them to denounce anyone who opposes this ethnic cleansing operation
+      as evil monsters who want to starve the poor Palestinians.” The Jerusalem Post
+      has just published an opinion piece titled “ Gaza humanitarian crisis should expedite
+      Trump’s relocation plan ,” subtitled “Now that there is public awareness of a
+      humanitarian crisis in Gaza, it should be leveraged to garner support for Trump’s
+      Gaza relocation proposal.” The article’s author, Gol Kalev, complains that “the
+      Gazans” are being “denied the basic human right to flee a war” by the mean, nasty
+      Europeans who just want to accuse Israel of war crimes and atrocities. “They are
+      needed under the rubble in Gaza — not just by Hamas, who uses them as human shields,
+      but also by Europe and its proxies, who use them as pawns in their age-old opposition
+      to the Jewish state, and as a proxy assault on America,” Kalev writes, arguing
+      that public frustration “should not be directed at Israel, but at those standing
+      in the way of Trump’s relocation plan, including European leaders.” “Now that
+      there is public awareness of a humanitarian crisis in Gaza, it should be leveraged
+      to garner support for Trump’s Gaza relocation proposal — which could lead to safety
+      and prosperity for Gazans, and peace for the entire region,” writes Kalev. “The
+      public message must be clear: Let the Gazans be free — let them flee.” Just as
+      I said they would do, they’re disguising a naked ethnic cleansing operation as
+      humanitarianism and denouncing anyone who wants to provide Palestinians with a
+      massive relief effort in their historic homeland as an uncaring monster. We can
+      expect to see more of this messaging going forward. ❖ Anyone who tells you they
+      support Israel for religious reasons is telling you to stop trying to reason with
+      them. They’re saying their position is not based on facts, evidence, logic or
+      morality, but their blind faith in a collection of made up stories. So there’s
+      nothing you could possibly say to them that would change their mind or convince
+      them that they are wrong. Trying to debate or reason with such a person would
+      be the same as trying to convince someone that there is no God. It’s an entirely
+      unfalsifiable position about which no argument can be made using facts and evidence.
+      Someone like Mike Huckabee is never telling the truth or saying what he really
+      thinks is going on when it comes to Israel and the Palestinians, he’s just making
+      whatever mouth noises he needs to make to help fulfill a Biblical prophecy and
+      secure his eternal reward. Such people have no place in the conversation. They
+      should be completely excluded from the debate, because they are not actually participating
+      in it. They’re just lying and manipulating for reasons that have nothing to do
+      with truth or morality. ________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image by Fars Media Corporation via
+      Wikimedia Commons ( CC BY 4.0 )'
+    one_sentence_summary: The article asserts that Zionism is synonymous with genocide,
+      ethnic cleansing, apartheid, and violence, and that opposing these actions is
+      the essence of anti-Zionism, countering the claim that Zionism merely represents
+      Jewish self-determination.
+    paragraph_summary: The article argues that the term "Zionism" is inextricably linked
+      to actions such as genocide, ethnic cleansing, apartheid, and ongoing violence,
+      countering the narrative that it merely represents Jewish self-determination.
+      The author asserts that anti-Zionism is a stance against these harmful actions,
+      and equates the misrepresentation of Zionism to the denial of the atrocities committed
+      under Nazism. The piece emphasizes that one cannot separate the ideology of Zionism
+      from its real-world consequences, stating that the reality of Israel's actions
+      defines both Zionism and Israel itself, regardless of the intentions or beliefs
+      of its supporters.
+    published: '2025-08-21T02:42:55+00:00'
   - title: The US Treats Israeli Pedophiles Nicer Than Wounded Palestinian Kids
     url: https://www.caitlinjohnst.one/p/the-us-treats-israeli-pedophiles
     text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article

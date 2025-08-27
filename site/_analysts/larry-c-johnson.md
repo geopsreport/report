@@ -7,15 +7,1888 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  The ongoing conflict in Ukraine continues to dominate geopolitical discourse, with recent developments underscoring the deepening complexities and the diminishing prospects for a negotiated settlement. The destruction of the SOCAR Oil Terminal in Odessa marks a significant escalation, highlighting, as **Larry C. Johnson** notes, “the futility of negotiations to end the war in Ukraine.” Johnson argues that former President Trump’s attempts to mediate are hampered by a fundamental misunderstanding of the conflict’s roots, viewing it as a personal dispute between leaders rather than a clash over territorial claims and non-negotiable conditions set by Moscow.
+  As the Ukraine conflict grinds on into late August 2025, the strategic balance continues to shift, with mounting evidence that Russia’s military and economic position is strengthening relative to both Ukraine and NATO. The latest analysis from **Larry C. Johnson** underscores several key developments shaping the geopolitical landscape.
   
-  Meanwhile, the aftermath of the Alaska summit between Trump and Putin remains a focal point. Despite Western narratives suggesting Russian economic instability, Johnson reports that President Putin described the meeting as “timely and productive,” with both sides addressing the Ukrainian crisis and broader cooperation. This positive Russian readout stands in contrast to persistent Western skepticism and media portrayals.
+  The most recent reporting highlights the severe degradation of Ukraine’s military capabilities following Russia’s Special Military Operation. According to **Johnson**, “NATO’s limitations in supplying military resources have been laid bare,” with Western stockpiles depleted and resupply efforts lagging. Russian weaponry has proven not only resilient but, in many cases, superior on the battlefield, further eroding Ukraine’s ability to resist. This assessment aligns with the majority view among independent analysts, who note that Ukraine’s prospects for regaining lost territory are now minimal.
   
-  On the transatlantic front, Johnson critiques the prevailing American belief that Europe will indefinitely sustain Ukraine, characterizing such views as “shallow and propagandistic.” There is growing doubt, even among U.S. analysts, about Europe’s long-term political and economic willingness to underwrite Kyiv’s war effort, especially as the conflict drags on and internal EU divisions deepen.
+  On the economic front, the divide between NATO countries and the BRICS bloc is widening. **Johnson** points out that, “NATO also is losing the economic war with BRICS,” as Western economies struggle with inflation, energy shortages, and political discord, while BRICS nations—led by Russia, China, and India—capitalize on new trade arrangements and resource flows. This trend is expected to persist, with high confidence that BRICS will continue to gain economic leverage over the West in the coming months.
   
-  **Trends and Predictions:**  
-  The majority of independent analysis suggests that the war in Ukraine is set to continue with high intensity and little chance for diplomatic breakthrough in the near term. The destruction of critical infrastructure like the Odessa oil terminal signals a hardening of positions. Johnson expresses high confidence that “negotiations remain futile under current conditions,” and that Western unity on Ukraine will face increasing strain. The Alaska summit, while symbolically important, has not shifted the underlying dynamics. Looking ahead, it is most definite that the conflict’s trajectory will be shaped by battlefield developments and the evolving resolve of European backers, rather than diplomatic overtures from Washington.
+  Meanwhile, diplomatic efforts remain stalled. European leaders are reportedly pushing for a new “Minsk III” agreement, but as previously noted, both Moscow and Washington appear skeptical of any settlement that does not address Russia’s core security concerns. The majority opinion, as reflected in **Johnson’s** recent interviews, is that peace talks are unlikely to yield results without significant concessions from Kyiv and its Western backers.
+  
+  Looking ahead, the prevailing trend is one of continued Russian military and economic ascendancy, with NATO facing internal divisions and resource constraints. Based on the current trajectory, there is high confidence that Russia will consolidate its gains in Ukraine and that BRICS will further erode Western economic dominance. As **Johnson** concludes, “I guarantee that the West’s current strategy is unsustainable, and a major realignment is most definitely underway.”
 articles:
+  - title: Besides Losing the Proxy War in Ukraine, NATO Also is Losing the Economic
+      War with BRICS
+    url: https://sonar21.com/besides-losing-the-proxy-war-in-ukraine-nato-also-is-losing-the-economic-war-with-brics/
+    text: 'Russia’s Special Military Operation ( SMO ) has inflicted massive attrition
+      on Ukraine’s military capabilities and has also exposed the weakness and limitations
+      of the NATO countries  to provide replacement weapons, ammunition and combat vehicles.
+      The SMO also has demonstrated the superiority of Russian weapons compared to those
+      of NATO. Russia, for instance, has successfully employed at least four types of
+      hypersonic missiles, while NATO has not fielded even one. But NATO is not just
+      struggling to remain relevant on the battlefield… it also is losing on the economic
+      front to the BRICS nations. Let’s examine the current debt-to-GDP ratio for the
+      NATO members. It ain’t a pretty picture. The debt-to-GDP ratio for NATO countries
+      in 2025 varies significantly across the 32 member states, reflecting diverse fiscal
+      policies, economic conditions, and military spending commitments. Below is a comprehensive
+      overview based on available data from web sources, particularly focusing on the
+      most recent estimates for 2025. Note that exact figures for some countries may
+      be projections or slightly outdated (e.g., 2024 data), as not all nations publish
+      real-time debt statistics. I’ve prioritized the most authoritative and recent
+      sources, including web results from SIPRI and World Population Review , and supplemented
+      with IMF and OECD estimates where available. Where precise 2025 data is unavailable,
+      I’ve noted the latest figures and trends. Why is this a relevant measurement?
+      The debt-to-GDP ratio measures a country’s general government debt (including
+      central, state, and local government obligations) as a percentage of its gross
+      domestic product (GDP). High ratios indicate greater debt burdens relative to
+      economic output, potentially limiting fiscal flexibility, while low ratios suggest
+      room for borrowing. Below is a table summarizing the debt-to-GDP ratios for NATO
+      countries, based on available 2025 projections or the most recent data (primarily
+      2024, adjusted for trends). Countries are listed alphabetically, with notes on
+      sources and context. Country Debt-to-GDP Ratio (2025 est. %) Notes Albania ~68
+      2024 estimate; stable fiscal policy but limited data for 2025. Belgium ~108 2024
+      data; high but stable, with fiscal consolidation efforts. Bulgaria ~24 2024 estimate;
+      among the lowest in NATO, reflecting conservative fiscal policy. Canada ~104 2025
+      projection; high due to pandemic-era spending, slowly declining. Croatia ~65 2024
+      estimate; moderate, with EU-driven fiscal discipline. Czech Republic ~44 2024
+      estimate; rising slightly due to defense spending increases. Denmark ~30 2024
+      estimate; low, supported by strong economic fundamentals. Estonia ~20 2024 estimate;
+      one of the lowest in NATO, reflecting prudent fiscal management. Finland ~76 2025
+      projection; rising due to increased NATO-related defense spending. France ~115.9
+      2025 estimate; high, with negative credit outlook due to fiscal deficits. Germany
+      ~63.8 2025 estimate; moderate, but constitutional debt brake lifted in 2025 to
+      fund NATO commitments. Greece ~152 2024 estimate; highest in NATO, though declining
+      from post-2008 peaks. Hungary ~73 2024 estimate; stable but pressured by defense
+      spending and economic challenges. Iceland ~60 2024 estimate; moderate, no standing
+      military reduces defense costs. Italy ~135 2025 projection; very high, with IMF
+      warnings on fiscal sustainability. Latvia ~44 2024 estimate; low, but rising due
+      to NATO defense pledges. Lithuania ~38 2024 estimate; low, with increases driven
+      by regional security concerns. Luxembourg ~25 2024 estimate; among the lowest,
+      reflecting strong GDP per capita. Montenegro ~70 2024 estimate; high for a small
+      economy, with limited 2025 data. Netherlands ~48 2024 estimate; low, with fiscal
+      room for increased defense spending. North Macedonia ~52 2024 estimate; moderate,
+      with fiscal pressures from NATO commitments. Norway ~45 2024 estimate; low, bolstered
+      by oil revenues and sovereign wealth fund. Poland ~50 2025 projection; moderate,
+      rising due to high defense spending (3.8% of GDP). Portugal ~100 2024 estimate;
+      high but declining, with EU fiscal oversight. Romania ~52 2024 estimate; rising
+      due to defense modernization efforts. Slovakia ~56 2024 estimate; moderate, with
+      upward pressure from NATO spending. Slovenia ~70 2024 estimate; stable, with EU-driven
+      fiscal discipline. Spain ~105 2024 estimate; high, with slow decline projected
+      for 2025. Sweden ~32 2024 estimate; low, with fiscal capacity to meet NATO targets.
+      Turkey ~30 2025 projection; low, but economic volatility (e.g., inflation) poses
+      risks. United Kingdom ~105 2025 projection; high, stable but pressured by fiscal
+      deficits. United States ~124 2025 projection; high, with Moody’s downgrade in
+      May 2025 due to debt concerns. In general, the NATO countries with the largest
+      economies are also heavily burdened with debt — i.e., the United States, the United
+      Kingdom, France, Spain, Italy and Canada. The number for Germany is misleading
+      because Germany’s debt is growing rapidly — its ratio in 2021 was only 50% — as
+      a consequence of its stagnating economy. Compared to the NATO countries, it’s
+      worth noting that Russia’s debt-to-GDP ratio in 2025 is estimated at ~19%, significantly
+      lower than most NATO countries. This low ratio provides Russia with fiscal flexibility
+      to manage its budget deficit (2.2% of GDP in 2025) and sustain war-related spending,
+      unlike high-debt NATO members like France or Italy, which face tighter constraints.
+      But Russia is not fighting the West alone. Let’s look at the debt-to-GDP ratio
+      for the BRICS nations. As I did with the NATO countries, I am providing a detailed
+      breakdown of the general government debt-to-GDP ratios for the BRICs countries,
+      based on the most recent data and projections available from sources like the
+      IMF, World Population Review , and Trading Economics , as provided in the web
+      results. Where exact 2025 figures are unavailable, I’ve used 2024 data with noted
+      trends for 2025. The ratios are for general government debt (including central,
+      state, and local obligations) unless otherwise specified. Country Debt-to-GDP
+      Ratio (2025 est. %) Notes Brazil ~76.5 2024 data; projected to rise slightly in
+      2025 due to fiscal deficits and social spending. Russia ~19 2024 estimate; remains
+      low, with fiscal flexibility despite war-related spending. India ~81.6 2023 data;
+      stable at ~82% for 2025, balancing growth and fiscal consolidation. China ~88.3
+      2024 data; projected to rise in 2025 due to local government debt and stimulus
+      measures. South Africa ~76.9 2024 estimate; high and rising due to economic stagnation
+      and public sector costs. Egypt ~82.9 2024 estimate; expected to stabilize or slightly
+      decrease in 2025 with IMF support. Ethiopia ~32 2024 estimate; low but rising
+      due to infrastructure spending and debt restructuring needs. Iran ~36.8 2024 estimate;
+      moderate, with limited data for 2025 due to sanctions and economic opacity. Saudi
+      Arabia ~30 2024 estimate; low, supported by oil revenues, with slight increases
+      possible in 2025. United Arab Emirates ~32.1 2024 estimate; low, with fiscal strength
+      from oil and diversification efforts. Apart from having a healthier debt-to-GDP
+      ratio than the NATO countries as a whole, the projected economic growth for the
+      BRICS countries in 2025 is also better — approximately 3.4% as a group — which
+      outpaced the global average for the NATO countries of 2.8% and the G7’s 1.2%.
+      Here are the stats for the individual BRICS nations and new members: • India:
+      6.2% (fastest growing among major economies) • China: 4.8% • Brazil: 2.3% • Russia:
+      1.4% (following 4.3% in 2024) • South Africa: 1.0% • Ethiopia (new BRICS member):
+      6.6% • Other new members such as Indonesia and the UAE are also posting strong
+      numbers (4.7% and 4%, respectively). BRICS is currently leading global growth,
+      now accounting for more than 40% of the world’s GDP according to IMF (PPP terms),
+      with India and China as the primary drivers. Some NATO members continue to issue
+      bellicose threats directed at Russia, but as the numbers above reveal, NATO is
+      economically impotent to actually confront Russia. Several key members of NATO
+      — i.e. Germany, the United Kingdom and France — are in recession and are facing
+      strong economic headwinds that will put greater strain on their already fragile
+      economies. What does this mean in practical terms? None of these countries have
+      the financial resources to build new military production plants; they don’t have
+      spare cash stashed away to purchase new weapon systems from the US and then send
+      them to Ukraine; and they don’t have the means to build up their armed forces
+      and equip them with modern gear and loads of ammunition required to sustain operations
+      on the 21st-century battlefield. For my friends in Europe, I have some bad news…
+      you are no longer relevant as a military force. After 15 centuries of dominating
+      world events, you are now entering the age of impotence. But, you ain’t going
+      alone… the United States is following you on this path to irrelevancy. I had an
+      amusing chat with Marcello today: I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Russia's Special Military Operation has significantly weakened
+      Ukraine's military capabilities and highlighted NATO's limitations in supplying
+      military resources, while also showcasing the superiority of Russian weaponry
+      and revealing economic challenges faced by NATO countries compared to BRICS nations.
+    paragraph_summary: Russia's Special Military Operation (SMO) has significantly weakened
+      Ukraine's military capabilities while revealing NATO's limitations in supplying
+      replacement weapons and ammunition. The operation has showcased the superiority
+      of Russian weaponry, particularly with the successful deployment of hypersonic
+      missiles, a technology NATO has yet to field. Additionally, NATO is facing economic
+      challenges, particularly in comparison to BRICS nations, as evidenced by the varying
+      debt-to-GDP ratios among its 32 member states for 2025. These ratios reflect each
+      country's fiscal policies and military spending, with high ratios indicating greater
+      debt burdens that could restrict economic flexibility. The article emphasizes
+      the importance of these measurements in assessing the financial health and military
+      readiness of NATO countries.
+    published: '2025-08-27T02:56:45+00:00'
+  - title: Besides Losing the Proxy War in Ukraine, NATO Also is Losing the Economic
+      War with BRICS
+    url: https://sonar21.com/besides-losing-the-proxy-war-in-ukraine-nato-also-is-losing-the-economic-war-with-brics/
+    text: 'Russia’s Special Military Operation ( SMO ) has inflicted massive attrition
+      on Ukraine’s military capabilities and has also exposed the weakness and limitations
+      of the NATO countries  to provide replacement weapons, ammunition and combat vehicles.
+      The SMO also has demonstrated the superiority of Russian weapons compared to those
+      of NATO. Russia, for instance, has successfully employed at least four types of
+      hypersonic missiles, while NATO has not fielded even one. But NATO is not just
+      struggling to remain relevant on the battlefield… it also is losing on the economic
+      front to the BRICS nations. Let’s examine the current debt-to-GDP ratio for the
+      NATO members. It ain’t a pretty picture. The debt-to-GDP ratio for NATO countries
+      in 2025 varies significantly across the 32 member states, reflecting diverse fiscal
+      policies, economic conditions, and military spending commitments. Below is a comprehensive
+      overview based on available data from web sources, particularly focusing on the
+      most recent estimates for 2025. Note that exact figures for some countries may
+      be projections or slightly outdated (e.g., 2024 data), as not all nations publish
+      real-time debt statistics. I’ve prioritized the most authoritative and recent
+      sources, including web results from SIPRI and World Population Review , and supplemented
+      with IMF and OECD estimates where available. Where precise 2025 data is unavailable,
+      I’ve noted the latest figures and trends. Why is this a relevant measurement?
+      The debt-to-GDP ratio measures a country’s general government debt (including
+      central, state, and local government obligations) as a percentage of its gross
+      domestic product (GDP). High ratios indicate greater debt burdens relative to
+      economic output, potentially limiting fiscal flexibility, while low ratios suggest
+      room for borrowing. Below is a table summarizing the debt-to-GDP ratios for NATO
+      countries, based on available 2025 projections or the most recent data (primarily
+      2024, adjusted for trends). Countries are listed alphabetically, with notes on
+      sources and context. Country Debt-to-GDP Ratio (2025 est. %) Notes Albania ~68
+      2024 estimate; stable fiscal policy but limited data for 2025. Belgium ~108 2024
+      data; high but stable, with fiscal consolidation efforts. Bulgaria ~24 2024 estimate;
+      among the lowest in NATO, reflecting conservative fiscal policy. Canada ~104 2025
+      projection; high due to pandemic-era spending, slowly declining. Croatia ~65 2024
+      estimate; moderate, with EU-driven fiscal discipline. Czech Republic ~44 2024
+      estimate; rising slightly due to defense spending increases. Denmark ~30 2024
+      estimate; low, supported by strong economic fundamentals. Estonia ~20 2024 estimate;
+      one of the lowest in NATO, reflecting prudent fiscal management. Finland ~76 2025
+      projection; rising due to increased NATO-related defense spending. France ~115.9
+      2025 estimate; high, with negative credit outlook due to fiscal deficits. Germany
+      ~63.8 2025 estimate; moderate, but constitutional debt brake lifted in 2025 to
+      fund NATO commitments. Greece ~152 2024 estimate; highest in NATO, though declining
+      from post-2008 peaks. Hungary ~73 2024 estimate; stable but pressured by defense
+      spending and economic challenges. Iceland ~60 2024 estimate; moderate, no standing
+      military reduces defense costs. Italy ~135 2025 projection; very high, with IMF
+      warnings on fiscal sustainability. Latvia ~44 2024 estimate; low, but rising due
+      to NATO defense pledges. Lithuania ~38 2024 estimate; low, with increases driven
+      by regional security concerns. Luxembourg ~25 2024 estimate; among the lowest,
+      reflecting strong GDP per capita. Montenegro ~70 2024 estimate; high for a small
+      economy, with limited 2025 data. Netherlands ~48 2024 estimate; low, with fiscal
+      room for increased defense spending. North Macedonia ~52 2024 estimate; moderate,
+      with fiscal pressures from NATO commitments. Norway ~45 2024 estimate; low, bolstered
+      by oil revenues and sovereign wealth fund. Poland ~50 2025 projection; moderate,
+      rising due to high defense spending (3.8% of GDP). Portugal ~100 2024 estimate;
+      high but declining, with EU fiscal oversight. Romania ~52 2024 estimate; rising
+      due to defense modernization efforts. Slovakia ~56 2024 estimate; moderate, with
+      upward pressure from NATO spending. Slovenia ~70 2024 estimate; stable, with EU-driven
+      fiscal discipline. Spain ~105 2024 estimate; high, with slow decline projected
+      for 2025. Sweden ~32 2024 estimate; low, with fiscal capacity to meet NATO targets.
+      Turkey ~30 2025 projection; low, but economic volatility (e.g., inflation) poses
+      risks. United Kingdom ~105 2025 projection; high, stable but pressured by fiscal
+      deficits. United States ~124 2025 projection; high, with Moody’s downgrade in
+      May 2025 due to debt concerns. In general, the NATO countries with the largest
+      economies are also heavily burdened with debt — i.e., the United States, the United
+      Kingdom, France, Spain, Italy and Canada. The number for Germany is misleading
+      because Germany’s debt is growing rapidly — its ratio in 2021 was only 50% — as
+      a consequence of its stagnating economy. Compared to the NATO countries, it’s
+      worth noting that Russia’s debt-to-GDP ratio in 2025 is estimated at ~19%, significantly
+      lower than most NATO countries. This low ratio provides Russia with fiscal flexibility
+      to manage its budget deficit (2.2% of GDP in 2025) and sustain war-related spending,
+      unlike high-debt NATO members like France or Italy, which face tighter constraints.
+      But Russia is not fighting the West alone. Let’s look at the debt-to-GDP ratio
+      for the BRICS nations. As I did with the NATO countries, I am providing a detailed
+      breakdown of the general government debt-to-GDP ratios for the BRICs countries,
+      based on the most recent data and projections available from sources like the
+      IMF, World Population Review , and Trading Economics , as provided in the web
+      results. Where exact 2025 figures are unavailable, I’ve used 2024 data with noted
+      trends for 2025. The ratios are for general government debt (including central,
+      state, and local obligations) unless otherwise specified. Country Debt-to-GDP
+      Ratio (2025 est. %) Notes Brazil ~76.5 2024 data; projected to rise slightly in
+      2025 due to fiscal deficits and social spending. Russia ~19 2024 estimate; remains
+      low, with fiscal flexibility despite war-related spending. India ~81.6 2023 data;
+      stable at ~82% for 2025, balancing growth and fiscal consolidation. China ~88.3
+      2024 data; projected to rise in 2025 due to local government debt and stimulus
+      measures. South Africa ~76.9 2024 estimate; high and rising due to economic stagnation
+      and public sector costs. Egypt ~82.9 2024 estimate; expected to stabilize or slightly
+      decrease in 2025 with IMF support. Ethiopia ~32 2024 estimate; low but rising
+      due to infrastructure spending and debt restructuring needs. Iran ~36.8 2024 estimate;
+      moderate, with limited data for 2025 due to sanctions and economic opacity. Saudi
+      Arabia ~30 2024 estimate; low, supported by oil revenues, with slight increases
+      possible in 2025. United Arab Emirates ~32.1 2024 estimate; low, with fiscal strength
+      from oil and diversification efforts. Apart from having a healthier debt-to-GDP
+      ratio than the NATO countries as a whole, the projected economic growth for the
+      BRICS countries in 2025 is also better — approximately 3.4% as a group — which
+      outpaced the global average for the NATO countries of 2.8% and the G7’s 1.2%.
+      Here are the stats for the individual BRICS nations and new members: • India:
+      6.2% (fastest growing among major economies) • China: 4.8% • Brazil: 2.3% • Russia:
+      1.4% (following 4.3% in 2024) • South Africa: 1.0% • Ethiopia (new BRICS member):
+      6.6% • Other new members such as Indonesia and the UAE are also posting strong
+      numbers (4.7% and 4%, respectively). BRICS is currently leading global growth,
+      now accounting for more than 40% of the world’s GDP according to IMF (PPP terms),
+      with India and China as the primary drivers. Some NATO members continue to issue
+      bellicose threats directed at Russia, but as the numbers above reveal, NATO is
+      economically impotent to actually confront Russia. Several key members of NATO
+      — i.e. Germany, the United Kingdom and France — are in recession and are facing
+      strong economic headwinds that will put greater strain on their already fragile
+      economies. What does this mean in practical terms? None of these countries have
+      the financial resources to build new military production plants; they don’t have
+      spare cash stashed away to purchase new weapon systems from the US and then send
+      them to Ukraine; and they don’t have the means to build up their armed forces
+      and equip them with modern gear and loads of ammunition required to sustain operations
+      on the 21st-century battlefield. For my friends in Europe, I have some bad news…
+      you are no longer relevant as a military force. After 15 centuries of dominating
+      world events, you are now entering the age of impotence. But, you ain’t going
+      alone… the United States is following you on this path to irrelevancy. I had an
+      amusing chat with Marcello today: I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: Russia's Special Military Operation has significantly weakened
+      Ukraine's military capabilities and highlighted NATO's limitations in supplying
+      military resources, while also showcasing the superiority of Russian weaponry
+      and revealing economic challenges faced by NATO countries compared to BRICS nations.
+    paragraph_summary: Russia's Special Military Operation (SMO) has significantly weakened
+      Ukraine's military capabilities while revealing NATO's limitations in supplying
+      replacement weapons and ammunition. The operation has showcased the superiority
+      of Russian weaponry, particularly with the successful deployment of hypersonic
+      missiles, a technology NATO has yet to field. Additionally, NATO is facing economic
+      challenges, particularly in comparison to BRICS nations, as evidenced by the varying
+      debt-to-GDP ratios among its 32 member states for 2025. These ratios reflect each
+      country's fiscal policies and military spending, with high ratios indicating greater
+      debt burdens that could restrict economic flexibility. The article emphasizes
+      the importance of these measurements in assessing the financial health and military
+      readiness of NATO countries.
+    published: '2025-08-27T02:56:45+00:00'
+  - title: Another Conversation with General Evgeny Buzhinsky… How Did the Russian Military
+      Survive the Collapse of the Soviet Union?
+    url: https://sonar21.com/another-conversation-with-general-evgeny-buzhinsky-how-did-the-russian-military-survive-the-collapse-of-the-soviet-union/
+    text: 'General Evgeny Buzhinsky (ret.) I wish the US military had Generals like
+      Evgeny Buzhinsky. I had my first conversation with General Buzhinsky in June of
+      this year during my visit to Moscow ( here ). I have learned more about NATO since
+      that visit and want to explore more in-depth how the Russian military survived
+      the collapse of the Soviet Union. General Evgeny (Yevgeny) Buzhinsky is a retired
+      Russian Lieutenant-General and a prominent expert in international security, arms
+      control, and military diplomacy. He served in the Russian Armed Forces from 1968
+      to 2009, holding numerous significant positions, particularly related to military
+      cooperation and international treaties. From 2002 to 2009, he was the Head of
+      the International Treaty Directorate and Deputy Head of the Main Directorate for
+      International Military Cooperation at the Russian Ministry of Defense. After retiring
+      from military service, Buzhinsky has been active as Chairman of the PIR Center’s
+      Executive Board, Co-Chairman of the Trialogue Club International, and Vice President
+      of the Russian International Affairs Council (RIAC). He is also involved in academic
+      work, teaching courses on arms control and nonproliferation studies at Moscow
+      State University and other institutions. Buzhinsky frequently provides analysis
+      on Russian military policy, arms control negotiations, security issues, and Russia-NATO
+      relations I count General Buzhinsky as a new friend. He is an unassuming man…
+      by that I mean he is not full of himself. There is nothing false or pretentious
+      about him. I hope you find our conversation as enlightening as I did: Looks like
+      Trump’s tariff gambit is starting to backfire. Let’s start with the bad news for
+      US soybean farmers. The latest news on US soybean exports highlights a severe
+      decline in sales to China, the country’s former top buyer. As of August 2025,
+      China has made zero new crop purchases of US soybeans for the 2025/26 marketing
+      year, a dramatic reversal from previous years that is placing immense financial
+      pressure on US farmers. This steep drop is due to continued retaliatory tariffs
+      and trade tensions, resulting in China’s overall import duty on US soybeans hitting
+      34%, which makes them far more expensive than South American soybeans. As a result,
+      China has shifted its purchases almost entirely to Brazil and, increasingly, Argentina.
+      US soybean export sales for the upcoming harvest are down 81% from the five-year
+      average, with farmers warning they “cannot survive a prolonged trade dispute”
+      with China. Industry groups and the American Soybean Association are urging the
+      US administration to reach a new deal with China, as current low prices and input
+      costs have put many growers at a financial breaking point. US officials say they
+      are prioritizing trade negotiations, but so far Chinese buying has not returned.
+      The situation is urgent as the harvest nears, and without new deals, the outlook
+      for US soybean exports remains troubled Are you a big coffee drinker? Then get
+      ready to pay more. The price of coffee beans for US manufacturers has surged sharply
+      in 2025. As of August 25, Arabica coffee futures rose to $3.92 per pound, marking
+      a 30% increase just in the past month and about a 56% jump year-over-year. This
+      spike is driven by a combination of extremely tight global supplies—especially
+      out of Brazil due to droughts, frost, and slow exports—and new US import tariffs
+      that make foreign beans, especially Brazilian, 10–50% more expensive. US certified
+      coffee stocks are at their lowest in years, and many suppliers warn of ongoing
+      volatility and potential for further price increases if weather or trade issues
+      worsen. For US manufacturers, these higher green bean costs are translating into
+      record-high wholesale and retail prices. Many coffee roasters expect this level—or
+      further increases—to persist into 2026 unless there is trade policy relief or
+      a significant improvement in harvest conditions globally. I believe that we will
+      see news about other tariff shocks like this in the coming weeks. Here are my
+      chats today with Nima and with Judge Napolitano: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: General Evgeny Buzhinsky, a retired Russian Lieutenant-General
+      and expert in international security, has had a significant impact on military
+      diplomacy and arms control, particularly during his tenure in the Russian Armed
+      Forces and his subsequent roles in various security organizations.
+    paragraph_summary: General Evgeny Buzhinsky, a retired Russian Lieutenant-General
+      and expert in international security, arms control, and military diplomacy, has
+      had a significant impact on understanding NATO and the Russian military's resilience
+      post-Soviet Union. With a military career spanning from 1968 to 2009, he held
+      key roles in international military cooperation and treaty oversight within the
+      Russian Ministry of Defense. After retirement, Buzhinsky has continued to influence
+      the field through leadership positions in various think tanks and academic institutions,
+      where he teaches arms control and nonproliferation. His insights into Russian
+      military policy and relations with NATO have proven valuable, and he is characterized
+      as an approachable and genuine individual.
+    published: '2025-08-26T02:18:53+00:00'
+  - title: Another Conversation with General Evgeny Buzhinsky… How Did the Russian Military
+      Survive the Collapse of the Soviet Union?
+    url: https://sonar21.com/another-conversation-with-general-evgeny-buzhinsky-how-did-the-russian-military-survive-the-collapse-of-the-soviet-union/
+    text: 'General Evgeny Buzhinsky (ret.) I wish the US military had Generals like
+      Evgeny Buzhinsky. I had my first conversation with General Buzhinsky in June of
+      this year during my visit to Moscow ( here ). I have learned more about NATO since
+      that visit and want to explore more in-depth how the Russian military survived
+      the collapse of the Soviet Union. General Evgeny (Yevgeny) Buzhinsky is a retired
+      Russian Lieutenant-General and a prominent expert in international security, arms
+      control, and military diplomacy. He served in the Russian Armed Forces from 1968
+      to 2009, holding numerous significant positions, particularly related to military
+      cooperation and international treaties. From 2002 to 2009, he was the Head of
+      the International Treaty Directorate and Deputy Head of the Main Directorate for
+      International Military Cooperation at the Russian Ministry of Defense. After retiring
+      from military service, Buzhinsky has been active as Chairman of the PIR Center’s
+      Executive Board, Co-Chairman of the Trialogue Club International, and Vice President
+      of the Russian International Affairs Council (RIAC). He is also involved in academic
+      work, teaching courses on arms control and nonproliferation studies at Moscow
+      State University and other institutions. Buzhinsky frequently provides analysis
+      on Russian military policy, arms control negotiations, security issues, and Russia-NATO
+      relations I count General Buzhinsky as a new friend. He is an unassuming man…
+      by that I mean he is not full of himself. There is nothing false or pretentious
+      about him. I hope you find our conversation as enlightening as I did: Looks like
+      Trump’s tariff gambit is starting to backfire. Let’s start with the bad news for
+      US soybean farmers. The latest news on US soybean exports highlights a severe
+      decline in sales to China, the country’s former top buyer. As of August 2025,
+      China has made zero new crop purchases of US soybeans for the 2025/26 marketing
+      year, a dramatic reversal from previous years that is placing immense financial
+      pressure on US farmers. This steep drop is due to continued retaliatory tariffs
+      and trade tensions, resulting in China’s overall import duty on US soybeans hitting
+      34%, which makes them far more expensive than South American soybeans. As a result,
+      China has shifted its purchases almost entirely to Brazil and, increasingly, Argentina.
+      US soybean export sales for the upcoming harvest are down 81% from the five-year
+      average, with farmers warning they “cannot survive a prolonged trade dispute”
+      with China. Industry groups and the American Soybean Association are urging the
+      US administration to reach a new deal with China, as current low prices and input
+      costs have put many growers at a financial breaking point. US officials say they
+      are prioritizing trade negotiations, but so far Chinese buying has not returned.
+      The situation is urgent as the harvest nears, and without new deals, the outlook
+      for US soybean exports remains troubled Are you a big coffee drinker? Then get
+      ready to pay more. The price of coffee beans for US manufacturers has surged sharply
+      in 2025. As of August 25, Arabica coffee futures rose to $3.92 per pound, marking
+      a 30% increase just in the past month and about a 56% jump year-over-year. This
+      spike is driven by a combination of extremely tight global supplies—especially
+      out of Brazil due to droughts, frost, and slow exports—and new US import tariffs
+      that make foreign beans, especially Brazilian, 10–50% more expensive. US certified
+      coffee stocks are at their lowest in years, and many suppliers warn of ongoing
+      volatility and potential for further price increases if weather or trade issues
+      worsen. For US manufacturers, these higher green bean costs are translating into
+      record-high wholesale and retail prices. Many coffee roasters expect this level—or
+      further increases—to persist into 2026 unless there is trade policy relief or
+      a significant improvement in harvest conditions globally. I believe that we will
+      see news about other tariff shocks like this in the coming weeks. Here are my
+      chats today with Nima and with Judge Napolitano: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: General Evgeny Buzhinsky, a retired Russian Lieutenant-General
+      and expert in international security, has had a significant impact on military
+      diplomacy and arms control, particularly during his tenure in the Russian Armed
+      Forces and his subsequent roles in various security organizations.
+    paragraph_summary: General Evgeny Buzhinsky, a retired Russian Lieutenant-General
+      and expert in international security, arms control, and military diplomacy, has
+      had a significant impact on understanding NATO and the Russian military's resilience
+      post-Soviet Union. With a military career spanning from 1968 to 2009, he held
+      key roles in international military cooperation and treaty oversight within the
+      Russian Ministry of Defense. After retirement, Buzhinsky has continued to influence
+      the field through leadership positions in various think tanks and academic institutions,
+      where he teaches arms control and nonproliferation. His insights into Russian
+      military policy and relations with NATO have proven valuable, and he is characterized
+      as an approachable and genuine individual.
+    published: '2025-08-26T02:18:53+00:00'
+  - title: Allegiance to Whom? And Lavrov Speaks . . .
+    url: https://sonar21.com/allegiance-to-whom-and-lavrov-speaks/
+    text: 'The following video, if true, is a damning indictment of Donald Trump and
+      his ostensible commitment to America First . Nope. Trump is putting America Second
+      . US Army Sergeant Jonathan Estridge, a 20-year military veteran, says he is under
+      investigation for sharing anti-Israel posts on social media. He says he was told
+      he is being investigated as a “national security threat.” Sgt. Estridge is correct
+      when he says he swore an oath to uphold and defend the Constitution. There is
+      nothing in the oath that US military personnel are required to swear an oath to
+      protect Israel. I am fascinated by Russia’s Foreign Minister Sergei Lavrov agreeing
+      to do an interview with NBC . The bimbo doing the interview was following a script
+      and not listening to what Lavrov was actually saying. Mr. Lavrov, despite gotcha
+      questions from Kristen Welker, who conducted the interrogation, remained calm
+      and cool and precise. He even extended an invitation for her to come to Moscow
+      and do the next one in person. Now that the hype surrounding the Alaska Summit
+      and Trump’s subsequent Monday meeting in Washington with Ukraine’s Zelensky and
+      this seven-pimp masters from Europe, has died down, there is growing realization
+      in the West that there is no peace deal imminent. Lavrov explains in meticulous
+      detail Russia’s position, which I have published on this blog ad nauseum . While
+      I understand President Putin’s desire to have a normal relationship with President
+      Trump, I worry that Mr. Putin does not comprehend the depth of hatred within the
+      Deep State for the Russian government. There is nothing short of destroying Ukraine
+      militarily that will compel the West to reach a diplomatic solution to the war
+      in Ukraine. I don’t know if Vladimir Putin is a student or fan of game theory
+      , but I think that recent Russian actions suggests that Putin is applying the
+      principles. So what is the best strategy, according to game theory , when Russia
+      is trying to negotiate with the United States, who is intent on seeking Russia’s
+      subjugation to Washington? Whether through deceit, economic sanctions or military
+      force, I believe that the US is intent on destroying Russia. The Washington bureaucracy
+      will not allow Donald Trump to create a normal economic and diplomatic relationship
+      with Russia. So what should Russia do according to game theory ? Game theory suggests
+      that the best strategy when negotiating with a party that wishes to harm you involves
+      a careful balance of deterrence, credible threats, and restraint. Key insights
+      include: • Credible commitment : You must make threats or promises that your adversary
+      believes you will carry out; credibility often requires some form of constraint
+      on your own actions to build trust in your declared strategy. Without credibility,
+      threats will be ignored and negotiations will break down. • Tit-for-tat or reciprocity
+      : A common deterrent approach is to respond in kind to your opponent’s actions
+      (e.g., cooperating when they cooperate, retaliating when they harm). This encourages
+      cooperation by showing that aggressive behavior will be met with retaliation,
+      making harm costly. • Communication and reputation : Successful deterrence hinges
+      on clear communication of intentions and maintaining a reputation for both resolve
+      and restraint. This strategic signaling helps avoid unintended escalation while
+      demonstrating that you will defend your interests. • Future consequences and repeated
+      interactions : Viewing negotiations as part of a longer-term sequence encourages
+      cooperative behavior since both sides anticipate future repercussions if they
+      defect or harm one another. I think that Russia’s attack this past week on a US-owned
+      factory in western Ukraine, which was producing key components for drones, was
+      an example of tit-for-tat retaliation. In summary, game theory advises Putin to  balance
+      firmness and restraint and to make credible threats of retaliation to deter harm,
+      while keeping channels for cooperation open to avoid unnecessary conflict. Here
+      is the Lavrov interview. I strongly recommend that you take the time to watch
+      it: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article critiques Donald Trump's commitment to America
+      First by highlighting the case of US Army Sergeant Jonathan Estridge, who is under
+      investigation for sharing anti-Israel posts, and contrasts this with an interview
+      where Russia's Foreign Minister Sergei Lavrov remained composed despite challenging
+      questions.
+    paragraph_summary: The article critiques Donald Trump's commitment to an "America
+      First" policy, highlighting the case of US Army Sergeant Jonathan Estridge, who
+      is under investigation for sharing anti-Israel posts and labeled a "national security
+      threat," suggesting a disconnect between military oaths and foreign allegiance.
+      It also discusses an interview with Russian Foreign Minister Sergei Lavrov, where
+      he maintained composure despite challenging questions, and reflects on the lack
+      of imminent peace in Ukraine, emphasizing the West's reluctance to negotiate.
+      The author expresses concern that Russian President Vladimir Putin may underestimate
+      the hostility of the US "Deep State" towards Russia, suggesting that military
+      action in Ukraine may be the only way to prompt a diplomatic resolution, while
+      hinting at the strategic complexities involved in US-Russia negotiations.
+    published: '2025-08-25T00:04:17+00:00'
+  - title: Allegiance to Whom? And Lavrov Speaks . . .
+    url: https://sonar21.com/allegiance-to-whom-and-lavrov-speaks/
+    text: 'The following video, if true, is a damning indictment of Donald Trump and
+      his ostensible commitment to America First . Nope. Trump is putting America Second
+      . US Army Sergeant Jonathan Estridge, a 20-year military veteran, says he is under
+      investigation for sharing anti-Israel posts on social media. He says he was told
+      he is being investigated as a “national security threat.” Sgt. Estridge is correct
+      when he says he swore an oath to uphold and defend the Constitution. There is
+      nothing in the oath that US military personnel are required to swear an oath to
+      protect Israel. I am fascinated by Russia’s Foreign Minister Sergei Lavrov agreeing
+      to do an interview with NBC . The bimbo doing the interview was following a script
+      and not listening to what Lavrov was actually saying. Mr. Lavrov, despite gotcha
+      questions from Kristen Welker, who conducted the interrogation, remained calm
+      and cool and precise. He even extended an invitation for her to come to Moscow
+      and do the next one in person. Now that the hype surrounding the Alaska Summit
+      and Trump’s subsequent Monday meeting in Washington with Ukraine’s Zelensky and
+      this seven-pimp masters from Europe, has died down, there is growing realization
+      in the West that there is no peace deal imminent. Lavrov explains in meticulous
+      detail Russia’s position, which I have published on this blog ad nauseum . While
+      I understand President Putin’s desire to have a normal relationship with President
+      Trump, I worry that Mr. Putin does not comprehend the depth of hatred within the
+      Deep State for the Russian government. There is nothing short of destroying Ukraine
+      militarily that will compel the West to reach a diplomatic solution to the war
+      in Ukraine. I don’t know if Vladimir Putin is a student or fan of game theory
+      , but I think that recent Russian actions suggests that Putin is applying the
+      principles. So what is the best strategy, according to game theory , when Russia
+      is trying to negotiate with the United States, who is intent on seeking Russia’s
+      subjugation to Washington? Whether through deceit, economic sanctions or military
+      force, I believe that the US is intent on destroying Russia. The Washington bureaucracy
+      will not allow Donald Trump to create a normal economic and diplomatic relationship
+      with Russia. So what should Russia do according to game theory ? Game theory suggests
+      that the best strategy when negotiating with a party that wishes to harm you involves
+      a careful balance of deterrence, credible threats, and restraint. Key insights
+      include: • Credible commitment : You must make threats or promises that your adversary
+      believes you will carry out; credibility often requires some form of constraint
+      on your own actions to build trust in your declared strategy. Without credibility,
+      threats will be ignored and negotiations will break down. • Tit-for-tat or reciprocity
+      : A common deterrent approach is to respond in kind to your opponent’s actions
+      (e.g., cooperating when they cooperate, retaliating when they harm). This encourages
+      cooperation by showing that aggressive behavior will be met with retaliation,
+      making harm costly. • Communication and reputation : Successful deterrence hinges
+      on clear communication of intentions and maintaining a reputation for both resolve
+      and restraint. This strategic signaling helps avoid unintended escalation while
+      demonstrating that you will defend your interests. • Future consequences and repeated
+      interactions : Viewing negotiations as part of a longer-term sequence encourages
+      cooperative behavior since both sides anticipate future repercussions if they
+      defect or harm one another. I think that Russia’s attack this past week on a US-owned
+      factory in western Ukraine, which was producing key components for drones, was
+      an example of tit-for-tat retaliation. In summary, game theory advises Putin to  balance
+      firmness and restraint and to make credible threats of retaliation to deter harm,
+      while keeping channels for cooperation open to avoid unnecessary conflict. Here
+      is the Lavrov interview. I strongly recommend that you take the time to watch
+      it: I thank you for your invaluable support by taking time to read or comment.
+      I do not charge a subscription fee nor do I accept advertising. I want the content
+      to be accessible to everyone interested in the issues I am discussing. However,
+      if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article critiques Donald Trump's commitment to America
+      First by highlighting the case of US Army Sergeant Jonathan Estridge, who is under
+      investigation for sharing anti-Israel posts, and contrasts this with an interview
+      where Russia's Foreign Minister Sergei Lavrov remained composed despite challenging
+      questions.
+    paragraph_summary: The article critiques Donald Trump's commitment to an "America
+      First" policy, highlighting the case of US Army Sergeant Jonathan Estridge, who
+      is under investigation for sharing anti-Israel posts and labeled a "national security
+      threat," suggesting a disconnect between military oaths and foreign allegiance.
+      It also discusses an interview with Russian Foreign Minister Sergei Lavrov, where
+      he maintained composure despite challenging questions, and reflects on the lack
+      of imminent peace in Ukraine, emphasizing the West's reluctance to negotiate.
+      The author expresses concern that Russian President Vladimir Putin may underestimate
+      the hostility of the US "Deep State" towards Russia, suggesting that military
+      action in Ukraine may be the only way to prompt a diplomatic resolution, while
+      hinting at the strategic complexities involved in US-Russia negotiations.
+    published: '2025-08-25T00:04:17+00:00'
+  - title: The Sad State of US-Based Russian Scholars
+    url: https://sonar21.com/the-sad-state-of-us-based-russian-scholars/
+    text: 'I miss Professor Stephen Cohen desperately. He knew and understood Russia
+      as it is today. The same cannot be said for the current professor emeritus of
+      Princeton, Stephen Kotkin. There is no denying his scholarship and his academic
+      credentials, but based on his comments to Tunku Varadarajan, who is the author
+      of a recent Wall Street Journal op-ed, he exhibits an ignorance and prejudice
+      that tells me that he knows nothing of military affairs nor of the current conditions
+      in Russia. While I do not claim to be a Russian scholar , I spent enough time
+      on farms in Missouri (my home state) to recognize horse manure when I see it.
+      Varadarajan’s article — With Putin, ‘Ultimately, Trump Holds the Cards’ — is not
+      even a clever piece of journalism and, in my opinion, is another indicator of
+      the panic gripping the anti-Russian crowd. Varadarajan opens with this: “Nobody
+      can do more damage to Putin than President Trump,” Stephen Kotkin says. “Putin
+      is actually afraid of Trump. Trump is the only one who could hurt Putin in a big
+      way.” Few in the West have a deeper understanding of Mr. Putin than Mr. Kotkin,
+      66, a historian whose monumental biography of Joseph Stalin—one of Mr. Putin’s
+      heroes—awaits its third and final volume. Mr. Kotkin is a fellow at Stanford University’s
+      Hoover Institution and a professor emeritus at Princeton. No, Stalin is not a
+      hero of Putin. Putin acknowledged the association of Stalinism with a “personality
+      cult and mass violations of the law, with repression and camps,” in a 2013 interview.
+      Putin argued for a more “balanced assessment” that recognizes both Stalin’s crimes
+      and his achievements, insisting that there is no comparison to present-day Russia:
+      “There is nothing like this in Russia and, I hope, never will be again.” Yes,
+      Stalin committed horrific crimes and was denounced by his successor, Nikita Khrushchev
+      in February 1956, who criticized Stalin’s terror, purges, and the cult of personality
+      built around him. Putin is simply stating history when he says there needs to
+      be a balanced assessment. Under Joseph Stalin’s rule, the literacy rate in the
+      Soviet Union saw a significant rise. When the Bolsheviks came to power in 1917,
+      the country had a very low literacy rate — only about 21% of adults could read,
+      according to the 1897 Russian Empire census. By the end of the 1930s, this number
+      had dramatically increased. Official Soviet census data showed literacy rates
+      reached approximately 89-90% overall by 1939, with male literacy around 90.8%
+      and female literacy around 72.5%. By the 1950s, the Soviet Union had nearly universal
+      literacy. I note in passing that the current literacy rate in the United States
+      is 79%. Industrial production in the Soviet Union underwent a dramatic and rapid
+      transformation as part of the state-driven policy of industrialization during
+      Stalin’s rule. Starting with the First Five-Year Plan (1928–1932), heavy industry
+      production assets increased 2.7 times compared to 1928. The plan was officially
+      fulfilled ahead of schedule, achieving heavy industry production at 108% of the
+      goals. Industrial output grew by about 50%, averaging an 18% growth rate yearly.
+      Factory output surged, and employment in industrial sectors increased significantly.
+      Industrial employment grew from 4.6 million in 1928 to 12.6 million by 1940. This
+      period saw rapid urbanization and an expansion of the technical workforce. Education
+      in technical fields expanded fourfold during this time. Trying to smear Putin
+      as a lackey of Stalin is dishonest. Stalin did some very bad things and he did
+      some very good things that benefited the peoples of the Soviet Union. Faulting
+      Putin for acknowledging historical reality is ridiculous. Kotkin then proceeds
+      to reveal his lack of academic objectivity with this claim: Mr. Putin “made an
+      enormous strategic blunder and is damaging Russia severely for the long term.”
+      He has lost his country’s old sphere of influence: “All his neighbors hate him
+      and are afraid of him.” Even Alexander Lukashenko, the dictator in fraternal neighbor
+      Belarus, is “looking for some distance, to get out of the stranglehold of Russia.”
+      Mr. Putin has also “lost his civilian economy.” Lost influence in Belarus? Kotkin
+      is not keeping up with current events. If Lukashenko is afraid of Putin , then
+      why is the Belarusian president proudly proclaiming that the military plans to
+      deploy the Russian-made Oreshnik missile system in Belarus in 2025, with preparations
+      already underway at selected sites? The deployment is expected by the end of the
+      year, following Russia’s production and initial deployment of the missile to its
+      own troops. Lukashenko has emphasized that the deployment is part of Belarus’s
+      strategic deterrence and military preparedness, underscoring the need to be ready
+      for any eventuality amid rising geopolitical tensions. Do you think that Putin
+      is going to give one of Russia’s most sophisticated missiles to a guy who is going
+      to stab him in the back? Kotkin then reveals his ignorance to military affairs
+      with this claim: Second, Ukraine is “an asset, not a liability—but we don’t seem
+      to be able to appreciate how it’s an asset, and why.” He means that “Ukraine has
+      an army”—a serious one, unlike, say, Germany. “We’ve been able to send a lot of
+      our weapons and test them in battlefield conditions because of Ukrainian bravery
+      and ingenuity.” Yeah, we’ve sent them HIMARS and M777 howitzers and an array of
+      other military weapons, and what has it achieved?  Nothing, other than reveal
+      the paucity of US and NATO’s military production capabilities and Russia’s nimbleness
+      in boosting military output and skill in developing effective countermeasures
+      to US weapons. Kotkin then tells Varadarajan a real whopper, and in the process
+      shows his ignorance of history: Mr. Kotkin warns against facile obsessions with
+      “winning.” We talk all the time, he says, about “who’s going to win the war. But
+      what matters is winning the peace.” In Afghanistan, America won the war and lost
+      the peace. In Vietnam, the other way around. We won the war in Afghanistan? By
+      what metric? We killed thousands of Afghans and the Taliban wound up in control
+      of the country and a massive arsenal delivered courtesy of Uncle Sam. And how
+      exactly did the US, “win the peace” in Vietnam? Vietnam booted the US out of Saigon,
+      now Ho Chi Minh city, and secured control of the entire country. Kotkin then offers
+      his recipe for Ukrainian victory. All I can say is: pathetic ! So how could Ukraine
+      win the peace? Membership in the North Atlantic Treaty Organization is out of
+      the question, if only because the U.S. opposes it. The alternative is “joining
+      the West through accession to the European Union,” Mr. Kotkin says. “They’ll need
+      massive domestic reforms to be able to join. But it’s a great process for bringing
+      countries into constitutional rule-of-law, open-society, and market-economy institutions.”
+      Holding up the European Union as a model of constitutional rule and open-society
+      is a damn joke. Just ask the journalists and citizens who have been arrested for
+      protesting the war in Ukraine and the genocide in Gaza. Kotkin then offers up
+      this pipe-dream : The other marker of a Ukrainian win is “some type of security,
+      which some people call ‘security guarantees’, but which looks more like the ‘steel
+      porcupine’ approach.” . . . Mr. Kotkin says it would mean helping Ukraine set
+      up a “strong defense establishment with weapons production at home and continued
+      financing for that from its European partners. So you get both EU accession and
+      a version of security where Ukraine is doing most of the heavy lifting.” Heavy
+      lifting ? Russia is currently destroying every defense production facility that
+      it can identify. Kotkin appears to be only reading the mainstream press instead
+      of doing some actual research about the capability of Ukraine to “set up a strong
+      defense establishment .” Kotkin also displays his ignorance of the central role
+      the US played in arming Ukraine and in planning Ukrainian military operations
+      with this assertion: “But overall, the Biden strategy failed. Why? Because the
+      argument was that we’re supporting Ukraine to put them in the best position to
+      negotiate a more favorable settlement. But the problem was, there were never any
+      negotiations.” Now we come to the issue of Trump cards . Kotkin faults President
+      Trump for not putting pressure on Putin: The flaw in Mr. Trump’s approach “is
+      that he didn’t put the same pressure on the other party,” Mr. Kotkin says. “He
+      put all the pressure on the Ukrainians and, so far, next to no pressure on Putin
+      and the Russian establishment to force the negotiations.” Here is a news flash:
+      Trump has no cards to play. Kotkin again demonstrates that he is not keeping up
+      with the news with this lame proposal: Most important, the West needs “very severe
+      political pressure on Putin’s regime, and that comes in the form of alternatives
+      to his rule.” Many prominent Russians “feel that Russia is on a self-defeating
+      trajectory right now.” These are nationalists; “they are not democrats, they’re
+      authoritarians. They don’t look like the kind of Russian opposition we might associate
+      with in terms of values. They have no sympathy for Ukraine, but they have a lot
+      of sympathy for Russia, and they feel that an end to the war would help Russia
+      regain the civilian economy that it’s lost.” U.S. and European intelligence agencies
+      are “recruiting them inside. We know who they are.” Putin’s popularity, as measured
+      by polls funded by Western organizations, hovers around 80%. And Kotkin’s belief
+      that the civilian economy in Russia “is lost,” is completely absurd. In terms
+      of purchasing power parity, which measures what the Russian citizens can buy with
+      their rubles, Russia is now the fourth largest economy in the world. What the
+      hell is he talking about? Kotkin’s concluding comments to Varadarajan shows that
+      he is no political economist: There are other things Mr. Trump could do. These
+      include a removal of Russia’s Gazprombank from the Swift international banking
+      system, to which it still has tenuous access, greenlighting the confiscation of
+      $300 billion worth of Russian deposits in European banks, getting India to “buckle”
+      and stop buying of Russian oil, and, most audacious, “cutting a deal with Xi Jinping
+      behind Putin’s back to reduce China’s support for Russia in a bargain between
+      the U.S. and China. It’s thinkable.” As I noted in yesterday’s post, India and
+      China are now more firmly in Russia’s camp in the wake of Donald Trump’s ill-advised
+      tariff attack on both countries. The Indian business leaders, who were the strongest
+      voices in India for closer ties with the US business community, are now up in
+      arms and advocating for more cooperation and trade with Russia, not less. In short,
+      Donald Trump is out of cards. I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The author expresses deep admiration for the late Professor
+      Stephen Cohen's understanding of Russia, contrasting it with the perceived ignorance
+      and prejudice of current Princeton professor Stephen Kotkin, particularly regarding
+      military affairs and the current state of Russia, as highlighted in a Wall Street
+      Journal op-ed by Tunku Varadarajan.
+    paragraph_summary: The author expresses deep nostalgia for Professor Stephen Cohen's
+      insights on contemporary Russia, contrasting them with the views of Stephen Kotkin,
+      a current professor emeritus at Princeton. While acknowledging Kotkin's academic
+      credentials, the author critiques his understanding of military affairs and current
+      Russian conditions, particularly in light of Kotkin's comments in a Wall Street
+      Journal op-ed by Tunku Varadarajan. The article argues that Kotkin's assertion
+      that President Trump poses a significant threat to Putin reflects a misunderstanding
+      of both Putin and the political landscape. The author also clarifies that while
+      Putin has acknowledged Stalin's historical significance, he does not view him
+      as a hero, emphasizing the need for a nuanced understanding of Russian history
+      and politics.
+    published: '2025-08-24T02:34:44+00:00'
+  - title: The Sad State of US-Based Russian Scholars
+    url: https://sonar21.com/the-sad-state-of-us-based-russian-scholars/
+    text: 'I miss Professor Stephen Cohen desperately. He knew and understood Russia
+      as it is today. The same cannot be said for the current professor emeritus of
+      Princeton, Stephen Kotkin. There is no denying his scholarship and his academic
+      credentials, but based on his comments to Tunku Varadarajan, who is the author
+      of a recent Wall Street Journal op-ed, he exhibits an ignorance and prejudice
+      that tells me that he knows nothing of military affairs nor of the current conditions
+      in Russia. While I do not claim to be a Russian scholar , I spent enough time
+      on farms in Missouri (my home state) to recognize horse manure when I see it.
+      Varadarajan’s article — With Putin, ‘Ultimately, Trump Holds the Cards’ — is not
+      even a clever piece of journalism and, in my opinion, is another indicator of
+      the panic gripping the anti-Russian crowd. Varadarajan opens with this: “Nobody
+      can do more damage to Putin than President Trump,” Stephen Kotkin says. “Putin
+      is actually afraid of Trump. Trump is the only one who could hurt Putin in a big
+      way.” Few in the West have a deeper understanding of Mr. Putin than Mr. Kotkin,
+      66, a historian whose monumental biography of Joseph Stalin—one of Mr. Putin’s
+      heroes—awaits its third and final volume. Mr. Kotkin is a fellow at Stanford University’s
+      Hoover Institution and a professor emeritus at Princeton. No, Stalin is not a
+      hero of Putin. Putin acknowledged the association of Stalinism with a “personality
+      cult and mass violations of the law, with repression and camps,” in a 2013 interview.
+      Putin argued for a more “balanced assessment” that recognizes both Stalin’s crimes
+      and his achievements, insisting that there is no comparison to present-day Russia:
+      “There is nothing like this in Russia and, I hope, never will be again.” Yes,
+      Stalin committed horrific crimes and was denounced by his successor, Nikita Khrushchev
+      in February 1956, who criticized Stalin’s terror, purges, and the cult of personality
+      built around him. Putin is simply stating history when he says there needs to
+      be a balanced assessment. Under Joseph Stalin’s rule, the literacy rate in the
+      Soviet Union saw a significant rise. When the Bolsheviks came to power in 1917,
+      the country had a very low literacy rate — only about 21% of adults could read,
+      according to the 1897 Russian Empire census. By the end of the 1930s, this number
+      had dramatically increased. Official Soviet census data showed literacy rates
+      reached approximately 89-90% overall by 1939, with male literacy around 90.8%
+      and female literacy around 72.5%. By the 1950s, the Soviet Union had nearly universal
+      literacy. I note in passing that the current literacy rate in the United States
+      is 79%. Industrial production in the Soviet Union underwent a dramatic and rapid
+      transformation as part of the state-driven policy of industrialization during
+      Stalin’s rule. Starting with the First Five-Year Plan (1928–1932), heavy industry
+      production assets increased 2.7 times compared to 1928. The plan was officially
+      fulfilled ahead of schedule, achieving heavy industry production at 108% of the
+      goals. Industrial output grew by about 50%, averaging an 18% growth rate yearly.
+      Factory output surged, and employment in industrial sectors increased significantly.
+      Industrial employment grew from 4.6 million in 1928 to 12.6 million by 1940. This
+      period saw rapid urbanization and an expansion of the technical workforce. Education
+      in technical fields expanded fourfold during this time. Trying to smear Putin
+      as a lackey of Stalin is dishonest. Stalin did some very bad things and he did
+      some very good things that benefited the peoples of the Soviet Union. Faulting
+      Putin for acknowledging historical reality is ridiculous. Kotkin then proceeds
+      to reveal his lack of academic objectivity with this claim: Mr. Putin “made an
+      enormous strategic blunder and is damaging Russia severely for the long term.”
+      He has lost his country’s old sphere of influence: “All his neighbors hate him
+      and are afraid of him.” Even Alexander Lukashenko, the dictator in fraternal neighbor
+      Belarus, is “looking for some distance, to get out of the stranglehold of Russia.”
+      Mr. Putin has also “lost his civilian economy.” Lost influence in Belarus? Kotkin
+      is not keeping up with current events. If Lukashenko is afraid of Putin , then
+      why is the Belarusian president proudly proclaiming that the military plans to
+      deploy the Russian-made Oreshnik missile system in Belarus in 2025, with preparations
+      already underway at selected sites? The deployment is expected by the end of the
+      year, following Russia’s production and initial deployment of the missile to its
+      own troops. Lukashenko has emphasized that the deployment is part of Belarus’s
+      strategic deterrence and military preparedness, underscoring the need to be ready
+      for any eventuality amid rising geopolitical tensions. Do you think that Putin
+      is going to give one of Russia’s most sophisticated missiles to a guy who is going
+      to stab him in the back? Kotkin then reveals his ignorance to military affairs
+      with this claim: Second, Ukraine is “an asset, not a liability—but we don’t seem
+      to be able to appreciate how it’s an asset, and why.” He means that “Ukraine has
+      an army”—a serious one, unlike, say, Germany. “We’ve been able to send a lot of
+      our weapons and test them in battlefield conditions because of Ukrainian bravery
+      and ingenuity.” Yeah, we’ve sent them HIMARS and M777 howitzers and an array of
+      other military weapons, and what has it achieved?  Nothing, other than reveal
+      the paucity of US and NATO’s military production capabilities and Russia’s nimbleness
+      in boosting military output and skill in developing effective countermeasures
+      to US weapons. Kotkin then tells Varadarajan a real whopper, and in the process
+      shows his ignorance of history: Mr. Kotkin warns against facile obsessions with
+      “winning.” We talk all the time, he says, about “who’s going to win the war. But
+      what matters is winning the peace.” In Afghanistan, America won the war and lost
+      the peace. In Vietnam, the other way around. We won the war in Afghanistan? By
+      what metric? We killed thousands of Afghans and the Taliban wound up in control
+      of the country and a massive arsenal delivered courtesy of Uncle Sam. And how
+      exactly did the US, “win the peace” in Vietnam? Vietnam booted the US out of Saigon,
+      now Ho Chi Minh city, and secured control of the entire country. Kotkin then offers
+      his recipe for Ukrainian victory. All I can say is: pathetic ! So how could Ukraine
+      win the peace? Membership in the North Atlantic Treaty Organization is out of
+      the question, if only because the U.S. opposes it. The alternative is “joining
+      the West through accession to the European Union,” Mr. Kotkin says. “They’ll need
+      massive domestic reforms to be able to join. But it’s a great process for bringing
+      countries into constitutional rule-of-law, open-society, and market-economy institutions.”
+      Holding up the European Union as a model of constitutional rule and open-society
+      is a damn joke. Just ask the journalists and citizens who have been arrested for
+      protesting the war in Ukraine and the genocide in Gaza. Kotkin then offers up
+      this pipe-dream : The other marker of a Ukrainian win is “some type of security,
+      which some people call ‘security guarantees’, but which looks more like the ‘steel
+      porcupine’ approach.” . . . Mr. Kotkin says it would mean helping Ukraine set
+      up a “strong defense establishment with weapons production at home and continued
+      financing for that from its European partners. So you get both EU accession and
+      a version of security where Ukraine is doing most of the heavy lifting.” Heavy
+      lifting ? Russia is currently destroying every defense production facility that
+      it can identify. Kotkin appears to be only reading the mainstream press instead
+      of doing some actual research about the capability of Ukraine to “set up a strong
+      defense establishment .” Kotkin also displays his ignorance of the central role
+      the US played in arming Ukraine and in planning Ukrainian military operations
+      with this assertion: “But overall, the Biden strategy failed. Why? Because the
+      argument was that we’re supporting Ukraine to put them in the best position to
+      negotiate a more favorable settlement. But the problem was, there were never any
+      negotiations.” Now we come to the issue of Trump cards . Kotkin faults President
+      Trump for not putting pressure on Putin: The flaw in Mr. Trump’s approach “is
+      that he didn’t put the same pressure on the other party,” Mr. Kotkin says. “He
+      put all the pressure on the Ukrainians and, so far, next to no pressure on Putin
+      and the Russian establishment to force the negotiations.” Here is a news flash:
+      Trump has no cards to play. Kotkin again demonstrates that he is not keeping up
+      with the news with this lame proposal: Most important, the West needs “very severe
+      political pressure on Putin’s regime, and that comes in the form of alternatives
+      to his rule.” Many prominent Russians “feel that Russia is on a self-defeating
+      trajectory right now.” These are nationalists; “they are not democrats, they’re
+      authoritarians. They don’t look like the kind of Russian opposition we might associate
+      with in terms of values. They have no sympathy for Ukraine, but they have a lot
+      of sympathy for Russia, and they feel that an end to the war would help Russia
+      regain the civilian economy that it’s lost.” U.S. and European intelligence agencies
+      are “recruiting them inside. We know who they are.” Putin’s popularity, as measured
+      by polls funded by Western organizations, hovers around 80%. And Kotkin’s belief
+      that the civilian economy in Russia “is lost,” is completely absurd. In terms
+      of purchasing power parity, which measures what the Russian citizens can buy with
+      their rubles, Russia is now the fourth largest economy in the world. What the
+      hell is he talking about? Kotkin’s concluding comments to Varadarajan shows that
+      he is no political economist: There are other things Mr. Trump could do. These
+      include a removal of Russia’s Gazprombank from the Swift international banking
+      system, to which it still has tenuous access, greenlighting the confiscation of
+      $300 billion worth of Russian deposits in European banks, getting India to “buckle”
+      and stop buying of Russian oil, and, most audacious, “cutting a deal with Xi Jinping
+      behind Putin’s back to reduce China’s support for Russia in a bargain between
+      the U.S. and China. It’s thinkable.” As I noted in yesterday’s post, India and
+      China are now more firmly in Russia’s camp in the wake of Donald Trump’s ill-advised
+      tariff attack on both countries. The Indian business leaders, who were the strongest
+      voices in India for closer ties with the US business community, are now up in
+      arms and advocating for more cooperation and trade with Russia, not less. In short,
+      Donald Trump is out of cards. I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The author expresses deep admiration for the late Professor
+      Stephen Cohen's understanding of Russia, contrasting it with the perceived ignorance
+      and prejudice of current Princeton professor Stephen Kotkin, particularly regarding
+      military affairs and the current state of Russia, as highlighted in a Wall Street
+      Journal op-ed by Tunku Varadarajan.
+    paragraph_summary: The author expresses deep nostalgia for Professor Stephen Cohen's
+      insights on contemporary Russia, contrasting them with the views of Stephen Kotkin,
+      a current professor emeritus at Princeton. While acknowledging Kotkin's academic
+      credentials, the author critiques his understanding of military affairs and current
+      Russian conditions, particularly in light of Kotkin's comments in a Wall Street
+      Journal op-ed by Tunku Varadarajan. The article argues that Kotkin's assertion
+      that President Trump poses a significant threat to Putin reflects a misunderstanding
+      of both Putin and the political landscape. The author also clarifies that while
+      Putin has acknowledged Stalin's historical significance, he does not view him
+      as a hero, emphasizing the need for a nuanced understanding of Russian history
+      and politics.
+    published: '2025-08-24T02:34:44+00:00'
+  - title: Is Trump, Like Biden, Politicizing Intelligence?
+    url: https://sonar21.com/is-trump-like-biden-politicizing-intelligence/
+    text: 'Lt. General Jeffrey Kruse (AP Photo / Mark Scheifelbein) If you thought that
+      Donald Trump had learned the importance of keeping politics out of intelligence
+      in light of how the intelligence community was used as a tool to attack and subvert
+      his Presidency, think again. Defense Secretary Pete Hegseth has fired a general
+      whose agency’s initial intelligence assessment of U.S. damage to Iranian nuclear
+      sites angered President Donald Trump , according to two people familiar with the
+      decision and a White House official. Lt. Gen. Jeffrey Kruse will no longer serve
+      as head of the U.S. Defense Intelligence Agency, according to the people, who
+      spoke Friday on condition of anonymity because they were not authorized to discuss
+      it publicly. . . . Kruse’s firing comes two months after details of a preliminary
+      assessment of U.S. airstrikes against Iran leaked to the media. It found that
+      Iran’s nuclear program has been set back only a few months by the military effort,
+      contradicting assertions from Trump and Israeli Prime Minister Benjamin Netanyahu.
+      The Republican president, who had pronounced the Iranian program “completely and
+      fully obliterated,” rejected the report. While this is a different kind of interference
+      — i.e., rejecting the judgment of intelligence analysts because they do not parrot
+      the administration line — from that employed by the Biden administration — i.e.,
+      fabricating intelligence, such as Russian casualty figures, in order to placate
+      the government policy — both are dangerous. There was a previous high-profile
+      case… Mike Collins was fired in May 2025 by Director of National Intelligence
+      Tulsi Gabbard from his position as acting head of the National Intelligence Council
+      (aka NIC ). One of the NIC ‘ s primary duties is the production of National Intelligence
+      Estimates . Collins firing occurred shortly after the NIC published an assessment
+      that contradicted claims made by the Trump administration regarding the Venezuelan
+      gang Tren de Aragua , which weakened a justification used by Trump to exercise
+      wartime powers. It is not clear if the NIE conclusion discounting the connection
+      between Tren de Aragua and Venezuelan President Maduro was the primary reason
+      to dismiss Collins. According to media reports in May, Collins’ firing was part
+      of a move to address what the office of the DNI described as the “weaponization”
+      and politicization of intelligence. Along with Collins, his deputy, Maria Langan-Riekhof,
+      was also dismissed. Gabbard relocated the council from its CIA office to the Office
+      of the Director of National Intelligence (ODNI) facilities, a change aligned with
+      the ostensible aim to prevent politicization of intelligence. Collins was suspect
+      because of his ties to Michael Morell, a former CIA deputy director, who helped
+      Hillary Clinton cover up the disaster at Benghazi, and who signed the letter from
+      51 intelligence professionals that questioned the legitimacy of Hunter Biden’s
+      laptop, asserting that it appeared to be Russian disinformation. Collins was also
+      facing whistleblower allegations accusing him of political bias and deliberately
+      undermining the incoming Trump administration. The US intelligence community,
+      particularly the CIA and the DNI, shares a major portion of the blame for behaving
+      as political partisans rather than as intelligence professionals. Tulsi Gabbard’s
+      release of documents, emails and testimony from whistleblowers surrounding the
+      2017 Intelligence Community Assessment on Russian interference in the 2016 Presidential
+      election, provided irrefutable evidence that partisan politics by the CIA’s Brennan
+      and the DNI’s Clapper took precedence over the facts surrounding the issue of
+      Russian interference . As was the case with Biden, Trump appears to be engaging
+      in the same sort of partisan pressure on analysts to support his administration’s
+      policies regardless of what the human and signals intelligence shows. In the case
+      of General Kruse, the firing sends a chilling message to the DIA analysts — i.e.,
+      even if they have evidence that Iran’s nuclear program was not obliterated , you
+      may be fired if you challenge the President’s opinion. The US intelligence community,
+      in my opinion, no longer has any credibility. It has become a full-time creature
+      of politics. I discussed the latest happenings in Ukraine and Palestine today
+      with Nima, and with Judge Napolitano and Ray McGovern: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Lt. Gen. Jeffrey Kruse was fired from his position as head
+      of the U.S. Defense Intelligence Agency after his agency's intelligence assessment
+      on U.S. airstrikes against Iran angered President Trump by suggesting the strikes
+      had only minimally impacted Iran's nuclear program.
+    paragraph_summary: Lt. General Jeffrey Kruse has been dismissed from his position
+      as head of the U.S. Defense Intelligence Agency after his agency's initial intelligence
+      assessment regarding U.S. airstrikes on Iranian nuclear sites angered President
+      Donald Trump. The assessment indicated that the strikes had only minimally impacted
+      Iran's nuclear program, contradicting Trump's claims of its complete destruction.
+      This firing highlights a pattern of political interference in intelligence, where
+      analysts' judgments are rejected if they do not align with the administration's
+      narrative. The article draws a parallel to a previous incident in 2025 when Mike
+      Collins was fired by Director of National Intelligence Tulsi Gabbard after his
+      agency published a report that contradicted the Trump administration's statements
+      about a Venezuelan gang.
+    published: '2025-08-23T01:25:37+00:00'
+  - title: Is Trump, Like Biden, Politicizing Intelligence?
+    url: https://sonar21.com/is-trump-like-biden-politicizing-intelligence/
+    text: 'Lt. General Jeffrey Kruse (AP Photo / Mark Scheifelbein) If you thought that
+      Donald Trump had learned the importance of keeping politics out of intelligence
+      in light of how the intelligence community was used as a tool to attack and subvert
+      his Presidency, think again. Defense Secretary Pete Hegseth has fired a general
+      whose agency’s initial intelligence assessment of U.S. damage to Iranian nuclear
+      sites angered President Donald Trump , according to two people familiar with the
+      decision and a White House official. Lt. Gen. Jeffrey Kruse will no longer serve
+      as head of the U.S. Defense Intelligence Agency, according to the people, who
+      spoke Friday on condition of anonymity because they were not authorized to discuss
+      it publicly. . . . Kruse’s firing comes two months after details of a preliminary
+      assessment of U.S. airstrikes against Iran leaked to the media. It found that
+      Iran’s nuclear program has been set back only a few months by the military effort,
+      contradicting assertions from Trump and Israeli Prime Minister Benjamin Netanyahu.
+      The Republican president, who had pronounced the Iranian program “completely and
+      fully obliterated,” rejected the report. While this is a different kind of interference
+      — i.e., rejecting the judgment of intelligence analysts because they do not parrot
+      the administration line — from that employed by the Biden administration — i.e.,
+      fabricating intelligence, such as Russian casualty figures, in order to placate
+      the government policy — both are dangerous. There was a previous high-profile
+      case… Mike Collins was fired in May 2025 by Director of National Intelligence
+      Tulsi Gabbard from his position as acting head of the National Intelligence Council
+      (aka NIC ). One of the NIC ‘ s primary duties is the production of National Intelligence
+      Estimates . Collins firing occurred shortly after the NIC published an assessment
+      that contradicted claims made by the Trump administration regarding the Venezuelan
+      gang Tren de Aragua , which weakened a justification used by Trump to exercise
+      wartime powers. It is not clear if the NIE conclusion discounting the connection
+      between Tren de Aragua and Venezuelan President Maduro was the primary reason
+      to dismiss Collins. According to media reports in May, Collins’ firing was part
+      of a move to address what the office of the DNI described as the “weaponization”
+      and politicization of intelligence. Along with Collins, his deputy, Maria Langan-Riekhof,
+      was also dismissed. Gabbard relocated the council from its CIA office to the Office
+      of the Director of National Intelligence (ODNI) facilities, a change aligned with
+      the ostensible aim to prevent politicization of intelligence. Collins was suspect
+      because of his ties to Michael Morell, a former CIA deputy director, who helped
+      Hillary Clinton cover up the disaster at Benghazi, and who signed the letter from
+      51 intelligence professionals that questioned the legitimacy of Hunter Biden’s
+      laptop, asserting that it appeared to be Russian disinformation. Collins was also
+      facing whistleblower allegations accusing him of political bias and deliberately
+      undermining the incoming Trump administration. The US intelligence community,
+      particularly the CIA and the DNI, shares a major portion of the blame for behaving
+      as political partisans rather than as intelligence professionals. Tulsi Gabbard’s
+      release of documents, emails and testimony from whistleblowers surrounding the
+      2017 Intelligence Community Assessment on Russian interference in the 2016 Presidential
+      election, provided irrefutable evidence that partisan politics by the CIA’s Brennan
+      and the DNI’s Clapper took precedence over the facts surrounding the issue of
+      Russian interference . As was the case with Biden, Trump appears to be engaging
+      in the same sort of partisan pressure on analysts to support his administration’s
+      policies regardless of what the human and signals intelligence shows. In the case
+      of General Kruse, the firing sends a chilling message to the DIA analysts — i.e.,
+      even if they have evidence that Iran’s nuclear program was not obliterated , you
+      may be fired if you challenge the President’s opinion. The US intelligence community,
+      in my opinion, no longer has any credibility. It has become a full-time creature
+      of politics. I discussed the latest happenings in Ukraine and Palestine today
+      with Nima, and with Judge Napolitano and Ray McGovern: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Lt. Gen. Jeffrey Kruse was fired from his position as head
+      of the U.S. Defense Intelligence Agency after his agency's intelligence assessment
+      on U.S. airstrikes against Iran angered President Trump by suggesting the strikes
+      had only minimally impacted Iran's nuclear program.
+    paragraph_summary: Lt. General Jeffrey Kruse has been dismissed from his position
+      as head of the U.S. Defense Intelligence Agency after his agency's initial intelligence
+      assessment regarding U.S. airstrikes on Iranian nuclear sites angered President
+      Donald Trump. The assessment indicated that the strikes had only minimally impacted
+      Iran's nuclear program, contradicting Trump's claims of its complete destruction.
+      This firing highlights a pattern of political interference in intelligence, where
+      analysts' judgments are rejected if they do not align with the administration's
+      narrative. The article draws a parallel to a previous incident in 2025 when Mike
+      Collins was fired by Director of National Intelligence Tulsi Gabbard after his
+      agency published a report that contradicted the Trump administration's statements
+      about a Venezuelan gang.
+    published: '2025-08-23T01:25:37+00:00'
+  - title: 'Anchorage/Washington, D.C.: Can Trump force Europeans to make peace?'
+    url: https://sonar21.com/anchorage-washington-d-c-can-trump-force-europeans-to-make-peace/
+    text: 'European leaders do not want peace – Trump and Putin will come to an agreement
+      – Europe is striving for Minsk III and thus for forever war. Analysis. By Peter
+      Hanseler and Andreas Mylaeus President Donald Trump meets with Russian President
+      Vladimir Putin at Joint Base Elmendorf-Richardson in Alaska on Friday, Aug. 15,
+      2025. (AP Photo/Julia Demaree Nikhinson) One of the central problems facing the
+      hegemon is that the US has lost its escalation dominance in the nuclear arms race.
+      The events in Alaska were therefore not just about Ukraine, but about the two
+      largest nuclear powers in the world attempting to rebuild trust and “ slow down
+      a runaway train in a mad high-speed race toward nuclear confrontation.” The Europeans
+      (and their mentors in the British-American Deep State) simply refuse to accept
+      that this train has left the station. Hopefully, they can still be slowed down.
+      Anchorage, Alaska The American and Russian presidents met in person for the first
+      time since 2022. It is clear that both want something – Russia wants peace, the
+      Anglo-Saxons want a respite. There are good reasons for this. Russia is seeking
+      a new security architecture in Europe that takes Russian interests into account.
+      Donald Trump personally wants the dying in Europe to stop for the time being.
+      The real reason for this is the obvious inability of the US to cope with its geopolitical
+      challenges. The Americans are unable to defeat the Houthis, yet they are actively
+      involved in wars they are losing in the Middle East and Ukraine, and are preparing
+      for a major showdown with the Chinese. That is too much to handle at once. The
+      Trump team therefore urgently needs to take one iron out of the fire. A brief
+      look back Withdrawal from disarmament treaties Under Donald Trump, the US has
+      withdrawn from two important disarmament and arms control treaties. The INF Treaty
+      (Intermediate-Range Nuclear Forces Treaty of 1987 between the US and the USSR)
+      banned land-based ballistic missiles and cruise missiles with ranges between 500
+      and 5,500 km. The US announced its withdrawal on February 1, 2019. The Open Skies
+      Treaty, signed in 1992 and in force since 2002 with over 30 participating states,
+      allowed mutual unarmed surveillance flights to create transparency about military
+      activities. The US terminated the treaty under Trump-1.0. The withdrawal took
+      effect on November 22, 2020. Then there is the New START Treaty (Strategic Arms
+      Reduction Treaty) between the US and Russia. This came into force in 2011 and
+      was extended by both sides in 2021 for five years, until February 5, 2026. The
+      treaty therefore remains formally valid. However, Russia suspended its participation
+      on February 21, 2023, which means no more inspections, no data transmission, and
+      no exchanges in the bilateral consultative commission. At the same time, however,
+      Russia emphasized that it would continue to comply with the quantitative limits.
+      Nuclear arms escalation by the US and Europe Now the US is currently in the process
+      of relocating nuclear bombs to European sites. The Trump administration has also
+      announced that it will deploy intermediate-range ballistic missiles (IRBMs) and
+      other long-range weapons in Europe starting in 2026, with Germany being the first
+      “host country” for these systems. The joint communiqué issued by Germany and the
+      US (July 10, 2024) states that, as part of plans for permanent deployment, long-range
+      weapon systems belonging to the US Multi-Domain Task Force are to be stationed
+      in Germany on a temporary basis from 2026. These include SM-6s, Tomahawks, and
+      hypersonic weapons currently under development. Now Russia and its allies have
+      had enough These escalatory steps will no longer be tolerated. On August 1, 2025,
+      the presidents of Belarus and Russia met. MINSK, August 1 ( BelTA ) – Belarusian
+      President Alexander Lukashenko and Russian President Vladimir Putin are meeting
+      on Valaam Island in Lake Ladoga in the Republic of Karelia, Russian Federation.
+      On this occasion, Lukashenko stated that the “Oreshnik” systems currently in series
+      production in Russia (also known by their NATO designation SS-X-34, mobile solid-fuel
+      hypersonic missiles with a range of approx. 5,000 km) will soon be deployed at
+      sites in Belarus. The infrastructure is already under construction there. In the
+      same conversation, President Putin announced a statement by the Russian Foreign
+      Ministry , which was then published on August 4, 2025. In it, it stated, among
+      other things, that following the US withdrawal from the INF Treaty, Russia had
+      voluntarily imposed unilateral self-restrictions that preclude the deployment
+      of ground-based missiles with INF range, unless similar missile weapons produced
+      in the US appear in the relevant regions of the world. Now, however, it had to
+      conclude that the Russian initiatives had not been reciprocated. On the contrary,
+      not only had the US produced such systems, but the Pentagon was also training
+      and deploying special forces and commandos in the relevant regions to enable the
+      forward deployment and use of such weapons. In view of this development, the Russian
+      Foreign Ministry issued the following statement: “Since our repeated warnings
+      in this regard have been ignored and the situation is developing towards the actual
+      deployment of US-made ground-based INF missiles in Europe and the Asia-Pacific
+      region, the Russian Foreign Ministry must declare that the conditions for maintaining
+      a unilateral moratorium on the deployment of similar weapons no longer exist.
+      The Ministry is authorised to declare that the Russian Federation no longer feels
+      bound by the self-imposed restrictions previously agreed upon.” STATEMENT BY THE
+      RUSSIAN FOREIGN MINISTRY In light of this, the US changed its strategy. In light
+      of this, the US changed its strategy. Two days after this statement by the Russian
+      Foreign Ministry, US emissary Steve Witkoff arrived in Moscow on August 6, 2025,
+      and urgently requested that a meeting between Presidents Trump and Putin be arranged.
+      Russian President Vladimir Putin (left) welcomes Steve Witkoff in Moscow on Wednesday
+      © Gavriil Grigorov/AFP/Getty Images The Russian side agreed to such a meeting,
+      but insisted that it must take place on US soil. As is well known, a summit meeting
+      between Trump and Putin was then actually organized for August 15, 2025, in Anchorage,
+      Alaska, at which the Trump team made a clear U-turn: away from the slogan “first
+      a ceasefire, then peace negotiations” to the slogan “only in a comprehensive peace
+      can the weapons fall silent.” “It was determined by all that the best way to end
+      the horrific war between Russia and Ukraine is to go directly to a Peace Agreement,
+      which would end the war, and not a mere Ceasefire Agreement, which often times
+      do not hold up.” Trump on Truth Social This led to hysterical horror among the
+      European warmongers. Problem Europe After Trump left them waiting at the door
+      , representatives of the coalition of the willing (Merz, Starmer, Macron, Meloni),
+      Finland’s Stubb, NATO Secretary General Rutte, and Ms. von der Leyen for the EU
+      were allowed into the Oval Office on August 18, 2025, to negotiate a peace they
+      don’t even want. And yes, we have practically forgotten about Vlodomir Selenski,
+      because he is no longer important. He will be pushed around by the Europeans like
+      a pawn on a chessboard until he is no longer needed. In this last meeting with
+      Trump, Selenski behaved very nicely. The entire leadership of the European ruling
+      class as well-behaved children in their school principal’s office. Image source
+      The published photos of this meeting reveal a clear power imbalance: Trump sits
+      behind the Resolute Desk, while the European leaders and Zelensky are seated on
+      chairs opposite him. Some observers interpreted this arrangement as symbolic of
+      the hierarchical structure of the talks, with Trump emerging as the dominant figure.
+      Meeting on August 18, 2025, between US President Donald Trump, Ukrainian President
+      Volodymyr Zelensky, and leading European heads of state and government in the
+      White House. Source: CBS Ms. von der Leyen had no mandate for the negotiations.
+      She does not speak for the EU, but for the warmongers among the member states.
+      Messrs. Fico and Orban are being deliberately ignored. But Ms. von der Leyen does
+      not seem to need a mandate—she is the ruler of Europe, or at least she thinks
+      so. The statements made by the ladies and gentlemen were practically identical.
+      They all spoke politely about the poor children who were allegedly abducted by
+      the evil Russians. There is no truth to this story, even though President Putin
+      and Ms. Lvova-Belova are being “wanted” by the ICC for precisely this reason.
+      In reality, the Russians rescued orphaned children from the war zones of Ukraine.
+      The credibility of this international “legal institution” has been severely undermined
+      by the West’s efforts to wage a “legal battle” against Russia, a member of the
+      European Parliament (MEP) has said. Luxembourg’s Fernand Kartheiser made the comments
+      after Switzerland offered to host peace talks with Ukraine and suggested that
+      Russian President Vladimir Putin should be granted immunity from an arrest warrant
+      issued by the International Criminal Court (ICC). “I don’t think it can continue
+      to be claimed that there has been a systematic abduction of Ukrainian children
+      to Russia. I therefore believe that the credibility of the ICC arrest warrant
+      is also questionable.” Luxembourg’s Fernand Kartheiser (Member of the European
+      Parliament) It became clear within minutes that the Europeans do not want peace:
+      unlike the US, they want a so-called ceasefire, not peace. The ladies and gentlemen
+      have Minsk III in mind: a ceasefire, NATO troops in Ukraine, so that they then
+      have time to rearm Ukraine and provoke a new conflict with the Russians at the
+      appropriate moment, allowing the game to continue. This proposal will not succeed,
+      either with the Russians or, in all likelihood, with the Americans. What has Trump
+      learned since January? President Trump has been playing his carrot-and-stick strategy
+      since January. What appears to outsiders to be chaos has, however, yielded some
+      insights. The following countries can be put under pressure and will cave in:
+      the EU, Switzerland and, to a certain extent, the UK. These countries reliably
+      cave in and behave exactly as they should – like colonies. The situation is quite
+      different with the big players from the Global South: China, Russia, India, and
+      Brazil not only withstood the pressure, but the pressure exerted had negative
+      consequences for the US. For example, it brought India and China, which have their
+      differences, closer together. In our view, these insights are important in the
+      context of the US’s further behavior toward Ukraine. The delegation that met with
+      Trump was also obsequious and subservient toward Trump. Will Europeans eventually
+      realize that their wishful thinking cannot be reconciled with reality? The conditions
+      demanded by Europeans are deal breakers. Russia’s conditions have changed only
+      marginally since the negotiations in Istanbul in 2022, which were thwarted by
+      Boris Johnson. No foreign troops in Ukraine and complete neutrality are basic
+      prerequisites for the Russians to achieve peace. Furthermore, President Putin
+      cannot under any circumstances relinquish control over Russian territories. This
+      rules out territorial concessions regarding Crimea, Zaporizhzhia, Kherson, Luhansk,
+      and Donetsk. The Europeans know this too. It is probably the first time in history
+      that the losers of a war would determine the terms, according to the Europeans’
+      plan. That will not happen. If one wonders why there is no longer any war reporting
+      in Western media, the answer is simple: the Russians are systematically advancing
+      and Ukrainian resistance is growing weaker. There is nothing to report that would
+      lift the bellicose European spirit. The problem for Team Trump is that the Russians
+      will achieve their military objectives in any case, whether peace is achieved
+      through negotiations or surrender. If Trump wants to keep his election promise
+      – and yes, he is flirting with the Nobel Peace Prize – he must successfully put
+      pressure on the Europeans. The Europeans are unwilling or unable to recognize
+      that the US has changed its geostrategic tactics. The focus of its interests is
+      no longer in Western Europe, which has long served as a springboard for conflict
+      with Russia, but in the Middle East and China. We do not believe that the US has
+      abandoned its long-term goal of “splitting Russia”; rather, it has merely postponed
+      it. The disaster scenario for those in power in Europe is the outbreak of peace.
+      The oppressed European peoples have been harassed by their masters since Covid,
+      first with fear and now with hatred of Russia. Everything has been subordinated
+      to these two goals, which have made a few people filthy rich. The misallocation
+      of resources over the past five years has been astronomical. If the state of emergency
+      cannot be maintained, the people will eventually realize the horror that has been
+      created by their leaders. This could lead to nothing less than unrest. So the
+      current European rulers must maintain a state of panic in their countries and
+      are therefore dependent on war. Trump’s completely erratic behavior could now
+      become a trump card for the US: no one knows what rabbit Donald will pull out
+      of his hat to get the Europeans back on track – not even himself. The Council
+      on Foreign Affairs accurately characterizes the back-and-forth between Europeans
+      and the US as follows: “The Ukraine-Russia conflict and the back-and-forth between
+      the United States and Europe on this is not dissimilar from how the U.S.-EU trade
+      relations have gone. There are always high expectations, and then the Europeans’
+      expectations are dashed by the Americans… Then when they meet again, having avoided
+      the worst outcomes, they come to some sort of agreement. It’s better than they
+      feared, but it’s always worse than the status quo. But as the saying goes, the
+      Europeans live to fight another day.” CFR expert Matthias Matthijs Conclusion
+      Russia will win this war, either at the negotiating table or on the battlefield.
+      However, an agreement would also be in Russia’s interest for human, economic,
+      and geopolitical reasons. The Trump team currently seems to want peace in Ukraine.
+      There are two main reasons for this: First, after temporarily losing its nuclear
+      escalation dominance, the US needs to consolidate its forces, and the troubles
+      in the Middle East and preparations for the conflict with China seem more important
+      to it. It needs to pull a rabbit out of the hat. The European rulers need war,
+      otherwise they will lose their jobs, because they have steered their countries
+      into the abyss and will only survive as long as they can maintain a state of emergency.
+      In doing so, they are supported by their mentors in the British-American Deep
+      State, who should never be underestimated. But as President Putin said more than
+      six months ago: “I assure you, Trump will restore order quite quickly with his
+      character and persistence. And you will see, soon they will all stand before the
+      master and wag their tails gently.” Vladimir Putin Nevertheless, Mr. Trump still
+      has a lot of hard work ahead of him. Peter Hanseler is a geopolitical analyst
+      who reports from Moscow. Peter was born in Zurich, Switzerland. He holds a J.D.
+      (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School and Master
+      in International Commercial Law (LL.M.) from Georgetown University Law School,
+      Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand and Russia.
+      Peter is independent, his work is not supported by government or private entities.
+      Peter’s website Forumgeopolitica.com publishes its content in English, Russian,
+      German and French. Dr. Andreas Mylaeus, born 1950, earned a high school certificate
+      in North Carolina (1968/69) and Abitur (1970). He studied law in Freiburg, Cologne,
+      and Munich (1971–1976), passing both State Law Examinations with honors (1975,
+      1980). He studied psychology at the University of Zurich (1979–1984), graduating
+      as a clinical psychologist, and trained at the Zurich School of Psychology. He
+      taught at vocational schools in Zurich (1984–1995) and earned a federal teaching
+      diploma (1993). Since 2015, he has been a freelance analyst and speaker. Fluent
+      in German, Swiss German, and English. He is one of the main contributors of Forumgeopolitica.com
+      .'
+    one_sentence_summary: The article argues that while Trump and Putin are seeking
+      to rebuild trust and mitigate nuclear tensions, European leaders are pushing for
+      continued conflict, exemplified by their desire for a "Minsk III" agreement, indicating
+      a preference for prolonged war over peace.
+    paragraph_summary: In a recent analysis by Peter Hanseler and Andreas Mylaeus, the
+      authors argue that European leaders are not genuinely pursuing peace, as evidenced
+      by their desire for a prolonged conflict akin to "Minsk III," while U.S. President
+      Donald Trump and Russian President Vladimir Putin are seeking to rebuild trust
+      and slow the escalation of nuclear tensions. The meeting in Alaska marks a significant
+      moment, as both leaders aim to address their respective geopolitical challenges,
+      with Russia advocating for a new security framework in Europe that acknowledges
+      its interests, and Trump looking to alleviate the ongoing suffering in Europe
+      amidst the U.S.'s struggles in various military engagements. The article highlights
+      the U.S.'s withdrawal from key disarmament treaties under Trump, emphasizing the
+      complexities of the current global landscape where the U.S. is stretched thin
+      by multiple conflicts and a rising China.
+    published: '2025-08-22T15:13:38+00:00'
+  - title: 'Anchorage/Washington, D.C.: Can Trump force Europeans to make peace?'
+    url: https://sonar21.com/anchorage-washington-d-c-can-trump-force-europeans-to-make-peace/
+    text: 'European leaders do not want peace – Trump and Putin will come to an agreement
+      – Europe is striving for Minsk III and thus for forever war. Analysis. By Peter
+      Hanseler and Andreas Mylaeus President Donald Trump meets with Russian President
+      Vladimir Putin at Joint Base Elmendorf-Richardson in Alaska on Friday, Aug. 15,
+      2025. (AP Photo/Julia Demaree Nikhinson) One of the central problems facing the
+      hegemon is that the US has lost its escalation dominance in the nuclear arms race.
+      The events in Alaska were therefore not just about Ukraine, but about the two
+      largest nuclear powers in the world attempting to rebuild trust and “ slow down
+      a runaway train in a mad high-speed race toward nuclear confrontation.” The Europeans
+      (and their mentors in the British-American Deep State) simply refuse to accept
+      that this train has left the station. Hopefully, they can still be slowed down.
+      Anchorage, Alaska The American and Russian presidents met in person for the first
+      time since 2022. It is clear that both want something – Russia wants peace, the
+      Anglo-Saxons want a respite. There are good reasons for this. Russia is seeking
+      a new security architecture in Europe that takes Russian interests into account.
+      Donald Trump personally wants the dying in Europe to stop for the time being.
+      The real reason for this is the obvious inability of the US to cope with its geopolitical
+      challenges. The Americans are unable to defeat the Houthis, yet they are actively
+      involved in wars they are losing in the Middle East and Ukraine, and are preparing
+      for a major showdown with the Chinese. That is too much to handle at once. The
+      Trump team therefore urgently needs to take one iron out of the fire. A brief
+      look back Withdrawal from disarmament treaties Under Donald Trump, the US has
+      withdrawn from two important disarmament and arms control treaties. The INF Treaty
+      (Intermediate-Range Nuclear Forces Treaty of 1987 between the US and the USSR)
+      banned land-based ballistic missiles and cruise missiles with ranges between 500
+      and 5,500 km. The US announced its withdrawal on February 1, 2019. The Open Skies
+      Treaty, signed in 1992 and in force since 2002 with over 30 participating states,
+      allowed mutual unarmed surveillance flights to create transparency about military
+      activities. The US terminated the treaty under Trump-1.0. The withdrawal took
+      effect on November 22, 2020. Then there is the New START Treaty (Strategic Arms
+      Reduction Treaty) between the US and Russia. This came into force in 2011 and
+      was extended by both sides in 2021 for five years, until February 5, 2026. The
+      treaty therefore remains formally valid. However, Russia suspended its participation
+      on February 21, 2023, which means no more inspections, no data transmission, and
+      no exchanges in the bilateral consultative commission. At the same time, however,
+      Russia emphasized that it would continue to comply with the quantitative limits.
+      Nuclear arms escalation by the US and Europe Now the US is currently in the process
+      of relocating nuclear bombs to European sites. The Trump administration has also
+      announced that it will deploy intermediate-range ballistic missiles (IRBMs) and
+      other long-range weapons in Europe starting in 2026, with Germany being the first
+      “host country” for these systems. The joint communiqué issued by Germany and the
+      US (July 10, 2024) states that, as part of plans for permanent deployment, long-range
+      weapon systems belonging to the US Multi-Domain Task Force are to be stationed
+      in Germany on a temporary basis from 2026. These include SM-6s, Tomahawks, and
+      hypersonic weapons currently under development. Now Russia and its allies have
+      had enough These escalatory steps will no longer be tolerated. On August 1, 2025,
+      the presidents of Belarus and Russia met. MINSK, August 1 ( BelTA ) – Belarusian
+      President Alexander Lukashenko and Russian President Vladimir Putin are meeting
+      on Valaam Island in Lake Ladoga in the Republic of Karelia, Russian Federation.
+      On this occasion, Lukashenko stated that the “Oreshnik” systems currently in series
+      production in Russia (also known by their NATO designation SS-X-34, mobile solid-fuel
+      hypersonic missiles with a range of approx. 5,000 km) will soon be deployed at
+      sites in Belarus. The infrastructure is already under construction there. In the
+      same conversation, President Putin announced a statement by the Russian Foreign
+      Ministry , which was then published on August 4, 2025. In it, it stated, among
+      other things, that following the US withdrawal from the INF Treaty, Russia had
+      voluntarily imposed unilateral self-restrictions that preclude the deployment
+      of ground-based missiles with INF range, unless similar missile weapons produced
+      in the US appear in the relevant regions of the world. Now, however, it had to
+      conclude that the Russian initiatives had not been reciprocated. On the contrary,
+      not only had the US produced such systems, but the Pentagon was also training
+      and deploying special forces and commandos in the relevant regions to enable the
+      forward deployment and use of such weapons. In view of this development, the Russian
+      Foreign Ministry issued the following statement: “Since our repeated warnings
+      in this regard have been ignored and the situation is developing towards the actual
+      deployment of US-made ground-based INF missiles in Europe and the Asia-Pacific
+      region, the Russian Foreign Ministry must declare that the conditions for maintaining
+      a unilateral moratorium on the deployment of similar weapons no longer exist.
+      The Ministry is authorised to declare that the Russian Federation no longer feels
+      bound by the self-imposed restrictions previously agreed upon.” STATEMENT BY THE
+      RUSSIAN FOREIGN MINISTRY In light of this, the US changed its strategy. In light
+      of this, the US changed its strategy. Two days after this statement by the Russian
+      Foreign Ministry, US emissary Steve Witkoff arrived in Moscow on August 6, 2025,
+      and urgently requested that a meeting between Presidents Trump and Putin be arranged.
+      Russian President Vladimir Putin (left) welcomes Steve Witkoff in Moscow on Wednesday
+      © Gavriil Grigorov/AFP/Getty Images The Russian side agreed to such a meeting,
+      but insisted that it must take place on US soil. As is well known, a summit meeting
+      between Trump and Putin was then actually organized for August 15, 2025, in Anchorage,
+      Alaska, at which the Trump team made a clear U-turn: away from the slogan “first
+      a ceasefire, then peace negotiations” to the slogan “only in a comprehensive peace
+      can the weapons fall silent.” “It was determined by all that the best way to end
+      the horrific war between Russia and Ukraine is to go directly to a Peace Agreement,
+      which would end the war, and not a mere Ceasefire Agreement, which often times
+      do not hold up.” Trump on Truth Social This led to hysterical horror among the
+      European warmongers. Problem Europe After Trump left them waiting at the door
+      , representatives of the coalition of the willing (Merz, Starmer, Macron, Meloni),
+      Finland’s Stubb, NATO Secretary General Rutte, and Ms. von der Leyen for the EU
+      were allowed into the Oval Office on August 18, 2025, to negotiate a peace they
+      don’t even want. And yes, we have practically forgotten about Vlodomir Selenski,
+      because he is no longer important. He will be pushed around by the Europeans like
+      a pawn on a chessboard until he is no longer needed. In this last meeting with
+      Trump, Selenski behaved very nicely. The entire leadership of the European ruling
+      class as well-behaved children in their school principal’s office. Image source
+      The published photos of this meeting reveal a clear power imbalance: Trump sits
+      behind the Resolute Desk, while the European leaders and Zelensky are seated on
+      chairs opposite him. Some observers interpreted this arrangement as symbolic of
+      the hierarchical structure of the talks, with Trump emerging as the dominant figure.
+      Meeting on August 18, 2025, between US President Donald Trump, Ukrainian President
+      Volodymyr Zelensky, and leading European heads of state and government in the
+      White House. Source: CBS Ms. von der Leyen had no mandate for the negotiations.
+      She does not speak for the EU, but for the warmongers among the member states.
+      Messrs. Fico and Orban are being deliberately ignored. But Ms. von der Leyen does
+      not seem to need a mandate—she is the ruler of Europe, or at least she thinks
+      so. The statements made by the ladies and gentlemen were practically identical.
+      They all spoke politely about the poor children who were allegedly abducted by
+      the evil Russians. There is no truth to this story, even though President Putin
+      and Ms. Lvova-Belova are being “wanted” by the ICC for precisely this reason.
+      In reality, the Russians rescued orphaned children from the war zones of Ukraine.
+      The credibility of this international “legal institution” has been severely undermined
+      by the West’s efforts to wage a “legal battle” against Russia, a member of the
+      European Parliament (MEP) has said. Luxembourg’s Fernand Kartheiser made the comments
+      after Switzerland offered to host peace talks with Ukraine and suggested that
+      Russian President Vladimir Putin should be granted immunity from an arrest warrant
+      issued by the International Criminal Court (ICC). “I don’t think it can continue
+      to be claimed that there has been a systematic abduction of Ukrainian children
+      to Russia. I therefore believe that the credibility of the ICC arrest warrant
+      is also questionable.” Luxembourg’s Fernand Kartheiser (Member of the European
+      Parliament) It became clear within minutes that the Europeans do not want peace:
+      unlike the US, they want a so-called ceasefire, not peace. The ladies and gentlemen
+      have Minsk III in mind: a ceasefire, NATO troops in Ukraine, so that they then
+      have time to rearm Ukraine and provoke a new conflict with the Russians at the
+      appropriate moment, allowing the game to continue. This proposal will not succeed,
+      either with the Russians or, in all likelihood, with the Americans. What has Trump
+      learned since January? President Trump has been playing his carrot-and-stick strategy
+      since January. What appears to outsiders to be chaos has, however, yielded some
+      insights. The following countries can be put under pressure and will cave in:
+      the EU, Switzerland and, to a certain extent, the UK. These countries reliably
+      cave in and behave exactly as they should – like colonies. The situation is quite
+      different with the big players from the Global South: China, Russia, India, and
+      Brazil not only withstood the pressure, but the pressure exerted had negative
+      consequences for the US. For example, it brought India and China, which have their
+      differences, closer together. In our view, these insights are important in the
+      context of the US’s further behavior toward Ukraine. The delegation that met with
+      Trump was also obsequious and subservient toward Trump. Will Europeans eventually
+      realize that their wishful thinking cannot be reconciled with reality? The conditions
+      demanded by Europeans are deal breakers. Russia’s conditions have changed only
+      marginally since the negotiations in Istanbul in 2022, which were thwarted by
+      Boris Johnson. No foreign troops in Ukraine and complete neutrality are basic
+      prerequisites for the Russians to achieve peace. Furthermore, President Putin
+      cannot under any circumstances relinquish control over Russian territories. This
+      rules out territorial concessions regarding Crimea, Zaporizhzhia, Kherson, Luhansk,
+      and Donetsk. The Europeans know this too. It is probably the first time in history
+      that the losers of a war would determine the terms, according to the Europeans’
+      plan. That will not happen. If one wonders why there is no longer any war reporting
+      in Western media, the answer is simple: the Russians are systematically advancing
+      and Ukrainian resistance is growing weaker. There is nothing to report that would
+      lift the bellicose European spirit. The problem for Team Trump is that the Russians
+      will achieve their military objectives in any case, whether peace is achieved
+      through negotiations or surrender. If Trump wants to keep his election promise
+      – and yes, he is flirting with the Nobel Peace Prize – he must successfully put
+      pressure on the Europeans. The Europeans are unwilling or unable to recognize
+      that the US has changed its geostrategic tactics. The focus of its interests is
+      no longer in Western Europe, which has long served as a springboard for conflict
+      with Russia, but in the Middle East and China. We do not believe that the US has
+      abandoned its long-term goal of “splitting Russia”; rather, it has merely postponed
+      it. The disaster scenario for those in power in Europe is the outbreak of peace.
+      The oppressed European peoples have been harassed by their masters since Covid,
+      first with fear and now with hatred of Russia. Everything has been subordinated
+      to these two goals, which have made a few people filthy rich. The misallocation
+      of resources over the past five years has been astronomical. If the state of emergency
+      cannot be maintained, the people will eventually realize the horror that has been
+      created by their leaders. This could lead to nothing less than unrest. So the
+      current European rulers must maintain a state of panic in their countries and
+      are therefore dependent on war. Trump’s completely erratic behavior could now
+      become a trump card for the US: no one knows what rabbit Donald will pull out
+      of his hat to get the Europeans back on track – not even himself. The Council
+      on Foreign Affairs accurately characterizes the back-and-forth between Europeans
+      and the US as follows: “The Ukraine-Russia conflict and the back-and-forth between
+      the United States and Europe on this is not dissimilar from how the U.S.-EU trade
+      relations have gone. There are always high expectations, and then the Europeans’
+      expectations are dashed by the Americans… Then when they meet again, having avoided
+      the worst outcomes, they come to some sort of agreement. It’s better than they
+      feared, but it’s always worse than the status quo. But as the saying goes, the
+      Europeans live to fight another day.” CFR expert Matthias Matthijs Conclusion
+      Russia will win this war, either at the negotiating table or on the battlefield.
+      However, an agreement would also be in Russia’s interest for human, economic,
+      and geopolitical reasons. The Trump team currently seems to want peace in Ukraine.
+      There are two main reasons for this: First, after temporarily losing its nuclear
+      escalation dominance, the US needs to consolidate its forces, and the troubles
+      in the Middle East and preparations for the conflict with China seem more important
+      to it. It needs to pull a rabbit out of the hat. The European rulers need war,
+      otherwise they will lose their jobs, because they have steered their countries
+      into the abyss and will only survive as long as they can maintain a state of emergency.
+      In doing so, they are supported by their mentors in the British-American Deep
+      State, who should never be underestimated. But as President Putin said more than
+      six months ago: “I assure you, Trump will restore order quite quickly with his
+      character and persistence. And you will see, soon they will all stand before the
+      master and wag their tails gently.” Vladimir Putin Nevertheless, Mr. Trump still
+      has a lot of hard work ahead of him. Peter Hanseler is a geopolitical analyst
+      who reports from Moscow. Peter was born in Zurich, Switzerland. He holds a J.D.
+      (lic. iur.) and Ph.D. (Dr. iur.) from Zurich University Law School and Master
+      in International Commercial Law (LL.M.) from Georgetown University Law School,
+      Washington, D.C. He has lived in the US, Spain, Switzerland, Thailand and Russia.
+      Peter is independent, his work is not supported by government or private entities.
+      Peter’s website Forumgeopolitica.com publishes its content in English, Russian,
+      German and French. Dr. Andreas Mylaeus, born 1950, earned a high school certificate
+      in North Carolina (1968/69) and Abitur (1970). He studied law in Freiburg, Cologne,
+      and Munich (1971–1976), passing both State Law Examinations with honors (1975,
+      1980). He studied psychology at the University of Zurich (1979–1984), graduating
+      as a clinical psychologist, and trained at the Zurich School of Psychology. He
+      taught at vocational schools in Zurich (1984–1995) and earned a federal teaching
+      diploma (1993). Since 2015, he has been a freelance analyst and speaker. Fluent
+      in German, Swiss German, and English. He is one of the main contributors of Forumgeopolitica.com
+      .'
+    one_sentence_summary: The article argues that while Trump and Putin are seeking
+      to rebuild trust and mitigate nuclear tensions, European leaders are pushing for
+      continued conflict, exemplified by their desire for a "Minsk III" agreement, indicating
+      a preference for prolonged war over peace.
+    paragraph_summary: In a recent analysis by Peter Hanseler and Andreas Mylaeus, the
+      authors argue that European leaders are not genuinely pursuing peace, as evidenced
+      by their desire for a prolonged conflict akin to "Minsk III," while U.S. President
+      Donald Trump and Russian President Vladimir Putin are seeking to rebuild trust
+      and slow the escalation of nuclear tensions. The meeting in Alaska marks a significant
+      moment, as both leaders aim to address their respective geopolitical challenges,
+      with Russia advocating for a new security framework in Europe that acknowledges
+      its interests, and Trump looking to alleviate the ongoing suffering in Europe
+      amidst the U.S.'s struggles in various military engagements. The article highlights
+      the U.S.'s withdrawal from key disarmament treaties under Trump, emphasizing the
+      complexities of the current global landscape where the U.S. is stretched thin
+      by multiple conflicts and a rising China.
+    published: '2025-08-22T15:13:38+00:00'
+  - title: NATO Trying to Game Russia Over Security Guarantees for Ukraine, and Moscow
+      Says Nyet!
+    url: https://sonar21.com/nato-trying-to-game-russia-over-security-guarantees-for-ukraine-and-moscow-says-nyet/
+    text: 'Steve Bryen, as usual, put up an excellent piece at his Substack describing
+      a major mistake by Donald Trump regarding the issue of providing security guarantees
+      to Ukraine as part of a peace deal with Russia. According to Steve : The Trump
+      administration made a massive political blunder on August 20th in its pursuit
+      of a peace deal between Russia and Ukraine. The blunder centered on a “virtual”
+      meeting led by NATO. Prior to that meeting, Trump had promised the Russians that
+      any deal would rule out Ukraine’s NATO membership. Apparently the Russians read
+      Trump’s assurance to include no NATO peacekeepers. That was a mistake. The NATO-led
+      meeting was intended to lay out military options to meet Ukraine’s request for
+      security guarantees. The discussion apparently considered different views on what
+      a security guarantee would actually look like: would it, for example, include
+      troops and if so, how many, where would they be based in Ukraine and what role
+      would they perform? Stories are around that some countries, the British and French
+      in one version, the British, Germans and Poles in another (unlikely option), would
+      actually put boots on the ground in Ukraine, although British sources insist that
+      its troops would not be on the front line but “far back” from the action. . .
+      . Russia’s reaction came quickly and rejected foreign participation in security
+      guarantees for Ukraine. Speaking about the possibility of foreign troops being
+      deployed on Ukrainian territory, Russian foreign minister Sergey Lavrov said that
+      Moscow has always viewed this as unacceptable . “And I hope they understand that
+      this would be absolutely unacceptable for Russia and for all sensible political
+      forces in Europe,” Lavrov said.” He went on to say that such proposals are a “road
+      to nowhere.” Apparently, none of Trump’s advisors had reviewed the proposed security
+      guarantees that Russia presented during the Istanbul negotiations in March 2022
+      between Russia and Ukraine. The Istanbul Communiqué , which was a draft agreement,
+      provided a framework for a potential treaty aimed at ending the Russian Special
+      Military Operation . The proposed security guarantees, as outlined in various
+      sources, were a central component of Russia’s demands and the broader negotiations.
+      Below is a detailed summary of the security guarantees Russia proposed: Key Russian
+      Proposals on Security Guarantees (March 2022, Istanbul Communiqué) 1. Ukraine’s
+      Permanent Neutrality and NATO Exclusion: Russia insisted that Ukraine enshrine
+      permanent neutrality in its constitution, explicitly renouncing any plans to join
+      NATO or host foreign military forces on its territory. This was a core demand,
+      reflecting Russia’s long-standing grievance that NATO’s eastward expansion threatened
+      its security. In exchange, Russia, along with other countries (including Western
+      powers like the United States, UK, France, and potentially China), would act as
+      guarantor states, committing to defend Ukraine militarily if it were attacked
+      in the future 2. Security Guarantees with Veto Power: A critical condition proposed
+      by Russia was that any activation of security guarantees (i.e., military assistance
+      to Ukraine in case of an attack) would require unanimous consent from all guarantor
+      states, including Russia itself. This effectively gave Russia a veto over any
+      intervention, rendering the guarantees potentially ineffective from Ukraine’s
+      perspective. This provision echoed the structure of the Minsk II Accords, where
+      Russia was treated as a neutral party rather than a belligerent, allowing it to
+      block actions against itself.[](https://www.understandingwar.org/backgrounder/fact-sheet-istanbul-protocol-draft-document-april-15-2022)
+      3. Limits on Ukraine’s Military: Russia demanded significant restrictions on the
+      size and capability of Ukraine’s armed forces, including caps on personnel, equipment,
+      and military exercises. The exact limits were a point of contention, with disagreements
+      over how small Ukraine’s military could be while still maintaining defensive capacity.
+      Ukraine would be prohibited from conducting military exercises with foreign partners
+      in its territory, airspace, territorial waters, or exclusive economic zone without
+      the consent of guarantor states, including Russia and China. 4. Territorial and
+      Legal Concessions: Russia sought de jure recognition of its control over Crimea
+      and de facto recognition of Russian-held parts of Luhansk, Donetsk, Zaporizhzhia,
+      and Kherson. The status of Crimea was proposed to be negotiated over a 10- or
+      15-year consultation period, during which Ukraine would pledge not to attempt
+      retaking it by force. Russia also demanded that Ukraine amend its constitution
+      to make Russian an official state language on par with Ukrainian and repeal decommunization
+      laws and sanctions imposed on Russia since 2014. Additionally, Ukraine was to
+      withdraw criminal cases against Russia at the International Criminal Court for
+      war crimes. 5. Role of Guarantor States: The proposed guarantors included permanent
+      UN Security Council members (Russia, US, UK, France, China), potentially granting
+      Russia and China veto power over any response to future aggression via the UNSC
+      framework. This structure was designed to limit Western military support to Ukraine
+      in future conflicts. This was Russia’s demand in 2022, and I doubt that they have
+      reversed themselves. If Donald Trump and his team want to secure a peace agreement
+      the ends the Special Military Operation , then they should take the time to fully
+      immerse themselves in the Russian position and not waste time in entertaining
+      the possibility of NATO troops on the ground in Ukraine. Russia will not allow
+      that. Garland Nixon and I had our weekly chat on Thursday afternoon. I am also
+      posting my Wednesday conversation with Andy Millette: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Steve Bryen highlights a significant political misstep by
+      Donald Trump regarding Ukraine's security guarantees in a peace deal with Russia,
+      stemming from a misunderstanding during a NATO-led meeting about the implications
+      of Trump's assurances on NATO membership and peacekeepers.
+    paragraph_summary: In a recent Substack article, Steve Bryen critiques Donald Trump's
+      significant misstep regarding security guarantees for Ukraine in the context of
+      a potential peace deal with Russia. Bryen highlights that during a NATO-led virtual
+      meeting on August 20, Trump had previously assured Russia that any agreement would
+      exclude Ukraine's NATO membership, which the Russians interpreted as a lack of
+      NATO peacekeepers in Ukraine. This misunderstanding became problematic as the
+      meeting aimed to explore military options for providing security guarantees to
+      Ukraine, including the potential deployment of foreign troops. Russia swiftly
+      rejected the idea of foreign military presence, with Foreign Minister Sergey Lavrov
+      deeming it unacceptable and a "road to nowhere." Bryen notes that Trump's advisors
+      failed to consider the security guarantees Russia had proposed during earlier
+      negotiations in Istanbul, further complicating the situation.
+    published: '2025-08-22T04:18:11+00:00'
+  - title: NATO Trying to Game Russia Over Security Guarantees for Ukraine, and Moscow
+      Says Nyet!
+    url: https://sonar21.com/nato-trying-to-game-russia-over-security-guarantees-for-ukraine-and-moscow-says-nyet/
+    text: 'Steve Bryen, as usual, put up an excellent piece at his Substack describing
+      a major mistake by Donald Trump regarding the issue of providing security guarantees
+      to Ukraine as part of a peace deal with Russia. According to Steve : The Trump
+      administration made a massive political blunder on August 20th in its pursuit
+      of a peace deal between Russia and Ukraine. The blunder centered on a “virtual”
+      meeting led by NATO. Prior to that meeting, Trump had promised the Russians that
+      any deal would rule out Ukraine’s NATO membership. Apparently the Russians read
+      Trump’s assurance to include no NATO peacekeepers. That was a mistake. The NATO-led
+      meeting was intended to lay out military options to meet Ukraine’s request for
+      security guarantees. The discussion apparently considered different views on what
+      a security guarantee would actually look like: would it, for example, include
+      troops and if so, how many, where would they be based in Ukraine and what role
+      would they perform? Stories are around that some countries, the British and French
+      in one version, the British, Germans and Poles in another (unlikely option), would
+      actually put boots on the ground in Ukraine, although British sources insist that
+      its troops would not be on the front line but “far back” from the action. . .
+      . Russia’s reaction came quickly and rejected foreign participation in security
+      guarantees for Ukraine. Speaking about the possibility of foreign troops being
+      deployed on Ukrainian territory, Russian foreign minister Sergey Lavrov said that
+      Moscow has always viewed this as unacceptable . “And I hope they understand that
+      this would be absolutely unacceptable for Russia and for all sensible political
+      forces in Europe,” Lavrov said.” He went on to say that such proposals are a “road
+      to nowhere.” Apparently, none of Trump’s advisors had reviewed the proposed security
+      guarantees that Russia presented during the Istanbul negotiations in March 2022
+      between Russia and Ukraine. The Istanbul Communiqué , which was a draft agreement,
+      provided a framework for a potential treaty aimed at ending the Russian Special
+      Military Operation . The proposed security guarantees, as outlined in various
+      sources, were a central component of Russia’s demands and the broader negotiations.
+      Below is a detailed summary of the security guarantees Russia proposed: Key Russian
+      Proposals on Security Guarantees (March 2022, Istanbul Communiqué) 1. Ukraine’s
+      Permanent Neutrality and NATO Exclusion: Russia insisted that Ukraine enshrine
+      permanent neutrality in its constitution, explicitly renouncing any plans to join
+      NATO or host foreign military forces on its territory. This was a core demand,
+      reflecting Russia’s long-standing grievance that NATO’s eastward expansion threatened
+      its security. In exchange, Russia, along with other countries (including Western
+      powers like the United States, UK, France, and potentially China), would act as
+      guarantor states, committing to defend Ukraine militarily if it were attacked
+      in the future 2. Security Guarantees with Veto Power: A critical condition proposed
+      by Russia was that any activation of security guarantees (i.e., military assistance
+      to Ukraine in case of an attack) would require unanimous consent from all guarantor
+      states, including Russia itself. This effectively gave Russia a veto over any
+      intervention, rendering the guarantees potentially ineffective from Ukraine’s
+      perspective. This provision echoed the structure of the Minsk II Accords, where
+      Russia was treated as a neutral party rather than a belligerent, allowing it to
+      block actions against itself.[](https://www.understandingwar.org/backgrounder/fact-sheet-istanbul-protocol-draft-document-april-15-2022)
+      3. Limits on Ukraine’s Military: Russia demanded significant restrictions on the
+      size and capability of Ukraine’s armed forces, including caps on personnel, equipment,
+      and military exercises. The exact limits were a point of contention, with disagreements
+      over how small Ukraine’s military could be while still maintaining defensive capacity.
+      Ukraine would be prohibited from conducting military exercises with foreign partners
+      in its territory, airspace, territorial waters, or exclusive economic zone without
+      the consent of guarantor states, including Russia and China. 4. Territorial and
+      Legal Concessions: Russia sought de jure recognition of its control over Crimea
+      and de facto recognition of Russian-held parts of Luhansk, Donetsk, Zaporizhzhia,
+      and Kherson. The status of Crimea was proposed to be negotiated over a 10- or
+      15-year consultation period, during which Ukraine would pledge not to attempt
+      retaking it by force. Russia also demanded that Ukraine amend its constitution
+      to make Russian an official state language on par with Ukrainian and repeal decommunization
+      laws and sanctions imposed on Russia since 2014. Additionally, Ukraine was to
+      withdraw criminal cases against Russia at the International Criminal Court for
+      war crimes. 5. Role of Guarantor States: The proposed guarantors included permanent
+      UN Security Council members (Russia, US, UK, France, China), potentially granting
+      Russia and China veto power over any response to future aggression via the UNSC
+      framework. This structure was designed to limit Western military support to Ukraine
+      in future conflicts. This was Russia’s demand in 2022, and I doubt that they have
+      reversed themselves. If Donald Trump and his team want to secure a peace agreement
+      the ends the Special Military Operation , then they should take the time to fully
+      immerse themselves in the Russian position and not waste time in entertaining
+      the possibility of NATO troops on the ground in Ukraine. Russia will not allow
+      that. Garland Nixon and I had our weekly chat on Thursday afternoon. I am also
+      posting my Wednesday conversation with Andy Millette: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Steve Bryen highlights a significant political misstep by
+      Donald Trump regarding Ukraine's security guarantees in a peace deal with Russia,
+      stemming from a misunderstanding during a NATO-led meeting about the implications
+      of Trump's assurances on NATO membership and peacekeepers.
+    paragraph_summary: In a recent Substack article, Steve Bryen critiques Donald Trump's
+      significant misstep regarding security guarantees for Ukraine in the context of
+      a potential peace deal with Russia. Bryen highlights that during a NATO-led virtual
+      meeting on August 20, Trump had previously assured Russia that any agreement would
+      exclude Ukraine's NATO membership, which the Russians interpreted as a lack of
+      NATO peacekeepers in Ukraine. This misunderstanding became problematic as the
+      meeting aimed to explore military options for providing security guarantees to
+      Ukraine, including the potential deployment of foreign troops. Russia swiftly
+      rejected the idea of foreign military presence, with Foreign Minister Sergey Lavrov
+      deeming it unacceptable and a "road to nowhere." Bryen notes that Trump's advisors
+      failed to consider the security guarantees Russia had proposed during earlier
+      negotiations in Istanbul, further complicating the situation.
+    published: '2025-08-22T04:18:11+00:00'
+  - title: Trump’s Gambit to Weaken BRICS Backfires… Is He Still Trying to Woo Russia
+      in a Bid to Defeat China?
+    url: https://sonar21.com/trumps-gambit-to-weaken-brics-backfires-is-he-still-trying-to-woo-russia-in-a-bid-to-defeat-china/
+    text: 'I posted this image of the press release announcing the upcoming meeting
+      between the foreign ministers of Russia and India because it provides one more
+      piece of evidence that Donald Trump’s efforts to split BRICS is failing. And this
+      is relevant to what has transpired among Washington, Russia and the Europeans
+      since last Friday’s summit. It is true that Donald Trump succeeded in rekindling
+      a cordial relationship with Vladimir Putin at last Friday’s summit in Alaska,
+      and it is clear that both men appear serious about keeping the lines of communication
+      open. But questions remain about Trump’s true objectives: Is Trump sincere in
+      wanting to forge closer ties with Russia, or is he pursuing the strategy elucidated
+      by A. Wess Mitchell — who is a buddy of Deputy Secretary of Defense Elbridge Colby
+      — in his August 2021 article in The National Interest : A Strategy for Avoiding
+      Two-Front War ? The heart of Mitchell’s argument is that the US must convince
+      Russia that China is the real enemy, and that the US must secure Russia’s cooperation
+      in a US campaign to contain China. This is not just some average former US Foreign
+      Service officer opining… Mitchell has sterling academic credentials and served
+      as Assistant Secretary of State for European and Eurasian Affairs during Trump’s
+      first term. Mitchell is currently the head of a think tank, and from that perch
+      he was tasked by the Pentagon Office of Net Assessment with writing a  longer
+      version of this paper, which was delivered to the Pentagon in the Fall of 2020.
+      In other words, Mitchell was asked to provide the US Department of Defense with
+      a strategic vision for dealing with Russia and China. I am quoting — forgive me
+      for the lengthy quote — the most salient portions of Mitchell’s paper: THE GREATEST
+      risk facing the twenty-first-century United States, short of an outright nuclear
+      attack, is a two-front war involving its strongest military rivals, China and
+      Russia. . . . Given these high stakes, avoiding a two-front war with China and
+      Russia must rank among the foremost objectives of contemporary U.S. grand strategy.
+      . . . Averting such scenarios should not only or primarily be a concern for the
+      U.S. military; it is also the job of U.S. diplomacy. Indeed, diplomacy in its
+      highest form has historically been used for precisely this purpose, as an instrument
+      for rearranging power in space and time to avoid fighting numerous enemies at
+      once. This role—the sequencing of rivalries—should be the central preoccupation
+      of American diplomacy today. . . . While accomplishing this task will not be easy,
+      COVID-19 may present an unexpected opportunity. By widening the power disparity
+      between China and Russia, the pandemic has heightened Russia’s economic dependency
+      on China as a source of capital, markets, and international political support.
+      Paradoxically, the very fact of this deepening dependency is likely to increase
+      Russian fear of becoming a sidecar to Beijing’s ambitions and create incentives
+      for Moscow to reorient its foreign policy. . . . Rather than attempting to woo
+      or court Russia into a conciliatory stance, we should present it with a combination
+      of insuperable obstacles to westward expansion (including, if necessary, by inflicting
+      a far more serious defeat than it has heretofore experienced in Ukraine) while
+      presenting new opportunities for cooperation, investment, and growth in Russia’s
+      east. Simply put, the goal should be to alleviate America’s simultaneity problem
+      by giving Russia incentives to be less of a European power—and more of an Asian
+      one. . . . The goal of our diplomacy toward Russia—and the crux of our strategy
+      for avoiding a two-front war—should be to sharpen Russia’s dilemma and ensure
+      that, as its fear of China ripens, it has viable options for a foreign policy
+      other than aggression toward the West. Such an approach would not operate on the
+      premise that the United States can court or woo Russia into a conciliatory stance.
+      To the contrary, its premise would be that to the extent that any reduction in
+      tensions with Russia is still possible, it will be because Russia’s leaders decide
+      on the basis of a cold-blooded read of their own interests that détente with the
+      West meets Russia’s security needs better than their present, aggressive policies
+      do. . . . The United States should wish to see Russia suffer a military rebuff
+      of sufficient magnitude to prompt its leaders to reassess their assumptions about
+      the permissiveness of the post-Soviet space as a preferred zone of strategic expansion.
+      America can help bring about this outcome much as it did in Afghanistan: by providing
+      locals the means to better resist Russia at higher volumes than it has done to
+      date and encouraging European allies to do the same. And we should significantly
+      raise the costs for cyber and other attacks on the United States, including via
+      reciprocal attacks on Russian critical infrastructure and by sanctioning Putin’s
+      inner circle and the secondary market for Russian bonds. There you have it! The
+      primary reason for the war in Ukraine — which the US-provoked — was to inflict
+      a defeat on Russia that would compel it to join Team USA and help America corral
+      China. While Mitchell is a smart guy, you can read for yourself that he completely
+      misjudged the consequences of trying to isolate and weaken Russia. Instead of
+      persuading Putin to submit to Washington’s hegemonic leadership and to eschew
+      closer ties with China, the opposite has happened. . . Russia and China now enjoy
+      closer economic, diplomatic, political and military ties than at any time in the
+      history of both nations. I must emphasize that much of the policymaking community
+      in Washington is still convinced that Russia and China are not natural allies,
+      and that the West can somehow engineer a divorce between the two nations. But
+      Washington’s onerous sanctions on Russia, its massive support for Ukraine in the
+      war with Russia, and its bellicose threats against China have, as I noted above,
+      made the two fast friends and allies. You can also add India and Brazil to that
+      list. A year ago, those two countries were not BRICS enthusiasts… now they are.
+      Since Trump took the oath of office in January, he has succeeded in creating a
+      unity of purpose and desire among the BRICS nations. While Trump and his team
+      are currently fixated on getting a peace agreement between Ukraine and Russia,
+      I do not think they grasp the complexity of that task, nor do they appreciate
+      that the real issue Russia will insist on addressing is the threat that NATO presents
+      to Russia. Until that root cause is addressed, Russia will continue the war of
+      attrition against Ukraine and move inexorably to the west. I discussed some of
+      this today with Danny Davis: I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses the implications of a meeting between
+      the foreign ministers of Russia and India, suggesting that Donald Trump's attempts
+      to divide BRICS are failing, while raising questions about his true intentions
+      in fostering closer ties with Russia amidst ongoing geopolitical tensions.
+    paragraph_summary: The article discusses the implications of a recent meeting between
+      the foreign ministers of Russia and India, suggesting that Donald Trump's efforts
+      to divide the BRICS nations are failing. While Trump has managed to establish
+      a cordial relationship with Vladimir Putin during a summit in Alaska, doubts linger
+      about his true intentions—whether he genuinely seeks closer ties with Russia or
+      is following a strategic approach outlined by A. Wess Mitchell. Mitchell's strategy
+      emphasizes the need for the U.S. to persuade Russia that China poses the greater
+      threat, thereby securing Russian cooperation in a campaign to contain China. This
+      perspective is rooted in Mitchell's credentials and his previous role in shaping
+      U.S. foreign policy, highlighting the critical concern of avoiding a two-front
+      war with both Russia and China in the current geopolitical landscape.
+    published: '2025-08-21T03:36:08+00:00'
+  - title: Trump’s Gambit to Weaken BRICS Backfires… Is He Still Trying to Woo Russia
+      in a Bid to Defeat China?
+    url: https://sonar21.com/trumps-gambit-to-weaken-brics-backfires-is-he-still-trying-to-woo-russia-in-a-bid-to-defeat-china/
+    text: 'I posted this image of the press release announcing the upcoming meeting
+      between the foreign ministers of Russia and India because it provides one more
+      piece of evidence that Donald Trump’s efforts to split BRICS is failing. And this
+      is relevant to what has transpired among Washington, Russia and the Europeans
+      since last Friday’s summit. It is true that Donald Trump succeeded in rekindling
+      a cordial relationship with Vladimir Putin at last Friday’s summit in Alaska,
+      and it is clear that both men appear serious about keeping the lines of communication
+      open. But questions remain about Trump’s true objectives: Is Trump sincere in
+      wanting to forge closer ties with Russia, or is he pursuing the strategy elucidated
+      by A. Wess Mitchell — who is a buddy of Deputy Secretary of Defense Elbridge Colby
+      — in his August 2021 article in The National Interest : A Strategy for Avoiding
+      Two-Front War ? The heart of Mitchell’s argument is that the US must convince
+      Russia that China is the real enemy, and that the US must secure Russia’s cooperation
+      in a US campaign to contain China. This is not just some average former US Foreign
+      Service officer opining… Mitchell has sterling academic credentials and served
+      as Assistant Secretary of State for European and Eurasian Affairs during Trump’s
+      first term. Mitchell is currently the head of a think tank, and from that perch
+      he was tasked by the Pentagon Office of Net Assessment with writing a  longer
+      version of this paper, which was delivered to the Pentagon in the Fall of 2020.
+      In other words, Mitchell was asked to provide the US Department of Defense with
+      a strategic vision for dealing with Russia and China. I am quoting — forgive me
+      for the lengthy quote — the most salient portions of Mitchell’s paper: THE GREATEST
+      risk facing the twenty-first-century United States, short of an outright nuclear
+      attack, is a two-front war involving its strongest military rivals, China and
+      Russia. . . . Given these high stakes, avoiding a two-front war with China and
+      Russia must rank among the foremost objectives of contemporary U.S. grand strategy.
+      . . . Averting such scenarios should not only or primarily be a concern for the
+      U.S. military; it is also the job of U.S. diplomacy. Indeed, diplomacy in its
+      highest form has historically been used for precisely this purpose, as an instrument
+      for rearranging power in space and time to avoid fighting numerous enemies at
+      once. This role—the sequencing of rivalries—should be the central preoccupation
+      of American diplomacy today. . . . While accomplishing this task will not be easy,
+      COVID-19 may present an unexpected opportunity. By widening the power disparity
+      between China and Russia, the pandemic has heightened Russia’s economic dependency
+      on China as a source of capital, markets, and international political support.
+      Paradoxically, the very fact of this deepening dependency is likely to increase
+      Russian fear of becoming a sidecar to Beijing’s ambitions and create incentives
+      for Moscow to reorient its foreign policy. . . . Rather than attempting to woo
+      or court Russia into a conciliatory stance, we should present it with a combination
+      of insuperable obstacles to westward expansion (including, if necessary, by inflicting
+      a far more serious defeat than it has heretofore experienced in Ukraine) while
+      presenting new opportunities for cooperation, investment, and growth in Russia’s
+      east. Simply put, the goal should be to alleviate America’s simultaneity problem
+      by giving Russia incentives to be less of a European power—and more of an Asian
+      one. . . . The goal of our diplomacy toward Russia—and the crux of our strategy
+      for avoiding a two-front war—should be to sharpen Russia’s dilemma and ensure
+      that, as its fear of China ripens, it has viable options for a foreign policy
+      other than aggression toward the West. Such an approach would not operate on the
+      premise that the United States can court or woo Russia into a conciliatory stance.
+      To the contrary, its premise would be that to the extent that any reduction in
+      tensions with Russia is still possible, it will be because Russia’s leaders decide
+      on the basis of a cold-blooded read of their own interests that détente with the
+      West meets Russia’s security needs better than their present, aggressive policies
+      do. . . . The United States should wish to see Russia suffer a military rebuff
+      of sufficient magnitude to prompt its leaders to reassess their assumptions about
+      the permissiveness of the post-Soviet space as a preferred zone of strategic expansion.
+      America can help bring about this outcome much as it did in Afghanistan: by providing
+      locals the means to better resist Russia at higher volumes than it has done to
+      date and encouraging European allies to do the same. And we should significantly
+      raise the costs for cyber and other attacks on the United States, including via
+      reciprocal attacks on Russian critical infrastructure and by sanctioning Putin’s
+      inner circle and the secondary market for Russian bonds. There you have it! The
+      primary reason for the war in Ukraine — which the US-provoked — was to inflict
+      a defeat on Russia that would compel it to join Team USA and help America corral
+      China. While Mitchell is a smart guy, you can read for yourself that he completely
+      misjudged the consequences of trying to isolate and weaken Russia. Instead of
+      persuading Putin to submit to Washington’s hegemonic leadership and to eschew
+      closer ties with China, the opposite has happened. . . Russia and China now enjoy
+      closer economic, diplomatic, political and military ties than at any time in the
+      history of both nations. I must emphasize that much of the policymaking community
+      in Washington is still convinced that Russia and China are not natural allies,
+      and that the West can somehow engineer a divorce between the two nations. But
+      Washington’s onerous sanctions on Russia, its massive support for Ukraine in the
+      war with Russia, and its bellicose threats against China have, as I noted above,
+      made the two fast friends and allies. You can also add India and Brazil to that
+      list. A year ago, those two countries were not BRICS enthusiasts… now they are.
+      Since Trump took the oath of office in January, he has succeeded in creating a
+      unity of purpose and desire among the BRICS nations. While Trump and his team
+      are currently fixated on getting a peace agreement between Ukraine and Russia,
+      I do not think they grasp the complexity of that task, nor do they appreciate
+      that the real issue Russia will insist on addressing is the threat that NATO presents
+      to Russia. Until that root cause is addressed, Russia will continue the war of
+      attrition against Ukraine and move inexorably to the west. I discussed some of
+      this today with Danny Davis: I thank you for your invaluable support by taking
+      time to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article discusses the implications of a meeting between
+      the foreign ministers of Russia and India, suggesting that Donald Trump's attempts
+      to divide BRICS are failing, while raising questions about his true intentions
+      in fostering closer ties with Russia amidst ongoing geopolitical tensions.
+    paragraph_summary: The article discusses the implications of a recent meeting between
+      the foreign ministers of Russia and India, suggesting that Donald Trump's efforts
+      to divide the BRICS nations are failing. While Trump has managed to establish
+      a cordial relationship with Vladimir Putin during a summit in Alaska, doubts linger
+      about his true intentions—whether he genuinely seeks closer ties with Russia or
+      is following a strategic approach outlined by A. Wess Mitchell. Mitchell's strategy
+      emphasizes the need for the U.S. to persuade Russia that China poses the greater
+      threat, thereby securing Russian cooperation in a campaign to contain China. This
+      perspective is rooted in Mitchell's credentials and his previous role in shaping
+      U.S. foreign policy, highlighting the critical concern of avoiding a two-front
+      war with both Russia and China in the current geopolitical landscape.
+    published: '2025-08-21T03:36:08+00:00'
   - title: Trump Still Fails to Understand Russia’s Fundamental Reason for the Special
       Military Operation, But He is Trying
     url: https://sonar21.com/trump-still-fails-to-understand-russias-fundamental-reason-for-the-special-military-operation-but-he-is-trying/

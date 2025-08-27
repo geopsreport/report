@@ -7,14 +7,52 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As the United Nations marks its 80th anniversary, the global geopolitical landscape remains defined by both persistent challenges and emerging shifts. **Jan Oberg** underscores that while the UN is still "humanity’s most important organisation," its capacity to address crises is systematically undermined by member states prioritizing militarism and national interests over collective action. This erosion of multilateralism is seen as a deliberate process, with Oberg warning that unless states reverse this trend, the UN’s relevance and effectiveness will continue to decline.
+  As of August 27, 2025, the geopolitical landscape remains marked by persistent challenges to peace, the evolving role of international institutions, and shifting dynamics in conflict regions. Recent independent analysis by **Jan Oberg** emphasizes the urgent need for creative, future-oriented approaches to global crises, warning that mere criticism without constructive solutions is insufficient for meaningful change.
   
-  In parallel, Oberg highlights a significant development in European foreign policy: mounting public pressure is compelling governments to reconsider their stance on the Israeli-Palestinian conflict. The UK, historically implicated in the origins of the conflict, is now poised to recognize a Palestinian state. Oberg attributes this shift to "growing public pressure in Europe and beyond," suggesting that broader recognition across Europe is "most definitely" on the horizon.
+  A key development is the mounting public and political pressure in Europe for the recognition of a Palestinian state. According to **Jan Oberg**, Britain—long implicated in the origins of the Israeli-Palestinian conflict—is now poised to formally recognize Palestinian statehood. This shift is attributed to sustained advocacy and changing public sentiment, signaling a potential turning point in European policy toward the Middle East. Oberg notes, "growing public pressure in Europe and beyond is compelling politicians to shift their stance," suggesting that further recognitions by other European states are "most definitely" likely in the near future.
   
-  Meanwhile, global dialogues are gaining prominence as a means to bridge divides. The recent exchange between Professor Zhang Weiwei and Oberg in Skopje, Macedonia, exemplifies efforts to foster understanding between differing geopolitical perspectives, particularly between China and the West. These dialogues are seen as increasingly vital in an era marked by polarization and mistrust.
+  Meanwhile, the United Nations, now marking its 80th anniversary, faces existential questions about its relevance and effectiveness. **Oberg** argues that the UN remains humanity’s most vital organization, but its capacity is being "deliberately destroyed" by member states prioritizing militarism over multilateral cooperation. The editorial underscores the risk that, without renewed commitment to the UN system, global governance could further fragment, with "high chance" of continued institutional erosion unless member states reverse current trends.
   
-  Looking ahead, the trends point to a continued weakening of multilateral institutions unless member states recommit to genuine cooperation. The recognition of Palestine by more European states is highly likely in the near term, reflecting a broader shift in public sentiment and political will. Dialogues between global intellectuals and policymakers are expected to play a growing role in shaping international relations, though their impact will depend on the willingness of states to act on shared insights.
+  In a related context, global dialogues—such as those between **Professor Zhang Weiwei** and Oberg—highlight the importance of cross-cultural engagement and diverse perspectives in addressing international challenges. These exchanges are increasingly seen as essential for fostering mutual understanding and innovative solutions, particularly as geopolitical competition intensifies.
+  
+  Looking ahead, the prevailing trend is a slow but discernible shift toward more inclusive and constructive international engagement, driven by civil society and select political actors. However, without a decisive move away from militarism and toward genuine multilateralism, the prospects for lasting peace and effective global governance remain uncertain. There is a "high chance" that incremental progress will continue, but a "guarantee" of transformative change will require a fundamental reorientation of priorities among the world’s leading powers.
 articles:
+  - title: “If You Want Peace, Be Creative and Focus on The Future.”
+    url: https://transnational.live/2025/08/21/if-you-want-peace-be-creative-and-focus-on-the-future/
+    text: People’s criticism without offering any solutions and their focus on the past
+      and present, but almost never on the future, are the two biggest obstacles to
+      real change. And to making peace… Jan Oberg August 21, 2025 This conversation
+      is not about Endless Militarism. The real title of Pascal Nottaz’ and my conversation
+      is the […] The post “If You Want Peace, Be Creative and Focus on The Future.”
+      appeared first on The Transnational .
+    one_sentence_summary: The article emphasizes that criticism without solutions and
+      a lack of future-oriented thinking hinder meaningful change and peace, as discussed
+      by Jan Oberg and Pascal Nottaz.
+    paragraph_summary: In the article, Jan Oberg emphasizes that criticism without constructive
+      solutions and a tendency to dwell on past and present issues hinder meaningful
+      change and peace. He argues that to foster peace, individuals must adopt a forward-thinking
+      mindset and embrace creativity. The conversation, co-hosted with Pascal Nottaz,
+      aims to shift the focus from endless militarism to proactive approaches that envision
+      a better future.
+    published: '2025-08-21T19:34:12+00:00'
+  - title: “If You Want Peace, Be Creative and Focus on The Future.”
+    url: https://transnational.live/2025/08/21/if-you-want-peace-be-creative-and-focus-on-the-future/
+    text: People’s criticism without offering any solutions and their focus on the past
+      and present, but almost never on the future, are the two biggest obstacles to
+      real change. And to making peace… Jan Oberg August 21, 2025 This conversation
+      is not about Endless Militarism. The real title of Pascal Nottaz’ and my conversation
+      is the […] The post “If You Want Peace, Be Creative and Focus on The Future.”
+      appeared first on The Transnational .
+    one_sentence_summary: The article emphasizes that criticism without solutions and
+      a lack of future-oriented thinking hinder meaningful change and peace, as discussed
+      by Jan Oberg and Pascal Nottaz.
+    paragraph_summary: In the article, Jan Oberg emphasizes that criticism without constructive
+      solutions and a tendency to dwell on past and present issues hinder meaningful
+      change and peace. He argues that to foster peace, individuals must adopt a forward-thinking
+      mindset and embrace creativity. The conversation, co-hosted with Pascal Nottaz,
+      aims to shift the focus from endless militarism to proactive approaches that envision
+      a better future.
+    published: '2025-08-21T19:34:12+00:00'
   - title: 'The UN at 80: Still humanity’s most important organisation but member states
       deliberately destroy it'
     url: https://transnational.live/2025/08/13/the-un-at-80-still-humanitys-most-important-organisation-but-member-states-deliberately-destroy-it/

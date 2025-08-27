@@ -7,16 +7,316 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  As of August 20, 2025, the geopolitical landscape remains shaped by persistent crises in Ukraine and Gaza, with new developments in diplomatic recognition and Western policy responses.
+  The past 24 hours have seen significant developments across several geopolitical flashpoints, with new information emerging on the Middle East, intelligence affairs, and the shifting global balance of power.
   
-  The Ukraine conflict continues to dominate headlines, but **Joe Lauria** cautions that the recent uptick in high-level diplomatic activity may be less significant than portrayed. According to Lauria, “real progress hinges on Donald Trump’s uncertain commitment,” suggesting that the outcome of negotiations is closely tied to the unpredictable U.S. political environment. This view is echoed by **Ray McGovern**, who highlights doubts about the so-called “Seven Dwarfs”—a group of Western allies—being able or willing to sustain the necessary arms and financial support for Ukraine. This raises questions about the durability of Western backing for President Zelensky’s government and rhetoric.
+  The ongoing devastation in Gaza continues to draw international scrutiny, not only for its immediate humanitarian impact but also for the erasure of cultural and historical heritage. **Chris Hedges** emphasizes that the destruction represents "not only a violation of the rights of the Palestinian people but also a profound loss to cultural and historical heritage," underscoring the long-term implications for regional identity and memory. This perspective is echoed by other analysts who stress that understanding the historical context is essential for grasping the roots and potential outcomes of the current crisis.
   
-  Meanwhile, the Palestinian issue has seen a notable shift. The U.N. Secretary General’s acceptance of Palestine’s membership application is interpreted by **Ray McGovern** as de facto recognition of Palestinian statehood, since only states are eligible to apply. This procedural development is reinforced by a growing trend among European countries to recognize Palestine, largely in response to the ongoing humanitarian crisis in Gaza. Three Al Shabaka policy experts, cited by McGovern, argue that this recognition is a direct reaction to the situation on the ground, signaling a shift in international attitudes even as the conflict remains unresolved.
+  In a separate development, Australia has taken the extraordinary step of expelling Iran's ambassador and three embassy officials. According to **Ray McGovern**, this move follows an intelligence assessment implicating Iranian operatives in a plot to attack a Melbourne synagogue last December. The diplomatic fallout signals a hardening of Australia's stance toward Iran and may presage further international isolation for Tehran. The majority of sources agree that this incident will likely exacerbate tensions between Iran and Western-aligned states, with a high chance of reciprocal actions from Iran in the coming days.
   
-  Looking ahead, the majority of analysts agree that the trajectory of the Ukraine war will depend heavily on U.S. political decisions, with a high chance that Western support could waver if Trump’s stance remains inconsistent. On the Palestinian front, there is high confidence that international recognition will continue to grow, but with limited immediate impact on the realities of occupation and conflict in Gaza.
+  Meanwhile, speculation is mounting in Washington over the possibility of former President Trump considering a pardon for Ghislaine Maxwell, amid renewed scrutiny of her family's intelligence connections. **Ray McGovern** notes that "growing speculation" about such a move is fueling debate over the intersection of intelligence agencies, high-profile criminal cases, and presidential power. While no official action has been taken, analysts suggest that any pardon would provoke a substantial political backlash and further complicate U.S. relations with key allies.
   
-  In summary, the latest developments underscore the fragility of diplomatic efforts in Ukraine and the incremental but symbolically important gains for Palestinian statehood. The prevailing trend is one of cautious skepticism about Western resolve in Ukraine and growing, though largely symbolic, international support for Palestine.
+  Looking ahead, the prevailing trend is one of increasing polarization and instability in international relations. The destruction in Gaza is likely to continue fueling regional grievances and resistance, while the diplomatic rift between Australia and Iran is expected to deepen. On the intelligence front, the intersection of legal proceedings and state interests remains a volatile factor in U.S. domestic and foreign policy. Based on current trajectories, I assess with high confidence that these issues will remain at the forefront of global affairs in the coming weeks, with little prospect for rapid de-escalation.
 articles:
+  - title: 'Chris Hedges: Israel’s Assassination of Memory'
+    url: https://consortiumnews.com/2025/08/26/chris-hedges-israels-assassination-of-memory/
+    text: The razing of Gaza is not a crime only against the Palestinian people but
+      against our cultural and historical heritage. We can’t understand the present,
+      especially when reporting on Palestine and Israel, if we don’t understand the
+      past. By Chris Hedges… Read more →
+    one_sentence_summary: The destruction of Gaza represents not only a violation of
+      the rights of the Palestinian people but also a profound loss to cultural and
+      historical heritage, emphasizing the importance of understanding the past to grasp
+      the current situation in the region.
+    paragraph_summary: In the article, Chris Hedges argues that the destruction of Gaza
+      represents not only a profound injustice to the Palestinian people but also a
+      significant loss to cultural and historical heritage. He emphasizes the importance
+      of understanding the historical context of the Israeli-Palestinian conflict to
+      fully grasp the current situation. Hedges contends that acknowledging and preserving
+      the rich history of the region is crucial for a comprehensive understanding of
+      the ongoing struggles and narratives surrounding Palestine and Israel.
+    published: '2025-08-26T18:15:39+00:00'
+  - title: 'Chris Hedges: Israel’s Assassination of Memory'
+    url: https://consortiumnews.com/2025/08/26/chris-hedges-israels-assassination-of-memory/
+    text: The razing of Gaza is not a crime only against the Palestinian people but
+      against our cultural and historical heritage. We can’t understand the present,
+      especially when reporting on Palestine and Israel, if we don’t understand the
+      past. By Chris Hedges… Read more →
+    one_sentence_summary: The destruction of Gaza represents not only a violation of
+      the rights of the Palestinian people but also a profound loss to cultural and
+      historical heritage, emphasizing the importance of understanding the past to grasp
+      the current situation in the region.
+    paragraph_summary: In the article, Chris Hedges argues that the destruction of Gaza
+      represents not only a profound injustice to the Palestinian people but also a
+      significant loss to cultural and historical heritage. He emphasizes the importance
+      of understanding the historical context of the Israeli-Palestinian conflict to
+      fully grasp the current situation. Hedges contends that acknowledging and preserving
+      the rich history of the region is crucial for a comprehensive understanding of
+      the ongoing struggles and narratives surrounding Palestine and Israel.
+    published: '2025-08-26T18:15:39+00:00'
+  - title: The CIA, Mossad & Epstein
+    url: https://consortiumnews.com/2025/08/26/the-cia-mossad-epstein/
+    text: As speculation mounts about the possibility of Trump pardoning Ghislaine Maxwell,
+      Alan MacLeod unravels the intelligence ties of the Maxwell family.  By Alan MacLeod
+      MintPress News With speculation mounting that U.S. President Donald Trump could
+      pardon her, MintPress profiles the… Read more →
+    one_sentence_summary: The article explores the intelligence connections of Ghislaine
+      Maxwell's family amid growing speculation that former President Trump may consider
+      pardoning her.
+    paragraph_summary: In an article by Alan MacLeod for MintPress News, the author
+      explores the potential for former President Donald Trump to pardon Ghislaine Maxwell,
+      amidst growing speculation surrounding the issue. The piece delves into the intelligence
+      connections of the Maxwell family, highlighting their historical ties and implications,
+      which may shed light on the dynamics at play in the context of Maxwell's legal
+      troubles and the political landscape during Trump's presidency.
+    published: '2025-08-26T16:03:02+00:00'
+  - title: The CIA, Mossad & Epstein
+    url: https://consortiumnews.com/2025/08/26/the-cia-mossad-epstein/
+    text: As speculation mounts about the possibility of Trump pardoning Ghislaine Maxwell,
+      Alan MacLeod unravels the intelligence ties of the Maxwell family.  By Alan MacLeod
+      MintPress News With speculation mounting that U.S. President Donald Trump could
+      pardon her, MintPress profiles the… Read more →
+    one_sentence_summary: The article explores the intelligence connections of Ghislaine
+      Maxwell's family amid growing speculation that former President Trump may consider
+      pardoning her.
+    paragraph_summary: In an article by Alan MacLeod for MintPress News, the author
+      explores the potential for former President Donald Trump to pardon Ghislaine Maxwell,
+      amidst growing speculation surrounding the issue. The piece delves into the intelligence
+      connections of the Maxwell family, highlighting their historical ties and implications,
+      which may shed light on the dynamics at play in the context of Maxwell's legal
+      troubles and the political landscape during Trump's presidency.
+    published: '2025-08-26T16:03:02+00:00'
+  - title: Australia Blames Iran for Synagogue Attack
+    url: https://consortiumnews.com/2025/08/26/australia-blames-iran-for-synagogue-attack/
+    text: Based on an Australian intelligence “assessment,” the Australian government
+      on Tuesday expelled Iran’s ambassador and three other embassy officials for allegedly
+      planning an attack on a Melbourne synagogue last December. By Joe Lauria Special
+      to Consortium News Australia has expelled… Read more →
+    one_sentence_summary: Australia expelled Iran's ambassador and three embassy officials
+      due to an intelligence assessment suggesting their involvement in a plot to attack
+      a Melbourne synagogue last December.
+    paragraph_summary: The Australian government has expelled Iran's ambassador and
+      three other embassy officials following an intelligence assessment that implicated
+      them in a plot to attack a synagogue in Melbourne last December. This decision
+      underscores escalating tensions between Australia and Iran, as authorities take
+      a firm stance against perceived threats to national security.
+    published: '2025-08-26T05:49:24+00:00'
+  - title: Australia Blames Iran for Synagogue Attack
+    url: https://consortiumnews.com/2025/08/26/australia-blames-iran-for-synagogue-attack/
+    text: Based on an Australian intelligence “assessment,” the Australian government
+      on Tuesday expelled Iran’s ambassador and three other embassy officials for allegedly
+      planning an attack on a Melbourne synagogue last December. By Joe Lauria Special
+      to Consortium News Australia has expelled… Read more →
+    one_sentence_summary: Australia expelled Iran's ambassador and three embassy officials
+      due to an intelligence assessment suggesting their involvement in a plot to attack
+      a Melbourne synagogue last December.
+    paragraph_summary: The Australian government has expelled Iran's ambassador and
+      three other embassy officials following an intelligence assessment that implicated
+      them in a plot to attack a synagogue in Melbourne last December. This decision
+      underscores escalating tensions between Australia and Iran, as authorities take
+      a firm stance against perceived threats to national security.
+    published: '2025-08-26T05:49:24+00:00'
+  - title: 'The Chris Hedges Report: When Religious Mafia & Rightwing Extremists Take
+      Over'
+    url: https://consortiumnews.com/2025/08/25/the-chris-hedges-report-when-religious-mafia-rightwing-extremists-take-over/
+    text: 'Rollo Romig, author of the Pulitzer Prize-finalist book I Am On the Hit List:
+      A Journalist’s Murder and the Ruse of Autocracy in India examines the historic
+      and political context of the 2017 murder of Gauri Lankesh and chronicles the rise…
+      Read more →'
+    one_sentence_summary: Rollo Romig's book, "I Am On the Hit List," explores the historical
+      and political backdrop of journalist Gauri Lankesh's 2017 murder and the broader
+      implications of autocracy in India.
+    paragraph_summary: 'Rollo Romig''s book, *I Am On the Hit List: A Journalist’s Murder
+      and the Ruse of Autocracy in India*, explores the historical and political backdrop
+      surrounding the 2017 murder of journalist Gauri Lankesh. The author delves into
+      the implications of her death, highlighting the increasing threats to press freedom
+      and the rise of authoritarianism in India. Through Lankesh''s story, Romig sheds
+      light on the broader issues of political violence and the challenges faced by
+      journalists in an increasingly hostile environment.'
+    published: '2025-08-25T21:00:50+00:00'
+  - title: 'The Chris Hedges Report: When Religious Mafia & Rightwing Extremists Take
+      Over'
+    url: https://consortiumnews.com/2025/08/25/the-chris-hedges-report-when-religious-mafia-rightwing-extremists-take-over/
+    text: 'Rollo Romig, author of the Pulitzer Prize-finalist book I Am On the Hit List:
+      A Journalist’s Murder and the Ruse of Autocracy in India examines the historic
+      and political context of the 2017 murder of Gauri Lankesh and chronicles the rise…
+      Read more →'
+    one_sentence_summary: Rollo Romig's book, "I Am On the Hit List," explores the historical
+      and political backdrop of journalist Gauri Lankesh's 2017 murder and the broader
+      implications of autocracy in India.
+    paragraph_summary: 'Rollo Romig''s book, *I Am On the Hit List: A Journalist’s Murder
+      and the Ruse of Autocracy in India*, explores the historical and political backdrop
+      surrounding the 2017 murder of journalist Gauri Lankesh. The author delves into
+      the implications of her death, highlighting the increasing threats to press freedom
+      and the rise of authoritarianism in India. Through Lankesh''s story, Romig sheds
+      light on the broader issues of political violence and the challenges faced by
+      journalists in an increasingly hostile environment.'
+    published: '2025-08-25T21:00:50+00:00'
+  - title: 'PATRICK LAWRENCE: Trump & the Russophobes'
+    url: https://consortiumnews.com/2025/08/25/patrick-lawrence-trump-the-russophobes/
+    text: The extent to which Trump’s démarche toward Moscow succeeds will be the extent
+      to which the U.S. can transcend a long, regrettable history and finally embrace
+      the 21st century.  By Patrick Lawrence Special to Consortium News There is no
+      saying… Read more →
+    one_sentence_summary: The success of Trump's approach to Moscow will determine whether
+      the U.S. can move beyond its troubled past and fully engage with the realities
+      of the 21st century.
+    paragraph_summary: In his article for Consortium News, Patrick Lawrence discusses
+      the implications of Trump's approach to Moscow, suggesting that its success will
+      determine whether the U.S. can move beyond its historical tensions with Russia
+      and fully engage with the realities of the 21st century. He emphasizes the need
+      for a shift in U.S. foreign policy that acknowledges past mistakes while fostering
+      a more constructive relationship with Russia, which could lead to greater global
+      stability and cooperation.
+    published: '2025-08-25T18:02:31+00:00'
+  - title: 'PATRICK LAWRENCE: Trump & the Russophobes'
+    url: https://consortiumnews.com/2025/08/25/patrick-lawrence-trump-the-russophobes/
+    text: The extent to which Trump’s démarche toward Moscow succeeds will be the extent
+      to which the U.S. can transcend a long, regrettable history and finally embrace
+      the 21st century.  By Patrick Lawrence Special to Consortium News There is no
+      saying… Read more →
+    one_sentence_summary: The success of Trump's approach to Moscow will determine whether
+      the U.S. can move beyond its troubled past and fully engage with the realities
+      of the 21st century.
+    paragraph_summary: In his article for Consortium News, Patrick Lawrence discusses
+      the implications of Trump's approach to Moscow, suggesting that its success will
+      determine whether the U.S. can move beyond its historical tensions with Russia
+      and fully engage with the realities of the 21st century. He emphasizes the need
+      for a shift in U.S. foreign policy that acknowledges past mistakes while fostering
+      a more constructive relationship with Russia, which could lead to greater global
+      stability and cooperation.
+    published: '2025-08-25T18:02:31+00:00'
+  - title: Public Safety & Presidential Power
+    url: https://consortiumnews.com/2025/08/25/public-safety-presidential-power/
+    text: Thomas Jefferson and James Madison recognized the price for safety can include
+      loss of personal freedom, expansion of presidential power, loss of local control
+      of police and violation of the principle of subsidiarity, writes Judge Andrew
+      Napolitano. By Andrew P. Napolitano… Read more →
+    one_sentence_summary: Judge Andrew Napolitano argues that Thomas Jefferson and James
+      Madison acknowledged that the pursuit of safety can lead to a sacrifice of personal
+      freedoms, increased presidential authority, diminished local police control, and
+      violations of the principle of subsidiarity.
+    paragraph_summary: In his article, Judge Andrew Napolitano discusses how Thomas
+      Jefferson and James Madison understood that the pursuit of safety can lead to
+      significant trade-offs, including the erosion of personal freedoms, the expansion
+      of presidential authority, diminished local control over law enforcement, and
+      violations of the principle of subsidiarity. Napolitano emphasizes the historical
+      perspective of these Founding Fathers on the delicate balance between security
+      and individual liberties, warning against the potential consequences of prioritizing
+      safety at the expense of personal rights and local governance.
+    published: '2025-08-25T15:31:42+00:00'
+  - title: Public Safety & Presidential Power
+    url: https://consortiumnews.com/2025/08/25/public-safety-presidential-power/
+    text: Thomas Jefferson and James Madison recognized the price for safety can include
+      loss of personal freedom, expansion of presidential power, loss of local control
+      of police and violation of the principle of subsidiarity, writes Judge Andrew
+      Napolitano. By Andrew P. Napolitano… Read more →
+    one_sentence_summary: Judge Andrew Napolitano argues that Thomas Jefferson and James
+      Madison acknowledged that the pursuit of safety can lead to a sacrifice of personal
+      freedoms, increased presidential authority, diminished local police control, and
+      violations of the principle of subsidiarity.
+    paragraph_summary: In his article, Judge Andrew Napolitano discusses how Thomas
+      Jefferson and James Madison understood that the pursuit of safety can lead to
+      significant trade-offs, including the erosion of personal freedoms, the expansion
+      of presidential authority, diminished local control over law enforcement, and
+      violations of the principle of subsidiarity. Napolitano emphasizes the historical
+      perspective of these Founding Fathers on the delicate balance between security
+      and individual liberties, warning against the potential consequences of prioritizing
+      safety at the expense of personal rights and local governance.
+    published: '2025-08-25T15:31:42+00:00'
+  - title: 'NOTE TO READERS: A Pause in Publishing'
+    url: https://consortiumnews.com/2025/08/20/note-to-readers-a-pause-in-publishing/
+    text: Because of technical issues, Consortium News will undergo a renovation that
+      will prevent us from publishing from today over the weekend until early next week.
+      We should be back better than ever. Thank you for your patience. Please check
+      back… Read more →
+    one_sentence_summary: Consortium News will pause publishing due to technical issues
+      for the weekend and plans to return improved early next week.
+    paragraph_summary: Consortium News will be temporarily unavailable for publishing
+      due to technical issues, with renovations scheduled to take place from today through
+      the weekend until early next week. The team expresses gratitude for readers' patience
+      and assures that they will return improved.
+    published: '2025-08-20T20:26:41+00:00'
+  - title: 'NOTE TO READERS: A Pause in Publishing'
+    url: https://consortiumnews.com/2025/08/20/note-to-readers-a-pause-in-publishing/
+    text: Because of technical issues, Consortium News will undergo a renovation that
+      will prevent us from publishing from today over the weekend until early next week.
+      We should be back better than ever. Thank you for your patience. Please check
+      back… Read more →
+    one_sentence_summary: Consortium News will pause publishing due to technical issues
+      for the weekend and plans to return improved early next week.
+    paragraph_summary: Consortium News will be temporarily unavailable for publishing
+      due to technical issues, with renovations scheduled to take place from today through
+      the weekend until early next week. The team expresses gratitude for readers' patience
+      and assures that they will return improved.
+    published: '2025-08-20T20:26:41+00:00'
+  - title: 'Vijay Prashad: Locking Up & Torturing the Resistance'
+    url: https://consortiumnews.com/2025/08/20/vijay-prashad-locking-up-torturing-the-resistance/
+    text: The Israelis bomb hungry people in Gaza and torture Palestinians for the same
+      reason  — to crush resistance to the occupation. By Vijay Prashad Peoples Dispatch
+      Lee en español aquí It was astonishing to read about the death of Ahmad Saeed…
+      Read more →
+    one_sentence_summary: The article by Vijay Prashad discusses how Israeli military
+      actions, including bombings and torture, aim to suppress Palestinian resistance
+      to occupation.
+    paragraph_summary: In the article by Vijay Prashad, the author discusses the ongoing
+      violence and humanitarian crisis in Gaza, highlighting the Israeli military's
+      actions against Palestinians, which include bombings and torture. Prashad argues
+      that these actions are aimed at suppressing resistance to the Israeli occupation.
+      The piece reflects on the broader implications of such violence on the Palestinian
+      population, particularly in the context of their suffering and the struggle for
+      autonomy.
+    published: '2025-08-20T19:18:02+00:00'
+  - title: 'Vijay Prashad: Locking Up & Torturing the Resistance'
+    url: https://consortiumnews.com/2025/08/20/vijay-prashad-locking-up-torturing-the-resistance/
+    text: The Israelis bomb hungry people in Gaza and torture Palestinians for the same
+      reason  — to crush resistance to the occupation. By Vijay Prashad Peoples Dispatch
+      Lee en español aquí It was astonishing to read about the death of Ahmad Saeed…
+      Read more →
+    one_sentence_summary: The article by Vijay Prashad discusses how Israeli military
+      actions, including bombings and torture, aim to suppress Palestinian resistance
+      to occupation.
+    paragraph_summary: In the article by Vijay Prashad, the author discusses the ongoing
+      violence and humanitarian crisis in Gaza, highlighting the Israeli military's
+      actions against Palestinians, which include bombings and torture. Prashad argues
+      that these actions are aimed at suppressing resistance to the Israeli occupation.
+      The piece reflects on the broader implications of such violence on the Palestinian
+      population, particularly in the context of their suffering and the struggle for
+      autonomy.
+    published: '2025-08-20T19:18:02+00:00'
+  - title: Ben-Gvir’s Insidious Taunt of Jailed Palestinian Leader
+    url: https://consortiumnews.com/2025/08/20/ben-gvirs-insidious-taunt-of-jailed-palestinian-leader/
+    text: The Israeli security minister released a video of himself hectoring a barely
+      recogniable Marwan Barghouti, the unifying Palestinian leader who has been imprisoned
+      since 2002. By Aseel Saleh Peoples Dispatch Once again Israeli Minister of National
+      Security Itamar Ben-Gvir has… Read more →
+    one_sentence_summary: Israeli security minister Itamar Ben-Gvir publicly confronted
+      a visibly altered Marwan Barghouti, a prominent Palestinian leader imprisoned
+      since 2002, in a recently released video.
+    paragraph_summary: Israeli National Security Minister Itamar Ben-Gvir has released
+      a video in which he confronts Marwan Barghouti, a prominent Palestinian leader
+      imprisoned since 2002, who appears barely recognizable. This incident highlights
+      ongoing tensions between Israeli authorities and Palestinian figures, as Ben-Gvir
+      continues to assert his hardline stance on security matters. The video serves
+      as a reminder of Barghouti's significant role in Palestinian politics and the
+      broader conflict between Israel and Palestine.
+    published: '2025-08-20T17:24:45+00:00'
+  - title: Ben-Gvir’s Insidious Taunt of Jailed Palestinian Leader
+    url: https://consortiumnews.com/2025/08/20/ben-gvirs-insidious-taunt-of-jailed-palestinian-leader/
+    text: The Israeli security minister released a video of himself hectoring a barely
+      recogniable Marwan Barghouti, the unifying Palestinian leader who has been imprisoned
+      since 2002. By Aseel Saleh Peoples Dispatch Once again Israeli Minister of National
+      Security Itamar Ben-Gvir has… Read more →
+    one_sentence_summary: Israeli security minister Itamar Ben-Gvir publicly confronted
+      a visibly altered Marwan Barghouti, a prominent Palestinian leader imprisoned
+      since 2002, in a recently released video.
+    paragraph_summary: Israeli National Security Minister Itamar Ben-Gvir has released
+      a video in which he confronts Marwan Barghouti, a prominent Palestinian leader
+      imprisoned since 2002, who appears barely recognizable. This incident highlights
+      ongoing tensions between Israeli authorities and Palestinian figures, as Ben-Gvir
+      continues to assert his hardline stance on security matters. The video serves
+      as a reminder of Barghouti's significant role in Palestinian politics and the
+      broader conflict between Israel and Palestine.
+    published: '2025-08-20T17:24:45+00:00'
   - title: 'WATCH: Out-Flattering a Capricious Trump'
     url: https://consortiumnews.com/2025/08/19/watch-out-flattering-a-capricious-trump/
     text: 'CN editor Joe Lauria tells RT News the significance of the recent flurry

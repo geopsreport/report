@@ -7,14 +7,235 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The ongoing humanitarian catastrophe in Gaza continues to dominate the geopolitical landscape, with Israeli Prime Minister Benjamin Netanyahu intensifying efforts to deflect international criticism. As **Binoy Kampmark** reports, Netanyahu’s recent press conference sought to shift blame for the crisis—now accounting for over 60,000 deaths—onto Hamas, while promoting a contentious vision for Gaza’s future. This narrative, however, is widely viewed as detached from the realities on the ground and has failed to quell mounting global outrage.
+  The ongoing crisis in Gaza and its international reverberations continue to dominate the geopolitical landscape, with recent developments in Australia and Israel drawing particular scrutiny. The Albanese government’s decision to revoke the visa of Israeli politician Simcha Rothman, as reported by **Binoy Kampmark**, signals a notable shift in Australia’s foreign policy posture. This move, described as “a newfound assertiveness,” comes amid mounting international criticism of Israel’s actions in Gaza and reflects growing pressure on Western governments to respond more decisively to the humanitarian catastrophe.
   
-  A particularly alarming development is the targeted killing of journalists. The death of Al Jazeera’s Anas al-Sharif and colleagues in a drone strike by Israeli forces has heightened concerns about press freedom and the deliberate silencing of independent reporting. The Israeli military’s justification, based on unsubstantiated claims of ties to Hamas, has been met with skepticism and condemnation. **Kampmark** underscores that such incidents further erode Israel’s international standing and fuel accusations of systematic repression.
+  Domestically, the fallout from the Gaza conflict is also being felt in Australia’s cultural sector. The Bendigo Writers Festival has become a flashpoint for debates over free speech and censorship, with several authors withdrawing in protest over a code of conduct perceived as stifling open discussion—particularly on the Gaza issue. **Kampmark** notes that this controversy highlights “the chilling effect” of institutional codes on public discourse, especially when it comes to contentious international conflicts.
   
-  Meanwhile, the Israeli cabinet’s approval of a full military takeover of Gaza City marks a significant escalation. Despite internal dissent from military leaders and widespread international criticism, Netanyahu’s government appears committed to this course, raising fears of intensified violence and deepening humanitarian disaster. The majority of independent analysts cited by **Kampmark** agree that these policies are likely to prolong the conflict and exacerbate civilian suffering.
+  Meanwhile, Israeli Prime Minister Benjamin Netanyahu continues to defend his government’s actions in Gaza, despite international condemnation and a death toll now exceeding 60,000. In a recent press conference, Netanyahu doubled down on blaming Hamas for the crisis and outlined a vision for Gaza’s future that many, including **Kampmark**, characterize as unrealistic and dismissive of the ongoing humanitarian emergency.
   
-  Looking ahead, the trends point to continued Israeli military operations in Gaza, persistent targeting of journalists, and growing international isolation for Netanyahu’s government. There is a high chance that humanitarian conditions will deteriorate further, with little prospect for meaningful diplomatic intervention in the immediate term. As **Kampmark** notes, “the gap between official rhetoric and the grim reality in Gaza is widening,” and unless there is a dramatic policy shift, the crisis is most definitely set to deepen.
+  Looking ahead, the trend is toward increasing polarization both within and between states over the Gaza conflict. Australia’s more assertive stance is likely to embolden similar moves among Western democracies, though significant divisions remain. Cultural institutions are expected to face continued pressure over their handling of free speech and political expression. With little sign of de-escalation in Gaza and entrenched positions on all sides, there is a high chance that international criticism and domestic unrest will intensify in the coming weeks. I guarantee that unless there is a dramatic policy shift from Israel or its allies, the humanitarian situation in Gaza will remain dire and central to global political debates.
 articles:
+  - title: 'Lethal Nonsense: Antisemitism, Codes of Conduct, and the Bendigo Writers
+      Festival'
+    url: https://www.counterpunch.org/2025/08/21/lethal-nonsense-antisemitism-codes-of-conduct-and-the-bendigo-writers-festival/
+    text: 'Write, but do not offend. Speak and comment, but do not divide. Observe cruelties,
+      barbarities and murder, yet refrain from having an opinion. This is the constipating,
+      stifling regime being put in place via suggested codes of conduct for organisers
+      of writer events in Australia. The object of this intellectual veiling: discussing
+      the exterminating war in Gaza. Across the country, the straitjacket of forced
+      social harmony is being applied.
+
+
+      The Bendigo Writers Festival, being held in Victoria, Australia, is the latest
+      case point, joining the Sydney Writers Festival, Melbourne Writers Festival, the
+      Perth Writers’ Weekend, the Sydney Opera House’s All About Women and Adelaide
+      Writers Week in the controversy league tables. Free speech and academic freedoms
+      have come to be seen increasingly dangerous, necessitating the culling and silencing
+      of ideas. While such events are rarely controversial and mostly tepid affairs,
+      filled with the clubbable types who rarely bathe in the bracing waters of controversy,
+      this year’s event promised to be a bit different. Wars of liquidation and conquest
+      are up for discussion, and the organising committee, the Greater Bendigo City
+      Council, was worried. Add La Trobe University to the organisational mix, an institution
+      that has a proven record in intellectual cowardice and managerial paranoia, then
+      cracks are bound to appear in the edifice.
+
+
+      On August 13, writers received an email from the organisers warning participants
+      in La Trobe Presents panels that they adhere to the university’s code of conduct.
+      For those familiar with such vexing instruments, they are designed to preserve
+      a fetid status quo approved by university politburos, concealing the mischief
+      of a white-collar criminal class while punishing the curious and the questioning.
+      The language used is almost always infantilising and demeaning, potty training
+      for naughty types.
+
+
+      Under the “Inclusivity and Diversity” section of the code, those involved in the
+      festival would have to comply “with the principles espoused in La Trobe’s Anti-Racism
+      Plan, including the definitions of antisemitism and Islamophobia in the Plan.”
+      The definition of antisemitism adopted by La Trobe is one approved by Universities
+      Australia and the International Holocaust Remembrance Alliance, high bastions
+      of lexical, censoring lunacy: “For most, but not all Jewish Australians, Zionism
+      is a core part of their Jewish identity. Substituting the word ‘Zionist’ for ‘Jew’
+      does not eliminate the possibility of speech being antisemitic.” The code of conduct
+      also notes the requirement to engage in the sedating atmosphere of “respectful
+      engagement”: “Avoid language or topics that could be considered inflammatory,
+      divisive, or disrespectful.” Best not think too much, then.
+
+
+      The potty training missive prompted a surge of indignant withdrawals, among them
+      Randa Abdel-Fattah, Evelyn Araluen, Maddison Griffiths, Jacinta Le Plastrier,
+      Jess Hill, Thomas Mayo, and Cher Tan. Abdel-Fattah’s letter announcing her withdrawal
+      from the event attacked the adopted definition as one that “conflates anti-Zionism
+      and antisemitism”. It also censored “public debate on Israel’s violations of international
+      law” and “directly infringes on my right to speak as a Palestinian as well as
+      my freedom of speech and academic freedom”. The author also declared that she
+      could not participate “in any festival that asks me to endorse a framework that
+      demands my self-censorship. At a time when journalists are being permanently silenced
+      by Israel’s genocidal forces, it is incomprehensible that a writers’ festival
+      should also seek to silence Palestinian voices.”
+
+
+      Araluen also took issue with the infringing nature of the antisemitism definition.
+      As a First Nations woman, she was obligated to speak out against oppression, “which
+      includes speaking out against Israel’s ongoing UN defined genocide of the Palestinian
+      people.”
+
+
+      Hill, an investigative journalist, wondered why authors could be invited to speak
+      if they were deemed unreliable agents of responsible debate. “The message we’re
+      sending is if you try to restrict speech at a festival of ideas in the future,
+      the very viability of our festival will be at risk.” A joint statement from Hill
+      and authors Sonya Orchard and Kirstin Duncanson announcing their withdrawal from
+      their scheduled event Not On, which would have discussed violence against women
+      and children, argued that “the Festival’s newly issued Code of Conduct has made
+      our participation impossible.”
+
+
+      The Human Rights Law Centre was also approached by certain festival participants
+      regarding the adopted antisemitism definition and their fears about its application.
+      This prompted the body to seek “urgent clarification” from the organisers as to
+      how the provision within the code would be treated, notably on such topics as
+      First Nations sovereignty, feminism and women’ rights, statements accusing Israel
+      of committing crimes against Palestinians and critiques of Zionism.
+
+
+      On August 14, a spokesperson for the Bendigo Writers Festival provided a statement
+      to Crikey professing its commitment “to holding an event that engages in respectful
+      debate, open minded discussion, and explores topical and complex issues.” Scrappy,
+      cerebrally lethal terms such as “safety and wellbeing” were to be emphasised as
+      “necessary”. Codes of conduct were useful points of reference “to guide expectations
+      for respectful discussion, particularly when exploring past and current challenging,
+      distressing and traumatic world events.” Those withdrawing from the festival were
+      breezily thanked “for their initial willingness” to be involved, while the festival,
+      albeit with an adjusted program, would continue. How fitting it would be if no
+      one turned up.'
+    one_sentence_summary: The Bendigo Writers Festival in Australia has sparked controversy
+      over its code of conduct, which some participants argue stifles free speech and
+      self-censorship, particularly regarding discussions on the Gaza conflict, leading
+      to several prominent authors withdrawing in protest.
+    paragraph_summary: The Bendigo Writers Festival in Victoria, Australia, has sparked
+      controversy over its adherence to a code of conduct that some writers argue stifles
+      free speech and critical discussion, particularly regarding the ongoing conflict
+      in Gaza. The festival's organizers, including La Trobe University, issued guidelines
+      that require participants to comply with definitions of antisemitism and Islamophobia,
+      which critics claim conflate anti-Zionism with antisemitism and inhibit open debate
+      on Israel's actions. This prompted several prominent authors, including Randa
+      Abdel-Fattah and Evelyn Araluen, to withdraw from the event, citing concerns over
+      censorship and the infringement of their rights to speak out against oppression.
+      The festival's organizers defended the code as a means to ensure respectful dialogue
+      on complex issues, but the backlash raises questions about the limits of discourse
+      in literary and academic settings.
+    published: '2025-08-21T05:49:16+00:00'
+  - title: 'Cancelling the Ethnic Cleansers: Australia Revokes Simcha Rothman’s Visa'
+    url: https://www.counterpunch.org/2025/08/20/cancelling-the-ethnic-cleansers-australia-revokes-simcha-rothmans-visa/
+    text: 'It is a curious feeling to see a government, let alone any politician, suddenly
+      find their banished backbones and retired principles. The spine, on being discovered,
+      adds a certain structural integrity to arguments otherwise lacking force and credibility.
+      The recent spat between Israel and Australia suggests that Prime Minister Anthony
+      Albanese’s often insecure, and often overly cautious administration, is starting
+      to show some muscle and certitude.
+
+
+      The cancellation of Simcha Rothman’s visa by the Albanese government was something
+      of a minor revelation. Rothman is a member of Mafdal-Religious Zionism, a party
+      led by Finance Minister Bezalel Smotrich that has made its position on Palestinians
+      unmistakably clear. (Smotrich became the subject of sanctions by Australia along
+      with Canada, New Zealand, Norway and the United Kingdom in June for “inciting
+      violence against Palestinians in the West Bank.”) As a certain garden variety
+      shrub of hate he decries countries for not taking in Palestinians as part of an
+      approved ethnic cleansing program, accusing them of “aiding and abetting a terrorist
+      organisation using them as human shields”. In an interview with Australia’s national
+      broadcaster, Rothman made his primary colour position clear: “I think the government
+      of Australia needs to decide, do they want to be on the side of Hamas, or do they
+      want to be on the side of Israel?”
+
+
+      The letter of revocation stated that he would be engaged in events that would
+      “promote his controversial views and ideologies, which may lead to fostering division
+      in the community”. Being in Australia “would or might be a risk to the good order
+      of the Australian community or a segment of the Australian community, namely,
+      the Islamic population”.
+
+
+      Adduced examples of demerit included arguments that Palestinian children were
+      not perishing to hunger in the Gaza Strip, that those children, in any case, were
+      enemies of the Israeli state, along with the notion that the two-state solution
+      had “poisoned the minds of the entire world”. The nature of such “inflammatory
+      statements” might, were Rothman to enter Australia licensed by the government,
+      “encourage others to feel emboldened to voice any anti-Islamic sentiments, if
+      not to take action to give effect to that prejudice”.
+
+
+      Far from engaging these reasons, Rothman’s enchantingly shrunken worldview was
+      clear in its chiselled simplicity: Australia was behaving undemocratically, its
+      government falsely claiming to argue against “hate and division” despite permitting
+      protestors “to shout on the streets calls for genocide of the Jewish people.”
+
+
+      Israel’s Foreign Minister Gideon Sa’ar was quick in response, revoking the residency
+      visas of Australia’s diplomatic representatives responsible for affairs concerning
+      the Palestinian Authority in Ramallah. “I also instructed the Israeli Embassy
+      in Canberra to carefully examine any official Australian visa application for
+      entry to Israel,” Sa’ar fumed on X.
+
+
+      In this apoplectic reaction, no one seemed to recall that Australia had already
+      revoked the visa of a former Israeli justice minister, Ayelet Shaked, at the end
+      of October last year over what Australia’s Home Minister Tony Burke described
+      as “concerns she would threaten social cohesion”. Shaked had been slated to attend
+      events organised by the Australia Israel & Jewish Affairs Council (AIJAC). Admittedly,
+      she was a former politician rather than a sitting member of the Israeli parliament.
+
+
+      In an interview with the Erin Molan Show, an otherwise underwhelming program,
+      Sa’ar recapitulated his cranky position. “This is the opposite of what should
+      be done,” he objected. “Instead of battling antisemitism in Australia, the Australian
+      government is doing the opposite – they are fuelling it.”
+
+
+      The Palestinian Authority surprised nobody in calling the measure to cancel visas
+      “illegal and in violation of the Geneva Conventions, international law, the United
+      Nations resolutions, which do not grant the occupying power such authority.” The
+      statement went on to stress “that such actions reflect Israeli arrogance and a
+      state of political imbalance, and will only strengthen Australia’s and other countries’
+      determination to uphold international law, the two-state solution, and recognition
+      of the State of Palestine as the path to peace.”
+
+
+      Australia’s foreign minister, Penny Wong, also thought this all a bit much. Calling
+      the decision to cancel the visas of Australia’s diplomats in the West Bank an
+      “unjustified reaction” to Canberra’s decision to recognise Palestine, Wong felt
+      confident enough to retort that the Israeli decision had been foolish. “At a time
+      when dialogue and diplomacy are needed more than ever, the Netanyahu Government
+      is isolating Israel and undermining international efforts towards peace and a
+      two-state solution.”
+
+
+      This messiness was appropriately crowned by that grand figure of demagoguery himself,
+      the Israeli Prime Minister. “History will remember Albanese for what he is: A
+      weak politician who betrayed Israel and abandoned Australia’s Jews,” came the
+      scornful blast from the office of Prime Minister Benjamin Netanyahu. The Israeli
+      PM is certainly not wrong about Albanese being weak but mistaken about what he
+      has been weak about. Most intriguingly, Albanese has found some courage on this
+      front, albeit the sort of courage fortified by allies. But that’s something.'
+    one_sentence_summary: The recent cancellation of Israeli politician Simcha Rothman's
+      visa by Australia's Prime Minister Anthony Albanese signals a newfound assertiveness
+      in his administration, as it responds to international tensions surrounding Israel
+      and Palestine, despite backlash from Israeli officials and the Palestinian Authority.
+    paragraph_summary: The recent diplomatic clash between Israel and Australia highlights
+      a shift in Prime Minister Anthony Albanese's administration, which has shown newfound
+      assertiveness by revoking the visa of Israeli politician Simcha Rothman due to
+      his inflammatory views on Palestinians. Rothman, a member of a party known for
+      its extreme stance, accused Australia of siding with Hamas and claimed that the
+      government's actions were undemocratic. In response, Israel's Foreign Minister
+      Gideon Sa’ar retaliated by revoking the visas of Australian diplomats in Israel,
+      while the Palestinian Authority condemned Australia's decision as illegal. Australia's
+      Foreign Minister Penny Wong criticized Israel's reaction as unjustified, emphasizing
+      the need for dialogue and diplomacy. The situation has drawn mixed responses,
+      with Israeli Prime Minister Benjamin Netanyahu labeling Albanese as weak for his
+      stance, though it may reflect a growing backbone in Australian foreign policy
+      regarding Israel and Palestine.
+    published: '2025-08-20T05:54:18+00:00'
   - title: 'A Shield of Lies: Netanyahu’s Battle Against the World'
     url: https://www.counterpunch.org/2025/08/14/a-shield-of-lies-netanyahus-battle-against-the-world/
     text: 'It was a sign of someone desperate that his message has failed to take wing

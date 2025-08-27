@@ -7,14 +7,914 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  After nearly two years of relentless conflict in Gaza, the region faces a critical juncture. The Israeli military, under Chief of Staff Yael Zamir, has submitted a new plan to Defense Minister Yisrael Katz for the occupation of Gaza, with the stated aim of dismantling Hamas and installing a new governing authority. This military proposal comes at a moment of diplomatic opportunity: Hamas has accepted a U.S.-mediated ceasefire initiative, which includes provisions for humanitarian aid and the possible release of Israeli prisoners.
+  Tensions between Israel and Iran continue to escalate, dominating the regional agenda. Over the past 48 hours, Israeli Prime Minister Benjamin Netanyahu has intensified warnings about Iran’s nuclear capabilities, suggesting that a military confrontation is increasingly likely. According to **Elijah J. Magnier**, Israeli leaders are emphasizing the threat posed by Iran's enriched uranium stockpile, while Tehran has responded with strong rhetoric and preparations for possible provocations.
   
-  **Elijah J. Magnier** notes that this ceasefire, brokered with the involvement of Egypt and Qatar, is set for an initial 60-day period. The timing is significant, as it coincides with a parliamentary truce in Israel, granting Prime Minister Netanyahu a temporary political reprieve. The convergence of military and diplomatic strategies suggests a complex calculus in Tel Aviv, where the leadership must choose between pursuing the occupation plan, embracing the ceasefire, or stalling for further advantage.
+  This standoff is not limited to direct military threats. As **Magnier** notes, both sides are engaging in hybrid tactics—ranging from cyber operations to proxy engagements—raising the risk of miscalculation. The Israeli leadership’s public statements are interpreted as both a deterrent and a signal to allies, while Iran’s response suggests it is bracing for escalation but remains cautious about triggering a full-scale war.
   
-  Analysts widely agree that Israel’s prolonged campaign in Gaza has not yielded decisive political gains, despite overwhelming military force. As **Magnier** emphasizes, “military dominance does not guarantee political victory”—a lesson increasingly apparent in the wake of widespread destruction and the threat of further displacement of Palestinians.
+  Meanwhile, the situation in Iraq remains volatile. The proposed law to institutionalize the Popular Mobilisation Forces (PMF) has sparked intense debate in Baghdad and drawn concern from Washington and London, who fear it will further entrench Iranian influence in Iraq. **Magnier** reports that this legislative move is seen by Western powers as a direct challenge to their strategic interests, with threats of sanctions looming over Iraqi officials and institutions.
   
-  Looking ahead, the majority view is that the next weeks will be pivotal. If Netanyahu’s government opts to accept the ceasefire and engage with the diplomatic process, there is a high chance (“I guarantee,” as Magnier would put it) of at least a temporary reduction in hostilities and improved humanitarian conditions. However, should the occupation plan proceed or the ceasefire be sabotaged, renewed escalation is almost certain, with the risk of deeper regional instability. The prevailing trend points to a fragile window for de-escalation, but the underlying political and military tensions remain unresolved.
+  Looking ahead, the majority of sources agree that the risk of a direct Israel-Iran confrontation has risen significantly, though both sides are still maneuvering below the threshold of open war. The hybrid nature of the conflict—combining military, cyber, and proxy elements—makes the situation highly unpredictable. In Iraq, the institutionalization of the PMF is quite likely to proceed, despite Western pressure, further consolidating Iran’s regional position.
+  
+  Based on current trends, I guarantee that the coming weeks will see continued escalation in rhetoric and hybrid operations between Israel and Iran, with a high chance of spillover effects in neighboring states such as Iraq. The risk of a sudden military clash remains elevated, but both sides appear intent on managing escalation to avoid a catastrophic regional war—for now.
 articles:
+  - title: 'Geringe Hitze, hoher Einsatz: Steht ein weiterer hybrider Krieg zwischen
+      Israel und dem Iran bevor?'
+    url: https://ejmagnier.com/2025/08/25/geringe-hitze-hoher-einsatz-steht-ein-weiterer-hybrider-krieg-zwischen-israel-und-dem-iran-bevor/
+    text: 'Tweet Von Elijah J. Magnier – Die Aussicht auf eine erneute Konfrontation
+      zwischen Israel und dem Iran ist nicht mehr hypothetisch, sondern wird in der
+      Rhetorik politischer und militärischer Führer immer deutlicher. Der israelische
+      Ministerpräsident Benjamin Netanjahu erklärte kürzlich, dass der Iran „über 400
+      kg zu 60 % angereichertes Uran verfügt“ und betonte, dass Israel sich das Recht
+      vorbehält, „die militärischen Nuklearkapazitäten des Iran zu zerstören“. Diese
+      Erklärung wurde weithin als Signal interpretiert, dass der zwölf Tage andauernde
+      Krieg zwischen den beiden Gegnern – der nur durch eine verbale Waffenruhe und
+      nicht durch ein formelles Abkommen beendet wurde – kein isolierter Konflikt war,
+      sondern der Auftakt zu einer weiteren Eskalation. Auf iranischer Seite deuteten
+      Quellen aus dem Umfeld der Entscheidungsträger an, dass Israel versuchen könnte,
+      die Feindseligkeiten wieder anzufachen, wenn es seinen Geheimdiensten mit Unterstützung
+      westlicher Behörden gelänge, den obersten Führer Sayyed Ali Khamenei aufzuspüren
+      und zu ermorden. Sie wiesen darauf hin, dass Sayyed Khameneis rasches Eingreifen
+      und seine Kontrolle während des zwölftägigen Konflikts – innerhalb von sechs Stunden
+      nach Kriegsbeginn wurden alle Militärkommandeure ernannt – entscheidend zur Stabilisierung
+      des Systems und zur Vergeltung gegenüber Israel und den USA beigetragen hätten.
+      Verteidigungsminister Amir Nasirzadeh räumte ein, dass der Iran vor dem Konflikt
+      seine militärischen Fähigkeiten überbewertet habe, was zu einer gewissen Überheblichkeit
+      innerhalb der Führung geführt habe. Gleichzeitig betonte er, dass Teheran seine
+      modernsten Systeme während der Kämpfe bewusst zurückgehalten habe. „Wir verfügen
+      über Raketen mit Sprengköpfen, die weitaus zerstörerischer sind als die, die im
+      12-tägigen Krieg eingesetzt wurden“, erklärte er und verwies dabei auf manövrierfähige
+      Wiedereintrittsfahrzeuge, die Raketenabwehrsystemen ausweichen können, sowie auf
+      das Qasem Basir, das als das präziseste Raketensystem des Iran gilt. Nasirzadeh
+      betonte, dass die Produktionslinien während des gesamten Konflikts ununterbrochen
+      weiterliefen, was sowohl die Widerstandsfähigkeit als auch die Kontinuität unter
+      anhaltenden Bombardements unter Beweis stellte. Eine ähnliche Einschätzung kam
+      von einem internen Untersuchungsausschuss der Hisbollah, der die Folgen des 66-tägigen
+      Krieges Israels gegen den Libanon untersuchte. Auch er kam zu dem Schluss, dass
+      die Führung der Hisbollah die Fähigkeit der Bewegung, Israel nachhaltig strategisch
+      abzuschrecken – insbesondere die Fähigkeit, Tel Aviv langfristig von einer größeren
+      Offensive abzuhalten –, überschätzt habe. Diese Überschätzung der Fähigkeiten
+      spiegelte auch eine Fehleinschätzung wider, die mit Teheran geteilt wurde: Sowohl
+      die Hisbollah als auch der Iran unterschätzten den Umfang des israelischen Geheimdienstapparats,
+      die Tiefe seiner Zusammenarbeit mit westlichen Geheimdiensten und die umfangreiche
+      Datenbank mit Zielen, die Israel über Jahrzehnte hinweg aufgebaut hatte. Diese
+      Faktoren, gepaart mit der Entschlossenheit Israels, das Kommando- und Kontrollzentrum
+      der Hisbollah, ihre Anführer und Raketenlager auf der einen Seite und das Raketenprogramm
+      und die nukleare Infrastruktur des Iran auf der anderen Seite entschlossen zu
+      treffen, deckten die Grenzen der Abschreckungsrhetorik auf, die sowohl Teheran
+      als auch die Hisbollah zu vermitteln versuchten. Die Lehre daraus war, dass die
+      Übertreibung von Fähigkeiten nicht nur die Gefahr birgt, intern falsche Zuversicht
+      zu schüren, sondern auch Gegner dazu verleitet, Schwachstellen aufzudecken, was
+      die Glaubwürdigkeit der Abschreckung selbst untergräbt. Subscribe Subscribe to
+      get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Die Spannungen zwischen Israel und dem Iran nehmen zu, da
+      israelische Führer, einschließlich Ministerpräsident Benjamin Netanjahu, die Möglichkeit
+      einer militärischen Konfrontation betonen, während der Iran auf mögliche Provokationen
+      reagiert.
+    paragraph_summary: Die Spannungen zwischen Israel und dem Iran nehmen zu, da israelische
+      Führer, einschließlich Ministerpräsident Benjamin Netanjahu, offen drohen, die
+      nuklearen Fähigkeiten des Iran anzugreifen. Netanjahu wies darauf hin, dass der
+      Iran über 400 kg Uran mit 60 % Anreicherung verfügt, was als Hinweis auf eine
+      bevorstehende Eskalation interpretiert wird, nachdem ein kürzlicher Konflikt nur
+      durch eine verbale Waffenruhe beendet wurde. Iranische Entscheidungsträger warnen,
+      dass Israel versuchen könnte, die Feindseligkeiten zu intensivieren, insbesondere
+      wenn es gelänge, den iranischen Führer Sayyed Ali Khamenei zu lokalisieren und
+      zu töten. Der iranische Verteidigungsminister gestand ein, dass das Land seine
+      militärischen Fähigkeiten überschätzt habe, betonte jedoch, dass es während des
+      Konflikts modernste Systeme zurückgehalten habe, die potenziell verheerender sind
+      als die eingesetzten Waffen.
+    published: '2025-08-25T03:51:34+00:00'
+  - title: 'Geringe Hitze, hoher Einsatz: Steht ein weiterer hybrider Krieg zwischen
+      Israel und dem Iran bevor?'
+    url: https://ejmagnier.com/2025/08/25/geringe-hitze-hoher-einsatz-steht-ein-weiterer-hybrider-krieg-zwischen-israel-und-dem-iran-bevor/
+    text: 'Tweet Von Elijah J. Magnier – Die Aussicht auf eine erneute Konfrontation
+      zwischen Israel und dem Iran ist nicht mehr hypothetisch, sondern wird in der
+      Rhetorik politischer und militärischer Führer immer deutlicher. Der israelische
+      Ministerpräsident Benjamin Netanjahu erklärte kürzlich, dass der Iran „über 400
+      kg zu 60 % angereichertes Uran verfügt“ und betonte, dass Israel sich das Recht
+      vorbehält, „die militärischen Nuklearkapazitäten des Iran zu zerstören“. Diese
+      Erklärung wurde weithin als Signal interpretiert, dass der zwölf Tage andauernde
+      Krieg zwischen den beiden Gegnern – der nur durch eine verbale Waffenruhe und
+      nicht durch ein formelles Abkommen beendet wurde – kein isolierter Konflikt war,
+      sondern der Auftakt zu einer weiteren Eskalation. Auf iranischer Seite deuteten
+      Quellen aus dem Umfeld der Entscheidungsträger an, dass Israel versuchen könnte,
+      die Feindseligkeiten wieder anzufachen, wenn es seinen Geheimdiensten mit Unterstützung
+      westlicher Behörden gelänge, den obersten Führer Sayyed Ali Khamenei aufzuspüren
+      und zu ermorden. Sie wiesen darauf hin, dass Sayyed Khameneis rasches Eingreifen
+      und seine Kontrolle während des zwölftägigen Konflikts – innerhalb von sechs Stunden
+      nach Kriegsbeginn wurden alle Militärkommandeure ernannt – entscheidend zur Stabilisierung
+      des Systems und zur Vergeltung gegenüber Israel und den USA beigetragen hätten.
+      Verteidigungsminister Amir Nasirzadeh räumte ein, dass der Iran vor dem Konflikt
+      seine militärischen Fähigkeiten überbewertet habe, was zu einer gewissen Überheblichkeit
+      innerhalb der Führung geführt habe. Gleichzeitig betonte er, dass Teheran seine
+      modernsten Systeme während der Kämpfe bewusst zurückgehalten habe. „Wir verfügen
+      über Raketen mit Sprengköpfen, die weitaus zerstörerischer sind als die, die im
+      12-tägigen Krieg eingesetzt wurden“, erklärte er und verwies dabei auf manövrierfähige
+      Wiedereintrittsfahrzeuge, die Raketenabwehrsystemen ausweichen können, sowie auf
+      das Qasem Basir, das als das präziseste Raketensystem des Iran gilt. Nasirzadeh
+      betonte, dass die Produktionslinien während des gesamten Konflikts ununterbrochen
+      weiterliefen, was sowohl die Widerstandsfähigkeit als auch die Kontinuität unter
+      anhaltenden Bombardements unter Beweis stellte. Eine ähnliche Einschätzung kam
+      von einem internen Untersuchungsausschuss der Hisbollah, der die Folgen des 66-tägigen
+      Krieges Israels gegen den Libanon untersuchte. Auch er kam zu dem Schluss, dass
+      die Führung der Hisbollah die Fähigkeit der Bewegung, Israel nachhaltig strategisch
+      abzuschrecken – insbesondere die Fähigkeit, Tel Aviv langfristig von einer größeren
+      Offensive abzuhalten –, überschätzt habe. Diese Überschätzung der Fähigkeiten
+      spiegelte auch eine Fehleinschätzung wider, die mit Teheran geteilt wurde: Sowohl
+      die Hisbollah als auch der Iran unterschätzten den Umfang des israelischen Geheimdienstapparats,
+      die Tiefe seiner Zusammenarbeit mit westlichen Geheimdiensten und die umfangreiche
+      Datenbank mit Zielen, die Israel über Jahrzehnte hinweg aufgebaut hatte. Diese
+      Faktoren, gepaart mit der Entschlossenheit Israels, das Kommando- und Kontrollzentrum
+      der Hisbollah, ihre Anführer und Raketenlager auf der einen Seite und das Raketenprogramm
+      und die nukleare Infrastruktur des Iran auf der anderen Seite entschlossen zu
+      treffen, deckten die Grenzen der Abschreckungsrhetorik auf, die sowohl Teheran
+      als auch die Hisbollah zu vermitteln versuchten. Die Lehre daraus war, dass die
+      Übertreibung von Fähigkeiten nicht nur die Gefahr birgt, intern falsche Zuversicht
+      zu schüren, sondern auch Gegner dazu verleitet, Schwachstellen aufzudecken, was
+      die Glaubwürdigkeit der Abschreckung selbst untergräbt. Subscribe Subscribe to
+      get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Die Spannungen zwischen Israel und dem Iran nehmen zu, da
+      israelische Führer, einschließlich Ministerpräsident Benjamin Netanjahu, die Möglichkeit
+      einer militärischen Konfrontation betonen, während der Iran auf mögliche Provokationen
+      reagiert.
+    paragraph_summary: Die Spannungen zwischen Israel und dem Iran nehmen zu, da israelische
+      Führer, einschließlich Ministerpräsident Benjamin Netanjahu, offen drohen, die
+      nuklearen Fähigkeiten des Iran anzugreifen. Netanjahu wies darauf hin, dass der
+      Iran über 400 kg Uran mit 60 % Anreicherung verfügt, was als Hinweis auf eine
+      bevorstehende Eskalation interpretiert wird, nachdem ein kürzlicher Konflikt nur
+      durch eine verbale Waffenruhe beendet wurde. Iranische Entscheidungsträger warnen,
+      dass Israel versuchen könnte, die Feindseligkeiten zu intensivieren, insbesondere
+      wenn es gelänge, den iranischen Führer Sayyed Ali Khamenei zu lokalisieren und
+      zu töten. Der iranische Verteidigungsminister gestand ein, dass das Land seine
+      militärischen Fähigkeiten überschätzt habe, betonte jedoch, dass es während des
+      Konflikts modernste Systeme zurückgehalten habe, die potenziell verheerender sind
+      als die eingesetzten Waffen.
+    published: '2025-08-25T03:51:34+00:00'
+  - title: 'Lage spanning, hoge inzet: komt er weer een hybride oorlog tussen Israël
+      en Iran?'
+    url: https://ejmagnier.com/2025/08/25/lage-spanning-hoge-inzet-komt-er-weer-een-hybride-oorlog-tussen-israel-en-iran/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Het vooruitzicht
+      van een hernieuwde confrontatie tussen Israël en Iran is niet langer hypothetisch,
+      maar wordt steeds explicieter in de retoriek van politieke en militaire leiders.
+      De Israëlische premier Benjamin Netanyahu verklaarde onlangs dat Iran “400 kg
+      60% verrijkt uranium intact heeft” en benadrukte dat Israël zich het recht voorbehoudt
+      om “het militaire nucleaire vermogen van Iran te vernietigen”. Deze verklaring
+      werd algemeen geïnterpreteerd als een signaal dat de twaalfdaagse oorlog tussen
+      de twee vijanden – die alleen door een mondeling staakt-het-vuren en niet door
+      een formele overeenkomst werd beëindigd – geen op zichzelf staande botsing was,
+      maar een voorbode van een verdere escalatie. Aan Iraanse zijde suggereerden bronnen
+      dicht bij de besluitvormers dat Israël zou kunnen proberen de vijandelijkheden
+      opnieuw aan te wakkeren als zijn inlichtingendiensten, gesteund door westerse
+      agentschappen, de hoogste leider Sayyed Ali Khamenei zouden lokaliseren en vermoorden.
+      Zij wezen erop dat Sayyed Khamenei’s snelle optreden en controle tijdens het twaalfdaagse
+      conflict – hij benoemde alle militaire commandanten binnen zes uur na het begin
+      van de oorlog – doorslaggevend was voor het stabiliseren van het systeem en het
+      nemen van vergeldingsmaatregelen tegen de Israëli’s en de Amerikanen. Minister
+      van Defensie Amir Nasirzadeh gaf toe dat Iran voorafgaand aan het conflict zijn
+      militaire capaciteiten had overschat, waardoor er binnen de leiding een zekere
+      mate van overmoed was ontstaan. Tegelijkertijd benadrukte hij dat Teheran tijdens
+      de gevechten bewust zijn meest geavanceerde systemen achter de hand had gehouden.
+      “Wij beschikken over raketten met kernkoppen die veel destructiever zijn dan die
+      welke tijdens de twaalfdaagse oorlog zijn gebruikt”, merkte hij op, daarbij verwijzend
+      naar manoeuvreerbare terugkeervoertuigen die zijn ontworpen om raketafweersystemen
+      te ontwijken, en naar de Qasem Basir, die wordt beschreven als het meest nauwkeurige
+      raketsysteem van Iran. Belangrijk is dat Nasirzadeh benadrukte dat de productielijnen
+      tijdens het conflict ononderbroken zijn blijven draaien, waarmee hij zowel veerkracht
+      als continuïteit onder aanhoudende bombardementen liet zien. Een soortgelijke
+      beoordeling kwam naar voren uit het interne onderzoekscomité van Hezbollah, dat
+      de nasleep van de 66 dagen durende Israëlische oorlog tegen Libanon heeft geëvalueerd.
+      Ook daar werd erkend dat de leiding van Hezbollah de capaciteit van de beweging
+      om Israël op strategische wijze af te schrikken had overschat, met name het vermogen
+      om Tel Aviv ervan te weerhouden op lange termijn een grootschalig offensief te
+      overwegen. Deze overschatting van de capaciteiten weerspiegelde ook een misrekening
+      die werd gedeeld met Teheran: zowel Hezbollah als Iran onderschatten de omvang
+      van het Israëlische inlichtingenapparaat, de diepgaande samenwerking met westerse
+      instanties en de uitgebreide lijst van doelwitten die Israël in de loop van tientallen
+      jaren had opgesteld. Deze factoren, in combinatie met de vastberadenheid van Israël
+      om het hart van Hezbollahs commando- en controlestructuur, leiders en rakettenopslagplaatsen
+      aan de ene kant en het raketprogramma en de nucleaire infrastructuur van Iran
+      aan de andere kant, bloot te leggen, legden de beperkingen bloot van het afschrikkingsverhaal
+      dat zowel Teheran als Hezbollah wilden uitdragen. De les was dat het overdrijven
+      van capaciteiten niet alleen het risico met zich meebrengt dat intern een vals
+      vertrouwen wordt gewekt, maar ook vijanden uitnodigt om kwetsbaarheden bloot te
+      leggen, waardoor de geloofwaardigheid van de afschrikking zelf wordt ondermijnd.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: De spanningen tussen Israël en Iran escaleren, waarbij Israël's
+      premier Netanyahu waarschuwt voor de dreiging van Iran's nucleaire capaciteiten
+      en suggereert dat een nieuwe confrontatie onvermijdelijk is.
+    paragraph_summary: The article discusses the escalating tensions between Israel
+      and Iran, highlighting recent statements from Israeli Prime Minister Benjamin
+      Netanyahu regarding Iran's uranium enrichment capabilities and Israel's right
+      to target Iran's nuclear military potential. This rhetoric suggests that the recent
+      twelve-day conflict between the two nations was not an isolated incident but rather
+      a precursor to further hostilities. Iranian sources indicate that Israel may attempt
+      to reignite conflict, particularly if they target Supreme Leader Sayyed Ali Khamenei,
+      whose decisive leadership during the last conflict was crucial for Iran's response.
+      Iranian Defense Minister Amir Nasirzadeh acknowledged that Iran had overestimated
+      its military capabilities before the conflict but also hinted at the existence
+      of advanced missile systems that could be more destructive than those previously
+      deployed.
+    published: '2025-08-25T03:40:38+00:00'
+  - title: 'Lage spanning, hoge inzet: komt er weer een hybride oorlog tussen Israël
+      en Iran?'
+    url: https://ejmagnier.com/2025/08/25/lage-spanning-hoge-inzet-komt-er-weer-een-hybride-oorlog-tussen-israel-en-iran/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Het vooruitzicht
+      van een hernieuwde confrontatie tussen Israël en Iran is niet langer hypothetisch,
+      maar wordt steeds explicieter in de retoriek van politieke en militaire leiders.
+      De Israëlische premier Benjamin Netanyahu verklaarde onlangs dat Iran “400 kg
+      60% verrijkt uranium intact heeft” en benadrukte dat Israël zich het recht voorbehoudt
+      om “het militaire nucleaire vermogen van Iran te vernietigen”. Deze verklaring
+      werd algemeen geïnterpreteerd als een signaal dat de twaalfdaagse oorlog tussen
+      de twee vijanden – die alleen door een mondeling staakt-het-vuren en niet door
+      een formele overeenkomst werd beëindigd – geen op zichzelf staande botsing was,
+      maar een voorbode van een verdere escalatie. Aan Iraanse zijde suggereerden bronnen
+      dicht bij de besluitvormers dat Israël zou kunnen proberen de vijandelijkheden
+      opnieuw aan te wakkeren als zijn inlichtingendiensten, gesteund door westerse
+      agentschappen, de hoogste leider Sayyed Ali Khamenei zouden lokaliseren en vermoorden.
+      Zij wezen erop dat Sayyed Khamenei’s snelle optreden en controle tijdens het twaalfdaagse
+      conflict – hij benoemde alle militaire commandanten binnen zes uur na het begin
+      van de oorlog – doorslaggevend was voor het stabiliseren van het systeem en het
+      nemen van vergeldingsmaatregelen tegen de Israëli’s en de Amerikanen. Minister
+      van Defensie Amir Nasirzadeh gaf toe dat Iran voorafgaand aan het conflict zijn
+      militaire capaciteiten had overschat, waardoor er binnen de leiding een zekere
+      mate van overmoed was ontstaan. Tegelijkertijd benadrukte hij dat Teheran tijdens
+      de gevechten bewust zijn meest geavanceerde systemen achter de hand had gehouden.
+      “Wij beschikken over raketten met kernkoppen die veel destructiever zijn dan die
+      welke tijdens de twaalfdaagse oorlog zijn gebruikt”, merkte hij op, daarbij verwijzend
+      naar manoeuvreerbare terugkeervoertuigen die zijn ontworpen om raketafweersystemen
+      te ontwijken, en naar de Qasem Basir, die wordt beschreven als het meest nauwkeurige
+      raketsysteem van Iran. Belangrijk is dat Nasirzadeh benadrukte dat de productielijnen
+      tijdens het conflict ononderbroken zijn blijven draaien, waarmee hij zowel veerkracht
+      als continuïteit onder aanhoudende bombardementen liet zien. Een soortgelijke
+      beoordeling kwam naar voren uit het interne onderzoekscomité van Hezbollah, dat
+      de nasleep van de 66 dagen durende Israëlische oorlog tegen Libanon heeft geëvalueerd.
+      Ook daar werd erkend dat de leiding van Hezbollah de capaciteit van de beweging
+      om Israël op strategische wijze af te schrikken had overschat, met name het vermogen
+      om Tel Aviv ervan te weerhouden op lange termijn een grootschalig offensief te
+      overwegen. Deze overschatting van de capaciteiten weerspiegelde ook een misrekening
+      die werd gedeeld met Teheran: zowel Hezbollah als Iran onderschatten de omvang
+      van het Israëlische inlichtingenapparaat, de diepgaande samenwerking met westerse
+      instanties en de uitgebreide lijst van doelwitten die Israël in de loop van tientallen
+      jaren had opgesteld. Deze factoren, in combinatie met de vastberadenheid van Israël
+      om het hart van Hezbollahs commando- en controlestructuur, leiders en rakettenopslagplaatsen
+      aan de ene kant en het raketprogramma en de nucleaire infrastructuur van Iran
+      aan de andere kant, bloot te leggen, legden de beperkingen bloot van het afschrikkingsverhaal
+      dat zowel Teheran als Hezbollah wilden uitdragen. De les was dat het overdrijven
+      van capaciteiten niet alleen het risico met zich meebrengt dat intern een vals
+      vertrouwen wordt gewekt, maar ook vijanden uitnodigt om kwetsbaarheden bloot te
+      leggen, waardoor de geloofwaardigheid van de afschrikking zelf wordt ondermijnd.
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: De spanningen tussen Israël en Iran escaleren, waarbij Israël's
+      premier Netanyahu waarschuwt voor de dreiging van Iran's nucleaire capaciteiten
+      en suggereert dat een nieuwe confrontatie onvermijdelijk is.
+    paragraph_summary: The article discusses the escalating tensions between Israel
+      and Iran, highlighting recent statements from Israeli Prime Minister Benjamin
+      Netanyahu regarding Iran's uranium enrichment capabilities and Israel's right
+      to target Iran's nuclear military potential. This rhetoric suggests that the recent
+      twelve-day conflict between the two nations was not an isolated incident but rather
+      a precursor to further hostilities. Iranian sources indicate that Israel may attempt
+      to reignite conflict, particularly if they target Supreme Leader Sayyed Ali Khamenei,
+      whose decisive leadership during the last conflict was crucial for Iran's response.
+      Iranian Defense Minister Amir Nasirzadeh acknowledged that Iran had overestimated
+      its military capabilities before the conflict but also hinted at the existence
+      of advanced missile systems that could be more destructive than those previously
+      deployed.
+    published: '2025-08-25T03:40:38+00:00'
+  - title: 'Chaleur douce, enjeux élevés : Une nouvelle guerre hybride entre Israël
+      et l’Iran est-elle imminente?'
+    url: https://ejmagnier.com/2025/08/24/chaleur-douce-enjeux-eleves-une-nouvelle-guerre-hybride-entre-israel-et-liran-est-elle-imminente/
+    text: 'Tweet Par Elijah J. Magnier – La perspective d’une confrontation renouvelée
+      entre Israël et l’Iran n’est plus hypothétique : elle s’exprime désormais de façon
+      de plus en plus explicite dans la rhétorique des responsables politiques et militaires.
+      Le Premier ministre israélien Benyamin Netanyahou a récemment déclaré que l’Iran
+      « possède 400 kg d’uranium enrichi à 60 % intacts », tout en affirmant qu’Israël
+      se réservait le droit de « détruire les capacités nucléaires militaires de l’Iran
+      ». Cette déclaration a largement été interprétée comme un signal : la guerre de
+      douze jours entre les deux adversaires—interrompue par un cessez-le-feu verbal
+      et non par un accord formel—n’était pas un affrontement isolé mais le prélude
+      à une escalade. Du côté iranien, des sources proches des décideurs ont suggéré
+      qu’Israël pourrait tenter de rallumer les hostilités si son renseignement, appuyé
+      par les agences occidentales, parvenait à localiser et assassiner le Guide suprême,
+      Sayyed Ali Khamenei. Elles ont noté que l’intervention rapide de Sayyed Khamenei
+      durant le conflit de douze jours—nommant tous les commandants militaires dans
+      les six heures suivant le déclenchement de la guerre—avait été décisive pour stabiliser
+      le système et riposter face aux Israéliens et aux Américains. Le ministre de la
+      Défense Amir Nasirzadeh a reconnu que l’Iran avait exagéré certains aspects de
+      ses capacités militaires avant le conflit, ce qui avait nourri une certaine confiance
+      excessive au sein de la direction. Dans le même temps, il a insisté sur le fait
+      que Téhéran avait délibérément retenu ses systèmes les plus avancés pendant les
+      combats. « Nous possédons des missiles dotés d’ogives bien plus destructrices
+      que celles utilisées lors de la guerre de 12 jours », a-t-il déclaré, évoquant
+      les véhicules de rentrée manœuvrables conçus pour échapper aux défenses antimissiles
+      ainsi que le Qasem Basir, présenté comme le système de missile le plus précis
+      de l’Iran. Il a surtout souligné que les chaînes de production n’avaient jamais
+      été interrompues au cours du conflit, projetant ainsi une image de résilience
+      et de continuité sous bombardement. Une évaluation parallèle a émergé du comité
+      d’enquête interne du Hezbollah, qui a examiné les suites de la guerre de 66 jours
+      menée par Israël contre le Liban. Ses conclusions ont également reconnu que la
+      direction du Hezbollah avait surestimé sa capacité à imposer une dissuasion stratégique
+      durable à Israël—en particulier à empêcher Tel-Aviv d’envisager une offensive
+      majeure sur le long terme. Cette surestimation des capacités reflétait aussi une
+      erreur de calcul partagée avec Téhéran : à la fois le Hezbollah et l’Iran ont
+      sous-estimé l’ampleur de l’appareil de renseignement israélien, la profondeur
+      de sa coopération avec les agences occidentales, ainsi que la vaste banque de
+      cibles accumulée par Israël pendant des décennies. Ces facteurs, combinés à la
+      détermination d’Israël à frapper au cœur du commandement du Hezbollah, de ses
+      dépôts de missiles d’un côté, et à porter un coup décisif au programme balistique
+      et aux infrastructures nucléaires de l’Iran de l’autre, ont exposé les limites
+      du récit de dissuasion que Téhéran comme le Hezbollah tentaient de projeter. La
+      leçon est claire : exagérer ses capacités risque non seulement de nourrir une
+      fausse confiance interne, mais aussi d’inciter l’adversaire à exploiter les vulnérabilités,
+      sapant ainsi la crédibilité même de la dissuasion. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: La tension entre Israël et l'Iran s'intensifie, avec des déclarations
+      du Premier ministre israélien sur les capacités nucléaires iraniennes et des avertissements
+      sur une possible escalade militaire, notamment si des actions contre le Guide
+      suprême iranien sont entreprises.
+    paragraph_summary: La tension entre Israël et l'Iran s'intensifie, avec des déclarations
+      explicites de responsables israéliens, notamment du Premier ministre Benyamin
+      Netanyahou, qui a affirmé qu'Israël se réserve le droit de détruire les capacités
+      nucléaires militaires de l'Iran, qui détient 400 kg d'uranium enrichi à 60 %.
+      Cette situation est perçue comme un prélude à une escalade militaire, après un
+      récent conflit de douze jours marqué par un cessez-le-feu verbal. Du côté iranien,
+      des sources suggèrent qu'Israël pourrait relancer les hostilités en cas d'assassinat
+      du Guide suprême, Sayyed Ali Khamenei, dont l'intervention rapide a été cruciale
+      pour la réponse iranienne. Le ministre de la Défense iranien a également reconnu
+      que l'Iran avait exagéré certaines de ses capacités militaires, tout en affirmant
+      avoir retenu ses systèmes les plus avancés durant le conflit, soulignant la puissance
+      de ses missiles et leur capacité à échapper aux défenses antimissiles.
+    published: '2025-08-24T17:50:32+00:00'
+  - title: 'Chaleur douce, enjeux élevés : Une nouvelle guerre hybride entre Israël
+      et l’Iran est-elle imminente?'
+    url: https://ejmagnier.com/2025/08/24/chaleur-douce-enjeux-eleves-une-nouvelle-guerre-hybride-entre-israel-et-liran-est-elle-imminente/
+    text: 'Tweet Par Elijah J. Magnier – La perspective d’une confrontation renouvelée
+      entre Israël et l’Iran n’est plus hypothétique : elle s’exprime désormais de façon
+      de plus en plus explicite dans la rhétorique des responsables politiques et militaires.
+      Le Premier ministre israélien Benyamin Netanyahou a récemment déclaré que l’Iran
+      « possède 400 kg d’uranium enrichi à 60 % intacts », tout en affirmant qu’Israël
+      se réservait le droit de « détruire les capacités nucléaires militaires de l’Iran
+      ». Cette déclaration a largement été interprétée comme un signal : la guerre de
+      douze jours entre les deux adversaires—interrompue par un cessez-le-feu verbal
+      et non par un accord formel—n’était pas un affrontement isolé mais le prélude
+      à une escalade. Du côté iranien, des sources proches des décideurs ont suggéré
+      qu’Israël pourrait tenter de rallumer les hostilités si son renseignement, appuyé
+      par les agences occidentales, parvenait à localiser et assassiner le Guide suprême,
+      Sayyed Ali Khamenei. Elles ont noté que l’intervention rapide de Sayyed Khamenei
+      durant le conflit de douze jours—nommant tous les commandants militaires dans
+      les six heures suivant le déclenchement de la guerre—avait été décisive pour stabiliser
+      le système et riposter face aux Israéliens et aux Américains. Le ministre de la
+      Défense Amir Nasirzadeh a reconnu que l’Iran avait exagéré certains aspects de
+      ses capacités militaires avant le conflit, ce qui avait nourri une certaine confiance
+      excessive au sein de la direction. Dans le même temps, il a insisté sur le fait
+      que Téhéran avait délibérément retenu ses systèmes les plus avancés pendant les
+      combats. « Nous possédons des missiles dotés d’ogives bien plus destructrices
+      que celles utilisées lors de la guerre de 12 jours », a-t-il déclaré, évoquant
+      les véhicules de rentrée manœuvrables conçus pour échapper aux défenses antimissiles
+      ainsi que le Qasem Basir, présenté comme le système de missile le plus précis
+      de l’Iran. Il a surtout souligné que les chaînes de production n’avaient jamais
+      été interrompues au cours du conflit, projetant ainsi une image de résilience
+      et de continuité sous bombardement. Une évaluation parallèle a émergé du comité
+      d’enquête interne du Hezbollah, qui a examiné les suites de la guerre de 66 jours
+      menée par Israël contre le Liban. Ses conclusions ont également reconnu que la
+      direction du Hezbollah avait surestimé sa capacité à imposer une dissuasion stratégique
+      durable à Israël—en particulier à empêcher Tel-Aviv d’envisager une offensive
+      majeure sur le long terme. Cette surestimation des capacités reflétait aussi une
+      erreur de calcul partagée avec Téhéran : à la fois le Hezbollah et l’Iran ont
+      sous-estimé l’ampleur de l’appareil de renseignement israélien, la profondeur
+      de sa coopération avec les agences occidentales, ainsi que la vaste banque de
+      cibles accumulée par Israël pendant des décennies. Ces facteurs, combinés à la
+      détermination d’Israël à frapper au cœur du commandement du Hezbollah, de ses
+      dépôts de missiles d’un côté, et à porter un coup décisif au programme balistique
+      et aux infrastructures nucléaires de l’Iran de l’autre, ont exposé les limites
+      du récit de dissuasion que Téhéran comme le Hezbollah tentaient de projeter. La
+      leçon est claire : exagérer ses capacités risque non seulement de nourrir une
+      fausse confiance interne, mais aussi d’inciter l’adversaire à exploiter les vulnérabilités,
+      sapant ainsi la crédibilité même de la dissuasion. Subscribe Subscribe to get
+      access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: La tension entre Israël et l'Iran s'intensifie, avec des déclarations
+      du Premier ministre israélien sur les capacités nucléaires iraniennes et des avertissements
+      sur une possible escalade militaire, notamment si des actions contre le Guide
+      suprême iranien sont entreprises.
+    paragraph_summary: La tension entre Israël et l'Iran s'intensifie, avec des déclarations
+      explicites de responsables israéliens, notamment du Premier ministre Benyamin
+      Netanyahou, qui a affirmé qu'Israël se réserve le droit de détruire les capacités
+      nucléaires militaires de l'Iran, qui détient 400 kg d'uranium enrichi à 60 %.
+      Cette situation est perçue comme un prélude à une escalade militaire, après un
+      récent conflit de douze jours marqué par un cessez-le-feu verbal. Du côté iranien,
+      des sources suggèrent qu'Israël pourrait relancer les hostilités en cas d'assassinat
+      du Guide suprême, Sayyed Ali Khamenei, dont l'intervention rapide a été cruciale
+      pour la réponse iranienne. Le ministre de la Défense iranien a également reconnu
+      que l'Iran avait exagéré certaines de ses capacités militaires, tout en affirmant
+      avoir retenu ses systèmes les plus avancés durant le conflit, soulignant la puissance
+      de ses missiles et leur capacité à échapper aux défenses antimissiles.
+    published: '2025-08-24T17:50:32+00:00'
+  - title: 'Low Heat, High Stakes: Is Another Hybrid War Between Israel and Iran Coming?'
+    url: https://ejmagnier.com/2025/08/24/low-heat-high-stakes-is-another-hybrid-war-between-israel-and-iran-coming/
+    text: 'Tweet By Elijah J. Magnier – The prospect of a renewed Israeli–Iranian confrontation
+      is no longer hypothetical but increasingly explicit in the rhetoric of political
+      and military leaders. Israeli Prime Minister Benjamin Netanyahu recently declared
+      that Iran “has 400 kg of 60% enriched uranium intact,” insisting that Israel retains
+      the right to “destroy Iran’s military nuclear capability.” The statement was widely
+      interpreted as a signal that the twelve-day war between the two adversaries—halted
+      only by a verbal ceasefire rather than a formal agreement—was not an isolated
+      clash but a prelude to further escalation. On the Iranian side, sources close
+      to decision-makers suggested that Israel could attempt to reignite hostilities
+      if its intelligence, supported by Western agencies, were to locate and assassinate
+      Supreme Leader Sayyed Ali Khamenei. They noted that Sayyed Khamenei’s rapid intervention
+      and control during the twelve-day conflict—appointing all military commanders
+      within six hours of the war’s start—was decisive in stabilising the system and
+      retaliating to the Israeli and the Americans. Defence Minister Amir Nasirzadeh
+      conceded that Iran had overstated aspects of its military capabilities prior to
+      the conflict, fostering a degree of overconfidence within the leadership. At the
+      same time, he emphasised that Tehran deliberately withheld its most advanced systems
+      during the fighting. “We possess missiles with warheads of far greater destructive
+      power than those used in the 12-day war,” he noted, citing manoeuvring re-entry
+      vehicles designed to evade missile defences as well as the Qasem Basir, described
+      as Iran’s most precise missile system. Importantly, Nasirzadeh underlined that
+      production lines remained uninterrupted throughout the conflict, projecting both
+      resilience and continuity under sustained bombardment. A parallel assessment emerged
+      from Hezbollah’s internal investigative committee, which reviewed the aftermath
+      of the 66-day Israeli war on Lebanon. Its findings likewise acknowledged that
+      Hezbollah’s leadership had overstated the movement’s ability to impose a sustained
+      strategic deterrent on Israel—particularly the capacity to dissuade Tel Aviv from
+      contemplating a major offensive over the long term. This overstatement of capabilities
+      also reflected a miscalculation shared with Tehran: both Hezbollah and Iran underestimated
+      the scope of Israel’s intelligence-gathering apparatus, the depth of its cooperation
+      with Western agencies, and the extensive bank of targets Israel had compiled over
+      decades. These factors, coupled with Israel’s determination to strike the heart
+      of Hezbollah command and control, leaders and missiles warehouses on one side
+      and Iran’s missile program and nuclear infrastructure decisively, exposed the
+      limits of the deterrence narrative that both Tehran and Hezbollah sought to project. The
+      lesson was that exaggerating capabilities not only risks fostering false confidence
+      internally but also invites adversaries to expose vulnerabilities, undermining
+      the credibility of deterrence itself. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: The escalating rhetoric between Israeli and Iranian leaders,
+      particularly Netanyahu's assertion of Iran's enriched uranium stockpile and the
+      potential for renewed conflict, signals a precarious situation that could lead
+      to further military confrontations.
+    paragraph_summary: The article discusses the escalating tensions between Israel
+      and Iran, highlighting recent statements from Israeli Prime Minister Benjamin
+      Netanyahu regarding Iran's enriched uranium stockpile and Israel's intent to neutralize
+      Iran's military nuclear capabilities. This rhetoric suggests that the recent twelve-day
+      conflict between the two nations may be a precursor to further hostilities rather
+      than a one-off incident. Iranian officials have indicated that Israel might reignite
+      conflict if it attempts to assassinate Supreme Leader Sayyed Ali Khamenei, who
+      played a crucial role in managing Iran's military response during the recent clashes.
+      Iranian Defence Minister Amir Nasirzadeh acknowledged that while Iran may have
+      exaggerated its military capabilities, it has withheld its most advanced systems
+      during the conflict and maintained uninterrupted production lines, indicating
+      resilience. The article also references Hezbollah's internal review of the Israeli
+      war on Lebanon, suggesting a broader context of military assessments and strategies
+      in the region.
+    published: '2025-08-24T17:40:22+00:00'
+  - title: 'Low Heat, High Stakes: Is Another Hybrid War Between Israel and Iran Coming?'
+    url: https://ejmagnier.com/2025/08/24/low-heat-high-stakes-is-another-hybrid-war-between-israel-and-iran-coming/
+    text: 'Tweet By Elijah J. Magnier – The prospect of a renewed Israeli–Iranian confrontation
+      is no longer hypothetical but increasingly explicit in the rhetoric of political
+      and military leaders. Israeli Prime Minister Benjamin Netanyahu recently declared
+      that Iran “has 400 kg of 60% enriched uranium intact,” insisting that Israel retains
+      the right to “destroy Iran’s military nuclear capability.” The statement was widely
+      interpreted as a signal that the twelve-day war between the two adversaries—halted
+      only by a verbal ceasefire rather than a formal agreement—was not an isolated
+      clash but a prelude to further escalation. On the Iranian side, sources close
+      to decision-makers suggested that Israel could attempt to reignite hostilities
+      if its intelligence, supported by Western agencies, were to locate and assassinate
+      Supreme Leader Sayyed Ali Khamenei. They noted that Sayyed Khamenei’s rapid intervention
+      and control during the twelve-day conflict—appointing all military commanders
+      within six hours of the war’s start—was decisive in stabilising the system and
+      retaliating to the Israeli and the Americans. Defence Minister Amir Nasirzadeh
+      conceded that Iran had overstated aspects of its military capabilities prior to
+      the conflict, fostering a degree of overconfidence within the leadership. At the
+      same time, he emphasised that Tehran deliberately withheld its most advanced systems
+      during the fighting. “We possess missiles with warheads of far greater destructive
+      power than those used in the 12-day war,” he noted, citing manoeuvring re-entry
+      vehicles designed to evade missile defences as well as the Qasem Basir, described
+      as Iran’s most precise missile system. Importantly, Nasirzadeh underlined that
+      production lines remained uninterrupted throughout the conflict, projecting both
+      resilience and continuity under sustained bombardment. A parallel assessment emerged
+      from Hezbollah’s internal investigative committee, which reviewed the aftermath
+      of the 66-day Israeli war on Lebanon. Its findings likewise acknowledged that
+      Hezbollah’s leadership had overstated the movement’s ability to impose a sustained
+      strategic deterrent on Israel—particularly the capacity to dissuade Tel Aviv from
+      contemplating a major offensive over the long term. This overstatement of capabilities
+      also reflected a miscalculation shared with Tehran: both Hezbollah and Iran underestimated
+      the scope of Israel’s intelligence-gathering apparatus, the depth of its cooperation
+      with Western agencies, and the extensive bank of targets Israel had compiled over
+      decades. These factors, coupled with Israel’s determination to strike the heart
+      of Hezbollah command and control, leaders and missiles warehouses on one side
+      and Iran’s missile program and nuclear infrastructure decisively, exposed the
+      limits of the deterrence narrative that both Tehran and Hezbollah sought to project. The
+      lesson was that exaggerating capabilities not only risks fostering false confidence
+      internally but also invites adversaries to expose vulnerabilities, undermining
+      the credibility of deterrence itself. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: The escalating rhetoric between Israeli and Iranian leaders,
+      particularly Netanyahu's assertion of Iran's enriched uranium stockpile and the
+      potential for renewed conflict, signals a precarious situation that could lead
+      to further military confrontations.
+    paragraph_summary: The article discusses the escalating tensions between Israel
+      and Iran, highlighting recent statements from Israeli Prime Minister Benjamin
+      Netanyahu regarding Iran's enriched uranium stockpile and Israel's intent to neutralize
+      Iran's military nuclear capabilities. This rhetoric suggests that the recent twelve-day
+      conflict between the two nations may be a precursor to further hostilities rather
+      than a one-off incident. Iranian officials have indicated that Israel might reignite
+      conflict if it attempts to assassinate Supreme Leader Sayyed Ali Khamenei, who
+      played a crucial role in managing Iran's military response during the recent clashes.
+      Iranian Defence Minister Amir Nasirzadeh acknowledged that while Iran may have
+      exaggerated its military capabilities, it has withheld its most advanced systems
+      during the conflict and maintained uninterrupted production lines, indicating
+      resilience. The article also references Hezbollah's internal review of the Israeli
+      war on Lebanon, suggesting a broader context of military assessments and strategies
+      in the region.
+    published: '2025-08-24T17:40:22+00:00'
+  - title: 'Iraks wetsvoorstel inzake Hashd al-Shaabi: soevereiniteit op de proef gesteld
+      onder druk van VS en VK'
+    url: https://ejmagnier.com/2025/08/21/iraks-wetsvoorstel-inzake-hashd-al-shaabi-soevereiniteit-op-de-proef-gesteld-onder-druk-van-vs-en-vk/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Irak bevindt
+      zich opnieuw in het middelpunt van een strategische machtsstrijd. Een wetsontwerp
+      om de Popular Mobilisation Forces (PMF, of Hashd al-Shaabi) te institutionaliseren
+      heeft opnieuw een heftige discussie doen oplaaien in Bagdad en alarm geslagen
+      in Washington en Londen, waar functionarissen waarschuwen dat de goedkeuring ervan
+      een rode lijn zou overschrijden. Zowel de Verenigde Staten als het Verenigd Koninkrijk
+      hebben al sancties gedreigd, niet alleen tegen Irak als staat, maar ook tegen
+      invloedrijke Iraakse politici. De kern van de bezwaren van Washington is een bredere
+      geopolitieke zorg: de Verenigde Staten kunnen niet accepteren dat de invloed van
+      Iran wordt versterkt door een rijke en militair capabele bondgenoot in het hart
+      van de Arabische wereld. Een wettelijk verankerde PMF zou niet alleen een machtige
+      sjiitische kracht vormen die zich verzet tegen de belangen van Israël, maar ook
+      een bolwerk tegen de vrijheid van manoeuvre van de VS en Israël in de regio. Een
+      dergelijke ontwikkeling zou het voor Washington en Tel Aviv met name moeilijker
+      maken om geheime of gezamenlijke sabotageoperaties tegen Teheran uit te voeren,
+      hetzij door de toegang tot de Iraakse grenzen te beperken, hetzij door een aan
+      Iran gelieerde veiligheidsstructuur te versterken die vijandig staat tegenover
+      de normalisatieagenda van Israël. Voor premier Mohammed Shia al-Sudani staat er
+      veel op het spel. Enerzijds beschouwen de sjiitische blokken in het Coördinatiekader
+      – de ruggengraat van zijn regeringscoalitie – de PMF als cruciaal voor de soevereiniteit
+      en veiligheid van Irak. Anderzijds vreest zijn regering dat een directe confrontatie
+      met Washington de kwetsbare economie van Irak zou kunnen verwoesten en de beperkte
+      stabiliteit die sinds de nederlaag van ISIS is bereikt, zou kunnen ontwrichten.
+      Deze spanning legt het dilemma van Bagdad bloot: hoe kan het binnenlandse politieke
+      imperatieven verzoenen met de harde beperkingen die door externe machten worden
+      opgelegd? Het Iraakse parlement telt 329 zetels en voor de goedkeuring van een
+      wet zijn ten minste 166 stemmen – een gewone meerderheid – vereist. Hier ligt
+      de politieke crux. De sjiitische blokken van het Coördinatiekader, die samen bijna
+      170 zetels controleren, zouden het wetsvoorstel in theorie kunnen doorvoeren.
+      De eenheid binnen het blok is echter niet gegarandeerd, terwijl de soennitische
+      en Koerdische partijen fel gekant blijven tegen het voorstel. Soennitische parlementsleden
+      beweren dat de PMF betrokken is geweest bij misstanden in provincies met een soennitische
+      meerderheid en vrezen dat volledige wettelijke verankering van de PMF de sektarische
+      onbalans zal versterken. Koerdische partijen zien het wetsvoorstel daarentegen
+      als een centraliserende manoeuvre van Bagdad die het federalisme ondermijnt en
+      de Koerdische autonomie uitholt. Zonder sectaire legitimiteit dreigt de wetgeving
+      de politieke verdeeldheid in Irak te verdiepen, maar puur numeriek gezien zou
+      het sjiitische blok nog steeds een parlementaire overwinning kunnen behalen als
+      het de samenhang weet te bewaren. Verkiezingen als pressiemiddel Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Irak staat opnieuw in het centrum van een strategische machtsstrijd
+      door een wetsvoorstel dat de Popular Mobilisation Forces (PMF) wil institutionaliseren,
+      wat leidt tot heftige discussies in Bagdad en bezorgdheid in Washington en Londen
+      over de versterking van de Iraanse invloed in de regio.
+    paragraph_summary: 'Irak bevindt zich opnieuw in een strategische machtsstrijd,
+      nu een wetsontwerp om de Popular Mobilisation Forces (PMF) te institutionaliseren
+      heftige discussies in Bagdad heeft aangewakkerd en bezorgdheid heeft gewekt in
+      Washington en Londen. Beide landen hebben gedreigd met sancties tegen Irak en
+      invloedrijke Iraakse politici, omdat ze vrezen dat een wettelijk verankerde PMF
+      de invloed van Iran in de regio zou versterken en een krachtige sjiitische tegenkracht
+      zou vormen tegen Israël en de VS. Premier Mohammed Shia al-Sudani staat voor een
+      dilemma: terwijl de sjiitische blokken in zijn regeringscoalitie de PMF als essentieel
+      beschouwen voor de soevereiniteit van Irak, vreest zijn regering dat een confrontatie
+      met de VS de kwetsbare economie van Irak kan schaden en de stabiliteit die na
+      de nederlaag van ISIS is bereikt, kan ondermijnen.'
+    published: '2025-08-21T10:53:32+00:00'
+  - title: 'Iraks wetsvoorstel inzake Hashd al-Shaabi: soevereiniteit op de proef gesteld
+      onder druk van VS en VK'
+    url: https://ejmagnier.com/2025/08/21/iraks-wetsvoorstel-inzake-hashd-al-shaabi-soevereiniteit-op-de-proef-gesteld-onder-druk-van-vs-en-vk/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. Irak bevindt
+      zich opnieuw in het middelpunt van een strategische machtsstrijd. Een wetsontwerp
+      om de Popular Mobilisation Forces (PMF, of Hashd al-Shaabi) te institutionaliseren
+      heeft opnieuw een heftige discussie doen oplaaien in Bagdad en alarm geslagen
+      in Washington en Londen, waar functionarissen waarschuwen dat de goedkeuring ervan
+      een rode lijn zou overschrijden. Zowel de Verenigde Staten als het Verenigd Koninkrijk
+      hebben al sancties gedreigd, niet alleen tegen Irak als staat, maar ook tegen
+      invloedrijke Iraakse politici. De kern van de bezwaren van Washington is een bredere
+      geopolitieke zorg: de Verenigde Staten kunnen niet accepteren dat de invloed van
+      Iran wordt versterkt door een rijke en militair capabele bondgenoot in het hart
+      van de Arabische wereld. Een wettelijk verankerde PMF zou niet alleen een machtige
+      sjiitische kracht vormen die zich verzet tegen de belangen van Israël, maar ook
+      een bolwerk tegen de vrijheid van manoeuvre van de VS en Israël in de regio. Een
+      dergelijke ontwikkeling zou het voor Washington en Tel Aviv met name moeilijker
+      maken om geheime of gezamenlijke sabotageoperaties tegen Teheran uit te voeren,
+      hetzij door de toegang tot de Iraakse grenzen te beperken, hetzij door een aan
+      Iran gelieerde veiligheidsstructuur te versterken die vijandig staat tegenover
+      de normalisatieagenda van Israël. Voor premier Mohammed Shia al-Sudani staat er
+      veel op het spel. Enerzijds beschouwen de sjiitische blokken in het Coördinatiekader
+      – de ruggengraat van zijn regeringscoalitie – de PMF als cruciaal voor de soevereiniteit
+      en veiligheid van Irak. Anderzijds vreest zijn regering dat een directe confrontatie
+      met Washington de kwetsbare economie van Irak zou kunnen verwoesten en de beperkte
+      stabiliteit die sinds de nederlaag van ISIS is bereikt, zou kunnen ontwrichten.
+      Deze spanning legt het dilemma van Bagdad bloot: hoe kan het binnenlandse politieke
+      imperatieven verzoenen met de harde beperkingen die door externe machten worden
+      opgelegd? Het Iraakse parlement telt 329 zetels en voor de goedkeuring van een
+      wet zijn ten minste 166 stemmen – een gewone meerderheid – vereist. Hier ligt
+      de politieke crux. De sjiitische blokken van het Coördinatiekader, die samen bijna
+      170 zetels controleren, zouden het wetsvoorstel in theorie kunnen doorvoeren.
+      De eenheid binnen het blok is echter niet gegarandeerd, terwijl de soennitische
+      en Koerdische partijen fel gekant blijven tegen het voorstel. Soennitische parlementsleden
+      beweren dat de PMF betrokken is geweest bij misstanden in provincies met een soennitische
+      meerderheid en vrezen dat volledige wettelijke verankering van de PMF de sektarische
+      onbalans zal versterken. Koerdische partijen zien het wetsvoorstel daarentegen
+      als een centraliserende manoeuvre van Bagdad die het federalisme ondermijnt en
+      de Koerdische autonomie uitholt. Zonder sectaire legitimiteit dreigt de wetgeving
+      de politieke verdeeldheid in Irak te verdiepen, maar puur numeriek gezien zou
+      het sjiitische blok nog steeds een parlementaire overwinning kunnen behalen als
+      het de samenhang weet te bewaren. Verkiezingen als pressiemiddel Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Irak staat opnieuw in het centrum van een strategische machtsstrijd
+      door een wetsvoorstel dat de Popular Mobilisation Forces (PMF) wil institutionaliseren,
+      wat leidt tot heftige discussies in Bagdad en bezorgdheid in Washington en Londen
+      over de versterking van de Iraanse invloed in de regio.
+    paragraph_summary: 'Irak bevindt zich opnieuw in een strategische machtsstrijd,
+      nu een wetsontwerp om de Popular Mobilisation Forces (PMF) te institutionaliseren
+      heftige discussies in Bagdad heeft aangewakkerd en bezorgdheid heeft gewekt in
+      Washington en Londen. Beide landen hebben gedreigd met sancties tegen Irak en
+      invloedrijke Iraakse politici, omdat ze vrezen dat een wettelijk verankerde PMF
+      de invloed van Iran in de regio zou versterken en een krachtige sjiitische tegenkracht
+      zou vormen tegen Israël en de VS. Premier Mohammed Shia al-Sudani staat voor een
+      dilemma: terwijl de sjiitische blokken in zijn regeringscoalitie de PMF als essentieel
+      beschouwen voor de soevereiniteit van Irak, vreest zijn regering dat een confrontatie
+      met de VS de kwetsbare economie van Irak kan schaden en de stabiliteit die na
+      de nederlaag van ISIS is bereikt, kan ondermijnen.'
+    published: '2025-08-21T10:53:32+00:00'
+  - title: 'Iraq’s Hashd al-Shaabi Bill: Sovereignty Tested Amid US and UK Pressure'
+    url: https://ejmagnier.com/2025/08/20/iraqs-hashd-al-shaabi-bill-sovereignty-tested-amid-us-and-uk-pressure/
+    text: 'Tweet By Elijah J. Magnier – I Iraq once again finds itself at the centre
+      of a strategic tug-of-war. A draft law to institutionalise the Popular Mobilisation
+      Forces (PMF, or Hashd al-Shaabi) has reignited fierce debate in Baghdad and triggered
+      alarm in Washington and London, where officials warn that its passage would cross
+      a red line. Both the United States and the United Kingdom have already threatened
+      sanctions, not only against Iraq as a state but also against influential Iraqi
+      political figures. At the heart of Washington’s objections lies a broader geopolitical
+      concern: the United States cannot accept the consolidation of Iran’s influence
+      through a wealthy and militarily capable ally at the heart of the Arab world.
+      A legally entrenched PMF would represent not only a powerful Shia force resistant
+      to Israeli interests but also a bulwark against U.S. and Israeli freedom of manoeuvre
+      in the region. In particular, such a development would complicate Washington and
+      Tel Aviv’s ability to conduct covert or joint sabotage operations against Tehran,
+      whether by limiting access across Iraq’s borders or by strengthening an Iranian-aligned
+      security architecture hostile to Israel’s normalisation agenda. For Prime Minister
+      Mohammed Shia al-Sudani, the stakes could not be higher. On one side, Shia blocs
+      in the Coordination Framework — the backbone of his governing coalition — regard
+      the PMF as central to Iraq’s sovereignty and security. On the other, his administration
+      fears that a direct clash with Washington could devastate Iraq’s fragile economy
+      and unravel the limited stability achieved since the defeat of ISIS. This tension
+      exposes Baghdad’s dilemma: how to reconcile domestic political imperatives with
+      the hard constraints imposed by external powers. Iraq’s parliament has 329 seats,
+      and for any law to pass at least 166 votes — a simple majority — are required.
+      Here lies the political crux. The Shia blocs of the Coordination Framework, which
+      together control close to 170 seats, could in theory push the bill through. Yet
+      unity within the bloc is not guaranteed, while Sunni and Kurdish parties remain
+      firmly opposed. Sunni MPs argue that the PMF has been implicated in abuses in
+      Sunni-majority provinces and fear that granting it full legal entrenchment would
+      cement sectarian imbalance. Kurdish parties, meanwhile, view the bill as a centralising
+      manoeuvre from Baghdad that undermines federalism and erodes Kurdish autonomy.
+      Without cross-sectarian legitimacy, the legislation risks deepening Iraq’s political
+      fractures — but in purely numerical terms, the Shia bloc alone could still deliver
+      a parliamentary victory if it maintains cohesion. Elections as a Pressure Point
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: A proposed law to institutionalize Iraq's Popular Mobilisation
+      Forces has sparked intense debate and concern in the U.S. and U.K., who fear it
+      would strengthen Iranian influence and hinder their strategic interests in the
+      region.
+    paragraph_summary: Iraq is currently embroiled in a strategic conflict over a draft
+      law aimed at institutionalizing the Popular Mobilisation Forces (PMF), which has
+      sparked intense debate in Baghdad and raised concerns in Washington and London.
+      Both the U.S. and U.K. have threatened sanctions against Iraq and its political
+      leaders if the law is passed, as it would solidify Iran's influence in the region
+      through a powerful Shia military force, complicating U.S. and Israeli operations
+      against Tehran. Prime Minister Mohammed Shia al-Sudani faces a significant challenge
+      in balancing the demands of Shia political blocs that view the PMF as vital for
+      Iraq's sovereignty with the potential economic repercussions of antagonizing the
+      West. The Iraqi parliament, with its 329 seats, requires a simple majority of
+      166 votes for the law to pass, putting the Shia blocs, which control nearly 170
+      seats, in a pivotal position.
+    published: '2025-08-20T17:29:36+00:00'
+  - title: 'Iraq’s Hashd al-Shaabi Bill: Sovereignty Tested Amid US and UK Pressure'
+    url: https://ejmagnier.com/2025/08/20/iraqs-hashd-al-shaabi-bill-sovereignty-tested-amid-us-and-uk-pressure/
+    text: 'Tweet By Elijah J. Magnier – I Iraq once again finds itself at the centre
+      of a strategic tug-of-war. A draft law to institutionalise the Popular Mobilisation
+      Forces (PMF, or Hashd al-Shaabi) has reignited fierce debate in Baghdad and triggered
+      alarm in Washington and London, where officials warn that its passage would cross
+      a red line. Both the United States and the United Kingdom have already threatened
+      sanctions, not only against Iraq as a state but also against influential Iraqi
+      political figures. At the heart of Washington’s objections lies a broader geopolitical
+      concern: the United States cannot accept the consolidation of Iran’s influence
+      through a wealthy and militarily capable ally at the heart of the Arab world.
+      A legally entrenched PMF would represent not only a powerful Shia force resistant
+      to Israeli interests but also a bulwark against U.S. and Israeli freedom of manoeuvre
+      in the region. In particular, such a development would complicate Washington and
+      Tel Aviv’s ability to conduct covert or joint sabotage operations against Tehran,
+      whether by limiting access across Iraq’s borders or by strengthening an Iranian-aligned
+      security architecture hostile to Israel’s normalisation agenda. For Prime Minister
+      Mohammed Shia al-Sudani, the stakes could not be higher. On one side, Shia blocs
+      in the Coordination Framework — the backbone of his governing coalition — regard
+      the PMF as central to Iraq’s sovereignty and security. On the other, his administration
+      fears that a direct clash with Washington could devastate Iraq’s fragile economy
+      and unravel the limited stability achieved since the defeat of ISIS. This tension
+      exposes Baghdad’s dilemma: how to reconcile domestic political imperatives with
+      the hard constraints imposed by external powers. Iraq’s parliament has 329 seats,
+      and for any law to pass at least 166 votes — a simple majority — are required.
+      Here lies the political crux. The Shia blocs of the Coordination Framework, which
+      together control close to 170 seats, could in theory push the bill through. Yet
+      unity within the bloc is not guaranteed, while Sunni and Kurdish parties remain
+      firmly opposed. Sunni MPs argue that the PMF has been implicated in abuses in
+      Sunni-majority provinces and fear that granting it full legal entrenchment would
+      cement sectarian imbalance. Kurdish parties, meanwhile, view the bill as a centralising
+      manoeuvre from Baghdad that undermines federalism and erodes Kurdish autonomy.
+      Without cross-sectarian legitimacy, the legislation risks deepening Iraq’s political
+      fractures — but in purely numerical terms, the Shia bloc alone could still deliver
+      a parliamentary victory if it maintains cohesion. Elections as a Pressure Point
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Subscribe Subscribe to get access Read
+      more of this content when you subscribe today. Subscribe Submitting form Log in
+      Make a one-time donation Your contribution is appreciated. Donate Make a monthly
+      donation Your contribution is appreciated. Donate monthly Make a yearly donation
+      Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: A proposed law to institutionalize Iraq's Popular Mobilisation
+      Forces has sparked intense debate and concern in the U.S. and U.K., who fear it
+      would strengthen Iranian influence and hinder their strategic interests in the
+      region.
+    paragraph_summary: Iraq is currently embroiled in a strategic conflict over a draft
+      law aimed at institutionalizing the Popular Mobilisation Forces (PMF), which has
+      sparked intense debate in Baghdad and raised concerns in Washington and London.
+      Both the U.S. and U.K. have threatened sanctions against Iraq and its political
+      leaders if the law is passed, as it would solidify Iran's influence in the region
+      through a powerful Shia military force, complicating U.S. and Israeli operations
+      against Tehran. Prime Minister Mohammed Shia al-Sudani faces a significant challenge
+      in balancing the demands of Shia political blocs that view the PMF as vital for
+      Iraq's sovereignty with the potential economic repercussions of antagonizing the
+      West. The Iraqi parliament, with its 329 seats, requires a simple majority of
+      166 votes for the law to pass, putting the Shia blocs, which control nearly 170
+      seats, in a pivotal position.
+    published: '2025-08-20T17:29:36+00:00'
+  - title: 'Le projet de loi sur le Hashd al-Shaabi en Irak : la souveraineté mise à
+      l’épreuve sous la pression américaine et britannique'
+    url: https://ejmagnier.com/2025/08/20/le-projet-de-loi-sur-le-hashd-al-shaabi-en-irak-la-souverainete-mise-a-lepreuve-sous-la-pression-americaine-et-britannique/
+    text: 'Tweet Par Elijah J. Magnier – L’Irak se retrouve une fois de plus au centre
+      d’un bras de fer stratégique. Un projet de loi visant à institutionnaliser les
+      Forces de mobilisation populaire (FMP, ou Hashd al-Shaabi) a ravivé un débat houleux
+      à Bagdad et déclenché l’alarme à Washington et à Londres, où des responsables
+      avertissent que son adoption franchirait une ligne rouge. Les États-Unis et le
+      Royaume-Uni ont déjà menacé d’imposer des sanctions, non seulement contre l’État
+      irakien, mais aussi contre des personnalités politiques irakiennes influentes.
+      Au cœur des objections américaines se trouve une inquiétude géopolitique plus
+      large : les États-Unis ne peuvent accepter la consolidation de l’influence iranienne
+      à travers un allié riche et militairement puissant au cœur du monde arabe. Une
+      FMP ancrée légalement représenterait non seulement une force chiite puissante,
+      résistante aux intérêts israéliens, mais aussi un rempart contre la liberté de
+      manœuvre américaine et israélienne dans la région. Un tel développement compliquerait
+      notamment la capacité de Washington et de Tel-Aviv à mener des opérations de sabotage
+      conjointes ou secrètes contre Téhéran, que ce soit en limitant l’accès aux frontières
+      irakiennes ou en renforçant une architecture sécuritaire alignée sur l’Iran et
+      hostile à l’agenda de normalisation avec Israël. Pour le Premier ministre Mohammed
+      Shia al-Sudani, l’enjeu ne pourrait être plus élevé. D’un côté, les blocs chiites
+      du Cadre de coordination — colonne vertébrale de sa coalition gouvernementale
+      — considèrent les FMP comme essentielles à la souveraineté et à la sécurité de
+      l’Irak. De l’autre, son administration redoute qu’un affrontement direct avec
+      Washington ne dévaste l’économie fragile du pays et ne compromette la stabilité
+      limitée obtenue depuis la défaite de l’EI. Cette tension met en lumière le dilemme
+      de Bagdad : comment concilier impératifs politiques internes et contraintes imposées
+      par les puissances extérieures. Le parlement irakien compte 329 sièges, et pour
+      qu’une loi soit adoptée, il faut au moins 166 voix — une majorité simple. C’est
+      là que réside le nœud politique. Les blocs chiites du Cadre de coordination, qui
+      contrôlent ensemble près de 170 sièges, pourraient en théorie faire passer le
+      projet. Mais l’unité n’est pas garantie, tandis que les partis sunnites et kurdes
+      restent fermement opposés. Les députés sunnites affirment que les FMP se sont
+      rendues coupables d’exactions dans les provinces sunnites et craignent que leur
+      donner une assise légale ne fige un déséquilibre confessionnel. Les partis kurdes,
+      pour leur part, voient dans le projet une manœuvre centralisatrice de Bagdad qui
+      menace le fédéralisme et réduit leur autonomie. Sans légitimité trans-sectaire,
+      le projet risque d’approfondir les fractures politiques de l’Irak — mais en termes
+      purement numériques, le bloc chiite seul pourrait encore assurer une victoire
+      parlementaire s’il reste uni. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Un projet de loi en Irak visant à institutionnaliser les Forces
+      de mobilisation populaire a suscité des inquiétudes à Washington et Londres, qui
+      craignent une consolidation de l'influence iranienne dans la région, entraînant
+      des menaces de sanctions contre l'État irakien et des personnalités politiques.
+    paragraph_summary: L'Irak est à nouveau au cœur d'un conflit stratégique, alors
+      qu'un projet de loi visant à institutionnaliser les Forces de mobilisation populaire
+      (FMP) suscite des inquiétudes à Bagdad et des menaces de sanctions de la part
+      des États-Unis et du Royaume-Uni. Ces derniers craignent que l'adoption de cette
+      loi ne renforce l'influence iranienne dans la région, en créant une force chiite
+      puissante qui pourrait entraver les intérêts américains et israéliens, notamment
+      en limitant les opérations secrètes contre Téhéran. Le Premier ministre Mohammed
+      Shia al-Sudani se trouve dans une position délicate, devant naviguer entre le
+      soutien des blocs chiites qui voient les FMP comme essentielles pour la souveraineté
+      irakienne et la nécessité de maintenir de bonnes relations avec Washington pour
+      préserver l'économie fragile du pays. Cette situation met en lumière le dilemme
+      de Bagdad entre les impératifs politiques internes et les pressions extérieures.
+    published: '2025-08-20T17:28:32+00:00'
+  - title: 'Le projet de loi sur le Hashd al-Shaabi en Irak : la souveraineté mise à
+      l’épreuve sous la pression américaine et britannique'
+    url: https://ejmagnier.com/2025/08/20/le-projet-de-loi-sur-le-hashd-al-shaabi-en-irak-la-souverainete-mise-a-lepreuve-sous-la-pression-americaine-et-britannique/
+    text: 'Tweet Par Elijah J. Magnier – L’Irak se retrouve une fois de plus au centre
+      d’un bras de fer stratégique. Un projet de loi visant à institutionnaliser les
+      Forces de mobilisation populaire (FMP, ou Hashd al-Shaabi) a ravivé un débat houleux
+      à Bagdad et déclenché l’alarme à Washington et à Londres, où des responsables
+      avertissent que son adoption franchirait une ligne rouge. Les États-Unis et le
+      Royaume-Uni ont déjà menacé d’imposer des sanctions, non seulement contre l’État
+      irakien, mais aussi contre des personnalités politiques irakiennes influentes.
+      Au cœur des objections américaines se trouve une inquiétude géopolitique plus
+      large : les États-Unis ne peuvent accepter la consolidation de l’influence iranienne
+      à travers un allié riche et militairement puissant au cœur du monde arabe. Une
+      FMP ancrée légalement représenterait non seulement une force chiite puissante,
+      résistante aux intérêts israéliens, mais aussi un rempart contre la liberté de
+      manœuvre américaine et israélienne dans la région. Un tel développement compliquerait
+      notamment la capacité de Washington et de Tel-Aviv à mener des opérations de sabotage
+      conjointes ou secrètes contre Téhéran, que ce soit en limitant l’accès aux frontières
+      irakiennes ou en renforçant une architecture sécuritaire alignée sur l’Iran et
+      hostile à l’agenda de normalisation avec Israël. Pour le Premier ministre Mohammed
+      Shia al-Sudani, l’enjeu ne pourrait être plus élevé. D’un côté, les blocs chiites
+      du Cadre de coordination — colonne vertébrale de sa coalition gouvernementale
+      — considèrent les FMP comme essentielles à la souveraineté et à la sécurité de
+      l’Irak. De l’autre, son administration redoute qu’un affrontement direct avec
+      Washington ne dévaste l’économie fragile du pays et ne compromette la stabilité
+      limitée obtenue depuis la défaite de l’EI. Cette tension met en lumière le dilemme
+      de Bagdad : comment concilier impératifs politiques internes et contraintes imposées
+      par les puissances extérieures. Le parlement irakien compte 329 sièges, et pour
+      qu’une loi soit adoptée, il faut au moins 166 voix — une majorité simple. C’est
+      là que réside le nœud politique. Les blocs chiites du Cadre de coordination, qui
+      contrôlent ensemble près de 170 sièges, pourraient en théorie faire passer le
+      projet. Mais l’unité n’est pas garantie, tandis que les partis sunnites et kurdes
+      restent fermement opposés. Les députés sunnites affirment que les FMP se sont
+      rendues coupables d’exactions dans les provinces sunnites et craignent que leur
+      donner une assise légale ne fige un déséquilibre confessionnel. Les partis kurdes,
+      pour leur part, voient dans le projet une manœuvre centralisatrice de Bagdad qui
+      menace le fédéralisme et réduit leur autonomie. Sans légitimité trans-sectaire,
+      le projet risque d’approfondir les fractures politiques de l’Irak — mais en termes
+      purement numériques, le bloc chiite seul pourrait encore assurer une victoire
+      parlementaire s’il reste uni. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Un projet de loi en Irak visant à institutionnaliser les Forces
+      de mobilisation populaire a suscité des inquiétudes à Washington et Londres, qui
+      craignent une consolidation de l'influence iranienne dans la région, entraînant
+      des menaces de sanctions contre l'État irakien et des personnalités politiques.
+    paragraph_summary: L'Irak est à nouveau au cœur d'un conflit stratégique, alors
+      qu'un projet de loi visant à institutionnaliser les Forces de mobilisation populaire
+      (FMP) suscite des inquiétudes à Bagdad et des menaces de sanctions de la part
+      des États-Unis et du Royaume-Uni. Ces derniers craignent que l'adoption de cette
+      loi ne renforce l'influence iranienne dans la région, en créant une force chiite
+      puissante qui pourrait entraver les intérêts américains et israéliens, notamment
+      en limitant les opérations secrètes contre Téhéran. Le Premier ministre Mohammed
+      Shia al-Sudani se trouve dans une position délicate, devant naviguer entre le
+      soutien des blocs chiites qui voient les FMP comme essentielles pour la souveraineté
+      irakienne et la nécessité de maintenir de bonnes relations avec Washington pour
+      préserver l'économie fragile du pays. Cette situation met en lumière le dilemme
+      de Bagdad entre les impératifs politiques internes et les pressions extérieures.
+    published: '2025-08-20T17:28:32+00:00'
   - title: Toward or Away from Peace? Historic Echoes and Netanyahu’s Calculus — Accept,
       Sabotage, or Stall
     url: https://ejmagnier.com/2025/08/19/toward-or-away-from-peace-historic-echoes-and-netanyahus-calculus-accept-sabotage-or-stall/

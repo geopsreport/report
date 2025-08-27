@@ -7,16 +7,788 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  The geopolitical landscape remains dominated by the aftermath of the Trump-Putin summit in Alaska and its reverberations across the Ukraine conflict, Western alliances, and the evolving BRICS dynamic. Over the past days, the focus has shifted from speculation about the summit’s content to its concrete diplomatic and public opinion impacts.
+  The geopolitical landscape remains dominated by the ongoing Russia-Ukraine conflict and the evolving diplomatic maneuvers involving the US, Russia, and Europe. In the aftermath of the Trump-Putin summit in Alaska, there is growing attention on the subtle shifts in negotiation stances and the role of external actors in shaping the peace process.
   
-  A recent reflection by **Gilbert Doctorow** on his participation in international panel discussions underscores the deepening polarization in Western media narratives regarding Ukraine and Russia. Doctorow contrasts a former NY Times journalist’s “unfounded accusations” against Trump with the “extreme” positions of some Canadian commentators, illustrating the fragmented nature of Western discourse. This polarization, Doctorow suggests, is symptomatic of a broader inability in the West to engage in balanced debate over the Ukraine crisis and the Trump-Putin rapprochement.
+  A key development, highlighted by **Gilbert Doctorow** in his recent WION interview, is the increasing reliance of global broadcasters on independent analysts to interpret the rapidly changing diplomatic narratives. Doctorow notes that the complexity of the situation—particularly the interplay between Trump, Putin, and Zelensky—has left mainstream media struggling to provide coherent coverage, leading to a surge in demand for expert commentary.
   
-  Meanwhile, the Trump-Putin meeting continues to generate “mixed reactions, from optimism to panic,” as described in Doctorow’s conversation with **Glenn Diesen**. The summit has broken a three-and-a-half-year period of Western diplomatic isolation of Russia, and its implications are being closely watched in both Washington and Moscow. Diesen points to the possibility of “undisclosed agreements” between Trump and Putin, which may shape the agenda for Ukrainian President Zelensky’s upcoming White House visit. While the details remain opaque, the majority view among analysts is that the Alaska summit marks a turning point, with a “high chance” of renewed negotiations over Ukraine’s future territorial status and security guarantees.
+  Meanwhile, in the latest edition of 'Judging Freedom,' **Judge Andrew Napolitano** and Doctorow discuss the private Trump-Putin meeting in Alaska. They suggest that while Putin sought to "educate" Trump on the Ukraine conflict, the shift in Trump's stance is equally attributable to internal dynamics within his own team. This nuanced view challenges the simplistic narrative of Russian influence and points to a more complex realignment within US policy circles.
   
-  Another notable development is the shift in Indian public opinion, as highlighted in Doctorow’s interview with WION. Indian audiences are reportedly adopting a more “balanced view” of both Russia and the US, coupled with increasing “contempt for Zelensky.” This trend reflects a broader realignment in the Global South, where skepticism toward Western narratives and support for multipolarity are on the rise.
+  On the diplomatic front, Russian Foreign Minister Sergei Lavrov's suggestion that easing restrictions on the Russian language in Ukraine could pave the way for a meeting between Putin and Zelensky is gaining traction. Doctorow observes that Zelensky continues to frame Russia's reluctance to engage as a pretext for seeking increased Western support, a strategy that may prolong the impasse but also signals a willingness to leverage diplomatic opportunities if conditions change.
   
-  In summary, the prevailing trend is one of cautious optimism among independent analysts regarding the prospects for a negotiated settlement in Ukraine, driven by the Trump-Putin dialogue and the recalibration of global alliances. There is a “high chance” that the coming weeks will see intensified diplomatic activity, with the BRICS bloc and non-Western actors playing a more assertive role. As Doctorow concludes, the situation remains fluid, but the momentum is shifting away from confrontation and toward pragmatic engagement—though the outcome is far from guaranteed.
+  Looking ahead, the majority of analysts, including Doctorow, see a high likelihood that the Trump administration will continue to pressure both Kyiv and European capitals towards compromise. There is a "high chance" that any breakthrough will hinge on concessions regarding language rights and regional autonomy in Ukraine. The trend towards greater BRICS cohesion, as previously reported, is also expected to reinforce Russia's negotiating position.
+  
+  In summary, the immediate outlook is one of cautious maneuvering, with all sides seeking leverage ahead of any substantive peace talks. The consensus among independent analysts is that while a dramatic breakthrough remains unlikely in the short term, incremental progress—driven by external diplomatic pressure and shifting alliances—is "quite likely" in the coming weeks.
 articles:
+  - title: 'WION ‘Game Plan’: Russia-Ukraine War | Will Russia Allow EU Boots On Ground?'
+    url: https://gilbertdoctorow.com/2025/08/21/wion-game-plan-russia-ukraine-war-will-russia-allow-eu-boots-on-ground/
+    text: 'WION ‘Game Plan’: Russia-Ukraine War | Will Russia Allow EU Boots On Ground?
+      I present here the link to yesterday’s conversation with Shivan Chanana, anchor
+      on the Indian broadcaster WION with whom I have had numerous conversations in
+      the past and whom I greatly respect. I use this video to make a point on how the
+      game is played between broadcaster and invited specialist if you have your wits
+      about you and enjoy cat and mouse games. Viewers will notice that the introductory
+      words of the presenter are repetitive. That is because our interview was interrupted
+      and their production team had to start over.  Viewers will also note that I twice
+      evaded the host’s opening question about what the Security Guaranties for Ukraine
+      would look like.  This is not because I was hard of hearing but because I had
+      other plans for what messages I wanted to deliver to the audience and especially
+      to hammer home my view that Team Trump has done very well in the peace talks to
+      obtain its fixed objectives while neutralizing its opponents, domestic and foreign,
+      by saying what they want to hear while doing what it wants to do. One Commenter
+      on yesterday’s other Indian interview, with Firstpost, wrote that he would send
+      me a MAGA hat for what I was saying. No, I am not a supporter of MAGA as such.
+      But I am ready and willing to toss a bouquet in the direction of Team Trump when
+      I believe they are doing something skillful and praiseworthy. Let me be perfectly
+      clear:  the contract between interviewer and interviewee seems to give all benefit
+      to the broadcaster while the interviewee is just a resource.  However, it does
+      not have to play out that way. The interviewee can use the microphone and air
+      time to his or her own advantage as well. Enjoy the show! ©Gilbert Doctorow, 2025'
+    one_sentence_summary: In a recent WION interview, the speaker skillfully navigated
+      the conversation about the Russia-Ukraine war, deliberately avoiding the host's
+      initial question to emphasize their perspective on Team Trump's success in peace
+      negotiations.
+    paragraph_summary: In a recent interview on WION, Gilbert Doctorow discusses the
+      dynamics of media interviews, particularly in the context of the Russia-Ukraine
+      war and the role of the EU. He highlights the repetitive nature of the host's
+      introduction due to interruptions and notes his strategic evasion of a question
+      about Security Guarantees for Ukraine to emphasize his own messages. Doctorow
+      commends Team Trump for their skillful navigation of peace talks, suggesting they
+      have effectively advanced their objectives while placating opponents. He acknowledges
+      the inherent power imbalance in interviews but asserts that interviewees can leverage
+      their platform for their own purposes, ultimately encouraging viewers to appreciate
+      the nuances of such discussions.
+    published: '2025-08-21T06:00:24+00:00'
+  - title: 'WION ‘Game Plan’: Russia-Ukraine War | Will Russia Allow EU Boots On Ground?'
+    url: https://gilbertdoctorow.com/2025/08/21/wion-game-plan-russia-ukraine-war-will-russia-allow-eu-boots-on-ground/
+    text: 'WION ‘Game Plan’: Russia-Ukraine War | Will Russia Allow EU Boots On Ground?
+      I present here the link to yesterday’s conversation with Shivan Chanana, anchor
+      on the Indian broadcaster WION with whom I have had numerous conversations in
+      the past and whom I greatly respect. I use this video to make a point on how the
+      game is played between broadcaster and invited specialist if you have your wits
+      about you and enjoy cat and mouse games. Viewers will notice that the introductory
+      words of the presenter are repetitive. That is because our interview was interrupted
+      and their production team had to start over.  Viewers will also note that I twice
+      evaded the host’s opening question about what the Security Guaranties for Ukraine
+      would look like.  This is not because I was hard of hearing but because I had
+      other plans for what messages I wanted to deliver to the audience and especially
+      to hammer home my view that Team Trump has done very well in the peace talks to
+      obtain its fixed objectives while neutralizing its opponents, domestic and foreign,
+      by saying what they want to hear while doing what it wants to do. One Commenter
+      on yesterday’s other Indian interview, with Firstpost, wrote that he would send
+      me a MAGA hat for what I was saying. No, I am not a supporter of MAGA as such.
+      But I am ready and willing to toss a bouquet in the direction of Team Trump when
+      I believe they are doing something skillful and praiseworthy. Let me be perfectly
+      clear:  the contract between interviewer and interviewee seems to give all benefit
+      to the broadcaster while the interviewee is just a resource.  However, it does
+      not have to play out that way. The interviewee can use the microphone and air
+      time to his or her own advantage as well. Enjoy the show! ©Gilbert Doctorow, 2025'
+    one_sentence_summary: In a recent WION interview, the speaker skillfully navigated
+      the conversation about the Russia-Ukraine war, deliberately avoiding the host's
+      initial question to emphasize their perspective on Team Trump's success in peace
+      negotiations.
+    paragraph_summary: In a recent interview on WION, Gilbert Doctorow discusses the
+      dynamics of media interviews, particularly in the context of the Russia-Ukraine
+      war and the role of the EU. He highlights the repetitive nature of the host's
+      introduction due to interruptions and notes his strategic evasion of a question
+      about Security Guarantees for Ukraine to emphasize his own messages. Doctorow
+      commends Team Trump for their skillful navigation of peace talks, suggesting they
+      have effectively advanced their objectives while placating opponents. He acknowledges
+      the inherent power imbalance in interviews but asserts that interviewees can leverage
+      their platform for their own purposes, ultimately encouraging viewers to appreciate
+      the nuances of such discussions.
+    published: '2025-08-21T06:00:24+00:00'
+  - title: Transcript of ‘Judging Freedom,’ 20 August edition
+    url: https://gilbertdoctorow.com/2025/08/21/transcript-of-judging-freedom-20-august-edition/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=A9pivYDY8gY
+      Napolitano: 0:34 Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
+      Today is Wednesday, August 20th, 2025. Professor Gilbert Doctorow will be with
+      us in just a moment on what does the Kremlin think of Trump now? But first this.
+      [ad] 2:00 Professor Doctorow, welcome here, my dear friend. Let’s start with Alaska.
+      If President Putin’s goal was to appear presidential on the international stage
+      and to educate in private President Trump on the genesis and the causes of the
+      special military operation in Ukraine, it appears he succeeded. Do you agree?
+      Gilbert Doctorow, PhD 2:32 Yes and no. I think that President Trump was predisposed
+      to change his position as he did during that meeting, and it was only partially
+      as a result of the tutorial he was given by Putin. I think everyone, absolutely
+      everyone, including myself, have underestimated Team Trump. I stress the word
+      “team” as opposed to– we spoke about the collective Biden; there is a collective
+      Trump. And that is to say he has some very, very clever advisors assisting him.
+      I believe that in this case, just as in the case of the United States security
+      guarantees that we probably could talk about later, Trump’s position is already
+      made up and he is saying what he needs to say to keep his opponents off balance
+      and to prevent their striking too early when he hasn’t yet got his ducks lined
+      up. 3:30 So what do I mean? He didn’t know exactly whether he could do a deal
+      with Putin until he met Putin. And he was persuaded that he could, and therefore
+      he changed positions for the outside world, not for the inside world. I don’t
+      think he needed Mr. Putin to give him the lessons on the root causes. But that
+      is what was convenient for him to allow to happen. Napolitano: You’re telling
+      me that all along he knew that his demands for a ceasefire made as recently as
+      during the Air Force One flight from Washington to Alaska was not something he
+      truly expected to happen or not something he wanted and he was just duping people
+      or lying to people or again trying to keep the other side off guard? Doctorow:
+      All of the above. That is the latter part. He knew what he wanted. Just as this
+      whole question of the security guarantees, he is stringing the Europeans along.
+      He has no intention of giving US security guarantees for this, because he knows
+      the Russians are dead set against it. But he is saying that to keep them, well,
+      let them play with their toys. And while they’re playing with their toys, the
+      problems will be solved. 4:43 And I believe that the same question comes up, how
+      stupid or smart was it for him to say the next step is a face-to-face between
+      Putin and Zelensky, without–? Napolitano: That’s just not going to happen. Doctorow:
+      Yeah. Well, I think it could happen. But there’s something that Zelensky can do
+      if he pays attention that would make it happen. I refer now to Mr. Lavrov’s interview
+      last night on Russian state television, which was very, very interesting. He said
+      that, you know, we Russians, the territorial side of it has not been fundamental.
+      It has been the human side of it, protecting our fellow Russian speakers, our
+      fellow ethnic Russians in that area. And in that regard, we bitterly oppose, and
+      we discussed this with President Trump, we bitterly oppose the language laws and
+      the persecution of Russian speakers. 5:44 That was the very first act of the government
+      installed after the coup d’état and which turned the Donbas region and the Crimea
+      against the new government. That is to say the ban on speaking Russian in schools,
+      the ban on speaking Russian in public, before public authorities, and the prohibition
+      on dissemination of Russian language media. Napolitano: Yes, I saw that clip.
+      He made a very interesting point. This is the only country in the world which
+      bans the use of another language. Doctorow: Not true. We’ll get to step two. Step
+      two will be Latvia, because they’ve been doing that since 2004, and the Russians
+      have been quiet. I think when the Ukraine situation quiets down, the Russians
+      will come back and revisit what is going on in Latvia. But Mr. Lavrov correctly
+      said that these laws are in violation of the UN guarantees on human rights. Now,
+      if I were in Mr. Zelensky’s shoes, which I really wouldn’t want to be in, I would
+      take note of that. It was a strong hint by Lavrov, hey, you want this negotiation
+      to proceed? Just revoke those laws. It’s a good start, a show of goodwill, and
+      then we can sit down and talk. Napolitano: 7:06 It’s hard for me to believe that
+      Putin would be in the same room with Zelensky. Zelensky isn’t even the legitimate
+      lawful head of the government. Doctorow: The reason why the Russians have been
+      unwilling to, is partly, what you just said, is a major factor. And of course,
+      the West has turned that back on Putin by saying that Putin isn’t legitimate.
+      He’s a wanted man by the International Court of Justice. So that is all a question
+      of a public spat. But I think the issue is that Zelensky has pushed for such a
+      face-to-face because he knew that the Russians didn’t want it, and he expected
+      that to make it possible to say that they don’t want to make a peace, “You see?
+      I told you, they don’t want to come to a meeting and make a peace.” Napolitano:
+      Right, right. How was the Russian trip perceived in three categories? By the Kremlin,
+      by Russian elites, by the average Russian folks — in your view from your observations
+      in Europe? Doctoorow: You’re speaking now of the … which trip exactly the one
+      going to Alaska, or…? Napolitano Yes. Yes. How was Putin’s trip to Alaska with
+      Trump perceived by and how was it perceived today, four days later, by the Kremlin,
+      by Russian elites and by Russian folks? Doctorow: 8:38 Well, Russian folks, I
+      think, may have been a bit skeptical about it. Russian influencers in the creative
+      classes were probably 100% behind it, Russian intelligentsia has a lot of anglophiles,
+      people who can’t conceive of a summer vacation without being on the Cote d’Azur,
+      and all of those people were very happy about this. As regards the entourage of
+      Mr. Putin, I think they were strongly in favor of it. Partly as a validation that
+      all attempts to isolate Russia have totally failed. The economic sanctions failed.
+      The military efforts on the battlefield failed. And now the pariah status that
+      the EU and the United States under Biden was assigning to Russia have failed because
+      now here he is meeting not just with Xi of China or Modi of India or the Kazakhstans
+      and the rest of it, he’s meeting with the president of the United States on American
+      soil. He has a red carpet rolled out for him. 9:49 Russian television played this
+      very positively. And I believe that their positivism was backed by the conviction
+      they received from Putin and the people around him that Trump is genuine, is trying
+      very hard, and is likely to succeed because his people around him are very clever.
+      Napolitano: What did Trump accomplish from his own perspective? Doctorow: I think–
+      I don’t know if he saw this, but he could have or should have. I’m sure that he
+      has people who also are watching Russian television also. What I’m doing is not
+      unique. We have intelligence agencies who have people in Moscow embassy, have
+      people in Washington DC who are doing exactly the same thing. They just don’t
+      share what they see with the general public. But these people would have found
+      what I found, that the Russians, official Russia was very favorably disposed towards
+      Trump. They believe– my colleague, Ray McGovern, has called out repeatedly the
+      issue of trust. And trust is there. In case anyone had doubts, Mr. Lavrov repeated
+      it yesterday. They trust Donald Trump. 11:07 As I say, the collective Donald Trump.
+      Nobody has any illusions of the, that he is running the show by himself. Napolitano:
+      Well, it’s hard to figure out exactly where Trump is. I mean, at the end of the
+      day on Friday, it sounded as though he was pushing the neocons under the bus.
+      General Kellogg wasn’t even there. The president says he understands the origins
+      of the special military operation. He understands that NATO can’t be involved
+      in the new Ukraine. And he understands that there’s not gonna be any ceasefire.
+      This will end when it ends, either by a grand peace treaty or by Russian triumph
+      in the battlefield. That rejects everything from Victoria Nuland to then Senator
+      Marco Rubio. 11:57 Then on Monday, he makes the unmistakable impression of boots
+      on the ground or boots in the sky over Ukraine working with European troops in
+      order to secure, in order to guarantee some sort of security. That, of course,
+      delighted the neocons. Put aside what the Russians will reject. You and I know,
+      and everybody watching us now know what they’ll reject. [Foreign Affairs] Minister
+      Lavrov has been very clear. Trump is speaking out of both sides of his mouth.
+      Trump is trying to please whoever is in front of him at the moment. Agree or disagree?
+      Doctorow: 12:35 I disagree. He is trying to please his opponents who are in front
+      of him. Let’s remember what happened in Washington, DC. He didn’t have to, Trump
+      didn’t have to invite them in. In the past, he’s never dealt with them as a group.
+      He’s only dealt with them one to one, and this was remarked upon as meaning that
+      he would try to play them off against one another. This time he allowed the whole
+      lot of them to come and visit him, and he humiliated them all in front of one
+      another. When he told them to leave the room during his meeting with them in the
+      White House, to go to the Oval Office and wait because he had to make a call to
+      Putin, because that was very important; then he spent 40 minutes on the phone
+      with Putin, letting them wring their hands in the next room and understand that
+      they had been treated like second-class people, which is what they are. Now, I
+      do not believe that he has any intention of providing security guarantees in the
+      sense that the Europeans expect it and that he was just stringing them along,
+      just as he was stringing them along on whether there would be an immediate ceasefire.
+      If they don’t see it, then they are very stupid. Napolitano: 13:56 Well, I don’t
+      think your view and my view are very far apart on that, but I’m looking for President
+      Macron. Here is President Macron the day after, which I guess would be yesterday
+      before he left Washington. Chris, cut number 12. Questioner: As it relates to
+      security guarantees, does that mean European troops, and does that mean U.S. Troops?
+      Macron: Look, I think for me it’s a very important progress of the past few days
+      that your president expressed a clear commitment of the US to be part of the security
+      guardantees. It’s brand new. And last February, when I took the responsibility
+      to gather a series of European leaders with President Zelensky in Paris, and we
+      followed up in London, and we created this coalition of the willing. And it was
+      a reaction to the feeling we had that we could see a temptation to go to a rapid
+      peace, but without any guarantee for Ukraine. And we know what it means. It was
+      Georgia 2008, but it was as well Crimea 2014. And there is full certainty that
+      if you make any peace deal without security guarantee, Russia will never respect
+      its words, will never comply with its own commitments. 15:23 So it’s for us totally
+      critical. And this is an essential part of any deal for Ukraine and for the Europeans.
+      This is for our own security. So this is a very important progress of the past
+      few days that the US now is willing to be part of this. Napolitano: “The US is
+      now willing to be part of this.” He left that impression unmistakably with them.
+      And it’s an untrue impression, because he must know that the Russians would never
+      go along with it. What difference does it make if American boots are on the ground
+      or if they’re on jets overhead? Doctorow: 16:00 Well, let’s revisit this. I spoke
+      categorically and I think I should correct myself. It is possible that Trump will
+      participate in security guarantees, but not in the way that any of the Europeans
+      expect or want. I was interviewed this morning by WION, the main, almost the largest
+      Indian global broadcaster in English. And they are pretty close to the Indian
+      government. And the, I was asked, or I was told rather, that the, there is talk
+      that the Chinese are going to be invited in to take part in the peacekeeping mission.
+      Well, there you have it, Judge. It’s entirely possible they will. And in that
+      case, the Americans can go ahead and provide air cover. But what’s the difference
+      here? The difference is that a strictly European peacekeeping force, which would
+      not be monitors in fact, they would be armed, they’d be ready to go into action.
+      They would be a trip wire for direct European and American intervention in the
+      war and then start or restart a war. They could provoke a new war. Napolitano:
+      Right, Doctoorow: What was going on before the Russians moved in in February of
+      2022? The OSCE monitors who were along various parts of the border were reporting
+      finally– because mostly they kept their mouths shut since they were being given
+      instructions by Europeans– about [how] the firing of artillery and missiles against
+      the rebelling provinces had stepped up enormously. And this sent messages to Moscow
+      that yes, the anticipated “final solution” of the Ukrainian rebellion was about
+      to start. And that the, because of 150,000 Ukrainian soldiers amassed next to
+      the border ready to pounce on Donbass. And that that triggered the war. Now this–
+      what was going on was firing, massive firing of weapons against the East. If these
+      Europeans were there as the so-called peacekeepers, who’s to say that they wouldn’t
+      start firing artillery and missiles? And there you have it. They could end the
+      Russian– yeah. Napolitano: What is a security guarantee? I mean, what is being
+      guaranteed? Ukraine’s neutrality, or that the Russians won’t use military force
+      against Ukraine? What’s the guarantee? Doctorow: 18:50 Well, the Europeans and
+      Zelensky are presenting it in the latter case. That the Russians are aggressive,
+      they’re going to restart the war at the first opportunity, they want to take Poland,
+      the Baltics and France at the first opportunity and so forth. This is, of course,
+      rubbishy propaganda, but that’s what they’re saying, and that’s what the BBC is
+      repeating. So that is their official position, and of course, it’s completely
+      false. The security guarantees that Trump might take part in would otherwise be
+      called monitors. And they will be consistent– if it happens at all, there will
+      be global-south countries participating. That would be probably acceptable to
+      the Russians because it’s not a first step towards a pseudo-NATO Ukraine. Napolitano:
+      What’s wrong with the Austrian model of true neutrality, no military activity,
+      economic prosperity, personal liberty. It may have been you who pointed out to
+      me that when the Austrian Treaty of Neutrality was agreed to with the old Soviet
+      Union and everybody else, the Soviets actually had an official on the Austrian
+      National Security Council and it worked out fine. Doctorow: 20:12 That’s fine,
+      if the West European countries can be brought around to it. In fact, one country
+      seems to, in a most paradoxical way, the president of Finland, Alexander Stup,
+      when he was in Washington, I’d say rather stupidly, commented that, you know,
+      the end of the war in Ukraine could be similar to what happened with us in 1944
+      when we concluded a peace with the Soviet Union and gave up territory. And after
+      that, we all lived happily together and prospered. Napolitano: Yeah, until they
+      joined NATO. Doctorow: Until they joined NATO. And he undid– and he violated–
+      Mr. Lavrov spoke about this yesterday in Russian television and reminded us what
+      that treaty was in ’44. It was a treaty of permanent neutrality in which Finland
+      was obliged never to join an alliance directed against Russia. And that’s what
+      they’ve just done. Napolitano: Wow. … Well, I’m of the view that the war in Ukraine
+      is not going to end by any kind of an agreement. It’s going to end when the Ukrainian
+      military collapses. What do you think? Doctorow: It’s entirely possible. No one
+      cab say. I don’t pretend to have superior vision on this. It really is, you cross
+      your fingers and it’ll go one way or the other. But the one thing that is outstanding
+      and certain is the Russians are going to win. The Russians will get what they
+      want, the basic things that they want. And here, of course, there’s a lot of confusion
+      about what do they want, but you’ve touched upon them. They want neutrality, They
+      want the size, they want the nature of the Ukrainian armed forces to be described
+      and certain categories of weapons not to be delivered to them. And they want progress
+      on the well-being of their ethnic co-nationals, you could say, who remain under
+      Ukrainian control to end the persecution of these people, which is ongoing. Napolitano:
+      You know, as we speak, this was not mentioned in any of the commentary and that’s
+      American intelligence. If you’re going to have American planes in the sky, Mr.
+      President, that means you’re going to have American intelligence on the ground.
+      Right now, There are still 20 CIA stations in Ukraine. American intelligence is
+      still helping Ukrainian soldiers aim American equipment at Russian soldiers, and
+      MI6 is doing the same. That’s not likely to stop, is it? Doctorow: 22:52 Well,
+      it depends on their agreeing on definition of armed forces. The CIA people that
+      you’re describing are for all practical purposes an army, but as you yourself
+      have discussed, they are an army, although they are outside, formally speaking,
+      the US Armed Forces. That goes counter to the Russian demand that there be no
+      foreign military forces or installations on Ukrainian soil. So, all of this, but
+      this, this, they have gone through all of this with the Ukrainians in March of
+      2022. And this was more or less accepted by the Ukrainians. So I don’t see something
+      horrible, impossible to achieve now. It all depends on whether Mr. Zalensky can
+      be persuaded to avoid 20, 30, 40,000 more unnecessary deaths of his soldiers.
+      And will sign on to give up the Donbass now, rather than waiting until the Russians
+      to conquer it. Napolitano: Professor Doctorow, a fascinating conversation. You
+      always present a very unique viewpoint, and it’s deeply appreciated here and around
+      the world for all the people that watch us. Thank you very much. We’ll look forward
+      to seeing you next week. Doctorow: And I look forward to it as well. Napolitano:
+      Thank you. Coming up later today at 11 this morning, Max Blumenthal; at one this
+      afternoon, Ian Proud; at two this afternoon– I’m not sure where he is, but he’ll
+      be here with us– Pepe Escobar; at three this afternoon, Phil Giraldi. 24:27 Judge
+      Napolitano for Judging Freedom.'
+    one_sentence_summary: In a discussion on Judging Freedom, Judge Andrew Napolitano
+      and Professor Gilbert Doctorow analyze President Putin's influence on Trump during
+      a private meeting in Alaska, suggesting that while Putin aimed to educate Trump
+      on the Ukraine conflict, Trump's shift in perspective was also influenced by his
+      own team's dynamics.
+    paragraph_summary: In a discussion on "Judging Freedom," Judge Andrew Napolitano
+      and Professor Gilbert Doctorow analyze President Trump's evolving stance on international
+      relations, particularly regarding Russia and Ukraine. Doctorow suggests that while
+      President Putin aimed to present himself as a knowledgeable leader to Trump during
+      their meeting, Trump's shift in position was not solely influenced by Putin's
+      insights. Instead, Doctorow argues that Trump, supported by a savvy team of advisors,
+      was already inclined to change his approach to maintain strategic advantages against
+      his opponents. This indicates that Trump's public demands for a ceasefire were
+      more about political maneuvering than genuine conviction, as he sought to gauge
+      the potential for a deal with Putin during their interaction.
+    published: '2025-08-21T05:11:31+00:00'
+  - title: Transcript of ‘Judging Freedom,’ 20 August edition
+    url: https://gilbertdoctorow.com/2025/08/21/transcript-of-judging-freedom-20-august-edition/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=A9pivYDY8gY
+      Napolitano: 0:34 Hi everyone, Judge Andrew Napolitano here for Judging Freedom.
+      Today is Wednesday, August 20th, 2025. Professor Gilbert Doctorow will be with
+      us in just a moment on what does the Kremlin think of Trump now? But first this.
+      [ad] 2:00 Professor Doctorow, welcome here, my dear friend. Let’s start with Alaska.
+      If President Putin’s goal was to appear presidential on the international stage
+      and to educate in private President Trump on the genesis and the causes of the
+      special military operation in Ukraine, it appears he succeeded. Do you agree?
+      Gilbert Doctorow, PhD 2:32 Yes and no. I think that President Trump was predisposed
+      to change his position as he did during that meeting, and it was only partially
+      as a result of the tutorial he was given by Putin. I think everyone, absolutely
+      everyone, including myself, have underestimated Team Trump. I stress the word
+      “team” as opposed to– we spoke about the collective Biden; there is a collective
+      Trump. And that is to say he has some very, very clever advisors assisting him.
+      I believe that in this case, just as in the case of the United States security
+      guarantees that we probably could talk about later, Trump’s position is already
+      made up and he is saying what he needs to say to keep his opponents off balance
+      and to prevent their striking too early when he hasn’t yet got his ducks lined
+      up. 3:30 So what do I mean? He didn’t know exactly whether he could do a deal
+      with Putin until he met Putin. And he was persuaded that he could, and therefore
+      he changed positions for the outside world, not for the inside world. I don’t
+      think he needed Mr. Putin to give him the lessons on the root causes. But that
+      is what was convenient for him to allow to happen. Napolitano: You’re telling
+      me that all along he knew that his demands for a ceasefire made as recently as
+      during the Air Force One flight from Washington to Alaska was not something he
+      truly expected to happen or not something he wanted and he was just duping people
+      or lying to people or again trying to keep the other side off guard? Doctorow:
+      All of the above. That is the latter part. He knew what he wanted. Just as this
+      whole question of the security guarantees, he is stringing the Europeans along.
+      He has no intention of giving US security guarantees for this, because he knows
+      the Russians are dead set against it. But he is saying that to keep them, well,
+      let them play with their toys. And while they’re playing with their toys, the
+      problems will be solved. 4:43 And I believe that the same question comes up, how
+      stupid or smart was it for him to say the next step is a face-to-face between
+      Putin and Zelensky, without–? Napolitano: That’s just not going to happen. Doctorow:
+      Yeah. Well, I think it could happen. But there’s something that Zelensky can do
+      if he pays attention that would make it happen. I refer now to Mr. Lavrov’s interview
+      last night on Russian state television, which was very, very interesting. He said
+      that, you know, we Russians, the territorial side of it has not been fundamental.
+      It has been the human side of it, protecting our fellow Russian speakers, our
+      fellow ethnic Russians in that area. And in that regard, we bitterly oppose, and
+      we discussed this with President Trump, we bitterly oppose the language laws and
+      the persecution of Russian speakers. 5:44 That was the very first act of the government
+      installed after the coup d’état and which turned the Donbas region and the Crimea
+      against the new government. That is to say the ban on speaking Russian in schools,
+      the ban on speaking Russian in public, before public authorities, and the prohibition
+      on dissemination of Russian language media. Napolitano: Yes, I saw that clip.
+      He made a very interesting point. This is the only country in the world which
+      bans the use of another language. Doctorow: Not true. We’ll get to step two. Step
+      two will be Latvia, because they’ve been doing that since 2004, and the Russians
+      have been quiet. I think when the Ukraine situation quiets down, the Russians
+      will come back and revisit what is going on in Latvia. But Mr. Lavrov correctly
+      said that these laws are in violation of the UN guarantees on human rights. Now,
+      if I were in Mr. Zelensky’s shoes, which I really wouldn’t want to be in, I would
+      take note of that. It was a strong hint by Lavrov, hey, you want this negotiation
+      to proceed? Just revoke those laws. It’s a good start, a show of goodwill, and
+      then we can sit down and talk. Napolitano: 7:06 It’s hard for me to believe that
+      Putin would be in the same room with Zelensky. Zelensky isn’t even the legitimate
+      lawful head of the government. Doctorow: The reason why the Russians have been
+      unwilling to, is partly, what you just said, is a major factor. And of course,
+      the West has turned that back on Putin by saying that Putin isn’t legitimate.
+      He’s a wanted man by the International Court of Justice. So that is all a question
+      of a public spat. But I think the issue is that Zelensky has pushed for such a
+      face-to-face because he knew that the Russians didn’t want it, and he expected
+      that to make it possible to say that they don’t want to make a peace, “You see?
+      I told you, they don’t want to come to a meeting and make a peace.” Napolitano:
+      Right, right. How was the Russian trip perceived in three categories? By the Kremlin,
+      by Russian elites, by the average Russian folks — in your view from your observations
+      in Europe? Doctoorow: You’re speaking now of the … which trip exactly the one
+      going to Alaska, or…? Napolitano Yes. Yes. How was Putin’s trip to Alaska with
+      Trump perceived by and how was it perceived today, four days later, by the Kremlin,
+      by Russian elites and by Russian folks? Doctorow: 8:38 Well, Russian folks, I
+      think, may have been a bit skeptical about it. Russian influencers in the creative
+      classes were probably 100% behind it, Russian intelligentsia has a lot of anglophiles,
+      people who can’t conceive of a summer vacation without being on the Cote d’Azur,
+      and all of those people were very happy about this. As regards the entourage of
+      Mr. Putin, I think they were strongly in favor of it. Partly as a validation that
+      all attempts to isolate Russia have totally failed. The economic sanctions failed.
+      The military efforts on the battlefield failed. And now the pariah status that
+      the EU and the United States under Biden was assigning to Russia have failed because
+      now here he is meeting not just with Xi of China or Modi of India or the Kazakhstans
+      and the rest of it, he’s meeting with the president of the United States on American
+      soil. He has a red carpet rolled out for him. 9:49 Russian television played this
+      very positively. And I believe that their positivism was backed by the conviction
+      they received from Putin and the people around him that Trump is genuine, is trying
+      very hard, and is likely to succeed because his people around him are very clever.
+      Napolitano: What did Trump accomplish from his own perspective? Doctorow: I think–
+      I don’t know if he saw this, but he could have or should have. I’m sure that he
+      has people who also are watching Russian television also. What I’m doing is not
+      unique. We have intelligence agencies who have people in Moscow embassy, have
+      people in Washington DC who are doing exactly the same thing. They just don’t
+      share what they see with the general public. But these people would have found
+      what I found, that the Russians, official Russia was very favorably disposed towards
+      Trump. They believe– my colleague, Ray McGovern, has called out repeatedly the
+      issue of trust. And trust is there. In case anyone had doubts, Mr. Lavrov repeated
+      it yesterday. They trust Donald Trump. 11:07 As I say, the collective Donald Trump.
+      Nobody has any illusions of the, that he is running the show by himself. Napolitano:
+      Well, it’s hard to figure out exactly where Trump is. I mean, at the end of the
+      day on Friday, it sounded as though he was pushing the neocons under the bus.
+      General Kellogg wasn’t even there. The president says he understands the origins
+      of the special military operation. He understands that NATO can’t be involved
+      in the new Ukraine. And he understands that there’s not gonna be any ceasefire.
+      This will end when it ends, either by a grand peace treaty or by Russian triumph
+      in the battlefield. That rejects everything from Victoria Nuland to then Senator
+      Marco Rubio. 11:57 Then on Monday, he makes the unmistakable impression of boots
+      on the ground or boots in the sky over Ukraine working with European troops in
+      order to secure, in order to guarantee some sort of security. That, of course,
+      delighted the neocons. Put aside what the Russians will reject. You and I know,
+      and everybody watching us now know what they’ll reject. [Foreign Affairs] Minister
+      Lavrov has been very clear. Trump is speaking out of both sides of his mouth.
+      Trump is trying to please whoever is in front of him at the moment. Agree or disagree?
+      Doctorow: 12:35 I disagree. He is trying to please his opponents who are in front
+      of him. Let’s remember what happened in Washington, DC. He didn’t have to, Trump
+      didn’t have to invite them in. In the past, he’s never dealt with them as a group.
+      He’s only dealt with them one to one, and this was remarked upon as meaning that
+      he would try to play them off against one another. This time he allowed the whole
+      lot of them to come and visit him, and he humiliated them all in front of one
+      another. When he told them to leave the room during his meeting with them in the
+      White House, to go to the Oval Office and wait because he had to make a call to
+      Putin, because that was very important; then he spent 40 minutes on the phone
+      with Putin, letting them wring their hands in the next room and understand that
+      they had been treated like second-class people, which is what they are. Now, I
+      do not believe that he has any intention of providing security guarantees in the
+      sense that the Europeans expect it and that he was just stringing them along,
+      just as he was stringing them along on whether there would be an immediate ceasefire.
+      If they don’t see it, then they are very stupid. Napolitano: 13:56 Well, I don’t
+      think your view and my view are very far apart on that, but I’m looking for President
+      Macron. Here is President Macron the day after, which I guess would be yesterday
+      before he left Washington. Chris, cut number 12. Questioner: As it relates to
+      security guarantees, does that mean European troops, and does that mean U.S. Troops?
+      Macron: Look, I think for me it’s a very important progress of the past few days
+      that your president expressed a clear commitment of the US to be part of the security
+      guardantees. It’s brand new. And last February, when I took the responsibility
+      to gather a series of European leaders with President Zelensky in Paris, and we
+      followed up in London, and we created this coalition of the willing. And it was
+      a reaction to the feeling we had that we could see a temptation to go to a rapid
+      peace, but without any guarantee for Ukraine. And we know what it means. It was
+      Georgia 2008, but it was as well Crimea 2014. And there is full certainty that
+      if you make any peace deal without security guarantee, Russia will never respect
+      its words, will never comply with its own commitments. 15:23 So it’s for us totally
+      critical. And this is an essential part of any deal for Ukraine and for the Europeans.
+      This is for our own security. So this is a very important progress of the past
+      few days that the US now is willing to be part of this. Napolitano: “The US is
+      now willing to be part of this.” He left that impression unmistakably with them.
+      And it’s an untrue impression, because he must know that the Russians would never
+      go along with it. What difference does it make if American boots are on the ground
+      or if they’re on jets overhead? Doctorow: 16:00 Well, let’s revisit this. I spoke
+      categorically and I think I should correct myself. It is possible that Trump will
+      participate in security guarantees, but not in the way that any of the Europeans
+      expect or want. I was interviewed this morning by WION, the main, almost the largest
+      Indian global broadcaster in English. And they are pretty close to the Indian
+      government. And the, I was asked, or I was told rather, that the, there is talk
+      that the Chinese are going to be invited in to take part in the peacekeeping mission.
+      Well, there you have it, Judge. It’s entirely possible they will. And in that
+      case, the Americans can go ahead and provide air cover. But what’s the difference
+      here? The difference is that a strictly European peacekeeping force, which would
+      not be monitors in fact, they would be armed, they’d be ready to go into action.
+      They would be a trip wire for direct European and American intervention in the
+      war and then start or restart a war. They could provoke a new war. Napolitano:
+      Right, Doctoorow: What was going on before the Russians moved in in February of
+      2022? The OSCE monitors who were along various parts of the border were reporting
+      finally– because mostly they kept their mouths shut since they were being given
+      instructions by Europeans– about [how] the firing of artillery and missiles against
+      the rebelling provinces had stepped up enormously. And this sent messages to Moscow
+      that yes, the anticipated “final solution” of the Ukrainian rebellion was about
+      to start. And that the, because of 150,000 Ukrainian soldiers amassed next to
+      the border ready to pounce on Donbass. And that that triggered the war. Now this–
+      what was going on was firing, massive firing of weapons against the East. If these
+      Europeans were there as the so-called peacekeepers, who’s to say that they wouldn’t
+      start firing artillery and missiles? And there you have it. They could end the
+      Russian– yeah. Napolitano: What is a security guarantee? I mean, what is being
+      guaranteed? Ukraine’s neutrality, or that the Russians won’t use military force
+      against Ukraine? What’s the guarantee? Doctorow: 18:50 Well, the Europeans and
+      Zelensky are presenting it in the latter case. That the Russians are aggressive,
+      they’re going to restart the war at the first opportunity, they want to take Poland,
+      the Baltics and France at the first opportunity and so forth. This is, of course,
+      rubbishy propaganda, but that’s what they’re saying, and that’s what the BBC is
+      repeating. So that is their official position, and of course, it’s completely
+      false. The security guarantees that Trump might take part in would otherwise be
+      called monitors. And they will be consistent– if it happens at all, there will
+      be global-south countries participating. That would be probably acceptable to
+      the Russians because it’s not a first step towards a pseudo-NATO Ukraine. Napolitano:
+      What’s wrong with the Austrian model of true neutrality, no military activity,
+      economic prosperity, personal liberty. It may have been you who pointed out to
+      me that when the Austrian Treaty of Neutrality was agreed to with the old Soviet
+      Union and everybody else, the Soviets actually had an official on the Austrian
+      National Security Council and it worked out fine. Doctorow: 20:12 That’s fine,
+      if the West European countries can be brought around to it. In fact, one country
+      seems to, in a most paradoxical way, the president of Finland, Alexander Stup,
+      when he was in Washington, I’d say rather stupidly, commented that, you know,
+      the end of the war in Ukraine could be similar to what happened with us in 1944
+      when we concluded a peace with the Soviet Union and gave up territory. And after
+      that, we all lived happily together and prospered. Napolitano: Yeah, until they
+      joined NATO. Doctorow: Until they joined NATO. And he undid– and he violated–
+      Mr. Lavrov spoke about this yesterday in Russian television and reminded us what
+      that treaty was in ’44. It was a treaty of permanent neutrality in which Finland
+      was obliged never to join an alliance directed against Russia. And that’s what
+      they’ve just done. Napolitano: Wow. … Well, I’m of the view that the war in Ukraine
+      is not going to end by any kind of an agreement. It’s going to end when the Ukrainian
+      military collapses. What do you think? Doctorow: It’s entirely possible. No one
+      cab say. I don’t pretend to have superior vision on this. It really is, you cross
+      your fingers and it’ll go one way or the other. But the one thing that is outstanding
+      and certain is the Russians are going to win. The Russians will get what they
+      want, the basic things that they want. And here, of course, there’s a lot of confusion
+      about what do they want, but you’ve touched upon them. They want neutrality, They
+      want the size, they want the nature of the Ukrainian armed forces to be described
+      and certain categories of weapons not to be delivered to them. And they want progress
+      on the well-being of their ethnic co-nationals, you could say, who remain under
+      Ukrainian control to end the persecution of these people, which is ongoing. Napolitano:
+      You know, as we speak, this was not mentioned in any of the commentary and that’s
+      American intelligence. If you’re going to have American planes in the sky, Mr.
+      President, that means you’re going to have American intelligence on the ground.
+      Right now, There are still 20 CIA stations in Ukraine. American intelligence is
+      still helping Ukrainian soldiers aim American equipment at Russian soldiers, and
+      MI6 is doing the same. That’s not likely to stop, is it? Doctorow: 22:52 Well,
+      it depends on their agreeing on definition of armed forces. The CIA people that
+      you’re describing are for all practical purposes an army, but as you yourself
+      have discussed, they are an army, although they are outside, formally speaking,
+      the US Armed Forces. That goes counter to the Russian demand that there be no
+      foreign military forces or installations on Ukrainian soil. So, all of this, but
+      this, this, they have gone through all of this with the Ukrainians in March of
+      2022. And this was more or less accepted by the Ukrainians. So I don’t see something
+      horrible, impossible to achieve now. It all depends on whether Mr. Zalensky can
+      be persuaded to avoid 20, 30, 40,000 more unnecessary deaths of his soldiers.
+      And will sign on to give up the Donbass now, rather than waiting until the Russians
+      to conquer it. Napolitano: Professor Doctorow, a fascinating conversation. You
+      always present a very unique viewpoint, and it’s deeply appreciated here and around
+      the world for all the people that watch us. Thank you very much. We’ll look forward
+      to seeing you next week. Doctorow: And I look forward to it as well. Napolitano:
+      Thank you. Coming up later today at 11 this morning, Max Blumenthal; at one this
+      afternoon, Ian Proud; at two this afternoon– I’m not sure where he is, but he’ll
+      be here with us– Pepe Escobar; at three this afternoon, Phil Giraldi. 24:27 Judge
+      Napolitano for Judging Freedom.'
+    one_sentence_summary: In a discussion on Judging Freedom, Judge Andrew Napolitano
+      and Professor Gilbert Doctorow analyze President Putin's influence on Trump during
+      a private meeting in Alaska, suggesting that while Putin aimed to educate Trump
+      on the Ukraine conflict, Trump's shift in perspective was also influenced by his
+      own team's dynamics.
+    paragraph_summary: In a discussion on "Judging Freedom," Judge Andrew Napolitano
+      and Professor Gilbert Doctorow analyze President Trump's evolving stance on international
+      relations, particularly regarding Russia and Ukraine. Doctorow suggests that while
+      President Putin aimed to present himself as a knowledgeable leader to Trump during
+      their meeting, Trump's shift in position was not solely influenced by Putin's
+      insights. Instead, Doctorow argues that Trump, supported by a savvy team of advisors,
+      was already inclined to change his approach to maintain strategic advantages against
+      his opponents. This indicates that Trump's public demands for a ceasefire were
+      more about political maneuvering than genuine conviction, as he sought to gauge
+      the potential for a deal with Putin during their interaction.
+    published: '2025-08-21T05:11:31+00:00'
+  - title: A busy day of interviews with Indian television
+    url: https://gilbertdoctorow.com/2025/08/20/a-busy-day-of-interviews-with-indian-television/
+    text: Global broadcasters are straining their in-house resources to make sense of
+      what Trump, Putin, Zelensky and the European Coalition of the Willing are doing
+      and saying to promote a diplomatic solution to the Russia-Ukraine war. In these
+      circumstances, they are turning to outside geopolitical analysts like myself to
+      add value to their coverage. I discovered the old rule of this game in 2016 in
+      Russia, when the U.S. presidential election and the Trump victory made me the
+      darling of Russian talk shows on multiple channels. Once you are presented by
+      one broadcaster, the others are quick to seek time with you as well. And then
+      you are in their collective press pool – until world news moves on to other topics
+      and you are dropped as quickly as you were acquired. At WION, India’s largest
+      news broadcaster in English with 10 million subscribers, where I first appeared
+      more than a year ago and had established a very good rapport with one of their
+      program hosts, the invitations to appear there thinned out about six months ago.
+      At the same time, I noticed that they were putting up more videos on youtube featuring
+      their own staff. That seems to have ended two weeks ago when preparations began
+      for the Alaska summit. Now for the second time in 10 days I was phoned by their
+      producers to join them for an on-air chat about the evolving situation around
+      Ukraine. The program host who asked to be linked with me on LinkedIn six months
+      ago was back and ready to party. I am waiting for them to send me the link to
+      what we recorded this morning and will then post it here. Virtually at the same
+      time today, I got a request from another well-known Indian broadcaster, Firstpost.
+      Wikipedia tells us that “ Firstpost is an Indian news website owned by the Network18
+      Group, which also runs CNN-News18 and CNBC TV18.” What I will say is the Firstpost
+      interviewer is a top professional and that it was a pleasure for me to chat with
+      him as I hope it will be a pleasure for the Community to watch this. The subject,
+      of course, is where the negotiations for peace in Ukraine are headed, whether
+      Putin and Zelensky will actually meet face to face and much more ©Gilbert Doctorow,
+      2025
+    one_sentence_summary: Global broadcasters are increasingly relying on external geopolitical
+      analysts to interpret the complex diplomatic efforts surrounding the Russia-Ukraine
+      war, as they struggle to keep up with the evolving narratives from key figures
+      like Trump, Putin, and Zelensky.
+    paragraph_summary: Global broadcasters are increasingly relying on external geopolitical
+      analysts to help interpret the complex dynamics of the Russia-Ukraine war, as
+      they struggle to keep up with the evolving narratives from leaders like Trump,
+      Putin, and Zelensky. The author reflects on their experience as a sought-after
+      analyst, recalling how their visibility surged during the 2016 U.S. presidential
+      election in Russia, leading to multiple media appearances until interest waned.
+      Recently, however, as tensions around the Ukraine situation have intensified,
+      they have been invited back to appear on platforms such as WION, India's largest
+      English news broadcaster, and Firstpost, indicating a renewed demand for expert
+      commentary. The author expresses enthusiasm for these engagements and anticipates
+      sharing their insights with a wider audience.
+    published: '2025-08-20T16:37:47+00:00'
+  - title: A busy day of interviews with Indian television
+    url: https://gilbertdoctorow.com/2025/08/20/a-busy-day-of-interviews-with-indian-television/
+    text: Global broadcasters are straining their in-house resources to make sense of
+      what Trump, Putin, Zelensky and the European Coalition of the Willing are doing
+      and saying to promote a diplomatic solution to the Russia-Ukraine war. In these
+      circumstances, they are turning to outside geopolitical analysts like myself to
+      add value to their coverage. I discovered the old rule of this game in 2016 in
+      Russia, when the U.S. presidential election and the Trump victory made me the
+      darling of Russian talk shows on multiple channels. Once you are presented by
+      one broadcaster, the others are quick to seek time with you as well. And then
+      you are in their collective press pool – until world news moves on to other topics
+      and you are dropped as quickly as you were acquired. At WION, India’s largest
+      news broadcaster in English with 10 million subscribers, where I first appeared
+      more than a year ago and had established a very good rapport with one of their
+      program hosts, the invitations to appear there thinned out about six months ago.
+      At the same time, I noticed that they were putting up more videos on youtube featuring
+      their own staff. That seems to have ended two weeks ago when preparations began
+      for the Alaska summit. Now for the second time in 10 days I was phoned by their
+      producers to join them for an on-air chat about the evolving situation around
+      Ukraine. The program host who asked to be linked with me on LinkedIn six months
+      ago was back and ready to party. I am waiting for them to send me the link to
+      what we recorded this morning and will then post it here. Virtually at the same
+      time today, I got a request from another well-known Indian broadcaster, Firstpost.
+      Wikipedia tells us that “ Firstpost is an Indian news website owned by the Network18
+      Group, which also runs CNN-News18 and CNBC TV18.” What I will say is the Firstpost
+      interviewer is a top professional and that it was a pleasure for me to chat with
+      him as I hope it will be a pleasure for the Community to watch this. The subject,
+      of course, is where the negotiations for peace in Ukraine are headed, whether
+      Putin and Zelensky will actually meet face to face and much more ©Gilbert Doctorow,
+      2025
+    one_sentence_summary: Global broadcasters are increasingly relying on external geopolitical
+      analysts to interpret the complex diplomatic efforts surrounding the Russia-Ukraine
+      war, as they struggle to keep up with the evolving narratives from key figures
+      like Trump, Putin, and Zelensky.
+    paragraph_summary: Global broadcasters are increasingly relying on external geopolitical
+      analysts to help interpret the complex dynamics of the Russia-Ukraine war, as
+      they struggle to keep up with the evolving narratives from leaders like Trump,
+      Putin, and Zelensky. The author reflects on their experience as a sought-after
+      analyst, recalling how their visibility surged during the 2016 U.S. presidential
+      election in Russia, leading to multiple media appearances until interest waned.
+      Recently, however, as tensions around the Ukraine situation have intensified,
+      they have been invited back to appear on platforms such as WION, India's largest
+      English news broadcaster, and Firstpost, indicating a renewed demand for expert
+      commentary. The author expresses enthusiasm for these engagements and anticipates
+      sharing their insights with a wider audience.
+    published: '2025-08-20T16:37:47+00:00'
+  - title: '‘Judging Freedom’ edition of 20 August 2025: The Kremlin’s View of Trump'
+    url: https://gilbertdoctorow.com/2025/08/20/judging-freedom-edition-of-20-august-2025-the-kremlins-view-of-trump/
+    text: This conversation with Judge Napolitano brought out some essential points
+      that have received little or no attention in alternative media, not to mention
+      mainstream. First among these comes from the interview that Sergei Lavrov gave
+      to Russian state television yesterday in which he strongly hinted that a step
+      towards convening a Putin-Zelensky meeting should be revocation of the prohibitions
+      on use of the Russian language in schools, in public places, and on dissemination
+      of Russian language media.  If that were to happen, I believe the Russians would
+      be more amenable to a one-on-one meeting of their president with Zelensky. As
+      I explain here, surely Zelensky’s insistent demand for such a meeting was premised
+      on the likely refusal of the Russians to agree so that he could turn around and
+      say to the Americans and to the EU leaders “you see, I told you that Putin does
+      not want peace,” after which he would proceed with his demands for more arms and
+      financial assistance. We also discussed at length what I call out as the very
+      capable conduct of the negotiations with the Europeans by what I call the Collective
+      Trump, taking in his obviously very smart assistants, of whom Steve Witkoff is
+      only one example.  He was stringing the Europeans along on his supposed support
+      for an immediate unconditional cease fire. He was not persuaded of anything in
+      this matter by Putin when they met in Alaska; rather his meeting with Putin was
+      essential for him to be convinced that Putin is someone he really can work with.
+      That done, he proceeded to announce his favoring a full peace treaty now. I see
+      the same deception being played now by Trump when he tells the Europeans that
+      there will be American participation in the planned security guaranties for Ukraine. 
+      Perhaps, but only if the “peacekeeping” force is very different from what the
+      Coalition of the Willing that descended on Washington this past Monday expects. 
+      If it is not just Europeans but also Chinese, Indians and others from the Global
+      South then it will likely be acceptable to Moscow as consisting of monitors, not
+      war makers, not a pseudo-NATO that is ready to attack Russia at any moment. I
+      will go no further here but urge the Community to pay close attention to this
+      conversation. ©Gilbert Doctorow, 2025
+    one_sentence_summary: In an interview with Judge Napolitano, key points emerged
+      regarding the potential for a meeting between Putin and Zelensky, particularly
+      the suggestion from Russian Foreign Minister Sergei Lavrov that easing restrictions
+      on the Russian language could facilitate such a meeting, while also highlighting
+      Zelensky's strategy of framing Russia's reluctance as a justification for seeking
+      increased support from the West.
+    paragraph_summary: In a recent conversation with Judge Napolitano, key insights
+      emerged regarding the ongoing tensions between Russia and Ukraine, particularly
+      in light of Sergei Lavrov's comments suggesting that revoking bans on the Russian
+      language could pave the way for a meeting between Presidents Putin and Zelensky.
+      This potential dialogue is seen as a strategic move by Zelensky, who may use Russia's
+      reluctance to meet as a justification for seeking increased military and financial
+      support from the U.S. and EU. The discussion also highlighted the adept negotiations
+      conducted by what the speaker refers to as the "Collective Trump," emphasizing
+      the importance of Trump's interactions with Putin in shaping U.S. foreign policy
+      and the complexities surrounding proposed security guarantees for Ukraine, which
+      may involve a broader international coalition beyond just European nations.
+    published: '2025-08-20T13:08:04+00:00'
+  - title: '‘Judging Freedom’ edition of 20 August 2025: The Kremlin’s View of Trump'
+    url: https://gilbertdoctorow.com/2025/08/20/judging-freedom-edition-of-20-august-2025-the-kremlins-view-of-trump/
+    text: This conversation with Judge Napolitano brought out some essential points
+      that have received little or no attention in alternative media, not to mention
+      mainstream. First among these comes from the interview that Sergei Lavrov gave
+      to Russian state television yesterday in which he strongly hinted that a step
+      towards convening a Putin-Zelensky meeting should be revocation of the prohibitions
+      on use of the Russian language in schools, in public places, and on dissemination
+      of Russian language media.  If that were to happen, I believe the Russians would
+      be more amenable to a one-on-one meeting of their president with Zelensky. As
+      I explain here, surely Zelensky’s insistent demand for such a meeting was premised
+      on the likely refusal of the Russians to agree so that he could turn around and
+      say to the Americans and to the EU leaders “you see, I told you that Putin does
+      not want peace,” after which he would proceed with his demands for more arms and
+      financial assistance. We also discussed at length what I call out as the very
+      capable conduct of the negotiations with the Europeans by what I call the Collective
+      Trump, taking in his obviously very smart assistants, of whom Steve Witkoff is
+      only one example.  He was stringing the Europeans along on his supposed support
+      for an immediate unconditional cease fire. He was not persuaded of anything in
+      this matter by Putin when they met in Alaska; rather his meeting with Putin was
+      essential for him to be convinced that Putin is someone he really can work with.
+      That done, he proceeded to announce his favoring a full peace treaty now. I see
+      the same deception being played now by Trump when he tells the Europeans that
+      there will be American participation in the planned security guaranties for Ukraine. 
+      Perhaps, but only if the “peacekeeping” force is very different from what the
+      Coalition of the Willing that descended on Washington this past Monday expects. 
+      If it is not just Europeans but also Chinese, Indians and others from the Global
+      South then it will likely be acceptable to Moscow as consisting of monitors, not
+      war makers, not a pseudo-NATO that is ready to attack Russia at any moment. I
+      will go no further here but urge the Community to pay close attention to this
+      conversation. ©Gilbert Doctorow, 2025
+    one_sentence_summary: In an interview with Judge Napolitano, key points emerged
+      regarding the potential for a meeting between Putin and Zelensky, particularly
+      the suggestion from Russian Foreign Minister Sergei Lavrov that easing restrictions
+      on the Russian language could facilitate such a meeting, while also highlighting
+      Zelensky's strategy of framing Russia's reluctance as a justification for seeking
+      increased support from the West.
+    paragraph_summary: In a recent conversation with Judge Napolitano, key insights
+      emerged regarding the ongoing tensions between Russia and Ukraine, particularly
+      in light of Sergei Lavrov's comments suggesting that revoking bans on the Russian
+      language could pave the way for a meeting between Presidents Putin and Zelensky.
+      This potential dialogue is seen as a strategic move by Zelensky, who may use Russia's
+      reluctance to meet as a justification for seeking increased military and financial
+      support from the U.S. and EU. The discussion also highlighted the adept negotiations
+      conducted by what the speaker refers to as the "Collective Trump," emphasizing
+      the importance of Trump's interactions with Putin in shaping U.S. foreign policy
+      and the complexities surrounding proposed security guarantees for Ukraine, which
+      may involve a broader international coalition beyond just European nations.
+    published: '2025-08-20T13:08:04+00:00'
   - title: Press TV (Iran):  Prospect of Peace in Ukraine, ‘Spotlight’
     url: https://gilbertdoctorow.com/2025/08/19/press-tv-iran-prospect-of-peace-in-ukraine-spotlight/
     text: In the various, shall we say ‘exotic’ panel discussion programs that I occasionally

@@ -8,16 +8,1231 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  As the global economic landscape continues to shift, recent analysis underscores the intensifying influence of large investment firms in Western housing markets, the mounting challenges to U.S. dollar hegemony, and the persistent imbalance in transatlantic trade relations.
+  As of August 27, 2025, the geopolitical landscape continues to be shaped by escalating tensions between the United States, its NATO allies, and Russia, as well as ongoing shifts in global economic power structures. The latest analyses from **Michael Hudson** highlight several key developments.
   
-  A major new development, highlighted by **Michael Hudson** in his August 19 report, is the accelerating dominance of firms like Blackstone in the U.S. and European housing sectors. This trend is driving up rents and exacerbating homelessness, not only in major American cities but increasingly across Western Europe. Hudson notes, "The concentration of housing ownership in the hands of a few investment giants is fueling a crisis of affordability and social instability." The implication is clear: unless regulatory interventions are enacted, the social fabric in these regions will continue to fray. I guarantee that, without policy change, homelessness and rent burdens will worsen in the coming year.
+  The most immediate concern centers on the upcoming meeting between Donald Trump and Russian leadership. According to **Hudson**, there is mounting pressure from European NATO leaders on Trump, not to seek a diplomatic resolution, but to adopt an aggressive posture—potentially even to "declare war" rather than negotiate. This marks a significant escalation in rhetoric and intent, reflecting a broader Western consensus that the conflict in Ukraine has reached a critical juncture. **Hudson** asserts that this approach is driven by NATO's perceived defeat in Ukraine, with the alliance now seeking to reassert its position through confrontation rather than compromise.
   
-  On the international front, the debate around the future of the U.S. dollar remains heated. In a recent discussion, **Richard Wolff** and **Michael Hudson** analyze Donald Trump’s rhetoric regarding the BRICS nations. Trump’s threats of tariffs against BRICS members are seen as a reaction to what he perceives as a coordinated challenge to dollar supremacy. The majority view among analysts is that these threats are unlikely to reverse the gradual erosion of dollar dominance, as more countries seek alternatives for trade and reserves. There is a high chance that the dollar’s global role will continue to diminish, especially if U.S. policy remains confrontational.
+  On the economic front, the dominance of large investment firms such as Blackstone in the housing markets of the US and other Western countries is exacerbating social instability. **Hudson** notes that this trend is leading to "skyrocketing rents and increased homelessness," a phenomenon that is no longer confined to the US but is spreading across Western economies. This consolidation of property ownership by financial giants is contributing to growing inequality and social discontent.
   
-  Meanwhile, the aftermath of the latest EU-U.S. trade agreement continues to reverberate. **Michael Hudson** argues that the EU has failed to secure a balanced deal, with the U.S. emerging as the clear beneficiary. This outcome, he contends, reflects the broader pattern of European economic subordination to American interests. Most definitely, this dynamic will persist unless the EU develops a more assertive and independent economic strategy.
+  Meanwhile, the global financial order is experiencing further strain. In discussions with **Richard Wolff**, **Hudson** points to the BRICS nations' challenge to US dollar hegemony and Trump's response—threatening tariffs on BRICS members—as evidence of a shift from free trade to more protectionist, confrontational economic policies. This shift is likely to accelerate the fragmentation of the global economic system, with non-Western countries increasingly seeking alternatives to the US-dominated order.
   
-  In summary, the prevailing trends point toward increasing social and economic polarization within Western societies, persistent challenges to U.S. financial hegemony, and a continued imbalance in transatlantic relations. Without significant policy shifts, these trajectories are set to deepen over the next year.
+  **Trends and Predictions:**  
+  - There is a high chance that the US and NATO will continue to escalate their stance against Russia, with diplomatic solutions becoming less likely in the near term.
+  - The consolidation of housing markets by investment firms is most definitely set to worsen social inequality and instability in Western countries.
+  - The global move away from dollar hegemony is quite likely to continue, with BRICS and other Global South nations pursuing greater economic sovereignty.
+  
+  In summary, the current trajectory points toward increased geopolitical confrontation, deepening social divides in the West, and a gradual but persistent erosion of US-led economic dominance.
 articles:
+  - title: 'Hudson & Wolff: NATO’s Defeat in Ukraine'
+    url: https://michael-hudson.com/2025/08/hudson-wolff-natos-defeat-in-ukraine/
+    text: 'NIMA ALKHORSHID : Hi, everybody. Today is Thursday, August 14, 2025, and
+      our friends, Richard Wolff and Michael Hudson, are back with us. Welcome back.
+      Let me start, Michael, with you. You believe that Donald Trump is going to the
+      meeting to declare war on Russia instead of making a deal with Russia. What’s
+      your point in that? MICHAEL HUDSON : Well, Trump has been love-bombed, or, I should
+      say hate-bombed, in the last few days by the European anti-Russia NATO leaders
+      who had a big meeting with him on Wednesday, saying that they have convinced him
+      not to be Putin’s puppet, and that if Trump does not succeed in arranging a ceasefire,
+      that Trump will simply walk away. And Trump has said already, before this hate
+      bombing, that he’ll tell in the first ten, two minutes, whether Russia is going
+      to be amenable to his proposals for a ceasefire, or not. And if Russia’s not,
+      he’s going to simply walk out. Well, what this means is that Trump expects Russia
+      to probably walk out and the meeting to be a failure. And Trump is trying to prepare
+      the ground to say: It’s not me, it’s Russia that wouldn’t listen to the message
+      from NATO and from Congress. And, basically, the last few days have seen Merz
+      and Starmer and Macron and von der Leyen pull the rug out from anything Trump
+      can offer for a ceasefire, by saying: There’s not going to be a ceasefire. We
+      are going to continue to fight against Russia no matter what the United States
+      does. We’re going to continue to be supplying the Ukrainian army. Zelensky has
+      said: We, and the Azov battalion, are going to continue to fight against Russia.
+      Even if Trump sells us out, we’re going to fight. Congress has said: We are going
+      to prevent any agreement with Russia to recognize Russian speakers as being part
+      of Russia. So, they’ve already said that Trump has zero authority to make any
+      substantive agreement at all. And I think what the newspapers are not talking
+      about (and I think what we can talk about today) is, why is Russia going to this?
+      It has people reading the newspapers and it must see what’s happening. Well, I
+      think that Putin’s foreign policy aide, Yuri Viktorovich [Ushakov], gave a summary
+      of the agenda for Friday’s meeting, and he said that although the immediate occasion
+      for this is Ukraine’s fighting, he said, quote: Putin and Trump will discuss bilateral
+      cooperation in the economic sphere and issues of global security. In other words,
+      what Russia wants to do is say: Let’s not talk about Ukraine at all. We’ll agree
+      to disagree there, but let’s talk about what we can possibly agree on, is relevant
+      for both. Well, what does this mean for Russia? It means reversing the U.S. withdrawal
+      from the nuclear arms control agreement. Russia can say: No matter what, we don’t
+      want a fight between the United States and Russia to occur. If Europe wants to
+      fight, let Europe fight us and we’ll fight Europe. But no matter what, if there’s
+      mutual bombing (which is what looks likely, if Europe really tries to fight Russia)
+      — and remember, Europe has no weapons left, virtually. It has one weapon: missiles,
+      including atomic missiles. So that is what essentially Europe is saying: We’re
+      going to fight Russia. The only arms we have are missiles to attack Russia. Putin
+      has already said: If any missile hits us from a European country, we’re not going
+      to fight against Ukraine. Ukraine is only the arena for the war between NATO and
+      Russia. Even if the missile is a U.S. missile, if it’s been sold to Germany or
+      Britain, and it’s become a British or German missile, we’ll retaliate by bombing
+      the military sites in Europe. But let’s make it clear that this is not going to
+      trigger a war with America. I think that’s their number one feeling. And the second:
+      what’s another global issue they want to talk about? They want to reaffirm the
+      Monroe Doctrine. The Monroe Doctrine said that Europe cannot interfere with American
+      affairs and, in exchange, America will not interfere with European affairs and
+      the sphere of influence. And I think the concern of Russia right now is Azerbaijan
+      and Armenia, where Trump has tried to create a road that will block the Chinese
+      Belt & Road Initiative and block Russian transportation there– NIMA ALKHORSHID
+      : North-South Corridor. MICHAEL HUDSON : Yes, yes. We’re really going back to
+      the Khrushchev–Kennedy showdown over Cuba, over sixty years ago. And all of the
+      importance of the Azerbaijan road is really part of Turkey’s sphere of influence
+      there, and Turkish power. Well, remember how the Cuban missile crisis was settled:
+      Khrushchev agreed to withdraw the missiles from Cuba and Kennedy agreed to withdraw
+      the missiles from Turkey. It was even, at that time, the fight of that whole area
+      — Turkey, the Caucasus, the Black Sea, the neighboring area — this goes back over
+      sixty years. Russia wants to try to remind Trump that this is what the Monroe
+      Doctrine was all about. And finally, it means Trump telling the European hardliners
+      that if they attack Russia, that NATO is a defensive alliance: America is not
+      required to come to the aid of any country that is attacking attackers. Trump
+      may say that Ukraine is attacked but, in this case, Ukraine is the result of the
+      coup d’état that the United States itself, and NATO, mounted in 2015. Russia is
+      going to try to convince Trump that it’s Russia that is under attack and is a
+      victim of attack, not Ukraine. Ukraine is the attacker on the Russian speakers.
+      I guess your audience doesn’t need me to emphasize that, but Russia is going to
+      try to explain — and “Russia,” that means that not only Putin, but Lavrov is also
+      there — they’re going to try to explain what the Russian point of view is. And
+      they will present this meeting and say: Let’s not think of coming to any territorial
+      agreement on Ukraine. This is going to be settled on the battlefield. And Trump
+      is going to say: Well, I want Ukraine to be a part of this meeting. I think Russia
+      will be saying: Absolutely! We want Ukraine and its leader to be part of any peace
+      agreement. And within the next year, we will defeat the Ukrainian army; we will
+      replace the government of Zelensky with a Ukrainian party that is against the
+      war with Russia (according to all of the polls); and we will certainly have the
+      new Ukrainian government sitting at the table. So you’re absolutely right. We
+      need the Ukrainians to have an agreement with all of this. Zelensky’s not the
+      Ukrainian head. Zelensky has abolished any kind of democratic freedom there. He’s
+      ruling by fiat. The Ukrainian people are threatened by the gangs of army recruiters
+      that are seizing Ukrainians off the street, sending them to the front line to
+      get killed within 24, 48 hours, if they don’t defect. So, I think that’s what
+      the Russian meeting is all about. And the question is, well, Trump doesn’t have
+      any Russian specialists advising him. The CIA has gotten rid of all of the specialists
+      who even understand the Russian position that I’ve just described. And the question
+      is whether there will be a breakdown, and whether Trump will be able to pay attention
+      to this, and have any ability to, at least, understand the Russian position. That’s
+      all that Russia can hope for in all of this. NIMA ALKHORSHID : Richard, how do
+      you feel about it? Do you think that Donald Trump would be able to cut a deal?
+      Or, as Michael said, you’re not that optimistic about it. RICHARD WOLFF : I never
+      understood what strikes me as nonsense about Mr. Trump and deals. He seems remarkably
+      poor at making deals. What he can do is use the power that the positions he acquires
+      give him. He seems to know how to do that well. And he has, and I have to give
+      him credit, welded together a remarkable coalition. So he can put coalitions together,
+      but making deals among them other than: Here, join the coalition because I’m going
+      to give you this. So, let’s just review that, and then I’ll get to the meeting
+      in Anchorage, in Alaska. In order to win, the leaders of either the Republican
+      or Democratic Party — since they are both beholden to the business community,
+      the employer class in this country, and have been for many, many decades — they
+      have to get from that community large sums of money, now counted in the billions,
+      if not tens of billions, of dollars, for each electoral cycle. Okay, they do that.
+      What do they do with the money? Answer: They put together coalitions of various
+      groups of the population with the same objective. Get them to vote. If you’re
+      the Republican businessmen and women, get them to vote for the Republicans. If
+      you’re the Democratic businessmen and women donors, get them to vote for the Democrat.
+      And by now, we’re quite familiar with who the coalition partners are. The deals
+      were made long before Mr. Trump arrived on the scene. The Republicans cut no deal
+      now, they just continue. They are the party that throws money and opportunities,
+      and lots of symbols at, what? We know them, right? Fundamentalist Christians,
+      white supremacists, people in love with their guns, people who hate immigrants.
+      I could collect a few more, but you know, it’s familiar. And on the Democratic
+      side, who? Better educated people, women, non-white people… and that’s what they
+      do. And the elections are assigned outcomes, depend on who’s a bit more effective
+      one year than the other, either in getting the money — look at Elon Musk throwing
+      $200 to $300 million at Mr. Trump to counteract whatever Kamala Harris might have
+      achieved otherwise — et cetera. And the election is decided by one, two, three
+      percent of the vote. Trump has no mandate. If he had one, maybe he could talk,
+      that he took this conventional arrangement one step further — he made a deal —
+      but he didn’t. He didn’t take it one step further at all. His vote is the same
+      Tweedledum–Tweedledee oscillation that we have always seen. And I think that the
+      Russians know it. So, when we get to the meeting in Alaska, I want to underscore
+      if anything goes further than what Michael said, I don’t think it’s got anything
+      to do with Ukraine. And the reason is that the issue of Ukraine has been resolved.
+      Ukraine lost, and Russia won. End of story. We might wish it to be otherwise,
+      but it is silly to keep pretending. Time is on the Russian side. Every day, the
+      Russian army moves a certain number of kilometers westward. The West loves to
+      say they’re not doing it as fast as they had hoped. Who the hell knows? The West
+      doesn’t know. And whether it’s true or not doesn’t matter. The line of direction
+      is obvious, unrelentingly obvious. By this point, to pretend that it’s otherwise
+      shows that you’re not in touch anymore with what’s going on, you are so upset
+      by the reality that you have shifted over into make-believe. Therefore, the Ukrainian
+      issue should be left exactly the way it is. True, the Russians could save the
+      lives and the expense of another six months, or twelve months, of war. But look,
+      the reality is, again, that going to war has increased the rate of economic growth
+      in Russia, compared to what it was before the war. In other words, this war is
+      doing for the Russian economy what World War II did for the depressed American
+      economy. We shouldn’t be surprised at that as a possible outcome. That’s what
+      all of Keynesian economics teaches us: Massive government intervention, whether
+      it’s for war or growing flowers, has a stimulative effect, and it has done that
+      in Russia. Their problem is a bit of inflation, not a bit of collapse. Do the
+      Russians have their economic problems? Of course they do. And if you’re a child,
+      you’ll cherry-pick a few statistics of where they’re having trouble, and say,
+      the way a lot of people are these days: Mr. Trump, be aware that the Russian economy
+      is in terrible… That’s not true. The repetition of that doesn’t make it true.
+      The failure to show it makes it false. So, Mr. Putin will be there, and he’s not
+      interested in Ukraine. He understands that’s the game. That’s what we talk about.
+      And why? Because that’s what Mr. Trump wants. Lost in all of this is that it’s
+      now crystal clear that the United States has been, for months, pushing for this
+      meeting. They want a summit. That’s the political theater they want to stage.
+      Mr. Trump knows that he’s winning. Everyone else in the world, who pays attention
+      — and who is not the leader of a European country whose entire career has been
+      saying ‘yes’ to America against, first the Soviet Union, and now Russia — What
+      Mr. Trump faces is a Russia that has a completely different agenda. And there,
+      Michael was exactly right: They want arms control treaties; they want peaceful
+      resolution of hotspots in the world that might lead to conflict, such as the Middle
+      East — such as the Caucasus Mountains, if the United States is going to start
+      making trouble there — et cetera, et cetera. And the final point: The reason that’s
+      the agenda of the Russians, and why they might be willing to say: Yes, let’s have
+      a ceasefire, we’ll have a meeting in October to go over the specifics of this
+      — longer it takes, the better their position, and the weaker the Ukrainians and
+      the silly Europeans, who don’t understand you can’t have a sustained foreign policy
+      of hostility to Russia, as you’re losing your own people to support it. And the
+      final point: The whole world understands there’s a shift going on, away from the
+      United States, away from Europe, toward Asia (number one), and the global south
+      (number two). And all of this is playing around because you can’t stop it, because
+      you can’t control it, because the people who are winning — the global south —
+      know it, and the people in the global north are still busy denying it. As long
+      as you have that situation, they’re going to stretch this out. Of course, they
+      are. That is their best strategy. And that will govern whatever happens in the
+      poor, unfortunate country of Ukraine, about whom neither side gives a flying you-know-what.
+      NIMA ALKHORSHID : Well, Michael, we know that Donald Trump yesterday was repeating
+      that they want — you mentioned as well that they want — a ceasefire in Ukraine.
+      And you look at the way that Europeans are talking about it. Zelensky wants ceasefire;
+      everybody on the part of the West wants a ceasefire in Ukraine. On the part of
+      Russians, what does that mean, in your opinion, for the economy of Russia, for
+      what’s going on in Ukraine? Does the ceasefire have the same sort of meaning for
+      Russia? Is it just somehow putting an end to the conflict temporarily, and just
+      making some moves on Ukraine, improving the Ukrainian army, or sending more weapons
+      to Ukraine to go against Russia again? What does that mean when they’re asking
+      about the ceasefire, Michael? MICHAEL HUDSON : Well, I don’t think there’s any
+      chance of Europe sending either troops to Ukraine, or even weapons, because they’re
+      out of weapons. I think that what Richard has explained, that Russia is winning
+      — and it’s very easy to make the forecast of that — Russia is going to very rapidly
+      absorb the provinces that it has set out to absorb because the Ukrainian army
+      has fallen apart, and Ukrainian society has fallen apart. So, when Richard talks
+      about the whole world understands this obvious military fact — that the ultimate
+      solution and resolution of the war between NATO and Russia in Ukraine will be
+      settled on the battlefield — it’s not going to be settled by any bilateral meeting,
+      either by Trump or by Russia in Europe. It’ll be settled on the battlefield. That’s
+      what frightens the hawks, the anti-Russian hawks in Europe, so much. They know
+      that they’ve lost. They’re trying to somehow depict themselves as, well, what
+      can we salvage from our loss? What can we do to neutralize Russia’s success on
+      the battlefield? What can we do, to say: Well, we need a protection force. We
+      need an army in what’s left of Ukraine, just to prevent Russia from attacking
+      it again. Meaning, for us to put missile bases on so that we can send missiles
+      against Russia, which is the only thing that we are able to do. They’re trying
+      to figure out a fallback position. And at the same time, they want to discredit
+      Trump, saying Trump has been hypnotized by Putin: he really is Putin’s puppet,
+      or Putin’s zombie, under his control. I think that that is what the Financial
+      Times , and the German publication Bild , says. And I think that this is really
+      the setting. So, Putin can say that, in view of the fact that they’re not going
+      to agree at any conference table while the war is going on. When there’s a ceasefire,
+      it’s when there’s a stalemate. And the two sides will say: Okay, it’s a stalemate.
+      Let’s stop, and we can see where this is going. It’s not going to go further than
+      it is now. Let’s just stop and draw the line, so that neither of our armies are
+      going to have our citizens killed. But as Richard explained, and I think all of
+      your guests on your show have explained, this is not a stalemate: this is a rout.
+      Finally, the dam has broken, and the Ukraine army has lost. The whole project
+      promised by the CIA, promised by the congressional advisors, promised by Biden,
+      and promised by Trump in his first term, that somehow this war is going to destabilize
+      Russia’s economy — it will overstrain it – it’ll be a repeat of the Afghan war
+      – Russia is going to overstrain it – it’ll collapse – the population will revolt
+      and there will be a regime change — ALL of that is a fantasy. And the problem
+      is how to convince the victims of this fantasy — its perpetrators (who are smoking
+      their own dope) can come to accept the fact — that not only is the fantasy over,
+      but their hope of somehow retaining something from this fantasy is not going to
+      work. I think Russia can say to Trump: We know that you have a problem with Europe.
+      We’re on your side, not Europe’s side. We don’t want Europe. There’s nothing that
+      Europe has that we want, and we’re willing to give up all the hope of selling
+      our oil and gas, or raw materials, or other things, to Europe. We have no desire
+      for European investment in our country. You can have Europe’s energy market for
+      your liquefied natural gas. That’s the only market. We’re willing to stay out
+      of Western Europe, and leave that as your sphere of influence. You’re all free.
+      You can sell all the arms you want to the NATO countries. But just realize that
+      once these arms are bought by Europe, they’re European arms, not American arms
+      anymore. And any attack on Russia’s territory is going to be met by a counterattack
+      on the attacker. The attacker is not Ukraine. The attacker is MI6, and the CIA,
+      and the American troops there (but not the American mainland). The attacker is
+      France. The attacker is Germany. German military arms producers, Rheinmetall,
+      etc: they will be under attack. The American troops in Germany and in England
+      will be under attack because they’re part of the English and German attack on
+      Russia. But not America itself. This is going to be the nitty-gritty of everything.
+      And Putin can quip to Trump that this is the most peace-oriented thing that the
+      United States can do: Avoid a U.S.-Russia exchange of bombs, you can have Europe
+      as your sphere of influence. And that really is the only power that the U.S. economy
+      has. Richard’s quite right. Both of us have been describing how the American empire
+      is in decline. America has declared war on 95%, no, 85% of the world’s population.
+      And the world’s population has just said: Okay, we’re withdrawing. You can sanction
+      us, not trade with us. We’re happy to reorient our trade without you. Brazil is
+      now replacing America’s soybean farmers. American agriculture is in trouble. The
+      rest of the world — 85% — can live by itself, letting the United States have the
+      one area in which the American empire still has room to expand — into Europe.
+      And when Secretary Hegseth, the other day, said: We’re looking at all of the assets,
+      the monetary reserves of Europe, we’re going to make a national investment fund,
+      and we’re going to tell Europe to invest their reserves in American industry to
+      try to rebuild industrialization here. Well, Trump can sort of applaud, and say:
+      This is a wonderful idea. Let them try to do that. Well, of course, it’s not possible
+      to reestablish industrial viability in the United States for the reasons we’ve
+      discussed before. America is no longer an industrial capitalist country. It’s
+      a finance capitalist country, and finance has no interest at all in industrializing
+      the economy as a means of getting rich, when you can get rich much quicker by
+      rent-seeking, by financial engineering, by indebting the economy of the bottom
+      90% to the wealthiest 10%, by achieving monopolies — especially in information
+      technology and computer chips. I think what Russia can do is speed the parting
+      guest, applaud America’s ability to revive its economy at Europe’s expense and
+      say: You go your way, we’ll go our way. We will not interfere with whatever you
+      want to do in Europe. We surrender to you the European market. And they’ll laugh
+      to themselves, as they realize that what they’ve got is the part of the world
+      — the 85% — that has a growing market. That, basically, is the context for all
+      of the negotiation. I don’t think there’s anyone on the American side that is
+      telling that to Mr. Trump. But that’s why our show — your show — has such a large
+      readership. RICHARD WOLFF : Let me add a little bit here. We learned from the
+      Vietnam War that for months, probably for years, the American government was divided
+      about ending that war, and departing. And the reason was that they were losing.
+      But nobody wanted to be the President, or the political party, in charge to make
+      the final statement: Okay, we’re leaving, we lost. And so we saw those amazing
+      photographs of the few Vietnamese who could hang on with their hands to the bottom
+      of the departing helicopter as it left Saigon in 1975. We then had the same delay,
+      at the cost of countless American lives, over when to leave in Afghanistan, as
+      it became clear that the Taliban had defeated the United States — oh, excuse me,
+      the Coalition of the Dubious — oh, excuse me — the Willing. Wow. You know what’s
+      going on now? A debate about how to handle the comparable situation in Ukraine.
+      People ask: Why the focus on a ceasefire? Because a “ceasefire” — just a word
+      — is a lot less painful than “defeat.” And you can say: We accomplished a ceasefire.
+      Then you can hype it, as though we forced it on them, and all the rest of it.
+      It would be wonderful for the Europeans who are so afraid of their own people.
+      What will happen to the mass of the Europeans? Ask yourself. If they have to watch
+      the next six months, or year, of the final defeat of the Ukrainian shell army,
+      which is all that’s left, that’s going to make those who have been critical all
+      along wave their fingers and say: We could have avoided this war from the beginning.
+      We could have agreed in Minsk, or we could have agreed in Istanbul, to end it
+      much earlier. But our leaders said: Stay with it. And so now we are horribly in
+      debt. We are horribly economically hurt. They already admit that the cost of energy
+      is off the chart in Europe and, therefore, damaging them competitively. Therefore,
+      those particular leaders that have been pushing? Of course they’re pushing now.
+      Their own survival is at stake. Their survival, politically, cannot handle a defeat.
+      It’ll be too much, and it will lead to their people saying, since Russia has never
+      attacked any of them: Work out an arrangement; rearrange the security architecture
+      of Europe. That’s a better bet. Otherwise, we risk, here, having happen what they
+      just suffered in their horribly defaced country of Ukraine. We don’t want this.
+      A ceasefire now is better for the West than all of that. Or, to say the same thing
+      as bluntly as I know how, we are watching the demand for a ceasefire from the
+      side that’s losing. Of course they want a ceasefire. Will they then rebuild? Sure,
+      they will. Will the Russians rebuild? Sure, they will. Will we then have the same
+      issue? Sure, we will. That’s why it’s not a solution for the Russians. That’s
+      why Putin keeps saying: No, no, no, not a ceasefire, we have to go to the root
+      causes because, otherwise, there is no end to this. But the West will take that
+      because they’re facing ‘we lost, we got to cease fire, or kick the can down the
+      road.’ And given the courage of the leaders of Europe and the United States, kicking
+      the can down the road would be my number one bet. Last point. Here’s a deal Mr.
+      Putin might make: Give the West a ceasefire, but hedge it around with qualifiers,
+      conditions, exemptions, to make it do what the Russians want it to do. That way,
+      you can have the saving face for Mr. Trump, ‘I got a ceasefire,’ and the Russians
+      able to do 90% of what they had intended to do. Is that possible? I’m no military
+      expert, and I don’t know what the conventions of diplomacy like this are, but
+      it wouldn’t be the first time that, between the public parts of an agreement and
+      the secret parts of an agreement, such things are agreed to. That has happened
+      before. That could happen again. NIMA ALKHORSHID : Well, Michael, when I look
+      at two sides, the United States and Russia, I see Vladimir Putin. After the meeting
+      between Steve Witkoff and Vladimir Putin, he talked with his partners. He talked
+      with India, China, and literally with all the countries of BRICS. It seems that
+      whatever happens in that meeting, he knows that he informed his partners and they’re
+      prepared for any outcome. On the part of the United States, you don’t see that
+      sort of unity between the United States and Europeans. They’re totally different.
+      Their position is totally different on Ukraine because Europeans, it seems to
+      me, want a continuation of the conflict in Ukraine. They don’t want to put an
+      end to the conflict as soon as possible, while it seems that, at least, Donald
+      Trump is talking about it. How do you see the pressures on these two leaders going
+      to the meeting? Do you feel that the United States would somehow declare that
+      it was all Russia’s fault, if they don’t achieve a substantial outcome in this
+      meeting? Because Donald Trump was talking about, if it is successful, they’re
+      going to have a second meeting. Then Zelensky is going to come in — this is amazing
+      to me because Zelensky is not interested in reaching any deal. Your take on that?
+      MICHAEL HUDSON : Trump says that any meeting he has with anyone is successful.
+      Any meeting goes wonderful, and Trump has won. How is he going to spell this out?
+      Well, you mentioned that what Russia wants to talk about are the causes. Trump
+      can find some refuge in saying: We talked about the broad setting and how we can
+      settle much more than Ukraine. We can settle the whole relationship between America
+      and Russia, and maybe even America, NATO, and Russia. But the second meeting that
+      will come up — and I’m sure this is going to be raised today — is a warning: It’s
+      not only the causes that Russia wants to talk about. The Russian–NATO antagonism
+      goes far beyond Ukraine. We mentioned it’s extended into the Caucasus, with Azerbaijan
+      and Armenia, with U.S. control of the Zangezur Corridor, threatening Iran, and
+      China’s Belt & Road trajectory. So Russia is going to say: NATO is attacking us,
+      and with U.S. support, on many fronts. NATO’s attacking our tanker trade in the
+      Baltics. If they attack our tanker trade, we’re going to have to wipe out their
+      naval ports, from which they’re attacking our naval trade. MI6 and the CIA, apparently,
+      are engaging in terrorism against Russian oil tankers by putting bombs on the
+      tankers, attaching bombs that explode and sink the tankers. There have been two
+      or three tankers already that have been victimized by the terrorism. I think Russia
+      has to move on that. Russia still has a repertory of attacks beyond Ukraine that
+      NATO have engaged in, such as all of the twelve or thirteen biolabs that Ukraine
+      — I should say that NATO — had placed in Ukraine to wage biological warfare on
+      Russia. I think Russia’s strongest position is that NATO is a terrorist organization.
+      America is a terrorist country. And Russia is defending itself. That’s how I think
+      Russia is perceiving this, and is depicting it to its own people. Obviously, that’s
+      not going to be recognized at the meeting, but I’m sure that Russia is going to
+      bring up the fact that, in order to settle the crisis, that Trump calls the ‘Ukraine
+      crisis’ (it’s only an arena) — the crisis is the whole orientation of U.S. policy
+      to try to break up Russia, ever since the disaster of the 1990s in Russia — that’s
+      really going to be the big picture. The question is, how can they communicate
+      this big picture to the West, when none of the Western media, or Congress, or
+      politicians, are acting to explain and familiarizing the West with the things
+      that Richard and I have been talking about so far — and that I think all of your
+      other guests have been talking about for the last few months? NIMA ALKHORSHID
+      : Richard, what Michael said about the Zangezur Corridor is so important because
+      Donald Trump is bragging about the deal he could cut between Azerbaijan and Armenia.
+      And they’re talking about Zangezur Corridor — the new name from Donald Trump is
+      Trump’s International Route for Peace and Prosperity? It’s so amazing. How do
+      you see it, Richard? We know that that region is so important for the security
+      of Iran and Russia both. And with the situation in the Middle East, connecting
+      that to Zangezur Corridor, Armenia, Azerbaijan, and what Michael said about this
+      economic communication among Russia, China, and Iran, do you feel that we’re going
+      to have the same sort of conflict, somehow similar to what’s going on in Ukraine,
+      or somehow in a different manner? I don’t know if you heard yesterday, Azerbaijan
+      said they’re going to send weapons to Ukraine. So far, they didn’t do it. And
+      Russia said: You’re not going to do this. You know what would be the outcome.
+      It seems that something is boiling up in that region. Your take on that? RICHARD
+      WOLFF : Yeah, you know, put yourself — and I ask your audience — put yourself
+      in the position of the United States, and give yourself — just as a hypothetical
+      — give yourself the idea: What would we be doing as a nation if we actually could
+      finally admit that the empire is over? What would we do? When we watch that? You
+      know, in the last six months, China has established more solar energy than the
+      rest of the world combined, in the same period of time. I mean, it’s the umpteenth
+      example: how many do you need? They produce the best, cheapest electric vehicles
+      on the planet. They are solving their pollution problem and their solar energy
+      use. They don’t need to worry about fossil fuels in the future, they’re not going
+      to be using them. That’s going to be a problem of the West, making the West fall
+      further, and further behind in where new technologies are going. If you allow
+      yourself, for a minute, then what does the dying empire do? The British Empire,
+      that has been dying for longer, and is further down the road of what it means,
+      recently — a few decades ago — made war on the Falkland Islands, where there are
+      more sheep than people. And the British — took ‘em a while — they actually won.
+      We’re going to meddle in Azerbaijan? Of course we are! As China creates a global
+      pathway, we are gonna nickel-and-dime that effort by being disruptive wherever
+      we can. Can we find a local government that’s in trouble and give them a ton of
+      money to help them survive, if only they send a few rifles to Ukraine (which will
+      make no difference to the outcome of that war)? These are symbolic play games.
+      They are the acts of desperation of a declining empire. That’s what this is about
+      — I’m no expert in that area, please, I don’t make any claim, you know, I can
+      find it on the map and not much more than that — but these are, for me, sign after
+      sign: Europe is finished. They have to come up with a way to overcome their disunity.
+      There’s no sign of it. They have to come up with a way to catch up with the new
+      technology of the world, which is coming from China, and the United States still.
+      And they’re not doing that. Where are they? Where’s their future? Nowhere. They’re
+      desperately trying to hold on. They spent the last seventy-fve years being the
+      dutiful vassal of the United States. They don’t know how to break out of that.
+      They are terrified, both personally because the careers of all their leaders were
+      tutelage in all of that, and because it is hard to come up with a new plan. Your
+      colonies are gone, your social position in the world is gone, your economic dominance
+      is reduced to finance, as Michael shows us — and even that is being contested
+      increasingly, when the world thinks of replacing the dollar, they’re not looking
+      at the euro. It’s important to understand, they face the worst of all: not a decline,
+      but a real end of their five centuries of dominance in the world. And look at
+      their leaders: If ever you had a collection of leaders inadequate to their historical
+      moment, they are there, right now, for us to look at. And Mr. Xi Jinping and Mr.
+      Modi and Mr. Putin, they’re just riding on the wave as it goes up and enjoying
+      the ride, much as the Europeans enjoyed the ride up, as the Americans did. I think
+      that’s the way to understand all of this, the Ukraine war and everything else,
+      when that Ukraine war stops and it begins to be possible in Europe to talk about
+      what that war cost the Europeans, and what they got, the leaders who are held
+      responsible. Look, it’s hard for Tony Blair to move around England. He stopped
+      being Prime Minister of England many years ago, but what’s remembered is that
+      he lied over and over again to justify England playing a minor role in the invasion
+      of Iraq. He had repeated “Weapons of Mass Destruction,” knowing nothing. He relied
+      on British intelligence, who either knew nothing, or didn’t tell him. And I don’t
+      know which is worse. He’s not remembered well. No one does. The man is barely
+      tolerated. And I think those are signs the British are our future. We’re the next
+      empire. They’re going down. We are now going down, and it’s not pretty. And when
+      you go down, more than ever, you need the symbolism that, ‘oh, no, you’re still
+      strong here.’ And, if I could conclude, that’s Donald Trump. He’s the cheerleader:
+      I’m powerful. I can hit the world with tariffs. I can hit the bad guys with sanctions.
+      I will decide. I heard him this morning. If he doesn’t get the right response
+      when he meets Mr. Putin in Alaska, well, you know, he’ll say this is not adequate,
+      and that meeting will come to an end. Look at the way the man talks. He talks
+      like he’s the man in charge. He’s not the man in charge. But he does for the American
+      people the theater of the man in charge. And when you can’t be the real thing,
+      going to the theatrical replica is very attractive. MICHAEL HUDSON : I think Trump
+      is trying to just cover his ass when he says he’s going to walk out, meaning he
+      knows that it’s the Russians who are not going to surrender. Regarding Europe,
+      yesterday it was announced that the Alternativ für Deutschland now polls higher
+      than the Christian Democrats and Christian Socialists and the Social Democratic
+      Party in Germany. So Merz has now been essentially rejected by, certainly, the
+      German public. But the United States is left only with one diplomatic lever, one
+      weapon, and that’s the ability to disrupt. And that’s what Trump was using for
+      his tariffs. He can disrupt other countries, if they don’t agree to live in the
+      short run, and agree to what Trump is offering in the short run — avoid unemployment,
+      avoid a disruption of trade — because they really can’t envision a long run. Well,
+      the last six months have shown the BRICS countries and the global south that,
+      well, it’s not that hard to reorient our trade. Look at Brazil and China. Look
+      at the other countries that have been replacing the American market with others.
+      And a part of the disruption, of course, is, as you pointed out, climate. The
+      U.S. position is to support oil and fossil fuels as the wave of the future, and
+      to oppose wind power, solar power, water power — everything that is not oil. And
+      the reason I brought up the Zangezur Corridor is because this is an attempt to
+      disrupt not simply Russia in the Caucasus, but Iran itself. Nima, you and I were
+      talking before the show, and I wish you could explain what you explained to me
+      about the role of Azeri [in Iran–Azerbaijan]. I think the Americans are hoping
+      that, if they can stir up a fight between Azerbaijan and Russia, that somehow
+      this will have an effect on the Azeri province of northern Iran, which is what
+      fifty years ago at the Hudson Institute, American military people were talking
+      about how to break Iran into its component parts. What’s the relation between
+      Azerbaijan and Iran as you see it? NIMA ALKHORSHID : Yeah, Azerbaijan was part
+      of Iran before all of this happening. That’s why we have Azerbaijan in Iran. We
+      have the country called Azerbaijan. But they were somehow hoping that they can
+      bring these two parts together, make some sort of connection between the Azeri
+      part of Iran in the northwest of Iran, and Azerbaijan, the country. But what has
+      happened in the last, I would assume, in the last twenty years, the last ten years,
+      somehow the conflict that Iran was facing, and the way that Azerbaijan was behaving,
+      and lately with the attack on Iran, Israeli attack on Iran, — going to Azerbaijan,
+      then attacking Iran — before they were somehow feeling that, because of the language,
+      they’re talking the same language, the cultural issue, the cultural connection
+      between the two… but right now it’s all changed. And I don’t know if the people
+      in the United States, those policymakers, understand what’s going on in Iran.
+      It’s some sort of, I would say, unity. It’s unity coming from within the society.
+      In Iran, many people would assume that nobody knows, many people don’t know what
+      is going on in Iran. It’s kind of, rainbow. You have Azeris, Kurds, Lurs, you
+      know, Persian, all together for centuries, for thousands of years, they were living
+      with each other. And many people don’t know that we have a lot of Jewish people
+      in Iran. It’s all amazing to me when I talk with people, they feel that Iran is
+      somehow, you know, it’s all political. Iran doesn’t like this and that. But when
+      it comes to Azeri and Azerbaijan, Michael, I think the main issue for Iran is
+      security and the connection between Iran and Russia and China. Because Iran has
+      warned Armenia as well, said: You’re going in that direction, you’re going to
+      disconnect us from Russia and China. You’re going to face a lot of issues. We’re
+      going to go after you. We’re going to talk to you differently. And it seems to
+      me somehow the Trump administration feels that they can do something in that region.
+      But it’s not just about Iran. It’s about, as you’ve mentioned, Iran, China, and
+      Russia. I don’t see they can somehow manipulate the way that they did in Ukraine
+      because Armenia and Azerbaijan are aware of what’s going on because Russia was
+      talking with Azerbaijan. Iran is communicating with both Azerbaijan and Armenia:
+      If you go in that direction, we’re going to teach you to behave because we want
+      a better relationship with you. This is the way that I see what’s going on in
+      that region. Your understanding could be helpful, Michael, in the way that you
+      see economically, how the economic issues and the connection between the countries
+      would finally decide about the security of the region. RICHARD WOLFF : Well, if
+      I could just jump in. Here’s a very short lesson in geography: they’re all over
+      there. Of course, the Azeris, the Armenians, they have to come to terms with their
+      immediate environment, which is Russia, Iran, the Belt & Road Initiative, China,
+      India. Why in the world, over time, would they want to be the lonely outpost of
+      the United States, a dying empire? Don’t make deals that way — maybe temporarily,
+      maybe this leader, or that leader, but the longer run? That’s not going to happen.
+      Just like it’s going to take longer, before Guatemala, Costa Rica, and Panama
+      work something out with the Chinese and the Russians. That’s going to be a slow,
+      careful — because they have to deal with their enormous vulnerability to the United
+      States, in the way that Mexico and Canada also have to. It’s not that they can’t
+      do some things. The Canadians are now opening up relations with China, very quickly
+      and very importantly, with aluminum and lumber and all kinds, very important.
+      But still, they work very slowly, and they’re very nervous about what they have
+      to come to terms with — you know, a 2,000-mile border, or 3,000-mile border with
+      that country. And I think you’re going to see the same thing. The logical next
+      step for countries in the Caucasus is either to ally themselves with the BRICS,
+      which some are doing, or to become one of those countries that plays the two —
+      the dying empire and the arriving empire — against each other: We’re everybody’s
+      friend. We’ll send the next mission that we need to help build a railroad in our
+      country, we’ll send it to London and New York. But instead of coming home after
+      that, they will fly directly to New Delhi or Beijing or, you know, that: and who’s
+      going to give us the best deal? I already have noticed — and followed because
+      of my interest in Africa — that many of the railroads being built in Africa now
+      are being built by the Chinese. But that was after those people sent a mission
+      to the West: So, we want help for this railroad. What can you do? And they got
+      offers. And then they went to the other side, and they got offers. And guess what?
+      The offers coming from the BRICS — again, I want to remind everyone, the BRICS
+      is now a bigger, richer unity of economic strength, than are the G7; so, of course,
+      it should surprise no one that a better deal can often be offered by the other
+      side — and so the railroad will be built by the Chinese. And I think that’s going
+      to be the strategy, in the end, that Armenia will likely follow, that Azerbaijan
+      will likely follow, and that even if the politics opens up, Iran itself will follow.
+      MICHAEL HUDSON : There’s a social dimension that Nima alluded to that explains
+      the West’s failure to understand what’s happening. The West has always been strongly
+      racist. The American government officials cannot imagine a multi-ethnic society.
+      You’re having Trump, basically, declare war on immigrants. You’ve had the whole
+      of American history being a fight against the indigenous population, including
+      my ancestors in the Chippewa tribe. All of Western colonialism has been racist.
+      The last thing that they could even imagine is multi-ethnic. Russia is a multi-ethnic
+      society and multi-religious. Iran is multi-ethnic, and I’ve known many Iranian
+      Jewish leaders who have prominent positions in Iran. They don’t have any problem
+      being multi-ethnic. It’s the West that is trying to play the race card, the ethnic
+      divisions, trying to stir up and interfere with the whole rest of the world’s
+      multi-ethnic bid. And I’ve got to say, this is what Roman Christianity is all
+      about: It’s to hate people who are not part of your group. This is what made the
+      Roman Church break away from the Orthodox Christian Church in Constantinople,
+      in the East, in all of the Five Patriarchates. Basically, the Romans declared
+      any population that’s not part of our religion is the enemy. That’s the whole
+      background of the mentality that you’re seeing in Israel today, and of the whole
+      Western sphere. They don’t understand the West. And, in a way, this intolerance
+      of multi-ethnicity is a cohesive factor in organizing the rest of the world, saying:
+      We can work together. The only people that we cannot work with are the West that
+      does not accept us because we’re not their ethnicity, we’re not their religion.
+      And they’ve declared a religious and, almost, ethnic war: That’s the whole history
+      of the British Empire, the French Empire, the German Empire, the American Empire,
+      and the whole West, going back to medieval times. RICHARD WOLFF : Yeah, it is.
+      I’m struck only because my early work as an academic was in the British Empire,
+      particularly the British Empire in Africa. And I was always amazed: They really
+      did have a manual, or a recipe book, and it was to find what they would call in
+      Africa ‘tribal differences.’ And they would then play them — this part of the
+      country, where there was this tribe, would be set against the other. Divide and
+      conquer was their rule. Divide-and-administer was their rule. And so, yeah, they’ve
+      done that with, you know, imperialism and colonialism, just gave them a global
+      platform upon which to practice their politics. And I’m sure there are residues
+      of it all now. MICHAEL HUDSON : But Ukraine is a residue of that. RICHARD WOLFF
+      : Yes, Ukraine as well. That’s right. MICHAEL HUDSON : Ukraine as well. RICHARD
+      WOLFF : And it is, I don’t want to lose it, and I’m not preaching to you because
+      you need it. But there is a part of this that is unspeakable, and yet we must
+      speak it. The people of Ukraine have been sacrificed here. You have seen the United
+      States, the Europeans, the Russians, and the Ukrainian leaders work together to
+      ravage that country. Look, here’s the only thing one can say against that, which
+      I know people won’t want to hear, but at least the Russians have not done to Ukraine
+      what the Israelis have done in Gaza. They didn’t go in and destroy Kiev, you know,
+      the center of the other society, and reduce it to rubble. They haven’t declared
+      their goal to be having the Ukrainians out of Ukraine, which is, if you think
+      about it, an extraordinary moment. Because we are constantly looking at the Ukraine
+      war with the Gaza story in our minds as if they were a lens, each a lens, for
+      looking at the other. And you know, we get upset, and I understand it, if a Russian
+      missile gets to Kiev and there are a dozen people killed, but they don’t kill
+      in a month what is killed in two days in Gaza. And in the end — not that the numbers
+      are crucial, but the scale of what’s going on — it’s a message to the whole world
+      of what vulnerability we are on from ourselves as a species. That some of us could
+      be doing what we are doing, could sit there now, three and a half years into the
+      war in Ukraine, of this endless destruction of their electric facilities, the
+      things that have been the targets of Russian response or, by that matter, targets
+      of the Ukrainians — because as people don’t seem to understand the territory captured
+      by Russia, which is now 25%, more or less, if I understand correctly the map,
+      the Ukrainians bomb that area. So the Ukrainians that have been pushed westward
+      are bombing their own country that was taken by the Russians. So that in those
+      areas, you have destruction the Ukrainians have caused to their own — what they
+      want to think of as their own — country. MICHAEL HUDSON : Well, then to the Ukrainians,
+      the Russian speakers are Gaza. And to America, the whole 85% of the rest of the
+      world is Gaza. NIMA ALKHORSHID : Thank you so much, Richard and Michael. Great
+      pleasure, as always. RICHARD WOLFF : We’ll have to do a post-mortem, or post-whatever,
+      next Thursday, to see how we stack up as people who at least approach the question
+      of looking into the future — which, I know we all understand, none of us can predict.
+      MICHAEL HUDSON : If there is a next Thursday. RICHARD WOLFF : You have to laugh
+      to keep from crying. NIMA ALKHORSHID : See you soon. Bye-bye. Transcription and
+      Diarization: hudsearch Editing: Kimberly Mims Review: ced Photo by Marjan Blan
+      on Unsplash The post Hudson & Wolff: NATO’s Defeat in Ukraine first appeared on
+      Michael Hudson .'
+    one_sentence_summary: Michael Hudson suggests that Donald Trump is likely to approach
+      his upcoming meeting with Russia not to negotiate a deal, but rather to declare
+      war, influenced by pressure from European NATO leaders.
+    paragraph_summary: In a discussion on August 14, 2025, Michael Hudson expressed
+      skepticism about Donald Trump's upcoming meeting with Russia, suggesting that
+      Trump is unlikely to negotiate a ceasefire and may instead declare war. Hudson
+      noted that NATO leaders have pressured Trump not to align with Putin, indicating
+      that if Trump fails to secure a ceasefire, he will blame Russia for the meeting's
+      failure. He highlighted that recent statements from European leaders and Ukrainian
+      officials suggest a continued commitment to fighting Russia, regardless of any
+      proposals from the U.S. This context implies that Trump has little authority to
+      make meaningful agreements, as Congress has also indicated it will block any recognition
+      of Russian claims over Ukrainian territories. Hudson raised questions about Russia's
+      motivations for attending the meeting, hinting at a complex geopolitical landscape.
+    published: '2025-08-25T11:34:18+00:00'
+  - title: 'Hudson & Wolff: NATO’s Defeat in Ukraine'
+    url: https://michael-hudson.com/2025/08/hudson-wolff-natos-defeat-in-ukraine/
+    text: 'NIMA ALKHORSHID : Hi, everybody. Today is Thursday, August 14, 2025, and
+      our friends, Richard Wolff and Michael Hudson, are back with us. Welcome back.
+      Let me start, Michael, with you. You believe that Donald Trump is going to the
+      meeting to declare war on Russia instead of making a deal with Russia. What’s
+      your point in that? MICHAEL HUDSON : Well, Trump has been love-bombed, or, I should
+      say hate-bombed, in the last few days by the European anti-Russia NATO leaders
+      who had a big meeting with him on Wednesday, saying that they have convinced him
+      not to be Putin’s puppet, and that if Trump does not succeed in arranging a ceasefire,
+      that Trump will simply walk away. And Trump has said already, before this hate
+      bombing, that he’ll tell in the first ten, two minutes, whether Russia is going
+      to be amenable to his proposals for a ceasefire, or not. And if Russia’s not,
+      he’s going to simply walk out. Well, what this means is that Trump expects Russia
+      to probably walk out and the meeting to be a failure. And Trump is trying to prepare
+      the ground to say: It’s not me, it’s Russia that wouldn’t listen to the message
+      from NATO and from Congress. And, basically, the last few days have seen Merz
+      and Starmer and Macron and von der Leyen pull the rug out from anything Trump
+      can offer for a ceasefire, by saying: There’s not going to be a ceasefire. We
+      are going to continue to fight against Russia no matter what the United States
+      does. We’re going to continue to be supplying the Ukrainian army. Zelensky has
+      said: We, and the Azov battalion, are going to continue to fight against Russia.
+      Even if Trump sells us out, we’re going to fight. Congress has said: We are going
+      to prevent any agreement with Russia to recognize Russian speakers as being part
+      of Russia. So, they’ve already said that Trump has zero authority to make any
+      substantive agreement at all. And I think what the newspapers are not talking
+      about (and I think what we can talk about today) is, why is Russia going to this?
+      It has people reading the newspapers and it must see what’s happening. Well, I
+      think that Putin’s foreign policy aide, Yuri Viktorovich [Ushakov], gave a summary
+      of the agenda for Friday’s meeting, and he said that although the immediate occasion
+      for this is Ukraine’s fighting, he said, quote: Putin and Trump will discuss bilateral
+      cooperation in the economic sphere and issues of global security. In other words,
+      what Russia wants to do is say: Let’s not talk about Ukraine at all. We’ll agree
+      to disagree there, but let’s talk about what we can possibly agree on, is relevant
+      for both. Well, what does this mean for Russia? It means reversing the U.S. withdrawal
+      from the nuclear arms control agreement. Russia can say: No matter what, we don’t
+      want a fight between the United States and Russia to occur. If Europe wants to
+      fight, let Europe fight us and we’ll fight Europe. But no matter what, if there’s
+      mutual bombing (which is what looks likely, if Europe really tries to fight Russia)
+      — and remember, Europe has no weapons left, virtually. It has one weapon: missiles,
+      including atomic missiles. So that is what essentially Europe is saying: We’re
+      going to fight Russia. The only arms we have are missiles to attack Russia. Putin
+      has already said: If any missile hits us from a European country, we’re not going
+      to fight against Ukraine. Ukraine is only the arena for the war between NATO and
+      Russia. Even if the missile is a U.S. missile, if it’s been sold to Germany or
+      Britain, and it’s become a British or German missile, we’ll retaliate by bombing
+      the military sites in Europe. But let’s make it clear that this is not going to
+      trigger a war with America. I think that’s their number one feeling. And the second:
+      what’s another global issue they want to talk about? They want to reaffirm the
+      Monroe Doctrine. The Monroe Doctrine said that Europe cannot interfere with American
+      affairs and, in exchange, America will not interfere with European affairs and
+      the sphere of influence. And I think the concern of Russia right now is Azerbaijan
+      and Armenia, where Trump has tried to create a road that will block the Chinese
+      Belt & Road Initiative and block Russian transportation there– NIMA ALKHORSHID
+      : North-South Corridor. MICHAEL HUDSON : Yes, yes. We’re really going back to
+      the Khrushchev–Kennedy showdown over Cuba, over sixty years ago. And all of the
+      importance of the Azerbaijan road is really part of Turkey’s sphere of influence
+      there, and Turkish power. Well, remember how the Cuban missile crisis was settled:
+      Khrushchev agreed to withdraw the missiles from Cuba and Kennedy agreed to withdraw
+      the missiles from Turkey. It was even, at that time, the fight of that whole area
+      — Turkey, the Caucasus, the Black Sea, the neighboring area — this goes back over
+      sixty years. Russia wants to try to remind Trump that this is what the Monroe
+      Doctrine was all about. And finally, it means Trump telling the European hardliners
+      that if they attack Russia, that NATO is a defensive alliance: America is not
+      required to come to the aid of any country that is attacking attackers. Trump
+      may say that Ukraine is attacked but, in this case, Ukraine is the result of the
+      coup d’état that the United States itself, and NATO, mounted in 2015. Russia is
+      going to try to convince Trump that it’s Russia that is under attack and is a
+      victim of attack, not Ukraine. Ukraine is the attacker on the Russian speakers.
+      I guess your audience doesn’t need me to emphasize that, but Russia is going to
+      try to explain — and “Russia,” that means that not only Putin, but Lavrov is also
+      there — they’re going to try to explain what the Russian point of view is. And
+      they will present this meeting and say: Let’s not think of coming to any territorial
+      agreement on Ukraine. This is going to be settled on the battlefield. And Trump
+      is going to say: Well, I want Ukraine to be a part of this meeting. I think Russia
+      will be saying: Absolutely! We want Ukraine and its leader to be part of any peace
+      agreement. And within the next year, we will defeat the Ukrainian army; we will
+      replace the government of Zelensky with a Ukrainian party that is against the
+      war with Russia (according to all of the polls); and we will certainly have the
+      new Ukrainian government sitting at the table. So you’re absolutely right. We
+      need the Ukrainians to have an agreement with all of this. Zelensky’s not the
+      Ukrainian head. Zelensky has abolished any kind of democratic freedom there. He’s
+      ruling by fiat. The Ukrainian people are threatened by the gangs of army recruiters
+      that are seizing Ukrainians off the street, sending them to the front line to
+      get killed within 24, 48 hours, if they don’t defect. So, I think that’s what
+      the Russian meeting is all about. And the question is, well, Trump doesn’t have
+      any Russian specialists advising him. The CIA has gotten rid of all of the specialists
+      who even understand the Russian position that I’ve just described. And the question
+      is whether there will be a breakdown, and whether Trump will be able to pay attention
+      to this, and have any ability to, at least, understand the Russian position. That’s
+      all that Russia can hope for in all of this. NIMA ALKHORSHID : Richard, how do
+      you feel about it? Do you think that Donald Trump would be able to cut a deal?
+      Or, as Michael said, you’re not that optimistic about it. RICHARD WOLFF : I never
+      understood what strikes me as nonsense about Mr. Trump and deals. He seems remarkably
+      poor at making deals. What he can do is use the power that the positions he acquires
+      give him. He seems to know how to do that well. And he has, and I have to give
+      him credit, welded together a remarkable coalition. So he can put coalitions together,
+      but making deals among them other than: Here, join the coalition because I’m going
+      to give you this. So, let’s just review that, and then I’ll get to the meeting
+      in Anchorage, in Alaska. In order to win, the leaders of either the Republican
+      or Democratic Party — since they are both beholden to the business community,
+      the employer class in this country, and have been for many, many decades — they
+      have to get from that community large sums of money, now counted in the billions,
+      if not tens of billions, of dollars, for each electoral cycle. Okay, they do that.
+      What do they do with the money? Answer: They put together coalitions of various
+      groups of the population with the same objective. Get them to vote. If you’re
+      the Republican businessmen and women, get them to vote for the Republicans. If
+      you’re the Democratic businessmen and women donors, get them to vote for the Democrat.
+      And by now, we’re quite familiar with who the coalition partners are. The deals
+      were made long before Mr. Trump arrived on the scene. The Republicans cut no deal
+      now, they just continue. They are the party that throws money and opportunities,
+      and lots of symbols at, what? We know them, right? Fundamentalist Christians,
+      white supremacists, people in love with their guns, people who hate immigrants.
+      I could collect a few more, but you know, it’s familiar. And on the Democratic
+      side, who? Better educated people, women, non-white people… and that’s what they
+      do. And the elections are assigned outcomes, depend on who’s a bit more effective
+      one year than the other, either in getting the money — look at Elon Musk throwing
+      $200 to $300 million at Mr. Trump to counteract whatever Kamala Harris might have
+      achieved otherwise — et cetera. And the election is decided by one, two, three
+      percent of the vote. Trump has no mandate. If he had one, maybe he could talk,
+      that he took this conventional arrangement one step further — he made a deal —
+      but he didn’t. He didn’t take it one step further at all. His vote is the same
+      Tweedledum–Tweedledee oscillation that we have always seen. And I think that the
+      Russians know it. So, when we get to the meeting in Alaska, I want to underscore
+      if anything goes further than what Michael said, I don’t think it’s got anything
+      to do with Ukraine. And the reason is that the issue of Ukraine has been resolved.
+      Ukraine lost, and Russia won. End of story. We might wish it to be otherwise,
+      but it is silly to keep pretending. Time is on the Russian side. Every day, the
+      Russian army moves a certain number of kilometers westward. The West loves to
+      say they’re not doing it as fast as they had hoped. Who the hell knows? The West
+      doesn’t know. And whether it’s true or not doesn’t matter. The line of direction
+      is obvious, unrelentingly obvious. By this point, to pretend that it’s otherwise
+      shows that you’re not in touch anymore with what’s going on, you are so upset
+      by the reality that you have shifted over into make-believe. Therefore, the Ukrainian
+      issue should be left exactly the way it is. True, the Russians could save the
+      lives and the expense of another six months, or twelve months, of war. But look,
+      the reality is, again, that going to war has increased the rate of economic growth
+      in Russia, compared to what it was before the war. In other words, this war is
+      doing for the Russian economy what World War II did for the depressed American
+      economy. We shouldn’t be surprised at that as a possible outcome. That’s what
+      all of Keynesian economics teaches us: Massive government intervention, whether
+      it’s for war or growing flowers, has a stimulative effect, and it has done that
+      in Russia. Their problem is a bit of inflation, not a bit of collapse. Do the
+      Russians have their economic problems? Of course they do. And if you’re a child,
+      you’ll cherry-pick a few statistics of where they’re having trouble, and say,
+      the way a lot of people are these days: Mr. Trump, be aware that the Russian economy
+      is in terrible… That’s not true. The repetition of that doesn’t make it true.
+      The failure to show it makes it false. So, Mr. Putin will be there, and he’s not
+      interested in Ukraine. He understands that’s the game. That’s what we talk about.
+      And why? Because that’s what Mr. Trump wants. Lost in all of this is that it’s
+      now crystal clear that the United States has been, for months, pushing for this
+      meeting. They want a summit. That’s the political theater they want to stage.
+      Mr. Trump knows that he’s winning. Everyone else in the world, who pays attention
+      — and who is not the leader of a European country whose entire career has been
+      saying ‘yes’ to America against, first the Soviet Union, and now Russia — What
+      Mr. Trump faces is a Russia that has a completely different agenda. And there,
+      Michael was exactly right: They want arms control treaties; they want peaceful
+      resolution of hotspots in the world that might lead to conflict, such as the Middle
+      East — such as the Caucasus Mountains, if the United States is going to start
+      making trouble there — et cetera, et cetera. And the final point: The reason that’s
+      the agenda of the Russians, and why they might be willing to say: Yes, let’s have
+      a ceasefire, we’ll have a meeting in October to go over the specifics of this
+      — longer it takes, the better their position, and the weaker the Ukrainians and
+      the silly Europeans, who don’t understand you can’t have a sustained foreign policy
+      of hostility to Russia, as you’re losing your own people to support it. And the
+      final point: The whole world understands there’s a shift going on, away from the
+      United States, away from Europe, toward Asia (number one), and the global south
+      (number two). And all of this is playing around because you can’t stop it, because
+      you can’t control it, because the people who are winning — the global south —
+      know it, and the people in the global north are still busy denying it. As long
+      as you have that situation, they’re going to stretch this out. Of course, they
+      are. That is their best strategy. And that will govern whatever happens in the
+      poor, unfortunate country of Ukraine, about whom neither side gives a flying you-know-what.
+      NIMA ALKHORSHID : Well, Michael, we know that Donald Trump yesterday was repeating
+      that they want — you mentioned as well that they want — a ceasefire in Ukraine.
+      And you look at the way that Europeans are talking about it. Zelensky wants ceasefire;
+      everybody on the part of the West wants a ceasefire in Ukraine. On the part of
+      Russians, what does that mean, in your opinion, for the economy of Russia, for
+      what’s going on in Ukraine? Does the ceasefire have the same sort of meaning for
+      Russia? Is it just somehow putting an end to the conflict temporarily, and just
+      making some moves on Ukraine, improving the Ukrainian army, or sending more weapons
+      to Ukraine to go against Russia again? What does that mean when they’re asking
+      about the ceasefire, Michael? MICHAEL HUDSON : Well, I don’t think there’s any
+      chance of Europe sending either troops to Ukraine, or even weapons, because they’re
+      out of weapons. I think that what Richard has explained, that Russia is winning
+      — and it’s very easy to make the forecast of that — Russia is going to very rapidly
+      absorb the provinces that it has set out to absorb because the Ukrainian army
+      has fallen apart, and Ukrainian society has fallen apart. So, when Richard talks
+      about the whole world understands this obvious military fact — that the ultimate
+      solution and resolution of the war between NATO and Russia in Ukraine will be
+      settled on the battlefield — it’s not going to be settled by any bilateral meeting,
+      either by Trump or by Russia in Europe. It’ll be settled on the battlefield. That’s
+      what frightens the hawks, the anti-Russian hawks in Europe, so much. They know
+      that they’ve lost. They’re trying to somehow depict themselves as, well, what
+      can we salvage from our loss? What can we do to neutralize Russia’s success on
+      the battlefield? What can we do, to say: Well, we need a protection force. We
+      need an army in what’s left of Ukraine, just to prevent Russia from attacking
+      it again. Meaning, for us to put missile bases on so that we can send missiles
+      against Russia, which is the only thing that we are able to do. They’re trying
+      to figure out a fallback position. And at the same time, they want to discredit
+      Trump, saying Trump has been hypnotized by Putin: he really is Putin’s puppet,
+      or Putin’s zombie, under his control. I think that that is what the Financial
+      Times , and the German publication Bild , says. And I think that this is really
+      the setting. So, Putin can say that, in view of the fact that they’re not going
+      to agree at any conference table while the war is going on. When there’s a ceasefire,
+      it’s when there’s a stalemate. And the two sides will say: Okay, it’s a stalemate.
+      Let’s stop, and we can see where this is going. It’s not going to go further than
+      it is now. Let’s just stop and draw the line, so that neither of our armies are
+      going to have our citizens killed. But as Richard explained, and I think all of
+      your guests on your show have explained, this is not a stalemate: this is a rout.
+      Finally, the dam has broken, and the Ukraine army has lost. The whole project
+      promised by the CIA, promised by the congressional advisors, promised by Biden,
+      and promised by Trump in his first term, that somehow this war is going to destabilize
+      Russia’s economy — it will overstrain it – it’ll be a repeat of the Afghan war
+      – Russia is going to overstrain it – it’ll collapse – the population will revolt
+      and there will be a regime change — ALL of that is a fantasy. And the problem
+      is how to convince the victims of this fantasy — its perpetrators (who are smoking
+      their own dope) can come to accept the fact — that not only is the fantasy over,
+      but their hope of somehow retaining something from this fantasy is not going to
+      work. I think Russia can say to Trump: We know that you have a problem with Europe.
+      We’re on your side, not Europe’s side. We don’t want Europe. There’s nothing that
+      Europe has that we want, and we’re willing to give up all the hope of selling
+      our oil and gas, or raw materials, or other things, to Europe. We have no desire
+      for European investment in our country. You can have Europe’s energy market for
+      your liquefied natural gas. That’s the only market. We’re willing to stay out
+      of Western Europe, and leave that as your sphere of influence. You’re all free.
+      You can sell all the arms you want to the NATO countries. But just realize that
+      once these arms are bought by Europe, they’re European arms, not American arms
+      anymore. And any attack on Russia’s territory is going to be met by a counterattack
+      on the attacker. The attacker is not Ukraine. The attacker is MI6, and the CIA,
+      and the American troops there (but not the American mainland). The attacker is
+      France. The attacker is Germany. German military arms producers, Rheinmetall,
+      etc: they will be under attack. The American troops in Germany and in England
+      will be under attack because they’re part of the English and German attack on
+      Russia. But not America itself. This is going to be the nitty-gritty of everything.
+      And Putin can quip to Trump that this is the most peace-oriented thing that the
+      United States can do: Avoid a U.S.-Russia exchange of bombs, you can have Europe
+      as your sphere of influence. And that really is the only power that the U.S. economy
+      has. Richard’s quite right. Both of us have been describing how the American empire
+      is in decline. America has declared war on 95%, no, 85% of the world’s population.
+      And the world’s population has just said: Okay, we’re withdrawing. You can sanction
+      us, not trade with us. We’re happy to reorient our trade without you. Brazil is
+      now replacing America’s soybean farmers. American agriculture is in trouble. The
+      rest of the world — 85% — can live by itself, letting the United States have the
+      one area in which the American empire still has room to expand — into Europe.
+      And when Secretary Hegseth, the other day, said: We’re looking at all of the assets,
+      the monetary reserves of Europe, we’re going to make a national investment fund,
+      and we’re going to tell Europe to invest their reserves in American industry to
+      try to rebuild industrialization here. Well, Trump can sort of applaud, and say:
+      This is a wonderful idea. Let them try to do that. Well, of course, it’s not possible
+      to reestablish industrial viability in the United States for the reasons we’ve
+      discussed before. America is no longer an industrial capitalist country. It’s
+      a finance capitalist country, and finance has no interest at all in industrializing
+      the economy as a means of getting rich, when you can get rich much quicker by
+      rent-seeking, by financial engineering, by indebting the economy of the bottom
+      90% to the wealthiest 10%, by achieving monopolies — especially in information
+      technology and computer chips. I think what Russia can do is speed the parting
+      guest, applaud America’s ability to revive its economy at Europe’s expense and
+      say: You go your way, we’ll go our way. We will not interfere with whatever you
+      want to do in Europe. We surrender to you the European market. And they’ll laugh
+      to themselves, as they realize that what they’ve got is the part of the world
+      — the 85% — that has a growing market. That, basically, is the context for all
+      of the negotiation. I don’t think there’s anyone on the American side that is
+      telling that to Mr. Trump. But that’s why our show — your show — has such a large
+      readership. RICHARD WOLFF : Let me add a little bit here. We learned from the
+      Vietnam War that for months, probably for years, the American government was divided
+      about ending that war, and departing. And the reason was that they were losing.
+      But nobody wanted to be the President, or the political party, in charge to make
+      the final statement: Okay, we’re leaving, we lost. And so we saw those amazing
+      photographs of the few Vietnamese who could hang on with their hands to the bottom
+      of the departing helicopter as it left Saigon in 1975. We then had the same delay,
+      at the cost of countless American lives, over when to leave in Afghanistan, as
+      it became clear that the Taliban had defeated the United States — oh, excuse me,
+      the Coalition of the Dubious — oh, excuse me — the Willing. Wow. You know what’s
+      going on now? A debate about how to handle the comparable situation in Ukraine.
+      People ask: Why the focus on a ceasefire? Because a “ceasefire” — just a word
+      — is a lot less painful than “defeat.” And you can say: We accomplished a ceasefire.
+      Then you can hype it, as though we forced it on them, and all the rest of it.
+      It would be wonderful for the Europeans who are so afraid of their own people.
+      What will happen to the mass of the Europeans? Ask yourself. If they have to watch
+      the next six months, or year, of the final defeat of the Ukrainian shell army,
+      which is all that’s left, that’s going to make those who have been critical all
+      along wave their fingers and say: We could have avoided this war from the beginning.
+      We could have agreed in Minsk, or we could have agreed in Istanbul, to end it
+      much earlier. But our leaders said: Stay with it. And so now we are horribly in
+      debt. We are horribly economically hurt. They already admit that the cost of energy
+      is off the chart in Europe and, therefore, damaging them competitively. Therefore,
+      those particular leaders that have been pushing? Of course they’re pushing now.
+      Their own survival is at stake. Their survival, politically, cannot handle a defeat.
+      It’ll be too much, and it will lead to their people saying, since Russia has never
+      attacked any of them: Work out an arrangement; rearrange the security architecture
+      of Europe. That’s a better bet. Otherwise, we risk, here, having happen what they
+      just suffered in their horribly defaced country of Ukraine. We don’t want this.
+      A ceasefire now is better for the West than all of that. Or, to say the same thing
+      as bluntly as I know how, we are watching the demand for a ceasefire from the
+      side that’s losing. Of course they want a ceasefire. Will they then rebuild? Sure,
+      they will. Will the Russians rebuild? Sure, they will. Will we then have the same
+      issue? Sure, we will. That’s why it’s not a solution for the Russians. That’s
+      why Putin keeps saying: No, no, no, not a ceasefire, we have to go to the root
+      causes because, otherwise, there is no end to this. But the West will take that
+      because they’re facing ‘we lost, we got to cease fire, or kick the can down the
+      road.’ And given the courage of the leaders of Europe and the United States, kicking
+      the can down the road would be my number one bet. Last point. Here’s a deal Mr.
+      Putin might make: Give the West a ceasefire, but hedge it around with qualifiers,
+      conditions, exemptions, to make it do what the Russians want it to do. That way,
+      you can have the saving face for Mr. Trump, ‘I got a ceasefire,’ and the Russians
+      able to do 90% of what they had intended to do. Is that possible? I’m no military
+      expert, and I don’t know what the conventions of diplomacy like this are, but
+      it wouldn’t be the first time that, between the public parts of an agreement and
+      the secret parts of an agreement, such things are agreed to. That has happened
+      before. That could happen again. NIMA ALKHORSHID : Well, Michael, when I look
+      at two sides, the United States and Russia, I see Vladimir Putin. After the meeting
+      between Steve Witkoff and Vladimir Putin, he talked with his partners. He talked
+      with India, China, and literally with all the countries of BRICS. It seems that
+      whatever happens in that meeting, he knows that he informed his partners and they’re
+      prepared for any outcome. On the part of the United States, you don’t see that
+      sort of unity between the United States and Europeans. They’re totally different.
+      Their position is totally different on Ukraine because Europeans, it seems to
+      me, want a continuation of the conflict in Ukraine. They don’t want to put an
+      end to the conflict as soon as possible, while it seems that, at least, Donald
+      Trump is talking about it. How do you see the pressures on these two leaders going
+      to the meeting? Do you feel that the United States would somehow declare that
+      it was all Russia’s fault, if they don’t achieve a substantial outcome in this
+      meeting? Because Donald Trump was talking about, if it is successful, they’re
+      going to have a second meeting. Then Zelensky is going to come in — this is amazing
+      to me because Zelensky is not interested in reaching any deal. Your take on that?
+      MICHAEL HUDSON : Trump says that any meeting he has with anyone is successful.
+      Any meeting goes wonderful, and Trump has won. How is he going to spell this out?
+      Well, you mentioned that what Russia wants to talk about are the causes. Trump
+      can find some refuge in saying: We talked about the broad setting and how we can
+      settle much more than Ukraine. We can settle the whole relationship between America
+      and Russia, and maybe even America, NATO, and Russia. But the second meeting that
+      will come up — and I’m sure this is going to be raised today — is a warning: It’s
+      not only the causes that Russia wants to talk about. The Russian–NATO antagonism
+      goes far beyond Ukraine. We mentioned it’s extended into the Caucasus, with Azerbaijan
+      and Armenia, with U.S. control of the Zangezur Corridor, threatening Iran, and
+      China’s Belt & Road trajectory. So Russia is going to say: NATO is attacking us,
+      and with U.S. support, on many fronts. NATO’s attacking our tanker trade in the
+      Baltics. If they attack our tanker trade, we’re going to have to wipe out their
+      naval ports, from which they’re attacking our naval trade. MI6 and the CIA, apparently,
+      are engaging in terrorism against Russian oil tankers by putting bombs on the
+      tankers, attaching bombs that explode and sink the tankers. There have been two
+      or three tankers already that have been victimized by the terrorism. I think Russia
+      has to move on that. Russia still has a repertory of attacks beyond Ukraine that
+      NATO have engaged in, such as all of the twelve or thirteen biolabs that Ukraine
+      — I should say that NATO — had placed in Ukraine to wage biological warfare on
+      Russia. I think Russia’s strongest position is that NATO is a terrorist organization.
+      America is a terrorist country. And Russia is defending itself. That’s how I think
+      Russia is perceiving this, and is depicting it to its own people. Obviously, that’s
+      not going to be recognized at the meeting, but I’m sure that Russia is going to
+      bring up the fact that, in order to settle the crisis, that Trump calls the ‘Ukraine
+      crisis’ (it’s only an arena) — the crisis is the whole orientation of U.S. policy
+      to try to break up Russia, ever since the disaster of the 1990s in Russia — that’s
+      really going to be the big picture. The question is, how can they communicate
+      this big picture to the West, when none of the Western media, or Congress, or
+      politicians, are acting to explain and familiarizing the West with the things
+      that Richard and I have been talking about so far — and that I think all of your
+      other guests have been talking about for the last few months? NIMA ALKHORSHID
+      : Richard, what Michael said about the Zangezur Corridor is so important because
+      Donald Trump is bragging about the deal he could cut between Azerbaijan and Armenia.
+      And they’re talking about Zangezur Corridor — the new name from Donald Trump is
+      Trump’s International Route for Peace and Prosperity? It’s so amazing. How do
+      you see it, Richard? We know that that region is so important for the security
+      of Iran and Russia both. And with the situation in the Middle East, connecting
+      that to Zangezur Corridor, Armenia, Azerbaijan, and what Michael said about this
+      economic communication among Russia, China, and Iran, do you feel that we’re going
+      to have the same sort of conflict, somehow similar to what’s going on in Ukraine,
+      or somehow in a different manner? I don’t know if you heard yesterday, Azerbaijan
+      said they’re going to send weapons to Ukraine. So far, they didn’t do it. And
+      Russia said: You’re not going to do this. You know what would be the outcome.
+      It seems that something is boiling up in that region. Your take on that? RICHARD
+      WOLFF : Yeah, you know, put yourself — and I ask your audience — put yourself
+      in the position of the United States, and give yourself — just as a hypothetical
+      — give yourself the idea: What would we be doing as a nation if we actually could
+      finally admit that the empire is over? What would we do? When we watch that? You
+      know, in the last six months, China has established more solar energy than the
+      rest of the world combined, in the same period of time. I mean, it’s the umpteenth
+      example: how many do you need? They produce the best, cheapest electric vehicles
+      on the planet. They are solving their pollution problem and their solar energy
+      use. They don’t need to worry about fossil fuels in the future, they’re not going
+      to be using them. That’s going to be a problem of the West, making the West fall
+      further, and further behind in where new technologies are going. If you allow
+      yourself, for a minute, then what does the dying empire do? The British Empire,
+      that has been dying for longer, and is further down the road of what it means,
+      recently — a few decades ago — made war on the Falkland Islands, where there are
+      more sheep than people. And the British — took ‘em a while — they actually won.
+      We’re going to meddle in Azerbaijan? Of course we are! As China creates a global
+      pathway, we are gonna nickel-and-dime that effort by being disruptive wherever
+      we can. Can we find a local government that’s in trouble and give them a ton of
+      money to help them survive, if only they send a few rifles to Ukraine (which will
+      make no difference to the outcome of that war)? These are symbolic play games.
+      They are the acts of desperation of a declining empire. That’s what this is about
+      — I’m no expert in that area, please, I don’t make any claim, you know, I can
+      find it on the map and not much more than that — but these are, for me, sign after
+      sign: Europe is finished. They have to come up with a way to overcome their disunity.
+      There’s no sign of it. They have to come up with a way to catch up with the new
+      technology of the world, which is coming from China, and the United States still.
+      And they’re not doing that. Where are they? Where’s their future? Nowhere. They’re
+      desperately trying to hold on. They spent the last seventy-fve years being the
+      dutiful vassal of the United States. They don’t know how to break out of that.
+      They are terrified, both personally because the careers of all their leaders were
+      tutelage in all of that, and because it is hard to come up with a new plan. Your
+      colonies are gone, your social position in the world is gone, your economic dominance
+      is reduced to finance, as Michael shows us — and even that is being contested
+      increasingly, when the world thinks of replacing the dollar, they’re not looking
+      at the euro. It’s important to understand, they face the worst of all: not a decline,
+      but a real end of their five centuries of dominance in the world. And look at
+      their leaders: If ever you had a collection of leaders inadequate to their historical
+      moment, they are there, right now, for us to look at. And Mr. Xi Jinping and Mr.
+      Modi and Mr. Putin, they’re just riding on the wave as it goes up and enjoying
+      the ride, much as the Europeans enjoyed the ride up, as the Americans did. I think
+      that’s the way to understand all of this, the Ukraine war and everything else,
+      when that Ukraine war stops and it begins to be possible in Europe to talk about
+      what that war cost the Europeans, and what they got, the leaders who are held
+      responsible. Look, it’s hard for Tony Blair to move around England. He stopped
+      being Prime Minister of England many years ago, but what’s remembered is that
+      he lied over and over again to justify England playing a minor role in the invasion
+      of Iraq. He had repeated “Weapons of Mass Destruction,” knowing nothing. He relied
+      on British intelligence, who either knew nothing, or didn’t tell him. And I don’t
+      know which is worse. He’s not remembered well. No one does. The man is barely
+      tolerated. And I think those are signs the British are our future. We’re the next
+      empire. They’re going down. We are now going down, and it’s not pretty. And when
+      you go down, more than ever, you need the symbolism that, ‘oh, no, you’re still
+      strong here.’ And, if I could conclude, that’s Donald Trump. He’s the cheerleader:
+      I’m powerful. I can hit the world with tariffs. I can hit the bad guys with sanctions.
+      I will decide. I heard him this morning. If he doesn’t get the right response
+      when he meets Mr. Putin in Alaska, well, you know, he’ll say this is not adequate,
+      and that meeting will come to an end. Look at the way the man talks. He talks
+      like he’s the man in charge. He’s not the man in charge. But he does for the American
+      people the theater of the man in charge. And when you can’t be the real thing,
+      going to the theatrical replica is very attractive. MICHAEL HUDSON : I think Trump
+      is trying to just cover his ass when he says he’s going to walk out, meaning he
+      knows that it’s the Russians who are not going to surrender. Regarding Europe,
+      yesterday it was announced that the Alternativ für Deutschland now polls higher
+      than the Christian Democrats and Christian Socialists and the Social Democratic
+      Party in Germany. So Merz has now been essentially rejected by, certainly, the
+      German public. But the United States is left only with one diplomatic lever, one
+      weapon, and that’s the ability to disrupt. And that’s what Trump was using for
+      his tariffs. He can disrupt other countries, if they don’t agree to live in the
+      short run, and agree to what Trump is offering in the short run — avoid unemployment,
+      avoid a disruption of trade — because they really can’t envision a long run. Well,
+      the last six months have shown the BRICS countries and the global south that,
+      well, it’s not that hard to reorient our trade. Look at Brazil and China. Look
+      at the other countries that have been replacing the American market with others.
+      And a part of the disruption, of course, is, as you pointed out, climate. The
+      U.S. position is to support oil and fossil fuels as the wave of the future, and
+      to oppose wind power, solar power, water power — everything that is not oil. And
+      the reason I brought up the Zangezur Corridor is because this is an attempt to
+      disrupt not simply Russia in the Caucasus, but Iran itself. Nima, you and I were
+      talking before the show, and I wish you could explain what you explained to me
+      about the role of Azeri [in Iran–Azerbaijan]. I think the Americans are hoping
+      that, if they can stir up a fight between Azerbaijan and Russia, that somehow
+      this will have an effect on the Azeri province of northern Iran, which is what
+      fifty years ago at the Hudson Institute, American military people were talking
+      about how to break Iran into its component parts. What’s the relation between
+      Azerbaijan and Iran as you see it? NIMA ALKHORSHID : Yeah, Azerbaijan was part
+      of Iran before all of this happening. That’s why we have Azerbaijan in Iran. We
+      have the country called Azerbaijan. But they were somehow hoping that they can
+      bring these two parts together, make some sort of connection between the Azeri
+      part of Iran in the northwest of Iran, and Azerbaijan, the country. But what has
+      happened in the last, I would assume, in the last twenty years, the last ten years,
+      somehow the conflict that Iran was facing, and the way that Azerbaijan was behaving,
+      and lately with the attack on Iran, Israeli attack on Iran, — going to Azerbaijan,
+      then attacking Iran — before they were somehow feeling that, because of the language,
+      they’re talking the same language, the cultural issue, the cultural connection
+      between the two… but right now it’s all changed. And I don’t know if the people
+      in the United States, those policymakers, understand what’s going on in Iran.
+      It’s some sort of, I would say, unity. It’s unity coming from within the society.
+      In Iran, many people would assume that nobody knows, many people don’t know what
+      is going on in Iran. It’s kind of, rainbow. You have Azeris, Kurds, Lurs, you
+      know, Persian, all together for centuries, for thousands of years, they were living
+      with each other. And many people don’t know that we have a lot of Jewish people
+      in Iran. It’s all amazing to me when I talk with people, they feel that Iran is
+      somehow, you know, it’s all political. Iran doesn’t like this and that. But when
+      it comes to Azeri and Azerbaijan, Michael, I think the main issue for Iran is
+      security and the connection between Iran and Russia and China. Because Iran has
+      warned Armenia as well, said: You’re going in that direction, you’re going to
+      disconnect us from Russia and China. You’re going to face a lot of issues. We’re
+      going to go after you. We’re going to talk to you differently. And it seems to
+      me somehow the Trump administration feels that they can do something in that region.
+      But it’s not just about Iran. It’s about, as you’ve mentioned, Iran, China, and
+      Russia. I don’t see they can somehow manipulate the way that they did in Ukraine
+      because Armenia and Azerbaijan are aware of what’s going on because Russia was
+      talking with Azerbaijan. Iran is communicating with both Azerbaijan and Armenia:
+      If you go in that direction, we’re going to teach you to behave because we want
+      a better relationship with you. This is the way that I see what’s going on in
+      that region. Your understanding could be helpful, Michael, in the way that you
+      see economically, how the economic issues and the connection between the countries
+      would finally decide about the security of the region. RICHARD WOLFF : Well, if
+      I could just jump in. Here’s a very short lesson in geography: they’re all over
+      there. Of course, the Azeris, the Armenians, they have to come to terms with their
+      immediate environment, which is Russia, Iran, the Belt & Road Initiative, China,
+      India. Why in the world, over time, would they want to be the lonely outpost of
+      the United States, a dying empire? Don’t make deals that way — maybe temporarily,
+      maybe this leader, or that leader, but the longer run? That’s not going to happen.
+      Just like it’s going to take longer, before Guatemala, Costa Rica, and Panama
+      work something out with the Chinese and the Russians. That’s going to be a slow,
+      careful — because they have to deal with their enormous vulnerability to the United
+      States, in the way that Mexico and Canada also have to. It’s not that they can’t
+      do some things. The Canadians are now opening up relations with China, very quickly
+      and very importantly, with aluminum and lumber and all kinds, very important.
+      But still, they work very slowly, and they’re very nervous about what they have
+      to come to terms with — you know, a 2,000-mile border, or 3,000-mile border with
+      that country. And I think you’re going to see the same thing. The logical next
+      step for countries in the Caucasus is either to ally themselves with the BRICS,
+      which some are doing, or to become one of those countries that plays the two —
+      the dying empire and the arriving empire — against each other: We’re everybody’s
+      friend. We’ll send the next mission that we need to help build a railroad in our
+      country, we’ll send it to London and New York. But instead of coming home after
+      that, they will fly directly to New Delhi or Beijing or, you know, that: and who’s
+      going to give us the best deal? I already have noticed — and followed because
+      of my interest in Africa — that many of the railroads being built in Africa now
+      are being built by the Chinese. But that was after those people sent a mission
+      to the West: So, we want help for this railroad. What can you do? And they got
+      offers. And then they went to the other side, and they got offers. And guess what?
+      The offers coming from the BRICS — again, I want to remind everyone, the BRICS
+      is now a bigger, richer unity of economic strength, than are the G7; so, of course,
+      it should surprise no one that a better deal can often be offered by the other
+      side — and so the railroad will be built by the Chinese. And I think that’s going
+      to be the strategy, in the end, that Armenia will likely follow, that Azerbaijan
+      will likely follow, and that even if the politics opens up, Iran itself will follow.
+      MICHAEL HUDSON : There’s a social dimension that Nima alluded to that explains
+      the West’s failure to understand what’s happening. The West has always been strongly
+      racist. The American government officials cannot imagine a multi-ethnic society.
+      You’re having Trump, basically, declare war on immigrants. You’ve had the whole
+      of American history being a fight against the indigenous population, including
+      my ancestors in the Chippewa tribe. All of Western colonialism has been racist.
+      The last thing that they could even imagine is multi-ethnic. Russia is a multi-ethnic
+      society and multi-religious. Iran is multi-ethnic, and I’ve known many Iranian
+      Jewish leaders who have prominent positions in Iran. They don’t have any problem
+      being multi-ethnic. It’s the West that is trying to play the race card, the ethnic
+      divisions, trying to stir up and interfere with the whole rest of the world’s
+      multi-ethnic bid. And I’ve got to say, this is what Roman Christianity is all
+      about: It’s to hate people who are not part of your group. This is what made the
+      Roman Church break away from the Orthodox Christian Church in Constantinople,
+      in the East, in all of the Five Patriarchates. Basically, the Romans declared
+      any population that’s not part of our religion is the enemy. That’s the whole
+      background of the mentality that you’re seeing in Israel today, and of the whole
+      Western sphere. They don’t understand the West. And, in a way, this intolerance
+      of multi-ethnicity is a cohesive factor in organizing the rest of the world, saying:
+      We can work together. The only people that we cannot work with are the West that
+      does not accept us because we’re not their ethnicity, we’re not their religion.
+      And they’ve declared a religious and, almost, ethnic war: That’s the whole history
+      of the British Empire, the French Empire, the German Empire, the American Empire,
+      and the whole West, going back to medieval times. RICHARD WOLFF : Yeah, it is.
+      I’m struck only because my early work as an academic was in the British Empire,
+      particularly the British Empire in Africa. And I was always amazed: They really
+      did have a manual, or a recipe book, and it was to find what they would call in
+      Africa ‘tribal differences.’ And they would then play them — this part of the
+      country, where there was this tribe, would be set against the other. Divide and
+      conquer was their rule. Divide-and-administer was their rule. And so, yeah, they’ve
+      done that with, you know, imperialism and colonialism, just gave them a global
+      platform upon which to practice their politics. And I’m sure there are residues
+      of it all now. MICHAEL HUDSON : But Ukraine is a residue of that. RICHARD WOLFF
+      : Yes, Ukraine as well. That’s right. MICHAEL HUDSON : Ukraine as well. RICHARD
+      WOLFF : And it is, I don’t want to lose it, and I’m not preaching to you because
+      you need it. But there is a part of this that is unspeakable, and yet we must
+      speak it. The people of Ukraine have been sacrificed here. You have seen the United
+      States, the Europeans, the Russians, and the Ukrainian leaders work together to
+      ravage that country. Look, here’s the only thing one can say against that, which
+      I know people won’t want to hear, but at least the Russians have not done to Ukraine
+      what the Israelis have done in Gaza. They didn’t go in and destroy Kiev, you know,
+      the center of the other society, and reduce it to rubble. They haven’t declared
+      their goal to be having the Ukrainians out of Ukraine, which is, if you think
+      about it, an extraordinary moment. Because we are constantly looking at the Ukraine
+      war with the Gaza story in our minds as if they were a lens, each a lens, for
+      looking at the other. And you know, we get upset, and I understand it, if a Russian
+      missile gets to Kiev and there are a dozen people killed, but they don’t kill
+      in a month what is killed in two days in Gaza. And in the end — not that the numbers
+      are crucial, but the scale of what’s going on — it’s a message to the whole world
+      of what vulnerability we are on from ourselves as a species. That some of us could
+      be doing what we are doing, could sit there now, three and a half years into the
+      war in Ukraine, of this endless destruction of their electric facilities, the
+      things that have been the targets of Russian response or, by that matter, targets
+      of the Ukrainians — because as people don’t seem to understand the territory captured
+      by Russia, which is now 25%, more or less, if I understand correctly the map,
+      the Ukrainians bomb that area. So the Ukrainians that have been pushed westward
+      are bombing their own country that was taken by the Russians. So that in those
+      areas, you have destruction the Ukrainians have caused to their own — what they
+      want to think of as their own — country. MICHAEL HUDSON : Well, then to the Ukrainians,
+      the Russian speakers are Gaza. And to America, the whole 85% of the rest of the
+      world is Gaza. NIMA ALKHORSHID : Thank you so much, Richard and Michael. Great
+      pleasure, as always. RICHARD WOLFF : We’ll have to do a post-mortem, or post-whatever,
+      next Thursday, to see how we stack up as people who at least approach the question
+      of looking into the future — which, I know we all understand, none of us can predict.
+      MICHAEL HUDSON : If there is a next Thursday. RICHARD WOLFF : You have to laugh
+      to keep from crying. NIMA ALKHORSHID : See you soon. Bye-bye. Transcription and
+      Diarization: hudsearch Editing: Kimberly Mims Review: ced Photo by Marjan Blan
+      on Unsplash The post Hudson & Wolff: NATO’s Defeat in Ukraine first appeared on
+      Michael Hudson .'
+    one_sentence_summary: Michael Hudson suggests that Donald Trump is likely to approach
+      his upcoming meeting with Russia not to negotiate a deal, but rather to declare
+      war, influenced by pressure from European NATO leaders.
+    paragraph_summary: In a discussion on August 14, 2025, Michael Hudson expressed
+      skepticism about Donald Trump's upcoming meeting with Russia, suggesting that
+      Trump is unlikely to negotiate a ceasefire and may instead declare war. Hudson
+      noted that NATO leaders have pressured Trump not to align with Putin, indicating
+      that if Trump fails to secure a ceasefire, he will blame Russia for the meeting's
+      failure. He highlighted that recent statements from European leaders and Ukrainian
+      officials suggest a continued commitment to fighting Russia, regardless of any
+      proposals from the U.S. This context implies that Trump has little authority to
+      make meaningful agreements, as Congress has also indicated it will block any recognition
+      of Russian claims over Ukrainian territories. Hudson raised questions about Russia's
+      motivations for attending the meeting, hinting at a complex geopolitical landscape.
+    published: '2025-08-25T11:34:18+00:00'
   - title: America’s Free Lunch Economy
     url: https://michael-hudson.com/2025/08/americas-free-lunch-economy/
     text: 'August 10 2025, Landlords taking over society Transcript (Introduction) BEN

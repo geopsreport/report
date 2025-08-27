@@ -8,23 +8,193 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  The European Union’s foreign policy and its entanglement in global security dilemmas remain at the forefront of geopolitical analysis this week. According to **Jeffrey Sachs**, Europe is caught in a self-imposed economic and security trap, largely shaped by its deep-seated fears of Russia and China, and its resulting dependency on the United States. This dependency, Sachs argues, is not rooted in an objective assessment of Russian intentions but rather in a “false narrative about the Ukraine War” and a historical misreading of Russian actions, which he contends have been primarily defensive.
+  The geopolitical landscape remains dominated by the ongoing crisis in the Middle East and the shifting dynamics of European foreign policy. Recent developments underscore a growing international consensus against Israel’s current course, as well as increasing calls for a recalibration of Western, especially European, approaches to Russia and China.
   
-  Sachs provides a detailed historical context, noting that Russia’s westward actions—often cited as evidence of expansionism—were in fact driven by security concerns, particularly in response to repeated invasions by Western powers. He highlights that the expansion of NATO, the abandonment of nuclear arms control treaties by the US, and Western interference in Ukraine’s politics have all contributed to Russia’s current posture. The EU’s alignment with US policy, including sanctions and military build-up, has led to significant economic costs, such as a sharp decline in exports to Russia and soaring energy prices, which have particularly impacted German industry.
+  The most significant new development is the explicit acknowledgment by Western officials and institutions of Israel’s intent in Gaza. **Jeffrey Sachs** highlights that even former U.S. Ambassador to Israel Jack Lew, a staunch supporter of Israel, has publicly confirmed that elements within the Netanyahu government are pursuing policies of starvation and annexation in Gaza. This admission, Sachs notes, is “confirmation of Israel’s genocidal intent,” and could serve as evidence in upcoming International Court of Justice proceedings. The Israeli cabinet’s ongoing policy—summed up by the pledge that “not a drop of water, not a drop of milk, and not a drop of fuel will go from Israel to Gaza”—remains unchanged, despite mounting international pressure.
   
-  On the policy front, Sachs calls for a fundamental reassessment: direct diplomatic engagement with Moscow, a negotiated settlement in Ukraine that acknowledges Russian security concerns and pragmatic territorial adjustments, and a clear separation of EU foreign policy from NATO’s military agenda. He also urges Europe to reject militarization of relations with China and to focus on economic and climate cooperation instead. Sachs warns that Europe’s current trajectory—escalating military spending and cutting ties with both Russia and China—risks economic stagnation and increased vulnerability, not just to Russia but potentially to the US itself, should transatlantic relations deteriorate further.
+  Diplomatic isolation of Israel is deepening. France, the United Kingdom, Australia, and Canada have all pledged to recognize the State of Palestine at the upcoming UN General Assembly in September, aligning themselves with the overwhelming global majority. According to a new Reuters poll cited by **Sachs**, 58% of Americans now support UN recognition of Palestine, a dramatic shift that is likely to influence U.S. policy in the near future.
   
-  In the Middle East, the ongoing crisis remains closely tied to the lack of progress on a two-state solution for Israel and Palestine. Sachs reiterates that the absence of Palestinian statehood is the central driver of instability, with Israel’s far-right government pursuing a strategy of regional dominance and regime change, often drawing the US into conflict. Recent US diplomatic overtures under President Trump, including direct talks with Iran and Hamas and a ceasefire with the Houthis, signal a shift toward pragmatic deal-making, but the core issue remains unresolved: US support for Palestinian admission to the United Nations as a sovereign state.
+  On the U.S. front, President Trump’s ambitions for a Nobel Peace Prize are now tied not only to Ukraine but also to ending U.S. complicity in Gaza. Sachs argues that “the genocide can, and will, stop if Trump wills it,” emphasizing that only decisive U.S. action—specifically, lifting the veto on Palestine’s UN membership—can force a change in Israeli policy. The upcoming UN Security Council vote on Palestine’s permanent membership is seen as a potential turning point. Sachs asserts with high confidence that “peace in the Middle East is possible now—and there is no time to lose,” provided the U.S. shifts its stance.
   
-  The broader trend, as identified by Sachs, is a growing global consensus—across the UN, Arab League, and Organization of Islamic Cooperation—on the necessity of a two-state solution and the end of Israeli occupation. However, Israel’s continued intransigence, backed by US veto power at the UN, perpetuates conflict and risks further escalation, including the possibility of a wider regional war involving Iran.
+  In Europe, the debate over foreign policy is intensifying. Sachs contends that the EU’s current approach—marked by subservience to U.S. interests and a persistent fear of Russia—is economically and strategically self-defeating. He argues that the narrative of Russian expansionism is “naïve, ahistorical, and propagandized,” and that Europe’s refusal to engage in direct diplomacy with Moscow is causing unnecessary economic harm and increasing the risk of war. Sachs calls for a new European foreign policy based on direct engagement with Russia, rejection of NATO’s eastward expansion, and a renewed focus on economic cooperation with both Russia and China.
   
-  **Predictions:**  
-  - There is a high chance (“I guarantee”) that without a fundamental shift in European foreign policy—toward direct diplomacy with Russia and a reduction in military dependency on the US—Europe will face continued economic stagnation and heightened security risks.
-  - In the Middle East, unless the US lifts its veto on Palestinian statehood and supports a comprehensive peace deal, the region will remain unstable, with a high chance of further conflict and diplomatic isolation for Israel.
-  - Sachs asserts that a negotiated settlement in Ukraine, based on neutrality and pragmatic territorial compromise, is “most definitely” achievable if Europe and the US prioritize diplomacy over militarization.
-  
-  Overall, the dominant trend is a growing recognition among independent analysts that current Western strategies—both in Europe and the Middle East—are unsustainable and counterproductive, and that only a return to diplomacy and respect for international law can restore stability and security.
+  Looking ahead, the trends point to a likely recognition of Palestinian statehood by key Western powers in September, a possible U.S. policy shift under Trump, and growing pressure on Israel to accept a two-state solution. In Europe, unless current policies change, economic stagnation and diplomatic isolation may worsen. Sachs predicts with high confidence that only a decisive break from current U.S. and Israeli strategies—centered on diplomacy and respect for international law—can restore stability and security in both the Middle East and Europe.
 articles:
+  - title: The US Can End the Gaza Genocide Now
+    url: https://www.commondreams.org/opinion/how-to-end-gaza-genocide
+    text: 'President Donald Trump wants a Nobel Peace Prize, and his efforts toward
+      peace in Ukraine, if successful, could possibly help him earn one—but only if
+      he also ends US complicity in the ongoing genocide in Gaza. Under Trump, as under
+      former President Joe Biden, the US has served as Israel’s partner in mass murder,
+      annexation, starvation, and the escalating torment of millions of Palestinians.
+      The genocide can, and will, stop if Trump wills it. So far he has not.
+
+
+      Israel is committing genocide—everyone knows it, even its staunchest defenders.
+      The Israeli human rights organization B’Tselem has recently made a poignant acknowledgment
+      of “ Our Genocide .” In Foreign Affairs, former U.S. Ambassador to Israel Jack
+      Lew recently admitted that extremist parties in Netanyahu’s government openly
+      aim to starve Palestinians in Gaza. Lew frames his piece as praise for the former
+      Biden administration (and for himself) for their supposedly valiant efforts to
+      prevent mass starvation by pressuring Israel to allow minimal food entry, while
+      blaming Trump for easing that pressure.
+
+
+      The US aids and protects Israel every day in these horrific crimes against the
+      Palestinian people.
+
+
+      Yet the actual importance of the piece is that an ardent Zionist insider certifies
+      the genocidal agenda sustaining Netanyahu’s rule. Lew recounts that in the aftermath
+      of October 7, Israelis frequently pledged that “not a drop of water, not a drop
+      of milk, and not a drop of fuel will go from Israel to Gaza,” a stance that still
+      shapes Israel’s cabinet policy. The International Court of Justice (ICJ) can use
+      Lew’s article as confirmation of Israel’s genocidal intent.
+
+
+      The genocide in Gaza, coupled with the annexation in the West Bank, aims to fulfill
+      the Likud vision of a Greater Israel that exercises territorial control between
+      the Sea and Jordan. This will destroy any possibility of a Palestinian state,
+      and any possibility of peace. Indeed, Bezalel Smotrich, the extremist minister
+      of finance and minister in the ministry of defense, recently vowed to “permanently
+      bury the idea of a Palestinian state” while the Knesset has recently called for
+      annexation of the occupied West Bank .
+
+
+      The US aids and protects Israel every day in these horrific crimes against the
+      Palestinian people. The US provides billions of dollars in military support ,
+      goes to war alongside Israel, and offers diplomatic cover for Israel’s crimes
+      against humanity. The vacuous mantra that “Israel has the right to defend itself”
+      is the US pat excuse for Israel’s mass murder and starvation of innocent civilians.
+
+
+      Generations of historians, psychologists, sociologists, philosophers, and inquiring
+      minds will ask how the descendants and co‑religionists of the Jews murdered by
+      Hitler’s genocidal regime came to become genocidaires. Two factors, deeply intertwined,
+      come to the fore.
+
+
+      First, the Nazi Holocaust lent credence among Jews to the Zionist claim that only
+      a state with overwhelming military power and ready to use it can protect the Jewish
+      people. For these militarists, every Arab country opposed to Israel’s ongoing
+      occupation of Palestine became a dire foe to be crushed by war. This is Netanyahu’s
+      doctrine of violence, which was first unveiled in the Clean Break strategy , and
+      which has produced nonstop Israeli mobilization and war, and a society now gripped
+      by implacable hatred even of innocent women and children in Palestine, Lebanon,
+      and Syria. Netanyahu has dragged the US into countless devastating and futile
+      wars out of Netanyahu’s blindness to the reality that only diplomacy, not war,
+      can achieve Israel’s security.
+
+
+      Second, this non-stop resort to violence reignited a dormant strain of Biblical
+      Judaism, notably based on the Book of Joshua, which presents God’s covenant with
+      Abraham as justification for genocides committed in conquering the Promised Land.
+      Ancient zealotry of this kind, and the belief that God would redeem his chosen
+      people through violence, fueled suicidal revolts against the Roman Empire between
+      66 and 135 AD. Whether the genocides in the Book of Joshua ever occurred (probably
+      not ) is beside the point. For today’s zealots, the license to commit genocide
+      is vivid, immediate, and biblically ordained.
+
+
+      Netanyahu has dragged the US into countless devastating and futile wars out of
+      Netanyahu’s blindness to the reality that only diplomacy, not war, can achieve
+      Israel’s security.
+
+
+      Aware of the danger of self-destructive zealotry, the rabbis who shaped the Babylonian
+      Talmud proscribed Jews from attempting to return en masse to the promised land
+      (Ketubot 111a). They taught that Jews should live in their own communities and
+      fulfill God’s commandments where they are, rather than seeking to recapture a
+      land from which they had been exiled following decades of suicidal revolt.
+
+
+      Whatever the fundamental reasons for Israel’s murderous turn, Israel’s survival
+      among nations is at risk today as it has become a pariah state. For the first
+      time in history, Israel’s Western allies have repudiated Israel’s violent ways.
+      France , the United Kingdom , Australia , and Canada have each pledged to formally
+      recognize the State of Palestine at the upcoming UN General Assembly in September.
+      These countries will finally join the will of the overwhelming global majority
+      in recognizing that the two-state solution, enshrined in international law, is
+      the true guarantor of peace.
+
+
+      The majority of the American people , are rightly revulsed by Israel’s brutality
+      and are also turning their support massively to the Palestinian cause. In a new
+      Reuters poll released today, 58% of Americans now believe that the UN should recognize
+      the State of Palestine, against just 32% who oppose that. American politicians
+      will surely note the change, at Israel’s peril, unless the two-state solution
+      is rapidly implemented. (Logical arguments can also be given for a peaceful one-state,
+      bi-national solution, but this alternative has essentially no backing among UN
+      member states and no basis in the international law regarding the Israel-Palestine
+      conflict that has developed over more than seven decades.)
+
+
+      This Israeli government will not change course on its own. Only the Trump administration
+      can end the genocide through a comprehensive settlement agreed by the world’s
+      nations at the UN Security Council and UN General Assembly. The solution is to
+      stop the genocide, make peace, and salvage Israel’s standing in the world by creating
+      a Palestinian state alongside Israel on the June 4, 1967 borders.
+
+
+      Trump must force Israel to see reality: that Israel cannot continue to rule over
+      the Palestinian people, murder them, starve them, and ethnically cleanse them.
+
+
+      For decades, the entire Arab and Islamic world has supported the two-state solution,
+      and advocated to normalize relations with Israel and guarantee security for the
+      entire region. This solution is in full accordance with international law, and
+      was again espoused clearly by the UN General Assembly in the NY Declaration last
+      month at the conclusion of the United Nations High-Level International Conference
+      on the Peaceful Settlement of the Question of Palestine and the Implementation
+      of the Two-State Solution (July 29, 2025).
+
+
+
+
+      Trump has come to understand that to save Ukraine, he must force it to see reality:
+      that NATO cannot expand to Ukraine as that would directly threaten Russia’s own
+      security. In the same way, Trump must force Israel to see reality: that Israel
+      cannot continue to rule over the Palestinian people, murder them, starve them,
+      and ethnically cleanse them. The two-state solution thereby saves both Palestine
+      and Israel.
+
+
+      An immediate UN Security Council vote to grant Palestine permanent membership
+      in the UN next month would put an end to Israel’s zealous delusions of permanent
+      control over Palestine, as well as its reckless territorial ambitions in Lebanon
+      and Syria. The focus of the crisis would then shift to immediate and practical
+      issues: how to disarm non-state actors within the framework of the new state and
+      regional peace, how to enable mutual security for Israel and Palestine, how to
+      empower the Palestinians to govern effectively, how to finance the reconstruction,
+      and how to provide urgent humanitarian assistance to a starving population.
+
+
+      Trump can make this happen at the UN in September. The US, and only the US, has
+      vetoed the permanent membership of Palestine in the UN. The other members of the
+      UN Security Council have already signaled their support.
+
+
+
+
+      Peace in the Middle East is possible now—and there is no time to lose.'
+    one_sentence_summary: The article argues that President Trump could potentially
+      earn a Nobel Peace Prize by successfully advocating for peace in Ukraine and ending
+      U.S. complicity in the genocide in Gaza, which is perpetuated by Israel with U.S.
+      support, while emphasizing the urgent need for a two-state solution to resolve
+      the Israeli-Palestinian conflict.
+    paragraph_summary: The article argues that President Donald Trump’s potential for
+      receiving a Nobel Peace Prize hinges on his ability to facilitate peace in Ukraine
+      while also addressing the ongoing genocide in Gaza, which the U.S. has supported
+      through military aid to Israel. It highlights the acknowledgment of genocide by
+      Israeli human rights organizations and former U.S. officials, emphasizing that
+      Israel's policies aim to eliminate the possibility of a Palestinian state. The
+      piece critiques the U.S. for its complicity in Israel's actions, which are framed
+      as a continuation of historical violence justified by a militaristic interpretation
+      of Zionism. It calls for a two-state solution as the only viable path to peace,
+      urging Trump to leverage U.S. influence at the UN to recognize Palestine and halt
+      Israeli aggression. The article concludes that immediate action is necessary to
+      prevent further suffering and to restore Israel's standing in the global community.
+    published: '2025-08-20T13:54:30+00:00'
   - title: A New Foreign Policy for Europe
     url: https://www.cirsd.org/en/horizons/horizons-summer-2025--issue-no-31/a-new-foreign-policy-for-europe
     text: 'A New Foreign Policy for Europe
