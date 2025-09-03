@@ -7,16 +7,64 @@ description: "Swedish peace researcher and co–founder of Transnational Foundat
 websites:
   - https://transnational.live/
 summary: |
-  As of August 27, 2025, the geopolitical landscape remains marked by persistent challenges to peace, the evolving role of international institutions, and shifting dynamics in conflict regions. Recent independent analysis by **Jan Oberg** emphasizes the urgent need for creative, future-oriented approaches to global crises, warning that mere criticism without constructive solutions is insufficient for meaningful change.
+  As of early September 2025, the international geopolitical landscape continues to be shaped by persistent conflicts, shifting narratives, and debates over institutional effectiveness. Recent commentary by **Jan Oberg** and contributors highlights several key developments and ongoing trends.
   
-  A key development is the mounting public and political pressure in Europe for the recognition of a Palestinian state. According to **Jan Oberg**, Britain—long implicated in the origins of the Israeli-Palestinian conflict—is now poised to formally recognize Palestinian statehood. This shift is attributed to sustained advocacy and changing public sentiment, signaling a potential turning point in European policy toward the Middle East. Oberg notes, "growing public pressure in Europe and beyond is compelling politicians to shift their stance," suggesting that further recognitions by other European states are "most definitely" likely in the near future.
+  A central issue remains the portrayal of the Gaza conflict in Western media. **Richard Falk**, cited by Oberg, critiques the recent New York Times column by Thomas Friedman for what he describes as a misleading and partial representation of the situation in Gaza. Falk argues that such coverage fails to adopt a peace-oriented and justice-based perspective, instead reinforcing entrenched narratives that hinder genuine conflict resolution. This critique underscores a broader concern among independent analysts about the Western liberal media’s reluctance to engage with the complexities of the conflict and the lived realities of Palestinians.
   
-  Meanwhile, the United Nations, now marking its 80th anniversary, faces existential questions about its relevance and effectiveness. **Oberg** argues that the UN remains humanity’s most vital organization, but its capacity is being "deliberately destroyed" by member states prioritizing militarism over multilateral cooperation. The editorial underscores the risk that, without renewed commitment to the UN system, global governance could further fragment, with "high chance" of continued institutional erosion unless member states reverse current trends.
+  In the context of international institutions, the United Nations’ 80th anniversary has prompted reflection on its role and challenges. **Jan Oberg** asserts that while the UN remains humanity’s most important organization, its effectiveness is being deliberately undermined by member states prioritizing militarism over multilateral cooperation. This erosion, Oberg warns, threatens the UN’s capacity to address global crises, including those in the Middle East and beyond.
   
-  In a related context, global dialogues—such as those between **Professor Zhang Weiwei** and Oberg—highlight the importance of cross-cultural engagement and diverse perspectives in addressing international challenges. These exchanges are increasingly seen as essential for fostering mutual understanding and innovative solutions, particularly as geopolitical competition intensifies.
+  Meanwhile, the recognition of Palestinian statehood is gaining momentum in Europe. Oberg notes that public pressure is compelling political leaders, particularly in Britain, to reconsider their historical positions. He suggests that Britain’s anticipated recognition of a Palestinian state is a direct response to both domestic and international demands for justice and accountability in the Israeli-Palestinian conflict.
   
-  Looking ahead, the prevailing trend is a slow but discernible shift toward more inclusive and constructive international engagement, driven by civil society and select political actors. However, without a decisive move away from militarism and toward genuine multilateralism, the prospects for lasting peace and effective global governance remain uncertain. There is a "high chance" that incremental progress will continue, but a "guarantee" of transformative change will require a fundamental reorientation of priorities among the world’s leading powers.
+  Looking forward, the majority of independent analysts cited by Oberg predict with high confidence that media narratives will continue to be contested, with increasing calls for more balanced and future-oriented reporting. There is also a high chance that the trend toward recognizing Palestinian statehood in Europe will accelerate, especially as public opinion exerts greater influence on policymakers. However, the effectiveness of the UN is expected to remain constrained unless member states shift away from militaristic priorities—a development that, according to Oberg, is quite unlikely in the near term.
+  
+  In summary, the current geopolitical moment is marked by critical scrutiny of media narratives, renewed debates over institutional legitimacy, and significant shifts in European policy toward Palestine. These trends are likely to persist, shaping the international agenda in the months ahead.
 articles:
+  - title: 'The Western Liberal Media New Messaging on Gaza: A Critique from the Perspective
+      of Peace and Justice Journalism'
+    url: https://transnational.live/2025/09/02/the-western-liberal-media-new-messaging-on-gaza-a-critique-from-the-perspective-of-peace-and-justice-journalism/
+    text: 'Richard Falk, Professor emeritusTFF Associate since 1986 September 2, 2025
+      A slightly modified version of a text published on Sept. 1, 2025 in TMS. On August
+      25 Thomas Friedman, always a weathervane for political and economic establishment
+      thinking in the West, wrote a notable column in the NY Times that was pragmatic
+      in tone, misleading in substance, […] The post The Western Liberal Media New Messaging
+      on Gaza: A Critique from the Perspective of Peace and Justice Journalism appeared
+      first on The Transnational .'
+    one_sentence_summary: Richard Falk critiques Thomas Friedman's recent New York Times
+      column for its misleading portrayal of the Gaza situation, highlighting the need
+      for a more peace-oriented and just perspective in Western liberal media narratives.
+    paragraph_summary: In his article, Richard Falk critiques a recent column by Thomas
+      Friedman in the New York Times, which he views as emblematic of the Western liberal
+      media's shifting narrative regarding Gaza. Falk argues that while Friedman adopts
+      a pragmatic tone, the underlying substance of his message is misleading, reflecting
+      a broader trend in media that prioritizes establishment perspectives over genuine
+      peace and justice journalism. This critique highlights the need for more accurate
+      and compassionate representations of the conflict, emphasizing the importance
+      of understanding the complexities involved rather than succumbing to simplistic
+      or biased portrayals.
+    published: '2025-09-02T09:33:09+00:00'
+  - title: 'The Western Liberal Media New Messaging on Gaza: A Critique from the Perspective
+      of Peace and Justice Journalism'
+    url: https://transnational.live/2025/09/02/the-western-liberal-media-new-messaging-on-gaza-a-critique-from-the-perspective-of-peace-and-justice-journalism/
+    text: 'Richard Falk, Professor emeritusTFF Associate since 1986 September 2, 2025
+      A slightly modified version of a text published on Sept. 1, 2025 in TMS. On August
+      25 Thomas Friedman, always a weathervane for political and economic establishment
+      thinking in the West, wrote a notable column in the NY Times that was pragmatic
+      in tone, misleading in substance, […] The post The Western Liberal Media New Messaging
+      on Gaza: A Critique from the Perspective of Peace and Justice Journalism appeared
+      first on The Transnational .'
+    one_sentence_summary: Richard Falk critiques Thomas Friedman's recent New York Times
+      column for its misleading portrayal of the Gaza situation, highlighting the need
+      for a more peace-oriented and just perspective in Western liberal media narratives.
+    paragraph_summary: In his article, Richard Falk critiques a recent column by Thomas
+      Friedman in the New York Times, which he views as emblematic of the Western liberal
+      media's shifting narrative regarding Gaza. Falk argues that while Friedman adopts
+      a pragmatic tone, the underlying substance of his message is misleading, reflecting
+      a broader trend in media that prioritizes establishment perspectives over genuine
+      peace and justice journalism. This critique highlights the need for more accurate
+      and compassionate representations of the conflict, emphasizing the importance
+      of understanding the complexities involved rather than succumbing to simplistic
+      or biased portrayals.
+    published: '2025-09-02T09:33:09+00:00'
   - title: “If You Want Peace, Be Creative and Focus on The Future.”
     url: https://transnational.live/2025/08/21/if-you-want-peace-be-creative-and-focus-on-the-future/
     text: People’s criticism without offering any solutions and their focus on the past

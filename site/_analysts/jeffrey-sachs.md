@@ -8,17 +8,34 @@ websites:
   - https://www.commondreams.org/author/jeffrey-d-sachs
   - https://www.jeffsachs.org/newspaper-articles
 summary: |
-  The geopolitical landscape remains dominated by the ongoing crisis in the Middle East and the shifting dynamics of European foreign policy. Recent developments underscore a growing international consensus against Israel’s current course, as well as increasing calls for a recalibration of Western, especially European, approaches to Russia and China.
+  The geopolitical landscape remains dominated by the ongoing crises in the Middle East and Europe, with new developments highlighting the deepening isolation of Israel, shifting US policy calculations, and the urgent need for a diplomatic reset in Europe’s relations with Russia and China.
   
-  The most significant new development is the explicit acknowledgment by Western officials and institutions of Israel’s intent in Gaza. **Jeffrey Sachs** highlights that even former U.S. Ambassador to Israel Jack Lew, a staunch supporter of Israel, has publicly confirmed that elements within the Netanyahu government are pursuing policies of starvation and annexation in Gaza. This admission, Sachs notes, is “confirmation of Israel’s genocidal intent,” and could serve as evidence in upcoming International Court of Justice proceedings. The Israeli cabinet’s ongoing policy—summed up by the pledge that “not a drop of water, not a drop of milk, and not a drop of fuel will go from Israel to Gaza”—remains unchanged, despite mounting international pressure.
+  **Mounting International Pressure on Israel and the US Role**
   
-  Diplomatic isolation of Israel is deepening. France, the United Kingdom, Australia, and Canada have all pledged to recognize the State of Palestine at the upcoming UN General Assembly in September, aligning themselves with the overwhelming global majority. According to a new Reuters poll cited by **Sachs**, 58% of Americans now support UN recognition of Palestine, a dramatic shift that is likely to influence U.S. policy in the near future.
+  The humanitarian catastrophe in Gaza continues, with **Jeffrey Sachs** asserting that “Israel is committing genocide—everyone knows it, even its staunchest defenders.” He points to recent admissions by Israeli and US officials, including former Ambassador Jack Lew, that Israel’s cabinet policy is to deny basic necessities to Gaza, confirming the intent behind current actions. The International Court of Justice is expected to use such statements as evidence of genocidal policy.
   
-  On the U.S. front, President Trump’s ambitions for a Nobel Peace Prize are now tied not only to Ukraine but also to ending U.S. complicity in Gaza. Sachs argues that “the genocide can, and will, stop if Trump wills it,” emphasizing that only decisive U.S. action—specifically, lifting the veto on Palestine’s UN membership—can force a change in Israeli policy. The upcoming UN Security Council vote on Palestine’s permanent membership is seen as a potential turning point. Sachs asserts with high confidence that “peace in the Middle East is possible now—and there is no time to lose,” provided the U.S. shifts its stance.
+  A significant shift is underway among Western allies: France, the UK, Australia, and Canada have all pledged to recognize the State of Palestine at the upcoming UN General Assembly in September. This move signals the collapse of Israel’s traditional diplomatic shield in the West and reflects a broader global consensus in favor of a two-state solution. Domestically, US public opinion is also shifting, with a new Reuters poll showing 58% of Americans now support UN recognition of Palestine.
   
-  In Europe, the debate over foreign policy is intensifying. Sachs contends that the EU’s current approach—marked by subservience to U.S. interests and a persistent fear of Russia—is economically and strategically self-defeating. He argues that the narrative of Russian expansionism is “naïve, ahistorical, and propagandized,” and that Europe’s refusal to engage in direct diplomacy with Moscow is causing unnecessary economic harm and increasing the risk of war. Sachs calls for a new European foreign policy based on direct engagement with Russia, rejection of NATO’s eastward expansion, and a renewed focus on economic cooperation with both Russia and China.
+  **US Policy at a Crossroads**
   
-  Looking ahead, the trends point to a likely recognition of Palestinian statehood by key Western powers in September, a possible U.S. policy shift under Trump, and growing pressure on Israel to accept a two-state solution. In Europe, unless current policies change, economic stagnation and diplomatic isolation may worsen. Sachs predicts with high confidence that only a decisive break from current U.S. and Israeli strategies—centered on diplomacy and respect for international law—can restore stability and security in both the Middle East and Europe.
+  President Trump’s ambitions for a Nobel Peace Prize and his desire to end the Ukraine war are now directly linked to his willingness to halt US complicity in Gaza. **Sachs** argues that “only the Trump administration can end the genocide through a comprehensive settlement agreed by the world’s nations at the UN Security Council and UN General Assembly.” The US remains the sole veto on Palestine’s permanent UN membership; all other Security Council members have signaled support.
+  
+  The Arab and Islamic world, along with the overwhelming majority of UN member states, continue to back the two-state solution as the only viable path to peace. The upcoming UN Security Council vote on Palestine’s membership is seen as a potential turning point that could force Israel to abandon its expansionist ambitions and open the door to regional stabilization.
+  
+  **Europe’s Strategic Dilemma and the Need for a New Foreign Policy**
+  
+  In parallel, Europe faces an urgent need to reassess its foreign policy. **Sachs** details how Europe’s “dangerous hostility with Russia, mutual distrust with China, and extreme vulnerability to the United States” have led to economic stagnation and increased security risks. The narrative of an existential Russian threat, he argues, is historically unfounded and has trapped Europe in a cycle of militarization and dependency on the US.
+  
+  The Ukraine war and the rupture with Russia have severely damaged Europe’s economy, with exports to Russia plummeting and energy costs soaring. Germany’s call for a permanent ban on Russian gas is described as “almost an economic suicide pact.” Sachs calls for Europe to open direct diplomatic channels with Moscow, prepare for a negotiated peace in Ukraine, and reject militarization of relations with China.
+  
+  **Trends and Predictions**
+  
+  - There is a **high chance** that the upcoming UN General Assembly will see a wave of Western recognition for the State of Palestine, further isolating Israel diplomatically.
+  - If the US lifts its veto on Palestine’s UN membership, **I guarantee** a rapid shift toward a two-state solution and a possible end to the Gaza crisis.
+  - Europe’s current trajectory of economic decline and security dependency is unsustainable; a diplomatic reset with Russia and China is **quite likely** within the next two years if current trends persist.
+  - The US is at a pivotal moment: Trump’s legacy and America’s global standing now hinge on decisive action to end the Gaza war and support Palestinian statehood.
+  
+  In summary, the international consensus for a two-state solution is stronger than ever, while Israel’s isolation grows and US policy faces a critical test. Europe, meanwhile, must urgently recalibrate its foreign policy to avoid further economic and security decline. The coming months, particularly the September UN meetings, are poised to be decisive for the region and the world.
 articles:
   - title: The US Can End the Gaza Genocide Now
     url: https://www.commondreams.org/opinion/how-to-end-gaza-genocide

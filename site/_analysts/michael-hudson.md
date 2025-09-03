@@ -8,21 +8,1998 @@ websites:
   - https://michael-hudson.com/
   - https://geopoliticaleconomy.com/author/michael-hudson/
 summary: |
-  As of August 27, 2025, the geopolitical landscape continues to be shaped by escalating tensions between the United States, its NATO allies, and Russia, as well as ongoing shifts in global economic power structures. The latest analyses from **Michael Hudson** highlight several key developments.
+  As the global order continues to shift in early September 2025, economic and geopolitical fault lines are becoming increasingly pronounced. The collapse of Ukraine as a NATO proxy and the subsequent pivot of Western strategy, alongside deepening financial imbalances in the West, are shaping the next phase of international relations.
   
-  The most immediate concern centers on the upcoming meeting between Donald Trump and Russian leadership. According to **Hudson**, there is mounting pressure from European NATO leaders on Trump, not to seek a diplomatic resolution, but to adopt an aggressive posture—potentially even to "declare war" rather than negotiate. This marks a significant escalation in rhetoric and intent, reflecting a broader Western consensus that the conflict in Ukraine has reached a critical juncture. **Hudson** asserts that this approach is driven by NATO's perceived defeat in Ukraine, with the alliance now seeking to reassert its position through confrontation rather than compromise.
+  **NATO’s Strategic Realignment Post-Ukraine**
   
-  On the economic front, the dominance of large investment firms such as Blackstone in the housing markets of the US and other Western countries is exacerbating social instability. **Hudson** notes that this trend is leading to "skyrocketing rents and increased homelessness," a phenomenon that is no longer confined to the US but is spreading across Western economies. This consolidation of property ownership by financial giants is contributing to growing inequality and social discontent.
+  Following the effective collapse of Ukraine as a Western-backed front, **Michael Hudson** notes that recent diplomatic meetings reveal a clear shift in NATO’s focus. According to Hudson, “Trump is steering NATO towards new proxy wars following the collapse of Ukraine, suggesting a shift in focus away from the conflict as Russia is poised to take control.” This marks a significant recalibration of Western military priorities, with the U.S. and its allies now seeking new theaters for proxy confrontation. The majority of analysts agree that the Ukraine conflict is no longer central to NATO’s agenda, and that the alliance is actively preparing for engagement elsewhere.
   
-  Meanwhile, the global financial order is experiencing further strain. In discussions with **Richard Wolff**, **Hudson** points to the BRICS nations' challenge to US dollar hegemony and Trump's response—threatening tariffs on BRICS members—as evidence of a shift from free trade to more protectionist, confrontational economic policies. This shift is likely to accelerate the fragmentation of the global economic system, with non-Western countries increasingly seeking alternatives to the US-dominated order.
+  **Economic Pressures and the Role of Debt**
   
-  **Trends and Predictions:**  
-  - There is a high chance that the US and NATO will continue to escalate their stance against Russia, with diplomatic solutions becoming less likely in the near term.
-  - The consolidation of housing markets by investment firms is most definitely set to worsen social inequality and instability in Western countries.
-  - The global move away from dollar hegemony is quite likely to continue, with BRICS and other Global South nations pursuing greater economic sovereignty.
+  Drawing parallels with the decline of ancient societies, **Michael Hudson** emphasizes the destabilizing impact of debt on modern economies. In his latest analysis, he warns that the “significant role of debt in the histories of ancient Greece and Rome” is being echoed in the U.S. and Europe today. The dominance of large investment firms in the housing market, particularly Blackstone, has led to rising rents and increased homelessness—a trend now visible across much of the Western world. This concentration of economic power is exacerbating social tensions and undermining economic stability.
   
-  In summary, the current trajectory points toward increased geopolitical confrontation, deepening social divides in the West, and a gradual but persistent erosion of US-led economic dominance.
+  **Predictions and Trends**
+  
+  Looking ahead, the prevailing view among independent analysts is that the U.S. and NATO will most definitely continue to seek new geopolitical flashpoints to maintain global influence, with high confidence that Ukraine will recede from the headlines as Russia consolidates control. Economically, the West faces a high chance of further instability as debt burdens mount and wealth becomes increasingly concentrated. The echoes of past imperial collapses are growing louder, suggesting that without structural reforms, the current trajectory is unsustainable.
+  
+  In summary, the West is entering a period of strategic and economic uncertainty, with new proxy conflicts likely to emerge and internal financial pressures threatening long-term stability.
 articles:
+  - title: Rome’s Arc, America’s Echo
+    url: https://michael-hudson.com/2025/09/romes-arc-americas-echo/
+    text: 'Letters & Politics – KPFA MITCH JESERICH: Good day and welcome to Letters
+      and Politics. I’m Mitch Jeserich. Today we return to the topic of the ancient
+      world for a conversation about how economic forces shaped ancient societies and
+      how they may have brought on their collapse. My guest for this is economist Michael
+      Hudson. Michael Hudson is the author of the book that we’ll be in conversation
+      about, called The Collapse of Antiquity. Michael Hudson is president of the Institute
+      for the Study of Long-Term Economic Trends and distinguished research professor
+      of economics at the University of Missouri, Kansas City. Michael Hudson, it is
+      my very good pleasure to welcome you to this program. MICHAEL HUDSON: Well, thank
+      you for having me on. MITCH JESERICH: Debt plays a key role in the story that
+      you tell and how economic forces shape ancient societies, especially about ancient
+      Greece and Rome. As we begin, can you talk to me about what’s important to understand
+      about, I guess, the nature of debt in the ancient world? MICHAEL HUDSON: Well,
+      the nature of debt really is what makes Western civilization different from everything
+      that went before. Early civilization was very stable from the Bronze Age. You
+      had royal kingdoms, you had a general role of what’s called divine kingship. In
+      other words, these were kings that ruled in conjunction with the temples, and
+      their role was basically to prevent an oligarchy from developing. They wanted
+      to maintain balance. They wanted to maintain the citizenry with enough land of
+      its own to be able to fight in the army and to provide corvée duties on basic
+      infrastructure, building walls, digging canals, etc. Every ruler of the Babylonian
+      dynasty and the Sumerian dynasty before the Egyptian pharaohs and other Near Eastern
+      realms all started their reigns with a clean slate. The clean slate canceled the
+      debts that were outstanding. Most were owed to the government itself and to the
+      palaces and temples. And they freed the bondservants who’d pledged their labor
+      to work for the creditors, and they returned land that had been forfeited. So
+      they maintained a fairly steady equilibrium, and the role of kings was to provide
+      order and preserve economic balance. This is what did not exist in classical antiquity.
+      The Bronze Age was very stable, but it came to an end throughout the Eastern Mediterranean
+      around 1200 BC when there was really bad weather, there was climate change, and
+      that set populations in motion. The populations of Greece and the Eastern Mediterranean
+      plunged. The land became depopulated. The linear writing that the Mycenaean Greeks
+      had developed for their palace accounting disappeared, and so did palace power.
+      MITCH JESERICH: It was known as a dark age. MICHAEL HUDSON: Yes, a dark age, from
+      about 1200 BC to about 750 BC. So you had local mafia states developing. The historians
+      of this period say, well, there was no rule. So the local palace administrators
+      of Greece just said, well, I’m in charge now. You had warlords taking over. Then
+      further west in Italy and the whole rest of Western Europe, you had basic chieftainship.
+      These chieftainships didn’t have charging of interest. They didn’t have a single
+      general purpose money. They were not part of the whole economic takeoff of the
+      Near East that provided the origins of money and weights and measures and the
+      charging of interest. Around the mid 8th century BC, 750 BC, you had traders from
+      Syria and Phoenicia begin to move westward to trade. And they set up local temples
+      as chambers of commerce to trade with the Greek city-states and the Italian city-states,
+      Rome and its surrounding states. And they brought these practices of charging
+      interest to the local rulers. I’ll start with Greece because that’s where most
+      of the historical development of the West begins. You had these local autocratic
+      mafia-like states developing throughout all the main city-states. The result was
+      that members of the aristocracy itself – not the highest aristocracy, but e.g.,
+      sort of a distant second cousin – said, well, this is really unfair. We’re having
+      all the wealth concentrated in the hands of these chieftains who’ve used this
+      idea of lending money, charging interest, and saying, well, if you can’t pay,
+      then you have to work for us and you have to give us our land. So you had a totally
+      concentrated autocracy in Athens, Corinth, and Sparta. And each of these city-states
+      had a revolution. In Sparta, they went the furthest. There was such a revulsion
+      of the [unclear] that they abolished money altogether. And they had a kind of
+      pre-Soviet state just allocating: here’s how you’re going to live your life and
+      train for the military. The most advanced city-state was Corinth. And they had
+      a revolution. They overthrew the, I won’t say oligarchy, because it wasn’t an
+      oligarchy. It was just the bosses at the top, the aristocracy. They said, well,
+      either we’re going to cancel the debts and we’re going to redistribute the land…
+      because without giving the population land, they’re not able to serve in the army.
+      They’re not able to provide public services. And we’re giving them land so they
+      can do what a citizen is supposed to do, fight for the country and support us.
+      And if you don’t like this, you can leave and we’ll exile you. That was in the
+      late 7th century by Athenian times. Athens was really the last city to begin to
+      overthrow the oligarchy. And that’s when they appointed Solon as Archon, as everyone
+      knows, around 490 BC. He did not redistribute the land, but he canceled the debts.
+      MITCH JESERICH: Solon was brought on because there was just this great disparity/inequality
+      in Athens, and it was causing strife and a lot of problems. They bring in Solon,
+      who commonly is referred to as the lawgiver, to kind of come up with a new sense
+      of a constitution that would hopefully bring peace back. I think he even promised
+      that he would do land redistribution, but he didn’t do that. But he did cancel
+      the rest. MICHAEL HUDSON: He was very unpopular. And the population as a whole
+      was resentful for the fact that he did not redistribute the land, which the Corinthians
+      and the Spartans did, but he only canceled the debts. That itself was not yet
+      a constitution, but it opened the way to set in motion a whole century of reform
+      that became democracy. The reforms basically were led by Corinth. All of these
+      new rulers/reformers, who overthrew the dictatorships, were called tyrants. Tyrant
+      was a foreign word and it meant person in charge. Later, it took on the meaning
+      of a bad meeting by the propagandists as the oligarchy developed. Because, in
+      each of these areas where there had been an overthrow of royalty or basically
+      the local rulers, you did not have a change in the laws and the constitution –
+      nothing like the Near East, where you had a central ruler empowered to cancel
+      the debts, redistribute the land, and free the debt bond persons. But what the
+      tyrants did do was they opened the way for democracy by using public spending
+      and public investment projects. Solon was followed by tyrants, by Pleisistratus,
+      that developed public spending and began to create a general prosperity. And,
+      at the very end of the century, you had the real Athenian Constitution written
+      by another former aristocrat or member of the aristocratic family, Pleisthenes,
+      who really redesigned Athens’ voting system, attempting to have democracy. MITCH
+      JESERICH: He broke up the aristocratic class, right? In the power structure. MICHAEL
+      HUDSON: He tried to merge all the classes together and sort of merge the wealthy
+      people with the less wealthy classes. A few centuries later, when Aristotle wrote
+      his study of the constitutions of the Greek city-states, he said they call themselves
+      democracies, but they’re actually oligarchies because they’re democracies for
+      votes, but the votes are all controlled by the wealthy people, sort of like the
+      United States today. A similar thing happened in Rome. Rome did not have a revolution
+      to overthrow the existing oligarchs. Rome began as a very underpopulated area
+      near the Tiber River. And the Tiber River was mosquito-laden, as rivers tend to
+      be in the summer in Italy. And so there were not very many people there. The problem
+      of the local leaders of Rome was: how are we going to get citizens? How are we
+      going to build up the population for us to be a power and not be conquered by
+      the Etruscans or by others? According to the Roman historians, the kings made
+      an offer. If you other Italians want to flee your despotic little city-states
+      and come to us because you’re enslaved and you want to run away from bondage,
+      or you want to have land of your own that you’ve lost to the creditors, come to
+      us. We’ll give you your own land. We’ll protect your land. You’ll serve in the
+      army for us. You’ll be public citizens, but we’re going to have a democracy and
+      we’re not going to let a ruling class develop in Rome like the places that you’re
+      fleeing from. And so they were able to attract more and more people. By the end
+      of the sixth century, you even have aristocrats who were from other cities who’d
+      fought for power and lost, and they brought their fortunes to Rome. After Rome
+      had seven or more kings, all of whom repeatedly protected the landowning, the
+      citizenry with its own land prevented the citizenry from losing it and prevented
+      there being the kind of polarization that later developed, the aristocrats got
+      together and overthrew the kings. And they said the kings wanted to be tyrants.
+      They had the usual personal attack on kings, and the aristocracy took over. MITCH
+      JESERICH: I’d like to go back to Aristotle as you talk about this, because he
+      puts up this, I think, very interesting formula that I remember studying many
+      years ago. And that is the nature of power between monarchy, aristocracy, and
+      democracy. Within this cycle, let’s begin with the monarchy. The monarchy is going
+      to decay into tyranny; then that’s going to be so unfavorable that it’s going
+      to be overthrown by the aristocracy, which word I think means the best of the
+      best. Eventually, that decays and becomes an oligarchy. And then people become
+      fed up with that and they overthrow that. And then comes democracy, now people
+      power. But that will also decay into, I think the word is ochlocracy, a sort of
+      mob rule. And then that becomes intolerable, and people desire just normalcy to
+      return back to life. And so they’re ready to once again kind of accept the return
+      of a strong-armed monarch to bring order. MICHAEL HUDSON: That’s pretty much what
+      he said. Remember, he was speaking for a class – basically, for the oligarchy
+      class itself, or for the leaders of his time. It’s not that the rulers became
+      autocratic. The rulers actually were overthrown by the oligarchy. And what Aristotle
+      said was: once the rulers are overthrown and there’s a popular revolution, as
+      there was in every Greek city, this revolution leads to prosperity. And in prosperity,
+      wealthy families develop, and within the democracy an oligarchy develops and so
+      an oligarchy develops until finally there has to be a revolution and that leads
+      to the creation of a new central authority. They called it tyranny or kingship,
+      but it really is an anti-oligarchic revolution. I think the best way of thinking
+      of this is that early civilization before the West protected debtors to maintain
+      balance and maintain their liberty and their land ownership, and to prevent oligarchy.
+      Classical antiquity had pro-creditor laws from the beginning. Despite the fact
+      that there was political democracy (everybody had a vote), the laws favored the
+      creditors and a debt was a debt. It had to be paid. There was no cancellation
+      and debtors had to end up as bondservants to their creditors and they would lose
+      the land. And when Rome went to war and began to conquer more lands, they turned
+      it over to the oligarchy, not to the veterans. So you had a completely different
+      development system. And most people don’t think of antiquity in this form, but
+      you can think of it as an oligarchy versus a kind of, I won’t say royal kingship,
+      but monarchs that acted to achieve what the aim of economic democracy was supposed
+      to be. The kingship or royalty that Aristotle was talking about, historically,
+      was actually protecting the population at large and its landholding and its freedom
+      from bondage from an oligarchy developing. But there was no similar protection
+      in the case of classical antiquity. And in Rome, they gimmicked the voting so
+      that the wealthy classes, the voting was by economic class. And if you were a
+      wealthy member of the top class, your vote was 10 or more, many times the vote
+      of the less wealthy classes. And so basically every election was decided by the
+      votes of the wealthiest classes, and everybody got to vote, but some votes were
+      more important than others. MITCH JESERICH: This is the creation of the Senate.
+      And the Senate, I think the word even means sort of old men, old wealthy men.
+      Let me ask you: I like your argument when it comes to the end of kings in Rome.
+      The traditional story is a story known as rape of Lucretia. And there’s a king,
+      Tarkin, who is overthrown after he rapes Lucretia because people are just outraged
+      by this. But you take on that story about being the end of kingships. MICHAEL
+      HUDSON: Well, that turned history inside out. The reality, we know from all of
+      the complaints of the Roman people, is the aristocrats were raping. All of the
+      raping, all of the violence, and all of the force was by the aristocrats and the
+      oligarchs, by the wealthy people, by the creditors against the debtors. They made
+      a kind of personal attack on Tarquin, whose offense was really trying to prevent
+      the oligarchs from increasing their ability to just turn the population into servitude.
+      So, this rape of Lucretia was designed to depict kings as oppressors, not as protectors
+      of economic order, against the oligarchy. Just as today, you’ll have President
+      Biden say America’s backing democracy, such as we have in Ukraine and in Israel,
+      against autarky, which we have in China and the countries that are achieving rapid
+      growth and prosperity. You have a kind of Orwellian vocabulary and an Orwellian
+      view of history. So there’s been a whole re-examination of Roman history, and
+      you realize the extent to which the history was written by the aristocracy and
+      that became the oligarchy that overthrew the kings from its own point of view.
+      And it’s largely invective: the whole vocabulary of invective and the mythology
+      is invective, representing the kings as being violent. Whereas the whole history
+      of Rome, century after century, was one of a social war in which the oligarchy
+      used political murder on anyone who would try to promote a member of the ruling
+      class or senate or patricians who would promote protection of the debtors or actually
+      enforce the laws preventing a debt from growing beyond a specific amount or charging
+      interest that was illegally high. Anyone who sought to protect the debtors was
+      murdered again and again, from the beginning of the Roman Republic all the way
+      to the assassination of Caesar. You had political assassination and violence.
+      It was sort of like they had their own CIA to a police state. MITCH JESERICH:
+      Wasn’t Brutus who killed Caesar – you know, the famous Et tu Brutus – wasn’t he
+      a debt collector? MICHAEL HUDSON: Well, they all did it together. They all conspired
+      together. Cicero, who was the sort of golden-mouthed spokesman for the wealthy
+      class, wrote a letter saying, oh, I’m so sorry I couldn’t be there to plunge in
+      my own knife. There was a fear when Julius Caesar took over. There had already
+      been yet another debtor revolt by Catiline, by the debtors. The debtors included
+      not only the poor, but a lot of the aristocrats who’d fallen into debt and spent
+      their inheritance and were in danger of losing their own assets and power. This
+      was the fight that Catiline organized. This is presented to students of Rome as
+      the Catiline conspiracy, but it wasn’t a conspiracy. Obviously, they said, we’ve
+      got to organize the revolt in secret so that we can all revolt together. And there
+      was a whole army and there was fighting for decades that went on afterwards. Caesar
+      had been a silent, sort of a quiet supporter of Catiline. And the Senate was worried
+      when Caesar came back to Rome. We could think of him as a liberal social democrat
+      reformer. He was trying to reestablish the economic balance from the very unbalanced
+      Rome, what had become a new Roman aristocracy within the oligarchy, the Roman
+      ruling class. And they were very afraid that he was going to do what Catiline
+      did and cancel the debts. Indeed, Caesar did enact a bankruptcy law, but the bankruptcy
+      was mainly for wealthy individuals who actually could afford to pay the debts
+      but were given a long time to write them off and favorable repayment terms. He
+      didn’t really proceed to a general popular debt cancellation. But they were all
+      worried that that was what he was going to do because that was the whole history
+      for five centuries of the Roman Republic: a long fight by the population at large
+      to free itself from bondage and from running into debt. It was a fight trying
+      to achieve what really would be democracy, a fight against the oligarchy and for
+      democracy. It became apparent that only a strong central ruler, such as Caesar,
+      could do what the Bronze Age rulers had done. And you needed a strong enough government
+      to prevent an oligarchy from developing and indebting the population at large
+      and monopolizing its land. MITCH JESERICH: This is Letters and Politics. We are
+      in conversation with Michael Hudson. Michael Hudson is the president of the Institute
+      for Study of Long-Term Economic Trends and Distinguished Research Professor of
+      Economics at the University of Missouri, Kansas City. He is the author of many
+      books. We’re in conversation about one of them. It’s called The Collapse of Antiquity.
+      In our conversation, I have awareness of it sounding like we’re praising monarchy
+      or kingships here. And we just had what we called a No Kings Day protest here
+      in the United States a couple of weeks ago, where thousands of people across the
+      country protested the sense of having a king and really protesting Donald Trump.
+      I do believe you can have a benevolent king. I believe you can have (hence the
+      term) a benevolent dictator, one who actually is trying to serve the people. But
+      more times than not, that’s not what we end up getting, is it? MICHAEL HUDSON:
+      You’re right. Kingship in the West is not what kingship was in the Bronze Age.
+      [Western] kingship is much more autocratic. [Western] kingship stemmed from warlords
+      conquering the land, and they were backed by the Catholic Church that essentially
+      would go to the Norman warlords and said, well, if you conquer England and pledge
+      fealty to the Pope and Rome – if you agree to let Rome appoint your bishops in
+      charge of all of your finances so that you can send your realm’s finances to Rome
+      – if you pay tribute to Rome – then, we will back your autocratic power against
+      parliamentary reform. And so, when there was an attempt, e.g., in England in 1215,
+      to have the Magna Carta that would enable the parliament to block kings from running
+      into foreign debt to pay for the wars that the Romans supported – instead of excommunicating
+      the practitioners of usury, the pope excommunicated the signers of the Magna Carta
+      for opposing usury. They said, we’re for the divine right of kings, no parliamentary
+      control, as long as they’re loyal to Rome because this is feudalism and there
+      are serfs and they have to do whatever we want. It all began a generation before
+      William the Conqueror in 1066. It began with Robert Guiscard in southern Italy
+      and Sicily, who made a deal with the Pope: well, if you conquer Sicily, we’ll
+      recognize you as the king as long as you paid us tribute and pledged fealty to
+      Rome and let us run your country. And we will give you total power over any reform
+      as long as you serve what we’re doing. That’s the kind of kingship that you had
+      in the West. So kingship here has an understandably negative term because in the
+      West, kingships became what we know that kings do. It’s hereditary, it’s not democratic.
+      The kings had no obligation to promote the welfare of their land. They were self-serving,
+      or they served initially the Catholic Church until about the 14th century when,
+      after the Crusades ended, they began to run into debt to fight their own wars,
+      not for the Vatican and for Rome, but for themselves. All of a sudden, they ended
+      up in two centuries acting as collecting agents for the international banking
+      class that developed from the 14th, 15th, and 16th and into the 17th century.
+      The banking class became the organization, political organizers of Europe in place
+      of the church. So, basically throughout Europe, kings basically acted as empowered
+      to overrule their parliaments and consign all of their tax revenues to pay the
+      creditor class to finance their wars against each other. That’s obviously not
+      the same kind of kingship that you had in antiquity, in the Bronze Age. In the
+      Bronze Age, the kings canceled the debts. In Western civilization, they ran into
+      debt and used their power just autocratically to impose taxes and without any
+      thought at all of promoting public welfare, but just of promoting themselves and
+      their families and the nobility that had inherited the land from the warlord ancestors
+      who conquered their lands. So kingship in the West was completely different. As
+      I mentioned, I have a seven-volume history of debt through the ages. And the first
+      volume, And Forgive Them Their Debts, was all about the origins of economic practices
+      in the ancient Near East, interest and money and all of this, and under a form
+      of stability to prevent an oligarchy. The Collapse of Antiquity shows how Western
+      civilization did not have protection against the oligarchy. It established pro-creditor
+      laws. And even though Rome collapsed, its legal system became the legal system
+      of Western Europe and the whole West. MITCH JESERICH: Well, I want to ask about
+      that because it’s heavily on my mind now. I’ve always been fascinated in studying
+      the history of the Constitution and reading the Federalist Papers and the Anti-Federalist
+      Papers. When you read them, you really feel like what you’re reading is a debate
+      about Roman history and how much they relied on the Roman Republic in coming up
+      with their own system of government. I am also remembering that what led up to
+      the Constitutional Convention was a debt crisis that was playing out across many
+      of the states. You have Shays’ Rebellion occurring, in which states were sort
+      of through popular revolts being forced to cancel debt. The Constitution, at least
+      in part – the Constitutional Convention, anyway, at least in part – was meant
+      to try to stop the debt cancellation from continuing, if I recall correctly. MICHAEL
+      HUDSON: Yes, and taxes levied to pay the debt. You had from the very beginning
+      of the American colonies a kind of creditor oppression of the colonies. England
+      did not permit the colonies to create their own money or create their own credit.
+      They insisted you conduct your transactions from English merchants and English
+      bankers. The bankers began to make loans to farmers with the whole intention…
+      they would make a loan to the farmer ostensibly to be paid out of the crops, but
+      then they’d demand payment before the crops were in and they’d foreclose on the
+      land. The creditors, the English creditors, used credit trying to grab the land
+      from the colonies. That’s why Massachusetts and Pennsylvania said, we’re not going
+      to be subject to British creditors. We’re going to create our own money, our own
+      public money. Alongside that, you had private bankers developing, and the private
+      bankers were so oppressive, just as oppressive as the British lenders had been,
+      that for the whole 19th century, there was so much of a feeling against banks
+      in the United States that the Treasury never really let commercial banking develop.
+      It insisted that tariff revenues be paid in gold, not in paper money. The Treasury
+      really opposed the development of paper money and banking because they thought
+      that the banks were so oppressive. And that was one of the retarding features
+      of the United States, until the Federal Reserve was created specifically to enable
+      the banks to create paper money and take control out of the Treasury, not letting
+      even a Treasury official act on the board of the Federal Reserve and to shift
+      the center of financial control out of Washington to New York City, Chicago, Boston,
+      and other financial centers. So, yes, this financial struggle occurred in the
+      United States against banking in the legal and the whole monetary structure. But
+      I don’t think the founders of the Constitution really understood Roman history
+      except to the extent that it was written by the creditor class. They did not have
+      the scholarship that we now have. MITCH JESERICH: I want to also ask about the
+      fall of the Roman Empire. This is many years after the fall of the Republic, when
+      the Republic was replaced by (we call it an empire) an emperor to rule over Rome,
+      back to a king. They didn’t want to call him a king because they have a tradition
+      of no kings. But the fall of it is interesting. You make this interesting argument
+      in your book, The Collapse of Antiquity, that I never really thought about. I
+      think the common notion of the fall of the Roman Empire – and there are many explanations
+      for it, including environmental ones – was that they were just overrun by these
+      Germanic barbarians, who were ruthless fighters who came in. Your argument is
+      quite different than that. Your argument is that, no, these Germanic invaders,
+      the Vandals, Alaric the Goth: they were welcomed when they came in. MICHAEL HUDSON:
+      They were not invaders, they were hired. The individuals who wanted to be emperor
+      or who wanted to control their own territories hired German fighters. And the
+      German fighters extended all the way through France at that time. They hired the
+      Gallic and German fighters to fight their wars against their rivals. And there
+      was a large defection away from Rome to the German fighters. The Germans then
+      invaded Rome and North Africa, which was Rome’s breadbasket, from Egypt to where
+      St. Augustine was to the west in Hippo. And they took control of North Africa
+      and Rome and were basically established. They got rid of the Roman ruling class
+      that had been so corrupt and depopulated. The fact is, it’s not that the Northern
+      Europeans, the invaders, the troops that were hired and moved in against Rome
+      moved into the kind of Rome that existed centuries earlier. Rome was depopulated
+      because, as you reduce the economy to debt bondage, you’re not going to have a
+      population growth. Feudalism, as it developed in Rome, had sexually segregated
+      barracks. Roman land was divided into big aristocratic estates, and you’d have
+      dormitories for the men, dormitories for the women. You had vast depopulation.
+      The whole economy was polarizing to such an extent of being impoverished that
+      you had Roman philosophers saying, it looks like the Germans have a superior economic
+      organization. They don’t have this kind of bondage. People are moving over to
+      them because they’re less oppressive than the Romans. And so, in a way, you could
+      say these were liberators. All of this came to sort of a head by the fourth century,
+      the fifth century, with St. Augustine, when you had Constantine converted to Christianity.
+      But by making it the state religion, it was the religion of the Roman aristocracy
+      that had come in. The question is: how are they going to get rid of what Jesus
+      said about Christianity? And so you had Augustine call in the Roman troops, and
+      the Romans insisted that the local Christians support the aristocracy and turn
+      in their Bibles. And there was a pro-Roman Christian church and an anti-Roman,
+      and the original Christian church that was all for debt cancellation and protection
+      of debtors. In Hippo, where Augustine was, where there had been these invasions
+      that had taken over large estates, they were called the Donatists. The original
+      Christians were protecting the debtors. And if the aristocrats tried to foreclose,
+      their associates would have armed gangs protecting them. Augustine said, well,
+      you know, we have a problem. And the problem is Jesus’ Sermon on the Mount and
+      the Lord’s Prayer that said, forgive them their debts as we forget their debtors.
+      Augustine said, well, this is not about debt at all. It’s, forgive us our sins.
+      Everybody has an inborn sin from Adam, and you need the church to intercede for
+      you by freeing you from sin, by giving you forgiveness. But he supported the debtors.
+      There were armed fights. He called in the Roman army to turn over the Christian
+      churches to his pro-Roman people and sort of remade Christianity as a creditor-oriented
+      religion, not as a debtor religion. And he had rivals within the Christian church,
+      like Pelagius, saying, well, wait a minute, if you’re a wealthy person and you
+      give your money to the poor and do good work and are a philanthropist, won’t you
+      get into heaven by being a good person? Augustine said, No, no, you have to give
+      it to the church. To the poor – the poor are the church preachers. You have to
+      give it to the poor to support the church to pray for you. You can’t save yourself
+      except by giving money to the church. This is what poisoned Christianity from
+      the beginning and made the fall of the Roman Empire happen to transform the whole
+      character of Christianity in the West. Not so much in Constantinople, not so much
+      in Eastern Orthodox Christianity, but in the West. That’s part of this whole oligarchic
+      takeover and concentration of land ownership, of creditor power that occurred
+      throughout Rome, bequeathed to the West not only through Christianity but through
+      the whole property system, the system of laws and foreclosure on the property
+      and land of debtors to the creditors. All of this was part of the culmination
+      of the way in which the Roman Republic was created from the very beginning as
+      an oligarchy, preventing any public power from controlling the oligarchs, any
+      strong central power from preventing the oligarchs and impoverishing the economy
+      and ultimately reducing it to serfdom, which took five centuries to really wreck
+      the whole economy. But that’s the history of antiquity, as written by historians
+      other than the oligarchs themselves. And, fortunately, we have their histories
+      and it’s all very well documented, but it had been pretty much ignored before
+      the mid-19th century when historians began to say, wait a minute, there are two
+      sides to Roman history and what happened. And so I’m filling in what was left
+      out in the early 18th century views of Roman history. MITCH JESERICH: So do you
+      think this dynamic is still alive today when it comes around debt? With this all-in
+      mind then, as we talk about kings and oligarchies and debt, I want to ask about
+      then how would – and even if they do, because maybe they don’t – Joe Biden and
+      Donald Trump fit into this narrative? Because I have noticed when talking about
+      the Roman aristocracy, the Roman Senate, the Roman Republic, you’ve referenced
+      some things that Joe Biden says today. So how does Joe Biden and then Donald Trump,
+      who got elected on a populist movement, fit into this dynamic, if they do even?
+      MICHAEL HUDSON: There’s really very little they can do because the American oligarchy
+      today, ever since the Citizens United case of the Supreme Court, means that there
+      are two parties and it’s almost impossible to create a third party. The two parties’
+      leadership are in charge of appointing who the candidates are going to be for
+      the democracy to vote for. MITCH JESERICH: You don’t think Donald Trump broke
+      up that dynamic? The party didn’t want him. MICHAEL HUDSON: There’s no way he
+      can overcome the Citizens United case and say, wait a minute, we can’t have private
+      funding of political campaigns. That’s bribery. There’s no way that he can democratize
+      the voting system because that’s a constitutional and legal impediment. And he
+      got elected by promising to take, as you pointed out, a populist program. But
+      he was supported by his backers because he can lie so convincingly that people
+      really believe him when he says I’m going to help the working class. That’s why
+      I’m cutting their Medicaid. That’s why I’m favoring all of the cutting taxes on
+      the wealthy and raising them on the low-income people. But it’s all for you. It’s
+      all going to help the working class. He was a very successful demagogue, being
+      a television celebrity. Think of him as sort of the American Zelensky or the Russian…
+      You can think of him as all sorts of demagogues, but he’s a demagogue. Right now,
+      he’s threatening to plunder, to essentially centralize running up budget deficits
+      to pay the American oligarchy, who realizes that pretty much we’re at the end
+      of the whole American takeoff since World War II. Every recovery has been at a
+      higher and higher level of debt. That means, finally, the middle class is being
+      squeezed out. The wage earners are in debt. They’re in mortgage debt if they’re
+      homeowners. They’re in student debt. They’re in credit card debt. They’re in automobile
+      debt. The economy is shrinking because of the income not only of wage earners,
+      but of corporations that are in debt to their bondholders. And there’s so much
+      debt that the economy is grinding to a halt. So Trump says, okay, we’re at the
+      end of this whole wonderful 80-year takeoff since 1945. We’re going to have a
+      grab-itization, just like Yeltsin had in Russia. And I’m going to back the oligarchy,
+      grabbing whatever it can, taking their money and running. That’s his policy. And
+      he was, until quite recently, able to hold the support of voters who actually
+      thought nothing can be worse than what the Democrats and Biden and Hillary have
+      been doing. We’re going to vote for him just to say, throw the rascals out. Well,
+      you get an even bigger rascal. And you really don’t have a choice because the
+      same people/powers that have backed Trump were backing the Democrats, although
+      Trump’s more of the Silicon Valley billionaires. The question is, which set of
+      billionaires do you want to run the country? Do you want the Wall Street billionaires
+      to run the country financially, or do you want the monopoly billionaires of the
+      Silicon Valley and other billionaires to do it? But billionaires are going to
+      run the country no matter what party’s in power, and the population is going to
+      be squeezed. MITCH JESERICH: We’re down to our final. MICHAEL HUDSON: You could
+      say that that’s made America a failed economy and a failed state because of the
+      Constitution. In my mind, a constitutional review should be to keep modernizing
+      the Constitution and keep adjusting it to the modern times. If you have a Supreme
+      Court that said, we want to think what the slave owners would have done back in
+      the original Constitution; you have almost word for word the right-wing Supreme
+      Court doing what the Athenians did to Solon. They said they wanted to restore
+      the original Constitution of Solon. And what you had were rival views of what
+      the Constitution was. And the oligarch said, no, what Solon really did was he
+      didn’t really cancel the debts. He just changed the monetary exchange rate to
+      make it easier to pay the debts. There was a denial that Solon did everything
+      that he’d done. That’s the kind of fight that you’re having in the United States
+      today, saying, don’t modernize the Constitution. Do not democratize the American
+      Constitution. It was written by slave owners. It was written and dominated by
+      the wealthy. That’s the kind of America that we’re going to have. Otherwise, it’s
+      unconstitutional to be democratic, unconstitutional to prevent the wealthy oligarchy
+      from funding the political campaigns of the politicians running in the primaries
+      so that whoever wins the primary for either party is going to be the politician
+      supported by the wealthiest campaign donors. MITCH JESERICH: Michael Hudson is
+      the president of the Institute for Study of Long-Term Economic Trends and Distinguished
+      Research Professor of Economics at the University of Missouri, Kansas City. He
+      is writing a series of books on the history of debt, including the one we were
+      in conversation about. That’s called The Collapse of Antiquity. Michael Hudson,
+      I’ve enjoyed our conversation very much, and I thank you. MICHAEL HUDSON: Well,
+      thank you so much for having me. I’m so glad we’re getting these issues into broad
+      discussion. MITCH JESERICH: That does it for Letters and Politics. The show is
+      produced by Deanna Martinez. Kristen Thomas is the engineer. I’m Mitch Jeserich,
+      and I thank you for listening. Transcription and Diarization: hudsearch Editing:
+      ton yeh Review: ced Photo by JOHN TOWNER on Unsplash The post Rome’s Arc, America’s
+      Echo first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion on the economic forces that shaped ancient
+      societies and contributed to their collapse, economist Michael Hudson emphasizes
+      the significant role of debt in the histories of ancient Greece and Rome, as explored
+      in his book "The Collapse of Antiquity."
+    paragraph_summary: In a recent episode of "Letters and Politics," host Mitch Jeserich
+      interviews economist Michael Hudson about his book "The Collapse of Antiquity,"
+      which explores how economic forces, particularly debt, influenced ancient societies
+      like Greece and Rome. Hudson argues that the nature of debt was pivotal in shaping
+      Western civilization, contrasting it with earlier stable civilizations that maintained
+      balance through royal kingdoms and divine kingship. He explains that ancient rulers
+      often began their reigns by canceling debts to prevent the rise of oligarchies
+      and to ensure that citizens retained enough land to fulfill military and civic
+      duties. This practice of debt cancellation, or "clean slate," was essential for
+      maintaining social stability and preventing the concentration of wealth and power.
+    published: '2025-09-01T12:46:53+00:00'
+  - title: Rome’s Arc, America’s Echo
+    url: https://michael-hudson.com/2025/09/romes-arc-americas-echo/
+    text: 'Letters & Politics – KPFA MITCH JESERICH: Good day and welcome to Letters
+      and Politics. I’m Mitch Jeserich. Today we return to the topic of the ancient
+      world for a conversation about how economic forces shaped ancient societies and
+      how they may have brought on their collapse. My guest for this is economist Michael
+      Hudson. Michael Hudson is the author of the book that we’ll be in conversation
+      about, called The Collapse of Antiquity. Michael Hudson is president of the Institute
+      for the Study of Long-Term Economic Trends and distinguished research professor
+      of economics at the University of Missouri, Kansas City. Michael Hudson, it is
+      my very good pleasure to welcome you to this program. MICHAEL HUDSON: Well, thank
+      you for having me on. MITCH JESERICH: Debt plays a key role in the story that
+      you tell and how economic forces shape ancient societies, especially about ancient
+      Greece and Rome. As we begin, can you talk to me about what’s important to understand
+      about, I guess, the nature of debt in the ancient world? MICHAEL HUDSON: Well,
+      the nature of debt really is what makes Western civilization different from everything
+      that went before. Early civilization was very stable from the Bronze Age. You
+      had royal kingdoms, you had a general role of what’s called divine kingship. In
+      other words, these were kings that ruled in conjunction with the temples, and
+      their role was basically to prevent an oligarchy from developing. They wanted
+      to maintain balance. They wanted to maintain the citizenry with enough land of
+      its own to be able to fight in the army and to provide corvée duties on basic
+      infrastructure, building walls, digging canals, etc. Every ruler of the Babylonian
+      dynasty and the Sumerian dynasty before the Egyptian pharaohs and other Near Eastern
+      realms all started their reigns with a clean slate. The clean slate canceled the
+      debts that were outstanding. Most were owed to the government itself and to the
+      palaces and temples. And they freed the bondservants who’d pledged their labor
+      to work for the creditors, and they returned land that had been forfeited. So
+      they maintained a fairly steady equilibrium, and the role of kings was to provide
+      order and preserve economic balance. This is what did not exist in classical antiquity.
+      The Bronze Age was very stable, but it came to an end throughout the Eastern Mediterranean
+      around 1200 BC when there was really bad weather, there was climate change, and
+      that set populations in motion. The populations of Greece and the Eastern Mediterranean
+      plunged. The land became depopulated. The linear writing that the Mycenaean Greeks
+      had developed for their palace accounting disappeared, and so did palace power.
+      MITCH JESERICH: It was known as a dark age. MICHAEL HUDSON: Yes, a dark age, from
+      about 1200 BC to about 750 BC. So you had local mafia states developing. The historians
+      of this period say, well, there was no rule. So the local palace administrators
+      of Greece just said, well, I’m in charge now. You had warlords taking over. Then
+      further west in Italy and the whole rest of Western Europe, you had basic chieftainship.
+      These chieftainships didn’t have charging of interest. They didn’t have a single
+      general purpose money. They were not part of the whole economic takeoff of the
+      Near East that provided the origins of money and weights and measures and the
+      charging of interest. Around the mid 8th century BC, 750 BC, you had traders from
+      Syria and Phoenicia begin to move westward to trade. And they set up local temples
+      as chambers of commerce to trade with the Greek city-states and the Italian city-states,
+      Rome and its surrounding states. And they brought these practices of charging
+      interest to the local rulers. I’ll start with Greece because that’s where most
+      of the historical development of the West begins. You had these local autocratic
+      mafia-like states developing throughout all the main city-states. The result was
+      that members of the aristocracy itself – not the highest aristocracy, but e.g.,
+      sort of a distant second cousin – said, well, this is really unfair. We’re having
+      all the wealth concentrated in the hands of these chieftains who’ve used this
+      idea of lending money, charging interest, and saying, well, if you can’t pay,
+      then you have to work for us and you have to give us our land. So you had a totally
+      concentrated autocracy in Athens, Corinth, and Sparta. And each of these city-states
+      had a revolution. In Sparta, they went the furthest. There was such a revulsion
+      of the [unclear] that they abolished money altogether. And they had a kind of
+      pre-Soviet state just allocating: here’s how you’re going to live your life and
+      train for the military. The most advanced city-state was Corinth. And they had
+      a revolution. They overthrew the, I won’t say oligarchy, because it wasn’t an
+      oligarchy. It was just the bosses at the top, the aristocracy. They said, well,
+      either we’re going to cancel the debts and we’re going to redistribute the land…
+      because without giving the population land, they’re not able to serve in the army.
+      They’re not able to provide public services. And we’re giving them land so they
+      can do what a citizen is supposed to do, fight for the country and support us.
+      And if you don’t like this, you can leave and we’ll exile you. That was in the
+      late 7th century by Athenian times. Athens was really the last city to begin to
+      overthrow the oligarchy. And that’s when they appointed Solon as Archon, as everyone
+      knows, around 490 BC. He did not redistribute the land, but he canceled the debts.
+      MITCH JESERICH: Solon was brought on because there was just this great disparity/inequality
+      in Athens, and it was causing strife and a lot of problems. They bring in Solon,
+      who commonly is referred to as the lawgiver, to kind of come up with a new sense
+      of a constitution that would hopefully bring peace back. I think he even promised
+      that he would do land redistribution, but he didn’t do that. But he did cancel
+      the rest. MICHAEL HUDSON: He was very unpopular. And the population as a whole
+      was resentful for the fact that he did not redistribute the land, which the Corinthians
+      and the Spartans did, but he only canceled the debts. That itself was not yet
+      a constitution, but it opened the way to set in motion a whole century of reform
+      that became democracy. The reforms basically were led by Corinth. All of these
+      new rulers/reformers, who overthrew the dictatorships, were called tyrants. Tyrant
+      was a foreign word and it meant person in charge. Later, it took on the meaning
+      of a bad meeting by the propagandists as the oligarchy developed. Because, in
+      each of these areas where there had been an overthrow of royalty or basically
+      the local rulers, you did not have a change in the laws and the constitution –
+      nothing like the Near East, where you had a central ruler empowered to cancel
+      the debts, redistribute the land, and free the debt bond persons. But what the
+      tyrants did do was they opened the way for democracy by using public spending
+      and public investment projects. Solon was followed by tyrants, by Pleisistratus,
+      that developed public spending and began to create a general prosperity. And,
+      at the very end of the century, you had the real Athenian Constitution written
+      by another former aristocrat or member of the aristocratic family, Pleisthenes,
+      who really redesigned Athens’ voting system, attempting to have democracy. MITCH
+      JESERICH: He broke up the aristocratic class, right? In the power structure. MICHAEL
+      HUDSON: He tried to merge all the classes together and sort of merge the wealthy
+      people with the less wealthy classes. A few centuries later, when Aristotle wrote
+      his study of the constitutions of the Greek city-states, he said they call themselves
+      democracies, but they’re actually oligarchies because they’re democracies for
+      votes, but the votes are all controlled by the wealthy people, sort of like the
+      United States today. A similar thing happened in Rome. Rome did not have a revolution
+      to overthrow the existing oligarchs. Rome began as a very underpopulated area
+      near the Tiber River. And the Tiber River was mosquito-laden, as rivers tend to
+      be in the summer in Italy. And so there were not very many people there. The problem
+      of the local leaders of Rome was: how are we going to get citizens? How are we
+      going to build up the population for us to be a power and not be conquered by
+      the Etruscans or by others? According to the Roman historians, the kings made
+      an offer. If you other Italians want to flee your despotic little city-states
+      and come to us because you’re enslaved and you want to run away from bondage,
+      or you want to have land of your own that you’ve lost to the creditors, come to
+      us. We’ll give you your own land. We’ll protect your land. You’ll serve in the
+      army for us. You’ll be public citizens, but we’re going to have a democracy and
+      we’re not going to let a ruling class develop in Rome like the places that you’re
+      fleeing from. And so they were able to attract more and more people. By the end
+      of the sixth century, you even have aristocrats who were from other cities who’d
+      fought for power and lost, and they brought their fortunes to Rome. After Rome
+      had seven or more kings, all of whom repeatedly protected the landowning, the
+      citizenry with its own land prevented the citizenry from losing it and prevented
+      there being the kind of polarization that later developed, the aristocrats got
+      together and overthrew the kings. And they said the kings wanted to be tyrants.
+      They had the usual personal attack on kings, and the aristocracy took over. MITCH
+      JESERICH: I’d like to go back to Aristotle as you talk about this, because he
+      puts up this, I think, very interesting formula that I remember studying many
+      years ago. And that is the nature of power between monarchy, aristocracy, and
+      democracy. Within this cycle, let’s begin with the monarchy. The monarchy is going
+      to decay into tyranny; then that’s going to be so unfavorable that it’s going
+      to be overthrown by the aristocracy, which word I think means the best of the
+      best. Eventually, that decays and becomes an oligarchy. And then people become
+      fed up with that and they overthrow that. And then comes democracy, now people
+      power. But that will also decay into, I think the word is ochlocracy, a sort of
+      mob rule. And then that becomes intolerable, and people desire just normalcy to
+      return back to life. And so they’re ready to once again kind of accept the return
+      of a strong-armed monarch to bring order. MICHAEL HUDSON: That’s pretty much what
+      he said. Remember, he was speaking for a class – basically, for the oligarchy
+      class itself, or for the leaders of his time. It’s not that the rulers became
+      autocratic. The rulers actually were overthrown by the oligarchy. And what Aristotle
+      said was: once the rulers are overthrown and there’s a popular revolution, as
+      there was in every Greek city, this revolution leads to prosperity. And in prosperity,
+      wealthy families develop, and within the democracy an oligarchy develops and so
+      an oligarchy develops until finally there has to be a revolution and that leads
+      to the creation of a new central authority. They called it tyranny or kingship,
+      but it really is an anti-oligarchic revolution. I think the best way of thinking
+      of this is that early civilization before the West protected debtors to maintain
+      balance and maintain their liberty and their land ownership, and to prevent oligarchy.
+      Classical antiquity had pro-creditor laws from the beginning. Despite the fact
+      that there was political democracy (everybody had a vote), the laws favored the
+      creditors and a debt was a debt. It had to be paid. There was no cancellation
+      and debtors had to end up as bondservants to their creditors and they would lose
+      the land. And when Rome went to war and began to conquer more lands, they turned
+      it over to the oligarchy, not to the veterans. So you had a completely different
+      development system. And most people don’t think of antiquity in this form, but
+      you can think of it as an oligarchy versus a kind of, I won’t say royal kingship,
+      but monarchs that acted to achieve what the aim of economic democracy was supposed
+      to be. The kingship or royalty that Aristotle was talking about, historically,
+      was actually protecting the population at large and its landholding and its freedom
+      from bondage from an oligarchy developing. But there was no similar protection
+      in the case of classical antiquity. And in Rome, they gimmicked the voting so
+      that the wealthy classes, the voting was by economic class. And if you were a
+      wealthy member of the top class, your vote was 10 or more, many times the vote
+      of the less wealthy classes. And so basically every election was decided by the
+      votes of the wealthiest classes, and everybody got to vote, but some votes were
+      more important than others. MITCH JESERICH: This is the creation of the Senate.
+      And the Senate, I think the word even means sort of old men, old wealthy men.
+      Let me ask you: I like your argument when it comes to the end of kings in Rome.
+      The traditional story is a story known as rape of Lucretia. And there’s a king,
+      Tarkin, who is overthrown after he rapes Lucretia because people are just outraged
+      by this. But you take on that story about being the end of kingships. MICHAEL
+      HUDSON: Well, that turned history inside out. The reality, we know from all of
+      the complaints of the Roman people, is the aristocrats were raping. All of the
+      raping, all of the violence, and all of the force was by the aristocrats and the
+      oligarchs, by the wealthy people, by the creditors against the debtors. They made
+      a kind of personal attack on Tarquin, whose offense was really trying to prevent
+      the oligarchs from increasing their ability to just turn the population into servitude.
+      So, this rape of Lucretia was designed to depict kings as oppressors, not as protectors
+      of economic order, against the oligarchy. Just as today, you’ll have President
+      Biden say America’s backing democracy, such as we have in Ukraine and in Israel,
+      against autarky, which we have in China and the countries that are achieving rapid
+      growth and prosperity. You have a kind of Orwellian vocabulary and an Orwellian
+      view of history. So there’s been a whole re-examination of Roman history, and
+      you realize the extent to which the history was written by the aristocracy and
+      that became the oligarchy that overthrew the kings from its own point of view.
+      And it’s largely invective: the whole vocabulary of invective and the mythology
+      is invective, representing the kings as being violent. Whereas the whole history
+      of Rome, century after century, was one of a social war in which the oligarchy
+      used political murder on anyone who would try to promote a member of the ruling
+      class or senate or patricians who would promote protection of the debtors or actually
+      enforce the laws preventing a debt from growing beyond a specific amount or charging
+      interest that was illegally high. Anyone who sought to protect the debtors was
+      murdered again and again, from the beginning of the Roman Republic all the way
+      to the assassination of Caesar. You had political assassination and violence.
+      It was sort of like they had their own CIA to a police state. MITCH JESERICH:
+      Wasn’t Brutus who killed Caesar – you know, the famous Et tu Brutus – wasn’t he
+      a debt collector? MICHAEL HUDSON: Well, they all did it together. They all conspired
+      together. Cicero, who was the sort of golden-mouthed spokesman for the wealthy
+      class, wrote a letter saying, oh, I’m so sorry I couldn’t be there to plunge in
+      my own knife. There was a fear when Julius Caesar took over. There had already
+      been yet another debtor revolt by Catiline, by the debtors. The debtors included
+      not only the poor, but a lot of the aristocrats who’d fallen into debt and spent
+      their inheritance and were in danger of losing their own assets and power. This
+      was the fight that Catiline organized. This is presented to students of Rome as
+      the Catiline conspiracy, but it wasn’t a conspiracy. Obviously, they said, we’ve
+      got to organize the revolt in secret so that we can all revolt together. And there
+      was a whole army and there was fighting for decades that went on afterwards. Caesar
+      had been a silent, sort of a quiet supporter of Catiline. And the Senate was worried
+      when Caesar came back to Rome. We could think of him as a liberal social democrat
+      reformer. He was trying to reestablish the economic balance from the very unbalanced
+      Rome, what had become a new Roman aristocracy within the oligarchy, the Roman
+      ruling class. And they were very afraid that he was going to do what Catiline
+      did and cancel the debts. Indeed, Caesar did enact a bankruptcy law, but the bankruptcy
+      was mainly for wealthy individuals who actually could afford to pay the debts
+      but were given a long time to write them off and favorable repayment terms. He
+      didn’t really proceed to a general popular debt cancellation. But they were all
+      worried that that was what he was going to do because that was the whole history
+      for five centuries of the Roman Republic: a long fight by the population at large
+      to free itself from bondage and from running into debt. It was a fight trying
+      to achieve what really would be democracy, a fight against the oligarchy and for
+      democracy. It became apparent that only a strong central ruler, such as Caesar,
+      could do what the Bronze Age rulers had done. And you needed a strong enough government
+      to prevent an oligarchy from developing and indebting the population at large
+      and monopolizing its land. MITCH JESERICH: This is Letters and Politics. We are
+      in conversation with Michael Hudson. Michael Hudson is the president of the Institute
+      for Study of Long-Term Economic Trends and Distinguished Research Professor of
+      Economics at the University of Missouri, Kansas City. He is the author of many
+      books. We’re in conversation about one of them. It’s called The Collapse of Antiquity.
+      In our conversation, I have awareness of it sounding like we’re praising monarchy
+      or kingships here. And we just had what we called a No Kings Day protest here
+      in the United States a couple of weeks ago, where thousands of people across the
+      country protested the sense of having a king and really protesting Donald Trump.
+      I do believe you can have a benevolent king. I believe you can have (hence the
+      term) a benevolent dictator, one who actually is trying to serve the people. But
+      more times than not, that’s not what we end up getting, is it? MICHAEL HUDSON:
+      You’re right. Kingship in the West is not what kingship was in the Bronze Age.
+      [Western] kingship is much more autocratic. [Western] kingship stemmed from warlords
+      conquering the land, and they were backed by the Catholic Church that essentially
+      would go to the Norman warlords and said, well, if you conquer England and pledge
+      fealty to the Pope and Rome – if you agree to let Rome appoint your bishops in
+      charge of all of your finances so that you can send your realm’s finances to Rome
+      – if you pay tribute to Rome – then, we will back your autocratic power against
+      parliamentary reform. And so, when there was an attempt, e.g., in England in 1215,
+      to have the Magna Carta that would enable the parliament to block kings from running
+      into foreign debt to pay for the wars that the Romans supported – instead of excommunicating
+      the practitioners of usury, the pope excommunicated the signers of the Magna Carta
+      for opposing usury. They said, we’re for the divine right of kings, no parliamentary
+      control, as long as they’re loyal to Rome because this is feudalism and there
+      are serfs and they have to do whatever we want. It all began a generation before
+      William the Conqueror in 1066. It began with Robert Guiscard in southern Italy
+      and Sicily, who made a deal with the Pope: well, if you conquer Sicily, we’ll
+      recognize you as the king as long as you paid us tribute and pledged fealty to
+      Rome and let us run your country. And we will give you total power over any reform
+      as long as you serve what we’re doing. That’s the kind of kingship that you had
+      in the West. So kingship here has an understandably negative term because in the
+      West, kingships became what we know that kings do. It’s hereditary, it’s not democratic.
+      The kings had no obligation to promote the welfare of their land. They were self-serving,
+      or they served initially the Catholic Church until about the 14th century when,
+      after the Crusades ended, they began to run into debt to fight their own wars,
+      not for the Vatican and for Rome, but for themselves. All of a sudden, they ended
+      up in two centuries acting as collecting agents for the international banking
+      class that developed from the 14th, 15th, and 16th and into the 17th century.
+      The banking class became the organization, political organizers of Europe in place
+      of the church. So, basically throughout Europe, kings basically acted as empowered
+      to overrule their parliaments and consign all of their tax revenues to pay the
+      creditor class to finance their wars against each other. That’s obviously not
+      the same kind of kingship that you had in antiquity, in the Bronze Age. In the
+      Bronze Age, the kings canceled the debts. In Western civilization, they ran into
+      debt and used their power just autocratically to impose taxes and without any
+      thought at all of promoting public welfare, but just of promoting themselves and
+      their families and the nobility that had inherited the land from the warlord ancestors
+      who conquered their lands. So kingship in the West was completely different. As
+      I mentioned, I have a seven-volume history of debt through the ages. And the first
+      volume, And Forgive Them Their Debts, was all about the origins of economic practices
+      in the ancient Near East, interest and money and all of this, and under a form
+      of stability to prevent an oligarchy. The Collapse of Antiquity shows how Western
+      civilization did not have protection against the oligarchy. It established pro-creditor
+      laws. And even though Rome collapsed, its legal system became the legal system
+      of Western Europe and the whole West. MITCH JESERICH: Well, I want to ask about
+      that because it’s heavily on my mind now. I’ve always been fascinated in studying
+      the history of the Constitution and reading the Federalist Papers and the Anti-Federalist
+      Papers. When you read them, you really feel like what you’re reading is a debate
+      about Roman history and how much they relied on the Roman Republic in coming up
+      with their own system of government. I am also remembering that what led up to
+      the Constitutional Convention was a debt crisis that was playing out across many
+      of the states. You have Shays’ Rebellion occurring, in which states were sort
+      of through popular revolts being forced to cancel debt. The Constitution, at least
+      in part – the Constitutional Convention, anyway, at least in part – was meant
+      to try to stop the debt cancellation from continuing, if I recall correctly. MICHAEL
+      HUDSON: Yes, and taxes levied to pay the debt. You had from the very beginning
+      of the American colonies a kind of creditor oppression of the colonies. England
+      did not permit the colonies to create their own money or create their own credit.
+      They insisted you conduct your transactions from English merchants and English
+      bankers. The bankers began to make loans to farmers with the whole intention…
+      they would make a loan to the farmer ostensibly to be paid out of the crops, but
+      then they’d demand payment before the crops were in and they’d foreclose on the
+      land. The creditors, the English creditors, used credit trying to grab the land
+      from the colonies. That’s why Massachusetts and Pennsylvania said, we’re not going
+      to be subject to British creditors. We’re going to create our own money, our own
+      public money. Alongside that, you had private bankers developing, and the private
+      bankers were so oppressive, just as oppressive as the British lenders had been,
+      that for the whole 19th century, there was so much of a feeling against banks
+      in the United States that the Treasury never really let commercial banking develop.
+      It insisted that tariff revenues be paid in gold, not in paper money. The Treasury
+      really opposed the development of paper money and banking because they thought
+      that the banks were so oppressive. And that was one of the retarding features
+      of the United States, until the Federal Reserve was created specifically to enable
+      the banks to create paper money and take control out of the Treasury, not letting
+      even a Treasury official act on the board of the Federal Reserve and to shift
+      the center of financial control out of Washington to New York City, Chicago, Boston,
+      and other financial centers. So, yes, this financial struggle occurred in the
+      United States against banking in the legal and the whole monetary structure. But
+      I don’t think the founders of the Constitution really understood Roman history
+      except to the extent that it was written by the creditor class. They did not have
+      the scholarship that we now have. MITCH JESERICH: I want to also ask about the
+      fall of the Roman Empire. This is many years after the fall of the Republic, when
+      the Republic was replaced by (we call it an empire) an emperor to rule over Rome,
+      back to a king. They didn’t want to call him a king because they have a tradition
+      of no kings. But the fall of it is interesting. You make this interesting argument
+      in your book, The Collapse of Antiquity, that I never really thought about. I
+      think the common notion of the fall of the Roman Empire – and there are many explanations
+      for it, including environmental ones – was that they were just overrun by these
+      Germanic barbarians, who were ruthless fighters who came in. Your argument is
+      quite different than that. Your argument is that, no, these Germanic invaders,
+      the Vandals, Alaric the Goth: they were welcomed when they came in. MICHAEL HUDSON:
+      They were not invaders, they were hired. The individuals who wanted to be emperor
+      or who wanted to control their own territories hired German fighters. And the
+      German fighters extended all the way through France at that time. They hired the
+      Gallic and German fighters to fight their wars against their rivals. And there
+      was a large defection away from Rome to the German fighters. The Germans then
+      invaded Rome and North Africa, which was Rome’s breadbasket, from Egypt to where
+      St. Augustine was to the west in Hippo. And they took control of North Africa
+      and Rome and were basically established. They got rid of the Roman ruling class
+      that had been so corrupt and depopulated. The fact is, it’s not that the Northern
+      Europeans, the invaders, the troops that were hired and moved in against Rome
+      moved into the kind of Rome that existed centuries earlier. Rome was depopulated
+      because, as you reduce the economy to debt bondage, you’re not going to have a
+      population growth. Feudalism, as it developed in Rome, had sexually segregated
+      barracks. Roman land was divided into big aristocratic estates, and you’d have
+      dormitories for the men, dormitories for the women. You had vast depopulation.
+      The whole economy was polarizing to such an extent of being impoverished that
+      you had Roman philosophers saying, it looks like the Germans have a superior economic
+      organization. They don’t have this kind of bondage. People are moving over to
+      them because they’re less oppressive than the Romans. And so, in a way, you could
+      say these were liberators. All of this came to sort of a head by the fourth century,
+      the fifth century, with St. Augustine, when you had Constantine converted to Christianity.
+      But by making it the state religion, it was the religion of the Roman aristocracy
+      that had come in. The question is: how are they going to get rid of what Jesus
+      said about Christianity? And so you had Augustine call in the Roman troops, and
+      the Romans insisted that the local Christians support the aristocracy and turn
+      in their Bibles. And there was a pro-Roman Christian church and an anti-Roman,
+      and the original Christian church that was all for debt cancellation and protection
+      of debtors. In Hippo, where Augustine was, where there had been these invasions
+      that had taken over large estates, they were called the Donatists. The original
+      Christians were protecting the debtors. And if the aristocrats tried to foreclose,
+      their associates would have armed gangs protecting them. Augustine said, well,
+      you know, we have a problem. And the problem is Jesus’ Sermon on the Mount and
+      the Lord’s Prayer that said, forgive them their debts as we forget their debtors.
+      Augustine said, well, this is not about debt at all. It’s, forgive us our sins.
+      Everybody has an inborn sin from Adam, and you need the church to intercede for
+      you by freeing you from sin, by giving you forgiveness. But he supported the debtors.
+      There were armed fights. He called in the Roman army to turn over the Christian
+      churches to his pro-Roman people and sort of remade Christianity as a creditor-oriented
+      religion, not as a debtor religion. And he had rivals within the Christian church,
+      like Pelagius, saying, well, wait a minute, if you’re a wealthy person and you
+      give your money to the poor and do good work and are a philanthropist, won’t you
+      get into heaven by being a good person? Augustine said, No, no, you have to give
+      it to the church. To the poor – the poor are the church preachers. You have to
+      give it to the poor to support the church to pray for you. You can’t save yourself
+      except by giving money to the church. This is what poisoned Christianity from
+      the beginning and made the fall of the Roman Empire happen to transform the whole
+      character of Christianity in the West. Not so much in Constantinople, not so much
+      in Eastern Orthodox Christianity, but in the West. That’s part of this whole oligarchic
+      takeover and concentration of land ownership, of creditor power that occurred
+      throughout Rome, bequeathed to the West not only through Christianity but through
+      the whole property system, the system of laws and foreclosure on the property
+      and land of debtors to the creditors. All of this was part of the culmination
+      of the way in which the Roman Republic was created from the very beginning as
+      an oligarchy, preventing any public power from controlling the oligarchs, any
+      strong central power from preventing the oligarchs and impoverishing the economy
+      and ultimately reducing it to serfdom, which took five centuries to really wreck
+      the whole economy. But that’s the history of antiquity, as written by historians
+      other than the oligarchs themselves. And, fortunately, we have their histories
+      and it’s all very well documented, but it had been pretty much ignored before
+      the mid-19th century when historians began to say, wait a minute, there are two
+      sides to Roman history and what happened. And so I’m filling in what was left
+      out in the early 18th century views of Roman history. MITCH JESERICH: So do you
+      think this dynamic is still alive today when it comes around debt? With this all-in
+      mind then, as we talk about kings and oligarchies and debt, I want to ask about
+      then how would – and even if they do, because maybe they don’t – Joe Biden and
+      Donald Trump fit into this narrative? Because I have noticed when talking about
+      the Roman aristocracy, the Roman Senate, the Roman Republic, you’ve referenced
+      some things that Joe Biden says today. So how does Joe Biden and then Donald Trump,
+      who got elected on a populist movement, fit into this dynamic, if they do even?
+      MICHAEL HUDSON: There’s really very little they can do because the American oligarchy
+      today, ever since the Citizens United case of the Supreme Court, means that there
+      are two parties and it’s almost impossible to create a third party. The two parties’
+      leadership are in charge of appointing who the candidates are going to be for
+      the democracy to vote for. MITCH JESERICH: You don’t think Donald Trump broke
+      up that dynamic? The party didn’t want him. MICHAEL HUDSON: There’s no way he
+      can overcome the Citizens United case and say, wait a minute, we can’t have private
+      funding of political campaigns. That’s bribery. There’s no way that he can democratize
+      the voting system because that’s a constitutional and legal impediment. And he
+      got elected by promising to take, as you pointed out, a populist program. But
+      he was supported by his backers because he can lie so convincingly that people
+      really believe him when he says I’m going to help the working class. That’s why
+      I’m cutting their Medicaid. That’s why I’m favoring all of the cutting taxes on
+      the wealthy and raising them on the low-income people. But it’s all for you. It’s
+      all going to help the working class. He was a very successful demagogue, being
+      a television celebrity. Think of him as sort of the American Zelensky or the Russian…
+      You can think of him as all sorts of demagogues, but he’s a demagogue. Right now,
+      he’s threatening to plunder, to essentially centralize running up budget deficits
+      to pay the American oligarchy, who realizes that pretty much we’re at the end
+      of the whole American takeoff since World War II. Every recovery has been at a
+      higher and higher level of debt. That means, finally, the middle class is being
+      squeezed out. The wage earners are in debt. They’re in mortgage debt if they’re
+      homeowners. They’re in student debt. They’re in credit card debt. They’re in automobile
+      debt. The economy is shrinking because of the income not only of wage earners,
+      but of corporations that are in debt to their bondholders. And there’s so much
+      debt that the economy is grinding to a halt. So Trump says, okay, we’re at the
+      end of this whole wonderful 80-year takeoff since 1945. We’re going to have a
+      grab-itization, just like Yeltsin had in Russia. And I’m going to back the oligarchy,
+      grabbing whatever it can, taking their money and running. That’s his policy. And
+      he was, until quite recently, able to hold the support of voters who actually
+      thought nothing can be worse than what the Democrats and Biden and Hillary have
+      been doing. We’re going to vote for him just to say, throw the rascals out. Well,
+      you get an even bigger rascal. And you really don’t have a choice because the
+      same people/powers that have backed Trump were backing the Democrats, although
+      Trump’s more of the Silicon Valley billionaires. The question is, which set of
+      billionaires do you want to run the country? Do you want the Wall Street billionaires
+      to run the country financially, or do you want the monopoly billionaires of the
+      Silicon Valley and other billionaires to do it? But billionaires are going to
+      run the country no matter what party’s in power, and the population is going to
+      be squeezed. MITCH JESERICH: We’re down to our final. MICHAEL HUDSON: You could
+      say that that’s made America a failed economy and a failed state because of the
+      Constitution. In my mind, a constitutional review should be to keep modernizing
+      the Constitution and keep adjusting it to the modern times. If you have a Supreme
+      Court that said, we want to think what the slave owners would have done back in
+      the original Constitution; you have almost word for word the right-wing Supreme
+      Court doing what the Athenians did to Solon. They said they wanted to restore
+      the original Constitution of Solon. And what you had were rival views of what
+      the Constitution was. And the oligarch said, no, what Solon really did was he
+      didn’t really cancel the debts. He just changed the monetary exchange rate to
+      make it easier to pay the debts. There was a denial that Solon did everything
+      that he’d done. That’s the kind of fight that you’re having in the United States
+      today, saying, don’t modernize the Constitution. Do not democratize the American
+      Constitution. It was written by slave owners. It was written and dominated by
+      the wealthy. That’s the kind of America that we’re going to have. Otherwise, it’s
+      unconstitutional to be democratic, unconstitutional to prevent the wealthy oligarchy
+      from funding the political campaigns of the politicians running in the primaries
+      so that whoever wins the primary for either party is going to be the politician
+      supported by the wealthiest campaign donors. MITCH JESERICH: Michael Hudson is
+      the president of the Institute for Study of Long-Term Economic Trends and Distinguished
+      Research Professor of Economics at the University of Missouri, Kansas City. He
+      is writing a series of books on the history of debt, including the one we were
+      in conversation about. That’s called The Collapse of Antiquity. Michael Hudson,
+      I’ve enjoyed our conversation very much, and I thank you. MICHAEL HUDSON: Well,
+      thank you so much for having me. I’m so glad we’re getting these issues into broad
+      discussion. MITCH JESERICH: That does it for Letters and Politics. The show is
+      produced by Deanna Martinez. Kristen Thomas is the engineer. I’m Mitch Jeserich,
+      and I thank you for listening. Transcription and Diarization: hudsearch Editing:
+      ton yeh Review: ced Photo by JOHN TOWNER on Unsplash The post Rome’s Arc, America’s
+      Echo first appeared on Michael Hudson .'
+    one_sentence_summary: In a discussion on the economic forces that shaped ancient
+      societies and contributed to their collapse, economist Michael Hudson emphasizes
+      the significant role of debt in the histories of ancient Greece and Rome, as explored
+      in his book "The Collapse of Antiquity."
+    paragraph_summary: In a recent episode of "Letters and Politics," host Mitch Jeserich
+      interviews economist Michael Hudson about his book "The Collapse of Antiquity,"
+      which explores how economic forces, particularly debt, influenced ancient societies
+      like Greece and Rome. Hudson argues that the nature of debt was pivotal in shaping
+      Western civilization, contrasting it with earlier stable civilizations that maintained
+      balance through royal kingdoms and divine kingship. He explains that ancient rulers
+      often began their reigns by canceling debts to prevent the rise of oligarchies
+      and to ensure that citizens retained enough land to fulfill military and civic
+      duties. This practice of debt cancellation, or "clean slate," was essential for
+      maintaining social stability and preventing the concentration of wealth and power.
+    published: '2025-09-01T12:46:53+00:00'
+  - title: NATO Shifts to New Fronts
+    url: https://michael-hudson.com/2025/08/nato-shifts-to-new-fronts/
+    text: '2025.08.21 – Dialogue Works NIMA ALKHORSHID : Hi, everybody. Today is Thursday,
+      August 21, 2025, and our friends Richard Wolff and Michael Hudson are back with
+      us. Welcome back. RICHARD WOLFF : Glad to be here. NIMA ALKHORSHID : Michael,
+      I want to start with you. You believe that the outcome of those two meetings between
+      the United States and Russia, then Europeans coming to the United States together
+      with Zelensky, somehow shows that Trump is pushing NATO into new proxy wars after
+      Ukraine collapsed. What’s your logic? What’s your understanding of that? MICHAEL
+      HUDSON : Well, part of the logic is the fact that everybody seemed so harmonious
+      when the meetings in Washington ended. And the mainstream media said, look how
+      Europe has capitulated to the United States. Trump said, I want peace in Ukraine
+      and peace with Russia. And, basically, Trump’s position is to forget Ukraine.
+      The war in Ukraine is over. We know what’s going to happen. Russia is going to
+      take over. There’s nothing that Zelensky or that the European countries can do
+      by giving arms that is going to prevent Russia’s victory. So let’s forget that.
+      Of course, we will support Zelensky in trying to have his troops. He’s called
+      up apparently the Azov Battalion themselves to actually go to the front and fight
+      and be decimated. Let him fight and bother Russia and Ukraine as much as possible.
+      But let’s talk about what we really want. We really still hate Russia. I hate
+      Russia as much as you do, Trump said, but we’re not going to beat Russia in Ukraine.
+      So let’s talk about where we can beat Russia. Well, we can begin to trouble it,
+      we’ve already shown, we can trouble it in the Baltic. We can sabotage its tankers.
+      We can block Russia’s Baltic tanker trade. We can bother Russia in Azerbaijan
+      and Armenia. We can build that road to not only threaten Russia, as Azerbaijan
+      is already pretty much broken with Russia, but we can threaten Iran also, the
+      whole Russian-Iranian mutual support. We can threaten Russia in Syria by backing
+      Netanyahu’s takeover of and alliance with the al-Qaeda al-Nusra Wahhabi terrorists
+      there to prepare to attack Russia and Iran, Russia from the south, so we can beat
+      Russia in Syria. We can look all over the world where we can destabilize not only
+      Russia, but also the BRICS. And that’s where we have a chance to really build
+      up and open new fronts against Russia, make it fight on a number of fronts. And
+      I think the Europeans said, oh, are we relieved? We thought you wanted peace.
+      And I think Trump said, look, forget it. The reason that I’m making such a big
+      stink about wanting the peace prize and calling the former head of NATO, who’s
+      now Norway’s finance minister, and saying, Do you think I can get the peace prize?
+      He wants to make it appear as if he’s a man of peace when actually he’s worked
+      with the deep state to plan a whole war, not only against Russia and Iran, but
+      against the BRICS as well. There’s talk now of him planning an attack on Venezuela,
+      sending in the special forces to kidnap or kill Maduro. He said, well, you know,
+      just in case there’s a chance of winning the peace prize, what do you have to
+      do to win it? You have to be like Kissinger. Kissinger sent in attackers to murder
+      Allende and put in the fascist Pinochet government. Well, Trump’s going to send
+      in attackers to kidnap or murder Maduro and put in a U.S. proxy right-wing government
+      and spread that throughout Latin America. You’re already having the Bolivia elections
+      moving to the right. I think Trump has planned to follow the neocons in the CIA
+      and the National Security Agency and the military right down the line. But he
+      wants to sort of prevent the rest of the world from realizing that we’ve really
+      got to organize and this is really going to be a war. He’s trying to deaden their
+      realization as to what he’s really trying to do. And everything that he’s done
+      is the opposite of anyone who wants peace. It’s trying to prepare as strong a
+      case for what he looks at as the final battle. And by the final battle, I think
+      he’s bought the neocon argument that, well, we are losing the empire. We are losing
+      our influence. And given that, if our influence is going to wane, then the sooner
+      we go to war, the less costly it will be. Because the longer we wait to go to
+      war, the longer we have peace, the more China, Russia, Iran, the BRICS, the global
+      majority is going to gain power. So what Trump was able to convince the Europeans
+      of was: okay, we’re not going to give up Ukraine. Of course, we’re going to try
+      to stabilize our control. We’re going to insist on, well, we have to support Ukraine’s
+      security. Well, what does security mean for the United States? It means the ability
+      to totally control a puppet government. If you don’t control a puppet government,
+      you feel insecure. If you don’t have the power to destroy it, you feel insecure,
+      just like Netanyahu feels insecure if he can’t exterminate the Palestinians. To
+      America and Zelensky, Russian-speaking Ukraine is Ukraine’s Gaza. It’s exactly
+      the same feeling of hatred that he’s tried to spur there. And you could say that
+      he has this same antagonism; it’s almost a religious fight of supporting American
+      values and autocracy, the ability to control the rest of the world. This is the
+      last time there’s any chance of doing it. And if we don’t fight now, we’re certainly
+      going to lose a fight if we fight labor. So I think that Russia immediately understood
+      this two days ago when it bombed Odessa’s oil export, oil refineries and export
+      facilities. These were the export facilities owned by Azerbaijan to export Azerbaijani
+      oil to the rest of the world. I think this accounted for maybe 25% of Azerbaijan’s
+      foreign trade. So Russia immediately saw this and the fact that it is now focusing
+      on fighting against Azerbaijan. I don’t know what it’s going to do in Syria. I
+      think that the Russians and the Americans understand what’s happening. I don’t
+      see any discussion in the media. And even some of your guests are optimistic that
+      maybe Putin really does want to go down in history as the Prince of Peace instead
+      of the War Devil . NIMA ALKHORSHID : Richard, coming to you, here is what Scott
+      Bessent said about the case of Ukraine. [clip starts] Scott Bessent said, “Trump
+      is very vigilant. Right now, we are selling arms to the Europeans, who are then
+      selling them on to the Ukrainians. And President Trump’s taking a 10% markup on
+      the arms. So maybe that 10% will cover the cost of the air cover.” [clip ends]
+      NIMA ALKHORSHID : Yeah. I was wondering, what is your take on the two meetings?
+      The first with Russia, then in the United States with Europeans coming, it’s somehow
+      amazing. I don’t know if you saw the pictures that we had from Washington. Here
+      is Donald Trump. Compare this to, I don’t know if you remember, Richard, those
+      pictures from 2016 or 2017, where Donald Trump was sitting at a table and everybody
+      was above him and trying to, you know, somehow attack him or talk to him. And
+      then this picture is totally different. It shows how European leaders are somehow
+      so desperate in their sort of manner toward the U.S. president. What’s going on?
+      What’s your take on what has happened, Richard? RICHARD WOLFF : Well, it’s interesting.
+      I come at it a little bit differently from Michael, but I suspect that if we have
+      the time, we can figure out how the two points of view might, in fact, be consistent
+      with each other. So let me respond. I begin with Scott Bessent. And all I can
+      say is I’m sure his mother is very taken with him, but for the rest of us, not
+      so much. I mean, that is embarrassing. Almost every time he speaks, it is embarrassing.
+      I have no idea half the time where he’s coming from. His fealty to Mr. Trump ranges
+      from disgusting to pathetic, but beyond that, I wouldn’t know what to say. To
+      look at the arrangement between the United States and Europe and to focus the
+      attention on the 10% markup in the movement of the weapons, I mean, that is looking
+      at an enormous tableau, and you’re at one infinitesimally unimportant dimension,
+      and that’s what you’re going to talk about. It really, you have to take a step
+      back. And you’re right, Nima, you’re right to look at the different pictures of
+      the Europeans relative to Mr. Trump then and now, because that’s Mr. Bessent,
+      too. What’s important here is the subordination of Europe. This is the end of
+      Europe’s maybe 500 years since the Renaissance, where Europe could be the center
+      of the world through its colonial takeover of the rest of the world, through its
+      early development of capitalism, through its early period of industrialization.
+      When it could be said, it was in the lead in some sense. And perhaps it wasn’t
+      the only part of the world then. I don’t know much about what was going on in
+      China that many centuries ago, et cetera. But for much of the world, this was
+      the power, the center, the wealth. And now look at it. It’s like a group of children
+      from the kindergarten being taken by their teacher to the big man’s building,
+      the White House, where they are gathered in the chairs to orate or to listen to
+      the blather that comes out of Mr. Trump. I mean, I know what they secretly think
+      of him because they have said that in many interviews in their own country. I
+      follow some of those in France and Germany. I know what leaders, including those
+      sitting there, have said about him. And there they are like puppies. For me, historically,
+      that is the most important. And I know we may not have time today to talk about
+      it, but if you look at the trade agreement that has been reached between Mr. Trump
+      and von der Leyen and the Europeans, the Americans have imposed basically a 15%
+      across-the-board tariff that all Europeans will have to basically submit to. And
+      in exchange, the Europeans took away whatever tariffs they had so that the United
+      States has virtually carte blanche. By the way, that’s not enough to accomplish
+      very much. But in terms of economics, and certainly in the short run, it is enough
+      to show that the colonial country has become the colony and the colony has become
+      the colonizer. Britain and Europe are now minor players in a game orchestrated
+      by Mr. Trump and the United States. And the irony of it all is that the United
+      States is doing this, as Michael correctly says, because the empire is going down.
+      They don’t want to spend the money. They want to take advantage of those they
+      control to impose the costs of a declining empire on them so that they have to
+      commit to investing in the United States. They have to commit to buying liquid
+      natural gas and other energy products from the United States. They have to open
+      up their fishing and agriculture to American products, which is an important business,
+      and so on. And so it’s wonderful. You have to do all these things because we’re
+      running short of money. And the irony is that Mr. Bessent knows that. He kind
+      of gets that. And for someone like him, this is an achievement. And the way you
+      see it is he focuses on the 10% markup…what? You know, only a person who’s doing
+      the nickel-and-dime counting… I find it in the history of Europe, the humiliation.
+      And I believe, and I know my belief is partly based on hope. I understand that.
+      But of course, let me remind everyone, that’s true of everybody else also. I’m
+      just admitting it. My hope is that the European people will be disgusted by what
+      they’re watching and that you will see inside the European countries on the left
+      and on the right a desire not to be dragged into this subordination. Let me remind
+      everyone, including the Europeans, if the United States can do what it is now
+      doing, why do you imagine that the next president will not do more of this? Because
+      you’re telling the Americans, here’s a way to ease your problems. Put them on
+      us. How are the Europeans going to sustain their social welfare program? Western
+      Europe’s welfare for its people is way ahead of what the United States does. They
+      were able to afford that because they had no military outlays. The United States
+      took care of that. It was a wonderful arrangement to give a military Keynesian
+      boost to the United States, which needed it, since we never got out of the depression.
+      World War II got us out, and the warfare budget has sustained us ever since. So
+      we took care of that for Europe so they could use the money they would have had
+      to spend on military to give their people health care, free education, and all
+      the other benefits that they get and that Americans don’t know about because it
+      would be very difficult to get away with not giving it to Americans if they did.
+      Okay, now what’s going to happen in Europe now if they’re not getting these benefits,
+      if they have to pay all kinds of costs, if they have all kinds of adjustments
+      to make, they’re going to cut their welfare. So they’re already busy doing it.
+      They’re going to keep cutting their welfare. Well, here are two things. In Germany,
+      as Michael, I believe, pointed out last week, the polling shows that the Alternative
+      für Deutschland now gets a bigger polling result than the Christian Democratic
+      Party, which used to be the dominant party in Germany, sometimes in partnership
+      with the Social Democrats. But nowadays, the Social Democrats have largely collapsed.
+      So the Alternative, that’s the right wing saying, we don’t want to be in this
+      position. In France, it’s the left wing. The right wing is there and has importance,
+      but the left-wing is where the action is. The left wing is the largest faction
+      in the parliament, and they have just declared, and I’m following this real closely:
+      the bloc en tout – let’s blockade everything is the slogan in english. And on
+      September 10th, they are going into the streets of Paris, Lyon, Marseille, Nice,
+      all the major parts of France to shut the country down. And boy, they’ve shown
+      with their yellow jackets, they’ve shown with their history going back to the
+      French Revolution: don’t push these people too far because they have in them a
+      gene that seems lacking in the rest of us of mobilizing their people. I would
+      add, therefore, it is an empire going down and it is taking extraordinary steps.
+      If we want to give Mr. Trump credit for recognizing that the war in Ukraine was
+      a vast amount of money was wasted over three years, okay. But meanwhile, what
+      the other things they’re doing, whether they’re neocons or not, these are minor.
+      This is not going to work. Fooling around with Azerbaijan, you got to be kidding.
+      What are you going to accomplish by murdering Mr. Maduro? I mean, really, these
+      are the desperate acts of a declining empire, and they will be seen that way.
+      Look, I suspect, just my own vision from it, that much of the Azerbaijan noise,
+      and Michael’s right about looking at it, or in Syria or in Venezuela, or if they
+      renew the Taiwan noise once the Ukraine thing is put to sleep, these are indeed
+      typical Washingtonian punches. But to me, they look like a desperate effort to
+      maintain the theater of American imperialism once the reality is no longer available.
+      Their problem, which they know, is China and the BRICS. And those places are growing
+      way faster than the United States is. They grew faster throughout the Ukraine
+      war. I want to remind people: China’s economic growth per year is in the 5% range,
+      American growth per year: half that, if that. And India’s is even faster. Russia
+      grew faster during the war than it had been growing before, and grew faster than
+      any European country, including the United States. You’re losing. You’re losing
+      left, right, and center. And much of these efforts, indeed, I would argue the
+      Ukraine war itself is a demonstration they can’t do it. And I think that’s a crisis
+      for Europe that we’re not appreciating. All those people sitting around the desk
+      that you just showed us of Mr. Trump in the Oval Office. These are the leaders
+      who were born into – grew their entire careers as the American ally, as the allies
+      of the United States, the subordinate allies, the ones who had been defeated in
+      World War II, emerged from it ruined if they were on the winning side, ruined
+      if they were on the losing side. The United States is dominant, and they’re going
+      to rebuild Europe, as it’s all over for them. They are desperate people, desperate
+      in terms of their own careers, desperate in terms of their own worldview. They
+      picked the wrong horse and it’s too late to get off. So they’re going to ride
+      him as long as he’s still standing. They will continue the war in Ukraine forever
+      if they have to look at them. That’s how they talk. They see no defeat. They see
+      Russia keeps moving X kilometers to the West. They don’t see it. It is an extraordinary
+      display of weakness. And the theater around it shouldn’t obscure that. NIMA ALKHORSHID
+      : Go ahead, Michael. MICHAEL HUDSON : Richard, we always end up in agreement.
+      I think that the European response has gone beyond disgust. They are now afraid.
+      There is a wonderful editorial in today’s Financial Times, an op-ed by Professor
+      Schock, saying that the new arena, the most important arena between the United
+      States and Europe is, and really the rest of the world, has to do with artificial
+      intelligence. She says that America’s policy, especially under Trump, has been
+      to weaponize any form of trade into a form of threatening to make your trading
+      partner dependent on you. And in the past, America has been doing precisely this
+      with oil and with grain exports, willing to turn off the taps and turn off the
+      food and to start to isolate, to put sanctions on and isolate other nations and
+      starve them out or cut off their energy if they don’t obey. Schock says that the
+      new weaponization of American foreign trade, specifically against Europe, because
+      that’s what she’s writing for the Financial Times, is artificial intelligence.
+      She says that one of the focal points of this agreement that America has been
+      pressuring Europe to sign is that they do not follow through on their plans to
+      regulate artificial intelligence, the computerized internet, the cloud, and all
+      of these things. They leave, they remain dependent on the United States for the
+      algorithms, the way that the whole artificial intelligence system is programmed
+      in such a way as to lock in users. And it locks in users by the fact that as the
+      system spreads and becomes more widely used, the cost of creating an alternative
+      system is larger and larger and larger. And that if Europe does not prevent the
+      American domination of AI now and tries to assert its own ability in AI, in chip
+      making, and basically in the way in which the artificial intelligence system is
+      structured, the logic system of it – I’m not a computer specialist, so I can’t
+      get into the details – but she gets into the details and says that essentially
+      the U.S. can impose a garbage in, garbage out system on the rest of the world.
+      She doesn’t call it that. She calls it just building in the algorithm in a way
+      that reflects American values and policy. And in the process, she says, Trump
+      is turning America into an autocracy, not a democracy. And its mode of control
+      of Europe is in the new growth industry, replacing oil, replacing food. Now that
+      other countries have alternative sources of oil and are producing their own food,
+      the one thing that is up for grabs is artificial intelligence. And I think it’s
+      the magic seven AI stocks that have been accounting for 80% of the value of the
+      increase in stock exchange prices in the United States. This economic arena is
+      very important. Also, you make the important point: what about where the opposition
+      is in Europe? Well, let’s imagine, going back to Monday’s meeting, if Trump really
+      had wanted to show up Europe, imagine if he had said, well, I know that many of
+      you leaders now are carryovers from past elections, but you got to realize in
+      the next election, we’re going to have the Alternative für Deutschland replace
+      Merz. We’re going to have the French left replace Macron. And in England, one
+      would expect Starmer and the collapsing Labour Party will be replaced either by
+      Corbyn on the left or an alliance between Corbyn and the nationalist party, the
+      Brexit leader over there. He would have had them and say, let’s all get in the
+      same room and see what they have. And you’d have these other groups all saying,
+      well, we’re against the war with Russia. We’re against the war in Ukraine. But
+      Trump didn’t do that. And that’s because they would also have been against his
+      requirement to say, yes, I’ll go along with you. We’ll expand the Cold War. We’ll
+      fight Russia. But you have to follow our leadership in this economic growth industry,
+      the artificial intelligence. And it’s a wonderful editorial on all of this saying
+      that by weaponizing technology, by weaponizing any area of foreign trade in which
+      the United States can establish dependency on other countries, that indicates
+      a policy of preventing other countries from creating an alternative. And that’s
+      what America’s definition of security is. Security is preventing other countries
+      from having an alternative. Then they can feel secure. So that’s what they mean
+      by security for Ukraine. There’s no alternative to American control of a puppet
+      government. So you have to have a puppet government. But that military idea of
+      security is exactly the same economically. You can’t have any independent technology
+      capable of becoming a rival. Well, what doesn’t this include? This may or may
+      not work for Europe, but it certainly isn’t going to work for China, which is
+      already forging ahead in artificial intelligence and computerization and chipmaking
+      and the whole sphere of technological breakthroughs, including rare-earth magnets
+      and all of the high technology, including hypersonic missile development. America
+      is behind in all of this. And its question is: what part of the world do we have
+      the power to prevent that part of the world from having an alternative? It’s trying
+      to lock in Europe. Europe today, tomorrow, BRICS. And that means the world. So
+      through all of this, I think America has told Europe, don’t worry, we’ll do it
+      together, but together under American hegemony. And that ‘together’ will be turned
+      against somehow through trying to establish a critical mass of artificial intelligence.
+      Through a way of programming that will try to pry away other countries, global
+      south countries, other BRICS countries, from China. And by having their own independent
+      AI system that presumably Europe would ultimately have to adopt. If China and
+      its neighboring Asian countries can create their own artificial intelligence system
+      and prevent backdoors from being imposed, then the United States will end up completely
+      isolated. And isolated means without its export markets to create its balance
+      of payments and to posit its trade balance by the technology services. And you
+      can already see this in the fight over Intel and the fight to prevent blocking
+      out NVIDIA from exporting more to China. America says you can export all you want.
+      We want a backdoor location controller so at a certain flick of the switch, we
+      can disable every NVIDIA switch in China, paralyze their machines, and turn off
+      all of their computers if they use your chips. So China has just moved to block
+      NVIDIA’s export of chips until it can secure itself to make sure that there’s
+      no back door. But how do you do this? It takes so long to go through the millions
+      of commands that are built into the chip that how do you know they haven’t put
+      in this geolocator and the on-off switch that can enable them to paralyze China
+      very much like Germany sabotaged the Iranian refiners, the centrifuges, and blew
+      them all up by putting in a secret control there. That’s what America wants to
+      do with AI for the rest of the world. And it’s become so apparent that it’s insisted
+      on this. It has insisted on doing this for Britain and for continental Europe
+      as well. This is the most immediate arena of the parallel fight to the military
+      rivalry and fight that’s going on. RICHARD WOLFF : Yeah, you could see that already
+      earlier. Remember, arresting the daughter of the Chinese gentleman, CEO of Huawei
+      Corporation, when she was in Canada, and forcing the Canadians to arrest her.
+      And I mean, hysterical anxiety about what you just said: that the Chinese had
+      the capacity already then, and that’s many years ago now, already then to do this
+      kind of warfare. I don’t want to beat the dead horse but I want to make it clear:
+      the scariest part of what Michael has outlined for us is the part that says that
+      this is the strategy of the United States. But then the really crucial part is:
+      that strategy is being frustrated by an equivalent opposite strategy in China
+      and the BRICS. Okay, that means that the United States confronts a situation where
+      it either has to act militarily now or risk losing this contest. And if it loses
+      it, well, then the game is over and the military won’t solve your problem. But
+      they might try it. And you know, the irony there is that then gives the American
+      left its opening. Here’s what happens: the American left becomes a movement. It’s,
+      of course, not there yet, to say the least, but it becomes a movement that says
+      the best thing for the United States is not a confrontation with China, which
+      costs us too much in the way of lost quality of life in this country, given the
+      risk that we’re going to lose, that China is just too much bigger. And with the
+      BRICS, it’s ridiculous how much bigger they are. And that bigness is in the end
+      going to overwhelm us. Therefore, stop it now. Change the policy, work out a live
+      and let live deal with China as the alternative to the confrontation. It’s a little
+      bit like saying, and if we go in that direction, we will be saying: you had a
+      chance in April of the year 2022 when you sat down in, if I remember correctly,
+      Istanbul, and you worked out most of a deal that would have ended the Ukraine
+      war weeks after it began, you would have had a better deal for Ukraine, much better
+      than what you’re going to get now. You lost it. You’re now embarking. This becomes
+      the mantra. You’re embarking on the same losing proposition in your struggle with
+      China. Only it’ll be longer and more costly and with greater risk than was involved.
+      Learn from Ukraine. Don’t do it again. Right now in the United States, that position
+      would get an enormous number of people supporting it, left, right, and center.
+      MICHAEL HUDSON : That’s why they’re trying to make sure that elections can still
+      be financed. I want to add one thing. What really gives Asia and China the advantage,
+      a total winning advantage over the West in AI? It’s open source. Everything China
+      is doing and AI is open source. That makes it impossible to put back doors in.
+      It makes it impossible to sabotage chips. America cannot win in a fair competition.
+      It can only win by sabotage, bribery, assassination, and by playing dirty. But
+      in a fair play with everything’s open, sort of the equivalent of free trade, it
+      cannot win. That’s the dilemma that Trump and the neocons have in common. And
+      I think you should look at Trump, really as the neocon leader for all of this,
+      because he’s willing to do explicitly what other neocons never thought they could
+      possibly get away with. And Trump is able to play the Christian card, saying God
+      is telling him to do all of this, and he’s found religion, and he talks about
+      what he has to do to go to heaven. I don’t think any of the neocons who were not
+      that kind of Christian ever would have conceived that being a winning ploy to
+      produce MAGA behind them. But the purpose of all of this flimflam is to prevent
+      open source, prevent free trade, and prevent other countries from making a choice.
+      That’s what national security is: preventing other countries from making a choice
+      other than to subordinate themselves to the United States and to sacrifice their
+      own growth to pay their foreign debts to the United States, to rely on the United
+      States for its military support for locking in their military arms systems, their
+      Air Force, their ships, American airplanes, ships, and guns requiring replacement
+      parts and continual fix-ups by the United States. Without replacement parts, it’s
+      as if the United States militarily has the ability to flip a switch and just turn
+      off the ability for foreign supersonic airplanes, fighters, ships, and submarines
+      to operate. You could apply this system of “how do we turn off and disable other
+      countries” right across the board. So while the global majority thinks, how can
+      we provide means of technology raising living standards for the rest of the world?
+      America says, how can we sabotage this effect? That’s all that they can do to
+      delay the decline of the American demand for control. They can’t prevent it in
+      the end. They can delay it, and that’s all they’re playing for. It’s a short-run
+      game, but it’s the short-run game that is the center of politics and financial
+      markets. NIMA ALKHORSHID : Richard, before coming to you, here is what Scott Bessent
+      said in terms of what the nature of the economic ties between Russia and China
+      and India is – how dependent they have become during the war in Ukraine. [clip
+      starts] Scott Bessent said, “China importing it is suboptimal. But if you go back
+      and look pre-22, pre-invasion, 13% of China’s oil was already coming from Russia.
+      Now it’s 16%. So China has a diversified input of their oil. If you go back and
+      look now, I believe India had less than 1% of their oil, 1%, and now I believe
+      it’s up to 42%. So India is just profiteering. They are just profiteering. They
+      are reselling. They made 16 billion in excess profits, some of the richest families
+      in India.” [clip ends] NIMA ALKHORSHID : So yeah, they’re reselling to whom? To
+      Europeans. Two days ago, Richard, there was a meeting in which the foreign minister
+      of China went to India to talk with Modi, and Modi posted on his X account. He
+      said that the situation between the ties between India and China are improving
+      like never before. I think Donald Trump is doing everything to unify. He’s just
+      achieving something that nobody could have ever achieved in terms of what’s going
+      on in BRICS. RICHARD WOLFF : Well, for me, what I see is the relentless march
+      of the decline of the American Empire. It is in the interest of India to get discounted
+      oil because the Russians give them a very good price. They’re just doing business.
+      The Russians can’t sell oil and gas in Europe. That was a European decision and
+      an American decision. Close the market, bring Russia to its knees by depriving
+      it of its export markets. The Russians turned to the Indians, with whom they had
+      long trading relations and military relations anyway, and gave them a price they
+      couldn’t believe. And of course, the Indians… What is it you want? India isn’t
+      in Europe. India is not interested in the fight between East and West over Ukraine.
+      India is interested in developing its economy, which is the number one demand
+      upon the government by its people. And getting cheap energy from Russia is a way
+      to do it. I remember listening to the very able foreign minister from India now,
+      who’s very, very good, looking incredulous at the newsmen asking him: why is India
+      buying oil from Russia? He said, you know the answer. Why did Germany buy oil
+      from Russia? Why did Europe buy oil? What are you asking us? You want us to take
+      sides in a war we had nothing to do with? Well, we’re not required to take sides
+      in a war we had nothing to do with. You don’t take sides in your country in wars,
+      you have nothing to do with. So, what is there? There are no answers to these
+      questions. And there are no answers because of what’s going on. And I think that’s
+      why China and India are discovering that they have lots of interests in common.
+      They always did, right? India was a colonial property. China never was, but was
+      almost. And so, they have a great deal in common. Britain has been a problem for
+      both of them. They all know that, et cetera, et cetera, et cetera. And they all
+      know that they would be better off if they were less dependent on the West and
+      more dependent on others, like one another. I mean, of course, they should expand
+      exports and imports between them. They are the two biggest countries on this planet.
+      They are desirable markets for each other. They ought to be developing their countries
+      in a coordinated way because it will be a faster growth for both of them rather
+      than being oriented to the West, which intrudes its interests on their exchanges.
+      By the way, they know that. They talk about it, they’re aware of it. Economists
+      I know at the university in New Delhi, they have debates about this. By the way,
+      they have radical economists in a way that American universities don’t tolerate.
+      So, they actually could get a diversity of points of view. Americans celebrate
+      it, but don’t have it. They don’t make such a big deal of it because they have
+      it. And so, they are able to build on diverse perspectives, many of which agree,
+      left, right, and center, that, of course, their relationship to China has to develop.
+      And the cheap energy from Russia makes that easier, makes it quicker, gives them
+      a boost because they become an important manufacturing country. I mean, India
+      is not where China is and won’t be for a while, but it is becoming important,
+      so it needs energy. It’s a developing country. It needs a lot of energy. Russia
+      is in a position to provide. The idea that India, to satisfy Britain and the West,
+      would sacrifice its own growth development is preposterous. That it should even
+      occur to a journalist just shows you how lost those journalists are in their country
+      of origin and the mentality of the colonial mind. It is pathetic. Of course, Mr.
+      Bessent, you know, he can’t spell colony, so he won’t bring that to bear in his
+      thinking. He will look at numbers like, gee, India is making a lot of money. Notice
+      him again. He was fascinated with the 10% markup on weapons. Now he’s fascinated
+      by the fact that discounted oil from Russia is making families in India rich.
+      Of course it is. But again, that is the least important dimension. But for Mr.
+      Bessent, it’s what he wants to talk about in the 30 seconds he has on national
+      television. You’re talking here about a true mental midget. MICHAEL HUDSON : I
+      want to add the balance of payments dimension to this Indian-Russian trade. You
+      pointed out that the families are getting rich because Russian oil is less expensive
+      to India than foreign oil. But the most important feature of this is that the
+      payments are denominated in their own currencies. Well, the result is that Russia’s
+      accumulated a very large volume of Indian currencies and probably more than it
+      needs, but it’s still willing to do this to establish the principle of trading
+      in their own currencies instead of in the dollars. Well, that’s spread throughout
+      the whole world. You’ve had China especially leading all of this, and one result
+      is that as a result of China’s holding foreign currencies that it receives in
+      payment for its exports, its dollar holdings have fallen to the lowest level in
+      20 years to about $750 billion. So it’s lowering dollars. Now, just imagine what
+      would happen if America really does attack Venezuela. That is a sign that this
+      is the first step: today Venezuela, tomorrow the BRICS. You can imagine the BRICS
+      countries accelerating their flight out of the dollar. They said, well, how did
+      America start this whole war with Venezuela? It confiscated Venezuela’s whole
+      investments in the United States held by the government, by the oil company, in
+      the oil distribution that it had here. And it told its puppet Britain, the Bank
+      of England, to confiscate China’s gold and give it to Mr. Guiadó, whom America
+      designated as the president. Well, for the rest of the BRICS, this is in the forefront
+      of their memory. They say, okay, we know the buildup of the escalation procedure.
+      And if they’ve already gone military in Venezuela, we can expect them to begin
+      financially eating away at us. You’re going to have an acceleration away from
+      the dollar. Well, Trump is happy with that because he thinks the lower dollar
+      value is going to help American industrialization, but it’s not going to. But
+      I think that that is basically the key to all this. And along with that, I want
+      to point out that, since we’re talking about the balance of payments, which I
+      always end up talking about, you’re having the effect of capital movements, hot
+      money, and financial flows in determining the price of the dollar. The headlines
+      every day in the United States financial press have been that Trump wants to fire
+      the Federal Reserve Chairman to force the Fed to lower the interest rates. Well,
+      CNBC announced on Tuesday something very interesting. Trump has invested $100
+      million of his own money in buying municipal bonds and corporate bonds. Well,
+      he’s bought these bonds yielding fairly high interest rates. And if he succeeds
+      in replacing the head of the Fed or arm-twisting him into lower interest rates,
+      this is going to create an enormous capital gain for Trump. It can double from
+      100 million to 200 million. So you have Trump putting his personal fortune behind
+      this manipulation of U.S. foreign policy. And you can believe that for him, with
+      his foreshortened view, his personal fortune comes first, American strategy the
+      second. And in Trump’s case, they tend to converge in all of this. So you’re having
+      an American financial war against the rest of the world, saying we’re going to
+      lower the dollar’s value. That means if you hold U.S. dollars in your foreign
+      reserves, as we lower the interest rates here, these dollars are going to be worth
+      less and less and less in your own currency. So your private banks, your central
+      banks, and your corporations that hold dollar balances are all going to show a
+      loss in their profit and loss statements and their net worth statements. And this
+      financial maneuvering is trying to impair the financial resilience of other countries.
+      And that’s a dimension that is left out of discussion because the balance of payments
+      analysis is not a topic taught in American universities, much less discussed in
+      the public press. RICHARD WOLFF : Yeah, and just a footnote: if Russia is accumulating
+      rupees, you know, Indian currency out of the oil exports to India, well, here’s
+      one thing you can be sure the Russian central bank is figuring out: it would be
+      interesting to use those rupees to stimulate the production in India of goods
+      that Russia would otherwise have to produce itself, or even worse, might have
+      to import from Western Europe or the United States. They won’t have to. They can
+      build on India. In other words, it allows the BRICS to help each other by opening
+      up the channels for currency movements among them. So rupees go to Russia for
+      oil and then from Russia back to India for exports, or maybe not. Maybe the rupees
+      will be accepted by the Chinese to pay for things they export to Russia because
+      the Chinese know they can use them to buy who knows what from India, thereby recreating
+      what made all the other currencies, including the dollar, become bigger than wherever
+      they started. And this is part of the BRICS replacing America in the empire story.
+      And it’s relentless, and it is much more powerful than anything they can do in
+      Azerbaijan or Venezuela or Syria. That may look good and may make a good headline
+      here. Michael’s right about that, but it is not stopping in the same way that
+      the Ukraine war did not stop all the things that led up to that war. They’re right,
+      continuing. The war started, the war developed, and now the war is ending. And
+      the other processes we’ve been talking about, they march on. MICHAEL HUDSON :
+      Wonderful, Richard. So now they can call us Modi’s puppets. RICHARD WOLFF : Yes.
+      It would work, except in America, given our level of reporting. Nobody knows who
+      Modi is. MICHAEL HUDSON : That’s our advantage. NIMA ALKHORSHID : Yes. Yeah, we’re
+      going to be pro-India. They’re going to call us pro-India. Thank you so much,
+      Richard and Michael, for being with us today. Great pleasure, as always. MICHAEL
+      HUDSON : And a good discussion. NIMA ALKHORSHID : Thank you. Transcription and
+      Diarization: hudsearch Editing: Harrison Betts Review: ced Photo by Steve Johnson
+      on Unsplash The post NATO Shifts to New Fronts first appeared on Michael Hudson
+      .'
+    one_sentence_summary: In a discussion on August 21, 2025, Michael Hudson argues
+      that recent diplomatic meetings indicate Trump is steering NATO towards new proxy
+      wars following the collapse of Ukraine, suggesting a shift in focus away from
+      the conflict as Russia is poised to take control.
+    paragraph_summary: In a discussion on August 21, 2025, Michael Hudson expressed
+      concerns that former President Trump is steering NATO towards new proxy conflicts
+      following the collapse of Ukraine, suggesting that the recent meetings between
+      the U.S., Russia, and European leaders indicate a shift in strategy. Hudson argued
+      that while mainstream media portrayed a united front against Russia, Trump's actual
+      stance is to abandon Ukraine, acknowledging Russia's likely victory in the conflict.
+      He emphasized that Trump still harbors animosity towards Russia and is instead
+      focusing on alternative ways to undermine it, such as increasing tensions in the
+      Baltic region, sabotaging Russian trade, and creating conflicts in areas like
+      Azerbaijan and Syria.
+    published: '2025-08-28T01:21:00+00:00'
+  - title: NATO Shifts to New Fronts
+    url: https://michael-hudson.com/2025/08/nato-shifts-to-new-fronts/
+    text: '2025.08.21 – Dialogue Works NIMA ALKHORSHID : Hi, everybody. Today is Thursday,
+      August 21, 2025, and our friends Richard Wolff and Michael Hudson are back with
+      us. Welcome back. RICHARD WOLFF : Glad to be here. NIMA ALKHORSHID : Michael,
+      I want to start with you. You believe that the outcome of those two meetings between
+      the United States and Russia, then Europeans coming to the United States together
+      with Zelensky, somehow shows that Trump is pushing NATO into new proxy wars after
+      Ukraine collapsed. What’s your logic? What’s your understanding of that? MICHAEL
+      HUDSON : Well, part of the logic is the fact that everybody seemed so harmonious
+      when the meetings in Washington ended. And the mainstream media said, look how
+      Europe has capitulated to the United States. Trump said, I want peace in Ukraine
+      and peace with Russia. And, basically, Trump’s position is to forget Ukraine.
+      The war in Ukraine is over. We know what’s going to happen. Russia is going to
+      take over. There’s nothing that Zelensky or that the European countries can do
+      by giving arms that is going to prevent Russia’s victory. So let’s forget that.
+      Of course, we will support Zelensky in trying to have his troops. He’s called
+      up apparently the Azov Battalion themselves to actually go to the front and fight
+      and be decimated. Let him fight and bother Russia and Ukraine as much as possible.
+      But let’s talk about what we really want. We really still hate Russia. I hate
+      Russia as much as you do, Trump said, but we’re not going to beat Russia in Ukraine.
+      So let’s talk about where we can beat Russia. Well, we can begin to trouble it,
+      we’ve already shown, we can trouble it in the Baltic. We can sabotage its tankers.
+      We can block Russia’s Baltic tanker trade. We can bother Russia in Azerbaijan
+      and Armenia. We can build that road to not only threaten Russia, as Azerbaijan
+      is already pretty much broken with Russia, but we can threaten Iran also, the
+      whole Russian-Iranian mutual support. We can threaten Russia in Syria by backing
+      Netanyahu’s takeover of and alliance with the al-Qaeda al-Nusra Wahhabi terrorists
+      there to prepare to attack Russia and Iran, Russia from the south, so we can beat
+      Russia in Syria. We can look all over the world where we can destabilize not only
+      Russia, but also the BRICS. And that’s where we have a chance to really build
+      up and open new fronts against Russia, make it fight on a number of fronts. And
+      I think the Europeans said, oh, are we relieved? We thought you wanted peace.
+      And I think Trump said, look, forget it. The reason that I’m making such a big
+      stink about wanting the peace prize and calling the former head of NATO, who’s
+      now Norway’s finance minister, and saying, Do you think I can get the peace prize?
+      He wants to make it appear as if he’s a man of peace when actually he’s worked
+      with the deep state to plan a whole war, not only against Russia and Iran, but
+      against the BRICS as well. There’s talk now of him planning an attack on Venezuela,
+      sending in the special forces to kidnap or kill Maduro. He said, well, you know,
+      just in case there’s a chance of winning the peace prize, what do you have to
+      do to win it? You have to be like Kissinger. Kissinger sent in attackers to murder
+      Allende and put in the fascist Pinochet government. Well, Trump’s going to send
+      in attackers to kidnap or murder Maduro and put in a U.S. proxy right-wing government
+      and spread that throughout Latin America. You’re already having the Bolivia elections
+      moving to the right. I think Trump has planned to follow the neocons in the CIA
+      and the National Security Agency and the military right down the line. But he
+      wants to sort of prevent the rest of the world from realizing that we’ve really
+      got to organize and this is really going to be a war. He’s trying to deaden their
+      realization as to what he’s really trying to do. And everything that he’s done
+      is the opposite of anyone who wants peace. It’s trying to prepare as strong a
+      case for what he looks at as the final battle. And by the final battle, I think
+      he’s bought the neocon argument that, well, we are losing the empire. We are losing
+      our influence. And given that, if our influence is going to wane, then the sooner
+      we go to war, the less costly it will be. Because the longer we wait to go to
+      war, the longer we have peace, the more China, Russia, Iran, the BRICS, the global
+      majority is going to gain power. So what Trump was able to convince the Europeans
+      of was: okay, we’re not going to give up Ukraine. Of course, we’re going to try
+      to stabilize our control. We’re going to insist on, well, we have to support Ukraine’s
+      security. Well, what does security mean for the United States? It means the ability
+      to totally control a puppet government. If you don’t control a puppet government,
+      you feel insecure. If you don’t have the power to destroy it, you feel insecure,
+      just like Netanyahu feels insecure if he can’t exterminate the Palestinians. To
+      America and Zelensky, Russian-speaking Ukraine is Ukraine’s Gaza. It’s exactly
+      the same feeling of hatred that he’s tried to spur there. And you could say that
+      he has this same antagonism; it’s almost a religious fight of supporting American
+      values and autocracy, the ability to control the rest of the world. This is the
+      last time there’s any chance of doing it. And if we don’t fight now, we’re certainly
+      going to lose a fight if we fight labor. So I think that Russia immediately understood
+      this two days ago when it bombed Odessa’s oil export, oil refineries and export
+      facilities. These were the export facilities owned by Azerbaijan to export Azerbaijani
+      oil to the rest of the world. I think this accounted for maybe 25% of Azerbaijan’s
+      foreign trade. So Russia immediately saw this and the fact that it is now focusing
+      on fighting against Azerbaijan. I don’t know what it’s going to do in Syria. I
+      think that the Russians and the Americans understand what’s happening. I don’t
+      see any discussion in the media. And even some of your guests are optimistic that
+      maybe Putin really does want to go down in history as the Prince of Peace instead
+      of the War Devil . NIMA ALKHORSHID : Richard, coming to you, here is what Scott
+      Bessent said about the case of Ukraine. [clip starts] Scott Bessent said, “Trump
+      is very vigilant. Right now, we are selling arms to the Europeans, who are then
+      selling them on to the Ukrainians. And President Trump’s taking a 10% markup on
+      the arms. So maybe that 10% will cover the cost of the air cover.” [clip ends]
+      NIMA ALKHORSHID : Yeah. I was wondering, what is your take on the two meetings?
+      The first with Russia, then in the United States with Europeans coming, it’s somehow
+      amazing. I don’t know if you saw the pictures that we had from Washington. Here
+      is Donald Trump. Compare this to, I don’t know if you remember, Richard, those
+      pictures from 2016 or 2017, where Donald Trump was sitting at a table and everybody
+      was above him and trying to, you know, somehow attack him or talk to him. And
+      then this picture is totally different. It shows how European leaders are somehow
+      so desperate in their sort of manner toward the U.S. president. What’s going on?
+      What’s your take on what has happened, Richard? RICHARD WOLFF : Well, it’s interesting.
+      I come at it a little bit differently from Michael, but I suspect that if we have
+      the time, we can figure out how the two points of view might, in fact, be consistent
+      with each other. So let me respond. I begin with Scott Bessent. And all I can
+      say is I’m sure his mother is very taken with him, but for the rest of us, not
+      so much. I mean, that is embarrassing. Almost every time he speaks, it is embarrassing.
+      I have no idea half the time where he’s coming from. His fealty to Mr. Trump ranges
+      from disgusting to pathetic, but beyond that, I wouldn’t know what to say. To
+      look at the arrangement between the United States and Europe and to focus the
+      attention on the 10% markup in the movement of the weapons, I mean, that is looking
+      at an enormous tableau, and you’re at one infinitesimally unimportant dimension,
+      and that’s what you’re going to talk about. It really, you have to take a step
+      back. And you’re right, Nima, you’re right to look at the different pictures of
+      the Europeans relative to Mr. Trump then and now, because that’s Mr. Bessent,
+      too. What’s important here is the subordination of Europe. This is the end of
+      Europe’s maybe 500 years since the Renaissance, where Europe could be the center
+      of the world through its colonial takeover of the rest of the world, through its
+      early development of capitalism, through its early period of industrialization.
+      When it could be said, it was in the lead in some sense. And perhaps it wasn’t
+      the only part of the world then. I don’t know much about what was going on in
+      China that many centuries ago, et cetera. But for much of the world, this was
+      the power, the center, the wealth. And now look at it. It’s like a group of children
+      from the kindergarten being taken by their teacher to the big man’s building,
+      the White House, where they are gathered in the chairs to orate or to listen to
+      the blather that comes out of Mr. Trump. I mean, I know what they secretly think
+      of him because they have said that in many interviews in their own country. I
+      follow some of those in France and Germany. I know what leaders, including those
+      sitting there, have said about him. And there they are like puppies. For me, historically,
+      that is the most important. And I know we may not have time today to talk about
+      it, but if you look at the trade agreement that has been reached between Mr. Trump
+      and von der Leyen and the Europeans, the Americans have imposed basically a 15%
+      across-the-board tariff that all Europeans will have to basically submit to. And
+      in exchange, the Europeans took away whatever tariffs they had so that the United
+      States has virtually carte blanche. By the way, that’s not enough to accomplish
+      very much. But in terms of economics, and certainly in the short run, it is enough
+      to show that the colonial country has become the colony and the colony has become
+      the colonizer. Britain and Europe are now minor players in a game orchestrated
+      by Mr. Trump and the United States. And the irony of it all is that the United
+      States is doing this, as Michael correctly says, because the empire is going down.
+      They don’t want to spend the money. They want to take advantage of those they
+      control to impose the costs of a declining empire on them so that they have to
+      commit to investing in the United States. They have to commit to buying liquid
+      natural gas and other energy products from the United States. They have to open
+      up their fishing and agriculture to American products, which is an important business,
+      and so on. And so it’s wonderful. You have to do all these things because we’re
+      running short of money. And the irony is that Mr. Bessent knows that. He kind
+      of gets that. And for someone like him, this is an achievement. And the way you
+      see it is he focuses on the 10% markup…what? You know, only a person who’s doing
+      the nickel-and-dime counting… I find it in the history of Europe, the humiliation.
+      And I believe, and I know my belief is partly based on hope. I understand that.
+      But of course, let me remind everyone, that’s true of everybody else also. I’m
+      just admitting it. My hope is that the European people will be disgusted by what
+      they’re watching and that you will see inside the European countries on the left
+      and on the right a desire not to be dragged into this subordination. Let me remind
+      everyone, including the Europeans, if the United States can do what it is now
+      doing, why do you imagine that the next president will not do more of this? Because
+      you’re telling the Americans, here’s a way to ease your problems. Put them on
+      us. How are the Europeans going to sustain their social welfare program? Western
+      Europe’s welfare for its people is way ahead of what the United States does. They
+      were able to afford that because they had no military outlays. The United States
+      took care of that. It was a wonderful arrangement to give a military Keynesian
+      boost to the United States, which needed it, since we never got out of the depression.
+      World War II got us out, and the warfare budget has sustained us ever since. So
+      we took care of that for Europe so they could use the money they would have had
+      to spend on military to give their people health care, free education, and all
+      the other benefits that they get and that Americans don’t know about because it
+      would be very difficult to get away with not giving it to Americans if they did.
+      Okay, now what’s going to happen in Europe now if they’re not getting these benefits,
+      if they have to pay all kinds of costs, if they have all kinds of adjustments
+      to make, they’re going to cut their welfare. So they’re already busy doing it.
+      They’re going to keep cutting their welfare. Well, here are two things. In Germany,
+      as Michael, I believe, pointed out last week, the polling shows that the Alternative
+      für Deutschland now gets a bigger polling result than the Christian Democratic
+      Party, which used to be the dominant party in Germany, sometimes in partnership
+      with the Social Democrats. But nowadays, the Social Democrats have largely collapsed.
+      So the Alternative, that’s the right wing saying, we don’t want to be in this
+      position. In France, it’s the left wing. The right wing is there and has importance,
+      but the left-wing is where the action is. The left wing is the largest faction
+      in the parliament, and they have just declared, and I’m following this real closely:
+      the bloc en tout – let’s blockade everything is the slogan in english. And on
+      September 10th, they are going into the streets of Paris, Lyon, Marseille, Nice,
+      all the major parts of France to shut the country down. And boy, they’ve shown
+      with their yellow jackets, they’ve shown with their history going back to the
+      French Revolution: don’t push these people too far because they have in them a
+      gene that seems lacking in the rest of us of mobilizing their people. I would
+      add, therefore, it is an empire going down and it is taking extraordinary steps.
+      If we want to give Mr. Trump credit for recognizing that the war in Ukraine was
+      a vast amount of money was wasted over three years, okay. But meanwhile, what
+      the other things they’re doing, whether they’re neocons or not, these are minor.
+      This is not going to work. Fooling around with Azerbaijan, you got to be kidding.
+      What are you going to accomplish by murdering Mr. Maduro? I mean, really, these
+      are the desperate acts of a declining empire, and they will be seen that way.
+      Look, I suspect, just my own vision from it, that much of the Azerbaijan noise,
+      and Michael’s right about looking at it, or in Syria or in Venezuela, or if they
+      renew the Taiwan noise once the Ukraine thing is put to sleep, these are indeed
+      typical Washingtonian punches. But to me, they look like a desperate effort to
+      maintain the theater of American imperialism once the reality is no longer available.
+      Their problem, which they know, is China and the BRICS. And those places are growing
+      way faster than the United States is. They grew faster throughout the Ukraine
+      war. I want to remind people: China’s economic growth per year is in the 5% range,
+      American growth per year: half that, if that. And India’s is even faster. Russia
+      grew faster during the war than it had been growing before, and grew faster than
+      any European country, including the United States. You’re losing. You’re losing
+      left, right, and center. And much of these efforts, indeed, I would argue the
+      Ukraine war itself is a demonstration they can’t do it. And I think that’s a crisis
+      for Europe that we’re not appreciating. All those people sitting around the desk
+      that you just showed us of Mr. Trump in the Oval Office. These are the leaders
+      who were born into – grew their entire careers as the American ally, as the allies
+      of the United States, the subordinate allies, the ones who had been defeated in
+      World War II, emerged from it ruined if they were on the winning side, ruined
+      if they were on the losing side. The United States is dominant, and they’re going
+      to rebuild Europe, as it’s all over for them. They are desperate people, desperate
+      in terms of their own careers, desperate in terms of their own worldview. They
+      picked the wrong horse and it’s too late to get off. So they’re going to ride
+      him as long as he’s still standing. They will continue the war in Ukraine forever
+      if they have to look at them. That’s how they talk. They see no defeat. They see
+      Russia keeps moving X kilometers to the West. They don’t see it. It is an extraordinary
+      display of weakness. And the theater around it shouldn’t obscure that. NIMA ALKHORSHID
+      : Go ahead, Michael. MICHAEL HUDSON : Richard, we always end up in agreement.
+      I think that the European response has gone beyond disgust. They are now afraid.
+      There is a wonderful editorial in today’s Financial Times, an op-ed by Professor
+      Schock, saying that the new arena, the most important arena between the United
+      States and Europe is, and really the rest of the world, has to do with artificial
+      intelligence. She says that America’s policy, especially under Trump, has been
+      to weaponize any form of trade into a form of threatening to make your trading
+      partner dependent on you. And in the past, America has been doing precisely this
+      with oil and with grain exports, willing to turn off the taps and turn off the
+      food and to start to isolate, to put sanctions on and isolate other nations and
+      starve them out or cut off their energy if they don’t obey. Schock says that the
+      new weaponization of American foreign trade, specifically against Europe, because
+      that’s what she’s writing for the Financial Times, is artificial intelligence.
+      She says that one of the focal points of this agreement that America has been
+      pressuring Europe to sign is that they do not follow through on their plans to
+      regulate artificial intelligence, the computerized internet, the cloud, and all
+      of these things. They leave, they remain dependent on the United States for the
+      algorithms, the way that the whole artificial intelligence system is programmed
+      in such a way as to lock in users. And it locks in users by the fact that as the
+      system spreads and becomes more widely used, the cost of creating an alternative
+      system is larger and larger and larger. And that if Europe does not prevent the
+      American domination of AI now and tries to assert its own ability in AI, in chip
+      making, and basically in the way in which the artificial intelligence system is
+      structured, the logic system of it – I’m not a computer specialist, so I can’t
+      get into the details – but she gets into the details and says that essentially
+      the U.S. can impose a garbage in, garbage out system on the rest of the world.
+      She doesn’t call it that. She calls it just building in the algorithm in a way
+      that reflects American values and policy. And in the process, she says, Trump
+      is turning America into an autocracy, not a democracy. And its mode of control
+      of Europe is in the new growth industry, replacing oil, replacing food. Now that
+      other countries have alternative sources of oil and are producing their own food,
+      the one thing that is up for grabs is artificial intelligence. And I think it’s
+      the magic seven AI stocks that have been accounting for 80% of the value of the
+      increase in stock exchange prices in the United States. This economic arena is
+      very important. Also, you make the important point: what about where the opposition
+      is in Europe? Well, let’s imagine, going back to Monday’s meeting, if Trump really
+      had wanted to show up Europe, imagine if he had said, well, I know that many of
+      you leaders now are carryovers from past elections, but you got to realize in
+      the next election, we’re going to have the Alternative für Deutschland replace
+      Merz. We’re going to have the French left replace Macron. And in England, one
+      would expect Starmer and the collapsing Labour Party will be replaced either by
+      Corbyn on the left or an alliance between Corbyn and the nationalist party, the
+      Brexit leader over there. He would have had them and say, let’s all get in the
+      same room and see what they have. And you’d have these other groups all saying,
+      well, we’re against the war with Russia. We’re against the war in Ukraine. But
+      Trump didn’t do that. And that’s because they would also have been against his
+      requirement to say, yes, I’ll go along with you. We’ll expand the Cold War. We’ll
+      fight Russia. But you have to follow our leadership in this economic growth industry,
+      the artificial intelligence. And it’s a wonderful editorial on all of this saying
+      that by weaponizing technology, by weaponizing any area of foreign trade in which
+      the United States can establish dependency on other countries, that indicates
+      a policy of preventing other countries from creating an alternative. And that’s
+      what America’s definition of security is. Security is preventing other countries
+      from having an alternative. Then they can feel secure. So that’s what they mean
+      by security for Ukraine. There’s no alternative to American control of a puppet
+      government. So you have to have a puppet government. But that military idea of
+      security is exactly the same economically. You can’t have any independent technology
+      capable of becoming a rival. Well, what doesn’t this include? This may or may
+      not work for Europe, but it certainly isn’t going to work for China, which is
+      already forging ahead in artificial intelligence and computerization and chipmaking
+      and the whole sphere of technological breakthroughs, including rare-earth magnets
+      and all of the high technology, including hypersonic missile development. America
+      is behind in all of this. And its question is: what part of the world do we have
+      the power to prevent that part of the world from having an alternative? It’s trying
+      to lock in Europe. Europe today, tomorrow, BRICS. And that means the world. So
+      through all of this, I think America has told Europe, don’t worry, we’ll do it
+      together, but together under American hegemony. And that ‘together’ will be turned
+      against somehow through trying to establish a critical mass of artificial intelligence.
+      Through a way of programming that will try to pry away other countries, global
+      south countries, other BRICS countries, from China. And by having their own independent
+      AI system that presumably Europe would ultimately have to adopt. If China and
+      its neighboring Asian countries can create their own artificial intelligence system
+      and prevent backdoors from being imposed, then the United States will end up completely
+      isolated. And isolated means without its export markets to create its balance
+      of payments and to posit its trade balance by the technology services. And you
+      can already see this in the fight over Intel and the fight to prevent blocking
+      out NVIDIA from exporting more to China. America says you can export all you want.
+      We want a backdoor location controller so at a certain flick of the switch, we
+      can disable every NVIDIA switch in China, paralyze their machines, and turn off
+      all of their computers if they use your chips. So China has just moved to block
+      NVIDIA’s export of chips until it can secure itself to make sure that there’s
+      no back door. But how do you do this? It takes so long to go through the millions
+      of commands that are built into the chip that how do you know they haven’t put
+      in this geolocator and the on-off switch that can enable them to paralyze China
+      very much like Germany sabotaged the Iranian refiners, the centrifuges, and blew
+      them all up by putting in a secret control there. That’s what America wants to
+      do with AI for the rest of the world. And it’s become so apparent that it’s insisted
+      on this. It has insisted on doing this for Britain and for continental Europe
+      as well. This is the most immediate arena of the parallel fight to the military
+      rivalry and fight that’s going on. RICHARD WOLFF : Yeah, you could see that already
+      earlier. Remember, arresting the daughter of the Chinese gentleman, CEO of Huawei
+      Corporation, when she was in Canada, and forcing the Canadians to arrest her.
+      And I mean, hysterical anxiety about what you just said: that the Chinese had
+      the capacity already then, and that’s many years ago now, already then to do this
+      kind of warfare. I don’t want to beat the dead horse but I want to make it clear:
+      the scariest part of what Michael has outlined for us is the part that says that
+      this is the strategy of the United States. But then the really crucial part is:
+      that strategy is being frustrated by an equivalent opposite strategy in China
+      and the BRICS. Okay, that means that the United States confronts a situation where
+      it either has to act militarily now or risk losing this contest. And if it loses
+      it, well, then the game is over and the military won’t solve your problem. But
+      they might try it. And you know, the irony there is that then gives the American
+      left its opening. Here’s what happens: the American left becomes a movement. It’s,
+      of course, not there yet, to say the least, but it becomes a movement that says
+      the best thing for the United States is not a confrontation with China, which
+      costs us too much in the way of lost quality of life in this country, given the
+      risk that we’re going to lose, that China is just too much bigger. And with the
+      BRICS, it’s ridiculous how much bigger they are. And that bigness is in the end
+      going to overwhelm us. Therefore, stop it now. Change the policy, work out a live
+      and let live deal with China as the alternative to the confrontation. It’s a little
+      bit like saying, and if we go in that direction, we will be saying: you had a
+      chance in April of the year 2022 when you sat down in, if I remember correctly,
+      Istanbul, and you worked out most of a deal that would have ended the Ukraine
+      war weeks after it began, you would have had a better deal for Ukraine, much better
+      than what you’re going to get now. You lost it. You’re now embarking. This becomes
+      the mantra. You’re embarking on the same losing proposition in your struggle with
+      China. Only it’ll be longer and more costly and with greater risk than was involved.
+      Learn from Ukraine. Don’t do it again. Right now in the United States, that position
+      would get an enormous number of people supporting it, left, right, and center.
+      MICHAEL HUDSON : That’s why they’re trying to make sure that elections can still
+      be financed. I want to add one thing. What really gives Asia and China the advantage,
+      a total winning advantage over the West in AI? It’s open source. Everything China
+      is doing and AI is open source. That makes it impossible to put back doors in.
+      It makes it impossible to sabotage chips. America cannot win in a fair competition.
+      It can only win by sabotage, bribery, assassination, and by playing dirty. But
+      in a fair play with everything’s open, sort of the equivalent of free trade, it
+      cannot win. That’s the dilemma that Trump and the neocons have in common. And
+      I think you should look at Trump, really as the neocon leader for all of this,
+      because he’s willing to do explicitly what other neocons never thought they could
+      possibly get away with. And Trump is able to play the Christian card, saying God
+      is telling him to do all of this, and he’s found religion, and he talks about
+      what he has to do to go to heaven. I don’t think any of the neocons who were not
+      that kind of Christian ever would have conceived that being a winning ploy to
+      produce MAGA behind them. But the purpose of all of this flimflam is to prevent
+      open source, prevent free trade, and prevent other countries from making a choice.
+      That’s what national security is: preventing other countries from making a choice
+      other than to subordinate themselves to the United States and to sacrifice their
+      own growth to pay their foreign debts to the United States, to rely on the United
+      States for its military support for locking in their military arms systems, their
+      Air Force, their ships, American airplanes, ships, and guns requiring replacement
+      parts and continual fix-ups by the United States. Without replacement parts, it’s
+      as if the United States militarily has the ability to flip a switch and just turn
+      off the ability for foreign supersonic airplanes, fighters, ships, and submarines
+      to operate. You could apply this system of “how do we turn off and disable other
+      countries” right across the board. So while the global majority thinks, how can
+      we provide means of technology raising living standards for the rest of the world?
+      America says, how can we sabotage this effect? That’s all that they can do to
+      delay the decline of the American demand for control. They can’t prevent it in
+      the end. They can delay it, and that’s all they’re playing for. It’s a short-run
+      game, but it’s the short-run game that is the center of politics and financial
+      markets. NIMA ALKHORSHID : Richard, before coming to you, here is what Scott Bessent
+      said in terms of what the nature of the economic ties between Russia and China
+      and India is – how dependent they have become during the war in Ukraine. [clip
+      starts] Scott Bessent said, “China importing it is suboptimal. But if you go back
+      and look pre-22, pre-invasion, 13% of China’s oil was already coming from Russia.
+      Now it’s 16%. So China has a diversified input of their oil. If you go back and
+      look now, I believe India had less than 1% of their oil, 1%, and now I believe
+      it’s up to 42%. So India is just profiteering. They are just profiteering. They
+      are reselling. They made 16 billion in excess profits, some of the richest families
+      in India.” [clip ends] NIMA ALKHORSHID : So yeah, they’re reselling to whom? To
+      Europeans. Two days ago, Richard, there was a meeting in which the foreign minister
+      of China went to India to talk with Modi, and Modi posted on his X account. He
+      said that the situation between the ties between India and China are improving
+      like never before. I think Donald Trump is doing everything to unify. He’s just
+      achieving something that nobody could have ever achieved in terms of what’s going
+      on in BRICS. RICHARD WOLFF : Well, for me, what I see is the relentless march
+      of the decline of the American Empire. It is in the interest of India to get discounted
+      oil because the Russians give them a very good price. They’re just doing business.
+      The Russians can’t sell oil and gas in Europe. That was a European decision and
+      an American decision. Close the market, bring Russia to its knees by depriving
+      it of its export markets. The Russians turned to the Indians, with whom they had
+      long trading relations and military relations anyway, and gave them a price they
+      couldn’t believe. And of course, the Indians… What is it you want? India isn’t
+      in Europe. India is not interested in the fight between East and West over Ukraine.
+      India is interested in developing its economy, which is the number one demand
+      upon the government by its people. And getting cheap energy from Russia is a way
+      to do it. I remember listening to the very able foreign minister from India now,
+      who’s very, very good, looking incredulous at the newsmen asking him: why is India
+      buying oil from Russia? He said, you know the answer. Why did Germany buy oil
+      from Russia? Why did Europe buy oil? What are you asking us? You want us to take
+      sides in a war we had nothing to do with? Well, we’re not required to take sides
+      in a war we had nothing to do with. You don’t take sides in your country in wars,
+      you have nothing to do with. So, what is there? There are no answers to these
+      questions. And there are no answers because of what’s going on. And I think that’s
+      why China and India are discovering that they have lots of interests in common.
+      They always did, right? India was a colonial property. China never was, but was
+      almost. And so, they have a great deal in common. Britain has been a problem for
+      both of them. They all know that, et cetera, et cetera, et cetera. And they all
+      know that they would be better off if they were less dependent on the West and
+      more dependent on others, like one another. I mean, of course, they should expand
+      exports and imports between them. They are the two biggest countries on this planet.
+      They are desirable markets for each other. They ought to be developing their countries
+      in a coordinated way because it will be a faster growth for both of them rather
+      than being oriented to the West, which intrudes its interests on their exchanges.
+      By the way, they know that. They talk about it, they’re aware of it. Economists
+      I know at the university in New Delhi, they have debates about this. By the way,
+      they have radical economists in a way that American universities don’t tolerate.
+      So, they actually could get a diversity of points of view. Americans celebrate
+      it, but don’t have it. They don’t make such a big deal of it because they have
+      it. And so, they are able to build on diverse perspectives, many of which agree,
+      left, right, and center, that, of course, their relationship to China has to develop.
+      And the cheap energy from Russia makes that easier, makes it quicker, gives them
+      a boost because they become an important manufacturing country. I mean, India
+      is not where China is and won’t be for a while, but it is becoming important,
+      so it needs energy. It’s a developing country. It needs a lot of energy. Russia
+      is in a position to provide. The idea that India, to satisfy Britain and the West,
+      would sacrifice its own growth development is preposterous. That it should even
+      occur to a journalist just shows you how lost those journalists are in their country
+      of origin and the mentality of the colonial mind. It is pathetic. Of course, Mr.
+      Bessent, you know, he can’t spell colony, so he won’t bring that to bear in his
+      thinking. He will look at numbers like, gee, India is making a lot of money. Notice
+      him again. He was fascinated with the 10% markup on weapons. Now he’s fascinated
+      by the fact that discounted oil from Russia is making families in India rich.
+      Of course it is. But again, that is the least important dimension. But for Mr.
+      Bessent, it’s what he wants to talk about in the 30 seconds he has on national
+      television. You’re talking here about a true mental midget. MICHAEL HUDSON : I
+      want to add the balance of payments dimension to this Indian-Russian trade. You
+      pointed out that the families are getting rich because Russian oil is less expensive
+      to India than foreign oil. But the most important feature of this is that the
+      payments are denominated in their own currencies. Well, the result is that Russia’s
+      accumulated a very large volume of Indian currencies and probably more than it
+      needs, but it’s still willing to do this to establish the principle of trading
+      in their own currencies instead of in the dollars. Well, that’s spread throughout
+      the whole world. You’ve had China especially leading all of this, and one result
+      is that as a result of China’s holding foreign currencies that it receives in
+      payment for its exports, its dollar holdings have fallen to the lowest level in
+      20 years to about $750 billion. So it’s lowering dollars. Now, just imagine what
+      would happen if America really does attack Venezuela. That is a sign that this
+      is the first step: today Venezuela, tomorrow the BRICS. You can imagine the BRICS
+      countries accelerating their flight out of the dollar. They said, well, how did
+      America start this whole war with Venezuela? It confiscated Venezuela’s whole
+      investments in the United States held by the government, by the oil company, in
+      the oil distribution that it had here. And it told its puppet Britain, the Bank
+      of England, to confiscate China’s gold and give it to Mr. Guiadó, whom America
+      designated as the president. Well, for the rest of the BRICS, this is in the forefront
+      of their memory. They say, okay, we know the buildup of the escalation procedure.
+      And if they’ve already gone military in Venezuela, we can expect them to begin
+      financially eating away at us. You’re going to have an acceleration away from
+      the dollar. Well, Trump is happy with that because he thinks the lower dollar
+      value is going to help American industrialization, but it’s not going to. But
+      I think that that is basically the key to all this. And along with that, I want
+      to point out that, since we’re talking about the balance of payments, which I
+      always end up talking about, you’re having the effect of capital movements, hot
+      money, and financial flows in determining the price of the dollar. The headlines
+      every day in the United States financial press have been that Trump wants to fire
+      the Federal Reserve Chairman to force the Fed to lower the interest rates. Well,
+      CNBC announced on Tuesday something very interesting. Trump has invested $100
+      million of his own money in buying municipal bonds and corporate bonds. Well,
+      he’s bought these bonds yielding fairly high interest rates. And if he succeeds
+      in replacing the head of the Fed or arm-twisting him into lower interest rates,
+      this is going to create an enormous capital gain for Trump. It can double from
+      100 million to 200 million. So you have Trump putting his personal fortune behind
+      this manipulation of U.S. foreign policy. And you can believe that for him, with
+      his foreshortened view, his personal fortune comes first, American strategy the
+      second. And in Trump’s case, they tend to converge in all of this. So you’re having
+      an American financial war against the rest of the world, saying we’re going to
+      lower the dollar’s value. That means if you hold U.S. dollars in your foreign
+      reserves, as we lower the interest rates here, these dollars are going to be worth
+      less and less and less in your own currency. So your private banks, your central
+      banks, and your corporations that hold dollar balances are all going to show a
+      loss in their profit and loss statements and their net worth statements. And this
+      financial maneuvering is trying to impair the financial resilience of other countries.
+      And that’s a dimension that is left out of discussion because the balance of payments
+      analysis is not a topic taught in American universities, much less discussed in
+      the public press. RICHARD WOLFF : Yeah, and just a footnote: if Russia is accumulating
+      rupees, you know, Indian currency out of the oil exports to India, well, here’s
+      one thing you can be sure the Russian central bank is figuring out: it would be
+      interesting to use those rupees to stimulate the production in India of goods
+      that Russia would otherwise have to produce itself, or even worse, might have
+      to import from Western Europe or the United States. They won’t have to. They can
+      build on India. In other words, it allows the BRICS to help each other by opening
+      up the channels for currency movements among them. So rupees go to Russia for
+      oil and then from Russia back to India for exports, or maybe not. Maybe the rupees
+      will be accepted by the Chinese to pay for things they export to Russia because
+      the Chinese know they can use them to buy who knows what from India, thereby recreating
+      what made all the other currencies, including the dollar, become bigger than wherever
+      they started. And this is part of the BRICS replacing America in the empire story.
+      And it’s relentless, and it is much more powerful than anything they can do in
+      Azerbaijan or Venezuela or Syria. That may look good and may make a good headline
+      here. Michael’s right about that, but it is not stopping in the same way that
+      the Ukraine war did not stop all the things that led up to that war. They’re right,
+      continuing. The war started, the war developed, and now the war is ending. And
+      the other processes we’ve been talking about, they march on. MICHAEL HUDSON :
+      Wonderful, Richard. So now they can call us Modi’s puppets. RICHARD WOLFF : Yes.
+      It would work, except in America, given our level of reporting. Nobody knows who
+      Modi is. MICHAEL HUDSON : That’s our advantage. NIMA ALKHORSHID : Yes. Yeah, we’re
+      going to be pro-India. They’re going to call us pro-India. Thank you so much,
+      Richard and Michael, for being with us today. Great pleasure, as always. MICHAEL
+      HUDSON : And a good discussion. NIMA ALKHORSHID : Thank you. Transcription and
+      Diarization: hudsearch Editing: Harrison Betts Review: ced Photo by Steve Johnson
+      on Unsplash The post NATO Shifts to New Fronts first appeared on Michael Hudson
+      .'
+    one_sentence_summary: In a discussion on August 21, 2025, Michael Hudson argues
+      that recent diplomatic meetings indicate Trump is steering NATO towards new proxy
+      wars following the collapse of Ukraine, suggesting a shift in focus away from
+      the conflict as Russia is poised to take control.
+    paragraph_summary: In a discussion on August 21, 2025, Michael Hudson expressed
+      concerns that former President Trump is steering NATO towards new proxy conflicts
+      following the collapse of Ukraine, suggesting that the recent meetings between
+      the U.S., Russia, and European leaders indicate a shift in strategy. Hudson argued
+      that while mainstream media portrayed a united front against Russia, Trump's actual
+      stance is to abandon Ukraine, acknowledging Russia's likely victory in the conflict.
+      He emphasized that Trump still harbors animosity towards Russia and is instead
+      focusing on alternative ways to undermine it, such as increasing tensions in the
+      Baltic region, sabotaging Russian trade, and creating conflicts in areas like
+      Azerbaijan and Syria.
+    published: '2025-08-28T01:21:00+00:00'
   - title: 'Hudson & Wolff: NATO’s Defeat in Ukraine'
     url: https://michael-hudson.com/2025/08/hudson-wolff-natos-defeat-in-ukraine/
     text: 'NIMA ALKHORSHID : Hi, everybody. Today is Thursday, August 14, 2025, and

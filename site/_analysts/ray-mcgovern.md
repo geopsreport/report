@@ -7,16 +7,494 @@ description: "27-year CIA analyst turned independent; co-founder of Veteran Inte
 websites:
   - https://consortiumnews.com
 summary: |
-  The past 24 hours have seen significant developments across several geopolitical flashpoints, with new information emerging on the Middle East, intelligence affairs, and the shifting global balance of power.
+  As of early September 2025, the geopolitical landscape continues to be shaped by intensifying conflicts and shifting political dynamics, particularly in the Middle East and within Western political institutions.
   
-  The ongoing devastation in Gaza continues to draw international scrutiny, not only for its immediate humanitarian impact but also for the erasure of cultural and historical heritage. **Chris Hedges** emphasizes that the destruction represents "not only a violation of the rights of the Palestinian people but also a profound loss to cultural and historical heritage," underscoring the long-term implications for regional identity and memory. This perspective is echoed by other analysts who stress that understanding the historical context is essential for grasping the roots and potential outcomes of the current crisis.
+  The most recent development centers on the ongoing crisis in Gaza, where Israeli military actions against UNRWA infrastructure have escalated. **Mara Kronenfeld**, executive director of UNRWA USA, emphasized that Israel's campaign is not only targeting humanitarian organizations but constitutes "a broader attack on civilian life for millions of Palestinians." This assessment is echoed by a growing chorus of analysts who argue that the destruction of UNRWA facilities is part of a systematic effort to undermine international support structures for Palestinians. The majority opinion across sources is that these attacks are likely to further isolate Israel diplomatically, while deepening the humanitarian catastrophe in Gaza.
   
-  In a separate development, Australia has taken the extraordinary step of expelling Iran's ambassador and three embassy officials. According to **Ray McGovern**, this move follows an intelligence assessment implicating Iranian operatives in a plot to attack a Melbourne synagogue last December. The diplomatic fallout signals a hardening of Australia's stance toward Iran and may presage further international isolation for Tehran. The majority of sources agree that this incident will likely exacerbate tensions between Iran and Western-aligned states, with a high chance of reciprocal actions from Iran in the coming days.
+  Domestically in the United States, the appointment of Josh Smith, a former prisoner, as Deputy Director of the Bureau of Prisons has sparked significant debate. **John Kiriakou** notes that while Smith's appointment has "sparked backlash from employees," it has "garnered support from inmates," highlighting a divide within the system. This move is seen by some as a potential step toward reform, but skepticism remains high among staff, suggesting that institutional resistance could slow any meaningful change.
   
-  Meanwhile, speculation is mounting in Washington over the possibility of former President Trump considering a pardon for Ghislaine Maxwell, amid renewed scrutiny of her family's intelligence connections. **Ray McGovern** notes that "growing speculation" about such a move is fueling debate over the intersection of intelligence agencies, high-profile criminal cases, and presidential power. While no official action has been taken, analysts suggest that any pardon would provoke a substantial political backlash and further complicate U.S. relations with key allies.
+  On the broader political front, **Vijay Prashad** argues that the rise of far-right politics globally can be traced back to the "inaction and complicity of liberals and social democrats in the Global North." This perspective is gaining traction, as analysts observe a pattern of mainstream parties failing to address underlying socioeconomic grievances, thereby enabling more extreme elements to gain ground.
   
-  Looking ahead, the prevailing trend is one of increasing polarization and instability in international relations. The destruction in Gaza is likely to continue fueling regional grievances and resistance, while the diplomatic rift between Australia and Iran is expected to deepen. On the intelligence front, the intersection of legal proceedings and state interests remains a volatile factor in U.S. domestic and foreign policy. Based on current trajectories, I assess with high confidence that these issues will remain at the forefront of global affairs in the coming weeks, with little prospect for rapid de-escalation.
+  Looking ahead, the trends suggest that the situation in Gaza will remain volatile, with a high chance of continued international criticism of Israel's actions ("I guarantee" further diplomatic fallout if attacks on UNRWA persist). In the U.S., prison reform may see incremental progress, but entrenched opposition within the Bureau of Prisons makes rapid change unlikely ("quite likely" that reforms will be piecemeal). Politically, the erosion of centrist parties' credibility is expected to fuel further polarization in Western democracies.
+  
+  In summary, the coming days are set to bring heightened scrutiny of Israeli actions in Gaza, cautious steps toward prison reform in the U.S., and continued shifts in the political landscape of the Global North, with far-right movements poised to capitalize on liberal inaction.
 articles:
+  - title: 'Vijay Prashad: Liberals Paved the Way to the Far Right'
+    url: https://consortiumnews.com/2025/09/02/vijay-prashad-liberals-paved-way-to-the-far-right/
+    text: 'The passivity — and complicity — of Global North liberals and social democrats
+      has paved the way for the global rise of the far-right of a special type. By Vijay
+      Prashad Tricontinental: Institute for Social Research Samar Abu Elouf, who won
+      the… Read more →'
+    one_sentence_summary: The article argues that the inaction and complicity of liberals
+      and social democrats in the Global North have contributed to the emergence of
+      a distinct form of far-right politics globally.
+    paragraph_summary: In the article by Vijay Prashad, it is argued that the inaction
+      and complicity of liberals and social democrats in the Global North have contributed
+      to the ascendance of a distinct form of far-right politics worldwide. The piece
+      highlights how this passivity has allowed extremist ideologies to gain traction,
+      suggesting that the failure to confront these developments has significant implications
+      for social justice and democratic values. Prashad calls for a more proactive stance
+      from progressive movements to counteract this trend and promote a more equitable
+      society.
+    published: '2025-09-02T23:00:32+00:00'
+  - title: 'Vijay Prashad: Liberals Paved the Way to the Far Right'
+    url: https://consortiumnews.com/2025/09/02/vijay-prashad-liberals-paved-way-to-the-far-right/
+    text: 'The passivity — and complicity — of Global North liberals and social democrats
+      has paved the way for the global rise of the far-right of a special type. By Vijay
+      Prashad Tricontinental: Institute for Social Research Samar Abu Elouf, who won
+      the… Read more →'
+    one_sentence_summary: The article argues that the inaction and complicity of liberals
+      and social democrats in the Global North have contributed to the emergence of
+      a distinct form of far-right politics globally.
+    paragraph_summary: In the article by Vijay Prashad, it is argued that the inaction
+      and complicity of liberals and social democrats in the Global North have contributed
+      to the ascendance of a distinct form of far-right politics worldwide. The piece
+      highlights how this passivity has allowed extremist ideologies to gain traction,
+      suggesting that the failure to confront these developments has significant implications
+      for social justice and democratic values. Prashad calls for a more proactive stance
+      from progressive movements to counteract this trend and promote a more equitable
+      society.
+    published: '2025-09-02T23:00:32+00:00'
+  - title: 'JOHN KIRIAKOU: Former Prisoner is New BOP #2'
+    url: https://consortiumnews.com/2025/09/02/john-kiriakou-former-prisoner-is-new-bop-2/
+    text: The controversial appointment of Josh Smith as Deputy Director of the Bureau
+      of Prisons has drawn ire from employees while many inmates are supportive. By John
+      Kiriakou Special to Consortium News President Donald Trump in early June did something
+      that no… Read more →
+    one_sentence_summary: Josh Smith's appointment as Deputy Director of the Bureau
+      of Prisons has sparked backlash from employees but garnered support from inmates.
+    paragraph_summary: The appointment of Josh Smith as Deputy Director of the Bureau
+      of Prisons has sparked significant controversy, with prison employees expressing
+      strong disapproval while some inmates appear to support his position. The article,
+      written by John Kiriakou for Consortium News, discusses the implications of this
+      appointment, highlighting the divide in opinions between staff and inmates regarding
+      Smith's leadership and potential impact on the prison system.
+    published: '2025-09-02T17:26:46+00:00'
+  - title: 'JOHN KIRIAKOU: Former Prisoner is New BOP #2'
+    url: https://consortiumnews.com/2025/09/02/john-kiriakou-former-prisoner-is-new-bop-2/
+    text: The controversial appointment of Josh Smith as Deputy Director of the Bureau
+      of Prisons has drawn ire from employees while many inmates are supportive. By John
+      Kiriakou Special to Consortium News President Donald Trump in early June did something
+      that no… Read more →
+    one_sentence_summary: Josh Smith's appointment as Deputy Director of the Bureau
+      of Prisons has sparked backlash from employees but garnered support from inmates.
+    paragraph_summary: The appointment of Josh Smith as Deputy Director of the Bureau
+      of Prisons has sparked significant controversy, with prison employees expressing
+      strong disapproval while some inmates appear to support his position. The article,
+      written by John Kiriakou for Consortium News, discusses the implications of this
+      appointment, highlighting the divide in opinions between staff and inmates regarding
+      Smith's leadership and potential impact on the prison system.
+    published: '2025-09-02T17:26:46+00:00'
+  - title: 'The Chris Hedges Report: Israel’s War on the UN'
+    url: https://consortiumnews.com/2025/09/02/the-chris-hedges-report-israels-war-on-the-un/
+    text: Mara Kronenfeld, executive director of UNRWA USA exposes Israel’s war on the
+      U.N. and how the destruction of UNWRA infrastructure is an attack on all civilian
+      life in Gaza. By Chris Hedges The Chris Hedges Report For millions of Palestinians,
+      the… Read more →
+    one_sentence_summary: Mara Kronenfeld, executive director of UNRWA USA, highlights
+      how Israel's assault on UNRWA infrastructure in Gaza constitutes a broader attack
+      on civilian life for millions of Palestinians.
+    paragraph_summary: Mara Kronenfeld, the executive director of UNRWA USA, highlights
+      the detrimental impact of Israel's actions against the United Nations Relief and
+      Works Agency (UNRWA) on civilian life in Gaza. In an interview with Chris Hedges,
+      she argues that the destruction of UNRWA's infrastructure represents a broader
+      assault on the Palestinian population, emphasizing that such attacks not only
+      undermine humanitarian efforts but also exacerbate the already dire conditions
+      faced by millions of Palestinians.
+    published: '2025-09-02T09:22:39+00:00'
+  - title: 'The Chris Hedges Report: Israel’s War on the UN'
+    url: https://consortiumnews.com/2025/09/02/the-chris-hedges-report-israels-war-on-the-un/
+    text: Mara Kronenfeld, executive director of UNRWA USA exposes Israel’s war on the
+      U.N. and how the destruction of UNWRA infrastructure is an attack on all civilian
+      life in Gaza. By Chris Hedges The Chris Hedges Report For millions of Palestinians,
+      the… Read more →
+    one_sentence_summary: Mara Kronenfeld, executive director of UNRWA USA, highlights
+      how Israel's assault on UNRWA infrastructure in Gaza constitutes a broader attack
+      on civilian life for millions of Palestinians.
+    paragraph_summary: Mara Kronenfeld, the executive director of UNRWA USA, highlights
+      the detrimental impact of Israel's actions against the United Nations Relief and
+      Works Agency (UNRWA) on civilian life in Gaza. In an interview with Chris Hedges,
+      she argues that the destruction of UNRWA's infrastructure represents a broader
+      assault on the Palestinian population, emphasizing that such attacks not only
+      undermine humanitarian efforts but also exacerbate the already dire conditions
+      faced by millions of Palestinians.
+    published: '2025-09-02T09:22:39+00:00'
+  - title: ‘Humanitarianism’ in Gaza Distracts From Justice
+    url: https://consortiumnews.com/2025/09/01/humanitarianism-in-gaza-distracts-from-justice/
+    text: The political and media establishment has finally begun to acknowledge Palestinian
+      suffering, but this shift remains hollow until those complicit in Israel’s genocide
+      are truly exposed. By Anthony Hayward Declassified UK Some 21 months into Israel’s
+      genocide, Palestinian suffering is… Read more →
+    one_sentence_summary: The article argues that while there is a growing recognition
+      of Palestinian suffering by political and media figures, this acknowledgment is
+      insincere unless those responsible for Israel's actions are held accountable.
+    paragraph_summary: In his article, Anthony Hayward discusses the recent acknowledgment
+      by the political and media establishment of the suffering endured by Palestinians
+      amid Israel's ongoing actions, which he characterizes as genocide. However, he
+      argues that this recognition is superficial and insufficient unless those who
+      are complicit in these actions are fully held accountable and exposed. Hayward
+      emphasizes the need for a deeper understanding and confrontation of the systemic
+      issues contributing to the plight of Palestinians, suggesting that mere acknowledgment
+      without accountability is inadequate.
+    published: '2025-09-02T01:14:00+00:00'
+  - title: ‘Humanitarianism’ in Gaza Distracts From Justice
+    url: https://consortiumnews.com/2025/09/01/humanitarianism-in-gaza-distracts-from-justice/
+    text: The political and media establishment has finally begun to acknowledge Palestinian
+      suffering, but this shift remains hollow until those complicit in Israel’s genocide
+      are truly exposed. By Anthony Hayward Declassified UK Some 21 months into Israel’s
+      genocide, Palestinian suffering is… Read more →
+    one_sentence_summary: The article argues that while there is a growing recognition
+      of Palestinian suffering by political and media figures, this acknowledgment is
+      insincere unless those responsible for Israel's actions are held accountable.
+    paragraph_summary: In his article, Anthony Hayward discusses the recent acknowledgment
+      by the political and media establishment of the suffering endured by Palestinians
+      amid Israel's ongoing actions, which he characterizes as genocide. However, he
+      argues that this recognition is superficial and insufficient unless those who
+      are complicit in these actions are fully held accountable and exposed. Hayward
+      emphasizes the need for a deeper understanding and confrontation of the systemic
+      issues contributing to the plight of Palestinians, suggesting that mere acknowledgment
+      without accountability is inadequate.
+    published: '2025-09-02T01:14:00+00:00'
+  - title: 'Jonathan Cook: The Media’s Israeli Atrocity Treadmill'
+    url: https://consortiumnews.com/2025/08/29/jonathan-cook-the-medias-israeli-atrocity-treadmill/
+    text: News outlets are so busy chasing Israel’s latest crime in Gaza — currently
+      its horrific attack on Nasser Hospital — they never pause to piece together the
+      bigger story of genocide. By Jonathan Cook Jonathan-Cook.net An investigation
+      by CNN into… Read more →
+    one_sentence_summary: The article critiques news outlets for their focus on specific
+      incidents of violence in Gaza, such as the attack on Nasser Hospital, while neglecting
+      to address the broader narrative of genocide against the Palestinian people.
+    paragraph_summary: In his article, Jonathan Cook critiques news outlets for their
+      focus on specific incidents of violence, such as Israel's recent attack on Nasser
+      Hospital in Gaza, while neglecting to address the broader narrative of genocide
+      against the Palestinian people. He argues that this narrow reporting fails to
+      capture the ongoing and systemic nature of the violence and oppression faced by
+      Palestinians, suggesting that a more comprehensive understanding of the situation
+      is necessary to grasp the full extent of the humanitarian crisis.
+    published: '2025-08-30T02:44:34+00:00'
+  - title: 'Jonathan Cook: The Media’s Israeli Atrocity Treadmill'
+    url: https://consortiumnews.com/2025/08/29/jonathan-cook-the-medias-israeli-atrocity-treadmill/
+    text: News outlets are so busy chasing Israel’s latest crime in Gaza — currently
+      its horrific attack on Nasser Hospital — they never pause to piece together the
+      bigger story of genocide. By Jonathan Cook Jonathan-Cook.net An investigation
+      by CNN into… Read more →
+    one_sentence_summary: The article critiques news outlets for their focus on specific
+      incidents of violence in Gaza, such as the attack on Nasser Hospital, while neglecting
+      to address the broader narrative of genocide against the Palestinian people.
+    paragraph_summary: In his article, Jonathan Cook critiques news outlets for their
+      focus on specific incidents of violence, such as Israel's recent attack on Nasser
+      Hospital in Gaza, while neglecting to address the broader narrative of genocide
+      against the Palestinian people. He argues that this narrow reporting fails to
+      capture the ongoing and systemic nature of the violence and oppression faced by
+      Palestinians, suggesting that a more comprehensive understanding of the situation
+      is necessary to grasp the full extent of the humanitarian crisis.
+    published: '2025-08-30T02:44:34+00:00'
+  - title: Australian Move Against Iran Raises Intel Doubts
+    url: https://consortiumnews.com/2025/08/29/australian-move-against-iran-raises-intel-doubts/
+    text: Australia’s diplomatic attack on Iran may have further eroded confidence in
+      the country’s spy agency and the Albanese government, Mick Hall reports. By Mick
+      Hall Special to Consortium News The expulsion of Iran’s ambassador to Australia
+      over accusations his country… Read more →
+    one_sentence_summary: Australia's expulsion of Iran's ambassador over espionage
+      allegations has potentially weakened trust in both the country's intelligence
+      agency and the Albanese government, according to Mick Hall.
+    paragraph_summary: Australia's recent diplomatic actions against Iran, including
+      the expulsion of the Iranian ambassador due to allegations of espionage, have
+      raised concerns about the credibility of the country's intelligence agency and
+      the Albanese government's handling of foreign relations. Mick Hall reports that
+      this move may have further diminished public trust in both the spy agency and
+      the government, highlighting the complexities and potential repercussions of Australia's
+      stance towards Iran.
+    published: '2025-08-29T18:00:03+00:00'
+  - title: Australian Move Against Iran Raises Intel Doubts
+    url: https://consortiumnews.com/2025/08/29/australian-move-against-iran-raises-intel-doubts/
+    text: Australia’s diplomatic attack on Iran may have further eroded confidence in
+      the country’s spy agency and the Albanese government, Mick Hall reports. By Mick
+      Hall Special to Consortium News The expulsion of Iran’s ambassador to Australia
+      over accusations his country… Read more →
+    one_sentence_summary: Australia's expulsion of Iran's ambassador over espionage
+      allegations has potentially weakened trust in both the country's intelligence
+      agency and the Albanese government, according to Mick Hall.
+    paragraph_summary: Australia's recent diplomatic actions against Iran, including
+      the expulsion of the Iranian ambassador due to allegations of espionage, have
+      raised concerns about the credibility of the country's intelligence agency and
+      the Albanese government's handling of foreign relations. Mick Hall reports that
+      this move may have further diminished public trust in both the spy agency and
+      the government, highlighting the complexities and potential repercussions of Australia's
+      stance towards Iran.
+    published: '2025-08-29T18:00:03+00:00'
+  - title: 'Global Sumud Flotilla: Over 50 Ships to Set Sail for Gaza'
+    url: https://consortiumnews.com/2025/08/29/global-sumud-flotilla-over-50-ships-to-set-sail-for-gaza/
+    text: 'Dozens of small civilian vessels carrying activists, parliamentarians, doctors
+      and trade unionists, along with humanitarian cargo, are preparing for departure.
+        By Peoples Dispatch In July 2025, a new international maritime initiative was
+      launched: the Global Sumud Flotilla. It was… Read more →'
+    one_sentence_summary: The Global Sumud Flotilla, launched in July 2025, consists
+      of numerous small civilian vessels carrying activists, parliamentarians, doctors,
+      and humanitarian cargo, preparing for departure to promote international solidarity.
+    paragraph_summary: The Global Sumud Flotilla, an international maritime initiative
+      launched in July 2025, is set to depart with a fleet of small civilian vessels
+      carrying a diverse group of activists, parliamentarians, doctors, and trade unionists,
+      alongside humanitarian cargo. This initiative aims to promote solidarity and support
+      for humanitarian efforts, highlighting the importance of collective action in
+      addressing global challenges.
+    published: '2025-08-29T15:31:00+00:00'
+  - title: 'Global Sumud Flotilla: Over 50 Ships to Set Sail for Gaza'
+    url: https://consortiumnews.com/2025/08/29/global-sumud-flotilla-over-50-ships-to-set-sail-for-gaza/
+    text: 'Dozens of small civilian vessels carrying activists, parliamentarians, doctors
+      and trade unionists, along with humanitarian cargo, are preparing for departure.
+        By Peoples Dispatch In July 2025, a new international maritime initiative was
+      launched: the Global Sumud Flotilla. It was… Read more →'
+    one_sentence_summary: The Global Sumud Flotilla, launched in July 2025, consists
+      of numerous small civilian vessels carrying activists, parliamentarians, doctors,
+      and humanitarian cargo, preparing for departure to promote international solidarity.
+    paragraph_summary: The Global Sumud Flotilla, an international maritime initiative
+      launched in July 2025, is set to depart with a fleet of small civilian vessels
+      carrying a diverse group of activists, parliamentarians, doctors, and trade unionists,
+      alongside humanitarian cargo. This initiative aims to promote solidarity and support
+      for humanitarian efforts, highlighting the importance of collective action in
+      addressing global challenges.
+    published: '2025-08-29T15:31:00+00:00'
+  - title: The Attack on Palestine Chronicle
+    url: https://consortiumnews.com/2025/08/28/the-attack-on-palestine-chronicle/
+    text: The allegation against Ramzy Baroud rests not on proof, but on the word of
+      a belligerent army, writes Mohamed El Mokhtar. By Mohamed El Mokhtar Common Dreams
+      The Palestine Chronicle is not a militant organization. It is a modest, independent…
+      Read more →
+    one_sentence_summary: Mohamed El Mokhtar argues that the accusations against Ramzy
+      Baroud are based solely on the claims of a hostile military rather than any concrete
+      evidence.
+    paragraph_summary: In an article by Mohamed El Mokhtar, the author discusses the
+      unfounded allegations against Ramzy Baroud, emphasizing that these claims are
+      based solely on the assertions of a hostile military rather than any concrete
+      evidence. El Mokhtar defends The Palestine Chronicle, describing it as a modest
+      and independent organization, and argues that the accusations lack legitimacy
+      and are part of a broader pattern of discrediting voices that advocate for Palestinian
+      rights.
+    published: '2025-08-28T18:15:47+00:00'
+  - title: The Attack on Palestine Chronicle
+    url: https://consortiumnews.com/2025/08/28/the-attack-on-palestine-chronicle/
+    text: The allegation against Ramzy Baroud rests not on proof, but on the word of
+      a belligerent army, writes Mohamed El Mokhtar. By Mohamed El Mokhtar Common Dreams
+      The Palestine Chronicle is not a militant organization. It is a modest, independent…
+      Read more →
+    one_sentence_summary: Mohamed El Mokhtar argues that the accusations against Ramzy
+      Baroud are based solely on the claims of a hostile military rather than any concrete
+      evidence.
+    paragraph_summary: In an article by Mohamed El Mokhtar, the author discusses the
+      unfounded allegations against Ramzy Baroud, emphasizing that these claims are
+      based solely on the assertions of a hostile military rather than any concrete
+      evidence. El Mokhtar defends The Palestine Chronicle, describing it as a modest
+      and independent organization, and argues that the accusations lack legitimacy
+      and are part of a broader pattern of discrediting voices that advocate for Palestinian
+      rights.
+    published: '2025-08-28T18:15:47+00:00'
+  - title: US Pressuring Lebanon to Disarm the Resistance
+    url: https://consortiumnews.com/2025/08/28/us-pressuring-lebanon-to-disarm-the-resistance/
+    text: As Washington pushes Beirut to produce a disarmament plan, Hezbollah’s leader
+      vows to keep “the weapons that protected our dignity,” Aseel Saleh reports. By
+      Aseel Saleh Peoples Dispatch Heated political debates over the the U.S. plan to
+      disarm resistance groups… Read more →
+    one_sentence_summary: Hezbollah's leader has pledged to retain their weapons, which
+      they claim safeguard their dignity, amid U.S. pressure on Lebanon to create a
+      disarmament plan for resistance groups.
+    paragraph_summary: In response to Washington's pressure on Beirut to develop a disarmament
+      plan for resistance groups, Hezbollah's leader has asserted the group's intention
+      to retain its weapons, which he claims are essential for preserving their dignity.
+      The article by Aseel Saleh highlights the ongoing heated political discussions
+      surrounding the U.S. initiative, emphasizing the tension between external demands
+      for disarmament and the internal commitment of Hezbollah to maintain its military
+      capabilities.
+    published: '2025-08-28T16:00:10+00:00'
+  - title: US Pressuring Lebanon to Disarm the Resistance
+    url: https://consortiumnews.com/2025/08/28/us-pressuring-lebanon-to-disarm-the-resistance/
+    text: As Washington pushes Beirut to produce a disarmament plan, Hezbollah’s leader
+      vows to keep “the weapons that protected our dignity,” Aseel Saleh reports. By
+      Aseel Saleh Peoples Dispatch Heated political debates over the the U.S. plan to
+      disarm resistance groups… Read more →
+    one_sentence_summary: Hezbollah's leader has pledged to retain their weapons, which
+      they claim safeguard their dignity, amid U.S. pressure on Lebanon to create a
+      disarmament plan for resistance groups.
+    paragraph_summary: In response to Washington's pressure on Beirut to develop a disarmament
+      plan for resistance groups, Hezbollah's leader has asserted the group's intention
+      to retain its weapons, which he claims are essential for preserving their dignity.
+      The article by Aseel Saleh highlights the ongoing heated political discussions
+      surrounding the U.S. initiative, emphasizing the tension between external demands
+      for disarmament and the internal commitment of Hezbollah to maintain its military
+      capabilities.
+    published: '2025-08-28T16:00:10+00:00'
+  - title: The States & the US Presidency
+    url: https://consortiumnews.com/2025/08/28/the-states-the-us-presidency/
+    text: Trump’s campaign to use federal force to enhance public safety lacks constitutional
+      authority, writes Andrew Napolitano. By Andrew P. Napolitano “It is (my) intention
+      to … demand recognition of the distinction between the powers granted to the Federal
+      Government and… Read more →
+    one_sentence_summary: Andrew Napolitano argues that Trump's campaign to employ federal
+      force for public safety lacks constitutional authority and emphasizes the importance
+      of recognizing the limits of federal power.
+    paragraph_summary: In his article, Andrew Napolitano argues that former President
+      Trump's campaign to deploy federal forces for public safety purposes lacks constitutional
+      authority. He emphasizes the importance of recognizing the limitations of federal
+      powers as outlined in the Constitution, suggesting that such actions could overstep
+      the boundaries set for federal government intervention in matters typically managed
+      by state and local authorities. Napolitano's analysis highlights concerns about
+      the potential implications for civil liberties and the proper role of federal
+      law enforcement.
+    published: '2025-08-28T15:25:22+00:00'
+  - title: The States & the US Presidency
+    url: https://consortiumnews.com/2025/08/28/the-states-the-us-presidency/
+    text: Trump’s campaign to use federal force to enhance public safety lacks constitutional
+      authority, writes Andrew Napolitano. By Andrew P. Napolitano “It is (my) intention
+      to … demand recognition of the distinction between the powers granted to the Federal
+      Government and… Read more →
+    one_sentence_summary: Andrew Napolitano argues that Trump's campaign to employ federal
+      force for public safety lacks constitutional authority and emphasizes the importance
+      of recognizing the limits of federal power.
+    paragraph_summary: In his article, Andrew Napolitano argues that former President
+      Trump's campaign to deploy federal forces for public safety purposes lacks constitutional
+      authority. He emphasizes the importance of recognizing the limitations of federal
+      powers as outlined in the Constitution, suggesting that such actions could overstep
+      the boundaries set for federal government intervention in matters typically managed
+      by state and local authorities. Napolitano's analysis highlights concerns about
+      the potential implications for civil liberties and the proper role of federal
+      law enforcement.
+    published: '2025-08-28T15:25:22+00:00'
+  - title: 'Caitlin Johnstone: 21 Questions About Australian Claim of Iran Orchestrating
+      Anti-Semitic Attacks'
+    url: https://consortiumnews.com/2025/08/27/caitlin-johnstone-21-questions-about-australian-claim-of-iran-orchestrating-anti-semitic-attacks/
+    text: It’s hard to see how orchestrating anti-Semitic attacks in Australia would
+      advance Iranian interests more than the interests of some other state, like, say,
+      just for example, Israel. By Caitlin Johnstone CaitlinJohnstone.com.au Listen
+      to Tim Foley reading this article. Australian… Read more →
+    one_sentence_summary: The article argues that orchestrating anti-Semitic attacks
+      in Australia seems more beneficial to Israel than to Iran, questioning the motivations
+      behind such actions.
+    paragraph_summary: In her article, Caitlin Johnstone questions the rationale behind
+      orchestrating anti-Semitic attacks in Australia as a means to advance Iranian
+      interests, suggesting that such actions may actually benefit other states, particularly
+      Israel. She explores the complexities of geopolitical motivations and the potential
+      implications of these attacks, ultimately highlighting the need for a critical
+      examination of narratives surrounding anti-Semitism and its perceived connections
+      to various nations.
+    published: '2025-08-27T22:01:00+00:00'
+  - title: 'Caitlin Johnstone: 21 Questions About Australian Claim of Iran Orchestrating
+      Anti-Semitic Attacks'
+    url: https://consortiumnews.com/2025/08/27/caitlin-johnstone-21-questions-about-australian-claim-of-iran-orchestrating-anti-semitic-attacks/
+    text: It’s hard to see how orchestrating anti-Semitic attacks in Australia would
+      advance Iranian interests more than the interests of some other state, like, say,
+      just for example, Israel. By Caitlin Johnstone CaitlinJohnstone.com.au Listen
+      to Tim Foley reading this article. Australian… Read more →
+    one_sentence_summary: The article argues that orchestrating anti-Semitic attacks
+      in Australia seems more beneficial to Israel than to Iran, questioning the motivations
+      behind such actions.
+    paragraph_summary: In her article, Caitlin Johnstone questions the rationale behind
+      orchestrating anti-Semitic attacks in Australia as a means to advance Iranian
+      interests, suggesting that such actions may actually benefit other states, particularly
+      Israel. She explores the complexities of geopolitical motivations and the potential
+      implications of these attacks, ultimately highlighting the need for a critical
+      examination of narratives surrounding anti-Semitism and its perceived connections
+      to various nations.
+    published: '2025-08-27T22:01:00+00:00'
+  - title: 'Vijay Prashad: Against Resurgent Militarism'
+    url: https://consortiumnews.com/2025/08/27/vijay-prashad-against-resurgent-militarism/
+    text: 'Tens of millions in China and the U.S.S.R. gave their lives to defeat fascism
+      during World War II. As imperialist militarisation rises again, No Cold War reiterates
+      a call for peace. By Vijay Prashad Tricontinental: Institute for Social Research
+      A walk… Read more →'
+    one_sentence_summary: The article emphasizes the sacrifices made by millions in
+      China and the U.S.S.R. to defeat fascism during World War II and calls for peace
+      in light of rising imperialist militarization, as reiterated by No Cold War.
+    paragraph_summary: The article by Vijay Prashad highlights the immense sacrifices
+      made by tens of millions in China and the Soviet Union to combat fascism during
+      World War II. In light of the current resurgence of imperialist militarization,
+      the organization No Cold War emphasizes the urgent need for peace and dialogue,
+      reflecting on historical lessons to advocate against repeating past mistakes.
+      The piece calls for a collective effort to promote peace and resist the escalation
+      of tensions reminiscent of the Cold War era.
+    published: '2025-08-27T18:00:17+00:00'
+  - title: 'Vijay Prashad: Against Resurgent Militarism'
+    url: https://consortiumnews.com/2025/08/27/vijay-prashad-against-resurgent-militarism/
+    text: 'Tens of millions in China and the U.S.S.R. gave their lives to defeat fascism
+      during World War II. As imperialist militarisation rises again, No Cold War reiterates
+      a call for peace. By Vijay Prashad Tricontinental: Institute for Social Research
+      A walk… Read more →'
+    one_sentence_summary: The article emphasizes the sacrifices made by millions in
+      China and the U.S.S.R. to defeat fascism during World War II and calls for peace
+      in light of rising imperialist militarization, as reiterated by No Cold War.
+    paragraph_summary: The article by Vijay Prashad highlights the immense sacrifices
+      made by tens of millions in China and the Soviet Union to combat fascism during
+      World War II. In light of the current resurgence of imperialist militarization,
+      the organization No Cold War emphasizes the urgent need for peace and dialogue,
+      reflecting on historical lessons to advocate against repeating past mistakes.
+      The piece calls for a collective effort to promote peace and resist the escalation
+      of tensions reminiscent of the Cold War era.
+    published: '2025-08-27T18:00:17+00:00'
+  - title: Europe’s Final Descent
+    url: https://consortiumnews.com/2025/08/27/europes-final-descent/
+    text: European elites, who have lived under U.S. shelter throughout the post-war
+      period, are in no way capable of becoming independent. So-called EU strategic
+      autonomy is an empty world. This is a new form of Stockholm Syndrome, writes Uroš
+      Lipušcek. By… Read more →
+    one_sentence_summary: Uroš Lipušcek argues that European elites, reliant on U.S.
+      protection since the post-war era, lack the capability for true independence,
+      rendering the concept of EU strategic autonomy meaningless and akin to a form
+      of Stockholm Syndrome.
+    paragraph_summary: In his article, Uroš Lipušcek argues that European elites, having
+      relied on U.S. protection since the post-war era, lack the capability to achieve
+      true independence, rendering the concept of EU strategic autonomy meaningless.
+      He likens this dependency to a form of Stockholm Syndrome, suggesting that Europe’s
+      reliance on the U.S. has led to a distorted perception of autonomy and self-sufficiency.
+    published: '2025-08-27T16:00:24+00:00'
+  - title: Europe’s Final Descent
+    url: https://consortiumnews.com/2025/08/27/europes-final-descent/
+    text: European elites, who have lived under U.S. shelter throughout the post-war
+      period, are in no way capable of becoming independent. So-called EU strategic
+      autonomy is an empty world. This is a new form of Stockholm Syndrome, writes Uroš
+      Lipušcek. By… Read more →
+    one_sentence_summary: Uroš Lipušcek argues that European elites, reliant on U.S.
+      protection since the post-war era, lack the capability for true independence,
+      rendering the concept of EU strategic autonomy meaningless and akin to a form
+      of Stockholm Syndrome.
+    paragraph_summary: In his article, Uroš Lipušcek argues that European elites, having
+      relied on U.S. protection since the post-war era, lack the capability to achieve
+      true independence, rendering the concept of EU strategic autonomy meaningless.
+      He likens this dependency to a form of Stockholm Syndrome, suggesting that Europe’s
+      reliance on the U.S. has led to a distorted perception of autonomy and self-sufficiency.
+    published: '2025-08-27T16:00:24+00:00'
+  - title: 'Jeffrey Sachs: Ending the Genocide Now'
+    url: https://consortiumnews.com/2025/08/27/jeffrey-sachs-ending-the-genocide-now/
+    text: A U.N. Security Council vote to grant Palestine permanent U.N. membership
+      would end Israel’s zealous delusions of permanent control over Palestine, write
+      Jeffrey Sachs and Sybil Fares. But the U.S. stands in the way. By Jeffrey D. Sachs and Sybil
+      Fares Common Dreams… Read more →
+    one_sentence_summary: The article argues that a U.N. Security Council vote granting
+      Palestine permanent membership would challenge Israel's control over the region,
+      but the U.S. is obstructing this progress.
+    paragraph_summary: In their article, Jeffrey Sachs and Sybil Fares argue that a
+      U.N. Security Council vote to grant Palestine permanent membership would challenge
+      Israel's longstanding aspirations for control over the region. They assert that
+      such a move would signify a shift in the geopolitical landscape, but highlight
+      that the United States is currently obstructing this process. The authors suggest
+      that U.S. opposition is a significant barrier to achieving Palestinian statehood
+      and self-determination.
+    published: '2025-08-27T04:54:45+00:00'
+  - title: 'Jeffrey Sachs: Ending the Genocide Now'
+    url: https://consortiumnews.com/2025/08/27/jeffrey-sachs-ending-the-genocide-now/
+    text: A U.N. Security Council vote to grant Palestine permanent U.N. membership
+      would end Israel’s zealous delusions of permanent control over Palestine, write
+      Jeffrey Sachs and Sybil Fares. But the U.S. stands in the way. By Jeffrey D. Sachs and Sybil
+      Fares Common Dreams… Read more →
+    one_sentence_summary: The article argues that a U.N. Security Council vote granting
+      Palestine permanent membership would challenge Israel's control over the region,
+      but the U.S. is obstructing this progress.
+    paragraph_summary: In their article, Jeffrey Sachs and Sybil Fares argue that a
+      U.N. Security Council vote to grant Palestine permanent membership would challenge
+      Israel's longstanding aspirations for control over the region. They assert that
+      such a move would signify a shift in the geopolitical landscape, but highlight
+      that the United States is currently obstructing this process. The authors suggest
+      that U.S. opposition is a significant barrier to achieving Palestinian statehood
+      and self-determination.
+    published: '2025-08-27T04:54:45+00:00'
   - title: 'Chris Hedges: Israel’s Assassination of Memory'
     url: https://consortiumnews.com/2025/08/26/chris-hedges-israels-assassination-of-memory/
     text: The razing of Gaza is not a crime only against the Palestinian people but

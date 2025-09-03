@@ -7,16 +7,1154 @@ description: "Richard Falk is an international law and international relations s
 websites:
   - https://richardfalk.org/
 summary: |
-  The ongoing crisis in Gaza continues to dominate the geopolitical landscape, with recent independent analyses highlighting both the intensification of information warfare and the deepening humanitarian emergency. Over the past weeks, Israeli military actions and the international response have remained central, but new developments point to a shifting dynamic in the legitimacy battle and the role of civil society.
+  The ongoing crisis in Gaza continues to dominate international discourse, with recent developments highlighting a shift in Western media narratives and persistent calls for accountability. In the latest analysis, **Richard Falk** critiques the ambivalence displayed by prominent Western commentators, such as Thomas Friedman, who, while acknowledging the humanitarian catastrophe in Gaza, suggest that Israel could restore its legitimacy without genuine accountability for its actions. This, Falk argues, signals a broader reluctance within Western liberal circles to confront the realities of territorial expansion and occupation.
   
-  Most recently, **Richard Falk** has emphasized the "weaponization of information" in the context of Gaza, noting that both U.S. and Israeli authorities are actively manipulating the information environment to suppress dissent and control the narrative around the conflict. The targeting of Palestinian journalists, according to Falk, is part of a broader strategy to limit independent reporting and silence voices critical of ongoing military operations. This tactic, he argues, is increasingly recognized by global civil society as a deliberate effort to stifle accountability.
+  Simultaneously, there is growing advocacy for stronger international measures. In a recent interview, **Richard Falk** emphasizes the necessity of coordinated pressure from the US and EU, advocating for the withdrawal of support for Israel’s occupation policies and the implementation of collective sanctions to address the escalating humanitarian crisis. This reflects a majority view among independent analysts that only significant external intervention can alter the current trajectory.
   
-  In parallel, the humanitarian situation in Gaza remains dire. In his interview with Naman Bakaç, **Richard Falk** discussed the urgent need for international awareness and action, referencing his recent book "Genocide in Gaza: Voices of Global Conscience." The book, co-edited with Ahmet Davutoğlu, compiles perspectives from over 30 global figures and underscores the widespread consensus among independent analysts that the crisis constitutes a grave violation of international law and human rights.
+  Meanwhile, the information environment remains highly contested. Falk’s earlier Q&A underscores the deliberate targeting of journalists and the manipulation of media narratives by both US and Israeli actors, aiming to suppress dissent and control the global perception of the conflict. This “weaponization of information” is seen as a critical factor in shaping policy responses and public opinion.
   
-  On the political front, Israeli Prime Minister Netanyahu’s plan to install non-PA Arab governance in Gaza after a military occupation has encountered significant resistance, particularly from hardline members of his own cabinet. The feasibility and legitimacy of such a move remain highly uncertain, with most analysts, including **Richard Falk**, expressing skepticism about its prospects for success or stability.
-  
-  Looking ahead, the prevailing trend is one of growing international mobilization against the perceived impunity of Israeli actions, particularly among civil society organizations and independent tribunals. The legitimacy war, as described by Falk, is shifting in favor of Palestinian advocates, even as state actors like the U.S. and U.K. maintain their support for Israel. There is a high chance that civic pressure will continue to mount, potentially leading to increased calls for accountability and a reevaluation of Western policy in the region. I guarantee that the information war and the humanitarian crisis will remain at the forefront of global attention, shaping both policy debates and grassroots activism in the coming weeks.
+  Looking ahead, the prevailing trend is one of intensifying scrutiny of Israeli actions and increasing demands for international accountability. There is a high chance that pressure for sanctions and legal action will mount, particularly if humanitarian conditions continue to deteriorate. However, without a decisive shift in US and EU policy, meaningful change on the ground remains unlikely in the near term. I guarantee that the legitimacy debate will intensify, with Western media and governments facing growing challenges to justify continued support for current Israeli policies.
 articles:
+  - title: 'The Western Liberal Media New Messaging on Gaza: A Critique from the Perspective
+      of Peace and Justice Journalism'
+    url: https://richardfalk.org/2025/09/02/the-western-liberal-media-new-messaging-on-gaza-a-critique-from-the-perspective-of-peace-and-justice-journalism/
+    text: '[ Prefatory Note: A slightly modified version of a text published on Sept.
+      1, 2025 in TMS.} On August 25 Thomas Friedman, always a weathervane for political
+      and economic establishment thinking in the West, wrote a notable column in the
+      NY Times that was pragmatic in tone, misleading in substance, and regressive in
+      intention. Yet it reflects a growing ambivalence toward Israel’s prolonged genocide
+      even among longtime supporters of Israel that now highlights starvation, famine,
+      and a gross distortion of the delivery of humanitarian aid under emergency conditions.
+      But expressed dangerously without hiding the hope that Israel could even now restore
+      its legitimacy without being held accountable for crimes in Gaza and despite all,
+      still expecting to be rewarded by excluding Hamas from any further governance
+      role in Gaza and continuing to move toward the annexation of the West Bank by
+      formal action or through further settlement expansion. It is notable that the
+      headline of the Friedman opinion piece is titled “Israel’s Gaza Campaign is Making
+      It a Pariah State.” [ NY Times , Aug 25, 2025]This Israeli misfortunr is blamed
+      by Friedman almost totally on Netanyahu and his ultra-right religious coalition
+      partners usually as represented by Bezalel Smotrich and Itamar Ben-Gvir who both
+      serve as important cabinet ministers in Tel Aviv’s coalition government. Neither
+      the apartheid matrix of control exercised by Israel over Palestinians in place
+      many years prior to October 7 nor Jewish supremist demographic policies and territorial
+      ambitions embedded in Zionist ideology and written into Israel’s 2018 Basic Law
+      are even mentioned by Friedman as major contributors to Israel’s collapsing legitimacy.
+      What is not said is often more important than what is said. Beyond this, Friedman
+      in his telltale and flip opening sentence writes, “I will leave it to historians
+      to debate whether Israel is committing genocide in Gaza.” To begin with, at this
+      stage the reality of Gaza genocide is no more debatable than that of the Holocaust,
+      or for that matter the genocide carried out some years ago against the Rohingya
+      people living in Myanmar. And the continued evasion of naming is no longer acceptable,
+      although it could be responsibly personally hedged by being described as reflecting
+      a now unchallengeable consensus among genocide scholars and legal experts. At
+      most an authoritative pronouncement of genocide awaits only a definitive legal
+      judgment by the International Court of Justice in responding to the 2023 South
+      African submission invoking the Convention on the Prevention and Punishment of
+      Genocide (1948). Early in 2024 nearly unanimous rulings of the ICJ in an interim
+      decision has already affirmed the plausibility of genocide allegations and the
+      wrongfulness of Israeli disruptions of international deliveries of humanitarian
+      aid. To refrain at this juncture from naming the onslaught in Gaza as ‘genocide’
+      is to avert one’s gaze from the gigantic elephant in the room. At the very least,
+      Friedman might have written as follows: “In deference to the ICJ I will leave
+      it to the jurists to settle any lingering debate as to whether Israel is committing
+      genocide in Gaza.” Even such a revision still casts an agnostic eye on the gruesome
+      realities daily confirmed by the images and words of brave photographers and journalists
+      on the ground who have too often paid with their lives for acts of truth-telling
+      professionalism A second level of evasion on Friedman’s part is to fall in line
+      with those that call the Israeli violence of the past two years in Gaza as acts
+      committed during a ‘war.’ Such a designation enables atrocities to be sidelined
+      in public consciousness as at worst regrettable incidents of ‘collateral damage’
+      or ‘mishaps’ attributable to ‘the fog of war,’ explained away as combat tactics
+      reasonably relied upon as matters of ‘self-defense’ and ‘military necessity.’
+      Yet by now such an Israeli dominated public discourse on the violence, suffering,
+      and cruelty inflicted on over two million entrapped Palestinians lacks any credibility,
+      and so the war discourse should be disregarded as state propaganda. The conflict
+      as has been widely observed by many close observers bears a closer resemblance
+      to ‘a massacre’ than a war because it is so one sided with the most modern weaponry
+      of land, sea and air possessed on the Israeli side and primitive weaponry or none
+      at all on the Palestinian resisting side. The casualty statistics, although confirming
+      this interpretation are diversely measured at present, with the Gaza Ministry
+      of Health as of July 2025 officially listing over 63,000 deaths, plus more than
+      double that number wounded, while declaring 887 IDF personnel killed as well as
+      815 Israeli civilians. The respected UK medical journal, The Lancet, has published
+      various expert analyses suggesting that the Palestinians are at least 41% underreported
+      by these official figures, especially in relation to indirect deaths due to traumatic
+      causes and malnourishment, including one Lancet estimate in July 2024 that at
+      least 186,000 Palestinian have perished due to the Israeli attack. At present,
+      the entire surviving Palestinian population is at risk due to the recent Gaza
+      City escalation, acutely imperiling one million sheltering Palestinian civilians
+      and abetted by ordering dangerous evacuations amid Famine 5 acute food shortages.
+      The third level of Israeli-oriented brainwashing is perhaps the most disturbing
+      of all, allowing Israel and the US to decide upon ‘day after arrangements’ with
+      the perverse consequences of rewarding the perpetrators and accomplices of genocide,
+      while further punishing the victim population and affirming a reductionist demonization
+      of Hamas as ‘a terrorist entity.’ It is as if it was left to surviving Nazi leaders
+      to preside over post-World War II arrangements, including regarding those affecting
+      surviving death camp inhabitants and the fate of Israel.Friedman completely adheres
+      to the Israeli narrative when it comes to the October 7 attack as unprovoked and
+      barbaric, also subscribing to ‘a blaming the victim’ rationale of the ongoing
+      Palestinian ordeal. Friedman insist that if only Hamas had returned the remaining
+      Israeli hostages it would have spared Palestinians the slaughter of recent months.
+      In his words, “Hamas’s leadership could have ended all of this suffering by agreeing
+      to quit Gaza and release all its hostages. By perpetuating this war, Hamas has
+      also engaged in its own heinous crimes — the murder of Israeli hostages and the
+      human sacrifice of thousands of Gazans to Hamas’s mad dreams. It’s all true —
+      and relevant.” [For a more nuanced and accurate portrayal of Hamas see Helena
+      Cobban & Rami G. Khouri, Understanding Hamas and Why It Matters (OR Books, 2024).]
+      Is it really true or relevant? There is again silence on the part of Western media
+      when it comes to the most verified influential reports of post-October 7 detention
+      of hundreds of innocent Palestinian civilians and confinement accompanied by routine
+      torture. Such Palestinians are hardly noticed and certainly never receiving the
+      special attention reserved  by the term ‘hostages,’ a term reserved for the unfortunate
+      Israelis detained in the course of the October 7 attack. The Israeli managed the
+      public discourse on this issue in such a distorted manner that only Israelis are
+      media identified as ‘hostages,’ with the unconscious effect of the dehumanization
+      of the Palestinian ‘other’ whose captivity is not even worthy of notice. Friedman’s
+      explanation for why Israel is feeling the heat of global criticism while Hamas
+      generally escapes censure except by complicit Western governments. Friedman poses
+      the rhetorical question, “So why is the world ganging up on Israel now?” His disguised
+      Zionist response is revealingly tone deaf, as well as stunningly blind to the
+      unfolding account of the cruel daily occurrences that brings tears to the eyes
+      of persons of conscience the world over: “Because it holds Israel to a higher
+      standard than Hamas, because Israel has always held itself to a higher standard.”
+      Only a self-censoring media platform would allow such slanted language to find
+      its way into print. To forget the expulsion of more than 700,000 Palestinians
+      from their homeland with no right of return in 1948 was winked at by the world,
+      as were decades of defiant lawlessness in administering the occupied territories
+      of Gaza and the West Bank. Rather than being held to a higher standard Israel
+      was given a no holds barred exemption from its legal duties to apply international
+      humanitarian law in its treatment of Palestinians and their rights, including
+      Israel’s lapsed commitment to implement the UNGA 1947 Partition Resolution 181(II)
+      which underpins Israel’s own claims of sovereign rights. There are reasons to
+      take a serious look at Friedman’s warnings to Israel’s supporters that its current
+      leadership “is committing suicide, homicide and fratricide.” Such an evaluation
+      from a longtime influential journalist is in reaction to his overall conviction
+      that Israel’s future is indeed bleak if it fails to challenge effectively Israel’s
+      growing classification and treatment as a pariah state. If this status becomes
+      frozen, as now seems almost certain, it will jeopardize Israel’s prospects for
+      a normal, prosperous, viable future. Friedman’s solution is indeed a great departure
+      from his uncritical prior unabashed pro-Israeli writings when it comes to questioning
+      Zionist approaches to the conflict. It for Israel to agree immediately to a permanent
+      ceasefire and military withdrawal from Gaza in exchange for a release of the hostages.
+      This preliminary recommended move is to be followed by Palestinian governance
+      of Gaza configured to please Israel as well as the complicit West by excluding
+      Hamas and relying upon a reconstituted Palestinian Authority that is sufficiently
+      collaborative to satisfy the Tel Aviv leadership. In my view, this is a non-solution,
+      but a formula for a more subtle way of achieving Zionist goals and consigning
+      the Palestinian people to new miseries. Friedmans ‘solution’ is what Palestinians
+      who insist on their right of self-determination dismiss as ‘breadcrumb diplomacy’
+      in the form of a demilitarized statelet, aptly alternatively described as ‘a Bantustan,’
+      The true path to a justice-driven peace depends on implementing the ICJ July 2024
+      Advisory Opinion terminating Israel’s role as Occupying Power in Gaza and the
+      West Bank. This change of formal status should be coordinated with internationally
+      monitored free elections in Gaza with Hamas having the option to compete for votes
+      with other political entities. If this process were able to go forward smoothly
+      it might become  possible to have real peace and justice negotiations between
+      Israel and Palestine but only after Israel renounces Zionism, dismantles apartheid,
+      agrees to respect the right of return of Palestinian refugees, and engages with
+      leading Arab governments, the EU, Canada, and the US in reparation arrangement
+      allowing for reconstruction of devastated Gaza, and the ravaged West Bank. It
+      would also be desirable to redress past Palestinian grievances to establish a
+      Peace and Reconciliation Commission that would provide an objective account of
+      the historical record, which has helped clear the air in other post-conflict situations
+      of transition. A final vital step would be a nuclear free internationally verified
+      nuclear free zone applicable throughout the Middle East together with a cap on
+      annual military spending. A long and difficult to do agenda, but anything less
+      will not reach the deep roots of this century long conflict that began during
+      the British Mandate that commenced after Palestine’s relatively peaceful existence
+      beneath the mantle of the Ottoman Empire. After World War I and the Ottoman collapse
+      Britain fulfilled the colonialist Balfour Declaration that pledged support to
+      the Zionist Movement for a Jewish homeland (but not a state) in Palestine.  Support
+      consisted of greenlighting Jewish immigration and property purchases without bothering
+      to obtain the consent of the Arab large majority population in Palestine. This
+      paved the way after World War II for the Zionist settler colonial project that
+      reached its current genocidal climax during the past two years and is now poised
+      to either further reenforce this criminal past or transcend it. If the latter
+      happens it will be an historic victory not only for the Palestinians but for all
+      of humanity, and a tribute to the activism of civil society. If not, worse is
+      sure to come.'
+    one_sentence_summary: Thomas Friedman’s recent NY Times column reflects a troubling
+      ambivalence among longtime supporters of Israel regarding its actions in Gaza,
+      highlighting humanitarian crises while suggesting that Israel could regain legitimacy
+      without accountability for its actions, all while maintaining hopes for continued
+      territorial expansion.
+    paragraph_summary: In a recent New York Times column, Thomas Friedman expressed
+      a pragmatic yet misleading perspective on Israel's actions in Gaza, reflecting
+      a growing ambivalence among long-time supporters of Israel regarding its prolonged
+      violence and humanitarian crisis. He attributes Israel's deteriorating international
+      standing primarily to Prime Minister Netanyahu and his far-right coalition partners,
+      while neglecting to address the longstanding systemic issues of apartheid and
+      Zionist policies that have contributed to the situation. Friedman suggests that
+      Israel could regain legitimacy without accountability for its actions, hinting
+      at hopes for excluding Hamas from governance and continuing settlement expansions
+      in the West Bank. His opening remark, which defers the debate on whether Israel
+      is committing genocide in Gaza to historians, underscores a troubling minimization
+      of the ongoing crisis.
+    published: '2025-09-02T08:03:46+00:00'
+  - title: 'The Western Liberal Media New Messaging on Gaza: A Critique from the Perspective
+      of Peace and Justice Journalism'
+    url: https://richardfalk.org/2025/09/02/the-western-liberal-media-new-messaging-on-gaza-a-critique-from-the-perspective-of-peace-and-justice-journalism/
+    text: '[ Prefatory Note: A slightly modified version of a text published on Sept.
+      1, 2025 in TMS.} On August 25 Thomas Friedman, always a weathervane for political
+      and economic establishment thinking in the West, wrote a notable column in the
+      NY Times that was pragmatic in tone, misleading in substance, and regressive in
+      intention. Yet it reflects a growing ambivalence toward Israel’s prolonged genocide
+      even among longtime supporters of Israel that now highlights starvation, famine,
+      and a gross distortion of the delivery of humanitarian aid under emergency conditions.
+      But expressed dangerously without hiding the hope that Israel could even now restore
+      its legitimacy without being held accountable for crimes in Gaza and despite all,
+      still expecting to be rewarded by excluding Hamas from any further governance
+      role in Gaza and continuing to move toward the annexation of the West Bank by
+      formal action or through further settlement expansion. It is notable that the
+      headline of the Friedman opinion piece is titled “Israel’s Gaza Campaign is Making
+      It a Pariah State.” [ NY Times , Aug 25, 2025]This Israeli misfortunr is blamed
+      by Friedman almost totally on Netanyahu and his ultra-right religious coalition
+      partners usually as represented by Bezalel Smotrich and Itamar Ben-Gvir who both
+      serve as important cabinet ministers in Tel Aviv’s coalition government. Neither
+      the apartheid matrix of control exercised by Israel over Palestinians in place
+      many years prior to October 7 nor Jewish supremist demographic policies and territorial
+      ambitions embedded in Zionist ideology and written into Israel’s 2018 Basic Law
+      are even mentioned by Friedman as major contributors to Israel’s collapsing legitimacy.
+      What is not said is often more important than what is said. Beyond this, Friedman
+      in his telltale and flip opening sentence writes, “I will leave it to historians
+      to debate whether Israel is committing genocide in Gaza.” To begin with, at this
+      stage the reality of Gaza genocide is no more debatable than that of the Holocaust,
+      or for that matter the genocide carried out some years ago against the Rohingya
+      people living in Myanmar. And the continued evasion of naming is no longer acceptable,
+      although it could be responsibly personally hedged by being described as reflecting
+      a now unchallengeable consensus among genocide scholars and legal experts. At
+      most an authoritative pronouncement of genocide awaits only a definitive legal
+      judgment by the International Court of Justice in responding to the 2023 South
+      African submission invoking the Convention on the Prevention and Punishment of
+      Genocide (1948). Early in 2024 nearly unanimous rulings of the ICJ in an interim
+      decision has already affirmed the plausibility of genocide allegations and the
+      wrongfulness of Israeli disruptions of international deliveries of humanitarian
+      aid. To refrain at this juncture from naming the onslaught in Gaza as ‘genocide’
+      is to avert one’s gaze from the gigantic elephant in the room. At the very least,
+      Friedman might have written as follows: “In deference to the ICJ I will leave
+      it to the jurists to settle any lingering debate as to whether Israel is committing
+      genocide in Gaza.” Even such a revision still casts an agnostic eye on the gruesome
+      realities daily confirmed by the images and words of brave photographers and journalists
+      on the ground who have too often paid with their lives for acts of truth-telling
+      professionalism A second level of evasion on Friedman’s part is to fall in line
+      with those that call the Israeli violence of the past two years in Gaza as acts
+      committed during a ‘war.’ Such a designation enables atrocities to be sidelined
+      in public consciousness as at worst regrettable incidents of ‘collateral damage’
+      or ‘mishaps’ attributable to ‘the fog of war,’ explained away as combat tactics
+      reasonably relied upon as matters of ‘self-defense’ and ‘military necessity.’
+      Yet by now such an Israeli dominated public discourse on the violence, suffering,
+      and cruelty inflicted on over two million entrapped Palestinians lacks any credibility,
+      and so the war discourse should be disregarded as state propaganda. The conflict
+      as has been widely observed by many close observers bears a closer resemblance
+      to ‘a massacre’ than a war because it is so one sided with the most modern weaponry
+      of land, sea and air possessed on the Israeli side and primitive weaponry or none
+      at all on the Palestinian resisting side. The casualty statistics, although confirming
+      this interpretation are diversely measured at present, with the Gaza Ministry
+      of Health as of July 2025 officially listing over 63,000 deaths, plus more than
+      double that number wounded, while declaring 887 IDF personnel killed as well as
+      815 Israeli civilians. The respected UK medical journal, The Lancet, has published
+      various expert analyses suggesting that the Palestinians are at least 41% underreported
+      by these official figures, especially in relation to indirect deaths due to traumatic
+      causes and malnourishment, including one Lancet estimate in July 2024 that at
+      least 186,000 Palestinian have perished due to the Israeli attack. At present,
+      the entire surviving Palestinian population is at risk due to the recent Gaza
+      City escalation, acutely imperiling one million sheltering Palestinian civilians
+      and abetted by ordering dangerous evacuations amid Famine 5 acute food shortages.
+      The third level of Israeli-oriented brainwashing is perhaps the most disturbing
+      of all, allowing Israel and the US to decide upon ‘day after arrangements’ with
+      the perverse consequences of rewarding the perpetrators and accomplices of genocide,
+      while further punishing the victim population and affirming a reductionist demonization
+      of Hamas as ‘a terrorist entity.’ It is as if it was left to surviving Nazi leaders
+      to preside over post-World War II arrangements, including regarding those affecting
+      surviving death camp inhabitants and the fate of Israel.Friedman completely adheres
+      to the Israeli narrative when it comes to the October 7 attack as unprovoked and
+      barbaric, also subscribing to ‘a blaming the victim’ rationale of the ongoing
+      Palestinian ordeal. Friedman insist that if only Hamas had returned the remaining
+      Israeli hostages it would have spared Palestinians the slaughter of recent months.
+      In his words, “Hamas’s leadership could have ended all of this suffering by agreeing
+      to quit Gaza and release all its hostages. By perpetuating this war, Hamas has
+      also engaged in its own heinous crimes — the murder of Israeli hostages and the
+      human sacrifice of thousands of Gazans to Hamas’s mad dreams. It’s all true —
+      and relevant.” [For a more nuanced and accurate portrayal of Hamas see Helena
+      Cobban & Rami G. Khouri, Understanding Hamas and Why It Matters (OR Books, 2024).]
+      Is it really true or relevant? There is again silence on the part of Western media
+      when it comes to the most verified influential reports of post-October 7 detention
+      of hundreds of innocent Palestinian civilians and confinement accompanied by routine
+      torture. Such Palestinians are hardly noticed and certainly never receiving the
+      special attention reserved  by the term ‘hostages,’ a term reserved for the unfortunate
+      Israelis detained in the course of the October 7 attack. The Israeli managed the
+      public discourse on this issue in such a distorted manner that only Israelis are
+      media identified as ‘hostages,’ with the unconscious effect of the dehumanization
+      of the Palestinian ‘other’ whose captivity is not even worthy of notice. Friedman’s
+      explanation for why Israel is feeling the heat of global criticism while Hamas
+      generally escapes censure except by complicit Western governments. Friedman poses
+      the rhetorical question, “So why is the world ganging up on Israel now?” His disguised
+      Zionist response is revealingly tone deaf, as well as stunningly blind to the
+      unfolding account of the cruel daily occurrences that brings tears to the eyes
+      of persons of conscience the world over: “Because it holds Israel to a higher
+      standard than Hamas, because Israel has always held itself to a higher standard.”
+      Only a self-censoring media platform would allow such slanted language to find
+      its way into print. To forget the expulsion of more than 700,000 Palestinians
+      from their homeland with no right of return in 1948 was winked at by the world,
+      as were decades of defiant lawlessness in administering the occupied territories
+      of Gaza and the West Bank. Rather than being held to a higher standard Israel
+      was given a no holds barred exemption from its legal duties to apply international
+      humanitarian law in its treatment of Palestinians and their rights, including
+      Israel’s lapsed commitment to implement the UNGA 1947 Partition Resolution 181(II)
+      which underpins Israel’s own claims of sovereign rights. There are reasons to
+      take a serious look at Friedman’s warnings to Israel’s supporters that its current
+      leadership “is committing suicide, homicide and fratricide.” Such an evaluation
+      from a longtime influential journalist is in reaction to his overall conviction
+      that Israel’s future is indeed bleak if it fails to challenge effectively Israel’s
+      growing classification and treatment as a pariah state. If this status becomes
+      frozen, as now seems almost certain, it will jeopardize Israel’s prospects for
+      a normal, prosperous, viable future. Friedman’s solution is indeed a great departure
+      from his uncritical prior unabashed pro-Israeli writings when it comes to questioning
+      Zionist approaches to the conflict. It for Israel to agree immediately to a permanent
+      ceasefire and military withdrawal from Gaza in exchange for a release of the hostages.
+      This preliminary recommended move is to be followed by Palestinian governance
+      of Gaza configured to please Israel as well as the complicit West by excluding
+      Hamas and relying upon a reconstituted Palestinian Authority that is sufficiently
+      collaborative to satisfy the Tel Aviv leadership. In my view, this is a non-solution,
+      but a formula for a more subtle way of achieving Zionist goals and consigning
+      the Palestinian people to new miseries. Friedmans ‘solution’ is what Palestinians
+      who insist on their right of self-determination dismiss as ‘breadcrumb diplomacy’
+      in the form of a demilitarized statelet, aptly alternatively described as ‘a Bantustan,’
+      The true path to a justice-driven peace depends on implementing the ICJ July 2024
+      Advisory Opinion terminating Israel’s role as Occupying Power in Gaza and the
+      West Bank. This change of formal status should be coordinated with internationally
+      monitored free elections in Gaza with Hamas having the option to compete for votes
+      with other political entities. If this process were able to go forward smoothly
+      it might become  possible to have real peace and justice negotiations between
+      Israel and Palestine but only after Israel renounces Zionism, dismantles apartheid,
+      agrees to respect the right of return of Palestinian refugees, and engages with
+      leading Arab governments, the EU, Canada, and the US in reparation arrangement
+      allowing for reconstruction of devastated Gaza, and the ravaged West Bank. It
+      would also be desirable to redress past Palestinian grievances to establish a
+      Peace and Reconciliation Commission that would provide an objective account of
+      the historical record, which has helped clear the air in other post-conflict situations
+      of transition. A final vital step would be a nuclear free internationally verified
+      nuclear free zone applicable throughout the Middle East together with a cap on
+      annual military spending. A long and difficult to do agenda, but anything less
+      will not reach the deep roots of this century long conflict that began during
+      the British Mandate that commenced after Palestine’s relatively peaceful existence
+      beneath the mantle of the Ottoman Empire. After World War I and the Ottoman collapse
+      Britain fulfilled the colonialist Balfour Declaration that pledged support to
+      the Zionist Movement for a Jewish homeland (but not a state) in Palestine.  Support
+      consisted of greenlighting Jewish immigration and property purchases without bothering
+      to obtain the consent of the Arab large majority population in Palestine. This
+      paved the way after World War II for the Zionist settler colonial project that
+      reached its current genocidal climax during the past two years and is now poised
+      to either further reenforce this criminal past or transcend it. If the latter
+      happens it will be an historic victory not only for the Palestinians but for all
+      of humanity, and a tribute to the activism of civil society. If not, worse is
+      sure to come.'
+    one_sentence_summary: Thomas Friedman’s recent NY Times column reflects a troubling
+      ambivalence among longtime supporters of Israel regarding its actions in Gaza,
+      highlighting humanitarian crises while suggesting that Israel could regain legitimacy
+      without accountability for its actions, all while maintaining hopes for continued
+      territorial expansion.
+    paragraph_summary: In a recent New York Times column, Thomas Friedman expressed
+      a pragmatic yet misleading perspective on Israel's actions in Gaza, reflecting
+      a growing ambivalence among long-time supporters of Israel regarding its prolonged
+      violence and humanitarian crisis. He attributes Israel's deteriorating international
+      standing primarily to Prime Minister Netanyahu and his far-right coalition partners,
+      while neglecting to address the longstanding systemic issues of apartheid and
+      Zionist policies that have contributed to the situation. Friedman suggests that
+      Israel could regain legitimacy without accountability for its actions, hinting
+      at hopes for excluding Hamas from governance and continuing settlement expansions
+      in the West Bank. His opening remark, which defers the debate on whether Israel
+      is committing genocide in Gaza to historians, underscores a troubling minimization
+      of the ongoing crisis.
+    published: '2025-09-02T08:03:46+00:00'
+  - title: 'Genocide Prevention: What Can Be Done Should be Done by Persons, Governments,
+      and the UN'
+    url: https://richardfalk.org/2025/08/27/genocide-prevention-what-can-be-done-should-be-done-by-persons-governments-and-the-un/
+    text: '[ Prefatory Note: This interview was conducted on behalf of Fayn Press by
+      an independent Turkish journalist, Semin Gumusel, on August 19, 2025. It was published
+      initially in Turkish and can be found at link: https://www.fayn.press/prof-richard-falk-gazzeyi-yalnizca-halklarin-direnisi-kurtarabilir/
+      The English version posted below has been somewhat modified, mainly for style.]
+      Q<How can Israel and Netanyahu be stopped at this moment? That is a question that
+      has haunted the world for the past two years, and worried peace and justice activists
+      for a much longer time. The most obvious issue is to how to persuade the US government
+      and EU countries to withdraw their support in response to Israel’s abusive occupation
+      policies in Gaza and the West Bank. It remains crucial for any hope of an adequate,
+      if belated, international response to the Gaza genocide for European countries
+      do more than just step back but encourage the imposition of collective sanctioning
+      measures through the UN or by a coalition of the willing. It is of even greater
+      relevance to bring pressure on the US Government to stop shielding Israel and
+      to join in a genuine effort to overcome the current famine that is threatening
+      death by starvation to most of the surviving Palestinian population trapped in
+      Gaza. The political atmosphere regarding Israel’s assault on Gaza has changed
+      over the course of the last five months, that is, after Israel broke the ceasefire
+      on March 13 of this year. A much larger segment of the public, including in previously
+      complicit countries, is increasingly disturbed by Israel continuing genocide,
+      especially by the cruelty of inducing deliberate starvation, the manipulation
+      of the humanitarian aid, and perhaps most of all by converting the food distribution
+      centers into killing fields. The overall impression produced by Israel’s tactics
+      is one of death of innocent people and destruction of their habitats and cultural
+      heritage with a ferocity that is unprecedented in human history. Prior genocides
+      were never before as widely and vividly witnessed around the world in real time.
+      The Israeli response to October 7 has been exposing the eyes and ears of the entire
+      world to daily images of atrocities, as well as the complicity of the Western
+      liberal democratic governments and the feebleness of UN genocide prevention efforts.
+      This represents a moral collapse by Western governments and reveals the deficiencies
+      of international law and the UN in the face of clashes between humanitarian concerns
+      and strategic interests. If this dynamic results in Israeli post-genocide occupation
+      of Gaza and the expulsion and repression of surviving Palestinians, this tragic
+      failure of moral internationalism will be completed. Such a result will keep reviving
+      memories of generations to come with graphic descriptions of this appalling behavior
+      that was tolerated and significantly enabled by the West, particularly by the
+      former European colonial powers and the breakaway British colonies. The work of
+      documentary and fictional filmmaking will undoubtedly preserve and disseminate
+      this dark and scandalous chapter in human history. We alive now cannot evade responsibility
+      for taking what action we can that is directed at securing Palestinian rights
+      as well as resisting Israel’s crimes. The urgent question before the world is
+      ‘how to translate opposition to this ongoing experience of criminality into effective
+      action of opposition given existing emergency conditions?’ The humanitarian emergency
+      can only be address by an immediate response of sufficient magnitude . We have
+      little time to plan and intervene protectively if we are serious about engaging
+      to save the surviving Gazan population of an estimated two million persons, most
+      of whom have already been severely malnourished and traumatized by almost two
+      years of relentless wholesale onslaught conducted with minimal constraint. What
+      has been happening in Gaza should not be treated as a ‘war,’ which presupposes
+      a somewhat symmetrical struggle between two sides. The conflict unfolding in Gaza
+      is more accurately portrayed as a ‘massacre’, or even as ‘a military hunting expedition.’
+      It is so one-sided in its characteristics, with one side having its choice of
+      options as to the most hyper-modern weaponry and targets, and the other side vulnerable
+      and helpless, with few options other than to seek shelter and pray to survive.
+      To use the language of war for such a conflict is to normalize Israel’s behavior
+      by raising technical questions of the law of war as to whether it has exceeded
+      the limits of ‘self-defense’ or ‘military necessity.’ Such issues can be argued
+      indefinitely by lawyers for and against, thereby minimizing the horror that is
+      transpiring. Language matters as it allows advocates of abhorrent behavior to
+      hide the true nature of their true motivations that account for the tactics deployed
+      to destroy the identity, livelihood, memories, and lives of an entire people and
+      at the same time  engage in ethnic cleansing to clear the land of its native population.
+      The recourse to force of this intensity and duration given the context cannot
+      be explained by reference to Israeli security or even revenge, but only by reference
+      to territorial ambitions and depopulation that long infused the Zionist Project,
+      which has delayed implementation until an opportunity was present,. In the case
+      of Gaza there’s a special feature that this violence is concentrated in a tiny
+      area occupied after the 1967 War and subject to international humanitarian law
+      with Israel being a provisional occupying power that has now been declared by
+      the International Court of Justice in 2024 to have flagrantly abused its authority
+      and role from the perspective of international law. This supreme international
+      tribunal in a near unanimous judgment concluded that Israel was legally obligated
+      to withdraw its military presence and political administration altogether from
+      occupied Palestinian territories and allowed it a year to do so. The year expired
+      on July 19, 2025, and given the refusal of Israel to comply, this authoritative
+      judicial opinion instructed the UN and its Members in their individual capacities
+      to take steps to implement Israel’s withdrawal. What is now established is that
+      Israel has no legitimate foundation for exercising control in either Gaza or the
+      West Bank, and has itself become an unlawful occupant. Israel not only refuses
+      to comply with the ICJ decision but has announced plans for settlement expansion
+      in the West Bank, directly violating an important legal constraint found in the
+      4 th Geneva Convention on Belligerent Occupation. So far there are no signs at
+      the UN or elsewhere that there exists a sufficient political will to do anything
+      that would really make Israel feel obliged to comply. There are some symbolic
+      gestures that have been recently made by several important European countries
+      including Germany, France and the UK reacting to the official confirmation of
+      famine in Gaza and the reports of children and others dying of starvation. But
+      in terms of stopping an extremist leader like Netanyahu and the Zionist movement
+      that has captured control over the governing process and the citizenry in Israel,
+      and there is little indication that anything in the short term can or will be
+      done to mitigate the suffering in Gaza, or to avert what seems to be worse to
+      come. There is a slender hope that the increasing pariah or rogue status of Israel
+      will induce an unexpected willingness of Israel’s leaders to compromise the further
+      pursuit of maximalist goals in exchange for a pledge to normalize Israel’s relations
+      with Saudi Arabia and other governments in the Middle East, a revival of the Abraham
+      Accords initiated in the last year of Trump’s first term as the US president.
+      People have started advocating, including here in Istanbul, about forming a UN
+      protective force that would intervene with sufficient capabilities to protect
+      the Gazan population perhaps by a peacekeeping presence deployed at the borders
+      between Israel and Gaza, as well as between Israel and the West Bank. It is doubtful
+      that this will happen so long as U.S. and Israeli opposition remains as firm as
+      in the past 22 months. At the same time, it may be the best hope aside from an
+      Israeli course correction, and it’s certainly worth exerting public pressure that
+      might make Israel do something radically inconsistent with its behavior before
+      and after October 7, but history is full of surprises, reflecting an inability
+      to know the future and thus forced to live with uncertainty on every level of
+      human existence. But uncertainty is no excuse for passivity in the presence of
+      evil. What seems a phantasy hinged to Israel’s willingness to change its behavior, 
+      accepting an arrangement committed to enforcing international law and accepting
+      a stable and just peace that would also promise the political as well as the physical
+      reconstruction of Gaza is neither probable nor impossible. Such a scenario is
+      what we should struggle to achieve at this point even though most self-confident
+      experts would dismiss its relevance as an idle utopian fantasy, and move on to
+      plan some incremental feasible face saving adjustment that would not attempt to
+      address the underlying maladies. Q>If genocide cannot be stopped what is the outcome
+      Israel seeks? When do you think Israel will stop this military operation increasingly
+      labeled as ‘genocide’ in public discourse? In my view Israel’s undertaking was
+      not motivated primarily, or perhaps not at all by security considerations. Israel
+      had ample capabilities to address whatever security threats existed after October
+      7, and assuming that Israel didn’t let the attack happen so as to have the pretext
+      for such a response, it would merely be a matter of enhancing border security,
+      well within Israel’s defense capabilities. Israel received warnings that this
+      attack was coming. Including a New York Times front page story about the degree
+      to which Netanyahu had been made aware of the preparations in Gaza for launching
+      this attack. As well, the Egyptian intelligence reportedly warned Netanyahi  in
+      the days before the attack. The world deserves an international investigation
+      of the October 7 events, including what preceded and what followed, to obtain
+      a better grasp of what motivated Israel to act as it has. Ordinary persons should
+      at least entertain the possibility that Israel wanted the pretext for initiating
+      such a large-scale response that it would begin the end game for the Zionist project,
+      which means grabbing as much land as they could acquire in terms of what was in
+      some sense withheld from Israel by the international consensus favoring a two-state
+      solution. The Israeli made no secret of wanting to have one Israeli state with
+      Jewish supremacy and allowing only the Jewish people as having a right of self-determination.
+      This is set forth in Israel’s Basic Law adopted by the Knesset in 2018. As Israel
+      has no constitution, the Basic Law is the highest form of legislation and the
+      most difficult to amend and repeal. It internalizes and acknowledges the apartheid
+      regime Israel has long relied upon to deal with Palestinians living in Israel
+      or in the occupied territories or even as refugees. It has been complemented by
+      episodic seizures of Palestinian land and periodic expulsion of Palestinians.
+      On the West Bank there’s been an increasing spillover from the Gaza violence,
+      mainly evident in the upsurge of settler violence directed at making life unlivable
+      for Palestinians in the West Bank and encouraging a movement among the many militant
+      settler communities that are very well represented in the Netanyahu coalition
+      to annex the West Bank and to occupy substantial if not the whole of Gaza and
+      in the process to find ways to remove as many Palestinians as possible, either
+      by forced expulsion or by some kind of ‘voluntary’ arrangement with another country
+      that would accept them, possibly being bribed to do so by economic incentives.
+      Several African countries have been talked about in this way but so far none have
+      been persuaded to accept an influx of Palestinian refugees forced to flee their
+      homeland. But Israel and specifically the Zionist movement has always been animated
+      by the idea of a single colonized Israel state that has the characteristics of
+      a settler colonial undertaking. Such a project has been pursued at the very moment
+      that colonialism has collapsed elsewhere in the world. Hence, it hardly surprising
+      that there’s more resistance from the Palestinians to a historical attempt to
+      engage in a new colonial undertaking during what is often referred to as a post-colonial
+      era. This persistent resistance of Palestinians has given rise to a vicious circle
+      linking resistance to more and more severe repression taking the form of apartheid.
+      No matter what its name Israel has devised a system of racial domination and exploitation
+      that is based on ethnicity not on class but on identity determined to be either
+      Jew or non-Jew. Aside from Israel’s resolve to exert discriminatory submission
+      on the part of the Palestinians, its ambitions are more extensive, involving land
+      and racial purification that depends on a continuous process of ethnic cleansing.
+      And when apartheid doesn’t succeed in achieving the ends that are being sought
+      there has been a strong tendency of settler colonial movements to embrace a logic
+      of genocide of varying degrees of severity depending on circumstances in each
+      instance. Recourse to genocide often came about because it seemed the only way
+      that the settler colonial undertaking could find stability and achieve homeland
+      security. All settler colonial settler states have commenced their existence with
+      an often unconsciously constructed apartheid-like structure, which if resisted
+      over a long period would tend to transition to genocide or in a few instances
+      the abandonment of the project. The US and Canada illustrate a transition to genocide,
+      Algeria and South Africa illustrate a transition to withdrawal after resistance
+      from within and without seemed to formidable to ignore. As such what is happening
+      in the occupied Palestinian territories is not a new phenomenon, it happened in
+      all the white British breakaway colonies Canada, US, Australia, New Zealand. They
+      each experienced this sequence of apartheid followed by genocidal policies to
+      marginalize the native peoples within their territories, and if long stabilized,
+      by rituals of apology without the slightest intention of redressing legitimate
+      grievances of surviving descendants of the victimized native population. One has
+      to understand that against the background of several centuries of history, genocide
+      has never been effectively stopped by the international community. Even the Holocaust
+      in Germany was tolerated until Hitler launched a war against Poland and then attacked
+      the Soviet Union. It was only then that Germany was delegitimized as a sovereign
+      state. Even during World War II, the allied powers notoriously refused to bomb
+      the railroad tracks leading to the death camps, although some historians question
+      this interpretation of Allied conduct with regard to the Nazi genocide. In the
+      background of the Gaza genocide is the extensive experience that countries in
+      the West have had of consolidating the ambitions of dominant racial elites by
+      any means unless there exists within or without some sufficient strategic interest
+      with the ability and will to stop them. A final thing aspect of this approach
+      to Gaza is to mention at least that after the Cold War, Islam became the next
+      enemy of the Global West. It is relevant to take note of the striking fact that
+      all the countries that were complicit with Israel’s genocidal behavior are from
+      the white West and all the countries and movements that support the Palestinian
+      struggle come from the Global South or from governments or movements originating
+      in Islamic neighbors of Palestine. In other words after the end of the Cold War,
+      there emerged in the faultlines of the Middle East an inter-civilization struggle
+      for land, energy reserves, trade routes, and hegemonic status. Q>So we shouldn’t
+      wait patiently for the international community to act.  International organizations
+      and geopolitical actors have never acted effectively to stop this or any previous
+      genocide. History tells us almost everything we need to know, or does it? The
+      organized international community has never been designed or empowered to stop
+      genocide. It has always in the past reacted after the fact. With digital communications
+      this could change but obstacles to fashioning effective responses remain.  If
+      enough agitation arises in civil society it might effectively bring pressure on
+      some governments to change their policies so as to support an anti-genocide protective
+      intervention under international auspices, and act to provide an implementing
+      capability. This might require the coordinated imposition of sanctions with demands
+      for consent to deploy armed blue helmet protective forces. This happened in a
+      limited way regarding Apartheid South Africa which was strategically allied with
+      the UK and the US. But the internal politics of these two countries turned so
+      strongly against apartheid that these governments, despite their  conservative
+      governments under the leadership of Thacher and Reagan, complied with the wishes
+      of their citizens rather than pursued their strategic interests. The Israeli case
+      is different as Zionist lobbies, especially AIPAC,  continue to be effective in
+      asserting leverage over US policy toward Israel. Q> Is it possible for the completely
+      different Gaza plan to what Trump proposed in his promotional video- Gaza riviera
+      – on social media to come true? A plan where Gaza is fully emptied, and Palestinians
+      leave their land… We’re living at a time of radical uncertainty so that what seems
+      impossible may become actualized in ways that it’s currently difficult to anticipate.
+      The crystal ball used to predict the future is even foggier than usual. We are
+      destined to live in an atmosphere of ambient uncertainty with respect to future
+      developments, but this does not relieve us from responsibility to struggle for
+      what we believe is right and just. Precisely because a benign future is not foreclosed,
+      as engaged citizens dedicated to a humane future our responsibility to act on
+      behalf of justice is an imperative of moral conscience. Reinforcing this general
+      idea of political responsibility are concrete factors.Trump is sufficiently narcissistic,
+      unpredictable, and impressionable that he could launch a major campaign to prove
+      that this vision of a Middle East Riviera comes at least partially into being.
+      It now seems unlikely because it’s not wanted by any of the relevant actors and
+      it seems reminiscent of the the imperial side of the colonial era. Such a proposal
+      poses an awkward question for advocates: ‘by what possible right has the U.S.
+      to take over a territory with which it has not had any relevant historical connection
+      or prior reasonable claim. Trump has made similar bizarre threats about American
+      ambitions to exert sovereignty over Greenland, Canada, Panama, and undoubtedly
+      others will be added to this notorious list. Q>Netanyahu thinks he’s winning.
+      Is he really winning, Israel is really winning? No. Without doubt Israel prevails
+      on the battlefield they have no opposition, they kill lots of people, they destroy
+      lots of structures, disrupting the life and heritage of Gaza in a totalizing manner.
+      At the same time, they basically lost what the onslaught set out to achieve beyond
+      the devastation of Gaza. Recourse by Israel to this level of violence was supposed
+      to exterminate Hamas, yet after two years of horrifying violence Israel finds
+      itself with no choice but to negotiate with Hamas and to reach a deal to achieve
+      a ceasefire and hostage exchange. In the background, of course, is Israel’s insistence
+      on excluding Hamas from any governance role in Hamas, an extreme case of rewarding
+      the main wrongdoer and further punishing the devastated victim. Beyond this, there
+      are all sorts of civil society and even governmental pushbacks by former supporters,
+      including a flurry of recognitions of Palestinian statehood. Even Israeli tourists
+      are subject to angry protest. They have recently been denied the right to get
+      off tourist ship in the harbors of Greek islands. More and more Israeli applicants
+      are denied visas in an increasing number of places. IDF soldiers are facing threats
+      of criminal prosecutions in several countries that have universal jurisdiction.
+      The whole legitimacy of a Zionist Israel is very much in doubt and its legitimacy
+      challenged at this point. There are moves afoot to suspend Israel participation
+      in UN activities or even to expel Israel from the UN. Several prominent Israelis
+      are beginning to talk in a very strong way at least domestically against Netanyahu
+      not only because of the failure to obtain the release of the remaining hostages
+      but for broader issues of behavior that has ruined the reputation the whole idea
+      of a a Jewish democratic state. This Gaza genocide is the worst thing that has
+      befallen diaspora Jews since Hitler. It brings authentic antisemitism rather than
+      the fake weaponized antisemitism that is relied upon by the Zionist networks around
+      the world to discredit Israel’s critics including of Jews such as myself. I was
+      somewhat victimized this fake version of antisemitism while serving as UN Special
+      Rapporteur for Occupied Palestine, but not in the serious way Francesca Albanese
+      has been. However ethically inappropriate, it is the tactic Israel devised to
+      divert attention from critical messages of unlawful behavior to the fake antisemitism
+      attributed to the messenger to undermine his or her credibility. Israel earlier
+      in its answered substantive criticisms but it became so obvious that it was violating
+      the rights of the occupied Palestinian people in numerous ways that it began adjusting
+      its approach. Although reckless and disreputable the tactic was quite effective
+      as a diversionary tactic. Fortunately, its overuse has weakened these fake accusations,
+      and made the practice understood to be defamatory in unacceptable ways, especially
+      in international arenas. Q>How will history record the world’s silence and it’s
+      allowing all this to happen? Of course, much will depend on the eventual political
+      outcome that remains unclear, especially whether what emerges from such a genocidal
+      assault on the population of Gaza leads to ‘Greater Israel’ and realizes Netanyahu’s
+      vision of ‘the new Middle East’ or whether Israel faces such pressures on its
+      economic viability and political legitimacy that it renounces the apartheid features
+      of Zionism, and moves finally towards a genuine accommodation with Palestine that
+      acknowledges the Palestinian right of self-determination. The unexpected transformation
+      of racist South Africa from an apartheid structure of governance to a constitutional
+      democracy is an instructive and hopeful precedent. It should also lead us to understand
+      that at this stage Israel has yet to win or Palestine to lose. The conflict and
+      struggle goes on even though future Palestinian prospects for a justice-driven
+      peace have never seemed bleaker. As earlier expressed, the ‘certainties’ of the
+      present are often transformed in unanticipated way as the realities of the future
+      unfold. If Israel prevails and manages to normalize its relations in the Middle
+      East and with the world and is again accepted as a legitimate sovereign state,
+      recollections derived from the events of the past two years may be airbrushed
+      to an extent that their gruesome realities become marginalized in the public imagination
+      as became the fate of native peoples in North America, Australia, and New Zealand.
+      I do not see this as happening, at least not in the near future, unless there
+      is an upheaval in Israel that drastically changes the outlook of Zionism or repudiates
+      Zionism altogether, and I do not see this happening, although it remains a less
+      remote possibility than it did two years ago. Evaluating the future perception
+      of this post October 7 experience is also difficult currently. Israel’s leadership
+      was warned by various friendly governments of an impending Hamas attack, yet appears
+      to have chosen to let it happen so as to have a pretext for a violent response.
+      In fact, Israel instantly over-reacted without taking any account of the context
+      or its complacency about border security. We should remind ourselves that the
+      context included a harsh blockade of Gaza since 2007 that induced widespread misery,
+      periodic Israeli military incursions causing devastation, and a refusal even to
+      respond to Hamas diplomatic initiatives for a long-term ceasefire lasting up to
+      50 years. The Zionist Project made political use of the October 7 attack to launch
+      its endgame based on territorial expansion at the expense of the Palestinian occupied
+      territories and adjustments by way defusing the so-called ‘demographic bomb’ set
+      to explode at some point due to higher Palestinian than Jewish fertility rates.
+      The solution was to be found by way of ethnic cleansing which meant coercing the
+      departure of as many Palestinians as possible. In effect, carrying out the last
+      stage of any durable settler colonial project by Israel presupposes provoking
+      a second Nakba of mass expulsion on the long suppressed Palestinian nation that
+      despite all has remained resilient and resistant. If Israel succeeds, as now seems
+      likely, it will not bring peace but lead to new forms of Palestinian resistance.
+      This will be viewed as the greatest failure of modern times to bring an end the
+      colonial era in a civilized manner. It will be objectively seen as one of the
+      cruelest abuses in history, made worse by the material and psychological support
+      given to Israel’s prolonged genocide by the Western liberal democracies that had
+      so proudly championed the development of human rights and genocide-prevention
+      after World War II. It will be looked back upon from many perspectives, including
+      as a sequel to the Cold War in which Israel safeguarded the Middle East for Western
+      exploitation and continuing encroachment, as well as containing the spread of
+      the kind of radical Islam favored by Iran. In the process the West sacrificed
+      commitments to international law and global justice for the sake of geopolitical
+      priorities and Western racial cohesion. It also exhibited unabashed moral hypocrisy
+      by invoking international criminal law to bash Russia for its border-crossing
+      attack on Ukraine while shielding Israel from compliance with the rulings of the
+      most respected international tribunal. In this process international law was doubly
+      damaged first by backing Israel’s Gaza campaign and secondly by making clear that
+      international law was to be taken seriously only as a policy and propaganda instrument
+      to be reserved for use against adversaries and rivals, but to be evaded in the
+      event of unlawfulness by friends and allies. Q<Could you please tell us about
+      the Gaza Tribunal that you’re the president? Who launched it? Who are the members?
+      And what is your aim? To respond adequately, would require a long response. I
+      will be brief and encourage those interested to read ‘The Sarajevo Declaration
+      of the Gaza Tribunal’ for a more detailed account of the perspective of our effort.
+      https://chng.it/nf5gKSCmG8 [See text of Declaration, attached] A group of sponsors,
+      affiliated with the Islamic Cooperative Youth Forum (ICYF), a civil society organization
+      affiliated with the Conference of Islamic Cooperation and possessing UN credentials,
+      approached Hilal Elver and myself to accept this role of organizing a civil society
+      tribunal devoted to documenting and increasing pressure on Israel and its supporters
+      to stop the genocide, and possessed the funding needed to make it happen. We on
+      our part insisted on political independence and full respect for our identity
+      in the shaping of the work of the GT, which emphasized our resolve to operate
+      as a civil society initiative that had no connections with governments or with
+      active politicians and diplomats. GT is administered by a Steering Committee,
+      and its members include Palestinian NGO representatives, public intellectuals
+      and civil society activists, former UN Special Rapporteurs and former UN officials,
+      and retired diplomats. We believed such an initiative justified as neither the
+      UN nor states acting individually or collectively were able to end the genocide
+      or impose sanctions on Israel. Our standpoint was informed by the failure of Israel
+      to comply with international law or the ruling of both the International Court
+      of Justice and the International Criminal Court, as supplemented by the failure
+      of the UN to close the enforcement and accountability gaps, principally due to
+      the right of veto possessed by Israel’s leading supporters in the Security Council.
+      The undertaking of the GT is to expose three gaps in a workable system of global
+      governance: enforcement of law, accountability of perpetrators and complicit actors,
+      and the refusal of states and their institutions to heed the global public interests
+      and adapt national interests as needed. GT also aims to establish a documentary
+      record of the genocide free from media manipulation and self-censorship in the
+      format of an archival record that will be published in due course. The purpose
+      to the extent possible is to insulate public discourse from state propaganda and
+      special interests, particularly in the domain of the arms industry. The overriding
+      immediate goal of GT is to legitimize civil society activism in the face of continuing
+      Israeli criminality and the humanitarian emergency threatening the future of Palestinians
+      in Gaza, and more recently in the West Bank. Such a goal also involves opposition
+      to efforts to suppress peaceful protest activity and punish critics of Israel
+      as has been happening in North America and many European countries. To be clear
+      this is a peoples tribunal, not a conventional court of law. This will be evident
+      in the final session of the GT in Istanbul (Oct 23-26, 2025) by the centrality
+      of a Jury of Conscience, charged with arriving at a final verdict and preparing
+      a written judgment. This framing signals an emphasis on justice rather than on
+      the more technical approaches to law applied by governmental and inter-governmental
+      courts. Ironically, the GT by encouraging people to act both to exert pressure
+      on governments and by participating in solidarity initiatives has more enforcement
+      capabilities than do traditional capabilities in this kind of situation.'
+    one_sentence_summary: In an interview, Richard Falk emphasizes the need for international
+      pressure, particularly from the US and EU, to withdraw support for Israel's occupation
+      policies in Gaza and the West Bank, advocating for collective sanctions to address
+      the ongoing humanitarian crisis.
+    paragraph_summary: In an interview with Turkish journalist Semin Gumusel, Professor
+      Richard Falk discusses the urgent need for international action to address Israel's
+      ongoing occupation and violence in Gaza, particularly in light of the humanitarian
+      crisis facing the Palestinian population. He emphasizes the importance of persuading
+      the U.S. and European governments to withdraw their support for Israel and to
+      implement collective sanctions through the UN or a coalition of nations. Falk
+      notes a shift in public sentiment, with increasing outrage over Israel's tactics,
+      including the deliberate starvation of civilians and the destruction of cultural
+      heritage, which he describes as unprecedented in human history. He calls for a
+      concerted effort to alleviate the famine threatening many Palestinians and to
+      hold Israel accountable for its actions.
+    published: '2025-08-27T16:09:10+00:00'
+  - title: 'Genocide Prevention: What Can Be Done Should be Done by Persons, Governments,
+      and the UN'
+    url: https://richardfalk.org/2025/08/27/genocide-prevention-what-can-be-done-should-be-done-by-persons-governments-and-the-un/
+    text: '[ Prefatory Note: This interview was conducted on behalf of Fayn Press by
+      an independent Turkish journalist, Semin Gumusel, on August 19, 2025. It was published
+      initially in Turkish and can be found at link: https://www.fayn.press/prof-richard-falk-gazzeyi-yalnizca-halklarin-direnisi-kurtarabilir/
+      The English version posted below has been somewhat modified, mainly for style.]
+      Q<How can Israel and Netanyahu be stopped at this moment? That is a question that
+      has haunted the world for the past two years, and worried peace and justice activists
+      for a much longer time. The most obvious issue is to how to persuade the US government
+      and EU countries to withdraw their support in response to Israel’s abusive occupation
+      policies in Gaza and the West Bank. It remains crucial for any hope of an adequate,
+      if belated, international response to the Gaza genocide for European countries
+      do more than just step back but encourage the imposition of collective sanctioning
+      measures through the UN or by a coalition of the willing. It is of even greater
+      relevance to bring pressure on the US Government to stop shielding Israel and
+      to join in a genuine effort to overcome the current famine that is threatening
+      death by starvation to most of the surviving Palestinian population trapped in
+      Gaza. The political atmosphere regarding Israel’s assault on Gaza has changed
+      over the course of the last five months, that is, after Israel broke the ceasefire
+      on March 13 of this year. A much larger segment of the public, including in previously
+      complicit countries, is increasingly disturbed by Israel continuing genocide,
+      especially by the cruelty of inducing deliberate starvation, the manipulation
+      of the humanitarian aid, and perhaps most of all by converting the food distribution
+      centers into killing fields. The overall impression produced by Israel’s tactics
+      is one of death of innocent people and destruction of their habitats and cultural
+      heritage with a ferocity that is unprecedented in human history. Prior genocides
+      were never before as widely and vividly witnessed around the world in real time.
+      The Israeli response to October 7 has been exposing the eyes and ears of the entire
+      world to daily images of atrocities, as well as the complicity of the Western
+      liberal democratic governments and the feebleness of UN genocide prevention efforts.
+      This represents a moral collapse by Western governments and reveals the deficiencies
+      of international law and the UN in the face of clashes between humanitarian concerns
+      and strategic interests. If this dynamic results in Israeli post-genocide occupation
+      of Gaza and the expulsion and repression of surviving Palestinians, this tragic
+      failure of moral internationalism will be completed. Such a result will keep reviving
+      memories of generations to come with graphic descriptions of this appalling behavior
+      that was tolerated and significantly enabled by the West, particularly by the
+      former European colonial powers and the breakaway British colonies. The work of
+      documentary and fictional filmmaking will undoubtedly preserve and disseminate
+      this dark and scandalous chapter in human history. We alive now cannot evade responsibility
+      for taking what action we can that is directed at securing Palestinian rights
+      as well as resisting Israel’s crimes. The urgent question before the world is
+      ‘how to translate opposition to this ongoing experience of criminality into effective
+      action of opposition given existing emergency conditions?’ The humanitarian emergency
+      can only be address by an immediate response of sufficient magnitude . We have
+      little time to plan and intervene protectively if we are serious about engaging
+      to save the surviving Gazan population of an estimated two million persons, most
+      of whom have already been severely malnourished and traumatized by almost two
+      years of relentless wholesale onslaught conducted with minimal constraint. What
+      has been happening in Gaza should not be treated as a ‘war,’ which presupposes
+      a somewhat symmetrical struggle between two sides. The conflict unfolding in Gaza
+      is more accurately portrayed as a ‘massacre’, or even as ‘a military hunting expedition.’
+      It is so one-sided in its characteristics, with one side having its choice of
+      options as to the most hyper-modern weaponry and targets, and the other side vulnerable
+      and helpless, with few options other than to seek shelter and pray to survive.
+      To use the language of war for such a conflict is to normalize Israel’s behavior
+      by raising technical questions of the law of war as to whether it has exceeded
+      the limits of ‘self-defense’ or ‘military necessity.’ Such issues can be argued
+      indefinitely by lawyers for and against, thereby minimizing the horror that is
+      transpiring. Language matters as it allows advocates of abhorrent behavior to
+      hide the true nature of their true motivations that account for the tactics deployed
+      to destroy the identity, livelihood, memories, and lives of an entire people and
+      at the same time  engage in ethnic cleansing to clear the land of its native population.
+      The recourse to force of this intensity and duration given the context cannot
+      be explained by reference to Israeli security or even revenge, but only by reference
+      to territorial ambitions and depopulation that long infused the Zionist Project,
+      which has delayed implementation until an opportunity was present,. In the case
+      of Gaza there’s a special feature that this violence is concentrated in a tiny
+      area occupied after the 1967 War and subject to international humanitarian law
+      with Israel being a provisional occupying power that has now been declared by
+      the International Court of Justice in 2024 to have flagrantly abused its authority
+      and role from the perspective of international law. This supreme international
+      tribunal in a near unanimous judgment concluded that Israel was legally obligated
+      to withdraw its military presence and political administration altogether from
+      occupied Palestinian territories and allowed it a year to do so. The year expired
+      on July 19, 2025, and given the refusal of Israel to comply, this authoritative
+      judicial opinion instructed the UN and its Members in their individual capacities
+      to take steps to implement Israel’s withdrawal. What is now established is that
+      Israel has no legitimate foundation for exercising control in either Gaza or the
+      West Bank, and has itself become an unlawful occupant. Israel not only refuses
+      to comply with the ICJ decision but has announced plans for settlement expansion
+      in the West Bank, directly violating an important legal constraint found in the
+      4 th Geneva Convention on Belligerent Occupation. So far there are no signs at
+      the UN or elsewhere that there exists a sufficient political will to do anything
+      that would really make Israel feel obliged to comply. There are some symbolic
+      gestures that have been recently made by several important European countries
+      including Germany, France and the UK reacting to the official confirmation of
+      famine in Gaza and the reports of children and others dying of starvation. But
+      in terms of stopping an extremist leader like Netanyahu and the Zionist movement
+      that has captured control over the governing process and the citizenry in Israel,
+      and there is little indication that anything in the short term can or will be
+      done to mitigate the suffering in Gaza, or to avert what seems to be worse to
+      come. There is a slender hope that the increasing pariah or rogue status of Israel
+      will induce an unexpected willingness of Israel’s leaders to compromise the further
+      pursuit of maximalist goals in exchange for a pledge to normalize Israel’s relations
+      with Saudi Arabia and other governments in the Middle East, a revival of the Abraham
+      Accords initiated in the last year of Trump’s first term as the US president.
+      People have started advocating, including here in Istanbul, about forming a UN
+      protective force that would intervene with sufficient capabilities to protect
+      the Gazan population perhaps by a peacekeeping presence deployed at the borders
+      between Israel and Gaza, as well as between Israel and the West Bank. It is doubtful
+      that this will happen so long as U.S. and Israeli opposition remains as firm as
+      in the past 22 months. At the same time, it may be the best hope aside from an
+      Israeli course correction, and it’s certainly worth exerting public pressure that
+      might make Israel do something radically inconsistent with its behavior before
+      and after October 7, but history is full of surprises, reflecting an inability
+      to know the future and thus forced to live with uncertainty on every level of
+      human existence. But uncertainty is no excuse for passivity in the presence of
+      evil. What seems a phantasy hinged to Israel’s willingness to change its behavior, 
+      accepting an arrangement committed to enforcing international law and accepting
+      a stable and just peace that would also promise the political as well as the physical
+      reconstruction of Gaza is neither probable nor impossible. Such a scenario is
+      what we should struggle to achieve at this point even though most self-confident
+      experts would dismiss its relevance as an idle utopian fantasy, and move on to
+      plan some incremental feasible face saving adjustment that would not attempt to
+      address the underlying maladies. Q>If genocide cannot be stopped what is the outcome
+      Israel seeks? When do you think Israel will stop this military operation increasingly
+      labeled as ‘genocide’ in public discourse? In my view Israel’s undertaking was
+      not motivated primarily, or perhaps not at all by security considerations. Israel
+      had ample capabilities to address whatever security threats existed after October
+      7, and assuming that Israel didn’t let the attack happen so as to have the pretext
+      for such a response, it would merely be a matter of enhancing border security,
+      well within Israel’s defense capabilities. Israel received warnings that this
+      attack was coming. Including a New York Times front page story about the degree
+      to which Netanyahu had been made aware of the preparations in Gaza for launching
+      this attack. As well, the Egyptian intelligence reportedly warned Netanyahi  in
+      the days before the attack. The world deserves an international investigation
+      of the October 7 events, including what preceded and what followed, to obtain
+      a better grasp of what motivated Israel to act as it has. Ordinary persons should
+      at least entertain the possibility that Israel wanted the pretext for initiating
+      such a large-scale response that it would begin the end game for the Zionist project,
+      which means grabbing as much land as they could acquire in terms of what was in
+      some sense withheld from Israel by the international consensus favoring a two-state
+      solution. The Israeli made no secret of wanting to have one Israeli state with
+      Jewish supremacy and allowing only the Jewish people as having a right of self-determination.
+      This is set forth in Israel’s Basic Law adopted by the Knesset in 2018. As Israel
+      has no constitution, the Basic Law is the highest form of legislation and the
+      most difficult to amend and repeal. It internalizes and acknowledges the apartheid
+      regime Israel has long relied upon to deal with Palestinians living in Israel
+      or in the occupied territories or even as refugees. It has been complemented by
+      episodic seizures of Palestinian land and periodic expulsion of Palestinians.
+      On the West Bank there’s been an increasing spillover from the Gaza violence,
+      mainly evident in the upsurge of settler violence directed at making life unlivable
+      for Palestinians in the West Bank and encouraging a movement among the many militant
+      settler communities that are very well represented in the Netanyahu coalition
+      to annex the West Bank and to occupy substantial if not the whole of Gaza and
+      in the process to find ways to remove as many Palestinians as possible, either
+      by forced expulsion or by some kind of ‘voluntary’ arrangement with another country
+      that would accept them, possibly being bribed to do so by economic incentives.
+      Several African countries have been talked about in this way but so far none have
+      been persuaded to accept an influx of Palestinian refugees forced to flee their
+      homeland. But Israel and specifically the Zionist movement has always been animated
+      by the idea of a single colonized Israel state that has the characteristics of
+      a settler colonial undertaking. Such a project has been pursued at the very moment
+      that colonialism has collapsed elsewhere in the world. Hence, it hardly surprising
+      that there’s more resistance from the Palestinians to a historical attempt to
+      engage in a new colonial undertaking during what is often referred to as a post-colonial
+      era. This persistent resistance of Palestinians has given rise to a vicious circle
+      linking resistance to more and more severe repression taking the form of apartheid.
+      No matter what its name Israel has devised a system of racial domination and exploitation
+      that is based on ethnicity not on class but on identity determined to be either
+      Jew or non-Jew. Aside from Israel’s resolve to exert discriminatory submission
+      on the part of the Palestinians, its ambitions are more extensive, involving land
+      and racial purification that depends on a continuous process of ethnic cleansing.
+      And when apartheid doesn’t succeed in achieving the ends that are being sought
+      there has been a strong tendency of settler colonial movements to embrace a logic
+      of genocide of varying degrees of severity depending on circumstances in each
+      instance. Recourse to genocide often came about because it seemed the only way
+      that the settler colonial undertaking could find stability and achieve homeland
+      security. All settler colonial settler states have commenced their existence with
+      an often unconsciously constructed apartheid-like structure, which if resisted
+      over a long period would tend to transition to genocide or in a few instances
+      the abandonment of the project. The US and Canada illustrate a transition to genocide,
+      Algeria and South Africa illustrate a transition to withdrawal after resistance
+      from within and without seemed to formidable to ignore. As such what is happening
+      in the occupied Palestinian territories is not a new phenomenon, it happened in
+      all the white British breakaway colonies Canada, US, Australia, New Zealand. They
+      each experienced this sequence of apartheid followed by genocidal policies to
+      marginalize the native peoples within their territories, and if long stabilized,
+      by rituals of apology without the slightest intention of redressing legitimate
+      grievances of surviving descendants of the victimized native population. One has
+      to understand that against the background of several centuries of history, genocide
+      has never been effectively stopped by the international community. Even the Holocaust
+      in Germany was tolerated until Hitler launched a war against Poland and then attacked
+      the Soviet Union. It was only then that Germany was delegitimized as a sovereign
+      state. Even during World War II, the allied powers notoriously refused to bomb
+      the railroad tracks leading to the death camps, although some historians question
+      this interpretation of Allied conduct with regard to the Nazi genocide. In the
+      background of the Gaza genocide is the extensive experience that countries in
+      the West have had of consolidating the ambitions of dominant racial elites by
+      any means unless there exists within or without some sufficient strategic interest
+      with the ability and will to stop them. A final thing aspect of this approach
+      to Gaza is to mention at least that after the Cold War, Islam became the next
+      enemy of the Global West. It is relevant to take note of the striking fact that
+      all the countries that were complicit with Israel’s genocidal behavior are from
+      the white West and all the countries and movements that support the Palestinian
+      struggle come from the Global South or from governments or movements originating
+      in Islamic neighbors of Palestine. In other words after the end of the Cold War,
+      there emerged in the faultlines of the Middle East an inter-civilization struggle
+      for land, energy reserves, trade routes, and hegemonic status. Q>So we shouldn’t
+      wait patiently for the international community to act.  International organizations
+      and geopolitical actors have never acted effectively to stop this or any previous
+      genocide. History tells us almost everything we need to know, or does it? The
+      organized international community has never been designed or empowered to stop
+      genocide. It has always in the past reacted after the fact. With digital communications
+      this could change but obstacles to fashioning effective responses remain.  If
+      enough agitation arises in civil society it might effectively bring pressure on
+      some governments to change their policies so as to support an anti-genocide protective
+      intervention under international auspices, and act to provide an implementing
+      capability. This might require the coordinated imposition of sanctions with demands
+      for consent to deploy armed blue helmet protective forces. This happened in a
+      limited way regarding Apartheid South Africa which was strategically allied with
+      the UK and the US. But the internal politics of these two countries turned so
+      strongly against apartheid that these governments, despite their  conservative
+      governments under the leadership of Thacher and Reagan, complied with the wishes
+      of their citizens rather than pursued their strategic interests. The Israeli case
+      is different as Zionist lobbies, especially AIPAC,  continue to be effective in
+      asserting leverage over US policy toward Israel. Q> Is it possible for the completely
+      different Gaza plan to what Trump proposed in his promotional video- Gaza riviera
+      – on social media to come true? A plan where Gaza is fully emptied, and Palestinians
+      leave their land… We’re living at a time of radical uncertainty so that what seems
+      impossible may become actualized in ways that it’s currently difficult to anticipate.
+      The crystal ball used to predict the future is even foggier than usual. We are
+      destined to live in an atmosphere of ambient uncertainty with respect to future
+      developments, but this does not relieve us from responsibility to struggle for
+      what we believe is right and just. Precisely because a benign future is not foreclosed,
+      as engaged citizens dedicated to a humane future our responsibility to act on
+      behalf of justice is an imperative of moral conscience. Reinforcing this general
+      idea of political responsibility are concrete factors.Trump is sufficiently narcissistic,
+      unpredictable, and impressionable that he could launch a major campaign to prove
+      that this vision of a Middle East Riviera comes at least partially into being.
+      It now seems unlikely because it’s not wanted by any of the relevant actors and
+      it seems reminiscent of the the imperial side of the colonial era. Such a proposal
+      poses an awkward question for advocates: ‘by what possible right has the U.S.
+      to take over a territory with which it has not had any relevant historical connection
+      or prior reasonable claim. Trump has made similar bizarre threats about American
+      ambitions to exert sovereignty over Greenland, Canada, Panama, and undoubtedly
+      others will be added to this notorious list. Q>Netanyahu thinks he’s winning.
+      Is he really winning, Israel is really winning? No. Without doubt Israel prevails
+      on the battlefield they have no opposition, they kill lots of people, they destroy
+      lots of structures, disrupting the life and heritage of Gaza in a totalizing manner.
+      At the same time, they basically lost what the onslaught set out to achieve beyond
+      the devastation of Gaza. Recourse by Israel to this level of violence was supposed
+      to exterminate Hamas, yet after two years of horrifying violence Israel finds
+      itself with no choice but to negotiate with Hamas and to reach a deal to achieve
+      a ceasefire and hostage exchange. In the background, of course, is Israel’s insistence
+      on excluding Hamas from any governance role in Hamas, an extreme case of rewarding
+      the main wrongdoer and further punishing the devastated victim. Beyond this, there
+      are all sorts of civil society and even governmental pushbacks by former supporters,
+      including a flurry of recognitions of Palestinian statehood. Even Israeli tourists
+      are subject to angry protest. They have recently been denied the right to get
+      off tourist ship in the harbors of Greek islands. More and more Israeli applicants
+      are denied visas in an increasing number of places. IDF soldiers are facing threats
+      of criminal prosecutions in several countries that have universal jurisdiction.
+      The whole legitimacy of a Zionist Israel is very much in doubt and its legitimacy
+      challenged at this point. There are moves afoot to suspend Israel participation
+      in UN activities or even to expel Israel from the UN. Several prominent Israelis
+      are beginning to talk in a very strong way at least domestically against Netanyahu
+      not only because of the failure to obtain the release of the remaining hostages
+      but for broader issues of behavior that has ruined the reputation the whole idea
+      of a a Jewish democratic state. This Gaza genocide is the worst thing that has
+      befallen diaspora Jews since Hitler. It brings authentic antisemitism rather than
+      the fake weaponized antisemitism that is relied upon by the Zionist networks around
+      the world to discredit Israel’s critics including of Jews such as myself. I was
+      somewhat victimized this fake version of antisemitism while serving as UN Special
+      Rapporteur for Occupied Palestine, but not in the serious way Francesca Albanese
+      has been. However ethically inappropriate, it is the tactic Israel devised to
+      divert attention from critical messages of unlawful behavior to the fake antisemitism
+      attributed to the messenger to undermine his or her credibility. Israel earlier
+      in its answered substantive criticisms but it became so obvious that it was violating
+      the rights of the occupied Palestinian people in numerous ways that it began adjusting
+      its approach. Although reckless and disreputable the tactic was quite effective
+      as a diversionary tactic. Fortunately, its overuse has weakened these fake accusations,
+      and made the practice understood to be defamatory in unacceptable ways, especially
+      in international arenas. Q>How will history record the world’s silence and it’s
+      allowing all this to happen? Of course, much will depend on the eventual political
+      outcome that remains unclear, especially whether what emerges from such a genocidal
+      assault on the population of Gaza leads to ‘Greater Israel’ and realizes Netanyahu’s
+      vision of ‘the new Middle East’ or whether Israel faces such pressures on its
+      economic viability and political legitimacy that it renounces the apartheid features
+      of Zionism, and moves finally towards a genuine accommodation with Palestine that
+      acknowledges the Palestinian right of self-determination. The unexpected transformation
+      of racist South Africa from an apartheid structure of governance to a constitutional
+      democracy is an instructive and hopeful precedent. It should also lead us to understand
+      that at this stage Israel has yet to win or Palestine to lose. The conflict and
+      struggle goes on even though future Palestinian prospects for a justice-driven
+      peace have never seemed bleaker. As earlier expressed, the ‘certainties’ of the
+      present are often transformed in unanticipated way as the realities of the future
+      unfold. If Israel prevails and manages to normalize its relations in the Middle
+      East and with the world and is again accepted as a legitimate sovereign state,
+      recollections derived from the events of the past two years may be airbrushed
+      to an extent that their gruesome realities become marginalized in the public imagination
+      as became the fate of native peoples in North America, Australia, and New Zealand.
+      I do not see this as happening, at least not in the near future, unless there
+      is an upheaval in Israel that drastically changes the outlook of Zionism or repudiates
+      Zionism altogether, and I do not see this happening, although it remains a less
+      remote possibility than it did two years ago. Evaluating the future perception
+      of this post October 7 experience is also difficult currently. Israel’s leadership
+      was warned by various friendly governments of an impending Hamas attack, yet appears
+      to have chosen to let it happen so as to have a pretext for a violent response.
+      In fact, Israel instantly over-reacted without taking any account of the context
+      or its complacency about border security. We should remind ourselves that the
+      context included a harsh blockade of Gaza since 2007 that induced widespread misery,
+      periodic Israeli military incursions causing devastation, and a refusal even to
+      respond to Hamas diplomatic initiatives for a long-term ceasefire lasting up to
+      50 years. The Zionist Project made political use of the October 7 attack to launch
+      its endgame based on territorial expansion at the expense of the Palestinian occupied
+      territories and adjustments by way defusing the so-called ‘demographic bomb’ set
+      to explode at some point due to higher Palestinian than Jewish fertility rates.
+      The solution was to be found by way of ethnic cleansing which meant coercing the
+      departure of as many Palestinians as possible. In effect, carrying out the last
+      stage of any durable settler colonial project by Israel presupposes provoking
+      a second Nakba of mass expulsion on the long suppressed Palestinian nation that
+      despite all has remained resilient and resistant. If Israel succeeds, as now seems
+      likely, it will not bring peace but lead to new forms of Palestinian resistance.
+      This will be viewed as the greatest failure of modern times to bring an end the
+      colonial era in a civilized manner. It will be objectively seen as one of the
+      cruelest abuses in history, made worse by the material and psychological support
+      given to Israel’s prolonged genocide by the Western liberal democracies that had
+      so proudly championed the development of human rights and genocide-prevention
+      after World War II. It will be looked back upon from many perspectives, including
+      as a sequel to the Cold War in which Israel safeguarded the Middle East for Western
+      exploitation and continuing encroachment, as well as containing the spread of
+      the kind of radical Islam favored by Iran. In the process the West sacrificed
+      commitments to international law and global justice for the sake of geopolitical
+      priorities and Western racial cohesion. It also exhibited unabashed moral hypocrisy
+      by invoking international criminal law to bash Russia for its border-crossing
+      attack on Ukraine while shielding Israel from compliance with the rulings of the
+      most respected international tribunal. In this process international law was doubly
+      damaged first by backing Israel’s Gaza campaign and secondly by making clear that
+      international law was to be taken seriously only as a policy and propaganda instrument
+      to be reserved for use against adversaries and rivals, but to be evaded in the
+      event of unlawfulness by friends and allies. Q<Could you please tell us about
+      the Gaza Tribunal that you’re the president? Who launched it? Who are the members?
+      And what is your aim? To respond adequately, would require a long response. I
+      will be brief and encourage those interested to read ‘The Sarajevo Declaration
+      of the Gaza Tribunal’ for a more detailed account of the perspective of our effort.
+      https://chng.it/nf5gKSCmG8 [See text of Declaration, attached] A group of sponsors,
+      affiliated with the Islamic Cooperative Youth Forum (ICYF), a civil society organization
+      affiliated with the Conference of Islamic Cooperation and possessing UN credentials,
+      approached Hilal Elver and myself to accept this role of organizing a civil society
+      tribunal devoted to documenting and increasing pressure on Israel and its supporters
+      to stop the genocide, and possessed the funding needed to make it happen. We on
+      our part insisted on political independence and full respect for our identity
+      in the shaping of the work of the GT, which emphasized our resolve to operate
+      as a civil society initiative that had no connections with governments or with
+      active politicians and diplomats. GT is administered by a Steering Committee,
+      and its members include Palestinian NGO representatives, public intellectuals
+      and civil society activists, former UN Special Rapporteurs and former UN officials,
+      and retired diplomats. We believed such an initiative justified as neither the
+      UN nor states acting individually or collectively were able to end the genocide
+      or impose sanctions on Israel. Our standpoint was informed by the failure of Israel
+      to comply with international law or the ruling of both the International Court
+      of Justice and the International Criminal Court, as supplemented by the failure
+      of the UN to close the enforcement and accountability gaps, principally due to
+      the right of veto possessed by Israel’s leading supporters in the Security Council.
+      The undertaking of the GT is to expose three gaps in a workable system of global
+      governance: enforcement of law, accountability of perpetrators and complicit actors,
+      and the refusal of states and their institutions to heed the global public interests
+      and adapt national interests as needed. GT also aims to establish a documentary
+      record of the genocide free from media manipulation and self-censorship in the
+      format of an archival record that will be published in due course. The purpose
+      to the extent possible is to insulate public discourse from state propaganda and
+      special interests, particularly in the domain of the arms industry. The overriding
+      immediate goal of GT is to legitimize civil society activism in the face of continuing
+      Israeli criminality and the humanitarian emergency threatening the future of Palestinians
+      in Gaza, and more recently in the West Bank. Such a goal also involves opposition
+      to efforts to suppress peaceful protest activity and punish critics of Israel
+      as has been happening in North America and many European countries. To be clear
+      this is a peoples tribunal, not a conventional court of law. This will be evident
+      in the final session of the GT in Istanbul (Oct 23-26, 2025) by the centrality
+      of a Jury of Conscience, charged with arriving at a final verdict and preparing
+      a written judgment. This framing signals an emphasis on justice rather than on
+      the more technical approaches to law applied by governmental and inter-governmental
+      courts. Ironically, the GT by encouraging people to act both to exert pressure
+      on governments and by participating in solidarity initiatives has more enforcement
+      capabilities than do traditional capabilities in this kind of situation.'
+    one_sentence_summary: In an interview, Richard Falk emphasizes the need for international
+      pressure, particularly from the US and EU, to withdraw support for Israel's occupation
+      policies in Gaza and the West Bank, advocating for collective sanctions to address
+      the ongoing humanitarian crisis.
+    paragraph_summary: In an interview with Turkish journalist Semin Gumusel, Professor
+      Richard Falk discusses the urgent need for international action to address Israel's
+      ongoing occupation and violence in Gaza, particularly in light of the humanitarian
+      crisis facing the Palestinian population. He emphasizes the importance of persuading
+      the U.S. and European governments to withdraw their support for Israel and to
+      implement collective sanctions through the UN or a coalition of nations. Falk
+      notes a shift in public sentiment, with increasing outrage over Israel's tactics,
+      including the deliberate starvation of civilians and the destruction of cultural
+      heritage, which he describes as unprecedented in human history. He calls for a
+      concerted effort to alleviate the famine threatening many Palestinians and to
+      hold Israel accountable for its actions.
+    published: '2025-08-27T16:09:10+00:00'
   - title: The Assassination of Palestinian Journalists
     url: https://richardfalk.org/2025/08/19/the-assassination-of-palestinian-journalists/
     text: 'Articles CP+ Subscribe Donate Books Login Podcasts Merch Archives ☰ Facebook

@@ -7,16 +7,1440 @@ description: "Former CIA analyst & State Dept counterterrorism official; runs So
 websites:
   - https://sonar21.com
 summary: |
-  As the Ukraine conflict grinds on into late August 2025, the strategic balance continues to shift, with mounting evidence that Russia’s military and economic position is strengthening relative to both Ukraine and NATO. The latest analysis from **Larry C. Johnson** underscores several key developments shaping the geopolitical landscape.
+  The global geopolitical landscape remains volatile as trade, military alliances, and shifting power centers continue to reshape international relations. Recent developments highlight persistent tensions in U.S. trade policy, the evolving Russia-China partnership, and the ongoing economic contest between NATO and BRICS.
   
-  The most recent reporting highlights the severe degradation of Ukraine’s military capabilities following Russia’s Special Military Operation. According to **Johnson**, “NATO’s limitations in supplying military resources have been laid bare,” with Western stockpiles depleted and resupply efforts lagging. Russian weaponry has proven not only resilient but, in many cases, superior on the battlefield, further eroding Ukraine’s ability to resist. This assessment aligns with the majority view among independent analysts, who note that Ukraine’s prospects for regaining lost territory are now minimal.
+  The most recent analysis by **Larry C. Johnson** sharply critiques Donald Trump’s ongoing tariff war, describing it as “one of the most damaging actions of his presidency.” Johnson points out that despite Trump’s claims, tariffs have failed to reduce the U.S. trade deficit or weaken top exporters like China, Mexico, and Canada. Instead, the policy has complicated U.S. trade relationships and, according to Johnson, “empowered BRICS rather than undermining them.” There is high confidence that these tariffs will continue to backfire, strengthening economic ties among BRICS members and pushing countries like India and China closer together.
   
-  On the economic front, the divide between NATO countries and the BRICS bloc is widening. **Johnson** points out that, “NATO also is losing the economic war with BRICS,” as Western economies struggle with inflation, energy shortages, and political discord, while BRICS nations—led by Russia, China, and India—capitalize on new trade arrangements and resource flows. This trend is expected to persist, with high confidence that BRICS will continue to gain economic leverage over the West in the coming months.
+  On the U.S.-India front, Johnson challenges Trump’s assertion of a heavily unbalanced trade relationship, noting that while the U.S. is India’s largest export destination, the trade is “more balanced than he suggests.” Bilateral trade reached approximately $131.84 billion for 2024-2025, reflecting mutual dependence rather than one-sided benefit. Johnson’s analysis suggests that India’s response to U.S. tariffs is likely to remain measured, balancing diplomatic caution with domestic pressures for retaliation. There is a high chance that India will avoid direct confrontation but will continue to seek alternative partnerships within BRICS and the Shanghai Cooperation Organization (SCO).
   
-  Meanwhile, diplomatic efforts remain stalled. European leaders are reportedly pushing for a new “Minsk III” agreement, but as previously noted, both Moscow and Washington appear skeptical of any settlement that does not address Russia’s core security concerns. The majority opinion, as reflected in **Johnson’s** recent interviews, is that peace talks are unlikely to yield results without significant concessions from Kyiv and its Western backers.
+  Meanwhile, the broader context of a “new world order” is becoming more pronounced. Johnson observes that Western leaders are mistaken in believing Russia can be easily pried away from China. The growing significance of the SCO and the deepening Russia-China alliance signal a realignment that is “most definitely” here to stay. This trend is reinforced by the perceived failure of Western economic and military strategies against Russia and BRICS, as highlighted in previous reports.
   
-  Looking ahead, the prevailing trend is one of continued Russian military and economic ascendancy, with NATO facing internal divisions and resource constraints. Based on the current trajectory, there is high confidence that Russia will consolidate its gains in Ukraine and that BRICS will further erode Western economic dominance. As **Johnson** concludes, “I guarantee that the West’s current strategy is unsustainable, and a major realignment is most definitely underway.”
+  In summary, the latest developments point to a continued weakening of U.S. influence over global trade and alliances, a strengthening of BRICS cohesion, and a durable Russia-China partnership. The majority view among analysts is that these trends will persist, with high confidence that the current trajectory will further erode Western leverage in both economic and geopolitical arenas.
 articles:
+  - title: Why Donald Trump’s Tariff War is Not Working
+    url: https://sonar21.com/why-donald-trumps-tariff-war-is-not-working/
+    text: 'When the history of the Donald Trump presidency is written, his ill-advised
+      scheme to tariff the world will be seen as one of the most self-destructive acts
+      by a president in the history of the United States. Following up on my article
+      from yesterday, which dealt with why the tariffs on India backfired, I realized
+      that I had no clue about the exact nature of US trade and that of the BRICS countries.
+      So I turned to GROK and Perplexity AI for answers. Not only will this exercise
+      inform you about US trade, but you will also see that these AI engines come up
+      with different answers. So let’s dive in. Based on the most recent available data
+      for 2024, the top ten countries exporting to the United States, ranked by import
+      value for trade in goods, are as follows: Mexico : USD 505.85 billion China :
+      USD 427.2 billion Canada : USD 421.1 billion Germany : USD 157.1 billion Japan
+      : USD 142.2 billion Vietnam : USD 117.6 billion South Korea : USD 115.1 billion
+      Taiwan : USD 102.3 billion India : USD 85.7 billion Italy : USD 73.7 billion According
+      to GROK , the total dollar value of exports to the US from the top ten countries
+      (Mexico, China, Canada, Germany, Japan, Vietnam, South Korea, Taiwan, India, Italy)
+      in 2024 is approximately USD 2,147.85 billion, representing 64.1% of the total
+      US goods imports (USD 3.35 trillion). For further details, refer to the US Census
+      Bureau’s trade statistics at https://www.census.gov/foreign-trade/statistics/country/index.html.
+      Okay, what does Perplexity say? The top ten countries exporting to the US in 2024,
+      ranked by dollar value, were: 1. Mexico: $509.98 billion (15.2%) 2. China: $462.63
+      billion (13.8%) 3. Canada: $422.17 billion (12.6%) 4. Germany: $163.54 billion
+      (4.9%) 5. Japan: $152.06 billion (4.5%) 6. Vietnam: $142.47 billion (4.2%) 7.
+      South Korea: $135.46 billion (4%) 8. Taiwan: $118.73 billion (3.5%) 9. Ireland:
+      $103.75 billion (3.1%) 10. India: $91.23 billion (2.7%) Only one area of disagreement
+      with respect to the top ten countries… Perplexity likes Ireland, while Grok prefers
+      Italy. But that is not the only discrepancy. According to Perplexity , the top
+      10 exporters to the US accounted for 68.5% of total US import value in 2024.  Hell,
+      they can’t even agree on the total value, expressed in dollars, for the top ten:
+      GROK pegs it at $2.1 trillion, while Perplexity insists it is $2.3 trillion. What
+      is $200 billion dollars among friends? Apart from showing that the artificial
+      intelligence machines are not necessarily intelligent, we can see that only ten
+      countries account for more than 64% of total US trade. Did you notice that Brazil,
+      Russia and South Africa did not make the top ten? And that India only accounts
+      for 4% of the export trade from the top ten countries. When you look at total
+      US exports and imports, according to Perplexity , the United States exports are
+      11% of GDP, while imports represent 14% of GDP. That, boys and girls, is the trade
+      deficit. Only three countries on the top ten list are BRICS countries: China,
+      Vietnam and India. If you add up the numbers, US trade with those three BRICS
+      countries represents 30% of the total… Not a huge amount. Now let’s look at the
+      top ten countries receiving US export. For 2024, the dollar amounts of US exports
+      to the top ten countries and their share of total US exports are: The top ten
+      countries accounted for $1,312 billion (63.7%) of the US total exports of $2,064
+      billion in 2024. Vietnam and India do not appear. The only two BRICS countries
+      on this list are China and Brazil, which account for 9.4% of all US exports. Thus,
+      we can see that BRICS does not have substantial trade ties with the US. So let’s
+      look at the top ten trading partners of each of the founding members of BRICS
+      for 2024: China’s top ten trading partners for exports in 2024 were: 1. United
+      States: $524.9 billion 2. Hong Kong: $291.4 billion 3. Vietnam: $161.8 billion
+      4. Japan: $152.0 billion 5. South Korea: $146.4 billion 6. India: $120.5 billion
+      7. Russia: $115.5 billion 8. Germany: $107.0 billion 9. Malaysia: $101.2 billion
+      10. Netherlands: $91.1 billion Russia’s top ten trading partners in terms of exports
+      in 2024 were approximately: 1. China – $128 billion (21.1% of total exports) 2.
+      Netherlands – $42.1 billion (8.3%) 3. Germany – $29.6 billion (5.7%) 4. Turkey
+      – $26.4 billion (5.2%) 5. Belarus – $23.1 billion (5.2%) 6. Italy – $25.1 billion
+      (3.6%) 7. South Korea – $13 billion (3.4%) 8. Japan – $12 billion (3.3%) 9. Kazakhstan
+      – $11.6 billion (3.1%) 10. United States – $15.4 billion (2.7%) Are you as surprised
+      as me to see three European countries and the United States on this list? Despite
+      sanctions, it seems there are products and resources those NATO countries still
+      need. India’s top ten trading partners in terms of exports for 2024 were: 1. United
+      States – 17.90% of exports 2. United Arab Emirates – 8.23% 3. Netherlands – 5.16%
+      4. China – 3.85% 5. Singapore – 3.33% 6. United Kingdom – 3.00% 7. Saudi Arabia
+      – 2.67% 8. Bangladesh – 2.55% 9. Germany – 2.27% 10. Italy – 2.02% Brazil’s top
+      ten trading partners in terms of exports in 2024 and their percentage share of
+      Brazil’s total exports were: 1. China – $94.4 billion (28.0%) 2. United States
+      – $40.6 billion (12.0%) 3. Argentina – $13.8 billion (4.1%) 4. Netherlands – $11.8
+      billion (3.5%) 5. Spain – $9.9 billion (2.9%) 6. Singapore – $7.9 billion (2.3%)
+      7. Mexico – $7.8 billion (2.3%) 8. Chile – $6.7 billion (2.0%) 9. Canada – $6.3
+      billion (1.9%) 10. Germany – $5.9 billion (1.7%) These ten countries accounted
+      for about 66.7% of Brazil’s total exports in 2024, with Brazil’s total exports
+      valued at approximately $337 billion. South Africa’s top ten trading partners
+      in terms of exports in 2024 and their percentage share of South Africa’s total
+      exports (valued at about $110.5 billion) were: 1. China – $12.4 billion (12.3%)
+      2. United States – $8.2 billion (8.3%) 3. Germany – $7.3 billion (7.7%) 4. Mozambique
+      – $6.6 billion (6.1%) 5. United Kingdom – $5.3 billion (5.7%) 6. Japan – $4.9
+      billion (5.2%) 7. India – $4.7 billion (5.0%) 8. Botswana – $4.33 billion (4.2%)
+      9. Netherlands – $4.27 billion (4.1%) 10. Namibia – $3.9 billion (3.7%) These
+      ten countries accounted for roughly 61.3% of South Africa’s total exports in 2024
+      Take note that Germany and the Netherlands are the only countries in the world
+      that trade with all five BRICS founders. Imposing tariffs on the BRICS nations
+      is likely to cause more economic problems for Germany, whose current economic
+      growth number for 2025 is projected to be approximately 0.3% according to recent
+      data from Trading Economics and economic forecasts by the Ifo Institute and Bundesbank
+      . The Netherlands is not much better — the Netherlands’ economic growth forecast
+      for 2025 is around 1.2% to 1.3% according to multiple sources including the European
+      Commission, Dutch policy analysts, and economic institutes. Here is the important
+      point: China is the only member of BRICS with significant and substantial trade
+      relations with the US and Donald Trump, despite multiple threats, is pulling back
+      from imposing punishing sanctions on China. There are simply too many critical
+      products that the US needs from China. Hitting China hard carries a significant
+      risk of economic blowback on the US economy. As I noted in a recent article, we
+      are witnessing the dawn of a new international financial order. The days of the
+      US hegemon dictating what other countries can do is over. This article from the
+      Financial Times highlights a critical new development: Developing countries are
+      moving out of dollar debts and turning to currencies with rock bottom interest
+      rates such as the Chinese renminbi and Swiss franc. . . . “The high level of interest
+      rates and a steep US Treasury yield curve . . . has made USD financing more onerous
+      for [developing] countries, even with relatively low spreads on emerging market
+      debt,” said Armando Armenta, vice-president for global economic research at Alliance
+      Bernstein. “As a result, they are seeking more cost-effective options.”. . . By
+      borrowing in currencies such as the renminbi and the Swiss franc, countries can
+      access debt at much lower interest rates than those offered by dollar bonds. .
+      . . Companies in emerging markets are also selling more bonds in euros this year,
+      with the amount of this debt in issue rising to a record $239bn as of July, according
+      to JPMorgan. The overall stock of emerging market corporate bonds in dollars totals
+      about $2.5tn. The era of the US dollar as the reserve currency is ending… it appears
+      to be moving more rapidly than many financial experts anticipated. We are witnessing
+      the birth of a new economic and political world, one that will bring India, Russia
+      and China into more prominent roles. And there is nothing the US can do to stop
+      this, short of starting a nuclear war and ending civilization. Judge Napolitano
+      celebrated Labor Day , so we did the Monday episode today: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article critiques Donald Trump's tariff policies as one
+      of the most damaging actions of his presidency and explores the complexities of
+      U.S. trade, revealing differing insights from AI tools about trade relationships
+      with various countries, particularly highlighting the top exporters to the U.S.
+      in 2024.
+    paragraph_summary: The article critiques Donald Trump's tariff policies as one of
+      the most damaging actions of his presidency, particularly highlighting their negative
+      impact on U.S. trade. It explores the complexities of U.S. trade relationships
+      with various countries, specifically focusing on the BRICS nations. Utilizing
+      AI tools like GROK and Perplexity AI, the author examines the top ten countries
+      exporting to the U.S. in 2024, noting discrepancies in the data provided by the
+      two AI platforms. GROK lists Mexico, China, and Canada as the top three exporters,
+      while Perplexity presents slightly different figures and rankings, including Ireland
+      in the top ten. The total value of goods imported from these countries is significant,
+      comprising over 64% of U.S. goods imports, underscoring the importance of understanding
+      trade dynamics. For detailed statistics, the article references the U.S. Census
+      Bureau's trade data.
+    published: '2025-09-03T01:50:05+00:00'
+  - title: Why Donald Trump’s Tariff War is Not Working
+    url: https://sonar21.com/why-donald-trumps-tariff-war-is-not-working/
+    text: 'When the history of the Donald Trump presidency is written, his ill-advised
+      scheme to tariff the world will be seen as one of the most self-destructive acts
+      by a president in the history of the United States. Following up on my article
+      from yesterday, which dealt with why the tariffs on India backfired, I realized
+      that I had no clue about the exact nature of US trade and that of the BRICS countries.
+      So I turned to GROK and Perplexity AI for answers. Not only will this exercise
+      inform you about US trade, but you will also see that these AI engines come up
+      with different answers. So let’s dive in. Based on the most recent available data
+      for 2024, the top ten countries exporting to the United States, ranked by import
+      value for trade in goods, are as follows: Mexico : USD 505.85 billion China :
+      USD 427.2 billion Canada : USD 421.1 billion Germany : USD 157.1 billion Japan
+      : USD 142.2 billion Vietnam : USD 117.6 billion South Korea : USD 115.1 billion
+      Taiwan : USD 102.3 billion India : USD 85.7 billion Italy : USD 73.7 billion According
+      to GROK , the total dollar value of exports to the US from the top ten countries
+      (Mexico, China, Canada, Germany, Japan, Vietnam, South Korea, Taiwan, India, Italy)
+      in 2024 is approximately USD 2,147.85 billion, representing 64.1% of the total
+      US goods imports (USD 3.35 trillion). For further details, refer to the US Census
+      Bureau’s trade statistics at https://www.census.gov/foreign-trade/statistics/country/index.html.
+      Okay, what does Perplexity say? The top ten countries exporting to the US in 2024,
+      ranked by dollar value, were: 1. Mexico: $509.98 billion (15.2%) 2. China: $462.63
+      billion (13.8%) 3. Canada: $422.17 billion (12.6%) 4. Germany: $163.54 billion
+      (4.9%) 5. Japan: $152.06 billion (4.5%) 6. Vietnam: $142.47 billion (4.2%) 7.
+      South Korea: $135.46 billion (4%) 8. Taiwan: $118.73 billion (3.5%) 9. Ireland:
+      $103.75 billion (3.1%) 10. India: $91.23 billion (2.7%) Only one area of disagreement
+      with respect to the top ten countries… Perplexity likes Ireland, while Grok prefers
+      Italy. But that is not the only discrepancy. According to Perplexity , the top
+      10 exporters to the US accounted for 68.5% of total US import value in 2024.  Hell,
+      they can’t even agree on the total value, expressed in dollars, for the top ten:
+      GROK pegs it at $2.1 trillion, while Perplexity insists it is $2.3 trillion. What
+      is $200 billion dollars among friends? Apart from showing that the artificial
+      intelligence machines are not necessarily intelligent, we can see that only ten
+      countries account for more than 64% of total US trade. Did you notice that Brazil,
+      Russia and South Africa did not make the top ten? And that India only accounts
+      for 4% of the export trade from the top ten countries. When you look at total
+      US exports and imports, according to Perplexity , the United States exports are
+      11% of GDP, while imports represent 14% of GDP. That, boys and girls, is the trade
+      deficit. Only three countries on the top ten list are BRICS countries: China,
+      Vietnam and India. If you add up the numbers, US trade with those three BRICS
+      countries represents 30% of the total… Not a huge amount. Now let’s look at the
+      top ten countries receiving US export. For 2024, the dollar amounts of US exports
+      to the top ten countries and their share of total US exports are: The top ten
+      countries accounted for $1,312 billion (63.7%) of the US total exports of $2,064
+      billion in 2024. Vietnam and India do not appear. The only two BRICS countries
+      on this list are China and Brazil, which account for 9.4% of all US exports. Thus,
+      we can see that BRICS does not have substantial trade ties with the US. So let’s
+      look at the top ten trading partners of each of the founding members of BRICS
+      for 2024: China’s top ten trading partners for exports in 2024 were: 1. United
+      States: $524.9 billion 2. Hong Kong: $291.4 billion 3. Vietnam: $161.8 billion
+      4. Japan: $152.0 billion 5. South Korea: $146.4 billion 6. India: $120.5 billion
+      7. Russia: $115.5 billion 8. Germany: $107.0 billion 9. Malaysia: $101.2 billion
+      10. Netherlands: $91.1 billion Russia’s top ten trading partners in terms of exports
+      in 2024 were approximately: 1. China – $128 billion (21.1% of total exports) 2.
+      Netherlands – $42.1 billion (8.3%) 3. Germany – $29.6 billion (5.7%) 4. Turkey
+      – $26.4 billion (5.2%) 5. Belarus – $23.1 billion (5.2%) 6. Italy – $25.1 billion
+      (3.6%) 7. South Korea – $13 billion (3.4%) 8. Japan – $12 billion (3.3%) 9. Kazakhstan
+      – $11.6 billion (3.1%) 10. United States – $15.4 billion (2.7%) Are you as surprised
+      as me to see three European countries and the United States on this list? Despite
+      sanctions, it seems there are products and resources those NATO countries still
+      need. India’s top ten trading partners in terms of exports for 2024 were: 1. United
+      States – 17.90% of exports 2. United Arab Emirates – 8.23% 3. Netherlands – 5.16%
+      4. China – 3.85% 5. Singapore – 3.33% 6. United Kingdom – 3.00% 7. Saudi Arabia
+      – 2.67% 8. Bangladesh – 2.55% 9. Germany – 2.27% 10. Italy – 2.02% Brazil’s top
+      ten trading partners in terms of exports in 2024 and their percentage share of
+      Brazil’s total exports were: 1. China – $94.4 billion (28.0%) 2. United States
+      – $40.6 billion (12.0%) 3. Argentina – $13.8 billion (4.1%) 4. Netherlands – $11.8
+      billion (3.5%) 5. Spain – $9.9 billion (2.9%) 6. Singapore – $7.9 billion (2.3%)
+      7. Mexico – $7.8 billion (2.3%) 8. Chile – $6.7 billion (2.0%) 9. Canada – $6.3
+      billion (1.9%) 10. Germany – $5.9 billion (1.7%) These ten countries accounted
+      for about 66.7% of Brazil’s total exports in 2024, with Brazil’s total exports
+      valued at approximately $337 billion. South Africa’s top ten trading partners
+      in terms of exports in 2024 and their percentage share of South Africa’s total
+      exports (valued at about $110.5 billion) were: 1. China – $12.4 billion (12.3%)
+      2. United States – $8.2 billion (8.3%) 3. Germany – $7.3 billion (7.7%) 4. Mozambique
+      – $6.6 billion (6.1%) 5. United Kingdom – $5.3 billion (5.7%) 6. Japan – $4.9
+      billion (5.2%) 7. India – $4.7 billion (5.0%) 8. Botswana – $4.33 billion (4.2%)
+      9. Netherlands – $4.27 billion (4.1%) 10. Namibia – $3.9 billion (3.7%) These
+      ten countries accounted for roughly 61.3% of South Africa’s total exports in 2024
+      Take note that Germany and the Netherlands are the only countries in the world
+      that trade with all five BRICS founders. Imposing tariffs on the BRICS nations
+      is likely to cause more economic problems for Germany, whose current economic
+      growth number for 2025 is projected to be approximately 0.3% according to recent
+      data from Trading Economics and economic forecasts by the Ifo Institute and Bundesbank
+      . The Netherlands is not much better — the Netherlands’ economic growth forecast
+      for 2025 is around 1.2% to 1.3% according to multiple sources including the European
+      Commission, Dutch policy analysts, and economic institutes. Here is the important
+      point: China is the only member of BRICS with significant and substantial trade
+      relations with the US and Donald Trump, despite multiple threats, is pulling back
+      from imposing punishing sanctions on China. There are simply too many critical
+      products that the US needs from China. Hitting China hard carries a significant
+      risk of economic blowback on the US economy. As I noted in a recent article, we
+      are witnessing the dawn of a new international financial order. The days of the
+      US hegemon dictating what other countries can do is over. This article from the
+      Financial Times highlights a critical new development: Developing countries are
+      moving out of dollar debts and turning to currencies with rock bottom interest
+      rates such as the Chinese renminbi and Swiss franc. . . . “The high level of interest
+      rates and a steep US Treasury yield curve . . . has made USD financing more onerous
+      for [developing] countries, even with relatively low spreads on emerging market
+      debt,” said Armando Armenta, vice-president for global economic research at Alliance
+      Bernstein. “As a result, they are seeking more cost-effective options.”. . . By
+      borrowing in currencies such as the renminbi and the Swiss franc, countries can
+      access debt at much lower interest rates than those offered by dollar bonds. .
+      . . Companies in emerging markets are also selling more bonds in euros this year,
+      with the amount of this debt in issue rising to a record $239bn as of July, according
+      to JPMorgan. The overall stock of emerging market corporate bonds in dollars totals
+      about $2.5tn. The era of the US dollar as the reserve currency is ending… it appears
+      to be moving more rapidly than many financial experts anticipated. We are witnessing
+      the birth of a new economic and political world, one that will bring India, Russia
+      and China into more prominent roles. And there is nothing the US can do to stop
+      this, short of starting a nuclear war and ending civilization. Judge Napolitano
+      celebrated Labor Day , so we did the Monday episode today: I thank you for your
+      invaluable support by taking time to read or comment. I do not charge a subscription
+      fee nor do I accept advertising. I want the content to be accessible to everyone
+      interested in the issues I am discussing. However, if you wish to make a donation,
+      please see this link .'
+    one_sentence_summary: The article critiques Donald Trump's tariff policies as one
+      of the most damaging actions of his presidency and explores the complexities of
+      U.S. trade, revealing differing insights from AI tools about trade relationships
+      with various countries, particularly highlighting the top exporters to the U.S.
+      in 2024.
+    paragraph_summary: The article critiques Donald Trump's tariff policies as one of
+      the most damaging actions of his presidency, particularly highlighting their negative
+      impact on U.S. trade. It explores the complexities of U.S. trade relationships
+      with various countries, specifically focusing on the BRICS nations. Utilizing
+      AI tools like GROK and Perplexity AI, the author examines the top ten countries
+      exporting to the U.S. in 2024, noting discrepancies in the data provided by the
+      two AI platforms. GROK lists Mexico, China, and Canada as the top three exporters,
+      while Perplexity presents slightly different figures and rankings, including Ireland
+      in the top ten. The total value of goods imported from these countries is significant,
+      comprising over 64% of U.S. goods imports, underscoring the importance of understanding
+      trade dynamics. For detailed statistics, the article references the U.S. Census
+      Bureau's trade data.
+    published: '2025-09-03T01:50:05+00:00'
+  - title: Is Trump Ignorant or Are His Advisors Lying About the Importance of the US
+      Market to Indian Exporters?
+    url: https://sonar21.com/is-trump-ignorant-or-are-his-advisors-lying-about-the-importance-of-the-us-market-to-indian-exporters/
+    text: 'Donald Trump has repeatedly emphasized the importance of the US market for
+      Indian exporters by describing the US as India’s “biggest client” and stating
+      that India “ sells us massive amounts of goods ,” while the US exports relatively
+      little to India. In recent statements, Trump remarked, “ What few people understand
+      is that we do very little business with India, but they do a tremendous amount
+      of business with us. In other words, they sell us massive amounts of goods, their
+      biggest ‘client,’ but we sell them very little .” He called the trade relationship
+      a “one-sided disaster,” arguing that it has been heavily unbalanced in India’s
+      favor for decades. Really? Rather than accept Trump’s claim at face value, I decided
+      to do some research. Guess what? Trump is wrong! While it is true that the United
+      States is India’s largest export destination and trading partner, with bilateral
+      trade valued at USD 131.84 billion for 2024-2025, which means that US-bound exports
+      account for about 3% of India’s GDP. India’s nominal GDP is conservatively estimated
+      to be $4 trillion dollars. In other words, getting shut out of the US market ain’t
+      exactly a killer for the Indian economy. So how important is Russian oil to India’s
+      economy? Russia’s oil exports to India (USD 52.73 billion, ~1.3% of GDP in FY
+      2024-25) are highly important for fueling economic activity, supplying ~30–40%
+      of India’s crude oil imports and ~10–15% of total energy consumption. They directly
+      support: ~95% of transportation (enabling ~14% of GDP), ~30–40% of petrochemical
+      and fertilizer production (key for ~15% of industrial GDP), and diesel-dependent
+      agriculture (~14–16% of GDP). Indirectly, through refining and trade (e.g., USD
+      65 billion in petroleum exports), Russian oil is estimated to have a multiplier
+      effect on the Indian economy between ~2.6–5.3% of GDP. The USD 5.1–25 billion
+      in savings (~0.13–0.61% of GDP) means that the Indian government has more budgetary
+      room or flexibility (“fiscal space”) to spend money on public works, social programs,
+      or subsidies without harming its long-term financial stability or economic health
+      While there are some more expensive alternatives, Russian oil’s cost-effectiveness
+      and reliability make it a critical driver of India’s energy-intensive sectors
+      in 2024-25. To summarize: India’s exports to the US are notable, but not overwhelmingly
+      critical in macroeconomic terms, given their ~1.9% GDP share and India’s ability
+      to pivot to other markets. But Russian oil is significant for India’s economy.
+      The preceding statistics explain why India is not intimidated by Trump’s stupid
+      threats… India has more to lose by ending its purchase of Russian oil than it
+      does if it stops trading with the United States. Are you interested in knowing
+      which countries are the largest exporters to the US as percentage of their respective
+      GDPs? Take a look at these numbers: • Mexico: About 77% of all Mexican exports
+      go to the US, which is roughly 35% of Mexico’s total GDP . • Haiti: 84% of exports
+      go to the US, accounting for over 20% of Haiti’s GDP . • Canada: ~75% of exports
+      go to the US, comprising about 24% of Canada’s total GDP . • Bahamas: 49% of exports
+      are to the US, a substantial share of the Bahamian GDP. • Nicaragua: 52% of exports,
+      over 15% of GDP . • Saint Kitts and Nevis: 61% of exports, a significant fraction
+      of GDP. • El Salvador, Honduras, Guatemala, Dominican Republic, Jamaica, Trinidad
+      and Tobago, Costa Rica: All send 30–57% of their total exports to the US, representing
+      big percentages of their national GDPs. • Bangladesh, Sri Lanka, Israel, Jordan,
+      Belize, Fiji, Cambodia, Tonga: These nations also have notable dependency, with
+      the US market comprising 15–36% or more of their GDP through direct exports. Trump
+      definitely has leverage over Mexico and Canada. Shutting the US market to those
+      two is a potential death blow to their economies. But did you also notice who
+      is not on the list? The other BRICS founders — i.e., China, Brazil and South Africa.
+      Ditto for other BRICS members, such as Iran and Vietnam. The BRICS countries are
+      buying fewer dollars with each passing day as they settle their trade with their
+      respective currencies. In the past, if Brazil sold China coffee beans, China had
+      to buy US dollars on the international market and send those dollars to Brazil
+      — using SWIFT , for example. Not today. China pays Brazil in RMB and Brazil pays
+      China with Reals . This means there is less demand for US dollars, which means
+      the value of the US dollar is declining. Maybe this is why Putin, Modi and Xi
+      were laughing their asses off at their impromptu meeting before the start of the
+      Shanghai Cooperation Organization summit yesterday? They can’t believe that Trump
+      is this dumb. Here is my Monday chat with Nima: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Donald Trump has claimed that the trade relationship between
+      the US and India is heavily unbalanced in India's favor, but research shows that
+      while the US is India's largest export destination, the trade is more balanced
+      than he suggests, with bilateral trade valued at approximately USD 131.84 billion
+      for 2024-2025.
+    paragraph_summary: Donald Trump has characterized the trade relationship between
+      the US and India as heavily skewed in India's favor, claiming that the US does
+      little business with India while India exports massive amounts to the US. However,
+      research indicates that while the US is indeed India's largest export destination,
+      accounting for about 3% of India's GDP, the overall impact of losing access to
+      the US market would not be detrimental to the Indian economy. In contrast, Russian
+      oil plays a crucial role in India's economic activity, constituting approximately
+      1.3% of GDP and supplying a significant portion of India's energy needs. Russian
+      oil supports various sectors, including transportation and agriculture, and has
+      a multiplier effect on the economy, potentially enhancing GDP by up to 5.3%. Additionally,
+      savings from Russian oil imports provide the Indian government with increased
+      fiscal flexibility.
+    published: '2025-09-02T02:09:44+00:00'
+  - title: Is Trump Ignorant or Are His Advisors Lying About the Importance of the US
+      Market to Indian Exporters?
+    url: https://sonar21.com/is-trump-ignorant-or-are-his-advisors-lying-about-the-importance-of-the-us-market-to-indian-exporters/
+    text: 'Donald Trump has repeatedly emphasized the importance of the US market for
+      Indian exporters by describing the US as India’s “biggest client” and stating
+      that India “ sells us massive amounts of goods ,” while the US exports relatively
+      little to India. In recent statements, Trump remarked, “ What few people understand
+      is that we do very little business with India, but they do a tremendous amount
+      of business with us. In other words, they sell us massive amounts of goods, their
+      biggest ‘client,’ but we sell them very little .” He called the trade relationship
+      a “one-sided disaster,” arguing that it has been heavily unbalanced in India’s
+      favor for decades. Really? Rather than accept Trump’s claim at face value, I decided
+      to do some research. Guess what? Trump is wrong! While it is true that the United
+      States is India’s largest export destination and trading partner, with bilateral
+      trade valued at USD 131.84 billion for 2024-2025, which means that US-bound exports
+      account for about 3% of India’s GDP. India’s nominal GDP is conservatively estimated
+      to be $4 trillion dollars. In other words, getting shut out of the US market ain’t
+      exactly a killer for the Indian economy. So how important is Russian oil to India’s
+      economy? Russia’s oil exports to India (USD 52.73 billion, ~1.3% of GDP in FY
+      2024-25) are highly important for fueling economic activity, supplying ~30–40%
+      of India’s crude oil imports and ~10–15% of total energy consumption. They directly
+      support: ~95% of transportation (enabling ~14% of GDP), ~30–40% of petrochemical
+      and fertilizer production (key for ~15% of industrial GDP), and diesel-dependent
+      agriculture (~14–16% of GDP). Indirectly, through refining and trade (e.g., USD
+      65 billion in petroleum exports), Russian oil is estimated to have a multiplier
+      effect on the Indian economy between ~2.6–5.3% of GDP. The USD 5.1–25 billion
+      in savings (~0.13–0.61% of GDP) means that the Indian government has more budgetary
+      room or flexibility (“fiscal space”) to spend money on public works, social programs,
+      or subsidies without harming its long-term financial stability or economic health
+      While there are some more expensive alternatives, Russian oil’s cost-effectiveness
+      and reliability make it a critical driver of India’s energy-intensive sectors
+      in 2024-25. To summarize: India’s exports to the US are notable, but not overwhelmingly
+      critical in macroeconomic terms, given their ~1.9% GDP share and India’s ability
+      to pivot to other markets. But Russian oil is significant for India’s economy.
+      The preceding statistics explain why India is not intimidated by Trump’s stupid
+      threats… India has more to lose by ending its purchase of Russian oil than it
+      does if it stops trading with the United States. Are you interested in knowing
+      which countries are the largest exporters to the US as percentage of their respective
+      GDPs? Take a look at these numbers: • Mexico: About 77% of all Mexican exports
+      go to the US, which is roughly 35% of Mexico’s total GDP . • Haiti: 84% of exports
+      go to the US, accounting for over 20% of Haiti’s GDP . • Canada: ~75% of exports
+      go to the US, comprising about 24% of Canada’s total GDP . • Bahamas: 49% of exports
+      are to the US, a substantial share of the Bahamian GDP. • Nicaragua: 52% of exports,
+      over 15% of GDP . • Saint Kitts and Nevis: 61% of exports, a significant fraction
+      of GDP. • El Salvador, Honduras, Guatemala, Dominican Republic, Jamaica, Trinidad
+      and Tobago, Costa Rica: All send 30–57% of their total exports to the US, representing
+      big percentages of their national GDPs. • Bangladesh, Sri Lanka, Israel, Jordan,
+      Belize, Fiji, Cambodia, Tonga: These nations also have notable dependency, with
+      the US market comprising 15–36% or more of their GDP through direct exports. Trump
+      definitely has leverage over Mexico and Canada. Shutting the US market to those
+      two is a potential death blow to their economies. But did you also notice who
+      is not on the list? The other BRICS founders — i.e., China, Brazil and South Africa.
+      Ditto for other BRICS members, such as Iran and Vietnam. The BRICS countries are
+      buying fewer dollars with each passing day as they settle their trade with their
+      respective currencies. In the past, if Brazil sold China coffee beans, China had
+      to buy US dollars on the international market and send those dollars to Brazil
+      — using SWIFT , for example. Not today. China pays Brazil in RMB and Brazil pays
+      China with Reals . This means there is less demand for US dollars, which means
+      the value of the US dollar is declining. Maybe this is why Putin, Modi and Xi
+      were laughing their asses off at their impromptu meeting before the start of the
+      Shanghai Cooperation Organization summit yesterday? They can’t believe that Trump
+      is this dumb. Here is my Monday chat with Nima: I thank you for your invaluable
+      support by taking time to read or comment. I do not charge a subscription fee
+      nor do I accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Donald Trump has claimed that the trade relationship between
+      the US and India is heavily unbalanced in India's favor, but research shows that
+      while the US is India's largest export destination, the trade is more balanced
+      than he suggests, with bilateral trade valued at approximately USD 131.84 billion
+      for 2024-2025.
+    paragraph_summary: Donald Trump has characterized the trade relationship between
+      the US and India as heavily skewed in India's favor, claiming that the US does
+      little business with India while India exports massive amounts to the US. However,
+      research indicates that while the US is indeed India's largest export destination,
+      accounting for about 3% of India's GDP, the overall impact of losing access to
+      the US market would not be detrimental to the Indian economy. In contrast, Russian
+      oil plays a crucial role in India's economic activity, constituting approximately
+      1.3% of GDP and supplying a significant portion of India's energy needs. Russian
+      oil supports various sectors, including transportation and agriculture, and has
+      a multiplier effect on the economy, potentially enhancing GDP by up to 5.3%. Additionally,
+      savings from Russian oil imports provide the Indian government with increased
+      fiscal flexibility.
+    published: '2025-09-02T02:09:44+00:00'
+  - title: The Dawning of a New World Order
+    url: https://sonar21.com/the-dawning-of-a-new-world-order/
+    text: 'Many Western political leaders and pundits continue to indulge themselves
+      in the fantasy that the US is in control of its destiny and is an unbreakable
+      hegemon. You may accuse me of exaggerating, but I am shocked by the number of
+      seemingly sane, sober, well-educated Americans who continue to believe that the
+      relationship between Russia and China is ephemeral, and that with just the right
+      amount of pressure Russia will be easily persuaded to abandon China and join the
+      West in its plan to subdue the Chinese government and people. It is a bat shit
+      crazy notion in my opinion, but there are a large number of folks who embrace
+      this nonsense. As I am writing this piece, the Shanghai Cooperation Organization
+      (SCO) conference is underway and a new chapter in the history of international
+      politics is being written. The SCO has ten member states: China, India, Pakistan,
+      Russia, Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, Iran, and Belarus. Additionally,
+      it has two observer states, Afghanistan and Mongolia, along with several dialogue
+      partners. This year the attendees also include Armenia, Azerbaijan and Turkey.
+      I suspect those three were sent by their Western masters to spy on the event and
+      report back. Donald Trump’s foreign policy is turning into a serial production
+      of debacles. Case in point: India. The short-sighted decision to hit India with
+      25% tariffs, and an additional 25% penalty, has energized India’s political class
+      to distance themselves from the United States. A year ago, I could make a cogent
+      case that India was lukewarm about its relationship with BRICS , but that has
+      all changed. Prime Minister Modi, on behalf of his government, now assumes the
+      Presidency of BRICS, and is embracing the task of planning and hosting the 2026
+      BRICS summit in India. He will not submit to US threats or bullying. As part of
+      moving BRICS forward, India’s longstanding, contentious relationship with China
+      is in the process of being revamped, with India and China now behaving more as
+      friends than as enemies. The photo at the top of this article tells the story
+      about the new relationship, as does this early press report : “Always a delight
+      to meet President Putin,” Prime Minister Modi posted on X after his meeting with
+      the Russian leader ahead of the summit. In another post on X, Modi wrote: “Interactions
+      in Tianjin continue! Exchanging perspectives with President Putin and President
+      Xi during the SCO Summit.” China’s President Xi, in his opening remarks, made
+      it clear that the SCO is not just a pleasant social gathering for Asian leaders
+      and those leaders representing countries that were once part of the Soviet Union:
+      China will work with all parties in the Shanghai Cooperation Organisation to take
+      the regional security forum to a new level, Chinese President Xi Jinping said
+      on Monday, unveiling his ambition for a new global security order that poses a
+      challenge to the United States. The Shanghai Cooperation Organisation has set
+      a model for a new type of international relations, Xi said in opening remarks
+      addressing more than 20 world leaders at a two-day summit held in northern China’s
+      Tianjin, adding that the forum unequivocally opposed external interference. BRICS
+      , along with the SCO , is busy constructing an alternative to the post-WW II international
+      economic and political system that has dominated world affairs for the last 80
+      years. While many in the West foolishly dismiss these gatherings as meaningless,
+      Russia, China and India are quite serious about creating an economic, financial
+      and international political system that is no longer subject to a veto by the
+      United States or Europe. The fact that they represent the most dynamic and innovative
+      economies in the world today should be enough to entice the West to find a path
+      for cooperation with them. Nope! With Washington in the lead, and the Europeans
+      tagging along behind, the West is committed to a policy of confrontation and punishment.
+      The US-tariffs imposed on India are just the latest example. Randy Credico, a
+      comedian, political activist and friend, hosted me and Andrei Martyanov on his
+      weekly radio program, which broadcasts from New York City. Andrei and I discussed
+      the Great Patriotic War and its relevance to the current war in Ukraine: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Many Western leaders mistakenly believe that the U.S. can
+      easily manipulate Russia into abandoning its alliance with China, despite the
+      growing significance of the Shanghai Cooperation Organization (SCO) and the evolving
+      dynamics of international politics.
+    paragraph_summary: The article critiques the belief among some Western leaders and
+      commentators that the U.S. can easily manipulate global alliances, particularly
+      regarding Russia and China. It highlights the ongoing Shanghai Cooperation Organization
+      (SCO) conference, which includes key nations like China, India, and Russia, suggesting
+      that these countries are solidifying their ties rather than drifting apart. The
+      author expresses concern over U.S. foreign policy, particularly under Donald Trump,
+      noting that tariffs imposed on India have pushed it closer to BRICS and away from
+      U.S. influence. Prime Minister Modi's leadership in BRICS and the evolving relationship
+      between India and China signal a shift in global power dynamics that challenges
+      the notion of U.S. hegemony.
+    published: '2025-09-01T03:42:41+00:00'
+  - title: The Dawning of a New World Order
+    url: https://sonar21.com/the-dawning-of-a-new-world-order/
+    text: 'Many Western political leaders and pundits continue to indulge themselves
+      in the fantasy that the US is in control of its destiny and is an unbreakable
+      hegemon. You may accuse me of exaggerating, but I am shocked by the number of
+      seemingly sane, sober, well-educated Americans who continue to believe that the
+      relationship between Russia and China is ephemeral, and that with just the right
+      amount of pressure Russia will be easily persuaded to abandon China and join the
+      West in its plan to subdue the Chinese government and people. It is a bat shit
+      crazy notion in my opinion, but there are a large number of folks who embrace
+      this nonsense. As I am writing this piece, the Shanghai Cooperation Organization
+      (SCO) conference is underway and a new chapter in the history of international
+      politics is being written. The SCO has ten member states: China, India, Pakistan,
+      Russia, Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, Iran, and Belarus. Additionally,
+      it has two observer states, Afghanistan and Mongolia, along with several dialogue
+      partners. This year the attendees also include Armenia, Azerbaijan and Turkey.
+      I suspect those three were sent by their Western masters to spy on the event and
+      report back. Donald Trump’s foreign policy is turning into a serial production
+      of debacles. Case in point: India. The short-sighted decision to hit India with
+      25% tariffs, and an additional 25% penalty, has energized India’s political class
+      to distance themselves from the United States. A year ago, I could make a cogent
+      case that India was lukewarm about its relationship with BRICS , but that has
+      all changed. Prime Minister Modi, on behalf of his government, now assumes the
+      Presidency of BRICS, and is embracing the task of planning and hosting the 2026
+      BRICS summit in India. He will not submit to US threats or bullying. As part of
+      moving BRICS forward, India’s longstanding, contentious relationship with China
+      is in the process of being revamped, with India and China now behaving more as
+      friends than as enemies. The photo at the top of this article tells the story
+      about the new relationship, as does this early press report : “Always a delight
+      to meet President Putin,” Prime Minister Modi posted on X after his meeting with
+      the Russian leader ahead of the summit. In another post on X, Modi wrote: “Interactions
+      in Tianjin continue! Exchanging perspectives with President Putin and President
+      Xi during the SCO Summit.” China’s President Xi, in his opening remarks, made
+      it clear that the SCO is not just a pleasant social gathering for Asian leaders
+      and those leaders representing countries that were once part of the Soviet Union:
+      China will work with all parties in the Shanghai Cooperation Organisation to take
+      the regional security forum to a new level, Chinese President Xi Jinping said
+      on Monday, unveiling his ambition for a new global security order that poses a
+      challenge to the United States. The Shanghai Cooperation Organisation has set
+      a model for a new type of international relations, Xi said in opening remarks
+      addressing more than 20 world leaders at a two-day summit held in northern China’s
+      Tianjin, adding that the forum unequivocally opposed external interference. BRICS
+      , along with the SCO , is busy constructing an alternative to the post-WW II international
+      economic and political system that has dominated world affairs for the last 80
+      years. While many in the West foolishly dismiss these gatherings as meaningless,
+      Russia, China and India are quite serious about creating an economic, financial
+      and international political system that is no longer subject to a veto by the
+      United States or Europe. The fact that they represent the most dynamic and innovative
+      economies in the world today should be enough to entice the West to find a path
+      for cooperation with them. Nope! With Washington in the lead, and the Europeans
+      tagging along behind, the West is committed to a policy of confrontation and punishment.
+      The US-tariffs imposed on India are just the latest example. Randy Credico, a
+      comedian, political activist and friend, hosted me and Andrei Martyanov on his
+      weekly radio program, which broadcasts from New York City. Andrei and I discussed
+      the Great Patriotic War and its relevance to the current war in Ukraine: I thank
+      you for your invaluable support by taking time to read or comment. I do not charge
+      a subscription fee nor do I accept advertising. I want the content to be accessible
+      to everyone interested in the issues I am discussing. However, if you wish to
+      make a donation, please see this link .'
+    one_sentence_summary: Many Western leaders mistakenly believe that the U.S. can
+      easily manipulate Russia into abandoning its alliance with China, despite the
+      growing significance of the Shanghai Cooperation Organization (SCO) and the evolving
+      dynamics of international politics.
+    paragraph_summary: The article critiques the belief among some Western leaders and
+      commentators that the U.S. can easily manipulate global alliances, particularly
+      regarding Russia and China. It highlights the ongoing Shanghai Cooperation Organization
+      (SCO) conference, which includes key nations like China, India, and Russia, suggesting
+      that these countries are solidifying their ties rather than drifting apart. The
+      author expresses concern over U.S. foreign policy, particularly under Donald Trump,
+      noting that tariffs imposed on India have pushed it closer to BRICS and away from
+      U.S. influence. Prime Minister Modi's leadership in BRICS and the evolving relationship
+      between India and China signal a shift in global power dynamics that challenges
+      the notion of U.S. hegemony.
+    published: '2025-09-01T03:42:41+00:00'
+  - title: The Desperation and Dishonesty of the Anti-Russian Propaganda
+    url: https://sonar21.com/the-desperation-and-dishonesty-of-the-anti-russian-propaganda/
+    text: 'There are many in the West, especially here in America, that are desperately
+      grasping at straws and strenuously insisting that Russia is in big trouble economically.
+      Here is a typical example from a gentleman who has been consistently wrong in
+      his previous dire predictions: As of the end of August it is estimated that 17%
+      of Russian oil refining capacity has been destroyed. Ukraine seems to have found
+      a key vulnerability and is systematically able to destroy refineries.  If they
+      are able to continue this as they have successfully done in August they will not
+      only cause logistics issues for the Russian army but over time will seriously
+      harm the economy which is already in trouble. I continue to contend in the end
+      it will be economic decline and weakness due to refinery destruction and shutting
+      off of oil sales that eventually brings Putin to the table for serious negotiation.
+      It is a question of can Ukraine hold out until winter and stop the Russian offensive
+      in the fall to give time to do much further damage to the oil sales and oil refineries
+      enough to further harm the economy and to create fuel shortages for the army.
+      The man is simply regurgitating what he is reading in the Western press. I decided
+      to run some AI queries to see if that bias is showing up there. I used Grok and
+      Perplexity AI . Let’s start with Grok . I asked: How much has the price of petrol
+      changed from July to August 2025 in Moscow and St. Petersburg? Here is Grok’s
+      initial response: The price of petrol in Russia, particularly in Moscow and St.
+      Petersburg, saw significant increases from July to August 2025, largely driven
+      by Ukrainian drone strikes on key oil refineries, seasonal demand, and logistical
+      challenges. Below is a detailed breakdown based on available data: Moscow July
+      2025 : The average price of petrol (AI-92 and AI-95 grades) in Moscow was reported
+      at approximately 53 rubles per liter for general motor gasoline, with specific
+      grades like AI-92 ranging from 51.99 to 54.61 rubles per liter and AI-95 from
+      57.49 to 62.25 rubles per liter. AI-98 was priced between 72.40 and 79.54 rubles
+      per liter. August 2025 : By early August, retail petrol prices in Moscow increased
+      by 0.3% for the week of July 30 to August 5, with AI-95 reaching up to 62.25 rubles
+      per liter and AI-98 hitting 79.54 rubles per liter. Wholesale prices on the St.
+      Petersburg International Mercantile Exchange (SPIMEX) surged significantly, with
+      AI-92 reaching 71,516 rubles per ton (approximately 0.885 USD per liter, or ~71
+      rubles per liter at retail equivalent) and AI-95 climbing to 80,430 rubles per
+      ton (~1 USD per liter, or ~80 rubles per liter) by August 18. By August 21, wholesale
+      AI-92 prices hit 73,100 rubles per ton and AI-95 reached 81,400 rubles per ton,
+      reflecting retail price pressures. Price Change : Retail prices for AI-92 in Moscow
+      likely increased from around 53–54 rubles per liter in July to approximately 58–60
+      rubles per liter by mid-August, a rise of roughly 9–13%. AI-95 saw a similar trend,
+      moving from 57–62 rubles per liter to around 62–65 rubles per liter, an increase
+      of about 5–10%. These estimates account for the gradual retail price hikes (15–25
+      kopecks per week) reported due to government controls preventing sharper rises.
+      St. Petersburg July 2025 : In St. Petersburg, the average price of Octane-95 (AI-95)
+      gasoline from April 28 to August 4 was 61.64 rubles per liter, with a peak of
+      62.11 rubles per liter on July 28. AI-92 prices were slightly lower, estimated
+      around 55–57 rubles per liter based on national trends. AI-98 was reported at
+      78.79 rubles per liter by early August. August 2025 : By August 18, wholesale
+      AI-92 prices on SPIMEX reached 71,516 rubles per ton, and AI-95 hit 80,430 rubles
+      per ton, translating to retail prices in St. Petersburg of approximately 58–60
+      rubles per liter for AI-92 and 62–65 rubles per liter for AI-95. By August 21,
+      wholesale prices further increased to 73,100 rubles per ton for AI-92 and 81,400
+      rubles per ton for AI-95, suggesting retail prices may have approached 60–62 rubles
+      per liter for AI-92 and 65–67 rubles per liter for AI-95. A 0.2% weekly increase
+      was noted for the week of July 30 to August 5. Price Change : For AI-95 in St.
+      Petersburg, prices rose from 62.11 rubles per liter at the end of July to approximately
+      65–67 rubles per liter by late August, an increase of about 5–8%. AI-92 likely
+      increased from 55–57 rubles per liter to 58–62 rubles per liter, a rise of roughly
+      5–11%. Perplexity offered similar results: In August 2025, retail petrol prices
+      in Moscow were 56.99 to 60.49 rubles per liter for AI-92, 62.99 to 67.89 rubles
+      per liter for AI-95, and 83.20 to 90.16 rubles per liter for AI-98 and above.
+      In St. Petersburg, prices were 57.25 to 59.52 rubles per liter for AI-92, 61.95
+      to 66.18 rubles per liter for AI-95, and 85.50 to 90.04 rubles per liter for AI-98
+      and above. These price ranges reflect significant increases from July, driven
+      by supply disruptions, drone strikes on refineries, and seasonal demand pressures.
+      Official monitoring from Rosstat confirms the 0.2% week-over-week increase during
+      early August in both Moscow and St. Petersburg. Both search engines described
+      this as “ significant .” Between July and August 2025, the price of petrol in
+      Moscow and St. Petersburg increased by more than 0.3%. Specifically, in the first
+      week of August, Moscow saw an increase of about 0.5% and St. Petersburg about
+      0.7% compared to prices in July. Both search engines attributed this to Ukraine’s
+      drone attacks on Russian refineries, and both neglected to consider that Russia
+      has been experiencing price increase because of inflation, not because of Ukrainian
+      attacks. I then asked Perplexity to compare the price increase for May and June
+      2025. Notice the dramatic change in the language. Between May and June 2025, petrol
+      prices in Moscow and St. Petersburg increased modestly. Consumer gasoline prices
+      in Russia rose by about 0.7% in June compared to May, according to Rosstat. Specifically,
+      in Moscow, prices increased by approximately 0.5%, and in St. Petersburg, prices
+      increased by about 0.7% during the same period. This price rise was part of a
+      broader trend where producer prices increased more sharply by around 7.5% on average
+      across Russia, while consumer prices showed a more modest rise. The overall market
+      pressure was driven by increased demand, lower refinery output, and export restrictions
+      starting to take effect around that period. In summary, from May to June 2025,
+      petrol prices in Moscow and St. Petersburg increased by roughly 0.5% to 0.7%.Between
+      May and June 2025, petrol prices in Moscow and St. Petersburg increased modestly.
+      Consumer gasoline prices in Russia rose by approximately 0.7% in June compared
+      to May 2025, with Moscow prices up by about 0.5% and St. Petersburg prices up
+      by about 0.7% during that period. Producer prices increased more significantly
+      by about 7.5% across Russia. The rise in prices was influenced by factors such
+      as increased demand, refinery disruptions, and export restrictions that began
+      to take effect around that time. So, the June increase in Moscow — 0.5% — and
+      in St. Petersburg — 0.7% — is MODEST . But when you get the same numbers in August,
+      it is then described as SIGNIFICANT ! If that ain’t circumstantial evidence that
+      these platforms are being used to push a propaganda narrative, I don’t know what
+      qualifies as evidence . I am posting two videos of my interviews with two new
+      sources: FoadDebate , who lives in Iran, and Ed Demarche, Executive Editor of
+      Trends Journal . Enjoy: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article argues that while some in the West believe Russia's
+      economy is in serious trouble, the ongoing destruction of its oil refining capacity
+      by Ukraine could ultimately lead to economic decline and force Putin to negotiate,
+      provided Ukraine can withstand the upcoming winter and halt the Russian offensive.
+    paragraph_summary: The article discusses the perception in the West, particularly
+      in America, that Russia is facing significant economic troubles, primarily due
+      to damage to its oil refining capacity from Ukrainian attacks. It highlights a
+      prediction that continued destruction of refineries could lead to logistical issues
+      for the Russian military and further weaken the economy, potentially forcing President
+      Putin to negotiate. The author critiques a specific individual's claims about
+      Russia's economic decline as being overly reliant on Western narratives and presents
+      findings from AI queries indicating that petrol prices in major Russian cities
+      have risen due to these factors, suggesting that the economic situation is indeed
+      impacted by the ongoing conflict.
+    published: '2025-08-31T02:04:15+00:00'
+  - title: The Desperation and Dishonesty of the Anti-Russian Propaganda
+    url: https://sonar21.com/the-desperation-and-dishonesty-of-the-anti-russian-propaganda/
+    text: 'There are many in the West, especially here in America, that are desperately
+      grasping at straws and strenuously insisting that Russia is in big trouble economically.
+      Here is a typical example from a gentleman who has been consistently wrong in
+      his previous dire predictions: As of the end of August it is estimated that 17%
+      of Russian oil refining capacity has been destroyed. Ukraine seems to have found
+      a key vulnerability and is systematically able to destroy refineries.  If they
+      are able to continue this as they have successfully done in August they will not
+      only cause logistics issues for the Russian army but over time will seriously
+      harm the economy which is already in trouble. I continue to contend in the end
+      it will be economic decline and weakness due to refinery destruction and shutting
+      off of oil sales that eventually brings Putin to the table for serious negotiation.
+      It is a question of can Ukraine hold out until winter and stop the Russian offensive
+      in the fall to give time to do much further damage to the oil sales and oil refineries
+      enough to further harm the economy and to create fuel shortages for the army.
+      The man is simply regurgitating what he is reading in the Western press. I decided
+      to run some AI queries to see if that bias is showing up there. I used Grok and
+      Perplexity AI . Let’s start with Grok . I asked: How much has the price of petrol
+      changed from July to August 2025 in Moscow and St. Petersburg? Here is Grok’s
+      initial response: The price of petrol in Russia, particularly in Moscow and St.
+      Petersburg, saw significant increases from July to August 2025, largely driven
+      by Ukrainian drone strikes on key oil refineries, seasonal demand, and logistical
+      challenges. Below is a detailed breakdown based on available data: Moscow July
+      2025 : The average price of petrol (AI-92 and AI-95 grades) in Moscow was reported
+      at approximately 53 rubles per liter for general motor gasoline, with specific
+      grades like AI-92 ranging from 51.99 to 54.61 rubles per liter and AI-95 from
+      57.49 to 62.25 rubles per liter. AI-98 was priced between 72.40 and 79.54 rubles
+      per liter. August 2025 : By early August, retail petrol prices in Moscow increased
+      by 0.3% for the week of July 30 to August 5, with AI-95 reaching up to 62.25 rubles
+      per liter and AI-98 hitting 79.54 rubles per liter. Wholesale prices on the St.
+      Petersburg International Mercantile Exchange (SPIMEX) surged significantly, with
+      AI-92 reaching 71,516 rubles per ton (approximately 0.885 USD per liter, or ~71
+      rubles per liter at retail equivalent) and AI-95 climbing to 80,430 rubles per
+      ton (~1 USD per liter, or ~80 rubles per liter) by August 18. By August 21, wholesale
+      AI-92 prices hit 73,100 rubles per ton and AI-95 reached 81,400 rubles per ton,
+      reflecting retail price pressures. Price Change : Retail prices for AI-92 in Moscow
+      likely increased from around 53–54 rubles per liter in July to approximately 58–60
+      rubles per liter by mid-August, a rise of roughly 9–13%. AI-95 saw a similar trend,
+      moving from 57–62 rubles per liter to around 62–65 rubles per liter, an increase
+      of about 5–10%. These estimates account for the gradual retail price hikes (15–25
+      kopecks per week) reported due to government controls preventing sharper rises.
+      St. Petersburg July 2025 : In St. Petersburg, the average price of Octane-95 (AI-95)
+      gasoline from April 28 to August 4 was 61.64 rubles per liter, with a peak of
+      62.11 rubles per liter on July 28. AI-92 prices were slightly lower, estimated
+      around 55–57 rubles per liter based on national trends. AI-98 was reported at
+      78.79 rubles per liter by early August. August 2025 : By August 18, wholesale
+      AI-92 prices on SPIMEX reached 71,516 rubles per ton, and AI-95 hit 80,430 rubles
+      per ton, translating to retail prices in St. Petersburg of approximately 58–60
+      rubles per liter for AI-92 and 62–65 rubles per liter for AI-95. By August 21,
+      wholesale prices further increased to 73,100 rubles per ton for AI-92 and 81,400
+      rubles per ton for AI-95, suggesting retail prices may have approached 60–62 rubles
+      per liter for AI-92 and 65–67 rubles per liter for AI-95. A 0.2% weekly increase
+      was noted for the week of July 30 to August 5. Price Change : For AI-95 in St.
+      Petersburg, prices rose from 62.11 rubles per liter at the end of July to approximately
+      65–67 rubles per liter by late August, an increase of about 5–8%. AI-92 likely
+      increased from 55–57 rubles per liter to 58–62 rubles per liter, a rise of roughly
+      5–11%. Perplexity offered similar results: In August 2025, retail petrol prices
+      in Moscow were 56.99 to 60.49 rubles per liter for AI-92, 62.99 to 67.89 rubles
+      per liter for AI-95, and 83.20 to 90.16 rubles per liter for AI-98 and above.
+      In St. Petersburg, prices were 57.25 to 59.52 rubles per liter for AI-92, 61.95
+      to 66.18 rubles per liter for AI-95, and 85.50 to 90.04 rubles per liter for AI-98
+      and above. These price ranges reflect significant increases from July, driven
+      by supply disruptions, drone strikes on refineries, and seasonal demand pressures.
+      Official monitoring from Rosstat confirms the 0.2% week-over-week increase during
+      early August in both Moscow and St. Petersburg. Both search engines described
+      this as “ significant .” Between July and August 2025, the price of petrol in
+      Moscow and St. Petersburg increased by more than 0.3%. Specifically, in the first
+      week of August, Moscow saw an increase of about 0.5% and St. Petersburg about
+      0.7% compared to prices in July. Both search engines attributed this to Ukraine’s
+      drone attacks on Russian refineries, and both neglected to consider that Russia
+      has been experiencing price increase because of inflation, not because of Ukrainian
+      attacks. I then asked Perplexity to compare the price increase for May and June
+      2025. Notice the dramatic change in the language. Between May and June 2025, petrol
+      prices in Moscow and St. Petersburg increased modestly. Consumer gasoline prices
+      in Russia rose by about 0.7% in June compared to May, according to Rosstat. Specifically,
+      in Moscow, prices increased by approximately 0.5%, and in St. Petersburg, prices
+      increased by about 0.7% during the same period. This price rise was part of a
+      broader trend where producer prices increased more sharply by around 7.5% on average
+      across Russia, while consumer prices showed a more modest rise. The overall market
+      pressure was driven by increased demand, lower refinery output, and export restrictions
+      starting to take effect around that period. In summary, from May to June 2025,
+      petrol prices in Moscow and St. Petersburg increased by roughly 0.5% to 0.7%.Between
+      May and June 2025, petrol prices in Moscow and St. Petersburg increased modestly.
+      Consumer gasoline prices in Russia rose by approximately 0.7% in June compared
+      to May 2025, with Moscow prices up by about 0.5% and St. Petersburg prices up
+      by about 0.7% during that period. Producer prices increased more significantly
+      by about 7.5% across Russia. The rise in prices was influenced by factors such
+      as increased demand, refinery disruptions, and export restrictions that began
+      to take effect around that time. So, the June increase in Moscow — 0.5% — and
+      in St. Petersburg — 0.7% — is MODEST . But when you get the same numbers in August,
+      it is then described as SIGNIFICANT ! If that ain’t circumstantial evidence that
+      these platforms are being used to push a propaganda narrative, I don’t know what
+      qualifies as evidence . I am posting two videos of my interviews with two new
+      sources: FoadDebate , who lives in Iran, and Ed Demarche, Executive Editor of
+      Trends Journal . Enjoy: I thank you for your invaluable support by taking time
+      to read or comment. I do not charge a subscription fee nor do I accept advertising.
+      I want the content to be accessible to everyone interested in the issues I am
+      discussing. However, if you wish to make a donation, please see this link .'
+    one_sentence_summary: The article argues that while some in the West believe Russia's
+      economy is in serious trouble, the ongoing destruction of its oil refining capacity
+      by Ukraine could ultimately lead to economic decline and force Putin to negotiate,
+      provided Ukraine can withstand the upcoming winter and halt the Russian offensive.
+    paragraph_summary: The article discusses the perception in the West, particularly
+      in America, that Russia is facing significant economic troubles, primarily due
+      to damage to its oil refining capacity from Ukrainian attacks. It highlights a
+      prediction that continued destruction of refineries could lead to logistical issues
+      for the Russian military and further weaken the economy, potentially forcing President
+      Putin to negotiate. The author critiques a specific individual's claims about
+      Russia's economic decline as being overly reliant on Western narratives and presents
+      findings from AI queries indicating that petrol prices in major Russian cities
+      have risen due to these factors, suggesting that the economic situation is indeed
+      impacted by the ongoing conflict.
+    published: '2025-08-31T02:04:15+00:00'
+  - title: Israel’s Worsening PR Problem and Its Failure to Defeat Hamas
+    url: https://sonar21.com/israels-worsening-pr-problem-and-its-failure-to-defeat-hamas/
+    text: 'I hesitate in using the phrase, PR problem , with respect to Bibi Netanyahu’s
+      recent pathetic charm offensive on social media because it implies something trivial
+      and unimportant. It is anything but. Netanyahu’s propaganda tour on social media
+      is a sign of fear and weakness. When the Israeli Occupation Force ( IOF ) murdered
+      the five journalists last week, that war crime ignited a heavy dose of international
+      outrage and protest.  Netanyahu is so accustomed to lying, and is so confident
+      in his ability to convince others to believe his lies, that he decided to reach
+      out to Zionist-friendly podcasters and was given a platform that he hoped would
+      staunch the hemorrhaging of public support for his campaign of genocide. In the
+      last week, Benjamin Netanyahu has appeared on the following popular podcasts:
+      1. Valuetainment with Patrick Bet-David (August 25, 2025) — Netanyahu discussed
+      Israel’s conflicts, accused critics of misinformation, shared insights on the
+      battle with Iran proxies, and touched on international relations including reactions
+      to accusations of genocide. 2. TRIGGERnometry Podcast (August 20, 2025) — He gave
+      a detailed interview covering various topics including regional security, political
+      strategy, and the ongoing situation in Gaza. Additionally, earlier in August,
+      Netanyahu appeared on the UK podcast The News Agents (August 4, 2025) to discuss
+      the Israeli government’s plans and positions concerning Gaza This is a clear signal
+      that support for the Zionist genocide in the so-called civilized world is slipping;
+      otherwise, Netanyahu would have contented himself with pontificating from his
+      government pulpit in Tel Aviv. I don’t think spinning on social media will salvage
+      Israel’s well-earned reputation as a terrorist state that gleefully murders women
+      and children. There is an ironic article in Haaretz today — ironic because of
+      breaking news as I write this at 10 pm Eastern Time — with the title, Inside Gaza
+      City’s Zeitoun, IDF Insists Its Seventh Incursion Will Finally Defeat Hamas .
+      Here are a few salient points from the article: Throughout the Gaza war, the IDF
+      said the Zeitoun battalion was defeated, but now admits it may have spoken too
+      soon. The mission: erase the neighborhood above and below ground. ‘I assume we’ll
+      meet again,’ said a commander, ‘maybe for the eighth time in Zeitoun.’. . . But
+      what could the Israel Defense Forces achieve this time that it didn’t manage to
+      achieve the previous six times, in which the 36th, 99th, 252nd, 126th and 98th
+      divisions fought here? Indeed, it seems every unit serving in Gaza over the past
+      two years has taken part in “defeating” Hamas’ Zeitoun Battalion. . . . Throughout
+      the war, senior defense and government officials have told journalists that the
+      Zeitoun Battalion had been defeated and had ceased to function as a military unit.
+      But now, they say they could have been too quick to make that assertion. Currently,
+      the army says, the battalion is in combat-ready and has around 400 fighters, but
+      it is displaying “exaggerated self-confidence” about the upcoming fight with the
+      IDF. Well, guess what? According to the Middle East Spectator , the IOF today
+      (Friday) received an ass-whipping at the hands of the Zeitoun Battalion : The
+      IDF is withdrawing from Al-Zaytoun neighborhood, after the rescue forces were
+      ambushed by Hamas fighters, leading to 1 death and 11 wounded. BREAKING: No contact
+      has been made with the four missing Israeli soldiers in Ayn Al-Zaytoun in the
+      Gaza Strip — there is now increasing speculation that all of them may have been
+      captured by Hamas. Hebrew media now reporting that the IDF search and rescue has
+      ‘given up’ on the 4 missing soldiers, and the Israeli government is preparing
+      a major press release. This disaster may bolster the position of the head of the
+      IOF, who reportedly is strongly opposed to conducting further ground-based military
+      operations in Gaza City. The courage displayed by the Hamas fighters is creating
+      a legend among the Palestinian people that will live on and inspire others to
+      resist. Despite Western efforts to paint Hamas as terrorists , they are not killing
+      civilians… they are going toe-to-toe with the best equipped-army in the region.
+      These Palestinian warriors are fighting for freedom and to avenge the murder of
+      their families and friends… It has nothing to do with the Western red-herring
+      of Muslims wanting to impose Sharia law . This tactical win by the Zeitoun Battalion
+      does not eliminate the Zionist strategic advantages, but it stands as a stark
+      reminder that after 23 months of brutal attacks by the Zionists, the Palestinians
+      are still willing and able to fight. I did seven interviews today. Instead of
+      subjecting you to all of those, I am limiting myself to my conversation with Nima
+      and Colonel Wilkerson, and with Judge Napolitano and Ray McGovern:'
+    one_sentence_summary: Netanyahu's recent social media charm offensive, following
+      the murder of five journalists by the Israeli Occupation Force, reflects his fear
+      and desperation to regain public support amid growing international outrage over
+      his actions.
+    paragraph_summary: The article critiques Israeli Prime Minister Benjamin Netanyahu's
+      recent social media outreach as a desperate attempt to regain public support amid
+      international outrage over the killing of five journalists by the Israeli Occupation
+      Force. It argues that his appearances on various pro-Zionist podcasts, where he
+      discussed Israel's conflicts and accused critics of misinformation, reflect a
+      significant decline in support for his government's actions, which are characterized
+      as genocidal. The author suggests that Netanyahu's reliance on social media to
+      address these issues indicates fear and weakness, and believes that such efforts
+      will not improve Israel's tarnished reputation as a state that commits violence
+      against civilians.
+    published: '2025-08-30T02:43:48+00:00'
+  - title: Israel’s Worsening PR Problem and Its Failure to Defeat Hamas
+    url: https://sonar21.com/israels-worsening-pr-problem-and-its-failure-to-defeat-hamas/
+    text: 'I hesitate in using the phrase, PR problem , with respect to Bibi Netanyahu’s
+      recent pathetic charm offensive on social media because it implies something trivial
+      and unimportant. It is anything but. Netanyahu’s propaganda tour on social media
+      is a sign of fear and weakness. When the Israeli Occupation Force ( IOF ) murdered
+      the five journalists last week, that war crime ignited a heavy dose of international
+      outrage and protest.  Netanyahu is so accustomed to lying, and is so confident
+      in his ability to convince others to believe his lies, that he decided to reach
+      out to Zionist-friendly podcasters and was given a platform that he hoped would
+      staunch the hemorrhaging of public support for his campaign of genocide. In the
+      last week, Benjamin Netanyahu has appeared on the following popular podcasts:
+      1. Valuetainment with Patrick Bet-David (August 25, 2025) — Netanyahu discussed
+      Israel’s conflicts, accused critics of misinformation, shared insights on the
+      battle with Iran proxies, and touched on international relations including reactions
+      to accusations of genocide. 2. TRIGGERnometry Podcast (August 20, 2025) — He gave
+      a detailed interview covering various topics including regional security, political
+      strategy, and the ongoing situation in Gaza. Additionally, earlier in August,
+      Netanyahu appeared on the UK podcast The News Agents (August 4, 2025) to discuss
+      the Israeli government’s plans and positions concerning Gaza This is a clear signal
+      that support for the Zionist genocide in the so-called civilized world is slipping;
+      otherwise, Netanyahu would have contented himself with pontificating from his
+      government pulpit in Tel Aviv. I don’t think spinning on social media will salvage
+      Israel’s well-earned reputation as a terrorist state that gleefully murders women
+      and children. There is an ironic article in Haaretz today — ironic because of
+      breaking news as I write this at 10 pm Eastern Time — with the title, Inside Gaza
+      City’s Zeitoun, IDF Insists Its Seventh Incursion Will Finally Defeat Hamas .
+      Here are a few salient points from the article: Throughout the Gaza war, the IDF
+      said the Zeitoun battalion was defeated, but now admits it may have spoken too
+      soon. The mission: erase the neighborhood above and below ground. ‘I assume we’ll
+      meet again,’ said a commander, ‘maybe for the eighth time in Zeitoun.’. . . But
+      what could the Israel Defense Forces achieve this time that it didn’t manage to
+      achieve the previous six times, in which the 36th, 99th, 252nd, 126th and 98th
+      divisions fought here? Indeed, it seems every unit serving in Gaza over the past
+      two years has taken part in “defeating” Hamas’ Zeitoun Battalion. . . . Throughout
+      the war, senior defense and government officials have told journalists that the
+      Zeitoun Battalion had been defeated and had ceased to function as a military unit.
+      But now, they say they could have been too quick to make that assertion. Currently,
+      the army says, the battalion is in combat-ready and has around 400 fighters, but
+      it is displaying “exaggerated self-confidence” about the upcoming fight with the
+      IDF. Well, guess what? According to the Middle East Spectator , the IOF today
+      (Friday) received an ass-whipping at the hands of the Zeitoun Battalion : The
+      IDF is withdrawing from Al-Zaytoun neighborhood, after the rescue forces were
+      ambushed by Hamas fighters, leading to 1 death and 11 wounded. BREAKING: No contact
+      has been made with the four missing Israeli soldiers in Ayn Al-Zaytoun in the
+      Gaza Strip — there is now increasing speculation that all of them may have been
+      captured by Hamas. Hebrew media now reporting that the IDF search and rescue has
+      ‘given up’ on the 4 missing soldiers, and the Israeli government is preparing
+      a major press release. This disaster may bolster the position of the head of the
+      IOF, who reportedly is strongly opposed to conducting further ground-based military
+      operations in Gaza City. The courage displayed by the Hamas fighters is creating
+      a legend among the Palestinian people that will live on and inspire others to
+      resist. Despite Western efforts to paint Hamas as terrorists , they are not killing
+      civilians… they are going toe-to-toe with the best equipped-army in the region.
+      These Palestinian warriors are fighting for freedom and to avenge the murder of
+      their families and friends… It has nothing to do with the Western red-herring
+      of Muslims wanting to impose Sharia law . This tactical win by the Zeitoun Battalion
+      does not eliminate the Zionist strategic advantages, but it stands as a stark
+      reminder that after 23 months of brutal attacks by the Zionists, the Palestinians
+      are still willing and able to fight. I did seven interviews today. Instead of
+      subjecting you to all of those, I am limiting myself to my conversation with Nima
+      and Colonel Wilkerson, and with Judge Napolitano and Ray McGovern:'
+    one_sentence_summary: Netanyahu's recent social media charm offensive, following
+      the murder of five journalists by the Israeli Occupation Force, reflects his fear
+      and desperation to regain public support amid growing international outrage over
+      his actions.
+    paragraph_summary: The article critiques Israeli Prime Minister Benjamin Netanyahu's
+      recent social media outreach as a desperate attempt to regain public support amid
+      international outrage over the killing of five journalists by the Israeli Occupation
+      Force. It argues that his appearances on various pro-Zionist podcasts, where he
+      discussed Israel's conflicts and accused critics of misinformation, reflect a
+      significant decline in support for his government's actions, which are characterized
+      as genocidal. The author suggests that Netanyahu's reliance on social media to
+      address these issues indicates fear and weakness, and believes that such efforts
+      will not improve Israel's tarnished reputation as a state that commits violence
+      against civilians.
+    published: '2025-08-30T02:43:48+00:00'
+  - title: Donald Trump Still Does Not Understand the Russia’s Position Regarding Ukraine
+    url: https://sonar21.com/donald-trump-still-does-not-understand-the-russias-position-regarding-ukraine/
+    text: 'I continue to believe that it is more important to watch what Donald Trump
+      does rather than focus on what he says. However, his remarks during the meeting
+      of his cabinet earlier this week regarding negotiations to end the war in Ukraine
+      are alarming and merit attention. When asked about Sergei Lavrov’s comment that
+      Ukrainian President Volodymyr Zelensky is not legitimate, Donald Trump dismissed
+      the statement, saying: It doesn’t matter what they say. Everybody’s posturing.
+      It’s all bullshit, okay. Everybody’s posturing. He characterized Lavrov’s remarks—and
+      the broader Kremlin rhetoric on Zelensky’s legitimacy—as meaningless showmanship,
+      emphasizing that such claims should not obstruct peace efforts. Trump did not
+      directly defend Zelensky, but instead focused on downplaying the significance
+      of Russia’s statements and suggested that “everyone is just putting on a show”
+      in ongoing negotiations. I believe that Trump genuinely believes this, and he
+      is dangerously mistaken. President Putin and Foreign Minister Lavrov are not posturing
+      when they try to explain to clueless westerners that they do not believe that
+      Zelensky is the legitimate President of Ukraine. While Ukrainian President Volodymyr
+      Zelenskyy did not explicitly “cancel” the presidential election, as Ukrainian
+      law prohibits holding elections during martial law, which has been in effect since
+      Russia’s full-scale invasion on February 24, 2022, the reality from the Russian
+      perspective is that a negotiated agreement with Zelensky could easily be overturned
+      or rejected once Ukraine holds the required election. The scheduled presidential
+      election, expected in March or April 2024, was automatically postponed due to
+      this legal restriction under Article 19 of Ukraine’s “On the Legal Regime of Martial
+      Law,” which bans presidential, parliamentary, and local elections during martial
+      law. Martial law has been extended in 90-day intervals by the Verkhovna Rada (Ukraine’s
+      parliament), with the latest extension as of July 2025 lasting until November
+      5, 2025. Based on Zelensky’s multiple public remarks since his last meeting with
+      Trump at the White House, it is clear that he is completely disinterested in reaching
+      a peace agreement with Russia. Stephen Bryen has just published a new piece on
+      his Substack , and it provides an explanation for Zelensky’s recalcitrance… NATO
+      is going to attack Russia. Steve writes: While Putin has flown off to meet with
+      his two buddies, Xi Jinping and Kim Jong Un, in China on an unprecedented four
+      day jaunt, NATO, with full US backing, is stepping up its effort to hand the Russian
+      army a major defeat and, following that, introducing NATO troops to “stabilize”
+      Ukraine. What is the evidence? First and very noticeable is the US decision to
+      ship 3,350 missiles to Ukraine, ostensibly to be paid for (someday?) by the Europeans
+      (which ones is not defined). These are known as Extended Range Attack Munitions
+      (ERAM), a type of air launched cruise missile missile. The Aviationist reports
+      that “Ukrainian Air Force’s F-16s , Mirage 2000s and its fleet of Russian-origin
+      MiG-29s , Su-25s and Su-27s would be able to operate it. This new weapon would
+      be an addition to the AASM Hammer and GBU-39 SDB already employed by Ukrainian
+      fighters.” According to open source intelligence, ERAMs have a range of 250 miles.
+      However, that is the range once launched by an aircraft. Washington says it opposes
+      Ukrainian missile attacks on Russian territory, and while it is restricting the
+      use of long range HIMARS, it is not restricting the use of ERAM. Reportedly ERAM
+      carried a 500 lb. warhead, far larger than any Ukrainian UAV and more than double
+      any of the different HIMARS missiles (M31 Utility Warhead, ATACMS warhead). It
+      may be that ERAMs can be fielded with cluster munitions, although much about the
+      ERAM is uncertain. Ignore what Trump says, watch what he does. Deploying ERAMs
+      is not a gesture of peace or de-escalation. While it is possible that this action
+      was taken without Trump’s knowledge, now that the information is public he has
+      not countermanded the order. Steve goes on in his article (I encourage you to
+      read it in its entirety) to highlight the faulty assumptions that NATO planners
+      and leaders are making: NATO has understood Russia’s use of North Korean troops
+      as an admission that Russia faces manpower shortages and instability in the Russian
+      army, and that Russia is taking heavy casualties in the Ukraine war. NATO may
+      be reading Putin’s statements that he has no intention of attacking Europe now
+      or in future as an admission that he cannot attack Europe with an army that is
+      too small and one that has been broken by the Ukraine war. Part of the pushback
+      can be found in the Saratoga Foundation report, “A Systems View of Russia’s Early
+      Failure in Ukraine.” Now Russian sources are reporting two developments that indicate
+      that a new offensive will soon materialize, heavily supported by NATO, and aimed
+      at Crimea. Those sources say that the US and its NATO partners have significantly
+      increased overhead intelligence gathering preparing for the coming attack. Once
+      again we have Western leaders — both military and political — wrongly interpreting
+      Russia’s execution of a special military operation as a sign of weakness. The
+      belief that Russia is suffering “manpower shortages and instability” is beyond
+      ridiculous. During the course of the last 42 months, Russia has doubled the size
+      of its army and is now conducting multiple offensive operations in Zaporhyzhia,
+      Dniepropetrovsk, Donetsk, Kharkiv and Sumy. Even if we accept as true the false
+      Western claims about Russia suffering massive casualties, the fact remains that
+      even with such losse Russia has 1.3 million men in uniform and carrying arms.
+      Instead of being “broken,” the Russian army has enhanced its capabilities and
+      developed new techniques, especially with the use of drones, that far exceed anything
+      NATO is capable of doing. Besides conducting the ground war, Russia continues
+      to enjoy a lopsided advantage in the use of missiles and drones. It has carried
+      out massive strikes on missile production facilities and other key logistic nodes
+      in the past week, and shows no sign of weakness on that front. A NATO-backed attack
+      on Crimea will put increased pressure on President Putin to shift from the Special
+      Military Operation to full war footing. NATO’s inability to supply Ukraine with
+      something as simple as artillery shells is just one indicator of NATO’s impotence
+      if it decides to up the ante with Russia. I discussed this issue yesterday with
+      Clayton Morris on his Redacted channel. I also reviewed Europe’s economic weakness
+      with Garland Nixon in our chat today: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Donald Trump's dismissal of Russian claims about Ukrainian
+      President Zelensky as mere posturing during a cabinet meeting raises concerns
+      about his understanding of the seriousness of the situation in Ukraine and the
+      implications for peace negotiations.
+    paragraph_summary: The article discusses Donald Trump's recent remarks during a
+      cabinet meeting regarding the legitimacy of Ukrainian President Volodymyr Zelensky
+      and the ongoing negotiations to end the war in Ukraine. Trump dismissed Russian
+      Foreign Minister Sergei Lavrov's assertion that Zelensky is not a legitimate leader
+      as mere posturing, suggesting that such statements should not hinder peace efforts.
+      However, the author argues that Trump is dangerously mistaken, as the Kremlin's
+      rhetoric reflects a serious belief that Zelensky's legitimacy is questionable,
+      particularly in light of Ukraine's current martial law, which prohibits elections.
+      This situation complicates any potential negotiated agreement with Zelensky, as
+      it could be undermined by future elections once martial law is lifted.
+    published: '2025-08-29T03:26:46+00:00'
+  - title: Donald Trump Still Does Not Understand the Russia’s Position Regarding Ukraine
+    url: https://sonar21.com/donald-trump-still-does-not-understand-the-russias-position-regarding-ukraine/
+    text: 'I continue to believe that it is more important to watch what Donald Trump
+      does rather than focus on what he says. However, his remarks during the meeting
+      of his cabinet earlier this week regarding negotiations to end the war in Ukraine
+      are alarming and merit attention. When asked about Sergei Lavrov’s comment that
+      Ukrainian President Volodymyr Zelensky is not legitimate, Donald Trump dismissed
+      the statement, saying: It doesn’t matter what they say. Everybody’s posturing.
+      It’s all bullshit, okay. Everybody’s posturing. He characterized Lavrov’s remarks—and
+      the broader Kremlin rhetoric on Zelensky’s legitimacy—as meaningless showmanship,
+      emphasizing that such claims should not obstruct peace efforts. Trump did not
+      directly defend Zelensky, but instead focused on downplaying the significance
+      of Russia’s statements and suggested that “everyone is just putting on a show”
+      in ongoing negotiations. I believe that Trump genuinely believes this, and he
+      is dangerously mistaken. President Putin and Foreign Minister Lavrov are not posturing
+      when they try to explain to clueless westerners that they do not believe that
+      Zelensky is the legitimate President of Ukraine. While Ukrainian President Volodymyr
+      Zelenskyy did not explicitly “cancel” the presidential election, as Ukrainian
+      law prohibits holding elections during martial law, which has been in effect since
+      Russia’s full-scale invasion on February 24, 2022, the reality from the Russian
+      perspective is that a negotiated agreement with Zelensky could easily be overturned
+      or rejected once Ukraine holds the required election. The scheduled presidential
+      election, expected in March or April 2024, was automatically postponed due to
+      this legal restriction under Article 19 of Ukraine’s “On the Legal Regime of Martial
+      Law,” which bans presidential, parliamentary, and local elections during martial
+      law. Martial law has been extended in 90-day intervals by the Verkhovna Rada (Ukraine’s
+      parliament), with the latest extension as of July 2025 lasting until November
+      5, 2025. Based on Zelensky’s multiple public remarks since his last meeting with
+      Trump at the White House, it is clear that he is completely disinterested in reaching
+      a peace agreement with Russia. Stephen Bryen has just published a new piece on
+      his Substack , and it provides an explanation for Zelensky’s recalcitrance… NATO
+      is going to attack Russia. Steve writes: While Putin has flown off to meet with
+      his two buddies, Xi Jinping and Kim Jong Un, in China on an unprecedented four
+      day jaunt, NATO, with full US backing, is stepping up its effort to hand the Russian
+      army a major defeat and, following that, introducing NATO troops to “stabilize”
+      Ukraine. What is the evidence? First and very noticeable is the US decision to
+      ship 3,350 missiles to Ukraine, ostensibly to be paid for (someday?) by the Europeans
+      (which ones is not defined). These are known as Extended Range Attack Munitions
+      (ERAM), a type of air launched cruise missile missile. The Aviationist reports
+      that “Ukrainian Air Force’s F-16s , Mirage 2000s and its fleet of Russian-origin
+      MiG-29s , Su-25s and Su-27s would be able to operate it. This new weapon would
+      be an addition to the AASM Hammer and GBU-39 SDB already employed by Ukrainian
+      fighters.” According to open source intelligence, ERAMs have a range of 250 miles.
+      However, that is the range once launched by an aircraft. Washington says it opposes
+      Ukrainian missile attacks on Russian territory, and while it is restricting the
+      use of long range HIMARS, it is not restricting the use of ERAM. Reportedly ERAM
+      carried a 500 lb. warhead, far larger than any Ukrainian UAV and more than double
+      any of the different HIMARS missiles (M31 Utility Warhead, ATACMS warhead). It
+      may be that ERAMs can be fielded with cluster munitions, although much about the
+      ERAM is uncertain. Ignore what Trump says, watch what he does. Deploying ERAMs
+      is not a gesture of peace or de-escalation. While it is possible that this action
+      was taken without Trump’s knowledge, now that the information is public he has
+      not countermanded the order. Steve goes on in his article (I encourage you to
+      read it in its entirety) to highlight the faulty assumptions that NATO planners
+      and leaders are making: NATO has understood Russia’s use of North Korean troops
+      as an admission that Russia faces manpower shortages and instability in the Russian
+      army, and that Russia is taking heavy casualties in the Ukraine war. NATO may
+      be reading Putin’s statements that he has no intention of attacking Europe now
+      or in future as an admission that he cannot attack Europe with an army that is
+      too small and one that has been broken by the Ukraine war. Part of the pushback
+      can be found in the Saratoga Foundation report, “A Systems View of Russia’s Early
+      Failure in Ukraine.” Now Russian sources are reporting two developments that indicate
+      that a new offensive will soon materialize, heavily supported by NATO, and aimed
+      at Crimea. Those sources say that the US and its NATO partners have significantly
+      increased overhead intelligence gathering preparing for the coming attack. Once
+      again we have Western leaders — both military and political — wrongly interpreting
+      Russia’s execution of a special military operation as a sign of weakness. The
+      belief that Russia is suffering “manpower shortages and instability” is beyond
+      ridiculous. During the course of the last 42 months, Russia has doubled the size
+      of its army and is now conducting multiple offensive operations in Zaporhyzhia,
+      Dniepropetrovsk, Donetsk, Kharkiv and Sumy. Even if we accept as true the false
+      Western claims about Russia suffering massive casualties, the fact remains that
+      even with such losse Russia has 1.3 million men in uniform and carrying arms.
+      Instead of being “broken,” the Russian army has enhanced its capabilities and
+      developed new techniques, especially with the use of drones, that far exceed anything
+      NATO is capable of doing. Besides conducting the ground war, Russia continues
+      to enjoy a lopsided advantage in the use of missiles and drones. It has carried
+      out massive strikes on missile production facilities and other key logistic nodes
+      in the past week, and shows no sign of weakness on that front. A NATO-backed attack
+      on Crimea will put increased pressure on President Putin to shift from the Special
+      Military Operation to full war footing. NATO’s inability to supply Ukraine with
+      something as simple as artillery shells is just one indicator of NATO’s impotence
+      if it decides to up the ante with Russia. I discussed this issue yesterday with
+      Clayton Morris on his Redacted channel. I also reviewed Europe’s economic weakness
+      with Garland Nixon in our chat today: I thank you for your invaluable support
+      by taking time to read or comment. I do not charge a subscription fee nor do I
+      accept advertising. I want the content to be accessible to everyone interested
+      in the issues I am discussing. However, if you wish to make a donation, please
+      see this link .'
+    one_sentence_summary: Donald Trump's dismissal of Russian claims about Ukrainian
+      President Zelensky as mere posturing during a cabinet meeting raises concerns
+      about his understanding of the seriousness of the situation in Ukraine and the
+      implications for peace negotiations.
+    paragraph_summary: The article discusses Donald Trump's recent remarks during a
+      cabinet meeting regarding the legitimacy of Ukrainian President Volodymyr Zelensky
+      and the ongoing negotiations to end the war in Ukraine. Trump dismissed Russian
+      Foreign Minister Sergei Lavrov's assertion that Zelensky is not a legitimate leader
+      as mere posturing, suggesting that such statements should not hinder peace efforts.
+      However, the author argues that Trump is dangerously mistaken, as the Kremlin's
+      rhetoric reflects a serious belief that Zelensky's legitimacy is questionable,
+      particularly in light of Ukraine's current martial law, which prohibits elections.
+      This situation complicates any potential negotiated agreement with Zelensky, as
+      it could be undermined by future elections once martial law is lifted.
+    published: '2025-08-29T03:26:46+00:00'
+  - title: Trump’s Tariff Policy is Empowering BRICS… A Look at India and China
+    url: https://sonar21.com/trumps-tariff-policy-is-empowering-brics-a-look-at-india-and-china/
+    text: 'BRICSvsG7 Trump’s attempt to derail BRICS by implementing tariffs is backfiring
+      badly. Instead of convincing India, China and Brazil to separate from Russia and
+      come crawling to Washington to, “ kiss Trump’s ass ,” Trump’s tariff debacle has
+      resulted in forging closer ties among the BRICS founders. This is especially true
+      with respect to India and China. India has reacted to Trump’s 50% tariffs with
+      a combination of diplomatic efforts to negotiate exemptions, domestic calls for
+      boycotts and self-reliance, and a defense of its Russian oil imports as essential
+      for energy security. While Modi is shying away from launching verbal bombs at
+      Trump, political and industry voices in India are demanding stronger retaliation,
+      and social media is amplifying growing anti-American sentiment. Economically,
+      India is poised to absorb the tariff hit, leveraging its market size and diversification.
+      India’s response is strategically cautious, balancing diplomatic restraint with
+      domestic pressures to resist perceived US bullying. The government’s mild rhetoric
+      and focus on negotiations reflect an understanding that escalation could harm
+      $86.5 billion in annual exports to the US, particularly for labor-intensive sectors
+      like textiles and seafood. However, the boycott calls and opposition’s strong
+      language indicate growing anti-American sentiment, which will complicate US-India
+      relations, especially after India’s concessions like allowing Starlink and importing
+      US energy. The tariffs’ economic impact, while significant, is not catastrophic
+      (Morgan Stanley’s $23 billion GDP hit estimate), and India’s measured approach
+      suggests confidence in its economic resilience and geopolitical leverage. Yet,
+      the lack of immediate retaliation contrasts with sentiments on X (e.g., @RT_India_news)
+      advocating for a tougher stance, highlighting a divide between public frustration
+      and government pragmatism. The tariffs went into effect today (August 27th), which
+      increased to 50% on Indian goods (from an initial 25%) because India continued
+      to purchase Russian oil, have sparked significant economic and political responses.
+      India’s government has adopted a milder tone compared to China or Brazil.  The
+      Ministry of External Affairs called the tariffs “unfair” and “unjustified,” arguing
+      that India’s Russian oil imports are driven by market factors and energy security
+      needs for its 1.4 billion population. Prime Minister Narendra Modi stated that
+      India “will never compromise on the interests of the country’s farmers, fishermen,
+      and livestock breeders,” even at personal political cost. The government has signaled
+      it will take “all actions necessary” to protect national interests, though it
+      has not hinted at immediate escalation or retaliatory tariffs. Modi emphasized
+      self-reliance in a Bengaluru speech, urging prioritization of Indian technology
+      companies, though he avoided naming specific US firms. This aligns with broader
+      efforts to promote domestic brands amid boycott calls. India has defended its
+      Russian oil purchases as essential for energy security, noting that other nations
+      (including US allies) also trade with Russia. This stance is supported by Russia’s
+      Kremlin, which called the tariffs an attempt to “force countries to stop trade
+      relations” with Moscow. On the diplomatic front, India is coordinating with its
+      BRICS partners (e.g., Brazil and India) to explore legal options through the World
+      Trade Organization, citing “strength in numbers” to challenge the US tariffs.
+      India’s role in BRICS, with its push for local currency trade (e.g., rupee payments
+      for Russian oil), strengthens its economic resilience against US pressure, though
+      this is a long-term strategy rather than an immediate countermeasure. Meanwhile,
+      anti-American sentiment in India has grown, with social media campaigns and offline
+      movements urging boycotts of US brands like McDonald’s, Coca-Cola, and Apple.
+      A graphic titled “Boycott foreign food chains” circulated on platforms like WhatsApp
+      , listing Indian alternatives to US products. Rahul Gandhi, leader of the Indian
+      National Congress, labeled the tariffs “economic blackmail” and an attempt to
+      “bully India into an unfair trade deal.” This reflects strong domestic political
+      pressure to resist US demands. Farmer leaders like Gurnam Singh Charuni of the
+      Bharatiya Kisan Union called for a “total ban” on US companies in retaliation,
+      reflecting agricultural sector fears of losses (e.g., $20 billion from US dairy
+      exports flooding the market). The gem and jewelry sector faces potential losses
+      of $3 billion annually, and textile exporters expect $5 billion in business to
+      shift elsewhere due to the tariffs. India’s stock market showed little panic immediately
+      after the tariff announcement, suggesting confidence in the economy’s ability
+      to absorb the shock. The estimated GDP impact is ~60 basis points ($23 billion)
+      even under a full 50% tariff scenario, significant but not debilitating. India
+      is leveraging its role as a “China-plus-one” destination, with firms like Apple
+      maintaining production (e.g., semiconductors are tariff-exempt). The biggest unanticipated
+      result of Trump’s attempt to bully India with tariffs is that Modi has moved to
+      set aside longstanding friction with China and seek a closer relationship with
+      China’s President Xi. They are meeting next week in China. Turning to China .
+      I discussed in a previous post how Trump’s tariffs have killed US exports of soybeans
+      to China and led to a dramatic redirection of coffee bean exports from Brazil
+      — instead of going to the US, those Brazilian beans are now going to China. To
+      make matters worse for another segment of the US economy, China sharply reduced—then
+      nearly eliminated—purchases of US propane and natural gas due to retaliatory tariffs
+      and escalating trade tensions since February. By mid-2025, US energy exports to
+      China, including propane and LNG, had effectively dropped to zero, with China
+      sourcing most of its supply from Russia, Iran, and the Middle East instead. Consider
+      what has happened to the $4 billion propane and LPG market. In early 2025, China
+      announced and implemented steep retaliatory tariffs (up to 125%) on US propane,
+      slashing imports by 31% in March alone and causing a scramble for alternative
+      Middle Eastern suppliers. Trump’s tariffs rendered US propane noncompetitive:
+      Chinese buyers rapidly replaced US cargoes, leading to a full collapse in trade
+      by summer. The US, once China’s top propane supplier, lost its market share almost
+      overnight, while China’s plastics and petrochemical industries found replacements
+      in the Middle East, Russia, and Iran. We have seen a similar move with natural
+      gas (LNG) , although it is not as financially significant as is the propane trade.
+      By June 2025, US LNG exports to China had also halted, partly because of similar
+      tariff and trade obstacles. China increased imports from alternative sources,
+      notably Russia and other non-Western partners, cementing a broader energy decoupling
+      from the US. This abrupt drop in US sales deeply impacted American exporters,
+      as China had been a key growing market until trade hostilities escalated. So,
+      if you are keeping score at home, Trump’s tariff policies have screwed American
+      farmers who grow soybeans and corn, and has hurt producers of propane, LPG and
+      LNG. I don’t think those sectors of the economy believe that Trump is Making Them
+      Great Again . Oh, news from one more damaged sector of the US economy… but this
+      is not about tariffs. Did you pay attention to Trump’s announcement on Tuesday
+      that he was approving 600,000 visas for Chinese students to attend American colleges
+      and universities? Why did he do that? Because he was getting enormous pressure
+      from lobbyists for those US academic institutions, who are hemorrhaging foreign
+      students since Trump’s crackdown of foreign students. It turns out that the Chinese
+      students usually pay full freight. In other words, they are a profit center for
+      cash-strapped academic institutions. Trump’s crackdown on foreign students earlier
+      this year has created a financial crisis for several academic institutions. I
+      think that Trump’s move on the visa front comes too-little-and-too-late . I discussed
+      some of these issues today with Danny Davis and with the great George Galloway.
+      George is a new friend… we spent some quality time together in Moscow in June.
+      Enjoy:'
+    one_sentence_summary: Trump's tariffs aimed at undermining BRICS have instead strengthened
+      ties among its members, particularly India and China, leading to India's strategic
+      response that balances diplomatic caution with domestic pressures for retaliation
+      against the U.S.
+    paragraph_summary: Trump's implementation of tariffs aimed at undermining BRICS
+      has backfired, inadvertently strengthening ties among its member nations, particularly
+      India and China. In response to the 50% tariffs, India has engaged in diplomatic
+      negotiations for exemptions while also facing domestic pressures for boycotts
+      and a push for self-reliance, particularly regarding its essential Russian oil
+      imports for energy security. Although Prime Minister Modi has maintained a cautious
+      diplomatic tone to avoid escalating tensions that could jeopardize India's significant
+      exports to the US, there is a growing anti-American sentiment among the public
+      and political voices in India, complicating US-India relations. The economic impact
+      of the tariffs, estimated by Morgan Stanley at $23 billion, is significant but
+      manageable, reflecting India's confidence in its economic resilience and geopolitical
+      position. However, the contrast between public frustration and the government's
+      pragmatic approach highlights ongoing tensions as India navigates its relationship
+      with the US amidst these tariffs.
+    published: '2025-08-28T03:21:16+00:00'
+  - title: Trump’s Tariff Policy is Empowering BRICS… A Look at India and China
+    url: https://sonar21.com/trumps-tariff-policy-is-empowering-brics-a-look-at-india-and-china/
+    text: 'BRICSvsG7 Trump’s attempt to derail BRICS by implementing tariffs is backfiring
+      badly. Instead of convincing India, China and Brazil to separate from Russia and
+      come crawling to Washington to, “ kiss Trump’s ass ,” Trump’s tariff debacle has
+      resulted in forging closer ties among the BRICS founders. This is especially true
+      with respect to India and China. India has reacted to Trump’s 50% tariffs with
+      a combination of diplomatic efforts to negotiate exemptions, domestic calls for
+      boycotts and self-reliance, and a defense of its Russian oil imports as essential
+      for energy security. While Modi is shying away from launching verbal bombs at
+      Trump, political and industry voices in India are demanding stronger retaliation,
+      and social media is amplifying growing anti-American sentiment. Economically,
+      India is poised to absorb the tariff hit, leveraging its market size and diversification.
+      India’s response is strategically cautious, balancing diplomatic restraint with
+      domestic pressures to resist perceived US bullying. The government’s mild rhetoric
+      and focus on negotiations reflect an understanding that escalation could harm
+      $86.5 billion in annual exports to the US, particularly for labor-intensive sectors
+      like textiles and seafood. However, the boycott calls and opposition’s strong
+      language indicate growing anti-American sentiment, which will complicate US-India
+      relations, especially after India’s concessions like allowing Starlink and importing
+      US energy. The tariffs’ economic impact, while significant, is not catastrophic
+      (Morgan Stanley’s $23 billion GDP hit estimate), and India’s measured approach
+      suggests confidence in its economic resilience and geopolitical leverage. Yet,
+      the lack of immediate retaliation contrasts with sentiments on X (e.g., @RT_India_news)
+      advocating for a tougher stance, highlighting a divide between public frustration
+      and government pragmatism. The tariffs went into effect today (August 27th), which
+      increased to 50% on Indian goods (from an initial 25%) because India continued
+      to purchase Russian oil, have sparked significant economic and political responses.
+      India’s government has adopted a milder tone compared to China or Brazil.  The
+      Ministry of External Affairs called the tariffs “unfair” and “unjustified,” arguing
+      that India’s Russian oil imports are driven by market factors and energy security
+      needs for its 1.4 billion population. Prime Minister Narendra Modi stated that
+      India “will never compromise on the interests of the country’s farmers, fishermen,
+      and livestock breeders,” even at personal political cost. The government has signaled
+      it will take “all actions necessary” to protect national interests, though it
+      has not hinted at immediate escalation or retaliatory tariffs. Modi emphasized
+      self-reliance in a Bengaluru speech, urging prioritization of Indian technology
+      companies, though he avoided naming specific US firms. This aligns with broader
+      efforts to promote domestic brands amid boycott calls. India has defended its
+      Russian oil purchases as essential for energy security, noting that other nations
+      (including US allies) also trade with Russia. This stance is supported by Russia’s
+      Kremlin, which called the tariffs an attempt to “force countries to stop trade
+      relations” with Moscow. On the diplomatic front, India is coordinating with its
+      BRICS partners (e.g., Brazil and India) to explore legal options through the World
+      Trade Organization, citing “strength in numbers” to challenge the US tariffs.
+      India’s role in BRICS, with its push for local currency trade (e.g., rupee payments
+      for Russian oil), strengthens its economic resilience against US pressure, though
+      this is a long-term strategy rather than an immediate countermeasure. Meanwhile,
+      anti-American sentiment in India has grown, with social media campaigns and offline
+      movements urging boycotts of US brands like McDonald’s, Coca-Cola, and Apple.
+      A graphic titled “Boycott foreign food chains” circulated on platforms like WhatsApp
+      , listing Indian alternatives to US products. Rahul Gandhi, leader of the Indian
+      National Congress, labeled the tariffs “economic blackmail” and an attempt to
+      “bully India into an unfair trade deal.” This reflects strong domestic political
+      pressure to resist US demands. Farmer leaders like Gurnam Singh Charuni of the
+      Bharatiya Kisan Union called for a “total ban” on US companies in retaliation,
+      reflecting agricultural sector fears of losses (e.g., $20 billion from US dairy
+      exports flooding the market). The gem and jewelry sector faces potential losses
+      of $3 billion annually, and textile exporters expect $5 billion in business to
+      shift elsewhere due to the tariffs. India’s stock market showed little panic immediately
+      after the tariff announcement, suggesting confidence in the economy’s ability
+      to absorb the shock. The estimated GDP impact is ~60 basis points ($23 billion)
+      even under a full 50% tariff scenario, significant but not debilitating. India
+      is leveraging its role as a “China-plus-one” destination, with firms like Apple
+      maintaining production (e.g., semiconductors are tariff-exempt). The biggest unanticipated
+      result of Trump’s attempt to bully India with tariffs is that Modi has moved to
+      set aside longstanding friction with China and seek a closer relationship with
+      China’s President Xi. They are meeting next week in China. Turning to China .
+      I discussed in a previous post how Trump’s tariffs have killed US exports of soybeans
+      to China and led to a dramatic redirection of coffee bean exports from Brazil
+      — instead of going to the US, those Brazilian beans are now going to China. To
+      make matters worse for another segment of the US economy, China sharply reduced—then
+      nearly eliminated—purchases of US propane and natural gas due to retaliatory tariffs
+      and escalating trade tensions since February. By mid-2025, US energy exports to
+      China, including propane and LNG, had effectively dropped to zero, with China
+      sourcing most of its supply from Russia, Iran, and the Middle East instead. Consider
+      what has happened to the $4 billion propane and LPG market. In early 2025, China
+      announced and implemented steep retaliatory tariffs (up to 125%) on US propane,
+      slashing imports by 31% in March alone and causing a scramble for alternative
+      Middle Eastern suppliers. Trump’s tariffs rendered US propane noncompetitive:
+      Chinese buyers rapidly replaced US cargoes, leading to a full collapse in trade
+      by summer. The US, once China’s top propane supplier, lost its market share almost
+      overnight, while China’s plastics and petrochemical industries found replacements
+      in the Middle East, Russia, and Iran. We have seen a similar move with natural
+      gas (LNG) , although it is not as financially significant as is the propane trade.
+      By June 2025, US LNG exports to China had also halted, partly because of similar
+      tariff and trade obstacles. China increased imports from alternative sources,
+      notably Russia and other non-Western partners, cementing a broader energy decoupling
+      from the US. This abrupt drop in US sales deeply impacted American exporters,
+      as China had been a key growing market until trade hostilities escalated. So,
+      if you are keeping score at home, Trump’s tariff policies have screwed American
+      farmers who grow soybeans and corn, and has hurt producers of propane, LPG and
+      LNG. I don’t think those sectors of the economy believe that Trump is Making Them
+      Great Again . Oh, news from one more damaged sector of the US economy… but this
+      is not about tariffs. Did you pay attention to Trump’s announcement on Tuesday
+      that he was approving 600,000 visas for Chinese students to attend American colleges
+      and universities? Why did he do that? Because he was getting enormous pressure
+      from lobbyists for those US academic institutions, who are hemorrhaging foreign
+      students since Trump’s crackdown of foreign students. It turns out that the Chinese
+      students usually pay full freight. In other words, they are a profit center for
+      cash-strapped academic institutions. Trump’s crackdown on foreign students earlier
+      this year has created a financial crisis for several academic institutions. I
+      think that Trump’s move on the visa front comes too-little-and-too-late . I discussed
+      some of these issues today with Danny Davis and with the great George Galloway.
+      George is a new friend… we spent some quality time together in Moscow in June.
+      Enjoy:'
+    one_sentence_summary: Trump's tariffs aimed at undermining BRICS have instead strengthened
+      ties among its members, particularly India and China, leading to India's strategic
+      response that balances diplomatic caution with domestic pressures for retaliation
+      against the U.S.
+    paragraph_summary: Trump's implementation of tariffs aimed at undermining BRICS
+      has backfired, inadvertently strengthening ties among its member nations, particularly
+      India and China. In response to the 50% tariffs, India has engaged in diplomatic
+      negotiations for exemptions while also facing domestic pressures for boycotts
+      and a push for self-reliance, particularly regarding its essential Russian oil
+      imports for energy security. Although Prime Minister Modi has maintained a cautious
+      diplomatic tone to avoid escalating tensions that could jeopardize India's significant
+      exports to the US, there is a growing anti-American sentiment among the public
+      and political voices in India, complicating US-India relations. The economic impact
+      of the tariffs, estimated by Morgan Stanley at $23 billion, is significant but
+      manageable, reflecting India's confidence in its economic resilience and geopolitical
+      position. However, the contrast between public frustration and the government's
+      pragmatic approach highlights ongoing tensions as India navigates its relationship
+      with the US amidst these tariffs.
+    published: '2025-08-28T03:21:16+00:00'
   - title: Besides Losing the Proxy War in Ukraine, NATO Also is Losing the Economic
       War with BRICS
     url: https://sonar21.com/besides-losing-the-proxy-war-in-ukraine-nato-also-is-losing-the-economic-war-with-brics/

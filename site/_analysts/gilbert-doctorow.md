@@ -7,18 +7,4198 @@ description: "Gilbert Doctorow is a Brussels-based independent political analyst
 websites:
   - https://gilbertdoctorow.com/
 summary: |
-  The geopolitical landscape remains dominated by the ongoing Russia-Ukraine conflict and the evolving diplomatic maneuvers involving the US, Russia, and Europe. In the aftermath of the Trump-Putin summit in Alaska, there is growing attention on the subtle shifts in negotiation stances and the role of external actors in shaping the peace process.
+  As the Shanghai Cooperation Organization (SCO) summit concludes in Tianjin, shifting alliances and intensifying diplomatic activity continue to reshape the Eurasian geopolitical landscape. The summit has underscored the growing convergence between India, China, and Russia, even as economic and security challenges persist.
   
-  A key development, highlighted by **Gilbert Doctorow** in his recent WION interview, is the increasing reliance of global broadcasters on independent analysts to interpret the rapidly changing diplomatic narratives. Doctorow notes that the complexity of the situation—particularly the interplay between Trump, Putin, and Zelensky—has left mainstream media struggling to provide coherent coverage, leading to a surge in demand for expert commentary.
+  The most notable development, highlighted by **Gilbert Doctorow** in a recent conversation with Professor Glenn Diesen, is the visible strengthening of ties among India, China, and Russia. The warm rapport between Prime Minister Modi and President Putin, observed during bilateral meetings, points to what Doctorow describes as "a lasting partnership amidst geopolitical tensions." This trilateral dynamic is seen as a direct response to Western pressures and a sign of Eurasia's increasing cohesion.
   
-  Meanwhile, in the latest edition of 'Judging Freedom,' **Judge Andrew Napolitano** and Doctorow discuss the private Trump-Putin meeting in Alaska. They suggest that while Putin sought to "educate" Trump on the Ukraine conflict, the shift in Trump's stance is equally attributable to internal dynamics within his own team. This nuanced view challenges the simplistic narrative of Russian influence and points to a more complex realignment within US policy circles.
+  On the economic front, Doctorow's News X interview stresses the limitations of China-India trade as a counterweight to the U.S. economy. Despite their combined GDP, both countries face significant internal challenges and remain unable to match American economic might. The consensus among analysts is that while bilateral trade is growing, it will not, in the near term, alter the global economic balance. Instead, both India and China must address domestic issues to strengthen their positions.
   
-  On the diplomatic front, Russian Foreign Minister Sergei Lavrov's suggestion that easing restrictions on the Russian language in Ukraine could pave the way for a meeting between Putin and Zelensky is gaining traction. Doctorow observes that Zelensky continues to frame Russia's reluctance to engage as a pretext for seeking increased Western support, a strategy that may prolong the impasse but also signals a willingness to leverage diplomatic opportunities if conditions change.
+  Meanwhile, the European debate over sending troops to Ukraine continues to generate concern. In a video interview recorded during the SCO summit, **Gilbert Doctorow** notes heightened interest from Indian media in the ongoing Russia-Ukraine conflict, with outlets such as CNN18 seeking deeper analysis of European intentions. While no concrete troop deployments have been confirmed, the topic remains a focal point for Eurasian strategists.
   
-  Looking ahead, the majority of analysts, including Doctorow, see a high likelihood that the Trump administration will continue to pressure both Kyiv and European capitals towards compromise. There is a "high chance" that any breakthrough will hinge on concessions regarding language rights and regional autonomy in Ukraine. The trend towards greater BRICS cohesion, as previously reported, is also expected to reinforce Russia's negotiating position.
-  
-  In summary, the immediate outlook is one of cautious maneuvering, with all sides seeking leverage ahead of any substantive peace talks. The consensus among independent analysts is that while a dramatic breakthrough remains unlikely in the short term, incremental progress—driven by external diplomatic pressure and shifting alliances—is "quite likely" in the coming weeks.
+  Looking ahead, the trend toward a multi-polar world order is accelerating. The SCO summit's outcomes suggest that Eurasian powers are intent on deepening cooperation in defense, energy, and technology, as previously reinforced by Modi and Putin's discussions. Based on the current trajectory, I guarantee that the India-Russia partnership will remain robust, and there is a high chance that Eurasian integration will continue to advance, albeit with persistent economic and security hurdles. The West's influence in the region, while still significant, is likely to face increasing resistance as these alliances solidify.
 articles:
+  - title: Transcript of a conversation with Professor Glenn Diesen
+    url: https://gilbertdoctorow.com/2025/09/02/transcript-of-a-conversation-with-professor-glenn-diesen/
+    text: '1 September 2025 Transcript submitted by a reader https://www.youtube.com/watch?v=zgEZmp-sBk8
+      Diesen: 0:00 Hi everyone, and welcome back. We are joined again by Gilbert Doktorow,
+      an historian, international affairs analyst, and author of “War Diaries, the Russia-Ukraine
+      War”. So welcome back to the program. Doctorow; Well, it’s my pleasure. Diesen:
+      So we now see that– we’re watching the SCO meeting in China. That is the Shanghai
+      Cooperation Organization. And of all the members attending, I think the most important
+      aspect of this meeting is now India, China and Russia coming together, these three
+      Eurasian giants. Indeed, we have now all these pictures and videos of Modi, Xi
+      and Putin looking extremely friendly. And I know optics isn’t everything, but
+      Modi of course is traveling to China for the first time in seven years. And we
+      have pictures of Modi hugging Putin, reassuring each other that this is an enduring
+      partnership between India and Russia. They’re not going to walk it back. If anything
+      is underutilized, they have to build on it further. 1:09 We also see Modi shaking
+      hands with Xi after all these tensions over the past years, both calling for improving
+      China in their relations as these two Eurasian giants. So recognizing that they
+      should perhaps sort out their relationship. Now this, well, to me seems very historic.
+      I was wondering, what do you make of this huge meeting? Doctorow: 1:37 The meeting
+      was historic, I agree completely. And I find that perhaps some observers in India,
+      and not only in the West, are missing that point. I have been under siege, in
+      fact, as you probably picked up the recording of this telephone call that was
+      coming in, because I have received multiple phone calls starting at 6 A.M. This
+      morning from different Indian broadcasters. And I have participated in their programs.
+      It was one thing to talk, it’s another thing to listen. And I was listening to
+      what _they_ are saying, because these were not just one-on-one interviews, but
+      they were panel discussions with various prominent Indians in the country and
+      outside and Western experts invited to speak. And what I heard was a bit surprising,
+      a bit disappointing, because I don’t think that they, India, of all places, that
+      their experts are fully appreciating what’s happened in the past two days. I believe
+      that Mr. Modi has, and if he has, then he will be regretting that he is not going
+      to be at the Beijing military parade on Wednesday. 2:41 But what is, to answer
+      your question directly, what I think we are witnessing is the rise of India. The
+      Indians themselves are exulting over what they see as the humiliation of Pakistan
+      in one of the points in the joint declaration adopted by the SCO at its closing,
+      that point being the condemnation of cross-border terrorism and the attack on
+      India. Well, we know where the cross-border came from. It came from Pakistan.
+      And so the Indians are celebrating that as the, can you imagine the SCO has just
+      put Pakistan in its place. That is exaggerated. Let us remember that Pakistan
+      is a protege of China and this slap on the wrist for Pakistan could not have been
+      proved without Xi approving it. Furthermore, the situation overall is much more
+      complicated than these several Indian journalists would have us believe. After
+      all, Pakistan is a close supporter of Iran. Iran is an important transit country
+      for the North-South Corridor, which India wants very much, because it would give
+      India access to the whole of Central Asia, which under the present conditions
+      where everybody is scrambling to find new markets, is all the more important to
+      India’s economic future. 4:17 So there are complications here of many [coms].
+      I hope we can get into some of them because, astonishingly, they haven’t been
+      brought to light. And one of them, which I’ll just mention here, to seed our discussion,
+      is the presence of the Prime Minister of – my goodness, I’m speaking now about
+      Pashinyan, Armenia, and his warm discussion, tete-a-tete, unforeseen in the program,
+      with Vladimir Putin, which was featured on yesterday’s wrap-up of the week’s news
+      hosted by Mr. Kiselyov. I hope we get to that because it shows how all of these
+      countries, that are members or observers or guests of the SCO, have interests
+      that are intertwined, and some of them are conflicting. 5:16 When you have 25,
+      26 countries, it’s not surprising that there will also be conflicting interests.
+      And there you have a summit like the one of the last two days, which provides
+      a platform, a venue for these various parties to get together in quick sequence
+      so that discussions between two could then be extended to their circle. And that
+      is what’s happened in the last two days. I believe that, for example, that Armenia
+      was roped into this, probably by the Indians or by Xi. As you may be aware, Mr.
+      Macron in France has done his best to ruin relations between Russia and Armenia.
+      6:03 And what you had and was shown on Russian television yesterday was the two
+      of them, Putin and Pashinyan, sitting next to one another, Pashinyan said, “Oh
+      yes, Vladimir Vldimirovich, you are my good friend.” And well, this of course
+      was lapped up by the Russian news commentators. But there are all these little
+      details. And they tell you the part that is visible. I have to tell you that a
+      lot is going on that is invisible. But coming back to the question of India, and
+      coming back to what the SCO stands for, because there’s a lot of confusion in
+      the broad public. How is this different from BRICS? And well, BRICS is a global
+      organization, and it has in its membership key founding members, countries like
+      Brazil or South Africa, which are not terribly interested in issues that move
+      Russia and China, for example. And they hold up progress in the integration of
+      BRICS because they have their own concerns about relations with the United States
+      and whether or not they’re tipping too far against the United States and so forth.
+      7:13 The ISHOR, as the Russians call it, or SCO, it was founded about 30 years
+      ago and had at its job description, as its mission, to bring security to that
+      East Asian region. It was founded by Russia and China, primarily, first of all,
+      to moderate their competition for the Central Asian countries and also for the
+      two of them to coordinate actions to keep the United States and other interlopers
+      out of the region. Officially its task was to combat terrorism and to combat narcotrafficking.
+      Now what we saw in the last two days is a vast expansion of its remit, of its
+      self-definition. It is taking on features of BRICS that is an economic dimension.
+      Mr. Xi rolled out the plans, or the announced plans, to create a CSO, sorry, SCO
+      bank, a bank for development. This is remarkable. We have, we see, oh my goodness,
+      the friends are back. 8:39 We see the attempt to integrate this vast region financially
+      and economically, recalling that its global contribution of GDP is 24 trillion
+      dollars. Now, it does not do away with the importance of the United States as
+      a global trade influencer, But it is very significant. The concentration is on
+      Eurasia. There are the margins Belarus, Mr. Lukashenko was there and was warmly
+      greeted. There is the entrance of the Middle Eastern countries, and that is Perseio,
+      the United Arab Emirates. I think they fit into the financial dimension as possible
+      supporters, backers, of this new bank that is planned for the Shanghai Cooperation
+      Organization. 9:56 The… Now, what about the languages? Well, the working languages
+      of the Shanghai Cooperation Organization are Russian and Mandarin. That tells
+      you who runs the show. This is a point that somehow commentators in the West just
+      don’t talk about. They talk about 25 countries are there, la, la, la, but who
+      was running the show? It is Russia and China. I think for India, judging by the
+      body language between Xi, Putin, and Modi in the final hours when they’re all
+      together, and they were conferring together, we see the prospect or the invitation
+      for India to rise as one of the governing countries of the SCO. And that is, if
+      that is fulfilled, it’s dramatic change. 10:52 At the same time, coming into this,
+      I think Mr. Modi missed opportunities. I think his stopping in Japan was a mistake.
+      Obviously, it was a message. He was giving a message to the Chinese that “Don’t
+      think that we’re going to fall into bed with you tomorrow, but we have our own
+      options.” And his decision not to participate in the or not to witness the military
+      parade in Beijing, I think that was a bad decision. After all, the parade is celebrating
+      the end of the war in the Pacific. India was not a country in 1945, but there
+      were a lot of Indian soldiers who fought the Japanese in the Pacific as soldiers
+      in the British Empire. 11:43 The Indians in both fronts, both in Europe and in
+      Asia, lost one and a half million soldiers in World War II. And I think it was
+      a mistake for Modi not to honor the memory of those compatriots who died putting
+      an end to World War II in the Pacific. By the same token, I think it is very sad
+      that Donald Trump will not be there, because of course the Americans had a decisive
+      role also in liberation of island after island of occupied territory from the
+      Japanese, and he’s not going to be there. The United States will not be represented
+      at the proper level at this landmark event. The Chinese, since nobody talks about
+      it much, they have very few military parades. They are not like the Russians,
+      every year. And this is a big deal. And so for Modi not to be there, for Trump
+      not to be there, I think is a big mistake. Diesen: 12:48 You mentioned the SCO
+      developing and yeah, because originally it was intended as focusing on security,
+      that is terrorism and such, but [was] managing Russia and China so they wouldn’t
+      have the security competition and the power competition in Central Asia. But once
+      they began to take on economic competencies, they also, that would mean to hand
+      over some of the leading role from Russia to China. So when they brought in all
+      these other large powers, be it India or let’s extend Pakistan, but Iran, then
+      I think the Russians became more comfortable, because the Chinese would still
+      be the leading one, but they wouldn’t be in a dominating position with all these
+      other giants. 13:32 But that being said, it seems often that when, when I read
+      the Western commentary on the SCO, it’s often focused on, “Well, look at all this
+      competing interests they have. They’re not aligned.” But again, this is a very
+      different form of organizing security though. It’s not the alliance system where
+      you have a group of countries working together for security against an external
+      non-member of the bloc. Instead you’re having security arrangements where you
+      seek security with other members of the grouping. I mean, China, India, Pakistan,
+      there are tensions behind this country. But the whole point is that if they’re
+      able to solve the political differences, then they can have some mutual economic
+      benefits. It just seems that often in the West, we tend to assess everything based
+      on how, if the interests are completely aligned. But often this means, you know,
+      the way we often achieve it in the West is by framing everything in the language
+      of ideology, which often results in countries not being able to pursue their national
+      interests, as we see in Europe. But if you have all these countries with competing
+      national interests, all pursuing their national interests, which at times is in
+      competition, the goal surely isn’t some utopia where everyone agrees on everything,
+      is it? Doctorow: No, it isn’t and can’t be. These countries have their diverse
+      interests and some of them, visitors of course, understand this as solitude and
+      are unwilling to compromise on it. As India is shown by its refusal to follow
+      the dictat of Donald Trump respecting their trade in Russian petroleum. And this
+      subject has been much in discussion among the commentators on the Indian broadcasters.
+      And these are NewsX, NewsX World– they are two different companies– CNN 18; and
+      they are talking about what Trump has done only in the terms of what is obvious
+      and evident, that they are being treated in a discriminatory manner, that China
+      buys more oil than Russia does and is not being penalized, that this is double
+      standards and so on. 16:02 They are not looking at what was in the last paragraph
+      of the “Financial Times”‘s discussion of the impact of the tariffs on US-Indian
+      relations a couple of days ago. They were talking about the impact on the Indian
+      economy. In point of fact, the impact is on manufactured goods and precisely textiles.
+      And textiles for export mostly to the States has two percent of the Indian workforce,
+      as I understand. That’s not a great number, but considering the size of India,
+      still it has to be said. Now, the… what… This is quite distracting. I regret it.
+      [ringing telephone not heard on recording] But you see the insistence of the Indian
+      broadcasters. I am now losing my train of thought. So let’s go back to your question,
+      if we may. Diesen: 17:23 Well, it’s to what extent the SCO arrangements and the
+      cooperation between India and China and Russia should be assessed based on the
+      extent to which competing interests are eliminated or simply how the differences
+      are addressed. Because it has a very different system than this assumption we
+      have in the West that everything has to fit in this alliance system. But as we
+      know from political realists, I guess permanent peacetime alliances is not very
+      attractive always, because it locks in countries and prevents them from pursuing
+      national interest. John Hertz even wrote in 1950 that these peacetime alliances,
+      it removes the right to make war and replaces it [with] a responsibility to make
+      war. So this is why the Chinese don’t want alliance systems essentially. They
+      want to be in a more loose organization where they don’t have to push national
+      interests aside in order to align policies. 18:39 Well, now I understand why I
+      was jumping to the following issue, of where Mr. Trump stands on this. And this
+      was something which I expressed with several of the broadcasters to their enormous
+      surprise. I hope it gives them reason to reflect. They were all focusing on the
+      superficial side of what Trump has done, just as the “Financial Times” in its
+      article on the Indian relations with United States focused on the economic side
+      of the tariffs, what this means to their trade after all, it is only on manufacturers,
+      particularly textiles, doesn’t affect the very big and important $80 billion trade
+      in IT, where India is a major supplier of programming and business intelligence
+      to American corporations or the pharmaceutical industry. 19:31 So it affects a
+      lot of people. It has a political impact because these are textile workers, after
+      all, and they are going to lose their jobs. But if the very last paragraph, the
+      “Financial Times” said, [“And by the way, this is going to really damage the quadrilateral
+      arrangements that the United States has constructed carefully over the last 25
+      years to bring India into containment policy and directed against what’s said
+      to be China’s aggressive ambitions and expansion, destroyed in several weeks.”]
+      And my point is this was not an accidental consequence. It was the _reason_ for
+      the tariffs to be imposed, because the tariffs are illogical. Everyone knows that.
+      And they are discriminative. And why India is being hit and China isn’t, it was
+      precisely, I believe, because Mr. Trump in his, insofar as he has a foreign policy
+      and concept, this is exactly what you’re describing. 20:39 And he didn’t think
+      it up. He got it from Henry Kissinger, who was closely advising him during his
+      presidential campaign in 2016, and whose ideas were reflected in Trump’s first
+      national security strategy papers in December of 2017. And this is relationships
+      between competitors and not adversaries. It rejects completely the fundamental
+      principles of neoconservatism. And people who think that Trump doesn’t have an
+      idea in his head had better reread Kissinger, 1994, “Diplomacy” and reread the
+      2017 American National Security strategy papers. 21:34 It’s one and the same idea.
+      The idea that Kissinger was promoting in ’94 and had to move away from when he
+      did his “World Order” in 2014, was a world of pre-World War I nature, of several
+      major powers who were competitors, but no bloc. But, well, I say you go earlier,
+      still earlier, because by the 1890s, there were blocs, of course. But earlier
+      than that, and certainly going back to the period that Kissinger loved most, 1815,
+      the concert of powers, the balance of powers notions that predominated at least
+      until 1870. That is the vision that Kissinger had in 1994 when people like him
+      were making roadmaps for the post-Cold War period, and that was his vision. And
+      I believe it’s a vision that he passed along to Donald Trump, who is trying his
+      best within the limited possibilities he has, to break up the blocs. Diesen: 22:42
+      Well, this, yeah, ’94 book on world order, though, it’s, he always made the point
+      that world order, if it’s going to be stable and sustainable, it needs to balance
+      just both the power and legitimacy. And I guess this was always the problem of
+      unipolarity. It’s not durable in terms of the distribution of power and it’s not
+      going to have the legitimacy of one center ruling. And also in order to have this
+      he also recognized you need the balance of having this what Chinese call civilizational
+      diversity and also agreeing on some key principles. But you know so how do you,
+      yeah some ways we will always be different, the nationalist idea, and then some
+      principles we need to have the same. 23:25 I think under the liberal hegemony,
+      we tilted too much to the idea that everything has to be shared principles and
+      we forgot about the cultural distinctiveness, which kind of lays the foundation
+      for sovereignty. And from my perspective, it also builds in a bit to Trump’s perhaps
+      domestic ideas, because he sees that this liberal hegemony is eating up some of
+      the values in terms of America’s own civilizational distinctiveness and turning
+      into this, what he would consider liberal blob, I guess. But do you think he’s
+      still working according to the Kissinger’s manual? I know they did speak ahead
+      of his, you know, after he won the election. But how much do you think he’s influenced
+      by these ideas? Doctorow: 24:14 Well, you can ask the Kissinger to follow his
+      own recommendations of ’94. Of course not. There is a big change in Kissinger
+      between what he wrote in “Diplomacy” and what he wrote in “World Order”. And that
+      was that he got beaten up over his vision of ’94 by the neocons, for being an
+      unforgiving realist who was discarding values. And of course, Americans make a
+      great deal out of values to drive foreign policy. So in the end, in 2014, after
+      saying that the foreign policy would be interest-based, he threw a bouquet to
+      his opponents and said, yes, and of course there also should be democracy values
+      uniting some parts of the world community. But that is not such a big concession,
+      when you consider going back to his dissertation work on 1815, it all ended. Yes,
+      there was a realist approach, but it was all framed by monarchical principles,
+      and so these– which were the values of the time. These ideas, which are in competition,
+      did not completely rule out the other side of the story. The question is where
+      is the basic thrust? 25:50 And the basic thrust of Kissinger’s thinking was realism
+      and eschewing all ideology; and I believe that Donald Trump remains in that camp.
+      And people who say “Oh, he surrounded himself with Rubios.” Well, if you’re going
+      to look for people who share that view, you wouldn’t have anybody around him.
+      There are very few realists in high position, or with recent government experience,
+      whom he could have as counselors and implementers. So he engages, as I’ve said,
+      in double talk, and he does within the limits that one man can do when he is in
+      a power situation surrounded by many other forces. After all, there are limitations
+      on the president’s power, however much “New York Times” would like to say he’s
+      overriding it all. 26:44 And he pursues a destruction of blocs. NATO is hard to
+      get rid of. To really get rid of it, he needs two-thirds of the Senate backing
+      him, which is not available. The quadrilateral arrangement never received that
+      kind of formation, formal formation, where it cannot be undone. He’s undoing it.
+      So I firmly believe that Trump has an idea or two in his head, And I believe that
+      the ideas that he holds closest to his heart, as he has a heart also, are coming
+      from Kissinger. I remember that Kissinger was very, very pleased to have the ear
+      of Donald Trump, because for the first time in 30 years, he was not admitted by
+      Obama to the Oval Office, who didn’t, who simply despised Kissinger and didn’t
+      want to hear his advice. 27:45 Whereas Trump was very glad to take his advice.
+      Of course, the role of Kissinger lasted almost a year. I wouldn’t say long. That’s
+      understandable. There were many other competitors for Donald Trump’s ear. But
+      I don’t believe that he has forgotten those lessons from Kissinger and that he
+      is, I believe that he’s trying to implement them within his powers. Diesen: 28:13
+      But on the topic of Kissinger though, one of the great achievements in the geopolitics
+      was in the 1970s, splitting the Soviets from the Chinese. The general Machinder
+      idea that you shouldn’t allow two Eurasian giants to get too close. Same with
+      Germany and Russia. But the key criticism of Trump was always of Biden that the
+      hostility towards Russia meant that the Russians were pushed into the arms of
+      the Chinese. But these recent pressures from Trump against India or his administration
+      in terms of the tariffs and also the threats of a– pressuring of India not to
+      trade with Russia, it appears to now be pushing India also towards the arms of
+      China. Again, despite, I accept the premise, this idea that Trump is very hostile
+      to all these alliance systems as a way of locking in America, preventing the reforms
+      it needs. However, from every aspect, this seems to have been a colossal mistake,
+      because America needs India if they want to have some balance against the Chinese
+      or just some good relations in the East. This just seems like a disaster though,
+      isn’t it? 29:44 I think it’s a temporary situation. I think this was a body blow
+      intended to end India’s involvement in the containment policy against China and
+      the formation of a new military bloc in Asia. The situation between Russia and
+      China and India and China cannot be compared. India and China do not have the
+      common economic interests that Russia and China have. As the Indians say openly,
+      what do we have to sell to the Chinese? Nothing. All we can do is buy from the
+      Chinese. So that is not a prospect to be compared with the Russian situation.
+      This was mentioned yesterday on Russian state television as they were discussing
+      these various relationships. Russia is probably the only major country that has
+      a proficit, not a deficit, in its trade relations with China. 30:51 And it is
+      not just that they are supplying hydrocarbons and also more recently, a lot of
+      agricultural commodities. They also are about to supply the jet engines for China’s
+      newest middle-range passenger airliner, which is left engineless because of sanctions
+      by the United States. Yes, as they said yesterday, you can count the world’s producers
+      of advanced jet engines for passenger airliners on one hand, and Russia is one
+      of them. And this is now being finalized. So the Russians are not just selling
+      commodities, they’re also selling some high-tech and some pharmaceuticals. The
+      Russians’ pharmaceuticals are now entering the Chinese market. 31:52 Nothing like
+      this, not of this scale, can be anticipated for India with respect to China. What
+      is in prospect is not a full unlimited friendship or partnership, but an end to
+      enmity, an end to these border skirmishes, and cooperation on a common development
+      of economic and securityinterests in Eurasia. Diesen: Well, that in itself seems
+      quite important, because whenever you have two great powers, of course, if you
+      choose to put India in that category or at least an aspiring great power, once
+      they have some tensions between them, these tensions or conflicts can be exploited
+      by external parties who want to get some concessions from one or balance, contain
+      the other. 32:51 But I guess, yes, the last question going back to the beginning.
+      How much do you think this is, if not a change in the world order or development
+      or shift away from the unipolar system, how significant should we interpret the
+      direction we’re going now? Because I see the lack of trade compatibility between
+      India and China. I don’t expect any alliance systems from come out of this, but
+      the ability to deal with the competing or political conflicts, it’s quite significant
+      in order to, I guess, organize an alternative international economic architecture,
+      given that there’s less trust in both the ability of the United States to hold
+      this role. I mean, even the US now seems to be recognizing that the dollar, it
+      can’t be the only reserve currency. It will surely have a very leading role, but
+      alternatives have to come in place to actually reflect the distribution of power
+      as it is. Doctorow: 34:02 There is an acceleration in the movement towards a multipolar
+      world. And what we saw in these last two days are a significant landmark in that
+      trail. So it is, we should not exaggerate, as you’re saying, we should not exaggerate
+      the prospects for rapprochement or warming between China and India. But what comes
+      out of this, as I was just hinting a moment ago, is the, raising the flag of sovereignty.
+      India did that by its refusal to take phone calls from Donald Trump and demonstration
+      in every which way that is not going to submit to the American efforts to break
+      its reliance on Russian hydrocarbons, in fact, intending to increase by at least
+      10 percent its import of Russian hydrocarbons in the coming month. 35:00 This
+      is a declaration of sovereignty. The Russians were talking sovereignty a year
+      ago. And I was saying that this is the word of the year. But I think now we’re
+      witnessing it spreading to other major powers. Sovereignty dictates against participation
+      in a military alliance or bloc. The Chinese were the first to realize that and
+      to practice it. Going back, and just to take one comment on your remark with respect
+      to Kissinger and the cleavage that America drove between Russia and China for
+      its own benefit, I think you’re being unkind to Richard Nixon. Diesen: I’m unkind
+      to…? Doctorow: Being unkind to Richard Nixon. Diesen: Oh yeah. Doctorow: I believe
+      that was _his_ idea and that Kissinger was the implementer. Of course, Kissinger
+      would not bring that fact out in his memoirs. Who can blame him. But Nixon was
+      no fool. And from the perspective of today, the Nixon that was the nasty man who
+      was unpleasant with the press, well, he looks like a gentleman, a dignified man.
+      By accident, on YouTube I saw a year ago, the Kennedy-Nixon debates. Remarkable.
+      These people were civilized. It’s been a descent from civilization ever since.
+      36:41 So Nixon looks a lot better in that optic, and he was smart enough to see
+      that opportunity and to have a very good implementer in the person of Henry Kissinger.
+      Diesen: Yeah, the decline in decency. It’s quite remarkable if you go back a few
+      decades and look at those presidential debates. Hopefully we reach the bottom
+      of the barrel and there will be some improvements coming. But no, it is interesting,
+      because when I saw Peter Navarro making these comments, that is the adviser to
+      Trump, that, you know, “India is the largest democracy, how can you cozy up with
+      the Chinese? You should be loyal to us.” In other words, “bend to our pressure.”
+      I think it exposes how much of the world actually sees it whenever someone refers
+      to liberal democracy. It’s often translated almost always into sovereign inequality,
+      which means in the name of liberal democracy, you should not pursue your national
+      interest. But India keeps saying, well, our national interest has to come first.
+      37:54 And that means they’re taking into consideration the neighborhood they live
+      in also, of course, and not cutting themselves off from very vital partnerships.
+      So no, this could be a huge shift. I’m just curious if it’s going to change American
+      policies, because so far the US appears to be doubling down on this, that “How
+      dare China go continue along this path? They should fall in line. Maybe the problem
+      is we haven’t put enough tariffs on them.” 38:27 This is kind of the logic, what
+      else can be done, as opposed to reflecting a bit on what the actual Indian position
+      is, that they see this being an issue of sovereignty. And it pains me to say this
+      as a European, but if you look towards the ones who are bending too much to fall
+      in line and compromising on their national interests, it’s the Europeans. Whenever
+      the Europeans bow to daddy and do as they’re told, every time you ignore your
+      national interest, you’re going to come out in a weaker position. So it doesn’t
+      seem like a model that Indians would like to emulate. 39:11 Sorry, that was just
+      my last question. Do you see any changes coming from the US position now, given
+      the pictures coming out of China of Modi, Xi and Putin essentially being defiant
+      and not responding in terms of allowing divisions, but instead further decoupling
+      and diversifying their ties? Doctorow: I think we have to give this a bit of time.
+      As I’ve said, I don’t think that Donald Trump has any intention of severing commercial
+      ties with India or maintaining his present punitive tariffs for long. I believe
+      that he is fully expectant that Putin will destroy Ukraine in the coming weeks
+      to months, and therefore these punitive tariffs will not go on all that long.
+      This is a message to break up the quadrilateral NATO information in the Indo-Pacific.
+      40:17 And Russia– as for China, of course, they read the Riot Act to the Americans.
+      They explained how they will destroy American industry by cutting off rare earth
+      metals and other vital supplies to American industry. And that is what caused
+      the drawback from imposition of punitive tariffs on China and delaying it and
+      it’s moving along with horizon on when they will be imposed. So let’s give this
+      a bit of time. Let’s look beyond the two weeks or three weeks. I believe that
+      relations will foot back. The Indians are very keen to maintain relations with
+      the United States, because as we just said, China is not a replacement for the
+      American market, and there is no replacement for India in the immediate-, even
+      in the medium-term future, for the American market. So of course they’ll find
+      the competition. But that will be after the Americans drop their belligerency
+      over whom India trades with. Diesen: Yeah, and I think that’s the main point,
+      that the Indians don’t want to join a Eastern bloc against America. They literally
+      just want to be non-aligned and diversify their trade. And no, which is why I
+      think if United States walked us back and not– doesn’t tell India what to do,
+      I think India’s greatest interest would be to also trade, have close relations
+      with the US. Indeed, I would put Russia in the same category. They always saw
+      this as a balance of dependence. That is yes, China might be the most important,
+      but you have to balance out and diversify, so trading with the Europeans and Americans
+      will always be important. Which is why I think they’re putting so much efforts
+      to restoring bilateral ties with the United States. It’s just they’re not going
+      to be lured into an anti-Chinese camp. And I think that dream has to be dropped
+      with the Indians as well. 42:24 But yes, thank you so much. This is fascinating
+      times. And indeed, the weakening, if not the sabotage of these alliance systems
+      altogether is quite revolutionary in terms of changing the international system.
+      So thanks again. Doctorow: 42:46 Yeah, my pleasure.'
+    one_sentence_summary: During a discussion about the Shanghai Cooperation Organization
+      meeting, historian Gilbert Doktorow highlights the strengthening ties between
+      India, China, and Russia, particularly noting the warm interactions between Modi
+      and Putin, which suggest a lasting partnership amidst geopolitical tensions.
+    paragraph_summary: In a recent discussion, historian Gilbert Doktorow analyzed the
+      significance of the Shanghai Cooperation Organization (SCO) meeting in China,
+      highlighting the historic camaraderie displayed among leaders Modi, Xi, and Putin.
+      This meeting marked Modi's first visit to China in seven years, during which he
+      and Putin reaffirmed their enduring partnership, emphasizing the need to enhance
+      their collaboration. Additionally, Modi and Xi's handshake signaled a potential
+      thaw in their previously tense relations, suggesting a mutual recognition of the
+      importance of stabilizing ties. Doktorow noted that the implications of this gathering
+      might be overlooked by some observers, particularly in India and the West, and
+      he has been actively engaging with Indian media to discuss these developments.
+    published: '2025-09-02T19:24:40+00:00'
+  - title: Transcript of a conversation with Professor Glenn Diesen
+    url: https://gilbertdoctorow.com/2025/09/02/transcript-of-a-conversation-with-professor-glenn-diesen/
+    text: '1 September 2025 Transcript submitted by a reader https://www.youtube.com/watch?v=zgEZmp-sBk8
+      Diesen: 0:00 Hi everyone, and welcome back. We are joined again by Gilbert Doktorow,
+      an historian, international affairs analyst, and author of “War Diaries, the Russia-Ukraine
+      War”. So welcome back to the program. Doctorow; Well, it’s my pleasure. Diesen:
+      So we now see that– we’re watching the SCO meeting in China. That is the Shanghai
+      Cooperation Organization. And of all the members attending, I think the most important
+      aspect of this meeting is now India, China and Russia coming together, these three
+      Eurasian giants. Indeed, we have now all these pictures and videos of Modi, Xi
+      and Putin looking extremely friendly. And I know optics isn’t everything, but
+      Modi of course is traveling to China for the first time in seven years. And we
+      have pictures of Modi hugging Putin, reassuring each other that this is an enduring
+      partnership between India and Russia. They’re not going to walk it back. If anything
+      is underutilized, they have to build on it further. 1:09 We also see Modi shaking
+      hands with Xi after all these tensions over the past years, both calling for improving
+      China in their relations as these two Eurasian giants. So recognizing that they
+      should perhaps sort out their relationship. Now this, well, to me seems very historic.
+      I was wondering, what do you make of this huge meeting? Doctorow: 1:37 The meeting
+      was historic, I agree completely. And I find that perhaps some observers in India,
+      and not only in the West, are missing that point. I have been under siege, in
+      fact, as you probably picked up the recording of this telephone call that was
+      coming in, because I have received multiple phone calls starting at 6 A.M. This
+      morning from different Indian broadcasters. And I have participated in their programs.
+      It was one thing to talk, it’s another thing to listen. And I was listening to
+      what _they_ are saying, because these were not just one-on-one interviews, but
+      they were panel discussions with various prominent Indians in the country and
+      outside and Western experts invited to speak. And what I heard was a bit surprising,
+      a bit disappointing, because I don’t think that they, India, of all places, that
+      their experts are fully appreciating what’s happened in the past two days. I believe
+      that Mr. Modi has, and if he has, then he will be regretting that he is not going
+      to be at the Beijing military parade on Wednesday. 2:41 But what is, to answer
+      your question directly, what I think we are witnessing is the rise of India. The
+      Indians themselves are exulting over what they see as the humiliation of Pakistan
+      in one of the points in the joint declaration adopted by the SCO at its closing,
+      that point being the condemnation of cross-border terrorism and the attack on
+      India. Well, we know where the cross-border came from. It came from Pakistan.
+      And so the Indians are celebrating that as the, can you imagine the SCO has just
+      put Pakistan in its place. That is exaggerated. Let us remember that Pakistan
+      is a protege of China and this slap on the wrist for Pakistan could not have been
+      proved without Xi approving it. Furthermore, the situation overall is much more
+      complicated than these several Indian journalists would have us believe. After
+      all, Pakistan is a close supporter of Iran. Iran is an important transit country
+      for the North-South Corridor, which India wants very much, because it would give
+      India access to the whole of Central Asia, which under the present conditions
+      where everybody is scrambling to find new markets, is all the more important to
+      India’s economic future. 4:17 So there are complications here of many [coms].
+      I hope we can get into some of them because, astonishingly, they haven’t been
+      brought to light. And one of them, which I’ll just mention here, to seed our discussion,
+      is the presence of the Prime Minister of – my goodness, I’m speaking now about
+      Pashinyan, Armenia, and his warm discussion, tete-a-tete, unforeseen in the program,
+      with Vladimir Putin, which was featured on yesterday’s wrap-up of the week’s news
+      hosted by Mr. Kiselyov. I hope we get to that because it shows how all of these
+      countries, that are members or observers or guests of the SCO, have interests
+      that are intertwined, and some of them are conflicting. 5:16 When you have 25,
+      26 countries, it’s not surprising that there will also be conflicting interests.
+      And there you have a summit like the one of the last two days, which provides
+      a platform, a venue for these various parties to get together in quick sequence
+      so that discussions between two could then be extended to their circle. And that
+      is what’s happened in the last two days. I believe that, for example, that Armenia
+      was roped into this, probably by the Indians or by Xi. As you may be aware, Mr.
+      Macron in France has done his best to ruin relations between Russia and Armenia.
+      6:03 And what you had and was shown on Russian television yesterday was the two
+      of them, Putin and Pashinyan, sitting next to one another, Pashinyan said, “Oh
+      yes, Vladimir Vldimirovich, you are my good friend.” And well, this of course
+      was lapped up by the Russian news commentators. But there are all these little
+      details. And they tell you the part that is visible. I have to tell you that a
+      lot is going on that is invisible. But coming back to the question of India, and
+      coming back to what the SCO stands for, because there’s a lot of confusion in
+      the broad public. How is this different from BRICS? And well, BRICS is a global
+      organization, and it has in its membership key founding members, countries like
+      Brazil or South Africa, which are not terribly interested in issues that move
+      Russia and China, for example. And they hold up progress in the integration of
+      BRICS because they have their own concerns about relations with the United States
+      and whether or not they’re tipping too far against the United States and so forth.
+      7:13 The ISHOR, as the Russians call it, or SCO, it was founded about 30 years
+      ago and had at its job description, as its mission, to bring security to that
+      East Asian region. It was founded by Russia and China, primarily, first of all,
+      to moderate their competition for the Central Asian countries and also for the
+      two of them to coordinate actions to keep the United States and other interlopers
+      out of the region. Officially its task was to combat terrorism and to combat narcotrafficking.
+      Now what we saw in the last two days is a vast expansion of its remit, of its
+      self-definition. It is taking on features of BRICS that is an economic dimension.
+      Mr. Xi rolled out the plans, or the announced plans, to create a CSO, sorry, SCO
+      bank, a bank for development. This is remarkable. We have, we see, oh my goodness,
+      the friends are back. 8:39 We see the attempt to integrate this vast region financially
+      and economically, recalling that its global contribution of GDP is 24 trillion
+      dollars. Now, it does not do away with the importance of the United States as
+      a global trade influencer, But it is very significant. The concentration is on
+      Eurasia. There are the margins Belarus, Mr. Lukashenko was there and was warmly
+      greeted. There is the entrance of the Middle Eastern countries, and that is Perseio,
+      the United Arab Emirates. I think they fit into the financial dimension as possible
+      supporters, backers, of this new bank that is planned for the Shanghai Cooperation
+      Organization. 9:56 The… Now, what about the languages? Well, the working languages
+      of the Shanghai Cooperation Organization are Russian and Mandarin. That tells
+      you who runs the show. This is a point that somehow commentators in the West just
+      don’t talk about. They talk about 25 countries are there, la, la, la, but who
+      was running the show? It is Russia and China. I think for India, judging by the
+      body language between Xi, Putin, and Modi in the final hours when they’re all
+      together, and they were conferring together, we see the prospect or the invitation
+      for India to rise as one of the governing countries of the SCO. And that is, if
+      that is fulfilled, it’s dramatic change. 10:52 At the same time, coming into this,
+      I think Mr. Modi missed opportunities. I think his stopping in Japan was a mistake.
+      Obviously, it was a message. He was giving a message to the Chinese that “Don’t
+      think that we’re going to fall into bed with you tomorrow, but we have our own
+      options.” And his decision not to participate in the or not to witness the military
+      parade in Beijing, I think that was a bad decision. After all, the parade is celebrating
+      the end of the war in the Pacific. India was not a country in 1945, but there
+      were a lot of Indian soldiers who fought the Japanese in the Pacific as soldiers
+      in the British Empire. 11:43 The Indians in both fronts, both in Europe and in
+      Asia, lost one and a half million soldiers in World War II. And I think it was
+      a mistake for Modi not to honor the memory of those compatriots who died putting
+      an end to World War II in the Pacific. By the same token, I think it is very sad
+      that Donald Trump will not be there, because of course the Americans had a decisive
+      role also in liberation of island after island of occupied territory from the
+      Japanese, and he’s not going to be there. The United States will not be represented
+      at the proper level at this landmark event. The Chinese, since nobody talks about
+      it much, they have very few military parades. They are not like the Russians,
+      every year. And this is a big deal. And so for Modi not to be there, for Trump
+      not to be there, I think is a big mistake. Diesen: 12:48 You mentioned the SCO
+      developing and yeah, because originally it was intended as focusing on security,
+      that is terrorism and such, but [was] managing Russia and China so they wouldn’t
+      have the security competition and the power competition in Central Asia. But once
+      they began to take on economic competencies, they also, that would mean to hand
+      over some of the leading role from Russia to China. So when they brought in all
+      these other large powers, be it India or let’s extend Pakistan, but Iran, then
+      I think the Russians became more comfortable, because the Chinese would still
+      be the leading one, but they wouldn’t be in a dominating position with all these
+      other giants. 13:32 But that being said, it seems often that when, when I read
+      the Western commentary on the SCO, it’s often focused on, “Well, look at all this
+      competing interests they have. They’re not aligned.” But again, this is a very
+      different form of organizing security though. It’s not the alliance system where
+      you have a group of countries working together for security against an external
+      non-member of the bloc. Instead you’re having security arrangements where you
+      seek security with other members of the grouping. I mean, China, India, Pakistan,
+      there are tensions behind this country. But the whole point is that if they’re
+      able to solve the political differences, then they can have some mutual economic
+      benefits. It just seems that often in the West, we tend to assess everything based
+      on how, if the interests are completely aligned. But often this means, you know,
+      the way we often achieve it in the West is by framing everything in the language
+      of ideology, which often results in countries not being able to pursue their national
+      interests, as we see in Europe. But if you have all these countries with competing
+      national interests, all pursuing their national interests, which at times is in
+      competition, the goal surely isn’t some utopia where everyone agrees on everything,
+      is it? Doctorow: No, it isn’t and can’t be. These countries have their diverse
+      interests and some of them, visitors of course, understand this as solitude and
+      are unwilling to compromise on it. As India is shown by its refusal to follow
+      the dictat of Donald Trump respecting their trade in Russian petroleum. And this
+      subject has been much in discussion among the commentators on the Indian broadcasters.
+      And these are NewsX, NewsX World– they are two different companies– CNN 18; and
+      they are talking about what Trump has done only in the terms of what is obvious
+      and evident, that they are being treated in a discriminatory manner, that China
+      buys more oil than Russia does and is not being penalized, that this is double
+      standards and so on. 16:02 They are not looking at what was in the last paragraph
+      of the “Financial Times”‘s discussion of the impact of the tariffs on US-Indian
+      relations a couple of days ago. They were talking about the impact on the Indian
+      economy. In point of fact, the impact is on manufactured goods and precisely textiles.
+      And textiles for export mostly to the States has two percent of the Indian workforce,
+      as I understand. That’s not a great number, but considering the size of India,
+      still it has to be said. Now, the… what… This is quite distracting. I regret it.
+      [ringing telephone not heard on recording] But you see the insistence of the Indian
+      broadcasters. I am now losing my train of thought. So let’s go back to your question,
+      if we may. Diesen: 17:23 Well, it’s to what extent the SCO arrangements and the
+      cooperation between India and China and Russia should be assessed based on the
+      extent to which competing interests are eliminated or simply how the differences
+      are addressed. Because it has a very different system than this assumption we
+      have in the West that everything has to fit in this alliance system. But as we
+      know from political realists, I guess permanent peacetime alliances is not very
+      attractive always, because it locks in countries and prevents them from pursuing
+      national interest. John Hertz even wrote in 1950 that these peacetime alliances,
+      it removes the right to make war and replaces it [with] a responsibility to make
+      war. So this is why the Chinese don’t want alliance systems essentially. They
+      want to be in a more loose organization where they don’t have to push national
+      interests aside in order to align policies. 18:39 Well, now I understand why I
+      was jumping to the following issue, of where Mr. Trump stands on this. And this
+      was something which I expressed with several of the broadcasters to their enormous
+      surprise. I hope it gives them reason to reflect. They were all focusing on the
+      superficial side of what Trump has done, just as the “Financial Times” in its
+      article on the Indian relations with United States focused on the economic side
+      of the tariffs, what this means to their trade after all, it is only on manufacturers,
+      particularly textiles, doesn’t affect the very big and important $80 billion trade
+      in IT, where India is a major supplier of programming and business intelligence
+      to American corporations or the pharmaceutical industry. 19:31 So it affects a
+      lot of people. It has a political impact because these are textile workers, after
+      all, and they are going to lose their jobs. But if the very last paragraph, the
+      “Financial Times” said, [“And by the way, this is going to really damage the quadrilateral
+      arrangements that the United States has constructed carefully over the last 25
+      years to bring India into containment policy and directed against what’s said
+      to be China’s aggressive ambitions and expansion, destroyed in several weeks.”]
+      And my point is this was not an accidental consequence. It was the _reason_ for
+      the tariffs to be imposed, because the tariffs are illogical. Everyone knows that.
+      And they are discriminative. And why India is being hit and China isn’t, it was
+      precisely, I believe, because Mr. Trump in his, insofar as he has a foreign policy
+      and concept, this is exactly what you’re describing. 20:39 And he didn’t think
+      it up. He got it from Henry Kissinger, who was closely advising him during his
+      presidential campaign in 2016, and whose ideas were reflected in Trump’s first
+      national security strategy papers in December of 2017. And this is relationships
+      between competitors and not adversaries. It rejects completely the fundamental
+      principles of neoconservatism. And people who think that Trump doesn’t have an
+      idea in his head had better reread Kissinger, 1994, “Diplomacy” and reread the
+      2017 American National Security strategy papers. 21:34 It’s one and the same idea.
+      The idea that Kissinger was promoting in ’94 and had to move away from when he
+      did his “World Order” in 2014, was a world of pre-World War I nature, of several
+      major powers who were competitors, but no bloc. But, well, I say you go earlier,
+      still earlier, because by the 1890s, there were blocs, of course. But earlier
+      than that, and certainly going back to the period that Kissinger loved most, 1815,
+      the concert of powers, the balance of powers notions that predominated at least
+      until 1870. That is the vision that Kissinger had in 1994 when people like him
+      were making roadmaps for the post-Cold War period, and that was his vision. And
+      I believe it’s a vision that he passed along to Donald Trump, who is trying his
+      best within the limited possibilities he has, to break up the blocs. Diesen: 22:42
+      Well, this, yeah, ’94 book on world order, though, it’s, he always made the point
+      that world order, if it’s going to be stable and sustainable, it needs to balance
+      just both the power and legitimacy. And I guess this was always the problem of
+      unipolarity. It’s not durable in terms of the distribution of power and it’s not
+      going to have the legitimacy of one center ruling. And also in order to have this
+      he also recognized you need the balance of having this what Chinese call civilizational
+      diversity and also agreeing on some key principles. But you know so how do you,
+      yeah some ways we will always be different, the nationalist idea, and then some
+      principles we need to have the same. 23:25 I think under the liberal hegemony,
+      we tilted too much to the idea that everything has to be shared principles and
+      we forgot about the cultural distinctiveness, which kind of lays the foundation
+      for sovereignty. And from my perspective, it also builds in a bit to Trump’s perhaps
+      domestic ideas, because he sees that this liberal hegemony is eating up some of
+      the values in terms of America’s own civilizational distinctiveness and turning
+      into this, what he would consider liberal blob, I guess. But do you think he’s
+      still working according to the Kissinger’s manual? I know they did speak ahead
+      of his, you know, after he won the election. But how much do you think he’s influenced
+      by these ideas? Doctorow: 24:14 Well, you can ask the Kissinger to follow his
+      own recommendations of ’94. Of course not. There is a big change in Kissinger
+      between what he wrote in “Diplomacy” and what he wrote in “World Order”. And that
+      was that he got beaten up over his vision of ’94 by the neocons, for being an
+      unforgiving realist who was discarding values. And of course, Americans make a
+      great deal out of values to drive foreign policy. So in the end, in 2014, after
+      saying that the foreign policy would be interest-based, he threw a bouquet to
+      his opponents and said, yes, and of course there also should be democracy values
+      uniting some parts of the world community. But that is not such a big concession,
+      when you consider going back to his dissertation work on 1815, it all ended. Yes,
+      there was a realist approach, but it was all framed by monarchical principles,
+      and so these– which were the values of the time. These ideas, which are in competition,
+      did not completely rule out the other side of the story. The question is where
+      is the basic thrust? 25:50 And the basic thrust of Kissinger’s thinking was realism
+      and eschewing all ideology; and I believe that Donald Trump remains in that camp.
+      And people who say “Oh, he surrounded himself with Rubios.” Well, if you’re going
+      to look for people who share that view, you wouldn’t have anybody around him.
+      There are very few realists in high position, or with recent government experience,
+      whom he could have as counselors and implementers. So he engages, as I’ve said,
+      in double talk, and he does within the limits that one man can do when he is in
+      a power situation surrounded by many other forces. After all, there are limitations
+      on the president’s power, however much “New York Times” would like to say he’s
+      overriding it all. 26:44 And he pursues a destruction of blocs. NATO is hard to
+      get rid of. To really get rid of it, he needs two-thirds of the Senate backing
+      him, which is not available. The quadrilateral arrangement never received that
+      kind of formation, formal formation, where it cannot be undone. He’s undoing it.
+      So I firmly believe that Trump has an idea or two in his head, And I believe that
+      the ideas that he holds closest to his heart, as he has a heart also, are coming
+      from Kissinger. I remember that Kissinger was very, very pleased to have the ear
+      of Donald Trump, because for the first time in 30 years, he was not admitted by
+      Obama to the Oval Office, who didn’t, who simply despised Kissinger and didn’t
+      want to hear his advice. 27:45 Whereas Trump was very glad to take his advice.
+      Of course, the role of Kissinger lasted almost a year. I wouldn’t say long. That’s
+      understandable. There were many other competitors for Donald Trump’s ear. But
+      I don’t believe that he has forgotten those lessons from Kissinger and that he
+      is, I believe that he’s trying to implement them within his powers. Diesen: 28:13
+      But on the topic of Kissinger though, one of the great achievements in the geopolitics
+      was in the 1970s, splitting the Soviets from the Chinese. The general Machinder
+      idea that you shouldn’t allow two Eurasian giants to get too close. Same with
+      Germany and Russia. But the key criticism of Trump was always of Biden that the
+      hostility towards Russia meant that the Russians were pushed into the arms of
+      the Chinese. But these recent pressures from Trump against India or his administration
+      in terms of the tariffs and also the threats of a– pressuring of India not to
+      trade with Russia, it appears to now be pushing India also towards the arms of
+      China. Again, despite, I accept the premise, this idea that Trump is very hostile
+      to all these alliance systems as a way of locking in America, preventing the reforms
+      it needs. However, from every aspect, this seems to have been a colossal mistake,
+      because America needs India if they want to have some balance against the Chinese
+      or just some good relations in the East. This just seems like a disaster though,
+      isn’t it? 29:44 I think it’s a temporary situation. I think this was a body blow
+      intended to end India’s involvement in the containment policy against China and
+      the formation of a new military bloc in Asia. The situation between Russia and
+      China and India and China cannot be compared. India and China do not have the
+      common economic interests that Russia and China have. As the Indians say openly,
+      what do we have to sell to the Chinese? Nothing. All we can do is buy from the
+      Chinese. So that is not a prospect to be compared with the Russian situation.
+      This was mentioned yesterday on Russian state television as they were discussing
+      these various relationships. Russia is probably the only major country that has
+      a proficit, not a deficit, in its trade relations with China. 30:51 And it is
+      not just that they are supplying hydrocarbons and also more recently, a lot of
+      agricultural commodities. They also are about to supply the jet engines for China’s
+      newest middle-range passenger airliner, which is left engineless because of sanctions
+      by the United States. Yes, as they said yesterday, you can count the world’s producers
+      of advanced jet engines for passenger airliners on one hand, and Russia is one
+      of them. And this is now being finalized. So the Russians are not just selling
+      commodities, they’re also selling some high-tech and some pharmaceuticals. The
+      Russians’ pharmaceuticals are now entering the Chinese market. 31:52 Nothing like
+      this, not of this scale, can be anticipated for India with respect to China. What
+      is in prospect is not a full unlimited friendship or partnership, but an end to
+      enmity, an end to these border skirmishes, and cooperation on a common development
+      of economic and securityinterests in Eurasia. Diesen: Well, that in itself seems
+      quite important, because whenever you have two great powers, of course, if you
+      choose to put India in that category or at least an aspiring great power, once
+      they have some tensions between them, these tensions or conflicts can be exploited
+      by external parties who want to get some concessions from one or balance, contain
+      the other. 32:51 But I guess, yes, the last question going back to the beginning.
+      How much do you think this is, if not a change in the world order or development
+      or shift away from the unipolar system, how significant should we interpret the
+      direction we’re going now? Because I see the lack of trade compatibility between
+      India and China. I don’t expect any alliance systems from come out of this, but
+      the ability to deal with the competing or political conflicts, it’s quite significant
+      in order to, I guess, organize an alternative international economic architecture,
+      given that there’s less trust in both the ability of the United States to hold
+      this role. I mean, even the US now seems to be recognizing that the dollar, it
+      can’t be the only reserve currency. It will surely have a very leading role, but
+      alternatives have to come in place to actually reflect the distribution of power
+      as it is. Doctorow: 34:02 There is an acceleration in the movement towards a multipolar
+      world. And what we saw in these last two days are a significant landmark in that
+      trail. So it is, we should not exaggerate, as you’re saying, we should not exaggerate
+      the prospects for rapprochement or warming between China and India. But what comes
+      out of this, as I was just hinting a moment ago, is the, raising the flag of sovereignty.
+      India did that by its refusal to take phone calls from Donald Trump and demonstration
+      in every which way that is not going to submit to the American efforts to break
+      its reliance on Russian hydrocarbons, in fact, intending to increase by at least
+      10 percent its import of Russian hydrocarbons in the coming month. 35:00 This
+      is a declaration of sovereignty. The Russians were talking sovereignty a year
+      ago. And I was saying that this is the word of the year. But I think now we’re
+      witnessing it spreading to other major powers. Sovereignty dictates against participation
+      in a military alliance or bloc. The Chinese were the first to realize that and
+      to practice it. Going back, and just to take one comment on your remark with respect
+      to Kissinger and the cleavage that America drove between Russia and China for
+      its own benefit, I think you’re being unkind to Richard Nixon. Diesen: I’m unkind
+      to…? Doctorow: Being unkind to Richard Nixon. Diesen: Oh yeah. Doctorow: I believe
+      that was _his_ idea and that Kissinger was the implementer. Of course, Kissinger
+      would not bring that fact out in his memoirs. Who can blame him. But Nixon was
+      no fool. And from the perspective of today, the Nixon that was the nasty man who
+      was unpleasant with the press, well, he looks like a gentleman, a dignified man.
+      By accident, on YouTube I saw a year ago, the Kennedy-Nixon debates. Remarkable.
+      These people were civilized. It’s been a descent from civilization ever since.
+      36:41 So Nixon looks a lot better in that optic, and he was smart enough to see
+      that opportunity and to have a very good implementer in the person of Henry Kissinger.
+      Diesen: Yeah, the decline in decency. It’s quite remarkable if you go back a few
+      decades and look at those presidential debates. Hopefully we reach the bottom
+      of the barrel and there will be some improvements coming. But no, it is interesting,
+      because when I saw Peter Navarro making these comments, that is the adviser to
+      Trump, that, you know, “India is the largest democracy, how can you cozy up with
+      the Chinese? You should be loyal to us.” In other words, “bend to our pressure.”
+      I think it exposes how much of the world actually sees it whenever someone refers
+      to liberal democracy. It’s often translated almost always into sovereign inequality,
+      which means in the name of liberal democracy, you should not pursue your national
+      interest. But India keeps saying, well, our national interest has to come first.
+      37:54 And that means they’re taking into consideration the neighborhood they live
+      in also, of course, and not cutting themselves off from very vital partnerships.
+      So no, this could be a huge shift. I’m just curious if it’s going to change American
+      policies, because so far the US appears to be doubling down on this, that “How
+      dare China go continue along this path? They should fall in line. Maybe the problem
+      is we haven’t put enough tariffs on them.” 38:27 This is kind of the logic, what
+      else can be done, as opposed to reflecting a bit on what the actual Indian position
+      is, that they see this being an issue of sovereignty. And it pains me to say this
+      as a European, but if you look towards the ones who are bending too much to fall
+      in line and compromising on their national interests, it’s the Europeans. Whenever
+      the Europeans bow to daddy and do as they’re told, every time you ignore your
+      national interest, you’re going to come out in a weaker position. So it doesn’t
+      seem like a model that Indians would like to emulate. 39:11 Sorry, that was just
+      my last question. Do you see any changes coming from the US position now, given
+      the pictures coming out of China of Modi, Xi and Putin essentially being defiant
+      and not responding in terms of allowing divisions, but instead further decoupling
+      and diversifying their ties? Doctorow: I think we have to give this a bit of time.
+      As I’ve said, I don’t think that Donald Trump has any intention of severing commercial
+      ties with India or maintaining his present punitive tariffs for long. I believe
+      that he is fully expectant that Putin will destroy Ukraine in the coming weeks
+      to months, and therefore these punitive tariffs will not go on all that long.
+      This is a message to break up the quadrilateral NATO information in the Indo-Pacific.
+      40:17 And Russia– as for China, of course, they read the Riot Act to the Americans.
+      They explained how they will destroy American industry by cutting off rare earth
+      metals and other vital supplies to American industry. And that is what caused
+      the drawback from imposition of punitive tariffs on China and delaying it and
+      it’s moving along with horizon on when they will be imposed. So let’s give this
+      a bit of time. Let’s look beyond the two weeks or three weeks. I believe that
+      relations will foot back. The Indians are very keen to maintain relations with
+      the United States, because as we just said, China is not a replacement for the
+      American market, and there is no replacement for India in the immediate-, even
+      in the medium-term future, for the American market. So of course they’ll find
+      the competition. But that will be after the Americans drop their belligerency
+      over whom India trades with. Diesen: Yeah, and I think that’s the main point,
+      that the Indians don’t want to join a Eastern bloc against America. They literally
+      just want to be non-aligned and diversify their trade. And no, which is why I
+      think if United States walked us back and not– doesn’t tell India what to do,
+      I think India’s greatest interest would be to also trade, have close relations
+      with the US. Indeed, I would put Russia in the same category. They always saw
+      this as a balance of dependence. That is yes, China might be the most important,
+      but you have to balance out and diversify, so trading with the Europeans and Americans
+      will always be important. Which is why I think they’re putting so much efforts
+      to restoring bilateral ties with the United States. It’s just they’re not going
+      to be lured into an anti-Chinese camp. And I think that dream has to be dropped
+      with the Indians as well. 42:24 But yes, thank you so much. This is fascinating
+      times. And indeed, the weakening, if not the sabotage of these alliance systems
+      altogether is quite revolutionary in terms of changing the international system.
+      So thanks again. Doctorow: 42:46 Yeah, my pleasure.'
+    one_sentence_summary: During a discussion about the Shanghai Cooperation Organization
+      meeting, historian Gilbert Doktorow highlights the strengthening ties between
+      India, China, and Russia, particularly noting the warm interactions between Modi
+      and Putin, which suggest a lasting partnership amidst geopolitical tensions.
+    paragraph_summary: In a recent discussion, historian Gilbert Doktorow analyzed the
+      significance of the Shanghai Cooperation Organization (SCO) meeting in China,
+      highlighting the historic camaraderie displayed among leaders Modi, Xi, and Putin.
+      This meeting marked Modi's first visit to China in seven years, during which he
+      and Putin reaffirmed their enduring partnership, emphasizing the need to enhance
+      their collaboration. Additionally, Modi and Xi's handshake signaled a potential
+      thaw in their previously tense relations, suggesting a mutual recognition of the
+      importance of stabilizing ties. Doktorow noted that the implications of this gathering
+      might be overlooked by some observers, particularly in India and the West, and
+      he has been actively engaging with Indian media to discuss these developments.
+    published: '2025-09-02T19:24:40+00:00'
+  - title: Transcript of News X interview
+    url: https://gilbertdoctorow.com/2025/09/02/transcript-of-news-x-interview/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=IY5m7e5wPjw
+      NewsX: 0:00 China-India bilateral trade does not replace India-US bilateral trade.
+      We lose a hundred billion dollars to the Chinese, OK? What products are the Chinese
+      going to buy from us when they make everything? So the only imports they really
+      have is iron ore, OK? So let’s be realistic, that doesn’t fix that problem. But
+      away from, as Mitali is saying, from the problems, there’s a fundamental agreement.
+      That yes, we have our problems and we’ll have to settle our own problems and if
+      we can’t do anything serious let’s take the temporary measures, because there’s
+      an even bigger problem that the world is facing. Now, together these countries
+      represent a global GDP, just the three of them represent a global GDP of just
+      over 24 trillion dollars, OK? So even all three together don’t match up to the
+      GDP of America. And nobody’s wishing away America. 0:51 So some balancing act
+      has happened, but clear messaging has happened. So now let’s get Gilbert Doctorow
+      into this conversation. Professor Doctorow was telling us yesterday that it’s
+      a good thing that the eyes of India have been opened and they’ve been made to
+      smell the roses. And if the quad ends with nothing special and the entire bloc
+      system is dismantled, that’s a good thing. And you know, let’s take the positives
+      out of it. With the posturing that’s happened and very obvious posturing that
+      has happened, Gilbert Doctorow, what do you feel now? Doctorow: 1:30 I think–
+      I was listening to your remarks on the body language of Modi and Putin and Xi.
+      And I was also listening to your remarks about the humiliation of Pakistan, which
+      I think you are overdoing. Pakistan after all is a protege of China, and the remarks
+      made about their terror attacks on India could not have– in the declaration of
+      the of the SCO, could not be made without China’s agreement. So let’s not overdo
+      it. What I see is not the fall of Pakistan, but the rise of India. I think we
+      have to remember that SCO was created by two countries, by Russia and by China.
+      This goes back to the beginning of the millennium. It was created as a way that
+      these two countries could manage their competition over Central Asia and also
+      keep out intervention in Central Asia by the United States and other interlopers.
+      So it was about security in the middle of Eurasia. 2:42 And let’s remember that
+      this is reflected in the working languages of the SCO. They are two languages,
+      Russian and Mandarin. Small point, but highly significant in who runs this organization.
+      India has been marginal. I think that this new spat with the United States, which
+      Mr. Trump has provoked by his unreasonable tariff policy on India, has given these
+      countries, Russia and China, an opportunity to do something that perhaps should
+      have been done long ago, to raise the visibility of India and the possibility
+      of India being also a full partner in the SCO management, not just a member. 3:35
+      This is a prospect that I hope India will find attractive now that the SCO is
+      moving beyond its original remit, its original self-description as a security
+      organization to combat terrorism and to combat narco trade and is looking to take
+      on an economic and financial dimension as we witnessed in the creation of a– NewsX:
+      4:01 Okay, so I’ve of course been hearing the statements carefully and–'
+    one_sentence_summary: The article discusses the limitations of China-India bilateral
+      trade in addressing economic issues, emphasizing that despite their combined GDP,
+      they still fall short of matching the U.S. economy, and highlights the need for
+      both countries to manage their own problems while acknowledging the larger global
+      challenges they face.
+    paragraph_summary: The article discusses the complexities of China-India and India-US
+      bilateral trade relations, highlighting that India's trade deficit with China
+      amounts to around $100 billion, primarily due to China's dominance in manufacturing.
+      It emphasizes that while both countries have their issues, they must focus on
+      larger global challenges, as their combined GDP still falls short of the United
+      States. The conversation shifts to the perspectives of Gilbert Doctorow, who suggests
+      that India's growing awareness of its geopolitical position is a positive development,
+      and he critiques the notion of Pakistan's decline, arguing instead that it reflects
+      India's rise. Overall, the dialogue underscores the intricate dynamics between
+      these nations and the broader implications for global trade and politics.
+    published: '2025-09-02T12:41:30+00:00'
+  - title: Transcript of News X interview
+    url: https://gilbertdoctorow.com/2025/09/02/transcript-of-news-x-interview/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=IY5m7e5wPjw
+      NewsX: 0:00 China-India bilateral trade does not replace India-US bilateral trade.
+      We lose a hundred billion dollars to the Chinese, OK? What products are the Chinese
+      going to buy from us when they make everything? So the only imports they really
+      have is iron ore, OK? So let’s be realistic, that doesn’t fix that problem. But
+      away from, as Mitali is saying, from the problems, there’s a fundamental agreement.
+      That yes, we have our problems and we’ll have to settle our own problems and if
+      we can’t do anything serious let’s take the temporary measures, because there’s
+      an even bigger problem that the world is facing. Now, together these countries
+      represent a global GDP, just the three of them represent a global GDP of just
+      over 24 trillion dollars, OK? So even all three together don’t match up to the
+      GDP of America. And nobody’s wishing away America. 0:51 So some balancing act
+      has happened, but clear messaging has happened. So now let’s get Gilbert Doctorow
+      into this conversation. Professor Doctorow was telling us yesterday that it’s
+      a good thing that the eyes of India have been opened and they’ve been made to
+      smell the roses. And if the quad ends with nothing special and the entire bloc
+      system is dismantled, that’s a good thing. And you know, let’s take the positives
+      out of it. With the posturing that’s happened and very obvious posturing that
+      has happened, Gilbert Doctorow, what do you feel now? Doctorow: 1:30 I think–
+      I was listening to your remarks on the body language of Modi and Putin and Xi.
+      And I was also listening to your remarks about the humiliation of Pakistan, which
+      I think you are overdoing. Pakistan after all is a protege of China, and the remarks
+      made about their terror attacks on India could not have– in the declaration of
+      the of the SCO, could not be made without China’s agreement. So let’s not overdo
+      it. What I see is not the fall of Pakistan, but the rise of India. I think we
+      have to remember that SCO was created by two countries, by Russia and by China.
+      This goes back to the beginning of the millennium. It was created as a way that
+      these two countries could manage their competition over Central Asia and also
+      keep out intervention in Central Asia by the United States and other interlopers.
+      So it was about security in the middle of Eurasia. 2:42 And let’s remember that
+      this is reflected in the working languages of the SCO. They are two languages,
+      Russian and Mandarin. Small point, but highly significant in who runs this organization.
+      India has been marginal. I think that this new spat with the United States, which
+      Mr. Trump has provoked by his unreasonable tariff policy on India, has given these
+      countries, Russia and China, an opportunity to do something that perhaps should
+      have been done long ago, to raise the visibility of India and the possibility
+      of India being also a full partner in the SCO management, not just a member. 3:35
+      This is a prospect that I hope India will find attractive now that the SCO is
+      moving beyond its original remit, its original self-description as a security
+      organization to combat terrorism and to combat narco trade and is looking to take
+      on an economic and financial dimension as we witnessed in the creation of a– NewsX:
+      4:01 Okay, so I’ve of course been hearing the statements carefully and–'
+    one_sentence_summary: The article discusses the limitations of China-India bilateral
+      trade in addressing economic issues, emphasizing that despite their combined GDP,
+      they still fall short of matching the U.S. economy, and highlights the need for
+      both countries to manage their own problems while acknowledging the larger global
+      challenges they face.
+    paragraph_summary: The article discusses the complexities of China-India and India-US
+      bilateral trade relations, highlighting that India's trade deficit with China
+      amounts to around $100 billion, primarily due to China's dominance in manufacturing.
+      It emphasizes that while both countries have their issues, they must focus on
+      larger global challenges, as their combined GDP still falls short of the United
+      States. The conversation shifts to the perspectives of Gilbert Doctorow, who suggests
+      that India's growing awareness of its geopolitical position is a positive development,
+      and he critiques the notion of Pakistan's decline, arguing instead that it reflects
+      India's rise. Overall, the dialogue underscores the intricate dynamics between
+      these nations and the broader implications for global trade and politics.
+    published: '2025-09-02T12:41:30+00:00'
+  - title: 'News X World: Interview on European intentions to send troops to Ukraine'
+    url: https://gilbertdoctorow.com/2025/09/02/news-x-world-interview-on-european-intentions-to-send-troops-to-ukraine/
+    text: News X World has just sent me the link to a video interview recorded on the
+      first day of the Shanghai Cooperation Organization summit. The topic was not the
+      summit but instead European plans to send troops to Ukraine.  I come in at minute
+      2.50 Have a listen… I note that the past couple of days have awakened my sensitivity
+      to the word “hounded.”  With 4 Indian broadcasters and one Indian news agency
+      in pursuit of interviews and offering panel slots, I have felt very much like
+      the fox running before the pack of hounds.  But we made our peace.  The video
+      links are coming in. And one broadcaster, CNN 18, with whom I will do a follow-up
+      interview later this afternoon has taken an interest in my War Diaries, the Russian
+      Ukraine War, 2022-2023. As the shoe salesman said of prospects for sales in Africa,
+      with its 1.4 billion inhabitants, India is a promising market.
+    one_sentence_summary: The article discusses a video interview about European troop
+      plans for Ukraine recorded during the Shanghai Cooperation Organization summit,
+      highlighting the author's busy schedule with multiple Indian media outlets seeking
+      interviews, and notes CNN 18's interest in their War Diaries on the Russia-Ukraine
+      War.
+    paragraph_summary: The article discusses a video interview conducted on the first
+      day of the Shanghai Cooperation Organization summit, focusing on European plans
+      to send troops to Ukraine rather than the summit itself. The author reflects on
+      feeling pursued by multiple Indian broadcasters and a news agency for interviews,
+      likening the experience to a fox being chased by hounds. Despite the hectic schedule,
+      the author has found a way to engage with the media, including a follow-up interview
+      with CNN 18 that shows interest in their War Diaries covering the Russian-Ukrainian
+      War from 2022 to 2023. The author also notes India's potential as a promising
+      market due to its large population.
+    published: '2025-09-02T10:42:28+00:00'
+  - title: 'News X World: Interview on European intentions to send troops to Ukraine'
+    url: https://gilbertdoctorow.com/2025/09/02/news-x-world-interview-on-european-intentions-to-send-troops-to-ukraine/
+    text: News X World has just sent me the link to a video interview recorded on the
+      first day of the Shanghai Cooperation Organization summit. The topic was not the
+      summit but instead European plans to send troops to Ukraine.  I come in at minute
+      2.50 Have a listen… I note that the past couple of days have awakened my sensitivity
+      to the word “hounded.”  With 4 Indian broadcasters and one Indian news agency
+      in pursuit of interviews and offering panel slots, I have felt very much like
+      the fox running before the pack of hounds.  But we made our peace.  The video
+      links are coming in. And one broadcaster, CNN 18, with whom I will do a follow-up
+      interview later this afternoon has taken an interest in my War Diaries, the Russian
+      Ukraine War, 2022-2023. As the shoe salesman said of prospects for sales in Africa,
+      with its 1.4 billion inhabitants, India is a promising market.
+    one_sentence_summary: The article discusses a video interview about European troop
+      plans for Ukraine recorded during the Shanghai Cooperation Organization summit,
+      highlighting the author's busy schedule with multiple Indian media outlets seeking
+      interviews, and notes CNN 18's interest in their War Diaries on the Russia-Ukraine
+      War.
+    paragraph_summary: The article discusses a video interview conducted on the first
+      day of the Shanghai Cooperation Organization summit, focusing on European plans
+      to send troops to Ukraine rather than the summit itself. The author reflects on
+      feeling pursued by multiple Indian broadcasters and a news agency for interviews,
+      likening the experience to a fox being chased by hounds. Despite the hectic schedule,
+      the author has found a way to engage with the media, including a follow-up interview
+      with CNN 18 that shows interest in their War Diaries covering the Russian-Ukrainian
+      War from 2022 to 2023. The author also notes India's potential as a promising
+      market due to its large population.
+    published: '2025-09-02T10:42:28+00:00'
+  - title: Transcript of CNN18 (India) interview of 1 September
+    url: https://gilbertdoctorow.com/2025/09/02/transcript-of-cnn18-india-interview-of-1-september/
+    text: 'Transcript submitted by a reader CNN News18: 0:00 –the big summit that’s
+      taken place in Tianjin on the sidelines of the SCO summit from Mr. Modi and even
+      the Russian President Vladimir Putin held two significant bilateral meetings that
+      have reaffirmed the enduring strength and depth of the India-Russia strategic
+      relationship. Both leaders have emphasized the multi-dimensional nature of this
+      partnership, a time-tested one at that, which spans critical sectors, which are
+      mainly defense, energy, trade, and technology. And President Putin has described
+      the ties between the two nations as principled, even multifaceted, noting that
+      over the years the relationship has evolved into a robust framework for cooperation.
+      Echoing these sentiments, Prime Minister Modi has described his interactions with
+      President Putin as always memorable, underscoring the continuous high-level engagement
+      between the two nations. 0:51 While Prime Minister Modi has also reiterated India’s
+      constructive role within the SCO framework, especially when it comes to combating
+      terrorism, even disrupting terror financing in a notable diplomatic snub. Pakistan’s
+      Prime Minister Shahbaz Sharif has appeared isolated during this entire summit.
+      Prime Minister Modi left for New Delhi after a successful China-Japan tour. So
+      all in all, this past week has felt only diplomatic triumph for New Delhi. But
+      let’s also listen in to what Prime Minister Modi had to say in his plenary session
+      at the SCO. Modi: 1:32 [UNCONFIRMED TRANSLATION] I would like to say that security,
+      peace and security are the basis of any country. But in this path, terrorism,
+      terrorism and terrorism are big challenges. Terrorism is not only a threat to
+      the country, but also a simple challenge for full independence. It is not just
+      a challenge for the country, but a challenge for the entire humanity. The role
+      of the SCO Reds is important. At this time, India has led the Joint Information
+      Operation, initiative. We have supported the organization and have also supported
+      the Indian government for four decades to create the terrorism. So many mothers
+      lost their children and so many children were– CNN News18: 3:27 Gilbert Doctorow,
+      who is an author, also specializes in Russian relations, is joining me live on
+      the broadcast. Many thanks to you, Gilbert, for joining in on CNN News 18. We
+      just heard some very critical points being made by the Indian Prime Minister in
+      his plenary session at the SCO, especially when it comes to condemning terrorism
+      and double standards on terrorism. Before I deep-dive into the bilateral that’s
+      taken place between Prime Minister Modi and President Putin, share your thoughts
+      on how India has come down on the issue of terrorism. Also not to forget that
+      the SCO declaration has managed to condemn the Pehelgam terror attack as well
+      this time around, which India is of course seeing as a diplomatic thing. Doctorow:
+      4:07 The Shanghai Cooperation Organization unites Eurasia. Eurasia has many common
+      interests. Eurasia also has differences, some of which led to armed conflict,
+      as the recent clash between Pakistan and India illustrated. It would be unrealistic
+      to expect that 20, 25 countries would all see the same views, would all have the
+      same positions on most everything. And so it is that there is conflict among the
+      some of the member states of the Shanghai Cooperation Organization. Nonetheless,
+      it was extremely important that the declaration today condemned the attack in
+      Punjab and the terrorism which emanates, as everyone knows, from Pakistan. That
+      was an important victory. I would say for India in the group. Sorry. CNN News18:
+      You meant Kashmir, I believe, because– Doctorow: Ah, Kashmir, yes. Yes, you’re
+      correct. The point is that this was a diplomatic victory for India and theres
+      good reason for Mr. Modi to be proud of it. CNN News18: 5:22 What is your understanding
+      of the bilateral relationship between Moscow and New Delhi at a time when Donald
+      Trump is accusing India and Prime Minister Modi of funding Putin’s war chest,
+      calling Ukraine as Modi’s war. Prime Minister, on the other hand, has in fact,
+      of course, called upon the Russian president urging him to bring peace or to choose
+      peace, rather. And that’s been his stance always when he said that this is not
+      an era of war, something he reiterated this time around. But Russia has been equally
+      respectable and mindful of the Indian Prime Minister’s views on the war. Doctorow:
+      6:03 I think the basic common view of international relations among the member
+      states of the Shanghai Cooperation Organization is realism, the realistic school.
+      In the realistic school, countries look after their own national interests. And
+      national interests do collide. The case of India with respect to the United States
+      and Russia is a case in point. India has strong commercial attachment to the United
+      States, has been partly dependent on the United States for various arms deliveries.
+      It has also had both strong commercial and military geopolitical interests shared
+      with Russia. 6:48 So these sides have traditionally been in a balance. India has
+      walked a tightrope, I would say, for decades and decades. And that is nothing
+      new. What is new, of course, is Mr. Trump’s destruction of 25 years of American
+      diplomacy with respect to India to bring it into a grouping for containment of
+      Chinese expansion and economic growth. And that is the important outcome of his
+      tariffs, the tariffs on India, which have attracted a lot of attention, but I
+      think have been misunderstood. My reading of Mr. Trump is that he is actively
+      destroying the supports for United States hegemony and global domination. That
+      is his intent. We will only know if that is the case 10, 20 years from now when
+      archives are open. In the meantime, this is a supposition which I urge you to
+      consider. CNN News18: 7:46 You’ve in fact made a very critical point over there
+      because many are talking about how Trump has overnight almost dismantled this
+      25 years of a painstakingly created relationship between New Delhi and Washington,
+      one that was managed through various bipartisan efforts. And I’m going to quickly
+      bring in my correspondent, Siddhant, who also is joining us from the newsroom.
+      So Siddhant, when you look at the way the White House has been reacting, what
+      is one to make of that, given that many have said that if it was Biden who pushed
+      Russia towards China, it is Trump who is pushing India towards China? Siddhant:
+      8:26 Well, yes, that’s right Akanksha. But also Akanksha would like to add what
+      you just said, what I could read from the statements that are coming, that we
+      are getting to hear from the senior Trump officials. So as far as the policy level
+      is concerned Akanksha, those individuals are really committed to continuing the
+      relationship with India and perhaps giving efforts to improve ties. Why I am saying
+      this, because just last week we had two plus two official level dialogue with
+      the United States, and perhaps that the release, this is a State Department’s
+      release which did mention, which has mentioned of Quad and deepening cooperation
+      in nuclear energy, compact was also mentioned, etc. etc. 9:16 But when it comes
+      to people around president Trump, when it comes to people like Peter Navarro,
+      hardcore MAGA people, then their commentary, their remarks are below the belt.
+      They are doing everything to spoil this relationship. So as I said you know I
+      won’t say that everybody in the US administration right now is kind of giving
+      efforts to spoil the relationship. There are people, there are strategic experts
+      Akanksha, many are speaking to you and other of our colleagues here in the newsroom
+      and in fact you know they really want to, you know, continue with the relationship,
+      and they want this relationship to grow. So, you know, so that’s what I could
+      understand from the Trump administration and the US administration at this point.
+      CNN News18: 10:08 I want to take that point forward with Gilbert as well. Gilbert,
+      Siddhant has made a very significant point over there. Donald Trump’s view is
+      perhaps not the wider view of the United States. And I want to quote what the
+      US embassy has gone on to talk about. In fact, soon after Peter Navarro’s statement
+      shook all of India as we woke up, when he in fact again attacked India’s Prime
+      Minister, he’s also tried to create a wedge in terms of the cast. In fact, I wouldn’t
+      even want to go where he has been. It’s the lowest ebb of the kind of rhetoric
+      we’ve seen come out of White House. But the US Embassy in India has sent out a
+      very heartening statement which talks about India and the US relationship being
+      at the forefront of the 21st century relationship. They’ve also in fact sent out
+      a quotation of Marco Rubio that says that “the enduring friendship between our
+      two people is the bedrock of our cooperation and propels us forward as we realize
+      the tremendous potential of our economic relationship.” So Gilbert, I want to
+      bring you in on this divided view of India within the Trump administration. And
+      it’s clearly to do with MAGA versus the ones who are at the helm of affairs in
+      the White House. What is your view, and what could be the impact of this for the
+      Republicans ahead in the years ahead? Doctorow: 11:30 There’s only one view that
+      counts in the US White House, and that is Mr. Trump’s. I would not listen to anything
+      that Mr. Rubio says regarding relations with India, because he is not making the
+      policy. His boss is. The point is that Mr. Trump is not aimless, is not changing
+      views from day to day. He is a student of Henry Kissinger, {however] much that
+      may surprise your audience. He has followed– and this was clear in his first term
+      in office in the first year when he did, when his national securities strategy
+      was issued. This was a Kissinger policy. Henry Kissinger’s fingerprints were all
+      over Mr. Trump’s thinking then, and [I think] that persists today. India will
+      have good relations with the United States after this spat is ended, but it will
+      not continue in the creation of a quadrilateral grouping in the Indo-Pacific.
+      It will not be part of a block that is directed against China. And that is precisely
+      what Mr. Trump’s tariff attack on India is all about. CNN News18: 12:42 But, and
+      that’s why I want to bring you in. Has the tariff attack exposed the US hypocrisy?
+      Because they want to accuse us of war profiteering. What about the war profiteering
+      that the US is doing through companies like Lockheed Martin in Ukraine? Doctorow:
+      Don’t listen to words. Look at actions. Mr. Trump’s words are intended to deceive
+      everyone, particularly his opponents, domestically and abroad. They are not the
+      pointers to his actions. He will come back to India, but he is not coming back
+      to the quadrilateral. You will note the latest reports are that he will not attend
+      the quadrilateral summit. 13:21 That is his point. He wants to end blocs, and
+      he wants to recreate– as Mr. Kissinger indicated in his 1994 book, “Diplomacy”–
+      he wants to recreate the pre-World War I situation in global governance, where
+      there was multi-plurality, where there were individual states, including powerful
+      states, that looked after their national interests, but not in blocs. CNN News18:
+      13:49 Stay with me, Gilbert. I’m going to also request Siddhant to continue staying
+      with us. Let’s also take our viewers through the key highlights from Prime Minister’s
+      statement at the SCO summit. In fact he’s delivered some very crucial messages
+      especially using SCO as an acronym to begin with SECURITY. There can be no double
+      standards on terrorism, is what Prime Minister maintained. Terrorism is a shared
+      challenge for humanity. He said that India has seen the heinous face of terrorism
+      in Pahelgam on 22nd of April. He also went on to say that we have to spell it
+      out clearly, that there’s going to be no compromise on terrorism. And that any
+      open support to terrorism by any of the countries, whether they are sponsoring
+      it or not, is unacceptable. 14:35 As far as CONNECTIVITY, the “C” of SCO is concerned,
+      he went on to say that connectivity that bypasses sovereignty loses trust between
+      all the member nations. India is working on Chabahar port for connectivity, which
+      is why Iran’s role becomes extremely crucial. And that working on international
+      north-south transport corridor is important as well, a reminder for SCO to push
+      that forward. These projects will boost links with Afghanistan, Central Asia as
+      well. 15:07 As far as OPPORTUNITY is concerned, India is following the mantra
+      of “reform, perform, transform” as well. He also went on to invite all the member
+      states, even the ones who are in the observer position or the guest nations, to
+      become part of India’s growth story, to become part of India’s development journey
+      as well. Here’s what the India big wins are, but I’m going to quickly go across
+      to Suzanne to bring in a word as far as the big wins are concerned, let’s take
+      you through what the SCO declaration had to state. It strongly condemned the Pehelgam
+      terror attack to begin with. That’s been our diplomatic victory. SCO has called
+      for combating cross-border movement of terrorists as well. It has echoed India’s
+      line, which says that no double standards on terrorism should be tolerated. Of
+      course, there was a direct reference to not just Pakistan, even China, which has
+      been aiding Pakistan with direct intelligence information, something we observed
+      during Operation Sindhur as well as you as a firm determination to continue the
+      fight against terrorism. It also condemned the use of terror groups for mercenary
+      purposes as well. 16:16 Let’s quickly go back to Siddhan to continue to stay with
+      us. Siddhan, as far as connectivity is concerned, we’ve of course touched upon
+      terrorism. Take us through what are the expectations for India and how significant
+      is going to be Chabahar port, given the way we are seeing disturbances in that
+      entire region, as far as the ones surrounding Iran are concerned, not to forget
+      even Afghanistan and the way China and the United States also now want to make
+      inroads. CNNNews18 – Siddhan: 16:44 Definitely, you know, connectivity is very,
+      very important. In fact, the kind of projection India is doing for itself, the
+      role that in fact the world wants India to play in the coming years, perhaps for
+      that India needs to be well connected, Akanksha, whether it’s Vladivostok-Chennai
+      corridor, whether it’s North-South transit corridor, which will give Indian goods
+      access to markets in Afghanistan and Central Asia, whether it’s IMAC, Akanksha,
+      there’s a lot of work that has been put in by the Indian side as far as the IMAC
+      corridor is concerned. 17:23 So you know, connectivity is a major focus of the
+      Indian side, has always been the major focus of the Indian side. Also, you know,
+      when, … after the withdrawal of US troops, Akanksha, from Afghanistan, India has
+      been sending consignment to Afghanistan time and again, its wheat, medicines,
+      etc. And those consignments are reaching Afghanistan via Chabahar port. So, you
+      know, Chabahar port gets activated and via Chabahar it reaches Afghanistan. So
+      India is using Chabahar port. In fact, there were two two agreements also which
+      were signed last year between India and Iran. India pledged more money for the
+      project. So connectivity is definitely a focus area of the Indian government.
+      CNN News18: Gilbert, I want to quickly bring you in on the aspect of connectivity
+      in this Trumpian climate, which has made it extremely adverse for India and Iran
+      to operate together. Many say that had India not bowed down to Trump’s demands
+      of reducing its oil purchases from Iran under the previous Trump administration,
+      we could have perhaps set the benchmark much earlier. But what is your view, especially
+      when it comes to forward movement or ensuring forward movement on the Chabahar
+      port, given that Iran is also directly in the line of fire with Donald Trump?
+      Doctorrow: 18:49 Of course, this is important. Iran is very dependent on the support,
+      both diplomatic support and economic support of fellow members of the Shanghai
+      security organization. India has a prospect, a possibility of stepping up imports
+      of Iranian petroleum, which would be an important assistance. But I’d like to
+      mention one country that you’ve omitted: Armenia. It was quite surprising that
+      Armenia had a bilateral discussion with Vladimir Putin on the sidelines of the
+      SCO summit. And that is directly related to your interests as India in the North-South
+      corridor, because Armenia as a big player in the in the Southern Caucasus has
+      a decisive role in whether this succeeds. 19:44 In that respect you have to consider
+      the Europeans, because Armenia is being directed against Russia, like France.
+      So the situation is quite complex. CNN News18: It’s also of advantage to India,
+      given that Armenia is a direct counter to Azerbaijan, a country that has directly
+      pledged support to Pakistan also during Operation Sindhu. Doctorow: Yes, these
+      are very complex relations. Fortunately, a forum like SCO provides the opportunity
+      for these various leaders to meet and to meet in rapid succession with one another.
+      So that what is discussed between Putin and Pashinyan then becomes a subject for
+      discussion between the Armenians and the Indians [or both persons]. CNN News18:
+      20:37 Absolutely. I’m going to request you to continue staying with me, Gilbert,
+      a host of talking points, some in fact highlighted by you as well, which we perhaps
+      couldn’t touch upon, Armenia being that very significant factor. Let’s also listen
+      in to the reactions of the Russian president and the Indian prime minister during
+      that much talked about bilateral that took place. Let’s listen. Modi: [TRANSLATED]
+      21:02 We have been in constant contact with each other. We have been in constant
+      contact with each other. This December, for our 23rd summit, 140 crore Indian
+      participants are waiting for you. Excellency, this is the depth and breadth of
+      our special and privileged strategic partnership. India and Russia have always
+      walked shoulder to shoulder. 21:26 approx: Our close cooperation is not only important
+      for the people of both the countries, but also for the peace, stability and prosperity
+      of the world. Your Excellency, we have been discussing the ongoing struggle in
+      Ukraine. We hope that all parties will move forward constructively. We will have
+      to find a way to end the conflict as soon as possible and establish a peaceful
+      state. This is a call of humanity. 21:53 approx: Excellency, once again I thank
+      you from the bottom of my heart. Of bilateral cooperation in various areas. Dear
+      Prime Minister, dear friend, Russia and India have been supporting special relations
+      for decades. They are friendly and trustworthy. This is the foundation for the
+      development of our relations in the future. And these relations have absolutely
+      non-party nature and are supported by the overwhelming majority of the peoples
+      of our countries. Putin [from subtitles]: 22:25 Today’s meeting is another good
+      opportunity to further strengthen our relations. We can say thtat our relationship
+      is based on principles. There is multifaceted cooperation between us. There is
+      a very trustworthy relationship between Russia and India, one that is not based
+      on politics.'
+    one_sentence_summary: During the SCO summit in Tianjin, Prime Minister Modi and
+      President Putin held significant bilateral meetings that reinforced the strong
+      and multi-dimensional India-Russia strategic relationship, highlighting cooperation
+      in defense, energy, trade, and technology.
+    paragraph_summary: During the recent SCO summit in Tianjin, Indian Prime Minister
+      Narendra Modi and Russian President Vladimir Putin held significant bilateral
+      meetings that reinforced the strong and multifaceted India-Russia strategic partnership,
+      particularly in defense, energy, trade, and technology. Both leaders acknowledged
+      the evolution of their relationship into a robust framework for cooperation, with
+      Modi highlighting the memorable nature of their interactions. Additionally, Modi
+      emphasized India's constructive role within the SCO, particularly in combating
+      terrorism, which he identified as a major global challenge. Meanwhile, Pakistan's
+      Prime Minister Shahbaz Sharif appeared isolated during the summit, and Modi's
+      recent diplomatic engagements, including a successful tour of China and Japan,
+      contributed to a sense of triumph for New Delhi.
+    published: '2025-09-02T04:59:58+00:00'
+  - title: Transcript of CNN18 (India) interview of 1 September
+    url: https://gilbertdoctorow.com/2025/09/02/transcript-of-cnn18-india-interview-of-1-september/
+    text: 'Transcript submitted by a reader CNN News18: 0:00 –the big summit that’s
+      taken place in Tianjin on the sidelines of the SCO summit from Mr. Modi and even
+      the Russian President Vladimir Putin held two significant bilateral meetings that
+      have reaffirmed the enduring strength and depth of the India-Russia strategic
+      relationship. Both leaders have emphasized the multi-dimensional nature of this
+      partnership, a time-tested one at that, which spans critical sectors, which are
+      mainly defense, energy, trade, and technology. And President Putin has described
+      the ties between the two nations as principled, even multifaceted, noting that
+      over the years the relationship has evolved into a robust framework for cooperation.
+      Echoing these sentiments, Prime Minister Modi has described his interactions with
+      President Putin as always memorable, underscoring the continuous high-level engagement
+      between the two nations. 0:51 While Prime Minister Modi has also reiterated India’s
+      constructive role within the SCO framework, especially when it comes to combating
+      terrorism, even disrupting terror financing in a notable diplomatic snub. Pakistan’s
+      Prime Minister Shahbaz Sharif has appeared isolated during this entire summit.
+      Prime Minister Modi left for New Delhi after a successful China-Japan tour. So
+      all in all, this past week has felt only diplomatic triumph for New Delhi. But
+      let’s also listen in to what Prime Minister Modi had to say in his plenary session
+      at the SCO. Modi: 1:32 [UNCONFIRMED TRANSLATION] I would like to say that security,
+      peace and security are the basis of any country. But in this path, terrorism,
+      terrorism and terrorism are big challenges. Terrorism is not only a threat to
+      the country, but also a simple challenge for full independence. It is not just
+      a challenge for the country, but a challenge for the entire humanity. The role
+      of the SCO Reds is important. At this time, India has led the Joint Information
+      Operation, initiative. We have supported the organization and have also supported
+      the Indian government for four decades to create the terrorism. So many mothers
+      lost their children and so many children were– CNN News18: 3:27 Gilbert Doctorow,
+      who is an author, also specializes in Russian relations, is joining me live on
+      the broadcast. Many thanks to you, Gilbert, for joining in on CNN News 18. We
+      just heard some very critical points being made by the Indian Prime Minister in
+      his plenary session at the SCO, especially when it comes to condemning terrorism
+      and double standards on terrorism. Before I deep-dive into the bilateral that’s
+      taken place between Prime Minister Modi and President Putin, share your thoughts
+      on how India has come down on the issue of terrorism. Also not to forget that
+      the SCO declaration has managed to condemn the Pehelgam terror attack as well
+      this time around, which India is of course seeing as a diplomatic thing. Doctorow:
+      4:07 The Shanghai Cooperation Organization unites Eurasia. Eurasia has many common
+      interests. Eurasia also has differences, some of which led to armed conflict,
+      as the recent clash between Pakistan and India illustrated. It would be unrealistic
+      to expect that 20, 25 countries would all see the same views, would all have the
+      same positions on most everything. And so it is that there is conflict among the
+      some of the member states of the Shanghai Cooperation Organization. Nonetheless,
+      it was extremely important that the declaration today condemned the attack in
+      Punjab and the terrorism which emanates, as everyone knows, from Pakistan. That
+      was an important victory. I would say for India in the group. Sorry. CNN News18:
+      You meant Kashmir, I believe, because– Doctorow: Ah, Kashmir, yes. Yes, you’re
+      correct. The point is that this was a diplomatic victory for India and theres
+      good reason for Mr. Modi to be proud of it. CNN News18: 5:22 What is your understanding
+      of the bilateral relationship between Moscow and New Delhi at a time when Donald
+      Trump is accusing India and Prime Minister Modi of funding Putin’s war chest,
+      calling Ukraine as Modi’s war. Prime Minister, on the other hand, has in fact,
+      of course, called upon the Russian president urging him to bring peace or to choose
+      peace, rather. And that’s been his stance always when he said that this is not
+      an era of war, something he reiterated this time around. But Russia has been equally
+      respectable and mindful of the Indian Prime Minister’s views on the war. Doctorow:
+      6:03 I think the basic common view of international relations among the member
+      states of the Shanghai Cooperation Organization is realism, the realistic school.
+      In the realistic school, countries look after their own national interests. And
+      national interests do collide. The case of India with respect to the United States
+      and Russia is a case in point. India has strong commercial attachment to the United
+      States, has been partly dependent on the United States for various arms deliveries.
+      It has also had both strong commercial and military geopolitical interests shared
+      with Russia. 6:48 So these sides have traditionally been in a balance. India has
+      walked a tightrope, I would say, for decades and decades. And that is nothing
+      new. What is new, of course, is Mr. Trump’s destruction of 25 years of American
+      diplomacy with respect to India to bring it into a grouping for containment of
+      Chinese expansion and economic growth. And that is the important outcome of his
+      tariffs, the tariffs on India, which have attracted a lot of attention, but I
+      think have been misunderstood. My reading of Mr. Trump is that he is actively
+      destroying the supports for United States hegemony and global domination. That
+      is his intent. We will only know if that is the case 10, 20 years from now when
+      archives are open. In the meantime, this is a supposition which I urge you to
+      consider. CNN News18: 7:46 You’ve in fact made a very critical point over there
+      because many are talking about how Trump has overnight almost dismantled this
+      25 years of a painstakingly created relationship between New Delhi and Washington,
+      one that was managed through various bipartisan efforts. And I’m going to quickly
+      bring in my correspondent, Siddhant, who also is joining us from the newsroom.
+      So Siddhant, when you look at the way the White House has been reacting, what
+      is one to make of that, given that many have said that if it was Biden who pushed
+      Russia towards China, it is Trump who is pushing India towards China? Siddhant:
+      8:26 Well, yes, that’s right Akanksha. But also Akanksha would like to add what
+      you just said, what I could read from the statements that are coming, that we
+      are getting to hear from the senior Trump officials. So as far as the policy level
+      is concerned Akanksha, those individuals are really committed to continuing the
+      relationship with India and perhaps giving efforts to improve ties. Why I am saying
+      this, because just last week we had two plus two official level dialogue with
+      the United States, and perhaps that the release, this is a State Department’s
+      release which did mention, which has mentioned of Quad and deepening cooperation
+      in nuclear energy, compact was also mentioned, etc. etc. 9:16 But when it comes
+      to people around president Trump, when it comes to people like Peter Navarro,
+      hardcore MAGA people, then their commentary, their remarks are below the belt.
+      They are doing everything to spoil this relationship. So as I said you know I
+      won’t say that everybody in the US administration right now is kind of giving
+      efforts to spoil the relationship. There are people, there are strategic experts
+      Akanksha, many are speaking to you and other of our colleagues here in the newsroom
+      and in fact you know they really want to, you know, continue with the relationship,
+      and they want this relationship to grow. So, you know, so that’s what I could
+      understand from the Trump administration and the US administration at this point.
+      CNN News18: 10:08 I want to take that point forward with Gilbert as well. Gilbert,
+      Siddhant has made a very significant point over there. Donald Trump’s view is
+      perhaps not the wider view of the United States. And I want to quote what the
+      US embassy has gone on to talk about. In fact, soon after Peter Navarro’s statement
+      shook all of India as we woke up, when he in fact again attacked India’s Prime
+      Minister, he’s also tried to create a wedge in terms of the cast. In fact, I wouldn’t
+      even want to go where he has been. It’s the lowest ebb of the kind of rhetoric
+      we’ve seen come out of White House. But the US Embassy in India has sent out a
+      very heartening statement which talks about India and the US relationship being
+      at the forefront of the 21st century relationship. They’ve also in fact sent out
+      a quotation of Marco Rubio that says that “the enduring friendship between our
+      two people is the bedrock of our cooperation and propels us forward as we realize
+      the tremendous potential of our economic relationship.” So Gilbert, I want to
+      bring you in on this divided view of India within the Trump administration. And
+      it’s clearly to do with MAGA versus the ones who are at the helm of affairs in
+      the White House. What is your view, and what could be the impact of this for the
+      Republicans ahead in the years ahead? Doctorow: 11:30 There’s only one view that
+      counts in the US White House, and that is Mr. Trump’s. I would not listen to anything
+      that Mr. Rubio says regarding relations with India, because he is not making the
+      policy. His boss is. The point is that Mr. Trump is not aimless, is not changing
+      views from day to day. He is a student of Henry Kissinger, {however] much that
+      may surprise your audience. He has followed– and this was clear in his first term
+      in office in the first year when he did, when his national securities strategy
+      was issued. This was a Kissinger policy. Henry Kissinger’s fingerprints were all
+      over Mr. Trump’s thinking then, and [I think] that persists today. India will
+      have good relations with the United States after this spat is ended, but it will
+      not continue in the creation of a quadrilateral grouping in the Indo-Pacific.
+      It will not be part of a block that is directed against China. And that is precisely
+      what Mr. Trump’s tariff attack on India is all about. CNN News18: 12:42 But, and
+      that’s why I want to bring you in. Has the tariff attack exposed the US hypocrisy?
+      Because they want to accuse us of war profiteering. What about the war profiteering
+      that the US is doing through companies like Lockheed Martin in Ukraine? Doctorow:
+      Don’t listen to words. Look at actions. Mr. Trump’s words are intended to deceive
+      everyone, particularly his opponents, domestically and abroad. They are not the
+      pointers to his actions. He will come back to India, but he is not coming back
+      to the quadrilateral. You will note the latest reports are that he will not attend
+      the quadrilateral summit. 13:21 That is his point. He wants to end blocs, and
+      he wants to recreate– as Mr. Kissinger indicated in his 1994 book, “Diplomacy”–
+      he wants to recreate the pre-World War I situation in global governance, where
+      there was multi-plurality, where there were individual states, including powerful
+      states, that looked after their national interests, but not in blocs. CNN News18:
+      13:49 Stay with me, Gilbert. I’m going to also request Siddhant to continue staying
+      with us. Let’s also take our viewers through the key highlights from Prime Minister’s
+      statement at the SCO summit. In fact he’s delivered some very crucial messages
+      especially using SCO as an acronym to begin with SECURITY. There can be no double
+      standards on terrorism, is what Prime Minister maintained. Terrorism is a shared
+      challenge for humanity. He said that India has seen the heinous face of terrorism
+      in Pahelgam on 22nd of April. He also went on to say that we have to spell it
+      out clearly, that there’s going to be no compromise on terrorism. And that any
+      open support to terrorism by any of the countries, whether they are sponsoring
+      it or not, is unacceptable. 14:35 As far as CONNECTIVITY, the “C” of SCO is concerned,
+      he went on to say that connectivity that bypasses sovereignty loses trust between
+      all the member nations. India is working on Chabahar port for connectivity, which
+      is why Iran’s role becomes extremely crucial. And that working on international
+      north-south transport corridor is important as well, a reminder for SCO to push
+      that forward. These projects will boost links with Afghanistan, Central Asia as
+      well. 15:07 As far as OPPORTUNITY is concerned, India is following the mantra
+      of “reform, perform, transform” as well. He also went on to invite all the member
+      states, even the ones who are in the observer position or the guest nations, to
+      become part of India’s growth story, to become part of India’s development journey
+      as well. Here’s what the India big wins are, but I’m going to quickly go across
+      to Suzanne to bring in a word as far as the big wins are concerned, let’s take
+      you through what the SCO declaration had to state. It strongly condemned the Pehelgam
+      terror attack to begin with. That’s been our diplomatic victory. SCO has called
+      for combating cross-border movement of terrorists as well. It has echoed India’s
+      line, which says that no double standards on terrorism should be tolerated. Of
+      course, there was a direct reference to not just Pakistan, even China, which has
+      been aiding Pakistan with direct intelligence information, something we observed
+      during Operation Sindhur as well as you as a firm determination to continue the
+      fight against terrorism. It also condemned the use of terror groups for mercenary
+      purposes as well. 16:16 Let’s quickly go back to Siddhan to continue to stay with
+      us. Siddhan, as far as connectivity is concerned, we’ve of course touched upon
+      terrorism. Take us through what are the expectations for India and how significant
+      is going to be Chabahar port, given the way we are seeing disturbances in that
+      entire region, as far as the ones surrounding Iran are concerned, not to forget
+      even Afghanistan and the way China and the United States also now want to make
+      inroads. CNNNews18 – Siddhan: 16:44 Definitely, you know, connectivity is very,
+      very important. In fact, the kind of projection India is doing for itself, the
+      role that in fact the world wants India to play in the coming years, perhaps for
+      that India needs to be well connected, Akanksha, whether it’s Vladivostok-Chennai
+      corridor, whether it’s North-South transit corridor, which will give Indian goods
+      access to markets in Afghanistan and Central Asia, whether it’s IMAC, Akanksha,
+      there’s a lot of work that has been put in by the Indian side as far as the IMAC
+      corridor is concerned. 17:23 So you know, connectivity is a major focus of the
+      Indian side, has always been the major focus of the Indian side. Also, you know,
+      when, … after the withdrawal of US troops, Akanksha, from Afghanistan, India has
+      been sending consignment to Afghanistan time and again, its wheat, medicines,
+      etc. And those consignments are reaching Afghanistan via Chabahar port. So, you
+      know, Chabahar port gets activated and via Chabahar it reaches Afghanistan. So
+      India is using Chabahar port. In fact, there were two two agreements also which
+      were signed last year between India and Iran. India pledged more money for the
+      project. So connectivity is definitely a focus area of the Indian government.
+      CNN News18: Gilbert, I want to quickly bring you in on the aspect of connectivity
+      in this Trumpian climate, which has made it extremely adverse for India and Iran
+      to operate together. Many say that had India not bowed down to Trump’s demands
+      of reducing its oil purchases from Iran under the previous Trump administration,
+      we could have perhaps set the benchmark much earlier. But what is your view, especially
+      when it comes to forward movement or ensuring forward movement on the Chabahar
+      port, given that Iran is also directly in the line of fire with Donald Trump?
+      Doctorrow: 18:49 Of course, this is important. Iran is very dependent on the support,
+      both diplomatic support and economic support of fellow members of the Shanghai
+      security organization. India has a prospect, a possibility of stepping up imports
+      of Iranian petroleum, which would be an important assistance. But I’d like to
+      mention one country that you’ve omitted: Armenia. It was quite surprising that
+      Armenia had a bilateral discussion with Vladimir Putin on the sidelines of the
+      SCO summit. And that is directly related to your interests as India in the North-South
+      corridor, because Armenia as a big player in the in the Southern Caucasus has
+      a decisive role in whether this succeeds. 19:44 In that respect you have to consider
+      the Europeans, because Armenia is being directed against Russia, like France.
+      So the situation is quite complex. CNN News18: It’s also of advantage to India,
+      given that Armenia is a direct counter to Azerbaijan, a country that has directly
+      pledged support to Pakistan also during Operation Sindhu. Doctorow: Yes, these
+      are very complex relations. Fortunately, a forum like SCO provides the opportunity
+      for these various leaders to meet and to meet in rapid succession with one another.
+      So that what is discussed between Putin and Pashinyan then becomes a subject for
+      discussion between the Armenians and the Indians [or both persons]. CNN News18:
+      20:37 Absolutely. I’m going to request you to continue staying with me, Gilbert,
+      a host of talking points, some in fact highlighted by you as well, which we perhaps
+      couldn’t touch upon, Armenia being that very significant factor. Let’s also listen
+      in to the reactions of the Russian president and the Indian prime minister during
+      that much talked about bilateral that took place. Let’s listen. Modi: [TRANSLATED]
+      21:02 We have been in constant contact with each other. We have been in constant
+      contact with each other. This December, for our 23rd summit, 140 crore Indian
+      participants are waiting for you. Excellency, this is the depth and breadth of
+      our special and privileged strategic partnership. India and Russia have always
+      walked shoulder to shoulder. 21:26 approx: Our close cooperation is not only important
+      for the people of both the countries, but also for the peace, stability and prosperity
+      of the world. Your Excellency, we have been discussing the ongoing struggle in
+      Ukraine. We hope that all parties will move forward constructively. We will have
+      to find a way to end the conflict as soon as possible and establish a peaceful
+      state. This is a call of humanity. 21:53 approx: Excellency, once again I thank
+      you from the bottom of my heart. Of bilateral cooperation in various areas. Dear
+      Prime Minister, dear friend, Russia and India have been supporting special relations
+      for decades. They are friendly and trustworthy. This is the foundation for the
+      development of our relations in the future. And these relations have absolutely
+      non-party nature and are supported by the overwhelming majority of the peoples
+      of our countries. Putin [from subtitles]: 22:25 Today’s meeting is another good
+      opportunity to further strengthen our relations. We can say thtat our relationship
+      is based on principles. There is multifaceted cooperation between us. There is
+      a very trustworthy relationship between Russia and India, one that is not based
+      on politics.'
+    one_sentence_summary: During the SCO summit in Tianjin, Prime Minister Modi and
+      President Putin held significant bilateral meetings that reinforced the strong
+      and multi-dimensional India-Russia strategic relationship, highlighting cooperation
+      in defense, energy, trade, and technology.
+    paragraph_summary: During the recent SCO summit in Tianjin, Indian Prime Minister
+      Narendra Modi and Russian President Vladimir Putin held significant bilateral
+      meetings that reinforced the strong and multifaceted India-Russia strategic partnership,
+      particularly in defense, energy, trade, and technology. Both leaders acknowledged
+      the evolution of their relationship into a robust framework for cooperation, with
+      Modi highlighting the memorable nature of their interactions. Additionally, Modi
+      emphasized India's constructive role within the SCO, particularly in combating
+      terrorism, which he identified as a major global challenge. Meanwhile, Pakistan's
+      Prime Minister Shahbaz Sharif appeared isolated during the summit, and Modi's
+      recent diplomatic engagements, including a successful tour of China and Japan,
+      contributed to a sense of triumph for New Delhi.
+    published: '2025-09-02T04:59:58+00:00'
+  - title: 'Conversation with Professor Glenn Diesen: China, Russia & India Build New
+      World Order'
+    url: https://gilbertdoctorow.com/2025/09/01/conversation-with-professor-glenn-diesen-china-russia-india-build-new-world-order/
+    text: 'My Indian broadcaster friends may take their time sharing links to videos
+      of our panel discussions today and in the past couple of days, but here in my
+      conversation recorded in the late afternoon today with Professor Glenn Diesen
+      you will find most of the ideas I discussed with the Indians and then also a review
+      of the entire question of whether Trump’s tariff war on India was an act of miscalculation
+      and/or stupidity. Or was a well disguised measure to break up the Quadrilateral
+      arrangements for containment of China where India was intended by Washington to
+      play a key role? Background information: you do not hear it on the video but several
+      times during this interview a persistent Indian news agency journalist phoned
+      me and the long ringing of my phone was at that point terribly distracting. Judge
+      Napolitano is lucky just to have the occasional bark of his dog interrupt his
+      recording sessions.'
+    one_sentence_summary: In a recent conversation with Professor Glenn Diesen, the
+      speaker explores the implications of Trump's tariff war on India, questioning
+      whether it was a miscalculation or a strategic move to undermine India's role
+      in the Quadrilateral alliance aimed at containing China, while also noting the
+      distractions caused by persistent phone calls during the interview.
+    paragraph_summary: In a recent conversation with Professor Glenn Diesen, the speaker
+      reflects on discussions held with Indian broadcasters regarding the implications
+      of Trump's tariff war on India, questioning whether it was a miscalculation or
+      a strategic move to undermine the Quadrilateral alliance aimed at containing China,
+      in which India was expected to play a significant role. The interview, recorded
+      in the late afternoon, also features interruptions from a persistent Indian journalist's
+      phone calls, contrasting with Judge Napolitano's more serene recording environment.
+    published: '2025-09-01T18:48:43+00:00'
+  - title: 'Conversation with Professor Glenn Diesen: China, Russia & India Build New
+      World Order'
+    url: https://gilbertdoctorow.com/2025/09/01/conversation-with-professor-glenn-diesen-china-russia-india-build-new-world-order/
+    text: 'My Indian broadcaster friends may take their time sharing links to videos
+      of our panel discussions today and in the past couple of days, but here in my
+      conversation recorded in the late afternoon today with Professor Glenn Diesen
+      you will find most of the ideas I discussed with the Indians and then also a review
+      of the entire question of whether Trump’s tariff war on India was an act of miscalculation
+      and/or stupidity. Or was a well disguised measure to break up the Quadrilateral
+      arrangements for containment of China where India was intended by Washington to
+      play a key role? Background information: you do not hear it on the video but several
+      times during this interview a persistent Indian news agency journalist phoned
+      me and the long ringing of my phone was at that point terribly distracting. Judge
+      Napolitano is lucky just to have the occasional bark of his dog interrupt his
+      recording sessions.'
+    one_sentence_summary: In a recent conversation with Professor Glenn Diesen, the
+      speaker explores the implications of Trump's tariff war on India, questioning
+      whether it was a miscalculation or a strategic move to undermine India's role
+      in the Quadrilateral alliance aimed at containing China, while also noting the
+      distractions caused by persistent phone calls during the interview.
+    paragraph_summary: In a recent conversation with Professor Glenn Diesen, the speaker
+      reflects on discussions held with Indian broadcasters regarding the implications
+      of Trump's tariff war on India, questioning whether it was a miscalculation or
+      a strategic move to undermine the Quadrilateral alliance aimed at containing China,
+      in which India was expected to play a significant role. The interview, recorded
+      in the late afternoon, also features interruptions from a persistent Indian journalist's
+      phone calls, contrasting with Judge Napolitano's more serene recording environment.
+    published: '2025-09-01T18:48:43+00:00'
+  - title: News X (India) interview of this afternoon:  India Loses $100B to China Despite
+      Bilateral Talks | China-India Trade Gap
+    url: https://gilbertdoctorow.com/2025/09/01/news-x-india-interview-of-this-afternoon-india-loses-100b-to-china-despite-bilateral-talks-china-india-trade-gap/
+    text: I take my hat off to the production team at News X for speeding to me the
+      link to this afternoon’s interview on the results of the now closed Shanghai Cooperation
+      Organization summit in Tianjin, Chkna. The interview is brief and self-explanatory. 
+      Enjoy the show!
+    one_sentence_summary: The author praises the News X production team for quickly
+      providing a link to a brief interview discussing the outcomes of the recently
+      concluded Shanghai Cooperation Organization summit in Tianjin, China.
+    paragraph_summary: The author expresses appreciation for the production team at
+      News X for quickly providing a link to an interview discussing the outcomes of
+      the recently concluded Shanghai Cooperation Organization summit in Tianjin, China.
+      The interview is described as concise and clear, inviting viewers to enjoy the
+      content.
+    published: '2025-09-01T15:51:43+00:00'
+  - title: News X (India) interview of this afternoon:  India Loses $100B to China Despite
+      Bilateral Talks | China-India Trade Gap
+    url: https://gilbertdoctorow.com/2025/09/01/news-x-india-interview-of-this-afternoon-india-loses-100b-to-china-despite-bilateral-talks-china-india-trade-gap/
+    text: I take my hat off to the production team at News X for speeding to me the
+      link to this afternoon’s interview on the results of the now closed Shanghai Cooperation
+      Organization summit in Tianjin, Chkna. The interview is brief and self-explanatory. 
+      Enjoy the show!
+    one_sentence_summary: The author praises the News X production team for quickly
+      providing a link to a brief interview discussing the outcomes of the recently
+      concluded Shanghai Cooperation Organization summit in Tianjin, China.
+    paragraph_summary: The author expresses appreciation for the production team at
+      News X for quickly providing a link to an interview discussing the outcomes of
+      the recently concluded Shanghai Cooperation Organization summit in Tianjin, China.
+      The interview is described as concise and clear, inviting viewers to enjoy the
+      content.
+    published: '2025-09-01T15:51:43+00:00'
+  - title: News X (India) panel discussion ahead of the SCO summit
+    url: https://gilbertdoctorow.com/2025/09/01/news-x-india-panel-discussion-ahead-of-the-sco-summit/
+    text: News X (India) panel discussion ahead of the SCO summit As noted in my last
+      essay, the Indian broadcasters have been overloaded by their coverage of the Shanghai
+      Cooperation Organization summit from a couple of days prior to its opening through
+      its culmination with issuance of its declaration today. I have just received from
+      News X the link to our conversation of two days ago when I was part of a panel
+      discussion of what may be expected from the summit.  All attention was on the
+      impact of the new 50% tariffs that Trump had just imposed on India and my own
+      comments here surely surprised the News X producers. However, they remained interested
+      in my novel interpretation so that there was an important follow-on interview
+      with them today.
+    one_sentence_summary: The article discusses a panel discussion on News X regarding
+      expectations from the SCO summit, highlighting the impact of new tariffs imposed
+      by Trump on India and the author's surprising insights that led to further interviews.
+    paragraph_summary: In a recent panel discussion on News X ahead of the Shanghai
+      Cooperation Organization (SCO) summit, the focus was primarily on the implications
+      of the new 50% tariffs imposed by Trump on India. The discussion, which took place
+      just days before the summit's conclusion and the issuance of its declaration,
+      highlighted the broadcasters' extensive coverage of the event. My unexpected insights
+      during the conversation caught the attention of the News X producers, leading
+      to a follow-up interview to further explore my unique perspective on the situation.
+    published: '2025-09-01T15:38:26+00:00'
+  - title: News X (India) panel discussion ahead of the SCO summit
+    url: https://gilbertdoctorow.com/2025/09/01/news-x-india-panel-discussion-ahead-of-the-sco-summit/
+    text: News X (India) panel discussion ahead of the SCO summit As noted in my last
+      essay, the Indian broadcasters have been overloaded by their coverage of the Shanghai
+      Cooperation Organization summit from a couple of days prior to its opening through
+      its culmination with issuance of its declaration today. I have just received from
+      News X the link to our conversation of two days ago when I was part of a panel
+      discussion of what may be expected from the summit.  All attention was on the
+      impact of the new 50% tariffs that Trump had just imposed on India and my own
+      comments here surely surprised the News X producers. However, they remained interested
+      in my novel interpretation so that there was an important follow-on interview
+      with them today.
+    one_sentence_summary: The article discusses a panel discussion on News X regarding
+      expectations from the SCO summit, highlighting the impact of new tariffs imposed
+      by Trump on India and the author's surprising insights that led to further interviews.
+    paragraph_summary: In a recent panel discussion on News X ahead of the Shanghai
+      Cooperation Organization (SCO) summit, the focus was primarily on the implications
+      of the new 50% tariffs imposed by Trump on India. The discussion, which took place
+      just days before the summit's conclusion and the issuance of its declaration,
+      highlighted the broadcasters' extensive coverage of the event. My unexpected insights
+      during the conversation caught the attention of the News X producers, leading
+      to a follow-up interview to further explore my unique perspective on the situation.
+    published: '2025-09-01T15:38:26+00:00'
+  - title: CNN18 (India) panel discussion of the Shanghai Cooperation Organization summit
+    url: https://gilbertdoctorow.com/2025/09/01/cnn18-india-panel-discussion-of-the-shanghai-cooperation-organization-summit/
+    text: 'This has been a very hectic day of interviews and panel discussions with
+      three Indian broadcasters – News X, News X World and CNN18.  The visit of their
+      Prime Minister Modi to the Shanghai Cooperation Organization summit has been followed
+      in India with at least as much attention, probably more than in Russia, where
+      it was the number one news item on the weekly summary program last night. Regrettably,
+      the Indian broadcasters are so overloaded with work that they have not forwarded
+      to me links to these programs in which I participated, with one exception so far,
+      the link below from CNN18. #SCOSummit2025 | PM Modi–Putin meet on #SCO sidelines
+      reaffirms ties across defence, energy, trade & tech Putin calls it a “principled
+      & multifaceted” bond; Modi terms it “always memorable.” @GilbertDoctorow @akankshaswarups
+      @siddhantvm share details #ModiInChina #IndiaRussia pic.twitter.com/uqFDyZyVUz
+      — News18 (@CNNnews18) September 1, 2025 I offer this not so much for the sake
+      of what I had to say but to share with the Community the angle of interpretation
+      that the Indian broadcasters are using for their audiences. This particular video
+      was recorded before 11 am European time.  A video interview/panel discussion with
+      News X in the mid-afternoon was remarkable for the gloating of the Indian journalist
+      and panelists over the humiliation of Pakistan at the summit. What they have in
+      mind is one point in the closing declaration of the summit issuing a rebuke over
+      ‘cross-border terrorism’ that made possible a deadly attack on Indian Kashmir. 
+      The unnamed sponsor of terrorism was, of course, Pakistan, and the incident prompted
+      the brief Indian-Pakistani air war that Donald Trump has taken credit for resolving.
+      Regrettably, Indian broadcasters seem to be missing the truly historic nature
+      of the SCO summit for their country, which lay not in the fall of Pakistan but
+      in the prospects for a rise of their own country to a managing position in the
+      SCO.  Let us remember that from its founding at the beginning of the new millennium,
+      the Shanghai Cooperation Organization was primarily an instrument for Russia and
+      China to moderate their competing interests in Central Asia and to keep out the
+      Americans, the Europeans and other interlopers. It was focused on combatting terrorism
+      and narcotics trading.  The working languages of the SCO were and remain Russian
+      and Mandarin, which tells you who is running the show. Now, with India in the
+      midst of a painful spat with the United States, with the work of 25 years by successive
+      American administrations to inveigle India in its scheme for building an alliance
+      to counter Chinese growth and influence in the Indo-Pacific region shredded and
+      in tatters, the moment has come for India to realize its nonalignment and sovereignty
+      by assuming a leading role in the SCO. The Summit was also historic in the expansion
+      of the mission of the SCO from Eurasia-wide security to Eurasia-wide economic
+      and financial management.  In his speech to the assembled guests, President Xi
+      mentioned plans to create an SCO Development Bank and trade issues predominated
+      in the one-on-one side meetings of participants.  That is all new.  One may compare
+      this with BRICS, but whereas BRICS is global in scope and has some foot draggers
+      at the top, like Brazil and South Africa, the SCO is focused on Eurasia and appears
+      to be able to act more quickly on agreed objectives. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: The article discusses a busy day of interviews and discussions
+      with Indian broadcasters regarding Prime Minister Modi's visit to the Shanghai
+      Cooperation Organization summit, highlighting the significant media attention
+      it received in India, although the broadcasters have not yet provided links to
+      the programs featuring the author's participation.
+    paragraph_summary: The article discusses the intense media coverage in India surrounding
+      Prime Minister Modi's attendance at the Shanghai Cooperation Organization (SCO)
+      summit, highlighting interviews and panel discussions conducted by Indian broadcasters
+      News X, News X World, and CNN18. The summit has garnered significant attention
+      in India, arguably more than in Russia, with a focus on Modi's meeting with Putin,
+      which emphasized their strong bilateral ties. However, the Indian media's narrative
+      has been criticized for overly celebrating Pakistan's perceived humiliation at
+      the summit, particularly regarding a rebuke over cross-border terrorism linked
+      to Pakistan. The author argues that Indian broadcasters are overlooking the summit's
+      historic significance for India, which lies in the potential for the country to
+      assume a more influential role within the SCO, rather than merely reveling in
+      Pakistan's setbacks.
+    published: '2025-09-01T15:10:31+00:00'
+  - title: CNN18 (India) panel discussion of the Shanghai Cooperation Organization summit
+    url: https://gilbertdoctorow.com/2025/09/01/cnn18-india-panel-discussion-of-the-shanghai-cooperation-organization-summit/
+    text: 'This has been a very hectic day of interviews and panel discussions with
+      three Indian broadcasters – News X, News X World and CNN18.  The visit of their
+      Prime Minister Modi to the Shanghai Cooperation Organization summit has been followed
+      in India with at least as much attention, probably more than in Russia, where
+      it was the number one news item on the weekly summary program last night. Regrettably,
+      the Indian broadcasters are so overloaded with work that they have not forwarded
+      to me links to these programs in which I participated, with one exception so far,
+      the link below from CNN18. #SCOSummit2025 | PM Modi–Putin meet on #SCO sidelines
+      reaffirms ties across defence, energy, trade & tech Putin calls it a “principled
+      & multifaceted” bond; Modi terms it “always memorable.” @GilbertDoctorow @akankshaswarups
+      @siddhantvm share details #ModiInChina #IndiaRussia pic.twitter.com/uqFDyZyVUz
+      — News18 (@CNNnews18) September 1, 2025 I offer this not so much for the sake
+      of what I had to say but to share with the Community the angle of interpretation
+      that the Indian broadcasters are using for their audiences. This particular video
+      was recorded before 11 am European time.  A video interview/panel discussion with
+      News X in the mid-afternoon was remarkable for the gloating of the Indian journalist
+      and panelists over the humiliation of Pakistan at the summit. What they have in
+      mind is one point in the closing declaration of the summit issuing a rebuke over
+      ‘cross-border terrorism’ that made possible a deadly attack on Indian Kashmir. 
+      The unnamed sponsor of terrorism was, of course, Pakistan, and the incident prompted
+      the brief Indian-Pakistani air war that Donald Trump has taken credit for resolving.
+      Regrettably, Indian broadcasters seem to be missing the truly historic nature
+      of the SCO summit for their country, which lay not in the fall of Pakistan but
+      in the prospects for a rise of their own country to a managing position in the
+      SCO.  Let us remember that from its founding at the beginning of the new millennium,
+      the Shanghai Cooperation Organization was primarily an instrument for Russia and
+      China to moderate their competing interests in Central Asia and to keep out the
+      Americans, the Europeans and other interlopers. It was focused on combatting terrorism
+      and narcotics trading.  The working languages of the SCO were and remain Russian
+      and Mandarin, which tells you who is running the show. Now, with India in the
+      midst of a painful spat with the United States, with the work of 25 years by successive
+      American administrations to inveigle India in its scheme for building an alliance
+      to counter Chinese growth and influence in the Indo-Pacific region shredded and
+      in tatters, the moment has come for India to realize its nonalignment and sovereignty
+      by assuming a leading role in the SCO. The Summit was also historic in the expansion
+      of the mission of the SCO from Eurasia-wide security to Eurasia-wide economic
+      and financial management.  In his speech to the assembled guests, President Xi
+      mentioned plans to create an SCO Development Bank and trade issues predominated
+      in the one-on-one side meetings of participants.  That is all new.  One may compare
+      this with BRICS, but whereas BRICS is global in scope and has some foot draggers
+      at the top, like Brazil and South Africa, the SCO is focused on Eurasia and appears
+      to be able to act more quickly on agreed objectives. ©Gilbert Doctorow, 2025'
+    one_sentence_summary: The article discusses a busy day of interviews and discussions
+      with Indian broadcasters regarding Prime Minister Modi's visit to the Shanghai
+      Cooperation Organization summit, highlighting the significant media attention
+      it received in India, although the broadcasters have not yet provided links to
+      the programs featuring the author's participation.
+    paragraph_summary: The article discusses the intense media coverage in India surrounding
+      Prime Minister Modi's attendance at the Shanghai Cooperation Organization (SCO)
+      summit, highlighting interviews and panel discussions conducted by Indian broadcasters
+      News X, News X World, and CNN18. The summit has garnered significant attention
+      in India, arguably more than in Russia, with a focus on Modi's meeting with Putin,
+      which emphasized their strong bilateral ties. However, the Indian media's narrative
+      has been criticized for overly celebrating Pakistan's perceived humiliation at
+      the summit, particularly regarding a rebuke over cross-border terrorism linked
+      to Pakistan. The author argues that Indian broadcasters are overlooking the summit's
+      historic significance for India, which lies in the potential for the country to
+      assume a more influential role within the SCO, rather than merely reveling in
+      Pakistan's setbacks.
+    published: '2025-09-01T15:10:31+00:00'
+  - title: Transcript of one-minute interview with News X World on SCO summit, 30 August
+    url: https://gilbertdoctorow.com/2025/08/31/transcript-of-one-minute-interview-with-news-x-world-on-sco-summit-30-august/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=UoneF3TiqJM
+      Kataoka – NewsX World: 13:15 Now we move on to our guest discussion with Gilbert
+      Doctorow. He’s a Russian affairs expert, joins us live from Brussels. Thank you
+      very much for joining us again. Good to see you. Now, President Xi is hosting
+      a very high-profile SCO summit this year, including Russian president. What message
+      do you think China is hoping to send to the global community through this gathering?
+      Doctorow: 13:40 I think it is going to emphasize the consolidation, the growing
+      consolidation of Eurasia and of the global South in an agenda for a multi-polar
+      world. The fact that Putin is going to China for the SCO is in response to the
+      Chinese president’s visit to Moscow for the 80th anniversary celebrations of the
+      end of the war of Europe. So that is exactly a reflection of the preceding visit.
+      Nonetheless, what we see here is an additional presence that is very important,
+      the presence of India, of Mr. Modi, because in the past few weeks, India has found
+      itself in a spat with the United States, which has reversed 25 years of American
+      efforts to bring India into an anti-Chinese encirclement, a coalition against
+      China. 14:45 That has now collapsed entirely. And I believe that these big three
+      powers, China, Russia, and India, will be using time on the, alongside the regular
+      meetings of the Shanghai Cooperation Organization and ahead of the parade in Beijing
+      for the 80th anniversary to discuss precisely these crucial issues of how to respond
+      to America’s aggressive behavior and how to defend themselves against the economic
+      warfare. Kataoka: 15:21 Dr. Gilbert Doctorow, we will be cutting to live in China,
+      so please stay with us and thank you for joining [us.]'
+    one_sentence_summary: Gilbert Doctorow discusses the significance of President Xi's
+      hosting of the SCO summit, highlighting its role in promoting the consolidation
+      of Eurasia and the global South towards a multi-polar world, particularly in the
+      context of Russia's participation following Xi's earlier visit to Moscow.
+    paragraph_summary: In a discussion on NewsX World, Russian affairs expert Gilbert
+      Doctorow analyzed the significance of the upcoming Shanghai Cooperation Organization
+      (SCO) summit hosted by President Xi in China, which will include Russian President
+      Vladimir Putin. Doctorow emphasized that the summit symbolizes the strengthening
+      ties among Eurasian nations and the Global South in pursuit of a multi-polar world.
+      He noted that the meeting follows a recent visit by Xi to Moscow, highlighting
+      the interconnectedness of their diplomatic efforts. Additionally, the presence
+      of Indian Prime Minister Modi is crucial, especially as India has recently distanced
+      itself from U.S. efforts to encircle China, marking a shift in geopolitical dynamics.
+      Doctorow suggested that the leaders of China, Russia, and India will likely discuss
+      strategies to counter U.S. aggression and economic warfare during the summit.
+    published: '2025-08-31T06:10:51+00:00'
+  - title: Transcript of one-minute interview with News X World on SCO summit, 30 August
+    url: https://gilbertdoctorow.com/2025/08/31/transcript-of-one-minute-interview-with-news-x-world-on-sco-summit-30-august/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=UoneF3TiqJM
+      Kataoka – NewsX World: 13:15 Now we move on to our guest discussion with Gilbert
+      Doctorow. He’s a Russian affairs expert, joins us live from Brussels. Thank you
+      very much for joining us again. Good to see you. Now, President Xi is hosting
+      a very high-profile SCO summit this year, including Russian president. What message
+      do you think China is hoping to send to the global community through this gathering?
+      Doctorow: 13:40 I think it is going to emphasize the consolidation, the growing
+      consolidation of Eurasia and of the global South in an agenda for a multi-polar
+      world. The fact that Putin is going to China for the SCO is in response to the
+      Chinese president’s visit to Moscow for the 80th anniversary celebrations of the
+      end of the war of Europe. So that is exactly a reflection of the preceding visit.
+      Nonetheless, what we see here is an additional presence that is very important,
+      the presence of India, of Mr. Modi, because in the past few weeks, India has found
+      itself in a spat with the United States, which has reversed 25 years of American
+      efforts to bring India into an anti-Chinese encirclement, a coalition against
+      China. 14:45 That has now collapsed entirely. And I believe that these big three
+      powers, China, Russia, and India, will be using time on the, alongside the regular
+      meetings of the Shanghai Cooperation Organization and ahead of the parade in Beijing
+      for the 80th anniversary to discuss precisely these crucial issues of how to respond
+      to America’s aggressive behavior and how to defend themselves against the economic
+      warfare. Kataoka: 15:21 Dr. Gilbert Doctorow, we will be cutting to live in China,
+      so please stay with us and thank you for joining [us.]'
+    one_sentence_summary: Gilbert Doctorow discusses the significance of President Xi's
+      hosting of the SCO summit, highlighting its role in promoting the consolidation
+      of Eurasia and the global South towards a multi-polar world, particularly in the
+      context of Russia's participation following Xi's earlier visit to Moscow.
+    paragraph_summary: In a discussion on NewsX World, Russian affairs expert Gilbert
+      Doctorow analyzed the significance of the upcoming Shanghai Cooperation Organization
+      (SCO) summit hosted by President Xi in China, which will include Russian President
+      Vladimir Putin. Doctorow emphasized that the summit symbolizes the strengthening
+      ties among Eurasian nations and the Global South in pursuit of a multi-polar world.
+      He noted that the meeting follows a recent visit by Xi to Moscow, highlighting
+      the interconnectedness of their diplomatic efforts. Additionally, the presence
+      of Indian Prime Minister Modi is crucial, especially as India has recently distanced
+      itself from U.S. efforts to encircle China, marking a shift in geopolitical dynamics.
+      Doctorow suggested that the leaders of China, Russia, and India will likely discuss
+      strategies to counter U.S. aggression and economic warfare during the summit.
+    published: '2025-08-31T06:10:51+00:00'
+  - title: Transcript of News X World interview on the Russia-Ukraine War, 20 August
+    url: https://gilbertdoctorow.com/2025/08/31/transcript-of-news-x-world-interview-on-the-russia-ukraine-war-20-august/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=HtFWnlOedjA
+      Kataoka – NewsX World: 0:00 Thank you very much. Now we move on. But as these
+      diplomatic exchanges unfold, Ukraine is hit by fresh violence. Overnight, Russia
+      carried out what officials called a massive strike on Zaporizhzhia, killing at
+      least one person and wounding 24, including two children. Homes, cafes, and industrial
+      sites were destroyed. Ukraine’s central Dnipropetrovsk region also came under
+      heavy attack with explosions in Dnipro, and Pavlograd. Authorities have confirmed
+      Russian troops have now entered the region, marking a dangerous escalation in
+      this area previously spared from fighting. 0:41 Speaking at the UN Security Council,
+      Ukrainian Prime Minister Yulia Svyrydenko has condemned the attacks, declaring
+      Russia continues to choose killing over ending the war. Let’s listen in. Svyrydenko:
+      These killings are deliberate acts of terror. It’s an informed decision taken
+      by Moscow to continue its systematic campaign to terrorize civilians and extinguish
+      any semblance of normal life. Yesterday, Russia again responded brutally to our
+      attempts to engage them in a civilized dialogue in the language of international
+      law, peace, and respect for human life. 1:30 Russia continues to choose killing
+      over ending the war. [We] still hope that this Council and its member states,
+      who have consistently emphasized the need for cessation of the hostilities, will
+      now show the courage to turn word into action by supporting a relevant solution
+      on the matter. Kataoka: 1:53 So as leaders converge in Tianjin, the human toll
+      of the war deepens, emphasizing the stark divide between diplomacy and devastation
+      on the ground. Now for this discussion we are joined by Gilbert Doctorow. He is
+      a Russian affairs expert, joins us live from Brussels. Thank you very much for
+      staying with us and joining us again. Now with leaders meeting under the SCO framework,
+      how realistic is it to expect that diplomatic summits can influence the course
+      of the current Russia-Ukraine war? Doctorow: 2:30 Well, it has already been made
+      clear that the subject for discussion between Presidents Putin and Xi when they
+      meet ahead of the parade in Beijing will be precisely the war in Ukraine. Of course,
+      there are other issues, important issues, that they will be discussing, such as
+      the decision of the big three in Europe, the UK, France, and Germany to use the
+      provisions for reimposing sanctions on Iran, and the president of Iran will be
+      there. There are many subjects that are topical and important. 3:09 I could say
+      that Mr. Trump has done his best to provide the key members of the … SCO meeting
+      and of the celebrants of the end of the war in the Pacific with talk and the possibility
+      to address and define a common policy on these very issues. I also want to mention
+      something that your viewers may not be expecting. It is possible that the meeting
+      in China will have a very big surprise, a rabbit pulled out of the hat. That is
+      to say, the Russian media are still considering that Mr. Trump may show up in
+      Beijing for the parade. That is not to be excluded. I’d like to emphasize that
+      this disruption, this disorder, which you in India are feeling particularly over
+      the tariff war, is not arbitrary and is not without a foundation. The foundation
+      is Mr. Trump’s hidden agenda to disrupt entirely the existing world order of American
+      hegemony and to prepare the way for a multipolar world, however strange that may
+      appear from his words, My insistence is to ignore his words and follow his actions.
+      That he has applied these tariffs on India, just ahead of this important meeting
+      is not an accident. It is intentional. And it is to get your presidents talking
+      about how to deal with the United States. Kataoka: Yes. And that is very interesting
+      that you’ve mentioned that a surprise guest might show up hinting to US President
+      Donald Trump. If– we can only speculate here– but if he were to show up, do you
+      think that this can shift the narrative at the ongoing diplomatic talks in Tianjin
+      and maybe we might see any breakthrough? What do you think? Doctorow: 5:13 Well,
+      Mr. Trump has said recently in the last two weeks how much he would like to meet
+      with Mr. Kim, how much he would like to meet with President Xi. They’re both in
+      Beijing for this parade, and so it would be very convenient for him to be there.
+      The European leaders, aside from Mr. Vucic in Serbia and Mr. Fico in Slovakia,
+      the EU-25 hardliners have all declined to accept the invitation. And it would
+      be remarkable if, and in keeping with his policies, if Mr. Trump were to show
+      up. I can’t say that will happen, but there is a possibility that the Russians
+      have detected and are publishing in very serious periodicals and online assets.
+      6:00 So Mr. Trump has destroyed what 25 years of American diplomacy have tried
+      to do by enlisting India in a quadrilateral arrangement of countries encircling
+      and opposing China. He has destroyed that in a few weeks. That is the real outcome
+      of his tariff policy. The tariffs are nonsense compared to that geopolitical act,
+      which I insist was not an accident, was not something that he missed, but it’s
+      something that he intentionally brought about. So I think India also should rethink
+      what Mr. Trump is doing. It is not what it appears to be. Kataoka: And now looking–
+      thank you very much for sharing that– and now looking back at Ukraine and its
+      allies, do you think there is any fatigue from the allies in Europe for Ukraine?
+      Do you think that could eventually impact the level of military and financial
+      aid that’s flowing now from the West? Doctorow: I would disagree with your generalization.
+      Ukraine has no allies in Europe. It only has destroyers in Europe. What Europe
+      is doing is to fight Russia to the last Ukrainian. That is not a friend or ally
+      of Ukraine. And that has to be made clear, because we are living in a world of
+      Orwellian double talk, where peace is war and war is peace. Think for yourselves
+      and understand that Europe is no friend of Ukraine. Kataoka: Right. Thank you
+      very much for bringing us fresh perspective and always sharing good insights from
+      Brussels. 7:41 That was Gilbert Doctorow. This is all we have time for. We will
+      continue to bring you more news updates from around the world and the SCO Summit.'
+    one_sentence_summary: Ukraine experienced renewed violence as Russia launched a
+      significant strike on Zaporizhzhia, resulting in casualties and destruction, while
+      Ukrainian officials condemned the attacks as deliberate acts of terror during
+      a UN Security Council meeting.
+    paragraph_summary: In a recent escalation of violence, Russia launched a significant
+      attack on Zaporizhzhia, resulting in one death and 24 injuries, including two
+      children, while also targeting Ukraine's Dnipropetrovsk region, where Russian
+      troops have reportedly entered. Ukrainian Prime Minister Yulia Svyrydenko condemned
+      these assaults as deliberate acts of terror aimed at terrorizing civilians and
+      undermining normal life, criticizing Russia for prioritizing violence over diplomatic
+      engagement. As leaders gather in Tianjin for discussions, the stark contrast between
+      ongoing diplomatic efforts and the harsh realities of conflict on the ground highlights
+      the challenges of achieving peace amid continued hostilities.
+    published: '2025-08-31T06:06:15+00:00'
+  - title: Transcript of News X World interview on the Russia-Ukraine War, 20 August
+    url: https://gilbertdoctorow.com/2025/08/31/transcript-of-news-x-world-interview-on-the-russia-ukraine-war-20-august/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=HtFWnlOedjA
+      Kataoka – NewsX World: 0:00 Thank you very much. Now we move on. But as these
+      diplomatic exchanges unfold, Ukraine is hit by fresh violence. Overnight, Russia
+      carried out what officials called a massive strike on Zaporizhzhia, killing at
+      least one person and wounding 24, including two children. Homes, cafes, and industrial
+      sites were destroyed. Ukraine’s central Dnipropetrovsk region also came under
+      heavy attack with explosions in Dnipro, and Pavlograd. Authorities have confirmed
+      Russian troops have now entered the region, marking a dangerous escalation in
+      this area previously spared from fighting. 0:41 Speaking at the UN Security Council,
+      Ukrainian Prime Minister Yulia Svyrydenko has condemned the attacks, declaring
+      Russia continues to choose killing over ending the war. Let’s listen in. Svyrydenko:
+      These killings are deliberate acts of terror. It’s an informed decision taken
+      by Moscow to continue its systematic campaign to terrorize civilians and extinguish
+      any semblance of normal life. Yesterday, Russia again responded brutally to our
+      attempts to engage them in a civilized dialogue in the language of international
+      law, peace, and respect for human life. 1:30 Russia continues to choose killing
+      over ending the war. [We] still hope that this Council and its member states,
+      who have consistently emphasized the need for cessation of the hostilities, will
+      now show the courage to turn word into action by supporting a relevant solution
+      on the matter. Kataoka: 1:53 So as leaders converge in Tianjin, the human toll
+      of the war deepens, emphasizing the stark divide between diplomacy and devastation
+      on the ground. Now for this discussion we are joined by Gilbert Doctorow. He is
+      a Russian affairs expert, joins us live from Brussels. Thank you very much for
+      staying with us and joining us again. Now with leaders meeting under the SCO framework,
+      how realistic is it to expect that diplomatic summits can influence the course
+      of the current Russia-Ukraine war? Doctorow: 2:30 Well, it has already been made
+      clear that the subject for discussion between Presidents Putin and Xi when they
+      meet ahead of the parade in Beijing will be precisely the war in Ukraine. Of course,
+      there are other issues, important issues, that they will be discussing, such as
+      the decision of the big three in Europe, the UK, France, and Germany to use the
+      provisions for reimposing sanctions on Iran, and the president of Iran will be
+      there. There are many subjects that are topical and important. 3:09 I could say
+      that Mr. Trump has done his best to provide the key members of the … SCO meeting
+      and of the celebrants of the end of the war in the Pacific with talk and the possibility
+      to address and define a common policy on these very issues. I also want to mention
+      something that your viewers may not be expecting. It is possible that the meeting
+      in China will have a very big surprise, a rabbit pulled out of the hat. That is
+      to say, the Russian media are still considering that Mr. Trump may show up in
+      Beijing for the parade. That is not to be excluded. I’d like to emphasize that
+      this disruption, this disorder, which you in India are feeling particularly over
+      the tariff war, is not arbitrary and is not without a foundation. The foundation
+      is Mr. Trump’s hidden agenda to disrupt entirely the existing world order of American
+      hegemony and to prepare the way for a multipolar world, however strange that may
+      appear from his words, My insistence is to ignore his words and follow his actions.
+      That he has applied these tariffs on India, just ahead of this important meeting
+      is not an accident. It is intentional. And it is to get your presidents talking
+      about how to deal with the United States. Kataoka: Yes. And that is very interesting
+      that you’ve mentioned that a surprise guest might show up hinting to US President
+      Donald Trump. If– we can only speculate here– but if he were to show up, do you
+      think that this can shift the narrative at the ongoing diplomatic talks in Tianjin
+      and maybe we might see any breakthrough? What do you think? Doctorow: 5:13 Well,
+      Mr. Trump has said recently in the last two weeks how much he would like to meet
+      with Mr. Kim, how much he would like to meet with President Xi. They’re both in
+      Beijing for this parade, and so it would be very convenient for him to be there.
+      The European leaders, aside from Mr. Vucic in Serbia and Mr. Fico in Slovakia,
+      the EU-25 hardliners have all declined to accept the invitation. And it would
+      be remarkable if, and in keeping with his policies, if Mr. Trump were to show
+      up. I can’t say that will happen, but there is a possibility that the Russians
+      have detected and are publishing in very serious periodicals and online assets.
+      6:00 So Mr. Trump has destroyed what 25 years of American diplomacy have tried
+      to do by enlisting India in a quadrilateral arrangement of countries encircling
+      and opposing China. He has destroyed that in a few weeks. That is the real outcome
+      of his tariff policy. The tariffs are nonsense compared to that geopolitical act,
+      which I insist was not an accident, was not something that he missed, but it’s
+      something that he intentionally brought about. So I think India also should rethink
+      what Mr. Trump is doing. It is not what it appears to be. Kataoka: And now looking–
+      thank you very much for sharing that– and now looking back at Ukraine and its
+      allies, do you think there is any fatigue from the allies in Europe for Ukraine?
+      Do you think that could eventually impact the level of military and financial
+      aid that’s flowing now from the West? Doctorow: I would disagree with your generalization.
+      Ukraine has no allies in Europe. It only has destroyers in Europe. What Europe
+      is doing is to fight Russia to the last Ukrainian. That is not a friend or ally
+      of Ukraine. And that has to be made clear, because we are living in a world of
+      Orwellian double talk, where peace is war and war is peace. Think for yourselves
+      and understand that Europe is no friend of Ukraine. Kataoka: Right. Thank you
+      very much for bringing us fresh perspective and always sharing good insights from
+      Brussels. 7:41 That was Gilbert Doctorow. This is all we have time for. We will
+      continue to bring you more news updates from around the world and the SCO Summit.'
+    one_sentence_summary: Ukraine experienced renewed violence as Russia launched a
+      significant strike on Zaporizhzhia, resulting in casualties and destruction, while
+      Ukrainian officials condemned the attacks as deliberate acts of terror during
+      a UN Security Council meeting.
+    paragraph_summary: In a recent escalation of violence, Russia launched a significant
+      attack on Zaporizhzhia, resulting in one death and 24 injuries, including two
+      children, while also targeting Ukraine's Dnipropetrovsk region, where Russian
+      troops have reportedly entered. Ukrainian Prime Minister Yulia Svyrydenko condemned
+      these assaults as deliberate acts of terror aimed at terrorizing civilians and
+      undermining normal life, criticizing Russia for prioritizing violence over diplomatic
+      engagement. As leaders gather in Tianjin for discussions, the stark contrast between
+      ongoing diplomatic efforts and the harsh realities of conflict on the ground highlights
+      the challenges of achieving peace amid continued hostilities.
+    published: '2025-08-31T06:06:15+00:00'
+  - title: Transcript of Press TV interview, 29 August
+    url: https://gilbertdoctorow.com/2025/08/30/transcript-of-press-tv-interview-29-august/
+    text: 'Transcript submitted by a reader https://www.presstv.ir/Detail/2025/08/29/753998/SLAMMING-ILLEGAL-SNAPBACK
+      PressTV: 0:19 Hello and welcome to “Spotlight”. Iran’s ambassador to the UN has
+      strongly rejected and condemned the E3 push to activate the snapback mechanism
+      against Iran, which would reimpose UN sanctions on Tehran over its nuclear program.
+      Amir Saeedi Avani said the decision undermines Iran’s cooperation with the IAEA
+      and constitutes an unnecessary and provocative escalation. Iranian foreign minister
+      has also issued a stern warning to the European Troika, namely France, Germany
+      and the UK, accusing them of colluding with Israel and the United States to maliciously
+      pressure the Iranian people. We’ll be discussing the different aspects of this
+      snapback mechanism and more on this edition of Spotlight. Here are our guests
+      for tonight’s show. 1:08 Independent International Affairs Analyst Gilbert Doctorow
+      joining us from Brussels. And we also have political commentator Massoud Shadjareh
+      joining us from the British capital, London. 1:27 Welcome to the program. Let’s
+      start off with Mr. Massoud Shadjareh. In London, Iran has rejected the invoking
+      of the snapback mechanism as illegal and illegitimate. Tehran says that any attempt
+      to revive these past sanctions would be a serious blow to diplomacy and a violation
+      of the JCPOA itself. Give us your perspective on this route taken by the E3. Shadjareh:
+      It really is outrageous that after all these years, the incompetent of Europeans
+      after Trump pulled out, out of the deal and put sanctions against Iran. European
+      nations said Iran should stay in and they will find ways of addressing the grievance
+      of Iran and addressing the sort of the needs and aspiration of Iran, which was
+      supposed to be ensured under JCPOA. 2:28 But they did nothing as such. As a matter
+      of fact, they were the cause, not just Trump, but they were the cause of undermining
+      and making JCPOA abandoned completely, despite the fact that Iran stood by its
+      commitment right the way through. So here at the 11th hour, to jump in and try
+      to actually claim that there is suddenly Iran has not adhered to his commitment.
+      It is an abuse of the process, it’s undermining the spirit of the agreement and
+      indeed it really is what I could only describe, that is, sort of trying to change
+      the rules halfway through, just to put further pressure and support the Zionist
+      state, which we have seen over the almost two years, they have done so. 3:31 Even
+      they have not just supported Zionist state, but they have supported this genocide
+      and equipped it to be able to commit this genocide. So I think in one way we can’t
+      sort of expect anything else, but from the other side, it really this action undermines
+      every aspect of sort of fair play and adhering to the spirit of the JCPOA. PressTV:
+      3:57 Let’s bring in Gilbert Doctorow from Brussels. Mr. Doctorow, Iran’s foreign
+      minister has called the activation of the snapback mechanism immoral, unjustified
+      and unlawful. Please walk us through these main talking points about the snapback
+      activation. In addition to that, Iran’s UN envoy Amir Saeedi Ravani earlier said
+      the decision undermines Iran’s cooperation with the IAEA and constitutes an unnecessary
+      and provocative escalation. Doctorow: 4:29 Well, this news item that you are now
+      raising is getting attention even of mainstream in the West. “Financial Times”
+      reported precisely on this issue of Iran being prepared to stop its cooperation
+      with the International Atomic Agency if the snapback proceeds. At the same time,
+      I would say that this is occurring at a propitious moment for Iran, because you
+      will have every opportunity to consult with close friends and allies in the coming
+      several days in China. 5:05 Your delegation is taking part in the Shanghai Cooperation
+      Organization annual meeting. I believe your presence will be there. And surely
+      they will find the time with Mr. Putin and perhaps with other important decision
+      makers who will be there of the 26 countries taking part. You’ll have an opportunity
+      to go over what remedies that Iran may have to strike back against this discriminatory
+      and unjustified decision, which appears to be made in Europe. PressTV 5:49 Masoud
+      Shadjareh, earlier today, Iran’s UN envoy, Mr. Amir Saeedi Avani, called on other
+      UNSC members to defend the rule of law and act responsibly. What should other
+      members of the UNSC be doing in this regard? Shadjareh: Well, I think this implementation
+      of switching this procedure, it has much more fundamental impact than what it
+      will, impact that it will have on Iran. The reality is that it sort of makes mockery
+      of any sort of negotiation or diplomacy or international law. The reality is that,
+      you know, if they could change the law, if they could abuse any agreement, clear
+      agreement in this way, then they could do it to anybody else. And basically it’s
+      a signal, as I was saying earlier on, that they will change the law of the game,
+      in the middle of the game, just to implement their wishes and abuse the principles.
+      Here, by doing so, they’re abusing principles of diplomacy, principles of fair
+      play. 7:11 You know, every aspect of international relations is undermined because
+      everyone, everyone could see how unfair it is, how abusive it is and how it’s
+      been designed just to provoke. And I think no international body, no matter what
+      part of the world they are, they can no longer trust agreements, like JCPOA and
+      other agreements, internationally, if indeed this one be abused so clearly, so
+      openly and so publicly. I agree with my colleague, the other contributor, that
+      we have to wait and see what China and Russia and other nations are going to do.
+      But the fact is this: that I believe there is a lot more at stake than just what
+      is happening in Europe. PressTV: 8:06 Mr. Doctorow, would you like to add anything
+      to that? In that regard, actually, China and Russia have also condemned the activation
+      of the snapback mechanism by the European troika. Moscow warned that reimposing
+      sanctions against Iran could bring grave consequences, and it called it a, quote,
+      “erroneous decision”. The Russian Foreign Ministry says the trio is undermining
+      diplomatic efforts to find a peaceful solution to the issue. Walk us through those
+      reactions, if you may, because Iran has put forth questions whether the European
+      trio is acting independently or simply following US policy. Doctorow: 8:45 You’ve
+      just taken words from my mouth. I was about to say precisely that. You are approaching
+      this from a standpoint of fairness, rationality, and diplomacy. I’m afraid to
+      say that all of those parameters do not apply in what is taking place, because
+      Europe is only interested in currying favor with the United States at this moment,
+      because the Europeans are scared out of their wits about how to deal with Russia
+      when they are not equal to the Russians’ military force and when they are provoking,
+      constantly poking the Russian bear in the eye. So unfortunately, Iran is an innocent
+      victim of a different set of considerations, which are really the European dependency
+      and, say, slavish dependency on the United States and their hope that following
+      Mr. Trump’s lead on this issue, they will be rewarded, patted on the head, and
+      get what they want from the United States with respect to Ukraine. So, you are
+      regrettably paying a price in the irrational and unreasonable behavior of the
+      Europeans. 10:12 However, from the wild side world, looking from a standpoint
+      of the global south, I think Europe has lost all credibility. And it appears to
+      be weak, indecisive, and dependent, and lacking in sovereignty. So in that context,
+      I think Iran does not have to feel abused. And I think you will receive very good
+      counsel and support from the countries with which your president will be meeting
+      in China in the next few days. PressTV: 10:52 Massoud Shadjareh, in a joint statement,
+      the E3 envoys to the UN accused Iran of abandoning almost all of its JCPOA commitments
+      since 2019. What about all of Europe’s shortcomings in the implementation of the
+      JCPOA? Why does Iran have to do all the heavy lifting here? Why has Iran always
+      been the one to shoulder the responsibility of keeping the JCPOA afloat? Shadjareh:
+      I mean, you couldn’t make comedy like that. In reality, it is that, you know,
+      everyone around the world, any fair-minded person, will know that Iran went more
+      than an extra mile to adhere to its responsibility, its commitment, but those
+      commitments were undermined first by United States and Trump’s administration.
+      And then it was sort of the same thing happened with the Europeans, so weak that
+      they couldn’t really be a player. And they just made [xxxxx] to the United States,
+      and they weren’t able to save anything whatsoever of the agreement and they undermined
+      it. But you know, the point I think at this hour and this time is that we need
+      to understand that what Iranians and Iran and indeed fair-minded people in the
+      global South will think right now is that you can’t trust, you can’t do a political
+      deal, You can’t do a deal with the Europeans or Americans. And the fact of the
+      matter is that really what is at here now is that we have to make a stand. Iran
+      has to make a stand. Iran and its allies need to come together recognizing the
+      negotiation. 12:52 If indeed this is implemented by the UN, then really it leaves
+      no room whatsoever for any further negotiation. And I think this is the key. We
+      are saying, we are seeing the beginning of end of international relations and
+      international fair play, international law. And we have seen that being battered
+      so badly over the last two years with Gaza being treated the way it has and the
+      genocide has been supported by these nations. Now we are seeing that’s going further.
+      13:33 The weakness of Europeans is actually showing itself that they cannot possibly
+      be involved in any international negotiation and be their own voice and their
+      own action. PressTV: Gilbert Doctorow, Iran has been calling out the double standard
+      here. Tehran believes it has already demonstrated its peaceful intentions, pointing
+      to years of cooperation with the IAEA and full transparency under the NPT. But
+      the Israeli regime that is carrying out a genocide as we speak possesses nuclear
+      weapons without scrutiny while Iran has constantly been punished for its civilian
+      nuclear energy program and civilian nuclear technology. Doctorow: 14:23 Well,
+      this double standard has been maintained under a situation of American global
+      domination when it was not subject to a voice of reason or to measures of decency
+      because “might made right”. We are witnessing now the deterioration, collapse
+      of that system. Frankly speaking, although Mr. Trump may not be a favorite politician
+      in Iran, he is doing what he can to dismantle and destroy the underpinnings of
+      American global domination. So in the longer run, this man who has not been very
+      kind to Iran and who has certainly given the signal to the Europeans to make the
+      decision which you have been decrying today, in the long run I believe that Mr.
+      Trump is doing what he can to move to a multi-polar world, peculiar as that may
+      sound to your audience today. PressTV: 15:36 Massoud Shadjarah, with regards to
+      the issue of international law, we spoke to a commentator a few days ago here
+      on PressTV. He said, why are we even talking about international law at all? Because
+      the issue of international law at this point is moot. Do you see it in that light
+      as well? Shadjareh: Yeah, I think we really need to revalue and re-adjust our
+      sort of even terminology when we say “double standard” or “international law”.
+      It’s not a double standard. I think now with the blanket removed from our eyes,
+      we could see quite clearly that it’s always, always supposed to be the same standard.
+      This, it wasn’t a double standard, it’s an illusion that there will be a treatment,
+      same treatment for the state of Israel as there is for Iran or anybody else around
+      the world. 16:38 Lebanon, Syria, the reality is that it is always supposed to
+      be this double standard. This was the standard, not double standard. And I think
+      now we also see after almost two years of genocide in Gaza, that international
+      law was always supposed to be misused and abused by the colonial power to implement
+      their policies. I would even go further and say democracy has been exposed as
+      well. You know, right across the Europe and Western world, overwhelming majority
+      of people want end to this genocide, but the leadership, despite the strong feeling
+      within all these nations, is not only [not] stopping it, but actually fueling
+      it, giving free military equipment, finances and political support, and it goes
+      on and on. 17:39 I think we need to sort of revalue that. Was there ever going
+      to be a UN coming at 11th hour and saving the day? I would say no. Was there ever
+      going to be equality in [inter]national law? No. Was there ever going to be equality
+      in treaties and treatment of different nations? No. I mean, now it’s very clear.
+      We need to sort of sit back and say that we are in a juncture. Either we go along
+      with the way that the Western powers are pushing us towards a future with genocide
+      as the norm, or we oppose it and we change all the systems and have systems that
+      are fit for purpose rather than fit for [revolution]. PressTV 18:28 Mr. Doctorow,
+      Iran expects respect from the E3 and not pressure, especially regarding its right
+      to enrich uranium under the NPT. Hasn’t that route of pressure proven to be ineffective?
+      We can look at all the unilateral sanctions and the maximum pressure campaign
+      that was spearheaded by Washington for all these years? Doctorow: Yes, well, of
+      course the sanctions have been painful for Iran. It would be a mistake to underestimate
+      the damage that has been done. Russia is the example of a country that has successfully
+      resisted the greatest number of imposed sanctions in history. But Russia is a
+      different country, a different economy, different scale of population, and it
+      has been uniquely prepared to manage these sanctions. Iran has done very well,
+      but it has suffered to a greater extent. And what is about to be reimposed if
+      this happens? I believe you have four to six weeks to negotiate this and find
+      some amicable solution. 19:46 But if it is imposed, of course, that will be a
+      hardship. The question is, what will Iran’s friends and allies propose to do to
+      alleviate this pain and in turn to inflict pain on the Europeans for the injustice
+      they are considering. And if you look at the changing balance between Europe and
+      the rest of the world, you will find that it is at a disadvantage today; its ability
+      to impose willy-nilly its demands on a country like Iran is deteriorating. 20:38
+      This– for that to continue, it is imperative that you reach agreements with fellow
+      members of the Shanghai Cooperation Organization and with BRICS because essentially
+      the three founding members and most important driving forces of BRICS of which
+      you are now a member will be in attendance in Beijing for the 80th anniversary
+      of the end of the war in the Pacific Theater. So you have an opportunity. I hope
+      that it is used effectively. And there must be a united action, not only to assist
+      Iran, but to impose pain on those who want to use the snapback. PressTV: 21:29
+      Mr. Shadjareh, let’s wrap up this segment of the program with this final question.
+      Of course, we’re running short of time, so I’m going to ask you to be brief. Iran
+      says that it’s still open to dialogue, but has always insisted the trust must
+      go both ways. If the West wants progress, It has to stop making threats and start
+      recognizing Iran’s legal rights. But we haven’t seen much trust building from
+      the Western governments, have we? Shadjareh: No, we haven’t. I mean, I think Iran,
+      ideologically, doesn’t want to close the door and wants to show both internally
+      and externally that is indeed looking for a solution. But I think it’s very difficult
+      to see that any solution externally will be available without some sort of pressure
+      from China and from Russia and indeed, global South. And I myself, I will add
+      my voice to all those who are saying that this needs to happen, not just for saving
+      Iran, but indeed to save internationally the ability of everyone else to have
+      some sort of hope for the future because this sort of bullying will not bring
+      us anything except war, genocide and disarray. PressTV: 22:53 All right, thanks
+      a lot, gentlemen. Political commentator Massoud Shadjareh joining us from London,
+      and independent international affairs analyst Gilbert Doctorow joining us from
+      Brussels. Thank you for contributing to tonight’s program, and a special thanks
+      to our viewers for staying with us on tonight’s edition of “Spotlight”. 23:09
+      It’s good night for now. See you next time.'
+    one_sentence_summary: Iran's ambassador to the UN has condemned the E3's efforts
+      to activate the snapback mechanism for reimposing sanctions on Iran, arguing it
+      undermines cooperation with the IAEA and escalates tensions, while the Iranian
+      foreign minister accuses the European powers of colluding with the US and Israel
+      to pressure Iran.
+    paragraph_summary: Iran's ambassador to the UN has condemned the E3 (France, Germany,
+      and the UK) for attempting to activate the snapback mechanism to reimpose UN sanctions
+      on Iran over its nuclear program, labeling the move as illegal and a provocation
+      that undermines Iran's cooperation with the International Atomic Energy Agency
+      (IAEA). Iranian officials, including the foreign minister, accuse the E3 of colluding
+      with the US and Israel to exert pressure on the Iranian populace, asserting that
+      reviving past sanctions would violate the Joint Comprehensive Plan of Action (JCPOA)
+      and hinder diplomatic efforts. Political commentators on a recent program criticized
+      the E3 for failing to uphold their commitments under the JCPOA, particularly after
+      the US withdrawal and subsequent sanctions imposed by the Trump administration.
+    published: '2025-08-30T16:57:07+00:00'
+  - title: Transcript of Press TV interview, 29 August
+    url: https://gilbertdoctorow.com/2025/08/30/transcript-of-press-tv-interview-29-august/
+    text: 'Transcript submitted by a reader https://www.presstv.ir/Detail/2025/08/29/753998/SLAMMING-ILLEGAL-SNAPBACK
+      PressTV: 0:19 Hello and welcome to “Spotlight”. Iran’s ambassador to the UN has
+      strongly rejected and condemned the E3 push to activate the snapback mechanism
+      against Iran, which would reimpose UN sanctions on Tehran over its nuclear program.
+      Amir Saeedi Avani said the decision undermines Iran’s cooperation with the IAEA
+      and constitutes an unnecessary and provocative escalation. Iranian foreign minister
+      has also issued a stern warning to the European Troika, namely France, Germany
+      and the UK, accusing them of colluding with Israel and the United States to maliciously
+      pressure the Iranian people. We’ll be discussing the different aspects of this
+      snapback mechanism and more on this edition of Spotlight. Here are our guests
+      for tonight’s show. 1:08 Independent International Affairs Analyst Gilbert Doctorow
+      joining us from Brussels. And we also have political commentator Massoud Shadjareh
+      joining us from the British capital, London. 1:27 Welcome to the program. Let’s
+      start off with Mr. Massoud Shadjareh. In London, Iran has rejected the invoking
+      of the snapback mechanism as illegal and illegitimate. Tehran says that any attempt
+      to revive these past sanctions would be a serious blow to diplomacy and a violation
+      of the JCPOA itself. Give us your perspective on this route taken by the E3. Shadjareh:
+      It really is outrageous that after all these years, the incompetent of Europeans
+      after Trump pulled out, out of the deal and put sanctions against Iran. European
+      nations said Iran should stay in and they will find ways of addressing the grievance
+      of Iran and addressing the sort of the needs and aspiration of Iran, which was
+      supposed to be ensured under JCPOA. 2:28 But they did nothing as such. As a matter
+      of fact, they were the cause, not just Trump, but they were the cause of undermining
+      and making JCPOA abandoned completely, despite the fact that Iran stood by its
+      commitment right the way through. So here at the 11th hour, to jump in and try
+      to actually claim that there is suddenly Iran has not adhered to his commitment.
+      It is an abuse of the process, it’s undermining the spirit of the agreement and
+      indeed it really is what I could only describe, that is, sort of trying to change
+      the rules halfway through, just to put further pressure and support the Zionist
+      state, which we have seen over the almost two years, they have done so. 3:31 Even
+      they have not just supported Zionist state, but they have supported this genocide
+      and equipped it to be able to commit this genocide. So I think in one way we can’t
+      sort of expect anything else, but from the other side, it really this action undermines
+      every aspect of sort of fair play and adhering to the spirit of the JCPOA. PressTV:
+      3:57 Let’s bring in Gilbert Doctorow from Brussels. Mr. Doctorow, Iran’s foreign
+      minister has called the activation of the snapback mechanism immoral, unjustified
+      and unlawful. Please walk us through these main talking points about the snapback
+      activation. In addition to that, Iran’s UN envoy Amir Saeedi Ravani earlier said
+      the decision undermines Iran’s cooperation with the IAEA and constitutes an unnecessary
+      and provocative escalation. Doctorow: 4:29 Well, this news item that you are now
+      raising is getting attention even of mainstream in the West. “Financial Times”
+      reported precisely on this issue of Iran being prepared to stop its cooperation
+      with the International Atomic Agency if the snapback proceeds. At the same time,
+      I would say that this is occurring at a propitious moment for Iran, because you
+      will have every opportunity to consult with close friends and allies in the coming
+      several days in China. 5:05 Your delegation is taking part in the Shanghai Cooperation
+      Organization annual meeting. I believe your presence will be there. And surely
+      they will find the time with Mr. Putin and perhaps with other important decision
+      makers who will be there of the 26 countries taking part. You’ll have an opportunity
+      to go over what remedies that Iran may have to strike back against this discriminatory
+      and unjustified decision, which appears to be made in Europe. PressTV 5:49 Masoud
+      Shadjareh, earlier today, Iran’s UN envoy, Mr. Amir Saeedi Avani, called on other
+      UNSC members to defend the rule of law and act responsibly. What should other
+      members of the UNSC be doing in this regard? Shadjareh: Well, I think this implementation
+      of switching this procedure, it has much more fundamental impact than what it
+      will, impact that it will have on Iran. The reality is that it sort of makes mockery
+      of any sort of negotiation or diplomacy or international law. The reality is that,
+      you know, if they could change the law, if they could abuse any agreement, clear
+      agreement in this way, then they could do it to anybody else. And basically it’s
+      a signal, as I was saying earlier on, that they will change the law of the game,
+      in the middle of the game, just to implement their wishes and abuse the principles.
+      Here, by doing so, they’re abusing principles of diplomacy, principles of fair
+      play. 7:11 You know, every aspect of international relations is undermined because
+      everyone, everyone could see how unfair it is, how abusive it is and how it’s
+      been designed just to provoke. And I think no international body, no matter what
+      part of the world they are, they can no longer trust agreements, like JCPOA and
+      other agreements, internationally, if indeed this one be abused so clearly, so
+      openly and so publicly. I agree with my colleague, the other contributor, that
+      we have to wait and see what China and Russia and other nations are going to do.
+      But the fact is this: that I believe there is a lot more at stake than just what
+      is happening in Europe. PressTV: 8:06 Mr. Doctorow, would you like to add anything
+      to that? In that regard, actually, China and Russia have also condemned the activation
+      of the snapback mechanism by the European troika. Moscow warned that reimposing
+      sanctions against Iran could bring grave consequences, and it called it a, quote,
+      “erroneous decision”. The Russian Foreign Ministry says the trio is undermining
+      diplomatic efforts to find a peaceful solution to the issue. Walk us through those
+      reactions, if you may, because Iran has put forth questions whether the European
+      trio is acting independently or simply following US policy. Doctorow: 8:45 You’ve
+      just taken words from my mouth. I was about to say precisely that. You are approaching
+      this from a standpoint of fairness, rationality, and diplomacy. I’m afraid to
+      say that all of those parameters do not apply in what is taking place, because
+      Europe is only interested in currying favor with the United States at this moment,
+      because the Europeans are scared out of their wits about how to deal with Russia
+      when they are not equal to the Russians’ military force and when they are provoking,
+      constantly poking the Russian bear in the eye. So unfortunately, Iran is an innocent
+      victim of a different set of considerations, which are really the European dependency
+      and, say, slavish dependency on the United States and their hope that following
+      Mr. Trump’s lead on this issue, they will be rewarded, patted on the head, and
+      get what they want from the United States with respect to Ukraine. So, you are
+      regrettably paying a price in the irrational and unreasonable behavior of the
+      Europeans. 10:12 However, from the wild side world, looking from a standpoint
+      of the global south, I think Europe has lost all credibility. And it appears to
+      be weak, indecisive, and dependent, and lacking in sovereignty. So in that context,
+      I think Iran does not have to feel abused. And I think you will receive very good
+      counsel and support from the countries with which your president will be meeting
+      in China in the next few days. PressTV: 10:52 Massoud Shadjareh, in a joint statement,
+      the E3 envoys to the UN accused Iran of abandoning almost all of its JCPOA commitments
+      since 2019. What about all of Europe’s shortcomings in the implementation of the
+      JCPOA? Why does Iran have to do all the heavy lifting here? Why has Iran always
+      been the one to shoulder the responsibility of keeping the JCPOA afloat? Shadjareh:
+      I mean, you couldn’t make comedy like that. In reality, it is that, you know,
+      everyone around the world, any fair-minded person, will know that Iran went more
+      than an extra mile to adhere to its responsibility, its commitment, but those
+      commitments were undermined first by United States and Trump’s administration.
+      And then it was sort of the same thing happened with the Europeans, so weak that
+      they couldn’t really be a player. And they just made [xxxxx] to the United States,
+      and they weren’t able to save anything whatsoever of the agreement and they undermined
+      it. But you know, the point I think at this hour and this time is that we need
+      to understand that what Iranians and Iran and indeed fair-minded people in the
+      global South will think right now is that you can’t trust, you can’t do a political
+      deal, You can’t do a deal with the Europeans or Americans. And the fact of the
+      matter is that really what is at here now is that we have to make a stand. Iran
+      has to make a stand. Iran and its allies need to come together recognizing the
+      negotiation. 12:52 If indeed this is implemented by the UN, then really it leaves
+      no room whatsoever for any further negotiation. And I think this is the key. We
+      are saying, we are seeing the beginning of end of international relations and
+      international fair play, international law. And we have seen that being battered
+      so badly over the last two years with Gaza being treated the way it has and the
+      genocide has been supported by these nations. Now we are seeing that’s going further.
+      13:33 The weakness of Europeans is actually showing itself that they cannot possibly
+      be involved in any international negotiation and be their own voice and their
+      own action. PressTV: Gilbert Doctorow, Iran has been calling out the double standard
+      here. Tehran believes it has already demonstrated its peaceful intentions, pointing
+      to years of cooperation with the IAEA and full transparency under the NPT. But
+      the Israeli regime that is carrying out a genocide as we speak possesses nuclear
+      weapons without scrutiny while Iran has constantly been punished for its civilian
+      nuclear energy program and civilian nuclear technology. Doctorow: 14:23 Well,
+      this double standard has been maintained under a situation of American global
+      domination when it was not subject to a voice of reason or to measures of decency
+      because “might made right”. We are witnessing now the deterioration, collapse
+      of that system. Frankly speaking, although Mr. Trump may not be a favorite politician
+      in Iran, he is doing what he can to dismantle and destroy the underpinnings of
+      American global domination. So in the longer run, this man who has not been very
+      kind to Iran and who has certainly given the signal to the Europeans to make the
+      decision which you have been decrying today, in the long run I believe that Mr.
+      Trump is doing what he can to move to a multi-polar world, peculiar as that may
+      sound to your audience today. PressTV: 15:36 Massoud Shadjarah, with regards to
+      the issue of international law, we spoke to a commentator a few days ago here
+      on PressTV. He said, why are we even talking about international law at all? Because
+      the issue of international law at this point is moot. Do you see it in that light
+      as well? Shadjareh: Yeah, I think we really need to revalue and re-adjust our
+      sort of even terminology when we say “double standard” or “international law”.
+      It’s not a double standard. I think now with the blanket removed from our eyes,
+      we could see quite clearly that it’s always, always supposed to be the same standard.
+      This, it wasn’t a double standard, it’s an illusion that there will be a treatment,
+      same treatment for the state of Israel as there is for Iran or anybody else around
+      the world. 16:38 Lebanon, Syria, the reality is that it is always supposed to
+      be this double standard. This was the standard, not double standard. And I think
+      now we also see after almost two years of genocide in Gaza, that international
+      law was always supposed to be misused and abused by the colonial power to implement
+      their policies. I would even go further and say democracy has been exposed as
+      well. You know, right across the Europe and Western world, overwhelming majority
+      of people want end to this genocide, but the leadership, despite the strong feeling
+      within all these nations, is not only [not] stopping it, but actually fueling
+      it, giving free military equipment, finances and political support, and it goes
+      on and on. 17:39 I think we need to sort of revalue that. Was there ever going
+      to be a UN coming at 11th hour and saving the day? I would say no. Was there ever
+      going to be equality in [inter]national law? No. Was there ever going to be equality
+      in treaties and treatment of different nations? No. I mean, now it’s very clear.
+      We need to sort of sit back and say that we are in a juncture. Either we go along
+      with the way that the Western powers are pushing us towards a future with genocide
+      as the norm, or we oppose it and we change all the systems and have systems that
+      are fit for purpose rather than fit for [revolution]. PressTV 18:28 Mr. Doctorow,
+      Iran expects respect from the E3 and not pressure, especially regarding its right
+      to enrich uranium under the NPT. Hasn’t that route of pressure proven to be ineffective?
+      We can look at all the unilateral sanctions and the maximum pressure campaign
+      that was spearheaded by Washington for all these years? Doctorow: Yes, well, of
+      course the sanctions have been painful for Iran. It would be a mistake to underestimate
+      the damage that has been done. Russia is the example of a country that has successfully
+      resisted the greatest number of imposed sanctions in history. But Russia is a
+      different country, a different economy, different scale of population, and it
+      has been uniquely prepared to manage these sanctions. Iran has done very well,
+      but it has suffered to a greater extent. And what is about to be reimposed if
+      this happens? I believe you have four to six weeks to negotiate this and find
+      some amicable solution. 19:46 But if it is imposed, of course, that will be a
+      hardship. The question is, what will Iran’s friends and allies propose to do to
+      alleviate this pain and in turn to inflict pain on the Europeans for the injustice
+      they are considering. And if you look at the changing balance between Europe and
+      the rest of the world, you will find that it is at a disadvantage today; its ability
+      to impose willy-nilly its demands on a country like Iran is deteriorating. 20:38
+      This– for that to continue, it is imperative that you reach agreements with fellow
+      members of the Shanghai Cooperation Organization and with BRICS because essentially
+      the three founding members and most important driving forces of BRICS of which
+      you are now a member will be in attendance in Beijing for the 80th anniversary
+      of the end of the war in the Pacific Theater. So you have an opportunity. I hope
+      that it is used effectively. And there must be a united action, not only to assist
+      Iran, but to impose pain on those who want to use the snapback. PressTV: 21:29
+      Mr. Shadjareh, let’s wrap up this segment of the program with this final question.
+      Of course, we’re running short of time, so I’m going to ask you to be brief. Iran
+      says that it’s still open to dialogue, but has always insisted the trust must
+      go both ways. If the West wants progress, It has to stop making threats and start
+      recognizing Iran’s legal rights. But we haven’t seen much trust building from
+      the Western governments, have we? Shadjareh: No, we haven’t. I mean, I think Iran,
+      ideologically, doesn’t want to close the door and wants to show both internally
+      and externally that is indeed looking for a solution. But I think it’s very difficult
+      to see that any solution externally will be available without some sort of pressure
+      from China and from Russia and indeed, global South. And I myself, I will add
+      my voice to all those who are saying that this needs to happen, not just for saving
+      Iran, but indeed to save internationally the ability of everyone else to have
+      some sort of hope for the future because this sort of bullying will not bring
+      us anything except war, genocide and disarray. PressTV: 22:53 All right, thanks
+      a lot, gentlemen. Political commentator Massoud Shadjareh joining us from London,
+      and independent international affairs analyst Gilbert Doctorow joining us from
+      Brussels. Thank you for contributing to tonight’s program, and a special thanks
+      to our viewers for staying with us on tonight’s edition of “Spotlight”. 23:09
+      It’s good night for now. See you next time.'
+    one_sentence_summary: Iran's ambassador to the UN has condemned the E3's efforts
+      to activate the snapback mechanism for reimposing sanctions on Iran, arguing it
+      undermines cooperation with the IAEA and escalates tensions, while the Iranian
+      foreign minister accuses the European powers of colluding with the US and Israel
+      to pressure Iran.
+    paragraph_summary: Iran's ambassador to the UN has condemned the E3 (France, Germany,
+      and the UK) for attempting to activate the snapback mechanism to reimpose UN sanctions
+      on Iran over its nuclear program, labeling the move as illegal and a provocation
+      that undermines Iran's cooperation with the International Atomic Energy Agency
+      (IAEA). Iranian officials, including the foreign minister, accuse the E3 of colluding
+      with the US and Israel to exert pressure on the Iranian populace, asserting that
+      reviving past sanctions would violate the Joint Comprehensive Plan of Action (JCPOA)
+      and hinder diplomatic efforts. Political commentators on a recent program criticized
+      the E3 for failing to uphold their commitments under the JCPOA, particularly after
+      the US withdrawal and subsequent sanctions imposed by the Trump administration.
+    published: '2025-08-30T16:57:07+00:00'
+  - title: Two short interviews with News X World (India)
+    url: https://gilbertdoctorow.com/2025/08/30/two-short-interviews-with-news-x-world-india/
+    text: 'Prime Minister Narendra Modi was one of the first world leaders to arrive
+      in Tianjin, China today for the Shanghai Cooperation Organization summit that
+      opens tomorrow and Indian broadcasters have been very busy securing commentary
+      from their own and foreign experts on what may be accomplished at the summit.
+      Indeed, at various times today I joined two competing Indian broadcasters to contribute
+      to their coverage. The first, News X World, recorded two segments for their hourly
+      news, one on the Summit in Tianjin and the other on latest developments in the
+      Russia-Ukraine war. I offer the respective links below. 2025 SCO Summit Opens
+      in Tianjin, Key focus on Security, Trade and Technology My own brief appearance
+      on this program which features World X staff journalists in a number of different
+      locations comes at minute 13.  Of particular interest, I think is the chat between
+      the News journalist and a very well spoken CGTN journalist from China. Russia
+      Strikes Zaporizhzhia and Dnipropetrovsk This video, which was recorded immediately
+      after the preceding one, I was given the opportunity to provide what the presenter
+      characterizes as “a fresh perspective” on the relationship of the European “friends”
+      to the Ukrainian nation, as well as to mention the possibility of a ‘rabbit from
+      the hat’ surprise two days from now if Donald Trump arrives in Beijing for the
+      parade marking the end of WWII in the Pacific, as some Russian news outlets are
+      suggesting.  I urge viewers to pay close attention to the time given to Ukrainian
+      Prime Minister Svyrydenko’s speech at the UN condemning Russia’s continuing attacks:
+      this is a sublime example of Orwellian inversion of reality in double talk. Later
+      today or tomorrow, when I receive the link to the panel discussion I participated
+      in this afternoon with News X, the second broadcaster, I will post that here.
+      The presenter and my fellow panelists were high level and the Community should
+      find their remarks to be of value. I had the pleasure of offering some very unexpected
+      thoughts on the chaos that Donald Trump has brought to U.S.-Indian relations which
+      has left the Indians searching for answers to their woes.'
+    one_sentence_summary: Prime Minister Narendra Modi arrived in Tianjin, China, for
+      the upcoming Shanghai Cooperation Organization summit, prompting extensive commentary
+      and analysis from Indian broadcasters on the summit's potential outcomes and related
+      global issues, including the Russia-Ukraine war.
+    paragraph_summary: Prime Minister Narendra Modi arrived in Tianjin, China, for the
+      upcoming Shanghai Cooperation Organization (SCO) summit, prompting Indian broadcasters
+      to seek expert commentary on potential outcomes. The author participated in segments
+      for two competing Indian news outlets, discussing the summit's focus on security,
+      trade, and technology, as well as the ongoing Russia-Ukraine conflict. Notably,
+      the discussions included insights from a CGTN journalist and highlighted Ukrainian
+      Prime Minister Svyrydenko's speech at the UN, which the author described as an
+      example of "Orwellian inversion of reality." The author also hinted at a possible
+      surprise involving Donald Trump in Beijing, depending on developments in the next
+      few days. Further commentary from a panel discussion with News X is expected to
+      be shared soon.
+    published: '2025-08-30T15:49:01+00:00'
+  - title: Two short interviews with News X World (India)
+    url: https://gilbertdoctorow.com/2025/08/30/two-short-interviews-with-news-x-world-india/
+    text: 'Prime Minister Narendra Modi was one of the first world leaders to arrive
+      in Tianjin, China today for the Shanghai Cooperation Organization summit that
+      opens tomorrow and Indian broadcasters have been very busy securing commentary
+      from their own and foreign experts on what may be accomplished at the summit.
+      Indeed, at various times today I joined two competing Indian broadcasters to contribute
+      to their coverage. The first, News X World, recorded two segments for their hourly
+      news, one on the Summit in Tianjin and the other on latest developments in the
+      Russia-Ukraine war. I offer the respective links below. 2025 SCO Summit Opens
+      in Tianjin, Key focus on Security, Trade and Technology My own brief appearance
+      on this program which features World X staff journalists in a number of different
+      locations comes at minute 13.  Of particular interest, I think is the chat between
+      the News journalist and a very well spoken CGTN journalist from China. Russia
+      Strikes Zaporizhzhia and Dnipropetrovsk This video, which was recorded immediately
+      after the preceding one, I was given the opportunity to provide what the presenter
+      characterizes as “a fresh perspective” on the relationship of the European “friends”
+      to the Ukrainian nation, as well as to mention the possibility of a ‘rabbit from
+      the hat’ surprise two days from now if Donald Trump arrives in Beijing for the
+      parade marking the end of WWII in the Pacific, as some Russian news outlets are
+      suggesting.  I urge viewers to pay close attention to the time given to Ukrainian
+      Prime Minister Svyrydenko’s speech at the UN condemning Russia’s continuing attacks:
+      this is a sublime example of Orwellian inversion of reality in double talk. Later
+      today or tomorrow, when I receive the link to the panel discussion I participated
+      in this afternoon with News X, the second broadcaster, I will post that here.
+      The presenter and my fellow panelists were high level and the Community should
+      find their remarks to be of value. I had the pleasure of offering some very unexpected
+      thoughts on the chaos that Donald Trump has brought to U.S.-Indian relations which
+      has left the Indians searching for answers to their woes.'
+    one_sentence_summary: Prime Minister Narendra Modi arrived in Tianjin, China, for
+      the upcoming Shanghai Cooperation Organization summit, prompting extensive commentary
+      and analysis from Indian broadcasters on the summit's potential outcomes and related
+      global issues, including the Russia-Ukraine war.
+    paragraph_summary: Prime Minister Narendra Modi arrived in Tianjin, China, for the
+      upcoming Shanghai Cooperation Organization (SCO) summit, prompting Indian broadcasters
+      to seek expert commentary on potential outcomes. The author participated in segments
+      for two competing Indian news outlets, discussing the summit's focus on security,
+      trade, and technology, as well as the ongoing Russia-Ukraine conflict. Notably,
+      the discussions included insights from a CGTN journalist and highlighted Ukrainian
+      Prime Minister Svyrydenko's speech at the UN, which the author described as an
+      example of "Orwellian inversion of reality." The author also hinted at a possible
+      surprise involving Donald Trump in Beijing, depending on developments in the next
+      few days. Further commentary from a panel discussion with News X is expected to
+      be shared soon.
+    published: '2025-08-30T15:49:01+00:00'
+  - title: Transcript of ‘Judging Freedom,’ 27 August edition
+    url: https://gilbertdoctorow.com/2025/08/30/transcript-of-judging-freedom-27-august-edition/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=TI2k2jbku8c
+      Napolitano: 0:32 Hi everyone, Judge Andrew Napolitano here for “Judging Freedom”.
+      Today is Wednesday, August 27th, 2025. Professor Gilbert Doctorow will be here
+      in just a moment on Trump’s confusing signals. But first this. 0:49 [ad] 1:59
+      Professor Doctorow, good day to you, my friend, and thank you very much for joining
+      us and for accommodating my schedule. In the past week, President Trump on his
+      own Truth Social has written that Ukraine is doomed to lose the war unless it
+      can get offensive and attack Russia, in a Truth Social that we have been posting,
+      you can see it right there. He also authorized the delivery of 3,000 E-ROMs, offensive
+      missile weaponry that can travel 280 miles. That’ll take about six weeks for them
+      to get there. And just yesterday, he said he has something very severe in mind
+      for Russia if President Putin doesn’t sit down at the same table in the same room
+      at the same time with President Zelensky. What kind of signals is he sending to
+      the Kremlin? Doctorow: 2:54 Well, they’re not good ones, but I don’t see any sense
+      of alarm coming out of Russia. They’re rather calm about this. Mr. Trump changes
+      his– he pivots this way and pivots that way, in accordance with domestic American
+      politics and where he sees the greatest threats to his position. In this sense,
+      Mr. Trump is not a great departure from other presidents and from the American
+      political establishment for whom the rest of the world are just props. The only
+      thing that counts in foreign policy is domestic policy. And that dictates many
+      things. I was asked earlier today about the American initiative in the United
+      Nations to reinstate the sanctions against Iran. 3:51 And in Tehran, they’re very
+      upset about this. They take this, shall we say, personally? My point is, there’s
+      nothing personal about it. If Mr. Trump sees himself under threat for one or another
+      issue, however unrelated it is, for example, to Iran, then he will take action
+      on Iran. And if it’s the most convenient and less costly thing that he can do
+      to flex muscles and to prove that he is macho and still in control of everything.
+      Napolitano: 4:27 I realize that you and I agree that he is often driven by his
+      own personality and his own ego. He doesn’t have the moral or ideological or value-laden
+      sense of some of his predecessors. But what is to be accomplished by these threats?
+      How can he expect the Kremlin to react positively, or do they just dismiss it
+      as, “Oh, there he is changing his mind again, he doesn’t mean it, he’ll back off,
+      what can he possibly do to us?” Doctorow: I think it’s the second situation. We
+      don’t know what back channels there are, what messages are being sent by Washington
+      to the Kremlin to reassure them that this is not going to be what it looks like.
+      If it is what it looks like, then we have World War III. So then we all should
+      be quite excited about it. What I mean is that the Russians have made definite
+      threats, what they will do to the suppliers of long range missiles that are being
+      used against them deep inside the Russian Federation. 5:40 And this would be in
+      direct, this shipment of these 3,600, whatever it is, medium-range, oh, 480 miles
+      is pretty good. If that is used as the Ukrainians would normally use it to destroy
+      civilian infrastructure, to kill ordinary Russians and not to attack military
+      posts, then the Russians will have to, if they want to follow through on their
+      red lines, attack Washington. So I don’t believe this is going to happen. He’s
+      making sounds and he’s silencing critics of one kind or another, maybe in relation
+      to his policy on Gaza. It’s hard to say exactly what is motivating him. But I
+      would go a little bit in variance with what you said about his ego. I don’t think
+      he’s ego-driven. I think it is policy-driven. But it is political threats that
+      he’s responding to. They are real threats. And he responds in what seems to be
+      illogical and unrelated manners. Napolitano: Here’s his threat yesterday, Chris,
+      cut number two. Trump: 6:50 I want to see that deal end. It’s very, very serious,
+      what I have in mind, if I have to do it. But I want to see it end. I think that
+      in many ways he’s there. Sometimes he’ll be there and Zelensky won’t be there.
+      You know, it’s like, who do we have today? I got to get them both at the same
+      time. But I want to have it end. We have economic sanctions. I’m talking about
+      economic, because we’re not going to get into a world war. I’ll tell you what,
+      in my opinion, if I didn’t win this race, Ukraine could have ended up in a world
+      war. We’re not going to end up in a world war. And it will not be a world war,
+      but it will be an economic war. And an economic war is going to be bad. And it’s
+      going to be bad for Russia. And I don’t want that. Napolitano: –done a damn thing
+      to dial back the violence. If anything, it’s accelerated in the past eight months.
+      Doctorow: 7:49 Well, this brings us to the point. I think the hidden message from
+      Moscow is what he said to Netanyahu months and months ago. But in Netanyahu’s
+      case, it didn’t serve his interests. His interest is to keep the fight going,
+      but to keep in, to stay in power. Mr. Putin doesn’t have a problem staying in
+      power. He doesn’t need a war to stay in power. So the issues are a little bit
+      different, but Trump’s behavior towards them both is the same: get it over with
+      fast. And frankly speaking, the Russians are getting it over with much faster
+      than they were before Mr. Trump made his threats. Napolitano: 8:29 Yesterday,
+      President Zelensky said he would never voluntarily surrender the oblasts in the
+      Donbas region or Crimea. It sounds ridiculous. But is he free to make those concessions?
+      Or would he do so at the peril of the loss of his life? Doctorow: Oh, I think
+      it’s the latter case. I think the Russians are solving that predicament for him.
+      The way they are progressing now, along the whole front, taking every soft spot
+      they can, even if it’s not in Donetsk, even if it’s not moving closer to the Dnieper,
+      they are taking territory and position, making emphasis on position. They moved
+      into and took one or two towns in the new oblast for them, the Dnepropetrovsk
+      oblast. We know about that area because there the only use of Oreshnik was to
+      destroy a factory, military factory, heavily fortified and underground factory
+      in Dnipro. Dnipro is the Ukrainian word for Dnepropetrovsk. And this area is of
+      symbolic importance, the same way that taking Kramatorsk and Slavyansk in Donetsk
+      oblast, is symbolic, because that’s where the– that was the cradle of the Russian
+      Renaissance, the resumption of spirit and self-confidence that came in 2014. 10:07
+      So this Dnepropetrovsk is more than a physical acquisition, it is a symbolic acquisition,
+      because that is the home base of Kolomoisky, the oligarch who from the start financed
+      the Azov battalion, who financed a lot of the dirty operations against Russia.
+      Napolitano; Right. Doctorow: And was one of the wealthiest men controlling, owning
+      the most important bank in the country and owning the airline and calling all
+      the shots. Well, that’s where he came from. So this is a territory, if they move
+      on Dniepropetrovsk, they are going at the jugular of the… Napolitano: What actually
+      happens or changes on the ground when the Russians take a village Does the government
+      of the village change? Do the police in the village change? Does everybody go
+      back to speaking Russian? Or are these takeovers of villages, which we’ve never
+      heard of here in the US, just symbolic or part of the pathway toward the Dnieper
+      River? Doctorow: 11:21 It is more than symbolic. It’s clearing the way for reconstruction
+      and for resettlement. There aren’t too many people in those towns that are taken,
+      to greet the incoming Russian soldiers. Very few have remained behind, because
+      they were under threat of being shot by the Ukrainian soldiers for not evacuating
+      with them. So there are very few people in their cellars or whatever who are there
+      to toss flowers to the incoming Russian soldiers. The main task that the Russians
+      have is demining. And they send in their specialists to remove the mines, because
+      everything is mined after the Ukrainians leave a village. Well, I say village;
+      most of these places they’re conquering really are hamlets. Maybe they have two,
+      three, 500 inhabitants. They’re not a village in the sense that you had in mind.
+      And they don’t have mayors and high officials. But this is very important. Mr.
+      Putin yesterday had his meeting one-on-one with the governor of Kherson oblast.
+      And this is an area that is highly contested. The Kherson city, the capital, is
+      on the right bank, that is say the west bank of the Dnieper. It is under Ukrainian
+      control. It was evacuated by the Russians as untenable. They had to cross the
+      river to supply it. But most of that, Kherson oblast is in Russian control on
+      the east side of the Dnieper. And they were discussing the vast reconstruction
+      program that’s now ongoing, building 600 kilometers of new asphalt roads and all
+      kinds of infrastructure. And taking each of these little hamlets and villages
+      is extending the territory in which Russia will restore normal living conditions,
+      rebuild housing, and so forth. So it’s more than symbolic that when they take
+      these, they’re preparing to move in immediately to restore normal living in these
+      places. Napolitano: And who pays for this reconstruction? The Russian Federation,
+      or is it private investments, or is it BlackRock in the U.S.? Who’s paying for
+      it? Doctorow: 13:41 It is multiple layers of the Russian government. You have
+      cities in Russia like Moscow, which have city-to-city brotherly relations with
+      this or that town, the same thing as St. Petersburg, and they put up their own
+      laborers, their own equipment and so forth, to do construction work and then to
+      build new housing for the returnees. You ask which language they speak. Almost
+      everyone in these territories speaks Russian. The idea they’re– or they’re bilingual,
+      Ukrainian, Russian. Let’s not confuse the language with the ethnicity. There are
+      ethnic Ukrainians, if you can define that, who are Russian speakers. That was
+      the predominant language in the region where they were living. So that is not
+      really an issue. Napolitano: 14:38 Right. Doctorow: Even on Ukrainian television,
+      you have a lot of officials who are interviewed and are speaking Russian. That
+      was the language. Napolitano: Isn’t it illegal, even criminal, under Ukrainian
+      law to speak Russian? Doctorow: It is. But practicality says if you want them
+      to say something, they’ll say it in a language they can speak. Napolitano: Right.
+      Foreign Minister Lavrov says no Putin-Zolensky meeting without an agenda. What
+      does that mean? Doctorow: Well, they have an agenda. It’s a negation of the agenda
+      by Zelensky. As soon as he got back home following his trip to Washington, he
+      was saying that in no way will we accept surrender of territory. And that put
+      a big “nyet” on the whole logic of the meeting, because Trump himself had said
+      the prime purpose of the meeting would be to discuss exchange of territories,
+      meaning Ukraine ceding its loss. The question, of course, is that if you go into
+      this, the Ukrainians, if they were to cede anything, would be de facto rather
+      than de jure, they would maintain their claims. But the United States, at least
+      with regard to Crimea, already stated openly that it is willing to acknowledge
+      Russian governance of Crimea, de jure. What happens to the rest of the other oblasts
+      will be a subject for negotiation at present or perhaps at a given time in the
+      future. Napolitano: 16:09 India is thumbing its nose at Trump’s tariffs, which
+      are now up to, I think, 60 percent. Are you surprised? Doctorow: There has been
+      some very reasonable analysis of what actually is happening on these tariffs.
+      The most important component of Indian exports to the United States are not commodities,
+      they’re not products. It is IT, it is technology, it is software programming.
+      So I think $38 billion in that. That’s not touched. Pharmaceuticals are not touched.
+      And we all know that India is a big producer of generic pharmaceuticals, which
+      are in big demand because they cost a fraction of the price of the original owners
+      of the medicines that we’re talking about. These are not touched. What is touched
+      are this: many factory operations were started up in the last two or three years
+      to replace production that otherwise had been going on for American companies
+      in China. And so this is affected. The products that were being made in India
+      to replace their production in China are under direct threat and become unviable
+      as exports to the United States. That is surprising, but I’m just saying that
+      the Indian commentators do note that it is more complicated than it looks. Nonetheless,
+      Mr. Trump has undone in a matter of a couple of months, what the United States
+      took perhaps 10 years to achieve as a foreign policy objective: to use India as
+      a counterbalance to China and to invite India into its partnerships relating to
+      the Indo-Pacific area. 18:05 That’s all undone. And it’s remarkable. That is the
+      most astonishing reversal, and I say loss of American influence, that Mr. Trump
+      has done since taking office. Mr. Biden pushed Russia into China’s arms, and Mr.
+      Trump is pushing India into Russia’s arms. And also into China’s arms. Mr. Modi
+      is going to China, I think, in the next week or two. Napolitano; Right. Doctorow:
+      This will be the first visit in seven years. Napolitano: Is it fair to say that
+      for all of his bombast and threats and animosity toward BRICS, he’s actually strengthening
+      it, Trump? Doctorow: Absolutely. That’s a perfect summary of his achievements
+      from seven months in office. Napolitano: 18:52 Wow. Last week, the Russians destroyed
+      not- yet-assembled Taurus missiles that had been delivered by Germany to Ukraine.
+      Did Chancellor Merz think that the Russians would allow the Ukrainians to assemble
+      these things and start firing them? Doctorow: Well, the Russians did very important
+      damage to the whole missile program in Ukraine, both the deployment of weapons
+      that are received from outside and the construction of weapons using British and
+      other Western technologies. One of the big issues that drove Mr. Trump– if you
+      want to speak, want to find rational decision-making in what he’s been doing for
+      the last 10 days– one of the most important factors was the destruction of the
+      Flex Factory. This was nominally making coffee machines for consumers in Ukraine,
+      30 kilometres away from the Hungarian border. A company called Flex, I believe,
+      which was the local branch of an American electronics manufacturer. Now, Mr. Trump
+      had to react to that. 20:18 This was, I don’t know, this was a billion dollar
+      or so, so it was a large investment had been made by Americans in this military
+      production, intending to create strike missiles in Ukraine. This was utterly destroyed
+      by a combination of drones and hypersonic missiles. Flattened, destroyed. It took
+      Mr. Trump a day to react. Of course, he must have been under enormous pressure.
+      “How do they dare?” Just as Mr. Merz must be concerned, “How do the Russians dare?”
+      Well, they dare. In this sense, there’s acceleration, escalation I should say
+      as well, in what the Russians are doing. Before, they didn’t touch manufacturing
+      facilities owned by foreigners. Now they are. And it was a big signal to the Brits,
+      to the French, to the Germans, don’t even think of setting up military facilities,
+      production facilities in Ukraine, because they will suffer the same fate. 21:17
+      So in a number of ways, the various threats that Trump and others have made, the
+      various attempts to have a real military presence in Ukraine– such as assisting
+      the construction of latest generation strike missiles there– that has touched
+      a nerve, and the Russians have responded, I’d say, violently. Napolitano: I’ll
+      tell you what I’m concerned about, Professor Doctorow, and I wonder if you share
+      that concern. And that is the resurgence of the neocon whispering into Donald
+      Trump’s ear. General Kellogg, Senator Graham, Secretary Rubio. The type of threat
+      that Trump made yesterday. Maybe it’s just an idle threat. He often talks off
+      the top of his head. I can’t imagine he’s run this past his advisors first. But
+      I’m worried that that neocon attitude may be resurgent in the behavior of the
+      American president. Do you share that fear? Doctorow: 22:28 No, I don’t. There
+      are limits on what he’s going to do. And the limits are: if he were to do what
+      he said about giving the Ukrainians these 5,000 missiles and letting them have
+      a go at it, then we’ll have a war. And the last thing he wants is a war. He had
+      just said in the segment that you quoted that he wants an economic war, not a
+      kinetic war. And I believe that is a deep-set feeling. As to the whisperers, again,
+      this is part of his drama, of his theatre. Not everybody is deceived. There are
+      a few people around who have their wits about them and understand what’s going
+      on, even in Europe. Even in Europe. There were two days ago in a broadsheet publication
+      as a large-format daily newspaper, the “Écho de la bourse”, there was an article
+      interviewing a leading French European security specialist talking about how the
+      European response to Trump and his seeming pivot towards Putin and against themselves
+      explaining that it’s a little bit more nuanced than one would think, that Europeans
+      aren’t complete dolts. They understand that he could be playing with them, that
+      he could be stringing them along, but they have a choice of two ways to react.
+      One is to turn their back on him and to go against him, to dig in their heels.
+      And the other is to humor him, to play to his vanity and to think that they can
+      bring him around. And the second policy has a little bit more depth to it than
+      it appears. It is that they don’t want to be seen as being that monkey-wrench
+      in the works that Mr. Putin was talking about. They don’t want the failure of
+      Trump’s peace efforts to be their doing. They believe that Mr. Putin will do it
+      and let him take the flak, let him take the opprobrium from Trump for destroying
+      his chances of getting the Nobel Peace Prize and ruining the peace negotiations.
+      And that could be, there’s a logic to that. It makes them look a little bit less
+      stupid than they otherwise seem to be. Napolitano: 25:01 Right. Before we go,
+      what is the significance, if any, of the arrest in Italy of this Ukrainian intelligence
+      officer? I think I have this right. Doctorow: No, you do. I was very glad you
+      brought it up because while very little is said about it in Western news, a lot
+      is said about it in Russian news. And they’re covering it closely. Today’s had
+      a release on the ticker tape news in Russia that you find on their Yandex, that
+      he was the head. The man who was arrested was a Ukrainian officer who was supervising
+      a team of seven saboteurs, of various specialties, who carried out the preparation
+      of destruction of the Nord Stream 1 pipeline. But that doesn’t take away from
+      Sy Hersh’s story that the whole thing, the whole concept was American and that
+      Biden approved the timing and that this was a setup for whenever the American
+      president decided the explosive would be detonated. 26:17 That doesn’t change.
+      But it does tell you that, and as Russians are saying, in fact, the only aspect
+      of this that interests them is this team was Ukrainian and that it could never
+      have been authorized without the personal approval of Zelensky. And they’re saying,
+      and what is Mr. Merz going to do about it? Napolitano: And what was this team
+      of Ukrainians doing in Italy? Where in Italy? In Rome? Doctorow; No, no, It’s
+      one man who’s captured, as far as I know. And there is an arrest warrant out for
+      six others who were his subordinates in this team that carried out the preparation
+      of the destruction of the pipeline. And I suppose he’s simply enjoying the money
+      that he received for his work. I think he’s just gotten away from the hardships
+      of Ukraine. I don’t believe that he’s out there in Italy on assignment. Certainly
+      that his team isn’t there, because the job was done. Napolitano: Professor Doctorow,
+      thank you very much. Thanks for the broad array of topics. Thanks for the tip
+      on the arrest in Italy. Great chatting with you, my dear friend. We have a holiday
+      coming up here in the US, Labor Day weekend, but it should not interfere with
+      our work next week, and I look forward to it already. Doctorow: And I do as well.
+      Thank you. Napolitano: Thank you. All the best. And coming up later today, actually
+      beginning shortly at 11 this morning, Professor Jeffrey Sacks; at noon, Aaron
+      Mate; at three this afternoon, Phil Giraldi. Tomorrow, Colonel McGregor and Professor
+      Mearsheimer and Colonel Wilkerson. 28:03 Judge Napolitano for “Judging Freedom”.'
+    one_sentence_summary: In a discussion on "Judging Freedom," Judge Andrew Napolitano
+      and Professor Gilbert Doctorow analyze President Trump's mixed messages regarding
+      the Ukraine conflict, including his statements on Ukraine's need for offensive
+      action against Russia and his authorization of missile weaponry delivery.
+    paragraph_summary: In a recent episode of "Judging Freedom," Judge Andrew Napolitano
+      discusses President Trump's mixed signals regarding the Ukraine conflict with
+      Professor Gilbert Doctorow. Trump has suggested that Ukraine will lose unless
+      it takes offensive action against Russia and has authorized the delivery of advanced
+      missile systems to Ukraine. He also hinted at severe consequences for Russia if
+      President Putin does not engage in negotiations with President Zelensky. Doctorow
+      interprets these actions as politically motivated, reflecting Trump's need to
+      respond to domestic pressures rather than a coherent foreign policy strategy.
+      He notes that Russia appears unfazed by Trump's statements, indicating a calmness
+      in their response, while emphasizing that U.S. foreign policy often prioritizes
+      domestic political considerations over international relations.
+    published: '2025-08-30T12:43:50+00:00'
+  - title: Transcript of ‘Judging Freedom,’ 27 August edition
+    url: https://gilbertdoctorow.com/2025/08/30/transcript-of-judging-freedom-27-august-edition/
+    text: 'Transcript submitted by a reader https://www.youtube.com/watch?v=TI2k2jbku8c
+      Napolitano: 0:32 Hi everyone, Judge Andrew Napolitano here for “Judging Freedom”.
+      Today is Wednesday, August 27th, 2025. Professor Gilbert Doctorow will be here
+      in just a moment on Trump’s confusing signals. But first this. 0:49 [ad] 1:59
+      Professor Doctorow, good day to you, my friend, and thank you very much for joining
+      us and for accommodating my schedule. In the past week, President Trump on his
+      own Truth Social has written that Ukraine is doomed to lose the war unless it
+      can get offensive and attack Russia, in a Truth Social that we have been posting,
+      you can see it right there. He also authorized the delivery of 3,000 E-ROMs, offensive
+      missile weaponry that can travel 280 miles. That’ll take about six weeks for them
+      to get there. And just yesterday, he said he has something very severe in mind
+      for Russia if President Putin doesn’t sit down at the same table in the same room
+      at the same time with President Zelensky. What kind of signals is he sending to
+      the Kremlin? Doctorow: 2:54 Well, they’re not good ones, but I don’t see any sense
+      of alarm coming out of Russia. They’re rather calm about this. Mr. Trump changes
+      his– he pivots this way and pivots that way, in accordance with domestic American
+      politics and where he sees the greatest threats to his position. In this sense,
+      Mr. Trump is not a great departure from other presidents and from the American
+      political establishment for whom the rest of the world are just props. The only
+      thing that counts in foreign policy is domestic policy. And that dictates many
+      things. I was asked earlier today about the American initiative in the United
+      Nations to reinstate the sanctions against Iran. 3:51 And in Tehran, they’re very
+      upset about this. They take this, shall we say, personally? My point is, there’s
+      nothing personal about it. If Mr. Trump sees himself under threat for one or another
+      issue, however unrelated it is, for example, to Iran, then he will take action
+      on Iran. And if it’s the most convenient and less costly thing that he can do
+      to flex muscles and to prove that he is macho and still in control of everything.
+      Napolitano: 4:27 I realize that you and I agree that he is often driven by his
+      own personality and his own ego. He doesn’t have the moral or ideological or value-laden
+      sense of some of his predecessors. But what is to be accomplished by these threats?
+      How can he expect the Kremlin to react positively, or do they just dismiss it
+      as, “Oh, there he is changing his mind again, he doesn’t mean it, he’ll back off,
+      what can he possibly do to us?” Doctorow: I think it’s the second situation. We
+      don’t know what back channels there are, what messages are being sent by Washington
+      to the Kremlin to reassure them that this is not going to be what it looks like.
+      If it is what it looks like, then we have World War III. So then we all should
+      be quite excited about it. What I mean is that the Russians have made definite
+      threats, what they will do to the suppliers of long range missiles that are being
+      used against them deep inside the Russian Federation. 5:40 And this would be in
+      direct, this shipment of these 3,600, whatever it is, medium-range, oh, 480 miles
+      is pretty good. If that is used as the Ukrainians would normally use it to destroy
+      civilian infrastructure, to kill ordinary Russians and not to attack military
+      posts, then the Russians will have to, if they want to follow through on their
+      red lines, attack Washington. So I don’t believe this is going to happen. He’s
+      making sounds and he’s silencing critics of one kind or another, maybe in relation
+      to his policy on Gaza. It’s hard to say exactly what is motivating him. But I
+      would go a little bit in variance with what you said about his ego. I don’t think
+      he’s ego-driven. I think it is policy-driven. But it is political threats that
+      he’s responding to. They are real threats. And he responds in what seems to be
+      illogical and unrelated manners. Napolitano: Here’s his threat yesterday, Chris,
+      cut number two. Trump: 6:50 I want to see that deal end. It’s very, very serious,
+      what I have in mind, if I have to do it. But I want to see it end. I think that
+      in many ways he’s there. Sometimes he’ll be there and Zelensky won’t be there.
+      You know, it’s like, who do we have today? I got to get them both at the same
+      time. But I want to have it end. We have economic sanctions. I’m talking about
+      economic, because we’re not going to get into a world war. I’ll tell you what,
+      in my opinion, if I didn’t win this race, Ukraine could have ended up in a world
+      war. We’re not going to end up in a world war. And it will not be a world war,
+      but it will be an economic war. And an economic war is going to be bad. And it’s
+      going to be bad for Russia. And I don’t want that. Napolitano: –done a damn thing
+      to dial back the violence. If anything, it’s accelerated in the past eight months.
+      Doctorow: 7:49 Well, this brings us to the point. I think the hidden message from
+      Moscow is what he said to Netanyahu months and months ago. But in Netanyahu’s
+      case, it didn’t serve his interests. His interest is to keep the fight going,
+      but to keep in, to stay in power. Mr. Putin doesn’t have a problem staying in
+      power. He doesn’t need a war to stay in power. So the issues are a little bit
+      different, but Trump’s behavior towards them both is the same: get it over with
+      fast. And frankly speaking, the Russians are getting it over with much faster
+      than they were before Mr. Trump made his threats. Napolitano: 8:29 Yesterday,
+      President Zelensky said he would never voluntarily surrender the oblasts in the
+      Donbas region or Crimea. It sounds ridiculous. But is he free to make those concessions?
+      Or would he do so at the peril of the loss of his life? Doctorow: Oh, I think
+      it’s the latter case. I think the Russians are solving that predicament for him.
+      The way they are progressing now, along the whole front, taking every soft spot
+      they can, even if it’s not in Donetsk, even if it’s not moving closer to the Dnieper,
+      they are taking territory and position, making emphasis on position. They moved
+      into and took one or two towns in the new oblast for them, the Dnepropetrovsk
+      oblast. We know about that area because there the only use of Oreshnik was to
+      destroy a factory, military factory, heavily fortified and underground factory
+      in Dnipro. Dnipro is the Ukrainian word for Dnepropetrovsk. And this area is of
+      symbolic importance, the same way that taking Kramatorsk and Slavyansk in Donetsk
+      oblast, is symbolic, because that’s where the– that was the cradle of the Russian
+      Renaissance, the resumption of spirit and self-confidence that came in 2014. 10:07
+      So this Dnepropetrovsk is more than a physical acquisition, it is a symbolic acquisition,
+      because that is the home base of Kolomoisky, the oligarch who from the start financed
+      the Azov battalion, who financed a lot of the dirty operations against Russia.
+      Napolitano; Right. Doctorow: And was one of the wealthiest men controlling, owning
+      the most important bank in the country and owning the airline and calling all
+      the shots. Well, that’s where he came from. So this is a territory, if they move
+      on Dniepropetrovsk, they are going at the jugular of the… Napolitano: What actually
+      happens or changes on the ground when the Russians take a village Does the government
+      of the village change? Do the police in the village change? Does everybody go
+      back to speaking Russian? Or are these takeovers of villages, which we’ve never
+      heard of here in the US, just symbolic or part of the pathway toward the Dnieper
+      River? Doctorow: 11:21 It is more than symbolic. It’s clearing the way for reconstruction
+      and for resettlement. There aren’t too many people in those towns that are taken,
+      to greet the incoming Russian soldiers. Very few have remained behind, because
+      they were under threat of being shot by the Ukrainian soldiers for not evacuating
+      with them. So there are very few people in their cellars or whatever who are there
+      to toss flowers to the incoming Russian soldiers. The main task that the Russians
+      have is demining. And they send in their specialists to remove the mines, because
+      everything is mined after the Ukrainians leave a village. Well, I say village;
+      most of these places they’re conquering really are hamlets. Maybe they have two,
+      three, 500 inhabitants. They’re not a village in the sense that you had in mind.
+      And they don’t have mayors and high officials. But this is very important. Mr.
+      Putin yesterday had his meeting one-on-one with the governor of Kherson oblast.
+      And this is an area that is highly contested. The Kherson city, the capital, is
+      on the right bank, that is say the west bank of the Dnieper. It is under Ukrainian
+      control. It was evacuated by the Russians as untenable. They had to cross the
+      river to supply it. But most of that, Kherson oblast is in Russian control on
+      the east side of the Dnieper. And they were discussing the vast reconstruction
+      program that’s now ongoing, building 600 kilometers of new asphalt roads and all
+      kinds of infrastructure. And taking each of these little hamlets and villages
+      is extending the territory in which Russia will restore normal living conditions,
+      rebuild housing, and so forth. So it’s more than symbolic that when they take
+      these, they’re preparing to move in immediately to restore normal living in these
+      places. Napolitano: And who pays for this reconstruction? The Russian Federation,
+      or is it private investments, or is it BlackRock in the U.S.? Who’s paying for
+      it? Doctorow: 13:41 It is multiple layers of the Russian government. You have
+      cities in Russia like Moscow, which have city-to-city brotherly relations with
+      this or that town, the same thing as St. Petersburg, and they put up their own
+      laborers, their own equipment and so forth, to do construction work and then to
+      build new housing for the returnees. You ask which language they speak. Almost
+      everyone in these territories speaks Russian. The idea they’re– or they’re bilingual,
+      Ukrainian, Russian. Let’s not confuse the language with the ethnicity. There are
+      ethnic Ukrainians, if you can define that, who are Russian speakers. That was
+      the predominant language in the region where they were living. So that is not
+      really an issue. Napolitano: 14:38 Right. Doctorow: Even on Ukrainian television,
+      you have a lot of officials who are interviewed and are speaking Russian. That
+      was the language. Napolitano: Isn’t it illegal, even criminal, under Ukrainian
+      law to speak Russian? Doctorow: It is. But practicality says if you want them
+      to say something, they’ll say it in a language they can speak. Napolitano: Right.
+      Foreign Minister Lavrov says no Putin-Zolensky meeting without an agenda. What
+      does that mean? Doctorow: Well, they have an agenda. It’s a negation of the agenda
+      by Zelensky. As soon as he got back home following his trip to Washington, he
+      was saying that in no way will we accept surrender of territory. And that put
+      a big “nyet” on the whole logic of the meeting, because Trump himself had said
+      the prime purpose of the meeting would be to discuss exchange of territories,
+      meaning Ukraine ceding its loss. The question, of course, is that if you go into
+      this, the Ukrainians, if they were to cede anything, would be de facto rather
+      than de jure, they would maintain their claims. But the United States, at least
+      with regard to Crimea, already stated openly that it is willing to acknowledge
+      Russian governance of Crimea, de jure. What happens to the rest of the other oblasts
+      will be a subject for negotiation at present or perhaps at a given time in the
+      future. Napolitano: 16:09 India is thumbing its nose at Trump’s tariffs, which
+      are now up to, I think, 60 percent. Are you surprised? Doctorow: There has been
+      some very reasonable analysis of what actually is happening on these tariffs.
+      The most important component of Indian exports to the United States are not commodities,
+      they’re not products. It is IT, it is technology, it is software programming.
+      So I think $38 billion in that. That’s not touched. Pharmaceuticals are not touched.
+      And we all know that India is a big producer of generic pharmaceuticals, which
+      are in big demand because they cost a fraction of the price of the original owners
+      of the medicines that we’re talking about. These are not touched. What is touched
+      are this: many factory operations were started up in the last two or three years
+      to replace production that otherwise had been going on for American companies
+      in China. And so this is affected. The products that were being made in India
+      to replace their production in China are under direct threat and become unviable
+      as exports to the United States. That is surprising, but I’m just saying that
+      the Indian commentators do note that it is more complicated than it looks. Nonetheless,
+      Mr. Trump has undone in a matter of a couple of months, what the United States
+      took perhaps 10 years to achieve as a foreign policy objective: to use India as
+      a counterbalance to China and to invite India into its partnerships relating to
+      the Indo-Pacific area. 18:05 That’s all undone. And it’s remarkable. That is the
+      most astonishing reversal, and I say loss of American influence, that Mr. Trump
+      has done since taking office. Mr. Biden pushed Russia into China’s arms, and Mr.
+      Trump is pushing India into Russia’s arms. And also into China’s arms. Mr. Modi
+      is going to China, I think, in the next week or two. Napolitano; Right. Doctorow:
+      This will be the first visit in seven years. Napolitano: Is it fair to say that
+      for all of his bombast and threats and animosity toward BRICS, he’s actually strengthening
+      it, Trump? Doctorow: Absolutely. That’s a perfect summary of his achievements
+      from seven months in office. Napolitano: 18:52 Wow. Last week, the Russians destroyed
+      not- yet-assembled Taurus missiles that had been delivered by Germany to Ukraine.
+      Did Chancellor Merz think that the Russians would allow the Ukrainians to assemble
+      these things and start firing them? Doctorow: Well, the Russians did very important
+      damage to the whole missile program in Ukraine, both the deployment of weapons
+      that are received from outside and the construction of weapons using British and
+      other Western technologies. One of the big issues that drove Mr. Trump– if you
+      want to speak, want to find rational decision-making in what he’s been doing for
+      the last 10 days– one of the most important factors was the destruction of the
+      Flex Factory. This was nominally making coffee machines for consumers in Ukraine,
+      30 kilometres away from the Hungarian border. A company called Flex, I believe,
+      which was the local branch of an American electronics manufacturer. Now, Mr. Trump
+      had to react to that. 20:18 This was, I don’t know, this was a billion dollar
+      or so, so it was a large investment had been made by Americans in this military
+      production, intending to create strike missiles in Ukraine. This was utterly destroyed
+      by a combination of drones and hypersonic missiles. Flattened, destroyed. It took
+      Mr. Trump a day to react. Of course, he must have been under enormous pressure.
+      “How do they dare?” Just as Mr. Merz must be concerned, “How do the Russians dare?”
+      Well, they dare. In this sense, there’s acceleration, escalation I should say
+      as well, in what the Russians are doing. Before, they didn’t touch manufacturing
+      facilities owned by foreigners. Now they are. And it was a big signal to the Brits,
+      to the French, to the Germans, don’t even think of setting up military facilities,
+      production facilities in Ukraine, because they will suffer the same fate. 21:17
+      So in a number of ways, the various threats that Trump and others have made, the
+      various attempts to have a real military presence in Ukraine– such as assisting
+      the construction of latest generation strike missiles there– that has touched
+      a nerve, and the Russians have responded, I’d say, violently. Napolitano: I’ll
+      tell you what I’m concerned about, Professor Doctorow, and I wonder if you share
+      that concern. And that is the resurgence of the neocon whispering into Donald
+      Trump’s ear. General Kellogg, Senator Graham, Secretary Rubio. The type of threat
+      that Trump made yesterday. Maybe it’s just an idle threat. He often talks off
+      the top of his head. I can’t imagine he’s run this past his advisors first. But
+      I’m worried that that neocon attitude may be resurgent in the behavior of the
+      American president. Do you share that fear? Doctorow: 22:28 No, I don’t. There
+      are limits on what he’s going to do. And the limits are: if he were to do what
+      he said about giving the Ukrainians these 5,000 missiles and letting them have
+      a go at it, then we’ll have a war. And the last thing he wants is a war. He had
+      just said in the segment that you quoted that he wants an economic war, not a
+      kinetic war. And I believe that is a deep-set feeling. As to the whisperers, again,
+      this is part of his drama, of his theatre. Not everybody is deceived. There are
+      a few people around who have their wits about them and understand what’s going
+      on, even in Europe. Even in Europe. There were two days ago in a broadsheet publication
+      as a large-format daily newspaper, the “Écho de la bourse”, there was an article
+      interviewing a leading French European security specialist talking about how the
+      European response to Trump and his seeming pivot towards Putin and against themselves
+      explaining that it’s a little bit more nuanced than one would think, that Europeans
+      aren’t complete dolts. They understand that he could be playing with them, that
+      he could be stringing them along, but they have a choice of two ways to react.
+      One is to turn their back on him and to go against him, to dig in their heels.
+      And the other is to humor him, to play to his vanity and to think that they can
+      bring him around. And the second policy has a little bit more depth to it than
+      it appears. It is that they don’t want to be seen as being that monkey-wrench
+      in the works that Mr. Putin was talking about. They don’t want the failure of
+      Trump’s peace efforts to be their doing. They believe that Mr. Putin will do it
+      and let him take the flak, let him take the opprobrium from Trump for destroying
+      his chances of getting the Nobel Peace Prize and ruining the peace negotiations.
+      And that could be, there’s a logic to that. It makes them look a little bit less
+      stupid than they otherwise seem to be. Napolitano: 25:01 Right. Before we go,
+      what is the significance, if any, of the arrest in Italy of this Ukrainian intelligence
+      officer? I think I have this right. Doctorow: No, you do. I was very glad you
+      brought it up because while very little is said about it in Western news, a lot
+      is said about it in Russian news. And they’re covering it closely. Today’s had
+      a release on the ticker tape news in Russia that you find on their Yandex, that
+      he was the head. The man who was arrested was a Ukrainian officer who was supervising
+      a team of seven saboteurs, of various specialties, who carried out the preparation
+      of destruction of the Nord Stream 1 pipeline. But that doesn’t take away from
+      Sy Hersh’s story that the whole thing, the whole concept was American and that
+      Biden approved the timing and that this was a setup for whenever the American
+      president decided the explosive would be detonated. 26:17 That doesn’t change.
+      But it does tell you that, and as Russians are saying, in fact, the only aspect
+      of this that interests them is this team was Ukrainian and that it could never
+      have been authorized without the personal approval of Zelensky. And they’re saying,
+      and what is Mr. Merz going to do about it? Napolitano: And what was this team
+      of Ukrainians doing in Italy? Where in Italy? In Rome? Doctorow; No, no, It’s
+      one man who’s captured, as far as I know. And there is an arrest warrant out for
+      six others who were his subordinates in this team that carried out the preparation
+      of the destruction of the pipeline. And I suppose he’s simply enjoying the money
+      that he received for his work. I think he’s just gotten away from the hardships
+      of Ukraine. I don’t believe that he’s out there in Italy on assignment. Certainly
+      that his team isn’t there, because the job was done. Napolitano: Professor Doctorow,
+      thank you very much. Thanks for the broad array of topics. Thanks for the tip
+      on the arrest in Italy. Great chatting with you, my dear friend. We have a holiday
+      coming up here in the US, Labor Day weekend, but it should not interfere with
+      our work next week, and I look forward to it already. Doctorow: And I do as well.
+      Thank you. Napolitano: Thank you. All the best. And coming up later today, actually
+      beginning shortly at 11 this morning, Professor Jeffrey Sacks; at noon, Aaron
+      Mate; at three this afternoon, Phil Giraldi. Tomorrow, Colonel McGregor and Professor
+      Mearsheimer and Colonel Wilkerson. 28:03 Judge Napolitano for “Judging Freedom”.'
+    one_sentence_summary: In a discussion on "Judging Freedom," Judge Andrew Napolitano
+      and Professor Gilbert Doctorow analyze President Trump's mixed messages regarding
+      the Ukraine conflict, including his statements on Ukraine's need for offensive
+      action against Russia and his authorization of missile weaponry delivery.
+    paragraph_summary: In a recent episode of "Judging Freedom," Judge Andrew Napolitano
+      discusses President Trump's mixed signals regarding the Ukraine conflict with
+      Professor Gilbert Doctorow. Trump has suggested that Ukraine will lose unless
+      it takes offensive action against Russia and has authorized the delivery of advanced
+      missile systems to Ukraine. He also hinted at severe consequences for Russia if
+      President Putin does not engage in negotiations with President Zelensky. Doctorow
+      interprets these actions as politically motivated, reflecting Trump's need to
+      respond to domestic pressures rather than a coherent foreign policy strategy.
+      He notes that Russia appears unfazed by Trump's statements, indicating a calmness
+      in their response, while emphasizing that U.S. foreign policy often prioritizes
+      domestic political considerations over international relations.
+    published: '2025-08-30T12:43:50+00:00'
+  - title: '‘Spotlight,’ Press TV (Iran): E3 Move to reimpose UN sanctions'
+    url: https://gilbertdoctorow.com/2025/08/30/spotlight-press-tv-iran-e3-move-to-reimpose-un-sanctions/
+    text: France, Britain and German, European cosigners of the JCPOA agreement that
+      provided for international monitoring of Iran’s nuclear program and restrictions
+      on uranium enrichment in exchange for lifting economic sanctions against Iran,
+      are now poised to implement its ‘snapback’ provisions reimposing those sanctions
+      within a month over allegations that Iran has failed to live up to its obligations
+      under the JCPOA. Of course, this prospect has provoked great concern in Teheran
+      which is threatening to halt all cooperation with the international atomic agency.
+      Meanwhile, Russia and China have protested the planned ‘snapback’ action at the
+      United Nations. Though my expertise on these matters is limited to the international
+      context for the present snapback procedures, I accepted the request of ‘Spotlight’
+      producers to participate in the discussion.  Happily, I was joined by fellow panelist
+      Massoud Shadjareh in London, an expert on the workings of the JCPOA agreement.
+      https://www.presstv.ir/Detail/2025/08/29/753998/SLAMMING-‘ILLEGAL’-SNAPBACK I
+      call out here the point that the three European countries leading the effort to
+      reimpose crushing sanctions on Iran, the United Kingdom, France and Germany, are
+      precisely the ringleaders in efforts to sabotage the peace process in Ukraine
+      and continue the fight against Russia to the last Ukrainian. I repeat here my
+      assertion that what they are doing on Iran is precisely an effort to curry favor
+      with Donald Trump with intent to bring him around to their anti-Russian, pro-Ukrainian
+      positions. Thus, Iran’s likely suffering from renewed sanctions will be just collateral
+      damage of the Ukraine war and its European promoters.
+    one_sentence_summary: France, Britain, and Germany are preparing to reimpose sanctions
+      on Iran under the JCPOA's 'snapback' provisions due to alleged non-compliance,
+      prompting threats from Tehran to cease cooperation with the international atomic
+      agency and protests from Russia and China at the UN.
+    paragraph_summary: France, Britain, and Germany, the European signatories of the
+      JCPOA agreement aimed at regulating Iran's nuclear program, are preparing to invoke
+      the 'snapback' mechanism to reinstate economic sanctions against Iran due to alleged
+      non-compliance with the agreement. This move has raised significant concerns in
+      Tehran, which threatens to cease cooperation with the International Atomic Energy
+      Agency. Meanwhile, Russia and China have expressed their opposition to the planned
+      sanctions at the United Nations. The article suggests that the European countries'
+      actions regarding Iran are motivated by a desire to align with U.S. interests,
+      particularly in relation to the Ukraine conflict, implying that Iran's renewed
+      suffering from sanctions is a byproduct of broader geopolitical strategies.
+    published: '2025-08-30T06:27:18+00:00'
+  - title: '‘Spotlight,’ Press TV (Iran): E3 Move to reimpose UN sanctions'
+    url: https://gilbertdoctorow.com/2025/08/30/spotlight-press-tv-iran-e3-move-to-reimpose-un-sanctions/
+    text: France, Britain and German, European cosigners of the JCPOA agreement that
+      provided for international monitoring of Iran’s nuclear program and restrictions
+      on uranium enrichment in exchange for lifting economic sanctions against Iran,
+      are now poised to implement its ‘snapback’ provisions reimposing those sanctions
+      within a month over allegations that Iran has failed to live up to its obligations
+      under the JCPOA. Of course, this prospect has provoked great concern in Teheran
+      which is threatening to halt all cooperation with the international atomic agency.
+      Meanwhile, Russia and China have protested the planned ‘snapback’ action at the
+      United Nations. Though my expertise on these matters is limited to the international
+      context for the present snapback procedures, I accepted the request of ‘Spotlight’
+      producers to participate in the discussion.  Happily, I was joined by fellow panelist
+      Massoud Shadjareh in London, an expert on the workings of the JCPOA agreement.
+      https://www.presstv.ir/Detail/2025/08/29/753998/SLAMMING-‘ILLEGAL’-SNAPBACK I
+      call out here the point that the three European countries leading the effort to
+      reimpose crushing sanctions on Iran, the United Kingdom, France and Germany, are
+      precisely the ringleaders in efforts to sabotage the peace process in Ukraine
+      and continue the fight against Russia to the last Ukrainian. I repeat here my
+      assertion that what they are doing on Iran is precisely an effort to curry favor
+      with Donald Trump with intent to bring him around to their anti-Russian, pro-Ukrainian
+      positions. Thus, Iran’s likely suffering from renewed sanctions will be just collateral
+      damage of the Ukraine war and its European promoters.
+    one_sentence_summary: France, Britain, and Germany are preparing to reimpose sanctions
+      on Iran under the JCPOA's 'snapback' provisions due to alleged non-compliance,
+      prompting threats from Tehran to cease cooperation with the international atomic
+      agency and protests from Russia and China at the UN.
+    paragraph_summary: France, Britain, and Germany, the European signatories of the
+      JCPOA agreement aimed at regulating Iran's nuclear program, are preparing to invoke
+      the 'snapback' mechanism to reinstate economic sanctions against Iran due to alleged
+      non-compliance with the agreement. This move has raised significant concerns in
+      Tehran, which threatens to cease cooperation with the International Atomic Energy
+      Agency. Meanwhile, Russia and China have expressed their opposition to the planned
+      sanctions at the United Nations. The article suggests that the European countries'
+      actions regarding Iran are motivated by a desire to align with U.S. interests,
+      particularly in relation to the Ukraine conflict, implying that Iran's renewed
+      suffering from sanctions is a byproduct of broader geopolitical strategies.
+    published: '2025-08-30T06:27:18+00:00'
+  - title: Transcript of a conversation with Glenn Diesen, 28 August
+    url: https://gilbertdoctorow.com/2025/08/29/transcript-of-a-conversation-with-glenn-diesen-28-august/
+    text: 'Transcript submitted by a reader https://youtu.be/_rW7a-qqdSE Diesen: Hi
+      everyone and welcome back. We are joined again by Gilbert Doctorow, historian,
+      international affairs analyst and author of “The War Diaries – The Russia-Ukraine
+      War”. So yeah, welcome back. It’s always great to see you. Doctorow: Good, a pleasure.
+      Diesen: So as the Ukraine war appears to be entering its, if not final stage,
+      at least the final stages, at least some things appears to be moving in that direction,
+      It’s worth exploring what the relationship between the Europeans and Russia would
+      look like after the war. And I guess a good case study would be to look at some
+      of the comments coming from Finland. That is, the meeting between Trump and Europeans
+      in the White House was interesting for a variety of reasons. But the interactions
+      with President Stubbe of Finland was interesting, I guess, because he made several
+      comments. He referred to Finland’s own historical experience with peace with Russia,
+      but also the possibility of renewing relations with Russia after the end of this
+      war. I was wondering what you read into this comment. Doctorow: 1:19 I think Stubb’s
+      remarks got far more attention at high levels in Russia than it did in the West.
+      In the West, well, I for one was confused by what he meant. Is this supposed to
+      be a recommendation to Ukraine to see how well Finland had done after a nasty
+      war with Russia? … Finland’s participation on the side of Hitler against Russia
+      was ended by a 1944 peace between the Soviet Union and Finland in which Finland
+      ceded a lot of territory to Russia. So that could sound like it was a recommendation
+      to Kiev as to what to do. On the other hand, as after some thought and with reflecting
+      on what Sergei Lavrov had to say about it the day after Stubb made his remarks,
+      I come to a different conclusion that bears on your question, how Europe will
+      deal with Russia as the war closes. It is important to note the remarks, the comments
+      on Stubb that were made by Lavrov in an interview that was on Russian state television
+      the next day. In this he reminded everyone what was that 1944 agreement all about?
+      What did it contain? Why was it concluded? 2:37 It wasn’t just that Finland was
+      changing alliances in an abstract or formal way. It is the fact that Finland was
+      an active participant in the atrocities that the Germans oversaw and encouraged
+      in the siege of Leningrad, that they did various acts of barbarism, which the
+      Russians have slowly taken out of their archives. The Russians have a lot of goods
+      on many countries in Europe, including the level of participation of the Belgians
+      or the French in the military forces of Germany on Russian territory, which outweigh
+      in their figures anything resembling the forces of the opposition resistance movements
+      in these countries which everybody has celebrated, including the Russians, formally
+      till now. Well, so they’re taking things out of the archives, which are not very
+      pretty, but would have gotten in the way of reestablishing normal relations with
+      the various countries that participated with Germany in the assault on Russia.
+      3:50 In the case of Finland, he was mentioning, yes, they committed these atrocities
+      and some images of this were put up on the television screen, on Russian state
+      television. And they concluded in 1944, seeing which way the war was going, which
+      was coming to a conclusion against Germany, they decided to change sides, which
+      they did at a considerable price. But that agreement, that peace treaty had conditions
+      which Mr. Stubb didn’t mention, but Mr. Lavrov did. Precisely, Finland was obliged
+      to maintain in perpetuity neutrality. It was obliged not to enter into any military
+      bloc directed against Russia. And there you have it, they joined NATO. So, Mr.
+      Stubb did not go into that aspect of what his country had agreed to. 4:42 But
+      let me move on from that to further consideration of what he may have meant. It
+      came out a day later when he said, without any particular reference why he was
+      saying it, that Finland sought to reestablish relations with Russia. One could
+      read between the lines “normal relations with Russia after the war ended because
+      after all we are neighbors, direct neighbors”. Well, that was quite a signal of
+      a change in position. The Russians immediately pounced on it and asked, well,
+      why do you wait? You can reestablish relations with us right now. We’re not the
+      ones who broke them off, you are. He didn’t respond to that challenge. But it
+      does indicate something that I think we will see a lot of in the coming weeks
+      as the war comes to its conclusion, which will be a military defeat that is universally
+      recognized and even in Ukraine. So some sort of treaty will be negotiated. 5:50
+      And that is that the smaller countries will probably be the first ones to leave
+      this 27 nation wide consolidated opinion on Russia that the EU has maintained
+      for most of the last three years. They are the ones who are most to suffer by
+      the weakened economies resulting from the sanctions and their impact on inflation
+      and on jobs in Western Europe. I live in Belgium. And I can tell you that right
+      now, the country is experiencing severe economic pain. We’re not far from one
+      of the premier commercial avenues, boulevards in Brussels, the Avenue Louise,
+      and there are a lot of empty restaurants and storefronts. I am sitting now in
+      Knokke. Knokke is the most elegant, most prestigious resort on the North Sea,
+      on sea coast of Belgium. And there are vacancies on the digue, on the seafront,
+      and on a few of the major retail districts. This is unthinkable. This is the most
+      prosperous part of Belgium, and there are vacancies. There are restaurants that
+      have gone out of business. Some of them are rather large. So I have a relative
+      whose employment has been related to as a son-in-law, whose employment is related
+      to marketing. And he was meeting with his confreres, with his fellow practitioners
+      in marketing, preparing films for advertising and marketing. And they’re all suffering.
+      Marketing is the first thing to go in the budget lines of corporations when they
+      see the economy is sinking. 7:53 So here in little Belgium and in a place like
+      Finland and in many of the smaller countries which have been dependent on Germany
+      as a locomotive to keep them all doing well, now that Germany is officially in
+      recession, continuing in recession, they are all suffering and they cannot afford
+      to continue the sanctions on Russia, particularly after the war ends and there’s
+      no logical reason for them to continue it. Even in France, I wonder how long Mr.
+      Macron can sing his aggressive songs about Russia and the coalition of the willing
+      and so forth. He’s about to face the fall of his government as Prime Minister
+      Beyrou has announced that it’s impossible for him to accept changes to the budget,
+      which he has prepared, a very strict budget because the country now is experiencing
+      a severe decline in its creditworthiness and is paying a premium price, even above
+      Italy and Greece and other rather weak economies that we traditionally speak of
+      as having high bond rates, because the markets do not give them good grades for
+      managing the economy, France is now above, paying higher rates of interest on
+      its bonds than those countries. 9:31 This cannot continue because France will
+      be penalized. It may find itself in the arms of the IMF if this goes on much longer.
+      Therefore, considering these weaknesses, France among the big countries is the
+      worst case, although Britain isn’t doing very well. The Chancellor of the Exchequer
+      is facing severe criticism because their budget is going into serious deficit
+      and they have been unable to cut costs. And so they face the very unpleasant task
+      of raising taxes. So these are two out of three countries that are facing up to
+      credit problems, all resulting from a weak economy and from the enhanced military
+      expenses if they are assuming to wage war against Russia in 2029. 10:34 These
+      are, I say the big countries are just beginning to see it. The smaller countries
+      are feeling it. But now Mr. Stubb, I think, is the first swallow here to fly by,
+      a new changing direction of politics within the EC, the European Union over relations
+      with Russia. Diesen: It’s certainly interesting that after the war is done and
+      everyone, the overly hardened position has to be loosened up. This could be something
+      that fractures the Europeans as well. It’s often pointed out that once the war
+      is over, the Americans might leave, but it’s also interesting that the Europeans
+      might end up taking very different approaches. But who do you think would be the
+      most hardliners within Europe and who would run fastest to try to mend some ties?
+      Doctorow: 11:30 Well, the … mending of ties, as I say, will be the small countries
+      who are badly hurt by the weakened economy of Germany in particular because they
+      were so dependent on its maintaining the GDP growth in Europe as a whole. The
+      hardliners, well, two days ago, there was a two-page broadsheet interview with
+      a professor of European, a specialist in European security at the University of
+      Lille in France, that was featured on the most important economic or finance daily
+      in Belgium, the “Écho de la bourse”. 12:18 And there you had the logic for the
+      hardliners. Note that Belgium always French- speaking Belgium, always looks to
+      what the French are doing and saying. They take them as the etalon, as the high
+      standard for what should center in public discussion in Belgium itself. This Leo
+      professor was saying, he was very quite intelligent and quite open with his observations
+      on Mr. Trump and Europeans’ handling of Trump, which was interesting because it
+      contradicts what many of my peers and myself included have thought about the European
+      understanding of Trump. That they were taken in, that they don’t see that he is
+      using them. No, no. This professor was acknowledging that Trump may very well
+      be trying to deceive them and trying to string them along, but their response
+      to that falls within certain limits what they can do. One is they can turn that
+      back on him or they can directly oppose him or two, they can humor him and throw
+      carrots to him as the professor said and show him every politesse, every sign
+      of respect, which they did. 13:57 But without themselves believing that this would
+      change his course, that there would be a pivot back to the pro-European, anti-Russian
+      positions. The logic is different. The logic is: don’t do anything to upset his
+      plans. Let Mr. Putin do that for us. Because they don’t believe that Putin will
+      follow the recommendations or diktat of Trump regarding a meeting with Zelensky
+      and an early conclusion of what will now be a peace treaty rather than a ceasefire.
+      So they expect that to fall through and they want Putin to take the brunt of Mr.
+      Trump’s dissatisfaction rather than to point to them as having spoiled it, something
+      that would have happened if they hadn’t stood in the way. So that is a more nuanced
+      approach to what Europe is doing than I have seen anyone else say, and I take
+      my hat off to them. At the same time, his overall logic I think explains very
+      well what’s going on in the mind of Mr. Macron and people around him or Mr. Stammer,
+      namely that in no way should this war end in a treaty that compromises Ukraine’s
+      sovereignty, its ability to conclude alliances with anyone it wants, its ability
+      to maintain an army of the kind that it wants for its security and so forth. With
+      the idea that Ukraine will always be a reserve force of 800,000 man army ready
+      to help Europe at any moment. That is to say, very close to what Mr. Zelensky
+      has been saying, that he is a defender of Europe. If, for example, says this professor,
+      the Russians should move on Estonia, but we could open a second front with the
+      help of Ukraine. So that is the logic that I have. And it’s exactly what Mr. Putin
+      had in mind when he opened the special military operation: to make that kind of
+      relationship impossible by imposing neutrality limitations on the Ukrainian size
+      of its army and de-Nazification, that’s to say regime change. There you have it.
+      As I said, I take this professor from l’Ille as being a very good exponent and
+      explainer of what is probably going through the minds of many of his peers in
+      the academic advisors to Mr. Macron and possibly, probably their equivalents in
+      Germany and in England. Diesen: 17:01 Yes, Stoltenberg, when he was a NATO secretary
+      general, said something similar to that. If the Ukrainians are victorious, then
+      the benefit would be to have as a partner state an army with hundreds of thousands
+      of men who would be battle hardened on the Russian border who would then function
+      as a shield more or less. So I think this is what Europeans want at the end of
+      this war. They can’t accept a neutral Ukraine which can’t be used as an instrument
+      possibly to deter. But this is why I found the comments by Alexander Stubb interesting
+      as well, because his argument was more or less that Russia cannot be appeased,
+      it must be contained. And this was kind of the lessons that they had with, historical
+      lessons they had with Russia. But it seems that it would be the opposite because
+      from my perspective, the main lesson that should be learned is the security competition
+      you should avoid on the borders of other great powers because a lot of Finland’s
+      experience with the Soviet Union was exactly back in ’39 when the Soviets feared
+      that Finland was too close to, well, Leningrad which is now St. Petersburg, and
+      the Germans could use this in the future as a northern flank against them. 18:20
+      So they had fought in the winter war. But after this, the Finns indeed, they did
+      join the invasion of the Soviet Union on the side of Hitler, partly to regain
+      their territory, of course. But when they were defeated, they accepted a peace
+      that entailed territorial concessions, but also permanent neutrality. And the
+      whole idea then would be not to be an instrument of security competition between
+      the great powers. So take yourself out of this and by doing this, the Soviets
+      wouldn’t have anything to fear from Finland and they wouldn’t have to go against
+      the Finns. And to a large extent, the story of Finland is a great success story
+      of neutrality. This massive border, yet no more problems through permanent neutrality.
+      I mean, it’s pragmatic, it shows neutrality works, they ensure their independence,
+      sovereignty, peace. So often people would then look to Finland, why wouldn’t this
+      be a good model for Ukraine? 19:22 But instead of making Ukraine into Finland,
+      we’re doing the opposite. Finland is becoming a frontline like Ukraine. And this
+      is the whole point. When Finland joined NATO in 2023, they changed this power
+      balance. I guess when President Staib says that they want to revive relations
+      after this war, to what extent is it possible to go back to the same? Because
+      now Finland is the largest NATO frontline against the Russians and the Russians
+      are rebuilding the Leningrad military district. It’s a response to this reality,
+      which means that the border with Finland as it’s ended its neutrality will become
+      more militarized. We have countries like the Baltic states, Poland talking about
+      Finland in NATO allows the Baltic Sea to become a NATO lake. We’re seeing more
+      preparation for a fight or confrontation in the Arctic. It does seem that Finland
+      is becoming a frontline state though. So how possible is it to actually go back,
+      try to restore relations as they were? Doctorow: 20:32 Well, Russia has had relations
+      with NATO countries. It has very good relations, or reasonably good relations
+      with Turkey, which has the largest military force within NATO. So I don’t think
+      that being in NATO by itself excludes having a normalization and even very good
+      commercial relations with Russia. That’s to hold up Turkey as Exhibit A. As for
+      what has happened to Finland by, I think they were probably the biggest losers
+      economically in this conflict with Russia. We speak about Germany, that is always
+      brought up because of the cheap energy resources that it received via the gas
+      pipelines and also petroleum pipelines. How will Finland as a case of many times
+      over dependence and profitability from its commercial relations with Russia. This
+      goes back to the Soviet period when they were selling, to be honest about it,
+      quite shoddy consumer items to the Russians in exchange for very fine energy resources
+      and not only. Look, Finland has a very big lumber processing industry, a paper
+      industry. And these were heavily dependent on cheap Russian raw logs. There was
+      a big discussion of course in Russia about the practical benefits or losses in
+      this type of exchange, and there’s no question it was losses. 22:17 The Finns
+      got the logs and then they turned it into a typing paper or anything else you
+      want to think of and cellulose and for rayon and the rest of it. And the Russians
+      got small change and then they received in return leather shoes, which nobody
+      could wear without getting blisters. So I know this a practical matter. That’s
+      what it looked like when you looked at the consumer goods from Finland. They were
+      on sale in Russia in the Soviet Union. They were quite shoddy first by the level
+      of what Bulgaria would ship. The Finns’ economy in every respect was profiting
+      from Russia and that is inside Finland; and their operations in Russia were profitable.
+      And the Russians wanted it that way. They weren’t stupid about this. They were
+      buying the, this they did with their own Warsaw Pact countries, their control
+      over Eastern Europe, all of these commercial relations were disadvantageous for
+      Russia. And they, again, not because they were stupid, but because they were buying
+      the passivity, the peace with these countries. And it worked, to a certain extent.
+      But to a certain extent, these countries were unwilling to sacrifice their identities
+      for the sake of cheap Russian resources. 23:54 So Finland has suffered enormously
+      and as I said, taking the example of Turkey, I don’t see any reason why their
+      being a member of NATO means necessarily that they have to be on a war footing
+      with Russia. Diesen: Well, you mentioned Lavrov’s comment that “Why wait until
+      after the war, we can have diplomatic relations now. It’s the Europeans who broke
+      off diplomacy, not the Russians.” This is a good point though, because again,
+      as President Stubb suggested, we can have renewed dialogue with Moscow, but only
+      after there’s been established a just and lasting peace in Ukraine. I guess my
+      first question would be why? Why would the diplomacy enter after a conflict? Also,
+      to what extent would it be possible if we recognize that this war is, as many
+      have suggested from Leon Panetta, Boris Johnson, that this is a proxy war indeed?
+      Wouldn’t the dialogue be required in order to reach this lasting peace? Because
+      again, from the Russian perspective, the main problem is that we cancel these
+      agreements for pan-European security, indivisible security. So again, constructing
+      this Europe without Russia meant re-dividing the continent, reviving the Cold
+      War, zero-sum logic, and even refusing to then take into account Russian concerns,
+      given that this was a hegemonic peace. 25:31 But if the Russian thesis is correct,
+      that the consequence of this is that the deeply divided states, be it Georgia,
+      Moldova, Ukraine, would then be pulled in both directions in order to wrestle
+      control over them, to see what side of the new dividing lines in Europe. All of
+      this seems to be requiring some agreements between the Europeans and the Russians
+      as well. So to what extent can you actually have a lasting peace unless you have
+      the diplomacy before the peace. I mean, I understood the initial logic that will
+      isolate Russia, this will put pressure, but who’s thinking these days that Russia’s
+      isolated with the Americans now talking to Russia? It’s just the Europeans. The
+      rest of the world is doing business. They’re talking with them. The Americans
+      are trying to improve the bilateral relations. Where does this logic come in then?
+      Because I always make the point, I can understand the Russian position well, I
+      understand the Ukrainians very well, I can understand the Americans, but the Europeans,
+      it doesn’t make much sense why they would still boycott diplomacy. 26:37 Well,
+      I think Mr. Lavrov was making debating points rather than saying what is constructive,
+      what happens next. I don’t think that repairing relations with any of the European
+      countries is really on the top of the agenda for Moscow. I think that its first
+      concern is repairing relations with the United States. And the single most important
+      thing to be fixed with the United States and say urgently is an agreement not
+      to– that the United States not bring over its intermediate range missiles into
+      Germany in 2026, which is five months from now. That is of vital importance. And
+      there you need an agreement with Mr. Trump. After that, they can turn around and
+      look at the European states. 27:35 But on this whole question of who’s who and
+      Russia’s relations with Europe and with the United States, I just go back in time.
+      The whole psychology of Russia, or the Soviet Union, was that there were two superpowers,
+      the United States and Russia and Europe didn’t really count. Despite the fact
+      that Russians on the street may consider themselves to be Europeans, that did
+      not carry over into the thinking in the Kremlin. They measured themselves against
+      the states. All of their descriptions of themselves were in units of the United
+      States. So just as in Australia, I think every distance between cities is measured
+      between, is taken by contrast or comparison with the distance between Melbourne
+      and Sydney. 28:34 It is the basis for making judgments about anything. And our
+      newspapers, so populated by journalists who don’t have a memory that goes back
+      more than a few weeks, don’t understand that this is a persistent element of Russian
+      mentality, particularly official Russian mentality, that the United States is
+      what you measure yourself by, not by these little countries in Europe, even if
+      they’re rather big, even if they’re Germany. They are secondary considerations.
+      So first is repair relations with the United States, get this terrible security
+      issue of intermediate-range missiles in Europe off the table, and then go after
+      these countries in Europe. 29:19 I think they will follow what I just observed.
+      They will work first with the smaller countries that are more amenable to reason.
+      And once they’ve facilitated the breakdown, the breakup of the bloc and facilitated
+      the pursuit of national interests particularly among the smaller countries, then
+      they can deal with the larger countries. The real tough nut to crack here, of
+      course, will be Germany because Mr. Metz continues to invest political capital
+      in the confrontation with Russia. And his words are more important than those
+      of Macron because he has the credit worthiness and the ability to build military
+      assets that Mr Macron does not have. Diesen: 30:13 I guess my last question was
+      on the European strategy, as you suggested that the goal would be for the Europeans
+      to seemingly just nod along and say, of course, Trump, you’re great, we’ll follow
+      your excellent peace initiatives. We’ve never been more optimistic than now. All
+      you have to do is pressure the Russians, you know, to make sure that this is where
+      his negotiation– or threats as this is how he negotiates– goes. You know, I can
+      see a lot of evidence behind this when they began initially to suggest a 30-day
+      ceasefire. I remember all the European leaders, they sent out a tweet which was
+      almost identical. 30:58 They all had the same phrase, ah the ceasefire, “the ball
+      is now in Russia’s court”. In other words, Trump could go over there, you know.
+      Now you have to pressure them, knowing that Russia would never accept a ceasefire
+      because it doesn’t make any sense without political settlement and hoping therefore
+      that, you know, the diplomacy with the Russians would end up in renewing Trump’s
+      commitment to the war and pulling him into the Biden 2.0 or the European camp
+      of a long war with Russia. But now that the ceasefire is out of the question,
+      this becomes a bit more difficult, or does it? Because the whole thing appears
+      to be premised on the notion that Russia doesn’t really want peace. It’s just
+      prolonging the time so it can gobble up more territory. But if the conditions
+      of Russia were actually met, that is the territorial concessions and the neutrality,
+      what are the Europeans going to do if the Americans and Russians come to a peace
+      and the Europeans then have to try to fight this tooth and nail. I mean, how can
+      they actually stop this from happening? Doctorow: 32:09 Well, they can’t, and
+      I think they will simply split, along the lines I mentioned. Mr. Stubb was being
+      very, very careful, very cautious. He’s making baby steps. And if what he said
+      wasn’t entirely consistent, this has to be considered that he can’t go too far
+      out of line with his peers. But we will see more of this as the war grinds on
+      and as the Russians come closer to taking the whole of Donetsk for example, which
+      they’re doing very nicely right now. I think the opinions will change within Europe.
+      There’ll be some surprises which countries come out first in an olive branch,
+      but there will have to be a split in Europe. To my understanding, the logic suggests
+      that. And it’s not because the Russians are forcing it, it’s because these countries
+      are chafing under the direction given by Germany and by France and by the UK.
+      And finally will revolt against that because it’s so much against their interests
+      and the interests of their peoples and their prosperity. Diesen: 33:29 But that
+      also makes me think about the expectations for Ukraine, what comes after this
+      war, because what the Europeans appear to want is to have this hundreds of thousands
+      of Ukrainians prepared to die for Europe essentially to be as their active frontline
+      if they have to have a conflict with Russia. But the Ukrainians, obviously they
+      hope that it would be the Europeans who would come to the aid of Ukraine not the
+      other way around. Of course if there would be a military block, [those] wouldn’t
+      be mutually exclusive, but then the West of course would be pulled into a war,
+      which the Europeans wouldn’t do without America. So I guess my point is there’s
+      been more voices coming out of Ukraine that what happens after this war, because
+      the Europeans seem to be signaling a lot that we need to keep the war going a
+      bit so to protect Europe from the Russian aggression. So people like Yulia Tomashenko
+      has made a point that we just pretty much meet for the Europeans. They just want
+      to throw Ukrainians at Russia to buy time for Europe. 34:36 So in other words,
+      they’re kind of understanding that Europe is there not to protect Ukraine, but
+      to use Ukrainians to protect Europe essentially. So how would that work after
+      a peace? Because based on the assumption, it seems that Ukraine will continue
+      to do this forever, that there will be a political consensus to throw Ukrainians
+      at Russia to help the Europeans. It doesn’t seem like this will be… Well, I can
+      see some flaws in the plan, I guess. Doctorow: 35:06 Well, in the musical world,
+      going back 20 years, there was a trend particularly strong in the United States
+      called minimalism. I don’t want to propose a one-note symphony here, but I have
+      said several weeks ago that it really is in the Russians’ hands to make a proposal
+      that could solve all of these issues. It would take the Europeans out. It would
+      give an off-ramp to the Europeans because if the Ukrainians agree to a settlement,
+      what can they say? And to make the Ukrainians agree to the settlement, Russia
+      just has to say, liberate the 350 or 250 billion dollars in our assets that are
+      frozen, make them available for the reconstruction of all of Ukraine, including
+      what we occupy. And that would end the war. And that would end Mr. Zubensky and
+      his gang. 35:57 I’m happy to say that I’m not the only one who has been playing
+      this note. It was picked up by a rather reputable and widely read journal in Germany,
+      the Berliner Zeitung. And they repeated this proposal, happily with attribution
+      to myself. But the point is it is possible to find solutions if you really want
+      to, and to be a little bit creative here. So I don’t think that we are totally
+      blocked. But of course, even if situation looks rather difficult and even if Mr.
+      Merz and Mr. Macron, Mr. Starmer are awfully stubborn and are supported by academics
+      like the one who appeared in “Echo de la bourse” the other day, there are solutions.
+      And there will be an end to this war. The Russians are really approaching Kramatorsk
+      and Slavyansk. They more or less have Pakrovsk surrounded. They have made some
+      sallies into Pakrovsk. 37:00 And so I really think the war on the ground in Donbas
+      is measured in weeks, perhaps in months, but not in years any more. And once the
+      Russians have seized the whole of Donbas, the excuse that Mr. Zelensky gives that
+      he cannot give up territory that hasn’t been conquered will be removed. He can
+      give it all up or he can take the first plane out and let his successor give it
+      all up. So there will be an end to this war. It’s not going to go on forever.
+      I’m looking to publish volume two. Diesen: 37:42 Well, that’s the frustrating
+      part that everyone recognizes more or less that the Russians won’t give up on
+      Donbass. So they can either appease now or wait until, you know, pull it a few
+      more months until Donbass has been lost and then make the peace. But of course,
+      at that point, Ukraine will be in a much more difficult position because by that
+      time, much more of Zaporizhzhya would have been lost and of course, much more
+      Ukraine will have been destroyed. Many more men will have died. The ability to
+      reconstruct everything will have been diminished. So if all was completely rational
+      and you would have leaders with some political weight, they would be able to make
+      an unavoidable deal today as opposed to having to choose the worst deal tomorrow
+      just because it’s politically easier to do. But again, everything about this has
+      frustrated me for the past decade. So I think, yeah, they will not go for the
+      best solutions just yet. Doctorow: 38:41 There are symbolic things that are going
+      on. Kramatorsk and Slaviansk are symbolic because they were the cradle of the
+      Russian Renaissance, what they call it, going back to 2014. Their last stand against
+      the onslaught from vastly superior numbers, the Ukrainian and military forces
+      who were sent in to crush precisely this resistance to the new regime in Kiev.
+      There are also, you mentioned Zaporozhzhye, but I would add to this Dnepropetrovsk,
+      because the Russians had captured their first towns in that oblast. And as they
+      approach Dnepropetrovsk or as the Ukrainians call it, Dnipro, let’s remember what
+      that is. 39:28 That is the home ground of Pellamoysky, the oligarch who owned
+      the largest bank in Ukraine, who owned the Ukrainian airlines and who virtually
+      controlled the government and who financed the Azov batallions and the other violent
+      nationalists. And so it has great symbolic value also that the Russians are marching
+      on Dniepro. The Ukrainians are being battered, which is not to say that there
+      isn’t a real war. There is. And when you watch Russian television and you watch,
+      listen to the reporters, their war correspondents who are traveling along, close
+      to the front, and they have to leave their vehicles and they have to proceed on
+      foot because the vehicles are just a trap for attack drones. 40:20 So it’s not
+      as though this is “Ah, the Ukrainians are all running from the front.” The Russians
+      are not approaching in large contingents. They’re approaching small groups on
+      foot or on motor scooters or motorcycles precisely because of the drone threat.
+      This nature of warfare is still under-reported and it has changed the character
+      of this war dramatically. That said, they are proceeding in small groups. They
+      are penetrating Ukrainian settlements, taking them by surprise. And while the
+      Ukrainian defenders flee to the next town where they can make a stand. It is a
+      tough war. And all notion that the Russians are doing this according to a fixed
+      schedule, of course that is not happening. They’re moving to where the weak points
+      are, where the Ukrainians cannot cover the whole line and therefore on their way
+      to the weak points to suffer the least losses on their side because attackers
+      always face the threat of greater losses than defenders. It’s a slow moving scene,
+      but where it’s headed is very clear. Diesen: 41:53 Well, thank you again for your
+      input. I thought this is quite interesting to look at. It’s worth starting to
+      think about what Europe will look like after this war. And I think this question
+      is also one of the reasons why the Europeans are so stubborn in terms of hoping
+      not to end the war given a lot of the uncertainties of what will actually follow.
+      But yes, always thank you so much. Appreciate it. Doctorow: 42:21 Thanks for inviting
+      me.'
+    one_sentence_summary: In a discussion about the evolving dynamics between Europe
+      and Russia as the Ukraine war approaches its conclusion, historian Gilbert Doctorow
+      highlights Finland's historical experiences with Russia and the implications of
+      recent interactions between European leaders and the U.S. regarding future relations.
+    paragraph_summary: In a recent discussion, historian and analyst Gilbert Doctorow
+      reflected on the implications of Finnish President Alexander Stubb's comments
+      regarding post-war relations between Europe and Russia, particularly in light
+      of Finland's historical experience with Russia after World War II. Doctorow noted
+      that Stubb's remarks may have garnered more attention in Russia than in the West,
+      where they were met with confusion. He suggested that Stubb's comments could be
+      interpreted as a potential recommendation for Ukraine to consider a peace similar
+      to Finland's, which involved ceding territory to Russia after a conflict. Doctorow
+      also highlighted the significance of Russian Foreign Minister Sergei Lavrov's
+      response to Stubb's statements, indicating that the future dynamics between Europe
+      and Russia will be shaped by such discussions as the Ukraine war approaches its
+      conclusion.
+    published: '2025-08-29T10:53:22+00:00'
+  - title: Transcript of a conversation with Glenn Diesen, 28 August
+    url: https://gilbertdoctorow.com/2025/08/29/transcript-of-a-conversation-with-glenn-diesen-28-august/
+    text: 'Transcript submitted by a reader https://youtu.be/_rW7a-qqdSE Diesen: Hi
+      everyone and welcome back. We are joined again by Gilbert Doctorow, historian,
+      international affairs analyst and author of “The War Diaries – The Russia-Ukraine
+      War”. So yeah, welcome back. It’s always great to see you. Doctorow: Good, a pleasure.
+      Diesen: So as the Ukraine war appears to be entering its, if not final stage,
+      at least the final stages, at least some things appears to be moving in that direction,
+      It’s worth exploring what the relationship between the Europeans and Russia would
+      look like after the war. And I guess a good case study would be to look at some
+      of the comments coming from Finland. That is, the meeting between Trump and Europeans
+      in the White House was interesting for a variety of reasons. But the interactions
+      with President Stubbe of Finland was interesting, I guess, because he made several
+      comments. He referred to Finland’s own historical experience with peace with Russia,
+      but also the possibility of renewing relations with Russia after the end of this
+      war. I was wondering what you read into this comment. Doctorow: 1:19 I think Stubb’s
+      remarks got far more attention at high levels in Russia than it did in the West.
+      In the West, well, I for one was confused by what he meant. Is this supposed to
+      be a recommendation to Ukraine to see how well Finland had done after a nasty
+      war with Russia? … Finland’s participation on the side of Hitler against Russia
+      was ended by a 1944 peace between the Soviet Union and Finland in which Finland
+      ceded a lot of territory to Russia. So that could sound like it was a recommendation
+      to Kiev as to what to do. On the other hand, as after some thought and with reflecting
+      on what Sergei Lavrov had to say about it the day after Stubb made his remarks,
+      I come to a different conclusion that bears on your question, how Europe will
+      deal with Russia as the war closes. It is important to note the remarks, the comments
+      on Stubb that were made by Lavrov in an interview that was on Russian state television
+      the next day. In this he reminded everyone what was that 1944 agreement all about?
+      What did it contain? Why was it concluded? 2:37 It wasn’t just that Finland was
+      changing alliances in an abstract or formal way. It is the fact that Finland was
+      an active participant in the atrocities that the Germans oversaw and encouraged
+      in the siege of Leningrad, that they did various acts of barbarism, which the
+      Russians have slowly taken out of their archives. The Russians have a lot of goods
+      on many countries in Europe, including the level of participation of the Belgians
+      or the French in the military forces of Germany on Russian territory, which outweigh
+      in their figures anything resembling the forces of the opposition resistance movements
+      in these countries which everybody has celebrated, including the Russians, formally
+      till now. Well, so they’re taking things out of the archives, which are not very
+      pretty, but would have gotten in the way of reestablishing normal relations with
+      the various countries that participated with Germany in the assault on Russia.
+      3:50 In the case of Finland, he was mentioning, yes, they committed these atrocities
+      and some images of this were put up on the television screen, on Russian state
+      television. And they concluded in 1944, seeing which way the war was going, which
+      was coming to a conclusion against Germany, they decided to change sides, which
+      they did at a considerable price. But that agreement, that peace treaty had conditions
+      which Mr. Stubb didn’t mention, but Mr. Lavrov did. Precisely, Finland was obliged
+      to maintain in perpetuity neutrality. It was obliged not to enter into any military
+      bloc directed against Russia. And there you have it, they joined NATO. So, Mr.
+      Stubb did not go into that aspect of what his country had agreed to. 4:42 But
+      let me move on from that to further consideration of what he may have meant. It
+      came out a day later when he said, without any particular reference why he was
+      saying it, that Finland sought to reestablish relations with Russia. One could
+      read between the lines “normal relations with Russia after the war ended because
+      after all we are neighbors, direct neighbors”. Well, that was quite a signal of
+      a change in position. The Russians immediately pounced on it and asked, well,
+      why do you wait? You can reestablish relations with us right now. We’re not the
+      ones who broke them off, you are. He didn’t respond to that challenge. But it
+      does indicate something that I think we will see a lot of in the coming weeks
+      as the war comes to its conclusion, which will be a military defeat that is universally
+      recognized and even in Ukraine. So some sort of treaty will be negotiated. 5:50
+      And that is that the smaller countries will probably be the first ones to leave
+      this 27 nation wide consolidated opinion on Russia that the EU has maintained
+      for most of the last three years. They are the ones who are most to suffer by
+      the weakened economies resulting from the sanctions and their impact on inflation
+      and on jobs in Western Europe. I live in Belgium. And I can tell you that right
+      now, the country is experiencing severe economic pain. We’re not far from one
+      of the premier commercial avenues, boulevards in Brussels, the Avenue Louise,
+      and there are a lot of empty restaurants and storefronts. I am sitting now in
+      Knokke. Knokke is the most elegant, most prestigious resort on the North Sea,
+      on sea coast of Belgium. And there are vacancies on the digue, on the seafront,
+      and on a few of the major retail districts. This is unthinkable. This is the most
+      prosperous part of Belgium, and there are vacancies. There are restaurants that
+      have gone out of business. Some of them are rather large. So I have a relative
+      whose employment has been related to as a son-in-law, whose employment is related
+      to marketing. And he was meeting with his confreres, with his fellow practitioners
+      in marketing, preparing films for advertising and marketing. And they’re all suffering.
+      Marketing is the first thing to go in the budget lines of corporations when they
+      see the economy is sinking. 7:53 So here in little Belgium and in a place like
+      Finland and in many of the smaller countries which have been dependent on Germany
+      as a locomotive to keep them all doing well, now that Germany is officially in
+      recession, continuing in recession, they are all suffering and they cannot afford
+      to continue the sanctions on Russia, particularly after the war ends and there’s
+      no logical reason for them to continue it. Even in France, I wonder how long Mr.
+      Macron can sing his aggressive songs about Russia and the coalition of the willing
+      and so forth. He’s about to face the fall of his government as Prime Minister
+      Beyrou has announced that it’s impossible for him to accept changes to the budget,
+      which he has prepared, a very strict budget because the country now is experiencing
+      a severe decline in its creditworthiness and is paying a premium price, even above
+      Italy and Greece and other rather weak economies that we traditionally speak of
+      as having high bond rates, because the markets do not give them good grades for
+      managing the economy, France is now above, paying higher rates of interest on
+      its bonds than those countries. 9:31 This cannot continue because France will
+      be penalized. It may find itself in the arms of the IMF if this goes on much longer.
+      Therefore, considering these weaknesses, France among the big countries is the
+      worst case, although Britain isn’t doing very well. The Chancellor of the Exchequer
+      is facing severe criticism because their budget is going into serious deficit
+      and they have been unable to cut costs. And so they face the very unpleasant task
+      of raising taxes. So these are two out of three countries that are facing up to
+      credit problems, all resulting from a weak economy and from the enhanced military
+      expenses if they are assuming to wage war against Russia in 2029. 10:34 These
+      are, I say the big countries are just beginning to see it. The smaller countries
+      are feeling it. But now Mr. Stubb, I think, is the first swallow here to fly by,
+      a new changing direction of politics within the EC, the European Union over relations
+      with Russia. Diesen: It’s certainly interesting that after the war is done and
+      everyone, the overly hardened position has to be loosened up. This could be something
+      that fractures the Europeans as well. It’s often pointed out that once the war
+      is over, the Americans might leave, but it’s also interesting that the Europeans
+      might end up taking very different approaches. But who do you think would be the
+      most hardliners within Europe and who would run fastest to try to mend some ties?
+      Doctorow: 11:30 Well, the … mending of ties, as I say, will be the small countries
+      who are badly hurt by the weakened economy of Germany in particular because they
+      were so dependent on its maintaining the GDP growth in Europe as a whole. The
+      hardliners, well, two days ago, there was a two-page broadsheet interview with
+      a professor of European, a specialist in European security at the University of
+      Lille in France, that was featured on the most important economic or finance daily
+      in Belgium, the “Écho de la bourse”. 12:18 And there you had the logic for the
+      hardliners. Note that Belgium always French- speaking Belgium, always looks to
+      what the French are doing and saying. They take them as the etalon, as the high
+      standard for what should center in public discussion in Belgium itself. This Leo
+      professor was saying, he was very quite intelligent and quite open with his observations
+      on Mr. Trump and Europeans’ handling of Trump, which was interesting because it
+      contradicts what many of my peers and myself included have thought about the European
+      understanding of Trump. That they were taken in, that they don’t see that he is
+      using them. No, no. This professor was acknowledging that Trump may very well
+      be trying to deceive them and trying to string them along, but their response
+      to that falls within certain limits what they can do. One is they can turn that
+      back on him or they can directly oppose him or two, they can humor him and throw
+      carrots to him as the professor said and show him every politesse, every sign
+      of respect, which they did. 13:57 But without themselves believing that this would
+      change his course, that there would be a pivot back to the pro-European, anti-Russian
+      positions. The logic is different. The logic is: don’t do anything to upset his
+      plans. Let Mr. Putin do that for us. Because they don’t believe that Putin will
+      follow the recommendations or diktat of Trump regarding a meeting with Zelensky
+      and an early conclusion of what will now be a peace treaty rather than a ceasefire.
+      So they expect that to fall through and they want Putin to take the brunt of Mr.
+      Trump’s dissatisfaction rather than to point to them as having spoiled it, something
+      that would have happened if they hadn’t stood in the way. So that is a more nuanced
+      approach to what Europe is doing than I have seen anyone else say, and I take
+      my hat off to them. At the same time, his overall logic I think explains very
+      well what’s going on in the mind of Mr. Macron and people around him or Mr. Stammer,
+      namely that in no way should this war end in a treaty that compromises Ukraine’s
+      sovereignty, its ability to conclude alliances with anyone it wants, its ability
+      to maintain an army of the kind that it wants for its security and so forth. With
+      the idea that Ukraine will always be a reserve force of 800,000 man army ready
+      to help Europe at any moment. That is to say, very close to what Mr. Zelensky
+      has been saying, that he is a defender of Europe. If, for example, says this professor,
+      the Russians should move on Estonia, but we could open a second front with the
+      help of Ukraine. So that is the logic that I have. And it’s exactly what Mr. Putin
+      had in mind when he opened the special military operation: to make that kind of
+      relationship impossible by imposing neutrality limitations on the Ukrainian size
+      of its army and de-Nazification, that’s to say regime change. There you have it.
+      As I said, I take this professor from l’Ille as being a very good exponent and
+      explainer of what is probably going through the minds of many of his peers in
+      the academic advisors to Mr. Macron and possibly, probably their equivalents in
+      Germany and in England. Diesen: 17:01 Yes, Stoltenberg, when he was a NATO secretary
+      general, said something similar to that. If the Ukrainians are victorious, then
+      the benefit would be to have as a partner state an army with hundreds of thousands
+      of men who would be battle hardened on the Russian border who would then function
+      as a shield more or less. So I think this is what Europeans want at the end of
+      this war. They can’t accept a neutral Ukraine which can’t be used as an instrument
+      possibly to deter. But this is why I found the comments by Alexander Stubb interesting
+      as well, because his argument was more or less that Russia cannot be appeased,
+      it must be contained. And this was kind of the lessons that they had with, historical
+      lessons they had with Russia. But it seems that it would be the opposite because
+      from my perspective, the main lesson that should be learned is the security competition
+      you should avoid on the borders of other great powers because a lot of Finland’s
+      experience with the Soviet Union was exactly back in ’39 when the Soviets feared
+      that Finland was too close to, well, Leningrad which is now St. Petersburg, and
+      the Germans could use this in the future as a northern flank against them. 18:20
+      So they had fought in the winter war. But after this, the Finns indeed, they did
+      join the invasion of the Soviet Union on the side of Hitler, partly to regain
+      their territory, of course. But when they were defeated, they accepted a peace
+      that entailed territorial concessions, but also permanent neutrality. And the
+      whole idea then would be not to be an instrument of security competition between
+      the great powers. So take yourself out of this and by doing this, the Soviets
+      wouldn’t have anything to fear from Finland and they wouldn’t have to go against
+      the Finns. And to a large extent, the story of Finland is a great success story
+      of neutrality. This massive border, yet no more problems through permanent neutrality.
+      I mean, it’s pragmatic, it shows neutrality works, they ensure their independence,
+      sovereignty, peace. So often people would then look to Finland, why wouldn’t this
+      be a good model for Ukraine? 19:22 But instead of making Ukraine into Finland,
+      we’re doing the opposite. Finland is becoming a frontline like Ukraine. And this
+      is the whole point. When Finland joined NATO in 2023, they changed this power
+      balance. I guess when President Staib says that they want to revive relations
+      after this war, to what extent is it possible to go back to the same? Because
+      now Finland is the largest NATO frontline against the Russians and the Russians
+      are rebuilding the Leningrad military district. It’s a response to this reality,
+      which means that the border with Finland as it’s ended its neutrality will become
+      more militarized. We have countries like the Baltic states, Poland talking about
+      Finland in NATO allows the Baltic Sea to become a NATO lake. We’re seeing more
+      preparation for a fight or confrontation in the Arctic. It does seem that Finland
+      is becoming a frontline state though. So how possible is it to actually go back,
+      try to restore relations as they were? Doctorow: 20:32 Well, Russia has had relations
+      with NATO countries. It has very good relations, or reasonably good relations
+      with Turkey, which has the largest military force within NATO. So I don’t think
+      that being in NATO by itself excludes having a normalization and even very good
+      commercial relations with Russia. That’s to hold up Turkey as Exhibit A. As for
+      what has happened to Finland by, I think they were probably the biggest losers
+      economically in this conflict with Russia. We speak about Germany, that is always
+      brought up because of the cheap energy resources that it received via the gas
+      pipelines and also petroleum pipelines. How will Finland as a case of many times
+      over dependence and profitability from its commercial relations with Russia. This
+      goes back to the Soviet period when they were selling, to be honest about it,
+      quite shoddy consumer items to the Russians in exchange for very fine energy resources
+      and not only. Look, Finland has a very big lumber processing industry, a paper
+      industry. And these were heavily dependent on cheap Russian raw logs. There was
+      a big discussion of course in Russia about the practical benefits or losses in
+      this type of exchange, and there’s no question it was losses. 22:17 The Finns
+      got the logs and then they turned it into a typing paper or anything else you
+      want to think of and cellulose and for rayon and the rest of it. And the Russians
+      got small change and then they received in return leather shoes, which nobody
+      could wear without getting blisters. So I know this a practical matter. That’s
+      what it looked like when you looked at the consumer goods from Finland. They were
+      on sale in Russia in the Soviet Union. They were quite shoddy first by the level
+      of what Bulgaria would ship. The Finns’ economy in every respect was profiting
+      from Russia and that is inside Finland; and their operations in Russia were profitable.
+      And the Russians wanted it that way. They weren’t stupid about this. They were
+      buying the, this they did with their own Warsaw Pact countries, their control
+      over Eastern Europe, all of these commercial relations were disadvantageous for
+      Russia. And they, again, not because they were stupid, but because they were buying
+      the passivity, the peace with these countries. And it worked, to a certain extent.
+      But to a certain extent, these countries were unwilling to sacrifice their identities
+      for the sake of cheap Russian resources. 23:54 So Finland has suffered enormously
+      and as I said, taking the example of Turkey, I don’t see any reason why their
+      being a member of NATO means necessarily that they have to be on a war footing
+      with Russia. Diesen: Well, you mentioned Lavrov’s comment that “Why wait until
+      after the war, we can have diplomatic relations now. It’s the Europeans who broke
+      off diplomacy, not the Russians.” This is a good point though, because again,
+      as President Stubb suggested, we can have renewed dialogue with Moscow, but only
+      after there’s been established a just and lasting peace in Ukraine. I guess my
+      first question would be why? Why would the diplomacy enter after a conflict? Also,
+      to what extent would it be possible if we recognize that this war is, as many
+      have suggested from Leon Panetta, Boris Johnson, that this is a proxy war indeed?
+      Wouldn’t the dialogue be required in order to reach this lasting peace? Because
+      again, from the Russian perspective, the main problem is that we cancel these
+      agreements for pan-European security, indivisible security. So again, constructing
+      this Europe without Russia meant re-dividing the continent, reviving the Cold
+      War, zero-sum logic, and even refusing to then take into account Russian concerns,
+      given that this was a hegemonic peace. 25:31 But if the Russian thesis is correct,
+      that the consequence of this is that the deeply divided states, be it Georgia,
+      Moldova, Ukraine, would then be pulled in both directions in order to wrestle
+      control over them, to see what side of the new dividing lines in Europe. All of
+      this seems to be requiring some agreements between the Europeans and the Russians
+      as well. So to what extent can you actually have a lasting peace unless you have
+      the diplomacy before the peace. I mean, I understood the initial logic that will
+      isolate Russia, this will put pressure, but who’s thinking these days that Russia’s
+      isolated with the Americans now talking to Russia? It’s just the Europeans. The
+      rest of the world is doing business. They’re talking with them. The Americans
+      are trying to improve the bilateral relations. Where does this logic come in then?
+      Because I always make the point, I can understand the Russian position well, I
+      understand the Ukrainians very well, I can understand the Americans, but the Europeans,
+      it doesn’t make much sense why they would still boycott diplomacy. 26:37 Well,
+      I think Mr. Lavrov was making debating points rather than saying what is constructive,
+      what happens next. I don’t think that repairing relations with any of the European
+      countries is really on the top of the agenda for Moscow. I think that its first
+      concern is repairing relations with the United States. And the single most important
+      thing to be fixed with the United States and say urgently is an agreement not
+      to– that the United States not bring over its intermediate range missiles into
+      Germany in 2026, which is five months from now. That is of vital importance. And
+      there you need an agreement with Mr. Trump. After that, they can turn around and
+      look at the European states. 27:35 But on this whole question of who’s who and
+      Russia’s relations with Europe and with the United States, I just go back in time.
+      The whole psychology of Russia, or the Soviet Union, was that there were two superpowers,
+      the United States and Russia and Europe didn’t really count. Despite the fact
+      that Russians on the street may consider themselves to be Europeans, that did
+      not carry over into the thinking in the Kremlin. They measured themselves against
+      the states. All of their descriptions of themselves were in units of the United
+      States. So just as in Australia, I think every distance between cities is measured
+      between, is taken by contrast or comparison with the distance between Melbourne
+      and Sydney. 28:34 It is the basis for making judgments about anything. And our
+      newspapers, so populated by journalists who don’t have a memory that goes back
+      more than a few weeks, don’t understand that this is a persistent element of Russian
+      mentality, particularly official Russian mentality, that the United States is
+      what you measure yourself by, not by these little countries in Europe, even if
+      they’re rather big, even if they’re Germany. They are secondary considerations.
+      So first is repair relations with the United States, get this terrible security
+      issue of intermediate-range missiles in Europe off the table, and then go after
+      these countries in Europe. 29:19 I think they will follow what I just observed.
+      They will work first with the smaller countries that are more amenable to reason.
+      And once they’ve facilitated the breakdown, the breakup of the bloc and facilitated
+      the pursuit of national interests particularly among the smaller countries, then
+      they can deal with the larger countries. The real tough nut to crack here, of
+      course, will be Germany because Mr. Metz continues to invest political capital
+      in the confrontation with Russia. And his words are more important than those
+      of Macron because he has the credit worthiness and the ability to build military
+      assets that Mr Macron does not have. Diesen: 30:13 I guess my last question was
+      on the European strategy, as you suggested that the goal would be for the Europeans
+      to seemingly just nod along and say, of course, Trump, you’re great, we’ll follow
+      your excellent peace initiatives. We’ve never been more optimistic than now. All
+      you have to do is pressure the Russians, you know, to make sure that this is where
+      his negotiation– or threats as this is how he negotiates– goes. You know, I can
+      see a lot of evidence behind this when they began initially to suggest a 30-day
+      ceasefire. I remember all the European leaders, they sent out a tweet which was
+      almost identical. 30:58 They all had the same phrase, ah the ceasefire, “the ball
+      is now in Russia’s court”. In other words, Trump could go over there, you know.
+      Now you have to pressure them, knowing that Russia would never accept a ceasefire
+      because it doesn’t make any sense without political settlement and hoping therefore
+      that, you know, the diplomacy with the Russians would end up in renewing Trump’s
+      commitment to the war and pulling him into the Biden 2.0 or the European camp
+      of a long war with Russia. But now that the ceasefire is out of the question,
+      this becomes a bit more difficult, or does it? Because the whole thing appears
+      to be premised on the notion that Russia doesn’t really want peace. It’s just
+      prolonging the time so it can gobble up more territory. But if the conditions
+      of Russia were actually met, that is the territorial concessions and the neutrality,
+      what are the Europeans going to do if the Americans and Russians come to a peace
+      and the Europeans then have to try to fight this tooth and nail. I mean, how can
+      they actually stop this from happening? Doctorow: 32:09 Well, they can’t, and
+      I think they will simply split, along the lines I mentioned. Mr. Stubb was being
+      very, very careful, very cautious. He’s making baby steps. And if what he said
+      wasn’t entirely consistent, this has to be considered that he can’t go too far
+      out of line with his peers. But we will see more of this as the war grinds on
+      and as the Russians come closer to taking the whole of Donetsk for example, which
+      they’re doing very nicely right now. I think the opinions will change within Europe.
+      There’ll be some surprises which countries come out first in an olive branch,
+      but there will have to be a split in Europe. To my understanding, the logic suggests
+      that. And it’s not because the Russians are forcing it, it’s because these countries
+      are chafing under the direction given by Germany and by France and by the UK.
+      And finally will revolt against that because it’s so much against their interests
+      and the interests of their peoples and their prosperity. Diesen: 33:29 But that
+      also makes me think about the expectations for Ukraine, what comes after this
+      war, because what the Europeans appear to want is to have this hundreds of thousands
+      of Ukrainians prepared to die for Europe essentially to be as their active frontline
+      if they have to have a conflict with Russia. But the Ukrainians, obviously they
+      hope that it would be the Europeans who would come to the aid of Ukraine not the
+      other way around. Of course if there would be a military block, [those] wouldn’t
+      be mutually exclusive, but then the West of course would be pulled into a war,
+      which the Europeans wouldn’t do without America. So I guess my point is there’s
+      been more voices coming out of Ukraine that what happens after this war, because
+      the Europeans seem to be signaling a lot that we need to keep the war going a
+      bit so to protect Europe from the Russian aggression. So people like Yulia Tomashenko
+      has made a point that we just pretty much meet for the Europeans. They just want
+      to throw Ukrainians at Russia to buy time for Europe. 34:36 So in other words,
+      they’re kind of understanding that Europe is there not to protect Ukraine, but
+      to use Ukrainians to protect Europe essentially. So how would that work after
+      a peace? Because based on the assumption, it seems that Ukraine will continue
+      to do this forever, that there will be a political consensus to throw Ukrainians
+      at Russia to help the Europeans. It doesn’t seem like this will be… Well, I can
+      see some flaws in the plan, I guess. Doctorow: 35:06 Well, in the musical world,
+      going back 20 years, there was a trend particularly strong in the United States
+      called minimalism. I don’t want to propose a one-note symphony here, but I have
+      said several weeks ago that it really is in the Russians’ hands to make a proposal
+      that could solve all of these issues. It would take the Europeans out. It would
+      give an off-ramp to the Europeans because if the Ukrainians agree to a settlement,
+      what can they say? And to make the Ukrainians agree to the settlement, Russia
+      just has to say, liberate the 350 or 250 billion dollars in our assets that are
+      frozen, make them available for the reconstruction of all of Ukraine, including
+      what we occupy. And that would end the war. And that would end Mr. Zubensky and
+      his gang. 35:57 I’m happy to say that I’m not the only one who has been playing
+      this note. It was picked up by a rather reputable and widely read journal in Germany,
+      the Berliner Zeitung. And they repeated this proposal, happily with attribution
+      to myself. But the point is it is possible to find solutions if you really want
+      to, and to be a little bit creative here. So I don’t think that we are totally
+      blocked. But of course, even if situation looks rather difficult and even if Mr.
+      Merz and Mr. Macron, Mr. Starmer are awfully stubborn and are supported by academics
+      like the one who appeared in “Echo de la bourse” the other day, there are solutions.
+      And there will be an end to this war. The Russians are really approaching Kramatorsk
+      and Slavyansk. They more or less have Pakrovsk surrounded. They have made some
+      sallies into Pakrovsk. 37:00 And so I really think the war on the ground in Donbas
+      is measured in weeks, perhaps in months, but not in years any more. And once the
+      Russians have seized the whole of Donbas, the excuse that Mr. Zelensky gives that
+      he cannot give up territory that hasn’t been conquered will be removed. He can
+      give it all up or he can take the first plane out and let his successor give it
+      all up. So there will be an end to this war. It’s not going to go on forever.
+      I’m looking to publish volume two. Diesen: 37:42 Well, that’s the frustrating
+      part that everyone recognizes more or less that the Russians won’t give up on
+      Donbass. So they can either appease now or wait until, you know, pull it a few
+      more months until Donbass has been lost and then make the peace. But of course,
+      at that point, Ukraine will be in a much more difficult position because by that
+      time, much more of Zaporizhzhya would have been lost and of course, much more
+      Ukraine will have been destroyed. Many more men will have died. The ability to
+      reconstruct everything will have been diminished. So if all was completely rational
+      and you would have leaders with some political weight, they would be able to make
+      an unavoidable deal today as opposed to having to choose the worst deal tomorrow
+      just because it’s politically easier to do. But again, everything about this has
+      frustrated me for the past decade. So I think, yeah, they will not go for the
+      best solutions just yet. Doctorow: 38:41 There are symbolic things that are going
+      on. Kramatorsk and Slaviansk are symbolic because they were the cradle of the
+      Russian Renaissance, what they call it, going back to 2014. Their last stand against
+      the onslaught from vastly superior numbers, the Ukrainian and military forces
+      who were sent in to crush precisely this resistance to the new regime in Kiev.
+      There are also, you mentioned Zaporozhzhye, but I would add to this Dnepropetrovsk,
+      because the Russians had captured their first towns in that oblast. And as they
+      approach Dnepropetrovsk or as the Ukrainians call it, Dnipro, let’s remember what
+      that is. 39:28 That is the home ground of Pellamoysky, the oligarch who owned
+      the largest bank in Ukraine, who owned the Ukrainian airlines and who virtually
+      controlled the government and who financed the Azov batallions and the other violent
+      nationalists. And so it has great symbolic value also that the Russians are marching
+      on Dniepro. The Ukrainians are being battered, which is not to say that there
+      isn’t a real war. There is. And when you watch Russian television and you watch,
+      listen to the reporters, their war correspondents who are traveling along, close
+      to the front, and they have to leave their vehicles and they have to proceed on
+      foot because the vehicles are just a trap for attack drones. 40:20 So it’s not
+      as though this is “Ah, the Ukrainians are all running from the front.” The Russians
+      are not approaching in large contingents. They’re approaching small groups on
+      foot or on motor scooters or motorcycles precisely because of the drone threat.
+      This nature of warfare is still under-reported and it has changed the character
+      of this war dramatically. That said, they are proceeding in small groups. They
+      are penetrating Ukrainian settlements, taking them by surprise. And while the
+      Ukrainian defenders flee to the next town where they can make a stand. It is a
+      tough war. And all notion that the Russians are doing this according to a fixed
+      schedule, of course that is not happening. They’re moving to where the weak points
+      are, where the Ukrainians cannot cover the whole line and therefore on their way
+      to the weak points to suffer the least losses on their side because attackers
+      always face the threat of greater losses than defenders. It’s a slow moving scene,
+      but where it’s headed is very clear. Diesen: 41:53 Well, thank you again for your
+      input. I thought this is quite interesting to look at. It’s worth starting to
+      think about what Europe will look like after this war. And I think this question
+      is also one of the reasons why the Europeans are so stubborn in terms of hoping
+      not to end the war given a lot of the uncertainties of what will actually follow.
+      But yes, always thank you so much. Appreciate it. Doctorow: 42:21 Thanks for inviting
+      me.'
+    one_sentence_summary: In a discussion about the evolving dynamics between Europe
+      and Russia as the Ukraine war approaches its conclusion, historian Gilbert Doctorow
+      highlights Finland's historical experiences with Russia and the implications of
+      recent interactions between European leaders and the U.S. regarding future relations.
+    paragraph_summary: In a recent discussion, historian and analyst Gilbert Doctorow
+      reflected on the implications of Finnish President Alexander Stubb's comments
+      regarding post-war relations between Europe and Russia, particularly in light
+      of Finland's historical experience with Russia after World War II. Doctorow noted
+      that Stubb's remarks may have garnered more attention in Russia than in the West,
+      where they were met with confusion. He suggested that Stubb's comments could be
+      interpreted as a potential recommendation for Ukraine to consider a peace similar
+      to Finland's, which involved ceding territory to Russia after a conflict. Doctorow
+      also highlighted the significance of Russian Foreign Minister Sergei Lavrov's
+      response to Stubb's statements, indicating that the future dynamics between Europe
+      and Russia will be shaped by such discussions as the Ukraine war approaches its
+      conclusion.
+    published: '2025-08-29T10:53:22+00:00'
+  - title: Press TV (Iran):  A spot interview in the afternoon news wrap-up yesterday
+    url: https://gilbertdoctorow.com/2025/08/28/press-tv-iran-a-spot-interview-in-the-afternoon-news-wrap-up-yesterday/
+    text: Russia has confirmed circulating a draft proposal at the UN Security Council
+      aimed at preventing the activation of the snapback mechanism The ongoing consideration
+      in the UN Security Council of the U.S. reimposing sanctions on Iran has generated
+      a lot of concern in Teheran as well it might.  I was asked by Press TV yesterday
+      at noon Central European time to comment on how the Europeans may define their
+      position on the issue and why. https://www.urmedium.net/c/presstv/134377
+    one_sentence_summary: Russia has presented a draft proposal at the UN Security Council
+      to prevent the activation of the snapback mechanism regarding U.S. sanctions on
+      Iran, which has raised significant concerns in Tehran.
+    paragraph_summary: Russia has presented a draft proposal to the UN Security Council
+      to prevent the activation of the snapback mechanism, which would allow the U.S.
+      to reimpose sanctions on Iran. This development has raised significant concerns
+      in Tehran regarding the potential implications of renewed sanctions. Amid these
+      tensions, a commentator was invited by Press TV to discuss the European stance
+      on the issue and the factors influencing their position.
+    published: '2025-08-28T06:47:23+00:00'
+  - title: Press TV (Iran):  A spot interview in the afternoon news wrap-up yesterday
+    url: https://gilbertdoctorow.com/2025/08/28/press-tv-iran-a-spot-interview-in-the-afternoon-news-wrap-up-yesterday/
+    text: Russia has confirmed circulating a draft proposal at the UN Security Council
+      aimed at preventing the activation of the snapback mechanism The ongoing consideration
+      in the UN Security Council of the U.S. reimposing sanctions on Iran has generated
+      a lot of concern in Teheran as well it might.  I was asked by Press TV yesterday
+      at noon Central European time to comment on how the Europeans may define their
+      position on the issue and why. https://www.urmedium.net/c/presstv/134377
+    one_sentence_summary: Russia has presented a draft proposal at the UN Security Council
+      to prevent the activation of the snapback mechanism regarding U.S. sanctions on
+      Iran, which has raised significant concerns in Tehran.
+    paragraph_summary: Russia has presented a draft proposal to the UN Security Council
+      to prevent the activation of the snapback mechanism, which would allow the U.S.
+      to reimpose sanctions on Iran. This development has raised significant concerns
+      in Tehran regarding the potential implications of renewed sanctions. Amid these
+      tensions, a commentator was invited by Press TV to discuss the European stance
+      on the issue and the factors influencing their position.
+    published: '2025-08-28T06:47:23+00:00'
+  - title: '‘Judging Freedom’ edition of 27 August: Trump’s Confusing Signals'
+    url: https://gilbertdoctorow.com/2025/08/27/judging-freedom-edition-of-27-august-trumps-confusing-signals/
+    text: 'Today’s conversation with Judge Andrew Napolitano focused on Trump’s new
+      perplexing threats and latest reported actions with respect to Russia and the
+      Ukraine war. He has threatened dire new economic sanctions, saying that the U.S.
+      will wage economic war on Russia and only economic war. At the same time, Trump
+      is said to have approved shipment of more than 5,000 280 mile range U.S. missiles
+      to Ukraine. Napolitano asks: what does the Kremlin make of this? He goes on to
+      ask whether Trump is not succumbing to the bad advice of the Neocon whisperers
+      in his entourage:  Marco Rubio, Senator Lindsey Graham and Keith Kellogg.'
+    one_sentence_summary: Judge Andrew Napolitano discusses Trump's recent threats of
+      economic sanctions against Russia alongside his approval of missile shipments
+      to Ukraine, questioning the implications for the Kremlin and whether Trump is
+      influenced by neoconservative advisors.
+    paragraph_summary: In a recent discussion, Judge Andrew Napolitano examined former
+      President Trump's contradictory stance on the Russia-Ukraine conflict, highlighting
+      his threats of severe economic sanctions against Russia while simultaneously approving
+      the shipment of over 5,000 U.S. missiles to Ukraine. Napolitano questions how
+      the Kremlin interprets these actions and raises concerns about Trump potentially
+      being influenced by neoconservative advisors like Marco Rubio, Senator Lindsey
+      Graham, and Keith Kellogg, suggesting that this could lead to misguided decisions
+      in U.S. foreign policy.
+    published: '2025-08-27T12:59:33+00:00'
+  - title: '‘Judging Freedom’ edition of 27 August: Trump’s Confusing Signals'
+    url: https://gilbertdoctorow.com/2025/08/27/judging-freedom-edition-of-27-august-trumps-confusing-signals/
+    text: 'Today’s conversation with Judge Andrew Napolitano focused on Trump’s new
+      perplexing threats and latest reported actions with respect to Russia and the
+      Ukraine war. He has threatened dire new economic sanctions, saying that the U.S.
+      will wage economic war on Russia and only economic war. At the same time, Trump
+      is said to have approved shipment of more than 5,000 280 mile range U.S. missiles
+      to Ukraine. Napolitano asks: what does the Kremlin make of this? He goes on to
+      ask whether Trump is not succumbing to the bad advice of the Neocon whisperers
+      in his entourage:  Marco Rubio, Senator Lindsey Graham and Keith Kellogg.'
+    one_sentence_summary: Judge Andrew Napolitano discusses Trump's recent threats of
+      economic sanctions against Russia alongside his approval of missile shipments
+      to Ukraine, questioning the implications for the Kremlin and whether Trump is
+      influenced by neoconservative advisors.
+    paragraph_summary: In a recent discussion, Judge Andrew Napolitano examined former
+      President Trump's contradictory stance on the Russia-Ukraine conflict, highlighting
+      his threats of severe economic sanctions against Russia while simultaneously approving
+      the shipment of over 5,000 U.S. missiles to Ukraine. Napolitano questions how
+      the Kremlin interprets these actions and raises concerns about Trump potentially
+      being influenced by neoconservative advisors like Marco Rubio, Senator Lindsey
+      Graham, and Keith Kellogg, suggesting that this could lead to misguided decisions
+      in U.S. foreign policy.
+    published: '2025-08-27T12:59:33+00:00'
+  - title: A conversation with Professor Glenn Diesen
+    url: https://gilbertdoctorow.com/2025/08/27/a-conversation-with-professor-glenn-diesen/
+    text: In this discussion, we explore how Europe may split over how to deal with
+      Russia after the war in Ukraine ends.  The small countries, like Finland, will
+      likely seek to restore relations with Russia as soon as possible while the largest
+      countries, in particular Germany, may continue to seek the isolation of Russia
+      and to prepare for a war with Moscow in the near future.
+    one_sentence_summary: The article discusses the potential divide in Europe regarding
+      post-war relations with Russia, where smaller countries like Finland may aim for
+      rapprochement, while larger nations, particularly Germany, may favor continued
+      isolation and preparation for future conflict.
+    paragraph_summary: The article examines the potential divisions within Europe regarding
+      its approach to Russia following the conclusion of the war in Ukraine. Smaller
+      nations, such as Finland, are expected to prioritize the restoration of relations
+      with Russia quickly, while larger countries, particularly Germany, may favor ongoing
+      isolation of Russia and prepare for possible future conflicts with Moscow. This
+      divergence in strategies highlights the differing priorities and security concerns
+      among European nations in the post-war landscape.
+    published: '2025-08-27T11:22:41+00:00'
+  - title: A conversation with Professor Glenn Diesen
+    url: https://gilbertdoctorow.com/2025/08/27/a-conversation-with-professor-glenn-diesen/
+    text: In this discussion, we explore how Europe may split over how to deal with
+      Russia after the war in Ukraine ends.  The small countries, like Finland, will
+      likely seek to restore relations with Russia as soon as possible while the largest
+      countries, in particular Germany, may continue to seek the isolation of Russia
+      and to prepare for a war with Moscow in the near future.
+    one_sentence_summary: The article discusses the potential divide in Europe regarding
+      post-war relations with Russia, where smaller countries like Finland may aim for
+      rapprochement, while larger nations, particularly Germany, may favor continued
+      isolation and preparation for future conflict.
+    paragraph_summary: The article examines the potential divisions within Europe regarding
+      its approach to Russia following the conclusion of the war in Ukraine. Smaller
+      nations, such as Finland, are expected to prioritize the restoration of relations
+      with Russia quickly, while larger countries, particularly Germany, may favor ongoing
+      isolation of Russia and prepare for possible future conflicts with Moscow. This
+      divergence in strategies highlights the differing priorities and security concerns
+      among European nations in the post-war landscape.
+    published: '2025-08-27T11:22:41+00:00'
   - title: 'WION ‘Game Plan’: Russia-Ukraine War | Will Russia Allow EU Boots On Ground?'
     url: https://gilbertdoctorow.com/2025/08/21/wion-game-plan-russia-ukraine-war-will-russia-allow-eu-boots-on-ground/
     text: 'WION ‘Game Plan’: Russia-Ukraine War | Will Russia Allow EU Boots On Ground?

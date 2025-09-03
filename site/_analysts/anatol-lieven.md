@@ -8,16 +8,180 @@ websites:
   - https://responsiblestatecraft.org/author/alieven/
   - https://quincyinst.org/author/anatol-lieven/
 summary: |
-  Amid ongoing efforts to resolve the Russia-Ukraine conflict, the latest developments center on President Trump’s recent diplomatic overtures and the persistent challenges in defining security guarantees for Ukraine. The context remains shaped by a prolonged and costly war, with both sides entrenched and the U.S. administration seeking a negotiated settlement that addresses the security concerns of all parties.
+  As Europe grapples with the fallout from the prolonged Ukraine conflict and internal economic pressures, recent developments underscore mounting instability and the urgent need for diplomatic recalibration. The political and economic crisis in France, marked by stagnant growth, ballooning debt, and the rise of radical parties, is emblematic of broader Western European fragility. According to **Anatol Lieven**, this instability threatens to undermine transatlantic unity and complicate efforts to present a cohesive front on security issues.
   
-  The most recent reports highlight that President Trump’s meetings with European and Ukrainian leaders have produced a tentative agreement on security guarantees for Ukraine. However, as **Anatol Lieven** notes, “significant challenges remain regarding the specifics of military support and Russia's red lines on NATO involvement.” The ambiguity surrounding what these guarantees entail—particularly the extent of Western military backing and the limits of NATO’s role—risks undermining the credibility and effectiveness of any agreement. This echoes earlier warnings that vague or abstract promises could derail the peace process before substantive negotiations even begin.
+  On the Ukraine front, the latest round of U.S.-led negotiations has produced only tentative security guarantees for Kyiv, echoing past proposals but failing to resolve core disputes over the scope and nature of Western military support. **Anatol Lieven** notes that “loose, abstract talk of ‘guarantees’” risks undermining the peace process, as both Ukraine and Russia remain entrenched in their positions and wary of any arrangement that might cross Moscow’s red lines regarding NATO involvement.
   
-  Additionally, there is a notable shift in the Trump administration’s approach. Instead of insisting on an immediate ceasefire, the U.S. is now pursuing a comprehensive peace agreement, which **Anatol Lieven** argues “aligns with reality and could have saved lives,” given the impracticality of a ceasefire without addressing core issues such as territorial status and long-term security arrangements.
+  Meanwhile, President Trump’s administration has shifted toward proposing concrete terms for a Russia-Ukraine peace settlement, including potential recognition of Russian control over Crimea and Donbas. While such concessions would be deeply unpopular in Ukraine, **Lieven** argues they may be necessary for a realistic resolution, given the ongoing military stalemate and growing public fatigue with the war.
   
-  Looking ahead, the trend is toward a pragmatic, if painful, compromise. There is a high chance that any eventual settlement will involve difficult concessions, including possible recognition of Russian control over Crimea and parts of Donbas, in exchange for robust but clearly defined security guarantees for Ukraine. The majority of analysts agree that without a detailed, realistic plan—one that balances Ukrainian, Russian, and European interests—the risk of a fragile and unstable status quo remains.
-  
-  Based on current trajectories, I assess with high confidence that the U.S. will continue to play a pivotal role in shaping the peace process. However, unless the specifics of security guarantees are clarified and Russia’s core concerns are addressed, a durable settlement remains elusive. The coming weeks will likely see intensified diplomatic activity, but the outcome hinges on the willingness of all sides to move beyond rhetoric and commit to concrete, enforceable terms.
+  Looking ahead, the prevailing trend is a slow drift toward negotiated compromise, driven by Western economic fatigue and the recognition that neither side is likely to achieve a decisive military victory. There is a high chance that U.S. diplomatic pressure will intensify in the coming months, seeking to broker a comprehensive peace deal that balances Ukrainian sovereignty with Russian security concerns. However, the risk of political upheaval in Europe—especially in France—could further complicate these efforts and weaken the West’s negotiating position. Most definitely, absent a major shift in strategy or unforeseen escalation, the Ukraine conflict will remain locked in a tense, fragile status quo, with the prospect of a durable peace hinging on U.S. leadership and European stability.
 articles:
+  - title: Europe facing revolts, promising more guns with no money
+    url: https://responsiblestatecraft.org/uk-nigel-firage/
+    text: 'If you wanted to create a classic recipe for political crisis, you could
+      well choose a mixture of a stagnant economy, a huge and growing public debt, a
+      perceived need radically to increase military spending, an immigration crisis,
+      a deeply unpopular president, a government without a majority in parliament, and
+      growing radical parties on the right and left.
+
+
+      In other words, France today. And France’s crisis is only one part of the growing
+      crisis of Western Europe as a whole, with serious implications for the future
+      of transatlantic relations.
+
+
+      The latest shock in France has come with the announcement by Prime Minister Francois
+      Bayrou that he will call a parliamentary vote of confidence on September 8 over
+      his plan for €43.8 billion ($51.1 billion) in budget cuts to address France’s
+      budget deficit 5.8 percent of GDP — almost double the three percent that is supposed
+      to be the limit for members of the Eurozone, and the highest in Europe after Greece
+      and Italy, leading to a debt to GDP ratio of 113 percent. French GDP growth last
+      year was only 1.2 percent and the economy is projected to grow by a mere 0.6 percent
+      this year.
+
+
+      Bayrou’s plan includes the freezing of welfare payments, reductions in pensioners’
+      benefits, the abolition of two national holidays, deep cuts to state jobs, and
+      unspecified tax increases for the wealthy. The only area of state spending that
+      will increase is the military — and it is President Macron’s pledge (in line with
+      the promise of Europe’s NATO members to President Trump) radically to increase
+      military spending that has brought France’s fiscal crisis to a head.
+
+
+      This would involve the French military budget rising from around two percent now
+      to 3.5 percent (plus another 1.5 percent in “defense-related” infrastructure spending).
+      In July, Macron promised that the French military budget would reach €64 billion
+      in 2027, three years earlier than previously planned and twice the figure in 2017.
+      He also promised that this would not involve any increase in debt. Bayrou’s thankless
+      task is to try to reconcile these two promises.
+
+
+      Bayrou is prime minister today because his predecessor, Michel Barnier, was ousted
+      nine months ago in a vote of no confidence after he passed the 2025 budget by
+      emergency decree having failed to gain a parliamentary majority for budget cuts.
+      This was the first time a government had been ousted by a no confidence vote since
+      1962.
+
+
+      Bayrou stands a very good chance of being the second premier in a year to fall
+      this way. On the face of it, his challenge looks insuperable. The loose coalition
+      of centrist parties that supports the government was beaten in the snap elections
+      called by Macron in the summer of 2024, and despite an election deal with the
+      left in the second round to keep National Rally (which won a plurality of votes)
+      down to third place in the number of seats, have only 210 seats in the National
+      Assembly, compared to 142 for the radical rightists National Rally and its allies,
+      and 180 for the left-wing New Popular Front.
+
+
+      Both of these groupings have declared that they will vote to oust the government
+      if it persists with its budget plan. The socialists are strongly opposed to austerity
+      measures, and are allied with trades unions that have announced a nationwide strike
+      on September 10 to block the budget.
+
+
+      As for Marine le Pen, leader of the National Rally, her friendliness towards the
+      government is hardly likely to have been increased by what many see as a politically-motivated
+      legal case launched against her by the government, which (unless overturned on
+      appeal) will lead to her being banned from standing in the next presidential elections.
+
+
+      If Bayrou’s government falls, there are likely to be fresh parliamentary elections;
+      and the premier’s best chance may be that neither of the opposition blocs are
+      afraid that the French public would blame them for a new political crisis, and
+      that if the government is prepared to abandon some of its budget cuts (or covertly
+      abandon the case against Le Pen), one or other could abstain in the no-confidence
+      vote, leading to a government victory.
+
+
+      This is far from certain however. Radical socialist leader Jean-Luc Melenchon
+      has already said that Macron himself should resign if the government loses new
+      elections.
+
+
+      The implications of this crisis extend far beyond the borders of France. Bayrou
+      has warned that if it does not reduce its debt, France will risk the fate of Greece
+      after the 2008 financial crisis, when it suffered years of recession and very
+      harsh and bitterly unpopular austerity measures imposed by the European Union
+      (at the instigation of Germany) as a condition of its bailouts.
+
+
+      It seems inconceivable however that Brussels would be able to impose such austerity
+      measures on France, the second largest economy in the EU. Presiding over deepening
+      economic decline would be the politically easier choice. Moreover Germany, the
+      largest economy, is facing severe budgetary problems of its own. Disputes over
+      the budget brought down the last German coalition government.
+
+
+      The present coalition of Christian Democrats and Social Democrats have agreed
+      (despite deep unhappiness among fiscal conservatives in the CDU) to increase borrowing
+      from €33 billion in 2024 to €81 billion this year and €126 billion in 2029 in
+      order to pay for a doubling of Germany’s military spending and huge (and badly
+      needed) investment in infrastructure. Economists are warning however that this
+      will not be sustainable without cuts in social welfare. As elsewhere in Europe,
+      Germany’s problems in this regard are being worsened by its aging population,
+      which both reduces the tax base and creates a huge lobby against cuts to pensions
+      and healthcare.
+
+
+      The German elections in February saw a surge in support for the far-right Alternative
+      for Germany (AfD) which opinion polls now show as close to overtaking the Christian
+      Democrats as the most popular party. If this rise is sustained up to the next
+      German national elections due in 2029, then one of two things will happen: either
+      the other parties will maintain their “firewall” against allowing AfD into government,
+      which will require a permanent, unstable and deeply divided coalition of perhaps
+      all the other parties against them, or the firewall will collapse, leading to
+      a German government far to the right of anything seen since 1945.
+
+
+      In Britain too, the Labour government of Keir Starmer is deeply unpopular . It
+      has suffered two humiliating revolts by its own MPs against its attempts to cut
+      social welfare so as to increase military spending and is facing the defection
+      of many of its voters to a new left-wing party. Debt to GDP stands at 103 percent
+      and rising.
+
+
+      As in France and Germany, the right-wing populist Reform Party of Nigel Farage
+      is surging in the polls, and has a real chance of forming the next British government.
+
+
+      Some of these radical parties of the right and left (like AfD and the socialists
+      in France) are openly opposed to European military support for Ukraine and increases
+      in military spending. Others fell in line behind NATO under the shock of the Russian
+      invasion, but are strongly opposed to a European reassurance force for Ukraine.
+      All believe (though with very different emphases) that their countries’ problems
+      are overwhelmingly internal ones, that will not be solved by higher military spending.
+
+
+      The lessons for the Trump administration are the following: first, be very skeptical
+      of European promises to significantly increase military spending. Even if present
+      governments are sincere, it may well be simply beyond their power.Second, however,
+      be careful of pushing them too hard. The political and economic stability of Europe
+      is an old and vital US interest — far more vital than the exact borders of Ukraine.
+
+
+      Finally, be even more careful about encouraging and guaranteeing a European “reassurance
+      force” for Ukraine. Lacking both adequate resources and adequate political support,
+      the European planners of this force are in no position to guarantee it themselves.'
+    one_sentence_summary: France is currently facing a severe political and economic
+      crisis characterized by a stagnant economy, high public debt, unpopular leadership,
+      and rising radical parties, reflecting broader instability across Western Europe
+      that could impact transatlantic relations.
+    paragraph_summary: France is currently facing a severe political and economic crisis
+      characterized by a stagnant economy, high public debt, and a deeply unpopular
+      president, Emmanuel Macron, who is pushing for significant military spending increases
+      while proposing austerity measures that include cuts to welfare and pensions.
+      Prime Minister Francois Bayrou is set to call a parliamentary vote of confidence
+      regarding a €43.8 billion budget cut plan aimed at addressing a budget deficit
+      of 5.8% of GDP, which is nearly double the Eurozone limit. The government lacks
+      a parliamentary majority, facing opposition from both radical left and right parties,
+      which threatens Bayrou's position and could lead to new elections. This crisis
+      reflects broader instability in Western Europe, with rising radical parties and
+      economic challenges in countries like Germany and the UK, raising concerns about
+      the future of transatlantic relations and military commitments in the context
+      of the ongoing conflict in Ukraine. The situation underscores the need for caution
+      in U.S. policy towards European military spending and stability, as the political
+      landscape in Europe becomes increasingly volatile.
+    published: '2025-08-28T04:05:02+00:00'
   - title: Loose, abstract talk of 'guarantees' could sink Ukraine peace
     url: https://responsiblestatecraft.org/ukraine-peace-security-guarantees/
     text: 'President Trump''s meetings on Monday with his European and Ukrainian counterparts

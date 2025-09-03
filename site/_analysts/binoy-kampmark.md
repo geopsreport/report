@@ -7,14 +7,639 @@ description: "Cambridge–educated researcher at RMIT; writes widely on imperial
 websites:
   - https://counterpunch.org/author/jete6/
 summary: |
-  The ongoing crisis in Gaza and its international reverberations continue to dominate the geopolitical landscape, with recent developments in Australia and Israel drawing particular scrutiny. The Albanese government’s decision to revoke the visa of Israeli politician Simcha Rothman, as reported by **Binoy Kampmark**, signals a notable shift in Australia’s foreign policy posture. This move, described as “a newfound assertiveness,” comes amid mounting international criticism of Israel’s actions in Gaza and reflects growing pressure on Western governments to respond more decisively to the humanitarian catastrophe.
+  The geopolitical landscape continues to be shaped by the ongoing crises in Gaza, shifting Western policies, and the militarization of advanced economies. Recent developments highlight a growing assertiveness in Australian foreign policy, intensifying humanitarian concerns in Gaza, and persistent debates over civil liberties in the UK and Australia.
   
-  Domestically, the fallout from the Gaza conflict is also being felt in Australia’s cultural sector. The Bendigo Writers Festival has become a flashpoint for debates over free speech and censorship, with several authors withdrawing in protest over a code of conduct perceived as stifling open discussion—particularly on the Gaza issue. **Kampmark** notes that this controversy highlights “the chilling effect” of institutional codes on public discourse, especially when it comes to contentious international conflicts.
+  Australia’s expulsion of Iran’s ambassador and three officials, as reported by **Binoy Kampmark**, marks a significant escalation in Canberra’s diplomatic posture. The Albanese government’s move is widely interpreted as a strategic effort to balance domestic and international pressures ahead of its anticipated recognition of Palestinian statehood. While the government cites alleged Iranian-directed antisemitic attacks as justification, **Kampmark** notes skepticism about the direct relevance of Iran’s actions to Australia, suggesting the expulsion is more about political optics than security. This signals a new willingness by Australia to assert itself on Middle Eastern issues, even at the risk of diplomatic fallout.
   
-  Meanwhile, Israeli Prime Minister Benjamin Netanyahu continues to defend his government’s actions in Gaza, despite international condemnation and a death toll now exceeding 60,000. In a recent press conference, Netanyahu doubled down on blaming Hamas for the crisis and outlined a vision for Gaza’s future that many, including **Kampmark**, characterize as unrealistic and dismissive of the ongoing humanitarian emergency.
+  Meanwhile, the humanitarian catastrophe in Gaza has reached a new nadir, with famine conditions now officially recognized in Gaza City. According to **Kampmark**, the famine is “engineered” through Israeli-imposed blockades and restrictive food distribution, echoing historical precedents where starvation was used as a tool of war. The majority of independent analysts concur that the crisis is not a result of natural scarcity but of deliberate policy, and there is little optimism for rapid improvement as international responses remain largely rhetorical.
   
-  Looking ahead, the trend is toward increasing polarization both within and between states over the Gaza conflict. Australia’s more assertive stance is likely to embolden similar moves among Western democracies, though significant divisions remain. Cultural institutions are expected to face continued pressure over their handling of free speech and political expression. With little sign of de-escalation in Gaza and entrenched positions on all sides, there is a high chance that international criticism and domestic unrest will intensify in the coming weeks. I guarantee that unless there is a dramatic policy shift from Israel or its allies, the humanitarian situation in Gaza will remain dire and central to global political debates.
+  In the UK, the government’s use of anti-terrorism laws to criminalize protests related to the Gaza conflict—particularly those organized by Palestine Action—has sparked a fierce debate over civil liberties. **Kampmark** highlights the absurdity of labeling peaceful protesters as terrorists, with legal experts arguing that such measures fail to meet the threshold for terrorism and risk undermining free speech and assembly rights. This trend reflects a broader pattern of Western democracies tightening restrictions on dissent under the guise of security.
+  
+  Looking ahead, the prevailing trends point to further polarization and securitization in Western responses to Middle Eastern conflicts. Australia is “quite likely” to proceed with recognizing Palestinian statehood in the coming weeks, despite potential diplomatic backlash. The humanitarian situation in Gaza shows no signs of abating, with a “high chance” that famine and civilian suffering will worsen absent significant international intervention. In the UK and Australia, the expansion of anti-protest and online safety laws is expected to continue, raising ongoing concerns about the erosion of civil liberties.
 articles:
+  - title: 'Useful Expedient: Expelling Iran’s Ambassador to Australia'
+    url: https://www.counterpunch.org/2025/08/29/useful-expedient-expelling-irans-ambassador-to-australia/
+    text: 'The rank odour of opportunity seems to have presented itself to Australia’s
+      Albanese government. To balance its apparently principled promise to recognise
+      Palestinian statehood come the 80th United Nations General Assembly next month,
+      it seemed only fair that some firm measure be taken against another Islamic outfit
+      to balance the ledger. The Israelis were watching closely, and a sense of concern
+      had started to bubble along the diplomatic channel that Canberra was proving wobbly.
+      Israeli Prime Minister Benjamin Netanyahu had made his views felt: “History will
+      remember Albanese for what he is: A weak politician who betrayed Israel and abandoned
+      Australia’s Jews.”
+
+
+      On August 26, it all came to the fore. Iran had become the latest, if only briefest,
+      of bogeymen for political consumption in Australia. The Islamic Republic, charged
+      the Australian Prime Minister, Anthony Albanese, had “directed at least two” attacks
+      of an “appalling” and “antisemitic” nature. Expecting revelations of gleeful massacres
+      involving whole families including livestock and uprooted orchards, we are told
+      that these outrageous incidents were ones of arson: an attack on Lewis’ Continental
+      Kitchen in Sydney in October last year, and the Adass Israel Synagogue in Melbourne
+      last December. “These were extraordinary and dangerous acts of aggression orchestrated
+      by a foreign nation on Australian soil. They were attempts to undermine social
+      cohesion and sow discord in our community.”
+
+
+      Mike Burgess, the domestic spy chief, confirmed the claim that the Australian
+      Security Intelligence Organisation (ASIO) had identified “at least two and likely
+      more attacks on Jewish interests in Australia.” These were linked to the Islamic
+      Revolutionary Guard Corps (IRGC) and found through “painstaking investigation”
+      (good to see that investigations at the spy agency are painstaking). The IRGC
+      had been fiendish in concealing its role, using “a complex web of proxies to hide
+      its involvement.” With shamanistic self-confidence, Burgess revealed that he had
+      warned of this very thing earlier in the year. For a sense of restrained balance,
+      he stated that Tehran may not necessarily be “responsible for every act of antisemitism
+      in Australia.”
+
+
+      The action undertaken seemed outsized, involving the expulsion of the Iranian
+      ambassador Ahmad Sadeghi along with three other embassy officials. They have been
+      given seven days to exit the country. The IRGC is also slated for proscription
+      as a terrorist organisation.
+
+
+      The head scratching question in all of this is: Why bother? The Iranian Revolutionary
+      Guards have larger fish to skin, fry and broil. Tehran, for all its appetites
+      in seeking power and influence in the Middle East, has tended to keep its targets
+      beyond the region to Israeli embassies and property and, most notably of all,
+      dissidents. To target the Australian Jewish community would seem to be a needless
+      expenditure of effort and resources. Australia’s resident talking head on the
+      wickedness of the mullahs, Kylie Moore-Gilbert, herself having spent time incarcerated
+      in Iran on suspicions of espionage, is hardly illuminating in her explanation.
+      “It’s difficult to say what Iran’s direct motivations are, other than to undermine
+      Australia’s social cohesion.” She opts for the primary colour approach, streaked
+      with syllogism: as the Iranian regime is antisemitic, and as Israel is the main
+      enemy, it follows that all Jews, according to the dotty haters in Tehran, are
+      “an extension of Israel.”
+
+
+      The expulsion’s salience would have been more significant if it had been done
+      in response to activities undertaken against members of the Iranian Australian
+      community, a far more widespread and evident problem. Yet on this point, the Albanese
+      government proved tardy, despite ample evidence of harassment and surveillance
+      orchestrated at Tehran’s behest. In February 2023, the then Minister for Home
+      Affairs Clare O’Neil stated in her Australian National University address that
+      ASIO had “disrupted the activities of individuals who had conducted surveillance
+      in the home of an Iranian-Australian, as well as conducted extensive research
+      of this individual and their family.” The previous month, a spokesperson for Foreign
+      Minister Penny Wong expressed deep concern at “reports of foreign interference,
+      including the harassment and intimidation of Australians online and in-person.”
+      These matters had been raised with Iran “in no uncertain terms.”
+
+
+      Iran had also proved to be a more convenient, if selective target. Beyond a shadow
+      of a doubt, for instance, Indian intelligence operatives have been creating much
+      mischief, snooping, harassing and leaving their warning signs, most notably when
+      it comes to the global Sikh diaspora. Concerned about the pangs of longing for
+      the independent state of Khalistan, the government of Prime Minister Narendra
+      Modi has not been above resorting to assassination. Melbourne taxi driver Harjinder
+      Singh is one who can attest to threats from the Indian authorities regarding his
+      pro-Khalistan activities, notably to his family back in India.
+
+
+      To add to this, India was found to have engaged in such friendly activities as
+      cultivating access to sensitive defence technology in Australia and securing airport
+      security protocols. In 2020, Burgess announced that his agency had “confronted”
+      the spies in question “and quietly and professionally removed them.” Despite this
+      fuss, there were no diplomatic expulsions. A façade of excruciating politeness
+      was maintained.
+
+
+      Least surprising of all was the hearty approval of the Australian move by Israel.
+      With Netanyahu venomously spouting at the Australian Prime Minister that he was
+      feeble and incapable of protecting Jews in Australia, the expulsion was automatically
+      assumed to be a product of constructive Israeli interference. Israeli government
+      spokesperson David Mencer, after explaining the reasons for Netanyahu’s hectoring,
+      thought it a “positive outcome” that Australia was “taking the threats against
+      Israel and the Jewish people, Jewish Australians living in Australia […] seriously”.
+
+
+      Australia’s Home Affairs Minister Tony Burke dismissed efforts on the part of
+      the Israeli government to claim the lion’s share of credit as nonsense. “We’ve
+      taken this action because Iran has attacked Australians. No other country is involved
+      in terms of that conclusion.”
+
+
+      Short of WikiLeaks finding out the inner strangeness of this, we await further
+      evidence why Iran would ever bother to expend any time on focusing on a country
+      so far from its interests as to be satirically irrelevant. That said, the nature
+      of much intelligence is that it is often short of being particularly intelligent.'
+    one_sentence_summary: Australia's Albanese government has expelled the Iranian ambassador
+      and three officials in response to alleged Iranian-directed antisemitic attacks
+      on Jewish interests in Australia, a move seen as an attempt to balance its upcoming
+      recognition of Palestinian statehood, despite questions about the relevance of
+      Iran's actions in Australia.
+    paragraph_summary: Australia's Albanese government has taken a significant diplomatic
+      step by expelling the Iranian ambassador and three other officials, citing their
+      involvement in antisemitic attacks linked to the Islamic Revolutionary Guard Corps
+      (IRGC). This move comes ahead of the 80th United Nations General Assembly, where
+      Australia plans to recognize Palestinian statehood, prompting concerns from Israel
+      about Australia's commitment to its Jewish community. Prime Minister Albanese
+      described the attacks as attempts to undermine social cohesion in Australia, while
+      domestic spy chief Mike Burgess confirmed the investigations into these incidents.
+      Critics question the rationale behind targeting Iran, given its historical focus
+      on regional adversaries rather than Australian interests, and highlight the government's
+      delayed response to harassment of the Iranian-Australian community. The expulsion
+      has been met with approval from Israel, although Australian officials assert that
+      the decision was made independently of external pressures.
+    published: '2025-08-29T05:54:53+00:00'
+  - title: What Australia Should do with US Submarines
+    url: https://www.counterpunch.org/2025/08/27/what-australia-should-do-with-us-submarines/
+    text: 'The moment the security pact known as AUKUS came into being, it was clear
+      what its true intention was. Announced in September 2021, ruinous to Franco-Australian
+      relations, and Anglospheric in inclination, the agreement between Washington,
+      London and Canberra would project US power in the Indo-Pacific with one purpose
+      in mind: deterring China. The fool in this whole endeavour was Australia, with
+      a security establishment so Freudian in its anxiety it seeks an Imperial Daddy
+      at every turn.
+
+
+      To avoid the pains of mature sovereignty, the successive Australian governments
+      of Scott Morrison and Anthony Albanese have fallen for the bribe of the nuclear-powered
+      Virginia Class SSN-774 and the promise of a bespoke AUKUS-designed nuclear-powered
+      counterpart. These submarines may never make their way to the Royal Australian
+      Navy. Australia is infamously bad when it comes to constructing submarines, and
+      the US is under no obligation to furnish Canberra with the boats.
+
+
+      The latter point is made clear in the 2023 National Defense Authorization Act,
+      which directs the US President to certify to the relevant congressional committees
+      and leadership no later than 270 days prior to the transfer of vessels that this
+      “will not degrade the United States underseas capabilities”; is consistent with
+      the country’s foreign policy and national security interests and furthers the
+      AUKUS partnership. Furthering the partnership would involve “sufficient submarine
+      production and maintenance investments” to meet undersea capabilities; the provision
+      by Australia of “appropriate funds and support for the additional capacity required
+      to meet the requirements”; and Canberra’s “capability to host and fully operate
+      the vessels authorized to be transferred.”
+
+
+      In his March confirmation hearing as Undersecretary of Defense Policy, Eldridge
+      Colby, President Donald Trump’s chief appointee for reviewing the AUKUS pact,
+      candidly opined that a poor production rate of submarines would place “our servicemen
+      and women […] in a weaker position.” He had also warned that, “AUKUS is only going
+      to lead to more submarines collectively in 10, 15, 20 years, which is way beyond
+      the window of maximum danger, which is really this decade.”
+
+
+      The SSN program, as such unrealised and a pure chimera, is working wonders in
+      distorting Australia’s defence budget. The decade to 2033-4 features a total projected
+      budget of A$330 billion. The SSN budget of A$53-63 billion puts nuclear powered
+      submarines at 16.1% to 19.1% more than relevant land and air domains. A report
+      by the Strategic Analysis Australia think tank did not shy away from these implications:
+      “It’s hard to grasp how unusual this situation is. Moreover, it’s one that will
+      endure for decades, since the key elements of the maritime domain (SSNs and the
+      two frigate programs) will still be in acquisition well into the 2040s. It’s quite
+      possible that Defence itself doesn’t grasp the situation that it’s gotten into.”
+
+
+      Despite this fantastic asymmetry of objectives, Australia is still being asked
+      to do more. An ongoing suspicion on the part of defence wonks in the White House,
+      Pentagon and Congress is what Australia would do with the precious naval hardware
+      once its navy gets them. Could Australia be relied upon to deploy them in a US-led
+      war against China? Should the boats be placed under US naval command, reducing
+      Australia to suitable vassal status?
+
+
+      Now, yet another think tanking outfit, the Washington-based Center for Strategic
+      and International Studies (CSIS), is urging Australia to make its position clear
+      on how it would deploy the Virginia boats. A report, authored by a former senior
+      AUKUS advisor during the Biden administration Abraham Denmark and Charles Edel,
+      senior advisor and CSIS Australia chair, airily proposes that Australia offers
+      “a more concrete commitment” to the US while also being sensitive to its own sovereignty.
+      This rather hopeless aim can be achieved through “a robust contingency planning
+      process that incorporates Australian SSNs.” This would involve US and Australian
+      military strategists planning to “undergo a comprehensive process of strategizing
+      and organizing military operations to achieve specific objectives”. Such a process
+      would provide “concrete reassurances that submarines sold to Australia would not
+      disappear if and when needed.” It might also preserve Australian sovereignty in
+      both developing the plan and determining its implementation during a crisis.
+
+
+      In addition to that gobbet of hopeless contradiction, the authors offer some further
+      advice: that the second pillar of the AUKUS agreement, involving the development
+      of advanced capabilities, the sharing of technology and increasing the interoperability
+      between the armed forces of the three countries, be more sharply defined. “AUKUS
+      nations should consider focusing on three capability areas: autonomy, long-range
+      strike, and integrated air defense.” This great militarist splash would supposedly
+      “increase deterrence in both Europe and the Indo-Pacific.”
+
+
+      In terms of examples, President Trump’s wonky Golden Dome anti-missile shield
+      is touted as an “opportunity for Pillar II in integrated air defense.” (It would
+      be better described as sheer science fiction, underwritten by space capitalism.)
+      Australia was already at work with their US counterparts in developing missile
+      defence systems that could complement the initiative. Developing improved and
+      integrated anti-missile defences was even more urgent given the “greatly expanding
+      rotational presence of US military forces in Australia”.
+
+
+      This waffling nonsense has all the finery of delusion. When it comes to sovereignty,
+      there is nothing to speak of and Australia’s security cadres, along with most
+      parliamentarians in the major parties, see no troubles with deferring responsibility
+      to the US imperium. In most respects, this has already taken place. The use of
+      such coddling terms as “joint planning” and “joint venture” only serves to conceal
+      the dominant, rough role played by Washington, always playing the imperial paterfamilias
+      even as it secures its own interests against other adversaries.'
+    one_sentence_summary: The AUKUS security pact, formed between the US, UK, and Australia,
+      primarily aims to deter China while exposing Australia's dependency on US military
+      support and raising concerns about its sovereignty and the feasibility of acquiring
+      nuclear submarines.
+    paragraph_summary: The AUKUS security pact, formed between the US, UK, and Australia
+      in September 2021, aims to project US power in the Indo-Pacific to deter China,
+      but has strained Franco-Australian relations and left Australia in a subordinate
+      position. Australian governments have been enticed by promises of nuclear-powered
+      submarines, despite the country's poor track record in submarine construction
+      and the uncertainty of receiving these vessels from the US. The US National Defense
+      Authorization Act emphasizes that any transfer of submarines must not compromise
+      US capabilities, raising concerns about Australia's ability to operate them independently.
+      Analysts suggest that Australia should clarify its commitment to deploying these
+      submarines in a potential US-led conflict, while also maintaining its sovereignty.
+      However, the ongoing reliance on US military support and the focus on joint planning
+      highlight Australia's diminished autonomy in defense matters, with many in the
+      Australian defense establishment seemingly comfortable with this dependency.
+    published: '2025-08-27T05:55:29+00:00'
+  - title: 'Albion Stupidities: Palestine Action and Anti-Terrorism Laws'
+    url: https://www.counterpunch.org/2025/08/26/albion-stupidities-palestine-action-and-anti-terrorism-laws/
+    text: 'Protest in Britain has become dangerous of late. Shaky lawmakers minding
+      their elected positions, displaying decorative ignorance, have been criminalising
+      protests against the war in Gaza, branding certain groups “terrorist” in inclination.
+      While the laws dealing with criminal damage to property and such are already more
+      than adequate, the government of Sir Keir Starmer thought it wise to enlarge them.
+      There are people dying in large numbers in Gaza, and those protesting that situation
+      have become a nuisance.
+
+
+      The keen obsession of this government – and a majority of the cerebrally softened
+      legislators in the House of Commons – is that a group called Palestine Action
+      is somehow worthy of being bracketed as a terrorist group under the Terrorist
+      Act 2000. On June 20, members of the outfit broke into a Royal Airforce base at
+      Brize Norton, Oxfordshire and spray painted two military aircraft alleged to be
+      aiding US and Israel in refuelling tasks. This seemingly minor display of indignation
+      by the organisation was enough to warrant its proscription by Home Secretary Yvette
+      Cooper three days later under section 3 of the Terrorism Act.
+
+
+      United Nations experts linked to the UN Human Rights Office of the High Commissioner,
+      among them Francesca Albanese, Ben Saul and Irene Khan, issued a press release
+      on July 1 calling the labelling of a protest movement as “terrorist” an unjustified
+      measure. “According to international standards, acts of protest that damage property,
+      but are not intended to kill or injure people, should not be treated as terrorism.”
+      Despite there being no binding definition of terrorism in international law, the
+      experts were of the view that it would be limited to such acts as would cause
+      death, serious personal injury, or involve the taking of hostages “in order to
+      intimidate a population or compel a government or an international organisation
+      to do or to abstain from doing any act.”
+
+
+      Were a national law to criminalise property damage in democracies, it would have
+      to exclude acts of advocacy, protest, dissent or industrial action not causing
+      death or serious injury, an approach approved by the UN Security Council’s Counter-Terrorism
+      Executive Directorate. In the case of banning Palestine Action, individuals would
+      be needlessly “prosecuted for peacefully exercising their rights to freedom of
+      expression and opinion, assembly, association and participation in political life.”
+
+
+      A leaked report by the Joint Terrorism Analysis Centre (JTAC), obtained by human
+      rights activist and former diplomat Craig Murray, further showed the decision
+      to proscribe Palestine Action under the Terrorism Act as one marked by mendacity
+      and panic on the part of the Starmer government. While JTAC is not sympathetic
+      to Palestine Action, it did note that “The majority of the group’s activity would
+      not be classified as terrorism under Section 1 of the Terrorism Act 2000.” While
+      it assesses the group as having “promoted terrorism”, the primary focus of the
+      direct action, according to the sanitised version of the report, is on inflicting
+      property damage. Serious damage to property could bring the group within the legislation,
+      but even then, as the UN experts have noted, that would not meet necessary international
+      standards to warrant the label of terrorism.
+
+
+      According to Murray, had Palestine Action, as claimed or implied by the government,
+      deliberately attacked individuals, received foreign funding from Iran or any hostile
+      power, attacked Jewish-owned businesses based on racism, or planned a “future
+      unspecified appalling terrorist acts”, then JTAC’s report would have made mention
+      of it. “Palestine Action,” insists Murray, “is what it says it is: a non-violent
+      direct action group which targets the Israeli weapons industry and its support
+      and supply line.”
+
+
+      The High Court has granted Palestine Action co-founder Huda Ammori judicial review
+      regarding the proscription of the organisation on two grounds: that it arguably
+      amounts to a disproportionate interference with Article 10 and 11 rights of the
+      claimants, which guarantee free speech and peaceful assembly under the European
+      Convention on Human Rights; and that the proscription was made in breach or natural
+      justice and/or contrary to article 6 the ECHR, which entitles all to a fair and
+      public hearing within a reasonable time by an independent and impartial tribunal
+      established by law. The Home Secretary, it was noted, had failed to even consult
+      PA in making the decision.
+
+
+      The decision by the Starmer government was astonishing and, as with all bad laws,
+      the foundry of astonishingly stupid results. It has made the police imbecilic
+      enforcers; it has turned prosecutions into a dismal circus. Protesters otherwise
+      regarded as very English and very middle class have found themselves facing arrests
+      and charges. Over the course of one weekend this month, section 13 of the Terrorism
+      Act 2000 was used to arrest over 500 people, most of them carrying a placard supporting
+      PA. That provision criminalises the wearing of clothing items or the wearing,
+      carrying or displaying of any article, and the publishing of an image of an item
+      of clothing or any other article “in such way or in such circumstances as to arouse
+      reasonable suspicion that he is a member or supporter of a proscribed organisation.”
+      Sentences range from six-month imprisonment to a fine.
+
+
+      One particularly absurd arrest was that of retired head teacher John Farley, who
+      was carrying a placard making reference to Palestine Action. Farley was eventually
+      released on bail pending charges, which were never pressed. The incident last
+      month did not even involve the proscribed organisation but was connected with
+      another organised protest group.
+
+
+      The protest held in Leeds began as a solemn, silent march. Two police caught sight
+      of Farley holding the placard. They proceeded to drag Harley away, and, typical
+      of those types of recruits, refused to listen to any explanation: that the cartoon
+      on the placard was a replica from the satirical magazine Private Eye, commenting
+      on the banning of Palestine Action. The Private Eye piece, brutal, grim, and apposite,
+      sought to explain what “Palestine Action” entailed: “Unacceptable Palestine Action”
+      involved “spraying military planes with paint”; “Acceptable Palestine Action”
+      entailed “shooting Palestinians queuing for food”.
+
+
+      Private Eye’s editor, Ian Hislop, roundly condemned the arrest as “mind-boggling”
+      and “ludicrous”. The cartoon had been “a very neat and funny little encapsulation
+      about what is and isn’t acceptable, and it’s a joke about – I mean, it’s quite
+      a black joke – but about the hypocrisies of government approach to any sort of
+      action in Gaza.”
+
+
+      A spokesman for West Yorkshire Police expressed some contrition for Farley’s consternation,
+      and went on to express a view in tortured middle management speak. “As this is
+      a new proscribed organisation, West Yorkshire Police is considering any individual
+      or organisational learning from this incident.” That ship would seem to have sailed
+      into the waters of sheer lunacy, leaving the judges to decide in November whether
+      the proscription order for Palestine Action struck a proportionate balance. Till
+      then, this egregious application of the law will continue to make pro-Palestinian
+      protests in Britain a perilous affair.'
+    one_sentence_summary: The British government's recent criminalization of protests
+      related to the Gaza conflict, particularly targeting the group Palestine Action
+      under the Terrorism Act, has drawn criticism for infringing on free speech and
+      assembly rights, with experts arguing that such actions do not meet the criteria
+      for terrorism and have led to absurd arrests of peaceful protesters.
+    paragraph_summary: Recent protests in Britain, particularly against the war in Gaza,
+      have become increasingly dangerous due to the government's criminalization of
+      dissent, particularly targeting the group Palestine Action, which has been labeled
+      a terrorist organization under the Terrorism Act 2000. This designation followed
+      a minor act of vandalism at a Royal Airforce base, prompting criticism from UN
+      experts who argue that such actions do not meet the international definition of
+      terrorism. A leaked report from the Joint Terrorism Analysis Centre (JTAC) indicated
+      that most of Palestine Action's activities do not constitute terrorism, yet the
+      government’s response has led to widespread arrests of peaceful protesters, including
+      a notable incident involving a retired head teacher. The High Court is set to
+      review the proscription of Palestine Action, with arguments that it infringes
+      on rights to free speech and assembly, while the government's heavy-handed approach
+      has turned protests into a risky endeavor for those advocating for Palestinian
+      rights in the UK.
+    published: '2025-08-26T05:54:16+00:00'
+  - title: 'Making it Official: Famine Strikes Gaza City'
+    url: https://www.counterpunch.org/2025/08/25/making-it-official-famine-strikes-gaza-city/
+    text: 'History shows that famines are, for the most part, engineered. Be it through
+      carelessness, selfishness or plain malice on the part of officialdom, creating
+      the circumstances under which a population expires to hunger is a matter of construction.
+      As the economist and Nobel Laureate Amartya Sen so powerfully showed in Poverty
+      and Famines: An Essay on Entitlement and Deprivation (1981), the focus on the
+      cause of famines should be less on the food supply and more on the economic, social
+      and political factors surrounding them. Food prices might severely spike. Food
+      distribution systems can fail. Certain groups in society may lose their means
+      of employment, thereby preventing them from purchasing essential foodstuffs.
+
+
+      In Gaza, the conditions of famine have been in the making for months. From March,
+      when the Netanyahu government purposely halted all food from entering Gaza, only
+      to ease the blockade in May through a handful of food distribution points murderously
+      overseen by the Israeli Defense Forces and the Gaza Humanitarian Foundation, the
+      only question was when that ghastly outcome would be realised. “As was the case
+      for the UK government in Ireland in the 1840s and Bengal in the 1940s, Israel
+      is responsible for this famine because it controls almost all the Gaza strip and
+      its borders,” writes Ilan Noy, an expert on the economics of disasters and climate
+      change. “But Israel has also created the conditions for the famine.”
+
+
+      By the end of July, the New York Times, citing data from the Gaza Governorate
+      Chamber of Commerce and Industry, listed a number of basic food items that had
+      become obscenely priced: sugar, costing $106 per kilogram, as opposed to 89 cents
+      prior to the war; flour, costing $12 per kilogram compared with the pre-war price
+      of 42 cents; and tomatoes: $30 per kilogram, a shocking increase from the pre-war
+      level of 59 cents. Hebrew University academic and economic historian Yanni Spitzer,
+      casting his eye over the soaring food prices, observed that the situation had
+      shifted from the start of the war, given the testimonies coming from the Strip.
+
+
+      On August 22, the Integrated Food Security Phase Classification (IPC) Famine Review
+      Committee (FRC) published a report claiming that 514,000 people – a roughly a
+      quarter of Gaza’s population – faced famine conditions for the period July 1 to
+      August 15, described in technical terms as IPC Phase 5. The body defines IPC 5
+      as “the highest phase of the IPC Acute Food Insecurity Scale, and is attributed
+      when an area has at least 20% of households facing an extreme lack of food, at
+      least 30% of children suffering from acute malnutrition, and two people for every
+      10,000 dying each day due to outright starvation or to the interaction of malnutrition
+      and disease.” The Committee was satisfied that reasonable evidence was available
+      showing that the IPC Phase 5 conditions were affecting the Gaza Governorate. It
+      also concluded that “the severity of conditions in North Gaza similar or worse
+      than in Gaza Governorate”, though refrained from an official classification given
+      “limited evidence on the population in this area”.
+
+
+      The IPC report is also adamant that the central and southern regions, comprising
+      the governorates of Deir al-Balah and Khan Younis, will face the same level of
+      catastrophic food insecurity next month, taking the number to over 640,000. A
+      further 1.14 million in the territory will be in an Emergency (IPC Phase 4) state,
+      with a further 396,000 people facing Crisis (IPC Phase 3) conditions. “The time
+      for debate and hesitation,” urge the authors, “has passed, starvation is present
+      and is rapidly spreading.” Any further delays to reverse this “entirely made-made”
+      famine “will result in a totally unacceptable escalation of Famine-related mortality.”
+
+
+      In keeping with other famine-inducing authorities in the past, COGAT, Israel’s
+      military arm responsible for overseeing the distribution of aid, offers a thin
+      gruel of denial. The report was, COGAT thundered in its published response, “false
+      and relies on partial, biased data and superficial information originating from
+      Hamas, a terrorist organization, often laundered through organizations with vested
+      interests.” The IPC, in any case, could not be trusted, ignoring Israel’s own
+      information and repeatedly providing “inaccurate” assessments that failed to “reflect
+      the reality on the ground.”
+
+
+      One could only express awe at the unflinching mendacity of the following statements:
+      “The report disregards the fact that in recent weeks we have advanced significant
+      efforts and that the overall trend has shifted”; “Since the start of the war,
+      and specifically over the past several months, COGAT, in cooperation with other
+      Israeli authorities and international partners, has implemented an extensive humanitarian
+      operation in the Gaza Strip.” There had also been “a sharp decline in the prices
+      of food, which plummeted in the markets.” Even as this is happening, however,
+      a convenient culprit always looms large: “Hamas has not ceased its attempts to
+      exploit humanitarian aid for its own military buildup.”
+
+
+      Be it willed ignorance or sinister motivation, Israel’s official response sidesteps
+      the fundamental problem: the issue was always whether food would be allowed to
+      reach a hungry Palestinian civilian population through unabridged humanitarian
+      channels. Given the complete blockade of March and the choking, murderous points
+      of food distribution set up in Gaza after May, the answer is all too clear in
+      its grimness. As Forensic Architecture and the World Peace Foundation (WPF) plausibly
+      contend, “Israel has effectively dismantled the existing ‘civilian model’ of aid
+      distribution” long used and accepted in favour of a “military model”. This suggested
+      a pattern, one positively crying out for judicial scrutiny and international sanctions.'
+    one_sentence_summary: The article argues that the famine conditions in Gaza are
+      largely engineered by the Israeli government through blockades and restrictive
+      food distribution practices, echoing historical instances of famine caused by
+      political and economic factors rather than mere food scarcity.
+    paragraph_summary: The article discusses the engineered famine conditions in Gaza,
+      attributing responsibility to the Israeli government's actions, particularly the
+      blockade that began in March and the subsequent restrictive food distribution
+      overseen by the Israeli Defense Forces. Citing economist Amartya Sen's work, it
+      emphasizes that famines are often the result of economic, social, and political
+      factors rather than mere food shortages. Recent reports indicate that a significant
+      portion of Gaza's population is facing extreme food insecurity, with prices for
+      basic food items skyrocketing. The Integrated Food Security Phase Classification
+      (IPC) has classified the situation as IPC Phase 5, indicating severe famine conditions
+      affecting hundreds of thousands of people. Despite these alarming reports, Israel's
+      military arm, COGAT, has denied the severity of the crisis, claiming improvements
+      in food distribution and prices, while critics argue that the humanitarian aid
+      system has been militarized, undermining the civilian population's access to necessary
+      resources. The article calls for judicial scrutiny and international sanctions
+      against these actions, highlighting the urgent need for unimpeded humanitarian
+      access to alleviate the dire situation.
+    published: '2025-08-25T05:55:22+00:00'
+  - title: 'Warmongering Astrologers: Sky News and The War Cabinet'
+    url: https://www.counterpunch.org/2025/08/22/warmongering-astrologers-sky-news-and-the-war-cabinet/
+    text: 'Twenty-four-hour news networks have demonstrated that surfeit kills discretion.
+      The search for fillers, distractions and items that will titillate, enrage or
+      simply sedate, is an ongoing process. Gone are the days when discerning choices
+      were made about what constituted worthy news, an admittedly difficult problem
+      that would always lead to priorities, rankings and judgments that might well be
+      challenged. At the very least, news could be kept to specific time slots during
+      the day, meaning that audiences could, at the very least, be given some form of
+      rationing. Such an approach culminated in that most famous of occasions on April
+      18, 1933 when the BBC’s news announcer declared with a minimum of fuss that “There
+      is no news.” This was followed by piano music playing out the rest of the segment.
+
+
+      On the pretext of coming across as informed and enlightened, such networks have
+      also bought into astrology masquerading as sound comment. The commentators are
+      intended to lend an air of respectability to something that either has not happened,
+      or something they have little idea about. Their credentials, however, are advertised
+      like glitzy baubles, intended to arrest the intelligence of the viewing audience
+      long enough to realise they have been had.
+
+
+      Sky News Australia is one such cringing example. The premise of The War Cabinet,
+      which aired on August 11, was clear: those attending it were simply dying for
+      greater militarism and war preparedness on the part of the Australian government,
+      while those preferring diplomacy would be treated like verminous denialists yearning
+      for some sand to bury their heads in. The point was less a matter of news than
+      prediction and speculation, an exercise of mass bloviation. To lend a war time
+      flavour to proceedings, the event was staged in the Cabinet Room of Old Parliament
+      House, which host Chris Uhlmann celebrated as the place Australia Prime Minister
+      “John Curtin and his ministers steered the nation through World War II.” Former
+      ministers, defence leaders, and national security experts were gathered “around
+      the Cabinet table to answer a single question: is Australia ready for war?”
+
+
+      The stale view from Alexander Downer, Australia’s longest and, in many ways, most
+      inconspicuous foreign minister, did little to rustle or stir. Liberal democracy,
+      to be preserved in sacred glory, needed Australia to be linked to a “strong global
+      alliance led by the United States”. That such an alliance might itself be the
+      catalyst for war, notably given expectations from Washington about what Australia
+      would do in a conflict with China, was ignored with an almost studious ignorance.
+      Instead, Downer saw quite the opposite. “If this alliance holds, if it’s properly
+      cemented, if it is well-led by the Americans… and if we, as members of the alliance,
+      are serious about making a practical contribution to defence through our spending
+      and our equipment, then we will maintain a balance of power in the world.”
+
+
+      His assessment of the current Albanese government was one of some dottiness. “I
+      think the government here in Australia has made a major mistake by playing, if
+      you like, politics with this issue of the dangers of the region and losing the
+      balance of power because they don’t want to be seen as too close to President
+      Trump.” Any press briefing from Defence Minister Richard Marles regarding the
+      anti-China AUKUS pact would ease any anxiety on Downer’s part. Under the Albanese
+      government, sovereignty has been surrendered to Washington in a way so remarkable
+      it could be regarded as treasonous. While the Royal Australian Navy may never
+      see a single US nuclear powered submarine, let alone a jointly constructed one,
+      US naval shipyards are rolling in the cash of the Australian taxpayer.
+
+
+      Former Labor Defence Minister, Joel Fitzgibbon, lamented that Australia’s strategic
+      outlook in the Indo-Pacific was “deteriorating rather markedly,” a formulation
+      utterly vague and a mere parroting of just about every other hawkish analyst that
+      sees deterioration everywhere. Thankfully, we had Strategic Forum CEO Ross Babbage
+      to give some shape to it, which turned out to be that ragged motif of the Yellow
+      Horde to the North readying to strike southwards. The Oriental Barbarians with
+      a tinge of Communist Red were primary reasons for a worsening strategic environment,
+      aided by their generous military expenditure. With almost a note of admiration,
+      Babbage felt that China was readying for war by adjusting its economy and readying
+      its people “for tough times that may come”.
+
+
+      The venal, ever noisy former Home Affairs Department Secretary Mike Pezzullo,
+      who has an unhealthy appetite for warring matters, drew upon figures he could
+      not possibly know, along with everybody else who have tried to read the inscrutable
+      entrails of international relations. Chances of conflict in the Indo-Pacific by
+      2027, for instance, was a “10 to 20 per cent” likelihood. Sky News, living down
+      to its subterranean standards, failed to mention that Pezzullo had misused his
+      position as one of Canberra’s most powerful bureaucrats to opine on ministerial
+      appointments via hundreds of private text messages to Liberal Party powerbroker
+      Scott Briggs. The Australian Public Service Commission found that Pezzullo had,
+      among other things, used his “duty, power, status or authority to seek to gain
+      a benefit or advantage for himself” and “failed to maintain confidentiality of
+      sensitive government information” and “failed to act apolitically in his employment”.
+      His employment was subsequently terminated, and his Order of Australia stripped
+      in September last year. Fine credentials for balanced commentary on the strategic
+      outlook of a state.
+
+
+      Other talking heads were keen to push spine tingling prospects of wicked regimes
+      forming alliances and making mischief. Oleksandra Molloy, billed as an aviation
+      expert, thought the “emerging axis” between Russia, North Korea and Iran “quite
+      concerning”. Former naval officer and defence pundit Jennifer Parker urged the
+      fattening of the defence budget to “develop a degree of autonomy”.
+
+
+      Retired Australian Army major general Mick Ryan was most unimpressed by the “zero
+      risk” mentality that seemed to pervade “pretty much every bit of Australian society”.
+      The Department of Defence needed to take greater risks in terms of procurement,
+      innovation and reducing “the amount of time it takes to develop capability”. His
+      fantasy was positively Spartan in its military totalitarianism: an Australian
+      state nurturing “a spirit of innovation that connects military, industry and society”.
+      The cry for conscription must be just around the corner.
+
+
+      Chief war monger and think tanker Peter Jennings aired his all too familiar views
+      on China, which have become pathological. “It is utterly false for our government
+      to say that somehow they have stabilised the relationship with China. Things may
+      have improved on the trade front, but that is at the expense of ignoring the strategic
+      developments which all of our colleagues around the table have spoken about, which
+      is China is positioning for war.” And there you had it: an hour of furious fretting
+      and wailing anxiety with all figures in furious agreement, with a resounding boo
+      to diplomacy and a hurrah for astrology.'
+    one_sentence_summary: The article critiques 24-hour news networks like Sky News
+      Australia for prioritizing sensationalism and militaristic rhetoric over substantive
+      reporting, exemplified by a recent program that promoted war preparedness while
+      dismissing diplomatic approaches, ultimately reflecting a broader trend of alarmist
+      speculation in news coverage.
+    paragraph_summary: The article critiques the sensationalism and lack of discretion
+      in 24-hour news networks, particularly focusing on a Sky News Australia segment
+      titled "The War Cabinet," which pushed a militaristic agenda while dismissing
+      diplomatic approaches. It highlights how such networks prioritize speculation
+      and fear-mongering over factual reporting, exemplified by the gathering of former
+      officials and analysts who presented alarmist views on Australia's defense readiness
+      against perceived threats from China and other nations. The commentary is criticized
+      for lacking substance and relying on dubious credentials, with figures like Alexander
+      Downer and Mike Pezzullo promoting a narrative of imminent conflict while ignoring
+      the complexities of international relations. The overall tone reflects a disdain
+      for the superficiality of modern news commentary, which often sacrifices depth
+      for sensationalism.
+    published: '2025-08-22T05:54:13+00:00'
   - title: 'Lethal Nonsense: Antisemitism, Codes of Conduct, and the Bendigo Writers
       Festival'
     url: https://www.counterpunch.org/2025/08/21/lethal-nonsense-antisemitism-codes-of-conduct-and-the-bendigo-writers-festival/

@@ -7,16 +7,1800 @@ description: "Veteran Middle East war correspondent; provides first-hand analysi
 websites:
   - https://ejmagnier.com
 summary: |
-  Tensions between Israel and Iran continue to escalate, dominating the regional agenda. Over the past 48 hours, Israeli Prime Minister Benjamin Netanyahu has intensified warnings about Iran’s nuclear capabilities, suggesting that a military confrontation is increasingly likely. According to **Elijah J. Magnier**, Israeli leaders are emphasizing the threat posed by Iran's enriched uranium stockpile, while Tehran has responded with strong rhetoric and preparations for possible provocations.
+  Tensions are escalating in the Middle East and Europe as diplomatic maneuvers intensify around Iran’s nuclear program and the broader regional security landscape. In the wake of recent airstrikes on Iranian territory, the European trio—France, Germany, and the UK (E3)—have activated the UN "snapback" mechanism, initiating a 30-day process to reinstate sanctions on Iran. This move is widely interpreted as an attempt to rescue the faltering nuclear diplomacy and avoid a direct military confrontation.
   
-  This standoff is not limited to direct military threats. As **Magnier** notes, both sides are engaging in hybrid tactics—ranging from cyber operations to proxy engagements—raising the risk of miscalculation. The Israeli leadership’s public statements are interpreted as both a deterrent and a signal to allies, while Iran’s response suggests it is bracing for escalation but remains cautious about triggering a full-scale war.
+  According to **Elijah J. Magnier**, the E3’s decision signals not only a response to Iran’s recent actions but also highlights Europe’s diminishing autonomy in global affairs. The snapback mechanism, originally part of the 2015 nuclear deal, is now being used as a last-ditch effort to pressure Tehran back into compliance. However, Magnier notes that this step could just as easily provoke further escalation, especially given the heightened tensions following the recent bombardments.
   
-  Meanwhile, the situation in Iraq remains volatile. The proposed law to institutionalize the Popular Mobilisation Forces (PMF) has sparked intense debate in Baghdad and drawn concern from Washington and London, who fear it will further entrench Iranian influence in Iraq. **Magnier** reports that this legislative move is seen by Western powers as a direct challenge to their strategic interests, with threats of sanctions looming over Iraqi officials and institutions.
+  Iran’s reaction remains measured but skeptical, with Tehran questioning the true intentions behind Europe’s initiative. The process puts significant pressure on Iran to demonstrate willingness to cooperate with international demands, but also risks pushing the country towards more defiant policies if it perceives the move as hostile or coordinated with U.S. interests.
   
-  Looking ahead, the majority of sources agree that the risk of a direct Israel-Iran confrontation has risen significantly, though both sides are still maneuvering below the threshold of open war. The hybrid nature of the conflict—combining military, cyber, and proxy elements—makes the situation highly unpredictable. In Iraq, the institutionalization of the PMF is quite likely to proceed, despite Western pressure, further consolidating Iran’s regional position.
-  
-  Based on current trends, I guarantee that the coming weeks will see continued escalation in rhetoric and hybrid operations between Israel and Iran, with a high chance of spillover effects in neighboring states such as Iraq. The risk of a sudden military clash remains elevated, but both sides appear intent on managing escalation to avoid a catastrophic regional war—for now.
+  Looking ahead, the majority of analysts, including **Elijah J. Magnier**, assess that the snapback process is unlikely to yield a diplomatic breakthrough. Instead, there is a high chance that it will deepen the rift between Iran and the West, increasing the risk of military escalation in the region. I guarantee that unless there is a significant shift in either European or Iranian positions within the next 30 days, the reimposition of sanctions will most definitely harden stances on all sides and further destabilize the region.
 articles:
+  - title: 'Rückschlag oder Rückschritt? Europa: Symbol schwindender Autonomie und Gefahr
+      von Krieg statt Frieden'
+    url: https://ejmagnier.com/2025/09/03/ruckschlag-oder-ruckschritt-europa-symbol-schwindender-autonomie-und-gefahr-von-krieg-statt-frieden/
+    text: 'Tweet Von Elijah J. Magnier – In New York hat der Countdown begonnen. Frankreich,
+      Deutschland und Großbritannien – die sogenannte E3 – haben offiziell den „Snapback”-Mechanismus
+      der UNO gegen den Iran ausgelöst und damit das im Rahmen des Atomabkommens von
+      2015 ausgesetzte Sanktionsregime wiederbelebt. Dieser Schritt leitet einen 30-tägigen
+      Prozess ein, nach dessen Ablauf bestimmte UN-Sanktionen automatisch wieder in
+      Kraft treten, sofern sie nicht blockiert werden. Für die E3 ist dies ein notwendiger
+      Schritt, um die Atomdiplomatie zu retten und einen weiteren Krieg nach den 12-tägigen
+      Bombenangriffen Israels und der USA auf den Iran zu vermeiden. Die Sanktionen
+      werden automatisch am 27. September 2025 wieder in Kraft treten , sofern der Rat
+      nicht eingreift, um den Prozess zu blockieren. Für den Iran ist dies ein Test
+      für die endgültigen Absichten Europas: Druck zur Aufnahme von Verhandlungen oder
+      einfach eine weitere Eskalation, die als Diplomatie getarnt ist, um den USA entgegenzukommen
+      und einen weiteren Grund für einen zweiten Krieg zu liefern. Die Forderung der
+      E3 ist einfach: Der Iran muss die uneingeschränkte Zusammenarbeit mit der Internationalen
+      Atomenergie-Organisation (IAEO) wieder aufnehmen, den Standort seiner 408 Kilogramm
+      60-prozentig angereicherten Urans offenlegen und zu den Verhandlungen mit Washington
+      zurückkehren. Die E3 hat sich nie an ihren Teil des Atomabkommens von 2015 gehalten,
+      hat jegliche Zusammenarbeit mit dem Iran eingestellt, als Donald Trump 2018 aus
+      dem Abkommen ausgestiegen ist, und hat dem israelisch-amerikanischen Krieg gegen
+      die iranischen Atomanlagen und der Tötung von Wissenschaftlern und Menschen zugestimmt.
+      Daher ist Europa weit davon entfernt, vom Iran die Einhaltung des Abkommens verlangen
+      zu können. Die Kluft ist immens, und für den Iran ist eine Wiederherstellung der
+      Beziehungen unter Androhung von Gewalt keine Option, ohne notwendigerweise den
+      diplomatischen Weg, die Kunst des Unmöglichen, aufzugeben. Die Ironie ist offensichtlich.
+      Als die E3-Gruppe 2003 gegründet wurde, war ihr Ziel, die Bush-Regierung daran
+      zu hindern, einen weiteren Krieg im Nahen Osten zu beginnen. Zwei Jahrzehnte später
+      ist Europa wirtschaftlich, politisch und strategisch weitaus stärker von den Vereinigten
+      Staaten abhängig. Der Iran, einst als wichtiger Energiepartner angesehen, wurde
+      durch aufeinanderfolgende Sanktionen bedeutungslos gemacht. Der geopolitische
+      Kontext hat sich mit der Vertiefung der Annäherung des Iran an Russland in der
+      Ukraine erneut verschoben. Für viele in den europäischen Hauptstädten geht es
+      bei dem Druck auf Teheran nicht mehr nur um die Verbreitung von Atomwaffen, sondern
+      auch darum, einen Partner Moskaus zu bestrafen. Die Annäherung an die Falken in
+      Washington, selbst auf Kosten der Diplomatie, ist zum Preis für die Aufrechterhaltung
+      der Einheit über den Atlantik hinweg geworden. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Frankreich, Deutschland und Großbritannien haben den "Snapback"-Mechanismus
+      der UNO gegen den Iran aktiviert, was einen 30-tägigen Prozess zur Wiederherstellung
+      bestimmter UN-Sanktionen einleitet, um die Atomdiplomatie zu retten und einen
+      weiteren Krieg zu vermeiden.
+    paragraph_summary: In New York haben Frankreich, Deutschland und Großbritannien,
+      die sogenannte E3, den "Snapback"-Mechanismus der UNO gegen den Iran aktiviert,
+      wodurch die im Rahmen des Atomabkommens von 2015 ausgesetzten Sanktionen wieder
+      in Kraft treten könnten, sofern der Sicherheitsrat nicht interveniert. Dieser
+      Schritt, der einen 30-tägigen Prozess einleitet, wird als notwendig erachtet,
+      um die Atomdiplomatie zu retten und einen weiteren Krieg nach den jüngsten militärischen
+      Angriffen auf den Iran zu vermeiden. Die E3 fordert vom Iran die uneingeschränkte
+      Zusammenarbeit mit der Internationalen Atomenergie-Organisation und die Offenlegung
+      seiner Uranvorräte, während der Iran die Absichten Europas als Test sieht, ob
+      es um ernsthafte Verhandlungen oder um eine Eskalation geht. Die E3 hat jedoch
+      selbst nie ihre Verpflichtungen aus dem Atomabkommen erfüllt und hat die Zusammenarbeit
+      mit dem Iran nach dem Rückzug der USA unter Trump eingestellt, was die Kluft zwischen
+      den Parteien weiter vergrößert und die Möglichkeit einer diplomatischen Lösung
+      erschwert.
+    published: '2025-09-03T04:31:31+00:00'
+  - title: 'Rückschlag oder Rückschritt? Europa: Symbol schwindender Autonomie und Gefahr
+      von Krieg statt Frieden'
+    url: https://ejmagnier.com/2025/09/03/ruckschlag-oder-ruckschritt-europa-symbol-schwindender-autonomie-und-gefahr-von-krieg-statt-frieden/
+    text: 'Tweet Von Elijah J. Magnier – In New York hat der Countdown begonnen. Frankreich,
+      Deutschland und Großbritannien – die sogenannte E3 – haben offiziell den „Snapback”-Mechanismus
+      der UNO gegen den Iran ausgelöst und damit das im Rahmen des Atomabkommens von
+      2015 ausgesetzte Sanktionsregime wiederbelebt. Dieser Schritt leitet einen 30-tägigen
+      Prozess ein, nach dessen Ablauf bestimmte UN-Sanktionen automatisch wieder in
+      Kraft treten, sofern sie nicht blockiert werden. Für die E3 ist dies ein notwendiger
+      Schritt, um die Atomdiplomatie zu retten und einen weiteren Krieg nach den 12-tägigen
+      Bombenangriffen Israels und der USA auf den Iran zu vermeiden. Die Sanktionen
+      werden automatisch am 27. September 2025 wieder in Kraft treten , sofern der Rat
+      nicht eingreift, um den Prozess zu blockieren. Für den Iran ist dies ein Test
+      für die endgültigen Absichten Europas: Druck zur Aufnahme von Verhandlungen oder
+      einfach eine weitere Eskalation, die als Diplomatie getarnt ist, um den USA entgegenzukommen
+      und einen weiteren Grund für einen zweiten Krieg zu liefern. Die Forderung der
+      E3 ist einfach: Der Iran muss die uneingeschränkte Zusammenarbeit mit der Internationalen
+      Atomenergie-Organisation (IAEO) wieder aufnehmen, den Standort seiner 408 Kilogramm
+      60-prozentig angereicherten Urans offenlegen und zu den Verhandlungen mit Washington
+      zurückkehren. Die E3 hat sich nie an ihren Teil des Atomabkommens von 2015 gehalten,
+      hat jegliche Zusammenarbeit mit dem Iran eingestellt, als Donald Trump 2018 aus
+      dem Abkommen ausgestiegen ist, und hat dem israelisch-amerikanischen Krieg gegen
+      die iranischen Atomanlagen und der Tötung von Wissenschaftlern und Menschen zugestimmt.
+      Daher ist Europa weit davon entfernt, vom Iran die Einhaltung des Abkommens verlangen
+      zu können. Die Kluft ist immens, und für den Iran ist eine Wiederherstellung der
+      Beziehungen unter Androhung von Gewalt keine Option, ohne notwendigerweise den
+      diplomatischen Weg, die Kunst des Unmöglichen, aufzugeben. Die Ironie ist offensichtlich.
+      Als die E3-Gruppe 2003 gegründet wurde, war ihr Ziel, die Bush-Regierung daran
+      zu hindern, einen weiteren Krieg im Nahen Osten zu beginnen. Zwei Jahrzehnte später
+      ist Europa wirtschaftlich, politisch und strategisch weitaus stärker von den Vereinigten
+      Staaten abhängig. Der Iran, einst als wichtiger Energiepartner angesehen, wurde
+      durch aufeinanderfolgende Sanktionen bedeutungslos gemacht. Der geopolitische
+      Kontext hat sich mit der Vertiefung der Annäherung des Iran an Russland in der
+      Ukraine erneut verschoben. Für viele in den europäischen Hauptstädten geht es
+      bei dem Druck auf Teheran nicht mehr nur um die Verbreitung von Atomwaffen, sondern
+      auch darum, einen Partner Moskaus zu bestrafen. Die Annäherung an die Falken in
+      Washington, selbst auf Kosten der Diplomatie, ist zum Preis für die Aufrechterhaltung
+      der Einheit über den Atlantik hinweg geworden. Subscribe Subscribe to get access
+      Read more of this content when you subscribe today. Subscribe Submitting form
+      Log in Make a one-time donation Your contribution is appreciated. Donate Make
+      a monthly donation Your contribution is appreciated. Donate monthly Make a yearly
+      donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Frankreich, Deutschland und Großbritannien haben den "Snapback"-Mechanismus
+      der UNO gegen den Iran aktiviert, was einen 30-tägigen Prozess zur Wiederherstellung
+      bestimmter UN-Sanktionen einleitet, um die Atomdiplomatie zu retten und einen
+      weiteren Krieg zu vermeiden.
+    paragraph_summary: In New York haben Frankreich, Deutschland und Großbritannien,
+      die sogenannte E3, den "Snapback"-Mechanismus der UNO gegen den Iran aktiviert,
+      wodurch die im Rahmen des Atomabkommens von 2015 ausgesetzten Sanktionen wieder
+      in Kraft treten könnten, sofern der Sicherheitsrat nicht interveniert. Dieser
+      Schritt, der einen 30-tägigen Prozess einleitet, wird als notwendig erachtet,
+      um die Atomdiplomatie zu retten und einen weiteren Krieg nach den jüngsten militärischen
+      Angriffen auf den Iran zu vermeiden. Die E3 fordert vom Iran die uneingeschränkte
+      Zusammenarbeit mit der Internationalen Atomenergie-Organisation und die Offenlegung
+      seiner Uranvorräte, während der Iran die Absichten Europas als Test sieht, ob
+      es um ernsthafte Verhandlungen oder um eine Eskalation geht. Die E3 hat jedoch
+      selbst nie ihre Verpflichtungen aus dem Atomabkommen erfüllt und hat die Zusammenarbeit
+      mit dem Iran nach dem Rückzug der USA unter Trump eingestellt, was die Kluft zwischen
+      den Parteien weiter vergrößert und die Möglichkeit einer diplomatischen Lösung
+      erschwert.
+    published: '2025-09-03T04:31:31+00:00'
+  - title: Terugval of tegenslag? Europa symbool van afnemende autonomie en risico’s
+      van oorlog in plaats van vrede.
+    url: https://ejmagnier.com/2025/09/03/terugval-of-tegenslag-europa-symbool-van-afnemende-autonomie-en-risicos-van-oorlog-in-plaats-van-vrede/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. In New
+      York is het aftellen begonnen. Frankrijk, Duitsland en het Verenigd Koninkrijk
+      – de zogenaamde E3 – hebben formeel het “snapback”-mechanisme van de VN tegen
+      Iran in gang gezet, waardoor het sanctieregime dat onder het nucleaire akkoord
+      van 2015 was opgeschort, weer van kracht wordt. Deze stap zet een proces van 30
+      dagen in gang, waarna, tenzij dit wordt geblokkeerd, specifieke VN-sancties automatisch
+      weer van kracht worden. Voor de E3 is dit een noodzakelijke stap om de nucleaire
+      diplomatie te redden en een nieuwe oorlog te voorkomen na de 12 dagen durende
+      Israëlisch-Amerikaanse bombardementen op Iran. De sancties worden automatisch
+      opnieuw van kracht op 27 september 2025, tenzij de Raad actie onderneemt om het
+      proces te blokkeren. Voor Iran is het een test van de uiteindelijke bedoelingen
+      van Europa: druk om te onderhandelen, of gewoon een nieuwe escalatie, vermomd
+      als diplomatie, om de VS tegemoet te komen en een nieuwe reden te geven voor een
+      tweede oorlog. De eis van de E3 is eenvoudig: Iran moet de volledige samenwerking
+      met het Internationaal Atoomenergieagentschap (IAEA) hervatten, de locatie van
+      zijn 408 kilogram 60% verrijkt uranium bekendmaken en terugkeren naar de onderhandelingen
+      met Washington. De E3 heeft zich nooit aan zijn deel van het nucleaire akkoord
+      van 2015 gehouden, heeft alle samenwerking met Iran stopgezet toen Donald Trump
+      zich in 2018 uit het akkoord terugtrok en heeft ingestemd met de Israëlisch-Amerikaanse
+      oorlog tegen de nucleaire installaties van Iran en de moord op zijn wetenschappers
+      en burgers. Europa is dan ook verre van in een positie om Iran te vragen zich
+      aan het akkoord te houden. De kloof is enorm en voor Iran is het herstellen van
+      de relatie geen optie onder dreiging zonder noodzakelijkerwijs de diplomatieke
+      weg, de kunst van het onmogelijke, te laten vallen. De ironie is groot. Toen de
+      E3-groep in 2003 werd opgericht, was het doel ervan te voorkomen dat de regering-Bush
+      een nieuwe oorlog in het Midden-Oosten zou beginnen. Twee decennia later is Europa
+      economisch, politiek en strategisch veel meer afhankelijk van de Verenigde Staten.
+      Iran, ooit beschouwd als een cruciale energiepartner, is door opeenvolgende sancties
+      verwaarloosbaar geworden. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: De E3 (Frankrijk, Duitsland en het VK) heeft het "snapback"-mechanisme
+      van de VN geactiveerd om sancties tegen Iran opnieuw van kracht te laten worden,
+      wat een 30-dagen tellend proces in gang zet dat de nucleaire diplomatie kan beïnvloeden
+      en mogelijk leidt tot escalatie na recente bombardementen op Iran.
+    paragraph_summary: In New York hebben Frankrijk, Duitsland en het Verenigd Koninkrijk,
+      de E3, het "snapback"-mechanisme van de VN tegen Iran geactiveerd, wat betekent
+      dat het sanctieregime dat onder het nucleaire akkoord van 2015 was opgeschort,
+      opnieuw van kracht wordt na een periode van 30 dagen. Deze beslissing volgt op
+      recente Israëlisch-Amerikaanse bombardementen op Iran en is bedoeld om de nucleaire
+      diplomatie te redden en een nieuwe oorlog te voorkomen. De E3 eist dat Iran volledig
+      samenwerkt met het Internationaal Atoomenergieagentschap (IAEA) en terugkeert
+      naar onderhandelingen met de VS, maar Iran beschouwt deze druk als een test van
+      de oprechtheid van Europa en is sceptisch over de intenties, gezien de eerdere
+      schendingen van het akkoord door de E3 en hun betrokkenheid bij vijandige acties
+      tegen Iran. De situatie benadrukt de grote kloof tussen de partijen en de uitdagingen
+      van diplomatie in deze context.
+    published: '2025-09-03T04:27:20+00:00'
+  - title: Terugval of tegenslag? Europa symbool van afnemende autonomie en risico’s
+      van oorlog in plaats van vrede.
+    url: https://ejmagnier.com/2025/09/03/terugval-of-tegenslag-europa-symbool-van-afnemende-autonomie-en-risicos-van-oorlog-in-plaats-van-vrede/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. In New
+      York is het aftellen begonnen. Frankrijk, Duitsland en het Verenigd Koninkrijk
+      – de zogenaamde E3 – hebben formeel het “snapback”-mechanisme van de VN tegen
+      Iran in gang gezet, waardoor het sanctieregime dat onder het nucleaire akkoord
+      van 2015 was opgeschort, weer van kracht wordt. Deze stap zet een proces van 30
+      dagen in gang, waarna, tenzij dit wordt geblokkeerd, specifieke VN-sancties automatisch
+      weer van kracht worden. Voor de E3 is dit een noodzakelijke stap om de nucleaire
+      diplomatie te redden en een nieuwe oorlog te voorkomen na de 12 dagen durende
+      Israëlisch-Amerikaanse bombardementen op Iran. De sancties worden automatisch
+      opnieuw van kracht op 27 september 2025, tenzij de Raad actie onderneemt om het
+      proces te blokkeren. Voor Iran is het een test van de uiteindelijke bedoelingen
+      van Europa: druk om te onderhandelen, of gewoon een nieuwe escalatie, vermomd
+      als diplomatie, om de VS tegemoet te komen en een nieuwe reden te geven voor een
+      tweede oorlog. De eis van de E3 is eenvoudig: Iran moet de volledige samenwerking
+      met het Internationaal Atoomenergieagentschap (IAEA) hervatten, de locatie van
+      zijn 408 kilogram 60% verrijkt uranium bekendmaken en terugkeren naar de onderhandelingen
+      met Washington. De E3 heeft zich nooit aan zijn deel van het nucleaire akkoord
+      van 2015 gehouden, heeft alle samenwerking met Iran stopgezet toen Donald Trump
+      zich in 2018 uit het akkoord terugtrok en heeft ingestemd met de Israëlisch-Amerikaanse
+      oorlog tegen de nucleaire installaties van Iran en de moord op zijn wetenschappers
+      en burgers. Europa is dan ook verre van in een positie om Iran te vragen zich
+      aan het akkoord te houden. De kloof is enorm en voor Iran is het herstellen van
+      de relatie geen optie onder dreiging zonder noodzakelijkerwijs de diplomatieke
+      weg, de kunst van het onmogelijke, te laten vallen. De ironie is groot. Toen de
+      E3-groep in 2003 werd opgericht, was het doel ervan te voorkomen dat de regering-Bush
+      een nieuwe oorlog in het Midden-Oosten zou beginnen. Twee decennia later is Europa
+      economisch, politiek en strategisch veel meer afhankelijk van de Verenigde Staten.
+      Iran, ooit beschouwd als een cruciale energiepartner, is door opeenvolgende sancties
+      verwaarloosbaar geworden. Subscribe Subscribe to get access Read more of this
+      content when you subscribe today. Subscribe Submitting form Log in Make a one-time
+      donation Your contribution is appreciated. Donate Make a monthly donation Your
+      contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: De E3 (Frankrijk, Duitsland en het VK) heeft het "snapback"-mechanisme
+      van de VN geactiveerd om sancties tegen Iran opnieuw van kracht te laten worden,
+      wat een 30-dagen tellend proces in gang zet dat de nucleaire diplomatie kan beïnvloeden
+      en mogelijk leidt tot escalatie na recente bombardementen op Iran.
+    paragraph_summary: In New York hebben Frankrijk, Duitsland en het Verenigd Koninkrijk,
+      de E3, het "snapback"-mechanisme van de VN tegen Iran geactiveerd, wat betekent
+      dat het sanctieregime dat onder het nucleaire akkoord van 2015 was opgeschort,
+      opnieuw van kracht wordt na een periode van 30 dagen. Deze beslissing volgt op
+      recente Israëlisch-Amerikaanse bombardementen op Iran en is bedoeld om de nucleaire
+      diplomatie te redden en een nieuwe oorlog te voorkomen. De E3 eist dat Iran volledig
+      samenwerkt met het Internationaal Atoomenergieagentschap (IAEA) en terugkeert
+      naar onderhandelingen met de VS, maar Iran beschouwt deze druk als een test van
+      de oprechtheid van Europa en is sceptisch over de intenties, gezien de eerdere
+      schendingen van het akkoord door de E3 en hun betrokkenheid bij vijandige acties
+      tegen Iran. De situatie benadrukt de grote kloof tussen de partijen en de uitdagingen
+      van diplomatie in deze context.
+    published: '2025-09-03T04:27:20+00:00'
+  - title: Snapback or Setback? Europe Symbol of Declining Autonomy and Risks War Instead
+      of Peace.
+    url: https://ejmagnier.com/2025/09/02/snapback-or-setback-europe-symbol-of-declining-autonomy-and-risks-war-instead-of-peace/
+    text: 'Tweet By Elijah J. Magnier – In New York, the countdown has begun. France,
+      Germany, and the UK — the so-called E3 — have formally triggered the UN “snapback”
+      mechanism against Iran, reviving the sanctions regime suspended under the 2015
+      nuclear deal. The move sets in motion a 30-day process after which, unless blocked,
+      specific UN sanctions will automatically return. For the E3, this is a necessary
+      step to salvage nuclear diplomacy and avoid another war after the 12-day Israeli-US
+      bombing of Iran. Sanctions will automatically be reinstated on 27 September 2025
+      , unless the Council acts to block the process. For Iran, it is a test of Europe’s
+      final intentions: pressure to negotiate, or simply another escalation disguised
+      as diplomacy to accommodate the US and provide another reason for a second war.
+      The E3 demand is simple: Iran must resume full cooperation with the International
+      Atomic Energy Agency (IAEA), disclose the location of its 408 kilograms of 60%
+      enriched uranium, and return to negotiations with Washington. The E3 never held
+      its end of the 2015 nuclear deal, pulled out all cooperation with Iran when Donald
+      Trump pulled out of the deal in 2018 and agreed with the Israeli-US war on its
+      nuclear facilities and the killing of its scientists and people. Therefore, Europe
+      is far from being in a position to ask Iran to comply. The gap is immense and
+      for Iran, reconstructing the relationship is not an option under threat without
+      necessarily dropping the diplomacy avenue, the art of the impossible. The irony
+      is stark. When the E3 group was created in 2003, its purpose was to prevent the
+      Bush administration from launching another war in the Middle East. Two decades
+      later, Europe is far more economically, politically and strategically dependent
+      on the United States. Iran, once seen as a critical energy partner, has been rendered
+      negligible through successive sanctions. The geopolitical context has shifted
+      again with Iran’s deepening alignment with Russia in Ukraine. For many in European
+      capitals, pressuring Tehran is no longer just about nuclear proliferation but
+      also about punishing a partner of Moscow. Aligning with Washington’s hawks, even
+      at the cost of diplomacy, has become the price of maintaining unity across the
+      Atlantic. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: France, Germany, and the UK have triggered the UN "snapback"
+      mechanism against Iran, reinstating sanctions from the 2015 nuclear deal in an
+      effort to salvage nuclear diplomacy and prevent conflict, while testing Iran's
+      willingness to cooperate with international demands.
+    paragraph_summary: Elijah J. Magnier reports that France, Germany, and the UK, collectively
+      known as the E3, have activated the UN "snapback" mechanism against Iran, reinstating
+      sanctions that were previously lifted under the 2015 nuclear deal. This action
+      initiates a 30-day process for automatic sanctions reinstatement unless blocked,
+      with the E3 aiming to pressure Iran into negotiations and full cooperation with
+      the International Atomic Energy Agency (IAEA). However, the E3's credibility is
+      questioned, as they failed to uphold their commitments after the US withdrawal
+      from the deal in 2018 and have supported military actions against Iran. The situation
+      reflects a significant shift in geopolitical dynamics, with Europe increasingly
+      reliant on the US and Iran's strategic alignment with Russia amid the Ukraine
+      conflict, complicating the potential for diplomatic resolution.
+    published: '2025-09-02T17:07:56+00:00'
+  - title: Snapback or Setback? Europe Symbol of Declining Autonomy and Risks War Instead
+      of Peace.
+    url: https://ejmagnier.com/2025/09/02/snapback-or-setback-europe-symbol-of-declining-autonomy-and-risks-war-instead-of-peace/
+    text: 'Tweet By Elijah J. Magnier – In New York, the countdown has begun. France,
+      Germany, and the UK — the so-called E3 — have formally triggered the UN “snapback”
+      mechanism against Iran, reviving the sanctions regime suspended under the 2015
+      nuclear deal. The move sets in motion a 30-day process after which, unless blocked,
+      specific UN sanctions will automatically return. For the E3, this is a necessary
+      step to salvage nuclear diplomacy and avoid another war after the 12-day Israeli-US
+      bombing of Iran. Sanctions will automatically be reinstated on 27 September 2025
+      , unless the Council acts to block the process. For Iran, it is a test of Europe’s
+      final intentions: pressure to negotiate, or simply another escalation disguised
+      as diplomacy to accommodate the US and provide another reason for a second war.
+      The E3 demand is simple: Iran must resume full cooperation with the International
+      Atomic Energy Agency (IAEA), disclose the location of its 408 kilograms of 60%
+      enriched uranium, and return to negotiations with Washington. The E3 never held
+      its end of the 2015 nuclear deal, pulled out all cooperation with Iran when Donald
+      Trump pulled out of the deal in 2018 and agreed with the Israeli-US war on its
+      nuclear facilities and the killing of its scientists and people. Therefore, Europe
+      is far from being in a position to ask Iran to comply. The gap is immense and
+      for Iran, reconstructing the relationship is not an option under threat without
+      necessarily dropping the diplomacy avenue, the art of the impossible. The irony
+      is stark. When the E3 group was created in 2003, its purpose was to prevent the
+      Bush administration from launching another war in the Middle East. Two decades
+      later, Europe is far more economically, politically and strategically dependent
+      on the United States. Iran, once seen as a critical energy partner, has been rendered
+      negligible through successive sanctions. The geopolitical context has shifted
+      again with Iran’s deepening alignment with Russia in Ukraine. For many in European
+      capitals, pressuring Tehran is no longer just about nuclear proliferation but
+      also about punishing a partner of Moscow. Aligning with Washington’s hawks, even
+      at the cost of diplomacy, has become the price of maintaining unity across the
+      Atlantic. Subscribe Subscribe to get access Read more of this content when you
+      subscribe today. Subscribe Submitting form Log in Make a one-time donation Your
+      contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: France, Germany, and the UK have triggered the UN "snapback"
+      mechanism against Iran, reinstating sanctions from the 2015 nuclear deal in an
+      effort to salvage nuclear diplomacy and prevent conflict, while testing Iran's
+      willingness to cooperate with international demands.
+    paragraph_summary: Elijah J. Magnier reports that France, Germany, and the UK, collectively
+      known as the E3, have activated the UN "snapback" mechanism against Iran, reinstating
+      sanctions that were previously lifted under the 2015 nuclear deal. This action
+      initiates a 30-day process for automatic sanctions reinstatement unless blocked,
+      with the E3 aiming to pressure Iran into negotiations and full cooperation with
+      the International Atomic Energy Agency (IAEA). However, the E3's credibility is
+      questioned, as they failed to uphold their commitments after the US withdrawal
+      from the deal in 2018 and have supported military actions against Iran. The situation
+      reflects a significant shift in geopolitical dynamics, with Europe increasingly
+      reliant on the US and Iran's strategic alignment with Russia amid the Ukraine
+      conflict, complicating the potential for diplomatic resolution.
+    published: '2025-09-02T17:07:56+00:00'
+  - title: Snapback ou Recul ? L’Europe, symbole du déclin de son autonomie, risque
+      la guerre au lieu de la paix
+    url: https://ejmagnier.com/2025/09/02/snapback-ou-recul-leurope-symbole-du-declin-de-son-autonomie-risque-la-guerre-au-lieu-de-la-paix/
+    text: 'Tweet Par Elijah J. Magnier – À New York, le compte à rebours a commencé.
+      La France, l’Allemagne et le Royaume-Uni — le fameux E3 — ont officiellement déclenché
+      le mécanisme onusien du « snapback » contre l’Iran, réactivant le régime de sanctions
+      suspendu par l’accord nucléaire de 2015. Cette décision enclenche un processus
+      de 30 jours au terme duquel, sauf blocage, des sanctions spécifiques de l’ONU
+      seront automatiquement rétablies. Pour l’E3, il s’agit d’une étape jugée nécessaire
+      afin de sauver la diplomatie nucléaire et d’éviter une nouvelle guerre après les
+      douze jours de bombardements israélo-américains contre l’Iran. Les sanctions seront
+      automatiquement rétablies le 27 septembre 2025, à moins que le Conseil n’intervienne
+      pour bloquer la procédure. Pour Téhéran, il s’agit d’un test des intentions réelles
+      de l’Europe : s’agit-il de créer une pression pour négocier, ou simplement d’une
+      nouvelle escalade déguisée en diplomatie afin de complaire à Washington et de
+      fournir un prétexte supplémentaire pour une seconde guerre ? L’exigence de l’E3
+      est claire : l’Iran doit reprendre une pleine coopération avec l’Agence internationale
+      de l’énergie atomique (AIEA), révéler l’emplacement de ses 408 kilogrammes d’uranium
+      enrichi à 60 % et revenir à la table des négociations avec les États-Unis. Or,
+      l’E3 n’a jamais respecté sa propre part de l’accord de 2015. Après le retrait
+      de Donald Trump en 2018, les Européens ont eux-mêmes cessé toute coopération avec
+      Téhéran et accepté tacitement la guerre israélo-américaine contre les installations
+      nucléaires iraniennes et l’assassinat de ses scientifiques et de ses citoyens.
+      L’Europe est donc loin d’être en position d’exiger de l’Iran une quelconque conformité.
+      L’écart est immense et, pour Téhéran, reconstruire la relation n’est pas envisageable
+      sous la menace, même si la diplomatie — cet « art de l’impossible » — n’est pas
+      totalement écartée. L’ironie est flagrante. Lorsque le groupe E3 a été créé en
+      2003, son objectif était d’empêcher l’administration Bush de lancer une nouvelle
+      guerre au Moyen-Orient. Deux décennies plus tard, l’Europe est devenue beaucoup
+      plus dépendante économiquement, politiquement et stratégiquement des États-Unis.
+      L’Iran, autrefois considéré comme un partenaire énergétique crucial, est devenu
+      marginalisé par une succession de sanctions. Le contexte géopolitique s’est de
+      nouveau déplacé avec l’alignement croissant de l’Iran sur la Russie dans le conflit
+      ukrainien. Pour de nombreuses capitales européennes, faire pression sur Téhéran
+      ne relève plus uniquement de la non-prolifération nucléaire, mais vise aussi à
+      punir un allié de Moscou. S’aligner sur les faucons de Washington, même au prix
+      de la diplomatie, est devenu le prix à payer pour maintenir l’unité transatlantique.
+      La réaction internationale plus large démontre combien les gouvernements redoutent
+      une escalade. L’Allemagne a exhorté ses ressortissants à quitter l’Iran et à éviter
+      tout voyage vers ce pays, un avertissement repris par l’Australie, l’Inde et plusieurs
+      États européens et asiatiques, dont beaucoup facilitent désormais des évacuations
+      via les pays voisins. Ces mesures traduisent une conviction partagée : le snapback
+      ne restera pas un simple exercice procédural, mais pourrait provoquer des représailles
+      israélo-américaines aux conséquences imprévisibles. Washington, de son côté, a
+      renforcé la défense d’Israël en transférant des batteries de missiles THAAD depuis
+      les Émirats arabes unis vers le territoire israélien. Les missiles balistiques
+      iraniens avaient infligé de lourds dégâts à Israël lors de la deuxième semaine
+      de la guerre, et la prochaine confrontation s’annonce plus meurtrière encore.
+      Téhéran accélère ses préparatifs. Plusieurs signaux indiquent qu’une deuxième
+      guerre n’est pas à exclure — notamment si l’Iran continue de refuser les inspections
+      intrusives de l’AIEA sur tous ses sites, y compris ceux où est stocké l’uranium
+      enrichi à 60 % que les États-Unis et Israël n’ont pas réussi à détruire lors de
+      leur dernière vague de frappes. Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: La France, l'Allemagne et le Royaume-Uni ont activé le mécanisme
+      onusien du "snapback" contre l'Iran, rétablissant ainsi des sanctions de l'ONU
+      dans un effort pour préserver la diplomatie nucléaire et éviter une escalade militaire,
+      tandis que Téhéran remet en question les véritables intentions de l'Europe.
+    paragraph_summary: Le tweet d'Elijah J. Magnier annonce que la France, l'Allemagne
+      et le Royaume-Uni, regroupés sous le nom d'E3, ont activé le mécanisme de "snapback"
+      des sanctions de l'ONU contre l'Iran, rétablissant ainsi des sanctions suspendues
+      par l'accord nucléaire de 2015. Cette décision, qui déclenche un processus de
+      30 jours pour le rétablissement automatique des sanctions, vise à préserver la
+      diplomatie nucléaire et à éviter une escalade militaire après des frappes israélo-américaines
+      contre l'Iran. L'E3 exige que l'Iran coopère pleinement avec l'Agence internationale
+      de l'énergie atomique et revienne aux négociations, mais cette demande est contestée
+      par Téhéran, qui souligne que l'E3 n'a pas respecté ses engagements depuis le
+      retrait des États-Unis de l'accord en 2018. La situation est complexe, car l'Iran
+      ne voit pas de possibilité de reconstruire la relation sous la menace, bien que
+      la diplomatie ne soit pas complètement exclue.
+    published: '2025-09-02T17:06:47+00:00'
+  - title: Snapback ou Recul ? L’Europe, symbole du déclin de son autonomie, risque
+      la guerre au lieu de la paix
+    url: https://ejmagnier.com/2025/09/02/snapback-ou-recul-leurope-symbole-du-declin-de-son-autonomie-risque-la-guerre-au-lieu-de-la-paix/
+    text: 'Tweet Par Elijah J. Magnier – À New York, le compte à rebours a commencé.
+      La France, l’Allemagne et le Royaume-Uni — le fameux E3 — ont officiellement déclenché
+      le mécanisme onusien du « snapback » contre l’Iran, réactivant le régime de sanctions
+      suspendu par l’accord nucléaire de 2015. Cette décision enclenche un processus
+      de 30 jours au terme duquel, sauf blocage, des sanctions spécifiques de l’ONU
+      seront automatiquement rétablies. Pour l’E3, il s’agit d’une étape jugée nécessaire
+      afin de sauver la diplomatie nucléaire et d’éviter une nouvelle guerre après les
+      douze jours de bombardements israélo-américains contre l’Iran. Les sanctions seront
+      automatiquement rétablies le 27 septembre 2025, à moins que le Conseil n’intervienne
+      pour bloquer la procédure. Pour Téhéran, il s’agit d’un test des intentions réelles
+      de l’Europe : s’agit-il de créer une pression pour négocier, ou simplement d’une
+      nouvelle escalade déguisée en diplomatie afin de complaire à Washington et de
+      fournir un prétexte supplémentaire pour une seconde guerre ? L’exigence de l’E3
+      est claire : l’Iran doit reprendre une pleine coopération avec l’Agence internationale
+      de l’énergie atomique (AIEA), révéler l’emplacement de ses 408 kilogrammes d’uranium
+      enrichi à 60 % et revenir à la table des négociations avec les États-Unis. Or,
+      l’E3 n’a jamais respecté sa propre part de l’accord de 2015. Après le retrait
+      de Donald Trump en 2018, les Européens ont eux-mêmes cessé toute coopération avec
+      Téhéran et accepté tacitement la guerre israélo-américaine contre les installations
+      nucléaires iraniennes et l’assassinat de ses scientifiques et de ses citoyens.
+      L’Europe est donc loin d’être en position d’exiger de l’Iran une quelconque conformité.
+      L’écart est immense et, pour Téhéran, reconstruire la relation n’est pas envisageable
+      sous la menace, même si la diplomatie — cet « art de l’impossible » — n’est pas
+      totalement écartée. L’ironie est flagrante. Lorsque le groupe E3 a été créé en
+      2003, son objectif était d’empêcher l’administration Bush de lancer une nouvelle
+      guerre au Moyen-Orient. Deux décennies plus tard, l’Europe est devenue beaucoup
+      plus dépendante économiquement, politiquement et stratégiquement des États-Unis.
+      L’Iran, autrefois considéré comme un partenaire énergétique crucial, est devenu
+      marginalisé par une succession de sanctions. Le contexte géopolitique s’est de
+      nouveau déplacé avec l’alignement croissant de l’Iran sur la Russie dans le conflit
+      ukrainien. Pour de nombreuses capitales européennes, faire pression sur Téhéran
+      ne relève plus uniquement de la non-prolifération nucléaire, mais vise aussi à
+      punir un allié de Moscou. S’aligner sur les faucons de Washington, même au prix
+      de la diplomatie, est devenu le prix à payer pour maintenir l’unité transatlantique.
+      La réaction internationale plus large démontre combien les gouvernements redoutent
+      une escalade. L’Allemagne a exhorté ses ressortissants à quitter l’Iran et à éviter
+      tout voyage vers ce pays, un avertissement repris par l’Australie, l’Inde et plusieurs
+      États européens et asiatiques, dont beaucoup facilitent désormais des évacuations
+      via les pays voisins. Ces mesures traduisent une conviction partagée : le snapback
+      ne restera pas un simple exercice procédural, mais pourrait provoquer des représailles
+      israélo-américaines aux conséquences imprévisibles. Washington, de son côté, a
+      renforcé la défense d’Israël en transférant des batteries de missiles THAAD depuis
+      les Émirats arabes unis vers le territoire israélien. Les missiles balistiques
+      iraniens avaient infligé de lourds dégâts à Israël lors de la deuxième semaine
+      de la guerre, et la prochaine confrontation s’annonce plus meurtrière encore.
+      Téhéran accélère ses préparatifs. Plusieurs signaux indiquent qu’une deuxième
+      guerre n’est pas à exclure — notamment si l’Iran continue de refuser les inspections
+      intrusives de l’AIEA sur tous ses sites, y compris ceux où est stocké l’uranium
+      enrichi à 60 % que les États-Unis et Israël n’ont pas réussi à détruire lors de
+      leur dernière vague de frappes. Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Subscribe Submitting form Log in Make a
+      one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: La France, l'Allemagne et le Royaume-Uni ont activé le mécanisme
+      onusien du "snapback" contre l'Iran, rétablissant ainsi des sanctions de l'ONU
+      dans un effort pour préserver la diplomatie nucléaire et éviter une escalade militaire,
+      tandis que Téhéran remet en question les véritables intentions de l'Europe.
+    paragraph_summary: Le tweet d'Elijah J. Magnier annonce que la France, l'Allemagne
+      et le Royaume-Uni, regroupés sous le nom d'E3, ont activé le mécanisme de "snapback"
+      des sanctions de l'ONU contre l'Iran, rétablissant ainsi des sanctions suspendues
+      par l'accord nucléaire de 2015. Cette décision, qui déclenche un processus de
+      30 jours pour le rétablissement automatique des sanctions, vise à préserver la
+      diplomatie nucléaire et à éviter une escalade militaire après des frappes israélo-américaines
+      contre l'Iran. L'E3 exige que l'Iran coopère pleinement avec l'Agence internationale
+      de l'énergie atomique et revienne aux négociations, mais cette demande est contestée
+      par Téhéran, qui souligne que l'E3 n'a pas respecté ses engagements depuis le
+      retrait des États-Unis de l'accord en 2018. La situation est complexe, car l'Iran
+      ne voit pas de possibilité de reconstruire la relation sous la menace, bien que
+      la diplomatie ne soit pas complètement exclue.
+    published: '2025-09-02T17:06:47+00:00'
+  - title: 'Why Netanyahu Rejects Peace with Syria and Lebanon: Redrawing Borders with
+      US Support'
+    url: https://ejmagnier.com/2025/08/31/why-netanyahu-rejects-peace-with-syria-and-lebanon-redrawing-borders-with-us-support/
+    text: 'Tweet Sykes-Picot border lines are meaningless 30 August 2025 By Elijah J.
+      Magnier Benjamin Netanyahu has repeatedly presented himself as the guarantor of
+      Israel’s security, the man willing to confront threats where others waver. Yet
+      when it comes to Syria and Lebanon, the Israeli prime minister has shown little
+      appetite for normalisation. Instead, his policy is one of confrontation, entrenchment,
+      and expansion. The reason is simple: peace would require Israel to give up territory
+      it has occupied for decades, and Netanyahu — buoyed by a far-right coalition and
+      full US support under Donald Trump — sees territorial enlargement, not compromise,
+      as his legacy. Many in Lebanon still fail to recognise that US diplomacy — including
+      the missions of Washington’s special envoys — serves Israeli interests and nothing
+      else, and Lebanon’s interest is insignificant. To believe otherwise is to cling
+      to an illusion. The clearest proof came from U.S. Special envoy to Lebanon Barrack
+      Thomas, who declared: “ After the 7th of October, the world of Israel has changed.
+      Where their borders, boundaries and lines have changed. For Israel’s safety, Sykes-Picot
+      border lines are meaningless. They will go where they want, when they want, and
+      do what they want to protect the Israelis and their borders.” Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israeli Prime Minister Benjamin Netanyahu prioritizes territorial
+      expansion over normalization with Syria and Lebanon, driven by a far-right coalition
+      and U.S. support, while Lebanon remains largely unaware that U.S. diplomacy primarily
+      serves Israeli interests.
+    paragraph_summary: In an article by Elijah J. Magnier, Israeli Prime Minister Benjamin
+      Netanyahu is portrayed as a leader focused on confrontation and territorial expansion
+      rather than normalization with Syria and Lebanon, driven by a far-right coalition
+      and strong U.S. support under Donald Trump. Netanyahu's reluctance to pursue peace
+      is rooted in the need to relinquish long-occupied territories, which he views
+      as detrimental to his legacy. The article highlights the misconception among many
+      in Lebanon that U.S. diplomatic efforts serve Lebanese interests, emphasizing
+      that they primarily benefit Israel. This sentiment is echoed by U.S. Special Envoy
+      to Lebanon Barrack Thomas, who stated that traditional borders, such as those
+      established by the Sykes-Picot Agreement, have become irrelevant in the context
+      of Israel's security, allowing Israel to act unilaterally in the region.
+    published: '2025-08-31T04:23:43+00:00'
+  - title: 'Why Netanyahu Rejects Peace with Syria and Lebanon: Redrawing Borders with
+      US Support'
+    url: https://ejmagnier.com/2025/08/31/why-netanyahu-rejects-peace-with-syria-and-lebanon-redrawing-borders-with-us-support/
+    text: 'Tweet Sykes-Picot border lines are meaningless 30 August 2025 By Elijah J.
+      Magnier Benjamin Netanyahu has repeatedly presented himself as the guarantor of
+      Israel’s security, the man willing to confront threats where others waver. Yet
+      when it comes to Syria and Lebanon, the Israeli prime minister has shown little
+      appetite for normalisation. Instead, his policy is one of confrontation, entrenchment,
+      and expansion. The reason is simple: peace would require Israel to give up territory
+      it has occupied for decades, and Netanyahu — buoyed by a far-right coalition and
+      full US support under Donald Trump — sees territorial enlargement, not compromise,
+      as his legacy. Many in Lebanon still fail to recognise that US diplomacy — including
+      the missions of Washington’s special envoys — serves Israeli interests and nothing
+      else, and Lebanon’s interest is insignificant. To believe otherwise is to cling
+      to an illusion. The clearest proof came from U.S. Special envoy to Lebanon Barrack
+      Thomas, who declared: “ After the 7th of October, the world of Israel has changed.
+      Where their borders, boundaries and lines have changed. For Israel’s safety, Sykes-Picot
+      border lines are meaningless. They will go where they want, when they want, and
+      do what they want to protect the Israelis and their borders.” Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israeli Prime Minister Benjamin Netanyahu prioritizes territorial
+      expansion over normalization with Syria and Lebanon, driven by a far-right coalition
+      and U.S. support, while Lebanon remains largely unaware that U.S. diplomacy primarily
+      serves Israeli interests.
+    paragraph_summary: In an article by Elijah J. Magnier, Israeli Prime Minister Benjamin
+      Netanyahu is portrayed as a leader focused on confrontation and territorial expansion
+      rather than normalization with Syria and Lebanon, driven by a far-right coalition
+      and strong U.S. support under Donald Trump. Netanyahu's reluctance to pursue peace
+      is rooted in the need to relinquish long-occupied territories, which he views
+      as detrimental to his legacy. The article highlights the misconception among many
+      in Lebanon that U.S. diplomatic efforts serve Lebanese interests, emphasizing
+      that they primarily benefit Israel. This sentiment is echoed by U.S. Special Envoy
+      to Lebanon Barrack Thomas, who stated that traditional borders, such as those
+      established by the Sykes-Picot Agreement, have become irrelevant in the context
+      of Israel's security, allowing Israel to act unilaterally in the region.
+    published: '2025-08-31T04:23:43+00:00'
+  - title: 'Pourquoi Netanyahu rejette la paix avec la Syrie et le Liban : redessiner
+      les frontières avec le soutien des États-Unis'
+    url: https://ejmagnier.com/2025/08/31/pourquoi-netanyahu-rejette-la-paix-avec-la-syrie-et-le-liban-redessiner-les-frontieres-avec-le-soutien-des-etats-unis/
+    text: 'Tweet Les lignes de Sykes-Picot sont devenues insignifiantes 30 août 2025
+      Par Elijah J. Magnier Benjamin Netanyahu s’est à maintes reprises présenté comme
+      le garant de la sécurité d’Israël, l’homme prêt à affronter les menaces là où
+      d’autres hésitent. Pourtant, face à la Syrie et au Liban, le Premier ministre
+      israélien montre peu d’appétit pour une normalisation. Sa politique est plutôt
+      celle de la confrontation, de l’enracinement et de l’expansion. La raison est
+      simple : la paix obligerait Israël à abandonner des territoires occupés depuis
+      des décennies, et Netanyahu — porté par une coalition d’extrême droite et le soutien
+      total des États-Unis sous Donald Trump — considère l’agrandissement territorial,
+      et non le compromis, comme son héritage. Beaucoup au Liban continuent de ne pas
+      reconnaître que la diplomatie américaine — y compris les missions de ses envoyés
+      spéciaux — ne sert que les intérêts israéliens et rien d’autre, reléguant l’intérêt
+      libanais au second plan. Croire le contraire relève de l’illusion. La preuve la
+      plus claire est venue de l’envoyé spécial américain au Liban, Barrack Thomas,
+      qui a déclaré : « Après le 7 octobre, le monde d’Israël a changé. Ses frontières,
+      ses limites et ses lignes ont changé. Pour la sécurité d’Israël, les lignes de
+      Sykes-Picot sont insignifiantes. Ils iront où ils veulent, quand ils veulent,
+      et feront ce qu’ils veulent pour protéger les Israéliens et leurs frontières.
+      » Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Benjamin Netanyahu, en tant que Premier ministre israélien,
+      privilégie une politique de confrontation et d'expansion territoriale plutôt que
+      de normalisation avec la Syrie et le Liban, en raison de son alliance avec l'extrême
+      droite et du soutien des États-Unis, ce qui compromet les intérêts libanais au
+      profit d'Israël.
+    paragraph_summary: In an article by Elijah J. Magnier, it is argued that Israeli
+      Prime Minister Benjamin Netanyahu, despite his claims of being a protector of
+      Israel's security, is resistant to normalization with Syria and Lebanon, favoring
+      confrontation and territorial expansion instead. This stance is influenced by
+      his far-right coalition and the unwavering support of the U.S. under Donald Trump,
+      as he views territorial enlargement as part of his legacy rather than seeking
+      compromise. The article highlights the misconception among many in Lebanon regarding
+      American diplomacy, which primarily serves Israeli interests, as exemplified by
+      U.S. envoy Barrack Thomas's assertion that the traditional boundaries established
+      by the Sykes-Picot Agreement have become irrelevant for Israel's security, allowing
+      it to act freely in the region.
+    published: '2025-08-31T04:21:45+00:00'
+  - title: 'Pourquoi Netanyahu rejette la paix avec la Syrie et le Liban : redessiner
+      les frontières avec le soutien des États-Unis'
+    url: https://ejmagnier.com/2025/08/31/pourquoi-netanyahu-rejette-la-paix-avec-la-syrie-et-le-liban-redessiner-les-frontieres-avec-le-soutien-des-etats-unis/
+    text: 'Tweet Les lignes de Sykes-Picot sont devenues insignifiantes 30 août 2025
+      Par Elijah J. Magnier Benjamin Netanyahu s’est à maintes reprises présenté comme
+      le garant de la sécurité d’Israël, l’homme prêt à affronter les menaces là où
+      d’autres hésitent. Pourtant, face à la Syrie et au Liban, le Premier ministre
+      israélien montre peu d’appétit pour une normalisation. Sa politique est plutôt
+      celle de la confrontation, de l’enracinement et de l’expansion. La raison est
+      simple : la paix obligerait Israël à abandonner des territoires occupés depuis
+      des décennies, et Netanyahu — porté par une coalition d’extrême droite et le soutien
+      total des États-Unis sous Donald Trump — considère l’agrandissement territorial,
+      et non le compromis, comme son héritage. Beaucoup au Liban continuent de ne pas
+      reconnaître que la diplomatie américaine — y compris les missions de ses envoyés
+      spéciaux — ne sert que les intérêts israéliens et rien d’autre, reléguant l’intérêt
+      libanais au second plan. Croire le contraire relève de l’illusion. La preuve la
+      plus claire est venue de l’envoyé spécial américain au Liban, Barrack Thomas,
+      qui a déclaré : « Après le 7 octobre, le monde d’Israël a changé. Ses frontières,
+      ses limites et ses lignes ont changé. Pour la sécurité d’Israël, les lignes de
+      Sykes-Picot sont insignifiantes. Ils iront où ils veulent, quand ils veulent,
+      et feront ce qu’ils veulent pour protéger les Israéliens et leurs frontières.
+      » Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Benjamin Netanyahu, en tant que Premier ministre israélien,
+      privilégie une politique de confrontation et d'expansion territoriale plutôt que
+      de normalisation avec la Syrie et le Liban, en raison de son alliance avec l'extrême
+      droite et du soutien des États-Unis, ce qui compromet les intérêts libanais au
+      profit d'Israël.
+    paragraph_summary: In an article by Elijah J. Magnier, it is argued that Israeli
+      Prime Minister Benjamin Netanyahu, despite his claims of being a protector of
+      Israel's security, is resistant to normalization with Syria and Lebanon, favoring
+      confrontation and territorial expansion instead. This stance is influenced by
+      his far-right coalition and the unwavering support of the U.S. under Donald Trump,
+      as he views territorial enlargement as part of his legacy rather than seeking
+      compromise. The article highlights the misconception among many in Lebanon regarding
+      American diplomacy, which primarily serves Israeli interests, as exemplified by
+      U.S. envoy Barrack Thomas's assertion that the traditional boundaries established
+      by the Sykes-Picot Agreement have become irrelevant for Israel's security, allowing
+      it to act freely in the region.
+    published: '2025-08-31T04:21:45+00:00'
+  - title: 'Waarom Netanyahu vrede met Syrië en Libanon afwijst: grenzen hertekenen
+      met steun van de VS'
+    url: https://ejmagnier.com/2025/08/31/waarom-netanyahu-vrede-met-syrie-en-libanon-afwijst-grenzen-hertekenen-met-steun-van-de-vs/
+    text: 'Tweet De grenzen van Sykes-Picot zijn zinloos Geschreven door Elijah J. Magnier
+      – Vertaald door Francis J. Benjamin Netanyahu heeft zichzelf herhaaldelijk voorgesteld
+      als de garant voor de veiligheid van Israël, de man die bereid is om bedreigingen
+      het hoofd te bieden waar anderen aarzelen. Maar als het gaat om Syrië en Libanon,
+      heeft de Israëlische premier weinig animo getoond voor normalisatie. In plaats
+      daarvan voert hij een beleid van confrontatie, verankering en uitbreiding. De
+      reden is simpel: vrede zou betekenen dat Israël het gebied dat het al decennia
+      lang bezet houdt, moet opgeven, en Netanyahu – gesteund door een extreemrechtse
+      coalitie en de volledige steun van de VS onder Donald Trump – ziet territoriale
+      uitbreiding, en geen compromis, als zijn nalatenschap. Velen in Libanon zien nog
+      steeds niet in dat de Amerikaanse diplomatie – met inbegrip van de missies van
+      de speciale gezanten van Washington – uitsluitend de belangen van Israël dient
+      en dat de belangen van Libanon onbeduidend zijn. Anders denken is vasthouden aan
+      een illusie. Het duidelijkste bewijs hiervoor kwam van de Amerikaanse speciale
+      gezant voor Libanon, Barrack Thomas, die verklaarde: “ Na 7 oktober is de wereld
+      van Israël veranderd. Hun grenzen en scheidslijnen zijn veranderd. Voor de veiligheid
+      van Israël zijn de grenzen van Sykes-Picot zinloos. Ze gaan waar ze willen, wanneer
+      ze willen, en doen wat ze willen om de Israëli’s en hun grenzen te beschermen.”
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Een dergelijke verklaring is geen taal van bemiddeling; het is een onverbloemde
+      goedkeuring van Israëls bewuste strategie van territoriale expansie. Voor Libanon
+      vernietigt het elke resterende illusie dat Washington als neutrale bemiddelaar
+      optreedt. De woorden van de gezant bevestigen wat velen al vermoedden: de Amerikaanse
+      diplomatie in de regio functioneert minder als bemiddeling dan als een verlengstuk
+      van het Israëlische beleid – en dit verklaart waarom Netanyahu alle reden heeft
+      om normalisatie met zijn naaste buren te vermijden. Dat standpunt wordt nog versterkt
+      door president Donald Trump, die al vroeg in zijn presidentschap duidelijk maakte
+      hoe hij erover dacht. Met een pen in zijn hand vergeleek hij het grondgebied van
+      Israël met de punt ervan, waarbij hij betreurde dat het “een vrij klein stukje
+      land” was en liet doorschemeren dat zo’n staat niet voldoende was. De boodschap
+      was onmiskenbaar: Israël had volgens hem meer ruimte nodig – een sentiment dat
+      Netanyahu heeft gebruikt als politieke dekmantel voor expansie. Bezette gebieden
+      als pressiemiddel De kern van de zaak is het grondgebied. Israël blijft de Golanhoogte
+      bezetten, die in 1967 op Syrië is veroverd en in 1981 is geannexeerd – een stap
+      die nooit door de internationale gemeenschap is erkend. Sinds de omverwerping
+      van Bashar al-Assad heeft Israël zijn bezetting verder uitgebreid, zijn controle
+      over de rest van de Hermonberg geconsolideerd en is het opgerukt naar delen van
+      de provincies Quneitra, Daraa en Suweida. Zijn speciale troepen kunnen op slechts
+      enkele kilometers van Damascus landen zonder veel weerstand, vrij opereren en
+      naar believen toeslaan op Syrisch grondgebied.I n Libanon bezet Israël de Shebaa-boerderijen,
+      de Kfar Shouba-heuvels en delen van het dorp Ghajar. De afgelopen jaren heeft
+      het zich verschanst op vijf betwiste heuvels en zijn aanwezigheid uitgebreid tot
+      acht, waardoor het zijn bufferzone effectief heeft vergroot en het gebied dat
+      grenst aan Metula in Galilea heeft uitgebreid. Normalisatie met Syrië of Libanon
+      zou onvermijdelijk de kwestie van terugtrekking uit deze bezette gebieden op tafel
+      brengen – een concessie die Netanyahu niet van plan is te doen. Voor Netanyahu
+      zou elke overeenkomst betekenen dat hij land moet afstaan dat hij en zijn politieke
+      bondgenoten beschouwen als een overwinning voor Israël en dat het strategisch
+      onmisbaar is om de bekende grenskaarten rond Israël te wijzigen. De Golanhoogte,
+      de Hermonberg en het zuiden van Syrië met zijn hooggelegen terrein bieden Israël
+      zowel een natuurlijke verdedigingsbarrière als toegang tot vitale waterbronnen.
+      De zuidelijke Libanese gebieden vormen een symbolische grens en een bufferzone
+      met Hezbollah – een bufferzone die Netanyahu niet van plan is op te geven. De
+      Trump-factor De onverzettelijkheid wordt versterkt door Washington. Onder Donald
+      Trump geniet Israël ongekende steun. In 2019 erkende Trump formeel de Israëlische
+      soevereiniteit over de Golanhoogte, waarmee hij brak met decennia van Amerikaans
+      beleid en internationale consensus. Dit moedigde Netanyahu aan om zijn expansionistische
+      visie te verdubbelen, in de veronderstelling dat geen enkele internationale druk
+      Israël realistisch gezien zou kunnen dwingen zich terug te trekken. Nu de VS Israël
+      beschermt in de VN-Veiligheidsraad, is er weinig reden om compromissen te sluiten
+      met Damascus of Beiroet. Integendeel, de voortdurende bezetting wordt beloond
+      met politieke dekking vanuit Washington, naast alle wapens, munitie en inlichtingenondersteuning
+      die worden aangeboden ten dienste van de doelstellingen van Israël. Netanyahu
+      heeft ook zijn politieke lot verbonden aan een ideologie van expansie. Hij heeft
+      herhaaldelijk gesproken over het effenen van de weg voor een “Groot-Israël”, een
+      visie die al lang gekoesterd wordt door de zionistische rechtervleugel. Voor hem
+      betekent dit niet alleen het consolideren van Israëls greep op de Westelijke Jordaanoever,
+      maar ook het versterken van zijn aanwezigheid in gebieden die zijn veroverd op
+      buurlanden. Extreemrechtse ministers in zijn coalitie – van wie sommigen openlijk
+      pleiten voor annexatie van de Westelijke Jordaanoever en verdrijving van de Palestijnen
+      – versterken deze koers. Voor hen is elke terugtrekking verraad. Normalisering
+      met Syrië en Libanon, als dat zou betekenen dat de Golan of de Shebaa-boerderijen
+      of andere bezette gebieden moeten worden opgegeven, zou niet alleen de strategische
+      diepgang van Israël verzwakken, maar ook de coalitie van Netanyahu doen uiteenvallen.
+      Omdat zijn politieke voortbestaan afhankelijk is van extreemrechts, heeft hij
+      geen ruimte en geen behoefte aan compromissen. Door Syrië officieel “in oorlog”
+      te houden, kan Netanyahu de voortdurende militaire aanwezigheid van Israël in
+      de Golan en op Syrisch grondgebied rechtvaardigen. Ondanks het feit dat Syrië
+      de facto niet langer in een “oorlogstoestand” verkeert – zijn strijdkrachten hebben
+      al jaren geen schot meer gelost – blijft Israël posities diep in Syrisch grondgebied
+      aanvallen. Enkele dagen geleden landden Israëlische speciale eenheden per helikopter
+      in al-Kiswa, op minder dan 20 kilometer van Damascus, en voerden daar urenlang
+      operaties uit voordat ze zich terugtrokken. Dit soort invallen illustreren duidelijk
+      waarom Netanyahu geen belang heeft bij het beëindigen van de vijandelijkheden:
+      zolang Syrië geen Israëlische ambassade in Damascus heeft, heeft Israël de vrije
+      hand om zonder gevolgen aanvallen uit te voeren, troepen te landen en zijn bufferzone
+      uit te breiden. Normalisering en diplomatieke betrekkingen zouden Israël dit voorwendsel
+      ontnemen. Als Syrië als vredespartner zou worden erkend, zou elke Israëlische
+      aanval niet als preventieve zelfverdediging worden beschouwd, maar als agressie.
+      Voor Netanyahu is dat verlies aan strategische flexibiliteit onaanvaardbaar. Door
+      de status quo te handhaven blijft Damascus zwak, blijft Hezbollah in bedwang en
+      kan Israël vrijwel ongehinderd nederzettingen in de Golan uitbreiden. Libanon
+      vormt een andere uitdaging dan Syrië. De militaire capaciteiten van Hezbollah
+      zijn sinds de oorlog van 2006 drastisch uitgebreid, waardoor een afschrikwekkend
+      effect is ontstaan dat Israël ervan weerhoudt grootschalige offensieven te lanceren.
+      Toch stelt het bestaan van betwiste gebieden zoals de Shebaa-boerderijen, samen
+      met de gebieden die na de oorlog van september 2024 nieuw zijn bezet, Netanyahu
+      nog steeds in staat om Libanon als een voortdurende bedreiging voor de veiligheid
+      te bestempelen. Op het terrein heeft Israël zijn bufferzone gestaag uitgebreid.
+      Wat begon met vijf nieuw bezette heuvels is nu uitgebreid tot acht, waaronder
+      posities in Edayse, Kfarkila en andere grensgebieden. Deze sluipende annexatie
+      maakt de intentie van Israël onmiskenbaar: geen de-escalatie, maar geleidelijke
+      inbreuk. Netanyahu’s weigering om in te gaan op de door Beiroet verklaarde bereidheid
+      om te onderhandelen over de ontwapening van Hezbollah in ruil voor volledige terugtrekking
+      van Israël, legt zijn prioriteiten nog meer bloot. Een dergelijke overeenkomst
+      zou een einde kunnen maken aan decennia van vijandigheid, maar daarvoor zou Israël
+      grondgebied moeten afstaan en de soevereiniteit van Libanon moeten erkennen, wat
+      Netanyahu onaanvaardbaar vindt. Voor hem is het handhaven van de bezetting te
+      verkiezen, zelfs als dat de dreiging in stand houdt waartegen hij zegt te strijden,
+      en Hezbollah zijn bestaansrecht geeft als zelfbenoemde verzetsbeweging en verdediger
+      van het Libanese grondgebied. Netanyahu’s afweging wordt ook bepaald door binnenlandse
+      politieke realiteiten. Zijn coalitie wordt gedragen door extreemrechtse partijen
+      waarvan het programma draait om uitbreiding en nederzettingen. Figuren als minister
+      van Veiligheid Itamar Ben-Gvir en minister van Financiën Bezalel Smotrich beschouwen
+      elke territoriale concessie als ketterij. Als Netanyahu zou streven naar normalisatie
+      met Syrië of Libanon ten koste van zelfs maar een beperkte terugtrekking, zou
+      zijn coalitie uiteenvallen. Voor een premier die sinds 7 oktober al te maken heeft
+      met beschuldigingen van corruptie en politieke uitdagingen, vereist het vasthouden
+      aan de macht dat hij tegemoetkomt aan de meest extreme elementen van de Israëlische
+      politiek. Vrede is in deze context politiek zelfmoord. De illusie van normalisatie
+      elders Netanyahu’s omarming van de Abraham-akkoorden met de Golfstaten bewijst
+      misschien dat hij niet tegen normalisatie op zich is. Maar deze akkoorden, met
+      landen als de VAE en Bahrein, vereisten geen territoriale concessies. Integendeel,
+      ze stelden Israël in staat diplomatieke en economische voordelen te behalen terwijl
+      het de uitbreiding van nederzettingen in Gaza en de Westelijke Jordaanoever voortzette.
+      Normalisering met Syrië en Libanon is een andere zaak. Dat zou terugtrekking uit
+      bezet gebied, erkenning van Arabische soevereiniteit en concessies vereisen die
+      indruisen tegen het hele politieke programma van Netanyahu. Voor hem is vrede
+      met verre Golfmonarchieën gunstig; vrede met directe buren is voorlopig contraproductief.
+      Door te weigeren te normaliseren, houdt Netanyahu ook de bredere regionale ambities
+      van Israël in stand. In de Golan is de uitbreiding van de Israëlische nederzettingen
+      versneld, met plannen om het aantal kolonisten in het komende decennium te verdubbelen.
+      In Zuid-Libanon weerspiegelt de geleidelijke verankering van Israël in nieuwe
+      heuvels en buffergebieden dezelfde logica: het consolideren van territoriale winst
+      en het creëren van “feiten op het terrein” die onomkeerbaar worden. Normalisatie
+      zou dit momentum stoppen. Confrontatie daarentegen maakt het mogelijk om onder
+      het mom van veiligheidsbehoeften door te gaan met uitbreiding. Ondanks kritiek
+      van de Verenigde Naties en een groot deel van het Zuiden, betaalt Israël weinig
+      prijs voor de bezetting. Het veto van de VS in de Veiligheidsraad garandeert straffeloosheid.
+      Europese regeringen zijn weliswaar kritisch in hun retoriek, maar niet bereid
+      om serieuze sancties op te leggen. Voor Netanyahu betekent dit dat voortdurende
+      confrontatie met Syrië en Libanon minimale internationale kosten met zich meebrengt.
+      In feite zou normalisatie de diplomatieke positie van Israël kunnen compliceren
+      door het te verplichten overeenkomsten na te leven die het weinig van plan is
+      te honoreren. Door vrede af te wijzen, vermijdt Netanyahu bindende verplichtingen
+      en geniet hij tegelijkertijd ononderbroken steun van de VS. Conclusie: uitbreiding
+      boven vrede Benjamin Netanyahu heeft geen belang bij normalisatie met Syrië en
+      Libanon, omdat vrede terugtrekking zou betekenen. Voor hem zijn de bezette gebieden
+      geen onderhandelingsmiddel, maar een opstapje naar een ‘Groot-Israël’. Gesteund
+      door een extreemrechtse coalitie, aangemoedigd door de onwankelbare steun van
+      Donald Trump en overtuigd van zijn eigen politieke onkwetsbaarheid, ziet Netanyahu
+      uitbreiding als zowel een strategie als een lotsbestemming. Syrië en Libanon,
+      zwak en verdeeld, dienen zijn verhaal als eeuwige vijanden. Normalisering zou
+      de bezettingen van Israël blootleggen, Hezbollah en Damascus diplomatiek versterken
+      en zijn regering in eigen land versplinteren. Confrontatie daarentegen stelt hem
+      in staat om territoriale winst te behouden, militaire aanvallen te rechtvaardigen
+      en zijn coalitie te verenigen. De ironie is dat juist het mechanisme dat bedoeld
+      is om de veiligheid van Israël te waarborgen – vredesakkoorden – nu een bedreiging
+      vormt voor het politieke project waarop Netanyahu zijn carrière heeft gebouwd.
+      En nu Washington zijn ambities onderschrijft, is de dekmantel compleet. Wanneer
+      de Amerikaanse presidentiële gezant Barrack Thomas verklaart dat “ voor de veiligheid
+      van Israël de grenzen van Sykes-Picot betekenisloos zijn; zij gaan waar zij willen,
+      wanneer zij willen, en doen wat zij willen” , is dat meer dan retoriek. Het is
+      een vrijbrief voor Israël om zich onbeperkt uit te breiden, een politieke garantie
+      dat Netanyahu zich kan verzetten tegen elke poging tot normalisatie. Vrede is
+      in deze context geen kans, maar een gevaar. Uitbreiding is het echte beleid –
+      en zolang de Verenigde Staten dit openlijk steunen, heeft Netanyahu alle reden
+      om te kiezen voor confrontatie, uitbreiding en meer oorlogen in plaats van compromissen.
+      Subscribe Submitting form Log in Make a one-time donation Your contribution is
+      appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Israël's premier Netanyahu, gesteund door een extreemrechtse
+      coalitie en de VS, verzet zich tegen normalisatie met Syrië en Libanon en kiest
+      voor confrontatie en territoriale uitbreiding, wat de belangen van Libanon negeert.
+    paragraph_summary: In een artikel van Elijah J. Magnier, vertaald door Francis J.
+      Benjamin, wordt betoogd dat de Israëlische premier Benjamin Netanyahu zich presenteert
+      als de beschermer van Israël's veiligheid, maar in werkelijkheid een beleid van
+      confrontatie en territoriale uitbreiding volgt in plaats van normalisatie met
+      Syrië en Libanon. Dit komt voort uit de angst om gebieden op te geven die Israël
+      al decennia bezet houdt, en wordt versterkt door de steun van een extreemrechtse
+      coalitie en de Verenigde Staten onder Donald Trump. De Amerikaanse diplomatie,
+      zoals geïllustreerd door de opmerkingen van speciale gezant Barrack Thomas, dient
+      voornamelijk de belangen van Israël en bevestigt dat Washington geen neutrale
+      bemiddelaar is, maar eerder een verlengstuk van het Israëlische beleid, waardoor
+      de hoop op een eerlijke oplossing voor Libanon verder vervaagt.
+    published: '2025-08-31T04:21:00+00:00'
+  - title: 'Waarom Netanyahu vrede met Syrië en Libanon afwijst: grenzen hertekenen
+      met steun van de VS'
+    url: https://ejmagnier.com/2025/08/31/waarom-netanyahu-vrede-met-syrie-en-libanon-afwijst-grenzen-hertekenen-met-steun-van-de-vs/
+    text: 'Tweet De grenzen van Sykes-Picot zijn zinloos Geschreven door Elijah J. Magnier
+      – Vertaald door Francis J. Benjamin Netanyahu heeft zichzelf herhaaldelijk voorgesteld
+      als de garant voor de veiligheid van Israël, de man die bereid is om bedreigingen
+      het hoofd te bieden waar anderen aarzelen. Maar als het gaat om Syrië en Libanon,
+      heeft de Israëlische premier weinig animo getoond voor normalisatie. In plaats
+      daarvan voert hij een beleid van confrontatie, verankering en uitbreiding. De
+      reden is simpel: vrede zou betekenen dat Israël het gebied dat het al decennia
+      lang bezet houdt, moet opgeven, en Netanyahu – gesteund door een extreemrechtse
+      coalitie en de volledige steun van de VS onder Donald Trump – ziet territoriale
+      uitbreiding, en geen compromis, als zijn nalatenschap. Velen in Libanon zien nog
+      steeds niet in dat de Amerikaanse diplomatie – met inbegrip van de missies van
+      de speciale gezanten van Washington – uitsluitend de belangen van Israël dient
+      en dat de belangen van Libanon onbeduidend zijn. Anders denken is vasthouden aan
+      een illusie. Het duidelijkste bewijs hiervoor kwam van de Amerikaanse speciale
+      gezant voor Libanon, Barrack Thomas, die verklaarde: “ Na 7 oktober is de wereld
+      van Israël veranderd. Hun grenzen en scheidslijnen zijn veranderd. Voor de veiligheid
+      van Israël zijn de grenzen van Sykes-Picot zinloos. Ze gaan waar ze willen, wanneer
+      ze willen, en doen wat ze willen om de Israëli’s en hun grenzen te beschermen.”
+      Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Een dergelijke verklaring is geen taal van bemiddeling; het is een onverbloemde
+      goedkeuring van Israëls bewuste strategie van territoriale expansie. Voor Libanon
+      vernietigt het elke resterende illusie dat Washington als neutrale bemiddelaar
+      optreedt. De woorden van de gezant bevestigen wat velen al vermoedden: de Amerikaanse
+      diplomatie in de regio functioneert minder als bemiddeling dan als een verlengstuk
+      van het Israëlische beleid – en dit verklaart waarom Netanyahu alle reden heeft
+      om normalisatie met zijn naaste buren te vermijden. Dat standpunt wordt nog versterkt
+      door president Donald Trump, die al vroeg in zijn presidentschap duidelijk maakte
+      hoe hij erover dacht. Met een pen in zijn hand vergeleek hij het grondgebied van
+      Israël met de punt ervan, waarbij hij betreurde dat het “een vrij klein stukje
+      land” was en liet doorschemeren dat zo’n staat niet voldoende was. De boodschap
+      was onmiskenbaar: Israël had volgens hem meer ruimte nodig – een sentiment dat
+      Netanyahu heeft gebruikt als politieke dekmantel voor expansie. Bezette gebieden
+      als pressiemiddel De kern van de zaak is het grondgebied. Israël blijft de Golanhoogte
+      bezetten, die in 1967 op Syrië is veroverd en in 1981 is geannexeerd – een stap
+      die nooit door de internationale gemeenschap is erkend. Sinds de omverwerping
+      van Bashar al-Assad heeft Israël zijn bezetting verder uitgebreid, zijn controle
+      over de rest van de Hermonberg geconsolideerd en is het opgerukt naar delen van
+      de provincies Quneitra, Daraa en Suweida. Zijn speciale troepen kunnen op slechts
+      enkele kilometers van Damascus landen zonder veel weerstand, vrij opereren en
+      naar believen toeslaan op Syrisch grondgebied.I n Libanon bezet Israël de Shebaa-boerderijen,
+      de Kfar Shouba-heuvels en delen van het dorp Ghajar. De afgelopen jaren heeft
+      het zich verschanst op vijf betwiste heuvels en zijn aanwezigheid uitgebreid tot
+      acht, waardoor het zijn bufferzone effectief heeft vergroot en het gebied dat
+      grenst aan Metula in Galilea heeft uitgebreid. Normalisatie met Syrië of Libanon
+      zou onvermijdelijk de kwestie van terugtrekking uit deze bezette gebieden op tafel
+      brengen – een concessie die Netanyahu niet van plan is te doen. Voor Netanyahu
+      zou elke overeenkomst betekenen dat hij land moet afstaan dat hij en zijn politieke
+      bondgenoten beschouwen als een overwinning voor Israël en dat het strategisch
+      onmisbaar is om de bekende grenskaarten rond Israël te wijzigen. De Golanhoogte,
+      de Hermonberg en het zuiden van Syrië met zijn hooggelegen terrein bieden Israël
+      zowel een natuurlijke verdedigingsbarrière als toegang tot vitale waterbronnen.
+      De zuidelijke Libanese gebieden vormen een symbolische grens en een bufferzone
+      met Hezbollah – een bufferzone die Netanyahu niet van plan is op te geven. De
+      Trump-factor De onverzettelijkheid wordt versterkt door Washington. Onder Donald
+      Trump geniet Israël ongekende steun. In 2019 erkende Trump formeel de Israëlische
+      soevereiniteit over de Golanhoogte, waarmee hij brak met decennia van Amerikaans
+      beleid en internationale consensus. Dit moedigde Netanyahu aan om zijn expansionistische
+      visie te verdubbelen, in de veronderstelling dat geen enkele internationale druk
+      Israël realistisch gezien zou kunnen dwingen zich terug te trekken. Nu de VS Israël
+      beschermt in de VN-Veiligheidsraad, is er weinig reden om compromissen te sluiten
+      met Damascus of Beiroet. Integendeel, de voortdurende bezetting wordt beloond
+      met politieke dekking vanuit Washington, naast alle wapens, munitie en inlichtingenondersteuning
+      die worden aangeboden ten dienste van de doelstellingen van Israël. Netanyahu
+      heeft ook zijn politieke lot verbonden aan een ideologie van expansie. Hij heeft
+      herhaaldelijk gesproken over het effenen van de weg voor een “Groot-Israël”, een
+      visie die al lang gekoesterd wordt door de zionistische rechtervleugel. Voor hem
+      betekent dit niet alleen het consolideren van Israëls greep op de Westelijke Jordaanoever,
+      maar ook het versterken van zijn aanwezigheid in gebieden die zijn veroverd op
+      buurlanden. Extreemrechtse ministers in zijn coalitie – van wie sommigen openlijk
+      pleiten voor annexatie van de Westelijke Jordaanoever en verdrijving van de Palestijnen
+      – versterken deze koers. Voor hen is elke terugtrekking verraad. Normalisering
+      met Syrië en Libanon, als dat zou betekenen dat de Golan of de Shebaa-boerderijen
+      of andere bezette gebieden moeten worden opgegeven, zou niet alleen de strategische
+      diepgang van Israël verzwakken, maar ook de coalitie van Netanyahu doen uiteenvallen.
+      Omdat zijn politieke voortbestaan afhankelijk is van extreemrechts, heeft hij
+      geen ruimte en geen behoefte aan compromissen. Door Syrië officieel “in oorlog”
+      te houden, kan Netanyahu de voortdurende militaire aanwezigheid van Israël in
+      de Golan en op Syrisch grondgebied rechtvaardigen. Ondanks het feit dat Syrië
+      de facto niet langer in een “oorlogstoestand” verkeert – zijn strijdkrachten hebben
+      al jaren geen schot meer gelost – blijft Israël posities diep in Syrisch grondgebied
+      aanvallen. Enkele dagen geleden landden Israëlische speciale eenheden per helikopter
+      in al-Kiswa, op minder dan 20 kilometer van Damascus, en voerden daar urenlang
+      operaties uit voordat ze zich terugtrokken. Dit soort invallen illustreren duidelijk
+      waarom Netanyahu geen belang heeft bij het beëindigen van de vijandelijkheden:
+      zolang Syrië geen Israëlische ambassade in Damascus heeft, heeft Israël de vrije
+      hand om zonder gevolgen aanvallen uit te voeren, troepen te landen en zijn bufferzone
+      uit te breiden. Normalisering en diplomatieke betrekkingen zouden Israël dit voorwendsel
+      ontnemen. Als Syrië als vredespartner zou worden erkend, zou elke Israëlische
+      aanval niet als preventieve zelfverdediging worden beschouwd, maar als agressie.
+      Voor Netanyahu is dat verlies aan strategische flexibiliteit onaanvaardbaar. Door
+      de status quo te handhaven blijft Damascus zwak, blijft Hezbollah in bedwang en
+      kan Israël vrijwel ongehinderd nederzettingen in de Golan uitbreiden. Libanon
+      vormt een andere uitdaging dan Syrië. De militaire capaciteiten van Hezbollah
+      zijn sinds de oorlog van 2006 drastisch uitgebreid, waardoor een afschrikwekkend
+      effect is ontstaan dat Israël ervan weerhoudt grootschalige offensieven te lanceren.
+      Toch stelt het bestaan van betwiste gebieden zoals de Shebaa-boerderijen, samen
+      met de gebieden die na de oorlog van september 2024 nieuw zijn bezet, Netanyahu
+      nog steeds in staat om Libanon als een voortdurende bedreiging voor de veiligheid
+      te bestempelen. Op het terrein heeft Israël zijn bufferzone gestaag uitgebreid.
+      Wat begon met vijf nieuw bezette heuvels is nu uitgebreid tot acht, waaronder
+      posities in Edayse, Kfarkila en andere grensgebieden. Deze sluipende annexatie
+      maakt de intentie van Israël onmiskenbaar: geen de-escalatie, maar geleidelijke
+      inbreuk. Netanyahu’s weigering om in te gaan op de door Beiroet verklaarde bereidheid
+      om te onderhandelen over de ontwapening van Hezbollah in ruil voor volledige terugtrekking
+      van Israël, legt zijn prioriteiten nog meer bloot. Een dergelijke overeenkomst
+      zou een einde kunnen maken aan decennia van vijandigheid, maar daarvoor zou Israël
+      grondgebied moeten afstaan en de soevereiniteit van Libanon moeten erkennen, wat
+      Netanyahu onaanvaardbaar vindt. Voor hem is het handhaven van de bezetting te
+      verkiezen, zelfs als dat de dreiging in stand houdt waartegen hij zegt te strijden,
+      en Hezbollah zijn bestaansrecht geeft als zelfbenoemde verzetsbeweging en verdediger
+      van het Libanese grondgebied. Netanyahu’s afweging wordt ook bepaald door binnenlandse
+      politieke realiteiten. Zijn coalitie wordt gedragen door extreemrechtse partijen
+      waarvan het programma draait om uitbreiding en nederzettingen. Figuren als minister
+      van Veiligheid Itamar Ben-Gvir en minister van Financiën Bezalel Smotrich beschouwen
+      elke territoriale concessie als ketterij. Als Netanyahu zou streven naar normalisatie
+      met Syrië of Libanon ten koste van zelfs maar een beperkte terugtrekking, zou
+      zijn coalitie uiteenvallen. Voor een premier die sinds 7 oktober al te maken heeft
+      met beschuldigingen van corruptie en politieke uitdagingen, vereist het vasthouden
+      aan de macht dat hij tegemoetkomt aan de meest extreme elementen van de Israëlische
+      politiek. Vrede is in deze context politiek zelfmoord. De illusie van normalisatie
+      elders Netanyahu’s omarming van de Abraham-akkoorden met de Golfstaten bewijst
+      misschien dat hij niet tegen normalisatie op zich is. Maar deze akkoorden, met
+      landen als de VAE en Bahrein, vereisten geen territoriale concessies. Integendeel,
+      ze stelden Israël in staat diplomatieke en economische voordelen te behalen terwijl
+      het de uitbreiding van nederzettingen in Gaza en de Westelijke Jordaanoever voortzette.
+      Normalisering met Syrië en Libanon is een andere zaak. Dat zou terugtrekking uit
+      bezet gebied, erkenning van Arabische soevereiniteit en concessies vereisen die
+      indruisen tegen het hele politieke programma van Netanyahu. Voor hem is vrede
+      met verre Golfmonarchieën gunstig; vrede met directe buren is voorlopig contraproductief.
+      Door te weigeren te normaliseren, houdt Netanyahu ook de bredere regionale ambities
+      van Israël in stand. In de Golan is de uitbreiding van de Israëlische nederzettingen
+      versneld, met plannen om het aantal kolonisten in het komende decennium te verdubbelen.
+      In Zuid-Libanon weerspiegelt de geleidelijke verankering van Israël in nieuwe
+      heuvels en buffergebieden dezelfde logica: het consolideren van territoriale winst
+      en het creëren van “feiten op het terrein” die onomkeerbaar worden. Normalisatie
+      zou dit momentum stoppen. Confrontatie daarentegen maakt het mogelijk om onder
+      het mom van veiligheidsbehoeften door te gaan met uitbreiding. Ondanks kritiek
+      van de Verenigde Naties en een groot deel van het Zuiden, betaalt Israël weinig
+      prijs voor de bezetting. Het veto van de VS in de Veiligheidsraad garandeert straffeloosheid.
+      Europese regeringen zijn weliswaar kritisch in hun retoriek, maar niet bereid
+      om serieuze sancties op te leggen. Voor Netanyahu betekent dit dat voortdurende
+      confrontatie met Syrië en Libanon minimale internationale kosten met zich meebrengt.
+      In feite zou normalisatie de diplomatieke positie van Israël kunnen compliceren
+      door het te verplichten overeenkomsten na te leven die het weinig van plan is
+      te honoreren. Door vrede af te wijzen, vermijdt Netanyahu bindende verplichtingen
+      en geniet hij tegelijkertijd ononderbroken steun van de VS. Conclusie: uitbreiding
+      boven vrede Benjamin Netanyahu heeft geen belang bij normalisatie met Syrië en
+      Libanon, omdat vrede terugtrekking zou betekenen. Voor hem zijn de bezette gebieden
+      geen onderhandelingsmiddel, maar een opstapje naar een ‘Groot-Israël’. Gesteund
+      door een extreemrechtse coalitie, aangemoedigd door de onwankelbare steun van
+      Donald Trump en overtuigd van zijn eigen politieke onkwetsbaarheid, ziet Netanyahu
+      uitbreiding als zowel een strategie als een lotsbestemming. Syrië en Libanon,
+      zwak en verdeeld, dienen zijn verhaal als eeuwige vijanden. Normalisering zou
+      de bezettingen van Israël blootleggen, Hezbollah en Damascus diplomatiek versterken
+      en zijn regering in eigen land versplinteren. Confrontatie daarentegen stelt hem
+      in staat om territoriale winst te behouden, militaire aanvallen te rechtvaardigen
+      en zijn coalitie te verenigen. De ironie is dat juist het mechanisme dat bedoeld
+      is om de veiligheid van Israël te waarborgen – vredesakkoorden – nu een bedreiging
+      vormt voor het politieke project waarop Netanyahu zijn carrière heeft gebouwd.
+      En nu Washington zijn ambities onderschrijft, is de dekmantel compleet. Wanneer
+      de Amerikaanse presidentiële gezant Barrack Thomas verklaart dat “ voor de veiligheid
+      van Israël de grenzen van Sykes-Picot betekenisloos zijn; zij gaan waar zij willen,
+      wanneer zij willen, en doen wat zij willen” , is dat meer dan retoriek. Het is
+      een vrijbrief voor Israël om zich onbeperkt uit te breiden, een politieke garantie
+      dat Netanyahu zich kan verzetten tegen elke poging tot normalisatie. Vrede is
+      in deze context geen kans, maar een gevaar. Uitbreiding is het echte beleid –
+      en zolang de Verenigde Staten dit openlijk steunen, heeft Netanyahu alle reden
+      om te kiezen voor confrontatie, uitbreiding en meer oorlogen in plaats van compromissen.
+      Subscribe Submitting form Log in Make a one-time donation Your contribution is
+      appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Israël's premier Netanyahu, gesteund door een extreemrechtse
+      coalitie en de VS, verzet zich tegen normalisatie met Syrië en Libanon en kiest
+      voor confrontatie en territoriale uitbreiding, wat de belangen van Libanon negeert.
+    paragraph_summary: In een artikel van Elijah J. Magnier, vertaald door Francis J.
+      Benjamin, wordt betoogd dat de Israëlische premier Benjamin Netanyahu zich presenteert
+      als de beschermer van Israël's veiligheid, maar in werkelijkheid een beleid van
+      confrontatie en territoriale uitbreiding volgt in plaats van normalisatie met
+      Syrië en Libanon. Dit komt voort uit de angst om gebieden op te geven die Israël
+      al decennia bezet houdt, en wordt versterkt door de steun van een extreemrechtse
+      coalitie en de Verenigde Staten onder Donald Trump. De Amerikaanse diplomatie,
+      zoals geïllustreerd door de opmerkingen van speciale gezant Barrack Thomas, dient
+      voornamelijk de belangen van Israël en bevestigt dat Washington geen neutrale
+      bemiddelaar is, maar eerder een verlengstuk van het Israëlische beleid, waardoor
+      de hoop op een eerlijke oplossing voor Libanon verder vervaagt.
+    published: '2025-08-31T04:21:00+00:00'
+  - title: 'Warum Netanjahu den Frieden mit Syrien und dem Libanon ablehnt: Neufestlegung
+      der Grenzen mit Unterstützung der USA'
+    url: https://ejmagnier.com/2025/08/31/warum-netanjahu-den-frieden-mit-syrien-und-dem-libanon-ablehnt-neufestlegung-der-grenzen-mit-unterstutzung-der-usa/
+    text: 'Tweet Die Sykes-Picot-Grenzen sind bedeutungslos Von Elijah J. Magnier Benjamin
+      Netanjahu hat sich wiederholt als Garant für die Sicherheit Israels präsentiert,
+      als der Mann, der bereit ist, sich Bedrohungen zu stellen, wo andere zögern. Doch
+      wenn es um Syrien und den Libanon geht, zeigt der israelische Premierminister
+      wenig Interesse an einer Normalisierung. Stattdessen verfolgt er eine Politik
+      der Konfrontation, der Verhärtung und der Expansion. Der Grund dafür ist einfach:
+      Frieden würde bedeuten, dass Israel Gebiete aufgeben müsste, die es seit Jahrzehnten
+      besetzt hält, und Netanjahu – gestützt durch eine rechtsextreme Koalition und
+      die volle Unterstützung der USA unter Donald Trump – sieht nicht Kompromisse,
+      sondern territoriale Erweiterungen als sein Vermächtnis. Viele im Libanon erkennen
+      immer noch nicht, dass die US-Diplomatie – einschließlich der Missionen der Sonderbeauftragten
+      Washingtons – ausschließlich den Interessen Israels dient und die Interessen des
+      Libanon dabei keine Rolle spielen. Etwas anderes zu glauben, hieße, sich an eine
+      Illusion zu klammern. Der deutlichste Beweis dafür kam vom US-Sonderbeauftragten
+      für den Libanon, Barrack Thomas, der erklärte: „ Nach dem 7. Oktober hat sich
+      die Welt Israels verändert. Seine Grenzen und Grenzlinien haben sich verändert.
+      Für die Sicherheit Israels sind die Sykes-Picot-Grenzlinien bedeutungslos. Israel
+      wird hingehen, wohin es will, wann es will, und tun, was es will, um die Israelis
+      und ihre Grenzen zu schützen.“ Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Eine solche Aussage ist nicht die Sprache
+      der Vermittlung, sondern eine unverblümte Befürwortung der bewussten Strategie
+      Israels zur territorialen Expansion. Für den Libanon zerstört sie jede noch bestehende
+      Illusion, dass Washington als neutraler Vermittler agiert. Die Worte des Gesandten
+      bestätigen, was viele bereits vermutet haben: Die US-Diplomatie in der Region
+      fungiert weniger als Vermittler, sondern eher als Verlängerung der israelischen
+      Politik – und das erklärt, warum Netanjahu jedes Interesse daran hat, eine Normalisierung
+      mit seinen nächsten Nachbarn zu vermeiden. Diese Haltung wird durch Präsident
+      Donald Trump weiter verstärkt, der seine Position bereits zu Beginn seiner Amtszeit
+      deutlich gemacht hat. Mit einem Stift in der Hand verglich er das Gebiet Israels
+      mit dessen Spitze, beklagte, dass es sich um „ein ziemlich kleines Stück Land“
+      handele, und deutete an, dass ein solcher Staat nicht ausreiche. Die Botschaft
+      war unmissverständlich: Israel brauche seiner Meinung nach mehr Raum – eine Ansicht,
+      die Netanjahu als politische Rechtfertigung für die Expansion genutzt hat. Besetzte
+      Gebiete als Druckmittel Im Mittelpunkt der Angelegenheit steht das Territorium.
+      Israel besetzt weiterhin die Golanhöhen, die es 1967 von Syrien erobert und 1981
+      annektiert hat – ein Schritt, der von der internationalen Gemeinschaft nie anerkannt
+      wurde. Seit dem Sturz von Baschar al-Assad hat Israel seine Besatzung weiter vorangetrieben,
+      seine Kontrolle über den Rest des Hermonbergs gefestigt und ist in Teile der Provinzen
+      Quneitra, Daraa und Suweida vorgedrungen. Seine Spezialeinheiten können nur wenige
+      Kilometer von Damaskus entfernt ohne nennenswerten Widerstand landen, frei operieren
+      und nach Belieben innerhalb des syrischen Territoriums zuschlagen. Im Libanon
+      besetzt Israel die Shebaa-Farmen, die Kfar-Shouba-Hügel und Teile des Dorfes Ghajar.
+      In den letzten Jahren hat es sich auf fünf umstrittenen Hügeln festgesetzt und
+      seine Präsenz auf acht ausgeweitet, wodurch es seine Pufferzone effektiv erweitert
+      und das Gebiet an der Grenze zu Metula in Galiläa vergrößert hat. Eine Normalisierung
+      der Beziehungen zu Syrien oder dem Libanon würde unweigerlich die Frage des Rückzugs
+      aus diesen besetzten Gebieten auf den Tisch bringen – ein Zugeständnis, das Netanjahu
+      nicht zu machen gedenkt. Für Netanjahu würde jedes Abkommen bedeuten, Land abzutreten,
+      das er und seine politischen Verbündeten als Sieg Israels betrachten und das strategisch
+      unverzichtbar ist, um die bekannten Grenzkarten um Israel herum zu ändern. Die
+      Golanhöhen, der Hermon und der Süden Syriens mit ihrem erhöhten Gelände bieten
+      Israel sowohl eine natürliche Verteidigungsbarriere als auch Zugang zu lebenswichtigen
+      Wasserressourcen. Die südlichen Gebiete des Libanon stellen eine symbolische Grenze
+      und eine Pufferzone zur Hisbollah dar – eine Grenze, die Netanjahu nicht aufgeben
+      will. Der Trump-Faktor Die Unnachgiebigkeit wird durch Washington noch verstärkt.
+      Unter Donald Trump genießt Israel beispiellose Unterstützung. Im Jahr 2019 erkannte
+      Trump offiziell die israelische Souveränität über die Golanhöhen an und brach
+      damit mit der jahrzehntelangen Politik der USA und dem internationalen Konsens.
+      Dies ermutigte Netanjahu, seine expansionistische Vision zu verdoppeln, da er
+      davon ausging, dass kein internationaler Druck Israel realistisch gesehen zum
+      Rückzug zwingen könnte. Da die USA Israel im UN-Sicherheitsrat schützen, gibt
+      es wenig Anreiz, Kompromisse mit Damaskus oder Beirut einzugehen. Im Gegenteil,
+      die fortgesetzte Besetzung wird durch politische Deckung aus Washington belohnt,
+      zusammen mit allen Waffen, Munition und nachrichtendienstlicher Unterstützung,
+      die Israel zur Erreichung seiner Ziele angeboten werden. Netanjahu hat sein politisches
+      Schicksal auch an eine Ideologie der Expansion geknüpft. Er hat wiederholt davon
+      gesprochen, die Grundlagen für ein „Groß-Israel“ zu schaffen, eine Vision, die
+      seit langem von der zionistischen Rechten gehegt wird. Für ihn bedeutet dies nicht
+      nur die Festigung der israelischen Kontrolle über das Westjordanland, sondern
+      auch die Verfestigung seiner Präsenz in den von Nachbarstaaten eroberten Gebieten.
+      Die rechtsextremen Minister in seiner Koalition – von denen einige offen die Annexion
+      des Westjordanlands und die Vertreibung der Palästinenser befürworten – verstärken
+      diesen Kurs. Für sie ist jeder Rückzug Verrat. Eine Normalisierung der Beziehungen
+      zu Syrien und dem Libanon, die die Aufgabe des Golan, der Shebaa-Farmen oder anderer
+      besetzter Gebiete erfordern würde, würde nicht nur die strategische Tiefe Israels
+      schwächen, sondern auch Netanjahus Koalition spalten. Da sein politisches Überleben
+      von der extremen Rechten abhängt, hat er keinen Spielraum und keinen Bedarf für
+      Kompromisse. Indem er Syrien offiziell „im Kriegszustand“ hält, kann Netanjahu
+      die fortgesetzte militärische Präsenz Israels auf den Golanhöhen und im syrischen
+      Hoheitsgebiet rechtfertigen. Tatsächlich greift Israel trotz des faktischen Endes
+      des Kriegszustands in Syrien – dessen Streitkräfte seit Jahren keinen Schuss mehr
+      abgegeben haben – weiterhin Stellungen tief im syrischen Hoheitsgebiet an. Erst
+      vor wenigen Tagen landeten israelische Spezialeinheiten mit Hubschraubern in al-Kiswa,
+      weniger als 20 Kilometer von Damaskus entfernt, und operierten dort mehrere Stunden
+      lang, bevor sie sich zurückzogen. Diese Art von Übergriff verdeutlicht, warum
+      Netanjahu kein Interesse daran hat, die Feindseligkeiten zu beenden: Solange Syrien
+      keine israelische Botschaft in Damaskus hat, kann Israel ohne Konsequenzen zuschlagen,
+      Truppen landen und seine Pufferzone ausweiten. Eine Normalisierung und diplomatische
+      Beziehungen würden Israel diesen Vorwand nehmen. Würde Syrien als Partner im Friedensprozess
+      anerkannt, würde jeder israelische Angriff nicht mehr als präventive Selbstverteidigung,
+      sondern als Aggression gewertet werden. Für Netanjahu ist dieser Verlust an strategischer
+      Flexibilität inakzeptabel. Die Aufrechterhaltung des Status quo hält Damaskus
+      schwach, hält die Hisbollah in Schach und ermöglicht es Israel, seine Siedlungen
+      im Golan weitgehend unangefochten auszuweiten. Der Libanon stellt eine andere
+      Herausforderung dar als Syrien. Die militärischen Fähigkeiten der Hisbollah haben
+      sich seit dem Krieg von 2006 dramatisch erweitert und eine Abschreckung geschaffen,
+      die Israel davon abhält, groß angelegte Offensiven zu starten. Doch die Existenz
+      umstrittener Gebiete wie der Shebaa-Farmen sowie der nach dem Krieg vom September
+      2024 neu besetzten Gebiete ermöglicht es Netanjahu weiterhin, den Libanon als
+      anhaltende Sicherheitsbedrohung darzustellen. Vor Ort hat Israel seine Pufferzone
+      stetig erweitert. Was mit fünf neu besetzten Hügeln begann, hat sich nun auf acht
+      ausgeweitet, darunter Stellungen in Edayse, Kfarkila und anderen Grenzgebieten.
+      Diese schleichende Annexion macht Israels Absicht unmissverständlich: keine Deeskalation,
+      sondern schrittweise Ausdehnung. Netanjahus Weigerung, auf die erklärte Bereitschaft
+      Beiruts einzugehen, über die Entwaffnung der Hisbollah im Austausch für einen
+      vollständigen Rückzug Israels zu verhandeln, macht seine Prioritäten noch deutlicher.
+      Ein solches Abkommen könnte Jahrzehnte der Feindseligkeiten beenden, würde aber
+      erfordern, dass Israel Gebiete abtritt und die Souveränität des Libanon anerkennt
+      – Ergebnisse, die Netanjahu unerträglich findet. Für ihn ist die Aufrechterhaltung
+      der Besatzung vorzuziehen, auch wenn sie genau die Bedrohung aufrechterhält, gegen
+      die er angeblich kämpft, und der Hisbollah ihre Daseinsberechtigung als selbsternannte
+      Widerstandsbewegung und Verteidigerin des libanesischen Landes gibt. Netanjahus
+      Kalkül wird auch von innenpolitischen Realitäten bestimmt. Seine Koalition wird
+      von rechtsextremen Parteien getragen, deren Programme auf Expansion und Siedlungsbau
+      ausgerichtet sind. Persönlichkeiten wie Sicherheitsminister Itamar Ben-Gvir und
+      Finanzminister Bezalel Smotrich betrachten jede territoriale Konzession als Ketzerei.
+      Würde Netanjahu eine Normalisierung der Beziehungen zu Syrien oder dem Libanon
+      auf Kosten selbst begrenzter Rückzüge anstreben, würde seine Koalition zusammenbrechen.
+      Für einen Premierminister, der seit dem 7. Oktober bereits mit Korruptionsvorwürfen
+      und politischen Herausforderungen konfrontiert ist, erfordert das Festhalten an
+      der Macht, dass er sich den extremsten Elementen der israelischen Politik anbiedert.
+      Frieden ist in diesem Zusammenhang politischer Selbstmord. Die Illusion der Normalisierung
+      anderswo Netanjahus Befürwortung der Abraham-Abkommen mit den Golfstaaten mag
+      beweisen, dass er nicht gegen eine Normalisierung an sich ist. Aber diese Abkommen
+      mit Ländern wie den Vereinigten Arabischen Emiraten und Bahrain erforderten keine
+      territorialen Zugeständnisse. Im Gegenteil, sie ermöglichten es Israel, diplomatische
+      und wirtschaftliche Vorteile zu erzielen und gleichzeitig die Siedlungsausweitung
+      im Gazastreifen und im Westjordanland fortzusetzen. Die Normalisierung mit Syrien
+      und dem Libanon ist eine andere Sache. Sie würde den Rückzug aus den besetzten
+      Gebieten, die Anerkennung der arabischen Souveränität und Zugeständnisse erfordern,
+      die Netanjahus gesamter politischer Plattform zuwiderlaufen. Für ihn ist der Frieden
+      mit den weit entfernten Golfmonarchien bequem; der Frieden mit den unmittelbaren
+      Nachbarn ist derzeit kontraproduktiv. Durch seine Weigerung zur Normalisierung
+      hält Netanjahu auch die umfassenderen regionalen Ambitionen Israels aufrecht.
+      Im Golan hat sich die Ausweitung der israelischen Siedlungen beschleunigt, mit
+      Plänen, die Siedlerbevölkerung in den nächsten zehn Jahren zu verdoppeln. Im Südlibanon
+      spiegelt die schrittweise Verfestigung Israels in neuen Hügeln und Pufferzonen
+      dieselbe Logik wider: territoriale Gewinne zu konsolidieren und „Fakten vor Ort“
+      zu schaffen, die unumkehrbar werden. Eine Normalisierung würde diese Dynamik stoppen.
+      Die Konfrontation hingegen ermöglicht eine Fortsetzung der Expansion unter dem
+      Deckmantel der Sicherheitsnotwendigkeit. Trotz der Kritik seitens der Vereinten
+      Nationen und eines Großteils der Länder des Globalen Südens zahlt Israel nur einen
+      geringen Preis für die Besatzung. Das Veto der USA im Sicherheitsrat garantiert
+      Straffreiheit. Die europäischen Regierungen äußern sich zwar kritisch, sind aber
+      nicht bereit, ernsthafte Sanktionen zu verhängen. Für Netanjahu bedeutet dies,
+      dass eine fortgesetzte Konfrontation mit Syrien und dem Libanon nur minimale internationale
+      Kosten mit sich bringt. Tatsächlich könnte eine Normalisierung die diplomatische
+      Position Israels erschweren, da es dadurch verpflichtet wäre, Vereinbarungen einzuhalten,
+      die es kaum zu respektieren gedenkt. Indem er den Frieden ablehnt, vermeidet Netanjahu
+      verbindliche Verpflichtungen und genießt gleichzeitig die uneingeschränkte Unterstützung
+      der USA. Fazit: Expansion statt Frieden Benjamin Netanjahu hat kein Interesse
+      an einer Normalisierung der Beziehungen zu Syrien und dem Libanon, da Frieden
+      einen Rückzug bedeuten würde. Für ihn sind die besetzten Gebiete keine Verhandlungsmasse,
+      sondern Sprungbretter für ein „Groß-Israel“. Gestützt von einer rechtsextremen
+      Koalition, ermutigt durch Donald Trumps unerschütterliche Unterstützung und überzeugt
+      von seiner eigenen politischen Unangreifbarkeit, sieht Netanjahu die Expansion
+      sowohl als Strategie als auch als Schicksal. Syrien und der Libanon, schwach und
+      gespalten, dienen seiner Erzählung als ewige Feinde. Eine Normalisierung würde
+      Israels Besatzungen offenlegen, die Hisbollah und Damaskus diplomatisch stärken
+      und seine Regierung im Inland spalten. Die Konfrontation hingegen ermöglicht es
+      ihm, territoriale Gewinne zu festigen, Militärschläge zu rechtfertigen und seine
+      Koalition zu mobilisieren. Die Ironie dabei ist, dass genau der Mechanismus, der
+      Israels Sicherheit gewährleisten soll – Friedensabkommen –, nun das politische
+      Projekt bedroht, auf dem Netanjahu seine Karriere aufgebaut hat. Und da Washington
+      seine Ambitionen teilt, ist die Tarnung perfekt. Wenn der US-Sonderbeauftragte
+      Barrack Thomas erklärt, dass „für die Sicherheit Israels die Sykes-Picot-Grenzen
+      bedeutungslos sind; sie werden gehen, wohin sie wollen, wann sie wollen, und tun,
+      was sie wollen“ , dann ist das mehr als nur Rhetorik. Es ist eine Lizenz für Israel,
+      sich ohne Grenzen auszudehnen, eine politische Garantie, dass Netanjahu jedem
+      Druck zur Normalisierung widerstehen kann. Frieden ist in diesem Zusammenhang
+      keine Chance, sondern eine Gefahr. Expansion ist die eigentliche Politik – und
+      solange die Vereinigten Staaten dies offen unterstützen, hat Netanjahu allen Grund,
+      Konfrontation, Expansion und weitere Kriege einem Kompromiss vorzuziehen. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Benjamin Netanjahu zeigt in Bezug auf Syrien und den Libanon
+      eine konfrontative Politik, da er Frieden als Bedrohung für die israelische Territorialexpansion
+      sieht und die US-Diplomatie dabei vor allem Israels Interessen dient.
+    paragraph_summary: In einem Artikel von Elijah J. Magnier wird die Haltung von Benjamin
+      Netanjahu zur Sicherheit Israels und seine Politik gegenüber Syrien und dem Libanon
+      thematisiert. Netanjahu, unterstützt von einer rechtsextremen Koalition und der
+      US-Regierung unter Donald Trump, zeigt wenig Interesse an einer Normalisierung
+      der Beziehungen, da Frieden mit dem Verzicht auf besetzte Gebiete verbunden wäre.
+      Stattdessen verfolgt er eine Strategie der Konfrontation und territorialen Expansion.
+      Der US-Sonderbeauftragte für den Libanon, Barrack Thomas, bestätigte, dass die
+      Sykes-Picot-Grenzen für Israel bedeutungslos seien und dass die US-Diplomatie
+      in der Region primär die Interessen Israels verfolgt, was die Illusion einer neutralen
+      Vermittlung für den Libanon zerstört.
+    published: '2025-08-31T04:18:12+00:00'
+  - title: 'Warum Netanjahu den Frieden mit Syrien und dem Libanon ablehnt: Neufestlegung
+      der Grenzen mit Unterstützung der USA'
+    url: https://ejmagnier.com/2025/08/31/warum-netanjahu-den-frieden-mit-syrien-und-dem-libanon-ablehnt-neufestlegung-der-grenzen-mit-unterstutzung-der-usa/
+    text: 'Tweet Die Sykes-Picot-Grenzen sind bedeutungslos Von Elijah J. Magnier Benjamin
+      Netanjahu hat sich wiederholt als Garant für die Sicherheit Israels präsentiert,
+      als der Mann, der bereit ist, sich Bedrohungen zu stellen, wo andere zögern. Doch
+      wenn es um Syrien und den Libanon geht, zeigt der israelische Premierminister
+      wenig Interesse an einer Normalisierung. Stattdessen verfolgt er eine Politik
+      der Konfrontation, der Verhärtung und der Expansion. Der Grund dafür ist einfach:
+      Frieden würde bedeuten, dass Israel Gebiete aufgeben müsste, die es seit Jahrzehnten
+      besetzt hält, und Netanjahu – gestützt durch eine rechtsextreme Koalition und
+      die volle Unterstützung der USA unter Donald Trump – sieht nicht Kompromisse,
+      sondern territoriale Erweiterungen als sein Vermächtnis. Viele im Libanon erkennen
+      immer noch nicht, dass die US-Diplomatie – einschließlich der Missionen der Sonderbeauftragten
+      Washingtons – ausschließlich den Interessen Israels dient und die Interessen des
+      Libanon dabei keine Rolle spielen. Etwas anderes zu glauben, hieße, sich an eine
+      Illusion zu klammern. Der deutlichste Beweis dafür kam vom US-Sonderbeauftragten
+      für den Libanon, Barrack Thomas, der erklärte: „ Nach dem 7. Oktober hat sich
+      die Welt Israels verändert. Seine Grenzen und Grenzlinien haben sich verändert.
+      Für die Sicherheit Israels sind die Sykes-Picot-Grenzlinien bedeutungslos. Israel
+      wird hingehen, wohin es will, wann es will, und tun, was es will, um die Israelis
+      und ihre Grenzen zu schützen.“ Subscribe Subscribe to get access Read more of
+      this content when you subscribe today. Eine solche Aussage ist nicht die Sprache
+      der Vermittlung, sondern eine unverblümte Befürwortung der bewussten Strategie
+      Israels zur territorialen Expansion. Für den Libanon zerstört sie jede noch bestehende
+      Illusion, dass Washington als neutraler Vermittler agiert. Die Worte des Gesandten
+      bestätigen, was viele bereits vermutet haben: Die US-Diplomatie in der Region
+      fungiert weniger als Vermittler, sondern eher als Verlängerung der israelischen
+      Politik – und das erklärt, warum Netanjahu jedes Interesse daran hat, eine Normalisierung
+      mit seinen nächsten Nachbarn zu vermeiden. Diese Haltung wird durch Präsident
+      Donald Trump weiter verstärkt, der seine Position bereits zu Beginn seiner Amtszeit
+      deutlich gemacht hat. Mit einem Stift in der Hand verglich er das Gebiet Israels
+      mit dessen Spitze, beklagte, dass es sich um „ein ziemlich kleines Stück Land“
+      handele, und deutete an, dass ein solcher Staat nicht ausreiche. Die Botschaft
+      war unmissverständlich: Israel brauche seiner Meinung nach mehr Raum – eine Ansicht,
+      die Netanjahu als politische Rechtfertigung für die Expansion genutzt hat. Besetzte
+      Gebiete als Druckmittel Im Mittelpunkt der Angelegenheit steht das Territorium.
+      Israel besetzt weiterhin die Golanhöhen, die es 1967 von Syrien erobert und 1981
+      annektiert hat – ein Schritt, der von der internationalen Gemeinschaft nie anerkannt
+      wurde. Seit dem Sturz von Baschar al-Assad hat Israel seine Besatzung weiter vorangetrieben,
+      seine Kontrolle über den Rest des Hermonbergs gefestigt und ist in Teile der Provinzen
+      Quneitra, Daraa und Suweida vorgedrungen. Seine Spezialeinheiten können nur wenige
+      Kilometer von Damaskus entfernt ohne nennenswerten Widerstand landen, frei operieren
+      und nach Belieben innerhalb des syrischen Territoriums zuschlagen. Im Libanon
+      besetzt Israel die Shebaa-Farmen, die Kfar-Shouba-Hügel und Teile des Dorfes Ghajar.
+      In den letzten Jahren hat es sich auf fünf umstrittenen Hügeln festgesetzt und
+      seine Präsenz auf acht ausgeweitet, wodurch es seine Pufferzone effektiv erweitert
+      und das Gebiet an der Grenze zu Metula in Galiläa vergrößert hat. Eine Normalisierung
+      der Beziehungen zu Syrien oder dem Libanon würde unweigerlich die Frage des Rückzugs
+      aus diesen besetzten Gebieten auf den Tisch bringen – ein Zugeständnis, das Netanjahu
+      nicht zu machen gedenkt. Für Netanjahu würde jedes Abkommen bedeuten, Land abzutreten,
+      das er und seine politischen Verbündeten als Sieg Israels betrachten und das strategisch
+      unverzichtbar ist, um die bekannten Grenzkarten um Israel herum zu ändern. Die
+      Golanhöhen, der Hermon und der Süden Syriens mit ihrem erhöhten Gelände bieten
+      Israel sowohl eine natürliche Verteidigungsbarriere als auch Zugang zu lebenswichtigen
+      Wasserressourcen. Die südlichen Gebiete des Libanon stellen eine symbolische Grenze
+      und eine Pufferzone zur Hisbollah dar – eine Grenze, die Netanjahu nicht aufgeben
+      will. Der Trump-Faktor Die Unnachgiebigkeit wird durch Washington noch verstärkt.
+      Unter Donald Trump genießt Israel beispiellose Unterstützung. Im Jahr 2019 erkannte
+      Trump offiziell die israelische Souveränität über die Golanhöhen an und brach
+      damit mit der jahrzehntelangen Politik der USA und dem internationalen Konsens.
+      Dies ermutigte Netanjahu, seine expansionistische Vision zu verdoppeln, da er
+      davon ausging, dass kein internationaler Druck Israel realistisch gesehen zum
+      Rückzug zwingen könnte. Da die USA Israel im UN-Sicherheitsrat schützen, gibt
+      es wenig Anreiz, Kompromisse mit Damaskus oder Beirut einzugehen. Im Gegenteil,
+      die fortgesetzte Besetzung wird durch politische Deckung aus Washington belohnt,
+      zusammen mit allen Waffen, Munition und nachrichtendienstlicher Unterstützung,
+      die Israel zur Erreichung seiner Ziele angeboten werden. Netanjahu hat sein politisches
+      Schicksal auch an eine Ideologie der Expansion geknüpft. Er hat wiederholt davon
+      gesprochen, die Grundlagen für ein „Groß-Israel“ zu schaffen, eine Vision, die
+      seit langem von der zionistischen Rechten gehegt wird. Für ihn bedeutet dies nicht
+      nur die Festigung der israelischen Kontrolle über das Westjordanland, sondern
+      auch die Verfestigung seiner Präsenz in den von Nachbarstaaten eroberten Gebieten.
+      Die rechtsextremen Minister in seiner Koalition – von denen einige offen die Annexion
+      des Westjordanlands und die Vertreibung der Palästinenser befürworten – verstärken
+      diesen Kurs. Für sie ist jeder Rückzug Verrat. Eine Normalisierung der Beziehungen
+      zu Syrien und dem Libanon, die die Aufgabe des Golan, der Shebaa-Farmen oder anderer
+      besetzter Gebiete erfordern würde, würde nicht nur die strategische Tiefe Israels
+      schwächen, sondern auch Netanjahus Koalition spalten. Da sein politisches Überleben
+      von der extremen Rechten abhängt, hat er keinen Spielraum und keinen Bedarf für
+      Kompromisse. Indem er Syrien offiziell „im Kriegszustand“ hält, kann Netanjahu
+      die fortgesetzte militärische Präsenz Israels auf den Golanhöhen und im syrischen
+      Hoheitsgebiet rechtfertigen. Tatsächlich greift Israel trotz des faktischen Endes
+      des Kriegszustands in Syrien – dessen Streitkräfte seit Jahren keinen Schuss mehr
+      abgegeben haben – weiterhin Stellungen tief im syrischen Hoheitsgebiet an. Erst
+      vor wenigen Tagen landeten israelische Spezialeinheiten mit Hubschraubern in al-Kiswa,
+      weniger als 20 Kilometer von Damaskus entfernt, und operierten dort mehrere Stunden
+      lang, bevor sie sich zurückzogen. Diese Art von Übergriff verdeutlicht, warum
+      Netanjahu kein Interesse daran hat, die Feindseligkeiten zu beenden: Solange Syrien
+      keine israelische Botschaft in Damaskus hat, kann Israel ohne Konsequenzen zuschlagen,
+      Truppen landen und seine Pufferzone ausweiten. Eine Normalisierung und diplomatische
+      Beziehungen würden Israel diesen Vorwand nehmen. Würde Syrien als Partner im Friedensprozess
+      anerkannt, würde jeder israelische Angriff nicht mehr als präventive Selbstverteidigung,
+      sondern als Aggression gewertet werden. Für Netanjahu ist dieser Verlust an strategischer
+      Flexibilität inakzeptabel. Die Aufrechterhaltung des Status quo hält Damaskus
+      schwach, hält die Hisbollah in Schach und ermöglicht es Israel, seine Siedlungen
+      im Golan weitgehend unangefochten auszuweiten. Der Libanon stellt eine andere
+      Herausforderung dar als Syrien. Die militärischen Fähigkeiten der Hisbollah haben
+      sich seit dem Krieg von 2006 dramatisch erweitert und eine Abschreckung geschaffen,
+      die Israel davon abhält, groß angelegte Offensiven zu starten. Doch die Existenz
+      umstrittener Gebiete wie der Shebaa-Farmen sowie der nach dem Krieg vom September
+      2024 neu besetzten Gebiete ermöglicht es Netanjahu weiterhin, den Libanon als
+      anhaltende Sicherheitsbedrohung darzustellen. Vor Ort hat Israel seine Pufferzone
+      stetig erweitert. Was mit fünf neu besetzten Hügeln begann, hat sich nun auf acht
+      ausgeweitet, darunter Stellungen in Edayse, Kfarkila und anderen Grenzgebieten.
+      Diese schleichende Annexion macht Israels Absicht unmissverständlich: keine Deeskalation,
+      sondern schrittweise Ausdehnung. Netanjahus Weigerung, auf die erklärte Bereitschaft
+      Beiruts einzugehen, über die Entwaffnung der Hisbollah im Austausch für einen
+      vollständigen Rückzug Israels zu verhandeln, macht seine Prioritäten noch deutlicher.
+      Ein solches Abkommen könnte Jahrzehnte der Feindseligkeiten beenden, würde aber
+      erfordern, dass Israel Gebiete abtritt und die Souveränität des Libanon anerkennt
+      – Ergebnisse, die Netanjahu unerträglich findet. Für ihn ist die Aufrechterhaltung
+      der Besatzung vorzuziehen, auch wenn sie genau die Bedrohung aufrechterhält, gegen
+      die er angeblich kämpft, und der Hisbollah ihre Daseinsberechtigung als selbsternannte
+      Widerstandsbewegung und Verteidigerin des libanesischen Landes gibt. Netanjahus
+      Kalkül wird auch von innenpolitischen Realitäten bestimmt. Seine Koalition wird
+      von rechtsextremen Parteien getragen, deren Programme auf Expansion und Siedlungsbau
+      ausgerichtet sind. Persönlichkeiten wie Sicherheitsminister Itamar Ben-Gvir und
+      Finanzminister Bezalel Smotrich betrachten jede territoriale Konzession als Ketzerei.
+      Würde Netanjahu eine Normalisierung der Beziehungen zu Syrien oder dem Libanon
+      auf Kosten selbst begrenzter Rückzüge anstreben, würde seine Koalition zusammenbrechen.
+      Für einen Premierminister, der seit dem 7. Oktober bereits mit Korruptionsvorwürfen
+      und politischen Herausforderungen konfrontiert ist, erfordert das Festhalten an
+      der Macht, dass er sich den extremsten Elementen der israelischen Politik anbiedert.
+      Frieden ist in diesem Zusammenhang politischer Selbstmord. Die Illusion der Normalisierung
+      anderswo Netanjahus Befürwortung der Abraham-Abkommen mit den Golfstaaten mag
+      beweisen, dass er nicht gegen eine Normalisierung an sich ist. Aber diese Abkommen
+      mit Ländern wie den Vereinigten Arabischen Emiraten und Bahrain erforderten keine
+      territorialen Zugeständnisse. Im Gegenteil, sie ermöglichten es Israel, diplomatische
+      und wirtschaftliche Vorteile zu erzielen und gleichzeitig die Siedlungsausweitung
+      im Gazastreifen und im Westjordanland fortzusetzen. Die Normalisierung mit Syrien
+      und dem Libanon ist eine andere Sache. Sie würde den Rückzug aus den besetzten
+      Gebieten, die Anerkennung der arabischen Souveränität und Zugeständnisse erfordern,
+      die Netanjahus gesamter politischer Plattform zuwiderlaufen. Für ihn ist der Frieden
+      mit den weit entfernten Golfmonarchien bequem; der Frieden mit den unmittelbaren
+      Nachbarn ist derzeit kontraproduktiv. Durch seine Weigerung zur Normalisierung
+      hält Netanjahu auch die umfassenderen regionalen Ambitionen Israels aufrecht.
+      Im Golan hat sich die Ausweitung der israelischen Siedlungen beschleunigt, mit
+      Plänen, die Siedlerbevölkerung in den nächsten zehn Jahren zu verdoppeln. Im Südlibanon
+      spiegelt die schrittweise Verfestigung Israels in neuen Hügeln und Pufferzonen
+      dieselbe Logik wider: territoriale Gewinne zu konsolidieren und „Fakten vor Ort“
+      zu schaffen, die unumkehrbar werden. Eine Normalisierung würde diese Dynamik stoppen.
+      Die Konfrontation hingegen ermöglicht eine Fortsetzung der Expansion unter dem
+      Deckmantel der Sicherheitsnotwendigkeit. Trotz der Kritik seitens der Vereinten
+      Nationen und eines Großteils der Länder des Globalen Südens zahlt Israel nur einen
+      geringen Preis für die Besatzung. Das Veto der USA im Sicherheitsrat garantiert
+      Straffreiheit. Die europäischen Regierungen äußern sich zwar kritisch, sind aber
+      nicht bereit, ernsthafte Sanktionen zu verhängen. Für Netanjahu bedeutet dies,
+      dass eine fortgesetzte Konfrontation mit Syrien und dem Libanon nur minimale internationale
+      Kosten mit sich bringt. Tatsächlich könnte eine Normalisierung die diplomatische
+      Position Israels erschweren, da es dadurch verpflichtet wäre, Vereinbarungen einzuhalten,
+      die es kaum zu respektieren gedenkt. Indem er den Frieden ablehnt, vermeidet Netanjahu
+      verbindliche Verpflichtungen und genießt gleichzeitig die uneingeschränkte Unterstützung
+      der USA. Fazit: Expansion statt Frieden Benjamin Netanjahu hat kein Interesse
+      an einer Normalisierung der Beziehungen zu Syrien und dem Libanon, da Frieden
+      einen Rückzug bedeuten würde. Für ihn sind die besetzten Gebiete keine Verhandlungsmasse,
+      sondern Sprungbretter für ein „Groß-Israel“. Gestützt von einer rechtsextremen
+      Koalition, ermutigt durch Donald Trumps unerschütterliche Unterstützung und überzeugt
+      von seiner eigenen politischen Unangreifbarkeit, sieht Netanjahu die Expansion
+      sowohl als Strategie als auch als Schicksal. Syrien und der Libanon, schwach und
+      gespalten, dienen seiner Erzählung als ewige Feinde. Eine Normalisierung würde
+      Israels Besatzungen offenlegen, die Hisbollah und Damaskus diplomatisch stärken
+      und seine Regierung im Inland spalten. Die Konfrontation hingegen ermöglicht es
+      ihm, territoriale Gewinne zu festigen, Militärschläge zu rechtfertigen und seine
+      Koalition zu mobilisieren. Die Ironie dabei ist, dass genau der Mechanismus, der
+      Israels Sicherheit gewährleisten soll – Friedensabkommen –, nun das politische
+      Projekt bedroht, auf dem Netanjahu seine Karriere aufgebaut hat. Und da Washington
+      seine Ambitionen teilt, ist die Tarnung perfekt. Wenn der US-Sonderbeauftragte
+      Barrack Thomas erklärt, dass „für die Sicherheit Israels die Sykes-Picot-Grenzen
+      bedeutungslos sind; sie werden gehen, wohin sie wollen, wann sie wollen, und tun,
+      was sie wollen“ , dann ist das mehr als nur Rhetorik. Es ist eine Lizenz für Israel,
+      sich ohne Grenzen auszudehnen, eine politische Garantie, dass Netanjahu jedem
+      Druck zur Normalisierung widerstehen kann. Frieden ist in diesem Zusammenhang
+      keine Chance, sondern eine Gefahr. Expansion ist die eigentliche Politik – und
+      solange die Vereinigten Staaten dies offen unterstützen, hat Netanjahu allen Grund,
+      Konfrontation, Expansion und weitere Kriege einem Kompromiss vorzuziehen. Subscribe
+      Submitting form Log in Make a one-time donation Your contribution is appreciated.
+      Donate Make a monthly donation Your contribution is appreciated. Donate monthly
+      Make a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Benjamin Netanjahu zeigt in Bezug auf Syrien und den Libanon
+      eine konfrontative Politik, da er Frieden als Bedrohung für die israelische Territorialexpansion
+      sieht und die US-Diplomatie dabei vor allem Israels Interessen dient.
+    paragraph_summary: In einem Artikel von Elijah J. Magnier wird die Haltung von Benjamin
+      Netanjahu zur Sicherheit Israels und seine Politik gegenüber Syrien und dem Libanon
+      thematisiert. Netanjahu, unterstützt von einer rechtsextremen Koalition und der
+      US-Regierung unter Donald Trump, zeigt wenig Interesse an einer Normalisierung
+      der Beziehungen, da Frieden mit dem Verzicht auf besetzte Gebiete verbunden wäre.
+      Stattdessen verfolgt er eine Strategie der Konfrontation und territorialen Expansion.
+      Der US-Sonderbeauftragte für den Libanon, Barrack Thomas, bestätigte, dass die
+      Sykes-Picot-Grenzen für Israel bedeutungslos seien und dass die US-Diplomatie
+      in der Region primär die Interessen Israels verfolgt, was die Illusion einer neutralen
+      Vermittlung für den Libanon zerstört.
+    published: '2025-08-31T04:18:12+00:00'
+  - title: What Is the Israeli Army Waiting For Before Attacking Gaza City?
+    url: https://ejmagnier.com/2025/08/28/what-is-the-israeli-army-waiting-for-before-attacking-gaza-city/
+    text: 'Tweet By Elijah J. Magnier – Israel’s Chief of Staff, Eyal Zamir, believes
+      he has already completed the first mission entrusted to him. Operation Gideon’s
+      Chariots was designed to prepare the ground so that the government could negotiate
+      from a position of maximum strength, bring the war to a close, and secure the
+      release of Israeli prisoners. Yet just as Zamir sought to consolidate these gains,
+      Prime Minister Benjamin Netanyahu abruptly shifted the goalposts. He has now ordered
+      the army to embark on a second, far more perilous stage: the occupation of Gaza
+      City. Operation Gideon’s Chariots was carried out across the Gaza Strip, but its
+      main focus was in the north, around Gaza City. This is where Israel concentrated
+      its bombardments and limited ground incursions, aiming to destroy tunnels, weapons
+      depots, and command centres used by Hamas. At the same time, Israeli forces operated
+      along the border areas to create buffer zones and secure their entry points. The
+      operation was never intended as a full invasion. For Zamir, the risks are glaring.
+      Urban warfare in Gaza is unlike any battlefield Israel has faced. The city’s narrow
+      streets, vast tunnel networks, and a civilian population deeply embedded with
+      resistance fighters transform it into a lethal maze for any conventional force.
+      History offers sobering warnings. In 2002, during Operation Defensive Shield ,
+      Israeli troops suffered unexpected losses in Jenin. In 2006, Hezbollah’s resistance
+      in southern Lebanon inflicted heavy casualties and exposed the limits of Israel’s
+      military superiority in dense terrain. The lessons are not only historical. Over
+      the past two years of fighting in Gaza, Israeli forces have repeatedly stumbled
+      into ambushes laid by a resistance that has proven both highly disciplined and
+      tactically sophisticated. Palestinian fighters, operating in flexible formations
+      from small strike cells to larger coordinated units, have shown not only fierce
+      determination but also an intimate grasp of the Israeli army’s modus operandi.
+      Time and again, they have turned Israeli advances into carefully prepared kill
+      zones, transforming the army’s technological advantage into a liability rather
+      than a shield. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Israel's Chief of Staff, Eyal Zamir, believes he has successfully
+      completed the initial phase of Operation Gideon’s Chariots to strengthen negotiations
+      and secure the release of prisoners, but Prime Minister Netanyahu has now redirected
+      efforts towards a more dangerous occupation of Gaza City.
+    paragraph_summary: Israel's Chief of Staff, Eyal Zamir, believes he has successfully
+      completed the initial phase of Operation Gideon’s Chariots, which aimed to strengthen
+      Israel's negotiating position and secure the release of prisoners. However, Prime
+      Minister Benjamin Netanyahu has shifted the focus to a more dangerous second phase
+      involving the occupation of Gaza City. While the first operation targeted Hamas
+      infrastructure in northern Gaza, the new directive poses significant risks due
+      to the complexities of urban warfare in Gaza, characterized by narrow streets,
+      extensive tunnel networks, and a civilian population interwoven with resistance
+      fighters. Historical precedents, such as the losses in Jenin during Operation
+      Defensive Shield and the challenges faced in southern Lebanon, highlight the potential
+      for heavy casualties and the limits of Israel's military effectiveness in such
+      environments. Palestinian fighters have demonstrated tactical sophistication and
+      resilience, further complicating the situation for Israeli forces.
+    published: '2025-08-28T17:07:03+00:00'
+  - title: What Is the Israeli Army Waiting For Before Attacking Gaza City?
+    url: https://ejmagnier.com/2025/08/28/what-is-the-israeli-army-waiting-for-before-attacking-gaza-city/
+    text: 'Tweet By Elijah J. Magnier – Israel’s Chief of Staff, Eyal Zamir, believes
+      he has already completed the first mission entrusted to him. Operation Gideon’s
+      Chariots was designed to prepare the ground so that the government could negotiate
+      from a position of maximum strength, bring the war to a close, and secure the
+      release of Israeli prisoners. Yet just as Zamir sought to consolidate these gains,
+      Prime Minister Benjamin Netanyahu abruptly shifted the goalposts. He has now ordered
+      the army to embark on a second, far more perilous stage: the occupation of Gaza
+      City. Operation Gideon’s Chariots was carried out across the Gaza Strip, but its
+      main focus was in the north, around Gaza City. This is where Israel concentrated
+      its bombardments and limited ground incursions, aiming to destroy tunnels, weapons
+      depots, and command centres used by Hamas. At the same time, Israeli forces operated
+      along the border areas to create buffer zones and secure their entry points. The
+      operation was never intended as a full invasion. For Zamir, the risks are glaring.
+      Urban warfare in Gaza is unlike any battlefield Israel has faced. The city’s narrow
+      streets, vast tunnel networks, and a civilian population deeply embedded with
+      resistance fighters transform it into a lethal maze for any conventional force.
+      History offers sobering warnings. In 2002, during Operation Defensive Shield ,
+      Israeli troops suffered unexpected losses in Jenin. In 2006, Hezbollah’s resistance
+      in southern Lebanon inflicted heavy casualties and exposed the limits of Israel’s
+      military superiority in dense terrain. The lessons are not only historical. Over
+      the past two years of fighting in Gaza, Israeli forces have repeatedly stumbled
+      into ambushes laid by a resistance that has proven both highly disciplined and
+      tactically sophisticated. Palestinian fighters, operating in flexible formations
+      from small strike cells to larger coordinated units, have shown not only fierce
+      determination but also an intimate grasp of the Israeli army’s modus operandi.
+      Time and again, they have turned Israeli advances into carefully prepared kill
+      zones, transforming the army’s technological advantage into a liability rather
+      than a shield. Subscribe Subscribe to get access Read more of this content when
+      you subscribe today. Subscribe Submitting form Log in Make a one-time donation
+      Your contribution is appreciated. Donate Make a monthly donation Your contribution
+      is appreciated. Donate monthly Make a yearly donation Your contribution is appreciated.
+      Donate yearly Tweet'
+    one_sentence_summary: Israel's Chief of Staff, Eyal Zamir, believes he has successfully
+      completed the initial phase of Operation Gideon’s Chariots to strengthen negotiations
+      and secure the release of prisoners, but Prime Minister Netanyahu has now redirected
+      efforts towards a more dangerous occupation of Gaza City.
+    paragraph_summary: Israel's Chief of Staff, Eyal Zamir, believes he has successfully
+      completed the initial phase of Operation Gideon’s Chariots, which aimed to strengthen
+      Israel's negotiating position and secure the release of prisoners. However, Prime
+      Minister Benjamin Netanyahu has shifted the focus to a more dangerous second phase
+      involving the occupation of Gaza City. While the first operation targeted Hamas
+      infrastructure in northern Gaza, the new directive poses significant risks due
+      to the complexities of urban warfare in Gaza, characterized by narrow streets,
+      extensive tunnel networks, and a civilian population interwoven with resistance
+      fighters. Historical precedents, such as the losses in Jenin during Operation
+      Defensive Shield and the challenges faced in southern Lebanon, highlight the potential
+      for heavy casualties and the limits of Israel's military effectiveness in such
+      environments. Palestinian fighters have demonstrated tactical sophistication and
+      resilience, further complicating the situation for Israeli forces.
+    published: '2025-08-28T17:07:03+00:00'
+  - title: Qu’attend l’armée israélienne avant d’attaquer la ville de Gaza ?
+    url: https://ejmagnier.com/2025/08/28/quattend-larmee-israelienne-avant-dattaquer-la-ville-de-gaza/
+    text: 'Tweet Par Elijah J. Magnier Le chef d’état-major israélien, Eyal Zamir, estime
+      avoir déjà achevé la première mission qui lui avait été confiée. L’opération Chars
+      de Gédéon avait pour objectif de préparer le terrain afin que le gouvernement
+      puisse négocier en position de force, mettre fin à la guerre et obtenir la libération
+      des prisonniers israéliens. Mais alors que Zamir cherchait à consolider ces acquis,
+      le Premier ministre Benyamin Netanyahou a brusquement déplacé les objectifs. Il
+      a désormais ordonné à l’armée de s’engager dans une seconde phase, bien plus périlleuse
+      : l’occupation de la ville de Gaza. L’opération Chars de Gédéon a été menée dans
+      l’ensemble de la bande de Gaza, mais son principal théâtre fut le nord, autour
+      de la ville de Gaza. C’est là qu’Israël a concentré ses bombardements et des incursions
+      limitées, visant à détruire tunnels, dépôts d’armes et centres de commandement
+      utilisés par le Hamas. Dans le même temps, les forces israéliennes ont opéré le
+      long des zones frontalières pour créer des zones tampons et sécuriser leurs points
+      d’entrée. L’opération n’avait jamais pour but une invasion totale. Pour Zamir,
+      les risques sont flagrants. La guerre urbaine à Gaza n’a rien de commun avec les
+      champs de bataille qu’Israël a connus. Les rues étroites, l’immense réseau de
+      tunnels et une population civile imbriquée avec les combattants de la résistance
+      transforment la ville en un labyrinthe mortel pour toute armée conventionnelle.
+      L’histoire offre des avertissements douloureux. En 2002, lors de l’opération Rempart
+      en Cisjordanie, l’armée israélienne a subi des pertes inattendues à Jénine. En
+      2006, la résistance du Hezbollah dans le sud-Liban a infligé de lourdes pertes
+      et mis en évidence les limites de la supériorité militaire israélienne en terrain
+      dense. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Le chef d'état-major israélien, Eyal Zamir, a déclaré avoir
+      terminé la première phase de l'opération Chars de Gédéon pour préparer des négociations,
+      mais le Premier ministre Benyamin Netanyahou a changé les objectifs en ordonnant
+      une occupation plus risquée de la ville de Gaza.
+    paragraph_summary: 'Israeli Chief of Staff Eyal Zamir believes he has completed
+      the initial phase of Operation Gideon, which aimed to strengthen Israel''s negotiating
+      position to end the war and secure the release of Israeli prisoners. However,
+      Prime Minister Benjamin Netanyahu has shifted the military''s focus to a more
+      dangerous second phase: the occupation of Gaza City. While the first phase involved
+      targeted operations in northern Gaza to destroy Hamas infrastructure, the new
+      directive poses significant risks due to the complexities of urban warfare in
+      Gaza, characterized by narrow streets, extensive tunnel networks, and a civilian
+      population intermingled with combatants. Historical precedents, such as the unexpected
+      Israeli losses in Jenin during Operation Defensive Shield in 2002 and the heavy
+      toll from Hezbollah in 2006, highlight the challenges Israel may face in this
+      new phase of conflict.'
+    published: '2025-08-28T17:01:44+00:00'
+  - title: Qu’attend l’armée israélienne avant d’attaquer la ville de Gaza ?
+    url: https://ejmagnier.com/2025/08/28/quattend-larmee-israelienne-avant-dattaquer-la-ville-de-gaza/
+    text: 'Tweet Par Elijah J. Magnier Le chef d’état-major israélien, Eyal Zamir, estime
+      avoir déjà achevé la première mission qui lui avait été confiée. L’opération Chars
+      de Gédéon avait pour objectif de préparer le terrain afin que le gouvernement
+      puisse négocier en position de force, mettre fin à la guerre et obtenir la libération
+      des prisonniers israéliens. Mais alors que Zamir cherchait à consolider ces acquis,
+      le Premier ministre Benyamin Netanyahou a brusquement déplacé les objectifs. Il
+      a désormais ordonné à l’armée de s’engager dans une seconde phase, bien plus périlleuse
+      : l’occupation de la ville de Gaza. L’opération Chars de Gédéon a été menée dans
+      l’ensemble de la bande de Gaza, mais son principal théâtre fut le nord, autour
+      de la ville de Gaza. C’est là qu’Israël a concentré ses bombardements et des incursions
+      limitées, visant à détruire tunnels, dépôts d’armes et centres de commandement
+      utilisés par le Hamas. Dans le même temps, les forces israéliennes ont opéré le
+      long des zones frontalières pour créer des zones tampons et sécuriser leurs points
+      d’entrée. L’opération n’avait jamais pour but une invasion totale. Pour Zamir,
+      les risques sont flagrants. La guerre urbaine à Gaza n’a rien de commun avec les
+      champs de bataille qu’Israël a connus. Les rues étroites, l’immense réseau de
+      tunnels et une population civile imbriquée avec les combattants de la résistance
+      transforment la ville en un labyrinthe mortel pour toute armée conventionnelle.
+      L’histoire offre des avertissements douloureux. En 2002, lors de l’opération Rempart
+      en Cisjordanie, l’armée israélienne a subi des pertes inattendues à Jénine. En
+      2006, la résistance du Hezbollah dans le sud-Liban a infligé de lourdes pertes
+      et mis en évidence les limites de la supériorité militaire israélienne en terrain
+      dense. Subscribe Subscribe to get access Read more of this content when you subscribe
+      today. Subscribe Submitting form Log in Make a one-time donation Your contribution
+      is appreciated. Donate Make a monthly donation Your contribution is appreciated.
+      Donate monthly Make a yearly donation Your contribution is appreciated. Donate
+      yearly Tweet'
+    one_sentence_summary: Le chef d'état-major israélien, Eyal Zamir, a déclaré avoir
+      terminé la première phase de l'opération Chars de Gédéon pour préparer des négociations,
+      mais le Premier ministre Benyamin Netanyahou a changé les objectifs en ordonnant
+      une occupation plus risquée de la ville de Gaza.
+    paragraph_summary: 'Israeli Chief of Staff Eyal Zamir believes he has completed
+      the initial phase of Operation Gideon, which aimed to strengthen Israel''s negotiating
+      position to end the war and secure the release of Israeli prisoners. However,
+      Prime Minister Benjamin Netanyahu has shifted the military''s focus to a more
+      dangerous second phase: the occupation of Gaza City. While the first phase involved
+      targeted operations in northern Gaza to destroy Hamas infrastructure, the new
+      directive poses significant risks due to the complexities of urban warfare in
+      Gaza, characterized by narrow streets, extensive tunnel networks, and a civilian
+      population intermingled with combatants. Historical precedents, such as the unexpected
+      Israeli losses in Jenin during Operation Defensive Shield in 2002 and the heavy
+      toll from Hezbollah in 2006, highlight the challenges Israel may face in this
+      new phase of conflict.'
+    published: '2025-08-28T17:01:44+00:00'
+  - title: Worauf wartet die israelische Armee, bevor sie Gaza-Stadt angreift?
+    url: https://ejmagnier.com/2025/08/28/worauf-wartet-die-israelische-armee-bevor-sie-gaza-stadt-angreift/
+    text: 'Tweet Von Elijah J. Magnier – Der israelische Generalstabschef Eyal Zamir
+      glaubt, dass er die ihm anvertraute erste Mission bereits erfüllt hat. Die Operation
+      „Gideon’s Chariots” sollte den Boden bereiten, damit die Regierung aus einer Position
+      der maximalen Stärke heraus verhandeln, den Krieg beenden und die Freilassung
+      israelischer Gefangener erreichen konnte. Doch gerade als Zamir diese Erfolge
+      konsolidieren wollte, änderte Premierminister Benjamin Netanjahu abrupt die Zielvorgaben.
+      Er hat nun die Armee angewiesen, eine zweite, weitaus gefährlichere Phase einzuleiten:
+      die Besetzung von Gaza-Stadt. Die Operation „Gideon’s Chariots” wurde im gesamten
+      Gazastreifen durchgeführt, ihr Schwerpunkt lag jedoch im Norden, rund um Gaza-Stadt.
+      Hier konzentrierte Israel seine Bombardierungen und begrenzten Bodenoffensiven
+      mit dem Ziel, Tunnel, Waffenlager und Kommandozentralen der Hamas zu zerstören.
+      Gleichzeitig operierten israelische Streitkräfte entlang der Grenzgebiete, um
+      Pufferzonen zu schaffen und ihre Einstiegspunkte zu sichern. Die Operation war
+      nie als vollständige Invasion gedacht. Für Zamir sind die Risiken offensichtlich.
+      Der Stadtkrieg in Gaza ist anders als alle Schlachtfelder, mit denen Israel bisher
+      konfrontiert war. Die engen Gassen der Stadt, das ausgedehnte Tunnelnetz und eine
+      Zivilbevölkerung, die tief mit den Widerstandskämpfern verwoben ist, verwandeln
+      sie in ein tödliches Labyrinth für jede konventionelle Streitmacht. Die Geschichte
+      liefert ernüchternde Warnungen. Im Jahr 2002 erlitten israelische Truppen während
+      der Operation „Defensive Shield“ unerwartete Verluste in Jenin. Im Jahr 2006 forderte
+      der Widerstand der Hisbollah im Südlibanon schwere Verluste und deckte die Grenzen
+      der militärischen Überlegenheit Israels in dichtem Gelände auf. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israeli Chief of Staff Eyal Zamir believes he has completed
+      the initial phase of Operation "Gideon's Chariots," aimed at strengthening Israel's
+      negotiating position, but Prime Minister Benjamin Netanyahu has abruptly shifted
+      the mission's focus to a more dangerous phase involving the occupation of Gaza
+      City.
+    paragraph_summary: Israeli Chief of Staff Eyal Zamir believes he has completed the
+      initial mission of Operation "Gideon's Chariots," which aimed to strengthen Israel's
+      negotiating position to end the war and secure the release of Israeli prisoners.
+      However, Prime Minister Benjamin Netanyahu has abruptly shifted the objectives,
+      directing the army to initiate a more dangerous phase involving the occupation
+      of Gaza City. The operation, primarily focused in northern Gaza, targeted Hamas
+      infrastructure through bombings and limited ground offensives, while Israeli forces
+      established buffer zones along the borders. Zamir recognizes the significant risks
+      of urban warfare in Gaza, which presents unique challenges due to its narrow streets,
+      extensive tunnel networks, and a civilian population closely intertwined with
+      militants, echoing past Israeli military setbacks in similar environments.
+    published: '2025-08-28T16:59:01+00:00'
+  - title: Worauf wartet die israelische Armee, bevor sie Gaza-Stadt angreift?
+    url: https://ejmagnier.com/2025/08/28/worauf-wartet-die-israelische-armee-bevor-sie-gaza-stadt-angreift/
+    text: 'Tweet Von Elijah J. Magnier – Der israelische Generalstabschef Eyal Zamir
+      glaubt, dass er die ihm anvertraute erste Mission bereits erfüllt hat. Die Operation
+      „Gideon’s Chariots” sollte den Boden bereiten, damit die Regierung aus einer Position
+      der maximalen Stärke heraus verhandeln, den Krieg beenden und die Freilassung
+      israelischer Gefangener erreichen konnte. Doch gerade als Zamir diese Erfolge
+      konsolidieren wollte, änderte Premierminister Benjamin Netanjahu abrupt die Zielvorgaben.
+      Er hat nun die Armee angewiesen, eine zweite, weitaus gefährlichere Phase einzuleiten:
+      die Besetzung von Gaza-Stadt. Die Operation „Gideon’s Chariots” wurde im gesamten
+      Gazastreifen durchgeführt, ihr Schwerpunkt lag jedoch im Norden, rund um Gaza-Stadt.
+      Hier konzentrierte Israel seine Bombardierungen und begrenzten Bodenoffensiven
+      mit dem Ziel, Tunnel, Waffenlager und Kommandozentralen der Hamas zu zerstören.
+      Gleichzeitig operierten israelische Streitkräfte entlang der Grenzgebiete, um
+      Pufferzonen zu schaffen und ihre Einstiegspunkte zu sichern. Die Operation war
+      nie als vollständige Invasion gedacht. Für Zamir sind die Risiken offensichtlich.
+      Der Stadtkrieg in Gaza ist anders als alle Schlachtfelder, mit denen Israel bisher
+      konfrontiert war. Die engen Gassen der Stadt, das ausgedehnte Tunnelnetz und eine
+      Zivilbevölkerung, die tief mit den Widerstandskämpfern verwoben ist, verwandeln
+      sie in ein tödliches Labyrinth für jede konventionelle Streitmacht. Die Geschichte
+      liefert ernüchternde Warnungen. Im Jahr 2002 erlitten israelische Truppen während
+      der Operation „Defensive Shield“ unerwartete Verluste in Jenin. Im Jahr 2006 forderte
+      der Widerstand der Hisbollah im Südlibanon schwere Verluste und deckte die Grenzen
+      der militärischen Überlegenheit Israels in dichtem Gelände auf. Subscribe Subscribe
+      to get access Read more of this content when you subscribe today. Subscribe Submitting
+      form Log in Make a one-time donation Your contribution is appreciated. Donate
+      Make a monthly donation Your contribution is appreciated. Donate monthly Make
+      a yearly donation Your contribution is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israeli Chief of Staff Eyal Zamir believes he has completed
+      the initial phase of Operation "Gideon's Chariots," aimed at strengthening Israel's
+      negotiating position, but Prime Minister Benjamin Netanyahu has abruptly shifted
+      the mission's focus to a more dangerous phase involving the occupation of Gaza
+      City.
+    paragraph_summary: Israeli Chief of Staff Eyal Zamir believes he has completed the
+      initial mission of Operation "Gideon's Chariots," which aimed to strengthen Israel's
+      negotiating position to end the war and secure the release of Israeli prisoners.
+      However, Prime Minister Benjamin Netanyahu has abruptly shifted the objectives,
+      directing the army to initiate a more dangerous phase involving the occupation
+      of Gaza City. The operation, primarily focused in northern Gaza, targeted Hamas
+      infrastructure through bombings and limited ground offensives, while Israeli forces
+      established buffer zones along the borders. Zamir recognizes the significant risks
+      of urban warfare in Gaza, which presents unique challenges due to its narrow streets,
+      extensive tunnel networks, and a civilian population closely intertwined with
+      militants, echoing past Israeli military setbacks in similar environments.
+    published: '2025-08-28T16:59:01+00:00'
+  - title: Waar wacht het Israëlische leger op om Gaza-Stad aan te vallen?
+    url: https://ejmagnier.com/2025/08/28/waar-wacht-het-israelische-leger-op-om-gaza-stad-aan-te-vallen/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De Israëlische
+      stafchef, Eyal Zamir, is van mening dat hij de eerste missie die hem was toevertrouwd
+      al heeft volbracht. Operatie Gideon’s Chariots was bedoeld om de weg te effenen
+      zodat de regering vanuit een positie van maximale kracht kon onderhandelen, de
+      oorlog kon beëindigen en de vrijlating van Israëlische gevangenen kon veiligstellen.
+      Maar net toen Zamir deze resultaten wilde consolideren, veranderde premier Benjamin
+      Netanyahu plotseling de doelstellingen. Hij heeft het leger nu opgedragen een
+      tweede, veel gevaarlijkere fase in te gaan: de bezetting van Gaza-stad. Operatie
+      Gideon’s Chariots werd uitgevoerd in de hele Gazastrook, maar was vooral gericht
+      op het noorden, rond Gaza-stad. Daar concentreerde Israël zijn bombardementen
+      en beperkte grondinvasies, met als doel de tunnels, wapenopslagplaatsen en commandocentra
+      van Hamas te vernietigen. Tegelijkertijd voerden Israëlische troepen operaties
+      uit langs de grensgebieden om bufferzones te creëren en hun toegangspunten te
+      beveiligen. De operatie was nooit bedoeld als een volledige invasie. Voor Zamir
+      zijn de risico’s overduidelijk. Stedelijke oorlogsvoering in Gaza is anders dan
+      alle andere slagvelden waarmee Israël te maken heeft gehad. De smalle straten
+      van de stad, het uitgebreide netwerk van tunnels en de burgerbevolking die nauw
+      verweven is met de verzetsstrijders, maken het tot een dodelijk doolhof voor elke
+      conventionele strijdmacht. De geschiedenis biedt ontnuchterende waarschuwingen.
+      In 2002, tijdens operatie Defensive Shield , leden Israëlische troepen onverwachte
+      verliezen in Jenin. In 2006 leidde het verzet van Hezbollah in Zuid-Libanon tot
+      zware verliezen en werden de grenzen van de militaire superioriteit van Israël
+      in dichtbegroeid terrein blootgelegd. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israëlische stafchef Eyal Zamir beschouwde de eerste fase
+      van Operatie Gideon’s Chariots als succesvol, gericht op onderhandelingen en de
+      vrijlating van gevangenen, maar premier Netanyahu heeft de strategie gewijzigd
+      naar een gevaarlijkere fase met de bezetting van Gaza-stad.
+    paragraph_summary: 'Israëlische stafchef Eyal Zamir beschouwt zijn eerste missie,
+      Operatie Gideon’s Chariots, als succesvol, omdat deze bedoeld was om een sterke
+      onderhandelingspositie voor de regering te creëren, de oorlog te beëindigen en
+      de vrijlating van Israëlische gevangenen te waarborgen. Echter, premier Benjamin
+      Netanyahu heeft de doelstellingen gewijzigd en het leger opgedragen een gevaarlijkere
+      fase te betreden: de bezetting van Gaza-stad. De operatie richtte zich op het
+      vernietigen van Hamas-tunnels en wapenopslagplaatsen in de Gazastrook, vooral
+      in het noorden, maar was nooit bedoeld als een volledige invasie. Zamir waarschuwt
+      voor de risico''s van stedelijke oorlogsvoering in Gaza, waar de complexe infrastructuur
+      en de burgerbevolking de strijd bemoeilijken, en verwijst naar eerdere conflicten
+      die zware verliezen voor Israël hebben veroorzaakt.'
+    published: '2025-08-28T16:54:47+00:00'
+  - title: Waar wacht het Israëlische leger op om Gaza-Stad aan te vallen?
+    url: https://ejmagnier.com/2025/08/28/waar-wacht-het-israelische-leger-op-om-gaza-stad-aan-te-vallen/
+    text: 'Tweet Geschreven door Elijah J. Magnier – Vertaald door Francis J. De Israëlische
+      stafchef, Eyal Zamir, is van mening dat hij de eerste missie die hem was toevertrouwd
+      al heeft volbracht. Operatie Gideon’s Chariots was bedoeld om de weg te effenen
+      zodat de regering vanuit een positie van maximale kracht kon onderhandelen, de
+      oorlog kon beëindigen en de vrijlating van Israëlische gevangenen kon veiligstellen.
+      Maar net toen Zamir deze resultaten wilde consolideren, veranderde premier Benjamin
+      Netanyahu plotseling de doelstellingen. Hij heeft het leger nu opgedragen een
+      tweede, veel gevaarlijkere fase in te gaan: de bezetting van Gaza-stad. Operatie
+      Gideon’s Chariots werd uitgevoerd in de hele Gazastrook, maar was vooral gericht
+      op het noorden, rond Gaza-stad. Daar concentreerde Israël zijn bombardementen
+      en beperkte grondinvasies, met als doel de tunnels, wapenopslagplaatsen en commandocentra
+      van Hamas te vernietigen. Tegelijkertijd voerden Israëlische troepen operaties
+      uit langs de grensgebieden om bufferzones te creëren en hun toegangspunten te
+      beveiligen. De operatie was nooit bedoeld als een volledige invasie. Voor Zamir
+      zijn de risico’s overduidelijk. Stedelijke oorlogsvoering in Gaza is anders dan
+      alle andere slagvelden waarmee Israël te maken heeft gehad. De smalle straten
+      van de stad, het uitgebreide netwerk van tunnels en de burgerbevolking die nauw
+      verweven is met de verzetsstrijders, maken het tot een dodelijk doolhof voor elke
+      conventionele strijdmacht. De geschiedenis biedt ontnuchterende waarschuwingen.
+      In 2002, tijdens operatie Defensive Shield , leden Israëlische troepen onverwachte
+      verliezen in Jenin. In 2006 leidde het verzet van Hezbollah in Zuid-Libanon tot
+      zware verliezen en werden de grenzen van de militaire superioriteit van Israël
+      in dichtbegroeid terrein blootgelegd. Subscribe Subscribe to get access Read more
+      of this content when you subscribe today. Subscribe Submitting form Log in Make
+      a one-time donation Your contribution is appreciated. Donate Make a monthly donation
+      Your contribution is appreciated. Donate monthly Make a yearly donation Your contribution
+      is appreciated. Donate yearly Tweet'
+    one_sentence_summary: Israëlische stafchef Eyal Zamir beschouwde de eerste fase
+      van Operatie Gideon’s Chariots als succesvol, gericht op onderhandelingen en de
+      vrijlating van gevangenen, maar premier Netanyahu heeft de strategie gewijzigd
+      naar een gevaarlijkere fase met de bezetting van Gaza-stad.
+    paragraph_summary: 'Israëlische stafchef Eyal Zamir beschouwt zijn eerste missie,
+      Operatie Gideon’s Chariots, als succesvol, omdat deze bedoeld was om een sterke
+      onderhandelingspositie voor de regering te creëren, de oorlog te beëindigen en
+      de vrijlating van Israëlische gevangenen te waarborgen. Echter, premier Benjamin
+      Netanyahu heeft de doelstellingen gewijzigd en het leger opgedragen een gevaarlijkere
+      fase te betreden: de bezetting van Gaza-stad. De operatie richtte zich op het
+      vernietigen van Hamas-tunnels en wapenopslagplaatsen in de Gazastrook, vooral
+      in het noorden, maar was nooit bedoeld als een volledige invasie. Zamir waarschuwt
+      voor de risico''s van stedelijke oorlogsvoering in Gaza, waar de complexe infrastructuur
+      en de burgerbevolking de strijd bemoeilijken, en verwijst naar eerdere conflicten
+      die zware verliezen voor Israël hebben veroorzaakt.'
+    published: '2025-08-28T16:54:47+00:00'
   - title: 'Geringe Hitze, hoher Einsatz: Steht ein weiterer hybrider Krieg zwischen
       Israel und dem Iran bevor?'
     url: https://ejmagnier.com/2025/08/25/geringe-hitze-hoher-einsatz-steht-ein-weiterer-hybrider-krieg-zwischen-israel-und-dem-iran-bevor/

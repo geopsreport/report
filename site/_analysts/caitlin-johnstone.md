@@ -7,16 +7,1190 @@ description: "Australian satirical anti–war journalist; reader–funded Substa
 websites:
   - https://www.caitlinjohnst.one/
 summary: |
-  As global tensions remain high over the ongoing crisis in Gaza and its international reverberations, recent developments have brought new geopolitical flashpoints to the fore. The humanitarian catastrophe in Gaza continues to dominate discourse, but fresh allegations against Iran and their diplomatic fallout are now shaping the broader regional narrative.
+  The geopolitical landscape remains dominated by the ongoing crisis in Gaza, with recent developments intensifying scrutiny of Israel’s actions. The International Association of Genocide Scholars has released a landmark finding: 86% of its members now agree that Israel is committing genocide in Gaza, a position echoed by multiple human rights organizations. Israel’s Foreign Ministry, however, continues to reject these conclusions, dismissing them as “misinformation from Hamas.” **Caitlin Johnstone** notes that this consensus among genocide experts marks a significant shift in the international discourse, making denial of the genocide label increasingly untenable.
   
-  The most significant new development comes from Australia, where Prime Minister Anthony Albanese has announced the expulsion of the Iranian ambassador and the intention to designate Iran’s Islamic Revolutionary Guard Corps as a terrorist organization. This move follows intelligence assessments alleging Iranian involvement in recent antisemitic arson attacks on Australian soil. However, as **Caitlin Johnstone** reports, “there is a conspicuous lack of evidence for these claims,” raising questions about the veracity and motivations behind the Australian government’s actions. The majority of independent analysts echo skepticism, noting the absence of publicly available proof and warning of the potential for escalation based on unsubstantiated intelligence.
+  Public debate in Western societies is also evolving. In her latest analysis, **Johnstone** explores the moral dilemmas faced by individuals whose friends remain indifferent to the Gaza crisis. She suggests that distancing from those who ignore such grave injustices is a natural response, reflecting a broader societal reckoning with complicity and moral responsibility.
   
-  Meanwhile, the humanitarian crisis in Gaza remains acute. Previous reports have established widespread starvation and civilian casualties, with at least 83 percent of those killed in Israeli attacks being civilians, according to a joint investigation by The Guardian and +972 Magazine. The narrative that Hamas is responsible for the famine by stealing aid has been debunked by both Israeli military officials and independent journalists. **Johnstone** stresses that “the dire conditions faced by civilians and the collapse of healthcare infrastructure” are well-documented, contradicting claims that the crisis is exaggerated or fabricated.
+  Meanwhile, the U.S. military buildup near Venezuela continues, with President Trump’s administration justifying the deployment of warships as an anti-narcotics operation. However, **Johnstone** argues that these moves are widely perceived as preparation for a potential conflict, with Caracas on high alert and regional tensions escalating.
   
-  In terms of broader trends, the internationalization of the Gaza conflict is becoming more pronounced, with Western governments increasingly taking hardline stances against Iran, often without transparent evidence. There is a high chance that this pattern will continue, with further diplomatic expulsions and sanctions quite likely in the coming weeks. The humanitarian situation in Gaza is most definitely set to worsen unless there is a significant shift in policy or international intervention, which at present appears unlikely.
-  
-  In summary, the latest developments point to a hardening of Western positions against Iran amid ongoing humanitarian disaster in Gaza. The prevailing trend is one of escalating rhetoric and policy moves based on contested intelligence, with the risk of further regional destabilization. Most analysts predict that without a major change in diplomatic approach, these dynamics will persist and intensify.
+  Looking ahead, the majority of independent analysts predict that international pressure on Israel will intensify as the genocide designation gains traction among scholars and advocacy groups. There is a high chance that Western governments will face growing calls to reassess their support for Israel. In Latin America, the risk of confrontation between the U.S. and Venezuela remains elevated, with most observers warning that any incident could quickly escalate. The prevailing trend is toward increased polarization and a hardening of positions, both in the Middle East and the Americas. Given the current trajectory, it is quite likely that the coming weeks will see further diplomatic fallout and heightened activism around these crises.
 articles:
+  - title: '"It''s Not A Genocide" Is Not A Defensible Claim In The Year 2025'
+    url: https://www.caitlinjohnst.one/p/its-not-a-genocide-is-not-a-defensible
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now The International Association of Genocide
+      Scholars (IAGS) has determined that Israel is committing genocide in Gaza. This
+      is the world’s largest association of genocide scholars, with around 500 experts
+      on the subject including many Holocaust scholars. The consensus was reached by
+      an overwhelming supermajority of the experts — 86 percent, to be exact. Everyone
+      needs to understand that “there is no genocide in Gaza” is not a claim that can
+      be taken seriously in the year 2025. Amnesty International , Human Rights Watch
+      , UN human rights experts , Israeli human rights groups like B’Tselem , and the
+      overwhelming majority of genocide scholars all agree it’s a genocide. The debate
+      is over. The hasbarists lost. Israel’s Foreign Ministry is of course claiming
+      that the IAGS assessment is “entirely based on Hamas’s campaign of lies.” That’s
+      right folks, the genocide scholars are Hamas. They’re just so unbelievably evil.
+      Nobody who’s not a cartoon or CGI supervillain has any business being this evil.
+      If you’re going to be this insanely evil you should be animated and cackling while
+      twisting your curly mustache all the time. Possibly the single dumbest thing we
+      are asked to believe about Palestine is that every major human rights institution
+      on earth is part of a secret antisemitic blood libel conspiracy. This genocide
+      is one nonstop insult to our intelligence. ❖ Israel is reportedly planning to
+      cut off the small amount of aid it has been allowing in to northern Gaza. This
+      comes after both UN-backed and US-funded hunger monitor groups determined that
+      Israel is causing a famine in Gaza, which was preceded by weeks of Israel furiously
+      denying that it was starving Gaza, which was preceded by Israeli officials openly
+      announcing that they intended to starve Gaza. https://x.com/caitoz/status/1962444461130321990
+      ❖ The western press have been dutifully parroting the US and Israeli government
+      line that Trump’s plan for the ethnic cleansing of Gaza will be “voluntary” in
+      their headlines. “ Gaza postwar plan envisions ‘voluntary’ relocation of entire
+      population ,” reads a headline from The Washington Post. “ U.S.-run ‘Gaza Riviera’:
+      Post-war redevelopment plan sees ‘voluntary relocation’ of millions ,” says CNBC.
+      “ Trump’s Gaza plan involves ‘voluntary’ relocation of Palestinians — and giving
+      them $5,000 each ,” says The Independent. “ Gaza post-war plan proposes ‘voluntary’
+      relocation, ‘tokens’ in exchange for land ,” says France 24. We’re going to be
+      hearing this “voluntary” relocation slogan a lot going forward, and everyone should
+      understand that it’s a lie. There is nothing “voluntary” about leaving an area
+      that is being deliberately made uninhabitable by someone with power over you.
+      It’s exactly the same as forcing people out at gunpoint. It is propaganda and
+      journalistic malpractice for the western media to be pushing this slogan. ❖ I
+      saw a tweet from liberal influencer Steven Bonnell AKA Destiny saying “Palestine
+      is just fashion for leftists.” Bidenists say this all the time, and it reveals
+      so much about their worldview. They cannot fathom the concept of someone opposing
+      a genocide because genocide is bad; it can only be some kind of trendy fashion
+      statement because it happens to be what’s popular right now. These are people
+      who are not motivated by morality, facts and logic, but solely by selfish and
+      cynical impulses which they then project onto everyone else. They can’t imagine
+      anyone doing something because it’s the right thing to do, so they have to make
+      up some reason why there must be something in it for them in order for their actions
+      to make sense. But it is good that even through their own narcissistic, egocentric
+      lens they are beginning to understand that supporting an active genocide has widely
+      become viewed as unacceptable, and that abandoning that insane position is the
+      only way to gain acceptance in mainstream society. Those who can’t be brought
+      into line through appeal to compassion and reason can be brought into line through
+      peer pressure and social stigma. ❖ When you see the way pro-genocide Jews attack
+      vocally anti-genocide Jews, you understand why there aren’t more vocally anti-genocide
+      Jews. This isn’t to excuse anyone from their moral obligation to oppose an active
+      genocide, only to point out one of the control mechanisms. I’ve watched Zionists
+      constantly try to convince Israeli American academic Shaiel Ben-Ephraim to start
+      drinking again after he switched from defending the genocide to opposing it (he’s
+      open about being a recovering alcoholic). I catch flak from Israel supporters
+      24/7, but I’ve never had to deal with that level of vitriolic, high-octane hatred.
+      Non-Jews like myself who oppose the Gaza holocaust just don’t have to deal with
+      that degree of venom. And that’s just what’s visible to me online. Again, this
+      doesn’t excuse the moral obligation that Jews and non-Jews alike have to oppose
+      Israel’s genocidal atrocities. I’m just pointing out one of the many abusive dynamics
+      used to maintain the status quo. _________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Alisdare Hickson (CC BY-SA
+      2.0)'
+    one_sentence_summary: The International Association of Genocide Scholars has concluded
+      that Israel is committing genocide in Gaza, with 86% of its members agreeing,
+      a stance supported by various human rights organizations, despite Israel's Foreign
+      Ministry dismissing the findings as based on misinformation from Hamas.
+    paragraph_summary: The International Association of Genocide Scholars (IAGS), comprising
+      around 500 experts, has overwhelmingly concluded that Israel is committing genocide
+      in Gaza, with 86% of scholars supporting this assessment. This consensus aligns
+      with findings from organizations like Amnesty International, Human Rights Watch,
+      and Israeli human rights groups, effectively ending the debate on the matter.
+      In response, Israel's Foreign Ministry dismissed the IAGS's conclusions as based
+      on "Hamas’s campaign of lies," suggesting that critics are part of an antisemitic
+      conspiracy. Additionally, Israel is reportedly planning to halt the limited aid
+      entering northern Gaza, amidst claims from UN-backed and US-funded groups that
+      Israel is causing famine in the region, a situation exacerbated by previous denials
+      from Israeli officials about starving Gaza. The article critiques the narrative
+      that major human rights institutions are engaged in a secretive conspiracy against
+      Israel, arguing that such claims insult public intelligence.
+    published: '2025-09-02T14:10:51+00:00'
+  - title: '"It''s Not A Genocide" Is Not A Defensible Claim In The Year 2025'
+    url: https://www.caitlinjohnst.one/p/its-not-a-genocide-is-not-a-defensible
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now The International Association of Genocide
+      Scholars (IAGS) has determined that Israel is committing genocide in Gaza. This
+      is the world’s largest association of genocide scholars, with around 500 experts
+      on the subject including many Holocaust scholars. The consensus was reached by
+      an overwhelming supermajority of the experts — 86 percent, to be exact. Everyone
+      needs to understand that “there is no genocide in Gaza” is not a claim that can
+      be taken seriously in the year 2025. Amnesty International , Human Rights Watch
+      , UN human rights experts , Israeli human rights groups like B’Tselem , and the
+      overwhelming majority of genocide scholars all agree it’s a genocide. The debate
+      is over. The hasbarists lost. Israel’s Foreign Ministry is of course claiming
+      that the IAGS assessment is “entirely based on Hamas’s campaign of lies.” That’s
+      right folks, the genocide scholars are Hamas. They’re just so unbelievably evil.
+      Nobody who’s not a cartoon or CGI supervillain has any business being this evil.
+      If you’re going to be this insanely evil you should be animated and cackling while
+      twisting your curly mustache all the time. Possibly the single dumbest thing we
+      are asked to believe about Palestine is that every major human rights institution
+      on earth is part of a secret antisemitic blood libel conspiracy. This genocide
+      is one nonstop insult to our intelligence. ❖ Israel is reportedly planning to
+      cut off the small amount of aid it has been allowing in to northern Gaza. This
+      comes after both UN-backed and US-funded hunger monitor groups determined that
+      Israel is causing a famine in Gaza, which was preceded by weeks of Israel furiously
+      denying that it was starving Gaza, which was preceded by Israeli officials openly
+      announcing that they intended to starve Gaza. https://x.com/caitoz/status/1962444461130321990
+      ❖ The western press have been dutifully parroting the US and Israeli government
+      line that Trump’s plan for the ethnic cleansing of Gaza will be “voluntary” in
+      their headlines. “ Gaza postwar plan envisions ‘voluntary’ relocation of entire
+      population ,” reads a headline from The Washington Post. “ U.S.-run ‘Gaza Riviera’:
+      Post-war redevelopment plan sees ‘voluntary relocation’ of millions ,” says CNBC.
+      “ Trump’s Gaza plan involves ‘voluntary’ relocation of Palestinians — and giving
+      them $5,000 each ,” says The Independent. “ Gaza post-war plan proposes ‘voluntary’
+      relocation, ‘tokens’ in exchange for land ,” says France 24. We’re going to be
+      hearing this “voluntary” relocation slogan a lot going forward, and everyone should
+      understand that it’s a lie. There is nothing “voluntary” about leaving an area
+      that is being deliberately made uninhabitable by someone with power over you.
+      It’s exactly the same as forcing people out at gunpoint. It is propaganda and
+      journalistic malpractice for the western media to be pushing this slogan. ❖ I
+      saw a tweet from liberal influencer Steven Bonnell AKA Destiny saying “Palestine
+      is just fashion for leftists.” Bidenists say this all the time, and it reveals
+      so much about their worldview. They cannot fathom the concept of someone opposing
+      a genocide because genocide is bad; it can only be some kind of trendy fashion
+      statement because it happens to be what’s popular right now. These are people
+      who are not motivated by morality, facts and logic, but solely by selfish and
+      cynical impulses which they then project onto everyone else. They can’t imagine
+      anyone doing something because it’s the right thing to do, so they have to make
+      up some reason why there must be something in it for them in order for their actions
+      to make sense. But it is good that even through their own narcissistic, egocentric
+      lens they are beginning to understand that supporting an active genocide has widely
+      become viewed as unacceptable, and that abandoning that insane position is the
+      only way to gain acceptance in mainstream society. Those who can’t be brought
+      into line through appeal to compassion and reason can be brought into line through
+      peer pressure and social stigma. ❖ When you see the way pro-genocide Jews attack
+      vocally anti-genocide Jews, you understand why there aren’t more vocally anti-genocide
+      Jews. This isn’t to excuse anyone from their moral obligation to oppose an active
+      genocide, only to point out one of the control mechanisms. I’ve watched Zionists
+      constantly try to convince Israeli American academic Shaiel Ben-Ephraim to start
+      drinking again after he switched from defending the genocide to opposing it (he’s
+      open about being a recovering alcoholic). I catch flak from Israel supporters
+      24/7, but I’ve never had to deal with that level of vitriolic, high-octane hatred.
+      Non-Jews like myself who oppose the Gaza holocaust just don’t have to deal with
+      that degree of venom. And that’s just what’s visible to me online. Again, this
+      doesn’t excuse the moral obligation that Jews and non-Jews alike have to oppose
+      Israel’s genocidal atrocities. I’m just pointing out one of the many abusive dynamics
+      used to maintain the status quo. _________________ Caitlin’s Newsletter is a reader-supported
+      publication. To receive new posts and support my work, consider becoming a free
+      or paid subscriber. The best way to make sure you see everything I write is to
+      get on my free mailing list . My work is entirely reader-supported , so if you
+      enjoyed this piece here are some options where you can toss some money into my
+      tip jar if you want to. Click here for links for my social media, books, merch,
+      and audio/video versions of each article . All my work is free to bootleg and
+      use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Alisdare Hickson (CC BY-SA
+      2.0)'
+    one_sentence_summary: The International Association of Genocide Scholars has concluded
+      that Israel is committing genocide in Gaza, with 86% of its members agreeing,
+      a stance supported by various human rights organizations, despite Israel's Foreign
+      Ministry dismissing the findings as based on misinformation from Hamas.
+    paragraph_summary: The International Association of Genocide Scholars (IAGS), comprising
+      around 500 experts, has overwhelmingly concluded that Israel is committing genocide
+      in Gaza, with 86% of scholars supporting this assessment. This consensus aligns
+      with findings from organizations like Amnesty International, Human Rights Watch,
+      and Israeli human rights groups, effectively ending the debate on the matter.
+      In response, Israel's Foreign Ministry dismissed the IAGS's conclusions as based
+      on "Hamas’s campaign of lies," suggesting that critics are part of an antisemitic
+      conspiracy. Additionally, Israel is reportedly planning to halt the limited aid
+      entering northern Gaza, amidst claims from UN-backed and US-funded groups that
+      Israel is causing famine in the region, a situation exacerbated by previous denials
+      from Israeli officials about starving Gaza. The article critiques the narrative
+      that major human rights institutions are engaged in a secretive conspiracy against
+      Israel, arguing that such claims insult public intelligence.
+    published: '2025-09-02T14:10:51+00:00'
+  - title: '"What About My Friends Who Don''t Care About Gaza?", And Other Questions'
+    url: https://www.caitlinjohnst.one/p/what-about-my-friends-who-dont-care
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Slow Heat asks on Youtube, “Hi Caitlin — question — I have friends, some lifelong,
+      who I don’t associate with anymore because, while maybe not supporting, are at
+      the very least ambivalent towards the genocide. I just can’t be around people
+      who are more concerned with what show or restaurant they’re trying next. Am I
+      the asshole?” I’ve been lucky enough not to have anyone significant in my life
+      who doesn’t get it, so this isn’t an issue that I personally have had to navigate.
+      But I have seen a lot of people struggle with the question of how their interpersonal
+      relationships should be affected by the position that their friends and loved
+      ones take on Gaza. From where I’m sitting this doesn’t look like you’re an asshole,
+      it just kind of looks like the natural effects playing out of learning that someone
+      in your life is a shitty person. If you found out that one of your friends likes
+      to torture small animals or drug women and rape them, or that someone in your
+      family watched a child drown in a swimming pool without doing anything, that would
+      naturally change your relationship with them in a permanent way. You would naturally
+      find yourself distancing yourself from them, and things would never be the same.
+      This wouldn’t be your fault, and it also wouldn’t be the result of any rule or
+      personal policy that you put in place. People don’t normally make a rule for themselves
+      like “never be friends with someone who adores Adolf Hitler,” they’d just naturally
+      feel themselves pulling away from anyone who does. So I don’t think this is necessarily
+      something you need to put any amount of thought into, really. This is just what
+      happens when bad people in your life reveal an ugly truth about themselves. If
+      you learn that someone in your life is cool with their government supporting a
+      genocide, you can just sort of let your feelings and natural inclinations lead
+      the way on that. ❖ Shiloh on Twitter asks, “Why does no one want to talk about
+      the genocide in Sudan?” Not that I believe this question is asked in good faith
+      (Shiloh is an Israeli account), but let’s answer it anyway. My government isn’t
+      trying to make it illegal for me to criticize the RSF. Every major western institution
+      isn’t dedicated to facilitating genocide in Sudan and stomping out all speech
+      which opposes it. My rulers aren’t backing a genocide in Sudan and commanding
+      me to support it. I oppose the genocide that I personally am involved in. When
+      my government and its allies are complicit that makes me complicit, unless I hold
+      a strong and visible “No.” Israel apologists try to frame this as somehow freakish
+      and suspicious when it’s obviously the most normal thing in the world. It’s just
+      one of the many, many bad faith ways in which hasbarists try to spin opposing
+      an active genocide as a bad thing. People who ask “Why don’t you talk about the
+      bad things those Africans and Asians are doing?” are really just saying “Stop
+      criticizing the white people, criticize the brown people instead. Stop criticizing
+      the worst abuses of the power structure you actually live under and focus on other
+      things.” It’s just manipulative concern trolling and genocide apologia. ❖ Will
+      on Facebook asks, “Sincerely asking: How do you keep all your posts free? How
+      do you support yourself while keeping your stuff free? I think it’s awesome that
+      you do that! But I’ve found it incredibly difficult to support myself with my
+      writing practice and have been thinking about selling subscriptions so I don’t
+      have to take so much other work to survive.” I’ve written about my funding plan
+      before, but it’s been years since I’ve talked about it, which is weird because
+      it’s really one of the most interesting things about this project. Basically what
+      I’ve learned is that people really will just support a writer whose work they
+      value without expecting anything in return. It’s not a way to get rich, but it
+      pays the rent and puts food on the table just fine. It’s a pure gift economy system.
+      I don’t demand anything from my readers, and those who support me don’t demand
+      anything of me. I make everything free; I don’t do ads, I don’t paywall anything,
+      I don’t do reward tiers on Patreon, and my free Substack subscription has identical
+      content to the paid one. I just work hard and put everything out there for everyone
+      to read, and invite anyone who feels called to to support what I do. I get to
+      keep working, and they get to know they’re helping me do so. And it turns out
+      that’s enough. One thing that helps is that all my platforms and articles contain
+      a notice that anyone who wishes to use or republish my work is free to do so in
+      any way they like free of charge. This has helped grow my audience, because there
+      are always platforms and publications looking for good content to publish. As
+      people get added to my audience across various platforms, a few of them will feel
+      called to help financially support what I do. It’s a model that won’t necessarily
+      work for everyone, but it has worked for me, so that’s all I can speak to with
+      any authority. If you can only make paid subscriptions or advertising or whatever
+      work for you, then there’s absolutely nothing wrong with that either. ❖ Kelly
+      on Twitter asks, “Do you think unrelentingly and deeply searching for truth, both
+      inward and outward simultaneously, willing to examine the terrifying things you
+      find, can result in ‘enlightenment’ regardless of spiritual path, be it Christian,
+      Tao, Jewish, atheist/academic, etc or whatever?” This is in regard to a previous
+      Q&A in which I discussed the distinction between spirituality and awakening, and
+      the need to expand our awareness of both our own inner processes which give rise
+      to our own individual suffering and of the abusive power dynamics which create
+      so much suffering for humanity collectively. I think courageously and deeply searching
+      for truth absolutely can lead to enlightenment, so long as your investigation
+      focuses on the nonconceptual aspects of your experience instead of searching for
+      answers in mental stories. Rigorously peering into the nature of self, thought
+      and perception can lead to a dramatic shift in consciousness after which nothing
+      is ever seen the same way again, but trying to figure out your true nature by
+      forming some kind of mental narrative about it will never work. Awakening is definitely
+      possible regardless of what your religion or non-religion happens to be when you
+      start out, but no religion will ever take you there. That saying “All paths lead
+      to the top of the mountain” or whatever is just nonsense; most paths lead far
+      away from the mountain, or at best just circle the foothills. Religions have very
+      little to do with enlightenment, even the ones that talk about it a lot like Buddhism
+      and Hinduism. Clarity won’t come until you discard all belief systems and all
+      your assumptions about what’s real and how things work, and start looking at what’s
+      actually going on at the most fundamental levels of your own experience. If you
+      have a question or comment you’d like a response to, just write it in the replies
+      section of whatever platform you’re reading this on and I’ll try to get to it.
+      _________________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article discusses the dilemma of whether to maintain friendships
+      with individuals who are indifferent to serious moral issues, such as the genocide
+      in Gaza, suggesting that distancing oneself from such friends may be a natural
+      response to discovering their troubling views.
+    paragraph_summary: The article addresses a question posed on YouTube about whether
+      someone is wrong for distancing themselves from friends who are indifferent to
+      the genocide in Gaza. The author reflects on the broader implications of such
+      relationships, suggesting that discovering a friend's troubling views can naturally
+      lead to a reevaluation of that relationship. They argue that it's not about adhering
+      to a personal policy but rather a natural response to realizing someone has harmful
+      beliefs, akin to distancing oneself from individuals who engage in heinous acts.
+      Ultimately, the author concludes that it's reasonable to let one's feelings guide
+      their decisions regarding friendships when confronted with such moral discrepancies.
+    published: '2025-09-01T02:39:29+00:00'
+  - title: '"What About My Friends Who Don''t Care About Gaza?", And Other Questions'
+    url: https://www.caitlinjohnst.one/p/what-about-my-friends-who-dont-care
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Slow Heat asks on Youtube, “Hi Caitlin — question — I have friends, some lifelong,
+      who I don’t associate with anymore because, while maybe not supporting, are at
+      the very least ambivalent towards the genocide. I just can’t be around people
+      who are more concerned with what show or restaurant they’re trying next. Am I
+      the asshole?” I’ve been lucky enough not to have anyone significant in my life
+      who doesn’t get it, so this isn’t an issue that I personally have had to navigate.
+      But I have seen a lot of people struggle with the question of how their interpersonal
+      relationships should be affected by the position that their friends and loved
+      ones take on Gaza. From where I’m sitting this doesn’t look like you’re an asshole,
+      it just kind of looks like the natural effects playing out of learning that someone
+      in your life is a shitty person. If you found out that one of your friends likes
+      to torture small animals or drug women and rape them, or that someone in your
+      family watched a child drown in a swimming pool without doing anything, that would
+      naturally change your relationship with them in a permanent way. You would naturally
+      find yourself distancing yourself from them, and things would never be the same.
+      This wouldn’t be your fault, and it also wouldn’t be the result of any rule or
+      personal policy that you put in place. People don’t normally make a rule for themselves
+      like “never be friends with someone who adores Adolf Hitler,” they’d just naturally
+      feel themselves pulling away from anyone who does. So I don’t think this is necessarily
+      something you need to put any amount of thought into, really. This is just what
+      happens when bad people in your life reveal an ugly truth about themselves. If
+      you learn that someone in your life is cool with their government supporting a
+      genocide, you can just sort of let your feelings and natural inclinations lead
+      the way on that. ❖ Shiloh on Twitter asks, “Why does no one want to talk about
+      the genocide in Sudan?” Not that I believe this question is asked in good faith
+      (Shiloh is an Israeli account), but let’s answer it anyway. My government isn’t
+      trying to make it illegal for me to criticize the RSF. Every major western institution
+      isn’t dedicated to facilitating genocide in Sudan and stomping out all speech
+      which opposes it. My rulers aren’t backing a genocide in Sudan and commanding
+      me to support it. I oppose the genocide that I personally am involved in. When
+      my government and its allies are complicit that makes me complicit, unless I hold
+      a strong and visible “No.” Israel apologists try to frame this as somehow freakish
+      and suspicious when it’s obviously the most normal thing in the world. It’s just
+      one of the many, many bad faith ways in which hasbarists try to spin opposing
+      an active genocide as a bad thing. People who ask “Why don’t you talk about the
+      bad things those Africans and Asians are doing?” are really just saying “Stop
+      criticizing the white people, criticize the brown people instead. Stop criticizing
+      the worst abuses of the power structure you actually live under and focus on other
+      things.” It’s just manipulative concern trolling and genocide apologia. ❖ Will
+      on Facebook asks, “Sincerely asking: How do you keep all your posts free? How
+      do you support yourself while keeping your stuff free? I think it’s awesome that
+      you do that! But I’ve found it incredibly difficult to support myself with my
+      writing practice and have been thinking about selling subscriptions so I don’t
+      have to take so much other work to survive.” I’ve written about my funding plan
+      before, but it’s been years since I’ve talked about it, which is weird because
+      it’s really one of the most interesting things about this project. Basically what
+      I’ve learned is that people really will just support a writer whose work they
+      value without expecting anything in return. It’s not a way to get rich, but it
+      pays the rent and puts food on the table just fine. It’s a pure gift economy system.
+      I don’t demand anything from my readers, and those who support me don’t demand
+      anything of me. I make everything free; I don’t do ads, I don’t paywall anything,
+      I don’t do reward tiers on Patreon, and my free Substack subscription has identical
+      content to the paid one. I just work hard and put everything out there for everyone
+      to read, and invite anyone who feels called to to support what I do. I get to
+      keep working, and they get to know they’re helping me do so. And it turns out
+      that’s enough. One thing that helps is that all my platforms and articles contain
+      a notice that anyone who wishes to use or republish my work is free to do so in
+      any way they like free of charge. This has helped grow my audience, because there
+      are always platforms and publications looking for good content to publish. As
+      people get added to my audience across various platforms, a few of them will feel
+      called to help financially support what I do. It’s a model that won’t necessarily
+      work for everyone, but it has worked for me, so that’s all I can speak to with
+      any authority. If you can only make paid subscriptions or advertising or whatever
+      work for you, then there’s absolutely nothing wrong with that either. ❖ Kelly
+      on Twitter asks, “Do you think unrelentingly and deeply searching for truth, both
+      inward and outward simultaneously, willing to examine the terrifying things you
+      find, can result in ‘enlightenment’ regardless of spiritual path, be it Christian,
+      Tao, Jewish, atheist/academic, etc or whatever?” This is in regard to a previous
+      Q&A in which I discussed the distinction between spirituality and awakening, and
+      the need to expand our awareness of both our own inner processes which give rise
+      to our own individual suffering and of the abusive power dynamics which create
+      so much suffering for humanity collectively. I think courageously and deeply searching
+      for truth absolutely can lead to enlightenment, so long as your investigation
+      focuses on the nonconceptual aspects of your experience instead of searching for
+      answers in mental stories. Rigorously peering into the nature of self, thought
+      and perception can lead to a dramatic shift in consciousness after which nothing
+      is ever seen the same way again, but trying to figure out your true nature by
+      forming some kind of mental narrative about it will never work. Awakening is definitely
+      possible regardless of what your religion or non-religion happens to be when you
+      start out, but no religion will ever take you there. That saying “All paths lead
+      to the top of the mountain” or whatever is just nonsense; most paths lead far
+      away from the mountain, or at best just circle the foothills. Religions have very
+      little to do with enlightenment, even the ones that talk about it a lot like Buddhism
+      and Hinduism. Clarity won’t come until you discard all belief systems and all
+      your assumptions about what’s real and how things work, and start looking at what’s
+      actually going on at the most fundamental levels of your own experience. If you
+      have a question or comment you’d like a response to, just write it in the replies
+      section of whatever platform you’re reading this on and I’ll try to get to it.
+      _________________ Caitlin’s Newsletter is a reader-supported publication. To receive
+      new posts and support my work, consider becoming a free or paid subscriber. The
+      best way to make sure you see everything I write is to get on my free mailing
+      list . My work is entirely reader-supported , so if you enjoyed this piece here
+      are some options where you can toss some money into my tip jar if you want to.
+      Click here for links for my social media, books, merch, and audio/video versions
+      of each article . All my work is free to bootleg and use in any way, shape or
+      form; republish it, translate it, use it on merchandise; whatever you want. All
+      works co-authored with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: The article discusses the dilemma of whether to maintain friendships
+      with individuals who are indifferent to serious moral issues, such as the genocide
+      in Gaza, suggesting that distancing oneself from such friends may be a natural
+      response to discovering their troubling views.
+    paragraph_summary: The article addresses a question posed on YouTube about whether
+      someone is wrong for distancing themselves from friends who are indifferent to
+      the genocide in Gaza. The author reflects on the broader implications of such
+      relationships, suggesting that discovering a friend's troubling views can naturally
+      lead to a reevaluation of that relationship. They argue that it's not about adhering
+      to a personal policy but rather a natural response to realizing someone has harmful
+      beliefs, akin to distancing oneself from individuals who engage in heinous acts.
+      Ultimately, the author concludes that it's reasonable to let one's feelings guide
+      their decisions regarding friendships when confronted with such moral discrepancies.
+    published: '2025-09-01T02:39:29+00:00'
+  - title: On Israel, Australia, And Racism
+    url: https://www.caitlinjohnst.one/p/on-israel-australia-and-racism
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Israeli journalist Gideon Levy has a new article in Haaretz titled “ Most of Israel’s
+      Protest Movement Only Cares About the Lives of the Gaza Hostages — Not of Palestinians
+      ” where he discusses his frustration and disgust with the massive disparity between
+      the value his countrymen place on Israeli and Palestinian lives. “They worry about
+      the lives of 20 hostages while ignoring the fact that their country kills 20 innocent
+      people an hour on average,” Levy writes. “For them, humanity stops at the borders
+      of nationality. They’ll leave no stone unturned to help any Israeli but avert
+      their gaze with a lack of interest in the case of a Palestinian whose fate is
+      often much worse. They are enraged at Benjamin Netanyahu’s cold-heartedness, but
+      theirs is no less evident. When it comes to Palestinians, they exhibit the same
+      evil and cold hearts.” “How can one be shocked at the sight of starving hostage
+      Evyatar David and shrug or even rejoice at the killing taking place in lines for
+      food?” askes Levy. “How can one be shocked at the murder of the Bibas family yet
+      show no interest in the 1,000 babies and 19,000 children killed by the IDF, or
+      in the 40,000 Gazan orphans? How can one lose sleep over Hamas tunnels and show
+      no interest in what goes on at the Sde Teiman or Megiddo detention centers, to
+      our shame? How is this possible?” https://x.com/infinite_jaz/status/1961959376559759661
+      And, of course, we know how it’s possible. It’s possible because of racism. It’s
+      possible because Israelis see Palestinians as subhuman savages whose lives are
+      worth far less than their own. Levy acknowledges this further down in his piece:
+      “Viewing human beings — children, the disabled, the elderly, women, and other
+      helpless people as dust, as people whose killing and starvation are legitimate,
+      with their property worthless and their dignity non-existent — is tantamount to
+      being Netanyahu, Ben-Gvir and Smotrich. “Opposing total evil, one must stand for
+      total humanity, which is almost non-existent in Israel.” This is why I always
+      dismiss anyone who tries to defend Israel by citing its widespread protests. They’re
+      not protesting against the genocide, they’re protesting because of Israeli captives
+      and Israeli casualties. It’s a shitty, racist society full of shitty, racist people.
+      https://x.com/Aaronsmith333/status/1962039245738238303 I’ve been thinking about
+      racism more than usual today because of the discourse around anti-immigrant protests
+      this weekend here in Melbourne and around Australia, which were both full of violent
+      neo-Nazis and numerous Israeli flags . The Zionist institutions of Australia who’ve
+      been shrieking their lungs out about pro-Palestine protests these last two years
+      seem to be pretty chill about actual Nazis marching through their streets. All
+      the ugliest things about Australia are also the ugliest things about Israel, and
+      our ugly things happen to get along swimmingly with theirs. https://x.com/purplepingers/status/1962096347471138910
+      To be racist is to admit that you are a dull, vapid person. It’s an admission
+      that you are so intellectually, emotionally and spiritually shallow that you can
+      only enjoy and connect with other human beings in the most superficial of ways.
+      There is no depth to you. There has been no growth in you. You are stunted. You
+      have been wasting your time on this planet instead of maturing and expanding your
+      connectedness with the gift of human life. If you have been growing and maturing,
+      your ability to delight in other people isn’t limited by skin color, culture,
+      language, national background, or religion. You understand that there are whole
+      universes within us beyond those few superficial differences, and we are able
+      to connect with each other on all those various levels in a limitless number of
+      ways. You don’t fear and shun the differentness of others, you take immense enjoyment
+      from it. If you have not been growing and maturing, you lack the ability to enjoy
+      and connect with people who are different from you and your family. You are unaware
+      of the universes within you and within others, so you believe your ability to
+      welcome others into your neighborhood is limited to the most surface-level aspects
+      of them like their skin color, their accent, the way they dress, or their religious
+      beliefs. It’s all you understand about yourself, so it’s all you value in others.
+      https://x.com/ExposingNV/status/1962008249949094343 This is a symptom of a shallow,
+      uninteresting life. Your mind is boring and superficial, because you set up all
+      these walls around it to stop it from growing. Your heart is hardened and cloistered,
+      because you set up barriers to keep people out. Your spirit is stagnant and impoverished,
+      because you placed too many limitations on its natural outpouring. You’re still
+      splashing around in the kiddie pool of the human condition. It’s a waste of a
+      human lifetime to live like this. Open yourself up. Soften your heart. Broaden
+      your mind. Make connections. Delight in the myriad manifestations with which humanity
+      can show up. There is just as much dazzling beauty in other humans as there is
+      in the natural world, and if you can’t see it that’s a defect in your own character.
+      If you don’t learn to grow beyond those limitations, you cut yourself off from
+      unfathomable depths of the human experience that you could instead be taking great
+      joy in. Don’t waste your life on racism. Don’t waste your life on Islamophobia,
+      homophobia, transphobia, or any of the other crude ways we cut ourselves off from
+      the connectivity and appreciation that we are all capable of. Deepen your roots
+      and grow into a mature human being. ________________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: Israeli journalist Gideon Levy criticizes the disparity in
+      concern for lives between Israeli hostages and Palestinians, arguing that many
+      in Israel prioritize the former while ignoring the suffering of the latter.
+    paragraph_summary: In his article for Haaretz, Israeli journalist Gideon Levy expresses
+      his deep frustration with the stark disparity in how Israelis value the lives
+      of their own citizens compared to Palestinians. He critiques the protest movement
+      in Israel, which he believes is primarily concerned with the plight of Israeli
+      hostages while largely ignoring the suffering and deaths of Palestinians, who
+      are often killed in significant numbers by Israeli forces. Levy highlights the
+      hypocrisy in the outrage over individual Israeli tragedies while remaining indifferent
+      to the widespread violence and loss of life in Gaza, attributing this disparity
+      to a pervasive racism that dehumanizes Palestinians. He argues that such attitudes
+      reflect a moral failure akin to that of Israeli leaders like Netanyahu, emphasizing
+      that viewing Palestinians as less than human is a fundamental issue within Israeli
+      society.
+    published: '2025-08-31T13:27:19+00:00'
+  - title: On Israel, Australia, And Racism
+    url: https://www.caitlinjohnst.one/p/on-israel-australia-and-racism
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Israeli journalist Gideon Levy has a new article in Haaretz titled “ Most of Israel’s
+      Protest Movement Only Cares About the Lives of the Gaza Hostages — Not of Palestinians
+      ” where he discusses his frustration and disgust with the massive disparity between
+      the value his countrymen place on Israeli and Palestinian lives. “They worry about
+      the lives of 20 hostages while ignoring the fact that their country kills 20 innocent
+      people an hour on average,” Levy writes. “For them, humanity stops at the borders
+      of nationality. They’ll leave no stone unturned to help any Israeli but avert
+      their gaze with a lack of interest in the case of a Palestinian whose fate is
+      often much worse. They are enraged at Benjamin Netanyahu’s cold-heartedness, but
+      theirs is no less evident. When it comes to Palestinians, they exhibit the same
+      evil and cold hearts.” “How can one be shocked at the sight of starving hostage
+      Evyatar David and shrug or even rejoice at the killing taking place in lines for
+      food?” askes Levy. “How can one be shocked at the murder of the Bibas family yet
+      show no interest in the 1,000 babies and 19,000 children killed by the IDF, or
+      in the 40,000 Gazan orphans? How can one lose sleep over Hamas tunnels and show
+      no interest in what goes on at the Sde Teiman or Megiddo detention centers, to
+      our shame? How is this possible?” https://x.com/infinite_jaz/status/1961959376559759661
+      And, of course, we know how it’s possible. It’s possible because of racism. It’s
+      possible because Israelis see Palestinians as subhuman savages whose lives are
+      worth far less than their own. Levy acknowledges this further down in his piece:
+      “Viewing human beings — children, the disabled, the elderly, women, and other
+      helpless people as dust, as people whose killing and starvation are legitimate,
+      with their property worthless and their dignity non-existent — is tantamount to
+      being Netanyahu, Ben-Gvir and Smotrich. “Opposing total evil, one must stand for
+      total humanity, which is almost non-existent in Israel.” This is why I always
+      dismiss anyone who tries to defend Israel by citing its widespread protests. They’re
+      not protesting against the genocide, they’re protesting because of Israeli captives
+      and Israeli casualties. It’s a shitty, racist society full of shitty, racist people.
+      https://x.com/Aaronsmith333/status/1962039245738238303 I’ve been thinking about
+      racism more than usual today because of the discourse around anti-immigrant protests
+      this weekend here in Melbourne and around Australia, which were both full of violent
+      neo-Nazis and numerous Israeli flags . The Zionist institutions of Australia who’ve
+      been shrieking their lungs out about pro-Palestine protests these last two years
+      seem to be pretty chill about actual Nazis marching through their streets. All
+      the ugliest things about Australia are also the ugliest things about Israel, and
+      our ugly things happen to get along swimmingly with theirs. https://x.com/purplepingers/status/1962096347471138910
+      To be racist is to admit that you are a dull, vapid person. It’s an admission
+      that you are so intellectually, emotionally and spiritually shallow that you can
+      only enjoy and connect with other human beings in the most superficial of ways.
+      There is no depth to you. There has been no growth in you. You are stunted. You
+      have been wasting your time on this planet instead of maturing and expanding your
+      connectedness with the gift of human life. If you have been growing and maturing,
+      your ability to delight in other people isn’t limited by skin color, culture,
+      language, national background, or religion. You understand that there are whole
+      universes within us beyond those few superficial differences, and we are able
+      to connect with each other on all those various levels in a limitless number of
+      ways. You don’t fear and shun the differentness of others, you take immense enjoyment
+      from it. If you have not been growing and maturing, you lack the ability to enjoy
+      and connect with people who are different from you and your family. You are unaware
+      of the universes within you and within others, so you believe your ability to
+      welcome others into your neighborhood is limited to the most surface-level aspects
+      of them like their skin color, their accent, the way they dress, or their religious
+      beliefs. It’s all you understand about yourself, so it’s all you value in others.
+      https://x.com/ExposingNV/status/1962008249949094343 This is a symptom of a shallow,
+      uninteresting life. Your mind is boring and superficial, because you set up all
+      these walls around it to stop it from growing. Your heart is hardened and cloistered,
+      because you set up barriers to keep people out. Your spirit is stagnant and impoverished,
+      because you placed too many limitations on its natural outpouring. You’re still
+      splashing around in the kiddie pool of the human condition. It’s a waste of a
+      human lifetime to live like this. Open yourself up. Soften your heart. Broaden
+      your mind. Make connections. Delight in the myriad manifestations with which humanity
+      can show up. There is just as much dazzling beauty in other humans as there is
+      in the natural world, and if you can’t see it that’s a defect in your own character.
+      If you don’t learn to grow beyond those limitations, you cut yourself off from
+      unfathomable depths of the human experience that you could instead be taking great
+      joy in. Don’t waste your life on racism. Don’t waste your life on Islamophobia,
+      homophobia, transphobia, or any of the other crude ways we cut ourselves off from
+      the connectivity and appreciation that we are all capable of. Deepen your roots
+      and grow into a mature human being. ________________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: Israeli journalist Gideon Levy criticizes the disparity in
+      concern for lives between Israeli hostages and Palestinians, arguing that many
+      in Israel prioritize the former while ignoring the suffering of the latter.
+    paragraph_summary: In his article for Haaretz, Israeli journalist Gideon Levy expresses
+      his deep frustration with the stark disparity in how Israelis value the lives
+      of their own citizens compared to Palestinians. He critiques the protest movement
+      in Israel, which he believes is primarily concerned with the plight of Israeli
+      hostages while largely ignoring the suffering and deaths of Palestinians, who
+      are often killed in significant numbers by Israeli forces. Levy highlights the
+      hypocrisy in the outrage over individual Israeli tragedies while remaining indifferent
+      to the widespread violence and loss of life in Gaza, attributing this disparity
+      to a pervasive racism that dehumanizes Palestinians. He argues that such attitudes
+      reflect a moral failure akin to that of Israeli leaders like Netanyahu, emphasizing
+      that viewing Palestinians as less than human is a fundamental issue within Israeli
+      society.
+    published: '2025-08-31T13:27:19+00:00'
+  - title: They're Lying About Venezuela While Moving War Machinery Into Place
+    url: https://www.caitlinjohnst.one/p/theyre-lying-about-venezuela-while
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      As if we didn’t have enough ugliness in the world right now, Trump has deployed
+      warships near Venezuela’s coast, prompting Caracas to ready drone and naval patrols
+      for conflict. In an article titled “ Inside Trump’s gunboat diplomacy with Venezuela
+      ,” Axios’ Marc Caputo writes that “The U.S. has never been closer to armed conflict
+      with Venezuela, with a fully loaded U.S. flotilla sitting off its coast and dictator
+      Nicolás Maduro living under a $50 million bounty.” “President Trump ordered seven
+      warships carrying 4,500 personnel — including three guided-missile destroyers
+      and at least one attack submarine — to the waters off Venezuela,” Caputo writes.
+      “Officially, they’re there to combat drug trafficking. But Press Secretary Karoline
+      Leavitt leaned into the ambiguity of the mission on Thursday, noting that the
+      U.S. considers Maduro the ‘fugitive head of [a] drug cartel’ and not Venezuela’s
+      legitimate president.” The US personnel reportedly include some 2,200 Marines.
+      “This could be Noriega part 2,” an unnamed official in the Trump administration
+      told Axios, saying that “Maduro should be shitting bricks.” https://x.com/wikileaks/status/1961798873321447899
+      So they’re not even disguising the fact that Trump is at least contemplating some
+      kind of direct military strike on Caracas. Drugs are the official-official reason
+      for the deployment, but the unofficial-official reason that’s being freely leaked
+      to the press is to remove the leader of a sovereign state. It’s probably worth
+      noting that Trump-aligned pundits like Alex Jones have been busy manufacturing
+      consent for regime change intervention in Venezuela. “I don’t like any of these
+      wars,” Jones said recently on whatever his show is called now. “But if you look
+      at US doctrine and wars that we fought that were right, it’s in Latin America,
+      this is our sandbox. And Venezuela is a communist dictatorship with the biggest
+      oil reserves per square foot in the world, their people are absolute slaves, and
+      I don’t like regime change, but they’re manipulating our elections, they’re flooding
+      us with Fentanyl, and if there were surgical strikes to take out the communists
+      there would be an uprising and they could have elections, and it would be a good
+      thing.” Jones could have stopped at “communist” and “oil reserves”. Venezuela
+      has the largest proven oil reserves of any country on the planet, and is not aligned
+      with the capitalist western empire that is loosely centralized around Washington
+      DC. Any reasons given for US regime change intervention beyond this should be
+      read as excuses. https://x.com/RealAlexJones/status/1958610464738250822 Whenever
+      the US war machine moves its crosshairs to a different target I always get people
+      telling me “No no Caitlin, THIS time the Evil Bad Guy really DOES need to be regime
+      changed! THIS time our government and media are telling us the TRUTH!” And it’s
+      always so stupid, because it’s just the same rehashed lies over and over again.
+      The empire takes whatever actions will help it to dominate our planet and its
+      resources to a greater extent than it already does, and then it makes up justifications
+      for those actions. They’ll say they’re doing it for humanitarian reasons while
+      ignoring the humanitarian abuses of empire-aligned nations. They’ll say they’re
+      doing it to stop drug abuse while ignoring all the evidence regarding the actual
+      causes of drug abuse , even as Maduro sends 15,000 troops to the Colombian border
+      to help fight drug trafficking. They’ll say they’re doing it to stop interference
+      in US affairs while letting US-aligned nations like Israel interfere in US politics
+      at will. They’re just lying. The US empire lies about all its acts of war . Trump
+      tried to orchestrate a regime change in Venezuela the last time he was in office,
+      and he’s doing it again for the exact same reasons. It’s an oil-rich nation that
+      refuses to bow to the dictates of Washington, and all the worst warmongers in
+      the imperial swamp are eagerly pushing to absorb it into the folds of the empire.
+      That’s all we are looking at here, and anyone who says otherwise is lying. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: Trump has stationed warships near Venezuela, escalating tensions
+      as Caracas prepares for potential conflict amid U.S. claims of combating drug
+      trafficking and a bounty on Maduro.
+    paragraph_summary: The article discusses the escalating tensions between the U.S.
+      and Venezuela, highlighting President Trump's deployment of seven warships near
+      Venezuela's coast, which has prompted the Venezuelan government to prepare for
+      potential conflict. Axios reporter Marc Caputo notes that the U.S. military presence,
+      officially aimed at combating drug trafficking, is also seen as a move to challenge
+      Nicolás Maduro's regime, which the U.S. does not recognize as legitimate. With
+      4,500 personnel, including Marines, on board, some officials suggest that this
+      situation could lead to a direct military intervention reminiscent of past U.S.
+      actions in Latin America. The article also mentions that Trump-aligned commentators
+      are advocating for regime change in Venezuela, framing it as a necessary step
+      against a "communist dictatorship" with significant oil reserves.
+    published: '2025-08-31T02:33:07+00:00'
+  - title: They're Lying About Venezuela While Moving War Machinery Into Place
+    url: https://www.caitlinjohnst.one/p/theyre-lying-about-venezuela-while
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      As if we didn’t have enough ugliness in the world right now, Trump has deployed
+      warships near Venezuela’s coast, prompting Caracas to ready drone and naval patrols
+      for conflict. In an article titled “ Inside Trump’s gunboat diplomacy with Venezuela
+      ,” Axios’ Marc Caputo writes that “The U.S. has never been closer to armed conflict
+      with Venezuela, with a fully loaded U.S. flotilla sitting off its coast and dictator
+      Nicolás Maduro living under a $50 million bounty.” “President Trump ordered seven
+      warships carrying 4,500 personnel — including three guided-missile destroyers
+      and at least one attack submarine — to the waters off Venezuela,” Caputo writes.
+      “Officially, they’re there to combat drug trafficking. But Press Secretary Karoline
+      Leavitt leaned into the ambiguity of the mission on Thursday, noting that the
+      U.S. considers Maduro the ‘fugitive head of [a] drug cartel’ and not Venezuela’s
+      legitimate president.” The US personnel reportedly include some 2,200 Marines.
+      “This could be Noriega part 2,” an unnamed official in the Trump administration
+      told Axios, saying that “Maduro should be shitting bricks.” https://x.com/wikileaks/status/1961798873321447899
+      So they’re not even disguising the fact that Trump is at least contemplating some
+      kind of direct military strike on Caracas. Drugs are the official-official reason
+      for the deployment, but the unofficial-official reason that’s being freely leaked
+      to the press is to remove the leader of a sovereign state. It’s probably worth
+      noting that Trump-aligned pundits like Alex Jones have been busy manufacturing
+      consent for regime change intervention in Venezuela. “I don’t like any of these
+      wars,” Jones said recently on whatever his show is called now. “But if you look
+      at US doctrine and wars that we fought that were right, it’s in Latin America,
+      this is our sandbox. And Venezuela is a communist dictatorship with the biggest
+      oil reserves per square foot in the world, their people are absolute slaves, and
+      I don’t like regime change, but they’re manipulating our elections, they’re flooding
+      us with Fentanyl, and if there were surgical strikes to take out the communists
+      there would be an uprising and they could have elections, and it would be a good
+      thing.” Jones could have stopped at “communist” and “oil reserves”. Venezuela
+      has the largest proven oil reserves of any country on the planet, and is not aligned
+      with the capitalist western empire that is loosely centralized around Washington
+      DC. Any reasons given for US regime change intervention beyond this should be
+      read as excuses. https://x.com/RealAlexJones/status/1958610464738250822 Whenever
+      the US war machine moves its crosshairs to a different target I always get people
+      telling me “No no Caitlin, THIS time the Evil Bad Guy really DOES need to be regime
+      changed! THIS time our government and media are telling us the TRUTH!” And it’s
+      always so stupid, because it’s just the same rehashed lies over and over again.
+      The empire takes whatever actions will help it to dominate our planet and its
+      resources to a greater extent than it already does, and then it makes up justifications
+      for those actions. They’ll say they’re doing it for humanitarian reasons while
+      ignoring the humanitarian abuses of empire-aligned nations. They’ll say they’re
+      doing it to stop drug abuse while ignoring all the evidence regarding the actual
+      causes of drug abuse , even as Maduro sends 15,000 troops to the Colombian border
+      to help fight drug trafficking. They’ll say they’re doing it to stop interference
+      in US affairs while letting US-aligned nations like Israel interfere in US politics
+      at will. They’re just lying. The US empire lies about all its acts of war . Trump
+      tried to orchestrate a regime change in Venezuela the last time he was in office,
+      and he’s doing it again for the exact same reasons. It’s an oil-rich nation that
+      refuses to bow to the dictates of Washington, and all the worst warmongers in
+      the imperial swamp are eagerly pushing to absorb it into the folds of the empire.
+      That’s all we are looking at here, and anyone who says otherwise is lying. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Adobe Stock.'
+    one_sentence_summary: Trump has stationed warships near Venezuela, escalating tensions
+      as Caracas prepares for potential conflict amid U.S. claims of combating drug
+      trafficking and a bounty on Maduro.
+    paragraph_summary: The article discusses the escalating tensions between the U.S.
+      and Venezuela, highlighting President Trump's deployment of seven warships near
+      Venezuela's coast, which has prompted the Venezuelan government to prepare for
+      potential conflict. Axios reporter Marc Caputo notes that the U.S. military presence,
+      officially aimed at combating drug trafficking, is also seen as a move to challenge
+      Nicolás Maduro's regime, which the U.S. does not recognize as legitimate. With
+      4,500 personnel, including Marines, on board, some officials suggest that this
+      situation could lead to a direct military intervention reminiscent of past U.S.
+      actions in Latin America. The article also mentions that Trump-aligned commentators
+      are advocating for regime change in Venezuela, framing it as a necessary step
+      against a "communist dictatorship" with significant oil reserves.
+    published: '2025-08-31T02:33:07+00:00'
+  - title: Dear Western Liberal,
+    url: https://www.caitlinjohnst.one/p/dear-western-liberal
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Dear western liberal, Saying “I support a two-state solution” does not release
+      you from your moral obligation to ferociously oppose a genocide backed by your
+      own government. Saying “I oppose Netanyahu” does not release you from your moral
+      obligation to ferociously oppose a genocide backed by your own government. Saying
+      you find the Gaza holocaust “heartbreaking” and “terrible” does not release you
+      from your moral obligation to ferociously oppose a genocide backed by your own
+      government. Saying “I want there to be peace” does not release you from your moral
+      obligation to ferociously oppose a genocide backed by your own government. Saying
+      you think “both sides” should cease their aggressions does not release you from
+      your moral obligation to ferociously oppose a genocide backed by your own government.
+      Saying “it’s complicated and I don’t understand it” does not release you from
+      your moral obligation to ferociously oppose a genocide backed by your own government.
+      Saying “Hamas attacked on October 7” does not release you from your moral obligation
+      to ferociously oppose a genocide backed by your own government. Saying “the Jews
+      deserve a homeland” does not release you from your moral obligation to ferociously
+      oppose a genocide backed by your own government. Saying “I’m busy” does not release
+      you from your moral obligation to ferociously oppose a genocide backed by your
+      own government. Saying “I’m overwhelmed” does not release you from your moral
+      obligation to ferociously oppose a genocide backed by your own government. We
+      are all morally obligated to do everything we can to oppose a live-streamed genocide
+      that’s being facilitated, supported and defended by the western power structure
+      under which we live. Nothing besides tooth-and-claw ferocious opposition satisfies
+      that moral obligation. Don’t tell me about your feelings. Don’t tell me what political
+      positions you support. Don’t tell me what thoughts you privately think to yourself.
+      Do everything you can to stop the genocide that’s being facilitated by your government
+      and its allies. Nothing else qualifies. Nothing else is defensible. Nothing else
+      will satisfy the questions you’ll be asked by younger generations about what you
+      did during the Gaza holocaust. _____________________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that expressing support for a two-state
+      solution or opposing specific leaders does not absolve individuals from their
+      moral responsibility to actively oppose genocide, particularly when it is supported
+      by their own government.
+    paragraph_summary: The article emphasizes that merely expressing support for a two-state
+      solution or opposing specific political figures does not absolve individuals,
+      particularly in the West, from their moral duty to actively oppose what the author
+      describes as a genocide supported by their own governments. It argues that feelings
+      of heartbreak or complexity regarding the situation in Gaza, as well as claims
+      of being busy or overwhelmed, do not excuse inaction. The piece calls for a vigorous
+      and unwavering opposition to the violence and oppression occurring, stressing
+      that true moral obligation requires more than passive acknowledgment or political
+      statements.
+    published: '2025-08-30T02:09:41+00:00'
+  - title: Dear Western Liberal,
+    url: https://www.caitlinjohnst.one/p/dear-western-liberal
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Dear western liberal, Saying “I support a two-state solution” does not release
+      you from your moral obligation to ferociously oppose a genocide backed by your
+      own government. Saying “I oppose Netanyahu” does not release you from your moral
+      obligation to ferociously oppose a genocide backed by your own government. Saying
+      you find the Gaza holocaust “heartbreaking” and “terrible” does not release you
+      from your moral obligation to ferociously oppose a genocide backed by your own
+      government. Saying “I want there to be peace” does not release you from your moral
+      obligation to ferociously oppose a genocide backed by your own government. Saying
+      you think “both sides” should cease their aggressions does not release you from
+      your moral obligation to ferociously oppose a genocide backed by your own government.
+      Saying “it’s complicated and I don’t understand it” does not release you from
+      your moral obligation to ferociously oppose a genocide backed by your own government.
+      Saying “Hamas attacked on October 7” does not release you from your moral obligation
+      to ferociously oppose a genocide backed by your own government. Saying “the Jews
+      deserve a homeland” does not release you from your moral obligation to ferociously
+      oppose a genocide backed by your own government. Saying “I’m busy” does not release
+      you from your moral obligation to ferociously oppose a genocide backed by your
+      own government. Saying “I’m overwhelmed” does not release you from your moral
+      obligation to ferociously oppose a genocide backed by your own government. We
+      are all morally obligated to do everything we can to oppose a live-streamed genocide
+      that’s being facilitated, supported and defended by the western power structure
+      under which we live. Nothing besides tooth-and-claw ferocious opposition satisfies
+      that moral obligation. Don’t tell me about your feelings. Don’t tell me what political
+      positions you support. Don’t tell me what thoughts you privately think to yourself.
+      Do everything you can to stop the genocide that’s being facilitated by your government
+      and its allies. Nothing else qualifies. Nothing else is defensible. Nothing else
+      will satisfy the questions you’ll be asked by younger generations about what you
+      did during the Gaza holocaust. _____________________ Caitlin’s Newsletter is a
+      reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article argues that expressing support for a two-state
+      solution or opposing specific leaders does not absolve individuals from their
+      moral responsibility to actively oppose genocide, particularly when it is supported
+      by their own government.
+    paragraph_summary: The article emphasizes that merely expressing support for a two-state
+      solution or opposing specific political figures does not absolve individuals,
+      particularly in the West, from their moral duty to actively oppose what the author
+      describes as a genocide supported by their own governments. It argues that feelings
+      of heartbreak or complexity regarding the situation in Gaza, as well as claims
+      of being busy or overwhelmed, do not excuse inaction. The piece calls for a vigorous
+      and unwavering opposition to the violence and oppression occurring, stressing
+      that true moral obligation requires more than passive acknowledgment or political
+      statements.
+    published: '2025-08-30T02:09:41+00:00'
+  - title: Western Civilization Is Not Worth Saving
+    url: https://www.caitlinjohnst.one/p/western-civilization-is-not-worth
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Western civilization is not worth saving. I think that’s been pretty well established
+      by now. That’s one of the silliest things about the way rightists are always babbling
+      about how we need to protect our way of life from immigrants or Islam or “the
+      trans agenda” or whatever. They’re beginning with the assumption that this train
+      wreck of a society is worth saving at all. I am not saying that westerners should
+      die. I am not saying that all the ideals and values that westerners purport to
+      hold are worthless. I am saying that this civilization, as it actually exists,
+      is an indefensible disaster. Clearly. Our way of living on this planet. The way
+      we treat one another. The way we treat people on other continents. All the systems
+      and social structures that give rise to the way things are. These things should
+      not exist. We should not be the way that we are. This civilization is genocidal.
+      Ecocidal. Omnicidal. Imperialist. Racist. Dehumanizing. Degrading. Dystopian.
+      Emotionally stunted. Culturally vapid. Spiritually impoverished. Intellectually
+      enslaved. Why would any sane person want this to continue? We don’t need to rescue
+      western civilization from outside forces, we need to rescue ourselves from western
+      civilization. If we listen to our hearts we can understand that the call isn’t
+      to save western civilization from corruption by foreign cultures or new ways of
+      thinking, but to radically transform it from the murderous, tyrannical and oppressive
+      nightmare that it has always been. The western way of life doesn’t need to be
+      preserved, it needs to end. We cannot keep doing this. We cannot go on this way.
+      We cannot keep poisoning our planet, our minds, our hearts and our souls with
+      the McGenocide ideology of the western empire. We are headed somewhere dark, somewhere
+      none of us want to go, and we need to turn around. Nothing about our old way of
+      doing things has worked out for us. Everything we were doing before wound up bringing
+      us to this terrible point. We don’t need to go backwards, and we don’t need to
+      stay still. We need to evolve. Gaza is a mirror. It’s showing us what we are.
+      What we have always been. It’s time to be real about what we are seeing. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Maryland GovPics (CC BY 2.0)'
+    one_sentence_summary: The article argues that Western civilization, as it currently
+      exists, is fundamentally flawed and indefensible, suggesting that its values and
+      systems contribute to widespread harm and should not be preserved.
+    paragraph_summary: The article argues that Western civilization, as it currently
+      exists, is fundamentally flawed and not worth saving. The author critiques the
+      notion that Western values and systems should be preserved against perceived threats
+      from immigration, Islam, or progressive movements, asserting instead that the
+      civilization is characterized by genocide, ecocide, imperialism, and various forms
+      of oppression. Rather than defending this way of life, the author calls for a
+      radical transformation of society, emphasizing the need to abandon destructive
+      practices and ideologies that harm both people and the planet. The piece advocates
+      for a reevaluation of what it means to live in the West, suggesting that the focus
+      should be on healing and change rather than preservation.
+    published: '2025-08-29T01:39:35+00:00'
+  - title: Western Civilization Is Not Worth Saving
+    url: https://www.caitlinjohnst.one/p/western-civilization-is-not-worth
+    text: 'Listen to a reading of this article (reading by Tim Foley) : Subscribe now
+      Western civilization is not worth saving. I think that’s been pretty well established
+      by now. That’s one of the silliest things about the way rightists are always babbling
+      about how we need to protect our way of life from immigrants or Islam or “the
+      trans agenda” or whatever. They’re beginning with the assumption that this train
+      wreck of a society is worth saving at all. I am not saying that westerners should
+      die. I am not saying that all the ideals and values that westerners purport to
+      hold are worthless. I am saying that this civilization, as it actually exists,
+      is an indefensible disaster. Clearly. Our way of living on this planet. The way
+      we treat one another. The way we treat people on other continents. All the systems
+      and social structures that give rise to the way things are. These things should
+      not exist. We should not be the way that we are. This civilization is genocidal.
+      Ecocidal. Omnicidal. Imperialist. Racist. Dehumanizing. Degrading. Dystopian.
+      Emotionally stunted. Culturally vapid. Spiritually impoverished. Intellectually
+      enslaved. Why would any sane person want this to continue? We don’t need to rescue
+      western civilization from outside forces, we need to rescue ourselves from western
+      civilization. If we listen to our hearts we can understand that the call isn’t
+      to save western civilization from corruption by foreign cultures or new ways of
+      thinking, but to radically transform it from the murderous, tyrannical and oppressive
+      nightmare that it has always been. The western way of life doesn’t need to be
+      preserved, it needs to end. We cannot keep doing this. We cannot go on this way.
+      We cannot keep poisoning our planet, our minds, our hearts and our souls with
+      the McGenocide ideology of the western empire. We are headed somewhere dark, somewhere
+      none of us want to go, and we need to turn around. Nothing about our old way of
+      doing things has worked out for us. Everything we were doing before wound up bringing
+      us to this terrible point. We don’t need to go backwards, and we don’t need to
+      stay still. We need to evolve. Gaza is a mirror. It’s showing us what we are.
+      What we have always been. It’s time to be real about what we are seeing. ________________
+      Caitlin’s Newsletter is a reader-supported publication. To receive new posts and
+      support my work, consider becoming a free or paid subscriber. The best way to
+      make sure you see everything I write is to get on my free mailing list . My work
+      is entirely reader-supported , so if you enjoyed this piece here are some options
+      where you can toss some money into my tip jar if you want to. Click here for links
+      for my social media, books, merch, and audio/video versions of each article .
+      All my work is free to bootleg and use in any way, shape or form; republish it,
+      translate it, use it on merchandise; whatever you want. All works co-authored
+      with my husband Tim Foley. Bitcoin donations: 1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2
+      Feature image via Maryland GovPics (CC BY 2.0)'
+    one_sentence_summary: The article argues that Western civilization, as it currently
+      exists, is fundamentally flawed and indefensible, suggesting that its values and
+      systems contribute to widespread harm and should not be preserved.
+    paragraph_summary: The article argues that Western civilization, as it currently
+      exists, is fundamentally flawed and not worth saving. The author critiques the
+      notion that Western values and systems should be preserved against perceived threats
+      from immigration, Islam, or progressive movements, asserting instead that the
+      civilization is characterized by genocide, ecocide, imperialism, and various forms
+      of oppression. Rather than defending this way of life, the author calls for a
+      radical transformation of society, emphasizing the need to abandon destructive
+      practices and ideologies that harm both people and the planet. The piece advocates
+      for a reevaluation of what it means to live in the West, suggesting that the focus
+      should be on healing and change rather than preservation.
+    published: '2025-08-29T01:39:35+00:00'
+  - title: '"The Arabs Hate Us Because Of Our Religion" Is The New "They Hate Us For
+      Our Freedom"'
+    url: https://www.caitlinjohnst.one/p/the-arabs-hate-us-because-of-our
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now Israelis who say “the Arabs hate us because
+      of our religion” are as self-evidently moronic as the Americans who said “they
+      hate us for our freedom”. In both cases the answer is no, dipshit, they hate you
+      because of the horrific things to do to them. ❖ Western leaders who say they’ll
+      recognize a Palestinian state while feebly calling on Both Sides to reach a ceasefire
+      deal are just cuter, more photogenic versions of Netanyahu. They’re making empty
+      noises to appear as though they’re doing something while refusing to actually
+      lift a finger to stop the genocide. They know Israel’s not going to make a permanent
+      ceasefire deal because Netanyahu has explicitly stated that the slaughter won’t
+      end until the ethnic cleansing of Gaza is complete . That’s why Tel Aviv is just
+      ignoring the fact that Hamas agreed to a ceasefire a week and a half ago; there
+      is absolutely nothing Hamas could agree to which would stop Israel from doing
+      everything it needs to do to steal a Palestinian territory from the Palestinians
+      who live there. The assault on Gaza has never been about removing Hamas; it has
+      always been about removing the Palestinians. Western leaders are pretending not
+      to know this and promoting the false notion that Israel is basically acting in
+      good faith in these negotiations, and that the only obstacle is Israel and Hamas
+      being unable to successfully agree to terms. Participating in this mass deception
+      while refusing to take any concrete actions to end the genocide is participating
+      in the genocide. They’re not dropping the bombs or firing the bullets, but they’re
+      helping to make sure they keep raining death and destruction on Palestinians.
+      They are Netanyahu with a nice guy smile. They are good cop Netanyahu. https://x.com/caitoz/status/1960821158707912996
+      ❖ After the Australian government announced its ASIO-sourced conclusion that Iran
+      had directed multiple antisemitic attacks in Australia in order to “undermine
+      social cohesion and sow discord,” I published a list of questions regarding the
+      matter which included the following: “ 7. What foreign intelligence agencies were
+      involved in helping ASIO gather the information it used to make its assessment
+      about the Iranian involvement in these incidents?” Shortly thereafter, Sky News
+      Australia ran a report titled “ Sources reveal Israeli intelligence assisted ASIO
+      investigation into Iran in major tip-off ”. So I guess we can consider that question
+      answered. ❖ https://x.com/caitoz/status/1960849307554472051 ❖ One of the reasons
+      socialists don’t focus on conspiracy analysis and the deep state as much as the
+      right is because it’s not our only argument. It’s not that conspiracies and parapolitical
+      power structures don’t exist, they absolutely do, but because we’re not ideologically
+      compelled to make excuses for the unavoidable abuses of capitalism we don’t need
+      to act like any specific cabal of machiavellian elites is the source and summit
+      of all our problems. The rightist suffers from the delusion that capitalism would
+      be working perfectly fine if a few nefarious individuals weren’t scheming behind
+      the scenes ruining the capitalism for everyone. The leftist recognizes that corruption,
+      corporatism, inequality and domination are the inevitable products of a profit-driven
+      system under which the capitalist class are able to exploit the working class
+      who have nothing to sell but their labor. We therefore often find it less important
+      to focus on the specifics of the way those abuses are playing out, because we
+      understand that even if you eliminated all the current oligarchs and their secret
+      plans and the strings they pull to manipulate the official government, if you
+      didn’t also replace our entire system with something radically different they’d
+      be replaced by new oligarchic manipulators in short order. For those who understand
+      the inherently exploitative, ecocidal, unjust and violent nature of capitalism,
+      the strongest arguments against status quo power structures are not invisible
+      conspiracies happening in secret, but the monstrous abuses that are happening
+      right out in the open. The genocide in Gaza. Our dying biosphere. The fact that
+      people struggle to keep a roof over their heads and put food on the table while
+      others fly private jets to private islands paid for by the exploitation of thousands
+      of impoverished workers. The fact that the most powerful country on earth doesn’t
+      have a real healthcare system. The fact that an empire-like alliance of western
+      governments and their proxies keeps expanding its warmongering, militarism and
+      nuclear brinkmanship around the world with the goal of complete planetary domination.
+      It is an indisputable fact that rich and powerful individuals conspire with each
+      other to the detriment of ordinary people, and at times it can be useful to highlight
+      who those individuals are and the things that they are doing. But the leftist
+      sees people opening their eyes to these abuses as a means to an end, not as an
+      end in itself. When the rightist spotlights those abuses it’s to say “Look what
+      these individuals are doing! If we just removed these individuals from power everything
+      would be working fine!” When the leftist does so, it’s to say “See these are the
+      kinds of people who rise to the top under a system where human behavior is driven
+      by the pursuit of profit, and profit is most readily obtained through exploitation,
+      injustice and ecocide. These kinds of people will always rule over us until we
+      have replaced that system with a different one.” ________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article criticizes both Israeli and Western leaders for
+      their failure to acknowledge the root causes of conflict in the region, arguing
+      that their superficial responses and empty promises only serve to perpetuate violence
+      and ignore the ongoing humanitarian crisis in Gaza.
+    paragraph_summary: The article critiques the simplistic narratives surrounding the
+      Israeli-Palestinian conflict, particularly the idea that animosity stems from
+      religious differences. It argues that both Israeli and Western leaders are complicit
+      in the ongoing violence against Palestinians by making empty statements about
+      peace while failing to take meaningful action to halt the genocide in Gaza. The
+      author contends that the true objective of Israel is the ethnic cleansing of Palestinians,
+      rather than the elimination of Hamas, and that Western leaders are perpetuating
+      a false narrative that obscures this reality. By not addressing the root causes
+      of the conflict and merely calling for ceasefires without genuine intent, these
+      leaders are seen as enabling the ongoing atrocities.
+    published: '2025-08-28T12:02:40+00:00'
+  - title: '"The Arabs Hate Us Because Of Our Religion" Is The New "They Hate Us For
+      Our Freedom"'
+    url: https://www.caitlinjohnst.one/p/the-arabs-hate-us-because-of-our
+    text: 'Notes From The Edge Of The Narrative Matrix Listen to a reading of this article
+      (reading by Tim Foley) : Subscribe now Israelis who say “the Arabs hate us because
+      of our religion” are as self-evidently moronic as the Americans who said “they
+      hate us for our freedom”. In both cases the answer is no, dipshit, they hate you
+      because of the horrific things to do to them. ❖ Western leaders who say they’ll
+      recognize a Palestinian state while feebly calling on Both Sides to reach a ceasefire
+      deal are just cuter, more photogenic versions of Netanyahu. They’re making empty
+      noises to appear as though they’re doing something while refusing to actually
+      lift a finger to stop the genocide. They know Israel’s not going to make a permanent
+      ceasefire deal because Netanyahu has explicitly stated that the slaughter won’t
+      end until the ethnic cleansing of Gaza is complete . That’s why Tel Aviv is just
+      ignoring the fact that Hamas agreed to a ceasefire a week and a half ago; there
+      is absolutely nothing Hamas could agree to which would stop Israel from doing
+      everything it needs to do to steal a Palestinian territory from the Palestinians
+      who live there. The assault on Gaza has never been about removing Hamas; it has
+      always been about removing the Palestinians. Western leaders are pretending not
+      to know this and promoting the false notion that Israel is basically acting in
+      good faith in these negotiations, and that the only obstacle is Israel and Hamas
+      being unable to successfully agree to terms. Participating in this mass deception
+      while refusing to take any concrete actions to end the genocide is participating
+      in the genocide. They’re not dropping the bombs or firing the bullets, but they’re
+      helping to make sure they keep raining death and destruction on Palestinians.
+      They are Netanyahu with a nice guy smile. They are good cop Netanyahu. https://x.com/caitoz/status/1960821158707912996
+      ❖ After the Australian government announced its ASIO-sourced conclusion that Iran
+      had directed multiple antisemitic attacks in Australia in order to “undermine
+      social cohesion and sow discord,” I published a list of questions regarding the
+      matter which included the following: “ 7. What foreign intelligence agencies were
+      involved in helping ASIO gather the information it used to make its assessment
+      about the Iranian involvement in these incidents?” Shortly thereafter, Sky News
+      Australia ran a report titled “ Sources reveal Israeli intelligence assisted ASIO
+      investigation into Iran in major tip-off ”. So I guess we can consider that question
+      answered. ❖ https://x.com/caitoz/status/1960849307554472051 ❖ One of the reasons
+      socialists don’t focus on conspiracy analysis and the deep state as much as the
+      right is because it’s not our only argument. It’s not that conspiracies and parapolitical
+      power structures don’t exist, they absolutely do, but because we’re not ideologically
+      compelled to make excuses for the unavoidable abuses of capitalism we don’t need
+      to act like any specific cabal of machiavellian elites is the source and summit
+      of all our problems. The rightist suffers from the delusion that capitalism would
+      be working perfectly fine if a few nefarious individuals weren’t scheming behind
+      the scenes ruining the capitalism for everyone. The leftist recognizes that corruption,
+      corporatism, inequality and domination are the inevitable products of a profit-driven
+      system under which the capitalist class are able to exploit the working class
+      who have nothing to sell but their labor. We therefore often find it less important
+      to focus on the specifics of the way those abuses are playing out, because we
+      understand that even if you eliminated all the current oligarchs and their secret
+      plans and the strings they pull to manipulate the official government, if you
+      didn’t also replace our entire system with something radically different they’d
+      be replaced by new oligarchic manipulators in short order. For those who understand
+      the inherently exploitative, ecocidal, unjust and violent nature of capitalism,
+      the strongest arguments against status quo power structures are not invisible
+      conspiracies happening in secret, but the monstrous abuses that are happening
+      right out in the open. The genocide in Gaza. Our dying biosphere. The fact that
+      people struggle to keep a roof over their heads and put food on the table while
+      others fly private jets to private islands paid for by the exploitation of thousands
+      of impoverished workers. The fact that the most powerful country on earth doesn’t
+      have a real healthcare system. The fact that an empire-like alliance of western
+      governments and their proxies keeps expanding its warmongering, militarism and
+      nuclear brinkmanship around the world with the goal of complete planetary domination.
+      It is an indisputable fact that rich and powerful individuals conspire with each
+      other to the detriment of ordinary people, and at times it can be useful to highlight
+      who those individuals are and the things that they are doing. But the leftist
+      sees people opening their eyes to these abuses as a means to an end, not as an
+      end in itself. When the rightist spotlights those abuses it’s to say “Look what
+      these individuals are doing! If we just removed these individuals from power everything
+      would be working fine!” When the leftist does so, it’s to say “See these are the
+      kinds of people who rise to the top under a system where human behavior is driven
+      by the pursuit of profit, and profit is most readily obtained through exploitation,
+      injustice and ecocide. These kinds of people will always rule over us until we
+      have replaced that system with a different one.” ________________ Caitlin’s Newsletter
+      is a reader-supported publication. To receive new posts and support my work, consider
+      becoming a free or paid subscriber. The best way to make sure you see everything
+      I write is to get on my free mailing list . My work is entirely reader-supported
+      , so if you enjoyed this piece here are some options where you can toss some money
+      into my tip jar if you want to. Click here for links for my social media, books,
+      merch, and audio/video versions of each article . All my work is free to bootleg
+      and use in any way, shape or form; republish it, translate it, use it on merchandise;
+      whatever you want. All works co-authored with my husband Tim Foley. Bitcoin donations:
+      1Ac7PCQXoQoLA9Sh8fhAgiU3PHA2EX5Zm2 Feature image via Adobe Stock.'
+    one_sentence_summary: The article criticizes both Israeli and Western leaders for
+      their failure to acknowledge the root causes of conflict in the region, arguing
+      that their superficial responses and empty promises only serve to perpetuate violence
+      and ignore the ongoing humanitarian crisis in Gaza.
+    paragraph_summary: The article critiques the simplistic narratives surrounding the
+      Israeli-Palestinian conflict, particularly the idea that animosity stems from
+      religious differences. It argues that both Israeli and Western leaders are complicit
+      in the ongoing violence against Palestinians by making empty statements about
+      peace while failing to take meaningful action to halt the genocide in Gaza. The
+      author contends that the true objective of Israel is the ethnic cleansing of Palestinians,
+      rather than the elimination of Hamas, and that Western leaders are perpetuating
+      a false narrative that obscures this reality. By not addressing the root causes
+      of the conflict and merely calling for ceasefires without genuine intent, these
+      leaders are seen as enabling the ongoing atrocities.
+    published: '2025-08-28T12:02:40+00:00'
   - title: 21 Questions About The Claim That Iran Orchestrated Antisemitic Attacks In
       Australia
     url: https://www.caitlinjohnst.one/p/21-questions-about-the-claim-that
